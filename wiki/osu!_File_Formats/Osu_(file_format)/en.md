@@ -40,7 +40,7 @@ PreviewTime (Integer, milliseconds) defines when the audio file should begin pla
 
 `PreviewTime: 10013`
 
-Countdown (Boolean) specifies whether or not a countdown occurs before the first hit object appears.
+Countdown (Integer) specifies the speed of the countdown which occurs before the first hit object appears. (0=No countdown, 1=Normal, 2=Half, 3=Double)
 
 `Countdown: 0`
 
@@ -60,21 +60,29 @@ LetterboxInBreaks (Boolean) specifies whether the letterbox appears during break
 
 `LetterboxInBreaks: 0`
 
-WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
-
-`WidescreenStoryboard: 0`
-
 StoryFireInFront (Boolean) specifies whether or not display the storyboard in front of combo fire.
 
 `StoryFireInFront: 0`
 
-SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
+SkinPreference (String) specifies the preferred skin to use during gameplay.
 
-`SpecialStyle: 0`
+`SkinPreference:Default`
 
 EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning of the beatmap.
 
 `EpilepsyWarning: 0`
+
+CountdownOffset (Integer) specifies how many beats earlier the countdown starts.
+
+`CountdownOffset: 0`
+
+WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
+
+`WidescreenStoryboard: 0`
+
+SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
+
+`SpecialStyle: 0`
 
 UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's skin resources.
 
@@ -430,7 +438,7 @@ A **linear** slider has a start, specified in *x* and *y* from the common fields
 
 A **perfect** circle slider is defined by three points. In that order: start, pass-through, and end. *x* and *y* define the start point, and *curvePoints* defines the pass-through and end point. For example `P|250:200|200:15`.
 
-A perfect circle slider could be represented as a center point, a radius, and two angles for convenience. See this source code for the conversion algorithm: [CircularArcApproximator.cs](https://github.com/ppy/osu/blob/master/osu.Game/Rulesets/Objects/CircularArcApproximator.cs).
+A perfect circle slider could be represented as a center point, a radius, and two angles for convenience. See this source code for the conversion algorithm: [PathApproximator.cs](https://github.com/ppy/osu-framework/blob/master/osu.Framework/MathUtils/PathApproximator.cs).
 
 A **Bézier** slider is made of one or many Bézier curves, sharing common ends. The degree of each curve is arbitrary. The first control points is defined with *x* and *y*, and the other ones by *curvePoints*.
 

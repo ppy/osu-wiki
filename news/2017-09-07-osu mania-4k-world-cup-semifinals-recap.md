@@ -10,7 +10,9 @@ With a field of 12 teams being cut in half in this stage of the tournament, the 
 
 ### Navigation
 
-<a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
+- [Mappool](#mappool)
+- [Tournament Matches](#matches)
+- [Looking Ahead](#ahead)
 
 --------
 

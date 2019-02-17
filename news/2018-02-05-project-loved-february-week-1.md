@@ -20,9 +20,11 @@ Let's get stuck in!
 
 ### Navigation
 
-<a href="#osu">osu!</a></br><a href="#osutaiko">osu!taiko</a></br><a href="#osumania">osu!mania</a>
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!mania](#osumania)
 
-### <a name="osu" id="osu"></a>osu!
+## <a name="osu" id="osu"></a>osu!
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu/snow-drive.jpg)](https://osu.ppy.sh/community/forums/topics/699475)
 
@@ -80,7 +82,7 @@ To end the list for the osu! mode, [Necroluttah](https://osu.ppy.sh/u/2917471)'s
 
 This set has amassed over 230 favourites and remains one of the most popular unranked 8* maps. Though only 2 minutes long, it's a wild ride.
 
-### <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/taiko/ishikitakaikei.jpg)](https://osu.ppy.sh/community/forums/topics/699491)
 
@@ -112,7 +114,7 @@ Ah, a funny little quirk about this map. The description for this actually says 
 
 Kinda funny how life works isn't it? Anyway, a map well known to players from TWC 2016, this is a very fun set with a little for all types of players, with an outstanding top diff.
 
-### <a name="osumania" id="osumania"></a>osu!mania
+## <a name="osumania" id="osumania"></a>osu!mania
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/mania/the-mastermind.jpg)](https://osu.ppy.sh/community/forums/topics/699501)
 

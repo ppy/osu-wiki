@@ -55,7 +55,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [Nathanael](/users/2295078) | Outstanding moderation presence (10k+ kills). |
 | [Saten](/users/444506) | Outstanding moderation presence and commitment (30k+ kills). |
 | [MoonShade](/users/273649) | Developing revolutionary storyboarding utilities (SGL) |
-| [Hatsu](/users/322480) | Mikuia.tv - osu! twitch bot toolkit development |
+| [Hatsu](/users/322480) | Mikuia.tv - osu! Twitch bot toolkit development |
 | [Tillerino](/users/2070907) | Beatmap recommendation bot development |
 
 ### March

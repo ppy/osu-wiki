@@ -30,7 +30,7 @@ Now that there is a limit on audio bitrate, it's not as much of a problem anymor
 
 Programs such as [Audacity 1.3.13](http://audacity.sourceforge.net/download/) does an excellent job of saving variable bitrate audio with the correct plugins.
 
-Osu accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advantage over mp3 at low bitrates (under 128 kbps), but suffers from lack of support by proprietary software like apple, since mp3 is the standard for audio. However, there are severely limiting returns on using anything higher than 128 kbps. For osu! it doesn't really matter which one you use.
+osu! accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advantage over mp3 at low bitrates (under 128 kbps), but suffers from lack of support by proprietary software like apple, since mp3 is the standard for audio. However, there are severely limiting returns on using anything higher than 128 kbps. For osu! it doesn't really matter which one you use.
 
 Images
 ------
@@ -108,7 +108,7 @@ Encoding Video
 
 ![Tutorial Image 7](CV_07.png "Tutorial Image 7")
 
-10) The correct way is to use a constant rate factor (usually between 30-36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
+10) The correct way is to use a constant rate factor (usually between 30-36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
 
 ![Tutorial Image 8](CV_08.png "Tutorial Image 8")
 

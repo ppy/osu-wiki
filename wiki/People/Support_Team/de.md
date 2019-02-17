@@ -23,7 +23,7 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f√
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Niederl√§ndisch |

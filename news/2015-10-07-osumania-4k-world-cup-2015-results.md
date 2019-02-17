@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/130679970363/osumania-4k-world-cup-20
 ---
 The osu!mania 4K World Cup 2015 concluded on Sunday two weeks ago with an amazing Grand Final. We would like to shoutout the results once again and celebrate the winning team with everyone together! The United States were able to achieve their first World Cup Title in all World Cups after battling against Japan with an outstanding performance.
 
-![](http://puu.sh/kBD6q/75e0cbeed9.png)
+![](/wiki/shared/news/2015-10-07-osumania-4k-world-cup-2015-results/osu!mwc4k2015+ranking.png)
 
 During the Grand Final, the United States dominated entirely in the battle against the top-tier team of Japan. With a result of 7-0, the United States won the tournament without giving away a single beatmap against anyone during all stages of this event! Japan fought their way up from the loser's bracket and achieved the second place, after defeating the United Kingdom before, who placed third in this competition.
 

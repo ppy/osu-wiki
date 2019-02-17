@@ -6,7 +6,7 @@ date: 2018-09-19 06:00:00 +0000
 
 Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications — all your mapping and modding news from the past month is inside!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 by [JBHyperion](https://osu.ppy.sh/users/4879508)

@@ -35,7 +35,7 @@ File
 
 | Name | Description |
 | ---- | ----------- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account logged in to the website to view "Beatmaps" forum. |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
 | Extract Map Package | ? |
 | Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
@@ -144,10 +144,10 @@ Places of interest.
 | Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
 | Show Video | Show Video. Usually disabled because it's distracting. |
 | Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
-| Snaking sliders | Animate the sliders as if playing ingame. |
-| Hit animations | Animate the hitcircles as if being clicked (when the timestamp passes the hitcircle) ingame. |
-| Follow points | Display (and animate) the follow points as if ingame. |
-| Stacking | Stack the overlaid hitcircles as if ingame (dependent on difficulty settings) |
+| Snaking sliders | Animate the sliders as if playing in-game. |
+| Hit animations | Animate the hitcircles as if being clicked (when the timestamp passes the hitcircle) in-game. |
+| Follow points | Display (and animate) the follow points as if in-game. |
+| Stacking | Stack the overlaid hitcircles as if in-game (dependent on difficulty settings) |
 | Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
 Compose
@@ -237,7 +237,7 @@ Web
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
-Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
+Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to the website.)
 
 | Name | Description |
 | ---- | ----------- |

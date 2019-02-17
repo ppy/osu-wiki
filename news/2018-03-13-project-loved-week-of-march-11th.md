@@ -14,10 +14,10 @@ Without further ado, let's begin!
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)  
-[osu!catch](#osucatch)  
-[osu!mania](#osumania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 

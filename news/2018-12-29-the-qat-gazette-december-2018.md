@@ -6,7 +6,7 @@ date: 2018-12-29 14:00:00 +0000
 
 Behold, the Christmas gift of mapping and modding news for all! With major changes to the Quality Assurance Team on the horizon, what will the final days of 2018 bring as a new dawn prepares to rise?
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 

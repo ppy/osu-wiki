@@ -29,7 +29,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Jepang | ![][flag_CN] Cina |
-| 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Jepang A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang B |
+| [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-03 | 2012-04-01 | ![][flag_JP] Jepang A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang B |
 | [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Jepang A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Jepang | ![][flag_HK] Hong Kong | ![][flag_FR] Perancis |
 | [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Jepang | ![][flag_TW] Taiwan | ![][flag_FR] Perancis |
@@ -92,12 +92,40 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/osu.png) osu! Tag Team Multiplayer Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/oTTMT/1) | 2009-06-12 | 2009-09-06 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
+
 ### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+
+### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](/users/1981187) | ![][flag_TR] [heyronii](/users/5642779) | ![][flag_CN] [Play Offline](/users/5791401) |
+| [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
+| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) osu! South East Asia Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](/users/1629553) | ![][flag_MY] [wuhua](/users/2932510) | ![][flag_SG] [Elegant Loli](/users/3010281) |
+| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](/users/4750008) | ![][flag_SG] [GSBlank](/users/2312106) | ![][flag_ID] [Rexeez](/users/1987591) |
+
+### ![](/wiki/shared/mode/osu.png) osu! European Tournament
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
@@ -208,12 +236,25 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
 | [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
+| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ![][flag_MY] [cheewee10](/users/4477497) | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [SitekX](/users/3840946) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](/users/1499137)(osu!), ![][flag_PH] [Pochacco](/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](/users/6221114)(osu!catch), ![][flag_PH] [arge-](/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [Rimazii](/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Baltz](/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](/users/3932796)(osu!), ![][flag_PH] [zonelouise](/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](/users/2722489)(osu!mania 7K) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
+
+| Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
 
 Lihat juga
 ----------
@@ -230,6 +271,7 @@ Lihat juga
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
@@ -245,8 +287,10 @@ Lihat juga
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VN]: /wiki/shared/flag/VN.gif

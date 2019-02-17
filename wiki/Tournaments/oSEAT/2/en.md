@@ -8,19 +8,19 @@ tags:
 
 ![oSEAT 2 Logo](img/logo.png)
 
-The **osu! South East Asia Tournament 2** (***oSEAT 2***) is a double elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). It is the 2nd installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 2** (***oSEAT 2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), and ![][flag_TH] [Trigonoculus](/users/7627013). It was the second installment of the osu! South East Asia Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-10-26/2018-11-25 |
-| Live Drawings | 2018-11-26 (20:00 UTC+8) |
-| Qualifiers Stage | 2018-12-01/2018-12-02 |
-| Group Stage | 2018-12-08/2018-12-16 |
-| Round of 32 | 2018-12-22/2018-12-23 |
-| Round of 16 | 2018-12-29/2018-12-30 |
-| Quarterfinals | 2019-01-05/2019-01-06 |
+| Live Drawings | 2018-11-26 (20:00) |
+| Qualifiers Stage | 2018-11-30/2018-12-04 |
+| Group Stage | 2018-12-08/2018-12-18 |
+| Round of 32 | 2018-12-19/2018-12-26 |
+| Round of 16 | 2018-12-26/2019-01-02 |
+| Quarterfinals | 2019-01-04/2019-01-07 |
 | Semifinals | 2019-01-12/2019-01-13 |
 | Finals | 2019-01-19/2019-01-20 |
 | Grand Finals | 2019-01-26/2019-01-27 |
@@ -37,30 +37,33 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | *4th place* | 1 month of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
-*Note: 5th place will be determined by a playoff.*
+*Note: 5th place was determined by a playoff.*
+
+![oSEAT 2 Winner Badge](img/badge.png)
 
 ## Organisation
 
-The osu! South East Tournament 2 is run by various community members.
+The osu! South East Asia Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608), ![][flag_TH] [Trigonoculus](/users/7627013) |
 | Map Selectors | ![][flag_SG] [phox](/users/772295), ![][flag_ID] [nya10](/users/1372608) |
 | Designer | ![][flag_TH] [Trigonoculus](/users/7627013) |
-| Streamer | ![][flag_VN] [Hoaq](/users/7696512) |
-| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_PL] [Houtarou Oreki](/users/4185566) |
-| Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512) |
+| Streamers | ![][flag_VN] [Hoaq](/users/7696512), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_SG] [Demonical](/users/5447609), ![][flag_ID] [Ulat Bulu](/users/3484548), ![][flag_ID] [Skydiver](/users/4750008) |
+| Referees | ![][flag_SG] [phox](/users/772295), ![][flag_SG] [sinn](/users/4262229), ![][flag_ID] [Praza](/users/3184115), ![][flag_ID] [smh](/users/1629553), ![][flag_MY] [Aasheda\_](/users/7614055), ![][flag_MY] [TheSomething](/users/4025232), ![][flag_MY] [Vexine](/users/4042706), ![][flag_MY] [Stupid Idiot](/users/8355574), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_MY] [Kumaxione](/users/2582531), ![][flag_TH] [\[Minoriko\]](/users/4958650), ![][flag_VN] [steve\_04\_](/users/10852911), ![][flag_FR] [\[ Mimir \]](/users/7382734), ![][flag_PL] [Houtarou Oreki](/users/4185566), ![][flag_CN] [M1keL](/users/10732897) |
+| Commentators | ![][flag_SG] [woahsia](/users/195946), ![][flag_MY] [Jeffrey](/users/4777134), ![][flag_VN] [Hoaq](/users/7696512), ![][flag_ID] [Skydiver](/users/4750008), ![][flag_VN] [Yaezaki](/users/11254509) |
 | Web Developers | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_DE] [Borengar](/users/3312177) |
 | Statistician | ![][flag_VN] [steve\_04\_](/users/10852911) |
-| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Wiki | ![][flag_ID] [Naruk](/users/7100002) |
 
 ## Links
 
 - [Discussion thread](/community/forums/topics/819383)
 - [oSEAT Discord server](https://discord.gg/UbwzpG6)
+- [Challonge brackets](https://challonge.com/oseat2)
 - [Livestream](https://www.twitch.tv/oseatournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYmGObPs8N2QaAlJ7K9mrp0EcFJqcEMYXq8ThHX77iGJh2AOhvE6PZsDIuC318gss-Advnd1eFnMbU/pubhtml)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml)**
 
 -----------------------
 
@@ -97,80 +100,135 @@ The osu! South East Tournament 2 is run by various community members.
 
 -----------------------
 
-## Match Schedules: Round of 32
+## Podium
 
-### Wednesday, 19 December 2018
+This competition has come to an end and resulted in the following podium:
 
-| Match Code | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| AC | Raindrop | ![][flag_SG] | ![][flag_SG] | Loslite | **20:00 UTC+8** |
-| AA | yumesaki-hikari | ![][flag_MY] | ![][flag_TH] | san-lotso | **23:59 UTC+8** |
-
-### Tuesday, 20 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| BJ | Agagak | ![][flag_MY] | ![][flag_ID] | GtaDestroyer | **20:00 UTC+8** |
-| AL | GSBlank | ![][flag_SG] | ![][flag_TH] | Applause | **22:00 UTC+8** |
-| AP | wuhua | ![][flag_MY] | ![][flag_MY] | Zygody | **23:59 UTC+8** |
-
-### Friday, 21 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| AM | Jeffrey | ![][flag_MY] | ![][flag_VN] | UnitedNovel | **11:00 UTC+8** |
-| AN | Skydiver | ![][flag_ID] | ![][flag_SG] | woahsia | **18:00 UTC+8** |
-| BE | Computer Badger | ![][flag_MY] | ![][flag_MY] | Yuu-Chii | **20:00 UTC+8** |
-| AH | MioMilo | ![][flag_PH] | ![][flag_TH] | Dcyte | **21:00 UTC+8** |
-| BN | fixedbyglue | ![][flag_PH] | ![][flag_ID] | hyoketsujuukyuu | **22:00 UTC+8** |
-| BG | Galaxi | ![][flag_ID] | ![][flag_MY] | Desumond | **23:00 UTC+8** |
-| BP | Somay 287 | ![][flag_ID] | ![][flag_SG] | feces | **23:59 UTC+8** |
-
-### Saturday, 22 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| AI | moosepi | ![][flag_SG] | ![][flag_SG] | Lunarsol | **11:00 UTC+8** |  |
-| BA | Xidorn | ![][flag_PH] |  |  | **15:00 UTC+8** | ¹ |
-| AG | dunois | ![][flag_CA] | ![][flag_VN] | Shironi | **17:00 UTC+8** |  |
-| BL | -Reuto- | ![][flag_ID] | ![][flag_VN] | Portador0409 | **18:00 UTC+8** |  |
-| BC | LMT | ![][flag_VN] | ![][flag_TH] | Koiyo | **20:00 UTC+8** |  |
-| AF | - Phantasma - | ![][flag_TH] | ![][flag_ID] |  Rexeez | **21:00 UTC+8** |  |
-| BD | Tuon | ![][flag_VN] | ![][flag_VN] | Mayukaki | **21:00 UTC+8** |  |
-| BF | \[Winter\] | ![][flag_MY] | ![][flag_ID] |  Evanescent- | **23:59 UTC+8** |  |
-| AE | M4-K1 | ![][flag_SG] | ![][flag_TH] |  UltimaticCatz | **23:59 UTC+8** |  |
-
-### Sunday, 23 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| BK | Demonical | ![][flag_SG] | ![][flag_SG] | Snipey | **14:00 UTC+8** |
-| AJ | SeeL | ![][flag_SG] | ![][flag_ID] | dika312 | **15:00 UTC+8** |
-| AK | Crezz | ![][flag_ID] | ![][flag_SG] | Rtzero | **17:00 UTC+8** |
-| BM | 121Brian121 | ![][flag_ID] | ![][flag_TH] | Vignette- | **18:00 UTC+8** |
-| AB | k\_1tty | ![][flag_SG] | ![][flag_MY] | ShaneLiang | **20:00 UTC+8** |
-| BB | Felter | ![][flag_ID] | ![][flag_MY] | squidstain | **21:00 UTC+8** |
-| BI | Yukkuri | ![][flag_TH] | ![][flag_ID] | phizh | **21:00 UTC+8** |
-| BO | Rayhan Hamil | ![][flag_ID] | ![][flag_ID] | \[-Kazumine-\] | **23:00 UTC+8** |
-| BH | praguzz | ![][flag_ID] | ![][flag_SG] | CryingWaff | **23:59 UTC+8** |
-
-### Monday, 24 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| AD | Tzero | ![][flag_MY] | ![][flag_SG] | youi | **22:00 UTC+8** |
-
-### Tuesday, 25 December 2018
-
-| Match Code | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| AO | TequilaWolf | ![][flag_MY] | ![][flag_MY] | haruchi | **21:00 UTC+8** |
-
-¹ Encounter dependent on winner of Match "the playoff"
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_ID] [Skydiver](/users/4750008) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [GSBlank](/users/2312106) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ID] [Rexeez](/users/1987591) |
+| *4th place* | ![][flag_SG] [Raindrop](/users/1155871) |
+| *5th place* | ![][flag_SG] [SeeL](/users/5104320) |
 
 -----------------------
 
 ## Mappools
+
+### Finals
+
+ **This mappool was played in Finals and Grand Finals.**
+
+**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
+
+- NoMod
+  - [K A Z M A S A - Bon Appetit S \[Short Ver.\] (Oldskool HappyHardcore Remix) (BarkingMadDog) \[blend s 190 BPM\]](/beatmapsets/859515#osu/1803734)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](/beatmapsets/821587#osu/1722011)
+  - [455-38B - Gengaozo\_Foon (ktgster) \[Extra\]](/beatmapsets/869649#osu/1819587)
+  - [Shiggy Jr. - Oyasumi (SnowNiNo\_) \[Zzz\]](/beatmapsets/704338#osu/1490015)
+  - [OISHII - ONIGIRI FREEWAY (Jounzan) \[Jounzan's Special\]](/beatmapsets/873667#osu/1826136)
+- Hidden
+  - [Iwasaki Kanae - Back on the world (Lasse) \[Expert\]](/beatmapsets/836453#osu/1762633)
+  - [RB - Suikyou Heaven (fanzhen0019) \[FxtrZ\]](/beatmapsets/290581#osu/654590)
+  - [EZFG - Glucagon (kwk) \[\[!\] CS4 AR9\]](/beatmapsets/365159#osu/802734)
+  - [Asriel - Kegare Naki Yume (Settia) \[Sagiri Otaku's Extra\]](/beatmapsets/386619#osu/1757416)
+- HardRock
+  - [Primary - STRUGGLES (\[Vincent\]) \[Modorenai\]](/beatmapsets/350766#osu/773238)
+  - [Death Grips - Lord of the Game (ft. Mexican Girl) (handsome) \[GM\]](/beatmapsets/452042#osu/969686)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[EXHAUST\]](/beatmapsets/514750#osu/1093434)
+  - [Sota Fujimori - ACCELERATE (Ametrin) \[Ametrin's Extra\]](/beatmapsets/852406#osu/1782387)
+- DoubleTime
+  - [Nightwish - Last Ride of the Day (pw384) \[Insane\]](/beatmapsets/518695#osu/1463400)
+  - [TAMUSIC - Kyuu Jigoku Kaidou wo Yuku (Xanandra) \[Insane\]](/beatmapsets/315150#osu/702778)
+  - [ALiCE'S EMOTiON - LUNA (Frostmourne) \[Lunatic\]](/beatmapsets/47124#osu/152180)
+  - [Meramipop - Rakujitsu Romance (Loneight) \[Romance\]](/beatmapsets/145976#osu/557980)
+- FreeMod
+  - [Prim - Koisuru\*Uchuu Sensou!! (Ryu\* Remix) (DoKoLP) \[DoKo\]](/beatmapsets/47027#osu/146105)
+  - [BBRAINZ - cyber imagination (Mismagius) \[Future™\]](/beatmapsets/790282#osu/1658362)
+
+### Semifinals
+
+**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo)**
+
+- NoMod
+  - [yanaginagi - can cry (captin1) \[lamentation\]](https://osu.ppy.sh/beatmapsets/889584#osu/1859321)
+  - [Ice - Etude for the Sinners (Cherry Blossom) \[Trolled\]](https://osu.ppy.sh/beatmapsets/892189#osu/1865097)
+  - [Culprate - Aurora (BOUYAAA) \[Expert\]](https://osu.ppy.sh/beatmapsets/848003#osu/1773386)
+  - [Co shu Nie - asphyxia (TV edit) (Asphyxia) \[Asphyxia's Asphyxiating Extra\]](https://osu.ppy.sh/beatmapsets/758101#osu/1595667)
+  - [Seeed - Ding (Deramok) \[Deramok's Hidden Extra\]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
+- Hidden
+  - [Yu\_Asahina feat. Ritsuka - HAELE III \~Angel Worlds\~ (celerih) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/868623#osu/1815527)
+  - [mafumafu - Shuuten (William K) \[Terminus\]](https://osu.ppy.sh/beatmapsets/684807#osu/1449273)
+  - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
+  - [Camellia feat.Nanahira - Energy Drinko Fein-chan! (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/257407#osu/596595)
+- HardRock
+  - [BTS - IDOL (DeRandom Otaku) \[Spotlight\]](https://osu.ppy.sh/beatmapsets/837929#osu/1754360)
+  - [Nekomata Master - Following Flow (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
+  - [Paramore - Anklebiters (Priti, EvilElvis) \[PritiElvis' Extreme\]](https://osu.ppy.sh/beatmapsets/227990#osu/531093)
+  - [GARNiDELiA - Yakusoku -Promise code- (Meg) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536491)
+- DoubleTime
+  - [Infected Mushroom - Spitfire (Testo, Mirash) \[Collab\]](https://osu.ppy.sh/beatmapsets/725851#osu/1532489)
+  - [Kaori Miyazono (CV. Risa Taneda) - My Truth\~Rondo capriccioso (Linada) \[Quietly\]](https://osu.ppy.sh/beatmapsets/717528#osu/1515830)
+  - [Nanjou Yoshino & Kusuda Aina - Garasu no Hanazono (Hinsvar) \[Soulmate\]](https://osu.ppy.sh/beatmapsets/184512#osu/441680)
+  - [CLIFF EDGE feat. Nakamura Maiko - Endless Tears (Rakuen) \[Insane\]](https://osu.ppy.sh/beatmapsets/123489#osu/321506)
+- FreeMod
+  - [nao - Toaru Shoukoku no Ohimesama ga... (Lasse) \[Lasse's Extreme\]](https://osu.ppy.sh/beatmapsets/443093#osu/952767)
+  - [Camellia - Kono Hoshi de.... (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
+
+### Quarterfinals
+
+**[Download the mappack here! (157 MB)](https://mega.nz/#!CcMk2KgR!F-ENYulUnXAvLyICEhmEZyhG2QTZzDln6mVt0aOuXsM)**
+
+- NoMod
+  - [Caldeira feat. Teka Penteriche - Vem brincar (Saturnalize) \[Challenge\]](/beatmapsets/884577#osu/1848913)
+  - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](/beatmapsets/720294#osu/1520788)
+  - [Dictate - Treason (Realazy) \[The Senate\]](/beatmapsets/848976#osu/1775314)
+  - [xi - over the top (Chaoslitz) \[chaoz's extra\]](/beatmapsets/479215#osu/1039801)
+  - [Serj Tankian - Sky Is Over (LMT) \[Extra\]](/beatmapsets/563820#osu/1192200)
+- Hidden
+  - [Akira Kushida - Kyuukyoku No Seisen (Jounzan) \[Kakarotto\]](/beatmapsets/764589#osu/1607713)
+  - [Sakuzyo - Amenohoakari (Firis Mistlud, Miura) \[Fiura's Miyabi\]](/beatmapsets/671056#osu/1419003)
+  - [Feryquitous - Dstorv -Endorfin. Remix- (Cellina, Down) \[Cellina & Down's Sincuvate Extra\]](/beatmapsets/708045#osu/1520445)
+- HardRock
+  - [CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Xinely) \[Farewell\]](/beatmapsets/533689#osu/1130622)
+  - [Charli XCX - Vroom Vroom (schoolboy) \[Driving Simulator\]](/beatmapsets/868943#osu/1816123)
+  - [dj TAKA - True Blue (Chaoslitz) \[Cupid\]](/beatmapsets/564144#osu/1192762)
+- DoubleTime
+  - [Ling Yuan yousa - Ben Se (09kami) \[Lingren Insane\]](/beatmapsets/567325#osu/1201639)
+  - [NOMA - Brain Power (Doormat) \[Doormat's Insane\]](/beatmapsets/546384#osu/1183810)
+  - [Red Velvet - Bad Boy (cosmiccc) \[Hypnotized\]](/beatmapsets/732077#osu/1647371)
+- FreeMod
+  - [Rigel Theatre - Rinn Ding Dong (moph) \[moph's Big Dong Extra\]](/beatmapsets/804648#osu/1724396)
+  - [Demetori - Nostalgic Blood of the East \~ Sic World (happy30) \[Lunatic\]](/beatmapsets/151459#osu/373318)
+  - [Toyama Nao - Love Call (ktgster) \[Special\]](/beatmapsets/831107#osu/1741234)
+
+### Round of 16
+
+**[Download the mappack here! (130 MB)](https://mega.nz/#!ndFRkIyQ!tvky0Jhx0TH5cCbhoAR9KPIF66YTG9EQ2CNfRc4PIIM)**
+
+- NoMod
+  - [Shock One \[Ft. Reija\] - Polygon (byfar, aiceo) \[Potatogon\]](/beatmapsets/335928#osu/743526)
+  - [Hommarju - (This Is Not) The Angels (fanzhen0019) \[Another\]](/beatmapsets/791781#osu/1660932)
+  - [M2U - The back of Beyond (yaspo) \[Another\]](/beatmapsets/764683#osu/1809909)
+  - [YUC'e - Sunset Tea Cup (Rumia-) \[Extra\]](/beatmapsets/634949#osu/1347099)
+  - [Ice - Amber Wishes (toybot) \[toybot's Extreme\]](/beatmapsets/412859#osu/902716)
+- Hidden
+  - [Hyukoh - 2002WorldCup (Hobbes2) \[You\]](/beatmapsets/790059#osu/1657947)
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[Special\]](/beatmapsets/879051#osu/1838381)
+  - [Hatsune Miku - Dance of many (Pokie) \[Pokie's Insane\]](/beatmapsets/45028#osu/141669)
+- HardRock
+  - [SHAUN - Way Back Home (Euny) \[d\]](/beatmapsets/860641#osu/1800731)
+  - [yu\_tokiwa.djw merge scl.gtr - murmur twins (guitar pop ver.) (felys) \[Pink Another\]](/beatmapsets/771062#osu/1621079)
+  - [M2U - H.O.W.Ling (celerih) \[Silence\]](/beatmapsets/591203#osu/1251153)
+- DoubleTime
+  - [fripSide - HesitationSnow (Atrue) \[Atrue's Insane\]](/beatmapsets/513343#osu/1094174)
+  - [Another Infinity feat. Mayumi Morinaga - Yume Utsutsu (Seikatu) \[Insane\]](/beatmapsets/400439#osu/871267)
+  - [Zeami - Music Revolver (cRyo\[iceeicee\]) \[cRyo\]](/beatmapsets/53231#osu/165412)
+- FreeMod
+  - [sasakure.UK - Spider Thread Monopoly feat. Hatsune Miku (deetz) \[deetz' Deception\]](/beatmapsets/348381#osu/768555)
+  - [sana - Packet Hero (Zero\_\_wind) \[Extra\]](/beatmapsets/413592#osu/908947)
+  - [Atsuko Asahi & Manaka Kataoka - Christmas (Veridian) \[December 25th (Insane)\]](/beatmapsets/694614#osu/1475656)
 
 ### Round of 32
 
@@ -225,6 +283,193 @@ The osu! South East Tournament 2 is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Sunday, 2019-01-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| GSBlank ![][flag_SG] | 2 | **8** | ![][flag_ID] **Skydiver** | [#1](/community/matches/49167390) |
+
+### Finals
+
+| Friday, 2019-01-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crezz ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48940594) |
+
+| Saturday, 2019-01-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](/community/matches/48967140) |
+
+| Sunday, 2019-01-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](/community/matches/48994166) |
+| Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48995392) |
+| Raindrop ![][flag_SG] | 2 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/49002936) |
+
+### Semifinals
+
+| Friday, 2019-01-11 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| ShaneLiang ![][flag_MY] | 0 | **7** | ![][flag_MY] **TequilaWolf** | -win by default- |
+| MioMilo ![][flag_PH] | 4 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48769481) |
+| **wuhua** ![][flag_MY] | **7** | 1 | ![][flag_MY] Tzero | [#1](/community/matches/48770986) |
+
+| Saturday, 2019-01-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_SG] M4-K1 | [#1](/community/matches/48801520) |
+
+| Sunday, 2019-01-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crezz ![][flag_ID] | 1 | **7** | ![][flag_ID] **Skydiver** | [#1](/community/matches/48822893) |
+| **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_MY] wuhua | [#1](/community/matches/48824654) |
+| Raindrop ![][flag_SG] | 3 | **7** | ![][flag_ID] **Rexeez** | [#1](/community/matches/48827871) |
+| TequilaWolf ![][flag_MY] | 3 | **7** | ![][flag_SG] **GSBlank** | [#1](/community/matches/48831725) |
+
+### Quarterfinals
+
+| Friday, 2019-01-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **M4-K1** ![][flag_SG] | **6** | 3 | ![][flag_SG] woahsia | [#1](/community/matches/48604448) |
+| SeeL ![][flag_SG] | 5 | **6** | ![][flag_ID] **Crezz** | [#1](/community/matches/48606911) |
+| Jeffrey ![][flag_MY] | 1 | **6** | ![][flag_SG] **Demonical** | [#1](/community/matches/48606909) |
+| **GSBlank** ![][flag_SG] | **6** | 5 | ![][flag_SG] Loslite | [#1](/community/matches/48608194) |
+| **moosepi** ![][flag_SG] | **6** | 4 | ![][flag_SG] k\_1tty | [#1](/community/matches/48608156) |
+
+| Saturday, 2019-01-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| san-lotso ![][flag_TH] | 0 | **6** | ![][flag_SG] **Lunarsol** | -win by default- |
+| dunois ![][flag_CA] | 0 | **6** | ![][flag_MY] **Zygody** | -win by default- |
+| **Rexeez** ![][flag_ID] | **6** | 4 | ![][flag_PH] MioMilo | [#1](/community/matches/48631606) |
+| **Tzero** ![][flag_MY] | **6** | 0 | ![][flag_TH] Applause | -win by default- |
+| **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_VN] Shironi | [#1](/community/matches/48635193) |
+| ShaneLiang ![][flag_MY] | 4 | **6** | ![][flag_SG] **Raindrop** | [#1](/community/matches/48636530) |
+| **GSBlank** ![][flag_SG] | **6** | 4 | ![][flag_SG] moosepi | [#1](/community/matches/48636640) |
+
+| Sunday, 2019-01-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Skydiver** ![][flag_ID] | **6** | 2 | ![][flag_MY] wuhua | [#1](/community/matches/48656093) |
+| **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_SG] Demonical | [#1](/community/matches/48659324) |
+| **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](/community/matches/48662723) |
+
+| Monday, 2019-01-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Zygody ![][flag_MY] | 0 | **6** | ![][flag_SG] **M4-K1** | [#1](/community/matches/48684949) |
+
+### Round of 16
+
+| Wednesday, 2018-12-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **UnitedNovel** ![][flag_VN] | **6** | 1 | ![][flag_VN] Mayukaki | [#1](/community/matches/48381333) |
+
+| Thursday, 2018-12-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| UltimaticCatz ![][flag_TH] | 1 | **6** | ![][flag_ID] **-Reuto-** | [#1](/community/matches/48402325) |
+
+| Friday, 2018-12-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Dcyte ![][flag_TH] | 0 | **6** | ![][flag_ID] **phizh** | -win by default- |
+| **Shironi** ![][flag_VN] | **6** | 2 | ![][flag_MY] Agagak | [#1](/community/matches/48430991) |
+| **Skydiver** ![][flag_ID] | **6** | 0 | ![][flag_MY] Jeffrey | [#1](/community/matches/48431150) |
+| **SeeL** ![][flag_SG] | **6** | 2 | ![][flag_SG] moosepi | [#1](/community/matches/48432325) |
+| **yumesaki-hikari** ![][flag_MY] | **6** | 0 | ![][flag_SG] feces | -win by default- |
+
+| Saturday, 2018-12-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **wuhua** ![][flag_MY] | **6** | 1 | ![][flag_MY] TequilaWolf | [#1](/community/matches/48453888) |
+| **haruchi** ![][flag_MY] | **6** | 1 | ![][flag_MY] squidstain | [#1](/community/matches/48454378) |
+| **youi** ![][flag_SG] | **6** | 0 | ![][flag_TH] Vignette- | -win by default- |
+| **k\_1tty** ![][flag_SG] | **6** | 1 | ![][flag_ID] Rayhan Hamil | [#1](/community/matches/48457148) |
+| phizh ![][flag_ID] | 0 | **6** | ![][flag_VN] **Shironi** | [#1](/community/matches/48456942) |
+| **Raindrop** ![][flag_SG] | **6** | 5 | ![][flag_MY] Tzero | [#1](/community/matches/48458029) |
+| **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_ID] Kurosaki | [#1](/community/matches/48458264) |
+| **Lunarsol** ![][flag_SG] | **6** | 1 | ![][flag_ID] praguzz | [#1](/community/matches/48458065) |
+| **woahsia** ![][flag_SG] | **6** | 0 | ![][flag_VN] LMT | -win by default- |
+| **Rtzero** ![][flag_SG] | **6** | 0 | ![][flag_MY] \[Winter\] | -win by default- |
+| **dika312** ![][flag_ID] | **6** | 2 | ![][flag_MY] Desumond | [#1](/community/matches/48459443) |
+| **Loslite** ![][flag_SG] | **6** | 2 | ![][flag_PH] fixedbyglue | [#1](/community/matches/48459533) |
+| GSBlank ![][flag_SG] | 4 | **6** | ![][flag_ID] **Crezz** | [#1](/community/matches/48460662) |
+| - Phantasma - ![][flag_TH] | 4 | **6** | ![][flag_SG] **Demonical** | [#1](/community/matches/48460873) |
+
+| Sunday, 2018-12-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_MY] Computer Badger | [#1](/community/matches/48485016) |
+| **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_MY] haruchi | [#1](/community/matches/48485071) |
+| dika312 ![][flag_ID] | 3 | **6** | ![][flag_SG] **Lunarsol** | [#1](/community/matches/48485035) |
+| **Applause** ![][flag_TH] | **6** | 2 | ![][flag_SG] Rtzero | [#1](/community/matches/48486407) |
+| youi ![][flag_SG] | 3 | **6** | ![][flag_SG] **Loslite** | [#1](/community/matches/48486060) |
+| **k\_1tty** ![][flag_MY] | **6** | 1 | ![][flag_ID] yumesaki-hikari | [#1](/community/matches/48486227) |
+| san-lotso ![][flag_TH] | 5 | **6** | ![][flag_MY] **ShaneLiang** | [#1](/community/matches/48487337) |
+| **woahsia** ![][flag_SG] | **6** | 2 | ![][flag_VN] UnitedNovel | [#1](/community/matches/48487478) |
+
+| Monday, 2018-12-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Demonical** ![][flag_SG] | **6** | 1 | ![][flag_ID] -Reuto- | [#1](/community/matches/48513392) |
+
+| Tuesday, 2019-01-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| M4-K1 ![][flag_SG] | 1 | **6** | ![][flag_ID] **Rexeez** | [#1](/community/matches/48537518) |
+
+| Wednesday, 2019-01-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| dunois ![][flag_CA] | 0 | **6** | ![][flag_PH] **MioMilo** | -win by default- |
+
+### Round of 32
+
+| Wednesday, 2018-12-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Raindrop** ![][flag_SG] | **6** | 3 | ![][flag_SG] Loslite | [#1](/community/matches/48202764) |
+| yumesaki-hikari ![][flag_MY] | 2 | **6** | ![][flag_TH] **san-lotso** | [#1](/community/matches/48207149) |
+
+| Thursday, 2018-12-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Agagak** ![][flag_MY] | **6** | 2 | ![][flag_ID] GtaDestroyer | [#1](/community/matches/48225236) |
+| **GSBlank** ![][flag_SG] | **6** | 1 | ![][flag_TH] Applause | [#1](/community/matches/48227119) |
+| **wuhua** ![][flag_MY] | **6** | 1 | ![][flag_MY] Zygody | [#1](/community/matches/48227565) |
+
+| Friday, 2018-12-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Jeffrey** ![][flag_MY] | **6** | 1 | ![][flag_VN] UnitedNovel | [#1](/community/matches/48243076) |
+| **Rayhan Hamil** ![][flag_ID] | **6** | 0 | ![][flag_ID] \[-Kazumine-\] | -win by default- |
+| **Skydiver** ![][flag_ID] | **6** | 1 | ![][flag_SG] woahsia | [#1](/community/matches/48247506) |
+| **-Reuto-** ![][flag_ID] | **6** | 0 | ![][flag_VN] Portador0409 | [#1](/community/matches/48247580) |
+| **SeeL** ![][flag_SG] | **6** | 2 | ![][flag_ID] dika312 | [#1](/community/matches/48249098) |
+| **LMT** ![][flag_VN] | **6** | 0 | ![][flag_TH] Koiyo | [#1](/community/matches/48249001) |
+| **Computer Badger** ![][flag_MY] | **6** | 0 | ![][flag_MY] Yuu-Chii | [#1](/community/matches/48249374) |
+| **MioMilo** ![][flag_PH] | **6** | 1 | ![][flag_TH] Dcyte | [#1](/community/matches/48249870) |
+| Tuon ![][flag_VN] | 0 | **6** | ![][flag_VN] **Mayukaki** | -win by default- |
+| **fixedbyglue** ![][flag_PH] | **6** | 2 | ![][flag_ID] hyoketsujuukyuu | [#1](/community/matches/48251500) |
+| Galaxi ![][flag_ID] | 2 | **6** | ![][flag_MY] **Desumond** | [#1](/community/matches/48252967) |
+| Somay 287 ![][flag_ID] | 2 | **6** | ![][flag_SG] **feces** | [#1](/community/matches/48254550) |
+
+| Saturday, 2018-12-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **moosepi** ![][flag_SG] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](/community/matches/48270056) |
+| **dunois** ![][flag_CA] | **6** | 5 | ![][flag_VN] Shironi | [#1](/community/matches/48274688) |
+| **M4-K1** ![][flag_SG] | **6** | 1 | ![][flag_TH] UltimaticCatz | [#1](/community/matches/48283516) |
+
+| Sunday, 2018-12-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| 121Brian121 ![][flag_ID] | 3 | **6** | ![][flag_TH] **Vignette-** | [#1](/community/matches/48300780) |
+| **Crezz** ![][flag_ID] | **6** | 5 | ![][flag_SG] Rtzero | [#1](/community/matches/48303897) |
+| k\_1tty ![][flag_SG] | 2 | **6** | ![][flag_MY] **ShaneLiang** | [#1](/community/matches/48306389) |
+| Felter ![][flag_ID] | 0 | **6** | ![][flag_MY] **squidstain** | -win by default- |
+| Yukkuri ![][flag_TH] | 2 | **6** | ![][flag_ID] **phizh** | [#1](/community/matches/48307889) |
+| **Demonical** ![][flag_SG] | **6** | 0 | ![][flag_SG] Snipey | [#1](/community/matches/48307902) |
+| **\[Winter\]** ![][flag_MY] | **6** | 3 | ![][flag_ID] Evanescent- | [#1](/community/matches/48309216) |
+
+| Monday, 2018-12-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **praguzz** ![][flag_ID] | **6** | 5 | ![][flag_SG] CryingWaff | [#1](/community/matches/48313478) |
+| **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] youi | [#1](/community/matches/48333910) |
+
+| Tuesday, 2018-12-25 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **TequilaWolf** ![][flag_MY] | **6** | 0 | ![][flag_MY] haruchi | -win by default- |
+
+| Wednesday, 2018-12-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Xidorn ![][flag_PH] | 2 | **6** | ![][flag_ID] **Kurosaki** | [#1](/community/matches/48376875) |
+| - Phantasma - ![][flag_TH] | 0 | **6** | ![][flag_ID] **Rexeez** | -win by default- |
 
 ### Group Stage
 
@@ -585,6 +830,7 @@ The osu! South East Tournament 2 is run by various community members.
 
 [flag_BN]: /wiki/shared/flag/BN.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_ID]: /wiki/shared/flag/ID.gif

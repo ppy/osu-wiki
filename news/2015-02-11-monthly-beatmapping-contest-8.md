@@ -11,6 +11,7 @@ We'll be trialing out a new concept of rotating between gamemodes in future cont
 
 Taking a bit of a break from the fast-paced songs found in previous contests, this month's choice is a calm, downtempo stroll through one of the slower pieces we've featured thus far. The song is performed by the talented **raja_ffm**, and is titled "**the light**". Listen to it below:
 
+<!-- dead link -->
 <audio controls=""><source src="http://puu.sh/fEgD7/c810f8a597.mp3" type="audio/mpeg"></audio>
 
 ## What are the prizes?

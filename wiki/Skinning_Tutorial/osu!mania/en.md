@@ -20,7 +20,7 @@ Do note that this can animated, though this is a pretty fast animation.
 ## Hitbursts
 
 `mania-hit0`, `mania-hit50`, `mania-hit100`, `mania-hit200`, `mania-hit300`, `mania-hit300g` are the hitbursts for osu!mania.
-These are animatable when playing ingame, but their animations plays very quickly and is *not* looped, so try to be clever to make them visible.
+These are animatable when playing in-game, but their animations plays very quickly and is *not* looped, so try to be clever to make them visible.
 
 When the player is viewing the ranking screen, do note that osu! will not animate the animations, if given.
 Instead, osu! will take the first frame and display that on the scoreboard.

@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/162149460298/osucatch-world-cup-ro16q
 
 A double recap is available this week for both the Round of 16 and the Quarter Finals of osu!catch World Cup! Read on to get up to speed on what to expect for the battle of the top 8 these coming weekends.
 
-![](/wiki/shared/news/banners/catch_logo_2017.png)
+![](/wiki/shared/news/banners/catch_logo_2017.jpg)
  
 The arrival of the Knockout Stage saw our 32 teams of intrepid fruit catchers split in two, with only 16 countries advancing to this past weekend's Round of 16 in a series of head-to-head food fights for supremacy. Whilst the double elimination format of the tournament means that none of the remaining teams have been sent home yet, the battle lines have most certainly been drawn. Which teams remain in the relative safety of the winner's bracket, and which are clinging on by the skin of their teeth? Read on to find out!
  

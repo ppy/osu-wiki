@@ -18,7 +18,7 @@
 [HT1]: ./img/GM_HT.jpg "Length of the song is increased by 1/3; BPM decreased by 1/4"
 [HR_O]: ./img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard)."
 [HR_C]: ./img/GM_HR_C.jpg "Hard Rock increases the difficulty in many ways (osu!catch)."
-[SD_Rare]: ./img/GM_SD_Rarecase.jpeg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
+[SD_Rare]: ./img/GM_SD_Rarecase.jpg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
 [DT1]: ./img/GM_DT.jpg "Length of the song is decreased by 1/3; BPM increases by 1/2"
 [HD_O]: ./img/GM_HD_O.jpg "Hidden play in osu!standard mode"
 [HD_T]: ./img/GM_HD_T.jpg "Hidden play in osu!taiko mode"

@@ -6,7 +6,7 @@ date: 2018-10-20 20:00:00 +0000
 
 Huge changes to Beatmap Nominator applications, updates on improvements to Modding Discussions, and a brand new QAT Gazette contributor? Another month's worth of exciting news beckons, so read on to catch up on all the excitement!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 

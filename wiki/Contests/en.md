@@ -36,7 +36,7 @@ Notes:
 | 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751)                        | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/users/200768)            | [Results](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
 | 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
 | 12          | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054)                                              | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340)         | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
-| 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)                                            | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/users/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | N/A         |
+| 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)                                            | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/users/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | [Score #13](https://docs.google.com/spreadsheets/d/1CysSPvMCrkace40s4aGnpIdmc-TNEJZ72QGKz0MPBqc) |
 | March 2017  | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/beatmapsets/639991)                                         | ![osu!catch][o!c]    | [Ascendance](https://osu.ppy.sh/users/2931883)      | TBA                                             | [Score #14](https://osu.ppy.sh/community/contests/44)      |
 | April 2017  | [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)                                               | ![osu!mania][o!m]    | [Soul Evans](https://osu.ppy.sh/users/4490770)      | TBA                                             | [Score #15](https://osu.ppy.sh/community/contests/46)  |
 
@@ -54,7 +54,8 @@ Notes:
 | Aspire 2016           | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689)                              | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438)       | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22)   |
 | Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751)                           | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
 | Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033)                                   | ![osu!taiko][o!t]    | [Supairo](https://osu.ppy.sh/users/2837231)         |  [Results](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Score #3](https://osu.ppy.sh/community/contests/47) |
-| Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY                                                                  | ![osu!catch][o!c]    | TBA | TBA | TBA |
+| Aspire 2017 Stage Three | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/740242)                                   | ![osu!catch][o!c]    | [Spectator](https://osu.ppy.sh/users/702598) | [Results](https://osu.ppy.sh/home/news/2018-03-08-aspire-2017-stage-three-osucatch-results) | [Score #4](https://osu.ppy.sh/community/contests/51) |
+| Aspire 2018           | Culprate - Acid Rain                                                                                  | ![osu!standard][o!s] | TBA | TBA | TBA |
 
 ## Monthly Fanart Contest
 
@@ -63,18 +64,7 @@ Notes:
 - Two winners (by public poll and staff) will each get a full one-year supporter tag and osu!tablet/Pippi Plushie.
 - Runner-ups get one-month supporter tag.
 
-You can see a gallery of each contest at the [Facebook page](https://www.facebook.com/osugame).
-
-## osu!store Contests
-
-Notes:
-
-- The winner get **osu! store pack** (1x osu!tablet, 1x osu! sticker set, 1x osu! sticker set #2, and [6 months supporter tag](/wiki/osu!supporter)).
-- Runner-ups get [4 months supporter tag](/wiki/osu!supporter).
-
-| Contest No. | Title                           | Requirement                                  | Winning selections | News                                         | Results |
-|:-----------:|---------------------------------|----------------------------------------------|--------------------|----------------------------------------------|---------|
-| 1           | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN)              | [News](https://osu.ppy.sh/news/114095906408) | N/A     |
+You can see a gallery of each contest at the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums).
 
 ## osu!idol
 
@@ -84,8 +74,8 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results                                                                                                    | Original Artists                                               |
 |---------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| First   | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction                                                |
-| Second  | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix-                           | EastNewSound                                                   |
+| First   | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345)                  |
+| Second  | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix-                          | EastNewSound                                                   |
 | Third   | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown*                                                   | *unknown*                                                      |
 
 
@@ -112,9 +102,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results                                                                                   | Original Artist                                           |
 |---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| First   | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w) |
+| First   | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w)                 |
 | Second  | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs)        |
-| Third   | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | *unknown*                                                 |
+| Third   | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | [Error](https://www.youtube.com/watch?v=IF8kySIcWNw)        |
 
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
@@ -136,6 +126,19 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
 - [Official post](https://osu.ppy.sh/forum/t/617845)
 
+### 2018
+
+| Placing | Results                                                                                   | Original Artist                                           |
+|---------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| First   | [Will Stetson](https://osu.ppy.sh/users/4909088) - [Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3)                             | [Omoi](https://www.youtube.com/watch?v=mf4nO-g9vwE)                        |
+| Second  | [Zeva[FL]](https://osu.ppy.sh/users/2805170) - [My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3)       | [Chris Kirkpatrick](https://www.youtube.com/watch?v=0BVwxMIUK1o)        |
+| Third   | [MjIsMaster](https://osu.ppy.sh/users/9922896) - [Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3)         | [The Romantics](https://www.youtube.com/watch?v=JmGMzyajA2U)        |
+
+
+- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1BzmspQSE_umaAhfS63zYnBT4DqlnD5QQK7TciYqJoGo/edit#gid=495757546)
+- [News post](https://osu.ppy.sh/home/news/2018-07-01-osu-idol-2018-auditions-now-open)
+- [Results post](https://osu.ppy.sh/home/news/2018-11-05-osu-idol-2018-finals-community-voting-results)
+- [Official post](https://osu.ppy.sh/community/forums/topics/752088)
 
 ## Community Contests
 
@@ -199,6 +202,16 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 - [Contest thread](https://osu.ppy.sh/forum/t/620182)
 - [Results post](https://osu.ppy.sh/forum/t/640906)
 
+#### Pending Cup \#6 (2018)
+
+| Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+|-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1         | 米津玄师 - LOSER                          | [Skystar](https://osu.ppy.sh/users/873961)      | [how2miss](https://osu.ppy.sh/users/4477199)       | [AIR](https://osu.ppy.sh/users/2070688)    |
+| 2         | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | [J1_](https://osu.ppy.sh/users/5918561)      | [yf_bmp](https://osu.ppy.sh/users/1243669)              | [Level9](https://osu.ppy.sh/users/7232130)         |
+| 3         | Sota Fujimori - ACCELERATE               | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | [Koiyuki](https://osu.ppy.sh/users/2433507)         | [yf_bmp](https://osu.ppy.sh/users/1243669)      |
+
+- [Contest thread](https://osu.ppy.sh/forum/t/775847)
+- [Results post](https://osu.ppy.sh/forum/t/806794)
 
 ### Newspaper Cup
 
@@ -238,8 +251,8 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1         | 葉月ゆら - サラマンドラの踊り子             |  TBA           | TBA                 |
-| 2         | P＊Light - SAY BAY           | TBA              | TBA  |
+| 1         | 葉月ゆら - サラマンドラの踊り子             | [Yugu](https://osu.ppy.sh/users/Yugu)           | [nika mika](https://osu.ppy.sh/users/nika%20mika)     |
+| 2         | P＊Light - SAY BAY                        | [Firika](https://osu.ppy.sh/users/Firika)       | [Yugu](https://osu.ppy.sh/users/Yugu)            |
 
 - [Contest thread](https://osu.ppy.sh/forum/t/690824)
-- Results post - TBA
+- [Results post](https://osu.ppy.sh/forum/t/721264)
