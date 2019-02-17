@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2019 Logo](img/logo.png)
 
-The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](/users/7627013) and ![][flag_TH] [Seaweed](/users/5151214). osu! TV Size Tournament features variety of TV sized (usually 90 seconds) maps in its mappools. It is the third installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](/users/7627013) and ![][flag_TH] [Seaweed](/users/5151214). osu! TV Size Tournament features variety of TV sized (usually 90 seconds) maps in its mappools. It is the third installment of the osu! TV Size Tournament.
 
 ## Tournament Schedule
 
@@ -25,8 +25,6 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double elimination 
 | Grand Finals | 2019-04-13 |
 
 ## Prizes
-
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu! TV Size Tournament 2019 winners. It is possible that these items change with every installment of the osu! TV Size Tournament.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -97,7 +95,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ## Mappools
 
-*First mappools (Group Stage) will be revealed on 2019-02-16 at 14:00 UTC.*
+*The first mappools (for Group Stage) will be revealed on 2019-02-16 at 14:00 UTC.*
 
 ------------------------------------------------------------------------
 
@@ -105,7 +103,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### General Rules
 
-1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarterfinals, Semifinals, and Finals. 
+1. There will be six mappools in total: Group stage, Round of 32, Round of 16, Quarterfinals, Semifinals, and Finals. 
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format. This format will be explained as follows:
    - 4 NoMod
    - 2 Hidden
@@ -138,13 +136,12 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### Scheduling
 
-- **All times in the match schedules are in UTC**
-
-1. Scheduling will be based on team timezones to avoid as many no-shows as possible.
-2. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have either team captain submit proof of agreement in the Discord server's `#reschedule` text channel by **Thursday 23:59 UTC**.
-3. During the group stage, a 3v3 match could be arranged if some teammates cannot make it. The other team must be notified and agree to it too.
+1. **All times in the match schedules are in UTC**.
+2. Scheduling will be based on team timezones to avoid as many no-shows as possible.
+3. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have either team captain submit proof of agreement in the Discord server's `#reschedule` text channel by **Thursday 23:59 UTC**.
+4. During the group stage, a 3v3 match could be arranged if some teammates cannot make it. The other team must be notified and agree to it too.
    - **Remember**: 4v4s must be played in final stages.
-4. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match.
+5. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match.
    - Failure to do so will result in a penalty and teams may be exempt from future iterations or tournaments hosted by ![][flag_TH] [Seaweed](/users/5151214) or ![][flag_TH] [Trigonoculus](/users/7627013).
 
 ### Match Proceedings
@@ -163,13 +160,13 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 5. Teams may substitute players in and out of the lobby without limit.
 6. Mods that are allowed in FreeMod: Hidden, Hardrock, Flashlight and Easy.
    - At least 2 players in a team must activate at least one mod.
-   - Players may combine mods (e.g. HDHR)
+   - Players may combine mods (e.g. HDHR).
 7. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.
 8. You are allowed, however not required, to use mods in the tiebreaker maps.
 
 ### Pick / Ban Timers
 
-- **These timers are subject to referee’s leniency if there are connection issues or any other problems that may arise.**
+- **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise**.
 - Timers are put in place to prevent players from swapping out and playing the picked map just before rejoining.
   - Picks and bans are limited to **1 minute** per pick/ban.
   - Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
@@ -179,7 +176,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 1. The team that lost the player may opt to replay the map if they desire. However, this will only be tolerated once.
 2. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays. 
-3. If the team that *did not* DC has a point advantage that the other team could not have made up even with their player present (e.g. 2 mil+, depends on the mod type) then the map is not replayed.
+3. If the team that *did not* disconnect has a point advantage that the other team could not have made up even with their player present (e.g. 2 mil+, depends on the mod type) then the map is not replayed.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
