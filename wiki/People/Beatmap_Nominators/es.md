@@ -89,7 +89,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chino, algo de Francés   |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Holandés                 |
 | [Kalibe](https://osu.ppy.sh/users/3376777)            | Polaco                   |
-| [Krfawy](https://osu.ppy.sh/users/1478292) |  |
+| [Krfawy](https://osu.ppy.sh/users/1478292) | Polaco |
 | [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
 | [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamita               |
 | [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbio                   |
@@ -132,7 +132,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 
 | Nombre                                                | Lenguajes adicionales    |
 |-------------------------------------------------------|--------------------------|
- [-GN Junior](https://osu.ppy.sh/users/3901754) | Chino, Cantonés |
+| [-GN Junior](https://osu.ppy.sh/users/3901754) | Chino, Cantonés |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Català, Japonés |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
 | [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
@@ -152,18 +152,17 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 
 | Nombre                                                | Lenguajes adicionales    |
 |-------------------------------------------------------|--------------------------|
+| [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonés, Chino          |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
 | [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Noruego                  |
 | [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | [IDu5t](https://osu.ppy.sh/users/6053071) | Alemán |
-| [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
 | [MBomb](https://osu.ppy.sh/users/3071175) |  |
 | [Nokashi](https://osu.ppy.sh/users/5431196)           | Griego                   |
 | [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
 | [wonjae](https://osu.ppy.sh/users/5032045)            |                          |
-| [Yumeno Himiko](https://osu.ppy.sh/users/1806962)     | Chino                    |
 
 ### osu!mania
 
@@ -182,5 +181,3 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Leniane](https://osu.ppy.sh/users/7138602) | Holandés |
 | [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesio                |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesio                |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
-| [Tofu1222](https://osu.ppy.sh/users/6089608)          | Chino                    |
