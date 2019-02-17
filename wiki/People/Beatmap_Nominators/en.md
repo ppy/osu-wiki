@@ -81,6 +81,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [Beomsan](https://osu.ppy.sh/users/3626063)           | Korean                   |
 | [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
+| [celerih](https://osu.ppy.sh/users/4696296) | French |
 | [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
@@ -126,7 +127,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | [spoes](https://osu.ppy.sh/users/9505704) |  |
 | [Testo](https://osu.ppy.sh/users/5200881) | Russian |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
-| [thicc bish](https://osu.ppy.sh/users/4696296) | French |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
 | [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
 | [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
@@ -144,7 +144,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [user gr
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
-| [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
+| [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
 | [Greenshell](https://osu.ppy.sh/users/8693851) | German |
 | [komasy](https://osu.ppy.sh/users/1980256) | Japanese |
