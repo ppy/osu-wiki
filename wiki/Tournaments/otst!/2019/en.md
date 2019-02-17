@@ -147,7 +147,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### Match Proceedings
 
-- Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect **will result in penalties.**
+*Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect **will result in penalties.***
 
 1. At the time of the match, referees will invite the captain into the lobby. If for any reason the team captain cannot make it to a match, please have a team member inform a referee before the match starts.
 2. If a team is not present for the match 10 minutes after the scheduled time, that team will forfeit the match. If neither team makes it, `!roll` by the referee will determine who wins or loses.
@@ -165,10 +165,10 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 7. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.
 8. You are allowed, however not required, to use mods in the tiebreaker maps.
 
-### Pick / Ban Timers
+### Pick/Ban Timers
 
-- **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise.**
-- Timers are put in place to prevent players from swapping out and playing the picked map just before rejoining.
+1. **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise.**
+2. Timers are put in place to prevent players from swapping out and playing the picked map just before rejoining.
   - Picks and bans are limited to **1 minute** per pick/ban.
   - Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
   - Excessive match stalling or time-wasting by players are subject to punishments, decided upon by the referee.
