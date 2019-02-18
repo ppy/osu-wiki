@@ -39,7 +39,7 @@ Regras do Fórum
 Regras de Envio de Beatmap
 ---------------------------------
 
-Estas regras se aplicam aos beatmaps enviados pelo [sistema de envio de beatmaps](/wiki/Beatmap_Submission_System). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/editor).
+Estas regras se aplicam aos beatmaps enviados pelo [sistema de envio de beatmaps](/wiki/Glossary#bss). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/editor).
 
 Uma página de regras mais detalhadas para a elaboração de um beatmap existe, conhecida como [Ranking Criteria](/wiki/Ranking_Criteria).
 

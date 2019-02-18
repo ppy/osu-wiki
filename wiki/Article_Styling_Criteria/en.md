@@ -646,7 +646,7 @@ Do:     ![][flag_AU] [peppy](/users/2)
 
 *For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
 
-All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+All of the flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
 ```md
 ![](/wiki/shared/flag/xx.gif)
@@ -743,11 +743,15 @@ The name of the game, osu!, is never capitalised nor italicised. The osu! offici
 Other brandings that are not covered by the osu! official branding must use spaces. Examples include:
 
 - `osu! tournaments`
-- `osu! alumni`
 - `osu! community`
 - `osu! chat`
 - `osu! client`
 - `osu! wiki`
+
+User titles that include `osu!` as part of the title name must be capitalised. Examples include:
+
+- `osu! Alumni`
+- `osu! Champion`
 
 ---
 
@@ -888,6 +892,7 @@ These words are spelt as follows (note the spacing):
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
 - Use `sign in` instead of `log in`.
 - Use `sign out` instead of `log out`.
+- Use `register` instead of `sign up`.
 
 ### Abbreviations, acronyms, and initialisms
 

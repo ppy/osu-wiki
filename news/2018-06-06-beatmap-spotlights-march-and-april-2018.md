@@ -25,9 +25,10 @@ If you're interested in helping out with this process, please head over to [the 
 
 Thanks to everybody who followed along the project for the past few years, and we hope that you enjoy the next iteration of the project when it surfaces in a few months time!
 
-# Navigation
+### Navigation
 
-<a href="#march">March Spotlighted Maps</a></br><a href="#april">April Spotlighted Maps</a></br>
+- [March Spotlighted Maps](#march)
+- [April Spotlighted Maps](#april)
 
 # <a name="march" id="march"></a>March 2018 Spotlights
 

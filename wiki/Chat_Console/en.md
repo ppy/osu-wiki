@@ -26,11 +26,11 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 *[osu!academy](/wiki/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
-From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in osu!
+From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently signed in to osu!
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-Each user logged in osu has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
+Each user signed in to osu! has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
 
 -   Friends only limits the display to your friends.
 -   Lock Panels stops the panels from jumping round this also includes new users.
@@ -51,7 +51,7 @@ Each user logged in osu has a user panel displayed in Extended Chat. By default,
 | ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Brown - User is in multiplayer, but not playing.                                                               |
 | ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Yellow - Currently playing in multiplayer.                                                                     |
 | ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Black - Inactive or away from keyboard (afk).                                                                  |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not in-game, but signed in to an IRC client or stats are not available. |
 
 Clicking on any user panel brings up an options screen.
 

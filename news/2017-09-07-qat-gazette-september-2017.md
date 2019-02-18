@@ -6,7 +6,7 @@ date: 2017-09-07 09:00:00 +0000
 
 Have you ever wondered what the Quality Assurance Team get up to besides looking at beatmaps? Then look no further! The QAT Gazette will be your monthly update regarding ongoings in the mapping and modding community, detailed insight into the ranking process, and also news of any potential future developments!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 To those of you who have been following this blog at its [previous home](http://osuqat.tumblr.com/), welcome back! We've shuffled through a bit of a lean period on account of the summer holidays (or in my case, even more work than usual), but I am happy to bring you **the return of The QAT Gazette!** Feel free to skip down a little if you're already familiar with our humble blog and want to get straight into the news, but if this is your first time and you're wondering what all the fuss is about, read on!
 

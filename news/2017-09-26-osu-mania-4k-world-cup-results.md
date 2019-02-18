@@ -10,9 +10,10 @@ At long last, we've finally reached the end of the osu!mania 4K World Cup! Here'
 
 ### Navigation
 
-<a href="#results">Results</a></br><a href="#recap">Recap</a>
-* <a href="#mappool">Mappool</a>
-* <a href="#matches">Tournament Matches</a>
+- [Results](#results)
+- [Recap](#recap)
+- [Mappool](#mappool)
+- [Tournament Matches](#matches)
 
 --------
 
@@ -87,4 +88,3 @@ And that's all from me today. Apologies for being slow on the announcements rega
 Do I see circles approaching from the distance?
 
 —mangomizer
-

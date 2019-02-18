@@ -6,7 +6,7 @@ date: 2018-02-27 09:00:00 +0000
 
 What's been happening in the Beatmap Nominators and Quality Assurance Team, you ask? Mapping successes, exciting current developments and many new team additions all round, that's what! Read on to find out all the details!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 Welcome back everyone!
 
@@ -36,7 +36,7 @@ Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many 
 
 ### Changes to Beatmap Nominator applications
 
-A major concern in previous months was how to ensure fairness when balancing the rewards of traditional forum post mods to the more generous Modding Discussions system. Unfortunately, the ability to log kudosu and/or modding activity on the Discussions system isn't yet implemented, so for the near future, we'll be treating each forum mod post and modding discussion with at least one suggestion as as **“1 mod”, regardless of the total kudosu obtained**. Mod sampling by Quality Assurance Team members will still take place during the evaluation process however to clear up any oddities.
+A major concern in previous months was how to ensure fairness when balancing the rewards of traditional forum post mods to the more generous Modding Discussions system. Unfortunately, the ability to log kudosu and/or modding activity on the Discussions system isn't yet implemented, so for the near future, we'll be treating each forum mod post and modding discussion with at least one suggestion as as **"1 mod", regardless of the total kudosu obtained**. Mod sampling by Quality Assurance Team members will still take place during the evaluation process however to clear up any oddities.
 
 We're still trying to determine an optimal strategy for evaluating aspiring Beatmap Nominators, balancing critical appraisal with accessibility and fairness for all. In the recent application round, the application pool was divided in two, with each half being evaluated by a team of three Quality Assurance Team members. Each team would attempt to come to a consensus on every applicant from their pool, based on experience, behaviour, modding quality, and so on.
 

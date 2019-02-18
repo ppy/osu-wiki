@@ -6,7 +6,7 @@ date: 2018-08-17 12:00:00 +0000
 
 Beatmap Nominator Evaluations, another upcoming public QAT meeting, and huge Ranking Criteria changes that may change the face of mapping forever are all on the menu for this month, and reading inside is the fastest way to hear all about them!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 

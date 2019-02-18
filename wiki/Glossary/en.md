@@ -14,7 +14,7 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. osu! will mark users as "Idle" if they have been inactive for some time.
+AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -34,7 +34,7 @@ Aspire is a beatmapping [contest](/wiki/contest) where the creators are encourag
 
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu! Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu!. Signing in with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 
@@ -183,7 +183,7 @@ For skins, the skin properties for the combo colours is located on in the `[Colo
 
 ![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in osu! This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+The combo fire was a background gameplay feature from the ouendan game integrated in osu!. This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
 This feature was later disabled on 05. March 2013 due to performance concerns.
 
@@ -719,7 +719,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 ### Skin
 
-A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu! This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
+A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
 
@@ -763,7 +763,7 @@ Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permi
 
 ### Standard
 
-_See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
+*Main page: [osu!standard](/wiki/Game_Modes/osu!)*
 
 Standard refers to the game mode in osu! and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 
@@ -922,7 +922,7 @@ WIP can be submitted through the [BSS](/wiki/bss) to the Beatmap Help [forum](/w
 
 ### z/x
 
-z/x are the default keys on the keyboard to [tap](/wiki/tap) in osu! A very popular alternative to the left and right mouse buttons.
+z/x are the default keys on the keyboard to [tap](/wiki/tap) in osu!, a very popular alternative to the left and right mouse buttons.
 
 During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa. The same applies to the `X` key and the right mouse button and vice versa.
 

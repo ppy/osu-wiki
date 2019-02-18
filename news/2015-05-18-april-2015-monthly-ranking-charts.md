@@ -17,7 +17,7 @@ For osu!, we decided to let **[Cherry Blossom](https://osu.ppy.sh/u/1156742)** p
 
 - **[TRakker \- Trail of Dust](https://osu.ppy.sh/s/207045) by [Amamiya Yuko](https://osu.ppy.sh/u/873961)**
 
-This map is just… beautiful, attractive and enjoyable. Let's talk about the storyboard first. The work on new combos is well done, the star that follows the player's cursor is something which was unexpected to me. They are both changing colors according to the atmosphere of each parts and it is really well done. I was really surprised and we haven't finished to get surprised yet. What should I say concerning the map? There is a lot of creative patterns and some sliderart as we can see in all Skystar maps and they play very well and they also reflect the current impact of the song as you can see with the fast objects and patterns in red which mainly follow the most powerful parts and the guitar as well. That's how a Taishi song must be mapped. I just want to say: good job! Not only to Amamiya Yuko, to everyone that was involved in this beatmap.
+This map is just... beautiful, attractive and enjoyable. Let's talk about the storyboard first. The work on new combos is well done, the star that follows the player's cursor is something which was unexpected to me. They are both changing colors according to the atmosphere of each parts and it is really well done. I was really surprised and we haven't finished to get surprised yet. What should I say concerning the map? There is a lot of creative patterns and some sliderart as we can see in all Skystar maps and they play very well and they also reflect the current impact of the song as you can see with the fast objects and patterns in red which mainly follow the most powerful parts and the guitar as well. That's how a Taishi song must be mapped. I just want to say: good job! Not only to Amamiya Yuko, to everyone that was involved in this beatmap.
 
 - [BlackYooh vs. siromaru \- BLACK or WHITE?](https://osu.ppy.sh/s/248876) by [BluOxy](https://osu.ppy.sh/u/580925)
 
@@ -37,7 +37,7 @@ This Circle Size 5 map is impressive. Everything plays well and the patterns fol
 
 - [DJ Fresh (feat. Ellie Goulding) \- Flashlight (Radio Edit)](https://osu.ppy.sh/u/695678) by [Frey](https://osu.ppy.sh/s/274035)
 
-The easiest beatmap among the maps I've chosen. When you look at the map in editor, patterns look a little messy and not really harmonious. But when you play the map, you see that everything plays naturally and intuitive, patterns follow the song perfectly and you can feel the real beauty of this map. Moreover, I'd like to say that this map can be enjoyable with all mods for an average or experienced player and that's why I've chosen this map. They are really rare to me and they are just… magic.
+The easiest beatmap among the maps I've chosen. When you look at the map in editor, patterns look a little messy and not really harmonious. But when you play the map, you see that everything plays naturally and intuitive, patterns follow the song perfectly and you can feel the real beauty of this map. Moreover, I'd like to say that this map can be enjoyable with all mods for an average or experienced player and that's why I've chosen this map. They are really rare to me and they are just... magic.
 
 ## Taiko
 
@@ -45,7 +45,7 @@ For Taiko, we asked **[Nashmun](https://osu.ppy.sh/u/49031)** about their favour
 
 - **[Morimori Atsushi \- PUPA](https://osu.ppy.sh/s/235506) by [TKS](https://osu.ppy.sh/u/940878)**
 
-A catchy map for a catchy tune! It is often said that when you have the right song, you have made 50% of the road to make a remarkable map, but it seems that a lot of people fail to make the 50% left. Here the job is done, and nicely done. When you have 3 elite mappers collabing in one mapset, you obviously expect something great and could be disappointed, but those streams… those streams are so great! If you are not a pro player yet, don't worry you have 4 great difficulty for you to enjoy. But if you want a great challenge which reveals the full potential of the song don't wait and start playing Inner Oni or Firce's Hell Oni right now!
+A catchy map for a catchy tune! It is often said that when you have the right song, you have made 50% of the road to make a remarkable map, but it seems that a lot of people fail to make the 50% left. Here the job is done, and nicely done. When you have 3 elite mappers collabing in one mapset, you obviously expect something great and could be disappointed, but those streams... those streams are so great! If you are not a pro player yet, don't worry you have 4 great difficulty for you to enjoy. But if you want a great challenge which reveals the full potential of the song don't wait and start playing Inner Oni or Firce's Hell Oni right now!
 
 - [Memme \- Chinese Restaurant](https://osu.ppy.sh/s/243893) by [Love](https://osu.ppy.sh/u/467487)
 
@@ -65,7 +65,7 @@ I swear, no chauvinism here! Jokes asides, breakcore maps tend to be overmapped,
 
 - [TeddyLoid ME!ME!ME! feat. daoko](https://osu.ppy.sh/s/293581) by [Kin](https://osu.ppy.sh/u/480689)
 
-Strange song, strange map. You have everything in this map : slow scroll speed, fast scroll speed, vocal mapping, percussion mapping, 1/6 snapped objects, 1/3 snapped objects, tricky streams, monocolored streams… The mapstyle changes as soon as the song changes. It result in a really unique map that you should definitely play at least once to make your own idea. But I'm sure you will enjoy it as much as I do!
+Strange song, strange map. You have everything in this map : slow scroll speed, fast scroll speed, vocal mapping, percussion mapping, 1/6 snapped objects, 1/3 snapped objects, tricky streams, monocolored streams... The mapstyle changes as soon as the song changes. It result in a really unique map that you should definitely play at least once to make your own idea. But I'm sure you will enjoy it as much as I do!
 
 ## Catch the Beat
 

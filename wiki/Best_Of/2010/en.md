@@ -1,7 +1,5 @@
 # 2010
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
-
 - [Results (table text file)](https://puu.sh/Fju)
   - [Forum](https://osu.ppy.sh/forum/t/43834)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2010)

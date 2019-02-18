@@ -1,8 +1,6 @@
 Skin Set List 
 ============= 
 
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
 Filenames containing `(-n)` can be animated. For example, hitcircleoverlay(-n).png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.).

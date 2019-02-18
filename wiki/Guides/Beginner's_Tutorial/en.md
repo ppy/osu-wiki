@@ -6,7 +6,7 @@ Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very
 Types of Input
 --------------
 
-*See also [Play Styles](/wiki/Play_Styles).*
+*Main page: [Play Styles](/wiki/Play_Styles)*
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
@@ -88,7 +88,7 @@ Getting more out of Gameplay
 
 ### Global Offset
 
-*See also [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).*
+*Main page: [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard)*
 
 Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
@@ -100,13 +100,13 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 ### Raw Input
 
-*See also [Options](/wiki/Options/#mouse).*
+*See also: [Options](/wiki/Options/#mouse)*
 
 A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 
 ### Skins
 
-*See also [Skinning](/wiki/Skinning/).*
+*See also: [Skinning](/wiki/Skinning)*
 
 There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
 

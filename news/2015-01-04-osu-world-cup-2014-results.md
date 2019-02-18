@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/107084870238/osu-world-cup-2014-resul
 ---
 The osu! World Cup 2014 ended in the middle of December and we proudly want to remember everyone on the winners our official osu! team tournament again and congratulate them for their outstanding performances.
 
-![](http://puu.sh/dQse7/d4680ab9f0.jpg)
+![](/wiki/shared/news/2015-01-04-osu-world-cup-2014-results/OWC-podium.jpg)
 
 During the grand final, Japan and Poland showed off their amazing playing skills. In order to be victorious, Japan had to win twice against Poland, because they ascended from the loser brackets into the finals. At the end, Japan achieved the impossible and beat Poland two times in a row, first by 6-1 and then again by 6-2\. You can watch the full record of the finals right here:
 

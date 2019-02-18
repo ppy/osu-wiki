@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/162821221298/osucatch-world-cup-2017-
 
 With a fierce battle between South Korea and the reigning title holder China, the osu!catch World Cup 2017 concluded last Sunday. After long six weeks of intense fruit-catching competition, we are glad to pronounce South Korea as the new osu!catch World Champion of 2017!
 
-![](/wiki/shared/news/banners/catch_logo_2017.png)
+![](/wiki/shared/news/banners/catch_logo_2017.jpg)
 
 The past five weeks have seen 189 intrepid fruit-catchers from 32 different countries duke it out for the ultimate prize of being crowned the 2017 osu!catch World Champions. We've seen thrills and spills, crises and comebacks, as the best players in the world showcased their talent in a total of 73 exciting matches. When all was said and done, only two of those teams remained standing for a final, fateful encounter.
 

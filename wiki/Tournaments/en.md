@@ -22,13 +22,14 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_PL] Poland |
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_KR] South Korea |
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_GB] United Kingdom |
+| [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Japan | ![][flag_CN] China |
-| 2012 Taiko World Cup | 2012-02-03 | 2012-04-01 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B |
+| [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B |
 | [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japan | ![][flag_HK] Hong Kong | ![][flag_FR] France |
 | [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_FR] France |
@@ -40,8 +41,8 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
-| Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
+| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
+| [Catch the Beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_SE] Sweden |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_DE] Germany |
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
@@ -60,6 +61,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7K | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_CN] China |
+| [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 
 Community
 ----------
@@ -90,12 +92,41 @@ Unofficial tournaments/competitions hosted by the communities.
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
+### ![](/wiki/shared/mode/osu.png) osu! Tag Team Multiplayer Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/oTTMT/1) | 2009-06-12 | 2009-09-06 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
+
 ### ![](/wiki/shared/mode/osu.png) osu! TV Size Tournament
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
+| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2019-02-23 | 2019-04-13 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](/users/1981187) | ![][flag_TR] [heyronii](/users/5642779) | ![][flag_CN] [Play Offline](/users/5791401) |
+| [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
+| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) osu! South East Asia Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](/users/1629553) | ![][flag_MY] [wuhua](/users/2932510) | ![][flag_SG] [Elegant Loli](/users/3010281) |
+| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](/users/4750008) | ![][flag_SG] [GSBlank](/users/2312106) | ![][flag_ID] [Rexeez](/users/1987591) |
+
+### ![](/wiki/shared/mode/osu.png) osu! European Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
@@ -114,7 +145,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift/1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
 ### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
 
@@ -127,6 +158,18 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | [Taiko Suiji Cup](/wiki/Tournaments/TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
+
+### ![](/wiki/shared/mode/taiko.png) Taiko Wars
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [Taiko Wars](/wiki/Tournaments/TW/1) | 2018-10-29 | 2018-12-02 | Land of Foda-se 2: Electric Boogaloo | cu | Iceland |
+
+### ![](/wiki/shared/mode/taiko.png) European Taiko Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](/users/8057655) | ![][flag_IT] [Ikkun](/users/1059945) | ![][flag_ES] [AlvaroYL](/users/6333166) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -171,15 +214,22 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB/2018/4K) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](/users/1646397) | ![][flag_CN] [Toki 0w0](/users/10392201) | ![][flag_CN] [Skyshifter](/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ![][flag_CN] [Crystal](/users/1646397) | ![][flag_CN] [Toki 0w0](/users/10392201) | ![][flag_CN] [Skyshifter](/users/10572577) |
+
+### ![](/wiki/shared/mode/mania.png) :thonking: Mania Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| :thonking: Mania Tournament | 2018-06-09 | 2018-07-15 | YaLTeR | narip | Keishii |
+| [2v2 :thonking: Mania Tournament](/wiki/Tournaments/TMT/2TMT) | 2018-11-10 | 2018-12-23 | La pancit bois | 3 argentos y medio | PolytETral |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](/users/4029511) | ![][flag_PH] [Muttsulinii](/users/4345491) | ![][flag_AU] [scissorsf](/users/6378800) |
-| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](/users/6443899)(4K), ![][flag_PH] [Dadots](/users/3525251)(7K) | ![][flag_AU] [scissorsf](/users/6378800)(4K), ![][flag_PH] [JztCallMeRon](/users/2471512)(7K) | ![][flag_PH] [Jsee](/users/6573652)(4K), ![][flag_PH] [SanniSanni](/users/3036686)(7K) |
-| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](/users/4581715)(Standard), ![][flag_PH] [Roido](/users/6829103)(Catch), ![][flag_PH] [joseee-](/users/10083439)(4K), ![][flag_PH] [cieloday05](/users/2722489)(7K) | ![][flag_PH] [-Marika](/users/2199427)(Standard), ![][flag_PH] [-Nicotine](/users/4818935)[Catch], ![][flag_PH] [exodia3000](/users/10500797)(4K), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(7K) | ![][flag_PH] [Varsagus](/users/3885723)(Standard), ![][flag_PH] [TyrantsEye2014](/users/4530738)(Standard), ![][flag_PH] [KaganimeRin](/users/1626093)(Catch), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(4K), ![][flag_PH] [MapleSyrup-](/users/1192936)(7K) |
+| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](/users/3036686)(osu!mania 7K) |
+| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](/users/4581715)(osu!), ![][flag_PH] [Roido](/users/6829103)(osu!catch), ![][flag_PH] [joseee-](/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](/users/2199427)(osu!), ![][flag_PH] [-Nicotine](/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](/users/1192936)(osu!mania 7K) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
 
@@ -187,6 +237,25 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
 | [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
+| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ![][flag_MY] [cheewee10](/users/4477497) | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [SitekX](/users/3840946) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](/users/1499137)(osu!), ![][flag_PH] [Pochacco](/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](/users/6221114)(osu!catch), ![][flag_PH] [arge-](/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [Rimazii](/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Baltz](/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](/users/3932796)(osu!), ![][flag_PH] [zonelouise](/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](/users/2722489)(osu!mania 7K) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
 
 See also
 --------
@@ -203,6 +272,7 @@ See also
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
@@ -218,8 +288,10 @@ See also
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VN]: /wiki/shared/flag/VN.gif

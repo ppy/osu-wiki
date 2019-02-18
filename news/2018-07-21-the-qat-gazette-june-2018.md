@@ -6,7 +6,7 @@ date: 2018-07-21 20:00:00 +0000
 
 A new month's worth of modding and mapping news is here for your convenience, with changes to Beatmap Nominator applications, Quality Assurance Team restructuring, and outcomes from the second public QAT meeting just some of this month's highlights. Read on inside to find out more!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 

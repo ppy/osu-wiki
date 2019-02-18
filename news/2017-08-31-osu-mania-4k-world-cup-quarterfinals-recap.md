@@ -10,7 +10,9 @@ This week, we're gonna try switching up the recap format to something a little m
 
 ### Navigation
 
-<a href="#mappool">Mappool</a></br><a href="#matches">Tournament Matches</a></br><a href="#ahead">Looking Ahead</a>
+- [Mappool](#mappool)
+- [Tournament Matches](#matches)
+- [Looking Ahead](#ahead)
 
 --------
 The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winners and Losers Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 

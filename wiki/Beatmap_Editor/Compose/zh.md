@@ -338,5 +338,3 @@ Compose
 代码写法是 `MM:SS:XXX` `{音频文件}@{音量}` 其中 MM:SS:XXX 的格式为 分:秒:毫秒。
 
 **例如：** 1:57:745 kick.wav@100% 代表在 1 分 57.745 秒钟，会以 100% 音量播放文件 "kick.wav"。
-
-[如果这满足不了你，你也可以试试更硬派的故事板制作法。](/wiki/Storyboard_Scripting/Miscellaneous)

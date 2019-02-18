@@ -32,7 +32,7 @@ The game also supports infinite levels. However, this doesn't mean that you can 
 Cube World has a combat that focuses on player skill and free movement. Of course, you are not able to defeat insanely high level bosses at level 3, but in most cases you are able to dodge enemy attacks and strike at the right moment. This is one of the reasons why I like this game; the game rewards you for being a skillful player. It feels great to take down an incredibly difficult boss who throws high damage boomerangs at you all by yourself. I wish enemies wouldn't be so simple though. Bosses would be much better if there would be more special attacks that are deadly if not avoided. I also noticed that only a few enemies actually try to dodge your attacks. Enemies that dodge add more intensity to the battle, and I wish it would be a norm for more difficult enemies.
 
 **  
-![image](https://lh5.googleusercontent.com/1G_lpXdpi1M86w0EvDw_XH0LYwL6gl2g4aL6Az4Koar78w_AVtsyXQkDrbCk_7jr4gUVkltmm_p883PF4mzqjD7WPgLkjvmt-2CmbmKAVD5HZju3GpehvnBi)**
+![image](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld1.jpg)**
 
 _You are able to defeat most monsters in the world if you are skilled enough._
 
@@ -43,7 +43,7 @@ For now, there are four different classes; Warrior, Mage, Ranger and Rogue. Warr
 Speaking of riding, one of the features I like are the pets. There are all kinds of animals you can obtain, that do many different things. Some do melee damage, some do ranged damage, some are ridden and there is even one that can heal you! To get a pet in Cube World, first you have to find out what food each animal likes. Then you have to obtain the food and then offer it to the animal. This is really simple but also insanely addicting. It's almost like playing Pokémon all over again; especially along with the fact that they are able to level up!
 
 **  
-![image](https://lh4.googleusercontent.com/XZciiMYUzS4SqdscM8UV_mmOF3ODEASFemJaaguj4LBFcMxrj7Kv6OvL-7BBMDB8x_09YDcXPH8IKBe6RIlpfJ6Tt3jgKM9s1mHTPgkjcaLF8ybjqGUg8vtD)**
+![image](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld2.jpg)**
 
 _Multiplayer is great fun if you get the right people to play with you._
 

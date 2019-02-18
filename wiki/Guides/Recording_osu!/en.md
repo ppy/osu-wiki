@@ -3,7 +3,7 @@ Recording osu!
 
 [Want to use Virtualdub instead of Sony Vegas? Click here!](http://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 
-Always wanted to make a video for Youtube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.
+Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.
 **Please note that there are more ways to do this, this is just my way.**
 [See result of this tutorial here (Watch in HD and fullscreen!)](http://youtube.com/watch?v=JRGhQh69geI)
 
@@ -67,8 +67,8 @@ Use the following options (depending on your Vegas version):
 
 ![Rendering video clip](Recording_6.png "Rendering video clip")
 
-Press the save button, and your video will be done in a couple of minutes. It's now ready for Youtube!
-Please note that it will take some time before the video will be available in high res on Youtube, be patient!
+Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube!
+Please note that it will take some time before the video will be available in high res on YouTube, be patient!
 
 **Now, go make videos and spread osu!**
 Guide done by [Remco32](http://osu.ppy.sh/u/9199), original thread [here](https://osu.ppy.sh/forum/t/18112)

@@ -1,7 +1,5 @@
 # 2007
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](/users/5530) for helping in compiling the 2007/2008 content.
 
 ![](img/2007.jpg)
@@ -86,7 +84,7 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_01.jpg "Main Menu \(Flooded with stars\)")
 
-![](img/2007-11_02.jpg "Log in screen")
+![](img/2007-11_02.jpg "Sign-in screen")
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 

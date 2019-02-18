@@ -30,7 +30,7 @@ Each of these sections currently have 4 volumes to them.
   - Alternatively, the player can download the songs inside manually one by one and it would still count.
 - Any variations (like different creator) of the song is not counted.
   It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be logged in to the osu!client (not osu!web).
+- The player's account in question must be signed in to the osu!client (not osu!web).
 
 ### Notes
 
@@ -89,7 +89,7 @@ The Dedication medals can be obtained by playing a lot of osu!standard, collecti
 Mod Introduction
 ----------------
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+*See also: [Game Modifiers](/wiki/Game_Modifiers)*
 
 The Mod Introduction medals can be obtained by clearing maps with the specified game modifier.
 They are meant to encourage newer players to try out each mod and explore what the game has to offer.

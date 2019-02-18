@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-20
 ---
 We would like to welcome all of you to new year's official osu!mania World Cups, starting with the 7-key edition! To ensure that you are aware of everything, please [read our wiki article carefully](http://osu.ppy.sh/wiki/MWC_7K_2016)  before registering for this tournament.
 
-![](http://puu.sh/lE9oF/4f12030aef.png)
+![](/wiki/shared/news/banners/MWC7K_2016.png)
 
 ## Tournament Schedule
 

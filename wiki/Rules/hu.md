@@ -40,7 +40,7 @@ Fórum Szabályzat
 Beatmap Közzétételi Szabályok
 ---------------------------------
 
-Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Beatmap_Submission_System) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/editor) segítségével a beatmap-ek publikálásra kerülnek.
+Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Glossary#bss) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/editor) segítségével a beatmap-ek publikálásra kerülnek.
 
 Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
 

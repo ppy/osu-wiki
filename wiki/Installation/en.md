@@ -1,6 +1,6 @@
 # Installation
 
-<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
+<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux)* -->
 
 This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
@@ -17,9 +17,9 @@ This page will roughly tell you how to get osu! working on your Windows device. 
     -   If you want to change it, click on the text underneath the word, "Hi!" and select the installation location.
     -   osu! will be installed to that location when the timer is done.
 4.  When the installer is completed, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
-5.  osu! will prompt you to log in or register.
-    -   If you have an account already, log in.
-    -   If you need to sign up, see [Registration](/wiki/Registration), then log in.
+5.  osu! will prompt you to sign in or register.
+    -   If you have an account already, sign in.
+    -   If you need to register, see [Registration](/wiki/Registration), then sign in.
 
 ## Adding beatmapsets
 
@@ -29,7 +29,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ### Website
 
-1.  Go to the [beatmap listing page](/beatmapsets) and log into the website.
+1.  Go to the [beatmap listing page](/beatmapsets) and sign in to the website.
 2.  Find a song you like to play.
 3.  Click on the download icon to save the beatmapset on your computer.
 4.  Locate and open the beatmapset file, it has an `.osz` extension.
@@ -50,7 +50,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ## Adding skins
 
-*See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning).*
+*See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
 
 1.  Go to the [skinning subforums](/community/forums/15) and find a skin you like.
 2.  Once you find a skin, download it.

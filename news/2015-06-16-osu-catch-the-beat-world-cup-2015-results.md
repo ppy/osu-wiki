@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/121704697763/osu-catch-the-beat-world
 ---
 The osu! Catch the Beat World Cup 2015 concluded on Sunday with an amazing Grand Final, and South Korea was able to defend their title after an intense battle against their opponent China!
 
-![](http://puu.sh/iqSz6/0777ff4dad.png)
+![](/wiki/shared/news/2015-06-16-osu-catch-the-beat-world-cup-2015-results/osu!ctb+ranking.png)
 
 During the grand final, South Korea and China showed off their outstanding skills in catching fruits. South Korea gave their best to defend their title against the strong Chinese team, whom they faced the week before already. China was able to win some ground, but was not able to defeat South Korea entirely. After performing a thrilling match, South Korea won with a fantastic score of 6-2.
 
