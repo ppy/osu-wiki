@@ -52,7 +52,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/851928)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -87,31 +87,48 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2019 bracket](img/bracket.png)
+![MWC 7K 2019 bracket](img/bracket_QF.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 16. February 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| Thailand | ![][flag_TH] | ![][flag_DE] | Germany | **12:00 UTC** | 19:00 UTC+07 | 13:00 UTC+01 |
-| Indonesia | ![][flag_ID] | ![][flag_NL] | Netherlands | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 |
-| Macau | ![][flag_MO] | ![][flag_CN] | China | **14:00 UTC** | 22:00 UTC+08 | 22:00 UTC+08 |
-| United States | ![][flag_US] | ![][flag_CL] | Chile | **19:00 UTC** | 15:00 UTC-04 | 16:00 UTC-03 |
-
-### Sunday, 17. February 2019
+### Saturday, 23. February 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| France | ![][flag_FR] | ![][flag_KR] | South Korea | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **15:00 UTC** | 16:00 UTC+01 | 13:00 UTC-02 |
+| Macau | ![][flag_MO] | ![][flag_SE] | Sweden | **16:00 UTC** | 0:00 (Sun) UTC+08 | 17:00 UTC+01 |
+| Germany | ![][flag_DE] | ![][flag_CL] | Chile | **17:00 UTC** | 18:00 UTC+01 | 14:00 UTC-03 |
+
+### Sunday, 24. February 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Thailand | ![][flag_TH] | ![][flag_US] | United States | **3:00 UTC** | 10:00 UTC+07 | 23:00 (Sat) UTC-04 |
+| Philippines | ![][flag_PH] | ![][flag_ID] | Indonesia | **4:00 UTC** | 12:00 UTC+08 | 11:00 UTC+07 |
+| France | ![][flag_FR] | ![][flag_JP] | Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
+| South Korea | ![][flag_KR] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Singapore | ![][flag_SG] | ![][flag_NL] | Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| China | ![][flag_CN] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 12:00 UTC-02 |
 
 ## Mappools
+
+### Quarterfinals
+
+- FreeMod
+  - [senya - Kimi to Dareka no Yasashisa ni (Wilben\_Chan) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/729871#mania/1540502)
+  - [ESTi - Secret Wish (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/396434#mania/862467)
+  - [-45 - 44river (cut) (Jinjin) \[Delayanother\]](https://osu.ppy.sh/beatmapsets/798021#mania/1675866)
+  - [Festa - Lemuria (Alsty-) \[CS' Extra\]](https://osu.ppy.sh/beatmapsets/589614#mania/1274136)
+  - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Agka) \[Sythesis (SV Demo)\]](https://osu.ppy.sh/beatmapsets/914109#mania/1909322)
+  - [Lily & Morrigan - Oath Nova Apocalypse (Evening) \[dream\]](https://osu.ppy.sh/beatmapsets/799683#mania/1678931)
+  - [P*Light - SAY BAY (qodtjr) \[QOD TJR\]](https://osu.ppy.sh/beatmapsets/775530#mania/1629677)
+  - [nana feat. GUMI - algorhythm (Cryolien) \[Calculate\]](https://osu.ppy.sh/beatmapsets/797096#mania/1674060)
+  - [The Flashbulb - That Missing Week (Blocko) \[Absence\]](https://osu.ppy.sh/beatmapsets/554454#mania/1173827)
+  - [M2U - Dual Fractal (Kim_GodSSI) \[Pure Evil\]](https://osu.ppy.sh/beatmapsets/884979#mania/1849722)
+  - [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
+- Tiebreaker
+  - **[Bassdrum RendaP, Menikichi feat. Nekomura Iroha, GUMI - Mousou Full Black (Cryolien) \[Delusional Moment\]](https://osu.ppy.sh/beatmapsets/781323#mania/1640985)**
 
 ### Round of 16
 
@@ -148,6 +165,22 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2019-02-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/49626306) |
+| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/49627296) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/49628551) |
+| Macau ![][flag_MO] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49629983) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/49638222) |
+
+| Sunday, 2019-02-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| France ![][flag_FR] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49656211) |
+| Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49660865) |
 
 ### Group Stage
 
