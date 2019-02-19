@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Scorewatch: 3 February to 16 February"
-date: 2019-02-19 07:00:00 +0000
+date: 2019-02-20 02:00:00 +0000
 ---
 
 Round two of Scorewatch! This time, we've got more scores, more videos and more hype to showcase more of the best from osu!'s top players in all modes. Check out the feats these guys have been pulling off!
 
-![](/wiki/shared/news/2019-02-19-scorewatch-3-february-to-16-february/banner.jpg)
+![](/wiki/shared/news/2019-02-20-scorewatch-3-february-to-16-february/banner.jpg)
 
 Scorewatch is settling back into a regular schedule, and it looks like we'll be able to run this for a while! That means you can check back here for bi-weekly updates on all the latest and greatest scores made in the game.
 
