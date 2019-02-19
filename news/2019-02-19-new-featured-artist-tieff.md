@@ -16,7 +16,7 @@ Except now, he's back, and as our latest Featured Artist!
 
 Inspired by his experiences with mapping, much of **tieff**'s work is a natural match for anyone looking to delve into a slower-paced, highly emotive sound. Featuring influences from a variety of genres such as instrumental hip-hop, chillout, future garage, melodic dubstep and progressive trance, his artistry lies in a wonderful in-between, and we're super excited to see what people make of it.
 
-Don't take my word for it, listen to a small selection of some of the tracks now available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/33):
+Don't take my word for it, listen to a small selection of some of the tracks now available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/34):
 
 ### Saturate
 
