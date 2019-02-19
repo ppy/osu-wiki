@@ -8,7 +8,7 @@ Bringing a founding member of the early osu! mapping scene back into the limelig
 
 [![](https://assets.ppy.sh/artists/34/header.jpg)](https://osu.ppy.sh/beatmaps/artists/34)
 
-Here since almost the very beginning, almost everyone with even a passing knowledge of osu!'s history will know **tieff**'s  name as one of the old 'great' mappers who laid out the creative foundation that we now all take for granted.
+Here since almost the very beginning, just about everyone with even a passing knowledge of osu!'s history will know **tieff**'s  name as one of the old 'great' mappers who laid out the creative foundation that we now all take for granted.
 
 **tieff** has been with the osu!community for nearly **10 years**, sporting a fruitful tenure in the Beatmap Approval Team (the precursor to the modern-day Quality Assurance Team) and gaining the honour of joining the ranks of the osu!alumni in respect for his many years of service.
 
