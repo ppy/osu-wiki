@@ -13,7 +13,7 @@ Without further ado, I present to you the first showcased map:
 **[Kozato - 45nen no Yukizakura](https://osu.ppy.sh/s/50771) by [Rewrite](https://osu.ppy.sh/u/1161361)**  
 **Storyboard by [yukinohara](https://osu.ppy.sh/u/580107)**
 
-This map was lucky enough to have both a custom skin and storyboard created for it by yukinohara, a very skilled graphic designer. The pink, cherry blossom-themed images subtly move and transition to set a wonderful atmosphere for the music, and the very sleek custom skin ensures that this atmosphere is accented by the hitobjects, rather than harmed.
+This map was lucky enough to have both a custom skin and storyboard created for it by yukinohara, a very skilled graphic designer. The pink, cherry blossom-themed images subtly move and transition to set a wonderful atmosphere for the music, and the very sleek custom skin ensures that this atmosphere is accented by the hit objects, rather than harmed.
 
 Although we have plenty of great storyboards to go on already, it's not too late to make your voice heard! We're still accepting submissions for wonderful storyboards - **[click here to submit your favorite](https://docs.google.com/forms/d/e/1FAIpQLSdlIqmZ-C6_BzTgJ8_b3yXVrJ6Y07r1sFvocHtcz_F4Dpki5g/viewform)**, if you haven't already done so.
 
