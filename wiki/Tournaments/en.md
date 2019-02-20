@@ -128,13 +128,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
 
-### ![](/wiki/shared/mode/osu.png) \#Game\_Osu Tourney
+### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| \#Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
-| \#Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
-| [\#Game\_Osu Tourney Winter/Spring Edition](/wiki/#GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
+| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
+| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
+| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/#GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 

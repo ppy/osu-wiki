@@ -7,11 +7,11 @@ tags:
 - GO 3
 - GO3
 ---
-# \#Game\_Osu Tourney 3
+# #Game\_Osu Tourney 3
 
-![\#GO3 Logo](img/logo.png)
+![#GO 3 Logo](img/logo.png)
 
-The **\#Game\_Osu Tourney 3** (***\#GO3***) is a [Logitech](https://www.logitech.com/ "Logitech website") sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](/users/9239673), ![][flag_FR] [Kaanibaru](/users/3117824) and supported by ![][flag_FR] [Sardoche](/users/4383702). It is the third installment of the \#Game\_Osu Tourney.
+The **#Game\_Osu Tourney 3** (**#GO 3**) is a [Logitech](https://www.logitech.com/ "Logitech website") sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](/users/9239673), ![][flag_FR] [Kaanibaru](/users/3117824) and supported by ![][flag_FR] [Sardoche](/users/4383702). It is the third installment of the #Game\_Osu Tourney.
 
 ## Tournament Schedule
 
@@ -42,7 +42,7 @@ The **\#Game\_Osu Tourney 3** (***\#GO3***) is a [Logitech](https://www.logitech
 
 ## Organisation
 
-The \#Game\_Osu Tourney 3 is run by various community members.
+The #Game\_Osu Tourney 3 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,14 +60,14 @@ The \#Game\_Osu Tourney 3 is run by various community members.
 ## Links
 
 - [Discussion thread](/community/forums/topics/869989)
-- [GO Discord server](https://discord.gg/trnFByC)
-- [GO Youtube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
+- [#GO Discord server](https://discord.gg/trnFByC)
+- [#GO Youtube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
 - [Website](https://www.gameosu.com/)
 - [Player registration form](https://www.gameosu.com/sign_up)
 - Livestream
-  - [\#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
+  - [#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
   - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche)
-  - [\#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
+  - [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
 
 -----------------------
 
@@ -79,7 +79,7 @@ The \#Game\_Osu Tourney 3 is run by various community members.
 
 ## Mappools
 
-*The first mappools (for Qualifiers Stage) will be revealed at 2019-03-04 (20:00 UTC+0).*
+*The first mappools (for Qualifiers Stage) will be revealed on 2019-03-04 at 20:00 UTC+0.*
 
 ------------------------------------------------------------------------
 
@@ -87,15 +87,15 @@ The \#Game\_Osu Tourney 3 is run by various community members.
 
 ### General Rules
 
-1. The \#Game\_Osu is a one-on-one osu! tournament supported by Logitech.
+1. The #Game\_Osu is a one-on-one osu! tournament supported by Logitech.
 2. The Qualifier will be in single-elimination.
 3. All subsequent rounds will be run in double-elimination.
 4. Every match will be played on **Score V2**. Reviving is allowed.
-5. **The maximum number of registrants is 128**.
+5. The maximum number of registrants is **128 participants.**
 6. Only the **top 128 based on [BWS Rank](https://pastebin.com/3QSaGdkE)** at the end of the registering period will be allowed to participate.
-7. To apply for registration, you need to be under **#10,000** worldwide.
-8. Participation in the tourney is **prohibited** for members of the [Game\_Osu staff](https://www.gameosu.com/staff) (*with the exception of casters*).
-9. Mappools will be revealed at the end of every week on Sundays on the [Game\_Osu Twitch channel](https://www.twitch.tv/gameosu). While using the \#Game\_Osu website, follow the "Planning" tab to learn more about the schedule and the "Mappool" tab to check them out after the stream.
+7. To apply for registration, you need to be at least **#10,000** worldwide.
+8. Participation in the tourney is **prohibited** for members of the [#Game\_Osu staff](https://www.gameosu.com/staff) (*with the exception of casters*).
+9. Mappools will be revealed at the end of every week on Sundays on the [#Game\_Osu Twitch channel](https://www.twitch.tv/gameosu). While using the #Game\_Osu website, follow the "Planning" tab to learn more about the schedule and the "Mappool" tab to check them out after the stream.
 
 ### Match Organisation
 
@@ -112,7 +112,7 @@ The \#Game\_Osu Tourney 3 is run by various community members.
 
 #### Qualifiers
 
-1. Qualifier will be played in **groups of 4**. Each group will have a Top seed and one lower seeded player of each category.
+1. Qualifier will be played in **groups of 4.** Each group will have a Top seed and one lower seeded player of each category.
 2. We will **not be able to reschedule** your matches for the qualifiers, so make sure you are available before registering.
 3. The match lobbies will be created around **5 - 10 minutes** ahead of the schedule.
 4. If a player fails to join the lobby past 10 minutes of his scheduled match, we will declare the match a forfeit.
@@ -135,14 +135,14 @@ The \#Game\_Osu Tourney 3 is run by various community members.
 4. Each player will `!roll`. The highest roll decides the pick and ban order (first to ban will be the last to pick).
 5. In case of a tie, the Tiebreaker will be played. Losers in the Winners bracket will go to the Losers bracket.
 6. If any participants experienced a disconnection in the middle of play from Bancho, a rematch of that same map may be played at the referee's discretion. The players are given 5 minutes after a disconnection to contact their referee via osu! or Discord before being counted a loss.
-7. Rescheduling is allowed, however we ask of you to contact your opponent by yourself and then send us a proof that both of you are having an aggrement to reschedule. You can do so by posting a message on the `#rescheduling` text-channel on [GO Discord server](https://discord.gg/trnFByC) with both you and your opponent acknowledging it. The deadline for rescheduling is on the Thursday 7PM (UTC) of the upcoming week of your match.
+7. Rescheduling is allowed, however we ask of you to contact your opponent by yourself and then send us a proof that both of you are having an aggrement to reschedule. You can do so by posting a message on the `#rescheduling` text-channel on [#GO Discord server](https://discord.gg/trnFByC) with both you and your opponent acknowledging it. The deadline for rescheduling is on the Thursday 7PM (UTC) of the upcoming week of your match.
 
 ### Behaviour Rules
 
 1. Every [osu! Rules](/wiki/Rules) applies.
 2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist**.
-3. We will not tolerate any ounce of **cheating or attempts to gain an unfair advantage over the other players**.
-4. Please note that **only** the [\#Game\_Osu](https://www.twitch.tv/gameosu) and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads**. Players are allowed to stream their matches.
+3. We will not tolerate any ounce of **cheating or attempts to gain an unfair advantage over the other players.**
+4. Please note that **only** the [#Game\_Osu](https://www.twitch.tv/gameosu) and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.** Players are allowed to stream their matches.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
