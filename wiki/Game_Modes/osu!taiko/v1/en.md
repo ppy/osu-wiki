@@ -130,8 +130,8 @@ The default controls for osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
 ---|---|---|---
-Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
-Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
+Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
+Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
 
 The placement of in-game cursor does not matter when playing.
 

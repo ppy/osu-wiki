@@ -102,7 +102,7 @@ Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu]
 Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
-_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
+_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
 
 Le gameplay met l'accent sur:
 
@@ -184,7 +184,7 @@ Les contrôles par défaut d'osu! sont:
 
 Souris|Clavier|Tablette/Écran Tactile
 ---|---|---|
-Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
+Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
@@ -295,8 +295,8 @@ Les contrôles par défaut pour osu!taiko sont:
 
 Type | Souris | Clavier | TaTaCon
 ---|---|---|---
-Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
-Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
+Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
+Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
 
 La position du curseur n'est pas utilisée.
 

@@ -187,19 +187,19 @@ Approach Rate通常缩写为"**AR**"。
 
 **Widescreen Support**
 
-`   - 加对宽屏的支持`
+`   - 加对宽屏的支持`
 
 **Display storyboard in front of combo file**
 
-`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
+`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
 
 **Display epilespy warning(Storyboard has <abbr title="为了表达震撼感，会采用背景闪烁不同颜色光的技术。在每秒24个画面的速度下，每1～2个单位时间反覆不同画面。青少年眼睛的比大人更敏感。加上儿童大多喜欢不眨眼地盯著屏幕看，而红光跟蓝光（最为刺激人眼）快速切换的速率又高达1/12秒一次，于是在观看画面的同时，视神经受到强烈刺激，影响到脑部的控制，轻则不舒服，重则会昏厥或痉挛,这些现象在医学上被称为急性光过敏症，也称为光敏感性癫痫症。">quick strobing</abbr>)**
 
-`   - 在开始前提示Storyboard会有令人不适的闪烁`
+`   - 在开始前提示Storyboard会有令人不适的闪烁`
 
 **Letterbox during breaks**
 
-`   - 在休息的时候用黑色边框将背景图像围起来。`
+`   - 在休息的时候用黑色边框将背景图像围起来。`
 
 ### 谱面皮肤设定(Skinning)
 

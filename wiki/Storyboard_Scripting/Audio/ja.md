@@ -27,6 +27,6 @@ where:
 例えば譜面で良い終わりを迎えた時(要するにPassの状態で通った時)、短い音楽を鳴らし、その後爆発音のエフェクトを入れたい場合は以下のようになります
 
 ```
-Sample,163520,2,"Audio\Best End.mp3",80
+Sample,163520,2,"Audio\Best End.mp3",80
 Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```

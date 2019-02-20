@@ -44,7 +44,7 @@ Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah be
 4.  [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](http://puu.sh/jAwxU/ff27ba387e.png)
 5.  Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
 
-`Contoh: !report `<Username>` is suspected to be a cheater.`
+`Contoh: !report `<Username>` is suspected to be a cheater.`
 
 Catatan: *Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan*
 

@@ -48,7 +48,7 @@ Click the "Report" link at the right side of their score on the beatmap info (we
 
 Use !report in in-game chat to send a message to moderators.
 
-`Example: !report `<Username>` is suspected to be a cheater.`
+`Example: !report `<Username>` is suspected to be a cheater.`
 
 Your help in spotting foul play is much appreciated. You can also send an email directly to osu@ppy.sh for a relatively fast response.
 
@@ -66,7 +66,7 @@ Address your emails to accounts@ppy.sh and use a subject of "Ban Appeal: <userna
 
 Include the reason you were banned (if you have been banned, you know why) and explain why you do not believe your behaviour should have resulted in a ban.
 
-`Allow up to five days for a response. If you make an appeal and it is rejected, all further appeals will be rejected.`
+`Allow up to five days for a response. If you make an appeal and it is rejected, all further appeals will be rejected.`
 
 Jak uniknąć uciszenia/blokady konta?
 ------------------------------------

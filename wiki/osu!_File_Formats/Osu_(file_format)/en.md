@@ -8,7 +8,7 @@ Global structure
 
 The first line of the file specifies the version of beatmap file. Example:
 
-`osu file format v12`
+`osu file format v12`
 
 The following lines are separated into multiple sections, indicated by square brackets.
 
@@ -30,39 +30,39 @@ General
 
 AudioFilename (String) specifies the location of the audio file relative to the current folder.
 
-`AudioFilename: 03 artcore JINJA.mp3`
+`AudioFilename: 03 artcore JINJA.mp3`
 
 AudioLeadIn (Integer, milliseconds) is the amount of time added before the audio file begins playing. Useful for audio files that begin immediately.
 
-`AudioLeadIn: 2000`
+`AudioLeadIn: 2000`
 
 PreviewTime (Integer, milliseconds) defines when the audio file should begin playing when selected in the song selection menu.
 
-`PreviewTime: 10013`
+`PreviewTime: 10013`
 
 Countdown (Integer) specifies the speed of the countdown which occurs before the first hit object appears. (0=No countdown, 1=Normal, 2=Half, 3=Double)
 
-`Countdown: 0`
+`Countdown: 0`
 
 SampleSet (String) specifies which set of hit sounds will be used throughout the beatmap.
 
-`SampleSet: Soft`
+`SampleSet: Soft`
 
 StackLeniency (Decimal) is how often closely placed hit objects will be stacked together.
 
-`StackLeniency: 0.7`
+`StackLeniency: 0.7`
 
 Mode (Integer) defines the game mode of the beatmap. (0=osu!, 1=Taiko, 2=Catch the Beat, 3=osu!mania)
 
-`Mode: 0`
+`Mode: 0`
 
 LetterboxInBreaks (Boolean) specifies whether the letterbox appears during breaks.
 
-`LetterboxInBreaks: 0`
+`LetterboxInBreaks: 0`
 
 StoryFireInFront (Boolean) specifies whether or not display the storyboard in front of combo fire.
 
-`StoryFireInFront: 0`
+`StoryFireInFront: 0`
 
 SkinPreference (String) specifies the preferred skin to use during gameplay.
 
@@ -70,7 +70,7 @@ SkinPreference (String) specifies the preferred skin to use during gameplay.
 
 EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning of the beatmap.
 
-`EpilepsyWarning: 0`
+`EpilepsyWarning: 0`
 
 CountdownOffset (Integer) specifies how many beats earlier the countdown starts.
 
@@ -78,47 +78,47 @@ CountdownOffset (Integer) specifies how many beats earlier the countdown starts.
 
 WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
 
-`WidescreenStoryboard: 0`
+`WidescreenStoryboard: 0`
 
 SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
 
-`SpecialStyle: 0`
+`SpecialStyle: 0`
 
 UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's skin resources.
 
 [UseSkinSprites sample](https://osu.ppy.sh/beatmapsets/654033/#taiko/1386414)
 
-`UseSkinSprites: 0`
+`UseSkinSprites: 0`
 
 Editor
 ------
 
 Bookmarks (Integer List, milliseconds) is a list of comma-separated times of editor bookmarks.
 
-`Bookmarks: 94171`
+`Bookmarks: 94171`
 
 DistanceSpacing (Decimal) is a multiplier for the "Distance Snap" feature.
 
-`DistanceSpacing: 1.22`
+`DistanceSpacing: 1.22`
 
 BeatDivisor (Integer) specifies the beat division for placing objects.
 
-`BeatDivisor: 4`
+`BeatDivisor: 4`
 
 GridSize (Integer) specifies the size of the grid for the "Grid Snap" feature.
 
-`GridSize: 4`
+`GridSize: 4`
 
 TimelineZoom (Integer) specifies the zoom in the editor timeline.
 
-`TimelineZoom: 1`
+`TimelineZoom: 1`
 
 Metadata
 --------
 
 Title (String) is the title of the song limited to ASCII characters.
 
-`Title:artcore JINJA`
+`Title:artcore JINJA`
 
 TitleUnicode (String) is the title of the song with unicode support. If not present, Title is used.
 
@@ -146,7 +146,7 @@ Source (String) describes the origin of the song.
 
 Tags (String List) is a collection of words describing the song. Tags are searchable in both the online listings and in the song selection menu.
 
-`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
+`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
 
 BeatmapID (Integer) is the ID of the single beatmap.
 
@@ -260,7 +260,7 @@ Timing Points
 
 Timing points describe a number of properties regarding beats per minute and hit sounds.
 
-**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
+**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
 
 The *offset* is an integral number of milliseconds, from the start of the song. It defines when the timing point starts. A timing point ends when the next one starts. The first timing point starts at 0, disregarding its offset.
 
@@ -296,7 +296,7 @@ Each colour is specified with a triplet of RGB colour channel values, from 0 to 
 Example: 2 combos, the first light grey, the second bright red.
 
 ```
-Combo1 : 245,245,245
+Combo1 : 245,245,245
 Combo2 : 255,0,0
 ```
 

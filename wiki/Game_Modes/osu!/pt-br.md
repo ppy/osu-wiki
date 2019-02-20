@@ -66,7 +66,7 @@ Através do poder mágico de animação dos garotos, o jogador tem que ajudar as
 
 ## ![osu! icon][osu! icon link] Jogabilidade
 
-_Tutoriais: [Tutorial original][osu!tutorial basic], [Versão com beatmap ranqueado][osu!tutorial rank]_
+_Tutoriais: [Tutorial original][osu!tutorial basic], [Versão com beatmap ranqueado][osu!tutorial rank]_
 
 A jogabilidade enfatiza:
 
@@ -160,7 +160,7 @@ Os controles padrão do osu! são:
 
 Mouse|Teclado|Tablet/Touchscreen
 ---|---|---|
-Clique direito (M1) / Clique esquerdo (M2)|`Z`(B1) / `X`(B2)| Toque na tela (M1)
+Clique direito (M1) / Clique esquerdo (M2)|`Z`(B1) / `X`(B2)| Toque na tela (M1)
 
 Os _hit objects_ do osu! irão aceitar a entrada de qualquer dispositivo, desde que cada um desses objetos receba a interação apropriada dentro de um timing aceitável.
 

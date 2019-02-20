@@ -48,7 +48,7 @@ Clique no link "Report" no lado direito da pontuação do beatmap (site)
 
 Use !report na conversa do jogo para enviar uma mensagem aos moderadores.
 
-`Exemplo: !report `<Nome de usuário>` possível trapaceiro.`
+`Exemplo: !report `<Nome de usuário>` possível trapaceiro.`
 
 A sua ajuda em detectar alguém trapaceando é muito agradecida. Você também pode enviar um e-mail diretamente para osu@ppy.sh para uma resposta relativamente rápida.
 
@@ -72,4 +72,3 @@ Como posso evitar ser silenciado ou banido?
 -----------------------------------------
 
 Você pode simplesmente ler as regras aqui: [Regras do osu!](Osu!:Rules "wikilink")
-

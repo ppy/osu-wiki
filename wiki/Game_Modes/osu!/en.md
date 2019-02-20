@@ -62,7 +62,7 @@ Through the magical power of male cheerleading, the player have to help the peop
 
 ## ![osu! icon][osu! icon link] Gameplay
 
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
 
 The gameplay puts emphasis on:-
 
@@ -160,7 +160,7 @@ The default controls for osu! are:-
 
 Mouse|Keyboard|Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 

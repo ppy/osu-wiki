@@ -14,8 +14,8 @@ Storyboard Scripting Shorthand
 
 ```
 _(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
-_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
-_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
+_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
+_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
 ```
 
 ここで言われる(duration)(期間)は((endtime_of_first) - (starttime_of_first))をした時の値です。
@@ -77,7 +77,7 @@ SBではエフェクトが切れると最後のエフェクトの数値を引き
 Sprite,Pass,Centre,"Sample.png",320,240
 _F,0,1000,,0.5
 _M,0,1000,2000,0,0,320,240
-// ... 他の多くの M command
+// ... 他の多くの M command
 ```
 
 この効果を2回以上行うと、指定したタイムに辿り着いた瞬間に値が急激に(間の値の補完なしで)変わります。

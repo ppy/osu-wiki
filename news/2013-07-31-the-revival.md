@@ -9,7 +9,7 @@ Hello everyone! It's been roughly a year and a half since the last release of th
 
 **What is the osu!monthly?**
 
-The osu!monthly's original concept was to be a newsletter for the community to find the highlights of the game each month. Over the timeline of the project, it's progressed into a magazine of sorts, but we've decided to turn back to the root of the idea. The monthly is now transitioning into a blog-type publication – updates are posted in more frequent intervals, and are separated by individual posts now, rather than an entire issue.
+The osu!monthly's original concept was to be a newsletter for the community to find the highlights of the game each month. Over the timeline of the project, it's progressed into a magazine of sorts, but we've decided to turn back to the root of the idea. The monthly is now transitioning into a blog-type publication – updates are posted in more frequent intervals, and are separated by individual posts now, rather than an entire issue.
 
 Our goal is to provide information about the community and be open to ideas from the community about anything happening on osu!. We understand that the forums can be an overwhelming place for someone who's new, and that's why the osu!monthly was conceived in the first place; to be the bridge between the information and to those that are interested in reading it.
 

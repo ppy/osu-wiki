@@ -17,23 +17,23 @@ Como Se Conectar
 
 Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em
 
-` `[`cho.ppy.sh`](irc://cho.ppy.sh)` OU `[`irc.ppy.sh`](irc://irc.ppy.sh)` (ambos destinam-se para o mesmo host) na porta `<b>`6667`</b>` (a porta padrão do IRC)`
+` `[`cho.ppy.sh`](irc://cho.ppy.sh)` OU `[`irc.ppy.sh`](irc://irc.ppy.sh)` (ambos destinam-se para o mesmo host) na porta `<b>`6667`</b>` (a porta padrão do IRC)`
 
 Autenticando-se no Bancho
 -------------------------
 
 Quando você se conecta ao bancho você recebe uma mensagem assim:
 
-`* Welcome to osu!bancho. (Bem vindo ao osu!bancho)`
-`* -`
-`* - You are required to authenticate before accessing this service. (Faça uma autenticação para acessar esse serviço)`
-`* - Please click the following link to complete this process: (Clique no link abaixo para completar esse processo)`
+`* Welcome to osu!bancho. (Bem vindo ao osu!bancho)`
+`* -`
+`* - You are required to authenticate before accessing this service. (Faça uma autenticação para acessar esse serviço)`
+`* - Please click the following link to complete this process: (Clique no link abaixo para completar esse processo)`
 
 Quando você entrar no endereço informado você verá uma tela com a opção "Authorise IRC connection" (Autorizar conexão IRC). Ao simplesmente clicar nesse botão você estará autenticado e será conectado automaticamente em [\#osu](irc://cho.ppy.sh/osu).
 
 Se você não deseja fazer essa autenticação toda vez que se conecta você pode pode incluir o código de autenticação no seu perfil do IRC ou use quando estiver conectando.
 
-`Para autorizar seu cliente permanentemente, mude a autenticação do servidor para: XXXXXXX`
+`Para autorizar seu cliente permanentemente, mude a autenticação do servidor para: XXXXXXX`
 
 Comandos Básicos do IRC
 =======================
@@ -51,8 +51,8 @@ Desativando mensagens de Join/Part
 
 Toda vez que alguém entra ou sai do canal, uma mensagem assim aparece:
 
-`nomedojogador has joined #algumcanal`
-`nomedojogador has quit #algumcanal`
+`nomedojogador has joined #algumcanal`
+`nomedojogador has quit #algumcanal`
 
 Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entram e saem do \#osu constantemente tornando difícil acompanhar o chat.
 

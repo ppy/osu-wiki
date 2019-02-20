@@ -62,7 +62,7 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 #### {username}
 
-`Logged in as {username}`
+`Logged in as {username}`
 
 Click on it to access user stuff.
 
