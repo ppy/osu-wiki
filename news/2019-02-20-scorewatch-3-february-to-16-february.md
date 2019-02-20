@@ -201,17 +201,17 @@ FlyingTuna surprised us all with the second (almost-) FC on AXION_REBORN! While 
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-**[Ulqui](https://osu.ppy.sh/users/1263669)**: [MMM Yeah [Easy]](https://osu.ppy.sh/beatmapsets/177015#mania/430223) +HD **Silver S** (FC, 99.89%)  
+**[Ulqui](https://osu.ppy.sh/users/1263669)**: [Nigro [Xay's Taiko]](https://osu.ppy.sh/beatmapsets/430223#taiko/928094) +HD **Silver S** (FC, 99.89%)  
 3 February 2019, Unranked  
 *Added and written by [JDrago14](https://osu.ppy.sh/users/7690078)*
 
-Despite that this map has only been loved for a little over a week now, this is actually quite an old map; and a difficult one at that. With technical patterns and some complex streams that are sure to throw some players off. However, Ulqui prevails and manages to shine through by scoring one of the only few HD FCs on the map while attaining high accuracy as well, sementing it's place here.
+Despite that this map has only been Loved for a little over a week now, this is actually quite an old map, and a difficult one at that. It comes with technical patterns and some complex streams that are sure to throw some players off. However, Ulqui prevails and manages to shine through by scoring one of the only few HD FCs on the map while attaining high accuracy as well, cementing its place here.
 
 **[Ppus](https://osu.ppy.sh/users/5918857)**: [Tanoshii Yoru no Ochakai - Ringo's Tea Party [kata's-M CorpseParty]](https://osu.ppy.sh/beatmapsets/468400#taiko/1001887) +HD **Silver S** (FC, 99.64%)  
 3 February 2019, Loved  
 *Added and written by [JDrago14](https://osu.ppy.sh/users/7690078)*
 
-Ppus' play on this map highlights just how impressive it really is. As this map has a ton of SV Gimmicks that'll make even the best sightreaders struggle to play this. Not to mention with Hidden, there is less room to read any patterns.
+Ppus' play on this map highlights just how impressive it really is. As this map has a ton of SV Gimmicks that'll make even the best sightreaders struggle to play this well. Not to mention with Hidden, there is less room to read any patterns.
 
 **[isobe](https://osu.ppy.sh/users/8047347)**: [Songs Compilation [Kin's Inner Oni]](https://osu.ppy.sh/beatmapsets/736560#taiko/1558698) +HD,DT **Silver S** (FC, 98.63%)  
 7 February 2019, Ranked, 455pp  
