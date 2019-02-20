@@ -38,7 +38,7 @@ The **#Game\_Osu Tourney 3** (**#GO 3**) is a [Logitech](https://www.logitech.co
 | *4th place* | 150€ |
 | *5th place* | 100€ |
 
-*Prizes may change overtime. Such as addition of Logitech branded hardware (includes mice, headsets, keyboards, etc).*
+*Prizes may change over time such as an addition of Logitech branded hardware (e.g. mice, headsets, keyboards, etc).*
 
 ## Organisation
 
@@ -66,7 +66,7 @@ The #Game\_Osu Tourney 3 is run by various community members.
 - [Player registration form](https://www.gameosu.com/sign_up)
 - Livestream
   - [#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
-  - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche)
+  - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche) (Finals and Grand Finals Livestream)
   - [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
 
 -----------------------
@@ -88,7 +88,7 @@ The #Game\_Osu Tourney 3 is run by various community members.
 ### General Rules
 
 1. The #Game\_Osu is a one-on-one osu! tournament supported by Logitech.
-2. The Qualifier will be in single-elimination.
+2. The Qualifiers will be in single-elimination.
 3. All subsequent rounds will be run in double-elimination.
 4. Every match will be played on **Score V2**. Reviving is allowed.
 5. The maximum number of registrants is **128 participants.**
@@ -112,7 +112,7 @@ The #Game\_Osu Tourney 3 is run by various community members.
 
 #### Qualifiers
 
-1. Qualifier will be played in **groups of 4.** Each group will have a Top seed and one lower seeded player of each category.
+1. The Qualifiers will be played in **groups of 4.** Each group will have a Top seed and one lower seeded player of each category.
 2. We will **not be able to reschedule** your matches for the qualifiers, so make sure you are available before registering.
 3. The match lobbies will be created around **5 - 10 minutes** ahead of the schedule.
 4. If a player fails to join the lobby past 10 minutes of his scheduled match, we will declare the match a forfeit.
@@ -139,10 +139,10 @@ The #Game\_Osu Tourney 3 is run by various community members.
 
 ### Behaviour Rules
 
-1. Every [osu! Rules](/wiki/Rules) applies.
-2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist**.
+1. All [osu! Rules](/wiki/Rules) apply.
+2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist.**
 3. We will not tolerate any ounce of **cheating or attempts to gain an unfair advantage over the other players.**
-4. Please note that **only** the [#Game\_Osu (EN)](https://www.twitch.tv/gameosu), [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.**However, players are allowed to stream their matches.
+4. Please note that **only** the [#Game\_Osu (EN)](https://www.twitch.tv/gameosu), [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.** However, players are allowed to stream their matches.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
