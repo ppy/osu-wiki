@@ -1,9 +1,9 @@
 ---
 tags:
-- '#Game\_Osu Tourney 3'
+- '#Game_Osu Tourney 3'
 - '#GO 3'
 - '#GO3'
-- Game\_Osu Tourney 3
+- Game_Osu Tourney 3
 - GO 3
 - GO3
 ---
@@ -11,7 +11,7 @@ tags:
 
 ![#GO 3 Logo](img/logo.png)
 
-The **#Game\_Osu Tourney 3** (**#GO 3**) is a [Logitech](https://www.logitech.com/ "Logitech website") sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](/users/9239673), ![][flag_FR] [Kaanibaru](/users/3117824) and supported by ![][flag_FR] [Sardoche](/users/4383702). It is the third installment of the #Game\_Osu Tourney.
+The **#Game\_Osu Tourney 3** (**#GO 3**) is a [Logitech](https://www.logitech.com/ "Logitech website") sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](/users/9239673) and ![][flag_FR] [Kaanibaru](/users/3117824), and supported by ![][flag_FR] [Sardoche](/users/4383702). It is the third installment of the #Game\_Osu Tourney.
 
 ## Tournament Schedule
 
@@ -142,7 +142,7 @@ The #Game\_Osu Tourney 3 is run by various community members.
 1. Every [osu! Rules](/wiki/Rules) applies.
 2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist**.
 3. We will not tolerate any ounce of **cheating or attempts to gain an unfair advantage over the other players.**
-4. Please note that **only** the [#Game\_Osu](https://www.twitch.tv/gameosu) and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.** Players are allowed to stream their matches.
+4. Please note that **only** the [#Game\_Osu (EN)](https://www.twitch.tv/gameosu), [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.**However, players are allowed to stream their matches.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
