@@ -477,7 +477,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 4. それぞれの譜面プールには１つのtiebreakerの譜面があります。
 5. NoModブラケットは no modeでプレイされます。
 6. SpecialブラケットはNoModブラケットにある異なる譜面の高難度バージョンで、no modeでプレイされます。
-7. Hidden, HardRockそして DoubleTimeブラケットは　それぞれのmodsでプレイされます。
+7. Hidden, HardRockそして DoubleTimeブラケットはそれぞれのmodsでプレイされます。
 8. FreeModブラケットは FreeModでプレイされます。全てのプレイヤーはHidden, HardRock,両方,もしくは NoModのいずれかでプレイできます。
 9. Tiebreakerは NoModでプレイされます。
    - Tiebreakerで同点だった場合、もう一度Tiebreakerを FreeModの条件で再戦します。
