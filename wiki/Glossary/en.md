@@ -485,7 +485,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 ### Modder
 
-A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [*modding*](/wiki/modding), and the posts are referred to as *mods*.
+A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called *[modding](/wiki/modding)*, and the posts are referred to as *mods*.
 
 Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
@@ -613,7 +613,7 @@ Play time is the total duration of a beatmap. This includes the lead-in time and
 
 ### pp
 
-Short for [*performance points*](/wiki/Performance_Points). The main ranking metric of the game.
+Short for *[performance points](/wiki/Performance_Points)*. The main ranking metric of the game.
 
 ### puush
 
@@ -625,7 +625,7 @@ For more information about puush, see [puush / home](https://puush.me).
 
 ### QAT
 
-Short for [*Quality Assurance Team*](/wiki/People/Quality_Assurance_Team). Used to refer to the group itself or one of its members.
+Short for *[Quality Assurance Team](/wiki/People/Quality_Assurance_Team)*. Used to refer to the group itself or one of its members.
 
 ## R
 
