@@ -559,7 +559,7 @@ One osu!coin will give the player one play, while retrying a beatmap will consum
 - 999USD = 1000 osu!coins (0.001% savings!)
 - first unborn child = infinite osu!coins (unborn child will work for osu!)
 
-The following day, peppy rolled back the implementation of osu!coins due to popular demand, and ended with [this remark](https://disq.us/p/w2ydos).
+The following day, peppy rolled back the implementation of osu!coins due to popular demand, and ended with [this remark](https://osu.ppy.sh/home/changelog/cuttingedge/20150401).
 
 ### osupixel
 
