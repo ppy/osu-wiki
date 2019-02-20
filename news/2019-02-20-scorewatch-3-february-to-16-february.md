@@ -201,7 +201,7 @@ FlyingTuna surprised us all with the second (almost-) FC on AXION_REBORN! While 
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-**[Ulqui](https://osu.ppy.sh/users/1263669)**: [MMM Yeah [Easy]](https://osu.ppy.sh/beatmapsets/177015#mania/430223) +HD **Silver S** (FC, 99.89%)  
+**[Ulqui](https://osu.ppy.sh/users/1263669)**: [Nigro [Xay's Taiko]](https://osu.ppy.sh/beatmapsets/430223#taiko/928094) +HD **Silver S** (FC, 99.89%)  
 3 February 2019, Unranked  
 *Added and written by [JDrago14](https://osu.ppy.sh/users/7690078)*
 
