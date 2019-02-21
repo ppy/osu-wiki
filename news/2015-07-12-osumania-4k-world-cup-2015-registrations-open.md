@@ -25,7 +25,7 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 ## What has been changed?
 
 + Sign-ups are individual now. Teams will be compiled by captains **after registration phase**. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#tournament-registration).
-+ Sign-ups run via [this web registration now](https://jizz.ppy.sh/tournaments/1).
++ Sign-ups run via [this web registration now](https://osu.ppy.sh/tournaments/1).
 + We split the 4K and 7K brackets into two independent tournaments. Whereas the 4K version takes place now, the 7K version takes place on December 2015.
 + We plan to run this tournament as a 3 versus 3 tournament.
 + We have changed over to a double elimination bracket after group stage. Therefore, the tournament runs for a full week longer. Check [the Stage Instructions](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#stage-instructions) for more details.
@@ -43,7 +43,7 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://jizz.ppy.sh/tournaments/1)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/1)**
 + Do not found teams in advance! **Register individually, if you wish to join this competition**. Teams will be formed after registration phase concluded by country's team captains!
 + Hand in your registration before **2. August 2015 at 23:59:59  UTC.**
 + You can only participate if you are of a **osu!mania global ranking of #5000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.

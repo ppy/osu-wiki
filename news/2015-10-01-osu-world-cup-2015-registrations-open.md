@@ -23,7 +23,7 @@ We would like to welcome all of you to this year's official osu! World Cup. This
 ## What has been changed?
 
 + Players are now able to sign-up individually. Teams will be compiled by captains **after** the registration phase is over. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/wiki/OWC_2015#Tournament_Registration).
-+ You can sign up from the [registration page](https://jizz.ppy.sh/tournaments/2).
++ You can sign up from the [registration page](https://osu.ppy.sh/tournaments/2).
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11).
 + The limitations of exchanging players have been removed. You can exchange players freely now.
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
@@ -42,7 +42,7 @@ We are aiming to have a minimum $5,000 cash prize pool for this world cup. We wi
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://jizz.ppy.sh/tournaments/2)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/2)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Submit your registration before **18th October 2015 at 23:59:59  UTC**.
 

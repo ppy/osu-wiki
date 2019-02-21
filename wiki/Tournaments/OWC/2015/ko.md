@@ -48,7 +48,7 @@ osu! World Cup 2015
 
 -   [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
 -   [논의 스레드](https://osu.ppy.sh/forum/p/4550383)
--   [등록 페이지](https://jizz.ppy.sh/tournaments/2)
+-   [등록 페이지](https://osu.ppy.sh/tournaments/2)
 -   [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 -   **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 

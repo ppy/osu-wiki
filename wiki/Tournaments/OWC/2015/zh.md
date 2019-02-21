@@ -48,7 +48,7 @@ osu! World Cup 2015
 
 -   [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive/)
 -   [讨论页](https://osu.ppy.sh/forum/p/4550383)
--   [报名页](https://jizz.ppy.sh/tournaments/2)
+-   [报名页](https://osu.ppy.sh/tournaments/2)
 -   [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 -   **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
