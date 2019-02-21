@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-wo
 ---
 What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016, we saw numerous announcements from the people that bring us updates around the game. Strap yourselves in everybody, this is going to be a big one.
 
-![](http://puu.sh/nqIAS/05e726ece8.jpg)
+![](https://puu.sh/nqIAS/05e726ece8.jpg)
 <table width="100%"><tr><td align="left"><a href="https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57">Previous</a></td>
 <td align="right"><a href="https://osu.ppy.sh/home/news/2016-05-04-osuweekly-59">Next</a></td>
 </tr></table>
@@ -16,7 +16,7 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 
 **The results are in for our [April community poll](https://osu.ppy.sh/forum/t/439440)!** In an attempt to try to at least gauge how many people wish to map in comparison to people who already do so, the poll asked everyone what their current status in the mapping community is. While I can't say I wasn't expecting it, a greater portion of the community expects that they will map some time in the future! It's great to see so many people who want to help grow our game as much as we do, and we hope to make mapping and modding more accessible in the future to help everyone ease into the process.
 
-![](http://puu.sh/oxp6F/dd8de2cc49.png)
+![](https://puu.sh/oxp6F/dd8de2cc49.png)
 <p style="text-align:center;"><i>Hopefully, we'll start seeing more people in the purple soon ;)</i></p>
 
 **It would seem the speed of which we are progressing has [caught flyte off-guard](https://next.ppy.sh/post/143203562533/its-friday-the-latest-new-thing-that-i-designed#disqus_thread)!** In case you missed the previous issue with the nice (completely real) achievement graphic, new achievements and medal animations have been added into the game. We also have a couple of new original art popping up on the live preview on the new website over at [new.ppy.sh](https://osu.ppy.sh/forum), so be sure to check it out!
@@ -33,13 +33,13 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg6tHEf1c_0" frameborder="0" allowfullscreen></iframe>
 
-**For team Taiwan, every mistake in this final encounter cost them dearly.** While Japan took the first 6 games in the set, the individual results were [by no means completely one-sided](http://puu.sh/oxqYD/fa4392fc2b.png). The first song was won by a marginal 5638 difference, and a couple of minor shakeups following switching out some of Japan's star players allowed the Taiwanese team to put 2 points on the board for themselves. Taiwan, who hasn't seen a osu!taiko World Cup victory since 2013, wasn't quite out of it yet.
+**For team Taiwan, every mistake in this final encounter cost them dearly.** While Japan took the first 6 games in the set, the individual results were [by no means completely one-sided](https://puu.sh/oxqYD/fa4392fc2b.png). The first song was won by a marginal 5638 difference, and a couple of minor shakeups following switching out some of Japan's star players allowed the Taiwanese team to put 2 points on the board for themselves. Taiwan, who hasn't seen a osu!taiko World Cup victory since 2013, wasn't quite out of it yet.
 
-However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/u/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/s/295703), where Japan [really put the nail in the coffin](http://puu.sh/oxryl/10b66ab4dd.png).
+However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/u/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/s/295703), where Japan [really put the nail in the coffin](https://puu.sh/oxryl/10b66ab4dd.png).
 
 **It is my pleasure to present to you the winners of the osu!taiko World Cup 2016!**
 
-![](http://puu.sh/ouYP8/7c0f0de74f.jpg)
+![](https://puu.sh/ouYP8/7c0f0de74f.jpg)
 
 For a full list of standings, please take a look at our [wiki page](https://osu.ppy.sh/wiki/TWC). If you are back for some more of those juicy statistics, our doc is still being updated [here](https://docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml).
 

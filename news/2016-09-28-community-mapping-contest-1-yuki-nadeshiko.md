@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/151057958633/community-mapping-contes
 Another talented artist emerges as an official osu!musician. To celebrate, we're holding a brand new collaborative community mapping contest in a brand new, never-before-seen format with community voting! Come check it out!
 <!-- more -->
 
-![](http://puu.sh/rqLHx/42a523ea5c.jpg)
+![](https://puu.sh/rqLHx/42a523ea5c.jpg)
 
 We're back at last with a new mapping contest! To formally usher in our newest osu!musician, we've decided to hold **an all-modes mapping contest with a brand new twist**. [**yuki.**](https://osu.ppy.sh/beatmaps/artists/4) has stepped up to the plate alongside [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) and [nekodex](https://osu.ppy.sh/beatmaps/artists/1) to form our first set of featured artists.
 

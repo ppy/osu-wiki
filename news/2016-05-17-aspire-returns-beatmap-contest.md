@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/144493773648/aspire-returns-beatmap-c
 Aspire returns for a second round. Mappers from around the world, prepare yourselves!
 <!-- more -->
 
-![](http://puu.sh/oTUdn/ce9faf4bbe.jpg)
+![](https://puu.sh/oTUdn/ce9faf4bbe.jpg)
 
 Due to overwhelming demand, we've decided to bring the contest back for a second run, pitting the best creative minds of the mapping community against each other in an almost-everything-goes design free-for-all!
 

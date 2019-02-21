@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/152550487418/osuweekly-78-extra-spook
 Do you ever get the feeling the game changes whenever you're not looking at it? I know, spooky right? Thankfully, the osu!weekly has been keeping track of the position of everything on your desk. Want to know where that ghost took your tablet pen? Read on to find out!
 <!-- more -->
 
-![](http://puu.sh/nqIAS/05e726ece8.jpg)
+![](https://puu.sh/nqIAS/05e726ece8.jpg)
 <table width="100%"><tr><td align="left"><a href="https://osu.ppy.sh/home/news/2016-10-24-osuweekly-76">Previous</a></td>
 <td align="right">Next</td>
 </tr></table>

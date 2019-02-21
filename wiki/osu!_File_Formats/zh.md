@@ -55,8 +55,8 @@ osu! 特有的文件格式
 
 **图例：** (感谢 [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+-   [WinRAR](https://puu.sh/1MBV)
+-   [7-zip](https://puu.sh/1MBW)
 
 ### 在游戏中创建
 

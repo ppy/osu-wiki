@@ -23,7 +23,7 @@ Some Rules:
 
 ## How to enter
 
-**You must post a web-friendly (600px by 600px maximum) image in [the official contest thread](https://osu.ppy.sh/forum/t/206852), and link to a much larger print-friendly image (at least *1000x1000*, as high as possible) for possible merch use. You can upload the images on <https://up.ppy.sh/> or <http://puush.me/>**
+**You must post a web-friendly (600px by 600px maximum) image in [the official contest thread](https://osu.ppy.sh/forum/t/206852), and link to a much larger print-friendly image (at least *1000x1000*, as high as possible) for possible merch use. You can upload the images on <https://up.ppy.sh/> or <https://puush.me/>**
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. While this isn't a merch design contest per se, if we do decide to use your image on a t-shirt or other item, you will get a free one!
 

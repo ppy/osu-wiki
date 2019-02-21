@@ -825,7 +825,7 @@ Setelah beatmap Anda berada di Graveyard, Anda dapat menghapusnya sendiri dengan
 
 #### Bagaimana cara mengkonfigurasi osu!keyboard?
 
-**Anda dapat menggunakan utilitas konfigurasi osu!keyboard, tersedia menggunakan [​tautan ini​](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**Anda dapat menggunakan utilitas konfigurasi osu!keyboard, tersedia menggunakan [​tautan ini​](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Cukup ekstrak di mana saja selama berada di komputer Anda, dan jalankan executable-nya!
 

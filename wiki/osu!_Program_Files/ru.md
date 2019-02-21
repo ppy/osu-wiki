@@ -152,8 +152,8 @@ osu! Program Files
 
 **Наглядные примеры>** (спасибо [Skinning tutorial](https://osu.ppy.sh/forum/t/51694) [от MLGnom](https://osu.ppy.sh/u/46620))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+-   [WinRAR](https://puu.sh/1MBV)
+-   [7-zip](https://puu.sh/1MBW)
     -   Для карты используйте расширение .osz.
 
 ### Файловые расширения osu!

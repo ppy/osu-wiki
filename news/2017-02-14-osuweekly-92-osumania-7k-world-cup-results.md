@@ -9,7 +9,7 @@ The osu!mania 7K World Cup has reached a very decided conclusion! In the communi
 
 <!-- more -->
 
-![](http://puu.sh/nqIAS/05e726ece8.jpg)
+![](https://puu.sh/nqIAS/05e726ece8.jpg)
 <table width="100%"><tr><td align="left"><a href="https://osu.ppy.sh/home/news/2017-02-08-osuweekly-91">Previous</a></td>
 <td align="right">Next</td>
 </tr></table>
@@ -66,7 +66,7 @@ The osu!mania 7K world cup scene has been commanded confidently by Team China si
 
 In line with a series of domineering performances given out by the South Korean team, it looks like Team China will be vacating the throne as champions of keyboard grinding for a new king!
 
-![](http://puu.sh/u2u0a/89ce9b03c5.jpg)
+![](https://puu.sh/u2u0a/89ce9b03c5.jpg)
 
 All podium placers will receive the usual physical goodies as well as split a prize pool that will likely be announced shortly.
 

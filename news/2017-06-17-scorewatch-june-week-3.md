@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/161898698903/scorewatch-june-week-3
 
 A close encounter with Airman, multiple 700pp plays and more in this week's edition of scorewatch!
 
-![](http://puu.sh/wlWK2/b4023e5865.png)
+![](https://puu.sh/wlWK2/b4023e5865.png)
 
 [filsdelama](https://osu.ppy.sh/u/2831793) took aim, reading and accuracy to greater heights as he slammed his No. 1 Top Score and cemented his position at the top on [mimimemeMIMI - Harebare Fanfare](https://osu.ppy.sh/b/1059894) with a 1x 100 99.81% HDHRDT FC to guarantee him a whopping 765pp. You might want to see that insane leaderboard jump at 0:58.
 

@@ -826,7 +826,7 @@ Once your beatmap is in the Graveyard, you can delete it yourself by clicking th
 
 #### How do I configure the osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**You can use the osu!keyboard configuration utility, available from [this link](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Simply extract it to anywhere on your computer, and run the executable!
 

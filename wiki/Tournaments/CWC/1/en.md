@@ -106,12 +106,12 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - SUPER STAR -MITSURU- - THANK YOU FOR PLAYING \[CWC competition\]
   - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](/beatmapsets/43027#fruits/135142)
-  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- \[2Q\]](http://puu.sh/ccsl)
+  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- \[2Q\]](https://puu.sh/ccsl)
   - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](/beatmapsets/31297#fruits/102923)
-  - [NicoNico Chorus - World's End Dancehall \[CLSPEC Adieu Special\]](http://puu.sh/eykZ)
-  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](http://puu.sh/1g0e)
-  - [LEAF XCEED Music Division - Fur Elise \[Extra CtB Stage\]](http://puu.sh/HiC)
-  - [Yousei Teikoku - Kokou no Sousei \[Verdi's TAG2\]](http://puu.sh/f6oX)
+  - [NicoNico Chorus - World's End Dancehall \[CLSPEC Adieu Special\]](https://puu.sh/eykZ)
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
+  - [LEAF XCEED Music Division - Fur Elise \[Extra CtB Stage\]](https://puu.sh/HiC)
+  - [Yousei Teikoku - Kokou no Sousei \[Verdi's TAG2\]](https://puu.sh/f6oX)
   - Ryu\* - I'm so Happy \[Shana's Madness CTB\]
 
 ### Semifinals

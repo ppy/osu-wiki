@@ -796,7 +796,7 @@ Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur
 
 ### Comment configurer le osu!keyboard ?
 
-**Vous pouvez le faire via le programme de configuration du osu!keyboard, disponible à partir de [ce lien](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**Vous pouvez le faire via le programme de configuration du osu!keyboard, disponible à partir de [ce lien](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Simplement l'extraire quelque part sur votre ordinateur suffit, et lancez l'exécutable !
 

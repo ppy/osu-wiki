@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 #### Mappool B
 
 - Challenge
-  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](http://puu.sh/BvQaX/4cbcdb17de.osz)
+  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz)
   - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](/beatmapsets/584714/#taiko/1237040)
 - DoubleTime
   - [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](/beatmapsets/846862/#taiko/1771063)

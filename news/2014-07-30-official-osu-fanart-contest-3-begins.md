@@ -24,7 +24,7 @@ Some Rules:
 
 ## **How to enter:**
 
-### You must post a web-friendly (370px wide by 320px maximum) image in **[the official contest thread](https://osu.ppy.sh/forum/t/230225)**, and link to a much larger print-friendly image (at least **1200x1200**, preferably higher, or vector, if possible) for possible merch use. You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [http://puush.me/](https://puush.me) You may enter more than one image, but you can only win one grand prize, and you MUST include all of your entries in one forum post.
+### You must post a web-friendly (370px wide by 320px maximum) image in **[the official contest thread](https://osu.ppy.sh/forum/t/230225)**, and link to a much larger print-friendly image (at least **1200x1200**, preferably higher, or vector, if possible) for possible merch use. You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me) You may enter more than one image, but you can only win one grand prize, and you MUST include all of your entries in one forum post.
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. We'll hopefully be using many of these entries in various web formats, and if we use your art in an official capacity you'll get a one-month supporter tag.
 

@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/146760479638/osuweekly-66-osucatch-wo
 ---
 We have our champions for the osu!catch World Cup of 2016! Peppy has posted a much anticipated update on the blog, and we have many more community tournaments happening around the community. Read on to find out more!
 
-![](http://puu.sh/nqIAS/05e726ece8.jpg)
+![](https://puu.sh/nqIAS/05e726ece8.jpg)
 <table width="100%"><tr><td align="left"><a href="https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65">Previous</a></td>
 <td align="right">Next</td>
 </tr></table>
@@ -30,13 +30,13 @@ We have our champions for the osu!catch World Cup of 2016! Peppy has posted a mu
 
 ---
 
-![](http://puu.sh/p5ulR/815c443354.png)
+![](https://puu.sh/p5ulR/815c443354.png)
 
 *By -KousakaHonoka-*
 
 The osu!catch World Cup 2016 has concluded with Indonesia facing off again last years runner-up China in Grand Final. How was their journey to reach Grand Final?
 
-<center>![](http://puu.sh/pMLj3/47284249df.png)</center>
+<center>![](https://puu.sh/pMLj3/47284249df.png)</center>
 
 As the Grand Final began, China picked Morimori Atsushi - PUPA (Cherry Blossom) [Butterfly] and Indonesia responded it by gained their first point.
 
@@ -44,15 +44,15 @@ Indonesia picked DJ Sharpnel - IVALTEK (happy30) [HappyMiX] in hope they could g
 
 Without wasting time China tried to gain everything they could, closed the 1st round with a massive 7 - 1 win and proceed to 2nd match as China came from Loser Bracket and they needed another win to be crowned as World Champion.
 
-![](http://puu.sh/pK4SR/a62fc1da7e.png)
+![](https://puu.sh/pK4SR/a62fc1da7e.png)
 
 Lost their first chance to win, Indonesia changed the strategy by picked different song in the first pick (Hitori Tori - perthed again (yambabom remix) (CLSW) [Nervous Breakdown]) in hope they could get their first point, but China was able to convert it to their point and made 4 - 1 lead shortly. Indonesia didn't want to give up, tried everything they can and they successfully chased their deficit to 4 - 3. Indonesia tried their last chance to win the remaining rounds in order to win the World Cup, but the on-fire China sealed the match with 7 - 3 and brought home World Champion title for second time as they have won it previously in 2012.
 
-![](http://puu.sh/pK4V0/ff02f4bf04.png)
+![](https://puu.sh/pK4V0/ff02f4bf04.png)
 
 An honorable mention to Dusk (China) as the player who successfully made SS in same song (T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) [Collab Insane]) three times in a row.
 
-![](http://puu.sh/pGKjK/91b509024b.jpg)
+![](https://puu.sh/pGKjK/91b509024b.jpg)
 
 Congratulations to China for taking home first in the osu!catch 2016 World Cup! A big round of applause for Indonesia as the Runner Up, and Germany in 3rd Place. Finally, a big thank you as well to all of the participants in osu!catch World Cup 2016! You guys put on a fantastic show this year.
 

@@ -52,7 +52,7 @@ Esta é uma lista expandida de beatmaps com [storyboard](wiki/Storyboards).
 -   [Pendulum - Propane Nightmares (VIP Remix)](https://osu.ppy.sh/b/73716)
 -   [Panic! at the Disco - The Ballad of Mona Lisa](https://osu.ppy.sh/b/88207)
 -   [Ruslana - Wild Dances](https://osu.ppy.sh/b/98440)
--   [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/s/50177) ([esta versão](http://puu.sh/yLYs), não a disponibilizada pelo link de donwnload)
+-   [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/s/50177) ([esta versão](https://puu.sh/yLYs), não a disponibilizada pelo link de donwnload)
 -   [HTT - NO, Thank You! (Full Ver.)](https://osu.ppy.sh/b/66832)
 -   [Okina Reika - Tsuki no Curse](https://osu.ppy.sh/s/41357)
 -   [CROW'SCLAW - Possession](https://osu.ppy.sh/s/17558)

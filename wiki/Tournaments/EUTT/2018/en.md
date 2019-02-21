@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   - [C-Show - Invitation from Mr.C (myckoll) \[MyckOni\]](/beatmapsets/543554/#taiko/1152078)
 - Hidden
   - [BlackY - JEHANNEDARC (komasy) \[INNER ONI\]](/beatmapsets/633361/#taiko/1344250)
-  - [Chouchou P - White Prism (zkane2) \[Rainbow \[EUTT\]\]](http://puu.sh/BW9eQ/9b094f23bc.osz)
+  - [Chouchou P - White Prism (zkane2) \[Rainbow \[EUTT\]\]](https://puu.sh/BW9eQ/9b094f23bc.osz)
 - HardRock
   - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](/beatmapsets/215476/#taiko/506018)
   - [USAO - Miracle 5ympho X (Gezoda) \[Gezo's Giga Oni\]](/beatmapsets/137394/#taiko/486191)

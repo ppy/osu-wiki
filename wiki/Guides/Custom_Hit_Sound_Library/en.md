@@ -102,8 +102,8 @@ Miscellaneous
 10. [38](http://www.mediafire.com/?imfezmnztzx) - Snare
 11. [39](https://up.ppy.sh/files/mididrumswavpack.rar) - MIDI Percussion wav pack
 12. [40](http://www.mediafire.com/download.php?jjnwmyy0mmf) - Drums wav pack (There are some unlabeled sounds)
-13. [- LKs Hitsound Pack](http://puu.sh/uEpY)
-14. [- LKs Ultimate Hitsound Pack](http://puu.sh/1Ojer)
+13. [- LKs Hitsound Pack](https://puu.sh/uEpY)
+14. [- LKs Ultimate Hitsound Pack](https://puu.sh/1Ojer)
 
 Silence
 -------

@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/147838862138/aspire-2-concludes-winne
 ---
 The judges have made their decisions, and the winner of the second Aspire contest has been declared!
 
-![](http://puu.sh/oTUdn/ce9faf4bbe.jpg)
+![](https://puu.sh/oTUdn/ce9faf4bbe.jpg)
 
 After weeks of intense scrutiny, our judging dream-team of [Chaoslitz](https://osu.ppy.sh/u/chaoslitz), [Natsu](https://osu.ppy.sh/u/Natsu), [Okorin](https://osu.ppy.sh/u/Okorin), [Sonnyc](https://osu.ppy.sh/u/Sonnyc) agonized endlessly over the creativity thrust before them. In keeping with Aspire tradition, both [ztrot](https://osu.ppy.sh/u/ztrot) and myself stepped in to judge purely in the creative category alone, giving the contest its signature weighting towards creative enterprise.
 

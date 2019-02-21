@@ -10,7 +10,7 @@ The dread moon rises as All Hallow's Eve draws near. Chills and thrills abound b
 
 To celebrate the coming of everyone's favourite spooky holiday, we've got a bunch of stuff planned for everyone to enjoy.
 
-![](http://puu.sh/rZkQL/13dfe2e551.png)
+![](https://puu.sh/rZkQL/13dfe2e551.png)
 
 **A mischievous spirit has possessed the osu! game client, turning the main-menu into a Halloween-themed paradise - for the dead!** Featuring the fantastic art of the top 10 community voted pieces from the [Halloween Fanart contest](https://osu.ppy.sh/community/contests/5) alongside an all-new spooky remix of the osu! theme by our resident osu!musician cYsmix, the new menu is sure to get you in the rhythm for this year's Halloween spectacular.
 
@@ -33,7 +33,7 @@ These fancy new looks won't linger for long once the power of All Hallow's Eve d
 
 **Aside from that, we've also unearthed some brand new hush-hush style achievements from the dead, complete with swanky medals**:
 
-![](http://puu.sh/rYFY5/4653b8ec95.png)
+![](https://puu.sh/rYFY5/4653b8ec95.png)
 
 There's no time to spare, so get meticulous and start figuring out the infinitesimal clues that will lead to your impeccable acquisition of these brand new medals. Slow and steady sometimes wins the race though, so don't fret if you can't quite catch up to the realtor extraordinaire - these medals are no fickle dream, and you'll be able to get them in reality if you try hard enough! Particularly crafty players will find our mechanical benefactors yield their secrets in no time, so make sure to cooperate with your friends to find out what's what! But make sure to at least give the mystery a try for yourself first - balance in all things, after all.
 
@@ -41,7 +41,7 @@ There's no time to spare, so get meticulous and start figuring out the infinites
 
 **If chasing after hidden treasures (and boy are some of them *hidden*) isn't your thing, we've also got a most spooky Chart-slash-Spotlight prepared for you.** If you're unfamiliar with the term, a Spotlight is a featured selection of maps that will soon become the game standard for what was once covered inside the Ranking Charts and Beatmap Packs. Basically, they're themed collections of relatively recent maps that we think you'll love, and have their own mini scoreboards as a set for you to compete on.
 
-Download the Halloween Spotlight map pack [here](http://puu.sh/rYzoS/3ccb9ea263.zip), and check out the scoreboards for the event so far [here](https://osu.ppy.sh/p/chart?ch=HALLO2016).
+Download the Halloween Spotlight map pack [here](https://puu.sh/rYzoS/3ccb9ea263.zip), and check out the scoreboards for the event so far [here](https://osu.ppy.sh/p/chart?ch=HALLO2016).
 
 **The Halloween Spotlight will run for a full fortnight - well after the spooks themselves have retreated back into the earth to wait for next year.** The winners from each gamemode will find themselves earning 2 months of osu!supporter status each - long enough to tide you over until the Christmas events start in earnest!
 

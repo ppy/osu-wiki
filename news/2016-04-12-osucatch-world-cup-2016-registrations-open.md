@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/142680619968/osucatch-world-cup-2016-
 ---
 We'd like to welcome all of you to this year's official osu!catch World Cup. As usual, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://osu.ppy.sh/wiki/CWC_2016#Ruleset)** before registering for this tournament.
 
-![](http://puu.sh/ofsJA/b31f8d8306.png)
+![](https://puu.sh/ofsJA/b31f8d8306.png)
 
 For more details, refer to the **[osu!catch World Cup 2016 wiki article](https://osu.ppy.sh/wiki/CWC_2016)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/442617)**.

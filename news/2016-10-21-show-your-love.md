@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/152109048933/show-your-love
 As we enter the second phase of our Loved state testing, get ready to cast your vote for the next set of maps to enter the category!
 <!-- more -->
 
-![](http://puu.sh/rLQPQ/316c9445f3.png)
+![](https://puu.sh/rLQPQ/316c9445f3.png)
 
 We're pleased to see the positively glowing reception for the new Loved beatmap status. We'd expected people to like it, but not quite *this* much! Evidently it was something that we should've pushed forward a long time ago, but enough of that for now.
 

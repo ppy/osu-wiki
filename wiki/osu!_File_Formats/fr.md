@@ -56,8 +56,8 @@ Créer un fichier .osz/.osk
 
 **Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
 
-- [WinRAR](http://puu.sh/1MBV)
-- [7-zip](http://puu.sh/1MBW)
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
     - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu

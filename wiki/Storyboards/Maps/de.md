@@ -53,7 +53,7 @@ Lieder mit coolen Effekten
 -   [Pendulum - Propane Nightmares (VIP Remix)](https://osu.ppy.sh/b/73716)
 -   [Panic! at the Disco - The Ballad of Mona Lisa](https://osu.ppy.sh/b/88207)
 -   [Ruslana - Wild Dances](https://osu.ppy.sh/b/98440)
--   [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/s/50177) ([this version](http://puu.sh/yLYs), not by 'download' link)
+-   [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/s/50177) ([this version](https://puu.sh/yLYs), not by 'download' link)
 -   [HTT - NO, Thank You! (Full Ver.)](https://osu.ppy.sh/b/66832)
 -   [Okina Reika - Tsuki no Curse](https://osu.ppy.sh/s/41357)
 -   [CROW'SCLAW - Possession](https://osu.ppy.sh/s/17558)

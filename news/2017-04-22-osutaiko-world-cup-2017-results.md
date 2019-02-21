@@ -16,7 +16,7 @@ It all came together to create some of the most intense matches in the TWC thus 
 
 Without further ado, let's get to the results!
 
-![](http://puu.sh/vsmm0/24f479f16f.png)
+![](https://puu.sh/vsmm0/24f479f16f.png)
 
 **With an explosively dominating performance, team Japan claims victory in the osu!taiko World Cup 2017!**
 

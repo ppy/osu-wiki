@@ -39,7 +39,7 @@ First place wins you an **osu! store pack** featuring 1x [osu! tablet](https://o
 *   You should use the [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) stickers to create an osu! beatmap in real life.
 *   Post a web-friendly (370px wide by 320px maximum) image in the [official contest thread](https://osu.ppy.sh/forum/t/312138)
 *   Link to a larger print-friendly image
-*   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [http://puush.me/](http://puush.me)
+*   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
 *   You may enter more than one image, but you can only win one prize. If you have more than one entry, please keep them all in a **single forum post**.
 
 By entering, you agree to let us use your photograph on the osu! website and social media accounts. Only entries that follow all rules will be considered. Winners will be chosen by a panel of osu! staff.

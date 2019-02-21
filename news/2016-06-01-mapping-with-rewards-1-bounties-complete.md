@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/145260581333/mapping-with-rewards-1-b
 It's been a long time coming, but our first ever set of mapping bounties have been awarded. Come see the three newest maps to be added to the game client!
 <!-- more -->
 
-![](http://puu.sh/oTUtZ/f744bd40e5.jpg)
+![](https://puu.sh/oTUtZ/f744bd40e5.jpg)
 
 Many months ago back in 2015, we opened up a new concept called "mapping bounties" to the community. To celebrate osu! licensing some of its first artists ever, we'd commemorate the pioneer mappers who took their tracks and made awesome things with them by bundling the best maps submitted with the client, and giving them a whole bunch of swag for their effort.
 

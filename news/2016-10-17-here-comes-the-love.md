@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/151925254083/here-comes-the-love
 Ever wanted to see a scoreboard on some of your favourite maps that weren't qualified or ranked? The future is here with the new "Loved" beatmap ranking state. Read on to learn more!
 <!-- more -->
 
-![](http://puu.sh/rLQPQ/316c9445f3.png)
+![](https://puu.sh/rLQPQ/316c9445f3.png)
 
 Over the years, a common complaint with the ranking cycle has been that it is fairly restricted for most people. Truth be told, it requires an immense amount of effort from many people to get a map qualified and ranked - sometimes exceeding hundreds of total man-hours per map. This has bred a lot of discontent in the community as people have often felt that their own work faces an impossibly large hurdle in order to be recognized in any significant capacity, especially if it tailors to a distinctive audience, or seeks to attempt gameplay paradigms that are not allowed by the current Ranking Criteria.
 

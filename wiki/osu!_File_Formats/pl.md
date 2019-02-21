@@ -56,8 +56,8 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 
 **Obrazkowe przykłady** (podziękowania dla [Poradnika Skinowania](https://osu.ppy.sh/forum/t/51694) [MLGnoma](https://osu.ppy.sh/u/46620))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+-   [WinRAR](https://puu.sh/1MBV)
+-   [7-zip](https://puu.sh/1MBW)
     -   Dla beatmap, użyj rozszerzenia .osz.
 
 ### Za pomocą gry

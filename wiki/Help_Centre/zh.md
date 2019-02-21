@@ -826,7 +826,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 #### 如何设置 osu!keyboard？
 
-**你可以使用 osu!keyboard 设置工具，通过[这个链接](http://puu.sh/l6urN/4b6bc800f2.zip)下载。**
+**你可以使用 osu!keyboard 设置工具，通过[这个链接](https://puu.sh/l6urN/4b6bc800f2.zip)下载。**
 
 只需将它解压到你的电脑中的任何地方，启动即可！
 
