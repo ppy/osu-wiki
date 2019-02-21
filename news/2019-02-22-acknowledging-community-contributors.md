@@ -188,7 +188,7 @@ Once a former mentee himself under Shiirn, Mun's efforts have spanned across doz
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/J1nx1337.jpg)](https://osu.ppy.sh/u/3971179)
 
-Responsible for handling much of the busywork deluge that often accompanies managing a project of such size and consistency, J1nx1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
+Responsible for handling much of the busywork deluge that often accompanies managing a project of such size and consistency, J1NX1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
 
 -------------
 
