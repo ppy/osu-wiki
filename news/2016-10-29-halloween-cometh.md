@@ -12,20 +12,20 @@ To celebrate the coming of everyone's favourite spooky holiday, we've got a bunc
 
 ![](http://puu.sh/rZkQL/13dfe2e551.png)
 
-**A mischievous spirit has possessed the osu! game client, turning the main-menu into a Halloween-themed paradise - for the dead!** Featuring the fantastic art of the top 10 community voted pieces from the [Halloween Fanart contest](https://new.ppy.sh/community/contests/5) alongside an all-new spooky remix of the osu! theme by our resident osu!musician cYsmix, the new menu is sure to get you in the rhythm for this year's Halloween spectacular.
+**A mischievous spirit has possessed the osu! game client, turning the main-menu into a Halloween-themed paradise - for the dead!** Featuring the fantastic art of the top 10 community voted pieces from the [Halloween Fanart contest](https://osu.ppy.sh/community/contests/5) alongside an all-new spooky remix of the osu! theme by our resident osu!musician cYsmix, the new menu is sure to get you in the rhythm for this year's Halloween spectacular.
 
 You have these wonderful artists to thank for the new menu backgrounds:
 
-* [56567878ae](https://new.ppy.sh/u/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg)
-* [Artheard](https://new.ppy.sh/u/Artheard) for their eerily relevant portrayal of [pumpkin-pippi gazing at the full moon](https://puu.sh/rZkGd/6fc6612403.jpg)
-* [xiemon](https://new.ppy.sh/u/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
-* [Dramilion](https://new.ppy.sh/u/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
-* [SkyDiverFox](https://new.ppy.sh/u/SkyDiverFox) showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
-* [d o _ o b](https://new.ppy.sh/u/5402247)'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
-* [DarkieMonster](https://new.ppy.sh/u/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
-* [Adarin](https://new.ppy.sh/u/Adarin)'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
-* [DreamWisps](https://new.ppy.sh/u/DreamWisps)'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)
-* [Arenbou](https://new.ppy.sh/u/Arenbou)'s heart-fluttering [rendition of Yuzu in a kigurumi hoarding waaaaaayyy too much candy](https://puu.sh/rZkGc/9c4ede43b4.jpg)
+* [56567878ae](https://osu.ppy.sh/u/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg)
+* [Artheard](https://osu.ppy.sh/u/Artheard) for their eerily relevant portrayal of [pumpkin-pippi gazing at the full moon](https://puu.sh/rZkGd/6fc6612403.jpg)
+* [xiemon](https://osu.ppy.sh/u/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
+* [Dramilion](https://osu.ppy.sh/u/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
+* [SkyDiverFox](https://osu.ppy.sh/u/SkyDiverFox) showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
+* [d o _ o b](https://osu.ppy.sh/u/5402247)'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
+* [DarkieMonster](https://osu.ppy.sh/u/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
+* [Adarin](https://osu.ppy.sh/u/Adarin)'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
+* [DreamWisps](https://osu.ppy.sh/u/DreamWisps)'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)
+* [Arenbou](https://osu.ppy.sh/u/Arenbou)'s heart-fluttering [rendition of Yuzu in a kigurumi hoarding waaaaaayyy too much candy](https://puu.sh/rZkGc/9c4ede43b4.jpg)
 
 These fancy new looks won't linger for long once the power of All Hallow's Eve dissipates, so make sure to enjoy them while you can! The titular "pumpkins" remix will remain around forever though (these are no *ordinary* pumpkins), and you can download it below for your own listening (or mapping) pleasure.
 

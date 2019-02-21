@@ -40,7 +40,7 @@ Rules
 Entering the contest pretty much says to us that you're okay with us using your art on the osu! website and promoting it via social media accounts. We'll ALWAYS give credit where credit is due - creative work is hard enough without other people trying to steal all the credit for your hard work!
 
 
-Interested? [Enter your piece here!](https://new.ppy.sh/community/contests/36)
+Interested? [Enter your piece here!](https://osu.ppy.sh/community/contests/36)
 
 
 —Ephemeral

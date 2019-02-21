@@ -24,7 +24,7 @@ For more details, refer to the [osu!taiko World Cup 2016 wiki article](http://os
 
 ## What has been changed?
 
-+ Sign-ups are handled via [this registration page](http://new.ppy.sh/tournaments/4)
++ Sign-ups are handled via [this registration page](https://osu.ppy.sh/tournaments/4)
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We altered the prize pool. Details will be revealed as soon as possible!
@@ -36,7 +36,7 @@ We will reveal details about the prize pool as soon as possible! Check out [the 
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/4)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/4)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **28 February 2016.**
 

@@ -10,7 +10,7 @@ With a thunderous conclusion, the first stage of Aspire 2017 is over - and we ha
 
 ![](https://assets.ppy.sh/contests/43/header.jpg)
 
-Over thirty brave contestants submitted their best take on [Helblinde](https://new.ppy.sh/beatmaps/artists/5)'s **The Solace of Oblivion**, a grueling six-minute trek throughout a dark and pounding soundscape.
+Over thirty brave contestants submitted their best take on [Helblinde](https://osu.ppy.sh/beatmaps/artists/5)'s **The Solace of Oblivion**, a grueling six-minute trek throughout a dark and pounding soundscape.
 
 Twelve emerged at the other side, their efforts judged to be worthy of greater attention.
 
@@ -72,7 +72,7 @@ The winning map will be made available as an Aspire-class Approval map in the co
 
 [You may view the full composite judging sheet here](https://docs.google.com/spreadsheets/u/1/d/1XkHfk4T7BA_9tDENt17Z9duQyQgXJxQOMq2fZ01ej98/pubhtml), which has HM panel judge comments and more.
 
-[Check out the contest listing to view the public voting in a much prettier format, and to download all of the entries.](https://new.ppy.sh/community/contests/43)
+[Check out the contest listing to view the public voting in a much prettier format, and to download all of the entries.](https://osu.ppy.sh/community/contests/43)
 
 The composite judging sheet combines the scores given by the Honorable Mentions panel (40 points) with a *Public Impression* score (40 points) calculated by a scaling perspective of the overall votes an entry received in comparison to the others.
 

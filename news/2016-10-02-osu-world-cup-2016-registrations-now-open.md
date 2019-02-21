@@ -42,7 +42,7 @@ We plan to distribute exclusive and unique merchandise to all our podium winners
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/7)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/7)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **16. October 2016.**
 

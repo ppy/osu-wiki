@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/156171674413/aspire-returns-for-2017
 The **Aspire beatmapping contest** returns again to welcome in 2017 - with a new distinctive twist, and featuring the sound of one of our most-loved Featured Artists - Helblinde!
 <!-- more -->
 
-<a href="https://new.ppy.sh/community/contests/43"><img src="https://assets.ppy.sh/contests/43/header.jpg"></a>
+<a href="https://osu.ppy.sh/community/contests/43"><img src="https://assets.ppy.sh/contests/43/header.jpg"></a>
 
 Aspire has long been the premier high-level beatmapping contest since its inception in 2014, producing two incredible beatmaps that have pushed the boundaries of what both the game itself and its players are capable of.
 
@@ -22,7 +22,7 @@ We'll see.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=947483760/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1733120727/transparent=true/" seamless><a href="http://helblinde.bandcamp.com/album/ephemerality">Ephemerality by Helblinde</a></iframe>
 
-The song choice for this contest is from [Helblinde](https://new.ppy.sh/beatmaps/artists/5), one of our earlier featured artists. A new release from his latest album, [Ephemerality](https://helblinde.bandcamp.com/album/ephemerality), **The Solace of Oblivion** takes the reins as the grand encounter for anyone brave enough to try.
+The song choice for this contest is from [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), one of our earlier featured artists. A new release from his latest album, [Ephemerality](https://helblinde.bandcamp.com/album/ephemerality), **The Solace of Oblivion** takes the reins as the grand encounter for anyone brave enough to try.
 
 You will be tested. This Aspire is not like any other.
 
@@ -58,6 +58,6 @@ This is no ordinary beatmapping contest - even among Aspire contests, this is so
 
 [Download the pre-timed contest .osz file here and get started!](https://assets.ppy.sh/contests/43/osz/Helblinde%20-%20The%20Solace%20of%20Oblivion.osz)
 
-[**Enter your creation over at the contest listing!**](https://new.ppy.sh/community/contests/43)
+[**Enter your creation over at the contest listing!**](https://osu.ppy.sh/community/contests/43)
 
 —Ephemeral

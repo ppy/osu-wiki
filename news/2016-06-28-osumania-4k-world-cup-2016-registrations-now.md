@@ -41,7 +41,7 @@ We are aiming to have a $1,900 cash prize pool for this world cup. You can suppo
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/6)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/6)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **17. July 2016.**
 

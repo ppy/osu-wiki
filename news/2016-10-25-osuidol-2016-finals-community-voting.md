@@ -14,7 +14,7 @@ We launched the event mid-summer, with more than 150 submissions, went through m
 
 ## Where can I vote?
 
-[Voting page can be found here!](https://new.ppy.sh/community/contests/4)
+[Voting page can be found here!](https://osu.ppy.sh/community/contests/4)
 
 
 

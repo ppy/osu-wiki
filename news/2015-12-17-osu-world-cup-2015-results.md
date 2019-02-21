@@ -27,7 +27,7 @@ Congratulations again to the winners, and thanks to all participants for making 
 
 If you want to learn more about the osu!World Cup 2015, take a look at the [wiki article](http://osu.ppy.sh/wiki/OWC_2015).
 
-We would also like to mention that the [osu!mania 7K World Cup 2016](http://osu.ppy.sh/wiki/MWC_7K_2016) is now [open for registrations](http://new.ppy.sh/tournaments/3) (closing this weekend, so hurry)!
+We would also like to mention that the [osu!mania 7K World Cup 2016](http://osu.ppy.sh/wiki/MWC_7K_2016) is now [open for registrations](https://osu.ppy.sh/tournaments/3) (closing this weekend, so hurry)!
 
 Stay tuned, and we'll see you next time!
 

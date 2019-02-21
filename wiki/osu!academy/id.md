@@ -52,6 +52,6 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 
 ## Tautan Eksternal
 
-- Sumber: <https://new.ppy.sh/post/70504430082/introducing-the-osu-academy>
+- Sumber: <https://osu.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Channel YouTube resmi: <https://www.youtube.com/user/osuacademy/videos>
 - Forum diskusi resmi: <https://osu.ppy.sh/community/forums/topics/169707>

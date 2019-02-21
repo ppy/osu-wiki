@@ -14,7 +14,7 @@ The choice was a clear one for the community, with a definite winner several tho
 
 Please note that **the winner of the community vote is not the chosen mascot.** The staff vote will ultimately determine who becomes the new official mascot.
 
-**[Check out the results for yourself here!](https://new.ppy.sh/community/contests/2)**
+**[Check out the results for yourself here!](https://osu.ppy.sh/community/contests/2)**
 
 In the meanwhile, we're delighted to present to you, **the most popular osu!taiko mascot by community vote**:
 
@@ -42,7 +42,7 @@ One of the younger participants in the contest at only age 15 (or is she?), Tama
 
 We'd like to personally thank every entrant in the contest for their efforts - putting your work out for public scrutiny is no small feat indeed, and we had an excellent showing from so many people this time around.
 
-If you've not seen the entries yourself yet, be sure to check them out over [at the community contest page](https://new.ppy.sh/community/contests/2). Voting is closed, but you can still gander at all the submissions in their natural glory!
+If you've not seen the entries yourself yet, be sure to check them out over [at the community contest page](https://osu.ppy.sh/community/contests/2). Voting is closed, but you can still gander at all the submissions in their natural glory!
 
 Keep your eyes peeled for the results of the staff vote in the coming weeks, as the fate of osu!'s future Taiko mascot hangs in the balance!
 

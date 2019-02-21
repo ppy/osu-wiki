@@ -25,7 +25,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 
 ## What has been changed?
 
-+ Sign-ups are handled via **[this registration page](http://new.ppy.sh/tournaments/5)**.
++ Sign-ups are handled via **[this registration page](https://osu.ppy.sh/tournaments/5)**.
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We added a cash prize pool for this competition! Additionally, everyone is able to support funding this prize pool by purchasing support banners for their user profile when available.
@@ -40,7 +40,7 @@ We are aiming to have a $3,800 cash prize pool for this world cup. You can suppo
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/5)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/5)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **30. April 2016.**
 

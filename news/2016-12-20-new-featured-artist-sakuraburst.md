@@ -14,7 +14,7 @@ A forerunner among the experimental music community on Soundcloud, **sakuraburst
 
 Experienced mappers will find an OVERWHELMING platform to weave a beatmap around across a plethora of sounds, and newer mappers will find a substantial challenge awaiting them.
 
-You can read more about **sakuraburst** at [his Featured Artist listing](https://new.ppy.sh/beatmaps/artists/8), which contains a detailed biography, previews of an assortment of available tracks, and pre-timed oszs to use for mapping and generally making awesome stuff.
+You can read more about **sakuraburst** at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/8), which contains a detailed biography, previews of an assortment of available tracks, and pre-timed oszs to use for mapping and generally making awesome stuff.
 
 As with all Featured Artists, all of the tracks on **sakuraburst**'s listing are totally free to be used in anything osu! related - beatmaps, storyboards, podcasts, and much, much more. If it's related to osu!, it's free for you to use without worry.
 

@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/152021157083/flash-fanart-contest-7-h
 Halloween draws near. A time of spooks and thrills, and most of all - a new FLASH fanart contest! The winner gets to spook (or amaze, preferably amaze) osu! worldwide from the main menu and more!
 <!-- more -->
 
-Given the tremendous reception to the last fanart contest, we're excited to host another one, this time with the theme being **'the mascots in Halloween'**. To spice things up a bit, **this also includes the community-submitted mascots for the previous contests**, even the ones that didn't win. If you've forgotten them already (how could you?), head on over to the [fanart contest #6 page](https://new.ppy.sh/community/contests/2) and refresh your memory.
+Given the tremendous reception to the last fanart contest, we're excited to host another one, this time with the theme being **'the mascots in Halloween'**. To spice things up a bit, **this also includes the community-submitted mascots for the previous contests**, even the ones that didn't win. If you've forgotten them already (how could you?), head on over to the [fanart contest #6 page](https://osu.ppy.sh/community/contests/2) and refresh your memory.
 
 Unlike the other contest though, this one's a *flash* contest, meaning that we totally didn't get lost in organizing this [due to the hype surrounding a certain new ranking mode](https://osu.ppy.sh/news/151925254083) or anything. Instead, the contest is going to happen very quickly.
 
@@ -33,6 +33,6 @@ Rules
 
 Also, entering the contest basically entails that you agree to let us use your art on the osu! website and associated social media accounts. We'll always give credit where credit is due though, and ensure that you get the appropriate exposure you deserve for your work.
 
-[Enter the contest here, if you dare!](https://new.ppy.sh/community/contests/5)
+[Enter the contest here, if you dare!](https://osu.ppy.sh/community/contests/5)
 
 —Ephemeral

@@ -42,8 +42,8 @@ After both community voting and feedback from our expert judging panel, the top 
 * **1st place**: 6 months of osu!supporter, a unique Aspire 2017: Stage Three profile badge, an osu!news showcase featuring their winning entry and an *Elite Mapper: Aspirant* forum title (or special incrementation if they already possess one). The map shall also be forever enshrined as an Aspire class Approval map with fast-track help from our wonderful Beatmap Nominators if required.
 * **2nd place and 3rd place**: 3/2 months of osu!supporter respectively, a unique Aspire 2017: Stage Three Honorable Mentions profile badge and their mapset gifted the Loved status.
 
-Entries will remain open for 30 days from the date of this post. Enjoy stacking those fruits however you please, and be sure to check the [contest listing](https://new.ppy.sh/community/contests/51) for more details, as well as view a dedicated countdown if you are uncertain.
+Entries will remain open for 30 days from the date of this post. Enjoy stacking those fruits however you please, and be sure to check the [contest listing](https://osu.ppy.sh/community/contests/51) for more details, as well as view a dedicated countdown if you are uncertain.
 
-You can download the [pre-timed contest .osz file](https://assets.ppy.sh/artists/17/osz/OISHII%20-%20ONIGIRI%20FREEWAY.osz) to get started, and head on over to the [contest listing](https://new.ppy.sh/community/contests/51) to submit your entries!
+You can download the [pre-timed contest .osz file](https://assets.ppy.sh/artists/17/osz/OISHII%20-%20ONIGIRI%20FREEWAY.osz) to get started, and head on over to the [contest listing](https://osu.ppy.sh/community/contests/51) to submit your entries!
 
 —JBHyperion
