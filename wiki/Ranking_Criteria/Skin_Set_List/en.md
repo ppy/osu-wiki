@@ -111,7 +111,7 @@ This is because the basic spinner style will take priority over the new one if b
 
 ## osu!taiko
 
-### Hitobject Set
+### Hit Object Set
 
 The entirety of this skin set is gameplay relevant.
 

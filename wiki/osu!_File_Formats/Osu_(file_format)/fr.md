@@ -199,7 +199,7 @@ Un hit circle est un simple coup dans le mode de jeu osu!
 
 *time (Integer)* est le début de la musique, en millisecondes.
 
-*type (Integer)* est un bitmap pour hitobject:
+*type (Integer)* est un bitmap pour hit object:
 
 Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) forment un nombre de 3-bit (0-7) qui choisit combien de couleurs de combo passer. Bit 7 (128) est une note longue d'osu!mania. Cercles, sliders, et spinners peuvent voir leur être appliqué un OR avec de nouveau combos et de nouvelles valeurs de sautement de combo, mais pas avec l'un l'autre.
 
@@ -209,7 +209,7 @@ Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = s
 
 Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
 
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hitobject."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
+*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hit object."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
 
 0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
 
