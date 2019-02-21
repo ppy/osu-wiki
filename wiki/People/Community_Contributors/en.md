@@ -8,9 +8,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2013
 
-### August
-
-*Also see the forum thread: [osu! community contributors](/community/forums/posts/2489459).*
+<!-- link is dead https://osu.ppy.sh/community/forums/posts/2489459 -->
+*Also see the forum thread: [osu! community contributors](https://web.archive.org/web/20131003162259/https://osu.ppy.sh/forum/p/2489459 "Wayback Machine").*
 
 | User | Contributions |
 |---|---|
@@ -31,8 +30,6 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ## 2015
-
-### March
 
 | User | Contributions |
 |---|---|
