@@ -16,7 +16,7 @@ Once submissions close, all the scorching submissions will be placed up for **7 
 
 This also neatly lines up with the start of the osu!mania 4K World Cup 2018, which means that the winning pieces will get a HIDDEN EXTRA PRIZE as the waiting-screen backgrounds of choice for all those who tune in to see some of osu!'s best duke it out. Spicy.
 
-If you're up for the challenge, **read the rules below CAREFULLY** and then head on over to the [contest listing](https://osu.ppy.sh/community/contests/66) to submit your entry. 
+If you're up for the challenge, **read the rules below CAREFULLY** and then head on over to the [contest listing](https://osu.ppy.sh/community/contests/66) to submit your entry.
 
 Make sure to give them a look even if you're a regular, some have changed again, as they sometimes do - particularly regarding resolution requirements this time around.
 

@@ -20,7 +20,7 @@ To celebrate, we've drawn upon the incredible talent of [@Phibonnachee](https://
 
 Speaking of incredible talent, there's rumors floating around about a certain rave-loving artist joining the ranks of the osu!musicians recently, as well as a certain happy-go-lucky artist whom was previously featured on a particularly monstrous music label. Whoever could they be?
 
-In any case, it's a big year to come, and whilst a lot of the osu! team is currently out and about visiting their own families and friends, we've all come together to wish you the best in the new year. 
+In any case, it's a big year to come, and whilst a lot of the osu! team is currently out and about visiting their own families and friends, we've all come together to wish you the best in the new year.
 
 Thank you all for making osu! as awesome as it is, and we're super excited to usher in the new year. We hope you will be, too!
 

@@ -63,7 +63,7 @@ Don't have a team? You're in the right place! Fill in the [**Free Agent Registra
 
 Be aware that becoming a free agent will **not guarantee a spot for playing in the tournament**.
 
-## Staff 
+## Staff
 | Role | Member(s) |
 | ---: | :--- |
 | Host | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |

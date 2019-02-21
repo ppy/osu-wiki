@@ -10,7 +10,7 @@ The roast is brewing and it's time to chat! Welcome to the osu! Coffee Hour, the
 
 ## Introducing the osu! Coffee Hour
 
-The osu! Coffee Hour will be a bi-weekly podcast-style talkshow on [osulive](https://www.twitch.tv/osulive) featuring both staff and prominent community members. We'll be discussing anything from current events, to the future of osu!, to the mapping scene and much more. 
+The osu! Coffee Hour will be a bi-weekly podcast-style talkshow on [osulive](https://www.twitch.tv/osulive) featuring both staff and prominent community members. We'll be discussing anything from current events, to the future of osu!, to the mapping scene and much more.
 
 **The best part?** The entire community gets to decide what we talk about!
 

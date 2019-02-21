@@ -2,7 +2,7 @@
 
 ## Profile Badges
 
-The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile. 
+The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile.
 
 These badges typically display a player's skill and prowess in tournament play, and are thus regulated to ensure that they retain their worth and value.
 
@@ -33,13 +33,13 @@ Once the screening is complete, the Support Team will provide a list of all play
 
 The nature of their particular transgression will not be specified, and no further information will be given on the state of those user's accounts. Please do not request specifics or "proof", they will not be given. Individual players unhappy with their screening outcomes should be directed to consult accounts@ppy.sh via email.
 
-Tournament organizers who uncover potentially suspicious play during their tournaments are both obligated and singlehandedly responsible for reporting any such incidents to the Support Team via tournaments@ppy.sh at the earliest possible opportunity as part of this service. 
+Tournament organizers who uncover potentially suspicious play during their tournaments are both obligated and singlehandedly responsible for reporting any such incidents to the Support Team via tournaments@ppy.sh at the earliest possible opportunity as part of this service.
 
 **Allowing users that have been highlighted by the screening process to play in your tournament will result in an immediate withdrawal of any prize offerings or promotional support from us, and you are unlikely to have any of your further requests for prize/promotion support acknowledged in the future.**
 
 ### Badge Design Criteria
 
-Profile badges are expected to adhere to a few minimum standards before they are accepted. 
+Profile badges are expected to adhere to a few minimum standards before they are accepted.
 
 Please read these carefully - if your proposed badge violates any of these, it may be refused!
 

@@ -94,22 +94,22 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 - NoMod
   - [Morimori Atsushi - Applique (TKS) \[test\]](/beatmaps/616247&m=1)
-  - [Remo Prototype\[CV: Hanamori Yumiri\] - Sendan Life (Y O U T A) \[Inner Oni)\]](/beatmaps/861023&m=1) 
-  - [Sara - Natu iro Present Wo BPM180 Ni Shitemita (asuasu\_yura) \[Special\]](/beatmaps/1078077&m=1) 
+  - [Remo Prototype\[CV: Hanamori Yumiri\] - Sendan Life (Y O U T A) \[Inner Oni)\]](/beatmaps/861023&m=1)
+  - [Sara - Natu iro Present Wo BPM180 Ni Shitemita (asuasu\_yura) \[Special\]](/beatmaps/1078077&m=1)
   - [yambabom - Over my head (Backfire) \[Taikocalypse Act I : The Return\]](/beatmaps/269411&m=1)
   - [Morimori Atsushi - PUPA (TKS) \[Inner Oni\]](/beatmaps/545843&m=1)
   - [The Quick Brown Fox - The Big Black (MajorLeagueWobs Remix) (pmriva) \[BESAR HITAM \[NSC\]\]](/beatmaps/1302411&m=1)
 - Hidden
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Nofool) \[Hard Oni\]](/beatmaps/913908&m=1) 
-  - [LeaF - MEPHISTO (TKS) \[TK's Inner Oni\]](/beatmaps/284037m=1) 
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Nofool) \[Hard Oni\]](/beatmaps/913908&m=1)
+  - [LeaF - MEPHISTO (TKS) \[TK's Inner Oni\]](/beatmaps/284037m=1)
 - HardRock
-  - [Kola Kid - can't hide your love (Ekoro) \[Divine Light\]](/beatmaps/488844&m=1) 
-  - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](/beatmaps/427932&m=1) 
+  - [Kola Kid - can't hide your love (Ekoro) \[Divine Light\]](/beatmaps/488844&m=1)
+  - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](/beatmaps/427932&m=1)
 - DoubleTime
   - [A.SAKA - Nanatsu Issenzakura (tasuke912) \[tasuke's Inner Oni\]](/beatmaps/719063&m=1)
   - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](/beatmaps/751680&m=1)
 - FreeMod
-  - [xi - ANiMA (tasuke912) \[Inner Oni\]](/beatmaps/724040&m=1) 
+  - [xi - ANiMA (tasuke912) \[Inner Oni\]](/beatmaps/724040&m=1)
   - [yuzen - Ouka Ryouran (Charlotte) \[Ryouran Oni\]](/beatmaps/1146971&m=1)
   - [Hate vs Brilliance - Qubism (Nishizumi) \[Inner Oni\]](/beatmaps/968844&m=1)
 - Tiebreaker
@@ -121,22 +121,22 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 - NoMod
   - [Memme - Avalanche (Love) \[Love\]](/beatmaps/759835&m=1)
-  - [OSTER Project - EBONY & IVORY (-xNaCLx-) \[Inner Oni\]](/beatmaps/954400&m=1) 
-  - [Yooh - Seraphim (koyomi\_222) \[Inner Oni\]](/beatmaps/926314&m=1) 
+  - [OSTER Project - EBONY & IVORY (-xNaCLx-) \[Inner Oni\]](/beatmaps/954400&m=1)
+  - [Yooh - Seraphim (koyomi\_222) \[Inner Oni\]](/beatmaps/926314&m=1)
   - [xi - Finder keepers (Mapper 31) \[Oni\]](/beatmaps/744070&m=1)
   - [Yooh - LegenD. (Backfire) \[Taikocalypse\]](/beatmaps/717522&m=1)
   - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\]](/beatmaps/932407&m=1)
 - Hidden
-  - [Camellia - Fastest Crash (BlackHairEND) \[Inner Oni\]](/beatmaps/760371&m=1) 
-  - [3R2 & DJ Mashiro - Sweetness Overload!!! (-xNaCLx-) \[NC's Inner Oni\]](/beatmaps/742184&m=1) 
+  - [Camellia - Fastest Crash (BlackHairEND) \[Inner Oni\]](/beatmaps/760371&m=1)
+  - [3R2 & DJ Mashiro - Sweetness Overload!!! (-xNaCLx-) \[NC's Inner Oni\]](/beatmaps/742184&m=1)
 - HardRock
-  - [61 Degrees - Kagami (eeezzzeee) \[Inner Oni\]](/beatmaps/682773&m=1) 
-  - [Mafumafu - Super Nuko ni Naritai (newyams99) \[Inner Oni\]](/beatmaps/1001542&m=1) 
+  - [61 Degrees - Kagami (eeezzzeee) \[Inner Oni\]](/beatmaps/682773&m=1)
+  - [Mafumafu - Super Nuko ni Naritai (newyams99) \[Inner Oni\]](/beatmaps/1001542&m=1)
 - DoubleTime
   - [THE DU - Crazy Noisy Bizarre Town (Full Ver.) (bank78952) \[Oni\]](/beatmaps/997584&m=1)
   - [Tamura Yukari feat. motsu from m.o.v.e - You & Me (climbb65588, aabc271) \[Climbb & aabc's Taiko Oni\]](/beatmaps/252518&m=1)
 - FreeMod
-  - [CyoucyoP feat.Hatsune Miku - White Prism (kanopu) \[Prism Oni\]](/beatmaps/694940&m=1) 
+  - [CyoucyoP feat.Hatsune Miku - White Prism (kanopu) \[Prism Oni\]](/beatmaps/694940&m=1)
   - [LeaF - Chronostasis (DakeDekaane) \[Inner Oni\]](/beatmaps/566347&m=1)
   - [Memme - Acid Burst (MMzz) \[Inner Oni\]](/beatmaps/506186&m=1)
 - Tiebreaker
@@ -148,22 +148,22 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 - NoMod
   - [t+pazolite - Tomorrow Perfume (tpz Despair Remix) (Nardoxyribonucleic) \[Nardo's Inner Oni\]](/beatmaps/968416&m=1)
-  - [Nizikawa - F.K.S (Arrival) \[Inner Oni\]](/beatmaps/1165727&m=1) 
-  - [NU-KO - Pochiko no Shiawase na Nichijou (TKS) \[TK's Oni\]](/beatmaps/673168&m=1) 
+  - [Nizikawa - F.K.S (Arrival) \[Inner Oni\]](/beatmaps/1165727&m=1)
+  - [NU-KO - Pochiko no Shiawase na Nichijou (TKS) \[TK's Oni\]](/beatmaps/673168&m=1)
   - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) (OnosakiHito) \[Ono's Taiko Oni\]](/beatmaps/1153370&m=1)
   - [kors k as teranoid - Bad Maniacs (Backfire) \[Backfire's Inner Oni\]](/beatmaps/793870&m=1)
   - [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d) \[No Regret\]](/beatmaps/1111087&m=1)
 - Hidden
-  - [Krewella - Come And Get It (Razihel Remix) (hikikochan) \[Inner Oni\]](/beatmaps/903809&m=1) 
-  - [An - Tephereth (SKSalt) \[Inner Oni\]](/beatmaps/799402&m=1) 
+  - [Krewella - Come And Get It (Razihel Remix) (hikikochan) \[Inner Oni\]](/beatmaps/903809&m=1)
+  - [An - Tephereth (SKSalt) \[Inner Oni\]](/beatmaps/799402&m=1)
 - HardRock
-  - [sakuzyo - Imprinting (Nanatsu) \[7 t h's Inner Oni\]](/beatmaps/813387&m=1) 
-  - [Zeami feat. Tenshi - Tenyou no Mai (Firce777) \[Firce777's Inner Oni\]](/beatmaps/431502&m=1) 
+  - [sakuzyo - Imprinting (Nanatsu) \[7 t h's Inner Oni\]](/beatmaps/813387&m=1)
+  - [Zeami feat. Tenshi - Tenyou no Mai (Firce777) \[Firce777's Inner Oni\]](/beatmaps/431502&m=1)
 - DoubleTime
-  - [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Inner Oni\]](/beatmaps/369597&m=1) 
+  - [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Inner Oni\]](/beatmaps/369597&m=1)
   - [RAN - Dekat di Hati (REDSHiFT Remix) (Volta) \[FLP's Inner Oni\]](/beatmaps/807140&m=1)
 - FreeMod
-  - [An - artcore JINJA (tasuke912) \[tasuke's Inner Oni\]](/beatmaps/620995&m=1) 
+  - [An - artcore JINJA (tasuke912) \[tasuke's Inner Oni\]](/beatmaps/620995&m=1)
   - [P\*Light - Poppin' Shower (Backfire) \[Taiko Oni\]](/beatmaps/134337&m=1)
   - [Memme - Chinese Restaurant (TKS) \[TK's Inner Oni\]](/beatmaps/627829&m=1)
 - Tiebreaker
@@ -176,21 +176,21 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 - NoMod
   - [Memme - Starving Days (Charless445) \[Oni445\]](/beatmaps/385907&m=1)
   - [CHiCO with HoneyWorks - Ai no Scenario (JUDYDANNY) \[JuDa's Oni\]](/beatmaps/730351&m=1)
-  - [sasakure.UK (ft. Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Oni\]](/beatmaps/434481&m=1) 
+  - [sasakure.UK (ft. Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Oni\]](/beatmaps/434481&m=1)
   - [Eagle - S!ck (TKS) \[Oni\]](/beatmaps/381455&m=1)
   - [Zeami - Seija no Kodou (Genro) \[Oni\]](/beatmaps/1033227&m=1)
   - [C-Show - On the FM (Nofool) \[Oni\]](/beatmaps/1205385&m=1)
 - Hidden
-  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](/beatmaps/411522&m=1) 
-  - [Mili - Nine Point Eight (ReyShel) \[Oni\]](/beatmaps/470278&m=1) 
+  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](/beatmaps/411522&m=1)
+  - [Mili - Nine Point Eight (ReyShel) \[Oni\]](/beatmaps/470278&m=1)
 - HardRock
-  - [yuikonnu & Hiiragi Yuka - Otsukimi Recital (JUDYDANNY) \[JuDa's Oni\]](/beatmaps/296261&m=1) 
-  - [ESTi X M2U - Obelisque (MMzz) \[Inner Oni\]](/beatmaps/417241&m=1) 
+  - [yuikonnu & Hiiragi Yuka - Otsukimi Recital (JUDYDANNY) \[JuDa's Oni\]](/beatmaps/296261&m=1)
+  - [ESTi X M2U - Obelisque (MMzz) \[Inner Oni\]](/beatmaps/417241&m=1)
 - DoubleTime
   - [Aoi Eir - Satellite (kanpakyin, aabc271) \[KPY & aabc's Taiko Muzukashii\]](/beatmaps/304045&m=1)
-  - [senya - Iro wa Nioedo Chirinuru o(OPver.) (stu00608) \[stu's Oni\]](/beatmaps/532440&m=1) 
+  - [senya - Iro wa Nioedo Chirinuru o(OPver.) (stu00608) \[stu's Oni\]](/beatmaps/532440&m=1)
 - FreeMod
-  - [Memme - China Dress (Zexous) \[Zexous' Oni\]](/beatmaps/403249&m=1) 
+  - [Memme - China Dress (Zexous) \[Zexous' Oni\]](/beatmaps/403249&m=1)
   - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Nofool) \[Oni\]](/beatmaps/1124531&m=1)
   - [P\*Light - TRIGGER\*HAPPY (mingmichael) \[m1ng's Oni\]](/beatmaps/249943&m=1)
 - Tiebreaker
@@ -217,7 +217,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
   - [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](/beatmaps/137802&m=1)
   - [Perfume - Communication (Short Ver.) (hs714) \[714 Oni\]](/beatmaps/178356&m=1)
 - FreeMod
-  - [RE-VENGE - AFRONOVA (xWillx) \[Oni\]](/beatmaps/667829&m=1) 
+  - [RE-VENGE - AFRONOVA (xWillx) \[Oni\]](/beatmaps/667829&m=1)
   - [Dan Winter - Don't Stop Push It Now (Gero, Hanjamon) \[Geromon's Muzukashii\]](/beatmaps/478404&m=1)
   - [yuikonnu & ayaponzu\* - Super Nuko World (DarknessAngel) \[D.N.Angel's Muzukashii\]](/beatmaps/435821&m=1)
 - Tiebreaker
@@ -229,19 +229,19 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Grand Final
 
-| Minggu, 2017-06-10 |  |  |  |  | 
+| Minggu, 2017-06-10 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | XK2238 ![][flag_ID] | 6 | **7** | ![][flag_ID] **pmriva** | [#1](/community/matches/33778864) |
 | pmriva ![][flag_ID] | 5 | **7** | ![][flag_ID] **XK2238** | [#1](/community/matches/33785221) |
 
 ### Final
 
-| Sabtu, 2017-06-03 |  |  |  |  | 
+| Sabtu, 2017-06-03 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Katdon\_donKat** ![][flag_ID] | **6** | 2 | ![][flag_ID] steven1 | [#1](/community/matches/33568382) |
 | pmriva ![][flag_ID] | 3 | **6** | ![][flag_ID] **XK2238** | [#1](/community/matches/33600406) |
 
-| Minggu, 2017-06-04 |  |  |  |  | 
+| Minggu, 2017-06-04 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | Nishizumi ![][flag_ID] | **6** | 0 | ![][flag_ID] Shirai- | [#1](/community/matches/33619870) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **Nishizumi** | [#1](/community/matches/33621267) |
@@ -249,14 +249,14 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Semifinal
 
-| Sabtu, 2017-05-27 |  |  |  |  | 
+| Sabtu, 2017-05-27 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Lightning Wyvern** ![][flag_ID] | **6** | 3 | ![][flag_ID] Plua- | [#1](/community/matches/33439416) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **XK2238** | [#1](/community/matches/33440128) |
 | \_Destroyer\_ ![][flag_ID] | 4 | **6** | ![][flag_ID] **misaki\_tk** | [#1](/community/matches/33440300) |
 | pmriva ![][flag_ID] | **6** | 5 | ![][flag_ID] Nishizumi | [#1](/community/matches/33445446) |
 
-| Minggu, 2017-05-28 |  |  |  |  | 
+| Minggu, 2017-05-28 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Shirai-** ![][flag_ID] | **6** | 3 | ![][flag_ID] Kayano- | [#1](/community/matches/33414275) |
 | ayomikasa ![][flag_ID] | 1 | **6** | ![][flag_ID] **steven1** | [#1](/community/matches/33464233) |
@@ -265,13 +265,13 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Perempat Final
 
-| Sabtu, 2017-05-20 |  |  |  |  | 
+| Sabtu, 2017-05-20 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 1 | ![][flag_ID] \_Destroyer\_ | [#1](/community/matches/33286726) |
 | **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
 | **Nishizumi** ![][flag_ID] | **5** | 0 | ![][flag_ID] Lightning Wyvern | [#1](/community/matches/33289527) |
 
-| Minggu, 2017-05-21 |  |  |  |  | 
+| Minggu, 2017-05-21 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Plua-** ![][flag_ID] | **5** | 3 | ![][flag_ID] Koucha- | [#1](/community/matches/33315503) |
 | **XK2238** ![][flag_ID] | **5** | 1 | ![][flag_ID] Shirai- | [#1](/community/matches/33316897) |
@@ -281,13 +281,13 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### 16 Besar
 
-| Sabtu, 2017-05-13 |  |  |  |  | 
+| Sabtu, 2017-05-13 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **Shirai-** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 2 | ![][flag_ID] Plua- | [#1](/community/matches/33132821) |
 | **Nishizumi** ![][flag_ID] | **5** | 1 | ![][flag_ID] misaki\_tk | [#1](/community/matches/33134539) |
 
-| Minggu, 2017-05-14 |  |  |  |  | 
+| Minggu, 2017-05-14 |  |  |  |  |
 | --: | :-: | :-- | :-- | :-: |
 | **\_Destroyer\_** ![][flag_ID] | **5** | 4 | ![][flag_ID] Koucha- | [#1](/community/matches/33155803) |
 | **pmriva** ![][flag_ID] | **5** | 0 | ![][flag_ID] Wim Are | [#1](/community/matches/33162779) |
@@ -297,7 +297,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Babak Grup
 
-| Grup | Sabtu, 2017-05-06 |  |  |  |  | 
+| Grup | Sabtu, 2017-05-06 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | A | Surono ![][flag_ID] | 0 | **4** | ![][flag_ID] Wim Are | -win by default- |
 | D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
@@ -312,7 +312,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 | H | **Shirai-** ![][flag_ID] | **4** | 0 | ![][flag_ID] Franklin\_DeJavu | [#1](/community/matches/32977134) |
 | G | **steven1** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kayano- | [#1](/community/matches/32977387) |
 
-| Grup | Minggu, 2017-05-07 |  |  |  |  | 
+| Grup | Minggu, 2017-05-07 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | B | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_ID] Kzl | [#1](/community/matches/32999232) |
 | E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |

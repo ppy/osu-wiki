@@ -46,7 +46,7 @@ Unfortunately, this month is somewhat sparse on the news front, since some impor
 
 The topics still being debated include the following:
 
-- Discussion about the [management of hybrid beatmapsets](https://osu.ppy.sh/community/forums/topics/792131) 
+- Discussion about the [management of hybrid beatmapsets](https://osu.ppy.sh/community/forums/topics/792131)
 - Discussion about [two sets of the same song being allowed in the Qualified beatmap section](https://osu.ppy.sh/community/forums/topics/787252)
 - Status of the feature request list we informed about in the [last month’s Gazette](https://osu.ppy.sh/home/news/2018-09-19-the-qat-gazette-august-2018)
 
@@ -58,9 +58,9 @@ Also joining us last month was veteran modder [-Kazu-](https://osu.ppy.sh/users/
 
 ### Quality Assurance Team retirements
 
-Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. [Hobbes2](https://osu.ppy.sh/users/8157492) has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whereas his fellow osu! compatriot [Mir](https://osu.ppy.sh/users/8688812) has elected to enjoy a period of rest as an osu! Alumni. 
+Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. [Hobbes2](https://osu.ppy.sh/users/8157492) has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whereas his fellow osu! compatriot [Mir](https://osu.ppy.sh/users/8688812) has elected to enjoy a period of rest as an osu! Alumni.
 
-Their respective two and six months of service will not be forgotten easily. We wish you the best on your future endeavors! 
+Their respective two and six months of service will not be forgotten easily. We wish you the best on your future endeavors!
 
 ## Summary
 

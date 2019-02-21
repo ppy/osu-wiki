@@ -12,7 +12,7 @@ Revealed to the public during April 2012 and titled only as the mysterious *'???
 
 Known thereafter as "pp", short for "performance points", this new system sought to change the previous standard of player performance from simply total score to something that accurately reflected player skill. This was met to widespread acclaim among the player base at the time.
 
-Several months after its reveal, the [(20120722-24) osu! release](http://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time. 
+Several months after its reveal, the [(20120722-24) osu! release](http://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
 
 It continued to exist in this capacity for more than a year of service, until [Tom94](http://osu.ppy.sh/u/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
 
@@ -23,7 +23,7 @@ It continued to exist in this capacity for more than a year of service, until [T
 How is pp calculated?
 ---------------------
 
-Performance Points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode. 
+Performance Points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode.
 
 The difficulty of the map you are playing one determines the end pp value of your score.
 
@@ -49,7 +49,7 @@ Aim is not considered in gamemodes like _osu!taiko_ and _osu!mania_.
 
 **Speed is considered as the rate at which a beatmap presents elements for play.**
 
-Maps with high numbers of hit objects in a short period of time are considered to have very high speed values. 
+Maps with high numbers of hit objects in a short period of time are considered to have very high speed values.
 
 Mods like DoubleTime and HalfTime significantly affect the speed of a beatmap as considered by the performance points algorithm.
 
@@ -132,7 +132,7 @@ This is explored in depth in the _weightage system_ section of the article above
 
 If your top pp rankings has only two maps played, all of which are 100pp each scores, your total pp would then be _195pp_.
 
-The first score is worth 100% of its total pp as it is your top score. 
+The first score is worth 100% of its total pp as it is your top score.
 
 The second score is worth only 95% of its total pp as it is not your top score, so it contributes only 95pp towards your total instead of 100.
 

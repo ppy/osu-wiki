@@ -80,7 +80,7 @@ osu!tourney — официальный стриминговый клиент, и
 
 | Игроки распределены по окнам в зависимости от номера их слота в мультиплеере |
 | ----------------------------------------------------------------------------------- |
-| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   | 
+| ![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")   |
 
 Для корректной работы клиента проверьте, что игроки расположились в нужных слотах мультиплеера. Какие слоты являются нужными, описано в разделе «Создание комнаты и управление матчем». Внизу клиента можно наблюдать панель управления.  
 
@@ -211,19 +211,19 @@ Team Name можно поменять на названия команд, гла
 
 | TeamSize = 4 |
 | -----------------------|
-| ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")   | 
+| ![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")   |
 
 | TeamSize = 3 |
 | -----------------------|
-| ![TeamSize = 3](Teamsize3.png "TeamSize = 3")   | 
+| ![TeamSize = 3](Teamsize3.png "TeamSize = 3")   |
 
 | TeamSize = 2 |
 | -----------------------|
-| ![TeamSize = 2](Teamsize2.png "TeamSize = 2")   | 
+| ![TeamSize = 2](Teamsize2.png "TeamSize = 2")   |
 
 | TeamSize = 1 |
 | -----------------------|
-| ![TeamSize = 1](Teamsize1.png "TeamSize = 1")   | 
+| ![TeamSize = 1](Teamsize1.png "TeamSize = 1")   |
 
 Оформление
 ----------

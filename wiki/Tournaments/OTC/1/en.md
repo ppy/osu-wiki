@@ -502,7 +502,7 @@ This competition has come to an end and resulted in the following podium:
 4. Players will take turns banning maps until both players have banned two maps each.
    - One player cannot ban two HR maps or two DT maps maps. (e.g.) both HR maps can be banned, just not by the same player. The same applies to DT as well.
 5. The highest rolling player will then choose the first map to be played. Players then alternate choosing and playing maps until the match is finished.
-   - If both players reach match point, the tiebreaker will be played to decide the winner. 
+   - If both players reach match point, the tiebreaker will be played to decide the winner.
 
 #### Important Notes
 
@@ -522,7 +522,7 @@ This competition has come to an end and resulted in the following podium:
 6. The highest rolling player will then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the applicable mods and once both players are ready, start the game with the `!mp start 5` command.
    - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml).
 7. After the map is finished, the lowest rolling player will choose their first map. Use the same procedure as the last step. Continue alternating between players until the match is finished.
-   - If both players reach match point, the tiebreaker will be played to decide the winner. 
+   - If both players reach match point, the tiebreaker will be played to decide the winner.
 8. Once the the match is finished, say your goodbyes and close the lobby by using the `!mp close` command.
 9. Finally, report the match result by going to the `#match-results` channel on OTC Discord server, using the pinned format, enter all of the necessary info.
 
@@ -534,7 +534,7 @@ This competition has come to an end and resulted in the following podium:
 - Referees may play in warmups if they wish.
 - If a player disconnects during a map, the player that disconnected may choose to replay the map (allowed once per game).
 - If players end a map with the exact same score, the map will be replayed to determine the winner.
-- If a player is acting inappropriate, please warn them and report it to a Host/Admin in private immediately. 
+- If a player is acting inappropriate, please warn them and report it to a Host/Admin in private immediately.
   - If you are uncertain of any rules or how to handle a situation, please do notb hesitate to contact a Host/Admin.
 
 ### Winning Conditions

@@ -48,7 +48,7 @@ This field can also be used to indicate that it is a guest difficulty (e.g. "Lar
 
 #### Source
 
-**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs. 
+**The origin of the song.** Generally, this field should be used only for anime or video game songs and occasionally for novelty (movies, TV, or internet) songs.
 
 If the song is from an anime, a video game, or is famous for its use in a movie or TV program; then the title of that source should be added in this field. If otherwise, this field should be left empty.
 

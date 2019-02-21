@@ -20,7 +20,7 @@ We'd like to instill osu!catch players with a sense of pride and deeper understa
 
 ## Questions?
 
-As per usual, **we're looking for your questions!** 
+As per usual, **we're looking for your questions!**
 
 If you have questions for either JBHyperion or Sartan regarding osu!catch, or suggestions for specific osu!catch moments over the years that you want to hear more about, let us know below!
 

@@ -33,7 +33,7 @@ osu! 目录文件
 
 ### `Exports`
 
-当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ” ](/wiki/Beatmap_Editor/Menu) 后出现。 
+当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ” ](/wiki/Beatmap_Editor/Menu) 后出现。
 
 **它保存着你从 osu! 导出的 .osz（谱面）或 .osk （皮肤）文件。** [参见 osu! 文件格式](/wiki/osu!_File_Formats).
 

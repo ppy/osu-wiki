@@ -32,7 +32,7 @@ Here's a sample of what we've got available:
 
 > Tentative and foreboding, Scavenger starts off slow before exploding into a harsh, dominating and bassy synth, all underset with the twisted growling of a dark rumble.
 
-### Cauldron 
+### Cauldron
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/21/previews/415.mp3" type="audio/mpeg">

@@ -473,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Friday, 2018-12-07 |  |  |  |  | 
+| Friday, 2018-12-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Tuon** ![][flag_VN] | **5** | 1 | ![][flag_ID] DifSec- | [#1](/community/matches/47934326) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_ID] ELNabhan | [#1](/community/matches/47935317) |
@@ -485,7 +485,7 @@ This competition has come to an end and resulted in the following podium:
 | **haruchi** ![][flag_MY] | **5** | 1 | ![][flag_SG] finneyneo | [#1](/community/matches/47937597) |
 | **fixedbyglue** ![][flag_PH] | **5** | 0 | ![][flag_SG] babypliggy | [#1](/community/matches/47939178) |
 
-| Saturday, 2018-12-08 |  |  |  |  | 
+| Saturday, 2018-12-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **dunois** ![][flag_CA] | **5** | 0 | ![][flag_MY] haruchi | [#1](/community/matches/47951939) |
 | **hyoketsujuukyu** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](/community/matches/47953689) |
@@ -525,7 +525,7 @@ This competition has come to an end and resulted in the following podium:
 | **- Phantasma -** ![][flag_TH] | **5** | 0 | ![][flag_SG] babypliggy | [#1](/community/matches/47965508) |
 | **woahsia** ![][flag_SG] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](/community/matches/47965625) |
 
-| Sunday, 2018-12-09 |  |  |  |  | 
+| Sunday, 2018-12-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] phizh | [#1](/community/matches/47967054) |
 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_ID] hyoketsujuukyu | [#1](/community/matches/47981276) |
@@ -563,20 +563,20 @@ This competition has come to an end and resulted in the following podium:
 | dunois ![][flag_CA] | 0 | **5** | ![][flag_SG] **finneyneo** | -win by default- |
 | **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_MY] alphaplay | [#1](/community/matches/47992597) |
 
-| Monday, 2018-12-10 |  |  |  |  | 
+| Monday, 2018-12-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **dika312** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](/community/matches/48007098) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_VN] Mayukaki | [#1](/community/matches/48010210) |
 
-| Tuesday, 2018-12-11 |  |  |  |  | 
+| Tuesday, 2018-12-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Applause** ![][flag_TH] | **5** | 3 | ![][flag_VN] Mayukaki | [#1](/community/matches/48028246), [#2](/community/matches/48028805) |
 
-| Thursday, 2018-12-13 |  |  |  |  | 
+| Thursday, 2018-12-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **haruchi** ![][flag_MY] | **5** | 3 | ![][flag_ID] Rayhan Hamil | [#1](/community/matches/48063619) |
 
-| Friday, 2018-12-14 |  |  |  |  | 
+| Friday, 2018-12-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Jeffrey** ![][flag_MY] | **5** | 0 | ![][flag_TH] Ultimatic Catz | [#1](/community/matches/48082361) |
 | **MioMilo** ![][flag_PH] | **5** | 4 | ![][flag_MY] Zygody | [#1](/community/matches/48082525) |
@@ -598,7 +598,7 @@ This competition has come to an end and resulted in the following podium:
 | **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] Kurosaki | -win by default- |
 | **Evanescent-** ![][flag_ID] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
 
-| Saturday, 2018-12-15 |  |  |  |  | 
+| Saturday, 2018-12-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **ShaneLiang** ![][flag_MY] | **5** | 1 | ![][flag_ID] GtaDestroyer | [#1](/community/matches/48100943) |
 | **Portador0409** ![][flag_VN] | **5** | 0 | ![][flag_ID] DifSec- | -win by default- |
@@ -625,7 +625,7 @@ This competition has come to an end and resulted in the following podium:
 | Yuu-Chii ![][flag_MY] | 3 | **5** | ![][flag_VN] **UnitedNovel** | [#1](/community/matches/48115147) |
 | **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_TH] Seaweed | -win by default- |
 
-| Sunday, 2018-12-16 |  |  |  |  | 
+| Sunday, 2018-12-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Seaweed ![][flag_TH] | 0 | **5** | ![][flag_TH] **Seaweed** | -win by default- |
 | **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_SG] feces | [#1](/community/matches/48117021) |
@@ -657,11 +657,11 @@ This competition has come to an end and resulted in the following podium:
 | **GSBlank** ![][flag_SG] | **5** | 2 | ![][flag_SG] youi | [#1](/community/matches/48142840) |
 | **alphaplay** ![][flag_MY] | **5** | 3 | ![][flag_ID] praguzz | [#1](/community/matches/48142584) |
 
-| Monday, 2018-12-17 |  |  |  |  | 
+| Monday, 2018-12-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **- Phantasma -** ![][flag_TH] | **5** | 1 | ![][flag_SG] woahsia | [#1](/community/matches/48145272) |
 
-| Tuesday, 2018-12-18 |  |  |  |  | 
+| Tuesday, 2018-12-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
 
@@ -778,8 +778,8 @@ This competition has come to an end and resulted in the following podium:
 4. There are no warm ups in Group Stages. Please warm up on your own beforehand.
 5. Top 2 progress to winners bracket, 3rd and 4th progress to loser's bracket, all remaining players are eliminated.
 6. If multiple players are tied in win-loss record, ties are broken in the following order:
-   - head to head win loss, 
-   - head to head maps won minus maps lost, 
+   - head to head win loss,
+   - head to head maps won minus maps lost,
    - maps won minus maps lost throughout the group,
    - lower seed goes through.
 7. Walkovers count as a 5-0 win to the present side.

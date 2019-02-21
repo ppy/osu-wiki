@@ -10,7 +10,7 @@ Among the osu! community, there are a select assortment of amazing individuals w
 
 If you're unfamiliar with this sort of thing, you may have already seen or noticed a few people wearing the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.png) on their profile. These respected individuals have at some point in osu!'s history, made massive contributions that have helped shape the game in a number of ways.
 
-Today, we honour many more. 
+Today, we honour many more.
 
 Do note, there are countless others who contribute massively - this list is by no means exhaustive, and merely represents an acknowledgement of massive, continued contribution over a long period of time as observed by members of the osu!team.
 
@@ -34,7 +34,7 @@ OnosakiHito has since retired from the QAT for a long-earned rest, but the sheer
 
 A towering presence in the osu!catch scene, Deif is pretty much responsible for the entire structure surrounding that section of the community. His contributions range from conceptual to organizational, such as building and reworking the osu!catch ranking criteria, setting up osu!catch modding queues, and even assisting massively with the running and maintenance of countless of World Cups across all modes.
 
-### deadbeat 
+### deadbeat
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/deadbeat.png)](https://osu.ppy.sh/u/128370)
 
@@ -50,7 +50,7 @@ A long-standing member of the upper echelon of the modding and mapping scene, Ga
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/mao.png)](https://osu.ppy.sh/u/2204515)
 
-One of the most consistently reliable members of the BAT and now the QAT, Mao's contributions range from manning the qualified map report queue, being a major presence in the early Ranking Criteria rework teams, and assisting greatly in the construction of the early Beatmap Nominator tests and scoring process. 
+One of the most consistently reliable members of the BAT and now the QAT, Mao's contributions range from manning the qualified map report queue, being a major presence in the early Ranking Criteria rework teams, and assisting greatly in the construction of the early Beatmap Nominator tests and scoring process.
 
 ### Irreversible
 
@@ -62,7 +62,7 @@ One of the oldest members of the BAT and now the QAT, Irreversible's countless c
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/nwolf.png)](https://osu.ppy.sh/u/1910766)
 
-Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen. 
+Statistically speaking, Nwolf is the World Cup tournaments statistician to end all statisticians. Responsible for the organization and collation of the numerous achievements, firsts and trends observed within all of the official World Cups across all modes, Nwolf's tireless dedication is the reason why so many are able to follow the tournaments as they happen.
 
 His insight and trends tracking have been instrumental in guiding many aspects of the tournament's growth, such as mappool selection and more.
 
@@ -123,7 +123,7 @@ Responsible for largely organizing the Chinese translation effort on both the os
 
 From developing numerous fixes and features for the osu!lazer project to some of the streaming tools used by the osu!academy and media crew to make things like the osu!talks happen, jorolf's contributions have driven osu! forward in subtle, but important ways.
 
-### Syrin 
+### Syrin
 
 [![](/wiki/shared/news/2017-12-24-community-contributors-2017/syrin.png)](https://osu.ppy.sh/u/5701575)
 

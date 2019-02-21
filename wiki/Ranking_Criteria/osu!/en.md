@@ -1,4 +1,4 @@
-osu! 
+osu!
 ======
 
 The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
@@ -81,7 +81,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 ### Skinning
 
-#### Rules 
+#### Rules
 
 -   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
@@ -146,9 +146,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it should follow these guidelines in addition to the ones above
 -  **Avoid more than three actively clicked 1/2 rhythms in a row.**
--  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures. 
--  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders. 
--  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable. 
+-  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
+-  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
+-  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
 -  **Avoid slider velocity above 1.3x.**
 
 #### Difficulty Setting Guidelines

@@ -104,7 +104,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 **[Unduh mappack di sini! (UKURAN FILE)](TAUTAN)**
 
 - Tipe Mod
-  - Beatmap 
+  - Beatmap
 - Tiebreaker
   - **Beatmap**
 
@@ -142,7 +142,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 ### Instruksi Perbabakan
 ### Instruksi Pertandingan
 ### Instruksi Mappool
-### Instruksi Penjadwalan 
+### Instruksi Penjadwalan
 
 <!-- Tambahkan referensi bendera di bawah kolom komentar ini.
 Gunakan https://megaapplepi.github.io/flag-wiki-osu/ untuk penggunaan bendera.

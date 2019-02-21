@@ -40,7 +40,7 @@ These spinners are prohibited because they can cause the player to lose their co
 
 ## Stack Zero
 
-Nominator(s): 
+Nominator(s):
 
 Stack zero requires the mapper to modify the `Stack Leniency` value to `0` by using Notepad.
 By doing this, osu! will no longer stack stacked hit objects (this means that all objects will be placed on top of each other instead of being placed slightly up-left).

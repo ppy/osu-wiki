@@ -42,7 +42,7 @@ NOTABLE MENTIONS
 SCOREWATCH SCORE SHOW
 ------
 
-[Estonians](https://osu.ppy.sh/users/7014697) takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/b/846925)! 
+[Estonians](https://osu.ppy.sh/users/7014697) takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/b/846925)!
 
 
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/j-0edVaahjA" frameborder="0" allowfullscreen></iframe></center>

@@ -22,9 +22,9 @@ Together, we'll be shedding some light on the history of the team, taking a litt
 
 ## Questions?
 
-As per usual, **we're looking for your questions!** 
+As per usual, **we're looking for your questions!**
 
-Anything you'd like to know about filters? Controversial situations in the past? How specific things work behind the scenes? Post your questions in the comments below. 
+Anything you'd like to know about filters? Controversial situations in the past? How specific things work behind the scenes? Post your questions in the comments below.
 
 We'll choose the top upvoted comments to present to the guests for discussion on the show.
 

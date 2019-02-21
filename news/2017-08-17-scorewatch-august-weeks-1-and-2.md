@@ -28,14 +28,14 @@ An unfamiliar face to newcomers, but definitely a player that has not rusted a b
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HQORVXMJUVc" frameborder="0" allowfullscreen></iframe></br>
 
-[jakads](https://osu.ppy.sh/u/259972) has finally taken the second SS on [Colorful Sounds Port - ETERNAL DRAIN](https://osu.ppy.sh/b/1001780?m=3), taking the number one spot on the map and 646pp in the process! He may has not been the first one to take the 100% accuracy, but his ratio is definitely the best amongst everyone. 
+[jakads](https://osu.ppy.sh/u/259972) has finally taken the second SS on [Colorful Sounds Port - ETERNAL DRAIN](https://osu.ppy.sh/b/1001780?m=3), taking the number one spot on the map and 646pp in the process! He may has not been the first one to take the 100% accuracy, but his ratio is definitely the best amongst everyone.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QJ6GyjY5qrY" frameborder="0" allowfullscreen></iframe></br>
 
 BLAST FROM THE PAST
 -----
 
-As osu! progresses into the 10th year of development, we look back at some scores set in previous years that we might have forgotten or missed, starting with [WubWoofWolf](https://osu.ppy.sh/u/39828) as he tears open [Bowling for Soup - 1985](https://osu.ppy.sh/b/19467) with a 96.46% DT FC! 
+As osu! progresses into the 10th year of development, we look back at some scores set in previous years that we might have forgotten or missed, starting with [WubWoofWolf](https://osu.ppy.sh/u/39828) as he tears open [Bowling for Soup - 1985](https://osu.ppy.sh/b/19467) with a 96.46% DT FC!
 
 We may not be able to keep up with what [jehlp](https://osu.ppy.sh/u/7568542) is posting at the moment, but do support what he is doing on the [osugame reddit](https://www.reddit.com/r/osugame/comments/6u2ufk/osuarchive_1_wubwoofwolf_bowling_for_soup_1985/)!
 
