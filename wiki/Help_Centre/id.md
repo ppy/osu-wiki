@@ -108,7 +108,7 @@ Jika kesalahan perubahan nama Anda hanya di kapitalisasi (besar kecil huruf) ata
 
 **Ya, tetapi hanya dalam keadaan tertentu.**
 
-Jika seorang pemain belum masuk ke dalam game setidaknya selama 6 bulan dan tidak memiliki riwayat permainan, nama penggunanya dapat diklaim melalui [laman perubahan nama di osu!store](https://store.ppy.sh/product/32) dengan biaya standar yang terkait dengan perubahan nama pengguna.
+Jika seorang pemain belum masuk ke dalam game setidaknya selama 6 bulan dan tidak memiliki riwayat permainan, nama penggunanya dapat diklaim melalui [laman perubahan nama di osu!store](https://osu.ppy.sh/store/products/32) dengan biaya standar yang terkait dengan perubahan nama pengguna.
 
 Untuk setiap 500 permainan di semua mode permainan dalam sebuah akun, tambahan satu tahun (365 hari) akan ditambahkan ke waktu sebelum nama pengguna itu tersedia. Hal ini dilakukan untuk mencegah orang mencuri nama pengguna pemain aktif atau yang baru pensiun.
 
@@ -116,7 +116,7 @@ Untuk setiap 500 permainan di semua mode permainan dalam sebuah akun, tambahan s
 
 **Ya, tetapi hanya dalam keadaan tertentu.**
 
-Kami hanya memberikan pengembalian gratis untuk nama pengguna yang tercatat sebelumnya (yang ditunjukkan dengan mengarahkan nama mereka di profil mereka). Perubahan pada nama lain sebelumnya harus [dibeli melalui toko](https://store.ppy.sh/store/product/32). Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan minta ubah nama Anda dikembalikan.
+Kami hanya memberikan pengembalian gratis untuk nama pengguna yang tercatat sebelumnya (yang ditunjukkan dengan mengarahkan nama mereka di profil mereka). Perubahan pada nama lain sebelumnya harus [dibeli melalui toko](https://osu.ppy.sh/store/products/32). Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan minta ubah nama Anda dikembalikan.
 
 Kami hanya memberikan kesempatan satu kali per akun, jadi mohon pertimbangkan dengan saksama sebelum meminta!
 

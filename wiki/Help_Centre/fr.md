@@ -102,7 +102,7 @@ Nous autoriserons l'achat de 'score reset' depuis le osu!store pour les joueurs 
 
 **Oui, absolument !**
 
-Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://store.ppy.sh/store/product/32).
+Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://osu.ppy.sh/store/products/32).
 
 À n'importe quel moment après l'achat, vous pouvez changer votre nom d'utilisateur vers tout ce que vous voulez. Cependant, le prix des changements augmente à chaque fois - le second coûtera 8$ USD, le troisième 16$ USD, et ainsi de suite. Nous avons pris cette mesure afin d'éviter que certains n'abusent de ce système pour changer de nom trop fréquemment.
 
@@ -112,7 +112,7 @@ Si vous ne souhaitez changer que la casse ou corriger une faute de frappe, vous 
 
 **Oui, mais sous certaines conditions.**
 
-Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://store.ppy.sh/store/product/32) pour les frais standards associés au changement de nom d'utilisateur.
+Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://osu.ppy.sh/store/products/32) pour les frais standards associés au changement de nom d'utilisateur.
 
 Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 jours) sera ajouté au temps avant que le nom de ce joueur soit disponible. Cette précaution est prise afin d'éviter que des gens ne volent les nom d'utilisateurs de joueurs trop récemment inactifs.
 
@@ -120,7 +120,7 @@ Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 j
 
 **Oui, mais sous certaines conditions.**
 
-Nous ne faisons de retour de nom que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://store.ppy.sh/store/product/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
+Nous ne faisons de retour de nom que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
 
 Nous ne permettons cela qu'une fois par compte, choisissez donc bien votre moment !
 

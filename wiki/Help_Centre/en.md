@@ -98,7 +98,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
@@ -108,7 +108,7 @@ If you are only after minor capitalization or grammar/spelling changes, you can 
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
 For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
@@ -116,7 +116,7 @@ For every 500 plays an account has across all game modes, an additional year (36
 
 **Yes, but under certain circumstances.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact accounts@ppy.sh and request your namechange reverted.
 
 We only grant this one time per account, so please consider carefully before requesting!
 
