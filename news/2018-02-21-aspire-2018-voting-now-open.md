@@ -20,7 +20,7 @@ That aside, I look forward to seeing who the public choose out of the final twel
 
 [**Download the full pack of finalist entries here.**](https://assets.ppy.sh/contests/68/entries/aspire2018finalists.zip)
 
-[**Download the pack of replays from the Champion Above Champions here.**](https://assets.ppy.sh/contests/68/aspire2018gnreplays.zip)
+[**Download the pack of replays from the Champion Above Champions here.**](https://assets.ppy.sh/contests/68/entries/aspire2018gnreplays.zip)
 
 [**Vote for your favorite finalist entry now!**](https://osu.ppy.sh/community/contests/68)
 
