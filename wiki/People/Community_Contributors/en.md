@@ -74,12 +74,12 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [pishifat](/users/3178418) | Exemplary performance in beatmap construction and education |
 | [Okorin](/users/1623405) | Exceptional leadership in beatmap management affairs |
 | [IamKwaN](/users/1856463) | Outstanding moderation presence and overall contribution |
-| [Marcin](/users/722665) | Outstanding contribution to community affairs, organization and moderation |
+| [Marcin](/users/722665) | Outstanding contribution to community affairs, organisation and moderation |
 | [LiquidPL](/users/5044384) | Outstanding development contribution (osu!next) |
 | [Nyquill](/users/682935) | Outstanding community contribution (osu!weekly) |
 | [Derekku](/users/91341) | Early community management and moderation |
 | [Trosk-](/users/3469385) | Outstanding contribution to community affairs |
-| [Shiro](/users/113005) | Outstanding contribution to moderation, organization and management |
+| [Shiro](/users/113005) | Outstanding contribution to moderation, organisation and management |
 
 ## 2017
 
@@ -100,7 +100,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [DrabWeb](/users/6946022) | Outstanding contribution to the osu!lazer project |
 | [EVAST](/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
 | [huoyaoyuan](/users/2428732) | Outstanding contribution to the osu!lazer project |
-| [kj415j45](/users/9367540) | Outstanding contribution and organization of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
+| [kj415j45](/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
 | [jorolf](/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
 | [Syrin](/users/5701575) | Creator of PerformancePlus and osu!chan |
 | [Raveille](/users/1388767) | Outstanding effort in the production and publishing of the Score project |
@@ -114,9 +114,9 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 | User | Contributions |
 |---|---|
-| [HappyStick](/users/256802) | World Cup organization & osu! Coffee Hour host |
-| [juankristal](/users/443656) | Outstanding contribution to World Cup organization and tournaments |
-| [WalterToro](/users/5281416) | Outstanding contribution as a memeber of the GMT and osu!wiki team |
+| [HappyStick](/users/256802) | World Cup organisation & osu! Coffee Hour host |
+| [juankristal](/users/443656) | Outstanding contribution to World Cup organisation and tournaments |
+| [WalterToro](/users/5281416) | Outstanding contribution as a memeber of the GMT and osu! wiki team |
 | [clayton](/users/3666350) | Outstanding contribution across many projects and domains |
 | [VeilStar](/users/4255720) | Outstanding work in player support and problem resolution |
 | [Stefan](/users/626907) | Beatmap Packs project maintainer extraordinaire |
@@ -125,7 +125,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [p3n](/users/123703) | Outstanding contribution across numerous projects and domains |
 | [shARPII](/users/776257) | Outstanding contribution to the GMT and tournament maintenance |
 | [Toy](/users/2757689) | Project Loved team leader |
-| [Kaifin](/users/2596942) | Early Project Loved assistance and organization |
+| [Kaifin](/users/2596942) | Early Project Loved assistance and organisation |
 | [Zak](/users/1375955) | Project Loved captain (osu!catch) |
 | [Backfire](/users/263110) | Project Loved captain (osu!taiko) |
 | [Tenshichan](/users/1101600) | Project Loved captain (osu!catch) |
