@@ -27,7 +27,7 @@ Exemplo
 Por exemplo, para reproduzir uma faixa de música (curta!) quando o jogador obtém um bom final no beatmap (por exemplo, terminar no estado Pass) e reproduzir um efeito de som de explosão como parte da cena:
 
 ```
-Sample,163520,2,"Audio\Best End.mp3",80
+Sample,163520,2,"Audio\Best End.mp3",80
 Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```
 

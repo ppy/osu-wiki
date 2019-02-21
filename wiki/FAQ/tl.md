@@ -20,7 +20,7 @@ Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin m
 
 ### Game-play Basics
 
-`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](http://osu.ppy.sh/s/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](http://osu.ppy.sh/s/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](http://osu.ppy.sh/s/19928)
 
 Ang laro na ito ay nakasalalay sa iyong:
 

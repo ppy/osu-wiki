@@ -49,12 +49,12 @@ Installation
  - 首先，检查你的显卡。
    - 使用 NVIDIA 显卡以获得最佳游戏体验。
    - 如果你使用 Intel 显卡，你需要启用 V-Sync。
-   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
-   - 安装 "Wine"（如果你还没有安装的话）.
+   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
+   - 安装 "Wine"（如果你还没有安装的话）.
 
 2. 使 Wine 工作
  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
-   - `sudo apt-get -y install wine`
+   - `sudo apt-get -y install wine`
  - 对于 Gentoo/Sabayon：
    - `sudo emerge wine`
  - 对于 Fedora：
@@ -170,7 +170,7 @@ Installation
 - 将会支持故事板或视频吗？
   - 不会。
 - 你希望添加新的功能么？
-  - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/forum/t/62313)中告诉我们。
+  - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/forum/t/62313)中告诉我们。
 
 外部链接
 --------------

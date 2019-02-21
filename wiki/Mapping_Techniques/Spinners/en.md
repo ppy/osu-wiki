@@ -36,7 +36,7 @@ The common usage of this technique is either before a break or near the end of a
 
 ### End Spinner
 
-Nominator(s): 
+Nominator(s):
 
 End spinner is pretty self-explanatory.
 This is a spinner that is the last hit object of the beatmap.

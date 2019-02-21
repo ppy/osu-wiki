@@ -1,4 +1,4 @@
-osu!taiko 
+osu!taiko
 =============
 
 These rules and guidelines have been discussed in the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). New ones may be suggested in that forum and this page will be updated once discussions reach an agreement.
@@ -44,7 +44,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 
 - **Each note must have its colour clearly distinguishable from the previous and upcoming notes.**
 - **Every note must be clearly assignable to a musical layer or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
-- **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.** 
+- **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **You must not wrongly snap sliderends to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **The drum sampleset must not be used unless default hit sound samples are replaced by custom samples.** The sampleset's default hit sounds do not produce feedback in gameplay.
@@ -85,7 +85,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **You should insert at least 1 rest moment that is 3/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
-- **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable. 
+- **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
 - OD should be 4 or less.
@@ -100,7 +100,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment.
 - **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
-- **You should insert at least 1 rest moment that is 2/1 or longer after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player. 
+- **You should insert at least 1 rest moment that is 2/1 or longer after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
 If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has to abide by the following rules and guidelines:
@@ -110,7 +110,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 
 #### Guidelines
 - **1/2 patterns should not be longer than five notes.**
-- **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable. 
+- **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
 - OD should be 5 or less.
@@ -120,16 +120,16 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 
 #### Rules
 - **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
-- **Finisher notes must not be used in any 1/4 patterns in this difficulty.** These patterns are not suitable for this difficulty level. 
+- **Finisher notes must not be used in any 1/4 patterns in this difficulty.** These patterns are not suitable for this difficulty level.
 
 #### Guidelines
-- **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs. 
-- **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players. 
+- **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
+- **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
 - **You should insert at least 1 rest moment that is 3/2 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
 - **Manipulating slider velocity is allowed**, but slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
-- **1/4 patterns with one or more colour changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity. 
-- **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment. 
+- **1/4 patterns with one or more colour changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity.
+- **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
 
 #### Difficulty Setting Guidelines
 - OD should be 5 or less

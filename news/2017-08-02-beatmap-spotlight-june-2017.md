@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Beatmap Spotlights: June 2017"
-permalink: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017 
+permalink: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 date: 2017-08-02 01:00:00 +0000
-tumblr_url: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017 
+tumblr_url: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 ---
 
 
@@ -45,7 +45,7 @@ This month, **[Okorin](https://osu.ppy.sh/u/1623405)** brings us a more modern r
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/innocence.jpg)](https://osu.ppy.sh/s/557231)
 
-Mapping a song which consists out of low BPM, strong vocals and an accompaniment of touching instruments isn't an easy task to do. However, **[appleeaterx](https://osu.ppy.sh/u/2407160)** has succeeded in doing so with this mapset. He has combined the perfect slider velocity, the right amount of note density and well-placed accents like slider slowdowns with a beautiful arrangement of hitsounds to ensure the best gameplay possible for a player. 
+Mapping a song which consists out of low BPM, strong vocals and an accompaniment of touching instruments isn't an easy task to do. However, **[appleeaterx](https://osu.ppy.sh/u/2407160)** has succeeded in doing so with this mapset. He has combined the perfect slider velocity, the right amount of note density and well-placed accents like slider slowdowns with a beautiful arrangement of hitsounds to ensure the best gameplay possible for a player.
 
 If you are bored of your generic anime-pp-jumpmap, definitely give this a try and experience an emotionally valuable beatmap.
 
@@ -93,7 +93,7 @@ Mapping lower BPM certainly brings its own challenges in osu!catch but **[JBHype
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/illusion-of-inflict.jpg)](https://osu.ppy.sh/s/529574)
 
-This time, **[Reba](https://osu.ppy.sh/u/3087654)** is bringing us an almost perfectly structured beatmap in every aspect as well as seven guest difficulties. Although the BPM is not really high, you can find challenging patterns such as jacks, long notes, chordstreams and more, specially in **[Critical_Star](https://osu.ppy.sh/u/3793196)**'s. 
+This time, **[Reba](https://osu.ppy.sh/u/3087654)** is bringing us an almost perfectly structured beatmap in every aspect as well as seven guest difficulties. Although the BPM is not really high, you can find challenging patterns such as jacks, long notes, chordstreams and more, specially in **[Critical_Star](https://osu.ppy.sh/u/3793196)**'s.
 
 Talking about the hardest map in the set, it has everything mentioned before but way more dense than all the other diffculties as well as a few noticeable Slider Velocity changes at the last section of the map. It has every kind of difficulties, going from 1 star to almost 6 and a half so it's recommended to play to anyone.
 
@@ -103,7 +103,7 @@ It's always a good surprise to find an amazing mapset as a first ranked map, and
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/rock-it.jpg)](https://osu.ppy.sh/s/569903)
 
-**[Tofu1222](https://osu.ppy.sh/u/6089608)**'s mapset is certainly a surprise for me. Kicking off with a low scroll speed section that slowly speeds up to your usual scroll building up the momentum with a no stop low density handstream into a technical jump-gallops with really flowy dense bursts. Fear not for those who are not capable to play this since the next difficulty from Eedow is as good an as fun to play accuracy wise but just in a lower level. 
+**[Tofu1222](https://osu.ppy.sh/u/6089608)**'s mapset is certainly a surprise for me. Kicking off with a low scroll speed section that slowly speeds up to your usual scroll building up the momentum with a no stop low density handstream into a technical jump-gallops with really flowy dense bursts. Fear not for those who are not capable to play this since the next difficulty from Eedow is as good an as fun to play accuracy wise but just in a lower level.
 
 This mapset overall is a nice and fun accuracy map hidden there in the ranked pool. It contains great technical elements, some mini long notes and slider velocity changes. I really wanted to give it the chance to be featured here. Well deserved spot for a solid mapset.
 

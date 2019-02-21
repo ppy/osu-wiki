@@ -61,7 +61,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 ### Renderer
 
-`Neustart erforderlich.`
+`Neustart erforderlich.`
 
 <img src="DE-Renderer.jpg" title="Renderer" alt="Renderer" width="300" />
 

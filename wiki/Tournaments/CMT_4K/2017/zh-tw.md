@@ -166,7 +166,7 @@ TB:
 
 ### 測試賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 - [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmaps/601737)  
 - [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmaps/1178870)  
 - [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmaps/815021)  

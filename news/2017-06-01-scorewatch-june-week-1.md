@@ -6,7 +6,7 @@ date: 2017-06-01 18:53:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/161323822383/scorewatch-june-week-1
 ---
 
-Scorewatch has spread its wings and liberated itself from the osu!weekly once and for all! The greatest of player achievements from around the community are now all in one place, coming to you directly on the front page. 
+Scorewatch has spread its wings and liberated itself from the osu!weekly once and for all! The greatest of player achievements from around the community are now all in one place, coming to you directly on the front page.
 
 ![](https://assets.ppy.sh/media/scorewatch/june-2017.png)
 

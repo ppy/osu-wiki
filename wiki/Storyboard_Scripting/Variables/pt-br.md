@@ -38,7 +38,7 @@ Observe que as variáveis são transferidas ao salvar no Editor de Beatmap, mas 
 $number_of_loops=12
 
 [Events]
-// ...
+// ...
 
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12

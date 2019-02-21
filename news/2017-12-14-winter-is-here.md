@@ -22,7 +22,7 @@ This track will be a fixture on the main-menu to accompany the Winter seasonal b
 
 ----
 
-And that's not all! 
+And that's not all!
 
 To accompany the brand new tune, we're delighted to announce the results of the Winter 2017 Fanart Contest - featuring perhaps the most intense race for first place of any contest that we've ever held thus far.
 
@@ -114,7 +114,7 @@ Seriously, thank you!
 
 From us here on the _osu!team_, we wish you all a happy holidays and all the best for the New Year coming up soon.
 
-Remember to take time from clicking circles to cherish what's truly important during the festive season - namely family and friends. 
+Remember to take time from clicking circles to cherish what's truly important during the festive season - namely family and friends.
 
 Enjoy the tunes and gorgeous art!
 

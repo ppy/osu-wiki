@@ -102,16 +102,16 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](/beatmapsets/625899/#taiko/1574085)
-  - [A.I.TOYS - compressed eyes (\_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318) 
-  - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323) 
+  - [A.I.TOYS - compressed eyes (\_Rise) \[Blindness Oni\]](/beatmapsets/527086/#taiko/1118318)
+  - [tarolabo - Miko (glalucard) \[Oni Miko\]](/beatmapsets/41212/#taiko/130323)
   - [LeaF - ATHAZA (vzk) \[Fatal Oni\]](/beatmapsets/517281/#taiko/1174736)
   - [t+pazolite - !!!Chaos Time!!! (Kobaryo's FTN Remix) (sing216) \[iiiChaos On!iii\]](/beatmapsets/721195/#taiko/1522932)
 - Hidden
-  - [Reji - A Young Girl, So Vivid in the Night (S a n d) \[Sand's Taiko Oni\]](/beatmapsets/342499/#taiko/757048) 
-  - [DECO*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](/beatmapsets/345191/#taiko/762382) 
+  - [Reji - A Young Girl, So Vivid in the Night (S a n d) \[Sand's Taiko Oni\]](/beatmapsets/342499/#taiko/757048)
+  - [DECO*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](/beatmapsets/345191/#taiko/762382)
 - HardRock
-  - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](/beatmapsets/529539/#taiko/1122796) 
-  - [NEKI<T - GaRaKuTic Dream (7_7) \[Oni\]](/beatmapsets/577572/#taiko/1222367) 
+  - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](/beatmapsets/529539/#taiko/1122796)
+  - [NEKI<T - GaRaKuTic Dream (7_7) \[Oni\]](/beatmapsets/577572/#taiko/1222367)
 - DoubleTime
   - [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](/beatmapsets/541523/#taiko/1148729)
   - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) - (SKSalt) \[SK's Inner Oni\]](/beatmapsets/286025/#taiko/871725)
@@ -119,7 +119,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
   - [Penoreri - Everlasting message (NewibornCLivee) \[xN.taiCLx\]](/beatmapsets/304775/#taiko/682755)
   - [Ryu* - !Viva! (Nofool) \[Insane Oni\]](/beatmapsets/799895/#taiko/1679280)
 - FreeMod
-  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (Skull Kid) \[Shinobi Oni\]](/beatmapsets/742966/#taiko/1566951) 
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (Skull Kid) \[Shinobi Oni\]](/beatmapsets/742966/#taiko/1566951)
   - [NekoMata L.E.D.Master+ - GAIA (glalucard) \[Taiko\]](/beatmapsets/94086/#taiko/253469)
 - Tiebreaker
   - **[RoughSketch + DD""Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Guardistack-) \[STAnic\]](/beatmapsets/748030/#taiko/1695846)**
@@ -130,16 +130,16 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](/beatmapsets/796419/#taiko/1672405)
-  - [SWAN K feat. Asuka M - LOVE B.B.B (Zetera) \[Majin Oni (Tournament Edition)\]](/beatmapsets/606771/#taiko/1640328) 
-  - [Igorrr - Tendon (DukeDukeDura) \[Amiable\]](/beatmapsets/737578/#taiko/1557717) 
+  - [SWAN K feat. Asuka M - LOVE B.B.B (Zetera) \[Majin Oni (Tournament Edition)\]](/beatmapsets/606771/#taiko/1640328)
+  - [Igorrr - Tendon (DukeDukeDura) \[Amiable\]](/beatmapsets/737578/#taiko/1557717)
   - [Ametsuchi Enikki - Reimei Sketchbook (Y O U T A) \[Sketch\]](/beatmapsets/571204/#taiko/1210546)
   - [Seiryu x t+pazolite - 256*256 (Nishizumi) \[65536\]](/beatmapsets/642870/#taiko/1362862)
 - Hidden
-  - [Halozy - Monosugoi Raivu de Cirno ga Sokohakatonaku Monosugoi Uta (Nofool) \[Hard Oni\]](/beatmapsets/411578/#taiko/893023) 
-  - [Team:SASAKURATION - AVALON (Firce777) \[Firce777's Ura Oni\]](/beatmapsets/118763/#taiko/406755) 
+  - [Halozy - Monosugoi Raivu de Cirno ga Sokohakatonaku Monosugoi Uta (Nofool) \[Hard Oni\]](/beatmapsets/411578/#taiko/893023)
+  - [Team:SASAKURATION - AVALON (Firce777) \[Firce777's Ura Oni\]](/beatmapsets/118763/#taiko/406755)
 - HardRock
-  - [Kano - Yuudachi no Ribbon (Y O U T A) \[Ribbon\]](/beatmapsets/477178/#taiko/1019297) 
-  - [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](/beatmapsets/83519/#taiko/230572) 
+  - [Kano - Yuudachi no Ribbon (Y O U T A) \[Ribbon\]](/beatmapsets/477178/#taiko/1019297)
+  - [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](/beatmapsets/83519/#taiko/230572)
 - DoubleTime
   - [AIKO OI - Limitless Possibility (tasuke912) \[Oni\]](/beatmapsets/585513/#taiko/1240275)
   - [mary - DAYBREAK FRONTLINE (Jerry) \[Daybreak Oni\]](/beatmapsets/609728/#taiko/1289501)
@@ -147,7 +147,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
   - [DM Ashura - deltaMAX (Sayaka-) \[Oni\]](/beatmapsets/437153/#taiko/941375)
   - [#FFFFFF - Couleur=Blanche (cdhsausageboy) \[Impending Chaos\]](/beatmapsets/790827/#taiko/1659257)
 - FreeMod
-  - [PSYQUI - Hype feat. Such (KinomiCandy) \[Future Oni\]](/beatmapsets/777879/#taiko/1634000) 
+  - [PSYQUI - Hype feat. Such (KinomiCandy) \[Future Oni\]](/beatmapsets/777879/#taiko/1634000)
   - [LeaF - Wizdomiot (JUDYDANNY) \[JuDa's Inner Oni\]](/beatmapsets/352682/#taiko/781859)
 - Tiebreaker
   - **[BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](/beatmapsets/523713/#taiko/1111804)**
@@ -158,16 +158,16 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](/beatmapsets/737973/#taiko/1557391)
-  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7_7) \[Gatagoto Gatagoto Oni\]](/beatmapsets/673769/#taiko/1425840) 
-  - [MASAKI - Scarlet Lance (m1kado) \[Inner Oni\]](/beatmapsets/681440/#taiko/1440822) 
+  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7_7) \[Gatagoto Gatagoto Oni\]](/beatmapsets/673769/#taiko/1425840)
+  - [MASAKI - Scarlet Lance (m1kado) \[Inner Oni\]](/beatmapsets/681440/#taiko/1440822)
   - [Camellia feat. nanahira - Kizuitara Shunkashuutou (shinchikuhome) \[Taiko Inner Oni\]](/beatmapsets/532994/#taiko/1129200)
   - [Camellia - /\*decryption(instrumental)\*/ (Nifty) \[Inner Oni\]](/beatmapsets/674049/#taiko/1426341)
 - Hidden
-  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](/beatmapsets/274111/#taiko/667471) 
-  - [Ym1024 - orange tea (tasuke912) \[Oni\]](/beatmapsets/282369/#taiko/638541) 
+  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Nwolf) \[Nwolf's Oni\]](/beatmapsets/274111/#taiko/667471)
+  - [Ym1024 - orange tea (tasuke912) \[Oni\]](/beatmapsets/282369/#taiko/638541)
 - HardRock
-  - [Renard - Smoke Tower (Grimbow) \[Grim Oni v2\]](/beatmapsets/269021/#taiko/1625314) 
-  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (Flower) \[Taiko Flower\]](/beatmapsets/111635/#taiko/291133) 
+  - [Renard - Smoke Tower (Grimbow) \[Grim Oni v2\]](/beatmapsets/269021/#taiko/1625314)
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (Flower) \[Taiko Flower\]](/beatmapsets/111635/#taiko/291133)
 - DoubleTime
   - [Warak - Once Upon A Time (MMzz) \[Inner Oni\]](/beatmapsets/586418/#taiko/1241907)
   - [Sara - Natsuiro Present o BPM180 ni Shitemita (snowball112) \[Inner Oni\]](/beatmapsets/524050/#taiko/1112372)
@@ -175,7 +175,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
   - [Warak - Cosmic Invaders (Lno) \[Oni\]](/beatmapsets/765624/#taiko/1609734)
   - [Zekk - Swampgator (Jaye) \[is better than trigger\]](/beatmapsets/758236/#taiko/1595006)
 - FreeMod
-  - [LeaF - Resurrection Spell (- Kagami Yuki -) \[Kagami's Taiko\]](/beatmapsets/178857/#taiko/430150) 
+  - [LeaF - Resurrection Spell (- Kagami Yuki -) \[Kagami's Taiko\]](/beatmapsets/178857/#taiko/430150)
   - [EVO+ feat. GigaReol - [A]ddiction (KinomiCandy, MMzz, Y O U T A) \[Kinobles, MMzz & YOUTA's [C]ollaboration\]](/beatmapsets/491590/#taiko/1047519)
 - Tiebreaker
   - **[Morimori Atsushi vs. uma - Noel (long ver.) (Ayyri) \[Ayyri's Oni\]](/beatmapsets/705224/#taiko/1491659)**
@@ -186,24 +186,24 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](/beatmapsets/553809/#taiko/1172641)
-  - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](/beatmapsets/762173/#taiko/1602516) 
-  - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](/beatmapsets/520157/#taiko/1104911) 
+  - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](/beatmapsets/762173/#taiko/1602516)
+  - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](/beatmapsets/520157/#taiko/1104911)
   - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](/beatmapsets/163581/#taiko/398568)
   - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](/beatmapsets/747516/#taiko/1575117)
 - Hidden
-  - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](/beatmapsets/795265/#taiko/1670210) 
-  - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](/beatmapsets/519566/#taiko/1103735) 
+  - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](/beatmapsets/795265/#taiko/1670210)
+  - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](/beatmapsets/519566/#taiko/1103735)
 - HardRock
   - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](/beatmapsets/326711/#taiko/725333)
-  - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](/beatmapsets/446239/#taiko/958486) 
+  - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](/beatmapsets/446239/#taiko/958486)
 - DoubleTime
-  - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](/beatmapsets/157896/#taiko/386782) 
-  - [cillia - Melt (mintong89) \[Oni\]](/beatmapsets/552915/#taiko/1171884) 
+  - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](/beatmapsets/157896/#taiko/386782)
+  - [cillia - Melt (mintong89) \[Oni\]](/beatmapsets/552915/#taiko/1171884)
 - Special
   - [REDALiCE - Volar (yoyo) \[yoyo's Special TaiKo\]](/beatmapsets/50932/#taiko/156304)
   - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](/beatmapsets/706552/#taiko/1493980)
 - FreeMod
-  - [An - Abstreact (xfraczynho) \[First Impulse\]](/beatmapsets/620725/#taiko/1308564) 
+  - [An - Abstreact (xfraczynho) \[First Impulse\]](/beatmapsets/620725/#taiko/1308564)
   - [sak respect for Arata Iiyoshi - Reason of being (rew0825) \[Inner Oni\]](/beatmapsets/746440/#taiko/1573223)
 - Tiebreaker
   - **[Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](/beatmapsets/551087/#taiko/1624252)**
@@ -214,24 +214,24 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](/beatmapsets/44898/#taiko/145660)
-  - [dors k(uro) - dreeeeam (Vulkin) \[Inner Oni\]](/beatmapsets/788077/#taiko/1661560) 
-  - [Haywyre - Insight (Guardistack-) \[Mini Satanic\]](/beatmapsets/739890/#taiko/1561061) 
+  - [dors k(uro) - dreeeeam (Vulkin) \[Inner Oni\]](/beatmapsets/788077/#taiko/1661560)
+  - [Haywyre - Insight (Guardistack-) \[Mini Satanic\]](/beatmapsets/739890/#taiko/1561061)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (SE_Soul) \[SE_Soul Crazy Taiko\]](/beatmapsets/88094/#taiko/240302)
   - [The Ghost Of 3.13 - Forgotten (\[luanny_phnyx\]) \[phNyx's Taiko Oni\]](/beatmapsets/55560/#taiko/168807)
 - Hidden
-  - [Umetora - Ifuudoudou (a2805146) \[Oni\]](/beatmapsets/578927/#taiko/1225677) 
-  - [Ryu* Vs. L.E.D.-G - PARADISE LOST (Frank7654321) \[Taiko\]](/beatmapsets/38043/#taiko/122471) 
+  - [Umetora - Ifuudoudou (a2805146) \[Oni\]](/beatmapsets/578927/#taiko/1225677)
+  - [Ryu* Vs. L.E.D.-G - PARADISE LOST (Frank7654321) \[Taiko\]](/beatmapsets/38043/#taiko/122471)
 - HardRock
-  - [Acchi Kocchi Cast - Acchi de Kocchi de (TV Size) (kg2161012) \[KG's Taiko Oni\]](/beatmapsets/49967/#taiko/164702) 
-  - [Junichi Masuda, Go Ichinose - Pokemon World Championships Final (Stefan) \[Final Oni\]](/beatmapsets/600544/#taiko/1268988) 
+  - [Acchi Kocchi Cast - Acchi de Kocchi de (TV Size) (kg2161012) \[KG's Taiko Oni\]](/beatmapsets/49967/#taiko/164702)
+  - [Junichi Masuda, Go Ichinose - Pokemon World Championships Final (Stefan) \[Final Oni\]](/beatmapsets/600544/#taiko/1268988)
 - DoubleTime
-  - [MYTH & ROID - STYX HELIX (Nardoxyribonucleic) \[Nardo's Inner Oni\]](/beatmapsets/501705/#taiko/1160392) 
-  - [Ikimono Gakari - Netsujou no Spectrum (Nofool) \[Oni\]](/beatmapsets/275309/#taiko/624413) 
+  - [MYTH & ROID - STYX HELIX (Nardoxyribonucleic) \[Nardo's Inner Oni\]](/beatmapsets/501705/#taiko/1160392)
+  - [Ikimono Gakari - Netsujou no Spectrum (Nofool) \[Oni\]](/beatmapsets/275309/#taiko/624413)
 - Special
   - [Skan & Krale - No Glory (feat. M.I.M.E & Drama B) (Myckoll & Ulqui) \[Myruki's Glory\]](/beatmapsets/725635/#taiko/1532116)
   - [Crash-TM - Untan Goose (Lno) \[Lno's Oni\]](/beatmapsets/299271/#taiko/671751)
 - FreeMod
-  - [happy30 - As the wind blows (Short Ver.) (Skylish) \[Skylish Windlish Oni\]](/beatmapsets/478670/#taiko/1229268) 
+  - [happy30 - As the wind blows (Short Ver.) (Skylish) \[Skylish Windlish Oni\]](/beatmapsets/478670/#taiko/1229268)
   - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](/beatmapsets/679686/#taiko/1437286)
 - Tiebreaker
   - **[IOSYS - Doutei Korose (Plua-) \[Taikorose-\]](/beatmapsets/653540/#taiko/1385416)**
@@ -241,25 +241,25 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 **[此處下載圖池 (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
 
 - NoMod
-  - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](/beatmapsets/36248/#taiko/148859) 
-  - [TK from Ling tosite sigure - unravel (TV edit) (Desperate-Kun) \[Inner Oni\]](/beatmapsets/206887/#taiko/487679) 
-  - [ALiCE'S EMOTiON - Mami Mami Zone (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/43728/#taiko/143931) 
+  - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](/beatmapsets/36248/#taiko/148859)
+  - [TK from Ling tosite sigure - unravel (TV edit) (Desperate-Kun) \[Inner Oni\]](/beatmapsets/206887/#taiko/487679)
+  - [ALiCE'S EMOTiON - Mami Mami Zone (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/43728/#taiko/143931)
   - [LeaF - Aleph-0 (Nifty) \[Oni\]](/beatmapsets/675465/#taiko/1451091)
   - [Eluvietie - Helvetios (Grimbow & Lno) \[Collab Oni\]](/beatmapsets/324146/#taiko/742526)
 - Hidden
-  - [Hommarju - Rock It (Ayyri) \[Ayyri's Oni\]](/beatmapsets/703311/#taiko/1488043) 
-  - [Anamanaguchi - Blackout City (Sushi) \[Taiko Oni\]](/beatmapsets/67226/#taiko/203101) 
+  - [Hommarju - Rock It (Ayyri) \[Ayyri's Oni\]](/beatmapsets/703311/#taiko/1488043)
+  - [Anamanaguchi - Blackout City (Sushi) \[Taiko Oni\]](/beatmapsets/67226/#taiko/203101)
 - HardRock
-  - [Mitsuki Nakae - Disappearing Queen (bossandy) \[Boss Taiko Oni\]](/beatmapsets/29582/#taiko/132499) 
-  - [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito) \[Oni\]](/beatmapsets/175036/#taiko/468992) 
+  - [Mitsuki Nakae - Disappearing Queen (bossandy) \[Boss Taiko Oni\]](/beatmapsets/29582/#taiko/132499)
+  - [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito) \[Oni\]](/beatmapsets/175036/#taiko/468992)
 - DoubleTime
-  - [Gunther - Famous (bossandy) \[Boss Taiko Oni\]](/beatmapsets/47713/#taiko/148274) 
-  - [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (wmfchris) \[Wmf's Taiko Lite\]](/beatmapsets/80747/#taiko/249761) 
+  - [Gunther - Famous (bossandy) \[Boss Taiko Oni\]](/beatmapsets/47713/#taiko/148274)
+  - [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (wmfchris) \[Wmf's Taiko Lite\]](/beatmapsets/80747/#taiko/249761)
 - Special
   - [Kana Nishino - Sweet Dreams (11t dnb remix) (ZethZ161) \[Goodnight\]](/beatmapsets/674708/#taiko/1427538)
   - [LiSA - Rising Hope -TV Ver.- (cdhsausageboy) \[fAlling inTo deSpair\]](/beatmapsets/767870/#taiko/1627201)
 - FreeMod
-  - [96neko - Uso no Hibana (Charlotte) \[Charlotte's Oni\]](/beatmapsets/767870/#taiko/1627201) 
+  - [96neko - Uso no Hibana (Charlotte) \[Charlotte's Oni\]](/beatmapsets/767870/#taiko/1627201)
   - [Ranko - Ashita mo Haremasu You ni (Kurai) \[Oni\]](/beatmapsets/78870/#taiko/220354)
 - Tiebreaker
   - **[KikouHana - Nobore! Susume! Takai Tou (\[R\]) \[Continue!\]](/beatmapsets/548016/#taiko/1160620)**
@@ -269,20 +269,20 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 **[此處下載圖池 (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
 
 - NoMod
-  - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](/beatmapsets/44854/#taiko/156706) 
-  - [Comp - Touchuu Aika (Nwolf) \[Nwolf's Oni\]](/beatmapsets/198700/#taiko/473603) 
-  - [nmk - sola (TKS) \[Oni\]](/beatmapsets/171239/#taiko/414274) 
+  - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](/beatmapsets/44854/#taiko/156706)
+  - [Comp - Touchuu Aika (Nwolf) \[Nwolf's Oni\]](/beatmapsets/198700/#taiko/473603)
+  - [nmk - sola (TKS) \[Oni\]](/beatmapsets/171239/#taiko/414274)
 - Hidden
-  - [xi - .357 Magnum \[Ex's Oni\]](/beatmapsets/155749/#taiko/682957) 
-  - [Pinocchio-P - Mushroom Mother (MMzz) \[Oni\]](/beatmapsets/88802/#taiko/241858) 
+  - [xi - .357 Magnum \[Ex's Oni\]](/beatmapsets/155749/#taiko/682957)
+  - [Pinocchio-P - Mushroom Mother (MMzz) \[Oni\]](/beatmapsets/88802/#taiko/241858)
 - HardRock
-  - [Miyazaki Ayumi - brave heart (HeatKai) \[Heat's Oni\]](/beatmapsets/107222/#taiko/281048) 
-  - [Alex C. feat. Yasmin K. - Angel Of Darkness (Nightcore Mix) (psj1226) \[Psj's Taiko\]](/beatmapsets/16489/#taiko/69439) 
+  - [Miyazaki Ayumi - brave heart (HeatKai) \[Heat's Oni\]](/beatmapsets/107222/#taiko/281048)
+  - [Alex C. feat. Yasmin K. - Angel Of Darkness (Nightcore Mix) (psj1226) \[Psj's Taiko\]](/beatmapsets/16489/#taiko/69439)
 - DoubleTime
-  - [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](/beatmapsets/43100/#taiko/137802) 
-  - [SOUND HOLIC - CANDY POWDER (toarafict) \[Toara's Oni\]](/beatmapsets/172627/#taiko/459500) 
+  - [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (aabc271) \[aabc's Taiko\]](/beatmapsets/43100/#taiko/137802)
+  - [SOUND HOLIC - CANDY POWDER (toarafict) \[Toara's Oni\]](/beatmapsets/172627/#taiko/459500)
 - FreeMod
-  - [t+pazolite - Pumpin' Junkies (Nwolf) \[Nwolf's Lite Oni\]](/beatmapsets/364288/#taiko/991619) 
+  - [t+pazolite - Pumpin' Junkies (Nwolf) \[Nwolf's Lite Oni\]](/beatmapsets/364288/#taiko/991619)
   - [Atoguru - Privilege (Alace) \[Pangko\]](/beatmapsets/43861/#taiko/138598)
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](/beatmapsets/42234#taiko/135188)**
@@ -293,19 +293,19 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 總決賽
 
-| Group | Sunday, 2018-07-08 |  |  |  |  | 
+| Group | Sunday, 2018-07-08 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | nyanmi-1828 ![][flag_JP] | 2 | **7** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43991727) |
 | LB | **Smallwu** ![][flag_TW] | **7** | 0 | ![][flag_JP] nyanmi-1828 | -win by default- |
 
 ### 決賽
 
-| Group | Saturday, 2018-06-30 |  |  |  |  | 
+| Group | Saturday, 2018-06-30 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | **nyanmi-1828** ![][flag_JP] | **7** | 1 | ![][flag_JP] butter0414 | [#1](/community/matches/43771414) |
 | LB | **qoot8123** ![][flag_TW] | **7** | 5 | ![][flag_JP] Xin Leviathan | [#1](/community/matches/43779830) |
 
-| Group | Sunday, 2018-07-01 |  |  |  |  | 
+| Group | Sunday, 2018-07-01 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | LB | Sanawieck ![][flag_JP] | 0 | **7** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43803040) |
 | LB | **Smallwu** ![][flag_TW] | **7** | 1 | ![][flag_TW] qoot8123 | [#1](/community/matches/43804465) |
@@ -313,14 +313,14 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 四強
 
-| Group | Saturday, 2018-06-23 |  |  |  |  | 
+| Group | Saturday, 2018-06-23 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | LB | ayomikasa ![][flag_ID] | 4 | **6** | ![][flag_MY] **ZethZ161** | [#1](/community/matches/43586711) |
 | LB | **Xin Leviathan** ![][flag_JP] | **6** | 1 | ![][flag_JP] KILI3343 | [#1](/community/matches/43583803) |
 | UB | qoot8123 ![][flag_TW] | 2 | **6** | ![][flag_JP] **butter0414** | [#1](/community/matches/43584932) |
 | LB | **Smallwu** ![][flag_TW] | **6** | 0 | ![][flag_ID] Niko-nyan | -win by default- |
 
-| Group | Sunday, 2018-06-24 |  |  |  |  | 
+| Group | Sunday, 2018-06-24 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | LB | **TS\_LewisLuo** ![][flag_TW] | **6** | 5 | ![][flag_MY] Jerry | [#1](/community/matches/43609032) |
 | LB | ZethZ161 ![][flag_MY] | 3 | **6** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43646954) |
@@ -329,14 +329,14 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 八強
 
-| Group | Saturday, 2018-06-16 |  |  |  |  | 
+| Group | Saturday, 2018-06-16 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | Xin Leviathan ![][flag_JP] | 2 | **5** | ![][flag_JP] **nyanmi-1828** | [#1](/community/matches/43384244) |
 | LB | **Jerry** ![][flag_MY] | **5** | 0 | ![][flag_AU] Tsubasa2 | [#1](/community/matches/43385309) |
 | LB | **Niko-nyan** ![][flag_ID] | **5** | 1 | ![][flag_JP] puropera209 | [#1](/community/matches/43385319) |
 | UB | Smallwu ![][flag_TW] | 0 | **5** | ![][flag_TW] **qoot8123** | [#1](/community/matches/43391517) |
 
-| Group | Sunday, 2018-06-17 |  |  |  |  | 
+| Group | Sunday, 2018-06-17 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | **Sanawieck** ![][flag_JP] | **5** | 3 | ![][flag_TW] TS\_LewisLuo | [#1](/community/matches/43413311) |
 | LB | Dakry ![][flag_MY] | 0 | **5** | ![][flag_MY] **ZethZ161** | -win by default- |
@@ -345,13 +345,13 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 十六強
 
-| Group | Saturday, 2018-06-09 |  |  |  |  | 
+| Group | Saturday, 2018-06-09 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | **Xin Leviathan** ![][flag_JP] | **5** | 3 | ![][flag_MY] Dakry | [#1](/community/matches/43186328) |
 | UB | **Sanawieck** ![][flag_JP] | **5** | 0 | ![][flag_ID] Niko-nyan | -win by default- |
 | UB | Jerry ![][flag_MY] | 4 | **5** | ![][flag_TW] **Smallwu** | [#1](/community/matches/43194107) |
 
-| Group | Sunday, 2018-06-10 |  |  |  |  | 
+| Group | Sunday, 2018-06-10 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | UB | Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_TW] **qoot8123** | [#1](/community/matches/43218564) |
 | UB | **TS\_LewisLuo** ![][flag_TW] | **5** | 0 | ![][flag_JP] puropera209 | [#1](/community/matches/43219599) |
@@ -361,7 +361,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 小組賽
 
-| Group | Saturday, 2018-06-02 |  |  |  |  | 
+| Group | Saturday, 2018-06-02 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | C | **nyanmi-1828** ![][flag_JP] | **4** | 1 | ![][flag_KR] L y s | [#1](/community/matches/42979943) |
 | D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_PH] Micka | [#1](/community/matches/42979761) |
@@ -388,7 +388,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | H | GlinT fraulein ![][flag_JP] | 0 | **4** | ![][flag_JP] **puropera209** | -win by default- |
 | G | **Shirai-** ![][flag_ID] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/42991227) |
 
-| Group | Sunday, 2018-06-03 |  |  |  |  | 
+| Group | Sunday, 2018-06-03 |  |  |  |  |
 | :-: | --: | :-: | :-- | :-- | :-: |
 | B | **Dakry** ![][flag_MY] | **4** | 2 | ![][flag_AU] Beat43210 | [#1](/community/matches/43007113) |
 | H | **KILI3343** ![][flag_JP] | **4** | 1 | ![][flag_PH] Jmeh07 | [#1](/community/matches/43013154) |

@@ -42,7 +42,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 > Atmospheric to say the least, A Centralized View is many things, and infinitely mappable is one of them. Layers of simple synthlines intertwine amidst complex percussion to create something as uniquely enthralling as it is clean and uplifting.
 
-### Take 
+### Take
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/2EtkxNE_2Ag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 

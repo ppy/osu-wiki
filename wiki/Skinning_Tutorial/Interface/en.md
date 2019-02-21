@@ -453,7 +453,7 @@ This element is displayed when a certain game mod is enabled (auto/relax/coop/et
 
 As a sugguestion, make sure that this image still reads "unranked" to let the user know that the play is unranked.
 
-![](fs/unranked_0.jpg) 
+![](fs/unranked_0.jpg)
 Default skin
 
 ![](fs/unranked_1.jpg)
@@ -550,13 +550,13 @@ This is the image that appears when you **fail** a section.
 Failing a section is determined whether if you have **less than 50%** of life (on the scorebar) before break.
 These don't have a size restriction, so feel free to make them bigger than the default!
 
-![](fs/failed_0.jpg) 
+![](fs/failed_0.jpg)
 _(unknown)_
 
-![](fs/failed_1.jpg) 
+![](fs/failed_1.jpg)
 _(unknown)_
 
-![](fs/failed_2.jpg) 
+![](fs/failed_2.jpg)
 _Alice Margatroid_
 
 ![](fs/failed_3.jpg)

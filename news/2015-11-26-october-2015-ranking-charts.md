@@ -68,7 +68,7 @@ This friendly set is the easiest and shortest one in this chart. Every difficult
 
 This song is long compared to the others. It's over 4 minutes, but you'll never get tired of playing it. There are two difficulties with a basic flow, but it gives you a feeling of how the gameplay in Taiko works. It represents the sentence "less is more" in a good way.
 
-+ [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/s/332623)　by [_Gezo_](https://osu.ppy.sh/u/481582) & [Nardoxyribonucleic](https://osu.ppy.sh/u/876419)
++ [Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose!](https://osu.ppy.sh/s/332623) by [_Gezo_](https://osu.ppy.sh/u/481582) & [Nardoxyribonucleic](https://osu.ppy.sh/u/876419)
 
 This song is a famous japanese anime song and its mapset contains all modes. You are able to enjoy the melody even if you don't know the song yet, so I think, overall the maps are very well made. It is a good chance to start playing Taiko, so let's enjoy it!
 

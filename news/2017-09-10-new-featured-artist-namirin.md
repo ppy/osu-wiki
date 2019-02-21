@@ -18,7 +18,7 @@ We're excited to see what the intrepid mappers of our community will do with **f
 
 As with all Featured Artists, every track on [**\*namirin**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18) comes pre-timed in an .osz and is 100% licensed for use in osu!, so worry less, and map more!
 
-To build on this even more, we're excited to tease the return of an old contest-esque thing in the coming weeks, which will spotlight several of our Featured Artists, **\*namirin** among them. 
+To build on this even more, we're excited to tease the return of an old contest-esque thing in the coming weeks, which will spotlight several of our Featured Artists, **\*namirin** among them.
 
 Keep your eyes and ears peeled for more details as they come!
 

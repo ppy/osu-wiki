@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yuu - U.N. Owen was Her? (DJPop) \[DJPop's Insane\]](https://osu.ppy.sh/beatmapsets/7104#osu/31906)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Unconnected\]](https://osu.ppy.sh/beatmapsets/37242#osu/108762)
 - Hidden
-  - [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715) 
+  - [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715)
   - [Zekk - Calling (Mirash) \[Mirash's Another\]](https://osu.ppy.sh/beatmapsets/673878#osu/1427700)
   - [a\_hisa - Fanatiker der Liebe \[Extra\]](http://osu.uu.gl/s/167091)
 - HardRock
@@ -264,41 +264,41 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2018-05-27 |  |  |  |  | 
+| Sunday, 2018-05-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Rubber Conquest** | **6** | 1 | Floating up | [#1](/community/matches/42816259) |
 
 ### Finals
 
-| Saturday, 2018-05-12 |  |  |  |  | 
+| Saturday, 2018-05-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Floating up | 3 | **6** | **Rubber Conquest** | [#1](/community/matches/42411160) |
 
-| Sunday, 2018-05-13 |  |  |  |  | 
+| Sunday, 2018-05-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Latex Intolerance** | **6** | 3 | Zzz | [#1](/community/matches/42445467) |
 
-| Sunday, 2018-05-26 |  |  |  |  | 
+| Sunday, 2018-05-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Floating up** | **6** | 0 | Latex Intolerance | -win by default- |
 
 ### Semifinals
 
-| Saturday, 2018-05-05 |  |  |  |  | 
+| Saturday, 2018-05-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Latex Intolerance** | **5** | 0 | Tak Halal Sial | [#1](/community/matches/42225047) |
 | Wisdom Chair | 0 | **5** | **Floating up** | [#1](/community/matches/42226598) |
 | **Rubber Conquest** | **5** | 0 | Dumii has a small dick | [#1](/community/matches/42228520) |
 | **Zzz** | **5** | 2 | Fully Unified Chistianized Kingdom | [#1](/community/matches/42230056) |
 
-| Sunday, 2018-05-06 |  |  |  |  | 
+| Sunday, 2018-05-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Dumii has a small dick | 0 | **5** | **Zzz** | [#1](/community/matches/42263115) |
 | Wisdom Chair | 1 | **5** | **Latex Intolerance** | [#1](/community/matches/42264660) |
 
 ### Quarterfinals
 
-| Saturday, 2018-04-29 |  |  |  |  | 
+| Saturday, 2018-04-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Odeio Negrxs | 0 | **5** | **EzSupport** | -win by default- |
 | **We Have No Friends** | **5** | 1 | spy kids | [#1](/community/matches/42027341) |
@@ -308,7 +308,7 @@ This competition has come to an end and resulted in the following podium:
 | Latex Intolerance | 4 | **5** | **Dumii has a small dick** | [#1](/community/matches/42033735) |
 | **Wisdom Chair** | **5** | 1 | izako boars | [#1](/community/matches/42039012) |
 
-| Sunday, 2018-04-28 |  |  |  |  | 
+| Sunday, 2018-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Floating up** | **5** | 0 | Zzz | [#1](/community/matches/42058100) |
 | **Tak Halal Sial** | **5** | 2 | We Have No Friends | [#1](/community/matches/42059678) |
@@ -318,14 +318,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2018-04-21 |  |  |  |  | 
+| Saturday, 2018-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Wisdom Chair** | **5** | 2 | Odeio Negrxs | [#1](/community/matches/41848222) |
 | **izako boars** | **5** | 4 | EzSupport | [#1](/community/matches/41834719) |
 | **Floating up** | **5** | 1 | We Have No Friends | [#1](/community/matches/41833214) |
 | El perro me vomito la cama | 0 | **5** | **Tak Halal Sial** | -win by default- |
 
-| Sunday, 2018-04-22 |  |  |  |  | 
+| Sunday, 2018-04-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Zzz** | **5** | 0 | spy kids | [#1](/community/matches/41880888) |
 | **Rubber Conquest** | **5** | 0 | SAMPLE TEXT | [#1](/community/matches/41872121) |

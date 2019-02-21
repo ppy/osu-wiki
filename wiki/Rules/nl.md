@@ -30,7 +30,7 @@ Forum-brede regels
 ---------------
 
 1.  **Plaats alleen betekenisvolle, interessante of anders uitnodigende onderwerpen.** Forums zijn als eerste voor gesprekken, dus zorg ervoor dat je de moeite er in stopt om niemands tijd te verspillen.
-2.  **Houd je posts en reacties geschikt voor mensen van alle leeftijden.** 18+ inhoud is niet echt geschikt voor een alle leeftijden gemeenschap, hoewel er niets is dat je er van weerhoudt om hierover te praten in een privégesprek. 
+2.  **Houd je posts en reacties geschikt voor mensen van alle leeftijden.** 18+ inhoud is niet echt geschikt voor een alle leeftijden gemeenschap, hoewel er niets is dat je er van weerhoudt om hierover te praten in een privégesprek.
 3.  **Wees opbouwend met je kritiek zonder persoonlijke aanvallen te gebruiken.** Kritiek is een heel mooi iets als het goed gebeurt, maar als je op persoonlijke aanvallen overgaat om je punt te maken doe je het fout, en moet je je schamen.
 4.  **Houd threads relevant, en vermijd het weer oprakelen van oudere onderwerpen als het gesprek is afgestorven.** Als een onderwerp al jaren dood is, is het niet meer relevant; dus laat het vervagen. Post een nieuwe, of zoek en kijk of iemand anders je vraag al heeft beantwoord.
 5.  **Houd je handtekening en avatar redelijk.** Als ze geanimeerd zijn, mogen ze niet excessief knipperen. Ze moeten ook een bestandsgrootte hebben klein genoeg voor gebruikers met een tragere verbinding om hun aanwezigheid op de pagina niet op te merken, het liefst onder een halve megabyte (500 kilobytes) waar mogelijk.

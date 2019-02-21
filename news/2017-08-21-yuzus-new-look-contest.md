@@ -8,7 +8,7 @@ Intimidated by Mocha's explosive popularity, Yuzu is putting out a call for intr
 
 [![](https://assets.ppy.sh/contests/49/header.jpg)](https://osu.ppy.sh/community/contests/49)
 
-osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever. 
+osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever.
 
 It's time for a refresh, and we're trusting it to our amazingly talented community artists to make it happen!
 
@@ -18,7 +18,7 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 [![](https://osu.ppy.sh/help/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
 
-Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher. 
+Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher.
 
 The official colour for osu!catch is **blue**, and thus Yuzu's primary colour should be blue in your character design as well.
 
@@ -28,7 +28,7 @@ Yuzu is male, and a teenager. **While we're all about new looks, he needs to sta
 
 ## Any special features?
 
-The main theme we are aiming for with the osu! mascots is **coloured bangs**. 
+The main theme we are aiming for with the osu! mascots is **coloured bangs**.
 
 This should be the centrepiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
 
@@ -50,7 +50,7 @@ Tattoos **are not okay**, though. Yuzu isn't into those.
 
 Yuzu doesn't really have a personality at the moment. No cohesive backstory has been made, and his current look doesn't really give much of a hint as to what that can be.
 
-**Design Yuzu's new look with an emotion design in mind.** Imagine a brief backstory and try to visualise Yuzu's emotions and interactions as they'd show in your illustrations. 
+**Design Yuzu's new look with an emotion design in mind.** Imagine a brief backstory and try to visualise Yuzu's emotions and interactions as they'd show in your illustrations.
 
 Breathe some life into his character.
 

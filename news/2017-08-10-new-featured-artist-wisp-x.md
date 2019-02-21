@@ -22,7 +22,7 @@ Don't believe it? Give *Mint* a listen, and experience a taste of their talent:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2640945812/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://wispx.bandcamp.com/track/mint">Mint by Wisp X</a></iframe>
 
 
-We're proud to present a whopping **24** tracks from **Wisp X** for usage in osu! mapping, available now at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/16). 
+We're proud to present a whopping **24** tracks from **Wisp X** for usage in osu! mapping, available now at their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/16).
 
 As always, any track present on a Featured Artist listing comes pre-timed for your convenience, and is 100% licensed for use for mapping in osu!, so worry less, and map more!
 

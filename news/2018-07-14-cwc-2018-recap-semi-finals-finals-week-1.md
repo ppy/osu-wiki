@@ -86,7 +86,7 @@ To the Chileans: a shot at redemption after years of struggle. To the Chinese: a
 
 Grand Finals week is absolutely not to be missed, regardless of whether you're a hardcore fan or casual dabbler in osu! World Cups, so this is your final announcement folks – follow [@osugame on Twitter](https://twitter.com/osugame) for updates on scheduling and streaming, and purchase a last-minute profile banner from the [osu!store](https://osu.ppy.sh/store/products/312) to pretend you supported them all along!
 
-Lastly and most importantly, join us this **Saturday the 14th of July at 1700 UTC+0** on the [osu!live Twitch channel](https://www.twitch.tv/osulive) for the exciting conclusion to this year's osu!catch World Cup! 
+Lastly and most importantly, join us this **Saturday the 14th of July at 1700 UTC+0** on the [osu!live Twitch channel](https://www.twitch.tv/osulive) for the exciting conclusion to this year's osu!catch World Cup!
 
 We’ll see you there!
 

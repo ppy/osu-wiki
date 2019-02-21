@@ -25,7 +25,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 - Gracz musi ukończyć dowolny poziom trudności każdej beatmapy znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
 - Liczy się tylko tryb osu!standard.
-- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`. 
+- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`.
   Następnie włącz klienta gry i pozwól, aby przetworzył on wszystkie beatmapy.
   - Gracz może pobrać ręcznie wszystkie beatmapy z paczki i będzie się to liczyć.
 - Inne wersje tej samej piosenki nie będą liczone.
@@ -107,7 +107,7 @@ Hush-Hush
 
 Te medale nie mają dosłownie określonego celu.
 Gracz musi samodzielnie znaleźć sposób na zdobycie danego medalu z tej grupy.
-Podpowiedź znajduje się w tytule medalu. 
+Podpowiedź znajduje się w tytule medalu.
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |

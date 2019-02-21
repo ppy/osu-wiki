@@ -21,7 +21,7 @@ como a maioria dos usuários de computadores não possuem tela touchscreen, o jo
 
 ### Básico sobre a Jogabilidade
 
-`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](http://osu.ppy.sh/s/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](http://osu.ppy.sh/s/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](http://osu.ppy.sh/s/19928)
 
 A Jogabilidade tem foco em testar seus sentidos em:-
 
@@ -133,8 +133,8 @@ O que é "Taiko"?
 
 Os comandos padrão para o modo taiko são:
 
-`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
-`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
+`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
+`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
 
 O local onde o cursor fica não faz diferença em quanto joga
 

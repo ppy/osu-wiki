@@ -33,9 +33,9 @@ Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requi
 2. Encuentra una canción que te guste tocar.
 3. Haz clic en el ícono de descarga para guardar el beatmapset en tu computadora.
 4. Ubica y abre el archivo del beatmapset, tiene una extensión `.osz`.
-     - Alternativamente, también puedes colocar el archivo beatmapset en el directorio `Songs` de la instalación de osu!.
+     - Alternativamente, también puedes colocar el archivo beatmapset en el directorio `Songs` de la instalación de osu!.
 5. osu! se encargará automáticamente del resto y cargará el beatmapset.
-     - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Solo_mode) para volver a procesar tus mapas de ritmo.
+     - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Solo_mode) para volver a procesar tus mapas de ritmo.
 
 
 ### osu!direct
@@ -45,9 +45,9 @@ Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requi
 1. Abre osu!, si aún no lo hiciste.
 2. Encuentra una canción que te guste tocar.
 3. Haz doble clic en la canción en la lista o haz clic en `Descargar` a la derecha para descargarla.
-     - Si no deseas descargar el video, haga clic en `DL NoVideo` en su lugar.
+     - Si no deseas descargar el video, haga clic en `DL NoVideo` en su lugar.
 4. Cuando osu! termine de descargar el beatmapset, lo cargará automáticamente si estás en modo Solo, en la pantalla [Song Selection] (/wiki/Song_Selection).
-     - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Solo_mode) para volver a procesar tus mapas de ritmo.
+     - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Solo_mode) para volver a procesar tus mapas de ritmo.
 
 ## Agregar Skins
 

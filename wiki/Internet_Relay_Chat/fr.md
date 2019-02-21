@@ -15,24 +15,24 @@ Comment se connecter
 
 Une fois votre client IRC obtenu, vous pouvez vous connecter à
 
-` `[`cho.ppy.sh`](irc://cho.ppy.sh)` ou `[`irc.ppy.sh`](irc://irc.ppy.sh)` (les deux adresses reviennent au même serveur) sur le port `<b>`6667`</b>` (le port IRC par défaut)`
+` `[`cho.ppy.sh`](irc://cho.ppy.sh)` ou `[`irc.ppy.sh`](irc://irc.ppy.sh)` (les deux adresses reviennent au même serveur) sur le port `<b>`6667`</b>` (le port IRC par défaut)`
 
 Authentification pour Bancho
 ----------------------------
 
 Lorsque vous vous connectez pour la première fois, vous devriez obtenir un message comme celui ci-dessous (en anglais).
 
-`* Bienvenue sur osu!bancho.`
-`* -`
-`* - Vous devez vous authentifier avant d'accéder à ce service.`
-`* - Veuillez cliquer sur le lien suivant pour achever le processus:`
+`* Bienvenue sur osu!bancho.`
+`* -`
+`* - Vous devez vous authentifier avant d'accéder à ce service.`
+`* - Veuillez cliquer sur le lien suivant pour achever le processus:`
 
 En cliquant sur l'URL donnée, vous serez redirigé vers une page avec un bouton "Autoriser la connexion IRC". Cliquez simplement dessus vous permettra de rejoindre le canal de discussion [\#osu](irc://cho.ppy.sh/osu).
 
 Si vous ne souhaitez pas avoir à vous authentifier à chaque connexion, vous pouvez entrer le mot de passe donné soit dans l'un des champs de mot de passe de votre client, soit l'entrer lors de votre connexion.
 
-`Pour autoriser de façon permanente un client, veuillez changer votre mot de passe IRC (mot de passe du serveur)`
-`pour "XXXXXXX"`
+`Pour autoriser de façon permanente un client, veuillez changer votre mot de passe IRC (mot de passe du serveur)`
+`pour "XXXXXXX"`
 
 Les commandes basiques de l'IRC
 ===============================
@@ -50,8 +50,8 @@ Désactivation des messages de connexion/déconnexion
 
 Lorsqu'une personne se joint à un canal ou le quitte, un message comme celui-ci apparaît:
 
-`Nomdujoueur s'est connecté à #nomducanal`
-`Nomdujoueur est parti de #nomducanal`
+`Nomdujoueur s'est connecté à #nomducanal`
+`Nomdujoueur est parti de #nomducanal`
 
 S'il n'y a pas beaucoup d'activité sur le canal en question, ce n'est pas gênant, dans le cas contraire, il pourrait devenir difficile de suivre une conversation.
 

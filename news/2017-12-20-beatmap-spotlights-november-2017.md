@@ -21,7 +21,7 @@ First of all, congratulations to the winners of the October 2017 Spotlights. The
 
 ## Changes within the Spotlight Team
 
-We're welcoming [Mao](https://osu.ppy.sh/u/2204515) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) among the managers! They will help with the Themed Spotlights during the next year with their preparation and release. 
+We're welcoming [Mao](https://osu.ppy.sh/u/2204515) and [Nardoxyribonucleic](https://osu.ppy.sh/u/876419) among the managers! They will help with the Themed Spotlights during the next year with their preparation and release.
 
 In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
 
@@ -114,7 +114,7 @@ With the help of [Lude](https://osu.ppy.sh/u/6974536) and [Valentrix](https://os
 
 The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
 
-Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned! 
+Without these people and the community, the Spotlights wouldn't be what it is today and I am happy that I was able to be a part of this. I'm sure we can expect many more new things in the future, so my appeal to all of you is to stay tuned!
 
 With that said, I thank everyone for their long standing participation and wish you all the very best for the future!
 

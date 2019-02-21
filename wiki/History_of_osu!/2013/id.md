@@ -49,7 +49,7 @@ Tautan Terkait:
 - [osu! Versi (Rilisan Publik) (b20130328)](http://osu.ppy.sh/forum/t/124848)
 - [Perombakan Staf 2013](http://osu.ppy.sh/forum/t/123510)
 
-## April 
+## April
 
 Pembaruan bulan ini sebagian besar terdiri dari penambalan pembaruan utama sebelumnya di bulan Maret, tetapi bukan hanya penambalan saja yang terjadi di bulan ini! Pertama, April ini adalah implementasi awal dari fitur "Collections" menggantikan "Favourites A/B" sebelumnya yang telah lama berdiri, dengan ini pemain diharapkan akan lebih mudah memasukkan beatmap favorit mereka dalam satu "Collections" dan dapat membagikannya dengan orang lain dengan mentransfer "Collections" daripada "Favourites A/B".
 

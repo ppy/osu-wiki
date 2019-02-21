@@ -2,7 +2,7 @@
 
 The _beatmap veto_ allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section.
 
-Seeking further discussion or clarification over any kind of quality issues which you feel need to be addressed before the map can proceed with Qualification is one of your main responsibilities. 
+Seeking further discussion or clarification over any kind of quality issues which you feel need to be addressed before the map can proceed with Qualification is one of your main responsibilities.
 
 Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules).
 
@@ -12,7 +12,7 @@ In cases where discussion does not take place or is inconclusive, members of the
 
 ## Performing a beatmap veto
 
-As a Beatmap Nominator, you can veto a beatmap in one of two ways: 
+As a Beatmap Nominator, you can veto a beatmap in one of two ways:
 
 * On older beatmaps with forum threads, place a Bubble Pop icon.
 * On newer beatmaps with discussions, post a Problem stamp.
@@ -51,6 +51,6 @@ The Beatmap Nominator seeking re-initiation is not required to nominate the beat
 
 ### Upheld beatmap vetoes
 
-**If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present. 
+**If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present.
 
 Once changes are made to the beatmap, both the Nominator performing the beatmap veto, as well as the QAT members upholding it, must recheck the beatmap and decide individually if the issues have been satisfactorily addressed.

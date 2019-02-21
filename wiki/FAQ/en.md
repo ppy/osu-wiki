@@ -102,7 +102,7 @@ Different play styles can be found in the [play styles][Play_Styles wikilink] pa
 There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
 
 The gameplay puts emphasis on:-
 
@@ -184,7 +184,7 @@ The default controls for osu! are:-
 
 Mouse|Keyboard|Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
@@ -295,8 +295,8 @@ The default controls for osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
 ---|---|---|---
-Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
-Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
+Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
+Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
 
 The placement of in-game cursor does not matter when playing.
 

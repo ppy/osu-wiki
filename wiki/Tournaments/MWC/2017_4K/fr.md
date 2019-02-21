@@ -193,7 +193,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
   - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](http://osu.ppy.sh/beatmaps/1279175&m=3)
   - [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](http://osu.ppy.sh/beatmaps/1252742&m=3)
 - Tiebreaker
-  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](http://osu.ppy.sh/beatmaps/1038662&m=3) 
+  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](http://osu.ppy.sh/beatmaps/1038662&m=3)
 
 ### Demi-finales
 

@@ -6,7 +6,7 @@ outdated: true
 Opcje
 =====
 
-`Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
+`Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
 
 Naciśnij **Options** albo naciśnij **O** na ekranie głównym, aby dostać się do panelu Opcji i zmienić działanie osu!
 
@@ -64,7 +64,7 @@ Naciśnij **Zaloguj się** aby się zalogować albo naciśnij **Stwórz konto** 
 
 #### Osoba zalogowana
 
-`Zalogowany jako {nazwa użytkownika}`
+`Zalogowany jako {nazwa użytkownika}`
 
 Naciśnij to aby przejść do „opcji” związanych z kontem.
 

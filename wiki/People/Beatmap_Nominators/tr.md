@@ -52,7 +52,7 @@ BNG'ye katılmak isteyen bir modder:
 + Ortalama azami eşik aşağıdaki gibidir:
   + osu!taiko, osu!catch ve osu!mania: 1050
   + osu!: 1100
-+ Adayların yukarıdaki değerlerin katılan aday sayısına başlı olarak değişkenlik gösterebilmesi sebebiyle kendi skorlarını bu skorlardan yüksekte tutması iyi bir fikirdir. 
++ Adayların yukarıdaki değerlerin katılan aday sayısına başlı olarak değişkenlik gösterebilmesi sebebiyle kendi skorlarını bu skorlardan yüksekte tutması iyi bir fikirdir.
 
 Takım Üyeleri
 ------------
