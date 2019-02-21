@@ -93,7 +93,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [Nwolf](https://osu.ppy.sh/users/1910766) | Hundreds of hours of World Cup tournaments statistics and analysis |
 | [Yazzehh](https://osu.ppy.sh/users/7068973) | Outstanding referee presence in dozens of community tournaments |
 | [Evrien](https://osu.ppy.sh/users/791660) | Outstanding performance in casting, commentary, and event-based writeups/recaps |
-| [Tom94](https://osu.ppy.sh/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, state rating, and more! |
+| [Tom94](https://osu.ppy.sh/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, star rating, and more! |
 | [DrabWeb](https://osu.ppy.sh/users/6946022) | Outstanding contribution to the osu!lazer project |
 | [EVAST](https://osu.ppy.sh/users/8195163) | Outstanding contribution to the osu!lazer project with 90+ pullreqs and hundreds of commits |
 | [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Outstanding contribution to the osu!lazer project |
