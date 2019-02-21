@@ -8,7 +8,7 @@ tumblr_url: http://osunews.tumblr.com/post/150551685358/july-2016-ranking-charts
 It's been a year since we introduced the new evaluation system for the charts by letting four dedicated community members select the most noteworthy maps of a month which has proven to have its pros and cons. But at the end we decided to change the way of selection once again to a more staff driven system, lead by the Quality Assurance Team alongside chosen community members who are interested in volunteering for these kind of tasks.
 <!-- more -->
 
-Followed by the change of people who are from now on attached to the charts, we are also having plans in how the future charts might look like which you can read on about in the [official development blog](http://blog.ppy.sh/post/149588555393/2016-08-dev-meeting).
+Followed by the change of people who are from now on attached to the charts, we are also having plans in how the future charts might look like which you can read on about in the [official development blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting).
 
 With thanking everyone who have put efforts in chosing the past charts, we are now heading to the Ranking Charts for July 2016 which have been just released and [can be found here](https://osu.ppy.sh/p/chart?ch=1607)!
 

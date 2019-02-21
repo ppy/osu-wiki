@@ -13,7 +13,7 @@ The Ranking Charts has been since always a part of the osu! ecosystem, presentin
 
 ## Changes
 
-As previously mentioned in the [official development blog](http://blog.ppy.sh/post/149588555393/2016-08-dev-meeting), the overhaul will kick in by firstly renaming the current Ranking Charts to "Spotlights", bringing additional features in the near future such as a new format of prizes for players (and mappers), as well as more regular releasing of Beatmap Packs.
+As previously mentioned in the [official development blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting), the overhaul will kick in by firstly renaming the current Ranking Charts to "Spotlights", bringing additional features in the near future such as a new format of prizes for players (and mappers), as well as more regular releasing of Beatmap Packs.
 
 
 As for now, the development team (hi [smoogipooo](https://osu.ppy.sh/u/1040328)!) has put a great deal of effort into fixing the scoreboard issues we had for so long, making the desired competition between players accessible again. Following this, the system will be split into two rubrics - one which will be in the interest of mappers and one which will be for players:

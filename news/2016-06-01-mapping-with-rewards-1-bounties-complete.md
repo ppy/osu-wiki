@@ -31,7 +31,7 @@ Each of these maps will be bundled with the game client for an indeterminate per
 
 *(Their profile badges may not be live at the time of posting, we're still trying to figure out a suitably awesome badge for their efforts.)*
 
-Do note that the [second month of mapping with rewards](http://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) is still technically active, as no maps fulfilling the criteria set out in that post have yet been made. If you want your chance at swag and prestige, you can still get in on it!
+Do note that the [second month of mapping with rewards](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) is still technically active, as no maps fulfilling the criteria set out in that post have yet been made. If you want your chance at swag and prestige, you can still get in on it!
 
 Keep your eyes peeled for a forthcoming announcement regarding map bounties going forward. We've got a lot planned for the concept!
 
