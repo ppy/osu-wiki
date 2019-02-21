@@ -32,7 +32,7 @@ We could say many things about HappyStick, but foremost among them is how thankf
 
 Something of a living meme among the osu! tournament scene, juankristal has been perpetually blamed for everything and anything that has gone both wrong and right for countless years.
 
-For once, we are delighted to firmly pin the blame on him for the continuation of the osu! World Cup series as a whole, stepping up to lead the INTENSE organization required to schedule, oversee and generally maintain multiple multi-national tournaments. 
+For once, we are delighted to firmly pin the blame on him for the continuation of the osu! World Cup series as a whole, stepping up to lead the INTENSE organization required to schedule, oversee and generally maintain multiple multinational tournaments.
 
 The workload involved in running the osu! World Cups is *immense*, perhaps far greater than most people realize, and juankristal has not only stepped up himself to do it out of a sheer desire to see it done, but has *excelled* at it, allowing the series to continue without so much as a blip.
 
