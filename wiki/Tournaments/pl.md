@@ -104,7 +104,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
-| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2018-02-17 | 2018-04-15 | - | - | - |
+| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2019-02-23 | 2019-04-13 | - | - | - |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
 
@@ -134,7 +134,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
 | #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
-| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/#GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
+| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
