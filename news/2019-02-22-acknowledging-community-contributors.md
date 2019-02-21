@@ -148,11 +148,11 @@ This list is not exhaustive - there are other Captains who have helped and conti
 
 #### Kamikaze
 
-[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/Backfire.jpg)](https://osu.ppy.sh/u/2124783)
+[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/Kamikaze.jpg)](https://osu.ppy.sh/u/2124783)
 
 #### Pope Gadget
 
-[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/Backfire.jpg)](https://osu.ppy.sh/u/2124783)
+[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/Pope-Gadget.jpg)](https://osu.ppy.sh/u/2288341)
 
 ## The Community Mentorship Program
 
