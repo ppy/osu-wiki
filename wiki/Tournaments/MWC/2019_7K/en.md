@@ -109,7 +109,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | France | ![][flag_FR] | ![][flag_JP] | Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
 | South Korea | ![][flag_KR] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | Singapore | ![][flag_SG] | ![][flag_NL] | Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
-| Thailand | ![][flag_TH] | ![][flag_US] | United States | **16:00 UTC** | 23:00 UTC+07 | 12:00 UTC-04 |
+| Thailand | ![][flag_TH] | ![][flag_US] | United States | **16:00 UTC** | 23:00 UTC+07 | 11:00 UTC-05 |
 
 ## Mappools
 
