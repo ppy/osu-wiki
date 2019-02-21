@@ -184,7 +184,7 @@ An effortless generalist and a former mentee of the program himself under Shiirn
 
 Once a former mentee himself under Shiirn, Mun's efforts have spanned across dozens of domains within the project, primarily handling moderation and evaluation related tasks pertaining to both mentors and mentees.
 
-### J1nx1337
+### J1NX1337
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/J1nx1337.jpg)](https://osu.ppy.sh/u/3971179)
 
