@@ -114,12 +114,12 @@ Click on it to access user stuff.
 <tr class="odd">
 <td><p>Select language</p></td>
 <td><p>Pick a language of your choice. osu! with download the .txt translation file and change to selected language. Default is English.<br />
-For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http://osu.ppy.sh/forum/t/104342/</a> (old link)</p></td>
+For contribution: <a href="https://osu.ppy.sh/forum/t/104342/" class="uri">https://osu.ppy.sh/forum/t/104342/</a> (old link)</p></td>
 </tr>
 <tr class="even">
 <td><p>Prefer metadata in original language</p></td>
 <td><p>Beatmaps that have Unicode metadata will be shown instead of the usual ASCII metadata.<br />
-<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="http://osu.ppy.sh/s/44443">Actual Beatmap here</a></p></td>
+<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="https://osu.ppy.sh/s/44443">Actual Beatmap here</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use alternative font for chat display</p></td>
@@ -194,7 +194,7 @@ For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http:/
 <hr>
 <p>Unlimited (gameplay)</p>
 <hr>
-<p><strong>Note:</strong> For laptop users, it is recommended to limit your frames to prevent overheating <a href="http://osu.ppy.sh/forum/t/82605">as mentioned in this thread</a>. Also, mind your electricity usage bill.</p></td>
+<p><strong>Note:</strong> For laptop users, it is recommended to limit your frames to prevent overheating <a href="https://osu.ppy.sh/forum/t/82605">as mentioned in this thread</a>. Also, mind your electricity usage bill.</p></td>
 </tr>
 <tr class="even">
 <td><p>Show FPS Counter</p></td>
@@ -579,7 +579,7 @@ Set 4: Score numbers</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use Taiko skin for Taiko mode</p></td>
-<td><p>Uses <a href="http://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">LuigiHann's Taiko skin</a> when playing Taiko mode. Disable it when your current skin have Taiko-specific elements.</p></td>
+<td><p>Uses <a href="https://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">LuigiHann's Taiko skin</a> when playing Taiko mode. Disable it when your current skin have Taiko-specific elements.</p></td>
 </tr>
 <tr class="even">
 <td><p>Always use skin cursor</p></td>
@@ -1127,8 +1127,8 @@ The screen(s) *used* to be available in the Options menu. You can access this sc
 1.  This area on the right lists skins you have downloaded in your Skins subfolder. To switch to another one, simply click on its respective bar.
 2.  Currently listening beatmap's design will play on the majority of the screen, using the elements of the skin currently selected. The artificial intelligence playing the beatmap is designed to display as many different visual elements in as short a period of time as possible.
 3.  Clicking on "Export as .osk" will export the selected skin to .osk file in "Exports" folder.
-4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](http://osu.ppy.sh/forum/109), where you can download more skins for your viewing pleasure.
-    1.  For a compendium of skins: [Original](http://osu.ppy.sh/forum/t/23820), [Updated](https://osu.ppy.sh/forum/t/180864) [version](http://osu.ppy.sh/forum/t/136163).
+4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](https://osu.ppy.sh/forum/109), where you can download more skins for your viewing pleasure.
+    1.  For a compendium of skins: [Original](https://osu.ppy.sh/forum/t/23820), [Updated](https://osu.ppy.sh/forum/t/180864) [version](https://osu.ppy.sh/forum/t/136163).
 
 5.  Clicking "Random Beatmap" will load randomly selected difficulty from your collection to review the currently selected skin's appearance.
 6.  Click Back or press Esc to return to the Skins tab of the Options Screen.

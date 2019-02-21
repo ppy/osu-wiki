@@ -20,7 +20,7 @@ Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin m
 
 ### Game-play Basics
 
-`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](http://osu.ppy.sh/s/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](https://osu.ppy.sh/s/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](https://osu.ppy.sh/s/19928)
 
 Ang laro na ito ay nakasalalay sa iyong:
 
@@ -124,6 +124,6 @@ Tignan ang [thread na ito](https://osu.ppy.sh/forum/t/14614) para sa mga detalye
 
 ### Ang hirap ng mga maps! Saan ako makaka hanapa ng madaling maps?
 
-Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <http://osu.ppy.sh/forum/t/5456>
+Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <https://osu.ppy.sh/forum/t/5456>
 
-At tsaka, [ang ranked na beatmap ng osu! tutorial](http://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.
+At tsaka, [ang ranked na beatmap ng osu! tutorial](https://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.

@@ -17,7 +17,7 @@ outdated: true
 
 ## Состав группы
 
-[Всегда актуальная ссылка](http://osu.ppy.sh/groups/4) (список). *Помимо указанных языков, все эти люди знают английский.*
+[Всегда актуальная ссылка](https://osu.ppy.sh/groups/4) (список). *Помимо указанных языков, все эти люди знают английский.*
 
 | Имя | Дополнительные языки | Специализация |
 | :-- | :-- | :-- |
@@ -56,7 +56,7 @@ outdated: true
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | шведский, испанский | чат |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | французский, испанский | чат |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | индонезийский | чат |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | китайский | чат |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | китайский | чат |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | венгерский | чат |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | русский | чат |

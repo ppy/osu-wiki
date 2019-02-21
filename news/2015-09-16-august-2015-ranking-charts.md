@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-chart
 date: 2015-09-16 16:42:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-charts
 ---
-The Ranking Charts for August 2015 have just been released and [can be found here](http://osu.ppy.sh/p/chart?ch=MONTH1508)!
+The Ranking Charts for August 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1508)!
 This month [Sieg](https://osu.ppy.sh/u/1404615), [Nardoxyribonucleic](https://osu.ppy.sh/u/876419), [diao](https://osu.ppy.sh/u/500696) and [juankristal](https://osu.ppy.sh/u/443656) picked the maps for the Monthly Ranking Charts.
 
 
@@ -32,11 +32,11 @@ The Beauty. Extra really is a masterpiece here. Good looking beatmap with excell
 
 The Style. This is a perfect example how you can use inspiration from patterns and styles of other mappers and naturally fit this into your own unique style. Great work Jonathan. Fancy song, jumpy difficulty, 180 bpm, what else do you need? Oh, don't forget to download beatmap with "Jizztastic" difficulty but play it with caution!
 
-+ [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX-](http://osu.ppy.sh/s/296505) by [Gamu](http://osu.ppy.sh/u/611174)
++ [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX-](https://osu.ppy.sh/s/296505) by [Gamu](https://osu.ppy.sh/u/611174)
 
 The Consistency. Get on this level, another solid work by Gamu. You will find here a lot of stream placing techniques and 1/4 slider jumps which reflect changes in music in a really smart way, quite a good chance to practice them.
 
-+ [M2U - Masquerade](http://osu.ppy.sh/s/124857) by [Melt](http://osu.ppy.sh/u/836434)
++ [M2U - Masquerade](https://osu.ppy.sh/s/124857) by [Melt](https://osu.ppy.sh/u/836434)
 
 The Dance. You can meet a lot of big circle size maps on high level but this is another story. Circle size 3 with clean mapping and jumpy patterns fills the whole screen with objects, forcing you to move your cursor all over the place. Good rhythm choices even with 1/4 and 1/6 switches will help you with this.
 

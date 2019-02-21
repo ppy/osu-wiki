@@ -16,7 +16,7 @@ Los miembros de este equipo serán promovidos del [BN](/wiki/People/Beatmap_Nomi
 Miembros del Equipo
 -------------------
 
-[Link](http://osu.ppy.sh/g/7)
+[Link](https://osu.ppy.sh/g/7)
 
 | Nombres                                           | osu!         | osu!taiko    | osu!catch    | osu!mania    | Otros Lenguajes                |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------------|

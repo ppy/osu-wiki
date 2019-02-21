@@ -19,7 +19,7 @@ The first divisor of a section is a heavy beat. See the examples.
 
 Where **0** is a heavy beat, so you need to set your offset on it.
 
-OKOK let's look at a ranked example: [Toyosaki Aki - Miracle Happy Day](http://osu.ppy.sh/s/11023)
+OKOK let's look at a ranked example: [Toyosaki Aki - Miracle Happy Day](https://osu.ppy.sh/s/11023)
 
 -   kiou2 sets a offset on 85ms, so the long white tick didn't follow the heavy beat, which is incorrect. Look at the pic X.
 

@@ -22,7 +22,7 @@ Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini 
 Dasar-dasar permainan
 ---------------------
 
-`Tutorial: `[`(Menjadi` `satu` `dengan` `osu!` `PC)` `Tutorial` `asli`](http://osu.ppy.sh/s/3756)`, `[`Beatmap` `versi` `ranked`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Menjadi` `satu` `dengan` `osu!` `PC)` `Tutorial` `asli`](https://osu.ppy.sh/s/3756)`, `[`Beatmap` `versi` `ranked`](https://osu.ppy.sh/s/19928)
 
 Permainan ini menekankan kepada :-
 

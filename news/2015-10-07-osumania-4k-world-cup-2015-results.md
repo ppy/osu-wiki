@@ -23,9 +23,9 @@ You can watch the full record of the finals right here:
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. It was the first time we managed to host this independent 4K tournament with 32 teams! During the grand finals, over 1,300 viewers were recorded watching the live-stream! We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!
 
-If you want to learn more about the osu!mania 4K World Cup 2015, take a look at the [wiki article](http://osu.ppy.sh/wiki/MWC_4K_2015).
+If you want to learn more about the osu!mania 4K World Cup 2015, take a look at the [wiki article](https://osu.ppy.sh/wiki/MWC_4K_2015).
 
-We would also like to mention again the upcoming tournaments, especially the [osu! World Cup 2015](http://osu.ppy.sh/wiki/OWC_2015)! Registrations are currently up and can be found [here](http://jizz.ppy.sh/tournaments/2)
+We would also like to mention again the upcoming tournaments, especially the [osu! World Cup 2015](https://osu.ppy.sh/wiki/OWC_2015)! Registrations are currently up and can be found [here](http://jizz.ppy.sh/tournaments/2)
 
 Stay tuned, and we'll see you next time!
 

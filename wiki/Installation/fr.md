@@ -30,8 +30,8 @@ Guide d'installation
 #### Ajout de beatmaps
 >Note : beatmap (littéralement: piste de rythme) est le terme anglais utilisé pour désigner une musique ainsi que la piste de jeu allant avec.
 
-- Connectez vous au [site web d'osu!](http://osu.ppy.sh/) à l'aide de vos identifiants (ou [créez un compte](https://osu.ppy.sh/p/register) si vous n'en avez pas encore un).
-- Rendez vous sur la [liste des beatmaps](http://osu.ppy.sh/p/beatmaplist?q=), ou la [liste des packs de beatmaps](http://osu.ppy.sh/p/packlist)
+- Connectez vous au [site web d'osu!](https://osu.ppy.sh/) à l'aide de vos identifiants (ou [créez un compte](https://osu.ppy.sh/p/register) si vous n'en avez pas encore un).
+- Rendez vous sur la [liste des beatmaps](https://osu.ppy.sh/p/beatmaplist?q=), ou la [liste des packs de beatmaps](https://osu.ppy.sh/p/packlist)
 - Cherchez les musiques/packs que vous aimez.
 - Cliquez sur le lien de téléchargement, il est possible que votre navigateur vous demande d'autoriser ce téléchargement.
 - Une fois le téléchargement terminé, cliquez sur le fichier téléchargé ou déplacez-le dans la fenêtre d'osu!.
@@ -45,7 +45,7 @@ Il y a aussi d'autres méthodes permettant de télécharger des beatmaps :
 ### OS X
 
 #### Installation du jeu
-- Rendez vous sur la page de [téléchargement du jeu](http://osu.ppy.sh/p/download) et cliquez sur "OS X installer" pour télécharger la dernière version.
+- Rendez vous sur la page de [téléchargement du jeu](https://osu.ppy.sh/p/download) et cliquez sur "OS X installer" pour télécharger la dernière version.
 - [Suivez ces instructions](http://www.youtips.com/fr/mac/installer-une-application-sous-mac-os-x/) pour installer le fichier .dmg sur votre Mac.
 - Lancez le jeu.
 	- Lors du premier lancement, il se peut que le jeu mette 5 minutes à se lancer.
@@ -83,7 +83,7 @@ Il s'agit d'un autre jeu développé par peppy, très similaire mais qui dispose
 - Installez le package.
 Plus d'informations dans [cette section](https://osu.ppy.sh/forum/t/62680) (en anglais).
 
-#### iPhone (version non officielle) Plus d'informations sur [cette page](http://osu.ppy.sh/forum/t/176495) (en anglais)
+#### iPhone (version non officielle) Plus d'informations sur [cette page](https://osu.ppy.sh/forum/t/176495) (en anglais)
 
 
 Questions et problèmes fréquents
@@ -97,5 +97,5 @@ Questions et problèmes fréquents
     -   Votre beatmap est peut-être corrompue. Essayez de la retélécharger ?
 -   **Autres problèmes**
     -   Veuillez vous adresser aux joueurs sur le canal #help afin de recevoir de l'aide.
-    -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](http://osu.ppy.sh/forum/5) (en anglais).
+    -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](https://osu.ppy.sh/forum/5) (en anglais).
     -   Si votre problème concerne des versions non-officielles du jeu, veuillez consulter leur section appropriée sur le forum (voir plus haut).

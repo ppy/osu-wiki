@@ -132,19 +132,19 @@ Furthermore, it utilizes some simple stutter Slider Velocity changes where appro
 
 ## osu!
 
-[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sonata-no-14-in-cis-moll.jpg)](http://osu.ppy.sh/s/518426)
+[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sonata-no-14-in-cis-moll.jpg)](https://osu.ppy.sh/s/518426)
 
 Despite being his first ranked map, [Fenza](https://osu.ppy.sh/u/2740518) blows away all competition with his beautiful rendition of Bernd Krueger's Sonata No. 14. At 7-minutes long, you'd expect to get bored of it one way or another, but with the delightful usage of patterns paired with an equally enchanting classical soundtrack, you will never get tired of it.
 
 The usage of movement, patterns, and rhythms all perfectly line up with the wildly varying intensities of this song. It's almost as if one is actually playing the piece itself! An uniquely fearless jewel claims the top spot on this month's Spotlight, and rightfully so!
 
-[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/key-of-timepieces.jpg)](http://osu.ppy.sh/s/534800)
+[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/key-of-timepieces.jpg)](https://osu.ppy.sh/s/534800)
 
 This map essentially takes what most wub maps are known and loved for - irregular rhythms, fast sliders, spaced streams and a whole lot of neat patterning and visuals. The fabulous song by Camellia provides a great amount of variety, which [Regou](https://osu.ppy.sh/u/419954) uses to create one of the most entertaining maps this month.
 
 What makes the map truly stand out from other maps of the same genre, however, are the beautiful sliderarts and tasteful undermapping in the calmer sections of the song. This map is an experience that you don't want to miss out on!
 
-[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/something-just-like-this.jpg)](http://osu.ppy.sh/s/611301)
+[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/something-just-like-this.jpg)](https://osu.ppy.sh/s/611301)
 
 On his map of this catchy electronic pop piece, [handsome](https://osu.ppy.sh/u/2123087) uses various interesting techniques to push the song to its limits. Extreme contrasts in slider velocity and spacing as well as effective under- and overmapping are used to highlight the varying intensity and tone of the music and also make the map a true challenge to master.
 
@@ -152,7 +152,7 @@ The Insane-level guest difficulties are also a blast to play and feature various
 
 Since the lower difficulties also mirror the gimmicks of the higher ones in more tame ways, the whole mapset is worth checking out for any osu! player who is interested in experiencing some fresh and creative mapping!
 
-[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/pop-it.jpg)](http://osu.ppy.sh/s/501677)
+[![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/pop-it.jpg)](https://osu.ppy.sh/s/501677)
 
 This map's special patterning is what makes it stand out. Everything is perfectly aligned to the grid's axes and combined with expressive jump usage and unusual rhythms here and there, unique visuals and gameplay are created.
 

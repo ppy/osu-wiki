@@ -463,4 +463,4 @@ Usually heard at Main Menu and tutorial screen.
 ## Links
 
 - [Official website](http://www.osustream.com)
-- [Discussion forum (osu! website)](http://osu.ppy.sh/forum/79)
+- [Discussion forum (osu! website)](https://osu.ppy.sh/forum/79)

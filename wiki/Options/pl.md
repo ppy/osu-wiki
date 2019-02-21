@@ -116,12 +116,12 @@ Naciśnij to aby przejść do „opcji” związanych z kontem.
 <tr class="odd">
 <td><p>Wybierz język</p></td>
 <td><p>Wybierz język jaki chcesz. osu! pobierze plik .txt z tłumaczeniem i zmieni język gry na pobrany. Domyślnie jest to angielski.<br />
-Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http://osu.ppy.sh/forum/t/104342/</a> (stary link)</p></td>
+Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/forum/t/104342/" class="uri">https://osu.ppy.sh/forum/t/104342/</a> (stary link)</p></td>
 </tr>
 <tr class="even">
 <td><p>Stosuj oryginalne nazewnictwo</p></td>
 <td><p>Jeśli to możliwe, tytuły piosenek będą wyświetlane w ich ojczystym języku (wraz z zapisem).<br />
-<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="http://osu.ppy.sh/s/44443">Wspomniana beatmapa</a></p></td>
+<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="https://osu.ppy.sh/s/44443">Wspomniana beatmapa</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Użyj alternatywnej czcionki dla czatu</p></td>
@@ -196,7 +196,7 @@ Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="
 <hr>
 <p>Bez limitu (podczas gry)</p>
 <hr>
-<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="http://osu.ppy.sh/forum/t/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
+<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="https://osu.ppy.sh/forum/t/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
 </tr>
 <tr class="even">
 <td><p>Pokaż licznik klatek</p></td>
@@ -1119,8 +1119,8 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 1.  Ten obszar po prawo to lista skórek umieszczonych w folderze Skins, Aby zmienić wygląd osu!, po prostu kliknij na odpowiedni przycisk.
 2.  Obecnie słuchana beatmapa zostanie odtworzona, aby wyświetlić elementy skórki. Sztuczna inteligencja grająca beatmapę jest tak stworzona aby wyświetlać wiele elementów w krótkim czasie.
 3.  Naciśnięcie "Export as .osk" wyeksportuje obecną skórkę jako plik .osk i umieści ją w folderze "Exports".
-4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](http://osu.ppy.sh/forum/109), gdzie będzie można pobrać więcej skórek.
-    1.  Kompendium skórek: [oryginalne](http://osu.ppy.sh/forum/t/23820), [zaktualizowana](https://osu.ppy.sh/forum/t/180864) [wersja](http://osu.ppy.sh/forum/t/136163).
+4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/forum/109), gdzie będzie można pobrać więcej skórek.
+    1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/forum/t/23820), [zaktualizowana](https://osu.ppy.sh/forum/t/180864) [wersja](https://osu.ppy.sh/forum/t/136163).
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
 6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.

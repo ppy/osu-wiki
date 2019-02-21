@@ -44,11 +44,11 @@ Rota alternativa: Coloque o ficheiro de áudio na pasta "Songs".
 Como eu faço o Timing (cronometragem) da música apropriadamente?
 ----------------------------------------------------------------
 
-'''Timing é vital - mapas incorretamente cronometrados nunca se tornarão Ranked. '''Tenha certeza que seu timing é perfeito antes de colocar quaisquer notas nele. Se estiver com dúvidas sobre o timing, antes de mais contacte um mod, ou faça submit da sua música no [forum de ajuda a Beatmap](http://osu.ppy.sh/forum/10). Isso vai evitar bastantes aborrecimentos mais tarde.
+'''Timing é vital - mapas incorretamente cronometrados nunca se tornarão Ranked. '''Tenha certeza que seu timing é perfeito antes de colocar quaisquer notas nele. Se estiver com dúvidas sobre o timing, antes de mais contacte um mod, ou faça submit da sua música no [forum de ajuda a Beatmap](https://osu.ppy.sh/forum/10). Isso vai evitar bastantes aborrecimentos mais tarde.
 
 Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da música:-
 
--   Assista o [video](http://osu.ppy.sh/forum/t/39317) e os [tutoriais](http://osu.ppy.sh/forum/t/3815/) para conhecer os métodos básicos de timing.
+-   Assista o [video](https://osu.ppy.sh/forum/t/39317) e os [tutoriais](https://osu.ppy.sh/forum/t/3815/) para conhecer os métodos básicos de timing.
 -   Tenha certeza que os toques do metronómo coincidem com a batida da música em toda a duração da mesma. Então verifique o timing em 5%, 25%, 50%, 75% e 100% da música, no mínimo.
 -   Dê uma olhada na tabela de BPM, se o número estiver perto de um número completo (até .10 de diferença), é provavelmente melhor (a não ser que peçam que não o faça) arredondar para um número total. Se for esse o caso, manualmente insira o BPM correto usando o Timing Setup Panel.
     -   Exemplo: 150.02 deverá ser arredondado para 150.00 a não ser que outro mapper peça que não o faça porque o som poderá ficar errado, por alguma razão.
@@ -160,7 +160,7 @@ Adicionando Spinners
 --------------------
 
 <img src="Spinner.jpg" title="fig:Exemplo de Spinner." alt="Exemplo de Spinner." width="140" /> Para adicionar spinners no seu mapa, clique com botão esquerdo para começar. então puxe a timeline até onde você quer que o final seja, e termine o mesmo clicando com o botão direito do seu mouse. Tente deixar seus spinners numa duração razoável - spinners muito longos são cansativos e aborrecidos, spinners ninjas que são demasiado curtos não são legais. **Spinner Spam** (como mais de 5 spinners de uma vez) é definitivamente algo que você não deve fazer.
-**Nota sobre Spinner Spam**: Isto porque [Trans-Siberian Orchestra - Wizards In Winter (dificuldade Impossible)](http://osu.ppy.sh/b/296) tem arduamente 48~51 em ~5 segundos. O mapa em si contêm streams longos de hit-circles que são perfeitamente rankeáveis, excluindo o spam de spinners ninja.
+**Nota sobre Spinner Spam**: Isto porque [Trans-Siberian Orchestra - Wizards In Winter (dificuldade Impossible)](https://osu.ppy.sh/b/296) tem arduamente 48~51 em ~5 segundos. O mapa em si contêm streams longos de hit-circles que são perfeitamente rankeáveis, excluindo o spam de spinners ninja.
 
 O que são Combos?
 -----------------
@@ -177,7 +177,7 @@ Para dar aos jogadores um pouco de descanso durante um beatmap longo, você deve
 Algumas regras de ouro são:-
 
 -   Geralmente, tente deixar segmentos de jogo inferiores a um minuto. Uma música de dois minutos deve ter no mínimo um intervalo perto do meio, uma música de três minutos deverá ter no mínimo dois intervalos bem espaçados. Isto poderá mudar dependendo da música em questão.
--   Deixe a duração dos intervalos minimamente razoáveis. Intervalos com menos de 1 segundo são inúteis ([a não ser que você deseja intimidar o estilo de jogo invocando a seta de aviso (warning-arrow)](http://osu.ppy.sh/b/19842)), e intervalos de 30 segundos são raramente usados e não práticos. Tente visar intervalos de 5-15 segundos.
+-   Deixe a duração dos intervalos minimamente razoáveis. Intervalos com menos de 1 segundo são inúteis ([a não ser que você deseja intimidar o estilo de jogo invocando a seta de aviso (warning-arrow)](https://osu.ppy.sh/b/19842)), e intervalos de 30 segundos são raramente usados e não práticos. Tente visar intervalos de 5-15 segundos.
 
 Aqui estão algumas dicas avançadas no planeamento de intervalos usando atalhos na timeline (Bookmarks):-
 
@@ -243,7 +243,7 @@ Como eu adiciono imagens e sons customizados no meu beatmap?
         -   Veja a wiki acerca de skinning para mais informações.
 -   Deixe na pasta da sua música.
 
-[Uma lista de nomes de ficheiros de som customizados pode ser encontrada aqui.](http://osu.ppy.sh/forum/t/729/start=0)
+[Uma lista de nomes de ficheiros de som customizados pode ser encontrada aqui.](https://osu.ppy.sh/forum/t/729/start=0)
 
 Como eu crio uma storyboard para meu beatmap?
 ---------------------------------------------

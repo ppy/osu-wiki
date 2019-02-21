@@ -27,7 +27,7 @@ Third party link >> [Motteke! Sailor-fuku (Futsuu)](https://skydrive.live.com/?c
 -   **2/1 spacings available**
 -   01:14:305 (8) - Long slider.
 
-[Halozy - Serenade of Love (Futsuu) (OnosakiHito)](http://osu.ppy.sh/b/203303)
+[Halozy - Serenade of Love (Futsuu) (OnosakiHito)](https://osu.ppy.sh/b/203303)
 
 -   Usage of 1/2 notes
 -   **2/1 spacings available**

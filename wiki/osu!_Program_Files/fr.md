@@ -66,7 +66,7 @@ Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinn
 Le format est `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
 
-Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](http://osu.ppy.sh/s/1)" ou "[avgn](http://osu.ppy.sh/s/66)". Mention spéciale pour "[tutorial](http://osu.ppy.sh/s/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
+Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/s/1)" ou "[avgn](https://osu.ppy.sh/s/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/s/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
 
 Fichiers programmes
 --------------------

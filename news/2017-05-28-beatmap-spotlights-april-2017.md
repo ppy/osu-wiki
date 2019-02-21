@@ -48,7 +48,7 @@ A wonderful map that captures the beauty of the song. -kevincela- shows us how f
 
 ## osu!taiko
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/silver-wind.jpg)](http://osu.ppy.sh/s/551271)
+[![](https://assets.ppy.sh/media/spotlights2017-april/silver-wind.jpg)](https://osu.ppy.sh/s/551271)
 
 The winner of this month's spotlights, Charlotte's talent, experience and skill with mapping really shines through with this formidable set. The Inner Oni displays superb usage of pair patterns and maintains a good flow throughout the entire difficulty. The climax is represented clearly by long patterns and streams being both enjoyable to play and following the music perfectly.
 
@@ -56,7 +56,7 @@ The lower difficulties are also excellent, with the Muzukashii by qoot8123 being
 
 Go ahead and enjoy this exceptional mapset!
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/dawn-of-a-dark-day.jpg)](http://osu.ppy.sh/s/458597)
+[![](https://assets.ppy.sh/media/spotlights2017-april/dawn-of-a-dark-day.jpg)](https://osu.ppy.sh/s/458597)
 
 What is this, rap in osu!taiko!? Seeing is believing!
 
@@ -64,7 +64,7 @@ One of this month's osu!taiko maps in the spotlight, Zetera's Dawn of a Dark Day
 
 From simple slider velocity slowdowns to difficult 1/4-snapped slider velocity increases in the kiai sections, Zetera did an excellent job in capturing the cadence of the track with his work, creating something truly special.
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/outbreak.jpg)](http://osu.ppy.sh/s/527082)
+[![](https://assets.ppy.sh/media/spotlights2017-april/outbreak.jpg)](https://osu.ppy.sh/s/527082)
 
 Guest difficulties to Strategas' osu! set, Arrival's Muzukashii and Oni adds some additional variety to this highly technical drum 'n' bass mix. Starting off with an uncommon 1/3rd snapping, both difficulties convey a clear rhythmic intention, and the maps are made all the more enjoyable as the meter shifts to 1/4th towards the latter half of the song.
 
@@ -72,7 +72,7 @@ In his flagship Oni difficulty, Arrival demonstrates a flair born of expertise b
 
 Overall, the maps were constructed very well, and I would not be surprised to see this map being used as a common pick in future tournaments to come
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/united.jpg)](http://osu.ppy.sh/s/556731)
+[![](https://assets.ppy.sh/media/spotlights2017-april/united.jpg)](https://osu.ppy.sh/s/556731)
 
 We make the choices, and united we decided that Unmei Muma's United deserves a spot in this month's spotlight!
 
@@ -82,11 +82,11 @@ The huge variety of patterns in this map will surely keep you on your toes, and 
 
 ## osu!catch
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/hallucination.jpg)](http://osu.ppy.sh/s/476944)
+[![](https://assets.ppy.sh/media/spotlights2017-april/hallucination.jpg)](https://osu.ppy.sh/s/476944)
 
 We really liked how the Rain is executed in this set with only using the best suited beats from the music. The Platter meanwhile could have been a little bit easier but it is still not on the usual level which feels good to play. All in all, this set should be a followable example for anyone who wants to make a good and suitable set for every level.
 
-[![](https://assets.ppy.sh/media/spotlights2017-april/halloween.jpg)](http://osu.ppy.sh/s/512281)
+[![](https://assets.ppy.sh/media/spotlights2017-april/halloween.jpg)](https://osu.ppy.sh/s/512281)
 
 For their first ranked map, this is of impressive quality in terms of flow and song interpretation. The movements feel as if they're following the song and it's entertaining to play. Mapping like this shows what we should look forward to from new mappers. Good job.
 

@@ -16,7 +16,7 @@ Para member di dalam tim ini akan dipromosikan dari [Grup Penominasi Beatmap (BN
 Anggota Tim
 -----------
 
-[Tautan Grup](http://osu.ppy.sh/g/7)
+[Tautan Grup](https://osu.ppy.sh/g/7)
 
 | Nama                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Bahasa Tambahan                  |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------------|

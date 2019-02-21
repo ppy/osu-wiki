@@ -54,7 +54,7 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Sohbet Moderasyonu |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Sohbet Moderasyonu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Sohbet Moderasyonu |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinese | Sohbet Moderasyonu |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Sohbet Moderasyonu |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Sohbet Moderasyonu |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Sohbet Moderasyonu |

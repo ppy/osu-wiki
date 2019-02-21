@@ -16,17 +16,17 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 | Utente | Contributi |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/u/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](http://osu.ppy.sh/forum/t/108092) (da .osr a Video su YouTube.) |
+| [Darkimmortal](https://osu.ppy.sh/u/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/forum/t/108092) (da .osr a Video su YouTube.) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
 | [Ballance](https://osu.ppy.sh/u/165946) | Grafica degli [Obiettivi](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/u/576800) | Sviluppa e mantiene [AIBat](http://osu.ppy.sh/forum/t/55305), il più popolare strumento di modding delle beatmap di terza parte. |
+| [akrolsmir](https://osu.ppy.sh/u/576800) | Sviluppa e mantiene [AIBat](https://osu.ppy.sh/forum/t/55305), il più popolare strumento di modding delle beatmap di terza parte. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Performance straordinaria nei bugfix o test delle funzionalità e ha programmato numerose utilities per i mapper e modders. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Ha organizzato molti tornei ufficiali di maggiore importanza (incluso l'OWC). |
 | [Blazevoir](https://osu.ppy.sh/u/120265) | Folle record di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato manualmente #osu durante le ore di punta (Più di 9000 utenti). |
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Sviluppa e mantiene [osu!stats](http://osustats.ppy.sh/) e un numero imprecisato di utilities utili per fare beatmaps, moddare e giocare in generale. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Performance straordinaria nei bugfix o test delle funzionalità e nel gestire le richieste di supporto dagli utenti. |
-| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Più di 3 anni di lavoro silenzioso e instancabile nel creare [pacchetti beatmaps](http://osu.ppy.sh/p/packlist) e diversi anni nel gestire
+| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Più di 3 anni di lavoro silenzioso e instancabile nel creare [pacchetti beatmaps](https://osu.ppy.sh/p/packlist) e diversi anni nel gestire
 le chart. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Anni su anni di servizio, incluso il creare la skin per le beatmap originale, creare [storyboard](/wiki/Storyboards) avanzati come un'opera d'arte e ha motivato il team. |
 | [awp](https://osu.ppy.sh/u/2650) | Gestione della comunità iniziale e moderazione ed enormi contributi nel corso del tempo. |

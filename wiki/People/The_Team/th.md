@@ -53,9 +53,9 @@ outdated: true
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมแะแชทในเกม |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | เป็นผู้ใช้งานที่คอยช่วยให้บีทแมพได้ qualified |
-| [Developers](http://osu.ppy.sh/g/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
+| [Developers](https://osu.ppy.sh/g/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
 | [osu! alumni](/wiki/People/osu!_Alumni) | พวกที่เคยเป็นผู้ร่วมพัฒนาเกมมาก่อน |
 | [Support Team Redux](/wiki/People/Support_Team) | ให้ความช่วยเหลือสิ่งที่ขอใน ช่วยเหลือ/ลูกเล่น |
-| [osu!news](http://osu.ppy.sh/g/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
-| [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/g/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
+| [Tournament Staff](https://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | ช่วยแมพของคุณให้มีคุณภาพที่ดีขึ้น |

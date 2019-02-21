@@ -24,9 +24,9 @@ Riding off the (questionable) success of last year's hit anime Eromanga-sensei, 
 
 Notable runners up were:
 
-[Agnete Kjolsrud - Get Jinxed](http://osu.ppy.sh/beatmapsets/361740) by [Tarrasky](https://osu.ppy.sh/u/4098393) in 2nd place overall with **3565** votes.
+[Agnete Kjolsrud - Get Jinxed](https://osu.ppy.sh/beatmapsets/361740) by [Tarrasky](https://osu.ppy.sh/u/4098393) in 2nd place overall with **3565** votes.
 
-[\*namirin - Koi no Hime Hime Pettanko](http://osu.ppy.sh/beatmapsets/485056) by [C u r i](https://osu.ppy.sh/u/4746949) in 3rd place overall with **2749** votes.
+[\*namirin - Koi no Hime Hime Pettanko](https://osu.ppy.sh/beatmapsets/485056) by [C u r i](https://osu.ppy.sh/u/4746949) in 3rd place overall with **2749** votes.
 
 ## osu!taiko
 
@@ -38,7 +38,7 @@ Unlike the track itself, we're definitely not stuttering.
 
 Notable runners up were:
 
-[D(ABE3) - MANIERA](http://osu.ppy.sh/beatmapsets/400761) by [\_yu68](https://osu.ppy.sh/u/6170507) with **108** votes.
+[D(ABE3) - MANIERA](https://osu.ppy.sh/beatmapsets/400761) by [\_yu68](https://osu.ppy.sh/u/6170507) with **108** votes.
 
 [Dunderpatrullen - We Are Number One (Remix)](https://osu.ppy.sh/beatmapsets/547301) by [Midnaait](https://osu.ppy.sh/u/1506011) with **104** votes.
 
@@ -58,17 +58,17 @@ Notable runners up were:
 
 ## osu!mania
 
-[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/exit.jpg)](http://osu.ppy.sh/beatmapsets/575053)
+[![](/wiki/shared/news/2018-02-20-community-choice-2017-results/exit.jpg)](https://osu.ppy.sh/beatmapsets/575053)
 
-With the biggest turnout among the three smaller gamemodes, the players of osu!mania fought intensely over top spot, with [Protastic101](https://osu.ppy.sh/u/6712747)'s set of [Camellia - Exit This Earth's Atomosphere](http://osu.ppy.sh/beatmapsets/575053) reigning supreme with **754** votes.
+With the biggest turnout among the three smaller gamemodes, the players of osu!mania fought intensely over top spot, with [Protastic101](https://osu.ppy.sh/u/6712747)'s set of [Camellia - Exit This Earth's Atomosphere](https://osu.ppy.sh/beatmapsets/575053) reigning supreme with **754** votes.
 
 This set definitely seemed to send much of the osu!mania community into orbit.
 
 Notable runners up were:
 
-[Dustvoxx - Trigger (Zekk Remix)](http://osu.ppy.sh/beatmapsets/555076) by [Wonki](https://osu.ppy.sh/u/7898495) with **726** votes.
+[Dustvoxx - Trigger (Zekk Remix)](https://osu.ppy.sh/beatmapsets/555076) by [Wonki](https://osu.ppy.sh/u/7898495) with **726** votes.
 
-[t+pazolite - Oshama Scramble!](http://osu.ppy.sh/beatmapsets/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/u/4632359) with **587** votes.
+[t+pazolite - Oshama Scramble!](https://osu.ppy.sh/beatmapsets/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/u/4632359) with **587** votes.
 
 ----
 

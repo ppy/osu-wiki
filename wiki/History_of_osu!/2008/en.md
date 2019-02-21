@@ -70,7 +70,7 @@ The last month of 2008 had plenty in store for osu!'s development. By osu!'s sec
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 
-Another noticeable event was that the Catch the Beat scores were [wiped](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) during this month. Since then, the score multiplier of mods has been changed in Catch The Beat mode as well.
+Another noticeable event was that the Catch the Beat scores were [wiped](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) during this month. Since then, the score multiplier of mods has been changed in Catch The Beat mode as well.
 
 ## The Future
 

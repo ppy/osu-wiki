@@ -378,11 +378,11 @@ Common Issues
 这些map太难了，有没有一些简单点的介绍一下？
 -------------------------------------------
 
-Pokebis 已经收集了一些适合初学者玩的谱面。您可以在这里[下载](http://osu.ppy.sh/forum/viewtopic.php?t=5456)。
+Pokebis 已经收集了一些适合初学者玩的谱面。您可以在这里[下载](https://osu.ppy.sh/forum/viewtopic.php?t=5456)。
 
-同时，您可以[按照难度来对谱面列表进行重新排序](http://osu.ppy.sh/?p=beatmaplist&s=3)。最容易的谱面就在列表的最上面。
+同时，您可以[按照难度来对谱面列表进行重新排序](https://osu.ppy.sh/?p=beatmaplist&s=3)。最容易的谱面就在列表的最上面。
 
-您也可以看[这一帖](http://osu.ppy.sh/forum/viewtopic.php?f=25&t=13976)，Alace为中文玩家整理了一些简单的谱面并作了难点分析。挑选适合自己的谱面开始您的osu!旅程吧！
+您也可以看[这一帖](https://osu.ppy.sh/forum/viewtopic.php?f=25&t=13976)，Alace为中文玩家整理了一些简单的谱面并作了难点分析。挑选适合自己的谱面开始您的osu!旅程吧！
 
 Level的用途是什么?是放爽的吗?
 -----------------------------

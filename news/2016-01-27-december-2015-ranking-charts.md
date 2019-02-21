@@ -20,27 +20,27 @@ The charts have previously been created by letting four dedicated community memb
 
 For osu!, we decided to let **[Baraatje123](https://osu.ppy.sh/u/2533040)** pick their favourite maps.
 
-+ **[Kuroneko Dungeon - Ryoushi no Umi no Lindwurm](https://osu.ppy.sh/s/372850) by [P o M u T a](http://osu.ppy.sh/u/610988)**
++ **[Kuroneko Dungeon - Ryoushi no Umi no Lindwurm](https://osu.ppy.sh/s/372850) by [P o M u T a](https://osu.ppy.sh/u/610988)**
 
 I don't even know where to start with this map. It has a total of 11 difficulties, making the map fun for everyone to play. The lower difficulties are all manageable, but once you get to the higher difficulties they start getting ridiculous. Usually ridiculous maps are a bad thing, but P o M u T a, ignorethis, jyc-Binggan and Kiddly really know how to handle these types of difficulties. Kiddly's difficulty, EXK, is one of the hardest maps I truly enjoyed playing. It's quite gimmicky, but in such extent that it is rather easy to read and fun to play. Furthermore, this shows HT can still be really fun, and that you don't need to be a professional in order to like harder maps. Therefore, this map clearly deserves to be \#1 of December!
 
-+ [Reol - No Title](http://osu.ppy.sh/s/343672) by [Pho](http://osu.ppy.sh/u/3624692)
++ [Reol - No Title](https://osu.ppy.sh/s/343672) by [Pho](https://osu.ppy.sh/u/3624692)
 
 Pho really knows how to make great maps. All the difficulties are designed to play well, and he succeeded. The lower difficulties really teach the players on how to play the more advanced rhythm, in an easy way, making it playable for everyone. The higher difficulties all have amazing patterning and play really well. The hitsounding also really follows the music. Not much else to say about it; everything is just really good.
 
-+ [little-scale - Adventure Time Credits Music - Island Song - 8bit Chiptune Version](http://osu.ppy.sh/s/353035) by [Gero](http://osu.ppy.sh/u/1467715)
++ [little-scale - Adventure Time Credits Music - Island Song - 8bit Chiptune Version](https://osu.ppy.sh/s/353035) by [Gero](https://osu.ppy.sh/u/1467715)
 
 Gero truly deserves to be on this list, because of this map. Despite it only having a Normal and a Hard (and 2 taiko difficulites), I enjoyed playing this. The aesthetics of this map are abolutely perfect, which is also a reason for me to love this map. Most of the time, when the aesthetics are prioritised, the playability of the map lowers, but it's not the case for this map. Here it actually works better altogether. And let's not forget the wonderful storyboard by XinCrin, which makes the experience of this map even better.
 
-+ [Waterflame - Final Battle](http://osu.ppy.sh/s/358679) by [Arphimigon](http://osu.ppy.sh/u/5392762)
++ [Waterflame - Final Battle](https://osu.ppy.sh/s/358679) by [Arphimigon](https://osu.ppy.sh/u/5392762)
 
 Properly mapping 1/3 is quite hard, especcially when it comes to rather repetitive songs. The most fitting patterns would be triangles, which get boring quite fast. Arphimigon however knows how to map 1/3, and keep it interesting. The map starts calmly, with normal spacing, but when the kiai starts the fun begins. The spacing increases, 1/3 sliders appearing who all follow the rhythm perfectly, and the map stays interesting for the rest of the song, combined with a lovely storyboard make this map deseve a place in the top 6.
 
-+ [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey](http://osu.ppy.sh/s/274111) by [Irreversible](http://osu.ppy.sh/u/1287964)
++ [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey](https://osu.ppy.sh/s/274111) by [Irreversible](https://osu.ppy.sh/u/1287964)
 
 Another one of the maps that can't be left out. This map offers a total of 15 difficulties spread over all 4 modes, with standard getting 9. All of the participating mappers fulfilled my expectations, especially the highest difficulties. EvilElvis did a wonderful job with his slow but tricky map. Irreversible also did a wonderful job in his collab difficulty with Blue Dragon. For both difficulties, just as most other difficulties, the song keeps getting faster and intenser, the map gets harder, the spacing increases and the hitsounds gets louder. This all adds up to the total experience. Don't forget to check out the storyboard by okoratu, which is really well-made.
 
-+ [orangentle - HAELEQUIN](https://osu.ppy.sh/s/291495) by  [Gamu](http://osu.ppy.sh/u/611174)
++ [orangentle - HAELEQUIN](https://osu.ppy.sh/s/291495) by  [Gamu](https://osu.ppy.sh/u/611174)
 
 This map shows how streams are done correctly. The song calls for streams, something Gamu did pretty well. The map occasionally switches snapping, but due to the way it's mapped it feels natural. The guest difficulties are all executed properly, but the Extra difficulty stands on the top. It follows rhythm perfectly, and the usage of 1/6 is quite clever. I'm personally not that big of a fan of stream-maps, but this map made me reconsider that. It's a flawless excecution of a map, which therefore needs to be in the top 6
 

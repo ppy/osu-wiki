@@ -65,7 +65,7 @@ Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning)
 Szyk: `{Numer beatmapy} {Wykonawca} - {Tytuł}`.
 **Przykład:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
 
-Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](http://osu.ppy.sh/s/1)" lub "[avgn](http://osu.ppy.sh/s/66)". Specjalna wzmianka idzie do "[tutorial](http://osu.ppy.sh/s/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
+Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](https://osu.ppy.sh/s/1)" lub "[avgn](https://osu.ppy.sh/s/66)". Specjalna wzmianka idzie do "[tutorial](https://osu.ppy.sh/s/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
 
 ### Ukryte foldery
 

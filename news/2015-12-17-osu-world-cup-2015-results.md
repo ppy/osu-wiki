@@ -25,9 +25,9 @@ All participants from the top three teams will also receive and [a set of limite
 
 Congratulations again to the winners, and thanks to all participants for making this tournament the greatest world cup to date. During the grand finals, over **13,000 viewers** were in attendance watching the live-stream! We hope that everyone enjoyed this competition - keep in mind we run these tournaments throughout the year, so make sure to [follow us on twitch](http://twitch.tv/osulive) to stay up-to-date!
 
-If you want to learn more about the osu!World Cup 2015, take a look at the [wiki article](http://osu.ppy.sh/wiki/OWC_2015).
+If you want to learn more about the osu!World Cup 2015, take a look at the [wiki article](https://osu.ppy.sh/wiki/OWC_2015).
 
-We would also like to mention that the [osu!mania 7K World Cup 2016](http://osu.ppy.sh/wiki/MWC_7K_2016) is now [open for registrations](https://osu.ppy.sh/tournaments/3) (closing this weekend, so hurry)!
+We would also like to mention that the [osu!mania 7K World Cup 2016](https://osu.ppy.sh/wiki/MWC_7K_2016) is now [open for registrations](https://osu.ppy.sh/tournaments/3) (closing this weekend, so hurry)!
 
 Stay tuned, and we'll see you next time!
 

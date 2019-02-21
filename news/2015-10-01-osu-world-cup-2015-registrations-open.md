@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-regist
 date: 2015-10-01 09:10:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-registrations-open
 ---
-We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](http://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
+We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](https://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
 
 ![](/wiki/shared/news/banners/owc_2015.jpg)
 
@@ -46,7 +46,7 @@ We are aiming to have a minimum $5,000 cash prize pool for this world cup. We wi
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Submit your registration before **18th October 2015 at 23:59:59  UTC**.
 
-Note that you can only participate if you are of a **osu! global ranking of #5000 or higher** and **did not violate the [osu! community rules](http://osu.ppy.sh/wiki/Rules) in the past 12 months**.
+Note that you can only participate if you are of a **osu! global ranking of #5000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 
 If your registration was successful, you will be notified via a forum message. This may take a while, so please be patient.
 
@@ -54,7 +54,7 @@ _Remember that any registrations past the deadline will not be considered under 
 
 ## Links
 
-+ [Wiki article](http://osu.ppy.sh/wiki/OWC_2015)
++ [Wiki article](https://osu.ppy.sh/wiki/OWC_2015)
 + [Discussion thread](https://osu.ppy.sh/forum/t/371786)
 
 —Loctav

@@ -1,7 +1,7 @@
 音楽理論
 ===========
 
-[ziinによるオリジナルのガイド](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
+[ziinによるオリジナルのガイド](https://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
 
 Osuはリズムゲームであり、BPMにフィットしたものより、曲にフィットしたアイデアによって譜面は作られます。私はosuだけに適用される理論について議論をし、特定の物事が悪い理由も説明します。
 

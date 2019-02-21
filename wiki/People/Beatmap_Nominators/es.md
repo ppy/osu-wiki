@@ -54,7 +54,7 @@ Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con 
 Miembros del Grupo
 -------------------
 
-_Ten en cuenta que todos los BN hablan inglés a menos que se indique lo contrario._ Link a [página de grupo de usuarios.](http://osu.ppy.sh/g/28)
+_Ten en cuenta que todos los BN hablan inglés a menos que se indique lo contrario._ Link a [página de grupo de usuarios.](https://osu.ppy.sh/g/28)
 
 También ten en cuenta que la columna de modos de juego de la tabla aquí abajo menciona en qué modos de juego al Beatmap Nominator le está permitido rankear.
 

@@ -21,7 +21,7 @@ Easy Method (don't have any local changes):
 
 Hard Method (keep local changes):
 
-1.  Goto the beatmap info page on the osu! site for your map (http://osu.ppy.sh/b/xxxx -- NOT the forum thread).
+1.  Goto the beatmap info page on the osu! site for your map (https://osu.ppy.sh/b/xxxx -- NOT the forum thread).
 2.  Open song setup for each difficulty and set the artist/title back to what is on the website.
 3.  Go into Song Select and hit F5. Wait a few seconds.
 4.  Go into editor. Make sure the "Web" menu is enabled (not greyed out).

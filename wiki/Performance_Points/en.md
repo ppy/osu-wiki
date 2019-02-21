@@ -12,13 +12,13 @@ Revealed to the public during April 2012 and titled only as the mysterious *'???
 
 Known thereafter as "pp", short for "performance points", this new system sought to change the previous standard of player performance from simply total score to something that accurately reflected player skill. This was met to widespread acclaim among the player base at the time.
 
-Several months after its reveal, the [(20120722-24) osu! release](http://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
+Several months after its reveal, the [(20120722-24) osu! release](https://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
 
-It continued to exist in this capacity for more than a year of service, until [Tom94](http://osu.ppy.sh/u/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
+It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/u/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
 
 *ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](http://osu.ppy.sh/forum/t/92185).
+*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/forum/t/92185).
 
 How is pp calculated?
 ---------------------
@@ -165,7 +165,3 @@ Total score is still important to individual map rankings, and this may produce 
 No system is completely perfect, and performance point totals will certainly vary between mapsets and certain mod combinations, even when the subjective difficulty of those plays may be lower than a more difficult map.
 
 Overall, the current performance points system has been engineered to be as fair as possible under the constraints of its model.
-
-
-
-

@@ -55,7 +55,7 @@ Price: **Free**
 
 **Packlist:-**
 
-- [Haru☆ - March Handyman](http://osu.ppy.sh/s/7850) - [Sushi][Sushi] - ![2][dif4]
+- [Haru☆ - March Handyman](https://osu.ppy.sh/s/7850) - [Sushi][Sushi] - ![2][dif4]
   - http://viotex.matrix.jp/
   - http://skatepunkscafe.blog117.fc2.com/
 - Garbled Waves - Apatisk - [RandomJibberish][RandomJibberish] - ![3][dif6]
@@ -71,9 +71,9 @@ Price: **Free**
 - nekodex - Liquid Future - [mm201][mm201] - ![3.5][dif7]
   - http://soundcloud.com/nekodex/
   - [@nekodex](https://twitter.com/nekodex)
-- [tieff & Natteke - Endless Tower](http://osu.ppy.sh/s/17076) - [RandomJibberish][RandomJibberish] - ![1][dif2]
-  - http://osu.ppy.sh/u/natteke
-  - http://osu.ppy.sh/u/tieff
+- [tieff & Natteke - Endless Tower](https://osu.ppy.sh/s/17076) - [RandomJibberish][RandomJibberish] - ![1][dif2]
+  - https://osu.ppy.sh/u/natteke
+  - https://osu.ppy.sh/u/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Bundled Songs
@@ -84,9 +84,9 @@ Price: **Free**
 
 - SkyMarshall - Hitchhikers - [Gens][Gens] - ![1.5][dif3]
   - http://www.skymarshallarts.com/
-- [tieff & Natteke - Sunrise](http://osu.ppy.sh/s/34430) - [jericho2442][jericho2442] - ![2][dif4]
-  - http://osu.ppy.sh/u/natteke
-  - http://osu.ppy.sh/u/tieff
+- [tieff & Natteke - Sunrise](https://osu.ppy.sh/s/34430) - [jericho2442][jericho2442] - ![2][dif4]
+  - https://osu.ppy.sh/u/natteke
+  - https://osu.ppy.sh/u/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Cranky Pack Vol. 1
@@ -113,7 +113,7 @@ Price: **USD$1.99**
 - OK Go - All Is Not Lost - [mm201][mm201] - ![2.5][dif5]
 - OK Go - End Love - [RandomJibberish][RandomJibberish] - ![1.5][dif3]
 - [OK Go - This Too Shall Pass](https://osu.ppy.sh/s/16424) - [m980][m980] - ![3.5][dif7]
-- [OK Go - WTF](http://osu.ppy.sh/s/20159) - Team STREAM - ![3][dif6]
+- [OK Go - WTF](https://osu.ppy.sh/s/20159) - Team STREAM - ![3][dif6]
 
 **Source:-**
 
@@ -185,7 +185,7 @@ Price: **Free**
 
 **Packlist:-**
 
-- [Aperture Science - Want You Gone](http://osu.ppy.sh/s/29296) - [Larto][Larto] - ![3.5][dif7]
+- [Aperture Science - Want You Gone](https://osu.ppy.sh/s/29296) - [Larto][Larto] - ![3.5][dif7]
   - http://thinkwithportals.com/
   - http://www.thinkwithportals.com/music.php (Volume 3)
   - [@portal2news](https://twitter.com/portal2news)
@@ -196,8 +196,8 @@ Price: **USD$0.99**
 
 **Packlist:-**
 
-- [Souleye - Positive Force](http://osu.ppy.sh/s/12952) - [RandomJibberish][RandomJibberish] - ![2.5][dif5]
-- [Souleye - Pressure Cooker](http://osu.ppy.sh/s/24271) - [Xgor][Xgor] - ![3][dif6]
+- [Souleye - Positive Force](https://osu.ppy.sh/s/12952) - [RandomJibberish][RandomJibberish] - ![2.5][dif5]
+- [Souleye - Pressure Cooker](https://osu.ppy.sh/s/24271) - [Xgor][Xgor] - ![3][dif6]
 - Souleye - Potential for Anything - [Larto][Larto] - ![3.5][dif7]
 - Souleye - Passion for Exploring - [mm201][mm201] - ![1.5][dif3]
 
@@ -211,10 +211,10 @@ Price: **USD$1.99**
 
 **Packlist:-**
 
-- [SHIKI - Lapis](http://osu.ppy.sh/s/19230 ) - Team STREAM - ![2.5][dif5]
-- [SHIKI - Pure Ruby](http://osu.ppy.sh/b/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
-- [SHIKI - BABYLON](http://osu.ppy.sh/s/31373) - [Xgor][Xgor] - ![4][dif8]
-- [SHIKI - Jade Star](http://osu.ppy.sh/s/19221) - [Nakagawa-Kanon][Nakagawa-Kanon] - ![3.5][dif7]
+- [SHIKI - Lapis](https://osu.ppy.sh/s/19230 ) - Team STREAM - ![2.5][dif5]
+- [SHIKI - Pure Ruby](https://osu.ppy.sh/b/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
+- [SHIKI - BABYLON](https://osu.ppy.sh/s/31373) - [Xgor][Xgor] - ![4][dif8]
+- [SHIKI - Jade Star](https://osu.ppy.sh/s/19221) - [Nakagawa-Kanon][Nakagawa-Kanon] - ![3.5][dif7]
 
 **Source:-**
 

@@ -26,13 +26,13 @@ Congratulations to the winners of the September 2017 Spotlights. They will recei
 
 [IceBeam](https://osu.ppy.sh/u/208440) has risen from the grave to bring us "Like A Man" by Korean rapper "Outsider". The mapper shows us that even after a long hiatus, they still know how to amaze with great flow all throughout the map. Additionally, the map offers great pattern variety while fitting everything nicely together, expressing the song well. That's why "Like A Man" is a map not to miss out on this month!
 
-[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/lilieze-to-enryuu-laevateinn.jpg)](http://osu.ppy.sh/s/326608)
+[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/lilieze-to-enryuu-laevateinn.jpg)](https://osu.ppy.sh/s/326608)
 
 You don't usually see rhythm game songs mapped in this fashion, but it's exactly why [Nyquill](https://osu.ppy.sh/u/682935)'s rendition of Lilieze to Enryuu Laevateinn is so interesting.
 
 A style reminiscent of the old 2014 days, it still manages to hold up to this day. Despite not conforming to modern visual standards, the movements and feelings evoked from the map are still refined for the player, giving it a natural and smooth experience. Similarly, [Giralda](https://osu.ppy.sh/u/1823446)'s and [captin1](https://osu.ppy.sh/u/689997)'s guest difficulties are a fantastic complement to the set, with their styles being similar to one another. All in all, a deserving candidate for this month's Spotlights.
 
-[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/koi-kou-enishi.jpg)](http://osu.ppy.sh/s/622780)
+[![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/koi-kou-enishi.jpg)](https://osu.ppy.sh/s/622780)
 
 [Crystal](https://osu.ppy.sh/u/1646397) brings us yet another top tier mapset this month for KOTOKO's Koi Kou Enishi. A wide selection of Insane and Expert difficulties are available here, but don't let the star ratings confuse you - while the highest difficulty by [yf_bmp](https://osu.ppy.sh/u/1243669) may be below five stars, it features quite a few spaced streams and patterns that you wouldn't find on the average map!
 

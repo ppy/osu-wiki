@@ -63,7 +63,7 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 2.  `View Profile`: untuk melihat profil pengguna di peramban.
 3.  `Start Chat`: untuk mengirim pesan pribadi pada pengguna.
 4.  `Invite to game`: (jika kamu berada di ruangan bermain bersama) Mengirim undangan ke pemain untuk datang ke ruangan bermain bersamamu.
-5.  `Add (Remove) as Friend`: Menambahkan (Menghilangkan) pengguna tersebut ke (dari) [daftar teman](http://osu.ppy.sh/p/friends).
+5.  `Add (Remove) as Friend`: Menambahkan (Menghilangkan) pengguna tersebut ke (dari) [daftar teman](https://osu.ppy.sh/p/friends).
 6.  `Report User`: Melaporkan pengguna karena telah melakukan suatu pelanggaran. Lebih baik untuk tidak digunakan kecuali dinyatakan lain. Kamu dapat melaporkan pengguna dalam beberapa hal di dalam permainan, bisa juga di web, maupun forum.
 7.  `Ignore User`: Pengguna yang diblokir tidak akan terlihat di konsol obrolanmu.
 8.  `Close`: Menutup panel.

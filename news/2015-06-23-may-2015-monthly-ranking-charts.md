@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking-
 date: 2015-06-23 10:44:01 +0000
 tumblr_url: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking-charts
 ---
-With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](http://osu.ppy.sh/p/chart?ch=MONTH1505)!
+With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1505)!
 Along with that, we concluded the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month [DoKito](https://osu.ppy.sh/u/537084), [qoot8123](https://osu.ppy.sh/u/766371), [Pew](https://osu.ppy.sh/u/597692) and [Blocko](https://osu.ppy.sh/u/4075092) picked the maps for the Monthly Ranking Charts.
 
 ## Spring 2015 Season is over!

@@ -735,6 +735,6 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings "Visu
   - Since the slider tick health gain must be sufficient enough to outlast the natural health drain over time, it may be impossible to continue at higher difficulty settings even when the player survives the full life bar drain.
 - [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/forum/t/49733)
 - Flashlight mod was subjected to heavy controversy regarding the implementation in 2010 for being the _easiest_ mod to hack on forced the mod to be unranked until a patch was implemented to cover the Flashlight implementation loophole. Further information regarding this incident can be found at the two threads below.
-  - [Flashlight is back!](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
-  - [Flashlight mod disabled #2](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41039)
+  - [Flashlight is back!](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
+  - [Flashlight mod disabled #2](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=41039)
 - By using Co-Op mod, it is entirely possible to increase the key count to _18 Keys_ (9K mod -> 9K + 9K = 18K, applied to non-specific difficulties only).

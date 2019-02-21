@@ -18,7 +18,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/forum/p
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/u/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](http://osu.ppy.sh/forum/t/108092) (tekrar `.osr`'sinden video dosyasına) |
+| [Darkimmortal](https://osu.ppy.sh/u/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](https://osu.ppy.sh/forum/t/108092) (tekrar `.osr`'sinden video dosyasına) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | osu!'nun çalışan en büyük alternatif beatmap arşivinin sahibi ve bakıcısı. [Alternatif beatmap arşivi](https://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Oyun istemcisi ve geri kalan her şeye (saymakla bitmez) grafik katısı. |
 | [Ballance](https://osu.ppy.sh/u/165946) | [Başarım](/wiki/Achievements) simgeleri. |

@@ -44,10 +44,10 @@ Terakhir, gambar profil pemain telah ditambahkan di samping huruf yang ditampilk
 
 Tautan Terkait:
 
-- [osu! Versi (Rilisan Publik) (b20130319)](http://osu.ppy.sh/forum/t/123276)
-- [osu! Versi (Rilisan Publik) (b20130325)](http://osu.ppy.sh/forum/t/124366)
-- [osu! Versi (Rilisan Publik) (b20130328)](http://osu.ppy.sh/forum/t/124848)
-- [Perombakan Staf 2013](http://osu.ppy.sh/forum/t/123510)
+- [osu! Versi (Rilisan Publik) (b20130319)](https://osu.ppy.sh/forum/t/123276)
+- [osu! Versi (Rilisan Publik) (b20130325)](https://osu.ppy.sh/forum/t/124366)
+- [osu! Versi (Rilisan Publik) (b20130328)](https://osu.ppy.sh/forum/t/124848)
+- [Perombakan Staf 2013](https://osu.ppy.sh/forum/t/123510)
 
 ## April
 

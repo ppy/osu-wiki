@@ -15,7 +15,7 @@ outdated: true
 
 ## 成员
 
-**小提示：所有 GMT 都能够熟练的使用英文进行交流，特别说明的除外。** - [当前在任的 GMT 成员可以在这里看到](http://osu.ppy.sh/groups/4)
+**小提示：所有 GMT 都能够熟练的使用英文进行交流，特别说明的除外。** - [当前在任的 GMT 成员可以在这里看到](https://osu.ppy.sh/groups/4)
 
 | 名字 | 语言 | 专注范围 |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ outdated: true
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 | 聊天室管理 |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 法语, 西班牙语 | 聊天室管理 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 印尼语 | 聊天室管理 |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | 中文 | 聊天室管理 |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 中文 | 聊天室管理 |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 | 聊天室管理 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |

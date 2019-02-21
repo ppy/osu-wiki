@@ -17,7 +17,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | ---- | ------------- |
-| [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](Http://osu.ppy.sh/forum/t/108092) (reproducir `.osr` a archivo de video). |
+| [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](https://osu.ppy.sh/forum/t/108092) (reproducir `.osr` a archivo de video). |
 | [nanashiRei](/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](Https://osu.yas-online.net/) de osu! . |
 | [RBRat3](/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](/users/165946) | Arte de los [Logros](/wiki/Achievements), |

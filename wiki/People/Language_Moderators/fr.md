@@ -10,7 +10,7 @@ Jusqu'au 21 août 2015, il existait des **Chat Moderators**, des modérateurs qu
 | `#balkan` | [Balkan](https://osu.ppy.sh/forum/t/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
 | `#bulgarian` | | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) |
 | `#cantonese` | | |
-| `#chinese` | [中文](https://osu.ppy.sh/forum/25) | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867), ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974), ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) |
+| `#chinese` | [中文](https://osu.ppy.sh/forum/25) | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974), ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) |
 | `#czechoslovak` | | |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/forum/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
 | `#english` | | *All Moderators* |

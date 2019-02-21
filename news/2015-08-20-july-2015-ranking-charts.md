@@ -6,7 +6,7 @@ date: 2015-08-20 16:35:24 +0000
 tumblr_url: http://osunews.tumblr.com/post/127165714323/july-2015-ranking-charts
 ---
 
-With some delay, the Ranking Charts for July 2015 have just been released and [can be found here](http://osu.ppy.sh/p/chart?ch=MONTH1507)!
+With some delay, the Ranking Charts for July 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1507)!
 This month [monstrata](https://osu.ppy.sh/u/2706438), [Stefan](https://osu.ppy.sh/u/626907), [ExRei](https://osu.ppy.sh/u/1929336) and [Harbyter](https://osu.ppy.sh/u/1147679) picked the maps for the Monthly Ranking Charts.
 
 

@@ -20,7 +20,7 @@ Lista zmian
 </tr>
 <tr class="even">
 <td><p>27 stycznia 2013, 6:12</p></td>
-<td><p>osu!wiki zostaje zintegrowany ze stroną osu! <a href="http://osu.ppy.sh/forum/t/68479/start=124">Źródło</a></p></td>
+<td><p>osu!wiki zostaje zintegrowany ze stroną osu! <a href="https://osu.ppy.sh/forum/t/68479/start=124">Źródło</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>

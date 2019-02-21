@@ -3,7 +3,7 @@ La **première version des performance points** (abrégée en **ppv1**) était u
 Historique
 ==========
 
-Les ppv1 ont été lancés en avril 2012, initialement mentionnés dans les profils des joueurs sous le nom « ??? » pendant la phase de test, puis finalement renommés « pp » (pour « performance points » mais également et de manière officieuse en référence à ) le 17 avril 2012. Ce système a cohabité avec le précédent classement par score total pour finalement devenir l'unique système en place le 24 juillet 2012 lors de la diffusion de la mise à jour 20120722-24 de osu! ([référence](http://osu.ppy.sh/forum/p/1687719)).
+Les ppv1 ont été lancés en avril 2012, initialement mentionnés dans les profils des joueurs sous le nom « ??? » pendant la phase de test, puis finalement renommés « pp » (pour « performance points » mais également et de manière officieuse en référence à ) le 17 avril 2012. Ce système a cohabité avec le précédent classement par score total pour finalement devenir l'unique système en place le 24 juillet 2012 lors de la diffusion de la mise à jour 20120722-24 de osu! ([référence](https://osu.ppy.sh/forum/p/1687719)).
 
 Ce système se mettait à jour initialement par intervalles réguliers, généralement toutes les 24 heures, pour finalement fonctionner en temps réel le 16 août 2012.
 

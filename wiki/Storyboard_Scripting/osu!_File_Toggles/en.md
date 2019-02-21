@@ -10,4 +10,4 @@ Under [General] Section
 
 `UseSkinSprites: 1`
 
-Allows storyboards to refer to the player's current skin's sprites by their filenames. This is pointless if you're already forcing a skin (simply include the needed files) or have a map-specific skin in use. [Source](http://osu.ppy.sh/forum/viewtopic.php?p=141760#p141760)
+Allows storyboards to refer to the player's current skin's sprites by their filenames. This is pointless if you're already forcing a skin (simply include the needed files) or have a map-specific skin in use. [Source](https://osu.ppy.sh/forum/viewtopic.php?p=141760#p141760)

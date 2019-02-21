@@ -17,17 +17,17 @@
 
 | 用户名                          | 授予原因                                                                                                         |
 |:--------------------------------|:-----------------------------------------------------------------------------------------------------------------|
-| [Darkimmortal](/users/10886)    | 开发了 [osu! 回放系统](http://osu.ppy.sh/forum/t/108092) (将 .osr 回放文件录制成视频)                            |
+| [Darkimmortal](/users/10886)    | 开发了 [osu! 回放系统](https://osu.ppy.sh/forum/t/108092) (将 .osr 回放文件录制成视频)                            |
 | [nanashiRei](/users/807630)     | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/)       |
 | [RBRat3](/users/307202)         | 无数的客户端图像设计贡献及其它                                                                                   |
 | [Ballance](/users/165946)       | [成就](/wiki/Achievements) 的美术设计                                                                            |
-| [akrolsmir](/users/576800)      | 开发了 [AIBat](http://osu.ppy.sh/forum/t/55305) 这个最受欢迎的第三方摸图工具                                     |
+| [akrolsmir](/users/576800)      | 开发了 [AIBat](https://osu.ppy.sh/forum/t/55305) 这个最受欢迎的第三方摸图工具                                     |
 | [statementreply](/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能                                      |
 | [Loctav](/users/71366)          | 组织了许多主要的官方竞赛 (包括 OWC)                                                                              |
 | [Blazevoir](/users/120265)      | 难以置信的管理记录（粗略可相当于6位管理人员的工作量），并且几乎以一己之力在高峰时段管理 #osu 频道 (9000以上用户) |
 | [Piotrekol](/users/304520)      | 开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具                                 |
 | [MillhioreF](/users/941094)     | 在Bug修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现                                                  |
-| [DeathxShinigami](/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](http://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理      |
+| [DeathxShinigami](/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理      |
 | [LuigiHann](/users/1079)        | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboards)作为艺术和作图动力的发展                  |
 | [awp](/users/2650)              | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献                                                           |
 | [Sinistro](/users/5530)         | 作为第一位临时的社区管理员和GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样          |

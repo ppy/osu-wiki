@@ -69,7 +69,7 @@ For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also
 The format is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
 
-Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](http://osu.ppy.sh/s/1)" or "[avgn](http://osu.ppy.sh/s/66)". Special mention goes to "[tutorial](http://osu.ppy.sh/s/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
+Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/s/1)" or "[avgn](https://osu.ppy.sh/s/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/s/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
 
 ### Hidden Folders
 

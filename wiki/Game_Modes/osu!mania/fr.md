@@ -217,7 +217,7 @@ Touche | Lié à
 
 ![Configuration des Touches par défaut dans osu!mania (Co-Op)][osu!mania key layout2 image]
 
-La **[mise à jour du 5 Mars 2015 (2015-03-05)](http://osu.ppy.sh/p/changelog?v=b20150305)** a apporté à osu!mania un nouveau mod nommé [Co-Op][Co-Op wikilink].
+La **[mise à jour du 5 Mars 2015 (2015-03-05)](https://osu.ppy.sh/p/changelog?v=b20150305)** a apporté à osu!mania un nouveau mod nommé [Co-Op][Co-Op wikilink].
 Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
 
 Arrangement de touches _Symétrique_ pour le second set
@@ -426,10 +426,10 @@ Activez le bouton `Co-op mode` pour forcer le modifieur _Co-Op_ quand elle sera 
 
 _Le logo d'osu!mania dans les Modes Spéciaux obsolètes_
 
-- osu!mania est sorti le [**08 October 2012 (2012-10-08)**, principalement implémenté par **woc2006**](http://osu.ppy.sh/forum/p/1825880).
+- osu!mania est sorti le [**08 October 2012 (2012-10-08)**, principalement implémenté par **woc2006**](https://osu.ppy.sh/forum/p/1825880).
 - L'ancien éditeur d'osu!mania _demandait_ au mappeur de placer des cercles et des sliders dans un terrain de jeu d'osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
 - Le tout premier beatmapset osu!mania a être officiellement ranké est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
 ## Références
 
-- [Post d'annoncement](http://osu.ppy.sh/forum/p/1825880)
+- [Post d'annoncement](https://osu.ppy.sh/forum/p/1825880)

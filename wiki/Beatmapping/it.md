@@ -46,11 +46,11 @@ Alternative route: Put audio file onto the "Songs" folder.
 How do I time a song properly?
 ------------------------------
 
-**Timing is vital - incorrectly timed maps will not be considered for ranking.** Make sure your timing is perfect before putting any notes in. If in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](http://osu.ppy.sh/forum/10). This will save a *lot* of hassle later on.
+**Timing is vital - incorrectly timed maps will not be considered for ranking.** Make sure your timing is perfect before putting any notes in. If in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10). This will save a *lot* of hassle later on.
 
 Here are some tips for getting your timing right:-
 
--   Watch the [video](http://osu.ppy.sh/forum/t/39317) [tutorials](http://osu.ppy.sh/forum/t/3815/) for basic timing methods.
+-   Watch the [video](https://osu.ppy.sh/forum/t/39317) [tutorials](https://osu.ppy.sh/forum/t/3815/) for basic timing methods.
 -   Make sure the ticks of the metronome coincide with the beat of the song for the entire length of the song. So check the timing at 5%, 25%, 50%, 75% and 100% of the song, at the very least.
 -   Take a look at the BPM gauge. If the number is very close to a whole number (until .10 difference), it is probably better (unless requested not) to round down to that whole number. If so, manually enter in the correct BPM using the Timing Setup Panel.
     -   Example: 150.02 should be rounded down to 150.00 unless requested by another mapper that it doesn't sound correct with reason.
@@ -162,7 +162,7 @@ Adding Spinners
 
 To add a spinner to your map, left-click to begin it, then scroll the timeline to where you want the end to be, and terminate with a right-click. Try and keep your spinners to a reasonable length - overly long spinners are tiring and boring, whilst spinners that are too short are not nice. ^"Spinner spam" (as in, more than 5 spinner in one time) is a definite no-no!
 
-^"Spinner Spam" note: This is because [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](http://osu.ppy.sh/b/296) have roughly 48~51 count in ~5 seconds. The beatmap itself contains lengthy streams of hit-circles and perfectly rankable if excluding the ninja spinner spam.
+^"Spinner Spam" note: This is because [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](https://osu.ppy.sh/b/296) have roughly 48~51 count in ~5 seconds. The beatmap itself contains lengthy streams of hit-circles and perfectly rankable if excluding the ninja spinner spam.
 
 What are Combos?
 ----------------
@@ -179,7 +179,7 @@ To give players a bit of rest time during a longer beatmap, you should include a
 A couple of rules of thumb are:-
 
 -   Generally, try to keep play segments below one minute long. A two minute song should have at least one break in it near the middle, a three minute song should have at least two breaks evenly spaced. This may change depending on the song used.
--   Keep break lengths reasonable. Breaks of less than 1 second are pretty pointless ([unless you try to imitate the video game style by summoning warning-arrow](http://osu.ppy.sh/b/19842)), and breaks of 30 seconds are hardly used and not practical. Try and aim for 5-15 second breaks.
+-   Keep break lengths reasonable. Breaks of less than 1 second are pretty pointless ([unless you try to imitate the video game style by summoning warning-arrow](https://osu.ppy.sh/b/19842)), and breaks of 30 seconds are hardly used and not practical. Try and aim for 5-15 second breaks.
 
 Here are some advanced tips on planning breaks through the use of Bookmarks:-
 
@@ -251,7 +251,7 @@ How do I add custom images and sounds to my beatmap?
         -   Example: normal-hitnormal (This sound file will be played instead of player skin's sound file)
 -   Drop it into your song's folder.
 
-[A list of appropriate custom sound filenames can be found here.](http://osu.ppy.sh/forum/t/729/start=0)
+[A list of appropriate custom sound filenames can be found here.](https://osu.ppy.sh/forum/t/729/start=0)
 
 How do I create a storyboard to my beatmap?
 -------------------------------------------

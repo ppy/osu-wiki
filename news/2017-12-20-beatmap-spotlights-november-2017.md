@@ -34,7 +34,7 @@ In conjunction with the above changes, it is my pleasure to welcome our new map 
 
 ## osu!
 
-[![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/shinkirou.jpg)](http://osu.ppy.sh/s/628765)
+[![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/shinkirou.jpg)](https://osu.ppy.sh/s/628765)
 
 Don't let the difficulty name fool you, because that's exactly what [jonathanlfj](https://osu.ppy.sh/u/270377) would want! Shinkirou is a catchy track by Diao ye zong about a single character taking on the personas of others, with each verse differing from one another. Similarly, jonathanlfj has pulled off the incredible with an exotic concept that reflects the song's message brilliantly. With a plethora of styles reproduced in this map, his mastery and knowledge of other mappers is clearly visible and results in an absolutely wonderful playing experience! A truly deserving winner of this month's spotlights.
 
@@ -76,7 +76,7 @@ The highlight of this set would definitely be the Inner Oni difficulty by [aabc2
 
 ## osu!catch
 
-[![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/towards-the-horizon.jpg)](http://osu.ppy.sh/s/629384)
+[![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/towards-the-horizon.jpg)](https://osu.ppy.sh/s/629384)
 
 For this month, [Sinnoh](https://osu.ppy.sh/u/4236057) has single-handedly crafted this interpretation of Camellia's Towards the Horizon!
 

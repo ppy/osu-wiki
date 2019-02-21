@@ -5,12 +5,12 @@ permalink: http://osunews.tumblr.com/post/151233326878/osu-world-cup-2016-regist
 date: 2016-10-02 10:49:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151233326878/osu-world-cup-2016-registrations-now-open
 ---
-We'd like to welcome all of you to this year's official osu! World Cup. As in every year, the rules have been adjusted from the previous OWC, so please **[read them carefully](http://osu.ppy.sh/wiki/OWC_2016#Ruleset)** before registering for this tournament.
+We'd like to welcome all of you to this year's official osu! World Cup. As in every year, the rules have been adjusted from the previous OWC, so please **[read them carefully](https://osu.ppy.sh/wiki/OWC_2016#Ruleset)** before registering for this tournament.
 <!-- more -->
 
 ![](https://puu.sh/ru4PG/905269a358.png)
 
-For more details, refer to the **[osu! World Cup 2016 wiki article](http://osu.ppy.sh/wiki/OWC_2016)**.
+For more details, refer to the **[osu! World Cup 2016 wiki article](https://osu.ppy.sh/wiki/OWC_2016)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/p/5513998)**.
 
 ## Tournament Schedule

@@ -16,17 +16,17 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
 | User | Kontributor |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/u/10886) | Mengembangkan dan menjaga pelayanan [osu!record](http://osu.ppy.sh/forum/t/108092) (penayangan ulang .osr ke file video) |
+| [Darkimmortal](https://osu.ppy.sh/u/10886) | Mengembangkan dan menjaga pelayanan [osu!record](https://osu.ppy.sh/forum/t/108092) (penayangan ulang .osr ke file video) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Menyelenggarakan dan menjaga salah satu [mirror beatmap](http://osu.yas-online.net/) yang berjalan paling lama. |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Berbagai kontribusi grafis terhadap klien game dan yang lainnya (diluar hitungan). |
 | [Ballance](https://osu.ppy.sh/u/165946) | Karya-karya untuk bagian [Achievement](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/u/576800) | Mengembangkan dan menjaga [AIBat](http://osu.ppy.sh/forum/t/55305), yang merupakan perangkat modding beatmap pihak ketiga yang paling terkenal yang digunakan oleh kebanyakkan orang di dalam komunitas. |
+| [akrolsmir](https://osu.ppy.sh/u/576800) | Mengembangkan dan menjaga [AIBat](https://osu.ppy.sh/forum/t/55305), yang merupakan perangkat modding beatmap pihak ketiga yang paling terkenal yang digunakan oleh kebanyakkan orang di dalam komunitas. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Performan yang sangat bagus dalam mengetes bug/fitur-fitur dan mengkoding berbagai peralatan untuk mapper dan modder. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Mengatur beberapa turnamen-turnamen besar resmi (termasuk OWC). |
 | [Blazevoir](https://osu.ppy.sh/u/120265) | Perekam jejak moderasi yang sangat terpompa (sama dengan 6 staff member lainnya secara kasar) dan hampir satu-satunya yang memoderasi #osu selama jam-jam sibuk (9000 pengguna). |
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Mengembangkan dan menjaga [osu!stats](http://osustats.ppy.sh/) dan sejumlah perlengkapan berguna untuk pembuatan beatmap, modding, dan bermain pada umumnya. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Performan yang sangat bagus dalam mengetes bug/fitur-fitur dan menghandel pertanyaan-pertanyaan seputar penunjang pengguna. |
-| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Bekerja selama 3 tahun lebih tanpa lelah untuk menghandel [pamaketan beatmap](http://osu.ppy.sh/p/packlist) dan beberapa tahun mengatur grafis beatmap. |
+| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Bekerja selama 3 tahun lebih tanpa lelah untuk menghandel [pamaketan beatmap](https://osu.ppy.sh/p/packlist) dan beberapa tahun mengatur grafis beatmap. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Pelayanan dari tahun ke tahun, termasuk mendesain skin beatmap yang asli, menyatakan pembuatan storyboard sebagai sebuah karya dan motivasi. |
 | [awp](https://osu.ppy.sh/u/2650) | Mengelola dan memoderasi komunitas terdahulu dan memberikan kontribusi yang besar sepanjang waktunya. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/People/Global_Moderation_Team). |

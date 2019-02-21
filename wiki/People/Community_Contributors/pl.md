@@ -16,17 +16,17 @@ Osoby posiadające obecnie Znak Zasłużonego:
 
 | Użytkownik | Wkład |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/u/10886) | Stworzenie i utrzymywanie [osu!record](http://osu.ppy.sh/forum/t/108092) (.osr do pliku wideo.) |
+| [Darkimmortal](https://osu.ppy.sh/u/10886) | Stworzenie i utrzymywanie [osu!record](https://osu.ppy.sh/forum/t/108092) (.osr do pliku wideo.) |
 | [nanashiRei](https://osu.ppy.sh/u/807630) | Stworzenie i utrzymywanie jednego z najdłużej działających [serwerów map](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/u/307202) | Nieopisany wkład graficzny w osu! |
 | [Ballance](https://osu.ppy.sh/u/165946) | Stworzenie artworku [osiągnięć](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/u/576800) | Stworzenie [AIBat](http://osu.ppy.sh/forum/t/55305), najbardziej znanego narzędzia do modowania kiedykolwiek stworzonego przez społeczność. |
+| [akrolsmir](https://osu.ppy.sh/u/576800) | Stworzenie [AIBat](https://osu.ppy.sh/forum/t/55305), najbardziej znanego narzędzia do modowania kiedykolwiek stworzonego przez społeczność. |
 | [statementreply](https://osu.ppy.sh/u/126198) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji oraz tworzenie wielu narzędzi dla mapperów i modderów. |
 | [Loctav](https://osu.ppy.sh/u/71366) | Organizacja wszystkich oficjalnych turniejów |
 | [Blazevoir](https://osu.ppy.sh/u/120265) | Szalony moderator (sam był w stanie pracować za 6 moderatorów) - potrafił sam moderować #osu w godzinach szczytu (9 tys. + osób). |
 | [Piotrekol](https://osu.ppy.sh/u/304520) | Stworzenie i utrzymywanie [osu!stats](http://osustats.ppy.sh/) i wielu narzędzi dla mapperów, modderów i ogólnej rozgrywki. |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji a także odpowiadanie na pytania graczy. |
-| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](http://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
+| [DeathxShinigami](https://osu.ppy.sh/u/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](https://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
 | [LuigiHann](https://osu.ppy.sh/u/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboards) sztuką i motywacją. |
 | [awp](https://osu.ppy.sh/u/2650) | Wczesne zarządzanie i moderowanie społecznością oraz duży wkład, zanim opuścił osu!. |
 | [Sinistro](https://osu.ppy.sh/u/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
