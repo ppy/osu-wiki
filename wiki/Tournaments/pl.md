@@ -265,12 +265,6 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
-
-| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
-| --- | --- | --- | --- | --- | --- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
-
 Zobacz także
 ---------------
 
