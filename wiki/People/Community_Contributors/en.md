@@ -107,3 +107,32 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [ThePooN](/users/718454) | Outstanding effort in the production and publishing of the Score project |
 | [MegaApple_Pi](/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | [TPGPL](/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
+
+## 2019
+
+*Also see the announcement post: [Acknowledging Community Contributors](/home/news/2019-02-22-acknowledging-community-contributors).*
+
+| User | Contributions |
+|---|---|
+| [HappyStick](/users/256802) | World Cup organization & osu! Coffee Hour host |
+| [juankristal](/users/443656) | Outstanding contribution to World Cup organization and tournaments |
+| [WalterToro](/users/5281416) | Outstanding contribution as a memeber of the GMT and osu!wiki team |
+| [clayton](/users/3666350) | Outstanding contribution across many projects and domains |
+| [VeilStar](/users/4255720) | Outstanding work in player support and problem resolution |
+| [Stefan](/users/626907) | Beatmap Packs project maintainer extraordinaire |
+| [Naxess](/users/8129817) | Developer of countless tools proven integral to the modern ranking cycle |
+| [Kurokami](/users/260933) | Outstanding contribution to the Beatmap Spotlights project |
+| [p3n](/users/123703) | Outstanding contribution across numerous projects and domains |
+| [shARPII](/users/776257) | Outstanding contribution to the GMT and tournament maintenance |
+| [Toy](/users/2757689) | Project Loved team leader |
+| [Kaifin](/users/2596942) | Early Project Loved assistance and organization |
+| [Zak](/users/1375955) | Project Loved captain (osu!catch) |
+| [Backfire](/users/263110) | Project Loved captain (osu!taiko) |
+| [Tenshichan](/users/1101600) | Project Loved captain (osu!catch) |
+| [Kamikaze](/users/2124783) | Project Loved captain (osu!mania) |
+| [Pope Gadget](/users/2288341) | Project Loved captain (osu!mania) |
+| [Yuii-](/users/2935923) | Outstanding contribution to the Community Mentorship Program |
+| [Halfslashed](/users/4598899) | Outstanding contribution to the Community Mentorship Program |
+| [Mir](/users/8688812) | Outstanding contribution to the Community Mentorship Program |
+| [Mun](/users/6699165) | Outstanding contribution to the Community Mentorship Program |
+| [J1nx1337](/users/3971179) | Outstanding contribution to the Community Mentorship Program |
