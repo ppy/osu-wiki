@@ -12,7 +12,7 @@ The voting is [now open over at the Aspire 2018 contest listing](https://osu.ppy
 
 Your votes will help decide the Public Impression scoring aspect of the contest, and like previous iterations of the format, this will account for 50% of the overall score that a map receives, meaning that your vote is *super* important.
 
-If all you care about is seeing the long-awaited entries, [head on over to the contest listing now](https://osu.ppy.sh/users/895581) to download the pack and get started.
+If all you care about is seeing the long-awaited entries, [head on over to the contest listing now](https://osu.ppy.sh/community/contests/68) to download the pack and get started. Voting will run until the **31st of March** to give people ample time to take it all in.
 
 I'd like to take a brief moment to apologize for the incredible delay in getting this all moving, and also for the lack of accompanying stream feature that has been a staple of the series since 2017. It's terribly unfair for the participants left waiting in the lurch for so long, and for the long-term fans of the contest, too. I appreciate everybody who swung by and asked me what was going on, and for everybody's patience over these past few months.
 
