@@ -7,7 +7,7 @@ tags:
 
 # osu! Mapping World Cup #1
 
-![oMWC Banner](img/logo_2.png)
+![oMWC Banner](img/logo.png)
 
 The **osu! Mapping World Cup #1** (***oMWC #1***) is a country-based osu! mapping contest hosted by ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837) and ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983).
 
