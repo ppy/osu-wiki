@@ -8,7 +8,7 @@ At its very heart, osu! is almost entirely driven by its community. And at the h
 
 ![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/banner.jpg)
 
-Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.png) is expressly granted to those of the osu! community who have gone utterly above and beyond the norm in their enduring contribution to the well-being of the game and its community.
+Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) is expressly granted to those of the osu! community who have gone utterly above and beyond the norm in their enduring contribution to the well-being of the game and its community.
 
 In a first for many years, we are proud to announce the latest set of community contributors in what is the largest number of additions made since the initiative started back in 2014.
 
