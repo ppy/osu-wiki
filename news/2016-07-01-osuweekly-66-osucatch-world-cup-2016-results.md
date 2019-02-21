@@ -26,7 +26,7 @@ We have our champions for the osu!catch World Cup of 2016! Peppy has posted a mu
 
 + The OCWT concluded this passing weekend with the (definitely not overpowered) team SPD taking the top prize. There's a vod up for the [grand finals](https://www.twitch.tv/ocwt/v/74634469) over on the ocwt twitch channel, so you can go see it if you missed it!
 
-**Just as I was about to push out this article, Flyte posted a new [update](http://next.ppy.sh/post/146744703858/this-weeks-teaser-is-not-so-much-of-a-teaser) for us on his blog!** It seems that flyte has gotten his rear in gear and started working away on some of his more old designs. I had a brief glance at the screenshots of the new userpage design, and it seems that quite a few things have been changed! Can you spot all the differences?
+**Just as I was about to push out this article, Flyte posted a new [update](https://next.ppy.sh/post/146744703858/this-weeks-teaser-is-not-so-much-of-a-teaser) for us on his blog!** It seems that flyte has gotten his rear in gear and started working away on some of his more old designs. I had a brief glance at the screenshots of the new userpage design, and it seems that quite a few things have been changed! Can you spot all the differences?
 
 ---
 

@@ -18,7 +18,7 @@ Aktive
 | Name | Beschreibung |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Spielerunterstützer |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Chefdesigner |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Chefdesigner |
 | [Loctav](https://osu.ppy.sh/users/71366) | Offizieller Turnier Organisator |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Webimplementierung |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu! Zeichner, Macht coole extraordinäre Sachen |

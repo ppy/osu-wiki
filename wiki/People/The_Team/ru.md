@@ -18,7 +18,7 @@ outdated: true
 | имя | описание |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Поддержка игроков, Секретарь в очках |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Ведущий дизайнер |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Ведущий дизайнер |
 | [Loctav](https://osu.ppy.sh/users/71366) | Организация официальных турниров, Управление сообществом и персоналом |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Веб-программист |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Художник osu!, Чемпион по прикольным идеям |

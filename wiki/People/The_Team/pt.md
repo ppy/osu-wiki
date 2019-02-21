@@ -18,7 +18,7 @@ Ativos
 | Nome | Descrição |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Suporte a Jogadores, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Lead designer |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Lead designer |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organização oficial de torneios, Staff and community management |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Web implementation |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |

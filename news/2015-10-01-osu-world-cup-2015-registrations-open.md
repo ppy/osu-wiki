@@ -42,7 +42,7 @@ We are aiming to have a minimum $5,000 cash prize pool for this world cup. We wi
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://jizz.ppy.sh/tournaments/2)**
++ **[Click here to sign-up!](https://jizz.ppy.sh/tournaments/2)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Submit your registration before **18th October 2015 at 23:59:59  UTC**.
 

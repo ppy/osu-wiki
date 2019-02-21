@@ -57,7 +57,7 @@ How to Enter
 
 * Post a web-friendly (longest length at 350px maximum) image in the [official contest thread](https://osu.ppy.sh/forum/t/479412)
 * Link to a much larger print-friendly image. At least 1600x2800, preferably higher, or vector, if possible. Note:2000x3500 is optimal.
-* You can upload the images on [http://up.ppy.sh/](http://up.ppy.sh) or [http://puush.me/](http://puush.me)
+* You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [http://puush.me/](http://puush.me)
 * You may enter more than one image, but you can only win one grand prize. If you have more than one entry, please keep them all in a **single forum post**.
 
 Good luck!

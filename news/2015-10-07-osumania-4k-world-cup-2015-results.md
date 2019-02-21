@@ -25,7 +25,7 @@ Congratulations again to the winners, and thanks to all participants for making 
 
 If you want to learn more about the osu!mania 4K World Cup 2015, take a look at the [wiki article](https://osu.ppy.sh/wiki/MWC_4K_2015).
 
-We would also like to mention again the upcoming tournaments, especially the [osu! World Cup 2015](https://osu.ppy.sh/wiki/OWC_2015)! Registrations are currently up and can be found [here](http://jizz.ppy.sh/tournaments/2)
+We would also like to mention again the upcoming tournaments, especially the [osu! World Cup 2015](https://osu.ppy.sh/wiki/OWC_2015)! Registrations are currently up and can be found [here](https://jizz.ppy.sh/tournaments/2)
 
 Stay tuned, and we'll see you next time!
 

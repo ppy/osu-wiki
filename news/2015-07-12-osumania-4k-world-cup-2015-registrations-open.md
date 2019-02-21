@@ -43,7 +43,7 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://jizz.ppy.sh/tournaments/1)**
++ **[Click here to sign-up!](https://jizz.ppy.sh/tournaments/1)**
 + Do not found teams in advance! **Register individually, if you wish to join this competition**. Teams will be formed after registration phase concluded by country's team captains!
 + Hand in your registration before **2. August 2015 at 23:59:59  UTC.**
 + You can only participate if you are of a **osu!mania global ranking of #5000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.

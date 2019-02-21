@@ -18,7 +18,7 @@ Aktif
 | Nama | Deskripsi |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Layanan pemain, Sekretaris Meganekko |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) |	Pemimpin desainer |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) |	Pemimpin desainer |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisasi turnamen resmi, Staf dan manajemen komunitas |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Pelaksana web |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Pelukis osu!, Orang yang gaul-alias orang luar biasa |

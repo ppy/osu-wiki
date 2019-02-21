@@ -18,7 +18,7 @@ Membres actifs
 | Nom | Description |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Aide aux joueurs, Secrétaire de Meganekko |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Concepteur principal |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Concepteur principal |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisation des tournois officiels, Staff and community management |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Création du siten |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Extraordinaire créateur de trucs cool |

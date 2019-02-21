@@ -18,7 +18,7 @@ The Team
 | 名 | 描述 |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | 玩家事务支持 |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | 首要设计人员 |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | 首要设计人员 |
 | [Loctav](https://osu.ppy.sh/users/71366) | 官方赛事组织 |
 | [nanaya](https://osu.ppy.sh/users/2387883) | 网页成绩 |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师, 制作很酷的素材 |

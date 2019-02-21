@@ -18,7 +18,7 @@ outdated: true
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | ช่วยเหลือผู้เล่น, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | ผู้นำด้านออกแบบ |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | ผู้นำด้านออกแบบ |
 | [Loctav](https://osu.ppy.sh/users/71366) | จัดตั้ง Tournament อย่างเป็นทางการ, จัดการเกี่ยวกับสตาฟและสังคมในเกม |
 | [nanaya](https://osu.ppy.sh/users/2387883) | การดำเนินงานเว็บไซต์ |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, คนที่ทำสิ่งที่น่าทึ่ง |
