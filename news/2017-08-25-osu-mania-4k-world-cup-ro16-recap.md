@@ -46,6 +46,6 @@ And that's a wrap for the Round of 16! This coming weekend will mark the start o
 
 Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don't want to miss!
 
-Finally, a reminder that you can always support your favourite team by purchasing a colorful [user profile banner!](https://osu.ppy.sh/store/product/226). All proceeds will go towards funding the prize pool for this tournament, so get your banners now today!
+Finally, a reminder that you can always support your favourite team by purchasing a colorful [user profile banner!](https://osu.ppy.sh/store/products/226). All proceeds will go towards funding the prize pool for this tournament, so get your banners now today!
 
 —mangomizer

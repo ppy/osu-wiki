@@ -54,7 +54,7 @@ The last match of the day saw a confident and rehearsed Polish side square off a
 
 ![](/wiki/shared/news/2017-06-23-osu-catch-world-cup-ro16-quarterfinals-recap/MexicoPoland_game6.jpg)
 
-Twelve teams remain in the tournament, but only one can emerge victorious. If you want to find out who battles their way to the top, be sure to join us once again this Saturday the 24th of June at 11:00 UTC on the [osu!live Twitch channel](https://www.twitch.tv/osulive)! China will open proceedings once again, this time taking on Indonesia in what could well prove to be a thrilling rematch between the two 2016 finalists. If you want to show your undying love and support for your team of choice, be sure to drop by the [osu!store](https://osu.ppy.sh/store/product/209) and pick up a profile banner before it's too late!
+Twelve teams remain in the tournament, but only one can emerge victorious. If you want to find out who battles their way to the top, be sure to join us once again this Saturday the 24th of June at 11:00 UTC on the [osu!live Twitch channel](https://www.twitch.tv/osulive)! China will open proceedings once again, this time taking on Indonesia in what could well prove to be a thrilling rematch between the two 2016 finalists. If you want to show your undying love and support for your team of choice, be sure to drop by the [osu!store](https://osu.ppy.sh/store/products/209) and pick up a profile banner before it's too late!
  
 Until next time, happy fruit catching everyone!
  

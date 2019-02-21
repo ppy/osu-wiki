@@ -36,6 +36,6 @@ After such a fiercely exciting weekend, only 16 teams now remain. Props to the U
 
 This year's installment of the MWC 4K promises to be an exciting one indeed. Every team is looking eager to take the trophy home, along with the glorious title of osu!mania Champion! Be sure to drop by the [osu!live Twitch Channel](https://www.twitch.tv/osulive) next Sunday to show your support for all the teams participating!
 
-Don't forget, you can also show your additional love and support for the remaining teams by purchasing one of the many colorful user profile banners! These were painstakingly designed by [flyte](https://osu.ppy.sh/users/3103765) himself, and as an added bonus - the banner of the winning team will continue to stay long after the tournament is over. [Get your profile banners now today!](https://osu.ppy.sh/store/product/226)
+Don't forget, you can also show your additional love and support for the remaining teams by purchasing one of the many colorful user profile banners! These were painstakingly designed by [flyte](https://osu.ppy.sh/users/3103765) himself, and as an added bonus - the banner of the winning team will continue to stay long after the tournament is over. [Get your profile banners now today!](https://osu.ppy.sh/store/products/226)
 
 —mangomizer

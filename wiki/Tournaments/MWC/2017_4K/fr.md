@@ -47,7 +47,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
 - [Diffusion en direct](https://www.twitch.tv/osulive)
-- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/product/226)
+- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
 - **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
