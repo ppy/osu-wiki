@@ -135,4 +135,4 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [Halfslashed](/users/4598899) | Outstanding contribution to the Community Mentorship Program |
 | [Mir](/users/8688812) | Outstanding contribution to the Community Mentorship Program |
 | [Mun](/users/6699165) | Outstanding contribution to the Community Mentorship Program |
-| [J1nx1337](/users/3971179) | Outstanding contribution to the Community Mentorship Program |
+| [J1NX1337](/users/3971179) | Outstanding contribution to the Community Mentorship Program |
