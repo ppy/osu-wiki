@@ -19,6 +19,7 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
 | `en.md` | English | English |
+| `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
@@ -33,11 +34,13 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
+| `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
 | `pt.md` | Portuguese | Português |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
+| `sk.md` | Slovak | Slovenčina |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
