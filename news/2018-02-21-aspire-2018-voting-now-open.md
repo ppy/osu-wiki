@@ -18,7 +18,7 @@ I'd like to take a brief moment to apologize for the incredible delay in getting
 
 That aside, I look forward to seeing who the public choose out of the final twelve. Happy voting, and aim for greater heights!
 
-[**Download the full pack of finalist entries here.**](https://assets.ppy.sh/contests/68/aspire2018finalists.zip)
+[**Download the full pack of finalist entries here.**](https://assets.ppy.sh/contests/68/entries/aspire2018finalists.zip)
 
 [**Download the pack of replays from the Champion Above Champions here.**](https://assets.ppy.sh/contests/68/aspire2018gnreplays.zip)
 
