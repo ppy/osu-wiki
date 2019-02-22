@@ -8,8 +8,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2013
 
-<!-- link is dead https://osu.ppy.sh/community/forums/posts/2489459 -->
-*For the forum thread, see: [osu! community contributors](https://web.archive.org/web/20131003162259/https://osu.ppy.sh/forum/p/2489459 "Wayback Machine")*
+*For the forum thread, see: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | User | Contributions |
 | --- | --- |
