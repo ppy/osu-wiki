@@ -14,16 +14,6 @@ We are proud to announce the latest set of community contributors in what is the
 
 Please note, however: this list is by no means exhaustive, and only represents the acknowledgement of continued, consistent contribution across a long period of time as observed and noted by the osu!team.
 
-## Development
-
-### ekr
-
-[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/ekr.jpg)](https://osu.ppy.sh/users/4497706)
-
-Responsible for considerable contributions to the osu!lazer project, ekr's efforts have been focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
-
-Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
-
 ## Community
 
 ### HappyStick
@@ -52,7 +42,7 @@ The workload involved in running the osu! World Cups is *immense*, perhaps far g
 
 A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is *everywhere*, in the osu!wiki scene, in the tournaments scene, and wildly active in the Spanish community to say the least.
 
-From refereeing matches to refereeing people, we are intensely thankful for WalterToro's incredible work ethic and tireless drive to do what needs to be done.
+From refereeing matches to refereeing people, we are very thankful for WalterToro's incredible work ethic and tireless drive to do what needs to be done.
 
 ### clayton
 
@@ -199,6 +189,16 @@ Once a former mentee himself under Shiirn, Mun's efforts have spanned across doz
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/J1nx1337.jpg)](https://osu.ppy.sh/users/3971179)
 
 Responsible for handling much of the busywork that often accompanies managing a project of such size and consistency, J1NX1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
+
+## Development
+
+### ekr
+
+[![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/ekr.jpg)](https://osu.ppy.sh/users/4497706)
+
+Responsible for considerable contributions to the osu!lazer project, ekr's efforts have been focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
+
+Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
 
 -------------
 
