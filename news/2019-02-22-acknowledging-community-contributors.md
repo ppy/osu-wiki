@@ -10,7 +10,7 @@ At its very heart, osu! is almost entirely driven by its community. And at the h
 
 Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) is expressly granted to those of the osu! community who have gone utterly above and beyond the norm in their enduring contribution to the well-being of the game and its community.
 
-In a first for many years, we are proud to announce the latest set of community contributors in what is the largest number of additions made since the initiative started back in 2014.
+In a first for many years, we are proud to announce the latest set of community contributors in what is the largest number of additions made since the initiative started back in 2013.
 
 Please note, however: this list is by no means exhaustive, and only represents the acknowledgement of continued, consistent contribution across a long period of time as observed and noted by the osu!team.
 
