@@ -15,7 +15,7 @@ They can go in any direction and there are usually plenty of them.
 
 The term "Estna sliders" were coined by [awp](https://osu.ppy.sh/users/2650) and named after a [character from Disgaea](http://disgaea.wikia.com/wiki/Etna) who appeared in one of his maps.
 
-[This post was how it all began.](https://osu.ppy.sh/forum/p/5783)
+[This post was how it all began.](https://osu.ppy.sh/community/forums/posts/5783)
 
 ### Introverted Flow
 

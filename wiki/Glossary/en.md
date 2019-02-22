@@ -556,7 +556,7 @@ osu! has three meanings:
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
-    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/posts/2686).
 
 ### osu!coin
 

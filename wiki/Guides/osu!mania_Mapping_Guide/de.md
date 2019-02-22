@@ -354,7 +354,7 @@ Das hier ist mit Abstand der Wichtigste Punkt. Treffen die Noten auch den Ton f�
 
 Ihr möchtet mal sehen wie Modding aussieht? Kein Problem! Hier haben wir eine Map die ich vor einem Monat mal gemodded habe:
 
-[Senpi- - The Last Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/forum/p/4424484). Ihr braucht jetzt kein ausgefallenes Design so wie ich das benutze. Ich habe mir diese "Vorlage" gebaut um mehr Übersicht zu haben was ich zu Modden haben und auch für den Mapper das er eine bessere Übersicht hat.
+[Senpi- - The Last Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/community/forums/posts/4424484). Ihr braucht jetzt kein ausgefallenes Design so wie ich das benutze. Ich habe mir diese "Vorlage" gebaut um mehr Übersicht zu haben was ich zu Modden haben und auch für den Mapper das er eine bessere Übersicht hat.
 
 Soviel zum Thema Modding! Wenn ihr eine Map ranken wollt kommt ihr nicht drum rum eine Map zu Modden. Aber vergesst nicht. Durch das Modden seht ihr unzählige verschiedene Designs auf die ihr selber vielleicht nie kommen würdet!
 

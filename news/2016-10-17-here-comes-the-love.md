@@ -30,7 +30,7 @@ Head on over, download the map, and play! It may appear as a Qualified map in th
 
 We feel that this new state will make a lot of people happy once it becomes more fleshed out, and should ease a lot of the stress that some mappers feel when aiming to get more experimental things seen and enjoyed by other players. We'll be closely keeping an eye on the system and any feedback from people using it, so please make sure to let us know how you feel about it, or if you notice any issues.
 
-We'd also like to give a shoutout to the [feature request thread that started it all](https://osu.ppy.sh/forum/p/5548362) - we really do pay attention to the ideas made and supported in that forum, so if you've got an idea that you think would help make osu! more awesome, head on over and post it for the world to see!
+We'd also like to give a shoutout to the [feature request thread that started it all](https://osu.ppy.sh/community/forums/posts/5548362) - we really do pay attention to the ideas made and supported in that forum, so if you've got an idea that you think would help make osu! more awesome, head on over and post it for the world to see!
 
 If you think *this* is good, wait until you see what we've got planned next.
 

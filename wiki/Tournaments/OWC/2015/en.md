@@ -46,7 +46,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/4550383)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Group Stage statistics overview](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 

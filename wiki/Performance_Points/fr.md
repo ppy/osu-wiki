@@ -12,7 +12,7 @@ Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *«
 
 Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
 
-Plusieurs mois après, la [version (20120722-24) d'osu!](https://osu.ppy.sh/forum/p/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel.
+Plusieurs mois après, la [version (20120722-24) d'osu!](https://osu.ppy.sh/community/forums/posts/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel.
 
 Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
 

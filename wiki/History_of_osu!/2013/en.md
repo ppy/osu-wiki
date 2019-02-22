@@ -9,7 +9,7 @@ Links:
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
 - [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
-- [Best of 2012 Results](https://osu.ppy.sh/forum/p/2042263)
+- [Best of 2012 Results](https://osu.ppy.sh/community/forums/posts/2042263)
 
 ## February
 
@@ -26,7 +26,7 @@ Links:
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
-- [osu! release b20130220](https://osu.ppy.sh/forum/p/2134063)
+- [osu! release b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
 
 ## March
 
@@ -78,11 +78,11 @@ For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKe
 Three brand new Dedication [achievements](/wiki/achievements) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game sign-in) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 
 - [osu! Public Release (b20130509)](/community/forums/topics/131611)
-- [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2334705)
+- [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2334705)
 
 ## June
 
-[osu! Beatmapping Contest \#4](https://osu.ppy.sh/forum/p/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
+[osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
 
 Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Taiko)) and [last.fm](http://www.last.fm/) support to profiles. User profiles now have country performance rank on their profile and a new pp graph.
 
@@ -104,7 +104,7 @@ Gameplay-wise, lead-in time was automatically add to any beatmaps which start ab
 
 Links:
 
-- [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2400775)
+- [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2400775)
 - [Regional Team Management](/community/forums/topics/132667)
 
 ## July

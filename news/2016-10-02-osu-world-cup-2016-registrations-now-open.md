@@ -11,7 +11,7 @@ We'd like to welcome all of you to this year's official osu! World Cup. As in ev
 ![](https://puu.sh/ru4PG/905269a358.png)
 
 For more details, refer to the **[osu! World Cup 2016 wiki article](https://osu.ppy.sh/wiki/OWC_2016)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/p/5513998)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/posts/5513998)**.
 
 ## Tournament Schedule
 

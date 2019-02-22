@@ -50,7 +50,7 @@ Arra figyelj, hogy az bizonyos idő alatt letölthető beatmapek száma korláto
   - Az első indítás akár 5 percig is eltarthat. Ez azért van, mert az X11 (grafikai alrendszer) újjáépíti a betűkészlet-gyorsítótárat.
 
 ###### Beatmapek hozzáadása
->[Eredeti hozzászólás](https://osu.ppy.sh/forum/p/909738)
+>[Eredeti hozzászólás](https://osu.ppy.sh/community/forums/posts/909738)
 
 Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 - Kattints jobb gombbal az osu!.app-ra és válaszd a "Csomag tartalmának mutatása" lehetőséget
@@ -207,7 +207,7 @@ Külső hivatkozások
 
 -   peppy GYIK [1](https://osu.ppy.sh/p/faq)
 -   peppy letöltések oldala [2](https://osu.ppy.sh/p/download)
--   peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/forum/p/909738)
+-   peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
 -   mattyu007 - Hogyan futtasd az osu!-t a Mac-eden Boot Camp használata nélkül [4](https://osu.ppy.sh/forum/t/14664/)
 -   KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
 -   doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)

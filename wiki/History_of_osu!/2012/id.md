@@ -33,7 +33,7 @@ Trivia: Untuk pemain yang memasuki lobi Multi sebelum memperbarui ke versi b2012
 
 Tautan terkait:
 
-- [osu! versi (b20121008): osu!mania (Forum topik)](https://osu.ppy.sh/forum/p/1825880)
+- [osu! versi (b20121008): osu!mania (Forum topik)](https://osu.ppy.sh/community/forums/posts/1825880)
 
 ---
 
@@ -105,4 +105,4 @@ Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. 
 
 Tautan terkait:
 
-- [Hari Natal (peningkatan bancho + osu!direct gratis) (Forum topik)](https://osu.ppy.sh/forum/p/2005499)
+- [Hari Natal (peningkatan bancho + osu!direct gratis) (Forum topik)](https://osu.ppy.sh/community/forums/posts/2005499)

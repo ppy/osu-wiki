@@ -11,7 +11,7 @@ Tautan Terkait:
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
 - [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
-- [Hasil Best of 2012](https://osu.ppy.sh/forum/p/2042263)
+- [Hasil Best of 2012](https://osu.ppy.sh/community/forums/posts/2042263)
 
 ## Februari
 
@@ -28,7 +28,7 @@ Tautan Terkait:
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
 - [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
-- [osu! versi b20130220](https://osu.ppy.sh/forum/p/2134063)
+- [osu! versi b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
 
 ## Maret
 
@@ -80,11 +80,11 @@ Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot
 Tiga [pencapaian](/wiki/achievements) baru "Dedication" untuk osu!mania telah dirilis (40.000/400.000/4.000.000 tombol ditekan). Desain profil pengguna telah dikerjakan ulang dan "kunjungan terakhir" Anda akan didasarkan pada koneksi ke Bancho (yaitu, login dalam game) daripada kunjungan ke forum. Akhirnya, osu! memiliki pencapaian baru dengan terhubungnya 10.000 pengguna secara bersamaan!
 
 - [osu! Versi (Rilisan Publik) (b20130509)](/community/forums/topics/131611)
-- [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2334705)
+- [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2334705)
 
 ## Juni
 
-[osu! Beatmapping Contest \#4](https://osu.ppy.sh/forum/p/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
+[osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
 
 Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Taiko)) dan dukungan [last.fm](http://www.last.fm/) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
 
@@ -106,7 +106,7 @@ Berpindah ke Gameplay, lead-in time secara otomatis menambah beatmap yang mulai 
 
 Tautan Terkait:
 
-- [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/forum/p/2400775)
+- [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2400775)
 - [Regional Team Management](/community/forums/topics/132667)
 
 ## Juli

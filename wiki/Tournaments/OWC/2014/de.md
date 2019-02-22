@@ -60,7 +60,7 @@ Links
 
 -   [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive/)
 -   [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/3410198)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/3410198)
 -   [Mappool Diskussionsthread](https://osu.ppy.sh/forum/t/255369/)
 -   **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
 

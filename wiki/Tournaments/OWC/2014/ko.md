@@ -51,7 +51,7 @@ osu! World Cup 2014
 
 -   [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive/)
 -   [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [토론 장소](https://osu.ppy.sh/forum/p/3410198)
+-   [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
 
 ------------------------------------------------------------------------
 

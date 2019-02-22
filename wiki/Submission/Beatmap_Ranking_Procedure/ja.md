@@ -13,7 +13,7 @@ Rankedになる前にBATによってなれる状態で、最初にBubbleを手�
 
 ### 専用モードのBubble
 
-Mode-Specific Bubble(専用モード用のBubble)はいくつかのモードが混ざったマップセットの特定のモードに適用されるBubbleです。各モードのBubbleの基準は、各[Ranking Criteriaに依存しますが](/wiki/Ranking_Criteria)、, 各モードを担当した/できる専用のBATだけがbubbleを付けることが出来ます。利用可能なBATのリストは次のものを参照してください。 [the respective list on its article](/wiki/People/Beatmap_Nomination_Group) もしくは [this post](https://osu.ppy.sh/forum/p/2430411)。
+Mode-Specific Bubble(専用モード用のBubble)はいくつかのモードが混ざったマップセットの特定のモードに適用されるBubbleです。各モードのBubbleの基準は、各[Ranking Criteriaに依存しますが](/wiki/Ranking_Criteria)、, 各モードを担当した/できる専用のBATだけがbubbleを付けることが出来ます。利用可能なBATのリストは次のものを参照してください。 [the respective list on its article](/wiki/People/Beatmap_Nomination_Group) もしくは [this post](https://osu.ppy.sh/community/forums/posts/2430411)。
 
 Popped Bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 -----------------------------------------------------------------------------------

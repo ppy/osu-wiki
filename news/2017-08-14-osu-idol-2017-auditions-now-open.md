@@ -20,7 +20,6 @@ osu!idol is where contestants as a solo or a duet sing their way through multipl
 
 ### So where do I sign up?
 
-[**See the thread for contest rules, more details and discussion.**](https://osu.ppy.sh/forum/p/6120649)
+[**See the thread for contest rules, more details and discussion.**](https://osu.ppy.sh/community/forums/posts/6120649)
 
 —Flanster
-

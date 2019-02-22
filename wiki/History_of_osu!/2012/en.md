@@ -31,7 +31,7 @@ Trivia: For players who entered Multi's lobby before updating to the b20121008 b
 
 Links:
 
-- [osu! release (b20121008): osu!mania (Forum thread)](https://osu.ppy.sh/forum/p/1825880)
+- [osu! release (b20121008): osu!mania (Forum thread)](https://osu.ppy.sh/community/forums/posts/1825880)
 
 ---
 
@@ -103,4 +103,4 @@ On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new ver
 
 Links:
 
-- [Merry Christmas (bancho changes + free osu!direct) (Forum thread)](https://osu.ppy.sh/forum/p/2005499)
+- [Merry Christmas (bancho changes + free osu!direct) (Forum thread)](https://osu.ppy.sh/community/forums/posts/2005499)

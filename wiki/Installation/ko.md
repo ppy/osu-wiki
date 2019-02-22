@@ -45,7 +45,7 @@ PC **환경에서의 설치 가이드**
   - 만약 OSU!를 처음 실행할 경우 실행되기까지 5분가량 걸릴 수 있습니다. 그 이유는 X11(그래픽 서브 글꼴 시스템) 글꼴 캐시를 다시 작성하기 때문입니다.
 
 #### Beatmap 추가
->[원본 게시물](https://osu.ppy.sh/forum/p/909738)
+>[원본 게시물](https://osu.ppy.sh/community/forums/posts/909738)
 사진으로 가이드를 보려면, 위에 링크를 클릭하여 게시물을 확인해 주시길 바랍니다.
 
 - OSU!를 오른쪽 클릭하여 '.app'의 "Show Package Contents"를 선택합니다.
@@ -245,7 +245,7 @@ External links
 
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 -   peppy's download page [2](https://osu.ppy.sh/p/download)
--   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/forum/p/909738)
+-   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
 -   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/forum/t/14664/)
     -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu! wiki version)
 -   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)

@@ -47,7 +47,7 @@ Links
 --------
 
 -   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
 -   [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------

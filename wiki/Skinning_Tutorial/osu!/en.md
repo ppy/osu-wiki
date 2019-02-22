@@ -62,7 +62,7 @@ _Default skin_
 _[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
 
 ![](fs/hitcircle_2.jpg)
-_[Holiday](https://osu.ppy.sh/forum/p/7111)_
+_[Holiday](https://osu.ppy.sh/community/forums/posts/7111)_
 
 ![](fs/hitcircle_3.jpg)
 _[Acchi Kocchi](https://osu.ppy.sh/forum/t/92440)_

@@ -13,7 +13,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 ### Agosto
 
-*Ver también el hilo del foro: [Colaboradores de la comunidad de osu!](https://osu.ppy.sh/forum/p/2489459).*
+*Ver también el hilo del foro: [Colaboradores de la comunidad de osu!](https://osu.ppy.sh/community/forums/posts/2489459).*
 
 | Usuario | Contribución |
 | ---- | ------------- |

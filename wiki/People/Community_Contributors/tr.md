@@ -14,7 +14,7 @@ Bu tabloda bu rozete sahip mevcut kullanıcılar listelenmiştir:
 
 ## 8 Ağustos 2013
 
-_Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/forum/p/2489459) forum başlığı._
+_Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/community/forums/posts/2489459) forum başlığı._
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
