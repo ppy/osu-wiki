@@ -206,6 +206,6 @@ As mentioned in previous years, we cannot really stress just how important commu
 
 Unlike many other game projects on the web, much of what drives osu! originates almost wholly from its community, meaning that individual people can have a **massive** influence in making the game awesome for everybody else.
 
-And we hope to see the trend continue well into our second decade of clicking circles, beating drums, catching fruit and smashing keys!
+We hope to see the trend continue well into our second decade of clicking circles, beating drums, catching fruit and smashing keys!
 
 —osu!team
