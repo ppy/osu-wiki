@@ -32,7 +32,7 @@ Noted specifically as one of the few developers brave enough to delve into the c
 
 All but leaving behind a successful streaming career and tournament series of his own, HappyStick's jaunt into the deeper affairs of the community has proven instrumental in the continuation of the osu! World Cup series in the wake of its previous organizer's farewell.
 
-Beyond his award-winning smile, HappyStick has proven himself to be an invaluable addition to the osu!team, heading the new osu! Coffee Hour series, generally spending many sleepless nights setting up and streaming World Cup matches, creating tools to ensure it is easier for others to run them, and so much more.
+Beyond his award-winning smile, HappyStick has proven himself to be an invaluable addition to the osu!team, heading the new osu! Coffee Hour series, generally spending many sleepless nights setting up and streaming World Cup matches, creating tools to ensure that it is easier for others to run them, and so much more.
 
 We could say many things about HappyStick, but foremost among them is how thankful we are for his continued contribution.
 
