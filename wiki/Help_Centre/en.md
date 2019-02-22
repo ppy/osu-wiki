@@ -743,7 +743,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 #### How do I download osu!?
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
+**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/home).**
 
 Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
 

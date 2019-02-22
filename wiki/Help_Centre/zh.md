@@ -743,7 +743,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 #### 如何下载 osu!？
 
-**只需在 [osu! 官方网站](https://osu.ppy.sh/)上顶部的导航栏中点击 `Download` 。**
+**只需在 [osu! 官方网站](https://osu.ppy.sh/home)上顶部的导航栏中点击 `Download` 。**
 
 或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
 

@@ -742,7 +742,7 @@ Jika Anda tidak aktif selama jangka waktu yang panjang dan statistik Anda ditamp
 
 #### Bagaimana cara mengunduh osu!?
 
-**Cukup klik ​`Unduh` di bar bagian atas laman apa pun di [situs web resmi osu!​](https://osu.ppy.sh).**
+**Cukup klik ​`Unduh` di bar bagian atas laman apa pun di [situs web resmi osu!​](https://osu.ppy.sh/home).**
 
 Atau, ​[klik di sini​](https://osu.ppy/sh/p/download) untuk langsung menautkan ke laman unduhan.
 

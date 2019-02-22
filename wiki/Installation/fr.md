@@ -30,7 +30,7 @@ Guide d'installation
 #### Ajout de beatmaps
 >Note : beatmap (littéralement: piste de rythme) est le terme anglais utilisé pour désigner une musique ainsi que la piste de jeu allant avec.
 
-- Connectez vous au [site web d'osu!](https://osu.ppy.sh/) à l'aide de vos identifiants (ou [créez un compte](https://osu.ppy.sh/p/register) si vous n'en avez pas encore un).
+- Connectez vous au [site web d'osu!](https://osu.ppy.sh/home) à l'aide de vos identifiants (ou [créez un compte](https://osu.ppy.sh/p/register) si vous n'en avez pas encore un).
 - Rendez vous sur la [liste des beatmaps](https://osu.ppy.sh/p/beatmaplist?q=), ou la [liste des packs de beatmaps](https://osu.ppy.sh/p/packlist)
 - Cherchez les musiques/packs que vous aimez.
 - Cliquez sur le lien de téléchargement, il est possible que votre navigateur vous demande d'autoriser ce téléchargement.

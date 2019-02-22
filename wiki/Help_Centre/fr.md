@@ -727,7 +727,7 @@ Les cartes graphiques NVidia récentes ont une option globale dans le Panneau de
 
 ### Comment télécharger osu! ?
 
-**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/).**
+**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
 
 Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers la page des téléchargements.
 

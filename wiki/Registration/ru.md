@@ -7,7 +7,7 @@ outdated: true
 <center>
 **<font size="3">Помните: Вы имеете право иметь лишь один аккаунт! Создание двух или более противоречит <span class="plainlinks"> [правилам osu!](/wiki/Rules)</span>. Следуйте инструкциям ниже, чтобы создать аккаунт.**
 </font>
-<span style="font-size:18px">1. Перейдите по <span class="plainlinks"> [ссылке](https://osu.ppy.sh)</span> и кликните на "<b>I'm new!</b>" в правом верхнем углу страницы, чтобы перейти к регистрации. </span>
+<span style="font-size:18px">1. Перейдите по <span class="plainlinks"> [ссылке](https://osu.ppy.sh/home)</span> и кликните на "<b>I'm new!</b>" в правом верхнем углу страницы, чтобы перейти к регистрации. </span>
 
 <span style="font-size:18px">2. Заполните анкету и нажмите "Continue". </span>
 

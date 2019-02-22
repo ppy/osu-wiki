@@ -5,7 +5,7 @@ Uncomment and replace after the main wiki page gets implemented, link isn't offi
 Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
 -->
 
-Home of the [osu!](https://osu.ppy.sh) wiki.
+Home of the [osu!](https://osu.ppy.sh/home) wiki.
 
 ## Contributing
 
