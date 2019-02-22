@@ -34,7 +34,7 @@ Something of a living meme among the osu! tournament scene, juankristal has been
 
 For once, we are delighted to firmly pin the blame on him for the continuation of the osu! World Cup series as a whole, stepping up to lead the INTENSE organization required to schedule, oversee and generally maintain multiple multinational tournaments.
 
-The workload involved in running the osu! World Cups is *immense*, perhaps far greater than most people realize, and juankristal has not only stepped up himself to do it out of a sheer desire to see it done, but has *excelled* at it, allowing the series to continue without so much as a blip.
+The workload involved in running the osu! World Cups is *immense*, perhaps far greater than most people realize, and juankristal has not only stepped himself up to do it out of a sheer desire to see it done, but has *excelled* at it, allowing the series to be continued without so much as a blip.
 
 ### WalterToro
 
