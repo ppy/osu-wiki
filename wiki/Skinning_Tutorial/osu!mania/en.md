@@ -1,6 +1,6 @@
 # osu!mania
 
-This article assumes you are using [skin version](/wiki/skin.ini#versions) `2.5` or higher. Since the skin configuration heavily affects osu!mania skinning, this article will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").
+This tutorial uses [skin version](/wiki/skin.ini#versions) `2.5`. Since the skin configuration heavily affects osu!mania skinning, this tutorial will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").
 
 ## Skin configuration
 
@@ -8,27 +8,22 @@ This article assumes you are using [skin version](/wiki/skin.ini#versions) `2.5`
 
 When editing the skin configuration file, keep the following in mind:
 
--   The skin version should be set to `2.5`.
--   Positioning height-wise is based on a max-height of 480 pixels; the value used will be scaled across all game clients so it should be consistent for all players.
--   Columns are identified with index 0 from left to right. Meaning that the first column from the left is 0, the second is 1, the third is 2, etc. (See image below.)
-    -   Keys, notes, and hold notes use the same column numbers they are part of to identify themselves. Meaning that keys, notes, and hold notes inside column 2 will also use 2.
+- The skin version should be set to `2.5`.
+- Positioning height-wise is based on a max-height of 480 pixels; the value used will be scaled across all game clients so it should be consistent for all players.
+- Columns are identified with index 0 from left to right. Meaning that the first column from the left is 0, the second is 1, the third is 2, etc. (See image below.)
+  - Keys, notes, and hold notes use the same column numbers they are part of to identify themselves. Meaning that keys, notes, and hold notes inside column 2 will also use 2.
 
 ![4K stage with column numbers](img/column_numbers.jpg "The first far-left column is 0, not 1")
 
--   Each key count that is skinned must have its own section in the skin configuration.
--   When defining an image's location and/or name, copy the path from the your skin's folder (not from `Skins/`, but the folder name after that) and remove the file's extension.
--   If the stage is upside-down, you are given the option to tell osu! to flip keys and/or notes vertically.
+- Each key count that is skinned must have its own section in the skin configuration.
+- When defining an image's location and/or name, copy the path from the your skin's folder (not from `Skins/`, but the folder name after that) and remove the file's extension.
+- If the stage is upside-down, you are given the option to tell osu! to flip keys and/or notes vertically.
 
 ---
 
-The sections below are only affected when making changes to the skin configurtation. Thus, basic sections will talk about default behaviours while advanced sections will talk about changing it.
+The sections below are only affected when making changes to the skin configuration. Thus, basic sections will talk about default behaviours while advanced sections will talk about changing it.
 
-<<<<<<< HEAD
-`mania-hit0`, `mania-hit50`, `mania-hit100`, `mania-hit200`, `mania-hit300`, `mania-hit300g` are the hitbursts for osu!mania.
-These are animatable when playing in-game, but their animations plays very quickly and is *not* looped, so try to be clever to make them visible.
-=======
 ### Columns (basic)
->>>>>>> Skinning_Tutorial/osu!mania: rewrite
 
 *Not to be confused with: [Stage (basic)](#stage-(basic))*
 
@@ -81,11 +76,11 @@ ColumnLineWidth: 4,3,6,6,3,4
 ColumnWidth: 32,32,48,32,32
 ```
 
--   `ColumnStart` says to push the stage 99999 units from the left side.
--   `ColumnRight` says to stop pushing the stage at 350 units from the right side, if it ever reaches it, then start drawing the stage. `ColumnRight = sum of ColumnWidth + sum of ColumnSpacing + extra right padding` (You should give some extra padding to show the health bar and to not have other elements drawn on top of the stage.)
--   `ColumnSpacing` says that the space between columns 0 and 1 will be 4 units apart, columns 1 and 2 will be 8 units apart, columns 1 and 2 will be 8 units apart, etc.
--   `ColumnLineWidth` says that column 0's left line width is 4 units while it's right line width is 3 units. Column 1's left line width shares column 0's right line width and will use 3 units while it's right line width is 6 units. This continues for columns 2, 3, and 4. However, column 4's right line with will be 4 units.
--   `ColumnWidth` says that columns 0, 1, 3, and 4 will have a width of 32 units while column 2 will have a column with of 48 units.
+- `ColumnStart` says to push the stage 99999 units from the left side.
+- `ColumnRight` says to stop pushing the stage at 350 units from the right side, if it ever reaches it, then start drawing the stage. `ColumnRight = sum of ColumnWidth + sum of ColumnSpacing + extra right padding` (You should give some extra padding to show the health bar and to not have other elements drawn on top of the stage.)
+- `ColumnSpacing` says that the space between columns 0 and 1 will be 4 units apart, columns 1 and 2 will be 8 units apart, columns 1 and 2 will be 8 units apart, etc.
+- `ColumnLineWidth` says that column 0's left line width is 4 units while it's right line width is 3 units. Column 1's left line width shares column 0's right line width and will use 3 units while it's right line width is 6 units. This continues for columns 2, 3, and 4. However, column 4's right line with will be 4 units.
+- `ColumnWidth` says that columns 0, 1, 3, and 4 will have a width of 32 units while column 2 will have a column with of 48 units.
 
 ### Barline (basic)
 
@@ -109,9 +104,9 @@ The keys have two states: idle and pressed. There are three variants of this ele
 
 By default, there are only three images that are used:
 
--   `mania-key1.png` (referred next as "1")
--   `mania-key2.png` (referred next as "2")
--   `mania-keyS.png` (referred next as "S")
+- `mania-key1.png` (referred next as "1")
+- `mania-key2.png` (referred next as "2")
+- `mania-keyS.png` (referred next as "S")
 
 The positioning of 1 and 2 depends on the key count and if the special style (explained below) is being used. S is used when the key count is odd (placed in the middle) or when a special style is used.
 
@@ -169,9 +164,9 @@ KeyImage0: mania/keyL
 KeyImage0D: mania/keyLD
 ```
 
--   `KeyImage0` says that the first column's key image (idle state) is located in a folder called `mania/` and the image name is `keyL`.
--   `KeyImage0D` says that the first column's key image (pressed state) is located in a folder called `mania/` and the image name is `keyLD`.
--   This similarly applies to the other columns, but only when playing with 5 keys.
+- `KeyImage0` says that the first column's key image (idle state) is located in a folder called `mania/` and the image name is `keyL`.
+- `KeyImage0D` says that the first column's key image (pressed state) is located in a folder called `mania/` and the image name is `keyLD`.
+- This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Notes (basic)
 
@@ -179,11 +174,11 @@ KeyImage0D: mania/keyLD
 
 Notes queue the player on when to press the correct key. Like the keys, there are only three images that are used:
 
--   `mania-note1.png` (referred next as "1")
--   `mania-note2.png` (referred next as "2")
--   `mania-noteS.png` (referred next as "S")
+- `mania-note1.png` (referred next as "1")
+- `mania-note2.png` (referred next as "2")
+- `mania-noteS.png` (referred next as "S")
 
-1, 2, and S are used based on their respected columns.
+1, 2, and S are used based on their respective columns.
 
 You can animate these by adding `-n` to the file name, where `n` is the frame number starting from 0.
 
@@ -246,25 +241,25 @@ To break that down, let's look at the first column, `NoteImage0`:
 NoteImage0: mania/left/note
 ```
 
--   `NoteImage0` says that the first column's note image is located in a folder called `mania/left/` and the image prefix name is `note`.
--   Since notes can be animated, the game client automatically check to see if an animation was supplied.
--   This similarly applies to the other columns, but only when playing with 5 keys.
+- `NoteImage0` says that the first column's note image is located in a folder called `mania/left/` and the image prefix name is `note`.
+- Since notes can be animated, the game client automatically check to see if an animation was supplied.
+- This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Hold notes (basic)
 
 Hold notes have three parts: a head, length, and tail. The head queues the player on when to press and hold the hold note, while the tail queues the player on when to release it (since releasing hold notes is also important in regards to scoring). By default, there are only nine images that are used:
 
--   `mania-note1H.png` (referred next as "1H")
--   `mania-note1L.png` (referred next as "1L")
--   `mania-note1T.png` (referred next as "1T")
--   `mania-note2H.png` (referred next as "2H")
--   `mania-note2L.png` (referred next as "2L")
--   `mania-note2T.png` (referred next as "2T")
--   `mania-noteSH.png` (referred next as "ST")
--   `mania-noteSL.png` (referred next as "SL")
--   `mania-noteST.png` (referred next as "SH")
+- `mania-note1H.png` (referred next as "1H")
+- `mania-note1L.png` (referred next as "1L")
+- `mania-note1T.png` (referred next as "1T")
+- `mania-note2H.png` (referred next as "2H")
+- `mania-note2L.png` (referred next as "2L")
+- `mania-note2T.png` (referred next as "2T")
+- `mania-noteSH.png` (referred next as "ST")
+- `mania-noteSL.png` (referred next as "SL")
+- `mania-noteST.png` (referred next as "SH")
 
-Like notes, 1H, 1L, 1T, 2H, 2L, 2T, ST, SL, and SH are used based on their respected columns.
+Like notes, 1H, 1L, 1T, 2H, 2L, 2T, ST, SL, and SH are used based on their respective columns.
 
 You can animate these by adding `-n` to the file name, where `n` is the frame number starting from 0.
 
@@ -362,11 +357,11 @@ NoteImage1L: mania/hold/down/long
 NoteImage1T: mania/hold/down/tail
 ```
 
--   `NoteImage1H` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `head`.
--   `NoteImage1L` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `long`.
--   `NoteImage1T` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `tail`.
--   Since hold notes can be animated, the game client automatically check to see if an animation was supplied.
--   This similarly applies to the other columns, but only when playing with 5 keys.
+- `NoteImage1H` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `head`.
+- `NoteImage1L` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `long`.
+- `NoteImage1T` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `tail`.
+- Since hold notes can be animated, the game client automatically check to see if an animation was supplied.
+- This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Stage (basic)
 
@@ -374,12 +369,12 @@ NoteImage1T: mania/hold/down/tail
 
 The stage is drawn 136 units from the left side of the screen. By default, there are only six images that are used:
 
--   `mania-warningarrow.png`
--   `mania-stage-hint.png`
--   `mania-stage-light.png`
--   `mania-stage-bottom.png`
--   `mania-stage-left.png`
--   `mania-stage-right.png`
+- `mania-warningarrow.png`
+- `mania-stage-hint.png`
+- `mania-stage-light.png`
+- `mania-stage-bottom.png`
+- `mania-stage-left.png`
+- `mania-stage-right.png`
 
 ---
 
@@ -439,8 +434,8 @@ To break that down, let's look at the stage bottom element, `StageBottom`:
 StageBottom: mania/4K/bottom
 ```
 
--   `StageBottom` says that the first stage bottom image is located in a folder called `mania/4K/` and the image prefix name is `bottom`.
--   This similarly applies to the other elements, but only when playing with 4 keys.
+- `StageBottom` says that the first stage bottom image is located in a folder called `mania/4K/` and the image prefix name is `bottom`.
+- This similarly applies to the other elements, but only when playing with 4 keys.
 
 ### Hit scores (basic)
 
@@ -504,9 +499,9 @@ To break that down, let's look at the miss hit score element, `Hit0`:
 Hit0: mania/4K/hit0
 ```
 
--   `Hit0` says to use the image located in `mania/4K/` and the image prefix name is `hit0`. Since the provided skinning elements has animation frames, osu! will display it as such.
--   This similarly applies to the other elements, but only when playing with 4 keys.
--   On the ranking screen, the default hit scores will be used.
+- `Hit0` says to use the image located in `mania/4K/` and the image prefix name is `hit0`. Since the provided skinning elements has animation frames, osu! will display it as such.
+- This similarly applies to the other elements, but only when playing with 4 keys.
+- On the ranking screen, the default hit scores will be used.
 
 ### Comboburst (basic)
 
@@ -520,10 +515,10 @@ Using `ComboBurstStyle`, you can set which side of the stage the osu!mania combo
 
 osu!mania has a few specific mod icons that you can skin:
 
--   Fade In
--   xK
--   Co-Op
--   Random
+- Fade In
+- xK
+- Co-Op
+- Random
 
 On a side note, there was a mod called Fade Out which replaced the Hidden mod icon when osu!mania was the set game mode, but this was removed from the game. You could skin the hidden mod icon to make it appear as Fade Out, but this may look weird when playing in other game modes.
 
@@ -531,10 +526,10 @@ On a side note, there was a mod called Fade Out which replaced the Hidden mod ic
 
 The following elements are used with other parts of osu!:
 
--   scorebar and all its files
--   combo numbers
--   score numbers
--   mod icons, except the mode-specific mods
+- scorebar and all its files
+- combo numbers
+- score numbers
+- mod icons, except the mode-specific mods
 
 ## Playfield design
 
@@ -558,12 +553,12 @@ To centre the osu!mania stage, use the following equation to set `ColumnStart`.
 
 `ColumnStart = ((480 * screenWidth / screenHeight) - (columnWidths + ColumnSpacings)) / 2`.
 
--   `screenWidth` = the game client's width (or the ratio aspect width)
--   `screenHeight` = the game client's height (or the ratio aspect height)
--   `columnWidths` = sum of `ColumnWidth`
--   `ColumnSpacings` = sum of `ColumnSpacing`
+- `screenWidth` = the game client's width (or the ratio aspect width)
+- `screenHeight` = the game client's height (or the ratio aspect height)
+- `columnWidths` = sum of `ColumnWidth`
+- `ColumnSpacings` = sum of `ColumnSpacing`
 
-*Notice: You will need to round the number to make it an integer. Because of this, the stage may be off by a unit to the left or right. In most cases, this will not be very noticiable.*
+*Notice: You will need to round the number to make it an integer. Because of this, the stage may be off by a unit to the left or right. In most cases, this will not be very noticeable.*
 
 ### Adding a lane cover
 
