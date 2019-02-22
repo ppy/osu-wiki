@@ -10,7 +10,7 @@ osu! dan komunitasnya merayakan ulang tahun ke-5 osu! pada 2012-09-17. Selama wa
 
 Tautan terkait:
 
-- [Five Years of osu! (Forum topik)](http://osu.ppy.sh/forum/t/98349)
+- [Five Years of osu! (Forum topik)](https://osu.ppy.sh/community/forums/topics/98349)
 
 ## Oktober
 
@@ -18,9 +18,9 @@ Tautan terkait:
 
 ![](img/2012-10_02.jpg "Hitsound per-objek seperti yang terlihat di sebelah kiri editor")
 
-Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](/users/1105845))! Selain itu:
+Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](https://osu.ppy.sh/users/1105845))! Selain itu:
 
--   Hitsound per objek ditambahkan ke dalam editor. ([mm201](/users/30655))
+-   Hitsound per objek ditambahkan ke dalam editor. ([mm201](https://osu.ppy.sh/users/30655))
 -   Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/SD) atau [Perfect](/wiki/PF) diaktifkan)
 -   Dukungan scrolling ke daftar peringkat online dalam game.
 -   Perbaikan pada [pemilih skin](/wiki/Options#skin) untuk membuatnya bermain lebih realistis.
@@ -33,7 +33,7 @@ Trivia: Untuk pemain yang memasuki lobi Multi sebelum memperbarui ke versi b2012
 
 Tautan terkait:
 
-- [osu! versi (b20121008): osu!mania (Forum topik)](http://osu.ppy.sh/forum/p/1825880)
+- [osu! versi (b20121008): osu!mania (Forum topik)](https://osu.ppy.sh/community/forums/posts/1825880)
 
 ---
 
@@ -53,7 +53,7 @@ Overlay status tombol dianggap sebagai penambahan yang bagus. Sekarang, Anda ben
 
 Tautan terkait:
 
-- [osu! Versi (b20121029) (Forum topik)](http://osu.ppy.sh/forum/t/103427)
+- [osu! Versi (b20121029) (Forum topik)](https://osu.ppy.sh/community/forums/topics/103427)
 
 ## November
 
@@ -61,7 +61,7 @@ Pada 2012-11-13, **peringkat osu!mania telah diimplementasikan beserta dengan pe
 
 Tautan terkait:
 
-- [Penyetelan Ulang Skor osu!mania (Forum topik)](http://osu.ppy.sh/forum/t/105564)
+- [Penyetelan Ulang Skor osu!mania (Forum topik)](https://osu.ppy.sh/community/forums/topics/105564)
 
 ---
 
@@ -79,7 +79,7 @@ Tombol "Quick Button" ditambahkan ke lobi Multi di mana Anda secara acak akan be
 
 Tautan terkait:
 
-- [osu! Versi Rilis Publik (b20121122) (Forum topik)](http://osu.ppy.sh/forum/t/106677)
+- [osu! Versi Rilis Publik (b20121122) (Forum topik)](https://osu.ppy.sh/community/forums/topics/106677)
 
 ## Desember
 
@@ -97,7 +97,7 @@ Masalah teknis dan bug telah diprediksi dari awal. Dukungan widescreen, meskipun
 
 Tautan terkait:
 
-- [osu! Versi Rilis Publik (b20121221) (Forum topik)](http://osu.ppy.sh/forum/t/110459)
+- [osu! Versi Rilis Publik (b20121221) (Forum topik)](https://osu.ppy.sh/community/forums/topics/110459)
 
 ---
 
@@ -105,4 +105,4 @@ Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. 
 
 Tautan terkait:
 
-- [Hari Natal (peningkatan bancho + osu!direct gratis) (Forum topik)](http://osu.ppy.sh/forum/p/2005499)
+- [Hari Natal (peningkatan bancho + osu!direct gratis) (Forum topik)](https://osu.ppy.sh/community/forums/posts/2005499)

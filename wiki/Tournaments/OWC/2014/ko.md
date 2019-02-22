@@ -6,7 +6,7 @@ osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
-**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/g/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
+**osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/groups/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
 저번 우승자는 **![][flag_KR] 대한민국** 입니다..
 
@@ -51,7 +51,7 @@ osu! World Cup 2014
 
 -   [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive/)
 -   [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [토론 장소](https://osu.ppy.sh/forum/p/3410198)
+-   [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
 
 ------------------------------------------------------------------------
 

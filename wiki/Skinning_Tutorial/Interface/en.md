@@ -16,13 +16,13 @@ This is the only skin element that must be in `JPG` format. You can easily chang
 _Default skin_
 
 [![](pr/menu-background_1.jpg)](fs/menu-background_1.jpg "Click to view full size")
-_[Minimalist Miku](https://osu.ppy.sh/forum/t/202277)_
+_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
 
 [![](pr/menu-background_2.jpg)](fs/menu-background_2.jpg "Click to view full size")
-_[NeonFX](https://osu.ppy.sh/forum/t/316252)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 
 [![](pr/menu-background_3.jpg)](fs/menu-background_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/forum/t/365036)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 ### Snow
 
@@ -73,13 +73,13 @@ You can add patterns/objects to it; but remember that in some places, the button
 _Default skin_
 
 [![](pr/buttons_1.jpg)](fs/buttons_1.jpg "Click to view full size")
-_[NeonFX](https://osu.ppy.sh/forum/t/316252)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 
 [![](pr/buttons_2.jpg)](fs/buttons_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
+_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
 
 [![](pr/buttons_3.jpg)](fs/buttons_3.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/forum/t/275801)_
+_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
 ## Song Selection
 
@@ -109,13 +109,13 @@ While making a menu-button-background you must consider some of these things:
 _Default skin_
 
 [![](pr/menu-button-background_1.jpg)](fs/menu-button-background_1.jpg "Click to view full size")
-_[Ib](https://osu.ppy.sh/forum/t/360413)_
+_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
 
 [![](pr/menu-button-background_2.jpg)](fs/menu-button-background_2.jpg "Click to view full size")
-_[Quadrilato-don](https://osu.ppy.sh/forum/t/346897)_
+_[Quadrilato-don](https://osu.ppy.sh/community/forums/topics/346897)_
 
 [![](pr/menu-button-background_3.jpg)](fs/menu-button-background_3.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/forum/t/275801)_
+_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
 ### Back Button
 
@@ -128,13 +128,13 @@ You can also animate it.
 _Default skin_ (note: this, itself, isn't an image)
 
 ![](fs/menu-back_1.gif)
-_[Minimalist Miku](https://osu.ppy.sh/forum/t/202277) (65 frames)_
+_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277) (65 frames)_
 
 ![](fs/menu-back_2.gif)
-_[Soda](https://osu.ppy.sh/forum/t/220809) (4 frames)_
+_[Soda](https://osu.ppy.sh/community/forums/topics/220809) (4 frames)_
 
 ![](fs/menu-back_3.gif)
-_[Yugen](https://osu.ppy.sh/forum/t/365036) (59 frames)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036) (59 frames)_
 
 ### Selection Buttons
 
@@ -146,13 +146,13 @@ These buttons are only visible on the beatmap selection page.
 _Default skin_
 
 ![](fs/selection_1.gif)
-_[Azure Fusion](https://osu.ppy.sh/forum/t/209792)_
+_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
 
 ![](fs/selection_2.gif)
-_[Ib](https://osu.ppy.sh/forum/t/360413)_
+_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
 
 ![](fs/selection_3.gif)
-_[NeonFX](https://osu.ppy.sh/forum/t/316252)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 
 ### Selection Tabs
 
@@ -165,13 +165,13 @@ The number of tabs that appear (4 or 5 tabs) is dependent on the osu!client's wi
 _Default skin_
 
 ![](fs/selection-tab_1.jpg)
-_[Quadrilate-Don](https://osu.ppy.sh/forum/t/346897)_
+_[Quadrilate-Don](https://osu.ppy.sh/community/forums/topics/346897)_
 
 ![](fs/selection-tab_2.jpg)
-_[TECHNOCANDY](https://osu.ppy.sh/forum/t/321844)_
+_[TECHNOCANDY](https://osu.ppy.sh/community/forums/topics/321844)_
 
 ![](fs/selection-tab_3.jpg)
-_[Umi](https://osu.ppy.sh/forum/t/345180)_
+_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
 
 ### Star
 
@@ -190,13 +190,13 @@ The higher the star rating goes the larger they get scaled up.
 _Default skin_
 
 ![](fs/star_1.jpg)
-_[Ib](https://osu.ppy.sh/forum/t/360413)_
+_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
 
 ![](fs/star_2.jpg)
-_[Touhou Project Chibi](https://osu.ppy.sh/forum/t/275801)_
+_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
 ![](fs/star_3.jpg)
-_[Unbreakable Machine-Doll](https://osu.ppy.sh/forum/t/162662)_
+_[Unbreakable Machine-Doll](https://osu.ppy.sh/community/forums/topics/162662)_
 
 ### Star2
 
@@ -233,13 +233,13 @@ You can change the icon's size, but remember that too big icons might overlap wi
 _Default skin_
 
 [![](pr/mod-icons_1.jpg)](fs/mod-icons_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/forum/t/209792)_
+_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
 
 [![](pr/mod-icons_2.jpg)](fs/mod-icons_2.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/forum/t/275801)_
+_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
 [![](pr/mod-icons_3.jpg)](fs/mod-icons_3.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/forum/t/220809)_
+_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
 
 ### Scorebar
 
@@ -296,7 +296,7 @@ It is also important to note that this version was intended for 4:3 ratio aspect
 _Default skin (v1.0)_
 
 [![](pr/countdown-v1_1.gif "Click to view full size")](fs/countdown-v1_1.gif)
-_[Reisen Udongein Inaba](https://osu.ppy.sh/forum/t/34563)_
+_[Reisen Udongein Inaba](https://osu.ppy.sh/community/forums/topics/34563)_
 
 
 **For skinning versions 2.0+**
@@ -311,7 +311,7 @@ There are no size restrictions, so you can try to make something different than 
 _Default skin (v2.0+)_
 
 [![](pr/countdown-v2_1.gif "Click to view full size")](fs/countdown-v2_1.gif)
-_[Minimalist Miku](https://osu.ppy.sh/forum/t/202277)_
+_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
 
 ### Pause Screen
 
@@ -330,13 +330,13 @@ These aren't restricted by size and their clickable area is the resolution of th
 _Default skin_
 
 [![](pr/pause-screen_1.jpg)](fs/pause-screen_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/forum/t/209792)_
+_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
 
 [![](pr/pause-screen_2.jpg)](fs/pause-screen_2.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/forum/t/220809)_
+_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
 
 [![](pr/pause-screen_3.jpg)](fs/pause-screen_3.jpg "Click to view full size")
-_[Umi](https://osu.ppy.sh/forum/t/345180)_
+_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
 
 #### Fail Screen
 
@@ -349,13 +349,13 @@ A notable difference is that it only uses the pause-retry, pause-back buttons (d
 _Default skin_
 
 [![](pr/fail-screen_1.jpg)](fs/fail-screen_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/forum/t/209792)_
+_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
 
 [![](pr/fail-screen_2.jpg)](fs/fail-screen_2.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/forum/t/220809)_
+_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
 
 [![](pr/fail-screen_3.jpg)](fs/fail-screen_3.jpg "Click to view full size")
-_[Umi](https://osu.ppy.sh/forum/t/345180)_
+_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
 
 ### Score numbers
 
@@ -381,13 +381,13 @@ not the combo numbers (assuming you only modify the score numbers, the combo num
 _Default skin_
 
 ![](fs/score_1.jpg)
-_[Azure Fusion](https://osu.ppy.sh/forum/t/209792)_
+_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
 
 ![](fs/score_2.jpg)
-_[NeonFX](https://osu.ppy.sh/forum/t/316252)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 
 ![](fs/score_3.jpg)
-_[Northern Ocean Hime](https://osu.ppy.sh/forum/t/319797)_
+_[Northern Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797)_
 
 #### Score commna
 
@@ -427,13 +427,13 @@ Where positive integers will move the numbers closer to each other, while negati
 _Default skin_
 
 ![](fs/combo_1.jpg)
-_[Hanami](https://osu.ppy.sh/forum/t/256243)_
+_[Hanami](https://osu.ppy.sh/community/forums/topics/256243)_
 
 ![](fs/combo_2.jpg)
-_[Quadrilate-don](https://osu.ppy.sh/forum/t/346897)_
+_[Quadrilate-don](https://osu.ppy.sh/community/forums/topics/346897)_
 
 ![](fs/combo_3.jpg)
-_[Soda](https://osu.ppy.sh/forum/t/220809)_
+_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
 
 
 ### FPS
@@ -453,17 +453,17 @@ This element is displayed when a certain game mod is enabled (auto/relax/coop/et
 
 As a sugguestion, make sure that this image still reads "unranked" to let the user know that the play is unranked.
 
-![](fs/unranked_0.jpg) 
+![](fs/unranked_0.jpg)
 Default skin
 
 ![](fs/unranked_1.jpg)
-_[NeonFX](https://osu.ppy.sh/forum/t/316252)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 
 ![](fs/unranked_2.jpg)
-_[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
+_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
 
 ![](fs/unranked_3.jpg)
-_[Yugen](https://osu.ppy.sh/forum/t/365036)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 #### Skip
 
@@ -475,13 +475,13 @@ This can be animated.
 _Default skin_
 
 ![](fs/skip_1.gif)
-_[NeonFX](https://osu.ppy.sh/forum/t/316252) (23 frames)_
+_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252) (23 frames)_
 
 [![](pr/skip_2.jpg)](fs/skip_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
+_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
 
 [![](pr/skip_3.jpg)](fs/skip_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/forum/t/365036)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 #### Warning Arrow
 
@@ -550,13 +550,13 @@ This is the image that appears when you **fail** a section.
 Failing a section is determined whether if you have **less than 50%** of life (on the scorebar) before break.
 These don't have a size restriction, so feel free to make them bigger than the default!
 
-![](fs/failed_0.jpg) 
+![](fs/failed_0.jpg)
 _(unknown)_
 
-![](fs/failed_1.jpg) 
+![](fs/failed_1.jpg)
 _(unknown)_
 
-![](fs/failed_2.jpg) 
+![](fs/failed_2.jpg)
 _Alice Margatroid_
 
 ![](fs/failed_3.jpg)
@@ -574,7 +574,7 @@ Note that this can be disabled in the [options](/wiki/Options/)!
 _Default skin_
 
 ![](fs/input-overlay_1.png)
-_[Yugen](https://osu.ppy.sh/forum/t/365036)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 In the [skin.ini](/wiki/Skinning/Skin.ini/en.md), there is an option under the `[Colours]` section called `InputOverlayText`.
 This defines the input overlay's text colour.
@@ -606,20 +606,20 @@ Using the image above, here are the meanings:
 | 5           | Ranking-perfect                | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning.                                                                                                                                                                                                                                                                 |
 | 6           | Ranking-title                  | Title of this screen. Should say "RANK" or "Your Rank".                                                                                                                                                                                                                                                                                                                                       |
 | 7           | Ranking-winner                 | A small box that shows winner of multiplayer match.                                                                                                                                                                                                                                                                                                                                           |
-| 8           | Ranking-panel                  | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/s/972), just check out someone's score). |
+| 8           | Ranking-panel                  | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
 | 9           | Mod icons                      | This is where the enabled mod icons go                                                                                                                                                                                                                                                                                                                                                        |
 
 [![](pr/ranking-screen_0.jpg)](fs/ranking-screen_0.jpg "Click to view full size")
 _Default skin_
 
 [![](pr/ranking-screen_1.jpg)](fs/ranking-screen_1.jpg "Click to view full size")
-_[Minimalist Miku](https://osu.ppy.sh/forum/t/202277)_
+_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
 
 [![](pr/ranking-screen_2.jpg)](fs/ranking-screen_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
+_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
 
 [![](pr/ranking-screen_3.jpg)](fs/ranking-screen_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/forum/t/365036)_
+_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 #### Ranking letters
 

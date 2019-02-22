@@ -83,7 +83,7 @@
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
-| ![][flag_CH] [Irreversible](https://new.ppy.sh/users/1287964) | QAT |
+| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |

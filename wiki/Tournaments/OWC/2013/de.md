@@ -6,7 +6,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-Das osu! World Cup 2013 ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Das Turnier fand vom 15. Okt. 2013 bis zum 08. Dez. 2013 statt.
+Das osu! World Cup 2013 ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Das Turnier fand vom 15. Okt. 2013 bis zum 08. Dez. 2013 statt.
 
 Der vorherige Titelträger ist **![][flag_KR] Südkorea**.
 
@@ -36,7 +36,7 @@ Preise
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                          |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                           |
 
@@ -56,7 +56,7 @@ Organisation
 Links
 ------------
 
--   [Diskussionsthread](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 -   [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts)
 -   [Statistik](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
 

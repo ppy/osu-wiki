@@ -1,10 +1,10 @@
 # ¿De verdad quieres preguntarle a peppy?
 
-Hola. Yo, ([peppy](/users/2)), entiendo su impulso de querer contactarme personalmente, pero les pido que primero comprendan que este **no** es el lugar por donde querrias pedir ayuda/apoyo. Mantengo el soporte de osu! separado de los mensajes personales, y también encuentro que responder a los mensajes privados del foro es bastante difícil de seguir. Por lo tanto, les pido que hagan una de las siguientes opciones:
+Hola. Yo, ([peppy](https://osu.ppy.sh/users/2)), entiendo su impulso de querer contactarme personalmente, pero les pido que primero comprendan que este **no** es el lugar por donde querrias pedir ayuda/apoyo. Mantengo el soporte de osu! separado de los mensajes personales, y también encuentro que responder a los mensajes privados del foro es bastante difícil de seguir. Por lo tanto, les pido que hagan una de las siguientes opciones:
 
 ## Soporte técnico
 
-La mayoría de los problemas técnicos se pueden resolver buscando o publicando en el [foro de soporte técnico](/community/forums/5). Hay muchos otros ahí para ayudarte con sus problemas, por lo que encontrará una solución más rápido que ponerse en contacto conmigo.
+La mayoría de los problemas técnicos se pueden resolver buscando o publicando en el [foro de soporte técnico](https://osu.ppy.sh/community/forums/5). Hay muchos otros ahí para ayudarte con sus problemas, por lo que encontrará una solución más rápido que ponerse en contacto conmigo.
 
 ## Soporte general de osu!
 

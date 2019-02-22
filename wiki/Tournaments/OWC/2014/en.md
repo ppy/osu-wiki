@@ -46,7 +46,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 
@@ -91,7 +91,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Groups
 
-| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | 
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BR] Brazil | ![][flag_LT] Lithuania | ![][flag_CA] Canada | ![][flag_FI] Finland | ![][flag_CN] China |
 | ![][flag_IT] Italy | ![][flag_AT] Austria | ![][flag_CL] Chile | ![][flag_JP] Japan | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_SG] Singapore | ![][flag_DK] Denmark|

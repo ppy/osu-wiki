@@ -21,7 +21,7 @@ Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disp
 
 ### Lo Básico del Juego
 
-`Tutorial: `[`Tutorial` `Origina` `(Incluido` `en` `la` `versión` `de` `osu!` `para` `PC)`](http://osu.ppy.sh/s/3756)`, `[`Version` `Rankeada` `del` `beatmap`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`Tutorial` `Origina` `(Incluido` `en` `la` `versión` `de` `osu!` `para` `PC)`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Version` `Rankeada` `del` `beatmap`](https://osu.ppy.sh/beatmapsets/19928)
 
 El juego pone énfasis en:
 
@@ -136,9 +136,9 @@ Como en osu! standard, existen tres elementos en el juego.
 
 Los controles por defecto del modo Taiko son:
 
-`Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.`
-`Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.`
-`El lugar del cursor de osu! no importa cuando juegas.`
+`Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.`
+`Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.`
+`El lugar del cursor de osu! no importa cuando juegas.`
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.
 
@@ -285,7 +285,7 @@ Notas
 -   Las notas que obtienes se establecen en tu página de perfil bajo General-&gt;Ranks siempre y cuando estés "online" cuando recibas la nota.
     -   **Jugar Offline** incluso si tu cuenta está "loggeada" **no cuenta**.
 
-`NOTA : Mientras estes jugando de manera "Offline" tus puntuaciones no podrán ser guardadas. `
+`NOTA : Mientras estes jugando de manera "Offline" tus puntuaciones no podrán ser guardadas. `
 
 -   **Las notas dadas a tu perfil dependen de la dificultad, no del betmap en conjunto.**
     -   Por ejemplo, si el beatmap tiene 3 dificultades, y tienes SS en las tres, recibirás 3 SS y no solo una SS en tu perfil.
@@ -298,7 +298,7 @@ Problemas y Preguntas Frecuentes
 
 *Explicación detallada de los beatmaps: [Beatmaps](ES:Beatmaps "wikilink")*
 
-Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
+Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)".
 
 -   Solo recuerda loggearte en tu cuenta de osu! de antemano o el servidor te tratará de invitado y te prohibirá descargar beatmaps desde el sitio web.
 
@@ -310,11 +310,11 @@ No, porque a diferencia del video, estos son integrados en el juego (como parte 
 ¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
 -------------------------------------------------------------------------------------
 
-Pokebis ha compilado un conjunto de beatmaps adecuados para principiantes. Puedes encontrarlos aquí: <http://osu.ppy.sh/forum/t/5456>
+Pokebis ha compilado un conjunto de beatmaps adecuados para principiantes. Puedes encontrarlos aquí: <https://osu.ppy.sh/community/forums/topics/5456>
 
-Además, [la versión rankeada del beatmap del tutorial de osu!](http://osu.ppy.sh/s/19928)\] es buena para practicar algunos de los posibles diseños de mapping que encontrarás. Es un excelente beatmap de entrenamiento para jugadores principiantes y experimentados.
+Además, [la versión rankeada del beatmap del tutorial de osu!](https://osu.ppy.sh/beatmapsets/19928)\] es buena para practicar algunos de los posibles diseños de mapping que encontrarás. Es un excelente beatmap de entrenamiento para jugadores principiantes y experimentados.
 
-Alternativamente, puedes [ordenar la lista de betmaps rankeados por dificultad](http://osu.ppy.sh/?p=beatmaplist&s=3). Los beatmaps más fáciles están encima de la lista.
+Alternativamente, puedes [ordenar la lista de betmaps rankeados por dificultad](https://osu.ppy.sh/?p=beatmaplist&s=3). Los beatmaps más fáciles están encima de la lista.
 
 ¿Qué hace el nivel de mi perfil realmente?
 ------------------------------------------
@@ -344,7 +344,7 @@ Créditos
 ========
 
 -   FAQ viejo de peppy
--   Peter Lambert - osu! tutorial ([Tutorial original](http://osu.ppy.sh/s/3756), [Versión rankeada](http://osu.ppy.sh/s/19928))
--   Entrenamiendo para principiantes de Pokebis [1](http://osu.ppy.sh/forum/t/5456)
+-   Peter Lambert - osu! tutorial ([Tutorial original](https://osu.ppy.sh/beatmapsets/3756), [Versión rankeada](https://osu.ppy.sh/beatmapsets/19928))
+-   Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)

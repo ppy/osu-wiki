@@ -4,7 +4,7 @@ _Halaman utama: [osu!tourney](/wiki/osu!tourney)_
 
 **Catatan:** Saat ini supporter tag yang aktif diperlukan untuk menjalankan klien osu!tourney.
 
-Penggunaan **klien osu! yang masih baru** sangat disarankan. Hal ini dikarenakan database lagu mungkin mengalami kerusakan. Anda dapat memiliki beberapa klien osu!, tapi simpan di folder terpisah. 
+Penggunaan **klien osu! yang masih baru** sangat disarankan. Hal ini dikarenakan database lagu mungkin mengalami kerusakan. Anda dapat memiliki beberapa klien osu!, tapi simpan di folder terpisah.
 Untuk melakukannya, salin `osu!.exe` ke folder kosong dan jalankan. Klien osu! baru akan dibuat. Proses ini adalah satu-satunya pemasangan yang perlu dimodifikasi.
 
 Buka osu! dan masuk, centang kotak 'Ingat Nama Pengguna' dan kotak 'Ingat Kata Sandi'.

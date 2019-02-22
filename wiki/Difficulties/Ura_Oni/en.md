@@ -11,12 +11,12 @@ These difficulties are **equal to Oni**, yet, are considered as extra Oni and re
 Examples
 --------
 
-[Zeami - Music Revolver (Inner Oni) (KanaRin)](http://osu.ppy.sh/b/162520)
+[Zeami - Music Revolver (Inner Oni) (KanaRin)](https://osu.ppy.sh/beatmaps/162520)
 
 -   The Inner Oni is the "real" Oni in this map-set.
 -   The Oni is only an addition for lower players.
 
-[Hatsune Miku - Hatsune Miku no Shoushitsu -Gekijouban- (Inner Oni) (mint_ong89)](http://osu.ppy.sh/b/158904)
+[Hatsune Miku - Hatsune Miku no Shoushitsu -Gekijouban- (Inner Oni) (mint_ong89)](https://osu.ppy.sh/beatmaps/158904)
 
 -   The Inner Oni is the "real" Oni in this map-set.
 -   The Oni is only an addition for lower players.

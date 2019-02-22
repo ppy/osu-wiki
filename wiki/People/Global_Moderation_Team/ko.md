@@ -12,7 +12,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 
 ## 팀 구성원
 
-*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [팀 페이지](http://osu.ppy.sh/groups/4)
+*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [팀 페이지](https://osu.ppy.sh/groups/4)
 
 | 이름 | 언어 | 주요 활동 |
 | :-- | :-- | :-- |
@@ -51,7 +51,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 스웨덴어, 스페인어 | 채팅 관리 |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 프랑스어, 스페인어 | 채팅 관리 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 인도네시아어 | 채팅 관리 |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 헝가리어 | 채팅 관리 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 독일어 | 채팅 관리, 포럼 관리 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 러시아어 | 채팅 관리 |

@@ -21,7 +21,7 @@ como a maioria dos usuários de computadores não possuem tela touchscreen, o jo
 
 ### Básico sobre a Jogabilidade
 
-`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](http://osu.ppy.sh/s/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](https://osu.ppy.sh/beatmapsets/19928)
 
 A Jogabilidade tem foco em testar seus sentidos em:-
 
@@ -133,8 +133,8 @@ O que é "Taiko"?
 
 Os comandos padrão para o modo taiko são:
 
-`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
-`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
+`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
+`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
 
 O local onde o cursor fica não faz diferença em quanto joga
 
@@ -328,7 +328,7 @@ Onde eu encontro beatmaps para baixar?
 
 *Explicação detalhada sobre beatmaps: [Beatmaps](PT:Beatmaps "wikilink")*
 
-Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
+Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)".
 
 -   Para baixar beatmaps é necessário ter uma conta valida e logada. o servidor não libera download de beatmaps para usuários não registrados
 
@@ -340,11 +340,11 @@ Não. Diferente do vídeo, kiai é integrado ao jogo (como seu fosse um hit obje
 Os maps são muito difíceis! Onde eu acho os maps mais fáceis?
 -------------------------------------------------------------
 
-Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <http://osu.ppy.sh/forum/t/5456>
+Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <https://osu.ppy.sh/community/forums/topics/5456>
 
-E também [versão não-oficial ranqueada do tutorial osu! tutorial](http://osu.ppy.sh/s/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
+E também [versão não-oficial ranqueada do tutorial osu! tutorial](https://osu.ppy.sh/beatmapsets/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
 
-Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](http://osu.ppy.sh/?p=beatmaplist&s=3). Os maps mais fáceis estão no topo da lista
+Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](https://osu.ppy.sh/?p=beatmaplist&s=3). Os maps mais fáceis estão no topo da lista
 
 O que o Level em meu perfil faz??
 ---------------------------------
@@ -366,8 +366,8 @@ Certifique-se de que a tecla de fumaça/escrita/desenho não esta próxima das t
 Créditos
 ========
 
--   FAQ do peppy[1](http://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](http://osu.ppy.sh/s/3756), [Tutorial não-oficial Ranqueado](http://osu.ppy.sh/s/19928))
--   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
+-   FAQ do peppy[1](https://osu.ppy.sh/p/faq)
+-   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
+-   Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)

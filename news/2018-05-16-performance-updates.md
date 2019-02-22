@@ -22,7 +22,7 @@ Until recently, we have not been marking inactive players (no score recorded in 
 
 Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42) [#2](https://github.com/ppy/osu-performance/pull/47)). For a full explanation along with historical context, check out [Toy's write-up](https://docs.google.com/document/d/1pY9rtz9lUxjbBYg4aR_Jh1YdXDIlf1vnfVptdp8Dth0/edit), but here are the quick points you should know:
 
-- The aim bonus the Hidden mod is reduced. Maps that features more jumps or higher jump spacing have been nerfed. 
+- The aim bonus the Hidden mod is reduced. Maps that features more jumps or higher jump spacing have been nerfed.
 - This aim reduction is linear based on the approach rate of the map. Higher AR means a smaller aim bonus than lower AR for the same pattern.
 - The speed bonus for the Hidden mod has been increased. Streams are calculated under the speed category, and now more spaced streams have been buffed slightly.
 - This is NOT an absolute nerf to Hidden as a whole, it is the beginning of a rework in how the mod affects the formula as a whole.
@@ -30,7 +30,7 @@ Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42
 
 ## osu!mania
 
-One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/u/Shoegazer)'s proposal.
+One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/users/Shoegazer)'s proposal.
 
 This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before. Summarised:
 

@@ -13,7 +13,7 @@ Damit eine Beatmap von einem [BAT](/wiki/People/Beatmap_Nomination_Group) gerank
 
 ### mode-spezifische Bubbles
 
-Mode-spezifische Bubbles sind Bubbles, die für bestimmte Modes in einem Hybrid-Mapset gelten. Die Kriterien, um einen dieser Bubbles zu bekommen, sind in den jeweiligen [Ranking Kriterien](/wiki/Ranking_Criteria) geregelt, jedoch können nur die BATs \[Zitierung\\ notwendig\], die für den jeweiligen Mode zuständig sind, sie erteilen. Eine Liste mit den verfügbaren BATs finden sie unter [diesem Artikel](/wiki/People/Beatmap_Nomination_Group) oder in [diesem Beitrag](https://osu.ppy.sh/forum/p/2430411).
+Mode-spezifische Bubbles sind Bubbles, die für bestimmte Modes in einem Hybrid-Mapset gelten. Die Kriterien, um einen dieser Bubbles zu bekommen, sind in den jeweiligen [Ranking Kriterien](/wiki/Ranking_Criteria) geregelt, jedoch können nur die BATs \[Zitierung\\ notwendig\], die für den jeweiligen Mode zuständig sind, sie erteilen. Eine Liste mit den verfügbaren BATs finden sie unter [diesem Artikel](/wiki/People/Beatmap_Nomination_Group) oder in [diesem Beitrag](https://osu.ppy.sh/community/forums/posts/2430411).
 
 geplatzte Bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 ------------------------------------------------------------------------------------

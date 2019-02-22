@@ -16,20 +16,20 @@ Vantagens de ser osu!supporter
 -   osu!direct (download de beatmaps dentro do jogo)
 -   Acesso ao multiplayer quando usar a versão de testes do osu!.
 -   [Console de Chat](PT:Chat_Console "wikilink"): Nome em <span style="color:#FFC700">Amarelo</span> (para outros, você se vê com nome branco, como de costume).
--   [Lista de Beatmaps](http://osu.ppy.sh/p/beatmaplist) (?): Filtra buscas de beatmaps por jogado e não jogado.
--   [ Edição da Skin](PT:Skinning "wikilink"): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](http://osu.ppy.sh/forum/t/96949), osu!direct ou multi.
+-   [Lista de Beatmaps](https://osu.ppy.sh/p/beatmaplist) (?): Filtra buscas de beatmaps por jogado e não jogado.
+-   [ Edição da Skin](PT:Skinning "wikilink"): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](https://osu.ppy.sh/community/forums/topics/96949), osu!direct ou multi.
     -   Especificamente, `menu-background.jpg` (Menu Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triângulos); `welcome.wav` (Som de Boas Vindas); `seeya.wav` (Som de Saída)
 
 <!-- -->
 
--   [Feature Requests](http://osu.ppy.sh/forum/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
 -   [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
--   Seu Perfil: <http://osu.ppy.sh/u/>
+-   Seu Perfil: <https://osu.ppy.sh/users/>
     -   Você pode adicionar uma pagina do usuário no seu perfil.
         -   Sua pagina do usuário não será deletada quando osu!supporter expirar.
     -   A Habilidade de [mudar seu nome de usuário](https://osu.ppy.sh/p/profile-username/) (uma vez por conta. Você não poderá usar novamente, com raras exceções)
     -   Aumento do limite de submissão de beatmaps (até 10 maps pendentes no total).
--   [Ranking de Performance](http://osu.ppy.sh/p/pp): Permite o comando "mostrar apenas amigos".
+-   [Ranking de Performance](https://osu.ppy.sh/p/pp): Permite o comando "mostrar apenas amigos".
 -   Mais por vir
 
 Negociação
@@ -69,4 +69,4 @@ Aqui, você terá varias formas de doação. É recomendado que use [PayPal](htt
 Duração
 -------
 
-<img src="O!s Duration.jpg" title="fig:Comparação entre osu!supporter ativo e inativo." alt="Comparação entre osu!supporter ativo e inativo." width="200" /> Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](http://osu.ppy.sh/p/support).
+<img src="O!s Duration.jpg" title="fig:Comparação entre osu!supporter ativo e inativo." alt="Comparação entre osu!supporter ativo e inativo." width="200" /> Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](https://osu.ppy.sh/p/support).

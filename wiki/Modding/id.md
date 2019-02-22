@@ -26,7 +26,7 @@ Bagaimana Melakukan Modding?
 Hal-Hal Yang Perlu Diperhatikan Dalam Modding
 ---------------------------------------------
 
--   Baca [1](http://osu.ppy.sh/?p=faq&n=10) dan [2](http://osu.ppy.sh/forum/viewtopic.php?f=6&t=439) sebelum kita melakukan modding untuk pertama kali.
+-   Baca [1](https://osu.ppy.sh/?p=faq&n=10) dan [2](https://osu.ppy.sh/forum/viewtopic.php?f=6&t=439) sebelum kita melakukan modding untuk pertama kali.
 -   Hal yang paling penting dan kerap dilupakan dalam modding adalah menyertakan alasan kepada setiap hal yang kita sebutkan. Ingat, tujuan kita memoding adalah membantu mapper menjadi lebih baik dalam mapnya. Jika kita tidak menyertakan alasan, biasanya mapper akan mengabaikan saran kita, dan kemungkinan besar tidak akan mengerti apa yang kita utarakan.
 -   Hal yang paling mudah dan paling sering dilakukan pertama kali adalah mencek kesalahan pada folder lagu, seperti bitrate mp3, ukuran gambar, ukuran filesize, dan file-file yang seharusnya tidak termasuk di dalam folder lagu.
 -   Perlu di ingat bahwa ukuran bitrate mp3 harus diantara 128kbps-192kbps, ukuran gambar sebaiknya di antara 800x600-1024x780. Kita juga bisa memberitahu mapper untuk mengcompress gambar jika ada file gambar yang ukurannya cukup besar (sekitar 500kb-1mb)

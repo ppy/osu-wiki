@@ -19,16 +19,16 @@ Bancho 에 인증 방법
 
 먼저 이와같은 메세지가 나타납니다.
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+`* Welcome to osu!bancho.`
+`* -`
+`* - You are required to authenticate before accessing this service.`
+`* - Please click the following link to complete this process:`
 
 당신이 "Authorise IRC connection" 버튼을 누른다면 간단하게 채팅과 자동으로 가입이 됩니다 그리고 간단하게 이걸 클릭하면 자동으로 가입하고 당신을 [\#osu](irc://cho.ppy.sh/osu) 채널로 가게 합니다 [\#korean](irc://cho.ppy.sh/korean) 은 [이걸](irc://cho.ppy.sh/korean) 누르시오.
 
 만일 당신이 그 버튼을 누르면 당신의 프로필에서 주어진 암호를 접속하거나 연결할때마다 비번을 발급할 이유가 없을경우
 
-`영구적으로 클라이언트를 인증하려면 귀하의 IRC 비밀번호를 (서버 암호) 변경하시기 바랍니다.`
+`영구적으로 클라이언트를 인증하려면 귀하의 IRC 비밀번호를 (서버 암호) 변경하시기 바랍니다.`
 
 IRC 기본 명령
 =============
@@ -46,8 +46,8 @@ IRC 기본 명령
 
 항상 접속/퇴장 할때마다 메세지가 남게됩니다:
 
-` someuser은 #somechannel에 접속 했습니다.`
-` someuser은 #somechannel을 퇴장 했습니다.`
+` someuser은 #somechannel에 접속 했습니다.`
+` someuser은 #somechannel을 퇴장 했습니다.`
 
 채팅량이 적은곳에서는 상관없지만 \#osu에서는 많은 사람들이 접속하거나 퇴장 합니다.
 

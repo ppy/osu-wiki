@@ -210,7 +210,7 @@ As this mod increases difficulty in a huge way compared to the other two modes, 
 
 ---
 
-In [osu!mania][osu!mania wikilink] mode, only the judgement difficulty (OD) and the [approach rate][AR wikilink] (AR) values are increased. 
+In [osu!mania][osu!mania wikilink] mode, only the judgement difficulty (OD) and the [approach rate][AR wikilink] (AR) values are increased.
 
 Hard Rock mod will not affect the note placement. For mod that will change the note placement, see [Random](#random) mod under Special.
 
@@ -730,11 +730,11 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings "Visu
 
 - osu! used to round down Score Multiplier to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise.
 - Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on [insane](/wiki/Difficulties/osu!/Insane) or approved beatmaps.
-  - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/forum/t/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/u/64501).
+  - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/users/64501).
 - When playing with Sudden Death mod enabled in osu!standard mode, there are _rare cases_ where the player _may_ survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and _before_ the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
   - Since the slider tick health gain must be sufficient enough to outlast the natural health drain over time, it may be impossible to continue at higher difficulty settings even when the player survives the full life bar drain.
-- [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/forum/t/49733)
+- [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/community/forums/topics/49733)
 - Flashlight mod was subjected to heavy controversy regarding the implementation in 2010 for being the _easiest_ mod to hack on forced the mod to be unranked until a patch was implemented to cover the Flashlight implementation loophole. Further information regarding this incident can be found at the two threads below.
-  - [Flashlight is back!](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
-  - [Flashlight mod disabled #2](http://osu.ppy.sh/forum/viewtopic.php?f=9&t=41039)
+  - [Flashlight is back!](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=41519)
+  - [Flashlight mod disabled #2](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=41039)
 - By using Co-Op mod, it is entirely possible to increase the key count to _18 Keys_ (9K mod -> 9K + 9K = 18K, applied to non-specific difficulties only).

@@ -85,7 +85,7 @@ Hush-Hush
 Los logros de este tipo tienen una forma clara de llegar a ellos. El propio jugador debe descubrir lo que tiene que hacer para desbloquear el logro.
 Spoilear El método para desbloquear estos logros concretos "tendrá como resultado el Baneo de tu cuenta. " (Era la regla antes del 16 de Agosto 2017. Esto ya es permitido)
 
-`El propio título es una pista sobre como obtener estos logros.`
+`El propio título es una pista sobre como obtener estos logros.`
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -100,4 +100,4 @@ Spoilear El método para desbloquear estos logros concretos "tendrá como result
 Link Externo
 ----------------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+-   peppy's Achievement Graphics [1](https://osu.ppy.sh/community/forums/topics/80448)

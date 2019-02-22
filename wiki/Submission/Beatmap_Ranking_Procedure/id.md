@@ -15,7 +15,7 @@ Sebelum beatmap bisa dirank oleh [BNG](/wiki/People/Beatmap_Nomination_Group), p
 
 ### Bubble pada Mode Spesifik
 
-Bubble pada Mode Spesifik adalah bubble yang hanya berlaku pada mapset hybrid untuk mode tertentu. Kriteria Ranking dari bubble ini diatur oleh [Kriteria Ranking](/wiki/Ranking_Criteria), tetapi hanya BAT dengan mode spesifik saja yang bisa memberi bubble ini. Namun, karena adanya sistem baru, BAT dengan mode spesifik sudah tidak berlaku (tidak ada osu!standar BAT atau Taiko BAT, CTB BAT, ataupun osu!mania BAT), sehingga setiap anggota bisa mengemod dan memberi bubble kepada mode apapun. Untuk mencari tahu siapa saja yang merupakan anggota BNG, [profil yang ada di sini](/wiki/People/Beatmap_Nomination_Group) atau [post ini](https://osu.ppy.sh/forum/p/2430411).
+Bubble pada Mode Spesifik adalah bubble yang hanya berlaku pada mapset hybrid untuk mode tertentu. Kriteria Ranking dari bubble ini diatur oleh [Kriteria Ranking](/wiki/Ranking_Criteria), tetapi hanya BAT dengan mode spesifik saja yang bisa memberi bubble ini. Namun, karena adanya sistem baru, BAT dengan mode spesifik sudah tidak berlaku (tidak ada osu!standar BAT atau Taiko BAT, CTB BAT, ataupun osu!mania BAT), sehingga setiap anggota bisa mengemod dan memberi bubble kepada mode apapun. Untuk mencari tahu siapa saja yang merupakan anggota BNG, [profil yang ada di sini](/wiki/People/Beatmap_Nomination_Group) atau [post ini](https://osu.ppy.sh/community/forums/posts/2430411).
 
 Popped Bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 ------------------------------------------------------------------------------------

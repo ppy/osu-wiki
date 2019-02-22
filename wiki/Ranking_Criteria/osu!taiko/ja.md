@@ -1,9 +1,9 @@
 osu!taiko Ranking Criteria
 ====================================
 
-For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
+For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/community/forums/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-These rules and guidelines has been discussed in the [osu!taiko Discussion Thread](https://osu.ppy.sh/forum/p/1275323). New rules or guidelines may be suggested in the [discussion forum](https://osu.ppy.sh/forum/87) which are going to be updated once the discussion reaches an agreement.
+These rules and guidelines has been discussed in the [osu!taiko Discussion Thread](https://osu.ppy.sh/community/forums/posts/1275323). New rules or guidelines may be suggested in the [discussion forum](https://osu.ppy.sh/community/forums/87) which are going to be updated once the discussion reaches an agreement.
 
 Rules
 ------

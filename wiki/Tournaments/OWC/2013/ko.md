@@ -6,7 +6,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주최하는 전세계 토너먼트이며, 2013년 10월 15일부터 12월 8일까지 진행되었습니다.
+osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이 주최하는 전세계 토너먼트이며, 2013년 10월 15일부터 12월 8일까지 진행되었습니다.
 이전 대회 선수권 보유국은 **![][flag_KR] 한국** 입니다.
 대회는 종료되었으며 결과는 다음과 같습니다.
 
@@ -34,7 +34,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주�
 
 | Placing                                                    | Prize(s)                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 서포터 3개월                                                         |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                                                         |
 
@@ -54,7 +54,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주�
 링크
 ------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 -   [osu! World Cup Livestream](https://www.twitch.tv/osulive)
 -   [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
 -   [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0)

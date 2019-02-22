@@ -36,7 +36,7 @@ With **5316** votes, [h-alice0430](https://osu.ppy.sh/users/12764300)'s renditio
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Que3tion.jpg)](https://assets.ppy.sh/contests/70/winners/Que3tion.png)
 
-Before the blood moon, an oni-Mocha and a witch-pippi cackled and gleamed their way into the hearts of **5073** voters in [Que3tion](https://osu.ppy.sh/users/12608710)'s piece. 
+Before the blood moon, an oni-Mocha and a witch-pippi cackled and gleamed their way into the hearts of **5073** voters in [Que3tion](https://osu.ppy.sh/users/12608710)'s piece.
 
 We recommend against stuffing your undead servants with candy corn. It just makes a mess.
 

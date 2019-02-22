@@ -1,7 +1,7 @@
 Changing Title Text
 =====================
 
-[*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/forum/t/14513)
+[*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513)
 
 How to get it changed
 -------------------------
@@ -13,8 +13,8 @@ Why should I change it?
 
 If used correctly, it can add a certain effect (in a good way!) to a map. It changes the presentation of your map in an effective manner if used correctly by changing the elements and the time of the appearance of the title. If you're a storyboarder, this might be a very huge benefit to you!
 
--   An effective example would be [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/s/33483)
--   You can split the title if it's too long for a single line: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/s/1391), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/s/57560)
+-   An effective example would be [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/beatmapsets/33483)
+-   You can split the title if it's too long for a single line: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/beatmapsets/1391), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/beatmapsets/57560)
 
 General Info
 -------------
@@ -23,7 +23,7 @@ Send a PM (private message) with this to a QAT member.
 
 -   Syntax is as follows:
 
-`[firstOption:firstValue,secondOption:secondValue]` and so on, so forth; notice there are no spaces around punctuation marks
+`[firstOption:firstValue,secondOption:secondValue]` and so on, so forth; notice there are no spaces around punctuation marks
 
 -   You can split title text into lines using the pipe character, `|`
 -   Text formatting can't be set for separate words or symbols. Instead, it applies to the whole line (see above). Formatting options should be in the very beginning of the line;
@@ -52,7 +52,7 @@ How long the text stays on the screen, including the fade in and out.
 
 ### Boldness
 
-`bold:1 or 0`
+`bold:1 or 0`
 
 1 means the line is bold, 0 — that it's regular.
 
@@ -80,7 +80,7 @@ Default values, if not specified:
 Example
 ----------
 
-`[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
+`[time:672,size:30,colour:255.0.0,hold:1000]Line 1|[bold:0]Line 2`
 
 Line 1 will start fading in for 50 ms at 672, be a red colour, and be midsized and bold, fading out to 0 at 1672. Line 2 will start fading in for 300 ms at 1172 and fade to 0 at 7172, be white, and large but not bold.
 

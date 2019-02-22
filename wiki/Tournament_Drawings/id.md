@@ -32,8 +32,8 @@ Ada 4 tombol di panel kontrol, mari kita bahas lebih lanjut:
 - **Reset**
   - Tombol ini jarang digunakan. Tombol ini bersifat merusak dan akan mengatur ulang hasil proses pengundian.
 
-Tekan tombol `Begin random` dan `Stop random`. Saat pengacakan berhenti di bendera yang berada di tengah layar, kembali ke folder osu! dan perhatikan bahwa sekarang ada file tambahan yang dibuat: `drawings_results.txt`. 
-Buka file tambahan tadi dan amati format - disinilah tempat hasil proses pengundian disimpan, dan harus diimpor ke alat lebih lanjut untuk membantu dalam mengelola turnamen, seperti google Spreadsheets. 
+Tekan tombol `Begin random` dan `Stop random`. Saat pengacakan berhenti di bendera yang berada di tengah layar, kembali ke folder osu! dan perhatikan bahwa sekarang ada file tambahan yang dibuat: `drawings_results.txt`.
+Buka file tambahan tadi dan amati format - disinilah tempat hasil proses pengundian disimpan, dan harus diimpor ke alat lebih lanjut untuk membantu dalam mengelola turnamen, seperti google Spreadsheets.
 **Pastikan untuk menyimpan file `drawings_results.txt` di lokasi yang aman sebelum menekan tombol Reset, jika tidak maka file akan hilang!**
 
 ### Konfigurasi

@@ -44,7 +44,7 @@ Evitez d'utilisez des slider qui utilise 1/2 temps sur la même ligne de temps. 
 Être visuellement appréciable
 -----------------------------
 
-Parce que la map est considéré comme facile, il est recommander de rendre la map claire au regard afin que les différents types de mouvement soient facilement détecté et anticipé en Facile. Cela peut être réalisé au travers de [smooth looking curves](http://osu.ppy.sh/forum/t/37194) et de motifs simples.
+Parce que la map est considéré comme facile, il est recommander de rendre la map claire au regard afin que les différents types de mouvement soient facilement détecté et anticipé en Facile. Cela peut être réalisé au travers de [smooth looking curves](https://osu.ppy.sh/community/forums/topics/37194) et de motifs simples.
 
 Il existe bien d'autres choses que vous pouvez réaliser en Facile, alors expérimentez et trouver ce qui vous botte le plus.
 

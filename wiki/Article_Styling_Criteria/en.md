@@ -19,6 +19,7 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
 | `en.md` | English | English |
+| `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
@@ -33,11 +34,13 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
+| `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
 | `pt.md` | Portuguese | Português |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
+| `sk.md` | Slovak | Slovenčina |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
@@ -264,7 +267,7 @@ See also hatnotes are used to suggest a reader other points of interest from a g
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
 
-Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. 
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap.
 ```
 
 #### For see
@@ -667,9 +670,9 @@ Never use image links! Image links are links with the image as the link text. On
 Flag icons next to userlinks must be separate from the username. For example:
 
 ```md
-Do not: [![][flag_AU] peppy](/users/2)
+Do not: [![][flag_AU] peppy](https://osu.ppy.sh/users/2)
 
-Do:     ![][flag_AU] [peppy](/users/2)
+Do:     ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 ```
 
 #### Flag icons
@@ -921,14 +924,9 @@ These words are spelt as follows (spacing must match):
 - Use `creator` instead of `beatmapper` or `mapper`.
 - Use `created` instead of `beatmapped` or `mapped`.
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
-<<<<<<< HEAD
-- Use `sign in` instead of `log in`.
-- Use `sign out` instead of `log out`.
-- Use `register` instead of `sign up`.
-=======
 - Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
 - Use `sign out` instead of `log out`, unless the name of a button or link uses `log out`.
->>>>>>> f1fee913... ASC: Add "created" to list of terms
+- Use `register` instead of `sign up`.
 
 ### Abbreviations, acronyms, and initialisms
 

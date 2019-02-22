@@ -9,8 +9,8 @@ This week's storyboard highlight is a little bit different than the ones in week
 
 For the previous highlights, I have picked maps that were popularly suggested via form submission as a good gauge of what the community thinks are great storyboards. This pick, however, is quite the other way around, in that there was not a single submission suggesting this map! Since the weekly storyboard showcase is all about helping osu! discover great storyboards, I feel that picking a particularly unknown map once in a while will maximize the reach and effectiveness of the showcase :).
 
-**[Sound Horizon - Yield](https://osu.ppy.sh/s/12493) by [gdeath](https://osu.ppy.sh/u/104700)**  
-**Storyboard by [Breeze](https://osu.ppy.sh/u/77537)**
+**[Sound Horizon - Yield](https://osu.ppy.sh/beatmapsets/12493) by [gdeath](https://osu.ppy.sh/users/104700)**  
+**Storyboard by [Breeze](https://osu.ppy.sh/users/77537)**
 
 Even though this map was created and storyboarded back in 2010, that doesn't change how high-quality the storyboard is, especially for its time. Colorful, detailed backgrounds lightly complement the music and aid in telling its story - and the map isn't bad either, fitting the song's pace very well!
 

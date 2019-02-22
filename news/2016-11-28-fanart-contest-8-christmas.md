@@ -18,7 +18,7 @@ Following from the tremendous success of Halloween's fanart contest, we've decid
 *Just to clarify, you don't have to actually use red, white or green in your piece if you don't want to! Literary exposition and all that jazz.*
 
 
-Much like the [Halloween fanart contest](http://news.ppy.sh/post/152021157083/flash-fanart-contest-7-halloween), **this includes the community-submitted mascots** from previous contests, even ones that didn't end up in the top 3. You can of course, use your own renditions of pippi, Yuzu, Maria and even pippi-don if you see fit. As long as it's an osu! mascot and is vaguely Christmas themed, you're all set!
+Much like the [Halloween fanart contest](https://news.ppy.sh/post/152021157083/flash-fanart-contest-7-halloween), **this includes the community-submitted mascots** from previous contests, even ones that didn't end up in the top 3. You can of course, use your own renditions of pippi, Yuzu, Maria and even pippi-don if you see fit. As long as it's an osu! mascot and is vaguely Christmas themed, you're all set!
 
 
 The top 10 voted entries and any other honorable mentions (as determined by the staff) will be bundled into the game as main-menu decorations, just like Halloween! The artists for each of the chosen entries will also receive 2 months of osu!supporter for their efforts, and in the spirit of Christmas cheer, a month of osu!supporter that they can gift to a friend of their choosing.
@@ -40,7 +40,7 @@ Rules
 Entering the contest pretty much says to us that you're okay with us using your art on the osu! website and promoting it via social media accounts. We'll ALWAYS give credit where credit is due - creative work is hard enough without other people trying to steal all the credit for your hard work!
 
 
-Interested? [Enter your piece here!](https://new.ppy.sh/community/contests/36)
+Interested? [Enter your piece here!](https://osu.ppy.sh/community/contests/36)
 
 
 —Ephemeral

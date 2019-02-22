@@ -5,7 +5,7 @@ Dans les moyens de pousser et d'étendre le beatmapping, la difficulté Expert �
 
 Une beatmap de difficulté Expert peut être la *5ème* difficulté supplémentaire (si les beatmaps sont dans cet ordre : ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")) ou la *4ème* (si les beatmaps sont dans cet ordre : ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")). Cette difficulté, comme [Insane](/wiki/Difficulties/osu!/Insane), peuvent être définiées comme une "amplification générale des compétences du mappeur, et où là créativité peut être facilement illustrée."
 
-Sur la page d'une beatmap sur osu! (par exemple: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/b/774564)), on savoir qu'il y a une difficulté Expert avec cette icône: ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
+Sur la page d'une beatmap sur osu! (par exemple: [Rise Against - The Good Left Undone (Extreme)](https://osu.ppy.sh/beatmaps/774564)), on savoir qu'il y a une difficulté Expert avec cette icône: ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
 
 De façon caractéristique, les difficultés Expert sont des maps difficiles, comportant généralement des streams et des jumps extrêmes. Une map reçoit l'icône Expert lorsqu'elle a atteint ou dépassé 5,25 étoiles de difficulté.
 

@@ -42,4 +42,4 @@ Le réglage de la profondeur des couleurs dans Windows peut être mal configuré
 Aide supplémentaire
 ----------------------
 
-Si votre problème n'est toujours pas résolu, merci de créer un topic dans le forum [à cet endroit](https://osu.ppy.sh/forum/5), de préférence en anglais pour vous faire comprendre des développeurs. Dans le contenu du topic, recopiez le résultat de l'exécution de [ce logiciel](http://www.realtech-vr.com/glview/download.php) ainsi que le contenu du fichier gl\_info.txt si vous utilisez le canal Expérimental/Cutting-Edge (le fichier se trouve à la racine du répertoire d'installation d'osu!).
+Si votre problème n'est toujours pas résolu, merci de créer un topic dans le forum [à cet endroit](https://osu.ppy.sh/community/forums/5), de préférence en anglais pour vous faire comprendre des développeurs. Dans le contenu du topic, recopiez le résultat de l'exécution de [ce logiciel](http://www.realtech-vr.com/glview/download.php) ainsi que le contenu du fichier gl\_info.txt si vous utilisez le canal Expérimental/Cutting-Edge (le fichier se trouve à la racine du répertoire d'installation d'osu!).

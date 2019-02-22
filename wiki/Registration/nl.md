@@ -14,7 +14,7 @@ Steps
 -----
 
 <center>
-<span style="font-size:18px">1. Ga naar de <span class="plainlinks"> [website](https://osu.ppy.sh)</span> en klik "<b>I'm new!</b>" om verder te gaan naar de registratie pagina. </span>
+<span style="font-size:18px">1. Ga naar de <span class="plainlinks"> [website](https://osu.ppy.sh/home)</span> en klik "<b>I'm new!</b>" om verder te gaan naar de registratie pagina. </span>
 
 <span style="font-size:18px">2. Vul de lege balken in en druk "Continue" </span>
 
