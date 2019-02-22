@@ -98,7 +98,7 @@ So vast and numerous are p3n's contributions over the years - from creating a ma
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/shARPII.jpg)](https://osu.ppy.sh/u/776257)
 
-Departed from the osu!team earlier in the year, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program who is now affectionally dubbed *Script-chan* by the tournaments crew.
+Departed from the osu!team earlier in the year, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program who is now affectionately dubbed *Script-chan* by the tournaments crew.
 
 shARPII's passion and drive to improve upon and iterate some of the oldest remaining fixtures of the game's volunteer groups led to substantial improvements made for everybody, and we really cannot thank him enough for his time with us.
 
