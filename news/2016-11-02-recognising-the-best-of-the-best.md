@@ -90,7 +90,7 @@ Elite titles represent the forefront of osu!'s high achievers in domains outside
 **We'd like to congratulate [Exile-](https://osu.ppy.sh/users/2559349) on receiving the honorary title of *Elite Storyboarder*.** Their incredible work on numerous storyboards over the years has advanced the face of the craft within the osu!community, and their talents are quickly becoming some of the most remarkable that we've ever seen.
 
 
-Exile-'s recent work on [Mili - world.execute(me);](https://osu.ppy.sh/s/470977) is truly one of the most visually and technically impressive storyboards in the game, and we're almost certain that this level of technical expertise will have a profound influence on other creative minds looking to create their own works in the future.
+Exile-'s recent work on [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/470977) is truly one of the most visually and technically impressive storyboards in the game, and we're almost certain that this level of technical expertise will have a profound influence on other creative minds looking to create their own works in the future.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OnO46zjqvPA?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 

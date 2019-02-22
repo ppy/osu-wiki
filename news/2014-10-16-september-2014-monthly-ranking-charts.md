@@ -20,10 +20,10 @@ Congratulations to the winners of the August 2014 Ranking Charts. They get rewar
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-- **osu! standard:** [Frostmourne](https://osu.ppy.sh/users/199669) for [Aoi Eir - IGNITE](https://osu.ppy.sh/s/209170) (13 votes)
-- **Taiko:** [ReySHeL](https://osu.ppy.sh/users/1499299) for [Mili - Nine Point Eight](https://osu.ppy.sh/s/198268) (11 votes)
-- **Catch the Beat:** [Spectator](https://osu.ppy.sh/users/702598) for [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/s/192079) (9 votes)
-- **osu!mania:** [ExPew](https://osu.ppy.sh/users/665612) for [a_hisa - Fairy Dance](https://osu.ppy.sh/s/151219) (8 votes)
+- **osu! standard:** [Frostmourne](https://osu.ppy.sh/users/199669) for [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170) (13 votes)
+- **Taiko:** [ReySHeL](https://osu.ppy.sh/users/1499299) for [Mili - Nine Point Eight](https://osu.ppy.sh/beatmapsets/198268) (11 votes)
+- **Catch the Beat:** [Spectator](https://osu.ppy.sh/users/702598) for [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/beatmapsets/192079) (9 votes)
+- **osu!mania:** [ExPew](https://osu.ppy.sh/users/665612) for [a_hisa - Fairy Dance](https://osu.ppy.sh/beatmapsets/151219) (8 votes)
 
 Good luck with the new charts!
 

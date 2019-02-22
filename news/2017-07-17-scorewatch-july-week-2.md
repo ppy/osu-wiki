@@ -34,7 +34,7 @@ NOTABLE MENTIONS
 
 Seeing an S on [Inferi - The Promethean Kings](https://osu.ppy.sh/b/1083470) is odd indeed, but not that odd for [-GN](https://osu.ppy.sh/users/895581), stealing the limelight by taking the first FC, using EZHT to guide his way to a 98.68% FC to earn 388pp. The patience in this is remarkable.
 
-A certain [Monstrata](https://osu.ppy.sh/users/2706438) map, [xi - Glorious Crown](https://osu.ppy.sh/s/558694), was recently ranked, and as such, [Angelsim](https://osu.ppy.sh/users/1777162) conquered the 2nd hardest difficulty in the mapset, scoring an impressive 98.54% HDHR FC to claim 552pp and the No. 1 spot. The final difficulty has yet to be conquered.
+A certain [Monstrata](https://osu.ppy.sh/users/2706438) map, [xi - Glorious Crown](https://osu.ppy.sh/beatmapsets/558694), was recently ranked, and as such, [Angelsim](https://osu.ppy.sh/users/1777162) conquered the 2nd hardest difficulty in the mapset, scoring an impressive 98.54% HDHR FC to claim 552pp and the No. 1 spot. The final difficulty has yet to be conquered.
 
 SCORESHOW WITH ZSEIKIMATSU
 -----

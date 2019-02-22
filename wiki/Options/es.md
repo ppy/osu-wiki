@@ -119,7 +119,7 @@ For contribution: <a href="https://osu.ppy.sh/forum/t/104342/" class="uri">https
 <tr class="even">
 <td><p>Prefer metadata in original language</p></td>
 <td><p>Beatmaps that have Unicode metadata will be shown instead of the usual ASCII metadata.<br />
-<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="https://osu.ppy.sh/s/44443">Actual Beatmap here</a></p></td>
+<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="https://osu.ppy.sh/beatmapsets/44443">Actual Beatmap here</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use alternative font for chat display</p></td>

@@ -9,7 +9,7 @@ tumblr_url: http://osunews.tumblr.com/post/145263178063/storyboard-showcase-3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tv48SnY1Kko" frameborder="0" allowfullscreen></iframe>
 
-**Few storyboarders have the know-how and the innovative capacity to implement an idea like Damnae's [Nekomata Master+ - Kung-Fu Empire](https://osu.ppy.sh/s/173288).** When it comes to technical prowess, Damnae does not hold back on his creations and lets loose his vision in fun and interesting ways.
+**Few storyboarders have the know-how and the innovative capacity to implement an idea like Damnae's [Nekomata Master+ - Kung-Fu Empire](https://osu.ppy.sh/beatmapsets/173288).** When it comes to technical prowess, Damnae does not hold back on his creations and lets loose his vision in fun and interesting ways.
 
 **Before Damnae arrived in the community, the idea of programmed storyboarding was merely an concept vaguely attempted several times before.** Him and a [certain other elite storyboarder](https://osu.ppy.sh/users/11t) changed the landscape for storyboarding from simple strobe effects to elaborate visualized creations.
 

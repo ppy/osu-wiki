@@ -12,6 +12,6 @@ Congratulations, Charles; your map will be bundled with the game client, and you
 
 You can review the full results [here](https://osu.ppy.sh/p/contestresults?c=7). We would like to thank everyone that took part in this contest, and can't wait to see more in the future!
 
-Download the winning beatmap **[here](https://osu.ppy.sh/s/123593)**!
+Download the winning beatmap **[here](https://osu.ppy.sh/beatmapsets/123593)**!
 
 —ztrot

@@ -12,7 +12,7 @@ The **Aspire beatmapping contest** returns again to welcome in 2017 - with a new
 
 Aspire has long been the premier high-level beatmapping contest since its inception in 2014, producing two incredible beatmaps that have pushed the boundaries of what both the game itself and its players are capable of.
 
-Two Aspirants, [Charles445](https://osu.ppy.sh/users/85000) and [Monstrata](https://osu.ppy.sh/users/2706438) triumphed over this grand contest to critical acclaim with their performances on [LeaF - Evanescent](https://osu.ppy.sh/s/227126) and [IAHN - Transform (Original Mix)](https://osu.ppy.sh/s/484689) respectively.
+Two Aspirants, [Charles445](https://osu.ppy.sh/users/85000) and [Monstrata](https://osu.ppy.sh/users/2706438) triumphed over this grand contest to critical acclaim with their performances on [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) and [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) respectively.
 
 It is now time for a third person to join their ranks, or perhaps for one of them to reach the behind the veil and become something new.
 
@@ -28,7 +28,7 @@ You will be tested. This Aspire is not like any other.
 
 Nearly **six minutes** of twisted, weaving rhythm paints an open and sprawling vista for skilled mappers to truly make their talent be known. Everything from composition, to theme, to patterning will need to be considered in order to make this herculean duration work for you, rather than against you.
 
-This map is long - some may say *too* long, but they are simply the minds closed to the potential that lengthier maps bring to the table. From fabled mapsets such as [*Near Distant Future*](https://osu.ppy.sh/s/97433), [*United*](https://osu.ppy.sh/s/237768) and [*The Pretender*](https://osu.ppy.sh/s/79498), mappers and players alike have cut their teeth on the extreme challenge that both mapping and playing these masterpieces require.
+This map is long - some may say *too* long, but they are simply the minds closed to the potential that lengthier maps bring to the table. From fabled mapsets such as [*Near Distant Future*](https://osu.ppy.sh/beatmapsets/97433), [*United*](https://osu.ppy.sh/beatmapsets/237768) and [*The Pretender*](https://osu.ppy.sh/beatmapsets/79498), mappers and players alike have cut their teeth on the extreme challenge that both mapping and playing these masterpieces require.
 
 A true test of beatmapping skill.
 

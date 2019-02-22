@@ -12,7 +12,7 @@ Widely considered an 'era-defining' storyboarder by the community, [11t](https:/
 
 To give this some context, storyboarding has often been considered one of the hardest aspects of osu! creative development and design. Intrepid storyboarders are given only the most cursory of tools to make their dreams into reality, and though this has improved significantly over the years with tools like [SGL](https://osu.ppy.sh/forum/t/118733), storyboarding still remains one of the most difficult and time-consuming endeavors around.
 
-Despite the difficulty, 11t produced a number of beautiful pieces that continue to inspire awe to this day. From his hallmark lyric wheel in [MyonMyonMyonMyonMyonMyon!](https://osu.ppy.sh/s/156492), to the sunlit stratospheric reaches of [EOS](https://osu.ppy.sh/s/151720), and the singing skies of [Okaerinasai](https://osu.ppy.sh/s/179323), there's something in 11t's work for everyone.
+Despite the difficulty, 11t produced a number of beautiful pieces that continue to inspire awe to this day. From his hallmark lyric wheel in [MyonMyonMyonMyonMyonMyon!](https://osu.ppy.sh/beatmapsets/156492), to the sunlit stratospheric reaches of [EOS](https://osu.ppy.sh/beatmapsets/151720), and the singing skies of [Okaerinasai](https://osu.ppy.sh/beatmapsets/179323), there's something in 11t's work for everyone.
 
 His talent proved so impressive that alongside Damnae, he was one of the first users ever to be given the "Elite Storyboarder" title, an honor afforded to very few people, and a feat that ranks him permanently in the osu! Hall of Fame.
 

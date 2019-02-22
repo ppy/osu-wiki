@@ -428,7 +428,7 @@ _Le logo d'osu!mania dans les Modes Spéciaux obsolètes_
 
 - osu!mania est sorti le [**08 October 2012 (2012-10-08)**, principalement implémenté par **woc2006**](https://osu.ppy.sh/forum/p/1825880).
 - L'ancien éditeur d'osu!mania _demandait_ au mappeur de placer des cercles et des sliders dans un terrain de jeu d'osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
-- Le tout premier beatmapset osu!mania a être officiellement ranké est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
+- Le tout premier beatmapset osu!mania a être officiellement ranké est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
 ## Références
 

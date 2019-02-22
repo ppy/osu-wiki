@@ -46,14 +46,14 @@ NOTABLE MENTIONS
 
 [WubWoofWolf](https://osu.ppy.sh/users/39828) has shocked the osu! community with an amazing play on [Halozy - Genryuu Kaiko](https://osu.ppy.sh/b/433005)! Slapping on the HD mod, he went on to take an incredible 99.15% HD 4 miss score to land 4th on the leaderboards and even earn 408pp in the process! Wolf at its finest.
 
-Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has just set a crazy 98.48% 13x miss 1797 combo score on the hardest 8.03* difficulty of [And Aoiyuuki - I love Flezlin](https://osu.ppy.sh/s/525461). Note that this map has big jumps (and not only) throughout the whole map!
+Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has just set a crazy 98.48% 13x miss 1797 combo score on the hardest 8.03* difficulty of [And Aoiyuuki - I love Flezlin](https://osu.ppy.sh/beatmapsets/525461). Note that this map has big jumps (and not only) throughout the whole map!
 
 <iframe width="100%" height="315" src="https://player.twitch.tv/?video=v165036056&autoplay=false" frameborder="0" allowfullscreen></iframe></br>
 
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[inteliser](https://osu.ppy.sh/users/1824775) takes on [Pope Gadget](https://osu.ppy.sh/users/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/s/478161).
+[inteliser](https://osu.ppy.sh/users/1824775) takes on [Pope Gadget](https://osu.ppy.sh/users/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/beatmapsets/478161).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zQR8-BtcWGY" frameborder="0" allowfullscreen></iframe></br>
 

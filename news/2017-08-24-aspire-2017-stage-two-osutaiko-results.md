@@ -28,7 +28,7 @@ Supairo's Intense Muskrat is a visually stunning creation that puts storyboard m
 
 Ranging from the implementation of osu!'s other gamemodes, to an ambitious recreation of Project DIVA's gameplay, this beatmap is meticulous to even the smallest of details. Imagine our surprise when we didn't even know who the mapper was! This winning entry will definitely set a new bar on storyboard maps for many years to come!
 
-[See for yourself, and play Supairo's contest-winning entry here!](https://osu.ppy.sh/s/654033)
+[See for yourself, and play Supairo's contest-winning entry here!](https://osu.ppy.sh/beatmapsets/654033)
 
 --------
 
@@ -44,7 +44,7 @@ In a similar fashion to Supairo's Intense Muskrat, tasuke912 uses storyboarding 
 
 We were particularly impressed by the "Monochrome" and "Function" mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.    
 
-[Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/s/653961)
+[Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/beatmapsets/653961)
 
 ---------
 
@@ -60,7 +60,7 @@ Known for his creativity and knack for doing the unexpected, we weren't too surp
 
 The map is further complemented by various slider velocity and playfield gimmicks, which we thought was beautifully expressed through the use of a thematic storyboard. We were very impressed by the level of ingenuity shown here — this entry is well deserving of 3rd place.
 
-[Get your textbooks ready and dive into S a n d's algebraic insanity here!](https://osu.ppy.sh/s/654135)
+[Get your textbooks ready and dive into S a n d's algebraic insanity here!](https://osu.ppy.sh/beatmapsets/654135)
 
 ---------
 

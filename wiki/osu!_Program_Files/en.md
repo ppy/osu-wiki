@@ -67,9 +67,9 @@ For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also
 **Your compendium of osu! beatmaps**. Usually contains .osu (difficulties), .mp3/.ogg (music file), .jpg/.png/.gif (BG image), .osb (SB file) and .mp4/.flv (video file). May also contains .wav/.ogg (hitsound file) and folders (SB spites and/or skin).
 
 The format is `{Beatmap number} {Artist} - {Song Title}`.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/s/1)" or "[avgn](https://osu.ppy.sh/s/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/s/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
+Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/beatmapsets/1)" or "[avgn](https://osu.ppy.sh/beatmapsets/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
 
 ### Hidden Folders
 

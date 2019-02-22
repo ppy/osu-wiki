@@ -42,7 +42,7 @@ Hey, guess who also tried the same map? [Cookiezi](https://osu.ppy.sh/users/1244
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKAIc4GAWv4" frameborder="0" allowfullscreen></iframe>
 
-Somewhere, far and deep into the osu! scores, [Tasha](https://osu.ppy.sh/users/1031958) has managed to pull off a 99.59% FC on [Kobaryo - Ponko2 Girlish (Kobaryo's FTN-Remix)](https://osu.ppy.sh/s/562250). This 9.74* map is seriously technical based, with notes coming in fast and slow, requiring precision and accuracy. I'd say 1:11 is my favourite part of this play. Check it out.
+Somewhere, far and deep into the osu! scores, [Tasha](https://osu.ppy.sh/users/1031958) has managed to pull off a 99.59% FC on [Kobaryo - Ponko2 Girlish (Kobaryo's FTN-Remix)](https://osu.ppy.sh/beatmapsets/562250). This 9.74* map is seriously technical based, with notes coming in fast and slow, requiring precision and accuracy. I'd say 1:11 is my favourite part of this play. Check it out.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uP7SC4-_IoE" frameborder="0" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ Somewhere, far and deep into the osu! scores, [Tasha](https://osu.ppy.sh/users/1
 
 [\_yu68](https://osu.ppy.sh/users/6170507) came out strong with a DT 98.69% play on [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/b/899716?m=1) on lolcube's Hell Oni, setting 479pp.
 
-[Zyph](https://osu.ppy.sh/users/1600432) broke the speed barrier (kinda?) with a 99.93% FC on the 263BPM Loved [antiPLUR - Speed of Link](https://osu.ppy.sh/s/335798).
+[Zyph](https://osu.ppy.sh/users/1600432) broke the speed barrier (kinda?) with a 99.93% FC on the 263BPM Loved [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/335798).
 
 osu!mania 7K World Cup: And then there were 2
 ---------------------

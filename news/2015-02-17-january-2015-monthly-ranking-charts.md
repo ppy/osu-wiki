@@ -22,12 +22,12 @@ Congratulations to the winners of the December 2014 Ranking Charts. They get rew
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-*   **osu! standard:** [AllStar12](https://osu.ppy.sh/users/2241286) for [yuikonnu & ayaponzu\* - Super Nuko World](https://osu.ppy.sh/s/153776) (9 votes)
-*   **Taiko:** [lolcubes](https://osu.ppy.sh/users/578401) for [Hoshio Yuka - Tabidachi no Shuen](https://osu.ppy.sh/s/119729) (7 votes)
-*   **Catch the Beat:** [Xinely](https://osu.ppy.sh/users/1521445) for [Sharlo & yealina - Kakushigoto](https://osu.ppy.sh/s/208095) (6 votes)
-*   **osu!mania (October 2014):** [Chocoliti](https://osu.ppy.sh/users/685079) for [orangentle / Yu_Asahina - HAELEQUIN](https://osu.ppy.sh/s/174550) (10 votes)
-*   **osu!mania (November 2014):** [asd123iii](https://osu.ppy.sh/users/2029369) for [Azu - Haryu](https://osu.ppy.sh/s/183478) (10 votes)
-*   **osu!mania (January 2015):** [Lieselotte](https://osu.ppy.sh/users/1032874) for [Amane - Space Time (Amane Hardcore Remix)](https://osu.ppy.sh/s/194921) (6 votes)
+*   **osu! standard:** [AllStar12](https://osu.ppy.sh/users/2241286) for [yuikonnu & ayaponzu\* - Super Nuko World](https://osu.ppy.sh/beatmapsets/153776) (9 votes)
+*   **Taiko:** [lolcubes](https://osu.ppy.sh/users/578401) for [Hoshio Yuka - Tabidachi no Shuen](https://osu.ppy.sh/beatmapsets/119729) (7 votes)
+*   **Catch the Beat:** [Xinely](https://osu.ppy.sh/users/1521445) for [Sharlo & yealina - Kakushigoto](https://osu.ppy.sh/beatmapsets/208095) (6 votes)
+*   **osu!mania (October 2014):** [Chocoliti](https://osu.ppy.sh/users/685079) for [orangentle / Yu_Asahina - HAELEQUIN](https://osu.ppy.sh/beatmapsets/174550) (10 votes)
+*   **osu!mania (November 2014):** [asd123iii](https://osu.ppy.sh/users/2029369) for [Azu - Haryu](https://osu.ppy.sh/beatmapsets/183478) (10 votes)
+*   **osu!mania (January 2015):** [Lieselotte](https://osu.ppy.sh/users/1032874) for [Amane - Space Time (Amane Hardcore Remix)](https://osu.ppy.sh/beatmapsets/194921) (6 votes)
 
 Good luck with the new charts!
 

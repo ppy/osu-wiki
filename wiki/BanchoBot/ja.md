@@ -27,5 +27,5 @@ BanchoBotコマンドの接頭辞には、`!`が必要となります。**通常
 | `WHERE`   | `<ユーザ名>`          | ユーザの現在地（国）を表示する。                                                 | `!where Kyubey`                       | "Kyubey is in Russia" |
 | `FAQ`     | `[言語:]<エントリ>/list`  | エントリに入力されたFAQのヘルプを表示します。`list`をエントリに使用することで一覧を表示します。   | `!faq ping`                           | "Pong!" |
 | `REPORT`  | `<ユーザ名> <理由>` | チャットモデレータにユーザを報告します。ユーザ名のスペースを`_`に置き換えて下さい。       | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | None                   | MOD支援を必要とするランダムなビートマップを表示します。                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+| `REQUEST` | None                   | MOD支援を必要とするランダムなビートマップを表示します。                       | `!request`                            | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252) by MrSergio" |
 <!-- 注意！searchコマンドは機能しなくなったため含まれていません。 -->

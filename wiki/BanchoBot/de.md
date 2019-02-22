@@ -21,4 +21,4 @@ _Für eine Liste an Clientbefehlen (`/befehl`) siehe [Chatkonsole](/wiki/Chat_Co
 | `WHERE` | `<nutzername>` | Zeigt den aktuellen Ort des Spielers. | `!where Kyubey` | "Kyubey is in Russia" |
 | `FAQ` | `[sprache:]<eintrag>/list`  | Zeigt den angegebenen Eintrag. Verwende `list` als Eintrag, um alle verfügbaren Einträge anzuzeigen. | `!faq ping` | "Pong!" |
 | `REPORT` | `<nutzername> <grund>` | [Meldet](/wiki/Reporting_Bad_Behaviour) einen Spieler bei den Chatmoderatoren. | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | Keine | Erhalte eine zufällige Beatmap, bei der vom Ersteller Hilfe durch [Modding](/wiki/Modding) angefordert wurde. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+| `REQUEST` | Keine | Erhalte eine zufällige Beatmap, bei der vom Ersteller Hilfe durch [Modding](/wiki/Modding) angefordert wurde. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252) by MrSergio" |

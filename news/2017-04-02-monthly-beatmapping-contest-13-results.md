@@ -16,7 +16,7 @@ Set to the tune of our very own [*BilliumMoto*](https://osu.ppy.sh/users/3862471
 
 Coming in **first place** with a grand total of **37.8/50** score was [**RyoKazuka**](https://osu.ppy.sh/users/6258586)'s entry (known to the judges as *Wary Skunk*). The judges all found his work to be of the highest calibre - scoring the highest in technical skill, creativity, impression and an absolutely dominating presence in overall difficulty curve.
 
-You can play the winning entry [here](https://osu.ppy.sh/s/569888), in all its glory.
+You can play the winning entry [here](https://osu.ppy.sh/beatmapsets/569888), in all its glory.
 
 Following closely behind with **34.4** score was [**Fort**](https://osu.ppy.sh/users/2805457)'s entry, claiming the highest flow and structure score seen in the contest, even greater than that of first place.
 

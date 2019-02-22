@@ -17,7 +17,7 @@ Unfortunately, only two competitors stepped forward for the CtB portion of the c
 
 The osu!mania portion of the contest was won solidly by [ExPew](https://osu.ppy.sh/users/665612), blowing away the rest of the competition with a _118_ point lead, followed by [shionelove](https://osu.ppy.sh/users/501551) with 96 points and [Tear](https://osu.ppy.sh/users/1340650) with 86 points.
 
-You can play the combined mapset [here](https://osu.ppy.sh/s/241526) - make sure to give it a go, since there is quite literally something for everyone in this one!
+You can play the combined mapset [here](https://osu.ppy.sh/beatmapsets/241526) - make sure to give it a go, since there is quite literally something for everyone in this one!
 
 Check out the results for [osu!standard](https://osu.ppy.sh/p/contestresults?c=13), [Taiko](https://osu.ppy.sh/p/contestresults?c=14), [Catch the Beat](https://osu.ppy.sh/p/contestresults?c=15) and [osu!mania](https://osu.ppy.sh/p/contestresults?c=16) for yourself.
 

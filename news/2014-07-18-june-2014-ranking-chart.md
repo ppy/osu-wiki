@@ -21,9 +21,9 @@ Congratulations to the winners of the May 2014 Ranking Charts. They get rewarded
 Additionally, we reward the highest voted map by providing **1 month supporter tag** to the mapper:
 
 -   **osu! standard:** [RLC](https://osu.ppy.sh/users/1047883) for [Himeringo - Yotsuya-san ni Yoroshiku](https://osu.ppy.sh/b/378781?m=0) (20 votes)
--   **Taiko:** [TKS](https://osu.ppy.sh/users/940878) for [kors k - Insane Techniques](hhttps://osu.ppy.sh/s/155288) (10 votes)
--   **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [nano - Nevereverland](https://osu.ppy.sh/s/149570) (11 votes)
--   **osu!mania:** [Rumia-](https://osu.ppy.sh/users/1787171) for [Sharlo - Sleeping Butterfly](https://osu.ppy.sh/s/160695) (9 votes)
+-   **Taiko:** [TKS](https://osu.ppy.sh/users/940878) for [kors k - Insane Techniques](hhttps://osu.ppy.sh/beatmapsets/155288) (10 votes)
+-   **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [nano - Nevereverland](https://osu.ppy.sh/beatmapsets/149570) (11 votes)
+-   **osu!mania:** [Rumia-](https://osu.ppy.sh/users/1787171) for [Sharlo - Sleeping Butterfly](https://osu.ppy.sh/beatmapsets/160695) (9 votes)
 
 Good luck with the new charts!
 

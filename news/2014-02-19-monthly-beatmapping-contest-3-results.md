@@ -11,7 +11,7 @@ The results are in, and we have a winner for the third Monthly Beatmapping Conte
 
 Honourable mentions go to [Cherry Blossom](https://osu.ppy.sh/users/1156742) and [DakeDekaane](https://osu.ppy.sh/users/1425253), scoring in at 157 and 156 respectively - barely a single point in difference between second and third place!
 
-Play the winning beatmap [here](https://osu.ppy.sh/s/151878), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=9).
+Play the winning beatmap [here](https://osu.ppy.sh/beatmapsets/151878), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=9).
 
 Will you be the next Elite Mapper of our Monthly Beatmapping Contests? Test your mapping skills in the next MBC - [submissions are still open](/home/news/2014-02-14-monthly-beatmapping-contest-4-submissions-now) until mid-March!
 

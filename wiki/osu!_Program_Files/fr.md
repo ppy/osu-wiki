@@ -64,9 +64,9 @@ Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinn
 **Votre recueil des beatmaps d'osu!**.
 
 Le format est `{Beatmap number} {Artist} - {Song Title}`.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/s/1)" ou "[avgn](https://osu.ppy.sh/s/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/s/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
+Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
 
 Fichiers programmes
 --------------------

@@ -94,9 +94,9 @@ We'd like to thank all of the judges who spent several weeks going through and j
 
 Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 
-- *Kuba Oms - Beautiful Uncertainty (Redux)*: [All entries](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul), [Mapset](https://osu.ppy.sh/s/801774)
-- *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/s/801862)
-- *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/s/801776)
+- *Kuba Oms - Beautiful Uncertainty (Redux)*: [All entries](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul), [Mapset](https://osu.ppy.sh/beatmapsets/801774)
+- *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/beatmapsets/801862)
+- *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/beatmapsets/801776)
 
 Judging for the osu!taiko contest is about to be underway, and the next contest to look forward to will be for osu!mania. Be on the lookout for an announcement in the coming weeks!
 

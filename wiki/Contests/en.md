@@ -16,7 +16,7 @@ Official beatmapping contests hosted by the osu!staff.
 Notes:
 
 - Winners of this contest will receive the "Elite Mapper" forum title
-- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
+- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/beatmapsets/3756)).
 - Winning mapsets since MBC \#13 have been / will be featured by the osu! media team.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mapper                                          | Results                                         | Scores                                                 |

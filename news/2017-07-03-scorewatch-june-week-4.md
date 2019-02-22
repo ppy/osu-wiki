@@ -34,7 +34,7 @@ We haven't shown [jakads](https://osu.ppy.sh/users/259972) in the Scorewatch for
 NOTABLE MENTIONS
 -----
 
-[Karthy](https://osu.ppy.sh/users/4196808) followed [cptnXn](https://osu.ppy.sh/users/495272)'s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/s/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
+[Karthy](https://osu.ppy.sh/users/4196808) followed [cptnXn](https://osu.ppy.sh/users/495272)'s FOUR DIMENSIONS FC legacy and set his own score on [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301) with a 99.86% FC to earn himself 553pp. That is 4 100s if you are wondering how insane this score could be, 2 at the final 10 seconds of the map. Congratulations to Karthy for setting this unbelievable score.
 
 [WubWoofWolf](https://osu.ppy.sh/users/39828) still continues to amaze the crowd by beating his personal best on [Kurokotei - Galaxy Collapse](https://osu.ppy.sh/b/924759?m=0) and setting a 1406x combo 88.16% score to claim the No. 1 spot again live at Dreamhack.
 

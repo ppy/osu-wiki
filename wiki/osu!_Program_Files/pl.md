@@ -63,9 +63,9 @@ Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning)
 **Twoje kompendium beatmap**. Zazwyczaj zawiera pliki: .osu (poziomy trudności), .mp3/.ogg (plik z muzyką), .jpg/.png/.gif (tło), .osb (Storyboard) and .mp4/.flv (plik z filmikiem). Może też zawierać pliki: .wav/.ogg (Dźwięki uderzeń) i foldery (SB spites i/lub skórka).
 
 Szyk: `{Numer beatmapy} {Wykonawca} - {Tytuł}`.
-**Przykład:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Przykład:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](https://osu.ppy.sh/s/1)" lub "[avgn](https://osu.ppy.sh/s/66)". Specjalna wzmianka idzie do "[tutorial](https://osu.ppy.sh/s/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
+Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](https://osu.ppy.sh/beatmapsets/1)" lub "[avgn](https://osu.ppy.sh/beatmapsets/66)". Specjalna wzmianka idzie do "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
 
 ### Ukryte foldery
 

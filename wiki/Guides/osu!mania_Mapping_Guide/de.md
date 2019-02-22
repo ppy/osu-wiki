@@ -227,7 +227,7 @@ Eine **Map für Rank** besteht für gewöhnlich aus mindestens 3 Schwierigkeitsg
 
 **Die "Approval" Map**: Eine Approval Map braucht kein ganzes Mapset. Jedoch muss die Approval Map eine Regel befolgen und diese wird auch Knallhart durchgesetzt: Der Song muss mindestens 5 Minuten lang sein. Ist euer Song länger als 5 Minuten braucht ihr kein Ganzes Mapset mehr.
 
-Approval Maps können, wie Insane Maps alle arten von Pattern enthalten. Eine gute Beispiel Approval Map ist hier die [Kanshou no Matenrou](https://osu.ppy.sh/s/251365) von mir. Ich verwende für die Leisen Drums 2er Chords und für die Lauten 3er Chords. Ich benutze Stairs und Streams bei langen 1/8 Sounds. Auch benutze ich lange Jumpstreams. Jedoch baut alles nach und nach auf und kommt nicht von jetzt auf gleich überraschend!
+Approval Maps können, wie Insane Maps alle arten von Pattern enthalten. Eine gute Beispiel Approval Map ist hier die [Kanshou no Matenrou](https://osu.ppy.sh/beatmapsets/251365) von mir. Ich verwende für die Leisen Drums 2er Chords und für die Lauten 3er Chords. Ich benutze Stairs und Streams bei langen 1/8 Sounds. Auch benutze ich lange Jumpstreams. Jedoch baut alles nach und nach auf und kommt nicht von jetzt auf gleich überraschend!
 
 Entscheidend für eine gute Approval Map ist das sie auch mal Ruhephasen hat. Niemand hat die Ausdauert 5 Minuten lang nur Jumpstreams zu spielen.
 
@@ -304,9 +304,9 @@ Erweiterte Kenntnisse
 
 Unter **Pitch** versteht man in Mania das Mappen nach Tonhöhe, heißt tiefe Noten werden Links, hohe Noten Rechts gemappt. Wie auf einem Piano. Grade in 4k ist es uns leider nicht möglich jedes mal nach Pitch zu Mappen da wir von den Pattern sehr eingeschränkt sind. Das sieht jedoch ab 6k schon ganz anders aus. Es kann oft zu einem ganz anderen Spielerlebnis führen wenn man mit einzelnen Noten oder ganzen Chords dem Pitch folgt.
 
-Eine gute Beispiel Map hier ist die [sakuzyo - Altale](https://osu.ppy.sh/s/347779). In der Starry's Another Lv.29 sehen wir vor allem in den Ruhigen Parts das hier mit den Noten sehr genau nach Pitch gefolgt wird. Auch die LN's folgen hier schön dem Pitch.
+Eine gute Beispiel Map hier ist die [sakuzyo - Altale](https://osu.ppy.sh/beatmapsets/347779). In der Starry's Another Lv.29 sehen wir vor allem in den Ruhigen Parts das hier mit den Noten sehr genau nach Pitch gefolgt wird. Auch die LN's folgen hier schön dem Pitch.
 
-Auch erwähnenswert ist hier die [MiddleIsland - Achromat](https://osu.ppy.sh/s/195940). In der 4k Hard sehen wir sehr schön wie der Mapper mit sehr vielen Single noten überall im Song versucht dem Piano Pitch zu folgen. In der Tristan97's 4K White Another sehen wir sogar das der Mapper selbst mit den Chords dem Pitch folgt. Was auf den ersten Blick extrem schwer zu Spielen scheint, spielt sich dann in der Praxis extrem gut wenn man sich der Melodie anvertraut.
+Auch erwähnenswert ist hier die [MiddleIsland - Achromat](https://osu.ppy.sh/beatmapsets/195940). In der 4k Hard sehen wir sehr schön wie der Mapper mit sehr vielen Single noten überall im Song versucht dem Piano Pitch zu folgen. In der Tristan97's 4K White Another sehen wir sogar das der Mapper selbst mit den Chords dem Pitch folgt. Was auf den ersten Blick extrem schwer zu Spielen scheint, spielt sich dann in der Praxis extrem gut wenn man sich der Melodie anvertraut.
 
 Also versucht euch anfangs nicht nach Pitch zu Orientieren. Es ist uns einfach nicht möglich jedes mal diesem zu folgen. Man kann es wie ein "kleines Extra" sehen was eure Map noch etwas spannender machen kann, ist aber nicht zwingend Notwendig.
 
@@ -378,7 +378,7 @@ Wollt ihr eine Note mit einem Keysound belegen wählt diese mit einem ALT + Link
 
 Im Grunde könnte man damit ein komplett eigenen Song erstellen ohne eine mp3 verwenden zu müssen! (Dann aber nicht für Rank!)
 
-Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample Set packen möchte. Ihr habt einen Piano Song und die dazugehörigen Piano Noten? Wunderbar! Packt sie in den Song Ordner und benutzt das Sample Menü! Ein schönes Beispiel wie ich das gemacht habe seht ihr auf meiner Map [Liz Triangle - The Starry true](https://osu.ppy.sh/s/327114) Ich habe das Intro einfach mit Piano Noten belegt. Dies gibt dem Song eine besondere Atmosphäre. Probiert es einfach mal aus!
+Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample Set packen möchte. Ihr habt einen Piano Song und die dazugehörigen Piano Noten? Wunderbar! Packt sie in den Song Ordner und benutzt das Sample Menü! Ein schönes Beispiel wie ich das gemacht habe seht ihr auf meiner Map [Liz Triangle - The Starry true](https://osu.ppy.sh/beatmapsets/327114) Ich habe das Intro einfach mit Piano Noten belegt. Dies gibt dem Song eine besondere Atmosphäre. Probiert es einfach mal aus!
 
 Auch andere gute Keysound Maps sind:
 
@@ -398,7 +398,7 @@ Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkei
 
 Die Slider Velocity oder auch SV spielt in Mania eine große Rolle. Sie kontrollieren das Scrollspeed die eine Map hat. Zur Klarstellung: Wenn ihr eine Map mit Multipler BPM habt, z.B Anfang 150 BPM und in der Mitte 200 BPM wird das Scrollspeed auf eimal viel schneller! Das wollen wir natürlich nicht und genau das regulieren wir mit den Inherited Points und der Slider Velocity.
 
-Nehmen wir mal als Beispiel folgende Map: [ginkiha - Starlight Express](https://osu.ppy.sh/s/216238)
+Nehmen wir mal als Beispiel folgende Map: [ginkiha - Starlight Express](https://osu.ppy.sh/beatmapsets/216238)
 
 Diese Map hat ungefähr ab der Mitte einen Speedup und somit werden auch die BPM Schneller, von ca 200 BPM hoch bis zu 400 BPM. Es gibt eine Simple Formel um hier die richtige SV Zu berechnen
 

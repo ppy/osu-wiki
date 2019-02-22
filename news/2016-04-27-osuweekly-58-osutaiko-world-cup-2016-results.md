@@ -35,7 +35,7 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 
 **For team Taiwan, every mistake in this final encounter cost them dearly.** While Japan took the first 6 games in the set, the individual results were [by no means completely one-sided](https://puu.sh/oxqYD/fa4392fc2b.png). The first song was won by a marginal 5638 difference, and a couple of minor shakeups following switching out some of Japan's star players allowed the Taiwanese team to put 2 points on the board for themselves. Taiwan, who hasn't seen a osu!taiko World Cup victory since 2013, wasn't quite out of it yet.
 
-However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/users/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/s/295703), where Japan [really put the nail in the coffin](https://puu.sh/oxryl/10b66ab4dd.png).
+However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/users/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/beatmapsets/295703), where Japan [really put the nail in the coffin](https://puu.sh/oxryl/10b66ab4dd.png).
 
 **It is my pleasure to present to you the winners of the osu!taiko World Cup 2016!**
 

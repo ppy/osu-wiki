@@ -74,10 +74,10 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 它可能还包含 .wav/.ogg （打击音效文件） 和目录（ StoryBoard 内容） 和/或皮肤相关文件。
 
 一般情况下它的命名形式为 `{Beatmap 编号} {艺术家} - {标题}`。      
-**示例：** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**示例：** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-请注意，在 osu! 初期，旧的谱面**不包含序号**且**不遵循以上命名规则**。可以参考范例 [Disco★Prince](https://osu.ppy.sh/s/1)  或 [avgn](https://osu.ppy.sh/s/66) 。    
-特别需要注意的是 [osu! Tutorial](https://osu.ppy.sh/s/3756) ，因为每个通过 osu! 安装程序安装的玩家都会拥有该谱面，并且手动创建或在坟场的谱面中 .osz / .zip 歌曲文件夹同样会被加入序号。
+请注意，在 osu! 初期，旧的谱面**不包含序号**且**不遵循以上命名规则**。可以参考范例 [Disco★Prince](https://osu.ppy.sh/beatmapsets/1)  或 [avgn](https://osu.ppy.sh/beatmapsets/66) 。    
+特别需要注意的是 [osu! Tutorial](https://osu.ppy.sh/beatmapsets/3756) ，因为每个通过 osu! 安装程序安装的玩家都会拥有该谱面，并且手动创建或在坟场的谱面中 .osz / .zip 歌曲文件夹同样会被加入序号。
 
 ### 隐藏的文件夹
 

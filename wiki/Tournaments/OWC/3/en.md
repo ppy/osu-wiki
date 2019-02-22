@@ -105,7 +105,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
   - [Shounen Radio - neu (v2b) \[EX\]](https://osu.ppy.sh/beatmaps/93893)
   - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[0108\]](https://osu.ppy.sh/beatmaps/157861)
   - [Xelia - Illumiscape (Kanna) \[Extra\]](https://osu.ppy.sh/beatmaps/152127)
-  - [Erik McClure - The Last Dead Angel (LKs) \[Extra\]](https://osu.ppy.sh/s/41568)
+  - [Erik McClure - The Last Dead Angel (LKs) \[Extra\]](https://osu.ppy.sh/beatmapsets/41568)
   - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/beatmaps/152199)
   - [Nekomata Master - Far east nightbird (tsuka) \[Extreme\]](https://osu.ppy.sh/beatmaps/111302)
   - [Kitsune Soundsystem - Raptorjesus Died for Our Sine Waves (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmaps/106050)
@@ -158,21 +158,21 @@ The osu! World Cup #3 was run by various community members by distributing the m
 
 - FreeMod
   - [bj.Halo - Ende (galvenize) \[Another\]](https://osu.ppy.sh/beatmaps/148716)
-  - [Memme - BSPower Explosion (AngelHoney) \[Extra\]](https://osu.ppy.sh/s/44967)
+  - [Memme - BSPower Explosion (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/44967)
   - [Levaster - NNRT (Reisen Udongein) \[Extra\]](https://osu.ppy.sh/beatmaps/146985)
   - [Skrillex - First Of The Year (nold_1702) \[ND1\]](https://osu.ppy.sh/beatmaps/187639)
   - [mafumafu - Yuugure Semi Nikki (L_P) \[0108\]](https://osu.ppy.sh/beatmaps/181589)
-  - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/s/53857)
-  - [Silent Spica - Anhedonia (Muya) \[Another\]](https://osu.ppy.sh/s/60136)
+  - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857)
+  - [Silent Spica - Anhedonia (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/60136)
   - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmaps/145361)
 - Hidden
   - [naotyu - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmaps/160104)
-  - [paraoka - Dreadnought (Star Stream) \[Insane\]](https://osu.ppy.sh/s/48356)
+  - [paraoka - Dreadnought (Star Stream) \[Insane\]](https://osu.ppy.sh/beatmapsets/48356)
 - HardRock
-  - [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/s/33483)
+  - [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483)
   - [kaztora, eba, Misaki Nakajima - Messiah (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmaps/75689)
 - DoubleTime
-  - [Infected Mushroom - The Legend of Black Shawarma (La Cataline) \[Insane\]](https://osu.ppy.sh/s/20122)
+  - [Infected Mushroom - The Legend of Black Shawarma (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmapsets/20122)
   - [Marie & Shimotsuki Haruka - Hane no Naki Chou (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmaps/115457)
 - Tiebreaker
   - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmaps/182001)**

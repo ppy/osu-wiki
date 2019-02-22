@@ -80,7 +80,7 @@ Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
 Ceci détermine la taille des cercles et des sliders. La valeur varie entre 2 et 7 avec les plus petites valeurs donnant des plus grosses tailles. Les petits cercles rendent la map difficile en exigeant le joueur à être plus précis.
 
-La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](https://osu.ppy.sh/s/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](https://osu.ppy.sh/s/1208).
+La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](https://osu.ppy.sh/beatmapsets/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](https://osu.ppy.sh/beatmapsets/1208).
 
 Il est possible en éditant manuellement le fichier `.osu` pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
 

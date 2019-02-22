@@ -25,9 +25,9 @@ Congratulations to the winners of the October 2014 Ranking Charts. They get rewa
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-- **osu! standard:** [galvenize](https://osu.ppy.sh/users/381444) for [Traktion - Mission ASCII](https://osu.ppy.sh/s/53249) (9 votes)
-- **Taiko:** [CoroQuetz](https://osu.ppy.sh/users/499843) for [Taishi - goldenslaughterer(Taishi's VW2 Edit)](https://osu.ppy.sh/s/129354) (10 votes)
-- **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [wowaka - Unhappy Refrain](https://osu.ppy.sh/s/155930) (11 votes)
+- **osu! standard:** [galvenize](https://osu.ppy.sh/users/381444) for [Traktion - Mission ASCII](https://osu.ppy.sh/beatmapsets/53249) (9 votes)
+- **Taiko:** [CoroQuetz](https://osu.ppy.sh/users/499843) for [Taishi - goldenslaughterer(Taishi's VW2 Edit)](https://osu.ppy.sh/beatmapsets/129354) (10 votes)
+- **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [wowaka - Unhappy Refrain](https://osu.ppy.sh/beatmapsets/155930) (11 votes)
 
 Good luck with the new charts!
 

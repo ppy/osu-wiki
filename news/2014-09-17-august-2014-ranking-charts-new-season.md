@@ -27,10 +27,10 @@ Congratulations to the winners of the July 2014 Ranking Charts. They get rewarde
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-*   **osu! standard:** [Macuilxochitl](https://osu.ppy.sh/users/418699) for [Starving Trancer - New Gravity](https://osu.ppy.sh/s/188877) (9 votes)
-*   **Taiko:** [Backfire](https://osu.ppy.sh/users/263110) & [-Anhedonia-](https://osu.ppy.sh/users/920861) for [Knife Party - Bonfire](https://osu.ppy.sh/s/73576) (11 votes)
-*   **Catch the Beat:** [Deif](https://osu.ppy.sh/users/318565) for [Toku-P ft. ryo - SPiCa x Melt](https://osu.ppy.sh/s/15066) (8 votes)
-*   **osu!mania:** [Fullerene-](https://osu.ppy.sh/users/2531335) for [Yuyoyuppe - AiAe](https://osu.ppy.sh/s/174381) (12 votes)
+*   **osu! standard:** [Macuilxochitl](https://osu.ppy.sh/users/418699) for [Starving Trancer - New Gravity](https://osu.ppy.sh/beatmapsets/188877) (9 votes)
+*   **Taiko:** [Backfire](https://osu.ppy.sh/users/263110) & [-Anhedonia-](https://osu.ppy.sh/users/920861) for [Knife Party - Bonfire](https://osu.ppy.sh/beatmapsets/73576) (11 votes)
+*   **Catch the Beat:** [Deif](https://osu.ppy.sh/users/318565) for [Toku-P ft. ryo - SPiCa x Melt](https://osu.ppy.sh/beatmapsets/15066) (8 votes)
+*   **osu!mania:** [Fullerene-](https://osu.ppy.sh/users/2531335) for [Yuyoyuppe - AiAe](https://osu.ppy.sh/beatmapsets/174381) (12 votes)
 
 Good luck with the new charts!
 

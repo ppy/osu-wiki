@@ -60,9 +60,9 @@ Untuk referensi lebih lanjut, silakan lihat muka [Pengkulitan](/wiki/Skinning). 
 **Beatmaps osu!**. Biasanya berisi .osu (Kesulitan), .mp3/.ogg (file musik), .jpg/.png/.gif (Gambar latar belakang), .osb (file SB) dan .mp4/.flv (file video). Kemungkinan berisi .wav/.ogg (file suara) dan folder (objek SB dan/atau skin).
 
 Formatnya adalah `{Kode nombor} {Penyanyi} - {Nama lagu}`.
-**Contoh:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Contoh:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](https://osu.ppy.sh/s/1)" atau "[avgn](https://osu.ppy.sh/s/66)". Disebutkan secara khusus pergi ke "[tutorial](https://osu.ppy.sh/s/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
+Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](https://osu.ppy.sh/beatmapsets/1)" atau "[avgn](https://osu.ppy.sh/beatmapsets/66)". Disebutkan secara khusus pergi ke "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
 
 Program files
 -----------------

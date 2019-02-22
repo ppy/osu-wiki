@@ -34,7 +34,7 @@ Beneath the technical mastery of the entry's construction, **ProfessionalBox** c
 
 His entry went above and beyond our greatest expectations for this contest. So strong was his entry's presence that it domineered the conversation surrounding it, and his complete victory in every scoring category bar one speaks for itself.
 
-[Play the winning entry here!](https://osu.ppy.sh/s/594751)
+[Play the winning entry here!](https://osu.ppy.sh/beatmapsets/594751)
 
 ---
 
@@ -50,7 +50,7 @@ Every pattern imaginable and even some never-before-seen make an appearance, eve
 
 Despite it all, **MinG3012**'s work is an absolute spectacle to behold, and it comes as no surprise to see it score so strongly in many domains.
 
-[Play MinG3012's game-breaking entry here!](https://osu.ppy.sh/s/594828)
+[Play MinG3012's game-breaking entry here!](https://osu.ppy.sh/beatmapsets/594828)
 
 ---
 

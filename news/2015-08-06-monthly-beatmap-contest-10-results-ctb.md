@@ -10,7 +10,7 @@ With our first ever CtB only mapping contest coming to a close, the results are 
 
 The winner of the contest was **[ZiRoX](https://osu.ppy.sh/users/200768)** with a score of 125 points. This is a large 10 point gap over **[WildOne94](https://osu.ppy.sh/users/WildOne94)**, who scored 115 points from the judges to get 2nd place, **[Xinely](https://osu.ppy.sh/users/Xinely)** with only 4 points keeping them from hitting a tie for 2nd takes 3rd with 111 points respectively!
 
-This map is going to be bundled into the installer for the game along with 6 months of supporter and a mapper title for the winning entry. For those who would like to play it right now, **[you can find it here](https://osu.ppy.sh/s/342751)**. Make sure you give it a go, as the map definitely earned its first place score.
+This map is going to be bundled into the installer for the game along with 6 months of supporter and a mapper title for the winning entry. For those who would like to play it right now, **[you can find it here](https://osu.ppy.sh/beatmapsets/342751)**. Make sure you give it a go, as the map definitely earned its first place score.
 
 If you want to know the judges comments and the results of the other mappers, you can take a look at them on the **[results page](https://osu.ppy.sh/p/contestresults?c=19)**.
 

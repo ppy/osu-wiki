@@ -11,7 +11,7 @@ After a grueling marathon of back-to-back judging, the results are finally here!
 
 Honourable mentions go to [CloudSplash16](https://osu.ppy.sh/users/2099102) and [Jenny](https://osu.ppy.sh/users/579428), scoring in at 198 and 192 respectively - only a paltry 7 points between first and second place!
 
-Play the winning beatmap [here](https://osu.ppy.sh/s/163112), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=10).
+Play the winning beatmap [here](https://osu.ppy.sh/beatmapsets/163112), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=10).
 
 ADHD, the album that My Love comes from, was released a few weeks ago on Bandcamp. If you liked the song, and wish to support the artist behind the track, consider purchasing the full album below!  
   

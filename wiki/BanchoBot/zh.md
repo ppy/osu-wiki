@@ -25,4 +25,4 @@ BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#
 | `WHERE`   | `<玩家名>`          | 显示目标用户的当前位置                                                  | `!where Kyubey`                       | "Kyubey is in Russia" |
 | `FAQ`     | `[语言:]<条目>/list`  | 显示目标条目的相消息。当输入条目为 `list` 时将返回所有可用条目列表。  | `!faq ping`                           | "Pong!" |
 | `REPORT`  | `<玩家名> <举报原因>` | 向聊天管理员举报某玩家的不当行为。玩家名中的空格用下划线 `_` 代替。     | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | 无                  | 随机返回某玩家要求他人协助修改的谱面。                     | `!request`                           | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+| `REQUEST` | 无                  | 随机返回某玩家要求他人协助修改的谱面。                     | `!request`                           | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252) by MrSergio" |

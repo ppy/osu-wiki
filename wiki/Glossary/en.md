@@ -79,7 +79,7 @@ Beatmapsets will always have the same music, sounds (if mapped), and video (if a
 
 A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapsets.
 
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
 
 This value can be found in the url of a beatmapset from osu!website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
 

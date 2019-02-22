@@ -32,8 +32,8 @@
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium par deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Liste des beatmaps officielles"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial par peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "osu!tutorial ranked par Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial par peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "osu!tutorial ranked par Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Liste des beatmaps triées par difficulté croissante"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Skin Taiko version 6.0 par LuigiHann"
 

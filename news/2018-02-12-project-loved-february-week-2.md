@@ -60,7 +60,7 @@ An often submitted community favorite, [Alonevpk](https://osu.ppy.sh/users/20809
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/beautiful-loli-thing.jpg)](https://osu.ppy.sh/community/forums/topics/702304)
 
-[kiri09](https://osu.ppy.sh/users/932147)'s map of beautiful loli thing is a timeless classic that has seen a lot of play over the years in several multi lobbies! This map is sure to test your streaming ability, and features both AR 9 and AR 10 diffs for your reading convenience. In the wise words of [kiri09](https://osu.ppy.sh/users/932147): "[Let's hand crush](https://osu.ppy.sh/s/114849)".
+[kiri09](https://osu.ppy.sh/users/932147)'s map of beautiful loli thing is a timeless classic that has seen a lot of play over the years in several multi lobbies! This map is sure to test your streaming ability, and features both AR 9 and AR 10 diffs for your reading convenience. In the wise words of [kiri09](https://osu.ppy.sh/users/932147): "[Let's hand crush](https://osu.ppy.sh/beatmapsets/114849)".
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/hachigatsu-no-yoru.jpg)](https://osu.ppy.sh/community/forums/topics/702305)
 

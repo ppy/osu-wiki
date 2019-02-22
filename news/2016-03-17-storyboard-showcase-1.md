@@ -15,7 +15,7 @@ Before we get into today's storyboard, let's get some specifics about how the ne
 
 + **Storyboard Showcases will now happen regularly monthly.** The previous intervals proved a little dense to put in brief.
 
-Without further ado, let's take a look at the first storyboard: [yuiko & Meis Clauson - Aozora Memories](https://osu.ppy.sh/s/349062) by [Gelbana](https://osu.ppy.sh/users/Gelbana)!
+Without further ado, let's take a look at the first storyboard: [yuiko & Meis Clauson - Aozora Memories](https://osu.ppy.sh/beatmapsets/349062) by [Gelbana](https://osu.ppy.sh/users/Gelbana)!
 
 ---
 

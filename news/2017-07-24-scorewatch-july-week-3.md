@@ -18,7 +18,7 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/S4IRUC5E7RY" frameborder="0" allowfullscreen></iframe></br>
 
-[WubWoofWolf](https://osu.ppy.sh/users/39828) picks a spot in this article with a massive HDHR SS on [DJ S3RL - T-T-Techno (feat. Jesskah)](https://osu.ppy.sh/s/83560) to take 349pp and the number one spot. Weird spacings and sliders prove that this map would take an amazing play for it to get SSed, and the former number one has shown his skill to do so.
+[WubWoofWolf](https://osu.ppy.sh/users/39828) picks a spot in this article with a massive HDHR SS on [DJ S3RL - T-T-Techno (feat. Jesskah)](https://osu.ppy.sh/beatmapsets/83560) to take 349pp and the number one spot. Weird spacings and sliders prove that this map would take an amazing play for it to get SSed, and the former number one has shown his skill to do so.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aKuLWtL-qNw" frameborder="0" allowfullscreen></iframe></br>
 
@@ -26,7 +26,7 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2L_1pHPLq7g" frameborder="0" allowfullscreen></iframe></br>
 
-[Spectator](https://osu.ppy.sh/users/702598) comfortably took [goreshit - burn this moment into the retina of my eye](https://osu.ppy.sh/s/481632) and tore it to shreds with a 99.76% HD FC to take 947pp and the number one spot. Have a look at some 217bpm fruit catching action!
+[Spectator](https://osu.ppy.sh/users/702598) comfortably took [goreshit - burn this moment into the retina of my eye](https://osu.ppy.sh/beatmapsets/481632) and tore it to shreds with a 99.76% HD FC to take 947pp and the number one spot. Have a look at some 217bpm fruit catching action!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ai4aSRSp0Rg" frameborder="0" allowfullscreen></iframe></br>
 
@@ -41,7 +41,7 @@ In all of his extraordinary glory, [kablaze](https://osu.ppy.sh/users/3043603) d
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[_yu68](https://osu.ppy.sh/users/6170507) and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/s/555073).
+[_yu68](https://osu.ppy.sh/users/6170507) and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/D37TPIuwPP8" frameborder="0" allowfullscreen></iframe></br>

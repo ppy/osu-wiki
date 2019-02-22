@@ -24,7 +24,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/-40fLtf9Hio?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
-> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/s/728276) by [SnowNiNo\_](https://osu.ppy.sh/users/2506267), Sidetracked Day builds and just keeps on building right until the very end.
+> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/beatmapsets/728276) by [SnowNiNo\_](https://osu.ppy.sh/users/2506267), Sidetracked Day builds and just keeps on building right until the very end.
 
 *A short version of this track is available.*
 

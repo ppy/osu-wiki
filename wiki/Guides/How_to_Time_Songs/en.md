@@ -38,7 +38,7 @@ So the plan of action in nutshell:
 
 ### BPM and offset
 
-When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](https://osu.ppy.sh/s/8894)), and in cases like this you can follow the vocals.
+When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](https://osu.ppy.sh/beatmapsets/8894)), and in cases like this you can follow the vocals.
 
 Play your track from the beginning and keep listening to it until you come to a point where you can clearly hear the rhythm and catch it. At this point, stop the song, wind back a little bit, start listening again and tapping `T` key as consistently as possible (you can also click the button in the top right corner that says "Tap here!", but keyboard usually gives more accurate results). The parameters (BPM, Offset) will change with every new tap you make, but don't mind it, you'll iron them out later. Spend half a minute on this, a minute at maximum.
 

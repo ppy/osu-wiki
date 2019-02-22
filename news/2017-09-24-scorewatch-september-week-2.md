@@ -16,7 +16,7 @@ Scorewatch continues to thrive with more incredible plays from the community! We
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1I0XI8AsCUI" frameborder="0" allowfullscreen></iframe></br>
 
-[Cookiezi](https://osu.ppy.sh/users/124493) has another 700pp score in sight... that was what we thought when he decided to miss the last note of [Foreground Eclipse - From Under Cover (Caught Up In A Love Song)](https://osu.ppy.sh/s/462386), setting a 99.32% HDHR 1x miss to earn 690pp. Intentional or not, he still remains top amongst the rest.
+[Cookiezi](https://osu.ppy.sh/users/124493) has another 700pp score in sight... that was what we thought when he decided to miss the last note of [Foreground Eclipse - From Under Cover (Caught Up In A Love Song)](https://osu.ppy.sh/beatmapsets/462386), setting a 99.32% HDHR 1x miss to earn 690pp. Intentional or not, he still remains top amongst the rest.
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/TptBK7zWrdU" frameborder="0" allowfullscreen></iframe></br>
 
@@ -48,7 +48,7 @@ NOTABLE MENTIONS
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[WindyS](https://osu.ppy.sh/users/1190879) takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/s/354157).
+[WindyS](https://osu.ppy.sh/users/1190879) takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/beatmapsets/354157).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YwobO3E0lz0" frameborder="0" allowfullscreen></iframe></br>
 

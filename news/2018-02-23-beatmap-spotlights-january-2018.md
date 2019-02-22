@@ -112,7 +112,7 @@ Moreover, the Overdose stands out for its genius use of Hyperdashes in kiai time
 
 [Spectator](https://osu.ppy.sh/users/702598)'s fine art for Deemo lovers! Collaborating with [Ascendance](https://osu.ppy.sh/users/2931883) and [Sinnoh](https://osu.ppy.sh/users/4236057), Spectator brings us Marigold by M2U feat. Guriri, an appealing song with a top quality map. Despite the relatively low BPM, the intensity of the song is well expressed with wiggling and bursts used right to the point. On top of the map itself, it contains a splendid storyboard adding to its excellence. Be sure to check out this masterpiece!
 
-[![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/uta.jpg)](https://osu.ppy.sh/s/457332)
+[![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/uta.jpg)](https://osu.ppy.sh/beatmapsets/457332)
 
 You've had to have lived under a rock (underneath another rock) to not heard of this one - it's Uta mapped by [Kyuare](https://osu.ppy.sh/users/2705312)! With over 150 favorites over the course of two years, this map is quite the hyped map.
 

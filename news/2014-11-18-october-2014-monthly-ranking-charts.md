@@ -19,9 +19,9 @@ Congratulations to the winners of the September 2014 Ranking Charts. They get re
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-- **osu! standard:** [jonathanlfj](https://osu.ppy.sh/users/jonathanlfj) for [Nekomata Master - Far east nightbird (kors k Remix)](https://osu.ppy.sh/s/144171) (10 votes)
-- **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [ginkiha - Oriens](https://osu.ppy.sh/s/202040) (9 votes)
-- **Catch the Beat:** [Spectator](https://osu.ppy.sh/users/702598) for [Warak - REANIMATE](https://osu.ppy.sh/s/209103) (9 votes)
+- **osu! standard:** [jonathanlfj](https://osu.ppy.sh/users/jonathanlfj) for [Nekomata Master - Far east nightbird (kors k Remix)](https://osu.ppy.sh/beatmapsets/144171) (10 votes)
+- **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [ginkiha - Oriens](https://osu.ppy.sh/beatmapsets/202040) (9 votes)
+- **Catch the Beat:** [Spectator](https://osu.ppy.sh/users/702598) for [Warak - REANIMATE](https://osu.ppy.sh/beatmapsets/209103) (9 votes)
 
 Good luck with the new charts!
 

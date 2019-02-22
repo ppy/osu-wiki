@@ -121,7 +121,7 @@ Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/forum/t/104342/" class=
 <tr class="even">
 <td><p>Stosuj oryginalne nazewnictwo</p></td>
 <td><p>Jeśli to możliwe, tytuły piosenek będą wyświetlane w ich ojczystym języku (wraz z zapisem).<br />
-<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="https://osu.ppy.sh/s/44443">Wspomniana beatmapa</a></p></td>
+<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="https://osu.ppy.sh/beatmapsets/44443">Wspomniana beatmapa</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Użyj alternatywnej czcionki dla czatu</p></td>

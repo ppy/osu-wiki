@@ -14,7 +14,7 @@ A close encounter with Airman, multiple 700pp plays and more in this week's edit
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/54zMM_JN98k" frameborder="0" allowfullscreen></iframe></center>
 
-We showcased this play on our blog, but it is something not to be showcased on the front page of osu! Either! Enter [Angelsim](https://osu.ppy.sh/users/1777162) who, and with the power of the tablet, stole the No. 2 spot on [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/s/596704) with a stunning 99.22% HDHRDT FC to earn 712pp. Not bad for a player who has now 700pp plays with a mouse and, this time, with a tablet.
+We showcased this play on our blog, but it is something not to be showcased on the front page of osu! Either! Enter [Angelsim](https://osu.ppy.sh/users/1777162) who, and with the power of the tablet, stole the No. 2 spot on [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmapsets/596704) with a stunning 99.22% HDHRDT FC to earn 712pp. Not bad for a player who has now 700pp plays with a mouse and, this time, with a tablet.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aj8rtGjb4FM" frameborder="0" allowfullscreen></iframe></center>
 
@@ -42,7 +42,7 @@ NOTABLE MENTIONS
 SCOREWATCH SCORE SHOW
 ------
 
-The Top 2 Koreans of the osu! scene, [Cookiezi](https://osu.ppy.sh/users/124493) and [Angelsim](https://osu.ppy.sh/users/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/s/479811).
+The Top 2 Koreans of the osu! scene, [Cookiezi](https://osu.ppy.sh/users/124493) and [Angelsim](https://osu.ppy.sh/users/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/beatmapsets/479811).
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sKmi6j0A_FA" frameborder="0" allowfullscreen></iframe></center>
 

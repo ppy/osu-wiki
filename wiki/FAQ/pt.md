@@ -21,7 +21,7 @@ como a maioria dos usuários de computadores não possuem tela touchscreen, o jo
 
 ### Básico sobre a Jogabilidade
 
-`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](https://osu.ppy.sh/s/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](https://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](https://osu.ppy.sh/beatmapsets/19928)
 
 A Jogabilidade tem foco em testar seus sentidos em:-
 
@@ -342,7 +342,7 @@ Os maps são muito difíceis! Onde eu acho os maps mais fáceis?
 
 Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <https://osu.ppy.sh/forum/t/5456>
 
-E também [versão não-oficial ranqueada do tutorial osu! tutorial](https://osu.ppy.sh/s/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
+E também [versão não-oficial ranqueada do tutorial osu! tutorial](https://osu.ppy.sh/beatmapsets/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
 
 Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](https://osu.ppy.sh/?p=beatmaplist&s=3). Os maps mais fáceis estão no topo da lista
 
@@ -367,7 +367,7 @@ Créditos
 ========
 
 -   FAQ do peppy[1](https://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/s/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/s/19928))
+-   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
 -   Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/forum/t/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)
