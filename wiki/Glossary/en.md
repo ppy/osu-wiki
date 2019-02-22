@@ -502,7 +502,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [_modding_](/wiki/modding), and the posts are referred to as _mods_.
 
-Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
+Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
 ## N
 
@@ -721,7 +721,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
-To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
 To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its subpages).
 

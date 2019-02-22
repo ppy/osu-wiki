@@ -3,7 +3,7 @@ osu!taiko Ranking Criteria
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
-这些规则和指南是在 [Ranking Criteria 论坛](https://osu.ppy.sh/forum/87)中被讨论出来的。一些正在讨论中的新规则和指南，将会在意见达成一致后更新。
+这些规则和指南是在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中被讨论出来的。一些正在讨论中的新规则和指南，将会在意见达成一致后更新。
 
 术语
 ---------

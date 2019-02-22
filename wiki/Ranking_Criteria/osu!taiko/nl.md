@@ -1,7 +1,7 @@
 osu!taiko Ranking Criteria
 =========================================
 
-Over deze regels en richtlijnen is gediscussieerd in het [osu!taiko Discussion Thread](https://osu.ppy.sh/community/forums/posts/1275323). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [discussion forum](https://osu.ppy.sh/forum/87) dat zal worden geupdated, als de discussie wordt afgerond
+Over deze regels en richtlijnen is gediscussieerd in het [osu!taiko Discussion Thread](https://osu.ppy.sh/community/forums/posts/1275323). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [discussion forum](https://osu.ppy.sh/community/forums/87) dat zal worden geupdated, als de discussie wordt afgerond
 
 Veel voorkomende termen
 -------------------------

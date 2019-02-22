@@ -46,7 +46,7 @@ Alternative route: Put audio file onto the "Songs" folder.
 How do I time a song properly?
 ------------------------------
 
-**Timing is vital - incorrectly timed maps will not be considered for ranking.** Make sure your timing is perfect before putting any notes in. If in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10). This will save a *lot* of hassle later on.
+**Timing is vital - incorrectly timed maps will not be considered for ranking.** Make sure your timing is perfect before putting any notes in. If in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/community/forums/10). This will save a *lot* of hassle later on.
 
 Here are some tips for getting your timing right:-
 

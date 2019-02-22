@@ -97,5 +97,5 @@ Questions et problèmes fréquents
     -   Votre beatmap est peut-être corrompue. Essayez de la retélécharger ?
 -   **Autres problèmes**
     -   Veuillez vous adresser aux joueurs sur le canal #help afin de recevoir de l'aide.
-    -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](https://osu.ppy.sh/forum/5) (en anglais).
+    -   Vous pouvez aussi signaler un bug (s'il n'a pas déjà été signalé) sur [cette section](https://osu.ppy.sh/community/forums/5) (en anglais).
     -   Si votre problème concerne des versions non-officielles du jeu, veuillez consulter leur section appropriée sur le forum (voir plus haut).

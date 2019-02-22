@@ -44,7 +44,7 @@ Rota alternativa: Coloque o ficheiro de áudio na pasta "Songs".
 Como eu faço o Timing (cronometragem) da música apropriadamente?
 ----------------------------------------------------------------
 
-'''Timing é vital - mapas incorretamente cronometrados nunca se tornarão Ranked. '''Tenha certeza que seu timing é perfeito antes de colocar quaisquer notas nele. Se estiver com dúvidas sobre o timing, antes de mais contacte um mod, ou faça submit da sua música no [forum de ajuda a Beatmap](https://osu.ppy.sh/forum/10). Isso vai evitar bastantes aborrecimentos mais tarde.
+'''Timing é vital - mapas incorretamente cronometrados nunca se tornarão Ranked. '''Tenha certeza que seu timing é perfeito antes de colocar quaisquer notas nele. Se estiver com dúvidas sobre o timing, antes de mais contacte um mod, ou faça submit da sua música no [forum de ajuda a Beatmap](https://osu.ppy.sh/community/forums/10). Isso vai evitar bastantes aborrecimentos mais tarde.
 
 Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da música:-
 

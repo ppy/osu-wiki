@@ -307,7 +307,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 
 1.  Cette zone sur le côté droit de l'écran liste les skins que vous avez téléchargés et placés dans le sous-dossier Skins d'osu!. Pour changer de skin, cliquez simplement sur l'un d'eux.
 2.  Au centre, un aperçu du skin sélectionné est affiché. L'intelligence artificielle est programmée pour faire des erreurs afin que vous puissiez voir le plus d'éléments possibles.
-3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](https://osu.ppy.sh/forum/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
+3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](https://osu.ppy.sh/community/forums/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
     1.  Pour une liste de skins (en anglais):[Original](https://osu.ppy.sh/community/forums/topics/23820), [Mis à jour](https://osu.ppy.sh/community/forums/topics/180864), [version](https://osu.ppy.sh/community/forums/topics/136163).
 
 4.  Cliquer sur "Beatmap aléatoire" va charger une beatmap au hasard parmi votre liste de beatmaps avec le skin sélectionné.

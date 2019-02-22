@@ -276,4 +276,4 @@ Tautan
 ======
 
 -   [Website resmi osu!stream](http://www.osustream.com)
--   [Forum diskusi (osu!)](https://osu.ppy.sh/forum/79)
+-   [Forum diskusi (osu!)](https://osu.ppy.sh/community/forums/79)

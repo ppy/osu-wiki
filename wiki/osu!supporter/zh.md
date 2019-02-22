@@ -19,7 +19,7 @@ outdated: true
 -   [谱面列表](https://osu.ppy.sh/p/beatmaplist)：按照玩过或未玩过来过滤谱面搜索结果。
 -   [皮肤](/wiki/Skinning)：可以使用一些额外的皮肤元素，例如[主菜单](https://osu.ppy.sh/community/forums/topics/96949)中的背景。
     -   具体包括：`menu-background.jpg`（主菜单）；`triangle.jpg`（三角形）；`welcome.wav`（欢迎音乐）；`seeya.wav`（退出音效）
--   [新功能需求](https://osu.ppy.sh/forum/4)：新功能需求的额外投票（每月 2 票，未赞助时每月 1 票）。
+-   [新功能需求](https://osu.ppy.sh/community/forums/4)：新功能需求的额外投票（每月 2 票，未赞助时每月 1 票）。
 -   [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod 特定排名。
 -   个人主页：<https://osu.ppy.sh/users/>
     -   你可以在你的个人主页上添加个人介绍。

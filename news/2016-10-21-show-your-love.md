@@ -35,7 +35,7 @@ Just a reminder, **this is just one way that maps will enter the Loved category 
 
 Now that we've gotten that out of the way..
 
-[Head on over to the Community Voice forum and check out the Announcement posts to get started on voting for your favourites!](https://osu.ppy.sh/forum/65).
+[Head on over to the Community Voice forum and check out the Announcement posts to get started on voting for your favourites!](https://osu.ppy.sh/community/forums/65).
 
 You're also all very welcome to discuss any maps you think would be worth adding in the polling threads, but please keep it civil! It's all about the love, after all.
 

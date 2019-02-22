@@ -5,7 +5,7 @@ osu!mania Ranking Criteria
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
-这里会列出 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
+这里会列出 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
 
 术语
 ------

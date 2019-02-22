@@ -19,7 +19,7 @@ Vorteile als osu!supporter
 -   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
 -   [Skinning](DE:Skinning "wikilink"): Zusätzliche Skin-Elemente können verwendet und editiert werden.
     -   Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
--   [Feature Requests](https://osu.ppy.sh/forum/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
 -   \[\[DE:Interface\#Songauswahl|Songauswahl\]: Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
 -   Dein Profil: <https://osu.ppy.sh/users/>
     -   Du kannst deine eigene individuelle Userpage aktivieren.

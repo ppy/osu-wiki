@@ -38,7 +38,7 @@ _Lihat juga: [Timing](/wiki/Timing)_
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
 Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
 
-Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
+Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose

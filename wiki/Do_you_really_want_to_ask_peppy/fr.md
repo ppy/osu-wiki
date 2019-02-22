@@ -5,7 +5,7 @@ Salutations. Je comprends ton besoin de me contacter personellement, mais je te 
 
 ## Support Technique
 
-La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/forum/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouveras donc plus rapidement une solution comme ça qu'en me contactant.
+La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/community/forums/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouveras donc plus rapidement une solution comme ça qu'en me contactant.
 
 ## Support Général d'osu!
 

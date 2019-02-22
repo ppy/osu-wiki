@@ -104,9 +104,9 @@ Maaaring na-corrupt ang beatmap na na-idownload mo o kaya naman hindi nakumpleto
 
 ### May iba bang mali na hindi naka sulat dito?
 
-Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa [Technical Support](https://osu.ppy.sh/forum/5) sa wikang Ingles.
+Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa [Technical Support](https://osu.ppy.sh/community/forums/5) sa wikang Ingles.
 
-"Bago magpost sa [Technical Support](https://osu.ppy.sh/forum/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
+"Bago magpost sa [Technical Support](https://osu.ppy.sh/community/forums/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
 
 "Pwede ka rin pumunta sa \#help channel at magtanong tungkol sa problema mo."
 

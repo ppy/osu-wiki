@@ -5,7 +5,7 @@ outdated: true
 Torneios
 ===============
 
-Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/forum/55)
+Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/community/forums/55)
 
 Copas do Mundo Oficiais
 ----------------------

@@ -1127,7 +1127,7 @@ The screen(s) *used* to be available in the Options menu. You can access this sc
 1.  This area on the right lists skins you have downloaded in your Skins subfolder. To switch to another one, simply click on its respective bar.
 2.  Currently listening beatmap's design will play on the majority of the screen, using the elements of the skin currently selected. The artificial intelligence playing the beatmap is designed to display as many different visual elements in as short a period of time as possible.
 3.  Clicking on "Export as .osk" will export the selected skin to .osk file in "Exports" folder.
-4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](https://osu.ppy.sh/forum/109), where you can download more skins for your viewing pleasure.
+4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](https://osu.ppy.sh/community/forums/109), where you can download more skins for your viewing pleasure.
     1.  For a compendium of skins: [Original](https://osu.ppy.sh/community/forums/topics/23820), [Updated](https://osu.ppy.sh/community/forums/topics/180864) [version](https://osu.ppy.sh/community/forums/topics/136163).
 
 5.  Clicking "Random Beatmap" will load randomly selected difficulty from your collection to review the currently selected skin's appearance.

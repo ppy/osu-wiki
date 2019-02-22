@@ -3,7 +3,7 @@ osu!
 
 The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/forum/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
 Glossary
 --------

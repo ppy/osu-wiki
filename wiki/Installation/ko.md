@@ -222,7 +222,7 @@ FAQ and troubleshooting
     -   Your file is incomplete/corrupted. Did you just cancel the download half-way? If so, search back that song name and download it again and stay till the song has completed it's download properly.
         -   osu! will put the incomplete/corrupted song under "Failed" folder in "Songs" folder file.
 -   **Something else going wrong?**
-    -   If you come across a bug or error not listed above, check out the [Bug Reports forum](https://osu.ppy.sh/forum/5) and post there (searching through existing threads first is highly recommended). Someone will definitely be around to help. Just make sure you speak your points clearly and provide a proof to back-up your points (like a screenshot, video, and/or the steps to reproduce).
+    -   If you come across a bug or error not listed above, check out the [Bug Reports forum](https://osu.ppy.sh/community/forums/5) and post there (searching through existing threads first is highly recommended). Someone will definitely be around to help. Just make sure you speak your points clearly and provide a proof to back-up your points (like a screenshot, video, and/or the steps to reproduce).
     -   Also, please consider using the osu! IRC channel if you are bit skeptical to post at Bug Reports section.
 
 ### osu!droid

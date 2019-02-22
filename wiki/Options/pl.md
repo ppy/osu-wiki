@@ -1119,7 +1119,7 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 1.  Ten obszar po prawo to lista skórek umieszczonych w folderze Skins, Aby zmienić wygląd osu!, po prostu kliknij na odpowiedni przycisk.
 2.  Obecnie słuchana beatmapa zostanie odtworzona, aby wyświetlić elementy skórki. Sztuczna inteligencja grająca beatmapę jest tak stworzona aby wyświetlać wiele elementów w krótkim czasie.
 3.  Naciśnięcie "Export as .osk" wyeksportuje obecną skórkę jako plik .osk i umieści ją w folderze "Exports".
-4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/forum/109), gdzie będzie można pobrać więcej skórek.
+4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/community/forums/109), gdzie będzie można pobrać więcej skórek.
     1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/community/forums/topics/23820), [zaktualizowana](https://osu.ppy.sh/community/forums/topics/180864) [wersja](https://osu.ppy.sh/community/forums/topics/136163).
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.

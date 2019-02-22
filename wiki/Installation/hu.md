@@ -190,7 +190,7 @@ GYIK és hibakeresés
     -   A fájlod nem teljes, vagy megsérült. Nem szakítottad meg véletlenül a letöltést félúton? Ha így tettél, keresd meg újra a számot, töltsd le újra és várj, amíg a letöltés befejeződik.
         -   Az osu! a nem teljes/megsérült számot a "Failed" mappába helyezi a "Songs" mappán belül.
 -   **Egyéb hiba?**
-    -   Ha hibát találsz, ami a fenti listában nem szerepel, vess egy pillantást a [Bug Reports fórumra](https://osu.ppy.sh/forum/5), és (miután megbizonyosodtál róla, hogy más még nem jelentette) hozz létre egy témát vele kapcsolatban. Valaki biztosan látni fogja és segíteni fog. Írd le a problémád tisztán és érthetően, valamint támaszd alá bizonyítékkal is (képernyőkép, videó és/vagy lépések, amikkel előidézhető).
+    -   Ha hibát találsz, ami a fenti listában nem szerepel, vess egy pillantást a [Bug Reports fórumra](https://osu.ppy.sh/community/forums/5), és (miután megbizonyosodtál róla, hogy más még nem jelentette) hozz létre egy témát vele kapcsolatban. Valaki biztosan látni fogja és segíteni fog. Írd le a problémád tisztán és érthetően, valamint támaszd alá bizonyítékkal is (képernyőkép, videó és/vagy lépések, amikkel előidézhető).
     -   Fontold meg az osu! IRC csatorna használatát is, ha valamiért nem akarsz a fórumba írni.
 
 ### osu!droid

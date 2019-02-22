@@ -2,7 +2,7 @@
 
 ## January
 
-osu! makes its way to the iPhone from a port to the iPhone by nuudles. The project was given its own [subforum](https://osu.ppy.sh/forum/47).
+osu! makes its way to the iPhone from a port to the iPhone by nuudles. The project was given its own [subforum](https://osu.ppy.sh/community/forums/47).
 
 ![](img/2009-01_01.jpg "osu! iPhone's Title screen")
 

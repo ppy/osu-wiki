@@ -19,7 +19,7 @@ Voordelen van osu!supporter
 -   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist) (?): Filter beatmap zoekopdrachten op gespeelde en niet gespeelde beatmaps.
 -   <NL:Skinning>: Toegang tot iets meer skin elementen zoals [main menu](https://osu.ppy.sh/community/forums/topics/96949), osu!direct or multi's achtergronden.
     -   Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
--   [Feature Requests](https://osu.ppy.sh/forum/4): Extra stemmen voor Feature Requests (2 per maand).
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
 -   [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
 -   Your Profile: <https://osu.ppy.sh/users/>
     -   Je kan een userpage aan je profiel toevoegen.

@@ -1,7 +1,7 @@
 osu!taiko Ranking Criteria
 =====================================
 
-Estas reglas y pautas (guidelines) han sido discutidas en el [Hilo de Discusión de osu!taiko (en inglés)](https://osu.ppy.sh/community/forums/posts/1275323). Nuevas reglas o pautas pueden ser sugeridas en el [foro de discusión (en inglés)](https://osu.ppy.sh/forum/87), las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
+Estas reglas y pautas (guidelines) han sido discutidas en el [Hilo de Discusión de osu!taiko (en inglés)](https://osu.ppy.sh/community/forums/posts/1275323). Nuevas reglas o pautas pueden ser sugeridas en el [foro de discusión (en inglés)](https://osu.ppy.sh/community/forums/87), las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
 Términos comunes
 ------------------

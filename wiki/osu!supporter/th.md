@@ -21,7 +21,7 @@ outdated: true
 -   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist) : กรองบีทแมพที่เล่นแล้ว/ยังไม่เล่น ได้
 -   การทำสกิน: คุณจะสามารถใช้วัตถุบางอย่างในเกมได้ เช่นภาพพื้นหลังของ [เมนูหลัก](https://osu.ppy.sh/community/forums/topics/96949)
     -   เช่น `menu-background.jpg` (หน้าเมนูหลัก); `triangle.jpg` (รูปสามเหลี่ยม (ตอนนี้ใช้ไม่ได้)); `welcome.wav` (เสียงตอนเปิดเกม); `seeya.wav` (เสียงตอนออกเกม)
--   [กระทู้ Feature Requests](https://osu.ppy.sh/forum/4): ได้คะแนนโหวตกระทู้เพิ่มขึ้น (2 โหวตต่อเดือน จาก 1 โหวตต่อเดือน).
+-   [กระทู้ Feature Requests](https://osu.ppy.sh/community/forums/4): ได้คะแนนโหวตกระทู้เพิ่มขึ้น (2 โหวตต่อเดือน จาก 1 โหวตต่อเดือน).
 -   [หน้าเลือกเพลงในเกม](/wiki/Interface): สามารถกรองอันดับคะแนนเฉพาะในประเทศ / เพื่อน หรือเฉพาะ mod ที่เราเปิดใช้ ก็ได้
 -   ที่หน้าโปรไฟล์ของเรา: <https://osu.ppy.sh/users/>
     -   มี User Page เป็นของตัเองด้วย

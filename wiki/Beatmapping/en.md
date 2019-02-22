@@ -38,7 +38,7 @@ The next step is to add timing to your beatmap.
 Incorrectly timed maps will not be considered for ranking.
 You must make sure that your timing is perfect before adding any [hit objects](/wiki/hit_objects).
 
-If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10).
+If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 This will save you (and the modding community) a lot of hassle later on.
 
 ### Compose

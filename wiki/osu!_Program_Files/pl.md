@@ -54,7 +54,7 @@ Szyk: `screenshot###` gdzie "###" to numer zrzutu ekranu.
 
 ### Skins
 
-Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/forum/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
+Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
 
 Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning). Również, "osu! by peppy" to jedyny skin bez folderu oraz nie może zostać skasony bezpośrednio.
 
