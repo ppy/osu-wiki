@@ -63,7 +63,7 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 
 A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
 
-You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
+You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
 
 This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 

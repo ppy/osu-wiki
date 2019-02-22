@@ -20,7 +20,7 @@ And try to avoid these:
 Examples
 --------
 
-[PON & Makino Mizuta - WO AI NI (Kantan) (MMzz)](https://osu.ppy.sh/b/284900)
+[PON & Makino Mizuta - WO AI NI (Kantan) (MMzz)](https://osu.ppy.sh/beatmaps/284900)
 
 -   Mostly a usage of **monotonically patterns.**
 -   Easy beat-wise mapping at 00:02:951 (4) - with a big space afterwards.

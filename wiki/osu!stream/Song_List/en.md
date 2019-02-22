@@ -212,7 +212,7 @@ Price: **USD$1.99**
 **Packlist:-**
 
 - [SHIKI - Lapis](https://osu.ppy.sh/beatmapsets/19230 ) - Team STREAM - ![2.5][dif5]
-- [SHIKI - Pure Ruby](https://osu.ppy.sh/b/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
+- [SHIKI - Pure Ruby](https://osu.ppy.sh/beatmaps/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
 - [SHIKI - BABYLON](https://osu.ppy.sh/beatmapsets/31373) - [Xgor][Xgor] - ![4][dif8]
 - [SHIKI - Jade Star](https://osu.ppy.sh/beatmapsets/19221) - [Nakagawa-Kanon][Nakagawa-Kanon] - ![3.5][dif7]
 

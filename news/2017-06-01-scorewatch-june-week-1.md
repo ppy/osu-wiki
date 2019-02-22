@@ -10,11 +10,11 @@ Scorewatch has spread its wings and liberated itself from the osu!weekly once an
 
 ![](https://assets.ppy.sh/media/scorewatch/june-2017.png)
 
-[Adamqs](https://osu.ppy.sh/users/613592) took a 50 minute stroll down memory lane as he took on the [Within Temptation - The Unforgiving](https://osu.ppy.sh/b/156352) Marathon, slapping on HDHR to snipe WubWoofWolf with a crazy 97.79% HDHR FC to claim 358pp. If I were you, I would totally watch the whole thing.
+[Adamqs](https://osu.ppy.sh/users/613592) took a 50 minute stroll down memory lane as he took on the [Within Temptation - The Unforgiving](https://osu.ppy.sh/beatmaps/156352) Marathon, slapping on HDHR to snipe WubWoofWolf with a crazy 97.79% HDHR FC to claim 358pp. If I were you, I would totally watch the whole thing.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/OomdWCn8OIE" frameborder="0" allowfullscreen></iframe></center>
 
-[Bubbleman](https://osu.ppy.sh/users/5182050) broke his limits and sprinted into the top 50 with an insane 99.30% HDDT 1 miss on [Yousei Teikoku - Torikago](https://osu.ppy.sh/b/894189) to earn himself 617pp. What a terrible choke, but do go give this guy some love!
+[Bubbleman](https://osu.ppy.sh/users/5182050) broke his limits and sprinted into the top 50 with an insane 99.30% HDDT 1 miss on [Yousei Teikoku - Torikago](https://osu.ppy.sh/beatmaps/894189) to earn himself 617pp. What a terrible choke, but do go give this guy some love!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LzdSz7nit7k" frameborder="0" allowfullscreen></iframe></center>
 

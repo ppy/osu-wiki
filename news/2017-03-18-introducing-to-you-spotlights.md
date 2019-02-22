@@ -173,7 +173,7 @@ This map is as brutal as the song suggests - Continuous streams and slider jumps
 
 Irreversible shocked us with a very interesting approach to vocal mapping. Once again, he decided to go for a Korean Pop song, yet the way it is mapped truly feels connected with the song. Normal difficulty also feels somewhat different from what we are used to see on current mapping, with new pattern ideas. Definitely worth a try despite not having a high-level difficulty.
 
-+ [Sakamoto Maaya - Shikisai](https://osu.ppy.sh/b/872668) by [Delis](https://osu.ppy.sh/users/1603923) (Nominator: [Desperate-kun](https://osu.ppy.sh/users/2202645))
++ [Sakamoto Maaya - Shikisai](https://osu.ppy.sh/beatmaps/872668) by [Delis](https://osu.ppy.sh/users/1603923) (Nominator: [Desperate-kun](https://osu.ppy.sh/users/2202645))
 
 Sometimes, when older mappers rise from the grave, it almost seems like they forgot how to map. Clearly not the case with Delis! This mapset still has the charms from 3-4 years ago, but can easily keep up with modern standards! Especially impressive is the very varied patterning that still feels cohesive and the great flow that goes along with it! The lower difficulties are also really well mapped, making this mapset great for players of all skill levels.
 

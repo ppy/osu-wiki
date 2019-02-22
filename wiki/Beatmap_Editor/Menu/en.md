@@ -241,7 +241,7 @@ Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to
 
 | Name | Description |
 | ---- | ----------- |
-| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/b/### where "###" is the beatmap's ID. |
+| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/beatmaps/### where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
 | Quick Reply | Post a reply to the beatmap thread. |
 

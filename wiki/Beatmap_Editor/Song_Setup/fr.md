@@ -197,7 +197,7 @@ Vous pouvez changer la vitesse et le décalage du compte à rebours.
 
 Choisissez le skin de préférence (depuis votre dossier de skins) qui sera utilisé si le skin est présent dans le dossier de skins d'un autre joueur. Si le skin n'est pas présent, un avertissement apparaîtra et le skin par défaut du joueur sera utilisé. Cependant, la plupart des personnes incluront les éléments de skin directement dans la beatmaps donc cette option est rarement utilisée sauf pour réduire la taille de la beatmap. D'anciennes maps peuvent utiliser cette option, et très rarement ces jours-ci.
 
-Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmaps/41820).
 
 ![Exemple ici](img/SS_Skin_eg.jpg)
 

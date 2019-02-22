@@ -54,7 +54,7 @@ Step aside Rafis and hvick225, [Gayzmcgee](https://osu.ppy.sh/users/1419095) has
 <p style="text-align:center;"><i>Infinitely spooky indeed.</i></p>
 
 
-Remember the rarity of 700pp plays? No? Me neither! [Vaxei](https://osu.ppy.sh/users/4787150) and [Rafis](https://osu.ppy.sh/users/2558286) went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/b/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/b/983680?m=0), giving him 713pp.
+Remember the rarity of 700pp plays? No? Me neither! [Vaxei](https://osu.ppy.sh/users/4787150) and [Rafis](https://osu.ppy.sh/users/2558286) went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/beatmaps/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/beatmaps/983680?m=0), giving him 713pp.
 
 
 ![](https://osu.ppy.sh/ss/6452900)

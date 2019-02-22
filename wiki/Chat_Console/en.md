@@ -86,7 +86,7 @@ Press the number or click the bar to activate:
 | `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |
 | `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home |
 | `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. |
-|`/np`| Print to chat the current song you are listening to or playing.| `/np`| (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/b/22538) |
+|`/np`| Print to chat the current song you are listening to or playing.| `/np`| (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
 | `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
 | `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) |

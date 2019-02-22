@@ -30,7 +30,7 @@ Weekly news
 Scorewatch: February Week 2 (With Scorewatch Patrol)
 ---------------------
 
-[[Toy]s our boy](https://osu.ppy.sh/users/4650315) managed to reverse choke [DragonForce - Defenders](https://osu.ppy.sh/b/718156?m=0) with a HR 98.41% 2427 max combo play, setting a 593pp score. This basically meant he lost about 72pp, which is absolutely heart breaking, but a very impressive score nonetheless. Only 3 players have managed a better HR accuracy than him, and 2 have a higher pp score. Check it out, it's nuts.
+[[Toy]s our boy](https://osu.ppy.sh/users/4650315) managed to reverse choke [DragonForce - Defenders](https://osu.ppy.sh/beatmaps/718156?m=0) with a HR 98.41% 2427 max combo play, setting a 593pp score. This basically meant he lost about 72pp, which is absolutely heart breaking, but a very impressive score nonetheless. Only 3 players have managed a better HR accuracy than him, and 2 have a higher pp score. Check it out, it's nuts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GgXWCfMpEgc" frameborder="0" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ Hey, guess who also tried the same map? [Cookiezi](https://osu.ppy.sh/users/1244
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J4jrc9sD37Y" frameborder="0" allowfullscreen></iframe>
 
-[sobatsuyu](https://osu.ppy.sh/users/2076374) pulled off an interesting HRDT mod combination on [Resonecia - Legende](https://osu.ppy.sh/b/380524?m=1), setting an unfortunate 99.55% 1 miss play to earn him 554pp. Pretty "legendary" we'd say, since this map is long and full of deathstreams
+[sobatsuyu](https://osu.ppy.sh/users/2076374) pulled off an interesting HRDT mod combination on [Resonecia - Legende](https://osu.ppy.sh/beatmaps/380524?m=1), setting an unfortunate 99.55% 1 miss play to earn him 554pp. Pretty "legendary" we'd say, since this map is long and full of deathstreams
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKAIc4GAWv4" frameborder="0" allowfullscreen></iframe>
 
@@ -46,17 +46,17 @@ Somewhere, far and deep into the osu! scores, [Tasha](https://osu.ppy.sh/users/1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uP7SC4-_IoE" frameborder="0" allowfullscreen></iframe>
 
-[Ttobas](https://osu.ppy.sh/users/2084568) seemed to have forgotten how to play osu!catch as he went insane with a 99.64% EZDT FC on [Hitsuji to Ojisan - XENO](https://osu.ppy.sh/b/663001?m=2), scoring 745pp. Aim is pretty necessary when the BPM hits 279, simply outstanding in our eyes. I guess you could watch the fruits slowly fall everywhere onto Ttobas' plate.
+[Ttobas](https://osu.ppy.sh/users/2084568) seemed to have forgotten how to play osu!catch as he went insane with a 99.64% EZDT FC on [Hitsuji to Ojisan - XENO](https://osu.ppy.sh/beatmaps/663001?m=2), scoring 745pp. Aim is pretty necessary when the BPM hits 279, simply outstanding in our eyes. I guess you could watch the fruits slowly fall everywhere onto Ttobas' plate.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7uck_trvcow" frameborder="0" allowfullscreen></iframe>
 
 ===NOTABLE MENTIONS===
 
-[Cookiezi](https://osu.ppy.sh/users/124493) can't control himself as he managed to HDHR FC [Seiryu - BLUE DRAGON](https://osu.ppy.sh/b/725718?m=0) on the BLUE DRAGON difficulty mapped by Blue Dragon with a 99.78% 687pp play. Pretty impressive we'll say.
+[Cookiezi](https://osu.ppy.sh/users/124493) can't control himself as he managed to HDHR FC [Seiryu - BLUE DRAGON](https://osu.ppy.sh/beatmaps/725718?m=0) on the BLUE DRAGON difficulty mapped by Blue Dragon with a 99.78% 687pp play. Pretty impressive we'll say.
 
-[Angelsim](https://osu.ppy.sh/users/1777162) left his quiet zone to set a 670pp play on [*namirin - Koi no Hime Hime Pettanko](https://osu.ppy.sh/b/1053520?m=0) with a 99.29% HDDT FC.
+[Angelsim](https://osu.ppy.sh/users/1777162) left his quiet zone to set a 670pp play on [*namirin - Koi no Hime Hime Pettanko](https://osu.ppy.sh/beatmaps/1053520?m=0) with a 99.29% HDDT FC.
 
-[\_yu68](https://osu.ppy.sh/users/6170507) came out strong with a DT 98.69% play on [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/b/899716?m=1) on lolcube's Hell Oni, setting 479pp.
+[\_yu68](https://osu.ppy.sh/users/6170507) came out strong with a DT 98.69% play on [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmaps/899716?m=1) on lolcube's Hell Oni, setting 479pp.
 
 [Zyph](https://osu.ppy.sh/users/1600432) broke the speed barrier (kinda?) with a 99.93% FC on the 263BPM Loved [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/335798).
 

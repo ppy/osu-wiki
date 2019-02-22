@@ -58,7 +58,7 @@ My favorite map this month is by lepidopodus! Having years of experience he made
 
 A very solid set from Kantan to Inner Oni. All difficulties are well-mapped and play well to the song, making the lower difficulties even a bit different from your occasional Kantan! The Inner Oni also impresses by being simple yet interesting to play due to its good patterns. While the song only lasts 1 minute it still gives you a nice experience.
 
-+ [u's - Datte Datte Aa Mujou](https://osu.ppy.sh/b/642555) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
++ [u's - Datte Datte Aa Mujou](https://osu.ppy.sh/beatmaps/642555) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
 I assume that especially after the Catch the Beat World Cup quite a few people should know that I'm not a fan of Love Live songs. But I must admit that this one is quite nice, as is the map. Playing it the first time I didn't even notice 5 minutes, which happens rarely. But the map has a lot of fun sections so you don't notice the length!
 

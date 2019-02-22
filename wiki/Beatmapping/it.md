@@ -162,7 +162,7 @@ Adding Spinners
 
 To add a spinner to your map, left-click to begin it, then scroll the timeline to where you want the end to be, and terminate with a right-click. Try and keep your spinners to a reasonable length - overly long spinners are tiring and boring, whilst spinners that are too short are not nice. ^"Spinner spam" (as in, more than 5 spinner in one time) is a definite no-no!
 
-^"Spinner Spam" note: This is because [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](https://osu.ppy.sh/b/296) have roughly 48~51 count in ~5 seconds. The beatmap itself contains lengthy streams of hit-circles and perfectly rankable if excluding the ninja spinner spam.
+^"Spinner Spam" note: This is because [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](https://osu.ppy.sh/beatmaps/296) have roughly 48~51 count in ~5 seconds. The beatmap itself contains lengthy streams of hit-circles and perfectly rankable if excluding the ninja spinner spam.
 
 What are Combos?
 ----------------
@@ -179,7 +179,7 @@ To give players a bit of rest time during a longer beatmap, you should include a
 A couple of rules of thumb are:-
 
 -   Generally, try to keep play segments below one minute long. A two minute song should have at least one break in it near the middle, a three minute song should have at least two breaks evenly spaced. This may change depending on the song used.
--   Keep break lengths reasonable. Breaks of less than 1 second are pretty pointless ([unless you try to imitate the video game style by summoning warning-arrow](https://osu.ppy.sh/b/19842)), and breaks of 30 seconds are hardly used and not practical. Try and aim for 5-15 second breaks.
+-   Keep break lengths reasonable. Breaks of less than 1 second are pretty pointless ([unless you try to imitate the video game style by summoning warning-arrow](https://osu.ppy.sh/beatmaps/19842)), and breaks of 30 seconds are hardly used and not practical. Try and aim for 5-15 second breaks.
 
 Here are some advanced tips on planning breaks through the use of Bookmarks:-
 

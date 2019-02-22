@@ -35,7 +35,7 @@ Team Hong Kong quickly returned favour and regained momentum by taking the next 
 
 In the Denmark-Germany match-up, a noteworthy name is [raser1234](https://osu.ppy.sh/users/2527887) of the Danish roster, who topped his team's scoreboard in almost all maps. However, his lone efforts were not enough as the battle-hardened German players were able to summon multiple carries to defend and counteract accordingly. [Dustice](https://osu.ppy.sh/users/754565), [Neliel](https://osu.ppy.sh/users/1500305), and [imagaK](https://osu.ppy.sh/users/2022445) maintained composure and did what they would do in their best conditions – click the circles, to the beat.
 
-While the Danish spears were sharp and pointy, the German ironclad wall proved to be too hard to penetrate. As the last note of [Kyouran Hey Kids!!](https://osu.ppy.sh/b/815857&m=0) gets clicked, the match came to a win of 6-3 in favour of Germany.
+While the Danish spears were sharp and pointy, the German ironclad wall proved to be too hard to penetrate. As the last note of [Kyouran Hey Kids!!](https://osu.ppy.sh/beatmaps/815857&m=0) gets clicked, the match came to a win of 6-3 in favour of Germany.
 
 ![](/wiki/shared/news/2017-11-30-osu-world-cup-round-of-16-recap/Denmark_v_Germany.png)
 

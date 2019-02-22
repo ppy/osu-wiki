@@ -51,7 +51,7 @@ Speaking of intensity... With a lot of wubs and onii-chans in this beatmap, it c
 
 For Taiko, we asked **[Lost The Lights](https://osu.ppy.sh/users/1255920)** about their favourite maps in February 2016.
 
-+ **[toby fox - Spider Dance](https://osu.ppy.sh/b/818080) by [OzzyOzrock](https://osu.ppy.sh/users/465153)**
++ **[toby fox - Spider Dance](https://osu.ppy.sh/beatmaps/818080) by [OzzyOzrock](https://osu.ppy.sh/users/465153)**
 
 This is definitely my favourite map of February (The last ranked of the month too!). This has everything: a great song from a great game, a good spread and a REALLY fun and challenging Inner Oni, which gives the map additional points. The quality of this map is great. While the easier difficulties are mapped following the main rhythm of the song, Inner Oni keeps following it plus follows the background rhythm. OzzyOzrock really did a great job here!
 
@@ -63,7 +63,7 @@ A really nice song mapped by the great lolcubes. This map deserves the 2nd spot 
 
 For those who have played this game, they know that this song brings feels. A great song pick and a great map structure which, in my opinion, fits and flows with the song perfectly.
 
-+ [Nekomata Master feat. Misawa Aki - chrono diver -fragment-](https://osu.ppy.sh/b/829732) by [tasuke912](https://osu.ppy.sh/users/2774767)
++ [Nekomata Master feat. Misawa Aki - chrono diver -fragment-](https://osu.ppy.sh/beatmaps/829732) by [tasuke912](https://osu.ppy.sh/users/2774767)
 
 What can I say... Good song pick, first of all. I barely enjoy maps like this, but I did enjoy this one. It has a good structure, it's not simple, neither complex, but it is clearly mapped in a way that fits the song and flows with it.
 
@@ -113,25 +113,25 @@ None of the difficulties of this mapset could be called challenging in CtB, but 
 
 For osu!mania, **[iJinjin](https://osu.ppy.sh/users/3360737)** was able to select their personal most noteworthy beatmap from last month.
 
-+ **[Mastermind(xi+nora2r) - Dreadnought](https://osu.ppy.sh/b/794499) by [PyaKura](https://osu.ppy.sh/users/2284536)**
++ **[Mastermind(xi+nora2r) - Dreadnought](https://osu.ppy.sh/beatmaps/794499) by [PyaKura](https://osu.ppy.sh/users/2284536)**
 
 It's rare to see a chart in mania done right, but Pyakura has definitely outdone himself with Dreadnought. Everything about this chart fits so well with the music. And man, those SV changes in the harder difficulties are just top notch. The use of slowjams, stutter SVs, and the extremely fast scroll speed at the very beginning are all so appropriate to the music and adds to the enjoyability factor of this map. The spread ranges from Easy difficulty that 7K newcomers are able to enjoy, up to the
 whopping 6-star Hyperspace difficulty that poses a challenge even to the top mania players. Dreadnought definitely
 deserves the top mania chart for February.
 
-+ [sweet ARMS - Installation](https://osu.ppy.sh/b/795971) by [- Bad Apple -](https://osu.ppy.sh/users/4282445)
++ [sweet ARMS - Installation](https://osu.ppy.sh/beatmaps/795971) by [- Bad Apple -](https://osu.ppy.sh/users/4282445)
 
 It's always nice to see a ranked marathon chart in mania, because we don't have a lot of marathons in this game mode. The patterns are very diverse, ranging from sections full of chords to full out 1/4 streams at the guitar solo. One thing I really like about this map is the interaction between the storyboard and the chart. - Bad Apple -'s idea of including a gunshot hitsound for every time a shot is fired from the storyboard is definitely a nice touch to the chart.
 
-+ [kors k - Dot](https://osu.ppy.sh/b/746614) by [Hydria](https://osu.ppy.sh/users/808176)
++ [kors k - Dot](https://osu.ppy.sh/beatmaps/746614) by [Hydria](https://osu.ppy.sh/users/808176)
 
 Oooooh, another marathon chart from this month! Also, congratulations to Hydria for his first ranked map! This is one of the more interesting 4K maps that I have seen. As with most marathons, this chart features various patterns and some interesting long note usage throughout the map. There are some tricky sections, such as the slightly-off-rhythm vocal section close to the beginning of the song. The 1/8 roll sections at around the 5 minute mark are really satisfying to play. Finally, the use slowdowns and speedups feels really natural and is commendable. Really nice patterns overall.
 
-+ [Diceros Bicornis - Innocent Tempest](https://osu.ppy.sh/b/805976) by [Ichigaki](https://osu.ppy.sh/b/805976)
++ [Diceros Bicornis - Innocent Tempest](https://osu.ppy.sh/beatmaps/805976) by [Ichigaki](https://osu.ppy.sh/beatmaps/805976)
 
 Save the rhinos!!! Ichigaki is a pretty well known mapper in the mania community for his various ranked 4K charts. This time, he brings us another cool map featuring Zan as a guest mapper. A lot of streaming sections in the INFINITE difficulty is something to look out for, and it's pleasantly comfortable to hit. On the other hand, Zan's EXHAUST puts more emphasis on the melody, resulting in a chart that players will enjoy along with the music. Given the uncommon rhythmic structure of the song, novice 4K players will find some good challenge even from the easier difficulties of this set. Very nicely executed!
 
-+ [Between August and December - Blow with the Fires](https://osu.ppy.sh/b/654875) by [AnatOWJIya](https://osu.ppy.sh/users/486264)
++ [Between August and December - Blow with the Fires](https://osu.ppy.sh/beatmaps/654875) by [AnatOWJIya](https://osu.ppy.sh/users/486264)
 
 First thought that crossed my mind when looking at the mapset: a lot of Russian mappers in this chart! This map includes both 4K and 7K, the two most played keymodes in mania. With a lot of different guest mappers, the charting styles for each difficulty are very different. One specific difficulty that I enjoyed a lot is Kivicat's 7K MX. Really nice work on pitch relevancy and the long notes. The patterns are challenging compared to its star rating, so be prepared, players!
 

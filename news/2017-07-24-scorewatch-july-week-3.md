@@ -10,11 +10,11 @@ It might've been a bit calmer this week, but that hasn't stopped players from go
 
 ![](/wiki/shared/news/2017-07-24-scorewatch-july-week-3/banner.png)
 
-[Megure](https://osu.ppy.sh/users/3468264) unexpectedly got the first ever SS on the Nao's Eclipse difficulty on [The Koxx - A FOOL MOON NIGHT](https://osu.ppy.sh/b/1141084), beating out the likes of Dustice and Musty. What control does this guy have in his bones?
+[Megure](https://osu.ppy.sh/users/3468264) unexpectedly got the first ever SS on the Nao's Eclipse difficulty on [The Koxx - A FOOL MOON NIGHT](https://osu.ppy.sh/beatmaps/1141084), beating out the likes of Dustice and Musty. What control does this guy have in his bones?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KptQoF9mGeA" frameborder="0" allowfullscreen></iframe></br>
 
-Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set the No. 3 score on [Camellia - Light it up](https://osu.ppy.sh/b/1093078?m=0) with an impressive 99.32% HDHR FC to earn 573pp, beating out Toy, Azer and Adamqs. Not too bad for the number one Japanese player.
+Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set the No. 3 score on [Camellia - Light it up](https://osu.ppy.sh/beatmaps/1093078?m=0) with an impressive 99.32% HDHR FC to earn 573pp, beating out Toy, Azer and Adamqs. Not too bad for the number one Japanese player.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/S4IRUC5E7RY" frameborder="0" allowfullscreen></iframe></br>
 
@@ -22,7 +22,7 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aKuLWtL-qNw" frameborder="0" allowfullscreen></iframe></br>
 
-[_yu68](https://osu.ppy.sh/users/6170507) pushes his limits further by beating out [shinchikuhome](https://osu.ppy.sh/users/3174184) on [DragonForce - Cry Thunder](https://osu.ppy.sh/b/1065704) with a crazy 99.90% DT FC to earn 623pp and sniping him for the number one spot. What else is there to say?
+[_yu68](https://osu.ppy.sh/users/6170507) pushes his limits further by beating out [shinchikuhome](https://osu.ppy.sh/users/3174184) on [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmaps/1065704) with a crazy 99.90% DT FC to earn 623pp and sniping him for the number one spot. What else is there to say?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2L_1pHPLq7g" frameborder="0" allowfullscreen></iframe></br>
 
@@ -33,9 +33,9 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 NOTABLE MENTIONS
 -----
 
-[kablaze](https://osu.ppy.sh/users/3043603) returns to Scorewatch with a very strong play on [cillia - Fairytale](https://osu.ppy.sh/b/759192?m=0), scoring an amazing 99.79% HDHR FC to earn 471pp and the number one score on the map (not forgetting to mention his 66.66 UR!). Talk about being a consistent player, this play is not to be underestimated!
+[kablaze](https://osu.ppy.sh/users/3043603) returns to Scorewatch with a very strong play on [cillia - Fairytale](https://osu.ppy.sh/beatmaps/759192?m=0), scoring an amazing 99.79% HDHR FC to earn 471pp and the number one score on the map (not forgetting to mention his 66.66 UR!). Talk about being a consistent player, this play is not to be underestimated!
 
-In all of his extraordinary glory, [kablaze](https://osu.ppy.sh/users/3043603) does it again with an amazing HDHR SS on [RYO - Shuffle Heaven](https://osu.ppy.sh/b/235470) is pretty extraordinary, racking up 460pp and the number one spot. What a way to snipe WubWoofWolf!
+In all of his extraordinary glory, [kablaze](https://osu.ppy.sh/users/3043603) does it again with an amazing HDHR SS on [RYO - Shuffle Heaven](https://osu.ppy.sh/beatmaps/235470) is pretty extraordinary, racking up 460pp and the number one spot. What a way to snipe WubWoofWolf!
 
 
 SCORESHOW WITH ZSEIKIMATSU

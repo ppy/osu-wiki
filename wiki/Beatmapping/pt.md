@@ -160,7 +160,7 @@ Adicionando Spinners
 --------------------
 
 <img src="Spinner.jpg" title="fig:Exemplo de Spinner." alt="Exemplo de Spinner." width="140" /> Para adicionar spinners no seu mapa, clique com botão esquerdo para começar. então puxe a timeline até onde você quer que o final seja, e termine o mesmo clicando com o botão direito do seu mouse. Tente deixar seus spinners numa duração razoável - spinners muito longos são cansativos e aborrecidos, spinners ninjas que são demasiado curtos não são legais. **Spinner Spam** (como mais de 5 spinners de uma vez) é definitivamente algo que você não deve fazer.
-**Nota sobre Spinner Spam**: Isto porque [Trans-Siberian Orchestra - Wizards In Winter (dificuldade Impossible)](https://osu.ppy.sh/b/296) tem arduamente 48~51 em ~5 segundos. O mapa em si contêm streams longos de hit-circles que são perfeitamente rankeáveis, excluindo o spam de spinners ninja.
+**Nota sobre Spinner Spam**: Isto porque [Trans-Siberian Orchestra - Wizards In Winter (dificuldade Impossible)](https://osu.ppy.sh/beatmaps/296) tem arduamente 48~51 em ~5 segundos. O mapa em si contêm streams longos de hit-circles que são perfeitamente rankeáveis, excluindo o spam de spinners ninja.
 
 O que são Combos?
 -----------------
@@ -177,7 +177,7 @@ Para dar aos jogadores um pouco de descanso durante um beatmap longo, você deve
 Algumas regras de ouro são:-
 
 -   Geralmente, tente deixar segmentos de jogo inferiores a um minuto. Uma música de dois minutos deve ter no mínimo um intervalo perto do meio, uma música de três minutos deverá ter no mínimo dois intervalos bem espaçados. Isto poderá mudar dependendo da música em questão.
--   Deixe a duração dos intervalos minimamente razoáveis. Intervalos com menos de 1 segundo são inúteis ([a não ser que você deseja intimidar o estilo de jogo invocando a seta de aviso (warning-arrow)](https://osu.ppy.sh/b/19842)), e intervalos de 30 segundos são raramente usados e não práticos. Tente visar intervalos de 5-15 segundos.
+-   Deixe a duração dos intervalos minimamente razoáveis. Intervalos com menos de 1 segundo são inúteis ([a não ser que você deseja intimidar o estilo de jogo invocando a seta de aviso (warning-arrow)](https://osu.ppy.sh/beatmaps/19842)), e intervalos de 30 segundos são raramente usados e não práticos. Tente visar intervalos de 5-15 segundos.
 
 Aqui estão algumas dicas avançadas no planeamento de intervalos usando atalhos na timeline (Bookmarks):-
 

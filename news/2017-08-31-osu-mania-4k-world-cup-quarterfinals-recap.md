@@ -27,7 +27,7 @@ Every single team was determined to make the most of their situation, all in the
 
 *"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
 
-*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
+*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/beatmaps/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
 
 ### Mappool Statistics:
 

@@ -159,7 +159,7 @@ Bookmark
 
 スピナーを譜面に追加するには、左クリックで起き始め、あなたが終わらせたいところまでタイムラインをスクロールし、右クリックで終了させます。スピナーの長さは適度な長さにし、長いスピナーは避けてください。長いスピナーは疲れる上に退屈です。一方短すぎるスピナーも良くはありません。"スピナースパム"は許されません。
 
-"スピナースパム"とは: [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](https://osu.ppy.sh/b/296)が持つ5秒以内に48~51個のスピナーを置いているもので、短すぎるスピナーはプレイに影響を与えます。その譜面はNinja Spinnerを除けばRanked可能です。
+"スピナースパム"とは: [Trans-Siberian Orchestra - Wizards In Winter (Impossible difficulty)](https://osu.ppy.sh/beatmaps/296)が持つ5秒以内に48~51個のスピナーを置いているもので、短すぎるスピナーはプレイに影響を与えます。その譜面はNinja Spinnerを除けばRanked可能です。
 
 コンボって何?
 -------------

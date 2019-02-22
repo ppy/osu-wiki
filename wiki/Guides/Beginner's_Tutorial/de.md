@@ -109,40 +109,40 @@ Anfangen
 
 Du kannst dein Abenteuer mit diesen Beatmaps starten!
 
--   [GReeeeN - Ai Uta (Taiko Cut)](https://osu.ppy.sh/b/57281) auf Kantan (0.83 Stars)
--   [TOKINE - Soko ni Aru Mono](https://osu.ppy.sh/b/67008) auf Easy (0.99 Stars)
--   [Rammstein - Mein erz brennt (Piano Instrumental)](https://osu.ppy.sh/b/250553) auf Easy (1.00 Stars)
--   [fripSide - a little christmas time](https://osu.ppy.sh/b/191008) auf Easy (1.03 Stars)
--   [Yoko Shimomura - A Twinkle in the Sky](https://osu.ppy.sh/b/220650) auf Easy (1.05 Stars)
--   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](https://osu.ppy.sh/b/158917) auf Easy (1.08 Stars)
--   [Anamanaguchi - This is the End](https://osu.ppy.sh/b/74686) auf Average Joe (1.09 Stars)
--   [Infected Mushroom - The Pretender](https://osu.ppy.sh/b/240979) auf Easy (1.10 Stars)
--   [Do As Infinity - Fukai Mori](https://osu.ppy.sh/b/49478) auf Easy Dan (1.11 Stars)
--   [Nishiura Tomohito - Shop](https://osu.ppy.sh/b/404645) auf Easy (1.13 Stars)
--   [Angela Chang - Aurora](https://osu.ppy.sh/b/397975) auf Easy (1.14 Stars)
+-   [GReeeeN - Ai Uta (Taiko Cut)](https://osu.ppy.sh/beatmaps/57281) auf Kantan (0.83 Stars)
+-   [TOKINE - Soko ni Aru Mono](https://osu.ppy.sh/beatmaps/67008) auf Easy (0.99 Stars)
+-   [Rammstein - Mein erz brennt (Piano Instrumental)](https://osu.ppy.sh/beatmaps/250553) auf Easy (1.00 Stars)
+-   [fripSide - a little christmas time](https://osu.ppy.sh/beatmaps/191008) auf Easy (1.03 Stars)
+-   [Yoko Shimomura - A Twinkle in the Sky](https://osu.ppy.sh/beatmaps/220650) auf Easy (1.05 Stars)
+-   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](https://osu.ppy.sh/beatmaps/158917) auf Easy (1.08 Stars)
+-   [Anamanaguchi - This is the End](https://osu.ppy.sh/beatmaps/74686) auf Average Joe (1.09 Stars)
+-   [Infected Mushroom - The Pretender](https://osu.ppy.sh/beatmaps/240979) auf Easy (1.10 Stars)
+-   [Do As Infinity - Fukai Mori](https://osu.ppy.sh/beatmaps/49478) auf Easy Dan (1.11 Stars)
+-   [Nishiura Tomohito - Shop](https://osu.ppy.sh/beatmaps/404645) auf Easy (1.13 Stars)
+-   [Angela Chang - Aurora](https://osu.ppy.sh/beatmaps/397975) auf Easy (1.14 Stars)
 
 Vortgeschrittener
 ------
 
 Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps ja versuchen.
 
--   [Mutsuhiko Izumi - Russian Snowy Dance](https://osu.ppy.sh/b/124348) auf Easy (1.21 Stars)
--   [goreshit - o'er the flood](https://osu.ppy.sh/b/177139) auf Easy (1.22 Stars)
--   [Hatsune Miku - Electric Love (Short Ver.)](https://osu.ppy.sh/b/141749) auf Easy. (1.25 Stars)
--   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](https://osu.ppy.sh/b/186601) auf Easy (1.28 Stars)
--   [Akcent feat. Edward Maya - That's My Name](https://osu.ppy.sh/b/132838) auf Easy (1.28 Stars)
--   [Hatsune Miku - Do-re-mi-fa Rondo](https://osu.ppy.sh/b/163457) auf Easy (1.28 Stars)
+-   [Mutsuhiko Izumi - Russian Snowy Dance](https://osu.ppy.sh/beatmaps/124348) auf Easy (1.21 Stars)
+-   [goreshit - o'er the flood](https://osu.ppy.sh/beatmaps/177139) auf Easy (1.22 Stars)
+-   [Hatsune Miku - Electric Love (Short Ver.)](https://osu.ppy.sh/beatmaps/141749) auf Easy. (1.25 Stars)
+-   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](https://osu.ppy.sh/beatmaps/186601) auf Easy (1.28 Stars)
+-   [Akcent feat. Edward Maya - That's My Name](https://osu.ppy.sh/beatmaps/132838) auf Easy (1.28 Stars)
+-   [Hatsune Miku - Do-re-mi-fa Rondo](https://osu.ppy.sh/beatmaps/163457) auf Easy (1.28 Stars)
 
 Herausforderung
 ---------
 
 Möchtest du dich selber Herrausfordern? Dann versuch diese!
 
--   [DJ Fresh - Gold Dust](https://osu.ppy.sh/b/96042) auf Easy (1.32 Stars)
--   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](https://osu.ppy.sh/b/230174) auf Easy (1.36 Stars)
--   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](https://osu.ppy.sh/b/172736) auf Easy (1.36 Stars)
--   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](https://osu.ppy.sh/b/368307) auf Easy (1.45 Stars)
--   [Gentle Stick X M2U - Hades in the Heaven](https://osu.ppy.sh/b/318994) auf Easy (1.46 Stars)
+-   [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmaps/96042) auf Easy (1.32 Stars)
+-   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](https://osu.ppy.sh/beatmaps/230174) auf Easy (1.36 Stars)
+-   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](https://osu.ppy.sh/beatmaps/172736) auf Easy (1.36 Stars)
+-   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](https://osu.ppy.sh/beatmaps/368307) auf Easy (1.45 Stars)
+-   [Gentle Stick X M2U - Hades in the Heaven](https://osu.ppy.sh/beatmaps/318994) auf Easy (1.46 Stars)
 
 Weiter Gehen
 ============
