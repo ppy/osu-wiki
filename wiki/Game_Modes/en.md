@@ -22,4 +22,4 @@ Collect falling fruits by moving the catcher with a plate. Keep dancing and do n
 
 *Main page: [osu!mania](/wiki/osu!mania)*
 
-Based on conveyor-type rhythm games, chiefly introduced and implemented by [woc2006](/users/1105845). Make the notes play a melody of the beat.
+Based on conveyor-type rhythm games, chiefly introduced and implemented by [woc2006](https://osu.ppy.sh/users/1105845). Make the notes play a melody of the beat.

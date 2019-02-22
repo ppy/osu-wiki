@@ -100,7 +100,7 @@ There will be a difference in scroll speed when playing a 100BPM (scrolls slower
 _Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`_
 
 **Fixed** scroll speed is the new system that enforce a constant scroll speed along with the current BPM speed.
-[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/forum/t/254145).
+[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/community/forums/topics/254145).
 
 Do note that both scaling system will still be affected by speed up/down by BPM changes, with the changes ranging from drastic (usually for BPM scaling to higher BPM with speedy notes; very low BPM for fixed scaling with condensed notes) to minor (usually fixed scaling on most BPM spectrum) depending on Speed Change settings used.
 
@@ -215,7 +215,7 @@ Key | Bindings
 
 ![Default Key layouts of osu!mania (Co-Op)][osu!mania key layout2 image]
 
-The **[05 March 2015 (2015-03-05) update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
+The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
 With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
 
 _Symmetrical_ key binding for second set.
@@ -424,10 +424,10 @@ Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with 
 
 _osu!mania logo in the deprecated Special Modes_
 
-- osu!mania was released on [**08 October 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
+- osu!mania was released on [**08 October 2012 (2012-10-08)**, chiefly implemented by **woc2006**](https://osu.ppy.sh/community/forums/posts/1825880).
 - The old osu!mania editor _used_ to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
-- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
+- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
 ## References
 
-- [Announcement post](http://osu.ppy.sh/forum/p/1825880)
+- [Announcement post](https://osu.ppy.sh/community/forums/posts/1825880)

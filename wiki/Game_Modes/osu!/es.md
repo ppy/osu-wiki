@@ -18,8 +18,8 @@
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Entrada de Wikipedia de Osu! Tatakae! Ouendan"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial por defecto con la instalación creado por peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 " osu!tutorial rankeado creado por Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial por defecto con la instalación creado por peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 " osu!tutorial rankeado creado por Sushi"
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Ejemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS"
@@ -336,7 +336,7 @@ _Humo en la configuración de atajos de teclado; mantener apretada la tecla `C` 
 _Combo de fuego_
 
 - ¡La versión anterior de osu! solia emular algunos de los elementos de la serie _ouendan_ antes de ser eliminados o remplazados.
-  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
+  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
     - Eliminado el 05 de marzo de 2013 (2013-03-05), debido a problemas de rendimiento.
 - La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin _osu! Default por peppy_, proporcionaba una copia casi idéntica de la interfaz _ouendan_.
  - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.
@@ -346,8 +346,8 @@ _Combo de fuego_
     - El comportamiento de la skin v2 para una ruleta expandiría lentamente el círculo giratorio a su tamaño completo y se iluminaría cuando se completara.
       - El temporizador es el círculo exterior de la ruleta que cambia de color. La ruleta termina cuando el color del círculo del temporizador cambia por completo.
 - Los primeros tres beatmaps clasificados el mismo día (07 de octubre de 2007, 2007-10-07) cuando se lanzó la tabla de clasificación en línea fueron:-
-  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), o `discoprince`; que aparentemente fue mapeado en alrededor de una hora.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , o `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
-  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), o `Brandy - Love Fighter`.
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), o `discoprince`; que aparentemente fue mapeado en alrededor de una hora.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , o `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16 "Brandy - Love Fighter (FFFanatic)"), o `Brandy - Love Fighter`.
 - Notablemente, las carpetas más antiguas tienen su propia convención de nombres (los nombres de las carpetas solo se pueden encontrar en pack de beatmaps _antiguos_) y no siguen estrictamente el formato vigente de `{ID del Set de Beatmap} {Nombre del artista} - {Nombre del Beatmap}`.
   - Descargar directamente desde el sitio web de la lista de beatmaps de osu! sigue el formato vigente de nomenclatura obligatoria.

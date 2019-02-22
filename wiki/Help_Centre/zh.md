@@ -98,7 +98,7 @@
 
 **当然可以！**
 
-如果你购买（或者被赠送）[supporter](https://osu.ppy.sh/home/support) ，你将会获得**一次**免费改名的机会。改名卡可以在 [osu! 商店](https://store.ppy.sh/store/product/32) 中兑换。
+如果你购买（或者被赠送）[supporter](https://osu.ppy.sh/home/support) ，你将会获得**一次**免费改名的机会。改名卡可以在 [osu! 商店](https://osu.ppy.sh/store/products/32) 中兑换。
 
 在这之后，你可以购买改名卡来改名，而每次改名将会越来越贵——第二次需要 8 美元，第三次需要 16 美元，以此类推。这么做是为了防止用户滥用改名系统来频繁修改用户名。
 
@@ -108,7 +108,7 @@
 
 **可以，但是有一些前提条件。**
 
-如果一个玩家 6 个月没有登录游戏，他们的用户名将被回收，其他玩家可以在 [osu!商店](https://store.ppy.sh/store/product/32) 中购买改名卡并使用这些用户名。
+如果一个玩家 6 个月没有登录游戏，他们的用户名将被回收，其他玩家可以在 [osu!商店](https://osu.ppy.sh/store/products/32) 中购买改名卡并使用这些用户名。
 
 对于所有游戏模式，每 500 次打图，将会增加 1 年（ 365 天）的回收周期。这样是为了防止有人抢占活跃玩家或只是近期不活跃的玩家的用户名。
 
@@ -116,7 +116,7 @@
 
 **可以，但是有一些前提条件。**
 
-我们只接受转回你资料卡上曾用名一项所列的用户名。如果你要更改到其他的用户名，请在[商店中购买](https://store.ppy.sh/store/product/32) 。如果你确实要这么做，发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
+我们只接受转回你资料卡上曾用名一项所列的用户名。如果你要更改到其他的用户名，请在[商店中购买](https://osu.ppy.sh/store/products/32) 。如果你确实要这么做，发送改回用户名的请求到 [accounts@ppy.sh](mailto:accounts@ppy.sh) 即可。
 
 我们在一个账号中只接受一次改回用户名的请求，所以请在联系我们之前认真思考一下！
 
@@ -743,7 +743,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 #### 如何下载 osu!？
 
-**只需在 [osu! 官方网站](https://osu.ppy.sh/)上顶部的导航栏中点击 `Download` 。**
+**只需在 [osu! 官方网站](https://osu.ppy.sh/home)上顶部的导航栏中点击 `Download` 。**
 
 或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
 
@@ -826,7 +826,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 #### 如何设置 osu!keyboard？
 
-**你可以使用 osu!keyboard 设置工具，通过[这个链接](http://puu.sh/l6urN/4b6bc800f2.zip)下载。**
+**你可以使用 osu!keyboard 设置工具，通过[这个链接](https://puu.sh/l6urN/4b6bc800f2.zip)下载。**
 
 只需将它解压到你的电脑中的任何地方，启动即可！
 

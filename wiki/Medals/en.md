@@ -124,4 +124,4 @@ Trivia
 ------
 
 - [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Beatmap_Packs_0916)
-- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
+- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/community/forums/topics/80448).

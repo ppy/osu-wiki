@@ -11,7 +11,7 @@ Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Wind
 
 ## Instalowanie osu!
 
-1.  Przejdź do [strony z pobieraniem](/home/download) i pobierz instalator.
+1.  Przejdź do [strony z pobieraniem](https://osu.ppy.sh/home/download) i pobierz instalator.
 2.  Zlokalizuj i uruchom instalator.
 3.  Przez pierwsze 10 sekund od uruchomienia instalatora otrzymasz możliwość wybrania lokalizacji gry.
     -   Jeżeli chcesz ją zmienić, kliknij na tekst pod wyrazem „Witaj!”, a następnie wybierz lokalizację gry.
@@ -29,7 +29,7 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
 
 ### Strona internetowa
 
-1.  Zaloguj się na stronie osu! i przejdź do [listy beatmap](/beatmapsets).
+1.  Zaloguj się na stronie osu! i przejdź do [listy beatmap](https://osu.ppy.sh/beatmapsets).
 2.  Znajdź piosenkę, którą chcesz zagrać.
 3.  Kliknij na ikonę pobierania, aby pobrać zestaw beatmap na swój komputer.
 4.  Zlokalizuj i otwórz plik z zestawem beatmap (ma on rozszerzenie `.osz`).
@@ -52,7 +52,7 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
 
 *Zobacz także: [Skórki](/wiki/Skins) oraz [Tworzenie skórek](/wiki/Skinning).*
 
-1.  Przejdź do [podforum dot. skórek](/community/forums/15) i znajdź skórkę, która ci się spodoba.
+1.  Przejdź do [podforum dot. skórek](https://osu.ppy.sh/community/forums/15) i znajdź skórkę, która ci się spodoba.
 2.  Pobierz skórkę, która ci się podoba.
 3.  Dalsze postępowanie jest zależne od sposobu kompresji skórki przez jej twórcę.
     -   Jeżeli skórka ma rozszerzenie `.osk`:

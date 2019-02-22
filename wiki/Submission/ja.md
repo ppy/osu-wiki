@@ -5,7 +5,7 @@
 
 osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要素(mp3や動画、storyboard)をアップロードし、osu!のサーバーにスレッドをダウンロードリンクと共に用意させます。モデレーターと他のフォーラムメンバーは譜面にコメントやフィードバックする事ができます。最低二人のBATによって譜面が認められた時、その譜面は ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankedとなります。
 
-![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankされた譜面は[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)サブフォーラムに移動され、[Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist)に追加、 Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist)に含まれるようになり、プロフィールに表示されるようになります。Rankされた譜面をプレイした時、プレイヤーのスコアは [Player Ranking](https://osu.ppy.sh/p/playerranking)でトータルスコアに加算され、プレイヤーは譜面に評価をすることができるようになります。 [Beatmapper Rank](https://osu.ppy.sh/p/mapperranking)
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Rankされた譜面は[Ranked/Approved Beatmaps](https://osu.ppy.sh/community/forums/14)サブフォーラムに移動され、[Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist)に追加、 Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist)に含まれるようになり、プロフィールに表示されるようになります。Rankされた譜面をプレイした時、プレイヤーのスコアは [Player Ranking](https://osu.ppy.sh/p/playerranking)でトータルスコアに加算され、プレイヤーは譜面に評価をすることができるようになります。 [Beatmapper Rank](https://osu.ppy.sh/p/mapperranking)
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
@@ -18,7 +18,7 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 ### 譜面の投稿
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen") 
+![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 *いずれかの*難易度をEditorで開き、**"File"**をメニューから開き、**"Upload Beatmap"** (もしくは"Ctrl + Shift + U")を選択してください。BSSのダイアログボックス を開き、Upload Filesを押してください。この段階で何か変えたいことがあれば、キャンセルをしてダイアログボックスを閉じてEditorに戻ることが出来ます。
 
@@ -28,9 +28,9 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
  "Upload Files"をクリックした後にアップロードが始まります。下のバーは進行状況を示しています。ダイアログボックスではフォーラムのトピック(スレッド)の題名や最初のpostのメッセージを編集することができます。また譜面のスレッドをどこに立てるかどうかも選択します。後で譜面をアップロードするときにも移動させることができます。
 
-**Work In Progress/Help**を選択すると[Work In Progress/Help](https://osu.ppy.sh/forum/10)のサブフォーラムにpostされます。1つ以上の助け(例えばタイミングなど)があなたの譜面に必要な場合や、一部が完成していてフィードバックやコメントが欲しい場合はこれを選択してください。
+**Work In Progress/Help**を選択すると[Work In Progress/Help](https://osu.ppy.sh/community/forums/10)のサブフォーラムにpostされます。1つ以上の助け(例えばタイミングなど)があなたの譜面に必要な場合や、一部が完成していてフィードバックやコメントが欲しい場合はこれを選択してください。
 
-**Pending Beatmap**を選択すると[Pending Beatmaps](https://osu.ppy.sh/forum/6)のサブフォーラムにpostされます。 ある程度譜面のRank基準を満たし、モデレーターに譜面をRankして欲しい場合はこれを選んでください。アップロードをする前に、タイミングがある程度正しいことと**最低2難易度**で構成されていることが強く推奨されます
+**Pending Beatmap**を選択すると[Pending Beatmaps](https://osu.ppy.sh/community/forums/6)のサブフォーラムにpostされます。 ある程度譜面のRank基準を満たし、モデレーターに譜面をRankして欲しい場合はこれを選んでください。アップロードをする前に、タイミングがある程度正しいことと**最低2難易度**で構成されていることが強く推奨されます
 
 入力欄の下のチェックボックスを選択することで、機能を一部有効にさせられます:
 

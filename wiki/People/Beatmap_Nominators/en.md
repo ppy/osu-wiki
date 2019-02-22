@@ -16,7 +16,7 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/g/7) will create a newspost for Beatmap Nominator Sign-ups in irregular intervals of approximately two months.
+With the change to the team in August 2014, joining the Beatmap Nominators became a lot easier than it used to be in the past. The [Quality Assurance Team](https://osu.ppy.sh/groups/7) will create a newspost for Beatmap Nominator Sign-ups in irregular intervals of approximately two months.
 
 ### Basic Criteria
 Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
@@ -57,9 +57,9 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 Quality Assurance Helpers
 -------------------------
 
-The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who assist the Quality Assurance Team at checking every single qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428) thread. 
+The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who assist the Quality Assurance Team at checking every single qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428) thread.
 
-Quality Assurance Helpers are free to choose whatever maps they like to check as long as they check at least four qualified maps per month. If they are not able to fulfill these activity standards, they will be removed and can only rejoin after a cooldown of one month. Beatmap Nominators who are not on their probationary period or in the cooldown period mentioned above may join the Quality Assurance Helpers at any time. 
+Quality Assurance Helpers are free to choose whatever maps they like to check as long as they check at least four qualified maps per month. If they are not able to fulfill these activity standards, they will be removed and can only rejoin after a cooldown of one month. Beatmap Nominators who are not on their probationary period or in the cooldown period mentioned above may join the Quality Assurance Helpers at any time.
 
 Team Members
 ------------

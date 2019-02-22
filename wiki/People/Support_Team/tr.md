@@ -1,13 +1,13 @@
 # Destek Takımı
 
-**Destek Takımı** (aynı zamanda **Destek Takımı Redux** olarak bilinir, hesap destek takımı ve aynı isimde olan "Destek Takımı" ile karıştırılmamalıdır.) osu! ekibi içerisinde daha çok birkaç altforumun moderasyonu ile ilgilenir: [Geliştirme](https://osu.ppy.sh/forum/2), [Oynanış & Rankings](https://osu.ppy.sh/forum/13) ( [Turnuva](https://osu.ppy.sh/forum/55) ve [Maplama Teknikleri](https://osu.ppy.sh/forum/61) hariç), [Skinleme](https://osu.ppy.sh/forum/15), [Özellik İstekleri](https://osu.ppy.sh/forum/4), ve [Yardım](https://osu.ppy.sh/forum/5).
+**Destek Takımı** (aynı zamanda **Destek Takımı Redux** olarak bilinir, hesap destek takımı ve aynı isimde olan "Destek Takımı" ile karıştırılmamalıdır.) osu! ekibi içerisinde daha çok birkaç altforumun moderasyonu ile ilgilenir: [Geliştirme](https://osu.ppy.sh/community/forums/2), [Oynanış & Rankings](https://osu.ppy.sh/community/forums/13) ( [Turnuva](https://osu.ppy.sh/community/forums/55) ve [Maplama Teknikleri](https://osu.ppy.sh/community/forums/61) hariç), [Skinleme](https://osu.ppy.sh/community/forums/15), [Özellik İstekleri](https://osu.ppy.sh/community/forums/4), ve [Yardım](https://osu.ppy.sh/community/forums/5).
 
 ## Sorumluluklar
 
 Destek takımı şunlar ile sorumludur:
 
 1.  Bug bildirimlerini geliştiricilerin görmesi ve çözmesi için test etmek/doğrulamak.
-2.  [Özellik İstekleri](https://osu.ppy.sh/forum/4) ve [Yardım](https://osu.ppy.sh/forum/5) altforumlarındaki başlıkları, onları *Çözüldü*, *Doğrulandı*, *Geçersiz*, *Kopya*, ve/veya *Eklendi* diye işaretleyek düzenler.
+2.  [Özellik İstekleri](https://osu.ppy.sh/community/forums/4) ve [Yardım](https://osu.ppy.sh/community/forums/5) altforumlarındaki başlıkları, onları *Çözüldü*, *Doğrulandı*, *Geçersiz*, *Kopya*, ve/veya *Eklendi* diye işaretleyek düzenler.
 
 Eğer birinin bahsi geçen altforumlarda yardıma ihtiyacı olursa, ilk olarak onlara başvurmalı.
 

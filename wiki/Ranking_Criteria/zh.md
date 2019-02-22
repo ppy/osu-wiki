@@ -4,7 +4,7 @@ outdated: true
 Ranking Criteria
 =================
 
-这里会列出[官方论坛](https://osu.ppy.sh/forum/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
+这里会列出[官方论坛](https://osu.ppy.sh/community/forums/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
 
 **注意[行为准则](/wiki/Code_of_Conduct)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Ranking_Criteria/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
 

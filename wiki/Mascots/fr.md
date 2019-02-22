@@ -140,7 +140,7 @@ Ryuuta
 #### Apparition
 * Catch the Beat (en tant que chibi-Ryuuta) [remplacé par Yuzu]
 * Site web d'osu! (chibi-Ryuuta en tant que mascotte) [Retiré]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (en tant que PNJ easter egg)
 
 #### Créateur
@@ -177,7 +177,7 @@ BA-2 (Beat Agent-2), J
 
 #### Apparition
 * Site web d'osu! (chibi-J en tant que mascotte) [retiré]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Créateur
 iNiS Corporation

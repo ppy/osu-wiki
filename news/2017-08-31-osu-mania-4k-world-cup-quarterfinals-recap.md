@@ -15,23 +15,23 @@ This week, we're gonna try switching up the recap format to something a little m
 - [Looking Ahead](#ahead)
 
 --------
-The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winners and Losers Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest. 
+The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winners and Losers Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest.
 
 Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. Without further ado, let's get right into the recap!
 
 ## <a name="mappool" id="mappool"></a>Mappool
 
-**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance. 
+**This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance.
 
 ### A word from our Mappool Selectors:
 
 *"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
 
-*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
+*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/beatmaps/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
 
 ### Mappool Statistics:
 
-This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866), having been played in every single match! The map also holds the distinction of being the "most accurate", though this is mostly because of its easier difficulty compared to the rest of the mappool. [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) and [NOISIA - Groundhog (Beat Juggle)](https://osu.ppy.sh/beatmapsets/591171#mania/1252742) were also two very popular maps, making appearances in a total of 5 matches each. 
+This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866), having been played in every single match! The map also holds the distinction of being the "most accurate", though this is mostly because of its easier difficulty compared to the rest of the mappool. [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) and [NOISIA - Groundhog (Beat Juggle)](https://osu.ppy.sh/beatmapsets/591171#mania/1252742) were also two very popular maps, making appearances in a total of 5 matches each.
 
 [Blue Stahli - Shotgun Senorita (Zardonic Remix)](https://osu.ppy.sh/beatmapsets/631861#mania/1341515) and [Akira Complex - Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/519513#mania/1103630) both made appearances in 6 matches. The former was a devilishly tricky map featuring many long note patterns, while the latter was very technically demanding, requiring high accuracy. As a result of this, both maps were understandably banned 4 times each. Finally, [Maika - Goldrop](https://osu.ppy.sh/beatmapsets/587117#mania/1243241) received the least attention, being picked only once across all the matches.
 
@@ -59,17 +59,17 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 **[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score difference of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
 
-**Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/u/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
+**Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/users/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
 
 ![](/wiki/shared/news/2017-08-31-osu-mania-4k-world-cup-quarterfinals-recap/HongKongSweden_game3.jpg)
 
-**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last roar, and convincingly took a point off the dominating Brazillians on [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866). Brazil then proceeded to finish the match with [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) - a fitting conclusion to one of the more exciting matches over this weekend. 
+**The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last roar, and convincingly took a point off the dominating Brazillians on [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866). Brazil then proceeded to finish the match with [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) - a fitting conclusion to one of the more exciting matches over this weekend.
 
 --------
 
 If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
-That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapore, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Losers Bracket. 
+That concludes all the matches for this weekend! Let's wave our goodbyes to Teams Singapore, Argentina, Hong Kong and New Zealand. Many congratulations to them for making it to the Top 16! Meanwhile, Teams Indonesia, Japan, Canada and France will be descending into the Losers Bracket.
 
 Good luck to all the remaining teams in this tournament!
 
@@ -91,7 +91,7 @@ Meanwhile, the lower part of the Losers Bracket will first see Sweden vs. Japan.
 
 **The first match of the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
-**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/product/226).
+**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/products/226).
 
 --------
 

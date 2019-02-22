@@ -3,7 +3,7 @@ osu! Taiko World Cup 2014
 
 ![TWC 2014 logo](logo.png)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/g/26) 举办的[太鼓模式](/wiki/Game_Modes/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![][flag_TW] 台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_Modes/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![][flag_TW] 台湾**。
 
 比赛流程
 ------------
@@ -42,7 +42,7 @@ osu! Taiko World Cup 2014
 相关鏈接
 ----------
 
--   [讨论串](https://osu.ppy.sh/forum/t/179127)
+-   [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
 -   [直播 (Twitch)](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------

@@ -21,6 +21,6 @@ osu!Idol is a contest where contestants as a solo or a duet sing their way throu
 
 ## Where do I sign up?
 
-[**See the thread for updated contest rules, more details on the event and discussion.**](https://osu.ppy.sh/forum/t/448842)
+[**See the thread for updated contest rules, more details on the event and discussion.**](https://osu.ppy.sh/community/forums/topics/448842)
 
 —Flanster

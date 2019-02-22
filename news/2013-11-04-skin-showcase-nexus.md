@@ -13,6 +13,6 @@ The original Nexus skin had separate elements in an "add-on" that changed the lo
 
 The first half of the video shows off Nexus Slate, while the second half displays Nexus Ivory.
 
-You can find the skin [here](https://osu.ppy.sh/forum/t/55948).
+You can find the skin [here](https://osu.ppy.sh/community/forums/topics/55948).
 
 —deadbeat

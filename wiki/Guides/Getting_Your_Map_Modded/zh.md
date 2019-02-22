@@ -21,7 +21,7 @@
 Modding Queues 版块
 -------------------
 
-[Modding Queues](https://osu.ppy.sh/forum/60) 会时不时有 modder 在这里开 queue。一般情况下，只要 queue 是开的 modder 都会接，然而你首先需要遵守 queue 中写明的特定的规则。
+[Modding Queues](https://osu.ppy.sh/community/forums/60) 会时不时有 modder 在这里开 queue。一般情况下，只要 queue 是开的 modder 都会接，然而你首先需要遵守 queue 中写明的特定的规则。
 
 互相 mod (M4M)
 --------------

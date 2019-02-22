@@ -95,4 +95,4 @@ Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador
 Link
 ----
 
--   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/forum/t/80448)
+-   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

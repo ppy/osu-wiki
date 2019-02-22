@@ -19,7 +19,7 @@ Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) t
 Menjadi seorang Beatmap Nominator
 ----------------------------
 
-Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam rentang waktu 1 atau 2 bulan.
+Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/groups/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/community/forums/6) dalam rentang waktu 1 atau 2 bulan.
 
 ### Kriteria Dasar
 
@@ -65,9 +65,9 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 Quality Assurance Helper
 -------------------------
 
-Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428). 
+Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428).
 
-Quality Assurance Helper bebas memilih beatmap yang ingin diperiksa, setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan mereka hanya bisa kembali masuk setelah melewati masa cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja. 
+Quality Assurance Helper bebas memilih beatmap yang ingin diperiksa, setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan mereka hanya bisa kembali masuk setelah melewati masa cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja.
 
 Anggota Tim
 ------------

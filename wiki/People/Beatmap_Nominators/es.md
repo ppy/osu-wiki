@@ -21,12 +21,12 @@ Convertirse en un Beatmap Nominator
 -----------------------------------
 
 Con el cambio al grupo el 22 de agosto de 2014, unirse al grupo es mucho más fácil de lo que solía ser.
-El [Quality Assurance Team](https://osu.ppy.sh/g/7) escribirá un anuncio para las inscripciones en la [sección de Pending Beatmaps](https://osu.ppy.sh/forum/6) en intervalos irregulares.
+El [Quality Assurance Team](https://osu.ppy.sh/groups/7) escribirá un anuncio para las inscripciones en la [sección de Pending Beatmaps](https://osu.ppy.sh/community/forums/6) en intervalos irregulares.
 
 ### Criterios básicos
 Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con los siguientes requisitos:
 + Han modeado beatmaps de forma activa durante al menos 3 meses previamente al anuncio.
-+ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total. 
++ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total.
 + Envíen de 3 a 5 mods suyos que crean que los cualifique para ser Beatmap Nominator.
 
 ### ¿Qué cualifica un post como Mod?
@@ -54,7 +54,7 @@ Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con 
 Miembros del Grupo
 -------------------
 
-_Ten en cuenta que todos los BN hablan inglés a menos que se indique lo contrario._ Link a [página de grupo de usuarios.](http://osu.ppy.sh/g/28)
+_Ten en cuenta que todos los BN hablan inglés a menos que se indique lo contrario._ Link a [página de grupo de usuarios.](https://osu.ppy.sh/groups/28)
 
 También ten en cuenta que la columna de modos de juego de la tabla aquí abajo menciona en qué modos de juego al Beatmap Nominator le está permitido rankear.
 

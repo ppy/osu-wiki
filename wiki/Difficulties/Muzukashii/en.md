@@ -29,14 +29,14 @@ And try to avoid these:
 Examples
 --------
 
-[Takamitsu Yoko - Angel Dream (Muzukashi) (Ra-s)](http://osu.ppy.sh/b/64427)
+[Takamitsu Yoko - Angel Dream (Muzukashi) (Ra-s)](https://osu.ppy.sh/beatmaps/64427)
 
 -   Short 1/2 patterns
 -   4/1 spacings
 -   Appearance of 1/4 leads to **more spacings**.
 -   Mostly **alone standing** 1/4 5-plet notes.
 
-[Nami Nakagawa - DON'T CUT (Muzukashii) (lepidopodus)](http://osu.ppy.sh/b/67203)
+[Nami Nakagawa - DON'T CUT (Muzukashii) (lepidopodus)](https://osu.ppy.sh/beatmaps/67203)
 
 -   **Maximum** of three consecutive 1/4 triplets
 -   Mostly **alone standing** 1/4 5-plet notes.

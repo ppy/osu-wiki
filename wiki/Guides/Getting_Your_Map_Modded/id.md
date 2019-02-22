@@ -21,7 +21,7 @@ Ini bukan cara yang paling efektif, tetapi tidak ada salahnya mencoba.
 Modding Queue
 -------------
 
-Pada forum [Modding Queues](https://osu.ppy.sh/forum/60) terdapat Modding Queue. Modding Queue adalah tempat di mana kamu mengepost map, dan pembikin thread mungkin mengemod mereka. Setiap thread mempunyai peraturan yang berbeda dan spesifik, jadi ikuti peraturan tersebut agar mapmu bisa dimod.
+Pada forum [Modding Queues](https://osu.ppy.sh/community/forums/60) terdapat Modding Queue. Modding Queue adalah tempat di mana kamu mengepost map, dan pembikin thread mungkin mengemod mereka. Setiap thread mempunyai peraturan yang berbeda dan spesifik, jadi ikuti peraturan tersebut agar mapmu bisa dimod.
 
 Meminta Pemain Lain untuk Mod4Mod
 ---------------------------------

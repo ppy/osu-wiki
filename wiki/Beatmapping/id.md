@@ -1,9 +1,9 @@
 # Beatmapping
 
-**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/beatmaps) di _osu!_ untuk pengguna agar dapat dimainkan.
-Ini termasuk pemilihan lagu, [timing](/wiki/timing), peletakan [objects](/wiki/objects), dan (opsional) [skinning](/wiki/skinning) dan [storyboarding](/wiki/storyboarding).
+**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmaps) di _osu!_ untuk pengguna agar dapat dimainkan.
+Ini termasuk pemilihan lagu, [timing](/wiki/Timing), peletakan [objects](/wiki/Hit_Objects), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboarding).
 
-Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps/#ranked) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
+Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
 
 osu! adalah permainan berbasis musik, Musik yang kamu pilih harus memiliki beat yang jelas dan konstan.
 Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai kamu berpengalaman dan terbiasa dalam membuat beatmap.
@@ -15,15 +15,15 @@ Untuk memulai membuat beatmap baru, silakan pergi ke edit mode kemudian drag-dan
 Ini akan langsung menuju ke dalam layar edit, bersamaan dengan audio yang kamu masukan tadi.
 Musik baru kamu akan berada dibawah daftar musik, biasanya berwarna ungu.
 Jika tidak muncul dalam daftar musik, tekan `F5` untuk me-reset cache beatmap dan musik pasti akan muncul dengan sendirinya.
-Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/beatmap_editor) dan dialog `Song Setup`.
+Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor) dan dialog `Song Setup`.
 
 ### Song Setup
 
 _Lihat juga: [Song Setup](/wiki/Song_Setup)_
 
-Ketika akan membuat [mapset](/wiki/mapset) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
+Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
-Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/difficulty) lain.
+Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Difficulties) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
 
 Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat diubah nanti.
@@ -36,9 +36,9 @@ _Lihat juga: [Timing](/wiki/Timing)_
 
 **Waktu itu penting!**
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
-Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/hit_objects).
+Kamu harus sudah yakin waktu kamu sudah sempurna sebelum menambahkan [hit objects](/wiki/Hit_Objects).
 
-Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/forum/10).
+Jika kamu tidak bisa menentukan waktu, kontak seorang mod untuk mendapatkan bantuan, atau mengirimkan musik kamu ke [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
 Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose
@@ -46,11 +46,11 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 _Lihat juga: [Compose](/wiki/Compose)_
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
-Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hit sounds](/wiki/hit_sounds)
+Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hit sounds](/wiki/Glossary)
 
 ### Design
 
 _Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)_
 
 Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur background beatmap menggunakan gambar, video, atau membuat storyboard.
-Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/SBS) (storyboard scripting).
+Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).

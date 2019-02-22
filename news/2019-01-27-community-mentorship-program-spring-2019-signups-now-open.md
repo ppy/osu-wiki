@@ -11,7 +11,7 @@ This program serves as a platform for new mappers and modders to get into the be
 
 Mentor applications are already over, but if mentoring someone in a more structured manner sounds interesting, you should look to apply next cycle! On the other hand, mentee applications are just about to open. If you want to get into mapping and are willing to learn, now's the time to apply!
 
-**For the upcoming spring cycle, we are looking for both mentors and mentees for all game modes!** 
+**For the upcoming spring cycle, we are looking for both mentors and mentees for all game modes!**
 
 The timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 - Mentor signups started on 2019-01-06 and close on 2019-01-13.

@@ -85,6 +85,6 @@ by windswirl
 Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-10.jpg)  
 by iPhone
 
-Thanks, everyone, for participating, whether you entered or even if you just voted, I appreciate that everyone took this seriously. I've been happy to see some great entries coming in for [the second contest](https://osu.ppy.sh/forum/t/206852/), and I hope to see even more in the coming weeks.
+Thanks, everyone, for participating, whether you entered or even if you just voted, I appreciate that everyone took this seriously. I've been happy to see some great entries coming in for [the second contest](https://osu.ppy.sh/community/forums/topics/206852/), and I hope to see even more in the coming weeks.
 
 —LuigiHann

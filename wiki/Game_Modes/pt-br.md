@@ -22,4 +22,4 @@ Collect falling fruits by moving the catcher with a plate. Keep dancing and do n
 
 *Página principal: [osu!mania](/wiki/osu!mania)*
 
-Baseado no jogos de ritmo do tipo mania, pioneiramente introduzido e implementado pelo [woc2006](/users/1105845). Acerte as notas e façam-as tocar a melodia da música.
+Baseado no jogos de ritmo do tipo mania, pioneiramente introduzido e implementado pelo [woc2006](https://osu.ppy.sh/users/1105845). Acerte as notas e façam-as tocar a melodia da música.

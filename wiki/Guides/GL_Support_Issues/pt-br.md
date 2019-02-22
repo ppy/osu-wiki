@@ -28,4 +28,4 @@ Seus drivers podem ser instalados corretamente, mas a sua profundidade de bits d
 Ajuda adicional
 ===============
 
-Se o seu problema não for corrigido pelas soluções acima, crie um tópico no [fórum de ajuda](https://osu.ppy.sh/forum/5) com os resultados [deste programa](http://www.realtech-vr.com/glview/download.php) e o seu gl\_info.txt caso esteja usando a versão Cutting Edge.
+Se o seu problema não for corrigido pelas soluções acima, crie um tópico no [fórum de ajuda](https://osu.ppy.sh/community/forums/5) com os resultados [deste programa](http://www.realtech-vr.com/glview/download.php) e o seu gl\_info.txt caso esteja usando a versão Cutting Edge.

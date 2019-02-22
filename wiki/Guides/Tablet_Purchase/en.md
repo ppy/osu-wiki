@@ -46,9 +46,9 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](img/gen1.jpg "First generation Bamboo (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
 
-![](http://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
+![](https://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 
-![](http://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
+![](https://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
 You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](http://www.apple.com/magictrackpad/).
 
@@ -75,4 +75,4 @@ These are only suggestions, however, there are certainly other brands out there 
 
 ## Trivia
 
-- Original forum post: [Tablet Purchase Guide for osu!](/community/forums/topics/71895) by [Daru](/users/32480)
+- Original forum post: [Tablet Purchase Guide for osu!](https://osu.ppy.sh/community/forums/topics/71895) by [Daru](https://osu.ppy.sh/users/32480)

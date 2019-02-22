@@ -53,9 +53,9 @@ Kullanıcı grupları
 | ---- | ----------- |
 | [Global Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team) | Forumlarda ve oyun-içi sohbette göz kulak olurlar |
 | [Beatmap Aday Gösterme Grubu (BNG)](/wiki/People/Beatmap_Nomination_Group) | Maplarınız dereceli olsun diye elinden geleni ardına koymayan kullanıcılar |
-| [Geliştiriciler](https://osu.ppy.sh/g/11) | Oyuna yeni özellikler ekleyip bugları kaldırarak oyunu harika yaparlar. |
+| [Geliştiriciler](https://osu.ppy.sh/groups/11) | Oyuna yeni özellikler ekleyip bugları kaldırarak oyunu harika yaparlar. |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Katkılarından ötürü sürekli hatırlanan eski kullanıcılar |
 | [Destek Ekibi Redux](/wiki/People/Support_Team) | Yardım/Özellik isteği desteği |
-| [osu!haberler](https://osu.ppy.sh/g/25) | 2013'ten beri kaliteli gazetecilik |
-| [Turnuva Ekibi](https://osu.ppy.sh/g/26) | Bütün oyun modlarında resmi olarak desteklenen osu! turnuvalarından sorumlu kişiler. |
+| [osu!haberler](https://osu.ppy.sh/groups/25) | 2013'ten beri kaliteli gazetecilik |
+| [Turnuva Ekibi](https://osu.ppy.sh/groups/26) | Bütün oyun modlarında resmi olarak desteklenen osu! turnuvalarından sorumlu kişiler. |
 | [Kalite Kontrol Takımı (QAT)](/wiki/People/Quality_Assurance_Team) | Beatmapların kalitesinden başlayarak, osu!'dan zevk almanıza yardım ediyoruz. |

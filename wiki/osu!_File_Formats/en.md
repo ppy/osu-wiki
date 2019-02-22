@@ -54,10 +54,10 @@ Creating .osz/.osk file
 4.  Allow the archive process. An .osz file will be produced as end product along with the distinctive osu! icon for the file.
 5.  Rinse and repeat for new copy. For skinning, use .osk extension.
 
-**Picture examples** (credit to [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+**Picture examples** (credit to [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+-   [WinRAR](https://puu.sh/1MBV)
+-   [7-zip](https://puu.sh/1MBW)
     -   For beatmap, use .osz extension.
 
 ### From the game

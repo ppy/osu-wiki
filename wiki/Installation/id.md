@@ -11,7 +11,7 @@ Halaman ini secara kasar akan memberi tahu anda cara bagaimana menjalankan osu! 
 
 ## Memasang osu!
 
-1.  Pergi ke [halaman unduh](/home/download) dan unduh penginstal osu!.
+1.  Pergi ke [halaman unduh](https://osu.ppy.sh/home/download) dan unduh penginstal osu!.
 2.  Buka file yang baru saja diunduh dan jalankan penginstal.
 3.  Saat penginstal berjalan, akan ada waktu sepuluh detik untuk memungkinkan anda memilih lokasi pemasangan.
     -   Jika anda ingin mengubahnya, klik pada teks di bawah kata, "Hi!" dan pilih lokasi pemasangan.
@@ -29,7 +29,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 
 ### Website
 
-1.  Kunjungi [halaman daftar beatmap](/beatmapsets) dan masuk ke situs web.
+1.  Kunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets) dan masuk ke situs web.
 2.  Cari lagu yang akan anda mainkan.
 3.  Klik pada ikon unduh untuk menyimpan beatmapset di komputer anda.
 4.  Cari dan buka file beatmapset, file ini memiliki ekstensi `.osz`.
@@ -52,7 +52,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 
 *Lihat juga: [Skins](/wiki/Skins) dan [Skinning](/wiki/Skinning).*
 
-1.  Kunjungi [subforum skinning](/community/forums/15) dan cari skin yang anda sukai.
+1.  Kunjungi [subforum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang anda sukai.
 2.  Setelah anda menemukan skin, unduh skinnya.
 3.  Bergantung pada bagaimana skinner mengemas skin mereka, anda perlu melakukan hal yang berbeda.
     -   Jika skin menggunakan `.osk`:

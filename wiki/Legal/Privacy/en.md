@@ -85,7 +85,7 @@ As a user you have the right to migrate, update or delete your personal informat
 
 In many cases, user submissions such as forum posts and beatmaps can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
 
-If you are covered by the European Union, you have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect". 
+If you are covered by the European Union, you have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
 
 As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect".
 
@@ -107,9 +107,9 @@ osu! services are not designed for children under the age of 13. If we discover 
 
 Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
 
-**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed) 
+**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed)
 
-**Postal Address**: 
+**Postal Address**:
 
 ```
 Dean Herbert

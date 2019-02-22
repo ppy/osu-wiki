@@ -193,11 +193,11 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/12292/#taiko/61369)
   - [Xelia - Illumiscape (Kanna) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/43960/#taiko/160239)
 - Hidden
-  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](http://puu.sh/28gKz)
+  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
   - kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
 - HardRock
   - [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229/#taiko/124413)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](http://puu.sh/28h1RZ)
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
 - DoubleTime
   - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369/#taiko/139607)
   - [ClariS - Neo Moon (goodbye) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/29693/#taiko/100104)

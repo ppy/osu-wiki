@@ -9,7 +9,7 @@ Notably, skin versions 2.4+ has improved scaling and new commands for the skin.i
 ## Lighting
 
 osu!mania has a separate lighting image than osu!standard and osu!catch does.
-While osu!standard and osu!catch uses a circular one for its hitobjects, osu!mania can use any shape to overlay the keys when they are being pressed against a note.
+While osu!standard and osu!catch uses a circular one for its hit objects, osu!mania can use any shape to overlay the keys when they are being pressed against a note.
 `LightingN` and `LightingL` are animatable images that appear when you hit a note on judgment bar.
 Do note that this can animated, though this is a pretty fast animation.
 

@@ -138,7 +138,7 @@ Ryuuta
 #### Einsatz in
 * Catch the Beat (als chibi-Ryuuta) [ersetzt durch Yuzu]
 * osu!webpage (chibi-Ryuuta als Mascot) [Im Ruhestand]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (als NPC Easter Egg)
 
 #### Ersteller
@@ -175,7 +175,7 @@ BA-2 (Beat Agent-2), J
 
 #### Einsatz in
 * osu!Webseite (chibi-J als Mascot) [Im Ruhestand]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Ersteller
 iNiS Corporation
