@@ -50,7 +50,7 @@ Links
 
 -   [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
 -   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Topic de discussion](https://osu.ppy.sh/forum/t/222100)
+-   [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
 
 ------------------------------------------------------------------------
 

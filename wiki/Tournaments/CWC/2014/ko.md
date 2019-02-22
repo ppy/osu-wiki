@@ -53,7 +53,7 @@ osu! Catch the Beat World Cup 2014
 -   [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive/)
 -   **[조별 예선 결과](https://tournaments.hiroto.eu/results/view/1)**
 -   [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [논의 스레드](https://osu.ppy.sh/forum/t/200185)
+-   [논의 스레드](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 

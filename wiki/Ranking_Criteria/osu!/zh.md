@@ -18,7 +18,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
-其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/forum/t/178700)。
+其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/community/forums/topics/178700)。
 
 - **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** 一种处在 Normal 和 Hard 中间的难度，填补了两者之间的难度跨度。
 - **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** 在有多个 Expert 难度时用于替换 Expert 的难度名并且表示它们之间难度的递增。

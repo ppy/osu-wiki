@@ -41,7 +41,7 @@ Other time zones:
 ## How to Enter
 
 - You should use the template as a base for your artworks. You can download templates here: [PSD template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.psd) / [PNG template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.png) Note: these templates are to be used as a guide - but don't leave the pink circle in your final artwork ;)
-- Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/forum/t/262187)
+- Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/262187)
 - Link to a much larger print-friendly image (at least 1366x768, preferably higher, or vector, if possible. Note:2732x1536 is optimal).
 - You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
 - You may enter more than one image, but you can only win one grand prize. If you have more than one entry, please keep them all in a **single forum post**.

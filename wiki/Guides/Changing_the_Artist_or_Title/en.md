@@ -1,7 +1,7 @@
 Changing the Map's Artist or Title
 ===================================
 
-[*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/forum/t/24443)
+[*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/community/forums/topics/24443)
 
 When changing the **title or artist** in a map, a problem may occur in which you may not be able to submit it without making a duplicate map.
 

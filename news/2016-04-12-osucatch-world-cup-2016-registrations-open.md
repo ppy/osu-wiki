@@ -10,7 +10,7 @@ We'd like to welcome all of you to this year's official osu!catch World Cup. As 
 ![](https://puu.sh/ofsJA/b31f8d8306.png)
 
 For more details, refer to the **[osu!catch World Cup 2016 wiki article](https://osu.ppy.sh/wiki/CWC_2016)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/442617)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/442617)**.
 
 ## Tournament Schedule
 

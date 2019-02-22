@@ -59,7 +59,7 @@ Links
 
 -   [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [Hilo de discusión (en inglés)](https://osu.ppy.sh/forum/t/200185)
+-   [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 

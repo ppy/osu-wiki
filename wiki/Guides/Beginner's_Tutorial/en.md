@@ -108,7 +108,7 @@ A commonly overlooked feature of the game is the Raw Input function. This allows
 
 *See also: [Skinning](/wiki/Skinning)*
 
-There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
+There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/community/forums/topics/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
 
 ## Beginner Maps
 

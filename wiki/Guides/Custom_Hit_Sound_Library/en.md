@@ -1,7 +1,7 @@
 Custom Hitsound Library
 =========================
 
-[*Custom Hitsound Library* by: Yuukari-Banteki](https://osu.ppy.sh/forum/t/15407)
+[*Custom Hitsound Library* by: Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)
 
 This article serves as a library of custom hitsounds.
 

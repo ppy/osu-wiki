@@ -340,7 +340,7 @@ Não. Diferente do vídeo, kiai é integrado ao jogo (como seu fosse um hit obje
 Os maps são muito difíceis! Onde eu acho os maps mais fáceis?
 -------------------------------------------------------------
 
-Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <https://osu.ppy.sh/forum/t/5456>
+Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <https://osu.ppy.sh/community/forums/topics/5456>
 
 E também [versão não-oficial ranqueada do tutorial osu! tutorial](https://osu.ppy.sh/beatmapsets/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
 
@@ -368,6 +368,6 @@ Créditos
 
 -   FAQ do peppy[1](https://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
--   Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/forum/t/5456)
+-   Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)

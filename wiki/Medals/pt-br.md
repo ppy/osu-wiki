@@ -130,4 +130,4 @@ Conquistas deste tipo não têm nenhuma maneira óbvia de obtê-las. O próprio 
 Links externos
 -------------
 
--   Gráficos de conquistas do peppy [1](https://osu.ppy.sh/forum/t/80448)
+-   Gráficos de conquistas do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

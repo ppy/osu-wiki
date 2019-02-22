@@ -16,11 +16,11 @@ Osoby posiadające obecnie Znak Zasłużonego:
 
 | Użytkownik | Wkład |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Stworzenie i utrzymywanie [osu!record](https://osu.ppy.sh/forum/t/108092) (.osr do pliku wideo.) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Stworzenie i utrzymywanie [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (.osr do pliku wideo.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Stworzenie i utrzymywanie jednego z najdłużej działających [serwerów map](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Nieopisany wkład graficzny w osu! |
 | [Ballance](https://osu.ppy.sh/users/165946) | Stworzenie artworku [osiągnięć](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Stworzenie [AIBat](https://osu.ppy.sh/forum/t/55305), najbardziej znanego narzędzia do modowania kiedykolwiek stworzonego przez społeczność. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Stworzenie [AIBat](https://osu.ppy.sh/community/forums/topics/55305), najbardziej znanego narzędzia do modowania kiedykolwiek stworzonego przez społeczność. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Nieopisana pomoc w naprawianiu bugów/testowaniu nowych opcji oraz tworzenie wielu narzędzi dla mapperów i modderów. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organizacja wszystkich oficjalnych turniejów |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Szalony moderator (sam był w stanie pracować za 6 moderatorów) - potrafił sam moderować #osu w godzinach szczytu (9 tys. + osób). |

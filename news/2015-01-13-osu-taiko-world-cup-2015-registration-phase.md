@@ -52,6 +52,6 @@ _Remember that any registrations past the deadline will not be considered under 
 ## Links
 
 - [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015)
-- [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 
 —Loctav

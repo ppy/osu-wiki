@@ -15,7 +15,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 | User | Contributions |
 | ---- | ------------- |
-| [Darkimmortal](/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/forum/t/108092) (replay `.osr` to video file.) |
+| [Darkimmortal](/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file.) |
 | [nanashiRei](/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | [RBRat3](/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
 | [Ballance](/users/165946) | [Achievement](/wiki/Achievements) artwork. |

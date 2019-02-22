@@ -16,11 +16,11 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
 | User | Kontributor |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Mengembangkan dan menjaga pelayanan [osu!record](https://osu.ppy.sh/forum/t/108092) (penayangan ulang .osr ke file video) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Mengembangkan dan menjaga pelayanan [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (penayangan ulang .osr ke file video) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Menyelenggarakan dan menjaga salah satu [mirror beatmap](http://osu.yas-online.net/) yang berjalan paling lama. |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Berbagai kontribusi grafis terhadap klien game dan yang lainnya (diluar hitungan). |
 | [Ballance](https://osu.ppy.sh/users/165946) | Karya-karya untuk bagian [Achievement](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Mengembangkan dan menjaga [AIBat](https://osu.ppy.sh/forum/t/55305), yang merupakan perangkat modding beatmap pihak ketiga yang paling terkenal yang digunakan oleh kebanyakkan orang di dalam komunitas. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Mengembangkan dan menjaga [AIBat](https://osu.ppy.sh/community/forums/topics/55305), yang merupakan perangkat modding beatmap pihak ketiga yang paling terkenal yang digunakan oleh kebanyakkan orang di dalam komunitas. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Performan yang sangat bagus dalam mengetes bug/fitur-fitur dan mengkoding berbagai peralatan untuk mapper dan modder. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Mengatur beberapa turnamen-turnamen besar resmi (termasuk OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Perekam jejak moderasi yang sangat terpompa (sama dengan 6 staff member lainnya secara kasar) dan hampir satu-satunya yang memoderasi #osu selama jam-jam sibuk (9000 pengguna). |

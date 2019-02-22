@@ -54,4 +54,4 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 - [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
 - [Official YouTube channel](https://www.youtube.com/user/osuacademy/videos)
-- [Official thread](https://osu.ppy.sh/forum/t/169707)
+- [Official thread](https://osu.ppy.sh/community/forums/topics/169707)

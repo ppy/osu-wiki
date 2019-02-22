@@ -178,7 +178,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 Características (osu!mania)
 -----------------------
 
-(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/forum/t/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/forum/t/139139)
+(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Esquina superior derecha (Divisor de ritmo)
 

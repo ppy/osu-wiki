@@ -18,7 +18,7 @@ It continued to exist in this capacity for more than a year of service, until [T
 
 *ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/forum/t/92185).
+*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).
 
 How is pp calculated?
 ---------------------

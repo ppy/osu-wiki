@@ -17,11 +17,11 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | ---- | ------------- |
-| [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](https://osu.ppy.sh/forum/t/108092) (reproducir `.osr` a archivo de video). |
+| [Darkimmortal](/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de video). |
 | [nanashiRei](/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](Https://osu.yas-online.net/) de osu! . |
 | [RBRat3](/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](/users/165946) | Arte de los [Logros](/wiki/Achievements), |
-| [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/forum/t/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
+| [akrolsmir](/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
 | [statementreply](/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders.|
 | [Loctav](/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
 | [Blazevoir](/users/120265) | Tiempo récord insano de moderación (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |

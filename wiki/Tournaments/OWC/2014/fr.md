@@ -549,7 +549,7 @@ Liens divers
 -------------
 
 -   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
--   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/forum/t/247090)
+-   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

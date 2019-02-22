@@ -1,7 +1,7 @@
 How to run osu! on Mac without using Boot Camp
 ====================================================
 
-Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/forum/t/14664/)
+Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/community/forums/topics/14664/)
 
 Note: External Images cannot (or I assume so) be loaded through osu! wiki unless uploaded through osu! wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
 

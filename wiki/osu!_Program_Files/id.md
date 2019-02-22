@@ -38,7 +38,7 @@ Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Opti
 
 ### Replay
 
-Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/forum/t/108092).
+Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/community/forums/topics/108092).
 
 Formatnya adalah `{Nama pemain tempatan} - {Penyanyi} - {Tajuk} {[Kesukaran]}{(TTTT-BB-HH)} {Mode Mainan}`
 **Contoh:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania

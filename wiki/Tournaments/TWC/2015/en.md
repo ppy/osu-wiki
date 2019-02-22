@@ -98,7 +98,7 @@ Participants
 Links
 ----------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 -   **[Group Stage Statistics](https://owc.nicarim.pw/results/view/4)**
 -   [osu!talk Group Stage Recap](https://www.youtube.com/watch?v=-T9xDo7Y8Fo)

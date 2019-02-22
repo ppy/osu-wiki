@@ -35,7 +35,7 @@ The prizes are as follows:
 * Winning difficulties will be bundled together with other winning difficulties to create a **bundled mapset for that particular gamemode.** This may seem like a smaller prize than other contests, but do note that bundled maps recieve millions of plays over the course of a year where most maps are lucky to receive a hundred thousand at best. It is a huge amount of exposure.
 * Acknowledgement for producing the difficulty/difficulties will be denoted in the mapset's metadata and description.
 
-Have any questions about the contest or its prizes? [Head on over to the discussion thread on the forums](https://osu.ppy.sh/forum/t/506289) and ask the organizers!
+Have any questions about the contest or its prizes? [Head on over to the discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/506289) and ask the organizers!
 
 **To get started, download the pre-timed beatmap osz from [yuki's featured artist page](https://osu.ppy.sh/beatmaps/artists/4) (or [this link for the lazy](https://assets.ppy.sh/artists/4/osz/yuki.%20-%20Nadeshiko%20Sensation.osz)) and start mapping!**
 

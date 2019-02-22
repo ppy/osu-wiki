@@ -17,7 +17,7 @@ Vantaggi degli osu!supporter
 -   osu!test (versione di test per vedere i nuovi aggiornamenti prima che diventino pubblici)
 -   [Chat](IT:Chat_Console "wikilink"): nome <span style="color:#FFC700">giallo acceso</span> nel nickname dei tuoi messaggi (visibile di quel colore agli altri, te vedi comunque il tuo nome nella chat bianco).
 -   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist): Puoi filtrare le mappe nel Beatmap Listing tra quelle già giocate quelle non giocate.
--   [Skinning](IT:Skinning "wikilink"): Puoi usare altri elementi della skin, come lo sfondo del [menù principale](https://osu.ppy.sh/forum/t/96949), lo sfondo di osu!direct o lo sfondo del multiplayer.
+-   [Skinning](IT:Skinning "wikilink"): Puoi usare altri elementi della skin, come lo sfondo del [menù principale](https://osu.ppy.sh/community/forums/topics/96949), lo sfondo di osu!direct o lo sfondo del multiplayer.
     -   Nello specifico, `menu-background.jpg` (per il menù principale); `matchsetup-background.png` (per il multiplayer); `search-background.png` (per osu!direct)
 -   [Feature Requests](https://osu.ppy.sh/forum/4): Voti extra per le Feature Requests (solitamente c'è solo 1 voto al mese mentre con il supporter sono 2).
 -   [Selezione delle mappe](/wiki/Interface): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.

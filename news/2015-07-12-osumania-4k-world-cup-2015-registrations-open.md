@@ -55,6 +55,6 @@ _Remember that any registrations past the deadline will not be considered under 
 ## Links
 
 + [Wiki article](https://osu.ppy.sh/wiki/MWC_4K_2015)
-+ [Discussion thread](https://osu.ppy.sh/forum/t/345431)
++ [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
 
 —Loctav

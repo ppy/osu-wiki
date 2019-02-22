@@ -25,7 +25,7 @@ We also would like to present you the skin showcase made by [IamKwaN](https://os
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GgK2nXFF9PA" frameborder="0" allowfullscreen=""></iframe>
 
-We would like to mention the upcoming tournaments, starting in just a few days with registrations for the Taiko World Cup 2015 opening, and other game modes to follow! For more details, check out [this thread](https://osu.ppy.sh/forum/t/243132).
+We would like to mention the upcoming tournaments, starting in just a few days with registrations for the Taiko World Cup 2015 opening, and other game modes to follow! For more details, check out [this thread](https://osu.ppy.sh/community/forums/topics/243132).
 
 Stay tuned, and see you next time!
 

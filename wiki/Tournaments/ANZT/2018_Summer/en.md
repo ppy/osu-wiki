@@ -41,7 +41,7 @@ Aus/NZ osu!standard Tournament 5 - Summer
 
 ## Links
 
-- [Forum thread](https://osu.ppy.sh/forum/t/679243)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/679243)
 - [Livestream](https://www.twitch.tv/osuanzt)
 
 -----------------------

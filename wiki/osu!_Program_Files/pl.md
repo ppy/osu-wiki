@@ -41,7 +41,7 @@ Pojawia się, gdy zmienisz swój język w Opcjach. **'Zawiera przetłumaczone pl
 
 ### Replays
 
-Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/forum/t/108092).
+Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
 
 Szyk: `{Lokalny pseudonim gracza} - {Wykonawca} - {Tytuł} {[Poziom trudności]}{(Rok-Miesiąc-Dzień)} {Tryb Gry}`
 **Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania

@@ -10,7 +10,7 @@ We'd like to welcome all of you to this year's official osu!taiko World Cup. As 
 ![](/wiki/shared/news/banners/twc2017.jpg)
 
 For more details, refer to the **[osu!taiko World Cup 2017 wiki article](https://osu.ppy.sh/wiki/Tournaments/TWC/2017)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/555072)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/555072)**.
 
 ## Tournament Schedule
 
@@ -25,7 +25,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 
 ## What has been changed?
 
-+ We are now using **ScoreV2** for osu!taiko in this tournament. With weighting combo and accuracy differently and altering parts of osu!taiko's gameplay elements, we want to rebalance competitive play. Visit the [discussion thread](https://osu.ppy.sh/forum/t/550582) for details. This version is not finalized yet but will be ready in time for this competition!
++ We are now using **ScoreV2** for osu!taiko in this tournament. With weighting combo and accuracy differently and altering parts of osu!taiko's gameplay elements, we want to rebalance competitive play. Visit the [discussion thread](https://osu.ppy.sh/community/forums/topics/550582) for details. This version is not finalized yet but will be ready in time for this competition!
 + We have added clearer regulations regarding disconnects and inappropriate behavior during the matches.
 + We have changed our prize pool to offer unique and exclusive merchandise to all of our podium winners, giving the winners something more special, rewarding and outstanding when competing against the best of the best.
 + We adjusted the mappool structure and size. All pools are now of a size of **16** beatmaps in total, whereas **6** are in the NoMod bracket, **2** are in the Hidden HardRock and DoubleTime brackets respectively, **3** are in the FreeMod bracket and 1 is the tiebreaker of the pool.

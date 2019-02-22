@@ -8,7 +8,7 @@ Wprowadzenie
 
 Źródło: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek: <https://osu.ppy.sh/forum/t/169707>
+Oficjalny wątek: <https://osu.ppy.sh/community/forums/topics/169707>
 
 **Akademia osu!** ma na celu wszechstronne ukazanie wszystkich aspektów osu!, od rozgrywki do mapowania i wszystkiego pomiędzy.
 

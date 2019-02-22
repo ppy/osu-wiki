@@ -90,4 +90,4 @@ Spéciaux
 ## Liens Externes
 
 - Chaîne Youtube Officielle: <https://www.youtube.com/user/osuacademy/videos>
-- Thread Officiel: <https://osu.ppy.sh/forum/t/225111>
+- Thread Officiel: <https://osu.ppy.sh/community/forums/topics/225111>

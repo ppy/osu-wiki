@@ -54,7 +54,7 @@ osu! Catch the Beat World Cup 2014
 
 -   [osu! Catch the Beat World Cup 2014 Twitch直播室](https://www.twitch.tv/osulive/)
 -   [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [讨论帖](https://osu.ppy.sh/forum/t/200185)
+-   [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 

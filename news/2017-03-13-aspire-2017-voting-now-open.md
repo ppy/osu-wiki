@@ -26,7 +26,7 @@ Be sure to follow the instructions on the page if you decide to download the bea
 
 We'll be looking to do more features like this in the future for other events - including Aspire-class contests for the other gamemodes, as well. Expect more of this sort of thing going forward - and with more polish to boot!
 
-If you managed to catch the stream or watch the VOD, [please let us know what you thought of it all](https://osu.ppy.sh/forum/t/568689). There's also an [official discussion thread](https://osu.ppy.sh/forum/t/568683) if you'd like to discuss the entries in more depth on the forums.
+If you managed to catch the stream or watch the VOD, [please let us know what you thought of it all](https://osu.ppy.sh/community/forums/topics/568689). There's also an [official discussion thread](https://osu.ppy.sh/community/forums/topics/568683) if you'd like to discuss the entries in more depth on the forums.
 
 You can of course, discuss in the comments below if you're so inclined. Bonus points if you figure out which of the songs played during the discussion/interlude is a brand new hereunto unreleased track from one of our Featured Artists!
 

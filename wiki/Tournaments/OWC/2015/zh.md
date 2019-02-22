@@ -481,7 +481,7 @@ osu! World Cup 2015
 ### 竞赛规则
 
 1.  osu! World Cup 是一个基于国家的4v4比赛。
-2.  使用新的 **[Score V2](https://osu.ppy.sh/forum/t/375428)** 计分。
+2.  使用新的 **[Score V2](https://osu.ppy.sh/community/forums/topics/375428)** 计分。
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 

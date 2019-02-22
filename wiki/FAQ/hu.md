@@ -310,7 +310,7 @@ Nem, ugyanis - a videóval ellentétben - ez a játékba van integrálva (az elt
 A mapek túl nehezek! Hol találhatok könnyebbeket?
 -------------------------------------------------
 
-Pokebis összeállított egy listát kezdőknek is megfelelő beatmapekből. Itt találod őket: <https://osu.ppy.sh/forum/t/5456>
+Pokebis összeállított egy listát kezdőknek is megfelelő beatmapekből. Itt találod őket: <https://osu.ppy.sh/community/forums/topics/5456>
 
 [Az osu! tutorial rankolt beatmap változata](https://osu.ppy.sh/beatmapsets/19928) is remek, ha gyakorolni szeretnél néhányat a lehetséges minták közül, amikkel találkozhatsz. Ez egy nagyon jó gyakorló map kezdőknek és haladóknak egyaránt.
 
@@ -338,5 +338,5 @@ Készítők
 
 -   peppy GYIK-je [1](https://osu.ppy.sh/p/faq)
 -   Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
--   Pokebis kezdőknek szánt listája [2](https://osu.ppy.sh/forum/t/5456)
+-   Pokebis kezdőknek szánt listája [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

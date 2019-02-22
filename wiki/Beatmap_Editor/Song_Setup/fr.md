@@ -18,7 +18,7 @@ Général
 
 ![Onglet "Difficulty" (Difficulté)](img/SS_Difficulty_Settings.jpg "Onglet "Difficulty" (Difficulté)")
 
-[Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/forum/t/249288).
+[Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/community/forums/topics/249288).
 
 Toutes les musiques n'ont pas besion d'avoir quelque chose dans le champ "Source". La source est uniquement utilisée pour les musiques qui viennent de quelque chose de spécifique, comme un Jeu Vidéo ou un Anime. Les chansons de rock ou de pop régulières peuvent laisser ce champ vide.
 

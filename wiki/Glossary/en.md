@@ -863,7 +863,7 @@ A touchscreen is one of the input mediums used by the DS games that osu! is base
 
 ### Touhosu!
 
-_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
+_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307)_
 
 Touhosu! is a requested game mode that is the opposite of osu!catch. _Opposite_ because instead of catching objects, you avoid them.
 

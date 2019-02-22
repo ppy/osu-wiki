@@ -2,7 +2,7 @@
 
 ![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
 
-- [Results](https://osu.ppy.sh/forum/t/22162)
+- [Results](https://osu.ppy.sh/community/forums/topics/22162)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2009)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)

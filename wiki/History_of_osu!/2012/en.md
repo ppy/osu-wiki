@@ -8,7 +8,7 @@ osu! and its community celebrated osu!'s 5th birthday on the 2012-09-17. During 
 
 Links:
 
-- [Five Years of osu! (Forum thread)](https://osu.ppy.sh/forum/t/98349)
+- [Five Years of osu! (Forum thread)](https://osu.ppy.sh/community/forums/topics/98349)
 
 ## October
 
@@ -51,7 +51,7 @@ Button status overlay was considered a nice addition. Now, you can actually *see
 
 Links:
 
-- [osu! Release (b20121029) (Forum thread)](https://osu.ppy.sh/forum/t/103427)
+- [osu! Release (b20121029) (Forum thread)](https://osu.ppy.sh/community/forums/topics/103427)
 
 ## November
 
@@ -59,7 +59,7 @@ On 2012-11-13, **osu!mania ranking was now implemented with pp ranking**. To ens
 
 Links:
 
-- [osu!mania score reset (Forum thread)](https://osu.ppy.sh/forum/t/105564)
+- [osu!mania score reset (Forum thread)](https://osu.ppy.sh/community/forums/topics/105564)
 
 ---
 
@@ -71,13 +71,13 @@ On 2012-11-22:
 -   ([Multi](/wiki/Multi)) "Quick Join" button added.
 -   Fun Spoiler Settings was available during replay/spectating a player.
 
-Localisation from [osu! localisation project v2](https://osu.ppy.sh/forum/t/104342/start=0) has been added. You can find the localisation at the [Options](/wiki/Options) page in Graphics tab under "Languages".
+Localisation from [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342/start=0) has been added. You can find the localisation at the [Options](/wiki/Options) page in Graphics tab under "Languages".
 
 A "Quick Join" button was added to Multi's lobby where you randomly join a room based on the beatmap you have when pressed. Since you were randomly "forced" to enter a random room, it would not be surprising when the beatmap in question was in the difficulty setting you do not want (Insane difficulty usually or difficulty you can't handle well). Unless you find searching a room manually yourself was troublesome, you can use it as an option instead.
 
 Links:
 
-- [osu! Public Release (b20121122) (Forum thread)](https://osu.ppy.sh/forum/t/106677)
+- [osu! Public Release (b20121122) (Forum thread)](https://osu.ppy.sh/community/forums/topics/106677)
 
 ## December
 
@@ -95,7 +95,7 @@ Technical issues and bugs were expected. The widescreen support, despite being f
 
 Links:
 
-- [osu! Public Release (b20121221) (Forum thread)](https://osu.ppy.sh/forum/t/110459)
+- [osu! Public Release (b20121221) (Forum thread)](https://osu.ppy.sh/community/forums/topics/110459)
 
 ---
 

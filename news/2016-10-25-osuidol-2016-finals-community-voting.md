@@ -24,7 +24,7 @@ We launched the event mid-summer, with more than 150 submissions, went through m
 - **2nd:** 3 months supporter tag.
 - **3rd:** 2 months supporter tag.
 
-Don't forget to drop by the discussion thread [here](https://osu.ppy.sh/forum/t/448842/start=0) and of course our [discord server!](https://discord.gg/7hZgNeH)
+Don't forget to drop by the discussion thread [here](https://osu.ppy.sh/community/forums/topics/448842/start=0) and of course our [discord server!](https://discord.gg/7hZgNeH)
 
 
 —Flanster

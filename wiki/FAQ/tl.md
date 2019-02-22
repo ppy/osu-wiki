@@ -112,18 +112,18 @@ Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa
 
 ### Gumagana ba ang osu! sa OSX?
 
-May test release para sa OSX na [makikita dito](https://osu.ppy.sh/forum/t/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
+May test release para sa OSX na [makikita dito](https://osu.ppy.sh/community/forums/topics/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
 
-Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/forum/t/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
+Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/community/forums/topics/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
 
 ### Gumagana ba ang osu! sa loob ng Linux?
 
 May mga tao na nagsasabi na pwede mo rin mapagana ang osu! sa loob ng Linux gamit Wine.
 
-Tignan ang [thread na ito](https://osu.ppy.sh/forum/t/14614) para sa mga detalye kung paano gawin.
+Tignan ang [thread na ito](https://osu.ppy.sh/community/forums/topics/14614) para sa mga detalye kung paano gawin.
 
 ### Ang hirap ng mga maps! Saan ako makaka hanapa ng madaling maps?
 
-Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <https://osu.ppy.sh/forum/t/5456>
+Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <https://osu.ppy.sh/community/forums/topics/5456>
 
 At tsaka, [ang ranked na beatmap ng osu! tutorial](https://osu.ppy.sh/beatmapsets/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.

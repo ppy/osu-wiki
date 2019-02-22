@@ -22,7 +22,7 @@ Congratulations to the winners, and thanks to all participants for making this t
 
 If you want to learn more about the osu! Catch the Beat World Cup 2014, take a look at the [wiki article](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014).
 
-For sure, you can await more tournaments to happen in the future, next with the osu!mania World Cup in July 2014. For more details, check out [this thread](https://osu.ppy.sh/forum/t/148024).
+For sure, you can await more tournaments to happen in the future, next with the osu!mania World Cup in July 2014. For more details, check out [this thread](https://osu.ppy.sh/community/forums/topics/148024).
 
 Stay tuned, and see you soon for the next world cups!
 

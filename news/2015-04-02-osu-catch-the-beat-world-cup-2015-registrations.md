@@ -53,6 +53,6 @@ _Remember that any registrations past the deadline will not be considered under 
 ## Links
 
 - [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2015)
-- [Discussion thread](https://osu.ppy.sh/forum/t/316279)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/316279)
 
 —Loctav

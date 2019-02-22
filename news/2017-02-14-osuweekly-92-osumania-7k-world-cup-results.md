@@ -17,7 +17,7 @@ The osu!mania 7K World Cup has reached a very decided conclusion! In the communi
 Weekly news
 ---------------------
 
-**From seemingly out of nowhere, Usin released a brand new (android only) [home screen widget](https://osu.ppy.sh/forum/t/557002) to display osu profiles!** Featuring pleasant aesthetics and available in English or Korean, this handy little app promises to be a part of your new daily drive. If you, like me, like to remind yourself every time you check twitter how great you are at the game, head on over to the thread to find out how you can give it a try!
+**From seemingly out of nowhere, Usin released a brand new (android only) [home screen widget](https://osu.ppy.sh/community/forums/topics/557002) to display osu profiles!** Featuring pleasant aesthetics and available in English or Korean, this handy little app promises to be a part of your new daily drive. If you, like me, like to remind yourself every time you check twitter how great you are at the game, head on over to the thread to find out how you can give it a try!
 
 **To the victor of osu!mania 7K World Cup go the spoils, but [TWC](https://osu.ppy.sh/wiki/Tournaments/TWC/2017/) is just around the corner!** If you fancy yourself to be good at the arcade classic of beating on a drum viciously with your sticks of war, head on over to the [registration page](https://osu.ppy.sh/tournaments/9) and sign up now!
 

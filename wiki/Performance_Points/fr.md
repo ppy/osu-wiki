@@ -18,7 +18,7 @@ Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94
 
 *ppv2* est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/forum/t/92185).
+*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
 
 Comment sont calculés les pp ?
 ------------------------------

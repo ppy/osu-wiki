@@ -54,4 +54,4 @@ Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztr
 
 - Source: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Chaîne Youtube officielle: <https://www.youtube.com/user/osuacademy/videos>
-- Sujet officiel: <https://osu.ppy.sh/forum/t/169707>
+- Sujet officiel: <https://osu.ppy.sh/community/forums/topics/169707>

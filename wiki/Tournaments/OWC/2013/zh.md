@@ -34,7 +34,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 | Placing                                                    | Prize(s)                                                                  |
 |------------------------------------------------------------|---------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3个月的supporter标签                                                           |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1个月的supporter标签                                                           |
 
@@ -54,8 +54,8 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 外部链接
 -----------
 
--   [讨论帖（英文）](https://osu.ppy.sh/forum/t/160181/start=0)
--   [讨论帖（中文）](https://osu.ppy.sh/forum/t/160371)
+-   [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+-   [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
 -   [osu! World Cup直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
 -   [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
 

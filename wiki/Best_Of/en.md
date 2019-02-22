@@ -26,13 +26,13 @@ Index page for all of the "Best Of" series.
 | ![#2][#2]     | [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/beatmapsets/6257)  |
 | ![#3][#3]     | [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/6358) |
 
-- [Top 30](https://osu.ppy.sh/forum/t/22162)
+- [Top 30](https://osu.ppy.sh/community/forums/topics/22162)
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2009)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
 - [News](https://osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
-- [Results](https://osu.ppy.sh/forum/t/22162)
+- [Results](https://osu.ppy.sh/community/forums/topics/22162)
 
 #### 2010 osu!standard
 
@@ -47,8 +47,8 @@ Index page for all of the "Best Of" series.
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
-- [News](https://osu.ppy.sh/forum/t/42889)
-- [Results](https://osu.ppy.sh/forum/t/43834)
+- [News](https://osu.ppy.sh/community/forums/topics/42889)
+- [Results](https://osu.ppy.sh/community/forums/topics/43834)
 
 #### 2011 osu!standard
 
@@ -63,7 +63,7 @@ Index page for all of the "Best Of" series.
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
-- [Results](https://osu.ppy.sh/forum/t/71477)
+- [Results](https://osu.ppy.sh/community/forums/topics/71477)
 
 #### 2012 osu!standard
 
@@ -78,8 +78,8 @@ Index page for all of the "Best Of" series.
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/download/ew1p4foirfxoa5f/Best+of+2012+Chart+Pack+Part+1.rar)
   - [Part 2](https://www.mediafire.com/download/fx7baq327r502so/Best+of+2012+Chart+Pack+Part+2.rar)
-- [News](https://osu.ppy.sh/forum/t/110066)
-- [Results](https://osu.ppy.sh/forum/t/113613)
+- [News](https://osu.ppy.sh/community/forums/topics/110066)
+- [Results](https://osu.ppy.sh/community/forums/topics/113613)
 
 #### 2013 osu!standard
 

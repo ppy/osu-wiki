@@ -18,7 +18,7 @@
 
 <!-- External links used -->
 [osu!academy Ep6]: https://www.youtube.com/watch?v=cyYRl-a5xII "osu!academy Episode 6 YouTube link."
-[modified version link]: https://osu.ppy.sh/forum/t/135726 "ppy's reply on a bug report."
+[modified version link]: https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report."
 
 <!-- Image links used -->
 [Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction."

@@ -11,7 +11,7 @@ We'd like to welcome all of you to this year's official osu! World Cup. As in ev
 ![](https://puu.sh/sMSdZ/cc19cb0259.png)
 
 For more details, refer to the **[osu!mania 7K World Cup 2017 wiki article](https://osu.ppy.sh/wiki/MWC7K_2017)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/532702)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/532702)**.
 
 ## Tournament Schedule
 

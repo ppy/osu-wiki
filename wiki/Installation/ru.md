@@ -40,7 +40,7 @@ Installation
 Примечание: Есть множество способов скачать карту. Вот короткий список:
 - Скачайте **[пак карт](https://osu.ppy.sh/p/packlist)**. Это архив, содержащий сразу несколько карт. Зачастую это .zip или .rar архив. Скачайте архив, распакуйте, используя ваш любимый архиватор (например [7-Zip](http://www.7-zip.org/)) и импортируйте распакованные .osz файлы, как вы это обычно делаете.
 - Используйте зеркало. С помощью зеркал, любезно предоставленных сообществом, можно скачать карту не заходя на сайт. Самый популярный - [yas-online](http://osu.yas-online.net/), но другие также доступны в интернете.
-- Если вы знаете как использовать торрент-клиенты, ([здесь можно найти торрент файлы, предоставленные членами сообщества](https://osu.ppy.sh/forum/t/147478)), вы можете скачать много паков карт за раз.
+- Если вы знаете как использовать торрент-клиенты, ([здесь можно найти торрент файлы, предоставленные членами сообщества](https://osu.ppy.sh/community/forums/topics/147478)), вы можете скачать много паков карт за раз.
 
 ##### OS X (бета версия)
 
@@ -66,7 +66,7 @@ Installation
 - Вы можете сделать короткую ссылку к папке с песней на вашем рабочем столе, перемещая папку с одновременно зажатыми кнопками команды и опции. Это должно облегчить скачивание новых карт.
 
 ##### Linux (используя Wine)
->Эта инструкция скорее всего устарела! Проверьте [последние страницы этой темы](https://osu.ppy.sh/forum/t/14614) на форуме.
+>Эта инструкция скорее всего устарела! Проверьте [последние страницы этой темы](https://osu.ppy.sh/community/forums/topics/14614) на форуме.
 
 ###### Как установить
 
@@ -109,7 +109,7 @@ Installation
 #### osu!droid (неофициальная версия)
 
 ##### Как установить (С помощью телефона)
->[Оригинальный пост](https://osu.ppy.sh/forum/t/62680)
+>[Оригинальный пост](https://osu.ppy.sh/community/forums/topics/62680)
 
 - У вас есть 2 варианта. Выберите один из них.
   - Перейдите на [страницу osu!droid в Google play](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Рекомендовано)
@@ -147,7 +147,7 @@ Installation
 #### T-Aiko [Taiko]  (неофициальная версия, созданная пользователем Guy-kun)
 
 ##### Как установить (С помощью телефона)
->[Оригинальный пост](https://osu.ppy.sh/forum/t/58640)
+>[Оригинальный пост](https://osu.ppy.sh/community/forums/topics/58640)
 
 - Перейдите на [страницу T-Aiko в Google Play](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 - Разрешите установить файл.
@@ -175,7 +175,7 @@ Installation
 #### osu! iPhone (неофициальная версия, созданная пользователем nuudles)
 
 ##### Как установить
-- Используйте [эту ссылку](https://osu.ppy.sh/forum/t/176495) для поиска пошаговой инструкции для установки osu! на джейлбрейкнутый iPhone с версией iOS 7.0.4 .
+- Используйте [эту ссылку](https://osu.ppy.sh/community/forums/topics/176495) для поиска пошаговой инструкции для установки osu! на джейлбрейкнутый iPhone с версией iOS 7.0.4 .
 
 #### osu!stream
 
@@ -235,13 +235,13 @@ FAQ и Решение проблем
 -   Будете ли вы поддерживать сториборд/видео?
     -   Нет.
 -   Сделаете ли вы <название возможности>?
-    -   Создайте вашу заявку в [теме запросов на добавление новых возможностей](https://osu.ppy.sh/forum/t/62313).
+    -   Создайте вашу заявку в [теме запросов на добавление новых возможностей](https://osu.ppy.sh/community/forums/topics/62313).
 
 ### T-Aiko
 
 -   Я не могу играть на своем Android телефоне!
     -   Вы используете смартфон Motorola? Кажеться, есть баг с Android прошивкой Motorola, что приводит к крашу игры при нажатии кнопки играть, без возможности отправить сообщение об ошибке. Единственная рекомендация что можно сделать - установить Google ROM.
-    -   Если вы нашли (баг/проблему), пожалуйста, напишите [в этом посте на форуме](https://osu.ppy.sh/forum/t/58640), сообщив какой телефон вы используете и ваши пошаговые действия, что призводят к проблеме.
+    -   Если вы нашли (баг/проблему), пожалуйста, напишите [в этом посте на форуме](https://osu.ppy.sh/community/forums/topics/58640), сообщив какой телефон вы используете и ваши пошаговые действия, что призводят к проблеме.
 
 Использованные ссылки
 ---------------------
@@ -249,13 +249,13 @@ FAQ и Решение проблем
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 -   peppy's download page [2](https://osu.ppy.sh/p/download)
 -   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
--   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/forum/t/14664/)
+-   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/community/forums/topics/14664/)
     -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu! wiki version)
 -   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)
-    -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/forum/t/62315)
+-   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
+    -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/community/forums/topics/62315)
     -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/forum/t/58640)
+-   Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/community/forums/topics/58640)
     -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 -   peppy's osu!stream official page [11](http://osustream.com/)
     -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

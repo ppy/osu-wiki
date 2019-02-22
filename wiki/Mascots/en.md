@@ -46,7 +46,7 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
-Ryuuta was also featured in [LuigiHann](/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Ryuuta was also featured in [LuigiHann](/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Agent J
 
@@ -56,7 +56,7 @@ Ryuuta was also featured in [LuigiHann](/users/1079)'s skin, [Elite Beat osu! HD
 
 Agent J, also known as BA-2 (Beat Agent-2) or J, was one of the osu! mascots in 2008 but had retired in 2014. He was created by iNiS Corporation and was once part of the old website.
 
-Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 

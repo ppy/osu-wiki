@@ -27,7 +27,7 @@ The Extra-difficulty by Irreversible and Asphyxia along with the iconic Gangsta-
 
 + [Apink - Mr. Chu](https://osu.ppy.sh/beatmapsets/359369) by [P A N](https://osu.ppy.sh/users/1285234)
 
-Wow. I can hardly remember when I have last seen a mapset that boasts such an awesome consistency. P A N manages it to find nice patterns in every situation and gives each difficulty a great readability by reusing patterns and only having slight variations in the actual patterning while keeping the map interesting through varying hitsounds between the parts of the song giving accents on the important spots. Another selling point is the storyboard that manages to fit in without any disturbance along with the Apink-Skin as a part of the [Apink Beatmap Project](https://osu.ppy.sh/forum/t/391354).
+Wow. I can hardly remember when I have last seen a mapset that boasts such an awesome consistency. P A N manages it to find nice patterns in every situation and gives each difficulty a great readability by reusing patterns and only having slight variations in the actual patterning while keeping the map interesting through varying hitsounds between the parts of the song giving accents on the important spots. Another selling point is the storyboard that manages to fit in without any disturbance along with the Apink-Skin as a part of the [Apink Beatmap Project](https://osu.ppy.sh/community/forums/topics/391354).
 
 + [My Chemical Romance - Helena](https://osu.ppy.sh/beatmapsets/320194) by [pishifat](https://osu.ppy.sh/users/3178418)
 

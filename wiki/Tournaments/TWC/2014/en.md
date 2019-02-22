@@ -56,7 +56,7 @@ Organization
 Links
 --------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/179127)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 -   [osu! Taiko World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
 -   [Group Stage Statistics](https://tournaments.hiroto.eu/)
 

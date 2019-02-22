@@ -148,7 +148,7 @@ Regelsätze
 ### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 

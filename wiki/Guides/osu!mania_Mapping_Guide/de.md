@@ -390,7 +390,7 @@ Auch andere gute Keysound Maps sind:
 
 Sie sind nicht alle Full Keysounded aber sie besitzen welche!
 
-Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](https://osu.ppy.sh/forum/t/139139) an! **(Englisch)**
+Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](https://osu.ppy.sh/community/forums/topics/139139) an! **(Englisch)**
 
 Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkeiten offen Hitsounds und Keysounds zu verwenden!
 
@@ -420,6 +420,6 @@ In der Gravity und der Infinite Diff sehen wir vereinzelnd stellen die "Ruckeln"
 
 Sobald wir bei einem SV Punkt angekommen sind der schneller ist als das Normale wird das Scrollspeed schneller. Wenn wir jedoch kurz darauf direkt wieder das Scrollspeed Normalisieren sieht man nur ganz kurz wie das Speed schneller wird. Wenn man das öfter hintereinander in kurzer Zeit macht bekommt man den Optischen Effekt die noten würden ein wenig "Ruckeln".
 
-Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr gut dafür ist diese [Guide](https://osu.ppy.sh/forum/t/155780). **(Englisch)**
+Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr gut dafür ist diese [Guide](https://osu.ppy.sh/community/forums/topics/155780). **(Englisch)**
 
 Probiert einfach mal ein wenig rum. Man kann damit wirklich sehr lustige Maps erstellen.

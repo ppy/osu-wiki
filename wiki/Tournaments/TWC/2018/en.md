@@ -333,7 +333,7 @@ The osu!taiko World Cup 2018 is run by various community members by distributing
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
    - The competition will feature a 2v2 format with 3 substitues allowed for each team.
 
-2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/forum/t/550582) for more information!
+2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/community/forums/topics/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
    - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.

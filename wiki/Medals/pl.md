@@ -123,4 +123,4 @@ Podpowiedź znajduje się w tytule medalu.
 ------
 
 - [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
-- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/forum/t/80448).
+- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).

@@ -102,7 +102,7 @@ Il y aura donc une différence au niveau de la vitesse de défilement lorsque vo
 _Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM`_
 
 La vitesse de défilement **Fixée** est le nouveau système qui force une vitesse de défilement constante quel que soit le BPM.
-[Une introduction très simple de Blazier le 29 Octobre 2014 (2014-10-29) à propos de la vitesse de défilement fixée](https://osu.ppy.sh/forum/t/254145).
+[Une introduction très simple de Blazier le 29 Octobre 2014 (2014-10-29) à propos de la vitesse de défilement fixée](https://osu.ppy.sh/community/forums/topics/254145).
 
 Sachez que ces deux systèmes seront quand même affectés par les changements de BPM, avec des changements allant de drastiques (souvent pour une mise à l'échelle plus haute avec un haut BPM et des note rapides; très bas BPM pour des notes condensées) à mineurs (souvent une mise à l'échelle fixée sur la plupart des spectrums de BPM) dépendamment du Speed Change utilisé.
 

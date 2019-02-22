@@ -42,10 +42,10 @@ Lastly, player's profile picture has been added beside the grade mark of their p
 
 Links:
 
-- [osu! Public Release (b20130319)](https://osu.ppy.sh/forum/t/123276)
-- [osu! Public Release (b20130325)](https://osu.ppy.sh/forum/t/124366)
-- [osu! Public Release (b20130328)](https://osu.ppy.sh/forum/t/124848)
-- [2013 Staff Restructuring](https://osu.ppy.sh/forum/t/123510)
+- [osu! Public Release (b20130319)](https://osu.ppy.sh/community/forums/topics/123276)
+- [osu! Public Release (b20130325)](https://osu.ppy.sh/community/forums/topics/124366)
+- [osu! Public Release (b20130328)](https://osu.ppy.sh/community/forums/topics/124848)
+- [2013 Staff Restructuring](https://osu.ppy.sh/community/forums/topics/123510)
 
 ## April
 

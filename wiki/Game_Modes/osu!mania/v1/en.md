@@ -101,7 +101,7 @@ There will be a difference in scroll speed when playing a 100BPM (scrolls slower
 _Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`_
 
 **Fixed** scroll speed is the new system that enforce a constant scroll speed along with the current BPM speed.
-[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/forum/t/254145).
+[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/community/forums/topics/254145).
 
 Do note that both scaling system will still be affected by speed up/down by BPM changes, with the changes ranging from drastic (usually for BPM scaling to higher BPM with speedy notes; very low BPM for fixed scaling with condensed notes) to minor (usually fixed scaling on most BPM spectrum) depending on Speed Change settings used.
 

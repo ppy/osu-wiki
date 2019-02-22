@@ -34,7 +34,7 @@ PC **환경에서의 설치 가이드**
   - 할당량 문제로 인하여 다운로드가 되지 않을경우 [Beatmap Pack](https://osu.ppy.sh/p/packlist)을 다운받아 한번에 여러맵을 다운받아주시길 바랍니다.
   - 또, 위에서 말한 할당량 문제로 인하여 [Beatmap 다운로드](https://osu.ppy.sh/p/beatmaplist)에서 파일이 다운로드 되지 않을 경우, [OSU! Beatmap 미러 1](http://bloodcat.com/osu)이나 [OSU! Beatmap 미러 2](http://osu.uu.gl/)에 접속하셔서 다운받아주시길 바랍니다.
 - 만약, 설치와 다운로드를 했는데 Beatmap리스트에 없는 경우 F5키를 눌러 새로고침해 주시길 바랍니다.
-- Beatmap을 받을 때 사이트가 늦는경우 [토렌트 링크](https://osu.ppy.sh/forum/t/147478)에서 토렌트 파일로 받아주시길 바랍니다.
+- Beatmap을 받을 때 사이트가 늦는경우 [토렌트 링크](https://osu.ppy.sh/community/forums/topics/147478)에서 토렌트 파일로 받아주시길 바랍니다.
 
 ### OS X (Beta버전)
 
@@ -61,7 +61,7 @@ PC **환경에서의 설치 가이드**
 - 당신은 명령과 옵션을 누른 상태에서 폴더를 드래그하여 바탕화면에 바로가기를 만들 수 있습니다. 이렇게 하면 새로운 Beatmap을 로드 할 수 있도록 할것입니다.
 
 ### Linux (Wine을 사용)
->This tutorial may not be up to date! Check out [the last pages of this thread](https://osu.ppy.sh/forum/t/14614) in the forums
+>This tutorial may not be up to date! Check out [the last pages of this thread](https://osu.ppy.sh/community/forums/topics/14614) in the forums
 to find a way provided by the community to install the newest versions of osu!.
 
 #### How to install
@@ -105,7 +105,7 @@ Please keep in mind that each time you will want to launch/install osu! or confi
 ### osu!droid (비공식)
 
 ####OSU! 설치하는 방법 (폰으로 직접 이용하는 방법)
->[원본 포스트](https://osu.ppy.sh/forum/t/62680)
+>[원본 포스트](https://osu.ppy.sh/community/forums/topics/62680)
 
 - 당신은 3가지 방법 중 1가지를 선택 할 수 있습니다
   - [구글플레이스토어](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)에서 OSU! Droid를 찾는방법 (이 방법을 추천합니다!)
@@ -143,7 +143,7 @@ Please keep in mind that each time you will want to launch/install osu! or confi
 ### T-Aiko [Taiko]  (unofficial, created by Guy-kun)
 
 #### How to install (Phone way)
-> [Original Post](https://osu.ppy.sh/forum/t/58640)
+> [Original Post](https://osu.ppy.sh/community/forums/topics/58640)
 
 - Go to [Google Play page for T-Aiko](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 - Allow the file to install.
@@ -172,7 +172,7 @@ iOS devices
 ### osu! iPhone (unofficial, created by nuudles)
 
 #### How to install
-- Follow [this link](https://osu.ppy.sh/forum/t/176495) to find a step-by-step tutorial on how to install osu! iPhone on a jailbroken iOS 7.0.4 device.
+- Follow [this link](https://osu.ppy.sh/community/forums/topics/176495) to find a step-by-step tutorial on how to install osu! iPhone on a jailbroken iOS 7.0.4 device.
 
 ### osu!stream
 
@@ -232,13 +232,13 @@ FAQ and troubleshooting
 -   Will you support storyboard/video?
     -   No.
 -   Will you make a <feature name>?
-    -   Make your request in the [feature requests thread](https://osu.ppy.sh/forum/t/62313).
+    -   Make your request in the [feature requests thread](https://osu.ppy.sh/community/forums/topics/62313).
 
 ### T-Aiko
 
 -   I can't play on my Android phone!
     -   Do you happen to be using a Motorola smartphone? There seems to be a bug in Motorola Android firmware that causes the game to crash when pressing play without even letting you send an error report. The only recommendation to-do is to install a (Stock) Google ROM.
-    -   If you discover any (bugs/problems), please post at [this forum post](https://osu.ppy.sh/forum/t/58640) complete with what smartphone you are using and the steps to reproduce the problem.
+    -   If you discover any (bugs/problems), please post at [this forum post](https://osu.ppy.sh/community/forums/topics/58640) complete with what smartphone you are using and the steps to reproduce the problem.
 
 External links
 --------------
@@ -246,13 +246,13 @@ External links
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 -   peppy's download page [2](https://osu.ppy.sh/p/download)
 -   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
--   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/forum/t/14664/)
+-   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/community/forums/topics/14664/)
     -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu! wiki version)
 -   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)
-    -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/forum/t/62315)
+-   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
+    -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/community/forums/topics/62315)
     -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/forum/t/58640)
+-   Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/community/forums/topics/58640)
     -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 -   peppy's osu!stream official page [11](http://osustream.com/)
     -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

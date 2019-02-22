@@ -10,7 +10,7 @@ Here we are again with this year's official osu!catch World Cup. As in every yea
 ![](https://puu.sh/vEfBQ/a6880caeae.png)
 
 For more details, refer to the **[osu!catch World Cup 2017 wiki article](https://osu.ppy.sh/wiki/Tournaments/CWC/2017)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/589552)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/589552)**.
 
 ## Tournament Schedule
 

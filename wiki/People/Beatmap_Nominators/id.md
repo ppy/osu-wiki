@@ -65,7 +65,7 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 Quality Assurance Helper
 -------------------------
 
-Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/forum/t/447428).
+Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428).
 
 Quality Assurance Helper bebas memilih beatmap yang ingin diperiksa, setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan mereka hanya bisa kembali masuk setelah melewati masa cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja.
 

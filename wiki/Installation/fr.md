@@ -40,7 +40,7 @@ Guide d'installation
 
 Il y a aussi d'autres méthodes permettant de télécharger des beatmaps :
 - Les sites miroirs, généreusement offerts et entretenus par la communauté. Le plus populaire est [yas-online](http://osu.yas-online.net/), mais il en existe d'autres.
-- Il existe aussi [des torrents](https://osu.ppy.sh/forum/t/147478) contenant des packs de beatmaps, vous permettant de télécharger de nombreux packs à la fois.
+- Il existe aussi [des torrents](https://osu.ppy.sh/community/forums/topics/147478) contenant des packs de beatmaps, vous permettant de télécharger de nombreux packs à la fois.
 
 ### OS X
 
@@ -55,7 +55,7 @@ Il y a aussi d'autres méthodes permettant de télécharger des beatmaps :
 - Naviguez vers le dossier Songs ("Contents/Resources/winePrefix/drive_c/osu/Songs")
 - Déplacez vos beatmaps (.osz) à l'intérieur.
 - Lancez osu! ou appuyez sur F5 en jeu.
-**[Support et informations complémentaires](https://osu.ppy.sh/forum/t/56460)** (en anglais)
+**[Support et informations complémentaires](https://osu.ppy.sh/community/forums/topics/56460)** (en anglais)
 
 ### osu!stream
 
@@ -76,14 +76,14 @@ Il s'agit d'un autre jeu développé par peppy, très similaire mais qui dispose
 ### Autres plateformes (non officiel)
 
 #### Linux/Ubuntu
-- Pour installer osu! sur Linux/Ubuntu (en utilisant Wine), [cliquez ici](https://osu.ppy.sh/forum/t/14614) ou lisez la [version anglaise](/wiki/Installation) de cette page.
+- Pour installer osu! sur Linux/Ubuntu (en utilisant Wine), [cliquez ici](https://osu.ppy.sh/community/forums/topics/14614) ou lisez la [version anglaise](/wiki/Installation) de cette page.
 
 #### Android (osu!droid)
 - Rendez vous sur [cette page](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) du Google Play Store.
 - Installez le package.
-Plus d'informations dans [cette section](https://osu.ppy.sh/forum/t/62680) (en anglais).
+Plus d'informations dans [cette section](https://osu.ppy.sh/community/forums/topics/62680) (en anglais).
 
-#### iPhone (version non officielle) Plus d'informations sur [cette page](https://osu.ppy.sh/forum/t/176495) (en anglais)
+#### iPhone (version non officielle) Plus d'informations sur [cette page](https://osu.ppy.sh/community/forums/topics/176495) (en anglais)
 
 
 Questions et problèmes fréquents

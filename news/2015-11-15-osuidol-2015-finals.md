@@ -10,7 +10,7 @@ The osu!idol finals are upon us and it is up to you the community to choose our 
 
 ## Where can I vote?
 
-To vote for your favorite contestent be sure to submit your votes [to the voting form,](http://goo.gl/forms/I5Xu8byFzF) and remember the contest thread can be found [here.](https://osu.ppy.sh/forum/t/352608) Votes will be accepted till November 30th 23:59:59 UTC, be sure to vote and good luck to all the contestants!
+To vote for your favorite contestent be sure to submit your votes [to the voting form,](http://goo.gl/forms/I5Xu8byFzF) and remember the contest thread can be found [here.](https://osu.ppy.sh/community/forums/topics/352608) Votes will be accepted till November 30th 23:59:59 UTC, be sure to vote and good luck to all the contestants!
 
 
 ## Prize Recap

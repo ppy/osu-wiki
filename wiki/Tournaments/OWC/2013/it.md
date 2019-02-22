@@ -48,7 +48,7 @@ Mappools
 Links
 ---------
 
--   [Discuti qui](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 

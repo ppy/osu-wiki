@@ -83,7 +83,7 @@ osu! Taiko World Cup 2015
 リンク
 -----------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------

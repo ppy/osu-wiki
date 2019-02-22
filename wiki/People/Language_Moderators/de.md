@@ -7,7 +7,7 @@ Die meisten Channel, die in osu! aufgelistet werden, besitzen ihre eigenen Moder
 | Channel | Unterforum | Chat Operatoren |
 | :-- | :-- | :-- |
 | `#arabic` | | |
-| `#balkan` | [Balkan](https://osu.ppy.sh/forum/t/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
+| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
 | `#bulgarian` | | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) |
 | `#cantonese` | | |
 | `#chinese` | [中文](https://osu.ppy.sh/forum/25) | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974), ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) |

@@ -218,4 +218,4 @@ La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema ant
 
 - Hilo original del foro: [Guía de discusión de Modding (MV2)](/community/forums/topics/650961) por [Lanturn](/users/1446665)
 - Video de [pishifat](/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/forum/t/662559)
+- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/community/forums/topics/662559)

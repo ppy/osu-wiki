@@ -55,6 +55,6 @@ _Remember that any registrations past the deadline will not be considered under 
 ## Links
 
 + [Wiki article](https://osu.ppy.sh/wiki/OWC_2015)
-+ [Discussion thread](https://osu.ppy.sh/forum/t/371786)
++ [Discussion thread](https://osu.ppy.sh/community/forums/topics/371786)
 
 —Loctav

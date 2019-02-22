@@ -44,7 +44,7 @@ Organisation
 Links
 ------
 
--   [Diskussionsthread](https://osu.ppy.sh/forum/t/279723)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------

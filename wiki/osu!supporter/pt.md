@@ -17,7 +17,7 @@ Vantagens de ser osu!supporter
 -   Acesso ao multiplayer quando usar a versão de testes do osu!.
 -   [Console de Chat](PT:Chat_Console "wikilink"): Nome em <span style="color:#FFC700">Amarelo</span> (para outros, você se vê com nome branco, como de costume).
 -   [Lista de Beatmaps](https://osu.ppy.sh/p/beatmaplist) (?): Filtra buscas de beatmaps por jogado e não jogado.
--   [ Edição da Skin](PT:Skinning "wikilink"): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](https://osu.ppy.sh/forum/t/96949), osu!direct ou multi.
+-   [ Edição da Skin](PT:Skinning "wikilink"): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](https://osu.ppy.sh/community/forums/topics/96949), osu!direct ou multi.
     -   Especificamente, `menu-background.jpg` (Menu Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triângulos); `welcome.wav` (Som de Boas Vindas); `seeya.wav` (Som de Saída)
 
 <!-- -->

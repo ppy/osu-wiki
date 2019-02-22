@@ -16,13 +16,13 @@ We have our champions for the osu!catch World Cup of 2016! Peppy has posted a mu
 
 **Our poll from June is now over with, for the first time, rather evenly distributed results!** What was most interesting for me in this poll actually happened in the thread. I had overlooked less explored genres (more than one of which I am a big fan of), which a lot of people who play osu! Seem to enjoy. Unfortunately, it means that this poll wasn't as all-inclusive as it could have been, but hopefully in the future we can expand upon player profiles to accommodate everyone more naturally!
 
-**Ztrot has made [a thread](https://osu.ppy.sh/forum/t/470212) in the forums to help answer any questions you may have about the current ranking process and the BNG.** If you are still unsure about the direction the BNG is taking as well as what the future looks like for beatmap ranking, the thread may already have some answers for you! That said, do try to read what has already been asked to avoid asking the same thing, it makes keeping the thread relevant easier!
+**Ztrot has made [a thread](https://osu.ppy.sh/community/forums/topics/470212) in the forums to help answer any questions you may have about the current ranking process and the BNG.** If you are still unsure about the direction the BNG is taking as well as what the future looks like for beatmap ranking, the thread may already have some answers for you! That said, do try to read what has already been asked to avoid asking the same thing, it makes keeping the thread relevant easier!
 
 **There is just way too many tournaments for us to talk about how exciting each one of them are!** While this may be the case, the osu!weekly is here to try to keep you in the know with some of the bigger upcoming and currently on-going competitions. Let's take a look at what's been brought to my attention this week!
 
-+ The [osu! Histy Championships (OHC)](https://osu.ppy.sh/forum/t/466836/start=0) is an international 4v4 osu!standard tournament that allows players to form their own teams with no rank limits. It's currently still in it's registration phase, so head on over if you're interested!
++ The [osu! Histy Championships (OHC)](https://osu.ppy.sh/community/forums/topics/466836/start=0) is an international 4v4 osu!standard tournament that allows players to form their own teams with no rank limits. It's currently still in it's registration phase, so head on over if you're interested!
 
-+ The [Second Circle Championships](https://osu.ppy.sh/forum/t/441098) is a third party sponsored 2v2 tournament that has some pretty big players participating.
++ The [Second Circle Championships](https://osu.ppy.sh/community/forums/topics/441098) is a third party sponsored 2v2 tournament that has some pretty big players participating.
 
 + The OCWT concluded this passing weekend with the (definitely not overpowered) team SPD taking the top prize. There's a vod up for the [grand finals](https://www.twitch.tv/ocwt/v/74634469) over on the ocwt twitch channel, so you can go see it if you missed it!
 

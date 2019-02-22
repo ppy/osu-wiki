@@ -42,7 +42,7 @@ Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Conteint
 
 ### Replays
 
-Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/forum/t/108092).
+Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
 
 Le format est `{Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`
 **Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania

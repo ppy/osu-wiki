@@ -289,7 +289,7 @@ Lista de Beatmaps
 Links
 ---------
 
--   [Tópico de Discussão](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Tópico de Discussão](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 

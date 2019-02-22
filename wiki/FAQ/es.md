@@ -310,7 +310,7 @@ No, porque a diferencia del video, estos son integrados en el juego (como parte 
 ¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
 -------------------------------------------------------------------------------------
 
-Pokebis ha compilado un conjunto de beatmaps adecuados para principiantes. Puedes encontrarlos aquí: <https://osu.ppy.sh/forum/t/5456>
+Pokebis ha compilado un conjunto de beatmaps adecuados para principiantes. Puedes encontrarlos aquí: <https://osu.ppy.sh/community/forums/topics/5456>
 
 Además, [la versión rankeada del beatmap del tutorial de osu!](https://osu.ppy.sh/beatmapsets/19928)\] es buena para practicar algunos de los posibles diseños de mapping que encontrarás. Es un excelente beatmap de entrenamiento para jugadores principiantes y experimentados.
 
@@ -345,6 +345,6 @@ Créditos
 
 -   FAQ viejo de peppy
 -   Peter Lambert - osu! tutorial ([Tutorial original](https://osu.ppy.sh/beatmapsets/3756), [Versión rankeada](https://osu.ppy.sh/beatmapsets/19928))
--   Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/forum/t/5456)
+-   Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)

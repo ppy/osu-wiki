@@ -116,7 +116,7 @@ Naciśnij to aby przejść do „opcji” związanych z kontem.
 <tr class="odd">
 <td><p>Wybierz język</p></td>
 <td><p>Wybierz język jaki chcesz. osu! pobierze plik .txt z tłumaczeniem i zmieni język gry na pobrany. Domyślnie jest to angielski.<br />
-Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/forum/t/104342/" class="uri">https://osu.ppy.sh/forum/t/104342/</a> (stary link)</p></td>
+Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/community/forums/topics/104342/" class="uri">https://osu.ppy.sh/community/forums/topics/104342/</a> (stary link)</p></td>
 </tr>
 <tr class="even">
 <td><p>Stosuj oryginalne nazewnictwo</p></td>
@@ -196,7 +196,7 @@ Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/forum/t/104342/" class=
 <hr>
 <p>Bez limitu (podczas gry)</p>
 <hr>
-<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="https://osu.ppy.sh/forum/t/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
+<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="https://osu.ppy.sh/community/forums/topics/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
 </tr>
 <tr class="even">
 <td><p>Pokaż licznik klatek</p></td>
@@ -623,7 +623,7 @@ Zasięg paska: 0.40x - 6.00x. Domyślnie jest to 1.00x.</p></td>
 </tr>
 <tr class="even">
 <td><p>Użyj odczytu bezpośredniego (Częstotliwość: #/sec Opóźnienie: #ms)</p></td>
-<td><p><strong>Sygnał bezpośredni ominie przyśpieszanie systemu i zapewni najbardziej precyzyjne ruchy kursora.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/forum/t/187785">Dowiedz się więcej.</a></span> <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">Jeżeli chcesz się czegoś dowiedzieć o szybkości odpytywania, stosuj się do tej strony</a></span></p></td>
+<td><p><strong>Sygnał bezpośredni ominie przyśpieszanie systemu i zapewni najbardziej precyzyjne ruchy kursora.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Dowiedz się więcej.</a></span> <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">Jeżeli chcesz się czegoś dowiedzieć o szybkości odpytywania, stosuj się do tej strony</a></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Mapuj powierzchnię roboczą tabletu do okna osu!</p></td>
@@ -1120,7 +1120,7 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 2.  Obecnie słuchana beatmapa zostanie odtworzona, aby wyświetlić elementy skórki. Sztuczna inteligencja grająca beatmapę jest tak stworzona aby wyświetlać wiele elementów w krótkim czasie.
 3.  Naciśnięcie "Export as .osk" wyeksportuje obecną skórkę jako plik .osk i umieści ją w folderze "Exports".
 4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/forum/109), gdzie będzie można pobrać więcej skórek.
-    1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/forum/t/23820), [zaktualizowana](https://osu.ppy.sh/forum/t/180864) [wersja](https://osu.ppy.sh/forum/t/136163).
+    1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/community/forums/topics/23820), [zaktualizowana](https://osu.ppy.sh/community/forums/topics/180864) [wersja](https://osu.ppy.sh/community/forums/topics/136163).
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
 6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.

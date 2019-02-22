@@ -26,7 +26,7 @@ Once again a [full one year supporter tag](https://osu.ppy.sh/p/support) is up f
 
 ## How to Enter
 
-*   Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/forum/t/247101)
+*   Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/247101)
 *   Link to a much larger print-friendly image (at least 1200x1200, preferably higher, or vector, if possible) for possible printing.
 *   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
 *   You may enter more than one image, but you can only win one grand prize. If you have more than one entries, please keep them all in a **single forum post**.

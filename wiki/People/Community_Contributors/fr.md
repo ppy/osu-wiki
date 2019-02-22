@@ -16,11 +16,11 @@ Les joueurs possédant ce grade sont notés ici :
 
 | Utilisateur | Reconnu pour |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance du service [osu!record](https://osu.ppy.sh/forum/t/108092) (conversion de replays .osr en vidéos Youtube). |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance du service [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (conversion de replays .osr en vidéos Youtube). |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hébergement du [miroir](http://osu.yas-online.net/) de téléchargement de beatmaps depuis des années. |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Nombreuses contributions sur le plan du design à tous les niveaux. |
 | [Ballance](https://osu.ppy.sh/users/165946) | Design des icônes des [achievements](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Développement et maintenance de [AIBat](https://osu.ppy.sh/forum/t/55305),  l'outil de modding le plus utilisé par la communauté. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Développement et maintenance de [AIBat](https://osu.ppy.sh/community/forums/topics/55305),  l'outil de modding le plus utilisé par la communauté. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Performance extraordinaire dans le test de nouvelles fonctionnalités et la correction de bugs. Développement d'outils variés pour les modders et mappers. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisation des plus grands tournois d'osu! (dont l'OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Performance extraordinaire dans la modération du chat (travail équivalent à 6 membres du staff). |

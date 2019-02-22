@@ -42,7 +42,7 @@ osu! Taiko World Cup 2014
 相关鏈接
 ----------
 
--   [讨论串](https://osu.ppy.sh/forum/t/179127)
+-   [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
 -   [直播 (Twitch)](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------

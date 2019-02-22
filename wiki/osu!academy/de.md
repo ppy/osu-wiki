@@ -8,7 +8,7 @@ Einführung
 
 Quelle: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Offizielles Youtube Kanal: <https://www.youtube.com/user/osuacademy/videos>
-- Offizielles Thread: <https://osu.ppy.sh/forum/t/169707>
+- Offizielles Thread: <https://osu.ppy.sh/community/forums/topics/169707>
 
 **osu! academy** zielt darauf, allen möglichen Aspekten in osu! einen umfassenden Einblick zu geben - vom Spielen bis zum Mappen und alles was dazwischen ist.
 Wir hoffen dadurch, dass die neuen Spieler diese Videos informativ finden und ihnen mit Leichtigkeit dabei hilft eine steile Lehrkurve für das Spiel beizubehalten. Wenn sie Fragen oder Anmerkungen haben, leiten sie sie bitte an <a href="//osu.ppy.sh/users/6347">ztrot</a>; er ist der primäre und fast alleinige Besitzer der osu! academy und daher sein Kanal.

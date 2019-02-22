@@ -1,7 +1,7 @@
 # 2010
 
 - [Results (table text file)](https://puu.sh/Fju)
-  - [Forum](https://osu.ppy.sh/forum/t/43834)
+  - [Forum](https://osu.ppy.sh/community/forums/topics/43834)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2010)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)

@@ -14,8 +14,8 @@
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium by deadbeat"
-[Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
+[Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium by deadbeat"
+[Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
 [osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"

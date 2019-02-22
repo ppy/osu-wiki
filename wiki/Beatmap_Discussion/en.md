@@ -218,4 +218,4 @@ Beatmap Discussion is now live. There is no way to return to the older system; h
 
 - Original forum thread: [Modding Discussion Guide (MV2)](/community/forums/topics/650961) by [Lanturn](/users/1446665)
 - [pishifat](/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/forum/t/662559)
+- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/community/forums/topics/662559)

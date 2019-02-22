@@ -18,11 +18,11 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](https://osu.ppy.sh/forum/t/108092) (tekrar `.osr`'sinden video dosyasına) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](https://osu.ppy.sh/community/forums/topics/108092) (tekrar `.osr`'sinden video dosyasına) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | osu!'nun çalışan en büyük alternatif beatmap arşivinin sahibi ve bakıcısı. [Alternatif beatmap arşivi](https://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Oyun istemcisi ve geri kalan her şeye (saymakla bitmez) grafik katısı. |
 | [Ballance](https://osu.ppy.sh/users/165946) | [Başarım](/wiki/Achievements) simgeleri. |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Topluluk tarafından oluşuturmuş en popüler üçüncü-parti beatmap modlama yazılımı olan [AIBat](https://osu.ppy.sh/forum/t/55305)'ın geliştiricisi. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Topluluk tarafından oluşuturmuş en popüler üçüncü-parti beatmap modlama yazılımı olan [AIBat](https://osu.ppy.sh/community/forums/topics/55305)'ın geliştiricisi. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Bug-fix/özellik testinde üstün performans ve mapperlar ve modderlar için pek çok yararlı uygulama kodlama |
 | [Loctav](https://osu.ppy.sh/users/71366) | (OWC dahil olmak üzere) birkaç büyük turnuvayı organize etti. |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Çılgın moderasyon geçmişi (aşağı yukarı 6 takım üyesine eşdeğer) ve #osu'yu tek başına tepe saatlerde (+9k'dan fazla kullanıcı) kontrol altında tutma başarısı. |

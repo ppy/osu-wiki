@@ -115,7 +115,7 @@ osu! Catch the Beat World Cup 2015
 外部链接
 ----------
 
--   [讨论帖](https://osu.ppy.sh/forum/t/316279)
+-   [讨论帖](https://osu.ppy.sh/community/forums/topics/316279)
 -   **[小组赛统计](https://owc.nicarim.pw/results/view/5)**
 -   [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
 -   [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive/)

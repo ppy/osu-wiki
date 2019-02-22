@@ -49,7 +49,7 @@ We'll be looking to hold these contests (and many others) more frequently in the
 
 [View all the entries here.](https://osu.ppy.sh/p/contestresults?c=22)
 
-[Discuss your favourites on the official forums!](https://osu.ppy.sh/forum/t/481291)
+[Discuss your favourites on the official forums!](https://osu.ppy.sh/community/forums/topics/481291)
 
 See you next time!
 

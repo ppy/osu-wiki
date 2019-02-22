@@ -33,7 +33,7 @@ Los beatmaps Loved, literalmente _amados_, vienen indicados con el icono: (![Hea
 
 - Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
 
-El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/forum/t/549835) (en inglés). Para que un mapa alcance el estatus de Loved.
+El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/community/forums/topics/549835) (en inglés). Para que un mapa alcance el estatus de Loved.
 
 ### Pendiente
 

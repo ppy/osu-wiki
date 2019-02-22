@@ -92,6 +92,6 @@ The [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) was made 
 
 ## December
 
-Songs could be edited by dragging them into the osu! window. Tooltips were added; explaining all the various buttons in the osu! menus and editor interface. Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](https://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](https://osu.ppy.sh/forum/t/761/start=0)). New sorting methods were added to the song selection screen. peppy could now send universal announcements to all osu! players. Minor tweaks were made to gameplay, such as non-active circle dimming.
+Songs could be edited by dragging them into the osu! window. Tooltips were added; explaining all the various buttons in the osu! menus and editor interface. Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139/start=0), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761/start=0)). New sorting methods were added to the song selection screen. peppy could now send universal announcements to all osu! players. Minor tweaks were made to gameplay, such as non-active circle dimming.
 
 ![](img/2007-12_01.jpg)

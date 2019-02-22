@@ -171,7 +171,7 @@ Compose
 功能（osu!mania）
 ------------------
 
-（左上角的物件时间轴没有用处。请忽略。）简易教学：[基础](https://osu.ppy.sh/forum/t/118868)、[作图 & 按键音效](https://osu.ppy.sh/forum/t/139139)
+（左上角的物件时间轴没有用处。请忽略。）简易教学：[基础](https://osu.ppy.sh/community/forums/topics/118868)、[作图 & 按键音效](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### 右上（Beat Snap Divisor）
 

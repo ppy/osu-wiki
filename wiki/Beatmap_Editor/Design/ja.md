@@ -164,4 +164,4 @@
 -------
 
 -   [m980's basic explanation](https://osu.ppy.sh/community/forums/posts/67660)
--   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/forum/t/46111)
+-   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/community/forums/topics/46111)

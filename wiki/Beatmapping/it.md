@@ -50,7 +50,7 @@ How do I time a song properly?
 
 Here are some tips for getting your timing right:-
 
--   Watch the [video](https://osu.ppy.sh/forum/t/39317) [tutorials](https://osu.ppy.sh/forum/t/3815/) for basic timing methods.
+-   Watch the [video](https://osu.ppy.sh/community/forums/topics/39317) [tutorials](https://osu.ppy.sh/community/forums/topics/3815/) for basic timing methods.
 -   Make sure the ticks of the metronome coincide with the beat of the song for the entire length of the song. So check the timing at 5%, 25%, 50%, 75% and 100% of the song, at the very least.
 -   Take a look at the BPM gauge. If the number is very close to a whole number (until .10 difference), it is probably better (unless requested not) to round down to that whole number. If so, manually enter in the correct BPM using the Timing Setup Panel.
     -   Example: 150.02 should be rounded down to 150.00 unless requested by another mapper that it doesn't sound correct with reason.
@@ -62,7 +62,7 @@ What information do I enter in Song Setup?
 
 You should enter this information before you create a second difficulty, to ensure that the description will be consistent across all of the maps in the set. You are currently **allowed to use Unicode characters.**
 
-[Guide on finding Metadata](https://osu.ppy.sh/forum/t/249288).
+[Guide on finding Metadata](https://osu.ppy.sh/community/forums/topics/249288).
 
 <table>
 <thead>
@@ -251,7 +251,7 @@ How do I add custom images and sounds to my beatmap?
         -   Example: normal-hitnormal (This sound file will be played instead of player skin's sound file)
 -   Drop it into your song's folder.
 
-[A list of appropriate custom sound filenames can be found here.](https://osu.ppy.sh/forum/t/729/start=0)
+[A list of appropriate custom sound filenames can be found here.](https://osu.ppy.sh/community/forums/topics/729/start=0)
 
 How do I create a storyboard to my beatmap?
 -------------------------------------------

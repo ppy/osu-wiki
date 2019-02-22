@@ -39,7 +39,7 @@ A beatmapek .osz fájlok. Ezek tartalmazzák a zenét és egyéb, a játékhoz s
 Arra figyelj, hogy az bizonyos idő alatt letölthető beatmapek száma korlátozott. Ha túl sokat töltöttél le és a rendszer letiltott, más módokon is letölthetsz beatmapeket, amelyek nem számítanak a kvótába:
 - Tölts le [beatmap csomagokat](https://osu.ppy.sh/p/packlist). Ezek archív fájlok, amelyek egyszerre több beatmapet tartalmaznak. Általában .zip vagy .rar archívumként kapod őket. Tölts le egyet, csomagold ki a kedvenc programoddal (pl. [7-Zip](http://www.7-zip.org/)) és importáld az .osz fájlokat ahogy egyébként is tennéd.
 - Használj egy tükörszervert. A tükörszervereket a közösség ajánlja fel, ezek segítségével az osu! weboldal letöltési kvótája nélkül szerezhetsz be beatmapeket. A legnépszerűbb a [yas-online](http://osu.yas-online.net/), de több is van az interneten.
-- Ha tudsz torrentezni, [itt találsz a közösség egy tagja által biztosított torrent fájlokat](https://osu.ppy.sh/forum/t/147478), amelyekkel több beatmap-csomagot is letölthetsz egyszerre.
+- Ha tudsz torrentezni, [itt találsz a közösség egy tagja által biztosított torrent fájlokat](https://osu.ppy.sh/community/forums/topics/147478), amelyekkel több beatmap-csomagot is letölthetsz egyszerre.
 
 ##### OS X (beta verzió)
 
@@ -66,7 +66,7 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 - A Songs mappához létrehozhatsz egy parancsikont úgy, hogy a command és option nyomva tartása mellett kihúzod a mappát az asztalra. Az új mapek hozzáadása így talán kicsit könnyebb.
 
 ##### Linux (Wine használatával)
->Ez az útmutató lehet, hogy nem friss! Látogass el [ennek a témának az utolsó oldalaira](https://osu.ppy.sh/forum/t/14614) a fórumon, hogy lásd, mit mond a közösség az osu! újabb verzióinak telepítéséről.
+>Ez az útmutató lehet, hogy nem friss! Látogass el [ennek a témának az utolsó oldalaira](https://osu.ppy.sh/community/forums/topics/14614) a fórumon, hogy lásd, mit mond a közösség az osu! újabb verzióinak telepítéséről.
 
 ###### A telepítés menete
 1. A telepítés előtt
@@ -99,7 +99,7 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 #### osu!droid (nem hivatalos, készítette Pesets és neico)
 
 ##### A telepítés menete (telefonnal)
->[Eredeti hozzászólás](https://osu.ppy.sh/forum/t/62680)
+>[Eredeti hozzászólás](https://osu.ppy.sh/community/forums/topics/62680)
 
 - 3 lehetőséged van. Válaszd bármelyiket.
   - Ellátogatás az [osu!droid Google Play oldalára](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Javasolt!)
@@ -140,7 +140,7 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 #### osu! iPhone (nem hivatalos, készítette nuudles)
 
 ##### A telepítés menete
-- Kövesd [ezt a linket](https://osu.ppy.sh/forum/t/176495) egy útmutatóért, amely lépésről-lépésre bemutatja, hogyan kell telepíteni az osu! iPhone-t egy jailbreakelt iOS 7.0.4-es eszközre.
+- Kövesd [ezt a linket](https://osu.ppy.sh/community/forums/topics/176495) egy útmutatóért, amely lépésről-lépésre bemutatja, hogyan kell telepíteni az osu! iPhone-t egy jailbreakelt iOS 7.0.4-es eszközre.
 
 #### osu!stream
 
@@ -200,7 +200,7 @@ GYIK és hibakeresés
 -   Várható Storyboard/videó támogatás?
     -   Nem.
 -   Lesz benne <funkció neve>?
-    -   Funkciókat a [feature requests témában](https://osu.ppy.sh/forum/t/62313) kérhetsz.
+    -   Funkciókat a [feature requests témában](https://osu.ppy.sh/community/forums/topics/62313) kérhetsz.
 
 Külső hivatkozások
 -------------------
@@ -208,13 +208,13 @@ Külső hivatkozások
 -   peppy GYIK [1](https://osu.ppy.sh/p/faq)
 -   peppy letöltések oldala [2](https://osu.ppy.sh/p/download)
 -   peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
--   mattyu007 - Hogyan futtasd az osu!-t a Mac-eden Boot Camp használata nélkül [4](https://osu.ppy.sh/forum/t/14664/)
+-   mattyu007 - Hogyan futtasd az osu!-t a Mac-eden Boot Camp használata nélkül [4](https://osu.ppy.sh/community/forums/topics/14664/)
 -   KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)
+-   doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
     -   Hivatalos weboldal [7](http://osudroid.com/)
-    -   Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/forum/t/62315)
+    -   Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/community/forums/topics/62315)
     -   osu!droid Google Play oldal [9](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun T-Aiko!-ja Android-ra [10](https://osu.ppy.sh/forum/t/58640)
+-   Guy-kun T-Aiko!-ja Android-ra [10](https://osu.ppy.sh/community/forums/topics/58640)
     -   T-Aiko Google Play oldal [11](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 -   peppy osu!stream hivatalos oldala [12](http://osustream.com/)
     -   osu!stream App Store oldala [13](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

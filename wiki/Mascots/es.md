@@ -46,7 +46,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en el 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
 
-Ryuuta también fue presentado en el skin de [LuigiHann](/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Ryuuta también fue presentado en el skin de [LuigiHann](/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Agent J
 
@@ -56,7 +56,7 @@ Ryuuta también fue presentado en el skin de [LuigiHann](/users/1079), [Elite Be
 
 Agent J, también conocido como BA-2 (Beat Agent-2) o J, fue una de las mascotas de osu! en 2008 pero fue retirado en el 2014. Fue creado por iNiS Corporation y una vez fue parte del viejo sitio web.
 
-Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 

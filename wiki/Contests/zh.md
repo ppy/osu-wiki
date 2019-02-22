@@ -92,7 +92,7 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
 - [新闻页面](https://osu.ppy.sh/news/95662228778)
 - [结果页面](https://osu.ppy.sh/news/106902823593)
-- [论坛页面](https://osu.ppy.sh/forum/t/234545)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/234545)
 
 ### 2015
 
@@ -106,7 +106,7 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [新闻页面](https://osu.ppy.sh/news/125447383718)
 - [结果页面](https://osu.ppy.sh/news/134589253878)
-- [论坛页面](https://osu.ppy.sh/forum/t/352608)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/352608)
 
 ### 2016
 
@@ -120,7 +120,7 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [新闻页面](https://osu.ppy.sh/news/145357306703)
 - [结果页面](https://osu.ppy.sh/news/152901340878)
-- [论坛页面](https://osu.ppy.sh/forum/t/448842)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/448842)
 
 ### 2017
 
@@ -134,7 +134,7 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
 - [新闻页面](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
 - [结果页面](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
-- [论坛页面](https://osu.ppy.sh/forum/t/617845)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/617845)
 
 
 ## 社区举办的竞赛
@@ -153,8 +153,8 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | 2    | 葉月ゆら - 宵闇花火                     | [Lan Wings](https://osu.ppy.sh/users/467860)       | [Kotone](https://osu.ppy.sh/users/26507)           | [Regou](https://osu.ppy.sh/users/419954)           |
 | 3    | An - アートコア神社                     | [Flower](https://osu.ppy.sh/users/1033017)         | [Amamiya Yuko](https://osu.ppy.sh/users/873961)    | [Regou](https://osu.ppy.sh/users/419954)           |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/135492)
-- [结果页面](https://osu.ppy.sh/forum/t/152966)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/135492)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/152966)
 
 #### 第二届（2014）
 
@@ -163,8 +163,8 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | 1    | Sharlo & Sabbo - 桜の花が舞い落ちるとき  | [Loneight](https://osu.ppy.sh/users/663131)        | [Macuilxochitl](https://osu.ppy.sh/users/418699)   | [eveless](https://osu.ppy.sh/users/102976)         |
 | 2    | 木製みゅーと - 七つ一旋桜                | [OSUtoto](https://osu.ppy.sh/users/847182)         | [bo0O0od](https://osu.ppy.sh/users/530547)         | [Kawaiwkyik](https://osu.ppy.sh/users/1367570)     |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/229019)
-- [结果页面](https://osu.ppy.sh/forum/t/243930)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/229019)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/243930)
 
 #### 第三届（2015）
 
@@ -174,8 +174,8 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | 2    | 削除 - Imprinting                      | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017)        |
 | 3    | P*Light - YELLOW SPLASH!!              | [fanzhen0019](https://osu.ppy.sh/users/418699)     | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Minakami Yuki](https://osu.ppy.sh/users/2433507)  |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/345263)
-- [结果页面](https://osu.ppy.sh/forum/t/373843)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/345263)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/373843)
 
 #### 第四届（2016）
 
@@ -185,8 +185,8 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | 2    | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [rui](https://osu.ppy.sh/users/74313)              | [yf_bmp](https://osu.ppy.sh/users/1243669)         |
 | 3    | Dollscythe - Flashes (Extended)               | [Skystar](https://osu.ppy.sh/users/873961)         | [Level9](https://osu.ppy.sh/users/7232130)         | [Frostings](https://osu.ppy.sh/users/2652543)      |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/482629)
-- [结果页面](https://osu.ppy.sh/forum/t/504645)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/482629)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/504645)
 
 #### 第五届 (2017)
 
@@ -196,8 +196,8 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Garden](https://osu.ppy.sh/users/2849992)              | [Ellyu](https://osu.ppy.sh/users/4438154)         |
 | 3         | かめりあ - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/620182)
-- [结果页面](https://osu.ppy.sh/forum/t/640906)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/620182)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/640906)
 
 
 ### 新纸张杯作图竞赛
@@ -211,8 +211,8 @@ Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入�
 | 1    | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/users/2775906)         | [Philosophy2](https://osu.ppy.sh/users/372256)     | [bread129988](https://osu.ppy.sh/users/2010665)    |
 | 2    | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/users/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/272739)
-- [结果页面](https://osu.ppy.sh/forum/t/312154)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/272739)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/312154)
 
 #### 第二届（2016）
 
@@ -221,8 +221,8 @@ Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入�
 | 1    | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/users/3420746)           |
 | 2    | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/users/3280555)   | [liaoxingyao](https://osu.ppy.sh/users/3620963)    | [Kencho](https://osu.ppy.sh/users/3178411)     |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/415669)
-- [结果页面](https://osu.ppy.sh/forum/t/432070)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/415669)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/432070)
 
 #### 第三届（2017）
 
@@ -231,8 +231,8 @@ Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入�
 | 1    | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)            | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612)                 |
 | 2    | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)              | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255)  |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/546038)
-- [结果页面](https://osu.ppy.sh/forum/t/570350)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/546038)
+- [结果页面](https://osu.ppy.sh/community/forums/topics/570350)
 
 #### 第四届 (2017)
 
@@ -241,5 +241,5 @@ Newspaper杯 是由 osu!新人mapper群 主办，旨在吸引更多玩家加入�
 | 1         | 葉月ゆら - サラマンドラの踊り子             |  待发布           | 待发布                 |
 | 2         | P＊Light - SAY BAY           | 待发布              | 待发布  |
 
-- [论坛页面](https://osu.ppy.sh/forum/t/690824)
+- [论坛页面](https://osu.ppy.sh/community/forums/topics/690824)
 - 结果页面 - 待发布

@@ -35,7 +35,7 @@ Pour chaque participant :
 
 | Placing                                                    | Prize(s)                                                                                                                                                                  |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                                                        |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                                                        |
 
@@ -529,7 +529,7 @@ Règlement
 Liens importants
 ---------------
 
--   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

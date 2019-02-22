@@ -16,11 +16,11 @@ Derzeitig tragen folgende User dieses Abzeichen:
 
 | User | Bekannt durch |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Entwickler und Verwalter des [osu!record Service](https://osu.ppy.sh/forum/t/108092) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Entwickler und Verwalter des [osu!record Service](https://osu.ppy.sh/community/forums/topics/108092) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hoster und Betreiber einer der ältesten und größten [beatmap mirrors](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Mitwirkender bei zahlreichen Grafiken in so gut wie allem. |
 | [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Achievements) Kunstwerke. |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/forum/t/55305), dem bekanntesten Third-Party Beatmap Modding Utensil, das heute von den meisten Users in der Community verwendet wird. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Third-Party Beatmap Modding Utensil, das heute von den meisten Users in der Community verwendet wird. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Ausgezeichnete Arbeit in Bugfix und Feature Testing und Entwicklung verschiedener Funktionen für Mapper und Modder. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offiziellen Turnieren (unter Anderem dem OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Exzellente Moderation des Hauptchannels #osu über Stunden hindurch bei einer Useranzahl von 9.000 Usern und mehr.. und das als einzelne Person! |

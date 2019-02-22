@@ -90,4 +90,4 @@ Specials
 ## External Links
 
 - [Official YouTube Channel](https://www.youtube.com/user/osuacademy/videos)
-- [Official Thread](https://osu.ppy.sh/forum/t/225111)
+- [Official Thread](https://osu.ppy.sh/community/forums/topics/225111)

@@ -16,11 +16,11 @@ Usuários que atualmente possuem o emblema:
 
 | Usuário | Notavel por ter feito |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvimento e manutenção do [osu!record](https://osu.ppy.sh/forum/t/108092) (replay .osr para arquivo de Vídeo.) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvimento e manutenção do [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (replay .osr para arquivo de Vídeo.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hospedando e administrando um dos maiores servidores secundários de [download de beatmaps](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Incontáveis contribuições gráficas para o cliente do jogo entre outras. |
 | [Ballance](https://osu.ppy.sh/users/165946) | Artista Gráfico dos [Achievements](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Desenvolvedor do [AIBat](https://osu.ppy.sh/forum/t/55305), a ferramenta terceirizada mais usada para moderação de beatmaps. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Desenvolvedor do [AIBat](https://osu.ppy.sh/community/forums/topics/55305), a ferramenta terceirizada mais usada para moderação de beatmaps. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Performance destaque em resolução de bugs/Teste de novas funcionalidades e codificando inúmeras utilidades para mappers e modders. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organizador de vários torneios de maior importância (incluindo o OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Moderador excepcional até mesmo quando osu esta com o máximo de usuários conectados. |

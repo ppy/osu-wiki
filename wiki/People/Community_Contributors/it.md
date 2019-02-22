@@ -16,11 +16,11 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 | Utente | Contributi |
 | ---- | ------------- |
-| [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/forum/t/108092) (da .osr a Video su YouTube.) |
+| [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da .osr a Video su YouTube.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
 | [Ballance](https://osu.ppy.sh/users/165946) | Grafica degli [Obiettivi](/wiki/Achievements). |
-| [akrolsmir](https://osu.ppy.sh/users/576800) | Sviluppa e mantiene [AIBat](https://osu.ppy.sh/forum/t/55305), il più popolare strumento di modding delle beatmap di terza parte. |
+| [akrolsmir](https://osu.ppy.sh/users/576800) | Sviluppa e mantiene [AIBat](https://osu.ppy.sh/community/forums/topics/55305), il più popolare strumento di modding delle beatmap di terza parte. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Performance straordinaria nei bugfix o test delle funzionalità e ha programmato numerose utilities per i mapper e modders. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Ha organizzato molti tornei ufficiali di maggiore importanza (incluso l'OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Folle record di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato manualmente #osu durante le ore di punta (Più di 9000 utenti). |
