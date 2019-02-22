@@ -1,6 +1,8 @@
 How to Get Your Map Ranked
 ===========================
 
+*See also: [Ranking Criteria](/wiki/Ranking_Criteria)*
+
 Having trouble getting your [map](/wiki/Glossary) ranked? You've come to the right place.
 
 Step 1: Modding
@@ -21,8 +23,3 @@ Step 3: Bubbles
 ---------------
 
 Just because your map is bubbled doesn't mean your work is over! Don't ignore any mods by normal users on your bubbled map — although only a BN or QAT can rank your map, anyone can still help improve it, and a better, more thoroughly modded map means an easier job for the BNG who eventually looks at it. Once you have applied a mod on your bubble the BN who originally gave the bubble will almost always be happy to come back and reinstate it. Keep in mind that you'll also have an easier time getting your bubble noticed by BNG members if it is high priority and on the first page of pending - giving your map some kudos stars to push it up in the list should make the wait a little shorter.
-
-See Also
---------
-
--   [Ranking Criteria](/wiki/Ranking_Criteria)

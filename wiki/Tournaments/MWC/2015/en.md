@@ -50,8 +50,8 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 ## Links
 
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Group Stage statistics](https://owc.nicarim.pw/results/view/6)**
 
 ------------------------------------------------------------------------
 

@@ -3,15 +3,13 @@
 
 # osu!mania
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial).*
+*See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
 
 Since v2.5+, skinners are now able to fully customize the osu!mania notes and stage using the [skin.ini](/wiki/skin.ini) file. The following is what osu! will recognize if one chooses to not use the `skin.ini` for further customization.
 
 ## Hit Bursts
 
-*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy).*
+*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
 
 ---
 

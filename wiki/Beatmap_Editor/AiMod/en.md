@@ -1,14 +1,14 @@
-AiMod
-========
+# AiMod
 
-**AiMod** is a tool built in the osu! Beatmap Editor, you can open it by pressing `Control` + `Shift` + `A` or by clicking **File** » **Open AiMod**. AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](/wiki/Glossary) to mod your beatmap.
+**AiMod** is a modding tool built into the [Beatmap Editor](/wiki/Beatmap_Editor). To open AiMod, press `Control` + `Shift` + `A` or navigate via menu options **File** » **Open AiMod** once a beatmap is open in the Beatmap Editor.
+
+AiMod aims to help beginner mappers "mod" their beatmaps. The limitation of AiMod lies with its basic design which causes it to sometimes overlook issues such as bad mapping patterns, BPM, or timing. Finding a [modder](/wiki/Glossary) to mod your beatmap is strongly recommended.
 
 ![AiMod](AiMod.jpg "AiMod is usually your first modder")
 
-After AiMod checks over your beatmap (should take less than a minute), the warnings and errors are displayed. If "No problems were found in this map!"… Then congratulations! Your beatmap passed the AiMod "modding", but you'll still need to find [modder](/wiki/Glossary) to mod your beatmap because they will find more issues than what AiMod can detect.
+AiMod typically completes its beatmap analysis in under a minute and subsequently displays warnings and errors. If no problems were found in your beatmap, then congratulations! The beatmap passed the AiMod analysis, but it still requires modding from the community. The modders can find other issues that AiMod failed to detect.
 
-Tabs
-----
+## Tabs
 
 **All**
 
@@ -35,8 +35,7 @@ Tabs
 
 -   These problems affect the mapset as a whole.
 
-Messages
---------
+## Messages
 
 >Note: Numbers inside curly brackets (i.e. "{0}") is a placeholder for a number or a word.
 

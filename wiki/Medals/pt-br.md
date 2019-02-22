@@ -6,7 +6,7 @@ Conquistas
 Beatmap Packs
 -------------
 
-As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](http://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](http://osu.ppy.sh/p/packlist?t=t) e medalha.
+As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](https://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](https://osu.ppy.sh/p/packlist?t=t) e medalha.
 
 Atualmente, existem 16 conquistas neste grupo, divididas em 4 seções:
 
@@ -21,10 +21,10 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Requisitos:
 
- -   Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](http://osu.ppy.sh/p/packlist?t=t). 
+ -   Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](https://osu.ppy.sh/p/packlist?t=t).
  -   O modo deve ser [osu!Standard](/wiki/Game_Modes/osu!/).
  -   Extraia o pacote temático, solte todos os beatmaps .zip na lista de músicas do osu!. Abra o osu! e começar a jogar. Só isso.
-     -   Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](http://osu.ppy.sh/p/packlist?t=t)
+     -   Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](https://osu.ppy.sh/p/packlist?t=t)
      -   Alternativamente, você pode baixar as músicas manualmente uma por uma e ainda contaria.
  -   Qualquer variação (como criador diferente) da música não é contada. DEVE ser aquela musica específica e aquele criador específico naquele beatmap específico.
  -   A conta em questão deve estar conectada ao osu!. Entrar no site do osu!, mas não no jogo, não conta.
@@ -33,7 +33,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 #### Observações:
 
  -   Depois de conseguir a conquista, você pode optar por excluir as músicas do tema. Sua conquista, pontuação e precisão permanecerão. Caso deseje melhorar a sua pontuação e precisão de um certo beatmap, você deverá jogá-lo novamente.  
- -   Caso esteja se perguntando por que não recebeu a insígnia e sente que perdeu uma música, verifique a [listagem do pacote](http://osu.ppy.sh/p/packlist?t=t). Musicas concluídas estão marcadas como **CLEARED** em negrito.
+ -   Caso esteja se perguntando por que não recebeu a insígnia e sente que perdeu uma música, verifique a [listagem do pacote](https://osu.ppy.sh/p/packlist?t=t). Musicas concluídas estão marcadas como **CLEARED** em negrito.
  -   A insígnia é concedida após a conclusão de todas as músicas do tema em questão.
      -  Seja paciente e certifique-se de que sua pontuação foi enviada e classificada corretamente. Você não vai querer repetir a música do beatmap novamente, especialmente se for muito difícil para você, não é?
  -   Faça bom uso do assistente de offset. As músicas são bastante antigas e alguns hit-circles podem aparecer muito cedo/tarde, então, certifique-se de verificar em qual offset online eles devem aparecer.
@@ -130,4 +130,4 @@ Conquistas deste tipo não têm nenhuma maneira óbvia de obtê-las. O próprio 
 Links externos
 -------------
 
--   Gráficos de conquistas do peppy [1](http://osu.ppy.sh/forum/t/80448)
+-   Gráficos de conquistas do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

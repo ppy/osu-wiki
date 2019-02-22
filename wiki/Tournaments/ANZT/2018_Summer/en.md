@@ -135,25 +135,25 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 **[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
 
 - NoMod
-  - [mafumafu - Revenge Syndrome (Rizia) \[Extra\]](https://osu.ppy.sh/b/763289)
-  - [Hanatan - Kogitsune no Ran (Awaken) \[Kitsune\]](https://osu.ppy.sh/b/636369)
-  - [Memme - Cherry Blossom (xLolicore-) \[Dance\]](https://osu.ppy.sh/b/1222252)
-  - [Rohi - Kanata ni Mau ha Sakura no Senritsu (AmamiyaYuko) \[Insane\]](https://osu.ppy.sh/b/177287)
-  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[kiddly's Extreme\]](https://osu.ppy.sh/b/274236)
-  - [Awake - Supernova (wa\_) \[Another\]](https://osu.ppy.sh/b/789091)
+  - [mafumafu - Revenge Syndrome (Rizia) \[Extra\]](https://osu.ppy.sh/beatmaps/763289)
+  - [Hanatan - Kogitsune no Ran (Awaken) \[Kitsune\]](https://osu.ppy.sh/beatmaps/636369)
+  - [Memme - Cherry Blossom (xLolicore-) \[Dance\]](https://osu.ppy.sh/beatmaps/1222252)
+  - [Rohi - Kanata ni Mau ha Sakura no Senritsu (AmamiyaYuko) \[Insane\]](https://osu.ppy.sh/beatmaps/177287)
+  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[kiddly's Extreme\]](https://osu.ppy.sh/beatmaps/274236)
+  - [Awake - Supernova (wa\_) \[Another\]](https://osu.ppy.sh/beatmaps/789091)
 - Hidden
-  - [Hige Driver - Palette (Jounzan) \[Insane\]](https://osu.ppy.sh/b/1443057)
-  - [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/b/722934)
+  - [Hige Driver - Palette (Jounzan) \[Insane\]](https://osu.ppy.sh/beatmaps/1443057)
+  - [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/beatmaps/722934)
 - HardRock
-  - [Yanni - With an Orchid (ts8zs) \[Hollow Wings\]](https://osu.ppy.sh/b/268187)
-  - [FELT - crescent moon (Meg) \[Flowers always bloom in my heart\]](https://osu.ppy.sh/b/1024549)
+  - [Yanni - With an Orchid (ts8zs) \[Hollow Wings\]](https://osu.ppy.sh/beatmaps/268187)
+  - [FELT - crescent moon (Meg) \[Flowers always bloom in my heart\]](https://osu.ppy.sh/beatmaps/1024549)
 - DoubleTime
-  - [Choucho - When the First Love Ends (MeLLoN) \[Collab\]](https://osu.ppy.sh/b/86219)
-  - [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/b/268445)
+  - [Choucho - When the First Love Ends (MeLLoN) \[Collab\]](https://osu.ppy.sh/beatmaps/86219)
+  - [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/beatmaps/268445)
 - FreeMod
-  - [REDALiCE - FLOWER REDALiCE Remix (Jenny) \[Another\]](https://osu.ppy.sh/b/302814)
-  - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/b/418139)
-  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/b/152199)
+  - [REDALiCE - FLOWER REDALiCE Remix (Jenny) \[Another\]](https://osu.ppy.sh/beatmaps/302814)
+  - [Himeringo - Idola no Circus (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmaps/418139)
+  - [Hatsune Miku - Sakura Zensen Ijou Nashi (Lalarun) \[Ijou0108\]](https://osu.ppy.sh/beatmaps/152199)
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (Lasse) \[Timeless\]](https://osu.ppy.sh/b/985004)**
 

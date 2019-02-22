@@ -9,7 +9,7 @@ Notably, skin versions 2.4+ has improved scaling and new commands for the skin.i
 ## Lighting
 
 osu!mania has a separate lighting image than osu!standard and osu!catch does.
-While osu!standard and osu!catch uses a circular one for its hitobjects, osu!mania can use any shape to overlay the keys when they are being pressed against a note.
+While osu!standard and osu!catch uses a circular one for its hit objects, osu!mania can use any shape to overlay the keys when they are being pressed against a note.
 `LightingN` and `LightingL` are animatable images that appear when you hit a note on judgment bar.
 Do note that this can animated, though this is a pretty fast animation.
 
@@ -20,7 +20,7 @@ Do note that this can animated, though this is a pretty fast animation.
 ## Hitbursts
 
 `mania-hit0`, `mania-hit50`, `mania-hit100`, `mania-hit200`, `mania-hit300`, `mania-hit300g` are the hitbursts for osu!mania.
-These are animatable when playing ingame, but their animations plays very quickly and is *not* looped, so try to be clever to make them visible.
+These are animatable when playing in-game, but their animations plays very quickly and is *not* looped, so try to be clever to make them visible.
 
 When the player is viewing the ranking screen, do note that osu! will not animate the animations, if given.
 Instead, osu! will take the first frame and display that on the scoreboard.

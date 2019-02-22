@@ -5,8 +5,6 @@ tags:
 ---
 # BSS Issues
 
-*Main page: [Guides](/wiki/Guides).*
-
 *Note: Do not use this guide to steal other creator's beatmaps!*
 
 If the [BSS](/wiki/BSS) (Beatmap Submission System) won't let you submit your own beatmap because it says that you do not own the map then do the following:
@@ -41,4 +39,4 @@ If you are still having issues, follow these steps:
 1.  Once you are done, zip the files back into the `.zip` file.
 1.  Rename this `.zip` file back to `.osz`.
 1.  Import it into osu! and try uploading it again.
-1.  If this fails, you may want to create a new topic thread in the [Help subforums](/community/forums/5) to seek further help.
+1.  If this fails, you may want to create a new topic thread in the [Help subforums](https://osu.ppy.sh/community/forums/5) to seek further help.

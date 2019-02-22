@@ -40,7 +40,7 @@ Forum-wide rules
 Beatmap Submission Rules
 ---------------------------------
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
 
 A set of more detailed rules for beatmap construction exists, known as the [Ranking Criteria](/wiki/Ranking_Criteria).
 

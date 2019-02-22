@@ -15,7 +15,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | **Red**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") member      |
 | **Green**  | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue**   | Private Message                                                                                                                                                                                          |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), the creator of osu!                                                                                                                                            |
+| **Cyan**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), the creator of osu!                                                                                                                                            |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                           |
 
 -   Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.
@@ -26,11 +26,11 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 *[osu!academy](/wiki/osu!academy/ "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi/ "Multiplayer").*
 
-From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently logged in osu!
+From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently signed in to osu!
 
 ![Extended chat console](Chat_Console-Extended.png "Extended chat console")
 
-Each user logged in osu has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
+Each user signed in to osu! has a user panel displayed in Extended Chat. By default, it displays general information (name, total ranked score, rank, accuracy, play count and the user's avatar, if any). When the mouse cursor is placed over it, it displays a different set of information (name, rank, avatar if any, local time, time zone, location by country and, if allowed by the user, city, and what they are doing).
 
 -   Friends only limits the display to your friends.
 -   Lock Panels stops the panels from jumping round this also includes new users.
@@ -51,7 +51,7 @@ Each user logged in osu has a user panel displayed in Extended Chat. By default,
 | ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Brown - User is in multiplayer, but not playing.                                                               |
 | ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Yellow - Currently playing in multiplayer.                                                                     |
 | ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Black - Inactive or away from keyboard (afk).                                                                  |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Dark Blue without content - Player is not in-game, but signed in to an IRC client or stats are not available. |
 
 Clicking on any user panel brings up an options screen.
 
@@ -72,26 +72,26 @@ Press the number or click the bar to activate:
 
 ### /help
 
-| Command        | Effect                                                                                         | Example           | BanchoBot response                                                               | 
+| Command        | Effect                                                                                         | Example           | BanchoBot response                                                               |
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
 | `/addfriend [user]`   | Add `[user]` to your friends list.      | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]`   | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Sets an away message (sent to users PMing you). Leave message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~?  BanchoBot: I am John Smith.|
 | `/bb` | Sends a message to bancho like rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) | 
-| `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) | 
-| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo [c], any possible text highlighting you by Amigo [h] any Private Message sent to you by Amigo [p]) | 
-| `/j [channel]` or `/join [channel]` | Joins the specified channel | `/join #lobby` | (#lobby tab is opened) | 
-| `/p` or `/part` | Leaves the current channel you're parting or leaving. | `/part` | n/a | 
-| `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) | 
-| `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home | 
-| `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. | 
-|`/np`| Print to chat the current song you are listening to or playing.| `/np`| (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/b/22538) | 
-| `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
-| `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) | 
-| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) | 
-| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) | 
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game | 
+| `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) |
+| `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
+| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo [c], any possible text highlighting you by Amigo [h] any Private Message sent to you by Amigo [p]) |
+| `/j [channel]` or `/join [channel]` | Joins the specified channel | `/join #lobby` | (#lobby tab is opened) |
+| `/p` or `/part` | Leaves the current channel you're parting or leaving. | `/part` | n/a |
+| `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |
+| `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home |
+| `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. |
+|`/np`| Print to chat the current song you are listening to or playing.| `/np`| (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
+| `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
+| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) |
+| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) |
+| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game |
 
 
 ### /keys

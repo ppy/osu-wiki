@@ -1,7 +1,7 @@
 Making Properly Centered Spinners
 ===================================
 
-[*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/forum/t/51502)
+[*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
 This guide is probably hard to understand for people with little experience with gimp/photoshop. This guide assumes you know how to (and are able to) turn on/off layers, as well as find some things on your own. If you have questions, you can forum PM and I'll try to help. I'm no good at actually generating content, though, just editing someone else's work.
 

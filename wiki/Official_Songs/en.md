@@ -1,6 +1,6 @@
 # Official Songs
 
-**Official Songs** are songs officially approved by the artist to be used within osu! Every member of the community is allowed to pick up the songs and create their own beatmaps of them. Most of these songs are created exclusively for osu!, and they have bounties placed to encourage the mapping community to create the beatmaps for these songs.
+**Official Songs** are songs officially approved by the artist to be used within osu!. Every member of the community is allowed to pick up the songs and create their own beatmaps of them. Most of these songs are created exclusively for osu!, and they have bounties placed to encourage the mapping community to create the beatmaps for these songs.
 
 ## Available Songs
 
@@ -37,7 +37,7 @@
 - Source: osu!
 - [Download .osz](https://puu.sh/kr2Vy/8c2d95627a.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
-- Winner: [cYsmix - Manic (Monstrata)](https://osu.ppy.sh/s/361175)
+- Winner: [cYsmix - Manic (Monstrata)](https://osu.ppy.sh/beatmapsets/361175)
 
 ---
 
@@ -47,7 +47,7 @@
 - Source: osu!
 - [Download .osz](https://puu.sh/kr343/473c7ec3d1.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
-- Winner: [cYsmix - House With Legs (alacat)](https://osu.ppy.sh/s/360680)
+- Winner: [cYsmix - House With Legs (alacat)](https://osu.ppy.sh/beatmapsets/360680)
 
 ---
 
@@ -57,7 +57,7 @@
 - Source: osu!
 - [Download .osz](https://puu.sh/kr2FL/73dc523bac.osz)
 - Bounty: bundled with osu! client, 50$ store credit, 6 months supporter tag, profile badge
-- Winner: [cYsmix - Dovregubben's Hall (Guy)](https://osu.ppy.sh/s/360950)
+- Winner: [cYsmix - Dovregubben's Hall (Guy)](https://osu.ppy.sh/beatmapsets/360950)
 
 ## Bounties
 

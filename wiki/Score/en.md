@@ -281,21 +281,21 @@ Flashlight                    1.06
 
 ## Other Scores
 
-Suppose a player played these four beatmaps online with a logged-in osu!account on a single game mode, osu!standard:-
+Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!standard:-
 
-- ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/s/3302 "BRANDY - The Festival of Ghosts 2 (darrihuka)")
+- ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302 "BRANDY - The Festival of Ghosts 2 (darrihuka)")
   - Relaxing : 3,000,000
   - **DaRRi MIx : 5,000,000**
-- ![Ranked icon][rank] [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/s/271 "ZZ - Samurai Blue (elzamxrai)")
+- ![Ranked icon][rank] [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/beatmapsets/271 "ZZ - Samurai Blue (elzamxrai)")
   - Easy : 500,000
   - **Normal : 1,000,000**
   - Hard : No score
-- ![Ranked icon][rank] [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/s/1264 "Matchbox 20 - How Far We've Come (Sushi)")
+- ![Ranked icon][rank] [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/beatmapsets/1264 "Matchbox 20 - How Far We've Come (Sushi)")
   - **Normal : 2,000,000**
   - Hard : 1,500,000
     - First failed online play : 2,450,000
     - Second failed online play : 50,000
-- ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/s/1785 "Nico Nico Douga - U.N. Owen Was Her? (Reikin)")
+- ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/beatmapsets/1785 "Nico Nico Douga - U.N. Owen Was Her? (Reikin)")
   - **Normal : 2,000,000**
     - Offline play : 50,000,000
 
@@ -321,8 +321,8 @@ The level of a player is **based solely** on the **player's total score**.
 The total score requirement for a given level is as follows:
 
 ```
-5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100
-26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101
+5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100
+26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101
 ```
 
 The progress to the next level is displayed using a bar next to the player's level.

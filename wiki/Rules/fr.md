@@ -39,7 +39,7 @@ Règles du Forum
 Règles de Soumission des Beatmaps
 ---------------------------------
 
-Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Beatmap_Submission_System) en jeu. Les sujets/discussions sont créés via le client osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
+Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Glossary#bss) en jeu. Les sujets/discussions sont créés via le client osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
 
 Un ensemble plus détaillé de règles pour la construction de beatmap existe, connu sous le nom de [Critères de Classement](/wiki/Ranking_Criteria).
 

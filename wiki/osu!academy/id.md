@@ -4,8 +4,8 @@
 
 **osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
-Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini. 
-Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
+Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini.
+Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](https://osu.ppy.sh/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
 
 [Berikut merupakan trailernya](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
@@ -52,6 +52,6 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 
 ## Tautan Eksternal
 
-- Sumber: <https://new.ppy.sh/post/70504430082/introducing-the-osu-academy>
+- Sumber: <https://osu.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Channel YouTube resmi: <https://www.youtube.com/user/osuacademy/videos>
 - Forum diskusi resmi: <https://osu.ppy.sh/community/forums/topics/169707>

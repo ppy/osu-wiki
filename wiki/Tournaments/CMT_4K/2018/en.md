@@ -20,8 +20,8 @@ The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third on
 | Round of 16 | 2018-10-20/2018-10-21 |
 | Quarterfinals | 2018-10-27/2018-10-28 |
 | Semifinals | 2018-11-03/2018-11-04 |
-| Finals - Week 1 | 2018-11-10/2018-11-11 |
-| Finals - Week 2 | 2018-11-17/2018-11-18 |
+| Finals - Week 1 | 2018-11-10 |
+| Finals - Week 2 | 2018-11-18/2018-11-25 |
 
 ## Prizes
 
@@ -39,46 +39,54 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 | Team | Member(s) |
 | --: | :-- |
-| Management and Organisation | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
-| Coordinator | ![][CN] [SSV Normandy](/users/6475977) |
-| Map Selectors | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| Streamers and Referees | ![][CN] [aiyulu](/users/189617), ![][CN] [Rasis](/users/1209363), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
-| Commentators | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][CN] [Rasis](/users/1209363), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083) |
-| Wiki | ![][CN] [kj415j45](/users/9367540) |
+| Management and Organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| Map Selectors | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Streamers and Referees | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentators | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/800125)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/800125)
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [Rasis](https://live.bilibili.com/5333) (Backup), [kj415j45](https://live.bilibili.com/237250) (Backup).   
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [kj415j45](https://live.bilibili.com/237250) (Backup).   
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
-## Match Schedule: Semifinals
+---
 
-The following time are based on UTC+08 timezone.  
-Knock-Out Stages' match time will be announced in [statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx).
+![CMT4K2018 podium](img/podium.png)
 
-### Saturday, 3. November 2018
-
-| Match Time | PlayerBlue |  | PlayerRed |
-| :-: | :-: | :-: | :-: |
-| 11:00 | Stink God | vs | zero2snow |
-| 14:00 | C Eru | vs | \[Crz\]Murasame |
-| 17:00 | CaOH2 | vs | Sakaki |
-
-### Sunday, 4. November 2018
-
-| Match Time | PlayerBlue |  | PlayerRed |
-| :-: | :-: | :-: | :-: |
-| 11:00 | \[Crz\]Minato | vs | ByeForNow |
-| 15:00 | HDRoop\_7 | vs | cheewee10 |
-| 18:00 | Orangejuice | vs | 704661982 |
+---
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+
+- FreeMod
+  - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+  - [ck - Carnation (ck remix) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [LeaF - Calamity Fortune \[Freedom (240bpm)\]](https://osu.ppy.sh/beatmapsets/866025#mania/1810669)
+  - [Gram VS Camellia - Ragnarok \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [YZYX - Dysnomia \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Casey Lee Williams ft. Jeff Williams - Boop \[RWBYnfinity\]](https://osu.ppy.sh/beatmapsets/696309#mania/1475015)
+  - [Daiki Kasho - 5oul on D!splay (Short Ver.) \[Display\]](https://osu.ppy.sh/beatmapsets/384818#mania/840775)
+  - [Panda Eyes & Teminite - Highscore \[Extra (NSV) (143bpm)\]](https://osu.ppy.sh/beatmapsets/873114#mania/1825054)
+  - [Cyber-Rainforce - Pluto \[Ayumu's firmament\]](https://osu.ppy.sh/beatmapsets/657922#mania/1393518)
+  - [Venetian Snares - Sinthasomphone \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/1823177)
+  - [LeaF - Lyrith \[Amnesia\]](https://osu.ppy.sh/beatmapsets/687280#mania/1463532)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) \[Extreme (Revised)\]](https://osu.ppy.sh/beatmapsets/859797#mania/1821298)
+  - [xi - PEACE BREAKER \[devastation\]](https://osu.ppy.sh/beatmapsets/827204#mania/1733417)
+  - [Camellia - Proluvies \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+- Tiebreaker
+  - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
+
 
 ### Semifinals
 
@@ -170,6 +178,34 @@ Knock-Out Stages' match time will be announced in [statistics sheet](https://doc
 
 ## Match Results
 
+### Finals - Week 2
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| ByeForNow | 4 | 7 | \[Crz\]Murasame |
+| \[Crz\]Murasame | 0 | 7 | cheewee10 |
+
+### Finals - Week 1
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| cheewee10 | 6 | 1 | ByeForNow |
+| Orangejuice | 0 | 0 | HDRoop_7 |
+| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
+
+### Semifinals
+
+| PlayerBlue |  |  | PlayerRed |
+| --: | :-: | :-: | :-- |
+| **CaOH2** | **6** | 1 | Sakaki |
+| Stink God | 5 | **6** | **zero2snow** |
+| C Eru | 0 | **6** | **\[Crz\]Murasame** |
+| HDRoop\_7 | 0 | **6** | **cheewee10** |
+| **\[Crz\]Murasame** | **6** | 1 | CaOH2 |
+| \[Crz\]Minato | 0 | **6** | **ByeForNow** |
+| **Orangejuice** | **6** | 2 | 704661982 |
+| zero2snow | 0 | **6** | **Orangejuice** |
+
 ### Quarterfinals
 
 | PlayerBlue |  |  | PlayerRed |
@@ -257,7 +293,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
      - Use Chinese as the primary language.
      - No requirement on performance points.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
-3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](/community/forums/topics/800125).
+3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/800125).
 4. Map selectors and tournament managers are not allowed to register.
 
 ### Stage Instructions

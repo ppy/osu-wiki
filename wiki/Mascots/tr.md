@@ -140,7 +140,7 @@ Ryuuta
 #### Belirmeler
 * Catch the Beat (as chibi-Ryuuta) [Yuzu ile değiştirildi]
 * osu!webpage (chibi-Ryuuta as Mascot) [Emekli oldu]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (Easter egg bir NPC olarak)
 
 #### Yaratıcı
@@ -177,7 +177,7 @@ BA-2 (Beat Agent-2), J
 
 #### Belirmeler
 * osu!webpage (Maskot olarak chibi-J) [Emekli]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Yaratıcı
 iNiS Corporation

@@ -1,7 +1,5 @@
 # 2015
 
-*Main page: [History of osu!](/wiki/HOO).*
-
 ## March
 
 peppy reconsiders that his current business model will not obtain him his "Private osu! G6 Jet" and enables the *[osu!coin](/wiki/osu!coin)* to hopefully increase revenue. Every current player was given 10 osu!coins to play (at the rate of 1 play = 1 osu!coin). These can be replenished after obtaining a combo of multiples of 100. Or simply by purchasing them at these rates:

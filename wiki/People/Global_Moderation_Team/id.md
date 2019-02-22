@@ -12,7 +12,7 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 
 ## Anggota Tim
 
-*Harap dicatat: Semua GMT berbahasa Inggris dan penambahan bahasa-bahasa yang terdaftar di bawah kecuali disebutkan sebaliknya.* - [Team Page](http://osu.ppy.sh/g/4)
+*Harap dicatat: Semua GMT berbahasa Inggris dan penambahan bahasa-bahasa yang terdaftar di bawah kecuali disebutkan sebaliknya.* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Nama | Bahasa | Area Fokus |
 | :-- | :-- | :-- |
@@ -51,7 +51,7 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi Chat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Perancis, Spanyol | Moderasi Chat |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Moderasi Chat |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Cina | Moderasi Chat |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Cina | Moderasi Chat |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Moderasi Chat |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Jerman | Moderasi Chat, Moderasi Forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rusia | Moderasi Chat |

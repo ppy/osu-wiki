@@ -10,7 +10,7 @@ Another month rolls by, another contest to test your mettle on. Ever tried catch
 
 The MBC series continues with (actual) monthly installments as promised! While the Aspire voting is prepared, why not whet your teeth on something new - namely osu!catch mapping?
 
-Here's a taste of the song for this contest - **HYPER★DRIVE** from our wickedly talented [*Featured Artist*](https://new.ppy.sh/beatmaps/artists/), [**nanobii**](https://new.ppy.sh/beatmaps/artists/10):
+Here's a taste of the song for this contest - **HYPER★DRIVE** from our wickedly talented [*Featured Artist*](https://osu.ppy.sh/beatmaps/artists/), [**nanobii**](https://osu.ppy.sh/beatmaps/artists/10):
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225358926&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 *(Please note that the above track is a sample of the full song - the actual track is 3:19 in length!)*
@@ -39,7 +39,7 @@ All entries will be judged by a panel of experienced osu!catch players from the 
 
 Depending on the number of entries, we may open the contest for public voting as well.
 
-[Download the contest osz file and read the rules in more depth over at the Contest listing page!](https://new.ppy.sh/community/contests/44)
+[Download the contest osz file and read the rules in more depth over at the Contest listing page!](https://osu.ppy.sh/community/contests/44)
 
 The contest will run for **24 days** from the date of this post. Consult the countdown on the contest listing page if you're unsure.
 

@@ -2,7 +2,7 @@
 
 *Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
 
-Berikut ini adalah beberapa sejarah osu! sejak awal. Terima kasih khusus kepada [Sinistro](/users/5530) telah membantu menyusun konten 2007/2008.
+Berikut ini adalah beberapa sejarah osu! sejak awal. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) telah membantu menyusun konten 2007/2008.
 
 ![](img/2007.jpg)
 
@@ -94,6 +94,6 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ## Desember
 
-Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat ditambahkan, menjelaskan semua berbagai tombol di menu osu! dan antarmuka editor. Banyak skin-skin baru yang berkualitas diajukan oleh Skinner generasi awal ([Holiday oleh LuigiHann](/community/forums/topics/1139), [WindWaker](/community/forums/topics/761) oleh awp). Metode pengurutan baru ditambahkan ke layar pemilih lagu. peppy sekarang dapat mengirim pengumuman universal untuk semua pemain osu!. Perubahan kecil dibuat untuk meningkatkan kenyamanan gameplay, seperti peredupan lingkaran inaktif (non-active circle dimming).
+Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat ditambahkan, menjelaskan semua berbagai tombol di menu osu! dan antarmuka editor. Banyak skin-skin baru yang berkualitas diajukan oleh Skinner generasi awal ([Holiday oleh LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker](https://osu.ppy.sh/community/forums/topics/761) oleh awp). Metode pengurutan baru ditambahkan ke layar pemilih lagu. peppy sekarang dapat mengirim pengumuman universal untuk semua pemain osu!. Perubahan kecil dibuat untuk meningkatkan kenyamanan gameplay, seperti peredupan lingkaran inaktif (non-active circle dimming).
 
 ![](img/2007-12_01.jpg)

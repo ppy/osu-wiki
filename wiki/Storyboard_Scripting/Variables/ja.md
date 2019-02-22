@@ -38,7 +38,7 @@ _C,0,58810,59810,0,CC,0
 $number_of_loops=12
 
 [Events]
-// ...
+// ...
 
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12

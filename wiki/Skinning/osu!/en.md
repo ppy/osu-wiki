@@ -3,9 +3,7 @@
 
 # osu!
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial).*
+*See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial)*
 
 ## Comboburst
 

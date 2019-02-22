@@ -4,7 +4,7 @@ title: "osu! Coffee Hour: Tournaments"
 date: 2017-10-25 05:00:00 +0000
 ---
 
-The osu! Coffee Hour returns this week to focus on something dear to many players' hearts - **tournaments**. We'll be sitting down and covering some details on the current community tournament scene, and also the upcoming *osu! World Cup*. Have your questions about osu!'s tournament scene answered, featuring [**deadbeat**](https://osu.ppy.sh/u/128370), [**Toy**](https://osu.ppy.sh/u/2757689), [**Yazzehh**](https://osu.ppy.sh/u/7068973) and [**Loctav**](https://osu.ppy.sh/u/71366)!
+The osu! Coffee Hour returns this week to focus on something dear to many players' hearts - **tournaments**. We'll be sitting down and covering some details on the current community tournament scene, and also the upcoming *osu! World Cup*. Have your questions about osu!'s tournament scene answered, featuring [**deadbeat**](https://osu.ppy.sh/users/128370), [**Toy**](https://osu.ppy.sh/users/2757689), [**Yazzehh**](https://osu.ppy.sh/users/7068973) and [**Loctav**](https://osu.ppy.sh/users/71366)!
 
 [![](/wiki/shared/news/banners/coffee-hour.jpg)](http://itsalmo.st/#tournamenttalktime)
 
@@ -12,7 +12,7 @@ The osu! Coffee Hour returns this week to focus on something dear to many player
 
 This week's discussion topic is **the tournament scene**, ranging from player-run community tournaments, all the way to the big-name, official *osu! World Cups*.
 
-Joining me ([HappyStick](https://osu.ppy.sh/u/256802)) in this week's session will be [**Loctav**](https://osu.ppy.sh/u/71366) and [**deadbeat**](https://osu.ppy.sh/u/128370) from the osu!team, tournament victor extraordinaire [**Toy**](https://osu.ppy.sh/u/2757689), and one of the most involved referees in the community tournament scene, [**Yazzehh**](https://osu.ppy.sh/u/7068973).
+Joining me ([HappyStick](https://osu.ppy.sh/users/256802)) in this week's session will be [**Loctav**](https://osu.ppy.sh/users/71366) and [**deadbeat**](https://osu.ppy.sh/users/128370) from the osu!team, tournament victor extraordinaire [**Toy**](https://osu.ppy.sh/users/2757689), and one of the most involved referees in the community tournament scene, [**Yazzehh**](https://osu.ppy.sh/users/7068973).
 
 ## Questions?
 

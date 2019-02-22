@@ -3,7 +3,7 @@
 This article is a how-to on making good sliders.
 In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
-From [Ephemeral](https://osu.ppy.sh/u/102335),
+From [Ephemeral](https://osu.ppy.sh/users/102335),
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will center itself in the slider end and will make attaining passable curves much easier to accomplish.
   Also, doing this makes reverse selection on sliders not fuck them up.
   Which is a good thing.
@@ -43,7 +43,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-_See also [../Formations/#blanket-combos]._
+*Main page: [Blanket Combos](../Formations/#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 
@@ -55,7 +55,7 @@ Keep in mind that if you want a slider to blanket **and** be perfectly symmetric
 
 ---
 
-From [Gonzvlo](https://osu.ppy.sh/u/237733),
+From [Gonzvlo](https://osu.ppy.sh/users/237733),
 > as a variation of beat blankets, sometimes I use a spinner to make nice circles.
 
 ![Image example of beat blankets (with spinner)](img/MGS_blankets2.png)
@@ -128,7 +128,7 @@ Then grab the endpoint of the first slider and pull it back to the length you wa
 ---
 
 See how it's asymmetrical and ugly?
-Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind. 
+Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind.
 
 ![How to make hearts step 4](img/MGS_hearts4.png)
 

@@ -13,7 +13,7 @@ Moving from the fast-paced and catchy music of Lapfoxx Track, we are moving over
 
 
 <audio controls>
-  <source src="http://puu.sh/ilirp/f8f3472bf6.mp3" type="audio/mpeg">
+  <source src="https://puu.sh/ilirp/f8f3472bf6.mp3" type="audio/mpeg">
 </audio>
 
 ## What are the prizes?

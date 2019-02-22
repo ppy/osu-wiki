@@ -3,8 +3,6 @@
 
 # Interface
 
-*Main page: [Skinning](/wiki/Skinning).*
-
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
@@ -177,7 +175,7 @@ Notes:
 
 ## Mod icons
 
-*See also: [Game Modifiers](/wiki/Game_Modifiers).*
+*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
 
 ---
 
@@ -549,7 +547,7 @@ Notes:
 
 ## Offset wizard
 
-*See also: [Offset Wizard](/wiki/Offset_Wizard).*
+*Main page: [Offset Wizard](/wiki/Offset_Wizard)*
 
 ---
 
@@ -780,7 +778,7 @@ Notes:
 
 ### Hit bursts
 
-*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy).*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
 
 ---
 

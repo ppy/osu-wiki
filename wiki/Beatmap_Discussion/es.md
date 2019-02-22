@@ -10,7 +10,7 @@ Los nuevos beatmaps enviados a través del sistema de envío de Beatmaps utiliza
 
 ### Viejos beatmaps
 
-Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
+Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](https://osu.ppy.sh/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
 
 ### Volviendo al antiguo sistema de modding
 
@@ -216,6 +216,6 @@ La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema ant
 
 ## Ver también
 
-- Hilo original del foro: [Guía de discusión de Modding (MV2)](/community/forums/topics/650961) por [Lanturn](/users/1446665)
-- Video de [pishifat](/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/forum/t/662559)
+- Hilo original del foro: [Guía de discusión de Modding (MV2)](https://osu.ppy.sh/community/forums/topics/650961) por [Lanturn](https://osu.ppy.sh/users/1446665)
+- Video de [pishifat](https://osu.ppy.sh/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/community/forums/topics/662559)

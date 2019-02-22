@@ -6,7 +6,7 @@ date: 2018-06-13 23:00:00 +0000
 
 An upcoming public Quality Assurance Team meeting, the arrival of Beatmap Nominator Badges, and a brand new QAT Leader are in the focus this month! Another month’s worth of your osu! mapping and modding news is right here!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 by [JBHyperion](https://osu.ppy.sh/users/4879508)

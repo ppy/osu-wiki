@@ -8,11 +8,6 @@
 [osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
-[Mouse icon]: /wiki/shared/Playstyles_M.png "Mouse"
-[Keyboard icon]: /wiki/shared/Playstyles_K.png "Keyboard"
-[Tablet icon]: /wiki/shared/Playstyles_T.png "Tablet"
-[Touchscreen icon]: /wiki/shared/Playstyles_TC.png "Touchscreen"
-
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
 
 # Estilos de Juego
@@ -21,7 +16,7 @@ En esta página puedes conocer las diferentes formas en las que se puede jugar e
 
 ## ![osu! icon][osu! icon link] osu!
 
-### ![Mouse][Mouse icon] Solo con el ratón
+### Solo con el ratón
 
 Tiempo atrás, únicamente existía la opción de jugar solo con el ratón, hasta que se incluyeron nuevas formas de jugar.
 
@@ -30,15 +25,15 @@ Jugar solo con el ratón es considerado uno de los estilos más complicados y lo
 
 En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y `M2` respectivamente.
 
-### ![Mouse][Mouse icon] ![Mouse][Mouse icon] Con dos ratones
+### Con dos ratones
 
 Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para hacer clic y otro para mover el cursor por la pantalla.
 
-Se consideraba un estilo de juego _ridículo_ hasta que ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](http://osu.ppy.sh/s/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
+Se consideraba un estilo de juego _ridículo_ hasta que ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
 
 Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
-### ![Mouse][Mouse icon] ![Keyboard][Keyboard icon] Con teclado y ratón
+### Con teclado y ratón
 
 El estilo de juego más habitual es jugar con ratón y teclado. Los jugadores que lo usan pueden mover el cursor con el ratón y utilizar la otra mano para _hacer clic_ utilizando las teclas `Z` y `X` (pueden cambiarse en las opciones) del teclado.
 
@@ -46,7 +41,7 @@ Algunos jugadores usan el teclado solo cuando tienen que hacer un _stream_, un p
 
 En pantalla, las pulsaciones del teclado se muestran como `K1` y `K2`.
 
-### ![Tablet][Tablet icon] Solo con tableta gráfica
+### Solo con tableta gráfica
 
 ![osu!tablet][osu!tablet image]
 
@@ -58,7 +53,7 @@ Los jugadores que juegan solo con tableta utilizan el lápiz de la tableta para 
 
 Todas las pulsaciones de la tableta se muestran en pantalla como `M1`.
 
-### ![Tablet][Tablet icon] ![Keyboard][Keyboard icon] Con tableta gráfica y teclado
+### Con tableta gráfica y teclado
 
 El estilo de juego más popular para jugadores que usan una tableta gráfica.
 
@@ -66,16 +61,16 @@ Consiste en utilizar el lápiz de la tableta en lugar de un ratón para mover el
 
 Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado para los _stream_, los patrones de notas rápidas y muy seguidas; y continúan usando el lápiz sobre la superficie de la tableta para el resto del beatmap.
 
-### ![Touchscreen][Touchscreen icon] Con una pantalla táctil
+### Con una pantalla táctil
 
 Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 
-Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
+Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor.
 Este estilo de juego puede parecerse a jugar a [osu!stream](/wiki/Game_Modes/External_Ports/osu!stream).
 
 Todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
-### ![Touchscreen][Touchscreen icon] ![Keyboard][Keyboard icon] Con pantalla táctil y teclado
+### Con pantalla táctil y teclado
 
 Un jugador que juegue con pantalla táctil puede utilizar también un teclado, normalmente para realizar patrones de notas muy rápidas.
 Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndose un estilo de juego muy similar al de tableta y teclado.
@@ -86,13 +81,13 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
 - **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para _hacer clic_.
 A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
-- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/u/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
+- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 
-### ![Keyboard][Keyboard icon] Teclado
+### Teclado
 
-Antaño, solo se podía jugar a osu!taiko con teclado, pero ahora hay varias opciones. 
+Antaño, solo se podía jugar a osu!taiko con teclado, pero ahora hay varias opciones.
 
 El jugador utiliza las teclas asignadas para tocar sobre el tambor, por defecto: `X` y `C` para tocar las notas rojas del centro del tambor, también conocidas como "Don"; y `Z` y `V` para tocar las notas azules del borde del tambor, también conocidas como "Katsu" o "Kat".
 
@@ -102,17 +97,17 @@ Hay otras combinaciones, pero estas dos son las principales y cada una tiene sus
 ### Tambor de Taiko
 
 El tambor de la saga de juegos [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin).
-Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano. 
+Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano.
 Se golpea el aro del tambor para las notas azules (Katsu o Kat) y el interior del tambor para las notas rojas (Don).
 La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad de un cable USB.
 
 ### Otros estilos
 
-- **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin. 
+- **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin.
 
 ## ![osu!catch][osu!catch icon link] osu!catch
 
-### ![Keyboard][Keyboard icon] Teclado
+### Teclado
 
 El estilo de juego por defecto y el más usado.
 
@@ -121,7 +116,7 @@ Es posible cambiar las teclas en las opciones, siendo habitual el uso de `A` y `
 
 En pantalla, se muestra `L`/`R` para las pulsaciones `<-` y `->` respectivamente, y `D` para las pulsaciones de `leftShift`
 
-#### ![Keyboard][Keyboard icon] ![Mouse][Mouse icon] Teclado y ratón
+#### Teclado y ratón
 
 Una alternativa en la que se usa el clic del ratón para activar el _Dash_.
 
@@ -137,7 +132,7 @@ Quienes se sientan cómodos con un mando de consola pueden utilizar las flechas 
 
 ## ![osu!mania][osu!mania icon link] osu!mania
 
-### ![Keyboard][Keyboard icon] Teclado
+### Teclado
 
 [Guía externa para teclados mecánicos (en inglés)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
@@ -145,7 +140,7 @@ El teclado fue una vez la única manera de jugar a osu!mania hasta que otros mé
 
 Los jugadores asignan las teclas que prefieran en el menú de opciones, que varían en función del número de teclas.
 
-Puede ser utilizado para cualquier número de teclas, así que puede resultar muy cómodo usar un teclado, aunque tiene sus desventajas. 
+Puede ser utilizado para cualquier número de teclas, así que puede resultar muy cómodo usar un teclado, aunque tiene sus desventajas.
 
 ### Controlador de DJMAX/O2Jam/Beatmania IIDX/etc.
 
@@ -155,4 +150,4 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 
 - **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
 - **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
-- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad. 
+- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.

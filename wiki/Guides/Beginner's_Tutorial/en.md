@@ -6,7 +6,7 @@ Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very
 Types of Input
 --------------
 
-*See also [Play Styles](/wiki/Play_Styles).*
+*Main page: [Play Styles](/wiki/Play_Styles)*
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
@@ -88,7 +88,7 @@ Getting more out of Gameplay
 
 ### Global Offset
 
-*See also [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).*
+*Main page: [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard)*
 
 Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
@@ -100,15 +100,15 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 ### Raw Input
 
-*See also [Options](/wiki/Options/#mouse).*
+*See also: [Options](/wiki/Options/#mouse)*
 
 A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 
 ### Skins
 
-*See also [Skinning](/wiki/Skinning/).*
+*See also: [Skinning](/wiki/Skinning)*
 
-There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/forum/t/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
+There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/community/forums/topics/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
 
 ## Beginner Maps
 
@@ -118,38 +118,38 @@ Try giving these maps a go. They are ordered from the easiest to the most diffic
 
 You can begin your adventure with these maps!
 
--   [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/b/57281)(0.83 Stars)
--   [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/b/67008)(0.99 Stars)
--   [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/b/250553)(1.00 Stars)
--   [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/b/191008)(1.03 Stars)
--   [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/b/220650)(1.05 Stars)
--   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/b/158917)(1.08 Stars)
--   [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/b/74686)(1.09 Stars)
--   [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/b/240979)(1.10 Stars)
--   [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/b/49478)(1.11 Stars)
--   [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/b/404645)(1.13 Stars)
--   [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/b/397975)(1.14 Stars)
+-   [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Stars)
+-   [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Stars)
+-   [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Stars)
+-   [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Stars)
+-   [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Stars)
+-   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Stars)
+-   [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmaps/74686)(1.09 Stars)
+-   [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmaps/240979)(1.10 Stars)
+-   [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmaps/49478)(1.11 Stars)
+-   [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmaps/404645)(1.13 Stars)
+-   [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmaps/397975)(1.14 Stars)
 
 ### Novice
 
 After you play a bit, try these maps out.
 
--   [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/b/124348)(1.21 Stars)
--   [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/b/177139)(1.22 Stars)
--   [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/b/141749)(1.25 Stars)
--   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/b/186601)(1.28 Stars)
--   [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/b/132838)(1.28 Stars)
--   [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/b/163457)(1.28 Stars)
+-   [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmaps/124348)(1.21 Stars)
+-   [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmaps/177139)(1.22 Stars)
+-   [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmaps/141749)(1.25 Stars)
+-   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmaps/186601)(1.28 Stars)
+-   [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmaps/132838)(1.28 Stars)
+-   [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmaps/163457)(1.28 Stars)
 
 ### Challenge
 
 Want to push yourself and take on a challenge? Try these!
 
--   [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/b/96042)(1.32 Stars)
--   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/b/230174)(1.36 Stars)
--   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/b/172736)(1.36 Stars)
--   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/b/368307)(1.45 Stars)
--   [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/b/318994)(1.46 Stars)
+-   [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmaps/96042)(1.32 Stars)
+-   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmaps/230174)(1.36 Stars)
+-   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmaps/172736)(1.36 Stars)
+-   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmaps/368307)(1.45 Stars)
+-   [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmaps/318994)(1.46 Stars)
 
 ## Going Beyond
 

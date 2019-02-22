@@ -1,6 +1,6 @@
 # How you can help!
 
-_This is a post that [peppy](/users/2 "peppy") made some time ago and requested to make it an article here. [You can see the original post here](/community/forums/topics/83155)._
+_This is a post that [peppy](https://osu.ppy.sh/users/2 "peppy") made some time ago and requested to make it an article here. [You can see the original post here](https://osu.ppy.sh/community/forums/topics/83155)._
 
 I've been wanting to make a post about this for a while, but have been holding off while I get things in place on the site and in my head. As you are probably aware, the osu! community and ecosystem is growing at a constant rate, but the team hasn't grown in size at all. I'm sure with a community this big, we have a lot of hidden talent out there, so the idea of this post is to reach out and tell you all that we are always looking for help and input, as well as outlining the current areas where you can immediately jump in and help out!
 
@@ -35,7 +35,7 @@ Every day I try to take care of any outstanding tech support questions, but a lo
 
 ### Where to start:
 
--   Choose a forum: [Technical Support](/community/forums/5), [Beatmapping Help](/community/forums/56), [Storyboarding](/community/forums/20) or [Gameplay and Rankings](/community/forums/13) based on what you find most interesting.
+-   Choose a forum: [Technical Support](https://osu.ppy.sh/community/forums/5), [Beatmapping Help](https://osu.ppy.sh/community/forums/56), [Storyboarding](https://osu.ppy.sh/community/forums/20) or [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13) based on what you find most interesting.
 -   Mark the forum as read using the link at the top-right.
 -   Follow any new threads, reading each one and helping out where you can. You can use the unread icons to make sure you keep up!
 -   Read the [available guides](/wiki/List_of_Guides "List of Guides") and polish up on your osu! knowledge. Hell, contribute to the guides if you can!
@@ -51,7 +51,7 @@ While we have set teams that handle the approval process, there's nothing stoppi
 -   Read the [Modding Guide](/wiki/Modding "Modding") and learn the basics of more technical modding.
 -   Read the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") and become familiar with what makes a map rankable.
 -   Join `#modhelp` and `#modreqs` on in-game chat and join in the conversation (or just follow along).
--   If you have the time and dedication, making a [Modding Queue](/community/forums/60) thread and have people start coming to you with requests.
+-   If you have the time and dedication, making a [Modding Queue](https://osu.ppy.sh/community/forums/60) thread and have people start coming to you with requests.
 
 ## Join some user-run projects and contribute to making them happen (or making them better if they are already actively running)!
 
@@ -59,17 +59,17 @@ There are quite a few proposals or projects in action, including tournaments, la
 
 ### Where to start:
 
--   Browse the [tournaments](/community/forums/55) forum. Tournaments take a lot of man-power to organise and to make happen without hitches, and you can help out by just sitting in as a spectator judge for matches in some cases.
--   Check what's going on in [General Development](/community/forums/2). This is a low activity forum where more [serious](/community/forums/topics/58855) [projects](/community/forums/topics/80027) [happen](/community/forums/topics/79354).
--   Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
+-   Browse the [tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot of man-power to organise and to make happen without hitches, and you can help out by just sitting in as a spectator judge for matches in some cases.
+-   Check what's going on in [General Development](https://osu.ppy.sh/community/forums/2). This is a low activity forum where more [serious](https://osu.ppy.sh/community/forums/topics/58855) [projects](https://osu.ppy.sh/community/forums/topics/80027) [happen](https://osu.ppy.sh/community/forums/topics/79354).
+-   Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
 -   Start your own project! If you have a cool idea, then give it a shot. If you need some kind of input from me, don't hesitate to ask (though I prefer helping when I don't need to dedicate too much time).
--   Bring the [osu!monthly](/community/forums/topics/75017) back to life, I miss it :(.
+-   Bring the [osu!monthly](https://osu.ppy.sh/community/forums/topics/75017) back to life, I miss it :(.
 
 and last, but most definitely not least:
 
 ## Avoid being negative! Make people happy!
 
-Every day I see negativity on osu!. People complaining about each other, people complaining about cheaters or "rank farmers". People seeing change and whining about it. While I think we do better than a lot of other online communities out there — that drop to levels of throwing insults at each other all day long (hi youtube!) — there is still room for improvement.
+Every day I see negativity on osu!. People complaining about each other, people complaining about cheaters or "rank farmers". People seeing change and whining about it. While I think we do better than a lot of other online communities out there — that drop to levels of throwing insults at each other all day long (hi YouTube!) — there is still room for improvement.
 
 ### Where to start:
 

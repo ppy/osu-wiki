@@ -76,7 +76,7 @@ Song Setup
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/s/1208)的例子。
+大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
 
 可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
@@ -187,25 +187,25 @@ Approach Rate通常缩写为"**AR**"。
 
 **Widescreen Support**
 
-`   - 加对宽屏的支持`
+`   - 加对宽屏的支持`
 
 **Display storyboard in front of combo file**
 
-`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
+`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
 
 **Display epilespy warning(Storyboard has <abbr title="为了表达震撼感，会采用背景闪烁不同颜色光的技术。在每秒24个画面的速度下，每1～2个单位时间反覆不同画面。青少年眼睛的比大人更敏感。加上儿童大多喜欢不眨眼地盯著屏幕看，而红光跟蓝光（最为刺激人眼）快速切换的速率又高达1/12秒一次，于是在观看画面的同时，视神经受到强烈刺激，影响到脑部的控制，轻则不舒服，重则会昏厥或痉挛,这些现象在医学上被称为急性光过敏症，也称为光敏感性癫痫症。">quick strobing</abbr>)**
 
-`   - 在开始前提示Storyboard会有令人不适的闪烁`
+`   - 在开始前提示Storyboard会有令人不适的闪烁`
 
 **Letterbox during breaks**
 
-`   - 在休息的时候用黑色边框将背景图像围起来。`
+`   - 在休息的时候用黑色边框将背景图像围起来。`
 
 ### 谱面皮肤设定(Skinning)
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
-这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmaps/41820).
 
 ![点击打开图像](img/SS_Skin_eg.jpg)
 

@@ -3,7 +3,7 @@ Objects
 
 ![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
-*For Objects in [osu!](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see [Hit Objects](/wiki/Hit_Objects).*
+*For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
 
 In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 

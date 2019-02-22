@@ -1,7 +1,7 @@
 Music Theory
 ===============
 
-[Original guide by ziin](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
+[Original guide by ziin](https://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
 
 Osu! is primarily a music game, and beatmaps are usually created with the idea that they fit the music, rather than fitting a certain BPM. In this short essay I will be discussing music theory as it applies to an osu! beatmap, as well as explaining why certain things sound bad (at least to me). In no way can the matters discussed even be considered “guidelines”. Instead, think of it as theory. Most of the time they will apply to some parts of songs, but there are many exceptions. Everything I say here is personal opinion based upon 12+ years of concert band experience or taken directly from Wikipedia. It can’t be applied to all forms of music, especially avant garde stuff and most Touhou music (so, half of osu?)
 

@@ -10,7 +10,7 @@ If there's one thing that sets osu! apart from other communities, it's the amoun
 
 ## This week's theme
 
-We're dedicating our first Gamemode History to osu!catch, the third gamemode to join the osu! ranks all the way back in late 2008, meaning there's a lot to cover! Joining me ([HappyStick](https://osu.ppy.sh/u/HappyStick)) this Friday will be [JBHyperion](https://osu.ppy.sh/u/jbhyperion), and [Sartan](https://osu.ppy.sh/u/Sartan).
+We're dedicating our first Gamemode History to osu!catch, the third gamemode to join the osu! ranks all the way back in late 2008, meaning there's a lot to cover! Joining me ([HappyStick](https://osu.ppy.sh/users/HappyStick)) this Friday will be [JBHyperion](https://osu.ppy.sh/users/jbhyperion), and [Sartan](https://osu.ppy.sh/users/Sartan).
 
 JBHyperion is a prominent osu!catch mapper and modder, active since February 2015, and is both a former Beatmap Nominator and current member of the Quality Assurance Team for osu!catch. He has created and contributed to a number of mapping and modding related resources, including the Community Mentorship Program and the osu!catch Ranking Criteria, as well as modding guides and other statistical tools.
 
@@ -20,7 +20,7 @@ We'd like to instill osu!catch players with a sense of pride and deeper understa
 
 ## Questions?
 
-As per usual, **we're looking for your questions!** 
+As per usual, **we're looking for your questions!**
 
 If you have questions for either JBHyperion or Sartan regarding osu!catch, or suggestions for specific osu!catch moments over the years that you want to hear more about, let us know below!
 

@@ -19,6 +19,7 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | File Name | Locale Name | Native Script |
 | --- | --- | --- |
 | `en.md` | English | English |
+| `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
@@ -33,11 +34,13 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
 | `nl.md` | Dutch | Nederlands |
+| `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
 | `pt.md` | Portuguese | Português |
 | `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
+| `sk.md` | Slovak | Slovenčina |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
@@ -233,7 +236,7 @@ See also hatnotes are used to suggest a reader other points of interest from a g
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
 
-Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. 
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap.
 ```
 
 #### For see
@@ -463,8 +466,8 @@ When linking to a user profile, you must use the user's id number instead of the
 ```md
 Do not:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111 "Andrea")
-[Agent Spin Here](/users/Agent%20Spin%20Here)
-[peppy](/users/peppy)
+[Agent Spin Here](https://osu.ppy.sh/users/Agent%20Spin%20Here)
+[peppy](https://osu.ppy.sh/users/peppy)
 
 Do (okay):
 [osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")
@@ -473,7 +476,7 @@ Do (okay):
 Do (preferred):
 [Andrea](https://osu.ppy.sh/users/33599)
 [Mashley](https://osu.ppy.sh/users/41481)
-[peppy](/users/2)
+[peppy](https://osu.ppy.sh/users/2)
 ```
 
 Whenever possible, with exception, use the current user's name instead of their previous name(s).
@@ -637,16 +640,16 @@ Never use image links! Image links are links with the image as the link text. On
 Flag icons next to userlinks must be separate from the username. For example:
 
 ```md
-Do not: [![][flag_AU] peppy](/users/2)
+Do not: [![][flag_AU] peppy](https://osu.ppy.sh/users/2)
 
-Do:     ![][flag_AU] [peppy](/users/2)
+Do:     ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 ```
 
 #### Flag icons
 
 *For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
 
-All of the flag icons use the two letter code (in all capital letters) and ends with `.gif`. With a few exceptions being the multi-flag icons which are in the PNG format. When adding a flag inline, use this format:
+All of the flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
 ```md
 ![](/wiki/shared/flag/xx.gif)
@@ -743,11 +746,15 @@ The name of the game, osu!, is never capitalised nor italicised. The osu! offici
 Other brandings that are not covered by the osu! official branding must use spaces. Examples include:
 
 - `osu! tournaments`
-- `osu! alumni`
 - `osu! community`
 - `osu! chat`
 - `osu! client`
 - `osu! wiki`
+
+User titles that include `osu!` as part of the title name must be capitalised. Examples include:
+
+- `osu! Alumni`
+- `osu! Champion`
 
 ---
 
@@ -888,6 +895,7 @@ These words are spelt as follows (note the spacing):
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` or `Beatmap Nomination Group`.
 - Use `sign in` instead of `log in`.
 - Use `sign out` instead of `log out`.
+- Use `register` instead of `sign up`.
 
 ### Abbreviations, acronyms, and initialisms
 

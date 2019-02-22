@@ -8,7 +8,7 @@ Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiad
 - [Instalacja](/wiki/Installation)
 - [Zasady](/wiki/Rules)
 - [Najczęściej zadawane pytania](/wiki/FAQ)
-- Tryby gry
+- [Tryby gry](/wiki/Game_Modes)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

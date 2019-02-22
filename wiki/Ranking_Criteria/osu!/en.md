@@ -1,11 +1,9 @@
-osu! 
+osu!
 ======
-
-_Main page: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/forum/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
 Glossary
 --------
@@ -18,7 +16,7 @@ Glossary
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
-Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
+Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming methods.
 
 - **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
 - **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
@@ -83,7 +81,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 ### Skinning
 
-#### Rules 
+#### Rules
 
 -   **Spinner circles and their centers must be clearly visible and exactly centered.** This is to ensure that players have a visible aid to help them spin consistently, as well as a visual reference point to spin around.
 -   **Hit100 and hit300 must be different from corresponding geki and katu skin elements.** Hit300g, hit300k, and hit100k indicate if players perfectly hit all 300 in a combo.
@@ -93,7 +91,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 
 #### Guidelines
 
--   **Usage of the old style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the colour of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of the beatmap.
+-   **Usage of the new style spinners is not recommended.** It can be only used with Preferred Skin set to Default. Skins using SpinnerBackground will change the colour of spinner-background.png and that could negatively change spinner's appearance. This setting does not work via editing the `[Colours]` column in the `.osu` file of the beatmap.
 
 ## Difficulty-specific
 
@@ -148,9 +146,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it should follow these guidelines in addition to the ones above
 -  **Avoid more than three actively clicked 1/2 rhythms in a row.**
--  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures. 
--  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders. 
--  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable. 
+-  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
+-  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
+-  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
 -  **Avoid slider velocity above 1.3x.**
 
 #### Difficulty Setting Guidelines
@@ -162,7 +160,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 
 #### Rules
 
--  **Objects 1/2 of a beat apart or less must not overlap perfectly.**
+-  **Objects 1/2 of a beat apart or less must not overlap perfectly.** Slider heads or tails perfectly overlapped by slider tails are exempt, so long as their sliderbodies are visible.
 
 #### Guidelines
 

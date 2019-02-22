@@ -1,22 +1,22 @@
 # Live Streaming osu!
 
-If you are visiting this page, it is likely you have an interest and want to learn how to live stream osu! on twitch.tv. Doing so is a very simple process but may require a reliable computer to be able to run both osu! and send live encoding to [twitch.tv](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
+If you are visiting this page, it is likely you have an interest and want to learn how to live stream osu! on Twitch. Doing so is a very simple process but may require a reliable computer to be able to run both osu! and send live encoding to [Twitch](https://www.twitch.tv) (which from now on will be referred to as TTV) at the same time.
 
 ## Step 1 - Registration
 
-![Registration Steps for Twitch.tv](img/TTV_RegistrationSteps.jpg "Registration Steps for Twitch.tv")
+![Registration Steps for Twitch](img/TTV_RegistrationSteps.jpg "Registration Steps for Twitch")
 
-1.  Registering for an account for TTV is very easy, just head to the website [twitch.tv](https://www.twitch.tv) and click on the `Sign Up` button in the top right corner.
+1.  Registering for an account for TTV is very easy, just head to the website [Twitch](https://www.twitch.tv) and click on the `Sign Up` button in the top right corner.
 2.  Afterwards, fill in the fields.
 3.  You will get an account activation link via e-mail.
 4.  Once you are done, your channel will be at `www.twitch.tv/{username}` (username being your chosen username).
 
-## Step 2 - Prepare twitch.tv for streaming
+## Step 2 - Prepare Twitch for streaming
 
-Twitch.tv is a gaming community, and as such, there will be *a lot* of gaming libraries to select from. However, you only need to worry about finding osu! since that is what this guide is about.
+Twitch is a gaming community, and as such, there will be *a lot* of gaming libraries to select from. However, you only need to worry about finding osu! since that is what this guide is about.
 ![Channel Setup](img/TTV_ChannelSetup.jpg "Channel Setup")
 
-1.  Once you have logged in, click on your username at the top right corner.
+1.  Once you have signed in, click on your username at the top right corner.
 2.  Click on `Dashboard` from the drop-down list.
 3.  Input the title and click on the icon where it says `Not Playing` to change into `Playing` then type "osu!". A list of games with similar names should appear, the one you want is osu!
 
@@ -48,7 +48,7 @@ Once you are done with that, you are ready to start streaming if you want. There
 #### Installation
 
 To get started with XSplit, head to their website: https://www.xsplit.com/
-Register and download the program. Once you have logged in you will be in a window that looks like this:
+Register and download the program. Once you have signed in you will be in a window that looks like this:
 
 ![XSplit main menu](img/Xsplit_main.png "Xsplit main menu")
 
@@ -61,7 +61,7 @@ For example, you could have an AFK scene to let viewers know that you are AFK...
 
 ![XSplit final capture](img/Xsplit_final_capture.png "Xsplit final capture")
 
-Afterwards, you will have to connect your XSplit account with your twitch.tv account. Click on `Broadcast` then `Edit Channels...``
+Afterwards, you will have to connect your XSplit account with your Twitch account. Click on `Broadcast` then `Edit Channels...``
 
 On the window that appears click on `Add` then click on `Justin/Twitch.tv`. Now you should see this:
 
@@ -85,7 +85,7 @@ Once you are done with the settings, go ahead and go back to the main window, si
 
 On the main window, click on `View`. Here you can set different options, these options only affect what the viewers see, not what you see.
 
--   **Resolution** - This is the size of the frames that will be sent to twitch.tv. The higher the resolution, the more stress on your PC but better quality for your viewers. For twitch.tv to use the whole screen, the `Resolution` you set must be a widescreen (16:9).
+-   **Resolution** - This is the size of the frames that will be sent to Twitch. The higher the resolution, the more stress on your PC but better quality for your viewers. For Twitch to use the whole screen, the `Resolution` you set must be a widescreen (16:9).
 -   **Frame Rate** - The rate that you upload frames to the server. Again, the higher this value, the more stress on your PC and the smoother the stream for your viewers.
 -   **Transition** - If you use multiple scenes, transition is what to use when you switch scenes.
 -   **Projector** - Choose which screen to project on.
@@ -120,9 +120,9 @@ On the main window, click on `View`. Here you can set different options, these o
 
 To get started with OBS, head to their website [OBS](https://obsproject.com/) and download the program. The first time you start OBS, it will likely update on language files and shaders. Allow the update. Then, you will be directed to the Main Menu as shown above.
 
-#### Setting up twitch.tv in OBS
+#### Setting up Twitch in OBS
 
-Go to twitch.tv and log in. Navigate to your dashboard and locate the `Stream Key`. Click on the `Show Key` button and copy the key.
+Go to Twitch and sign in. Navigate to your dashboard and locate the `Stream Key`. Click on the `Show Key` button and copy the key.
 
 ![Getting your Stream Key on Twitch](img/OBS_GetTwitchKey.jpg "Getting your Stream Key on Twitch")
 
@@ -145,7 +145,7 @@ This will be a guide to all the setting pages, explaining the important settings
 
 **Encoding**
 
--   `Use CBR`: Has to be checked for using OBS with twitch!
+-   `Use CBR`: Has to be checked for using OBS with Twitch!
 -   `Enable CBR padding`: If you want to be able to change your bitrate while streaming, disable it.
 -   `Quality Balance` is disabled due to Constant Bit Rate (CBR).
 -   `Use Custom Buffer Size`: Unless you have a stable internet connection and a decent PC, you should leave it turned off.
@@ -153,10 +153,10 @@ This will be a guide to all the setting pages, explaining the important settings
 
 Some standard bitrate-resolution recommendations (for 30fps):
 
--   360p (640 x 360) — Minimum: 400kbps — Recommended: 750kbps
--   480p (854x480) — Minimum: 500kbps — Recommended: 1,000kbps
--   720p (1280x720) — Minimum: 1,500kbps — Recommended: 2,500kbps
--   1080p (1920x1080) — Minimum: 3,000kbps — Recommended: 4,500kbps
+-   360p (640 x 360) — Minimum: 400kbps — Recommended: 750kbps
+-   480p (854x480) — Minimum: 500kbps — Recommended: 1,000kbps
+-   720p (1280x720) — Minimum: 1,500kbps — Recommended: 2,500kbps
+-   1080p (1920x1080) — Minimum: 3,000kbps — Recommended: 4,500kbps
 
 For a higher framerate, adjust accordingly.
 
@@ -180,8 +180,8 @@ For a higher framerate, adjust accordingly.
 -   `Use Multithreaded Optimizations`: If you have a multicore processor (usually high-end PC), it is a should be enabled!
 -   `Process Priority`:  Leave it normal, unless you know what it does! On lower-end machines, it can be changed to above normal. You can do this to osu!, but it is not recommended.
 -   `x264 CPU Preset`: Best setting to experiment with when you have problems with the CPU usage! Set it to `superfast` to lower the usage for some quality loss. \*\*Otherwise, do not touch and leave it at `veryfast`.
--   `x264 Encoding Profile`: **Must** be changed to `main` for twitch.tv use!
--   `Keyframe Interval`: **Must** be changed to `2` for twitch.tv use! (FYI: Youtube also needs this at 2)
+-   `x264 Encoding Profile`: **Must** be changed to `main` for Twitch use!
+-   `Keyframe Interval`: **Must** be changed to `2` for Twitch use! (FYI: YouTube also needs this at 2)
 
 If you experience a motion-audio-shift in your stream, play around with the `Global Audio Time Offset`. Mostly happens only when you using a PCI-E sound card!
 
@@ -210,11 +210,11 @@ Everything from here on is not as detailed and pictured as the basic one. It is 
 -   How to use the `Edit Scene` mode
 -   Where to find settings
 
-##### Insert your twitch.tv chat in the Scene
+##### Insert your Twitch chat in the Scene
 
 The basic idea here is, that if spectators are watching your stream in fullscreen, they are unable to follow the chat. So why not include it in your stream? Also, if you watch the video later and maybe have an audio commentary by yourself, you still know what you are referring to. If you are playing osu! in fullscreen, this method will requires you to use a 2nd monitor connected with it! If the Colour Key step does not work properly for you, try using the BetterTTV plugin and going to the gear icon in chat, and hit Black Chat. Chat must be popped out for this option to show.
 
-1.  Pop out the twitch.tv chat
+1.  Pop out the Twitch chat
 2.  `Add a Source` > `Window Capture`
 3.  Choose the popped Twitch Chat, Inner Window
 4.  Disable `Capture Cursor`
@@ -222,9 +222,9 @@ The basic idea here is, that if spectators are watching your stream in fullscree
 6.  Use Colour Key and select the background of your Twitch chat.
 7.  Approve everything and rearrange your scene.
 
-You might want to add an image behind the captured chat and set its opacity to 50-70 % for better reading.
-There is also the possibility to change the appearance of the twitch chat per browser plugins. (i.e. Stylish for Chrome) This requires only basic HTML/CSS understanding.
-Another possibility is to use a 3rd party IRC Client to connect to the twitch.tv chat and capture that window!
+You might want to add an image behind the captured chat and set its opacity to 50-70 % for better reading.
+There is also the possibility to change the appearance of the Twitch chat per browser plugins. (i.e. Stylish for Chrome) This requires only basic HTML/CSS understanding.
+Another possibility is to use a 3rd party IRC Client to connect to the Twitch chat and capture that window!
 
 ##### Insert the song you are playing
 
@@ -281,7 +281,7 @@ Change `YourPath` to your osu! folder, or any other location you want. Save the 
 
 To get started with OBS MultiPlatform, head to [their website](https://obsproject.com/) and download the program. You will need to choose OBS MultiPlatform on the right for your correct operating system. When installation is complete, you will arrive at the Main Menu as shown above.
 
-Setting up twitch.tv will be the same as OBS Classic.
+Setting up Twitch will be the same as OBS Classic.
 
 #### Setting up a basic scene
 

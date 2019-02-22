@@ -1,7 +1,5 @@
 # Packs
 
-_Main page: [Beatmaps](/wiki/Beatmaps)_
-
 A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
 
 It is worth noting that the most packs are:
@@ -36,7 +34,7 @@ The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](
 
 > Notice: Beatmap torrents seem to have died off within the osu! community.
 
-- [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
+- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478)
+  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.

@@ -33,4 +33,4 @@ Apparenza e funzioni
 Curiosità
 ---------
 
--   [Anonymous](https://osu.ppy.sh/u/1) è l'utente 1, [peppy](https://osu.ppy.sh/u/2) è l'utente 2, [BanchoBot](https://osu.ppy.sh/u/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.
+-   [Anonymous](https://osu.ppy.sh/users/1) è l'utente 1, [peppy](https://osu.ppy.sh/users/2) è l'utente 2, [BanchoBot](https://osu.ppy.sh/users/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.

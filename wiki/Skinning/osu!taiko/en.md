@@ -3,9 +3,7 @@
 
 # osu!taiko
 
-*Main page: [Skinning](/wiki/Skinning).*
-
-*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial).*
+*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial)*
 
 You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
@@ -21,7 +19,7 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 Notes:
 
-- Animation name: `pippidonclear{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonclear{n}.png`.
   - You can only skin up 7 frames (from 0 to 6).
   - If animated, it is recommended to animate all 7 frames. (If not, the last frame will persist for the missing frames in the frame order as stated below.)
   - The animation frame order is `0 1 2 3 4 5 6 5 6 5 4 3 2 1 0`.
@@ -40,7 +38,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonfail{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
 - This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/kiai_time).
@@ -57,7 +55,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonidle{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonidle{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when doing nothing (during breaks or waiting for the player to hit the next note)
 
@@ -73,7 +71,7 @@ Notes:
 
 Notes:
 
-- Animation name: `pippidonkiai{n}.png` (without the hyphen (`-`)).
+- Animation name: `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays during [kiai time](/wiki/kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
@@ -304,7 +302,7 @@ Notes:
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
 - This element is disbaled if the beatmap has a storyboard.
-- Gets upscaled by 1.4x ingame.
+- Gets upscaled by 1.4x in-game.
 
 ---
 
@@ -322,7 +320,7 @@ Notes:
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
 - This element is disbaled if the beatmap has a storyboard.
-- Gets upscaled by 1.4x ingame.
+- Gets upscaled by 1.4x in-game.
 
 ---
 

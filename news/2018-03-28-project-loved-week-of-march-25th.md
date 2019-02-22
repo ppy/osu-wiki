@@ -18,10 +18,10 @@ This week has some awesome picks, so let's jump right in!
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)  
-[osu!catch](#osucatch)  
-[osu!mania](#osumania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -65,7 +65,7 @@ Standing at 400+ favorites, [PantyDev](https://osu.ppy.sh/users/5420543)'s [Say 
 
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-At this point in time, it's likely safe to say that everyone who has played osu! has heard of the [original ranked FREEDOM DiVE map](https://osu.ppy.sh/beatmapsets/39804). Maybe lesser known is [Pikastar](https://osu.ppy.sh/users/412787)'s [rendition](https://osu.ppy.sh/beatmapsets/147210) of the timeless classic from 2014. A full 8-diff set ranging from 1.12\* to 7.77\*, anyone who loves the song but can't quite play the original will have something for them here. 170+ favorites and counting, this map has made its home in the songs folders for top players and new players alike. 
+At this point in time, it's likely safe to say that everyone who has played osu! has heard of the [original ranked FREEDOM DiVE map](https://osu.ppy.sh/beatmapsets/39804). Maybe lesser known is [Pikastar](https://osu.ppy.sh/users/412787)'s [rendition](https://osu.ppy.sh/beatmapsets/147210) of the timeless classic from 2014. A full 8-diff set ranging from 1.12\* to 7.77\*, anyone who loves the song but can't quite play the original will have something for them here. 170+ favorites and counting, this map has made its home in the songs folders for top players and new players alike.
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/the-king-of-lions.jpg)](https://osu.ppy.sh/community/forums/topics/721041)
 

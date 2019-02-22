@@ -6,7 +6,7 @@ date: 2018-09-19 06:00:00 +0000
 
 Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications — all your mapping and modding news from the past month is inside!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 by [JBHyperion](https://osu.ppy.sh/users/4879508)
@@ -42,7 +42,7 @@ Most of this last month's news and developments centered the discussion and outc
 ### QAT September flash-meeting
 The flash-meeting was held in order to follow up on the somewhat unfinished topics of our [public August meeting](https://osu.ppy.sh/community/forums/topics/792022), covering both these and new issues that required our attention.
 
-The most notable discussed topic was the making of a *feature requests listing*, directed at the osu! developers. We brainstormed many quality-of-life implementations that we believe would make our job as QATs a smoother and more productive experience, some of which are listed below: 
+The most notable discussed topic was the making of a *feature requests listing*, directed at the osu! developers. We brainstormed many quality-of-life implementations that we believe would make our job as QATs a smoother and more productive experience, some of which are listed below:
 + Creating a list for a Beatmap Nominators' nominations that were **reset or disqualified**. This would be useful to better monitor and judge each Nominator’s proficiency.
 + Ability for QATs and Global Moderators to **edit posts in beatmap discussions**. This would allow the removal of harmful or off-topic content from discussion posts, whilst retaining useful components.
 + Prevent mappers from being able to **resolve discussions when their beatmaps are in a Qualified state**, as this makes it unnecessarily difficult to keep track of post-qualification modding.

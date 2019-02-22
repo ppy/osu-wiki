@@ -14,8 +14,8 @@ is treated as this:
 
 ```
 _(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
-_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
-_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
+_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
+_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
 ```
 
 where (duration) is equal to ((endtime_of_first) - (starttime_of_first)) (note that "value(s)" can be two numbers, as appropriate for the Move or Vector commands).
@@ -65,7 +65,7 @@ For instance, say you have a bunch of commands on an object that cause it to mov
 Sprite,Pass,Centre,"Sample.png",320,240
 _F,0,1000,,0.5
 _M,0,1000,2000,0,0,320,240
-// ... more M commands
+// ... more M commands
 ```
 
 Doing this multiple times will cause the object to quickly jump between values (i.e., no "Tweening", as enabled in the Storyboard Editor). For instance, this causes the image to jump to being fully opaque halfway through the move command

@@ -20,8 +20,8 @@ tags:
 | 十六强赛 | 2018-10-20/2018-10-21 |
 | 八强赛 | 2018-10-27/2018-10-28 |
 | 半决赛 | 2018-11-03/2018-11-04 |
-| 决赛第一周 | 2018-11-10/2018-11-11 |
-| 决赛第二周 | 2018-11-17/2018-11-18 |
+| 决赛第一周 | 2018-11-10 |
+| 决赛第二周 | 2018-11-18/2018-11-25 |
 
 ## 奖品
 
@@ -37,46 +37,53 @@ tags:
 
 | 团队 | 人员 |
 | :-: | :-- |
-| 比赛经理 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
-| 比赛监督 | ![][CN] [SSV Normandy](/users/6475977) |
-| 图池管理 | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| 直播裁判 | ![][CN] [aiyulu](/users/189617), ![][CN] [Rasis](/users/1209363), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
-| 解说团队 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][CN] [Rasis](/users/1209363), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083) |
-| Wiki | ![][CN] [kj415j45](/users/9367540) |
+| 比赛经理 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 比赛监督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| 图池管理 | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| 直播裁判 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 解说团队 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## 链接
 
-- [论坛帖子](/community/forums/topics/800125)
+- [论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[Rasis](https://live.bilibili.com/5333)（备用）、[kj415j45](https://live.bilibili.com/237250)（备用）
+  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[kj415j45](https://live.bilibili.com/237250)（备用）
   - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
-## 排程：半决赛
+---
 
-以下时间均为 UTC+08 时区。  
-败者组比赛时间以[安排表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj?tab=lj7irx)为准。
+![CMT4K2018 podium](img/podium.png)
 
-### 2018-11-03 星期六
-
-| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
-| :-: | :-: | :-: | :-: |
-| 11:00 | Stink God | vs | zero2snow |
-| 14:00 | C Eru | vs | \[Crz\]Murasame |
-| 17:00 | CaOH2 | vs | Sakaki |
-
-### 2018-11-04 星期日
-
-| 比赛时间 | 蓝方玩家 |  | 红方玩家 |
-| :-: | :-: | :-: | :-: |
-| 11:00 | \[Crz\]Minato | vs | ByeForNow |
-| 15:00 | HDRoop\_7 | vs | cheewee10 |
-| 18:00 | Orangejuice | vs | 704661982 |
+---
 
 ## 图池
+
+### 决赛
+
+**下载完整图池包！（105 MB） - [百度云盘](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google 云端硬盘](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+
+- FreeMod
+  - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+  - [ck - Carnation (ck remix) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [LeaF - Calamity Fortune \[Freedom (240bpm)\]](https://osu.ppy.sh/beatmapsets/866025#mania/1810669)
+  - [Gram VS Camellia - Ragnarok \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [YZYX - Dysnomia \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Casey Lee Williams ft. Jeff Williams - Boop \[RWBYnfinity\]](https://osu.ppy.sh/beatmapsets/696309#mania/1475015)
+  - [Daiki Kasho - 5oul on D!splay (Short Ver.) \[Display\]](https://osu.ppy.sh/beatmapsets/384818#mania/840775)
+  - [Panda Eyes & Teminite - Highscore \[Extra (NSV) (143bpm)\]](https://osu.ppy.sh/beatmapsets/873114#mania/1825054)
+  - [Cyber-Rainforce - Pluto \[Ayumu's firmament\]](https://osu.ppy.sh/beatmapsets/657922#mania/1393518)
+  - [Venetian Snares - Sinthasomphone \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/1823177)
+  - [LeaF - Lyrith \[Amnesia\]](https://osu.ppy.sh/beatmapsets/687280#mania/1463532)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) \[Extreme (Revised)\]](https://osu.ppy.sh/beatmapsets/859797#mania/1821298)
+  - [xi - PEACE BREAKER \[devastation\]](https://osu.ppy.sh/beatmapsets/827204#mania/1733417)
+  - [Camellia - Proluvies \[SVecial\]](https://osu.ppy.sh/beatmapsets/715240#mania/1511192)
+- Tiebreaker
+  - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
 
 ### 半决赛
 
@@ -167,6 +174,34 @@ tags:
 
 ## 比赛结果
 
+### 决赛第二周
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| ByeForNow | 4 | 7 | \[Crz\]Murasame |
+| \[Crz\]Murasame | 0 | 7 | cheewee10 |
+
+### 决赛第一周
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| cheewee10 | 6 | 1 | ByeForNow |
+| Orangejuice | 0 | 0 | HDRoop_7 |
+| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
+
+### 半决赛
+
+| 蓝方选手 |  |  | 红方选手 |
+| --: | :-: | :-: | :-- |
+| **CaOH2** | **6** | 1 | Sakaki |
+| Stink God | 5 | **6** | **zero2snow** |
+| C Eru | 0 | **6** | **\[Crz\]Murasame** |
+| HDRoop\_7 | 0 | **6** | **cheewee10** |
+| **\[Crz\]Murasame** | **6** | 1 | CaOH2 |
+| \[Crz\]Minato | 0 | **6** | **ByeForNow** |
+| **Orangejuice** | **6** | 2 | 704661982 |
+| zero2snow | 0 | **6** | **Orangejuice** |
+
 ### 八强赛
 
 | 蓝方选手 |  |  | 红方选手 |
@@ -255,7 +290,7 @@ tags:
      - 玩家使用汉语作为主要语言。
      - 本次比赛对玩家排名无强制要求。
      - 如果参赛者在过去一年内于 osu!社区 或在比赛中有过不良记录，我们可能会取消其参赛资格。
-3. 报名成功的选手将收到确认邮件，同时也将被加入[论坛帖子](/community/forums/topics/800125)。
+3. 报名成功的选手将收到确认邮件，同时也将被加入[论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)。
 4. 图池管理和比赛经理不得参赛。
 
 ### 比赛赛程

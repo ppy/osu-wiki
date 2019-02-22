@@ -3,8 +3,6 @@
 
 # History
 
-*Main page: [Skinning](/wiki/Skinning)*
-
 The skinning elements listed here are no longer in use.
 
 ## Interface

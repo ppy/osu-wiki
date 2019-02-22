@@ -15,7 +15,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 
 ## Liste des GM
 
-*Veuillez noter que tous les GM peuvent également parler anglais en plus des langues listées ci-dessous.* - [Page du groupe](http://osu.ppy.sh/groups/4)
+*Veuillez noter que tous les GM peuvent également parler anglais en plus des langues listées ci-dessous.* - [Page du groupe](https://osu.ppy.sh/groups/4)
 
 | Nom | Langues | Domaine d'intervention |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, Espanol | Modération du Chat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Français, Espanol | Modération du Chat |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Modération du Chat |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinois | Modération du Chat |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du Chat |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hongrois | Modération du Chat |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand | Modération du Chat, Modération du Forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russe | Modération du Chat |

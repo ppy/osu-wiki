@@ -1,7 +1,5 @@
 # User Configuration File
 
-_Main page: [osu! Program Files](/wiki/osu!_Program_Files)_
-
 This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the in-game options and it is recommended that you change options there. Only edit these values manually if you really must. If the `Description` cell is empty, assume it is the same as the one above it.
 
 | Code                 | Description                                 |
@@ -85,7 +83,7 @@ This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these opt
 | `YahooIntegration`             | Toggles `Integrate with Yahoo! status display` in-game.                                                                                                                                                     |
 | `HighlightWords`               | Contains everything in `Chat highlight words` in-game.                                                                                                                                                      |
 | `HitLighting`                  | Toggles `Hit Lighting` in-game.                                                                                                                                                                             |
-| `ScreenshotFormat`             | Whether osu! will save screenshots as `.png` or `.jpeg`.                                                                                                                                                       |
+| `ScreenshotFormat`             | Whether osu! will save screenshots as `.png` or `.jpg`.                                                                                                                                                       |
 | `LobbyShowPassworded`          | Multiplayer lobby filter settings.                                                                                                                                                                         |
 | `LobbyShowExistingOnly`        |
 | `LobbyShowFriendsOnly`         |

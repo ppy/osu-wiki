@@ -6,11 +6,11 @@ date: 2017-12-13 09:00:00 +0000
 
 An update to the Beatmap Nominator applications process and more clarity on the Beatmap Nominator probation phase, adjustments to beatmap Hype, as well as how to apply and contribute as a Metadata Team Helper - all in store for this month's issue of the QAT Gazette!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 Seasons Greetings!
 
-I mentioned last month that I was looking forward to the progression and development of the **newly introduced Beatmap Discussions system**, and thanks to numerous contributions from our front-line Beatmap Nominators and modders, we've seen a number of quality of life improvements. These include the addition of line breaks in suggestions, more visibility for pending discussions per difficulty, and perhaps most importantly, the ability for Beatmap Nominators to counter (or "veto") a nomination by posting a Problem stamp. 
+I mentioned last month that I was looking forward to the progression and development of the **newly introduced Beatmap Discussions system**, and thanks to numerous contributions from our front-line Beatmap Nominators and modders, we've seen a number of quality of life improvements. These include the addition of line breaks in suggestions, more visibility for pending discussions per difficulty, and perhaps most importantly, the ability for Beatmap Nominators to counter (or "veto") a nomination by posting a Problem stamp.
 
 **Anyone can follow or take part** in these discussions by joining the [osu!dev Discord](https://discord.gg/ppy) and stopping by the *#osu-web-modding* channel. I strongly encourage it if you're invested in the mapping and/or modding communities and want to help develop the system!
 
@@ -24,7 +24,7 @@ The Beatmap Discussions system threw a slight spanner into the works for us with
 
 With kudosu being much easier to obtain under the Beatmap Discussions system (1-3 kudosu are available per suggestion depending on the number of upvotes provided by the mapper or other community members), the *"Modding Score"* threshold could easily be reached, in some extreme cases with only one or two mods. To avoid punishing people who had mostly used the previous forum modding system (with much less kudosu on offer, only 1-2 per mapset), we decided to be more lenient this cycle with the cutoff threshold. We're currently still working on ways to balance this for the next round of applicants!
 
-Additionally, we received criticism that feedback from previous Beatmap Nominator applications was unspecific, and that the lack of context provided by anonymised mods did not fairly reflect on some modders' proficiency. Therefore, in the most recent application cycle, we removed the anonymisation aspect to better understand the context of the presented mods, as well as ensured that more detailed feedback is provided in three main categories: 
+Additionally, we received criticism that feedback from previous Beatmap Nominator applications was unspecific, and that the lack of context provided by anonymised mods did not fairly reflect on some modders' proficiency. Therefore, in the most recent application cycle, we removed the anonymisation aspect to better understand the context of the presented mods, as well as ensured that more detailed feedback is provided in three main categories:
 
 * **General Attitude** (tone of delivery and other behavioural expectations from the Code of Conduct for Mapping and Modding)
 * **Modding Abilities** (knowledge of the general/specific Ranking Criteria, further abilities e.g. metadata, timing, etc.)
@@ -72,7 +72,7 @@ The details of these modifications are subject to change based on community rece
 
 ### Quality Assurance Team changes
 
-To coincide with the recent Beatmap Nominator promotions, I am pleased to welcome the **newest member of the Quality Assurance Team**, [Protastic101](https://osu.ppy.sh/users/6712747)! After a year of impressive growth in the Beatmap Nominator team and with maturity beyond her years, she will be soon be assisting with the checking of Qualified maps and assisting new Beatmap Nominators in osu!mania. Please offer her your congratulations and wish her the best of luck with her new responsibilities! 
+To coincide with the recent Beatmap Nominator promotions, I am pleased to welcome the **newest member of the Quality Assurance Team**, [Protastic101](https://osu.ppy.sh/users/6712747)! After a year of impressive growth in the Beatmap Nominator team and with maturity beyond her years, she will be soon be assisting with the checking of Qualified maps and assisting new Beatmap Nominators in osu!mania. Please offer her your congratulations and wish her the best of luck with her new responsibilities!
 
 In sadder news however, this month marks the end of an era for the osu!taiko community and the QAT, as one of our longest-serving and highest-contributing stalwarts, [OnosakiHito](https://osu.ppy.sh/users/290128), **has retired from the team after a more than four-year tenure.** His tireless work encompassing the BAT, GMT, QAT and Spotlights team among other roles, coupled with his his passion and no-nonsense approach, has helped shape the community in a massive way. His contributions to osu! have been truly enormous, and his loss will be felt by all of us who remain.
 

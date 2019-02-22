@@ -15,7 +15,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 | **Rouge**  | BAT or GMT                                                                                                                                                                        |
 | **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
 | **Bleu**   | Un message privé                                                                                                                                                                  |
-| **Bleu**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), le créateur d'osu!                                                                                                                                  |
+| **Bleu**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), le créateur d'osu!                                                                                                                                  |
 | **Rose**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                              |
 
 -   Cliquez sur `Show Ticker` pour afficher le dernier message lorsque la console de chat n'est pas ouverte.
@@ -67,26 +67,26 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 
 ### /help
 
-| COMMANDE        | Effect                                                                                         | Example           | Réponse de BanchoBot                                                               | 
+| COMMANDE        | Effect                                                                                         | Example           | Réponse de BanchoBot                                                               |
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
 | `/addfriend [user]`   | Ajouter ou supprimer `[user]` de votre liste d'amis.       | `/addfriend Amigo` | Vous êtes maintenant ami avec Carlito. |
 | `/delfriend [user]`   | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. | `/away I am John Smith.` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. Vous avez été marqué en tant qu'absent: Who's that boy? Quand quelqu'un vous enverra un message tel que : Do you know ppy ? La réponse automatique "Who's that boy?" lui sera envoyée |
 | `/bb` | Envoyer un message à BanchoBot | `/bb rank 1` | BanchoBot: Demmon is in France |
-| `/chat [user]` | Ouvrir un nouvel onglet de discussion avec l'utilisateur spécifié. | `/chat Amigo` | (Un chat privé avec Carlito s'ouvre) | 
-| `/clear` | Vider le contenu de l'onglet actuellement ouvert. | `/clear` | (Le chat est vide) | 
-| `/ignore [user][@chp]` | Ignorer tous les messages de l'utilisateur spécifié. En ajoutant un @ puis les lettres, c, h,et/ou, vous pouvez ignorer l'utilisateur dans le chat, les highlights, ou les messages privés. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} | 
-| `/j [channel]` ou `/join [channel]` | Rejoindre le canal spécifié | /join #lobby | (#lobby s'ouvre) | 
-| `/p` ou `/part` | Quitte le channel actuel. | `/part` | n/a | 
-| `/unignore [user]` | Arrêter d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | Vous pouvez maintenant voir les messages de Carlito. | 
-| `/me [action]` | Effectuer une action à la troisième personne. | `/me is singing` | * Carlito is singing | 
-| `/msg [user] [msg]` | Envoyer un message privé à `[user]`. | `/msg Carlito Wanna be amigo` | (Dans l'onglet Carlito) Charles445: Wanna be amigo? | 
-| `/np` | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | `/np` |(Si vous jouez) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply` or `/r` | Répondre au dernier message privé reçu. | `/r Carlito! Carlito!` | (Dans l'onglet Carlito) [Message précédent] Charles445: Wanna be amigo? Carlito: Carlito! Carlito! | 
-| `/savelog` | Enregistrer une copie de la conversation actuelle dans un fichier texte. | `/savelog` | (Un dossier nommé Chaté sera crée et contiendra les sauvegardes de vos conversations)) | 
-| `/watch [user]` | Commencer à regarder `[user]`. | `/watch Amigo` | Started spectating Carlito. | 
-| `/nopm` | Activer/désactiver l'options « Autoriser uniquement les messages privés des amis ». | `/nopm` | (Le message apparaîtra sur votre écran) | 
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game | 
+| `/chat [user]` | Ouvrir un nouvel onglet de discussion avec l'utilisateur spécifié. | `/chat Amigo` | (Un chat privé avec Carlito s'ouvre) |
+| `/clear` | Vider le contenu de l'onglet actuellement ouvert. | `/clear` | (Le chat est vide) |
+| `/ignore [user][@chp]` | Ignorer tous les messages de l'utilisateur spécifié. En ajoutant un @ puis les lettres, c, h,et/ou, vous pouvez ignorer l'utilisateur dans le chat, les highlights, ou les messages privés. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} |
+| `/j [channel]` ou `/join [channel]` | Rejoindre le canal spécifié | /join #lobby | (#lobby s'ouvre) |
+| `/p` ou `/part` | Quitte le channel actuel. | `/part` | n/a |
+| `/unignore [user]` | Arrêter d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | Vous pouvez maintenant voir les messages de Carlito. |
+| `/me [action]` | Effectuer une action à la troisième personne. | `/me is singing` | * Carlito is singing |
+| `/msg [user] [msg]` | Envoyer un message privé à `[user]`. | `/msg Carlito Wanna be amigo` | (Dans l'onglet Carlito) Charles445: Wanna be amigo? |
+| `/np` | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | `/np` |(Si vous jouez) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/reply` or `/r` | Répondre au dernier message privé reçu. | `/r Carlito! Carlito!` | (Dans l'onglet Carlito) [Message précédent] Charles445: Wanna be amigo? Carlito: Carlito! Carlito! |
+| `/savelog` | Enregistrer une copie de la conversation actuelle dans un fichier texte. | `/savelog` | (Un dossier nommé Chaté sera crée et contiendra les sauvegardes de vos conversations)) |
+| `/watch [user]` | Commencer à regarder `[user]`. | `/watch Amigo` | Started spectating Carlito. |
+| `/nopm` | Activer/désactiver l'options « Autoriser uniquement les messages privés des amis ». | `/nopm` | (Le message apparaîtra sur votre écran) |
+| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game |
 
 
 ### /keys

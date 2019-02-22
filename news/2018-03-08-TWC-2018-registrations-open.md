@@ -32,7 +32,7 @@ _The rest of the prizes will be determined during the registration phase._
 ## How do I register?
  
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/14)**
-+ Do not create teams in advance! Teams will be formed by the country’s team captain after the registration phase has concluded.
++ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
 + Hand in your registration before the **21st of March.**
 
 Please note - you may only participate if you are of a **osu!taiko global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.

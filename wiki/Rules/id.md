@@ -40,7 +40,7 @@ Aturan seluruh forum
 Aturan Pengajuan Beatmap
 ---------------------------------
 
-Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Beatmap_Submission_System) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/editor).
+Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Glossary#bss) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/editor).
 
 Ada sekumpulan aturan yang lebih rinci untuk pembuatan beatmap, yang dikenal sebagai [Kriteria Ranking](/wiki/Ranking_Criteria).
 

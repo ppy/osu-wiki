@@ -14,7 +14,7 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. osu! will mark users as "Idle" if they have been inactive for some time.
+AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -34,7 +34,7 @@ Aspire is a beatmapping [contest](/wiki/contest) where the creators are encourag
 
 _Related: [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu! Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in osu!. Signing in with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
 
 ### Beat
 
@@ -63,7 +63,7 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 
 A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
 
-You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
+You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
 
 This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 
@@ -79,7 +79,7 @@ Beatmapsets will always have the same music, sounds (if mapped), and video (if a
 
 A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapsets.
 
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
 
 This value can be found in the url of a beatmapset from osu!website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
 
@@ -183,7 +183,7 @@ For skins, the skin properties for the combo colours is located on in the `[Colo
 
 ![Ancient screenshot of the combo fire](/wiki/shared/combo-fire.jpg "R.I.P. combo fire")
 
-The combo fire was a background gameplay feature from the ouendan game integrated in osu! This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
+The combo fire was a background gameplay feature from the ouendan game integrated in osu!. This would display a burning yellow flame after obtaining the first [combo milestone](/wiki/combo_milestone), 30. If the player obtains a combo of 500, the combo fire colour will change from yellow to blue. The combo fire will extinguish itself if the combo was broken but would still be reobtainable.
 
 This feature was later disabled on 05. March 2013 due to performance concerns.
 
@@ -502,7 +502,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [_modding_](/wiki/modding), and the posts are referred to as _mods_.
 
-Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
+Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
 ## N
 
@@ -556,7 +556,7 @@ osu! has three meanings:
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
-    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/posts/2686).
 
 ### osu!coin
 
@@ -719,9 +719,9 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 ### Skin
 
-A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu! This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
+A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
-To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
 To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its subpages).
 
@@ -763,7 +763,7 @@ Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permi
 
 ### Standard
 
-_See also: [osu!](/wiki/Game_Modes/osu!) (game mode)._
+*Main page: [osu!standard](/wiki/Game_Modes/osu!)*
 
 Standard refers to the game mode in osu! and has been used since it is the first game mode. This is sometimes stylized as _osu!standard_ or osu! (without italics).
 
@@ -863,7 +863,7 @@ A touchscreen is one of the input mediums used by the DS games that osu! is base
 
 ### Touhosu!
 
-_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
+_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307)_
 
 Touhosu! is a requested game mode that is the opposite of osu!catch. _Opposite_ because instead of catching objects, you avoid them.
 
@@ -922,7 +922,7 @@ WIP can be submitted through the [BSS](/wiki/bss) to the Beatmap Help [forum](/w
 
 ### z/x
 
-z/x are the default keys on the keyboard to [tap](/wiki/tap) in osu! A very popular alternative to the left and right mouse buttons.
+z/x are the default keys on the keyboard to [tap](/wiki/tap) in osu!, a very popular alternative to the left and right mouse buttons.
 
 During gameplay, while `Z` is pressed, the left mouse button will not work and vice versa. The same applies to the `X` key and the right mouse button and vice versa.
 

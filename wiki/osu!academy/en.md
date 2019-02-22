@@ -5,7 +5,7 @@
 **osu!academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
 We hope that new players will find these videos informative, and help ease the arguably steep learning curve associated with the game.
-If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/u/6347); he is the primary and almost sole owner of the osu! academy and its channel.
+If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/users/6347); he is the primary and almost sole owner of the osu! academy and its channel.
 
 [Now with a trailer](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
@@ -36,7 +36,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/Academy_18.png)  | [Episode 18](https://www.youtube.com/watch?v=Ywu3PZGYPxs "Episode 18")   | In this episode, we will discuss the helpful aspect of the Technical Support forum!                                                                               |
 | ![](img/Academy_19.png)  | [Episode 19](https://www.youtube.com/watch?v=ZoBAZCl9wXY "Episode 19")   | In this episode, we will be going over a bit of a touchy subject: misbehaving players and how to report them!                                                     |
 | ![](img/Academy_20.png)  | [Episode 20](https://www.youtube.com/watch?v=exyuI9lv_OI "Episode 20")   | In this episode, we are going to go over another aspect of beatmap editing, video encoding!                                                                       |
-| ![](img/Academy_21.png)  | [Episode 21](https://www.youtube.com/watch?v=59Tm9LvYk3Q "Episode 21")   | In this episode, we will go over the basics of how to capture/stream to your favorite streaming sites like twitch or livestream!                                  |
+| ![](img/Academy_21.png)  | [Episode 21](https://www.youtube.com/watch?v=59Tm9LvYk3Q "Episode 21")   | In this episode, we will go over the basics of how to capture/stream to your favorite streaming sites like Twitch or livestream!                                  |
 | ![](img/Academy_22.png)  | [Episode 22](https://www.youtube.com/watch?v=ec0pLh4U8eY "Episode 22")   | In this episode, we are going to go rapidly go over the features of osu!direct and the benefits of supporter status!                                              |
 | ![](img/Academy_23.png)  | [Episode 23](https://www.youtube.com/watch?v=MxlB__wjt9A "Episode 23")   | In this episode, we will be talking about a new feature that has recently been sweeping over the modding community and that is community modding featuring Shiro! |
 | ![](img/Academy_24.png)  | [Episode 24](https://www.youtube.com/watch?v=pq33jvMitRk "Episode 24")   | In this episode, we will be going over how to improve with streaming featuring Kyonko Hizara!                                                                     |
@@ -53,5 +53,5 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 ## External Links
 
 - [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
-- [Official Youtube channel](https://www.youtube.com/user/osuacademy/videos)
-- [Official thread](https://osu.ppy.sh/forum/t/169707)
+- [Official YouTube channel](https://www.youtube.com/user/osuacademy/videos)
+- [Official thread](https://osu.ppy.sh/community/forums/topics/169707)

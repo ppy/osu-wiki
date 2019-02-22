@@ -5,7 +5,7 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `C:\\Program Files (x86)\osu!\`
+-   Windows: `%localappdata%\osu!`
 -   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
@@ -30,7 +30,7 @@ To ease the description of the format of each .db file, the following names for 
 osu!.db
 -------
 
-**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up ingame. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
+**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up in-game. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
 
 ### Format
 

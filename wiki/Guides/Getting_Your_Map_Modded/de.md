@@ -19,7 +19,7 @@ Es ist nicht die effektivste Methode, aber es schadet nicht diese zu versuchen. 
 Modding Queues
 --------------
 
-Das [Modding Queues](https://osu.ppy.sh/forum/60) Unterforum beinhaltet viele Modding Queues. Eine Modding Queue ist ein von einem anderen Mapper/Modder erstellter Forumbeitrag. In diesen Thread ist es erlaubt deine Map zu posten und der Ersteller wird sie vielleicht Modden. Jeder Spieler hat andere Regeln für seine Modding Queue also ist es nötig diese immer zu lesen und auch zu beachten, wenn man seine Map gemodded haben möchte.
+Das [Modding Queues](https://osu.ppy.sh/community/forums/60) Unterforum beinhaltet viele Modding Queues. Eine Modding Queue ist ein von einem anderen Mapper/Modder erstellter Forumbeitrag. In diesen Thread ist es erlaubt deine Map zu posten und der Ersteller wird sie vielleicht Modden. Jeder Spieler hat andere Regeln für seine Modding Queue also ist es nötig diese immer zu lesen und auch zu beachten, wenn man seine Map gemodded haben möchte.
 
 Frag andere Mapper nach einem Mod4Mod
 -------------------------------------

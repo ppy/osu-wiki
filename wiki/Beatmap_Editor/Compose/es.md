@@ -178,7 +178,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 Características (osu!mania)
 -----------------------
 
-(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/forum/t/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/forum/t/139139)
+(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Esquina superior derecha (Divisor de ritmo)
 
@@ -351,5 +351,3 @@ La **Sección Derecha** es **la configuración para el archivo de sonido selecci
 La codificación es `MM:SS:XXX` `{Sound_file}@{Volume}` donde MM:SS:XXX es Minutos:Segundos:Milisegundos respectivamente.
 
 **Ejemplo:** 1:57:745 kick.wav@100% significa 1 min 57 segundos 745avo millisegundo, reproduce el archivo "kick.wav" al 100% del volumen, independientemente de la condición.
-
-[Si esto no le hace cosquillas a tu fantasía, siempre puede optar por el estilo SBS.](/wiki/Storyboard_Scripting/Miscellaneous)

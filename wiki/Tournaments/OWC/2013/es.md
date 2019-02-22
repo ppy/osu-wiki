@@ -6,7 +6,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![][flag_KR] Corea del Sur**.
+La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![][flag_KR] Corea del Sur**.
 
 | Placing                                                    | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|
@@ -32,7 +32,7 @@ Premios
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de support, placa para el perfil, trofeo OWC, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de support, placa para el perfil, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                                                              |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                |
 
@@ -107,8 +107,8 @@ Participantes
 Links
 -----------
 
--   [Hilo de discusión en inglés](https://osu.ppy.sh/forum/t/160181/start=0)
--   [Hilo de discusión en español](https://osu.ppy.sh/forum/t/161538/start=0)
+-   [Hilo de discusión en inglés](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+-   [Hilo de discusión en español](https://osu.ppy.sh/community/forums/topics/161538/start=0)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

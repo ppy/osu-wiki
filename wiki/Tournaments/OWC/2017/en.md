@@ -104,135 +104,135 @@ The osu! World Cup 2017 was run by various community members by distributing the
 **[Download the mappack here! (138 MB)](http://www.mediafire.com/file/e6vze2hbc13eo8i/OWC_2017_Finals.rar)**
 
 - NoMod
-  - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](http://osu.ppy.sh/beatmaps/169841&m=0)
-  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](http://osu.ppy.sh/beatmaps/820336&m=0)
-  - [TERRASPEX - AMAZING BREAK (Monstrata) \[DESPAIR\]](http://osu.ppy.sh/beatmaps/1211828&m=0)
-  - [sana - Packet Hero (Fuccho) \[Ruthless\]](http://osu.ppy.sh/beatmaps/880321&m=0)
-  - [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Chaos\]](http://osu.ppy.sh/beatmaps/118068&m=0)
-  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower) \[Extra\]](http://osu.ppy.sh/beatmaps/306683&m=0)
+  - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](https://osu.ppy.sh/beatmaps/169841&m=0)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](https://osu.ppy.sh/beatmaps/820336&m=0)
+  - [TERRASPEX - AMAZING BREAK (Monstrata) \[DESPAIR\]](https://osu.ppy.sh/beatmaps/1211828&m=0)
+  - [sana - Packet Hero (Fuccho) \[Ruthless\]](https://osu.ppy.sh/beatmaps/880321&m=0)
+  - [Yousei Teikoku - Kokou no Sousei (Saten-san) \[Chaos\]](https://osu.ppy.sh/beatmaps/118068&m=0)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (Flower) \[Extra\]](https://osu.ppy.sh/beatmaps/306683&m=0)
 - Hidden
-  - [Niko - Made of Fire (lesjuh) \[Oni\]](http://osu.ppy.sh/beatmaps/40017&m=0)
-  - [Sota Fujimori - polygon (Sebu) \[heptagon\]](http://osu.ppy.sh/beatmaps/1354636&m=0)
+  - [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmaps/40017&m=0)
+  - [Sota Fujimori - polygon (Sebu) \[heptagon\]](https://osu.ppy.sh/beatmaps/1354636&m=0)
 - HardRock
-  - [beatMARIO - Night of Knights (alacat) \[The World\]](http://osu.ppy.sh/beatmaps/776951&m=0)
-  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](http://osu.ppy.sh/beatmaps/215238&m=0)
+  - [beatMARIO - Night of Knights (alacat) \[The World\]](https://osu.ppy.sh/beatmaps/776951&m=0)
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/215238&m=0)
 - DoubleTime
-  - [Kalafina - Kyrie (Vell) \[Genesis\]](http://osu.ppy.sh/beatmaps/809513&m=0)
-  - [Zektbach - L'avide (eXseeD) \[gowww\]](http://osu.ppy.sh/beatmaps/103403&m=0)
+  - [Kalafina - Kyrie (Vell) \[Genesis\]](https://osu.ppy.sh/beatmaps/809513&m=0)
+  - [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmaps/103403&m=0)
 - FreeMod
-  - [Mediks - Outbreak (Strategas) \[Doomsday\]](http://osu.ppy.sh/beatmaps/1118311&m=0)
-  - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](http://osu.ppy.sh/beatmaps/733432&m=0)
-  - [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](http://osu.ppy.sh/beatmaps/1076701&m=0)
+  - [Mediks - Outbreak (Strategas) \[Doomsday\]](https://osu.ppy.sh/beatmaps/1118311&m=0)
+  - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](https://osu.ppy.sh/beatmaps/733432&m=0)
+  - [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](https://osu.ppy.sh/beatmaps/1076701&m=0)
 - Tiebreaker
-  - **[Wagakki Band - Tengaku (Shiro) \[Uncompressed Fury of a Raging Japanese God\]](http://osu.ppy.sh/beatmaps/816327&m=0)**
+  - **[Wagakki Band - Tengaku (Shiro) \[Uncompressed Fury of a Raging Japanese God\]](https://osu.ppy.sh/beatmaps/816327&m=0)**
 
 ### Semifinals
 
 **[Download the mappack here! (137 MB)](http://www.mediafire.com/file/2rf32niz24xr9xz/OWC_2017_Semifinals.rar)**
 
 - NoMod
-  - [Rita - dorchadas (Delis) \[Sharnoth\]](http://osu.ppy.sh/beatmaps/1279490&m=0)
-  - [C-Show - PANIC HOLIC (VIP) (Frey) \[Regou's Extra\]](http://osu.ppy.sh/beatmaps/1023481&m=0)
-  - [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](http://osu.ppy.sh/beatmaps/657917&m=0)
-  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Zetsubou!\]](http://osu.ppy.sh/beatmaps/235880&m=0)
-  - [LeaF - I (Maddy) \[Terror\]](http://osu.ppy.sh/beatmaps/264090&m=0)
-  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](http://osu.ppy.sh/beatmaps/58970&m=0)
+  - [Rita - dorchadas (Delis) \[Sharnoth\]](https://osu.ppy.sh/beatmaps/1279490&m=0)
+  - [C-Show - PANIC HOLIC (VIP) (Frey) \[Regou's Extra\]](https://osu.ppy.sh/beatmaps/1023481&m=0)
+  - [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmaps/657917&m=0)
+  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Zetsubou!\]](https://osu.ppy.sh/beatmaps/235880&m=0)
+  - [LeaF - I (Maddy) \[Terror\]](https://osu.ppy.sh/beatmaps/264090&m=0)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmaps/58970&m=0)
 - Hidden
-  - [Eisyo-kobu - Oriental Blossom (Crystal) \[Karen's Extra\]](http://osu.ppy.sh/beatmaps/1242790&m=0)
-  - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](http://osu.ppy.sh/beatmaps/153857&m=0)
+  - [Eisyo-kobu - Oriental Blossom (Crystal) \[Karen's Extra\]](https://osu.ppy.sh/beatmaps/1242790&m=0)
+  - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](https://osu.ppy.sh/beatmaps/153857&m=0)
 - HardRock
-  - [Memme - Acid Burst (Priti) \[wa's Extra\]](http://osu.ppy.sh/beatmaps/725026&m=0)
-  - [96neko - Buriki no Dance (Lasse) \[Expert\]](http://osu.ppy.sh/beatmaps/1253986&m=0)
+  - [Memme - Acid Burst (Priti) \[wa's Extra\]](https://osu.ppy.sh/beatmaps/725026&m=0)
+  - [96neko - Buriki no Dance (Lasse) \[Expert\]](https://osu.ppy.sh/beatmaps/1253986&m=0)
 - DoubleTime
-  - [3L - Endless night (sjoy) \[Eternal\]](http://osu.ppy.sh/beatmaps/430371&m=0)
-  - [Yuuki Aoi - Platinum (Mythol) \[Collab\]](http://osu.ppy.sh/beatmaps/229676&m=0)
+  - [3L - Endless night (sjoy) \[Eternal\]](https://osu.ppy.sh/beatmaps/430371&m=0)
+  - [Yuuki Aoi - Platinum (Mythol) \[Collab\]](https://osu.ppy.sh/beatmaps/229676&m=0)
 - FreeMod
-  - [Dollscythe - Flashes (Extended) (handsome) \[Spark\]](http://osu.ppy.sh/beatmaps/787957&m=0)
-  - [onoken - Viden (-kevincela-) \[Extreme\]](http://osu.ppy.sh/beatmaps/822166&m=0)
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](http://osu.ppy.sh/beatmaps/178645&m=0)
+  - [Dollscythe - Flashes (Extended) (handsome) \[Spark\]](https://osu.ppy.sh/beatmaps/787957&m=0)
+  - [onoken - Viden (-kevincela-) \[Extreme\]](https://osu.ppy.sh/beatmaps/822166&m=0)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/178645&m=0)
 - Tiebreaker
-  - **[goreshit - fleshbound (Vell) \[martyr\]](http://osu.ppy.sh/beatmaps/1131747&m=0)**
+  - **[goreshit - fleshbound (Vell) \[martyr\]](https://osu.ppy.sh/beatmaps/1131747&m=0)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (107 MB)](http://www.mediafire.com/file/n4le2yxjs478ysf/OWC_2017_Quarterfinals.rar)**
 
 - NoMod
-  - [FujuniseikouyuuP - FREEDMAN (val0108) \[iyasine\]](http://osu.ppy.sh/beatmaps/293134&m=0)
-  - [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](http://osu.ppy.sh/beatmaps/789752&m=0)
-  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](http://osu.ppy.sh/beatmaps/1291369&m=0)
-  - [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](http://osu.ppy.sh/beatmaps/1187506&m=0)
-  - [MY FIRST STORY - Itsuwari NEUROSE (Saut) \[Madness\]](http://osu.ppy.sh/beatmaps/803199&m=0)
-  - [yak_won - Sewing Machine (ktgster) \[Extreme\]](http://osu.ppy.sh/beatmaps/772293&m=0)
+  - [FujuniseikouyuuP - FREEDMAN (val0108) \[iyasine\]](https://osu.ppy.sh/beatmaps/293134&m=0)
+  - [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](https://osu.ppy.sh/beatmaps/789752&m=0)
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmaps/1291369&m=0)
+  - [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmaps/1187506&m=0)
+  - [MY FIRST STORY - Itsuwari NEUROSE (Saut) \[Madness\]](https://osu.ppy.sh/beatmaps/803199&m=0)
+  - [yak_won - Sewing Machine (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmaps/772293&m=0)
 - Hidden
-  - [Jimmy Weckl - Get Happy (buhei) \[MASTER\]](http://osu.ppy.sh/beatmaps/953945&m=0)
-  - [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](http://osu.ppy.sh/beatmaps/1278874&m=0)
+  - [Jimmy Weckl - Get Happy (buhei) \[MASTER\]](https://osu.ppy.sh/beatmaps/953945&m=0)
+  - [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](https://osu.ppy.sh/beatmaps/1278874&m=0)
 - HardRock
-  - [USAO - Night sky (sukiNathan) \[Extra\]](http://osu.ppy.sh/beatmaps/863532&m=0)
-  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](http://osu.ppy.sh/beatmaps/191805&m=0)
+  - [USAO - Night sky (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmaps/863532&m=0)
+  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](https://osu.ppy.sh/beatmaps/191805&m=0)
 - DoubleTime
-  - [ChomuP - Gate of Steiner (JauiPlaY) \[Insane\]](http://osu.ppy.sh/beatmaps/157886&m=0)
-  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne) \[Insane\]](http://osu.ppy.sh/beatmaps/429797&m=0)
+  - [ChomuP - Gate of Steiner (JauiPlaY) \[Insane\]](https://osu.ppy.sh/beatmaps/157886&m=0)
+  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmaps/429797&m=0)
 - FreeMod
-  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Nyquill) \[Another†leggendaria\]](http://osu.ppy.sh/beatmaps/725139&m=0)
-  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](http://osu.ppy.sh/beatmaps/206567&m=0)
-  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](http://osu.ppy.sh/beatmaps/151229&m=0)
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Nyquill) \[Another†leggendaria\]](https://osu.ppy.sh/beatmaps/725139&m=0)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](https://osu.ppy.sh/beatmaps/206567&m=0)
+  - [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](https://osu.ppy.sh/beatmaps/151229&m=0)
 - Tiebreaker
-  - **[Nanahira - Petals (toybot) \[Blossom\]](http://osu.ppy.sh/beatmaps/1193128&m=0)**
+  - **[Nanahira - Petals (toybot) \[Blossom\]](https://osu.ppy.sh/beatmaps/1193128&m=0)**
 
 ### Round of 16
 
 **[Download the mappack here! (153 MB)](http://www.mediafire.com/file/klgdrjqmz3l3q36/OWC_2017_Round_of_16.rar)**
 
 - NoMod
-  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](http://osu.ppy.sh/beatmaps/1018247&m=0)
-  - [Days N' Daze - Misanthropic Drunken Loner (pishifat) \[Extreme\]](http://osu.ppy.sh/beatmaps/951778&m=0)
-  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](http://osu.ppy.sh/beatmaps/796606&m=0)
-  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Asphyxia's Extra\]](http://osu.ppy.sh/beatmaps/644067&m=0)
-  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]  ](http://osu.ppy.sh/beatmaps/815857&m=0)
-  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](http://osu.ppy.sh/beatmaps/63875&m=0)
+  - [Aimer with chelly (EGOIST) - ninelie (REDSHiFT x Vesuvia remix) (ProfessionalBox) \[Daydream\]](https://osu.ppy.sh/beatmaps/1018247&m=0)
+  - [Days N' Daze - Misanthropic Drunken Loner (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmaps/951778&m=0)
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](https://osu.ppy.sh/beatmaps/796606&m=0)
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Asphyxia's Extra\]](https://osu.ppy.sh/beatmaps/644067&m=0)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]  ](https://osu.ppy.sh/beatmaps/815857&m=0)
+  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](https://osu.ppy.sh/beatmaps/63875&m=0)
 - Hidden
-  - [Anamanaguchi - Pop It (Bonsai) \[Extra\]](http://osu.ppy.sh/beatmaps/1084171&m=0)
-  - [sun3 - Higan Retour (saymun) \[Lunatic\]](http://osu.ppy.sh/beatmaps/54373&m=0)
+  - [Anamanaguchi - Pop It (Bonsai) \[Extra\]](https://osu.ppy.sh/beatmaps/1084171&m=0)
+  - [sun3 - Higan Retour (saymun) \[Lunatic\]](https://osu.ppy.sh/beatmaps/54373&m=0)
 - HardRock
-  - [bj.HaLo - Ende (galvenize) \[Another\]](http://osu.ppy.sh/beatmaps/148716&m=0)
-  - [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj) \[Extra\]](http://osu.ppy.sh/beatmaps/1443510&m=0)
+  - [bj.HaLo - Ende (galvenize) \[Another\]](https://osu.ppy.sh/beatmaps/148716&m=0)
+  - [baker - Kimi ga Kimi ga -vocanico remix- (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmaps/1443510&m=0)
 - DoubleTime
-  - [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey) \[lUNATIC\]](http://osu.ppy.sh/beatmaps/951393&m=0)
-  - [forestpireo - Emotional Blush (S i R i R u) \[Lunatic\]](http://osu.ppy.sh/beatmaps/74959&m=0)
+  - [CYTOKINE - sEE NEW THE WORLD, SHE KNEW THE WORLD - CYTOKINE Remix (Frey) \[lUNATIC\]](https://osu.ppy.sh/beatmaps/951393&m=0)
+  - [forestpireo - Emotional Blush (S i R i R u) \[Lunatic\]](https://osu.ppy.sh/beatmaps/74959&m=0)
 - FreeMod
-  - [Kano - Sukisuki Zecchoushou (Loreley) \[Expert\]](http://osu.ppy.sh/beatmaps/1250198&m=0)
-  - [sakuzyo - Imprinting (Nozhomi) \[Orchestra\]](http://osu.ppy.sh/beatmaps/655300&m=0)
-  - [Agnete Kjolsrud - Get Jinxed (Tarrasky) \[Irrelvis' Diamond\]](http://osu.ppy.sh/beatmaps/806376&m=0)
+  - [Kano - Sukisuki Zecchoushou (Loreley) \[Expert\]](https://osu.ppy.sh/beatmaps/1250198&m=0)
+  - [sakuzyo - Imprinting (Nozhomi) \[Orchestra\]](https://osu.ppy.sh/beatmaps/655300&m=0)
+  - [Agnete Kjolsrud - Get Jinxed (Tarrasky) \[Irrelvis' Diamond\]](https://osu.ppy.sh/beatmaps/806376&m=0)
 - Tiebreaker
-  - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](http://osu.ppy.sh/beatmaps/1052795&m=0)**
+  - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](https://osu.ppy.sh/beatmaps/1052795&m=0)**
 
 ### Group Stage
 
 **[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar)**
 
 - NoMod
-  - [Amane - TWEEKER (TicClick) \[Lunatic\]](http://osu.ppy.sh/beatmaps/771858&m=0)
-  - [nano - Bull's Eye (Asphyxia) \[toybot's Extra\]](http://osu.ppy.sh/beatmaps/904687&m=0)
-  - [Smooth J - Haru yo, Koi (Streliteela) \[Insane\]](http://osu.ppy.sh/beatmaps/664611&m=0)
-  - [Apocalyptica - 2010 (feat. Dave Lombardo) (pishifat) \[Extra\]](http://osu.ppy.sh/beatmaps/724512&m=0)
-  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[deetz' Insane\]](http://osu.ppy.sh/beatmaps/821336&m=0)
-  - [ak+q - Vexaria (Pentori) \[Miura's Another\]](http://osu.ppy.sh/beatmaps/1392666&m=0)
+  - [Amane - TWEEKER (TicClick) \[Lunatic\]](https://osu.ppy.sh/beatmaps/771858&m=0)
+  - [nano - Bull's Eye (Asphyxia) \[toybot's Extra\]](https://osu.ppy.sh/beatmaps/904687&m=0)
+  - [Smooth J - Haru yo, Koi (Streliteela) \[Insane\]](https://osu.ppy.sh/beatmaps/664611&m=0)
+  - [Apocalyptica - 2010 (feat. Dave Lombardo) (pishifat) \[Extra\]](https://osu.ppy.sh/beatmaps/724512&m=0)
+  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[deetz' Insane\]](https://osu.ppy.sh/beatmaps/821336&m=0)
+  - [ak+q - Vexaria (Pentori) \[Miura's Another\]](https://osu.ppy.sh/beatmaps/1392666&m=0)
 - Hidden
-  - [07th Expansion - Final Answer (gowww) \[Insane\]](http://osu.ppy.sh/beatmaps/88633&m=0)
-  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](http://osu.ppy.sh/beatmaps/951600&m=0)
+  - [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmaps/88633&m=0)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (deetz) \[Collab\]](https://osu.ppy.sh/beatmaps/951600&m=0)
 - HardRock
-  - [Cororo - Fairy ring (Kite) \[Serenity\]](http://osu.ppy.sh/beatmaps/705760&m=0)
-  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](http://osu.ppy.sh/beatmaps/91462&m=0)
+  - [Cororo - Fairy ring (Kite) \[Serenity\]](https://osu.ppy.sh/beatmaps/705760&m=0)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmaps/91462&m=0)
 - DoubleTime
-  - [Pendulum - The Vulture (La Cataline) \[Insane\]](http://osu.ppy.sh/beatmaps/82249&m=0)
-  - [Ronald Jenkees - Super-Fun (tieff) \[Fun\]](http://osu.ppy.sh/beatmaps/257379&m=0)
+  - [Pendulum - The Vulture (La Cataline) \[Insane\]](https://osu.ppy.sh/beatmaps/82249&m=0)
+  - [Ronald Jenkees - Super-Fun (tieff) \[Fun\]](https://osu.ppy.sh/beatmaps/257379&m=0)
 - FreeMod
-  - [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](http://osu.ppy.sh/beatmaps/454385&m=0)
-  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](http://osu.ppy.sh/beatmaps/208776&m=0)
-  - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123) \[Lunatic\]](http://osu.ppy.sh/beatmaps/148000&m=0)
+  - [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmaps/454385&m=0)
+  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmaps/208776&m=0)
+  - [Masayoshi Minoshima - Flight of the Bamboo Cutter (a3272509123) \[Lunatic\]](https://osu.ppy.sh/beatmaps/148000&m=0)
 - Tiebreaker
-  - **[DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](http://osu.ppy.sh/beatmaps/854972&m=0)**
+  - **[DJ Noriken - Elektrick U-Phoria(Extended Mix) (sionKotori) \[Illuminate\]](https://osu.ppy.sh/beatmaps/854972&m=0)**
 
 ------------------------------------------------------------------------
 
@@ -430,7 +430,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    -  This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
 | -----: | -------- |

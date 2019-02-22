@@ -45,7 +45,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/t/507270)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/507270)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl) (by Feurigel)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)**
@@ -441,7 +441,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
 |-----------------|--------------------------|

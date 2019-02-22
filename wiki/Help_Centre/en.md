@@ -34,13 +34,13 @@ If you are restricted, make sure to sort it out with support instead of just mak
 
 **Accounts are generally only disabled when they are confirmed to be multiple accounts belonging to the same user.**
 
-If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely log in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
+If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely sign in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
 
-If your account has been restricted, you'll likely know why after a brief conversation with the support team. 
+If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-### Login
+### Sign-in
 
 #### I've forgotten my username and password!
 
@@ -61,19 +61,19 @@ Good information to include this email would be:
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account. 
+If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account.
 
 Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
 Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
-#### The website is telling me that I have tried to log in too many times!
+#### The website is telling me that I have tried to sign in too many times!
 
-**This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
+**This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
 
-If this happens to you, simply wait for a while and try to log in a little later. 
+If this happens to you, simply wait for a while and try to sign in a little later.
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
+A couple of hours at the absolute maximum will clear the status for most people and allow them to sign in again.
 
 #### I didn't receive any emails from osu!/I forgot my email address!
 
@@ -81,7 +81,7 @@ A couple of hours at the absolute maximum will clear the status for most people 
 
 If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you logged in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
 Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
 - `att.net`
@@ -98,7 +98,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
@@ -108,7 +108,7 @@ If you are only after minor capitalization or grammar/spelling changes, you can 
 
 **Yes, but only under certain circumstances.**
 
-If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
+If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
 For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
@@ -116,7 +116,7 @@ For every 500 plays an account has across all game modes, an additional year (36
 
 **Yes, but under certain circumstances.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact accounts@ppy.sh and request your namechange reverted.
 
 We only grant this one time per account, so please consider carefully before requesting!
 
@@ -140,13 +140,13 @@ Your profile will show all your previous purchased namechanges, and we do not ac
 
 **We can change this for you, but only if you are actively living in the country that you wish to change to.**
 
-We determine your country as shown on your profile page from the area in which you first registered your account from. 
+We determine your country as shown on your profile page from the area in which you first registered your account from.
 
 If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.** 
+The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
+To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
@@ -154,7 +154,7 @@ We will never display this information to anyone else, and we encourage you to b
 
 **Unfortunately, no, you can not.**
 
-If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless! 
+If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
 Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
@@ -300,7 +300,7 @@ Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filte
 
 **Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again. 
+A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again.
 
 You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
 
@@ -362,7 +362,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 ##### Are the score submission servers up?
 
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
 If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
@@ -408,7 +408,7 @@ Keep your computer clean and safe and you might notice an improvement.
 
 The only way to deal with this one is to upgrade your computer!
 
-##### Are your drivers up to date? 
+##### Are your drivers up to date?
 
 **Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
 
@@ -440,9 +440,9 @@ If it doesn't resolve, a reboot can sometimes help.
 
 #### My game looks glitchy, like the graphics are torn!
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
+**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate. 
+This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
  
@@ -452,7 +452,7 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 ### Online features
 
-#### I can't login or connect to the game at all!
+#### I can't sign in or connect to the game at all!
 
 **Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
 
@@ -666,7 +666,7 @@ In the event that another user is harassing you via private messages either on t
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
 3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
-4. You are done! 
+4. You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
@@ -717,7 +717,7 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 #### Do I need to use my email address to register?
 
-**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
+**No, you do not. We authenticate your account by having you sign in via the game client, so an email is not necessary during the registration process.**
 
 If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
@@ -743,7 +743,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 #### How do I download osu!?
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
+**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/home).**
 
 Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
 
@@ -768,7 +768,7 @@ This should come with the osu! installer, but in case it doesn't, [download it h
 
 We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
 
-If you create your account and do not authenticate it by logging into the game once, the wayward account will be purged from our databases within a day.
+If you create your account and do not authenticate it by signing in to the game once, the wayward account will be purged from our databases within a day.
 
 Ensure that you authenticate it soon after make it!
 
@@ -800,7 +800,7 @@ Each user has a limited number of maps they can simultaneously upload. Leaving a
 
 **This can happen if the creator of the beatmap is not properly set within the beatmap files.**
 
-In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included. 
+In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included.
 
 If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
 
@@ -826,7 +826,7 @@ Once your beatmap is in the Graveyard, you can delete it yourself by clicking th
 
 #### How do I configure the osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**You can use the osu!keyboard configuration utility, available from [this link](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Simply extract it to anywhere on your computer, and run the executable!
 
@@ -870,7 +870,7 @@ Removing this residue may restore your LED to working condition. If it does, you
 
 **This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong. 
+Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong.
 
 To find out, perform the following steps:
 
@@ -882,7 +882,7 @@ To find out, perform the following steps:
 2. Gently plug the cable back into a USB slot on your system.
 3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use. 
+If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
 If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
 
@@ -899,9 +899,9 @@ We can try to help you fix your issue with older tablet purchases, but the natur
 - Screw the grip back onto the pen.
 - Depress the button on the back end (eraser end) of the pen until it clicks.
 
-If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move. 
+If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty. 
+If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty.
 
 If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
 
@@ -960,7 +960,7 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial. 
+These files are extremely handy to have and can make solving even very complicated issues trivial.
 
 If a support team member has asked you for these logs, here's how to get them:
 

@@ -239,7 +239,7 @@ Web
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/b/###, ### ist die BeatmapID (findet man in `.osu`). |
+| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/beatmaps/###, ### ist die BeatmapID (findet man in `.osu`). |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap Thread. |
 | Schnellantwort | Erstellen Sie eine Nachricht im Beatmap Thread. |
 

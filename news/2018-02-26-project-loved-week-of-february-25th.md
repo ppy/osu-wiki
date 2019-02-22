@@ -23,10 +23,10 @@ With that out of the way, let's get on to this week's picks! For this round, [St
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)  
-[osu!catch](#osucatch)  
-[osu!mania](#osumania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 

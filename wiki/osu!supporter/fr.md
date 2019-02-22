@@ -16,7 +16,7 @@ Les osu!supporters bénéficient de nombreux avantages :
     -   `matchsetup-background.png` (fond d'écran du menu Multijoueur)
     -   `search-background.png` (fond d'écran du menu osu!direct)
 -   Possibilité d'afficher uniquement les beatmaps déjà jouées dans la [liste des beatmaps](https://osu.ppy.sh/p/beatmaplist)
--   2 votes bonus par mois au lieu de 1 dans la section [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4) du forum
+-   2 votes bonus par mois au lieu de 1 dans la section [Demandes de fonctionnalités](https://osu.ppy.sh/community/forums/4) du forum
 -   Page personnelle rajoutée au-dessus de votre profil. Notez qu'elle **ne sera pas supprimée** une fois votre badge osu!supporter expiré
 -   Possibilité de changer votre pseudo (une fois seulement)
 -   Possibilité d'envoyer plus de beatmaps (augmentation à un maximum de 10)

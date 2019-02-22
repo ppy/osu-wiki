@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
 =Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
@@ -224,7 +227,7 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
     5.  Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
     6.  To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
 
-5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](http://osu.ppy.sh/p/chart) Bulanan
+5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/p/chart) Bulanan
 6.  Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](ID:Achievements "wikilink")
 7.  Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
 8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
