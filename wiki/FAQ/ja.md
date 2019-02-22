@@ -122,7 +122,7 @@ Cよりも下の条件でクリア
 ==========
 
 メインメニューのSOLOを選択すればプレイできます。
-ですが、一部の譜面は強制的に[osu!taiko](/wiki/Game_Modes/osu!taiko)、[osu!catch](/wiki/Game_Modes/osu!catch)または[osu!mania](/wiki/Game_Modes/osu!mania)に変更されるので注意してください。
+ですが、譜面の中には[osu!taiko](/wiki/Game_Modes/osu!taiko)、[osu!catch](/wiki/Game_Modes/osu!catch)または[osu!mania](/wiki/Game_Modes/osu!mania)専用のものがあり、その譜面をプレイするときはモードが強制的に変更されます。
 
 ルール
 ======
