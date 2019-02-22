@@ -56,7 +56,7 @@ Getting things done is what keeps osu! alive and moving, and there is perhaps no
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/VeilStar.jpg)](https://osu.ppy.sh/users/4255720)
 
-A formerly gigantic presence in the forum technical support team, VeilStar has been responsible for the resolution of literally *thousands* of technical issues over the years and has helped similar amounts of people enjoy osu! to its fullest.
+A formerly gigantic presence in the technical support team, VeilStar's help has been chiefly responsible for hundreds, if not thousands of people getting to enjoy osu! to its fullest.
 
 Having since departed the team and osu! in general to pursue things elsewhere, we'd like to express just how thankful we are for his assistance over the years.
 
