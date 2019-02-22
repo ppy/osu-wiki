@@ -40,7 +40,7 @@ The workload involved in running the osu! World Cups is *immense*, perhaps far g
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/WalterToro.jpg)](https://osu.ppy.sh/users/5281416)
 
-A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is *everywhere*, in the osu!wiki scene, in the tournaments scene, and wildly active in the Spanish community to say the least.
+A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is *everywhere*: in the osu!wiki team, in the tournaments scene, and wildly active in the Spanish community to say the least.
 
 From refereeing matches to refereeing people, we are very thankful for WalterToro's incredible work ethic and tireless drive to do what needs to be done.
 
