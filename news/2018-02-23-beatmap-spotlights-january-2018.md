@@ -88,7 +88,7 @@ This is a quite unique map in the ranked section and will ask a lot of different
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/tryment.jpg)](https://osu.ppy.sh/beatmapsets/572690)
 
-Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu__rinrin](https://osu.ppy.sh/u/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
+Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu__rinrin](https://osu.ppy.sh/users/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
 
 Despite the short song length, it is a well-made mapset that shows his expertise in taiko mapping, as well as understanding of musical emotion. Definitely worth mentioning in this month's Spotlights!
 
@@ -112,7 +112,7 @@ Moreover, the Overdose stands out for its genius use of Hyperdashes in kiai time
 
 [Spectator](https://osu.ppy.sh/users/702598)'s fine art for Deemo lovers! Collaborating with [Ascendance](https://osu.ppy.sh/users/2931883) and [Sinnoh](https://osu.ppy.sh/users/4236057), Spectator brings us Marigold by M2U feat. Guriri, an appealing song with a top quality map. Despite the relatively low BPM, the intensity of the song is well expressed with wiggling and bursts used right to the point. On top of the map itself, it contains a splendid storyboard adding to its excellence. Be sure to check out this masterpiece!
 
-[![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/uta.jpg)](https://osu.ppy.sh/s/457332)
+[![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/uta.jpg)](https://osu.ppy.sh/beatmapsets/457332)
 
 You've had to have lived under a rock (underneath another rock) to not heard of this one - it's Uta mapped by [Kyuare](https://osu.ppy.sh/users/2705312)! With over 150 favorites over the course of two years, this map is quite the hyped map.
 
@@ -147,5 +147,3 @@ Taking my time to congratulate you too Toaph and I am personally looking forward
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Do not forget to have a rest occasionally!
 
 —Kurokami, Mao
-
-

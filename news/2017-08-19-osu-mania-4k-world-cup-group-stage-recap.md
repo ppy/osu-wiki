@@ -12,11 +12,11 @@ This past weekend saw the conclusion of the Group Stage, where we had 184 talent
 
 Widely regarded as the busiest weekend in any tournament, this year's Group Stage saw a grand total of 46 matches packed tightly into the span of 2 days. Courtesy of our beloved mappool selectors, we were treated to a truly diverse mappool featuring artists from all around the world. As expected, the mappool difficulty has increased substantially from last year, though this has not discouraged players in the slightest.
 
-[Tim & Eric - Sports!](https://osu.ppy.sh/b/685357&m=3) was the most popular pick, having been played an astonishing 30 times! On the opposite side of the spectrum, [stereoberry - evangelize (blurry images)](https://osu.ppy.sh/b/1222765&m=3) was viewed in a more cautious light, having been banned 21 times. Finally, [Takemura Kiriko - Ninja Re Bang Bang](https://osu.ppy.sh/b/816807&m=3) received the most attention overall, having been played or banned in a total of 41 matches!
+[Tim & Eric - Sports!](https://osu.ppy.sh/beatmaps/685357&m=3) was the most popular pick, having been played an astonishing 30 times! On the opposite side of the spectrum, [stereoberry - evangelize (blurry images)](https://osu.ppy.sh/beatmaps/1222765&m=3) was viewed in a more cautious light, having been banned 21 times. Finally, [Takemura Kiriko - Ninja Re Bang Bang](https://osu.ppy.sh/beatmaps/816807&m=3) received the most attention overall, having been played or banned in a total of 41 matches!
 
 With regards to the individual matches, there were definitely some memorable highlights:
 
-Kicking into high gear on Saturday, we were almost immediately treated to one of our first tiebreaker matches of the weekend - Norway vs. Hong Kong! The unseeded Norwegians started off strongly, confidently taking 3 points in quick succession from the opposing low seeded team. Hong Kong wasn't even close to giving up though, as they promptly got back on their feet and responded in kind - evening up the score to 3-3. After an intense [tiebreaker](https://osu.ppy.sh/b/1258514&m=3), Hong Kong sealed the deal by outperforming the Norwegians by a significant margin of 99,766 score, snatching victory from the jaws of defeat.
+Kicking into high gear on Saturday, we were almost immediately treated to one of our first tiebreaker matches of the weekend - Norway vs. Hong Kong! The unseeded Norwegians started off strongly, confidently taking 3 points in quick succession from the opposing low seeded team. Hong Kong wasn't even close to giving up though, as they promptly got back on their feet and responded in kind - evening up the score to 3-3. After an intense [tiebreaker](https://osu.ppy.sh/beatmaps/1258514&m=3), Hong Kong sealed the deal by outperforming the Norwegians by a significant margin of 99,766 score, snatching victory from the jaws of defeat.
 
 ![](/wiki/shared/news/2017-08-19-osu-mania-4k-world-cup-group-stage-recap/FinlandHongKong_game2.jpg)
 
@@ -36,6 +36,6 @@ After such a fiercely exciting weekend, only 16 teams now remain. Props to the U
 
 This year's installment of the MWC 4K promises to be an exciting one indeed. Every team is looking eager to take the trophy home, along with the glorious title of osu!mania Champion! Be sure to drop by the [osu!live Twitch Channel](https://www.twitch.tv/osulive) next Sunday to show your support for all the teams participating!
 
-Don't forget, you can also show your additional love and support for the remaining teams by purchasing one of the many colorful user profile banners! These were painstakingly designed by [flyte](https://osu.ppy.sh/users/3103765) himself, and as an added bonus - the banner of the winning team will continue to stay long after the tournament is over. [Get your profile banners now today!](https://osu.ppy.sh/store/product/226)
+Don't forget, you can also show your additional love and support for the remaining teams by purchasing one of the many colorful user profile banners! These were painstakingly designed by [flyte](https://osu.ppy.sh/users/3103765) himself, and as an added bonus - the banner of the winning team will continue to stay long after the tournament is over. [Get your profile banners now today!](https://osu.ppy.sh/store/products/226)
 
 —mangomizer

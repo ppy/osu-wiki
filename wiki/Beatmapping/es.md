@@ -37,7 +37,7 @@ _Ver también: [Tiempo](/wiki/Timing)_
 Los mapas cronometrados incorrectamente no serán considerados para el ranking.
 Debes asegurarte de que tu tiempo sea perfecto antes de agregar cualquier [objeto de golpeo](/wiki/Hit_Objects).
 
-Si tiene dudas sobre el tiempo, ponte primero en contacto con un mod para obtener ayuda o envía tu canción al [foro de ayuda de Beatmap](https://osu.ppy.sh/forum/10).
+Si tiene dudas sobre el tiempo, ponte primero en contacto con un mod para obtener ayuda o envía tu canción al [foro de ayuda de Beatmap](https://osu.ppy.sh/community/forums/10).
 Esto te ahorrará a ti (y a la comunidad de modding) muchas molestias más adelante.
 
 ### Componer

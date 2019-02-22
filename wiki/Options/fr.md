@@ -109,7 +109,7 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 | 60fps (VSync)                                                                  | 60fps (latence lente)                                                                                                                                |
 ||
 
-Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limiter le nombre de FPS pour prévenir les surchauffes et la consommation excessive de la batterie comme mentionné sur [ce topic](http://osu.ppy.sh/forum/t/82605) (en anglais).
+Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limiter le nombre de FPS pour prévenir les surchauffes et la consommation excessive de la batterie comme mentionné sur [ce topic](https://osu.ppy.sh/community/forums/topics/82605) (en anglais).
 
 -   **Affiche le compteur de FPS**: Affiche un compteur de FPS en bas à droite de l'écran.
 
@@ -281,7 +281,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 </tr>
 <tr class="odd">
 <td><p>Toujours utiliser le skin Taiko (mode Taiko)</p></td>
-<td><p>Si cette option est cochée, <a href="http://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">le skin Taiko de LuigiHann</a> sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).</p></td>
+<td><p>Si cette option est cochée, <a href="https://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">le skin Taiko de LuigiHann</a> sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).</p></td>
 </tr>
 <tr class="even">
 <td><p>Toujours utiliser le curseur du skin choisi</p></td>
@@ -307,8 +307,8 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 
 1.  Cette zone sur le côté droit de l'écran liste les skins que vous avez téléchargés et placés dans le sous-dossier Skins d'osu!. Pour changer de skin, cliquez simplement sur l'un d'eux.
 2.  Au centre, un aperçu du skin sélectionné est affiché. L'intelligence artificielle est programmée pour faire des erreurs afin que vous puissiez voir le plus d'éléments possibles.
-3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](http://osu.ppy.sh/forum/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
-    1.  Pour une liste de skins (en anglais):[Original](http://osu.ppy.sh/forum/t/23820), [Mis à jour](https://osu.ppy.sh/forum/t/180864), [version](http://osu.ppy.sh/forum/t/136163).
+3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](https://osu.ppy.sh/community/forums/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
+    1.  Pour une liste de skins (en anglais):[Original](https://osu.ppy.sh/community/forums/topics/23820), [Mis à jour](https://osu.ppy.sh/community/forums/topics/180864), [version](https://osu.ppy.sh/community/forums/topics/136163).
 
 4.  Cliquer sur "Beatmap aléatoire" va charger une beatmap au hasard parmi votre liste de beatmaps avec le skin sélectionné.
 5.  Cliquez sur "Back" ou pressez Echap pour retourner à la catégorie Skins du menu d'options.
@@ -374,7 +374,7 @@ Entre x0.40 et x6, par défaut sur 1.</p></td>
 </tr>
 <tr class="even">
 <td><p>Contourner le pilote de la souris</p></td>
-<td><p>(Ajouté depuis Février 2014) <em>Détecte la position du curseur directement depuis le périphérique, sans aucun post-traitement par le pilote de ce dernier.</em>' <span class="plainlinks"><a href="https://osu.ppy.sh/forum/t/187785">Cliquez ici pour plus d'informations</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">A propos du &quot;Polling Rate&quot;, reférez vous à cet article sur howtogeek.com.</a></span></p></td>
+<td><p>(Ajouté depuis Février 2014) <em>Détecte la position du curseur directement depuis le périphérique, sans aucun post-traitement par le pilote de ce dernier.</em>' <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Cliquez ici pour plus d'informations</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">A propos du &quot;Polling Rate&quot;, reférez vous à cet article sur howtogeek.com.</a></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Molette de la souris désactivée pendant les parties</p></td>

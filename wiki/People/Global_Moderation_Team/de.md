@@ -54,7 +54,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch | Chat Moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Französisch, Spanisch | Chat Moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesisch | Chat Moderation |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinesisch | Chat Moderation |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinesisch | Chat Moderation |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Chat Moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Deutsch | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russisch | Chat Moderation |

@@ -46,7 +46,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/4550383)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Group Stage statistics overview](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
@@ -399,7 +399,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 ### Tournament Rules
 
 1.  The osu! World Cup is a country-based 4v4 team tournament
-2.  Map scoring is based on a new metric, called Score V2. **[Read more about it!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map scoring is based on a new metric, called Score V2. **[Read more about it!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 4.  Match schedule will be settled by Tournament Management (see below).

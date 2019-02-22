@@ -365,7 +365,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
     - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/forum/t/466617) for more information.**
+2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/community/forums/topics/466617) for more information.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - There will be a NoMod and a FreeMod bracket.
     - One map will be given as a tiebreaker map. This map will only be played in case of a tie.

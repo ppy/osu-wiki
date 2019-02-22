@@ -100,4 +100,4 @@ Spoilear El método para desbloquear estos logros concretos "tendrá como result
 Link Externo
 ----------------
 
--   peppy's Achievement Graphics [1](https://osu.ppy.sh/forum/t/80448)
+-   peppy's Achievement Graphics [1](https://osu.ppy.sh/community/forums/topics/80448)

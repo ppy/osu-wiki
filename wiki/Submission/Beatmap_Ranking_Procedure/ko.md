@@ -13,7 +13,7 @@ Bubble (버블) ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon")
 
 ### 다른 모드의 Bubble (버블)
 
-Mode-Specific Bubble은 2개 이상의 모드가 섞인 맵셋의 특정한 모드에 적용되는 Bubble입니다. 각 모드의 Bubble 기준은 각 [Ranking Criteria/랭킹 크리테리아에](/wiki/Ranking_Criteria) 따라 차이가 있지만, 각 모드를 담당한/가능한 한 그 모드의 전용 BAT만이 Bubble을 줄 수 있습니다. 이용가능한 BAT의 리스트는 다음부분을 참조하여주십시오. [BAT/뱃 리스트](/wiki/People/Beatmap_Nomination_Group), 또는 [해당 포스트](https://osu.ppy.sh/forum/p/2430411).
+Mode-Specific Bubble은 2개 이상의 모드가 섞인 맵셋의 특정한 모드에 적용되는 Bubble입니다. 각 모드의 Bubble 기준은 각 [Ranking Criteria/랭킹 크리테리아에](/wiki/Ranking_Criteria) 따라 차이가 있지만, 각 모드를 담당한/가능한 한 그 모드의 전용 BAT만이 Bubble을 줄 수 있습니다. 이용가능한 BAT의 리스트는 다음부분을 참조하여주십시오. [BAT/뱃 리스트](/wiki/People/Beatmap_Nomination_Group), 또는 [해당 포스트](https://osu.ppy.sh/community/forums/posts/2430411).
 
 Popped Bubble (버블 팝) ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 ------------------------------------------------------------------------------------------

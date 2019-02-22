@@ -6,7 +6,7 @@ osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
-**osu! World Cup 2014** — это всемирный турнир по osu!, проводящийся группой [Tournament Management](https://osu.ppy.sh/g/26). История этих турниров ведёт начало с 2010-го года. Победителем предыдущего турнира была **![](Kr.gif "fig:Kr.gif") Южная Корея**.
+**osu! World Cup 2014** — это всемирный турнир по osu!, проводящийся группой [Tournament Management](https://osu.ppy.sh/groups/26). История этих турниров ведёт начало с 2010-го года. Победителем предыдущего турнира была **![](Kr.gif "fig:Kr.gif") Южная Корея**.
 
 Соревнование подошло к концу и результаты таковы:
 
@@ -57,9 +57,9 @@ osu! World Cup 2014
 
 -   [osu! World Cup 2014 на Twitch](https://www.twitch.tv/osulive/)
 -   [Форма регистрации](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [Тема на форуме](https://osu.ppy.sh/forum/t/247090)
--   [Тема на русском форуме](https://osu.ppy.sh/forum/t/243139)
--   [Обсуждение маппула](https://osu.ppy.sh/forum/t/255369)
+-   [Тема на форуме](https://osu.ppy.sh/community/forums/topics/247090)
+-   [Тема на русском форуме](https://osu.ppy.sh/community/forums/topics/243139)
+-   [Обсуждение маппула](https://osu.ppy.sh/community/forums/topics/255369)
 -   **[Статистика групповой стадии](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------

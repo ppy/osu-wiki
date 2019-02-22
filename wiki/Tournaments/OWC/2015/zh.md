@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/g/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
+**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/groups/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
 
 比赛日程
 ---------
@@ -22,7 +22,7 @@ osu! World Cup 2015
 奖项
 -------
 
-我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](https://store.ppy.sh/store/product/38)** 来支持它。
+我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](https://osu.ppy.sh/store/products/38)** 来支持它。
 
 | Placing                                                    | Prizes                                      |
 |------------------------------------------------------------|---------------------------------------------|
@@ -47,8 +47,8 @@ osu! World Cup 2015
 ------
 
 -   [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive/)
--   [讨论页](https://osu.ppy.sh/forum/p/4550383)
--   [报名页](https://jizz.ppy.sh/tournaments/2)
+-   [讨论页](https://osu.ppy.sh/community/forums/posts/4550383)
+-   [报名页](https://osu.ppy.sh/tournaments/2)
 -   [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 -   **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
@@ -481,7 +481,7 @@ osu! World Cup 2015
 ### 竞赛规则
 
 1.  osu! World Cup 是一个基于国家的4v4比赛。
-2.  使用新的 **[Score V2](https://osu.ppy.sh/forum/t/375428)** 计分。
+2.  使用新的 **[Score V2](https://osu.ppy.sh/community/forums/topics/375428)** 计分。
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 

@@ -463,8 +463,8 @@ When linking to a user profile, you must use the user's id number instead of the
 ```md
 Do not:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111 "Andrea")
-[Agent Spin Here](/users/Agent%20Spin%20Here)
-[peppy](/users/peppy)
+[Agent Spin Here](https://osu.ppy.sh/users/Agent%20Spin%20Here)
+[peppy](https://osu.ppy.sh/users/peppy)
 
 Do (okay):
 [osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")
@@ -473,7 +473,7 @@ Do (okay):
 Do (preferred):
 [Andrea](https://osu.ppy.sh/users/33599)
 [Mashley](https://osu.ppy.sh/users/41481)
-[peppy](/users/2)
+[peppy](https://osu.ppy.sh/users/2)
 ```
 
 Whenever possible, with exception, use the current user's name instead of their previous name(s).
@@ -637,9 +637,9 @@ Never use image links! Image links are links with the image as the link text. On
 Flag icons next to userlinks must be separate from the username. For example:
 
 ```md
-Do not: [![][flag_AU] peppy](/users/2)
+Do not: [![][flag_AU] peppy](https://osu.ppy.sh/users/2)
 
-Do:     ![][flag_AU] [peppy](/users/2)
+Do:     ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 ```
 
 #### Flag icons

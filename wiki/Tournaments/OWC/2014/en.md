@@ -46,7 +46,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 

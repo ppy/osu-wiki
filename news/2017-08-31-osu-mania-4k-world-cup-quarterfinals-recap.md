@@ -27,7 +27,7 @@ Every single team was determined to make the most of their situation, all in the
 
 *"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
 
-*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/b/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
+*"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/beatmaps/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
 
 ### Mappool Statistics:
 
@@ -59,7 +59,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 **[Singapore gave China a fair challenge, losing 1 - 5](https://osu.ppy.sh/community/matches/35604433).** Adhering to a common theme this week, Singapore lost the first 2 points despite having the first pick. They were then able to scrape a point back on their second pick [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmapsets/580157#mania/1228388), edging out China by a marginal score difference of *4307*. However, China returned fire and proceeded to win the match without too much difficulty.  
 
-**Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/u/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
+**Regrettably, Hong Kong vs. Sweden ended with a WBD in favour of Sweden.** A "win-by-default" is an uncommon outcome that arises when one team lacks sufficient players to compete. Already a small team in their own right, Hong Kong's **[Opean](https://osu.ppy.sh/users/4544555)** was plagued with connectivity issues along with a myriad of unfortunate circumstances. Unable to compete with a full team, Sweden won the match by default (but not before taking 3 points off them). Below are the final moments before Hong Kong was forced to concede the match.
 
 ![](/wiki/shared/news/2017-08-31-osu-mania-4k-world-cup-quarterfinals-recap/HongKongSweden_game3.jpg)
 
@@ -91,7 +91,7 @@ Meanwhile, the lower part of the Losers Bracket will first see Sweden vs. Japan.
 
 **The first match of the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
-**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/product/226).
+**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/products/226).
 
 --------
 

@@ -116,7 +116,7 @@ In osu!web, thanks to nanaya, the header has been updated to match flyte's new d
 
 ---
 
-Thanks to nekodex, the osu!supporter status is now visible in the [support the game](/home/support) page and adding your Discord username to your user account was implemented.
+Thanks to nekodex, the osu!supporter status is now visible in the [support the game](https://osu.ppy.sh/home/support) page and adding your Discord username to your user account was implemented.
 
 ---
 

@@ -58,7 +58,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 | Posisi | Anggota |
 | :-- | :-- |
-| Contoh; hapus baris ini | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [BanchoBot](/users/3) |
+| Contoh; hapus baris ini | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
 | Penyelenggara |  |
 | Pemilih Map |  |
 | Penyiar |
@@ -69,7 +69,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 ## Tautan
 
-- [Topik diskusi](/community/forums/topics/{TOPIC_NUM})
+- [Topik diskusi](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
 - [Siaran langsung](https://www.twitch.tv/osulive)
 - **[Lembar statistik]({STATS_LINK})**
 
@@ -77,7 +77,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 |  | Negara | Anggota |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](/users/2), [BanchoBot](/users/3) |
+| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
 |  |  |  |
 
 ## Grup

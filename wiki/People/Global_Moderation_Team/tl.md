@@ -15,7 +15,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 
 ## Team Members
 
-*Nota: Lahat ng BAT ay nagsasalita ng Ingles maliban nalang kung ito ay nakanota.* - [Team Page](http://osu.ppy.sh/groups/4)
+*Nota: Lahat ng BAT ay nagsasalita ng Ingles maliban nalang kung ito ay nakanota.* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Pangalan | Ibang wika na naiintindihan | Lugar kung saan nakafocus |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat Moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat Moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat Moderation |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinese | Chat Moderation |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat Moderation |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Chat Moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Chat Moderation |

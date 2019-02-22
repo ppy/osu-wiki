@@ -14,7 +14,7 @@ Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création 
 ------
 
 <center>
-<span style="font-size:18px">1. Allez sur le <span class="plainlinks"> [site](https://osu.ppy.sh)</span> et cliquez sur "<b>I'm new!</b>" pour commencer votre inscription. </span>
+<span style="font-size:18px">1. Allez sur le <span class="plainlinks"> [site](https://osu.ppy.sh/home)</span> et cliquez sur "<b>I'm new!</b>" pour commencer votre inscription. </span>
 
 <span style="font-size:18px">2. Remplissez les champs et cliquez sur "Continue" </span>
 

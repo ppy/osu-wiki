@@ -6,7 +6,7 @@ tags:
 # osu! Z-Tournament 2018
 ![osu!Z-Tournament 2018](OZT2018.png)
 
-The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/forum/t/580366).
+The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/community/forums/topics/580366).
 
 ## Links
 - [OZT2018 Discord server](https://discord.gg/29RmHDQ)
@@ -14,7 +14,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - [OZT2018 Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing)
 - [OZT2018 Map pool](https://docs.google.com/spreadsheets/d/1enUr9idRE7cAlAIEXoWVaIhBedvGOu3vKEGzLNLcUDU/edit?usp=sharing)
-- [OZT2018 osu! Forum post](https://osu.ppy.sh/forum/t/735631)
+- [OZT2018 osu! Forum post](https://osu.ppy.sh/community/forums/topics/735631)
 
 ## General tournament rules
 - Score system: Scorev2
@@ -24,7 +24,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed. (Players, team name, etc.)
 - Scheduling must be done before the match, there must be mutual agreement between the teams.
 - Any misconduct will result in a punishment.
-- Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/u/6116759) or [**Div**](https://osu.ppy.sh/u/3751116)
+- Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/users/6116759) or [**Div**](https://osu.ppy.sh/users/3751116)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
 ## Tournament schedule
 

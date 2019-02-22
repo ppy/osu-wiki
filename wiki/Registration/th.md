@@ -7,7 +7,7 @@ outdated: true
 <center>
 **<font size="5"><span style="color:#FF0000">คำเตือน: การสมัครมากกว่าหนึ่งไอดีจะเป็นการละเมิด<span class="plainlinks">[กฎของ osu!](/wiki/Rules)</span></span>**
 </font>
-<span style="font-size:18px">1. ที่<span class="plainlinks">[หน้าหลัก](https://osu.ppy.sh)</span> คลิก "<b>I'm new!</b>" เพื่อเริ่มลงทะเบียน </span>
+<span style="font-size:18px">1. ที่<span class="plainlinks">[หน้าหลัก](https://osu.ppy.sh/home)</span> คลิก "<b>I'm new!</b>" เพื่อเริ่มลงทะเบียน </span>
 
 <span style="font-size:18px">2. กรอกทุกอย่างลงแบบฟอร์มแล้วกด "Continue" </span>
 

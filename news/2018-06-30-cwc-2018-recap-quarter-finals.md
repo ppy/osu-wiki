@@ -8,7 +8,7 @@ Another week of historic fruit catching action down, just three more to go. This
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Hello everyone and welcome! With regular writer [JBHyperion](https://osu.ppy.sh/u/4879508) on vacation, I, [Dohland](https://osu.ppy.sh/u/5220511) present to you the osu!catch World Cup 2018 Quarter Finals Recap! We had high expectations going into the weekend with one of the most stacked Winners' Bracket Quarterfinals we've ever seen. Let's see who came out on top!
+Hello everyone and welcome! With regular writer [JBHyperion](https://osu.ppy.sh/users/4879508) on vacation, I, [Dohland](https://osu.ppy.sh/users/5220511) present to you the osu!catch World Cup 2018 Quarter Finals Recap! We had high expectations going into the weekend with one of the most stacked Winners' Bracket Quarterfinals we've ever seen. Let's see who came out on top!
 
 <iframe src="https://player.twitch.tv/?autoplay=false&video=v277697607" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 

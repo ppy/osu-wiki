@@ -113,7 +113,7 @@ The United Kingdom and Japan teams have progressed in the Losers Bracket as a re
 
 **Join us on the [osu!live Twitch channel](https://www.twitch.tv/osulive/) starting at 14:00 UTC on Saturday, September 9th for the first two Losers Bracket matches!** Japan and Chile will begin week 1 of the Finals, fighting each other on this brutally difficult Finals mappool. Immediately after that will be the United Kingdom and Brazil teams fighting it out to push their way through the bracket.
 
-There may only be two weeks left in the tournament, but that is still more than enough time to [get a banner and show support for your team!](https://osu.ppy.sh/store/product/226) Remember, any banners that get purchased help to support the funding of the prize pool for the competitors that you are showing support for, a worthy cause.
+There may only be two weeks left in the tournament, but that is still more than enough time to [get a banner and show support for your team!](https://osu.ppy.sh/store/products/226) Remember, any banners that get purchased help to support the funding of the prize pool for the competitors that you are showing support for, a worthy cause.
 
 That concludes the recap of the Semifinals stage this week. I'd like to give a special shoutout to mangomizer for the nice format utilized in the Quarterfinals — thanks a lot! As always, feel free to comment with your thoughts about the recap; we're always looking for suggestions to make this better.
 

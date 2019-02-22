@@ -13,7 +13,7 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 
 ## Judges:
 
-[Nyquill](https://osu.ppy.sh/u/682935), [Charles445](https://osu.ppy.sh/u/85000), [LunarSakuya](https://osu.ppy.sh/u/1027860), [kanpakyin](https://osu.ppy.sh/u/394326), [Scorpiour](https://osu.ppy.sh/u/867259), [dkun](https://osu.ppy.sh/u/dkun), [Gabe](https://osu.ppy.sh/u/654108).
+[Nyquill](https://osu.ppy.sh/users/682935), [Charles445](https://osu.ppy.sh/users/85000), [LunarSakuya](https://osu.ppy.sh/users/1027860), [kanpakyin](https://osu.ppy.sh/users/394326), [Scorpiour](https://osu.ppy.sh/users/867259), [dkun](https://osu.ppy.sh/users/dkun), [Gabe](https://osu.ppy.sh/users/654108).
 
 ## Prizes:
 

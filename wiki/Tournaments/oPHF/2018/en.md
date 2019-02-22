@@ -38,20 +38,20 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management and Organisation | ![][flag_PH] [Zaphirox](/users/2478675) (osu!standard), ![][flag_PH] [Deneb](/users/2604212) (osu!taiko), ![][flag_PH] [Roido](/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](/users/4469895) (osu!mania) |
-| Map Selectors (osu!standard) | ![][flag_PH] [MioMilo](/users/2199427), ![][flag_PH] [Nitrous](/users/7293512), ![][flag_ID] [nya10](/users/1372608) |
-| Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](/users/2604212) |
-| Map Selectors (osu!catch) | ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Chloebe](/users/4577865), ![][flag_PH] [JeirYagtama](/users/7483452), ![][flag_PH] [-Nicotine](/users/4818935) |
-| Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](/users/5314573), ![][flag_PH] [JztCallMeRon](/users/2471512), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_SG] [Raveille](/users/1388767). ![][flag_MY] [Cryolien](/users/1626983), ![][flag_MY] [cheewee10](/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936), ![][flag_PH] [samosita](/users/6090289), ![][flag_PH] [ggnakacarlz](/users/4075421), ![][flag_PH] [-MomoX](/users/2150415), ![][flag_PH] [Roido](/users/6829103), ![][flag_PH] [Nezol](/users/7509103), ![][flag_PH] [Afireee](/users/7919913), ![][flag_PH] [Hues](/users/2367206), ![][flag_SG] [Raveille](/users/1388767), ![][flag_AU] [nonamegohst](/users/4384859), ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Streamers | ![][flag_PH] [aEverr](/users/6027084), ![][flag_PH] [Ainyan](/users/3770641), ![][flag_PH] [LohaWarpe](/users/8560810) |
-| Commentators | ![][flag_PH] [Zaphirox](/users/2478675), ![][flag_PH] [Deneb](/users/2604212), ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [Awishi](/users/4290020), ![][flag_PH] [Toyohime-](/users/9770359), ![][flag_AU] [PotassiumF](/users/4247722) |
-| Graphic Designer | ![][flag_PH] [Mira-san](/users/4469895) |
-| Statisticians | ![][flag_PH] [SurfChu85](/users/4469895), ![][flag_PH] [MapleSyrup-](/users/1192936) |
+| Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
+| Map Selectors (osu!standard) | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
+| Map Selectors (osu!catch) | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
+| Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
+| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/801475)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/801475)
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q)
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/)
@@ -1232,13 +1232,13 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Restrictions for osu!standard
 
-- Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](/help/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
+- Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
 
 - Players not allowed to join the osu!standard tournament are allowed to join the other four tournaments as they see fit.
 
 #### Restrictions for osu!mania 4K
 
-- 4K Division Quarterfinalists of the [osu!Philippines Holiday Friendlies 2017](/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](/help/wiki/Tournaments/oPHST/2018) are not allowed to join the 4K tournament.
+- 4K Division Quarterfinalists of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](https://osu.ppy.sh/help/wiki/Tournaments/oPHST/2018) are not allowed to join the 4K tournament.
 - Members (former and current) of the Philippine Team on the osu!mania 4K World Cup are not allowed to join the 4K Tournament.
 - Players not allowed to join the osu!mania 4K tournament are allowed to join the other four tournaments as they see fit.
 

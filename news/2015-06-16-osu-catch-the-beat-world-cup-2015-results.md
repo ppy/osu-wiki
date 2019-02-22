@@ -23,7 +23,7 @@ You can watch the full record of the finals right here:
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. It was the first time we managed to host the osu! Catch the Beat World Cup with 32 teams! During the grand finals, over 2,500 viewers were recorded watching the live-stream, the biggest audience we ever had on this tournament! We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!
 
-If you want to learn more about the osu! Catch the Beat World Cup 2015, take a look at the [wiki article](http://osu.ppy.sh/wiki/CWC_2015).
+If you want to learn more about the osu! Catch the Beat World Cup 2015, take a look at the [wiki article](https://osu.ppy.sh/wiki/CWC_2015).
 
 We would also like to mention the upcoming tournaments, mostly the upcoming osu!mania World Cup 2015 (4K Edition)! Registrations will open in about a month and we are expecting many people to sign up!
 

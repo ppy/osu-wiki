@@ -10,7 +10,7 @@ Always wondered why people seem so fascinated with coconut milk and banelings? H
 
 ## This week's theme
 
-This week, we're dedicating the episode to the **Global Moderation Team**, or GMT for short. Joining me [(HappyStick)](https://osu.ppy.sh/u/256802) this Friday will be [deadbeat](https://osu.ppy.sh/u/128370) and [WalterToro](https://osu.ppy.sh/u/5281416).
+This week, we're dedicating the episode to the **Global Moderation Team**, or GMT for short. Joining me [(HappyStick)](https://osu.ppy.sh/users/256802) this Friday will be [deadbeat](https://osu.ppy.sh/users/128370) and [WalterToro](https://osu.ppy.sh/users/5281416).
 
 The GMT are essentially the backbone of the game's community, keeping the in-game chat and forums in check, as well as being reputable members who often host and help host other community projects for others to enjoy.
 

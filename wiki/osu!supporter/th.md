@@ -8,7 +8,7 @@ outdated: true
 
 <img src="Osu-support.png" title=" โฆษณาขายตรงลิงค์ไปยังลิงค์ของ osu!supporter" alt=" โฆษณาขายตรงลิงค์ไปยังลิงค์ของ osu!supporter" width="200" />
 
-จากลิงค์: <http://osu.ppy.sh/p/support>
+จากลิงค์: <https://osu.ppy.sh/p/support>
 
 สั้นๆ: คือการบริจาคเงินส่วนหนึ่งเพื่อให้ osu! อยู่รอดได้
 
@@ -18,17 +18,17 @@ outdated: true
 -   osu!direct (โหลดบีทแมพในเกมเลย ไม่ต้องเสียเวลาเข้าเว็บให้ยุ่งยาก)
 -   เล่นโหมด Multiplayer ได้ในตัวเกมรุ่น cutting-edge
 -   [หน้าต่างพูดคุย](หน้าต่างพูดคุย "wikilink"): ชื่อ<span style="color:#FFC700; background-color:#000000; font-weight:bold;">สีเหลืองเข้มกว่าเดิม</span> (คนอื่นเห็นอย่างนี้ แต่ตัวเราเห็นเองในเกมก็เห็นสีขาวเหมือนเดิมนะ).
--   [Beatmap listing](http://osu.ppy.sh/p/beatmaplist) : กรองบีทแมพที่เล่นแล้ว/ยังไม่เล่น ได้
--   การทำสกิน: คุณจะสามารถใช้วัตถุบางอย่างในเกมได้ เช่นภาพพื้นหลังของ [เมนูหลัก](http://osu.ppy.sh/forum/t/96949)
+-   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist) : กรองบีทแมพที่เล่นแล้ว/ยังไม่เล่น ได้
+-   การทำสกิน: คุณจะสามารถใช้วัตถุบางอย่างในเกมได้ เช่นภาพพื้นหลังของ [เมนูหลัก](https://osu.ppy.sh/community/forums/topics/96949)
     -   เช่น `menu-background.jpg` (หน้าเมนูหลัก); `triangle.jpg` (รูปสามเหลี่ยม (ตอนนี้ใช้ไม่ได้)); `welcome.wav` (เสียงตอนเปิดเกม); `seeya.wav` (เสียงตอนออกเกม)
--   [กระทู้ Feature Requests](http://osu.ppy.sh/forum/4): ได้คะแนนโหวตกระทู้เพิ่มขึ้น (2 โหวตต่อเดือน จาก 1 โหวตต่อเดือน).
+-   [กระทู้ Feature Requests](https://osu.ppy.sh/community/forums/4): ได้คะแนนโหวตกระทู้เพิ่มขึ้น (2 โหวตต่อเดือน จาก 1 โหวตต่อเดือน).
 -   [หน้าเลือกเพลงในเกม](/wiki/Interface): สามารถกรองอันดับคะแนนเฉพาะในประเทศ / เพื่อน หรือเฉพาะ mod ที่เราเปิดใช้ ก็ได้
--   ที่หน้าโปรไฟล์ของเรา: <http://osu.ppy.sh/u/>
+-   ที่หน้าโปรไฟล์ของเรา: <https://osu.ppy.sh/users/>
     -   มี User Page เป็นของตัเองด้วย
         -   และจะไม่โดนลบทิ้ง หลังจาก supporter tag หมดอายุไปแล้ว
     -   สามารถ [เปลี่ยนชื่อในเกมได้](https://osu.ppy.sh/p/profile-username/) (ครั้งเดียว ฟรี ถ้าครั้งต่อไปก็เตรียมเงิน 8 ดอลลาร์ได้เลย)
     -   เพิ่มจำนวนการส่งบีทแมพ (สูงสุดคือ 10 บีทแมพ (ต้องเป็น**บีทแมพที่รอตรวจสอบ**)).
--   [อันดับความสามารถ](http://osu.ppy.sh/p/pp): กรองรายชื่อเฉพาะ "เพื่อน" ได้
+-   [อันดับความสามารถ](https://osu.ppy.sh/p/pp): กรองรายชื่อเฉพาะ "เพื่อน" ได้
 -   *เดี๋ยวก็มาเรื่อยๆ คอยดู!*
 
 เรื่องของธุรกิจ และการเงิน
@@ -66,6 +66,6 @@ outdated: true
 ระยะเวลา
 --------
 
-<img src="O!s Duration.jpg" title="fig:เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." alt="เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." width="200" /> หลังจากจ่ายเงินเป็นที่เรียบร้อยแล้ว ที่หน้าโปรไฟล์ของคุณจะขึ้น (ถ้าคุณเป็นครั้งแรก) "{ชื่อบัญชีของคุณที่นี่} has become an osu! supporter - thanks for your generosity!" หรือ (เคยเป็นมาแล้วแต่เป็นอีก) "{ชื่อบัญชีของคุณที่นี่} has once again chosen to donate to the osu! cause - thanks for your generosity!" ถ้าคุณซื้อให้ตัวเอง คุณจะเห็นตรา osu!supporter ใต้รูปโปรไฟล์ของคุณ ถ้าจะเช็คว่าเมื่อไหร่ supporter tag จะหมดอายุ [ก็ให้กลับไปที่เดิมที่เคยเสียเงิน](http://osu.ppy.sh/p/support).
+<img src="O!s Duration.jpg" title="fig:เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." alt="เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter." width="200" /> หลังจากจ่ายเงินเป็นที่เรียบร้อยแล้ว ที่หน้าโปรไฟล์ของคุณจะขึ้น (ถ้าคุณเป็นครั้งแรก) "{ชื่อบัญชีของคุณที่นี่} has become an osu! supporter - thanks for your generosity!" หรือ (เคยเป็นมาแล้วแต่เป็นอีก) "{ชื่อบัญชีของคุณที่นี่} has once again chosen to donate to the osu! cause - thanks for your generosity!" ถ้าคุณซื้อให้ตัวเอง คุณจะเห็นตรา osu!supporter ใต้รูปโปรไฟล์ของคุณ ถ้าจะเช็คว่าเมื่อไหร่ supporter tag จะหมดอายุ [ก็ให้กลับไปที่เดิมที่เคยเสียเงิน](https://osu.ppy.sh/p/support).
 
 <img src="Osu!support mail-gifted.png" title="fig:อีเมล์ที่ว่า" alt="อีเมล์ที่ว่า" width="200" /> อ้อ ลืมไป และคุณจะได้รับอีเมล์ "ขอบคุณ" จาก osu! ด้วย ตัวอย่างอยู่ทางขวามือ

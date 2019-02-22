@@ -1,13 +1,13 @@
 # Tim Layanan
 
-**Support Team** (juga dikenal sebagai **Support Team Redux**, tidak dibingungkan oleh tim layanan akun, atau Tim Pendukung/Support) adalah anggota staff osu! dimana mereka berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/forum/55) dan [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), dan [Help](https://osu.ppy.sh/forum/5).
+**Support Team** (juga dikenal sebagai **Support Team Redux**, tidak dibingungkan oleh tim layanan akun, atau Tim Pendukung/Support) adalah anggota staff osu! dimana mereka berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Tanggung Jawab
 
 Tim Support bertanggung Jawab atas:
 
 1.  Mengetes dan/atau Mengonfirmasikan bug untuk memberitahu pengembang dan untuk diperbaiki mereka.
-2.  Memoderasi thread di [Feature Requests](https://osu.ppy.sh/forum/4) dan [Help](https://osu.ppy.sh/forum/5) dan memberikan thread tersebut label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
+2.  Memoderasi thread di [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan thread tersebut label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
 
 Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, mereka dapat didatangi pertama kali.
 

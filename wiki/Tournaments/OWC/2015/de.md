@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
 ---------------
@@ -47,8 +47,8 @@ Links
 --------
 
 -   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
--   [Registrierungsseite](https://jizz.ppy.sh/tournaments/2)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
+-   [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ Regelsätze
 ### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 

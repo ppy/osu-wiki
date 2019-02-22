@@ -32,7 +32,7 @@ Additionally, [mancuso_JM_](https://osu.ppy.sh/users/521568) and [Kisses](https:
 Less than a month in and they've all worked hard to bring new content to the Ranked section. Congratulations to everyone and may your time in the Beatmap Nominators be an enjoyable and exciting experience!
 
 ### Beatmap Nominator Retirements
-Just as we say hello to new members, we must also say goodbye to old friends who have left to focus on other things. Please say farewell to [Naotoshi](https://osu.ppy.sh/u/5364763) and [xfraczynho](https://osu.ppy.sh/u/2192669) and show them appreciation for their hard work in osu! and osu!taiko respectively. Their efforts have positively impacted this community and paved the way for new members to follow in continuation of their work. It is much appreciated!
+Just as we say hello to new members, we must also say goodbye to old friends who have left to focus on other things. Please say farewell to [Naotoshi](https://osu.ppy.sh/users/5364763) and [xfraczynho](https://osu.ppy.sh/users/2192669) and show them appreciation for their hard work in osu! and osu!taiko respectively. Their efforts have positively impacted this community and paved the way for new members to follow in continuation of their work. It is much appreciated!
 
 ### Creation of the QAH
 The Beatmap Nominators have been internally split with the creation of the Quality Assurance Helpers (QAH). With the large influx of newly qualified maps every day, there was no easy way to ensure the quality of all these maps without going back to the old 2014 model of having the small team of QATs checking multiple maps all the time.

@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](https://osu.ppy.sh/g/26)에 의해 개최되는 국가 대항 토너먼트입니다.
+올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](https://osu.ppy.sh/groups/26)에 의해 개최되는 국가 대항 토너먼트입니다.
 
 토너먼트 일정
 -----------
@@ -22,7 +22,7 @@ osu! World Cup 2015
 상품
 ----
 
-저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](https://store.ppy.sh/store/product/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
+저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](https://osu.ppy.sh/store/products/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
 
 | Placing                                                    | Prizes                                    |
 |------------------------------------------------------------|-------------------------------------------|
@@ -47,8 +47,8 @@ osu! World Cup 2015
 ------
 
 -   [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
--   [논의 스레드](https://osu.ppy.sh/forum/p/4550383)
--   [등록 페이지](https://jizz.ppy.sh/tournaments/2)
+-   [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
+-   [등록 페이지](https://osu.ppy.sh/tournaments/2)
 -   [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 -   **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
@@ -327,7 +327,7 @@ osu! World Cup 2015
 ### 토너먼트 규칙
 
 1.  osu! World Cup은 국가 대항의 4:4 토너먼트입니다.
-2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/forum/t/375428)**
+2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  맵풀은 맵풀 선정자에 의해 경기가 있기 전 주의 일요일 이전에 발표됩니다. 이것들은 각각의 경기 중에 사용됩니다.
     -   한 맵은 타이브레이커 맵으로서 주어집니다. 이 맵은 동점인 상황에만 플레이하게 됩니다.
 

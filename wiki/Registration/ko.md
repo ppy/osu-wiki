@@ -18,7 +18,7 @@ osu!에 새로운 계정을 등록하는 일은 하나 둘 셋을 세는 것 만
 ------------------
 
 <center>
-<span style="font-size:18px">1. <span class="plainlinks"> [osu! 메인 홈페이지](https://osu.ppy.sh)</span>에 가셔서 "<b>I'm new!</b>"버튼을 클릭해주세요.</span>
+<span style="font-size:18px">1. <span class="plainlinks"> [osu! 메인 홈페이지](https://osu.ppy.sh/home)</span>에 가셔서 "<b>I'm new!</b>"버튼을 클릭해주세요.</span>
 
 <span style="font-size:18px">2. 아래의 빈 칸을 형식대로 채운 뒤, "Continue" 버튼을 눌러주세요 </span>
 

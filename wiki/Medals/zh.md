@@ -124,4 +124,4 @@ mod 初体验类奖章可以通过初次使用相应的 mods 来完成谱面获�
 ------
 
 - [查看旧版曲包（2009-2016），Stefan 更新前的版本](Beatmap_Packs_0916)。
-- peppy 在论坛中关于[成就图案](https://osu.ppy.sh/forum/t/80448)的征集。
+- peppy 在论坛中关于[成就图案](https://osu.ppy.sh/community/forums/topics/80448)的征集。

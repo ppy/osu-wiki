@@ -45,7 +45,7 @@
 
 It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. Both free and paid maps are available at the "Store".
 
-[osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/forum/t/59924)
+[osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
 ## Installation
 
@@ -463,4 +463,4 @@ Usually heard at Main Menu and tutorial screen.
 ## Links
 
 - [Official website](http://www.osustream.com)
-- [Discussion forum (osu! website)](http://osu.ppy.sh/forum/79)
+- [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)

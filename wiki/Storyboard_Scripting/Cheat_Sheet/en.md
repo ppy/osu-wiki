@@ -1,7 +1,7 @@
 Cheat Sheet
 ============
 
-Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/forum/t/1869)
+Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/community/forums/topics/1869)
 
 Storyboarding by Scripting
 --------------------------

@@ -121,11 +121,11 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 - DoubleTime
   - [Two Steps From Hell - Star Sky](https://osu.ppy.sh/beatmaps/1270965) [Unstoppable]
   - [Petit Rabbit's - No Poi!(nenpulse bootleg remix)](https://osu.ppy.sh/beatmaps/937188) [YakiBoss's Hard]
-  - [Chata - Koi wo Shiyouyo](https://osu.ppy.sh/b/81200) [Insane]
+  - [Chata - Koi wo Shiyouyo](https://osu.ppy.sh/beatmaps/81200) [Insane]
 - Hidden
   - [Kano - Yuudachi no Ribbon](https://osu.ppy.sh/beatmaps/1078420) [Dailycare's Insane]
   - [Renard - Terminal](https://osu.ppy.sh/beatmaps/270363) [Ends' Insane]
-  - [Ne;on & Haiji - Haruka Tooki Gensoukyo - Dream of fantasy](https://osu.ppy.sh/b/106475) [lkp's Lunatic]
+  - [Ne;on & Haiji - Haruka Tooki Gensoukyo - Dream of fantasy](https://osu.ppy.sh/beatmaps/106475) [lkp's Lunatic]
 - HardRock
   - [Rchetype - V Is For](https://osu.ppy.sh/beatmaps//beatmaps/290919) [Insane]
   - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO](https://osu.ppy.sh/beatmaps/507098) [Master]
@@ -135,7 +135,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [iojjj - Deus Ex Machina](https://osu.ppy.sh/beatmaps/688907) [EXTRA]
   - [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmaps/144028) [Another]
 - Tiebreaker
-  - [Demetori - The Grimoire of Alice ~ Alice in Wonderland](https://osu.ppy.sh/b/628369) [Lolis]
+  - [Demetori - The Grimoire of Alice ~ Alice in Wonderland](https://osu.ppy.sh/beatmaps/628369) [Lolis]
 
 ### Round Of 16
 
@@ -143,7 +143,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
  - NoMod
    - [Eiko Shimamiya - Higurashi no Naku Koro ni](https://osu.ppy.sh/beatmaps/738088) [Extra]
-   - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/b/1097612) [Linada's Extra]
+   - [EYKHA (CV : Sawashiro Miyuki) LOU (CV : Uchida Maaya) MERYL (CV : Terui Haruka) - Delta Decision](https://osu.ppy.sh/beatmaps/1097612) [Linada's Extra]
    - [Suzaku - Anisakis -somatic mutation type''Forza''](https://osu.ppy.sh/beatmaps/199593) [Ultra]
    - [Megpoid GUMI - Cosmos](https://osu.ppy.sh/beatmaps/123374) [Cosmos]
    - [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/950963) [Extra]

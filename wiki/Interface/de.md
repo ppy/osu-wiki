@@ -177,7 +177,7 @@ Note: The back transparent leitmotif is based on what mode you played in.
     5.  Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
     6.  To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
 
-5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](http://osu.ppy.sh/p/chart) reserviert.
+5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/p/chart) reserviert.
 6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](DE:Achievements "wikilink") finden.
 7.  Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
 8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.

@@ -1,7 +1,7 @@
 Changing Title Text
 =====================
 
-[*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/forum/t/14513)
+[*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513)
 
 How to get it changed
 -------------------------
@@ -13,8 +13,8 @@ Why should I change it?
 
 If used correctly, it can add a certain effect (in a good way!) to a map. It changes the presentation of your map in an effective manner if used correctly by changing the elements and the time of the appearance of the title. If you're a storyboarder, this might be a very huge benefit to you!
 
--   An effective example would be [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/s/33483)
--   You can split the title if it's too long for a single line: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/s/1391), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/s/57560)
+-   An effective example would be [Noisestorm - Solar (Shiirn)](https://osu.ppy.sh/beatmapsets/33483)
+-   You can split the title if it's too long for a single line: [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop)](https://osu.ppy.sh/beatmapsets/1391), [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix- (TicClick)](https://osu.ppy.sh/beatmapsets/57560)
 
 General Info
 -------------

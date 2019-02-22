@@ -124,4 +124,4 @@ Liens Externes
 --------------
 
 - [Anciens packs de beatmaps (2009 - 2016) avant la mise à jour de Stefan.](Beatmap_Packs_0916)
-- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/forum/t/80448).
+- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/community/forums/topics/80448).

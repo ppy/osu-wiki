@@ -7,7 +7,7 @@ Perkenalan
 
 osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!stream dibuat oleh tim mapper khusus untuk memanfaatkan elemen gameplay yang baru. Beatmap yang tersedia dapat diunduh dari "Store" dan tersedia beatmap gratis dan berbayar.
 
-[osu!stream telah dibahas dalam osu!monthly \#5 (dalam bahasa Inggris).](https://osu.ppy.sh/forum/t/59924)
+[osu!stream telah dibahas dalam osu!monthly \#5 (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
 
 Pemasangan
 ----------
@@ -276,4 +276,4 @@ Tautan
 ======
 
 -   [Website resmi osu!stream](http://www.osustream.com)
--   [Forum diskusi (osu!)](http://osu.ppy.sh/forum/79)
+-   [Forum diskusi (osu!)](https://osu.ppy.sh/community/forums/79)

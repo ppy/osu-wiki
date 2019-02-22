@@ -178,7 +178,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 Features (osu!mania)
 -----------------------
 
-(The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/forum/t/118868) [Mapping & Keysound](https://osu.ppy.sh/forum/t/139139)
+(The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Top-Right (Beat Snap Divisor)
 

@@ -26,27 +26,27 @@ The result of this system is that (a) maps with higher play counts do not have a
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_02.png" width="104" height="697" alt=""></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/332532">
+			<a href="https://osu.ppy.sh/beatmapsets/332532">
 				<img src="https://s.ppy.sh/images/bestof2015/2015-Best-Fucking-Beatmaps_03.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/2015-Best-Fucking-Beatmaps_03.png" width="8" height="697" alt=""></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/219380">
+			<a href="https://osu.ppy.sh/beatmapsets/219380">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_05.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_06.png" width="8" height="697" alt=""></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/280107">
+			<a href="https://osu.ppy.sh/beatmapsets/280107">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_07.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_08.png" width="8" height="697" alt=""></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/158023">
+			<a href="https://osu.ppy.sh/beatmapsets/158023">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_09.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_10.png" width="8" height="697" alt=""></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/323059">
+			<a href="https://osu.ppy.sh/beatmapsets/323059">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_11.png" width="120" height="155" border="0" alt=""></a></td>
 		<td rowspan="8">
 			<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_12.png" width="16" height="697" alt=""></td>
@@ -65,19 +65,19 @@ The result of this system is that (a) maps with higher play counts do not have a
 	</tr>
 	<tr>
 		<td>
-			<a href="https://osu.ppy.sh/s/275331">
+			<a href="https://osu.ppy.sh/beatmapsets/275331">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_18.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/329268">
+			<a href="https://osu.ppy.sh/beatmapsets/329268">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_19.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/215476">
+			<a href="https://osu.ppy.sh/beatmapsets/215476">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_20.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/324146">
+			<a href="https://osu.ppy.sh/beatmapsets/324146">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_21.png" width="120" height="151" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/348969">
+			<a href="https://osu.ppy.sh/beatmapsets/348969">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_22.png" width="120" height="151" border="0" alt=""></a></td>
 	</tr>
 	<tr>
@@ -94,19 +94,19 @@ The result of this system is that (a) maps with higher play counts do not have a
 	</tr>
 	<tr>
 		<td>
-			<a href="https://osu.ppy.sh/s/253969">
+			<a href="https://osu.ppy.sh/beatmapsets/253969">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_28.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/287873">
+			<a href="https://osu.ppy.sh/beatmapsets/287873">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_29.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/139525">
+			<a href="https://osu.ppy.sh/beatmapsets/139525">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_30.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/310499">
+			<a href="https://osu.ppy.sh/beatmapsets/310499">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_31.png" width="120" height="160" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/286414">
+			<a href="https://osu.ppy.sh/beatmapsets/286414">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_32.png" width="120" height="160" border="0" alt=""></a></td>
 	</tr>
 	<tr>
@@ -123,19 +123,19 @@ The result of this system is that (a) maps with higher play counts do not have a
 	</tr>
 	<tr>
 		<td>
-			<a href="https://osu.ppy.sh/s/272871">
+			<a href="https://osu.ppy.sh/beatmapsets/272871">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_38.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/200552">
+			<a href="https://osu.ppy.sh/beatmapsets/200552">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_39.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/288794">
+			<a href="https://osu.ppy.sh/beatmapsets/288794">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_40.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/293235">
+			<a href="https://osu.ppy.sh/beatmapsets/293235">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_41.png" width="120" height="155" border="0" alt=""></a></td>
 		<td>
-			<a href="https://osu.ppy.sh/s/246853">
+			<a href="https://osu.ppy.sh/beatmapsets/246853">
 				<img src="/wiki/shared/news/2016-02-06-best-of-2015-results/Best-Beatmaps-2015_42.png" width="120" height="155" border="0" alt=""></a></td>
 	</tr>
 	<tr>
@@ -157,10 +157,10 @@ The result of this system is that (a) maps with higher play counts do not have a
 
 **Congratulations to Fort for having the highest voted, played, and scoring map of the contest.** No other osu!standard map could boast coming even close to a third of its players calling it top 10 material.
 
-**A special mention is warranted for [Soleily - Renatus by Gamu](https://osu.ppy.sh/s/241526).** Despite amounting a respectable 1106 votes, the MBC winner came in 2nd to last place. This can be attributed to it having over 25,000 plays out of the people that voted, so it looks like a grim fate awaited the pre-packaged maps right from the start!
+**A special mention is warranted for [Soleily - Renatus by Gamu](https://osu.ppy.sh/beatmapsets/241526).** Despite amounting a respectable 1106 votes, the MBC winner came in 2nd to last place. This can be attributed to it having over 25,000 plays out of the people that voted, so it looks like a grim fate awaited the pre-packaged maps right from the start!
 
 **The mappers for the first, second, and third place winners of each game mode will recieve 6, 3, and 1 month of supporter respectively.** Congratulations to not only all the winners, but everyone who had their submissions enjoyed by another. We hope to see more of your works in the coming year!
 
-2015 was definitely a big year for mappers and players alike. The sheer amount of people who participated this time makes me excited to see what 2016 holds for us. A special thanks goes out to [Blaizer](https://osu.ppy.sh/u/62018) and [cthor](https://osu.ppy.sh/u/4438334) for their work on the scoring algorithm, as well as writing parts of this post. If you have any feedback, don't hesitate to leave it in the comments!
+2015 was definitely a big year for mappers and players alike. The sheer amount of people who participated this time makes me excited to see what 2016 holds for us. A special thanks goes out to [Blaizer](https://osu.ppy.sh/users/62018) and [cthor](https://osu.ppy.sh/users/4438334) for their work on the scoring algorithm, as well as writing parts of this post. If you have any feedback, don't hesitate to leave it in the comments!
 
 —Nyquill

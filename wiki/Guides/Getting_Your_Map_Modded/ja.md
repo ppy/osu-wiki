@@ -21,7 +21,7 @@ Getting Your Map Modded
 Modding Queues
 --------------
 
-フォーラムの[Modding Queues](https://osu.ppy.sh/forum/60)には様々なModを受け付けるスレッドがあります。Modding Queuesにあなたの譜面をPostし、スレッドの作者は最終的にそれらをModします。各スレッドには各ルールがあるので、Modを手に入れるためにルールは守りましょう。
+フォーラムの[Modding Queues](https://osu.ppy.sh/community/forums/60)には様々なModを受け付けるスレッドがあります。Modding Queuesにあなたの譜面をPostし、スレッドの作者は最終的にそれらをModします。各スレッドには各ルールがあるので、Modを手に入れるためにルールは守りましょう。
 
 Mod4Modを他のプレイヤーに頼む
 -----------------------------

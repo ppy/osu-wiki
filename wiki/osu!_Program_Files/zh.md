@@ -45,7 +45,7 @@ osu! 目录文件
 
 这里保存着 **可回放的 osu! 回放文件（ .osr ）**。如果与回放对应的谱面不存在，osr 文件将无法使用。    
 osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面按下 **F2** 或在在线排名页面（只有在单人游戏下出现，在结果页面下面）点击 **存放回放到回放文件夹** 来创建 .osr 文件，但不保存多人游戏结果。     
-.osr 的文件大小在 100kb-1kb 不等。[想要上传回放到 YouTube 的玩家可以参考本页面。](https://osu.ppy.sh/forum/t/108092)
+.osr 的文件大小在 100kb-1kb 不等。[想要上传回放到 YouTube 的玩家可以参考本页面。](https://osu.ppy.sh/community/forums/topics/108092)
 
 文件名格式为 `{本地玩家名称} - {艺术家} - {标题} {[难度]}{(YYYY-MM-DD)} {游戏模式}` 。     
 **示例：** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania.osz
@@ -59,7 +59,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 ### Skins
 
 它存放着用户自定义的皮肤，这些皮肤可以改变 osu! 的外观。      
-你可以在皮肤标签下使用 osume!.exe（osu! 升级器）来获取更多皮肤，你也可以登录[官方论坛 - 皮肤板块](https://osu.ppy.sh/forum/15) 获取皮肤。      
+你可以在皮肤标签下使用 osume!.exe（osu! 升级器）来获取更多皮肤，你也可以登录[官方论坛 - 皮肤板块](https://osu.ppy.sh/community/forums/15) 获取皮肤。      
 从 osume!.exe 获取的皮肤将被立即读取并可以使用；如果你是从论坛获取的皮肤，将会有以下情况：
 - 如果皮肤是 .osk 形式的，你可以直接打开该文件，osu! 将被启动并导向皮肤选择页面，你的新皮肤将被添加进列表里。
 - 如果皮肤是文件夹形式的，你必须将新皮肤的文件夹手动拖入该目录.
@@ -74,10 +74,10 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 它可能还包含 .wav/.ogg （打击音效文件） 和目录（ StoryBoard 内容） 和/或皮肤相关文件。
 
 一般情况下它的命名形式为 `{Beatmap 编号} {艺术家} - {标题}`。      
-**示例：** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**示例：** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-请注意，在 osu! 初期，旧的谱面**不包含序号**且**不遵循以上命名规则**。可以参考范例 [Disco★Prince](http://osu.ppy.sh/s/1)  或 [avgn](http://osu.ppy.sh/s/66) 。    
-特别需要注意的是 [osu! Tutorial](http://osu.ppy.sh/s/3756) ，因为每个通过 osu! 安装程序安装的玩家都会拥有该谱面，并且手动创建或在坟场的谱面中 .osz / .zip 歌曲文件夹同样会被加入序号。
+请注意，在 osu! 初期，旧的谱面**不包含序号**且**不遵循以上命名规则**。可以参考范例 [Disco★Prince](https://osu.ppy.sh/beatmapsets/1)  或 [avgn](https://osu.ppy.sh/beatmapsets/66) 。    
+特别需要注意的是 [osu! Tutorial](https://osu.ppy.sh/beatmapsets/3756) ，因为每个通过 osu! 安装程序安装的玩家都会拥有该谱面，并且手动创建或在坟场的谱面中 .osz / .zip 歌曲文件夹同样会被加入序号。
 
 ### 隐藏的文件夹
 

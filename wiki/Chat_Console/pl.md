@@ -15,7 +15,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 | **Red**    | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team/ "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team/ "Zespół zapewniania jakości")  |
 | **Green**  | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Blue**   | Wiadomość prywatna  |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), twórca osu!  |
+| **Cyan**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), twórca osu!  |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")  |
 
 
@@ -85,7 +85,7 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 | `/unignore [user]` | Przestaje ignorować danego użytkownika podczas tej sesji. | `/unignore Amigo` | Będziesz już widzieć wiadomości od użytkownika Amigo. |
 | `/me [action]` | Mówienie o sobie w trzeciej osobie. | `/me uderza w stół` | * John uderza w stół |
 | `/msg [użytkownik] [wiadomość]` | Wysyła prywatną wiadomość do `[użytkownika]`. | `/msg Amigo Zachorowałem.` | (na czacie z Amigo) John: Zachorowałem. |
-|`/np`| Wysyła na czat wiadomość z obecnie odtwarzaną lub graną piosenką.| `/np`| * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Modyfikatory utrudniające](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Modyfikatory ułatwiające](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) |
+|`/np`| Wysyła na czat wiadomość z obecnie odtwarzaną lub graną piosenką.| `/np`| * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Modyfikatory utrudniające](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Modyfikatory ułatwiające](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) |
 | `/reply` or `/r` | Odpowiada użytkownikowi, który wysłał ostatnią prywatną wiadomość. | `/r Znasz może jakiegoś dobrego lekarza?` | (na czacie z Amigo) [Poprzednie wiadomości] John: Zachorowałem. Amigo: Naprawdę? John: Znasz może jakiegoś dobrego lekarza? |
 | `/savelog` | Zapisuje wiadomości z obecnie wybranego kanału w pliku tekstowym. | `/savelog` | (W katalogu z osu! zostanie utworzony folder `Chat`, w którym będą znajdować się wszystkie zapisy wiadomości z czatu) |
 | `/watch [użytkownik]` | Rozpoczyna oglądanie `[użytkownika]`. | `/watch Amigo` | * Started spectating Amigo. |

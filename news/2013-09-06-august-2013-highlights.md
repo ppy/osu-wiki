@@ -24,7 +24,7 @@ At the beginning of the month, peppy announced in [a Community Voice thread](htt
 
 #### Noteworthy Websites
 
-**<http://osusignature.x10.mx>** \- a wonderful page created by [XPJ38](https://osu.ppy.sh/u/273531) which uses the osu! API to create user info signatures in four different styles - two of which replicate the old, now decrepit osu! signatures from the past! Definitely worth checking out, as they are very high quality.  
-**<http://osumodding.tumblr.com>** \- a blog created by [Shiro](https://osu.ppy.sh/u/113005), one of our most dedicated BATs. Here, you can take a look at explanations for different mapping styles, and how to identify and avoid common mistakes in mapping. There aren't many articles here yet, but more should be on the way!
+**<http://osusignature.x10.mx>** \- a wonderful page created by [XPJ38](https://osu.ppy.sh/users/273531) which uses the osu! API to create user info signatures in four different styles - two of which replicate the old, now decrepit osu! signatures from the past! Definitely worth checking out, as they are very high quality.  
+**<http://osumodding.tumblr.com>** \- a blog created by [Shiro](https://osu.ppy.sh/users/113005), one of our most dedicated BATs. Here, you can take a look at explanations for different mapping styles, and how to identify and avoid common mistakes in mapping. There aren't many articles here yet, but more should be on the way!
 
 —peppy

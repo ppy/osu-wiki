@@ -10,11 +10,11 @@ With a thunderous conclusion, the first stage of Aspire 2017 is over - and we ha
 
 ![](https://assets.ppy.sh/contests/43/header.jpg)
 
-Over thirty brave contestants submitted their best take on [Helblinde](https://new.ppy.sh/beatmaps/artists/5)'s **The Solace of Oblivion**, a grueling six-minute trek throughout a dark and pounding soundscape.
+Over thirty brave contestants submitted their best take on [Helblinde](https://osu.ppy.sh/beatmaps/artists/5)'s **The Solace of Oblivion**, a grueling six-minute trek throughout a dark and pounding soundscape.
 
 Twelve emerged at the other side, their efforts judged to be worthy of greater attention.
 
-Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, [Okorin](https://osu.ppy.sh/u/1623405), [pishifat](https://osu.ppy.sh/u/3178418), [Monstrata](https://osu.ppy.sh/u/2706438) and [ztrot](https://osu.ppy.sh/u/6347).
+Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, [Okorin](https://osu.ppy.sh/users/1623405), [pishifat](https://osu.ppy.sh/users/3178418), [Monstrata](https://osu.ppy.sh/users/2706438) and [ztrot](https://osu.ppy.sh/users/6347).
 
 From your votes and their expertise, the twelve have now become three.
 
@@ -22,7 +22,7 @@ But among those three, only one earns the right to be crowned this year's **Aspi
 
 Blowing away the competition with OUTSTANDING scores in all categories, and universal public acclaim, the winner of this year's Aspire 2017 contest is none other than..
 
-**Somber Ibis**, by [ProfessionalBox](https://osu.ppy.sh/u/3250792), with a total score of **76.5/80**, and **2732** unique votes.
+**Somber Ibis**, by [ProfessionalBox](https://osu.ppy.sh/users/3250792), with a total score of **76.5/80**, and **2732** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/9vlfePGNJ9M" frameborder="0" allowfullscreen></iframe>
@@ -34,11 +34,11 @@ Beneath the technical mastery of the entry's construction, **ProfessionalBox** c
 
 His entry went above and beyond our greatest expectations for this contest. So strong was his entry's presence that it domineered the conversation surrounding it, and his complete victory in every scoring category bar one speaks for itself.
 
-[Play the winning entry here!](https://osu.ppy.sh/s/594751)
+[Play the winning entry here!](https://osu.ppy.sh/beatmapsets/594751)
 
 ---
 
-Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/u/1583218), with a score of **57/80** and **1872** unique votes.
+Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/users/1583218), with a score of **57/80** and **1872** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/6--oSDTwyxU" frameborder="0" allowfullscreen></iframe>
@@ -50,11 +50,11 @@ Every pattern imaginable and even some never-before-seen make an appearance, eve
 
 Despite it all, **MinG3012**'s work is an absolute spectacle to behold, and it comes as no surprise to see it score so strongly in many domains.
 
-[Play MinG3012's game-breaking entry here!](https://osu.ppy.sh/s/594828)
+[Play MinG3012's game-breaking entry here!](https://osu.ppy.sh/beatmapsets/594828)
 
 ---
 
-Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/u/2003326) with a score of **54.25/80** and **1547** unique votes.
+Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/users/2003326) with a score of **54.25/80** and **1547** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/AHXYaVgdolQ" frameborder="0" allowfullscreen></iframe>
@@ -72,7 +72,7 @@ The winning map will be made available as an Aspire-class Approval map in the co
 
 [You may view the full composite judging sheet here](https://docs.google.com/spreadsheets/u/1/d/1XkHfk4T7BA_9tDENt17Z9duQyQgXJxQOMq2fZ01ej98/pubhtml), which has HM panel judge comments and more.
 
-[Check out the contest listing to view the public voting in a much prettier format, and to download all of the entries.](https://new.ppy.sh/community/contests/43)
+[Check out the contest listing to view the public voting in a much prettier format, and to download all of the entries.](https://osu.ppy.sh/community/contests/43)
 
 The composite judging sheet combines the scores given by the Honorable Mentions panel (40 points) with a *Public Impression* score (40 points) calculated by a scaling perspective of the overall votes an entry received in comparison to the others.
 

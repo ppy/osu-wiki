@@ -110,7 +110,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](/users/1981187) | ![][flag_TR] [heyronii](/users/5642779) | ![][flag_CN] [Play Offline](/users/5791401) |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
 | [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
 
@@ -118,8 +118,8 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](/users/1629553) | ![][flag_MY] [wuhua](/users/2932510) | ![][flag_SG] [Elegant Loli](/users/3010281) |
-| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](/users/4750008) | ![][flag_SG] [GSBlank](/users/2312106) | ![][flag_ID] [Rexeez](/users/1987591) |
+| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
+| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -132,16 +132,16 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
-| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
+| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
+| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | [#Game\_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [Indonesian Taiko Showdown](/wiki/Tournaments/ATS/1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](/users/1139209) | ![][flag_ID] [pmriva](/users/2180885) | ![][flag_ID] [Nishizumi](/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](/users/2512120) | ![][flag_JP] [nyanmi-1828](/users/6866480) | ![][flag_JP] [butter0414](/users/7935022) |
+| [Indonesian Taiko Showdown](/wiki/Tournaments/ATS/1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
@@ -149,9 +149,9 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | --- | --- | --- | --- | --- | --- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japon | ![][flag_CL] Chili | ![][flag_TW] Taïwan A |
 | Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ![][flag_TW] Taïwan A | ![][flag_FR] France | ![][flag_JP] Japon A |
-| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ![][flag_JP] [abeno](/users/6565148) | ![][flag_TW] [S a n d](/users/676578) | ![][flag_CA] [Fudgyking](/users/3802922) |
+| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ![][flag_JP] [abeno](https://osu.ppy.sh/users/6565148) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | ![][flag_CA] [Fudgyking](https://osu.ppy.sh/users/3802922) |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japon A | ![][flag_TW] Taïwan A | ![][flag_JP] Japon D |
-| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](/users/6170507) | ![][flag_KR] [applerss](/users/983349) | ![][flag_CA] [janitoreihil](/users/3307897) |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
@@ -177,26 +177,26 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](/users/8057655) | ![][flag_IT] [Ikkun](/users/1059945) | ![][flag_ES] [AlvaroYL](/users/6333166) |
+| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Alostis](/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
+| Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
-| [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](/users/4430811) | ![][flag_FR] [Noulayfe](/users/4316542) | ![][flag_FR] [Boros](/users/5490623) |
+| [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](/users/883990) | ![][flag_ID] [nirvashzero](/users/1254373) | ![][flag_ID] [Intel21](/users/1272422) |
-| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](/users/1595221) | ![][flag_ID] [FakeShield21](/users/1739225) | ![][flag_ID] [El SolarBeam](/users/1074710) |
-| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](/users/1380645) | ![][flag_ID] [Ex-Rei](/users/1929336) |
-| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [Time-](/users/2917987) |
-| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](/users/1396447) | ![][flag_ID] [Galaxi](/users/2552435) | ![][flag_ID] [dika312](/users/741613) |
-| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](/users/8630988) | ![][flag_ID] [Toka-](/users/1595221) | ![][flag_ID] [LeWind](/users/9718235) |
+| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) |
+| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
+| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) |
+| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
+| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
@@ -236,22 +236,22 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
 | osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) |
-| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](/users/3036686)(osu!mania 7K) |
-| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](/users/4581715)(osu!), ![][flag_PH] [Roido](/users/6829103)(osu!catch), ![][flag_PH] [joseee-](/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](/users/2199427)(osu!), ![][flag_PH] [-Nicotine](/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](/users/1192936)(osu!mania 7K) |
+| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
+| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](/users/6404027) | ![][flag_CA] [peng](/users/6043452) | ![][flag_JP] [katatakatata](/users/3540294) |
-| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](/users/7479684) | ![][flag_MY] [cdhsausageboy](/users/2403621) | ![][flag_MX] [Ammy](/users/4183406) |
-| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ![][flag_MY] [cheewee10](/users/4477497) | ![][flag_GB] [xSnaggles](/users/3799946) | ![][flag_PL] [SitekX](/users/3840946) |
+| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) | ![][flag_CA] [peng](https://osu.ppy.sh/users/6043452) | ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294) |
+| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
+| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](/users/1499137)(osu!), ![][flag_PH] [Pochacco](/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](/users/6221114)(osu!catch), ![][flag_PH] [arge-](/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [Rimazii](/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Baltz](/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](/users/3932796)(osu!), ![][flag_PH] [zonelouise](/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](/users/2722489)(osu!mania 7K) |
+| [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137)(osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114)(osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796)(osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489)(osu!mania 7K) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 

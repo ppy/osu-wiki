@@ -37,4 +37,4 @@ Drivermu mungkin telah terinstal dengan baik tapi kedalaman bit warnamu mungkin 
 Bantuan Tambahan
 -----------------
 
-Jika masalahmu tidak dapat diperbaiki berdasarkan solusi di atas, bukalah sebuah thread pada [forum bantuan](https://osu.ppy.sh/forum/5) dengan hasil dari [program ini](http://www.realtech-vr.com/glview/download.php) dan gl\_info.txt kamu jika kamu menggunakan versi Cutting Edge (berkas gl\_info.txt berada pada direktori instalasi osu!mu). Gunakan bahasa Inggris agar para pengembang dapat memahami dan membantu menyelesaikan permasalahanmu.
+Jika masalahmu tidak dapat diperbaiki berdasarkan solusi di atas, bukalah sebuah thread pada [forum bantuan](https://osu.ppy.sh/community/forums/5) dengan hasil dari [program ini](http://www.realtech-vr.com/glview/download.php) dan gl\_info.txt kamu jika kamu menggunakan versi Cutting Edge (berkas gl\_info.txt berada pada direktori instalasi osu!mu). Gunakan bahasa Inggris agar para pengembang dapat memahami dan membantu menyelesaikan permasalahanmu.

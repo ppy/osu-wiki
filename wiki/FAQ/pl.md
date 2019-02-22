@@ -292,7 +292,7 @@ Gdzie mogę znaleźć i ściągnąć beatmapy?
 
 *Pełny artykuł: [Beatmapy](PL:Beatmaps "wikilink")*
 
-Możesz znaleźć je pod nazwą "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
+Możesz znaleźć je pod nazwą "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)".
 
 -   Pamiętaj o zalogowaniu się! W przeciwnym wypadku strona potraktuje cię jako gościa i zablokuje możliwość ściągania beatmap.
 
@@ -304,16 +304,16 @@ Nie, ponieważ w przeciwieństwie do video, jest on zintegrowany z grą, przez c
 Te mapy są za trudne! Gdzie mogę znaleźć łatwiejsze?
 ----------------------------------------------------
 
-Pokebis stworzył kompilację map przeznaczonych dla nowych graczy. Możesz znaleźć je tutaj: <http://osu.ppy.sh/forum/t/5456>
+Pokebis stworzył kompilację map przeznaczonych dla nowych graczy. Możesz znaleźć je tutaj: <https://osu.ppy.sh/community/forums/topics/5456>
 
-Także [rankingowa wersja osu! tutorial](http://osu.ppy.sh/s/19928) jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
+Także [rankingowa wersja osu! tutorial](https://osu.ppy.sh/beatmapsets/19928) jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
 
-Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności](http://osu.ppy.sh/?p=beatmaplist&s=3). Najłatwiejsze mapy są na górze listy.
+Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności](https://osu.ppy.sh/?p=beatmaplist&s=3). Najłatwiejsze mapy są na górze listy.
 
 Źródła
 ======
 
--   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
--   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
+-   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
+-   Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
+-   Pokebis's Beginner's Training [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

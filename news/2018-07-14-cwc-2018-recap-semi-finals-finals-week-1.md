@@ -44,7 +44,7 @@ At a 4-2 deficit and facing one of the most consistent teams in osu!catch World 
 
 ![](/wiki/shared/news/2018-07-13-cwc-2018-recap-semi-finals-finals-week-1/IndovUS_game8_720w.jpg)
 
-Both teams won their picks and we would see tiebreaker selection [Mizuki Nana - VIRGIN CODE](https://osu.ppy.sh/s/744654) played for the first time this weekend. After a heart-stopping, adrenaline-pumping and dangerously close match, it would be the United States picking up their second tiebreaker victory of the tournament and claiming a top-three spot for the first time in their osu!catch World Cup history.
+Both teams won their picks and we would see tiebreaker selection [Mizuki Nana - VIRGIN CODE](https://osu.ppy.sh/beatmapsets/744654) played for the first time this weekend. After a heart-stopping, adrenaline-pumping and dangerously close match, it would be the United States picking up their second tiebreaker victory of the tournament and claiming a top-three spot for the first time in their osu!catch World Cup history.
 
 <iframe src="https://player.twitch.tv/?autoplay=false&video=v281851751" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 

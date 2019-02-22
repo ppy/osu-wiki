@@ -37,9 +37,9 @@ Untuk fan art pippi, lihat:
 - [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
 - [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
 - [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](/community/contests/5)
-- [Fan Art 8: Christmas](/community/contests/36)
-- [Mocha in Summer Fanart Contest](/community/contests/48)
+- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
 
@@ -56,9 +56,9 @@ Untuk fan art pippi, lihat:
 Untuk fanart Yuzu, lihat:
 
 - [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](/community/contests/5)
-- [Fan Art 8: Christmas](/community/contests/36)
-- [Yuzu's New Look Contest](/community/contests/49)
+- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
 
 ### Maria
 
@@ -68,8 +68,8 @@ Untuk fanart Yuzu, lihat:
 
 Untuk fan art Maria lainnya, lihat:
 
-- [Fan Art 8: Christmas](/community/contests/36)
-- [Fan Art 9: Spring](/community/contests/45)
+- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
 
 ### Mocha
 
@@ -85,7 +85,7 @@ Untuk fan art Maria lainnya, lihat:
 
 Untuk fan art Mocha lainnya, lihat:
 
-- [Mocha in Summer Fanart Contest](/community/contests/48)
+- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ### Tambahan
 
@@ -99,15 +99,15 @@ Untuk fan art Mocha lainnya, lihat:
 
 Untuk fan art maskot cameo, lihat:
 
-- [Mocha in Summer Fanart Contest](/community/contests/48)
+- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ## Komunitas
 
 Untuk fan art maskot buatan komunitas, lihat:
 
-- [Fan Art 6: osu!taiko mascot](/community/contests/2)
-- [Fan Art 7: Halloween!](/community/contests/5)
-- [Fan Art 8: Christmas](/community/contests/36)
-- [Fan Art 9: Spring](/community/contests/45)
-- [Mocha in Summer Fanart Contest](/community/contests/48)
-- [Yuzu's New Look Contest](/community/contests/49)
+- [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2)
+- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
+- [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
