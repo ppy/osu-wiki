@@ -15,7 +15,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
  | **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder des [Quality Assurance Teams](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") |
  | **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
  | **Blau** | Private Nachricht |
- | **Türkis** | [peppy](https://osu.ppy.sh/u/2 "peppy"), der Ersteller von osu! |
+ | **Türkis** | [peppy](https://osu.ppy.sh/users/2 "peppy"), der Ersteller von osu! |
  | **Pink** | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") |
 
 - Klicke auf den `Show Ticker`-Tab, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.

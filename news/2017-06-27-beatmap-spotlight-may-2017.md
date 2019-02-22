@@ -17,10 +17,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the April 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/u/2757689)
-+ **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/u/8089664)
-+ **osu!catch:** [Crystal](https://osu.ppy.sh/u/1646397)
-+ **osu!mania:** [Hestia-](https://osu.ppy.sh/u/393151)
++ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
++ **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/users/8089664)
++ **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
++ **osu!mania:** [Hestia-](https://osu.ppy.sh/users/393151)
 
 
 ## osu!
@@ -59,7 +59,7 @@ A calm, beautiful winter song with a very good-looking skin and a very well desi
 
 [![](/wiki/shared/news/2017-06-27-beatmap-spotlights-may-2017/classic-pursuit.jpg)](https://osu.ppy.sh/s/373254)
 
-Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: try it with ANY mod. It's a challenge with Hidden, HardRock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
+Spooky! Just 7 months after Halloween, **[Hanjamon](https://osu.ppy.sh/users/1703330)**'s Classic Pursuit entered the ranked section, and what a great map it is! Featuring a huge variety of Slider Velocity changes, tricky off-beat patterns, consistency (which does not equal boring) and even 1/8, this map offers a lot of things to enjoy. And if the map is too easy for you: try it with ANY mod. It's a challenge with Hidden, HardRock and DoubleTime, with the variety of Slider Velocities and complex 1/4+1/8 keeping you on your toes no matter what mod you are using.
 
 The set also has nicely done lower diffs, including his signature "Basic" difficulty, which introduces you into the most basic structures of osu!taiko's dons and kats (the red and blue notes!).
 

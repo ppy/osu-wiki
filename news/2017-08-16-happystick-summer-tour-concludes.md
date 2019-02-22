@@ -13,7 +13,7 @@ Would the favorites find victory, or would the underdogs claw their way through 
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167002207&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
-The [250 - 500 rank bracket](http://challonge.com/znsjvw11) saw well-known all-around player [-GN](https://osu.ppy.sh/u/895581) pitted against [smh](https://osu.ppy.sh/u/1629553), a former tourney winner himself in the 2016 osu! Indonesia Tournament. In a surprising result in the Winners Final, smh knocked -GN down to the Losers Bracket in a back-and-forth clash where he ultimately won in a tiebreaker, and so -GN entered the Grand Final seeking revenge.
+The [250 - 500 rank bracket](http://challonge.com/znsjvw11) saw well-known all-around player [-GN](https://osu.ppy.sh/users/895581) pitted against [smh](https://osu.ppy.sh/users/1629553), a former tourney winner himself in the 2016 osu! Indonesia Tournament. In a surprising result in the Winners Final, smh knocked -GN down to the Losers Bracket in a back-and-forth clash where he ultimately won in a tiebreaker, and so -GN entered the Grand Final seeking revenge.
 
 The match would prove to be a strategic one as early as the ban stage: recognizing smh to be a skilled Double Time player, -GN banned Approach Rate 10.3 DT pick [Utagumi Setsugekka - Yumemi Sunrise](https://osu.ppy.sh/b/338862), while smh in turn targeted -GN's unparalleled reading ability by banning [Eisyo-kobu - Oriental Blossom](https://osu.ppy.sh/b/1242790). As the winner of the roll, -GN selected the first map, but despite having his choice he was defeated on [xi - Aragami](https://osu.ppy.sh/b/547874).
 
@@ -23,7 +23,7 @@ The players would split the next two picks before smh managed to hold his own on
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167002950&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
-In the [500 - 1000 bracket](http://challonge.com/h015rw5f), [Exarch](https://osu.ppy.sh/u/5370153) advanced through the Winners Bracket in dominating fashion, dropping only 4 maps en route to the Grand Final. There he would meet [pyccknn](https://osu.ppy.sh/u/3618773) in a repeat of their Winners Final matchup after pyccknn triumphed convincingly in the Losers Bracket Final.
+In the [500 - 1000 bracket](http://challonge.com/h015rw5f), [Exarch](https://osu.ppy.sh/users/5370153) advanced through the Winners Bracket in dominating fashion, dropping only 4 maps en route to the Grand Final. There he would meet [pyccknn](https://osu.ppy.sh/users/3618773) in a repeat of their Winners Final matchup after pyccknn triumphed convincingly in the Losers Bracket Final.
 
 Unfortunately, real-world circumstances caught up to pyccknn, as he was unable to utilize his normal tablet and PC setup to play. After Exarch took an early 3-0 lead playing his standard tablet and keyboard style despite pyccknn being forced into mouse-only, he recognized the situation and they played out the rest of the series with both only using their mouse. In the exciting and hilarious showmatch that followed, Exarch ended up winning 6-5 on the tiebreaker, [Demetori - Youkai no Yama ~ Mysterious Mountain](https://osu.ppy.sh/b/1260538).
 
@@ -31,7 +31,7 @@ Unfortunately, real-world circumstances caught up to pyccknn, as he was unable t
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167002704&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
-Fans turned out in droves to watch the [1000 - 3000 bracket](http://challonge.com/a36241q1) Grand Final featuring fan favorite [Lee Jung Hyun](https://osu.ppy.sh/u/4065138) (affectionately nicknamed "Shakeman" for his almost bizarrely shaky playstyle that belied impeccable aim) against [\_verto\_](https://osu.ppy.sh/u/2015300), who quietly made his way through the Winners Bracket while losing only 5 maps to make it to the Grand Final. However, Lee Jung Hyun was not to be trifled with, as shown by victories in the Losers Bracket over multiple strong opponents.
+Fans turned out in droves to watch the [1000 - 3000 bracket](http://challonge.com/a36241q1) Grand Final featuring fan favorite [Lee Jung Hyun](https://osu.ppy.sh/users/4065138) (affectionately nicknamed "Shakeman" for his almost bizarrely shaky playstyle that belied impeccable aim) against [\_verto\_](https://osu.ppy.sh/users/2015300), who quietly made his way through the Winners Bracket while losing only 5 maps to make it to the Grand Final. However, Lee Jung Hyun was not to be trifled with, as shown by victories in the Losers Bracket over multiple strong opponents.
 
 In the Grand Final, the players utilized the entire mappool, as both showcased their diverse skillsets by selecting maps from every mod. After trading map wins to start the match, Lee Jung Hyun took the first point on an opponent's pick by winning on [MY FIRST STORY - ALONE](https://osu.ppy.sh/b/861381) (in spite of [shakes normally reserved for locations of an ongoing earthquake](https://www.twitch.tv/videos/167002704?t=0h32m00s) on the ending jumps) to take a 3-1 lead, then each player won his own pick for the next 4 maps, giving Lee set point at 5-3. Selecting notoriously difficult alternating map [HujuniseikouyuuP - Talent Shredder](https://osu.ppy.sh/b/153857), Hyun capitalized and took the first set 6-3, sending the players to a bracket reset match.
 
@@ -45,7 +45,7 @@ There, \_verto\_ selected [Igorrr - Unpleasant Sonata](https://osu.ppy.sh/b/2452
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
   
   
-The [12000 - 18000](http://challonge.com/pxrd8vej) Grand Final told a fascinating story. On one side was [Cyndere](https://osu.ppy.sh/u/5477793), the bracket's Spring Tour champion reprising his performance by making his way through the Winners Bracket quickly and efficiently. On the other was [egedi](https://osu.ppy.sh/u/3975137), who lost in a tiebreaker in the first round of the brackets before fighting his way through six rounds of the Losers Bracket to make it all the way back to the Grand Final.
+The [12000 - 18000](http://challonge.com/pxrd8vej) Grand Final told a fascinating story. On one side was [Cyndere](https://osu.ppy.sh/users/5477793), the bracket's Spring Tour champion reprising his performance by making his way through the Winners Bracket quickly and efficiently. On the other was [egedi](https://osu.ppy.sh/users/3975137), who lost in a tiebreaker in the first round of the brackets before fighting his way through six rounds of the Losers Bracket to make it all the way back to the Grand Final.
 
 The two were evenly matched throughout the first best of 11 series, going back and forth showing off their skills. Highlights included egedi's Full Combo of nomod pick [xi - Akasha](https://osu.ppy.sh/b/931860) and an incredibly tense match on another nomod selection [MISATO - Necro Fantasia](https://osu.ppy.sh/b/1097543) in which egedi would emerge the victor by a mere 620,000 points after both players [broke on the exact same note](https://www.twitch.tv/videos/167003179?t=1h10m35s) (a slider-velocity slowdown following an incredibly intense section of the song) after building up over 1100 combo. The set culminated in a somewhat anticlimactic tiebreaker on [Demetori - Fall of Fall ~ The Door Into Summer](https://osu.ppy.sh/b/1177137) as egedi ran away to a dominating victory to claim the first series 6-5.
 
@@ -57,7 +57,7 @@ Selecting DT map [Horie Yui - Vanilla Salt](https://osu.ppy.sh/b/320981) (surpri
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003412&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
-From the [62500 - 80000 bracket](http://challonge.com/bqmca1h3) came one of the most exciting matches of the day, if not the entire tournament. On the surface it looked similar to the 12000 - 18000 matchup: the Winners Bracket was won in impressive style by [snowdeep](https://osu.ppy.sh/u/8614428), while [Dreamtwolf](https://osu.ppy.sh/u/6138845) dropped to the Losers Bracket via tiebreaker in the first round then fought all the way through, winning another tiebreaker in the Losers Final to secure his ticket to the Grand Final.
+From the [62500 - 80000 bracket](http://challonge.com/bqmca1h3) came one of the most exciting matches of the day, if not the entire tournament. On the surface it looked similar to the 12000 - 18000 matchup: the Winners Bracket was won in impressive style by [snowdeep](https://osu.ppy.sh/users/8614428), while [Dreamtwolf](https://osu.ppy.sh/users/6138845) dropped to the Losers Bracket via tiebreaker in the first round then fought all the way through, winning another tiebreaker in the Losers Final to secure his ticket to the Grand Final.
 
 And what a Grand Final it was.
 
@@ -84,4 +84,3 @@ Finally, thank you: first, to all the participants, who played their hearts out 
 I'm sure I'm not alone in already being excited for the next installation of the HappyStick Tour, and I can't wait to see everyone there!
 
 \- this1neguy
-

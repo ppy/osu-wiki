@@ -54,7 +54,7 @@ Membuat file .osz/.osk
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
 5.  Jika mau membuat file untuk skinning, pakailah format .osk.
 
-**Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+**Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
 
 -   [WinRAR](http://www.rarlab.com/download.htm)
 -   [7-zip](http://www.7-zip.org)

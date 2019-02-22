@@ -71,4 +71,4 @@ Press the save button, and your video will be done in a couple of minutes. It's 
 Please note that it will take some time before the video will be available in high res on YouTube, be patient!
 
 **Now, go make videos and spread osu!**
-Guide done by [Remco32](https://osu.ppy.sh/u/9199), original thread [here](https://osu.ppy.sh/forum/t/18112)
+Guide done by [Remco32](https://osu.ppy.sh/users/9199), original thread [here](https://osu.ppy.sh/forum/t/18112)

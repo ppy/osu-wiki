@@ -30,7 +30,7 @@ Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42
 
 ## osu!mania
 
-One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/u/Shoegazer)'s proposal.
+One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) implementing [Shoegazer](https://osu.ppy.sh/users/Shoegazer)'s proposal.
 
 This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before. Summarised:
 

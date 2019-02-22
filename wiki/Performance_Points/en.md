@@ -14,7 +14,7 @@ Known thereafter as "pp", short for "performance points", this new system sought
 
 Several months after its reveal, the [(20120722-24) osu! release](https://osu.ppy.sh/forum/p/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
 
-It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/u/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
+It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
 
 *ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 

@@ -150,7 +150,7 @@ osu! Program Files
 4.  Запустите архивацию. Будет создан файл .osz с отличительным значком osu!.
 5.  Смыть, повторить. Для скинов используйте расширение .osk.
 
-**Наглядные примеры>** (спасибо [Skinning tutorial](https://osu.ppy.sh/forum/t/51694) [от MLGnom](https://osu.ppy.sh/u/46620))
+**Наглядные примеры>** (спасибо [Skinning tutorial](https://osu.ppy.sh/forum/t/51694) [от MLGnom](https://osu.ppy.sh/users/46620))
 
 -   [WinRAR](https://puu.sh/1MBV)
 -   [7-zip](https://puu.sh/1MBW)

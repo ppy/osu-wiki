@@ -199,16 +199,16 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 
 错误做法:  
-`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`  
-`[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
+`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`  
+`[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
 
 正确做法:  
-`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
+`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`  
+`[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
 
 最佳做法:  
-`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
+`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`  
+`[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 
 也就是说，无论何时，都应该使用用户当前的用户名。
 
@@ -367,4 +367,3 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 | For example: | 例如： |
 | Examples: | 例如： |
 | See also: | 参见：/ 另见： |
-

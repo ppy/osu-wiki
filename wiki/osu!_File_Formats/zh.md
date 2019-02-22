@@ -53,7 +53,7 @@ osu! 特有的文件格式
     - 如果你想为谱面创建压缩文件，那么使用 .osz 扩展名
     - 如果你想为皮肤创建压缩文件，那么使用 .osk 扩展名
 
-**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
 
 -   [WinRAR](https://puu.sh/1MBV)
 -   [7-zip](https://puu.sh/1MBW)

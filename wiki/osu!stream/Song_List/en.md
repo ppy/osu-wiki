@@ -22,22 +22,22 @@
 [dif9]: ./img/dif9.png "4.5"
 
 <!-- link -->
-[Sushi]: https://osu.ppy.sh/u/Sushi/ "Sushi"
-[RandomJibberish]: https://osu.ppy.sh/u/RandomJibberish/ "RandomJibberish"
-[mm201]: https://osu.ppy.sh/u/mm201/ "mm201"
-[Gens]: https://osu.ppy.sh/u/Gens/ "Gens"
-[jericho2442]: https://osu.ppy.sh/u/jericho2442/ "jericho2442"
-[IceBeam]: https://osu.ppy.sh/u/IceBeam/ "IceBeam"
-[Xgor]: https://osu.ppy.sh/u/Xgor/ "Xgor"
-[Samah]: https://osu.ppy.sh/u/Samah/ "Samah"
-[D33d]: https://osu.ppy.sh/u/D33d/ "D33d"
-[m980]: https://osu.ppy.sh/u/m980/ "m980"
-[Krisom]: https://osu.ppy.sh/u/Krisom/ "Krisom"
-[Larto]: https://osu.ppy.sh/u/12328 "Larto"
-[Mashley]: https://osu.ppy.sh/u/Mashley/ "Mashley"
-[ouranhshc]: https://osu.ppy.sh/u/ouranhshc/ "ouranhshc"
-[Lybydose]: https://osu.ppy.sh/u/Lybydose/ "Lybydose"
-[Nakagawa-Kanon]: https://osu.ppy.sh/u/Nakagawa-Kanon/ "Nakagawa-Kanon"
+[Sushi]: https://osu.ppy.sh/users/Sushi/ "Sushi"
+[RandomJibberish]: https://osu.ppy.sh/users/RandomJibberish/ "RandomJibberish"
+[mm201]: https://osu.ppy.sh/users/mm201/ "mm201"
+[Gens]: https://osu.ppy.sh/users/Gens/ "Gens"
+[jericho2442]: https://osu.ppy.sh/users/jericho2442/ "jericho2442"
+[IceBeam]: https://osu.ppy.sh/users/IceBeam/ "IceBeam"
+[Xgor]: https://osu.ppy.sh/users/Xgor/ "Xgor"
+[Samah]: https://osu.ppy.sh/users/Samah/ "Samah"
+[D33d]: https://osu.ppy.sh/users/D33d/ "D33d"
+[m980]: https://osu.ppy.sh/users/m980/ "m980"
+[Krisom]: https://osu.ppy.sh/users/Krisom/ "Krisom"
+[Larto]: https://osu.ppy.sh/users/12328 "Larto"
+[Mashley]: https://osu.ppy.sh/users/Mashley/ "Mashley"
+[ouranhshc]: https://osu.ppy.sh/users/ouranhshc/ "ouranhshc"
+[Lybydose]: https://osu.ppy.sh/users/Lybydose/ "Lybydose"
+[Nakagawa-Kanon]: https://osu.ppy.sh/users/Nakagawa-Kanon/ "Nakagawa-Kanon"
 
 # osu!stream/Song List
 
@@ -72,8 +72,8 @@ Price: **Free**
   - http://soundcloud.com/nekodex/
   - [@nekodex](https://twitter.com/nekodex)
 - [tieff & Natteke - Endless Tower](https://osu.ppy.sh/s/17076) - [RandomJibberish][RandomJibberish] - ![1][dif2]
-  - https://osu.ppy.sh/u/natteke
-  - https://osu.ppy.sh/u/tieff
+  - https://osu.ppy.sh/users/natteke
+  - https://osu.ppy.sh/users/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Bundled Songs
@@ -85,8 +85,8 @@ Price: **Free**
 - SkyMarshall - Hitchhikers - [Gens][Gens] - ![1.5][dif3]
   - http://www.skymarshallarts.com/
 - [tieff & Natteke - Sunrise](https://osu.ppy.sh/s/34430) - [jericho2442][jericho2442] - ![2][dif4]
-  - https://osu.ppy.sh/u/natteke
-  - https://osu.ppy.sh/u/tieff
+  - https://osu.ppy.sh/users/natteke
+  - https://osu.ppy.sh/users/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Cranky Pack Vol. 1

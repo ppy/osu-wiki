@@ -6,7 +6,7 @@ outdated: true
 ![La carte de joueur de BanchoBot](img/BanchoBot.jpg "La carte de joueur de BanchoBot")
 
 BanchoBot est un bot (lire: un ensemble de commandes avec des réponses automatiques) programmé afin d'assister les joueurs dans le chat en affichant certaines informations et annonçant des messages liés au jeu.
-BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) et a un profil nommé _[BanchoBot](https://osu.ppy.sh/u/3)_.
+BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) et a un profil nommé _[BanchoBot](https://osu.ppy.sh/users/3)_.
 
 ## Ouverture de BanchoBot
 

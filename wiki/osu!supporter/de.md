@@ -21,7 +21,7 @@ Vorteile als osu!supporter
     -   Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
 -   [Feature Requests](https://osu.ppy.sh/forum/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
 -   \[\[DE:Interface\#Songauswahl|Songauswahl\]: Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
--   Dein Profil: <https://osu.ppy.sh/u/>
+-   Dein Profil: <https://osu.ppy.sh/users/>
     -   Du kannst deine eigene individuelle Userpage aktivieren.
         -   Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
     -   Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).

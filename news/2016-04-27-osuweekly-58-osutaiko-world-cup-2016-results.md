@@ -27,15 +27,15 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 
 ![](http://w.ppy.sh/d/d6/Twc_2016_logo.png)
 
-**It may come as a surprise for a lot of you, but the team representing Japan this year is filled with new faces and talent.** Led by captain [tasuke912](https://osu.ppy.sh/u/tasuke912), the high ranking super team devastated the competition coming into the Grand Finals. Throughout the course of the tournament, there was not a match where Japan did not deliver a convincing and complete victory.
+**It may come as a surprise for a lot of you, but the team representing Japan this year is filled with new faces and talent.** Led by captain [tasuke912](https://osu.ppy.sh/users/tasuke912), the high ranking super team devastated the competition coming into the Grand Finals. Throughout the course of the tournament, there was not a match where Japan did not deliver a convincing and complete victory.
 
-**The Taiwanese team coming from the lower brackets was facing a complete opposite scenario.** Veteran player <a href="https://osu.ppy.sh/u/242910">-[ ix Ishida xi ]-</a> lead the almost unchanged 2015 team through many close calls and brutal trials of perseverance. They faced the runner-up Canadian team twice; first losing to them in the upper brackets before barely inching out a tiebreaker victory in the loser's finals.
+**The Taiwanese team coming from the lower brackets was facing a complete opposite scenario.** Veteran player <a href="https://osu.ppy.sh/users/242910">-[ ix Ishida xi ]-</a> lead the almost unchanged 2015 team through many close calls and brutal trials of perseverance. They faced the runner-up Canadian team twice; first losing to them in the upper brackets before barely inching out a tiebreaker victory in the loser's finals.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg6tHEf1c_0" frameborder="0" allowfullscreen></iframe>
 
 **For team Taiwan, every mistake in this final encounter cost them dearly.** While Japan took the first 6 games in the set, the individual results were [by no means completely one-sided](https://puu.sh/oxqYD/fa4392fc2b.png). The first song was won by a marginal 5638 difference, and a couple of minor shakeups following switching out some of Japan's star players allowed the Taiwanese team to put 2 points on the board for themselves. Taiwan, who hasn't seen a osu!taiko World Cup victory since 2013, wasn't quite out of it yet.
 
-However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/u/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/s/295703), where Japan [really put the nail in the coffin](https://puu.sh/oxryl/10b66ab4dd.png).
+However, the overwhelming might of team Japan extinguished that faint glimmer of hope as quickly as it came. The last game was played on [OzzyOzrock](https://osu.ppy.sh/users/OzzyOzrock)'s [BlackY - Harpuia [Inner Oni]](https://osu.ppy.sh/s/295703), where Japan [really put the nail in the coffin](https://puu.sh/oxryl/10b66ab4dd.png).
 
 **It is my pleasure to present to you the winners of the osu!taiko World Cup 2016!**
 
@@ -54,7 +54,7 @@ For a full list of standings, please take a look at our [wiki page](https://osu.
 
 ---
 
-This week's TWC writeup was written with the help of [-KousakaHonoka-](https://osu.ppy.sh/u/-KousakaHonoka-). Without his help, I wouldn't have been able to provide as many interesting details as I did!
+This week's TWC writeup was written with the help of [-KousakaHonoka-](https://osu.ppy.sh/users/-KousakaHonoka-). Without his help, I wouldn't have been able to provide as many interesting details as I did!
 
 With so many things happening and the game evolving so quickly, it's starting to get just a little hard to keep track. Now more than ever, we need your help to make this weekly publication as great as it can be! If you would like to see something featured on the osu!weekly, be it a tournament you're running or a cool app you saw someone make, please send us an email at **[news@ppy.sh](mailto:news@ppy.sh)**. If have feedback, or notice something wrong, leave a comment below and I'll respond to your concerns!
 

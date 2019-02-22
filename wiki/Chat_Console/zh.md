@@ -14,7 +14,7 @@
 | **红色**   | [社区管理团队](/wiki/People/Global_Moderation_Team/ "社区管理团队") 或 [质量保障团队](/wiki/People/Quality_Assurance_Team/ "质量保障团队") 的成员  |
 | **绿色**   | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
 | **蓝色**   | 私信你的玩家                                                                                                                                   |
-| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/u/2 "peppy")                                                                                        |
+| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2 "peppy")                                                                                        |
 | **粉色**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") 机器人                                                                                               |
 
 -   点击 `Show Ticker` 按钮将在聊天面板不可见的情况下，在屏幕最底部一行显示当前频道里最新的消息 ；

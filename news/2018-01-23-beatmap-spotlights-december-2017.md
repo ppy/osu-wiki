@@ -25,7 +25,7 @@ First of all, congratulations to the winners of the November 2017 Spotlights. Th
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/impulse.jpg)](https://osu.ppy.sh/beatmapsets/705788)
 
-As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! In addition, be sure to check out the alluring storyboard made by [Darky1](https://osu.ppy.sh/u/3372928).
+As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! In addition, be sure to check out the alluring storyboard made by [Darky1](https://osu.ppy.sh/users/3372928).
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/jin-li-chao.jpg)](https://osu.ppy.sh/beatmapsets/684393)
 

@@ -20,7 +20,7 @@ Trust me, you're going to need it.
 
 ![](https://puu.sh/qEpHK/d26810a016.png)
 
-**The medals will be rolled out gradually over the coming day to ensure everything is as it should be. [If a medal is visible on the new website under the Hush-Hush category, it's attainable!](https://osu.ppy.sh/u/2#medals)**
+**The medals will be rolled out gradually over the coming day to ensure everything is as it should be. [If a medal is visible on the new website under the Hush-Hush category, it's attainable!](https://osu.ppy.sh/users/2#medals)**
 
 Many of these medals are for all the game-modes, but some are specific to standard mode only. We'll leave it up to you to figure out what's what! More mode-specific medals will be coming later on.
 

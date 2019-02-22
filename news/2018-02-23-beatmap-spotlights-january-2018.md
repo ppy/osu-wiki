@@ -88,7 +88,7 @@ This is a quite unique map in the ranked section and will ask a lot of different
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/tryment.jpg)](https://osu.ppy.sh/beatmapsets/572690)
 
-Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu__rinrin](https://osu.ppy.sh/u/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
+Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu__rinrin](https://osu.ppy.sh/users/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
 
 Despite the short song length, it is a well-made mapset that shows his expertise in taiko mapping, as well as understanding of musical emotion. Definitely worth mentioning in this month's Spotlights!
 
@@ -147,5 +147,3 @@ Taking my time to congratulate you too Toaph and I am personally looking forward
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Do not forget to have a rest occasionally!
 
 —Kurokami, Mao
-
-

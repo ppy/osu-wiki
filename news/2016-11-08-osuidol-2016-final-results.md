@@ -17,7 +17,7 @@ Over the course of a couple of months, throughout 5 stages, our judges worked ha
 ## Results
 
 
-Our community had 2 weeks to cast as many votes as possible but time is up! Results can be seen at the [voting page](https://osu.ppy.sh/community/contests/4). <b>First place goes to [Slyleaf](https://osu.ppy.sh/u/3322032)</b> with their performance of Chouchou-P - 心做し Kokoronashi gathering a whopping 1703 votes! <b>Second place belongs to [Daikyi](https://osu.ppy.sh/u/811832)</b>'s performance of Shizen no Teki-P - days accumulating 602 votes, and <b>third place goes to [MissTitannia](https://osu.ppy.sh/u/4490361)</b>'s performance of Error - Vixx, gathering 137 votes! Congratulations to osu!idol 2016's winner and
+Our community had 2 weeks to cast as many votes as possible but time is up! Results can be seen at the [voting page](https://osu.ppy.sh/community/contests/4). <b>First place goes to [Slyleaf](https://osu.ppy.sh/users/3322032)</b> with their performance of Chouchou-P - 心做し Kokoronashi gathering a whopping 1703 votes! <b>Second place belongs to [Daikyi](https://osu.ppy.sh/users/811832)</b>'s performance of Shizen no Teki-P - days accumulating 602 votes, and <b>third place goes to [MissTitannia](https://osu.ppy.sh/users/4490361)</b>'s performance of Error - Vixx, gathering 137 votes! Congratulations to osu!idol 2016's winner and
 applause to our finalists! We wish you a fantastic musical career in the future!
 
 

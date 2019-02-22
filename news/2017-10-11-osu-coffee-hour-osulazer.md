@@ -13,7 +13,7 @@ The osu! Coffee Hour is back again for another sitting, this time showcasing one
 
 This week is all about **osu!lazer**, the project responsible for osu!'s next big step forward.
 
-Joining me ([HappyStick](https://osu.ppy.sh/u/256802)) in this week's sitting is none other than the lead developer himself, [peppy](https://osu.ppy.sh/u/2), and one of the most active osu!devs involved with the project, [smoogipoo](https://osu.ppy.sh/u/1040328).
+Joining me ([HappyStick](https://osu.ppy.sh/users/256802)) in this week's sitting is none other than the lead developer himself, [peppy](https://osu.ppy.sh/users/2), and one of the most active osu!devs involved with the project, [smoogipoo](https://osu.ppy.sh/users/1040328).
 
 Our goal is to teach you at least a couple new things about the project, even if you've already checked it out in the past.
 

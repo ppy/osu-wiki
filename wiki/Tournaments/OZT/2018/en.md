@@ -24,7 +24,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed. (Players, team name, etc.)
 - Scheduling must be done before the match, there must be mutual agreement between the teams.
 - Any misconduct will result in a punishment.
-- Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/u/6116759) or [**Div**](https://osu.ppy.sh/u/3751116)
+- Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/users/6116759) or [**Div**](https://osu.ppy.sh/users/3751116)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
 ## Tournament schedule
 

@@ -54,7 +54,7 @@ Créer un fichier .osz/.osk
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
 
-**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
+**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/users/46620))
 
 - [WinRAR](https://puu.sh/1MBV)
 - [7-zip](https://puu.sh/1MBW)

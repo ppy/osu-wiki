@@ -411,7 +411,7 @@ Wrapper는 목록의 베이스와 포맷팅을 담당하고 있는 것이고, bu
 
 ## Trivia (기타)
 
-- 해당 글 원본: [Stefan](https://osu.ppy.sh/u/626907)의 [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599)
+- 해당 글 원본: [Stefan](https://osu.ppy.sh/users/626907)의 [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599)
 
 ### History
 

@@ -161,6 +161,6 @@ The result of this system is that (a) maps with higher play counts do not have a
 
 **The mappers for the first, second, and third place winners of each game mode will recieve 6, 3, and 1 month of supporter respectively.** Congratulations to not only all the winners, but everyone who had their submissions enjoyed by another. We hope to see more of your works in the coming year!
 
-2015 was definitely a big year for mappers and players alike. The sheer amount of people who participated this time makes me excited to see what 2016 holds for us. A special thanks goes out to [Blaizer](https://osu.ppy.sh/u/62018) and [cthor](https://osu.ppy.sh/u/4438334) for their work on the scoring algorithm, as well as writing parts of this post. If you have any feedback, don't hesitate to leave it in the comments!
+2015 was definitely a big year for mappers and players alike. The sheer amount of people who participated this time makes me excited to see what 2016 holds for us. A special thanks goes out to [Blaizer](https://osu.ppy.sh/users/62018) and [cthor](https://osu.ppy.sh/users/4438334) for their work on the scoring algorithm, as well as writing parts of this post. If you have any feedback, don't hesitate to leave it in the comments!
 
 —Nyquill

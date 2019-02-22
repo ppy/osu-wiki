@@ -15,7 +15,7 @@
 | **Red**    | BAT もしくは GMT                                                                                                                                               |
 | **Green**  | あなたの名前や指定したキーワードが含まれた文章が出た時に、"highlight"が有効になります。そのメッセージのコピーが`#highlight`のチャットチャンネルに表示されます。 |
 | **Blue**   | プライベートメッセージです                                                                                                                                     |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy")、osu!の創設者です。                                                                                                                |
+| **Cyan**   | [peppy](https://osu.ppy.sh/users/2 "peppy")、osu!の創設者です。                                                                                                                |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                           |
 
 -   `Show Ticker`を押すことで、コンソールが開いていない時にチャットで一番新しいメッセージが下に表示されるようになります。

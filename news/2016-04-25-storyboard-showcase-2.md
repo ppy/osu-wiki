@@ -9,7 +9,7 @@ It was almost to be expected, but an overwhelming majority of people who submitt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7IDHaLjNGM" frameborder="0" allowfullscreen></iframe>
 
-**Well, there's certainly a lot of things that can be said about [Charles445](https://osu.ppy.sh/u/85000)'s [DM vs. POCKET - uNDeRWoRLD MoNaRCHy](https://osu.ppy.sh/s/412938).** Fans of Undertale will be glad to know that this storyboard contains no spoilers to the unsuspecting player. I highly doubt that will be the first thing fans will care about, however, as this storyboard is jam packed with awesome references and subtle nods.
+**Well, there's certainly a lot of things that can be said about [Charles445](https://osu.ppy.sh/users/85000)'s [DM vs. POCKET - uNDeRWoRLD MoNaRCHy](https://osu.ppy.sh/s/412938).** Fans of Undertale will be glad to know that this storyboard contains no spoilers to the unsuspecting player. I highly doubt that will be the first thing fans will care about, however, as this storyboard is jam packed with awesome references and subtle nods.
 
 **Frankly, Charles445 has cut out the work for me by releasing his code and providing insightful comments in it.** You can take a look at how the entire thing comes together using SGL [here](https://puu.sh/mWnWK/db025a7b22.sgf). Whether you are a seasoned storyboarder looking to have a giggle, or a new storyboarder looking to learn, there is something to be seen for everyone!
 

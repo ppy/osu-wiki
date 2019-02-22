@@ -28,7 +28,7 @@ The rules of this Aspire contest variant is as follows:
 
 *(The difficulty rule is deliberately vague. We want to encourage mappers to break the current mold of difficulty = creativity. Intelligent use of everything at a mapper's disposal (storyboards, backing videos, .osu file editing, hitsounds, timing sections, etc) is what we're looking for over maps that are exceptionally difficult.)*
 
-The standard Ranking Criteria does **NOT** apply. Mappers are completely free to pursue whatever they envision for the song. Mapping techniques such as "2B" are also allowed. A good example of many of these "fringe" mapping techniques is expressed in the popular "Debug" difficulty of [aran - Graces of Heaven](https://osu.ppy.sh/b/366028) mapped by [rustbell (aka: spro)](https://osu.ppy.sh/u/rustbell).
+The standard Ranking Criteria does **NOT** apply. Mappers are completely free to pursue whatever they envision for the song. Mapping techniques such as "2B" are also allowed. A good example of many of these "fringe" mapping techniques is expressed in the popular "Debug" difficulty of [aran - Graces of Heaven](https://osu.ppy.sh/b/366028) mapped by [rustbell (aka: spro)](https://osu.ppy.sh/users/rustbell).
 
 The winners of the contest will receive the following prizes:
 

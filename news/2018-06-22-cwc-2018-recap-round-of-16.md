@@ -12,7 +12,7 @@ Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) her
 
 Eight more matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape.
 
-Wanting to inject a little more flair and personality into things, the first match was preceded by an osu! Coffee Hour “pre-show” where fellow commentator [Dohland](https://osu.ppy.sh/u/5220511) and myself ran down a recap of the best moments from the previous week's Group Stages, as well as most anticipated moments and predictions for each of the Round of 16 matches.
+Wanting to inject a little more flair and personality into things, the first match was preceded by an osu! Coffee Hour “pre-show” where fellow commentator [Dohland](https://osu.ppy.sh/users/5220511) and myself ran down a recap of the best moments from the previous week's Group Stages, as well as most anticipated moments and predictions for each of the Round of 16 matches.
 
 If you missed any of the action and analysis, or are just eager to relive it a second time, VODs for all eight matches and pre-show are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 

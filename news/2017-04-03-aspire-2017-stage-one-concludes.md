@@ -14,7 +14,7 @@ Over thirty brave contestants submitted their best take on [Helblinde](https://o
 
 Twelve emerged at the other side, their efforts judged to be worthy of greater attention.
 
-Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, [Okorin](https://osu.ppy.sh/u/1623405), [pishifat](https://osu.ppy.sh/u/3178418), [Monstrata](https://osu.ppy.sh/u/2706438) and [ztrot](https://osu.ppy.sh/u/6347).
+Those fated twelve were showcased to the world in osu!'s [first ever contest stream feature](https://www.twitch.tv/videos/128381261), alongside the expert commentary of our **Honorable Mentions** panel of judges, [Okorin](https://osu.ppy.sh/users/1623405), [pishifat](https://osu.ppy.sh/users/3178418), [Monstrata](https://osu.ppy.sh/users/2706438) and [ztrot](https://osu.ppy.sh/users/6347).
 
 From your votes and their expertise, the twelve have now become three.
 
@@ -22,7 +22,7 @@ But among those three, only one earns the right to be crowned this year's **Aspi
 
 Blowing away the competition with OUTSTANDING scores in all categories, and universal public acclaim, the winner of this year's Aspire 2017 contest is none other than..
 
-**Somber Ibis**, by [ProfessionalBox](https://osu.ppy.sh/u/3250792), with a total score of **76.5/80**, and **2732** unique votes.
+**Somber Ibis**, by [ProfessionalBox](https://osu.ppy.sh/users/3250792), with a total score of **76.5/80**, and **2732** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/9vlfePGNJ9M" frameborder="0" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ His entry went above and beyond our greatest expectations for this contest. So s
 
 ---
 
-Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/u/1583218), with a score of **57/80** and **1872** unique votes.
+Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/users/1583218), with a score of **57/80** and **1872** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/6--oSDTwyxU" frameborder="0" allowfullscreen></iframe>
@@ -54,7 +54,7 @@ Despite it all, **MinG3012**'s work is an absolute spectacle to behold, and it c
 
 ---
 
-Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/u/2003326) with a score of **54.25/80** and **1547** unique votes.
+Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/users/2003326) with a score of **54.25/80** and **1547** unique votes.
 
 
 <iframe width="750" height="315" src="https://www.youtube.com/embed/AHXYaVgdolQ" frameborder="0" allowfullscreen></iframe>

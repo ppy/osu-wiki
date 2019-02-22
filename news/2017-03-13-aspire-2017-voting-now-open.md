@@ -14,7 +14,7 @@ As part of the effort to promote more community involvement in our beatmapping c
 
 It was an absolute blast.
 
-Over 2100 people showed up on minimal notice to watch some of the most creative beatmaps we've ever seen, and to consider the expert commentary of our incredibly talented judges - namely [Okorin](https://osu.ppy.sh/u/1623405), [pishifat](https://osu.ppy.sh/u/3178418), [Monstrata](https://osu.ppy.sh/u/2706438) and [ztrot](https://osu.ppy.sh/u/6347).
+Over 2100 people showed up on minimal notice to watch some of the most creative beatmaps we've ever seen, and to consider the expert commentary of our incredibly talented judges - namely [Okorin](https://osu.ppy.sh/users/1623405), [pishifat](https://osu.ppy.sh/users/3178418), [Monstrata](https://osu.ppy.sh/users/2706438) and [ztrot](https://osu.ppy.sh/users/6347).
 
 Did you miss it? Never fear, catch it all (and the live chat, too) at the VOD below:
 

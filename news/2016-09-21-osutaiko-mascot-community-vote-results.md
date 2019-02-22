@@ -20,7 +20,7 @@ In the meanwhile, we're delighted to present to you, **the most popular osu!taik
 
 <img src="https://assets.ppy.sh/contests/2/entries/26.jpg" width="50%" height="50%"/>
 
-**Aiko** (愛子), designed by [JMC](https://osu.ppy.sh/u/774010)! With a whopping **11684** votes (over 4000 more than the closest competitor), Aiko was clearly a favorite right from the very start.
+**Aiko** (愛子), designed by [JMC](https://osu.ppy.sh/users/774010)! With a whopping **11684** votes (over 4000 more than the closest competitor), Aiko was clearly a favorite right from the very start.
 
 Hailing from Japan, Aiko is an energetic 17 year old girl with a passion for Taiko, even if she isn't the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She's fairly short at only 154cm, and was born on the 6th of April, 1999.
 
@@ -30,13 +30,13 @@ Honorable mentions also go out to the second and third place entries as follows:
 
 <img src="https://assets.ppy.sh/contests/2/entries/3.jpg" width="50%" height="50%"/>
 
-**Alisa**, designed by [[ Glitch ]](https://osu.ppy.sh/u/%5B%20Glitch%20%5D). Sporting **7164** votes, Alisa came closer than anyone else to snatching the spotlight from Aiko with her more mature charms.
+**Alisa**, designed by [[ Glitch ]](https://osu.ppy.sh/users/%5B%20Glitch%20%5D). Sporting **7164** votes, Alisa came closer than anyone else to snatching the spotlight from Aiko with her more mature charms.
 
 A cheerful and social 17 year old girl, Alisa has been playing Taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing Taiko, or playing retro video games for kicks!
 
 <img src="https://assets.ppy.sh/contests/2/entries/13.jpg" width="50%" height="50%">
 
-**Tama**, designed by long-time Taiko player [crystalsuicine](https://osu.ppy.sh/u/9974). Stealing the hearts of **4164** voters, Tama snuck barely into third place with her mischeavous grin.
+**Tama**, designed by long-time Taiko player [crystalsuicine](https://osu.ppy.sh/users/9974). Stealing the hearts of **4164** voters, Tama snuck barely into third place with her mischeavous grin.
 
 One of the younger participants in the contest at only age 15 (or is she?), Tama has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor. Are her horns real, or just for show?
 

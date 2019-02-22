@@ -10,7 +10,7 @@
 Официальный канал на Youtube: <https://www.youtube.com/user/osuacademy/videos>
 [Трейлер канала](https://www.youtube.com/watch?v=z5gy34k3RI0&featur).
 Официальный тред: <https://osu.ppy.sh/forum/t/169707>
-Создатель: [ztrot](https://osu.ppy.sh/u/6347)
+Создатель: [ztrot](https://osu.ppy.sh/users/6347)
 
 **Академия osu!** — это твой гид в мир osu!, который доходчиво расскажет об аспектах игры, маппинга и всего, что с этим связано.
 

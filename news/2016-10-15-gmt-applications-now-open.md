@@ -26,7 +26,7 @@ There are a few key points to note as well:
 
 As osu!next draws closer, we'll be making more efforts to get the community involved again. A big part of the rework involves not only redesigning the website and game client, but also how the community operates as well. We're very big on letting the community guide the course of the game, and it is our hope that by expanding the team with fresh new faces and outlooks, we'll be better able to achieve this going forward.
 
-If you have any questions or concerns about anything involving the application or the GMT itself, please [feel free to contact me](https://osu.ppy.sh/u/776257) via private message or in-game chat. Don't be shy!
+If you have any questions or concerns about anything involving the application or the GMT itself, please [feel free to contact me](https://osu.ppy.sh/users/776257) via private message or in-game chat. Don't be shy!
 
 Your community needs you, so get to it!
 

@@ -35,7 +35,7 @@ The rules are as follows:
 * The map itself must be able to be passed (note: NOT fc'd) by a human player without using difficulty reducing mods of any kind.
 * The drain time of your entry must be at least 70% of the song's total length.
 * **If your entry has no additional assets (hitsounds, backgrounds, etc), it MUST BE SUBMITTED AS A .osu file.**
-* **If your entry HAS additional assets such as storyboard assets, hitsounds, etc, it MUST BE SUBMITTED AS A .osz with a size NO LARGER THAN 20mb.** Accounting for the size of the track, you have roughly **16mb** of asset space available for use. Extensions may be granted upon request via forum PM to [Ephemeral](https://osu.ppy.sh/u/102335).
+* **If your entry HAS additional assets such as storyboard assets, hitsounds, etc, it MUST BE SUBMITTED AS A .osz with a size NO LARGER THAN 20mb.** Accounting for the size of the track, you have roughly **16mb** of asset space available for use. Extensions may be granted upon request via forum PM to [Ephemeral](https://osu.ppy.sh/users/102335).
 
 
 As how Stage One worked, **this contest will be judged by a combination of double-blind community voting and the expert opinion of a judging panel weighted equally against each other.** Keep your audience engaged and the judges awed, or you could lose it all!

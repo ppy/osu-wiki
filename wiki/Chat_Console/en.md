@@ -15,7 +15,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | **Red**    | [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") or [Quality Assurance Team](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") member      |
 | **Green**  | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue**   | Private Message                                                                                                                                                                                          |
-| **Cyan**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), the creator of osu!                                                                                                                                            |
+| **Cyan**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), the creator of osu!                                                                                                                                            |
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                           |
 
 -   Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.

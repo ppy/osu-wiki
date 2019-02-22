@@ -15,7 +15,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 | **Rouge**  | BAT or GMT                                                                                                                                                                        |
 | **Vert**   | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
 | **Bleu**   | Un message privé                                                                                                                                                                  |
-| **Bleu**   | [peppy](https://osu.ppy.sh/u/2 "peppy"), le créateur d'osu!                                                                                                                                  |
+| **Bleu**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), le créateur d'osu!                                                                                                                                  |
 | **Rose**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                              |
 
 -   Cliquez sur `Show Ticker` pour afficher le dernier message lorsque la console de chat n'est pas ouverte.

@@ -48,7 +48,7 @@ Notas:
  #9](https://osu.ppy.sh/p/contestresults?c=18)   |
 | 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751)                        | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/users/200768)            | [Resultados](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Puntuación
  #10](https://osu.ppy.sh/p/contestresults?c=19)  |
-| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023) | [Resultados](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Puntuación
+| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/users/3265023) | [Resultados](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Puntuación
  #11](https://osu.ppy.sh/p/contestresults?c=20)  |
 | 12          | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054)                                              | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340)         | [Resultados](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Puntuación
  #12](https://osu.ppy.sh/p/contestresults?c=21)  |
@@ -231,7 +231,7 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 | Cancion No. | Cancion                                  | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | 1         | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/users/2775906)         | [Philosophy2](https://osu.ppy.sh/users/372256)     | [bread129988](https://osu.ppy.sh/users/2010665)    |
-| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/u/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
+| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/users/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
 
 - [Hilo del concurso](https://osu.ppy.sh/forum/t/272739)
 - [Post de Resultados](https://osu.ppy.sh/forum/t/312154)
@@ -240,7 +240,7 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 
 | Cancion No. | Cancion                                  | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/u/3420746)           |
+| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/users/3420746)           |
 | 2         | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/users/3280555)   | [liaoxingyao](https://osu.ppy.sh/users/3620963)    | [Kencho](https://osu.ppy.sh/users/3178411)     |
 
 - [Hilo del concurso](https://osu.ppy.sh/forum/t/415669)
@@ -249,8 +249,8 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 #### Newspaper Cup \#3 (2017)
 | Cancion No. | Cancion                                  | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar")                        | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar")                         |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/u/4121612)                 |
-| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/u/1393255)  |
+| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612)                 |
+| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255)  |
 
 - [Hilo del concurso](https://osu.ppy.sh/forum/t/546038)
 - [Post de Resultados](https://osu.ppy.sh/forum/t/570350)

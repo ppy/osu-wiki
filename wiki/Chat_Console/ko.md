@@ -15,7 +15,7 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 | **빨강**    | [GMT](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") 혹은 [QAT](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team") 유저      |
 | **녹색**  | 당신이 "호출" 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
 | **파랑**   | 비공개 메시지                                                                                                                                                                                          |
-| **청록**   | 오스를 만든 [peppy](https://osu.ppy.sh/u/2 "peppy")!                                                                                                                                            |
+| **청록**   | 오스를 만든 [peppy](https://osu.ppy.sh/users/2 "peppy")!                                                                                                                                            |
 | **분홍**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                           |
 
 -   `Show Ticker` 박스를 클릭하면 채팅 콘솔이 켜져있지 않을 때 화면 아래쪽에 최근 채팅 메시지가 보이게 할 수 있습니다.

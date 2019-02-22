@@ -13,17 +13,17 @@ The charts have been created by letting the [CAT](https://osu.ppy.sh/groups/21) 
 
 Congratulations to the winners of the August 2014 Ranking Charts. They get rewarded with a 1 month supporter tag:
 
-- **osu! standard:** [Adamqs](https://osu.ppy.sh/u/613592)
-- **Taiko:** [Mew104](https://osu.ppy.sh/u/2345156)
-- **Catch the Beat:** [Dusk](https://osu.ppy.sh/u/533210)
-- **osu!mania:** [Hassou Tobii](https://osu.ppy.sh/u/2940660)
+- **osu! standard:** [Adamqs](https://osu.ppy.sh/users/613592)
+- **Taiko:** [Mew104](https://osu.ppy.sh/users/2345156)
+- **Catch the Beat:** [Dusk](https://osu.ppy.sh/users/533210)
+- **osu!mania:** [Hassou Tobii](https://osu.ppy.sh/users/2940660)
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
-- **osu! standard:** [Frostmourne](https://osu.ppy.sh/u/199669) for [Aoi Eir - IGNITE](https://osu.ppy.sh/s/209170) (13 votes)
-- **Taiko:** [ReySHeL](https://osu.ppy.sh/u/1499299) for [Mili - Nine Point Eight](https://osu.ppy.sh/s/198268) (11 votes)
-- **Catch the Beat:** [Spectator](https://osu.ppy.sh/u/702598) for [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/s/192079) (9 votes)
-- **osu!mania:** [ExPew](https://osu.ppy.sh/u/665612) for [a_hisa - Fairy Dance](https://osu.ppy.sh/s/151219) (8 votes)
+- **osu! standard:** [Frostmourne](https://osu.ppy.sh/users/199669) for [Aoi Eir - IGNITE](https://osu.ppy.sh/s/209170) (13 votes)
+- **Taiko:** [ReySHeL](https://osu.ppy.sh/users/1499299) for [Mili - Nine Point Eight](https://osu.ppy.sh/s/198268) (11 votes)
+- **Catch the Beat:** [Spectator](https://osu.ppy.sh/users/702598) for [Hatsuki Yura - Yoiyami Hanabi](https://osu.ppy.sh/s/192079) (9 votes)
+- **osu!mania:** [ExPew](https://osu.ppy.sh/users/665612) for [a_hisa - Fairy Dance](https://osu.ppy.sh/s/151219) (8 votes)
 
 Good luck with the new charts!
 
