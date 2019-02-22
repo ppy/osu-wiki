@@ -12,7 +12,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the forum thread, see: [osu! community contributors](https://web.archive.org/web/20131003162259/https://osu.ppy.sh/forum/p/2489459 "Wayback Machine")*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
@@ -32,7 +32,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 ## 2015
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [Repflez](https://osu.ppy.sh/users/201392) | Outstanding contribution to the osu! wiki |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Outstanding contribution to the osu! wiki |
 | [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank & osu!Post development |
@@ -44,7 +44,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the news post, see: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [ztrot](https://osu.ppy.sh/users/6347) | Founding the [osu!academy](/wiki/osu!academy) |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + News Contributor |
 | [Flanster](https://osu.ppy.sh/users/447818) | Outstanding moderation presence (10k+ kills) |
@@ -59,7 +59,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the news post, see: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [Charles445](https://osu.ppy.sh/users/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
 
 ### November
@@ -67,7 +67,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the news post, see: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [pishifat](https://osu.ppy.sh/users/3178418) | Exemplary performance in beatmap construction and education |
 | [Okorin](https://osu.ppy.sh/users/1623405) | Exceptional leadership in beatmap management affairs |
 | [IamKwaN](https://osu.ppy.sh/users/1856463) | Outstanding moderation presence and overall contribution |
@@ -83,7 +83,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the news post, see: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [OnosakiHito](https://osu.ppy.sh/users/290128) | Outstanding work in forming the early osu!taiko community, several years of tenure in the BAT/QAT |
 | [Deif](https://osu.ppy.sh/users/318565) | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
 | [deadbeat](https://osu.ppy.sh/users/128370) | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the GMT |
@@ -110,7 +110,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 *For the news post, see: [Acknowledging Community Contributors](https://osu.ppy.sh/home/news/2019-02-22-acknowledging-community-contributors)*
 
 | User | Contributions |
-|---|---|
+| --- | --- |
 | [HappyStick](https://osu.ppy.sh/users/256802) | World Cup organisation & osu! Coffee Hour host |
 | [juankristal](https://osu.ppy.sh/users/443656) | Outstanding contribution to World Cup organisation and tournaments |
 | [WalterToro](https://osu.ppy.sh/users/5281416) | Outstanding contribution as a member of the GMT and osu! wiki team |
