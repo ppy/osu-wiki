@@ -9,7 +9,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 ## 2013
 
 <!-- link is dead https://osu.ppy.sh/community/forums/posts/2489459 -->
-*Also see the forum thread: [osu! community contributors](https://web.archive.org/web/20131003162259/https://osu.ppy.sh/forum/p/2489459 "Wayback Machine").*
+*For the forum thread, see: [osu! community contributors](https://web.archive.org/web/20131003162259/https://osu.ppy.sh/forum/p/2489459 "Wayback Machine")*
 
 | User | Contributions |
 |---|---|
@@ -41,7 +41,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ### January
 
-*Also see the announcement post: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
+*For the news post, see: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | User | Contributions |
 |---|---|
@@ -56,7 +56,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ### March
 
-*Also see the announcement post: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
+*For the news post, see: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | User | Contributions |
 |---|---|
@@ -64,7 +64,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ### November
 
-*Also see the announcement post: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
+*For the news post, see: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | User | Contributions |
 |---|---|
@@ -80,7 +80,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2017
 
-*Also see the announcement post: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
+*For the news post, see: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | User | Contributions |
 |---|---|
@@ -107,7 +107,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2018
 
-*Also see the announcement post: [Acknowledging Community Contributors](https://osu.ppy.sh/home/news/2019-02-22-acknowledging-community-contributors).*
+*For the news post, see: [Acknowledging Community Contributors](https://osu.ppy.sh/home/news/2019-02-22-acknowledging-community-contributors)*
 
 | User | Contributions |
 |---|---|
