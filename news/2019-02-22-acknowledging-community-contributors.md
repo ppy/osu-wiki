@@ -20,7 +20,7 @@ Please note, however: this list is by no means exhaustive, and only represents t
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/ekr.jpg)](https://osu.ppy.sh/users/4497706)
 
-Responsible for considerable contributions to the osu!lazer project, ekr's efforts have focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
+Responsible for considerable contributions to the osu!lazer project, ekr's efforts have been focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
 
 Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
 
