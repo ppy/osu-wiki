@@ -122,7 +122,7 @@ Few community-run projects have sustained such momentum and attained such reach 
 
 The primary drive and chief organizer of Project Loved, Toy's efforts to revitalize and shape the Loved beatmap category are at the very heart of the program, and it is very safe to say that without him, it would simply not exist.
 
-Beyond this, his contributions towards moderating the defacto osu! subreddit and his endless encouragement and positive attitude are shining examples of the things that make the osu! community as special as it is, and it is with great delight that we welcome him into the midst of the community contributors with his *20th* profile badge to boot.
+Beyond this, his contributions towards moderating the defacto osu! subreddit and his endless encouragement and positive attitude are shining examples of the things that make the osu! community as special as it is, and it is with great delight that we welcome him into the midst of the community contributors with his *22nd* profile badge to boot.
 
 Yes, you read that right.
 
