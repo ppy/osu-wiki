@@ -4,7 +4,7 @@
 
 ## Januari
 
-osu! membuat jalannya tersendiri ke iPhone dari sebuah port ke iPhone, hal ini dapat dilakukan oleh nuudles. Proyek ini memiliki [subforum](https://osu.ppy.sh/forum/47) tersendiri.
+osu! membuat jalannya tersendiri ke iPhone dari sebuah port ke iPhone, hal ini dapat dilakukan oleh nuudles. Proyek ini memiliki [subforum](https://osu.ppy.sh/community/forums/47) tersendiri.
 
 ![](img/2009-01_01.jpg "Menu Utama osu! iPhone")
 

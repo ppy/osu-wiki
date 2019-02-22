@@ -14,8 +14,8 @@
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium by deadbeat"
-[Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Taiko Skin version 6.0 by LuigiHann"
+[Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium by deadbeat"
+[Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
 [osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
@@ -130,8 +130,8 @@ The default controls for osu!taiko are:-
 
 Type | Mouse | Keyboard | TaTaCon
 ---|---|---|---
-Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
-Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
+Red |Left click(L)|`X`(L) / `C`(R)|Flat surface of the drum
+Blue|Right click(L)|`Z`(L) / `V`(R)|Outer surface of the drum
 
 The placement of in-game cursor does not matter when playing.
 
@@ -330,5 +330,5 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 _osu!taiko logo in deprecated Special Mode_
 
 - The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold _[Taiko by LuiginHann][Taiko by LuigiHann link]_ skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under `Skin` tab.
-- The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/s/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
-- The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/s/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")
+- The first ranked beatmapset which contains at least one osu!taiko-specific beatmap is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
+- The first ranked osu!taiko-only beatmapset is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")

@@ -14,7 +14,7 @@ Steg
 ----
 
 <center>
-<span style="font-size:18px">1. Gå till <span class="plainlinks"> [hemsidan](https://osu.ppy.sh)</span> och klicka "<b>I'm new!</b>" för att fortsätta till registreringsformen. </span>
+<span style="font-size:18px">1. Gå till <span class="plainlinks"> [hemsidan](https://osu.ppy.sh/home)</span> och klicka "<b>I'm new!</b>" för att fortsätta till registreringsformen. </span>
 
 <span style="font-size:18px">2. Fyll i formen och klicka "Continue" </span>
 

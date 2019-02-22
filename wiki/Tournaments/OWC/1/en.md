@@ -155,7 +155,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 - Tiebreaker
   - **[Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)**
 
-### Group Stage 
+### Group Stage
 
 - NoMod
   - [BeForU - Love Shine (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/1300#osu/11091)

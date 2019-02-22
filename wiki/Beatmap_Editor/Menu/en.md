@@ -35,7 +35,7 @@ File
 
 | Name | Description |
 | ---- | ----------- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/community/forums/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
 | Extract Map Package | ? |
 | Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
@@ -241,7 +241,7 @@ Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to
 
 | Name | Description |
 | ---- | ----------- |
-| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/b/### where "###" is the beatmap's ID. |
+| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/beatmaps/### where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
 | Quick Reply | Post a reply to the beatmap thread. |
 

@@ -15,7 +15,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 
 ## チームメンバー
 
-*Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](http://osu.ppy.sh/groups/4)
+*Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](https://osu.ppy.sh/groups/4)
 
 | Name | Additional Languages Spoken | Area of focus |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat Moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat Moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat Moderation |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chinese | Chat Moderation |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat Moderation |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Hungarian | Chat Moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Chat Moderation |

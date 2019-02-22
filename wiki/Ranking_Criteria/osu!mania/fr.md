@@ -9,7 +9,7 @@ Lexique et termes mania
 -   Colonnes = 5K, 5 colonnes. La colonne centrale est parfois appelée *step column* ou *special column*
 -   O2Mania/Jam = O2Mania est un jeu de rythme solo tiré directement de l'ancien jeu multijoueur O2Jam. Les joueurs de ces jeux sont très présents dans osu!mania.
 -   Notes = Les notes présentes. Il en existe deux types, les simples, appelées *Hit*, et les longues, appelées *Hold*.
--   Pattern = Terme désignant un ensemble, une suite de notes qui tombent dans un certain ordre. Certains patterns ont des noms (Jackhammer, Chords, Runningmen, Streams, etc...) tandis que d'autres sont constitués de plusieurs autres patterns plus petits. Plus d'informations [vers le bas du premier post](https://osu.ppy.sh/forum/t/146615).
+-   Pattern = Terme désignant un ensemble, une suite de notes qui tombent dans un certain ordre. Certains patterns ont des noms (Jackhammer, Chords, Runningmen, Streams, etc...) tandis que d'autres sont constitués de plusieurs autres patterns plus petits. Plus d'informations [vers le bas du premier post](https://osu.ppy.sh/community/forums/topics/146615).
 
 Règles
 ---------

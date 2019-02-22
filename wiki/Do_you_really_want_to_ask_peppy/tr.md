@@ -5,7 +5,7 @@ Selamlar. Benimle şahsi olarak iletişime geçme isteğinizi anlıyorum, ancak 
 
 ## Teknik destek
 
-Teknik sorunların büyük çoğunluğu [Tech Support forumunda](https://osu.ppy.sh/forum/5) arama yaparak ya da yeni başlık açarak çözüme kavuşturulabilir. Orada sorunlarınıza yardımcı olacabilecek bir sürü insan var, bu yüzden orada sorunlarınıza çözümünüzü benimle iletişime geçmekten çok daha hızlı bulabilirsiniz.
+Teknik sorunların büyük çoğunluğu [Tech Support forumunda](https://osu.ppy.sh/community/forums/5) arama yaparak ya da yeni başlık açarak çözüme kavuşturulabilir. Orada sorunlarınıza yardımcı olacabilecek bir sürü insan var, bu yüzden orada sorunlarınıza çözümünüzü benimle iletişime geçmekten çok daha hızlı bulabilirsiniz.
 
 ## Genel osu! destek
 

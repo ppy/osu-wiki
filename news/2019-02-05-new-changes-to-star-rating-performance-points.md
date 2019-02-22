@@ -24,7 +24,7 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 - ☑ Over the coming hours, server-side star ratings will be updated to match. **[COMPLETE]**
 - ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[COMPLETE]**
 - ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **[COMPLETE]**
-- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[IN PROGRESS]**
+- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[COMPLETE]**
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 

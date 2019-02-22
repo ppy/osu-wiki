@@ -24,7 +24,7 @@ Reports are not case-sensitive so it is okay to use lowercase letters like ``thi
 
 ### Using the report button in-game
 
-Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
+Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
 ![Click the report button](./img/Report-user-1.png "Click the report button")
 

@@ -38,7 +38,7 @@ Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanj
 
 1\. Kunjungi fork repo `osu-wiki` anda.
 
-2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui. 
+2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui.
 
 ![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
 

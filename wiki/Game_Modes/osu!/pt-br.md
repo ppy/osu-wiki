@@ -18,8 +18,8 @@
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Entrada na Wikipédia para Osu! Tatakae! Ouendan"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Tutorial de instalação do osu! por peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Tutorial de ranking do osu! por Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Tutorial de instalação do osu! por peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Tutorial de ranking do osu! por Sushi"
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
@@ -66,7 +66,7 @@ Através do poder mágico de animação dos garotos, o jogador tem que ajudar as
 
 ## ![osu! icon][osu! icon link] Jogabilidade
 
-_Tutoriais: [Tutorial original][osu!tutorial basic], [Versão com beatmap ranqueado][osu!tutorial rank]_
+_Tutoriais: [Tutorial original][osu!tutorial basic], [Versão com beatmap ranqueado][osu!tutorial rank]_
 
 A jogabilidade enfatiza:
 
@@ -160,7 +160,7 @@ Os controles padrão do osu! são:
 
 Mouse|Teclado|Tablet/Touchscreen
 ---|---|---|
-Clique direito (M1) / Clique esquerdo (M2)|`Z`(B1) / `X`(B2)| Toque na tela (M1)
+Clique direito (M1) / Clique esquerdo (M2)|`Z`(B1) / `X`(B2)| Toque na tela (M1)
 
 Os _hit objects_ do osu! irão aceitar a entrada de qualquer dispositivo, desde que cada um desses objetos receba a interação apropriada dentro de um timing aceitável.
 
@@ -370,6 +370,6 @@ _Combo Fire_
     - O padrão v2 faz o spinner expandir progressivamente até o seu comprimento completo e adiciona um efeito de brilho quando o tamanho estabelecido é atingido.
       - O timer virou o círculo aproximatório que muda de cor a medida em que o spinner é completado.
 - Os três primeiros beatmaps a serem ranqueados foram aprovados no mesmo dia (07 de Outubro de 2007, 07/10/2007); foi esse o dia no qual as leaderboards foram ao público pela primeira vez. Os três beatmaps são:
-  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), ou `discoprince`; o qual aparentemente foi mapeado em cerca de uma hora.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
-  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), ou `Brandy - Love Fighter`.
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), ou `discoprince`; o qual aparentemente foi mapeado em cerca de uma hora.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16 "Brandy - Love Fighter (FFFanatic)"), ou `Brandy - Love Fighter`.

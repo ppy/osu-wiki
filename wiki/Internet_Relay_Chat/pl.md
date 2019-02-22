@@ -17,23 +17,23 @@ Jak się połączyć?
 
 Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do:
 
-[`cho.ppy.sh`](irc://cho.ppy.sh)` LUB `[`irc.ppy.sh`](irc://irc.ppy.sh)` (oba łączą się do tego samego hosta) na porcie `<b>`6667`</b>` (domyślny port IRC)`
+[`cho.ppy.sh`](irc://cho.ppy.sh)` LUB `[`irc.ppy.sh`](irc://irc.ppy.sh)` (oba łączą się do tego samego hosta) na porcie `<b>`6667`</b>` (domyślny port IRC)`
 
 Autoryzacja BanchoBot
 ---------------------
 
 Następująca wiadomość pojawi się przy pierwszym połączeniu:
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+`* Welcome to osu!bancho.`
+`* -`
+`* - You are required to authenticate before accessing this service.`
+`* - Please click the following link to complete this process:`
 
 Na stronie podanej w otrzymanej wiadomości znajduje się przycisk „Authorise IRC connection”. Naciśnięcie go umożliwia czatowanie z innymi, a następnie automatycznie dołącza użytkownika do kanału [\#osu](irc://cho.ppy.sh/osu).
 
 Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy podane hasło umieścić w odpowiednim polu w kliencie IRC.
 
-`To permanently authorise a client, please change your IRC password (server password) to: XXXXXXX`
+`To permanently authorise a client, please change your IRC password (server password) to: XXXXXXX`
 
 **POD ŻADNYM POZOREM NIE NALEŻY DAWAĆ NIKOMU SWOJEGO HASŁA IRC**.
 
@@ -52,8 +52,8 @@ Ukrywanie wiadomości o dołączaniu lub wychodzeniu
 
 Za każdym razem gdy ktoś dołącza lub opuszcza kanał, zostaje wyświetlona następująca wiadomość:
 
-`użytkownik has joined #kanał`
-`użytkownik has quit #kanał`
+`użytkownik has joined #kanał`
+`użytkownik has quit #kanał`
 
 Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew informacji o użytkownikach dołączających lub opuszczających kanał \#osu, sprawia, że czat nie nadaje się do czytania.
 

@@ -7,7 +7,7 @@ outdated: true
 
 **请注意，无论何时，如果你有多个 osu! 帐号是违反 [osu! 规则](/wiki/Rules/) 的。你可以按照下面的步骤设置你的 osu! 帐户。**
 
-1. 在 [官网的主页面](https://osu.ppy.sh) 上，点击 ``I'm new!`` 按钮以开始注册。
+1. 在 [官网的主页面](https://osu.ppy.sh/home) 上，点击 ``I'm new!`` 按钮以开始注册。
 ![注册按钮](Register-1.png "注册按钮")
 2. 填写表中的所有字段并按下 ``Continue`` 按钮。
 ![账号字段](Register-2.png "账号字段")

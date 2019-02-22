@@ -18,7 +18,7 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Judges
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 ## Prizes
 
@@ -61,7 +61,7 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 ## Giudici
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Premi
@@ -100,7 +100,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ## Juges
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Prix
@@ -139,7 +139,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ## 裁判
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## 奖品
@@ -178,7 +178,7 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 
 ## Juri
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Hadiah
@@ -217,7 +217,7 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 ## 審査員
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## 賞品
@@ -256,7 +256,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Preisrichter
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Preise
@@ -295,7 +295,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Состав жюри
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Призы
@@ -334,7 +334,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Jueces
 
-[**dkun**](https://osu.ppy.sh/u/dkun), [**Nyquill**](https://osu.ppy.sh/u/Nyquill), [**Andrea**](https://osu.ppy.sh/u/Andrea), [**those**](https://osu.ppy.sh/u/those), [**MMzz**](https://osu.ppy.sh/u/MMzz), [**Sync**](https://osu.ppy.sh/u/Sync)
+[**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
 
 ## Premios

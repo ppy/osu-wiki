@@ -46,6 +46,6 @@ Your team will appear on the wiki page when your registration was successful. Al
 
 *   [Registration Form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform)
 *   [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013)
-*   [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
+*   [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 —Loctav

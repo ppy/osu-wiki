@@ -15,7 +15,7 @@ Na maioria das telas no osu! você pode pressionar `F8` ou clicar no botão `Mos
 | **Red**      | Membro do [GMT](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") ou [QAT](/wiki/People/Quality_Assurance_Team/ "Quality Assurance Team")                                                                                             |
 | **Green**    | Contém seu nome ou palavras chave que você adicionou para ativar um "highlight" (destacar). Uma copia da mensagem vai aparecer em um canal dedicado, `#highlight`, que contém todas essas linhas. |
 | **Blue**     | Mensagem Privada                                                                                                                                                                                 |
-| **Cyan**    | [peppy](https://osu.ppy.sh/u/2 "peppy"), o criador do osu!                                                                                                                                                 |
+| **Cyan**    | [peppy](https://osu.ppy.sh/users/2 "peppy"), o criador do osu!                                                                                                                                                 |
 | **Pink**     | [Banchobot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                                                             |
 
 -   Clique na caixa `Show Ticker` para exibir a mensagem mais recente do chat na parte inferior da tela quando o console de chat não estiver visível.

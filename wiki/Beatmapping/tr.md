@@ -1,16 +1,18 @@
-**Beatmapping** osu!'da ki [beatmaplerin](TR:Beatmap "wikilink") oluşturulma sürecidir. Bu süreç -beatmap yapılacak- şarkının seçilmesi, [zamanlama](TR:Timing "wikilink") (timing), kullanılacak olan objelerin(circle,slider vb.) yerleştirilmesi, ve (isteğe bağlı olarak) [skinning](TR:Skinning "wikilink") ve [storyboarding](TR:Storyboarding "wikilink") aşamalarını kapsar.
+# Beatmapping (Türkçe)
 
-Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](TR:Beatmap_approval "wikilink") (beatmap approval) ve o mapin üstünde bir çok güncelleme, değişiklik yaparak, maplerini [ranked](TR:Ranked_beatmap "wikilink") yaparlar.
+**Beatmapping** osu!'da ki [beatmaplerin](/wiki/Beatmaps) oluşturulma sürecidir. Bu süreç -beatmap yapılacak- şarkının seçilmesi, [zamanlama](/wiki/Timing) (timing), kullanılacak olan objelerin(circle,slider vb.) yerleştirilmesi, ve (isteğe bağlı olarak) [skinning](/wiki/Skinning) ve [storyboarding](/wiki/Storyboarding) aşamalarını kapsar.
+
+Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](/wiki/Beatmap_Ranking_Procedure) (beatmap approval) ve o mapin üstünde bir çok güncelleme, değişiklik yaparak, maplerini [ranked](/wiki/Beatmaps) yaparlar.
 
 Beatmapping'de en ortak kullanılan zorluklar şunlardır;
 
--   [Kolay](TR:Easy_(Difficulty) "wikilink")
--   [Normal](TR:Normal "wikilink")
--   [Zor](TR:Hard "wikilink")
--   [Zor'unda zoru denilebilir](TR:Insane "wikilink")
+-   [Kolay](/wiki/Difficulties/Easy)
+-   [Normal](/wiki/Difficulties/Normal)
+-   [Zor](/wiki/Difficulties/Hard)
+-   [Zor'unda zoru denilebilir](/wiki/Difficulties/Insane)
 
-Yukarıda tıklayacağınız her link, size [mapperların](TR:Mappers "wikilink") -seçilmiş olan zorluğun- [zorluk seviyesine](TR:Difficulty "wikilink") uygun,eğlenceli mapler kurması için gereken bir rehberi açacaktır.
+Yukarıda tıklayacağınız her link, size [mapperların](/wiki/Glossary) -seçilmiş olan zorluğun- [zorluk seviyesine](/wiki/Difficulties) uygun,eğlenceli mapler kurması için gereken bir rehberi açacaktır.
 
-Ayrıca, [mapperların](TR:Mappers "wikilink") bunların yerine başka bir [zorluk](TR:Difficulty "wikilink") adı kullanmasıda alışılmamış bir şey değildir
+Ayrıca, [mapperların](/wiki/Glossary) bunların yerine başka bir [zorluk](/wiki/Difficulties) adı kullanmasıda alışılmamış bir şey değildir
 
-İlaveten, çoğunlukla mapper'ın zorluğu gibi isimlendirilmiş [Guest zorluklarda](TR:Guest_Difficulty "wikilink") bulabilirsiniz (Örneğin Larto's Insane).
+İlaveten, çoğunlukla mapper'ın zorluğu gibi isimlendirilmiş [Guest zorluklarda](/wiki/Glossary) bulabilirsiniz (Örneğin Larto's Insane).

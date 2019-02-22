@@ -1,7 +1,7 @@
 Adding Custom Hit Sounds
 ===========================
 
-From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/forum/p/3215699)* (and modified)
+From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (and modified)
 
 Getting the custom hit sounds
 ------------------------------

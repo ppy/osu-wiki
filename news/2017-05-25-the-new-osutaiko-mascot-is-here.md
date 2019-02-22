@@ -20,9 +20,9 @@ We present to you, the brand new official mascot for osu!taiko - Mocha!
 
 [Download the full design documentation here.](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf)
 
-Mocha represents the second time in osu!'s history where the creators of the game and the community have come together to create a gamemode's mascot. The first time resulted in pippi's original and now timeless design, born from the collaborative efforts of awp, Sinistro, Loginer and Sarumaru in a [similar contest held over IRC and the forums](https://osu.ppy.sh/forum/t/2527&start=0) in late 2008.
+Mocha represents the second time in osu!'s history where the creators of the game and the community have come together to create a gamemode's mascot. The first time resulted in pippi's original and now timeless design, born from the collaborative efforts of awp, Sinistro, Loginer and Sarumaru in a [similar contest held over IRC and the forums](https://osu.ppy.sh/community/forums/topics/2527&start=0) in late 2008.
 
-The child of [**Crowie**](https://osu.ppy.sh/u/6894067)'s concept design and [**flyte**](https://osu.ppy.sh/u/3103765)'s design direction, Mocha finally coming to life is something we're super excited to see, and we hope that you love her just as much as we do.
+The child of [**Crowie**](https://osu.ppy.sh/users/6894067)'s concept design and [**flyte**](https://osu.ppy.sh/users/3103765)'s design direction, Mocha finally coming to life is something we're super excited to see, and we hope that you love her just as much as we do.
 
 To celebrate, we'll be holding a fanart contest in her honor in the coming weeks. If you're of the artistic type, get scribbling in preparation, and keep your eyes peeled on the news!
 

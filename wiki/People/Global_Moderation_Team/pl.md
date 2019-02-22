@@ -12,7 +12,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 
 ## Członkowie zespołu
 
-*Uwaga: Oprócz podanych niżej języków, wszyscy członkowie GMT mówią po angielsku. Strona zespołu znajduje się [tutaj](http://osu.ppy.sh/groups/4).*
+*Uwaga: Oprócz podanych niżej języków, wszyscy członkowie GMT mówią po angielsku. Strona zespołu znajduje się [tutaj](https://osu.ppy.sh/groups/4).*
 
 | Pseudonim | Języki | Główny obszar działania |
 | :-- | :-- | :-- |
@@ -51,7 +51,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, Hiszpański | Moderacja czatu |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francuski, Hiszpański | Moderacja czatu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonezyjski | Moderacja czatu |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Chiński | Moderacja czatu |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chiński | Moderacja czatu |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Węgierski | Moderacja czatu |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Niemiecki | Moderacja Forum oraz czatu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rosyjski | Moderacja czatu |
