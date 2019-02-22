@@ -19,14 +19,8 @@ Selamat Tahun Baru Imlek, tahun ini adalah tahun monyet!
 
 Additionally, don't forget to check out the osu! Top 20 Chinese Players and Top 25 Korean Players in 2015 videos by [TwT](https://osu.ppy.sh/u/TwT) and [CookieNia](https://osu.ppy.sh/u/CookieNia) respectively.
 
-　
-
 <iframe width="760" height="428" src="https://www.youtube.com/embed/YbRBnuq9JAw?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-　
-
 
 <iframe width="760" height="428" src="https://www.youtube.com/embed/PIpuj_lCgPU?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-
-— IamKwaN
+—IamKwaN

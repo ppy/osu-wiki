@@ -32,9 +32,9 @@ How many times can [ExGon](https://osu.ppy.sh/u/214187) show up in scorewatch? T
 BLAST FROM THE PAST
 -----
 
-Many players may not know how much of a beast [SapphireGhost](https://osu.ppy.sh/u/388602) was back in 2014, so here is osu!archive doing what they do best and picking his 96.99% HDNCSD FC on [Tomohito Nishiura - Theme of the Last Time Travel (Live)](https://osu.ppy.sh/b/57143?m=0) to take 225pp and the number one spot on the map. 
+Many players may not know how much of a beast [SapphireGhost](https://osu.ppy.sh/u/388602) was back in 2014, so here is osu!archive doing what they do best and picking his 96.99% HDNCSD FC on [Tomohito Nishiura - Theme of the Last Time Travel (Live)](https://osu.ppy.sh/b/57143?m=0) to take 225pp and the number one spot on the map.
 
-Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/70hytd/osuarchive_29_sapphireghost_tomohito_nishiura/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published! 
+Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/70hytd/osuarchive_29_sapphireghost_tomohito_nishiura/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Nmh42Lc4EDs" frameborder="0" allowfullscreen></iframe></br>
 
@@ -42,13 +42,13 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 NOTABLE MENTIONS
 -----
 
-[Monko2k](https://osu.ppy.sh/u/4852013) has surged up the rankings without a care after he set an amazing 99.71% HR 1x sliderbreak on [BABYMETAL - Gimme chocolate!!](https://osu.ppy.sh/b/970048?m=0) to grab 611pp. This unfortunate incident does not seem to hinder him that much as he has risen into the top 25 globally! 
+[Monko2k](https://osu.ppy.sh/u/4852013) has surged up the rankings without a care after he set an amazing 99.71% HR 1x sliderbreak on [BABYMETAL - Gimme chocolate!!](https://osu.ppy.sh/b/970048?m=0) to grab 611pp. This unfortunate incident does not seem to hinder him that much as he has risen into the top 25 globally!
 
 
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[WindyS](https://osu.ppy.sh/u/1190879) takes on [cheewee10](https://osu.ppy.sh/u/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/s/354157). 
+[WindyS](https://osu.ppy.sh/u/1190879) takes on [cheewee10](https://osu.ppy.sh/u/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/s/354157).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YwobO3E0lz0" frameborder="0" allowfullscreen></iframe></br>
 

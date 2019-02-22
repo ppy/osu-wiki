@@ -218,7 +218,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 #### Mappool A
 
 - NoMod
-  - [sasakure.UK feat. mirto - jet coaster\*girl sasakure.UK tRiCkStAr Remix (\_DUSK\_) \[dUsKaLgE's InNeR oNi (SV version)\]](/beatmapsets/774339/#taiko/1627483) 
+  - [sasakure.UK feat. mirto - jet coaster\*girl sasakure.UK tRiCkStAr Remix (\_DUSK\_) \[dUsKaLgE's InNeR oNi (SV version)\]](/beatmapsets/774339/#taiko/1627483)
   - [Ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](/beatmapsets/742938/#taiko/1659898)
   - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](/beatmapsets/768449/#taiko/1616129)
   - [lapix - Nexta (Midnaait) \[Data Overwrite\]](/beatmapsets/734616/#taiko/1550962)
@@ -253,8 +253,8 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 #### Mappool A
 
 - NoMod
-  - [IOSYS - Trauma Saimin Shoujo Satori! (7\_7) \[Oni\]](/beatmapsets/834962/#taiko/1748899) 
-  - [Chroma - Lost Found Melody (zkane2) \[Found It\]](/beatmapsets/832348/#taiko/1743812) 
+  - [IOSYS - Trauma Saimin Shoujo Satori! (7\_7) \[Oni\]](/beatmapsets/834962/#taiko/1748899)
+  - [Chroma - Lost Found Melody (zkane2) \[Found It\]](/beatmapsets/832348/#taiko/1743812)
   - [jioyi - Platinum (ekumea1123) \[Inner Oni\]](/beatmapsets/733250/#taiko/1546898)
   - [Camellia feat. Nanahira - Amor De Verao (Tofu1222) \[Inner Oni\]](/beatmapsets/746316/#taiko/1573005)
 - Hidden
@@ -264,8 +264,8 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [t+pazolite - Knotpunk (Nifty) \[Inner Oni\]](/beatmapsets/716533/#taiko/1514128)
   - [Tomoya Tomita, Misaki Asada - Vs. Snifberg the Unfeeling (Nwolf) \[Inner Oni\]](/beatmapsets/765068/#taiko/1608690)
 - FreeMod
-  - [Vicheblanka - Black Rover(Cover Raon Lee) (asuasu\_yura) \[Oni\]](/beatmapsets/834196/#taiko/1747535) 
-  - [doriko - Romeo and Cinderella (DJ Ramakun Remix) (Nishizumi) \[Inner Oni\]](/beatmapsets/837034/#taiko/1752653) 
+  - [Vicheblanka - Black Rover(Cover Raon Lee) (asuasu\_yura) \[Oni\]](/beatmapsets/834196/#taiko/1747535)
+  - [doriko - Romeo and Cinderella (DJ Ramakun Remix) (Nishizumi) \[Inner Oni\]](/beatmapsets/837034/#taiko/1752653)
 
 #### Mappool B
 
@@ -288,19 +288,19 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 #### Mappool A
 
 - NoMod
-  - [Nekomata Master - Deadman Falling (Azer) \[Inner Oni\]](/beatmapsets/619878/#taiko/1523531) 
-  - [onoken - Amnolys (uone) \[Oni\]](/beatmapsets/736516/#taiko/1554433) 
+  - [Nekomata Master - Deadman Falling (Azer) \[Inner Oni\]](/beatmapsets/619878/#taiko/1523531)
+  - [onoken - Amnolys (uone) \[Oni\]](/beatmapsets/736516/#taiko/1554433)
   - [Pierce The Veil - The First Punch (Backfire) \[Backfire's Inner Oni\]](/beatmapsets/395633/#taiko/1596107)
   - [Konuko - Toumei Elegy (hikiko-) \[hikiko's Inner Oni\]](/beatmapsets/563743/#taiko/1525300)
 - Hidden
-  - [ENNNN - Nightfall (DarkVortex) \[Oni\]](/beatmapsets/655932/#taiko/1389903) 
+  - [ENNNN - Nightfall (DarkVortex) \[Oni\]](/beatmapsets/655932/#taiko/1389903)
   - [Dirty Androids - City Never Sleeps (Lyawi) \[Oni\]](/beatmapsets/588177/#taiko/1245287)
 - HardRock
-  - [Hige Driver - Pa Pi Pu Yeah! (Raphalge) \[Oni\]](/beatmapsets/701218/#taiko/1484196) 
+  - [Hige Driver - Pa Pi Pu Yeah! (Raphalge) \[Oni\]](/beatmapsets/701218/#taiko/1484196)
   - [han@\*mori - Seimei no Wa wo Tsumuide (bank78952) \[Inner Oni\]](/beatmapsets/826249/#taiko/1731695)
 - FreeMod
-  - [Jin - Outer Science (mintong89) \[mint's Taiko Oni\]](/beatmapsets/115963/#taiko/300389) 
-  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (\_Rise) \[Riseko\]](/beatmapsets/751580/#taiko/1583046) 
+  - [Jin - Outer Science (mintong89) \[mint's Taiko Oni\]](/beatmapsets/115963/#taiko/300389)
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (\_Rise) \[Riseko\]](/beatmapsets/751580/#taiko/1583046)
 
 #### Mappool B
 
@@ -322,7 +322,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes finales
 
-| Saturday, 2018-10-06 |  |  |  |  | 
+| Saturday, 2018-10-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](/community/matches/46519821) |
 
@@ -333,7 +333,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Finales
 
-| Samedi, 2018-09-29 |  |  |  |  | 
+| Samedi, 2018-09-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | MIStaikon | 3 | **7** | **hello we play taiko** | [#1](/community/matches/46326384) |
 
@@ -345,7 +345,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-| Samedi, 2018-09-22 |  |  |  |  | 
+| Samedi, 2018-09-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Hentaiko** | [#1](/community/matches/46143098) |
 | **♂ Drum ♂ Spanking ♂ Festival ♂** | **6** | 2 | The Tasuke Train | [#1](/community/matches/46151551) |
@@ -361,7 +361,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-| Samedi, 2018-09-15 |  |  |  |  | 
+| Samedi, 2018-09-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **6** | 4 | Magnolia | [#1](/community/matches/45971075) |
 | Low Accuracy SS | 5 | **6** | **The Tasuke Train** | [#1](/community/matches/45972388) |
@@ -373,7 +373,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **i like grosses baguettes** | **6** | 0 | Foda-se | [#1](/community/matches/45983052) |
 | **not a taiko team xd** | **6** | 3 | Fun Assurance Team | [#1](/community/matches/45983714) |
 
-| Dimanche, 2018-09-16 |  |  |  |  | 
+| Dimanche, 2018-09-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](/community/matches/45996362) ||
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](/community/matches/46001430) |
@@ -385,7 +385,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 16èmes de finale
 
-| Samedi, 2018-09-08 |  |  |  |  | 
+| Samedi, 2018-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](/community/matches/45781089) |
 | **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](/community/matches/45791945) |
@@ -393,7 +393,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Barely Legal | 4 | **5** | **Pißwasser** | [#1](/community/matches/45800048) |
 | **Foda-se** | **5** | 2 | Ooyama Shota | [#1](/community/matches/45800293) |
 
-| Dimanche, 2018-09-09 |  |  |  |  | 
+| Dimanche, 2018-09-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | :) | 0 | **5** | **DON'T KAT** | -win by default- |
 | Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45827234) |
@@ -409,11 +409,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 32èmes de finale
 
-| Vendredi, 2018-08-31 |  |  |  |  | 
+| Vendredi, 2018-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](/community/matches/45591544) |
 
-| Samedi, 2018-09-01 |  |  |  |  | 
+| Samedi, 2018-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Magnolia | 2 | **5** | **MIStaikon** | [#1](/community/matches/45603361) |
 | ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](/community/matches/45606910) |
@@ -422,7 +422,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | DON'T KAT | 2 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](/community/matches/45611363) |
 | :) | 0 | **5** | **Hentaiko** | [#1](/community/matches/45613117) |
 
-| Dimanche, 2018-09-02 |  |  |  |  | 
+| Dimanche, 2018-09-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](/community/matches/45627499) |
 | Taco Monsters | 0 | **5** | **Foda-se** | [#1](/community/matches/45627625) |

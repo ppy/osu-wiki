@@ -4,7 +4,7 @@
 
 **osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
-Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini. 
+Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini.
 Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
 
 [Berikut merupakan trailernya](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).

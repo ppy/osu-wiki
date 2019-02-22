@@ -1121,7 +1121,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ### Éligibilité et Inscription
 
-- N'importe quelle joueur ayant un drapeau faisant partie de la Francophonie [(Liste des pays francophones ici)](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) ou faisant partie de la France d'outre-mer [(Liste des îles françaises d'outre-mer ici)](https://fr.wikipedia.org/wiki/France_d%27outre-mer) sont autorisés à participer à ce tournoi. 
+- N'importe quelle joueur ayant un drapeau faisant partie de la Francophonie [(Liste des pays francophones ici)](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie) ou faisant partie de la France d'outre-mer [(Liste des îles françaises d'outre-mer ici)](https://fr.wikipedia.org/wiki/France_d%27outre-mer) sont autorisés à participer à ce tournoi.
 - Tout membre du staff **à part les mapsetters et les arbitres** peut participer au tournoi.
 - 32 places seront ouvertes pour chaque division. Dans le cas où une division n'atteint pas les 32 joueurs, alors uniquement le top 16 de cette division jouera dans le tournoi. Si une division à en dessous de 16 joueurs, le tournoi pour celle-ci sera **annulé**. Des places en plus ne seront **PAS** ouvertes. Uniquement le top 32 de chaque division pourra jouer. Les joueurs peuvent rejoindre **n'importe** lequel des 4 tournois.
 - Le staff du tournoi à tous les droits de refuser l'inscription d'un joueur si le staff d'osu refuse ce joueur.
@@ -1130,13 +1130,13 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Préparation
 
-- Les arbitres doivent préparer la salle 10 minutes avant l'horaire prévu pour le match. L'arbitre doit absolument contacter les joueurs sur Discord pour leur rappeler que le match commence, suite au fait que Bancho n'envoie pas les invitations très souvent. 
+- Les arbitres doivent préparer la salle 10 minutes avant l'horaire prévu pour le match. L'arbitre doit absolument contacter les joueurs sur Discord pour leur rappeler que le match commence, suite au fait que Bancho n'envoie pas les invitations très souvent.
 - Le format de nom de la salle pour les 4 tournois est: o!2MF: (Joueur 1) vs (Joueur 2)
 - Le match est considéré un forfeit 10 minutes exactement après l'horaire prévu pour le match. Le joueur qui ne sera pas arrivé dans la salle après ces 10 minutes sera considéré comme le perdant, tandis que le joueur qui était dans la salle gagnera ce match par forfeit. Si les deux joueurs ne viennent pas, le gagnant sera le joueur ayant le plus haut seed.
 
 #### Phase de warmup
 
-- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](https://osu.ppy.sh/wiki/Rules)) ne seront pas autorisé. 
+- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](https://osu.ppy.sh/wiki/Rules)) ne seront pas autorisé.
 
 #### Bans et Picks
 
@@ -1144,7 +1144,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 #### Format du Match
 
-- Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici: 
+- Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici:
   - 16èmes de finale et 8èmes de finale: Best-of-7 (Premier à 4 points)
   - Quarts de finale: Best-of-9 (Premier à 5 points)
   - Demi-finales: Best-of-11 (Premier à 6 points)

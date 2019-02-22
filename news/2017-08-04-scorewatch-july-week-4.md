@@ -12,9 +12,9 @@ With a leaderboard filled with NF scores, you would think seeing a HD score woul
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vl89RVLtQIE" frameborder="0" allowfullscreen></iframe></br>
 
-[Toy](https://osu.ppy.sh/u/2757689) definitely became a superstar, setting the first HDHR FC (with 97.51%) on the technical map [Pegboard Nerds & NGHTMRE (feat. Krewella) - Superstar](https://osu.ppy.sh/b/1099081) with 97.51%. This subtly reminds me of Hollow Wings. 
+[Toy](https://osu.ppy.sh/u/2757689) definitely became a superstar, setting the first HDHR FC (with 97.51%) on the technical map [Pegboard Nerds & NGHTMRE (feat. Krewella) - Superstar](https://osu.ppy.sh/b/1099081) with 97.51%. This subtly reminds me of Hollow Wings.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ys0zzNubIoo" frameborder="0" allowfullscreen></iframe></br> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ys0zzNubIoo" frameborder="0" allowfullscreen></iframe></br>
 
 We showed him once! But now, [Ekoro](https://osu.ppy.sh/u/284905) is back on fire once again with a new score on [Niko - Made of Fire](https://osu.ppy.sh/b/40017?m=0), an amazing 95.39% EZDTFL FC to earn 407pp. Honestly, we cannot even imagine something this crazy happening.
 

@@ -12,7 +12,7 @@ We're super excited to announce **MOtOLOiD**'s presence in the osu! scene as a F
 
 You might recognise a few of these names already if you follow the scene, if you don't, you're bound to hear about them soon!
 
-We have **nine** assorted tracks from **four** different artists available for your mapping pleasure, all free to use in osu!. 
+We have **nine** assorted tracks from **four** different artists available for your mapping pleasure, all free to use in osu!.
 
 Here's a sample of a few, complete with maps already made and ready to play - simply click on the image to head straight to the listing:
 

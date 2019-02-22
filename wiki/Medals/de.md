@@ -107,4 +107,4 @@ Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss eine beliebige Ranked/Approve
 | ![Easy](img/all-intro-easy.png "Easy") | ![Double Time](img/all-intro-doubletime.png "Double Time") | ![Flashlight](img/all-intro-flashlight.png "Flashlight") | ![Half Time](img/all-intro-halftime.png "Half Time") |
 | :---: | :---: | :---: | :---: |
 | ![Hard Rock](img/all-intro-hardrock.png "Hard Rock") | ![Hidden](img/all-intro-hidden.png "Hidden") | ![Nightcore](img/all-intro-nightcore.png "Nightcore") |![No Fail](img/all-intro-nofail.png "No Fail") |
-| ![Perfect](img/all-intro-perfect.png "Perfect") | ![Spun Out](img/all-intro-spunout.png "Spun Out") | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") | 
+| ![Perfect](img/all-intro-perfect.png "Perfect") | ![Spun Out](img/all-intro-spunout.png "Spun Out") | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") |

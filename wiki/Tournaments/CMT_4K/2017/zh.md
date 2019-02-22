@@ -98,7 +98,7 @@ TB:
 
 ### 四分之一决赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmaps/1243769)
 - [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/beatmaps/1258021)
 - [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/beatmaps/1073952)

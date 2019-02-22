@@ -128,7 +128,7 @@ Then grab the endpoint of the first slider and pull it back to the length you wa
 ---
 
 See how it's asymmetrical and ugly?
-Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind. 
+Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind.
 
 ![How to make hearts step 4](img/MGS_hearts4.png)
 

@@ -21,7 +21,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Requisitos:
 
- -   Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](http://osu.ppy.sh/p/packlist?t=t). 
+ -   Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](http://osu.ppy.sh/p/packlist?t=t).
  -   O modo deve ser [osu!Standard](/wiki/Game_Modes/osu!/).
  -   Extraia o pacote temático, solte todos os beatmaps .zip na lista de músicas do osu!. Abra o osu! e começar a jogar. Só isso.
      -   Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](http://osu.ppy.sh/p/packlist?t=t)

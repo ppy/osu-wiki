@@ -128,6 +128,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
 
+### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
+| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
+| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
@@ -231,7 +239,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](/users/3036686)(osu!mania 7K) |
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](/users/4581715)(osu!), ![][flag_PH] [Roido](/users/6829103)(osu!catch), ![][flag_PH] [joseee-](/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](/users/2199427)(osu!), ![][flag_PH] [-Nicotine](/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](/users/1192936)(osu!mania 7K) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |

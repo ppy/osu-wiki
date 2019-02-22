@@ -166,7 +166,7 @@ Mappools
   - [SHK - Weep Irish (AngelHoney) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmaps/95775)
   - [3L - Come Back To Me (orioncomet) \[Taiko\]](https://osu.ppy.sh/beatmaps/87650)
   - [Niko - Night of Fire (Gabi) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmaps/77710)
-  - [O-Life Japan - Yamanobori Kibun (qinche) \[Taiko\]](https://osu.ppy.sh/beatmaps/100178) 
+  - [O-Life Japan - Yamanobori Kibun (qinche) \[Taiko\]](https://osu.ppy.sh/beatmaps/100178)
 - FreeMod
   - [07th Expansion - rog-unlimitation (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmaps/110148)
   - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[qoot8123's Taiko Oni\]](https://osu.ppy.sh/beatmaps/216148)
@@ -189,7 +189,7 @@ Mappools
 - Hidden
   - [Sakakibara Yui - Toki Tsukasadoru Juuni no Meiyaku (TV Size) (gina91189) \[Car's Taiko\]](https://osu.ppy.sh/beatmaps/104568)
   - [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[Taiko\]](https://osu.ppy.sh/beatmaps/119583)
-  - [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmaps/86571) 
+  - [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmaps/86571)
   - [cosMo@Bousou-P - neu BSP style (Bass) \[31's Taiko\]](https://osu.ppy.sh/beatmaps/155964)
 - HardRock
   - [Denkare - Satsuriku no Keifu (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmaps/257366)

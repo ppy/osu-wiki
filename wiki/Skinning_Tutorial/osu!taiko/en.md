@@ -6,7 +6,7 @@ The osu!taiko mascot, also known as "pippidon", can be easily animated in simila
 
 ### Idle
 
-This is when pippidon is waiting you the player to hit a hitobject.
+This is when pippidon is waiting you the player to hit a hit object.
 The naming scheme starts with `pippidonidle` followed by an indexed number (starts count at zero).
 
 pippidonidle0, pippidonidle1, pippidonidle2, ..., pippidonidleN

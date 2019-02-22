@@ -103,7 +103,7 @@ Wonderfully rendered colour and movement lend a compelling touch to **Ringarune*
 
 We were so blown away by the sheer scope of this contest. We'd never imagined Mocha would be so wildly popular among the artists of our community, and this contest has truly been something special for her and for the osu!community at large.
 
-We'd like to extend our utmost thanks to every artist who participated, and a hearty well-done for those in the top ten. 
+We'd like to extend our utmost thanks to every artist who participated, and a hearty well-done for those in the top ten.
 
 The finalists listed here will all receive **2 months of osu!supporter** for their efforts, and their wonderful works will be featured as seasonal in-game backgrounds from now until summer ends in osu!.
 

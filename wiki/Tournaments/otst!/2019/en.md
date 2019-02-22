@@ -103,7 +103,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ### General Rules
 
-1. There will be six mappools in total: Group stage, Round of 32, Round of 16, Quarterfinals, Semifinals, and Finals. 
+1. There will be six mappools in total: Group stage, Round of 32, Round of 16, Quarterfinals, Semifinals, and Finals.
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format. This format will be explained as follows:
    - 4 NoMod
    - 2 Hidden
@@ -129,7 +129,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 ### Registration
 
 1. If a team member needs to be replaced after signing up, please contact a host **before** registration ends. No rosters can be modified after registration ends.
-2. Each member of participacing team must be in the Discord server to verify their participation. 
+2. Each member of participacing team must be in the Discord server to verify their participation.
 3. If a player changes their name, they (or a team captain) needs to inform a tournament host or admin as soon as possible to avoid misunderstandings in a match.
 4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion.
 5. Accounts that were recently unbanned or suspended within 12 months prior to February 9th will not be allowed to participate in otst!.
@@ -176,7 +176,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 ### Disconnection Handling
 
 1. The team that lost the player may opt to replay the map if they desire. However, this will only be tolerated once.
-2. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays. 
+2. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays.
 3. If the team that *did not* disconnect has a point advantage that the other team could not have made up even with their player present (e.g. 2 mil+, depends on the mod type) then the map is not replayed.
 
 [flag_AR]: /wiki/shared/flag/AR.gif

@@ -9,7 +9,7 @@ Have you ever opened up the editor and just looked at everything it offers in co
 
 Since its inception in July of 2016, the program has gone through five cycles where experienced mappers teach aspiring new mappers everything there is to know about beatmapping, from the fundamentals of handling the editor to abstract and complex concepts of beatmap design, such as structure, flow, and many more!
 
-**For the upcoming winter cycle we are scouting mentors and mentees for the game modes osu!, osu!catch and osu!taiko!** 
+**For the upcoming winter cycle we are scouting mentors and mentees for the game modes osu!, osu!catch and osu!taiko!**
 
 This iteration of the program will be hosting three out of the four gamemodes of osu! - if you're interested here's a short timeline on this:
 - Mentor signups are open from 08.10.2017 until the 15.10.2017.

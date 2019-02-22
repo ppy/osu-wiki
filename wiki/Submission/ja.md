@@ -18,7 +18,7 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 ### 譜面の投稿
 
-![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen") 
+![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
 *いずれかの*難易度をEditorで開き、**"File"**をメニューから開き、**"Upload Beatmap"** (もしくは"Ctrl + Shift + U")を選択してください。BSSのダイアログボックス を開き、Upload Filesを押してください。この段階で何か変えたいことがあれば、キャンセルをしてダイアログボックスを閉じてEditorに戻ることが出来ます。
 

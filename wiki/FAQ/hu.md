@@ -21,7 +21,7 @@ A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így 
 
 ### A játékmenet alapjai
 
-`Útmutató: `[`(Az` `osu!` `PC` `változatához` `csomagolva)` `Eredeti` `útmutató`](http://osu.ppy.sh/s/3756)`, `[`Rankelt` `beatmap` `változat`](http://osu.ppy.sh/s/19928)
+`Útmutató: `[`(Az` `osu!` `PC` `változatához` `csomagolva)` `Eredeti` `útmutató`](http://osu.ppy.sh/s/3756)`, `[`Rankelt` `beatmap` `változat`](http://osu.ppy.sh/s/19928)
 
 A játékmenet a következőkre helyezi a hangsúlyt:
 
@@ -139,9 +139,9 @@ Mi az a "Taiko"?
 
 A Taiko mód alapértelmezett gombjai a következők:
 
-`Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.`
-`Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.`
-`Az osu! egérmutató pozíciója nem számít.`
+`Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.`
+`Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.`
+`Az osu! egérmutató pozíciója nem számít.`
 
 A Beállítások menü Input részén testre szabhatod a használatos billentyűket.
 

@@ -57,7 +57,7 @@ SS Tournament's most up to date information can be found on its most recent [for
 
 ### General Info
 
-* Teams may consist of 4 Members. 
+* Teams may consist of 4 Members.
 * There is no rank range the higher the rank (1 being highest) the more likely you are to avoid being cut off from a rank cut off of overflow sign ups
 * Seeding will take into account all Players PP. '(formula being <Member 1 PP> + <Member 2 PP> + …. / <# of players on team>)'
 * The tournament will be held in 3v3 double-elimination format with Groups having one top high mid low and bottom seed selected from the tournament drawings client.
@@ -78,12 +78,12 @@ Brackets will then be made with the top placing team in group A vs the second to
 1. The designated referee will have the lobby open using the format SST: (blue team) vs. (red team)
 1. The referee will message the team captains or anyone online from the team.
 1. Teams will join here. Once all 6 players are in the referee will ask for their warm ups. Order in which they are played is irrelevant. (this step is skipped for group stages)
-1. Both teams will '!roll', the higher number rolled will be the team who will ban first 
+1. Both teams will '!roll', the higher number rolled will be the team who will ban first
 1. Both teams will alternate banning maps until both teams have banned out 2 maps
-1. The team that lost the roll is the team that picks first and it it alternates from there. 
-Example: BLUE rolls 67 RED rolls 10 the order would be 
+1. The team that lost the roll is the team that picks first and it it alternates from there.
+Example: BLUE rolls 67 RED rolls 10 the order would be
 Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
-1. Teams have 60 seconds to pick a map and 120 seconds to ready up refs will use '!mp timer' to keep time if a team doesn't pick in the first 60 seconds the opposing team will pick instead if the players are not ready after 120 seconds the ref will at their discretion start the match *Refs are in full control of any leniency here and may choose not to enforce this until semifinals at which point enforcement will be mandatory* 
+1. Teams have 60 seconds to pick a map and 120 seconds to ready up refs will use '!mp timer' to keep time if a team doesn't pick in the first 60 seconds the opposing team will pick instead if the players are not ready after 120 seconds the ref will at their discretion start the match *Refs are in full control of any leniency here and may choose not to enforce this until semifinals at which point enforcement will be mandatory*
 1. Once a map has been picked and everyone is ready the map will start after 5 seconds using '!mp start 5'
 1. If a player disconnects within the first 15 seconds of a map the referee will abort the match and the map will be restarted. Anyone found abusing this will be disqualified from the tournament. This may only happen once per team per match after the first dc the referee is not to abort
 
@@ -97,13 +97,13 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 - NoMod
   - [Ceui - COLORFUL DAYS!!](https://osu.ppy.sh/beatmaps/203315) [Insane]
   - [Mastermind(xi+nora2r) - Dreadnought](https://osu.ppy.sh/beatmaps/813331) [Another]
-  - [Function Phantom - Euclid](https://osu.ppy.sh/beatmaps/971086) [toybot's Insane]	
+  - [Function Phantom - Euclid](https://osu.ppy.sh/beatmaps/971086) [toybot's Insane]
 - DoubleTime
-  - [Duca - Clover](https://osu.ppy.sh/beatmaps/157856) [Collab]	
+  - [Duca - Clover](https://osu.ppy.sh/beatmaps/157856) [Collab]
   - [Icon For Hire - Make A Move](https://osu.ppy.sh/beatmaps/1077369) [Hard]		
 - Hidden  
-  - [Dreamcatcher - Sleep-walking](https://osu.ppy.sh/beatmaps/1370703) [Insane]	
-  - [yuiko - petit bonheur](https://osu.ppy.sh/beatmaps/1327955) [Insane]	
+  - [Dreamcatcher - Sleep-walking](https://osu.ppy.sh/beatmaps/1370703) [Insane]
+  - [yuiko - petit bonheur](https://osu.ppy.sh/beatmaps/1327955) [Insane]
 - HardRock
   - [Otokaze - Karen (Short Ver.)](https://osu.ppy.sh/beatmaps/154357) [Hanabi]		
   - [ALiCE'S EMOTiON - Dark Flight Dreamer](https://osu.ppy.sh/beatmaps/763294) [Twaoi's Insane]			
@@ -149,16 +149,16 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
    - [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/950963) [Extra]
    - [Nico Nico Douga - Owens](https://osu.ppy.sh/beatmaps/72469) [Another]
 - DoubleTime  
-  - [Pile, Mimori Suzuko, Nanjo Yoshino - soldier game](https://osu.ppy.sh/beatmaps/498711) [Insane]	
+  - [Pile, Mimori Suzuko, Nanjo Yoshino - soldier game](https://osu.ppy.sh/beatmaps/498711) [Insane]
   - [T.M.Revolution - FLAGS](https://osu.ppy.sh/beatmaps/864204) [Euny's Hard]			
   - [Komine Lisa - Resuscitated Hope](https://osu.ppy.sh/beatmaps/765880) [Insane]		
 - Hidden
-  - [baker - Kimi ga Kimi ga -vocanico remix-](https://osu.ppy.sh/beatmaps/1443510) [Extra]	
-  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX-](https://osu.ppy.sh/beatmaps/682020) [N a s y a's INFINITE]	
+  - [baker - Kimi ga Kimi ga -vocanico remix-](https://osu.ppy.sh/beatmaps/1443510) [Extra]
+  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX-](https://osu.ppy.sh/beatmaps/682020) [N a s y a's INFINITE]
   - [Wayne Lytle - Pipe Dream](https://osu.ppy.sh/beatmaps/38912) [Insane]			  
 - HardRock
   - [Nitta Emi - White Eternity](https://osu.ppy.sh/beatmaps/645342) [AstralAir]
-  - [An - artcore JINJA](https://osu.ppy.sh/beatmaps/297411) [Lunatic]	
+  - [An - artcore JINJA](https://osu.ppy.sh/beatmaps/297411) [Lunatic]
   - [UNDEAD CORPORATION - In the Night Where the Kasha Screamed](https://osu.ppy.sh/beatmaps/1094737) [Insane]
 - FreeMod
   - [Amatsuki - Higurashi Moratorium](https://osu.ppy.sh/beatmaps/254370) [Frobe's Extra]		
@@ -177,15 +177,15 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmaps/1306871) [Lince's Schizophrenia]
   - [Delain - Go Away](https://osu.ppy.sh/beatmaps/1016263) [Extra]			
   - [Getty vs. DJ DiA - Fox4-Raize-](https://osu.ppy.sh/beatmaps/1097509) [Doorfin's Extra]			
-  - [N-Trance - Destiny (Nightcore Mix)](https://osu.ppy.sh/beatmaps/71562) [MADNESSVER3!!!]	
+  - [N-Trance - Destiny (Nightcore Mix)](https://osu.ppy.sh/beatmaps/71562) [MADNESSVER3!!!]
 - DoubleTime  
   - [Yun*chi - Your song*](https://osu.ppy.sh/beatmaps/812010) [Your song*]			
   - [07th Expansion - Dread of the Grave](https://osu.ppy.sh/beatmaps/81007) [Collab]			
   - [Milky Holmes - Future after Rain](https://osu.ppy.sh/beatmaps/79798) [Insane]		
 - Hidden  
-  - [ayaponzu* - Yakubyougami](https://osu.ppy.sh/beatmaps/1495657) [Collab Extra]	
+  - [ayaponzu* - Yakubyougami](https://osu.ppy.sh/beatmaps/1495657) [Collab Extra]
   - [Reol & nqrse - Ooedo Ranvu](https://osu.ppy.sh/beatmaps/833389) [Wild Dance]			
-  - [a*ru - Kizuato](https://osu.ppy.sh/beatmaps/1207948) [Extra Stage]	
+  - [a*ru - Kizuato](https://osu.ppy.sh/beatmaps/1207948) [Extra Stage]
 - HardRock
   - [EGOIST - Fallen](https://osu.ppy.sh/beatmaps/538930) [Extra]			
   - [Traktion - Gid V](https://osu.ppy.sh/beatmaps/793350) [Asphyxia's Extra]			
@@ -195,7 +195,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [xi - Halcyon](https://osu.ppy.sh/beatmaps/73699) [Another]  			
   - [Yousei Teikoku - Hades: The rise](https://osu.ppy.sh/beatmaps/1403588) [Extra]		
 - Tiebreaker  
-  - [LiSA - Rising Hope (LU-I Remix)](https://osu.ppy.sh/beatmaps/1420353) [Irregularity]	
+  - [LiSA - Rising Hope (LU-I Remix)](https://osu.ppy.sh/beatmaps/1420353) [Irregularity]
   
 ### Semi Finals
 
@@ -238,7 +238,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version-](https://osu.ppy.sh/beatmaps/1451540) [End sky]
   - [P*Light - 2 MINUTES FIGHTERS](https://osu.ppy.sh/beatmaps/1156568) [toybot's MASTER]
   - [WSTR - Eastbound & Down](https://osu.ppy.sh/beatmaps/1271476) [Irre <3 HanzeR]
-- DoubleTime 
+- DoubleTime
   - [Goose house - Hikaru nara](https://osu.ppy.sh/beatmaps/947166) [Synethesia]
   - [zts - miragecoordinator](https://osu.ppy.sh/beatmaps/1383876) [Perversion]
   - [Susumu Hirasawa - Forces](https://osu.ppy.sh/beatmaps/72419) [KIRBY Mix]
@@ -260,7 +260,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
  
 ### Tournament Brackets and standings
 
-![SS Tournament 2018](Medals.jpg)	
+![SS Tournament 2018](Medals.jpg)
 
 ![SS Tournament 2018](Brackets.jpg)
 
@@ -290,7 +290,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 | HalfPing                  | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580), ![][flag_AU] [Ezipie](https://osu.ppy.sh/users/5978907), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688)              
 | Sleeping Accommodation    | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_CN] [Totoki](https://osu.ppy.sh/users/557197), ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 | Sad Nibba Association     | ![][flag_EG] [Alfonso](https://osu.ppy.sh/users/7522642), ![][flag_EG] [ScrimShaw5](https://osu.ppy.sh/users/6534461), ![][flag_EG] [Joeeey](https://osu.ppy.sh/users/8784360)
-| Vladimir Putin            | ![][flag_RU] [koteyka20](https://osu.ppy.sh/users/7665175), ![][flag_RU] [YaVOR](https://osu.ppy.sh/users/3235892), ![][flag_RU] [Byrilo](https://osu.ppy.sh/users/5347067), ![][flag_RU] [Chayokkofeyok](https://osu.ppy.sh/users/9199948)	
+| Vladimir Putin            | ![][flag_RU] [koteyka20](https://osu.ppy.sh/users/7665175), ![][flag_RU] [YaVOR](https://osu.ppy.sh/users/3235892), ![][flag_RU] [Byrilo](https://osu.ppy.sh/users/5347067), ![][flag_RU] [Chayokkofeyok](https://osu.ppy.sh/users/9199948)
 | Da Wae                    | ![][flag_US] [mindovermanners](https://osu.ppy.sh/users/10028891), ![][flag_US] [Setnom](https://osu.ppy.sh/users/6261488), ![][flag_US] [Nefariouz](https://osu.ppy.sh/users/7673312)
 | MinecraftDabMod           | ![][flag_US] [Gifted](https://osu.ppy.sh/users/7971757), ![][flag_US] [ryyushi](https://osu.ppy.sh/users/6014327), ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_PH] [HaruTachi-](https://osu.ppy.sh/users/6244066)
 | Marbs                     | ![][flag_NO] [Reddd](https://osu.ppy.sh/users/8379270), ![][flag_US] [Naaise](https://osu.ppy.sh/users/10531760), ![][flag_CA] [[Lethal]](https://osu.ppy.sh/users/9165981), ![][flag_SE] [MangeHD](https://osu.ppy.sh/users/8553070)

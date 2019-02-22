@@ -470,7 +470,11 @@
 "hoo/2018":                     "History_of_osu!/2018"
 "hoo/osu!wiki":                 "History_of_osu!/osu!_wiki"
 
+"hit_object":                  "Hit_Objects"
+"hit_objects":                 "Hit_Objects"
+"hitobject":                   "Hit_Objects"
 "hitobjects":                  "Hit_Objects"
+"object":                      "Hit_Objects"
 "objects":                     "Hit_Objects"
 "hit_circle":                  "Hit_Objects#hit-circle"
 "hit_circles":                 "Hit_Objects#hit-circle"

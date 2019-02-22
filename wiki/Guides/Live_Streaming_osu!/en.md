@@ -153,10 +153,10 @@ This will be a guide to all the setting pages, explaining the important settings
 
 Some standard bitrate-resolution recommendations (for 30fps):
 
--   360p (640 x 360) — Minimum: 400kbps — Recommended: 750kbps
--   480p (854x480) — Minimum: 500kbps — Recommended: 1,000kbps
--   720p (1280x720) — Minimum: 1,500kbps — Recommended: 2,500kbps
--   1080p (1920x1080) — Minimum: 3,000kbps — Recommended: 4,500kbps
+-   360p (640 x 360) — Minimum: 400kbps — Recommended: 750kbps
+-   480p (854x480) — Minimum: 500kbps — Recommended: 1,000kbps
+-   720p (1280x720) — Minimum: 1,500kbps — Recommended: 2,500kbps
+-   1080p (1920x1080) — Minimum: 3,000kbps — Recommended: 4,500kbps
 
 For a higher framerate, adjust accordingly.
 
@@ -222,7 +222,7 @@ The basic idea here is, that if spectators are watching your stream in fullscree
 6.  Use Colour Key and select the background of your Twitch chat.
 7.  Approve everything and rearrange your scene.
 
-You might want to add an image behind the captured chat and set its opacity to 50-70 % for better reading.
+You might want to add an image behind the captured chat and set its opacity to 50-70 % for better reading.
 There is also the possibility to change the appearance of the Twitch chat per browser plugins. (i.e. Stylish for Chrome) This requires only basic HTML/CSS understanding.
 Another possibility is to use a 3rd party IRC Client to connect to the Twitch chat and capture that window!
 

@@ -80,9 +80,9 @@ Together, the two values produced the winning results of the contest, though the
 
 ---
 
-We're also proud to announce the beginning of Aspire-class contests for all other gamemodes - osu!taiko, osu!catch and osu!mania. 
+We're also proud to announce the beginning of Aspire-class contests for all other gamemodes - osu!taiko, osu!catch and osu!mania.
 
-Slated for commencement later in April, we will be hosting an Aspire contest for **osu!taiko**. 
+Slated for commencement later in April, we will be hosting an Aspire contest for **osu!taiko**.
 
 More details on this will emerge as the month draws late, but we look forward to seeing just how the mappers of other gamemodes fare in taking their gamemodes to the absolute limit.
 

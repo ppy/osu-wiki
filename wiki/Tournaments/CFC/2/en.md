@@ -38,7 +38,7 @@ The Catch French Cup 2 was run by various community members by distributing the 
 | Designer | ![][flag_FR] [Lotchidych](/users/8375240) |
 | Map Selectors | ![][flag_FR] [Rougoku](/users/6900166), ![][flag_FR] [Holloh](/users/7612994) |
 | Referees | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_FR] [Rsuiono](/users/9266902), ![][flag_FR] [TLQ_Yoshii](/users/7157133), ![][flag_FR] [300BPM JUMPER](/users/1893667), ![][flag_FR] [Purettsu Eru](/users/1542565) |
-| Streamers | ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [300BPM JUMPER](/users/1893667), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Star Sapphire](/users/2953898) | 
+| Streamers | ![][flag_FR] [Purettsu Eru](/users/1542565), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [300BPM JUMPER](/users/1893667), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FR] [Star Sapphire](/users/2953898) |
 | Commentators | ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [Corn-](/users/4089232), ![][flag_FR] [Orazeit](/users/8335913), ![][flag_FR] [Star Sapphire](/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987) |
 | Wiki | ![][flag_FR] [Kasumii-sama](/users/6177263) |
 
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
   - [Within Temptation - In The Middle Of The Night (Nightcore Mix) (Minato Yukina) \[Nervous Breakdown\]](/beatmapsets/603419/#fruits/1274497)
   - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (ztrot, Blue Dragon) \[Holy Shit! It's Rainbow Dash!!\]](/beatmapsets/57255/#fruits/172662)
   - [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](/beatmapsets/49459/#fruits/152480)
-- Tiebreaker 
+- Tiebreaker
   - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Spectator) \[Overdrive\]](/beatmapsets/713891/#fruits/1508761)**
   
 ### Finals
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
    - [O2i3 - Ooi [Game Edit] (xi-False) \[MQ (Deluge EX)\]](/beatmapsets/451239/#fruits/968033)
    - [I SEE MONSTAS - Holdin On (Skrillex and Nero Remix) (Hobbes2) \[Hobbes2's Extreme\]](/beatmapsets/701330/#fruits/1498152)
    - [Lucas Fader - Main Theme - Dubstep Remix (Strategas) \[Expert: Neo Cortex\]](/beatmapsets/588976/#fruits/1246807)
-- Tiebreaker 
+- Tiebreaker
   - **[BlackY - Harpuia -evolutionary extended ver- (Minato Yukina) \[Final Showdown\]](/beatmapsets/565247/#fruits/1194708)**
   
 ### Semifinals
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
    - [Helblinde - Grief & Malice (Kyuare) \[Madness\]](/beatmapsets/325817/#fruits/723610)
    - [Sagara Kokoro - Hoshizora no Ima (Star Stream) \[S.S\]](/beatmapsets/79116/#fruits/221950)
    - [Kitsune^2 - Rainbow Tylenol (Mismagius) \[Hell\]](/beatmapsets/20789/#fruits/72585)
-- Tiebreaker 
+- Tiebreaker
   - **[DystopiaGround - AugoEidEs (Minato Yukina) \[Ressurection\]](/beatmapsets/537671/#fruits/1139268)**
   
 ### Quarterfinals
@@ -200,10 +200,10 @@ This competition has come to an end and resulted in the following podium:
    - [nano - Nevereverland (Minato Yukina) \[Rain\]](/beatmapsets/149570/#fruits/439454)
    - [Roselia - LOUDER (Minato Yukina) \[Crystal's Rain\]](/beatmapsets/595580/#fruits/1270273)
    - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten) \[Saten's SELAMAT PAGI!\]](/beatmapsets/32775/#fruits/112586)
-- Tiebreaker 
+- Tiebreaker
   - **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (-Plus-) \[\*Together as one, we stay determined!\]](/beatmapsets/636920/#fruits/1351241)**
   
-### Group Stage 
+### Group Stage
 
 **[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM)**
 
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   - [Mili - Utopiosphere -Platonism- (Tyrell) \[Tyrell's Utopia\]](/beatmapsets/522132/#fruits/1111110)
   - [DWB feat. Fade - One Reason (TV Size) (Sieg) \[Insane\]](/beatmapsets/100892/#fruits/323797)
-- Tiebreaker 
+- Tiebreaker
   - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Ascendance) \[Ascendance's Reunion\]](/beatmapsets/544468/#fruits/1161865)**
   
 ## Rules
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 2. The tournament will be held over 5 weekends. The matches will be played using **Score V1** and **Head to Head** settings.
 3. A referee will be present in every match.
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
-5. First weekend matches will be best-of-7, second weekend matches will be best-of-9, third weekend matches will be best-of-11, fourth and fifth weekend matches will be best-of-13. 
+5. First weekend matches will be best-of-7, second weekend matches will be best-of-9, third weekend matches will be best-of-11, fourth and fifth weekend matches will be best-of-13.
 
 ### Match Instructions
 

@@ -181,7 +181,7 @@ Compose
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**由于 osu!mania 中的每个物件都非常要求准确性，在 Beat Snap Divisor 的旁边额外加上了原只存在于 Timing 面板的**Time signature（时间标记）**（MM:B）以供作图者参考。当第一个 Timing 区段存在于谱面歌曲档案的*几秒钟之前*，其值可为负数（例如 -8:-3）。
 
-**Insert Break Time（插入休息时间）**按钮可以目前位置上新增 / 中止休息时间。在其旁边的是**利用 Storyboard 为目前所选取的物件附属的音频文件名称**，名为　**Keysound（按键音效）**（参照此页尾端的 Sampling 段落）。
+**Insert Break Time（插入休息时间）**按钮可以目前位置上新增 / 中止休息时间。在其旁边的是**利用 Storyboard 为目前所选取的物件附属的音频文件名称**，名为 **Keysound（按键音效）**（参照此页尾端的 Sampling 段落）。
 
 ### 左边（Selector）
 

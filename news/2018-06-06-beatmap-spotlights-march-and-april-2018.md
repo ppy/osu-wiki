@@ -111,7 +111,7 @@ After previously producing one of the most dramatic and exhilarating matches of 
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/iwashi-ga.jpg)](http://osu.ppy.sh/beatmapsets/602367)
 
-Starting off his mapping career with a bang, [Damnjelly](https://osu.ppy.sh/users/1666355) comes onto the scene with his mapset of "Iwashi ga Tsuchi kara Haete Kurunda". The highest difficulty features an escalation style reading challenge, slowly introducing complex rhythms and culminating with overlapping streams. 
+Starting off his mapping career with a bang, [Damnjelly](https://osu.ppy.sh/users/1666355) comes onto the scene with his mapset of "Iwashi ga Tsuchi kara Haete Kurunda". The highest difficulty features an escalation style reading challenge, slowly introducing complex rhythms and culminating with overlapping streams.
 
 The mapset also features a geometry based spread design, with more angles being introduced per difficulty level, and an incredible recreation of the song's music video in storyboard form.
 
@@ -119,7 +119,7 @@ In addition, as the difficulty level in the mapset increases, each difficulty's 
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/gabriel.jpg)](http://osu.ppy.sh/beatmapsets/572809)
 
-With his latest ranked map of the song "Gabriel Drop Kick" by Tomita Miyu, Onishi Saori, Ohzora Naomi and Hanazawa Kana, [Okoratu](https://osu.ppy.sh/users/1623405) brings us a great collaborative mapset that spans across all modes. 
+With his latest ranked map of the song "Gabriel Drop Kick" by Tomita Miyu, Onishi Saori, Ohzora Naomi and Hanazawa Kana, [Okoratu](https://osu.ppy.sh/users/1623405) brings us a great collaborative mapset that spans across all modes.
 
 In his own difficulties, the mapper follows the song perfectly by using structured patterning whenever the music is calm and dishevelled patterning when the song is more chaotic. Combined with a guest Insane by [Yuii-](https://osu.ppy.sh/users/2935923) that uses an interesting hitsounding concept, this mapset is an experience not to be missed this month!
 
@@ -187,7 +187,7 @@ The fact that Sc4v4ng3r's mapset has managed to reached Ranked status, even when
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/der-wald.jpg)](http://osu.ppy.sh/beatmapsets/581787)
 
-An amazing set of top-quality maps by [Ascendance](https://osu.ppy.sh/users/2931883), [Spectator](https://osu.ppy.sh/users/702598) and [Hareimu](https://osu.ppy.sh/users/4138746)! Ascendance, as the mapper of the top difficulty, intentionally uses tricky yet decent anti-flows throughout the map, which heavily challenge reading skills and tapping precision. 
+An amazing set of top-quality maps by [Ascendance](https://osu.ppy.sh/users/2931883), [Spectator](https://osu.ppy.sh/users/702598) and [Hareimu](https://osu.ppy.sh/users/4138746)! Ascendance, as the mapper of the top difficulty, intentionally uses tricky yet decent anti-flows throughout the map, which heavily challenge reading skills and tapping precision.
 
 The lower two difficulties are also neatly organized with delicate and friendly patterns, making the set enjoyable for fruit lovers of all levels. Don't forget to check it out!
 
@@ -213,7 +213,7 @@ This mapset really deserves to be the best of the month April. Well done Lenfrie
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/onigiri.jpg)](http://osu.ppy.sh/beatmapsets/663098)
 
-Debuting his first ranked map, [Mentholzzz](https://osu.ppy.sh/users/7182779)'s "ONIGIRI FREEWAY" by featured artist OISHII is quite the active chart for an active song. Featuring twisting long notes with well crafted inverse sections, it's certainly a break from the established norm. 
+Debuting his first ranked map, [Mentholzzz](https://osu.ppy.sh/users/7182779)'s "ONIGIRI FREEWAY" by featured artist OISHII is quite the active chart for an active song. Featuring twisting long notes with well crafted inverse sections, it's certainly a break from the established norm.
 
 Even if long notes aren't your thing, the lower difficulties share the same creative spark that makes the top diff stand out, and to top it all off, it's key sounded! With a little something for everyone, this has definitely earned its place in this month's Spotlights.
 
@@ -221,7 +221,7 @@ Even if long notes aren't your thing, the lower difficulties share the same crea
 
 [Turrim](https://osu.ppy.sh/users/3846265), new mania mapper has made his appearance with his first ranked mapset, DJ Genki VS Camellia feat. moimoi - YELL!
 
-As he showed on many unranked maps, this map also has kind of unusual long note style. There is the well-layered structure, starting from vocal to heavy drum roll backs it up. He focused on the feeling when he faced the part, it makes him to put many long notes at the main melody. Sometimes he excluded the strength of drum for the sake of it, that aids in organization of pattern creativity in a good way. 
+As he showed on many unranked maps, this map also has kind of unusual long note style. There is the well-layered structure, starting from vocal to heavy drum roll backs it up. He focused on the feeling when he faced the part, it makes him to put many long notes at the main melody. Sometimes he excluded the strength of drum for the sake of it, that aids in organization of pattern creativity in a good way.
 
 The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping but he was able to overcome it!
 

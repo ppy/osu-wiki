@@ -253,15 +253,15 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 - NoMod
-  - [GRANRODEO - Can Do (Kise) \[Extra: Kise\]](/beatmaps/1053415) 
-  - [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) \[MASTER\]](/beatmaps/635679) 
+  - [GRANRODEO - Can Do (Kise) \[Extra: Kise\]](/beatmaps/1053415)
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) \[MASTER\]](/beatmaps/635679)
   - [Streetlight Manifesto - Punk Rock Girl (Milan-) \[Extra\]](/beatmaps/1274016)
   - [Hommarju - Rock it (09kami) \[09's Extra\]](/beatmaps/1548347)
 - Hidden
-  - [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) \[Kyouko-sama\]](/beatmaps/67824) 
+  - [MOSAIC.WAV - Chousai Kenbo Sengen (Mafiamaster) \[Kyouko-sama\]](/beatmaps/67824)
   - [Expander - Move That Body (Various Mappers) \[HantakufanzeR\]](/beatmaps/700679)
 - HardRock
-  - [MiddleIsland - Piano Concerto No.1 "Scream" (GoldenWolf) \[woof's Extra\]](/beatmaps/376703) 
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (GoldenWolf) \[woof's Extra\]](/beatmaps/376703)
   - [Akiyama Uni - Kokorokirou Hayashi(Short Version) (dream117er) \[117's Lunatic\]](/beatmaps/1059901)
 - DoubleTime
   - [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Kyshiro, Asphyxia) \[Kysphyxia's Insane\]](/beatmaps/539090)
@@ -277,15 +277,15 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 - NoMod
-  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](/beatmaps/796606) 
-  - [Toromaru - Enigma (toybot) \[toybot's Gravity\]](/beatmaps/1176958) 
+  - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](/beatmaps/796606)
+  - [Toromaru - Enigma (toybot) \[toybot's Gravity\]](/beatmaps/1176958)
   - [Nekomata Master - Nekozamurai no Gyakushu (kwk) \[kwk's Extra\]](/beatmaps/1434351)
   - [Eagle - Hypersonik (EvilElvis) \[NeilPerry\]](/beatmaps/1104818)
 - Hidden
-  - [ARForest - altros (Mir) \[Mir's Extra\]](/beatmaps/1323428) 
+  - [ARForest - altros (Mir) \[Mir's Extra\]](/beatmaps/1323428)
   - [sakuzyo - Imprinting (EvilElvis) \[Extreme\]](/beatmaps/812665)
 - HardRock
-  - [Nooki & Tatsh - Red Zone (HenkieBP) \[Extra\]](/beatmaps/28422) 
+  - [Nooki & Tatsh - Red Zone (HenkieBP) \[Extra\]](/beatmaps/28422)
   - [Qrispy Joybox feat.mao - umeyukiyo (LKs) \[Insane\]](/beatmaps/265643)
 - DoubleTime
   - [Feint - 161914 (fergas) \[fergas' Insane\]](/beatmaps/689420)
@@ -302,11 +302,11 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [Qrispy Joybox - licca (Frey) \[Special\]](/beatmaps/560453)
-  - [Yooh - snow storm -euphoria- (-Chata-) \[INFINITE\]](/beatmaps/574187) 
+  - [Yooh - snow storm -euphoria- (-Chata-) \[INFINITE\]](/beatmaps/574187)
   - [Shiena Nishizawa - The Asterisk War (Meg) \[Meg's Extra\]](/beatmaps/947556)
   - [Nekomata Master+ - Funny shuffle (fanzhen0019) \[RiP iidx\]](/beatmaps/573861)
 - Hidden
-  - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](/beatmaps/1382059) 
+  - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Another\]](/beatmaps/1382059)
   - [Culprate - Diablo (VIP) (Yoges) \[Expert\]](/beatmaps/1280280)
 - HardRock
   - [Rise Against - Bricks (pkhg) \[pkhg's Insane\]](/beatmaps/904914)
@@ -328,31 +328,31 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2018-04-15 |  |  |  |  | 
+| Sunday, 2018-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](/community/matches/41674456) |
 
 ### Finals
 
-| Saturday, 2018-03-31 |  |  |  |  | 
+| Saturday, 2018-03-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](/community/matches/41279760) |
 | **shen mapo** | **6** | 4 | Azer | [#1](/community/matches/41281118) |
 
-| Sunday, 2018-04-01 |  |  |  |  | 
+| Sunday, 2018-04-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](/community/matches/41302761) |
 | **Shigure Lovers** | **6** | 0 | GOMEN JEFFREY | [#1](/community/matches/41312707) |
 | **black dogleg** | **6** | 1 | shen mapo | [#1](/community/matches/41317121) |
 
-| Saturday, 2018-04-07 |  |  |  |  | 
+| Saturday, 2018-04-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **black dogleg** | **7** | 5 | Shigure Lovers | [#1](/community/matches/41475308) |
 | **Floating up** | **7** | 5 | black dogleg | [#1](/community/matches/41492413) |
 
 ### Semifinals
 
-| Saturday, 2018-03-24 |  |  |  |  | 
+| Saturday, 2018-03-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Gekidan PIKORI** | **6** | 3 | Sexy Snowmen | [#1](/community/matches/41082092) |
 | no gugu | 2 | **6** | **Sayuri best girl** | [#1](/community/matches/41085298) |
@@ -361,7 +361,7 @@ This competition has come to an end and resulted in the following podium:
 | **shen mapo** | **6** | 2 | Gekidan PIKORI | [#1](/community/matches/41087160) |
 | hotel for lolis | 2 | **6** | **Gucci Gang** | [#1](/community/matches/41102586), [#2](/community/matches/41103320) |
 
-| Sunday, 2018-03-25 |  |  |  |  | 
+| Sunday, 2018-03-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | black dogleg | 2 | **6** | **Floating up** | [#1](/community/matches/41108342) |
 | **Azer** | **6** | 0 | Sayuri best girl | [#1](/community/matches/41117934) |
@@ -372,7 +372,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-03-17 |  |  |  |  | 
+| Saturday, 2018-03-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **no gugu** | **6** | 0 | Yomi yori kikoyu | -win by default- |
 | **Shigure Lovers** | **6** | 3 | Azer | [#1](/community/matches/40908357) |
@@ -380,7 +380,7 @@ This competition has come to an end and resulted in the following podium:
 | lotus top 1 br | 1 | **6** | **Sexy Snowmen** | [#1](/community/matches/40914974) |
 | **LesProDeCoc** | **6** | 2 | BüroklammerCarry | [#1](/community/matches/40916651) |
 
-| Sunday, 2018-03-18 |  |  |  |  | 
+| Sunday, 2018-03-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Rubber Conquest** | **6** | 0 | shen mapo | [#1](/community/matches/40926538) |
 | ANGERY JEFFREY | 1 | **6** | **hotel for lolis** | [#1](/community/matches/40927694) |
@@ -392,7 +392,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2018-03-10 |  |  |  |  | 
+| Saturday, 2018-03-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Floating up** | **5** | 0 | lotus top 1 br | [#1](/community/matches/40718635) |
 | GOMEN JEFFREY | 4 | **5** | **shen mapo** | [#1](/community/matches/40718778) |
@@ -401,7 +401,7 @@ This competition has come to an end and resulted in the following podium:
 | cringepeek | 0 | **5** | **BüroklammerCarry** | [#1](/community/matches/40722568) |
 | Gekidan PIKORI | 3 | **5** | **Stoof & Friends** | [#1](/community/matches/40724876) |
 
-| Sunday, 2018-03-11 |  |  |  |  | 
+| Sunday, 2018-03-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Shigure Lovers** | **5** | 0 | nvnvnvnvn | [#1](/community/matches/40726425) |
 | **black dogleg** | **5** | 0 | Sayuri best girl | [#1](/community/matches/40732922) |
@@ -411,7 +411,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Saturday, 2018-03-03 |  |  |  |  | 
+| Saturday, 2018-03-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Shigure Lovers** | **5** | 0 | Yomi yori kikoyu | [#1](/community/matches/40532109) |
 | **Gekidan PIKORI** | **5** | 1 | cringepeek | [#1](/community/matches/40534186) |
@@ -420,7 +420,7 @@ This competition has come to an end and resulted in the following podium:
 | **Rubber Conquest** | **5** | 0 | b | [#1](/community/matches/40547380) |
 | **nvnvnvnvn** | **5** | 0 | i got nothing | [#1](/community/matches/40548278) |
 
-| Sunday, 2018-03-04 |  |  |  |  | 
+| Sunday, 2018-03-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **black dogleg** | **5** | 0 | hotel for lolis | [#1](/community/matches/40556183) |
 | hotel for dogs | 2 | **5** | **no gugu** | [#1](/community/matches/40557149) |
@@ -435,7 +435,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Saturday, 2018-02-17 |  |  |  |  | 
+| Saturday, 2018-02-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Doki-Doki Osu Club** | **4** | 0 | [#1](/community/matches/40145386) |
 | **azur lane** | **4** | 0 | dab on haters | -win by default- |
@@ -456,7 +456,7 @@ This competition has come to an end and resulted in the following podium:
 | **RemkyBestTrap** | **4** | 1 | my pp just grew | [#1](/community/matches/40163059) |
 | **Gucci Gang** | **4** | 1 | hotel for lolis | [#1](/community/matches/40164153) |
 
-| Sunday, 2018-02-18 |  |  |  |  | 
+| Sunday, 2018-02-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Cauldron Bois V2** | **4** | 1 | The Fine Ladies | [#1](/community/matches/40164247) |
 | **hotel for dogs** | **4** | 1 | Teamcito II | [#1](/community/matches/40166029) |
@@ -488,7 +488,7 @@ This competition has come to an end and resulted in the following podium:
 | **Anime Tiddles** | **4** | 0 | sample text | [#1](/community/matches/40196896) |
 | **:thowonking:** | **4** | 0 | 4head | -win by default- |
 
-| Saturday, 2018-02-24 |  |  |  |  | 
+| Saturday, 2018-02-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **ANGRY JEFFREY** | **4** | 0 | Prob a drug ring | [#1](/community/matches/40329694) |
 | **Gekidan PIKORI** | **4** | 0 | Accuracy^ | [#1](/community/matches/40336529) |
@@ -508,7 +508,7 @@ This competition has come to an end and resulted in the following podium:
 | **Cocalombia** | **4** | 0 | Accuracy^ | -win by default- |
 | **Rubber Conquest** | **4** | 0 | \[\[heck\]\] | [#1](/community/matches/40355130) |
 
-| Sunday, 2018-02-25 |  |  |  |  | 
+| Sunday, 2018-02-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Teamcito II** | **4** | 0 | Lolicops | [#1](/community/matches/40356045) |
 | **Sexy Snowmen** | **4** | 0 | The Leftovers | [#1](/community/matches/40357523) |
@@ -545,7 +545,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament Rules
 
-1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals. 
+1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals.
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format.
 3. Group stage will be round-robin, followed by a double elimination bracket.
 4. Maps will be no longer than 2 minutes drain time.
@@ -567,7 +567,7 @@ This competition has come to an end and resulted in the following podium:
 1. If a team member needs to be replaced after signing up, please contact a host **before** registration ends. No rosters can be modified after registration ends.
 2. Each member of a formed team needs to be in the Discord server to verify team's participation.
 3. If a player changes their name, they need to inform a tournament host or admin as soon as possible to avoid misunderstanding in a match.
-4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion. 
+4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion.
 
 ### Scheduling Instructions
 

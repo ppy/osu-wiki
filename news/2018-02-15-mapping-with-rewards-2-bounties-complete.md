@@ -8,7 +8,7 @@ Long overdue, but not forgotten. The second set of mapping bounties have finally
 
 ![](/wiki/shared/news/2018-02-15-mapping-with-rewards-2-bounties-complete/mwr-banner.jpg)
 
-Never thought you'd see this day, huh? Over two years ago, "Mapping With Rewards" was introduced to the public as a way to reward users who created maps for osu!'s officially licensed music -- namely tracks by [cYsmix](https://osu.ppy.sh/beatmaps/artists/2). 
+Never thought you'd see this day, huh? Over two years ago, "Mapping With Rewards" was introduced to the public as a way to reward users who created maps for osu!'s officially licensed music -- namely tracks by [cYsmix](https://osu.ppy.sh/beatmaps/artists/2).
 
 Two rounds of mapping bounties were held: one in [September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) and another in Halloween themed one in [October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015). The first of those concluded successfully with its mappers rewarded their bounties as promised. The second, however, hadn't received as much participation and was unfortunately abandoned.
 

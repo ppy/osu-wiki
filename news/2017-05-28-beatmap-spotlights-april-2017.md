@@ -50,7 +50,7 @@ A wonderful map that captures the beauty of the song. -kevincela- shows us how f
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/silver-wind.jpg)](http://osu.ppy.sh/s/551271)
 
-The winner of this month's spotlights, Charlotte's talent, experience and skill with mapping really shines through with this formidable set. The Inner Oni displays superb usage of pair patterns and maintains a good flow throughout the entire difficulty. The climax is represented clearly by long patterns and streams being both enjoyable to play and following the music perfectly. 
+The winner of this month's spotlights, Charlotte's talent, experience and skill with mapping really shines through with this formidable set. The Inner Oni displays superb usage of pair patterns and maintains a good flow throughout the entire difficulty. The climax is represented clearly by long patterns and streams being both enjoyable to play and following the music perfectly.
 
 The lower difficulties are also excellent, with the Muzukashii by qoot8123 being a prime example of how it should be done - with consistent use of monocolours triplets used as emphasizers on certain parts of the song. Accentuated by solid patterning choices and clever break placement, brought together most of all in the kiai time, the two lowest difficulties use  perfect rhythms and note timings to create a truly fun way to learn osu!taiko.
 
@@ -58,9 +58,9 @@ Go ahead and enjoy this exceptional mapset!
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/dawn-of-a-dark-day.jpg)](http://osu.ppy.sh/s/458597)
 
-What is this, rap in osu!taiko!? Seeing is believing! 
+What is this, rap in osu!taiko!? Seeing is believing!
 
-One of this month's osu!taiko maps in the spotlight, Zetera's Dawn of a Dark Day features not only the aforementioned rap sections mapped closely to both the vocals and the beat, but also a number of volume and slider velocity changes to reflect the intensity of the track. 
+One of this month's osu!taiko maps in the spotlight, Zetera's Dawn of a Dark Day features not only the aforementioned rap sections mapped closely to both the vocals and the beat, but also a number of volume and slider velocity changes to reflect the intensity of the track.
 
 From simple slider velocity slowdowns to difficult 1/4-snapped slider velocity increases in the kiai sections, Zetera did an excellent job in capturing the cadence of the track with his work, creating something truly special.
 
@@ -68,15 +68,15 @@ From simple slider velocity slowdowns to difficult 1/4-snapped slider velocity i
 
 Guest difficulties to Strategas' osu! set, Arrival's Muzukashii and Oni adds some additional variety to this highly technical drum 'n' bass mix. Starting off with an uncommon 1/3rd snapping, both difficulties convey a clear rhythmic intention, and the maps are made all the more enjoyable as the meter shifts to 1/4th towards the latter half of the song.
 
-In his flagship Oni difficulty, Arrival demonstrates a flair born of expertise by emphasizing intense sections of the song through the use of smooth SV changes, as well as employing fitting 1/6th bursts and doublets throughout. 
+In his flagship Oni difficulty, Arrival demonstrates a flair born of expertise by emphasizing intense sections of the song through the use of smooth SV changes, as well as employing fitting 1/6th bursts and doublets throughout.
 
 Overall, the maps were constructed very well, and I would not be surprised to see this map being used as a common pick in future tournaments to come
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/united.jpg)](http://osu.ppy.sh/s/556731)
 
-We make the choices, and united we decided that Unmei Muma's United deserves a spot in this month's spotlight! 
+We make the choices, and united we decided that Unmei Muma's United deserves a spot in this month's spotlight!
 
-Wait, this sounds familiar. With more difficult, longer patterns and more drastic slider velocity changes than last month's United map, we have another approach at mapping this song. 
+Wait, this sounds familiar. With more difficult, longer patterns and more drastic slider velocity changes than last month's United map, we have another approach at mapping this song.
 
 The huge variety of patterns in this map will surely keep you on your toes, and it's just getting harder towards the end! Hopefully you'll enjoy this map as much as we did.
 
@@ -94,7 +94,7 @@ For their first ranked map, this is of impressive quality in terms of flow and s
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/squartatrice.jpg)](https://osu.ppy.sh/s/540175)
 
-Cool songs always produce a cool chart. Here comes an extreme 7-Key mapset by Garalulu, with guest appearances from Wonki. 
+Cool songs always produce a cool chart. Here comes an extreme 7-Key mapset by Garalulu, with guest appearances from Wonki.
 
 Charted in a way that draws out the harmony between the music and the patterns themselves, this map truly is something special. An excellent example of well-designed difficulty spread, this set's pattern density slowly grows greater as you progress, starting out straightforward early on and moving up with the heavier chords and long notes at later difficulty levels to truly test your skill.
 

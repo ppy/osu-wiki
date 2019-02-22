@@ -277,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 | Friday, 2013-03-08 |  |  |  |
-| --: | :-: | :-: | :-- | 
+| --: | :-: | :-: | :-- |
 | Chile A ![][flag_CL] | **6** | 2 | ![][flag_TW] Taiwan A |
 
 | Saturday, 2013-03-09 |  |  |  |
@@ -342,7 +342,7 @@ This competition has come to an end and resulted in the following podium:
 5. If a player gets disconnected, it is considered that player left the match on his own
    - A re-play can be played if both teams agree on this.
    - If the server is too unstable, the match will be postponed.
-6. If less than 2 players show up, match is postponed for 20 to 30 minutes 
+6. If less than 2 players show up, match is postponed for 20 to 30 minutes
    - After the time the match will continue on or be postponed of opponent team agrees.
    - You may find a replacement player for that match. (Refer to rule 7).
 7. You may find a temporary replacement for a match
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
    - Preferably the captain should know a good amount of English to communicate.
 3. Each team represents a nation, meaning you make teams with players of the same country.
 4. You can make multiple teams from the same nation. One will be benoted as "A" then "B" and so on.
-5. Binational teams are allowed in this tournament if two country lacks CTB players. 
+5. Binational teams are allowed in this tournament if two country lacks CTB players.
    - Binational teams include a combination of players from **different nearing countries**.
    - Binational teams are restricted. Meaning they can only be formed if two countries lack active players AND are in close proximity of the country (near each other).
    - Binational teams are only exceptional and shall not be commonly used. A tournament manager's approval is required to form a binational team.
@@ -411,7 +411,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappools
 
-- At the beginning of each week, look here for the map pool for the specific round. Matches will be played on Fridays, Saturdays, and Sundays so map pools will be released on either Monday or Tuesday. This year we will include the additions of mods!! Yaaaaaay! Just like the owc! there will be set maps for certain mods for each map pool. 
+- At the beginning of each week, look here for the map pool for the specific round. Matches will be played on Fridays, Saturdays, and Sundays so map pools will be released on either Monday or Tuesday. This year we will include the additions of mods!! Yaaaaaay! Just like the owc! there will be set maps for certain mods for each map pool.
 
 1. Each team can only pick 1 mod specific map from each mod pool per match.
 2. Picking from the non-mod pool is unlimited.

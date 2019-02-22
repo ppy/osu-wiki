@@ -131,10 +131,10 @@ Penilaian
 
 ### Akurasi
 
-[`Akurasi`](ID:Accuracy "wikilink")` = HitValue / (PerfectHitValue)`
+[`Akurasi`](ID:Accuracy "wikilink")` = HitValue / (PerfectHitValue)`
 
-`HitValue = (Jumlah `*`miss`*` * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)`
-`PerfectHitValue = (Jumlah `*`miss`*` + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4`
+`HitValue = (Jumlah `*`miss`*` * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)`
+`PerfectHitValue = (Jumlah `*`miss`*` + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4`
 
 Dengan kata lain, setiap *miss* akan dihitung 0%, setiap 50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
 
@@ -142,11 +142,11 @@ Dengan kata lain, setiap *miss* akan dihitung 0%, setiap 50 akan dihitung 25%, s
 
 Skor yang diberikan dari setiap *hit circle* dan ujung *slider* dihitung dengan rumus sebagai berikut:
 
-`Skor= Nilai Hit + Nilai Hit * (Pengali kombo * Pengali tetap) / 25`
+`Skor= Nilai Hit + Nilai Hit * (Pengali kombo * Pengali tetap) / 25`
 
-`Nilai Hit = Nilai yang diberikan dari objek (50, 100 atau 300).`
-`Pengali kombo = (Kombo sebelum hit ini - 1) atau 0.`
-`Pengali tetap = Pengali yang membuat skor menjadi tetap, yaitu 600.000`
+`Nilai Hit = Nilai yang diberikan dari objek (50, 100 atau 300).`
+`Pengali kombo = (Kombo sebelum hit ini - 1) atau 0.`
+`Pengali tetap = Pengali yang membuat skor menjadi tetap, yaitu 600.000`
 
 Sebagai tambahan, tiap awal slider, akhir slider, dan repeat tick diberi nilai 30 poin dan tiap putaran dari spinner diberi nilai 100 poin. Kamu juga akan diberi 10 poin tambahan tergantung kecepatan putaran spinner ketika spinner meter sudah penuh.
 

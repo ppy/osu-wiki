@@ -28,7 +28,7 @@ Congratulations to the winners of the September 2017 Spotlights. They will recei
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/lilieze-to-enryuu-laevateinn.jpg)](http://osu.ppy.sh/s/326608)
 
-You don't usually see rhythm game songs mapped in this fashion, but it's exactly why [Nyquill](https://osu.ppy.sh/u/682935)'s rendition of Lilieze to Enryuu Laevateinn is so interesting. 
+You don't usually see rhythm game songs mapped in this fashion, but it's exactly why [Nyquill](https://osu.ppy.sh/u/682935)'s rendition of Lilieze to Enryuu Laevateinn is so interesting.
 
 A style reminiscent of the old 2014 days, it still manages to hold up to this day. Despite not conforming to modern visual standards, the movements and feelings evoked from the map are still refined for the player, giving it a natural and smooth experience. Similarly, [Giralda](https://osu.ppy.sh/u/1823446)'s and [captin1](https://osu.ppy.sh/u/689997)'s guest difficulties are a fantastic complement to the set, with their styles being similar to one another. All in all, a deserving candidate for this month's Spotlights.
 
@@ -38,7 +38,7 @@ A style reminiscent of the old 2014 days, it still manages to hold up to this da
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/punk-rock-girl.jpg)](https://osu.ppy.sh/s/577394)
 
-[Milan](https://osu.ppy.sh/u/1152994)'s latest mapset of Punk Rock Girl brings us an exhilarating experience suitable for all ranks! You won't be seeing any jumps here, but rather a constant barrage of sliders and circles all mapped in an orthodox alternating fashion, all intended to keep you on your toes in this short song. 
+[Milan](https://osu.ppy.sh/u/1152994)'s latest mapset of Punk Rock Girl brings us an exhilarating experience suitable for all ranks! You won't be seeing any jumps here, but rather a constant barrage of sliders and circles all mapped in an orthodox alternating fashion, all intended to keep you on your toes in this short song.
 
 Guest Difficulties from both [Pho](https://osu.ppy.sh/u/3624692) and Streetlight Manifesto enthusiast [pishifat](https://osu.ppy.sh/u/3178418) bring extra zest into the set, with interesting rhythms and patterns not usually seen in their respective difficulties.
 
@@ -68,13 +68,13 @@ Clocking in at just under 6 minutes, this marathon leaves surprisingly little to
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/on-the-fm.jpg)](https://osu.ppy.sh/s/609679)
 
-Thanks to [Ascendance](https://osu.ppy.sh/u/2931883), together with [ZiRoX](https://osu.ppy.sh/u/200768), [Spectator](https://osu.ppy.sh/u/702598), [Hareimu](https://osu.ppy.sh/u/4138746), [Sorcerer](https://osu.ppy.sh/u/1913190), and [Emiru](https://osu.ppy.sh/u/3306180), we can get shaking somehow with On the FM this month. 
+Thanks to [Ascendance](https://osu.ppy.sh/u/2931883), together with [ZiRoX](https://osu.ppy.sh/u/200768), [Spectator](https://osu.ppy.sh/u/702598), [Hareimu](https://osu.ppy.sh/u/4138746), [Sorcerer](https://osu.ppy.sh/u/1913190), and [Emiru](https://osu.ppy.sh/u/3306180), we can get shaking somehow with On the FM this month.
 
 Covering a full spread, this mapset successfully gives out colorful presentation of "shaking" for every level. Repetitive zig-zag walks, connected shaking sliders, consecutive 1/8 doubles, or even constant crazy 1/4 Hyperdashes, all these wonderful patterns help us step into a different world of catching fruits. I can promise that from newbie players to top players, everyone can enjoy this mapset with "shaking".
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/despacito.jpg)](https://osu.ppy.sh/s/665562)
 
-Love it or hate it, however you might feel about this song, it cannot be denied that [Ascendance](https://osu.ppy.sh/u/2931883) and [Spectator](https://osu.ppy.sh/u/702598) have created a fantastic pair of osu!catch difficulties. Weaving between the strong drums and energetic vocals, both difficulties capture the song's essence wonderfully. 
+Love it or hate it, however you might feel about this song, it cannot be denied that [Ascendance](https://osu.ppy.sh/u/2931883) and [Spectator](https://osu.ppy.sh/u/702598) have created a fantastic pair of osu!catch difficulties. Weaving between the strong drums and energetic vocals, both difficulties capture the song's essence wonderfully.
 
 Ascendance's Rain makes great use of big hyperdashes whilst Spectator's Overdose turns things up a notch with quicker snaps for faster hyperdashes and more direction changes to deliver all the challenge this song has to offer. So even if you've heard this song a thousand times already, try giving it just a couple more for these great difficulties.
 
@@ -88,13 +88,13 @@ The spread of this mapset is pretty balanced, and you can enjoy some interesting
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/impulsive-state.jpg)](https://osu.ppy.sh/s/643857)
 
-Topping this month's mania spotlights is none other than [Parachor](https://osu.ppy.sh/u/5241655) with his newest addition to the ranked section, The Impulsive State. Staying true to his signature unconventional style, the chart sports an impressive variety of slider velocity changes ranging from stutters and reverse bumps to fast jams and waves. 
+Topping this month's mania spotlights is none other than [Parachor](https://osu.ppy.sh/u/5241655) with his newest addition to the ranked section, The Impulsive State. Staying true to his signature unconventional style, the chart sports an impressive variety of slider velocity changes ranging from stutters and reverse bumps to fast jams and waves.
 
 With a high HP of 8.8, coupled with some very tight long note releases and overlapped timings, passing is no easy feat despite its low Star Rating and is a refreshing challenge for players of many levels.
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/first.jpg)](https://osu.ppy.sh/s/512408)
 
-Here comes [juankristal](https://osu.ppy.sh/u/443656) bringing us fresh noodles, with a guest appearance from [Jinjin](https://osu.ppy.sh/u/3360737)! This map is notable for its use of long notes, which can get very complex and heavy at times, but its usage provides a good variety of patterns that are rarely seen in the ranked section. 
+Here comes [juankristal](https://osu.ppy.sh/u/443656) bringing us fresh noodles, with a guest appearance from [Jinjin](https://osu.ppy.sh/u/3360737)! This map is notable for its use of long notes, which can get very complex and heavy at times, but its usage provides a good variety of patterns that are rarely seen in the ranked section.
 
 Most notably, the MX difficulty has sections where the player has to hold all the available keys and try to hold their combo as more long notes come after the long note releases, thus putting their skill and knowledge of long notes to the test.
 

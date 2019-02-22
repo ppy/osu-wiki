@@ -104,7 +104,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
-| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2018-02-17 | 2018-04-15 | - | - | - |
+| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 2019-02-23 | 2019-04-13 | - | - | - |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Technical Championship
 
@@ -127,6 +127,14 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
+
+### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
+
+| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
+| --- | --- | --- | --- | --- | --- |
+| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](/users/8868144) | ![][flag_FR] [Loazo](/users/3925586) | ![][flag_FR] [-raizen-](/users/3872987) |
+| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](/users/1545031) | ![][flag_FR] [-raizen-](/users/3872987) | ![][flag_FR] [Musty](/users/251683) |
+| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
@@ -231,7 +239,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](/users/3036686)(osu!mania 7K) |
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](/users/4581715)(osu!), ![][flag_PH] [Roido](/users/6829103)(osu!catch), ![][flag_PH] [joseee-](/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](/users/2199427)(osu!), ![][flag_PH] [-Nicotine](/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](/users/1192936)(osu!mania 7K) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) DeltaMax's Tournaments
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
@@ -256,12 +264,6 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
-
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
-
-| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
-| --- | --- | --- | --- | --- | --- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
 
 Zobacz także
 ---------------

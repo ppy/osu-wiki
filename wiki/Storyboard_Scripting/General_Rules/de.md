@@ -102,6 +102,6 @@ Kommentare
 
 You can do single-line C-style comments, but be advised they may be removed if you save in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
 
-`// Dies hier ist ein Kommentar.`
+`// Dies hier ist ein Kommentar.`
 
 Nicht so wie in C/C++/C#/Java, kannst du keine Kommentare in einer Zeile platzieren, in der schon ein gültiger Code vorhanden ist.

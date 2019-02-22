@@ -237,7 +237,7 @@ It feels refreshing everytime you play it, and dispite of how harsh the map look
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/flower-spring.jpg)](https://osu.ppy.sh/s/300685)
 
-[Kawawa](https://osu.ppy.sh/u/4647754) is back again to bless the ranked section of osu!mania with another 7-key marathon length map, this time with a wide variety of patterns and techniques. 
+[Kawawa](https://osu.ppy.sh/u/4647754) is back again to bless the ranked section of osu!mania with another 7-key marathon length map, this time with a wide variety of patterns and techniques.
 
 Beginning with a rigid stack based structure, Kawawa deceives the player's eyes with an equal mix of both subtle and aggressive slider velocity changes, eventually adding basic long notes and dense chord streams to the mix.
 

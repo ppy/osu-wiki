@@ -21,7 +21,7 @@ Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disp
 
 ### Lo Básico del Juego
 
-`Tutorial: `[`Tutorial` `Origina` `(Incluido` `en` `la` `versión` `de` `osu!` `para` `PC)`](http://osu.ppy.sh/s/3756)`, `[`Version` `Rankeada` `del` `beatmap`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`Tutorial` `Origina` `(Incluido` `en` `la` `versión` `de` `osu!` `para` `PC)`](http://osu.ppy.sh/s/3756)`, `[`Version` `Rankeada` `del` `beatmap`](http://osu.ppy.sh/s/19928)
 
 El juego pone énfasis en:
 
@@ -136,9 +136,9 @@ Como en osu! standard, existen tres elementos en el juego.
 
 Los controles por defecto del modo Taiko son:
 
-`Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.`
-`Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.`
-`El lugar del cursor de osu! no importa cuando juegas.`
+`Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.`
+`Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.`
+`El lugar del cursor de osu! no importa cuando juegas.`
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.
 
@@ -285,7 +285,7 @@ Notas
 -   Las notas que obtienes se establecen en tu página de perfil bajo General-&gt;Ranks siempre y cuando estés "online" cuando recibas la nota.
     -   **Jugar Offline** incluso si tu cuenta está "loggeada" **no cuenta**.
 
-`NOTA : Mientras estes jugando de manera "Offline" tus puntuaciones no podrán ser guardadas. `
+`NOTA : Mientras estes jugando de manera "Offline" tus puntuaciones no podrán ser guardadas. `
 
 -   **Las notas dadas a tu perfil dependen de la dificultad, no del betmap en conjunto.**
     -   Por ejemplo, si el beatmap tiene 3 dificultades, y tienes SS en las tres, recibirás 3 SS y no solo una SS en tu perfil.

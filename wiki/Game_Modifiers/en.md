@@ -210,7 +210,7 @@ As this mod increases difficulty in a huge way compared to the other two modes, 
 
 ---
 
-In [osu!mania][osu!mania wikilink] mode, only the judgement difficulty (OD) and the [approach rate][AR wikilink] (AR) values are increased. 
+In [osu!mania][osu!mania wikilink] mode, only the judgement difficulty (OD) and the [approach rate][AR wikilink] (AR) values are increased.
 
 Hard Rock mod will not affect the note placement. For mod that will change the note placement, see [Random](#random) mod under Special.
 

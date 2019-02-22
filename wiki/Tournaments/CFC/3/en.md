@@ -237,7 +237,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
 
 - NoMod
-  - [Mili - world.execute(me); (Spectator) \[love\]](/beatmapsets/683528/#fruits/1445720) 
+  - [Mili - world.execute(me); (Spectator) \[love\]](/beatmapsets/683528/#fruits/1445720)
   - [M2U - Stellar (Spectator) \[Rain\]](/beatmapsets/699509/#fruits/1482810)
   - [Jean-Jacques Goldman - Il changeait la vie (Zonthem) \[Insane\]](/beatmapsets/654563/#fruits/1387453)
   - [AU - Infinite of Nuclear Fusion (Saten) \[Lunatic\]](/beatmapsets/35211/#fruits/291284)
@@ -259,13 +259,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2018-10-20 |  |  |  |  | 
+| Saturday, 2018-10-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](/community/matches/46842396) |
 
 ### Finals
 
-| Saturday, 2018-10-13 |  |  |  |  | 
+| Saturday, 2018-10-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](/community/matches/46670175) |
 | **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](/community/matches/46673460) |
@@ -273,28 +273,28 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-| Saturday, 2018-10-06 |  |  |  |  | 
+| Saturday, 2018-10-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/46497617) |
 | floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | -win by default- |
 | **-Ken** ![][flag_TN] | **6** | 0 | ![][flag_FR] Electr0o | [#1](/community/matches/46508723) |
 | **Boros** ![][flag_FR] | **6** | 3 | ![][flag_FR] Holloh | [#1](/community/matches/46510801) |
 
-| Sunday, 2018-10-07 |  |  |  |  | 
+| Sunday, 2018-10-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](/community/matches/46530564) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](/community/matches/46536947) |
 
 ### Quarterfinals
 
-| Saturday, 2018-09-29 |  |  |  |  | 
+| Saturday, 2018-09-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] Julo | [#1](/community/matches/46322875) |
 | **Electr0o** ![][flag_FR] | **5** | 1 | ![][flag_FR] Astreachan | [#1](/community/matches/46323746) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **5** | 3 | ![][flag_FR] Holloh | [#1](/community/matches/46330937) |
 | Boros ![][flag_FR] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/46339295) |
 
-| Sunday, 2018-09-30 |  |  |  |  | 
+| Sunday, 2018-09-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Boros** ![][flag_FR] | **5** | 1 | ![][flag_FR] Orazeit | [#1](/community/matches/46357124) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] dracoV | [#1](/community/matches/46358676) |
@@ -303,7 +303,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2018-09-22 |  |  |  |  | 
+| Saturday, 2018-09-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **-Ken** ![][flag_TN] | **4** | 0 | ![][flag_FR] 07th Loli | [#1](/community/matches/46150000) |
 | **Boros** ![][flag_FR] | **4** | 2 | ![][flag_FR] Sounny | [#1](/community/matches/46150122) |
@@ -314,19 +314,19 @@ This competition has come to an end and resulted in the following podium:
 | floflim ![][flag_FR] | 0 | **4** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](/community/matches/46156600) |
 | Sinaeb ![][flag_CA] | 1 | **4** | ![][flag_FR] **Holloh** | [#1](/community/matches/46159045) |
 
-| Sunday, 2018-09-23 |  |  |  |  | 
+| Sunday, 2018-09-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | 07th Loli ![][flag_FR] | 0 | **4** | ![][flag_FR] **Orazeit** | [#1](/community/matches/46184845) |
 | **floflim** ![][flag_FR] | **4** | 1 | ![][flag_CA] Sinaeb | [#1](/community/matches/46187781) |
 | **Sounny** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | -win by default- |
 
-| Tuesday, 2018-09-25 |  |  |  |  | 
+| Tuesday, 2018-09-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | -win by default- |
 
 ### Group Stage
 
-| Group | Saturday, 2018-09-08 |  |  |  |  | 
+| Group | Saturday, 2018-09-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | A | SkaylleexSamaFR ![][flag_FR] | 0 | **3** | ![][flag_FR] **floflim** | -win by default- |
 | B | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **07th Loli** | -win by default- |
@@ -348,7 +348,7 @@ This competition has come to an end and resulted in the following podium:
 | H | **Noulayfe** ![][flag_FR] | **3** | 0 | ![][flag_FR] Mnemosyne | [#1](/community/matches/45802376)
 | E | **Electr0o** ![][flag_FR] | **3** | 0 | ![][flag_FR] CaptainAlexis | [#1](/community/matches/45808697) |
 
-| Group | Sunday, 2018-09-09 |  |  |  |  | 
+| Group | Sunday, 2018-09-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | D | **Julo** ![][flag_FR] | **3** | 1 | ![][flag_FR] \[Haku\] | [#1](/community/matches/45829507) |
 | D | **Holloh** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](/community/matches/45830577) |
@@ -360,17 +360,17 @@ This competition has come to an end and resulted in the following podium:
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Noulayfe** | [#1](/community/matches/45835295) |
 | E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | -win by default- |
 
-| Group | Monday, 2018-09-10 |  |  |  |  | 
+| Group | Monday, 2018-09-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Fanther** | [#1](/community/matches/45863085) |
 | E | CaptainAlexis ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](/community/matches/45864499) |
 
-| Group | Wednesday, 2018-09-12 |  |  |  |  | 
+| Group | Wednesday, 2018-09-12 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | F | dracoV ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](/community/matches/45903381) |
 | A | **floflim** ![][flag_FR] | **3** | 0 | ![][flag_FR] Chernobog | [#1](/community/matches/45905966) |
 
-| Group | Saturday, 2018-09-15 |  |  |  |  | 
+| Group | Saturday, 2018-09-15 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | A | Chernobog ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](/community/matches/45973053) |
 | F | tutiflo ![][flag_FR] | 0 | **3** | ![][flag_FR] **dracoV** | -win by default- |
@@ -386,7 +386,7 @@ This competition has come to an end and resulted in the following podium:
 | G | **-\[Smoked\]-** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | -win by default- |
 | G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] **Libegon** | -win by default- |
 
-| Group | Sunday, 2018-09-16 |  |  |  |  | 
+| Group | Sunday, 2018-09-16 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | -win by default- |
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](/community/matches/46011327) |
@@ -402,7 +402,7 @@ This competition has come to an end and resulted in the following podium:
 2. The tournament will be held over 7 weekends. The matches will be played under **Score V2** and **Head to Head** settings.
 3. A referee will be present in every match.
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
-5. First and second weekend matches will be best-of-5, third weekend matches best-of-7, forth weekend matches are best-of-9, fifth weekend matches are best-of-11, and finally sixth and seventh weekend matches will be best-of-13. 
+5. First and second weekend matches will be best-of-5, third weekend matches best-of-7, forth weekend matches are best-of-9, fifth weekend matches are best-of-11, and finally sixth and seventh weekend matches will be best-of-13.
 
 ### Match Instructions
 

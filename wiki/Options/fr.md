@@ -15,7 +15,7 @@ Vous pouvez entrer ici l'option de votre choix dans la barre de recherche si vou
 Options
 =======
 
-`Redémarrez osu! si quelque chose ne marche pas comme prévu.`
+`Redémarrez osu! si quelque chose ne marche pas comme prévu.`
 
 Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéder aux options:
 

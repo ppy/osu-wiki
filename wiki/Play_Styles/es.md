@@ -65,7 +65,7 @@ Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado p
 
 Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 
-Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor. 
+Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor.
 Este estilo de juego puede parecerse a jugar a [osu!stream](/wiki/Game_Modes/External_Ports/osu!stream).
 
 Todas las pulsaciones sobre la pantalla se muestran como `M1`.
@@ -87,7 +87,7 @@ A no ser que el jugador ya domine de antemano el uso del Joystick, mover el curs
 
 ### Teclado
 
-Antaño, solo se podía jugar a osu!taiko con teclado, pero ahora hay varias opciones. 
+Antaño, solo se podía jugar a osu!taiko con teclado, pero ahora hay varias opciones.
 
 El jugador utiliza las teclas asignadas para tocar sobre el tambor, por defecto: `X` y `C` para tocar las notas rojas del centro del tambor, también conocidas como "Don"; y `Z` y `V` para tocar las notas azules del borde del tambor, también conocidas como "Katsu" o "Kat".
 
@@ -97,13 +97,13 @@ Hay otras combinaciones, pero estas dos son las principales y cada una tiene sus
 ### Tambor de Taiko
 
 El tambor de la saga de juegos [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin).
-Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano. 
+Los jugadores utilizan unas "baquetas" para golpear la superficie de un tambor, que puede ser comprado o construido a mano.
 Se golpea el aro del tambor para las notas azules (Katsu o Kat) y el interior del tambor para las notas rojas (Don).
 La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad de un cable USB.
 
 ### Otros estilos
 
-- **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin. 
+- **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin.
 
 ## ![osu!catch][osu!catch icon link] osu!catch
 
@@ -140,7 +140,7 @@ El teclado fue una vez la única manera de jugar a osu!mania hasta que otros mé
 
 Los jugadores asignan las teclas que prefieran en el menú de opciones, que varían en función del número de teclas.
 
-Puede ser utilizado para cualquier número de teclas, así que puede resultar muy cómodo usar un teclado, aunque tiene sus desventajas. 
+Puede ser utilizado para cualquier número de teclas, así que puede resultar muy cómodo usar un teclado, aunque tiene sus desventajas.
 
 ### Controlador de DJMAX/O2Jam/Beatmania IIDX/etc.
 
@@ -150,4 +150,4 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 
 - **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
 - **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
-- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad. 
+- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.

@@ -6,7 +6,7 @@ It is an exclusive tournament where only players who reached semi-finals in one 
 The tournament brackets can be found [on Challonge.](https://challonge.com/rmotinvitational2) Most of the information here complies with the [forum post](https://osu.ppy.sh/forum/t/589111).
 
 
-![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) won the second Invitational, beating ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) in the finals. 
+![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) won the second Invitational, beating ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) in the finals.
 
 ## Schedule
 
@@ -79,7 +79,7 @@ The filler players are chosen according to a few criteria in the following prior
 * The matches will be played using Score V2 and TeamVS settings.
 * A referee will be present in every match and every match will be streamed, with additional commentators when possible.
 * The tournament will be held over 2 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
-* First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11. 
+* First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11.
 
 ### Match Rules
 

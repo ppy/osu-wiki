@@ -22,7 +22,7 @@ Could [Wilchq](https://osu.ppy.sh/u/2021758) be the next person to HDHR FC [Team
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7IG-OxY-2uU" frameborder="0" allowfullscreen></iframe></center>
 
-[Dusk](https://osu.ppy.sh/u/533210) took his time, but he finally sniped [[224]Hyperw7](https://osu.ppy.sh/u/4158549) with an insane 2x miss 99.21% NC play on [wa. vs celas - Vajuranda](https://osu.ppy.sh/b/942057?m=2) to earn himself 847pp. This is some next level catching of fruits. Circles, I mean. 
+[Dusk](https://osu.ppy.sh/u/533210) took his time, but he finally sniped [[224]Hyperw7](https://osu.ppy.sh/u/4158549) with an insane 2x miss 99.21% NC play on [wa. vs celas - Vajuranda](https://osu.ppy.sh/b/942057?m=2) to earn himself 847pp. This is some next level catching of fruits. Circles, I mean.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/lcIsfe38y0c" frameborder="0" allowfullscreen></iframe></center>
 
@@ -42,7 +42,7 @@ NOTABLE MENTIONS
 SCOREWATCH SCORE SHOW
 ------
 
-The Top 2 Koreans of the osu! scene, [Cookiezi](https://osu.ppy.sh/u/124493) and [Angelsim](https://osu.ppy.sh/u/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/s/479811). 
+The Top 2 Koreans of the osu! scene, [Cookiezi](https://osu.ppy.sh/u/124493) and [Angelsim](https://osu.ppy.sh/u/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/s/479811).
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sKmi6j0A_FA" frameborder="0" allowfullscreen></iframe></center>
 

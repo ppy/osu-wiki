@@ -31,9 +31,9 @@ When you have played a map for about 750 times, it should be expected that you g
 BLAST FROM THE PAST
 -----
 
-[rrtyui](https://osu.ppy.sh/u/352328) finally shows up on osu!archive, setting a crazy 97.35% DT 2069x 1 miss play on [Jeff Williams - I Burn (Extended Remix feat. Casey Lee Williams)](https://osu.ppy.sh/s/137196) around 3 years ago, gaining 422pp. His number one score on this map has been dethroned, but this score still remains as one of the best ones we will see by rrtyui. 
+[rrtyui](https://osu.ppy.sh/u/352328) finally shows up on osu!archive, setting a crazy 97.35% DT 2069x 1 miss play on [Jeff Williams - I Burn (Extended Remix feat. Casey Lee Williams)](https://osu.ppy.sh/s/137196) around 3 years ago, gaining 422pp. His number one score on this map has been dethroned, but this score still remains as one of the best ones we will see by rrtyui.
 
-Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6wwy7t/osuarchive_14_rrtyui_jeff_williams_i_burn_remix/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published! 
+Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6wwy7t/osuarchive_14_rrtyui_jeff_williams_i_burn_remix/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published!
 
 NOTABLE MENTIONS
 -----

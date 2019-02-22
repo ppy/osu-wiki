@@ -56,7 +56,7 @@ by Pokie
 
 **Runner-up (No Particular Order):**  
 ![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-79.jpg)  
-Full: [Download Here](https://s.ppy.sh/images/storeart3/full-79.jpg) 
+Full: [Download Here](https://s.ppy.sh/images/storeart3/full-79.jpg)
 by Mocochia
 
 **Runner-up (No Particular Order):**  

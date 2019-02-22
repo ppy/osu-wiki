@@ -213,17 +213,17 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
 
 - NoMod
-  - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Oni\]](/beatmapsets/684455#taiko/1448552) 
-  - [Caravan Palace - Rock It For Me (Raphalge) \[???\]](/beatmapsets/677269#taiko/1432430) 
+  - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Oni\]](/beatmapsets/684455#taiko/1448552)
+  - [Caravan Palace - Rock It For Me (Raphalge) \[???\]](/beatmapsets/677269#taiko/1432430)
   - [Zekk - Sugary Daydream (\[\_Chichinya\_\]) \[Chi's Oni\]](/beatmapsets/578489#taiko/1274016)
   - [Morimori Atsushi - PUPA (Sayaka-) \[Ex's Taiko Oni\]](/beatmapsets/224164#taiko/524408)
   - [Hiyano Aya, Katou Emiri, Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (D-D-Duke) \[Duke's Oni\]](/beatmapsets/739573#taiko/1560464)
 - Hidden
-  - [BlackY - AlphaOmega (L y s) \[Oni\]](/beatmapsets/354237#taiko/781043) 
+  - [BlackY - AlphaOmega (L y s) \[Oni\]](/beatmapsets/354237#taiko/781043)
   - [MAK & SAK feat. XANA - Indecent (Nightcore Mix) (Gero) \[Gero's Inner Oni\]](/beatmapsets/620305#taiko/1310411)
   - [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](/beatmapsets/357767#taiko/786903)
 - HardRock
-  - [yak\_won - Sewing Machine (Chromoxx) \[Chromoxx' Inner Oni\]](/beatmapsets/489381#taiko/1043084) 
+  - [yak\_won - Sewing Machine (Chromoxx) \[Chromoxx' Inner Oni\]](/beatmapsets/489381#taiko/1043084)
   - [Zekk - Fluctuation (kon tja) \[Oni\]](/beatmapsets/705801#taiko/1492769)
   - [sampling masters MEGA - Bamboo on Bamboo (Cyclohexane) \[TK\]](/beatmapsets/43644#taiko/138927)
 - DoubleTime
@@ -242,17 +242,17 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
 
 - NoMod
-  - [Himeringo - Idola no Circus (hikikochan-) \[Dance\]](/beatmapsets/728008/#taiko/1537074) 
-  - [sasakure.UK - Epitorica no Matsuri (yassu-) \[yassu-'s Oni\]](/beatmapsets/511420/#taiko/1110609) 
+  - [Himeringo - Idola no Circus (hikikochan-) \[Dance\]](/beatmapsets/728008/#taiko/1537074)
+  - [sasakure.UK - Epitorica no Matsuri (yassu-) \[yassu-'s Oni\]](/beatmapsets/511420/#taiko/1110609)
   - [Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too Much! (Nishizumi) \[Nishizumi's Oni\]](/beatmapsets/554873/#taiko/1179365)
   - [Nyanners - Gucci Gang (Nifty) \[Ugucchi Gang\]](/beatmapsets/710007/#taiko/1500870)
   - [Suzuki Konomi n' Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui (Ayyri) \[Ayyri's Oni\]](/beatmapsets/695733/#taiko/1486700)
 - Hidden
-  - [MELL - Red Fraction (JUDYDANNY) \[Feeling Oni (2013)\]](/beatmapsets/536550/#taiko/1137021) 
+  - [MELL - Red Fraction (JUDYDANNY) \[Feeling Oni (2013)\]](/beatmapsets/536550/#taiko/1137021)
   - [uno feat.Chiyoko(IOSYS) - Twin Rocket (Feerum) \[Oni\]](/beatmapsets/401961/#taiko/874272)
   - [M2U & NICODE feat. Guriri & Lucy - Myosotis (Midnaait) \[Oni\]](/beatmapsets/322404/#taiko/716826)
 - HardRock
-  - [Vau Boy - Video Game Girl (ft. viewtifulday) (Gero) \[Oni\]](/beatmapsets/331778/#taiko/734845) 
+  - [Vau Boy - Video Game Girl (ft. viewtifulday) (Gero) \[Oni\]](/beatmapsets/331778/#taiko/734845)
   - [Yuuzuki Tsubaki - midnight cookie (tasuke912) \[tasuke's Oni\]](/beatmapsets/326177/#taiko/751211)
   - [Juice WRLD - Paranoid (Backfire) \[Oni\]](/beatmapsets/786057/#taiko/1650158)
 - DoubleTime
@@ -272,33 +272,33 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2018-08-26 |  |  |  |  | 
+| Sunday, 2018-08-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Foxerus** ![][flag_BR] | **7** | 2 | ![][flag_MY] cdhsausageboy | [#1](/community/matches/45434676) |
 
 ### Finals
 
-| Saturday, 2018-08-18 |  |  |  |  | 
+| Saturday, 2018-08-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_BR] Kyoumo | [#1](/community/matches/45176380) |
 
-| Sunday, 2018-08-19 |  |  |  |  | 
+| Sunday, 2018-08-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Foxerus** ![][flag_BR] | **7** | 0 | ![][flag_MX] Ammy | [#1](/community/matches/45232731) |
 
-| Monday, 2018-08-20 |  |  |  |  | 
+| Monday, 2018-08-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Ammy ![][flag_MX] | 1 | **7** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/45244189) |
 
 ### Semifinals
 
-| Saturday, 2018-08-11 |  |  |  |  | 
+| Saturday, 2018-08-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Beat43210 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](/community/matches/44956206) |
 | hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | -win by default- |
 | Yoshi-GH ![][flag_FR] | 1 | **6** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44985615) |
 
-| Sunday, 2018-08-12 |  |  |  |  | 
+| Sunday, 2018-08-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
 | Yoshi-GH ![][flag_FR] | 4 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/45008950) |
@@ -306,14 +306,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-08-04 |  |  |  |  | 
+| Saturday, 2018-08-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Briesmas ![][flag_JP] | 0 | **5** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44750865) |
 | Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | -win by default- |
 | Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44767415) |
 | **Ammy** ![][flag_MX] | **5** | 4 | ![][flag_GB] Braixen- | [#1](/community/matches/44778173) |
 
-| Sunday, 2018-08-05 |  |  |  |  | 
+| Sunday, 2018-08-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | -win by default- |
 | Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
@@ -322,11 +322,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Friday, 2018-07-27 |  |  |  |  | 
+| Friday, 2018-07-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Kith190** ![][flag_IT] | **5** | 1 | ![][flag_EC] Gamelan4 | [#1](/community/matches/44547136) |
 
-| Saturday, 2018-07-28 |  |  |  |  | 
+| Saturday, 2018-07-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_MX] **Ammy** | [#1](/community/matches/44561379) |
 | Beat43210 ![][flag_AU] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44561379) |
@@ -345,13 +345,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Friday, 2018-07-13 |  |  |  |  | 
+| Group | Friday, 2018-07-13 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | H | **Braixen-** ![][flag_JP] | **4** | 1 | ![][flag_HK] Akali393394 | [#1](/community/matches/44127791) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](/community/matches/44128713) |
 | B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | -win by default- |
 
-| Group | Saturday, 2018-07-14 |  |  |  |  | 
+| Group | Saturday, 2018-07-14 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | -win by default- |
 | B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | -win by default- |
@@ -364,7 +364,7 @@ This competition has come to an end and resulted in the following podium:
 | C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](/community/matches/44171557) |
 | B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | -win by default- |
 
-| Group | Sunday, 2018-07-15 |  |  |  |  | 
+| Group | Sunday, 2018-07-15 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](/community/matches/44178123) |
 | E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](/community/matches/44181157) |
@@ -386,11 +386,11 @@ This competition has come to an end and resulted in the following podium:
 | A | Bedwyr Aorta ![][flag_MY] | 0 | **4** | ![][flag_IT] Kith190 | [#1](/community/matches/44217736) |
 | A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | -win by default- |
 
-| Group | Friday, 2018-07-20 |  |  |  |  | 
+| Group | Friday, 2018-07-20 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | G | **Kyoumo** ![][flag_BR] | **4** | 1 | ![][flag_CL] ArmoredReaper | [#1](/community/matches/44342730) |
 
-| Group | Saturday, 2018-07-21 |  |  |  |  | 
+| Group | Saturday, 2018-07-21 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | -win by default- |
 | F | LordAverage ![][flag_AU] | 1 | **4** | ![][flag_MX] **Ammy** | [#1](/community/matches/44352950) |
@@ -402,12 +402,12 @@ This competition has come to an end and resulted in the following podium:
 | G | **ArmoredReaper** ![][flag_CL] | **4** | 0 | ![][flag_MX] **xtrem3x | -win by default- |
 | D | **-Ryan** ![][flag_GB] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](/community/matches/44364942) |
 | D | **Wolfgang** ![][flag_PL] | **4** | 1 | ![][flag_GB] **-Ryan** | [#1](/community/matches/44366581) |
-| H | Foxerus ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](/community/matches/44368082) | 
+| H | Foxerus ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](/community/matches/44368082) |
 | D | **hi im costarino** ![][flag_PT] | **4** | 1 | ![][flag_PL] Wolfgang | [#1](/community/matches/44368086) |
 | E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_BR] **Lazarento** | [#1](/community/matches/44374741) |
 | H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](/community/matches/44375561) |
 
-| Group | Sunday, 2018-07-22 |  |  |  |  | 
+| Group | Sunday, 2018-07-22 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | E | **cdhsausageboy** ![][flag_MY] | **4** | 2 | ![][flag_BR] Lazarento | [#1](/community/matches/44391216), [#2](/community/matches/44391842) |
 | F | LordAverage ![][flag_AU] | 0 | **4** | ![][flag_AU] **Blobby3000** | [#1](/community/matches/44385177) |
@@ -459,8 +459,8 @@ This competition has come to an end and resulted in the following podium:
 6. For the beginning of the match, both players may at will select a warmup map before the actual match begins. Order of warmups will be decided by the highest roller. Warmups are not allowed during Group Stage.
 7. Warmup maps must be less than 5 minutes of length.
 8. The highest roller will have the first pick, and the lowest roller will have the first ban.
-9. Ban alternation will be used. Here is how it works: 
-   - Lowest roller -> Highest roller -> Lowest roller -> Highest roller. 
+9. Ban alternation will be used. Here is how it works:
+   - Lowest roller -> Highest roller -> Lowest roller -> Highest roller.
 10. Bans and picks will always be after the warmup, and we’ll always start with the bans.
 11. In the case of a tie, the Tiebreaker will be played.
 

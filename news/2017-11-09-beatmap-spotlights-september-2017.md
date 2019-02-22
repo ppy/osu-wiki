@@ -36,7 +36,7 @@ A charming set that shows that one does not have to break boundaries to secure a
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/beginnings.jpg)](https://osu.ppy.sh/s/646603)
 
-Inspired to come out of mapping retirement, [La Cataline](https://osu.ppy.sh/u/301279)'s guest difficulty adds additional charm to [Mirash](https://osu.ppy.sh/u/2841009)'s tantalising mapset of her song - "Beginnings". This flagship difficulty has a taste from times long since past, but easily holds up to the modern standards of mapping. 
+Inspired to come out of mapping retirement, [La Cataline](https://osu.ppy.sh/u/301279)'s guest difficulty adds additional charm to [Mirash](https://osu.ppy.sh/u/2841009)'s tantalising mapset of her song - "Beginnings". This flagship difficulty has a taste from times long since past, but easily holds up to the modern standards of mapping.
  
 Don't discount the rest of the spread though, especially not the 'Collab Insane', which consists of varied unique patterns and interesting stylistic choices! With such diverse talent, this is one gem you certainly don't want to miss!
 

@@ -70,7 +70,7 @@ For those more interested in making maps of their own, check out this very small
     <source src="https://assets.ppy.sh/artists/26/previews/559.mp3" type="audio/mpeg">
 </audio>
 
-Head on over to [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/26) now and get mapping! 
+Head on over to [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/26) now and get mapping!
 
 As with all Featured Artist tracks, everything available is totally free for use in osu!, so worry less and map more!
 

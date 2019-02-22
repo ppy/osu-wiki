@@ -60,6 +60,6 @@ Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, v
 
 ### Duración
 
-![Diferencia entre osu!supporter activo e inactivo.](O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.") 
+![Diferencia entre osu!supporter activo e inactivo.](O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.")
 
 Una vez completes el pago, en tu actividad reciente en tu perfil dirá "{Tu cuenta} has become an osu! supporter - thanks for your generosity!" si es la primera vez que tu cuenta obtiene osu!supporter o bien "{Tu cuenta} has once again chosen to donate to the osu! cause - thanks for your generosity!" si tu cuenta ya había sido osu!supporter anteriormente. Si compraste una para tu cuenta, podrás ver el título de osu!support abajo de tu imagen de perfil. Para verificar cuándo tu osu!supporter expirará, [vuelve al mismo lugar donde lo compraste](http://osu.ppy.sh/p/support).

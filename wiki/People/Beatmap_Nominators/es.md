@@ -26,7 +26,7 @@ El [Quality Assurance Team](https://osu.ppy.sh/g/7) escribirá un anuncio para l
 ### Criterios básicos
 Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con los siguientes requisitos:
 + Han modeado beatmaps de forma activa durante al menos 3 meses previamente al anuncio.
-+ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total. 
++ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total.
 + Envíen de 3 a 5 mods suyos que crean que los cualifique para ser Beatmap Nominator.
 
 ### ¿Qué cualifica un post como Mod?

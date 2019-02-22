@@ -103,6 +103,6 @@ Comments
 
 You can do single-line C-style comments, but be advised they may be removed if you save in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
 
-`// This is a comment.`
+`// This is a comment.`
 
 Unlike in C/C++/C#/Java, you can't put a comment on a line after a valid command. You also can't do block comments.

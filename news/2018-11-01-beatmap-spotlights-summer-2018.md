@@ -21,7 +21,7 @@ You may have noticed that the regular Monthly Beatmap Spotlights slowed down a b
 
 The astute among us will note that it is indeed November, and not September at the moment - the delay in releasing the Summer Spotlights is a one-time affair and the others will all be proceeding following the schedule listed above.
 
-**The Spotlights team is also looking for new members!** If you've ever been interested in helping pick out the best of the best beatmaps from a given seasonal cycle and think you've got what it takes to contribute, we want to hear from you! Check out the application [here](https://goo.gl/XdNvXo)! 
+**The Spotlights team is also looking for new members!** If you've ever been interested in helping pick out the best of the best beatmaps from a given seasonal cycle and think you've got what it takes to contribute, we want to hear from you! Check out the application [here](https://goo.gl/XdNvXo)!
 
 If you just want to observe the process and get a feel for things, we've decided to make our Discord server public and you are [free to join](http://discord.gg/Z28ZtUf) if you like. With that said, discussion about the future and other important stuff will still happen on the dedicated *#osu-spotlights* channel over at the [osu! development Discord](Http://discord.gg/ppy).
 
@@ -64,13 +64,13 @@ Coming straight from the Mapper's Guild with a Featured Artist song, [Mao](https
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/negai.jpg)](https://osu.ppy.sh/beatmapsets/671268)
 
-Lightly edited from the original version made five years ago, [Hollow Wings](https://osu.ppy.sh/users/416662) brings us a pleasant set that has aged very well with Ishida Yoko's "Negai". Built on a low-bpm swing beat, this map mixes slow and simple sections with faster, energetic choruses that will have your cursor dancing across the screen to their lovely melody. 
+Lightly edited from the original version made five years ago, [Hollow Wings](https://osu.ppy.sh/users/416662) brings us a pleasant set that has aged very well with Ishida Yoko's "Negai". Built on a low-bpm swing beat, this map mixes slow and simple sections with faster, energetic choruses that will have your cursor dancing across the screen to their lovely melody.
 
 Together with [Pata-Mon](https://osu.ppy.sh/users/6149313) and [Suzuki_1112](https://osu.ppy.sh/users/3170678) they bave created a very enjoyable set to play, and something sure to stoke your summer spirit.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/messiah.jpg)](http://osu.ppy.sh/beatmapsets/793438)
 
-[eiri-](https://osu.ppy.sh/users/3388410)'s strikingly original set of Liz Triangle's "Messiah" has 3 unique difficulties that all express the song quite beautifully. [Jounzan](https://osu.ppy.sh/users/1848318)'s top diff has great intensity and spacing contrast, along with a unique use of flow. [Mirash](https://osu.ppy.sh/users/2841009) and [Delis](https://osu.ppy.sh/users/1603923)' collab gives us a nicely improvised approach to emphasis, providing a fun gameplay experience. 
+[eiri-](https://osu.ppy.sh/users/3388410)'s strikingly original set of Liz Triangle's "Messiah" has 3 unique difficulties that all express the song quite beautifully. [Jounzan](https://osu.ppy.sh/users/1848318)'s top diff has great intensity and spacing contrast, along with a unique use of flow. [Mirash](https://osu.ppy.sh/users/2841009) and [Delis](https://osu.ppy.sh/users/1603923)' collab gives us a nicely improvised approach to emphasis, providing a fun gameplay experience.
 
 Last but not least, Vass' Desire by [Vass_Bass](https://osu.ppy.sh/users/188248) displays a very natural movement around the playfield, which is more easily playable, yet displays a high attention to detail. With a nice range of mapping styles, it's easy to say something in this set for everybody!
 
@@ -80,7 +80,7 @@ When considering versatility in mapping skills, [Lasse](https://osu.ppy.sh/users
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/day-and-night.jpg)](http://osu.ppy.sh/beatmapsets/585154)
 
-[UndeadCapulet](https://osu.ppy.sh/users/2523533) has always been known in the mapping community for having a rather divergent mapping style from the current aesthetic norm by exclusively focusing on movement concepts. Their rendition of FELT's "Day and Night" seems to match that perspective just as well, being one of the more well expressed maps this season. 
+[UndeadCapulet](https://osu.ppy.sh/users/2523533) has always been known in the mapping community for having a rather divergent mapping style from the current aesthetic norm by exclusively focusing on movement concepts. Their rendition of FELT's "Day and Night" seems to match that perspective just as well, being one of the more well expressed maps this season.
 
 Despite the map starting out slow and rather unsatisfying to play, it all takes a sharp turn later when reaching the choruses. All in all, it's definitely worth giving this map a try to the end!
 
@@ -114,7 +114,7 @@ All in all, this spread has a deserved first place in the Summer's Spotlights!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/ohayou.jpg)](http://osu.ppy.sh/beatmapsets/792231)
 
-Ohayou! Want to play some oriental music on a drum that originated from the same region? [incandescence](https://osu.ppy.sh/users/6256027)s map titled a morning greeting in Japanese will probably fulfill your need. Featuring a load of five difficulties ranging from Kantan to Inner Oni, the set is carefully arranged to represent the catchy rhythm with relatively balanced spread progression, which could cater to different players' capability. 
+Ohayou! Want to play some oriental music on a drum that originated from the same region? [incandescence](https://osu.ppy.sh/users/6256027)s map titled a morning greeting in Japanese will probably fulfill your need. Featuring a load of five difficulties ranging from Kantan to Inner Oni, the set is carefully arranged to represent the catchy rhythm with relatively balanced spread progression, which could cater to different players' capability.
 
 Apart from the good consistency of patterns every difficulty keeps, the Inner Oni utilizes a variety of 1/4 combinations that accompany the music accurately alongside a set of simple yet intuitive Slider Velocity transitions, making the map impressive to play.
 
@@ -122,7 +122,7 @@ Apart from the good consistency of patterns every difficulty keeps, the Inner On
 
 Behold, the current top Star Rating map in our Ranked Section! t+pazolite's "Ultrasonic Anthem" remixed by Kobaryo will surely tire out your hand and drive you crazy!
 
-This time around, [tasuke912](https://osu.ppy.sh/users/2774767) along with his collaborators [eiri-](https://osu.ppy.sh/users/2774767), [komasy](https://osu.ppy.sh/users/1980256), [maziari1105](https://osu.ppy.sh/users/4469725), [Midnaait](https://osu.ppy.sh/users/1506011) and [thzz](https://osu.ppy.sh/users/1614839) brought us this mapset consisting of meticulously crafted difficulties to ensure nobody gets lost along the way, so everybody can have something to play! 
+This time around, [tasuke912](https://osu.ppy.sh/users/2774767) along with his collaborators [eiri-](https://osu.ppy.sh/users/2774767), [komasy](https://osu.ppy.sh/users/1980256), [maziari1105](https://osu.ppy.sh/users/4469725), [Midnaait](https://osu.ppy.sh/users/1506011) and [thzz](https://osu.ppy.sh/users/1614839) brought us this mapset consisting of meticulously crafted difficulties to ensure nobody gets lost along the way, so everybody can have something to play!
 
 If the amount of low difficulties doesn't catch your eye, the top diffs will for sure, as they are extremely well done speed maps with proper flow to show us how it's done. You can bet these are a whole lot of fun and a worthy challenge as well!
 
@@ -162,7 +162,7 @@ The Inner Oni features sparse 1/8-snap doublets, which were rare at the time of 
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/icicle-stinger.jpg)](http://osu.ppy.sh/beatmapsets/345990)
 
-In 2018 Summer, Fisherman [EdamaMe411](https://osu.ppy.sh/users/4270973) together with [tasuke912](https://osu.ppy.sh/users/2774767) did a great job introducing a deep sea creature in the Taiko Ocean. With the whopping 285bpm, the stamina required to escape from this fierce Icicle Stinger may be rather demanding! 
+In 2018 Summer, Fisherman [EdamaMe411](https://osu.ppy.sh/users/4270973) together with [tasuke912](https://osu.ppy.sh/users/2774767) did a great job introducing a deep sea creature in the Taiko Ocean. With the whopping 285bpm, the stamina required to escape from this fierce Icicle Stinger may be rather demanding!
 
 The three lower difficulties follow a simpler design so that beginners would not be scared away by the beast and could still play properly without big problem. Starting from Oni, there are already 1/4 triplets which are knotty to go through due to the rapid pace. In Inner Oni and tasuke's signature TAIKO-HOLIC, intense yet fitting 1/4 bursts are arranged in succession to provide a great challenge to players and even veterans.
 
@@ -219,7 +219,7 @@ Coming from the Fruit Factory, [Ascendance](https://osu.ppy.sh/users/2931883) co
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/catch/marigold.jpg)](http://osu.ppy.sh/beatmapsets/596327)
 
-Following Spectator's steps from the January 2018 Spotlights, [Hareimu](https://osu.ppy.sh/users/4138746)'s own rendition of "Marigold" manages to get a spot in the Summer 2018 Spotlights. The map, from its Cup difficulty to an already signature gimmicky Overdose by [Deif](https://osu.ppy.sh/users/318565), marvelously portray the song's different parts. 
+Following Spectator's steps from the January 2018 Spotlights, [Hareimu](https://osu.ppy.sh/users/4138746)'s own rendition of "Marigold" manages to get a spot in the Summer 2018 Spotlights. The map, from its Cup difficulty to an already signature gimmicky Overdose by [Deif](https://osu.ppy.sh/users/318565), marvelously portray the song's different parts.
 
 From calmer sections boasting Guriri's sweet voice to a hectic combination of piano, violin and drums, this beatmap is sure to be a fun ride.
 
@@ -229,7 +229,7 @@ Straight from 2017's osu!catch World Cup comes "Above the Clouds" by [P i k u](h
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/catch/seasons.jpg)](http://osu.ppy.sh/beatmapsets/762958)
 
-Finally, DragonForce has been brought to fruit-lovers! [Crowley](https://osu.ppy.sh/users/6341006) made a successful first appearance in ranked section with his map DragonForce's "Seasons". Managing the organization of neat patterns through the entire map, Crowley explained how excellent one can be even if new in this field. 
+Finally, DragonForce has been brought to fruit-lovers! [Crowley](https://osu.ppy.sh/users/6341006) made a successful first appearance in ranked section with his map DragonForce's "Seasons". Managing the organization of neat patterns through the entire map, Crowley explained how excellent one can be even if new in this field.
 
 Moreover, it's especially notable that varied stream patterns are designed, perfectly matching this heavy-metal song with intensive drum beats flowing everywhere. Pretty sure this is a fantastic map you won't want to miss this summer!
 
@@ -249,13 +249,13 @@ This paired with the Insane with great usage of heavy chording, including pushin
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/mazare-party.jpg)](http://osu.ppy.sh/beatmapsets/650415)
 
-[Insp1r3](https://osu.ppy.sh/users/7131254)'s first ranked mapset, "Mazare Party" by MAZARE presents a unique spread of 4K and 6K, with each keymode being a noticeably different as well as being fun to play. With [Chilly](https://osu.ppy.sh/users/7792942), [Cokiiplay](https://osu.ppy.sh/users/6760124) and lastly [Asherz007](https://osu.ppy.sh/users/9014047) contributing, the 4K spread explores an intense handstream challenge where players are forced to maintain their stamina and technique throughout. 
+[Insp1r3](https://osu.ppy.sh/users/7131254)'s first ranked mapset, "Mazare Party" by MAZARE presents a unique spread of 4K and 6K, with each keymode being a noticeably different as well as being fun to play. With [Chilly](https://osu.ppy.sh/users/7792942), [Cokiiplay](https://osu.ppy.sh/users/6760124) and lastly [Asherz007](https://osu.ppy.sh/users/9014047) contributing, the 4K spread explores an intense handstream challenge where players are forced to maintain their stamina and technique throughout.
 
 Moreover, [jakads](https://osu.ppy.sh/users/259972), [booty](https://osu.ppy.sh/users/4605217) and once again Asherz007 on the 6K spread shows a complete mashup of a complex long note pattern and fast stream, challenging the reading ability of players.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/ongaku.jpg)](http://osu.ppy.sh/beatmapsets/540432)
 
-Our masters of 7K, [Kawawa](https://osu.ppy.sh/users/4647754) & [Critical_Star](https://osu.ppy.sh/users/3793196) once again return with a beautiful and challenging mapset, Yu_Asahina's "Ongaku -resolve-". 
+Our masters of 7K, [Kawawa](https://osu.ppy.sh/users/4647754) & [Critical_Star](https://osu.ppy.sh/users/3793196) once again return with a beautiful and challenging mapset, Yu_Asahina's "Ongaku -resolve-".
 
 As the difficulty progresses, Kawawa and Critical_Star express and interpret the mixture of piano rolls and flow of the rhythm using complex long notes with fast delay patterns. 7K players will once again fall in love with this challenging track and will make them seek for much more from them!
 
@@ -275,13 +275,13 @@ The ideal spread on one hand makes the set reachable for beginners, while the co
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/xperanza.jpg)](http://osu.ppy.sh/beatmapsets/788120)
 
-[MysticEyes](https://osu.ppy.sh/users/6253266)' first ranked map, aran's "Xperanza" demonstrates usage of Long Notes in a particularly balanced style between comfort and musical representation. 
+[MysticEyes](https://osu.ppy.sh/users/6253266)' first ranked map, aran's "Xperanza" demonstrates usage of Long Notes in a particularly balanced style between comfort and musical representation.
 
 The track allows for a great variation of styles, and MysticEyes does not disappoint! This fun-filled LN hybrid is an accuracy challenge to many top players, and with a great song choice, many will also be jamming to the beat while playing the map.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/go-go-maniac.jpg)](http://osu.ppy.sh/beatmapsets/776845)
 
-[Garalulu](https://osu.ppy.sh/users/757783) continues to bring unique maps to the ranked section with his map, "GO! GO! MANIAC!" by HO-KAGO TEA TIME. This song has a chaotic nature, bringing different time signatures on instruments (mainly between 1/3 and 1/2) at 250 BPM, which Garalulu took full advantage of. 
+[Garalulu](https://osu.ppy.sh/users/757783) continues to bring unique maps to the ranked section with his map, "GO! GO! MANIAC!" by HO-KAGO TEA TIME. This song has a chaotic nature, bringing different time signatures on instruments (mainly between 1/3 and 1/2) at 250 BPM, which Garalulu took full advantage of.
 
 The highest difficulty showcases a lot of well-thought patterns to further complicate the already complicated rhythm, such as short Long Note chords and cobweb patterns. And the mapper emphasized each instruments and every strong vocal syllables in a way that makes the patterns coherent, rather than making each of them distinctive. Knowing the BPM, accomplishing all those while still keeping the map fun and challenging is impressive.
 
@@ -289,9 +289,9 @@ The lower difficulties are also a lot more complex than other maps in the Star R
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/trappola.jpg)](http://osu.ppy.sh/beatmapsets/702559)
 
-Don't be fooled by the star rating! After Cycle Hit, [Wadu](https://osu.ppy.sh/users/8787387) contributes the ranked section this mapset, gmnt.'s "trappola bewitching", of which the top difficulty's real level is much higher than the star ratings indicates. 
+Don't be fooled by the star rating! After Cycle Hit, [Wadu](https://osu.ppy.sh/users/8787387) contributes the ranked section this mapset, gmnt.'s "trappola bewitching", of which the top difficulty's real level is much higher than the star ratings indicates.
 
-Characterized by the fierce Slider Velocity changes and varied patterns with barely no rest at a high BPM of 190, this map challenges the players' readability of Slider Velocities as well as their stamina. [Mage](https://osu.ppy.sh/users/5527957)'s guest difficulties are also the highlights of this mapset. At the same time when keeping a good spread, he still tried to utilize some great concepts to pose some challenges on advancing players. 
+Characterized by the fierce Slider Velocity changes and varied patterns with barely no rest at a high BPM of 190, this map challenges the players' readability of Slider Velocities as well as their stamina. [Mage](https://osu.ppy.sh/users/5527957)'s guest difficulties are also the highlights of this mapset. At the same time when keeping a good spread, he still tried to utilize some great concepts to pose some challenges on advancing players.
 
 All in all, this mapset would be among good choices of practicing stamina and challenging yourself!
 
@@ -301,13 +301,13 @@ All in all, this mapset would be among good choices of practicing stamina and ch
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/redemption.jpg)](http://osu.ppy.sh/beatmapsets/788366)
 
-Another one of [error_exe777](https://osu.ppy.sh/users/7975796)'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-inducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music. 
+Another one of [error_exe777](https://osu.ppy.sh/users/7975796)'s Slider Velocity masterpieces, "Tetsuo's Redemption" by KOAN Sound & Asa is an enjoyable, chill-inducing marathon map with unpredictable, erratic speed changes that require the player to have a complete understanding of the music.
 
 Its use of varying concepts, particularly the repetition of specific patterns, is something that many mappers should keep in mind when making maps with Slider Velocity changes.
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/volcanic.jpg)](http://osu.ppy.sh/beatmapsets/765056)
 
-[_underjoy](https://osu.ppy.sh/users/2235750) strikes again with his new extreme 7k chart and keeps the ranked section alive for top-tier players again. This marathon contains many different skillset, all at extremely high levels, including stamina, heavy chordstreaming and jack speed. As seen by the scoreboard, even top-tier players have to put high effort to play this map well. 
+[_underjoy](https://osu.ppy.sh/users/2235750) strikes again with his new extreme 7k chart and keeps the ranked section alive for top-tier players again. This marathon contains many different skillset, all at extremely high levels, including stamina, heavy chordstreaming and jack speed. As seen by the scoreboard, even top-tier players have to put high effort to play this map well.
 
 The map includes not only challenge element, but also consistency and good pattern choices that represent the music at the proper level. This map can fairly be named as one of the hardest ranked marathons.
 
@@ -315,7 +315,7 @@ The map includes not only challenge element, but also consistency and good patte
 
 We have decided to make the spreadsheet available for everyone who is interested to take a look at how we selected these mapsets. Check it out [here](https://goo.gl/fEpzFn)!
 
-We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. 
+We hope you enjoy our selection for this season and look forward to what we will bring to you in the future.
 
 Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 

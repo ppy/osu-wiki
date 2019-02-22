@@ -51,4 +51,4 @@ On the osu!web, the osu!supporter badge can be found next to the user avatar and
 
 *Note: This section is only shown after you obtain osu!supporter.*
 
-To check your remaining osu!supporter tag status and total contributions and tag purchases, go to the [support the game](/home/support) page and scroll down to see a section similar as pictured above. 
+To check your remaining osu!supporter tag status and total contributions and tag purchases, go to the [support the game](/home/support) page and scroll down to see a section similar as pictured above.

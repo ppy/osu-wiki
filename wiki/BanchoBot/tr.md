@@ -26,8 +26,8 @@ BanchoBot sekmesinde, `/bb` öneki gerekli değildir.`/bb` ile başlayan bütün
 
 | Komut | Argüman(lar) | Etki | Örnek | Örnek Cevap |
 | ------- | ----------- | ------ | ------- | ---------------- |
-| `WHERE` | `<kullanıcı>` | Seçilen oyuncunun dünyanın neresinde olduğunu gösterir. | /bb WHERE Sudokyu | "Sudokyu is in Japan" | 
-| `STATS` | `<kullanıcı>` | Seçilen oyuncunun durumunu ve değerlerini gösterir. | /bb STATS ThomasTheTrain | "Stats for ThomasTheTrain is Playing: <br> Score:  20,255,242 (#918000) <br> Plays:  160 (lv24) <br> Accuracy: 97.42% | 
+| `WHERE` | `<kullanıcı>` | Seçilen oyuncunun dünyanın neresinde olduğunu gösterir. | /bb WHERE Sudokyu | "Sudokyu is in Japan" |
+| `STATS` | `<kullanıcı>` | Seçilen oyuncunun durumunu ve değerlerini gösterir. | /bb STATS ThomasTheTrain | "Stats for ThomasTheTrain is Playing: <br> Score:  20,255,242 (#918000) <br> Plays:  160 (lv24) <br> Accuracy: 97.42% |
 | `FAQ` | `[dil:]<etiket>` | Seçilen etiket hakkında bilgi verir. Kullanılabilir etiketlerin listesini görmek için `list` etiketini kullanın.  | /bb FAQ wiki <br> /bb FAQ jp:wiki | "The [osu!wiki](https://osu.ppy.sh/wiki/) is currently moved to GitHub: [ppy/osu-wiki](https://github.com/ppy/osu-wiki/) <br> [osu!のWikiページ](https://osu.ppy.sh/wiki/) - さらに良いページにしていきましょう! |
 | `REPORT` | `<kullanıcı> <sebep>` | Birini bir sebepten ötürü bildirin. | /bb REPORT MikeSchmidt Works at Freddy Fazbear's | "Chat moderators has been alerted. Thanks for your help." |
 | `REQUEST` | N/A | Mod isteği olan bir beatmapı rastgele olarak seçer. Liste sıklıkla güncellenmez, bu nedenle çoktan dereceli olmuş bir beatmapın gelmesi mümkündür. | /bb REQUEST | [HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio |

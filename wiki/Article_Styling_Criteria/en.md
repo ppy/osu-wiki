@@ -233,7 +233,7 @@ See also hatnotes are used to suggest a reader other points of interest from a g
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
 
-Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. 
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap.
 ```
 
 #### For see

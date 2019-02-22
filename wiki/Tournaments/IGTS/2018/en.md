@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
   - [t+pazolite - Knotfunk (eiri-, Nifty) \[Ayyfty's Oni\]](/beatmapsets/716533/#taiko/1514125)
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (aabc271) \[aabc's Taiko Oni\]](/beatmapsets/134151/#taiko/365129)
   - [Cranky - R176 (Alace) \[Pangko\]](/beatmapsets/31367/#taiko/121335)
-  - [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](/beatmapsets/357767/#taiko/786903) 
+  - [D.J.Amuro - ZZ (Nofool) \[Inner Oni\]](/beatmapsets/357767/#taiko/786903)
 - Hidden
   - [suzumu feat.soraru - Zetsubousei: Hero Chiryouyaku The Animation (Stefan) \[Oni\]](/beatmapsets/416567/#taiko/902308)
   - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Oni\]](/beatmapsets/744214/#taiko/1569199)
@@ -163,22 +163,22 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is)**
 
 - NoMod
-  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](/beatmapsets/589814/#taiko/1500895) 
-  - [Ryu\* - !Viva! (-Kazu-) \[Kazu's Oni\]](/beatmapsets/526265/#taiko/1130126) 
-  - [C-Show - On the FM (Nofool) \[Oni\]](/beatmapsets/568544/#taiko/1205385) 
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](/beatmapsets/589814/#taiko/1500895)
+  - [Ryu\* - !Viva! (-Kazu-) \[Kazu's Oni\]](/beatmapsets/526265/#taiko/1130126)
+  - [C-Show - On the FM (Nofool) \[Oni\]](/beatmapsets/568544/#taiko/1205385)
   - [Himeringo - Idola no Circus (hikikochan) \[Dance\]](/beatmapsets/728008/#taiko/1537074)
 - Hidden
-  - [Memme - Acid Burst (MMzz) \[Oni\]](/beatmapsets/215546/#taiko/506333) 
-  - [Akhuta - Ludus In Tenebris (Nyan) \[Muzukashii\]](/beatmapsets/443065/#taiko/964451) 
+  - [Memme - Acid Burst (MMzz) \[Oni\]](/beatmapsets/215546/#taiko/506333)
+  - [Akhuta - Ludus In Tenebris (Nyan) \[Muzukashii\]](/beatmapsets/443065/#taiko/964451)
 - HardRock
-  - [Nekomata Master - Avalon Hill (LunaticP) \[Oni\]](/beatmapsets/261935/#taiko/597875) 
-  - [xi - ANiMA (tasuke912) \[Oni\]](/beatmapsets/326029/#taiko/725277) 
+  - [Nekomata Master - Avalon Hill (LunaticP) \[Oni\]](/beatmapsets/261935/#taiko/597875)
+  - [xi - ANiMA (tasuke912) \[Oni\]](/beatmapsets/326029/#taiko/725277)
 - DoubleTime
-  - [David Bergeaud - Joraal Nebula - Leviathan (Gezoda) \[Oni\]](/beatmapsets/71072/#taiko/268461) 
-  - [siromaru + crankyHorie Yui - conflict (TKSalt) \[TK's Muzukashii\]](/beatmapsets/103123/#taiko/278005) 
+  - [David Bergeaud - Joraal Nebula - Leviathan (Gezoda) \[Oni\]](/beatmapsets/71072/#taiko/268461)
+  - [siromaru + crankyHorie Yui - conflict (TKSalt) \[TK's Muzukashii\]](/beatmapsets/103123/#taiko/278005)
 - FreeMod
-  - [ryo (supercell) - ODDS&ENDS (Short Ver.) (Ellyu) \[Cherry's Inner Taiko\]](/beatmapsets/59981/#taiko/179927) 
-  - [KNOWER - Things About You (Nifty) \[Oni\]](/beatmapsets/666935/#taiko/1411347) 
+  - [ryo (supercell) - ODDS&ENDS (Short Ver.) (Ellyu) \[Cherry's Inner Taiko\]](/beatmapsets/59981/#taiko/179927)
+  - [KNOWER - Things About You (Nifty) \[Oni\]](/beatmapsets/666935/#taiko/1411347)
 - Tiebreaker
   - **[Mohican Sandbag - U.N. Owen is dead (OnosakiHito) \[Oni\]](/beatmapsets/177908#taiko/428071)**
 
@@ -187,22 +187,22 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ)**
 
 - NoMod
-  - [Cranky - Into the Unknown (Nofool) \[Oni\]](/beatmapsets/738600/#taiko/1558765) 
-  - [OISHII - PIZZA PLAZA (Volta) \[Oni\]](/beatmapsets/663500/#taiko/1404697) 
-  - [KNOWER - Time Traveler (Nifty) \[Oni\]](/beatmapsets/622136/#taiko/1362733) 
+  - [Cranky - Into the Unknown (Nofool) \[Oni\]](/beatmapsets/738600/#taiko/1558765)
+  - [OISHII - PIZZA PLAZA (Volta) \[Oni\]](/beatmapsets/663500/#taiko/1404697)
+  - [KNOWER - Time Traveler (Nifty) \[Oni\]](/beatmapsets/622136/#taiko/1362733)
   - [LeaF - Kyouki Ranbu (DakeDekaane) \[Oni\]](/beatmapsets/394552/#taiko/858745)
 - Hidden
-  - [Electric Six - Gay Bar (Deif) \[Oni\]](/beatmapsets/129402/#taiko/362948) 
-  - [Junichi Masuda - Battle! (Legendary Pokemon) (Sala-fan) \[Sala-fan's Oni\]](/beatmapsets/219713/#taiko/525670) 
+  - [Electric Six - Gay Bar (Deif) \[Oni\]](/beatmapsets/129402/#taiko/362948)
+  - [Junichi Masuda - Battle! (Legendary Pokemon) (Sala-fan) \[Sala-fan's Oni\]](/beatmapsets/219713/#taiko/525670)
 - HardRock
-  - [t+pazolite - intrO - Don't be Foolish (incandescene) \[Oni\]](/beatmapsets/733624/#taiko/1548238) 
-  - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Oni\]](/beatmapsets/339001/#taiko/750226) 
+  - [t+pazolite - intrO - Don't be Foolish (incandescene) \[Oni\]](/beatmapsets/733624/#taiko/1548238)
+  - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Oni\]](/beatmapsets/339001/#taiko/750226)
 - DoubleTime
-  - [Mikako Komatsu - Owaranai Melody o Utai Dashimashita. (qoot8123) \[qoot8123's Oni\]](/beatmapsets/121689/#taiko/313568) 
-  - [Horie Yui - chocolate insomnia (TV Size) (NoHitter) \[Taiko Muzukashii\]](/beatmapsets/104541/#taiko/274833) 
+  - [Mikako Komatsu - Owaranai Melody o Utai Dashimashita. (qoot8123) \[qoot8123's Oni\]](/beatmapsets/121689/#taiko/313568)
+  - [Horie Yui - chocolate insomnia (TV Size) (NoHitter) \[Taiko Muzukashii\]](/beatmapsets/104541/#taiko/274833)
 - FreeMod
-  - [Illion - AIWAGUMA (Ellyu) \[Oni\]](/beatmapsets/533037/#taiko/1247899) 
-  - [MYTH & ROID - VORACITY (TV Size) (Nofool) \[Oni\]](/beatmapsets/818008/#taiko/1715246) 
+  - [Illion - AIWAGUMA (Ellyu) \[Oni\]](/beatmapsets/533037/#taiko/1247899)
+  - [MYTH & ROID - VORACITY (TV Size) (Nofool) \[Oni\]](/beatmapsets/818008/#taiko/1715246)
 - Tiebreaker
   - **[Chitose Haru & Kumagai Eri - Perfect Free (Nwolf) \[Oni\]](/beatmapsets/549700/#taiko/1164010)**
 
@@ -211,22 +211,22 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w)**
 
 - NoMod
-  - [Nekomata Master - Silence (Tasha) \[Oni\]](/beatmapsets/127126/#taiko/342676) 
-  - [M2U - Masquerade (- Kagami Yuki -) \[Oni\]](/beatmapsets/132040/#taiko/332273) 
-  - [Hommarju - Crazy Jackpot (aabc271) \[aabc's Oni\]](/beatmapsets/717853/#taiko/1517306) 
+  - [Nekomata Master - Silence (Tasha) \[Oni\]](/beatmapsets/127126/#taiko/342676)
+  - [M2U - Masquerade (- Kagami Yuki -) \[Oni\]](/beatmapsets/132040/#taiko/332273)
+  - [Hommarju - Crazy Jackpot (aabc271) \[aabc's Oni\]](/beatmapsets/717853/#taiko/1517306)
   - [Comp - Gensou no Satellite (Nwolf) \[Oni\]](/beatmapsets/122757/#taiko/313793)
 - Hidden
-  - [Shoujo - Reminiscing (Jaye) \[Muzukashii\]](/beatmapsets/682206/#taiko/1442600) 
-  - [Qrispy Joybox - Snow Prism (TKSalt) \[Oni\]](/beatmapsets/72392/#taiko/224326) 
+  - [Shoujo - Reminiscing (Jaye) \[Muzukashii\]](/beatmapsets/682206/#taiko/1442600)
+  - [Qrispy Joybox - Snow Prism (TKSalt) \[Oni\]](/beatmapsets/72392/#taiko/224326)
 - HardRock
-  - [Hakobe Naru(CV:M.A.O) - Nekomatsuri (komasy) \[Oni\]](/beatmapsets/659442/#taiko/1418602) 
-  - [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Oni\]](/beatmapsets/707590/#taiko/1502287) 
+  - [Hakobe Naru(CV:M.A.O) - Nekomatsuri (komasy) \[Oni\]](/beatmapsets/659442/#taiko/1418602)
+  - [Doma Umaru (CV. Tanaka Aimi) - Nimensei\*Uraomote Life! (Tyistiana) \[Oni\]](/beatmapsets/707590/#taiko/1502287)
 - DoubleTime
-  - [Mili - world.execute(me); (Volta) \[volta.taiko(muzukashii);\]](/beatmapsets/507196/#taiko/1078865) 
-  - [7!! - Hey! Calorie Queen (Etsu) \[Muzukashii\]](/beatmapsets/459442/#taiko/984288) 
+  - [Mili - world.execute(me); (Volta) \[volta.taiko(muzukashii);\]](/beatmapsets/507196/#taiko/1078865)
+  - [7!! - Hey! Calorie Queen (Etsu) \[Muzukashii\]](/beatmapsets/459442/#taiko/984288)
 - FreeMod
-  - [HoneyWorks feat. Gero - Jakusha no Sengen (Poii) \[Poii's Oni\]](/beatmapsets/643153/#taiko/1450439) 
-  - [M2U - Quo Vadis (TKSalt) \[Oni\]](/beatmapsets/135324/#taiko/339132) 
+  - [HoneyWorks feat. Gero - Jakusha no Sengen (Poii) \[Poii's Oni\]](/beatmapsets/643153/#taiko/1450439)
+  - [M2U - Quo Vadis (TKSalt) \[Oni\]](/beatmapsets/135324/#taiko/339132)
 - Tiebreaker
   - **[Lovelicot - Indoa\*Ranburu (Kqrth) \[Rumble\]](/beatmapsets/627513/#taiko/1322323)**
 
@@ -235,22 +235,22 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ)**
 
 - NoMod
-  - [Fire EX. - Shattered Dreams (Nardoxyribonucleic) \[Nardo's Muzukashii\]](/beatmapsets/287251/#taiko/660343) 
-  - [DJ Mendez - Tequila (lepidopodus) \[lepidon! - Taiko Oni\]](/beatmapsets/23492/#taiko/80658) 
-  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Muzukashii\]](/beatmapsets/642762/#taiko/1363511) 
+  - [Fire EX. - Shattered Dreams (Nardoxyribonucleic) \[Nardo's Muzukashii\]](/beatmapsets/287251/#taiko/660343)
+  - [DJ Mendez - Tequila (lepidopodus) \[lepidon! - Taiko Oni\]](/beatmapsets/23492/#taiko/80658)
+  - [ARM (IOSYS) feat. Nicole Curry - Come to Life (Nofool) \[Muzukashii\]](/beatmapsets/642762/#taiko/1363511)
   - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Nwolf) \[Nwolf's Muzukashii\]](/beatmapsets/436978/#taiko/978373)
 - Hidden
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) [short ver.] (eiri-) \[Ayyri's Muzukashii\]](/beatmapsets/741790/#taiko/1567654) 
-  - [P*Light - Gekkou Ranbu (Steins) \[Stein's Muzukashii\]](/beatmapsets/406934/#taiko/886669) 
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) [short ver.] (eiri-) \[Ayyri's Muzukashii\]](/beatmapsets/741790/#taiko/1567654)
+  - [P*Light - Gekkou Ranbu (Steins) \[Stein's Muzukashii\]](/beatmapsets/406934/#taiko/886669)
 - HardRock
-  - [YUC'e - intro-duck-tion!! (\_yu68) \[\_yu68's muzu-kashi!!s\]](/beatmapsets/700150/#taiko/1528753) 
-  - [Ryu\* feat. moimoi - OOO (\[R\]) \[Oni\]](/beatmapsets/764462/#taiko/1607509) 
+  - [YUC'e - intro-duck-tion!! (\_yu68) \[\_yu68's muzu-kashi!!s\]](/beatmapsets/700150/#taiko/1528753)
+  - [Ryu\* feat. moimoi - OOO (\[R\]) \[Oni\]](/beatmapsets/764462/#taiko/1607509)
 - DoubleTime
-  - [toby fox - Heartache (Lost The Lights) \[LTL's Muzukashii\]](/beatmapsets/410256/#taiko/890367) 
-  - [7!! - Bye Bye (TV Size) (mingmichael) \[Muzukashii\]](/beatmapsets/91594/#taiko/247965) 
+  - [toby fox - Heartache (Lost The Lights) \[LTL's Muzukashii\]](/beatmapsets/410256/#taiko/890367)
+  - [7!! - Bye Bye (TV Size) (mingmichael) \[Muzukashii\]](/beatmapsets/91594/#taiko/247965)
 - FreeMod
-  - [Kola Kid - Spaceman (Kokatsu) \[Muzukashii\]](/beatmapsets/67703/#taiko/196486) 
-  - [Pinocchio-P - Mushroom Mother (MMzz) \[Muzukashii\]](/beatmapsets/88802/#taiko/241860) 
+  - [Kola Kid - Spaceman (Kokatsu) \[Muzukashii\]](/beatmapsets/67703/#taiko/196486)
+  - [Pinocchio-P - Mushroom Mother (MMzz) \[Muzukashii\]](/beatmapsets/88802/#taiko/241860)
 - Tiebreaker
   - **[Xandria - Call Of Destiny (Nardoxyribonucleic) \[Muzukashii\]](/beatmapsets/635559/#taiko/1408975)**
 
@@ -274,15 +274,15 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2018-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Malaysia ![][flag_MY] | 1 | **6** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45826179) |
-| **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](/community/matches/45811926) | 
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](/community/matches/45811926) |
 
 ### Semifinals
 
-| Saturday, 2018-09-01 |  |  |  |  | 
+| Saturday, 2018-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45601494) |
 
-| Sunday, 2018-09-02 |  |  |  |  | 
+| Sunday, 2018-09-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Germany ![][flag_DE] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](/community/matches/45616018) |
 | Canada ![][flag_CA] | 3 | **5** | ![][flag_EC] **Ecuador** | [#1](/community/matches/45626417) |
@@ -292,18 +292,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Friday, 2018-08-24 |  |  |  |  | 
+| Friday, 2018-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](/community/matches/45369844) |
 
-| Saturday, 2018-08-25 |  |  |  |  | 
+| Saturday, 2018-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP] | **5** | 2 | ![][flag_EC] Ecuador | [#1](/community/matches/45385434) |
 | Russia ![][flag_RU] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](/community/matches/45392371) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FR] France | [#1](/community/matches/45397375) |
 | Singapore ![][flag_SG] | 1 | **5** | ![][flag_US] **United States** | [#1](/community/matches/45402951) |
 
-| Sunday, 2018-08-26 |  |  |  |  | 
+| Sunday, 2018-08-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | France ![][flag_FR] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45434990) |
 | Russia ![][flag_RU] | 1 | **5** | ![][flag_CA] **Canada** | [#1](/community/matches/45431679) |
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1 (Lower Bracket)
 
-| Saturday, 2018-08-18 |  |  |  |  | 
+| Saturday, 2018-08-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](/community/matches/45187249) |
@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Saturday, 2018-08-04 |  |  |  |  | 
+| Group | Saturday, 2018-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](/community/matches/44759949) |
 | C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](/community/matches/44760724) |
@@ -330,7 +330,7 @@ This competition has come to an end and resulted in the following podium:
 | A | **United States** ![][flag_US] | **4** | 1 | ![][flag_AR] Argentina | [#1](/community/matches/44768946) |
 | B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
-| Group | Sunday, 2018-08-05 |  |  |  |  | 
+| Group | Sunday, 2018-08-05 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | A | Argentina ![][flag_AR] | 1 | **4** | ![][flag_AU] **Australia** | [#1](/community/matches/44784450) |
@@ -346,7 +346,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **Chile** ![][flag_CL] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
 | B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](/community/matches/44803677) |
 
-| Group | Saturday, 2018-08-11 |  |  |  |  | 
+| Group | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](/community/matches/44956962) |
 | A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](/community/matches/44957651) |
@@ -357,7 +357,7 @@ This competition has come to an end and resulted in the following podium:
 | A | United States ![][flag_US] | 2 | **4** | ![][flag_FR] **France** | [#1](/community/matches/44978315) |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
-| Group | Sunday, 2018-08-12 |  |  |  |  | 
+| Group | Sunday, 2018-08-12 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
 | C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](/community/matches/44992938) |
@@ -387,7 +387,7 @@ This competition has come to an end and resulted in the following podium:
 3. The mapset will be announced the week before a stage begins.
 4. Match schedule is decided by the organisers, which will announce schedule the same day as the mapset every week. Each stage of this tournament will last a week, and that week starts when the mapset is announced a day before, so players need to get their match in before the week is over.
 5. If both teams get a tie on the Tiebreaker, the Tiebreaker will be replayed with FreeMod applied.
-6. If a player disconnects from the game, the opponent wins the round. 
+6. If a player disconnects from the game, the opponent wins the round.
    - If the player disconnects during the first five seconds of the song, the match will be restarted.
 7. Maps cannot be used twice in the same round.
 8. If a player does not show up within **15 minutes** of the start time, the enemy wins by default.
@@ -405,7 +405,7 @@ This competition has come to an end and resulted in the following podium:
 
 1. A private lobby will be created for the match, and both teams will be invited into their match following the agreed schedule. Match will be played as **TeamVs and ScoreV2.**
 2. Each team is allowed to select one warm-up map.
-   - During Group Stage, warm-ups must not exceed 5:00 minutes. 
+   - During Group Stage, warm-ups must not exceed 5:00 minutes.
    - Offensive songs may be blocked by referees.
 3. Map selection will be done by the team who is currently losing. At the start however, it will be whoever `!roll` the highest. When the starting team is decided, both teams will select one map to ban that is not the Tiebreaker.
 4. In case of a tie, the Tiebreaker will be played.

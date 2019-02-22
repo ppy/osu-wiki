@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 date: 2016-02-06 08:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 ---
-The osu! community never ceases to break new ground in polling turnouts! Per tradition, we asked you guys what YOU thought were the greatest maps of 2015. 44,653 players from around the world responded to the call, casting a record-breaking 401,028 votes on what they thought stood out above all others in the maps ranked in 2015. No amount of words I can fit in this opening paragraph can express our gratitude to everyone who participated! 
+The osu! community never ceases to break new ground in polling turnouts! Per tradition, we asked you guys what YOU thought were the greatest maps of 2015. 44,653 players from around the world responded to the call, casting a record-breaking 401,028 votes on what they thought stood out above all others in the maps ranked in 2015. No amount of words I can fit in this opening paragraph can express our gratitude to everyone who participated!
 
 **After hearing your feedback from the best of 2014 voting, we have seperated voting by game modes!** This allowed more accurate and representitive results for all the modes in the game. As usual, players were limited to voting for songs they have actually played, so everyone has to know what they are voting for before throwing in the ballot.
 
@@ -155,7 +155,7 @@ The result of this system is that (a) maps with higher play counts do not have a
 
 **The full results are [available here](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#).**
 
-**Congratulations to Fort for having the highest voted, played, and scoring map of the contest.** No other osu!standard map could boast coming even close to a third of its players calling it top 10 material. 
+**Congratulations to Fort for having the highest voted, played, and scoring map of the contest.** No other osu!standard map could boast coming even close to a third of its players calling it top 10 material.
 
 **A special mention is warranted for [Soleily - Renatus by Gamu](https://osu.ppy.sh/s/241526).** Despite amounting a respectable 1106 votes, the MBC winner came in 2nd to last place. This can be attributed to it having over 25,000 plays out of the people that voted, so it looks like a grim fate awaited the pre-packaged maps right from the start!
 

@@ -336,7 +336,7 @@ _Humo en la configuración de atajos de teclado; mantener apretada la tecla `C` 
 _Combo de fuego_
 
 - ¡La versión anterior de osu! solia emular algunos de los elementos de la serie _ouendan_ antes de ser eliminados o remplazados.
-  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
+  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
     - Eliminado el 05 de marzo de 2013 (2013-03-05), debido a problemas de rendimiento.
 - La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin _osu! Default por peppy_, proporcionaba una copia casi idéntica de la interfaz _ouendan_.
  - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.

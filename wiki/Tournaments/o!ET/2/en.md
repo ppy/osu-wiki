@@ -194,8 +194,8 @@ The osu! European Tournament 2 is run by various community members.
 
 1. osu! European Tournament uses double-elimination elimination system and it is a 2v2 osu! gamemode tournament.
 2. osu! European Tournament features three (3) brackets:
-   - Top Bracket, in which will play teams composed of players **within** the rank **1** to **5,000** range. 
-   - Mid Bracket, in which will play teams composed of players **within** the rank **5,000** to **15,000** range. 
+   - Top Bracket, in which will play teams composed of players **within** the rank **1** to **5,000** range.
+   - Mid Bracket, in which will play teams composed of players **within** the rank **5,000** to **15,000** range.
    - Low Bracket, in which will play teams composed of players **within** the rank **15,000** to **30,000** range.
 3. There will not be a buffer zone for **any** bracket, which means the players that are not within the rank range they signed up to play in will be **disqualified**.
 4. Each team should have at least two (2) players within a bracket's range to be able to play, but they are allowed to have a third player. Needless to say, the third player must be in the same bracket range as their teammates so as to be eligible to play.

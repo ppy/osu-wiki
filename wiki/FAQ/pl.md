@@ -133,9 +133,9 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
-`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
-`W trakcie gry umiejscowienie kursora nie jest ważne.`
+`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
+`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
+`W trakcie gry umiejscowienie kursora nie jest ważne.`
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
 
@@ -151,7 +151,7 @@ Czym jest „Catch the Beat”?
 
 ### Kontrolowanie catchera
 
-`W trakcie używania moda Relax catcherem można sterować za pomocą myszy.`
+`W trakcie używania moda Relax catcherem można sterować za pomocą myszy.`
 
 -   Domyślnie poruszać można się za pomocą lewej \[&lt;-\] i prawej \[-&gt;\] strzałki na klawiaturze.
 -   Przytrzymywanie lewego klawisza \[SHIFT\] pozwala na przyśpieszenie łapacza (tzw. dash) do x1.5 szybkości (pokazywane jasną poświatą wokół postaci).

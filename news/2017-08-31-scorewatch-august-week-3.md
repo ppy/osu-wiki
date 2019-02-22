@@ -16,7 +16,7 @@ A score that was almost replicated 4 years back! [Rafis](https://osu.ppy.sh/u/25
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7TTxN6ul7ko" frameborder="0" allowfullscreen></iframe></br>
 
-[Rafis](https://osu.ppy.sh/u/2558286) continues his dominance on this article as he sets the number one score on [xi - Ascension to Heaven](https://osu.ppy.sh/b/807074) with an unfortunate 98.98% 2555x 1 miss play to snag 637pp - an FC could have been worth more than 660pp! Will this map finally be conquered soon? Maybe it might, but in the meantime, you will have to check out this insane score! 
+[Rafis](https://osu.ppy.sh/u/2558286) continues his dominance on this article as he sets the number one score on [xi - Ascension to Heaven](https://osu.ppy.sh/b/807074) with an unfortunate 98.98% 2555x 1 miss play to snag 637pp - an FC could have been worth more than 660pp! Will this map finally be conquered soon? Maybe it might, but in the meantime, you will have to check out this insane score!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zByevoMS2ck" frameborder="0" allowfullscreen></iframe></br>
 

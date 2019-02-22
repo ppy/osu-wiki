@@ -27,7 +27,7 @@ Beispiel
 In diesen Beispiel soll am Ende einer Pass Sektion eine Musikdatei abgespielt werden und spielt dann wenige Sekunden später einen Soundeffekt ab:
 
 ```
-Sample,163520,2,"Audio\Best End.mp3",80
+Sample,163520,2,"Audio\Best End.mp3",80
 Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```
 

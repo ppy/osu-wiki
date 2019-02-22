@@ -104,7 +104,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
-  - Beatmap 
+  - Beatmap
 - Tiebreaker
   - **Beatmap**
 
@@ -131,7 +131,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
-### Group Stage 
+### Group Stage
 
 ---------------------------------
 
@@ -142,9 +142,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Stage Instructions
 ### Match Instructions
 ### Mappool Instructions
-### Scheduling Instructions 
+### Scheduling Instructions
 
-<!-- 
+<!--
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->

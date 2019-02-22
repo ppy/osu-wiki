@@ -20,7 +20,7 @@ September has finally arrived and players are working hard to keep this scorewat
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gHJcOIES_4s" frameborder="0" allowfullscreen></iframe></br>
 
-[Zyph](https://osu.ppy.sh/u/1600432) proudly takes 2nd spot on [Camellia - PLANET//SHAPER](https://osu.ppy.sh/b/823842?m=3) with a brilliant 99.77% FC to claim 531pp, becoming one of only a handful of players to FC this masterpiece. 
+[Zyph](https://osu.ppy.sh/u/1600432) proudly takes 2nd spot on [Camellia - PLANET//SHAPER](https://osu.ppy.sh/b/823842?m=3) with a brilliant 99.77% FC to claim 531pp, becoming one of only a handful of players to FC this masterpiece.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6SvPtpDqcdM" frameborder="0" allowfullscreen></iframe></br>
 
@@ -30,7 +30,7 @@ BLAST FROM THE PAST
 
 [Toy](https://osu.ppy.sh/u/2757689) gets featured for this section as he tears through [Kitsune^2 - Tung, The Icelandic Lesbian](https://osu.ppy.sh/b/114295) with a crazy 96.68% HDDT FC, earning 258pp. This man has quite the control, missing only one slider end through this 240BPM 2011 map!
 
-Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6ysxim/osuarchive_22_toy_kitsune2_tung_the_icelandic/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published! 
+Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6ysxim/osuarchive_22_toy_kitsune2_tung_the_icelandic/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0gaQ15jXriU" frameborder="0" allowfullscreen></iframe></br>
 
@@ -44,7 +44,7 @@ Amidst the controversy of touchscreen plays, someone has stepped up and taken a 
 SCORESHOW WITH ZSEIKIMATSU
 -----
 
-[ExGon](https://osu.ppy.sh/u/214187) takes on fellow Korean [[224]Hyperw7](https://osu.ppy.sh/u/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/s/374606)! 
+[ExGon](https://osu.ppy.sh/u/214187) takes on fellow Korean [[224]Hyperw7](https://osu.ppy.sh/u/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/s/374606)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r5aKxRfTgw0" frameborder="0" allowfullscreen></iframe></br>
 
