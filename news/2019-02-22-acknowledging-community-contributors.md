@@ -132,7 +132,7 @@ Yes, you read that right.
 
 Never far from the fray, Kaifin's continued assistance in the day-to-day affairs of Project Loved have had an immeasurable impact on its consistency and persistence overall.
 
-The longevity of an project is built upon the backs of people like Kaifin, and we are very grateful for his continued support.
+The longevity of a project is built upon the backs of people like Kaifin, and we are very grateful for his continued support.
 
 ### The Captains of Project Loved
 
