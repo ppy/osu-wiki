@@ -68,7 +68,7 @@ Getting things done is what keeps osu! alive and moving, and there is perhaps no
 
 A formerly gigantic presence in the forum technical support team, VeilStar has been responsible for the resolution of literally *thousands* of technical issues over the years and has helped similar amounts of people enjoy osu! to its fullest.
 
-Having since departed the team and osu! in general to pursue things elsewhere, we'd like to commit just how thankful we are for his assistance over the years.
+Having since departed the team and osu! in general to pursue things elsewhere, we'd like to express just how thankful we are for his assistance over the years.
 
 ### Stefan
 
@@ -108,7 +108,7 @@ So vast and numerous are p3n's contributions over the years - from creating a ma
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/shARPII.jpg)](https://osu.ppy.sh/users/776257)
 
-Departed from the osu!team earlier in the year, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program who is now affectionately dubbed *Script-chan* by the tournaments crew.
+Departed from the osu!team since early 2018, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program which is now affectionately dubbed *Script-chan* by the tournaments crew.
 
 shARPII's passion and drive to improve upon and iterate some of the oldest remaining fixtures of the game's volunteer groups led to substantial improvements made for everybody, and we really cannot thank him enough for his time with us.
 
@@ -198,7 +198,7 @@ Once a former mentee himself under Shiirn, Mun's efforts have spanned across doz
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/J1nx1337.jpg)](https://osu.ppy.sh/users/3971179)
 
-Responsible for handling much of the busywork deluge that often accompanies managing a project of such size and consistency, J1NX1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
+Responsible for handling much of the busywork that often accompanies managing a project of such size and consistency, J1NX1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
 
 -------------
 
