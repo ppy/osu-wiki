@@ -74,7 +74,7 @@ Having since departed the team and osu! in general to pursue things elsewhere, w
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/Stefan.jpg)](https://osu.ppy.sh/users/626907)
 
-The very picture of an unsung hero, Stefan has single-handedly maintained the [beatmap packs](https://osu.ppy.sh/beatmaps/packs) by himself for years regularly and consistently, completely without prompting and entirely out of a drive to keep the project alive.
+The very picture of an unsung hero, Stefan has single-handedly maintained the [beatmap packs](https://osu.ppy.sh/beatmaps/packs) by himself for years regularly and consistently, completely without being prompted and entirely out of a drive to keep the project alive.
 
 Thousands of users have Stefan to thank for their regular bundle of fresh maps to play, and we're extremely thankful for his incredible dedication and persistence.
 
