@@ -1,11 +1,11 @@
 # Timelines
 
-In the [beatmap editor](/wiki/beatmap_editor), there are three different timelines that a mapper may encounter.
+In the [beatmap editor](/wiki/Beatmap_Editor), there are three different timelines that a mapper may encounter.
 This article will explain how each of them function.
 
 ## Shortcuts
 
-*For a list of keyboard shortcuts for the timeline, see: [Shortcut Key Reference](/wiki/Shortcut_Key_Reference/#general)*
+*For a list of keyboard shortcuts for the timeline, see: [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)*
 
 ## Song Player
 
@@ -42,7 +42,7 @@ There are two different kinds of hit objects timelines depending on which game m
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-In [compose](/wiki/compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](wiki/osu!mania).
+In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_Modes/osu!mania).
 
 | Name | Description |
 | ---- | ----------- |
@@ -80,7 +80,7 @@ The playfield is made up of two parts: lines and notes.
 
 ![Storyboard Timeline](/wiki/shared/SE_STM.jpg "This shows the timeline for transformations of the selected sprite.")
 
-The [design](/wiki/design) timeline is located underneath the `Design` tab.
+The [design](/wiki/Design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
