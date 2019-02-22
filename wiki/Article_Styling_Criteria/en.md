@@ -465,33 +465,26 @@ Do not: [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 Do:     [osu! on the web](https://osu.ppy.sh/home)
 ```
 
-#### Internal
+#### Internal links
 
-Internal links are the links linking within the website.
+*Note: Internal links refers to links that stay inside the `https://osu.ppy.sh/` domain.*
 
 ##### Wiki links
 
-All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. For example:
+All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. Some examples include:
 
 ```md
 [Welcome](/wiki/Welcome)
+[pippi](/wiki/Mascots#-pippi)
 ```
 
-You could use a redirect to shorten a link a bit further. For example:
+---
 
-```md
-[BN](/wiki/BN)
-```
+Do not use redirects for wiki links.
 
 ##### Other osu! web pages
 
-You can use the URL from the address bar of your browser and, optionally, omit the first part of the URL `https://osu.ppy.sh`. For example:
-
-- `https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open` can be `/home/news/2018-01-10-MWC7K-2018-registrations-open`
-- `https://osu.ppy.sh/beatmapsets/709030` can be `/beatmapsets/709030`
-- `https://osu.ppy.sh/beatmaps/1498916` can be `/beatmaps/1498916`
-- `https://osu.ppy.sh/community/forums/topics/601062` can be `/community/forums/topics/601062`
-- `https://osu.ppy.sh/users/2` can be `/users/2`
+You can use the URL from the address bar of your browser. Keep the `https://osu.ppy.sh` part of the URL.
 
 ##### User profiles
 
@@ -502,8 +495,7 @@ When linking to a user profile, you must use the user's id number instead of the
 ```md
 Do not:
 [osuplayer111](https://osu.ppy.sh/users/osuplayer111 "Andrea")
-[Agent Spin Here](/users/Agent%20Spin%20Here)
-[peppy](/users/peppy)
+[Agent Spin Here](https://osu.ppy.sh/users/Agent%20Spin%20Here)
 
 Do (okay):
 [osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")
@@ -512,7 +504,6 @@ Do (okay):
 Do (preferred):
 [Andrea](https://osu.ppy.sh/users/33599)
 [Mashley](https://osu.ppy.sh/users/41481)
-[peppy](/users/2)
 ```
 
 Whenever possible, with exception, use the current user's name instead of their previous name(s).
@@ -546,7 +537,7 @@ Whenever linking to a beatmapset, use this format as the link text:
 
 All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/{BeatmapSetID}`.
 
-#### External
+#### External links
 
 *Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
