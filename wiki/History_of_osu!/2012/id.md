@@ -18,9 +18,9 @@ Tautan terkait:
 
 ![](img/2012-10_02.jpg "Hitsound per-objek seperti yang terlihat di sebelah kiri editor")
 
-Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](/users/1105845))! Selain itu:
+Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](https://osu.ppy.sh/users/1105845))! Selain itu:
 
--   Hitsound per objek ditambahkan ke dalam editor. ([mm201](/users/30655))
+-   Hitsound per objek ditambahkan ke dalam editor. ([mm201](https://osu.ppy.sh/users/30655))
 -   Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/SD) atau [Perfect](/wiki/PF) diaktifkan)
 -   Dukungan scrolling ke daftar peringkat online dalam game.
 -   Perbaikan pada [pemilih skin](/wiki/Options#skin) untuk membuatnya bermain lebih realistis.

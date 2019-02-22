@@ -1,10 +1,10 @@
 # Willst du wirklich peppy fragen?
 
-Hallo. Ich, [peppy](/users/2), verstehe deinen Drang mich persönlich zu kontaktieren, aber ich bitte dich zuerst zu verstehen, dass das **nicht** der Ort ist, an dem du mich um Hilfe/Unterstützung fragen solltest. Ich halte osu! Support und persönliche Nachrichten voneinander getrennt und finde auch, dass das Antworten auf private Forum-PNs ziemlich schwer zu halten ist. Ich bitte dich daher eine der folgenden Möglichkeiten zu wählen:
+Hallo. Ich, [peppy](https://osu.ppy.sh/users/2), verstehe deinen Drang mich persönlich zu kontaktieren, aber ich bitte dich zuerst zu verstehen, dass das **nicht** der Ort ist, an dem du mich um Hilfe/Unterstützung fragen solltest. Ich halte osu! Support und persönliche Nachrichten voneinander getrennt und finde auch, dass das Antworten auf private Forum-PNs ziemlich schwer zu halten ist. Ich bitte dich daher eine der folgenden Möglichkeiten zu wählen:
 
 ## Technischer Support
 
-Die meisten der technischen Probleme können durch das Suchen oder Posten im [Tech-Support-Forum](/community/forums/5) gelöst werden. Dort gibt es einige bereitschaftige Leute, die dir helfen würden - was natürlich schneller wäre als mich direkt zu kontaktieren.
+Die meisten der technischen Probleme können durch das Suchen oder Posten im [Tech-Support-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden. Dort gibt es einige bereitschaftige Leute, die dir helfen würden - was natürlich schneller wäre als mich direkt zu kontaktieren.
 
 ## Allgemeiner osu! Support
 

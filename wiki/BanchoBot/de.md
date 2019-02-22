@@ -5,7 +5,7 @@ outdated: true
 
 ![BanchoBots Benutzerpanel.](img/BanchoBot.jpg "BanchoBots Benutzerpanel.")
 
-BanchoBot ist ein Bot (d.h. er führt eine Liste an Befehlen aus und antwortet mit einem Ergebnis), der von **Echo49** entwickelt wurde. Er hilft Spielern im Chat, indem er nützliche Informationen anzeigt und wichtige spielbezogene Nachrichten verkündet. Er ist der [Host](https://de.wikipedia.org/wiki/Hostrechner) des [bancho irc](/wiki/Internet_Relay_Chat) und hat ein Nutzerprofil mit der ID [3](/users/3) (neben peppy mit der ID [2](/users/2)). _Außerdem hat er ein eigenes [Twitterprofil](https://twitter.com/banchoboat)!_
+BanchoBot ist ein Bot (d.h. er führt eine Liste an Befehlen aus und antwortet mit einem Ergebnis), der von **Echo49** entwickelt wurde. Er hilft Spielern im Chat, indem er nützliche Informationen anzeigt und wichtige spielbezogene Nachrichten verkündet. Er ist der [Host](https://de.wikipedia.org/wiki/Hostrechner) des [bancho irc](/wiki/Internet_Relay_Chat) und hat ein Nutzerprofil mit der ID [3](https://osu.ppy.sh/users/3) (neben peppy mit der ID [2](https://osu.ppy.sh/users/2)). _Außerdem hat er ein eigenes [Twitterprofil](https://twitter.com/banchoboat)!_
 
 ## BanchoBots Befehle
 

@@ -1,6 +1,6 @@
 # 2007
 
-The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](/users/5530) for helping in compiling the 2007/2008 content.
+The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](https://osu.ppy.sh/users/5530) for helping in compiling the 2007/2008 content.
 
 ![](img/2007.jpg)
 

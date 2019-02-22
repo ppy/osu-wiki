@@ -1,6 +1,6 @@
 # Bagaimana Anda dapat membantu!
 
-_Sebelumnya ini adalah kiriman yang [peppy](/users/2 "peppy") buat beberapa waktu lalu dan diminta untuk menjadikannya sebuah artikel di sini. Anda dapat melihat kiriman aslinya [di sini](/community/forums/topics/83155)._
+_Sebelumnya ini adalah kiriman yang [peppy](https://osu.ppy.sh/users/2 "peppy") buat beberapa waktu lalu dan diminta untuk menjadikannya sebuah artikel di sini. Anda dapat melihat kiriman aslinya [di sini](https://osu.ppy.sh/community/forums/topics/83155)._
 
 Saya sudah lama ingin memposting hal ini untuk sementara, tetapi selalu tertunda di saat Saya menyiapkan segala sesuatunya di situs web dan di kepala saya. Seperti yang mungkin Anda sadari, komunitas osu! beserta ekosistemnya telah tumbuh stabil, tetapi tim pengembang belum tumbuh dalam ukuran sama sekali. Saya yakin dengan komunitas sebesar ini, pasti banyak bakat tersembunyi di luar sana, jadi tujuan kiriman ini adalah untuk menjangkau dan memberi tahu Anda semua bahwa kami selalu mencari bantuan dan masukan, serta menguraikan situasi saat ini di mana Anda dapat langsung terjun dan membantu!
 
@@ -35,7 +35,7 @@ Setiap hari saya mencoba untuk mengurus pertanyaan-pertanyaan dukungan teknis ya
 
 ### Dimulai dari mana:
 
--   Pilih sebuah forum: [Technical Support](/community/forums/5), [Beatmapping Help](/community/forums/56), [Storyboarding](/community/forums/20) atau [Gameplay and Rankings](/community/forums/13) berdasarkan apa yang Anda anggap paling menarik.
+-   Pilih sebuah forum: [Technical Support](https://osu.ppy.sh/community/forums/5), [Beatmapping Help](https://osu.ppy.sh/community/forums/56), [Storyboarding](https://osu.ppy.sh/community/forums/20) atau [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13) berdasarkan apa yang Anda anggap paling menarik.
 -   Tandai forum sebagai telah dibaca menggunakan tautan di kanan atas.
 -   Ikuti setiap ada kiriman baru, baca satu per satu dan bantu jika Anda bisa. Anda dapat menggunakan ikon yang belum dibaca untuk memastikan Anda mengikuti!
 -   Baca [panduan yang tersedia](/wiki/List_of_Guides "Daftar Panduan") dan pertajam pengetahuan osu! Anda. Kalau bisa, berkontribusi pada panduan tersebut!
@@ -51,7 +51,7 @@ Meskipun kami telah mengatur tim yang menangani proses persetujuan beatmap, tida
 -   Baca [Panduan Modding](/wiki/Modding "Modding") dan pelajari dasar-dasar modding yang lebih teknis.
 -   Baca [Kriteria Ranking](/wiki/Ranking_Criteria "Kriteria Ranking") dan kenali apa yang membuat sebuah beatmap dapat berstatus Ranked.
 -   Gabung channel `#modhelp` dan `modreqs` di obrolan dalam game dan bergabunglah dalam percakapan (atau ikuti saja).
--   Jika Anda memiliki waktu dan dedikasi, buatlah kiriman di forum [Modding Queue](/community/forums/topics/60) dan buat orang berdatangan kepada Anda dengan permintaan.
+-   Jika Anda memiliki waktu dan dedikasi, buatlah kiriman di forum [Modding Queue](https://osu.ppy.sh/community/forums/topics/60) dan buat orang berdatangan kepada Anda dengan permintaan.
 
 ## Bergabunglah dengan beberapa proyek yang dikelola pengguna dan berkontribusi untuk mewujudkannya (atau menjadikannya lebih baik jika sudah aktif dan berjalan)!
 
@@ -59,11 +59,11 @@ Ada beberapa proposal atau proyek yang sedang dikerjakan, termasuk turnamen, pro
 
 ### Dimulai dari mana:
 
--   Telusuri forum [Tournaments](/community/forums/55). Turnamen membutuhkan banyak sumber daya manusia untuk mengatur dan mewujudkannya tanpa hambatan, dan Anda dapat membantu dengan hanya duduk sebagai juri untuk pertandingan dalam waktu tertentu.
--   Periksa apa yang sedang terjadi di forum [General Development](/community/forums/2). Forum ini adalah forum dengan aktivitas rendah di mana [proyek](/community/forums/topics/80027) yang lebih [serius](/community/forums/topics/58855) [terjadi](/community/forums/topics/79354).
--   Bergabunglah dengan [proyek beatmap](/community/forums/53) dan pelajari betapa menyenangkannya berkolaborasi dengan orang lain!
+-   Telusuri forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen membutuhkan banyak sumber daya manusia untuk mengatur dan mewujudkannya tanpa hambatan, dan Anda dapat membantu dengan hanya duduk sebagai juri untuk pertandingan dalam waktu tertentu.
+-   Periksa apa yang sedang terjadi di forum [General Development](https://osu.ppy.sh/community/forums/2). Forum ini adalah forum dengan aktivitas rendah di mana [proyek](https://osu.ppy.sh/community/forums/topics/80027) yang lebih [serius](https://osu.ppy.sh/community/forums/topics/58855) [terjadi](https://osu.ppy.sh/community/forums/topics/79354).
+-   Bergabunglah dengan [proyek beatmap](https://osu.ppy.sh/community/forums/53) dan pelajari betapa menyenangkannya berkolaborasi dengan orang lain!
 -   Mulai proyek Anda sendiri! Jika Anda memiliki ide yang keren, maka cobalah. Jika Anda membutuhkan masukan dari saya, jangan ragu untuk bertanya (meskipun saya lebih suka membantu ketika saya tidak perlu banyak waktu untuk menjawabnya).
--   Hidupkan kembali [osu!monthly](/community/forums/topics/75017), saya merindukannya :(.
+-   Hidupkan kembali [osu!monthly](https://osu.ppy.sh/community/forums/topics/75017), saya merindukannya :(.
 
 dan yang terakhir, tetapi tidak terlewatkan:
 

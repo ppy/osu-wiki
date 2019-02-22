@@ -11,7 +11,7 @@ This page will roughly tell you how to get osu! working on your Windows device. 
 
 ## Installing osu!
 
-1.  Go to the [download page](/home/download) and download the installer.
+1.  Go to the [download page](https://osu.ppy.sh/home/download) and download the installer.
 2.  Locate and run the installer.
 3.  While the installer is running, there is a ten second period to allow you to select the installation location.
     -   If you want to change it, click on the text underneath the word, "Hi!" and select the installation location.
@@ -29,7 +29,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ### Website
 
-1.  Go to the [beatmap listing page](/beatmapsets) and sign in to the website.
+1.  Go to the [beatmap listing page](https://osu.ppy.sh/beatmapsets) and sign in to the website.
 2.  Find a song you like to play.
 3.  Click on the download icon to save the beatmapset on your computer.
 4.  Locate and open the beatmapset file, it has an `.osz` extension.
@@ -52,7 +52,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 *See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
 
-1.  Go to the [skinning subforums](/community/forums/15) and find a skin you like.
+1.  Go to the [skinning subforums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
 2.  Once you find a skin, download it.
 3.  Depending on how the skinner has packaged their skin, you may need to do different things.
     -   If the skin is using `.osk`:

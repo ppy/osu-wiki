@@ -13,6 +13,6 @@ Honourable mentions go to [Cherry Blossom](https://osu.ppy.sh/users/1156742) and
 
 Play the winning beatmap [here](https://osu.ppy.sh/beatmapsets/151878), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=9).
 
-Will you be the next Elite Mapper of our Monthly Beatmapping Contests? Test your mapping skills in the next MBC - [submissions are still open](/home/news/2014-02-14-monthly-beatmapping-contest-4-submissions-now) until mid-March!
+Will you be the next Elite Mapper of our Monthly Beatmapping Contests? Test your mapping skills in the next MBC - [submissions are still open](https://osu.ppy.sh/home/news/2014-02-14-monthly-beatmapping-contest-4-submissions-now) until mid-March!
 
 —Ephemeral

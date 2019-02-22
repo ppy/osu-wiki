@@ -49,7 +49,7 @@ Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) te
 
 Status ini akan memberikan leaderboard pada beatmap
 
-Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your beatmap Loved!](/community/forums/topics/549835).
+Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
 
 ### Pending
 

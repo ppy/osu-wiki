@@ -39,4 +39,4 @@ This is perfectly normal and more misleading on Discord's part than anything els
 
 ## Trivia
 
--   Original forum post: [Discord RPC - join multiplayer (and more) from Discord!](/community/forums/topics/659856) by [Ephemeral](/users/102335)
+-   Original forum post: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh/community/forums/topics/659856) by [Ephemeral](https://osu.ppy.sh/users/102335)

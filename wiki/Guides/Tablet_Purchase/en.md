@@ -75,4 +75,4 @@ These are only suggestions, however, there are certainly other brands out there 
 
 ## Trivia
 
-- Original forum post: [Tablet Purchase Guide for osu!](/community/forums/topics/71895) by [Daru](/users/32480)
+- Original forum post: [Tablet Purchase Guide for osu!](https://osu.ppy.sh/community/forums/topics/71895) by [Daru](https://osu.ppy.sh/users/32480)

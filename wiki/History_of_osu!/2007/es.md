@@ -2,7 +2,7 @@
 
 *Página principal: [Historia de osu!](/wiki/HOO).*
 
-Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](/users/5530) por ayudar a reunir el contenido de 2007/2008.
+Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
 ![](img/2007.jpg)
 
 ## Julio
