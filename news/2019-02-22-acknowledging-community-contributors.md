@@ -206,4 +206,4 @@ Unlike many other game projects on the web, much of what drives osu! originates 
 
 And we hope to see the trend continue well into our second decade of clicking circles, beating drums, catching fruit and smashing keys!
 
-—Ephemeral
+—osu!team
