@@ -10,7 +10,7 @@ At its very heart, osu! is almost entirely driven by its community. And at the h
 
 Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) is expressly granted to those of the osu! community who have gone utterly above and beyond the norm in their enduring contribution to the well-being of the game and its community.
 
-In a first for many years, we are proud to announce the latest set of community contributors in what is the largest number of additions made since the initiative started back in 2013.
+We are proud to announce the latest set of community contributors in what is the largest number of additions made since the initiative started back in 2013.
 
 Please note, however: this list is by no means exhaustive, and only represents the acknowledgement of continued, consistent contribution across a long period of time as observed and noted by the osu!team.
 
@@ -20,7 +20,9 @@ Please note, however: this list is by no means exhaustive, and only represents t
 
 [![](/wiki/shared/news/2019-02-22-acknowledging-community-contributors/people/ekr.jpg)](https://osu.ppy.sh/users/4497706)
 
-Responsible for enormous contributions to the osu!lazer project, ekr's efforts have blazed a trail for the literal future of osu! and have earned them the unbridled respect of the development team.
+Responsible for considerable contributions to the osu!lazer project, ekr's efforts have focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
+
+Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
 
 ## Community
 
