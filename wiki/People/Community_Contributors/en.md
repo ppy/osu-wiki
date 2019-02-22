@@ -105,7 +105,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
-## 2019
+## 2018
 
 *Also see the announcement post: [Acknowledging Community Contributors](https://osu.ppy.sh/home/news/2019-02-22-acknowledging-community-contributors).*
 
