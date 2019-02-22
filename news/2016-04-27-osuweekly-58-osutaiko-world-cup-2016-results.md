@@ -19,7 +19,7 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 ![](https://puu.sh/oxp6F/dd8de2cc49.png)
 <p style="text-align:center;"><i>Hopefully, we'll start seeing more people in the purple soon ;)</i></p>
 
-**It would seem the speed of which we are progressing has [caught flyte off-guard](https://next.ppy.sh/post/143203562533/its-friday-the-latest-new-thing-that-i-designed#disqus_thread)!** In case you missed the previous issue with the nice (completely real) achievement graphic, new achievements and medal animations have been added into the game. We also have a couple of new original art popping up on the live preview on the new website over at [new.ppy.sh](https://osu.ppy.sh/forum), so be sure to check it out!
+**It would seem the speed of which we are progressing has [caught flyte off-guard](https://next.ppy.sh/post/143203562533/its-friday-the-latest-new-thing-that-i-designed#disqus_thread)!** In case you missed the previous issue with the nice (completely real) achievement graphic, new achievements and medal animations have been added into the game. We also have a couple of new original art popping up on the live preview on the new website over at [new.ppy.sh](https://osu.ppy.sh/community/forums), so be sure to check it out!
 
 **Peppy FINALLY has a new [blog post](https://blog.ppy.sh/post/143095966363/wallpaper-pack-vol-1) for us!** While his updates on the progress of the inner workings of the game have been sorely missed, he assured us that he is working as hard as ever to bring us the updates that will help modernize our game. While we're waiting though, you can check out some of the photos he posted over on his [instagram](https://www.instagram.com/__ppy/) showing off his photography skills!
 
