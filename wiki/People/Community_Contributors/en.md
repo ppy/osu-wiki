@@ -113,7 +113,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 |---|---|
 | [HappyStick](https://osu.ppy.sh/users/256802) | World Cup organisation & osu! Coffee Hour host |
 | [juankristal](https://osu.ppy.sh/users/443656) | Outstanding contribution to World Cup organisation and tournaments |
-| [WalterToro](https://osu.ppy.sh/users/5281416) | Outstanding contribution as a memeber of the GMT and osu! wiki team |
+| [WalterToro](https://osu.ppy.sh/users/5281416) | Outstanding contribution as a member of the GMT and osu! wiki team |
 | [clayton](https://osu.ppy.sh/users/3666350) | Outstanding contribution across many projects and domains |
 | [VeilStar](https://osu.ppy.sh/users/4255720) | Outstanding work in player support and problem resolution |
 | [Stefan](https://osu.ppy.sh/users/626907) | Beatmap Packs project maintainer extraordinaire |
