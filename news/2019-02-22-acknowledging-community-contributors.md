@@ -34,7 +34,7 @@ All but leaving behind a successful streaming career and tournament series of hi
 
 Beyond his award-winning smile, HappyStick has proven himself to be an invaluable addition to the osu!team, heading the new osu! Coffee Hour series, generally spending many sleepless nights setting up and streaming World Cup matches, creating tools to ensure that it is easier for others to run them, and so much more.
 
-We could say many things about HappyStick, but foremost among them is how thankful we are for his continued contribution.
+We could say many more things about HappyStick, but foremost among them is how thankful we are for his continued contribution.
 
 ### juankristal
 
