@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/g/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
+**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/groups/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
 
 比赛日程
 ---------

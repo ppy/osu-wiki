@@ -6,7 +6,7 @@ osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
-El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](https://osu.ppy.sh/g/26). Esta es la 5ª temporada de osu! World Cup.
+El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](https://osu.ppy.sh/groups/26). Esta es la 5ª temporada de osu! World Cup.
 
 El anterior poseedor del título es **![][flag_KR] Corea del Sur**.
 

@@ -6,7 +6,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-Das osu! World Cup 2013 ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Das Turnier fand vom 15. Okt. 2013 bis zum 08. Dez. 2013 statt.
+Das osu! World Cup 2013 ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Das Turnier fand vom 15. Okt. 2013 bis zum 08. Dez. 2013 statt.
 
 Der vorherige Titelträger ist **![][flag_KR] Südkorea**.
 

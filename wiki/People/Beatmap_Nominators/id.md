@@ -19,7 +19,7 @@ Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) t
 Menjadi seorang Beatmap Nominator
 ----------------------------
 
-Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/g/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam rentang waktu 1 atau 2 bulan.
+Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/groups/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/forum/6) dalam rentang waktu 1 atau 2 bulan.
 
 ### Kriteria Dasar
 

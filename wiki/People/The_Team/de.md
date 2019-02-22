@@ -53,9 +53,9 @@ Benutzergruppen
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
-| [Entwickler](https://osu.ppy.sh/g/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
+| [Entwickler](https://osu.ppy.sh/groups/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |
 | [osu! alumni](/wiki/People/osu!_Alumni) | Ehemalige, die für ihre Beiträge bekannt sind, seitdem sie inaktiv sind |
 | [Support Team Redux](/wiki/People/Support_Team) | Assistenten für den Technischen Support und die Vorschläge für neue Inhalte |
-| [osu!nachichten](https://osu.ppy.sh/g/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
-| [Turnierleitung](https://osu.ppy.sh/g/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |
+| [osu!nachichten](https://osu.ppy.sh/groups/25) | Versorgen euch seit 2013 mit qualitativen Lesematerial |
+| [Turnierleitung](https://osu.ppy.sh/groups/26) | Sind für den Ablauf der offiziellen osu!Turniere in allen Modi verantwortlich. |
 | [Qualität Bestätigungs Team](/wiki/People/Quality_Assurance_Team) | Wir helfen dir Freude an osu! zu haben, beginnend mit der Sicherung der Qualität von Beatmaps |

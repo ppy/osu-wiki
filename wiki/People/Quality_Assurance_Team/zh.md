@@ -31,4 +31,4 @@ Quality Assurance Team
 | [OnosakiHito](https://osu.ppy.sh/u/290128)        | ![No][false] | ![Yes][true] | ![No][false] | ![No][false] | 德语, 塞尔维亚语, 日语  |
 | [pishifat](https://osu.ppy.sh/u/3178418)          | ![Yes][true] | ![No][false] | ![No][false] | ![No][false] |                |
 
-小提示：所有 QAT 都能够熟练的使用英文进行交流，特别说明的除外。 [当前在任的 QAT 成员可以在这里看到](https://osu.ppy.sh/g/7)
+小提示：所有 QAT 都能够熟练的使用英文进行交流，特别说明的除外。 [当前在任的 QAT 成员可以在这里看到](https://osu.ppy.sh/groups/7)

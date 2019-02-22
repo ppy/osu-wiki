@@ -16,7 +16,7 @@ Członkowie tej grupy awansują z grupy [BNów](/wiki/People/Beatmap_Nomination_
 Członkowie zespołu
 ------------------
 
-[Strona grupy](https://osu.ppy.sh/g/7)
+[Strona grupy](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Dodatkowe języki                            |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|---------------------------------------------|

@@ -9,7 +9,7 @@ osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 logo](logo.png)
 
-La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![][flag_CL] Chile**.
+La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![][flag_CL] Chile**.
 
 La competición ha concluido con el siguiente podio:
 

@@ -16,7 +16,7 @@ Für mögliche Mitglieder dieses Teams kommen nur [BATs](/wiki/People/Beatmap_No
 Teammitglieder
 --------------
 
-[Team-Seite](https://osu.ppy.sh/g/7)
+[Team-Seite](https://osu.ppy.sh/groups/7)
 
 | Name                                              | osu!         | osu!taiko    | osu!catch    | osu!mania    | Zusätzlich gesprochene Sprachen              |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------------------------|

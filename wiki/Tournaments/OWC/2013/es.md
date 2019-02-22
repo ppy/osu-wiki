@@ -6,7 +6,7 @@ osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![][flag_KR] Corea del Sur**.
+La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![][flag_KR] Corea del Sur**.
 
 | Placing                                                    | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|

@@ -3,7 +3,7 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![][flag_JP] 日本**です。
+**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/groups/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![][flag_JP] 日本**です。
 
 トーナメント日程
 ---------------------

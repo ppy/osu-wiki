@@ -8,7 +8,7 @@ osu! Taiko World Cup 2014
 
 ![TWC 2014 logo](logo.png)
 
-The **osu! Taiko World Cup 2014** (***TWC 2014***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![][flag_TW] Taiwan**.
+The **osu! Taiko World Cup 2014** (***TWC 2014***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/groups/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![][flag_TW] Taiwan**.
 
 This competition has come to an end and resulted in the following podium:
 

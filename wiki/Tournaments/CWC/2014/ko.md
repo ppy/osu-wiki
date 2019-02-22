@@ -9,7 +9,7 @@ osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 logo](logo.png)
 
-**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )은 [토너먼트 운영진](https://osu.ppy.sh/g/26)이 주최하는 국가대항 Catch the Beat 대회입니다. 이전 대회의 챔피언은 **![][flag_CL] 칠레** 입니다.
+**osu! Catch the Beat World Cup 2014** (***CWC 2014*** )은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이 주최하는 국가대항 Catch the Beat 대회입니다. 이전 대회의 챔피언은 **![][flag_CL] 칠레** 입니다.
 
 대회일정
 --------

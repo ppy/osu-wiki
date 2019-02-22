@@ -10,7 +10,7 @@ Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://o
 Copas do Mundo Oficiais
 ----------------------
 
-Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/g/26).
+Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/groups/26).
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 

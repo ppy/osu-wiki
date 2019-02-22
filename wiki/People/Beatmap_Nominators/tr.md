@@ -24,7 +24,7 @@ Bir BN olmak
 ----------------------------
 
 Takıma 22 Ağustos 2014'te yapılan değişiklikle, Beatmap Aday Gösterme Grubuna katılmak eskisine kıyasla çok daha kolay.
-[Kalite Kontrol Takımı (QAT)](https://osu.ppy.sh/g/7) [Pending Beatmaps Altforumuna](https://osu.ppy.sh/forum/6) düzensiz aralıklarla BN kayıtları için duyuru başlıkları açarlar.
+[Kalite Kontrol Takımı (QAT)](https://osu.ppy.sh/groups/7) [Pending Beatmaps Altforumuna](https://osu.ppy.sh/forum/6) düzensiz aralıklarla BN kayıtları için duyuru başlıkları açarlar.
 
 ### Temel Kriterler
 BNG'ye katılmak isteyen bir modder:
@@ -57,7 +57,7 @@ BNG'ye katılmak isteyen bir modder:
 Takım Üyeleri
 ------------
 
-_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/g/28).
+_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/groups/28).
 
 Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandığını göstermekle beraber, o oyun modu ile sınırlı kalmaz.
 

@@ -53,9 +53,9 @@ Anggota grup
 | ---- | ----------- |
 | [Tim Moderasi Global](/wiki/People/Global_Moderation_Team) | Mengawasi forum dan percakapan dalam permainan |
 | [Grup Penominasi Beatmap](/wiki/People/Beatmap_Nomination_Group) | Membantu Anda dalam meningkatkan beatmap Anda |
-| [Developer](https://osu.ppy.sh/g/11) | Membuat permainan menjadi keren dengan menambahkan fitur baru dan memperbaiki bug |
+| [Developer](https://osu.ppy.sh/groups/11) | Membuat permainan menjadi keren dengan menambahkan fitur baru dan memperbaiki bug |
 | [alumni osu!](/wiki/People/osu!_Alumni) | Orang-orang yang dikenal atas kontribusi mereka setelah pindah |
 | [Tim Pendukung Zaman Dulu](/wiki/People/Support_Team) | Dukungan Teknis/Bantuan Permintaan Fitur |
-| [Berita osu!](https://osu.ppy.sh/g/25) | Menyediakan Anda dengan kualitas bacaan sejak 2013 |
-| [Karyawan Turnamen](https://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [Berita osu!](https://osu.ppy.sh/groups/25) | Menyediakan Anda dengan kualitas bacaan sejak 2013 |
+| [Karyawan Turnamen](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Tim Penjamin Asuransi](/wiki/People/Quality_Assurance_Team) | Kami membantu Anda menikmati osu!, mulai dari menjamin kualitas beatmap. |

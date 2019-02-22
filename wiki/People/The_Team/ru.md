@@ -53,9 +53,9 @@ outdated: true
 | ---- | ----------- |
 | [Глобальные модераторы (GMT)](/wiki/People/Global_Moderation_Team) | Наблюдение за форумами и игровым чатом |
 | [Номинаторы карт (BNG)](/wiki/People/Beatmap_Nomination_Group) | Те, кто номинирует карты и днём и ночью |
-| [Разработчики](https://osu.ppy.sh/g/11) | Реализация нововведений, исправление багов |
+| [Разработчики](https://osu.ppy.sh/groups/11) | Реализация нововведений, исправление багов |
 | [osu!alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Техподдержка](/wiki/People/Support_Team) | Помощь в разделах Help и Feature Requests |
-| [osu!news](https://osu.ppy.sh/g/25) | Качественные статьи с 2013 года |
-| [Турнирный персонал](https://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/groups/25) | Качественные статьи с 2013 года |
+| [Турнирный персонал](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Контроль качества (QAT)](/wiki/People/Quality_Assurance_Team) | Контроль качества ранкнутых карт |

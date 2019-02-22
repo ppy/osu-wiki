@@ -3,7 +3,7 @@ osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Es ist der 6. osu! World Cup.
 
 Turnierzeitplan
 ---------------

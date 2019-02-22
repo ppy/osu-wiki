@@ -53,9 +53,9 @@ User Groups
 | ---- | ----------- |
 | [Équipe de modération globale](/wiki/People/Global_Moderation_Team) | Gardent un œil sur le Chat et le Forum. |
 | [Groupe de Nomination des Beatmaps](/wiki/People/Beatmap_Nomination_Group) | Contrôlent la qualité des Beatmaps certifiées "Qualified". |
-| [Développeurs](https://osu.ppy.sh/g/11) | Rendent le jeu incroyable en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
-| [osu! alumni](https://osu.ppy.sh/g/25) | Connus pour leurs nombreuses contributions. |
+| [Développeurs](https://osu.ppy.sh/groups/11) | Rendent le jeu incroyable en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
+| [osu! alumni](https://osu.ppy.sh/groups/25) | Connus pour leurs nombreuses contributions. |
 | [Equipe de Support](/wiki/People/Support_Team) | Responsables du support technique et des demandes de fonctionnalités. |
-| [osu!news](https://osu.ppy.sh/g/25) | Vous donne à lire du contenu de qualité depuis 2013. |
-| [Gérants des tournois](https://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/groups/25) | Vous donne à lire du contenu de qualité depuis 2013. |
+| [Gérants des tournois](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Équipe de Certification de Qualité des Beatmaps](/wiki/People/Quality_Assurance_Team) | On vous aide à vous amuser sur osu!, en commencant par assurer la qualité des Beatmaps. |

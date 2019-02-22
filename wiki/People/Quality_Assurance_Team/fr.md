@@ -13,7 +13,7 @@ Ils possèdent aussi des droits de modération dans les canaux de discussion et 
 Membres de l'équipe
 -------------------
 
-[Lien vers le groupe](https://osu.ppy.sh/g/7)
+[Lien vers le groupe](https://osu.ppy.sh/groups/7)
 
 | Nom                                               | osu!         | osu!taiko    | osu!catch    | osu!mania    | Langues parlées                      |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|--------------------------------------|

@@ -16,7 +16,7 @@ Membros desse time serão promovidos do [BN](/wiki/People/Beatmap_Nomination_Gro
 Membros da equipe
 -----------------
 
-[Página da Equipe](https://osu.ppy.sh/g/7)
+[Página da Equipe](https://osu.ppy.sh/groups/7)
 
 | Nomes                                             | osu!         | osu!taiko    | osu!catch    | osu!mania    | Idiomas adicionais         |
 |---------------------------------------------------|:------------:|:------------:|:------------:|:------------:|----------------------------|
