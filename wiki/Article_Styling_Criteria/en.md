@@ -215,7 +215,7 @@ Skinning allows anyone to change the way osu! looks and feels. This can be as sm
 
 And both will look like this:
 
-![](img/soft-breaks.png "Although the text is in two sepatate lines, it is parsed as a single paragraph.")
+![](img/soft-breaks.png "Although the text is in two separate lines, it is parsed as a single paragraph.")
 
 #### Line breaks
 
@@ -347,9 +347,9 @@ For English article titles, if the article's title needs to be renamed, the fold
 
 #### Sections
 
-All section headings must use levels 2 to 5, never level 6. Section headings must use sentence case and must not contain formatting nor links. In addition to this, section headings must not skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The section heading after the title heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
+All section headings must use levels 2 to 5. Section headings must use sentence case and must not contain formatting nor links. In addition to this, section headings must not skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The section heading after the title heading must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
-In the osu! wiki, heading levels 4 to 6 do not appear in the table of contents and are not given the id attribute (these cannot be linked directly).
+In the osu! wiki, heading levels 4 and 5 do not appear in the table of contents and are not given the id attribute (these cannot be linked directly).
 
 ### Lists
 
@@ -385,7 +385,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 When doing this, use capital letters for single characters and title case for modifiers. Denoting the letter itself, not the keyboard key, should not be in code (it should use quotes). For example:
 
 ```md
-pippi is spelt with a lower case "P" like peppy.
+pippi is spelt with a lowercase "P" like peppy.
 
 Press `Ctrl` + `O` to open the open dialog.
 ```
@@ -470,7 +470,7 @@ Do:     [osu! on the web](https://osu.ppy.sh/home)
 
 #### Internal links
 
-*Note: Internal links refers to links that stay inside the `https://osu.ppy.sh/` domain.*
+*Note: Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain.*
 
 ##### Wiki links
 
@@ -959,7 +959,7 @@ Do:    Members of the Beatmap Nominators can nominate your beatmapset.
 
 ### Date formatting
 
-The osu! wiki will use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
+The osu! wiki uses the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
 
 - `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
 - `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
