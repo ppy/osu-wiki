@@ -106,11 +106,10 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2019
 
-*For the news post, see: [Acknowledging Community Contributors](https://osu.ppy.sh/home/news/2019-02-22-acknowledging-community-contributors)*
+*For the news post, see: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | User | Contributions |
 | --- | --- |
-| ![JP][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!laser project |
 | ![US][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | World Cup organisation & osu! Coffee Hour host |
 | ![AR][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Outstanding contribution to World Cup organisation and tournaments |
 | ![CL][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Outstanding contribution as a member of the GMT and osu! wiki team |
@@ -133,3 +132,34 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | ![DE][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Outstanding contribution to the Community Mentorship Program |
 | ![US][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Outstanding contribution to the Community Mentorship Program |
 | ![FI][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Outstanding contribution to the Community Mentorship Program |
+| ![JP][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!lazer project |
+
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
