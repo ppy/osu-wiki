@@ -18,7 +18,7 @@ outdated: true
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | ช่วยเหลือผู้เล่น, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | ผู้นำด้านออกแบบ |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | ผู้นำด้านออกแบบ |
 | [Loctav](https://osu.ppy.sh/users/71366) | จัดตั้ง Tournament อย่างเป็นทางการ, จัดการเกี่ยวกับสตาฟและสังคมในเกม |
 | [nanaya](https://osu.ppy.sh/users/2387883) | การดำเนินงานเว็บไซต์ |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, คนที่ทำสิ่งที่น่าทึ่ง |
@@ -53,9 +53,9 @@ outdated: true
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมแะแชทในเกม |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | เป็นผู้ใช้งานที่คอยช่วยให้บีทแมพได้ qualified |
-| [Developers](http://osu.ppy.sh/g/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
+| [Developers](https://osu.ppy.sh/groups/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
 | [osu! alumni](/wiki/People/osu!_Alumni) | พวกที่เคยเป็นผู้ร่วมพัฒนาเกมมาก่อน |
 | [Support Team Redux](/wiki/People/Support_Team) | ให้ความช่วยเหลือสิ่งที่ขอใน ช่วยเหลือ/ลูกเล่น |
-| [osu!news](http://osu.ppy.sh/g/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
-| [Tournament Staff](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/groups/25) | เขียนข่าวเกี่ยวกับ osu! ตั้งแต่ปี 2013 |
+| [Tournament Staff](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | ช่วยแมพของคุณให้มีคุณภาพที่ดีขึ้น |

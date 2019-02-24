@@ -1,7 +1,7 @@
 osu!mania Ranking Kriterien
 ============================
 
-Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [durch das Diskussions-Forum](https://osu.ppy.sh/forum/87). Jede Regel, die dort diskutiert wird, ist hier so aufgelistet, wie sie momentan gilt und wird erst aktualisiert, wenn die Diskussion eine Einigung erreichen konnte.
+Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [durch das Diskussions-Forum](https://osu.ppy.sh/community/forums/87). Jede Regel, die dort diskutiert wird, ist hier so aufgelistet, wie sie momentan gilt und wird erst aktualisiert, wenn die Diskussion eine Einigung erreichen konnte.
 
 Übliche Bedingungen
 ----------------------

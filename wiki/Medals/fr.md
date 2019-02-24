@@ -1,7 +1,7 @@
 Médailles
 =========
 
-Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle. 
+Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle.
 Elles sont divisées en 5 groupes: [Packs de Beatmaps](#packs-de-beatmaps), [Compétence](#compétence), [Consécration](#consécration), [Introduction aux Mods](#introduction-aux-mods), et [Secrets](#secrets).
 
 Packs de Beatmaps
@@ -25,7 +25,7 @@ Chacune de ces sections comporte 4 volumes.
 
 - Jouez une fois chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans n'importe quelle difficulté.
 - Le mode de jeu doit être [osu!standard](/wiki/Game_Modes/osu!).
-- Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier `Songs` de osu!. 
+- Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier `Songs` de osu!.
   Ouvrez osu!, et vous pouvez jouer. C'est tout.
   - Vous pouvez aussi télécharger les chansons une à une manuellement, cela compterait également.
 - Toute variation des données de la chanson (par exemple un créateur différent) fera que cette map ne sera pas comptée.
@@ -45,7 +45,7 @@ Les médailles de compétence se divisent actuellement en trois catégories: Com
 Les médailles **Combo** s'obtiennent en atteignant un [combo](/wiki/combo) spécifique dans le mode osu!standard, et peuvent être complétées sur n'importe quelle musique.
 Atteindre le même combo en mode [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) ne vous donnera **pas** le succès.
 
-Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked". 
+Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked".
 Ne cherchez pas de beatmaps qui ne soient pas "approved".
 
 ---
@@ -124,4 +124,4 @@ Liens Externes
 --------------
 
 - [Anciens packs de beatmaps (2009 - 2016) avant la mise à jour de Stefan.](Beatmap_Packs_0916)
-- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/forum/t/80448).
+- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/community/forums/topics/80448).

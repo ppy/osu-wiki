@@ -6,7 +6,7 @@ outdated: true
 Introductie
 ===========
 
-Verwijzing naar de link: <http://osu.ppy.sh/p/support>
+Verwijzing naar de link: <https://osu.ppy.sh/p/support>
 
 In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 
@@ -16,17 +16,17 @@ Voordelen van osu!supporter
 -   osu!direct (Directe downloads in-game)
 -   Toegang tot multiplayer als je in de osu!cuttingedge mode zit.
 -   [NL:Chat Console](NL:Chat_Console "wikilink"): <span style="color:#FFC700">Helder gele</span> naam (voor anderen, jij ziet je eigen naam nog steeds wit).
--   [Beatmap listing](http://osu.ppy.sh/p/beatmaplist) (?): Filter beatmap zoekopdrachten op gespeelde en niet gespeelde beatmaps.
--   <NL:Skinning>: Toegang tot iets meer skin elementen zoals [main menu](http://osu.ppy.sh/forum/t/96949), osu!direct or multi's achtergronden.
+-   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist) (?): Filter beatmap zoekopdrachten op gespeelde en niet gespeelde beatmaps.
+-   <NL:Skinning>: Toegang tot iets meer skin elementen zoals [main menu](https://osu.ppy.sh/community/forums/topics/96949), osu!direct or multi's achtergronden.
     -   Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
--   [Feature Requests](http://osu.ppy.sh/forum/4): Extra stemmen voor Feature Requests (2 per maand).
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
 -   [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
--   Your Profile: <http://osu.ppy.sh/u/>
+-   Your Profile: <https://osu.ppy.sh/users/>
     -   Je kan een userpage aan je profiel toevoegen.
         -   Je userpage verdwijnt niet als je osu!supporter is afgelopen.
     -   De eenmalige mogelijkheid [om je username te veranderen](https://osu.ppy.sh/p/profile-username/) (één keer per account. Je kan je username hierna niet meer veranderen, uitzonderingen worden zeer zelden gemaakt).
     -   Je kan meer beatmaps submitten (10 pending beatmaps in totaal).
--   [Performance Ranking](http://osu.ppy.sh/p/pp): Staat het "filter to friends" command toe.
+-   [Performance Ranking](https://osu.ppy.sh/p/pp): Staat het "filter to friends" command toe.
 -   *Komt nog*
 
 Het zakelijke gedeelte
@@ -64,4 +64,4 @@ Na de lengte en accounts gecheckt te hebben, klik je op 'Checkout'. Hier krijg j
 Duur
 ----
 
-<img src="O!s Duration.jpg" title="fig:Vergelijking tussen een actieve en inactieve osu!supporter-tag." alt="Vergelijking tussen een actieve en inactieve osu!supporter-tag." width="200" /> Nadat je transactie voltooid is, zal onder het kopje 'Recent Activity' op je profiel het volgende woorden weergegeven: "{Accountnaam} has become an osu! supporter - thanks for your generosity!" als het de eerste keer is dat je account osu!supporter krijgt, "{Accountnaam} has once again chosen to donate to the osu! cause - thanks for your generosity!" als je al eerder supporter hebt gehad en "{Accountnaam} has received the gift of osu! supporter!" als je osu!supporter van iemand anders krijgt. Als je supporter op je eigen account hebt, zie je onder je profielfoto de osu!supporter badge staan. Om te kijken wanneer je osu!supporter afloopt, keer je terug naar [keer je terug naar de plek waar je het gekocht hebt](http://osu.ppy.sh/p/support).
+<img src="O!s Duration.jpg" title="fig:Vergelijking tussen een actieve en inactieve osu!supporter-tag." alt="Vergelijking tussen een actieve en inactieve osu!supporter-tag." width="200" /> Nadat je transactie voltooid is, zal onder het kopje 'Recent Activity' op je profiel het volgende woorden weergegeven: "{Accountnaam} has become an osu! supporter - thanks for your generosity!" als het de eerste keer is dat je account osu!supporter krijgt, "{Accountnaam} has once again chosen to donate to the osu! cause - thanks for your generosity!" als je al eerder supporter hebt gehad en "{Accountnaam} has received the gift of osu! supporter!" als je osu!supporter van iemand anders krijgt. Als je supporter op je eigen account hebt, zie je onder je profielfoto de osu!supporter badge staan. Om te kijken wanneer je osu!supporter afloopt, keer je terug naar [keer je terug naar de plek waar je het gekocht hebt](https://osu.ppy.sh/p/support).

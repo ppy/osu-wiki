@@ -140,7 +140,7 @@ Ryuuta
 #### Występowanie
 * Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
 * Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/forum/t/190357/)
+* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (jako NPC (easteregg))
 
 #### Twórcy
@@ -177,7 +177,7 @@ BA-2 (Beat Agent-2), J
 
 #### Występowanie
 * Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/forum/t/190357/)
+* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Twórcy
 iNiS Corporation

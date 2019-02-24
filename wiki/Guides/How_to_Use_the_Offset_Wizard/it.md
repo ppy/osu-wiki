@@ -13,7 +13,7 @@ Impostare L'Offset Universale
 Per impostarlo correttamente, segui questa procedura:
 
 1.  Vai sulle opzioni e disattiva il Volume degli effetti a 0%.
-2.  Scarica [questa](https://osu.ppy.sh/s/4659) beatmap.
+2.  Scarica [questa](https://osu.ppy.sh/beatmapsets/4659) beatmap.
 3.  Trovala nella tua lista delle beatmap.
 4.  Premi F3 e 5.
 5.  Scorri un po con il tuo mouse, poi vai all'inizio della beatmap.

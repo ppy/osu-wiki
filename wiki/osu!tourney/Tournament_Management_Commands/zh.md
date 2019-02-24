@@ -33,8 +33,8 @@
 - `!mp kick <username>` - 踢出指定的玩家。
 - `!mp password [<password>]` - 改变房间的密码，如果没有提供，密码将会被删除。
 - `!mp addref <username> [<username>] …` - 添加一个裁判到房间，只有房间的创建者才可以添加裁判，最多可以添加八个裁判。
-  - 使用该指令需要裁判加入房间，不过裁判也可以手动使用 IRC 输入 `/join #mp_<room_id>` 进入房间的聊天频道。
-  - 裁判可以像房间创建者一样管理房间，但是无法移除或添加裁判。
+  - 使用该指令需要裁判加入房间，不过裁判也可以手动使用 IRC 输入 `/join #mp_<room_id>` 进入房间的聊天频道。
+  - 裁判可以像房间创建者一样管理房间，但是无法移除或添加裁判。
   - [osu!tourney](/wiki/osu!tourney "osu!tourney") 将显示裁判在频道内的聊天。
 - `!mp removeref <username> [<username>] …` - 移除房间内的裁判，只有房间的创建者才可以移除裁判。
 - `!mp listrefs` - 显示房间内的全部裁判。

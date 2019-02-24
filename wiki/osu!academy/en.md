@@ -5,7 +5,7 @@
 **osu!academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
 We hope that new players will find these videos informative, and help ease the arguably steep learning curve associated with the game.
-If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/u/6347); he is the primary and almost sole owner of the osu! academy and its channel.
+If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/users/6347); he is the primary and almost sole owner of the osu! academy and its channel.
 
 [Now with a trailer](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
@@ -54,4 +54,4 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 - [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
 - [Official YouTube channel](https://www.youtube.com/user/osuacademy/videos)
-- [Official thread](https://osu.ppy.sh/forum/t/169707)
+- [Official thread](https://osu.ppy.sh/community/forums/topics/169707)

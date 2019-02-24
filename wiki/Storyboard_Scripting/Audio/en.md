@@ -27,7 +27,7 @@ Example
 For instance, to play a (short!) music track when the player gets a good ending on the beatmap (e.g., end in the Pass state), then play an explosion sound effect as part of the scene:
 
 ```
-Sample,163520,2,"Audio\Best End.mp3",80
+Sample,163520,2,"Audio\Best End.mp3",80
 Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```
 

@@ -7,7 +7,7 @@ outdated: true
 
 ![Enlace a osu!supporter en la página principal](Osu-support.png "Enlace a osu!supporter en la página principal")
 
-Consulte el enlace: [Supporting osu!](http://osu.ppy.sh/p/support "osu!supporter en inglés")
+Consulte el enlace: [Supporting osu!](https://osu.ppy.sh/p/support "osu!supporter en inglés")
 
 En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
@@ -16,17 +16,17 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 -   osu!direct (Descargas directas dentro del juego)
 -   Acceso al multijugador usando osu!cuttingedge.
 -   [Chat](/wiki/chat): Nombre en _Amarillo brillante_ (para los demás, te seguirás viendo con el nombre blanco, como siempre).
--   [Listado de Beatmaps](http://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
--   [Skinning](/wiki/Skinning): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](http://osu.ppy.sh/forum/t/96949), en las partidas multijugador y acceso a osu!direct.
+-   [Listado de Beatmaps](https://osu.ppy.sh/p/beatmaplist): Filtrado de búsqueda de beatmaps por mapas jugados y no jugadas.
+-   [Skinning](/wiki/Skinning): Algunos elementos adicionales que pueden ser utilizados, tales como un fondo de pantalla en el [menú principal](https://osu.ppy.sh/community/forums/topics/96949), en las partidas multijugador y acceso a osu!direct.
     -   Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
--   [Solicitudes de características](http://osu.ppy.sh/forum/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/forum/4) (2 por mes en vez de 1 por mes).
+-   [Solicitudes de características](https://osu.ppy.sh/community/forums/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/community/forums/4) (2 por mes en vez de 1 por mes).
 -   [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
--   En tu perfil: <http://osu.ppy.sh/u/>
+-   En tu perfil: <https://osu.ppy.sh/users/>
     -   Puedes agregar una página de usuario a tu perfil.
         -   Tu página de usuario no será borrado cuando tu osu!supporter expire.
     -   La posibilidad de [cambiar tu nombre de usuario](https://osu.ppy.sh/p/profile-username/) (una vez por cuenta. No podrás volver a utilizarlos una vez cambiado, puede haber algunas excepciones).
     -   Incremento en la cantidad de mapas que puedes subir (hasta un total de 10 mapas pendientes).
--   [*Performance Ranking*](http://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
+-   [*Performance Ranking*](https://osu.ppy.sh/p/pp): Permite utilizar el comando de "filtrar por amigos".
 -   *Más características serán implementadas en un futuro!*
 
 ## Pago
@@ -60,6 +60,6 @@ Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, v
 
 ### Duración
 
-![Diferencia entre osu!supporter activo e inactivo.](O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.") 
+![Diferencia entre osu!supporter activo e inactivo.](O!s_Duration.jpg "Diferencia entre osu!supporter activo e inactivo.")
 
-Una vez completes el pago, en tu actividad reciente en tu perfil dirá "{Tu cuenta} has become an osu! supporter - thanks for your generosity!" si es la primera vez que tu cuenta obtiene osu!supporter o bien "{Tu cuenta} has once again chosen to donate to the osu! cause - thanks for your generosity!" si tu cuenta ya había sido osu!supporter anteriormente. Si compraste una para tu cuenta, podrás ver el título de osu!support abajo de tu imagen de perfil. Para verificar cuándo tu osu!supporter expirará, [vuelve al mismo lugar donde lo compraste](http://osu.ppy.sh/p/support).
+Una vez completes el pago, en tu actividad reciente en tu perfil dirá "{Tu cuenta} has become an osu! supporter - thanks for your generosity!" si es la primera vez que tu cuenta obtiene osu!supporter o bien "{Tu cuenta} has once again chosen to donate to the osu! cause - thanks for your generosity!" si tu cuenta ya había sido osu!supporter anteriormente. Si compraste una para tu cuenta, podrás ver el título de osu!support abajo de tu imagen de perfil. Para verificar cuándo tu osu!supporter expirará, [vuelve al mismo lugar donde lo compraste](https://osu.ppy.sh/p/support).

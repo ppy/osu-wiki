@@ -8,7 +8,7 @@ What do chiptunes and food have in common? They're both **OISHII**! No, really, 
 
 [![](https://assets.ppy.sh/artists/17/header.jpg)](https://osu.ppy.sh/beatmaps/artists/17)
 
-A relatively new face on the chiptune scene, **OISHII** has been making waves after appearing out of literally nowhere. 
+A relatively new face on the chiptune scene, **OISHII** has been making waves after appearing out of literally nowhere.
 
 All that we know is that every track of theirs is a sugar rush of 8-bit inspired hits, with video game and anime references sprinkled in to boot. Familiar with the *Kirby* games? You'll probably find **OISHII** familiar, too!
 

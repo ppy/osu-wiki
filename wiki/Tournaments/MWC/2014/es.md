@@ -7,7 +7,7 @@ osu!mania World Cup 2014
 
 ![MWC 2014 logo](logo.png)
 
-La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu!mania organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Es la primera entrega de la osu!mania World Cup y está separada por 7-keys y 4-keys.
+La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu!mania organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Es la primera entrega de la osu!mania World Cup y está separada por 7-keys y 4-keys.
 
 Calendario
 ----------------
@@ -97,7 +97,7 @@ Links
 
 -   [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Hilo de Discusión (en inglés)](https://osu.ppy.sh/forum/t/222100)
+-   [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
 -   [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
 -   [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
 

@@ -16,7 +16,7 @@ Official beatmapping contests hosted by the osu!staff.
 Notes:
 
 - Winners of this contest will receive the "Elite Mapper" forum title
-- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
+- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/beatmapsets/3756)).
 - Winning mapsets since MBC \#13 have been / will be featured by the osu! media team.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
@@ -34,7 +34,7 @@ Notes:
 | 8           | [raja_ffm - the light](https://osu.ppy.sh/beatmapsets/299224)                                          | ![osu!standard][o!s] | [Damnae](https://osu.ppy.sh/users/989377)           | [Results](https://osu.ppy.sh/news/115885774698) | [Score #8](https://osu.ppy.sh/p/contestresults?c=17)   |
 | 9           | [Furries in a Blender - Storm World](https://osu.ppy.sh/beatmapsets/319473)                            | ![osu!taiko][o!t]    | [Firce777](https://osu.ppy.sh/users/274072)         | [Results](https://osu.ppy.sh/home/news/2015-06-27-monthly-beatmapping-contest-9-results) | [Score #9](https://osu.ppy.sh/p/contestresults?c=18)   |
 | 10          | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751)                        | ![osu!catch][o!c]    | [ZiRoX](https://osu.ppy.sh/users/200768)            | [Results](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19)  |
-| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/u/3265023)       | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
+| 11          | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m]    | [LordRaika](https://osu.ppy.sh/users/3265023)       | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20)  |
 | 12          | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054)                                              | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340)         | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21)  |
 | 13          | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)                                            | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/users/6258586)       | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)  | [Score #13](https://docs.google.com/spreadsheets/d/1CysSPvMCrkace40s4aGnpIdmc-TNEJZ72QGKz0MPBqc) |
 | March 2017  | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/beatmapsets/639991)                                         | ![osu!catch][o!c]    | [Ascendance](https://osu.ppy.sh/users/2931883)      | TBA                                             | [Score #14](https://osu.ppy.sh/community/contests/44)      |
@@ -82,7 +82,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
 - [News post](https://osu.ppy.sh/news/95662228778)
 - [Results post](https://osu.ppy.sh/news/106902823593)
-- [Official post](https://osu.ppy.sh/forum/t/234545)
+- [Official post](https://osu.ppy.sh/community/forums/topics/234545)
 
 ### 2015
 
@@ -96,7 +96,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
 - [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
-- [Official post](https://osu.ppy.sh/forum/t/352608)
+- [Official post](https://osu.ppy.sh/community/forums/topics/352608)
 
 ### 2016
 
@@ -110,7 +110,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
 - [Results post](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
-- [Official post](https://osu.ppy.sh/forum/t/448842)
+- [Official post](https://osu.ppy.sh/community/forums/topics/448842)
 
 ### 2017
 
@@ -124,7 +124,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
 - [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
 - [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
-- [Official post](https://osu.ppy.sh/forum/t/617845)
+- [Official post](https://osu.ppy.sh/community/forums/topics/617845)
 
 ### 2018
 
@@ -156,8 +156,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | 葉月ゆら - 宵闇花火                     | [Lan Wings](https://osu.ppy.sh/users/467860)       | [Kotone](https://osu.ppy.sh/users/26507)           | [Regou](https://osu.ppy.sh/users/419954)           |
 | 3         | An - アートコア神社                     | [Flower](https://osu.ppy.sh/users/1033017)         | [Amamiya Yuko](https://osu.ppy.sh/users/873961)    | [Regou](https://osu.ppy.sh/users/419954)           |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/135492)
-- [Results post](https://osu.ppy.sh/forum/t/152966)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/135492)
+- [Results post](https://osu.ppy.sh/community/forums/topics/152966)
 
 #### Pending Cup \#2 (2014)
 
@@ -166,8 +166,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 1         | Sharlo & Sabbo - 桜の花が舞い落ちるとき  | [Loneight](https://osu.ppy.sh/users/663131)        | [Macuilxochitl](https://osu.ppy.sh/users/418699)   | [eveless](https://osu.ppy.sh/userssers/102976)         |
 | 2         | 木製みゅーと - 七つ一旋桜                | [OSUtoto](https://osu.ppy.sh/users/847182)         | [bo0O0od](https://osu.ppy.sh/users/530547)         | [Kawaiwkyik](https://osu.ppy.sh/users/1367570)     |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/229019)
-- [Results post](https://osu.ppy.sh/forum/t/243930)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/229019)
+- [Results post](https://osu.ppy.sh/community/forums/topics/243930)
 
 #### Pending Cup \#3 (2015)
 
@@ -177,8 +177,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | 削除 - Imprinting                      | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017)        |
 | 3         | P*Light - YELLOW SPLASH!!              | [fanzhen0019](https://osu.ppy.sh/users/418699)     | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Minakami Yuki](https://osu.ppy.sh/users/2433507)  |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/345263)
-- [Results post](https://osu.ppy.sh/forum/t/373843)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/345263)
+- [Results post](https://osu.ppy.sh/community/forums/topics/373843)
 
 #### Pending Cup \#4 (2016)
 
@@ -188,8 +188,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [rui](https://osu.ppy.sh/users/74313)              | [yf_bmp](https://osu.ppy.sh/users/1243669)         |
 | 3         | Dollscythe - Flashes (Extended)               | [Skystar](https://osu.ppy.sh/users/873961)         | [Level9](https://osu.ppy.sh/users/7232130)         | [Frostings](https://osu.ppy.sh/users/2652543)      |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/482629)
-- [Results post](https://osu.ppy.sh/forum/t/504645)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/482629)
+- [Results post](https://osu.ppy.sh/community/forums/topics/504645)
 
 #### Pending Cup \#5 (2017)
 
@@ -199,8 +199,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Garden](https://osu.ppy.sh/users/2849992)              | [Ellyu](https://osu.ppy.sh/users/4438154)         |
 | 3         | かめりあ - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/620182)
-- [Results post](https://osu.ppy.sh/forum/t/640906)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/620182)
+- [Results post](https://osu.ppy.sh/community/forums/topics/640906)
 
 #### Pending Cup \#6 (2018)
 
@@ -210,8 +210,8 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 | 2         | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | [J1_](https://osu.ppy.sh/users/5918561)      | [yf_bmp](https://osu.ppy.sh/users/1243669)              | [Level9](https://osu.ppy.sh/users/7232130)         |
 | 3         | Sota Fujimori - ACCELERATE               | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | [Koiyuki](https://osu.ppy.sh/users/2433507)         | [yf_bmp](https://osu.ppy.sh/users/1243669)      |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/775847)
-- [Results post](https://osu.ppy.sh/forum/t/806794)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/775847)
+- [Results post](https://osu.ppy.sh/community/forums/topics/806794)
 
 ### Newspaper Cup
 
@@ -222,30 +222,30 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | 1         | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/users/2775906)         | [Philosophy2](https://osu.ppy.sh/users/372256)     | [bread129988](https://osu.ppy.sh/users/2010665)    |
-| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/u/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
+| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/users/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/272739)
-- [Results post](https://osu.ppy.sh/forum/t/312154)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/272739)
+- [Results post](https://osu.ppy.sh/community/forums/topics/312154)
 
 #### Newspaper Cup \#2 (2016)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 |-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/u/3420746)           |
+| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/users/3420746)           |
 | 2         | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/users/3280555)   | [liaoxingyao](https://osu.ppy.sh/users/3620963)    | [Kencho](https://osu.ppy.sh/users/3178411)     |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/415669)
-- [Results post](https://osu.ppy.sh/forum/t/432070)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/415669)
+- [Results post](https://osu.ppy.sh/community/forums/topics/432070)
 
 #### Newspaper Cup \#3 (2017)
 
 | Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/u/4121612)                 |
-| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/u/1393255)  |
+| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612)                 |
+| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255)  |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/546038)
-- [Results post](https://osu.ppy.sh/forum/t/570350)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/546038)
+- [Results post](https://osu.ppy.sh/community/forums/topics/570350)
 
 #### Newspaper Cup \#4 (2017)
 
@@ -254,5 +254,5 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 | 1         | 葉月ゆら - サラマンドラの踊り子             | [Yugu](https://osu.ppy.sh/users/Yugu)           | [nika mika](https://osu.ppy.sh/users/nika%20mika)     |
 | 2         | P＊Light - SAY BAY                        | [Firika](https://osu.ppy.sh/users/Firika)       | [Yugu](https://osu.ppy.sh/users/Yugu)            |
 
-- [Contest thread](https://osu.ppy.sh/forum/t/690824)
-- [Results post](https://osu.ppy.sh/forum/t/721264)
+- [Contest thread](https://osu.ppy.sh/community/forums/topics/690824)
+- [Results post](https://osu.ppy.sh/community/forums/topics/721264)

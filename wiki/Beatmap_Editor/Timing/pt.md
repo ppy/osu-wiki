@@ -15,7 +15,7 @@ Como eu faço o Timing (cronometragem) da música apropriadamente?
 
 Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da música:
 
--   Assista o [vídeo](https://osu.ppy.sh/forum/t/39317) e os [tutoriais](https://osu.ppy.sh/forum/t/3815/) para conhecer os métodos básicos de timing.
+-   Assista o [vídeo](https://osu.ppy.sh/community/forums/topics/39317) e os [tutoriais](https://osu.ppy.sh/community/forums/topics/3815/) para conhecer os métodos básicos de timing.
 -   Tenha certeza que os toques do metrônomo coincidem com a batida da música em toda a duração da mesma. Então verifique o timing em 5%, 25%, 50%, 75% e 100% da música, no mínimo.
 -   Dê uma olhada na tabela de BPM, se o número estiver perto de um número completo (até .10 de diferença), é provavelmente melhor (a não ser que peçam que não o faça) arredondar para um número total. Se for esse o caso, manualmente insira o BPM correto usando o Timing Setup Panel.
     -   Exemplo: 150.02 deverá ser arredondado para 150.00 a não ser que outro mapper peça que não o faça porque o som poderá ficar errado, por alguma razão.

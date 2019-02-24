@@ -63,7 +63,7 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 
 A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
 
-You can use the beatmapID to find a beatmap difficulty version using this url: `osu.ppy.sh/b/{BeatmapID}`
+You can use the beatmapID to find a beatmap difficulty version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
 
 This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 
@@ -79,7 +79,7 @@ Beatmapsets will always have the same music, sounds (if mapped), and video (if a
 
 A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapsets.
 
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
 
 This value can be found in the url of a beatmapset from osu! website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
 
@@ -541,7 +541,7 @@ osu! has three meanings:
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
-    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/topics/174?start=2686).
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/posts/2686).
 
 ### osu!coin
 

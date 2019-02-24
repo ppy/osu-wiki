@@ -13,7 +13,7 @@ Prima che una beatmap possa diventare rankata da un [BAT](/wiki/People/Beatmap_N
 
 ### Bubble per le modalità specifiche
 
-I bubble per le modalità specifiche (Taiko, Catch the Beat, osu!mania) sono dei bubble applicati ai mapset che presentano difficoltà per modalità specifiche. Il criterio per il bubble di queste mappe varia a secondo il [Ranking Criteria](/wiki/Ranking_Criteria) specifico della difficoltà. In ogni caso, i Bubble alle difficoltà specifiche per una modalità devono essere assegnati dai BAT di quella modalità \[Citazione\\ necessaria\]. Per una lista di tutti i BAT, guarda [qui](/wiki/People/Beatmap_Nomination_Group) o [qui](https://osu.ppy.sh/forum/p/2430411).
+I bubble per le modalità specifiche (Taiko, Catch the Beat, osu!mania) sono dei bubble applicati ai mapset che presentano difficoltà per modalità specifiche. Il criterio per il bubble di queste mappe varia a secondo il [Ranking Criteria](/wiki/Ranking_Criteria) specifico della difficoltà. In ogni caso, i Bubble alle difficoltà specifiche per una modalità devono essere assegnati dai BAT di quella modalità \[Citazione\\ necessaria\]. Per una lista di tutti i BAT, guarda [qui](/wiki/People/Beatmap_Nomination_Group) o [qui](https://osu.ppy.sh/community/forums/posts/2430411).
 
 Popped Bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 ----------------------------------------------------------------------------------

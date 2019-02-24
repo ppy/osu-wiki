@@ -47,7 +47,7 @@ Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranki
 
 Ten status przyzna beatmapom tabele wyników.
 
-Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społeczności, zobacz wątek [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835) na forum.
+Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społeczności, zobacz wątek [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835) na forum.
 
 ### Oczekujące
 

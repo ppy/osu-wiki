@@ -10,7 +10,7 @@ Links:
 
 ## February
 
-A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Best_of_2015) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for osu!standard, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](/users/5044384), reording of the sections, on the new website, in your profile was now possible.
+A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Best_of_2015) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for osu!standard, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
 
 Links:
 
@@ -54,7 +54,7 @@ Links:
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](/users/2706438) as the Aspirant. osu! remix contest voting opened. The osu! team opened an osu!taiko design contest, as osu!taiko has yet to have one.
+[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened. The osu! team opened an osu!taiko design contest, as osu!taiko has yet to have one.
 
 Links:
 
@@ -65,7 +65,7 @@ Links:
 
 ## August
 
-A new set of Hush-Hush [medals](/wiki/medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
+A new set of Hush-Hush [medals](/wiki/medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](https://osu.ppy.sh/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
 
 Links:
 
@@ -76,7 +76,7 @@ Links:
 
 ## September
 
-[osu!mania 4k World Cup](/wiki/MWC2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
+[osu!mania 4k World Cup](/wiki/MWC2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
 
 Links:
 
@@ -104,7 +104,7 @@ Links:
 
 ## November
 
-Starting off in November, a new batch of [community contributors](/wiki/community_contributors) were announced. [ztrot](/users/6347) and [deadbeat](/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
+Starting off in November, a new batch of [community contributors](/wiki/community_contributors) were announced. [ztrot](https://osu.ppy.sh/users/6347) and [deadbeat](https://osu.ppy.sh/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](https://osu.ppy.sh/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
 
 Links:
 
@@ -115,7 +115,7 @@ Links:
 
 ## December
 
-Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](/beatmaps/artists/7) and [sakuraburst](/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](/users/4457608) capturing the most votes.
+Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
 
 Links:
 

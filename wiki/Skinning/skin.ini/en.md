@@ -188,7 +188,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `0`
   - Notes:
     - The default sliderball will always get tinted, if enabled in [options](/wiki/options).
-- `ComboBurstRandom` 
+- `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
   - Default: `0`

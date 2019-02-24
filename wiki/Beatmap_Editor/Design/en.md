@@ -163,7 +163,7 @@ Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback S
 Limitations
 ------------
 
--   No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hitobjects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
+-   No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
 -   No [loop](/wiki/Storyboard_Scripting/Compound_Commands) or [trigger](/wiki/Storyboard_Scripting/Compound_Commands) support.
 -   No [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard_Scripting/Commands) commands.
 -   Sprite coordinate is *always* 320,240. You will need to use Move command once to set the location (endpoint not required).
@@ -172,5 +172,5 @@ Limitations
 Source
 -------
 
--   [m980's basic explanation](https://osu.ppy.sh/forum/p/67660)
--   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/forum/t/46111)
+-   [m980's basic explanation](https://osu.ppy.sh/community/forums/posts/67660)
+-   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/community/forums/topics/46111)

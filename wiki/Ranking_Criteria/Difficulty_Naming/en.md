@@ -1,8 +1,8 @@
 # Difficulty Naming
 	
-The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme. 
+The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
 
-## Default	
+## Default
 
 This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
 
@@ -10,7 +10,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
  
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
@@ -26,7 +26,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
-- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup 
+- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup
 - ![Salad](/wiki/shared/diff/normal-c.png "Salad") Salad
 - ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
 - ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
@@ -34,7 +34,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
-- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ 
+- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ
 - ![NM](/wiki/shared/diff/normal-m.png "NM") NM
 - ![HD](/wiki/shared/diff/hard-m.png "HD") HD
 - ![MX](/wiki/shared/diff/insane-m.png "MX") MX
@@ -56,7 +56,7 @@ This subsection shows the **scaling** difficulty names for mapsets of songs that
 
 Abbreviations on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
 
-- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC 
+- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC
 - ![NOVICE](/wiki/shared/diff/normal-s.png "NOVICE") NOVICE
 - ![ADVANCED](/wiki/shared/diff/hard-s.png "ADVANCED") ADVANCED
 - ![EXHAUST](/wiki/shared/diff/insane-s.png "EXHAUST") EXHAUST
@@ -64,10 +64,10 @@ Abbreviations on this particular difficulty naming scheme are acceptable (e.g. N
 
 ### Pop 'n Music
 
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
-- ![EX](/wiki/shared/diff/insane-s.png "EX") EX 
+- ![EX](/wiki/shared/diff/insane-s.png "EX") EX
 
 ### DanceDanceRevolution (DDR)
 
@@ -96,11 +96,11 @@ The difficulty spread would follow the Default difficulty naming scheme, with th
 - ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Insane can be substituted by **Lunatic**.
 - ![Extra](/wiki/shared/diff/expert-s.png "Extra") Expert can be substituted by **Extra** / **Extra Stage** / **Phantasm**.
 
-## Widely accepted alternatives 
+## Widely accepted alternatives
 
 The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu! 
+### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
 - ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
 - ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.

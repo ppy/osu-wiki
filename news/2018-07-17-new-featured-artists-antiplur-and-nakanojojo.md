@@ -84,7 +84,7 @@ Don't take my word for it, check out a sample from each of the **four** tracks w
 
 As with all Featured Artist releases, these new tracks are 100% free for use in creating osu! beatmaps, so worry less, and map more!
 
-We're excited to keep expanding the Featured Artist roster with a variety of sounds and styles, and the astute among you may have already noticed a few hints as to where the future leads in that regard. 
+We're excited to keep expanding the Featured Artist roster with a variety of sounds and styles, and the astute among you may have already noticed a few hints as to where the future leads in that regard.
 
 We'll say only this much - the next release is bound to be *very* delightful.
 

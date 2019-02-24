@@ -8,7 +8,7 @@ As discussed in the [osu! Coffee Hour dedicated to Loved](https://www.youtube.co
 
 ![](/wiki/shared/news/banners/loved.png)
 
-Spearheaded and organized by the efforts of [Toy](https://osu.ppy.sh/u/2757689), the Captain's Pick heralds a brief return to the old way of introducing maps into Loved while the system is in its temporary hiatus. From tournament winners to mappool selectors, commentators and more, the latest Loved voting covers pretty much all bases of the upper echelons of play.
+Spearheaded and organized by the efforts of [Toy](https://osu.ppy.sh/users/2757689), the Captain's Pick heralds a brief return to the old way of introducing maps into Loved while the system is in its temporary hiatus. From tournament winners to mappool selectors, commentators and more, the latest Loved voting covers pretty much all bases of the upper echelons of play.
 
 We're not sure yet if this is something that we'll be continuing in the future (regarding the Captain's Pick concept itself), but we're certainly eager to give it a go.
 

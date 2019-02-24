@@ -16,7 +16,7 @@ You can discuss this event and follow the most important changes in the **[offic
 + Registration Phase: 10th of January to 24th of January
 + Drawings: 3rd of February 14:00 UTC
 + Group Stage: 10th of February to 11th of February
-+ Round of 16: 17th of February to 18th of February 
++ Round of 16: 17th of February to 18th of February
 + Quarterfinals: 24th of February to 25th of February
 + Semifinals: 3rd of March to 4th of March
 + Finals: 10th of March to 11th of March

@@ -10,7 +10,7 @@ The grandfather of rhythm gaming music arrives to osu! in style as our latest Fe
 
 It was once said by peppy himself that a game simply isn't a rhythm game unless it has Cranky in it. For years, this title has eluded us (although he did prominently feature in osu!stream) - but no longer! Today, we welcome **Cranky** as our latest Featured Artist.
 
-**Cranky** is such a major fixture of rhythm gaming music that we can't even really begin to do his legacy justice, so we'll just let his work speak for him. 
+**Cranky** is such a major fixture of rhythm gaming music that we can't even really begin to do his legacy justice, so we'll just let his work speak for him.
 
 The musical genius behind countless entries in many other rhythm games, dating back as far as rhythm games go yet spanning to recent aracde hits like *SOUND VOLTEX*, *jubeat plus* and more, **Cranky**'s work is the very definition of diverse, spanning across dozens of genres and sounds while always retaining those core hits that help drive rhythm games as a whole.
 

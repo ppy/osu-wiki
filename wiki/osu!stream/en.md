@@ -45,7 +45,7 @@
 
 It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. Both free and paid maps are available at the "Store".
 
-[osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/forum/t/59924)
+[osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
 ## Installation
 
@@ -311,12 +311,12 @@ _Option screen 2_
 
 ### Accuracy
 
-`Accuracy = HitValue / (PerfectHitValue)`
+`Accuracy = HitValue / (PerfectHitValue)`
 
 Term | Formula
 :---:|:---
-**HitValue**        | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
-**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) * 4
+**HitValue**        | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
+**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) * 4
 
 In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
 
@@ -324,13 +324,13 @@ In other words, each miss towards to 0%, each 50 towards to 25%, each 100 toward
 
 The score given by each hit circle and end of a slider is calculated with the following formula:
 
-`Score = Hit Value + Hit Value * (Combo multiplier * Fixed multiplier) / 25`
+`Score = Hit Value + Hit Value * (Combo multiplier * Fixed multiplier) / 25`
 
 Term | Meaning
 :---:|:---
-**Hit Value**        | The hit circle judgement (50, 100 or 300).
-**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher.
-**Fixed multiplier** | The multiplier that fixes the score into 600.000
+**Hit Value**        | The hit circle judgement (50, 100 or 300).
+**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher.
+**Fixed multiplier** | The multiplier that fixes the score into 600.000
 
 Additionally each slider start, end and repeat tick awards 30 points and each spin of a spinner awards 100 points.
 Additional bonus of 10 point awarded depending on the speed of spinning the spinner after the spinner meter is full.
@@ -463,4 +463,4 @@ Usually heard at Main Menu and tutorial screen.
 ## Links
 
 - [Official website](http://www.osustream.com)
-- [Discussion forum (osu! website)](http://osu.ppy.sh/forum/79)
+- [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)

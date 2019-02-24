@@ -18,7 +18,7 @@ The Team
 | 名 | 描述 |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | 玩家事务支持 |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | 首要设计人员 |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | 首要设计人员 |
 | [Loctav](https://osu.ppy.sh/users/71366) | 官方赛事组织 |
 | [nanaya](https://osu.ppy.sh/users/2387883) | 网页成绩 |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师, 制作很酷的素材 |
@@ -53,9 +53,9 @@ The Team
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | 管理论坛和聊天室 |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | 使你的图能够上架的普通用户 |
-| [Developers](http://osu.ppy.sh/g/11) | 通过添加新功能和修复 Bugs 使游戏变得有趣 |
+| [Developers](https://osu.ppy.sh/groups/11) | 通过添加新功能和修复 Bugs 使游戏变得有趣 |
 | [osu! alumni](/wiki/People/osu!_Alumni) | 曾经为社区做出了杰出贡献 |
 | [Support Team Redux](/wiki/People/Support_Team) | 处理帮助/新功能请求的助手 |
-| [osu!news](http://osu.ppy.sh/g/25) | 从2013年开始给你带来高质量的阅读体验 |
-| [Tournament Staff](http://osu.ppy.sh/g/26) | 为所有模式举办官方的 osu! 联赛 |
+| [osu!news](https://osu.ppy.sh/groups/25) | 从2013年开始给你带来高质量的阅读体验 |
+| [Tournament Staff](https://osu.ppy.sh/groups/26) | 为所有模式举办官方的 osu! 联赛 |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | 审核将要上架谱面的质量 |
