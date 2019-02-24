@@ -186,6 +186,8 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Coupe de Francja CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| [Catch French Intermediate Cup](/wiki/Tournaments/CFIC_1) | 2019-03-02 | 2019-03-30 | - | - | - |
+| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-23 | 2019-05-04 | - | - | - |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
@@ -263,7 +265,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
-| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-16 | - | - | - |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](/users/718454)(osu!), ![][flag_FR] [TimmyAkmed](/users/1799973)(osu!taiko), ![][flag_TN] [-Ken](/users/4430811)(osu!catch), ![][flag_FR] [Azubeur](/users/1594604)(osu!mania) | ![][flag_FR] [NerO](/users/1545031)(osu!), ![][flag_FR] [Romainnoda](/users/8814218)(osu!taiko), ![][flag_FR] [Boros](/users/5490623)(osu!catch), ![][flag_FR] [PatouZ](/users/7306522)(osu!mania) | ![][flag_FR] [Flaven](/users/3213239)(osu!), ![][flag_FR] [Yona la loutre](/users/7930622)(osu!taiko), ![][flag_FR] [Noulayfe](/users/4316542)(osu!catch), ![][flag_FR] [DemonWaves](/users/3909293)(osu!mania) |
 
 Zobacz także
 ---------------
