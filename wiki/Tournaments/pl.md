@@ -186,8 +186,6 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Coupe de Francja CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| [Catch French Intermediate Cup](/wiki/Tournaments/CFIC_1) | 2019-03-02 | 2019-03-30 | - | - | - |
-| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-23 | 2019-05-04 | - | - | - |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
