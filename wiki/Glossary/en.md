@@ -14,7 +14,9 @@ A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Som
 
 ### AFK
 
-An internet acronym that means *Away From Keyboard*. An example of this is when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
+*Short for "away from keyboard".*
+
+A term used when an active user walks off to do something else while they are still signed in. osu! will mark users as "Idle" if they have been inactive for some time.
 
 ### Approach Circle
 
@@ -97,7 +99,9 @@ You can usually check to see the audio file's bit rate by checking the file prop
 
 ### BG
 
-BG is short for *background*. BG refers to the background image and/or video of a beatmap. Inside a beatmap folder, BG (sometimes stylized as *bg*) is usually the name for the background image.
+*Short for "background".*
+
+Refers to the background image and/or video of a beatmap. Inside a beatmap folder, BG (sometimes stylized as *bg*) is usually the name for the background image.
 
 ### Blanket
 
@@ -105,11 +109,15 @@ A mapping term to describe when a slider covers the shape of another object. A g
 
 ### BN
 
-Short for *Beatmap Nominator*, a member of the [Beatmap Nomination Group](/wiki/people/Beatmap_Nomination_Group).
+*Short for [Beatmap Nominator](/wiki/People/Beatmap_Nominators).*
+
+Used to refer to the group itself or one of its members.
 
 ### BPM
 
-BPM is short for *Beats Per Minute* and represents the number of whole beats in a minute.
+*Short for "beats per minute".*
+
+Represents the number of whole beats in a minute.
 
 Higher BPM music may be associated with a higher [approach rate](/wiki/approach_rate) value and vice versa.
 
@@ -123,7 +131,7 @@ The use of break times in [osu!mania](/wiki/osu!mania) maps is heavily discourag
 
 ### BSS
 
-BSS is short for *Beatmap Submission System*.
+*Short for [Beatmap Submission System](/wiki/Submission).*
 
 When a [creator](/wiki/creator) has finished mapping their [beatmapset](/wiki/beatmapset) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, your beatmaps will be given a [beatmapID](/wiki/beatmapid) and can be commented on during replays; as well as a [beatmapSetID](/wiki/beatmapsetid).
 
@@ -145,7 +153,9 @@ On the contrary, a reverse choke is when the player combobreaks at the beginning
 
 ### Collab
 
-Collab (short for *collaboration*) has two meanings:
+*Short for "collaboration".*
+
+Collab has two meanings:
 
 1. the work of multiple [creators](/wiki/creators) [beatmapping](/wiki/beatmapping) a single [beatmap](/wiki/beatmap); usually a [marathon](/wiki/marathon) beatmap
    - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap. This is to ensure that the creator has done enough to upload the map under their username.
@@ -297,9 +307,11 @@ Fail has three meanings:
 
 ### FC
 
+*Short for "full combo".*
+
 ![Score comparison between full and broken combos](img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
 
-FC, short for *full combo*, is when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
+A term used when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](/wiki/sliderbreak).
 
 Due to the [combo multiplier effect](/wiki/combo_multiplier_effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
@@ -459,7 +471,9 @@ From the [ranking criteria](/wiki/Ranking_Criteria), the required [drain time](/
 
 ### M4M
 
-M4M, or *Mod for Mod*, is a term describing when a modder agrees to mod another modder's map in return for a mod on their own map.
+*Short for "mod for mod".*
+
+A term describing when a modder agrees to mod another modder's map in return for a mod on their own map.
 
 ### Marathon
 
@@ -475,7 +489,9 @@ Upon the creation of the marathon beatmap, one should name their beatmap version
 
 **As of the 2013-04-23, all members of the MAT at that time were promoted as full members of the [BAT](/wiki/BAT), with the MAT team decommissioned.**
 
-The MAT, meaning *Modding Assistance Team*, was a group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT.
+*Short for "Modding Assistance Team".*
+
+A group of users experienced in modding. MAT members were able to mark any beatmap they approve of with a bubble. This bubble would note that the beatmap as worthy of further consideration by the BAT.
 
 ### Mod Request
 
@@ -613,7 +629,9 @@ The total duration of a beatmap. This includes the lead-in time and the break ti
 
 ### pp
 
-Short for *[performance points](/wiki/Performance_Points)*. The main ranking metric of the game.
+*Short for [Performance Points](/wiki/Performance_Points).*
+
+The main ranking metric of the game.
 
 ### puush
 
@@ -625,7 +643,9 @@ For more information about puush, see [puush / home](https://puush.me).
 
 ### QAT
 
-Short for *[Quality Assurance Team](/wiki/People/Quality_Assurance_Team)*. Used to refer to the group itself or one of its members.
+*Short for [Quality Assurance Team](/wiki/People/Quality_Assurance_Team).*
+
+Used to refer to the group itself or one of its members.
 
 ## R
 
@@ -652,7 +672,9 @@ osu! currently has five rankings:
 
 ### Recalc
 
-Recalc is short for *Recalculate slider lengths*. Recalc is a command under the `Timing` header of the editor screen.
+*Short for "Recalculate slider lengths".*
+
+Recalc is a command under the `Timing` header of the editor screen.
 
 Usage of this is suggested after a [BPM](/wiki/bpm) change is made, if the beatmap already has sliders. This command will automatically adjust the length of every slider in the beatmap to the new BPM. If used, it is important, especially if a large change in BPM has been made, to check every slider and adjust its length manually, where necessary.
 
@@ -670,7 +692,9 @@ For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Center#what-
 
 ### RSI
 
-RSI, short for *Repetitive Strain Injury*, is a type of injury that affects the musculoskeletal and nervous system of the body. This can be caused by doing repetitive tasks in an awkward position which may include playing osu! for an extended amount of time.
+*Short for "repetitive strain injury".*
+
+A type of injury that affects the musculoskeletal and nervous system of the body. This can be caused by doing repetitive tasks in an awkward position which may include playing osu! for an extended amount of time.
 
 ## S
 
@@ -797,7 +821,9 @@ A storyboarder refers to the user who makes storyboards for their own or someone
 
 ### SV
 
-SV, meaning *slider velocity*, is the speed in which the slider moves at in relation to the BPM. This term may sometimes be used during the modding process.
+*Short for "slider velocity".*
+
+The speed in which the slider moves at in relation to the BPM. This term may sometimes be used during the modding process.
 
 The slider velocity defines the movement speed of the slider ball. The lower the slider velocity, the slower the slider ball.
 
@@ -898,7 +924,7 @@ Version has four meanings:
 
 ### WIP
 
-An acronym for *Work In Progress*.
+*Short for "work in progress".*
 
 There are various reasons to mark a beatmap as WIP:
 
