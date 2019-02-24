@@ -8,6 +8,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2013
 
+### August
+
 *For the forum thread, see: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | User | Contributions |
@@ -29,6 +31,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | ![US][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ## 2015
+
+### March
 
 | User | Contributions |
 | --- | --- |
@@ -79,6 +83,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 
 ## 2017
 
+### December
+
 *For the news post, see: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | User | Contributions |
@@ -105,6 +111,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni) which are previous
 | ![PL][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
 ## 2019
+
+### February
 
 *For the news post, see: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
