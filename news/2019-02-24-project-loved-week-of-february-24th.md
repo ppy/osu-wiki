@@ -6,7 +6,7 @@ date: 2019-02-24 22:00:00 +0000
 
 Your regular dose of [Project Loved](https://osu.ppy.sh/community/forums/120) is here! Check out the maps we've selected, and vote for whether or not you'd like to see them in the Loved category!
 
-[![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
+![](/wiki/shared/news/banners/project-loved.jpg)
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
 
