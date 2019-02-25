@@ -11,7 +11,7 @@ tags:
 
 ![#GO 3 Logo](img/logo.png)
 
-Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/ "Logitech website") et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s’agit de sa troisième itération.
+Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/ "Logitech website") et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
 
 ## Dates du tournoi
 
@@ -66,7 +66,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 - [Formulaire d'inscription au tournoi](https://www.gameosu.com/sign_up)
 - Livestream
   - [#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
-  - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
+  - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
   - [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
 
 -----------------------
