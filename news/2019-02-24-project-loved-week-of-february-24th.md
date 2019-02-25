@@ -60,7 +60,7 @@ A fatal error has occurred. Attempting to reboot system. Please do not power off
 [LowFat x Onnyu - DAYBREAK FRONTLINE (Rap Arrange)](https://osu.ppy.sh/beatmapsets/545417#osu) by [Anmiy](https://osu.ppy.sh/users/1014222)  
 *written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-A pretty popular map with over 100 favorites, "DAYBREAK FRONTLINE" is a fast paced song and it's complemented by a fast paced map hitting 273 BPM if you are wanting to singletap it. With aim heavy patterns throughout the map, it is enjoyable no matter your play style if that's your type of map. The map does peak at 6.7 stars, making it not the easiest map to play, although if you are up to the challenge then of course go ahead!
+A pretty popular map with over 100 favorites, "DAYBREAK FRONTLINE" is a fast paced song and it's complemented by a fast paced map hitting 272 BPM if you are wanting to singletap it. With aim heavy patterns throughout the map, it is enjoyable no matter your play style if that's your type of map. The map does peak at 6.69 stars, making it not the easiest map to play, although if you are up to the challenge then of course go ahead!
 
 [![](/wiki/shared/news/2019-02-24-project-loved-week-of-february-24th/osu/lost-time-memory.jpg)](https://osu.ppy.sh/community/forums/topics/873731)
 
@@ -81,14 +81,14 @@ Next up we have a map from DTM9 Nowa. This 160 BPM map "Nexta" from Lapix is tru
 [Imperial Circus Dead Decadence - Chinurareta Shuren ni Fukeru Houmura](https://osu.ppy.sh/beatmapsets/508884#osu) by [alkotras42](https://osu.ppy.sh/users/4749499)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-This is one of the lower-difficulty Imperial Circus Dead Decadence maps that are mapped, but don't let that fool you! This map is a well-made by alkotras42 and still packs in 6.33 stars with quite a bit of streams. The map is simple overall, but it is quite long, making it harder to pass with a full combo without missing a few notes here and there. Coming in at 161 favourites, this map is truly Loved by the community. Give it a go!
+This is one of the lower-difficulty Imperial Circus Dead Decadence maps that are mapped, but don't let that fool you! This map is a well-made by alkotras42 and still packs in 6.33 stars with quite a bit of streams. The map is simple overall, but it is quite long, making it harder to pass with a full combo without missing a few notes here and there. Coming in at over 150 favourites, this map is truly loved by the community. Give it a go!
 
 [![](/wiki/shared/news/2019-02-24-project-loved-week-of-february-24th/osu/elemental-creation.jpg)](https://osu.ppy.sh/community/forums/topics/873728)
 
 [dj TAKA meets DJ YOSHITAKA - Elemental Creation](https://osu.ppy.sh/beatmapsets/193856#osu) by [DoKito](https://osu.ppy.sh/users/537084)  
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
-One of DoKito's infamous maps, Elemental Creation is an older style of map involving many of the winding streams that DoKo is known for, as well as some harsh jump patterns to break up the constant bombardment of flow aim. With two difficulties, one AR9 and one 10, you can pick whether you just want a challenge to mechanics or whether you want to push your reading to the limit, since the song is a pacy 210 BPM. Can you handle the streams? Try your luck!
+One of DoKito's infamous maps, Elemental Creation is an older style of map involving many of the winding streams that DoKo is known for, as well as some harsh jump patterns to break up the constant bombardment of flow aim. With two difficulties, one AR9 and one 10, you can pick whether you just want a challenge to mechanics or whether you want to push your reading to the limit, since the song is a pacy 212 BPM. Can you handle the streams? Try your luck!
 
 [![](/wiki/shared/news/2019-02-24-project-loved-week-of-february-24th/osu/fairy-dancing-in-lake.jpg)](https://osu.ppy.sh/community/forums/topics/873727)
 
@@ -169,7 +169,7 @@ This mapset also comes with four other difficulties: four sped-up versions of th
 
 [Beltaine - Rockhill](https://osu.ppy.sh/beatmapsets/464358#mania) by [Ryu Sei](https://osu.ppy.sh/users/3427638)
 
-Simplicity is the key to success for Rockhill, the next of our mania nominations. The staple of this chart comes from the use of single LNs to follow the violin, with some additional layering being compounded as the song continues, introducing heavier difficulty and tricky releases. This makes for a fun and dynamic experience, while not taking away the charm of it's initial simplicity. These facts have it a very sizable following, stacking with it's all approachable nature and allowing for an extreme amount of support, only aided by its use in the 2017 osu!mania world cup. All of this more than proves its worth for the Loved section.
+Simplicity is the key to success for Rockhill, the next of our mania nominations. The staple of this chart comes from the use of single LNs to follow the violin, with some additional layering being compounded as the song continues, introducing heavier difficulty and tricky releases. This makes for a fun and dynamic experience, while not taking away the charm of it's initial simplicity. These facts have it a very sizable following, stacking with it's all approachable nature and allowing for an extreme amount of support, only aided by its use in the osu!mania World Cup 2017. All of this more than proves its worth for the Loved section.
 
 [![](/wiki/shared/news/2019-02-24-project-loved-week-of-february-24th/mania/the-box.jpg)](https://osu.ppy.sh/community/forums/topics/873718)
 
@@ -189,7 +189,7 @@ Primarily known for its appearance in the osu!mania World Cup 2016, Uchouten Viv
 
 [![](/wiki/shared/news/2019-02-24-project-loved-week-of-february-24th/mania/marcia-harukaze-ni-omoi-wo-nosete.jpg)](https://osu.ppy.sh/community/forums/topics/873717)
 
-[Mochikomame & AitsukiNakuru & Mameko - Marcia! ~Harukaze ni omoi wo nosete~](https://osu.ppy.sh/beatmapsets/630715#mania) by [LostCool](https://osu.ppy.sh/users/766374)
+[Mochikomame & AitsukiNakuru & Mameko - Marcia! \~Harukaze ni omoi wo nosete\~](https://osu.ppy.sh/beatmapsets/630715#mania) by [LostCool](https://osu.ppy.sh/users/766374)
 
 Making their first appearance in Project Loved, we have LostCool and his lolis! Don't let this song fool you as the song steadily gets harder and harder until your heart gives out (either from difficulty or cuteness)!
 
