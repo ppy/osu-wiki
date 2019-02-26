@@ -93,7 +93,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ## Match Schedule: Semifinals
 
-### Saturday, 23. February 2019
+### Saturday, 03. March 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -103,7 +103,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | Macau | ![][flag_MO] | ![][flag_TH] | Thailand | **15:30 UTC** | 23:30 UTC+08 | 22:30 UTC+07 | ² |
 | Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:00 UTC** | 14:00 UTC-03 | 14:00 UTC-03 | ² |
 
-### Sunday, 24. February 2019
+### Sunday, 04. March 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
