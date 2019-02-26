@@ -47,8 +47,8 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 ## Liens
 
 - [Fil de discussion](/community/forums/topics/858507)
-- [Discord du CFC](https://discord.gg/3DewaX8)
-- [Challonge du CFC](https://osucfc.challonge.com/CFIC1)
+- [Discord du CFIC](https://discord.gg/3DewaX8)
+- [Challonge du CFIC](https://osucfc.challonge.com/CFIC1)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
 
@@ -121,7 +121,7 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 
 ### Phase de poules
 
-**[Télécharge le mappack ici! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
+**[Téléchargez le mappack ici! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
 
 - NoMod
   - [Kaneko Chiharu - iLLness LiLin (ZiRoX) \[ZiRoX's ADVANCED\]](/beatmapsets/777109#fruits/1662268)
@@ -147,7 +147,7 @@ La Catch French Cup 3 est gérée par différents membres de la communauté, en 
 ### Règles Générales
 
 1. Le tournoi prendra place dans un format de 1v1 double-élimination avec un seeding traditionnel.
-2. Le tournoi durera 7 weekends. Les matchs seront joués sous les paramètres **Score V2** et **Head to Head**.
+2. Le tournoi durera 5 weekends. Les matchs seront joués sous les paramètres **Score V2** et **Head to Head**.
 3. Un arbitre sera présent pour chaque match.
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend seront en best-of-7, les matchs du 2ème weekend seront en best-of-9, les matchs du 3ème weekend seront en best-of-11, les matchs du 4ème et du 5ème weekend seront en best-of-13.

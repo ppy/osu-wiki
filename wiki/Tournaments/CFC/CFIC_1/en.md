@@ -47,8 +47,8 @@ The Catch French Intermediate Cup is run by various community members by distrib
 ## Links
 
 - [Discussion thread](/community/forums/topics/858507)
-- [CFC Discord server](https://discord.gg/3DewaX8)
-- [CFC Challonge brackets](https://osucfc.challonge.com/CFIC1)
+- [CFIC Discord server](https://discord.gg/3DewaX8)
+- [CFIC Challonge brackets](https://osucfc.challonge.com/CFIC1)
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
 
