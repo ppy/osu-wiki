@@ -19,36 +19,36 @@ Additionally, any visual assets associated with the beatmap must be broadly cons
 Visual content (aka: beatmap backgrounds, skins, objects and other included graphical or video-related assets distributed with a beatmapset) **MUST NOT** contain any of the following:
 
 * Depictions of excessive violence towards humans, human-like characters or animals
-  - Example: imagery that portrays gore, mutilation, severe maiming, wounding or graphical depictions of recent death with an obvious cause present (etc: hanging, asphyxiation, exasanguination/bleeding out)
+  - Unacceptable example: imagery that portrays gore, mutilation, severe maiming, wounding or graphical depictions of recent death with an obvious cause present (etc: hanging, asphyxiation, exsanguination/bleeding out)
 * Depictions of obvious sexual innuendo in excess
-  - Example: imagery that imitates sexual acts on a phallic-like object, such as a cucumber
+  - Unacceptable example: imagery that imitates sexual acts on a phallic-like object, such as a cucumber
 * Explicit or highly suggestive sexual posturing in any capacity
-  - Example: a character in a state of near or partial undress lying atop a bed or another surface with obvious sexual intent/anticipation
+  - Unacceptable example: a character in a state of near or partial undress lying atop a bed or another surface with obvious sexual intent/anticipation
 * Depictions of any sexual content involving or targeted at minors, or fantasy characters of uncertain/dubious age
-  - Example: Any form of overt sexual posturing, innuendo or portrayal from an anime character in the 'loli' style, regardless of their established narrative age
+  - Unacceptable example: Any form of overt sexual posturing, innuendo or portrayal from an anime character in the 'loli' style, regardless of their established narrative age
 * Erotic nudity or graphic sexual depiction
-  - Example: Active sexual intercourse, foreplay, full frontal nudity with genitals clearly visible
+  - Unacceptable example: Active sexual intercourse, foreplay, full frontal nudity with genitals clearly visible
 * Depictions of drug paraphernalia or consumption of any common contraband substance (cocaine, amphetamines, etc), regardless of legality in your host country
-  - Example: bongs, coke spoons, used needles, obvious 'pockmark' bruises suggestive of heavy drug use
+  - Unacceptable example: bongs, coke spoons, used needles, obvious 'pockmark' bruises suggestive of heavy drug use
 * Depictions of widely abhorrent cultural/religious icons intended to deliberately inflame, such as offensive use of Nazi/fascist aligned swastikas, anti-Semetic terminology and symbols, or any other icon or motif that is an active signet or marker of discrimination against a social, racial or political group
   
 Visual content **may contain some** of the following aspects in limited quantities, subject to common sense and good faith:
 
 * Depictions of swimsuit or 'scant' dress/undress so long as such imagery is not highly excessive or in violation of the posturing & innuendo rules listed above
-  - Good example: A particularly busty anime character enjoying some time on a dock with her seagull companion
+  - Acceptable example: A particularly busty anime character enjoying some time on a dock with her seagull companion
   - Unacceptable example: Three very busty anime characters wearing similar swimsuits with their breasts poised in obvious presentation, with said imagery occupying more than a third of the image's total scene
 * Imagery of mild to moderate violence without excessive gore or bloodshed
-  - Good example: Two characters from a boxing anime actively fighting one another with bruises, swelling, and some blood present
+  - Acceptable example: Two characters from a boxing anime actively fighting one another with bruises, swelling, and some blood present
   - Unacceptable example: A sword fighter removing a limb from an opponent's body with much blood present
 * Tasteful depiction of sexual "assets" not done to the extremes
-  - Good example: Motion-oriented clothing movement that exposes the front or back of the upper thighs, clothing that exposes a reasonable amount of cleavage, shirtless male characters (with or without nipples)
+  - Acceptable example: Motion-oriented clothing movement that exposes the front or back of the upper thighs, clothing that exposes a reasonable amount of cleavage, shirtless male characters (with or without nipples)
   - Unacceptable example: Both genders attired in microkini swimsuits, pasties or other stickers, bandages or adhesive material covering genitals
 * Depiction of obviously artistic nudity within the context of a given work or domain
-  - Good example: Pairing classic Salvador Dali art containing mild nudity to a work cited to be inspired by said piece, or that otherwise houses an obvious, discernible reference to it
-  - Bad example: Using a nude model or figure with a work that has no obvious link to the piece, such as on an unrelated anime opening or ending theme
+  - Acceptable example: Pairing classic Salvador Dali art containing mild nudity to a work cited to be inspired by said piece, or that otherwise houses an obvious, discernible reference to it
+  - Unacceptable example: Using a nude model or figure with a work that has no obvious link to the piece, such as on an unrelated anime opening or ending theme
  * Depiction of romantic or intimate acts within an acceptable narrative context
-  - Good example: The MC of a given anime and his love interest holding hands or sharing a kiss
-  - Bad example: Characters engaged in heavy petting, French kissing or implied masturbation with genitals visible or not
+  - Acceptable example: The MC of a given anime and his love interest holding hands or sharing a kiss
+  - Unacceptable example: Characters engaged in heavy petting, French kissing or implied masturbation with genitals visible or not
 
 The anecdotal 'rule of thumb' is that one should generally be comfortable with their family members or other judgmental authority figure viewing the content and be capable of adequately explaining what is going on in it. This is by no means a strict requirement, but it is a good way to help inform your decisions on what is and isn't appropriate.
 
