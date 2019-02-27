@@ -46,7 +46,7 @@ Visual content **may contain some** of the following aspects in limited quantiti
 * Depiction of obviously artistic nudity within the context of a given work or domain
   - Acceptable example: Pairing classic Salvador Dali art containing mild nudity to a work cited to be inspired by said piece, or that otherwise houses an obvious, discernible reference to it
   - Unacceptable example: Using a nude model or figure with a work that has no obvious link to the piece, such as on an unrelated anime opening or ending theme
- * Depiction of romantic or intimate acts within an acceptable narrative context
+* Depiction of romantic or intimate acts within an acceptable narrative context
   - Acceptable example: The MC of a given anime and his love interest holding hands or sharing a kiss
   - Unacceptable example: Characters engaged in heavy petting, French kissing or implied masturbation with genitals visible or not
 
