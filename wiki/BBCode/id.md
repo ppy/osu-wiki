@@ -2,11 +2,11 @@
 
 ![forum post dengan tombol-tombolnya](img/editor.jpg "tempat edit di forum")
 
-BBCode adalah sintaks markup yang digunakan di forum osu! dan, untuk tingkat yang lebih besar, sebagian besar osu! forum di internet telah mengaktifkan rich text formatting. Ini terdiri dari tag yang mengelilingi teks untuk memperkaya dan, terkadang beberapa atribut. Di osu!forum, BBCode digunakan untuk forum post, signature dan user pages.
+BBCode adalah sintaks markup yang digunakan di osu! forum dan, untuk tingkat yang lebih besar, sebagian besar osu! forum di internet telah mendukung rich text formatting. BBCode terdiri dari tag yang mengelilingi teks untuk memperkaya suatu teks, terkadang beberapa atribut. Di osu!forum, BBCode digunakan untuk forum post, signature dan user pages.
 
 ## Catatan
 
-Sementara post editor menyediakan beberapa alat pemformatan dasar, dimungkinkan untuk secara manual menulis BBCode. Tag BBCode tidak sensitif huruf.
+Sementara post editor menyediakan beberapa alat pemformatan dasar, pengguna juga dapat secara manual menulis BBCode-nya. Tag BBCode juga tidak sensitif terhadap huruf _(case-sensitive)_.
 
 ### Perilaku tombol BBCode
 
@@ -14,7 +14,7 @@ Tanpa teks yang disorot, dengan menekan salah satu tombol akan membuat tag terse
 
 ### Menggabungkan tag
 
-Tag dapat dikombinasikan untuk memperkaya teks. Urutan dan penandaan tag **harus** dihormati ketika menggabungkan tags. Gagal melakukan perintah akan merusak format teks tersebut.
+Tag dapat dikombinasikan untuk memperkaya isi teks. Urutan dan penandaan tag **harus** dipatuhi ketika menggabungkan beberapa tag. Jika tidak mematuhi aturan dalam penulisan BBCode, Anda akan merusak format teks tersebut.
 
 Untuk contoh (perhatikan urutan kodenya):
 
@@ -25,11 +25,11 @@ Untuk contoh (perhatikan urutan kodenya):
 
 ### Bold
 
-**Menekankan** kata-kata atau seluruh paragraf dengan cara **menebalkan** daripada [italics](#italic).
+**Menekankan** kata-kata atau seluruh paragraf dengan cara **menebalkan** kata yang disorot, tag ini lebih efektif daripada [italics](#italic) dalam situasi penekanan kata mana yang lebih penting.
 
 - Tombol khusus: ![Bold button](img/bold.png)
 - Catatan:
-  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+  - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
 ```
 [b] ... [/b]
@@ -37,11 +37,11 @@ Untuk contoh (perhatikan urutan kodenya):
 
 ### Italic
 
-**Menekankan** kata-kata atau seluruh paragraf dengan cara *memiringkan teks* daripada [bold](#bold).
+**Menekankan** kata-kata atau seluruh paragraf dengan cara *memiringkan teks* kata yang disorot, tag ini lebih efektif daripada [bold](#bold) dalam situasi penekanan kata mana yang butuh sorotan miring.
 
 - Tombol khusus: ![Italic button](img/italic.png)
 - Catatan:
-  - Gunakan sehemat mungkin. Penggunaan berlebihan akan melemahkan efektivitas penekanan.
+  - Gunakan seperlunya. Penggunaan berlebihan akan melemahkan efektivitas penekanan.
 - Sintaks:
 ```
 [i] ... [/i]
@@ -53,7 +53,7 @@ Untuk contoh (perhatikan urutan kodenya):
 
 - Tombol khusus: N/A
 - Catatan:
-  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+  - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
 ```
 [u] ... [/u]
@@ -67,7 +67,7 @@ _Juga dikenal sebagai **strikethrough**._
 
 - Tombol khusus: ![Strike button](img/strike.png)
 - Catatan:
-  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+  - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
 ```
 [strike] ... [/strike]
@@ -75,15 +75,15 @@ _Juga dikenal sebagai **strikethrough**._
 
 ### Colour
 
-_BBCode menyebut ini "Color"._
+_BBCode menyebut ini sebagai "Color"._
 
 **Menambahkan warna** ke beberapa teks.
 
 - Tombol khusus: N/A
 - Catatan:
   - Colour box terletak pada sebelah kanan teks box.
-  - Gunakan sehemat mungkin. Penggunaan yang terlalu berlebihan dapat mengakibatkan sulit dibaca oleh mata. Penyalahgunaan tag ini dapat membuat teks Anda tidak akan terbaca.
-  - Jika memilih warna, pastikan berbeda dengan background, agar dapat mudah dibaca.
+  - Gunakan seperlunya. Penggunaan yang terlalu berlebihan dapat mengakibatkan teks sulit dibaca oleh mata. Penyalahgunaan tag ini dapat membuat teks Anda tidak formal.
+  - Jika memilih warna, pastikan warna yang dipilih berbeda dengan background, agar memudahkan pembaca.
   - `HEXCODE` tidak boleh menggunakan tanda kutip.
 - Sintaks:
   - Dimana `HEXCODE` adalah warna dalam bentuk hexadecimal atau nama warna.
@@ -93,7 +93,7 @@ _BBCode menyebut ini "Color"._
 [color=HEXCODE] ... [/color]
 ```
 
-Untuk melihat daftar nama warna, silahkan lihat [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
+Untuk melihat daftar warna, silahkan lihat [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
 
 ### Font size
 
@@ -101,13 +101,13 @@ Menyesuaikan ukuran teks secara relatif.
 
 - Tombol khusus: ![Font size options](img/font-size.png)
 - Catatan:
-  - Gunakan tag ini sehemat mungkin.
+  - Gunakan tag ini seperlunya.
   - Terdapat 4 ukuran yang dapat Anda gunakan:
     - `50` (tiny)
     - `85` (small)
-    - `100` (normal; default)
+    - `100` (normal; standar)
     - `150` (large)
-  - Jika Anda tidak menggunakan salah satu diatas, itu akan menggunakan ukuran default font.
+  - Jika Anda tidak menggunakan salah satu diatas, sistem akan menggunakan font berukuran standar.
   - `NUMBER` tidak boleh menggunakan tanda kutip.
 - Sintaks:
   - Dimana `NUMBER` adalah salah satu ukuran yang tercantum diatas (`50`, `85`, `100`, atau `150`).
@@ -117,11 +117,11 @@ Menyesuaikan ukuran teks secara relatif.
 
 ### Spoiler
 
-_Jangan bingung dengan [Spoilerbox](#spoilerbox)._
+_Jangan disamakan dengan [Spoilerbox](#spoilerbox)._
 
 **Menutupi teks* dengan background hitam.
 
-Ini sangat bermanfaat saat Anda berbicara adegan kritis pada acara TV, film, atau anime tapi tidak ingin membeberkannya pada orang lain. Pembaca dapat membaca teks yang sudah disoroti tersebut.
+Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, atau anime tapi tidak ingin membeberkannya pada orang lain. Pembaca dapat membaca teks yang sudah disoroti oleh tag tersebut.
 
 - Tombol khsusus: N/A
 - Catatan:
@@ -133,13 +133,13 @@ Ini sangat bermanfaat saat Anda berbicara adegan kritis pada acara TV, film, ata
 
 ### Spoilerbox
 
-_Jangan bingung dengan [Box](#box) atau [Spoiler](#spoiler)._
+_Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler)._
 
 **Menyembunyikan Paragraf** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca paragraf tersebut dengan menekan spoilerbox untuk melihat paragraf yang telah disembunyikan.
 
 - Tombol khusus: ![Spoilerbox button](img/spoilerbox.png)
 - Catatan:
-  - Ini akan membuat [Box](#box) dengan berisi teks `collapsed text`.
+  - Tombol ini akan membuat sebuah [Box](#box) berisikan teks yang berjudul `collapsed text`.
 - Sintaks:
 ```
 [spoilerbox]
