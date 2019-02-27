@@ -42,7 +42,7 @@ Visual content **may contain some** of the following aspects in limited quantiti
   - Unacceptable example: A sword fighter removing a limb from an opponent's body with much blood present
 * Tasteful depiction of sexual "assets" not done to the extremes
   - Acceptable example: Motion-oriented clothing movement that exposes the front or back of the upper thighs, clothing that exposes a reasonable amount of cleavage, shirtless male characters (with or without nipples)
-  - Unacceptable example: Both genders attired in microkini swimsuits, pasties or other stickers, bandages or adhesive material covering genitals
+  - Unacceptable example: Any gender attired in microkini swimsuits, pasties, other stickers, bandages or adhesive material covering genitals
 * Depiction of obviously artistic nudity within the context of a given work or domain
   - Acceptable example: Pairing classic Salvador Dali art containing mild nudity to a work cited to be inspired by said piece, or that otherwise houses an obvious, discernible reference to it
   - Unacceptable example: Using a nude model or figure with a work that has no obvious link to the piece, such as on an unrelated anime opening or ending theme
