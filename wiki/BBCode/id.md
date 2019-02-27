@@ -1,0 +1,391 @@
+# BBCode
+
+![forum post dengan tombol-tombolnya](img/editor.jpg "tempat edit di forum")
+
+BBCode adalah sintaks markup yang digunakan di forum osu! dan, untuk tingkat yang lebih besar, sebagian besar osu! forum di internet telah mengaktifkan rich text formatting. Ini terdiri dari tag yang mengelilingi teks untuk memperkaya dan, terkadang beberapa atribut. Di osu!forum, BBCode digunakan untuk forum post, signature dan user pages.
+
+## Catatan
+
+Sementara post editor menyediakan beberapa alat pemformatan dasar, dimungkinkan untuk secara manual menulis BBCode. Tag BBCode tidak sensitif huruf.
+
+### Perilaku tombol BBCode
+
+Tanpa teks yang disorot, dengan menekan salah satu tombol akan membuat tag tersebut berada pada kursor teks itu di post editor. Dengan teks yang disorot, dengan menekan salah satu tombol tag akan mengelilingi teks yang disorot.
+
+### Menggabungkan tag
+
+Tag dapat dikombinasikan untuk memperkaya teks. Urutan dan penandaan tag **harus** dihormati ketika menggabungkan tags. Gagal melakukan perintah akan merusak format teks tersebut.
+
+Untuk contoh (perhatikan urutan kodenya):
+
+- `[centre]` `[b]` _teks_ `[/b]` `[/centre]` ini benar, tapi
+- `[b]` `[centre]` _teks_ `[/b]` `[/centre]` ini salah.
+
+## Daftar tag BBCode
+
+### Bold
+
+**Menekankan** kata-kata atau seluruh paragraf dengan cara **menebalkan** daripada [italics](#italic).
+
+- Tombol khusus: ![Bold button](img/bold.png)
+- Catatan:
+  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+- Sintaks:
+```
+[b] ... [/b]
+```
+
+### Italic
+
+**Menekankan** kata-kata atau seluruh paragraf dengan cara *memiringkan teks* daripada [bold](#bold).
+
+- Tombol khusus: ![Italic button](img/italic.png)
+- Catatan:
+  - Gunakan sehemat mungkin. Penggunaan berlebihan akan melemahkan efektivitas penekanan.
+- Sintaks:
+```
+[i] ... [/i]
+```
+
+### Underline
+
+**Menggaris bawahi** kata-kata atau seluruh paragraf.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+- Sintaks:
+```
+[u] ... [/u]
+```
+
+### Strike
+
+_Juga dikenal sebagai **strikethrough**._
+
+**Mencoret** kata-kata atau seluruh paragraf.
+
+- Tombol khusus: ![Strike button](img/strike.png)
+- Catatan:
+  - Gunakan sehemat mungkin. Penggunaan terlalu berlebihan membuat teks sulit dibaca.
+- Sintaks:
+```
+[strike] ... [/strike]
+```
+
+### Colour
+
+_BBCode menyebut ini "Color"._
+
+**Menambahkan warna** ke beberapa teks.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Colour box terletak pada sebelah kanan teks box.
+  - Gunakan sehemat mungkin. Penggunaan yang terlalu berlebihan dapat mengakibatkan sulit dibaca oleh mata. Penyalahgunaan tag ini dapat membuat teks Anda tidak akan terbaca.
+  - Jika memilih warna, pastikan berbeda dengan background, agar dapat mudah dibaca.
+  - `HEXCODE` tidak boleh menggunakan tanda kutip.
+- Sintaks:
+  - Dimana `HEXCODE` adalah warna dalam bentuk hexadecimal atau nama warna.
+    - Untuk hexadecimal, harus dimulai dengan `#`, kemudian diikuti 6 angka hexadecimal (0 - 9, A - F) karakter.
+    - Untuk nama warna, itu haruslah warna html yang valid.
+```
+[color=HEXCODE] ... [/color]
+```
+
+Untuk melihat daftar nama warna, silahkan lihat [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
+
+### Font size
+
+Menyesuaikan ukuran teks secara relatif.
+
+- Tombol khusus: ![Font size options](img/font-size.png)
+- Catatan:
+  - Gunakan tag ini sehemat mungkin.
+  - Terdapat 4 ukuran yang dapat Anda gunakan:
+    - `50` (tiny)
+    - `85` (small)
+    - `100` (normal; default)
+    - `150` (large)
+  - Jika Anda tidak menggunakan salah satu diatas, itu akan menggunakan ukuran default font.
+  - `NUMBER` tidak boleh menggunakan tanda kutip.
+- Sintaks:
+  - Dimana `NUMBER` adalah salah satu ukuran yang tercantum diatas (`50`, `85`, `100`, atau `150`).
+```
+[size=NUMBER] ... [/size]
+```
+
+### Spoiler
+
+_Jangan bingung dengan [Spoilerbox](#spoilerbox)._
+
+**Menutupi teks* dengan background hitam.
+
+Ini sangat bermanfaat saat Anda berbicara adegan kritis pada acara TV, film, atau anime tapi tidak ingin membeberkannya pada orang lain. Pembaca dapat membaca teks yang sudah disoroti tersebut.
+
+- Tombol khsusus: N/A
+- Catatan:
+  - Jika Anda menggunakan [colour](#colour) tag bersamaan dengan ini, warna background tidak akan berubah dan tetap dengan warna hitam.
+- Sintaks:
+```
+[spoiler] ... [/spoiler]
+```
+
+### Spoilerbox
+
+_Jangan bingung dengan [Box](#box) atau [Spoiler](#spoiler)._
+
+**Menyembunyikan Paragraf** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca paragraf tersebut dengan menekan spoilerbox untuk melihat paragraf yang telah disembunyikan.
+
+- Tombol khusus: ![Spoilerbox button](img/spoilerbox.png)
+- Catatan:
+  - Ini akan membuat [Box](#box) dengan berisi teks `collapsed text`.
+- Sintaks:
+```
+[spoilerbox]
+...
+[/spoilerbox]
+```
+
+### Box
+
+_Jangan bingung dengan [Spoilerbox](#spoilerbox)._
+
+**Menyembunyikan Paragraf** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca paragraf tersebut dengan menekan box untuk melihat paragraf yang telah disembunyikan.
+
+Ini biasanya digunakan untuk menyembunyikan gambar berukuran besar atau gambar yang terlalu banyak.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Secara default, ini akan membuat box tanpa berisi teks.
+    - Jika Anda mengisi `NAME` dengan blank (atau tidak diisi teks apapun), tinggi dari box akan terlihat lebih kecil!
+  - `NAME` tidak boleh berisi tanda kutip.
+  - `NAME` dapat berisi spasi.
+- Sintaks:
+  - Dimana `NAME` adalah nama dari box tersebut.
+```
+[box=NAME]
+...
+[/box]
+```
+
+### Quote
+
+Digunakan untuk mengutip sebuah kalimat atau paragraf.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Ini sangat bagus bila Anda ingin mengutip seseorang (gunakan `NAME` argumen).
+  - `NAME` argumen **harus** menggunakan tanda kutip.
+  - Terdepat tombol quote untuk setiap post (bawah-kanan) itu akan otomatis mengutip sebuah post dari setiap user.
+    - Jika kamu melakukan ini, post (jika kamu menekan `Post`) akan di posting di thread sekarang.
+- Sintaks:
+  - Dimana `NAME` adalah nama dari box (**harus** dilengkapi dengan tanda kutip).
+```
+[quote=NAME]
+...
+[/quote]
+```
+
+### Code
+
+Format teks dengan bentuk monospaced font-family dan letaknya didalam box abu-abu. Ini sangat berguna bila Anda memposting sebuah kode storyboard atau kode lainnya.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Ini akan menjaga jarak spasi, ini berarti bahwa tidak ada baris kata yang akan rusak kecuali Anda yang merusaknya.
+  - Baris kata yang banyak akan otomatis membentuk scroll box secara horizontal.
+- Sintaks:
+```
+[code]
+...
+[/code]
+```
+
+### Centre
+
+Memindahkan paragraf ke tengah; Ini biasanya digunakan untuk mengubah posisi judul teks.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Tag **harus** dieja `centre` bukan `center` (perhatikan dua huruf terakhir).
+- Sintaks:
+```
+[centre]
+...
+[/centre]
+```
+
+### URL
+
+Adds a link.
+
+Kamu tidak perlu memerlukan tag ini jika kamu tidak ingin menggunakan teks link. osu!forum akan otomatis membuat link berisikan url di dalam post.
+
+- Tombol khusus: ![URL button](img/url.png)
+- Catatan:
+  - `LINK` argumen tidak boleh menggunakan tanda kutip.
+- Sintaks:
+  - Dimana `LINK` adalah Url.
+  - Dimana `TEXT` adalah teks dari link.
+```
+[url=LINK]TEXT[/url]
+```
+
+### Profile
+
+Link sebuah profil dengan menggunakan nama user.
+
+Penggunaan dari tag ini **sangatlah kecil**! Masalah dari penggunaan tag ini ialah nama user dapat diganti sekali setelah mendapatkan [osu!supporter tag](/wiki/osu!supporter). Dan sekali mereka melakukannya, tautan akan gagal.
+
+Sangat direkomendasikan menggunakan [URL](#url) sebagai ganti dari (menggunakan nomor id user).
+
+- Tombol khusus: N/A
+- Catatan:
+  - Tidak direkomendasikan!
+  - `USER` argument harus didefinisikan.
+- Sintaks:
+  - Dimana `USER` adalah nama dari user tersebut.
+```
+[profile]USER[/profile]
+```
+
+### Google
+
+Otomatis link ke Google Search dengan teks yang disediakan.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Ketahuilah ini tidak akan memberikan hasil yang sama kepada semua orang.
+	- Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
+- Sintaks:
+```
+[google]...[/google]
+```
+
+### Lucky
+
+**Menambahkan Tautan Langsung pada halaman** menggunakan tombol Google's *I'm Feeling Lucky* dengan teks yang sudah disediakan.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Ketahuilah ini tidak akan memberikan hasil yang sama kepada semua orang.
+    - Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
+- Sintaks:
+```
+[lucky]...[/lucky]
+```
+
+### List
+
+Mengubah teks dalam bentuk daftar.
+
+di dalam BBCode, terdapat dua bagian untuk membuat daftar: wrapper dan bullets. Dimana bullets diletakkan di dalam wrapper.
+
+- Tombol khusus:
+  - Bulleted list: ![List button](img/list.png)
+  - Numbered list: ![Numbered list button](img/list-numbered.png)
+  - List bullet: N/A
+  - List type: N/A
+- Catatan:
+  - Semua bullets harus dikelilingi oleh tag list.
+  - Berikut adalah argumen yang valid dari `TYPE`:
+    - _(empty)_ - bulleted
+    - `1` - numbered
+    - `a` - lettered (lowercased)
+    - `A` - lettered (upper-cased)
+    - `i` - roman numeral (lowercased)
+    - `I` - roman numeral (upper-cased)
+  - Secara standar, bulleted list menggunakan square bullets.
+  - Lists di dalam lists bisa menyebabkan kesalahan.
+- Sintaks:
+  - Dimana `TYPE` adalah salah satu tipe daftar diatas.
+  - Jika `TYPE` tidak digunakan, bullets akan digunakan sebagai gantinya.
+```
+[list=TYPE]
+[*]...
+[/list]
+```
+
+### Image
+
+**Menampilkan gambar dari sumber gambar online**.
+
+Gambar dapat diperoleh dari sumber manapun, selama gambar tersedia dan memiliki url.
+
+**Jangan link gambar langsung dari lokal pc!** Menggunakan `C:\Users\Name\Pictures\image.jpg` **tidak akan bisa digunakan**.
+
+Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur) atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut _hotlinks_). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
+
+- Tombol khusus: ![Image button](img/image.png)
+- Catatan:
+  - Jika Anda memiliki banyak gambar atau gambar berukuran besar, sangat direkomendasikan meletakkannya di dalam [Box](#box).
+- Sintaks:
+  - Dimana `LINK` adalah tautan langsung dari gambar tersebut.
+```
+[img]LINK[/img]
+```
+
+### YouTube
+
+Menambahkan YouTube video di dalam post.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Jika Anda memiliki banyak gambar atau gambar berukuran besar, sangat direkomendasikan meletakkannya di dalam [Box](#box).
+- Sintaks:
+  - Dimana `VIDEO_ID` adalah YouTube video ID (11 huruf panjang), **bukan** seluruh URLnya!
+    - YouTube video ID terletak setelah bagian `?v=` url parameter.
+```
+[youtube]VIDEO_ID[/youtube]
+```
+
+### Heading (v1)
+
+Menambahkan teks berukuran besar berwarna merah muda.
+Ini biasanya ditujukan untuk bagian baru dalam post Anda.
+
+- Tombol khusus: ![Heading button](img/heading.png)
+- Catatan:
+  - Anda harus mengetik sendiri sintaks ini.
+- Sintaks:
+```
+[heading]...[/heading]
+```
+
+### Heading (v2)
+
+Menambahkan teks berukuran besar warna ungu dengan garis horizontal. Ini biasanya ditujukan untuk bagian baru dalam post Anda.
+
+- Tombol khusus: N/A
+- Catatan:
+  - Ini hanya berguna untuk beatmap forum!
+  - Hasilnya akan kelihatan setelah memposting, bukan melalui preview.
+  - Anda harus mengetik sendiri sintaks ini.
+- Sintaks:
+```
+[...]
+```
+
+### Notice
+
+Meletakkan teks di dalam kotak putih.
+
+- Dedicated button: N/A
+- Catatan:
+  - Kamu harus mengetik sendiri sintaks ini.
+- Sintaks:
+```
+[notice]
+...
+[/notice]
+```
+
+## Trivia
+
+- Original forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) oleh [Stefan](https://osu.ppy.sh/users/626907)
+
+### Sejarah
+
+- Terdeapat warna yang rusak di osu!web forum sekarang, jika Anda menggunakan warna `transparent`, itu akan membuat teks menjadi transparan.
+  - Namun bug ini, terselesaikan di desain web yang baru.
