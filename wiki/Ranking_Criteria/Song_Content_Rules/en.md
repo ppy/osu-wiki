@@ -30,7 +30,7 @@ Visual content (aka: beatmap backgrounds, skins, objects and other included grap
   - Unacceptable example: Active sexual intercourse, foreplay, full frontal nudity with genitals clearly visible
 * Depictions of drug paraphernalia or consumption of any common contraband substance (cocaine, amphetamines, etc), regardless of legality in your host country
   - Unacceptable example: bongs, coke spoons, used needles, obvious 'pockmark' bruises suggestive of heavy drug use
-* Depictions of widely abhorrent cultural/religious icons intended to deliberately inflame, such as offensive use of Nazi/fascist aligned swastikas, anti-Semetic terminology and symbols, or any other icon or motif that is an active signet or marker of discrimination against a social, racial or political group
+* Depictions of widely abhorrent cultural/religious icons intended to deliberately inflame, such as offensive use of Nazi/fascist aligned swastikas, anti-Semitic terminology and symbols, or any other icon or motif that is an active signet or marker of discrimination against a social, racial or political group
   
 Visual content **may contain some** of the following aspects in limited quantities, subject to common sense and good faith:
 
