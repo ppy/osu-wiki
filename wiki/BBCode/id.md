@@ -8,9 +8,9 @@ BBCode adalah sintaks markup yang digunakan di osu! forum dan, untuk tingkat yan
 
 Sementara post editor menyediakan beberapa alat pemformatan dasar, pengguna juga dapat secara manual menulis BBCode-nya. Tag BBCode juga tidak sensitif terhadap huruf _(case-sensitive)_.
 
-### Perilaku tombol BBCode
+### Tindakan pada Tombol BBCode
 
-Tanpa teks yang disorot, dengan menekan salah satu tombol akan membuat tag tersebut berada pada kursor teks itu di post editor. Dengan teks yang disorot, dengan menekan salah satu tombol tag akan mengelilingi teks yang disorot.
+Tanpa teks yang disorot, dengan menekan salah satu tombol akan membuat tag tersebut berada pada tepat dimana kursor itu diletakkan di post editor. Dengan teks yang disorot, menekan salah satu tombol, tag akan mengelilingi teks yang disorot.
 
 ### Menggabungkan tag
 
@@ -27,7 +27,7 @@ Untuk contoh (perhatikan urutan kodenya):
 
 **Menekankan** kata-kata atau seluruh paragraf dengan cara **menebalkan** kata yang disorot, tag ini lebih efektif daripada [italics](#italic) dalam situasi penekanan kata mana yang lebih penting.
 
-- Tombol khusus: ![Bold button](img/bold.png)
+- Tombol khusus: ![Tombol Bold](img/bold.png)
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
@@ -39,7 +39,7 @@ Untuk contoh (perhatikan urutan kodenya):
 
 **Menekankan** kata-kata atau seluruh paragraf dengan cara *memiringkan teks* kata yang disorot, tag ini lebih efektif daripada [bold](#bold) dalam situasi penekanan kata mana yang butuh sorotan miring.
 
-- Tombol khusus: ![Italic button](img/italic.png)
+- Tombol khusus: ![Tombol Italic](img/italic.png)
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan akan melemahkan efektivitas penekanan.
 - Sintaks:
@@ -65,7 +65,7 @@ _Juga dikenal sebagai **strikethrough**._
 
 **Mencoret** kata-kata atau seluruh paragraf.
 
-- Tombol khusus: ![Strike button](img/strike.png)
+- Tombol khusus: ![Tombol Strike](img/strike.png)
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
@@ -99,7 +99,7 @@ Untuk melihat daftar warna, silahkan lihat [X11 color names](https://en.wikipedi
 
 Menyesuaikan ukuran teks secara relatif.
 
-- Tombol khusus: ![Font size options](img/font-size.png)
+- Tombol khusus: ![Pengaturan Ukuran Font](img/font-size.png)
 - Catatan:
   - Gunakan tag ini seperlunya.
   - Terdapat 4 ukuran yang dapat Anda gunakan:
@@ -135,9 +135,9 @@ Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, 
 
 _Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler)._
 
-**Menyembunyikan Paragraf** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca paragraf tersebut dengan menekan spoilerbox untuk melihat paragraf yang telah disembunyikan.
+**Menyembunyikan Paragraf, Kalimat atau Gambar** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca atau melihat paragraf dan gambar tersebut dengan menekan spoilerbox untuk melihat paragraf yang telah disembunyikan.
 
-- Tombol khusus: ![Spoilerbox button](img/spoilerbox.png)
+- Tombol khusus: ![Tombol Spoilerbox](img/spoilerbox.png)
 - Catatan:
   - Tombol ini akan membuat sebuah [Box](#box) berisikan teks yang berjudul `collapsed text`.
 - Sintaks:
@@ -151,16 +151,16 @@ _Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler)._
 
 _Jangan bingung dengan [Spoilerbox](#spoilerbox)._
 
-**Menyembunyikan Paragraf** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca paragraf tersebut dengan menekan box untuk melihat paragraf yang telah disembunyikan.
+**Menyembunyikan Paragraf, Kalimat atau Gambar** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca atau melihat paragraf dan gambar tersebut dengan menekan box untuk melihat paragraf yang telah disembunyikan.
 
 Ini biasanya digunakan untuk menyembunyikan gambar berukuran besar atau gambar yang terlalu banyak.
 
 - Tombol khusus: N/A
 - Catatan:
-  - Secara default, ini akan membuat box tanpa berisi teks.
+  - Secara standar, ini akan membuat box tanpa berisi teks.
     - Jika Anda mengisi `NAME` dengan blank (atau tidak diisi teks apapun), tinggi dari box akan terlihat lebih kecil!
-  - `NAME` tidak boleh berisi tanda kutip.
-  - `NAME` dapat berisi spasi.
+  - `NAME` tidak boleh menggunakan tanda kutip.
+  - `NAME` boleh menggunakan spasi.
 - Sintaks:
   - Dimana `NAME` adalah nama dari box tersebut.
 ```
@@ -193,7 +193,7 @@ Format teks dengan bentuk monospaced font-family dan letaknya didalam box abu-ab
 
 - Tombol khusus: N/A
 - Catatan:
-  - Ini akan menjaga jarak spasi, ini berarti bahwa tidak ada baris kata yang akan rusak kecuali Anda yang merusaknya.
+  - Setiap kata akan menjaga jarak spasi-nya, ini berarti bahwa tidak ada baris kata yang akan rusak kecuali Anda yang merusaknya.
   - Baris kata yang banyak akan otomatis membentuk scroll box secara horizontal.
 - Sintaks:
 ```
@@ -220,7 +220,7 @@ Memindahkan paragraf atau kalimat ke tengah; Ini biasanya digunakan untuk mengub
 
 Menambahkan tautan.
 
-Anda tidak perlu memerlukan tag ini jika Anda tidak ingin menggunakan tautan teks. osu! forum akan otomatis mememuat tautan berisikan url di dalam post.
+Anda tidak perlu memerlukan tag ini jika Anda tidak ingin menggunakan tautan teks. osu! forum akan otomatis memuat tautan berisikan url di dalam post.
 
 - Tombol khusus: ![URL button](img/url.png)
 - Catatan:
@@ -238,7 +238,8 @@ Menautkan sebuah profil dengan menggunakan nama user.
 
 Penggunaan dari tag ini **sangatlah kecil**! Masalah dari penggunaan tag ini ialah nama user dapat diganti sekali setelah mendapatkan [osu!supporter tag](/wiki/osu!supporter). Dan sekali mereka melakukannya, tautan akan gagal.
 
-Sangat direkomendasikan menggunakan [URL](#url) sebagai ganti dari (menggunakan nomor id user).
+Sangat direkomendasikan menggunakan [URL](#url) sebagai gantinya (menggunakan nomor id user).
+Contoh penggunaan Nomor ID User `https://osu.ppy.sh/users/2` dimana angka `2` itu adalah nomor ID-nya.
 
 - Tombol khusus: N/A
 - Catatan:
@@ -252,12 +253,12 @@ Sangat direkomendasikan menggunakan [URL](#url) sebagai ganti dari (menggunakan 
 
 ### Google
 
-Otomatis link ke Google Search dengan teks yang disediakan.
+Otomatis Menautkan teks yang disoroti ke Google Search.
 
 - Tombol khusus: N/A
 - Catatan:
   - Ketahuilah ini tidak akan memberikan hasil yang sama kepada semua orang.
-	- Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
+    - Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
 - Sintaks:
 ```
 [google]...[/google]
@@ -265,7 +266,7 @@ Otomatis link ke Google Search dengan teks yang disediakan.
 
 ### Lucky
 
-**Menambahkan Tautan Langsung pada halaman** menggunakan tombol Google's *I'm Feeling Lucky* dengan teks yang sudah disediakan.
+**Menambahkan Tautan Langsung** menggunakan tombol Google *I'm Feeling Lucky* dengan teks yang sudah disediakan.
 
 - Tombol khusus: N/A
 - Catatan:
@@ -281,15 +282,16 @@ Otomatis link ke Google Search dengan teks yang disediakan.
 Mengubah teks dalam bentuk daftar.
 
 di dalam BBCode, terdapat dua bagian untuk membuat daftar: wrapper dan bullets. Dimana bullets diletakkan di dalam wrapper.
+Bullets ialah simbol yang berbentuk sebuah peluru, sedangkan Wrapper ialah membungkusi/menyoroti teks yang sudah memiliki masing-masing Bullets dan membungkusnya menggunakan tag list.
 
 - Tombol khusus:
-  - Bulleted list: ![List button](img/list.png)
-  - Numbered list: ![Numbered list button](img/list-numbered.png)
+  - Bulleted list: ![tombol list](img/list.png)
+  - Numbered list: ![tombol nomor list](img/list-numbered.png)
   - List bullet: N/A
   - List type: N/A
 - Catatan:
   - Semua bullets harus dikelilingi oleh tag list.
-  - Berikut adalah argumen yang valid dari `TYPE`:
+  - Berikut adalah argumen yang benar dari `TYPE` bullets:
     - _(empty)_ - bulleted
     - `1` - numbered
     - `a` - lettered (lowercased)
@@ -297,10 +299,10 @@ di dalam BBCode, terdapat dua bagian untuk membuat daftar: wrapper dan bullets. 
     - `i` - roman numeral (lowercased)
     - `I` - roman numeral (upper-cased)
   - Secara standar, bulleted list menggunakan square bullets.
-  - Lists di dalam lists bisa menyebabkan kesalahan.
+  - List di dalam list bisa menyebabkan kesalahan pada teks tersebut.
 - Sintaks:
   - Dimana `TYPE` adalah salah satu tipe daftar diatas.
-  - Jika `TYPE` tidak digunakan, bullets akan digunakan sebagai gantinya.
+  - Jika `TYPE` tidak digunakan, bullets standar akan digunakan sebagai gantinya.
 ```
 [list=TYPE]
 [*]...
