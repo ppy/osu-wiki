@@ -2,7 +2,7 @@
 
 ![forum post dengan tombol-tombolnya](img/editor.jpg "tempat edit di forum")
 
-BBCode adalah sintaks markup yang digunakan di osu! forum dan, untuk tingkat yang lebih besar, sebagian besar osu! forum di internet telah mendukung rich text formatting. BBCode terdiri dari tag yang mengelilingi teks untuk memperkaya suatu teks, terkadang beberapa atribut. Di osu!forum, BBCode digunakan untuk forum post, signature dan user pages.
+BBCode adalah sintaks markup yang digunakan di osu! forum dan, untuk tingkat yang lebih besar, sebagian besar osu! forum telah mendukung rich text formatting. BBCode terdiri dari tag yang mengelilingi teks untuk memperkaya suatu teks, terkadang beberapa atribut. Di osu! forum, BBCode digunakan untuk forum post, signature dan user pages.
 
 ## Catatan
 
@@ -178,7 +178,7 @@ Digunakan untuk mengutip sebuah kalimat atau paragraf.
   - Ini sangat bagus bila Anda ingin mengutip seseorang (gunakan `NAME` argumen).
   - `NAME` argumen **harus** menggunakan tanda kutip.
   - Terdepat tombol quote untuk setiap post (bawah-kanan) itu akan otomatis mengutip sebuah post dari setiap user.
-    - Jika kamu melakukan ini, post (jika kamu menekan `Post`) akan di posting di thread sekarang.
+    - Jika Anda menggunakan ini, post (jika Anda menekan `Post`) akan di posting di thread sekarang.
 - Sintaks:
   - Dimana `NAME` adalah nama dari box (**harus** dilengkapi dengan tanda kutip).
 ```
@@ -204,7 +204,7 @@ Format teks dengan bentuk monospaced font-family dan letaknya didalam box abu-ab
 
 ### Centre
 
-Memindahkan paragraf ke tengah; Ini biasanya digunakan untuk mengubah posisi judul teks.
+Memindahkan paragraf atau kalimat ke tengah; Ini biasanya digunakan untuk mengubah posisi judul teks.
 
 - Tombol khusus: N/A
 - Catatan:
@@ -218,23 +218,23 @@ Memindahkan paragraf ke tengah; Ini biasanya digunakan untuk mengubah posisi jud
 
 ### URL
 
-Adds a link.
+Menambahkan tautan.
 
-Kamu tidak perlu memerlukan tag ini jika kamu tidak ingin menggunakan teks link. osu!forum akan otomatis membuat link berisikan url di dalam post.
+Anda tidak perlu memerlukan tag ini jika Anda tidak ingin menggunakan tautan teks. osu! forum akan otomatis mememuat tautan berisikan url di dalam post.
 
 - Tombol khusus: ![URL button](img/url.png)
 - Catatan:
   - `LINK` argumen tidak boleh menggunakan tanda kutip.
 - Sintaks:
   - Dimana `LINK` adalah Url.
-  - Dimana `TEXT` adalah teks dari link.
+  - Dimana `TEXT` adalah teks dari tautan tersebut.
 ```
 [url=LINK]TEXT[/url]
 ```
 
 ### Profile
 
-Link sebuah profil dengan menggunakan nama user.
+Menautkan sebuah profil dengan menggunakan nama user.
 
 Penggunaan dari tag ini **sangatlah kecil**! Masalah dari penggunaan tag ini ialah nama user dapat diganti sekali setelah mendapatkan [osu!supporter tag](/wiki/osu!supporter). Dan sekali mereka melakukannya, tautan akan gagal.
 
@@ -342,8 +342,7 @@ Menambahkan YouTube video di dalam post.
 
 ### Heading (v1)
 
-Menambahkan teks berukuran besar berwarna merah muda.
-Ini biasanya ditujukan untuk bagian baru dalam post Anda.
+Menambahkan teks berukuran besar berwarna merah muda. Ini biasanya ditujukan untuk bagian baru dalam post Anda.
 
 - Tombol khusus: ![Heading button](img/heading.png)
 - Catatan:
@@ -355,7 +354,7 @@ Ini biasanya ditujukan untuk bagian baru dalam post Anda.
 
 ### Heading (v2)
 
-Menambahkan teks berukuran besar warna ungu dengan garis horizontal. Ini biasanya ditujukan untuk bagian baru dalam post Anda.
+Menambahkan teks berukuran besar warna ungu dengan garis horizontal dibawah (underline). Ini biasanya ditujukan untuk bagian baru dalam post Anda.
 
 - Tombol khusus: N/A
 - Catatan:
@@ -373,7 +372,7 @@ Meletakkan teks di dalam kotak putih.
 
 - Dedicated button: N/A
 - Catatan:
-  - Kamu harus mengetik sendiri sintaks ini.
+  - Anda harus mengetik sendiri sintaks ini.
 - Sintaks:
 ```
 [notice]
@@ -383,7 +382,7 @@ Meletakkan teks di dalam kotak putih.
 
 ## Trivia
 
-- Original forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) oleh [Stefan](https://osu.ppy.sh/users/626907)
+- Forum post asli: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) oleh [Stefan](https://osu.ppy.sh/users/626907)
 
 ### Sejarah
 
