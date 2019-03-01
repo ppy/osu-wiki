@@ -317,9 +317,9 @@ Gambar dapat diperoleh dari sumber manapun, selama gambar tersedia dan memiliki 
 
 **Jangan link gambar langsung dari lokal pc!** Menggunakan `C:\Users\Name\Pictures\image.jpg` **tidak akan bisa digunakan**.
 
-Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur) atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut _hotlinks_). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
+Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur") atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut _hotlinks_). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
 
-- Tombol khusus: ![Image button](img/image.png)
+- Tombol khusus: ![Tombol Image](img/image.png)
 - Catatan:
   - Jika Anda memiliki banyak gambar atau gambar berukuran besar, sangat direkomendasikan meletakkannya di dalam [Box](#box).
 - Sintaks:
@@ -346,7 +346,7 @@ Menambahkan YouTube video di dalam post.
 
 Menambahkan teks berukuran besar berwarna merah muda. Ini biasanya ditujukan untuk bagian baru dalam post Anda.
 
-- Tombol khusus: ![Heading button](img/heading.png)
+- Tombol khusus: ![Tombol Heading](img/heading.png)
 - Catatan:
   - Anda harus mengetik sendiri sintaks ini.
 - Sintaks:
