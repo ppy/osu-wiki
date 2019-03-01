@@ -23,7 +23,7 @@ By using our service, you confirm that you have read and understood the [Terms o
 
 ### On account registration
 
-While limited functionality can be enjoyed without an account, it is often required that a user register an account to experience certain services. When registering an account, we store
+While limited functionality can be enjoyed without an account, it is often required that a user registers an account to experience certain services. When registering an account, we store
 
 - Your username
 - Your email address
