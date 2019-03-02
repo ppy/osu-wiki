@@ -153,7 +153,41 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 
 -----------------------
 
-podium here
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### osu! Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [ThePooN](/users/718454) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [NerO](/users/1545031) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Flaven](/users/3213239) |
+
+### osu!taiko Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [TimmyAkmed](/users/1799973) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Romainnoda](/users/8814218) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Yona la loutre](/users/7930622) |
+
+### osu!catch Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Boros](/users/5490623) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+
+### osu!mania Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Azubeur](/users/1594604) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [PatouZ](/users/7306522) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [DemonWaves](/users/3909293) |
 
 -----------------------
 

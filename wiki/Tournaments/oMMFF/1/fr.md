@@ -103,7 +103,7 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 - [Fil de discussion](/community/forums/topics/825579)
 - [Livestream](https://twitch.tv/osufrlive)
-- [Discord officiel du oMMFF](https://discord.gg/bWKUsHd)
+- [Discord du oMMFF](https://discord.gg/bWKUsHd)
 - Tableaux Challonge
   - [osu!](https://o2mf.challonge.com/o2mf_osu)
   - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko)
@@ -153,7 +153,41 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 -----------------------
 
-podium here
+## Podium
+
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
+
+### Division osu!
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [ThePooN](/users/718454) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [NerO](/users/1545031) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Flaven](/users/3213239) |
+
+### Division osu!taiko
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [TimmyAkmed](/users/1799973) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Romainnoda](/users/8814218) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Yona la loutre](/users/7930622) |
+
+### Division osu!catch
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_TN] [-Ken](/users/4430811) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Boros](/users/5490623) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](/users/4316542) |
+
+### Division osu!mania
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Azubeur](/users/1594604) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [PatouZ](/users/7306522) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [DemonWaves](/users/3909293) |
 
 -----------------------
 
