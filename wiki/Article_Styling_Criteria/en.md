@@ -584,9 +584,11 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 #### File names
 
-*Notice: All image file extensions must use lowercase letters, otherwise they will fail to load!*
+*Notice: All file extensions must use lowercase letters, otherwise they will fail to load!*
 
-Image file names must not use spaces (use underscores (`_`) or hyphens (`-`) instead). When naming an image, the file name should be meaningful or descriptive but short. Never use timestamps or long hashes for the file name.
+<!-- going with hyphens, see https://github.com/ppy/osu-wiki/issues/1996#issue-403476323 and https://github.com/ppy/osu-wiki/issues/1996#issuecomment-457861162 -->
+
+Spaces in file names must be replaced with hyphens (`-`). When naming an image, the file name should be meaningful or descriptive but short.
 
 #### Image behaviour
 
