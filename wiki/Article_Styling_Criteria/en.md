@@ -170,77 +170,11 @@ The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507).
 
 The escaping character in Markdown is the backslash (`\`). To escape the escape character for a literal backslash, use `\\`.
 
-#### Empty lines
-
-An empty line between two lines of text is parsed as two separate paragraphs. For example:
-
-```
-Skinning allows anyone to change the way osu! looks and feels.
-
-This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
----
-
-Adding more empty lines in between will not affect the spacing of the paragraphs; it will be parsed as if they were one empty line. Doing this is not allowed in the osu! wiki. For example:
-
-```
-Skinning allows anyone to change the way osu! looks and feels.
-
-
-
-This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
-Both will look like this:
-
-![](img/paragraphs.png)
-
-#### Soft breaks
+#### Paragraphs
 
 <!-- ppy ruled soft breaks are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
-If an empty line is not present between two lines (also known as a soft break, henceforth), the two lines will merge into a single paragraph. Soft breaks are not allowed in the osu! wiki. For example:
-
-```md
-Skinning allows anyone to change the way osu! looks and feels.
-This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
-Which is the same as:
-
-```md
-Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
-And both will look like this:
-
-![](img/soft-breaks.png "Although the text is in two separate lines, it is parsed as a single paragraph.")
-
-#### Line breaks
-
-Appending two trailing spaces at the end of a line is parsed as a line break. Line breaks are not allowed in the osu! wiki. For example:
-
-```md
-Skinning allows anyone to change the way osu! looks and feels.  
-This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
-There are two trailing spaces at the end of the first line. The result will look like this:
-
-![](img/line-breaks.png)
-
-However, it is not the same as this:
-
-```md
-Skinning allows anyone to change the way osu! looks and feels.
-
-This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
-```
-
-Which will look like this:
-
-![](img/paragraphs.png)
+Each paragraph must be followed by one empty line.
 
 ### Hatnotes
 
