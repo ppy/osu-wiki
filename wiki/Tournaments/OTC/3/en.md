@@ -178,7 +178,7 @@ The osu! Technical Championship #3 is run by various osu! community members.
   - [Ocelot - KAEDE (Kawashiro) \[Kawa's Extra\]](/beatmapsets/660630#osu/1418838)
   - [EYE\_XY feat. Yoneko - Knight of Firmament (LMT) \[LMT's Insane\]](/beatmapsets/317749#osu/1622359)
 - Tiebreaker
-  - **[AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](/beatmapsets/530818#osu/1125109)**
+  - **[AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](https://osu.ppy.sh/beatmapsets/530818#osu/1125109)**
 
 ### Round of 32 / Round of 16
 
