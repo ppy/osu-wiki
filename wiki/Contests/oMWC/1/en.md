@@ -18,8 +18,8 @@ The **osu! Mapping World Cup #1** (***oMWC #1***) is a country-based osu! mappin
 | Team Ambassadors Applications | 2018-12-11/2018-12-27|
 | Team Pick-ups | 2018-12-27/2019-01-11 |
 | Mapping Phase | 2019-01-12/2019-02-09 |
-| Judging Phase | 2019-02-09/2019-03-04 |
-| Final Results | 2019-03-09 (21:00 UTC+0) |
+| Judging Phase | 2019-02-09/2019-03-09 |
+| Final Results | 2019-03-16 (21:00 UTC+0) |
 
 ## Prizes
 

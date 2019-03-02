@@ -1,4 +1,6 @@
-# osu! wiki [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
+# osu! wiki
+
+[![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
 <!--
 Uncomment and replace after the main wiki page gets implemented, link isn't official:
