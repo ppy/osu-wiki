@@ -109,9 +109,9 @@ GridSize (Integer) specifies the size of the grid for the "Grid Snap" feature.
 
 `GridSize: 4`
 
-TimelineZoom (Integer) specifies the zoom in the editor timeline.
+TimelineZoom (Decimal) specifies the zoom in the editor timeline.
 
-`TimelineZoom: 1`
+`TimelineZoom: 1.5`
 
 Metadata
 --------
