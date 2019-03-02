@@ -7,7 +7,7 @@ tags:
 ---
 
 
-##TAG2 Tournament
+## TAG2 Tournament
 
 ![T2T Logo](img/logo.png)
 
