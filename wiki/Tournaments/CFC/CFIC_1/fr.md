@@ -15,7 +15,7 @@ La **Catch French Intermediate Cup** (***CFIC***) est un tournoi 1v1 français i
 | --: | :-- |
 | Phase d'inscription | 2019-01-20/2019-02-17 |
 | Live Drawings | 2019-02-23 (19:00 UTC+1) |
-| Phase de poules | 2019-03-02 |
+| Phase de poules | 2019-03-01/2019-03-03 |
 | Quarts-de-finale | 2019-03-09/2019-03-10 |
 | Demi-finales | 2019-03-16/2019-03-17 |
 | Finales | 2019-03-23/2019-03-24 |

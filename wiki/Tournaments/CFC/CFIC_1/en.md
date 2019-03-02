@@ -15,7 +15,7 @@ The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one
 | --: | :-- |
 | Registration Phase | 2019-01-20/2019-02-17 |
 | Live Drawings | 2019-02-23 (19:00 UTC+1) |
-| Group Stage | 2019-03-02 |
+| Group Stage | 2019-03-01/2019-03-03 |
 | Quarterfinals | 2019-03-09/2019-03-10 |
 | Semifinals | 2019-03-16/2019-03-17 |
 | Finals | 2019-03-23/2019-03-24 |
