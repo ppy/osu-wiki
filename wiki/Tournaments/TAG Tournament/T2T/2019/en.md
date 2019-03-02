@@ -157,6 +157,7 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 |**Double Siusiaczki** | ![][flag_PL] [Szago](https://osu.ppy.sh/users/2827078), ![][flag_PL] [-yeXa-](https://osu.ppy.sh/users/10344658) |
 |**Splendid Hentai Booty** | ![][flag_FI] [Urnukka](https://osu.ppy.sh/users/4765619), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_SE] [Ham Solo](https://osu.ppy.sh/users/3338630) |
 |**Souljaboii** | ![][flag_GB] [Coulrulner1](https://osu.ppy.sh/users/13318606), ![][flag_GB] [Quantifiable](https://osu.ppy.sh/users/7102193) |
+|**흠** | ![][flag_KR] [Mya](https://osu.ppy.sh/users/2868952), ![][flag_KR] [Gambler](https://osu.ppy.sh/users/11415230), ![][flag_KR] [Ansol](https://osu.ppy.sh/users/7302146) |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
@@ -179,3 +180,4 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
