@@ -16,7 +16,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination 
 | --: | :-- |
 | Registration Phase | 2019-01-26/2019-02-10 |
 | Live Drawings | 2019-02-23 (14:00 UTC) |
-| Group Stage | 2019-03-09/2019-03-10 |
+| Group Stage | 2019-03-02/2019-03-11 |
 | Round of 32 | 2019-03-16/2019-03-17 |
 | Round of 16 | 2019-03-23/2019-03-24 |
 | Quarterfinals | 2019-03-30/2019-03-31 |
