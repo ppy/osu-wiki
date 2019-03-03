@@ -62,28 +62,6 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 - [Challonge](https://challonge.com/T2T_2019)
 - **[Spreadsheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067)**
 
---------------------------------
-
-## Mappools
-
-*Mappools will be added as the tournament progresses*
-<!--### Finals
-
-**[Download the mappack here! (SIZE)](LINK)**
-
-- ModType
-  - Beatmap
-- Tiebreaker
-  - **Beatmap**
-
-### Semifinals
-### Quarterfinals
-### Round of 16
-### Group Stage
-### Qualifiers
--->
-
-<!-- Tiebreaker beatmap must be bolded -->
 
 --------------------------------
 
@@ -117,6 +95,29 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 
 | Placement | Team Name | Average Accuracy |
 | --: | :-: | :-- |
+
+--------------------------------
+
+## Mappools
+
+*Mappools will be added as the tournament progresses*
+<!--### Finals
+
+**[Download the mappack here! (SIZE)](LINK)**
+
+- ModType
+  - Beatmap
+- Tiebreaker
+  - **Beatmap**
+
+### Semifinals
+### Quarterfinals
+### Round of 16
+### Group Stage
+### Qualifiers
+-->
+
+<!-- Tiebreaker beatmap must be bolded -->
 
 --------------------------------
 
