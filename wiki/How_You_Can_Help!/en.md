@@ -49,7 +49,7 @@ osu! has a dedicated team of reviewers to check if the beatmaps are ready to be 
 - Join the `#modhelp` and `#modreqs` on the in-game chat and join in on the conversation (or just follow along).
 - If you have the time and dedication, make a [Modding Queue](/community/forums/60) to give beatmap creators a place to request you for mods.
 
-## Help/join user-run community projects related to osu!
+## Help/join user-run community projects
 
 osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers, to seasoned rhythm game veterans. There are a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own!
 
