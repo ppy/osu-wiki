@@ -74,8 +74,8 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 ![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
-- For osu! division, all winners got tablet cover sponsored by [Foxbox](https://foxbox.io/)
-- Physical trophy was custom made special for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531)
+- For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/).
+- Physical trophy was custom made specially for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531).
 
 ## Organisation
 
