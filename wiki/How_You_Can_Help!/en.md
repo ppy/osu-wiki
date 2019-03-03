@@ -51,7 +51,7 @@ osu! has a dedicated team of reviewers  to check if the beatmaps are ready to be
 
 ## Help/join user-run community projects related to osu!
 
-osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers, to seasoned rhythm game veterans. There's a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own creation!
+osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers, to seasoned rhythm game veterans. There are a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own!
 
 Here's a few things you can do to help:
 
