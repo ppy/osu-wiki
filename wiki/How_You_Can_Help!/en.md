@@ -47,7 +47,7 @@ osu! has a dedicated team of reviewers to check if the beatmaps are ready to be 
 - Play beatmaps in the pending or work in progress stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding "Modding") and the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") to know the basics of technical modding and what makes a beatmap rankable.
 - Join the `#modhelp` and `#modreqs` on the in-game chat and join in on the conversation (or just follow along).
-- If you have the time and dedication, make a [Modding Queue](/community/forums/60) and have people start coming to you with requests.
+- If you have the time and dedication, make a [Modding Queue](/community/forums/60) to give beatmap creators a place to request you for mods.
 
 ## Help/join user-run community projects related to osu!
 
