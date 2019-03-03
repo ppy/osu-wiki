@@ -37,7 +37,7 @@ You can begin with lending people a hand on the following mediums:
 
 - Mark the forum as read using the link at the top right.
 - Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
-- Read the [available guides](/wiki/List_of_Guides "List of Guides") to polish up your osu! knowledge. If the guides in there doesn't satisfy you, you can contribute to them!
+- Read the [available guides](/wiki/Guides) to polish up on your osu! knowledge. If the guides in there does not satisfy you, then contribute to them.
 
 ## Help check/mod beatmaps!
 
