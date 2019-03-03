@@ -27,7 +27,7 @@ Lend someone a hand when they encounter an issue with the game! Whether its a dr
 
 It doesn't matter if you don't know well enough of the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
 
-You can begin with lending people a hand on these following mediums:
+You can begin with lending people a hand on the following mediums:
 
 - Choose a forum that sparks your interest:
    - [Technical Support](/community/forums/5)
