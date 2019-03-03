@@ -9,7 +9,7 @@ Anyone can be a part of the community, in your own way, here are a few examples 
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. The wiki is always looking for more contributors to help keep the site up to date with fresh new knowledge, and to reach a wider audience via translations.
 
-Read more about how you can get started contributing to the wiki [here!](/wiki/osu!_wiki_Contribution_Guide)
+For newcomers, you can read more about it in the [contributing guide](/wiki/osu!_wiki_Contribution_Guide).
 
 ## Help keep osu! friendly and safe
 
