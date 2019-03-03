@@ -2,7 +2,7 @@
 
 osu!, like any other game, has a very vibrant community, composed of people from all around the world, with differing skill sets and different purposes.
 
-Anyone can be a part of the community, in your own way, here are a few examples to start with:
+Anyone can be a part of the community in their own way. Here are a few examples to start with:
 
 
 ## Help out with the wiki
@@ -15,24 +15,24 @@ For newcomers, you can read more about it in the [contributing guide](/wiki/osu!
 
 To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of all 25 channels (and more!) in the chat, and countless entries in the forums.
 
-Fortunately, it's still easy for you to help out keeping everything safe, here's some things you can do to help:
+Fortunately, it is still easy for you to help out keeping everything safe, here are some things you can do to help:
 
-- Follow your favorite channels at the osu! in-game chat, or at the forums in the web.
-- If you see something happening which you think feels inappropriate or disturbs you in any way, use the `!report` command at the in-game chat to notify moderators of what's happening.
-    - Don't worry about not having your report not being read, the moderators will always read your reports.
+- Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums on the web.
+- If you see something happening that you think is inappropriate or disturbing in any way, use the `!report` command in the in-game chat to notify the moderators of it.
+    - Do not worry about having your report being left unread, the moderators always read reports.
 
 ## Help other community members
 
 Lend someone a hand when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
 
-It doesn't matter if you don't know well enough of the game, you can always follow along and learn from reading, so when the next occurence of the same problem appears in the future, you can answer it as well.
+Even if you do not know well enough of the game, you can always follow along, read and learn, so when the same problem appears again in the future, you can help out.
 
 You can begin with lending people a hand on the following mediums:
 
 - Choose a forum that sparks your interest:
-   - [Technical Support](/community/forums/5)
-   - [Beatmapping Support](/community/forums/56)
-   - [Storyboarding](/community/forums/20)
+   - [Technical Support](https://osu.ppy.sh/community/forums/5)
+   - [Beatmapping Support](https://osu.ppy.sh/community/forums/56)
+   - [Storyboarding](/https://osu.ppy.sh/community/forums/20)
    - [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13)
 
 - Mark the forum as read using the link at the top right.
@@ -53,18 +53,18 @@ osu! has a dedicated team of reviewers to check if the beatmaps are ready to be 
 
 osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers, to seasoned rhythm game veterans. There are a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your own!
 
-Here's a few things you can do to help:
+Here are a few things you can do to participate:
 
-- Browse the [torunaments](/community/forums/55) forum. Tournaments takes time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge.
+- Browse the [tournaments](/community/forums/55) forum. Tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
 - Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
-- Start your own project! Whether its just bringing back dancing pippi, or just making a cool thing for osu!, anything is accepted.
+- Start your own project! Whether it is bringing back dancing pippi, or just making something cool for osu!, anything is accepted.
 
 ## Contribute to the future of osu!
 
-Started last 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which you see today.
+Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which you see today.
 
-You can help making them even more better, and make us closer to the future of osu! by helping on these areas:
+You can help make them even better, and make us closer to the future of osu! by helping on these areas:
 
 - Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make them happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
@@ -74,7 +74,7 @@ You can help making them even more better, and make us closer to the future of o
 There's a old saying that you should become part of the solution, not the problem. You can help on osu! by making the community a brighter place. People complain, but there are many ways you can help ligthen up the mood in the community:
 
 - Be friendly to each other. Life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_Bad_Behavior/Handing_Cheating "Handling Cheating"). Don't complain about them on other mediums, a simple `!report <username> seems to be cheating` can fix your problems within minutes or hours.
+- [Report cheaters when you see them](/wiki/Reporting_Bad_Behavior/Handing_Cheating "Handling Cheating"). Do not complain about them on other mediums, a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
 - Go out of your way to mediate negative situations and turn them into positive outcomes.
 
-While this article cannot cover how much more you can help to osu!, but simply playing the game as well makes osu! even more awesome!
+While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome!
