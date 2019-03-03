@@ -13,7 +13,7 @@ For newcomers, you can read more about it in the [contributing guide](/wiki/osu!
 
 ## Help keep osu! friendly and safe
 
-To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of all 25 channels (and more!) in the chat, and a countless entries on the forums.
+To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of all 25 channels (and more!) in the chat, and countless entries in the forums.
 
 Fortunately, it's still easy for you to help out keeping everything safe, here's some things you can do to help:
 
