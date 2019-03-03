@@ -24,9 +24,7 @@ Fortunately, it is still easy for you to help out keeping everything safe, here 
 
 ## Help other community members
 
-Lend someone a hand when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, you can answer it if you spend enough time with osu!
-
-Even if you do not know well enough of the game, you can always follow along, read and learn, so when the same problem appears again in the future, you can help out.
+Lend someone a hand when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
 
 You can begin with lending people a hand on the following mediums:
 
