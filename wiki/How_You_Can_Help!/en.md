@@ -33,7 +33,7 @@ You can begin with lending people a hand on these following mediums:
    - [Technical Support](/community/forums/5)
    - [Beatmapping Support](/community/forums/56)
    - [Storyboarding](/community/forums/20)
-   - [Gamplay and Rankings](/community/forums/13)
+   - [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13)
 
 - Mark the forum as read using the link at the top right.
 - Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
