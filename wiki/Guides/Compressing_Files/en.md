@@ -128,5 +128,5 @@ The reason I like avidemux is because you can easily edit each frame, and it has
 ## Trivia
 
 - Original forum posts:
-  - [*How to make your map fit the size limitations: Compression* by: ziin](https://osu.ppy.sh/forum/t/60002)
-  - [*How to re-encode/edit a video* by: ziin](https://osu.ppy.sh/forum/t/58235)
+  - [*How to make your map fit the size limitations: Compression* by: ziin](https://osu.ppy.sh/community/forums/topics/60002)
+  - [*How to re-encode/edit a video* by: ziin](https://osu.ppy.sh/community/forums/topics/58235)

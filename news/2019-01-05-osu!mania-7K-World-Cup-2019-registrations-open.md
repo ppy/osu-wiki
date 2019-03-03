@@ -6,7 +6,7 @@ date: 2019-01-07 5:30:00 +0000
 
 Another year and what a better way to start it than with some 7K action! The MWC7K 2019 registrations phase begins now!
 
-![](/wiki/shared/news/banners/MWC7K_2019_banner.png)
+![](/wiki/shared/news/banners/MWC7K_2019_banner.jpg)
 
 For more details, refer to the **[osu!mania 7K World Cup 2019 wiki article](/wiki/Tournaments/MWC/2019_7K/)**. You can discuss the event and follow its most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/851928)**.
  

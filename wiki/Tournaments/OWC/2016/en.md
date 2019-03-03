@@ -45,7 +45,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/t/507270)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/507270)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl) (by Feurigel)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)**

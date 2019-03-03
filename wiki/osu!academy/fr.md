@@ -5,7 +5,7 @@
 Le but de l'**osu!academy** est de donner les bases pour comprendre tous les aspects d'osu!, depuis le système de jeu jusqu'au mapping, et tout ce qu'il y a entre.
 
 Nous espérons que tous les joueurs trouveront ces vidéos informatives, et les aideront à comprendre le jeu sans problèmes.
-Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/u/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
+Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztrot](https://osu.ppy.sh/users/6347); il est le principal et presque seul propriétaire d'osu!academy et de sa chaîne.
 
 [Maintenant avec une bande-annonce](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
@@ -54,4 +54,4 @@ Si vous avez des questions ou des commentaires, veuillez les transmettre à [ztr
 
 - Source: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 - Chaîne Youtube officielle: <https://www.youtube.com/user/osuacademy/videos>
-- Sujet officiel: <https://osu.ppy.sh/forum/t/169707>
+- Sujet officiel: <https://osu.ppy.sh/community/forums/topics/169707>

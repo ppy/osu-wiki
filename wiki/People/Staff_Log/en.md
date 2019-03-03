@@ -22,3 +22,4 @@ Using the articles listed below, you can find all Beatmap Nominators and their s
 - [2016](./2016)
 - [2017](./2017)
 - [2018](./2018)
+- [2019](./2019)

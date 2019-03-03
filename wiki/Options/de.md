@@ -44,7 +44,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 | Name                           | Effekt                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: http://osu.ppy.sh/forum/t/104342/ (alter Link)                                                                                                                                            |
+| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: https://osu.ppy.sh/community/forums/topics/104342/ (alter Link)                                                                                                                                            |
 | Metadaten in Originalsprache   | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
 | Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten.                                                                                                                                                                                                                                                           |
 
@@ -61,7 +61,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 ### Renderer
 
-`Neustart erforderlich.`
+`Neustart erforderlich.`
 
 <img src="DE-Renderer.jpg" title="Renderer" alt="Renderer" width="300" />
 
@@ -72,7 +72,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 | Frame Limiter: (kontrolliert die maximale Anzahl an Frames, die pro Sekunde angezeigt werden) |                                                                                                                                                                                       |
 | 60fps (vsync)                                                                                 | 60fps (low latency)                                                                                                                                                                   |
 
-Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](http://osu.ppy.sh/forum/t/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
+Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](https://osu.ppy.sh/community/forums/topics/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
 
 -   **FPS-Zähler**: Zeigt einen unaufdringlichen Frame-Pro-Sekunde Zähler am unteren, rechten Rand des Bildschirmes.
 

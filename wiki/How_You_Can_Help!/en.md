@@ -2,6 +2,7 @@
 
 osu!, like any other game, has a very vibrant community, composed of people from all around the world, with differing skill sets and different purposes.
 
+
 Anyone can be a part of the community in their own way. Here are a few examples to start with:
 
 

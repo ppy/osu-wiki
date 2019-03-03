@@ -6,7 +6,7 @@
 
 ### 15 Degree Patterns
 
-Nominator(s): [grumd](https://osu.ppy.sh/u/530913)
+Nominator(s): [grumd](https://osu.ppy.sh/users/530913)
 
 15 degree patterns is a slider exclusive technique.
 You start off by mapping a section with only horizontal and vertical sliders.
@@ -32,13 +32,13 @@ Angles between 10 and 80 degrees can also be used.
 
 _Not to be confused with [Spacing Out](#spacing-out)._
 
-Nominator(s): [Gabi](https://osu.ppy.sh/u/57057)
+Nominator(s): [Gabi](https://osu.ppy.sh/users/57057)
 
 Accelerated spacing is where the distance of each hit object is placed farther and farther apart, while the timing between them remains the same.
 
 ### Back and Forth Beats
 
-Nominator(s): [kingcobra52](https://osu.ppy.sh/u/9934)
+Nominator(s): [kingcobra52](https://osu.ppy.sh/users/9934)
 
 Back and forth beats are comprised of two stacks of beats (or more), with the odd notes in one stack and even notes in the other.
 Using this requires the player to alternate between the two stacks.
@@ -47,9 +47,9 @@ It is encouraged to only be used for harder difficulties as this can be hard for
 
 ### Differential Stacks
 
-Nominator(s): [NoHItter](https://osu.ppy.sh/u/124455)
+Nominator(s): [NoHItter](https://osu.ppy.sh/users/124455)
 
-Differential stacks consist of notes that are spaced apart inconsistently from each other in the timeline. 
+Differential stacks consist of notes that are spaced apart inconsistently from each other in the timeline.
 A notable thing is that these objects are mapped as if they are a consistent beat.
 
 Some sightreading may be required unless you can really follow the music.
@@ -58,7 +58,7 @@ When playing a beatmap using this technique, it can be very challenging to play 
 
 ### Drain Sections
 
-Nominator(s): [SapphireGhost](https://osu.ppy.sh/u/388602)
+Nominator(s): [SapphireGhost](https://osu.ppy.sh/users/388602)
 
 Drain sections is a section in a beatmap that suddenly becomes _slower_ or _less difficult_ in an attempt to either match the song better or cause the HP bar to drain.
 
@@ -68,7 +68,7 @@ Drain sections should be used sparingly and only when the song may _hint_ it.
 
 ### Half-Backing
 
-Nominator(s): [Ekaru](https://osu.ppy.sh/u/17938)
+Nominator(s): [Ekaru](https://osu.ppy.sh/users/17938)
 
 Half-Backing is comprised of a quarter beat followed by two-eighth beats, arranged similarly to [back and forth beats](#back-and-forth-beats) except the third note stops.
 This will create a straight line.
@@ -92,7 +92,7 @@ You could, however, use 3, 5, or 6 spokes instead (when you do this, make sure t
 
 ### Linear Back and Forth
 
-Nominator(s): [Derekku](https://osu.ppy.sh/u/91341)
+Nominator(s): [Derekku](https://osu.ppy.sh/users/91341)
 
 Linear back and forth is a variation of the [back and forth beats](#back-and-forth-beats) spreads.
 The difference is that there these don't use stacks rather, they require the player to move along back and forth between the hit objects.
@@ -102,7 +102,7 @@ It is very important that the mapper makes it clear as to the direction of where
 
 _Not to be confused with [Accelerated Spacing](#accelerated-spacing)_
 
-Nominator(s): [Pasonia](https://osu.ppy.sh/u/43345)
+Nominator(s): [Pasonia](https://osu.ppy.sh/users/43345)
 
 Spacing out refers to hit objects in which they are placed distance-wise, not time.
 This technique has the advantage of keeping a momentum in a tune running during that section of a map.
@@ -115,7 +115,7 @@ Another varient you can add is to place a hit circle in the center after each cy
 
 ### Step-Too-Fars
 
-Nominator(s): [OzzyOzrock](https://osu.ppy.sh/u/465153)
+Nominator(s): [OzzyOzrock](https://osu.ppy.sh/users/465153)
 
 Step-Too-Fars uses a linear path of hit circles that are a quarter beat apart.
 However, upon hitting the "end" of the line, the hit objects moves back one space (the hit circle before the line had ended) then changes direction.
@@ -124,7 +124,7 @@ However, upon hitting the "end" of the line, the hit objects moves back one spac
 
 ### Slider Slowdowns
 
-Nominator(s): [123MegaApple123](https://osu.ppy.sh/u/2148208)
+Nominator(s): [123MegaApple123](https://osu.ppy.sh/users/2148208)
 
 Slider slowdowns abruptly slows down a slider by temporarily halving an inherited timing point (the green ones) to complement the music's (or vocals') long note.
 
@@ -134,7 +134,7 @@ _See [Mapping Techniques/Basics](../Basics/#streams) for a description on stream
 
 ### Compressed Streams
 
-Nominator(s): [pieguyn](https://osu.ppy.sh/u/107485)
+Nominator(s): [pieguyn](https://osu.ppy.sh/users/107485)
 
 Compressed streams uses hit circles that are only 3 grid spaces apart (on a 2 or 3-grid level).
 Otherwise, just make the stream considerably smaller compared to the rest of the map.
@@ -143,13 +143,13 @@ A majority of maps that uses streams are most likely to be seen using compressed
 
 ### Discontinuous Streams
 
-Nominator(s): [benguin](https://osu.ppy.sh/u/1322807)
+Nominator(s): [benguin](https://osu.ppy.sh/users/1322807)
 
 Discontinuous streams is when there is a _jump_ in the stream even if the timing between the notes in the jump are the same length as the timing between notes in the rest of the stream.
 
 ### Deathstreams
 
-Nominator(s): [NoHItter](https://osu.ppy.sh/u/124455)
+Nominator(s): [NoHItter](https://osu.ppy.sh/users/124455)
 
 Deathstreams are _very_ long and difficult streams.
 These consist of sliders (with or without repeats), hit circles or a combination of both.
@@ -161,7 +161,7 @@ However, it may go through as one of the _approved_ beatmaps.
 
 ### Slider Stream Jumps
 
-Nominator(s): [dkun](https://osu.ppy.sh/u/154400) and [MMzz](https://osu.ppy.sh/u/128993)
+Nominator(s): [dkun](https://osu.ppy.sh/users/154400) and [MMzz](https://osu.ppy.sh/users/128993)
 
 Slider stream jumps is a more advanced technique for osu!standard.
 Instead of using an orthodox stream, you replace it with sliders.
@@ -171,7 +171,7 @@ Essentially, you jump with your cursor and stream, hence the term _Slider Stream
 
 ### Triplet Streams
 
-Nominator(s): [Lybydose](https://osu.ppy.sh/u/64501)
+Nominator(s): [Lybydose](https://osu.ppy.sh/users/64501)
 
 Triplet Streams uses a set of three hit circles that requires to be tapped in a quick succession.
 These are commonly placed in a 1/4 beat snap divisor depending on BPM of the map.
@@ -182,13 +182,13 @@ Note, Triplet Steams does **not** refer to an actual triplet in [music theory](/
 
 ### Variable Spaced Streams
 
-Nominator(s): [fartownik](https://osu.ppy.sh/u/56917)
+Nominator(s): [fartownik](https://osu.ppy.sh/users/56917)
 
 Variable spaced streams use longer streams with inconsistent distance snap (usually increasing).
 
 ### Zig-Zag Streams
 
-Nominator(s): [Daru](https://osu.ppy.sh/u/32480)
+Nominator(s): [Daru](https://osu.ppy.sh/users/32480)
 
 Zig-Zag streams are streams with hit objects placed in such a manner that they form a very jagged line.
 However, they are placed very closely that they can be passed by moving the cursor through them in a straight line which intersects all notes.

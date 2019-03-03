@@ -46,6 +46,6 @@ When your registration was successful, your team's captain will be notified. _An
 
 *   [Registration Form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform)
 *   [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014)
-*   [Discussion thread](https://osu.ppy.sh/forum/t/179127)
+*   [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 
 —Loctav

@@ -15,7 +15,7 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 
 ## Membri
 
-*NOTA: Tutti i GMT parlano Inglese a meno che non sia specificato il contrario.* - [Pagina del Team](http://osu.ppy.sh/groups/4)
+*NOTA: Tutti i GMT parlano Inglese a meno che non sia specificato il contrario.* - [Pagina del Team](https://osu.ppy.sh/groups/4)
 
 | Nome | Lingua | Area di Interesse |
 | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Svedese, Spagnolo | Moderazione della chat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francese, Spagnolo | Moderazione della chat |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesiano | Moderazione della chat |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | Cinese | Moderazione della chat |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Cinese | Moderazione della chat |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | Ungherese | Moderazione della chat |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Tedesco | Moderazione della chat, Moderazione del forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russo | Moderazione della chat |

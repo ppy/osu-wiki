@@ -38,7 +38,7 @@ Uno de los más importantes aspectos de la creación de beatmaps es el espaciado
 
 ### Ritmos de [los objetos](ES:Hit_Objects "wikilink")
 
-Sabiendo que osu! es un juego rítmico, contener un ritmo racional es muy importante en la creación de beatmaps. Si ciertas notas parecen que hacen falta podría causar un flujo o un sonido inconsistente en el mapa, por lo tanto no dudes en sugerir hacerlo. Si algunas notas parecen ser "sobremapeadas", tampoco dudes en sugerir removerlas. Si cualquier tipo de ritmo suena o se siente incómodo mientras lo juegas o mientras lo editas en el editor, significa que es posible que el hitobject haya sido puesto, timeado o dado una corta o larga parte de tiempo (Por ejemplo, los sliders o las ruletas) de manera errónea.
+Sabiendo que osu! es un juego rítmico, contener un ritmo racional es muy importante en la creación de beatmaps. Si ciertas notas parecen que hacen falta podría causar un flujo o un sonido inconsistente en el mapa, por lo tanto no dudes en sugerir hacerlo. Si algunas notas parecen ser "sobremapeadas", tampoco dudes en sugerir removerlas. Si cualquier tipo de ritmo suena o se siente incómodo mientras lo juegas o mientras lo editas en el editor, significa que es posible que el hit object haya sido puesto, timeado o dado una corta o larga parte de tiempo (Por ejemplo, los sliders o las ruletas) de manera errónea.
 
 ### [Nuevos combos](ES:Combos "wikilink")
 

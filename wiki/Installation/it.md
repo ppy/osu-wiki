@@ -11,7 +11,7 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 
 ## Installazione di osu!
 
-1.  Vai alla [pagina di download](/home/download) e scarica l'installer.
+1.  Vai alla [pagina di download](https://osu.ppy.sh/home/download) e scarica l'installer.
 2.  Individua ed esegui l'installer.
 3.  Mentre l'installer è in esecuzione, c'è un periodo di tempo di 10 secondi che ti permette di scegliere il percorso d'installazione.
     -   Se vuoi cambiarlo, clicca il testo sotto la parola, "Hi!" e seleziona il percorso di installazione.
@@ -29,7 +29,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 ### Sito web
 
-1.  Vai alla [pagina delle beatmap](/beatmapsets) e logga nel sito web.
+1.  Vai alla [pagina delle beatmap](https://osu.ppy.sh/beatmapsets) e logga nel sito web.
 2.  Trova una canzone che ti piaccia giocare.
 3.  Clicca l'icona di download per salvare la beatmap sul tuo computer.
 4.  Individua ed apri il file della beatmap, ha l'estensione `.osz`.
@@ -52,7 +52,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 *Vedi anche: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning).*
 
-1.  Vai ai [skinning subforums](/community/forums/15) e cerca una skin che ti piace.
+1.  Vai ai [skinning subforums](https://osu.ppy.sh/community/forums/15) e cerca una skin che ti piace.
 2.  Una volta trovata la skin, scaricala.
 3.  In base a come lo skinner ha salvato la skin, potresti aver bisogno di alcune cose.
     -   Se la skin è di estensione `.osk`:

@@ -22,4 +22,4 @@ Recoge las frutas que caen moviendo el receptor con un plato. Sigue bailando y n
 
 *Pagina principal: [osu!mania](/wiki/osu!mania)*
 
-Basado en juegos de ritmo tipo transportador, introducido e implementado principalmente por [woc2006](/users/1105845). Haz que las notas toquen una melodia al ritmo.
+Basado en juegos de ritmo tipo transportador, introducido e implementado principalmente por [woc2006](https://osu.ppy.sh/users/1105845). Haz que las notas toquen una melodia al ritmo.

@@ -30,12 +30,12 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia pour Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium par deadbeat"
+[Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium par deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Liste des beatmaps officielles"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial par peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "osu!tutorial ranked par Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial par peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "osu!tutorial ranked par Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Liste des beatmaps triées par difficulté croissante"
-[Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Skin Taiko version 6.0 par LuigiHann"
+[Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Skin Taiko version 6.0 par LuigiHann"
 
 <!-- image -->
 [Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
@@ -102,7 +102,7 @@ Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu]
 Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
-_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
+_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
 
 Le gameplay met l'accent sur:
 
@@ -184,7 +184,7 @@ Les contrôles par défaut d'osu! sont:
 
 Souris|Clavier|Tablette/Écran Tactile
 ---|---|---|
-Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
+Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
@@ -295,8 +295,8 @@ Les contrôles par défaut pour osu!taiko sont:
 
 Type | Souris | Clavier | TaTaCon
 ---|---|---|---
-Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
-Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
+Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
+Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
 
 La position du curseur n'est pas utilisée.
 
@@ -566,16 +566,16 @@ N'oubliez juste pas de vous connecter avec un _compte osu!_ auparavant pour pouv
 
 #### les maps sont trop difficiles ! Où trouver des maps plus faciles ?
 Pour osu!, **Pokebis** a compilé des beatmaps pour débutants.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/5456>
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/5456>
 
 Pour osu!taiko, **OnosakiHito** a compilé des beatmaps pour apprendre osu!taiko.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/175867>
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/175867>
 
 Pour osu!catch, **Kingkevin30** a compilé un super liste de maps osu!catch ainsi que des explications basiques sur osu!catch.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/131067>
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/131067>
 
 Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque map, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania.
-Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/forum/t/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/forum/t/146615> (guide de perfectionnement de **Drace**)
+Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/community/forums/topics/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/community/forums/topics/146615> (guide de perfectionnement de **Drace**)
 
 Aussi, [la version classée du osu! tutorial][osu!tutorial rank] est un bon excercice pour certains design de mapping.
 C'est une excellent map à la fois pour les débutants ainsi que pour les joueurs avancés.
@@ -583,7 +583,7 @@ C'est une excellent map à la fois pour les débutants ainsi que pour les joueur
 Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté][sort beatmaplist difficulty].
 Les maps les plus faciles seront tout en haut de la liste.
 
-Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching par Rivenation") nommé [osu!search](http://osusearch.com/ "osu!search") qui, en plus de proposer les options du site web officiel, permet de définir des prérequis.
+Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching par Rivenation") nommé [osu!search](http://osusearch.com/ "osu!search") qui, en plus de proposer les options du site web officiel, permet de définir des prérequis.
 Cette barre de recherche non officielle peut être trouvée ici: <http://osusearch.com/>.
 
 #### Que fait le niveau sur ma page de profil ?
@@ -722,10 +722,10 @@ Veuillez suivre ces étapes:
 ## Crédits
 - FAQ web de peppy (`/p/faq/` sur laquelle cette page est basée; supprimée)
 - Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
-- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis")
-- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/forum/t/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/forum/t/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/forum/t/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/forum/t/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]][ouendan wikipedia], [\[8\]][Taiko no Tatsujin wikipedia]

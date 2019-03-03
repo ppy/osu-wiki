@@ -14,7 +14,7 @@ Passos
 ------
 
 <center>
-<span style="font-size:18px">1. Vá para o <span class="plainlinks"> [website](https://osu.ppy.sh)</span> e clique em"<b>I'm new!</b>" para ser redirecionado ao campo de registro de usuário. </span>
+<span style="font-size:18px">1. Vá para o <span class="plainlinks"> [website](https://osu.ppy.sh/home)</span> e clique em"<b>I'm new!</b>" para ser redirecionado ao campo de registro de usuário. </span>
 
 <span style="font-size:18px">2. Preencha os campos abaixo e pressione "Continue" </span>
 

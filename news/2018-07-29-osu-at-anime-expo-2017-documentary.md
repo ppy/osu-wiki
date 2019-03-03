@@ -10,6 +10,6 @@ One year late, but better than never. Here's our documentary-style coverage of t
 
 A huge thanks to pishifat for editing the footage (my goal of doing it myself delayed this process by a long time; sorry for that), to the volunteers and team members that came along and helped organise and run the event space. And of course, everyone who attended and made it an unforgettable experience!
 
-![](https://puu.sh/B53U4/4de536947f.jpg)
+![](/wiki/shared/news/2018-07-29-osu-at-anime-expo-2017-documentary/banner.jpg)
 
 —peppy

@@ -13,15 +13,15 @@ This year it was up to you, the community, to decide who will shine as the osu!i
 
 Full details can be found on the datasheet [here.](https://docs.google.com/spreadsheets/d/1IdvI7fuD-dayxo1cFmmtDVlbPtNlNyPm0iF6ONIQIG0/pubhtml)
 
-First place goes to [Sagi](https://osu.ppy.sh/u/491799) with her entry "Systematic Love", originally sung by the Vocaloid Hatsune Miku. Her contribution gathered the highest score out of the 3 entries!
+First place goes to [Sagi](https://osu.ppy.sh/users/491799) with her entry "Systematic Love", originally sung by the Vocaloid Hatsune Miku. Her contribution gathered the highest score out of the 3 entries!
 
 Download: [Sagi - Systematic Love](http://flan.s-ul.eu/OQXT0SsA)
 
-In second place we have our first male finalist - [CptHampton](https://osu.ppy.sh/u/3200587) with "Drumming Song" by Florence + The Machine!
+In second place we have our first male finalist - [CptHampton](https://osu.ppy.sh/users/3200587) with "Drumming Song" by Florence + The Machine!
 
 Download: [CptHampton - Drumming Song](http://flan.s-ul.eu/ZCA8KxCl)
 
-Third place goes to last year's osu!idol winner - [yealina](https://osu.ppy.sh/u/139551) with "Hyadain no Kakakata☆Kataomoi" by Hyadain!
+Third place goes to last year's osu!idol winner - [yealina](https://osu.ppy.sh/users/139551) with "Hyadain no Kakakata☆Kataomoi" by Hyadain!
 
 Download: [yealina - Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq)
 

@@ -10,9 +10,9 @@ Two weeks of frantic fruit-catching in the osu!catch World Cup 2018 completed, a
 
 Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) here to deliver your weekly round-up on all the action from this year's edition of the osu!catch World Cup. Following on from one of the most incredible Group Stages ever seen in an osu! World Cup, last weekend's Round of 16 saw our remaining teams each jostling for position in the march to becoming this year's *osu!catch Champions*.
 
-Eight more matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape. 
+Eight more matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape.
 
-Wanting to inject a little more flair and personality into things, the first match was preceded by an osu! Coffee Hour “pre-show” where fellow commentator [Dohland](https://osu.ppy.sh/u/5220511) and myself ran down a recap of the best moments from the previous week's Group Stages, as well as most anticipated moments and predictions for each of the Round of 16 matches.
+Wanting to inject a little more flair and personality into things, the first match was preceded by an osu! Coffee Hour “pre-show” where fellow commentator [Dohland](https://osu.ppy.sh/users/5220511) and myself ran down a recap of the best moments from the previous week's Group Stages, as well as most anticipated moments and predictions for each of the Round of 16 matches.
 
 If you missed any of the action and analysis, or are just eager to relive it a second time, VODs for all eight matches and pre-show are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 

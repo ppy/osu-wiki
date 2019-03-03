@@ -47,7 +47,7 @@ Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_
 
 Ce statut permet à la beatmap d'avoir un tableau de classement.
 
-Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de forum [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
+Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de forum [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
 
 ### En Attente
 

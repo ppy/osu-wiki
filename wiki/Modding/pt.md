@@ -38,7 +38,7 @@ One of the most important aspects of beatmapping is [spacing](PT:Spacing "wikili
 
 ### **Rhythm of the [PT:Hit objects](PT:Hit_objects "wikilink")**
 
-Being that osu! is a rhythm game, sensible rhythm is very important in beatmapping. If certain notes seem to be missing that may make beatmap "flow better" or sound better, then do not hesitate to suggest doing so. If certain notes seemed to be [overmapped](PT:Overmapping "wikilink"), then do not hesitate to suggest removing it. If any sort of rhythm sounds or feels awkward while playing or while looking in [editor](PT:Editor "wikilink"), then it is likely that the hitobject may have been wrongly placed, wrongly timed, or given too short or too long of a length (e.g. sliders or spinners)
+Being that osu! is a rhythm game, sensible rhythm is very important in beatmapping. If certain notes seem to be missing that may make beatmap "flow better" or sound better, then do not hesitate to suggest doing so. If certain notes seemed to be [overmapped](PT:Overmapping "wikilink"), then do not hesitate to suggest removing it. If any sort of rhythm sounds or feels awkward while playing or while looking in [editor](PT:Editor "wikilink"), then it is likely that the hit object may have been wrongly placed, wrongly timed, or given too short or too long of a length (e.g. sliders or spinners)
 
 ### [New Combos](PT:Combos "wikilink")
 

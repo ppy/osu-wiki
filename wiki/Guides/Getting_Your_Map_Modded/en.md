@@ -21,7 +21,7 @@ It's not the most effective method, but it doesn't hurt to try (just don't count
 Modding Queues
 --------------
 
-The [Modding Queues](https://osu.ppy.sh/forum/60) section of the forum contains Modding Queues (hard to comprehend, we know). Modding Queues are places where you post maps, and the creator of the thread may eventually mod them. Each thread has specific rules, so follow the thread's rules to get your map modded.
+The [Modding Queues](https://osu.ppy.sh/community/forums/60) section of the forum contains Modding Queues (hard to comprehend, we know). Modding Queues are places where you post maps, and the creator of the thread may eventually mod them. Each thread has specific rules, so follow the thread's rules to get your map modded.
 
 Asking Other Users for a Mod4Mod
 --------------------------------

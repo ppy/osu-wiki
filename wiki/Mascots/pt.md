@@ -140,7 +140,7 @@ Ryuuta
 #### Aparece em
 * Catch the Beat (como chibi-Ryuuta) [substituido por Yuzu]
 * osu!webpage (chibi-Ryuuta como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (as NPC Easter Egg)
 
 #### Criador
@@ -177,7 +177,7 @@ BA-2 (Beat Agent-2), J
 
 #### Aparece em
 * osu!webpage (chibi-J como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Criador
 iNiS Corporation

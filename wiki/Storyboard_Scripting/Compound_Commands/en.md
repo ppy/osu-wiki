@@ -15,7 +15,7 @@ Loops are done on commands within an object, not across several objects. They ar
 ```
 _L,(starttime),(loopcount)
 __(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
+// More events allowed
 ```
 
 where:
@@ -48,7 +48,7 @@ Triggers take the form:
 ```
 _T,(triggerType),(starttime),(endtime)
 __(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
+// More events allowed
 ```
 
 where:

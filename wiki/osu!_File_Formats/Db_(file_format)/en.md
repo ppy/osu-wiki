@@ -5,7 +5,7 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `C:\\Program Files (x86)\osu!\`
+-   Windows: `%localappdata%\osu!`
 -   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.

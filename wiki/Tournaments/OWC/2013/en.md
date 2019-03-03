@@ -28,7 +28,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
@@ -46,7 +46,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
 - **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 

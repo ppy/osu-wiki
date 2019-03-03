@@ -1,25 +1,17 @@
-# osu! wiki [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
+# osu! wiki
+
+[![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
 <!--
 Uncomment and replace after the main wiki page gets implemented, link isn't official:
 Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
 -->
 
-Home of the [osu!](https://osu.ppy.sh) wiki.
+Home of the [osu!](https://osu.ppy.sh/home) wiki.
 
-## Requirements
+## Contributing
 
-1. General understanding of the feature-branch workflow (e.g. make a pull request from a branch that is not `master`).
-2. Knowledge in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p's cheatsheet for Markdown"), specifically [GitHub-Flavoured Markdown (GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help: Writing on GitHub").
-3. Ability to write in English, preferably British English.
-
-## Getting Started
-
-### Helpful Links
-
-- The [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide) for help with using GitHub, specifically tailored for the osu! wiki project.
-
-- The [Article Styling Criteria](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria), which **must** be adhered to for all new and rewritten articles going forward.
+Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
 
 ## File caching
 

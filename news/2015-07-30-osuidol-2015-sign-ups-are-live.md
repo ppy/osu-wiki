@@ -20,6 +20,6 @@ osu!idol is a contest where contestants as a solo or a duet sing their way to th
 
 ## Where do I join?
 
-Check out the [the official osu!idol discussion thread](https://osu.ppy.sh/forum/t/352608). You will also find the contest rules, details and discussions there!
+Check out the [the official osu!idol discussion thread](https://osu.ppy.sh/community/forums/topics/352608). You will also find the contest rules, details and discussions there!
 
 —LoliFlan

@@ -36,7 +36,7 @@ Les beatmap packs sont situés sur la [page des Beatmap Packs d'osu!](https://os
 
 > Attention: Les torrents de beatmaps semblent ne plus être présents dans la communauté osu!.
 
-- [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/u/1313441)
+- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478)
+  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
 
 Vous aurez besoin de beaucoup d'espace (et de bande passante) pour télécharger tous ces packs.

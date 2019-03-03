@@ -18,8 +18,8 @@
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "Ranked osu!tutorial by Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Installer's osu!tutorial by peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Ranked osu!tutorial by Sushi"
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS"
@@ -62,7 +62,7 @@ Through the magical power of male cheerleading, the player have to help the peop
 
 ## ![osu! icon][osu! icon link] Gameplay
 
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
 
 The gameplay puts emphasis on:-
 
@@ -160,7 +160,7 @@ The default controls for osu! are:-
 
 Mouse|Keyboard|Tablet/Touchscreen
 ---|---|---|
-Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
+Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1)
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
@@ -370,8 +370,8 @@ _Combo Fire_
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
 - The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:-
-  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/s/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/s/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
-  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/s/16 "Brandy - Love Fighter (FFFanatic)"), or `Brandy - Love Fighter`.
+  - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), or `discoprince`; which was apparently mapped in around an hour.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16 "Brandy - Love Fighter (FFFanatic)"), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in _ancient_ beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
   - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.

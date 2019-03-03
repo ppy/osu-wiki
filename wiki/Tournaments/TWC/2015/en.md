@@ -8,7 +8,7 @@ osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-The **osu! Taiko World Cup 2015** (***TWC 2015***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/g/26). It is the 5th installment of the osu! Taiko World Cup. It lasts from the 12th January 2015 till 15th March 2015. The previous title holder is **![][flag_JP] Japan**.
+The **osu! Taiko World Cup 2015** (***TWC 2015***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/groups/26). It is the 5th installment of the osu! Taiko World Cup. It lasts from the 12th January 2015 till 15th March 2015. The previous title holder is **![][flag_JP] Japan**.
 
 This competition has come to an end and resulted in the following podium:
 
@@ -98,7 +98,7 @@ Participants
 Links
 ----------
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 -   **[Group Stage Statistics](https://owc.nicarim.pw/results/view/4)**
 -   [osu!talk Group Stage Recap](https://www.youtube.com/watch?v=-T9xDo7Y8Fo)

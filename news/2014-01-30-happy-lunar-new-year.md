@@ -11,7 +11,7 @@ Happy Lunar New Year to everyone! Let us celebrate the year of the Horse, which 
 
 새해 복 많이 받으세요! 청마의 해에 행운이 깃들길 바랍니다.
 
-As a bonus, make sure to check out the Top 20 Chinese osu! Players of 2013 video series by [Ballance](https://osu.ppy.sh/u/Ballance):
+As a bonus, make sure to check out the Top 20 Chinese osu! Players of 2013 video series by [Ballance](https://osu.ppy.sh/users/Ballance):
 
 <iframe width="758" height="568" src="https://www.youtube.com/embed/Ewxx2d-Vm5g?rel=0" frameborder="0" allowfullscreen=""></iframe>
 

@@ -63,7 +63,7 @@ To ensure consistent beat spacing, turn on the `Distance Snap` button on the rig
 
 A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
 
-You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
+You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
 
 This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
 
@@ -79,7 +79,7 @@ Beatmapsets will always have the same music, sounds (if mapped), and video (if a
 
 A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapsets.
 
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
 
 This value can be found in the url of a beatmapset from osu!website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
 
@@ -502,7 +502,7 @@ Keep in mind that the map or mapset may be incomplete, so be a considerate perso
 
 A modder is a term given to a user that gives comments or suggestions on another [mapper's](/wiki/mapper) [maps](/wiki/maps) in the [forums](/wiki/forums). Doing so is called [_modding_](/wiki/modding), and the posts are referred to as _mods_.
 
-Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/forum/10) (including the [Modding Queues](https://osu.ppy.sh/forum/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/forum/6).
+Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/community/forums/10) (including the [Modding Queues](https://osu.ppy.sh/community/forums/60)) and/or [Pending Beatmaps](https://osu.ppy.sh/community/forums/6).
 
 ## N
 
@@ -556,7 +556,7 @@ osu! has three meanings:
 - An informal greeting in the Japanese language, resulting from condensing the phrase "Ohayo gozaimasu!" (Good morning!)
   - Pronounced with a silent u ("OSS").
   - Close English equivalents include "Yo!" or "Hey!".
-    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/forum/p/2686).
+    To read more about its meaning in Japanese language and culture, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/posts/2686).
 
 ### osu!coin
 
@@ -721,7 +721,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 A skin is a set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
-To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/forum/15).
+To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
 To see the list of skinnable elements, see [Skinning](/wiki/Skinning) (and its subpages).
 
@@ -863,7 +863,7 @@ A touchscreen is one of the input mediums used by the DS games that osu! is base
 
 ### Touhosu!
 
-_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/forum/t/19307)_
+_Feature Request forum thread: [Touhosu!](https://osu.ppy.sh/community/forums/topics/19307)_
 
 Touhosu! is a requested game mode that is the opposite of osu!catch. _Opposite_ because instead of catching objects, you avoid them.
 

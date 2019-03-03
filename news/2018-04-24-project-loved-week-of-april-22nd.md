@@ -80,7 +80,7 @@ From the popular Rooster Teeth "anime" RWBY, [LunarFox](https://osu.ppy.sh/users
 [Dean Fujitoka - History Maker (TV Size)](https://osu.ppy.sh/beatmapsets/648310) by [fartownik](https://osu.ppy.sh/users/56917)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-There's very little to say about [fartownik](https://osu.ppy.sh/users/56917)'s [History Maker](https://osu.ppy.sh/beatmapsets/648310). It's a popular map from Yuri!!! on Ice with 426 favorites. It has some unconventional slidershapes that lead up to the kiai. Just play it. 
+There's very little to say about [fartownik](https://osu.ppy.sh/users/56917)'s [History Maker](https://osu.ppy.sh/beatmapsets/648310). It's a popular map from Yuri!!! on Ice with 426 favorites. It has some unconventional slidershapes that lead up to the kiai. Just play it.
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/megalovania.jpg)](https://osu.ppy.sh/community/forums/topics/735992)
 
@@ -190,7 +190,7 @@ I think that at this point of time quite a handful of you reading this have alre
 [Various Artists - Skill Analyzer III](https://osu.ppy.sh/beatmapsets/593633) by [\_Asriel](https://osu.ppy.sh/users/566276)  
 *written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-[\_Asriel's](https://osu.ppy.sh/users/566276) [Skill Analyzer](https://osu.ppy.sh/beatmapsets/593633) mapset consists of four different skill tiers, where each tier consists of three songs bundled together as one. The skill tier idea is heavily inspired by the rhythm game Sound Voltex (SDVX). 
+[\_Asriel's](https://osu.ppy.sh/users/566276) [Skill Analyzer](https://osu.ppy.sh/beatmapsets/593633) mapset consists of four different skill tiers, where each tier consists of three songs bundled together as one. The skill tier idea is heavily inspired by the rhythm game Sound Voltex (SDVX).
 
 The tiers in this mapset mostly cater to experienced players because even the lowest tier utilizes Overdose-style mapping. Especially passing the two highest tiers requires the player to have a good reading and good stamina. The set is good for people who constantly like to challenge themselves, especially the highest tier will most likely be a challenge for basically anyone.
 
@@ -199,7 +199,7 @@ The tiers in this mapset mostly cater to experienced players because even the lo
 [Shiron - CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/534978) by [Minato Yukina](https://osu.ppy.sh/users/531253)  
 *written by [SartNYAN OwO xD](https://osu.ppy.sh/users/4100941)*
 
-[CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/534978) is one of [Minato Yukina's](https://osu.ppy.sh/users/531253) latest works before exiting the mapping scene. By that time he accumulated enough experience to map crazy stuff such as this map and actually make it feel playable but really hard instead of unplayable hence hard. 
+[CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/534978) is one of [Minato Yukina's](https://osu.ppy.sh/users/531253) latest works before exiting the mapping scene. By that time he accumulated enough experience to map crazy stuff such as this map and actually make it feel playable but really hard instead of unplayable hence hard.
 
 This map consists of some ridiculously paced left-rights continuously attacking your retina, which serves perfectly for some stamina and consistency training. Test and see if your skills are up to par with this level of a map, and then come back with your voting decision!
 
@@ -214,11 +214,11 @@ This map consists of some ridiculously paced left-rights continuously attacking 
 [Yuuyu - Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256) by [Halogen-](https://osu.ppy.sh/users/169992)  
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
-Low-key one of the best charters in osu!mania and resident sadist [Halogen-](https://osu.ppy.sh/users/169992) gets another merciless chart onto the Loved nomination table with [Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256). While this chart was made specifically as an mixed pick for the finals stage of MWC 4K 2017, the chart itself stands out as one of the best, if not THE best hyper-technical and all-rounded charts in osu!mania. 
+Low-key one of the best charters in osu!mania and resident sadist [Halogen-](https://osu.ppy.sh/users/169992) gets another merciless chart onto the Loved nomination table with [Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256). While this chart was made specifically as an mixed pick for the finals stage of MWC 4K 2017, the chart itself stands out as one of the best, if not THE best hyper-technical and all-rounded charts in osu!mania.
 
-Fantastic use of repetition, (primarily) SVs that accentuate the track than overtake it, meticulous layering and patterning structure, sparing but calculating use of LNs, they are all there. The primary complaint you can make about the chart is that it can be a bit too sadistic in structure, and I would agree with it to some degree, but the cruelty is by design -- and it works **brilliantly**. 
+Fantastic use of repetition, (primarily) SVs that accentuate the track than overtake it, meticulous layering and patterning structure, sparing but calculating use of LNs, they are all there. The primary complaint you can make about the chart is that it can be a bit too sadistic in structure, and I would agree with it to some degree, but the cruelty is by design -- and it works **brilliantly**.
 
-While osu!mania has had this shift in charting meta to something more cutting-edge and flashy like SV-heavy charts, LN charts, and super-technical charts, I feel that they tend to march to the beat of their own drums; they end up overshadowing the track itself for charts test specific skills. [Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256) stands out for not only being the apex of that charting meta, but also bringing a finesse of musical relevance and cutting-edge approach that is almost never seen in charting today. 
+While osu!mania has had this shift in charting meta to something more cutting-edge and flashy like SV-heavy charts, LN charts, and super-technical charts, I feel that they tend to march to the beat of their own drums; they end up overshadowing the track itself for charts test specific skills. [Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256) stands out for not only being the apex of that charting meta, but also bringing a finesse of musical relevance and cutting-edge approach that is almost never seen in charting today.
 
 In my eyes, and in the eyes of many, this chart is more than qualified to be nominated into the Loved section. There may be more flashy and impressively built charts than [Scrap Syndrome](https://osu.ppy.sh/beatmapsets/663256), but very few charts do a job of capturing the track while engaging players better.
 
@@ -227,9 +227,9 @@ In my eyes, and in the eyes of many, this chart is more than qualified to be nom
 [DJ Sharpnel - TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479) by [Wh1teh](https://osu.ppy.sh/users/2640467)  
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
-A favourite among competitive circles, [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479) is among one of [Wh1teh](https://osu.ppy.sh/users/2640467)'s most played charts in osu!mania. Given the type of chart that [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479) is, it is no surprise that it is so popular. With clear inspirations from [IcyWorld](https://osu.ppy.sh/users/1383951)'s DJ SHARPNEL stamina-intensive charts, [Wh1teh](https://osu.ppy.sh/users/2640467) takes it a step further and adds patterning nuance with this chart to capture the ethos of the accompanying track further. 
+A favourite among competitive circles, [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479) is among one of [Wh1teh](https://osu.ppy.sh/users/2640467)'s most played charts in osu!mania. Given the type of chart that [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479) is, it is no surprise that it is so popular. With clear inspirations from [IcyWorld](https://osu.ppy.sh/users/1383951)'s DJ SHARPNEL stamina-intensive charts, [Wh1teh](https://osu.ppy.sh/users/2640467) takes it a step further and adds patterning nuance with this chart to capture the ethos of the accompanying track further.
 
-The patterning in this chart is about as good as you can get for charts that are this dense, and it mostly certainly helps that the chart itself, due to its stamina-intensive and straight-forward nature, lends itself to heavy competitive play. What sets this chart from other stamina-oriented charts, beyond the fact that the chart is solid, is that it has 4 sped-up versions of itself in the mapset. 
+The patterning in this chart is about as good as you can get for charts that are this dense, and it mostly certainly helps that the chart itself, due to its stamina-intensive and straight-forward nature, lends itself to heavy competitive play. What sets this chart from other stamina-oriented charts, beyond the fact that the chart is solid, is that it has 4 sped-up versions of itself in the mapset.
 
 It ranges from the fairly leisurely 183bpm 1.0x chart, to the breakneck and blood-pumping 257bpm 1.4x chart. This makes the mapset more than just a mapset for accuracy players (and lower-level speed/stamina players), but for high level accuracy and speed/stamina players as well. If you are an experienced osu!mania player, you will most certainly be able to find a difficulty (or two!) here that is suitable for you.
 
@@ -238,7 +238,7 @@ It ranges from the fairly leisurely 183bpm 1.0x chart, to the breakneck and bloo
 [Alon Mor - Epollo](https://osu.ppy.sh/beatmapsets/658681) by [Couil](https://osu.ppy.sh/users/6872025)  
 *written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
 
-Feel the beat. Breakout charter and SV specialist [Couil](https://osu.ppy.sh/users/6872025) gets his first nominated chart for the Loved section with [Epollo](https://osu.ppy.sh/beatmapsets/658681). The track itself is a psychedelic experience: nothing feels constant, and you feel the world coming in waves. [Couil](https://osu.ppy.sh/users/6872025)'s SV-heavy approach captures this track better than any other non-SV approach can. 
+Feel the beat. Breakout charter and SV specialist [Couil](https://osu.ppy.sh/users/6872025) gets his first nominated chart for the Loved section with [Epollo](https://osu.ppy.sh/beatmapsets/658681). The track itself is a psychedelic experience: nothing feels constant, and you feel the world coming in waves. [Couil](https://osu.ppy.sh/users/6872025)'s SV-heavy approach captures this track better than any other non-SV approach can.
 
 The difficulty name describes the chart perfectly, and the chart itself is a great representation of the track itself. The SVs here are visually hypnotic, and you will never make out the rhythms of the chart without, well, feeling the beat. The chart is a wonderful rendition of the track, and while the SV usage can be a touch excessive at points, its excess doesn't feel excessive in the slightest when you're playing through it.
 
@@ -249,7 +249,7 @@ The complementing 7K chart follows the exact same principles and layering approa
 [xi - Hesperides](https://osu.ppy.sh/beatmapsets/485363) by [kagiii](https://osu.ppy.sh/users/4591324)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-Here we have [Kagiii](https://osu.ppy.sh/users/4591324) (formerly known as ExKagii-) who brings us [xi - Hesperides](https://osu.ppy.sh/beatmapsets/485363), followed by 1 Guest Difficulty made by [AncuL](https://osu.ppy.sh/users/2449200) and another one by [Ibrahim](https://osu.ppy.sh/users/2899823). This map features a good mix between normal and long notes that derives into dense chordstreams with relatively easy Long Notes, as well as a few bursts in most of the intersections throughout the map. 
+Here we have [Kagiii](https://osu.ppy.sh/users/4591324) (formerly known as ExKagii-) who brings us [xi - Hesperides](https://osu.ppy.sh/beatmapsets/485363), followed by 1 Guest Difficulty made by [AncuL](https://osu.ppy.sh/users/2449200) and another one by [Ibrahim](https://osu.ppy.sh/users/2899823). This map features a good mix between normal and long notes that derives into dense chordstreams with relatively easy Long Notes, as well as a few bursts in most of the intersections throughout the map.
 
 On the other hand, we also have [AncuL](https://osu.ppy.sh/users/2449200)'s diff that is more Long Note based than any other difficulty in the map which offers variety to the whole set instead of focusing in just one kind of pattern style. This map was also featured in the Quarterfinals mappool of the osu!mania 7K World Cup 2017.
 
@@ -265,7 +265,7 @@ For our next pick, we have a rather special mapset by [silentch](https://osu.ppy
 [yuikonnu - Chikyuu Saigo no Kokuhaku wo](https://osu.ppy.sh/beatmapsets/252901) by [KenZ](https://osu.ppy.sh/users/437945)  
 *written by [aitor98](https://osu.ppy.sh/users/3154852)*
 
-[Zenonia](https://osu.ppy.sh/users/437945) is a pretty known mapper in the 7K community, and this time he shows up with a really Long Note based map that goes by the name of [Chikyuu Saigo no Kokuhaku wo by yuikonnu](https://osu.ppy.sh/beatmapsets/252901). 
+[Zenonia](https://osu.ppy.sh/users/437945) is a pretty known mapper in the 7K community, and this time he shows up with a really Long Note based map that goes by the name of [Chikyuu Saigo no Kokuhaku wo by yuikonnu](https://osu.ppy.sh/beatmapsets/252901).
 
 This map features 2 different keymodes (4K and 7K), and something you will notice about this set at first sight is... LONG NOTES! You could call this a noodle fiesta due to the amount of patterns that it contains. Semi-inverse chordstream, shields, irregular Long Note releases, chordstreams mixed with Long Notes, and way more that makes this a hell of a map. The 7K difficulty was used in the Semifinals mappool of the osu!mania 7K World Cup 2017.
 
@@ -274,7 +274,7 @@ This map features 2 different keymodes (4K and 7K), and something you will notic
 [BilliumMoto - CuddlePiano](https://osu.ppy.sh/beatmapsets/413610) by [Nivrad00](https://osu.ppy.sh/users/1984634)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-And last but not least we have our osu!remix contest [BilliumMoto](https://osu.ppy.sh/users/3862471), joining forces with our resident game breaker [Nivrad00](https://osu.ppy.sh/users/1984634) to create a BMS chart known as [CuddlePiano](https://osu.ppy.sh/beatmapsets/413610). 
+And last but not least we have our osu!remix contest [BilliumMoto](https://osu.ppy.sh/users/3862471), joining forces with our resident game breaker [Nivrad00](https://osu.ppy.sh/users/1984634) to create a BMS chart known as [CuddlePiano](https://osu.ppy.sh/beatmapsets/413610).
 
 Originally made for Be-Music West event as a GD on [BilliumMoto](https://osu.ppy.sh/users/3862471)'s submission, it has been ported by Nivrad onto osu!mania to let us enjoy this joy of a chart. It's a cute piano song with some intricate rhythms and bursts, charted in a friendly but tricky way that makes this chart really interesting and worthy of a spot in the loved category!
 
