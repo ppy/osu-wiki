@@ -9,7 +9,7 @@ tags:
 
 ![OTC #3 Logo](img/logo.png)
 
-The **osu! Technical Championship #3** (***OTC #3***) is a double-elimination one-on-one osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship features complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It is the third installment of the osu! Technical Championship.
+The **osu! Technical Championship #3** (***OTC #3***) is was double-elimination one-on-one osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the third installment of the osu! Technical Championship.
 
 ## Tournament Schedule
 
@@ -18,16 +18,14 @@ The **osu! Technical Championship #3** (***OTC #3***) is a double-elimination on
 | Registration Phase | 2018-12-18/2018-12-30 |
 | Live Drawings | 2018-04-08 (19:00 UTC) |
 | Group Stage | 2019-01-12/2019-01-20 |
-| Round of 32 | 2019-01-26 |
-| Round of 16 | 2019-01-27 |
+| Round of 32 | 2019-01-25/2019-01-26 |
+| Round of 16 | 2019-01-27/2019-01-29 |
 | Quarterfinals | 2019-02-02/2019-02-03 |
-| Semifinals | 2019-02-09/2019-02-10 |
-| Finals | 2019-02-16/2019-02-17 |
-| Grand Finals | 2019-02-23/2019-02-24 |
+| Semifinals | 2019-02-08/2019-02-09 |
+| Finals | 2019-02-16/2019-02-20 |
+| Grand Finals | 2019-02-26/2019-03-02 |
 
 ## Prizes
-
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu! Technical Championship #3 winners. It is possible that these items change with every installment of the osu! Technical Championship.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,7 +35,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The osu! Technical Championship #3 is run by various osu! community members.
+The osu! Technical Championship #3 was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -93,27 +91,69 @@ The osu! Technical Championship #3 is run by various osu! community members.
 
 -----------------------
 
-## Match Schedules: Semifinals
+## Podium
 
-### Friday, 8 February 2019
+ This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #55 | Crystal | ![][flag_CN] | ![][flag_GB] | Bubbleman | **10:00** |
-
-### Saturday, 9 February 2019
-
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #50 | neko ds | ![][flag_RU] | ![][flag_RU] | Okinotori | **16:00** |
-| #49 | Teppi | ![][flag_AT] | ![][flag_UA] | Ayla | **17:00** |
-| #52 | \_demo | ![][flag_PL] | ![][flag_US] | Jace | **18:00** |
-| #51 | Apraxia | ![][flag_US] | ![][flag_RO] | badeu | **19:00** |
-| #56 | Woey | ![][flag_US] | ![][flag_IL] | Xilver | **20:00** |
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
 
 -----------------------
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/32fz26v5xxf7pu5/OTC+%233+GF+Mappool.zip)**
+
+- NoMod
+  - [Getty vs. DJ DiA - DropZ-Line- (NeilPerry, Regou) \[Neil x Regou's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1546209)
+  - [kamome sano - tarte tatin (-PC) \[reine des reinettes\]](https://osu.ppy.sh/beatmapsets/849903#osu/1777067)
+  - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry, Sharu) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (Alheak) \[Black\]](https://osu.ppy.sh/beatmapsets/606833#osu/1301562)
+  - [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#osu/1556011)
+- Hidden
+  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Sing) \[J1 x Sing\]](https://osu.ppy.sh/beatmapsets/753123#osu/1747583)
+  - [Luschka - unravel (Mirash, Jounzan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/731933#osu/1544460)
+  - [M2U - The back of Beyond (yaspo) \[Spring\]](https://osu.ppy.sh/beatmapsets/764683#osu/1809913)
+- HardRock
+  - [Camellia - The King Of Lions (Regou) \[Extra\]](https://osu.ppy.sh/beatmapsets/885923#osu/1852786)
+  - [factal - Wake Up While Sleeping (Nokris) \[Decubitus Paralitis\]](https://osu.ppy.sh/beatmapsets/749323#osu/1578351)
+  - [xi feat. Sta - Tiferet (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+- DoubleTime
+  - [Seeed - Ding (Deramok) \[Deramok's Hidden Extra\]](https://osu.ppy.sh/beatmapsets/727333#osu/1570419)
+  - [Culprate, Keota & Sophie Meiers - Mechanic Heartbeat (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/876227#osu/1831280)
+  - [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (Plaudible, Hobbes2) \[Plaubbes' Light Insane\]](https://osu.ppy.sh/beatmapsets/663519#osu/1435453)
+- Tiebreaker
+  - **[Cranky - T&J (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/752022#osu/1583147)**
+
+### Finals
+
+**[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip)**
+
+- NoMod
+  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](/beatmapsets/616696#osu/1300513)
+  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](/beatmapsets/788448#osu/1654883)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](/beatmapsets/848259#osu/1773876)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](/beatmapsets/519256#osu/1103732)
+  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](/beatmapsets/704541#osu/1490377)
+- Hidden
+  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](/beatmapsets/806859#osu/1693575)
+  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](/beatmapsets/807310#osu/1694395)
+  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](/beatmapsets/687511#osu/1579923)
+- HardRock
+  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](/beatmapsets/559140#osu/1208032)
+  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](/beatmapsets/611867#osu/1291481)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](/beatmapsets/460516#osu/986233)
+- DoubleTime
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](/beatmapsets/602367#osu/1580728)
+  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](/beatmapsets/63434#osu/208935)
+  - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
+- Tiebreaker
+  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](/beatmapsets/705788#osu/1492654)**
 
 ### Semifinals
 
@@ -214,6 +254,44 @@ The osu! Technical Championship #3 is run by various osu! community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Tuesday, 2019-02-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Bubbleman** ![][flag_GB] | **7** | 3 | ![][flag_RO] badeu | [#1](https://osu.ppy.sh/community/matches/49877643) |
+
+| Saturday, 2019-03-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Xilver15** ![][flag_IL] | **7** | 6 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/49966632) |
+
+### Finals
+
+| Saturday, 2019-02-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Bubbleman ![][flag_GB] | 6 | **7** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/49630059) |
+| Crystal ![][flag_CN] | 3 | **7** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49628731) |
+| **Woey** ![][flag_US] | **7** | 6 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49644223) |
+
+| Wednesday, 2019-02-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Woey ![][flag_US] | 0 | **7** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49729495) |
+
+### Semifinals
+
+| Saturday, 2019-02-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Crystal ![][flag_CN] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/49436594) |
+| Apraxia ![][flag_US] | 1 | **6** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49443175) |
+| Woey ![][flag_US] | 2 | **6** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/49451271) |
+
+| Sunday, 2019-02-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| neko ds ![][flag_RU] | 2 | **6** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49469206) |
+| **Teppi** ![][flag_AT] | **6** | 3 | ![][flag_UA] Ayla | [#1](https://osu.ppy.sh/community/matches/49469544) |
+| **\_demo** ![][flag_PL] | **6** | 0 | ![][flag_US] Jace | -win by default- |
+| Okinotori ![][flag_RU] | 5 | **6** | ![][flag_AT] **Teppi** | [#1](https://osu.ppy.sh/community/matches/49474043) |
+| \_demo ![][flag_PL] | 1 | **6** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49474070) |
 
 ### Quarterfinals
 
