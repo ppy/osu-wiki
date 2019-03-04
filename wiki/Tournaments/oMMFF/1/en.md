@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF Logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) is a French double-elimination one-on-one tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It is the first installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-elimination one-on-one tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first installment of the osu! Multi Mode French Fiesta.
 
 ## Tournament Schedule
 
@@ -74,12 +74,12 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) is a French double-eliminati
 
 ![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
-- For osu! division, all winners will get tablet cover sponsored by [Foxbox](https://foxbox.io/)
-- Physical trophy is custom made special for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531)
+- For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/).
+- Physical trophy was custom made specially for the tournament courtesy of ![][flag_FR] [Enygmatique](https://osu.ppy.sh/users/5146531).
 
 ## Organisation
 
-The osu! Multi Mode French Fiesta is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! Multi Mode French Fiesta was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -153,18 +153,41 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 
 -----------------------
 
-## Match Schedules
+## Podium
 
-### osu!taiko Division: Grand Finals
+This competition has come to an end and resulted in the following podium:
 
-#### Saturday, 23 February 2019
+### osu! Division
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | Romainnoda | **14:00** |
-| #2¹ | Romainnoda | ![][flag_FR] | ![][flag_FR] | TimmyAkmed |  |
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
-¹ Match will take place right after Match #1 and if Player B wins Match #1
+### osu!taiko Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+
+### osu!catch Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+
+### osu!mania Division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 -----------------------
 
@@ -845,6 +868,12 @@ The osu! Multi Mode French Fiesta is run by various community members by distrib
 | Xawaii ![][flag_BE] | 0 | **4** | ![][flag_FR] **Funta668** | -win by default- |
 
 ### osu!taiko Division
+
+#### Grand Finals
+
+| Saturday, 2019-02-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **TimmyAkmed** ![][flag_FR] | **7** | 1 | ![][flag_FR] Romainnoda | [#1](https://osu.ppy.sh/community/matches/49797943) |
 
 #### Finals
 

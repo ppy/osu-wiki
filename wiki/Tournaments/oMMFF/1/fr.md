@@ -101,9 +101,9 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 ## Liens
 
-- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/825579)
+- [Fil de discussion](https://osu.ppy.sh//community/forums/topics/825579)
 - [Livestream](https://twitch.tv/osufrlive)
-- [Discord officiel du oMMFF](https://discord.gg/bWKUsHd)
+- [Discord du oMMFF](https://discord.gg/bWKUsHd)
 - Tableaux Challonge
   - [osu!](https://o2mf.challonge.com/o2mf_osu)
   - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko)
@@ -153,18 +153,41 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 
 -----------------------
 
-## Planning des matches
+## Podium
 
-### Division osu!taiko: Grandes Finales
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-#### Samedi, 23 Février 2019
+### Division osu!
 
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | TimmyAkmed | ![][flag_FR] | ![][flag_FR] | Romainnoda | **14:00** |
-| #2¹ | Romainnoda | ![][flag_FR] | ![][flag_FR] | TimmyAkmed |  |
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
-¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
+### Division osu!taiko
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+
+### Division osu!catch
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+
+### Division osu!mania
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 -----------------------
 
@@ -845,6 +868,12 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Xawaii ![][flag_BE] | 0 | **4** | ![][flag_FR] **Funta668** | -win by default- |
 
 ### Division osu!taiko
+
+#### Grandes Finales
+
+| Samedi, 2019-02-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **TimmyAkmed** ![][flag_FR] | **7** | 1 | ![][flag_FR] Romainnoda | [#1](https://osu.ppy.sh/community/matches/49797943) |
 
 #### Finales
 
