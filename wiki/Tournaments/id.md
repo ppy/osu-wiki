@@ -112,7 +112,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
-| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-03-02 | ![][flag_IL] [Xilver15](https://users/3099689) | ![][flag_GB] [Bubbleman](https://users/5182050) | ![][flag_RO] [badeu](https://users/1473890) |
+| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-03-02 | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! South East Asia Tournament
 
