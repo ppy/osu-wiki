@@ -112,7 +112,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | --- | --- | --- | --- | --- | --- |
 | [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
-| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | - | - | - |
+| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-02-24 | ![][flag_IL] [Xilver15](https://users/3099689) | ![][flag_GB] [Bubbleman](https://users/5182050) | ![][flag_RO] [badeu](https://users/1473890) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! South East Asia Tournament
 
@@ -286,6 +286,7 @@ See also
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
@@ -295,6 +296,7 @@ See also
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
