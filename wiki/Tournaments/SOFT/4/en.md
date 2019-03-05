@@ -120,7 +120,7 @@ tags:
 
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
 
-- The SOFT3 bracket can be found [here](https://challonge.com/SOFT3r).
+- The SOFT4 bracket can be found [here](https://challonge.com/XXXXXX).
 
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 
@@ -141,17 +141,17 @@ tags:
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
   - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
 
-  - For maximal accountability on the SOFT3 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
+  - For maximal accountability on the SOFT4 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
 
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
 
   - Take care of any priorities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
 
-  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in SOFT3 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in SOFT4 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 
 
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
-  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the SOFT3 staff.
+  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the SOFT4 staff.
 
   - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**.
 
@@ -162,7 +162,7 @@ tags:
   - If you dislike something, you are allowed to state your dislike -- however, do so reasonably. Speaking in absolutes/a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 
-- ***It is our right as the SOFT3 staff to reprimand users for intolerable behavior***.
+- ***It is our right as the SOFT4 staff to reprimand users for intolerable behavior***.
   - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
 
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
