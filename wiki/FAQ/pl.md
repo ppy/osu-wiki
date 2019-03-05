@@ -91,17 +91,17 @@ Na _Nintendo DS_ sama gra wygląda następująco:
 _Przykład rozgrywki w Osu! Tatake! Ouendan na konsoli Nintendo DS_
 
 Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia.
-Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem.
-Właśnie to jest moment, gdzie _Ouendan_ (drużyna pocieszająca) wkracza do gry.
+Każdy poziom jest historyjką o jakiejś osobie, która zmaga się z jakimś problemem.
+To jest właśnie moment, w którym _Ouendan_ (drużyna pocieszająca) wkracza do gry.
 Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
 
 ### Jak w to się gra?
 
 _Pełny artykuł: [osu!standard][osu! wikilink]_
 
-Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć.
+Z racji że większość użytkowników komputera nie ma tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry głównie myszką, jednak nie zapomniano także o innych kontrolerach.
 Różne style gry są opisane [w tym artykule][Play_Styles wikilink].
-Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
+Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i ich przejście jest możliwe.
 
 #### Mechanika gry
 
@@ -109,16 +109,16 @@ _Samouczek: [(Pobrany wraz z wersją gry na PC) Oryginalny samouczek][osu!tutori
 
 Rozgrywka naciska na:
 
--   zdolność adaptacji i reagowania na bodźce (to jest, na obiekty do naciśnięcia, które pojawiają się z dużą prędkością);
+-   zdolność adaptacji i szybkość reagowania na bodźce (to jest, na obiekty do naciśnięcia, które pojawiają się z dużą prędkością);
 -   rozumienie rytmu i układu piosenki;
 -   kontrolę myszki (bądź też palców/pena, jeśli gracz używa tabletu);
 -   utrzymywanie dobrego rytmu do odpowiedniego klikania kółek;
 -   możliwość szybkiego kręcenia kółek urządzeniem do sterowania;
--   fizyczną wytrzymałość (zwłaszcza przy długich piosenkach);
+-   wytrzymałość fizyczną (zwłaszcza przy długich piosenkach);
 -   odpowiednie ustawienie ręki i reakcję oko-ręka;
 -   możliwości sprzętu (zwłaszcza myszki i tabletu);
 
-Istnieje kilka istotnych umiejętności, których będziesz stopniowo się uczyć podczas swojej przygody z osu!. Zanim jednak będziesz mógł stać się _mistrzem rytmu_, musisz nauczyć się podstaw (oraz teorii) rzeczy, które można kliknąć.
+Istnieje kilka istotnych umiejętności, których będziesz uczyć się stopniowo podczas swojej przygody z osu!. Zanim jednak będziesz mógł stać się _mistrzem rytmu_, musisz nauczyć się podstaw (oraz teorii).
 
 Jakie są więc rodzaje obiektów?
 
@@ -141,13 +141,13 @@ Kółko znika po kliknięciu.
 _Slider z kolorowym okręgiem otaczającym piłkę oraz tyknięciem w środku slidera (małe, białe kółko)_
 
 Po pierwsze, należy kliknąć na kółko w odpowiednim momencie. Ale to nie koniec.
-Piłka zacznie się poruszać po wyznaczonej i widocznej trasie.
+Piłka zacznie się poruszać po wyznaczonej trasie.
 Musisz trzymać przycisk myszy/klawisz na klawiaturze (lub swój palec/pen na tablecie) i utrzymywać swój kursor w obrębie dużego, pomarańczowego okręgu otaczającego piłkę podczas kiedy ta się porusza.
-Nie możesz kontrolować ruchu piłki, musisz tylko za nią podążać.
+Nie możesz kontrolować ruchu piłki, musisz za nią podążać.
 Pomarańczowe kółko pojawi się, jeśli będziesz podążać za piłką, i zniknie, gdy ją zgubisz.
 
 Czasami, jak widzisz na screenshocie wyżej, musisz wrócić z powrotem, gdy dotrzesz to końca ścieżki.
-Dzieje się, tak jeśli na końcu ścieżki widzisz strzałkę.
+Dzieje się, tak kiedy na końcu ścieżki widzisz strzałkę.
 
 ##### Spinnery
 
@@ -163,13 +163,13 @@ Biały okrąg na zewnątrz pokazuje, jak dużo czasu zostało ci do zaliczenia s
 Okrąg zmieni kolor na czerwony, gdy zostanie ci mało czasu.
 Stare mapy, używające _skórki w wersji 1.0_, będą wyświetlały wskaźnik, by poinformować jak blisko zaliczenia spinnera jesteś.
 
-Mały pasek poniżej spinnera pokazuje kręcenia na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
+Mały pasek poniżej spinnera pokazuje ilość obrotów na minutę, tzn. ilość kółek, które zrobiłbyś, gdybyś kręcił z taką prędkością przez minutę.
 Jeżeli nie przytrzymasz żadnego przycisku kręcąc, spinner nie zostanie zaliczony.
 
 Na konsoli _Nintendo DS_, spinnery pozwalają na szybkie porysowanie ekranu dotykowego, szczególnie na wyższych poziomach trudności.
-W osu! spinnery zostały zrobione tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
-Maksymalna liczba kręceń na minutę wynosi 477, i z taką prędkością kręci mod [Auto]. W przypadku moda [Spun Out] ta prędkość zmniejsza się do 287 kręceń na minutę.
-Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
+W osu! spinnery zostały stworzone tak, żeby nie trzeba było dużo się męczyć, aby je zaliczyć.
+Maksymalna liczba obrotów na minutę wynosi 477, i z taką prędkością kręci kółka mod [Auto]. W przypadku moda [Spun Out] ta prędkość zmniejsza się do 287 obrotów na minutę.
+Ucz się i próbuj robić bardzo małe kółka (tak jak robi to mod Auto, jednak może to powodować nadwyrężenia ramienia, jeśli nie jesteś do tego przyzwyczajony).
 \[Myszka\] Jeżeli twój kursor nie kręci się prawidłowo, mimo że kręcisz myszką bardzo szybko, to albo pogódź się z limitami sprzętu, albo kup nową myszkę/ podkładkę pod nią.
 
 #### Interfejs (rozgrywka)
@@ -178,7 +178,7 @@ Ucz się i próbuj robić bardzo małe kółka (tak jak Auto, ale może to powod
 
 _Tak wygląda interfejs osu! podczas rozgrywki_
 
-Pasek w górnym prawym rogu to twoje „życie” (HP).Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę (twórców) mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
+Pasek w górnym prawym rogu to twoje „życie” (HP). Wartość tego paska będzie się cały czas zmniejszać {zgodnie z szybkością ustawioną przez twórcę/twórców mapy), ale możesz ją podnieść, klikając w obiekty w odpowiednim czasie.
 Perfekcyjnie wciśnięty obiekt (z wynikiem 300 lub Geki) zwiększy twoje HP bardziej niż źle wciśnięty (z wynikiem 50).
 Miss zabierze ci całkiem spory kawałek HP.
 
@@ -198,7 +198,7 @@ Lewy przycisk myszki (M1) / Prawy przycisk myszki (M2)|`Z` (K1) / `X` (K2)|Dotyk
 Kółka w osu! wykryją każdy typ urządzenia, tak długo jak zostały kliknięte w prawidłowym czasie.
 
 Jeżeli użyto modyfikatora gry [Relax][Relax wikilink], będzie działał tylko kursor.
-Używaj kursora, by podąrzać za obiektami na mapie, a osu! wystuka rytm za ciebie.
+Używaj kursora, by podążać za obiektami na mapie, a osu! wystuka rytm za ciebie.
 Spinnery muszą zostać zaliczone.
 
 Jeżeli użyto modyfikatora gry [Auto Pilot][Auto Pilot wikilink], osu! będzie wykrywać tylko klikanie.
@@ -246,13 +246,13 @@ Dla osób, które grały w _Taiko no Tatsujin_:
   - Scenorys może zajmować całe dostępne miejsce, z wyjątkiem elementów ważnych dla rozgrywki
   
 Dla osób, które nigdy nie miały kontaktu z trbyem gry osu!taiko - ekran podzielony jest na dwie części; górną, zawierającą elemnty ważne dla rozgrywki oraz dolną, zawierającą wideo lub tło beatmapy.
-W górnej części znajduje się parek życia, który w odróżnieniu od innych trybów gry musimy wypełnić do conajmniej połowy by przejść beatmapę.
+W górnej części znajduje się pasek życia, który w odróżnieniu od innych trybów gry musimy wypełnić do conajmniej połowy by przejść beatmapę.
 Pod paskiem zdrowia, znajduje się bębenek taiko wraz z przenośnikiem taśmowym, który przenosi obiekty z prawej do lewej, przechodząc przez dwa białe okręgi, które służą za punkt odniesienia w ocenie.
 Nad bębenkiem taiko znajduje się animowana maskotka, która będzie reagowała na twoje poczynania - na ich podstawie będzię się zmieniał kolor tła w górnej części ekranu.
 W prawym górnym rogu znajduje się licznik punktów, precyzja, oraz czas timer beatmapy.
 
 Zauważ, że pobór życia jest wyłączony w osu!taiko - za jego stan odpowiadają tylko obiekty.
-Combo nie nie zostanie przerwane, jeżeli grasz na pustym obszarze.
+Combo nie zostanie przerwane, jeżeli używasz przycisków na pustym obszarze.
 W odróżnieniu od osu!, grafiki combo pojawiają się co 50 uderzeń.
 Podstawowy wynik zostanie zwiękoszony po zdobyciu combo, które jest wielokrotnością liczby 10, zatrzymuje się na liczbie 100 (limit combo dla zwiększenia wyniku).
 Jeżeli combo zostanie przerwane,  mnożnik resetuje się spowrotem do wartości początkowej.
