@@ -41,7 +41,7 @@ tags:
 | Map Selectors | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamers | ![][flag_LV] [Adiopulse](https://osu.ppy.sh/users/4387852), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 | Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [PSCHC](https://osu.ppy.sh/users/8688946), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
 | Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
@@ -92,9 +92,9 @@ tags:
 - The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
-  - **Top16**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
+  - **1st-16th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
 
-  - **17th-32nd° seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
+  - **17th-32nd seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
 
   - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
 
@@ -138,6 +138,8 @@ tags:
 
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
+- Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Wednesday at 23:59 UTC+0** in that particular week when your match takes place.
+
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
   - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
 
@@ -153,23 +155,23 @@ tags:
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
   - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the SOFT4 staff.
 
-  - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**.
+  - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**. In the Post-Qualification stage **the player with the higher qualifier seed in the match-up will advance automatically**
 
 
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
 
-  - If you dislike something, you are allowed to state your dislike -- however, do so reasonably. Speaking in absolutes/a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+  - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 
 
 - ***It is our right as the SOFT4 staff to reprimand users for intolerable behavior***.
-  - I will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
+  - SOFT4 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
 
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up Songs
 
-- Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players.
+- Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
 
