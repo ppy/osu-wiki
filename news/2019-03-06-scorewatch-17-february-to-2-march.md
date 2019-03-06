@@ -377,7 +377,7 @@ Slavik Goblins is known in the osu!mania community as a ruthless chart, on which
 28 February 2019, Ranked, 941pp  
 *Added and written by [FayeurS 5](https://osu.ppy.sh/users/6177263)*
 
-Now for this second play of Jakads in this post, this is absolutely RIDICULOUS. The map is already 260 BPM and 7.45 stars without mods, and Jakads ramps it up and puts DT on it, making the map sit at 390 BPM and 10 stars for one minute, which sounds impossible at first sight, especially since wonder5193, the #2 player in mania, has 89% on this map with DT, which is the first pass on the map already, and Jakads beats it by over 6%, getting the first S rank on it!
+This play by Jakads is absolutely RIDICULOUS. The map is already 260 BPM and 7.45 stars without mods, and Jakads ramps it up and puts DT on it, making the map sit at 390 BPM and 10 stars for one minute, which sounds impossible at first sight, especially since wonder5193, the #2 player in mania, has 89% on this map with DT, which is the first pass on the map already, and Jakads beats it by over 6%, getting the first S rank on it!
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FIzG9hLKcQE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -385,7 +385,7 @@ Now for this second play of Jakads in this post, this is absolutely RIDICULOUS. 
 28 February 2019, Ranked, 1,115pp  
 *Added and written by [FayeurS 5](https://osu.ppy.sh/users/6177263)*
 
-Jakads sets the pp record once again for the third time in a row since the Scorewatch project has started once again. This time, this is a play on the newest 7-star 7K map by K a b i -, starlights. Being 7 stars without DT, Jakads just decides to ramp it up a bit and play a 9.53-star LN map, which sits at 261 BPM for 3 minutes straight, which can kill your stamina easily if you don't watch out, having a lot of streams and LNs that play as a stream basically, but Jakads still comes out and holds on an SS for half of the map, while barely being stressed as this video shows, and he comes out in the top 8 of the map, with mostly nomod plays around him.
+Jakads sets the pp record for the third time in a row since the Scorewatch project has started once again. This time, this is a play on the newest 7-star 7K map by K a b i -, starlights. Being 7 stars without DT, Jakads just decides to ramp it up a bit and play a 9.53-star LN map, which sits at 261 BPM for 3 minutes straight, which can kill your stamina easily if you don't watch out, having a lot of streams and LNs that play as a stream basically, but Jakads still comes out and holds on an SS for half of the map, while barely being stressed as this video shows, and he comes out in the top 8 of the map, with mostly nomod plays around him.
 
 ---
 
