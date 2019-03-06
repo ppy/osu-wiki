@@ -305,7 +305,7 @@ Just a few days after BeasttrollMC's HR FC, fieryrage raises the sword even high
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/V16MA4gKRo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/_V16MA4gKRo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **[Jaye](https://osu.ppy.sh/users/4841352)**: [Stronghold [Special Oni]](https://osu.ppy.sh/beatmapsets/464923#taiko/995363) +HD **Silver S** (FC, 99.89%)  
 22 February 2019, Loved  
