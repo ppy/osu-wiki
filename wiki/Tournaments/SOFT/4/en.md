@@ -5,7 +5,7 @@ tags:
 ---
 # Springtime Osu!mania Free-for-all Tournament 4
 
-![SOFT4 Banner](img/banner.png)
+![SOFT4 Logo](img/logo.png)
 
 > SOFT 4 When?, now!
 
@@ -15,27 +15,27 @@ tags:
 
 | Event | Timestamp |
 | --: | --- |
-| Registration Phase   | 2019-03-06/2019-03-22 |
-| Qualifiers Showcase  | 2019-03-31 16:00 UTC  |
-| Qualifiers           | 2019-04-06/2019-04-07 |
-| Playoffs - Week 1    | 2019-04-13/2019-04-14 |
-| Playoffs - Week 2    | 2019-04-20/2019-04-21 |
+| Registration Phase | 2019-03-06/2019-03-22 |
+| Qualifiers Showcase | 2019-03-31 16:00 UTC |
+| Qualifiers | 2019-04-06/2019-04-07 |
+| Playoffs - Week 1 | 2019-04-13/2019-04-14 |
+| Playoffs - Week 2 | 2019-04-20/2019-04-21 |
 | Group Stage - Week 1 | 2019-04-27/2019-04-28 |
 | Group Stage - Week 2 | 2019-05-04/2019-05-05 |
-| Round of 32          | 2019-05-11/2019-05-12 |
-| Round of 16          | 2019-05-18/2019-05-19 |
-| Quarterfinals        | 2019-05-25/2019-05-26 |
-| Semifinals           | 2019-06-01/2019-06-02 |
-| Finals               | 2019-06-08/2019-06-09 |
-| Grand Finals         | 2019-06-15/2019-06-16 |
+| Round of 32 | 2019-05-11/2019-05-12 |
+| Round of 16 | 2019-05-18/2019-05-19 |
+| Quarterfinals | 2019-05-25/2019-05-26 |
+| Semifinals | 2019-06-01/2019-06-02 |
+| Finals | 2019-06-08/2019-06-09 |
+| Grand Finals | 2019-06-15/2019-06-16 |
 
 ## Prizes
 
 *Prizes for this tournament are to be decided.*
 
-## Organization
+## Organisation
 
-| Position | Member |
+| Position | Member(s) |
 | --- | --- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
@@ -44,14 +44,14 @@ tags:
 | Streamers | ![][flag_LV] [Adiopulse](https://osu.ppy.sh/users/4387852), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
 | Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
-| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/877866)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/877866)
 - [Livestream](https://www.twitch.tv/osusoft)
-- [Discord Server](https://discord.gg/qd575a3)
-- **[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScWH5sExtBaftjaoUzlghMNWbw8iOhtdvwEr7P1xmBrM5DwVQ/viewform)**
+- [SOFT Discord server](https://discord.gg/qd575a3)
+- **[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScWH5sExtBaftjaoUzlghMNWbw8iOhtdvwEr7P1xmBrM5DwVQ/viewform)**
 
 ---------------------------
 
