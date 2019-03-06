@@ -104,8 +104,8 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 UTC-05 | 10:00 UTC+07 | ³ |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 22:00 UTC-05 | 12:00 UTC+09 | ³ |
+| United States | ![][flag_US] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 (Sat) UTC-05 | 10:00 UTC+07 | ³ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 22:00 (Sat) UTC-05 | 12:00 UTC+09 | ³ |
 | Philippines | ![][flag_PH] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ¹ |
 | Brazil | ![][flag_BR] | ![][flag_TH] | Thailand | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
