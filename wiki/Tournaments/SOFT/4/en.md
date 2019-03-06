@@ -15,40 +15,43 @@ tags:
 
 | Event | Timestamp |
 | --: | --- |
-| Registration Phase   | 2019-03-XX/2019-03-XX |
-| Qualifiers           | 2019-0X-XX/2019-0X-XX |
-| Playoffs - Week 1    | 2019-0X-XX/2019-0X-XX |
-| Playoffs - Week 2    | 2019-0X-XX/2019-0X-XX |
-| Group Stage - Week 1 | 2019-0X-XX/2019-0X-XX |
-| Group Stage - Week 2 | 2019-0X-XX/2019-0X-XX |
-| Round of 32          | 2019-0X-XX/2019-0X-XX |
-| Round of 16          | 2019-0X-XX/2019-0X-XX |
-| Quarterfinals        | 2019-0X-XX/2019-0X-XX |
-| Semifinals           | 2019-0X-XX/2019-0X-XX |
-| Finals               | 2019-0X-XX/2019-0X-XX |
-| Grand Finals         | 2019-0X-XX/2019-0X-XX |
+| Registration Phase   | 2019-03-06/2019-03-22 |
+| Qualifiers Showcase  | 2019-03-31 16:00 UTC  |
+| Qualifiers           | 2019-04-06/2019-04-07 |
+| Playoffs - Week 1    | 2019-04-13/2019-04-14 |
+| Playoffs - Week 2    | 2019-04-20/2019-04-21 |
+| Group Stage - Week 1 | 2019-04-27/2019-04-28 |
+| Group Stage - Week 2 | 2019-05-04/2019-05-05 |
+| Round of 32          | 2019-05-11/2019-05-12 |
+| Round of 16          | 2019-05-18/2019-05-19 |
+| Quarterfinals        | 2019-05-25/2019-05-26 |
+| Semifinals           | 2019-06-01/2019-06-02 |
+| Finals               | 2019-06-08/2019-06-09 |
+| Grand Finals         | 2019-06-15/2019-06-16 |
 
 ## Prizes
 
-*The winner of this tournament will earn a Profile Badge. The rest of the prizes are to be decided.*
+*Prizes for this tournament are to be decided.*
 
 ## Organization
 
 | Position | Member |
 | --- | --- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Coordinator | --- |
+| Coordinator | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map Selectors | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamers | ![][flag_LV] [Adiopulse](https://osu.ppy.sh/users/4387852), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
-| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [PSCHC](https://osu.ppy.sh/users/8688946), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
 | Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/XXXXXX)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/877866)
 - [Livestream](https://www.twitch.tv/osusoft)
+- [Discord Server](https://discord.gg/qd575a3)
+- **[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScWH5sExtBaftjaoUzlghMNWbw8iOhtdvwEr7P1xmBrM5DwVQ/viewform)**
 
 ---------------------------
 
@@ -119,8 +122,6 @@ tags:
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
-
-- The SOFT4 bracket can be found [here](https://challonge.com/XXXXXX).
 
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 
