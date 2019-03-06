@@ -57,7 +57,7 @@ tags:
 
 ## Rules
 
-### Tournament Organization
+### Tournament OrganiSation
 
 #### Round Overview
 
