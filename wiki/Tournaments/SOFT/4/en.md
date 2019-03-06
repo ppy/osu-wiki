@@ -75,7 +75,7 @@ tags:
   - If 64 players enter, all 64 players will qualify and no one gets eliminated.
   - If 127 players enter, the 63 worst-performing players get eliminated and the top 64 will advance to the next round.
 
-- The qualification round will have a 4 song mappool that widely varies in difficulty. Each map will be assigned a tier, with tier 1 being the lowest difficulty, and tier 4 being the highest difficulty.
+- The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
 
 - **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity**.
 
