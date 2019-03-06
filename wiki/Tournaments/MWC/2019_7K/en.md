@@ -87,35 +87,28 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2019 bracket](img/bracket_SF.png)
+![MWC 7K 2019 bracket](img/bracket_F.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 03. March 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ¹ |
-| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **12:30 UTC** | 20:30 UTC+08 | 13:30 UTC+01 | ² |
-| France | ![][flag_FR] | ![][flag_ID] | Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 | ² |
-| Macau | ![][flag_MO] | ![][flag_TH] | Thailand | **15:30 UTC** | 23:30 UTC+08 | 22:30 UTC+07 | ² |
-| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:00 UTC** | 14:00 UTC-03 | 14:00 UTC-03 | ² |
-
-### Sunday, 04. March 2019
+### Saturday, 09. March 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_US] | United States | **3:00 UTC** | 11:00 UTC+08 | 22:00 (Sat) UTC-05 | ¹ |
-| Macau | ![][flag_MO] | ![][flag_FR] | France | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 | ³ |
-| Macau | ![][flag_MO] | ![][flag_ID] | Indonesia | **13:00 UTC** | 21:00 UTC+08 | 20:00 UTC+07 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_FR] | France | **13:00 UTC** | 20:00 UTC+07 | 14:00 UTC+01 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_ID] | Indonesia | **13:00 UTC** | 20:00 UTC+07 | 20:00 UTC+07 | ³ |
-| Singapore | ![][flag_SG] | ![][flag_CL] | Chile | **14:30 UTC** | 22:30 UTC+08 | 11:30 UTC-03 | ³ |
-| Singapore | ![][flag_SG] | ![][flag_BR] | Brazil | **14:30 UTC** | 22:30 UTC+08 | 11:30 UTC-03 | ³ |
-| Poland | ![][flag_PL] | ![][flag_CL] | Chile | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ³ |
-| Poland | ![][flag_PL] | ![][flag_BR] | Brazil | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ³ |
+| Thailand | ![][flag_TH] | ![][flag_KR] | South Korea | **12:00 UTC** | 19:00 UTC+07 | 21:00 UTC+09 | ² |
+| Brazil | ![][flag_BR] | ![][flag_US] | United States | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 | ² |
+
+### Sunday, 10. March 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 UTC-05 | 10:00 UTC+07 | ³ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 22:00 UTC-05 | 12:00 UTC+09 | ³ |
+| Philippines | ![][flag_PH] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ¹ |
+| Brazil | ![][flag_BR] | ![][flag_TH] | Thailand | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
 
 ¹ Winner bracket encounter
 
@@ -124,6 +117,27 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- FreeMod
+  - [Hommarju - Rings of Rainbow (qodtjr) \[Sweet Ring\]](https://osu.ppy.sh/beatmapsets/867713#mania/1813878)
+  - [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (Kim\_GodSSI) \[Despair\]](https://osu.ppy.sh/beatmapsets/861816#mania/1802831)
+  - [Aquellex - Wanderflux (Gekido-) \[Annihilation (240 bpm ver.)\]](https://osu.ppy.sh/beatmapsets/925899#mania/1933949)
+  - [Jun Kuroda - Terpsichore (Madoka2574) \[LN Another\]](https://osu.ppy.sh/beatmapsets/873443#mania/1828108)
+  - [Billx - LA MD (Wilben\_Chan) \[LAAAAAAAAAAAAAAAAAAAAAAAA\]](https://osu.ppy.sh/beatmapsets/903549#mania/1886210)
+  - [Paul Bazooka - We're All Gonna Die (Kamikaze) \[Agka's Algor Mortis\]](https://osu.ppy.sh/beatmapsets/917575#mania/1916187)
+  - [Suzumu - Kasyokusei: Idol Syoukougun (angki) \[GabuZhan!\]](https://osu.ppy.sh/beatmapsets/888797#mania/1857778)
+  - [Feryquitous - Vend (spoonguy) \[124 (sp7)\]](https://osu.ppy.sh/beatmapsets/934222#mania/1950449)
+  - [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmapsets/705410#mania/1491970)
+  - [Frums - Pictured as Perfect (Jakads) \[Betsaljoy Lv.47 \[Imagination\]\]](https://osu.ppy.sh/beatmapsets/909046#mania/1897031)
+  - [Lon - Yuru Fuwa Jukai Girl (sankansuki) \[australian MX\]](https://osu.ppy.sh/beatmapsets/556912#mania/1178524)
+  - [Camellia - Illegal trap (Flexo123) \[EX\]](https://osu.ppy.sh/beatmapsets/756792#mania/1592340)
+  - [UtsuP feat. GUMI - Chocolate Girl (Cryolien) \[Chocolate \:joy\:\]](https://osu.ppy.sh/beatmapsets/812457#mania/1949701)
+  - [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmapsets/809848#mania/1699295)
+  - [Culprate & Bloom - Aurora (Nivrad00) \[(;\]](https://osu.ppy.sh/beatmapsets/934100#mania/1950089)
+- Tiebreaker
+  - **[Chroma - sink to the deep sea world (sankansuki) \[bedrock\]](https://osu.ppy.sh/beatmapsets/529516#mania/1122762)**
 
 ### Semifinals
 
@@ -196,6 +210,22 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2019-02-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **China** ![][flag_CN] | **6** | 0 | ![][flag_KR] South Korea | -Win by Default- |
+| France ![][flag_FR] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49966458) |
+| Macau ![][flag_MO] | 0 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49969094) |
+| Chile ![][flag_CL] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49971704) |
+
+| Sunday, 2019-02-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/49986741) |
+| Singapore ![][flag_SG] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49994851) |
+| **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/49996659) |
+| Poland ![][flag_PL] | 1 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/50001232) |
 
 ### Quarterfinals
 
