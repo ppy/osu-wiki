@@ -9,12 +9,12 @@ tags:
 
 > SOFT 4 When?, now!
 
-**SOFT 4**, short for **Springtime Osu!mania Free-for-all Tournament 4**, is a one-on-one, country-independent tournament. As the title indicates, this tournament is for the osu!mania game mode. More specifically, this tournament is an osu!mania 4-key tournament.
+The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-on-one, country-independent osu!mania 4-key tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| --: | --- |
+| --: | :-- |
 | Registration Phase | 2019-03-06/2019-03-22 |
 | Qualifiers Showcase | 2019-03-31 16:00 UTC |
 | Qualifiers | 2019-04-06/2019-04-07 |
@@ -57,7 +57,7 @@ tags:
 
 ## Rules
 
-### Tournament OrganiSation
+### Tournament Organisation
 
 #### Round Overview
 
