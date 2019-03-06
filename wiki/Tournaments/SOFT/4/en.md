@@ -48,7 +48,7 @@ tags:
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/posts/877866)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/877866)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [SOFT Discord server](https://discord.gg/qd575a3)
 - **[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScWH5sExtBaftjaoUzlghMNWbw8iOhtdvwEr7P1xmBrM5DwVQ/viewform)**
