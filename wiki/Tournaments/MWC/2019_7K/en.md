@@ -213,14 +213,14 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ### Semifinals
 
-| Saturday, 2019-02-23 |  |  |  |  |
+| Saturday, 2019-03-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_KR] South Korea | -Win by Default- |
 | France ![][flag_FR] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49966458) |
 | Macau ![][flag_MO] | 0 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49969094) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49971704) |
 
-| Sunday, 2019-02-24 |  |  |  |  |
+| Sunday, 2019-03-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/49986741) |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49994851) |
