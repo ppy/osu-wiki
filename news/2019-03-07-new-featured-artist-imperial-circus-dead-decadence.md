@@ -22,13 +22,13 @@ But naturally, don't take our word for it! Here's a few samples of just a snippe
     <source src="https://assets.ppy.sh/artists/35/previews/854.mp3" type="audio/mpeg">
 </audio>
 
-### Haishita Shoujo wa, Haiyorukonton to Kaigousu.
+### Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/35/previews/850.mp3" type="audio/mpeg">
 </audio>
 
-### Geki Ai no Yobigoe ga Dekiai no Kyousei o Kurau
+### Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/35/previews/848.mp3" type="audio/mpeg">
