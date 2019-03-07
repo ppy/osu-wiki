@@ -63,7 +63,7 @@ Community
 
 | 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/users/7292597)               | [-Rawn](https://osu.ppy.sh/users/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/users/7093651)      |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/users/7292597)               | [-Rawn](https://osu.ppy.sh/users/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/users/7093651)      |
 
 ### ![](/wiki/shared/mode/mania.png) 华人 osu!mania 4K 大赛
 | 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |

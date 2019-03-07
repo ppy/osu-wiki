@@ -69,7 +69,7 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640)           | [bsurma](https://osu.ppy.sh/users/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640)           | [bsurma](https://osu.ppy.sh/users/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 | Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
