@@ -34,7 +34,7 @@ But naturally, don't take our word for it! Here's a few samples of just a snippe
     <source src="https://assets.ppy.sh/artists/35/previews/848.mp3" type="audio/mpeg">
 </audio>
  
-### Danzai no Homura to Koibitotachi no Rondo
+### Danzai No Honoo To Koibito-Tachi No Rondo
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/35/previews/857.mp3" type="audio/mpeg">
