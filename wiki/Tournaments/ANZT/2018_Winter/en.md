@@ -1,3 +1,5 @@
+[spreadsheet]: https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs
+
 # Aus/NZ osu!standard Tournament 5 - Winter
 
 ![ANZT 5W Logo](img/logo.jpg)
@@ -46,7 +48,7 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double e
 
 ## Mappools
 
-Find all mappools [Here](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs)
+Find all mappools on the [main spreadsheet][spreadsheet].
 
 ---
 
@@ -60,7 +62,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 
-All individual match results can be found [Here](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs)
+All individual match results can be found on the [main spreadsheet][spreadsheet].
 
 ---
 
