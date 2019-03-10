@@ -68,29 +68,29 @@ All individual match results can be found [Here](https://docs.google.com/spreads
 
 ### General Rules
 
-* This is an 1v1 double elimination osu!standard tourney for Australian/New Zealand players only.
-* Participants must have an Australian or New Zealand flag on their osu profile.
-* Matches will be **Head to Head** with **Score V2** as the scoring system.
-* Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
-* If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
-* In order for your registration to count, you must **fill out the form, join the discord, and change your name to your osu! username**.
-* Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
-* Reschedules must be agreed on by **both players and proof must be provided**.
-* All matches will be scheduled for Fridays, Saturdays & Sundays.
+- This is an 1v1 double elimination osu!standard tourney for Australian/New Zealand players only.
+- Participants must have an Australian or New Zealand flag on their osu profile.
+- Matches will be **Head to Head** with **Score V2** as the scoring system.
+- Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.
+- If a problem occurs where rules are not clear, use common sense. Further questions can be directed to admins. Administration has final say regarding these situations.
+- In order for your registration to count, you must **fill out the form, join the discord, and change your name to your osu! username**.
+- Staff members are not allowed to sign up. The only exceptions are streamers & commentators.
+- Reschedules must be agreed on by **both players and proof must be provided**.
+- All matches will be scheduled for Fridays, Saturdays & Sundays.
 
 ### Match Rules
 
-* Referees will create the lobby and invite players 10 minutes before the designated match time.
-* Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
-* If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
-* Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
-* Highest !roll has first warmup, ban and pick.
-* Each player is allowed one ban.
-* Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT5W mappool and must be submitted.
-* One player may not pick from the same mod pool twice in a row (HD/HR/DT/FreeMod). This does not apply to NoMod.
-* In a FreeMod pick, each player **must select a mod(s)** (HD/HR/HDHR). **NoMod is not allowed**.
-* Failed scores will only count if the player revives before the end. If a player fails and their opponent does not, the point goes to the latter. If both players fail, the point goes to the higher failed score.
-* If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played under FreeMod conditions, allowing NoMod.
+- Referees will create the lobby and invite players 10 minutes before the designated match time.
+- Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
+- If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
+- Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
+- Highest !roll has first warmup, ban and pick.
+- Each player is allowed one ban.
+- Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT5W mappool and must be submitted.
+- One player may not pick from the same mod pool twice in a row (HD/HR/DT/FreeMod). This does not apply to NoMod.
+- In a FreeMod pick, each player **must select a mod(s)** (HD/HR/HDHR). **NoMod is not allowed**.
+- Failed scores will only count if the player revives before the end. If a player fails and their opponent does not, the point goes to the latter. If both players fail, the point goes to the higher failed score.
+- If the match ends in a tie, players will play the tiebreaker. The tiebreaker will be played under FreeMod conditions, allowing NoMod.
 
 ### Winning Conditions
 
