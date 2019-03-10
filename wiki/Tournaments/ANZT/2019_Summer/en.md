@@ -1,3 +1,5 @@
+[spreadsheet]: https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8
+
 # Aus/NZ osu!standard Tournament 6 - Summer
 
 ![ANZT 6S Logo](img/logo.png)
@@ -8,7 +10,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-12-9/2019-12-30 |
+| Registration Phase | 2018-12-9/2018-12-30 |
 | Group Stage | 2019-01-11/2019-02-10 |
 | Round of 16 | 2019-02-15/2019-02-17 |
 | Quarterfinals | 2019-02-22/2019-02-24 |
@@ -42,7 +44,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 ## Mappools
 
-Find all mappools on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8).
+Find all mappools on the [main spreadsheet][spreadsheet].
 
 ---
 
@@ -102,9 +104,9 @@ All individual match results can be found on the [main spreadsheet](https://docs
 
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_NZ]: /wiki/shared/flag/VN.gif
-[flag_NZ]: /wiki/shared/flag/PH.gif
-[flag_NZ]: /wiki/shared/flag/KR.gif
-[flag_NZ]: /wiki/shared/flag/US.gif
-[flag_NZ]: /wiki/shared/flag/JP.gif
-[flag_NZ]: /wiki/shared/flag/MV.gif
+[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_MV]: /wiki/shared/flag/MV.gif
