@@ -328,11 +328,13 @@ Results of the main bracket can be found [Here](http://anzttournaments.challonge
 
 ### Winning Conditions
 
-  - In Round of 32 & Losers Bracket Rounds 1 & 2, you need to win 4 maps to win a match. (Best-of-7)
-  - In Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 you need to win 5 maps to win a match. (Best-of-9)
-  - In Semi-finals & Losers Bracket Rounds 7 & 8, you need to win 6 maps to win a match. (Best-of-11)
-  - In Finals - Week 1 & 2, you need to win 7 maps to win the match. (Best-of-13)
-
+| Rounds | Condition |
+| --- | --- |
+| Round of 32 & Losers Bracket Rounds 1 & 2 | Win four maps (Best-of-7) |
+| Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 | Win five maps (Best-of-9) |
+| Semi-finals & Losers Bracket Rounds 7 & 8 | Win six maps (Best-of-11) |
+| Finals - Week 1 & 2 | Win seven maps (Best-of-13) |
+  
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_US]: /wiki/shared/flag/US.gif
