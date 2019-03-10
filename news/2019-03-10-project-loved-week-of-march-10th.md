@@ -32,14 +32,14 @@ osu! Loved candidates were chosen by [-Roxas](https://osu.ppy.sh/users/1986262),
 [Seiryu - AO-Infinity](https://osu.ppy.sh/beatmapsets/595127#osu) by [Mordred](https://osu.ppy.sh/users/7265097) and [Telomere](https://osu.ppy.sh/users/6295380)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-A map almost lost to time resurfaces to participate in this week's Project Loved voting! Some may recognize this song from a previous Loved map by [RyuK](https://osu.ppy.sh/users/6304246), however this mapset by Mordred is considered by many to be the first successful and widely accepted rendition of Seiryu's AO-INFINITY. This set comes with two difficulties: Vill's EXHAUST at 6.52 stars, and Mordred's INFINITY at 7.09 stars. Each difficulty does a great job at emphasizing the streamy and jumpy nature of the song and creates a perfect environment for players looking for a challenge on some good tunes.
+A map almost lost to time resurfaces to participate in this week's Project Loved voting! Some may recognize this song from a previous Loved map by [RyuK](https://osu.ppy.sh/users/6304246), however this mapset by Mordred is considered by many to be the first successful and widely accepted rendition of Seiryu's AO-Infinity. This set comes with two difficulties: Vill's EXHAUST at 6.52 stars, and Mordred's INFINITY at 7.09 stars. Each difficulty does a great job at emphasizing the streamy and jumpy nature of the song and creates a perfect environment for players looking for a challenge on some good tunes.
 
 [![](/wiki/shared/news/2019-03-10-project-loved-week-of-march-10th/osu/error.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Aimiya Zero - -ERROR](https://osu.ppy.sh/beatmapsets/426602#osu) by [Yusomi](https://osu.ppy.sh/users/4174940)  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-Known for her high difficulty and jump-based maps, Yusomi returns again with her take on Aimiya Zero's "ERROR". The song tells a story of a character drowning from their emotions after a heartbreaking separation. Although trivial, the mapset does a clean job of simulating a similar experience. Instead of emotions, any player who attempts this map will find themselves drowning in a barrage of increasingly difficult 200 BPM jumps and bursts. I think it's a fitting theme for the song. The map itself has amassed over 110 favorites since its submission in March of 2016, and is has been recognized by many top players for its difficulty. However, its survival in the voting depends on you. Check out the map and come back to decide its fate in Project Loved!
+Known for her high difficulty and jump-based maps, Yusomi returns again with her take on Aimiya Zero's "-ERROR". The song tells a story of a character drowning from their emotions after a heartbreaking separation. Although trivial, the mapset does a clean job of simulating a similar experience. Instead of emotions, any player who attempts this map will find themselves drowning in a barrage of increasingly difficult 200 BPM jumps and bursts. I think it's a fitting theme for the song. The map itself has amassed over 110 favorites since its submission in March of 2016, and is has been recognized by many top players for its difficulty. However, its survival in the voting depends on you. Check out the map and come back to decide its fate in Project Loved!
 
 [![](/wiki/shared/news/2019-03-10-project-loved-week-of-march-10th/osu/night-club-junkie.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -53,7 +53,7 @@ Gather 'round the nightclub, everyone! Rumor has it that there's a spicy new YUC
 [forest - 60th Summer of Love](https://osu.ppy.sh/beatmapsets/803415#osu) by [Fushimi Rio](https://osu.ppy.sh/users/1205412)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-Many of you may already recognize the mapset owner, Fushimi Rio, for their various ranked maps over the last few years. Their mapset of "Forest - 60th Summer of Love" features three difficulties: a 3-star, a 5-star, and a 7-star, the lower two being guest difficulties. With a BPM of 158, this catchy song lends itself to a very alternate-heavy mapping style, which can be seen in the highest difficulty. The two lower difficulties feature more conventional mapping, catering the mapset to all kinds of players. Whether you want to challenge your mechanics or just improve your general gameplay skill, this mapset has a difficulty for you to try—give it a go!
+Many of you may already recognize the mapset owner, Fushimi Rio, for their various ranked maps over the last few years. Their mapset of "forest - 60th Summer of Love" features three difficulties: a 3-star, a 5-star, and a 7-star, the lower two being guest difficulties. With a BPM of 158, this catchy song lends itself to a very alternate-heavy mapping style, which can be seen in the highest difficulty. The two lower difficulties feature more conventional mapping, catering the mapset to all kinds of players. Whether you want to challenge your mechanics or just improve your general gameplay skill, this mapset has a difficulty for you to try—give it a go!
 
 [![](/wiki/shared/news/2019-03-10-project-loved-week-of-march-10th/osu/dash-hopes-3.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -85,7 +85,7 @@ A technical map with interesting patterns is coming in from Akali once again! Th
 
 [![](/wiki/shared/news/2019-03-10-project-loved-week-of-march-10th/osu/blastix-riotz.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
-[Camellia as 'Bang Riot' - Blastix Riotz](https://osu.ppy.sh/beatmapsets/386602#osu) by [Reol](https://osu.ppy.sh/users/1945351)  
+[Camellia as "Bang Riot" - Blastix Riotz](https://osu.ppy.sh/beatmapsets/386602#osu) by [Reol](https://osu.ppy.sh/users/1945351)  
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 This map is one of the oldest (playable) 8 star maps, and its star difficulty is high for good reason. Reol's Blastix Riotz map is full of high-velocity jumps and bursts, and at its climax has a 256 BPM spaced stream in excess of 100 notes long. This map is more than three years old, and it's only recently that players have started to become competent enough to even consider going for a good pass. Think you're up for the challenge?
@@ -142,7 +142,7 @@ Blaster812's "Game Grumpy" is a pretty old map from 2013. I remember this being 
 [LADYBABY - Nippon manju](https://osu.ppy.sh/beatmapsets/356473#fruits) by [Michael Jordan](https://osu.ppy.sh/users/4099041)  
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Despite it not being quite as big of a leap back as the other map featured this week, this map is also a throwback. Michael Jordan, having started mapping in early 2015, has not been in the spotlight for quite a while now. With a large number of maps under his belt, there is definitely some good stuff to be revived and more fun to be had here. Nippon Manju was quite popular in multiplayer back in the day, it being a fairly hard map for its time (and even now) due to how dense some parts of the map feel, combined with a lot of left-right jumps. The map also includes a decent amount hyperwalks—they weren't that common of a pattern back in those days, hence why they feel a little experimental here, but they're still pretty cool. All in all, this map makes for a nice nostalgic trip, and will definitely be enjoyable to a lot of you!
+Despite it not being quite as big of a leap back as the other map featured this week, this map is also a throwback. Michael Jordan, having started mapping in early 2015, has not been in the spotlight for quite a while now. With a large number of maps under his belt, there is definitely some good stuff to be revived and more fun to be had here. Nippon manju was quite popular in multiplayer back in the day, it being a fairly hard map for its time (and even now) due to how dense some parts of the map feel, combined with a lot of left-right jumps. The map also includes a decent amount hyperwalks—they weren't that common of a pattern back in those days, hence why they feel a little experimental here, but they're still pretty cool. All in all, this map makes for a nice nostalgic trip, and will definitely be enjoyable to a lot of you!
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
