@@ -102,14 +102,14 @@ This map is one of the oldest (playable) 8 star maps, and its star difficulty is
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/osu/legend.jpg)](https://osu.ppy.sh/community/forums/topics/880233)
 
 [Yooh - LegenD.](https://osu.ppy.sh/beatmapsets/359821#osu) by [toybot](https://osu.ppy.sh/users/2848604) et al.  
-205 BPM, 1:58 | 1.85★ - 7.32★  
+205 BPM, 1:58 | 1.85★ – 7.32★  
 *written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 toybot's mapset of "LegenD." was updated and revised for a year after its creation before being abandoned and left to the throes of the graveyard. It's seen a constant inclusion in tournament map pools recently, and was never unpopular to begin with. Adding its full difficulty spread to this, I see no reason such a diverse mapset can't be enjoyed by many players of all skill levels. Give the mapset a spin; there's a lot of enjoyment to be had within its many difficulties!
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
 ---
 
@@ -177,7 +177,7 @@ The intensity of each section is exaggerated to satisfying effect, clearly repre
 [![](/wiki/shared/news/2019-03-11-project-loved-week-of-march-10th/mania/wh1teh-pack-3.jpg)](https://osu.ppy.sh/community/forums/topics/880218)
 
 [Various Artists - Wh1teh Pack #3](https://osu.ppy.sh/beatmapsets/509116#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)  
-210 BPM, 5:32 | 4K, 0.00★ - 5.87★
+210 BPM, 5:32 | 4K, 3.96★ – 5.87★
 
 Wh1teh Pack #3 is a 15-chart pack filled with everything that you would expect from Wh1teh: Short jumpstream charts (Death Waltz, Moon Gate), stamina jumpstream charts (Blue Noah 2006), chordjacking (Glucagon), and even a technical chart (Devilz Staircase) on the side. The charts are also very varied in difficulty, so there's at least two charts or three for most players to try out.
 
