@@ -31,7 +31,7 @@ La **Catch French Intermediate Cup** (***CFIC***) est un tournoi 1v1 français i
 
 ## Organisation
 
-La Catch French Cup 3 est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
+La Catch French Intermediate Cup est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
 
 | Poste | Membre(s) |
 | :-- | :-- |
