@@ -87,38 +87,29 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2019 bracket](img/bracket_F.png)
+![MWC 7K 2019 bracket](img/bracket_F2.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Finals
-
-### Saturday, 09. March 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Thailand | ![][flag_TH] | ![][flag_KR] | South Korea | **12:00 UTC** | 19:00 UTC+07 | 21:00 UTC+09 | ² |
-| Brazil | ![][flag_BR] | ![][flag_US] | United States | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 | ² |
+## Match Schedule: Grand Finals
 
 ### Sunday, 10. March 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_TH] | Thailand | **3:00 UTC** | 22:00 (Sat) UTC-05 | 10:00 UTC+07 | ³ |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 22:00 (Sat) UTC-05 | 12:00 UTC+09 | ³ |
-| Philippines | ![][flag_PH] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ¹ |
-| Brazil | ![][flag_BR] | ![][flag_TH] | Thailand | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **5:00 UTC** | 13:00 UTC+08 | 14:00 UTC+09 | ¹ |
+| Philippines | ![][flag_PH] | ![][flag_CN] | China | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 | ² |
+| Philippines | ![][flag_PH] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
 
-¹ Winner bracket encounter
+¹ 3rd place encounter
 
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
+² Grand Finals encounter dependent on results of ²3rd place encounter
 
 ## Mappools
 
 ### Finals
+
+**This mappool is played in Finals and Grand Finals.**
 
 - FreeMod
   - [Hommarju - Rings of Rainbow (qodtjr) \[Sweet Ring\]](https://osu.ppy.sh/beatmapsets/867713#mania/1813878)
@@ -210,6 +201,18 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2019-03-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Thailand ![][flag_TH] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50136165) |
+| Brazil ![][flag_BR] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/50150079) |
+
+| Sunday, 2019-03-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| United States ![][flag_US] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50159921) |
+| **Philippines** ![][flag_PH] | **7** | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/50168401) |
 
 ### Semifinals
 
