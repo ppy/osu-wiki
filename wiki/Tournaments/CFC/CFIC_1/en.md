@@ -7,7 +7,7 @@ tags:
 
 ![CFIC Logo](img/logo.png)
 
-The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](/users/6177263). It is the first installment and a new branch of the Catch French Cup.
+The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It is the first installment and a new branch of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -35,18 +35,18 @@ The Catch French Intermediate Cup is run by various community members by distrib
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [FayeurS 5](/users/6177263) |
-| Map Selectors | ![][flag_TN] [-Ken](/users/4430811), ![][flag_FR] [Rougoku](/users/6900166) |
-| Commentators | ![][flag_FR] [FayeurS 5](/users/6177263), ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_FR] [redjiii](/users/1378728) |
-| Streamers | ![][flag_FR] [FulgurentKille](/users/4096322), ![][flag_CA] [Sinaeb](/users/1576095) |
-| Designer | ![][flag_FR] [Lotchidych](/users/8375240) |
-| Statistician | ![][flag_FR] [FayeurS 5](/users/6177263) |
-| Referees | ![][flag_FR] [FayeurS 5](/users/6177263), ![][flag_FR] [Ryumi](/users/6596270), ![][flag_FR] [TLQ\_Yoshii](/users/7157133), ![][flag_CA] [Sinaeb](/users/1576095), ![][flag_FR] [Mimir](/users/7382734) |
-| Wiki | ![][flag_ID] [Naruk](/users/7100002) |
+| Management | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
+| Map Selectors | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Commentators | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| Streamers | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Statistician | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
+| Referees | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
+| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/858507)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/858507)
 - [CFIC Discord server](https://discord.gg/3DewaX8)
 - [CFIC Challonge brackets](https://osucfc.challonge.com/CFIC1)
 - [Livestream](https://www.twitch.tv/osufrlive)
@@ -58,19 +58,19 @@ The Catch French Intermediate Cup is run by various community members by distrib
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_BE] [-\[Smoked\]-](/users/8731044), ![][flag_FR] [Aequo3](/users/4495141), ![][flag_FR] [Realmas](/users/6567640), ![][flag_FR] [YANOO123](/users/5122949) |
-| High | ![][flag_FR] [Yruama](/users/8221467), ![][flag_FR] [Rizhen-](/users/6802893), ![][flag_FR] [pierreCHT](/users/4508720), ![][flag_FR] [floflim](/users/5954015) |
-| Low | ![][flag_FR] [Khalemm](/users/11983416), ![][flag_FR] [oasix42](/users/6183012), ![][flag_FR] [Sageru](/users/10769450), ![][flag_FR] [4L-Chan 3 Porte](/users/7253987) |
-| Unseeded | ![][flag_FR] [ACinfr](/users/3561482), ![][flag_FR] [redjiii](/users/1378728), ![][flag_FR] [Zard](/users/6277626), ![][flag_FR] [rpp1](/users/3463504) |
+| Top | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141), ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| High | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893), ![][flag_FR] [pierreCHT](https://osu.ppy.sh/users/4508720), ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) |
+| Low | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416), ![][flag_FR] [oasix42](https://osu.ppy.sh/users/6183012), ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
+| Unseeded | ![][flag_FR] [ACinfr](https://osu.ppy.sh/users/3561482), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [rpp1](https://osu.ppy.sh/users/3463504) |
 
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] [Aequo3](/users/4495141) | ![][flag_FR] [pierreCHT](/users/4508720) | ![][flag_FR] [4L-Chan 3 Porte](/users/7253987) | ![][flag_FR] [ACinfr](/users/3561482) |
-| **B** | ![][flag_FR] [YANOO123](/users/5122949) | ![][flag_FR] [Yruama](/users/8221467) | ![][flag_FR] [oasix42](/users/6183012) | ![][flag_FR] [rpp1](/users/3463504) |
-| **C** | ![][flag_BE] [-\[Smoked\]-](/users/8731044) | ![][flag_FR] [floflim](/users/5954015) | ![][flag_FR] [Khalemm](/users/11983416) | ![][flag_FR] [redjiii](/users/1378728) |
-| **D** | ![][flag_FR] [Realmas](/users/6567640) | ![][flag_FR] [Rizhen-](/users/6802893) | ![][flag_FR] [Sageru](/users/10769450) | ![][flag_FR] [Zard](/users/6277626) |
+| **A** | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [pierreCHT](https://osu.ppy.sh/users/4508720) | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [ACinfr](https://osu.ppy.sh/users/3561482) |
+| **B** | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [oasix42](https://osu.ppy.sh/users/6183012) | ![][flag_FR] [rpp1](https://osu.ppy.sh/users/3463504) |
+| **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 -----------------------
 
