@@ -25,7 +25,7 @@ La **Catch French Intermediate Cup** (***CFIC***) est un tournoi 1v1 français i
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Unique profile badge |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
 
 ![CFIC Winner Badge](img/badge.png)
 
