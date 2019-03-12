@@ -8,7 +8,7 @@ Ready for another round of [Project Loved](https://osu.ppy.sh/community/forums/1
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 Once again, we're seeing a change in the number of picks for certain modes this week! osu!taiko is bumping up its map count to **five**, one more than the four of previous rounds. In the opposite direction, osu!mania will actually be skipping out on picking maps this time due to community concerns—please see the note from the captains in the [osu!mania section](#osumania) of this post!
 
