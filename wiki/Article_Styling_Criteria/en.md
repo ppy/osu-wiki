@@ -60,7 +60,7 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 *Note to translators: After updating an article, remove the `outdated` mark.*
 
-Do not delete translated articles when the English varient is updated, regardless of the content being outdated or malformed. Instead, use the `outdated` mark, which looks like this:
+Use the `outdated` mark on translated articles when the English variant is updated, which looks like this:
 
 ```md
 ---
@@ -473,7 +473,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 <!-- going with hyphens, see https://github.com/ppy/osu-wiki/issues/1996#issue-403476323 and https://github.com/ppy/osu-wiki/issues/1996#issuecomment-457861162 -->
 
-Spaces in file names must be replaced with hyphens (`-`). When naming an image, the file name should be meaningful or descriptive but short.
+Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
 #### Image behaviour
 
