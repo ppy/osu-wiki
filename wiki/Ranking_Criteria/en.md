@@ -148,9 +148,9 @@ Glossary
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 
 #### Standardisation
-- **`Commas`, `vs.`, `&`, `feat.`, `CV:`, `etc.` must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
-- **Any form of `vs.` / `Vs.` / `VS` / `etc.` must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
-- **Any form of `feat.` / `ft.` / `Ft.` / `etc.` must be written as feat. when it is used as a marker signifying a featured artist in the song.**
+- **Commas, `vs.`, `&`, `feat.`, `CV:`, etc. must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
+- **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
+- **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying a featured artist in the song.**
 - **When a fictional character is credited as the singer of a song, the artist field is to be formatted in a `Character (CV: Voice Actor)` format.** For live action, credit the voice actor only.
 - **If the song is `TV size`, use a `(TV Size)` marker at the end of the current title string.** If there is an existing `TV size` marker in the title, the `(TV Size)` marker would replace it.
     - Note: If a mapset's song contains matching sections to the TV size song, in the same order, and is roughly the same length as the official TV Size song, the mapset's edit will also count as a `TV Size`. Covers and Remixes do not count.
