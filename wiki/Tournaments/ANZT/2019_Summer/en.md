@@ -39,7 +39,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/839284)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/839284)
 - [Livestream](https://www.twitch.tv/osuanzt)
 
 ## Mappools
