@@ -93,7 +93,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ## Match Schedule: Grand Finals
 
-### Sunday, 10. March 2019
+### Sunday, 17. March 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
