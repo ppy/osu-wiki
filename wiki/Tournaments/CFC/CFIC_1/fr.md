@@ -158,21 +158,21 @@ La Catch French Intermediate Cup est gérée par différents membres de la commu
 **[Téléchargez le mappack ici! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
 
 - NoMod
-  - [Kaneko Chiharu - iLLness LiLin (ZiRoX) \[ZiRoX's ADVANCED\]](/beatmapsets/777109#fruits/1662268)
-  - [Thaehan - Yuujou (Sinnoh) \[Platter\]](/beatmapsets/921419#fruits/1924124)
-  - [Manoeuvres - Mad World (Station Earth Remix) (appleeaterx) \[apple's Insane\]](/beatmapsets/434391#fruits/936797)
-  - [boa - duvet TV sized (Mir) \[Mir's Insane\]](/beatmapsets/466758#fruits/1161891)
+  - [Kaneko Chiharu - iLLness LiLin (ZiRoX) \[ZiRoX's ADVANCED\]](https://osu.ppy.sh/beatmapsets/777109#fruits/1662268)
+  - [Thaehan - Yuujou (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/921419#fruits/1924124)
+  - [Manoeuvres - Mad World (Station Earth Remix) (appleeaterx) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/434391#fruits/936797)
+  - [boa - duvet TV sized (Mir) \[Mir's Insane\]](https://osu.ppy.sh/beatmapsets/466758#fruits/1161891)
 - Hidden
-  - [nano.RIPE - Kodama Kotodama (CLSW) \[Rain\]](/beatmapsets/340570#fruits/753305)
-  - [44teru-k - F.I (Jacob) \[Another\]](/beatmapsets/47664#fruits/155233)
+  - [nano.RIPE - Kodama Kotodama (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/340570#fruits/753305)
+  - [44teru-k - F.I (Jacob) \[Another\]](https://osu.ppy.sh/beatmapsets/47664#fruits/155233)
 - HardRock
-  - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (Fawx) \[Fawx's Normal LV. 5\]](/beatmapsets/410410#fruits/890671)
-  - [Nakaya Sayaka - HAPPINESSCHARGE PRECURE! WOW! (TV Size) (Flower) \[Hard\]](/beatmapsets/147263#fruits/375570)
+  - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (Fawx) \[Fawx's Normal LV. 5\]](https://osu.ppy.sh/beatmapsets/410410#fruits/890671)
+  - [Nakaya Sayaka - HAPPINESSCHARGE PRECURE! WOW! (TV Size) (Flower) \[Hard\]](https://osu.ppy.sh/beatmapsets/147263#fruits/375570)
 - DoubleTime
-  - [BURTON - Shinonomegiku (SUBSTAC9) \[STAC's Salad\]](/beatmapsets/152709#fruits/401256)
-  - [T-ara - Apple Is A (Mako Sakata) \[Apple\]](/beatmapsets/312328#fruits/697225)
+  - [BURTON - Shinonomegiku (SUBSTAC9) \[STAC's Salad\]](https://osu.ppy.sh/beatmapsets/152709#fruits/401256)
+  - [T-ara - Apple Is A (Mako Sakata) \[Apple\]](https://osu.ppy.sh/beatmapsets/312328#fruits/697225)
 - Tiebreaker
-  - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](/beatmapsets/344833#fruits/761644)**
+  - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](https://osu.ppy.sh/beatmapsets/344833#fruits/761644)**
 
 ------------------------------------------------------------------------
 
