@@ -564,7 +564,7 @@ All of the flag icons use the two letter code (in all capital letters) and end w
 
 Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
 
-Adding the full country names or codes in the alt text is optional. Adding full country names in title text is optional.
+Adding the full country names or codes in the alternate text is optional. Adding full country names in title text is optional.
 
 ### Tables
 
@@ -628,7 +628,7 @@ In the case where variants of English spellings conflict, prefer the British Eng
 
 ### osu!
 
-The name of the game, osu!, must not capitalised nor italicised. The osu! official branding must not use any spaces. Examples include:
+The name of the game, osu!, must not be capitalised nor italicised. The osu! official branding must not use any spaces. Examples include:
 
 - `osu!academy`
 - `osu!api`
@@ -743,7 +743,7 @@ Dean Herbert (also known as peppy) created osu!.
 
 #### Trademarks
 
-*For rules regarding osu!, see [osu!](#osu!).*
+*For rules regarding osu!, see: [osu!](#osu!)*
 
 The following trademarks must be spelt as follows (letter casing must match):
 
@@ -788,7 +788,7 @@ These words are spelt as follows (spacing must match):
 - `hit circle`
 - `hit sound`
 - `in-game`
-- `play style`
+- `playstyle`
 - `slider tick`
 - `slider ball`
 - `slider path`
