@@ -128,8 +128,6 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | #W17 | osu | BRATVA I KOLCO | **19:00** |
 | #W15 | derust | la profanacion | **20:00** |
 
------------------------
-
 ## Mappools
 
 ### Round of 16
@@ -163,26 +161,26 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 **[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip)**
 
 - NoMod
-  - [M2U - Moon Halo (Minorsonek) \[Infinity\]](/beatmapsets/782778#osu/1648966)
-  - [HyuN - Illusion of Inflict (schoolboy) \[Expert\]](/beatmapsets/891366#osu/1863289)
-  - [THE ORAL CIGARETTES - Tonari Au (TV Size) (Gottagof4st) \[Eternal Rain\]](/beatmapsets/774119#osu/1627103)
-  - [Blaster & Extra Terra - Spacecraft (Mun) \[Mun's Insane\]](/beatmapsets/712901#osu/1530346)
+  - [M2U - Moon Halo (Minorsonek) \[Infinity\]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)
+  - [HyuN - Illusion of Inflict (schoolboy) \[Expert\]](https://osu.ppy.sh/beatmapsets/891366#osu/1863289)
+  - [THE ORAL CIGARETTES - Tonari Au (TV Size) (Gottagof4st) \[Eternal Rain\]](https://osu.ppy.sh/beatmapsets/774119#osu/1627103)
+  - [Blaster & Extra Terra - Spacecraft (Mun) \[Mun's Insane\]](https://osu.ppy.sh/beatmapsets/712901#osu/1530346)
 - Hidden
-  - [DJ Sharpnel - Exciting Hyper Highspeed Star (H-boy) \[H-boy's Hyper\]](/beatmapsets/16619#osu/62590)
-  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Another\]](/beatmapsets/710329#osu/1501582)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (H-boy) \[H-boy's Hyper\]](https://osu.ppy.sh/beatmapsets/16619#osu/62590)
+  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Another\]](https://osu.ppy.sh/beatmapsets/710329#osu/1501582)
 - HardRock
-  - [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) \[LC's Insane\]](/beatmapsets/270457#osu/615225)
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[_Epreus' Insane\]](/beatmapsets/834240#osu/1761166)
+  - [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615225)
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[_Epreus' Insane\]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
 - DoubleTime
-  - [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) \[6006's Hard\]](/beatmapsets/333139#osu/783412)
-  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Insane\]](/beatmapsets/660752#osu/1615501)
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) \[6006's Hard\]](https://osu.ppy.sh/beatmapsets/333139#osu/783412)
+  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615501)
 - FreeMod
-  - [DJ NAGAI feat. a\*ru - Benibotan (TT Mouse) \[Tt's Another\]](/beatmapsets/548679#osu/1532202)
-  - [Feint - Words (feat. Laura Brehm) (MrMenda) \[Speechless\]](/beatmapsets/759581#osu/1599648)
+  - [DJ NAGAI feat. a\*ru - Benibotan (TT Mouse) \[Tt's Another\]](https://osu.ppy.sh/beatmapsets/548679#osu/1532202)
+  - [Feint - Words (feat. Laura Brehm) (MrMenda) \[Speechless\]](https://osu.ppy.sh/beatmapsets/759581#osu/1599648)
 - Tiebreaker
-  - **[Memme - China Dress (Guy) \[Guy's Extra\]](/beatmapsets/149749#osu/369981)**
-  - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) \[Pata-Mon's Another\]](/beatmapsets/622109#osu/1584207)**
-  - **[Camellia - Towards The Horizon (Nerova Riuz GX) \[A Tale from the Wayfarer\]](/beatmapsets/578445#osu/1224754)**
+  - **[Memme - China Dress (Guy) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/149749#osu/369981)**
+  - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) \[Pata-Mon's Another\]](https://osu.ppy.sh/beatmapsets/622109#osu/1584207)**
+  - **[Camellia - Towards The Horizon (Nerova Riuz GX) \[A Tale from the Wayfarer\]](https://osu.ppy.sh/beatmapsets/578445#osu/1224754)**
 
 ------------------------------------------------------------------------
 
@@ -201,11 +199,11 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 | Group | Sunday, 2018-03-03 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/mp/49977155) |
+| C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
 | D | Gay Squad | 1 | **4** | **tibi saised** | [#1](https://osu.ppy.sh/community/matches/49984774) |
 | A | **=yahe** | **4** | 2 | Roselia | [#1](https://osu.ppy.sh/community/matches/49985847) |
-| A | **Roselia** | **4** | 1 | all waifu hero | [#1](https://osu.ppy.sh/mp/49986794) |
+| A | **Roselia** | **4** | 1 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49986794) |
 | C | Fine Lady Squad | 0 | **4** | **Raise My PeePee** | -win by default- |
 | B | **Rubber Conquest** | **4** | 1 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49988835) |
 | D | **#arsecrackers** | **4** | 0 | tibi saised | [#1](https://osu.ppy.sh/community/matches/49988707) |
@@ -237,13 +235,13 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 | Group | Sunday, 2018-03-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/mp/50159916) |
+| F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
 | H | **Gruuuu** | **4** | 0 | Farmers | -win by default- |
-| F | HDcarryEmertxE | 2 | **4** | **Hotel for Lolis** | [#1](https://osu.ppy.sh/mp/50160870) |
+| F | HDcarryEmertxE | 2 | **4** | **Hotel for Lolis** | [#1](https://osu.ppy.sh/community/matches/50160870) |
 | E | Valhalla | 0 | **4** | **derust** | -win by default- |
 | E | **Valhalla** | **4** | 0 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50168843) |
 | H | **Floating up** | **4** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50169895) |
-| G | **AGO DIMENSIONS** | **4** | 2 | Lux Aeterna | [#1](https://osu.ppy.sh/mp/50170268) |
+| G | **AGO DIMENSIONS** | **4** | 2 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50170268) |
 | A | **=yahe** | **4** | 0 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/50171664) |
 | H | **Floating up** | **4** | 1 | Gruuuu | [#1](https://osu.ppy.sh/community/matches/50171281) |
 | H | Gruuuu | 3 | **4** | **canvas garden** | [#1](https://osu.ppy.sh/community/matches/50172937) |
