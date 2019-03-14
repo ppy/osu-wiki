@@ -33,7 +33,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 - ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
 - ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
 - ![Overdose](/wiki/shared/diff/expert-c.png "Overdose") Overdose
-- ![Deluge](/wiki/shared/diff/expertplus-c.png "Deluge") Deluge
+- ![Overdose+](/wiki/shared/diff/expertplus-c.png "Overdose+") Overdose+
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
