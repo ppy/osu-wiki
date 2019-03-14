@@ -799,7 +799,7 @@ These words are spelt as follows (spacing must match):
 
 - Use `beatmap` instead of `map`.
 - Use `creator` instead of `beatmapper` or `mapper`.
-- Use `created` instead of `beatmapped` or `mapped`.
+- Use `mapped` instead of `beatmapped`.
 <!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
 - Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*.
 - Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
