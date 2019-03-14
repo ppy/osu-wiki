@@ -134,21 +134,15 @@ All osu! wiki articles must adhere to the following rules.
 
 Parts of the GFM (GitHub Flavored Markdown) markup are supported in the osu! wiki. GFM has a small amount of markup that anyone can learn in about 3 minutes. However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
-#### HTML
+### HTML
 
 <!-- ppy ruled HTML is not allowed. from:ppy#0001 during:2017-06-26 in:osu-wiki markdown -->
 
-**HTML use is prohibited!** If you need to use any HTML for any reason, you must reconsider the layout you are using.
+**HTML use is prohibited!** Resturcture the formatting if you need to use HTML.
 
-##### HTML entities
+#### Comments
 
-*For more information about HTML entities, see: [Entity - Glossary](https://developer.mozilla.org/en-US/docs/Glossary/Entity "MDN")*
-
-HTML character entities should not be used. If used however, prefer the character over the entity. For example:
-
-```md
-All this with more transparency™ than ever before!
-```
+HTML comments may be used for annotating text, but limit usage.
 
 ### Editing
 
