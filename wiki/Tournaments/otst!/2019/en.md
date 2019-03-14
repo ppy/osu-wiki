@@ -170,7 +170,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
   - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Another\]](https://osu.ppy.sh/beatmapsets/710329#osu/1501582)
 - HardRock
   - [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615225)
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[_Epreus' Insane\]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[\_Epreus' Insane\]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
 - DoubleTime
   - [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) \[6006's Hard\]](https://osu.ppy.sh/beatmapsets/333139#osu/783412)
   - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615501)
@@ -189,7 +189,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 ### Group Stage
 
 | Group | Saturday, 2018-03-02 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
 | A | our angel kodama | 3 | **4** | **all waifu hero** | [#1](https://osu.ppy.sh/community/matches/49970014) |
@@ -198,7 +198,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
 | Group | Sunday, 2018-03-03 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
 | D | Gay Squad | 1 | **4** | **tibi saised** | [#1](https://osu.ppy.sh/community/matches/49984774) |
@@ -214,14 +214,14 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | D | **#arsecrackers** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50002657) |
 
 | Group | Monday, 2018-03-04 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | C | **Riven small PP** | **4** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50009003) |
 | D | **la profanacion** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50012995) |
 | D | **la profanacion** | **4** | 1 | tibi saised | [#1](https://osu.ppy.sh/community/matches/50014006) |
 | C | **Raise My PeePee** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50014778) |
 
 | Group | Saturday, 2018-03-09 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | E | derust | 1 | **4** | **Restricted Mode** | [#1](https://osu.ppy.sh/community/matches/50128761) |
 | F | Viva Franc0 | 0 | **4** | **HDcarryEmertxE** | [#1](https://osu.ppy.sh/community/matches/50139948) |
 | G | **bruh** | **4** | 0 | AGO DIMENSIONS | [#1](https://osu.ppy.sh/community/matches/50142860) |
@@ -234,7 +234,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | E | **Restricted Mode** | **4** | 1 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50155843) |
 
 | Group | Sunday, 2018-03-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
+| :-: | --: | :-: | :-: | :-- | :-: |
 | F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
 | H | **Gruuuu** | **4** | 0 | Farmers | -win by default- |
 | F | HDcarryEmertxE | 2 | **4** | **Hotel for Lolis** | [#1](https://osu.ppy.sh/community/matches/50160870) |
