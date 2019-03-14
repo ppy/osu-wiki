@@ -1,5 +1,3 @@
-[spreadsheet]: https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8
-
 # Aus/NZ osu!standard Tournament 6 - Summer
 
 ![ANZT 6S Logo](img/logo.png)
@@ -10,7 +8,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-12-9/2018-12-30 |
+| Registration Phase | 2018-12-09/2018-12-30 |
 | Group Stage | 2019-01-11/2019-02-10 |
 | Round of 16 | 2019-02-15/2019-02-17 |
 | Quarterfinals | 2019-02-22/2019-02-24 |
@@ -41,10 +39,11 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/839284)
 - [Livestream](https://www.twitch.tv/osuanzt)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8)**
 
 ## Mappools
 
-Find all mappools on the [main spreadsheet][spreadsheet].
+Find all mappools on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8).
 
 ---
 
@@ -58,7 +57,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
-All individual match results can be found on the [main spreadsheet][spreadsheet].
+All individual match results can be found on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8).
 
 ---
 
