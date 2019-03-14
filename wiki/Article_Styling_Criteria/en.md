@@ -495,7 +495,7 @@ Images are automatically given captions if they fulfill these conditions:
 2. The image is not inside a heading.
 3. The image has title text.
 
-Captions are assumed via the title text. Image captions must be plain text without the. Images with captions are also centred with the image on the website.
+Captions are assumed via the title text must be in plain text. Images with captions are also centred with the image on the website.
 
 #### Max image width
 
@@ -506,6 +506,14 @@ The osu! wiki gives every image a max-width, being the width of the article body
 When annotating images, use *Exo 2 light*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
 
 Try to limit writing text in images, as it is difficult for translators (and other editors) to edit them.
+
+##### Translating annotated images
+
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps). For example:	
+
+- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)	
+- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)	
+- `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
 
 #### Screenshots of gameplay
 
