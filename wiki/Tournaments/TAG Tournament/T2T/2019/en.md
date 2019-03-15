@@ -1,12 +1,3 @@
----
-tags:
-- TAG2 Tournament
-- TAG2Tournament
-- T2T
-- T 2 T
----
-
-
 ## TAG2 Tournament
 
 ![T2T Logo](img/logo.png)
@@ -64,7 +55,7 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 
 
 --------------------------------
-
+<!--
 ## Groups
 
 *Groups will be determined after the qualifer stage has taken place.*
@@ -81,14 +72,13 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 ## Match Results
 
 *Match Results will be updated as they are finished*
-<!--
+
 ### Grand Finals
 ### Finals - Week 1
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
 ### Group Stage
--->
 ### Qualifiers
 
 *The Qualifier placements will be updated after they have taken place.*
@@ -118,7 +108,6 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 -->
 
 <!-- Tiebreaker beatmap must be bolded -->
-
 --------------------------------
 
 ## Participants
@@ -160,7 +149,7 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 |**Souljaboii** | ![][flag_GB] [coulrulner1](https://osu.ppy.sh/users/13318606), ![][flag_GB] [Quantifiable](https://osu.ppy.sh/users/7102193) |
 |**흠** | ![][flag_KR] [Mya](https://osu.ppy.sh/users/2868952), ![][flag_KR] [Gambler](https://osu.ppy.sh/users/11415230), ![][flag_KR] [Ansol](https://osu.ppy.sh/users/7302146) |
 |**Birkano** | ![][flag_AR] [Maariianoo](https://osu.ppy.sh/users/6371395), ![][flag_AR] [-Birke-](https://osu.ppy.sh/users/3265658) |
-|**Miss Generators** | ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215), ![][flag_NL] [PatyYe-](https://osu.ppy.sh/users/3929829), ![][flag_NL] [banaankaizer](https://osu.ppy.sh/users/6751184) |
+|**Miss Generators** | ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215), ![][flag_NL] [PatyYe-](https://osu.ppy.sh/users/3929829), ![][flag_BG] [[Ted]](https://osu.ppy.sh/users/9717848) |
 |**invandrarna** | ![][flag_SE] [zhichu](https://osu.ppy.sh/users/4766629), ![][flag_DE] [silverin0](https://osu.ppy.sh/users/9099735), ![][flag_SE] [Lord Grim](https://osu.ppy.sh/users/6788374) |
 |**Coventry Convent** | ![][flag_GB] [Elit3](https://osu.ppy.sh/users/10086758), ![][flag_GB] [Rumon](https://osu.ppy.sh/users/4000985) |
 |**Les meilleurs acc de France** | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
@@ -169,6 +158,15 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 |**Wapitulas** | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490), ![][flag_AR] [Arua](https://osu.ppy.sh/users/5038837), ![][flag_AR] [Nykke](https://osu.ppy.sh/users/8181950) |
 |**Haven't you heard? we are the twins** | ![][flag_CA] [Bowlcut](https://osu.ppy.sh/users/4118327), ![][flag_KR] [silverlightcs](https://osu.ppy.sh/users/9862564) |
 |**Moe Watchers** | ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705), ![][flag_CA] [trevrashar](https://osu.ppy.sh/users/7031287), ![][flag_GB] [Dosh](https://osu.ppy.sh/users/7689172) |
+|**yousangumin** | ![][flag_KR] [ftg](https://osu.ppy.sh/users/2128311), ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282), ![][flag_KR] [239](https://osu.ppy.sh/users/3261991) |
+|**dont know** | ![][flag_AR] [-Urushihara-](https://osu.ppy.sh/users/6169195), ![][flag_BR] [Astris](https://osu.ppy.sh/users/6173856) |
+|**yooo whats goodie eh** | ![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401) |
+|**succducc** | ![][flag_DE] [Coco senpai](https://osu.ppy.sh/users/2386274), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_DE] [Gracidea](https://osu.ppy.sh/users/6254279) |
+|**short breads** | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_US] [theking1212](https://osu.ppy.sh/users/3205313), ![][flag_US] [ikyy](https://osu.ppy.sh/users/10292384) |
+|**FutaLovers** | ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_CO] [NecropedoSS](https://osu.ppy.sh/users/6273616), ![][flag_CO] [cahsun](https://osu.ppy.sh/users/6043627) |
+|**egg** | ![][flag_US] [Rysenen](https://osu.ppy.sh/users/8530170), ![][flag_CA] [FluffyEcho](https://osu.ppy.sh/users/8543980), ![][flag_US] [biscuithime](https://osu.ppy.sh/users/6567833) |
+|**Furfags OwO** | ![][flag_ES] [RivenXLukario](https://osu.ppy.sh/users/9582556), ![][flag_DE] [Umbre](https://osu.ppy.sh/users/2766034), ![][flag_BR] [Lucas Zubs](https://osu.ppy.sh/users/4253615) |
+|**le Pepega** | ![][flag_RU] [HullPerse](https://osu.ppy.sh/users/9469381), ![][flag_NO] [Jonbaron](https://osu.ppy.sh/users/4360885), ![][flag_SE] [momo015](https://osu.ppy.sh/users/5825443) |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
@@ -196,3 +194,6 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 [flag_VN]: /wiki/shared/flag/VN.gif
 [flag_GR]: /wiki/shared/flag/GR.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_BG]: /wiki/shared/flag/BG.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
