@@ -144,10 +144,9 @@ Map pools will be revealed one week in advance of each stage.
 | Grand Finals | AE, P, Q |
 
 7. The **Winning conditions** for each stage will be:
-   - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
+  - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+  - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+  - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 
@@ -166,10 +165,9 @@ Map pools will be revealed one week in advance of each stage.
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals & Grand Finals use the same mappool.
+1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
-3. Each mappool consists of 14 maps in total with the exception of the Finals pool which will have 16 maps in total.
+3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, SemiFinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
@@ -177,9 +175,9 @@ Map pools will be revealed one week in advance of each stage.
    - When playing a FreeMod map, at least 1 player of each team must have at least one mode activated.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mode activated.
-9. The size of the NoMod bracket will be 5 in all stages with the exception of the Finals which will have 6 maps.
+9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
-11. The size of the FreeMod brackets will be 2 in all stages with the exception of the Finals which will have 3 maps.
+11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling Instructions
 
