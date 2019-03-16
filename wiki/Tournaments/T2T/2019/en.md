@@ -120,13 +120,11 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 |**KATIUSZA** | ![][flag_RU] [_NotSoFast_](https://osu.ppy.sh/users/4663676), ![][flag_PL] [Zabijaka](https://osu.ppy.sh/users/3526708), ![][flag_PL] [ZBUKU](https://osu.ppy.sh/users/3669758) |
 |**Kid Bengala** | ![][flag_BR] [Cosseno](https://osu.ppy.sh/users/3170543), ![][flag_BR] [muuu](https://osu.ppy.sh/users/12503292) |
 |**https://puu.sh/CML6I/8e0e9c5219.png** | ![][flag_DE] [Veth](https://osu.ppy.sh/users/1715441), ![][flag_DE] [okinamo](https://osu.ppy.sh/users/3765989), ![][flag_DE] [Knalli](https://osu.ppy.sh/users/8147403) |
-|**dibilushki** | ![][flag_RU] [Anatoliy1337](https://osu.ppy.sh/users/7839596), ![][flag_RU] [icant alternate](https://osu.ppy.sh/users/7781914) |
 |**Pats** | ![][flag_PL] [Hedzio](https://osu.ppy.sh/users/8028264), ![][flag_PL] [Reazen](https://osu.ppy.sh/users/3053670), ![][flag_PL] [Pawlyk here](https://osu.ppy.sh/users/2095976) |
 |**Fat sack of cat crap** | ![][flag_NZ] [HashBrownDoyler](https://osu.ppy.sh/users/5975025), ![][flag_US] [asneakyfatcat](https://osu.ppy.sh/users/5458499) |
 |**big gem slappers** | ![][flag_LT] [shineroo](https://osu.ppy.sh/users/4360718), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925) |
 |**A League of Our Own** | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_US] [_windex](https://osu.ppy.sh/users/7107711) |
 |**Order of the Black Knights** | ![][flag_RU] [Giass](https://osu.ppy.sh/users/8617208), ![][flag_RU] [Zelepupka](https://osu.ppy.sh/users/10324595), ![][flag_RU] [Liswiera](https://osu.ppy.sh/users/9356954) |
-|**La ChocolaTeam** | ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [MatocheLeChat](https://osu.ppy.sh/users/9910665) |
 |**REAL LoliL0ver** | ![][flag_HK] [wtg1245](https://osu.ppy.sh/users/9991663), ![][flag_HK] [FvckMyLife0105](https://osu.ppy.sh/users/12464107) |
 |**Flyg slem** | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_SE] [FlySlime](https://osu.ppy.sh/users/3876402) |
 |**NumZyo009** | ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060), ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_US] [Ninjaadrian009](https://osu.ppy.sh/users/7017724) |
@@ -137,7 +135,6 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 |**JMIH TEAM** | ![][flag_RU] [slivkigames1](https://osu.ppy.sh/users/11240921), ![][flag_RU] [HOMEPON](https://osu.ppy.sh/users/11978105), ![][flag_KZ] [d4rkymode](https://osu.ppy.sh/users/12743301) |
 |**deranker fan club** | ![][flag_CA] [trevrasher](https://osu.ppy.sh/users/3893420), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
 |**Thank You** | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496) |
-|**Boisson?** | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Arachmet](https://osu.ppy.sh/users/7617596) |
 |**idk** | ![][flag_PL] [pajwoj](https://osu.ppy.sh/users/4899393), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_LT] [PainSinger](https://osu.ppy.sh/users/697843) |
 |**sleepy squad** | ![][flag_CA] [PayneTrain](https://osu.ppy.sh/users/10275038), ![][flag_CA] [Saltystick](https://osu.ppy.sh/users/2165408) |
 |**HibikiLover** | ![][flag_HK] [[- Hibiki-]](https://osu.ppy.sh/users/5413624), ![][flag_HK] [[-Hibiki -]](https://osu.ppy.sh/users/9313951) |
