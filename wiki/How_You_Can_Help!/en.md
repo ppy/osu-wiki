@@ -55,7 +55,7 @@ osu! has a thriving community of technical and competitive people. They range fr
 Here are a few things you can do to participate:
 
 - Browse the [tournaments](/community/forums/55) forum. Tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
-- Check out what's going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
+- Check out what is going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
 - Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether it is bringing back dancing pippi, or just making something cool for osu!, anything is accepted.
 
