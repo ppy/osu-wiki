@@ -65,7 +65,7 @@ Started in 2017, the osu!lazer project is the current focus of the osu! team, al
 
 You can help make them even better, and make us closer to the future of osu! by helping on these areas:
 
-- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make them happen!
+- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
 
 ## Avoid being negative! Make people happy!
