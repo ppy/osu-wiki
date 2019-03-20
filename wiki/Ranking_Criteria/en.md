@@ -39,7 +39,7 @@ Glossary
 - **Umlauts**: `ü`, `ö`, `ä` and `ß`
 - **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
 - **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
-- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
+- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
 - **Character-by-character romanisation**: Each Chinese character must be Romanised as a capitalised word and separated with a space.
 
 ### Timing
