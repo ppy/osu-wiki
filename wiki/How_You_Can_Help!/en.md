@@ -10,11 +10,11 @@ Anyone can be a part of the community in their own way. Here are a few examples 
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. The wiki is always looking for more contributors to help keep the site up to date with fresh new knowledge, and to reach a wider audience via translations.
 
-For newcomers, you can read more about it in the [contributing guide](/wiki/osu!_wiki_Contribution_Guide).
+For newcomers, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
 
 ## Help keep osu! friendly and safe
 
-To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of all 25 channels (and more!) in the chat, and countless entries in the forums.
+To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of most channels in the chat, and countless entries in the forums.
 
 Fortunately, it is still easy for you to help out keeping everything safe, here are some things you can do to help:
 
@@ -23,7 +23,7 @@ Fortunately, it is still easy for you to help out keeping everything safe, here 
 
 ## Help other community members
 
-Lend someone a hand when they encounter an issue with the game! Whether its a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
+Lend someone a hand when they encounter an issue with the game! Whether it is a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
 
 You can begin with lending people a hand on the following mediums:
 
