@@ -1,6 +1,6 @@
 # osu! wiki Contribution Guide
 
-osu! wikiの改善に興味を持ってくださりありがとうございます! このクイックスタートガイドはGitHubを使って作業をしたことがない、もしくはosu! wikiの作業をしたことがない人のために作られました。 もしあなたにGitHubを使った経験があれば, このガイドを遠慮なくスキップして、通常のフィーチャーブランチ作業に則って、リポジトリの内容をアップデートしてください。
+osu! wikiの改善に興味を持ってくださりありがとうございます! このクイックスタートガイドはGitHubを使って作業をしたことがない、もしくはosu! wikiの作業をしたことがない人のために作られました。 もしあなたにGitHubを使った経験があれば、このガイドを遠慮なくスキップして、通常のフィーチャーブランチ作業に則って、リポジトリの内容をアップデートしてください。
 
 もし作業中に困ったことができたり、助けが必要になったりしたら、遠慮なく[osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` チャンネル)にメッセージを送ってください。
 
@@ -23,9 +23,9 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 ![](img/fork.jpg)
 
-3. もう一度`Fork`をクリックしてあなたのフォークされたリポジトリに進んでください。
+3. もう一度`Fork`をクリックしてあなたがフォークしたリポジトリに進んでください。
 
-4. 下の画像のように、あなたが`ppy/osu-wiki`リポジトリのフォークを作り、現在それを開いていることを示す表示がされているのを確認してください。
+4. 下の画像のように、`ppy/osu-wiki`リポジトリのフォークを作り、現在それを開いていることを確認してください。
 
 ![](img/forked.jpg)
 
@@ -35,7 +35,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 1. 自分の`osu-wiki`リポジトリのフォークを開いてください。
 
-2. ファイルリストの上に、あなたのブランチが`ppy:master`ブランチと比べて遅れている(behind)、進んでいる(ahead)、または同じ状態にある(even)かが表示されます。もし遅れたコミットと一緒に"behind"もしくは"ahead and behind"と表示されている場合、あなたのブランチは遅れています。
+2. ファイルリストの上に、あなたのブランチが`ppy:master`ブランチと比べて遅れている(behind)、進んでいる(ahead)、または同じ状態にある(even)かが表示されます。もし遅れたコミットと一緒に"behind"もしくは"ahead and behind"と表示されている場合、あなたのブランチは過去のバージョンです。
 
 ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
@@ -45,7 +45,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
 
-3. もしあなたが他の人によって変更されたファイルを変更する予定がない場合、これはそれほど大きな問題ではありません。
+3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
 4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!)を読んでください。
 
@@ -58,9 +58,9 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - オンラインで編集します。一人で編集をするのに適しています。
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - ローカルで編集します。これは複数人で編集するのに適しています。（特に画像やファイルを移動したり削除したりするのに適しています。）
 
-*ちなみに: 編集するのにこれらの方法しか使ってはいけないわけではありません。このガイドを短く簡潔にするために、ここでは他のツールについての討論を行いません。他にもGitHub Web InterfaceやGithub Desktopのような働きをするアプリケーションが存在します。*
+*ちなみに: 編集するのにこれらの方法しか使ってはいけないわけではありません。このガイドを短く簡潔にするために、ここでは他のツールについて多くは語りません。他にも上の２つのような働きをするアプリケーションが存在します。*
 
-**あなたが *GitHub Web Interface* か *GitHub Desktop*で作業を完了させた後で次のセクションへ続けてください。**
+** *GitHub Web Interface*や*GitHub Desktop*などで作業を完了させた後で次のセクションへ続けてください。**
 
 
 ## 最後に
@@ -69,7 +69,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 1. [`ppy/osu-wiki` レポジトリ](https://github.com/ppy/osu-wiki)を開いてください。
 
-2. もし早く作業が進んでいれば、黄色いバナーが表示されます。
+2. あなたの作業が早ければ、黄色いバナーが表示されます。
 
 ![](img/github-recent.jpg)
 
@@ -93,7 +93,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
   文章を翻訳した場合は、2文字の言語名をタイトルの前に入れてください。そして、タイトルはあなたが翻訳した文章の名前にして構いません。例えば、 `[JA] BBCode` は日本語で [BBCode article](/wiki/BBCode) を翻訳したことを示すことができます。
 
-9. 説明欄にあなたが変更したことの解説を書いてください。あなたはプルリクエストについて関連することを書くべきです。例えば、進捗状況や、レビュワーに知っておいてほしいことなどです。また、説明欄に"resolves #1" か "closes #1"と書くことでマージされたときにイシューを同時に閉じることができます。(詳しくは [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) を見てください。).
+9. 説明欄にあなたが変更したことの解説を書いてください。あなたはプルリクエストについて関連することを書くべきです。例えば、進捗状況や、レビュワーに知っておいてほしいことなどです。また、説明欄に"resolves #1" か "closes #1"と書くことでマージされたときにIssueを同時に閉じることができます。(詳しくは [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) を見てください。).
 
 10. 準備ができれば、`Create pull request`を押してください。
 
@@ -103,8 +103,8 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 ### レビュー
 
-プルリクエストを一度作成すると、他のosu! wikiの作成者が、あなたのプルリクエストにレビューをしてくれるかもしれません。o help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu! wiki editors in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) or in the GitHub comments.
+プルリクエストを一度作成すると、他のosu! wikiの作成者が、あなたのプルリクエストをより良いものにするためにレビューをしてくれるかもしれません。 **あなたはそれらのレビューに協力的でなければなりません。** さもないと、あなたのプルリクエストは取り消されるかもしれません! もしあなたのプルリクエストを誰かにみてもらいたければ、[osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` チャンネル) やGithubのコメントで他のosu! wikiの編集者に聞いてみるといいかもしれません。
 
 ### マージ
 
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+あなたの変更をosu! wikiに実際に反映させるためには、あなたのプルリクエストはマージという作業を経る必要があります。あなたのプルリクエストが、レビューされ、承認(approved)されると、Githubのコメント欄や[osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` チャンネル)でマージしてもらうように尋ねることができます。無事にマージされれば、あなたの変更は５時間ほどで実際にosu! wikiに反映されます。
