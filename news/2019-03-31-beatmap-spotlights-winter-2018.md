@@ -299,7 +299,7 @@ In this way, this mapset deserves a place in the spotlight and we sincerely look
 
 ---
 
-The spreadsheet for this season's selection is available [here](https://goo.gl/GJDsFn). Feel free to check it out!
+The spreadsheet for this season's selection is available [here](https://goo.gl/bQf6oU). Feel free to check it out!
 
 We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. We have a lot of plans for the next year! If you want to join to us bringing new stuff to life, you can hop into our [Discord server](http://discord.gg/Z28ZtUf) or apply as a member [here](https://osu.spotlights.team).
 
