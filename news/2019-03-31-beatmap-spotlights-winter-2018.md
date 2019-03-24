@@ -209,6 +209,8 @@ This beatmap by [Alchyr](https://osu.ppy.sh/users/4993032) is completed as a sin
 
 After a long break, you can see a very impressive part making use of tremendous density changes. In the end, the story finally finishes with the perfect part summarizing all its concepts. The great attractive thing about this story is that it is not boring but inversely enjoyable despite repeating the same pattern, of course because of the perfection of mapping.
 
+まさしく，一つの物語として成す譜面です．まず，物語は静寂たる音色とそれに合った静けさに始まります．束の間，まるで大音符とスピナーの嵐かのように劇的に物語は変化します．大音符の視認性は拍車をかかけます．そして嵐は1/6の矢へと移り変わり，逆手の極みを篤と見せつけてくるのです．長い静寂を挟み，強烈な密度変化を取り入れた，凄まじく印象的な場面が広がると，最後はこれまでのすべてのコンセプトを合わせた場面によって物語は終焉を迎えます．同じ配置を繰り返しているようで，つまらぬどころか面白い，それはもちろん，譜面制作の極致に至るこの譜面の持つ趣のまさに一つと言えましょう．
+
 ## <a name="catch" id="catch"></a>osu!catch
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/catch/good-time.jpg)](https://osu.ppy.sh/beatmapsets/815390)
@@ -223,9 +225,9 @@ In addition, [Ascendance](https://osu.ppy.sh/users/2931883)’s difficulty is a 
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/catch/brionac.jpg)](https://osu.ppy.sh/beatmapsets/734296)
 
-soon:tm:
+As one of the top players in osu!catch, [Rocma](https://osu.ppy.sh/users/566276) has been trying to map technical maps for top players for long time. Although Brionic is his first ranked map, the quality of the map proves that he is also a good mapper with the ability to create a whole set. The top diff may have a lower star rating comparing to other maps, but the anti-flow 1/4 streams are still pretty hard to deal with even if you are a top player. 
 
-[Rocma](https://osu.ppy.sh/users/566276)
+Besides the patterns, Rocma also showcases his outstanding hitsounding skills by using several hitsounding sets. The map is for all players from catch newbies to masters, try to find out your ability while enjoying the set!
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/catch/egoism.jpg)](https://osu.ppy.sh/beatmapsets/717720)
 
