@@ -63,7 +63,7 @@ PantyDev's map of Culture Code's "Fight For You" remix takes this catchy dubstep
 210 BPM, 3:26 | 6.73★  
 *written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-Who doesn't love some t-pazolite? Voli's "t+pazolite with Kabocha - Elder Dragon Legend" is definitely a map not to be overlooked. With the map exceeding 100 favorites, you know it's gonna be good and worth a play! Its star rating reaches 6.7 and it consists of fast 210 BPM jumps accompanied by 210 BPM streams, so this is a true test of your mechanical skill. Will you be able to take on the beast that is this map?
+Who doesn't love some t+pazolite? Voli's "t+pazolite with Kabocha - Elder Dragon Legend" is definitely a map not to be overlooked. With the map exceeding 100 favorites, you know it's gonna be good and worth a play! Its star rating reaches 6.7 and it consists of fast 210 BPM jumps accompanied by 210 BPM streams, so this is a true test of your mechanical skill. Will you be able to take on the beast that is this map?
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/arphimigon-collection-three.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -79,7 +79,7 @@ Arphimigon's collection of maps here includes songs like Little Einsteins, Poins
 240 BPM, 4:08 | 8.12★  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-This high-difficulty 240 BPM map will surely test your aiming skills! It's made by Sakura no Hana, and it's a hard one. Although the difficulty is 8.13 stars, it is quite comfortable most of the time. At some times it gets quite spaced with the jumps while maintaining a good flow. The only thing left to do is practice your aim and tap away! Rocking in at around 100 favorites, this map is valued by the community. Just don't play this in the middle of the night! You might wake somebody up!
+This high-difficulty 240 BPM map will surely test your aiming skills! It's made by Sakura no Hana, and it's a hard one. Although the difficulty is 8.12 stars, it is quite comfortable most of the time. At some times it gets quite spaced with the jumps while maintaining a good flow. The only thing left to do is practice your aim and tap away! Rocking in at around 100 favorites, this map is valued by the community. Just don't play this in the middle of the night! You might wake somebody up!
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/pump.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -117,7 +117,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 175 BPM, 2:14 | 5.11★ – 7.84★  
 *written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Seventh Haven stands out for me as a mapper due to how a group of six different mappers can have a completely different view of mapping and make difficulties that really feel like they have nothing to do with each other when it comes to patterning decisions. This is truly a gem that shows the craftsmanship of these great Japanese mappers.
+SEVENTH HAVEN stands out for me as a mapper due to how a group of six different mappers can have a completely different view of mapping and make difficulties that really feel like they have nothing to do with each other when it comes to patterning decisions. This is truly a gem that shows the craftsmanship of these great Japanese mappers.
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/taiko/shakunetsu-candle-master-tomoshii.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -133,7 +133,7 @@ Following Moji-Code, we have another map by KinomiCandy. If you're a frequent mu
 81 BPM, 5:05 | 8.47★  
 *written by [iceOC](https://osu.ppy.sh/users/5482401)*
 
-This year's osu!taiko World Cup season is coming soon. This week, I decided to pick the Tiebreaker of last year's TWC. This excellent map offers many challenges—difficult patterns, complex 1/6 and 1/8, streams, finishers and many gimmicks—all packed within five minutes, Keeping the player entertained.
+This year's osu!taiko World Cup season is coming soon. This week, I decided to pick the Tiebreaker of last year's TWC. This excellent map offers many challenges—difficult patterns, complex 1/6 and 1/8, streams, finishers and many gimmicks—all packed within five minutes, keeping the player entertained.
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/taiko/lie.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -141,7 +141,7 @@ This year's osu!taiko World Cup season is coming soon. This week, I decided to p
 95 BPM, 2:26 | 1.09★ – 6.04★  
 *written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This excellent map, created by komasy, is so good, It almost blows away their previous maps—yes, like they were nothing. The art of "elegant spacing" is something so outstanding that mappers, including komasy, may never be able to replicate it. This map offers such a free, rich experience—I highly recommend giving this map a try!
+Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This excellent map, created by komasy, is so good. It almost blows away their previous maps—yes, like they were nothing. The art of "elegant spacing" is something so outstanding that mappers, including komasy, may never be able to replicate it. This map offers such a free, rich experience—I highly recommend giving this map a try!
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
@@ -203,7 +203,7 @@ The main point is this: the chart overall is very detailed and dynamic, and the 
 [DJ Sharpnel - Back to the gate](https://osu.ppy.sh/beatmapsets/305124#mania) by [pporse](https://osu.ppy.sh/users/4991434) and [bbu2](https://osu.ppy.sh/users/4307930)  
 191 BPM, 5:19 | 7K 6.12★
 
-Primarily known for its appearance in the Semifinals in the osu!mania 7K World Cup 2016 and as a major stepping stone to chordstreaming and stamina practice, Back to the Gate is one of pporse's more well known and loved map overall.
+Primarily known for its appearance in the Semifinals in the osu!mania 7K World Cup 2016 and as a major stepping stone to chordstreaming and stamina practice, Back to the gate is one of pporse's more well known and loved map overall.
 
 Coming in at 190.65 BPM, the map comes in with relatively simple chordstreaming which mostly consists of triples. The chart occasionally spices things up with pattern repetition on intentional chordtrill usages and some comfy bursting. In contrast to conventional BMS style mapping approaches, this chart also present some LN usages and a general lack of brackets up until the final section. While the song clocks in at 5 minutes, some breaks are provided. Overall, this map is a great map to pick up for anyone around the Dan 5 - 6 skill range.
 
@@ -212,7 +212,7 @@ Coming in at 190.65 BPM, the map comes in with relatively simple chordstreaming 
 [3L - Endless night](https://osu.ppy.sh/beatmapsets/191164#mania) by [Fiea](https://osu.ppy.sh/users/3183277)  
 148 BPM, 4:49 | 7K 6.44★
 
-We have a new face for Project Loved and that would be Fiea and their map, Endless Night. Filling in as the LN pick for this round, this map primarily has the O2Jam approach to charting. At 148 BPM, the chart gives a lot of visual flair with swapping between 1/4 and 1/8 LN lengths in its generally brackety chordstreams. The chart also presents some degree of short term  inversions and a very generous amount of shields and reverse shields. What sets this slightly apart from general O2Jam mapping conventions is that the difficulty throughout the chart is generally very consistent. The OD 5 is also something to watch out for, in contrast to the conventional usage of OD 0.
+We have a new face for Project Loved and that would be Fiea and their map, Endless night. Filling in as the LN pick for this round, this map primarily has the O2Jam approach to charting. At 148 BPM, the chart gives a lot of visual flair with swapping between 1/4 and 1/8 LN lengths in its generally brackety chordstreams. The chart also presents some degree of short term  inversions and a very generous amount of shields and reverse shields. What sets this slightly apart from general O2Jam mapping conventions is that the difficulty throughout the chart is generally very consistent. The OD 5 is also something to watch out for, in contrast to the conventional usage of OD 0.
 
 ---
 
