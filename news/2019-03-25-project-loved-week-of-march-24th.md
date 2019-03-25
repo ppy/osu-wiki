@@ -4,7 +4,7 @@ title: "Project Loved: Week of March 24th"
 date: 2019-03-25 01:00:00 +0000
 ---
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Give all of these maps a try and cast your vote for whether or not they should enter the Loved beatmap category!
+[Project Loved](https://osu.ppy.sh/community/forums/120) returns for another round! Give all of these maps a try and cast your vote for whether or not they should enter the Loved beatmap category!
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
