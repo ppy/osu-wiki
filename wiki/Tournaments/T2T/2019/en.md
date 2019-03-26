@@ -1,8 +1,8 @@
-## TAG2 Tournament
+# TAG2 Tournament 2019
 
-![T2T Logo](/wiki/Tournaments/T2T/2019/img/logo.png)
+![T2T Logo](img/logo.png)
 
-The **TAG2 Tournament** (***T2T***) is an international Tag Team VS. tournament hosted by [Mara](https://osu.ppy.sh/users/194294) and [Malteser](https://osu.ppy.sh/users/5218178). It is the 3rd installment of the TAG Tournament series. The tournament follows on from [Tayo](https://osu.ppy.sh/users/8910355)'s 2 previous TAG Tournaments [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136). 
+The **TAG2 Tournament 2019** (***T2T 2019***) is an international Tag Team VS. tournament hosted by [Mara](https://osu.ppy.sh/users/194294) and [Malteser](https://osu.ppy.sh/users/5218178). It is the 3rd installment of the TAG Tournament series. The tournament follows on from [Tayo](https://osu.ppy.sh/users/8910355)'s 2 previous TAG Tournaments [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Prizes
 
@@ -12,9 +12,7 @@ The **TAG2 Tournament** (***T2T***) is an international Tag Team VS. tournament 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter (per player) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter (per player) |
 
---------------------------------
-
-## Staff
+## Organisation
 
 The TAG2 Tournament 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
@@ -27,23 +25,6 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 | Spreadsheets | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Graphics | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 
-----------------------------------
-
-## Tournament Schedule
-
-| Event | Date |
-| --: | :-- |
-| Registration Phase | 2019-02-15 / 2019-03-15 |
-| Qualifiers | 2019-03-30 / 2019-03-31 |
-| Group Stage | 2019-04-06 / 2019-04-07 |
-| Round of 16 | 2019-04-13 / 2019-04-14 |
-| Quarterfinals | 2019-04-20 / 2019-04-21 |
-| Semifinals | 2019-04-27 / 2019-04-28 |
-| Finals | 2019-05-04 / 2019-05-05 |
-| Grand Finals | 2019-05-11 / 2019-05-12 |
-
---------------------------------
-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/869513)
@@ -51,59 +32,12 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 - [TAG Club Discord](https://discord.gg/VKt5kGa)
 - [TAG Club Twitter](https://twitter.com/TAGClub_osu)
 - [Challonge](https://challonge.com/T2T_2019)
-- **[Spreadsheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/13f9zVN8n1NjBqwK7C23W5iOW-7Y2d9np9Di1WnlUfjg/edit#gid=1150595067)**
 
-<!--
---------------------------------
-## Groups
-
-*Groups will be determined after the qualifer stage has taken place.*
-
-| Seed | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
-| --: | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Top Seed | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| High Seed | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| Low Seed | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| No Seed | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-
---------------------------------
-
-## Match Results
-
-*Match Results will be updated as they are finished*
-
-### Grand Finals
-### Finals - Week 1
-### Semifinals
-### Quarterfinals
-### Round of 16
-### Group Stage
-### Qualifiers
-
-*The Qualifier placements will be updated after they have taken place.*
-
-| Placement | Team Name | Average Accuracy |
-| --: | :-: | :-- |
-
---------------------------------
--->
 ## Mappools
 
-*Mappools will be added as the tournament progresses*
-<!--### Finals
-
-**[Download the mappack here! (SIZE)](LINK)**
-
-- ModType
-  - Beatmap
-- Tiebreaker
-  - **Beatmap**
-
-### Semifinals
-### Quarterfinals
-### Round of 16
 ### Group Stage
--->
+
 
 ### Qualifiers
 **[Download the mappack here! (32.7MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
@@ -117,8 +51,7 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 - DoubleTime
   - [Megpoid GUMI - Nisemono no Uta \[Hard\] \(raririn\)](https://osu.ppy.sh/beatmapsets/45843#osu/142989)
 
-<!-- Tiebreaker beatmap must be bolded -->
---------------------------------
+---
 
 ## Participants
 
