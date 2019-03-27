@@ -52,11 +52,11 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 
 If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can talk about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
-#### Metadata
+### Metadata
 
 *Notice: Metadata must be placed at the very top of the file; otherwise, it will be parsed as plain text.*
 
-##### Outdated articles
+#### Outdated articles
 
 *Note to translators: After updating an article, remove the `outdated` mark.*
 
@@ -68,7 +68,7 @@ outdated: true
 ---
 ```
 
-##### Tagging articles
+#### Tagging articles
 
 *Note: You should only need to include words that are not found in the article.*
 
@@ -83,7 +83,7 @@ tags:
 ---
 ```
 
-##### Outdated and tagged articles
+#### Outdated and tagged articles
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
