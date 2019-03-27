@@ -4,7 +4,7 @@
 
 - Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) to the osu! Alumni (2019-01-31)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Trynna](https://osu.ppy.sh/users/2652951) - resignation (2019-01-04)
 - [Sandalphon](https://osu.ppy.sh/users/2633753) - resignation (2019-01-13)
@@ -17,12 +17,12 @@
 
 - Removed [Yuii-](https://osu.ppy.sh/users/2935923) from the Quality Assurance Team (2019-02-16)
 
-### BN Removals
+### Beatmap Nominator removals
 
 - Removed [Garden](https://osu.ppy.sh/users/2849992) - resignation (2019-02-03)
 - Removed [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (2019-02-05)
 
-### BN Additions
+### Beatmap Nominator additions
 
 - [Nevo](https://osu.ppy.sh/users/7451883) (2019-02-16)
 - [Hanasaka Yui](https://osu.ppy.sh/users/6443117) (2019-02-16)
