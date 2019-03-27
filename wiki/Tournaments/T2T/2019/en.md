@@ -4,13 +4,26 @@
 
 The **TAG2 Tournament 2019** (***T2T 2019***) is an international Tag Team VS. tournament hosted by [Mara](https://osu.ppy.sh/users/194294) and [Malteser](https://osu.ppy.sh/users/5218178). It is the 3rd installment of the TAG Tournament series. The tournament follows on from [Tayo](https://osu.ppy.sh/users/8910355)'s 2 previous TAG Tournaments [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
+## Tournament Schedule
+
+| Event | Timestamp |
+| --: | :-- |
+| Registration Phase | 2019-02-15/2019-03-15 |
+| Qualifiers | 2019-03-30/2019-03-31 |
+| Group Stage | 2019-04-06/2019-04-07 |
+| Round of 16 | 2019-04-13/2019-04-14 |
+| Quarterfinals | 2019-04-20/2019-04-21 |
+| Semifinals | 2019-04-27/2019-04-28 |
+| Finals | 2019-05-04/2019-05-05 |
+| Grand Finals | 2019-05-11/2019-05-12 |
+
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter + badge (per player) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter (per player) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter (per player) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter, profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -36,11 +49,10 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 
 ## Mappools
 
-### Group Stage
-
-
 ### Qualifiers
+
 **[Download the mappack here! (32.7MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
+
 - NoMod
   - [Railgun Roulette (VIP) \[LowBot's Insane\] \(NielPerry\)](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)
   - [xi - Aragami \[Another\] \(Sayaka-\)](https://osu.ppy.sh/beatmapsets/225377#osu/529358)
