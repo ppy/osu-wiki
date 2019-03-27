@@ -509,10 +509,10 @@ Try to limit writing text in images, as it is difficult for translators (and oth
 
 ##### Translating annotated images
 
-When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps). For example:	
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps). For example:
 
-- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)	
-- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)	
+- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
+- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
 - `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
 
 #### Screenshots of gameplay
