@@ -8,7 +8,7 @@ Meanwhile the wind blows warmer and the sun feels nice, we still have some beatm
 
 ![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/header.jpg)
 
-The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=259). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Winter 2018 Spotlights rankings will end on the 15th of June, 2019.**
+The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=259). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Winter 2018 Spotlights rankings will end on the 15th of June, 2019.**
 
 ## Autumn Spotlights results
 
@@ -64,7 +64,7 @@ Each map is in itself tied together gracefully enriching the song taking it to g
 
 [Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami [Orchestra Ver.] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
 
-Don't forget to look at the wonderous storyboard made by [LowAccuracySS](https://osu.ppy.sh/users/7306763) & [Darky1](https://osu.ppy.sh/users/3372928)!
+Don't forget to look at the wondrous storyboard made by [LowAccuracySS](https://osu.ppy.sh/users/7306763) & [Darky1](https://osu.ppy.sh/users/3372928)!
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/bohemian.jpg)](https://osu.ppy.sh/beatmapsets/912844)
 
@@ -94,7 +94,7 @@ Even though hard, this map is also subtle. Combining clever mapping decisions wo
 
 Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [ScubDomino](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through ScubDomino's [Adventure] difficulty. 
 
-The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these contraints in a magnificent climax rich with sliderstreams and velocity changes that slowly reverts back to its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
+The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes that slowly reverts back to its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/suki-no-skill.jpg)](https://osu.ppy.sh/beatmapsets/740351)
 
@@ -169,7 +169,7 @@ All in all, for the sheer capacity of interpretation, the outstanding musical ea
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/taiko/give-it-up.jpg)](https://osu.ppy.sh/beatmapsets/618352)
 
-Britland makes the spotlight this season, as [Grimbow](https://osu.ppy.sh/users/1387762) proudly repesents them with his map of a remix of Knife Party's "Give It Up." While the song shoud poise some headbanging from each and every player, the map offers an experience that expert-level players will come to enjoy no matter how much they play it!
+Britland makes the spotlight this season, as [Grimbow](https://osu.ppy.sh/users/1387762) proudly represents them with his map of a remix of Knife Party's "Give It Up." While the song should poise some headbanging from each and every player, the map offers an experience that expert-level players will come to enjoy no matter how much they play it!
 
 Featuring some stunning and visually pleasing scroll speed changes from [Nofool](https://osu.ppy.sh/users/672430) and [Lno](https://osu.ppy.sh/users/1900787), this map is an improvisational masterpiece, shifting from 1/4 based rhythms to headbanging 1/3 in the kiais. Along with maintaining a consistent flow and consistency across each and every section of the map, Grimbow even manages to sprinkle some 1/8 and 1/6 patterns in the song to really bring out the WUBWUB of the song.
 
@@ -197,11 +197,11 @@ There are some mappers that don't aim a lot of their content to the ranked secti
 
 This map is absolutely worth of being called official content, since it includes high effort mapping skills such as amazing control of contrast between sections, climatic tension, advanced slider velocity changes and hitsounding, the latter being absent of most osu!taiko beatmaps.
 
-Impulse is a dreamy journey through a futuristic utopia, with calm, high spaced notes falling into interesting drum beats, playing a lot with rhythm variance and clever usage of drumrolls, beatifully executed along with synth hitsounded big note ornaments.
+Impulse is a dreamy journey through a futuristic utopia, with calm, high spaced notes falling into interesting drum beats, playing a lot with rhythm variance and clever usage of drumrolls, beautifully executed along with synth hitsounded big note ornaments.
 
 1/3? 1/4? 1/6? 1/8? This map features them all! As we go deeper into this atmosphere of textures, we find ourselves falling progressively into a more difficult, technical style of mapping: The track goes on, but it doesn't get any boring, it just gets better and better...
 
-Saying any more about this map could be considered an spoiler, so how about you give it a try? Trust us, it won't dissapoint you!
+Saying any more about this map could be considered an spoiler, so how about you give it a try? Trust us, it won't disappoint you!
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/taiko/epimerization.jpg)](https://osu.ppy.sh/beatmapsets/754062)
 
@@ -225,7 +225,7 @@ In addition, [Ascendance](https://osu.ppy.sh/users/2931883)’s difficulty is a 
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/catch/brionac.jpg)](https://osu.ppy.sh/beatmapsets/734296)
 
-As one of the top players in osu!catch, [Rocma](https://osu.ppy.sh/users/566276) has been trying to map technical maps for top players for long time. Although Brionic is his first ranked map, the quality of the map proves that he is also a good mapper with the ability to create a whole set. The top diff may have a lower star rating comparing to other maps, but the anti-flow 1/4 streams are still pretty hard to deal with even if you are a top player. 
+As one of the top players in osu!catch, [Rocma](https://osu.ppy.sh/users/566276) has been trying to map technical maps for top players for long time. Although Brionac is his first ranked map, the quality of the map proves that he is also a good mapper with the ability to create a whole set. The top diff may have a lower star rating comparing to other maps, but the anti-flow 1/4 streams are still pretty hard to deal with even if you are a top player. 
 
 Besides the patterns, Rocma also showcases his outstanding hitsounding skills by using several hitsounding sets. The map is for all players from catch newbies to masters, try to find out your ability while enjoying the set!
 
