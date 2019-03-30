@@ -46,6 +46,8 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/843645)
 - [Livestream](https://www.twitch.tv/osuriverside)
 - [osu!riverside Discord server](https://discord.gg/gsD9JUB)
+- [osu! Challonge bracket](https://challonge.com/bp0500aa)
+- [osu!mania Challonge bracket](https://challonge.com/qfawchnw)
 
 ## Participants
 
