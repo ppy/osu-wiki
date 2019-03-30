@@ -9,7 +9,7 @@ tags:
 
 # Most Amazing LAN Ever
 
-<!-- ![MALE Logo](img/logo.png) -->
+![MALE logo](img/logo.png)
 
 The **Most Amazing LAN Ever** (***MALE***) was an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) and ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614). It took place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
@@ -29,7 +29,7 @@ All prizes were awarded to both the osu! and osu!mania winners.
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Aorus M3 mouse |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | AMP500 mousepad |
 
-![](img/badge-osu.png) ![](img/badge-mania.png)
+![MALE osu! profile badge](img/badge-osu.png) ![MALE osu!mania profile badge](img/badge-mania.png)
 
 ## Organisation
 
