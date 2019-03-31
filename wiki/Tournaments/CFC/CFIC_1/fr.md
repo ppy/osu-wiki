@@ -19,7 +19,7 @@ La **Catch French Intermediate Cup** (***CFIC***) est un tournoi 1v1 français i
 | Quarts-de-finale | 2019-03-09/2019-03-10 |
 | Demi-finales | 2019-03-16/2019-03-18 |
 | Finales | 2019-03-23/2019-03-24 |
-| Grandes Finales | 2019-03-30 |
+| Grandes Finales | 2019-03-31 |
 
 ## Récompenses
 
@@ -74,16 +74,15 @@ La Catch French Intermediate Cup est gérée par différents membres de la commu
 
 -----------------------
 
-## Planning des matches: Grandes Finales
+## Podium
 
-### Samedi, 30 Mars 2019
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Realmas | ![][flag_FR] | ![][flag_FR] | Yruama | **21:30** |
-| #2¹ | Yruama | ![][flag_FR] | ![][flag_FR] | Realmas |  |
-
-¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
+| Classement | Joueur |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 -----------------------
 
@@ -224,6 +223,12 @@ La Catch French Intermediate Cup est gérée par différents membres de la commu
 ------------------------------------------------------------------------
 
 ## Résultats des matches
+
+### Grandes Finales
+
+| Samedi, 2019-03-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
 ### Finales
 

@@ -7,7 +7,7 @@ tags:
 
 ![CFIC Logo](img/logo.png)
 
-The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It is the first installment and a new branch of the Catch French Cup.
+The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first installment and a new branch of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -19,7 +19,7 @@ The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one
 | Quarterfinals | 2019-03-09/2019-03-10 |
 | Semifinals | 2019-03-16/2019-03-18 |
 | Finals | 2019-03-23/2019-03-24 |
-| Grand Finals | 2019-03-30 |
+| Grand Finals | 2019-03-31 |
 
 ## Prizes
 
@@ -31,7 +31,7 @@ The **Catch French Intermediate Cup** (***CFIC***) is an intermediate one-on-one
 
 ## Organisation
 
-The Catch French Intermediate Cup is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch French Intermediate Cup was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -74,16 +74,15 @@ The Catch French Intermediate Cup is run by various community members by distrib
 
 -----------------------
 
-## Match Schedules: Grand Finals
+## Podium
 
-### Saturday, 30 March 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC+1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Realmas | ![][flag_FR] | ![][flag_FR] | Yruama | **21:30** |
-| #2¹ | Yruama | ![][flag_FR] | ![][flag_FR] | Realmas |  |
-
-¹ Match will take place right after Match #1 and if Player B wins Match #1
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 -----------------------
 
@@ -224,6 +223,12 @@ The Catch French Intermediate Cup is run by various community members by distrib
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Sunday, 2019-03-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
 ### Finals
 
