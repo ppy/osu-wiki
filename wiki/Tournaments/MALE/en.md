@@ -56,45 +56,43 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - ![][flag_US] [andrew22r](https://osu.ppy.sh/users/7941164)
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
-- ![][flag_US] [DetectiveBleh](https://osu.ppy.sh/users/5159239)
 - ![][flag_US] [GiraffeMidget](https://osu.ppy.sh/users/2413317)
 - ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
 - ![][flag_US] [J_8579](https://osu.ppy.sh/users/5590317)
 - ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459)
-- ![][flag_US] [MaidenofAmnesia](https://osu.ppy.sh/users/11928547)
-- ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982)
-- ![][flag_US] [OmgCamper](https://osu.ppy.sh/users/3650319)
+- ![][flag_US] [MaidenofSorrow](https://osu.ppy.sh/users/13740709)
+- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
+- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
 - ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659)
 - ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201)
 - ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940)
 
 ### osu!mania
 
-- ![][flag_US] [albert1526](https://osu.ppy.sh/users/11313594)
 - ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
 - ![][flag_US] [Giraffle](https://osu.ppy.sh/users/5344769)
-- ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459)
 - ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982)
 - ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
 - ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659)
 - ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316)
 
-<!--
-## Groups
+## Podium
 
-| Group A | Group B | Group C | Group ... |
-| :-- | :-- | :-- | :-- |
-| Country1 | Example | Example | Example |
-| Country2 | Example | Example | Example |
-| Country3 | Example | Example | Example |
-| Country4 | Example | Example | Example |
+### osu!
 
----
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] Mathyu |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Darin on osu |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] Kenny |
 
-![MALE Podium](img/podium.png)
+### osu!mania
 
-![MALE Bracket](img/bracket.png)
--->
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] Zushen |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Ecal |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] Ouchiee |
 
 ---
 
