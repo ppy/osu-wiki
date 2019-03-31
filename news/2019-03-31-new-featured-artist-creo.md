@@ -10,7 +10,7 @@ Dashing in from geometric fame, **Creo** bursts into the scene as osu!'s latest 
 
 We're proud to announce the latest addition to the Featured Artist lineup - [**Creo**](https://osu.ppy.sh/beatmaps/artists/36)! Rising to fame in the *Geometry Dash* scene with his track *Dimension*, we just couldn't say no to **Creo**'s wonderful fusion of pumping, melodic EDM underscored with more classic instrumentation.
 
-From the *Highscore*-esque vibes of *Nautilus* to the wild frontier tunes of tracks like *Outlaw* and frantic, in-your-face pieces like *Dune*, **Creo**'s work is wonderfully varied and sure to satisfy anyone familiar with the EDM hits we all know and love, while sporting a beautiful difference all of their own.
+From the pounding beats of *Nautilus* to the wild frontier tunes of tracks like *Outlaw* and frantic, in-your-face pieces like *Dune*, **Creo**'s work is wonderfully varied and sure to satisfy anyone familiar with the EDM hits we all know and love, while sporting a beautiful difference all of their own.
 
 Here's a small sample from the **17** tracks we've nabbed for your mapping pleasure, all available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36):
 
