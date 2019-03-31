@@ -12,7 +12,7 @@ We're proud to announce the latest addition to the Featured Artist lineup - [**C
 
 From the *Highscore*-esque vibes of *Nautilus* to the wild frontier tunes of tracks like *Outlaw* and frantic, in-your-face pieces like *Dune*, **Creo**'s work is wonderfully varied and sure to satisfy anyone familiar with the EDM hits we all know and love, while sporting a beautiful difference all of their own.
 
-Here's a small sample from the whopping **17** tracks we've nabbed for your mapping pleasure, all available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36):
+Here's a small sample from the **17** tracks we've nabbed for your mapping pleasure, all available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36):
 
 ### Aura
 
