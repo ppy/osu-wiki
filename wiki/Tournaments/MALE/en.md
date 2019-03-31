@@ -304,6 +304,33 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [Multiplayer match](https://osu.ppy.sh/community/matches/49189132) |
 | **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru |  |
 
+### osu!mania
+
+The bracket was cut off early due to time concerns, so later matches switched to a single-elimination format.
+
+#### Finals
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal |
+
+#### Losers bracket (not used)
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-: |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
+| **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi |  |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | Forfeit |
+
+#### Round of 6
+
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu |
+| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi |
+| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle |
+| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee |
+
 ---
 
 ## Ruleset
