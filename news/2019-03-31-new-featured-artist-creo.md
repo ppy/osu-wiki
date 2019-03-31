@@ -52,7 +52,7 @@ Here's a small sample from the **17** tracks we've nabbed for your mapping pleas
 
 As always, all of the above tracks and so much more are available NOW over at [**Creo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36) - 100% free for use in mapping and modding in osu!.
 
-We're excited to see what people come up with to **Creo**'s work - the *Geometry Dash* community has had a blast with his music, and we're sure you guys will, too.
+We're excited to see what people create with **Creo**'s work - the *Geometry Dash* community has had a blast with his music, and we're sure you guys will, too.
 
 The Featured Artist project continues to grow by the month - it won't be long now before we've breached over a thousand tracks from more than nearly three dozen artists. Crazy, huh?
 
