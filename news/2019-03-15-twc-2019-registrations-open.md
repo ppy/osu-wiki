@@ -16,7 +16,7 @@ You can discuss this event and follow the most important changes in the **[offic
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | Mar 15th - Mar 29th |
-| Drawings | Apr 13rd (14:00 UTC) |
+| Drawings | Apr 13th (14:00 UTC) |
 | Group Stage | Apr 20th & Apr 21st |
 | Round of 16 | Apr 27th & Apr 28th |
 | Quarterfinals | May 4th & May 5th |
