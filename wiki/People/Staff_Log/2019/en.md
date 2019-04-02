@@ -61,3 +61,7 @@ All users listed below were added on 2019-02-16.
 - [K a b i -](https://osu.ppy.sh/users/6209713)
 - [KeppSado](https://osu.ppy.sh/users/11085809)
 - [Yuii-](https://osu.ppy.sh/users/2935923)
+
+## March
+
+- Moved [Mir](https://osu.ppy.sh/users/8688812) to the Quality Assurance Team (2019-03-23)
