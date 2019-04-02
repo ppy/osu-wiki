@@ -42,6 +42,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 - [Discussion thread](/community/forums/topics/679243)
 - [Livestream](https://www.twitch.tv/osuanzt)
+- [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q)
 
 ---
 
@@ -258,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Main Bracket
 
-Results of the main bracket can be found [Here](http://anzttournaments.challonge.com/o1fs6s1q)
+Results of the main bracket can be found on the Challonge page linked above.
 
 ### Qualifiers
 
