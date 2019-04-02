@@ -16,12 +16,12 @@ Active
 | Name | Description |
 | ---- | ----------- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Lead designer, [osu!next](https://next.ppy.sh/) |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead and resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organisation and administration |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -31,8 +31,9 @@ Active
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/osu!academy) professor |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! development, osu!mania lover, bug buster |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved captain and community advisor |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping and tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 Inactive
@@ -41,6 +42,7 @@ Inactive
 | Name | Description |
 | ---- | ----------- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeping and help, game/site chibi artwork, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Community management |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
