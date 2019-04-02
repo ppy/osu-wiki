@@ -126,7 +126,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
-| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba(Top), Makeshift Winners(Mid), not even european(Low) | Almost Allies(Top), singletap is braindead(Mid), Yes (Yes)(Low) | nh9mju0(Top), Phoenix Emperors(Mid), Polish Musketeers(Low) |
 
 ### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
 
