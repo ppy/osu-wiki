@@ -43,7 +43,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 ## Mappools
 
-Find all mappools on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8).
+Find all mappools on the spreadsheet linked above.
 
 ---
 
@@ -57,7 +57,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
-All individual match results can be found on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8).
+All individual match results can be found on the spreadsheet linked above.
 
 ---
 
