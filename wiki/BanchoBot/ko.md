@@ -1,32 +1,45 @@
----
-outdated: true
----
-# BanchoBot
+# 반초봇
 
-## 정의
+![반초봇의 유저 카드](img/BanchoBot.jpg "반초봇의 유저 카드")
 
-반초봇은 오스내에서 채팅서버의 이름입니다.
+반초봇은 정보를 표시하거나 게임에 관련된 메시지를 송출하는 것으로 채팅 내에 있는 사람들을 도와주는 봇입니다. [Echo49](https://osu.ppy.sh/users/431) 에 의해 개발되어 [Bancho IRC](/wiki/Internet_Relay_Chat) (인터넷 연계 채팅) 의 호스트이기도 합니다. 반초봇은 [고유 osu! 프로필](https://osu.ppy.sh/users/3) 과 [트위터 계정](https://twitter.com/banchoboat) 도 가지고 있답니다!
 
-또한 유저의 신고를 받거나 멀티플레이 게임기록을 저장하거나
+## 명령어
 
-랭킹 기록을 저장하는듯 게임서버의 역활을 통틀어 합니다.
+*인-게임 클라이언트 명령어의 목록은 [Chat Console](/wiki/Chat_Console#commands-list) 을 참조하세요.*
 
-오스내에서는 채팅 서버 개발자가 있는데 그 채팅서버 이름이 반초봇입니다.
+반초봇의 명령어는 `!` 뒤에 명령어를 붙이는 것으로 사용할 수 있습니다. 이러한 명령어들은 인-게임 및 외부 IRC 클라이언트에서 작동합니다. 이는 멀티플레이어 채팅 채널 및 BanchoBot 의 PM (개인 메시지) 탭에서 사용 가능합니다. 만약 일반 유저가 반초봇의 커맨드를 공용 채팅 채널에서 사용하면 타 유저는 이를 볼 수 없으며, 반초봇의 PM 기능으로 답장이 도착합니다. 
 
-반초봇은 마치 IRC 같지만 IRC도 아닌 또다른 채팅 기반을 만든것으로 추정됩니다.
+또한 인-게임 클라이언트에서 `/bb` 를 사용함으로써 자동으로 반초봇과의 PM창이 열리도록 할 수 있으며, 이를 통해 즉각적으로 명령어를 입력할 수 있습니다. 
 
-사실 게임서버에 IRC 일부 명령어에 여러가지가 섞여서 게임서버인지.. 채팅서버인지 구별이 가지 않습니다만
+*공지: `SEARCH` 커맨드는 작동하지 않음에 따라 포함되어 있지 않습니다.
 
-지금 하는일은 3가지인거 같습니다.
+*부록: 유저 관련 커맨드는 대소문자 구별이 없습니다. 이는 유저 닉네임에 대소문자 구별이 없음을 따른 것입니다.*
 
-1. 채팅서버 (\#osu \#korean 등등)
+### 도움말
 
-2. 멀티플레이 게임 기록 저장 및 운영
+```
+!HELP
+```
 
-3. 랭킹 기록 (이건 osu.ppy.sh 인지 반초봇이 하는 일인지는 모르겠습니다)
+사용 가능한 모든 반초봇의 커맨드를 표시합니다.
 
-반초봇의 호스트 ip 는 cho.ppy.sh 로 irc로 연결할수는 있는데 게임서버인지 채팅서버인지 역시 헷갈려요
+#### 사용 예시
 
-그냥 두개를 다 합쳐놓은거에다가 IRC 기능 일부를 추가 한 BOT으로 생각중.
+*Notice: The `user` parameter for the `REPORT` command is missing.*
 
-영어 위키가 제대로 써지면 해석본을 옮겨둘게요.
+```
+pippi: !help
+BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
+BanchoBot: SEARCH <query>|next|prev
+BanchoBot: WHERE <user>
+BanchoBot: STATS <user>
+BanchoBot: FAQ <item>|list
+BanchoBot: REPORT <reason> - call for an admin
+BanchoBot: REQUEST [list] - shows a random recent mod request
+BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
+```
+
+### ROLL
+
+```
