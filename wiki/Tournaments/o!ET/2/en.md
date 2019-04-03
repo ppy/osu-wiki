@@ -40,9 +40,9 @@ The osu! European Tournament 2 was run by various community members.
 | Management | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167) |
 | Designer | ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215) |
-| Streamers | *to be announced* |
+| Streamers | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_BG] [kiril2011](https://osu.ppy.sh/users/3703793), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) |
 | Referees | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_ES] [290BPM](https://osu.ppy.sh/users/7681746), ![][flag_LT] [Eismis](https://osu.ppy.sh/users/1436793), ![][flag_PL] [AviiXX](https://osu.ppy.sh/users/9619847), ![][flag_PL] [YiDerw250](https://osu.ppy.sh/users/7262993), ![][flag_DE] [Serterd](https://osu.ppy.sh/users/8085558), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_US] [ANIMELORD9999](https://osu.ppy.sh/users/9627344) |
-| Commentators | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) |
+| Commentators | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_BE] [Konipaku](https://osu.ppy.sh/users/9453134), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215), ![][flag_SE] [Alacdoom97](https://osu.ppy.sh/users/4068786), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955) |
 | Statisticians | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
 | Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
@@ -944,6 +944,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BG]: /wiki/shared/flag/BG.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_CZ]: /wiki/shared/flag/CZ.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
