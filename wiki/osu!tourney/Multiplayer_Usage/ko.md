@@ -7,7 +7,7 @@
 양식은 다음을 따릅니다:  
 `Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
 
-`Acronym_in_tournament.cfg` 파일 값은 [setup guide](/wiki/osu!tourney/Setup) 에 따라 `tournament.cfg` 내에 있는 `acronym` 항목에 따릅니다. .
+`Acronym_in_tournament.cfg` 파일 값은 [설치 가이드](/wiki/osu!tourney/Setup) 에 따라 `tournament.cfg` 내에 있는 `acronym` 항목에 따릅니다. .
 만약 그 값이 `Test Tourney` 라면, 양식은 `Test Tourney: (Team Name 1) vs (Team Name 2)` 와 같이 표시될 것입니다.
 
 팀의 이름은 (`Team Name 1` 과 `Team Name 2`) 어떠한 팀명으로도 대체될 수 있지만, **반드시 괄호 `()` 사이에 있어야 합니다**.
