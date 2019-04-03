@@ -43,3 +43,122 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 ### ROLL
 
 ```
+!ROLL <number>
+```
+
+1부터 지정한 숫자 중 랜덤으로 하나를 출력합니다.
+
+#### 사용 예시
+
+```
+pippi: !roll 1000
+BanchoBot: pippi rolls 109 point(s)
+```
+
+### STATS
+
+```
+!STATS <user>
+```
+
+유저의 스탯을 표시합니다. 이는 현재 플레이 중이거나 마지막으로 플레이한 게임 모드를 기준으로 출력됩니다.
+
+*부록 : 반초봇은 출력된 스탯이 어떤 모드를 기준으로 출력된 것인지에 대한 정보를 제공하지 않습니다.*
+
+*공지 : `User not found` 의 답장이 오는 것은 해당 유저가 게임을 한 번도 플레이하지 않은 경우일 수 있으며, 이는 계정이 존재해도 발생할 수 있습니다.*
+
+#### 사용 예시
+
+```
+pippi: !stats peppy
+BanchoBot: Stats for peppy:
+BanchoBot: Store: 422,187,979 (#94718)
+BanchoBot: Plays: 7149 (lv65)
+BanchoBot: Accuracy: 87.29%
+```
+
+```
+pippi: !stats Ephemeral:
+BanchoBot: Stats for Ephemeral is Playing:
+BanchoBot: Store: 2,384,155,536 (#33697)
+BanchoBot: Plays: 14054 (lv96)
+BanchoBot: Accuracy: 94.19%
+```
+
+### WHERE
+
+```
+!WHERE <user>
+```
+
+유저의 현재 위치를 표시합니다.
+
+*부록 : 이 명령어는 해당 유저가 플레이 중인 국가만을 출력합니다.*
+
+#### 사용 예시
+
+```
+pippi: !where Ephemeral
+BanchoBot: Ephemeral is in Australia
+```
+
+### FAQ
+
+```
+!FAQ <entry>
+!FAQ list
+```
+
+엔트리에 미리 등록한 메시지를 조회합니다. `list` 명령어를 통해 등록된 모든 메시지를 조회할 수 있으며, 관리자가 이 명령어를 공용 채팅 채널에서 사용하는 경우 메시지는 해당 채널에 출력되나, 일반 유저가 사용할 시 BanchoBot 의 PM탭으로 메시지가 출력됩니다.
+
+#### 사용 예시
+
+```
+pippi: !faq peppy
+BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
+```
+
+```
+Tama: 你好
+Yuzu: !faq chinese
+BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
+Tama: ok
+```
+
+### REPORT
+
+*공지: 관리자를 신고할 일이 생길 경우 [support@ppy.sh](mailto:support@ppy.sh) 로 신고 내용을 보내주세요.*
+
+*부록: 유저 카드에 있는 신고 항목을 이용할 수도 있습니다.*
+
+```
+!REPORT <user> <reason>
+```
+
+*공지: 닉네임을 입력할 때 공백은 언더바 (`_`) 로 대체하여 입력하세요.*
+
+신고를 [Global Moderation Team](/wiki/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/Language_Moderators) 에게 보냅니다.
+
+#### 사용 예시
+
+```
+pippi: !report flyte spamming in #japanese
+BanchoBot: Chat moderators have been alerted. Thanks for your help.
+```
+
+### REQUEST
+
+```
+!REQUEST
+!REQUEST list
+```
+
+모딩 요청이 들어온 비트맵의 링크를 표시합니다. `list` 명령어를 이용하면 더 많은 정보를 한 번에 확인할 수 있습니다. 링크를 클릭하면 비트맵 페이지를 표시하거나 osu!supporter 인 경우 osu!direct 가 열립니다.
+
+#### 사용 예시
+
+```
+pippi: !request
+BanchoBot: HoneyWorks - Tokyo Summer Session feat. CHiCO by MrSergio
+```
