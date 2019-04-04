@@ -4,6 +4,7 @@
 
 | Name | Epitaph |
 | :-- | :-- |
+| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
 | ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
 | ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | GMT |
@@ -58,6 +59,7 @@
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
+| ![][flag_KR] [Endroll](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | GMT |
 | ![][flag_FI] [ethox](https://osu.ppy.sh/users/441380) | Chat Moderator |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -123,7 +125,8 @@
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
 | ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
-| ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |  
+| ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
+| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |  
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
@@ -151,7 +154,6 @@
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
-| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | GMT |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |

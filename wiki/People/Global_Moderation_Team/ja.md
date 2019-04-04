@@ -19,7 +19,6 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 
 | Name | Additional Languages Spoken | Area of focus |
 | :-- | :-- | :-- |
-| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Italian | Chat Moderation |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Chat Moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat Moderation, Forum Moderation |
@@ -27,7 +26,6 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournaments |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technical Support |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat Moderation |
-| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | Korean, Japanese | Chat Moderation, Forum Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Chat Moderation, Forum Moderation |
@@ -35,12 +33,12 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat Moderation |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portuguese | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat Moderation |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Chat Moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat Moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Chat Moderation, Metadata Team |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat Moderation |
-| ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | Finnish | Chat Moderation |
-| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | Spanish | Chat Moderation, Forum Moderation |
+| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat Moderation |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat Moderation |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat Moderation, Forum Moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat Moderation, Forum Moderation |
@@ -48,9 +46,10 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, Forum Moderation, Chat Moderation |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Chat Moderation, Technical support |
+| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat Moderation |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat Moderation, Wiki Administration |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat Moderation |
-| ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat Moderation |
+| ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat Moderation |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat Moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat Moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat Moderation |
@@ -64,7 +63,7 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Chat Moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish | Technical Support |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polish | Chat Moderation |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Chat Moderation, Tournaments, Forum Moderation |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Chat Moderation, Tournaments, Wiki Helper, Forum Moderation |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat Moderation |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chinese | Chat Moderation |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | German | Chat Moderation |
@@ -84,12 +83,14 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TR]: /wiki/shared/flag/TR.gif
