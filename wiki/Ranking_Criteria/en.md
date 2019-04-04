@@ -14,7 +14,7 @@ Glossary
 ### General Terms
 
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
-- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why violating the guideline does not interfere with the overall quality of the creation.
 
 ### Beatmapset
 
@@ -87,15 +87,15 @@ Glossary
 - **Beatmaps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, and skinning settings are acceptable.
-- **osu! difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
+- **The letterbox during breaks setting must be consistent between difficulties of the same mode if they contain break periods.**
 
 ### Guidelines
 
 - **Letterboxing and countdown options should be consistent between difficulties of a beatmapset.**
 - **Directly re-using your own Ranked beatmaps in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
-- **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they fit a song more appropriately than standard tick rates.
+- **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
-- **Maps should not surpass a score of 2.147 billion with any mod combination or game mode conversion.** Scores are not calculated properly past this value. If the score limit is not reasonably achievable however (e.g. a HDHRDTFL SS play on a six star beatmap), it may be Ranked.
+- **The countdown setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
 ## Beatmapset
 
@@ -139,12 +139,12 @@ Glossary
 
 ### Rules
 #### Technical
-- **Metadata must be consistent across all difficulties of a beatmap set.**
-- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmap set.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap set. Usernames containing whitespaces should be written with underscores instead.
+- **Metadata must be consistent across all difficulties of a beatmapset.**
+- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces should replace whitespaces with underscores.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website or album names are not an acceptable Source. If the song was featured or tied to a media after it was released, the source field is optional. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
+- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website or album names are not an acceptable source. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
     - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 
@@ -153,8 +153,8 @@ Glossary
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
 - **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying a featured artist in the song.**
 - **When a fictional character is credited as the singer of a song, the artist field is to be formatted in a `Character (CV: Voice Actor)` format.** For live action, credit the voice actor only.
-- **If the song is `TV size`, use a `(TV Size)` marker at the end of the current title string.** If there is an existing `TV size` marker in the title, the `(TV Size)` marker would replace it.
-    - Note: If a mapset's song contains matching sections to the TV size song, in the same order, and is roughly the same length as the official TV Size song, the mapset's edit will also count as a `TV Size`. Covers and Remixes do not count.
+- **If the song is `TV size`, use a `(TV Size)` marker at the end of the current title string.** If there is an existing `TV size` marker in the title, the `(TV Size)` marker would replace it. Additionally, songs with existing `Short Ver` or `Game Ver` markers in their titles must use `(Short Ver.)` or `(Game Ver.)` markers.
+    - Note: If a mapset's song contains matching sections to the `TV size`/`Short Ver`/`Game Ver` song, in the same order, and is roughly the same length as the official cut song, the mapset's edit will also count as a `TV Size`/`Short Ver`/`Game Ver` respectively. Covers and remixes do not count.
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the Romanised fields within a `.osu` file.** `★ ☆ ⚝ ✩ ✪ ✫ ✬ ✭ 🟉 🟊 ✮ ✯ ✰` and the likes are substituted to an asterisk. Other special characters are to be romanised or dropped on case-by-case basis.
 - **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
 - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
@@ -177,7 +177,7 @@ Glossary
 #### Technical
 - **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
-- **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmap set's tags.**
+- **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
 - **Additional Tags: It is recommended to include tags such as the language(s), genre(s) of the track in the map, related artists, and whatever may aid a player to find the map.** Terms already in the primary metadata (Artist, Title, Source) should not be included in tags.
 
 #### Standardisation
@@ -219,13 +219,14 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
-- **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
+- **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmapset is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
 - **A beatmapset's audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
 - **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
 - **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed.
+- **Applause files must use the `.mp3` file format.** Applause files usually have long durations and `.wav` files have unecessarily large in comparison.
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
@@ -235,7 +236,6 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
-- **Avoid using storyboarded hit sounds.** If a player misses the hit object that the storyboarded hit sound lands on, then the hit sound will be played (which doesn't make much sense when this is a rhythm game utilizing audio feedback). Also, storyboarded hit sounds at places where there are no objects can confuse the player into thinking there was some unseen hit object, which does not make sense either.
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the BPM of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable beatmapset length.
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
 - **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
@@ -246,7 +246,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 - **You must have a background image on every difficulty of your beatmap.** Different background files for different difficulties is acceptable.
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
-- **Background images must not exceed a width of 1920 pixels and a height of 1200 pixels.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen.
+- **Background images must not exceed a width of 2560 pixels, a height of 1440 pixels, and a filesize of 2.5MB.** Images with lower vertical or horizontal resolutions than that of the player's will be upscaled to fit the entire screen.
 - **A video's offset must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap. This includes videos with muted audio tracks.
 
@@ -270,6 +270,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
 - **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
+- **The widescreen support setting must be consistent between storyboarded difficulties in a beatmapset.**
 
 ### Guidelines
 
