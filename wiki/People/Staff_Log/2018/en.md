@@ -310,7 +310,6 @@ All users listed below were added on 2018-07-27.
 - [-Luminate](https://osu.ppy.sh/users/4778689) (2018-10-22)
 - [AJamez](https://osu.ppy.sh/users/7890134) (2018-10-22)
 - [wonjae](https://osu.ppy.sh/users/5032045) (2018-10-22)
-- [Sinnoh](https://osu.ppy.sh/users/4236057) (2018-10-22)
 - [Dellvangel](https://osu.ppy.sh/users/5186244) (2018-10-22)
 - [-MysticEyes](https://osu.ppy.sh/users/6253266) (2018-10-22)
 - [MEGAtive](https://osu.ppy.sh/users/3094101) (2018-10-22)
