@@ -71,24 +71,24 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | ![][flag_ID] | Indonesia | **[pmriva](https://osu.ppy.sh/users/2180885)** |
 | ![][flag_IT] | Italy | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
 | ![][flag_JP] | Japan | **[iceOC](https://osu.ppy.sh/users/5482401)** |
-| ![][flag_MY] | Malaysia | **[\[Zeth\]](https://osu.ppy.sh/u/9912966)** |
+| ![][flag_MY] | Malaysia | **[\[Zeth\]](https://osu.ppy.sh/users/9912966)** |
 | ![][flag_MX] | Mexico | **[Ammy](https://osu.ppy.sh/users/4183406)** |
-| ![][flag_NL] | Netherlands | **[Hypello](https://osu.ppy.sh/u/1594036)** |
-| ![][flag_NZ] | New Zealand | **[Sparxe](https://osu.ppy.sh/u/5750235)** |
-| ![][flag_NO] | Norway | **[Kiwi-P](https://osu.ppy.sh/u/1794766)** |
-| ![][flag_PH] | Philippines | **[Pochacco](https://osu.ppy.sh/u/2927742)** |
-| ![][flag_PL] | Poland | **[Acrith](https://osu.ppy.sh/u/389880)** |
-| ![][flag_PT] | Portugal | **[BabySnakes](https://osu.ppy.sh/u/4669728)** |
-| ![][flag_RU] | Russian Federation | **[Dayzeek](https://osu.ppy.sh/u/5009970)** |
-| ![][flag_SG] | Singapore | **[Lalamomo4](https://osu.ppy.sh/u/7609510)** |
+| ![][flag_NL] | Netherlands | **[Hypello](https://osu.ppy.sh/users/1594036)** |
+| ![][flag_NZ] | New Zealand | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ![][flag_NO] | Norway | **[Kiwi-P](https://osu.ppy.sh/users/1794766)** |
+| ![][flag_PH] | Philippines | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
+| ![][flag_PL] | Poland | **[Acrith](https://osu.ppy.sh/users/389880)** |
+| ![][flag_PT] | Portugal | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ![][flag_RU] | Russian Federation | **[Dayzeek](https://osu.ppy.sh/users/5009970)** |
+| ![][flag_SG] | Singapore | **[Lalamomo4](https://osu.ppy.sh/users/7609510)** |
 | ![][flag_KR] | South Korea | **[Peaceful](https://osu.ppy.sh/users/165027)** |
 | ![][flag_ES] | Spain | **[Raiden](https://osu.ppy.sh/users/2239480)** |
-| ![][flag_SE] | Sweden | **[Raphalge](https://osu.ppy.sh/u/3918650)** |
+| ![][flag_SE] | Sweden | **[Raphalge](https://osu.ppy.sh/users/3918650)** |
 | ![][flag_CH] | Switzerland | **[Oui](https://osu.ppy.sh/users/5538419)** |
-| ![][flag_TW] | Taiwan | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/u/242910)** |
+| ![][flag_TW] | Taiwan | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)** |
 | ![][flag_GB] | United Kingdom | **[goheegy](https://osu.ppy.sh/users/8057655)** |
-| ![][flag_US] | United States | **[Ney](https://osu.ppy.sh/u/5991961)** |
-| ![][flag_VE] | Venezuela | **[\[\_Chichinya\_\]](https://osu.ppy.sh/u/2140739)** |
+| ![][flag_US] | United States | **[Ney](https://osu.ppy.sh/users/5991961)** |
+| ![][flag_VE] | Venezuela | **[\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739)** |
 
 -----------------------
 
