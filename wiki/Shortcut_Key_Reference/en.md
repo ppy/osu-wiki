@@ -143,7 +143,7 @@ Note: Not all of these work in the [multi](/wiki/multi) mode's song select scree
 - `Space`: Skip opening cut-scene
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
-- `H`: Toggle scoreboard and in-game interface at once (and hide played by text if in replay mode)
+- `H`: Toggle scoreboard and in-game interface at once (and hide "REPLAY MODE" text if you are viewing a replay)
 - `F3` or `F4`: Adjust speed for osu!mania (only works near the beginning of playing)
 - `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the intro upon retry)
 
