@@ -20,13 +20,13 @@ Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu
 | Phase d'inscription | 2019-02-16/2019-03-04 |
 | Tirage au sort en direct | 2019-03-04 (20:00 UTC+0) |
 | Qualifications | 2019-03-09/2019-03-10 |
-| 32èmes de finale | 2019-03-16/2019-03-17 |
-| 16èmes de finale | 2019-03-23/2019-03-24 |
-| 8èmes de finale | 2019-03-30/2019-03-31 |
-| Quarts-de-finale | 2019-04-06/2019-04-07 |
-| Demi-finales | 2019-04-13/2019-04-14 |
-| Finales | 2019-04-20/2019-04-21 |
-| Grandes Finales | 2019-04-21 |
+| 32èmes de finale | 2019-03-23/2019-03-24 |
+| 16èmes de finale | 2019-03-30/2019-03-31 |
+| 8èmes de finale | 2019-04-06/2019-04-07 |
+| Quarts-de-finale | 2019-04-13/2019-04-14 |
+| Demi-finales | 2019-04-20/2019-04-21 |
+| Finales | 2019-04-27/2019-04-28 |
+| Grandes Finales | 2019-04-28 |
 
 ## Récompenses
 
@@ -47,23 +47,25 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824) |
-| Administrateurs | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Sélectionneur de map | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
+| Administrateurs | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
+| Sélectionneur de map | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
 | Designer | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Streamers | ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
-| Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948) |
-| Arbitres | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Tigre de poche](https://osu.ppy.sh/users/5410201), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_DE] [AFKBRB](https://osu.ppy.sh/users/8449331) |
-| Statisticien | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
+| Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948) |
+| Arbitres | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Tigre de poche](https://osu.ppy.sh/users/5410201), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_DE] [AFKBRB](https://osu.ppy.sh/users/8449331) |
+| Statisticien | ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
 | Développeurs | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_SE] [AntoN](https://osu.ppy.sh/users/2538562), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+
+*Special thanks to ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), and ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) who served their role but left early.*
 
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/869989)
-- [Discord officiel du #GO](https://discord.gg/trnFByC)
-- [Chaîne Youtube officiel du #GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
+- [Serveur Discord du #GO](https://discord.gg/trnFByC)
+- [Chaîne Youtube du #GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
+- [Tableaux Challonge du #GO](https://challonge.com/gameosu)
 - [Site Internet](https://www.gameosu.com/)
-- [Formulaire d'inscription au tournoi](https://www.gameosu.com/sign_up)
 - Livestream
   - [#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
   - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
@@ -73,7 +75,72 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 
 ## Participants
 
-*Les participants seront révélés à la fin de la période d'inscription.*
+| Classement BWS |  | Joueur |
+| :-: | :-: | :-- |
+| #1 | ![][flag_KR] | [WalkingTuna](https://osu.ppy.sh/users/9224078) |
+| #1.38 | ![][flag_US] | [idke](https://osu.ppy.sh/users/4650315) |
+| #1.57 | ![][flag_US] | [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+| #3.13 | ![][flag_US] | [Apraxia](https://osu.ppy.sh/users/4194445) |
+| #4.09 | ![][flag_GB] | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| #5.54 | ![][flag_US] | [fieryrage](https://osu.ppy.sh/users/3533958) |
+| #5.74 | ![][flag_PL] | [Rafis](https://osu.ppy.sh/users/2558286) |
+| #6.19 | ![][flag_US] | [Vaxei](https://osu.ppy.sh/users/4787150) |
+| #6.91 | ![][flag_CA] | [RyuK](https://osu.ppy.sh/users/6304246) |
+| #10.67 | ![][flag_DE] | [Dustice](https://osu.ppy.sh/users/754565) |
+| #14.42 | ![][flag_PL] | [WubWoofWolf](https://osu.ppy.sh/users/39828) |
+| #18 | ![][flag_JP] | [Varvalian](https://osu.ppy.sh/users/3345902) |
+| #20.37 | ![][flag_GB] | [Spare](https://osu.ppy.sh/users/2204373) |
+| #22.17 | ![][flag_US] | [lain](https://osu.ppy.sh/users/1650010) |
+| #23.83 | ![][flag_FR] | [ThePooN](https://osu.ppy.sh/users/718454) |
+| #30.34 | ![][flag_AU] | [Dumii](https://osu.ppy.sh/users/3068044) |
+| #32 | ![][flag_US] | [BeasttrollMC](https://osu.ppy.sh/users/3171691) |
+| #36.17 | ![][flag_PL] | [Wakson](https://osu.ppy.sh/users/3048222) |
+| #38.08 | ![][flag_PL] | [Wilchq](https://osu.ppy.sh/users/2021758) |
+| #43.93 | ![][flag_PL] | [Piggey](https://osu.ppy.sh/users/4163860) |
+| #47.81 | ![][flag_PL] | [MrBooM](https://osu.ppy.sh/users/1837989) |
+| #48.60 | ![][flag_FR] | [Musty](https://osu.ppy.sh/users/251683) |
+| #50.72 | ![][flag_US] | [kip](https://osu.ppy.sh/users/3043603) |
+| #52.66 | ![][flag_ID] | [Skydiver](https://osu.ppy.sh/users/4750008) |
+| #53 | ![][flag_NL] | [Viveliam](https://osu.ppy.sh/users/3506793) |
+| #57.69 | ![][flag_IT] | [Koba](https://osu.ppy.sh/users/4448118) |
+| #61.20 | ![][flag_IL] | [Xilver15](https://osu.ppy.sh/users/3099689) |
+| #63.53 | ![][flag_FR] | [Flaven](https://osu.ppy.sh/users/3213239) |
+| #66 | ![][flag_AU] | [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| #68.70 | ![][flag_GB] | [-Roxas](https://osu.ppy.sh/users/1986262) |
+| #68.86 | ![][flag_FR] | [NerO](https://osu.ppy.sh/users/1545031) |
+| #82 | ![][flag_SG] | [Demonical](https://osu.ppy.sh/users/5447609) |
+| #84 | ![][flag_PL] | [mastasz](https://osu.ppy.sh/users/1876565) |
+| #101.97 | ![][flag_US] | [Mathyu](https://osu.ppy.sh/users/6303313) |
+| #112.27 | ![][flag_DE] | [imagaK](https://osu.ppy.sh/users/2022445) |
+| #120 | ![][flag_IT] | [-Syncro](https://osu.ppy.sh/users/4338923) |
+| #125 | ![][flag_US] | [Cappy](https://osu.ppy.sh/users/6668666) |
+| #145 | ![][flag_PR] | [Unexpected](https://osu.ppy.sh/users/4495889) |
+| #145 | ![][flag_US] | [Fangzy](https://osu.ppy.sh/users/4497691) |
+| #148.23 | ![][flag_HK] | [DenierNezzar](https://osu.ppy.sh/users/126144) |
+| #156 | ![][flag_KR] | [Ansol](https://osu.ppy.sh/users/7302146) |
+| #156.89 | ![][flag_GB] | [TopSp1n](https://osu.ppy.sh/users/7657761) |
+| #161 | ![][flag_US] | [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| #166.51 | ![][flag_FR] | [-raizen-](https://osu.ppy.sh/users/3872987) |
+| #166.57 | ![][flag_US] | [he rack](https://osu.ppy.sh/users/2644828) |
+| #207.12 | ![][flag_GB] | [Doomsday](https://osu.ppy.sh/users/18983) |
+| #220 | ![][flag_RO] | [Chamosiala](https://osu.ppy.sh/users/1469892) |
+| #244 | ![][flag_RU] | [Aden](https://osu.ppy.sh/users/4342841) |
+| #253 | ![][flag_NL] | [Lilily](https://osu.ppy.sh/users/6502403) |
+| #253.42 | ![][flag_GR] | [Riven](https://osu.ppy.sh/users/3638005) |
+| #255 | ![][flag_CA] | [trev rasher](https://osu.ppy.sh/users/2694475) |
+| #289 | ![][flag_LV] | [waywern2012](https://osu.ppy.sh/users/5870453) |
+| #308 | ![][flag_US] | [Woey](https://osu.ppy.sh/users/3792472) |
+| #375.61 | ![][flag_PL] | [AstroFP](https://osu.ppy.sh/users/6661913) |
+| #411.97 | ![][flag_SE] | [Reedkatt](https://osu.ppy.sh/users/8335950) |
+| #433 | ![][flag_ID] | [Rexeez](https://osu.ppy.sh/users/1987591) |
+| #494 | ![][flag_PL] | [\_demo](https://osu.ppy.sh/users/3556891) |
+| #534 | ![][flag_US] | [not very smart](https://osu.ppy.sh/users/3696423) |
+| #548 | ![][flag_AU] | [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| #569.62 | ![][flag_AU] | [GranDSenpai](https://osu.ppy.sh/users/3997580)
+| #700 | ![][flag_US] | [Tj7223](https://osu.ppy.sh/users/10210668) |
+| #737 | ![][flag_MY] | [Rampax](https://osu.ppy.sh/users/3995630) |
+| #766 | ![][flag_ME] | [Andros](https://osu.ppy.sh/users/9072586) |
+| #972.71 | ![][flag_NL] | [GladiOol](https://osu.ppy.sh/users/23326) |
 
 -----------------------
 
