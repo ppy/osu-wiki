@@ -7,7 +7,7 @@
 - Moved [Irreversible](https://osu.ppy.sh/users/1287964) to the osu! Alumni (2016-01-25)
 - Moved [alacat](https://osu.ppy.sh/users/869782) to the osu! Alumni (2016-01-29)
 
-### New BN additions
+### Beatmap Nominator additions
 
 - [Sey](https://osu.ppy.sh/users/553656) (2016-01-20)
 - [- Magic Bomb -](https://osu.ppy.sh/users/3071175) (2016-01-20)
@@ -28,7 +28,7 @@
 - Moved [Zero\_\_wind](https://osu.ppy.sh/users/1822830) to the Global Moderation Team (2016-03-17)
 - Added [MrSergio](https://osu.ppy.sh/users/2581696) to the Global Moderation Team (2016-03-17)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2016-03-07.
 
@@ -62,7 +62,7 @@ All users listed below were added on 2016-03-07.
 - Moved [alacat](https://osu.ppy.sh/users/869782) to the Quality Assurance Team (2016-06-24)
 - Added [JBHyperion](https://osu.ppy.sh/users/4879508) to the Quality Assurance Team (2016-06-24)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2016-06-01.
 
@@ -86,7 +86,7 @@ All users listed below were added on 2016-06-01.
 
 - Moved [OnosakiHito](https://osu.ppy.sh/users/290128) to the Quality Assurance Team (2016-08-04)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2016-08-22.
 
@@ -129,7 +129,7 @@ All users listed below were added on 2016-08-22.
 - Moved [-kevincela-](https://osu.ppy.sh/users/266596) to the Global Moderation Team (2016-11-15)
 - Moved [Gabe](https://osu.ppy.sh/users/654108) to the Global Moderation Team (2016-11-15)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2016-11-04.
 
