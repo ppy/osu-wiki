@@ -92,9 +92,9 @@ Even though hard, this map is also subtle. Combining clever mapping decisions wo
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/first-town.jpg)](https://osu.ppy.sh/beatmapsets/888513)
 
-Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [ScubDomino](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through ScubDomino's [Adventure] difficulty. 
+Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [ScubDomino](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through ScubDomino's [Adventure] difficulty. 
 
-The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes that slowly reverts back to its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
+The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes and finally reverts back its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/suki-no-skill.jpg)](https://osu.ppy.sh/beatmapsets/740351)
 
@@ -108,7 +108,7 @@ Another highlight of the set is definitely the high effort hitsounding which add
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/hyperdrive.jpg)](https://osu.ppy.sh/beatmapsets/883505)
 
-It's the first time [hypercyte](https://osu.ppy.sh/users/9155377) is in the Spotlights, and he's here with a rockin' mapset: the storyboard is really well done, fitting nicely with the map and song, and the patterns are somehow original, making it enjoyable to play and standing out among all these usual pp/tech maps.
+HYPERDRIVE, [hypercyte](https://osu.ppy.sh/users/9155377)'s first spotlighted map, marks a departure from his usual anime TV size sets. Featuring a dynamic and creative storyboard set to an energetic electronic melody,  HYPERDRIVE takes the player on a voyage into the galaxy and beyond. Dive into the HYPERNOVA difficulty and experience engaging jumps, intricate slider patterns and well-thought-out designs sure to express the song to its fullest. For all you aspiring spaceship pilots out there, be sure to take a look at the lower difficulties made by [Peter](https://osu.ppy.sh/users/8623835) and [Dashyy-](https://osu.ppy.sh/users/6513356), as well as hypercyte's own Easy difficulty.
 
 [![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/osu/nageki.jpg)](https://osu.ppy.sh/beatmapsets/907848)
 
@@ -293,9 +293,9 @@ The balance in this map between serenity and chaos perfectly represents the musi
 
 Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatman Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
 
-This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since _Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
+This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since \_Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
 
-In this way, this mapset deserves a place in the spotlight and we sincerely look forward to _Stan's future 7K creations!
+In this way, this mapset deserves a place in the spotlight and we sincerely look forward to \_Stan's future 7K creations!
 
 ---
 
