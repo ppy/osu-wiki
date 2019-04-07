@@ -4,7 +4,7 @@ title: "Seasonal Spotlights: Winter 2019"
 date: 2019-03-31 22:00:00 +0000
 ---
 
-Meanwhile the wind blows warmer and the sun feels nice, we still have some beatmaps for you to feel cool. Do not be afraid though, come and take a look at our selection of mapsets from the Winter Season and earn a fancy new medal for yourself!
+The wind's blowing warmer and the sun's feeling nicer, but we still have some cool beatmaps from the winter to show off! Come take a look at our selection of mapsets from last season, and earn a fancy new medal for yourself by playing them all!
 
 ![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/header.jpg)
 
