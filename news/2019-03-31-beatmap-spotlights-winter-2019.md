@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seasonal Spotlights: Winter 2018"
+title: "Seasonal Spotlights: Winter 2019"
 date: 2019-03-31 22:00:00 +0000
 ---
 
@@ -8,7 +8,7 @@ Meanwhile the wind blows warmer and the sun feels nice, we still have some beatm
 
 ![](/wiki/shared/news/2019-03-31-beatmap-spotlights-winter-2018/header.jpg)
 
-The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=259). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Winter 2018 Spotlights rankings will end on the 15th of June, 2019.**
+The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=259). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Winter 2019 Spotlights rankings will end on the 15th of June, 2019.**
 
 ## Autumn Spotlights results
 
@@ -19,7 +19,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 - **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397), [Guillotine](https://osu.ppy.sh/users/4365562) and [RAMPAGE88](https://osu.ppy.sh/users/448547)
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
-# Winter 2018 Spotlights
+# Winter 2019 Spotlights
 
 ### Navigation
 
