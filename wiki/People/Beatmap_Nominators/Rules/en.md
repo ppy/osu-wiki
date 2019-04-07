@@ -27,6 +27,15 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **Do not qualify over any manually popped bubble set by another Beatmap Nominator.** Manually popping bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
 + **Make sure no mod posts in the map thread have been ignored before qualifying or bubbling a map.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the mapthread and act accordingly.
 + **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, QAT or otherwise) involved in the ranking process.
++ **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the mapset owner requests it.** 
++ **Qualified beatmaps found with unrankable issues must first be posted to the [Report a Beatmap](https://osu.ppy.sh/community/forums/topics/447428) thread.** If the issue has already been reported by someone else, then you are free to disqualify the beatmap. Beatmaps should not be disqualified without at least two people confirming the issue.
++ **Disqualification requests by the mapset owner can be applied immediately.** 
++ **For more subjective issues or concerns, waiting for a mapper’s reply is preferable if the map still stays in qualified section for more than 24 hours.** In case there is very little time left and the mapper gives no response, the map may be disqualified for further discussion.
++ **Disqualification posts must contain a short reason for the disqualification, as well as links to any related issues posted in the beatmap discussions.** 
++ **Ensure that you are looking at the most up to date version of the beatmap before disqualifying.** 
++ **Beatmaps qualified in modding v1 that need to be disqualified should be brought to the attention of the NAT.** 
++ **Issues that can be resolved via the map management panel must still be disqualified.** In the case that this is not possible, contact a member of the NAT.
++ **Beatmap Nominators in probation aren’t able to disqualify a map.** They may however participate in such discussions if desired.
 
 
 ### Conduct
@@ -70,3 +79,15 @@ _Change date: 12. April 2018, **in effect immediately**_
 + **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, QAT or otherwise) involved in the ranking process.
 
 _Change date: 12. Dec 2018, **in effect immediately**_
+
++ **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the mapset owner requests it.** 
++ **Qualified beatmaps found with unrankable issues must first be posted to the [Report a Beatmap](https://osu.ppy.sh/community/forums/topics/447428) thread.** If the issue has already been reported by someone else, then you are free to disqualify the beatmap. Beatmaps should not be disqualified without at least two people confirming the issue.
++ **Disqualification requests by the mapset owner can be applied immediately.** 
++ **For more subjective issues or concerns, waiting for a mapper’s reply is preferable if the map still stays in qualified section for more than 24 hours.** In case there is very little time left and the mapper gives no response, the map may be disqualified for further discussion.
++ **Disqualification posts must contain a short reason for the disqualification, as well as links to any related issues posted in the beatmap discussions.** 
++ **Ensure that you are looking at the most up to date version of the beatmap before disqualifying.** 
++ **Beatmaps qualified in modding v1 that need to be disqualified should be brought to the attention of the NAT.** 
++ **Issues that can be resolved via the map management panel must still be disqualified.** In the case that this is not possible, contact a member of the NAT.
++ **Beatmap Nominators in probation aren’t able to disqualify a map.** They may however participate in such discussions if desired.
+
+_Change date: 7. April 2018, **in effect immediately**_
