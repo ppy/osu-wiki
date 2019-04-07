@@ -139,8 +139,10 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | #569.62 | ![][flag_AU] | [GranDSenpai](https://osu.ppy.sh/users/3997580)
 | #700 | ![][flag_US] | [Tj7223](https://osu.ppy.sh/users/10210668) |
 | #737 | ![][flag_MY] | [Rampax](https://osu.ppy.sh/users/3995630) |
-| #766 | ![][flag_ME] | [Andros](https://osu.ppy.sh/users/9072586) |
+| #766 | ![][flag_MX] | [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] | [GladiOol](https://osu.ppy.sh/users/23326) |
+
+*Note: Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. See the #Game\_Osu website linked above for more details.*
 
 -----------------------
 
@@ -256,6 +258,101 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 
 ------------------------------------------------------------------------
 
+## Résultats des matches
+
+### 16èmes de finale
+
+| Mercredi, 2019-03-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Spare ![][flag_GB] | 4 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
+
+| Vendredi, 2019-03-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Varvalian ![][flag_JP] | 4 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
+| not very smart ![][flag_US] | 2 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
+
+| Samedi, 2019-03-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
+| **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
+| **Riven** ![][flag_GR] | **5** | 0 | ![][flag_GB] TopSp1n | -win by default- |
+| Dumii ![][flag_AU] | 1 | **5** | ![][flag_PL] **MrBooM** | [#1](https://osu.ppy.sh/community/matches/50638368) |
+| Tj7223 ![][flag_US] | 0 | **5** | ![][flag_ID] **Skydiver** | -win by default- |
+| **DigitalHypno** ![][flag_US] | **5** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50641877) |
+| waywern2012 ![][flag_LV] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50641450) |
+| Dustice ![][flag_DE] | 1 | **5** | ![][flag_GB] **-Roxas** | [#1](https://osu.ppy.sh/community/matches/50643326) |
+| **AstroFP** ![][flag_PL] | **5** | 2 | ![][flag_US] Fangzy | [#1](https://osu.ppy.sh/community/matches/50645122) |
+| **BeasttrollMC** ![][flag_US] | **5** | 0 | ![][flag_PL] Piggey | -win by default- |
+| **RyuK** ![][flag_CA] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
+| **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
+
+| Dimanche, 2019-03-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Apraxia** ![][flag_US] | **5** | 4 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
+| nickerdead3 ![][flag_AU] | 4 | **5** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
+| **trev rasher** ![][flag_CA] | **5** | 2 | ![][flag_KR] Ansol | [#1](https://osu.ppy.sh/community/matches/50657693) |
+| **Rampax** ![][flag_MY] | **5** | 3 | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/50657765) |
+| ThePooN ![][flag_FR] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50664847) |
+| **Wakson** ![][flag_PL] | **5** | 3 | ![][flag_PL] Wilchq | [#1](https://osu.ppy.sh/community/matches/50666355) |
+| Aden ![][flag_RU] | 0 | **5** | ![][flag_FR] **-raizen-** | -win by default- |
+| **Vaxei** ![][flag_US] | **5** | 2 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50669935) |
+| GranDSenpai ![][flag_AU] | 3 | **5** | ![][flag_PR] **Unexpected** | [#1](https://osu.ppy.sh/community/matches/50672427) |
+| Andros ![][flag_MX] | 0 | **5** | ![][flag_NL] **GladiOol** | [#1](https://osu.ppy.sh/community/matches/50672903) |
+| **Reedkatt** ![][flag_SE] | **5** | 1 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/50673816) |
+| **idke** ![][flag_US] | **5** | 3 | ![][flag_PL] Rafis | [#1](https://osu.ppy.sh/community/matches/50675420) |
+| **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50673947) |
+| **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
+| **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
+
+| Monday, 2019-04-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
+
+### 32èmes de finale
+
+| Vendredi, 2019-03-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **ThePooN** ![][flag_FR] | **4** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
+
+| Samedi, 2019-03-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **DigitalHypno** ![][flag_US] | **4** | 3 | ![][flag_US] Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
+| **RyuK** ![][flag_CA] | **4** | 0 | ![][flag_US] not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
+| **Dumii** ![][flag_AU] | **4** | 0 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/50464680) |
+| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_AU] nickerdead3 | [#1](https://osu.ppy.sh/community/matches/50465701) |
+| **Dustice** ![][flag_DE] | **4** | 0 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/50465853) |
+| Piggey ![][flag_PL] | 2 | **4** | ![][flag_FR] **-raizen-** | [#1](https://osu.ppy.sh/community/matches/50466668) |
+| Viveliam ![][flag_NL] | 3 | **4** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
+| **WubWoofWolf** ![][flag_PL] | **4** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
+| **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
+| **idke** ![][flag_US] |  **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
+| **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
+| kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
+| NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
+| **-Roxas** ![][flag_GB] | 4 | 0 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50473547) |
+| **Chamosiala** ![][flag_RO] | **4** | 3 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/community/matches/50474450) |
+| Mathyu ![][flag_US] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
+| Wilchq ![][flag_PL] | 1 | **4** | ![][flag_US] **he rack** | [#1](https://osu.ppy.sh/community/matches/50476036) |
+| BeasttrollMC ![][flag_US] | 1 | **4** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50476954) |
+| **MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_US] Im a fancy lad | [#1](https://osu.ppy.sh/community/matches/50477325) |
+| **Koba** ![][flag_IT] | **4** | 0 | ![][flag_US] Fangzy | [#1](https://osu.ppy.sh/community/matches/50479031) |
+| **Xilver15** ![][flag_IL] | **4** | 2 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/50481035) |
+| Wakson ![][flag_PL] | 2 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/50481037) |
+| GladiOol ![][flag_NL] | 1 | **4** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/50481010) |
+| **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
+
+| Dimanche, 2019-03-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Unexpected ![][flag_PR] | 3 | **4** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
+| **Vaxei** ![][flag_US] | **4** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |
+| **Musty** ![][flag_FR] | **4** | 0 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/50500208) |
+| **Spare** ![][flag_GB] | **4** | 1 | ![][flag_LV] waywern2012 | [#1](https://osu.ppy.sh/community/matches/50500339) |
+| **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50503904) |
+| Woey ![][flag_US] | 2 | **4** | ![][flag_PL] **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
+| lain ![][flag_US] | 1 | **4** | ![][flag_CA] **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
+
+------------------------------------------------------------------------
+
 ## Règlement
 
 ### Règles Générales
@@ -333,7 +430,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_MA]: /wiki/shared/flag/MA.gif
-[flag_ME]: /wiki/shared/flag/ME.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
