@@ -31,6 +31,8 @@ The **osu! European Tournament 2** (***o!ET 2***) was a European double-eliminat
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
 
+![o!ET 2 Winner Badge - Top Bracket](img/badge-top.png) ![o!ET 2 Winner Badge - Middle Bracket](img/badge-mid.png) ![o!ET 2 Winner Badge - Low Bracket](img/badge-low.png)
+
 ## Organisation
 
 The osu! European Tournament 2 was run by various community members.
