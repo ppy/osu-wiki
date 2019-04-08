@@ -41,7 +41,7 @@ Over time we've seen quite a few competitive standard players dipping their toes
 180 BPM, 1:42 | 1.25★ – 6.32★  
 *written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-It's obvious that this song has been extremely popular among all players, especially after two separate mapsets were Loved in the past, but both were extremely difficult and left out less experienced players whom had little chance at passing them. This mapset by Mr HeliX fixes that, featuring a full mapset with difficulties ranging from 1.25 to 6.32 stars. With guest difficulties from rockstarrzz, Mechanizen and MujouSekai, this mapset is meant to give players from all skill ranges a chance at enjoy the music and having a blast. With two mapsets already Loved, is this a good reason to add a third? You decide in this week's Project Loved! Check out the map don't forget to vote for its chance to be Loved among the rest.
+It's obvious that this song has been extremely popular among all players, especially after two separate mapsets were Loved in the past, but both were extremely difficult and left out less experienced players who had little chance at passing them. This mapset by Mr HeliX fixes that, featuring a full mapset with difficulties ranging from 1.25 to 6.32 stars. With guest difficulties from rockstarrzz, Mechanizen and MujouSekai, this mapset is meant to give players from all skill ranges a chance at enjoy the music and having a blast. With two mapsets already Loved, is this a good reason to add a third? You decide in this week's Project Loved! Check out the map don't forget to vote for its chance to be Loved among the rest.
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/osu/nisemono-chuuihou.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -89,7 +89,7 @@ The song "HAELEQUIN", coming from BMS, then remixed to SVDX II, has been mapped 
 190 BPM, 3:55 | 7.99★  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-Usatei is coming back with a fairly aged map from Damnjelly. In 2015, the map had some minor changes done to it, but it was left alone after some time. The map plays really well even by today's standards and has interesting jumps, note placements and spaced streams. With a fair bit of mix with spaced linear triples the map has, it is fairly captivating for higher skilled players. Are you ready to jump around in this amazing map?
+Usatei is coming back with a fairly aged map from Damnjelly. In 2015, the map had some minor changes done to it, but it was left alone after some time. The map plays really well even by today's standards and has interesting jumps, note placements and spaced streams. With a fair bit of spaced linear triples and a good mix of other patterns, it's fairly captivating for higher-skilled players. Are you ready to jump around in this amazing map?
 
 [![](/wiki/shared/news/2019-04-08-project-loved-week-of-april-7th/osu/hiryuu-no-kishi.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
