@@ -2,7 +2,7 @@
 
 The rules listed here affect what Beatmap Nominators can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them.
 
-These rules are the result of discussion within the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.
+These rules are the result of discussion within the [Nominator Administration Team](/wiki/People/Quality_Assurance_Team) and have taken into account feedback from the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) upon their proposal.
 
 Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the following rules at all times:
 
@@ -10,7 +10,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 Rules are exactly that: **rules.** Violating any of these may get the respective Beatmap Nominator removed permanently from the Beatmap Nominators.
 
-Violations of those rules may be reported to a member of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) directly.
+Violations of those rules may be reported to a member of the [Nominator Administration Team](/wiki/People/Quality_Assurance_Team) directly.
 
 ### General
 
@@ -26,7 +26,7 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **If a bubbled map contains unrankable issues, its bubble must be popped.** This applies even if you do not intend to nominate the mapset.
 + **Do not qualify over any manually popped bubble set by another Beatmap Nominator.** Manually popping bubble resets the bubble counter to zero, so doing this is equivalent to directly qualifying a beatmap without any prior icons.
 + **Make sure no mod posts in the map thread have been ignored before qualifying or bubbling a map.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the mapthread and act accordingly.
-+ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, QAT or otherwise) involved in the ranking process.
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, NAT or otherwise) involved in the ranking process.
 + **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the mapset owner requests it.** 
 + **Qualified beatmaps found with unrankable issues must first be posted to the [Report a Beatmap](https://osu.ppy.sh/community/forums/topics/447428) thread.** If the issue has already been reported by someone else, then you are free to disqualify the beatmap. Beatmaps should not be disqualified without at least two people confirming the issue.
 + **Disqualification requests by the mapset owner can be applied immediately.** 
@@ -45,12 +45,10 @@ Violations of those rules may be reported to a member of the [Quality Assurance 
 + **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the map into question.
 + **Do not qualify a beatmap if any significant changes were made since it was bubbled.** These may include fixing unrankable issues, changes in object snapping, major changes in flow or object placement, alterations to a song’s timing, etc. When in doubt, such beatmaps must be rebubbled first.
 + **Ensure that kudosu is awarded to all posts that deserve it.** Additionally consult the mapper before giving out kudosu to make sure there are not any reasons why the post does not need kudosu (e.g. the modder has received one already for a different post which you overlooked). If the modpost is too old to receive kudosu, consult the modder to make an additional post linking the original he receives kudosu for.
-+ **You must not place any icons besides the star, bubble, bubble pop and heart.** Whilst you are able to set other icons, they are either deprecated and discouraged from use (flame, circle, drum, apple, piano) or reserved for use by the Quality Assurance Team (nuke). If you accidentally set an unwanted icon, contact a QAT immediately or overwrite the icon in case you wanted to post a bubble or heart.
++ **You must not place any icons besides the star, bubble, bubble pop and heart.** Whilst you are able to set other icons, they are either deprecated and discouraged from use (flame, circle, drum, apple, piano) or reserved for use by the Nominator Administration Team (nuke). If you accidentally set an unwanted icon, contact a NAT immediately or overwrite the icon in case you wanted to post a bubble or heart.
 + **Do not nominate a beatmap without properly checking all difficulties of the beatmap all by yourself.** If you are unfamiliar with the game mode some of the difficulties are mapped in, ask fellow Nominators for help. Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 + **You can veto a nominated/qualified beatmap set by posting the issues you think need to be addressed before reaching Ranked status in the form of problems in the respective modding discussion.** This will reset all nominations the beatmap set has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap set. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 + **You must not renominate a map in which your nomination was vetoed, unless the respective vetoing nominator agrees to that action or the veto was dismissed through mediation.** Beatmap Nominators may no longer overrule a beatmap veto, and must instead re-initiate mediation with the beatmap veto passing a dismissal before both they and the initial Beatmap Nominator can nominate (should they wish to do so).
-+ **You are free to pop a rebubble of another nominator if you are not the original bubble popper and disagree with the reasoning for disregarding the bubble pop.** Thus the original popper is unable to overvote two other nominators.
-+ **If the community member(s) requesting disqualification cannot reach an agreement with the mapper and you placed the last bubble or heart on a map, you cannot rebubble or requalify it.** For osu!taiko, osu!catch, osu!mania, and hybrid sets, you may break these conditions once per map due to the low number of nominators.
 + **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
 
 ## Changelog
@@ -91,4 +89,9 @@ _Addition date: 7. April 2019, **in effect immediately**_
 + **You can veto a nominated/qualified beatmap set by posting the issues you think need to be addressed before reaching Ranked status in the form of problems in the respective modding discussion.** This will reset all nominations the beatmap set has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmap set. You must participate in the resulting discussion and attempt to reach a mutual agreement.
 + **You must not renominate a map in which your nomination was vetoed, unless the respective vetoing nominator agrees to that action or the veto was dismissed through mediation.** Beatmap Nominators may no longer overrule a beatmap veto, and must instead re-initiate mediation with the beatmap veto passing a dismissal before both they and the initial Beatmap Nominator can nominate (should they wish to do so).
 
-_Change date: 8. April 2019, **in effect immediately**_
+_Change date: 9. April 2019, **in effect immediately**_
+
++ **You are free to pop a rebubble of another nominator if you are not the original bubble popper and disagree with the reasoning for disregarding the bubble pop.** Thus the original popper is unable to overvote two other nominators.
++ **If the community member(s) requesting disqualification cannot reach an agreement with the mapper and you placed the last bubble or heart on a map, you cannot rebubble or requalify it.** For osu!taiko, osu!catch, osu!mania, and hybrid sets, you may break these conditions once per map due to the low number of nominators.
+
+_Removal date: 9. April 2019, **in effect immediately**_
