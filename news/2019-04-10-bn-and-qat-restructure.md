@@ -3,7 +3,7 @@ layout: post
 title: "BN and QAT Restructure"
 date: 2019-04-10 23:30:00 +0000
 ---
-![](wiki/shared/news/banners/beatmap-management.jpg)
+![](/wiki/shared/news/banners/beatmap-management.jpg)
 
 Changes to the ranking process are nigh! With recent discussions about [changes to the Quality Assurance Team and Beatmap Nominators](https://osu.ppy.sh/community/forums/topics/862002), we are proud to present to you the following changes.
 
