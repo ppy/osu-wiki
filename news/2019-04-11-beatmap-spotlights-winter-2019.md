@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasonal Spotlights: Winter 2019"
-date: 2019-04-11 15:00:00 +0000
+date: 2019-04-11 16:00:00 +0000
 ---
 
 The wind's blowing warmer and the sun's feeling nicer, but we still have some cool beatmaps from the winter to show off! Come take a look at our selection of mapsets from last season, and earn a fancy new medal for yourself by playing them all!
