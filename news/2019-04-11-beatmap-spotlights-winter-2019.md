@@ -251,7 +251,7 @@ Unpredictable brings satisfaction to the players with his difficulty by being co
 
 Tofu1222's and juankristal's bases their difficulties on long notes; something interesting to be in the ranked section! Tofu's difficulty does have some challenges, but they are comfortable to play as the flow is very well executed throughout. Juan's difficulty is rather challenging to the majority of players as there are many tricky holds which you do not often see! The long notes on these two difficulties may seem random, but they all fit perfectly when playing with the song and definitely makes you want to earn a better score.
 
-qqqant fine tunes his difficulty with chord allocation while also accompanied with jacks and bursts. These patterns are rather difficult, but the map is consistent and appeals to the speedy players.
+qqqant fine tunes her difficulty with chord allocation while also accompanied with jacks and bursts. These patterns are rather difficult, but the map is consistent and appeals to the speedy players.
 
 All of these difficulties give a new flair and should definitely be worth a play!
 
