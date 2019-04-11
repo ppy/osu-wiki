@@ -291,7 +291,7 @@ The balance in this map between serenity and chaos perfectly represents the musi
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/relentless.jpg)](https://osu.ppy.sh/beatmapsets/881771)
 
-Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatman Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
+Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
 
 This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since \_Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
 
