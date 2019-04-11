@@ -30,10 +30,12 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat Moderation |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portuguese | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat Moderation |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Chat Moderation |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Chat Moderation, BSS Moderation |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Chat Moderation, BSS Moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat Moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Chat Moderation, Metadata Team |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, BSS Moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat Moderation |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat Moderation |
@@ -42,8 +44,10 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat Moderation |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, Forum Moderation, Chat Moderation |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Forum Moderation |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Chat Moderation, Technical support |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat Moderation |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan | Chat Moderation |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat Moderation, Wiki Administration |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat Moderation |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat Moderation |
@@ -77,6 +81,7 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
