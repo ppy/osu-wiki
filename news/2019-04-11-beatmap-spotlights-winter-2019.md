@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seasonal Spotlights: Winter 2019"
-date: 2019-04-11 15:00:00 +0000
+date: 2019-04-11 16:00:00 +0000
 ---
 
 The wind's blowing warmer and the sun's feeling nicer, but we still have some cool beatmaps from the winter to show off! Come take a look at our selection of mapsets from last season, and earn a fancy new medal for yourself by playing them all!
@@ -251,7 +251,7 @@ Unpredictable brings satisfaction to the players with his difficulty by being co
 
 Tofu1222's and juankristal's bases their difficulties on long notes; something interesting to be in the ranked section! Tofu's difficulty does have some challenges, but they are comfortable to play as the flow is very well executed throughout. Juan's difficulty is rather challenging to the majority of players as there are many tricky holds which you do not often see! The long notes on these two difficulties may seem random, but they all fit perfectly when playing with the song and definitely makes you want to earn a better score.
 
-qqqant fine tunes his difficulty with chord allocation while also accompanied with jacks and bursts. These patterns are rather difficult, but the map is consistent and appeals to the speedy players.
+qqqant fine tunes her difficulty with chord allocation while also accompanied with jacks and bursts. These patterns are rather difficult, but the map is consistent and appeals to the speedy players.
 
 All of these difficulties give a new flair and should definitely be worth a play!
 
@@ -291,7 +291,7 @@ The balance in this map between serenity and chaos perfectly represents the musi
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/relentless.jpg)](https://osu.ppy.sh/beatmapsets/881771)
 
-Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatman Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
+Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
 
 This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since \_Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
 
