@@ -72,8 +72,8 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
-| [RMoT #5](/wiki/Tournaments/RMoT_Invitational/5) | 2018-05-12 | 2018-05-27 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 2017-05-06 | 2017-05-14 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #5](/wiki/Tournaments/RMoTI/5) | 2018-05-12 | 2018-05-27 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
 ### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
 
@@ -90,7 +90,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
-| [SS Tournament 2018](/wiki/Tournaments/SS_Tournament/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
+| [SS Tournament 2018](/wiki/Tournaments/SST/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Tag Team Multiplayer Tournament
 
@@ -126,7 +126,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
-| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2018-11-30 | 2019-01-27 | - | - | - |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba(Top), Makeshift Winners(Mid), not even european(Low) | Almost Allies(Top), singletap is braindead(Mid), Yes (Yes)(Low) | nh9mju0(Top), Phoenix Emperors(Mid), Polish Musketeers(Low) |
 
 ### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
 
@@ -186,7 +186,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| [Catch French Intermediate Cup](/wiki/Tournaments/CFIC_1) | 2019-03-02 | 2019-03-30 | - | - | - |
+| [Catch French Intermediate Cup](/wiki/Tournaments/CFIC_1) | 2019-03-01 | 2019-03-31 | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-05-11 | - | - | - |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup

@@ -40,21 +40,55 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentators | _To be decided_ |
+| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/881546)
-- [Sign-Up for the tournament!](https://osu.ppy.sh/community/tournaments/19)
 - [Livestream](https://www.twitch.tv/osulive)
 
 -----------------------
 
 ## Participants
 
-Players will be displayed after the registration phase is completed.
+### Pending Rosters
+
+| | Country | Members |
+| --: | :-: | :-- |
+| ![][flag_AR] | Argentina | **[gaston_2199](https://osu.ppy.sh/users/5938161)** |
+| ![][flag_AU] | Australia | **[Jaye](https://osu.ppy.sh/users/4841352)** |
+| ![][flag_BR] | Brazil | **[HiroK](https://osu.ppy.sh/users/4050738)** |
+| ![][flag_CA] | Canada | **[janitoreihil](https://osu.ppy.sh/users/3307897)** |
+| ![][flag_CL] | Chile | **[-Kazu-](https://osu.ppy.sh/users/920861)** |
+| ![][flag_CN] | China | **[7jasmine](https://osu.ppy.sh/users/4112195)** |
+| ![][flag_FI] | Finland | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ![][flag_FR] | France | **[Nofool](https://osu.ppy.sh/users/672430)** |
+| ![][flag_DE] | Germany | **[Zetera](https://osu.ppy.sh/users/587737)** |
+| ![][flag_GR] | Greece | **[Genjuro](https://osu.ppy.sh/users/3196091)** |
+| ![][flag_HK] | Hong Kong | **[sing216](https://osu.ppy.sh/users/6096445)** |
+| ![][flag_ID] | Indonesia | **[pmriva](https://osu.ppy.sh/users/2180885)** |
+| ![][flag_IT] | Italy | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
+| ![][flag_JP] | Japan | **[iceOC](https://osu.ppy.sh/users/5482401)** |
+| ![][flag_MY] | Malaysia | **[\[Zeth\]](https://osu.ppy.sh/users/9912966)** |
+| ![][flag_MX] | Mexico | **[Ammy](https://osu.ppy.sh/users/4183406)** |
+| ![][flag_NL] | Netherlands | **[Hypello](https://osu.ppy.sh/users/1594036)** |
+| ![][flag_NZ] | New Zealand | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ![][flag_NO] | Norway | **[Kiwi-P](https://osu.ppy.sh/users/1794766)** |
+| ![][flag_PH] | Philippines | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
+| ![][flag_PL] | Poland | **[Acrith](https://osu.ppy.sh/users/389880)** |
+| ![][flag_PT] | Portugal | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ![][flag_RU] | Russian Federation | **[Dayzeek](https://osu.ppy.sh/users/5009970)** |
+| ![][flag_SG] | Singapore | **[Lalamomo4](https://osu.ppy.sh/users/7609510)** |
+| ![][flag_KR] | South Korea | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ![][flag_ES] | Spain | **[Raiden](https://osu.ppy.sh/users/2239480)** |
+| ![][flag_SE] | Sweden | **[Raphalge](https://osu.ppy.sh/users/3918650)** |
+| ![][flag_CH] | Switzerland | **[Oui](https://osu.ppy.sh/users/5538419)** |
+| ![][flag_TW] | Taiwan | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)** |
+| ![][flag_GB] | United Kingdom | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ![][flag_US] | United States | **[Ney](https://osu.ppy.sh/users/5991961)** |
+| ![][flag_VE] | Venezuela | **[\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739)** |
 
 -----------------------
 
@@ -195,24 +229,31 @@ Map pools will be revealed one week in advance of each stage.
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VE]: /wiki/shared/flag/VE.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PL]: /wiki/shared/flag/PL.gif

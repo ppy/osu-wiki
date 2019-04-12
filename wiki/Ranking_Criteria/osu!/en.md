@@ -57,7 +57,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
 -   **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any or their individual sections unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders which overlap themselves in a way that makes any of their individual sections unreadable or ambiguous cannot be used, such as burai sliders and hold sliders without straightforward slider borders.
 -   **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 
 #### Guidelines
