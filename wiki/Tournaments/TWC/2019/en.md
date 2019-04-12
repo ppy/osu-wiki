@@ -152,7 +152,7 @@ Map pools will be revealed one week in advance of each stage.
 
 ### Stage Instructions
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 3 teams.
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
