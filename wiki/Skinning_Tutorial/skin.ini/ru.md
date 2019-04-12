@@ -1,6 +1,6 @@
 # skin.ini
 
-*См. также: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) и [Скины](https://osu.ppy.sh/help/wiki/Skinning)*
+*См. также: [skin.ini](/wiki/Skinning/skin.ini) и [Скины](/wiki/Skinning)*
 
 ## Что делает skin.ini?
 Файл skin.ini может модифицировать поведение некоторых элементов скина.
@@ -10,7 +10,7 @@
 ### [General]
 + `Name:` Название скина.
 + `Author:` Имя создателя скина (ваше внутриигровое имя).
-+ `Version:` Версия, которую вы хотите использовать. Проверьте [skin.ini](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#versions) для детальной информации о каждой версии.
++ `Version:` Версия, которую вы хотите использовать. Проверьте [skin.ini](/wiki/Skinning/skin.ini#versions) для детальной информации о каждой версии.
 + `AllowSliderBallTint:` Должен ли шар слайдера `sliderb` иметь тот же цвет, что и комбо? Если да, используйте `1`. Если нет, используйте `0`.
 + `CursorRotate:` Должен ли курсор `cursor` вращаться? Если да, используйте `1`. Если нет, используйте `0`.
 + `CursorExpand:` Должен ли курсор `cursor` расширяться, когда игрок кликает? Если да, используйте `1`. Если нет, используйте `0`.

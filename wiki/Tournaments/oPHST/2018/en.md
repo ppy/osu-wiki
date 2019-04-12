@@ -1181,7 +1181,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Warm-up Phase
 
-- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) will be disallowed.  
+- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](/wiki/Rules)) will be disallowed.  
 
 #### Bans and Picks
 
@@ -1265,7 +1265,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualification Criteria (osu!mania)
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed [**Score Rating System**](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed [**Score Rating System**](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
 
 ### Disconnection Clauses
 
