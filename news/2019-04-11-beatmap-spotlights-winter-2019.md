@@ -40,7 +40,7 @@ UndeadCapulet's perseverance, despite all the backlash they received, proves to 
 
 Once again we see [celerih](https://osu.ppy.sh/users/4696296) in Spotlights, but this time he captures the wild essence of Gekidan Record and Nekomata Master’s Houkou Orpheus perfectly with spaced bursts, captivating 1/6 rhythms and exciting doubles. With outstanding guest difficulties by [felys](https://osu.ppy.sh/users/felys) and [Icekalt](https://osu.ppy.sh/users/5410645), this short but rhythmically faithful beatmap is really on another level and something that should absolutely not be overlooked.
 
-[![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/sleepless.jpg)](https://osu.ppy.sh/beatmapsets/842312)
+[![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/sleepless.jpg?)](https://osu.ppy.sh/beatmapsets/842312)
 
 Pairing the dynamic "Sleepless Days" by Nekomata Master with a map just as dynamic, [den0saur](https://osu.ppy.sh/users/5385151) makes another nice entry to spotlights. The varying arranges have you speed up and slow down smoothly, creating a flowing experience that stays close to the song. Even though hard to notice, all this was done while mapping the song backwards! Definitely don't limit yourself to playing only one difficulty. Every guest mapper offers their own unique twist on the same ideas, none of them are worth missing out on.
 
