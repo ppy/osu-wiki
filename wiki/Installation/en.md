@@ -25,7 +25,7 @@ This page will roughly tell you how to get osu! working on your Windows device. 
     
 ### MacOS
 
-- Since the MacOS version of osu! is unofficial, the game may not fuction properly, or even boot at all. 
+The MacOS version of osu! is experimental. The game may not function properly or even boot at all. 
 
 1.  Go to the unofficial [download page](https://osu.ppy.sh/community/forums/topics/682197) and download the installer.
 2.  Locate the installer, right click, and select open.
