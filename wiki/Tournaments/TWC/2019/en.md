@@ -90,9 +90,90 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
+## Match Schedule: Group Stage
+
+### Saturday, 20. April 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_AU] | Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
+| New Zealand | ![][flag_NZ] | ![][flag_KR] | South Korea | **10:00 UTC** | 23:00 UTC+13 | 19:00 UTC+09 |
+| Indonesia | ![][flag_ID] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 17:00 UTC+07 | 18:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
+| France | ![][flag_FR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
+| Spain | ![][flag_ES] | ![][flag_ID] | Indonesia | **11:00 UTC** | 13:00 UTC+02 | 18:00 UTC+07 |
+| Switzerland | ![][flag_CH] | ![][flag_TW] | Taiwan | **12:00 UTC** | 15:00 UTC+03 | 20:00 UTC+08 |
+| Malaysia | ![][flag_MY] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
+| Greece | ![][flag_GR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 15:00 UTC+03 | 19:00 UTC+07 |
+| China | ![][flag_CN] | ![][flag_SE] | Sweden | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **13:00 UTC** | 18:00 UTC+05 | 14:00 UTC+01 |
+| Mexico | ![][flag_MX] | ![][flag_CH] | Switzerland | **16:00 UTC** | 11:00 UTC-05 | 19:00 UTC+03 |
+| Italy | ![][flag_IT] | ![][flag_BR] | Brazil | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
+| Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
+| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_US] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
+| Venezuela | ![][flag_US] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
+| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00 UTC** | 19:00 UTC+01 | 14:00 UTC-04 |
+
+### Sunday, 21. April 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| New Zealand | ![][flag_NZ] | ![][flag_CL] | Chile | **2:00 UTC** | 15:00 UTC+13 | 22:00 (Sat) UTC-04 |
+| Argentina | ![][flag_AR] | ![][flag_JP] | Japan | **2:00 UTC** | 23:00 (Sat) UTC-03 | 11:00 UTC+09 |
+| Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 |
+| Philippines | ![][flag_PH] | ![][flag_CA] | Canada | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
+| Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **4:00 UTC** | 23:00 (Sat) UTC-05 | 12:00 UTC+08 |
+| New Zealand | ![][flag_NZ] | ![][flag_MY] | Malaysia | **4:00 UTC** | 17:00 UTC+13 | 12:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_JP] | Japan | **4:00 UTC** | 12:00 UTC+08 | 13:00 UTC+09 |
+| China | ![][flag_CN] | ![][flag_PL] | Poland | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
+| Sweden | ![][flag_SE] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
+| Spain | ![][flag_ES] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
+| Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Norway | ![][flag_NO] | ![][flag_JP] | Japan | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
+| Greece | ![][flag_GR] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 15:00 UTC+03 | 20:00 UTC+08 |
+| Switzerland | ![][flag_CH] | ![][flag_FR] | France | **13:00 UTC** | 16:00 UTC+03 | 15:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
+| Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 10:00 UTC-04 |
+| Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Greece | ![][flag_GR] | ![][flag_ES] | Spain | **14:00 UTC** | 17:00 UTC+03 | 16:00 UTC+02 |
+| Portugal | ![][flag_PT] | ![][flag_DE] | Germany | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 18:00 UTC+03 | 20:00 UTC+05 |
+| Mexico | ![][flag_MX] | ![][flag_FR] | France | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
+| Norway | ![][flag_NO] | ![][flag_AR] | Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
+| Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **16:00 UTC** | 21:00 UTC+05 | 12:00 UTC-04 |
+| Netherlands | ![][flag_NL] | ![][flag_BR] | Brazil | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
+| Venezuela | ![][flag_US] | ![][flag_IT] | Italy | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+
 ## Mappool
 
-Map pools will be revealed one week in advance of each stage.
+### Group Stage
+
+- NoMod
+    - [Venetian Snares - Szamar Madar \(Xay\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
+    - [Morimori Atsushi + Verdammt - Le Fruit Defendu \(KitajimaYN\) \[Offensive\]](https://osu.ppy.sh/beatmapsets/808011#taiko/1695684)
+    - [MiddleIsland - Delrio \(Nwolf\) \[Mountainside River\]](https://osu.ppy.sh/beatmapsets/917573#taiko/1916185)
+    - [Warak - Cosmic Invaders \(Lno\) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
+- Hidden
+    - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi \(uone\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+    - [Shano x 40mP - Sanpo Michi \(mintong89\) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/62991#taiko/186452)
+- HardRock
+    - [dj MAX STEROID - Arabian Rave Night \(Ascendance\) \[Ozzy's Tatsujin\]](https://osu.ppy.sh/beatmapsets/592980#taiko/1254592)
+    - [Dirty Androids - Egret and Willow \(Nifty\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821745#taiko/1722353)
+- DoubleTime
+    - [M2U - Gypsy Tronic \(Gomo Pslvarh\) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
+    - [ClariS - Surely \(JUDYDANNY\) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
+- FreeMod
+    - [CyoucyoP feat.Hatsune Miku - End of the World \(TKS\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
+    - [cYsmix - Classic Pursuit \(Hanjamon\) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
+    - [S3RL feat Harri Rush - Nostalgic \(Nightcore Mix\) \(nold\_1702\) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
+- Tiebreaker
+    - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ------------------------------------------------------------------------
 
