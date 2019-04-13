@@ -40,7 +40,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
+| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -117,7 +117,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 | Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
 | Venezuela | ![][flag_US] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
-| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00 UTC** | 19:00 UTC+01 | 14:00 UTC-04 |
+| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
 
 ### Sunday, 21. April 2019
 
