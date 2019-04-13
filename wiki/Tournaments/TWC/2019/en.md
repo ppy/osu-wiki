@@ -113,10 +113,10 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Italy | ![][flag_IT] | ![][flag_BR] | Brazil | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_US] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Netherlands | ![][flag_NL] | ![][flag_VE] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 | Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 | Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
-| Venezuela | ![][flag_US] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
+| Venezuela | ![][flag_VE] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
 
 ### Sunday, 21. April 2019
@@ -148,7 +148,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Norway | ![][flag_NO] | ![][flag_AR] | Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **16:00 UTC** | 21:00 UTC+05 | 12:00 UTC-04 |
 | Netherlands | ![][flag_NL] | ![][flag_BR] | Brazil | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
-| Venezuela | ![][flag_US] | ![][flag_IT] | Italy | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Venezuela | ![][flag_VE] | ![][flag_IT] | Italy | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
 | Germany | ![][flag_DE] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 
 ## Mappool
