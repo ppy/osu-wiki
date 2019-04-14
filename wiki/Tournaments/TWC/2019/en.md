@@ -40,7 +40,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
+| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -103,21 +103,21 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
 | France | ![][flag_FR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
 | Spain | ![][flag_ES] | ![][flag_ID] | Indonesia | **11:00 UTC** | 13:00 UTC+02 | 18:00 UTC+07 |
-| Switzerland | ![][flag_CH] | ![][flag_TW] | Taiwan | **12:00 UTC** | 15:00 UTC+03 | 20:00 UTC+08 |
+| Switzerland | ![][flag_CH] | ![][flag_TW] | Taiwan | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Malaysia | ![][flag_MY] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
 | Greece | ![][flag_GR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 15:00 UTC+03 | 19:00 UTC+07 |
 | China | ![][flag_CN] | ![][flag_SE] | Sweden | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **13:00 UTC** | 18:00 UTC+05 | 14:00 UTC+01 |
-| Mexico | ![][flag_MX] | ![][flag_CH] | Switzerland | **16:00 UTC** | 11:00 UTC-05 | 19:00 UTC+03 |
+| Mexico | ![][flag_MX] | ![][flag_CH] | Switzerland | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_BR] | Brazil | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_US] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
-| Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Netherlands | ![][flag_NL] | ![][flag_VE] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 13:00 UTC-04 |
 | Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
-| Venezuela | ![][flag_US] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
-| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00 UTC** | 19:00 UTC+01 | 14:00 UTC-04 |
+| Venezuela | ![][flag_VE] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
+| United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
 
 ### Sunday, 21. April 2019
 
@@ -136,19 +136,19 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_JP] | Japan | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
 | Greece | ![][flag_GR] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 15:00 UTC+03 | 20:00 UTC+08 |
-| Switzerland | ![][flag_CH] | ![][flag_FR] | France | **13:00 UTC** | 16:00 UTC+03 | 15:00 UTC+02 |
+| Switzerland | ![][flag_CH] | ![][flag_FR] | France | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 10:00 UTC-04 |
 | Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
 | Greece | ![][flag_GR] | ![][flag_ES] | Spain | **14:00 UTC** | 17:00 UTC+03 | 16:00 UTC+02 |
-| Portugal | ![][flag_PT] | ![][flag_DE] | Germany | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Portugal | ![][flag_PT] | ![][flag_DE] | Germany | **15:00 UTC** | 16:00 UTC+01 | 17:00 UTC+02 |
 | Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 18:00 UTC+03 | 20:00 UTC+05 |
 | Mexico | ![][flag_MX] | ![][flag_FR] | France | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_AR] | Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **16:00 UTC** | 21:00 UTC+05 | 12:00 UTC-04 |
 | Netherlands | ![][flag_NL] | ![][flag_BR] | Brazil | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
-| Venezuela | ![][flag_US] | ![][flag_IT] | Italy | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Venezuela | ![][flag_VE] | ![][flag_IT] | Italy | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
 | Germany | ![][flag_DE] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 
 ## Mappool
