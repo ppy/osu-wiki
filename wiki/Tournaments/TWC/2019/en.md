@@ -107,14 +107,14 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Malaysia | ![][flag_MY] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
 | Greece | ![][flag_GR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 15:00 UTC+03 | 19:00 UTC+07 |
 | China | ![][flag_CN] | ![][flag_SE] | Sweden | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **13:00 UTC** | 18:00 UTC+05 | 14:00 UTC+01 |
 | Mexico | ![][flag_MX] | ![][flag_CH] | Switzerland | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_BR] | Brazil | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | Netherlands | ![][flag_NL] | ![][flag_VE] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
-| Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 13:00 UTC-04 |
 | Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
 | Venezuela | ![][flag_VE] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
@@ -142,7 +142,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 10:00 UTC-04 |
 | Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
 | Greece | ![][flag_GR] | ![][flag_ES] | Spain | **14:00 UTC** | 17:00 UTC+03 | 16:00 UTC+02 |
-| Portugal | ![][flag_PT] | ![][flag_DE] | Germany | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Portugal | ![][flag_PT] | ![][flag_DE] | Germany | **15:00 UTC** | 16:00 UTC+01 | 17:00 UTC+02 |
 | Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 18:00 UTC+03 | 20:00 UTC+05 |
 | Mexico | ![][flag_MX] | ![][flag_FR] | France | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_AR] | Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
