@@ -14,7 +14,7 @@ Glossary
 ### General Terms
 
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
-- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why violating the guideline does not interfere with the overall quality of the creation.
+- **Guidelines:** Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 ### Beatmapset
 
@@ -140,7 +140,7 @@ Glossary
 ### Rules
 #### Technical
 - **Metadata must be consistent across all difficulties of a beatmapset.**
-- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces should replace whitespaces with underscores.
+- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.

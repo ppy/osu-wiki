@@ -1,7 +1,7 @@
 osu!
 ======
 
-The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why violating the guideline does not interfere with the overall quality of the creation.
+The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
@@ -54,7 +54,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
 -   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
 -   **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
--   **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has fully transparent `sliderendcircle.png`/`sliderendcircleoverlay.png` skin elements.
+-   **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 -   **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 -   **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
@@ -107,12 +107,10 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 -  **Spinner recovery time should be at least 4 beats.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Avoid spinners less than 4 beats.** Players need time to recognize that they have to begin spinning.
--  **Avoid fully covering slider reverse arrows with hitobjects within 4 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+-  **Avoid fully covering slider reverse arrows with hit objects within 4 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 -  **Avoid perfectly overlapping slider bodies within 4 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
-
-
 
 #### Difficulty Setting Guidelines
 
@@ -139,7 +137,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 -  **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
--  **Avoid fully covering slider reverse arrows with hitobjects within 3 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+-  **Avoid fully covering slider reverse arrows with hit objects within 3 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 -  **Avoid perfectly overlapping slider bodies within 3 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
@@ -172,7 +170,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Avoid mixing 1/2 and 1/4 rhythms in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
 -  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 -  **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
--  **Avoid fully covering slider reverse arrows with hitobjects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
+-  **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 -  **Avoid perfectly overlapping slider bodies within 2 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
 #### Difficulty Setting Guidelines
