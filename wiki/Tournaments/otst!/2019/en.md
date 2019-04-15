@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2019 Logo](img/logo.png)
 
-The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It features a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It is the third installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third installment of the osu! TV Size Tournament.
 
 ## Tournament Schedule
 
@@ -17,12 +17,11 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination 
 | Registration Phase | 2019-01-26/2019-02-10 |
 | Live Drawings | 2019-02-23 (14:00 UTC) |
 | Group Stage | 2019-03-02/2019-03-11 |
-| Round of 32 | 2019-03-16/2019-03-17 |
-| Round of 16 | 2019-03-23/2019-03-24 |
-| Quarterfinals | 2019-03-30/2019-03-31 |
-| Semifinals | 2019-04-06/2019-04-07 |
-| Finals | 2019-04-13/2019-04-14 |
-| Grand Finals | 2019-04-20 |
+| Round of 16 | 2019-03-16/2019-03-17 |
+| Quarterfinals | 2019-03-23/2019-03-24 |
+| Semifinals | 2019-03-30/2019-03-31 |
+| Finals | 2019-04-05/2019-04-07 |
+| Grand Finals | 2019-04-13/2019-04-14 |
 
 ## Prizes
 
@@ -34,7 +33,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) is a double-elimination 
 
 ## Organisation
 
-The osu! TV Size Tournament 2019 is run by various osu! community members.
+The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -108,27 +107,111 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 -----------------------
 
-## Match Schedules: Round of 16
+## Podium
 
-### Saturday, 16 March 2019
+ This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| #W11 | =yahe | canvas garden | **12:00** |
-| #W12 | Rubber Conquest | bruh | **14:00** |
-| #W13 | Riven small PP | HDcarryEmertxE | **17:00** |
-| #W16 | Hotel for Lolis | Raise My PeePee | **22:00** |
+| Placing | Team |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Floating up |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Rubber Conquest |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | #arsecrackers |
 
-### Sunday, 17 March 2019
-
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| #W14 | #arsecrackers | Valhalla | **12:00** |
-| #W18 | Floating up | Roselia | **16:00** |
-| #W17 | osu | BRATVA I KOLCO | **19:00** |
-| #W15 | derust | la profanacion | **20:00** |
+-----------------------
 
 ## Mappools
+
+### Finals
+
+**This mappool was played in Finals and Grand Finals.**
+
+**[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk)**
+
+- NoMod
+  - [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
+  - [Toromaru - Enigma (Avena) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+  - [Shibayan - Playful (Snow Note) \[Exceed\]](https://osu.ppy.sh/beatmapsets/111357#osu/289707)
+  - [Camellia feat. Nanahira - Amor De Verao (Mir) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/746316#osu/1573999)
+- Hidden
+  - [Akiyama Uni - Broken Moon (Regou) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+  - [Ocelot - YUKARI (Taeyang) \[Hentai mapper Taeyang's style\]](https://osu.ppy.sh/beatmapsets/336802#osu/768781)
+  - [sakuzyo - AXION (Skystar) \[Skystar's Expert\]](https://osu.ppy.sh/beatmapsets/115193#osu/336229)
+- HardRock
+  - [Camellia - overcomplexification (-Tochi) \[-Tochi's Complex\]](https://osu.ppy.sh/beatmapsets/378212#osu/863563)
+  - [HyuN - White Aura (Delis) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/891333#osu/1863199)
+  - [Yooh - LegenD. (Reol, Len) \[ReoLen's InfinitE.\]](https://osu.ppy.sh/beatmapsets/396839#osu/878756)
+- DoubleTime
+  - [Eoin O' Broin - Deep Space (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
+  - [MiddleIsland - Aldo (AngelHoney) \[AngelHoney\]](https://osu.ppy.sh/beatmapsets/72767#osu/289256)
+  - [M2U - Lunatic Sky (Hakurei Yoru) \[Yoru's Insane\]](https://osu.ppy.sh/beatmapsets/431971#osu/936769)
+- FreeMod
+  - [penoreri - Everlasting Message (sukiNathan) \[Nathan's GRAVITY\]](https://osu.ppy.sh/beatmapsets/302447#osu/716020)
+  - [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  - [Eisyo-kobu - Oriental Blossom (LunaSaika) \[Oriental Dance\]](https://osu.ppy.sh/beatmapsets/592950#osu/1254652)
+- Tiebreaker
+  - **[Kokonatsu - Kokonatsu wa Yume no Katachi (Reya) \[Coconut\]](https://osu.ppy.sh/beatmapsets/554093#osu/1173138)**
+  - **[Kitsune^2 - Rainbow Tylenol (Blue Dragon) \[Hell\]](https://osu.ppy.sh/beatmapsets/20789#osu/72585)**
+  - **[Kaneko Chiharu - iLLness LiLin (Akali) \[Akali's GRAVITY\]](https://osu.ppy.sh/beatmapsets/634147#osu/1345671)**
+
+### Semifinals
+
+**[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw)**
+
+- NoMod
+  - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Entsetzen\]](https://osu.ppy.sh/beatmapsets/581787#osu/1543159)
+  - [Euchaeta - Kokoro (kwk) \[Special\]](https://osu.ppy.sh/beatmapsets/464864#osu/1013338)
+  - [CELLON. - Labyrinth of Darkness (Mun) \[Mun's Extreme\]](https://osu.ppy.sh/beatmapsets/778383#osu/1657931)
+- Hidden
+  - [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
+  - [Nekomata Master - Izanami's wail (Xilver) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
+  - [Sota Fujimori - polygon (-PC) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
+- HardRock
+  - [KillerBlood - Something Spicy (My Angel Azusa) \[Spicy\]](https://osu.ppy.sh/beatmapsets/569320#osu/1206875)
+  - [sakuzyo - Neurotoxin (Sharlo) \[Sharlo's Another\]](https://osu.ppy.sh/beatmapsets/198380#osu/516785)
+  - [Seiryu - Critical Crystal (wa\_) \[wa's Extra\]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
+- DoubleTime
+  - [My Bloody Valentine - You Made Me Realise (dsco) \[Insane\]](https://osu.ppy.sh/beatmapsets/754498#osu/1596960)
+  - [Beatdrop - Phase 1 (rickyboi) \[Insane\]](https://osu.ppy.sh/beatmapsets/54511#osu/167819)
+  - [xi feat. Sta - Tiferet (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
+- FreeMod
+  - [GET IN THE RING - Moonscraper (Seni) \[Seni's Expert\]](https://osu.ppy.sh/beatmapsets/855735#osu/1799497)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
+  - [PUP - Mabu (Milan-) \[Milan-'s Expert\]](https://osu.ppy.sh/beatmapsets/762836#osu/1606045)
+- Tiebreaker
+  - **[goreshit - thinking of you (Silverboxer) \[ar9.7\]](https://osu.ppy.sh/beatmapsets/426890#osu/921620)**
+  - **[Kurahashi Yoeko - Tomodachi no Uta (Shirasaka Koume) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/845272#osu/1768093)**
+  - **[Camellia - Chirality (Suzuki\_1112) \[Horizon\]](https://osu.ppy.sh/beatmapsets/692068#osu/1464448)**
+
+### Quarterfinals
+
+**[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA)**
+
+- NoMod
+  - [XX:me - escape (TV Size) (Mir) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/782869#osu/1645687)
+  - [dj TAKA - Elpis (Maddy) \[Kaiden\]](https://osu.ppy.sh/beatmapsets/93450#osu/252103)
+  - [Toromaru - Sourire (N a s y a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/365195#osu/801585)
+  - [jioyi - Platinum (Mir) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/553237#osu/1389757)
+- Hidden
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)
+  - [MIYAVI vs. KenKen - Flashback (TV Size) (IceKalt) \[FlashbacK\]](https://osu.ppy.sh/beatmapsets/745270#osu/1571245)
+  - [ParagonX9 - Chaoz Japan (Mustaash) \[Chaos\]](https://osu.ppy.sh/beatmapsets/31115#osu/102441)
+- HardRock
+  - [Aoi - aterlbus (Suzuki\_1112) \[1112's INSANE\]](https://osu.ppy.sh/beatmapsets/682002#osu/1481207)
+  - [96neko - Uso no Hibana (Sonnyc) \[Insane\]](https://osu.ppy.sh/beatmapsets/559483#osu/1183233)
+  - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
+- DoubleTime
+  - [EBICO & jioyi - Slit (Megurine Luka) \[Hyper\]](https://osu.ppy.sh/beatmapsets/301422#osu/675916)
+  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
+  - [Reol - drop pop candy (walaowey) \[Walao's Lovestruck\]](https://osu.ppy.sh/beatmapsets/754505#osu/1601353)
+- FreeMod
+  - [SUMMONERS 2+ - DeCIDE (TV Size) (\_kotachi\_) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/834946#osu/1749064)
+  - [Akiyama Uni - Kanpan Tasogare Shinbun (09kami) \[Extra\]](https://osu.ppy.sh/beatmapsets/388036#osu/848084)
+  - [DJ YOSHITAKA feat.A/I - CaptivAte~Sabaki\~ (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/38074#osu/122042)
+- Tiebreaker
+  - **[HyuN feat. YURI - Disorder (lcfc) \[Forever\]](https://osu.ppy.sh/beatmapsets/891632#osu/1864007)**
+  - **[SHK - Holic (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/377869#osu/827223)**
+  - **[P\*Light - 2 MINUTES FIGHTERS (F D Flourite) \[Flourite's INFINITE\]](https://osu.ppy.sh/beatmapsets/542163#osu/1150555)**
 
 ### Round of 16
 
@@ -186,9 +269,82 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 
 ## Match Results
 
+### Grand Finals
+
+| Saturday, 2019-04-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Rubber Conquest** | **7** | 2 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50969219) |
+
+| Sunday, 2019-04-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Floating up** | **7** | 4 | Rubber Conquest | [#1](https://osu.ppy.sh/community/matches/51001074) |
+
+### Finals
+
+| Friday, 2019-04-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **#arsecrackers** | **7** | 0 | osu | [#1](https://osu.ppy.sh/community/matches/50772401) |
+
+| Saturday, 2019-04-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| la profanacion | 0 | **7** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50785429) |
+| Rubber Conquest | 6 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50797248) |
+
+| Sunday, 2019-04-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **#arsecrackers** | **7** | 1 | =yahe | [#1](https://osu.ppy.sh/community/matches/50825991) |
+
+### Semifinals
+
+| Saturday, 2019-03-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Hotel for Lolis | 0 | **6** | **HDcarryEmertxE** | -win by default- |
+| **=yahe** | **6** | 2 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50634229) |
+| la profanacion | 0 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50640225) |
+| **Rubber Conquest** | **6** | 1 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50639980) |
+| **osu** | **6** | 0 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50643782) |
+| **Riven small PP** | **6** | 0 | derust | [#1](https://osu.ppy.sh/community/matches/50646961) |
+
+| Sunday, 2019-03-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Riven small PP | 5 | **6** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50656022) |
+| **osu** | **6** | 4 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50669409) |
+
+### Quarterfinals
+
+| Saturday, 2019-03-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| =yahe | 2 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/50460029) |
+| osu | 3 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50470080) |
+| **HDcarryEmertxE** | **6** | 1 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50471993) |
+| Riven small PP | 5 | **6** | **#arsecrackers** | [#1](https://osu.ppy.sh/community/matches/50479946) |
+| **la profanacion** | **6** | 4 | Hotel for Lolis | [#1](https://osu.ppy.sh/community/matches/50482893) |
+
+| Sunday, 2019-03-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **canvas garden** | **6** | 0 | bruh | -win by default- |
+| **BRATVA I KOLCO** | **6** | 0 | Roselia | -win by default- |
+| **derust** | **6** | 0 | Raise My PeePee | -win by default- |
+
+### Round of 16
+
+| Saturday, 2019-03-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **=yahe** | **5** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50300937) |
+| **Rubber Conquest** | **5** | 1 | bruh | [#1](https://osu.ppy.sh/community/matches/50304223) |
+| **Riven small PP** | **5** | 1 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50308416) |
+| **osu** | **5** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50313531) |
+
+| Sunday, 2019-03-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **#arsecrackers** | **5** | 3 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50333220) |
+| **Floating up** | **5** | 0 | Roselia | [#1](https://osu.ppy.sh/community/matches/50339271) |
+| derust | 4 | **5** | **la profanacion** | [#1](https://osu.ppy.sh/community/matches/50346076) |
+| **Hotel for Lolis** | **5** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50347544) |
+
 ### Group Stage
 
-| Group | Saturday, 2018-03-02 |  |  |  |  |
+| Group | Saturday, 2019-03-02 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
@@ -197,7 +353,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | B | **Rubber Conquest** | **4** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/49975294) |
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
-| Group | Sunday, 2018-03-03 |  |  |  |  |
+| Group | Sunday, 2019-03-03 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
@@ -213,14 +369,14 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | C | **Fine Lady Squad** | **4** | 1 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50002529) |
 | D | **#arsecrackers** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50002657) |
 
-| Group | Monday, 2018-03-04 |  |  |  |  |
+| Group | Monday, 2019-03-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | C | **Riven small PP** | **4** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50009003) |
 | D | **la profanacion** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50012995) |
 | D | **la profanacion** | **4** | 1 | tibi saised | [#1](https://osu.ppy.sh/community/matches/50014006) |
 | C | **Raise My PeePee** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50014778) |
 
-| Group | Saturday, 2018-03-09 |  |  |  |  |
+| Group | Saturday, 2019-03-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | E | derust | 1 | **4** | **Restricted Mode** | [#1](https://osu.ppy.sh/community/matches/50128761) |
 | F | Viva Franc0 | 0 | **4** | **HDcarryEmertxE** | [#1](https://osu.ppy.sh/community/matches/50139948) |
@@ -233,7 +389,7 @@ The osu! TV Size Tournament 2019 is run by various osu! community members.
 | G | **osu** | **4** | 0 | AGO DIMENSIONS | [#1](https://osu.ppy.sh/community/matches/50155420) |
 | E | **Restricted Mode** | **4** | 1 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50155843) |
 
-| Group | Sunday, 2018-03-10 |  |  |  |  |
+| Group | Sunday, 2019-03-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
 | H | **Gruuuu** | **4** | 0 | Farmers | -win by default- |
