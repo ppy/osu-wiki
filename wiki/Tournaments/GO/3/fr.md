@@ -15,7 +15,7 @@ Le **Game\_Osu Tourney 3** (**GO 3**) est un tournoi international 1v1 sur osu! 
 | Évènement | Dates |
 | --: | :-- |
 | Phase d'inscription | 2019-02-16/2019-03-04 |
-| Tirage au sort en direct | 2019-03-04 (20:00 UTC+0) |
+| Tirage au sort en direct | 2019-03-04 (20:00 UTC) |
 | Qualifications | 2019-03-09/2019-03-10 |
 | 32èmes de finale | 2019-03-22/2019-03-24 |
 | 16èmes de finale | 2019-03-27/2019-04-01 |
@@ -140,6 +140,28 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | #737 | ![][flag_MY] | [Rampax](https://osu.ppy.sh/users/3995630) |
 | #766 | ![][flag_MX] | [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] | [GladiOol](https://osu.ppy.sh/users/23326) |
+
+-----------------------
+
+## Planning des matches: Demi-finales
+
+### Samedi, 20 Avril 2019
+
+| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #113 | WalkingTuna | ![][flag_KR] | ![][flag_PL] | MrBooM | **13:00** |
+| #114 | Musty | ![][flag_FR] | ![][flag_FR] | NerO | **17:00** |
+| #115 | Koba | ![][flag_IT] | ![][flag_US] | Apraxia | **19:00** |
+| #116 | DigitalHypno | ![][flag_US] | ![][flag_US] | Vaxei | **21:00** |
+
+### Dimanche, 21 Avril 2019
+
+| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #120 | idke | ![][flag_US] | ![][flag_HK] | DenierNezzar | **05:00** |
+| #117 | Gagnant du #113 |  |  | Gagnant du #114 | **14:00** |
+| #119 | WubWoofWolf | ![][flag_PL] | ![][flag_GB] | Bubbleman | **18:00** |
+| #118 | Gagnant du #115 |  |  | Gagnant du #116 | **20:00** |
 
 -----------------------
 
@@ -345,7 +367,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 
 | Lundi, 2019-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| -Roxas ![][flag_GB] |  |  | ![][flag_FR] NerO | [#1]() |
+| -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### 8èmes de finale
 

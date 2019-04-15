@@ -15,7 +15,7 @@ The **Game\_Osu Tourney 3** (**GO 3**) is a [Logitech](https://www.logitech.com/
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-02-16/2019-03-04 |
-| Live Drawings | 2019-03-04 (20:00 UTC+0) |
+| Live Drawings | 2019-03-04 (20:00 UTC) |
 | Qualifiers Stage | 2019-03-16/2019-03-17 |
 | Round of 64 | 2019-03-22/2019-03-24 |
 | Round of 32 | 2019-03-27/2019-04-01 |
@@ -140,6 +140,28 @@ The Game\_Osu Tourney 3 is run by various community members.
 | #737 | ![][flag_MY] | [Rampax](https://osu.ppy.sh/users/3995630) |
 | #766 | ![][flag_MX] | [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] | [GladiOol](https://osu.ppy.sh/users/23326) |
+
+-----------------------
+
+## Match Schedules: Semifinals
+
+### Saturday, 20 April 2019
+
+| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #113 | WalkingTuna | ![][flag_KR] | ![][flag_PL] | MrBooM | **13:00** |
+| #114 | Musty | ![][flag_FR] | ![][flag_FR] | NerO | **17:00** |
+| #115 | Koba | ![][flag_IT] | ![][flag_US] | Apraxia | **19:00** |
+| #116 | DigitalHypno | ![][flag_US] | ![][flag_US] | Vaxei | **21:00** |
+
+### Sunday, 21 April 2019
+
+| Match ID | Player A |  |  | Player B | Match Time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #120 | idke | ![][flag_US] | ![][flag_HK] | DenierNezzar | **05:00** |
+| #117 | Winner of #113 |  |  | Winner of #114 | **14:00** |
+| #119 | WubWoofWolf | ![][flag_PL] | ![][flag_GB] | Bubbleman | **18:00** |
+| #118 | Winner of #115 |  |  | Winner of #116 | **20:00** |
 
 -----------------------
 
@@ -345,7 +367,7 @@ The Game\_Osu Tourney 3 is run by various community members.
 
 | Monday, 2019-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| -Roxas ![][flag_GB] |  |  | ![][flag_FR] NerO | [#1]() |
+| -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### Round of 16
 
