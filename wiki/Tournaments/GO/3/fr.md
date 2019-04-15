@@ -1,17 +1,14 @@
 ---
 tags:
-- '#Game_Osu Tourney 3'
-- '#GO 3'
-- '#GO3'
 - Game_Osu Tourney 3
 - GO 3
 - GO3
 ---
-# #Game_Osu Tourney 3
+# Game_Osu Tourney 3
 
-![#GO 3 Logo](img/logo.png)
+![GO 3 Logo](img/logo.png)
 
-Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/ "Logitech website") et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
+Le **Game\_Osu Tourney 3** (**GO 3**) est un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/ "Logitech website") et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
 
 ## Dates du tournoi
 
@@ -20,10 +17,10 @@ Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu
 | Phase d'inscription | 2019-02-16/2019-03-04 |
 | Tirage au sort en direct | 2019-03-04 (20:00 UTC+0) |
 | Qualifications | 2019-03-09/2019-03-10 |
-| 32èmes de finale | 2019-03-23/2019-03-24 |
-| 16èmes de finale | 2019-03-30/2019-03-31 |
-| 8èmes de finale | 2019-04-06/2019-04-07 |
-| Quarts-de-finale | 2019-04-13/2019-04-14 |
+| 32èmes de finale | 2019-03-22/2019-03-24 |
+| 16èmes de finale | 2019-03-27/2019-04-01 |
+| 8èmes de finale | 2019-04-04/2019-04-08 |
+| Quarts-de-finale | 2019-04-11/2019-04-15 |
 | Demi-finales | 2019-04-20/2019-04-21 |
 | Finales | 2019-04-27/2019-04-28 |
 | Grandes Finales | 2019-04-28 |
@@ -42,7 +39,7 @@ Le **#Game\_Osu Tourney 3** (**#GO 3**) est un tournoi international 1v1 sur osu
 
 ## Staff du tournoi
 
-La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
+La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -51,29 +48,31 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | Sélectionneur de map | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
 | Designer | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Streamers | ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
-| Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948) |
-| Arbitres | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Tigre de poche](https://osu.ppy.sh/users/5410201), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_DE] [AFKBRB](https://osu.ppy.sh/users/8449331) |
+| Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_US] [BossG4m3r](https://osu.ppy.sh/users/7677585), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955) |
+| Arbitres | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Tigre de poche](https://osu.ppy.sh/users/5410201), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_DE] [AFKBRB](https://osu.ppy.sh/users/8449331) |
 | Statisticien | ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
 | Développeurs | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_SE] [AntoN](https://osu.ppy.sh/users/2538562), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
-*Un grand merci à ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), and ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) qui ont bien servi leur rôle avant de quitter le projet.*
+*Un grand merci à kymutsojason, ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), and ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) qui ont bien servi leur rôle avant de quitter le projet.*
 
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/869989)
-- [Serveur Discord du #GO](https://discord.gg/trnFByC)
-- [Chaîne Youtube du #GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
-- [Tableaux Challonge du #GO](https://challonge.com/gameosu)
+- [Serveur Discord du GO](https://discord.gg/trnFByC)
+- [Chaîne Youtube du GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
+- [Tableaux Challonge du GO](https://challonge.com/gameosu)
 - [Site Internet](https://www.gameosu.com/)
 - Livestream
-  - [#Game\_Osu (EN)](https://www.twitch.tv/gameosu)
+  - [Game\_Osu (EN)](https://www.twitch.tv/gameosu)
   - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
-  - [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
+  - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
 
 -----------------------
 
 ## Participants
+
+*Note: Le "Badge-weighted seeding" (BWS) est utilisé dans ce tournoi pour représenter le plus précisément possible le niveau des joueurs et éviter les restrictions au rang classiques. C'est un algorithme qui prend en compte le nombre de victoires en tournois officiels (par les badges) qu'un joueur possède, et également son classement mondial. Voir le site du Game\_Osu plus haut pour plus de détails.*
 
 | Classement BWS |  | Joueur |
 | :-: | :-: | :-- |
@@ -109,7 +108,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | #68.70 | ![][flag_GB] | [-Roxas](https://osu.ppy.sh/users/1986262) |
 | #68.86 | ![][flag_FR] | [NerO](https://osu.ppy.sh/users/1545031) |
 | #82 | ![][flag_SG] | [Demonical](https://osu.ppy.sh/users/5447609) |
-| #84 | ![][flag_PL] | [mastasz](https://osu.ppy.sh/users/1876565) |
+| #84 | ![][flag_PL] | [Mastasz](https://osu.ppy.sh/users/1876565) |
 | #101.97 | ![][flag_US] | [Mathyu](https://osu.ppy.sh/users/6303313) |
 | #112.27 | ![][flag_DE] | [imagaK](https://osu.ppy.sh/users/2022445) |
 | #120 | ![][flag_IT] | [-Syncro](https://osu.ppy.sh/users/4338923) |
@@ -142,11 +141,69 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | #766 | ![][flag_MX] | [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] | [GladiOol](https://osu.ppy.sh/users/23326) |
 
-*Note: Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. See the #Game\_Osu website linked above for more details.*
-
 -----------------------
 
 ## Liste des maps
+
+### Demi-finales
+
+**[Téléchargez le mappack ici! (134 MB)](https://drive.google.com/file/d/1DHQeb__mNIgMiWkpI92aUKsJ9eJrox_0/view)**
+
+- NoMod
+  - [DJ TOTTO - Crystalia (Xenok, \[Hiiro Sakaki\]) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
+  - [Hanatan - Kagerou Variation (RLC) \[Haze\]](https://osu.ppy.sh/beatmapsets/351629#osu/775513)
+  - [CROSS VEIN - forget-me-not (Kite) \[Myosotis\]](https://osu.ppy.sh/beatmapsets/729738#osu/1540269)
+  - [Co shu Nie - Character (semaphore) \[Disposition\]](https://osu.ppy.sh/beatmapsets/943104#osu/1969471)
+  - [DJKurara - Goodbye (EijiKuinbii) \[SEVEN COLORS\]](https://osu.ppy.sh/beatmapsets/866436#osu/1811477)
+  - [Camellia - Ultimate Ascension (Sing) \[debug\]](https://osu.ppy.sh/beatmapsets/514342#osu/1843663)
+- Hidden
+  - [Mili - Rightfully (Okoratu) \[Screw the Dice\]](https://osu.ppy.sh/beatmapsets/875117#osu/1828903)
+  - [succducc - me & u (Nokris) \[Sensei\]](https://osu.ppy.sh/beatmapsets/731064#osu/1542899)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+- HardRock
+  - [Feryquitous - Dille (Linada) \[Ambitious\]](https://osu.ppy.sh/beatmapsets/551486#osu/1168109)
+  - [Feryquitous feat. Aitsuki Nakuru - Kairikou (Skystar) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
+  - [EGOIST - RELOADED (handsome) \[RECOIL\]](https://osu.ppy.sh/beatmapsets/380143#osu/831868)
+- DoubleTime
+  - [ALiCE'S EMOTiON - Mami Mami Zone (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43728#osu/147377)
+  - [dark cat - BUBBLE TEA (feat. juu & cinders) (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/716213#osu/1513230)
+  - [fripSide - an evening calm (pappl e 104) \[Sunset\]](https://osu.ppy.sh/beatmapsets/848285#osu/1773928)
+- FreeMod
+  - [DragonForce - Ashes of the Dawn (pw384) \[Extra\]](https://osu.ppy.sh/beatmapsets/786141#osu/1650328)
+  - [Mitani Nana - Inochi Mijikashi Koiseyo Otome (Skystar) \[Insane\]](https://osu.ppy.sh/beatmapsets/125511#osu/319499)
+  - [Eisyo-kobu - Oriental Blossom (Karen) \[Karen's Extra\]](https://osu.ppy.sh/beatmapsets/586889#osu/1242790)
+- Tiebreaker
+  - **[Unlucky Morpheus - Angreifer (Scarsnic) \[Zeitlos\]](https://osu.ppy.sh/beatmapsets/581468#osu/1230741)**
+
+### Quarts-de-finale
+
+**[Téléchargez le mappack ici! (163 MB)](https://drive.google.com/file/d/163fuC05dewoY5lRcmUi2zNQ66mRQCJ2C/view)**
+
+- NoMod
+  - [Luschka - unravel (NeilPerry) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/731933#osu/1603296)
+  - [ayaponzu\* - Yakubyougami (Asahina Momoko) \[momoko's Extra\]](https://osu.ppy.sh/beatmapsets/501001#osu/1361574)
+  - [cordelia - Setsuna Imitation (Zweib) \[S\]](https://osu.ppy.sh/beatmapsets/348590#osu/768959)
+  - [-45 - Midorigo Queen Bee (EijiKuinbii) \[EijiKuinbii's Expert\]](https://osu.ppy.sh/beatmapsets/812792#osu/1791372)
+  - [Camellia - Routing (Mir) \[Reverb\]](https://osu.ppy.sh/beatmapsets/663255#osu/1403907)
+  - [Shimotsuki Haruka - Byakuya Gensoutan (yf\_bmp) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/667097#osu/1415403)
+- Hidden
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
+  - [Camellia - The King Of Lions (Regou) \[Extra\]](https://osu.ppy.sh/beatmapsets/885923#osu/1852786)
+  - [Mameyudoufu - Call My Name feat. Yukacco (Nines) \[Reach for my hand and never let go\]](https://osu.ppy.sh/beatmapsets/824872#osu/1728500)
+- HardRock
+  - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) - (moph) \[Extra\]](https://osu.ppy.sh/beatmapsets/697102#osu/1476604)
+  - [Tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
+  - [PUP - Mabu (Hobbes2) \[Extreme\]](https://osu.ppy.sh/beatmapsets/762836#osu/1603957)
+- DoubleTime
+  - [Hatsunetsumiko's - Two Fates (happy30) \[Destiny\]](https://osu.ppy.sh/beatmapsets/301400#osu/675854)
+  - [KikuoHana - Nobore! Susume! Takai Tou (Azure) \[Azure's Insane\]](https://osu.ppy.sh/beatmapsets/528821#osu/1129261)
+  - [Cyua - Blumenkranz (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmapsets/155034#osu/380475)
+- FreeMod
+  - [An - Catanoph (Lavender) \[Lavender's Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1630245)
+  - [Yunomi with Momobako&miko - Soumatou Labyrinth (Snow Note) \[Labyrinth\]](https://osu.ppy.sh/beatmapsets/721064#osu/1522698)
+  - [Euchaeta - Kokoro (kwk) \[Special\]](https://osu.ppy.sh/beatmapsets/464864#osu/1013338)
+- Tiebreaker
+  - **[USAO - Showdown (Depths) \[Calamity\]](https://osu.ppy.sh/beatmapsets/688191#osu/1456429)**
 
 ### 8èmes de finale
 
@@ -260,6 +317,85 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 
 ## Résultats des matches
 
+### Quarts-de-finale
+
+| Mardi, 2019-04-11 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| WalkingTuna ![][flag_KR] | 2 | **6** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
+
+| Samedi, 2019-04-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
+| trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
+| **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_RU] Aden | -win by default- |
+| **Vaxei** ![][flag_US] | **6** | 4 | ![][flag_DE] Dustice | [#1](https://osu.ppy.sh/community/matches/50976614) |
+| **-Roxas** ![][flag_GB] | **6** | 4 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/mp/50978684) |
+| **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | -win by default- |
+| **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
+
+| Dimanche, 2019-04-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
+| -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
+| RyuK ![][flag_CA] | 0 | **6** | ![][flag_PL] **MrBooM** | -win by default- |
+| **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/51004005) |
+| Musty ![][flag_FR] | 0 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/mp/51005874) |
+| **idke** ![][flag_US] | **6** | 0 | ![][flag_IT] Koba | [#1](https://osu.ppy.sh/mp/51007580) |
+| Mastasz ![][flag_PL] | 0 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/mp/51007543) |
+
+| Lundi, 2019-04-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| -Roxas ![][flag_GB] |  |  | ![][flag_FR] NerO | [#1]() |
+
+### 8èmes de finale
+
+| Jeudi, 2019-04-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Apraxia ![][flag_US] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
+
+| Vendredi, 2019-04-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Vaxei ![][flag_US] | 3 | **5** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
+| -Roxas ![][flag_GB] | 3 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
+| fieryrage ![][flag_US] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
+
+| Samedi, 2019-04-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_PR] Unexpected | [#1](https://osu.ppy.sh/mp/50786166) |
+| Ansol ![][flag_KR] | 3 | **5** | ![][flag_MY] **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
+| Xilver15 ![][flag_IL] | **5** | 1 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/mp/50793614) |
+| **Jordan The Bear** ![][flag_AU] | **5** | 3 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50795260) |
+| **Dumii** ![][flag_AU] | **5** | 3 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/mp/50795407) |
+| **Dustice** ![][flag_DE] | **5** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/mp/50797026) |
+| **Chamosiala** ![][flag_RO] | **5** | 4 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/mp/50799823) |
+| **WalkingTuna** | **5** | 0 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/mp/50800493) |
+| **ThePooN** ![][flag_FR] | **5** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/mp/50800491) |
+| **Demonical** ![][flag_SG] | **5** | 2 | ![][flag_US] BeasttrollMC | [#1](https://osu.ppy.sh/community/matches/50802621) |
+| **Mastasz** ![][flag_PL] | **5** | 4 | ![][flag_PL] Wakson | [#1](https://osu.ppy.sh/community/matches/50800640) |
+| **Spare** ![][flag_GB] | **5** | 4 | ![][flag_NL] GladiOol | [#1](https://osu.ppy.sh/community/matches/50802573) |
+| **Rafis** ![][flag_PL] | **5** | 3 | ![][flag_US] lain | [#1](https://osu.ppy.sh/community/matches/50804752) |
+| **Aden** ![][flag_RU] | **5** | 2 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
+
+| Dimanche, 2019-04-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| RyuK ![][flag_CA] | 2 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
+| **DigitalHypno** ![][flag_US] | **5** | 4 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
+| **Demonical** ![][flag_SG] | **5** | 4 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/mp/50827536) |
+| Jordan The Bear ![][flag_AU] | 2 | **5** | ![][flag_FR] **ThePooN** | [#1](https://osu.ppy.sh/mp/50829029) |
+| **Chamosiala** ![][flag_RO] | **5** | 3 | ![][flag_AU] Dumii | [#1](https://osu.ppy.sh/mp/50829069) |
+| **-Syncro** ![][flag_IT] | **5** | 2 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/50829322) |
+| **Dustice** ![][flag_DE] | **5** | 3 | ![][flag_JP] Varvalian | [#1](https://osu.ppy.sh/community/matches/50832025) |
+| -Syncro ![][flag_IT] | 1 | **5** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/mp/50835257) |
+| Rafis ![][flag_PL] | 2 | **5** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50835231) |
+| he rack ![][flag_US] | 0 | **5** | ![][flag_FR] **NerO** | -win by default- |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_CA] trev rasher | [#1](https://osu.ppy.sh/mp/50838578) |
+| Viveliam ![][flag_NL] | 4 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
+| **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
+
+| Lundi, 2019-04-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Mastasz** ![][flag_PL] | **5** | 0 | ![][flag_GB] Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
+
 ### 16èmes de finale
 
 | Mercredi, 2019-03-27 |  |  |  |  |
@@ -304,7 +440,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
 | **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
-| Monday, 2019-04-01 |  |  |  |  |
+| Lundi, 2019-04-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
 
@@ -328,7 +464,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 | **idke** ![][flag_US] |  **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
 | **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
 | kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
-| NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
+| NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
 | **-Roxas** ![][flag_GB] | 4 | 0 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50473547) |
 | **Chamosiala** ![][flag_RO] | **4** | 3 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/community/matches/50474450) |
 | Mathyu ![][flag_US] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
@@ -357,7 +493,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 
 ### Règles Générales
 
-1. Le #Game\_Osu est un tournoi 1v1 osu! sponsorisé par Logitech.
+1. Le Game\_Osu est un tournoi 1v1 osu! sponsorisé par Logitech.
 2. Les qualifiers se joueront en élimination simple.
 3. Le reste des rounds se joueront en double élimination.
 4. Tous les matchs seront joués en **ScoreV2.** Le revive est autorisé.
@@ -365,7 +501,7 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 6. Seulement le **top 128 des inscrits basé sur le [BWS Rank](https://pastebin.com/3QSaGdkE)** à la fin de la période d’inscriptions sera autorisé à participer.
 7. Pour pouvoir vous inscrire, vous devez être au moins **#10,000** global.
 8. La participation au tournoi est **prohibée** à tous les [membres du staff](https://www.gameosu.com/staff) (*à l’exception des casters*).
-9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du #Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
+9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
 
 ### Organisation des matchs
 
@@ -405,14 +541,14 @@ La #Game\_Osu Tourney 3 est gérée par différents membres de la communauté, e
 4. Chaque joueur devra `!roll`. Le plus haut roll décide de l’ordre des picks et des bans (le premier à ban sera le dernier à pick)
 5. Dans le cas d’une égalité, le Tiebreaker sera joué. Les perdants du Winners bracket iront au Losers bracket.
 6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, un rematch de cette map peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
-7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord #GO](https://discord.gg/trnFByC) pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
+7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord GO](https://discord.gg/trnFByC) pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
 
 ### Règles liées au comportement
 
 1. Toutes les [règles d’osu!](/wiki/Rules) s’appliquent.
 2. Les comportements *toxiques* durant les matchs seront très fortement réprimandés et pourront résulter en une défaite forcée, une **expulsion du tournoi où un bannissement** des tournois futurs.
 3. Nous ne tolérerons pas une once de **tricherie ou de tentatives pour obtenir un avantage par rapport aux autres joueurs.**
-4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [#Game\_Osu (EN)](https://www.twitch.tv/gameosu), [#Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche](https://www.twitch.tv/sardoche). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
+4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [Game\_Osu (EN)](https://www.twitch.tv/gameosu), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche](https://www.twitch.tv/sardoche). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
