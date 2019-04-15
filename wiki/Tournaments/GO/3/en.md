@@ -54,7 +54,7 @@ The Game\_Osu Tourney 3 is run by various community members.
 | Developers | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_SE] [AntoN](https://osu.ppy.sh/users/2538562), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
-*Special thanks to kymutsojason, ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), and ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) who served their role but left early.*
+*Special thanks to ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), and ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) who served their role but left early.*
 
 ## Links
 
