@@ -2,7 +2,7 @@
 
 <!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux)* -->
 
-This page will roughly tell you how to get osu! working on various devices. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
+This page will roughly tell you how to get osu! working on your windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
@@ -11,26 +11,11 @@ This page will roughly tell you how to get osu! working on various devices. The 
 
 ## Installing osu!
 
-### Windows
-
 1.  Go to the [download page](https://osu.ppy.sh/home/download) and download the installer.
 2.  Locate and run the installer.
 3.  While the installer is running, there is a ten second period to allow you to select the installation location.
     -   If you want to change it, click on the text underneath the word, "Hi!" and select the installation location.
     -   osu! will be installed to that location when the timer is done.
-4.  When the installer is completed, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
-5.  osu! will prompt you to sign in or register.
-    -   If you have an account already, sign in.
-    -   If you need to register, see [Registration](/wiki/Registration), then sign in.
-    
-### MacOS
-
-The MacOS version of osu! is experimental. The game may not function properly or even boot at all. 
-
-1.  Go to the unofficial [download page](https://osu.ppy.sh/community/forums/topics/682197) and download the installer.
-2.  Locate the installer, right click, and select open.
-    -   Double left clicking on the file may not open it, since MacOS may recognize the app as developed by an unidentified developer. Right clicking and selecting open will solve this problem.
-3.  The installer will automatically run. The installation location cannot be changed and will be installed directly to `osu!.app`. Moving `osu.app` will move all of the files the come with it.
 4.  When the installer is completed, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
 5.  osu! will prompt you to sign in or register.
     -   If you have an account already, sign in.
