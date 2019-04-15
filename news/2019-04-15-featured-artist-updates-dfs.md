@@ -16,7 +16,7 @@ As with all Featured Artist tracks, these new additions are 100% free for use in
 
 [![](https://assets.ppy.sh/artists/21/header.jpg)](https://osu.ppy.sh/beatmaps/artists/21)
 
-Featuring *Moth* from [**Dictate**'s](https://osu.ppy.sh/beatmaps/artists/21) contribution to the collab album [MELTDOWN](https://soundcloud.com/renrakuglobalmedia/sets/va-meltdown-free-download) from Renraku and *Secede* from some of his more personal experiments, there's something both familiar and fresh in this bite-sized update.
+Featuring *Moth* from [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)'s contribution to the collab album [MELTDOWN](https://soundcloud.com/renrakuglobalmedia/sets/va-meltdown-free-download) and *Secede* from some of his more personal experiments, there's something both familiar and fresh in this bite-sized update.
 
 ### Moth
 
