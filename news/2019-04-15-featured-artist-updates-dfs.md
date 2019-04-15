@@ -8,9 +8,9 @@ We're getting down to earth with some brand new tracks from artists you know and
 
 [![](/wiki/shared/news/banners/featured-artist.jpg)](https://osu.ppy.sh/beatmaps/artists)
 
-In an ongoing commitment to keep the Featured Artist library as fresh as possible, we've been touching base with many of the artists in the lineup over the past few months, and have snagged some spicy additions to the library from their latest sound.
+In an ongoing commitment to keep the Featured Artist library as fresh as possible, we've been touching base with many of the artists in the lineup over the past few months, and have snagged some spicy additions to the library from their latest work.
 
-As with all Featured Artist tracks, these new additions are 100% free for use in mapping and modding within osu!, no ifs or buts.
+As with all Featured Artist tracks, these new additions are 100% free for use in mapping and modding within osu!, no ifs or buts. Worry less and map more!
 
 ## Dictate
 
