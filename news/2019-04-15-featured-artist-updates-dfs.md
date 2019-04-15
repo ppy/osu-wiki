@@ -74,7 +74,7 @@ They go fast, and they go *hard*, in that classic way that only Fractal Dreamers
 
 One of the earliest creators to have joined the Featured Artist project, [**sakuraburst**](https://osu.ppy.sh/beatmaps/artists/8) has been hard at work for years now developing his highly renowned sound.
 
-We've managed to snag a three-track selection from his highly acclaimed HARPSINGER SINGLES - pieces that masterfully straddle the divide between emotive, instrumental expression and that stark, electronic brilliance that he is renowned for.
+We've managed to snag a three-track selection from his highly acclaimed *HARPSINGER SINGLES*—pieces that masterfully straddle the divide between emotive, instrumental expression and that stark, electronic brilliance that he is renowned for.
 
 On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab track between him and hyleo in *Galaxy Cutter*, and something a little different in *AETHERSONG*. Check them all out!
 
