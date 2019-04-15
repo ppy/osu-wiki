@@ -76,7 +76,7 @@ One of the earliest creators to have joined the Featured Artist project, [**saku
 
 We've managed to snag a three-track selection from his highly acclaimed HARPSINGER SINGLES - pieces that masterfully straddle the divide between emotive, instrumental expression and that stark, electronic brilliance that he is renowned for.
 
-On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab track between him and Hyleo in *Galaxy Cutter*, and something a little different in *AETHERSONG*. Check them all out!
+On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab track between him and hyleo in *Galaxy Cutter*, and something a little different in *AETHERSONG*. Check them all out!
 
 ### THE SKIES OPEN
 
