@@ -2,7 +2,7 @@
 
 <!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux)* -->
 
-This page will roughly tell you how to get osu! working on your windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
+This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
