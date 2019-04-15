@@ -108,7 +108,7 @@ On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab tr
     <source src="https://assets.ppy.sh/artists/8/previews/886.mp3" type="audio/mpeg">
 </audio>
 
-### GALAXY CUTTER (w/ Hyleo)
+### Galaxy Cutter (w/ hyleo)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/8/previews/888.mp3" type="audio/mpeg">
