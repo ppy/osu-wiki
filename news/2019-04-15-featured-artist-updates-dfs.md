@@ -36,7 +36,7 @@ Featuring *Moth* from [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)'s co
 
 Back in style and doing what they do best, the latest release from [**Fractal Dreamers**](https://osu.ppy.sh/beatmaps/artists/15) is none other than *Monolithia*, an album featuring a classic and continual evolution of their unique sound.
 
-They go fast, and they go *hard*, in that classic way that only Fractal Dreamers knows how to pull off. There's **8** tracks from Monolithia to choose from, so make sure to check out their listing for the full details!
+They go fast, and they go *hard*, in that classic way that only Fractal Dreamers knows how to pull off. There are **8** tracks from Monolithia to choose from, so make sure to check out their listing for the full details!
 
 ### Monolithia
 
