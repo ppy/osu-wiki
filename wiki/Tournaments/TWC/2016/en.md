@@ -32,7 +32,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 
 ## Organisation
 
-The osu!taiko World Cup 2018 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | :-- | :-- |
@@ -41,6 +41,14 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 | Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | Commentators | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Chromoxx](https://osu.ppy.sh/users/1881639), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticians | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/418784)
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml)**
+
+-----------------------
 
 ## Participants
 
