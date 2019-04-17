@@ -30,9 +30,9 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Unique item, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Unique item, unique profile badge |
 
-## Organization
+## Organisation
 
-The osu!taiko World Cup 2017 was ran by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | :-- | :-- |
