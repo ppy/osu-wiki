@@ -46,7 +46,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/713163)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Statistics sheet](https://goo.gl/phCq6X)
+- **[Statistics sheet](https://goo.gl/phCq6X)**
 
 -----------------------
 
@@ -116,7 +116,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [The Flashbulb - Passage D (Raiden) \[Raidcore\]](https://osu.ppy.sh/beatmaps/1243907)
   - [DJ Sharpnel - WE LUV LAMA (Nofool) \[LaMAOni\]](https://osu.ppy.sh/beatmaps/1436969)
 - Tiebreaker
-  - ["RoughSketch feat. DD""Nekata""Metal - Booths of Fighters (Camellia's ""Barrage of Flurries"" Remix) (Nwolf)" \[Grande Finale\]](https://osu.ppy.sh/beatmaps/1624503)
+  - **["RoughSketch feat. DD""Nekata""Metal - Booths of Fighters (Camellia's ""Barrage of Flurries"" Remix) (Nwolf)" \[Grande Finale\]](https://osu.ppy.sh/beatmaps/1624503)**
 
 ### Semifinals
 
@@ -141,7 +141,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](https://osu.ppy.sh/beatmaps/919457)
   - [Memme - Avalanche (Nofool) \[Blizzardy Oni\]](https://osu.ppy.sh/beatmaps/1502771)
 - Tiebreaker
-  - [Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Perfect\]](https://osu.ppy.sh/beatmaps/1617154)
+  - **[Kurokotei - Lusamine in a Perfect World (Sayaka-) \[Perfect\]](https://osu.ppy.sh/beatmaps/1617154)**
 
 ### Quarterfinals
 
@@ -166,7 +166,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [U-F SEQUENCER - EupHolic (OnosakiHito) \[POONwing's Inner Oni 2\]](https://osu.ppy.sh/beatmaps/1604103)
   - [dj TAKA - Colors (sasakure.UK Futurelogic Remix) (bananannian) \[Blue Oni\]](https://osu.ppy.sh/beatmaps/1051998)
 - Tiebreaker
-  - ["Camellia - Feelin Sky (Camellia's ""200step"" Self-remix) (Backfire)" \[Universe\]](https://osu.ppy.sh/beatmaps/1491259)
+  - **["Camellia - Feelin Sky (Camellia's ""200step"" Self-remix) (Backfire)" \[Universe\]](https://osu.ppy.sh/beatmaps/1491259)**
 
 ### Round of 16
 
@@ -191,7 +191,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [COSIO (ZUNTATA) - Black MInD (Chocola\_2287) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/1030554)
   - [t+pazolite - Elder Dragon Legend (ft. Kabocha) (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmaps/1602056)
 - Tiebreaker
-  - [BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](https://osu.ppy.sh/beatmaps/1281858)
+  - **[BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](https://osu.ppy.sh/beatmaps/1281858)**
 
 ### Group Stage
 
@@ -216,7 +216,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/1012645)
   - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/635003)
 - Tiebreaker
-  - [sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmaps/1566477)
+  - **[sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmaps/1566477)**
 
 ------------------------------------------------------------------------
 

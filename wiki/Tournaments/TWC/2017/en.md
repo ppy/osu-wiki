@@ -115,7 +115,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
   - [Helblinde - Grief & Malice (S a n d) \[Sand & Backfire\] (HD, HR)](https://osu.ppy.sh/beatmaps/945337)
   - [LA2LY - mei(LA2LY HARD RELINQUISH REMIX) (Ryui) \[Ryui's Taiko\] (HDHR)](https://osu.ppy.sh/beatmaps/351965)
 - Tiebreaker
-  - [Sasara Yuuna - dnabgib kaerB (Firce777) \[Firce Force (TWC ver.)\] (Any)](https://osu.ppy.sh/beatmaps/1255618)
+  - **[Sasara Yuuna - dnabgib kaerB (Firce777) \[Firce Force (TWC ver.)\] (Any)](https://osu.ppy.sh/beatmaps/1255618)**
 
 ### Semifinals
 
@@ -141,7 +141,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
   - [Thaehan - Bwa ! (Tasha) \[Oni\] (Any)](https://osu.ppy.sh/beatmaps/1155334)
   - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Nofool) \[Ura Oni\] (HDHR)](https://osu.ppy.sh/beatmaps/836037)
 - Tiebreaker
-  - [moro - Decadent Fantasy (TimmyAkmed) \[Supreme Oni\] (Any)](https://osu.ppy.sh/beatmaps/986931)
+  - **[moro - Decadent Fantasy (TimmyAkmed) \[Supreme Oni\] (Any)](https://osu.ppy.sh/beatmaps/986931)**
 
 ### Quarterfinals
 
@@ -168,7 +168,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
   - [Acrnym - Knife (LZD) \[LZD's Taiko\] (Any)](https://osu.ppy.sh/beatmaps/290466)
   - [LeaF - Alice in Misanthrope -Ensei Alice- (S a n d) \[No Regret\] (HD, HR)](https://osu.ppy.sh/beatmaps/1111087)
 - Tiebreaker
-  - [RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard) \[Impossible Taiko\] (Any)](https://osu.ppy.sh/beatmaps/300030)
+  - **[RoughSketch feat. aikapin - Grimm (tpz Despair Remix) (glalucard) \[Impossible Taiko\] (Any)](https://osu.ppy.sh/beatmaps/300030)**
 
 ### Round of 16
 
@@ -195,7 +195,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (john571) \[Inner oni\] (Any)](https://osu.ppy.sh/beatmaps/1150139)
   - [Nizikawa - F.K.S (Arrival) \[Inner Oni\] (HDHR)](https://osu.ppy.sh/beatmaps/1165727)
 - Tiebreaker
-  - [goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/beatmaps/344834)
+  - **[goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/beatmaps/344834)**
 
 ### Group Stage
 
@@ -222,7 +222,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
   - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\] (HD, HDHR)](https://osu.ppy.sh/beatmaps/932407)
   - [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (EvilElvis) \[taiko\] (Any)](https://osu.ppy.sh/beatmaps/1030166)
 - Tiebreaker
-  - [Yuuyu - Iki o Koroshita Stokesia (Sayaka-) \[Oni\] (Any)](https://osu.ppy.sh/beatmaps/830240)
+  - **[Yuuyu - Iki o Koroshita Stokesia (Sayaka-) \[Oni\] (Any)](https://osu.ppy.sh/beatmaps/830240)**
 
 ------------------------------------------------------------------------
 
