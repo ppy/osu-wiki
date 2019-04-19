@@ -17,9 +17,9 @@ La **Catch French Intermediate Cup** (***CFIC***) est un tournoi 1v1 français i
 | Live Drawings | 2019-02-23 (19:00 UTC+1) |
 | Phase de poules | 2019-03-01/2019-03-03 |
 | Quarts-de-finale | 2019-03-09/2019-03-10 |
-| Demi-finales | 2019-03-16/2019-03-17 |
+| Demi-finales | 2019-03-16/2019-03-18 |
 | Finales | 2019-03-23/2019-03-24 |
-| Grandes Finales | 2019-03-30 |
+| Grandes Finales | 2019-03-31 |
 
 ## Récompenses
 
@@ -74,31 +74,77 @@ La Catch French Intermediate Cup est gérée par différents membres de la commu
 
 -----------------------
 
-## Planning des matches: Demi-finales
+## Podium
 
-### Samedi, 16 Mars 2019
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Yruama | ![][flag_FR] | ![][flag_FR] | redjiii | **13:00** |
-| #2 | YANOO123 | ![][flag_FR] | ![][flag_FR] | Realmas | **15:00** |
-
-### Dimanche, 17 Mars 2019
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC +1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | YANOO123 | ![][flag_FR] | ![][flag_FR] | Zard | **13:00** |
-| #3b¹ | Realmas | ![][flag_FR] | ![][flag_FR] | Zard | **13:00** |
-| #3c² | Yruama | ![][flag_FR] | ![][flag_FR] | Khalemm | **15:00** |
-| #3d² | redjiii | ![][flag_FR] | ![][flag_FR] | Khalemm | **15:00** |
-
-¹ Confrontation dépendant du perdant du Match #2 (SF) et du gagnant du Match #5 (QF)
-
-² Confrontation dépendant du perdant du Match #1 (SF) et du gagnant du Match #6 (QF)
+| Classement | Joueur |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 -----------------------
 
 ## Liste des maps
+
+### Grandes Finales
+
+**[Téléchargez le mappack ici! (98 MB)](https://mega.nz/#!E5tFXSxA!me4YoqzYh7NK7miT3czlTEuuMyYxQsMywTHl6toDBoM)**
+
+- NoMod
+  - [a\_hisa - Alexithymia (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/511849#fruits/1087972)
+  - [LiSA - EGOiSTiC SHOOTER (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/316580#fruits/1548513)
+  - [Aoi YukixNana MizukixAyahi Takagaki - RADIANT FORCE (IGNITED arrangement) (Kurokami) \[Zesshou\]](https://osu.ppy.sh/beatmapsets/472222#fruits/1009144)
+  - [Krewella - Surrender The Throne (Bariton) \[Bariton's Expert\]](https://osu.ppy.sh/beatmapsets/767566#fruits/1614714)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/39804#fruits/126645)
+  - [Truxton - SHOTGUN JUGGLE (P o M u T a) \[Extra\]](https://osu.ppy.sh/beatmapsets/128416#fruits/325180)
+- Hidden
+  - [Sound Horizon - Arbelge no Tatakai (Drafura) \[Drafura's CtB Insane\]](https://osu.ppy.sh/beatmapsets/44546#fruits/139498)
+  - [ak+q - Excelsia (Sorcerer) \[Rain\]](https://osu.ppy.sh/beatmapsets/737685#fruits/1556895)
+  - [Sota Fujimori - DANCE ALL NIGHT (Nowa) \[Nowa's Insane\]](https://osu.ppy.sh/beatmapsets/600303#fruits/1310291)
+  - [Yasuharu Takanashi - Fairy Tail Main Theme (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/13686#fruits/50625)
+- HardRock
+  - [Hashimoto Miyuki - Gensou Roukaku (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/907172#fruits/1896413)
+  - [Kanawo - Kohaku no Yume (Volta) \[Volta's Rain\]](https://osu.ppy.sh/beatmapsets/411705#fruits/905753)
+  - [Nobuo Uematsu - The Fierce Battle (mtmcl) \[Omega\]](https://osu.ppy.sh/beatmapsets/5727#fruits/27466)
+  - [Kakumi Nishigomi - Sengoku Sangen (lepidopodus) \[Insane\]](https://osu.ppy.sh/beatmapsets/26489#fruits/89463)
+- DoubleTime
+  - [LeaF - Alice in Misanthrope -Ensei Alice- (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/797236#fruits/1696319)
+  - [Warak - REANIMATE (ZiRoX) \[ZiRoX's Platter\]](https://osu.ppy.sh/beatmapsets/489190#fruits/1042704)
+  - [Kagamine Rin - Ouka Ryouran (Suzully) \[Suzuloid\]](https://osu.ppy.sh/beatmapsets/29226#fruits/106734)
+  - [Apocalyptica - En Vie (Sieg) \[Hard\]](https://osu.ppy.sh/beatmapsets/308238#fruits/689377)
+- Tiebreaker
+  - **[ICE - L (Deif) \[Ascension\]](https://osu.ppy.sh/beatmapsets/196230#fruits/465454)**
+
+### Finales
+
+**[Téléchargez le mappack ici! (116 MB)](https://mega.nz/#!MskCmKTa!AT6TPSydwttBgz5gQTNtOcIEQPkqruOela8eMrR1e2I)**
+
+- NoMod
+  - [Yooh - snow storm -euphoria- (CLSW) \[Crystal's EXHAUST\]](https://osu.ppy.sh/beatmapsets/467816#fruits/1003044)
+  - [senya - Utakata, Ai no Mahoroba (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/744222#fruits/1569361)
+  - [Function Phantom - Euclid (Ascendance, Sinnoh) \[Ascennoh's Rain\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1554429)
+  - [Lucas Fader - Main Theme - Dubstep Remix (sahuang) \[sahuang's Insane: N. Gin\]](https://osu.ppy.sh/beatmapsets/588976#fruits/1328722)
+  - [Linkin Park - Session (h4d0uk3n1) \[Katherine\]](https://osu.ppy.sh/beatmapsets/669536#fruits/1488047)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#fruits/93842)
+- Hidden
+  - [sakuzyo - Altale (alienflybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
+  - [AAAA Chazuke - Fatality Saga (-Plus-) \[Rain\]](https://osu.ppy.sh/beatmapsets/636548#fruits/1350632)
+  - [DJ Okawari - Canon (Short Ver.) (backstep) \[Peaceful\]](https://osu.ppy.sh/beatmapsets/44305#fruits/138830)
+  - [Igorrr - Tout Petit Moineau (fergas) \[Insane\]](https://osu.ppy.sh/beatmapsets/212180#fruits/519940)
+- HardRock
+  - [Qrispy Joybox feat. Chata - Yuuki no Pendant (-Ken) \[Ken's platter\]](https://osu.ppy.sh/beatmapsets/758986#fruits/1604278)
+  - [Sean Paul - Get Busy (Bhangra Remix) (Rolled) \[Woman, Get Busy\]](https://osu.ppy.sh/beatmapsets/3448#fruits/21766)
+  - [07th Expansion - Nakanaide (KSHR) \[KSHR's Hard\]](https://osu.ppy.sh/beatmapsets/41807#fruits/158376)
+  - [DragonForce - Ring of Fire (MashaSG) \[Advanced\]](https://osu.ppy.sh/beatmapsets/717015#fruits/1843633)
+- DoubleTime
+  - [BUTAOTOME - Gensou no Satellite (Xetopia) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
+  - [Narae - Horang Pungryuga (Kin) \[Platter\]](https://osu.ppy.sh/beatmapsets/628971#fruits/1328112)
+  - [Flo Rida - Right Round (Rolled) \[Rolled\]](https://osu.ppy.sh/beatmapsets/6478#fruits/29368)
+  - [ITO KASHITARO - Boku no Hosomichi (Raose) \[Journey\]](https://osu.ppy.sh/beatmapsets/394691#fruits/859034)
+- Tiebreaker
+  - **[Mili - Vitamins feat. world's end girlfriend (P i k u) \[Once and for All\]](https://osu.ppy.sh/beatmapsets/777105#fruits/1632649)**
 
 ### Demi-finales
 
@@ -177,6 +223,38 @@ La Catch French Intermediate Cup est gérée par différents membres de la commu
 ------------------------------------------------------------------------
 
 ## Résultats des matches
+
+### Grandes Finales
+
+| Samedi, 2019-03-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
+
+### Finales
+
+| Samedi, 2019-03-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Yruama ![][flag_FR] | 1 | **7** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
+
+| Dimanche, 2019-03-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Zard** ![][flag_FR] | **7** | 0 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
+| **Yruama** ![][flag_FR] | **7** | 2 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
+
+### Demi-finales
+
+| Samedi, 2019-03-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Yruama** ![][flag_FR] | **6** | 4 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
+| YANOO123 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
+
+| Dimanche, 2019-03-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| YANOO123 ![][flag_FR] | 5 | **6** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
+
+| Lundi, 2019-03-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| redjiii ![][flag_FR] | 2 | **6** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
 
 ### Quarts-de-finale
 

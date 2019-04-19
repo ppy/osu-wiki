@@ -87,23 +87,13 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ------------------------------------------------------------------------
 
-![MWC 7K 2019 bracket](img/bracket_F2.png)
+![MWC 7K 2019 podium](img/podium.png)
 
 ------------------------------------------------------------------------
 
-## Match Schedule: Grand Finals
+![MWC 7K 2019 bracket](img/bracket.png)
 
-### Sunday, 17. March 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **5:00 UTC** | 13:00 UTC+08 | 14:00 UTC+09 | ¹ |
-| Philippines | ![][flag_PH] | ![][flag_CN] | China | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 | ² |
-| Philippines | ![][flag_PH] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
-
-¹ 3rd place encounter
-
-² Grand Finals encounter dependent on results of ²3rd place encounter
+------------------------------------------------------------------------
 
 ## Mappools
 
@@ -201,6 +191,14 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Sunday, 2019-03-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| China ![][flag_CN] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50327085) |
+| Philippines ![][flag_PH] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50332058) |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/50333689) |
 
 ### Finals
 

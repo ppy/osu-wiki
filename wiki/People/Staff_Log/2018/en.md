@@ -13,11 +13,11 @@
 - Moved [Fycho](https://osu.ppy.sh/users/1876867) to the Quality Assurance Team (2018-01-29)
 - Moved [Myxomatosis](https://osu.ppy.sh/users/2202645) to the Quality Assurance Team (2018-01-29)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [sheela](https://osu.ppy.sh/users/1138027) - resignation (2018-01-13)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-12-11.
 
@@ -51,7 +51,7 @@ All users listed below were added on 2017-12-11.
 - Moved [[ Another ]](https://osu.ppy.sh/users/3416573) to the osu! Alumni (2018-02-20)
 - Removed [Irreversible](https://osu.ppy.sh/users/1287964) from the Quality Assurance Team (2018-02-27)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Litharrale](https://osu.ppy.sh/users/3189995) - resignation (2018-02-02)
 - [ailv](https://osu.ppy.sh/users/6933054) - irresponsible nomination (2018-02-19)
@@ -59,7 +59,7 @@ All users listed below were added on 2017-12-11.
 - [Wafu](https://osu.ppy.sh/users/888955) - resignation (2018-02-25)
 - [Voli](https://osu.ppy.sh/users/2522275) - resignation (2018-02-28)
 
-### New BN additions
+### Beatmap Nominator additions
 
 - [Kuron-Kun](https://osu.ppy.sh/users/2697284) (2018-02-06)
 - [ailv](https://osu.ppy.sh/users/6933054) (2018-02-26)
@@ -75,12 +75,12 @@ All users listed below were added on 2017-12-11.
 - Added [Lanturn](https://osu.ppy.sh/users/1446665) to the Quality Assurance Team (2018-03-22)
 - Added [Mir](https://osu.ppy.sh/users/8688812) to the Quality Assurance Team (2018-03-22)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Naotoshi](https://osu.ppy.sh/users/5364763) - resignation (2018-03-11)
 - [xfraczynho](https://osu.ppy.sh/users/2192669) - resignation (2018-03-19)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2018-03-12.
 
@@ -105,7 +105,7 @@ All users listed below were added on 2018-03-19.
 - Moved [Zetera](https://osu.ppy.sh/users/587737) to the osu! Alumni (2018-04-06)
 - Added [Aloda](https://osu.ppy.sh/users/1190127) to the Quality Assurance Team (2018-04-16)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Sanyi](https://osu.ppy.sh/users/7496029) - resignation (2018-04-17)
 - [ezek](https://osu.ppy.sh/users/7496029) - resignation (2018-04-17)
@@ -113,7 +113,7 @@ All users listed below were added on 2018-03-19.
 - [Hareimu](https://osu.ppy.sh/users/4138746) - resignation (2018-04-24)
 - Sotarks - account restriction (2018-04-30)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2018-04-23.
 
@@ -142,7 +142,7 @@ All users listed below were added on 2018-04-23.
 - Added [Chaoslitz](https://osu.ppy.sh/users/3621552) to the Quality Assurance Team (2018-05-09)
 - Moved [Myxomatosis](https://osu.ppy.sh/users/2202645) to the osu! Alumni (2018-05-09)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Chromoxx](https://osu.ppy.sh/users/1881639) - resignation (2018-05-01)
 - [Chewin](https://osu.ppy.sh/users/617323) - inactivity (2018-05-14)
@@ -166,7 +166,7 @@ All users listed below were added on 2018-04-23.
 - Moved [Asherz007](https://osu.ppy.sh/users/9014047) to the Beatmap Nominators (2018-06-18)
 - Added [Maxus](https://osu.ppy.sh/users/4335785) to the Quality Assurance Team (2018-06-25)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [dsco](https://osu.ppy.sh/users/4330511) - resignation (2018-06-07)
 - [frukoyurdakul](https://osu.ppy.sh/users/7612550) - resignation (2018-06-11)
@@ -176,7 +176,7 @@ All users listed below were added on 2018-04-23.
 - [celerih](https://osu.ppy.sh/users/4696296) - resignation (2018-06-24)
 - [AyanokoRin](https://osu.ppy.sh/users/5376866) - resignation (2018-06-25)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2018-06-12.
 
@@ -195,7 +195,7 @@ All users listed below were added on 2018-06-12.
 - Added [Hobbes2](https://osu.ppy.sh/users/8157492) to the Quality Assurance Team (2018-07-03)
 - Moved [MrSergio](https://osu.ppy.sh/users/2581696) to the Global Moderation Team (2018-07-18)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Sorcerer](https://osu.ppy.sh/users/1913190) - resignation (2018-07-01)
 - [Arzenvald](https://osu.ppy.sh/users/3027421) - resignation (2018-07-05)
@@ -215,7 +215,7 @@ All users listed below were added on 2018-06-12.
 - [incandescence](https://osu.ppy.sh/users/6256027) - resignation (2018-07-27)
 - [Delis](https://osu.ppy.sh/users/1603923) - resignation (2018-07-28)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2018-07-27.
 
@@ -237,7 +237,7 @@ All users listed below were added on 2018-07-27.
 
 - Added [ZiRoX](https://osu.ppy.sh/users/200768) to the Quality Assurance Team (2018-08-19)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [error\_exe777](https://osu.ppy.sh/users/7975796) - failing probation (2018-08-17)
 - [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - resignation (2018-08-20)
@@ -260,7 +260,7 @@ All users listed below were added on 2018-07-27.
 - Added [Kibbleru](https://osu.ppy.sh/users/3193504) to the Quality Assurance Team (2018-09-21)
 - Moved [Elfin](https://osu.ppy.sh/users/1399551) to the Global Moderation Team (2018-09-26)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [MrSergio](https://osu.ppy.sh/users/2581696) - failing probation (2018-09-02)
 - [Cris-](https://osu.ppy.sh/users/6175280) - failing probation (2018-09-02)
@@ -278,7 +278,7 @@ All users listed below were added on 2018-07-27.
 - Moved [VeilStar](https://osu.ppy.sh/users/4255720) to the osu! Alumni (2018-10-05)
 - Moved [TicClick](https://osu.ppy.sh/users/672931) to the Global Moderation Team (2018-10-23)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Plaudible](https://osu.ppy.sh/users/7149815) - resignation (2018-10-07)
 - [BOUYAAA](https://osu.ppy.sh/users/405449) - failing probation (2018-10-12)
@@ -286,7 +286,7 @@ All users listed below were added on 2018-07-27.
 - [Nifty](https://osu.ppy.sh/users/4956097) - failing probation (2018-10-15)
 - [Kin](https://osu.ppy.sh/users/480689) - inactivity (2018-10-17)
 
-### New BN additions
+### Beatmap Nominator additions
 
 - [Sotarks](https://osu.ppy.sh/users/4452992) (2018-10-22)
 - [Hailie](https://osu.ppy.sh/users/5226970) (2018-10-22)
@@ -310,7 +310,6 @@ All users listed below were added on 2018-07-27.
 - [-Luminate](https://osu.ppy.sh/users/4778689) (2018-10-22)
 - [AJamez](https://osu.ppy.sh/users/7890134) (2018-10-22)
 - [wonjae](https://osu.ppy.sh/users/5032045) (2018-10-22)
-- [Sinnoh](https://osu.ppy.sh/users/4236057) (2018-10-22)
 - [Dellvangel](https://osu.ppy.sh/users/5186244) (2018-10-22)
 - [-MysticEyes](https://osu.ppy.sh/users/6253266) (2018-10-22)
 - [MEGAtive](https://osu.ppy.sh/users/3094101) (2018-10-22)
@@ -329,7 +328,7 @@ All users listed below were added on 2018-07-27.
 - Added [Regraz](https://osu.ppy.sh/users/3076909) to the Quality Assurance Team (2018-11-11)
 - Moved [-kevincela-](https://osu.ppy.sh/users/266596) to the osu! Alumni (2018-11-17)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [hikiko-](https://osu.ppy.sh/users/6512678) - resignation (2018-11-03)
 - [Yauxo](https://osu.ppy.sh/users/898306) - resignation (2018-11-21)

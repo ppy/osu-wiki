@@ -66,7 +66,7 @@ All users listed below were added on 2015-01-03.
 - Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the Global Moderation Team (2015-02-22)
 - Removed [Scorpiour](https://osu.ppy.sh/users/867259) from the Global Moderation Team (2015-02-28)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-02-06.
 
@@ -104,7 +104,7 @@ All users listed below were added on 2015-02-06.
 - Added [Fycho](https://osu.ppy.sh/users/1876867) to the Chat Moderators (2015-03-12)
 - Added [VeilStar](https://osu.ppy.sh/users/4255720) to the Support Team (2015-03-28)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-03-03.
 
@@ -141,7 +141,7 @@ All users listed below were added on 2015-03-03.
 - Added [Guy](https://osu.ppy.sh/users/91738) to the Quality Assurance Team (2015-04-30)
 - Added [Spectator](https://osu.ppy.sh/users/702598) to the Chat Moderators (2015-04-30)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-04-06.
 
@@ -157,7 +157,7 @@ All users listed below were added on 2015-04-06.
 - Moved [Aleks719](https://osu.ppy.sh/users/360176) to the osu! Alumni (2015-05-07)
 - Added [Tari](https://osu.ppy.sh/users/1779172) to the Quality Assurance Team (2015-05-08)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-05-11.
 
@@ -182,7 +182,7 @@ All users listed below were added on 2015-05-11.
 - Moved [IamKwaN](https://osu.ppy.sh/users/1856463) to the Global Moderation Team (2015-06-10)
 - Added [VeilStar](https://osu.ppy.sh/users/4255720) to the Chat Moderators (2015-06-14)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-06-15.
 
@@ -199,7 +199,7 @@ All users listed below were added on 2015-06-15.
 - Moved [[Shi-Ra]](https://osu.ppy.sh/users/2008489) to the Quality Assurance Team (2015-07-09)
 - Moved [Oinari-sama](https://osu.ppy.sh/users/405508) to the osu! Alumni (2015-07-27)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-07-19.
 
@@ -238,7 +238,7 @@ All users listed below were added on 2015-07-19.
 - Moved [Krah](https://osu.ppy.sh/users/1436748) to the Global Moderation Team (2015-10-13)
 - Moved [Maeglwn](https://osu.ppy.sh/users/2440936) to the osu! Alumni (2015-10-29)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2015-10-02.
 

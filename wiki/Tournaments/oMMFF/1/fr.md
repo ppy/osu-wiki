@@ -1165,7 +1165,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Phase de warmup
 
-- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](https://osu.ppy.sh/wiki/Rules)) ne seront pas autorisé.
+- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](/wiki/Rules)) ne seront pas autorisé.
 
 #### Bans et Picks
 

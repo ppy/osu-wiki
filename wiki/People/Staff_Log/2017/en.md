@@ -8,7 +8,7 @@
 - Added [heyronii](https://osu.ppy.sh/users/5642779) to the Global Moderation Team (2017-01-28)
 - Added [ruexia](https://osu.ppy.sh/users/385069) to the Global Moderation Team (2017-01-29)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-01-20.
 
@@ -36,7 +36,7 @@ All users listed below were added on 2017-01-20.
 - Moved [Desperate-kun](https://osu.ppy.sh/users/2202645) to the osu! Alumni (2017-04-27)
 - Moved [Fycho](https://osu.ppy.sh/users/1876867) to the osu! Alumni (2017-04-27)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-04-25.
 
@@ -58,7 +58,7 @@ All users listed below were added on 2017-04-25.
 
 ## June
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-06-30.
 
@@ -82,7 +82,7 @@ All users listed below were added on 2017-06-30.
 - Moved [Pereira006](https://osu.ppy.sh/users/537344) to the osu! Alumni (2017-09-21)
 - Moved [Shockwave](https://osu.ppy.sh/users/251631) to the osu! Alumni (2017-09-21)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-09-10.
 
@@ -110,7 +110,7 @@ All users listed below were added on 2017-09-10.
 - Moved [IamKwaN](https://osu.ppy.sh/users/1856463) to the osu! Alumni (2017-10-14)
 - Added [Death](https://osu.ppy.sh/users/3242450) to the Global Moderation Team and Support Team (2017-10-20)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-10-24.
 
@@ -134,7 +134,7 @@ All users listed below were added on 2017-10-24.
 - Added [Clobohne](https://osu.ppy.sh/users/499343) to the Global Moderation Team (2017-12-29)
 - Added [Kurai](https://osu.ppy.sh/users/77089) to the Quality Assurance Team (2017-12-31)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-12-11.
 
@@ -146,6 +146,6 @@ All users listed below were added on 2017-12-11.
 - [Sorcerer](https://osu.ppy.sh/users/1913190)
 - [Tofu1222](https://osu.ppy.sh/users/6089608)
 
-### BN removals
+### Beatmap Nominator removals
 
 - [Monstrata](https://osu.ppy.sh/users/2706438) - less than stellar behaviour over extended periods of time (2017-12-19)
