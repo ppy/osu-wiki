@@ -106,6 +106,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Switzerland | ![][flag_CH] | ![][flag_TW] | Taiwan | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Malaysia | ![][flag_MY] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
 | Greece | ![][flag_GR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 15:00 UTC+03 | 19:00 UTC+07 |
+| Switzerland | ![][flag_CH] | ![][flag_FR] | France | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | China | ![][flag_CN] | ![][flag_SE] | Sweden | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 | Philippines | ![][flag_PH] | ![][flag_PT] | Portugal | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **13:00 UTC** | 18:00 UTC+05 | 14:00 UTC+01 |
@@ -113,11 +114,11 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Italy | ![][flag_IT] | ![][flag_BR] | Brazil | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Finland | ![][flag_FI] | ![][flag_GB] | United Kingdom | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_VE] | Venezuela | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
 | Portugal | ![][flag_PT] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 13:00 UTC-04 |
 | Finland | ![][flag_FI] | ![][flag_US] | United States | **18:00 UTC** | 21:00 UTC+03 | 14:00 UTC-04 |
 | Venezuela | ![][flag_VE] | ![][flag_BR] | Brazil | **18:00 UTC** | 14:00 UTC-04 | 15:00 UTC-03 |
 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **19:00 UTC** | 20:00 UTC+01 | 15:00 UTC-04 |
+| Netherlands | ![][flag_NL] | ![][flag_VE] | Venezuela | **21:00 UTC** | 13:00 UTC+02 | 17:00 UTC-04 |
 
 ### Sunday, 21. April 2019
 
@@ -128,15 +129,14 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Chile | ![][flag_CL] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 |
 | Philippines | ![][flag_PH] | ![][flag_CA] | Canada | **3:00 UTC** | 11:00 UTC+08 | 23:00 (Sat) UTC-04 |
 | Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **4:00 UTC** | 23:00 (Sat) UTC-05 | 12:00 UTC+08 |
-| New Zealand | ![][flag_NZ] | ![][flag_MY] | Malaysia | **4:00 UTC** | 17:00 UTC+13 | 12:00 UTC+08 |
 | Singapore | ![][flag_SG] | ![][flag_JP] | Japan | **4:00 UTC** | 12:00 UTC+08 | 13:00 UTC+09 |
-| China | ![][flag_CN] | ![][flag_PL] | Poland | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
+| New Zealand | ![][flag_NZ] | ![][flag_MY] | Malaysia | **10:00 UTC** | 23:00 UTC+13 | 18:00 UTC+08 |
 | Sweden | ![][flag_SE] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
 | Spain | ![][flag_ES] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
 | Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_JP] | Japan | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
 | Greece | ![][flag_GR] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 15:00 UTC+03 | 20:00 UTC+08 |
-| Switzerland | ![][flag_CH] | ![][flag_FR] | France | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
+| China | ![][flag_CN] | ![][flag_PL] | Poland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 | Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 10:00 UTC-04 |
