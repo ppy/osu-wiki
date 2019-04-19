@@ -20,22 +20,22 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat Moderation, Forum Moderation |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technical Support |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournaments, BSS Moderation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournaments, Beatmap Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technical Support |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Chat Moderation, Forum Moderation |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat Moderation, Forum Moderation, BSS Moderation |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat Moderation, Forum Moderation, Beatmap Moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat Moderation |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portuguese | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat Moderation |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Chat Moderation, BSS Moderation |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Chat Moderation, BSS Moderation |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Chat Moderation, Beatmap Moderation |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Chat Moderation, Beatmap Moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat Moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Chat Moderation, Metadata Team |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, BSS Moderation |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, Beatmap Moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat Moderation |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat Moderation |
@@ -89,7 +89,6 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
@@ -98,4 +97,3 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif

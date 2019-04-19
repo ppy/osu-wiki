@@ -20,21 +20,23 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, Moderación del foro |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderación del chat, Soporte técnico |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos oficiales |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos oficiales, Moderación de beatmaps |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Soporte técnico |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugués, Japonés | Moderación del chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Asistencia al jugador |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Búlgaro | Presentador de osu! idol, Moderación del foro |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chino | Moderación del chat, Moderación del foro |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro, Moderación de beatmaps |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugués | Moderación del chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turco | Moderación del chat |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio | Moderación del chat |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio | Moderación del chat, Moderación de beatmaps |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderación del chat, Moderación de beatmaps |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Español | Torneos oficiales |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat, Equipo de metadata |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugués | Moderación del chat, Equipo de metadata |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italiano | Moderación del chat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, Moderación del foro |
