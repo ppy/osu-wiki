@@ -10,7 +10,7 @@ osu!team 은 (신중을 기하여) *프로필 뱃지* 를 제공하는 커뮤니
 
 osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 **우승자** 에게 뱃지를 수여할 수 있습니다:
 
-- 대회는 *유경험자 및 평판이 있는 봉사자 집단***¹** 에 의해 운영되거나 , **OR**, 대회가 *상품 없이 1회 이상 진행된 적이 있어야 합니다*.
+- 대회는 *유경험자 및 평판이 있는 봉사자 집단***¹** 에 의해 운영되거나 , **혹은**, 대회가 *상품 없이 1회 이상 진행된 적이 있어야 합니다*.
 - 뱃지의 요청은 **대회가 시작하기 전** 에 보내야 합니다. (*2~3 주 전에 보내는 것을 권장합니다.*)
 - 대회의 진행 및 운영자는 대회에 참여하지 **않아야** 합니다.
 - 대회가 1년에 4번 이하로 진행되어야 합니다.
@@ -20,7 +20,7 @@ osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 *
 
 ### 대회 스크리닝
 
-공식적인 지원을 위해, Support Team 은 'security checks' 에 가까운, 월드컵 플레이어에게 행해졌던 스크리닝 과정을 거칩니다.
+공식적인 지원을 위해, Support Team 은 '보안 검문' 에 가까운, 월드컵 플레이어에게 행해졌던 스크리닝 과정을 거칩니다.
 
 **공인 가능한 대회의 기준을 만족하는 대회만 이 과정을 신청할 수 있습니다.** 만약 이러한 기준에 부합하는 대회를 신설할 계획이라면, 경험이 있는 스태프를 운영 팀에 포함하는 것을 권장합니다.
 
@@ -29,13 +29,13 @@ osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 *
 - 콤마로 구별된 플레이어 닉네임, user id 와 프로필에 표시된 국가의 2자리의 ISO code 
 - 팀 대항 대회의 경우 어떤 플레이어가 어떤 팀에서 플레이하는지 확인할 수 있는 식별 장치
 
-Once the screening is complete, the Support Team will provide a list of all players from your lineup who are considered **ineligible** for supported tournament play, be it via severe account infringement, suspicion of account sharing, or having been the product of a recent ban appeal within the past 12 months.
+스크리닝이 완료되면, Support Team 에서 제출했던 참여자 명단에서 지원 가능한 대회에 참여하기에 **부적격한** 플레이어 명단을 회신합니다. 심각한 계정 경고, 계정 공유 의심자 및 최근 12개월 내에 언밴 요청을 한 플레이어가 포함됩니다.
 
-The nature of their particular transgression will not be specified, and no further information will be given on the state of those user's accounts. Please do not request specifics or "proof", they will not be given. Individual players unhappy with their screening outcomes should be directed to consult accounts@ppy.sh via email.
+어떤 부문에서 규칙을 어겼는지에 대한 정보는 제공하지 않습니다. 자세한 내용, 혹은 "증거" 를 요구하지 마세요. 개개인 플레이어는 스크리닝 과정에서 적발되었다는 것에 대해 기뻐하지 않을 것이고 accounts@ppy.sh 에 즉각 비난의 메일을 보내는 것으로 이어질 것입니다.
 
-Tournament organizers who uncover potentially suspicious play during their tournaments are both obligated and singlehandedly responsible for reporting any such incidents to the Support Team via tournaments@ppy.sh at the earliest possible opportunity as part of this service.
+토너먼트 주최자 중 대회에서 의심이 가는 플레이를 하는 플레이어를 발견한 경우 즉각 tournaments@ppy.sh 에 메일을 통해 이러한 사실을 공지해야 합니다.
 
-**Allowing users that have been highlighted by the screening process to play in your tournament will result in an immediate withdrawal of any prize offerings or promotional support from us, and you are unlikely to have any of your further requests for prize/promotion support acknowledged in the future.**
+**스크리닝 과정에서 적발된 플레이어의 대회 참가를 허용할 경우, 모든 지원 및 뱃지의 환수로 이어질 수 있으며, 향후의 뱃지 및 지원 요청을 무시할 수 있습니다.**
 
 ### Badge Design Criteria
 
