@@ -5,33 +5,33 @@
 **새로운 osu! 클라이언트** 의 사용이 권장됩니다. 이는 노래의 데이터베이스의 충돌을 미연에 방지하기 위함입니다. 여러 개의 osu!를 설치하는 것도 가능합니다. 단 폴더가 달라야 합니다.  
 `osu!.exe` 를 복사해서 새 폴더에 넣고 실행하세요. 그러면 새로운 osu! 클라이언트가 설치됩니다.
 
-Open osu! and sign in, checking the `Remember Username` and `Remember Password` checkboxes.
+osu! 를 실행하고 로그인 합니다. 이 때, `아이디 저장` 과 `자동 로그인` 항목을 체크해주세요.
 
-Close osu! and create a `tournament.cfg` file in the installation directory. Start osu! once more and the osu!tourney client should open.
+osu! 를 닫고 osu!가 설치되어 있는 폴더에 `tournament.cfg` 파일을 만듭니다. osu! 를 한 번 더 실행하면 osu!tourney 가 열립니다.
 
-Add songs from the map pool to the `/Songs/` folder prior to starting the client. Any submitted beatmaps which the client doesn't have will be automatically downloaded.
+맵풀에 있는 비트맵들은 `/Songs/` 폴더에 넣으면 됩니다. 멀티플레이 방에서 고른 비트맵 중 가지고 있지 않은 비트맵이 있을 시 자동으로 다운로드됩니다.
 
-Upon closing the client, the `tournament.cfg` file will be filled with the following:
+클라이언트를 닫으면, `tournament.cfg` 파일이 다음의 양식으로 생성되어 있을 것입니다:
 
 ```
 TeamSize = 4
 acronym = OWC
 ```
 
-Do not modify the `tournament.cfg` file while osu! is running. Close osu! and edit or add to the above lines as desired with the following options:
+`tournament.cfg` 파일은 클라이언트 실행 도중 수정되어서는 안됩니다. 클라이언트를 닫고 위의 항목을 수정하거나 아래의 항목을 추가하세요:
 
-- `TeamSize`: The number of players per team. The client will open 1-8 windows per team depending on this value. Maximum value is 8.
-- `ClientNameSize`: The size of the yellow player names.
-- `privateserver`: Leave this untouched.
-- `acronym`: An abbreviation for the tournament. This affects the required naming for the tournament rooms, check the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) for more information.
-- `BufferTimeoutTime`: Amount of time the client will wait for a player to buffer before continuing gameplay without them.
-  - It is not recommended to change this.
-- `BufferTotalTime`: Amount of time that the client buffers to reduce the frequency of pausing to wait for the buffer. This produces a delay between the client and the players.
-  - It is not recommended to change this.
-- `BufferDangerTime`: Amount of time remaining in the replay buffer before the client pauses to wait for more replay frames.
-  - It is not recommended to change this.
-- `RankingChatDelay`: Delay (in milliseconds) before the scores hide and show the chat again on the ranking screen.
-- `Height`: Height of the streamable area of the client.
-  - The client will calculate the width automatically in a 16:9 ratio.
-  - The "streamable area" of the client does not include the control panel. In general the control panel is 200px larger than the height of the client, so e.g. a 1440p screen would be safe to stream a 1080p tournament.
-  - Default: 720, allowed range: 568-2160
+- `TeamSize`: 각 팀 당 플레이어 수를 정합니다. 1부터 8까지의 숫자를 적을 수 있으며 최대 값은 8입니다.
+- `ClientNameSize`: 관전 창 하단 플레이어 명의 크기를 정합니다.
+- `privateserver`: 건드리지 마세요.
+- `acronym`: 토너먼트의 약자입니다. 멀티플레이어 방을 만들 때 이 약자를 따라야 하며, 자세한 내용은 [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_Usage) 을 참조하세요.
+- `BufferTimeoutTime`: 플레이어들의 리플레이를 위해 클라이언트가 대기하는 시간입니다.
+  - 이 값은 바꾸지 않는 것을 권장합니다.
+- `BufferTotalTime`: 플레이어들의 리플레이를 위해 클라이언트가 대기하는 시간을 줄이는 기능입니다. 이 기능은 플레이어와 관전자 간의 시간차를 발생시킵니다.
+  - 이 값은 바꾸지 않는 것을 권장합니다.
+- `BufferDangerTime`: 리플레이의 프레임 확보를 위해 클라이언트가 대기하기 전 시간입니다.
+  - 이 값은 바꾸지 않는 것을 권장합니다.
+- `RankingChatDelay`: (ms 단위) 클라이언트에서 기록을 숨기고 채팅을 보여줄 때 까지의 시간차입니다.
+- `Height`: 방송 송출할 수 있는 클라이언트의 크기입니다.
+  - 클라이언트가 자동으로 16:9 비율로 폭을 계산합니다.
+  - 송출할 수 있는 클라이언트의 크기는 제어판을 포함하지 않습니다. 보통의 경우 제어판은 200px 정도 더 차지합니다. 따라서 예를 들어 1080p 품질로 방송을 송출하기 위해서는 1440p 이상의 해상도의 사용을 권장합니다.
+  - 기본값: 720, 허용 범위: 568-2160
