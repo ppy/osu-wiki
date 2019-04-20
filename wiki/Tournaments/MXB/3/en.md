@@ -4,9 +4,9 @@ tags:
 ---
 # The 3rd MXB osu!mania 4K Tournament
 
-![MXB 3rd Banner](img/banner.jpg)
+![MXB 3rd Logo](img/logo.jpg)
 
-**Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the 3rd installment of the MXB osu!mania 4K Tournament.
+The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the 3rd installment of the MXB osu!mania 4K Tournament.
 ​​
 ## Tournament Schedule
 
@@ -27,7 +27,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter tag, unique userpage badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 15 CNY |
 
@@ -44,7 +44,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Links
 
-- [Challonge](https://challonge.com/zh_CN/MXB3rd)
+- [Challonge brackets](https://challonge.com/zh_CN/MXB3rd)
 - Livestream
   - [Flow Light](https://live.bilibili.com/73668)
   - [IA daisuki](https://live.bilibili.com/4353181)
@@ -57,11 +57,11 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Mappools
 
-Mappools will be released 1 week before each stage.
+*Mappools will be released 1 week before each stage.*
 
 ## Rules
 
-### Tournament Organization
+### Tournament Organisation
 
 #### Round Overview
 

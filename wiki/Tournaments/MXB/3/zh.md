@@ -4,7 +4,7 @@ tags:
 ---
 # 第三届萌新杯
 
-![MXB 3rd Banner](img/banner.jpg)
+![MXB 3rd Logo](img/logo.jpg)
 
 第三届萌新杯（以下均简写为MXB）是华人区个人比赛，是由MXB举行的第三届华人区osu!mania大赛。比赛所用谱面均为osu!mania专用谱。
 ​​
