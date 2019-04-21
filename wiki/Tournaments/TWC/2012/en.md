@@ -25,8 +25,6 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Taiko World Cup 2012 winners. It is possible that these items change with every installment of the osu!taiko World Cup.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag, profile badge |
@@ -43,7 +41,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
-| Mapset Organiser | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Map Selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Match Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
 | Streamers | ![][flag_HK] [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
 | Referees | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
@@ -70,7 +68,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | ![][flag_DE] | **Germany B** | **[Locher](https://osu.ppy.sh/users/587835)**, [Slih](https://osu.ppy.sh/users/606738), [Xayphon](https://osu.ppy.sh/users/961417), [Brokenarrow](https://osu.ppy.sh/users/384034) |
 | ![][flag_HK] | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [KanaRin](https://osu.ppy.sh/users/310747), [kanpakyin](https://osu.ppy.sh/users/394326), [XeBi320](https://osu.ppy.sh/users/342622) |
 | ![][flag_HK] | **Hong Kong B** | **[7odoa](https://osu.ppy.sh/users/643394)**, [sakurasuzaku](https://osu.ppy.sh/users/192704), [jiujiu123](https://osu.ppy.sh/users/728511), [rturuurud](https://osu.ppy.sh/users/520016) |
-| ![][flag_ITNL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029) |
+| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029) |
 | ![][flag_JP] | **Japan A** | **[pota-row](https://osu.ppy.sh/users/858415)**, [TTTL](https://osu.ppy.sh/users/164583), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [asuke916](https://osu.ppy.sh/users/863073) |
 | ![][flag_JP] | **Japan B** | **[asgardv](https://osu.ppy.sh/users/752078)**, [shifon\[0312\]](https://osu.ppy.sh/users/295488), [Lye](https://osu.ppy.sh/users/508616), [tamutamu](https://osu.ppy.sh/users/364497) |
 | ![][flag_KR] | **Korea A** | **[Remilia-Scarlet](https://osu.ppy.sh/users/602783)**, [Mapper 31](https://osu.ppy.sh/users/156215), [KDS](https://osu.ppy.sh/users/257977), [Riboflavin](https://osu.ppy.sh/users/575159) |
@@ -90,17 +88,13 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Group A | Group B | Group C | Group D | Group E | Group F |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_MO] Macau | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_AT] Austria | ![][flag_BR] Brazil | ![][flag_CN] China |
-| ![][flag_DE] Germany B | ![][flag_HK] Hong Kong B | ![][flag_FR] France | ![][flag_ITNL] Italy-Netherlands | ![][flag_DE] Germany A | ![][flag_MY] Malaysia |
+| ![][flag_DE] Germany B | ![][flag_HK] Hong Kong B | ![][flag_FR] France | ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_DE] Germany A | ![][flag_MY] Malaysia |
 | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
 | ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
 
 ------------------------------
 
-## Podium
-
 ![TWC 2012 Podium](img/podium.png)
-
-## Bracket
 
 ![TWC 2012 Bracket](img/bracket.jpg)
 
@@ -110,7 +104,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 5
 
-**[Download the mappack here! (83.4 MB)](https://puu.sh/ma6o)**
+**[Download the mappack here! (83 MB)](https://puu.sh/ma6o)**
 
 - NoMod
   - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/20125#taiko/93176)
@@ -133,7 +127,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 4
 
-**[Download the mappack here! (90.1 MB)](https://puu.sh/lj8O)**
+**[Download the mappack here! (90 MB)](https://puu.sh/lj8O)**
 
 - NoMod
   - [07th Expansion - miragecoordinator (La Cataline) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/31116#taiko/116050)
@@ -156,7 +150,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 3
 
-**[Download the mappack here! (96.7 MB)](https://puu.sh/kmdM)**
+**[Download the mappack here! (97 MB)](https://puu.sh/kmdM)**
 
 - NoMod
   - [Acme Iku - chaosmaid (demo) (qilliam) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/38720#taiko/124599)
@@ -179,7 +173,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 2
 
-**[Download the mappack here! (94.7 MB)](https://puu.sh/js2S)**
+**[Download the mappack here! (95 MB)](https://puu.sh/js2S)**
 
 - NoMod
   - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
@@ -435,30 +429,30 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Tournament Rules
 
 1. The maps for certain round will be announced by staff. Only those maps can be used in the round.
-    - There will be some maps that can be used only for the final games.
+   - There will be some maps that can be used only for the final games.
 2. One of the staff will be referee for the match.
-    - Referee should post records of the match in this thread.
-    - If the referee is absent, staffs who is present should take over his/her job temporarily.
-        - If no staff is present, the match will be postponed.
+   - Referee should post records of the match in this thread.
+   - If the referee is absent, staffs who is present should take over his/her job temporarily.
+     - If no staff is present, the match will be postponed.
 3. Players should follow instructions and decisions of referee when the match is on-going, except some cases mentioned in the rules.
 4. The matches will be played in locked room created by referee. Setting will be Taiko, Team Vs, score for win condition.
 5. The team with higher total score will win the game.
-    - Score of failed player will be added to total score too.
+   - Score of failed player will be added to total score too.
 6. The team that will win 3 games first will win the match in Group stage. You will have to win 4 games first in Knock-out stage.
-    - In Semi-final and final round, The team should win 5 games first to win the match.
+   - In Semi-final and final round, The team should win 5 games first to win the match.
 7. 'No Video' mod is available. No other mod is allowed unless there is notice about this.
 8. Captain or his/her deputy must be present in the match.
 9. In each game, two captains will choose the map to play alternately.
-    - In the final game with draw(2:2, 3:3 or 4:4), referee will choose the map to play.
-    - Maps cannot be used more than 1 time in the same match unless the game was nullified.
+   - In the final game with draw(2:2, 3:3 or 4:4), referee will choose the map to play.
+   - Maps cannot be used more than 1 time in the same match unless the game was nullified.
 10. If the game ends in a draw, the game will be nullified.
 11. If one of players gets disconnected in the first 2/3 of the map, the game will be nulified.
     - Intro and outro won't be count as play time.
     - If two players get disconnected, the game will be nulified.
     - If disconnection happens right before the game starts, the game will be nulified.
     - If nullification of games due to disconnection happens by one team more than 2 times, the opponent team will win by default.
-        - In semi-final and final round, more than 3 times of disconnection are needed.
-        - Referee can refuse winning by default due to disconnection if other relevant measures can be done.
+      - In semi-final and final round, more than 3 times of disconnection are needed.
+      - Referee can refuse winning by default due to disconnection if other relevant measures can be done.
     - If the time when a player got disconnected is vague, referee will decide whether to nulify or not.
     - If disconnected player doesn't return within 15 minutes, the team including disconnected player will be lose by default.
     - If the referee gets disconnection, the game will continue, captain of red team should post record for the game.
@@ -466,7 +460,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
     - If the disconnection is considered as intentional by referee, referee can announce victory of the opponent team.
 12. If less than 3 players arrived until the time that the match should start, the match can be postponed maximum 20 minutes.
     - Referee can take some relevant measures if one of two teams lacks players after waiting for 20 minutes.
-        - Relevant measures include rescheduling the match, declaring winning by default of the opponent team, etc.
+      - Relevant measures include rescheduling the match, declaring winning by default of the opponent team, etc.
     - Referee can postphone the match if bancho is too unstable to play.
 13. During the match, substitution of players is allowed. Permission of the referee is needed.
     - Maximum one substitution is allowed in Group stage, maximum two substitution is allowed in Knock-out stage.
@@ -479,7 +473,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
     - The manager can revoke decisions which is made by referees later.
 18. The manager can ban a player or a team from the tournament if the player or the team is considered as disturbing the tournament.
     - Banned player won't be allowed to participate the next Taiko tournament.
-        - This can be revoked by manager.
+      - This can be revoked by manager.
 19. Complaints about maps for previous matches won't be accepted.
 20. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
 21. This rules can be modified without noticing.
@@ -487,17 +481,17 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Tournament Registration
 
 1. Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
-    - You don't need to specify which player is back-up.
+   - You don't need to specify which player is back-up.
 2. The team should include a captain for managing the team and the players.
 3. Basically a team represents a nation. That means you should make a team with players from same country.
 4. If your country lacks Taiko players sufficient to participate this, you can make a binational team.
-    - Binational team includes 2 players from a certain country and 2 players from an another country.
-    - Making a binational team can be restricted due to time difference between members of binational team.
+   - Binational team includes 2 players from a certain country and 2 players from an another country.
+   - Making a binational team can be restricted due to time difference between members of binational team.
 5. Due to so many Taiko players are from certain countries, more than one team per country is available.
 6. Captain should forum-PM to Tournament manager to make a team.
-    - Captain can make a team first, then add some players for it.
-    - One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
-    - Captain can add a player if there are 3 players in the team until the first match of the tournament starts.
+   - Captain can make a team first, then add some players for it.
+   - One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
+   - Captain can add a player if there are 3 players in the team until the first match of the tournament starts.
 7. Staff can't participate tournament as a player.
 8. These rules can be modified without noticing.
 
@@ -506,8 +500,8 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 The 1st round of the tournament is group robin-round stage. There are 6 groups and each groups have 4 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group and 4 best #3 teams will be ascended to the next round. (Total 16 teams will be ascended.) Ranking of teams will be decided by certain standards:
 
 1. More matches won.
-2. Have bigger {(the number of games won) - (the number of games defeated)}.
-3. Have bigger ∑{(total score difference) / (maximum score)}.
+2. Have bigger `{(the number of games won) - (the number of games defeated)}`.
+3. Have bigger `∑{(total score difference) / (maximum score)}`.
 4. Winner of the rematch.
 
 Other rounds are Knock-out stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
@@ -517,19 +511,19 @@ Usually your team has one match per a week.
 ### Match Instructions
 
 1. One of referees will make the room about 15 minutes before the time. All players should arrive the room in right time.
-    - The room will be locked. The password will be sent to the two captains as soon as possible.
-    - Referee should post multiplayer history in this thread after the match ends.
+   - The room will be locked. The password will be sent to the two captains as soon as possible.
+   - Referee should post multiplayer history in this thread after the match ends.
 2. The team that mentioned first in the timetable will be Blue team. Referee will be Blue team, too.
-    - Referee should not touch anything that can affect score.
+   - Referee should not touch anything that can affect score.
 3. If everythings are ready for the matches, referee will give host to the capatin of blue team.
 4. Captain of the blue team selects the map from the maps that are announced for the round, then starts the game.
-    - How to select which team will choose the map first can be changed by referee if both captains agree.
+   - How to select which team will choose the map first can be changed by referee if both captains agree.
 5. When the game ends, referee will save screencshot for the result screen, and post it to this thread when the match ends.
 6. Captain of the blue team will give host to captain of the red team and the rest is same as 4 and 5.
-    - In final game, referee will become host and select the map to play.
+   - In final game, referee will become host and select the map to play.
 7. Repeat 4\~6 until winner is decided.
 8. In Group stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
-    - From semi-final round, you have to win 5 games first.
+   - From semi-final round, you have to win 5 games first.
 
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
@@ -540,11 +534,12 @@ Usually your team has one match per a week.
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ITNL]: /wiki/shared/flag/ITNL.png
+[flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_MO]: /wiki/shared/flag/MO.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
