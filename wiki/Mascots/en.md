@@ -14,11 +14,11 @@ pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
-<!-- *For the news post, see: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163)* -->
+*For the news post, see: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172cm tall, and weighs 65kg. His initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347) while Daru has created the comboburst art.
+Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347) while Daru has created the comboburst art.
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
@@ -64,7 +64,7 @@ Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete
 
 > Don is the protagonist of the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
 
-和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48cm tall and weighs more than 100kg. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48 centimetres tall and weighs more than 100 kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
 
 ## Community
 
@@ -80,6 +80,12 @@ Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the particip
 
 Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she's not sleeping or eating, she's playing osu!taiko, or playing retro video games for kicks!
 
+### Chirou
+
+![Chirou](img/Chirou.png "Chirou")
+
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches (about 149.86 centimetres) and weighs 100 pounds (about 45.36 kilograms). Her hobbies include practicing drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
@@ -91,9 +97,3 @@ Designed by [crystalsuicine](https://osu.ppy.sh/users/9974), Tama was one of the
 ![Taikonator](img/Taikonator.png "Taikonator")
 
 Taikonator, also known as Taikonator 3000, was one of the participants in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
-
-### pyun
-
-![pyun](img/pyun.png "pyun")
-
-Designed by [pyun](https://osu.ppy.sh/users/981534), pyun was one of the participants in the osu!taiko mascot design contest. She is seen in some of pyun's past fanart contest submissions.
