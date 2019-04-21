@@ -13,13 +13,14 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based Taiko tou
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 16-26 Jan 2014 |
-| Live Drawings | 01 Feb 2014 13.00 (UTC) |
-| Group Stage | 07-09 Feb 2014 |
-| Round of 16 | 15-16 Feb 2014 |
-| Quarterfinals | 22-23 Feb 2014 |
-| Semifinals | 01-02 Mar 2014 |
-| Finals/3rd place match | 08-09 Mar 2014 |
+| Registration Phase | 2014-01-16/2014-01-26 |
+| Live Drawings | 2014-02-01 (13:00 UTC) |
+| Group Stage | 2014-02-07/2014-02-09 |
+| Round of 16 | 2014-02-15/2014-02-16 |
+| Quarterfinals | 2014-02-22/2014-02-23 |
+| Semifinals | 2014-03-01/2014-03-02 |
+| Finals | 2014-03-08/2014-03-09 |
+| Grand Finals | 2014-03-15 |
 
 ## Prizes
 
@@ -145,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [Lon - Yuru Fuwa Jukai Girl (Love) \[Oni\]](https://osu.ppy.sh/beatmaps/315972)
   - [Hatsune Miku - Hatsune Miku no Shuuen (DJPop) \[31's Taiko\]](https://osu.ppy.sh/beatmaps/53283)
-  - [Prim - Koisuru*Uchuu Sensou!! (Ryu* Remix) (DoKoLP) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmaps/160078)
+  - [Prim - Koisuru\*Uchuu Sensou!! (Ryu\* Remix) (DoKoLP) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmaps/160078)
   - [paraoka - boot (rickyboi) \[inaba's Taiko\]](https://osu.ppy.sh/beatmaps/157233)
 - DoubleTime
   - [SHK - Weep Irish (AngelHoney) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmaps/95775)
