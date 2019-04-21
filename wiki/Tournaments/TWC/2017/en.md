@@ -34,7 +34,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://osu.ppy.sh/users/398275) |
