@@ -31,9 +31,11 @@ The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tourname
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
 
+![TWC #3 Winner Badge](img/badge.png)
+
 ## Organisation
 
-The Taiko World Cup #3 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Taiko World Cup was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Postition | Member(s) |
 | :-- | :-- |
@@ -61,7 +63,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | ![][flag_CL] | **Chile A** | **[T o u c h e](https://osu.ppy.sh/users/744220)**, [Cristian](https://osu.ppy.sh/users/Cristian), [Foster Don](https://osu.ppy.sh/users/144464), [MichelleP](https://osu.ppy.sh/users/MichelleP) |
 | ![][flag_CL] | **Chile B** | **[kazukisinx](https://osu.ppy.sh/users/920861)**, [Letz\_Shake](https://osu.ppy.sh/users/593579), [koneejo](https://osu.ppy.sh/users/koneejo), [N3koKiller](https://osu.ppy.sh/users/1095350) |
 | ![][flag_CN] | **China A** | **[HM495](https://osu.ppy.sh/users/810813)**, [Mic](https://osu.ppy.sh/users/81972), [narcissu2012](https://osu.ppy.sh/users/819937), [baka\_baka\_Koishi](https://osu.ppy.sh/users/915103) |
-| ![][flag_CN] | **China B** | **[bx1989](https://osu.ppy.sh/users/424233)**, [yuan0312](https://osu.ppy.sh/users/yuan0312), [Yowane \_ Haku](https://osu.ppy.sh/users/Yowane%20_%20Haku), [mcwyc](https://osu.ppy.sh/users/624482) |
+| ![][flag_CN] | **China B** | **[bx1989](https://osu.ppy.sh/users/424233)**, [yuan0312](https://osu.ppy.sh/users/yuan0312), [Yowane \_ Haku](https://osu.ppy.sh/users/255267), [mcwyc](https://osu.ppy.sh/users/624482) |
 | ![][flag_DK] ![][flag_NO] | **Denmark-Norway** | **[TraxieChan](https://osu.ppy.sh/users/455552)**, [Zheant](https://osu.ppy.sh/users/708656), [Dolphin](https://osu.ppy.sh/users/1331438), [Agu](https://osu.ppy.sh/users/1109122) |
 | ![][flag_SV] ![][flag_VE] | **El Salvador-Venezuela** | **[Christian](https://osu.ppy.sh/users/1435127)**, [KIKECTB](https://osu.ppy.sh/users/KIKECTB), [\[Chichioko\]](https://osu.ppy.sh/users/2140739), [Black Wolf159](https://osu.ppy.sh/users/1860819) |
 | ![][flag_FI] | **Finland** | **[Samwais](https://osu.ppy.sh/users/1227199)**, [ReZero](https://osu.ppy.sh/users/391366), [Orkel](https://osu.ppy.sh/users/39385) |

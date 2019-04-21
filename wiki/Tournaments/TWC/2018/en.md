@@ -30,6 +30,8 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
 
+![TWC 2018 Winner Badge](img/badge.jpg) ![TWC 2018 2nd Place Badge](img/badge2.jpg) ![TWC 2018 3rd Place Badge](img/badge3.jpg) 
+
 ## Organisation
 
 The osu!taiko World Cup 2018 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
@@ -410,7 +412,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2017: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2018: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  

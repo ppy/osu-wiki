@@ -30,6 +30,8 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based Taiko tou
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
+![TWC 2015 Winner Badge](img/badge.png) ![TWC 2015 2nd Place Badge](img/badge2.png) ![TWC 2015 3rd Place Badge](img/badge3.png) 
+
 ## Organisation
 
 The osu! Taiko World Cup 2015 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
