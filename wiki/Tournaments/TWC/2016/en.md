@@ -9,7 +9,7 @@ tags:
 
 The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 6th installment of the osu!taiko World Cup.
 
-## Tournament schedule
+## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -34,7 +34,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selectors | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
@@ -57,7 +57,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Zyance](https://osu.ppy.sh/users/2401482), [Lost The Lights](https://osu.ppy.sh/users/1255920), [Cyntu](https://osu.ppy.sh/users/724230), [Nearex](https://osu.ppy.sh/users/1893238), [whosthebox](https://osu.ppy.sh/users/1451311) |
 | ![][flag_AU] | **Australia** | **[dajayeway](https://osu.ppy.sh/users/4841352)**, [andrew000000](https://osu.ppy.sh/users/122174), [TimmyTimTims](https://osu.ppy.sh/users/1254926), [TitansHD](https://osu.ppy.sh/users/3842620), [Aloda](https://osu.ppy.sh/users/1190127), [dayjayweigh](https://osu.ppy.sh/users/6185399) |
 | ![][flag_BR] | **Brazil** | **[LuckySonicGHz](https://osu.ppy.sh/users/3949268)**, [MordRyze](https://osu.ppy.sh/users/3247818), [Skull Kid](https://osu.ppy.sh/users/3044264), [Akyuu](https://osu.ppy.sh/users/2959941), [suyama-chan](https://osu.ppy.sh/users/928298), [taikorage](https://osu.ppy.sh/users/3684443) |
-| ![][flag_CA] | **Canada** | **[Fudgyking](https://osu.ppy.sh/users/3802922)**, [Tasha](https://osu.ppy.sh/users/1031958), [janitoreihil](https://osu.ppy.sh/users/3307897), [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_US] [IControl](https://osu.ppy.sh/users/2307285), [Stevenrama](https://osu.ppy.sh/users/3649978) |
+| ![][flag_CA] | **Canada** | **[Fudgyking](https://osu.ppy.sh/users/3802922)**, [Tasha](https://osu.ppy.sh/users/1031958), [janitoreihil](https://osu.ppy.sh/users/3307897), [vladyushko](https://osu.ppy.sh/users/4908773), [IControl](https://osu.ppy.sh/users/2307285), [Stevenrama](https://osu.ppy.sh/users/3649978) |
 | ![][flag_CL] | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [MikuWRS](https://osu.ppy.sh/users/1619547), [joel](https://osu.ppy.sh/users/2244644), [Kioshinxs](https://osu.ppy.sh/users/2729797), [le gagoguigo3](https://osu.ppy.sh/users/8057655) |
 | ![][flag_CN] | **China** | **[moe moe moe](https://osu.ppy.sh/users/1804904)**, [bxczyb](https://osu.ppy.sh/users/426357), [HimemiyaChikane](https://osu.ppy.sh/users/3672537), [akaimo\_m3](https://osu.ppy.sh/users/6294200), [- Yuuka Niya -](https://osu.ppy.sh/users/1892059), [Nikubenki Saya](https://osu.ppy.sh/users/2250591) |
 | ![][flag_FR] | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [Ekoro](https://osu.ppy.sh/users/284905), [omegaflo](https://osu.ppy.sh/users/83291), [Arrival](https://osu.ppy.sh/users/1694000), [Nofool](https://osu.ppy.sh/users/672430), [FrancisRave](https://osu.ppy.sh/users/1733728) |
@@ -93,7 +93,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar)**
+**[Download the mappack here! (122 MB)](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar)**
 
 - NoMod
   - [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmaps/773846)
@@ -123,7 +123,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/kmqmdnde5tmdxz8/TWC_2016_Semifinals.rar)**
+**[Download the mappack here! (93 MB)](https://www.mediafire.com/download/kmqmdnde5tmdxz8/TWC_2016_Semifinals.rar)**
 
 - NoMod
   - [BlackY vs. Yooh - XROSS INFECTION (-\[ Dumpling \]-) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmaps/716970)
@@ -153,7 +153,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/xaag5o0tyacpcm4/TWC_2016_Quarterfinals.rar)**
+**[Download the mappack here! (121 MB)](https://www.mediafire.com/download/xaag5o0tyacpcm4/TWC_2016_Quarterfinals.rar)**
 
 - NoMod
   - [xi - Wish Upon Twin Stars (Ascendance) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmaps/805878)
@@ -183,7 +183,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/c35kxmdomnpp1sy/TWC_2016_Round_of_16.rar)**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/c35kxmdomnpp1sy/TWC_2016_Round_of_16.rar)**
 
 - NoMod
   - [Ryu\* - We're so Happy (Spy) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmaps/314179)
@@ -213,7 +213,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 ### Group Stage
 
-**[Download the mappool here!](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar)**
+**[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar)**
 
 - NoMod
   - [YZYX - I nyaned for hours ( ' w')!! feat. Hatsune Miku (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/638203)
