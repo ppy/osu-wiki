@@ -52,7 +52,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 ## Participants
 
 |  | Country | Members |
-| --: | :-: | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Midnaait](https://osu.ppy.sh/users/1506011), [Arnon](https://osu.ppy.sh/users/5332868), [gaston\_2199](https://osu.ppy.sh/users/5938161), [Laut1G](https://osu.ppy.sh/users/7286821), [Axer](https://osu.ppy.sh/users/7299864) |
 | ![][flag_AU] | **Australia** | **[Jaye](https://osu.ppy.sh/users/4841352)**, [RollingDango](https://osu.ppy.sh/users/7728466), [Ceryuia](https://osu.ppy.sh/users/5253213), [andrew000000](https://osu.ppy.sh/users/122174), [Aloda](https://osu.ppy.sh/users/1190127), [SpiritsUnite](https://osu.ppy.sh/users/1198002) |
 | ![][flag_BR] | **Brazil** | **[Marm](https://osu.ppy.sh/users/5143353)**, [LuckySonicGHz](https://osu.ppy.sh/users/3949268), [Serial Dreemurr](https://osu.ppy.sh/users/1235444), [Ppus](https://osu.ppy.sh/users/5918857), [Magg](https://osu.ppy.sh/users/2648271), [Coryn](https://osu.ppy.sh/users/2828556) |

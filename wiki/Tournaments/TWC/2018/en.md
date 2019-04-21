@@ -53,7 +53,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 ## Participants
 
 |  | Country | Members |
-| --: | :-: | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [TrolloCat](https://osu.ppy.sh/users/9228032), [BossPlays_02](https://osu.ppy.sh/users/7341471), [Midnaait](https://osu.ppy.sh/users/1506011), [Laut1G](https://osu.ppy.sh/users/7286821) |
 | ![][flag_AU] | **Australia** | **[Aloda](https://osu.ppy.sh/users/1190127)**, [rango](https://osu.ppy.sh/users/7728466), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [remii](https://osu.ppy.sh/users/2913584) |
 | ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)**, [Serial Dreemurr](https://osu.ppy.sh/users/1235444), [Kbludoh](https://osu.ppy.sh/users/2543764), [Skull Kid](https://osu.ppy.sh/users/3044264), [Kqrth](https://osu.ppy.sh/users/4115718) |

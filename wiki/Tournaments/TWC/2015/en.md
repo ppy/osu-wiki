@@ -53,7 +53,7 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 ## Participants
 
 |  | Country | Members |
-| --: | :-: | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Nearex](https://osu.ppy.sh/users/1893238), [cyntuu mirandaa](https://osu.ppy.sh/users/724230) |
 | ![][flag_AU] | **Australia** | **[Slaybelle](https://osu.ppy.sh/users/3084044)**, [dajayeway](https://osu.ppy.sh/users/4841352), [Fideliant](https://osu.ppy.sh/users/2200052), [Pew](https://osu.ppy.sh/users/597692) |
 | ![][flag_CA] | **Canada** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [Fudgyking](https://osu.ppy.sh/users/3802922), [janitoreihil](https://osu.ppy.sh/users/3307897), [Wheelcakes](https://osu.ppy.sh/users/3513722), [Ilfri-chan](https://osu.ppy.sh/users/2518210), [IControl](https://osu.ppy.sh/users/2307285) |

@@ -53,7 +53,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 ## Participants
 
 |  | Country | Members |
-| --: | :-: | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Zyance](https://osu.ppy.sh/users/2401482), [Lost The Lights](https://osu.ppy.sh/users/1255920), [Cyntu](https://osu.ppy.sh/users/724230), [Nearex](https://osu.ppy.sh/users/1893238), [whosthebox](https://osu.ppy.sh/users/1451311) |
 | ![][flag_AU] | **Australia** | **[dajayeway](https://osu.ppy.sh/users/4841352)**, [andrew000000](https://osu.ppy.sh/users/122174), [TimmyTimTims](https://osu.ppy.sh/users/1254926), [TitansHD](https://osu.ppy.sh/users/3842620), [Aloda](https://osu.ppy.sh/users/1190127), [dayjayweigh](https://osu.ppy.sh/users/6185399) |
 | ![][flag_BR] | **Brazil** | **[LuckySonicGHz](https://osu.ppy.sh/users/3949268)**, [MordRyze](https://osu.ppy.sh/users/3247818), [Skull Kid](https://osu.ppy.sh/users/3044264), [Akyuu](https://osu.ppy.sh/users/2959941), [suyama-chan](https://osu.ppy.sh/users/928298), [taikorage](https://osu.ppy.sh/users/3684443) |
