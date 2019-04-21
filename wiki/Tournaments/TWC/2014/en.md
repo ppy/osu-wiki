@@ -3,113 +3,98 @@ tags:
 - TWC 2014
 - TWC2014
 ---
-osu! Taiko World Cup 2014
-=============================
+# osu! Taiko World Cup 2014
 
-![TWC 2014 logo](logo.png)
+![TWC 2014 Logo](img/logo.png)
 
-The **osu! Taiko World Cup 2014** (***TWC 2014***) is a country-based Taiko tournament hosted by the [Tournament Management](https://osu.ppy.sh/groups/26). It is the 4th installment of the osu! Taiko World Cup. It lasts from the 16th Jan 2014 till 9th Mar 2014. The previous title holder is **![][flag_TW] Taiwan**.
+The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based Taiko tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 4th installment of the osu!taiko World Cup.
+
+## Tournament Schedule
+
+| Event | Timestamp |
+| --: | :-- |
+| Registration Phase | 16-26 Jan 2014 |
+| Live Drawings | 01 Feb 2014 13.00 (UTC) |
+| Group Stage | 07-09 Feb 2014 |
+| Round of 16 | 15-16 Feb 2014 |
+| Quarterfinals | 22-23 Feb 2014 |
+| Semifinals | 01-02 Mar 2014 |
+| Finals/3rd place match | 08-09 Mar 2014 |
+
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+
+## Organisation
+
+| Position | Member(s) |
+| :-- | :-- |
+| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Streamer | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentators | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438) |
+| Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Groups Stage statistics sheet](https://tournaments.hiroto.eu/)**
+
+-----------------------
+
+## Participants
+
+|  | Country | Members |
+| --: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[whosthebox](https://osu.ppy.sh/u/1451311)**, [Nearex](https://osu.ppy.sh/users/1893238), [Pollotuc](https://osu.ppy.sh/users/42440), [Chillet](https://osu.ppy.sh/users/1236632), [cyntuu mirandaa](https://osu.ppy.sh/users/724230), [Lost The Lights](https://osu.ppy.sh/users/1255920) |
+| ![][flag_BR] | **Brazil** | **[Kolbe](https://osu.ppy.sh/users/1254286)**, [Yuki-chan](https://osu.ppy.sh/users/93687), [- T i g e r -](https://osu.ppy.sh/users/-%20T%20i%20g%20e%20r%20-), [suyama-chan](https://osu.ppy.sh/users/928298), [lubask](https://osu.ppy.sh/users/1897332), [Wolf](https://osu.ppy.sh/users/Wolf) |
+| ![][flag_CA] | **Canada** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [kenny388](https://osu.ppy.sh/users/1098972), [Crystalloid](https://osu.ppy.sh/users/699741), [Nanners](https://osu.ppy.sh/users/459886), [xlzqwerty1](https://osu.ppy.sh/users/1466365) |
+| ![][flag_CL] | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [megadaisukeone](https://osu.ppy.sh/users/1577133), [Gonzaalooo](https://osu.ppy.sh/users/1948903), [MikuWhiteRockShooter](https://osu.ppy.sh/users/1619547) |
+| ![][flag_CN] | **China** | **[- Yuuka Niya -](https://osu.ppy.sh/users/1892059)**, [yys428](https://osu.ppy.sh/users/1061175), [HM495](https://osu.ppy.sh/users/810813), [- Kagami Yuki -](https://osu.ppy.sh/users/1319686), [mousegoomba](https://osu.ppy.sh/users/1035291), [moe moe moe](https://osu.ppy.sh/users/1804904) |
+| ![][flag_FR] | **France** | **[_Gezo_](https://osu.ppy.sh/users/481582)**, [Nashmun](https://osu.ppy.sh/users/49031), [TimmyAkmed](https://osu.ppy.sh/users/1799973), [Jinyan](https://osu.ppy.sh/users/669531), [Fraolinch](https://osu.ppy.sh/users/205257), [omegaflo](https://osu.ppy.sh/users/83291) |
+| ![][flag_DE] | **Germany** | **[Luna](https://osu.ppy.sh/users/588007)**, [tiamus](https://osu.ppy.sh/users/515277), [BrokenArrow](https://osu.ppy.sh/users/384034), [DarkDunskin](https://osu.ppy.sh/users/98985), [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [Mew104](https://osu.ppy.sh/users/2345156) |
+| ![][flag_HK] | **Hong Kong** | **[thomas1195](https://osu.ppy.sh/users/1691488)**, [Andrew Chow](https://osu.ppy.sh/users/Andrew%20Chow), [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257), [aabc271](https://osu.ppy.sh/users/155707) |
+| ![][flag_JP] | **Japan** | **[TKSalt](https://osu.ppy.sh/users/940878)**, [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [sobatsuyu100](https://osu.ppy.sh/users/2076374), [azger](https://osu.ppy.sh/users/2335982) |
+| ![][flag_MY] | **Malaysia** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [Jerry](https://osu.ppy.sh/users/605973), [HeatKai](https://osu.ppy.sh/users/332555), [huiko12](https://osu.ppy.sh/users/598553), [buhzidao](https://osu.ppy.sh/users/1655126), [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![][flag_PH] | **Philippines** | **[Primrea](https://osu.ppy.sh/users/943743)**, [senkai](https://osu.ppy.sh/users/1150178), [Pizzicato](https://osu.ppy.sh/users/Pizzicato), [Kotaro](https://osu.ppy.sh/users/796530) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [Minkodon](https://osu.ppy.sh/users/1385227), [LZMieczu](https://osu.ppy.sh/users/1797498), [Sylwia132](https://osu.ppy.sh/users/2037319), [IsonamiPL](https://osu.ppy.sh/users/1753234) |
+| ![][flag_RU] | **Russian Federation** | **[MarisaLover](https://osu.ppy.sh/users/1359539)**, [Livius777](https://osu.ppy.sh/users/1282662), [magax](https://osu.ppy.sh/users/magax) |
+| ![][flag_SG] | **Singapore** | **[CoroQuetz](https://osu.ppy.sh/users/499843)**, [minray](https://osu.ppy.sh/users/653771), [neonat](https://osu.ppy.sh/users/1561995), [DJNightmare](https://osu.ppy.sh/users/70909) |
+| ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [eoe](https://osu.ppy.sh/users/eoe), [-applerss-](https://osu.ppy.sh/users/983349), [L y s](https://osu.ppy.sh/users/211825), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944) |
+| ![][flag_ES] | **Spain** | **[LZD](https://osu.ppy.sh/users/224335)**, [MYRKUL](https://osu.ppy.sh/users/255933), [CARRI](https://osu.ppy.sh/users/854536), [Hanjamon](https://osu.ppy.sh/users/1703330), [son\_gohan\_2](https://osu.ppy.sh/users/443305), [Ares267](https://osu.ppy.sh/users/174378) |
+| ![][flag_SE] | **Sweden** | **[boat](https://osu.ppy.sh/users/276074)**, [Tanaka](https://osu.ppy.sh/users/1897905), [birrin](https://osu.ppy.sh/users/2290294), [Fuwuwi](https://osu.ppy.sh/users/88200) |
+| ![][flag_UA] | **Ukraine** | **[Pagliaccio](https://osu.ppy.sh/users/1163187)**, [Anny](https://osu.ppy.sh/users/249094), [Aka](https://osu.ppy.sh/users/1307553) |
+| ![][flag_GB] | **United Kingdom** | **[xWillx](https://osu.ppy.sh/users/696222)**, [abrian159](https://osu.ppy.sh/users/1159051), [Dainesl](https://osu.ppy.sh/users/Dainesl), [TurnipLover](https://osu.ppy.sh/users/TurnipLover), [Lno](https://osu.ppy.sh/users/1900787) |
+| ![][flag_US] | **United States** | **[MMzz](https://osu.ppy.sh/users/128993)**, [Backfire](https://osu.ppy.sh/users/263110), [LoLBryster](https://osu.ppy.sh/users/1800629), [OzzyOzrock](https://osu.ppy.sh/users/465153), [burntpurple1](https://osu.ppy.sh/users/2238673), [AnFace](https://osu.ppy.sh/users/233485) |
+
+------------------------------------------------------------------------
+
+## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing                                                    | Country                                      |
-|------------------------------------------------------------|----------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Japan**     |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] **Hong Kong** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] **France**    |
+| Placing | Team |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
 
-Tournament schedule
----------------------
-
-| Event                  | Timestamp                 |
-|------------------------|---------------------------|
-| Registration Phase     | 16-26 Jan 2014            |
-| Live Drawings          | 01 Feb 2014 13.00 (UTC+0) |
-| Group Stage            | 07-09 Feb 2014            |
-| Round 16               | 15-16 Feb 2014            |
-| Quarter-finals         | 22-23 Feb 2014            |
-| Semi-finals            | 01-02 Mar 2014            |
-| Finals/3rd place match | 08-09 Mar 2014            |
-
-Prizes
----------
-
-| Placing                                                    | Country                                          |
-|------------------------------------------------------------|--------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 month supporter tag, profile badge, TWC trophy |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 month supporter tag                            |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month supporter tag                            |
-
-Organization
---------------
-
-| Job                   | Person(s)                                                                                                                                                                                                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703)                                                                                                                                                                  |
-| Map Selectors         | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                                                                                                                           |
-| Streamers             | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/sharpii)                                                                                                                                                                                                                              |
-| Commentators          | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
-| Statistician          | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                |
+![TWC 2014 Bracket](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
-Links
---------
-
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
--   [osu! Taiko World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
--   [Group Stage Statistics](https://tournaments.hiroto.eu/)
-
-------------------------------------------------------------------------
-
-Knock-Out Bracket
------------------
-
-![TWC 2014 bracket](bracket.jpg)
-
-Participants
-----------------
-
-| Country                                 | Group A                                                                                                                                                                                                                                                                        |
-|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_BR] Brazil   | **[Kolbe](https://osu.ppy.sh/users/Kolbe)**, [Yuki-chan](https://osu.ppy.sh/users/Yuki-chan), [- T i g e r -](https://osu.ppy.sh/users/-%20T%20i%20g%20e%20r%20-), [suyama-chan](https://osu.ppy.sh/users/suyama-chan), [lubask](https://osu.ppy.sh/users/lubask), [Wolf](https://osu.ppy.sh/users/Wolf)     |
-| ![][flag_MY] Malaysia | **[taiko_maniac1811](https://osu.ppy.sh/users/taiko_maniac1811)**, [Jerry](https://osu.ppy.sh/users/Jerry), [HeatKai](https://osu.ppy.sh/users/HeatKai), [huiko12](https://osu.ppy.sh/users/huiko12), [buhzidao](https://osu.ppy.sh/users/buhzidao), [cdhsausageboy](https://osu.ppy.sh/users/cdhsausageboy) |
-| ![][flag_JP] Japan    | **[TKSalt](https://osu.ppy.sh/users/940878)**, [Orukaa](https://osu.ppy.sh/users/Orukaa), [pagr42](https://osu.ppy.sh/users/pagr42), [NeGaTiVeMinD](https://osu.ppy.sh/users/NeGaTiVeMinD), [sobatsuyu100](https://osu.ppy.sh/users/sobatsuyu100), [azger](https://osu.ppy.sh/users/azger)                   |
-| ![][flag_DE] Germany  | **[Luna](https://osu.ppy.sh/users/Luna)**, [tiamus](https://osu.ppy.sh/users/tiamus), [BrokenArrow](https://osu.ppy.sh/users/BrokenArrow), [DarkDunskin](https://osu.ppy.sh/users/DarkDunskin), [[TaikoTori]](https://osu.ppy.sh/users/1074143), [Mew104](https://osu.ppy.sh/users/Mew104)                   |
-| ![][flag_SE] Sweden   | **[boat](https://osu.ppy.sh/users/276074)**, [Tanaka](https://osu.ppy.sh/users/1897905), [birrin](https://osu.ppy.sh/users/2290294), [Fuwuwi](https://osu.ppy.sh/users/88200)                                                                                                                      |
-
-| Country                                       | Group B                                                                                                                                                                                                                                                                                                    |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_CN] China          | **[- Yuuka Niya -](https://osu.ppy.sh/users/-%20Yuuka%20Niya%20-)**, [yys428](https://osu.ppy.sh/users/yys428), [HM495](https://osu.ppy.sh/users/HM495), [- Kagami Yuki -](https://osu.ppy.sh/users/-%20Kagami%20Yuki%20-), [mousegoomba](https://osu.ppy.sh/users/mousegoomba), [moe moe moe](https://osu.ppy.sh/users/moe%20moe%20moe) |
-| ![][flag_KR] Korea          | **[Konpaku Sariel](https://osu.ppy.sh/users/Konpaku%20Sariel)**, [eoe](https://osu.ppy.sh/users/eoe), [-applerss-](https://osu.ppy.sh/users/-applerss-), [L y s](https://osu.ppy.sh/users/L%20y%20s), [[Akita-Neru]](https://osu.ppy.sh/users/613944)                                                                               |
-| ![][flag_ES] Spain          | **[LZD](https://osu.ppy.sh/users/LZD)**, [MYRKUL](https://osu.ppy.sh/users/MYRKUL), [CARRI](https://osu.ppy.sh/users/CARRI), [Hanjamon](https://osu.ppy.sh/users/Hanjamon), [son_gohan_2](https://osu.ppy.sh/users/son_gohan_2), [Ares267](https://osu.ppy.sh/users/Ares267)                                                             |
-| ![][flag_SG] Singapore      | **[CoroQuetz](https://osu.ppy.sh/users/499843)**, [minray](https://osu.ppy.sh/users/653771), [neonat](https://osu.ppy.sh/users/1561995), [DJNightmare](https://osu.ppy.sh/users/70909)                                                                                                                                         |
-| ![][flag_GB] United Kingdom | **[xWillx](https://osu.ppy.sh/users/xWillx)**, [Abrian159](https://osu.ppy.sh/users/Abrian159), [Dainesl](https://osu.ppy.sh/users/Dainesl), [TurnipLover](https://osu.ppy.sh/users/TurnipLover), [Lno](https://osu.ppy.sh/users/Lno)                                                                                               |
-
-| Country                                           | Group C                                                                                                                                                                                                                                                                                        |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_FR] France             | **[_Gezo_](https://osu.ppy.sh/users/481582)**, [Nashmun](https://osu.ppy.sh/users/49031), [TimmyAkmed](https://osu.ppy.sh/users/1799973), [Jinyan](https://osu.ppy.sh/users/669531), [Fraolinch](https://osu.ppy.sh/users/205257), [omegaflo](https://osu.ppy.sh/users/83291)                                                |
-| ![][flag_AR] Argentina          | **[whosthebox](https://osu.ppy.sh/users/whosthebox)**, [Nearex](https://osu.ppy.sh/users/Nearex), [Pollotuc](https://osu.ppy.sh/users/Pollotuc), [Chillet](https://osu.ppy.sh/users/Chillet), [cyntuu mirandaa](https://osu.ppy.sh/users/cyntuu%20mirandaa), [Lost The Lights](https://osu.ppy.sh/users/Lost%20The%20Lights) |
-| ![][flag_UA] Ukraine            | **[Pagliaccio](https://osu.ppy.sh/users/1163187)**, [Anny](https://osu.ppy.sh/users/249094), [Aka](https://osu.ppy.sh/users/1307553)                                                                                                                                                                          |
-| ![][flag_CA] Canada             | **[Tasha](https://osu.ppy.sh/users/Tasha)**, [kenny388](https://osu.ppy.sh/users/kenny388), [Crystalloid](https://osu.ppy.sh/users/Crystalloid), [Nanners](https://osu.ppy.sh/users/Nanners), [xlzqwerty1](https://osu.ppy.sh/users/xlzqwerty1)                                                                         |
-| ![][flag_RU] Russian Federation | **[MarisaLover](https://osu.ppy.sh/users/MarisaLover)**, [Livius777](https://osu.ppy.sh/users/Livius777), [magax](https://osu.ppy.sh/users/magax)                                                                                                                                                             |
-
-| Country                                      | Group D                                                                                                                                                                                                                                                                                 |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][flag_US] United States | **[MMzz](https://osu.ppy.sh/users/MMzz)**, [Backfire](https://osu.ppy.sh/users/Backfire), [LoLBryster](https://osu.ppy.sh/users/LoLBryster), [OzzyOzrock](https://osu.ppy.sh/users/OzzyOzrock), [burntpurple1](https://osu.ppy.sh/users/burntpurple1), [AnFace](https://osu.ppy.sh/users/AnFace)                      |
-| ![][flag_CL] Chile         | **[-Anhedonia-](https://osu.ppy.sh/users/-Anhedonia-)**, [megadaisukeone](https://osu.ppy.sh/users/megadaisukeone), [Gonzaalooo](https://osu.ppy.sh/users/Gonzaalooo), [MikuWhiteRockShooter](https://osu.ppy.sh/users/MikuWhiteRockShooter)                                                                |
-| ![][flag_PH] Philippines   | **[Primrea](https://osu.ppy.sh/users/Primrea)**, [senkai](https://osu.ppy.sh/users/senkai), [Pizzicato](https://osu.ppy.sh/users/Pizzicato), [Kotaro](https://osu.ppy.sh/users/Kotaro)                                                                                                                      |
-| ![][flag_PL] Poland        | **[Acrith](https://osu.ppy.sh/users/Acrith)**, [DarkStoorM](https://osu.ppy.sh/users/DarkStoorM), [Minkodon](https://osu.ppy.sh/users/Minkodon), [LZMieczu](https://osu.ppy.sh/users/LZMieczu), [Sylwia132](https://osu.ppy.sh/users/Sylwia132), [IsonamiPL](https://osu.ppy.sh/users/IsonamiPL)                      |
-| ![][flag_HK] Hong Kong     | **[thomas1195](https://osu.ppy.sh/users/thomas1195)**, [Andrew Chow](https://osu.ppy.sh/users/Andrew%20Chow), [[yuyuko_Saigyouj]](https://osu.ppy.sh/users/1378994), [ice man007](https://osu.ppy.sh/users/ice%20man007), [Jikson[m9]](https://osu.ppy.sh/users/1485257), [aabc271](https://osu.ppy.sh/users/aabc271) |
-
-------------------------------------------------------------------------
-
-Mappools
-------------
+## Mappools
 
 ### Finals
 
-[Click here to download whole pool in one pack!](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)
+**This mappool was used on Finals and Grand Finals**
+
+**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)**
 
 - NoMod
   - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/beatmaps/297950)
@@ -141,9 +126,9 @@ Mappools
 - Tiebreaker
   - **[Tatsh - IMAGE -MATERIAL- \<Version 0\> (Scorpiour) \[Firce777's Taiko Oni\]](https://osu.ppy.sh/beatmaps/261205)**
 
-### Semi-finals
+### Semifinals
 
-[Click here to download whole pool in one pack!](https://www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)
+**[Download the mappack here! (153 MB)](https://www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)**
 
 - NoMod
   - [Sota Fujimori - WOBBLE IMPACT (Loctav) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/375040)
@@ -175,9 +160,9 @@ Mappools
 - Tiebreaker
   - **[Yousei Teikoku - gothic lolita agitator (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/267841)**
 
-### Quarter-finals
+### Quarterfinals
 
-[Click here to download whole pool in one pack!](https://www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)
+**[Download the mappack here! (146 MB)](https://www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)**
 
 - NoMod
   - [Lite Show Magic - Crack traxxxx (KinomiCandy) \[Oni\]](https://osu.ppy.sh/beatmaps/338140)
@@ -209,9 +194,9 @@ Mappools
 - Tiebreaker
   - **[Demetori - Higan Retour ~ View of The River Styx (RLC) \[Love's Oni\]](https://osu.ppy.sh/beatmapsets/140944)**
 
-### Round 16
+### Round of 16
 
-**[Click here to download whole pool in one pack!](https://www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
+**[Download the mappack here! (169 MB)](https://www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
 
 - NoMod
   - [celas - Azul (Remix) (AngelHoney) \[KUMA's Taiko\]](https://osu.ppy.sh/beatmaps/128937)
@@ -246,7 +231,7 @@ Mappools
 
 ### Group Stage
 
-**[Click here to download whole pool in one pack!](https://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
+**[Download the mappack here! (211 MB)](https://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
 
 - NoMod
   - [Loos - Koi Yomi Zakura (NatsumeRin) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmaps/111835)
@@ -278,29 +263,26 @@ Mappools
 - Tiebreaker
   - **[paraoka - Manima ni (Sandpig) \[Pangko\]](https://osu.ppy.sh/beatmaps/136184)**
 
-
 ------------------------------------------------------------------------
 
-Ruleset
---------
+## Ruleset
 
 ### Tournament Rules
 
-1.  The osu! Taiko World Cup is a country-based 3v3 team tournament.
-2.  The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    -   One map will be given as tiebreaker map. This map will only be played in case of a tie.
-    -   There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
-3.  Match schedule will be settled by Tournament Management (see below).
-4.  If no staff or referee is available, the match will be postponed.
-5.  Failed player's score do not get added to the team score.
-6.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
-7.  If the game ends in a draw, the game will be nullified.
-8.  If a player disconnects, they get treated as if they failed the map.
-9.  Maps cannot be reused in the same match unless the game was nullified.
+1. The osu! Taiko World Cup is a country-based 3v3 team tournament.
+2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+   - One map will be given as tiebreaker map. This map will only be played in case of a tie.
+   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+3. Match schedule will be settled by Tournament Management (see below).
+4. If no staff or referee is available, the match will be postponed.
+5. Failed player's score do not get added to the team score.
+6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. If the game ends in a draw, the game will be nullified.
+8. If a player disconnects, they get treated as if they failed the map.
+9. Maps cannot be reused in the same match unless the game was nullified.
 10. If less than 3 players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed.
-    -   You may exchange only one player once per map.
-
+    - You may exchange only one player once per map.
 12. Lag is not a valid reason to nullify a map.
 13. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 14. Unexpected incidences are handled by the tournament management.
@@ -308,86 +290,76 @@ Ruleset
 
 ### Tournament Registration
 
-1.  Your team needs **at least 3 players** to participate.
-    1.  The maximum team size is 6.
-    2.  You must specify a captain who will represent the team.
-
-2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
-    -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
-
-4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
-5.  The total amount of teams is 20.
-6.  All successfully registered teams will be published after Registration Phase.
-    -   Captains will get notified in case their roster has been accepted or rejected.
-
-7.  Mapset selectors may not participate as a player in this tournament.
+1. Your team needs **at least 3 players** to participate.
+   - The maximum team size is 6.
+   - You must specify a captain who will represent the team.
+2. Each team represents a nation. You must form a team with players from the same country.
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+   - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
+4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
+5. The total amount of teams is 20.
+6. All successfully registered teams will be published after Registration Phase.
+   - Captains will get notified in case their roster has been accepted or rejected.
+7. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage instructions
 
-1.  In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
-2.  All the teams from each group will face each other.
-3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    1.  Most matches won.
-    2.  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-    3.  Most maps won.
-    4.  Have higher `∑{(total score difference) / (maximum score)}`.
-    5.  Winner of the rematch.
-
-4.  The top 4 teams of each group will move on to the Knock-Out Stages.
-5.  Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
-6.  **Winning conditions:**
-    -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+1. In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   1. Most matches won.
+   2. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   3. Most maps won.
+   4. Have higher `∑{(total score difference) / (maximum score)}`.
+   5. Winner of the rematch.
+4. The top 4 teams of each group will move on to the Knock-Out Stages.
+5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
+6. **Winning conditions:**
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 
-1.  A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
-    1.  The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
-    2.  Room settings are Taiko, Team-Vs., Win Condition: 'Score'. Room name must be "Taiko World Cup 2014: TeamBlue vs TeamRed"
-    3.  The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-
-2.  Players are free to select up to two warm-up maps.
-3.  Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
-    1.  The captains may select maps out of the NoMod and FreeMod bracket freely.
-    2.  Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
-        1.  Selection out of FreeMod bracket is unlimited.
-
-    3.  In case of a tie, the tiebreaker map must be played.
-
-4.  Results will be published via Statistics site.
+1. A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
+   - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+   - Room settings are Taiko, Team-Vs., Win Condition: 'Score'. Room name must be "Taiko World Cup 2014: TeamBlue vs TeamRed"
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+2. Players are free to select up to two warm-up maps.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
+   - The captains may select maps out of the NoMod and FreeMod bracket freely.
+   - Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
+     - Selection out of FreeMod bracket is unlimited.
+   - In case of a tie, the tiebreaker map must be played.
+4. Results will be published via Statistics site.
 
 ### Mappool instructions
 
-1.  There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2.  Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
-3.  Each mappool consists of 23 maps in total.
-4.  Each mappool has one tiebreaker
-5.  The NoMod bracket will be played with no modes activated.
-6.  The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-7.  The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all. Players **must not** select more than one mod.
-    1.  When playing a FreeMod map, at least one player of each team must have one mode activated.
-
-8.  The tiebreaker will be played under FreeMod conditions.
-    1.  When playing the tiebreaker, no one needs to have a mode activated.
-
-9.  The size of the NoMod bracket will be:
-    -   10 in Group Stage
-    -   6 in Knock-Out Stages
-
+1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
+3. Each mappool consists of 23 maps in total.
+4. Each mappool has one tiebreaker
+5. The NoMod bracket will be played with no modes activated.
+6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
+7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all. Players **must not** select more than one mod.
+   - When playing a FreeMod map, at least one player of each team must have one mode activated.
+8. The tiebreaker will be played under FreeMod conditions.
+   - When playing the tiebreaker, no one needs to have a mode activated.
+9. The size of the NoMod bracket will be:
+   - 10 in Group Stage
+   - 6 in Knock-Out Stages
 10. The size of the mod-specific brackets will be:
-    -   3 in Group Stage
-    -   4 in Knock-Out Stages
+   - 3 in Group Stage
+   - 4 in Knock-Out Stages
 
 ### Scheduling instructions
 
-1.  Each stage will be held on **a single weekend**
-2.  Matches in Group Stage may overlap.
-3.  All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
-4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
-5.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
+1. Each stage will be held on **a single weekend**
+2. Matches in Group Stage may overlap.
+3. All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
+5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
