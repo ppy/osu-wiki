@@ -1,7 +1,3 @@
----
-tags:
-- MXB
----
 # 第三届萌新杯
 
 ![MXB 3rd Logo](img/logo.jpg)

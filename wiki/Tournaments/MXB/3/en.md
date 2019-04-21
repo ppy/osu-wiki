@@ -1,8 +1,4 @@
----
-tags:
-- MXB
----
-# The 3rd MXB osu!mania 4K Tournament
+# Novice Mania Cup 3rd
 
 ![MXB 3rd Logo](img/logo.jpg)
 
@@ -12,7 +8,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration | 2019-04-05/2019-04-17 |
+| Registration Phase | 2019-04-05/2019-04-17 |
 | Qualifiers | 2019-05-04/2019-05-05 |
 | Live Drawings | 2019-05-05 19:00 (UTC+8) |
 | Group Stage | 2019-05-11/2019-05-12 |
@@ -23,7 +19,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 
 ## Prizes
 
-Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/users/11238501)
+Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/users/11238501).
 
 | Placing | Prize(s) |
 | :-: | :-- |
