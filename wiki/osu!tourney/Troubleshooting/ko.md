@@ -20,7 +20,7 @@
 ## osu!tourney 의 배경이 보이지 않습니다!
 
 배경 파일이 `/osu!/Skins/User/tournament/background.png` 위치해있는지 확인하세요.
-자세한 내용은 [skinning guide](/wiki/osu!tourney/Skinning) 을 참조하세요.
+자세한 내용은 [스키닝 가이드](/wiki/osu!tourney/Skinning) 을 참조하세요.
 
 ## 어떻게 다시 원래 클라이언트로 돌아오나요?
 
@@ -34,7 +34,7 @@
 ## 멀티플레이어 방이 표시되지 않습니다!
 
 방의 이름이 제대로 적히지 않았거나 `tournament.cfg` 내에 있는 acronym 이 틀렸을 수 있습니다.
-방의 이름이 다음의 서식을 따르는지 확인하세요. [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_Usage) closely.
+방의 이름이 다음의 서식을 따르는지 확인하세요. [멀티플레이어 사용법](/wiki/osu!tourney/Multiplayer_Usage)
 
 ## 팀 이름이 표시되지 않습니다!
 
