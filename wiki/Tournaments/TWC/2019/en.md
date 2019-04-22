@@ -109,7 +109,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 21:00 UTC+11 | 18:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30:00 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
 
 ## Mappool
 
