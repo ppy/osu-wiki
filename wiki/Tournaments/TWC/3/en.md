@@ -1,6 +1,6 @@
 ---
 tags:
-- 'TWC #3'
+- TWC #3
 - TWC#3
 ---
 # Taiko World Cup #3
@@ -72,7 +72,7 @@ The Taiko World Cup was run by various community members by distributing the mul
 | ![][flag_DE] | **Germany B** | **[Luna](https://osu.ppy.sh/users/588007)**, [FreedomofBirds](https://osu.ppy.sh/users/FreedomofBirds), [Satyros](https://osu.ppy.sh/users/520358), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
 | ![][flag_HK] | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [kanpakyin](https://osu.ppy.sh/users/394326), [KanaRin](https://osu.ppy.sh/users/310747), [hknoboru](https://osu.ppy.sh/users/1485257) |
 | ![][flag_HK] | **Hong Kong B** | **[NewibornCLivee](https://osu.ppy.sh/users/1530993)**, [EZENA](https://osu.ppy.sh/users/1257848), [firenz818](https://osu.ppy.sh/users/942283), [wcl\_0209](https://osu.ppy.sh/users/1214640) |
-| ![][flag_ID] | **Indonesia** | **Flandre XKarlet**, [Frans Niko](https://osu.ppy.sh/users/906991), \[Sena Airi\], [Ghassan Super](https://osu.ppy.sh/users/1538223) |
+| ![][flag_ID] | **Indonesia** | **[Flandre XKarlet](https://osu.ppy.sh/users/1139209)**, [Frans Niko](https://osu.ppy.sh/users/906991), [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), [Ghassan Super](https://osu.ppy.sh/users/1538223) |
 | ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [happy30](https://osu.ppy.sh/users/27767) |
 | ![][flag_JP] | **Japan A** | **[FlowerMasterK](https://osu.ppy.sh/users/1143137)**, [Rappu](https://osu.ppy.sh/users/1207106), [shifon\[0312\]](https://osu.ppy.sh/users/295488), [kiru132](https://osu.ppy.sh/users/kiru132) |
 | ![][flag_JP] | **Japan B** | **[Shuki-](https://osu.ppy.sh/users/Shuki-)**, [Orukaa](https://osu.ppy.sh/users/987895), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [TKSalt](https://osu.ppy.sh/users/940878) |

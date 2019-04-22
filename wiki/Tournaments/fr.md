@@ -36,7 +36,6 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_HK] Hong Kong |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
-| [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 2019-04-20 | 2019-05-26 | - | - | - |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
