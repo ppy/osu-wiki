@@ -133,7 +133,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 - FreeMod
     - [Minako Adachi - Battle! (Team Skull Boss) \[feat. KYOtara\] \(Zetera\) \[Beast Guzma Oni\]](https://osu.ppy.sh/beatmapsets/784760#taiko/1647504)
     - [lapix - YOLO ft. Numb\'n\'dub \(Arrival\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1526616)
-    - [Dark PHOENiX - Ryokugan no Jealousy \(Nightcore Mix\) \(Jounzan\) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
+    - [Dark PHOENiX - Ryokugan no Jealousy \(Jounzan\) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
 - Tiebreaker
     - **[xi - Double Helix \(Loopy542\) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
 
