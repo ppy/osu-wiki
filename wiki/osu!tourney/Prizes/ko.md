@@ -37,48 +37,48 @@ osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 *
 
 **스크리닝 과정에서 적발된 플레이어의 대회 참가를 허용할 경우, 모든 지원 및 뱃지의 환수로 이어질 수 있으며, 향후의 뱃지 및 지원 요청을 무시할 수 있습니다.**
 
-### Badge Design Criteria
+### 뱃지 디자인의 기준
 
-Profile badges are expected to adhere to a few minimum standards before they are accepted.
+프로필 뱃지는 받아들여지기 전에 몇가지의 최소 표준 기준을 따릅니다.
 
-Please read these carefully - if your proposed badge violates any of these, it may be refused!
+주의 깊게 읽어주세요 - 제출된 뱃지가 아래의 사항을 한가지라도 어긴다면, 뱃지의 신청이 반려될 수 있습니다!
 
-- The badge image file MUST be either PNG or JPG/JPEG in format.
-    + If the badge design contains any transparency, it MUST be in PNG format instead.
-- The dimensions of the badge image file MUST NOT exceed 86x40, or 86x34 at the absolute minimum. (*86x40 is the preferred format for all badges and you will be questioned for using 86x34, and outright refused for anything smaller.*)
-- The badge image file MUST be below 50kb in size. (*We suggest using [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) if you're having trouble with this.*)
-- The badge MUST clearly display the logo or name of your tournament. (*You may substitute this for a visual motif or a theme so long as it is obvious enough.*)
-- The badge MUST be cleanly designed and of reasonable visual quality.
+- 뱃지의 이미지 파일은 PNG 또는 JPG/JPEG 파일 포맷을 따라야합니다.
+    + 투명도를 갖추고 있는 뱃지의 경우, 파일 포맷이 반드시 PNG 여야 합니다.
+- 뱃지의 이미지 파일 크기는 86x40 를 넘을 수 없으며, 86x34 를 최소값으로 가집니다. (*모든 뱃지는 86x40 의 크기 사용을 권장하며 86x34 의 크기를 사용할 수 있으나 이보다 작을 경우 신청이 즉시 반려됩니다.*)
+- 뱃지의 이미지 파일은 50kb 를 넘을 수 없습니다. (*이미지를 줄이는 데에 문제가 있다면 [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) 의 사용을 권장합니다.*)
+- 뱃지 내에 대회의 로고 및 이름이 정확하게 명시되어 있어야 합니다. (*해당 대회를 명확하게 나타낼 수 있는 테마 등으로 대체할 수 있습니다.*)
+- 뱃지는 단정하게 디자인되어야 하며 일정 수준 이상의 퀄리티가 있어야 합니다.
 
-**We also require a 2x (or 'retina') version of your badge for display on the new website.** It is highly recommended to design your badge in 2x (aka: 172x80 resolution) and then downscale it to 1x (86x40) as listed above.
+**신규 홈페이지에 게재하기 이하여 2x (혹은 'retina') 버전의 뱃지를 요구합니다.** 뱃지의 먼저 2x로 디자인하고 (172x80 화소) 그 후 1x (86x40 화소) 로 낮추는 것을 권장합니다.
 
-Here are a few examples of approved badges that are of a quality well beyond the normal:
+여기 뱃지 디자인의 예가 있습니다:
 
 ![](https://assets.ppy.sh/profile-badges/ohc-2017.png)
 ![](https://assets.ppy.sh/profile-badges/okt3.png)
 
-Badges that do not meet these standards will be refused with appropriate reasoning, and you may even be asked to completely redesign your badge if some features are particularly problematic. Please account for this.
+이러한 표준을 만족하지 못하는 뱃지는 해당하는 항목의 사유로 반려될 것이며, 문제가 있다고 판단될 경우 뱃지를 처음부터 다시 디자인하도록 요청할 수 있습니다. 이 점을 유념해주세요.
 
-### Requesting a Profile Badge For Your Tournament
+### 대회를 위한 프로필 뱃지의 신청
 
-If your tournament meets the criteria listed above, and you have a design ready to be submitted, **please email tournaments@ppy.sh** and include the following information:
+주최하려는 대회가 상단의 기준을 만족하고, 제출을 위한 뱃지의 디자인이 완성되었다면, 다음의 정보를 포함하여 **tournaments@ppy.sh 로 이메일을 보내세요**:
 
-- The name of your tournament
-- A brief description of your tournament, including its scoring type and any other appropriate features
-- A list of the players involved in running the tournament
-- Any applicable dates for your tournament
-- Any links to public off-site chatrooms or servers used for the event (Discord, etc)
-- A link to the forum thread on the osu!forum that announces/details your tournament
-- Any links to previous iterations of the same tournament (only where applicable)
-- Two badge images following the design criteria listed above, **at both 1x (86x40) and 2x/retina (172x80) sizes**.
+- 대회의 이름
+- 스코어를 매기는 방법과 대회만의 독특한 방식을 포함한 간결한 소개
+- 대회 운영 스태프들의 목록
+- 대회에 참가 등록할 수 있는 기간
+- 대회의 이벤트를 위하여 사용되는 채팅방 혹은 서버의 링크 (Discord 등)
+- 대회의 공지와 세부내용을 게시하는 오스 포럼 내 게시글 링크
+- 이전에 진행되었던 동일한 대회에 대한 링크 (참가 가능한 곳에 한함)
+- 위의 기준을 만족하는 뱃지 디자인 두 개, **1x (86x40) 크기와 2x/retina (172x80) 크기**.
 
-Please allow at **least** a week for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
+답신에는 최소 **1주일** 정도 걸릴 수 있습니다. 이 한 주 동안 모든 내용을 심사하기 위해 노력할 것이지만, 간혹 다수의 대회 신청이 겹쳐 일정이 밀릴 경우 불가피하게 답신이 늦어질 수 있습니다.
 
-If your request is approved, you may then submit a list of applicable recipients at the conclusion of your tournament, along with the finalized badge design.
+요청이 수락되면, 대회에 참여할 수 있는 모든 인원의 리스트와 함께 최종 뱃지 디자인을 제출할 수 있게 됩니다.
 
-**We reserve the right to withdraw this service should issues arise during the course of a tournament.**
+**이러한 요청은 대회 진행중 언제라도 취소될 수 있습니다.**
 
-## Frequently Asked Questions (FAQ)
+## 자주 묻는 질문 (FAQ)
 
 ### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present?
 
