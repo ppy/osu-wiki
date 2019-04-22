@@ -39,7 +39,7 @@ Glossary
 - **Umlauts**: `ü`, `ö`, `ä` and `ß`
 - **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
 - **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
-- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features_of_Hepburn_romanization) for information.
+- **Modified Hepburn Romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
 - **Character-by-character romanisation**: Each Chinese character must be Romanised as a capitalised word and separated with a space.
 
 ### Timing
@@ -218,7 +218,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
 - **A beatmapset's audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.

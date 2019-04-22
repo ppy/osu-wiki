@@ -1165,7 +1165,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Warmup phase
 
-- Every player is allowed one warmup map each per match. **They must be available on osu! servers and be less than 5 mins of drain time**. Warmups having [questionable content](https://osu.ppy.sh/wiki/Rules) will not be allowed.
+- Every player is allowed one warmup map each per match. **They must be available on osu! servers and be less than 5 mins of drain time**. Warmups having [questionable content](/wiki/Rules) will not be allowed.
 
 #### Bans and Picks
 

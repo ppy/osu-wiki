@@ -20,7 +20,7 @@ If your account has been restricted, do not panic. Please follow these steps:
 
 If your account has become restricted for breaking the [rules](/wiki/rules), a strict cooldown of three months will be enforced before you are allowed to send an appeal.
 
-If your original account is not restricted, you may log into it and continue playing normally. but make sure not to log into your multi-accounts from then on, as doing so may lead to further punishment.
+If your original account is not restricted, you may log into it and continue playing normally, but make sure not to log into your multi-accounts from then on, as doing so may lead to further punishment.
 
 If you have recently been granted an appeal and your account becomes restricted again after playing, do not panic! Automated systems may have falsely flagged your account, but you will be unrestricted again within 24 hours if this is found to be the case. Feel free to send us an email or a tweet to catch our attention and be unrestricted faster!
 
