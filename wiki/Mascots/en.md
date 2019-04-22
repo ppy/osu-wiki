@@ -14,11 +14,11 @@ pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
-*For the news post, see: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)*
+*For the news posts, see: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) and [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347) while Daru has created the comboburst art.
+Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347); Daru created the comboburst art.
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
