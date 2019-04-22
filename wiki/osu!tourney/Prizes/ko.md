@@ -50,7 +50,7 @@ osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 *
 - 뱃지 내에 대회의 로고 및 이름이 정확하게 명시되어 있어야 합니다. (*해당 대회를 명확하게 나타낼 수 있는 테마 등으로 대체할 수 있습니다.*)
 - 뱃지는 단정하게 디자인되어야 하며 일정 수준 이상의 퀄리티가 있어야 합니다.
 
-**신규 홈페이지에 게재하기 이하여 2x (혹은 'retina') 버전의 뱃지를 요구합니다.** 뱃지의 먼저 2x로 디자인하고 (172x80 화소) 그 후 1x (86x40 화소) 로 낮추는 것을 권장합니다.
+**신규 홈페이지에 게재하기 위하여 2x (혹은 'retina') 버전의 뱃지를 요구합니다.** 뱃지의 먼저 2x로 디자인하고 (172x80 화소) 그 후 1x (86x40 화소) 로 낮추는 것을 권장합니다.
 
 여기 뱃지 디자인의 예가 있습니다:
 
@@ -76,36 +76,36 @@ osu!team 에서는 다음 기준에 부합하는 커뮤니티 기반 대회의 *
 
 요청이 수락되면, 대회에 참여할 수 있는 모든 인원의 리스트와 함께 최종 뱃지 디자인을 제출할 수 있게 됩니다.
 
-**이러한 요청은 대회 진행중 언제라도 취소될 수 있습니다.**
+**이러한 요청의 허가는 대회 진행중 언제라도 취소될 수 있습니다.**
 
 ## 자주 묻는 질문 (FAQ)
 
-### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present?
+### 왜 숙련된 스태프가 없이는 최소 두 번 이상 대회를 진행해야 뱃지 획득의 자격이 생깁니까?
 
-The second iteration of a tournament is often free of a lot of the organizational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
+대회를 두 번째 진행함으로써 첫 대회에서 있었던 미숙함으로 발생하는 문제들이 다수 해결되며, 스태프들의 과도한 업무량을 줄여줍니다. 또한 말이 나올 수 있는 문제를 피하거나 더 매끄럽게 해결할 수 있게 됩니다. 더불어 한 번 진행하는 것보다 두 번 이상 진행한 대회가 식별의 용이성을 띕니다..
 
-For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizable majority of the team is experienced and accomplished at running tournaments in the past.
+이러한 사유들로 하여 (더 있겠지만), 숙련된 스태프가 없는 경우 첫 대회가 성공적으로 치뤄진 경우에만 뱃지를 수여하는 것입니다.
 
-### What is considered 'staff' as far as tournament management goes?
+### 대회를 운영하는데에 있어 '스태프' 는 누구입니까?
 
-We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
+심판과 맵풀 셀렉터, 참관자 등 대회의 운영과 진행에 직접적인 영향을 끼칠 수 있는 자리에 있는 모든 사람은 해당 대회의 스태프로서 인정됩니다.
 
-Commentators are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved any managerial aspect of running the tournament or violate anything mentioned above.
+해설자는 스태프로서 인정되지 않음에 따라, 대회에 직접 참가하거나 대회와의 직접적인 소통도 가능합니다. 단, 해설이 위에서 언급한 대로 운영과 진행에 있어 직접적인 영향을 끼칠 수 없어야 합니다. 
 
-We have historically had issues where unscrupulous organizers have geared tournaments specifically (ie: picked maps they're familiar with, adjusted seeds/brackets, etc) to farm profile badges for them and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
+과거에 비양심적으로 자신과 자신의 친구들 위한 프로필 뱃지의 파밍을 위해 대회를 운영한 개최자가 있습니다. (예:특정인에게 유리한 맵풀 선택, 조의 의도적인 변경 등) 이러한 점이 대부분의 개최자에게서 나타나지는 않는 만큼, 이러한 엄격한 제도는 모두에게 유리한 환경을 제공하기 위해 존재합니다.
 
-### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems?
+### 스크리닝에서 제외된 플레이어가 대회의 스태프로 참여하는 것이 가능합니까?
 
-Generally no, unless the role they are assuming is not one that could conceivably alter the outcome of the tournament.
+대회의 결과에 현저히 영향을 끼칠 수 있는 직책이 아닌 이상 일반적으로는 참여할 수 없습니다.
 
-A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
+예를 들어, 대회에서 플레이를 마친 플레이어가 향후 해설자로 참여하는 것은 가능하나, 심판, 참관자, 대회 주관자로의 자격을 가질 수는 없습니다.
 
-### Why can't badges be awarded to recurring monthly (or weekly) tournaments?
+### 왜 월간 (혹은 주간) 치뤄지는 토너먼트는 뱃지를 받을 수 없습니까?
 
-Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' for from a few sets of regular, recurring tournaments.
+게임 내에 프로필 뱃지가 넘쳐나는 것은 대회 상품의 가치를 떨어트리는 행위입니다. 프로필 뱃지가 반복성을 띄는 대회 등을 통한 '파밍' 이 가능한 상품이라고 취급하지 않습니다.
 
-### Can I request a badge for a beatmap contest or other type of competition?
+### 비트맵 대회 혹은 다른 대회도 신청할 수 있습니까?
 
-For beatmap contests, yes, just follow the same rules as above.
+상단의 규정을 따른다면, 가능합니다.
 
-For other contests, email us and ask personally. We'll try to work something out.
+타 대회의 경우 이메일을 통해 개인적으로 질문해주세요. 내부 회의를 통해 답변해드리겠습니다.
