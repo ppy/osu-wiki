@@ -25,6 +25,7 @@ As osu! is a community driven game, these changes were made to give members of t
 With these changes, we unfortunately have had to say farewell to [Fycho](https://osu.ppy.sh/users/1876867), [Gabe](https://osu.ppy.sh/users/654108), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [p3n](https://osu.ppy.sh/users/123703), [Regraz](https://osu.ppy.sh/users/3076909), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508), and [Protastic101](https://osu.ppy.sh/users/6712747) who will not be joining the NAT. Nonetheless, we greatly appreciate their time in the QAT and thank them all for their hard work up until now.
 
 On a more uplifting note, please welcome [Ascendance](https://osu.ppy.sh/users/2931883) to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
+
 For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators)!
 
 Feel free to ask us any questions in the comments below.
