@@ -91,7 +91,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
-  ## Match Schedule: Round of 16
+## Match Schedule: Round of 16
 
 ### Saturday, 27. April 2019
 
@@ -113,7 +113,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ## Mappool
 
-### Group Stage
+### Round of 16
 
 - NoMod
     - [Snail's House - Balloons \(KinomiCandy\) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
@@ -164,7 +164,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ### Group Stage
 
-| Saturday, 2018-04-20 | | | | |
+| Saturday, 2019-04-20 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
@@ -189,7 +189,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51162759) |
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
-| Sunday, 2018-04-21 | | | | |
+| Sunday, 2019-04-21 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
