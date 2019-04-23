@@ -97,7 +97,6 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 |
 | South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
 | Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
@@ -110,6 +109,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 21:00 UTC+11 | 18:00 UTC+08 |
 | Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
 
 ## Mappool
 
