@@ -160,6 +160,64 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 - Tiebreaker
     - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
+## Match Results
+
+### Group Stage
+
+| Saturday, 2018-04-20 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
+| New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
+| Indonesia ![][flag_ID] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51148772) |
+| **Poland** ![][flag_PL] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/51150009) |
+| France ![][flag_FR] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51149947) |
+| **Spain** ![][flag_ES] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/51150014) |
+| Switzerland ![][flag_CH] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51151141) |
+| Malaysia ![][flag_MY] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51151144) |
+| Greece ![][flag_GR] | 0 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/51151209) |
+| **China** ![][flag_CN] | **5** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/51152485) |
+| Switzerland ![][flag_CH] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/51152728) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/51152736) |
+| Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/51152489) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_CH] **Switzerland** | [#1](https://osu.ppy.sh/community/matches/51157568) |
+| Italy ![][flag_IT] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51157617) |
+| Finland ![][flag_FI] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/51157470) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/51159172) |
+| Portugal ![][flag_PT] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/51159234) |
+| Finland ![][flag_FI] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51161141) |
+| Venezuela ![][flag_VE] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51161060) |
+| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51162759) |
+| Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
+
+| Sunday, 2018-04-21 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
+| Chile ![][flag_CL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51172513) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/51172557) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51173469) |
+| Singapore ![][flag_SG] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51173492) |
+| New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/51178711) |
+| Sweden ![][flag_SE] | 0 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51179737) |
+| Spain ![][flag_ES] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51179768) |
+| Philippines ![][flag_PH] | 0 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/51180923) |
+| Norway ![][flag_NO] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51180959) |
+| Greece ![][flag_GR] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51180971) |
+| China ![][flag_CN] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/51182210) |
+| Netherlands ![][flag_NL] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/51182246) |
+| Norway ![][flag_NO] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/51182213) |
+| Malaysia ![][flag_MY] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51183533) |
+| **Singapore** ![][flag_SG] | **5** | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/51183625) |
+| Greece ![][flag_GR] | 0 | **5** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/51183638) |
+| Portugal ![][flag_PT] | 0 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/51185028) |
+| Finland ![][flag_FI] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/51185100) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/51186477) |
+| Norway ![][flag_NO] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/51186372) |
+| Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51186489) |
+| Netherlands ![][flag_NL] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51187956) |
+| Venezuela ![][flag_VE] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/51187961) |
+| Germany ![][flag_DE] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/51187986) |
+
 ------------------------------------------------------------------------
 
 ## Ruleset
