@@ -84,7 +84,7 @@ Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of t
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches (about 149.86 centimetres) and weighs 100 pounds (about 45.36 kilograms). Her hobbies include practicing drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practicing drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
 ### Tama
 
