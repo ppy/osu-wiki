@@ -33,8 +33,6 @@
 [Multi_host_song_change image]: ./img/Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
 [Multi_SS image]: ./img/Multi_SS.jpg "Example of how the Song Selection will look like for host."
 [Multi_Tag_Colour image]: ./img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour"
-[Multi_mh_single image]: ./img/Multi_mh_single.jpg "Example of Match History."
-[Multi_mh_team image]: ./img/Multi_mh_team.jpg "Example of Team Match History."
 [osu!mania Multi patch]: ./img/Multi_Mania_unpatched.jpg "Screenshot of Lobby of an unpatched osu! when osu!mania was released to public (08 October 2012, 2012-10-08)"
 
 <!-- Team Mode images -->
@@ -299,11 +297,7 @@ Title | Description
 
 **Note**: The link provided by BanchoBot at the first line of the `#multiplayer` tab in Chat Console (specifically, the `here` keyword) will direct the player to the Match History for the Match Setup in the player's default web browser.
 
-![match history single][Multi_mh_single image]
-
----
-
-![match history team][Multi_mh_team image]
+![](img/multi-mh.jpg "Example of Match History.")
 
 ## Team Mode
 
