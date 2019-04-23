@@ -40,26 +40,26 @@
 - `!mp listrefs` - Referee 의 리스트를 표시합니다.
 - `!mp close` - 멀티플레이어 방을 닫습니다.
 
-Sending `!mp help` to BanchoBot will reveal the commands.
+`!mp help` 를 BanchoBot 에게 보내면 모든 명령어가 표시됩니다.
 
-Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. Parameters enclosed within square brackets ( `[]` ) are optional.  
-Usernames must have any whitespace be replaced with underscores ( `_` ). `#<userid>` may substitute `<username>` in all of the commands.
+화살표로 ( `<>` ) 닫혀있는 항목은 명령어를 사용할 때 필요한 "매개 변수" 입니다. 이중 대괄호로 ( `[]` ) 닫힌 항목은 필수가 아닙니다.   
+띄어쓰기가 있는 닉네임의 띄어쓰기는 언더바 ( `_` ) 로 대체되어야 합니다. `모든 명령어에서 #<userid>` 가 `<username>` 을 대체할 수 있습니다.
 
-## Usage
+## 사용법
 
-The commands are usable from both within osu! or through an IRC client such as mIRC, HexChat, or HydraIRC.
+모든 명령어들은 osu! 클라이언트 및 mIRC, HexChat, 또는 HydraIRC 등의 IRC 클라이언트에서 사용할 수 있습니다.
 
-The original host of a multiplayer room can also use these commands. If the original host leaves, the next host will not inherit the commands. The original host will be again be able to use the commands if they rejoin the room.
+최초의 방장도 이러한 명령어를 이용할 수 있습니다. 방장이 방을 나간다고 해서 다음 호스트에게 명령어를 사용할 수 있는 권한이 옮겨지지는 않으며, 이 방장이 다시 멀티플레이어 방에 들어올 시 명령어를 사용할 수 있는 권한을 다시 가집니다.
 
-## Example usage
+## 사용 예시
 
-The following is an example of command usage:
+다음은 명령어의 사용 예시입니다:
 
-- `!mp invite Zallius` - Invite Zallius to the room.
-- `!mp move Loctav 4` - Move Loctav to slot 4 of the room.
-- `!mp team Zallius blue` - Move Zallius to the blue team.
-- `!mp team Loctav red` - Move Loctav to the red team.
-- `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
-- `!mp start` - Start the match instantaneously.
+- `!mp invite Zallius` - Zallius 를 방에 초대합니다.
+- `!mp move Loctav 4` - Loctav 를 슬롯4로 옮깁니다.
+- `!mp team Zallius blue` - Zallius 를 Team Blue 로 옮깁니다.
+- `!mp team Loctav red` - Loctav 를 Team Red 로 옮깁니다.
+- `!mp set 0 2` - 팀 모드를 Head To Head 로 변경하고 점수 조건을 콤보로 변경합니다.
+- `!mp start` - 게임을 즉시 시작합니다.
 
-We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").
+전문적으로, 그리고 책임감 있게 대회를 운영하기를 기대합니다. 다른 사람의 플레이를 방해하기 위해 이러한 명령어를 남용하는 경우 [커뮤니티 규칙](/wiki/Rules "Community Rules") 에 의한 강한 처벌을 받을 수 있습
