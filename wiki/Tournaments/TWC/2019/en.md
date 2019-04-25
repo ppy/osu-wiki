@@ -4,7 +4,7 @@ tags:
 ---
 # osu!taiko World Cup 2019
 
-![TWC 2019](img/logo.jpg)
+![TWC 2019 Logo](img/logo.jpg)
 
 The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
 
@@ -13,7 +13,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko t
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-03-15/2019-03-29 |
-| Drawings | 2019-04-13 (14:00 UTC) |
+| Live Drawings | 2019-04-13 (14:00 UTC) |
 | Group Stage | 2019-04-20/2019-04-21 |
 | Round of 16 | 2019-04-27/2019-04-28 |
 | Quarterfinals | 2019-05-04/2019-05-05 |
