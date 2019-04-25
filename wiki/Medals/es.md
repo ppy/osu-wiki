@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Logros
 
 Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.

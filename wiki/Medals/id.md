@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Pencapaian
 
 **Pencapaian** (Achievements) adalah sebuah badge kecil di bagian bawah profil para user yang mengindentifikasi seseorang telah mencapai sebuah target yang telah ditentukan. Saat ini, badge dibagi dalam 5 grup

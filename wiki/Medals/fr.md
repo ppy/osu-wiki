@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Médailles
 
 Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle.

@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Medale
 
 Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.

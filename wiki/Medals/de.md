@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Medaillen
 
 **Medaillen**, auch früher bekannt als **Achievements** (dt. Erfolge oder Errungenschaften), sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Hauptgruppen unterteilt: **Beatmap Packs**, **Skill**, **Dedication**, **Hush-Hush** und **Mod Introduction**.

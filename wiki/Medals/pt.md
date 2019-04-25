@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Conquistas
 
 **Conquistas** (achievements) são pequenos emblemas para perfil que indicam que o usuário conseguiu realizar certo objetivo. Atualmente, eles são divididos em 5 grupos.
