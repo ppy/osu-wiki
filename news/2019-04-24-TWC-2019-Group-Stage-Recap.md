@@ -51,7 +51,6 @@ If you missed out on any of the action last weekend, you can always watch the VO
 
 That concludes all the matches for now! Let's wave our goodbyes to the 16 teams that were narrowly defeated last weekend - we thank you for participating and hope to see you again next year. Good luck to all the remaining teams in this tournament!
 
---------
 ## <a name="ahead" id="ahead"></a>Looking Ahead: Round of 16
 
 **Next week we'll be treated to a total of 8 exciting matches, and you can find the schedule on the [TWC 2019 wiki](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2019#match-schedule:-round-of-16).** As it is a double-elimination tournament, the Round of 16 is unique in the sense that no team is at risk of being eliminated, though their performance will determine how the remainder of the matches play out in future stages.
