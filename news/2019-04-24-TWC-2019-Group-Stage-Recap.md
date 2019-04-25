@@ -60,7 +60,7 @@ That concludes all the matches for now! Let's wave our goodbyes to the 16 teams 
 
 **The first match of the RO16 Stage will take place Saturday 11:00 UTC, 27th of April.** There we will see a much anticipated match between two veteran countries - Japan vs. France. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive). 
 
-**Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/ABC).
+**Finally, here's a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/ABC).
 
 --------
 And that's all from me this week! I’d like to take this opportunity to thank [PuffBuck](https://osu.ppy.sh/users/4234525) for his help on collating information. I look forward to working closely with him in the coming weeks. If you have any feedback or suggestions about the format of these recaps, feel free to drop me a PM, or leave a comment down below. Otherwise, see you next week!
