@@ -19,25 +19,25 @@ Earlier backgrounds being allowed does not set precedent or mean that such depic
 
 Visual content (aka: beatmap backgrounds, skins, objects and other included graphical or video-related assets distributed with a beatmapset) **MUST NOT** contain any of the following:
 
-### Depictions of excessive violence
+### Excessive violence
 
 This includes violence towards humans, humanoid characters or animals of any kind.
 
 Any imagery that portrays gore, mutilation, maiming, severe wounding or graphical depictions of recent death with an obvious cause present (such as hanging, choking or bleeding out) is not acceptable or to be tolerated.
 
-### Depictions of sexual innuendo
+### Sexual innuendo
 
 This refers to the mimicry of sexual acts or soliciting in a lascivious or lewd manner. Content of this nature in the anime context is often referred to as 'ecchi'.
 
 Any imagery that imitates sexual acts or involves objects or mannerisms that mimic or reference any genitalia (such as phallic objects) is not allowed.
 
-### Depictions of explicit or sexual posturing
+### Explicit or sexual posturing
 
 Any imagery that is highly suggestive or directly implies imminent sexual intent or anticipation is not allowed. This includes "beckoning" or "come hither" type imagery which is inviting or otherwise highly suggestive of imminent sexual contact.
 
 This also applies to "accidental" posturing, such as imagery depicting characters being caught unaware during bathing, or other such situations.
 
-### Depictions of any sexual content involving or targeted at minors
+### Any sexual content involving or targeted at minors
 
 If a character's age is not immediately obvious in their depiction by virtue of their physical presentation (for example, secondary sexual characteristics not being present heavily infers an underage character), any content that could conceivably and reasonably be perceived as sexual is completely disallowed.
 
@@ -45,7 +45,7 @@ This includes questionable depictions of characters drawn in the 'loli' style, r
 
 Depiction of minors in a sexual context within a drawn medium is considered highly illegal in many places in the world, and as such, it is explicitly forbidden.
 
-### Depictions of erotic content or graphic sexuality
+### Erotic content or graphic sexuality
 
 Any portrayals of immediate or active sexual intercourse, foreplay and full frontal nudity with genitals clearly visible is completely disallowed without exception.
 
@@ -53,7 +53,7 @@ This also extends to clothing that is clearly and indisputably revealing to the 
 
 Additionally, this extends to entire pieces of artwork wherein the airs can be - in good faith - reasonably appraised as predominantly provocative or suggestive in a sexual manner.
 
-### Depictions of drug use or preparation
+### Drug use or preparation
 
 This includes portrayals of use or the presence of drug-oriented paraphernalia such as bongs, coke spoons, used needles or any other widely established tools used in the context of administering illicit drugs.
 
@@ -65,7 +65,7 @@ In the event of a specific sort of drug abuse terminology or iconography is refe
 
 Put simply, most/all references to drug use are generally not okay and should be avoided.
 
-### Depictions of deliberately inflammatory content
+### Deliberately inflammatory content
 
 This includes depictions of desecration involving cultural and religious icons that are intended to deliberately inflame, such as the offensive use of Nazi or fascist symbolism (swastikas), anti-Semetic terminology and symbols, or any other icons, motifs or statements that actively encourage the harm and discrimination of another social, racial, cultural or political group.
 
