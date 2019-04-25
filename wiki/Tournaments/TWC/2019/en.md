@@ -1,18 +1,17 @@
 ---
 tags:
-- TWC 2019
 - TWC2019
 ---
 # osu!taiko World Cup 2019
 
-![osu!taiko World Cup 2019](img/logo.jpg)
+![TWC 2019](img/logo.jpg)
 
-The **osu!taiko World Cup 2019** (**_TWC 2019_**) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 9th installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2019-03-15/2019-03-29 |
 | Drawings | 2019-04-13 (14:00 UTC) |
 | Group Stage | 2019-04-20/2019-04-21 |
@@ -24,15 +23,13 @@ The **osu!taiko World Cup 2019** (**_TWC 2019_**) is a country-based osu!taiko t
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. As these items may change with every installment of the World Cups, it is only possible to give an estimate prize list for each World Cup.
-
 | Placing | Prize(s) |
-| --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
 
-## Organization
+## Organisation
 
 The osu!taiko World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
@@ -54,14 +51,14 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ## Participants
 
-| | Country | Members |
-| --: | :-: | :-- |
-| ![][flag_AR] | Argentina | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [Jintsuu](https://osu.ppy.sh/users/7165127), [Axer](https://osu.ppy.sh/users/7299864), [BossPlays\_02](https://osu.ppy.sh/users/7341471), [TrolloCat](https://osu.ppy.sh/users/9228032) |
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | Argentina | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Jintsuu](https://osu.ppy.sh/users/7165127), [Axer](https://osu.ppy.sh/users/7299864), [BossPlays\_02](https://osu.ppy.sh/users/7341471), [TrolloCat](https://osu.ppy.sh/users/9228032) |
 | ![][flag_AU] | Australia | **[Fuel](https://osu.ppy.sh/users/5155081)**, [remii](https://osu.ppy.sh/users/2913584), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [rango](https://osu.ppy.sh/users/7728466) |
 | ![][flag_BR] | Brazil | **[HiroK](https://osu.ppy.sh/users/4050738)**, [Brasil](https://osu.ppy.sh/users/3949268), [Foxerus](https://osu.ppy.sh/users/7479684), [Ppus](https://osu.ppy.sh/users/5918857), [Skull Kid](https://osu.ppy.sh/users/3044264) |
 | ![][flag_CA] | Canada | **[Raichael](https://osu.ppy.sh/users/459886)**, [beary605](https://osu.ppy.sh/users/2198070), [janitoreihil](https://osu.ppy.sh/users/3307897), [Fudgyking](https://osu.ppy.sh/users/3802922), [vladyushko](https://osu.ppy.sh/users/4908773) |
 | ![][flag_CL] | Chile | **[kazu on osu](https://osu.ppy.sh/users/1263669)**, [-Kazu-](https://osu.ppy.sh/users/920861), [KazuFangirl](https://osu.ppy.sh/users/1158576), [Alepat](https://osu.ppy.sh/users/1164931), [Vulkin](https://osu.ppy.sh/users/4901066) |
-| ![][flag_CN] | China | **[Wilben_Chan](https://osu.ppy.sh/users/6659363)**, [da2b](https://osu.ppy.sh/users/2781054), [7jasmine](https://osu.ppy.sh/users/4112195), [superSSS](https://osu.ppy.sh/users/4315477),  [trxhbii](https://osu.ppy.sh/users/10943068) |
+| ![][flag_CN] | China | **[Wilben\_Chan](https://osu.ppy.sh/users/6659363)**, [da2b](https://osu.ppy.sh/users/2781054), [7jasmine](https://osu.ppy.sh/users/4112195), [superSSS](https://osu.ppy.sh/users/4315477),  [trxhbii](https://osu.ppy.sh/users/10943068) |
 | ![][flag_FI] | Finland | **[duski](https://osu.ppy.sh/users/6506484)**, [Reikocchi](https://osu.ppy.sh/users/1110109),  [Kurakao](https://osu.ppy.sh/users/3064715), [aarokoo](https://osu.ppy.sh/users/4330939), [gevbiivi5](https://osu.ppy.sh/users/7140680) |
 | ![][flag_FR] | France | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, [omegaflo](https://osu.ppy.sh/users/83291), [Nofool](https://osu.ppy.sh/users/672430), [Yona la loutre](https://osu.ppy.sh/users/7930622), [BananaW](https://osu.ppy.sh/users/9298106) |
 | ![][flag_DE] | Germany | **[Ak1o](https://osu.ppy.sh/users/1600041)**, [Zetera](https://osu.ppy.sh/users/587737), [Xay](https://osu.ppy.sh/users/961417), [frz](https://osu.ppy.sh/users/6956922), [jleste](https://osu.ppy.sh/users/8275687) |
@@ -96,7 +93,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 ### Saturday, 27. April 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
 | Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
@@ -106,65 +103,67 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 ### Sunday, 28. April 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 21:00 UTC+11 | 18:00 UTC+08 |
 | Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
 | Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
 
-## Mappool
+-----------------------
+
+## Mappools
 
 ### Round of 16
 
 - NoMod
-    - [Snail's House - Balloons \(KinomiCandy\) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
-    - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) \(karterfreak\) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
-    - [Akhuta - Ludus In Tenebris \(Nyan\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
-    - [Helblinde - Grief & Malice \(Rhytoly\) \[Madoku & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
-    - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
+  - [Snail's House - Balloons \(KinomiCandy\) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
+  - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) \(karterfreak\) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
+  - [Akhuta - Ludus In Tenebris \(Nyan\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
+  - [Helblinde - Grief & Malice \(Rhytoly\) \[Madoku & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
+  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
 - Hidden
-    - [Project B- - Sarutobi Champion no Sessha \(Charlotte\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1722197)
-    - [The Ghost of 3.13 - Forgotten \(Mismagius\) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
+  - [Project B- - Sarutobi Champion no Sessha \(Charlotte\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1722197)
+  - [The Ghost of 3.13 - Forgotten \(Mismagius\) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
 - HardRock
-    - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \(Chromoxx\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/693174#taiko/1466716)
-    - [USAO - Miracle 5ympho X \(Mel\) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
+  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \(Chromoxx\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/693174#taiko/1466716)
+  - [USAO - Miracle 5ympho X \(Mel\) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
 - DoubleTime
-    - [DJ Fresh - Gold Dust \(Pheon\) \[Phedondon\]](https://osu.ppy.sh/beatmapsets/784342#taiko/1646826)
-    - [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Sp3's Taiko\]](https://osu.ppy.sh/beatmapsets/47146#taiko/146915)
+  - [DJ Fresh - Gold Dust \(Pheon\) \[Phedondon\]](https://osu.ppy.sh/beatmapsets/784342#taiko/1646826)
+  - [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Sp3's Taiko\]](https://osu.ppy.sh/beatmapsets/47146#taiko/146915)
 - FreeMod
-    - [Minako Adachi - Battle! (Team Skull Boss) \[feat. KYOtara\] \(Zetera\) \[Beast Guzma Oni\]](https://osu.ppy.sh/beatmapsets/784760#taiko/1647504)
-    - [lapix - YOLO ft. Numb\'n\'dub \(Arrival\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1526616)
-    - [Dark PHOENiX - Ryokugan no Jealousy \(Jounzan\) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
+  - [Minako Adachi - Battle! (Team Skull Boss) \[feat. KYOtara\] \(Zetera\) \[Beast Guzma Oni\]](https://osu.ppy.sh/beatmapsets/784760#taiko/1647504)
+  - [lapix - YOLO ft. Numb\'n\'dub \(Arrival\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1526616)
+  - [Dark PHOENiX - Ryokugan no Jealousy \(Jounzan\) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
 - Tiebreaker
-    - **[xi - Double Helix \(Loopy542\) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
+  - **[xi - Double Helix \(Loopy542\) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
 
 ### Group Stage
 
 - NoMod
-    - [Venetian Snares - Szamar Madar \(Xay\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
-    - [Morimori Atsushi + Verdammt - Le Fruit Defendu \(KitajimaYN\) \[Offensive\]](https://osu.ppy.sh/beatmapsets/808011#taiko/1695684)
-    - [MiddleIsland - Delrio \(Nwolf\) \[Mountainside River\]](https://osu.ppy.sh/beatmapsets/917573#taiko/1916185)
-    - [Warak - Cosmic Invaders \(Lno\) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
+  - [Venetian Snares - Szamar Madar \(Xay\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
+  - [Morimori Atsushi + Verdammt - Le Fruit Defendu \(KitajimaYN\) \[Offensive\]](https://osu.ppy.sh/beatmapsets/808011#taiko/1695684)
+  - [MiddleIsland - Delrio \(Nwolf\) \[Mountainside River\]](https://osu.ppy.sh/beatmapsets/917573#taiko/1916185)
+  - [Warak - Cosmic Invaders \(Lno\) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
 - Hidden
-    - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi \(uone\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
-    - [Shano x 40mP - Sanpo Michi \(mintong89\) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/62991#taiko/186452)
+  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi \(uone\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+  - [Shano x 40mP - Sanpo Michi \(mintong89\) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/62991#taiko/186452)
 - HardRock
-    - [dj MAX STEROID - Arabian Rave Night \(Ascendance\) \[Ozzy's Tatsujin\]](https://osu.ppy.sh/beatmapsets/592980#taiko/1254592)
-    - [Dirty Androids - Egret and Willow \(Nifty\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821745#taiko/1722353)
+  - [dj MAX STEROID - Arabian Rave Night \(Ascendance\) \[Ozzy's Tatsujin\]](https://osu.ppy.sh/beatmapsets/592980#taiko/1254592)
+  - [Dirty Androids - Egret and Willow \(Nifty\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821745#taiko/1722353)
 - DoubleTime
-    - [M2U - Gypsy Tronic \(Gomo Pslvarh\) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
-    - [ClariS - Surely \(JUDYDANNY\) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
+  - [M2U - Gypsy Tronic \(Gomo Pslvarh\) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
+  - [ClariS - Surely \(JUDYDANNY\) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
 - FreeMod
-    - [CyoucyoP feat.Hatsune Miku - End of the World \(TKS\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
-    - [cYsmix - Classic Pursuit \(Hanjamon\) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
-    - [S3RL feat Harri Rush - Nostalgic \(Nightcore Mix\) \(nold\_1702\) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
+  - [CyoucyoP feat.Hatsune Miku - End of the World \(TKS\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
+  - [cYsmix - Classic Pursuit \(Hanjamon\) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
+  - [S3RL feat Harri Rush - Nostalgic \(Nightcore Mix\) \(nold\_1702\) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
 - Tiebreaker
-    - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
+  - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ## Match Results
 
 ### Group Stage
 
-| Saturday, 2019-04-20 | | | | |
+| Saturday, 2019-04-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
@@ -189,7 +188,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51162759) |
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
-| Sunday, 2019-04-21 | | | | |
+| Sunday, 2019-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
@@ -221,6 +220,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 ------------------------------------------------------------------------
 
 ## Ruleset
+
 ### Tournament Rules
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
@@ -341,7 +341,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 2. Matches in Group Stage may overlap.
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
