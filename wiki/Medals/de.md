@@ -8,10 +8,10 @@
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
--   Video Game Pack
--   Anime Pack
--   Internet! Pack
--   Rhythm Game Pack
+- Video Game Pack
+- Anime Pack
+- Internet! Pack
+- Rhythm Game Pack
 
 Jede dieser Untergruppen besteht aus 4 Teilen.
 

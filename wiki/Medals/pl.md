@@ -1,11 +1,9 @@
-Medale
-======
+# Medale
 
 Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
 Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 Medale **The Beatmap Packs** są przyznawane za **zagranie dowolnego poziomu trudności w każdej beatmapie** znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
 Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!standard](/wiki/osu!standard).
@@ -29,8 +27,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 - Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych.
 - Beatmapa może zostać bez żadnych skutków usunięta po tym, jak pojawi się status **`ukończona`** na [liście paczek beatmap](https://osu.ppy.sh/p/packlist?t=t).
 
-Skill
------
+## Skill
 
 Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
 
@@ -54,13 +51,11 @@ Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwo
 Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
 Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale także dla liczby gwiazdek od jednej do siedmiu.
 
-Dedication
-----------
+## Dedication
 
 Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!standard, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
 
-Mod Introduction
-----------------
+## Mod Introduction
 
 _Zobacz także: [Modyfikacje](/wiki/Game_Modifiers)._
 
@@ -68,15 +63,13 @@ Medale Mod Introduction są przyznawane za ukończenie dowolnej beatmapy z konkr
 Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej modyfikacji oraz odkrycia, co osu! ma do zaoferowania.
 **Ważne:** Jeżeli gracz korzysta z wielu modyfikacji naraz, to zdobycie medali za żadną z tych modyfikacji nie będzie możliwe.
 
-Hush-Hush
----------
+## Hush-Hush
 
 Te medale nie mają dosłownie określonego celu.
 Gracz musi samodzielnie znaleźć sposób na zdobycie danego medalu z tej grupy.
 Podpowiedź znajduje się w tytule medalu.
 
-Źródła
-------
+## Źródła
 
 - [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
 - [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).

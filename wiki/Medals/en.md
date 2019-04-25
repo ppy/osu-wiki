@@ -1,11 +1,9 @@
-Medals
-======
+# Medals
 
 Medals, previously known as _achievements_, are little badges on a user's profile which indicate that the user has accomplished an exceptional goal.
 Currently, they are divided into 5 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), and [Hush-Hush](#hush-hush).
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 **The Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
 You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
@@ -30,8 +28,7 @@ Each of these sections currently have 4 volumes to them.
 - Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
 - The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
 
-Skill
------
+## Skill
 
 Skill medals are currently divided into three groups: Combo, High Ranker, and Star-based.
 
@@ -55,13 +52,11 @@ You can pass or get a S on a map with difficulty increasing mods or difficulty d
 The map must also be ranked to be able to earn a medal.
 Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
 
-Dedication
-----------
+## Dedication
 
 The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
-Mod Introduction
-----------------
+## Mod Introduction
 
 *See also: [Game Modifiers](/wiki/Game_Modifiers)*
 
@@ -69,15 +64,13 @@ The Mod Introduction medals can be obtained by clearing maps with the specified 
 They are meant to encourage newer players to try out each mod and explore what the game has to offer.
 Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn _any_ of the game modifier medals for that play.
 
-Hush-Hush
----------
+## Hush-Hush
 
 Medals of this kind have no obvious way to get them.
 The player must find out what needs to be done in order to unlock the medal.
 The title itself is a clue.
 
-Trivia
-------
+## Trivia
 
 - [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Beatmap_Packs_0916)
 - peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/community/forums/topics/80448).
