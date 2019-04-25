@@ -1,5 +1,6 @@
 ---
 tags:
+- 'TWC #3'
 - TWC#3
 ---
 # Taiko World Cup #3

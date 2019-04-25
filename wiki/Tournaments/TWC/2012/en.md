@@ -1,5 +1,6 @@
 ---
 tags:
+- TWC 2012
 - TWC2012
 ---
 # Taiko World Cup 2012

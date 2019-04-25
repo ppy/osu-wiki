@@ -1,5 +1,6 @@
 ---
 tags:
+- TWC 2018
 - TWC2018
 ---
 # osu!taiko World Cup 2018

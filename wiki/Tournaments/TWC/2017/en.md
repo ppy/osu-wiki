@@ -1,5 +1,6 @@
 ---
 tags:
+- TWC 2017
 - TWC2017
 ---
 # osu!taiko World Cup 2017

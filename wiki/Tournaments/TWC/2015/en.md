@@ -1,5 +1,6 @@
 ---
 tags:
+- TWC 2015
 - TWC2015
 ---
 # osu! Taiko World Cup 2015

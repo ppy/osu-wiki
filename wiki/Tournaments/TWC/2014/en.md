@@ -1,5 +1,6 @@
 ---
 tags:
+- TWC 2014
 - TWC2014
 ---
 # osu! Taiko World Cup 2014
