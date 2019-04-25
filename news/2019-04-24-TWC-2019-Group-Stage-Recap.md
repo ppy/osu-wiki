@@ -54,7 +54,7 @@ That concludes all the matches for now! Let's wave our goodbyes to the 16 teams 
 --------
 ## <a name="ahead" id="ahead"></a>Looking Ahead: Round of 16
 
-**Next week we'll be treated to a total of 8 exciting matches, and you can find the schedule on the [TWC 2019 wiki](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2019#match-schedule:-round-of-16).** As it is a double elimination format, the Round of 16 is unique in the sense that no team is at risk of being eliminated, though their performance will determine how the remainder of the matches play out in future stages. 
+**Next week we'll be treated to a total of 8 exciting matches, and you can find the schedule on the [TWC 2019 wiki](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2019#match-schedule:-round-of-16).** As it is a double-elimination tournament, the Round of 16 is unique in the sense that no team is at risk of being eliminated, though their performance will determine how the remainder of the matches play out in future stages.
 
 **The first match of the RO16 Stage will take place Saturday 11:00 UTC, 27th of April.** There we will see a much anticipated match between two veteran countries - Japan vs. France. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive). 
 
