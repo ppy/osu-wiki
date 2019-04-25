@@ -49,7 +49,7 @@ Without further ado, let's get right into the Group Stage.
 ### Sunday:
 
 --------
-If you missed out on any of the action last weekend, you can always watch the VODs on the [osu!live Twitch Channel](https://www.twitch.tv/osulive/videos).
+If you missed out on any of the action last weekend, you can always watch the VODs on the [osu!live Twitch channel](https://www.twitch.tv/osulive/videos).
 
 That concludes all the matches for now! Let's wave our goodbyes to the 16 teams that were narrowly defeated last weekend - we thank you for participating and hope to see you again next year. Good luck to all the remaining teams in this tournament!
 
