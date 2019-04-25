@@ -1,14 +1,12 @@
 ---
 tags:
-- Beginners' Taiko Tournament 4
-- BTT 4
 - BTT4
 ---
 # Beginners' Taiko Tournament 4
 
 ![BTT 4 Logo](img/logo.gif)
 
-The **Beginners' Taiko Tournament 4 (***BTT 4***)** was a double elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the 4th installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament 4 (***BTT 4***)** was a double elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Beginners' Taiko Tournament.
 
 ## Tournament Schedule
 
@@ -429,7 +427,7 @@ This competition has come to an end and resulted in the following podium:
 1. Every stage is held during the week-ends to let players practice.
 2. Matches are allowed to overlap if referees are available.
 3. You must complete your match at the designated time or both players are eliminated.
-3A. However if you and your opponent can come up with a better time than what we have schedule for you, please inform us of this. We will change your match if informed before the Thursday before the week-end of matches.
+   - However if you and your opponent can come up with a better time than what we have schedule for you, please inform us of this. We will change your match if informed before the Thursday before the week-end of matches.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
