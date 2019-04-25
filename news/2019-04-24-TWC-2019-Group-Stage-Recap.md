@@ -26,7 +26,7 @@ Without further ado, let's get right into the Group Stage.
 
 ### A word from our Mappool Selectors:
 
-"You're short" - mango
+"You're short" —mango  
 “weff" - Nwolf
 "sorry for my absence" - tasuke912
 
