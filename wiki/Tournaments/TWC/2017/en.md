@@ -1,13 +1,12 @@
 ---
 tags:
-- TWC 2017
 - TWC2017
 ---
 # osu!taiko World Cup 2017
 
 ![TWC 2017 Logo](img/logo.png)
 
-The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 7th installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 

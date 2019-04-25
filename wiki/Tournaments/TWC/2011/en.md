@@ -1,13 +1,12 @@
 ---
 tags:
-- TWC 2011
 - TWC2011
 ---
 # Taiko World Cup 2011
 
 ![TWC 2011 Logo](img/logo.png)
 
-The **osu!taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was part of the 1st installment of the osu!taiko World Cup.
+The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -32,9 +31,9 @@ The **osu!taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko 
 
 ![TWC 2011 Winner Badge](img/badge.png)
 
-## Organization
+## Organisation
 
-The osu!taiko World Cup 2011 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Taiko World Cup 2011 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,20 +49,20 @@ The osu!taiko World Cup 2011 was run by various community members by distributin
 
 ## Participants
 
-|  | Team | Member |
+|  | Team | Members |
 | :-: | :-: | :-- |
 | ![][flag_BR] ![][flag_CL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
 | ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), [small-qiang](https://osu.ppy.sh/users/619179) |
-| ![][flag_FI] | **Finland** | **XZero94**, [LunaticMara](https://osu.ppy.sh/users/194294), [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
-| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), [Dagonpater](https://osu.ppy.sh/users/Dagonpater), [Didou](https://osu.ppy.sh/users/Didou) |
+| ![][flag_FI] | **Finland** | **[XZero94](https://osu.ppy.sh/users/391366)**, [LunaticMara](https://osu.ppy.sh/users/194294), [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
+| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), Dagonpater, Didou |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [RockeDon](https://osu.ppy.sh/users/624957), [Trashy](https://osu.ppy.sh/users/55191) |
-| ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), [Der\_Locher](https://osu.ppy.sh/users/Der_Locher), [bennius](https://osu.ppy.sh/users/3129206) |
+| ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), Der\_Locher, [bennius](https://osu.ppy.sh/users/3129206) |
 | ![][flag_HK] | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
 | ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [Henkie](https://osu.ppy.sh/users/16944) |
-| ![][flag_JP] | **Japan** | **inaba9510**, [TTTL](https://osu.ppy.sh/users/164583), [aruru1234](https://osu.ppy.sh/users/228812), [03123456789](https://osu.ppy.sh/users/295488) |
-| ![][flag_KR] | **Korea A** | **[KRZY](https://osu.ppy.sh/users/114017)**, [BloodyLove](https://osu.ppy.sh/users/BloodyLove), [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [\[Shalon\]](https://osu.ppy.sh/users/317802) |
-| ![][flag_KR] | **Korea B** | **samiljul**, [Nyan](https://osu.ppy.sh/users/36102), [kds7769](https://osu.ppy.sh/users/257977), [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [mekadon](https://osu.ppy.sh/users/mekadon), [ffyong](https://osu.ppy.sh/users/168154), [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
+| ![][flag_JP] | **Japan** | **[inaba9510](https://osu.ppy.sh/users/477744)**, [TTTL](https://osu.ppy.sh/users/164583), [aruru1234](https://osu.ppy.sh/users/228812), [03123456789](https://osu.ppy.sh/users/295488) |
+| ![][flag_KR] | **Korea A** | **[KRZY](https://osu.ppy.sh/users/114017)**, BloodyLove, [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [\[Shalon\]](https://osu.ppy.sh/users/317802) |
+| ![][flag_KR] | **Korea B** | **[samiljul](https://osu.ppy.sh/users/156215)**, [Nyan](https://osu.ppy.sh/users/36102), [kds7769](https://osu.ppy.sh/users/257977), [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
+| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, mekadon, [ffyong](https://osu.ppy.sh/users/168154), [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
 | ![][flag_PL] | **Poland** | **[1miko1](https://osu.ppy.sh/users/95690)**, [rEdo](https://osu.ppy.sh/users/49329), [Acrith](https://osu.ppy.sh/users/389880), [Niko-](https://osu.ppy.sh/users/175141) |
 | ![][flag_PH] | **Philippines** | **[blacksymbian](https://osu.ppy.sh/users/53956)**, [Zekira](https://osu.ppy.sh/users/36749), [caelumangelus](https://osu.ppy.sh/users/710623), [\[Zero\_One\]](https://osu.ppy.sh/users/347574) |
 | ![][flag_TW] | **Taiwan** | **[Numbers 596108](https://osu.ppy.sh/users/194653)**, [TW-KUMA01](https://osu.ppy.sh/users/244499), [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [zx0502442](https://osu.ppy.sh/users/457766) |
@@ -73,7 +72,7 @@ The osu!taiko World Cup 2011 was run by various community members by distributin
 ## Groups
 
 | Group A | Group B | Group C | Group D |
-| :-: | :-: | :-: | :-: |
+| :-- | :-- | :-- | :-- |
 | ![][flag_CN] China | ![][flag_FR] France | ![][flag_BR] ![][flag_CL] Brazil-Chile | ![][flag_FI] Finland |
 | ![][flag_DE] Germany A | ![][flag_KR] South Korea A | ![][flag_HK] Hong Kong | ![][flag_DE] Germany B |
 | ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_JP] Japan |

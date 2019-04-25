@@ -1,13 +1,12 @@
 ---
 tags:
-- TWC 2016
 - TWC2016
 ---
 # osu!taiko World Cup 2016
 
 ![TWC 2016 logo](img/logo.png)
 
-The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 6th installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -71,7 +70,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | ![][flag_MY] | **Malaysia** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [Jerry](https://osu.ppy.sh/users/605973), [huiko12](https://osu.ppy.sh/users/598553), [ZYuan](https://osu.ppy.sh/users/3337688) |
 | ![][flag_PH] | **Philippines** | **[jmeh07](https://osu.ppy.sh/users/2852269)**, [Pochacco](https://osu.ppy.sh/users/2927742), [senkai](https://osu.ppy.sh/users/1150178), [Rumovik](https://osu.ppy.sh/users/3831514), [Alkaeid](https://osu.ppy.sh/users/567322) |
 | ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [CreepyDuck](https://osu.ppy.sh/users/2435013), [Elfie](https://osu.ppy.sh/users/1676016), [Mihaugoku](https://osu.ppy.sh/users/6401769), [-Jamu-](https://osu.ppy.sh/users/2271556), [1miko1](https://osu.ppy.sh/users/95690) |
-| ![][flag_RU] | **Russian Federation** | **[magax](https://osu.ppy.sh/users/magax)**, [koprofagg](https://osu.ppy.sh/users/5371287), [Youth](https://osu.ppy.sh/users/4993235), [Lover](https://osu.ppy.sh/users/1359539), [Alt\_Hg](https://osu.ppy.sh/users/Alt_Hg) |
+| ![][flag_RU] | **Russian Federation** | **[magax](https://osu.ppy.sh/users/918645)**, [koprofagg](https://osu.ppy.sh/users/5371287), [Youth](https://osu.ppy.sh/users/4993235), [Lover](https://osu.ppy.sh/users/1359539), [Alt\_Hg](https://osu.ppy.sh/users/Alt_Hg) |
 | ![][flag_SG] | **Singapore** | **[taikoplayer123](https://osu.ppy.sh/users/3580055)**, [SilverSufuru](https://osu.ppy.sh/users/3769280), [Element118](https://osu.ppy.sh/users/2283992), [ditcherer](https://osu.ppy.sh/users/1632105), [BlindReaper](https://osu.ppy.sh/users/2446062), [neonat](https://osu.ppy.sh/users/1561995) |
 | ![][flag_KR] | **South Korea** | **[Runa](https://osu.ppy.sh/users/4643294)**, [Quizmaegi](https://osu.ppy.sh/users/2228401), [applerss](https://osu.ppy.sh/users/983349), [bbj0920](https://osu.ppy.sh/users/87546), [Ni-Sokkususu](https://osu.ppy.sh/users/1807472) |
 | ![][flag_ES] | **Spain** | **[LZD](https://osu.ppy.sh/users/224335)**, [Maitroxsk](https://osu.ppy.sh/users/4875451), [Raiden](https://osu.ppy.sh/users/2239480), [Daigo](https://osu.ppy.sh/users/3687287), [Hanjamon](https://osu.ppy.sh/users/1703330), [MYRKUL](https://osu.ppy.sh/users/255933) |

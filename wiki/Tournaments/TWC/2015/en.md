@@ -1,13 +1,12 @@
 ---
 tags:
-- TWC 2015
 - TWC2015
 ---
 # osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](img/logo.png)
 
-The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based Taiko tournament hosted by the [osu! staff](/wiki/People/The_Team). It was the 5th installment of the osu!taiko World Cup.
+The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -81,6 +80,17 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 | ![][flag_UA] | **Ukraine** | **[Anny](https://osu.ppy.sh/users/249094)**, [Aka](https://osu.ppy.sh/users/1307553), [gavnono](https://osu.ppy.sh/users/1625581) |
 | ![][flag_US] | **United States** | **[Two Fruit Cakes](https://osu.ppy.sh/users/437259)**, [FLANKs](https://osu.ppy.sh/users/2398168), [OzzyOzrock](https://osu.ppy.sh/users/465153), [Shyguy](https://osu.ppy.sh/users/178038), [Kuro](https://osu.ppy.sh/users/1735031), [goatlife](https://osu.ppy.sh/users/4408784) |
 
+## Groups
+
+| Group A | Group B | Group C | Group D |
+| :-- | :-- | :-- | :-- |
+| ![][flag_AU] Australia | ![][flag_NO] Norway | ![][flag_IT] Italy | ![][flag_HU] Hungary |
+| ![][flag_SG] Singapore | ![][flag_DK] Denmark | ![][flag_SE] Sweden | ![][flag_ID] Indonesia |
+| ![][flag_FI] Finland | ![][flag_UA] Ukraine | ![][flag_CA] Canada | ![][flag_CL] Chile |
+| ![][flag_PH] Philippines | ![][flag_PL] Poland | ![][flag_AR] Argentina | ![][flag_ES] Spain |
+| ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_HK] Hong Kong |
+| ![][flag_TW] Taiwan | ![][flag_CN] China | ![][flag_JP] Japan | ![][flag_US] United States |
+
 ------------------------------------------------------------------------
 
 ## Podium
@@ -93,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
 
-![TWC 2015 Bracket](img/brackets.jpg)
+![TWC 2015 Bracket](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
