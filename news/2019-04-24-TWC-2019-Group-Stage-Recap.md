@@ -24,7 +24,7 @@ Without further ado, let's get right into the Group Stage.
 ## <a name="mappool" id="mappool"></a>Mappool
 **Last weekend, we saw a total of 278 picks and 96 bans across 48 complete matches.** Every map was (to the joy of the mappool selectors) played at least 10 times, and feedback from the players was generally very positive.
 
-### A word from our Mappool Selectors:
+### Some words from our Mappool Selectors
 
 "You're short" —mango  
 "weff" —Nwolf  
