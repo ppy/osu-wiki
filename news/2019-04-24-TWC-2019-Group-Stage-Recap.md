@@ -28,7 +28,7 @@ Without further ado, let's get right into the Group Stage.
 
 "You're short" —mango  
 "weff" —Nwolf  
-"sorry for my absence" - tasuke912
+"sorry for my absence" —tasuke912
 
 ### Mappool Statistics:
 
