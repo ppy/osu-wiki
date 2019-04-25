@@ -25,7 +25,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!taiko Champion" user title |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!taiko Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 

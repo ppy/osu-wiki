@@ -13,7 +13,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2017-02-07/2017-02-19 |
-| Drawings | 2017-03-05 (14:00 UTC) |
+| Live Drawings | 2017-03-05 (14:00 UTC) |
 | Group Stage | 2017-03-11/2017-03-12 |
 | Round of 16 | 2017-03-18/2017-03/19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
@@ -25,7 +25,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique item, unique profile badge, "osu!taiko Champion" user title |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique item, unique profile badge, "osu!taiko Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Unique item, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Unique item, unique profile badge |
 

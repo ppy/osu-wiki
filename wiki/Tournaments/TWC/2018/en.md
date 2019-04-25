@@ -13,7 +13,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2018-03-08/2018-03-21 |
-| Drawings | 2018-03-31 (14:00 UTC) |
+| Live Drawings | 2018-03-31 (14:00 UTC) |
 | Group Stage | 2018-04-07/2018-04-08 |
 | Round of 16 | 2018-04-14/2018-04-15 |
 | Quarterfinals | 2018-04-21/2018-04-22 |
