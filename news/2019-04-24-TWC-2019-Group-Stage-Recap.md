@@ -4,7 +4,7 @@ title: "osu!taiko World Cup - Group Stage Recap"
 date: 2019-04-24 14:00:00 +0000
 ---
 
-*sniff sniff…* do you smell that? Yeah, smells like ...*sniff*... poppin' gamers in here. What's poppin' gamers? The osu!taiko World Cup is in the limelight once again, with expectations higher than ever before. Read on to find out what happened in the Group Stage last weekend!
+*sniff sniff...* do you smell that? Yeah, smells like ...*sniff*... poppin' gamers in here. What's poppin' gamers? The osu!taiko World Cup is in the limelight once again, with expectations higher than ever before. Read on to find out what happened in the Group Stage last weekend!
 
 ![](/wiki/shared/news/banners/TWC_2019_banner.jpg)
 
