@@ -81,18 +81,13 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | ![][flag_US] | **United States** | **[Two Fruit Cakes](https://osu.ppy.sh/users/437259)**, [Garpo](https://osu.ppy.sh/users/4097035), [n1doking](https://osu.ppy.sh/users/5991961), [FLANKs](https://osu.ppy.sh/users/2398168), [OzzyOzrock](https://osu.ppy.sh/users/465153), [Shyguy](https://osu.ppy.sh/users/178038) |
 | ![][flag_VE] | **Venezuela** | **[JessiChan](https://osu.ppy.sh/users/1368025)**, [Todotrucks](https://osu.ppy.sh/users/2852968), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Satoruu](https://osu.ppy.sh/users/2243452) |
 
-## Seedings
+## Groups
 
-| Top Seed | Mid Seed | Low Seed |
-| :-- | :-- | :-- |
-| ![][flag_CA] Canada | ![][flag_AR] Argentina | ![][flag_AU] Australia |
-| ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_BR] Brazil |
-| ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_IT] Italy |
-| ![][flag_HK] Hong Kong | ![][flag_ID] Indonesia | ![][flag_MY] Malaysia |
-| ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation |
-| ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_SG] Singapore |
-| ![][flag_TW] Taiwan | ![][flag_ES] Spain | ![][flag_SE] Sweden |
-| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_VE] Venezuela |
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| ![][flag_AU] Australia | ![][flag_VE] Venezuela | ![][flag_BR] Brazil | ![][flag_MY] Malaysia | ![][flag_SG] Singapore | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_IT] Italy |
+| ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_CL] Chile | ![][flag_ID] Indonesia | ![][flag_PH] Philippines | ![][flag_ES] Spain | ![][flag_FR] France | ![][flag_PL] Poland |
+| ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_CN] China | ![][flag_CA] Canada |
 
 ------------------------------------------------------------------------
 
