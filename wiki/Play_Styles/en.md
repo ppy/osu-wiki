@@ -166,7 +166,7 @@ Since 8 Keys requires mapper's decision or Game Modifiers, most players owning t
 
 Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi-well known community-driven clone of both of these games).
 
-Players dance on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. 9 panel pads also exist, for compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single player, so they aren't commonly doubled.
+Players dance on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. 9 panel pads also exist, for compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
 
 A major drawback with using a dance pad is that it can be hard to hit multiple keys at once. To hit 4 notes on a DDR pad, you would either have to use your hands along with your feet to hit them, or position your feet on 2 panels at once.
 
