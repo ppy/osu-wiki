@@ -1,6 +1,6 @@
 # Medals
 
-Medals, previously known as _achievements_, are little badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 5 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), and [Hush-Hush](#hush-hush).
+Medals, previously known as *achievements*, are badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 7 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
 
 ## Beatmap Packs
 
@@ -12,25 +12,25 @@ Each of these sections currently have 4 volumes to them.
 
 ### Requirements
 
-- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
+- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme).
 - The played game mode must be osu!standard.
 - Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
-  From here, open the osu!client and let the client parse the files before playing the beatmaps.
+  - From here, open the osu! client and let the client parse the files before playing the beatmaps.
   - Alternatively, the player can download the songs inside manually one by one and it would still count.
 - Any variations (like different creator) of the song is not counted.
   It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be signed in to the osu!client (not osu!web).
+- The player's account in question must be signed in to the osu! client (not the website).
 
 ### Notes
 
 - Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
-- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
+- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme).
 
 ## Skill
 
-Skill medals are currently divided into three groups: Combo, High Ranker, and Star-based.
+The **Skill** medals are currently divided into three groups: Combo, High Ranker, and Star-based.
 
-**The Combo** medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
+The Combo medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
 
 For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps. However, **do not search for or play unapproved beatmaps!**
 
@@ -40,23 +40,18 @@ The High Ranker medals can be obtained by reaching a certain global ranking posi
 
 ---
 
-The Star-based achivements are split into two groups, _Pass_ and _S_. The _Pass_ medals can be obtained by passing any map of a certain star difficulty. The _S_ medals will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn a medal. Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are corresponding medals for all star ratings from 1 to 7 as well.
+The Star-based achivements are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing any map of a certain star difficulty. The *S* medals will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn a medal.
 
 ## Dedication
 
-The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+The **Dedication** medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
 ## Mod Introduction
 
 *See also: [Game Modifiers](/wiki/Game_Modifiers)*
 
-The Mod Introduction medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn _any_ of the game modifier medals for that play.
+The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
 ## Hush-Hush
 
 Medals of this kind have no obvious way to get them. The player must find out what needs to be done in order to unlock the medal. The title itself is a clue.
-
-## Trivia
-
-- [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Beatmap_Packs_0916)
-- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/community/forums/topics/80448).
