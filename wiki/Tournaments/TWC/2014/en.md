@@ -46,7 +46,6 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 - [Livestream](https://www.twitch.tv/osulive/)
-- **[Groups Stage statistics sheet](https://tournaments.hiroto.eu/)**
 
 -----------------------
 
@@ -75,6 +74,16 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | ![][flag_GB] | **United Kingdom** | **[xWillx](https://osu.ppy.sh/users/696222)**, [abrian159](https://osu.ppy.sh/users/1159051), [Dainesl](https://osu.ppy.sh/users/1588551), TurnipLover, [Lno](https://osu.ppy.sh/users/1900787) |
 | ![][flag_US] | **United States** | **[MMzz](https://osu.ppy.sh/users/128993)**, [Backfire](https://osu.ppy.sh/users/263110), [LoLBryster](https://osu.ppy.sh/users/1800629), [OzzyOzrock](https://osu.ppy.sh/users/465153), [burntpurple1](https://osu.ppy.sh/users/2238673), [AnFace](https://osu.ppy.sh/users/233485) |
 
+## Groups
+
+| Group A | Group B | Group C | Group D |
+| :-- | :-- | :-- | :-- |
+| ![][flag_BR] Brazil | ![][flag_CN] China | ![][flag_FR] France | ![][flag_US] United States |
+| ![][flag_MY] Malaysia | ![][flag_KR] South Korea | ![][flag_AR] Argentina | ![][flag_CL] Chile |
+| ![][flag_JP] Japan | ![][flag_ES] Spain | ![][flag_UA] Ukraine | ![][flag_PH] Philippines |
+| ![][flag_DE] Germany | ![][flag_SG] Singapore | ![][flag_CA] Canada | ![][flag_PL] Poland |
+| ![][flag_SE] Sweden | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
+
 ------------------------------------------------------------------------
 
 ## Podium
@@ -95,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was used on Finals and Grand Finals**
+**This mappool was used on Finals and Grand Finals.**
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)**
 
@@ -177,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   - [Sakakibara Yui - Toki Tsukasadoru Juuni no Meiyaku (TV Size) (gina91189) \[Car's Taiko\]](https://osu.ppy.sh/beatmaps/104568)
   - [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[Taiko\]](https://osu.ppy.sh/beatmaps/119583)
-  - [Chai Found Music Workshop - Zeihen ~transformation~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmaps/86571)
+  - [Chai Found Music Workshop - Zeihen \~transformation\~ (xierbaliti) \[Taiko Ura Oni\]](https://osu.ppy.sh/beatmaps/86571)
   - [cosMo@Bousou-P - neu BSP style (Bass) \[31's Taiko\]](https://osu.ppy.sh/beatmaps/155964)
 - HardRock
   - [Denkare - Satsuriku no Keifu (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmaps/257366)

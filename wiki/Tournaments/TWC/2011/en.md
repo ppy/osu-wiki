@@ -354,7 +354,7 @@ Usually you will have a match per a week, but in the 1st round you may have two 
    - Referee can wait maximum 15 minutes.
    - Referee should post multiplayer history in this thread.
 2. The team that mentioned first in the timetable will be Blue team. Referee will be Blue team, too.
-   - From semifinals, which team will be blue team will be decided by coin flipping of referee.
+   - From semi-final, which team will be blue team will be decided by coin flipping of referee.
    - Referee should not touch anything that can affect score.
 3. If everythings are ready for the matches, referee will give host to the captain of blue team.
 4. Captain of the blue team selects the map from the maps that are announced for the round, then starts the game.

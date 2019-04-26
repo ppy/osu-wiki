@@ -16,7 +16,7 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 | Registration Phase | 2015-01-12/2015-02-22 |
 | Live Drawings | 2015-02-28 (14:00 UTC) |
 | Group Stage | 2015-03-07/2015-03-08 |
-| Round of 16 | 2015-03-14/2015-03-14 |
+| Round of 16 | 2015-03-14/2015-03-15 |
 | Quarterfinals | 2015-03-21/2015-03-22 |
 | Semifinals | 2015-03-28/2015-03-29 |
 | Finals | 2015-04-04/2015-04-05 |
@@ -48,7 +48,6 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/4)**
 
 -----------------------
 
@@ -112,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was used on Finals and Grand Finals**
+**This mappool was used on Finals and Grand Finals.**
 
 **[Download the mappack here! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
