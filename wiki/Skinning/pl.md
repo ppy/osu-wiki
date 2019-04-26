@@ -1,20 +1,20 @@
-# Tworzenie Skórek
+# Tworzenie skórek
 
-Tworzenie skórek jest jedną z kluczowych funkcji osu! Umożliwia graczom czerpanie z oryginalnych skórek, w celu utworzenia swoich własnych! Skórki mogą przypadać do różnych kategori - stworzone by bawić, tematyczne, PRO lub prawie niezdatne do użytku.
+Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia zamianę elementów graficznych gry na własne. Wyróżniamy kilka rodzajów skórek: stworzone dla zabawy, tematyczne, profesjonalne czy nienadające się do użytku.
 
-## Szablony Skórek
+## Zestawy elementów skórek
 
-*Zobacz także: [Lista Szablonów Skórek](/wiki/Ranking_Criteria/Skin_Set_List/).*
+*Główna strona: [Zestawy elementów skórek](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-**Dotyczy tylko beatmap** - jeżeli twója skórka beatmapy zawiera jeden element z danego szablonu w Kryteriach Rankingowych, musi także zawierać wszystkie pozostałe elementy w danym szablonie. Tyczy się to tylko skórek beatmap, jednak inni twórcy skórek mogą również rozważyć stosowanie się do tych szablonów.
+**Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element z danego zestawu elementów, to musi zawierać każdy element z tego zestawu. Mimo że te zestawy są przyznaczone tylko dla beatmap, to twórcy skórek mogą również czerpać z nich korzyści.
 
-## Jak mogę stworzyć skórkę?
+## Jak stworzyć skórkę?
 
-*Zobacz także: [Poradnik dot. tworzenia skórek](/wiki/Skinning_Tutorial).*
+*Główna strona: [Poradnik dot. tworzenia skórek](/wiki/Skinning/Tutorial)*
 
-## Lista Elementów Skórki
+## Elementy skórek
 
-Lista elementów skórki podzielona jest na kategorie:
+Elementy skórek są podzielone na następujące kategorie:
 
 - [Interfejs](/wiki/Skinning/Interface)
 - [osu!standard](/wiki/Skinning/osu!)
@@ -23,10 +23,10 @@ Lista elementów skórki podzielona jest na kategorie:
 - [osu!mania](/wiki/Skinning/osu!mania)
 - [Dźwięki](/wiki/Skinning/Sounds)
 
-# Zobacz także
+## Zobacz 
 
 - [skin.ini](/wiki/skin.ini)
-- [Historia Tworzenia Skórek](/wiki/Skinning/History) - lista starych elementów skórki.
-- [Kompedium](/wiki/Skinning/Compendium) - lista ukończoncyh skórek.
-- [Najczęściej Zadawane Pytania Dotyczące Tworzenia Skórek](/wiki/Skinning/FAQ)
-- [Poradniki i Ważne Tematy na Forum](/wiki/Skinning/Guides_and_Important_Threads)
+- [Historia skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek
+- [Kompendium](/wiki/Skinning/Compendium) - lista ukończonych skórek
+- [Najczęściej zadawane pytania dot. tworzenia skórek](/wiki/Skinning/FAQ)
+- [Poradniki i ważne wątki](/wiki/Skinning/Guides_and_Important_Threads)
