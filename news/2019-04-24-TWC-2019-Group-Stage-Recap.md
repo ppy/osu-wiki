@@ -44,19 +44,19 @@ Over the course of last weekend, we saw our fair share of surprise performances 
  
 **Italy vs Brazil was one of the most anticipated matches this weekend, ending in a score of 2 — 5 in favour of Brazil.** Both teams' main roster remained largely unchanged from the previous year, though both sides had improved considerably since. With the score hovering at 2 — 2, the match initially seemed dead even at first. However, it was Brazil's diversity in numbers that gave them the winning edge, which Italy couldn't respond to towards the latter half of the match. Nevertheless, both teams have made it through to the next stage, where they may possibly face each other again?
 
-![](/wiki/shared/news/2010-04-26-osu!taiko World Cup-Group-Stage-Recap/Italy-Brazil.jpg)
+![](/wiki/shared/news/2019-04-26-osu!taiko World Cup-Group-Stage-Recap/Italy-Brazil.jpg)
 
 ### Sunday
 
 **Chile and South Korea both went the distance, ending in a tiebreaker win for South Korea!** Having only 2 team members present for a 2v2 match is akin to being cornered against a wall. There is no escape - you can only grit your teeth and play to the best of your ability. Faced with insurmountable odds, Chilean Team Captain [Ulqui](https://osu.ppy.sh/users/1263669) and his stalwart companion [Alepat](https://osu.ppy.sh/users/1164931) fought an uphill battle against the top seeded South Korea. With impressive showings from both sides, it wasn't long before the score reached 4 — 4, and the tiebreaker played. In the end, it was South Korea's mod advantage and superior consistency that secured victory. Fortunately for Chile, they have also made it through to the next stage!
 
-![](/wiki/shared/news/2010-04-26-osu!taiko World Cup-Group-Stage-Recap/Chile-SouthKorea.jpg)
+![](/wiki/shared/news/2019-04-26-osu!taiko World Cup-Group-Stage-Recap/Chile-SouthKorea.jpg)
 
 **Just 11 hours later, another tiebreaker match broke out between Singapore and Argentina, with Singapore emerging the victor!**. Both teams showed equal tenacity throughout the match, winning on their own respective picks, eventually taking the score to 4 — 4. The tiebreaker was hard fought, with the score flickering many times throughout. However, it was [Lalamomo4](https://osu.ppy.sh/users/7609510) and [Element118](https://osu.ppy.sh/users/2283992) that emerged victorious, narrowly edging out their Argentinian counterparts with a total score difference of 9,500 points. Many congratulations to Singapore for progressing to the next stage!
 
 **The final match of the day saw Germany vs Canada fighting for the top seed in their group**. With a near-identical roster and a lengthy history of placing on the podium in past years, Team Canada is one of the scariest countries you could ever hope to face in this tournament. Under the fearless leadership of [Ak1o](https://osu.ppy.sh/users/1600041), Germany did well to take the first two points of the match. However, Canada quickly recovered and swung the match to 3 — 4. Backed into a corner, Germany's final pick was risky, and it would prove to be fatal - losing by a score difference of only 4,500 points. It really could have gone the other way. Nevertheless, we will be seeing both teams again next weekend!
 
-![](/wiki/shared/news/2010-04-26-osu!taiko World Cup-Group-Stage-Recap/Germany-Canada.jpg)
+![](/wiki/shared/news/2019-04-26-osu!taiko World Cup-Group-Stage-Recap/Germany-Canada.jpg)
 --------
 And that concludes all the highlights last weekend! If you missed out on any of the action, you can always watch the VODs on the [osu!live Twitch channel](https://www.twitch.tv/osulive/videos).
 
