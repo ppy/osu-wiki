@@ -179,6 +179,15 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
+### ![](/wiki/shared/mode/taiko.png) Beginners' Taiko Tournament
+
+| Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
+| --- | --- | --- | --- | --- | --- |
+| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
+| Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
+| Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
+| [Beginners' Taiko Tournament Season 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
@@ -297,6 +306,7 @@ Zobacz także
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RO]: /wiki/shared/flag/RO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
