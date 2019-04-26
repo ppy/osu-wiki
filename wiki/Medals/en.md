@@ -4,11 +4,7 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 ## Beatmap Packs
 
-**The Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
-
-There are currently 16 medals in this group which are divided into 4 packs: Video Game, Anime, Internet!, and Rhythm Game.
-
-Each of these sections currently have 4 volumes to them.
+The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
 
 ### Requirements
 
