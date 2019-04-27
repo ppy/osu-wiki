@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - RE:Usatei (OzzyOzrock) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/31343#taiko/103022)
   - [capsule - JUMPER (Mafiamaster) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/21130#taiko/74040)
 - Tiebreaker
-  - **[Demetori - Higan Retour \~ View of The River Styx (RLC) \[Love's Oni\]](https://osu.ppy.sh/beatmapsets/140944#osu/351752)**
+  - **[Demetori - Higan Retour \~ View of The River Styx (RLC) \[Love's Oni\]](https://osu.ppy.sh/beatmapsets/140944#taiko/351752)**
 
 ### Round of 16
 
@@ -361,8 +361,8 @@ This competition has come to an end and resulted in the following podium:
    - 10 in Group Stage
    - 6 in Knock-Out Stages
 10. The size of the mod-specific brackets will be:
-   - 3 in Group Stage
-   - 4 in Knock-Out Stages
+    - 3 in Group Stage
+    - 4 in Knock-Out Stages
 
 ### Scheduling instructions
 
