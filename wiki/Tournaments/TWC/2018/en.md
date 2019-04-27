@@ -266,7 +266,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 
 | Saturday, 2018-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Argentina ![][flag_AR] | 0 | **5** | ![][flag_HK] **Hong** Kong | [#1](https://osu.ppy.sh/community/matches/41838646) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/41838646) |
 | **Poland** ![][flag_PL] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/41840557) |
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/41842794) |
 | Spain ![][flag_ES] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/41844527) |

@@ -262,7 +262,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/32189359) |
 | **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/32190652) |
-| **Hong** Kong ![][flag_HK] | **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/32201845) |
+| **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/32201845) |
 | Chile ![][flag_CL] | 1 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/32203683) |
 
 ### Quarterfinals
@@ -303,7 +303,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/31675793) |
 | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_CN] China | -win by default- |
 | **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/31675803) |
-| **Hong** Kong ![][flag_HK] | **4** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/31677429) |
+| **Hong Kong** ![][flag_HK] | **4** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/31677429) |
 | Chile ![][flag_CL] | 3 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/31677435) |
 | **United Kingdom** ![][flag_GB] | **4** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/31690990) |
 | **France** ![][flag_FR] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/31690995) |

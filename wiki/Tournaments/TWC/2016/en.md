@@ -5,7 +5,7 @@ tags:
 ---
 # osu!taiko World Cup 2016
 
-![TWC 2016 logo](img/logo.png)
+![TWC 2016 Logo](img/logo.png)
 
 The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!taiko World Cup.
 
