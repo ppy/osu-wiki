@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Kişiler
 
 Aşağıda belirtilenler osu!'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır.
