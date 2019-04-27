@@ -7,6 +7,7 @@ The following are user groups which are made up of the osu! community members th
 - [Global Moderation Team](/wiki/People/Global_Moderation_Team)
 - [Language Moderators](/wiki/People/Language_Moderators)
 - [osu! Alumni](/wiki/People/osu!_Alumni)
+- [Project Loved Team](/wiki/People/Project_Loved_Team)
 - [Quality Assurance Team](/wiki/People/Quality_Assurance_Team)
 - [Support Team](/wiki/People/Support_Team)
 - [The Team](/wiki/People/The_Team)
