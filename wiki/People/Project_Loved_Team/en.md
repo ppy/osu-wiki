@@ -10,8 +10,6 @@ The rest of the team helps with quality control, maintanence and organisation.
 
 ## Team Members
 
-*[User group page](https://osu.ppy.sh/groups/31)*
-
 | Name | Role |
 | :-- | :-- |
 | ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861) | osu!taiko captain |
