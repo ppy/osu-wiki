@@ -96,7 +96,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] Taiwan A |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong A |

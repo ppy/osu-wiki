@@ -97,7 +97,7 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan |
