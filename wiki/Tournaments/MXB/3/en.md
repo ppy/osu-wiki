@@ -1,8 +1,12 @@
+---
+tags:
+- MXB
+---
 # Novice Mania Cup 3rd
 
 ![MXB 3rd Logo](img/logo.jpg)
 
-The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the 3rd installment of the MXB osu!mania 4K Tournament.
+The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third installment of the MXB osu!mania 4K Tournament.
 ​​
 ## Tournament Schedule
 
@@ -49,7 +53,14 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Participants
 
-525426806, H-ShJie, Star0v0, wuzhin, Anonie, shizehao, s_w_w, KirigayaSnow, Yutto007, RW233, solende, xiao ba, Chinese_Psy, 1ess__, qiuzhilin, Earnestlyqq, a794151336, amxmodx, bouquetww, KaffuCchino, yuki hirahira, HerrySun, Blue_Potion, magical Sao
+|  |  |  |  |
+|:-:|:-:|:-:|:-:|
+| [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
+| [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
+| [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
+| [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
+| [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
+| [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
 
 ## Mappools
 
