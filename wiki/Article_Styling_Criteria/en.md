@@ -255,7 +255,7 @@ Do not use headings to style or format text and limit to a heading level of 5. U
 
 *Notice: Article titles must not be escaped, as they are parsed as plain text, not Markdown.*
 
-The first heading in all articles must be a level 1 heading, being the article's title. All headings that follow the title heading must be [section headings](#sections). Article titles must use title case and must not contain formatting, links, nor images.
+The first heading in all articles must be a level 1 heading, being the article's title. All headings that follow the title heading must be [section headings](#sections). Article titles must use title case and must not contain formatting, links, or images.
 
 This level 1 heading must be placed at the start of the article unless reference links or metadata placed there. If this is the case, place the level 1 heading underneath it.
 
@@ -267,7 +267,7 @@ For English article titles, if the article's title needs to be renamed, the fold
 
 #### Sections
 
-All section headings must use levels 2 to 5. Section headings must use sentence case and must not contain formatting nor links. In addition to this, section headings must not skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The section heading after the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings can have small image icons.
+All section headings must use levels 2 to 5. Section headings must use sentence case and must not contain formatting or links. In addition to this, section headings must not skip a heading level (e.g. do not go from a level 2 heading to a level 4 heading). The section heading after the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings can have small image icons.
 
 In the osu! wiki, heading levels 4 and 5 do not appear in the table of contents and are not given the id attribute (these cannot be linked directly).
 
@@ -630,7 +630,7 @@ In the case where variants of English spellings conflict, prefer the British Eng
 
 ### osu!
 
-The name of the game, osu!, must not be capitalised nor italicised. The osu! official branding must not use any spaces. Examples include:
+The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
 
 - `osu!academy`
 - `osu!api`
@@ -759,7 +759,7 @@ The following trademarks must be spelt as follows (letter casing must match):
 - `Twitter`
 - `YouTube`
 
-Do not use the trademark nor registered trademark symbols with trademarks.
+Do not use the trademark or registered trademark symbols with trademarks.
 
 ### Game modes
 
