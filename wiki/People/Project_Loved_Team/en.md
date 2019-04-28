@@ -4,7 +4,7 @@ The **Project Loved Team** are members of the osu! community who manage [Project
 
 ## Roles and Responsibilities
 
-Most of the Project Loved Team consists of **captains** for each of the [Game Modes](/wiki/Game_Modes). Captains are responsible for nominating beatmaps for the Loved category. They also write comments about the nominated maps to help readers get a feel for each map in case they haven't seen or played them before.
+Most of the Project Loved Team consists of **captains** for each of the [Game Modes](/wiki/Game_Modes). Captains are responsible for nominating beatmaps for the Loved category. They also write comments about the nominated maps to help readers get a feel for each map in case they have not seen or played them before.
 
 The rest of the team helps with quality control, maintenance, and organisation.
 
@@ -18,7 +18,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | osu! captain |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | News and forum post writer, Mapper contact |
 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! captain |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater (when others can't!) |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater (when others cannot!) |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko captain |
 | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | osu!taiko captain |
 | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573) | osu!mania captain |
