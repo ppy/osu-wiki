@@ -19,10 +19,10 @@ Maintainers are users who contribute regularly and establish a solid role. These
 
 | Name | Tag | Role |
 | :-- | :-- | :-- |
-| [cl8n](https://github.com/cl8n) | `clayton#1349` | Reviewer, code expert |
-| [fajar13k](https://github.com/fajar13k) | `fajar13k#1494` | Tournaments maintainer |
+| [cl8n](https://github.com/cl8n) | `clayton#1349` | Reviewer, code maintainer |
+| [fajar13k](https://github.com/fajar13k) | `fajar13k#1494` | [Tournaments](/wiki/Tournaments) maintainer |
 | [Joehuu](https://github.com/Joehuu) | `Joehu#9245` | Reviewer, [ASC](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria) expert |
-| [MegaApplePi](https://github.com/MegaApplePi) | `MegaApple_Pi#9995` | Article maintainer |
+| [MegaApplePi](https://github.com/MegaApplePi) | `MegaApple_Pi#9995` | Article & ASC maintainer |
 | [TPGPL](https://github.com/TPGPL) | `TPGPL#9098` | Reviewer, write access |
 | [WalterToro](https://github.com/WalterToro) | `WalterToro#0001` | Reviewer, write access |
 
