@@ -15,14 +15,14 @@ Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in h
 
 ### Maintainers
 
-Maintainers are users who contribute regularly and establish a solid role. These users are also referred to as wikifriends in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
+Maintainers are users who contribute regularly and establish a solid role. These users are also referred to as wikifriends on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
 
 | Name | Tag | Role |
 | :-- | :-- | :-- |
 | [cl8n](https://github.com/cl8n) | `clayton#1349` | Reviewer, code expert |
 | [fajar13k](https://github.com/fajar13k) | `fajar13k#1494` | Tournaments maintainer |
-| [MegaApplePi](https://github.com/MegaApplePi) | `MegaApple_Pi#9995` | Article maintainer |
 | [Joehuu](https://github.com/Joehuu) | `Joehu#9245` | Reviewer, [ASC](https://osu.ppy.sh/help/wiki/Article_Styling_Criteria) expert |
+| [MegaApplePi](https://github.com/MegaApplePi) | `MegaApple_Pi#9995` | Article maintainer |
 | [TPGPL](https://github.com/TPGPL) | `TPGPL#9098` | Reviewer, pressing butan (merge access) |
 | [WalterToro](https://github.com/WalterToro) | `WalterToro#0001` | Reviewer, pressing butan (merge access) |
 
