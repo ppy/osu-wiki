@@ -6,7 +6,7 @@ The **Project Loved Team** are members of the osu! community who manage [Project
 
 Most of the Project Loved Team consists of **captains** for each of the [Game Modes](/wiki/Game_Modes). Captains are responsible for nominating beatmaps for the Loved category. They also write comments about the nominated maps to help readers get a feel for each map in case they haven't seen or played them before.
 
-The rest of the team helps with quality control, maintanence and organisation.
+The rest of the team helps with quality control, maintenance, and organisation.
 
 ## Team Members
 

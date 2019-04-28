@@ -35,4 +35,4 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Further Information
 
-All of the organisation and planning for Project Loved is done in the #osu-loved channel of the [osu!dev Discord Server](https://discord.gg/ppy). Any questions, concerns or suggestions may be directed there.
+All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy). Any questions, concerns, or suggestions may be directed there.
