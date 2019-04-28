@@ -19,7 +19,7 @@ Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.s
 
 ### Eligibility
 
-There are some very minimal criteria that need to be met for beatmaps to be approved for Loved. Project Loved considers a beatmapset eligible for the Loved category if:
+There are some very minimal criteria that need to be met for beatmaps to be approved for Loved. Captains consider a beatmapset eligible for the Loved category if:
 
 - It is not in the [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) or [Approved](/wiki/Beatmaps#approved) categories
 - Its creator does not disapprove of it being Loved
