@@ -27,7 +27,7 @@ La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en
 | :-: | :-- |
 | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
 
-![CFC 4 Badge Gagnant](img/badge.png)
+![Badge du gagnant de la CFC4](img/badge.png)
 
 ## Organisation
 

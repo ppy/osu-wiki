@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Alostis** ![][falg_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
+| **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
 
 ### Semifinals
 
