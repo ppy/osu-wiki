@@ -8,7 +8,7 @@ tags:
 
 ![CFC 4 Logo](img/logo.png)
 
-The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the forth installment of the Catch French Cup.
+The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Catch French Cup.
 
 ## Tournament Schedule
 
@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
+**[Download the mappack here! (132 MB)](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0)**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ TechMap Pack (CLSW) \[Opium and Purple \~ 9th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829#fruits/1468087)
