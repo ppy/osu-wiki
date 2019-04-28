@@ -13,7 +13,7 @@ Members of the Project Loved Team called **captains** regularly nominate beatmap
 - [osu!/osu!taiko/osu!catch listing](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [osu!mania listing](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-  *Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
+*Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
 
 Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the mapset to be Loved or not. Maps reaching a specified threshold percentage of "Yes" votes at their polls' end time will be moved to the Loved category.
 
