@@ -1,6 +1,6 @@
 # osu!taiko World Cup
 
-Index page for all of the osu!taiko World Cup series.
+Laman indeks untuk semua seri osu!taiko World Cup
 
 - [#3](./3 "Taiko World Cup #3")
 - [2011](./2011 "Taiko World Cup 2011")

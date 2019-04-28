@@ -28,11 +28,11 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
-| [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Tajwan | ![][flag_JP] Japonia | ![][flag_CN] Chiny |
+| [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Tajwan | ![][flag_JP] Japonia | ![][flag_CN] Chiny |
 | [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Japonia A | ![][flag_HK] Hongkong A | ![][flag_JP] Japonia B |
 | [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Tajwan A | ![][flag_HK] Hongkong A | ![][flag_JP] Japonia A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japonia | ![][flag_HK] Hongkong | ![][flag_FR] Francja |
-| [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_FR] Francja |
+| [osu! Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_FR] Francja |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_HK] Hongkong |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |
