@@ -39,8 +39,8 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanisch | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russisch | Chat Moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Französisch, Russisch | Chat Moderation, Metadata Team |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russisch | Chat Moderation |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, Beatmap Moderation |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russisch | Chat Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnisch | Chat Moderation |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Deutsch | Beatmap Moderation |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italienisch | Chat Moderation |
