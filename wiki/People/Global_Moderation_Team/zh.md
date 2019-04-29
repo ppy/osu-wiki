@@ -39,7 +39,6 @@ outdated: true
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理, Metadata Team |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理 |
-| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | 西班牙语 | 聊天室管理, 论坛管理 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 意大利语 | 聊天室管理 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
@@ -81,6 +80,7 @@ outdated: true
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
@@ -88,7 +88,6 @@ outdated: true
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
@@ -97,4 +96,3 @@ outdated: true
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif

@@ -112,7 +112,6 @@
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
 | ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Administration |
 | ![][flag_SE] [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
 | ![][flag_US] [Love](https://osu.ppy.sh/users/467487) | BAT |

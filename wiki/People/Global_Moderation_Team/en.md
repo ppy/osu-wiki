@@ -16,6 +16,7 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 
 | Name | Language(s) | Area of focus |
 | :-- | :-- | :-- |
+| ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat Moderation |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Chat Moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat Moderation, Forum Moderation |
@@ -38,13 +39,14 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, Beatmap Moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat Moderation |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap Moderation |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat Moderation |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat Moderation, Forum Moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat Moderation, Forum Moderation |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat Moderation |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, Forum Moderation, Chat Moderation |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Forum Moderation |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournaments |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Chat Moderation, Technical support |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat Moderation |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan | Chat Moderation |
@@ -68,6 +70,7 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat Moderation |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chinese | Chat Moderation |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | German | Chat Moderation |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish | Chat Moderation |
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

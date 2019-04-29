@@ -26,10 +26,8 @@ Se qualcuno ha bisogno di qualche assistenza in questi subforum, loro dovrebbero
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Tedesco |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spagnolo |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
