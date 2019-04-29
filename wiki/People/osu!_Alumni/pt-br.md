@@ -2,9 +2,7 @@
 
 **osu! Alumni** são jogadores conhecidos por suas contribuições mas que estão inativos em suas respectivas funções, ou simplesmente se retiraram do jogo completamente. Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16)
 
-| Nome | Deparamento |
-| :-- | :-- |
-| Nome | Deparamento |
+| Nome | Departamento |
 | :-- | :-- |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Moderador de Chat |
 | ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
@@ -81,7 +79,7 @@
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Moderador de Chat |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
-| ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | GMT and QAT |
+| ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | GMT e QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
@@ -112,7 +110,6 @@
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
 | ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Administração |
 | ![][flag_SE] [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
 | ![][flag_US] [Love](https://osu.ppy.sh/users/467487) | BAT |
