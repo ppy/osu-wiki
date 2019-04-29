@@ -51,7 +51,7 @@ The Catch French Cup 4 was run by various community members by distributing the 
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -71,7 +71,7 @@ The Catch French Cup 4 was run by various community members by distributing the 
 | **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
 
------------------------
+---
 
 ## Podium
 
@@ -83,7 +83,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
------------------------
+---
 
 ## Mappools
 
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

@@ -51,7 +51,7 @@ La Catch French Cup 4 était gérée par différents membres de la communauté, 
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -71,7 +71,7 @@ La Catch French Cup 4 était gérée par différents membres de la communauté, 
 | **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
 
------------------------
+---
 
 ## Podium
 
@@ -83,7 +83,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
------------------------
+---
 
 ## Liste des maps
 
@@ -190,7 +190,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+---
 
 ## Résultats des matches
 
@@ -267,7 +267,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Règlement
 
@@ -279,7 +279,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.
 
-### Instructions durant les matchs:
+### Instructions durant les matchs
 
 1. L'arbitre créera la salle et invitera les joueurs.
 2. Les joueurs vont `!roll` pour déterminer l'ordre pour choisir les warmups et les beatmaps.
