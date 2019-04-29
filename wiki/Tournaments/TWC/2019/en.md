@@ -88,29 +88,53 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 27. April 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
-| Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **17:30 UTC** | 19:30 UTC+02 | 14:30 UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC** | 15:00 UTC-04 | 15:00 UTC-04 |
-
-### Sunday, 28. April 2019
+### Saturday, 04. May 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 21:00 UTC+11 | 18:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
+| Chile | ![][flag_CL] | ![][flag_DE] | Germany | **15:00 UTC** | 11:00 UTC-04 | 17:00 UTC+02 |
+| Spain | ![][flag_ES] | ![][flag_FR] | France | **16:30 UTC** | 18:30 UTC+02 | 18:30 UTC+02 |
+| Italy | ![][flag_IT] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
+
+### Sunday, 05. May 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | **1:00 UTC** | 21:00 (Sat) UTC-04 | 22:00 (Sat) UTC-03 |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **2:30 UTC** | 22:30 (Sat) UTC-04 | 11:30 UTC+09 |
+| Singapore | ![][flag_SG] | ![][flag_AU] | Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
+| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_JP] | Japan | **13:00 UTC** | 15:00 UTC+02 | 22:00 UTC+09 |
 
 -----------------------
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+  - [Nekomata Master - Far east nightbird \(-\[ ix Ishida xi \]-\) \[-\[ ix Taiko xi \]-\]](https://osu.ppy.sh/beatmapsets/856606#taiko/1789566)
+  - [xi - Glorious Crown \(asuasu\_yura\) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
+  - [Toby Fox - Ruins (sasakure.UK Remix) \(HiroK\) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo \(Nyan\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+  - [t+pazolite - Sugar-Glazed Madness \(cdhsausageboy\) \[Toffee-Wrapped Craziness	\]](https://osu.ppy.sh/beatmapsets/958022#taiko/2016360)
+- Hidden
+  - [MiddleIsland - Lilac \(Fraolinch\) \[Taikorchestra\]](https://osu.ppy.sh/beatmapsets/87610#taiko/239432)
+  - [Chroma - Sayonara Planet Wars \(Greenshell\) \[Constellation\]](https://osu.ppy.sh/beatmapsets/765430#taiko/1609344)
+- HardRock
+  - [Sakuzyo - Lie \(komasy\) \[False\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1921771)
+  - [Brymir - Pantheon Of Forsaken Gods \(DarkVortex\) \[Vengeful Oni\]](https://osu.ppy.sh/beatmapsets/706563#taiko/1810057)
+- DoubleTime
+  - [q/stol - LOVE THIS MOMENT \(tasuke912\) \[\_yu68's Oni\]](https://osu.ppy.sh/beatmapsets/959704#taiko/2009319)
+  - [cillia - Fairytale, \(mintong89\) \[Taiko\]](https://osu.ppy.sh/beatmapsets/275331#taiko/624447)
+- FreeMod
+  - [Rainbowdragoneyes - The Rift \(Mew104\) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
+  - [PrimeMIX - Uber 6 \(snowball112\) \[Corn\'s Hell Oni\]](https://osu.ppy.sh/beatmapsets/332051#taiko/738870)
+  - [Camellia - Tornado \(Nofool\) \[Irma\]](https://osu.ppy.sh/beatmapsets/666923#taiko/1411326)
+- Tiebreaker
+  - **[RYUWAVE - ROLLING PANDEMONIUM (Ata Remix) \(Ulqui\) \[Myckoll & Ulqui\'s Final Stage\]](https://osu.ppy.sh/beatmapsets/609609#taiko/1287349)**
 
 ### Round of 16
 
@@ -160,6 +184,22 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2019-04-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
+| **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
+| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/51336461) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51339196) |
+| Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
+
+| Sunday, 2019-04-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
+| Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
+| **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51363192) |
 
 ### Group Stage
 
