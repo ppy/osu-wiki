@@ -126,6 +126,8 @@ Skins/
 |   +-- mania/
 |   |   +-- keyC.png
 |   |   +-- keyCD.png
+|   |   +-- keyD.png
+|   |   +-- keyDD.png
 |   |   +-- keyL.png
 |   |   +-- keyLD.png
 |   |   +-- keyU.png
@@ -180,7 +182,7 @@ Notes queue the player on when to press the correct key. Like the keys, there ar
 
 1, 2, and S are used based on their respective columns.
 
-You can animate these by adding `-n` to the file name, where `n` is the frame number starting from 0.
+You can animate these by adding `-n` to the file name, where `n` is the frame number starting from 0. The animation plays at a constant rate, if you need to slow it down, you will need to double or triple the frames
 
 ### Notes (advanced)
 
@@ -242,7 +244,7 @@ NoteImage0: mania/left/note
 ```
 
 - `NoteImage0` says that the first column's note image is located in a folder called `mania/left/` and the image prefix name is `note`.
-- Since notes can be animated, the game client automatically check to see if an animation was supplied.
+- Since notes can be animated, the game client will check to see if an animation was supplied.
 - This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Hold notes (basic)
@@ -360,7 +362,7 @@ NoteImage1T: mania/hold/down/tail
 - `NoteImage1H` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `head`.
 - `NoteImage1L` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `long`.
 - `NoteImage1T` says that the first column's note image is located in a folder called `mania/hold/down/` and the image prefix name is `tail`.
-- Since hold notes can be animated, the game client automatically check to see if an animation was supplied.
+- Since hold notes can be animated, the game client will check to see if an animation was supplied.
 - This similarly applies to the other columns, but only when playing with 5 keys.
 
 ### Stage (basic)
@@ -384,7 +386,7 @@ The stage is drawn 136 units from the left side of the screen. By default, there
 
 `mania-stage-left.png` and `mania-stage-right.png` is the left and right sides of the stage respectively. These will stretch to match the stage height.
 
-`mania-stage-bottom.png` is somewhat similar to `mania-stage-left.png` and `mania-stage-right.png` but covers the stage (including the keys, notes, and hold notes). This means that it can be used to cover up most of the stage for players who prefer playing with less viewing area. This element does not stretch to fit with the stage, thus it may be ideal to use the skin configuration to set this per key count. However, it is 0.625 times smaller than the stage width.
+`mania-stage-bottom.png` is somewhat similar to `mania-stage-left.png` and `mania-stage-right.png` but covers the stage (including the keys, notes, and hold notes). This means that it can be used to cover up most of the stage for players who prefer playing with less viewing area. This element does not stretch to fit with the stage, thus it may be ideal to use the skin configuration to set this per key count.
 
 `mania-stage-light.png` is displayed for each column's pressed key and will persist until the key is released.
 
@@ -516,7 +518,7 @@ Using `ComboBurstStyle`, you can set which side of the stage the osu!mania combo
 osu!mania has a few specific mod icons that you can skin:
 
 - Fade In
-- xK
+- 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, and 9K
 - Co-Op
 - Random
 
@@ -570,6 +572,6 @@ If you want to add a lane cover to only one key count, use the `mania-stage-bott
 
 In your prefered image editor, create a new transparent image with the height set to 480 pixels and the width set to the sum of the `ColumnWidth` and `ColumnSpacing`. If your skin has the stage scroll down, fill the upper half with an image and/or a color. If your skin has the stage scroll up, fill the lower half with an image and/or a color. Once this is done, save it in your skin folder and test it out.
 
-| ![](img/lane_cover-down.jpg) | ![](img/lane_cover-up.jpg) |
+| ![Example of the mania-stage-bottom image with the upper half filled with a color](img/lane_cover-down.jpg) | ![Example of the mania-stage-bottom image with the lower half filled with a color](img/lane_cover-up.jpg) |
 | --- | --- |
 | For scroll down | For scroll up |
