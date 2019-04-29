@@ -18,7 +18,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | osu! captain |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | News and forum post writer, Mapper contact |
 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! captain |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater (when others cannot!) |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko captain |
 | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | osu!taiko captain |
 | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573) | osu!mania captain |
