@@ -54,6 +54,8 @@ The Taiko World Cup 2012 was run by various community members by distributing th
   - [lunarsaki](https://www.twitch.tv/lunarsaki)
 - **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0Aozv0NW718V1dHlVQldGc0VEN1lpWnlRMHhJakJ1Vnc)**
 
+---
+
 ## Participants
 
 |  | Country | Members |
@@ -92,13 +94,13 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
 | ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
 
-------------------------------
+---
 
 ![TWC 2012 Podium](img/podium.png)
 
 ![TWC 2012 Bracket](img/bracket.jpg)
 
-------------------------------
+---
 
 ## Mappools
 
@@ -306,7 +308,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 - Tiebreaker
   - **[Cait Sith - Schrodinger's Cat (Sushi) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/36409#taiko/117642)**
 
-------------------------------
+---
 
 ## Match Results
 
@@ -422,7 +424,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Canada ![][flag_CA] | 1 | **3** | ![][flag_HK] **Hong Kong B** |  |
 | **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_JP] Japan B |  |
 
-------------------------------
+---
 
 ## Ruleset
 

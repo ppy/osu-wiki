@@ -51,7 +51,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/99029)
 - [Livestream](https://www.twitch.tv/taikoworldcup)
 
------
+---
 
 ## Participants
 
@@ -90,7 +90,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | ![][flag_US] | **United States A** | **[Two Fruit Cakes](https://osu.ppy.sh/users/437259)**, [Backfire](https://osu.ppy.sh/users/263110), [HashishKabob](https://osu.ppy.sh/users/1076063), [OzzyOzrock](https://osu.ppy.sh/users/465153) |
 | ![][flag_US] | **United States B** | **[Kuro](https://osu.ppy.sh/users/1735031)**, [lianna](https://osu.ppy.sh/users/1167251), [Horo](https://osu.ppy.sh/users/992439), [AnFace](https://osu.ppy.sh/users/233485) |
 
-------------------------------------------------------------------------
+---
 
 ## Podium
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong A |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] Japan A |
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -298,7 +298,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Demetori - Silent Voyage to Eternity (brikel) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/14309/#taiko/108010)**
 
-------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -365,16 +365,16 @@ This competition has come to an end and resulted in the following podium:
    - If server is too unstable to continue the match, tournament management can postpone the match.
 9. If less than 3 players arrived, the match can be postponed maximum 20 minutes.
 10. During the match, exchanging players is allowed.
-   - You can exchange players once in group-stage and twice in knock-out stages.
+    - You can exchange players once in group-stage and twice in knock-out stages.
 11. Lags can't be a reason for nullification of game.
 12. When a match gets postponed too frequent, tournament manangement can declare the opponent team wins by default.
-   - In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+    - In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 13. 2 vs 2 match is available only in the Group stage if no more than 3 players in one of two teams can be ready for the match.
-   - Captains of both teams should agree and permission of tournament manager is needed.
-   - The manager can disqualify a team if the team abuses 3 vs 3 match.
+    - Captains of both teams should agree and permission of tournament manager is needed.
+    - The manager can disqualify a team if the team abuses 3 vs 3 match.
 14. Unexpected incidences that needs decision of staff and isn't specified in this ruleset during the tournament will need the referee to judge. Yet, the decision of tournament management is final.
 15. Any form of non-fair behaviour (such as cheating, insulting other players, racism, impersonating) or disturbance in the tournament's progress will be punished with an immediate banishment of the player/the team from the tournament.
-   - Banned player won't be allowed to participate the next Taiko World Cup.
+    - Banned player won't be allowed to participate the next Taiko World Cup.
 16. Prospective and retrospective complaints about map selection or progress of this tournament will have no use and will be ignored. Suggestions are appreciated.
 17. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
 18. Any modification of this rules will be notified.

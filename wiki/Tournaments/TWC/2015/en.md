@@ -30,7 +30,7 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
-![TWC 2015 Winner Badge](img/badge.png) ![TWC 2015 2nd Place Badge](img/badge2.png) ![TWC 2015 3rd Place Badge](img/badge3.png) 
+![TWC 2015 Winner Badge](img/badge.png) ![TWC 2015 2nd Place Badge](img/badge2.png) ![TWC 2015 3rd Place Badge](img/badge3.png)
 
 ## Organisation
 
@@ -49,7 +49,7 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 - [Livestream](https://www.twitch.tv/osulive)
 
------------------------
+---
 
 ## Participants
 
@@ -91,7 +91,7 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_HK] Hong Kong |
 | ![][flag_TW] Taiwan | ![][flag_CN] China | ![][flag_JP] Japan | ![][flag_US] United States |
 
-------------------------------------------------------------------------
+---
 
 ## Podium
 
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ![TWC 2015 Bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/20826#taiko/75296)**
 
-------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -400,7 +400,7 @@ This competition has come to an end and resulted in the following podium:
 | Argentina ![][flag_AR] | 1 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/14584970) |
 | Hungary ![][flag_HU] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/14584973) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -465,9 +465,9 @@ This competition has come to an end and resulted in the following podium:
 | Grand Finals | P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+  - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 

@@ -30,7 +30,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Unique merchandise, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Unique merchandise, unique profile badge |
 
-![TWC 2017 Winner Badge](img/badge.png) ![TWC 2017 2nd Place Badge](img/badge2.png) ![TWC 2017 3rd Place Badge](img/badge3.png) 
+![TWC 2017 Winner Badge](img/badge.png) ![TWC 2017 2nd Place Badge](img/badge2.png) ![TWC 2017 3rd Place Badge](img/badge3.png)
 
 ## Organisation
 
@@ -49,7 +49,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -80,13 +80,13 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Shyguy](https://osu.ppy.sh/users/178038), [Das](https://osu.ppy.sh/users/3165416), [Protonori](https://osu.ppy.sh/users/6049990), [JDrago14](https://osu.ppy.sh/users/7690078), [Catgirl](https://osu.ppy.sh/users/2771995) |
 | ![][flag_VE] | **Venezuela** | **[JessiChan](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [Thousand](https://osu.ppy.sh/users/2852968), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Seok Hyejin](https://osu.ppy.sh/users/2114483), [Satoruu](https://osu.ppy.sh/users/2243452) |
 
-------------------------------------------------------------------------
+---
 
 ![TWC 2017 Podium](img/podium.png)
 
 ![TWC 2017 Bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappool
 
@@ -226,9 +226,9 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 - Tiebreaker
   - **[Yuuyu - Iki o Koroshita Stokesia (Sayaka-) \[Oni\] (Any)](https://osu.ppy.sh/beatmapsets/379265#taiko/830240)**
 
-------------------------------------------------------------------------
+---
 
-## Results
+## Match Results
 
 ### Grand Finals
 
@@ -326,7 +326,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | **Chile** ![][flag_CL] | **4** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/31714550) |
 | **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/31714557) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

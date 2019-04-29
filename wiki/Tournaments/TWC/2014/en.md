@@ -47,7 +47,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 - [Livestream](https://www.twitch.tv/osulive/)
 
------------------------
+---
 
 ## Participants
 
@@ -84,7 +84,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | ![][flag_DE] Germany | ![][flag_SG] Singapore | ![][flag_CA] Canada | ![][flag_PL] Poland |
 | ![][flag_SE] Sweden | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
 
-------------------------------------------------------------------------
+---
 
 ## Podium
 
@@ -98,7 +98,7 @@ This competition has come to an end and resulted in the following podium:
 
 ![TWC 2014 Bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -274,7 +274,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka - Manima ni (Sandpig) \[Pangko\]](https://osu.ppy.sh/beatmapsets/43107#taiko/136184)**
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

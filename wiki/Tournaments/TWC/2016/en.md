@@ -30,7 +30,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
-![TWC 2016 Winner Badge](img/badge.png) ![TWC 2016 2nd Place Badge](img/badge2.png) ![TWC 2016 3rd Place Badge](img/badge3.png) 
+![TWC 2016 Winner Badge](img/badge.png) ![TWC 2016 2nd Place Badge](img/badge2.png) ![TWC 2016 3rd Place Badge](img/badge3.png)
 
 ## Organisation
 
@@ -50,7 +50,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -89,13 +89,13 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_CL] Chile | ![][flag_ID] Indonesia | ![][flag_PH] Philippines | ![][flag_ES] Spain | ![][flag_FR] France | ![][flag_PL] Poland |
 | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_CN] China | ![][flag_CA] Canada |
 
-------------------------------------------------------------------------
+---
 
 ![TWC 2016 Podium](img/podium.jpg)
 
 ![TWC 2016 Bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -251,7 +251,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 - Tiebreaker
   - **[kamome sano - plasma (2015 rework) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/348371#taiko/768536)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -345,7 +345,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/23545079) |
 | Italy ![][flag_IT] | 1 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/23545089) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -422,10 +422,10 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | Grand Finals | P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
-   - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+  - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+  - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 

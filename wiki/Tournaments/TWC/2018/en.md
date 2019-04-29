@@ -30,7 +30,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
 
-![TWC 2018 Winner Badge](img/badge.jpg) ![TWC 2018 2nd Place Badge](img/badge2.jpg) ![TWC 2018 3rd Place Badge](img/badge3.jpg) 
+![TWC 2018 Winner Badge](img/badge.jpg) ![TWC 2018 2nd Place Badge](img/badge2.jpg) ![TWC 2018 3rd Place Badge](img/badge3.jpg)
 
 ## Organisation
 
@@ -50,7 +50,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://goo.gl/phCq6X)**
 
------------------------
+---
 
 ## Participants
 
@@ -81,13 +81,13 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 | ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)**, [JDrago14](https://osu.ppy.sh/users/7690078), [Dargin](https://osu.ppy.sh/users/7086439), [Tem](https://osu.ppy.sh/users/5393042), [Loopy542](https://osu.ppy.sh/users/5468461) |
 | ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [[\_LordEnder\_]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
 
-------------------------------------------------------------------------
+---
 
 ![TWC 2018 Podium](img/podium.png)
 
 ![TWC 2018 Bracket](img/bracket.png)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -101,7 +101,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [Kaneko Chiharu - iLLness LiLin (ll-oscar) \[ll-taiko Sp.\]](https://osu.ppy.sh/beatmapsets/587489#taiko/1244054)
   - [ARM - Primula (tasuke912) \[TAIKO-HOLiC\]](https://osu.ppy.sh/beatmapsets/638476#taiko/1354418)
   - [Igorrr - Pavor Nocturnus (XK2238) \[Clamatis\]](https://osu.ppy.sh/beatmapsets/150705#taiko/371761)
-  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM)\[(Extra \(Special Edition\))\]](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963)
+  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM) \[Extra (Special Edition)\]](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963)
   - [Lily - Scarlet Rose (ll-oscar) \[ll-taiko Sp.\]](https://osu.ppy.sh/beatmapsets/195238#taiko/463330)
   - [cranky - R176 \[Short Edit\] (Nwolf) \[Kugessi\]](https://osu.ppy.sh/beatmapsets/514514#taiko/1623411)
 - Hidden
@@ -220,7 +220,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 - Tiebreaker
   - **[sasakure.UK - Good Bye, Mr. Jack (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmapsets/659426#taiko/1566477)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -323,7 +323,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 | Portugal ![][flag_PT] | 0 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/41509498), [#2](https://osu.ppy.sh/community/matches/41510211) |
 | Netherlands ![][flag_NL] | 0 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/41509503), [#2](https://osu.ppy.sh/community/matches/41510238) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -391,7 +391,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
@@ -404,10 +404,10 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 | Grand Finals | AE, P, Q |
 
 **Winning conditions:**
-   - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
+  - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
+  - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
+  - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+  - In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match Instructions
 

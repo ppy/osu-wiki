@@ -46,7 +46,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/47356)
 - **[Statistics sheet](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)**
 
-------------------------------------------------------------------------
+---
 
 ## Participants
 
@@ -80,11 +80,11 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 | ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
 | ![][flag_PH] Philippines |  |  |  |
 
-------------------------------------------------------------------------
+---
 
 ![TWC 2011 Podium](img/podium.png)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -221,6 +221,8 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 - Tiebreaker
   - **[L'Arc\~en\~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/19681#taiko/70624)**
   - **[Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/20309#taiko/75251)**
+
+---
 
 ## Match Results
 
