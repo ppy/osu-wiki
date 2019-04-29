@@ -4,7 +4,7 @@
 
 | Nome | Deparamento |
 | :-- | :-- |
-| ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Moderador de Chat. |
+| ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Moderador de Chat |
 | ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | EGQ |
 | ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | EMG |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | EAB |
