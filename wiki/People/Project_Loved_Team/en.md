@@ -19,6 +19,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | News and forum post writer, Mapper contact |
 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! captain |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater |
+| ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | osu! captain |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko captain |
 | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | osu!taiko captain |
 | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573) | osu!mania captain |
@@ -43,5 +44,6 @@ The rest of the team helps with quality control, maintenance, and organisation.
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_US]: /wiki/shared/flag/US.gif
