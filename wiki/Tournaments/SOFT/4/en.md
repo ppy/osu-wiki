@@ -236,7 +236,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 | Friday, 2019-04-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **-\[DaNie\L_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_US] ---Rose--- | [#1](https://osu.ppy.sh/community/matches/51109005) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_US] ---Rose--- | [#1](https://osu.ppy.sh/community/matches/51109005) |
 | **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/51121982) [#2](https://osu.ppy.sh/community/matches/51123376) |
 
 | Saturday, 2019-04-20 |  |  |  |  |
