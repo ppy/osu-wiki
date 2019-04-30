@@ -97,32 +97,32 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ### Group Stage
 
 - Freemod
-	- [O2i3 - Ooi [Game Edit] (qqqant) \[Party hard\]](https://osu.ppy.sh/beatmapsets/932214#mania/1946380)
-	- [Paramore - Ignorance (puxtu) \[Stranger\]](https://osu.ppy.sh/beatmapsets/534204#mania/1131628)
-	- [Anamanaguchi - SPF 420 (juankristal) \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
-	- [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
-	- [PSYQUI - Hysteric Night Girl feat. Such (android52 edit) (Dergo) \[Calm Day Boy feat. Slight (iPhone52 edit)\]](https://osu.ppy.sh/beatmapsets/960066#mania/2010004)
-	- [Tenko - Kyuubiko Yagyou (AutotelicBrown) \[Ayumu's promenade\]](https://osu.ppy.sh/beatmapsets/760207#mania/1598905)
-	- [Hige Driver - Ukigumo (Guilhermeziat) \[I wanna be the jumpstream\]](https://osu.ppy.sh/beatmapsets/960054#mania/2009983)
-	- [40mP - Dan Dan Hayaku Naru (zero2snow) \[Accelerating\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
-	- [Cardboard box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
+  - [O2i3 - Ooi [Game Edit] (qqqant) \[Party hard\]](https://osu.ppy.sh/beatmapsets/932214#mania/1946380)
+  - [Paramore - Ignorance (puxtu) \[Stranger\]](https://osu.ppy.sh/beatmapsets/534204#mania/1131628)
+  - [Anamanaguchi - SPF 420 (juankristal) \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
+  - [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
+  - [PSYQUI - Hysteric Night Girl feat. Such (android52 edit) (Dergo) \[Calm Day Boy feat. Slight (iPhone52 edit)\]](https://osu.ppy.sh/beatmapsets/960066#mania/2010004)
+  - [Tenko - Kyuubiko Yagyou (AutotelicBrown) \[Ayumu's promenade\]](https://osu.ppy.sh/beatmapsets/760207#mania/1598905)
+  - [Hige Driver - Ukigumo (Guilhermeziat) \[I wanna be the jumpstream\]](https://osu.ppy.sh/beatmapsets/960054#mania/2009983)
+  - [40mP - Dan Dan Hayaku Naru (zero2snow) \[Accelerating\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
+  - [Cardboard box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
 - Tiebreaker
-	- **[Porter Robinson as VIRTUAL SELF - EON BREAK (Curiossity) \[Eon Shatter\]](https://osu.ppy.sh/beatmapsets/959919#mania/2009728)**
+  - **[Porter Robinson as VIRTUAL SELF - EON BREAK (Curiossity) \[Eon Shatter\]](https://osu.ppy.sh/beatmapsets/959919#mania/2009728)**
 
 ### Playoffs
 
 - Freemod
-	- [Silentroom - Nhelv (Asherz007) \[Advanced\]](https://osu.ppy.sh/beatmapsets/835408#mania/1768742)
-	- [Hideyuki Ono x 96 x Yoshihiko Koezuka - LEMON & SALT (AutotelicBrown) \[salty lmao\]](https://osu.ppy.sh/beatmapsets/938439#mania/1960306)
-	- [Kano - Paranoia (Eraser) \[Hard\]](https://osu.ppy.sh/beatmapsets/581065#mania/1230078)
-	- [KillerBlood - -.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. . (Dergo) \[restoration\]](https://osu.ppy.sh/beatmapsets/919414#mania/1919691)
-	- [Mie Sonozaki - It's been a long time since we passed through space-time! Vocal Version (Asherz007) \[Memories\]](https://osu.ppy.sh/beatmapsets/773600#mania/1626142)
-	- [enzo + O2i3 - Mentanpindoradora (Ilham) \[Orange Lv.9\]](https://osu.ppy.sh/beatmapsets/614438#mania/1296166)
-	- [The Flashbulb - Skype Piano (Civilization) \[Ashore\]](https://osu.ppy.sh/beatmapsets/837463#mania/1753493)
-	- [void - Valedict (Tidek) \[Hard\]](https://osu.ppy.sh/beatmapsets/619834#mania/1306452)
-	- [In Love With A Ghost - i'm too busy trying to fly away (Civilization) \[clutz\]](https://osu.ppy.sh/beatmapsets/948973#mania/1981682)
+  - [Silentroom - Nhelv (Asherz007) \[Advanced\]](https://osu.ppy.sh/beatmapsets/835408#mania/1768742)
+  - [Hideyuki Ono x 96 x Yoshihiko Koezuka - LEMON & SALT (AutotelicBrown) \[salty lmao\]](https://osu.ppy.sh/beatmapsets/938439#mania/1960306)
+  - [Kano - Paranoia (Eraser) \[Hard\]](https://osu.ppy.sh/beatmapsets/581065#mania/1230078)
+  - [KillerBlood - -.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. . (Dergo) \[restoration\]](https://osu.ppy.sh/beatmapsets/919414#mania/1919691)
+  - [Mie Sonozaki - It's been a long time since we passed through space-time! Vocal Version (Asherz007) \[Memories\]](https://osu.ppy.sh/beatmapsets/773600#mania/1626142)
+  - [enzo + O2i3 - Mentanpindoradora (Ilham) \[Orange Lv.9\]](https://osu.ppy.sh/beatmapsets/614438#mania/1296166)
+  - [The Flashbulb - Skype Piano (Civilization) \[Ashore\]](https://osu.ppy.sh/beatmapsets/837463#mania/1753493)
+  - [void - Valedict (Tidek) \[Hard\]](https://osu.ppy.sh/beatmapsets/619834#mania/1306452)
+  - [In Love With A Ghost - i'm too busy trying to fly away (Civilization) \[clutz\]](https://osu.ppy.sh/beatmapsets/948973#mania/1981682)
 - Tiebreaker
-	- **[Snail's House - Sparkle \[Shiki\]](https://osu.ppy.sh/beatmapsets/871714#mania/1821307)**
+  - **[Snail's House - Sparkle \[Shiki\]](https://osu.ppy.sh/beatmapsets/871714#mania/1821307)**
 
 ### Qualifiers
 
