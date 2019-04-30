@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BN and QAT Restructure"
-date: 2019-04-10 23:30:00 +0000
+date: 2019-05-01 12:00:00 +0000
 ---
 
 Changes to the ranking process are nigh! With recent discussions about [changes to the Quality Assurance Team and Beatmap Nominators](https://osu.ppy.sh/community/forums/topics/862002), we are proud to present to you the following changes.
@@ -19,11 +19,13 @@ The primary focus of probationary BNs will be to nominate beatmaps, and so will 
 
 The [Beatmap Nominator rules](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
 
-Additionally to this, the next time BN Applications open, they will stay open indefinitely. More information about how to apply will be released soon.
+Additionally to this, BN applications will be open indefinitely from the time of this news post! We have a [new website](http://bn.mappersguild.com/) to deal with BN affairs including applications and reporting BNs. Special thanks to [pishifat](https://osu.ppy.sh/users/3178418) and [Milan-](https://osu.ppy.sh/users/1052994) for developing the website. 
+
+BN applications will still work roughly the same as last time, where you are required to pass an activity check and to complete a test on the RC to complete your application. Additionally, there will be a 90 day cooldown for submitting applications once you submit. The results of your application should be sent out as soon as they are processed, however, we expect a larger influx of applications during the initial weeks. Check out [the website](http://bn.mappersguild.com/) to submit an application to join the BN!
 
 As osu! is a community driven game, these changes were made to give members of the community more control over what reaches the ranked section. We expect to see improvements in the way beatmap quality is managed, particularly with controversial maps, where the outcome will be more in line with the desires of the community.
 
-With these changes, we unfortunately have had to say farewell to [Fycho](https://osu.ppy.sh/users/1876867), [Gabe](https://osu.ppy.sh/users/654108), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [p3n](https://osu.ppy.sh/users/123703), [Regraz](https://osu.ppy.sh/users/3076909), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508), and [Protastic101](https://osu.ppy.sh/users/6712747) who will not be joining the NAT. Nonetheless, we greatly appreciate their time in the QAT and thank them all for their hard work up until now.
+With these changes, we unfortunately have had to say farewell to [Fycho](https://osu.ppy.sh/users/1876867), [Gabe](https://osu.ppy.sh/users/654108), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [p3n](https://osu.ppy.sh/users/123703), [Regraz](https://osu.ppy.sh/users/3076909), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508), [Protastic101](https://osu.ppy.sh/users/6712747), [-Kazu-](https://osu.ppy.sh/users/920861), and [Noffy](https://osu.ppy.sh/users/1541323), who will not be joining the NAT. Nonetheless, we greatly appreciate their time in the QAT and thank them all for their hard work up until now.
 
 On a more uplifting note, please welcome [Ascendance](https://osu.ppy.sh/users/2931883) to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
 
