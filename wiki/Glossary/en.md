@@ -20,11 +20,11 @@ A term used when an active user walks off to do something else while they are st
 
 ### Approach Circle
 
-In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
+In [osu!standard](/wiki/Game_Modes/osu!), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
 
 ### Authentic
 
-Authentic denotes a beatmap that emulates in every aspect of a specific stage from the [DS games](/wiki/DS_games) (song, settings, object placement, etc.).
+Authentic denotes a beatmap that emulates in every aspect of a specific stage from the [DS games](#ds-games) (song, settings, object placement, etc.).
 
 ### Aspire
 
@@ -161,7 +161,7 @@ Collab has two meanings:
    - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap. This is to ensure that the creator has done enough to upload the map under their username.
 2. The mapset containing [guest difficulties](#guest-difficulty).
 
-Collab may sometimes be used in [difficulty](/wiki/difficulty) version names.
+Collab may sometimes be used in [difficulty](/wiki/Difficulties) version names.
 
 ### Combo
 
@@ -185,7 +185,7 @@ In osu!standard, all [combosets](#comboset) have a colour. A new combo is starte
 
 In osu!catch, each fruit is coloured in the order given. Droplets and end-slider fruit will always have the same colour as the start-fruit. However, bananas will always have a tint of yellow.
 
-When editing a beatmap, one can change those colours and/or their order in the [Song Setup](/wiki/Song_Setup) section.
+When editing a beatmap, one can change those colours and/or their order in the [Song Setup](/wiki/Beatmap_Editor/Song_Setup) section.
 
 For skins, the skin properties for the combo colours is located on in the `[Colours]` section of the `skin.ini`. However, do note that the skin's defined combo colours is only used when the mapper does **not** define them.
 
@@ -243,7 +243,7 @@ Another word for the osu! logo. This has appeared many times in the osu! client.
 
 ### Creator
 
-A creator refers to the user who uses the [beatmap editor](/wiki/beatmap_editor) to create a [beatmap](/wiki/beatmap).
+A creator refers to the user who uses the [beatmap editor](/wiki/Beatmap_Editor) to create a [beatmap](/wiki/Beatmaps).
 
 ## D
 
@@ -525,7 +525,7 @@ NM has two meanings:
 
 ### Nuke
 
-Any [beatmap](/wiki/beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Modding_and_Mapping)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
+Any [beatmap](/wiki/Beatmaps) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -545,7 +545,7 @@ The offset is the first half of beatmap timing, where the other half is the [BPM
 
 ### Online Song Offset
 
-An offset that is **already** applied to a beatmap after it was ranked. Adjusting your [local song offset](/wiki/local-song-offset) will only add more to this value.
+An offset that is **already** applied to a beatmap after it was ranked. Adjusting your [local song offset](#local-song-offset) will only add more to this value.
 
 ### osu!
 
@@ -844,7 +844,7 @@ Note that TAG difficulties are unrankable because they are intentionally not des
 
 ### Tap
 
-In [osu!standard](/wiki/osu!standard), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay. There are a few different buttons one can use to tap:
+In [osu!standard](/wiki/Game_Modes/osu!), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay. There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
 - the `Z` and `X` keys on the keyboard,
