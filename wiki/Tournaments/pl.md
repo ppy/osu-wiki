@@ -30,7 +30,7 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | --- | --- | --- | --- | --- | --- |
 | [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Tajwan | ![][flag_JP] Japonia | ![][flag_CN] Chiny |
 | [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Japonia A | ![][flag_HK] Hongkong A | ![][flag_JP] Japonia B |
-| [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Tajwan A | ![][flag_HK] Hongkong A | ![][flag_JP] Japonia A |
+| [Taiko World Cup #3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Tajwan A | ![][flag_HK] Hongkong A | ![][flag_JP] Japonia A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japonia | ![][flag_HK] Hongkong | ![][flag_FR] Francja |
 | [osu! Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_FR] Francja |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japonia | ![][flag_TW] Tajwan | ![][flag_CA] Kanada |

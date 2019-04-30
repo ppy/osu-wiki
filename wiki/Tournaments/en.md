@@ -30,7 +30,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | --- | --- | --- | --- | --- | --- |
 | [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Japan | ![][flag_CN] China |
 | [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B |
-| [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan A |
+| [Taiko World Cup #3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japan | ![][flag_HK] Hong Kong | ![][flag_FR] France |
 | [osu! Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_FR] France |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
