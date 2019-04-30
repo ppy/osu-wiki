@@ -13,7 +13,7 @@ Changes to the ranking process are nigh! With recent discussions about [changes 
 + The Nominator Administration Team (NAT) are the moderators of the Beatmap Nominators. They are responsible for BN Applications, creating tests for the applicants and for evaluating the current members. They will still have their moderation privileges although it is not their primary focus. 
 + Beatmaps that have been vetoed will be mediated by a random jury made up of members of the BN. The NAT will oversee these mediations. 
 + The Global Moderation Team (GMT) will now handle beatmap moderation, and as such will also have access to the disqualify button. The GMT will only disqualify beatmaps in cases where they contain inappropriate content.
-+ Probationary Beatmap Nominators now have their own usergroup. These members will have less features compared to the rest of the BNs.
++ The current Beatmap Nominator usergroup will be used for probationary Beatmap Nominators. A new usergroup will be made for regular members of the Beatmap Nominators which will grant access to the disqualify button.
 
 The primary focus of probationary BNs will be to nominate beatmaps, and so will not have the ability to disqualify beatmaps or take part in mediating vetoes. Moreover, they will be unable to nominate beatmaps with more than one game mode, and a beatmap cannot be qualified by two probationary BNs. New members of the BNs will be placed in probation for approximately one month before their performance is reviewed by the NAT. They will then be promoted to a regular BN, remain in probation, or be removed from the group completely. Members of the regular BNs may also be demoted to probation if their work is found to not meet standards.
 
