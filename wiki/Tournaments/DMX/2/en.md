@@ -360,7 +360,7 @@ This competition has come to an end and resulted in the following podium:
 | C | Beat43210 ![][flag_AU] | 2 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44159604) |
 | C | **Yoshi-GH** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Infected\_ | [#1](https://osu.ppy.sh/community/matches/44162665) |
 | G | xtrem3x ![][flag_MX] | 2 | **4** | ![][flag_GB] **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44164295) |
-| D | CaptainEChan ![flag_US] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44167032) |
+| D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44167032) |
 | C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44171557) |
 | B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | -win by default- |
 

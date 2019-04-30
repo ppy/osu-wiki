@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Gente
 
 Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener osu!

@@ -108,13 +108,13 @@ Glossary
     - **...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
     - **...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
 - **Every difficulty of a beatmapset must have a minimum drain time of 30 seconds.**
-- **If the drain time of the highest difficulty is...**
+- **If the drain time of each difficulty is...**
     - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** Because osu!mania does not have a difficulty-specific Ranking Criteria yet, an osu!mania beatmapset's Normal difficulty is defined as a difficulty below 2.00 stars. For hybrid beatmapsets that include osu! difficulties, the additional modes' lowest difficulties cannot be harder than a Hard.
     - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
     - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
     - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
 
-    Lower difficulties can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
+    Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
 
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
@@ -216,8 +216,9 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
-- **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmapset is unsupported and results in unexpected behaviour with preview times, metadata, etc.
+
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
+- **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
 - **A beatmapset's audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.

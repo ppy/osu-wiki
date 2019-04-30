@@ -12,7 +12,7 @@ Specyficzne formaty plików osu!
 | [.osk][Osk Link]       | Uruchamialny plik ze skórką.                                                                                           |
 | [.db][Db Link]          | Plik bazy danych. (Nie dotykać!)                                                                                       |
 
-### [Edytor beatmap](/wiki/Beatmap_Editor)
+### Edytor beatmap
 
 | Format                                         | Korzystanie                                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
