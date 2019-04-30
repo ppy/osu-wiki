@@ -49,6 +49,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 #### Guidelines
 
+- **All circles and slider heads should represent a sound existing in the music.** This is usually a distinct sound, but can also represent a continuous sound with an indistinguishable start or end.
 - **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
 - **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
 - **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty should be less than or equal to the Overall Difficulty of the next hardest difficulty.
@@ -124,7 +125,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Hyperdashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed at 160 BPM and below, whereas 1/4 hyperdashes would be allowed under 120 BPM.
 - **Basic hyperdashes can't be used more than two times between consecutive fruits. If higher snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
 - **Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
-- **Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x the trigger distance and the movement after the hyperdash must be walkable.**
+- **Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x if followed by a walkable movement, or 1.1x the trigger distance if followed by a basic dash.**
 - **Dashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
 - **Basic dashes can't be used more than four times between consecutive fruits. Higher snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.

@@ -119,11 +119,9 @@ Glossary
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
     - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
-
-    Custom naming must follow a common theme or pattern related to the song and must not be misrepresentative.
-
-- **A difficulty's name must be unrelated to a username.** Guest difficulties, however, may indicate possession with its creators' username or nickname. (e.g. Guest Creator's Insane). Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
-- **Additionally, a beatmapset host cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and collaborative difficulties are the only exceptions.
+- **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song and must not be misrepresentative.**
+- **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
+- **A beatmapset host cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and collaborative difficulties are the only exceptions. Guest difficulties, however, may indicate possession with its creators' username or nickname.
 - **A beatmapset host must have beatmapped equal or more difficulties than any guest difficulty beatmap creator.** This is to provide credit where credit is due. Collab difficulties are only considered partial difficulties, and drain time will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
 - **A beatmapset host and guest beatmap creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest beatmap creator cannot be contacted for a month, they will be assumed to agree with any changes.
 
