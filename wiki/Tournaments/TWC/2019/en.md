@@ -119,7 +119,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - [xi - Glorious Crown \(asuasu\_yura\) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
   - [Toby Fox - Ruins (sasakure.UK Remix) \(HiroK\) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
   - [tarolabo - NijiBishox1HadairoSenjoSenjo \(Nyan\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
-  - [t+pazolite - Sugar-Glazed Madness \(cdhsausageboy\) \[Toffee-Wrapped Craziness	\]](https://osu.ppy.sh/beatmapsets/958022#taiko/2016360)
+  - [t+pazolite - Sugar-Glazed Madness \(cdhsausageboy\) \[Toffee-Wrapped Craziness\]](https://osu.ppy.sh/beatmapsets/958022#taiko/2016360)
 - Hidden
   - [MiddleIsland - Lilac \(Fraolinch\) \[Taikorchestra\]](https://osu.ppy.sh/beatmapsets/87610#taiko/239432)
   - [Chroma - Sayonara Planet Wars \(Greenshell\) \[Constellation\]](https://osu.ppy.sh/beatmapsets/765430#taiko/1609344)
@@ -187,7 +187,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ### Round of 16
 
-| Saturday, 2019-04-20 |  |  |  |  |
+| Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
 | **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
@@ -195,7 +195,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51339196) |
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
 
-| Sunday, 2019-04-21 |  |  |  |  |
+| Sunday, 2019-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
