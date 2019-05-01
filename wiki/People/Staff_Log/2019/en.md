@@ -65,3 +65,30 @@ All users listed below were added on 2019-02-16.
 ## March
 
 - Moved [Mir](https://osu.ppy.sh/users/8688812) to the Quality Assurance Team (2019-03-23)
+
+## April
+
+- Moved [Fycho](https://osu.ppy.sh/users/1876867) to the Global Moderation Team (2019-04-10)
+- Moved [Gabe](https://osu.ppy.sh/users/654108) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Moved [JBHyperion](https://osu.ppy.sh/users/4879508) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) to the Global Moderation Team (2019-04-10)
+- Moved [p3n](https://osu.ppy.sh/users/123703) to the Global Moderation Team (2019-04-10)
+- Moved [Raiden](https://osu.ppy.sh/users/2239480) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Moved [Hobbes2](https://osu.ppy.sh/users/8157492) to the osu! Alumni and Beatmap Nominators (2019-04-10)
+- Moved [Lanturn](https://osu.ppy.sh/users/1446665) to the osu! Alumni (2019-04-10)
+- Moved [Protastic101](https://osu.ppy.sh/users/6712747) to the osu! Alumni (2019-04-10)
+- Moved [Regraz](https://osu.ppy.sh/users/3076909) to the osu! Alumni and Beatmap Nominators (2019-04-10)
+- Moved [Noffy](https://osu.ppy.sh/users/1541323) to the osu! Alumni and Beatmap Nominators (2019-04-18)
+- Removed [-Kazu-](https://osu.ppy.sh/users/920861) from the Quality Assurance Team (2019-04-20)
+- Moved [Loctav](https://osu.ppy.sh/users/71366) to the Global Moderation Team (2019-04-22)
+- Added [Zeus-](https://osu.ppy.sh/users/5464437) to the Global Moderation Team (2019-04-23)
+- Added [- Felix](https://osu.ppy.sh/users/8503985) to the Global Moderation Team (2019-04-23)
+
+### Beatmap Nominator removals
+
+- [MaridiuS](https://osu.ppy.sh/users/4496961) - resignation (2019-04-01)
+- [alienflybot](https://osu.ppy.sh/users/636114) - resignation (2019-04-12)
+- [Yales](https://osu.ppy.sh/users/2377881) - resignation (2019-04-16)
+- [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
+- [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
+- [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
