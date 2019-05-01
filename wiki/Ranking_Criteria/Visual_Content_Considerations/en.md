@@ -1,7 +1,6 @@
-Visual Content Considerations
-==================
+# Visual Content Considerations
 
-As per [Community Rule 5](wiki/Rules/en.md#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game. This includes things like beatmap background, skinning elements, storyboarded assets and more.
+As per [Community Rule 5](/wiki/Rules#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game. This includes things like beatmap background, skinning elements, storyboarded assets and more.
 
 In the interests of keeping things as clean as possible, Community Rule 5 is interpreted as explicitly challenging "questionable" as well as definitively NSFW/18+ content.
 
@@ -67,7 +66,7 @@ Put simply, most/all references to drug use are generally not okay and should be
 
 ### Deliberately inflammatory content
 
-This includes depictions of desecration involving cultural and religious icons that are intended to deliberately inflame, such as the offensive use of Nazi or fascist symbolism (swastikas), anti-Semetic terminology and symbols, or any other icons, motifs or statements that actively encourage the harm and discrimination of another social, racial, cultural or political group.
+This includes depictions of desecration involving cultural and religious icons that are intended to deliberately inflame, such as the offensive use of Nazi or fascist symbolism (swastikas), anti-Semitic terminology and symbols, or any other icons, motifs or statements that actively encourage the harm and discrimination of another social, racial, cultural or political group.
 
 ## Appropriate visual content
 
