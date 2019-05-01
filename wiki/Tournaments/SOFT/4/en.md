@@ -142,11 +142,11 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **-[DaNieL_TH]-** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51327530) |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51328368) |
 | Tamaneko ![][flag_SG] | 2 | **4** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51329555) |
-| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] Xonica | -Win by Default- |
+| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] Xonica | -win by default- |
 | **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_PH] JztCallMeRon | [#1](https://osu.ppy.sh/community/matches/51333328) |
 | **xSnaggles** ![][flag_GB] | **4** | 1 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/51336326) |
 | xSnaggles ![][flag_GB] | 3 | **4** | ![][flag_FR] **Adri** | [#1](https://osu.ppy.sh/community/matches/51337751) |
-| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_GB] Xonica | -Win by Default- |
+| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_GB] Xonica | -win by default- |
 | **andreymc** ![][flag_BR] | **4** | 1 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/51340804) |
 | **DaZeRo5** ![][flag_PE] | **4** | 1 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/51342433) |
 | **DaZeRo5** ![][flag_PE] | **4** | 0 | ![][flag_BE] yetii | [#1](https://osu.ppy.sh/community/matches/51343959) |
@@ -158,7 +158,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **Toaph Daddy** ![][flag_US] | **4** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/51350110) |
 | **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_US] Yyorshire | [#1](https://osu.ppy.sh/community/matches/51351137) |
 | **Toaph Daddy** ![][flag_US] | **4** | 0 | ![][flag_US] TrapsAreNotGay | [#1](https://osu.ppy.sh/community/matches/51351895) |
-| JztCallMeRon ![][flag_PH] | 0 | **4** | ![][flag_US] **TrapsAreNotGay** | -Win by Default- |
+| JztCallMeRon ![][flag_PH] | 0 | **4** | ![][flag_US] **TrapsAreNotGay** | -win by default- |
 | **sleetgirl** ![][flag_JP] | **4** | 1 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51359367) |
 | Spartan- ![][flag_AU] | 3 | **4** | ![][flag_RU] **X_Devil** | [#1](https://osu.ppy.sh/community/matches/51360140) |
 | **[ misa ]** ![][flag_JP] | **4** | 1 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51360554) |
@@ -170,11 +170,11 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | [Crz]Cribob ![][flag_IT] | 3 | **4** | ![][flag_AU] **PotassiumF** | [#1](https://osu.ppy.sh/community/matches/51363455) |
 | sleetgirl ![][flag_JP] | 0 | **4** | ![][flag_AR] **BossPlays** | [#1](https://osu.ppy.sh/community/matches/51363485) |
 | andreymc ![][flag_BR] | 3 | **4** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/51363291) |
-| Silhoueska Elze ![][flag_PH] | 0 | **4** | ![][flag_AR] **BossPlays** | -Win by Default- |
+| Silhoueska Elze ![][flag_PH] | 0 | **4** | ![][flag_AR] **BossPlays** | -win by default- |
 | **[Crz]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51364530) |
 | **Toaph Daddy** ![][flag_US] | **4** | 0 | ![][flag_PH] JztCallMeRon | [#1](https://osu.ppy.sh/community/matches/51365732) |
 | **Couil** ![][flag_SE] | **4** | 1 | ![][flag_NL] Obligerator | [#1](https://osu.ppy.sh/community/matches/51366607) |
-| Xonica ![][flag_GB] | 0 | **4** | ![][flag_RU] **YaLTeR** | -Win by Default- |
+| Xonica ![][flag_GB] | 0 | **4** | ![][flag_RU] **YaLTeR** | -win by default- |
 | Yyorshire ![][flag_US] | 0 | **4** | ![][flag_IT] **[Crz]Cribob** | [#1](https://osu.ppy.sh/community/matches/51369390) |
 | Elementaires ![][flag_FR] | 2 | **4** | ![][flag_FR] **Adri** | [#1](https://osu.ppy.sh/community/matches/51370693) |
 | **EtienneXC** ![][flag_US] | **4** | 3 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51370703) |
@@ -195,11 +195,11 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **Logan636** ![][flag_US] | **4** | 3 | ![][flag_UY] AnMaO | [#1](https://osu.ppy.sh/community/matches/50952302) |
 | **PotassiumF** ![][flag_AU] | **4** | 1 | ![][flag_US] DarthSkrill | [#1](https://osu.ppy.sh/community/matches/50957245) |
 | **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Benzopirene | [#1](https://osu.ppy.sh/community/matches/50962017) |
-| **Azurles** ![][flag_US] | **4** | 0 | ![][flag_PL] Eclipse- | -Win by Default- |
-| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_FR] AntoAa | -Win by Default- |
-| Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_FR] **Ping36** | -Win by Default- |
+| **Azurles** ![][flag_US] | **4** | 0 | ![][flag_PL] Eclipse- | -win by default- |
+| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_FR] AntoAa | -win by default- |
+| Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_FR] **Ping36** | -win by default- |
 | **Daughter-** ![][flag_FI] | **4** | 0 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/50966220) |
-| **JztCallMeRon** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | -Win by Default- |
+| **JztCallMeRon** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | -win by default- |
 | **\[Crz\]Cribob** ![][flag_IT] | **4** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/50969056) |
 | **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_PL] FD5GD | [#1](https://osu.ppy.sh/community/matches/50970024) |
 | **CharlisMadCut** ![][flag_FR] | **4** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/50971505) |
@@ -213,7 +213,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | Sunday, 2019-04-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **EtienneXC** ![][flag_US] | **4** | 0 | ![][flag_PH] Cohue | [#1](https://osu.ppy.sh/community/matches/50986651) |
-| **afrono** ![][flag_US] | **4** | 0 | ![][flag_PH] OWWSU | -Win by Default- |
+| **afrono** ![][flag_US] | **4** | 0 | ![][flag_PH] OWWSU | -win by default- |
 | **samuelhklumpers** ![][flag_NL] | **4** | 2 | ![][flag_GB] BlankPxl | [#1](https://osu.ppy.sh/community/matches/50991705) |
 | **Spicy Meme** ![][flag_NZ] | **4** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/50996362) |
 | **DemonWaves** ![][flag_FR] | **4** | 1 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/50997344) |
@@ -223,8 +223,8 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | Tantei B ![][flag_FR] | 2 | **4** | ![][flag_FR] **Satsukel** | [#1](https://osu.ppy.sh/community/matches/51002469) |
 | **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_DO] Antalf | [#1](https://osu.ppy.sh/community/matches/51003394) |
 | **Bakuretsue** ![][flag_NL] | **4** | 2 | ![][flag_FI] princesswell | [#1](https://osu.ppy.sh/community/matches/51005919) |
-| Fizzy ![][flag_US] | 0 | **4** | ![][flag_PL] **Archaic84** | -Win by Default- |
-| **SoFast** ![][flag_GB] | **4** | 0 | ![][flag_CA] ToaphFanGirl | -Win by Default- |
+| Fizzy ![][flag_US] | 0 | **4** | ![][flag_PL] **Archaic84** | -win by default- |
+| **SoFast** ![][flag_GB] | **4** | 0 | ![][flag_CA] ToaphFanGirl | -win by default- |
 
 | Monday, 2019-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
@@ -232,7 +232,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 | Wednesday, 2019-04-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Xonica** ![][flag_GB] | **4** | 0 | ![][flag_NL] 2fast4you98 | -Win by Default- |
+| **Xonica** ![][flag_GB] | **4** | 0 | ![][flag_NL] 2fast4you98 | -win by default- |
 
 | Friday, 2019-04-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
@@ -244,8 +244,8 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | -Lethal- ![][flag_US] | 1 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/51141708) |
 | **Malox** ![][flag_DE] | **4** | 0 | ![][flag_FR] CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/51147833) |
 | **Rek** ![][flag_AU] | **4** | 0 | ![][flag_PH] SurfChu85 | [#1](https://osu.ppy.sh/community/matches/51148853) |
-| **Spartan-** ![][flag_AU] | **4** | 0 | ![][flag_AU] WMountain | -Win by Default- |
-| **Obligerator** ![][flag_NL] | **4** | 0 | ![][flag_VN] Weabonie | -Win by Default- |
+| **Spartan-** ![][flag_AU] | **4** | 0 | ![][flag_AU] WMountain | -win by default- |
+| **Obligerator** ![][flag_NL] | **4** | 0 | ![][flag_VN] Weabonie | -win by default- |
 | **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/51152258) |
 | **Elementaires** ![][flag_FR] | **4** | 2 | ![][flag_PH] Lenfried- | [#1](https://osu.ppy.sh/community/matches/51152633) |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_AR] jLuyalb | [#1](https://osu.ppy.sh/community/matches/51153141) |
@@ -261,7 +261,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | Sunday, 2019-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_NL] samuelhklumpers | [#1](https://osu.ppy.sh/community/matches/51179766) |
-| **sleetgirl** ![][flag_JP] | **4** | 0 | ![][flag_NL] Bakuretsue | -Win by Default- |
+| **sleetgirl** ![][flag_JP] | **4** | 0 | ![][flag_NL] Bakuretsue | -win by default- |
 | **Mage** ![][flag_RU] | **4** | 0 | ![][flag_SG] Raveille | [#1](https://osu.ppy.sh/community/matches/51181617) |
 | **NKEYBOARD** ![][flag_KR] | **4** | 3 | ![][flag_AR] aluuu | [#1](https://osu.ppy.sh/community/matches/51182578) |
 | **\[ misa \]** ![][flag_JP] | **4** | 1 | ![][flag_DE] IceDynamix | [#1](https://osu.ppy.sh/community/matches/51183709) |
@@ -271,9 +271,9 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | MartZ0Z ![][flag_NO] | 3 | **4** | ![][flag_RU] **X\_Devil** | [#1](https://osu.ppy.sh/community/matches/51186539) |
 | **Couil** ![][flag_SE] | **4** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/51186545) |
 | **YaLTeR** ![][flag_RU] | **4** | 3 | ![][flag_CA] loafusofbread | [#1](https://osu.ppy.sh/community/matches/51186881) |
-| **dhn** ![][flag_US] | **4** | 0 | ![][flag_PL] Triksu | -Win by Default- |
+| **dhn** ![][flag_US] | **4** | 0 | ![][flag_PL] Triksu | -win by default- |
 | **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/51190860) |
-| **Cunu** ![][flag_FR] | **4** | 0 | ![][flag_FI] -Oreo- | -Win by Default- |
+| **Cunu** ![][flag_FR] | **4** | 0 | ![][flag_FI] -Oreo- | -win by default- |
 
 ### Qualifiers
 
