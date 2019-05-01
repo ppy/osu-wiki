@@ -56,11 +56,11 @@ Additionally, this extends to entire pieces of artwork wherein the airs can be -
 
 This includes portrayals of use or the presence of drug-oriented paraphernalia such as bongs, coke spoons, used needles or any other widely established tools used in the context of administering illicit drugs.
 
-For the sake of all-ages classification, this includes alcohol and tobacco use.
-
 Drugs with any sort of inconsistent scheduling worldwide (such as marijuana) are also considered as 'illicit' for the sake of this rule. Imagery pertinent these drugs and their associated usage communities is also not allowed.
 
 In the event of a specific sort of drug abuse terminology or iconography is referenced without that drug being explicitly illegal or scheduled in most countries (such as syrup/lean/promethazine abuse), it is also considered 'illicit' for the sake of this rule.
+
+Depictions of alcohol and tobacco use are allowed sparingly where such things are not portrayed in unreasonable or destructive excess.
 
 Put simply, most/all references to drug use are generally not okay and should be avoided.
 
@@ -114,4 +114,4 @@ Once a consensus is met and issued, the resulting ruling on its appropriateness 
 
 Should the alteration exceed the limits of common reason or is deemed to be performed in bad faith (such as excessive or poorly-done censoring), the content may be denied from further appraisal requests and thus deemed unusable for use in a beatmap. This is non-contestable and irreversible.
 
-Images which are egregiously inappropriate may not be escalated in this manner at the discretion of the game's administration. Should the administration declare a piece of content as inappropriate, the decision is final and cannot be contested or argued any further - attempts to do so will be met with disciplinary action for all parties involved.
+Images which are egregiously inappropriate may not be escalated in this manner at the discretion of the game's administration (aka: the osu!team). Should the administration declare a piece of content as inappropriate, the decision is final and cannot be contested or argued any further - attempts to do so will be met with disciplinary action for all parties involved.
