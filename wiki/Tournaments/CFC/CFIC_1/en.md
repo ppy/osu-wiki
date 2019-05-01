@@ -227,57 +227,57 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Sunday, 2019-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
 ### Finals
 
 | Saturday, 2019-03-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Yruama ![][flag_FR] | 1 | **7** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
 
 | Sunday, 2019-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Zard** ![][flag_FR] | **7** | 0 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
 | **Yruama** ![][flag_FR] | **7** | 2 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
 
 ### Semifinals
 
 | Saturday, 2019-03-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Yruama** ![][flag_FR] | **6** | 4 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
 | YANOO123 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
 
 | Sunday, 2019-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 5 | **6** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
 
 | Monday, 2019-03-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | redjiii ![][flag_FR] | 2 | **6** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
 
 ### Quarterfinals
 
 | Saturday, 2019-03-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | -win by default- |
 | **redjiii** ![][flag_FR] | **5** | 3 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
 | pierreCHT ![][flag_FR] | 2 | **5** | ![][flag_FR] **YANOO123** | [#1](https://osu.ppy.sh/community/matches/50139355) |
 | Khalemm ![][flag_FR] | 3 | **5** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50141080) |
 
 | Sunday, 2019-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | -win by default- |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
 
 ### Group Stage
 
 | Friday, 2019-03-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Aequo3** ![][flag_FR] | **4** | 3 | ![][flag_FR] pierreCHT | [#1](https://osu.ppy.sh/community/matches/49939088) |
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **pierreCHT** ![][flag_FR] | **4** | 1 | ![][flag_FR] 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
 | ACinfr ![][flag_FR] | 3 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
 | **YANOO123** ![][flag_FR] | **4** | 3 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/49966114) |
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 | **4L-Chan 3 Porte** ![][flag_FR] | **4** | 0 | ![][flag_FR] ACinfr | [#1](https://osu.ppy.sh/community/matches/49973420) |
 
 | Sunday, 2019-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | -win by default- |
 | **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | -win by default- |
 | **Yruama** ![][flag_FR] | **4** | 0 | ![][flag_FR] oasix42 | [#1](https://osu.ppy.sh/community/matches/49997304) |
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 | Sageru ![][flag_FR] | 0 | **4** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50002427) |
 
 | Monday, 2019-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 
 ------------------------------------------------------------------------

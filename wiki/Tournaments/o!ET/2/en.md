@@ -582,23 +582,23 @@ This competition has come to an end and resulted in the following podium:
 #### Top Bracket
 
 | Sunday, 2019-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Sruba** | **7** | 4 | Almost Allies | [#1](https://osu.ppy.sh/community/matches/50508353) |
 
 #### Middle Bracket
 
 | Saturday, 2019-03-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **singletap is braindead** | **7** | 3 | Phoenix Emperors | [#1](https://osu.ppy.sh/community/matches/50479165) |
 
 | Sunday, 2019-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Makeshift Winners** | **7** | 3 | singletap is braindead | [#1](https://osu.ppy.sh/community/matches/50505230), [#2](https://osu.ppy.sh/community/matches/50505230+https://osu.ppy.sh/community/matches/50506296) |
 
 #### Low Bracket
 
 | Saturday, 2019-03-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Polish Musketeers | 3 | **7** | **Yes (Yes)** | [#1](https://osu.ppy.sh/community/matches/50633856) |
 | **not even european** | **7** | 4 | Yes (Yes) | [#1](https://osu.ppy.sh/community/matches/50636720) |
 
@@ -607,46 +607,46 @@ This competition has come to an end and resulted in the following podium:
 #### Top Bracket
 
 | Friday, 2019-03-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Flama | 0 | **6** | **nh9mju0** | -win by default- |
 
 | Saturday, 2019-03-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Almost Allies** | **6** | 4 | 1 friet 2 patat | [#1](https://osu.ppy.sh/community/matches/50309290) |
 | Sruba | 2 | **7** | **blasenmann regelt** | [#1](https://osu.ppy.sh/community/matches/50314735) |
 
 | Tuesday, 2019-03-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Almost Allies** | **6** | 2 | nh9mju0 | [#1](https://osu.ppy.sh/community/matches/50383403) |
 
 #### Middle Bracket
 
 | Saturday, 2019-03-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Double C | 0 | **6** | **AT Turklanden** | -win by default- |
 | **Phoenix emperors** | **6** | 0 | teamname | -win by default- |
 
 | Sunday, 2019-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Phoenix emperors** | **6** | 0 | AT Turklanden | [#1](https://osu.ppy.sh/community/matches/50339255) |
 
 | Tuesday, 2019-03-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | singletap is braindead | 6 | **7** | **Makeshift Winners** | [#1](https://osu.ppy.sh/community/matches/50384742) |
 
 #### Low Bracket
 
 | Saturday, 2019-03-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **not even european** | **6** | 0 | Polish Musketeers | -win by default- |
 | **D&Y** | **6** | 0 | TS\_RPZ | -win by default- |
 
 | Sunday, 2019-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | AT Fighting for Breasts | 0 | **6** | **Yes (Yes)** | [#1](https://osu.ppy.sh/community/matches/50334833) |
 
 | Friday, 2019-03-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | D&Y | 3 | **6** | **Yes (Yes)** | [#1](https://osu.ppy.sh/community/matches/50442543) |
 
 ### Semifinals
@@ -654,11 +654,11 @@ This competition has come to an end and resulted in the following podium:
 #### Top Bracket
 
 | Saturday, 2019-03-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Sruba** | **6** | 1 | Flama | [#1](https://osu.ppy.sh/community/matches/50140167) |
 
 | Sunday, 2019-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **1 friet 2 patat** | **5** | 0 | K-word | [#1](https://osu.ppy.sh/community/matches/50177688) |
 | Lux Aeterna  | 0 | **5** | **nh9mju0** | [#1](https://osu.ppy.sh/community/matches/50178907) |
 | Almost Allies | 4 | **6** | **blasenmann regelt** | [#1](https://osu.ppy.sh/community/matches/50178915) |
@@ -666,28 +666,28 @@ This competition has come to an end and resulted in the following podium:
 #### Middle Bracket
 
 | Saturday, 2019-03-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **AT Turklanden** | **5** | 3 | hr gang | [#1](https://osu.ppy.sh/community/matches/50145108) |
 | **singletap is braindead** | **6** | 1 | Double C | [#1](https://osu.ppy.sh/community/matches/50148184) |
 | Phoenix emperors | 4 | **6** | Makeshift Winners | [#1](https://osu.ppy.sh/community/matches/50148196) |
 
 | Sunday, 2019-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **teamname** | **5** | 3 | WaNaF | [#1](https://osu.ppy.sh/community/matches/50174428) |
 
 #### Low Bracket
 
 | Friday, 2019-03-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | D&Y | 4 | **6** | **Polish Musketeers** | [#1](https://osu.ppy.sh/community/matches/50112093) |
 
 | Sunday, 2019-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | lewd fine ladies | 3 | **5** | **Yes (Yes)** | [#1](https://osu.ppy.sh/community/matches/50169817) |
 | Team name is too long | 3 | **5** | **TS\_RPZ** | [#1](https://osu.ppy.sh/community/matches/50171271) |
 
 | Tuesday, 2019-03-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **not even european** | **6** | 1 | AT Fighting for Breasts | [#1](https://osu.ppy.sh/community/matches/50214019) |
 
 ### Quarterfinals
@@ -695,45 +695,45 @@ This competition has come to an end and resulted in the following podium:
 #### Top Bracket
 
 | Thursday, 2019-02-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Lux Aeterna | 0 | **Almost Allies** | [#1](https://osu.ppy.sh/community/matches/49920723) |
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **blasenmann regelt** | **5** | 0 | nh9mju0 | [#1](https://osu.ppy.sh/community/matches/49969126) |
 
 | Sunday, 2019-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Flama** | **5** | 0 | K-word | -win by default- |
 | **Sruba** | **5** | 0 | 1 friet 2 patat | -win by default- |
 
 #### Middle Bracket
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | WaNaF | 4 | **5** | **Double C** | [#1](https://osu.ppy.sh/community/matches/49966419) |
 | **Makeshift Winners** | **5** | 2 | hr gang | [#1](https://osu.ppy.sh/community/matches/49971623) |
 
 | Sunday, 2019-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Phoenix emperors** | **5** | 4 | AT Turklanden | [#1](https://osu.ppy.sh/community/matches/50005918) |
 
 | Monday, 2019-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **singletap is braindead** | **5** | 0 | teamname | [#1](https://osu.ppy.sh/community/matches/50028138) |
 
 #### Low Bracket
 
 | Friday, 2019-03-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **D&Y** | **5** | 4 | lewd fine ladies | [#1](https://osu.ppy.sh/community/matches/49939229) |
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **not even european** | **5** | 2 | Team name is too long | [#1](https://osu.ppy.sh/community/matches/49967404) |
 
 | Sunday, 2019-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **AT Fighting for Breasts** | **5** | 1 | TS\_RPZ | [#1](https://osu.ppy.sh/community/matches/50001155) |
 | Yes (Yes) | 3 | **5** | **Polish Musketeers** | [#1](https://osu.ppy.sh/community/matches/50000929) |
 
@@ -742,11 +742,11 @@ This competition has come to an end and resulted in the following podium:
 #### Top Bracket
 
 | Group | Friday, 2019-02-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-B | **Almost Allies** | **4** | 1 | pantsu squad | [#1](https://osu.ppy.sh/community/matches/49607472) |
 
 | Group | Saturday, 2019-02-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-A | **nh9mju0** | **4** | 3 | no idea | [#1](https://osu.ppy.sh/community/matches/49629952) |
 | T-B | **Almost Allies** | **4** | 1 | HD is G A Y | [#1](https://osu.ppy.sh/community/matches/49631910) |
 | T-C | K-word | 0 | **4** | **Lux Aeterna** | -win by default- |
@@ -756,7 +756,7 @@ This competition has come to an end and resulted in the following podium:
 | T-B | HD is G A Y | 3 | **4** | **Flama** | [#1](https://osu.ppy.sh/community/matches/49642033) |
 
 | Group | Sunday, 2019-02-17 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-D | AkkiraSSG | 2 | **4** | **7k BOIZ** | [#1](https://osu.ppy.sh/community/matches/49656214) |
 | T-D | 1 friet 2 patat | 3 | **4** | **y0bana1a bumajka** | [#1](https://osu.ppy.sh/community/matches/49657092) |
 | T-A | **nh9mju0** | **4** | 1 | shagged | [#1](https://osu.ppy.sh/community/matches/49660887) |
@@ -769,19 +769,19 @@ This competition has come to an end and resulted in the following podium:
 | T-C | **Yo les potes** | **4** | 1 | Pasztetuwa | [#1](https://osu.ppy.sh/community/matches/49663840) |
 
 | Group | Tuesday, 2019-02-19 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-D | **blasenmann regelt** | **4** | 0 | AkkiraSSG | -win by default- |
 
 | Group | Thursday, 2019-02-21 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-B | **Flama** | **4** | 0 | Almost Allies | [#1](https://osu.ppy.sh/community/matches/49750423) |
 
 | Group | Friday, 2019-02-22 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-C | Pasztetuwa | 0 | **4** | **Lux Aeterna** | -win by default- |
 
 | Group | Saturday, 2019-02-23 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-A | shagged | 0 | **4** | **no idea** | [#1](https://osu.ppy.sh/community/matches/49801216) |
 | T-D | **7k BOIZ** | **4** | 1 | y0bana1a bumajka | [#1](https://osu.ppy.sh/community/matches/49800925) |
 | T-C | AT anime toddlers | 1 | **4** | **K-word** | [#1](https://osu.ppy.sh/community/matches/49802863) |
@@ -789,7 +789,7 @@ This competition has come to an end and resulted in the following podium:
 | T-B | pantsu squad | 1 | **4** | **HD is G A Y** | [#1](https://osu.ppy.sh/community/matches/49808415) |
 
 | Group | Sunday, 2019-02-24 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | T-B | AT Do we need a name? | 0 | **4** | **Almost Allies** | [#1](https://osu.ppy.sh/community/matches/49827619) |
 | T-B | **Flama** | **4** | 1 | AT Do we need a name? | [#1](https://osu.ppy.sh/community/matches/49828788) |
 | T-A | shagged | 0 | **4** | **Sruba** | -win by default- |
@@ -808,14 +808,14 @@ This competition has come to an end and resulted in the following podium:
 #### Middle Bracket
 
 | Group | Saturday, 2019-02-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | M-D | **teamname** | **4** | 1 | Wise | [#1](https://osu.ppy.sh/community/matches/49631470) |
 | M-C | **Phoenix emperors** | **4** | 3 | Hail Lord Gravified | [#1](https://osu.ppy.sh/community/matches/49633099) |
 | M-C | **Pepega Squad** | **4** | 0 | We are the farmers HYPERS | -win by default- |
 | M-A | alt is cheat | 1 | **4** | **hr gang** | [#1](https://osu.ppy.sh/community/matches/49640280) |
 
 | Group | Sunday, 2019-02-17 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | M-A | **alt is cheat** | **4** | 0 | Nireko's Fanclub | -win by default- |
 | M-B | **WaNaF** | **4** | 2 | succducc | [#1](https://osu.ppy.sh/community/matches/49660890) |
 | M-C | Pepega Squad | 3 | **4** | **Double C** | [#1](https://osu.ppy.sh/community/matches/49660899) |
@@ -829,7 +829,7 @@ This competition has come to an end and resulted in the following podium:
 | M-A | **singletap is braindead** | **4** | 2 | nanomachines son | [#1](https://osu.ppy.sh/community/matches/49665415) |
 
 | Group | Saturday, 2019-02-23 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | M-A | Nireko's Fanclub | 0 | **4** | **hr gang** | -win by default- |
 | M-B | Tasty bois | 0 | **4** | **AT Turklanden** | [#1](https://osu.ppy.sh/community/matches/49800984) |
 | M-C | **Double C** | **4** | 0 | We are the farmers HYPERS | -win by default- |
@@ -840,7 +840,7 @@ This competition has come to an end and resulted in the following podium:
 | M-B | Anime Tiddles | 2 | **4** | **Tasty bois** | [#1](https://osu.ppy.sh/community/matches/49806730) |
 
 | Group | Sunday, 2019-02-24 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | M-B | Anime Tiddles | 1 | **4** | **AT Turklanden** | [#1](https://osu.ppy.sh/community/matches/49830637) |
 | M-A | Nireko's Fanclub | 0 | **4** | **singletap is braindead** | -win by default- |
 | M-B | Tasty bois | 2 | **4** | **WaNaF** | [#1](https://osu.ppy.sh/community/matches/49831663) |
@@ -862,11 +862,11 @@ This competition has come to an end and resulted in the following podium:
 #### Low Bracket
 
 | Group | Friday, 2019-02-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-A | **not even european** | **4** | 2 | [#1](https://osu.ppy.sh/community/matches/49603082) |
 
 | Group | Saturday, 2019-02-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-D | **Yes (Yes)** | **4** | 0 | Team name is too long | [#1](https://osu.ppy.sh/community/matches/49628447) |
 | L-A | **not even european** | **4** | 1 | Meme Dream Team | [#1](https://osu.ppy.sh/community/matches/49629929) |
 | L-A | 1-2 Stream | 2 | **4** | **not even european** | [#1](https://osu.ppy.sh/community/matches/49631771) |
@@ -875,7 +875,7 @@ This competition has come to an end and resulted in the following podium:
 | L-C | Der Superbekanntenkreis | 2 | **4** | **Twinkle Wonderland** | [#1](https://osu.ppy.sh/community/matches/49636819) |
 
 | Group | Sunday, 2019-02-17 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-C | **D&Y** | **4** | 1 | TS\_RPZ | [#1](https://osu.ppy.sh/community/matches/49656027) |
 | L-C | **TS\_RPZ** | **4** | 1 | Twinkle Wonderland | [#1](https://osu.ppy.sh/community/matches/49659374) |
 | L-D | **Yes (Yes)** | **4** | 0 | Nemmondommeg | -win by default- |
@@ -883,18 +883,18 @@ This competition has come to an end and resulted in the following podium:
 | L-C | **D&Y** | **4** | 0 | Twinkle Wonderland | [#1](https://osu.ppy.sh/community/matches/49665335) |
 
 | Group | Friday, 2019-02-22 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-B | **lewd fine ladies** | **4** | 2 | AT Moe | [#1](https://osu.ppy.sh/community/matches/49774974) |
 | L-B | **AT Fighting for Breasts** | **4** | 1 | lewd fine ladies | [#1](https://osu.ppy.sh/community/matches/49776025) |
 
 | Group | Saturday, 2019-02-23 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-B | **AT Moe** | **4** | 0 | \[No PP Farmers\] | [#1](https://osu.ppy.sh/community/matches/49804650) |
 | L-A | **Polish Musketeers** | **4** | 0 | 1-2 Stream | [#1](https://osu.ppy.sh/community/matches/49808418) |
 | L-C | **TS\_RPZ** | **4** | 0 | Der Superbekanntenkreis | -win by default- |
 
 | Group | Sunday, 2019-02-24 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L-A | **Polish Musketeers** | **4** | 0 | Meme Dream Team | [#1](https://osu.ppy.sh/community/matches/49831891) |
 | L-D | **Team name is too long** | **4** | 0 | Nemmondommeg | -win by default- |
 | L-D | **Team name is too long** | **4** | 3 | The commie and the nazi | [#1](https://osu.ppy.sh/community/matches/49833101) |

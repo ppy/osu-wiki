@@ -748,38 +748,38 @@ This competition has come to an end and resulted in the following podium:
 #### Grand Finals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **7** | 2 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/49632942) |
 
 #### Finals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **ThePooN** | -win by default- |
 | **NerO** ![][flag_FR] | **7** | 3 | ![][flag_FR] Flaven | [#1](https://osu.ppy.sh/community/matches/49310209) |
 
 | Sunday, 2019-02-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Mooha ![][flag_FR] | 0 | **7** | ![][flag_FR] **NerO** | -win by default- |
 
 #### Semifinals
 
 | Saturday, 2019-01-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Mooha** | -win by default- |
 | **ThePooN** ![][flag_FR] | **6** | 3 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/49143789) |
 | SiYes ![][flag_FR] | 2 | **6** | ![][flag_FR] **-raizen-** | [#1](https://osu.ppy.sh/community/matches/49148368) |
 | **Flaven** ![][flag_FR] | **6** | 0 | ![][flag_FR] BAKKALO | [#1](https://osu.ppy.sh/community/matches/49148581) |
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **NerO** ![][flag_FR] | **6** | 2 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/49175425) |
 | Besta ![][flag_FR] | 0 | **6** | ![][flag_FR] **Flaven** | -win by default- |
 
 #### Quarterfinals
 
 | Saturday, 2019-01-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **5** | 1 | ![][flag_FR] VicoTeen | [#1](https://osu.ppy.sh/community/matches/48969420) |
 | Flaven ![][flag_FR] | 1 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/48971151) |
 | **BAKKALO** ![][flag_FR] | **5** | 4 | ![][flag_FR] Wrys | [#1](https://osu.ppy.sh/community/matches/48973083) |
@@ -790,7 +790,7 @@ This competition has come to an end and resulted in the following podium:
 | **\_Aquatic\_** ![][flag_FR] | **5** | 0 | ![][flag_FR] -Unknow | [#1](https://osu.ppy.sh/community/matches/48982700) |
 
 | Sunday, 2019-01-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | \_Aquatic\_ ![][flag_FR] | 2 | **5** | ![][flag_FR] **SiYes** | [#1](https://osu.ppy.sh/community/matches/49006814) |
 | **BAKKALO** ![][flag_FR] | **5** | 2 | ![][flag_FR] VicoTeen | [#1](https://osu.ppy.sh/community/matches/49006731) |
 | cleminiti ![][flag_FR] | 1 | **5** | ![][flag_FR] **-raizen-** | [#1](https://osu.ppy.sh/community/matches/49008351) |
@@ -799,7 +799,7 @@ This competition has come to an end and resulted in the following podium:
 #### Round of 16
 
 | Saturday, 2019-01-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Wrys | [#1](https://osu.ppy.sh/community/matches/48796757) |
 | **Besta** ![][flag_FR] | **4** | 1 | ![][flag_FR] Raiiden | [#1](https://osu.ppy.sh/community/matches/48798000) |
 | **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] volor | -win by default- |
@@ -810,7 +810,7 @@ This competition has come to an end and resulted in the following podium:
 | Raiiden ![][flag_FR] | 2 | **4** | ![][flag_FR] **BAKKALO** | [#1](https://osu.ppy.sh/community/matches/48804893) |
 
 | Sunday, 2019-01-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_FR] cleiminiti | [#1](https://osu.ppy.sh/community/matches/48830879) |
 | **\_Aquatic\_** ![][flag_FR] | **4** | 1 | ![][flag_FR] Funta668 | [#1](https://osu.ppy.sh/community/matches/48835202) |
 | RyuuBei ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | -win by default- |
@@ -823,27 +823,27 @@ This competition has come to an end and resulted in the following podium:
 #### Round of 32
 
 | Saturday, 2018-12-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](https://osu.ppy.sh/community/matches/48227620) |
 
 | Friday, 2018-12-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Flaven** ![][flag_FR] | **4** | 2 | ![][flag_FR] GuiboxFR | [#1](https://osu.ppy.sh/community/matches/48264622) |
 
 | Saturday, 2018-12-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-raizen-** ![][flag_FR] | **4** | 0 | ![][flag_BE] Xawaii | [#1](https://osu.ppy.sh/community/matches/48280186) |
 
 | Saturday, 2018-12-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SiYes** ![][flag_FR] | **4** | 0 | ![][flag_FR] \[-Vanilla-\] | [#1](https://osu.ppy.sh/community/matches/48458408) |
 
 | Friday, 2019-01-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | BAKKALO ![][flag_FR] | 2 | **4** | ![][flag_FR] **RyuuBei** | [#1](https://osu.ppy.sh/community/matches/48611004) |
 
 | Saturday, 2019-01-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Wrys** ![][flag_FR] | **4** | 2 | ![][flag_FR] Funta668 | [#1](https://osu.ppy.sh/community/matches/48632274) |
 | TLQ\_Yoshii ![][flag_FR] | 2 | **4** | ![][flag_FR] **volor** | [#1](https://osu.ppy.sh/community/matches/48633379) |
 | **Mooha** ![][flag_FR] | **4** | 0 | ![][flag_IE] S E K A I | [#1](https://osu.ppy.sh/community/matches/48636005) |
@@ -856,7 +856,7 @@ This competition has come to an end and resulted in the following podium:
 | **Raiiden** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Unknow | [#1](https://osu.ppy.sh/community/matches/48644109) |
 
 | Sunday, 2019-01-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Besta** ![][flag_FR] | **4** | 0 | ![][flag_FR] Mirthille | [#1](https://osu.ppy.sh/community/matches/48660923) |
 | Mirthille ![][flag_FR] | 0 | **4** | ![][flag_FR] **-Unknow** | [#1](https://osu.ppy.sh/community/matches/48662099) |
 | \[-Vanilla-\] ![][flag_FR] | 0 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/48663322) |
@@ -872,30 +872,30 @@ This competition has come to an end and resulted in the following podium:
 #### Grand Finals
 
 | Saturday, 2019-02-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **TimmyAkmed** ![][flag_FR] | **7** | 1 | ![][flag_FR] Romainnoda | [#1](https://osu.ppy.sh/community/matches/49797943) |
 
 #### Finals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Romainnoda ![][flag_FR] | 3 | **7** | ![][flag_FR] **TimmyAkmed** | [#1](https://osu.ppy.sh/community/matches/49306349) |
 | **Yona la loutre** ![][flag_FR] | **7** | 5 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/community/matches/49317966) |
 
 | Sunday, 2019-02-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Romainnoda** ![][flag_FR] | **7** | 2 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/community/matches/49338803) |
 
 #### Semifinals
 
 | Saturday, 2019-01-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Briesmas ![][flag_JP] | 0 | **6** | ![][flag_FR] **Romainnoda** | [#1](https://osu.ppy.sh/community/matches/49145806) |
 | **TimmyAkmed** ![][flag_FR] | **6** | 0 | ![][flag_FR] omegaflo | [#1](https://osu.ppy.sh/community/matches/49144207) |
 | Gintoki8 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/49142713) |
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Valony-** ![][flag_FR] | **6** | 0 | ![][flag_FR] Marec | -win by default- |
 | Briesmas ![][flag_JP] | 1 | **6** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/49178646) |
 | **omegaflo** ![][flag_FR] | **6** | 4 | ![][flag_FR] -Valony- | [#1](https://osu.ppy.sh/community/matches/49180103) |
@@ -903,11 +903,11 @@ This competition has come to an end and resulted in the following podium:
 #### Round of 12
 
 | Friday, 2019-01-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Aciitm1 ![][flag_FR] | 0 | **5** | ![][flag_CA] **DuckyDoom** | [#1](https://osu.ppy.sh/community/matches/48944275) |
 
 | Saturday, 2019-01-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | maximaxiU ![][flag_FR] | 1 | **5** | ![][flag_FR] **Romainnoda** | [#1](https://osu.ppy.sh/community/matches/48967251) |
 | -Valony- ![][flag_FR] | 2 | **5** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/48968566) |
 | Marec ![][flag_FR] | 3 | **5** | ![][flag_FR] **omegaflo** | [#1](https://osu.ppy.sh/community/matches/48970400) |
@@ -917,7 +917,7 @@ This competition has come to an end and resulted in the following podium:
 | **omegaflo** ![][flag_FR] | **5** | 1 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/48977881) |
 
 | Sunday, 2019-01-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Yona la loutre** ![][flag_FR] | **5** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/49001534) |
 | DuckyDoom ![][flag_CA] | 2 | **5** | ![][flag_FR] **Marec** | [#1](https://osu.ppy.sh/community/matches/49004503) |
 | **Gintoki8** ![][flag_FR] | **5** | 1 | ![][flag_FR] Aciitm1 | [#1](https://osu.ppy.sh/community/matches/49005977) |
@@ -926,11 +926,11 @@ This competition has come to an end and resulted in the following podium:
 #### Group Stage
 
 | Friday, 2019-01-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | linkfire ![][flag_BF] | 0 | **4** | ![][flag_FR] **Aciitm1** | [#1](https://osu.ppy.sh/community/matches/48775264) |
 
 | Saturday, 2019-01-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Niawlys ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yona la loutre** | [#1](https://osu.ppy.sh/community/matches/48794728) |
 | **Briesmas** ![][flag_JP] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/48796652) |
 | **Romainnoda** ![][flag_FR] | **4** | 0 | ![][flag_FR] ZeddaStake | [#1](https://osu.ppy.sh/community/matches/48796629) |
@@ -952,7 +952,7 @@ This competition has come to an end and resulted in the following podium:
 | **estebdevil** ![][flag_FR] | **4** | 0 | ![][flag_FR] Hickacou | [#1](https://osu.ppy.sh/community/matches/48810173) |
 
 | Sunday, 2019-01-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **BlackJames** ![][flag_FR] | **4** | 0 | ![][flag_BF] Linkfire | -win by default- |
 | Fenrir029 ![][flag_FR] | 0 | **4** | ![][flag_FR] **maximaxiU** | [#1](https://osu.ppy.sh/community/matches/48829448) |
 | Kaho-Hinata ![][flag_FR] | 0 | **4** | ![][flag_JP] **Briesmas** | [#1](https://osu.ppy.sh/community/matches/48829475) |
@@ -972,25 +972,25 @@ This competition has come to an end and resulted in the following podium:
 #### Grand Finals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Boros ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/49313282) |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/49314789) |
 
 #### Finals
 
 | Saturday, 2019-01-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | -Ken ![][flag_TN] | 3 | **7** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/49153596) |
 | Holloh ![][flag_FR] | 3 | **7** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/49148250) |
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/49182267) |
 
 #### Semifinals
 
 | Saturday, 2019-01-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **6** | 4 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/48974224) |
 | **Boros** ![][flag_FR] | **6** | 2 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/48975850) |
 | **Holloh** ![][flag_FR] | **6** | 0 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48977784) |
@@ -999,7 +999,7 @@ This competition has come to an end and resulted in the following podium:
 #### Quarterfinals
 
 | Saturday, 2019-01-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845)
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48798016) |
 | **Boros** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sageru | [#1](https://osu.ppy.sh/community/matches/48799372) |
@@ -1007,7 +1007,7 @@ This competition has come to an end and resulted in the following podium:
 | MindLight ![][flag_FR] | 1 | **5** | **Realmas** | [#1](https://osu.ppy.sh/community/matches/48810075) |
 
 | Sunday, 2019-01-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441)
 
 ### osu!mania Division
@@ -1015,38 +1015,38 @@ This competition has come to an end and resulted in the following podium:
 #### Grand Finals
 
 | Saturday, 2019-02-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | -win by default- |
 
 #### Finals
 
 | Saturday, 2019-02-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **7** | 0 | ![][flag_FR] PatouZ | [#1](https://osu.ppy.sh/community/matches/49469976) |
 | **DemonWaves** ![][flag_FR] | **7** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/49473434) |
 
 | Sunday, 2019-02-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **PatouZ** ![][flag_FR] | **7** | 0 | ![][flag_FR] DemonWaves | -win by default- |
 
 #### Semifinals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **6** | 0 | ![][flag_FR] \[ Odin \] | [#1](https://osu.ppy.sh/community/matches/49308835) |
 | **PatouZ** ![][flag_FR] | **6** | 2 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/49310117) |
 | **DemonWaves** ![][flag_FR] | **6** | 1 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/community/matches/49311938) |
 | **DragonSonic** ![][flag_FR] | **6** | 1 | ![][flag_FR] Satsukel | [#1](https://osu.ppy.sh/community/matches/49311941) |
 
 | Sunday, 2019-02-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Elementaires ![][flag_FR] | 2 | **6** | ![][flag_FR] **DemonWaves** | [#1](https://osu.ppy.sh/community/matches/49341019) |
 | \[ Odin \] ![][flag_FR] | 0 | **6** | ![][flag_FR] **DragonSonic** | -win by default- |
 
 #### Quarterfinals
 
 | Saturday, 2019-01-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_FR] Kyzoid | [#1](https://osu.ppy.sh/community/matches/49145213) |
 | **\[ Odin \]** ![][flag_FR] | **5** | 3 | ![][flag_FR] DemonWaves | [#1](https://osu.ppy.sh/community/matches/49146820) |
 | **PatouZ** ![][flag_FR] | **5** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/49148590) |
@@ -1057,7 +1057,7 @@ This competition has come to an end and resulted in the following podium:
 | **Satsukel** ![][flag_FR] | **5** | 1 | ![][flag_FR] PouletFurtif | [#1](https://osu.ppy.sh/community/matches/49140698) |
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | ExilFaker ![][flag_FR] | 0 | **5** | ![][flag_FR] **DemonWaves** | -win by default- |
 | Vivio ![][flag_FR] | 3 | **5** | ![][flag_FR] **Kyzoid** | [#1](https://osu.ppy.sh/community/matches/49176662) |
 | **DragonSonic** ![][flag_FR] | **5** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/49178141) |
@@ -1066,17 +1066,17 @@ This competition has come to an end and resulted in the following podium:
 #### Round of 24
 
 | Thursday, 2019-01-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Trypha ![][flag_FR] | 1 | **4** | ![][flag_FR] **Vivio** | [#1](https://osu.ppy.sh/community/matches/48918193) |
 | **polo2000** ![][flag_FR] | **4** | 0 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/48922634) |
 | **\[ Odin \]** ![][flag_FR] | **4** | 0 | ![][flag_FR] polo2000 | [#1](https://osu.ppy.sh/community/matches/48923112) |
 
 | Friday, 2019-01-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | ExilFaker ![][flag_FR] | 3 | **4** | ![][flag_FR] **PouletFurtif** | [#1](https://osu.ppy.sh/community/matches/48949878) |
 
 | Saturday, 2019-01-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Min-eb** ![][flag_FR] | **4** | 0 | ![][flag_FR] \_Karibu\_ | [#1](https://osu.ppy.sh/community/matches/48964495) |
 | **Satsukel** ![][flag_FR] | **4** | 0 | ![][flag_FR] Zulsrammo | -win by default- |
 | **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_FR] The\_Azerty | -win by default- |
@@ -1089,7 +1089,7 @@ This competition has come to an end and resulted in the following podium:
 | **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_FR] YuzukiEba | [#1](https://osu.ppy.sh/community/matches/48981254) |
 
 | Sunday, 2019-01-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | YuzukiEba ![][flag_FR] | 0 | **4** | ![][flag_FR] **ExilFaker** | -win by default- |
 | **DemonWaves** ![][flag_FR] | **4** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/49001552) |
 | Roboclop ![][flag_FR] | 0 | **4** | ![][flag_FR] Zulsrammo | -win by default- |

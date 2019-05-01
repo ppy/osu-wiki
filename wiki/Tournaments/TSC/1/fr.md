@@ -327,7 +327,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](https://osu.ppy.sh/community/matches/46519821) |
 
 | Sunday, 2018-10-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | i like grosses baguettes | 3 | **7** | **jakpat** | [#1](https://osu.ppy.sh/community/matches/46533762) |
 
 
@@ -338,7 +338,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | MIStaikon | 3 | **7** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46326384) |
 
 | Dimanche, 2018-09-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Samurai Pizza Cats | 0 | **7** | **BabySnakes is Dumb** | -win by default- |
 | **i like grosses baguettes** | **7** | 6 | jakpat | [#1](https://osu.ppy.sh/community/matches/46359023) |
 | hello we play taiko | 4 | **7** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46359727) |
@@ -352,7 +352,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **i like grosses baguettes** | **6** | 2 | Samurai Pizza Cats | [#1](https://osu.ppy.sh/community/matches/46152831) |
 
 | Dimanche, 2018-09-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Pißwasser | 1 | **6** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46174499) |
 | Foda-se | 0 | **6** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46176869) |
 | ♂ Drum ♂ Spanking ♂ Festival ♂ | 4 | **6** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46186321) |

@@ -258,26 +258,26 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 ### Grand Finals
 
 | Sunday, 2016-04-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 2 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/24400797) |
 
 ### Finals
 
 | Saturday, 2016-04-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/24194354) |
 | Germany ![][flag_DE] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24201032) |
 | Hong Kong ![][flag_HK]  | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/24206740) |
 
 | Sunday, 2016-04-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA]  | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
 
 ### Semifinals
 
 | Saturday, 2016-04-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/24031840) |
 | China ![][flag_CN]| 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/24033032) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/24036137) |
@@ -286,14 +286,14 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | United Kingdom ![][flag_GB] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/24050709) |
 
 | Sunday, 2016-04-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/24057716) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/24068098) |
 
 ### Quarterfinals
 
 | Saturday, 2016-04-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/23863075) |
 | Indonesia ![][flag_ID] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/23864087) |
 | Russian Federation ![][flag_RU] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/23865529) |
@@ -306,7 +306,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 ### Round of 16
 
 | Sunday, 2016-03-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/23713296) |
 | **Indonesia** ![][flag_ID] | **5** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/23714183) |
 | France ![][flag_FR] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/23718684) |
@@ -319,7 +319,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 ### Group Stage
 
 | Sunday, 2016-03-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 1 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/23529018) |
 | Australia ![][flag_AU] | 1 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/23529019) |
 | Malaysia ![][flag_MY] | 3 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/23529020) |

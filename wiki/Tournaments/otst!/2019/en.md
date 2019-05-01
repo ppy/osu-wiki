@@ -272,32 +272,32 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 ### Grand Finals
 
 | Saturday, 2019-04-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 2 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50969219) |
 
 | Sunday, 2019-04-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **7** | 4 | Rubber Conquest | [#1](https://osu.ppy.sh/community/matches/51001074) |
 
 ### Finals
 
 | Friday, 2019-04-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 0 | osu | [#1](https://osu.ppy.sh/community/matches/50772401) |
 
 | Saturday, 2019-04-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | la profanacion | 0 | **7** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50785429) |
 | Rubber Conquest | 6 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50797248) |
 
 | Sunday, 2019-04-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 1 | =yahe | [#1](https://osu.ppy.sh/community/matches/50825991) |
 
 ### Semifinals
 
 | Saturday, 2019-03-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Hotel for Lolis | 0 | **6** | **HDcarryEmertxE** | -win by default- |
 | **=yahe** | **6** | 2 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50634229) |
 | la profanacion | 0 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50640225) |
@@ -306,14 +306,14 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | **Riven small PP** | **6** | 0 | derust | [#1](https://osu.ppy.sh/community/matches/50646961) |
 
 | Sunday, 2019-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Riven small PP | 5 | **6** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50656022) |
 | **osu** | **6** | 4 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50669409) |
 
 ### Quarterfinals
 
 | Saturday, 2019-03-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | =yahe | 2 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/50460029) |
 | osu | 3 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50470080) |
 | **HDcarryEmertxE** | **6** | 1 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50471993) |
@@ -321,7 +321,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | **la profanacion** | **6** | 4 | Hotel for Lolis | [#1](https://osu.ppy.sh/community/matches/50482893) |
 
 | Sunday, 2019-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **canvas garden** | **6** | 0 | bruh | -win by default- |
 | **BRATVA I KOLCO** | **6** | 0 | Roselia | -win by default- |
 | **derust** | **6** | 0 | Raise My PeePee | -win by default- |
@@ -329,14 +329,14 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 ### Round of 16
 
 | Saturday, 2019-03-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **=yahe** | **5** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50300937) |
 | **Rubber Conquest** | **5** | 1 | bruh | [#1](https://osu.ppy.sh/community/matches/50304223) |
 | **Riven small PP** | **5** | 1 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50308416) |
 | **osu** | **5** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50313531) |
 
 | Sunday, 2019-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **5** | 3 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50333220) |
 | **Floating up** | **5** | 0 | Roselia | [#1](https://osu.ppy.sh/community/matches/50339271) |
 | derust | 4 | **5** | **la profanacion** | [#1](https://osu.ppy.sh/community/matches/50346076) |
@@ -345,7 +345,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 ### Group Stage
 
 | Group | Saturday, 2019-03-02 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
 | A | our angel kodama | 3 | **4** | **all waifu hero** | [#1](https://osu.ppy.sh/community/matches/49970014) |
@@ -354,7 +354,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
 | Group | Sunday, 2019-03-03 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
 | D | Gay Squad | 1 | **4** | **tibi saised** | [#1](https://osu.ppy.sh/community/matches/49984774) |
@@ -370,14 +370,14 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | D | **#arsecrackers** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50002657) |
 
 | Group | Monday, 2019-03-04 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50009003) |
 | D | **la profanacion** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50012995) |
 | D | **la profanacion** | **4** | 1 | tibi saised | [#1](https://osu.ppy.sh/community/matches/50014006) |
 | C | **Raise My PeePee** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50014778) |
 
 | Group | Saturday, 2019-03-09 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | E | derust | 1 | **4** | **Restricted Mode** | [#1](https://osu.ppy.sh/community/matches/50128761) |
 | F | Viva Franc0 | 0 | **4** | **HDcarryEmertxE** | [#1](https://osu.ppy.sh/community/matches/50139948) |
 | G | **bruh** | **4** | 0 | AGO DIMENSIONS | [#1](https://osu.ppy.sh/community/matches/50142860) |
@@ -390,7 +390,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | E | **Restricted Mode** | **4** | 1 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50155843) |
 
 | Group | Sunday, 2019-03-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
 | H | **Gruuuu** | **4** | 0 | Farmers | -win by default- |
 | F | HDcarryEmertxE | 2 | **4** | **Hotel for Lolis** | [#1](https://osu.ppy.sh/community/matches/50160870) |

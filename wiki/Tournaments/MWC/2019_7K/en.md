@@ -195,7 +195,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ### Grand Finals
 
 | Sunday, 2019-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50327085) |
 | Philippines ![][flag_PH] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50332058) |
 | **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/50333689) |
@@ -203,26 +203,26 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ### Finals
 
 | Saturday, 2019-03-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Thailand ![][flag_TH] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50136165) |
 | Brazil ![][flag_BR] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/50150079) |
 
 | Sunday, 2019-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50159921) |
 | **Philippines** ![][flag_PH] | **7** | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/50168401) |
 
 ### Semifinals
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_KR] South Korea | -Win by Default- |
 | France ![][flag_FR] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49966458) |
 | Macau ![][flag_MO] | 0 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49969094) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49971704) |
 
 | Sunday, 2019-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/49986741) |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49994851) |
 | **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/49996659) |
@@ -231,11 +231,11 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ### Quarterfinals
 
 | Saturday, 2019-02-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 3 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/49804661) |
 
 | Sunday, 2019-02-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/49818181) |
 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/49820246) |
 | **France** ![][flag_FR] | **5** | 0 | ![][flag_JP] Japan | -Win by Default- |
@@ -247,7 +247,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ### Round of 16
 
 | Saturday, 2019-02-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/49626306) |
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/49627296) |
 | **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/49628551) |
@@ -255,7 +255,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/49638222) |
 
 | Sunday, 2019-02-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49656211) |
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49660865) |
@@ -263,7 +263,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2019-02-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49465060) |
 | Japan ![][flag_JP] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/49465056) |
 | **Netherlands** ![][flag_NL] | **4** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/49466206) |
@@ -279,7 +279,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/49477430) |
 
 | Sunday, 2019-02-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49487714) |
 | Canada ![][flag_CA] | 1 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49488502) |
 | Netherlands ![][flag_NL] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49495320) |

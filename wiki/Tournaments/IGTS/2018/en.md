@@ -261,29 +261,29 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Saturday, 2018-09-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **7** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/45981007) |
 
 | Sunday, 2018-09-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Netherlands ![][flag_NL] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/46004124) |
 | **Malaysia** ![][flag_MY] | **7** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/46005358) |
 
 ### Finals
 
 | Saturday, 2018-09-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 1 | **6** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/45826179) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/45811926) |
 
 ### Semifinals
 
 | Saturday, 2018-09-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/45601494) |
 
 | Sunday, 2018-09-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/45616018) |
 | Canada ![][flag_CA] | 3 | **5** | ![][flag_EC] **Ecuador** | [#1](https://osu.ppy.sh/community/matches/45626417) |
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/45614036) |
@@ -293,18 +293,18 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 | Friday, 2018-08-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45369844) |
 
 | Saturday, 2018-08-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **5** | 2 | ![][flag_EC] Ecuador | [#1](https://osu.ppy.sh/community/matches/45385434) |
 | Russia ![][flag_RU] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/45392371) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45397375) |
 | Singapore ![][flag_SG] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/45402951) |
 
 | Sunday, 2018-08-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/45434990) |
 | Russia ![][flag_RU] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/45431679) |
 | Ecuador ![][flag_EC] | **5** | 0 | ![][flag_PT] Portugal | -win by default- |
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round 1 (Lower Bracket)
 
 | Saturday, 2018-08-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/45187249) |
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45173889) |
@@ -321,7 +321,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Group | Saturday, 2018-08-04 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/44759949) |
 | C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/44760724) |
 | A | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/44761958) |
@@ -331,7 +331,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 | Group | Sunday, 2018-08-05 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | A | Argentina ![][flag_AR] | 1 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/44784450) |
 | C | **Singapore** ![][flag_SG] | **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/44787664) |
@@ -347,7 +347,7 @@ This competition has come to an end and resulted in the following podium:
 | B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/44803677) |
 
 | Group | Saturday, 2018-08-11 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/44956962) |
 | A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/44957651) |
 | C | **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/44959016) |
@@ -358,7 +358,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
 | Group | Sunday, 2018-08-12 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
 | C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/44992938) |
 | D | **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
