@@ -230,19 +230,19 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 ### Grand Final
 
 | Minggu, 2017-06-10 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | XK2238 ![][flag_ID] | 6 | **7** | ![][flag_ID] **pmriva** | [#1](https://osu.ppy.sh/community/matches/33778864) |
 | pmriva ![][flag_ID] | 5 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33785221) |
 
 ### Final
 
 | Sabtu, 2017-06-03 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Katdon\_donKat** ![][flag_ID] | **6** | 2 | ![][flag_ID] steven1 | [#1](https://osu.ppy.sh/community/matches/33568382) |
 | pmriva ![][flag_ID] | 3 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33600406) |
 
 | Minggu, 2017-06-04 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Nishizumi ![][flag_ID] | **6** | 0 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33619870) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **Nishizumi** | [#1](https://osu.ppy.sh/community/matches/33621267) |
 | **pmriva** ![][flag_ID] | **6** | 2 | ![][flag_ID] Nishizumi | [#1](https://osu.ppy.sh/community/matches/33626414) |
@@ -250,14 +250,14 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 ### Semifinal
 
 | Sabtu, 2017-05-27 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Lightning Wyvern** ![][flag_ID] | **6** | 3 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33439416) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33440128) |
 | \_Destroyer\_ ![][flag_ID] | 4 | **6** | ![][flag_ID] **misaki\_tk** | [#1](https://osu.ppy.sh/community/matches/33440300) |
 | pmriva ![][flag_ID] | **6** | 5 | ![][flag_ID] Nishizumi | [#1](https://osu.ppy.sh/community/matches/33445446) |
 
 | Minggu, 2017-05-28 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Shirai-** ![][flag_ID] | **6** | 3 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/33414275) |
 | ayomikasa ![][flag_ID] | 1 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/33464233) |
 | Lightning Wyvern ![][flag_ID] | 5 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/33465076) |
@@ -266,13 +266,13 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 ### Perempat Final
 
 | Sabtu, 2017-05-20 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 1 | ![][flag_ID] \_Destroyer\_ | [#1](https://osu.ppy.sh/community/matches/33286726) |
 | **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
 | **Nishizumi** ![][flag_ID] | **5** | 0 | ![][flag_ID] Lightning Wyvern | [#1](https://osu.ppy.sh/community/matches/33289527) |
 
 | Minggu, 2017-05-21 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Plua-** ![][flag_ID] | **5** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33315503) |
 | **XK2238** ![][flag_ID] | **5** | 1 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33316897) |
 | **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
@@ -282,13 +282,13 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 ### 16 Besar
 
 | Sabtu, 2017-05-13 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Shirai-** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 2 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33132821) |
 | **Nishizumi** ![][flag_ID] | **5** | 1 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33134539) |
 
 | Minggu, 2017-05-14 |  |  |  |  |
-| --: | :-: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **\_Destroyer\_** ![][flag_ID] | **5** | 4 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33155803) |
 | **pmriva** ![][flag_ID] | **5** | 0 | ![][flag_ID] Wim Are | [#1](https://osu.ppy.sh/community/matches/33162779) |
 | **Lightning Wyvern** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
@@ -298,7 +298,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 ### Babak Grup
 
 | Grup | Sabtu, 2017-05-06 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | Surono ![][flag_ID] | 0 | **4** | ![][flag_ID] Wim Are | -win by default- |
 | D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
 | H | **pmriva** ![][flag_ID] | **4** | 1 | ![][flag_ID] Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32971269) |
@@ -313,7 +313,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 | G | **steven1** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/32977387) |
 
 | Grup | Minggu, 2017-05-07 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/32999232) |
 | E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |
 | G | **steven1** ![][flag_ID] | **4** | 0 | ![][flag_ID] \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/32999034) |

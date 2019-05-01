@@ -296,21 +296,21 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Group | Saturday, 2018-07-14 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C2-E1 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | 0 | 6 | あ | [#1](https://osu.ppy.sh/community/matches/44162477) |
 
 | Group | Sunday, 2018-07-15 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A1-E1 | V E R Y S T R O N G T E A M | 6 | 3 | あ | [#1](https://osu.ppy.sh/community/matches/44186275) |
 
 ### Finals
 
 | Group | Saturday, 2018-07-07 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | E2-E1 | Kong Donkey Donkey Kong | 0 | 6 | あ | [#1](https://osu.ppy.sh/community/matches/43964327) |
 
 | Group | Sunday, 2018-07-08 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D2-F2 | Needs Some Nosso Samba 1212 | 6 | 0 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43983364) |
 | A1-C2 | V E R Y S T R O N G T E A M | 6 | 5 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | [#1](https://osu.ppy.sh/community/matches/43993712) |
 | D2-E1 | Needs Some Nosso Samba 1212 | 2 | 6 | あ | [#1](https://osu.ppy.sh/community/matches/43994016) |
@@ -318,14 +318,14 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 | Group | Saturday, 2018-06-30 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | E1-F1 | あ | 6 | 2 | The Spanish Inquisition | [#1](https://osu.ppy.sh/community/matches/43773323) |
 | A2-C1 | TheLegendary MC + shu | 6 | 3 | Welcome to otu! | [#1](https://osu.ppy.sh/community/matches/43775238) |
 | G1-D1 | Pyon Pyon Usagi | 3 | 6 | AFK | [#1](https://osu.ppy.sh/community/matches/43781238) |
 | C2-E2 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | 6 | 3 | Kong Donkey Donkey Kong | [#1](https://osu.ppy.sh/community/matches/43784445) |
 
 | Group | Sunday, 2018-07-01 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G2-D2 | FLip-FLop | 1 | 6 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43797170) |
 | A1-F2 | V E R Y S T R O N G T E A M | 6 | 0 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43803769) |
 | D1-E1 | AFK | 1 | 6 | あ | [#1](https://osu.ppy.sh/community/matches/43805055) |
@@ -334,14 +334,14 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 | Group | Saturday, 2018-06-23 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B1-F1 | Noko Pan Pan | 2 | 5 | The Spanish Inquisition | [#1](https://osu.ppy.sh/community/matches/43586299) |
 | G2-C2 | FLip-FLop | 3 | 5 | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く | [#1](https://osu.ppy.sh/community/matches/43587705) |
 | A1-E1 | V E R Y S T R O N G T E A M | 5 | 2 | あ | [#1](https://osu.ppy.sh/community/matches/43589211) |
 | A2-E2 | TheLegendary MC + shu | 0 | 5 | Kong Donkey Donkey Kong | [#1](https://osu.ppy.sh/community/matches/43596487) |
 
 | Group | Sunday, 2018-06-24 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G1-F2 | Pyon Pyon Usagi | 2 | 5 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43616715) |
 | A3-D2 | Where's eiuh | 4 | 5 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43616607) |
 | C3-D1 | 迫真osu!taiko部 | 1 | 5 | AFK | [#1](https://osu.ppy.sh/community/matches/43618103) |
@@ -350,7 +350,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Group | Saturday, 2018-06-16 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D1-E2 | AFK | 0 | 5 | Kong Donkey Donkey Kong | [#1](https://osu.ppy.sh/community/matches/43374897) |
 | C3-A2 | 迫真osu!taiko部 | 1 | 5 | TheLegendary MC + shu | [#1](https://osu.ppy.sh/community/matches/43385314) |
 | C1-F2 | Welcome to otu! | 1 | 5 | Roko-Don's Taiko Cheeks | [#1](https://osu.ppy.sh/community/matches/43388732) |
@@ -359,14 +359,14 @@ This competition has come to an end and resulted in the following podium:
 | E1-D2 | あ | 5 | 0 | Needs Some Nosso Samba 1212 | [#1](https://osu.ppy.sh/community/matches/43409660) |
 
 | Group | Sunday, 2018-06-17 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B1-G2 | Noko Pan Pan | 2 | 5 | FLip-FLop | [#1](https://osu.ppy.sh/community/matches/43418934) |
 | G1-B2 | Pyon Pyon Usagi | 5 | 0 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43420521) |
 
 ### Group Stage
 
 | Group | Saturday, 2018-06-09 & Sunday, 2018-06-10 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | V E R Y S T R O N G T E A M | 4 | 0 | Furries of the Storm | [#1](https://osu.ppy.sh/community/matches/43188516) |
 | A | TheLegendary MC + shu | 4 | 1 | Where's eiuh | [#1](https://osu.ppy.sh/community/matches/43189811) |
 | A | TheLegendary MC + shu | 1 | 4 | V E R Y S T R O N G T E A M | [#1](https://osu.ppy.sh/community/matches/43193162) |

@@ -170,18 +170,18 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 ### Finals - Week 2
 
 | No. | Monday, 2018-08-13 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
 
 |  No. | Tuesday, 2018-08-14 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
 | 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
 
 ### Finals - Week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
 | 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
 | 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
@@ -190,14 +190,14 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 ### Semifinals
 
 | No. | Saturday, 2018-08-04 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | -win by default- |
 | 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
 | 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
 | 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | -win by default- |
 
 | No. | Sunday, 2018-08-05 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | -win by default- |
 | 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
 | 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
@@ -205,7 +205,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 ### Quarterfinals
 
 | No. | Saturday, 2018-07-28 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | -win by default- |
 | 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | -win by default- |
 | 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
@@ -213,7 +213,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
 | No. | Sunday, 2018-07-29 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | -win by default- |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
@@ -223,14 +223,14 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 ### Round of 16
 
 | No. | Saturday, 2018-07-21 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | -win by default- |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
 | No. | Sunday, 2018-07-22 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
 | 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
 | 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane | |
