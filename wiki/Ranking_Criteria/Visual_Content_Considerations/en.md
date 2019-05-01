@@ -8,7 +8,7 @@ We ask that you take these considerations into mind when determining whether som
 
 ## Important things to consider
 
-What is acceptable to one person may not be acceptable to another. Discussions surrounding appropriateness of a given piece of visual content often become very heated and are ultimately extremely unproductive.
+At a baseline level, osu! attempts to adhere to the [PEGI 12 classification](https://pegi.info/what-do-the-labels-mean) with some further additions as explained below. Where the two classifications clash, osu!'s "house rules" described in this article always take precedence.
 
 All pieces of visual content should be judged "in a vacuum", as in, they should be judged based on what is immediately presented in the image visually, as if one had no knowledge of their source material or of any other beatmap background.
 
@@ -42,7 +42,7 @@ If a character's age is not immediately obvious in their depiction by virtue of 
 
 This includes questionable depictions of characters drawn in the 'loli' style, regardless of their established narrative age.
 
-Depiction of minors in a sexual context within a drawn medium is considered highly illegal in many places in the world, and as such, it is explicitly forbidden.
+Depiction of minors in a sexual context within any medium is considered highly illegal in most places in the world, and as such, it is explicitly forbidden.
 
 ### Erotic content or graphic sexuality
 
@@ -70,7 +70,7 @@ This includes depictions of desecration involving cultural and religious icons t
 
 ## Appropriate visual content
 
-Ideal content for use in osu! is benign and able to be consumed by an all-ages audience. When in doubt, consult the local classification for such material (if available) - if it is considered as suitable for an audience of the age of 7+ (PEGI 7 or a "G" rating in the US and Commonwealth countries), it should largely be acceptable.
+Ideal content for use in osu! is benign and able to be consumed by an all-ages audience. When in doubt, consult the local classification for such material (if available) - if it is considered as suitable for an audience of the age of 12+ (PEGI 12 or a "PG" rating in the US and Commonwealth countries), it should largely be acceptable.
 
 Visual content **may contain some** of the following aspects in limited quantities, subject to common sense and good faith:
 
@@ -113,3 +113,5 @@ In situations whether the appropriateness of a given piece of visual content is 
 Once a consensus is met and issued, the resulting ruling on its appropriateness is final and can not be challenged under any circumstances, unless edits are made to try and fix the contentious issues cited by the ruling. Any number of these subsequent requests may be made within reason, so long as a good faith effort is being made to try and fix the issues listed.
 
 Should the alteration exceed the limits of common reason or is deemed to be performed in bad faith (such as excessive or poorly-done censoring), the content may be denied from further appraisal requests and thus deemed unusable for use in a beatmap. This is non-contestable and irreversible.
+
+Images which are egregiously inappropriate may not be escalated in this manner at the discretion of the game's administration. Should the administration declare a piece of content as inappropriate, the decision is final and cannot be contested or argued any further - attempts to do so will be met with disciplinary action for all parties involved.
