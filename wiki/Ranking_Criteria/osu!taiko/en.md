@@ -92,8 +92,8 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
-- OD should be 4 or less.
-- HP should be 6 or more. In cases of higher note count, HP could be slightly adjusted to lower than 6.
+- Overall Difficulty should be 4 or less.
+- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
 ### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
@@ -117,8 +117,8 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or less.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 5 or less.
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
@@ -136,8 +136,8 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or less
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 5 or less
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 
@@ -152,8 +152,8 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or more
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 5 or more
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
@@ -161,5 +161,5 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
 
 #### Difficulty Setting Guidelines
-- OD should be more than 5.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+- Overall Difficulty should be more than 5.
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
