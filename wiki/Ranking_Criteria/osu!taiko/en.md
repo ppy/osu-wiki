@@ -18,23 +18,23 @@ Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for al
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
 ### Gameplay elements
-- **Don / Red Note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
-- **Kat / Blue Note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
-- **Big Don / Big Red Note / Finisher Note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
-- **Big Kat / Big Blue Note / Finisher Note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
+- **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
+- **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
+- **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
+- **Big kat / Big blue note / Finisher note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
 - **BPM:** An acronym for “beats per minute” used to determine the tempo of a song.
-- **Slider / Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
+- **Slider/Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
 - **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
-- **Bar Line:** A line that appears on the playfield and determines the start of a measure.
+- **Bar line:** A line that appears on the playfield and determines the start of a measure.
 - **Overlap:** A note that partially or totally covers other note(s) in the playfield.
-- **Rest Moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
+- **Rest moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
 - **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
 - **Snapping:** Timeline tick where an object is placed.
-- **Variable Snapping:** A combination of multiple different ways to snap notes within a short span of time due to the song’s fluctuating nature at that point.
-- **Slider Velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Smooth Slider Velocity Changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
+- **Variable snapping:** A combination of multiple different ways to snap notes within a short span of time due to the song’s fluctuating nature at that point.
+- **Slider velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
+- **Smooth slider velocity changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
 - **Improvisation:** Having more notes than the actual song is providing.
-- **Taiko Template Background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
+- **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
 
 ## General
 
