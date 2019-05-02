@@ -4,6 +4,8 @@ The following are user groups which are made up of the osu! community members th
 
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - [Community Contributors](/wiki/People/Community_Contributors)
+<!-- This should be its own page under People -->
+- [Developers](https://osu.ppy.sh/groups/11)
 - [Global Moderation Team](/wiki/People/Global_Moderation_Team)
 - [Language Moderators](/wiki/People/Language_Moderators)
 - [osu! Alumni](/wiki/People/osu!_Alumni)
