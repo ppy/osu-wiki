@@ -67,12 +67,13 @@ User Groups
 
 | Name | Description |
 | ---- | ----------- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Users going above and beyond the call to ensure your maps get qualified |
+| [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
 | [Developers](https://osu.ppy.sh/groups/11) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy osu!, starting with assuring the quality of beatmaps. |
+| [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Helping you enjoy osu!, starting with assuring the quality of beatmaps |
+| [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
