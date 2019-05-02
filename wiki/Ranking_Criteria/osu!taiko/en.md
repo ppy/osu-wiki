@@ -36,9 +36,13 @@ The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier tha
 - **Improvisation:** Having more notes than the actual song is providing.
 - **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
 
-## General
+## Overall
 
-### Rules
+Overall rules and guidelines apply to every kind of osu!taiko difficulty.
+
+### General
+
+#### Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
@@ -49,7 +53,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **You must not wrongly snap sliderends to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **The drum sampleset must not be used unless default hit sound samples are replaced by custom samples.** The sampleset's default hit sounds do not produce feedback in gameplay.
 
-### Guidelines
+#### Guidelines
 
 Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
