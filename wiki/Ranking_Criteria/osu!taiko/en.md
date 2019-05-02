@@ -14,8 +14,6 @@ Glossary
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Insane
 - ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
 
-Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming conventions.
-
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
 ### Gameplay

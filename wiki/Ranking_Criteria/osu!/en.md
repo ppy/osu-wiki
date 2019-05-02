@@ -16,8 +16,6 @@ Glossary
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
-Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming methods.
-
 - **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
 - **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
 
