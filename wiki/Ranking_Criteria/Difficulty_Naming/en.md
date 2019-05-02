@@ -6,7 +6,7 @@ The purpose of difficulty naming is to inform players how difficult a map is. Th
 
 This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
 
-- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/drain_time), and thus can form a mapset on its own.
+- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/Glossary#drain-time), and thus can form a mapset on its own.
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
