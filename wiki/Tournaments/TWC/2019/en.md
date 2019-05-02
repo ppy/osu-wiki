@@ -94,18 +94,18 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Chile | ![][flag_CL] | ![][flag_DE] | Germany | **15:00 UTC** | 11:00 UTC-04 | 17:00 UTC+02 |
+| Singapore | ![][flag_SG] | ![][flag_AU] | Australia | **8:00 UTC** | 16:00 UTC+08 | 19:00 UTC+11 |
+| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | Spain | ![][flag_ES] | ![][flag_FR] | France | **16:30 UTC** | 18:30 UTC+02 | 18:30 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 20:00 UTC+02 | 19:00 UTC+01 |
+| Chile | ![][flag_CL] | ![][flag_DE] | Germany | **19:30 UTC** | 15:30 UTC-04 | 21:30 UTC+02 |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | **21:00 UTC** | 17:00 UTC-04 | 18:00 UTC-03 |
 
 ### Sunday, 05. May 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **1:00 UTC** | 21:00 (Sat) UTC-04 | 22:00 (Sat) UTC-03 |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **2:30 UTC** | 22:30 (Sat) UTC-04 | 11:30 UTC+09 |
-| Singapore | ![][flag_SG] | ![][flag_AU] | Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
-| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **3:30 UTC** | 23:30 (Sat) UTC-04 | 12:30 UTC+09 |
 | Poland | ![][flag_PL] | ![][flag_JP] | Japan | **13:00 UTC** | 15:00 UTC+02 | 22:00 UTC+09 |
 
 -----------------------
