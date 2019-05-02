@@ -137,7 +137,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ### Group Stage
 
 | Saturday, 2019-04-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_AU] Spartan- | [#1](https://osu.ppy.sh/community/matches/51326729) |
 | **-[DaNieL_TH]-** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51327530) |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51328368) |
@@ -154,7 +154,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_BE] yetii | [#1](https://osu.ppy.sh/community/matches/51345461) |
 
 | Sunday, 2019-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Toaph Daddy** ![][flag_US] | **4** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/51350110) |
 | **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_US] Yyorshire | [#1](https://osu.ppy.sh/community/matches/51351137) |
 | **Toaph Daddy** ![][flag_US] | **4** | 0 | ![][flag_US] TrapsAreNotGay | [#1](https://osu.ppy.sh/community/matches/51351895) |
@@ -185,13 +185,17 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **SoFast** ![][flag_GB] | **4** | 1 | ![][flag_NL] Obligerator | [#1](https://osu.ppy.sh/community/matches/51371998) |
 
 | Monday, 2019-04-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Rem-** ![][flag_ID] | **4** | 0 | ![][flag_SE] Couil | [#1](https://osu.ppy.sh/community/matches/51391833) |
+
+| Wednesday, 2019-05-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Amascite ![][flag_GB] | 0 | **4** | ![][flag_AU] **Rek** | -win by default- |
 
 ### Playoffs
 
 | Saturday, 2019-04-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Logan636** ![][flag_US] | **4** | 3 | ![][flag_UY] AnMaO | [#1](https://osu.ppy.sh/community/matches/50952302) |
 | **PotassiumF** ![][flag_AU] | **4** | 1 | ![][flag_US] DarthSkrill | [#1](https://osu.ppy.sh/community/matches/50957245) |
 | **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Benzopirene | [#1](https://osu.ppy.sh/community/matches/50962017) |
@@ -211,7 +215,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **Psychodic** ![][flag_US] | **4** | 0 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/50984011) |
 
 | Sunday, 2019-04-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **EtienneXC** ![][flag_US] | **4** | 0 | ![][flag_PH] Cohue | [#1](https://osu.ppy.sh/community/matches/50986651) |
 | **afrono** ![][flag_US] | **4** | 0 | ![][flag_PH] OWWSU | -win by default- |
 | **samuelhklumpers** ![][flag_NL] | **4** | 2 | ![][flag_GB] BlankPxl | [#1](https://osu.ppy.sh/community/matches/50991705) |
@@ -227,20 +231,20 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **SoFast** ![][flag_GB] | **4** | 0 | ![][flag_CA] ToaphFanGirl | -win by default- |
 
 | Monday, 2019-04-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **---Rose---** ![][flag_US] | **4** | 1 | ![][flag_US] emiIio | [#1](https://osu.ppy.sh/community/matches/51014338) |
 
 | Wednesday, 2019-04-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Xonica** ![][flag_GB] | **4** | 0 | ![][flag_NL] 2fast4you98 | -win by default- |
 
 | Friday, 2019-04-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_US] ---Rose--- | [#1](https://osu.ppy.sh/community/matches/51109005) |
 | **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/51121982) [#2](https://osu.ppy.sh/community/matches/51123376) |
 
 | Saturday, 2019-04-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | -Lethal- ![][flag_US] | 1 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/51141708) |
 | **Malox** ![][flag_DE] | **4** | 0 | ![][flag_FR] CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/51147833) |
 | **Rek** ![][flag_AU] | **4** | 0 | ![][flag_PH] SurfChu85 | [#1](https://osu.ppy.sh/community/matches/51148853) |
@@ -259,7 +263,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **Yyorshire** ![][flag_US] | **4** | 0 | ![][flag_US] afrono | [#1](https://osu.ppy.sh/community/matches/51167073) |
 
 | Sunday, 2019-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_NL] samuelhklumpers | [#1](https://osu.ppy.sh/community/matches/51179766) |
 | **sleetgirl** ![][flag_JP] | **4** | 0 | ![][flag_NL] Bakuretsue | -win by default- |
 | **Mage** ![][flag_RU] | **4** | 0 | ![][flag_SG] Raveille | [#1](https://osu.ppy.sh/community/matches/51181617) |
