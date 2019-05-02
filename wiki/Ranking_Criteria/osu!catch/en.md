@@ -10,11 +10,11 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 
 ### Difficulty Names
 
-- ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup**. Easy
-- ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad**. Normal
-- ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter**. Hard
-- ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain**. Insane
-- ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose**. Expert
+- ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup:** Easy
+- ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad:** Normal
+- ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter:** Hard
+- ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain:** Insane
+- ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose:** Expert
 
 ### Gameplay
 
