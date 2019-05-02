@@ -96,7 +96,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ### Group Stage
 
-- Freemod
+- FreeMod
   - [O2i3 - Ooi [Game Edit] (qqqant) \[Party hard\]](https://osu.ppy.sh/beatmapsets/932214#mania/1946380)
   - [Paramore - Ignorance (puxtu) \[Stranger\]](https://osu.ppy.sh/beatmapsets/534204#mania/1131628)
   - [Anamanaguchi - SPF 420 (juankristal) \[Introduction\]](https://osu.ppy.sh/beatmapsets/733019#mania/1546477)
@@ -111,7 +111,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ### Playoffs
 
-- Freemod
+- FreeMod
   - [Silentroom - Nhelv (Asherz007) \[Advanced\]](https://osu.ppy.sh/beatmapsets/835408#mania/1768742)
   - [Hideyuki Ono x 96 x Yoshihiko Koezuka - LEMON & SALT (AutotelicBrown) \[salty lmao\]](https://osu.ppy.sh/beatmapsets/938439#mania/1960306)
   - [Kano - Paranoia (Eraser) \[Hard\]](https://osu.ppy.sh/beatmapsets/581065#mania/1230078)
@@ -126,7 +126,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ### Qualifiers
 
-- Freemod
+- FreeMod
   - [xarva - easymotion (zero2snow / Guilhermeziat) \[Stage 1: Estimate\]](https://osu.ppy.sh/beatmapsets/948786#mania/1981394)
   - [Laszlo - Sphere (Guilhermeziat) \[Stage 2: Invariance\]](https://osu.ppy.sh/beatmapsets/948822#mania/1981443)
   - [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
