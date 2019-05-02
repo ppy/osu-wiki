@@ -87,6 +87,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - Combos should not exceed 8 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/1 pattern - 1/2 and/or 1/3 patterns can be used sparingly
+
+#### Difficulty Setting Guidelines
+
 - Approach Rate / Overall Difficulty should be between 4-6
 - HP drain should be 4 or less
 - Circle Size should be between 2-3
@@ -109,6 +112,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
 - Basic dashes of different beat snap should not be used between consecutive fruits.
 - Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
+
+#### Difficulty Setting Guidelines
+
 - Approach Rate / Overall Difficulty should be between 6-7
 - HP drain should be between 4-5
 - Circle Size should be between 2.5-3.5
@@ -135,6 +141,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3x is recommended instead.
 - Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
+
+#### Difficulty Setting Guidelines
+
 - Approach Rate / Overall Difficulty should be between 7-8.5
 - HP drain should be between 5-6
 - Circle Size should be between 3-4
@@ -155,6 +164,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
 - Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).
+
+#### Difficulty Setting Guidelines
+
 - Approach Rate/Overall Difficulty should be between 7-9
 - HP drain should be between 6-7
 - Circle Size should be between 3-5
@@ -173,6 +185,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
 - 1/8 and higher hyperdashes should not be used between consecutive object pairs.
 - Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used in conjunction with hyperdashes.
+
+#### Difficulty Setting Guidelines
+
 - Approach Rate/Overall Difficulty should be between 8-10
 - HP drain should be between 6-8
 - Circle Size should be between 3-6
