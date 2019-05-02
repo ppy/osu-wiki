@@ -31,8 +31,6 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 - **Higher-snapped dash/hyperdash:** Any dash or hyperdash that doesn’t meet the requirement to be a basic one, i.e. the time between the objects is less than the threshold to be classified as basic.
 - **Walk:** Any distance between two objects where no dash is needed to catch both.
 
-------------------------------------------------------------------------
-
 Overall
 -----------
 
@@ -72,8 +70,6 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 #### Guidelines
 
 - **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
-
-------------------------------------------------------------------------
 
 Difficulty-specific
 --------------------
