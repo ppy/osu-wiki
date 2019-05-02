@@ -1,10 +1,8 @@
-osu!catch
-===========
+# osu!catch
 
 The **osu!catch Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
-Glossary
----------
+## Glossary
 
 These terms are frequently appearing when getting in touch with osu!catch difficulties and are also used within the Ranking Criteria.
 
@@ -28,11 +26,10 @@ These terms are frequently appearing when getting in touch with osu!catch diffic
 - **Trigger distance:** The minimum spacing between two objects at which a hyperdash is generated between them.
 - **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
 - **Basic dash/hyperdash:** Any dash or hyperdash whose time between fruits is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
-- **Higher-snapped dash/hyperdash:** Any dash or hyperdash that doesn’t meet the requirement to be a basic one, i.e. the time between the objects is less than the threshold to be classified as basic.
+- **Higher-snapped dash/hyperdash:** Any dash or hyperdash that doesn't meet the requirement to be a basic one, i.e. the time between the objects is less than the threshold to be classified as basic.
 - **Walk:** Any distance between two objects where no dash is needed to catch both.
 
-Overall
------------
+## Overall
 
 Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
@@ -71,8 +68,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 - **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
 
-Difficulty-specific
---------------------
+## Difficulty-specific
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 

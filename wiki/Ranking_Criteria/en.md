@@ -1,5 +1,4 @@
-Ranking Criteria
-=================
+# Ranking Criteria
 
 *For mode specific criteria, see: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)*
 
@@ -7,9 +6,7 @@ For the record, these include the recent changes made [from the discussion forum
 
 **Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in osu!.**
 
-
-Glossary
---------
+## Glossary
 
 ### General Terms
 
@@ -77,7 +74,6 @@ Glossary
 - **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
 - **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
-
 ## General
 
 ### Rules
@@ -136,7 +132,9 @@ Glossary
 ## Metadata
 
 ### Rules
+
 #### Technical
+
 - **Metadata must be consistent across all difficulties of a beatmapset.**
 - **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
@@ -147,6 +145,7 @@ Glossary
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 
 #### Standardisation
+
 - **Commas, `vs.`, `&`, `feat.`, `CV:`, etc. must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
 - **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying a featured artist in the song.**
@@ -158,6 +157,7 @@ Glossary
 - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
 
 #### Romanisation
+
 - **Artist names are to be romanised in the order they are printed in the unicode fields.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
@@ -170,15 +170,18 @@ Glossary
     - If the song falls into neither category, this choice is left up to the mapper's discretion.
 
 ### Guidelines
+
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
 
 #### Technical
+
 - **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
 - **Additional Tags: It is recommended to include tags such as the language(s), genre(s) of the track in the map, related artists, and whatever may aid a player to find the map.** Terms already in the primary metadata (Artist, Title, Source) should not be included in tags.
 
 #### Standardisation
+
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **If a series applicable to be used as a source is clustered into multiple sub-series, the most precise label should be prioritised.**
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
@@ -186,13 +189,13 @@ Glossary
 - **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring whitespaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
 
 ### Allowances
+
 This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the Ranking Criteria.
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
 - **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
 - **If a mapset track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
-
 
 ## Timing
 
@@ -215,7 +218,6 @@ This category contains explicit allowance statements of concepts and rules that 
 ## Audio
 
 ### Rules
-
 
 - **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
