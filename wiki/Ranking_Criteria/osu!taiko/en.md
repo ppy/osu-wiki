@@ -6,7 +6,8 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 Glossary
 --------------
 
-### Difficulty Naming
+### Difficulty Names
+
 - ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Easy
 - ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
 - ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Hard
@@ -17,7 +18,8 @@ Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for al
 
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
-### Gameplay elements
+### Gameplay
+
 - **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
 - **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
 - **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
