@@ -188,7 +188,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 ### Round of 16
 
 | Saturday, 2019-04-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
 | **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
 | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/51336461) |
@@ -196,7 +196,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
 
 | Sunday, 2019-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51363192) |
@@ -204,7 +204,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 ### Group Stage
 
 | Saturday, 2019-04-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
 | Indonesia ![][flag_ID] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51148772) |
@@ -229,7 +229,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
 | Sunday, 2019-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
 | Chile ![][flag_CL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51172513) |
