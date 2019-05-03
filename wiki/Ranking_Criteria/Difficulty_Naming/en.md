@@ -1,15 +1,15 @@
 # Difficulty Naming
-	
+
 The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
 
 ## Default
 
 This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
 
-- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/drain_time), and thus can form a mapset on its own.
+- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/Glossary#drain-time), and thus can form a mapset on its own.
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
- 
+
 - ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
@@ -102,7 +102,7 @@ The difficulty spread would follow the Default difficulty naming scheme, with th
 
 ## Widely accepted alternatives
 
-The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
+The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
