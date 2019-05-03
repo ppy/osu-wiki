@@ -46,7 +46,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***), is a 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
 - [Livestream](https://www.twitch.tv/osuliveph)
-- [SOFT Discord server](https://discord.gg/9ZUMmwS)
+- [osu! Philippines Discord server](https://discord.gg/9ZUMmwS)
 
 ------------------------
 
