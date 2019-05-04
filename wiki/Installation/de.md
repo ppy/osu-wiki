@@ -1,6 +1,6 @@
 # Installation
 
-*Siehe auch: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->
+*Siehe auch: [Installation/macOS](/wiki/Installation/macOS)* <!-- und [Installation/Linux](/wiki/Installation/Linux)* -->
 
 Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) zu diesem Thema.
 
