@@ -9,14 +9,14 @@ tags:
 
 > Be the **MAJESTIC** Maestro.
 
-The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***), is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage.
+The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first installment of the osu! Philippines Nationals.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-05-04/2019-05-18 |
-| Qualifiers Showcase | 2019-05-26 19:00 UTC+8 |
+| Qualifiers Showcase | 2019-05-26 (19:00 UTC+8) |
 | Qualifiers | 2019-06-01/2019-06-02 |
 | Playoffs | 2019-06-08/2019-06-09 |
 | Group Stage | 2019-06-15/2019-06-16 |
@@ -32,14 +32,14 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***), is a 
 ## Organisation
 
 | Position | Member(s) |
-| --- | --- |
+| :-- | :-- |
 | Host | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Coordinator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) |
 | Map Selectors | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Match Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
+| Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | Commentators | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [x y a r o](https://osu.ppy.sh/users/7626994)  |
-| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Graphic Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
@@ -48,27 +48,27 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***), is a 
 - [Livestream](https://www.twitch.tv/osuliveph)
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
-------------------------
+---
 
 ## Participants
 
-Qualified participants will be added in this section.
+*Qualified participants will be added in this section.*
 
-------------------------
+---
 
 ## Mappools
 
-Mappools will be revealed one week in advance of each stage.
+*Mappools will be revealed one week in advance of each stage.*
 
-------------------------
+---
 
 ## Match Results
 
-All match results will be added in this section.
+*All match results will be added in this section.*
 
-------------------------
+---
 
-## Rules
+## Rulesset
 
 ### Tournament Organisation
 
