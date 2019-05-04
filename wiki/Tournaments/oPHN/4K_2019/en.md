@@ -68,7 +68,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ---
 
-## Rulesset
+## Ruleset
 
 ### Tournament Organisation
 
