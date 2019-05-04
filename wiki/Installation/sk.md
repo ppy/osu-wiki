@@ -1,6 +1,6 @@
 # Inštalácia
 
-<!-- *See also: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux)* -->
+*See also: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->
 
 Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [osu!academy](/wiki/osu!academy) má [video návod](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ), ktorý vysvetluje ako nainštalovať osu! na Windows.
 
