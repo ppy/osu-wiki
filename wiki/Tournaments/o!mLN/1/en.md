@@ -7,7 +7,7 @@ tags:
 
 ![o!mLN Logo](img/logo.png)
 
-The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination one-on-one osu!mania 4K tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the first installment of the osu!mania LN Tournament Tournaments.
+The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination one-on-one osu!mania 4K tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the first installment of the osu!mania LN Tournaments.
 
 ## Tournament Schedule
 
