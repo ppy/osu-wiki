@@ -47,7 +47,7 @@ ONLYWONDER is the last remaining piece without the leaderboard of n0ah's Frederi
 
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence](https://osu.ppy.sh/beatmapsets/94671#osu) by [ignorethis](https://osu.ppy.sh/users/27343)  
 165 BPM, 1:57 | 7.08★  
-The \[Hyper\] and \[Taiko Oni\] difficulties are \*not\* being nominated for Loved.  
+The \[Hyper\] and \[Taiko Oni\] difficulties are *not* being nominated for Loved.  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 If you're looking for a calm and relaxing map to pass the day, you must have taken a wrong turn. Those who recognize this from a previous Loved map by [Flower](https://osu.ppy.sh/users/1033017) will know of the song's complex nature and alt styled patterns. Submitted in 2013 this map by ignorethis pushed this idea a little further, with smaller circles, denser patterns, and higher star ratings. Many players will find themselves struggling to even pass this map due to its unconventionally angled jumps and streams.
@@ -142,7 +142,7 @@ Feint - Tower Of Heaven (You Are Slaves) is a classic stream map that I'm sure p
 
 [UNDEAD CORPORATION - Flowering Night Fever](https://osu.ppy.sh/beatmapsets/414317#taiko) by [Ekoro](https://osu.ppy.sh/users/284905)  
 290 BPM, 3:52 | 8.24★  
-The \[Electrical Freeze\] difficulty is \*not\* being nominated for Loved.  
+The \[Electrical Freeze\] difficulty is *not* being nominated for Loved.  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
 This week, we have a high-BPM map that even the best may stumble at.  
