@@ -47,7 +47,7 @@ ONLYWONDER is the last remaining piece without the leaderboard of n0ah's Frederi
 
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence](https://osu.ppy.sh/beatmapsets/94671#osu) by [ignorethis](https://osu.ppy.sh/users/27343)  
 165 BPM, 1:57 | 7.08★  
-The \[Hyper\] and \[Taiko Oni\] difficulties are *not* being nominated for Loved.  
+The [Hyper] and [Taiko Oni] difficulties are *not* being nominated for Loved.  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 If you're looking for a calm and relaxing map to pass the day, you must have taken a wrong turn. Those who recognize this from a previous Loved map by [Flower](https://osu.ppy.sh/users/1033017) will know of the song's complex nature and alt styled patterns. Submitted in 2013 this map by ignorethis pushed this idea a little further, with smaller circles, denser patterns, and higher star ratings. Many players will find themselves struggling to even pass this map due to its unconventionally angled jumps and streams.
@@ -58,7 +58,7 @@ If you're looking for a calm and relaxing map to pass the day, you must have tak
 200 BPM, 4:20 | 8.01★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-DoKito is the mapper of the first and most popular mapset of [Yomi yori](https://osu.ppy.sh/beatmapsets/461744#osu/1031991) which, at the time, pushed the boundaries of high star rating in the ranked section. Before this however, he had a history of submitting maps that were common to reach star ratings as high as 8 stars. This map of t+pazolite's "Bad Boy's missa" is one of them. Clocking in just over 8\*, this map became a staple amongst top players for its onslaught of full screen jumps and extremely spaced streams. After getting more attention through impressive plays from [Cookiezi](https://www.youtube.com/watch?v=PU\_ZPE10yNY) and [Vaxei](https://www.youtube.com/watch?v=UpPNvDHggNI), the map has accumulated over 70 favorites and now sits here on Project Loved for your vote. Check it out and tell us what you think!
+DoKito is the mapper of the first and most popular mapset of [Yomi yori](https://osu.ppy.sh/beatmapsets/461744#osu/1031991) which, at the time, pushed the boundaries of high star rating in the ranked section. Before this however, he had a history of submitting maps that were common to reach star ratings as high as 8 stars. This map of t+pazolite's "Bad Boy's missa" is one of them. Clocking in just over 8\*, this map became a staple amongst top players for its onslaught of full screen jumps and extremely spaced streams. After getting more attention through impressive plays from [Cookiezi](https://www.youtube.com/watch?v=PU_ZPE10yNY) and [Vaxei](https://www.youtube.com/watch?v=UpPNvDHggNI), the map has accumulated over 70 favorites and now sits here on Project Loved for your vote. Check it out and tell us what you think!
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/osu/5-blue-army.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -142,7 +142,7 @@ Feint - Tower Of Heaven (You Are Slaves) is a classic stream map that I'm sure p
 
 [UNDEAD CORPORATION - Flowering Night Fever](https://osu.ppy.sh/beatmapsets/414317#taiko) by [Ekoro](https://osu.ppy.sh/users/284905)  
 290 BPM, 3:52 | 8.24★  
-The \[Electrical Freeze\] difficulty is *not* being nominated for Loved.  
+The [Electrical Freeze] difficulty is *not* being nominated for Loved.  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
 This week, we have a high-BPM map that even the best may stumble at.  
@@ -160,7 +160,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 150 BPM, 4:56 | 5.92★, 5.92★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-The song probably every osu! player knows, "Bad apple!!", only it is remixed by Nardis. \[-naniwa-\] has made quite a few maps over the years they have been playing and this being the first of their maps being nominated for the loved category. The map consists of two difficulties, where the only change is the approach rate. The difficulty with the lower approach rate might be more accessible to toy around with some mods such as Hidden and Doubletime. If you're not very adept with mods, the map will still be a fun challenge to beat to either just pass or full combo.
+The song probably every osu! player knows, "Bad apple!!", only it is remixed by Nardis. [-naniwa-] has made quite a few maps over the years they have been playing and this being the first of their maps being nominated for the loved category. The map consists of two difficulties, where the only change is the approach rate. The difficulty with the lower approach rate might be more accessible to toy around with some mods such as Hidden and Doubletime. If you're not very adept with mods, the map will still be a fun challenge to beat to either just pass or full combo.
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/catch/2-dan-ctb-1st-pack.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
