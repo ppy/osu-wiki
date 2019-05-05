@@ -75,41 +75,41 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 #### General Eligibility
 
 - Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament.
-- Staff Members who are not part of the Mappool Selectors and Referees are permitted to join the tournament. 
+- Staff Members who are not part of the Mappool Selectors and Referees are permitted to join the tournament.
 
 #### Round Overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
-  - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song 
-  - **Playoffs Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song 
-  - **Group Stage**: 12 song mappool, best of 9 (first to 5), one tiebreaker song 
-  - **Quarterfinals and Semifinals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song 
+  - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
+  - **Playoffs Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song
+  - **Group Stage**: 12 song mappool, best of 9 (first to 5), one tiebreaker song
+  - **Quarterfinals and Semifinals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals Weeks 1 and 2**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 - All matches held are using a 1 player versus 1 player rule.
-- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented. 
+- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
 #### Qualification Process
 
-- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage. 
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 
-- The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament. 
+- The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
 
-- All four notecharts will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide zero opportunity for advantage through familiarity. 
+- All four notecharts will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide zero opportunity for advantage through familiarity.
 
-- All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score. 
+- All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score.
 
-- Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well! 
+- Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 
-- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage. 
+- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
 #### Post-Qualification
 
-- The round after the qualification stage (also known as the play-offs stage) is a single elimination stage with specific rules. 
+- The round after the qualification stage (also known as the play-offs stage) is a single elimination stage with specific rules.
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocols to follow.
-  - **1st-4th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage. 
-  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage. 
-  - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage. 
+  - **1st-4th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
+  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
+  - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **25th-32nd seeds**: Players within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a player in this seed group. In particular, their opponent's seed will be `(57 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 5th to 8th seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
 #### Group Stage
@@ -138,7 +138,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 - Players who are in the winner's bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 
-- Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament. 
+- Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
 ### Tournament Play
 
@@ -185,7 +185,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 - Maps that have a beatmap listing but cannot be downloaded are not allowed for the purpose of warming up.
 
-- Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387). 
+- Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387).
 
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 
@@ -197,7 +197,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken. 
+- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
 
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
 
