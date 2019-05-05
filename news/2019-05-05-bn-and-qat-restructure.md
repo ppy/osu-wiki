@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BN and QAT Restructure"
-date: 2019-05-01 10:00:00 +0000
+date: 2019-05-05 10:00:00 +0000
 ---
 
 Changes to the ranking process are nigh! With recent discussions about [changes to the Quality Assurance Team and Beatmap Nominators](https://osu.ppy.sh/community/forums/topics/862002), we are proud to present to you the following changes.
