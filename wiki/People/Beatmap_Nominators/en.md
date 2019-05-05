@@ -11,12 +11,12 @@ The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [b
 Roles and Responsibilities
 --------------------------
 
-Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. They are also responsible for disqualifying beatmaps in the qualified section that are found to have significant issues.
+Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Full members of the Beatmap Nominators are also responsible for disqualifying beatmaps in the qualified section that are found to have significant issues, while probationary Beatmap Nominators focus solely on nomination.
 
 Becoming a Beatmap Nominator
 ----------------------------
 
-With the change to the team in May 2019, joining the Beatmap Nominators became a lot easier than it used to be in the past. Applications to join can be submitted on [this website](http://bn.mappersguild.com). 
+With the change to the team in May 2019, joining the Beatmap Nominators became a lot easier than it used to be in the past. Applications to join can be submitted on [this website](http://bn.mappersguild.com/bnapps). 
 
 Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90 day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
@@ -31,7 +31,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 + A mod post qualifies as one if it has received a Kudosu and has been created within the 3 months.
 + Since November 2017, beatmaps affected under Modding V2 had a reward system implemented based on upvotes/downvotes. The "mod post" equivalent in this case is a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote.
 + The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
-+ The point in time at which the Kudosu has been awarded to your mod post **does** matter. 
++ The point in time at which the Kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events. 
 
 ### How the Required Minimum Score is Calculated
 + This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
@@ -68,7 +68,7 @@ Team Members
 
 The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
 
-_Please note: All BN speak English unless otherwise noted._ Link to the [user group page](https://osu.ppy.sh/groups/28).
+_Please note: All BN speak English unless otherwise noted._ Link to the [full user group page](https://osu.ppy.sh/groups/28) and [probationary user group page](https://osu.ppy.sh/groups/32).
 
 ### osu!standard
 
