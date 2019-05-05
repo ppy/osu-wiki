@@ -50,7 +50,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 ## Aggiungere skin
 
-*Vedi anche: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
+*Vedi anche: [Skins](/wiki/Skins) e [Skinning](/wiki/Skinning)*
 
 1. Vai ai [skinning subforums](https://osu.ppy.sh/community/forums/15) e cerca una skin che ti piace.
 2. Una volta trovata la skin, scaricala.
