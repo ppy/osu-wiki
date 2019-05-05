@@ -250,6 +250,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
 
+### ![](/wiki/shared/mode/mania.png) osu!mania LN Tournament
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
@@ -279,9 +285,9 @@ Unofficial tournaments/competitions hosted by the communities.
 See also
 --------
 
--   [Tournament articles template](/wiki/Tournaments/Template)
--   [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
+- [Tournament articles template](/wiki/Tournaments/Template)
+- [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+- [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
