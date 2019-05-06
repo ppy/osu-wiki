@@ -163,14 +163,6 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 
 This is the song probably every osu! player knows, "Bad apple!!", only it is remixed by Nardis. [-naniwa-] has made quite a few maps over the years they have been playing, and this is the first of their maps being nominated for the Loved category. The map consists of two difficulties, where the only change is the approach rate. The difficulty with the lower approach rate might be more accessible to toy around with some mods such as Hidden and DoubleTime. If you're not very adept with mods, the map will still be a fun challenge to either just pass or go for the full combo.
 
-[![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/catch/2-dan-ctb-1st-pack.jpg)](https://osu.ppy.sh/community/forums/topics/904545)
-
-[Various Artists - Dan \~ CTB \~ 1st Pack](https://osu.ppy.sh/beatmapsets/783099#fruits) by [Emiru](https://osu.ppy.sh/users/3306180) et al.  
-163 BPM, 7:57 | 3.93★ – 6.12★  
-*description written by [Sartan](https://osu.ppy.sh/users/4100941)*
-
-You have been asking for it... and I am happy to tell you that it is *finally* time for some of Emiru's Dan courses to get some love! Here we have Emiru's first pack, which includes the first five Dans. Each difficulty includes a jump map, a tech map, a speed map and a boss map mixed into one song. Obviously, there is plenty to play for players at any level and possibility for mod application for most good players on most of the difficulties. As there are roughly 42 minutes worth of songs, I won't go into detail for any of them here, and I highly recommend you try out all of the difficulties this time around!
-
 ## <a name="osumania" id="osumania"></a>osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
