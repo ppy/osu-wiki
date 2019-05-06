@@ -273,33 +273,33 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Sunday, 2018-08-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Foxerus** ![][flag_BR] | **7** | 2 | ![][flag_MY] cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/45434676) |
 
 ### Finals
 
 | Saturday, 2018-08-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/45176380) |
 
 | Sunday, 2018-08-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Foxerus** ![][flag_BR] | **7** | 0 | ![][flag_MX] Ammy | [#1](https://osu.ppy.sh/community/matches/45232731) |
 
 | Monday, 2018-08-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Ammy ![][flag_MX] | 1 | **7** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45244189) |
 
 ### Semifinals
 
 | Saturday, 2018-08-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Beat43210 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44956206) |
 | hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | -win by default- |
 | Yoshi-GH ![][flag_FR] | 1 | **6** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44985615) |
 
 | Sunday, 2018-08-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
 | Yoshi-GH ![][flag_FR] | 4 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45008950) |
 | hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
@@ -307,14 +307,14 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 | Saturday, 2018-08-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Briesmas ![][flag_JP] | 0 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44750865) |
 | Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | -win by default- |
 | Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44767415) |
 | **Ammy** ![][flag_MX] | **5** | 4 | ![][flag_GB] Braixen- | [#1](https://osu.ppy.sh/community/matches/44778173) |
 
 | Sunday, 2018-08-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | -win by default- |
 | Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | -win by default- |
 | Kith190 ![][flag_IT] | 0 | **5** | ![][flag_BR] **Kyoumo** | -win by default- |
@@ -323,11 +323,11 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Friday, 2018-07-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Kith190** ![][flag_IT] | **5** | 1 | ![][flag_EC] Gamelan4 | [#1](https://osu.ppy.sh/community/matches/44547136) |
 
 | Saturday, 2018-07-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44561379) |
 | Beat43210 ![][flag_AU] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44561379) |
 | **Yoshi-GH** ![][flag_FR] | **5** | 3 | ![][flag_PL] Wolfgang | [#1](https://osu.ppy.sh/community/matches/44565192) |
@@ -335,7 +335,7 @@ This competition has come to an end and resulted in the following podium:
 | Ali161102 ![][flag_GB] | 2 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44574494) |
 
 | Sunday, 2018-07-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | cdhsausageboy ![][flag_MY] | 0 | **5** | ![][flag_JP] **Briesmas** | -win by default- |
 | cactusthegreat ![][flag_AU] | 1 | **5** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44583107) |
 | Tsubasa2 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44584255) |
@@ -346,13 +346,13 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Group | Friday, 2018-07-13 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | H | **Braixen-** ![][flag_JP] | **4** | 1 | ![][flag_HK] Akali393394 | [#1](https://osu.ppy.sh/community/matches/44127791) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/44128713) |
 | B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | -win by default- |
 
 | Group | Saturday, 2018-07-14 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | -win by default- |
 | B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | -win by default- |
 | B | Gamelan4 ![][flag_EC] | 1 | **4** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44151173) |
@@ -365,7 +365,7 @@ This competition has come to an end and resulted in the following podium:
 | B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | -win by default- |
 
 | Group | Sunday, 2018-07-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
 | E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | -win by default- |
@@ -379,7 +379,7 @@ This competition has come to an end and resulted in the following podium:
 | D | **-Ryan** ![][flag_GB] | **4** | 2 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/community/matches/44198404) |
 
 | Group | Monday, 2018-07-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Ammy** ![][flag_MX] | **4** | 3 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/44205539) |
 | F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_JP] Briesmas | -win by default- |
 | A | **Kith190** ![][flag_IT] | **4** | 3 | ![][flag_AU] cactusthegreat | [#1](https://osu.ppy.sh/community/matches/44215001) |
@@ -387,11 +387,11 @@ This competition has come to an end and resulted in the following podium:
 | A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | -win by default- |
 
 | Group | Friday, 2018-07-20 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G | **Kyoumo** ![][flag_BR] | **4** | 1 | ![][flag_CL] ArmoredReaper | [#1](https://osu.ppy.sh/community/matches/44342730) |
 
 | Group | Saturday, 2018-07-21 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | -win by default- |
 | F | LordAverage ![][flag_AU] | 1 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44352950) |
 | E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44355239) |
@@ -408,7 +408,7 @@ This competition has come to an end and resulted in the following podium:
 | H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44375561) |
 
 | Group | Sunday, 2018-07-22 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | E | **cdhsausageboy** ![][flag_MY] | **4** | 2 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/44391216), [#2](https://osu.ppy.sh/community/matches/44391842) |
 | F | LordAverage ![][flag_AU] | 0 | **4** | ![][flag_AU] **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/44385177) |
 | H | Akali393394 ![][flag_HK] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44393956) |

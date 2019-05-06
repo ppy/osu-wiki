@@ -329,31 +329,31 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Sunday, 2018-04-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41674456) |
 
 ### Finals
 
 | Saturday, 2018-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](https://osu.ppy.sh/community/matches/41279760) |
 | **shen mapo** | **6** | 4 | Azer | [#1](https://osu.ppy.sh/community/matches/41281118) |
 
 | Sunday, 2018-04-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41302761) |
 | **Shigure Lovers** | **6** | 0 | GOMEN JEFFREY | [#1](https://osu.ppy.sh/community/matches/41312707) |
 | **black dogleg** | **6** | 1 | shen mapo | [#1](https://osu.ppy.sh/community/matches/41317121) |
 
 | Saturday, 2018-04-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **7** | 5 | Shigure Lovers | [#1](https://osu.ppy.sh/community/matches/41475308) |
 | **Floating up** | **7** | 5 | black dogleg | [#1](https://osu.ppy.sh/community/matches/41492413) |
 
 ### Semifinals
 
 | Saturday, 2018-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Gekidan PIKORI** | **6** | 3 | Sexy Snowmen | [#1](https://osu.ppy.sh/community/matches/41082092) |
 | no gugu | 2 | **6** | **Sayuri best girl** | [#1](https://osu.ppy.sh/community/matches/41085298) |
 | **Rubber Conquest** | **6** | 0 | Shigure Lovers | [#1](https://osu.ppy.sh/community/matches/41086653) |
@@ -362,7 +362,7 @@ This competition has come to an end and resulted in the following podium:
 | hotel for lolis | 2 | **6** | **Gucci Gang** | [#1](https://osu.ppy.sh/community/matches/41102586), [#2](https://osu.ppy.sh/community/matches/41103320) |
 
 | Sunday, 2018-03-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | black dogleg | 2 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/41108342) |
 | **Azer** | **6** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/41117934) |
 | Stoof & Friends | 1 | **6** | **GOMEN JEFFREY** | [#1](https://osu.ppy.sh/community/matches/41119369) |
@@ -373,7 +373,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 | Saturday, 2018-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **no gugu** | **6** | 0 | Yomi yori kikoyu | -win by default- |
 | **Shigure Lovers** | **6** | 3 | Azer | [#1](https://osu.ppy.sh/community/matches/40908357) |
 | **black dogleg** | **6** | 1 | OwO | [#1](https://osu.ppy.sh/community/matches/40914420) |
@@ -381,7 +381,7 @@ This competition has come to an end and resulted in the following podium:
 | **LesProDeCoc** | **6** | 2 | BüroklammerCarry | [#1](https://osu.ppy.sh/community/matches/40916651) |
 
 | Sunday, 2018-03-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 0 | shen mapo | [#1](https://osu.ppy.sh/community/matches/40926538) |
 | ANGERY JEFFREY | 1 | **6** | **hotel for lolis** | [#1](https://osu.ppy.sh/community/matches/40927694) |
 | **Floating up** | **6** | 1 | Stoof & Friends | [#1](https://osu.ppy.sh/community/matches/40928722) |
@@ -393,7 +393,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Saturday, 2018-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **5** | 0 | lotus top 1 br | [#1](https://osu.ppy.sh/community/matches/40718635) |
 | GOMEN JEFFREY | 4 | **5** | **shen mapo** | [#1](https://osu.ppy.sh/community/matches/40718778) |
 | ANGERY JEFFREY | 0 | **5** | **Azer** | [#1](https://osu.ppy.sh/community/matches//40720572) |
@@ -402,7 +402,7 @@ This competition has come to an end and resulted in the following podium:
 | Gekidan PIKORI | 3 | **5** | **Stoof & Friends** | [#1](https://osu.ppy.sh/community/matches/40724876) |
 
 | Sunday, 2018-03-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | nvnvnvnvn | [#1](https://osu.ppy.sh/community/matches/40726425) |
 | **black dogleg** | **5** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/40732922) |
 | **Yomi yori kikoyu** | **5** | 0 | i got nothing | [#1](https://osu.ppy.sh/community/matches/40735562) |
@@ -412,7 +412,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 | Saturday, 2018-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | Yomi yori kikoyu | [#1](https://osu.ppy.sh/community/matches/40532109) |
 | **Gekidan PIKORI** | **5** | 1 | cringepeek | [#1](https://osu.ppy.sh/community/matches/40534186) |
 | **lotus top 1 br** | **5** | 4 | Beginner's Luck | [#1](https://osu.ppy.sh/community/matches/40536364) |
@@ -421,7 +421,7 @@ This competition has come to an end and resulted in the following podium:
 | **nvnvnvnvn** | **5** | 0 | i got nothing | [#1](https://osu.ppy.sh/community/matches/40548278) |
 
 | Sunday, 2018-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **5** | 0 | hotel for lolis | [#1](https://osu.ppy.sh/community/matches/40556183) |
 | hotel for dogs | 2 | **5** | **no gugu** | [#1](https://osu.ppy.sh/community/matches/40557149) |
 | **GOMEN JEFFREY** | **5** | 1 | Anime Tiddles | [#1](https://osu.ppy.sh/community/matches/40563487) |
@@ -436,7 +436,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Saturday, 2018-02-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Doki-Doki Osu Club** | **4** | 0 | [#1](https://osu.ppy.sh/community/matches/40145386) |
 | **azur lane** | **4** | 0 | dab on haters | -win by default- |
 | **Floating up** | **4** | 0 | COCI | -win by default- |
@@ -457,7 +457,7 @@ This competition has come to an end and resulted in the following podium:
 | **Gucci Gang** | **4** | 1 | hotel for lolis | [#1](https://osu.ppy.sh/community/matches/40164153) |
 
 | Sunday, 2018-02-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Cauldron Bois V2** | **4** | 1 | The Fine Ladies | [#1](https://osu.ppy.sh/community/matches/40164247) |
 | **hotel for dogs** | **4** | 1 | Teamcito II | [#1](https://osu.ppy.sh/community/matches/40166029) |
 | **lotus top 1 br** | **4** | 0 | sample text | [#1](https://osu.ppy.sh/community/matches/40167813) |
@@ -489,7 +489,7 @@ This competition has come to an end and resulted in the following podium:
 | **:thowonking:** | **4** | 0 | 4head | -win by default- |
 
 | Saturday, 2018-02-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ANGRY JEFFREY** | **4** | 0 | Prob a drug ring | [#1](https://osu.ppy.sh/community/matches/40329694) |
 | **Gekidan PIKORI** | **4** | 0 | Accuracy^ | [#1](https://osu.ppy.sh/community/matches/40336529) |
 | **shen mapo** | **4** | 0 | Tsutaerarenakata | [#1](https://osu.ppy.sh/community/matches/40337484) |
@@ -509,7 +509,7 @@ This competition has come to an end and resulted in the following podium:
 | **Rubber Conquest** | **4** | 0 | \[\[heck\]\] | [#1](https://osu.ppy.sh/community/matches/40355130) |
 
 | Sunday, 2018-02-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Teamcito II** | **4** | 0 | Lolicops | [#1](https://osu.ppy.sh/community/matches/40356045) |
 | **Sexy Snowmen** | **4** | 0 | The Leftovers | [#1](https://osu.ppy.sh/community/matches/40357523) |
 | **Stoof & Friends** | **4** | 2 | :thowonking: | [#1](https://osu.ppy.sh/community/matches/40359112) |

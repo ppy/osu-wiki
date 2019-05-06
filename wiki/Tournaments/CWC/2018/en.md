@@ -234,37 +234,37 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ### Grand Finals
 
 | Saturday, 2018-07-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **7** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/44166710) |
 
 | Sunday, 2018-07-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/44189744) |
 | United States ![][flag_US] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/44192102) |
 
 ### Finals
 
 | Saturday, 2018-07-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **7** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/43963281) |
 | France ![][flag_FR] | 0 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/43964720) |
 
 | Sunday, 2018-07-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/43991586) |
 | Chile ![][flag_CL] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/44001259) |
 
 ### SemiFinals
 
 | Saturday, 2018-06-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/43767078) |
 | Mexico ![][flag_MX] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/43768481) |
 | Netherlands ![][flag_NL] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/43779290) |
 | Poland ![][flag_PL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/43781683) |
 
 | Saturday, 2018-07-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **France** ![][flag_FR] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43801047) |
 | **China** ![][flag_CN] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43804340) |
 | **France** ![][flag_FR] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/43806191) |
@@ -273,14 +273,14 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ### QuarterFinals
 
 | Saturday, 2018-06-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 3 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/43586102) |
 | **Indonesia** ![][flag_ID] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/43587773) |
 | **Poland** ![][flag_PL] | **5** | 0 | ![][flag_SE] Sweden | -win by default- |
 | **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_FI] Finland | -win by default- |
 
 | Sunday, 2018-06-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Netherlands** ![][flag_NL] | **5** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43616653) |
 | China ![][flag_CN] | 4 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/43617828) |
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/43619288) |
@@ -289,7 +289,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ### Round of 16
 
 | Sunday, 2018-06-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/43409482) |
 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/43410578) |
 | France ![][flag_FR] | 3 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/43417766) |
@@ -302,7 +302,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 ### Group Stage
 
 | Saturday, 2018-06-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Austria ![][flag_AT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/43191122) |
 | **Denmark** ![][flag_DK] | **4** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/43191124) |
 | Philippines ![][flag_PH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/43191119) |
@@ -326,7 +326,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 | Colombia ![][flag_CO] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/43203741) |
 
 | Sunday, 2018-06-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/43214536) |
 | Mexico ![][flag_MX] | 2 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/43214539) |
 | Canada ![][flag_CA] | 3 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/43215581) |

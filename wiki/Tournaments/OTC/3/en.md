@@ -258,35 +258,35 @@ The osu! Technical Championship #3 was run by various osu! community members.
 ### Grand Finals
 
 | Tuesday, 2019-02-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **7** | 3 | ![][flag_RO] badeu | [#1](https://osu.ppy.sh/community/matches/49877643) |
 
 | Saturday, 2019-03-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Xilver15** ![][flag_IL] | **7** | 6 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/49966632) |
 
 ### Finals
 
 | Saturday, 2019-02-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Bubbleman ![][flag_GB] | 6 | **7** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/49630059) |
 | Crystal ![][flag_CN] | 3 | **7** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49628731) |
 | **Woey** ![][flag_US] | **7** | 6 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49644223) |
 
 | Wednesday, 2019-02-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Woey ![][flag_US] | 0 | **7** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49729495) |
 
 ### Semifinals
 
 | Saturday, 2019-02-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Crystal ![][flag_CN] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/49436594) |
 | Apraxia ![][flag_US] | 1 | **6** | ![][flag_RO] **badeu** | [#1](https://osu.ppy.sh/community/matches/49443175) |
 | Woey ![][flag_US] | 2 | **6** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/49451271) |
 
 | Sunday, 2019-02-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | neko ds ![][flag_RU] | 2 | **6** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49469206) |
 | **Teppi** ![][flag_AT] | **6** | 3 | ![][flag_UA] Ayla | [#1](https://osu.ppy.sh/community/matches/49469544) |
 | **\_demo** ![][flag_PL] | **6** | 0 | ![][flag_US] Jace | -win by default- |
@@ -296,7 +296,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 ### Quarterfinals
 
 | Saturday, 2019-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ftg** ![][flag_KR] | **5** | 2 | ![][flag_US] WillCookie | [#1](https://osu.ppy.sh/community/matches/49296446) |
 | Apraxia ![][flag_US] | 1 | **5** | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/49299182) |
 | **Crystal** ![][flag_CN] | **5** | 1 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/49306751) |
@@ -310,7 +310,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | Cappy ![][flag_US] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/49321691) |
 
 | Sunday, 2019-02-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **badeu** ![][flag_RO] | **5** | 1 | ![][flag_KR] ftg | [#1](https://osu.ppy.sh/community/matches/49334885) |
 | seegii ![][flag_MN] | 2 | **5** | ![][flag_RU] **Okinotori** | [#1](https://osu.ppy.sh/community/matches/49336141) |
 | **Knalli** ![][flag_DE] | **5** | 1 | ![][flag_BR] My Angelsim | [#1](https://osu.ppy.sh/community/matches/49345151) |
@@ -320,11 +320,11 @@ The osu! Technical Championship #3 was run by various osu! community members.
 ### Round of 32 / Round of 16
 
 | Friday, 2019-01-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_US] WillCookie | [#1](https://osu.ppy.sh/community/matches/49123674) |
 
 | Saturday, 2019-01-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Crystal** ![][flag_CN] | **5** | 0 | ![][flag_MN] seegii | [#1](https://osu.ppy.sh/community/matches/49139736) |
 | Aden ![][flag_RU] | 0 | **5** | ![][flag_KR] **ftg** | -win by default- |
 | Musty ![][flag_FR] | 1 | **5** | ![][flag_AT] **Teppi** | [#1](https://osu.ppy.sh/community/matches/49149236) |
@@ -342,7 +342,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | Gifted ![][flag_US] | 0 | **5** | ![][flag_DE] **Dustice** | [#1](https://osu.ppy.sh/community/matches/49155512) |
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Crystal** ![][flag_CN] | **5** | 2 | ![][flag_KR] ftg | [#1](https://osu.ppy.sh/community/matches/49170807) |
 | **Teppi** ![][flag_AT] | **5** | 3 | ![][flag_RO] badeu | [#1](https://osu.ppy.sh/community/matches/49176070) |
 | **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_US] Jace | [#1](https://osu.ppy.sh/community/matches/49185178) |
@@ -356,30 +356,30 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | Junjou ![][flag_US] | 2 | **5** | ![][flag_BR] **My Angelsim** | [#1](https://osu.ppy.sh/community/matches/49181768) |
 
 | Monday, 2019-01-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Woey** ![][flag_US] | **5** | 4 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/49188022) |
 | Takagaki ![][flag_AU] | 0 | **5** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/49190339) |
 | **Apraxia** ![][flag_US] | **5** | 1 | ![][flag_UA] Ayla | [#1](https://osu.ppy.sh/community/matches/49193498) |
 | **\_demo** ![][flag_PL] | **5** | 4 | ![][flag_DE] Dustice | [#1](https://osu.ppy.sh/community/matches/49204563) |
 
 | Tuesday, 2019-01-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Musty** ![][flag_FR] | **5** | 1 | ![][flag_AR] -Urushihara- | [#1](https://osu.ppy.sh/community/matches/49224571) |
 
 ### Group Stage
 
 | Match ID | Thursday, 2019-01-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G2 | **badeu** ![][flag_RO] | **4** | 1 | ![][flag_BE] Hanori | [#1](https://osu.ppy.sh/community/matches/48751459) |
 
 | Match ID | Friday, 2019-01-11 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G4 | Shironi ![][flag_VN] | 0 | **4** | ![][flag_RO] **badeu** | -win by default- |
 | G1 | **badeu** ![][flag_RO] | **4** | 0 | ![][flag_PL] esemoka57 | [#1](https://osu.ppy.sh/community/matches/48775473) |
 | B4 | TopSp1n ![][flag_GB] | 0 | **4** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/48780729) |
 
 | Match ID | Saturday, 2019-01-12 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B5 | **seegii** ![][flag_MN] | **4** | 2 | ![][flag_AU] nickerdead3 | [#1](https://osu.ppy.sh/community/matches/48790595) |
 | A4 | **Crystal** ![][flag_CN] | **4** | 0 | ![][flag_AU] TheOmyNomy | [#1](https://osu.ppy.sh/community/matches/48794639) |
 | C3 | **Aden** ![][flag_RU] | **4** | 0 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/48794637) |
@@ -400,7 +400,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | A5 | RivenXLukario ![][flag_ES] | 2 | **4** | ![][flag_US] **Junjou** | [#1](https://osu.ppy.sh/community/matches/48808556) |
 
 | Match ID | Sunday, 2019-01-13 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | H3 | CeilingWaffle ![][flag_AU] | 0 | **4** | ![][flag_AR] **-Urushihara-** | -win by default- |
 | H1 | **Cappy** ![][flag_US] | **4** | 0 | ![][flag_RU] ncuh | -win by default- |
 | A2 | TheOmyNomy ![][flag_AU] | 1 | **4** | ![][flag_US] **Junjou** | [#1](https://osu.ppy.sh/community/matches/48819014) |
@@ -426,7 +426,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | H2 | **Cappy** ![][flag_US] | **4** | 3 | ![][flag_AR] -Urushihara- | [#1](https://osu.ppy.sh/community/matches/48841708) |
 
 | Match ID | Saturday, 2019-01-19 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | L4 | Monk Gyatso ![][flag_AU] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
 | J5 | **Takagaki** ![][flag_AU] | **4** | 0 | ![][flag_RU] Hidemi | -win by default- |
 | L2 | **Demonical** ![][flag_SG] | **4** | 0 | ![][flag_US] Jace | -win by default- |
@@ -447,7 +447,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | K6 | Aeril ![][flag_US] | 1 | **4** | ![][flag_US] **Tekkito** | [#1](https://osu.ppy.sh/community/matches/48986995) |
 
 | Match ID | Sunday, 2019-01-20 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | J6 | **Takagaki** ![][flag_AU] | **4** | 0 | ![][flag_US] im a fancy lad | [#1](https://osu.ppy.sh/community/matches/48995853) |
 | J1 | **MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_AU] Takagaki | [#1](https://osu.ppy.sh/community/matches/49003051) |
 | O5 | **Saika-** ![][flag_SE] | **4** | 0 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/49003051) |

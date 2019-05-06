@@ -263,33 +263,33 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 ### Grand Finals
 
 | Sunday, 2015-06-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/16799312) |
 
 ### Finals
 
 | Saturday, 2015-06-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/16615953) |
 | Indonesia ![][flag_ID] | 5 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/16618288) |
 | Poland ![][flag_PL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/16621174) |
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/16624075) |
 
 | Sunday, 2015-06-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/16644793) |
 
 ### Semifinals
 
 | Saturday, 2015-05-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 4 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/16464581) |
 | Netherlands ![][flag_NL] | 4 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/16465888) |
 | Argentina ![][flag_AR] | 1 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/16467528) |
 | **Chile** ![][flag_CL] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/16469168) |
 
 | Sunday, 2015-05-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 0 | **6** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/16489320) |
 | Indonesia ![][flag_ID] | 1 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/16490631) |
 | **Germany** ![][flag_DE] | **6** | 0 | ![][flag_TW] Taiwan | -win by default- |
@@ -298,14 +298,14 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 ### Quarterfinals
 
 | Saturday, 2015-05-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **5** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/16309081) |
 | Hong Kong ![][flag_HK] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/16310471) |
 | Italy ![][flag_IT] | 1 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/16313352) |
 | Russian Federation ![][flag_RU] | 3 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/16315464) |
 
 | Sunday, 2015-05-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/16335352) |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/16336420) |
 | France ![][flag_FR] | 3 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/16337429) |
@@ -314,7 +314,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 ### Round of 16
 
 | Saturday, 2015-05-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 4 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/16155689) |
 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/16156834) |
 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/16157935) |
@@ -327,7 +327,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 ### Group Stage
 
 | Saturday, 2015-05-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **4** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/15999657) |
 | Hong Kong ![][flag_HK] | 1 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/15999675) |
 | **Italy** ![][flag_IT] | **4** | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/15999681) |
@@ -354,7 +354,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | Austria ![][flag_AT] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/16014692) |
 
 | Sunday, 2015-05-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **4** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/16021554) |
 | Canada ![][flag_CA] | 2 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/16021560) |
 | Mexico ![][flag_MX] | 0 | **4** | ![][flag_CN] **China** | -win by default- |

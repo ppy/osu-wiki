@@ -148,7 +148,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 ### Samedi, 20 Avril 2019
 
 | Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | #113 | WalkingTuna | ![][flag_KR] | ![][flag_PL] | MrBooM | **13:00** |
 | #114 | Musty | ![][flag_FR] | ![][flag_FR] | NerO | **17:00** |
 | #115 | Koba | ![][flag_IT] | ![][flag_US] | Apraxia | **19:00** |
@@ -157,7 +157,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 ### Dimanche, 21 Avril 2019
 
 | Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | #120 | idke | ![][flag_US] | ![][flag_HK] | DenierNezzar | **05:00** |
 | #117 | Gagnant du #113 |  |  | Gagnant du #114 | **14:00** |
 | #119 | WubWoofWolf | ![][flag_PL] | ![][flag_GB] | Bubbleman | **18:00** |
@@ -342,11 +342,11 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 ### Quarts-de-finale
 
 | Mardi, 2019-04-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | WalkingTuna ![][flag_KR] | 2 | **6** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
 
 | Samedi, 2019-04-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
 | trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
 | **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_RU] Aden | -win by default- |
@@ -356,7 +356,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
 
 | Dimanche, 2019-04-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
 | -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
 | RyuK ![][flag_CA] | 0 | **6** | ![][flag_PL] **MrBooM** | -win by default- |
@@ -366,23 +366,23 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | Mastasz ![][flag_PL] | 0 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/mp/51007543) |
 
 | Lundi, 2019-04-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### 8èmes de finale
 
 | Jeudi, 2019-04-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Apraxia ![][flag_US] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
 
 | Vendredi, 2019-04-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Vaxei ![][flag_US] | 3 | **5** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
 | -Roxas ![][flag_GB] | 3 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
 | fieryrage ![][flag_US] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
 
 | Samedi, 2019-04-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_PR] Unexpected | [#1](https://osu.ppy.sh/mp/50786166) |
 | Ansol ![][flag_KR] | 3 | **5** | ![][flag_MY] **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
 | Xilver15 ![][flag_IL] | **5** | 1 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/mp/50793614) |
@@ -399,7 +399,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **Aden** ![][flag_RU] | **5** | 2 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
 
 | Dimanche, 2019-04-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | RyuK ![][flag_CA] | 2 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
 | **DigitalHypno** ![][flag_US] | **5** | 4 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
 | **Demonical** ![][flag_SG] | **5** | 4 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/mp/50827536) |
@@ -415,22 +415,22 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
 
 | Lundi, 2019-04-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Mastasz** ![][flag_PL] | **5** | 0 | ![][flag_GB] Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
 
 ### 16èmes de finale
 
 | Mercredi, 2019-03-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Spare ![][flag_GB] | 4 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
 
 | Vendredi, 2019-03-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Varvalian ![][flag_JP] | 4 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
 | not very smart ![][flag_US] | 2 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
 
 | Samedi, 2019-03-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
 | **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
 | **Riven** ![][flag_GR] | **5** | 0 | ![][flag_GB] TopSp1n | -win by default- |
@@ -445,7 +445,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
 
 | Dimanche, 2019-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **5** | 4 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
 | nickerdead3 ![][flag_AU] | 4 | **5** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
 | **trev rasher** ![][flag_CA] | **5** | 2 | ![][flag_KR] Ansol | [#1](https://osu.ppy.sh/community/matches/50657693) |
@@ -463,17 +463,17 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
 | Lundi, 2019-04-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
 
 ### 32èmes de finale
 
 | Vendredi, 2019-03-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
 
 | Samedi, 2019-03-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ![][flag_US] | **4** | 3 | ![][flag_US] Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
 | **RyuK** ![][flag_CA] | **4** | 0 | ![][flag_US] not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
 | **Dumii** ![][flag_AU] | **4** | 0 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/50464680) |
@@ -500,7 +500,7 @@ La Game\_Osu Tourney 3 est gérée par différents membres de la communauté, en
 | **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
 
 | Dimanche, 2019-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Unexpected ![][flag_PR] | 3 | **4** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
 | **Vaxei** ![][flag_US] | **4** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |
 | **Musty** ![][flag_FR] | **4** | 0 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/50500208) |

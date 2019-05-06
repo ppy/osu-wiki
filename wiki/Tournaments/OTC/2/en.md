@@ -265,41 +265,41 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Sunday, 2018-05-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 1 | Floating up | [#1](https://osu.ppy.sh/community/matches/42816259) |
 
 ### Finals
 
 | Saturday, 2018-05-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Floating up | 3 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/42411160) |
 
 | Sunday, 2018-05-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Latex Intolerance** | **6** | 3 | Zzz | [#1](https://osu.ppy.sh/community/matches/42445467) |
 
 | Sunday, 2018-05-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **6** | 0 | Latex Intolerance | -win by default- |
 
 ### Semifinals
 
 | Saturday, 2018-05-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Latex Intolerance** | **5** | 0 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/42225047) |
 | Wisdom Chair | 0 | **5** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/42226598) |
 | **Rubber Conquest** | **5** | 0 | Dumii has a small dick | [#1](https://osu.ppy.sh/community/matches/42228520) |
 | **Zzz** | **5** | 2 | Fully Unified Chistianized Kingdom | [#1](https://osu.ppy.sh/community/matches/42230056) |
 
 | Sunday, 2018-05-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Dumii has a small dick | 0 | **5** | **Zzz** | [#1](https://osu.ppy.sh/community/matches/42263115) |
 | Wisdom Chair | 1 | **5** | **Latex Intolerance** | [#1](https://osu.ppy.sh/community/matches/42264660) |
 
 ### Quarterfinals
 
 | Saturday, 2018-04-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Odeio Negrxs | 0 | **5** | **EzSupport** | -win by default- |
 | **We Have No Friends** | **5** | 1 | spy kids | [#1](https://osu.ppy.sh/community/matches/42027341) |
 | El perro me vomito la cama | 3 | **5** | **SAMPLE TEXT** | [#1](https://osu.ppy.sh/community/matches/42031830) |
@@ -309,7 +309,7 @@ This competition has come to an end and resulted in the following podium:
 | **Wisdom Chair** | **5** | 1 | izako boars | [#1](https://osu.ppy.sh/community/matches/42039012) |
 
 | Sunday, 2018-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **5** | 0 | Zzz | [#1](https://osu.ppy.sh/community/matches/42058100) |
 | **Tak Halal Sial** | **5** | 2 | We Have No Friends | [#1](https://osu.ppy.sh/community/matches/42059678) |
 | izako boars | 1 | **5** | **Fully Unified Chistianized Kingdom** | [#1](https://osu.ppy.sh/community/matches/42064757) |
@@ -319,14 +319,14 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Saturday, 2018-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Wisdom Chair** | **5** | 2 | Odeio Negrxs | [#1](https://osu.ppy.sh/community/matches/41848222) |
 | **izako boars** | **5** | 4 | EzSupport | [#1](https://osu.ppy.sh/community/matches/41834719) |
 | **Floating up** | **5** | 1 | We Have No Friends | [#1](https://osu.ppy.sh/community/matches/41833214) |
 | El perro me vomito la cama | 0 | **5** | **Tak Halal Sial** | -win by default- |
 
 | Sunday, 2018-04-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Zzz** | **5** | 0 | spy kids | [#1](https://osu.ppy.sh/community/matches/41880888) |
 | **Rubber Conquest** | **5** | 0 | SAMPLE TEXT | [#1](https://osu.ppy.sh/community/matches/41872121) |
 | **Latex Intolerance** | **5** | 0 | Fernet con coca | -win by default- |
@@ -335,7 +335,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Match ID | Saturday, 2018-04-14 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C1 | **Floating up** | **4** | 0 | save me slider break | -win by default- |
 | C2 | **Floating up** | **4** | 0 | Insert Funny Team Name Here | [#1](https://osu.ppy.sh/community/matches/41649601) |
 | D5 | **SAMPLE TEXT** | **4** | 2 | Nai Fen Pu Pu | [#1](https://osu.ppy.sh/community/matches/41649714) |
@@ -358,7 +358,7 @@ This competition has come to an end and resulted in the following podium:
 | B1 | **Rubber Conquest** | **4** | 0 | STARTails\* | [#1](https://osu.ppy.sh/community/matches/41665530) |
 
 | Match ID | Sunday, 2018-04-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | H5 | **e-girl respecters** | **4** | 2 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/41681735) |
 | F4 | **BOOMING** | **4** | 1 | Dumii has a small dick | [#1](https://osu.ppy.sh/community/matches/41694951) |
 | A1 | **izako boars** | **4** | 0 | Meido | [#1](https://osu.ppy.sh/community/matches/41684478) |
@@ -388,7 +388,7 @@ This competition has come to an end and resulted in the following podium:
 | H4 | 727pp XddXDDDDD | 1 | **4** | **Wisdom Chair** | [#1](https://osu.ppy.sh/community/matches/41699693) |
 
 | Match ID | Monday, 2018-04-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G5 | Cauldron Bois | 3 | **4** | **small boob** | [#1](https://osu.ppy.sh/community/matches/41701534) |
 
 ------------------------------------------------------------------------

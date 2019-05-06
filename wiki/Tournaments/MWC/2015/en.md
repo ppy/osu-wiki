@@ -240,26 +240,26 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 ### Grand Finals
 
 | Sunday, 2015-09-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/19202583) |
 
 ### Finals
 
 | Saturday, 2015-09-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/19033684) |
 | China ![][flag_CN] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/19035062) |
 | **Japan** ![][flag_JP] | **6** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/19036723) |
 | United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/19047914) |
 
 | Sunday, 2015-09-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/19064573) |
 
 ### Semifinals
 
 | Saturday, 2015-09-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/18875865) |
 | Japan ![][flag_JP] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/18876734) |
 | Canada ![][flag_CA] | 2 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/18877878) |
@@ -268,14 +268,14 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_AR] Argentina | -win by default- |
 
 | Sunday, 2015-09-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/18916080) |
 | **Brazil** ![][flag_BR] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/18917606) |
 
 ### Quarterfinals
 
 | Saturday, 2015-09-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Netherlands ![][flag_NL] | 1 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/18735213) |
 | France ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18736038) |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/18737149) |
@@ -284,14 +284,14 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/18741841) |
 
 | Sunday, 2015-09-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/18754356) |
 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/18755307) |
 
 ### Round of 16
 
 | Sunday, 2015-08-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/18606478) |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/18607469) |
 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18608519) |
@@ -304,7 +304,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2015-08-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/18414849) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/18414855) |
 | Netherlands ![][flag_NL] | 1 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/18414897) |
@@ -326,7 +326,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Chile ![][flag_CL] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
 
 | Sunday, 2015-08-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Mexico ![][flag_MX] | 0 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/18432722) |
 | Peru ![][flag_PE] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/18432751) |
 | Taiwan ![][flag_TW] | 0 | **4** | ![][flag_US] **United States** | -win by default- |

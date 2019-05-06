@@ -315,43 +315,43 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Round 5
 
 | Saturday, 2012-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan B** ![][flag_JP] | **5** | 4 | ![][flag_FR] France |  |
 
 | Sunday, 2012-04-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Hong Kong A ![][flag_HK] | 2 | **5** | ![][flag_JP] **Japan A** |  |
 
 ### Round 4
 
 | Saturday, 2012-03-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Japan B ![][flag_JP] | 1 | **5** | ![][flag_HK] **Hong Kong A** |  |
 | **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_FR] France |  |
 
 ### Round 3
 
 | Saturday, 2012-03-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany B ![][flag_DE] | 1 | **4** | ![][flag_FR] **France** |  |
 | **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_TW] Taiwan A |  |
 
 | Sunday, 2012-03-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Hong Kong A** ![][flag_HK] | **4** | 2 | ![][flag_US] United States A |  |
 | Korea A ![][flag_KR] | 1 | **4** | ![][flag_JP] **Japan B** |  |
 
 ### Round 2
 
 | Saturday, 2012-03-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Korea A** ![][flag_KR] | **4** | 1 | ![][flag_CN] China |  |
 | Taiwan B ![][flag_TW] | 0 | **4** | ![][flag_FR] **France** |  |
 | Philippines ![][flag_PH] | 0 | **4** | ![][flag_HK] **Hong Kong A** | -win by default- |
 | Italy-Netherlands ![][flag_IT] ![][flag_NL] | 2 | **4** | ![][flag_US] **United States A** |  |
 
 | Sunday, 2012-03-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_KR] Korea B |  |
 | **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_US] United States B |  |
 | Germany A ![][flag_DE] | 0 | **4** | ![][flag_JP] **Japan B** |  |
@@ -360,7 +360,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Round 1-4
 
 | Saturday, 2012-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Hong Kong B ![][flag_HK] | 0 | **3** | ![][flag_TW] **Taiwan A** |  |
 | **Germany B** ![][flag_DE] | **3** | 0 | ![][flag_PL] Poland |  |
 | **Japan A** ![][flag_JP] | **3** | 0 | ![][flag_TW] Taiwan B |  |
@@ -368,7 +368,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | **France** ![][flag_FR] | **3** | 1 | ![][flag_US] United States B |  |
 
 | Sunday, 2012-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 0 | **3** | ![][flag_US] **United States A** |  |
 | China ![][flag_CN] | 1 | **3** | ![][flag_KR] **Korea B** |  |
 | Canada ![][flag_CA] | 0 | **3** | ![][flag_JP] **Japan B** |  |
@@ -378,14 +378,14 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Round 1-3
 
 | Saturday, 2012-02-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Macau ![][flag_MO] | 0 | **3** | ![][flag_HK] **Hong Kong A** |  |
 | Italy-Netherlands ![][flag_IT] ![][flag_NL] | 1 | **3** | ![][flag_KR] **Korea A** |  |
 | **Germany A** ![][flag_DE] | **3** | 1 | ![][flag_TW] Taiwan B |  |
 | **France** ![][flag_FR] | **3** | 0 | ![][flag_PH] Philippines |  |
 
 | Sunday, 2012-02-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **United States B** ![][flag_US] | **3** | 1 | ![][flag_CL] Chile |  |
 | **United States A** ![][flag_US] | **3** | 0 | ![][flag_CN] China |  |
 | **Spain** ![][flag_ES] | **3** | 2 | ![][flag_AT] Austria |  |
@@ -394,14 +394,14 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Round 1-2
 
 | Saturday, 2012-02-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Germany B ![][flag_DE] | 2 | **3** | ![][flag_HK] **Hong Kong A** |  |
 | **Macau** ![][flag_MO] | **3** | 2 | ![][flag_PL] Poland |  |
 | Germany A ![][flag_DE] | 1 | **3** | ![][flag_JP] **Japan A** |  |
 | **Korea A** ![][flag_KR] | **3** | 0 | ![][flag_ES] Spain |  |
 
 | Sunday, 2012-02-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_CA] Canada |  |
 | Malaysia ![][flag_MY] | 1 | **3** | ![][flag_KR] **Korea B** |  |
 | **Philippines** ![][flag_PH] | **3** | 0 | ![][flag_US] United States B |  |
@@ -410,7 +410,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 ### Round 1-1
 
 | Saturday, 2012-02-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia |  |
 | Macau ![][flag_MO] | 0 | **3** | ![][flag_DE] **Germany B** | -win by default- |
 | **Hong Kong A** ![][flag_HK] | **3** | 0 | ![][flag_PL] Poland |  |
@@ -420,7 +420,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Korea B ![][flag_KR] | 0 | **3** | ![][flag_US] **United States A** |  |
 
 | Sunday, 2012-02-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 1 | **3** | ![][flag_HK] **Hong Kong B** |  |
 | **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_JP] Japan B |  |
 

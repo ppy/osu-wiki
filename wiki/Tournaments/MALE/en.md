@@ -256,7 +256,7 @@ The Most Amazing LAN Ever is run by various osu! community members at UCR.
 ### Finals - Week 2
 
 | Day, date |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
 | TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
 | TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |

@@ -188,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round 3
 
 |  |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | fagboat | 0 | **2** | **MINMIrox** | -disqualified- |
 | two noobs | 1 | **2** | **Lubimy Ponczgi!** |
 | Let's rock | 1 | **2** | **Animalz D:** |
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round 2
 
 |  |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Does it matter? | 1 | **2** | **fagboat** |
 | huge cocks | 0 | **2** | **MINMIrox** | -disqualified- |
 | Asskickers! | 0 | **2** | **two noobs** |
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round 1
 
 |  |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Does it matter?** | **2** | 1 | Less QQ more PEWPEW |
 | **fagboat** | **2** | 0 | Mlekołaki |
 | **huge cocks** | **2** | 1 | Banchobag |

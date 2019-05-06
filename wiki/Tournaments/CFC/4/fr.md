@@ -197,40 +197,40 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### Finales
 
 | Samedi, 2019-04-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
 | **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | -win by default- |
 | Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** |[#1](https://osu.ppy.sh/community/matches/51344482) |
 
 | Dimanche, 2019-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
 
 ### Demi-finales
 
 | Samedi, 2019-04-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Tbotas ![][flag_FR] | 1 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
 | **Alostis** ![][flag_FR] | **6** | 0 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
 
 | Dimanche, 2019-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | -win by default- |
 
 | Mardi, 2019-04-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Boros** ![][flag_FR] | **6** | 3 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
 
 ### Quarts-de-finale
 
 | Samedi, 2019-04-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Tbotas** ![][flag_FR] | **5** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 2 | **5** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
 | -Ken ![][flag_TN] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50801266) |
 
 | Dimanche, 2019-04-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Holloh ![][flag_FR] | 1 | **5** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
 | Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | -win by default- |
 | **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | -win by default- |
@@ -238,7 +238,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### Phase de poules
 
 | Samedi, 2019-03-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_RE] **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
 | **Holloh** ![][flag_FR] | **3** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/50635325) |
@@ -253,7 +253,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | -win by default- |
 
 | Dimanche, 2019-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Noulayfe** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
 | **Boros** ![][flag_FR] | **3** | 1 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |
 | Julo ![][flag_FR] | 1 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50664262) |

@@ -243,26 +243,26 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2016-09-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/27652825) |
 
 ### Finals
 
 | Saturday, 2016-09-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/27505279) |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/27510481) |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/27512221) |
 | Japan ![][flag_JP] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27513965) |
 
 | Sunday, 2016-09-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27551501) |
 
 ### Semifinals
 
 | Saturday, 2016-08-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/27342270) |
 | Argentina ![][flag_AR] | 0 | **6** | ![][flag_JP] **Japan** | -win by default- |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27346316) |
@@ -271,14 +271,14 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | United Kingdom ![][flag_GB] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/27353347) |
 
 | Sunday, 2016-08-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/27372674) |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/27382022) |
 
 ### Quarterfinals
 
 | Sunday, 2016-08-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/27192490) |
 | Japan ![][flag_JP] | 0 | **5** | ![][flag_KR] **South Korea** | -win by default- |
 | Switzerland ![][flag_CH] | 0 | **5** | ![][flag_SG] **Singapore** | -win by default- |
@@ -291,7 +291,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Round of 16
 
 | Saturday, 2016-08-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/27007849) |
 | Australia ![][flag_AU] | 1 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/27008721) |
 | Switzerland ![][flag_CH] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/27009804) |
@@ -304,7 +304,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2016-08-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Macau ![][flag_MO] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/26845650) |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/26845652) |
 | **Singapore** ![][flag_SG] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/26846360) |
@@ -330,7 +330,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | **Switzerland** ![][flag_CH] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/26854199) |
 
 | Sunday, 2016-08-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/26862320) |
 | Argentina ![][flag_AR] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/26862322) |
 | Philippines ![][flag_PH] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/26863256) |

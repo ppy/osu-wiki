@@ -241,32 +241,32 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Finals
 
 | Friday, 15. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/38335947) |
 | Germany ![][flag_DE] | 1 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/38346733) |
 | **Poland** ![][flag_PL] | **7** | 6 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38350684) |
 
 | Saturday, 16. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **United Kingdom** ![][flag_GB] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/38367964) |
 | **United States** ![][flag_US] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/38384430) |
 
 | Sunday, 17. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **7** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/38418895) |
 | **Poland** ![][flag_PL] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/38421285) |
 
 ### Semifinals
 
 | Saturday, 9. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Norway** ![][flag_NO] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/38181607) |
 | Netherlands ![][flag_NL] | 4 | **7** | ![][flag_RU] **Russian Federatio**n | [#1](https://osu.ppy.sh/community/matches/38186618) |
 | Canada ![][flag_CA] | 1 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/38190989) |
 | Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/38196035) |
 
 | Sunday, 10. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/38206986) |
 | Taiwan ![][flag_TW] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/38209295) |
 | **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/38219678) |
@@ -276,14 +276,14 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Quarterfinals
 
 | Saturday, 2. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Netherland**s ![][flag_NL] | **6** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37984347) |
 | Germany ![][flag_DE] | 3 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/37988813) |
 | Hong Kong ![][flag_HK] | 0 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/37992145) |
 | **Canada** ![][flag_CA] | **6** | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37996482) |
 
 | Sunday, 3. December 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Denmark ![][flag_DK] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/38029594) |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/38031685) |
 | Brazil ![][flag_BR] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/38034430) |
@@ -292,14 +292,14 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Round of 16
 
 | Saturday, 25. November 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/37793064) |
 | **United Kingdom** ![][flag_GB] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/37794394) |
 | **Hong Kong** ![][flag_HK] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/37796296) |
 | Singapore ![][flag_SG] | 2 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/37799185) |
 
 | Sunday, 26. November 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **6** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/37837181) |
 | Denmark ![][flag_DK] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/37840289) |
 | Canada ![][flag_CA] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37842093) |
@@ -308,7 +308,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Group Stage
 
 | Saturday, 18. November 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/37609499) |
 | Latvia ![][flag_LV] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/37609495) |
 | Israel ![][flag_IL] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/37609502) |
@@ -339,7 +339,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
 | Hungary ![][flag_HU] | 1 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/37629750) |
 
 | Sunday, 19. November 2017 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 4 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/37640223) |
 | Malaysia ![][flag_MY] | 2 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/37640683) |
 | China ![][flag_CN] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37640232) |
