@@ -32,7 +32,7 @@ osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/438
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/osu/1-internet-bitch-p-light-remix.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix](https://osu.ppy.sh/beatmapsets/357487#osu) by [Meg](https://osu.ppy.sh/users/1872496)  
-175 BPM, 3:42 | 5.86★, 5.86★  
+175 BPM, 3:42 | 5.86★  
 *description written by [fartownik](https://osu.ppy.sh/users/56917)*
 
 "Internet lady" (as it's called in the hood) is the Meg's most popular map in the graveyard, reaching almost 200 favourites and surely not without a reason. The rhythm that Meg chooses here is simply excellent, focusing on circle-only doubles and quads in some sections to smoothly transform into cut streams in the more intense ones. The map is truly a test of finger control and is one of the most fun maps of its kind.
@@ -89,7 +89,7 @@ A different style of Doomsday mapping, "Hangar 18" is full of twists and turns, 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/osu/8-fusyoku-ressentiment-fushiyoku-no-sarugakuza.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Imperial Circus Dead Decadence - Fusyoku ressentiment, fushiyoku no sarugakuza.](https://osu.ppy.sh/beatmapsets/575788#osu) by [Bibbity Bill](https://osu.ppy.sh/users/4446810)  
-210 BPM, 7:01 | 8.12★  
+210 BPM, 7:01 | 8.18★  
 *description written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
 Most of you will know this song from idke's Ranked mapset, but did you know Bibbity Bill also had a version? This one reaches over 8 stars, so it's not gonna be a breeze; the map consists of high-BPM jumps as well as long streams that vary in spacing, making falling off a stream or a misaim very deadly. Try your mechanical skill with this banger of a map!
@@ -165,7 +165,7 @@ This is the song probably every osu! player knows, "Bad apple!!", only it is rem
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/catch/2-dan-ctb-1st-pack.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
-[Various Artists - Dan ~ CTB ~ 1st Pack](https://osu.ppy.sh/beatmapsets/783099#fruits) by [Emiru](https://osu.ppy.sh/users/3306180) et al.  
+[Various Artists - Dan \~ CTB \~ 1st Pack](https://osu.ppy.sh/beatmapsets/783099#fruits) by [Emiru](https://osu.ppy.sh/users/3306180) et al.  
 163 BPM, 7:57 | 3.93★ – 6.12★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
@@ -180,7 +180,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/mania/1-endless-tewi-ma-park.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [IOSYS - Endless Tewi-ma Park](https://osu.ppy.sh/beatmapsets/392965#mania) by [arcwinolivirus](https://osu.ppy.sh/users/2039089)  
-128 BPM, 2:10 | 4K 3.98★, 4K 5.37★
+128 BPM, 2:10 | 4K 3.97★, 4K 5.35★
 
 A song known pretty much by everyone who has ever picked up osu! before, Endless Tewi-ma Park by arcwinolivirus is a bouncy, energetic and fun chordjack experience with two difficulties to appeal to multiple skill levels. Both difficulties are meant for chordjack practice, and as such do much with varying pattern types: longjacks, dense chordjacks, and anchors being some of what you would expect. The chart does what it intends to quite well with this variety in jack patterning, but also brings with it an intense amount of popularity that comes from the bounciness of the chart that fits the bouncy nature of Tewi-ma as a song. This gives it plenty of reason to be nominated for the Loved section.
 
@@ -206,10 +206,10 @@ In addition to being relentlessly difficult, Nhelv is also fairly unique. Most h
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/mania/4-stella-part-1.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
-[Yanagawa Kazuki, Asano Hayato, Daisuke Achiwa - Stella ~Part 1~](https://osu.ppy.sh/beatmapsets/337485#mania) by [Kruzon](https://osu.ppy.sh/users/3808520) and [Kaito-kun](https://osu.ppy.sh/users/4715184)  
+[Yanagawa Kazuki, Asano Hayato, Daisuke Achiwa - Stella \~Part 1\~](https://osu.ppy.sh/beatmapsets/337485#mania) by [Kruzon](https://osu.ppy.sh/users/3808520) and [Kaito-kun](https://osu.ppy.sh/users/4715184)  
 95 BPM, 3:11 | 9K 1.12★, 9K 1.62★, 9K 2.07★, 9K 2.40★, 9K 3.02★
 
-We have another 9K pick for this round! This time, it's Kruzon's Stella ~Part 1~! Primarily functioning as a lower-difficulty spread, Stella is a fairly fast-paced flute instrumental with a top difficulty that features large chords, generous LN usages, and occasional symmetry with varying snap usages. It's quite simple, but most definitely fun! Anyone who's tried out 9K should definitely give this set a shot.
+We have another 9K pick for this round! This time, it's Kruzon's Stella \~Part 1\~! Primarily functioning as a lower-difficulty spread, Stella is a fairly fast-paced flute instrumental with a top difficulty that features large chords, generous LN usages, and occasional symmetry with varying snap usages. It's quite simple, but most definitely fun! Anyone who's tried out 9K should definitely give this set a shot.
 
 [![](/wiki/shared/news/2019-05-06-project-loved-week-of-may-5th/mania/5-kronos.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
