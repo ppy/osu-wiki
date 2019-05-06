@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Amascite ![][flag_GB] | 0 | **7** | ![][flag_KR] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51366632) |
+| Amascite ![][flag_GB] | 0 | **7** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51366632) |
 
 ### Semifinals
 
