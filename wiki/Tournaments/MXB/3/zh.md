@@ -64,7 +64,48 @@ tags:
 
 ## 图池
 
-图池将在每阶段的前一周公布。
+### 小组赛
+
+**下载完整图池包！（72.7 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+
+- FreeMod
+  - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
+  - [stereoberry - evangelize (blurry images) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  - [F-777 - Dance Of The Violins \[error's Hard\]](https://osu.ppy.sh/beatmapsets/642684#mania/1490025)
+  - [Phlogiston - Night Jam \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  - [K A Z M A S A - RTCMON \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
+  - [Morimori Atsushi vs. uma - Arche \[MX\]](https://osu.ppy.sh/beatmapsets/757718#mania/1593977)
+  - [Aoi - Orivia no Genjutsu \[Illusion\]](https://osu.ppy.sh/beatmapsets/758477#mania/1595408)
+  - [Nanawo Akari - One Room Sugar Life(Full ver.) \[Hard\]](https://osu.ppy.sh/beatmapsets/841023#mania/1782167)
+  - [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
+  - [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
+- Tiebreaker
+  - [u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)
+
+### 资格赛
+
+**下载完整图池包！（13.6 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+
+- FreeMod
+  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
+  - [M2U - Lune \[Stage 2: Moonlight\]](https://osu.ppy.sh/beatmapsets/948056#mania/1979982)
+  - [Alan Walker - The Spectre \[Stage 3:The Spectre\]](https://osu.ppy.sh/beatmapsets/959232#mania/2008278)
+  - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
+
+## 比赛结果
+
+### 抽签分组
+
+| 组别 | 选手 |  |  |  |
+|:-:|:-:|:-:|:-:|:-:|
+| A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
+| B | Anonie | magical Sao | HerrySun | shizehao |
+| C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
+| D | xiao ba | Star0v0 | RW233 | amxmodx |
+
+### 资格赛
+
+[点此查看](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s) 资格赛得分情况。
 
 ## 规则
 
