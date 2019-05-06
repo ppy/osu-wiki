@@ -1,20 +1,17 @@
-The Team
-========
+# The Team
 
 The people listed below are the core of the osu!team, and are chiefly responsible for helping make the game awesome for everyone.
 
-Creator
--------
+## Creator
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Project lead |
 
-Active
-------
+## Active
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead and resident Creative Cloud watcher |
@@ -36,11 +33,10 @@ Active
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping and tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-Inactive
---------
+## Inactive
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeping and help, game/site chibi artwork, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
@@ -62,17 +58,17 @@ Inactive
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, Media/character design |
 
-User Groups
-----------------------
+## User Groups
 
 | Name | Description |
-| ---- | ----------- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Users going above and beyond the call to ensure your maps get qualified |
+| :-- | :-- |
+| [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
 | [Developers](https://osu.ppy.sh/groups/11) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy osu!, starting with assuring the quality of beatmaps. |
+| [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Helping you enjoy osu!, starting with assuring the quality of beatmaps |
+| [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

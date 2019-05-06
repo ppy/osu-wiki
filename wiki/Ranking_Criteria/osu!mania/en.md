@@ -1,17 +1,14 @@
-osu!mania
-===========
+# osu!mania
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/community/forums/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-Terms
---------
+## Terms
 
 -   Non-expert = Easy, Normal. (Basic, Standard)
 -   Expert = Hard, Insane. (Hyper, Another)
 -   Column = 5K, 5 column. The center column is sometimes called Special or Step column.
 
-Rules
--------
+## Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 
@@ -34,8 +31,7 @@ Considering most keyboards use USB connections which do not allow 7 simultaneous
 
 -   **You can't use uninherited timing sections when there is no actual BPM changes.** In other words, you can't use uninherited timing sections slowly to change the scrolling speed. Use inherited timing sections and SV changes instead.
 
-Guidelines
------------
+## Guidelines
 
 Guidelines are important and should be followed in most maps. However, they are **not** rules, so they may be broken in special cases. If you want to break a guideline, ask yourself this, "Does what I'm about to do make sense? Is it more fun to play like this compared to sticking to the guidelines?" If you answer yes to both these questions, then it is probably okay.
 
@@ -53,8 +49,7 @@ Guidelines are important and should be followed in most maps. However, they are 
 -   **Using SV changes are allowed only if there is a significant change in the music's mood/pace/theme.** Magnitude of SV changes are up to mapper's discretion.
 -   **Different key amounts within a mapset should have a similiar difficulty spread.** This is to keep parity between different key amounts and satisfy different key amount players.
 
-xK Reference
---------------
+## xK Reference
 
 Note: 1K, 2K, 3K, 9K and 10K are from the new unstable update, so not recommended to mapping it now.
 

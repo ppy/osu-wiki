@@ -1,44 +1,46 @@
-osu!taiko
-=============
+# osu!taiko
 
 These rules and guidelines have been discussed in the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). New ones may be suggested in that forum and this page will be updated once discussions reach an agreement.
 
-Glossary
---------------
+## Glossary
 
-### Difficulty Naming
+### Difficulty Names
+
 - ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Easy
 - ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
 - ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Hard
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Insane
 - ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
 
-Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming conventions.
-
 The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
 
-### Gameplay elements
-- **Don / Red Note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
-- **Kat / Blue Note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
-- **Big Don / Big Red Note / Finisher Note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
-- **Big Kat / Big Blue Note / Finisher Note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
-- **BPM:** An acronym for “beats per minute” used to determine the tempo of a song.
-- **Slider / Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
+### Gameplay
+
+- **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
+- **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
+- **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
+- **Big kat / Big blue note / Finisher note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
+- **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
+- **Slider/Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
 - **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
-- **Bar Line:** A line that appears on the playfield and determines the start of a measure.
+- **Bar line:** A line that appears on the playfield and determines the start of a measure.
 - **Overlap:** A note that partially or totally covers other note(s) in the playfield.
-- **Rest Moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
-- **Stream:** Consecutive circles grouped together. Usually snapped to ¼ beats.
+- **Rest moment:** A period of time without notes used specifically to allow the player to rest their hands and prepare for the upcoming patterns.
+- **Stream:** Consecutive circles grouped together. Usually snapped to 1/4 beats.
 - **Snapping:** Timeline tick where an object is placed.
-- **Variable Snapping:** A combination of multiple different ways to snap notes within a short span of time due to the song’s fluctuating nature at that point.
-- **Slider Velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
-- **Smooth Slider Velocity Changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
+- **Variable snapping:** A combination of multiple different ways to snap notes within a short span of time due to the song's fluctuating nature at that point.
+- **Slider velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
+- **Smooth slider velocity changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
 - **Improvisation:** Having more notes than the actual song is providing.
-- **Taiko Template Background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
+- **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
 
-## General
+## Overall
 
-### Rules
+Overall rules and guidelines apply to every kind of osu!taiko difficulty.
+
+### General
+
+#### Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
@@ -49,7 +51,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **You must not wrongly snap sliderends to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **The drum sampleset must not be used unless default hit sound samples are replaced by custom samples.** The sampleset's default hit sounds do not produce feedback in gameplay.
 
-### Guidelines
+#### Guidelines
 
 Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
@@ -78,25 +80,30 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 ### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
 
 #### Rules
+
 - **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** For songs that follow a swing beat, this limit is 1/3.
 - **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
+
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **You should insert at least 1 rest moment that is 3/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
-- OD should be 4 or less.
-- HP should be 6 or more. In cases of higher note count, HP could be slightly adjusted to lower than 6.
+
+- Overall Difficulty should be 4 or less.
+- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
 ### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
 #### Rules
+
 - **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
 
 #### Guidelines
+
 - **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment.
 - **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
@@ -106,23 +113,28 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has to abide by the following rules and guidelines:
 
 #### Rules
+
 - **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players.
 
 #### Guidelines
+
 - **1/2 patterns should not be longer than five notes.**
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or less.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+
+- Overall Difficulty should be 5 or less.
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
 #### Rules
+
 - **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
 - **Finisher notes must not be used in any 1/4 patterns in this difficulty.** These patterns are not suitable for this difficulty level.
 
 #### Guidelines
+
 - **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
 - **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
@@ -132,15 +144,18 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or less
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+
+- Overall Difficulty should be 5 or less
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 
 #### Rules
+
 - **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
 
 #### Guidelines
+
 - **1/8 patterns should not be longer than two notes.** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment.
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
@@ -148,14 +163,17 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty Setting Guidelines
-- OD should be 5 or more
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+
+- Overall Difficulty should be 5 or more
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
 ### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
 #### Guidelines
+
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
 
 #### Difficulty Setting Guidelines
-- OD should be more than 5.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+
+- Overall Difficulty should be more than 5.
+- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.

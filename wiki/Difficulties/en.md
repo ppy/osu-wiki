@@ -8,7 +8,7 @@ The difficulty of a beatmap *describes* the level of skill needed to complete it
 
 ## Star rating
 
-![Star rating ranges](SR_range.png "Star rating ranges")
+![Star rating ranges](img/SR-range.png "Star rating ranges")
 
 For the [Ranking Criteria](/wiki/Ranking_Criteria), star ratings typically correspond to these difficulties:
 

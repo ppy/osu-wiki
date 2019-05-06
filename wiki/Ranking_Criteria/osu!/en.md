@@ -1,12 +1,10 @@
-osu!
-======
+# osu!
 
 The **osu! Ranking Criteria** is a set of rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
 
 Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
-Glossary
---------
+## Glossary
 
 ### Difficulty Names
 
@@ -15,8 +13,6 @@ Glossary
 -  **![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard**
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
-
-Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for alternative difficulty naming methods.
 
 - **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** A difficulty combining elements found in both Normal and Hard difficulties. It is often used to fill the gap between lower-level normals and higher-level hards.
 - **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** Names used to replace Expert and to indicate increasing difficulty among multiple Expert difficulties.
@@ -42,8 +38,7 @@ Refer to [this thread](https://osu.ppy.sh/community/forums/topics/178700) for al
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
 
-Overall
---------
+## Overall
 
 Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm related guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/osu!/Scaling_BPM).
 
@@ -141,7 +136,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Avoid perfectly overlapping slider bodies within 3 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
-
 
 If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it should follow these guidelines in addition to the ones above
 -  **Avoid more than three actively clicked 1/2 rhythms in a row.**
