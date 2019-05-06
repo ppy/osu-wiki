@@ -96,6 +96,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ## Mappools
 
 ### Round of 32
+
 - FreeMod
   - [Nekomata Master - Avalon no oka (tailsdk) \[Adventure (edit)\]](https://osu.ppy.sh/beatmapsets/799580#mania/2020482)
   - [goreshit - the nature of dying (Shoegazer) \[fatalism\]](https://osu.ppy.sh/beatmapsets/524827#mania/1615535)
