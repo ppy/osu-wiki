@@ -131,7 +131,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - [Chroma - I (-xNaCLx-) \[-xN.taiCLx-\]](https://osu.ppy.sh/beatmapsets/781719#taiko/1641698)
   - [t+pazolite - Good Night, Bad Luck (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/675101#taiko/1633890)
   - [An - Cochma (SKSalt) \[Evil Oni\]](https://osu.ppy.sh/beatmapsets/438670#taiko/944237)
-  - [Kobaryo - Kumo no Kireme \[feat. Kourin.\] (Sayaka-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/958022#taiko/2016360)
+  - [Kobaryo - Kumo no Kireme \[feat. Kourin.\] (Sayaka-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/370678#taiko/930954)
   - [Creo - Challenger (tasuke912) \[Taiko Challenge <OD7\>\]](https://osu.ppy.sh/beatmapsets/952000#taiko/2015923)
 - Hidden
   - [Frums - memoryfactory.lzh (Nifty) \[DEFLATE.zip\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601977)
