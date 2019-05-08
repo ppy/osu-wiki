@@ -23,7 +23,7 @@ In addition, we are restructuring the Mentorship Program schedule! Listed below 
 The timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 - Mentor signups started on 2019-05-08 and close on 2019-05-15.
 - Mentee signups will open on 2019-05-29 and close on 2019-06-08.
-- The 2019 spring cycle will start on 2019-06-12 and end on 2019-09-11.
+- The 2019 summer cycle will start on 2019-06-12 and end on 2019-09-11.
 
 During this time, the internal organization team will host a variety of events on the Discord server, such as mapping contests, modding puzzles, or even just things like multiplayer lobbies with integrated feedback sessions! Some mentors also hold lectures from time to time that are accompanied or followed by an open round of questions from the mentees. A compendium of those can be found over at [this thread](https://osu.ppy.sh/community/forums/topics/851923). If lectures and all aren't for you and you're more of a do-it-yourself person, [this thread](https://osu.ppy.sh/community/forums/topics/514122) collects a lot of mapping puzzles that have been created within the scope of this program to mess around with yourself!
 
