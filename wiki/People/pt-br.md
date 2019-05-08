@@ -7,7 +7,7 @@ A seguir estão os grupos de usuários formados por membros da comunidade osu! q
 - [Equipe de Garantia de Qualidade](/wiki/People/Quality_Assurance_Team)
 - [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team)
 - [Equipe de Suporte](/wiki/People/Support_Team)
+- [Equipe do Project Loved](/wiki/People/Project_Loved_Team)
 - [Moderadores de Idioma](/wiki/People/Language_Moderators)
 - [Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators)
 - [osu! Alumni](/wiki/People/osu!_Alumni)
-- [Equipe do Projeto Amado](/wiki/People/Project_Loved_Team)
