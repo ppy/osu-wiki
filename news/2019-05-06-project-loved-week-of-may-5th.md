@@ -108,7 +108,7 @@ You are going to need a lot of stamina for this one! This one is from Xearo, wit
 230 BPM, 3:59 | 1.25★, 2.36★, 2.53★, 4.55★  
 *description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-This is a song about a girl and how she is thriving to achieve love from people. It is quite a deep one sung by vocaloid Kikuo. It has four difficulties, two of which are made by the creator, nyu -. Each difficulty is made well with nothing out of the ordinary. The hardest difficulty is 4.55 stars and lowest 1.25, so it has some difficulty spread for various skill levels. It has gotten 106 favourites so far and is a fairly aged map. Give it a try and enjoy the song!
+This is a song about a girl and how she is thriving to achieve love from people. It is quite a deep one sung by vocaloid Hatsune Miku. It has four difficulties, two of which are made by the creator, nyu -. Each difficulty is made well with nothing out of the ordinary. The hardest difficulty is 4.55 stars and lowest 1.25, so it has some difficulty spread for various skill levels. It has gotten 106 favourites so far and is a fairly aged map. Give it a try and enjoy the song!
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
