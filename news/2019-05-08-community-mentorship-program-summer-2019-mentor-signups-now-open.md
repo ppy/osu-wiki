@@ -5,7 +5,7 @@ date: 2019-05-08 12:00:00 +0000
 ---
 Ever wanted to get into beatmapping for this game, but have no clue where to start? In that case, the Community Mentorship program might be the way to begin your mapping career!
 
-![](/wiki/shared/news/2019-01-27-community-mentorship-program-spring-2019-signups-now-open/banner.jpg)
+![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
 **Big changes are being made to the program! If you don’t want to miss them, read this post in detail.**
 
