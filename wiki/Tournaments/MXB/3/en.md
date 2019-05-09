@@ -13,7 +13,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-04-05/2019-04-17 |
-| Qualifiers | 2019-05-04/2019-05-05 |
+| Qualification Stage | 2019-05-04/2019-05-05 |
 | Live Drawings | 2019-05-05 19:00 (UTC+8) |
 | Group Stage | 2019-05-11/2019-05-12 |
 | Quarterfinals | 2019-05-18/2019-05-19 |
@@ -54,7 +54,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 ## Participants
 
 |  |  |  |  |
-|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: |
 | [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
 | [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
@@ -62,9 +62,50 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
 
+## Groups
+
+| Group | Players |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
+| B | Anonie | magical Sao | HerrySun | shizehao |
+| C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
+| D | xiao ba | Star0v0 | RW233 | amxmodx |
+
 ## Mappools
 
-*Mappools will be released 1 week before each stage.*
+### Group Stage
+
+**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+
+- FreeMod
+  - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
+  - [stereoberry - evangelize (blurry images) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  - [F-777 - Dance Of The Violins \[error's Hard\]](https://osu.ppy.sh/beatmapsets/642684#mania/1490025)
+  - [Phlogiston - Night Jam \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  - [K A Z M A S A - RTCMON \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
+  - [Morimori Atsushi vs. uma - Arche \[MX\]](https://osu.ppy.sh/beatmapsets/757718#mania/1593977)
+  - [Aoi - Orivia no Genjutsu \[Illusion\]](https://osu.ppy.sh/beatmapsets/758477#mania/1595408)
+  - [Nanawo Akari - One Room Sugar Life(Full ver.) \[Hard\]](https://osu.ppy.sh/beatmapsets/841023#mania/1782167)
+  - [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
+  - [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
+- Tiebreaker
+  - [u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)
+
+### Qualification Stage
+
+**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+
+- FreeMod
+  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
+  - [M2U - Lune \[Stage 2: Moonlight\]](https://osu.ppy.sh/beatmapsets/948056#mania/1979982)
+  - [Alan Walker - The Spectre \[Stage 3:The Spectre\]](https://osu.ppy.sh/beatmapsets/959232#mania/2008278)
+  - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
+
+## Match Results
+
+### Qualification Stage
+
+Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s)** for more details.
 
 ## Rules
 
