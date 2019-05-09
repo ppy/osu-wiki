@@ -98,19 +98,19 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ### Round of 32
 
 - FreeMod
-  - [Nekomata Master - Avalon no oka (tailsdk) \[Adventure (edit)\]](https://osu.ppy.sh/beatmapsets/799580#mania/2020482)
+  - [Nekomata Master - Avalon no oka (tailsdk) \[Adventure (Edit)\]](https://osu.ppy.sh/beatmapsets/799580#mania/2020482)
   - [goreshit - the nature of dying (Shoegazer) \[fatalism\]](https://osu.ppy.sh/beatmapsets/524827#mania/1615535)
   - [The Ghost of 3.13 - Daydream (Vortex-) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
   - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Gekido-) \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
   - [DIVERSA - i use raw expectation to unlock placebo. the placebo is the next thing i do. (Parachor) \[.\_//-\]](https://osu.ppy.sh/beatmapsets/610265#mania/1288556)
-  - [Morimori Atsushi -MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+  - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
   - [Falcom Sound Team jdk - Phantasmagoria (Gekido-) \[Illusion\]](https://osu.ppy.sh/beatmapsets/956066#mania/1997181)
-  - [Cardboard Box - Whazashmup (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/967310#mania/2024426)
+  - [TheBoxX vs. J. Arthur Keenes band - Whazashmup (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/967310#mania/2024426)
   - [cYsmix - Haunted House (juankristal) \[Hollow\]](https://osu.ppy.sh/beatmapsets/967431#mania/2024618)
   - [Terminal 11 - The Bird's Poisoned Bathwater (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/467388#mania/1000029)
   - [Helblinde - Above the Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
 - Tiebreaker
-  - **[Feryquitous - Central Nucleus (tailsdk) \[Pivot Of All Is In The Mind (edit)\]](https://osu.ppy.sh/beatmapsets/814614#mania/2016711)**
+  - **[Feryquitous - Central Nucleus (tailsdk) \[Pivot Of All Is In The Mind (Edit)\]](https://osu.ppy.sh/beatmapsets/814614#mania/2016711)**
 
 ### Group Stage
 
@@ -154,7 +154,7 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ### Group Stage
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml#)**
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml#).**
 
 | Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
