@@ -75,7 +75,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Group Stage
 
-**Download the mappack here! (72.7 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
 
 - FreeMod
   - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
@@ -93,7 +93,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Qualification Stage
 
-**Download the mappack here! (13.6 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
 
 - FreeMod
   - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)

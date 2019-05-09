@@ -75,7 +75,7 @@ tags:
 
 ### 小组赛
 
-**下载完整图池包！（72.7 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+**下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
 
 - FreeMod
   - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
@@ -93,7 +93,7 @@ tags:
 
 ### 资格赛
 
-**下载完整图池包！（13.6 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+**下载完整图池包！（14 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
 
 - FreeMod
   - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
