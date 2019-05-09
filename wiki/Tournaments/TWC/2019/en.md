@@ -88,6 +88,10 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
+![Double Elimination bracket](img/bracket.png)
+
+-----------------------
+
 ## Match Schedule: Semifinals
 
 ### Saturday, 11. May 2019
@@ -96,7 +100,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_PL] | Poland | **11:00 UTC** | 21:00 UTC+10 | 13:00 UTC+02 | ² |
 | Spain | ![][flag_ES] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 | ² |
-| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ² |
+| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
 
 ### Sunday, 12. May 2019
