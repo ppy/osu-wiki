@@ -54,13 +54,22 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 ## Participants
 
 |  |  |  |  |
-|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: |
 | [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
 | [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
 | [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
 | [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
+
+## Groups
+
+| Group | Players |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
+| B | Anonie | magical Sao | HerrySun | shizehao |
+| C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
+| D | xiao ba | Star0v0 | RW233 | amxmodx |
 
 ## Mappools
 
@@ -93,15 +102,6 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## Match Results
-
-### Drawing
-
-| Group | Players |  |  |  |
-|:-:|:-:|:-:|:-:|:-:|
-| A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
-| B | Anonie | magical Sao | HerrySun | shizehao |
-| C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
-| D | xiao ba | Star0v0 | RW233 | amxmodx |
 
 ### Qualification Stage
 
