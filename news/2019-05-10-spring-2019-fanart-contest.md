@@ -8,7 +8,7 @@ Better late than never! Spring might be on the way out, but talent is *always* i
 
 [![](https://assets.ppy.sh/contests/78/header.jpg)](https://osu.ppy.sh/community/contests/78)
 
-If you find yourself a person of artistic interest, this should be right up your alley! The artists among us have **14 days** to take a whirl at drawing any **spring-themed rendition of the osu! official or community mascots**.
+If you find yourself a person of artistic interest, this should be right up your alley! The artists among us have **14 days** to take a whirl at drawing any **spring-themed rendition of the official or community-sourced osu! mascots**.
 
 We mean "spring-themed" as in the season spring, not springs as in bouncy coils or whatever else.
 
