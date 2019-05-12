@@ -69,6 +69,7 @@ All users listed below were added on 2019-02-16.
 ## April
 
 - Moved [Fycho](https://osu.ppy.sh/users/1876867) to the Global Moderation Team (2019-04-10)
+- Added [Ascendance](https://osu.ppy.sh/users/2931883) to the Quality Assurance Team (2019-04-10)
 - Moved [Gabe](https://osu.ppy.sh/users/654108) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
 - Moved [JBHyperion](https://osu.ppy.sh/users/4879508) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
 - Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) to the Global Moderation Team (2019-04-10)
@@ -89,6 +90,6 @@ All users listed below were added on 2019-02-16.
 - [MaridiuS](https://osu.ppy.sh/users/4496961) - resignation (2019-04-01)
 - [alienflybot](https://osu.ppy.sh/users/636114) - resignation (2019-04-12)
 - [Yales](https://osu.ppy.sh/users/2377881) - resignation (2019-04-16)
-- [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
 - [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
+- [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
 - [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
