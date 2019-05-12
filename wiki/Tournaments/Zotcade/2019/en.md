@@ -1,12 +1,11 @@
 ---
 tags:
-- 2019
 - iDOLANSTER
 - Irvine
 - LAN
 - 'The iDOL@NSTER: Irvine Spring Stage'
 - UCI
-- Zotcade
+- Zotcade 2019
 ---
 
 # iDOL@NSTER
