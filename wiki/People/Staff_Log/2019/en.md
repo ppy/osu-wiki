@@ -93,3 +93,39 @@ All users listed below were added on 2019-02-16.
 - [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
 - [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
 - [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
+
+## May
+
+- **Quality Assurance Team becomes the Nomination Assessment Team** (2019-05-06)
+- Moved [-Mo-](https://osu.ppy.sh/users/2202163) to the Nomination Assessment Team (2019-05-06)
+- Moved [Ascendance](https://osu.ppy.sh/users/2931883) to the Nomination Assessment Team (2019-05-06)
+- Moved [Chaoslitz](https://osu.ppy.sh/users/3621552) to the Nomination Assessment Team (2019-05-06)
+- Moved [Deif](https://osu.ppy.sh/users/318565) to the Nomination Assessment Team (2019-05-06)
+- Moved [Feerum](https://osu.ppy.sh/users/4815717) to the Nomination Assessment Team (2019-05-06)
+- Moved [Gottagof4st](https://osu.ppy.sh/users/6122935) to the Nomination Assessment Team (2019-05-06)
+- Moved [Kibbleru](https://osu.ppy.sh/users/3193504) to the Nomination Assessment Team (2019-05-06)
+- Moved [Lasse](https://osu.ppy.sh/users/896613) to the Nomination Assessment Team (2019-05-06)
+- Moved [Mao](https://osu.ppy.sh/users/2204515) to the Nomination Assessment Team (2019-05-06)
+- Moved [Maxus](https://osu.ppy.sh/users/4335785) to the Nomination Assessment Team (2019-05-06)
+- Moved [Mir](https://osu.ppy.sh/users/8688812) to the Nomination Assessment Team (2019-05-06)
+- Moved [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) to the Nomination Assessment Team (2019-05-06)
+- Moved [Naxess](https://osu.ppy.sh/users/8129817) to the Nomination Assessment Team (2019-05-06)
+- Moved [pishifat](https://osu.ppy.sh/users/3178418) to the Nomination Assessment Team (2019-05-06)
+- Moved [ZiRoX](https://osu.ppy.sh/users/200768) to the Nomination Assessment Team (2019-05-06)
+- Added [Faputa](https://osu.ppy.sh/users/845733) to the Nomination Assessment Team (2019-05-07)
+- Moved [ghm12](https://osu.ppy.sh/users/2594229) to the osu! Alumni (2019-05-11)
+- Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the osu! Alumni (2019-05-27)
+
+### Beatmap Nominator additions
+
+- [Unpredictable](https://osu.ppy.sh/users/7560872) (2019-05-11)
+- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) (2019-05-11)
+- [bite you death](https://osu.ppy.sh/users/6398464) (2019-05-11)
+- [Nao Tomori](https://osu.ppy.sh/users/5364763) (2019-05-11)
+- [Absolute Zero](https://osu.ppy.sh/users/4847256) (2019-05-13)
+- [Dapuluous](https://osu.ppy.sh/users/8140944) (2019-05-13)
+
+### Beatmap Nominator removals
+
+- [Serizawa Haruki](https://osu.ppy.sh/users/6642617) - insufficient proficiency (2019-05-02)
+- [chickenbible](https://osu.ppy.sh/users/2306637) - resignation (2019-05-09)
