@@ -287,21 +287,21 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Sunday, 2019-01-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | GSBlank ![][flag_SG] | 2 | **8** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/49167390) |
 
 ### Finals
 
 | Friday, 2019-01-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Crezz ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/48940594) |
 
 | Saturday, 2019-01-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](https://osu.ppy.sh/community/matches/48967140) |
 
 | Sunday, 2019-01-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](https://osu.ppy.sh/community/matches/48994166) |
 | Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/48995392) |
 | Raindrop ![][flag_SG] | 2 | **7** | ![][flag_SG] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/49002936) |
@@ -309,17 +309,17 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 | Friday, 2019-01-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | ShaneLiang ![][flag_MY] | 0 | **7** | ![][flag_MY] **TequilaWolf** | -win by default- |
 | MioMilo ![][flag_PH] | 4 | **7** | ![][flag_SG] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/48769481) |
 | **wuhua** ![][flag_MY] | **7** | 1 | ![][flag_MY] Tzero | [#1](https://osu.ppy.sh/community/matches/48770986) |
 
 | Saturday, 2019-01-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_SG] M4-K1 | [#1](https://osu.ppy.sh/community/matches/48801520) |
 
 | Sunday, 2019-01-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Crezz ![][flag_ID] | 1 | **7** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/48822893) |
 | **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_MY] wuhua | [#1](https://osu.ppy.sh/community/matches/48824654) |
 | Raindrop ![][flag_SG] | 3 | **7** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/48827871) |
@@ -328,7 +328,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 | Friday, 2019-01-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **M4-K1** ![][flag_SG] | **6** | 3 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48604448) |
 | SeeL ![][flag_SG] | 5 | **6** | ![][flag_ID] **Crezz** | [#1](https://osu.ppy.sh/community/matches/48606911) |
 | Jeffrey ![][flag_MY] | 1 | **6** | ![][flag_SG] **Demonical** | [#1](https://osu.ppy.sh/community/matches/48606909) |
@@ -336,7 +336,7 @@ This competition has come to an end and resulted in the following podium:
 | **moosepi** ![][flag_SG] | **6** | 4 | ![][flag_SG] k\_1tty | [#1](https://osu.ppy.sh/community/matches/48608156) |
 
 | Saturday, 2019-01-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | san-lotso ![][flag_TH] | 0 | **6** | ![][flag_SG] **Lunarsol** | -win by default- |
 | dunois ![][flag_CA] | 0 | **6** | ![][flag_MY] **Zygody** | -win by default- |
 | **Rexeez** ![][flag_ID] | **6** | 4 | ![][flag_PH] MioMilo | [#1](https://osu.ppy.sh/community/matches/48631606) |
@@ -346,27 +346,27 @@ This competition has come to an end and resulted in the following podium:
 | **GSBlank** ![][flag_SG] | **6** | 4 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/48636640) |
 
 | Sunday, 2019-01-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Skydiver** ![][flag_ID] | **6** | 2 | ![][flag_MY] wuhua | [#1](https://osu.ppy.sh/community/matches/48656093) |
 | **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/48659324) |
 | **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](https://osu.ppy.sh/community/matches/48662723) |
 
 | Monday, 2019-01-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Zygody ![][flag_MY] | 0 | **6** | ![][flag_SG] **M4-K1** | [#1](https://osu.ppy.sh/community/matches/48684949) |
 
 ### Round of 16
 
 | Wednesday, 2018-12-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **UnitedNovel** ![][flag_VN] | **6** | 1 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48381333) |
 
 | Thursday, 2018-12-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | UltimaticCatz ![][flag_TH] | 1 | **6** | ![][flag_ID] **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/48402325) |
 
 | Friday, 2018-12-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Dcyte ![][flag_TH] | 0 | **6** | ![][flag_ID] **phizh** | -win by default- |
 | **Shironi** ![][flag_VN] | **6** | 2 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/48430991) |
 | **Skydiver** ![][flag_ID] | **6** | 0 | ![][flag_MY] Jeffrey | [#1](https://osu.ppy.sh/community/matches/48431150) |
@@ -374,7 +374,7 @@ This competition has come to an end and resulted in the following podium:
 | **yumesaki-hikari** ![][flag_MY] | **6** | 0 | ![][flag_SG] feces | -win by default- |
 
 | Saturday, 2018-12-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **wuhua** ![][flag_MY] | **6** | 1 | ![][flag_MY] TequilaWolf | [#1](https://osu.ppy.sh/community/matches/48453888) |
 | **haruchi** ![][flag_MY] | **6** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/48454378) |
 | **youi** ![][flag_SG] | **6** | 0 | ![][flag_TH] Vignette- | -win by default- |
@@ -391,7 +391,7 @@ This competition has come to an end and resulted in the following podium:
 | - Phantasma - ![][flag_TH] | 4 | **6** | ![][flag_SG] **Demonical** | [#1](https://osu.ppy.sh/community/matches/48460873) |
 
 | Sunday, 2018-12-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Applause** ![][flag_TH] | **6** | 2 | ![][flag_MY] Computer Badger | [#1](https://osu.ppy.sh/community/matches/48485016) |
 | **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_MY] haruchi | [#1](https://osu.ppy.sh/community/matches/48485071) |
 | dika312 ![][flag_ID] | 3 | **6** | ![][flag_SG] **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/48485035) |
@@ -402,32 +402,32 @@ This competition has come to an end and resulted in the following podium:
 | **woahsia** ![][flag_SG] | **6** | 2 | ![][flag_VN] UnitedNovel | [#1](https://osu.ppy.sh/community/matches/48487478) |
 
 | Monday, 2018-12-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Demonical** ![][flag_SG] | **6** | 1 | ![][flag_ID] -Reuto- | [#1](https://osu.ppy.sh/community/matches/48513392) |
 
 | Tuesday, 2019-01-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | M4-K1 ![][flag_SG] | 1 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/48537518) |
 
 | Wednesday, 2019-01-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | dunois ![][flag_CA] | 0 | **6** | ![][flag_PH] **MioMilo** | -win by default- |
 
 ### Round of 32
 
 | Wednesday, 2018-12-19 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Raindrop** ![][flag_SG] | **6** | 3 | ![][flag_SG] Loslite | [#1](https://osu.ppy.sh/community/matches/48202764) |
 | yumesaki-hikari ![][flag_MY] | 2 | **6** | ![][flag_TH] **san-lotso** | [#1](https://osu.ppy.sh/community/matches/48207149) |
 
 | Thursday, 2018-12-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Agagak** ![][flag_MY] | **6** | 2 | ![][flag_ID] GtaDestroyer | [#1](https://osu.ppy.sh/community/matches/48225236) |
 | **GSBlank** ![][flag_SG] | **6** | 1 | ![][flag_TH] Applause | [#1](https://osu.ppy.sh/community/matches/48227119) |
 | **wuhua** ![][flag_MY] | **6** | 1 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/48227565) |
 
 | Friday, 2018-12-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Jeffrey** ![][flag_MY] | **6** | 1 | ![][flag_VN] UnitedNovel | [#1](https://osu.ppy.sh/community/matches/48243076) |
 | **Rayhan Hamil** ![][flag_ID] | **6** | 0 | ![][flag_ID] \[-Kazumine-\] | -win by default- |
 | **Skydiver** ![][flag_ID] | **6** | 1 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48247506) |
@@ -442,13 +442,13 @@ This competition has come to an end and resulted in the following podium:
 | Somay 287 ![][flag_ID] | 2 | **6** | ![][flag_SG] **feces** | [#1](https://osu.ppy.sh/community/matches/48254550) |
 
 | Saturday, 2018-12-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](https://osu.ppy.sh/community/matches/48270056) |
 | **dunois** ![][flag_CA] | **6** | 5 | ![][flag_VN] Shironi | [#1](https://osu.ppy.sh/community/matches/48274688) |
 | **M4-K1** ![][flag_SG] | **6** | 1 | ![][flag_TH] UltimaticCatz | [#1](https://osu.ppy.sh/community/matches/48283516) |
 
 | Sunday, 2018-12-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | 121Brian121 ![][flag_ID] | 3 | **6** | ![][flag_TH] **Vignette-** | [#1](https://osu.ppy.sh/community/matches/48300780) |
 | **Crezz** ![][flag_ID] | **6** | 5 | ![][flag_SG] Rtzero | [#1](https://osu.ppy.sh/community/matches/48303897) |
 | k\_1tty ![][flag_SG] | 2 | **6** | ![][flag_MY] **ShaneLiang** | [#1](https://osu.ppy.sh/community/matches/48306389) |
@@ -458,23 +458,23 @@ This competition has come to an end and resulted in the following podium:
 | **\[Winter\]** ![][flag_MY] | **6** | 3 | ![][flag_ID] Evanescent- | [#1](https://osu.ppy.sh/community/matches/48309216) |
 
 | Monday, 2018-12-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **praguzz** ![][flag_ID] | **6** | 5 | ![][flag_SG] CryingWaff | [#1](https://osu.ppy.sh/community/matches/48313478) |
 | **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] youi | [#1](https://osu.ppy.sh/community/matches/48333910) |
 
 | Tuesday, 2018-12-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **TequilaWolf** ![][flag_MY] | **6** | 0 | ![][flag_MY] haruchi | -win by default- |
 
 | Wednesday, 2018-12-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Xidorn ![][flag_PH] | 2 | **6** | ![][flag_ID] **Kurosaki** | [#1](https://osu.ppy.sh/community/matches/48376875) |
 | - Phantasma - ![][flag_TH] | 0 | **6** | ![][flag_ID] **Rexeez** | -win by default- |
 
 ### Group Stage
 
 | Friday, 2018-12-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Tuon** ![][flag_VN] | **5** | 1 | ![][flag_ID] DifSec- | [#1](https://osu.ppy.sh/community/matches/47934326) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_ID] ELNabhan | [#1](https://osu.ppy.sh/community/matches/47935317) |
 | **Computer Badger** ![][flag_MY] | **5** | 2 | ![][flag_PH] Texo | [#1](https://osu.ppy.sh/community/matches/47935219) |
@@ -486,7 +486,7 @@ This competition has come to an end and resulted in the following podium:
 | **fixedbyglue** ![][flag_PH] | **5** | 0 | ![][flag_SG] babypliggy | [#1](https://osu.ppy.sh/community/matches/47939178) |
 
 | Saturday, 2018-12-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **dunois** ![][flag_CA] | **5** | 0 | ![][flag_MY] haruchi | [#1](https://osu.ppy.sh/community/matches/47951939) |
 | **hyoketsujuukyu** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](https://osu.ppy.sh/community/matches/47953689) |
 | LoidKun ![][flag_ID] | 0 | **5** | ![][flag_TH] **Yukkuri** | -win by default- |
@@ -526,7 +526,7 @@ This competition has come to an end and resulted in the following podium:
 | **woahsia** ![][flag_SG] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](https://osu.ppy.sh/community/matches/47965625) |
 
 | Sunday, 2018-12-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] phizh | [#1](https://osu.ppy.sh/community/matches/47967054) |
 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_ID] hyoketsujuukyu | [#1](https://osu.ppy.sh/community/matches/47981276) |
 | **LoidKun** ![][flag_ID] | **5** | 0 | ![][flag_VN] kaphat123 | -win by default- |
@@ -564,20 +564,20 @@ This competition has come to an end and resulted in the following podium:
 | **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_MY] alphaplay | [#1](https://osu.ppy.sh/community/matches/47992597) |
 
 | Monday, 2018-12-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **dika312** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/48007098) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48010210) |
 
 | Tuesday, 2018-12-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Applause** ![][flag_TH] | **5** | 3 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48028246), [#2](https://osu.ppy.sh/community/matches/48028805) |
 
 | Thursday, 2018-12-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **haruchi** ![][flag_MY] | **5** | 3 | ![][flag_ID] Rayhan Hamil | [#1](https://osu.ppy.sh/community/matches/48063619) |
 
 | Friday, 2018-12-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Jeffrey** ![][flag_MY] | **5** | 0 | ![][flag_TH] Ultimatic Catz | [#1](https://osu.ppy.sh/community/matches/48082361) |
 | **MioMilo** ![][flag_PH] | **5** | 4 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/48082525) |
 | **Kurosaki** ![][flag_ID] | **5** | 3 | ![][flag_PH] Xidorn | [#1](https://osu.ppy.sh/community/matches/48082917) |
@@ -599,7 +599,7 @@ This competition has come to an end and resulted in the following podium:
 | **Evanescent-** ![][flag_ID] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
 
 | Saturday, 2018-12-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **ShaneLiang** ![][flag_MY] | **5** | 1 | ![][flag_ID] GtaDestroyer | [#1](https://osu.ppy.sh/community/matches/48100943) |
 | **Portador0409** ![][flag_VN] | **5** | 0 | ![][flag_ID] DifSec- | -win by default- |
 | **youi** ![][flag_SG] | **5** | 0 | ![][flag_ID] DifSec- | -win by default- |
@@ -626,7 +626,7 @@ This competition has come to an end and resulted in the following podium:
 | **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_TH] Seaweed | -win by default- |
 
 | Sunday, 2018-12-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Seaweed ![][flag_TH] | 0 | **5** | ![][flag_TH] **Seaweed** | -win by default- |
 | **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_SG] feces | [#1](https://osu.ppy.sh/community/matches/48117021) |
 | Hoaq ![][flag_MY] | 0 | **5** | ![][flag_ID] **GtaDestroyer** | -win by default- |
@@ -658,11 +658,11 @@ This competition has come to an end and resulted in the following podium:
 | **alphaplay** ![][flag_MY] | **5** | 3 | ![][flag_ID] praguzz | [#1](https://osu.ppy.sh/community/matches/48142584) |
 
 | Monday, 2018-12-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **- Phantasma -** ![][flag_TH] | **5** | 1 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48145272) |
 
 | Tuesday, 2018-12-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_SG] babypliggy | -win by default- |
 
 ------------------------------------------------------------------------

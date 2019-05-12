@@ -12,7 +12,7 @@ osu!-specific file format
 | [.osk][Osk Link]       | skin file.                                                                                                |
 | [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
 
-### [Beatmap Editor](/wiki/Beatmap_Editor)
+### Beatmap Editor
 
 | File format                                 | Kegunaan                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|

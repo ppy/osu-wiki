@@ -12,7 +12,7 @@ Formats de fichiers spécifiques à osu!
 | [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
 | [.db][Db Link]        | Fichier de base de données.                                                                                            |
 
-### [Éditeur de beatmap](/wiki/Beatmap_Editor)
+### Éditeur de beatmap
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|

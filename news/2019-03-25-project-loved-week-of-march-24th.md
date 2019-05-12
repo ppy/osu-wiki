@@ -81,14 +81,6 @@ Arphimigon's collection of maps here includes songs like Little Einsteins, Poins
 
 This high-difficulty 240 BPM map will surely test your aiming skills! It's made by Sakura no Hana, and it's a hard one. Although the difficulty is 8.12 stars, it is quite comfortable most of the time. At some times it gets quite spaced with the jumps while maintaining a good flow. The only thing left to do is practice your aim and tap away! Rocking in at around 100 favorites, this map is valued by the community. Just don't play this in the middle of the night! You might wake somebody up!
 
-[![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/pump.jpg)](https://osu.ppy.sh/community/forums/topics/885969)
-
-[YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/721307#osu) by [benqbenq](https://osu.ppy.sh/users/7184537)  
-180 BPM, 2:44 | 6.08★  
-*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
-
-At first, this may seem like an ordinary map from benqbenq. If you have hitsounds on though, you will understand why the difficulty name is gachiGASM. The song "YUC'e - PUMP" works great for a map with some spacing changing streams and unexpected jumps. The song has quite a happy tone to it, and the gachi hitsounds at the right times in the song really makes for an addition to the map! If you do not like the addition, then you can also disable hitsounds and play it like a normal beatmap. Come on, let's go!
-
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/tsubaki.jpg)](https://osu.ppy.sh/community/forums/topics/885968)
 
 [Ocelot - TSUBAKI](https://osu.ppy.sh/beatmapsets/336772#osu) by [kiddly](https://osu.ppy.sh/users/74937) et al.  

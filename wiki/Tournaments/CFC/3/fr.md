@@ -260,13 +260,13 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### Grandes finales
 
 | Samedi, 2018-10-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46842396) |
 
 ### Finales
 
 | Samedi, 2018-10-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46670175) |
 | **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/46673460) |
 | **Noulayfe** ![][flag_FR] | **7** | 4 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/46677078) |
@@ -274,28 +274,28 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### Demi-finales
 
 | Samedi, 2018-10-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46497617) |
 | floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | -win by default- |
 | **-Ken** ![][flag_TN] | **6** | 0 | ![][flag_FR] Electr0o | [#1](https://osu.ppy.sh/community/matches/46508723) |
 | **Boros** ![][flag_FR] | **6** | 3 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/46510801) |
 
 | Dimanche, 2018-10-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/46530564) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46536947) |
 
 ### Quarts-de-finale
 
 | Samedi, 2018-09-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46322875) |
 | **Electr0o** ![][flag_FR] | **5** | 1 | ![][flag_FR] Astreachan | [#1](https://osu.ppy.sh/community/matches/46323746) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **5** | 3 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/46330937) |
 | Boros ![][flag_FR] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46339295) |
 
 | Dimanche, 2018-09-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Boros** ![][flag_FR] | **5** | 1 | ![][flag_FR] Orazeit | [#1](https://osu.ppy.sh/community/matches/46357124) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/46358676) |
 | Astreachan ![][flag_FR] | 4 | **5** | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/46360261) |
@@ -304,7 +304,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### 16èmes de finale
 
 | Samedi, 2018-09-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **4** | 0 | ![][flag_FR] 07th Loli | [#1](https://osu.ppy.sh/community/matches/46150000) |
 | **Boros** ![][flag_FR] | **4** | 2 | ![][flag_FR] Sounny | [#1](https://osu.ppy.sh/community/matches/46150122) |
 | Orazeit ![][flag_FR] | 3 | **4** | ![][flag_FR] **Julo** | [#1](https://osu.ppy.sh/community/matches/46151403) |
@@ -315,19 +315,19 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Sinaeb ![][flag_CA] | 1 | **4** | ![][flag_FR] **Holloh** | [#1](https://osu.ppy.sh/community/matches/46159045) |
 
 | Dimanche, 2018-09-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | 07th Loli ![][flag_FR] | 0 | **4** | ![][flag_FR] **Orazeit** | [#1](https://osu.ppy.sh/community/matches/46184845) |
 | **floflim** ![][flag_FR] | **4** | 1 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/46187781) |
 | **Sounny** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | -win by default- |
 
 | Mardi, 2018-09-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | -win by default- |
 
 ### Phase de poules
 
 | Groupe | Samedi, 2018-09-08 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | SkaylleexSamaFR ![][flag_FR] | 0 | **3** | ![][flag_FR] **floflim** | -win by default- |
 | B | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **07th Loli** | -win by default- |
 | B | Nyton ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/45795008) |
@@ -349,7 +349,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | E | **Electr0o** ![][flag_FR] | **3** | 0 | ![][flag_FR] CaptainAlexis | [#1](https://osu.ppy.sh/community/matches/45808697) |
 
 | Groupe | Dimanche, 2018-09-09 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D | **Julo** ![][flag_FR] | **3** | 1 | ![][flag_FR] \[Haku\] | [#1](https://osu.ppy.sh/community/matches/45829507) |
 | D | **Holloh** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/45830577) |
 | D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | [#1](https://osu.ppy.sh/community/matches/45831742) |
@@ -361,17 +361,17 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | -win by default- |
 
 | Groupe | Lundi, 2018-09-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Fanther** | [#1](https://osu.ppy.sh/community/matches/45863085) |
 | E | CaptainAlexis ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/45864499) |
 
 | Groupe | Mercredi, 2018-09-12 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F | dracoV ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](https://osu.ppy.sh/community/matches/45903381) |
 | A | **floflim** ![][flag_FR] | **3** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/45905966) |
 
 | Groupe | Samedi, 2018-09-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | A | Chernobog ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/45973053) |
 | F | tutiflo ![][flag_FR] | 0 | **3** | ![][flag_FR] **dracoV** | -win by default- |
 | F | Iyorin ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](https://osu.ppy.sh/community/matches/45975575) |
@@ -387,7 +387,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] **Libegon** | -win by default- |
 
 | Groupe | Dimanche, 2018-09-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | -win by default- |
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |

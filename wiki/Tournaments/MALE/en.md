@@ -255,14 +255,14 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 #### Grand Finals
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | Forfeit (left early) |
 | **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191321) |
 | **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49191330) |
 | R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [Multiplayer match](https://osu.ppy.sh/community/matches/49191755) |
@@ -271,7 +271,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 #### Semifinals
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [Multiplayer match](https://osu.ppy.sh/community/matches/49190507) |
 | **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [Multiplayer match](https://osu.ppy.sh/community/matches/49190193) |
 | **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/49190471) |
@@ -284,7 +284,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 #### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189563) |
 | MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** |  |
 | **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [Multiplayer match](https://osu.ppy.sh/community/matches/49190579) |
@@ -295,7 +295,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 #### Round of 16
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** |  |
 | **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r |  |
 | **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189127) |
@@ -315,7 +315,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 #### Losers bracket (not used)
 
 | Player 1 |  |  | Player 2 | Notes |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
 | **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi |  |
 | **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | Forfeit |

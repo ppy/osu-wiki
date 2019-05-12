@@ -295,21 +295,21 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 | Sunday, 2014-06-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Sweden** ![][flag_SE] | **6** | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | Germany ![][flag_DE] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/7317343) |
 
 ### Semifinals
 
 | Sunday, 2014-06-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Sweden ![][flag_SE] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/7127415) |
 | **Germany** ![][flag_DE] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/7128373) |
 
 ### Quarterfinals
 
 | Sunday, 2014-06-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Finland ![][flag_FI] | 4 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/6972405) |
 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/6974337) |
 | **Sweden** ![][flag_SE] | **5** | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/6975640) |
@@ -318,7 +318,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Saturday, 2014-05-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/6808334) |
 | **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/6808918) |
 | Spain ![][flag_ES] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/6810811) |
@@ -331,7 +331,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Saturday, 2014-05-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Austria ![][flag_AT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/6655525) |
 | **South Korea** ![][flag_KR] | **4** | 0 | Bolivia ![][flag_BO] | [#1](https://osu.ppy.sh/community/matches/6655395) |
 | China ![][flag_CN] | 0 | **4** | **Uruguay** ![][flag_UY] | -win by default- |

@@ -238,32 +238,32 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Saturday, 2018-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Play Offline ![][flag_CN] | 3 | **6** | ![][flag_TR] **heyronii** | [#1](https://osu.ppy.sh/community/matches/40538572) |
 
 | Sunday, 2018-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SanteriP** ![][flag_FI] | **6** | 2 | ![][flag_TR] heyronii | [#1](https://osu.ppy.sh/community/matches/40572763) |
 
 ### Finals
 
 | Saturday, 2018-02-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Bartek22830 ![][flag_PL] | 0 | **6** | ![][flag_TR] **heyronii** | -win by default- |
 | **melloe** ![][flag_US] | **6** | 1 | ![][flag_RU] Starger | [#1](https://osu.ppy.sh/community/matches/40355503) |
 
 | Sunday, 2018-02-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **heyronii** ![][flag_TR] | **6** | 4 | ![][flag_US] melloe | [#1](https://osu.ppy.sh/community/matches/40388082) |
 
 | Wednesday, 2018-02-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Play Offline ![][flag_CN] | 3 | **6** | ![][flag_FI] **SanteriP** | [#1](https://osu.ppy.sh/community/matches/40451132) |
 
 ### Semifinals
 
 | Saturday, 2018-02-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Blue-Orb** ![][flag_NL] | **5** | 0 | ![][flag_GR] awesomemacD | -win by default- |
 | Lasseh ![][flag_CL] | 0 | **5** | ![][flag_RU] **Starger** | -win by default- |
 | **Starger** ![][flag_RU] | **5** | 4 | ![][flag_NL] Blue-Orb | [#1](https://osu.ppy.sh/community/matches/40155226) |
@@ -271,29 +271,29 @@ This competition has come to an end and resulted in the following podium:
 | **heyronii** ![][flag_TR] | **5** | 1 | ![][flag_UA] kug1 | [#1](https://osu.ppy.sh/community/matches/40164616) |
 
 | Sunday, 2018-02-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Yumbtah ![][flag_CL] | 2 | **5** | ![][flag_TR] **heyronii** | [#1](https://osu.ppy.sh/community/matches/40191390) |
 
 | Tuesday, 2018-02-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | melloe ![][flag_US] | 4 | **5** | ![][flag_CN] **Play Offline** | [#1](https://osu.ppy.sh/community/matches/40304228) |
 
 | Wednesday, 2018-02-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SanteriP** ![][flag_FI] | **5** | 2 | ![][flag_PL] Bartek22830 | [#1](https://osu.ppy.sh/community/matches/40267178) |
 
 ### Quarterfinals
 
 | Wednesday, 2018-02-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Play Offline** ![][flag_CN] | **5** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/39878324) |
 
 | Friday, 2018-02-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Tiltboi ![][flag_AT] | 4 | **5** | ![][flag_UA] **kug1** | [#1](https://osu.ppy.sh/community/matches/39931127) |
 
 | Saturday, 2018-02-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **melloe** ![][flag_US] | **5** | 4 | ![][flag_TR] heyronii | [#1](https://osu.ppy.sh/community/matches/39952168) |
 | Fasutorui ![][flag_NZ] | 0 | **5** | ![][flag_GR] **awesomemacD** | -win by default- |
 | Blue-Orb ![][flag_NL] | 4 | **5** | ![][flag_FI] **SanteriP** | [#1](https://osu.ppy.sh/community/matches/39956066) |
@@ -305,20 +305,20 @@ This competition has come to an end and resulted in the following podium:
 | Ted ![][flag_US] | 2 | **5** | ![][flag_CA] **peng** | [#1](https://osu.ppy.sh/community/matches/39975827) |
 
 | Sunday, 2018-02-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | CookEasy ![][flag_DE] | 4 | **5** | ![][flag_UA] **kug1** | [#1](https://osu.ppy.sh/community/matches/39993738) |
 | Alice Carroll ![][flag_UY] | 4 | **5** | ![][flag_GR] **awesomemacD** | [#1](https://osu.ppy.sh/community/matches/39993266) |
 | Lasseh ![][flag_CL] | 2 | **5** | ![][flag_PL] **Bartek22830** | [#1](https://osu.ppy.sh/community/matches/39998235) |
 | **Yumbtah** ![][flag_CL] | **5** | 1 | ![][flag_CA] Saltstick | [#1](https://osu.ppy.sh/community/matches/40003777) |
 
 | Monday, 2018-02-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | peng ![][flag_CA] | 4 | **5** | ![][flag_RU] **Starger** | [#1](https://osu.ppy.sh/community/matches/40029839) |
 
 ### Round of 16
 
 | Sunday, 2018-02-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Fasutorui** ![][flag_NZ] | **5** | 0 | ![][flag_HK] Coni | -win by default- |
 | CookEasy ![][flag_DE] | 0 | **5** | ![][flag_FI] **SanteriP** | [#1](https://osu.ppy.sh/community/matches/39804100) |
 | kug1 ![][flag_UA] | 2 | **5** | ![][flag_NL] **Blue-Orb** | [#1](https://osu.ppy.sh/community/matches/39808833) |
@@ -331,7 +331,7 @@ This competition has come to an end and resulted in the following podium:
 | Doughy ![][flag_GB] | 3 | **5** | ![][flag_US] **Ted** | [#1](https://osu.ppy.sh/community/matches/39819715) |
 
 | Monday, 2018-02-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **5** | 3 | ![][flag_CA] peng | [#1](https://osu.ppy.sh/community/matches/39826558) |
 | Starger ![][flag_RU] | 2 | **5** | ![][flag_CN] **Play Offline** | [#1](https://osu.ppy.sh/community/matches/39832058) |
 | bleq ![][flag_BR] | 2 | **5** | ![][flag_AT] **Tiltboi** | [#1](https://osu.ppy.sh/community/matches/39840164) |
@@ -341,12 +341,12 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 | Friday, 2018-02-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Bartek22830** ![][flag_PL] | **5** | 3 | ![][flag_HK] Coni | [#1](https://osu.ppy.sh/community/matches/39731702) |
 | **awesomemacD** ![][flag_GR] | **5** | 0 | ![][flag_ES] Betwin | -win by default- |
 
 | Saturday, 2018-02-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **5** | 1 | ![][flag_BR] bleq | [#1](https://osu.ppy.sh/community/matches/39768149) |
 | **SanteriP** ![][flag_FI] | **5** | 1 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/39768119) |
 | Doughy ![][flag_GB] | 2 | **5** | ![][flag_UA] **kug1** | [#1](https://osu.ppy.sh/community/matches/39769672) |
@@ -359,7 +359,7 @@ This competition has come to an end and resulted in the following podium:
 | - M o D e - ![][flag_US] | 0 | **5** | ![][flag_CA] **Saltstick** | -win by default- |
 
 | Sunday, 2018-02-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Play Offline** ![][flag_CN] | **5** | 3 | ![][flag_UY] Daanit | [#1](https://osu.ppy.sh/community/matches/39790198) |
 | **Yumbtah** ![][flag_CL] | **5** | 1 | ![][flag_NZ] Fasutorui | [#1](https://osu.ppy.sh/community/matches/39790177) |
 | **Lasseh** ![][flag_CL] | **5** | 4 | ![][flag_DE] likejaxirl | [#1](https://osu.ppy.sh/community/matches/39814565) |
@@ -368,7 +368,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Match ID | Saturday, 2018-01-20 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G1 | **Betwin** ![][flag_ES] | **4** | 0 | ![][flag_AU] yee lmao | -win by default- |
 | A4 | **Starger** ![][flag_RU] | **4** | 0 | ![][flag_CA] NeoAxel | -win by default- |
 | A5 | **bleq** ![][flag_BR] | **4** | 0 | ![][flag_DE] SyNeX | [#1](https://osu.ppy.sh/community/matches/39381502) |
@@ -388,7 +388,7 @@ This competition has come to an end and resulted in the following podium:
 | D5 | Nightshiftt ![][flag_UY] | 2 | **4** | ![][flag_GR] **Akashii** | [#1](https://osu.ppy.sh/community/matches/39397954) |
 
 | Match ID | Sunday, 2018-01-21 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D1 | **Daanit** ![][flag_UY] | **4** | 0 | ![][flag_UY] Nightshiftt | -win by default- |
 | E4 | Lunicia ![][flag_US] | 0 | **4** | ![][flag_US] **melloe** | [#1](https://osu.ppy.sh/community/matches/39399720) |
 | G6 | **brrett** ![][flag_US] | **4** | 0 | ![][flag_AU] yee lmao | -win by default- |
@@ -418,13 +418,13 @@ This competition has come to an end and resulted in the following podium:
 | H5 | **Saltstick** ![][flag_CA] | **4** | 0 | ![][flag_US] Junjou | -win by default- |
 
 | Match ID | Friday, 2018-01-26 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | M6 | Marisa Kirisame ![][flag_DE] | 0 | **4** | ![][flag_UA] **kug1** | -win by default- |
 | M3 | **kug1** ![][flag_UA] | **4** | 1 | ![][flag_NO] - Markus - | [#1](https://osu.ppy.sh/community/matches/39550651) |
 | P6 | **- M o D e -** ![][flag_US] | **4** | 3 | ![][flag_NZ] fumes | [#1](https://osu.ppy.sh/community/matches/39559578) |
 
 | Match ID | Saturday, 2018-01-27 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | J2 | **Blue-Orb** ![][flag_NL] | **4** | 0 | ![][flag_HK] ReZero\_Emilia | -win by default- |
 | J1 | likejaxirl ![][flag_DE] | 1 | **4** | ![][flag_NL] **Blue-Orb** | [#1](https://osu.ppy.sh/community/matches/39587869) |
 | J3 | **likejaxirl** ![][flag_DE] | **4** | 2 | ![][flag_HK] ReZero\_Emilia | [#1](https://osu.ppy.sh/community/matches/39571294) |
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 | N5 | AriizuCA ![][flag_US] | 0 | **4** | ![][flag_US] **BobbyZlich** | [#1](https://osu.ppy.sh/community/matches/39593654) |
 
 | Match ID | Sunday, 2018-01-28 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | J4 | SouAPlayer ![][flag_US] | 0 | **4** | ![][flag_NL] **Blue-Orb** | [#1](https://osu.ppy.sh/community/matches/39598053) |
 | J6 | ReZero\_Emilia ![][flag_HK] | 0 | **4** | ![][flag_US] **SouAPlayer** | -win by default- |
 | L2 | **Piggles354** ![][flag_US] | **4** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/39601550) |
@@ -471,7 +471,7 @@ This competition has come to an end and resulted in the following podium:
 | N2 | **Okino may** ![][flag_IL] | **4** | 0 | ![][flag_US] AriizuCA | [#1](https://osu.ppy.sh/community/matches/39627869) |
 
 | Match ID | Monday, 2018-01-29 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | N1 | **BobbyZlich** ![][flag_US] | **4** | 3 | ![][flag_IL] Okino may | [#1](https://osu.ppy.sh/community/matches/39628678) |
 | I3 | \[Nii-san\] ![][flag_PL] | 0 | **4** | ![][flag_CL] **Yumbtah** | -win by default- |
 | I2 | **TiltBoi** ![][flag_AT] | **4** | 0 | ![][flag_PL] \[Nii-san\] | -win by default- |

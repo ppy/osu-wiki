@@ -205,57 +205,57 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 | Saturday, 2019-01-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/48798362) |
 
 ### Finals
 
 | Saturday, 2019-01-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/48633506) |
 | -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **7** | ![][flag_PL] **SitekX** | [#1](https://osu.ppy.sh/community/matches/48632373) |
 
 | Sunday, 2019-01-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | SitekX ![][flag_PL] | 6 | **7** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/48661045) |
 
 ### Semifinals
 
 | Saturday, 2018-12-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | BossMadWolf ![][flag_TH] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/48109370) |
 | **xSnaggles** ![][flag_GB] | **5** | 4 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/48122244) |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_FI] Camopoltergeist | [#1](https://osu.ppy.sh/community/matches/48109390) |
 | MyZterioN- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](https://osu.ppy.sh/community/matches/48106115) |
 
 | Sunday, 2018-12-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | BossMadWolf ![][flag_TH] | 2 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | [#1](https://osu.ppy.sh/community/matches/48137730) |
 | \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_PL] **SitekX** | -win by default- |
 
 ### Quarterfinals
 
 | Friday, 2018-12-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **5** | 1 | ![][flag_MY] \[MY\]xRay | [#1](https://osu.ppy.sh/community/matches/47934372) |
 | Camopoltergeist ![][flag_FI] | 4 | **5** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/47936485) |
 | **Camopoltergeist** ![][flag_FI] | **5** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/47937650) |
 
 | Saturday, 2018-12-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_TH] **BossMadWolf** | -win by default- |
 | DemonWaves ![][flag_FR] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/47957899) |
 | DemonWaves ![][flag_FR] | 2 | **5** | ![][flag_TH] **MyZterioN-** | [#1](https://osu.ppy.sh/community/matches/47958955) |
 
 | Sunday, 2018-12-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | \[MY\]xRay ![][flag_MY] | 0 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | -win by default- |
 | **\[MY\]Kibitz** ![][flag_MY] | **5** | 0 | ![][flag_IT] CribobFanGirl | -win by default- |
 
 ### Round of 16
 
 | Saturday, 2018-12-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](https://osu.ppy.sh/community/matches/47793754) |
 | **BossMadWolf** ![][flag_TH] | **5** | 0 | ![][flag_DE] Orange127 | [#1](https://osu.ppy.sh/community/matches/47798392) |
 | **DemonWaves** ![][flag_FR] | **5** | 4 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/47801370) |
@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 | CribobFanGirl ![][flag_IT] | 0 | **5** | ![][flag_MY] **\[MY\]xRay** | -win by default- |
 
 | Sunday, 2018-12-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **5** | 0 | ![][flag_BE] NightNarumi | [#1](https://osu.ppy.sh/community/matches/47828128) |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_DE] Orange127 | -win by default- |
 | **Arkitev** ![][flag_PL] | **5** | 2 | ![][flag_BE] NightNarumi | [#1](https://osu.ppy.sh/community/matches/47833836) |
@@ -275,17 +275,17 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Group | Thursday, 2018-11-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D5 | **Orange127** ![][flag_DE] | **4** | 1 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/47442005) |
 
 | Group | Friday, 2018-11-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D3 | **xSnaggles** ![][flag_GB] | **4** | 0 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/47462318) |
 | D1 | Kamikaze ![][flag_PL] | 3 | **4** | ![][flag_PL] **Hlimak** | [#1](https://osu.ppy.sh/community/matches/47463523) |
 | F6 | Arkitev ![][flag_PL] | 0 | **4** | ![][flag_PL] **SitekX** | [#1](https://osu.ppy.sh/community/matches/47466804) |
 
 | Group | Saturday, 2018-11-17 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C1 | **BossMadWolf** ![][flag_TH] | **4** | 1 | ![][flag_CA] Freeflow | [#1](https://osu.ppy.sh/community/matches/47476674) |
 | C3 | HeZeuS ![][flag_US] | 1 | **4** | ![][flag_TH] **BossMadWolf** | [#1](https://osu.ppy.sh/community/matches/47665983) |
 | B1 | **\[MY\]Kibitz** ![][flag_MY] | **4** | 0 | ![][flag_US] Laure | -win by default- |
@@ -301,7 +301,7 @@ This competition has come to an end and resulted in the following podium:
 | F1 | WalterToro ![][flag_CL] | 2 | **4** | ![][flag_PL] **Arkitev** | [#1](https://osu.ppy.sh/community/matches/47496935) |
 
 | Group | Sunday, 2018-11-18 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | B6 | Laure ![][flag_US] | 0 | **4** | ![][flag_TH] **MyZterioN-** | -win by default- |
 | A6 | SharpKunG1412 ![][flag_TH] | 2 | **4** | ![][flag_TH] **-\[DaNieL\_TH\]-** | [#1](https://osu.ppy.sh/community/matches/47512665) |
 | A4 | **SharpKunG1412** ![][flag_TH] | **4** | 2 | ![][flag_SE] Craty | [#1](https://osu.ppy.sh/community/matches/47514081) |
@@ -316,7 +316,7 @@ This competition has come to an end and resulted in the following podium:
 | C6 | **Freeflow** ![][flag_CA] | **4** | 0 | ![][flag_US] HeZeuS | -win by default- |
 
 | Group | Saturday, 2018-11-24 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | F5 | **Shiyui-** ![][flag_PH] | **4** | 3 | ![][flag_CL] WalterToro | [#1](https://osu.ppy.sh/community/matches/47637510) |
 | H2 | SamsonNote7 ![][flag_HK] | 0 | **4** | ![][flag_MY] **\[MY\]xRay** | -win by default- |
 | E2 | ZayyKen ![][flag_FR] | 2 | **4** | ![][flag_AU] **Spartan-** | [#1](https://osu.ppy.sh/community/matches/47640936) |
@@ -330,7 +330,7 @@ This competition has come to an end and resulted in the following podium:
 | H1 | **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_VE] Edvo | -win by default- |
 
 | Group | Sunday, 2018-11-25 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G5 | Kiraz ![][flag_IT] | 0 | **4** | ![][flag_TH] **HowToPlayLN** | -win by default- |
 | G6 | CribobFanGirl ![][flag_IT] | 0 | **4** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/47670695) |
 | H5 | SamsonNote7 ![][flag_HK] | 0 | **4** | ![][flag_BE] NightNarumi | -win by default- |

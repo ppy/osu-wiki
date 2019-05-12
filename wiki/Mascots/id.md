@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Maskot
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*

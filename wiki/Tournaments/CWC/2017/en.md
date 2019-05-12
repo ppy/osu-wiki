@@ -237,13 +237,13 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 ### Grand Finals
 
 | Sunday, 2017-07-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/34406838) |
 
 ### Finals
 
 | Saturday, 2017-07-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 1 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/34219570) |
 | Hong Kong ![][flag_HK] | 1 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/34220488) |
 | China ![][flag_CN] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/34228936) |
@@ -251,13 +251,13 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 
 | Sunday, 2017-07-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/34251811) |
 
 ### Semifinals
 
 | Saturday, 2017-06-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 3 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/34074171) |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/34075521) |
 | **Chile** ![][flag_CL] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/34076967) |
@@ -265,7 +265,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/34080904) |
 
 | Sunday, 2017-06-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Chile** ![][flag_CL] | **6** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/34089533), [#2](https://osu.ppy.sh/community/matches/34090626) |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/34090862) |
 | **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/34099102) |
@@ -273,7 +273,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 ### Quarterfinals
 
 | Sunday, 2017-06-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/33939916) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/33940848) |
 | United Kingdom ![][flag_GB] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/33941722) |
@@ -286,7 +286,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 ### Round of 16
 
 | Sunday, 2017-06-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/33780827) |
 | Poland ![][flag_PL] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/33781746) |
 | **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/33782639) |
@@ -299,7 +299,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 ### Group Stage
 
 | Saturday, 2017-06-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/33594444) |
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/33594453) |
 | Hong Kong ![][flag_HK] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/33594458) |
@@ -328,7 +328,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | Canada ![][flag_CA] | 2 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/33610690) |
 
 | Sunday, 2017-06-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Mexico ![][flag_MX] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/33616648) |
 | Canada ![][flag_CA] | 2 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/33616607) |
 | Malaysia ![][flag_MY] | 1 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/33617566) |

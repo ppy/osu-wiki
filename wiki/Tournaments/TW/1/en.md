@@ -216,34 +216,34 @@ This competition has come to an end and resulted in the following podium:
 ### Round 5
 
 | Saturday, 2018-12-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cu** | **7** | 0 | Iceland | [#1](https://osu.ppy.sh/community/matches/47786566) |
 
 | Sunday, 2018-12-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Land of Foda-se 2: Electric Boogaloo** | **7** | 1 | Iceland | [#1](https://osu.ppy.sh/community/matches/47821563) |
 | Iceland | 0 | **7** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47846905) |
 
 ### Round 4
 
 | Saturday, 2018-11-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Iceland** | **5** | 0 | Urugay | -win by default- |
 | Republic of Froot Loop Salad | 2 | **5** | **cu** | [#1](https://osu.ppy.sh/community/matches/47659978) |
 
 | Sunday, 2018-11-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Urugay | 0 | **5** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47665096) |
 | **Land of Foda-se 2: Electric Boogaloo** | **5** | 1 | Republic of Froot Loop Salad | [#1](https://osu.ppy.sh/community/matches/47687431) |
 
 ### Round 3
 
 | Saturday, 2018-11-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **cu** | **4** | 0 | Urugay | [#1](https://osu.ppy.sh/community/matches/47476742) |
 
 | Sunday, 2018-11-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Republic of Froot Loop Salad | 1 | **4** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47523510) |
 | **Land of Foda-se 2: Electric Boogaloo** | **4** | 0 | Team II Empire | [#1](https://osu.ppy.sh/community/matches/47527025) |
 | Iceland | 3 | **4** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47530451) |
@@ -251,29 +251,29 @@ This competition has come to an end and resulted in the following podium:
 ### Round 2
 
 | Saturday, 2018-11-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Team II Empire | 1 | **3** | **Urugay** | [#1](https://osu.ppy.sh/community/matches/47314007) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](https://osu.ppy.sh/community/matches/47340496) |
 | **cu** | **3** | 0 | Laundry Ca𝔹oclo Warriors | -win by default- |
 
 | Sunday, 2018-11-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Ununited States of Namepiking Gamers | 1 | **3** | **Iceland** | [#1](https://osu.ppy.sh/community/matches/47365021) |
 | **Land of Foda-se 2: Electric Boogaloo** | **3** | 0 | Ununited States of Namepiking Gamers | [#1](https://osu.ppy.sh/community/matches/47373419) |
 
 ### Round 1
 
 | Friday, 2018-11-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Urugay | 0 | **3** | **cu** | -win by default- |
 
 | Saturday, 2018-11-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Ununited States of Namepicking Gamers** | **3** | 2 | Bolsonaros Unidos | [#1](https://osu.ppy.sh/community/matches/47180959) |
 | **Team II Empire** | **3** | 1 | Ununited States of Namepiking Gamers | [#1](https://osu.ppy.sh/community/matches/47185545) |
 
 | Sunday, 2018-11-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Republic of Froot Loop Salad | 1 | **3** | **Land of Foda-se 2: Electric Boogaloo** | [#1](https://osu.ppy.sh/community/matches/47191404) |
 | Laundry Ca𝔹oclo Warriors | 0 | **3** | **Republic of Froot Loop Salad** | [#1](https://osu.ppy.sh/community/matches/47213957) |
 | **Iceland** | **3** | 1 | Gib Sinep | [#1](https://osu.ppy.sh/community/matches/47213176) |
