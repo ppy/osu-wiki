@@ -277,16 +277,16 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/49190471) |
 | **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | Forfeit (no-show) |
 | GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | Forfeit (left early) |
-| **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips |  |
-| **Mathyu** ![][flag_US] | **5** | 2 | ![][flag_US] R Y A N |  |
-| **Darin on osu** ![][flag_US] | **5** | 3 | ![][flag_US] Kenny |  |
+| **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips | <!-- match link lost --> |
+| **Mathyu** ![][flag_US] | **5** | 2 | ![][flag_US] R Y A N | <!-- match link lost --> |
+| **Darin on osu** ![][flag_US] | **5** | 3 | ![][flag_US] Kenny | <!-- match link lost --> |
 
 #### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189563) |
-| MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** |  |
+| MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** | <!-- match link lost --> |
 | **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [Multiplayer match](https://osu.ppy.sh/community/matches/49190579) |
 | **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49190109) |
 | **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49189660) |
@@ -296,11 +296,11 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** |  |
-| **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r |  |
+| GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** | <!-- match link lost --> |
+| **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | <!-- match link lost --> |
 | **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189127) |
 | **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [Multiplayer match](https://osu.ppy.sh/community/matches/49189132) |
-| **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru |  |
+| **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru | <!-- match link lost --> |
 
 ### osu!mania
 
@@ -310,24 +310,24 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal |
+| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal | <!-- match link lost -->
 
 #### Losers bracket (not used)
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
-| **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi |  |
+| **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi | <!-- match link lost --> |
 | **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | Forfeit |
 
 #### Round of 6
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu |
-| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi |
-| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle |
-| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee |
+| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu | <!-- match link lost -->
+| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost -->
+| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost -->
+| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost -->
 
 ---
 
