@@ -81,7 +81,7 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
   - [sasakure.UK - Jack-the-Ripper (Sprosive) [ReMiX]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
 - HardRock
   - [Thaehan - Doki-Doki (Mr HeliX) [Extremerino]](https://osu.ppy.sh/beatmapsets/519054#osu/1104057)
-  - [765 MILLIONSTARS - Thank you! (_Star) [Kana's Extr@]](https://osu.ppy.sh/beatmapsets/894976#osu/1890844)
+  - [765 MILLIONSTARS - Thank you! (\_Star) [Kana's Extr@]](https://osu.ppy.sh/beatmapsets/894976#osu/1890844)
   - [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) [Skystar's Extreme]](https://osu.ppy.sh/beatmapsets/212387#osu/527704)
 - DoubleTime
   - [Owl City - Hello Seattle (Remix) (JauiPlaY) [Goodbye]](https://osu.ppy.sh/beatmapsets/41893#osu/136556)
