@@ -1,4 +1,4 @@
-# People
+# Pessoal
 
 A seguir estão os grupos de usuários formados por membros da comunidade osu! que ajudam a manter o osu!. Maioria desses grupos de usuários podem ser reconhecidos pela cor do nome no fórum, cor do nome no chat em jogo, títulos no perfil e/ou medalhas no perfil.
 
