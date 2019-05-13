@@ -1,8 +1,10 @@
 ---
 tags:
+- California
 - club
+- college
 - Irvine
-- UCI
+- university
 ---
 
 # osu! UCI
