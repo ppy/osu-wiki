@@ -12,7 +12,7 @@ tags:
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-The **iDOL@NSTER** is an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](http://www.osuuci.com) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It will take place during *Zotcade 2019*, a gaming festival hosted at the University of California, Irvine (*UCI*). This is osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+The **iDOL@NSTER** is an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It will take place during *Zotcade 2019*, a gaming festival hosted at the University of California, Irvine (*UCI*). This is osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
