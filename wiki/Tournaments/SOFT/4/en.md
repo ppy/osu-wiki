@@ -55,7 +55,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 
 ----------
 
-## Match Schedule: Round of 32
+## Match Schedule: Round of 16
 
 The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEmLPa2KQCVCJtg_nYcTaRpAkzO2pSoCGvkwcPw/edit?usp=sharing).
 
@@ -94,6 +94,23 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ----------
 
 ## Mappools
+
+### Round of 16
+
+- FreeMod
+  - [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
+  - [onoken - Ramua ([Crz]Crysarlene) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
+  - [eye burn -  SHI*A*WA*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmapsets/735407#mania/1552444)
+  - [ikaruga_nex - ReviXy (qqqant) \[Another (edit)\]](https://osu.ppy.sh/beatmapsets/927413#mania/1937058)
+  - [Pegboard Nerds - Try This (Ciel) \[Your Size\]](https://osu.ppy.sh/beatmapsets/871668#mania/1821216)
+  - [KillerBlood - Volcano (Dergo) \[Ganvan\]](https://osu.ppy.sh/beatmapsets/970670#mania/2032593)
+  - [Yooh - Salvation (Guilhermeziat) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/970740#mania/2032757)
+  - [The Flashbulb - Didj Pvc (Vortex-) \[Progressing\]](https://osu.ppy.sh/beatmapsets/884240#mania/1848306)
+  - [~EnV~ - Heaven, Rd. 2 (Guilhermeziat) \[SV\]](https://osu.ppy.sh/beatmapsets/970695#mania/2032655)
+  - [Camellia - crystallized (qqqant) \[myself, my voice\]](https://osu.ppy.sh/beatmapsets/890013#mania/1860459)
+  - [callasoiled - 4172756869 (isagen remix) (Elekton) \[dagbgefhfi\]](https://osu.ppy.sh/beatmapsets/881552#mania/1843149)
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
 
 ### Round of 32
 
@@ -152,9 +169,35 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ## Match Results
 
+### Round of 32
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WOnb24mNfezpIJ-IXKxljztynL9zSClacdeVrN1lyre89l4eTuQAd74_1NMy_RM3gkc7hpgEMGfr/pubhtml).**
+
+| Saturday, 2019-05-11 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **wonder5193** ![][flag_KR] | **5** | 0 | ![][flag_NZ] Spicy Meme | [#1](https://osu.ppy.sh/community/matches/51700726) |
+| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_AU] Rek | -win by default- |
+| AMDuskia1996 ![][flag_JP] | 3 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/51703534) |
+| **HeZeuS** ![][flag_US] | **5** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/51704541) |
+| **Toaph Daddy** ![][flag_US] | **5** | 0 | ![][flag_JP] [ misa ] | -win by default- |
+| **RuleBlazing** ![][flag_TH] | **5** | 3 | ![][flag_GB] SoFast | [#1](https://osu.ppy.sh/community/matches/51707499) |
+| **[Crz]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/51707469) |
+| **-Electro-** ![][flag_US] | **5** | 0 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/51715930) |
+| **Tidek** ![][flag_PL] | **5** | 3 | ![][flag_US] EtienneXC | [#1](https://osu.ppy.sh/community/matches/51718126) |
+| AYAYAA ![][flag_US] | 0 | **5** | ![][flag_AR] **BossPlays** | -win by default- |
+
+| Sunday, 2019-05-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **-Rem-** ![][flag_ID] | **5** | 0 | ![][flag_US] Chrubble | [#1](https://osu.ppy.sh/community/matches/51729229) |
+| **DaZeRo5** ![][flag_PE] | **5** | 2 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/51730237) |
+| **MyZterioN-** ![][flag_TH] | **5** | 3 | ![][flag_SG] ByeForNow | [#1](https://osu.ppy.sh/community/matches/51735058) |
+| **Nyarlahothep** ![][flag_TH] | **5** | 2 | ![][flag_FI] Daughter- | [#1](https://osu.ppy.sh/community/matches/51736246) |
+| _underjoy ![][flag_PL] | 1 | **5** | ![][flag_SG] **Tamaneko** | [#1](https://osu.ppy.sh/community/matches/51737558) |
+| NKEYBOARD ![][flag_KR] | 4 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/51739046) |
+
 ### Group Stage
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml#).**
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml).**
 
 | Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
