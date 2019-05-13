@@ -195,65 +195,65 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 #### Finals
 
 - NoMod
-  - [Hino Isuka - Delightness Brightness (TheToaphster) [Blinding Light (NSV)]](https://osu.ppy.sh/beatmapsets/599209#osu/1503831)
-  - [DJ Genki VS Camellia feat. moimoi - YELL! (Maxus) [Colorful Smile]](https://osu.ppy.sh/beatmapsets/591786#osu/1252228)
-  - [xi - Glorious Crown (Kuo Kyoka) [Chicken's 4K Extra]](https://osu.ppy.sh/beatmapsets/474900#osu/1014639)
-  - [Nanahira - Nanahira Pack Vol.1 (PianoLuigi) [Senpai, Notice me!]](https://osu.ppy.sh/beatmapsets/793784#osu/1667074)
-  - [Camellia - Speedrun (PianoLuigi) [Any% Glitchless]](https://osu.ppy.sh/beatmapsets/800922#osu/1681377)
-  - [Chroma - Hoshi ga Furanai Machi (Wonki) [Shooting Star // 4K]](https://osu.ppy.sh/beatmapsets/581509#osu/1230814)
-  - [Gram vs. Kobaryo - Yggdrasil (MEGAtive) [Gallows of Odin]](https://osu.ppy.sh/beatmapsets/737273#osu/1555892)
-  - [MAZARE - Mazare Party (Insp1r3) [Ash's 4K Extra]](https://osu.ppy.sh/beatmapsets/650415#osu/1660802)
-  - [Nanamori-chu Goraku-bu - Chochocho! YuruYuri \* Capriccio!!! (Meggumi) [San Hai!!!]](https://osu.ppy.sh/beatmapsets/499523#osu/1063127)
-  - [Kaneko Chiharu - Kai Dan (Tofu1222) [CS' Ura Oni]](https://osu.ppy.sh/beatmapsets/623951#osu/1317015)
-  - [Chroma - Made In Love (Lude) [Maximum]](https://osu.ppy.sh/beatmapsets/831569#osu/1742742)
-  - [Helblinde - The Rise of Pre-teen Homosexuals ([Crz]Riri) [Akari]](https://osu.ppy.sh/beatmapsets/607161#osu/1282506)
+  - [Hino Isuka - Delightness Brightness (TheToaphster) [Blinding Light (NSV)]](https://osu.ppy.sh/beatmapsets/599209#mania/1503831)
+  - [DJ Genki VS Camellia feat. moimoi - YELL! (Maxus) [Colorful Smile]](https://osu.ppy.sh/beatmapsets/591786#mania/1252228)
+  - [xi - Glorious Crown (Kuo Kyoka) [Chicken's 4K Extra]](https://osu.ppy.sh/beatmapsets/474900#mania/1014639)
+  - [Nanahira - Nanahira Pack Vol.1 (PianoLuigi) [Senpai, Notice me!]](https://osu.ppy.sh/beatmapsets/793784#mania/1667074)
+  - [Camellia - Speedrun (PianoLuigi) [Any% Glitchless]](https://osu.ppy.sh/beatmapsets/800922#mania/1681377)
+  - [Chroma - Hoshi ga Furanai Machi (Wonki) [Shooting Star // 4K]](https://osu.ppy.sh/beatmapsets/581509#mania/1230814)
+  - [Gram vs. Kobaryo - Yggdrasil (MEGAtive) [Gallows of Odin]](https://osu.ppy.sh/beatmapsets/737273#mania/1555892)
+  - [MAZARE - Mazare Party (Insp1r3) [Ash's 4K Extra]](https://osu.ppy.sh/beatmapsets/650415#mania/1660802)
+  - [Nanamori-chu Goraku-bu - Chochocho! YuruYuri \* Capriccio!!! (Meggumi) [San Hai!!!]](https://osu.ppy.sh/beatmapsets/499523#mania/1063127)
+  - [Kaneko Chiharu - Kai Dan (Tofu1222) [CS' Ura Oni]](https://osu.ppy.sh/beatmapsets/623951#mania/1317015)
+  - [Chroma - Made In Love (Lude) [Maximum]](https://osu.ppy.sh/beatmapsets/831569#mania/1742742)
+  - [Helblinde - The Rise of Pre-teen Homosexuals ([Crz]Riri) [Akari]](https://osu.ppy.sh/beatmapsets/607161#mania/1282506)
 - Tiebreaker
-  - **[Camellia - Algorithm (Hitech Psy Self-remix) (OscarRickyH02) [Paradox]](https://osu.ppy.sh/beatmapsets/612842#osu/1293172)**
+  - **[Camellia - Algorithm (Hitech Psy Self-remix) (OscarRickyH02) [Paradox]](https://osu.ppy.sh/beatmapsets/612842#mania/1293172)**
 
 #### Semifinals
 
 - NoMod
-  - [Lifetheory - Daisy (Tidek) [Life (Insane)]](https://osu.ppy.sh/beatmapsets/323163#osu/718401)
-  - [Nogizaka46 - Yubi Bouenkyou (TV Size) (Unpredictable) [Ash's Adventure]](https://osu.ppy.sh/beatmapsets/779332#osu/1897756)
-  - [uma vs. Morimori Atsushi - Touhou Youyoumu ULTIMATE MEDLEY (Flexo123) [4K Another]](https://osu.ppy.sh/beatmapsets/541335#osu/1147860)
-  - [Hanazawa Kana - sweets parade (TV Size) (Niima) [Riri]](https://osu.ppy.sh/beatmapsets/545823#osu/1156309)
-  - [Camellia feat. Nanahira - Songs Compilation (Rinzler) [Nyarathon]](https://osu.ppy.sh/beatmapsets/300721#osu/674460)
-  - [DJ TOTTOxOmitsu feat.BisCo(CV.Suzaki Aya) - Maybe\~Hatsukoi!? Biscuit\*Dai Sakusen (Fresh Chicken) [NIGHTMARE]](https://osu.ppy.sh/beatmapsets/442246#osu/951088)
-  - [maras k - Play Time!! (ExVeemon) [MX]](https://osu.ppy.sh/beatmapsets/309653#osu/693148)
-  - [colate - macaron (hokin1995) [S.Demon's GRAVITY]](https://osu.ppy.sh/beatmapsets/330806#osu/734274)
-  - [Doma Umaru (CV.Tanaka Aimi) - Nimensei\*Ura Omote Life! (Murumoo) [Gyukari's Fever!!]](https://osu.ppy.sh/beatmapsets/682768#osu/1444775)
-  - [kors k feat.RIRE - Nirvana(Camellia's "BinaryHeaven" Remix) (Rinzler) [Ascension]](https://osu.ppy.sh/beatmapsets/388162#osu/846927)
-  - ["Weird Al" Yankovic - Hardware Store (Tona) [Jack till you die]](https://osu.ppy.sh/beatmapsets/832682#osu/1744404)
+  - [Lifetheory - Daisy (Tidek) [Life (Insane)]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
+  - [Nogizaka46 - Yubi Bouenkyou (TV Size) (Unpredictable) [Ash's Adventure]](https://osu.ppy.sh/beatmapsets/779332#mania/1897756)
+  - [uma vs. Morimori Atsushi - Touhou Youyoumu ULTIMATE MEDLEY (Flexo123) [4K Another]](https://osu.ppy.sh/beatmapsets/541335#mania/1147860)
+  - [Hanazawa Kana - sweets parade (TV Size) (Niima) [Riri]](https://osu.ppy.sh/beatmapsets/545823#mania/1156309)
+  - [Camellia feat. Nanahira - Songs Compilation (Rinzler) [Nyarathon]](https://osu.ppy.sh/beatmapsets/300721#mania/674460)
+  - [DJ TOTTOxOmitsu feat.BisCo(CV.Suzaki Aya) - Maybe\~Hatsukoi!? Biscuit\*Dai Sakusen (Fresh Chicken) [NIGHTMARE]](https://osu.ppy.sh/beatmapsets/442246#mania/951088)
+  - [maras k - Play Time!! (ExVeemon) [MX]](https://osu.ppy.sh/beatmapsets/309653#mania/693148)
+  - [colate - macaron (hokin1995) [S.Demon's GRAVITY]](https://osu.ppy.sh/beatmapsets/330806#mania/734274)
+  - [Doma Umaru (CV.Tanaka Aimi) - Nimensei\*Ura Omote Life! (Murumoo) [Gyukari's Fever!!]](https://osu.ppy.sh/beatmapsets/682768#mania/1444775)
+  - [kors k feat.RIRE - Nirvana(Camellia's "BinaryHeaven" Remix) (Rinzler) [Ascension]](https://osu.ppy.sh/beatmapsets/388162#mania/846927)
+  - ["Weird Al" Yankovic - Hardware Store (Tona) [Jack till you die]](https://osu.ppy.sh/beatmapsets/832682#mania/1744404)
 - Tiebreaker
-  - **[DJ Sharpnel - Blue Army (Night Bunny 7) [IcyWorld's Lv.10]](https://osu.ppy.sh/beatmapsets/657152#osu/1392059)**
+  - **[DJ Sharpnel - Blue Army (Night Bunny 7) [IcyWorld's Lv.10]](https://osu.ppy.sh/beatmapsets/657152#mania/1392059)**
 
 #### Round 2
 
 - NoMod
-  - [Rhodanthe\* - Happy\*Pretty\*Clover (Rivals_7) [4K Insane Lv. 20]](https://osu.ppy.sh/beatmapsets/583943#osu/1235505)
-  - [TrySail - TrySail Selection 2 (ALEFY) [BraveSail (short Ver.)]](https://osu.ppy.sh/beatmapsets/661108#osu/1399712)
-  - [Kyary Pamyu Pamyu - Ninja Re Bang Bang (ecafree2) [4K HD]](https://osu.ppy.sh/beatmapsets/372942#osu/1728348)
-  - [TAG underground - POSSESSION (maskeara) [CHALLENGE]](https://osu.ppy.sh/beatmapsets/551469#osu/1168087)
-  - [Halozy - GO 4 IT (Virtue-) [Believe Yourself]](https://osu.ppy.sh/beatmapsets/638795#osu/1354962)
-  - [Nanahira - Nanahira Pack Vol.2 (PianoLuigi) [You make my life 1UP!]](https://osu.ppy.sh/beatmapsets/793828#osu/1667317)
-  - [Yooh - FIRE FIRE -DARK BLAZE REMIX- (PiraTom) [EXHAUST]](https://osu.ppy.sh/beatmapsets/227106#osu/530196)
-  - [Qrispy Joybox feat.Sana - Twinkle Wonderland (AchsanLovers) [Wonderful]](https://osu.ppy.sh/beatmapsets/587904#osu/1244809)
-  - [RoughSketch feat.Aikapin - Grimm (Kobaryo's FTN-Remix) (CHARGE) [Comet's Hard]](https://osu.ppy.sh/beatmapsets/597690#osu/1271990)
+  - [Rhodanthe\* - Happy\*Pretty\*Clover (Rivals_7) [4K Insane Lv. 20]](https://osu.ppy.sh/beatmapsets/583943#mania/1235505)
+  - [TrySail - TrySail Selection 2 (ALEFY) [BraveSail (short Ver.)]](https://osu.ppy.sh/beatmapsets/661108#mania/1399712)
+  - [Kyary Pamyu Pamyu - Ninja Re Bang Bang (ecafree2) [4K HD]](https://osu.ppy.sh/beatmapsets/372942#mania/1728348)
+  - [TAG underground - POSSESSION (maskeara) [CHALLENGE]](https://osu.ppy.sh/beatmapsets/551469#mania/1168087)
+  - [Halozy - GO 4 IT (Virtue-) [Believe Yourself]](https://osu.ppy.sh/beatmapsets/638795#mania/1354962)
+  - [Nanahira - Nanahira Pack Vol.2 (PianoLuigi) [You make my life 1UP!]](https://osu.ppy.sh/beatmapsets/793828#mania/1667317)
+  - [Yooh - FIRE FIRE -DARK BLAZE REMIX- (PiraTom) [EXHAUST]](https://osu.ppy.sh/beatmapsets/227106#mania/530196)
+  - [Qrispy Joybox feat.Sana - Twinkle Wonderland (AchsanLovers) [Wonderful]](https://osu.ppy.sh/beatmapsets/587904#mania/1244809)
+  - [RoughSketch feat.Aikapin - Grimm (Kobaryo's FTN-Remix) (CHARGE) [Comet's Hard]](https://osu.ppy.sh/beatmapsets/597690#mania/1271990)
 - Tiebreaker
-  - **[Minase Inori - MELODY FLAG (Amiichii) [4K Melody]](https://osu.ppy.sh/beatmapsets/629560#osu/1399580)**
+  - **[Minase Inori - MELODY FLAG (Amiichii) [4K Melody]](https://osu.ppy.sh/beatmapsets/629560#mania/1399580)**
 
 #### Round 1
 
 - NoMod
-  - [jioyi attacked by mirror - I lost my flp (Madoka2574) [Normal]](https://osu.ppy.sh/beatmapsets/818926#osu/1720628)
-  - [ginkiha - Starlight Express (bakabakemono) [ADVANCED Lv.12]](https://osu.ppy.sh/beatmapsets/216238#osu/507625)
-  - [Camellia - Routing ([ A v a l o n ]) [Chickening's Hard]](https://osu.ppy.sh/beatmapsets/414833#osu/983252)
-  - [Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [MX 'Shino']](https://osu.ppy.sh/beatmapsets/283727#osu/641427)
-  - [Satoshi with Pikachu (CV:Rica Matsumoto/Otani Ikue) - Alola!! (Kuo Kyoka) [Solgaleo with Lunala / 4K Hard]](https://osu.ppy.sh/beatmapsets/538085#osu/1139998)
-  - [lapix - Debug Dance (Syadow-) [Amii's ORANGE]](https://osu.ppy.sh/beatmapsets/688459#osu/1689096)
-  - [Ni-Sokkususu - Shukusai no Elementalia ([Emiria]) [Avalon's Hard]](https://osu.ppy.sh/beatmapsets/440089#osu/958619)
+  - [jioyi attacked by mirror - I lost my flp (Madoka2574) [Normal]](https://osu.ppy.sh/beatmapsets/818926#mania/1720628)
+  - [ginkiha - Starlight Express (bakabakemono) [ADVANCED Lv.12]](https://osu.ppy.sh/beatmapsets/216238#mania/507625)
+  - [Camellia - Routing ([ A v a l o n ]) [Chickening's Hard]](https://osu.ppy.sh/beatmapsets/414833#mania/983252)
+  - [Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [MX 'Shino']](https://osu.ppy.sh/beatmapsets/283727#mania/641427)
+  - [Satoshi with Pikachu (CV:Rica Matsumoto/Otani Ikue) - Alola!! (Kuo Kyoka) [Solgaleo with Lunala / 4K Hard]](https://osu.ppy.sh/beatmapsets/538085#mania/1139998)
+  - [lapix - Debug Dance (Syadow-) [Amii's ORANGE]](https://osu.ppy.sh/beatmapsets/688459#mania/1689096)
+  - [Ni-Sokkususu - Shukusai no Elementalia ([Emiria]) [Avalon's Hard]](https://osu.ppy.sh/beatmapsets/440089#mania/958619)
 - Tiebreaker
-  - **[MC Mental - MC MENTAL @ HIS BEST (hi19hi19) [Hard]](https://osu.ppy.sh/beatmapsets/503710#osu/1071695)**
+  - **[MC Mental - MC MENTAL @ HIS BEST (hi19hi19) [Hard]](https://osu.ppy.sh/beatmapsets/503710#mania/1071695)**
 
 ## Ruleset
 
