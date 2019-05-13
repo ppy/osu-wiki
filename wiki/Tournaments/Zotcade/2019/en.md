@@ -259,12 +259,38 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 
 ![iDOL@NSTER Bracket Format](img/format.png)
 
-### Tournament Rules
-### Tournament Registration
-### Stage Instructions
-### Match Instructions
-### Mappool Instructions
-### Scheduling Instructions
+The following rules are taken directly from the [Rules section of the tournament's website](http://www.osuuci.com/tournaments/idol@nster/#rules).
+
+Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offense. **These rules and regulations are subject to change during the event.**
+
+### Lobby and Matches
+
+- Missing your match counts as a loss; no rematches will be made
+- ScoreV2 win condition
+- Warmups will not be allowed
+- Low roll bans first, high roll picks first
+- Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament
+- No-shows will be automatically considered forfeiture
+- Tournament participants must notify staff before leaving tournament premises
+- Other rules are explained in the format infographic or at the event. You can also ask us on Discord
+
+### Disconnection
+
+- On first disconnect, the opponent decides to rematch or not
+- Second and further disconnects are counted as losses
+
+### Match Reporting
+
+- Both players will have to report into the main desk together to report their scores
+- Both players must unanimously agree on the winner of the match
+- In the case of disagreement a referee will check the match history link provided and make a judgement call
+
+### Misconduct and Cheating
+
+- Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal
+- Any sort of verbal harassment towards another in the tourney will NOT be tolerated. This includes referees, bystanders, and any other attendees of the LAN
+- Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time
+- Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission
 
 [flag_IE]: /wiki/shared/flag/IE.gif
 [flag_US]: /wiki/shared/flag/US.gif
