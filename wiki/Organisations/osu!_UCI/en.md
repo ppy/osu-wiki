@@ -13,10 +13,10 @@ tags:
 
 ## Links
 
-- **[Website](http://www.osuuci.com/home/)**
+- **[Website](http://www.osuuci.com)**
 - [Discord server](https://discord.gg/qbZddFV)
 - [Facebook group](https://www.facebook.com/groups/osuuci/)
-- [Twitch channel](http://www.twitch.tv/osuuci)
+- [Twitch channel](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
 
 ## Officers
