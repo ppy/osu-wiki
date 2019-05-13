@@ -14,8 +14,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - ![Insane](/wiki/shared/diff/insane-m.png "Insane") **Insane**
 - ![Expert](/wiki/shared/diff/expert-m.png "Expert") **Expert**
 
-Refer to [this thread](https://osu.ppy.sh/forum/t/178700) for alternative difficulty naming methods.
-
 ### Common Terms
 
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels. 
