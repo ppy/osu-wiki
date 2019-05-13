@@ -52,7 +52,7 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 | Streamers | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentators | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Designers | [Skydendrin](https://skydendrin.carrd.co) |
-| Referees | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Referees | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
 
