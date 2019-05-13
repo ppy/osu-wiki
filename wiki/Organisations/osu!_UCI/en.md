@@ -9,7 +9,7 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** is an osu! club centered around playing and discussing the game at the University of California, Irvine (*UCI*). They host a variety of events, most notably including seasonal LAN tournaments and weekly meetups.
+**osu! UCI** is an osu! club centred around playing and discussing the game at the University of California, Irvine (*UCI*). They host a variety of events, most notably including seasonal LAN tournaments and weekly meetups.
 
 ## Links
 
