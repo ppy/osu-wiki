@@ -31,7 +31,7 @@ tags:
 - ![][flag_US] Julissa "[phamitsu](https://osu.ppy.sh/users/13045418)" Becerra
 - ![][flag_US] Megan "[migin](https://osu.ppy.sh/users/11118735)" Ikemoto
 - ![][flag_US] Nicholas "[_Breeze](https://osu.ppy.sh/users/9726582)" Budding
-- ![][flag_US] Shannon Chen
+- ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 
 ### Alumni
 
