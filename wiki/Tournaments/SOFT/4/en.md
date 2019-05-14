@@ -100,13 +100,13 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 - FreeMod
   - [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
   - [onoken - Ramua ([Crz]Crysarlene) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
-  - [eye burn -  SHI*A*WA*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmapsets/735407#mania/1552444)
+  - [eye burn -  SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmapsets/735407#mania/1552444)
   - [ikaruga_nex - ReviXy (qqqant) \[Another (edit)\]](https://osu.ppy.sh/beatmapsets/927413#mania/1937058)
   - [Pegboard Nerds - Try This (Ciel) \[Your Size\]](https://osu.ppy.sh/beatmapsets/871668#mania/1821216)
   - [KillerBlood - Volcano (Dergo) \[Ganvan\]](https://osu.ppy.sh/beatmapsets/970670#mania/2032593)
   - [Yooh - Salvation (Guilhermeziat) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/970740#mania/2032757)
   - [The Flashbulb - Didj Pvc (Vortex-) \[Progressing\]](https://osu.ppy.sh/beatmapsets/884240#mania/1848306)
-  - [~EnV~ - Heaven, Rd. 2 (Guilhermeziat) \[SV\]](https://osu.ppy.sh/beatmapsets/970695#mania/2032655)
+  - [\~EnV\~ - Heaven, Rd. 2 (Guilhermeziat) \[SV\]](https://osu.ppy.sh/beatmapsets/970695#mania/2032655)
   - [Camellia - crystallized (qqqant) \[myself, my voice\]](https://osu.ppy.sh/beatmapsets/890013#mania/1860459)
   - [callasoiled - 4172756869 (isagen remix) (Elekton) \[dagbgefhfi\]](https://osu.ppy.sh/beatmapsets/881552#mania/1843149)
 - Tiebreaker
