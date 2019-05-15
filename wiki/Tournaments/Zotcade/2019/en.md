@@ -264,13 +264,13 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 ### Lobby and Matches
 
 1. Missing your match counts as a loss; no rematches will be made.
-1. ScoreV2 will be used as the win condition.
+1. Score V2 will be used as the win condition.
 1. Warmups will not be allowed.
 1. Low roll bans first; high roll picks first.
 1. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
 1. No-shows will be automatically considered forfeitures.
 1. Tournament participants must notify staff before leaving tournament premises.
-1. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers on Discord if you need clarification.
+1. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers if you need clarification.
 
 ### Disconnection
 
@@ -286,7 +286,7 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 ### Misconduct and Cheating
 
 1. Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal from the event.
-1. Any sort of verbal harassment towards another in the tournament will *not* be tolerated. This includes referees, bystanders and any other attendees of the event.
+1. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
 1. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 1. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
