@@ -259,38 +259,36 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 
 ![iDOL@NSTER Bracket Format](img/format.png)
 
-The following rules are taken directly from the [Rules section of the tournament's website](http://www.osuuci.com/tournaments/idol@nster/#rules).
-
-Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offense. **These rules and regulations are subject to change during the event.**
+Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offence. **These rules and regulations are subject to change during the event.**
 
 ### Lobby and Matches
 
-- Missing your match counts as a loss; no rematches will be made
-- ScoreV2 win condition
-- Warmups will not be allowed
-- Low roll bans first, high roll picks first
-- Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament
-- No-shows will be automatically considered forfeiture
-- Tournament participants must notify staff before leaving tournament premises
-- Other rules are explained in the format infographic or at the event. You can also ask us on Discord
+1. Missing your match counts as a loss; no rematches will be made.
+1. ScoreV2 will be used as the win condition.
+1. Warmups will not be allowed.
+1. Low roll bans first; high roll picks first.
+1. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
+1. No-shows will be automatically considered forfeitures.
+1. Tournament participants must notify staff before leaving tournament premises.
+1. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers on Discord if you need clarification.
 
 ### Disconnection
 
-- On first disconnect, the opponent decides to rematch or not
-- Second and further disconnects are counted as losses
+1. On first disconnect, the opponent decides whether to rematch or not.
+1. Second and further disconnects are counted as losses.
 
 ### Match Reporting
 
-- Both players will have to report into the main desk together to report their scores
-- Both players must unanimously agree on the winner of the match
-- In the case of disagreement a referee will check the match history link provided and make a judgement call
+1. Both players will have to report their scores together to the main desk.
+1. Both players must unanimously agree on the winner of the match.
+1. In the case of disagreement, a referee will check the match history link provided and make a judgement call.
 
 ### Misconduct and Cheating
 
-- Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal
-- Any sort of verbal harassment towards another in the tourney will NOT be tolerated. This includes referees, bystanders, and any other attendees of the LAN
-- Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time
-- Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission
+1. Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal from the event.
+1. Any sort of verbal harassment towards another in the tournament will *not* be tolerated. This includes referees, bystanders and any other attendees of the event.
+1. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
+1. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
 [flag_IE]: /wiki/shared/flag/IE.gif
 [flag_US]: /wiki/shared/flag/US.gif
