@@ -88,35 +88,28 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
-![TWC 2019 Bracket](img/bracket.png)
+![TWC 2019 Bracket](img/bracket_F.png)
 
 -----------------------
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 11. May 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_PL] | Poland | **11:00 UTC** | 21:00 UTC+10 | 13:00 UTC+02 | ² |
-| Spain | ![][flag_ES] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 | ² |
-| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
-
-### Sunday, 12. May 2019
+### Saturday, 18. May 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **1:00 UTC** | 21:00 (Sat) UTC-04 | 11:00 UTC+10 | ³ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ¹ |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **10:00 UTC** | 19:00 UTC+09 | 19:00 UTC+09 | ¹ |
-| Germany | ![][flag_DE] | ![][flag_AU] | Australia | **12:00 UTC** | 14:00 UTC+02 | 22:00 UTC+10 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ³ |
-| Spain | ![][flag_ES] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 | ³ |
-| Spain | ![][flag_ES] | ![][flag_BR] | Brazil | **14:00 UTC** | 16:00 UTC+02 | 11:00 UTC-03 | ³ |
-| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 | ³ |
-| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 | ³ |
+| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ² |
+| Canada | ![][flag_CA] | ![][flag_US] | United States | **21:00 UTC** | 17:00 UTC-04 | 17:00 UTC-04 | ² |
+
+### Sunday, 19. May 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ³ |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 | ³ |
+| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ³ |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 | ³ |
+| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ¹ |
 
 ¹ Winner bracket encounter
 
@@ -127,6 +120,31 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 -----------------------
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [Kobaryo vs. Camellia - Villain Virus (shinchikuhome) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/826093#taiko/1731436)
+  - [SYUNN - Megalara Garuda (yea) \[Ultimatum\]](https://osu.ppy.sh/beatmapsets/869184#taiko/1816563)
+  - [trapman - minefield surfing (Ney) \[Jester\]](https://osu.ppy.sh/beatmapsets/646702#taiko/1370173)
+  - [Katagiri - Dream Vandalism (applerss) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/895400#taiko/1870922)
+  - [The Flashbulb - Chik Habit (incandescence) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/827049#taiko/1733135)
+  - [Qoiet - Akumu (Alchyr) \[Anxiety\]](https://osu.ppy.sh/beatmapsets/935840#taiko/1955090)
+- Hidden
+  - [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Farthest\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874251)
+- HardRock
+  - [Cardboard Box - ++ (Vulkin) \[Grim's N+\]](https://osu.ppy.sh/beatmapsets/572069#taiko/1213129)
+  - [sakuraburst - SELF DESTRUCT (Nifty) \[METASTABLE ONI\]](https://osu.ppy.sh/beatmapsets/956831#taiko/2003136)
+- DoubleTime
+  - [DJ TECHNORCH - Nijuu (agu) \[LEGGENDARIA Oni\]](https://osu.ppy.sh/beatmapsets/592437#taiko/1253507)
+  - [SHINDEHAI - Le Grand Medley de Shindehai (Gezoda) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287699#taiko/649044)
+- FreeMod
+  - [Doin - Pine Nut (yea) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/869734#taiko/1817603)
+  - [Memme - Pandemonium (Raiden) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/922918#taiko/1927296)
+  - [Retractable - Teitai Kasoku Yomei Ikubaku (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/893799#taiko/1867862)
+- Tiebreaker
+  - **[Camellia - POWA OF DA WILDANES (MMzz) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/693222#taiko/1466883)**
 
 ### Semifinals
 
@@ -225,6 +243,22 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - **[Laur - Sound Chimera (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2019-05-11 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Poland ![][flag_PL] | 6 | **7** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51701077) |
+| **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51703619) |
+| **Canada** ![][flag_CA] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/51709679) |
+| **Brazil** ![][flag_BR] | **7** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51715624) |
+
+| Sunday, 2019-05-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ![][flag_CA] | **7** | 6 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/51725919) |
+| United States ![][flag_US] | 5 | **7** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51728069) |
+| **Japan** ![][flag_JP] | **7** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/51735167) |
+| **Hong Kong** ![][flag_HK] | **7** | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/51740943) |
 
 ### Quarterfinals
 
