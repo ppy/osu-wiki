@@ -32,13 +32,12 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinesisch | Chat Moderation, Forum Moderation |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Französisch | Chat Moderation, Forum Moderation, Beatmap Moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polnisch | Chat Moderation |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugisisch | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat Moderation |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesisch | Chat Moderation, Beatmap Moderation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Chat Moderation, Beatmap Moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanisch | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russisch | Chat Moderation |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Französisch, Russisch | Chat Moderation, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Französisch, Russisch | Chat Moderation |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Chat Moderation, Beatmap Moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russisch | Chat Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnisch | Chat Moderation |

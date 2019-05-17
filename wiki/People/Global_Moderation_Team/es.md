@@ -29,13 +29,12 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chino | Moderación del chat, Moderación del foro |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro, Moderación de beatmaps |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugués | Moderación del chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turco | Moderación del chat |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio | Moderación del chat, Moderación de beatmaps |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderación del chat, Moderación de beatmaps |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Español | Torneos oficiales |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat, Equipo de metadata |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugués | Moderación del chat, Moderación de beatmaps |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |

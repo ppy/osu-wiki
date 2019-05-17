@@ -19,34 +19,39 @@ outdated: true
 
 | 名字 | 语言 | 专注范围 |
 | :-- | :-- | :-- |
+| ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天室管理 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 聊天室管理 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 德语 | 聊天室管理 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理, 论坛管理 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 聊天室管理, 技术支持 |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛, 谱面管理 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |
 | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理 |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | 玩家支持 |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol 主持者, 论坛管理 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理, 论坛管理 |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理 |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理, 谱面管理 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理 |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | 葡萄牙语 | 聊天室管理 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 土耳其语 | 聊天室管理 |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印尼语 | 聊天室管理 |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印尼语 | 聊天室管理, 谱面管理 |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | 聊天室管理, 谱面管理 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 西班牙语 | 比赛 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理 |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理 |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | 葡萄牙语 | 聊天室管理, 谱面管理 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理 |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面管理 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 意大利语 | 聊天室管理 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 开发, Mappers' Guild 组织者 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | Ranking Criteria, 论坛管理, 聊天室管理 |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 比赛 |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | 聊天室管理, 技术支持 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理 |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | 西班牙语, 加泰罗尼亚 | 聊天室管理 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天室管理, wiki 管理 |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天室管理 |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天室管理 |
@@ -63,10 +68,11 @@ outdated: true
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理 |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, wiki 帮手, 论坛管理 |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, Wiki 助手, 论坛管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理 |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | 中文 | 聊天室管理 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | 德语 | 聊天室管理 |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语 | 聊天室管理 |
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

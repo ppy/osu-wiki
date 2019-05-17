@@ -29,13 +29,12 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Cina | Moderasi Chat, Moderasi Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Perancis | Moderasi Chat, Moderasi Forum, Moderasi Beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi Chat |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugis | Moderasi Chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turki | Moderasi Chat |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Moderasi Chat, Moderasi Beatmap |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderasi Chat, Moderasi Beatmap |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Turnamen |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi Chat |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Perancis, Rusia | Moderasi Chat, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Perancis, Rusia | Moderasi Chat |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugis | Moderasi Chat, Moderasi Beatmap |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi Chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandia | Moderasi Chat |

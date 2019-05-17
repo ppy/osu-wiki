@@ -79,6 +79,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
 | ![][flag___] [General Pepper](https://osu.ppy.sh/users/3669) | BAT |
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
+| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | GMT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |

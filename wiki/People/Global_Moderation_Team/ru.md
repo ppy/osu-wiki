@@ -34,13 +34,12 @@ outdated: true
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | китайский | чат, форум |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | французский | чат, форум, карты |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | польский | чат |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | португальский | чат |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | турецкий | чат |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | индонезийский | чат, карты |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | чат, карты |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | испанский | организация турниров |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | русский | чат |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | французский, русский | чат, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | французский, русский | чат |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | португальский | чат, карты |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | русский | чат |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | финский | чат |

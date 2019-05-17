@@ -29,13 +29,12 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 중국어 | 채팅 관리, 포럼 관리 |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 프랑스어 | 채팅 관리, 포럼 관리, 비트맵 관리 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | 포르투갈어 | 채팅 관리 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 터키어 | 채팅 관리 |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 인도네시아어 | 채팅 관리, 비트맵 관리 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | 채팅 관리, 비트맵 관리 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 스페인어 | 대회 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 러시아어 | 채팅 관리 |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 프랑스어, 러시아어 | 채팅 관리, 메타데이터 팀 |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 프랑스어, 러시아어 | 채팅 관리 |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | 포르투갈어 | 채팅 관리, 비트맵 관리 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 러시아어 | 채팅 관리 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 핀란드어 | 채팅 관리 |

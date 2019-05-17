@@ -29,13 +29,12 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum, czatu oraz Beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderacja czatu |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portugalski | Moderacja czatu |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turecki | Moderacja czatu |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonezyjski | Moderacja czatu oraz Beatmap |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderacja czatu oraz Beatmap |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Hiszpański | Organizacja turniejów |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderacja czatu |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugalski | Moderacja czatu oraz Beatmap |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderacja czatu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fiński | Moderacja czatu |

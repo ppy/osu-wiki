@@ -32,13 +32,12 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Sohbet Moderasyonu, Forum Moderasyonu |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Sohbet Moderasyonu, Forum Moderasyonu, Beatmap Moderasyonu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Sohbet Moderasyonu |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | Portuguese | Sohbet Moderasyonu |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Sohbet Moderasyonu |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Sohbet Moderasyonu, Beatmap Moderasyonu |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Sohbet Moderasyonu, Beatmap Moderasyonu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Turnuvalar |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Sohbet Moderasyonu |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Sohbet Moderasyonu, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Sohbet Moderasyonu |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portuguese | Sohbet Moderasyonu, Beatmap Moderasyonu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Sohbet Moderasyonu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Sohbet Moderasyonu |
