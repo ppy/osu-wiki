@@ -83,7 +83,7 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
   - [765 MILLIONSTARS - Thank you! (\_Star) [Kana's Extr@]](https://osu.ppy.sh/beatmapsets/894976#osu/1890844)
   - [void feat. Komatsuna - Akatsuki no Tsuki (Cherry Blossom) [Skystar's Extreme]](https://osu.ppy.sh/beatmapsets/212387#osu/527704)
 - DoubleTime
-  - [Owl City - Hello Seattle (Remix) (JauiPlaY) [Goodbye]](https://osu.ppy.sh/beatmapsets/41893#osu/136556)
+  - [The Flashbulb - Hymn To The Unobtainable (Mismagius) [Insane]](https://osu.ppy.sh/beatmapsets/539042#osu/1142273)
   - [\*namirin - Sakurairo Time Capsule (Fuccho) [A Mystery's Insane]](https://osu.ppy.sh/beatmapsets/355236#osu/791809)
   - [yuikonnu & ayaponzu\* - Shinde Shimau towa Nasakenai! (Frey) [Testo's Insane]](https://osu.ppy.sh/beatmapsets/710207#osu/1519973)
 - Tiebreaker
@@ -94,18 +94,18 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 - NoMod
   - [Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix) (toybot) [MIDI]](https://osu.ppy.sh/beatmapsets/926885#osu/1935932)
   - [Chihiro Yonekura - Koiseyo Otome! (Kencho) [Extra]](https://osu.ppy.sh/beatmapsets/498438#osu/1061235)
-  - [Wakeshima Kanon - Shoujo Shikake no Libretto \~Storytelling by solita\~ (Deramok) [Dreaming of The Imminent]](https://osu.ppy.sh/beatmapsets/636105#osu/1349819)
+  - [IOSYS - Taihen na Mono no Shoushitsu (DJPop) [Lost]](https://osu.ppy.sh/beatmapsets/17819#osu/63412)
 - Hidden
   - [Rabbit House - Final Overtake (bbu) [FINAL OVERDRIVE]](https://osu.ppy.sh/beatmapsets/770246#osu/1619453)
   - [Nanahoshi Kangengakudan - No,39 (pkk) [No Sankyuu]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
   - [Aiobahn - Towa no Utage (w/ YUC'e) (Sakurauchi Riko) [Koyoi Utage]](https://osu.ppy.sh/beatmapsets/844048#osu/1765767)
 - HardRock
-  - [DJ YOSHITAKA - VALLIS-NERIA (Sagisawa-Yukari) [Flower's Another]](https://osu.ppy.sh/beatmapsets/62800#osu/193404)
+  - [sakuraburst - forest of the spirits (Shiirn) [beckoning]](https://osu.ppy.sh/beatmapsets/595796#osu/1260007)
   - [Yamaguchi Rikako, Asakura Momo, Taneda Risa, Suwa Ayaka, Natsukawa Shiina - UNION!! (-Eriri-) [-Eriri-'s MILLION MIX]](https://osu.ppy.sh/beatmapsets/966958#osu/2023829)
   - [Primary - in the Garden (MrSergio) [flowerBed]](https://osu.ppy.sh/beatmapsets/492525#osu/1049246)
 - DoubleTime
   - [Nothing But Thieves - Amsterdam (appleeaterx) [Insane]](https://osu.ppy.sh/beatmapsets/703956#osu/1489205)
-  - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) [Endsane]](https://osu.ppy.sh/beatmapsets/76662#osu/234818)
+  - [Chiyoko - Alice's Mad Tea Party (neonat) [Lunatic]](https://osu.ppy.sh/beatmapsets/215151#osu/515360)
   - [765PRO ALLSTARS - READY!! (S i R i R u) [THE OSUM@STER]](https://osu.ppy.sh/beatmapsets/41121#osu/132903)
 - Tiebreaker
   - **[TRUE - Hiryuu no Kishi (Atalanta) [Beyond the Sky]](https://osu.ppy.sh/beatmapsets/734191#osu/1549194)**
