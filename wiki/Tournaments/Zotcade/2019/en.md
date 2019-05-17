@@ -264,31 +264,31 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 ### Lobby and Matches
 
 1. Missing your match counts as a loss; no rematches will be made.
-1. Score V2 will be used as the win condition.
-1. Warmups will not be allowed.
-1. Low roll bans first; high roll picks first.
-1. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
-1. No-shows will be automatically considered forfeitures.
-1. Tournament participants must notify staff before leaving tournament premises.
-1. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers if you need clarification.
+2. Score V2 will be used as the win condition.
+3. Warmups will not be allowed.
+4. Low roll bans first; high roll picks first.
+5. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
+6. No-shows will be automatically considered forfeitures.
+7. Tournament participants must notify staff before leaving tournament premises.
+8. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers if you need clarification.
 
 ### Disconnection
 
 1. On first disconnect, the opponent decides whether to rematch or not.
-1. Second and further disconnects are counted as losses.
+2. Second and further disconnects are counted as losses.
 
 ### Match Reporting
 
 1. Both players will have to report their scores together to the main desk.
-1. Both players must unanimously agree on the winner of the match.
-1. In the case of disagreement, a referee will check the match history link provided and make a judgement call.
+2. Both players must unanimously agree on the winner of the match.
+3. In the case of disagreement, a referee will check the match history link provided and make a judgement call.
 
 ### Misconduct and Cheating
 
 1. Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal from the event.
-1. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
-1. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
-1. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
+2. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
+3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
+4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
 [flag_IE]: /wiki/shared/flag/IE.gif
 [flag_US]: /wiki/shared/flag/US.gif
