@@ -128,13 +128,13 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba(Top), Makeshift Winners(Mid), not even european(Low) | Almost Allies(Top), singletap is braindead(Mid), Yes (Yes)(Low) | nh9mju0(Top), Phoenix Emperors(Mid), Polish Musketeers(Low) |
 
-### ![](/wiki/shared/mode/osu.png) #Game\_Osu Tourney
+### ![](/wiki/shared/mode/osu.png) Game_Osu Tourney
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| #Game\_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
-| #Game\_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
-| [#Game\_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-09 | 2019-04-21 | - | - | - |
+| #Game_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
+| #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
+| [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
 
