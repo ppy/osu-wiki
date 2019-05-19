@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #5 Results"
-date: 2019-05-19 17:00:00 +0000
+date: 2019-05-21 17:00:00 +0000
 ---
 
 The results for the second osu!standard Mapping Olympiad contest are in! See who rose above the rest to earn the coveted title of *Elite Mapper*!
