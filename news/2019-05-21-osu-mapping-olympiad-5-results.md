@@ -41,11 +41,11 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 [Here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which is updated after each contest.
 
-We'd like to thank all of the judges who spent their time going through and judging all of the entries: [Electoz](https://osu.ppy.sh/users/6485263), [Myxomatosis](https://osu.ppy.sh/users/2202645), [pishifat](https://osu.ppy.sh/users/3178418), and [Sonnyc](https://osu.ppy.sh/users/11771). Contests would not be able to be run without the time and effort of judges, and for that we are truly grateful for your efforts.
+We'd like to thank all of the judges who spent their time going through and judging all of the entries: [Electoz](https://osu.ppy.sh/users/6485263), [Myxomatosis](https://osu.ppy.sh/users/2202645), [pishifat](https://osu.ppy.sh/users/3178418), and [Sonnyc](https://osu.ppy.sh/users/11771). Contests would not be able to be run without the time and effort of judges, and for that we are truly grateful for their efforts.
 
 You can see all of the scores and comments from the judges [via this spreadsheet](https://docs.google.com/spreadsheets/d/1nJ9uyasmJpj0cmsP-6mDDHsmjLxCV2lF20Y8RmmA74A), and you can [click here to check out all of the entries!](https://drive.google.com/open?id=1w53t4grwOSK2hM3ZCcW012-gdJVNrzaU).
 
-As a brief aside, for those of you who may have been wondering about the osu!taiko and osu!mania contests, we apologize for the delay. A number of unexpected circumstances came up between the judges for both contests, but we will finally be able to announce the results for both contests soon soon.
+As a brief aside, for those of you who may have been wondering about the osu!taiko and osu!mania contests, we apologize for the delay. A number of unexpected circumstances came up between the judges for both contests, but we will finally be able to announce the results for both contests soon.
 
 Thank you to everyone who participated and showed interest, and congratulations once again to [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875)! We look forward to seeing you all and more in the next Olympiad contest!
 
