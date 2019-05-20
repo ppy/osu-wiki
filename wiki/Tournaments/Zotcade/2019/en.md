@@ -292,6 +292,151 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 - Tiebreaker
   - **[MC Mental - MC MENTAL @ HIS BEST (hi19hi19) [Hard]](https://osu.ppy.sh/beatmapsets/503710#mania/1071695)**
 
+## Match Results
+
+### osu!
+
+#### Grand Finals
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **6** | 1 | ![][flag_US] Mathyu | [Multiplayer match](https://osu.ppy.sh/community/matches/51947819) |
+
+#### Finals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **5** | 1 | ![][flag_US] Mathyu | [Multiplayer match](https://osu.ppy.sh/community/matches/51945087) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Mathyu** ![][flag_US] | **5** | 1 | ![][flag_US] death grips | [Multiplayer match](https://osu.ppy.sh/community/matches/51947396) |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **4** | 1 | ![][flag_US] Musket | [Multiplayer match](https://osu.ppy.sh/community/matches/51943219) |
+| death grips ![][flag_US] | 2 | **4** | ![][flag_US] **Mathyu** | [Multiplayer match](https://osu.ppy.sh/community/matches/51943346) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Musket** ![][flag_US] | **4** | 2 | ![][flag_US] YungCowboy | [Multiplayer match](https://osu.ppy.sh/community/matches/51944564) |
+| **death grips** ![][flag_US] | **4** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/51944566) |
+| Musket ![][flag_US] | 2 | **4** | ![][flag_US] **death grips** | [Multiplayer match](https://osu.ppy.sh/community/matches/51945563) |
+
+#### Quarterfinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [Multiplayer match](https://osu.ppy.sh/community/matches/51942496) |
+| Darin on osu ![][flag_US] | 1 | **3** | ![][flag_US] **Musket** | [Multiplayer match](https://osu.ppy.sh/community/matches/51942547) |
+| **death grips** ![][flag_US] | **3** | 0 | ![][flag_US] YungCowboy | [Multiplayer match](https://osu.ppy.sh/community/matches/51942801) |
+| **Mathyu** ![][flag_US] | **3** | 0 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/51942604) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] Sliceofpie | [Multiplayer match](https://osu.ppy.sh/community/matches/51943277) |
+| **YungCowboy** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [Multiplayer match](https://osu.ppy.sh/community/matches/51943275) |
+| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] [KOR] Sora | Forfeit |
+| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/51942892) |
+| Ikeda Chizuru ![][flag_US] | 2 | **3** | ![][flag_US] **YungCowboy** | [Multiplayer match](https://osu.ppy.sh/community/matches/51943880) |
+| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [Multiplayer match](https://osu.ppy.sh/community/matches/51943344) |
+
+#### Round of 16
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] Sliceofpie | [Multiplayer match](https://osu.ppy.sh/community/matches/51941939) |
+| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] Achao3 | [Multiplayer match](https://osu.ppy.sh/community/matches/51941917) |
+| **Musket** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [Multiplayer match](https://osu.ppy.sh/community/matches/51941899) |
+| [KOR] Sora ![][flag_US] | 0 | **3** | ![][flag_US] **YungCowboy** | [Multiplayer match](https://osu.ppy.sh/community/matches/51942119) |
+| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] MyAngelNeptune | Played offline |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| Achao3 ![][flag_US] | 1 | **3** | ![][flag_US] **Slo** | [Multiplayer match](https://osu.ppy.sh/community/matches/51942573) |
+
+#### Seeding
+
+All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ![][flag_US] Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a refereee).
+
+| Player | Aggregate placement |
+| :-- | :-- |
+| ![][flag_US] fieryrage | 12 |
+| ![][flag_US] death grips | 26 |
+| ![][flag_US] Mathyu | 30 |
+| ![][flag_US] Darin on osu | 34 |
+| ![][flag_US] Musket | 34 |
+| ![][flag_US] Ikeda Chizuru | 58 |
+| ![][flag_US] [KOR] Sora | 61 |
+| ![][flag_US] pishifat | 65 |
+| ![][flag_US] Sliceofpie | 72 |
+| ![][flag_US] YungCowboy | 77 |
+| ![][flag_US] MyAngelNeptune | 79 |
+| ![][flag_US] Slo | 80 |
+| ![][flag_US] Achao3 | 100 |
+
+### osu!mania
+
+#### Finals
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **6** | 2 | ![][flag_US] Trainer- | [Multiplayer match](https://osu.ppy.sh/community/matches/51944062) |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **5** | 1 | ![][flag_US] Trainer- | [Multiplayer match](https://osu.ppy.sh/community/matches/51941547) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Trainer-** ![][flag_US] | **5** | 0 | ![][flag_US] Ouchiee | [Multiplayer match](https://osu.ppy.sh/community/matches/51943569) |
+
+#### Round 2
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **4** | 0 | ![][flag_US] Ouchiee | [Multiplayer match](https://osu.ppy.sh/community/matches/51940641) |
+| **Trainer-** ![][flag_US] | **4** | 3 | ![][flag_US] Ecal | [Multiplayer match](https://osu.ppy.sh/community/matches/51940114) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Ecal** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [Multiplayer match](https://osu.ppy.sh/community/matches/51941682) |
+| **Ouchiee** ![][flag_US] | **5** | 0 | ![][flag_US] Ecal | [Multiplayer match](https://osu.ppy.sh/community/matches/51942291) |
+
+#### Round 1
+
+| Player 1 |  |  | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [Multiplayer match](https://osu.ppy.sh/community/matches/51939935) |
+
 ## Ruleset
 
 ![iDOL@NSTER Bracket Format](img/format.png)
