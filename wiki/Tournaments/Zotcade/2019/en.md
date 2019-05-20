@@ -67,6 +67,8 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 
 ## Participants
 
+![Photo of the event's attendees](img/people.png "Attendees of iDOL@NSTER")
+
 ### osu!
 
 - ![][flag_US] [[KOR] Sora](https://osu.ppy.sh/users/11985468)
