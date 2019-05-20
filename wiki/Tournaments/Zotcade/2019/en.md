@@ -73,6 +73,32 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 - [osu! UCI Discord server](https://discord.gg/qbZddFV)
 - [Website](http://www.osuuci.com/tournaments/idol@nster/)
 
+## Participants
+
+### osu!
+
+- ![][flag_US] [[KOR] Sora](https://osu.ppy.sh/users/11985468)
+- ![][flag_US] [Achao3](https://osu.ppy.sh/users/12325019)
+- ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)
+- ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
+- ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+- ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
+- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
+- ![][flag_US] [Musket](https://osu.ppy.sh/users/6124459)
+- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+- ![][flag_US] [Sliceofpie](https://osu.ppy.sh/users/3841872)
+- ![][flag_US] [Slo](https://osu.ppy.sh/users/8839884)
+- ![][flag_US] [YungCowboy](https://osu.ppy.sh/users/8176490)
+
+### osu!mania
+
+- ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614)
+- ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
+- ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
+- ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
+- ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760)
+
 ## Mappools
 
 ### osu!
