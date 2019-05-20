@@ -18,17 +18,8 @@ The **iDOL@NSTER** is an osu! and osu!mania BYOC LAN tournament hosted by [osu! 
 
 ![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
 
-The tournament will take place on Sunday, May 19, 2019 from 10 a.m. to 10 p.m. It will be located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB. Food is not provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for around $10. Please arrive early, as there will be other events taking up parking spots.
+The tournament will take place on Sunday, May 19, 2019 from 10 a.m. to 10 p.m. It will be located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
-Each player location has one guaranteed power outlet and ethernet port. If you require the use of ethernet, please bring your own cable.
-
-### Registration
-
-Please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfhMFC1BZrbdpQK_tjpgYFjCGp4lUG8ILscpYH7XHvcLCmvdw/viewform) to RSVP and register for the event.
-
-## Tournament Schedule
-
-![iDOL@NSTER Schedule](img/schedule.png)
 
 ## Prizes
 
