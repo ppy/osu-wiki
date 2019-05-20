@@ -74,6 +74,26 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Mappools
 
+### Semifinals
+
+**Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ) (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
+
+- FreeMod
+  - [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
+  - [Team Grimoire - Sheriruth \[Future\]](https://osu.ppy.sh/beatmapsets/590341#mania/1295745)
+  - [senya - Sono Kami no Zirenma ni \[MX(LN)\]](https://osu.ppy.sh/beatmapsets/637525#mania/1352487)
+  - [Glome - Cynthia (With Moonlight) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
+  - [Camellia - Routing \[Tofu's Another\]](https://osu.ppy.sh/beatmapsets/730034#mania/1637717)
+  - [DJ Noriken - #MAGiCVLGiRL_TRVP_B3VTZ \[ZVPH'Z\_ACC\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565516)
+  - [naotyu- feat. Eri Sasaki - Candy Tall Woman \[Syrup\]](https://osu.ppy.sh/beatmapsets/772698#mania/1624238)
+  - [Tia - Deal with the Devil \[trickery\]](https://osu.ppy.sh/beatmapsets/832413#mania/1743908)
+  - [Nanahira ft. Camellia - Petals \[Blossom\]](https://osu.ppy.sh/beatmapsets/852255#mania/1781436)
+  - [Chroma - I \[Exhaust\]](https://osu.ppy.sh/beatmapsets/865895#mania/1810417)
+  - [uma - Imaginary world \[Insane\]](https://osu.ppy.sh/beatmapsets/890068#mania/1860563)
+  - [Sakuzyo - Kronos \[z3\_5724's 4K Enteral Sound\]](https://osu.ppy.sh/beatmapsets/970406#mania/2030997)
+- Tiebreaker
+  - [Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)
+
 ### Quarterfinals
 
 **Download the mappack here! (85 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q) (code: `wtvh`) - [Google Drive](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy)**
@@ -123,6 +143,15 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## Match Results
+
+### Quarterfinals
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| s\_w\_w | 1 | **5** | **amxmodx** |
+| 1ess\_\_ | 4 | **5** | **HerrySun** |
+| **Yutto007** | **1** | 0 | \[xiao ba\] |
+| KirigayaSnow | 0 | **1** | **shizehao** |
 
 ### Group Stage
 
