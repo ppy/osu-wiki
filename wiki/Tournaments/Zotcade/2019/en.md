@@ -12,13 +12,13 @@ tags:
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-The **iDOL@NSTER** is an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It will take place during *Zotcade 2019*, a gaming festival hosted at the University of California, Irvine (*UCI*). This is osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+The **iDOL@NSTER** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
 ![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
 
-The tournament will take place on Sunday, May 19, 2019 from 10 a.m. to 10 p.m. It will be located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
+The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
 The osu!standard Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
 
@@ -46,7 +46,7 @@ A special prize was rewarded to the player who held the highest aggregate score 
 
 ## Organisation
 
-The iDOL@NSTER is run by various osu! community members at UCI or visiting for the event.
+The iDOL@NSTER was run by various osu! community members at UCI or visiting for the event.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -102,6 +102,8 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+
+![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
 
 ### osu!mania
 
