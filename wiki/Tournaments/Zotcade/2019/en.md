@@ -32,7 +32,9 @@ Please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfhM
 
 ## Prizes
 
-All prizes will be awarded to both the osu! and osu!mania winners.
+![iDOL@NSTER Profile Badge](img/badge.png)
+
+### osu!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -40,7 +42,15 @@ All prizes will be awarded to both the osu! and osu!mania winners.
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | HyperX Alloy Core RGB Keyboard |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | HyperX Pulsefire FPS Mouse |
 
-![iDOL@NSTER Profile Badge](img/badge.png)
+A special prize was rewarded to the player who held the highest aggregate score on songs from *THE iDOLM@STER: Cinderella Girls*. They received a poster card for *Anastasia*, one of the idols featured in the game.
+
+### osu!mania
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Logitech G Pro Mouse |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Logitech G Pro Mouse |
 
 ## Organisation
 
