@@ -449,6 +449,9 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 
 ## Ruleset
 
+<!-- The "procedure" section says that higher roll bans first / picks second, but this was flipped during the event
+  -- Probably best to update this image since the rules refer to it and don't include the information presented
+  -->
 ![iDOL@NSTER Bracket Format](img/format.png)
 
 Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offence. **These rules and regulations are subject to change during the event.**
