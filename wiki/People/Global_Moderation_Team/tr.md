@@ -44,7 +44,7 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap Moderasyonu |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Sohbet Moderasyonu |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Sohbet Moderasyonu, Forum Moderasyonu |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Sohbet Moderasyonu, Forum Moderasyonu |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Sohbet Moderasyonu, Forum Moderasyonu, Teknik Destek |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Sohbet Moderasyonu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, Forum Moderasyonu, Sohbet Moderasyonu |

@@ -41,7 +41,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Niemiecki | Moderacja Beatmap |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Włoski | Moderacja czatu |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderacja Forum oraz czatu |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderacja czatu oraz forum |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderacja czatu oraz forum, Pomoc techniczna |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderacja czatu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Ranking Criteria, Moderacja Forum oraz czatu |

@@ -44,7 +44,7 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Tedesco | Moderazione della Beatmap |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italiano | Moderazione della chat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Olandese | Moderazione della chat, Moderazione del forum |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderazione della chat, Moderazione del forum |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderazione della chat, Moderazione del forum, Supporto Tecnico |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francese | Moderazione della chat |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Tedesco | Ranking Criteria, Moderazione del forum, Moderazione della chat |

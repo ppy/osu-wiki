@@ -41,7 +41,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 독일어 | 비트맵 관리 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 이탈리아어 | 채팅 관리 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 네덜란드어 | 채팅 관리, 포럼 관리 |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리 |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리, 기술 지원 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 프랑스어 | 채팅 관리 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 개발, 매퍼 길드 조직 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | Ranking Criteria, 포럼 관리, 채팅 관리 |

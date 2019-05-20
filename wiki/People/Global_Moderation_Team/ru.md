@@ -47,7 +47,7 @@ outdated: true
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | испанский | чат, форум |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | итальянский | чат |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | голландский | чат, форум |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») | чат, форум |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») | чат, форум, техподдержка |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | французский | чат |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! развитие, Mappers' Guild организация |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | немецкий | Ranking Criteria, форум, чат |

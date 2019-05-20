@@ -44,7 +44,7 @@ outdated: true
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面管理 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 意大利语 | 聊天室管理 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理, 技术支持 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 开发, Mappers' Guild 组织者 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | Ranking Criteria, 论坛管理, 聊天室管理 |

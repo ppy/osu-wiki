@@ -41,7 +41,7 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi Beatmap |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italia | Moderasi Chat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipina | Moderasi Chat, Moderasi Forum |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipina | Moderasi Chat, Moderasi Forum, Dukungan Teknis |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Perancis | Moderasi Chat |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Ranking Criteria, Moderasi Forum, Moderasi Chat |
