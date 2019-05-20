@@ -53,11 +53,11 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 - [SOFT Discord server](https://discord.gg/qd575a3)
 - [Challonge](https://challonge.com/SOFT4)
 
-----------
+---
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEmLPa2KQCVCJtg_nYcTaRpAkzO2pSoCGvkwcPw/edit?usp=sharing).
+The schedule can be found [here](-pending-).
 
 ## Participants
 
@@ -91,9 +91,28 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 | **O** | ![][flag_ID] \[Crz\]Crysarlene | ![][flag_TH] HowToPlayLN | ![][flag_PH] windrush123 | ![][flag_CA] CommandoBlack |
 | **P** | ![][flag_PL] Tidek  | ![][flag_FR] Cunu | ![][flag_JP] \[ misa \] | ![][flag_CA] AndyTechGuy |
 
-----------
+---
 
 ## Mappools
+
+### Quarterfinals
+
+- FreeMod
+  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmapsets/963683#mania/2017618)
+  - [EBIMAYO - GOODBOUNCE (juankristal) \[GOODLN\]](https://osu.ppy.sh/beatmapsets/974488#mania/2039768)
+  - [Kabocha - EmbryO (Gekido-) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/936194#mania/1955790)
+  - [DJKurara - Last First Kingdom (Toaph Daddy) \[Destiny\]](https://osu.ppy.sh/beatmapsets/886403#mania/1853009)
+  - [Aphex Twin - Flim (Nivrad00) \[Mapping Style: Parachor\]](https://osu.ppy.sh/beatmapsets/772423#mania/1623750)
+  - [M2U - Mare Maris (Raveille) \[LNfried's MASTER\]](https://osu.ppy.sh/beatmapsets/917906#mania/1916802)
+  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
+  - [Camellia - Quaoar (-MysticEyes) \[Celestial\]](https://osu.ppy.sh/beatmapsets/812418#mania/1704082)
+  - [The Flashbulb - Stinger (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/970202#mania/2030336)
+  - [aran & lapix - KALACAKLA (cut) (qqqant) \[guil vs. mint's eternity\]](https://osu.ppy.sh/beatmapsets/973303#mania/2037596)
+  - [Betwixt & Between - 12 little fragments of silence (Pope Gadget) \[morningstar\]](https://osu.ppy.sh/beatmapsets/911176#mania/1901595)
+  - [DJ Banzai - Disconnected -Trance- (GammaBlaster) \[GammaBlaster's Hard\]](https://osu.ppy.sh/beatmapsets/974373#mania/2039562)
+  - [The Flashbulb - Back of the Yards (Halogen-) \[Stage 1: Boundary\]](https://osu.ppy.sh/beatmapsets/723624#mania/1527721)
+- Tiebreaker
+  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmapsets/934819#mania/1951599)**
 
 ### Round of 16
 
@@ -168,6 +187,34 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
   - [FOLiACETATE - Heterochromia Iridis (Gekido-) \[Stage 4: Mutation\]](https://osu.ppy.sh/beatmapsets/948787#mania/1981395)
 
 ## Match Results
+
+### Round of 16
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml).**
+
+| Friday, 2019-05-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **[Crz]Crysarlene** ![][flag_ID] | **5** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/51864071) |
+
+| Saturday, 2019-05-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Rek ![][flag_AU] | 0 | **5** | ![][flag_SG] **ByeForNow** | -win by default- |
+| Adri ![][flag_FR] | 0 | **5** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/51890758) |
+| SitekX ![][flag_PL] | 2 | **5** | ![][flag_TH] **MyZterioN-** | [#1](https://osu.ppy.sh/community/matches/51890833) |
+| [ misa ] ![][flag_JP] | 3 | **5** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51892281) |
+| Polytetral ![][flag_SG] | 0 | **5** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/51898993) |
+| RuleBlazing ![][flag_TH] | 4 | **5** | ![][flag_US] **HeZeuS** | [#1](https://osu.ppy.sh/community/matches/51898844) |
+| **-Rem-** ![][flag_ID] | **5** | 1 | ![][flag_SG] Tamaneko | [#1](https://osu.ppy.sh/community/matches/51898858) |
+| **Chrubble** ![][flag_US] | **5** | 2 | ![][flag_PL] _underjoy | [#1](https://osu.ppy.sh/community/matches/51905506) |
+| **-Electro-** ![][flag_US] | **5** | 2 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/51907788) |
+
+| Sunday, 2019-05-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **PotassiumF** ![][flag_AU] | **5** | 1 | ![][flag_NZ] Spicy Meme | [#1](https://osu.ppy.sh/community/matches/51924874) |
+| **SoFast** ![][flag_GB] | **5** | 4 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/51929390) |
+| DaZeRo5 ![][flag_PE] | 0 | **5** | ![][flag_KR] **wonder5193** | -win by default- |
+| **Toaph Daddy** ![][flag_US] | **5** | 0 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/51932516) |
+| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/51937737) |
 
 ### Round of 32
 
