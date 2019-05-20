@@ -99,6 +99,24 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 - ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
 - ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760)
 
+## Podium
+
+### osu!
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+
+### osu!mania
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+
 ## Mappools
 
 ### osu!
