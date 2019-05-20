@@ -66,7 +66,8 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 
 ## Links
 
-- **[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfhMFC1BZrbdpQK_tjpgYFjCGp4lUG8ILscpYH7XHvcLCmvdw/viewform)**
+- [Challonge bracket (osu!)](https://challonge.com/ilanstandard)
+- [Challonge bracket (osu!mania)](https://challonge.com/ilanmania)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902500)
 - [Livestream](https://www.twitch.tv/osuuci)
 - [osu! UCI Discord server](https://discord.gg/qbZddFV)
