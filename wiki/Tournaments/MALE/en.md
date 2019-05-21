@@ -55,6 +55,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 - ![][flag_US] [andrew22r](https://osu.ppy.sh/users/7941164)
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
+- ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)
 - ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
 - ![][flag_US] [GiraffeMidget](https://osu.ppy.sh/users/2413317)
 - ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
@@ -65,7 +66,6 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
 - ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659)
 - ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201)
-- ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940)
 
 ### osu!mania
 
