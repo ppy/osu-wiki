@@ -32,8 +32,8 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 | Commentators | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_NZ] [Monster Bait](https://osu.ppy.sh/u/6890546), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/u/4012086), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_AU] [HolyJesus](https://osu.ppy.sh/users/7785655), ![][flag_AU] [Aus](https://osu.ppy.sh/users/6541404), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
 | Streamers | ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | Referees | ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_NZ] [phophicles](https://osu.ppy.sh/users/9373724), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_KR] [silverlightcs](https://osu.ppy.sh/users/9862564), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Mappool Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_MV] [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
-| Graphics Design | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853) |
+| Map Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_MV] [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
+| Graphics Designer | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853) |
 
 ## Links
 
@@ -43,7 +43,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 ## Mappools
 
-Find all mappools on the spreadsheet linked above.
+All mappools are available on the spreadsheet linked above.
 
 ---
 
