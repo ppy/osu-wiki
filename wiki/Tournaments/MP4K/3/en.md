@@ -1,14 +1,14 @@
 ---
 tags:
 - MP4K
-- MP4K_3
-- MP4K_2019
+- MP4K 3
+- MP4K 2019
 ---
 # Mistrzostwa Polski w 4K 3
 
-![MP4K_3 Logo](img/logo.png)
+![MP4K 3 Logo](img/logo.png)
 
-**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the tournament.
+**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) is a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the tournament.
 
 ## Tournament Schedule
 
@@ -32,7 +32,7 @@ The minimum guaranteed prizes are:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  100 PLN, profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 100 PLN, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 60 PLN |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 40 PLN |
 
@@ -43,11 +43,11 @@ The minimum guaranteed prizes are:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinator | ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), |
-| Map Selectors | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
-| Referees | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Cyan_Star](https://osu.ppy.sh/users/8679184), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_RU] [AnatOWJIya](https://osu.ppy.sh/users/486264), ![][flag_PL] [MrDorian](https://osu.ppy.sh/users/1559983), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [DrawnGirl](https://osu.ppy.sh/users/2222301) |
-| Commentators | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Beniek](https://osu.ppy.sh/users/1649633) |
+| Coordinator | ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
+| Map Selectors | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Referees | ![][flag_RU] [AnatOWJIya](https://osu.ppy.sh/users/486264), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Cyan\_Star](https://osu.ppy.sh/users/8679184), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [MrDorian](https://osu.ppy.sh/users/1559983), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamers | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [DrawnGirl](https://osu.ppy.sh/users/2222301), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentators | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Beniek](https://osu.ppy.sh/users/1649633), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician Helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
@@ -145,7 +145,7 @@ The minimum guaranteed prizes are:
 
 ### Tournament Play
 
-#### Protocol
+#### <a id="protocol"></a>Protocol
 
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 
@@ -224,7 +224,7 @@ The minimum guaranteed prizes are:
 
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 
-- A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
+- A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
