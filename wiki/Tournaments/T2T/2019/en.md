@@ -1,8 +1,8 @@
 # TAG2 Tournament 2019
 
-![T2T Logo](img/logo.png)
+![T2T 2019 Logo](img/logo.png)
 
-The **TAG2 Tournament 2019** (***T2T 2019***) is an international Tag Team VS. tournament hosted by [Mara](https://osu.ppy.sh/users/194294) and [Malteser](https://osu.ppy.sh/users/5218178). It is the 3rd installment of the TAG Tournament series. The tournament follows on from [Tayo](https://osu.ppy.sh/users/8910355)'s 2 previous TAG Tournaments [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
+The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by [Mara](https://osu.ppy.sh/users/194294) and [Malteser](https://osu.ppy.sh/users/5218178). It was the 3rd installment of the TAG Tournament series. The tournament followed on from [Tayo](https://osu.ppy.sh/users/8910355)'s 2 previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Tournament Schedule
 
@@ -21,21 +21,21 @@ The **TAG2 Tournament 2019** (***T2T 2019***) is an international Tag Team VS. t
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
-The TAG2 Tournament 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The TAG2 Tournament 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | --: | :-- |
 | Hosts | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
 | Co-Hosts | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappoolers | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648) |
+| Map Selectors | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648) |
 | Referees | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_BR] [Flow-](https://osu.ppy.sh/users/4222824), ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077), ![][flag_VN] [steve_04_](https://osu.ppy.sh/users/10852911), ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383), ![][flag_GR] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287) |
-| Spreadsheets | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Statisticians | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Graphics | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 
 ## Links
@@ -51,7 +51,7 @@ The TAG2 Tournament 2019 is run by various community members by distributing the
 
 ### Qualifiers
 
-**[Download the mappack here! (32.7MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
+**[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
 
 - NoMod
   - [Railgun Roulette (VIP) \[LowBot's Insane\] \(NielPerry\)](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)
