@@ -80,7 +80,7 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
 | --- | --- | --- | --- | --- | --- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | - | - | - |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 Veja também
 ---------
