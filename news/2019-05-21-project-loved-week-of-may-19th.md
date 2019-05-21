@@ -154,7 +154,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/catch/1-goat-fantasia.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Memme - Goat Fantasia](https://osu.ppy.sh/beatmapsets/634496#fruits) by [Spectator](https://osu.ppy.sh/users/702598)  
-125 BPM, 2:27 | NaN★, NaN★  
+125 BPM, 2:27 | 4.82★, 4.82★  
 *description written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
 Spectator is an absolute veteran of osu!catch mapping; there are hardly any players who don't know at least a couple of maps by him. He is joining the Loved section again, but this time with one of his more unusual maps, Goat Fantasia. People who had the pleasure of playing it during the osu!catch World Cup 2018 (it was used for the Hidden bracket of the finals mappool) might experience some flashbacks when thinking about this map. The map itself is actually not that difficult, but there obviously was a good reason why it was in the HD bracket of the pool rather than in the NoMod bracket; it is Hell with Hidden and a challenge for even the best of the best among the Hidden players. So, if you are looking for a true challenge, this is it. Of course, you can also enjoy the map with any other mod of your choice, as it is a fun map overall which deserves the nomination.
@@ -162,7 +162,7 @@ Spectator is an absolute veteran of osu!catch mapping; there are hardly any play
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/catch/2-yoiyami-no-uta.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Sound Horizon - Yoiyami no Uta](https://osu.ppy.sh/beatmapsets/653211#fruits) by [Vincs](https://osu.ppy.sh/users/2026299)  
-182 BPM, 10:11 | NaN★  
+182 BPM, 10:11 | 6.15★  
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 Vincs is certainly not an unknown entity when it comes to the Loved section, as he already has three of his maps in it. However, this time it is not another CS0 map. Instead, it is a 10-minute-long map of exceptional quality with a drain time of over 8 minutes, and that on a single song. Yoiyami no Uta is one of those maps which just doesn't deserve to be forgotten in the Graveyard. The map definitely reflects the insane amount of work that went into it; nothing feels out of place, and even though the map is long, it isn't repetitive or boring to play, rather the opposite. The mapping style is very clean and was kept at a level where it is not over-the-top but on the other hand also not too easy. You just have to give this map a shot if you want to know how fantastic it really is; it is truly a great experience!
