@@ -1,3 +1,8 @@
+---
+tags:
+- T2T
+- T2T2019
+---
 # TAG2 Tournament 2019
 
 ![T2T 2019 Logo](img/logo.png)
