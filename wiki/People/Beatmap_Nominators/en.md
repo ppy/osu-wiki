@@ -74,6 +74,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
+| [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesian |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | [-Mikan](https://osu.ppy.sh/users/9063995) | Russian |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Korean |
@@ -88,15 +89,13 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | [celerih](https://osu.ppy.sh/users/4696296) | French |
 | [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
+| [DJ Lucky](https://osu.ppy.sh/users/5226970)            |                          |
 | [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
 | [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesian |
 | [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
 | [Gabe](https://osu.ppy.sh/users/654108) | French |
 | [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
-| [DJ Lucky](https://osu.ppy.sh/users/5226970)            |                          |
-| [Takekii](https://osu.ppy.sh/users/6443117) |  |
 | [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
 | [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
 | [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
@@ -128,6 +127,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |
 | [Sotarks](https://osu.ppy.sh/users/4452992)           | French                   |
 | [spoes](https://osu.ppy.sh/users/9505704) |  |
+| [Takekii](https://osu.ppy.sh/users/6443117) |  |
 | [Testo](https://osu.ppy.sh/users/5200881) | Russian |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
 | [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
@@ -183,13 +183,13 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 |-------------------------------------------------------|--------------------------|
 | [\[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
+| [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |
 | [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
 | [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
 | [Dellvangel](https://osu.ppy.sh/users/5186244)        | Indonesian               |
 | [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
-| [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
 | [KeppSado](https://osu.ppy.sh/users/11085809) |  |
 | [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
