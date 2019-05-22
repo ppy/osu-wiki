@@ -94,7 +94,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ## Match Schedule: Grand Finals
 
-### Sunday, 26. May 2019
+### Sunday, 26 May 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
@@ -102,9 +102,8 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ² |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
 
-¹ 3rd place encounter
-
-² Grand Finals encounter dependent on results of ²3rd place encounter
+¹ 3rd place encounter  
+² Grand Finals encounter dependent on results of ¹3rd place encounter
 
 ---
 
@@ -134,7 +133,6 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - [sasakure.UK - The illegaL QueeN (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmapsets/881484#taiko/1843044)
 - Tiebreaker
   - **[Yuuyu - Howdy! and... Good-Die! (tasuke912) \[Grande Finale\]](https://osu.ppy.sh/beatmapsets/974134#taiko/2039122)**
-
 
 ### Finals
 
