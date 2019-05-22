@@ -57,7 +57,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 
 ## Match Schedule: Quarterfinals
 
-The schedule can be found [here](-pending-).
+The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEmLPa2KQCVCJtg_nYcTaRpAkzO2pSoCGvkwcPw/edit?usp=sharing).
 
 ## Participants
 
