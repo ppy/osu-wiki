@@ -165,7 +165,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | Name                                                  | Additional Languages     |
 |-------------------------------------------------------|--------------------------|
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
-| [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
 | [Absolute Zero](https://osu.ppy.sh/users/4847256) |  |
 | [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
 | [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
