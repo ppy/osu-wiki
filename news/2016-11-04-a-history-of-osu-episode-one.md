@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A History of osu!: Episode One"
-permalink: http://osunews.tumblr.com/post/152720784003/a-history-of-osu-episode-one
 date: 2016-11-04 08:37:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/152720784003/a-history-of-osu-episode-one
 ---

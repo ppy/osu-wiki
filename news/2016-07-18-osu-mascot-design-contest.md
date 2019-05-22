@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! mascot design contest"
-permalink: http://osunews.tumblr.com/post/147587226893/osu-mascot-design-contest
 date: 2016-07-18 09:46:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/147587226893/osu-mascot-design-contest
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Code of Conduct"
-permalink: https://osuqat.tumblr.com/post/149777211965/code-of-conduct
 date: 2016-09-01 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149777211965/code-of-conduct
 ---

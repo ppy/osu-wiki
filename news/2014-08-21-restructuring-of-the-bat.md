@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Restructuring of the BAT"
-permalink: http://osunews.tumblr.com/post/95382566688/restructuring-of-the-bat
 date: 2014-08-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95382566688/restructuring-of-the-bat
 ---

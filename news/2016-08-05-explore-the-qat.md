@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Explore the QAT!"
-permalink: https://osuqat.tumblr.com/post/148493430910/explore-the-qat
 date: 2016-08-05 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/148493430910/explore-the-qat
 ---

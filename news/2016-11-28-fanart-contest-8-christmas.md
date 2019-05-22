@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fanart Contest #8: Christmas!"
-permalink: http://osunews.tumblr.com/post/153770859513/fanart-contest-8-christmas
 date: 2016-11-28 10:14:46 +0000
 tumblr_url: http://osunews.tumblr.com/post/153770859513/fanart-contest-8-christmas
 ---

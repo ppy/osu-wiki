@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Aspire Stage Two: osu!taiko Begins"
-permalink: http://osunews.tumblr.com/post/160506427903/aspire-stage-two-osutaiko-begins
 date: 2017-05-10 06:10:25 +0000
 tumblr_url: http://osunews.tumblr.com/post/160506427903/aspire-stage-two-osutaiko-begins
 ---

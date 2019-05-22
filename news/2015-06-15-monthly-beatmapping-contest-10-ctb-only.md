@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #10 (CtB only)"
-permalink: http://osunews.tumblr.com/post/121583979808/monthly-beatmapping-contest-10-ctb-only
 date: 2015-06-15 12:01:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/121583979808/monthly-beatmapping-contest-10-ctb-only
 ---

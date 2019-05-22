@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Best of 2014 - Vote now!"
-permalink: http://osunews.tumblr.com/post/107825388293/best-of-2014-vote-now
 date: 2015-01-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107825388293/best-of-2014-vote-now
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: LukHash"
-permalink: http://osunews.tumblr.com/post/157937675188/new-featured-artist-lukhash
 date: 2017-03-03 09:46:27 +0000
 tumblr_url: http://osunews.tumblr.com/post/157937675188/new-featured-artist-lukhash
 ---

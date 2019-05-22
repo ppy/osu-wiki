@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Highlights of July"
-permalink: http://osunews.tumblr.com/post/56990275116/highlights-of-july
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56990275116/highlights-of-july
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The QAT Gazette #5"
-permalink: https://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5
 date: 2017-04-13 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5
 ---

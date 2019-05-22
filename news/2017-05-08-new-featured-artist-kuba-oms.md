@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: Kuba Oms"
-permalink: http://osunews.tumblr.com/post/160437371993/new-featured-artist-kuba-oms
 date: 2017-05-08 09:19:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/160437371993/new-featured-artist-kuba-oms
 ---

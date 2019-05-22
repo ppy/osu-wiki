@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "May 2016 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/146150512763/may-2016-ranking-charts
 date: 2016-06-19 10:46:58 +0000
 tumblr_url: http://osunews.tumblr.com/post/146150512763/may-2016-ranking-charts
 ---

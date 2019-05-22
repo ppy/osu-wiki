@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "GMT Applications Now Open"
-permalink: http://osunews.tumblr.com/post/151845561968/gmt-applications-now-open
 date: 2016-10-15 18:01:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151845561968/gmt-applications-now-open
 ---

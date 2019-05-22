@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!remix contest #1: Results"
-permalink: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-results
 date: 2016-08-29 08:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-results
 ---

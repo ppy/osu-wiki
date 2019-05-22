@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "BN Test Review (osu!taiko, catch and mania)"
-permalink: https://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania
 date: 2016-11-27 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2016 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-2016-registrations-open
 date: 2015-12-01 11:00:37 +0000
 tumblr_url: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-2016-registrations-open
 ---

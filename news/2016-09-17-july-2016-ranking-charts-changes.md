@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "July 2016 Ranking Charts - Changes"
-permalink: http://osunews.tumblr.com/post/150551685358/july-2016-ranking-charts-changes
 date: 2016-09-17 20:35:03 +0000
 tumblr_url: http://osunews.tumblr.com/post/150551685358/july-2016-ranking-charts-changes
 ---

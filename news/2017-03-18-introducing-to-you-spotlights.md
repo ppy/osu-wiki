@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Introducing to you: Spotlights"
-permalink: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotlights
 date: 2017-03-18 11:18:47 +0000
 tumblr_url: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotlights
 ---

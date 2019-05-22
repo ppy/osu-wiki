@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Official osu! Fanart Contest 3 Begins!"
-permalink: http://osunews.tumblr.com/post/93268273058/official-osu-fanart-contest-3-begins
 date: 2014-08-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/93268273058/official-osu-fanart-contest-3-begins
 ---

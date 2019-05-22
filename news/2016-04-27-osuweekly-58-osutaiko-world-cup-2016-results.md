@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!weekly #58 (osu!taiko World Cup 2016 Results!)"
-permalink: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-world-cup-2016-results
 date: 2016-04-27 09:39:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-world-cup-2016-results
 ---

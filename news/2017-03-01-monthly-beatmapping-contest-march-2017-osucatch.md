@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest March 2017: osu!catch"
-permalink: http://osunews.tumblr.com/post/157864915928/monthly-beatmapping-contest-march-2017-osucatch
 date: 2017-03-01 15:44:33 +0000
 tumblr_url: http://osunews.tumblr.com/post/157864915928/monthly-beatmapping-contest-march-2017-osucatch
 ---

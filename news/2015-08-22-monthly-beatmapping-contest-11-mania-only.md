@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #11 - Mania Only"
-permalink: http://osunews.tumblr.com/post/127344497068/monthly-beatmapping-contest-11-mania-only
 date: 2015-08-22 22:24:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/127344497068/monthly-beatmapping-contest-11-mania-only
 ---

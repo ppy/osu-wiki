@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fanart Contest #9: Spring"
-permalink: http://osunews.tumblr.com/post/158662594563/fanart-contest-9-spring
 date: 2017-03-21 11:28:13 +0000
 tumblr_url: http://osunews.tumblr.com/post/158662594563/fanart-contest-9-spring
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Weekly Report #3"
-permalink: https://osuqat.tumblr.com/post/150075576015/weekly-report-3
 date: 2016-09-03 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150075576015/weekly-report-3
 ---

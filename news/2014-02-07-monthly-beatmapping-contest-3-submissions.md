@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #3 - Submissions Extended"
-permalink: http://osunews.tumblr.com/post/75911965309/monthly-beatmapping-contest-3-submissions
 date: 2014-02-07 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/75911965309/monthly-beatmapping-contest-3-submissions
 ---

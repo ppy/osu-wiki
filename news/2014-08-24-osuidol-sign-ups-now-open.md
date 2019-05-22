@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!idol sign-ups now open!"
-permalink: http://osunews.tumblr.com/post/95662228778/osuidol-sign-ups-now-open
 date: 2014-08-24 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95662228778/osuidol-sign-ups-now-open
 ---

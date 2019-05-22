@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "June 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/124274059623/june-2015-ranking-charts
 date: 2015-07-16 22:19:24 +0000
 tumblr_url: http://osunews.tumblr.com/post/124274059623/june-2015-ranking-charts
 ---

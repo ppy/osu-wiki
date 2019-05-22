@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Performance Ranking"
-permalink: http://osunews.tumblr.com/post/74631045581/new-performance-ranking
 date: 2014-01-26 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/74631045581/new-performance-ranking
 ---

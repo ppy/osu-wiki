@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!catch World Cup - RO16/Quarterfinals Recap"
-permalink: http://osunews.tumblr.com/post/162149460298/osucatch-world-cup-ro16quarterfinals-recap
 date: 2017-06-23 05:03:49 +0000
 tumblr_url: http://osunews.tumblr.com/post/162149460298/osucatch-world-cup-ro16quarterfinals-recap
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mara's Gaming Corner - July"
-permalink: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 ---

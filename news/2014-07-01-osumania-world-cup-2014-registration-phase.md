@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!mania World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-registration-phase
 date: 2014-07-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-registration-phase
 ---

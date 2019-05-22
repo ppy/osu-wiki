@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How the QAT handle Qualified Beatmaps"
-permalink: https://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps
 date: 2016-10-23 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps
 ---

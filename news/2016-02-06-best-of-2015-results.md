@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Best of 2015: Results"
-permalink: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 date: 2016-02-06 08:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 ---

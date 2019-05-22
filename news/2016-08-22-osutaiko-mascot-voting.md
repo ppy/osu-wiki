@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!taiko mascot voting"
-permalink: http://osunews.tumblr.com/post/149319979048/osutaiko-mascot-voting
 date: 2016-08-22 13:26:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/149319979048/osutaiko-mascot-voting
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "September 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
 date: 2015-10-20 19:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
 ---

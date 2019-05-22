@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "December 2013 Ranking Chart"
-permalink: http://osunews.tumblr.com/post/74733025589/december-2013-ranking-chart
 date: 2014-01-27 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/74733025589/december-2013-ranking-chart
 ---

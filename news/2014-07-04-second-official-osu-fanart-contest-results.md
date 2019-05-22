@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Second Official osu! Fanart Contest Results!"
-permalink: http://osunews.tumblr.com/post/90764226618/second-official-osu-fanart-contest-results
 date: 2014-07-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/90764226618/second-official-osu-fanart-contest-results
 ---

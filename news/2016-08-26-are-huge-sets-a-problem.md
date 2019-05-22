@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Are huge sets a problem?"
-permalink: https://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem
 date: 2016-08-26 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem
 ---

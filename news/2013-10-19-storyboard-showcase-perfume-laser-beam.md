@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Storyboard Showcase: Perfume - Laser Beam"
-permalink: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfume-laser-beam
 date: 2014-10-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfume-laser-beam
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: Loki/Thaehan"
-permalink: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 date: 2016-12-13 06:15:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 ---

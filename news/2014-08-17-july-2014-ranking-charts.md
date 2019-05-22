@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "July 2014 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/95029815063/july-2014-ranking-charts
 date: 2014-08-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95029815063/july-2014-ranking-charts
 ---

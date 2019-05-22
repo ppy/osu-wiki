@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Storyboard Showcase: YUI - Sea"
-permalink: http://osunews.tumblr.com/post/72951293450/storyboard-showcase-yui-sea
 date: 2014-01-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/72951293450/storyboard-showcase-yui-sea
 ---

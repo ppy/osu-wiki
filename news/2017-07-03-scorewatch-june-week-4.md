@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Scorewatch: June Week 4"
-permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-june-week-4
 date: 2017-07-03 02:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-june-week-4
 ---

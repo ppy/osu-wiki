@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! at anime expo 2017"
-permalink: http://osunews.tumblr.com/post/160469158898/osu-at-anime-expo-2017
 date: 2017-05-09 05:12:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/160469158898/osu-at-anime-expo-2017
 ---

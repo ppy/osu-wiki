@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Weekly Report #1"
-permalink: https://osuqat.tumblr.com/post/148998065655/weekly-report-1
 date: 2016-08-15 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/148998065655/weekly-report-1
 ---

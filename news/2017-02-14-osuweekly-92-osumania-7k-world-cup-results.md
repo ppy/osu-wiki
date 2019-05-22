@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!weekly #92 (osu!mania 7K World Cup Results!)"
-permalink: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-world-cup-results
 date: 2017-02-14 07:25:28 +0000
 tumblr_url: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-world-cup-results
 ---

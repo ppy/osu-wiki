@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The way we do spreads is actually really weird"
-permalink: https://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4
 date: 2016-10-08 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4
 ---

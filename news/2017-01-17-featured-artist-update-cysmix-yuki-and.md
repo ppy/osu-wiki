@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Featured Artist Update: cYsmix, yuki. and Helblinde"
-permalink: http://osunews.tumblr.com/post/155994951623/featured-artist-update-cysmix-yuki-and
 date: 2017-01-17 15:44:12 +0000
 tumblr_url: http://osunews.tumblr.com/post/155994951623/featured-artist-update-cysmix-yuki-and
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Scorewatch: July Week 2"
-permalink: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 date: 2017-07-17 04:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 ---

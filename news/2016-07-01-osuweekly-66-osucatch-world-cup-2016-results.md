@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!weekly #66 (osu!catch World Cup 2016 Results!)"
-permalink: http://osunews.tumblr.com/post/146760479638/osuweekly-66-osucatch-world-cup-2016-results
 date: 2016-07-01 17:42:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/146760479638/osuweekly-66-osucatch-world-cup-2016-results
 ---

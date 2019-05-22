@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "September 2014 Monthly Ranking Charts"
-permalink: http://osunews.tumblr.com/post/100168045013/september-2014-monthly-ranking-charts
 date: 2014-10-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/100168045013/september-2014-monthly-ranking-charts
 ---

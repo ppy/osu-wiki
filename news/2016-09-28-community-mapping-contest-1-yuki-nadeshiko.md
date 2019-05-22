@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)"
-permalink: http://osunews.tumblr.com/post/151057958633/community-mapping-contest-1-yuki-nadeshiko
 date: 2016-09-28 16:07:58 +0000
 tumblr_url: http://osunews.tumblr.com/post/151057958633/community-mapping-contest-1-yuki-nadeshiko
 ---

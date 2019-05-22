@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #3 - Submissions Extended"
-permalink: http://osunews.tumblr.com/post/75252397877/skin-showcase-taiko-special
 date: 2014-02-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/75252397877/skin-showcase-taiko-special
 ---

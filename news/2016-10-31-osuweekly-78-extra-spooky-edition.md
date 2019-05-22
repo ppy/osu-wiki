@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!weekly #78 (Extra Spooky Edition)"
-permalink: http://osunews.tumblr.com/post/152550487418/osuweekly-78-extra-spooky-edition
 date: 2016-10-31 10:32:46 +0000
 tumblr_url: http://osunews.tumblr.com/post/152550487418/osuweekly-78-extra-spooky-edition
 ---

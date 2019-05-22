@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Taiko World Cup 2014 - Last Man Standing"
-permalink: http://osunews.tumblr.com/post/83610164656/taiko-world-cup-2014-last-man-standing
 date: 2014-04-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/83610164656/taiko-world-cup-2014-last-man-standing
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Community Mapping Contest #1 Voting Live"
-permalink: http://osunews.tumblr.com/post/153944715428/community-mapping-contest-1-voting-live
 date: 2016-12-02 12:36:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/153944715428/community-mapping-contest-1-voting-live
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Spring Fan Art Contest Voting Now Open"
-permalink: http://osunews.tumblr.com/post/159448419893/spring-fan-art-contest-voting-now-open
 date: 2017-04-11 10:33:08 +0000
 tumblr_url: http://osunews.tumblr.com/post/159448419893/spring-fan-art-contest-voting-now-open
 ---

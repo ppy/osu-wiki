@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Halloween Cometh"
-permalink: http://osunews.tumblr.com/post/152454785083/halloween-cometh
 date: 2016-10-29 06:34:02 +0000
 tumblr_url: http://osunews.tumblr.com/post/152454785083/halloween-cometh
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Restructuring: Ranking Procedure"
-permalink: http://osunews.tumblr.com/post/96193919888/restructuring-ranking-procedure
 date: 2014-08-30 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/96193919888/restructuring-ranking-procedure
 ---

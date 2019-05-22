@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup Results!"
-permalink: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-results
 date: 2016-09-10 21:28:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-results
 ---

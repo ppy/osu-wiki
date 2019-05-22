@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vote for the Official Fanart Contest #2 winners now!"
-permalink: http://osunews.tumblr.com/post/89407851858/vote-for-the-official-fanart-contest-2-winners
 date: 2014-06-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/89407851858/vote-for-the-official-fanart-contest-2-winners
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: sakuraburst"
-permalink: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakuraburst
 date: 2016-12-20 14:46:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakuraburst
 ---

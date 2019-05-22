@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Beatmap Spotlights: May 2017"
-permalink: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
 date: 2017-07-01 14:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
 ---

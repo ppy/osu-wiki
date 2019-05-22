@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Flash Fanart Contest #7: Halloween"
-permalink: http://osunews.tumblr.com/post/152021157083/flash-fanart-contest-7-halloween
 date: 2016-10-19 11:58:14 +0000
 tumblr_url: http://osunews.tumblr.com/post/152021157083/flash-fanart-contest-7-halloween
 ---
