@@ -1,6 +1,7 @@
+---
+outdated: true
+---
 osu!mania Ranking Criteria
-==================================
-=======
 ==========================
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
