@@ -171,7 +171,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 
 | Name | Additional Languages |
 | :-- | :-- |
-| [\[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
+| [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359) |  |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
 | [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
