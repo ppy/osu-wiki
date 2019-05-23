@@ -67,7 +67,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ## Participants
 
-![Photo of the event's attendees](img/people.png "Attendees of iDOL@NSTER after the tournament concluded")
+![Photo of the event's attendees](img/people.jpg "Attendees of iDOL@NSTER after the tournament concluded")
 
 ### osu!
 
