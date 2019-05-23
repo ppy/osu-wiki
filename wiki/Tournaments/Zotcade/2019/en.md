@@ -453,12 +453,25 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 
 ## Ruleset
 
-<!-- The "procedure" section says that higher roll bans first / picks second, but this was flipped during the event
-  -- Probably best to update this image since the rules refer to it and don't include the information presented
-  -->
-![iDOL@NSTER Bracket Format](img/format.png)
-
 Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offence. **These rules and regulations are subject to change during the event.**
+
+### Format
+
+#### Seeding (osu! only)
+
+1. Every player will play the entire Seeding mappool in display order.
+2. When the match concludes, each player will have their placements on each map added together to determine their seeding score (lower aggregate placement = higher seed).
+
+#### Playoffs
+
+Both tournaments will use a standard double-elimination format for playoffs.
+
+| Match length | Round (osu!) | Round (osu!mania) |
+| --: | :-- | :-- |
+| Best of 5 | Round of 16, Quarterfinals | Round 1 |
+| Best of 7 | Semifinals | Round 2 |
+| Best of 9 | Finals | Semifinals |
+| Best of 11 | Grand finals | Finals |
 
 ### Lobby and Matches
 
@@ -466,10 +479,10 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 2. Score V2 will be used as the win condition.
 3. Warmups will not be allowed.
 4. Low roll bans first; high roll picks first.
-5. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
-6. No-shows will be automatically considered forfeitures.
-7. Tournament participants must notify staff before leaving tournament premises.
-8. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers if you need clarification.
+5. The loser of each map will pick the next one.
+6. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
+7. No-shows will be automatically considered forfeitures.
+8. Tournament participants must notify staff before leaving tournament premises.
 
 ### Disconnection
 
