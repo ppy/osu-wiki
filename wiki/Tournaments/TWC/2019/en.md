@@ -47,7 +47,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://bit.ly/2Z92mAw)**
 
------------------------
+---
 
 ## Participants
 
@@ -86,40 +86,53 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | ![][flag_US] | **United States** | **[Ney](https://osu.ppy.sh/users/5991961)**, [\_cc](https://osu.ppy.sh/users/1656336), [cheese salad](https://osu.ppy.sh/users/6349821), [yea](https://osu.ppy.sh/users/6874332), [Loopy542](https://osu.ppy.sh/users/5468461) |
 | ![][flag_VE] | **Venezuela** | **[Te amo Kazu](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [My Angel Kazu](https://osu.ppy.sh/users/5136821), [Nutellitah](https://osu.ppy.sh/users/10613075) |
 
------------------------
+---
 
-![TWC 2019 Bracket](img/bracket_F.png)
+![TWC 2019 Bracket](img/bracket_GF.png)
 
------------------------
+---
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
-### Saturday, 18. May 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ² |
-| Canada | ![][flag_CA] | ![][flag_US] | United States | **21:00 UTC** | 17:00 UTC-04 | 17:00 UTC-04 | ² |
-
-### Sunday, 19. May 2019
+### Sunday, 26 May 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ³ |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 | ³ |
-| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ³ |
-| United States | ![][flag_US] | ![][flag_KR] | South Korea | **3:00 UTC** | 23:00 (Sat) UTC-04 | 12:00 UTC+09 | ³ |
-| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ¹ |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **6:00 UTC** | 14:00 UTC+08 | 15:00 UTC+09 | ¹ |
+| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **8:00 UTC** | 17:00 UTC+09 | 16:00 UTC+08 | ² |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **10:00 UTC** | 19:00 UTC+09 | 19:00 UTC+09 | ² |
 
-¹ Winner bracket encounter
+¹ 3rd place encounter  
+² Grand Finals encounter dependent on results of ¹3rd place encounter
 
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
-
------------------------
+---
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [kaitendaentai - Hizai ni Negu (maziari1105) \[Metaphysical\]](https://osu.ppy.sh/beatmapsets/653870#taiko/1386003)
+  - [Omnipotenx - PEACE BREAKER (PING) \[PING BREAKER\]](https://osu.ppy.sh/beatmapsets/462441#taiko/1696278)
+  - [Camellia - overcomplexification (Loctav) \[complex oni\]](https://osu.ppy.sh/beatmapsets/875224#taiko/1829066)
+  - [shio - Qronostasis (ll-oscar) \[ll-taiko Sp.\]](https://osu.ppy.sh/beatmapsets/399965#taiko/870443)
+  - [UNDEAD CORPORATION - Necrophilia (Ekoro) \[Sorcery Light\]](https://osu.ppy.sh/beatmapsets/730642#taiko/1541973)
+  - [Camellia feat. Nanahira - Konran shoujo Soflan-chan!! (katacheh) \[The.Wonder.Chaos\]](https://osu.ppy.sh/beatmapsets/972963#taiko/2036952)
+- Hidden
+  - [Cardboard Box - The Limit Does Not Exist (Grimbow) \[Limit Break\]](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158)
+  - [Spastic Ink - Words For Nerds (cut ver.) (Mew104) \[Overflow\]](https://osu.ppy.sh/beatmapsets/970838#taiko/2032919)
+- HardRock
+  - [tarolabo - Miko (Nyan) \[OD8\]](https://osu.ppy.sh/beatmapsets/973225#taiko/2037451)
+  - [AAAA vs Frums - beepbit futures (7\_7) \[Beepbit Collab\]](https://osu.ppy.sh/beatmapsets/754188#taiko/1587856)
+- DoubleTime
+  - [Camellia - JDM (Jungle Dance Music) (Nishizumi) \[Dancing Oni\]](https://osu.ppy.sh/beatmapsets/911589#taiko/1902900)
+  - [AAAA - Bokutachi no Tabi to Epilogue. \[Long ver.\] (Nifty) \[Sayonara.\]](https://osu.ppy.sh/beatmapsets/899895#taiko/1879692)
+- FreeMod
+  - [Shiraishi - Shinsekai (AngelHoney) \[Taiko\]](https://osu.ppy.sh/beatmapsets/24634#taiko/92643)
+  - [TAROLIN - Garagara Jungle Snake (applerss) \[Deep Jungle\]](https://osu.ppy.sh/beatmapsets/799480#taiko/1678578)
+  - [sasakure.UK - The illegaL QueeN (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmapsets/881484#taiko/1843044)
+- Tiebreaker
+  - **[Yuuyu - Howdy! and... Good-Die! (tasuke912) \[Grande Finale\]](https://osu.ppy.sh/beatmapsets/974134#taiko/2039122)**
 
 ### Finals
 
@@ -201,7 +214,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - [Snail's House - Balloons (KinomiCandy) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
   - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) (karterfreak) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
   - [Akhuta - Ludus In Tenebris (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
-  - [Helblinde - Grief & Malice (Rhytoly) \[Madoku & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
+  - [Helblinde - Grief & Malice (Rhytoly) \[Madoka & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
   - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
 - Hidden
   - [Project B- - Sarutobi Champion no Sessha (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1722197)
@@ -243,6 +256,18 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
   - **[Laur - Sound Chimera (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2019-05-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51892392) |
+| **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](	https://osu.ppy.sh/community/matches/51909730) |
+
+| Sunday, 2019-05-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51917485) |
+| **Japan** ![][flag_JP] | **7** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/51924396) |
 
 ### Semifinals
 
@@ -348,7 +373,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/51187961) |
 | Germany ![][flag_DE] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/51187986) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
