@@ -99,8 +99,8 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
 | Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **6:00 UTC** | 14:00 UTC+08 | 15:00 UTC+09 | ¹ |
-| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ² |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
+| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **8:00 UTC** | 17:00 UTC+09 | 16:00 UTC+08 | ² |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **10:00 UTC** | 19:00 UTC+09 | 19:00 UTC+09 | ² |
 
 ¹ 3rd place encounter  
 ² Grand Finals encounter dependent on results of ¹3rd place encounter
