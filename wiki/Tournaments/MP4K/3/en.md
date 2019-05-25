@@ -32,9 +32,9 @@ The minimum guaranteed prizes are:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 100 PLN, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 60 PLN |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 40 PLN |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 200 PLN, profile badge and 6 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 120 PLN and 4 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 80 PLN and 2 months of osu!supporter |
 
 ![MP4K 3 Badge](img/badge.png "MP4K 3 Winner Badge")
 
