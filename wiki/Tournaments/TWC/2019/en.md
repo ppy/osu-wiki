@@ -262,7 +262,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Saturday, 2019-05-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51892392) |
-| **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](	https://osu.ppy.sh/community/matches/51909730) |
+| **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/51909730) |
 
 | Sunday, 2019-05-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
