@@ -389,7 +389,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 #### Seeding
 
-All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ![][flag_US] Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a refereee).
+All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ![][flag_US] Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a referee).
 
 | Player | Aggregate placement |
 | :-- | :-- |
