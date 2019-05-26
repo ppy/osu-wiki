@@ -84,10 +84,10 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| Countdown: | Here you can set a countdown for your map. Newer maps and especially osu!mania usually don't use this, so it should be disabled. |
-| Widescreen Support: | This box should only be enabled when your map has a storyboard. |
-| Display epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dimmer. |
-| Letterboxing during Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break. Breaks are uncommon in osu!mania, so disable this point. |
+| Countdown: | Here you can set a countdown for your map. It is not recommended to enable it. |
+| Widescreen Support: | This box should only be enabled when your map has a widescreen storyboard. |
+| Display Epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dim. |
+| Letterboxing During Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break. |
 
 #### Advanced
 
