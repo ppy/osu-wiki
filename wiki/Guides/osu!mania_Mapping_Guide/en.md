@@ -73,7 +73,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| HP Drain Rate: | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7**<br>*Note: Only 50 or Misses will drain HP*|
+| HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7**<br>*Note: Only 50 or Misses will drain HP*|
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
 | Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
