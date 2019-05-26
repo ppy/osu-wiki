@@ -14,7 +14,7 @@ One advantage of osu!mania is the customizable number of playable columns and it
 
 ### What is the beatmap editor?
 
-The beatmap editor is the place where the map-making-magic happens! After all, maps do not appear out of nowhere (sadly). There are users that dedicate a lot of effort to creating what we get to play in osu! and you can become a mapper as well! Though everything inside the editor might appear confusing at first sight, it is much easier to use than one might think! Obviously, the editor handles all game modes, however, in this introduction, we will only focus on osu!mania. This mode has a very distinct appearance compared to the other mappable modes. Mostly, the area in which notes can be placed, is entirely different. It is rather compact, since all the other modes use the entire screen for object placement. Depending on the key count, the mappable area increases or decreases in size. This guide will revolve around 4-key-mapping. Below you can see a screenshot to show you the editor compartment in detail
+Depending on the key count, the mappable area increases or decreases in size. This guide will revolve around 4-key-mapping. Below you can see a screenshot to show you the editor compartment in detail
 
 #### osu!mania editor
 
