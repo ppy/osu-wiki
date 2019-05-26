@@ -157,7 +157,9 @@ The LN is the "Slider" in osu!mania. Using LNs are the best way to represent lon
 
 #### Chord
 
-Here we can see the Chord. The chords, who also can be called "doubles", "triples" or "quads" is used to emphasize strong sounds in your song like heavy drums or cymbals. In the screenshot I have used a two note chord but you can of course use more notes for it! If you are planning to rank your map, depending on the key-count you map in, you can use up to six notes! Anything more is against the Ranking Criteria.
+In the screenshot I have used a two note chord. Chords mean *more than 1 note*. "Doubles", "triples" or "quads" fall into that category. It is used to emphasize strong sounds in your song like heavy drums or cymbals.
+
+If you are planning to rank your map, you can use up to six notes! Anything more is against the Ranking Criteria.
 
 ![Chord](MT-Chord.jpg "Chord")
 
