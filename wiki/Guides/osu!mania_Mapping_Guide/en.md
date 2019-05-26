@@ -131,8 +131,10 @@ Should it be right, your song is finally timed!
 #### MixMeister BPM Analyzer
 I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://www.dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
-#### Multiple BPM
-A lot of songs don't have a constant BPM. For those, you need to add another BPM point. It works similar to the normal BPM. Go to the point where the BPM changes (This is the offset again because it's the first beat of the BPM!), press F6 to open the Timing panel. Now just add another timing point by clicking on the green "plus" and adjust it to the BPM change while listening to the metronome again, or you can press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
+#### Multiple BPMs
+A lot of songs don't have a constant BPM. For those, you need to add another BPM point on the point of change.
+
+Go to the point where the BPM changes, press F6 to open the Timing panel, add another timing point by clicking on the green "plus" and adjust it to the BPM change while listening to the metronome again. You can also press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
 
 #### Timing Setup Panel
 
