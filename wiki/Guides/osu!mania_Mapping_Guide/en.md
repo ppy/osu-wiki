@@ -183,7 +183,7 @@ Rolling is similar to Staircases. Usually rolls are delimited by a repeating pat
 
 #### Jackhammer
 
-Here we can see the Jackhammer or just Jack. It is recommended to use jacks for two sounds that sound exactly the same. Should you use jacks randomly you will very quickly notice that it doesn't play well. As an example you can use the jack very well for dubstep sounds or for similar drum-sounds. But be careful, do not over-use it! When you use too many jacks at once it often plays too hard.
+Also known as a **Jack**. It is recommended to use jacks for two sounds that sound exactly the same. Jacks can scale in difficulty quickly when overused. It is recommended to avoid too much of these unless you're certain.
 
 ![Jackhammer](MT-Jackhammer.jpg "Jackhammer")
 
