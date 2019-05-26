@@ -95,8 +95,8 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| Stacking: | This Point has no effect for osu!mania so no need to change anything here. |
-| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course.Should you choose "All", your editor will be set to osu! Standard, then your map will be automatically converted into any other game mode. |
+| Stacking: | This point has no effect for osu!mania so no need to change anything here. |
+| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.<br> **Changing this option while in an existing osu!mania map will overwrite the map.** |
 | Use special Style (N+1 style) for osu!mania: | If you map in a keymode which can use a special key (5K and 8K) you can enable this point. It is known from "BMS" as "Scratch". It's a special extra key, especially used in 8K osu!mania. You can map the song like a normal 7K map, but you will have (depending on the skin settings the player uses), an extra key for scratching on the left or right of the playfield. |
 
 The point **Colours** is not used in osu!mania so we don't need to change anything there.
