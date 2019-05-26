@@ -104,15 +104,19 @@ The point **Colours** is not used in osu!mania so we don't need to change anythi
 The point **Audio** will be explained in the part "Hitsounds"
 
 ### Timing
-
 Once we finished our song setup we need to time our song. The timing set must be accurate to the song's beat, else it'll be hard to map accurately.
 
 #### Finding the BPM
 First you need to listen closely to your song to get a feeling of the rhythm. Once you think you can hear the rhythm, start pressing "T" to the beat until the editor displays a value. You can tap longer to get a more accurate BPM, but most songs have integer BPM values, that is, they don't have decimals.
 
+There should be a ticking sound indicating the BPM set, if it's not present, check if your **Effects** volume high enough.
 
-#### Finding the Offset
+#### Verifying the BPM
+Usually, the initial BPM found will be slightly off, you will need to verify the BPM is correct.
 
+For inaccurate BPM values, the ticking will sway, it gets more prominent the further away you get from the **red line** in the timeline (at the bottom of the editor). This is a telltale sign that your BPM is inaccurate. Try adjusting it by +1 or -1.
+
+If all else fails, you can ask for help in the `#osu` or `#osumania` channel.
 
 The offset is the first beat of your current BPM. That's all! Go to the point of your song where you can hear the first beat, press F6 again, choose your timing point and press "Use current time". Now the timing point should be on the current offset, the first beat! Now you need to check whether or not the BPM is really correct. Press F3 and play the song. Watch the beats and check if they're on the white lines you can see above the Timing line. Should it be wrong, you can adjust it by increasing or decreasing the BPM. Listen closely to the metronome and adjust it until the beats are on the same tact as the metronome! Should it be right, your song is finally timed!
 
