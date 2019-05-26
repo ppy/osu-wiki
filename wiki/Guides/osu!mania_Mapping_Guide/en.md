@@ -73,8 +73,8 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| HP Drain Rate: | A higher value means a more punishing drain and a lower recovery, vice versa.<br>*Note: Only 50 or Misses will drain HP*|
-| Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. You want to have more? Go for it! Just select the amount of keys you want to map and start! You have the free choice! 4K and 7K are the most popular key modes. Important: Not every key count is rankable! Currently only 4K, 5K, 6K, 7K 8K and 9K are able to reach the ranked status! The checkbox "Co-Op" can be selected when you choose 5K and above. This allows you to map more than 10 Keys! As an example: When you choose 6K Co-Op, you will map in 12K. While playing that, there will be two osu!mania stages, both with 6K each. This allows you to play with a friend on one keyboard! |
+| HP Drain Rate: | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7**<br>*Note: Only 50 or Misses will drain HP*|
+| Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
 | Overall Difficulty: | Overall Difficulty orOD changes the judgement of how accurate you have to hit a note to get a 300, take note that the hit error range of MAX doesn't change with OD, instead only with HR and EZ mod. A detailed table can be found here; hereAlso: Should your map have a lot of Long Notes you should set it to a lower OD, if you have more single notes than long notes it is recommended that you set it to a higher OD. |
 
