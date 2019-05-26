@@ -28,6 +28,8 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
+*Shortcut:* `W, E, R, Ctrl + (W, E, R), Shift + (W, E, R)`
+
 **6. Lock Notes**: If Lock Notes is activated you can't move any notes, which is useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
 
 **7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
