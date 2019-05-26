@@ -171,7 +171,7 @@ Bursts are quick bursts of notes. They are not necessarily 1/4, but is defined b
 
 #### Staircases
 
-Here we can see the Staircases. The staircase is mostly used for fast sounds. It is recommended that you should map staircase streams conservatively as it gets very hard to execute after a certain bpm threshold for players, this is mainly due to the jacks formed on columns 2 and 3.
+The staircase is mostly used for fast sounds. Note that some stairs get very hard to execute after a certain BPM, this is mainly due to the jacks formed on columns 2 and 3.
 
 ![Staircases](MT-Stream.jpg "Staircases")
 
