@@ -201,7 +201,7 @@ The chord jack is a combination of the jackhammer and the chord. The way to use 
 
 #### Trill
 
-Here we can see the Trill. The trill is used for two really fast changing sounds in your song. In the screenshot we see the one handed trill but that is not the only way to map it. You can also use both hands for it, as an example you can use columns 1 and 3 instead
+The trill is used for two really fast changing sounds in your song. In the screenshot we see the one handed trill, however you can also use columns 1 and 3 instead for a two handed trill.
 
 ![Trill](MT-Trill.jpg "Trill")
 
