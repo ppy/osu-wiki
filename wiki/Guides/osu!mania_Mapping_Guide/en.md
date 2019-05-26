@@ -107,13 +107,14 @@ The point **Audio** will be explained in the part "Hitsounds"
 
 Once we finished our song setup we need to time our song. The timing set must be accurate to the song's beat, else it'll be hard to map accurately.
 
-#### How to start?
-First you need to listen closely to your song to get a feeling of the rhythm. Once you think you can hear the rhythm, just start pressing "T" to the beat! Follow the instructions on the screen until the editor displays a value. You can tap longer to get a more accurate BPM, but most songs have integer BPM values, that is, they don't have decimals.
+#### Finding the BPM
+First you need to listen closely to your song to get a feeling of the rhythm. Once you think you can hear the rhythm, start pressing "T" to the beat until the editor displays a value. You can tap longer to get a more accurate BPM, but most songs have integer BPM values, that is, they don't have decimals.
 
-Once you have the BPM set, you need to set the offset.  
 
-#### The offset is the first beat of your current BPM
-That's all! Go to the point of your song where you can hear the first beat, press F6 again, choose your timing point and press "Use current time". Now the timing point should be on the current offset, the first beat! Now you need to check whether or not the BPM is really correct. Press F3 and play the song. Watch the beats and check if they're on the white lines you can see above the Timing line. Should it be wrong, you can adjust it by increasing or decreasing the BPM. Listen closely to the metronome and adjust it until the beats are on the same tact as the metronome! Should it be right, your song is finally timed!
+#### Finding the Offset
+
+
+The offset is the first beat of your current BPM. That's all! Go to the point of your song where you can hear the first beat, press F6 again, choose your timing point and press "Use current time". Now the timing point should be on the current offset, the first beat! Now you need to check whether or not the BPM is really correct. Press F3 and play the song. Watch the beats and check if they're on the white lines you can see above the Timing line. Should it be wrong, you can adjust it by increasing or decreasing the BPM. Listen closely to the metronome and adjust it until the beats are on the same tact as the metronome! Should it be right, your song is finally timed!
 
 I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://www.dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
