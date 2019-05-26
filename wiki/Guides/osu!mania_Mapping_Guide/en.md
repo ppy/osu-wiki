@@ -18,7 +18,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 #### osu!mania editor
 
-**1. Mapping Area**: This is where you place your objects. It is divided into different columns, | 0 | 1 | 2 | 3 | in this case. These are the numbers the editor works with, though many people prefer to use | 1 | 2 | 3 | 4 | because it's a more intuitive way of counting, when modding. This is not relevant for now, though.  
+**1. Mapping Area**: This is where you place your objects.
 
 **2. Density Graph**: What you can observe over here is the density of individual parts in the map. The more notes that are contained in a given timeframe in the song, the longer the bar inside this graph will become. If a part has reached its biggest considerable density, the bar for said section will turn pink and it will range from the left to right rim of the line. Make sure this does not occur too often, as less than 30-40% of the map should contain pink bars! To emphasize the magnitude of pink bars on the star rating (SR): This maps SR is 4.1.
 
