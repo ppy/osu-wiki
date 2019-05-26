@@ -165,7 +165,7 @@ If you are planning to rank your map, you can use up to six notes! Anything more
 
 #### Burst
 
-Here we can see the Burst. Bursts are what they sound like - quick bursts of notes. It's not necessarily 1/4, but usually is defined by something that is much faster than the normal density of notes in the song for a very short period of time
+Bursts are quick bursts of notes. They are not necessarily 1/4, but is defined by a sudden increase in density for a short period of time.
 
 ![Burst](MT-Burst.jpg "Burst")
 
