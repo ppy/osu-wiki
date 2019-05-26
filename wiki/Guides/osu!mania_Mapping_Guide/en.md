@@ -221,7 +221,7 @@ There a lot of different ways to map jumpstreams. In the screenshot we can see a
 
 ![Jumpstream](MT-Jumpstream.jpg "Jumpstream")
 
-Okay! These are some of the different patterns you can use in your song! There's still many more configurations of patterns not covered in this guide however. A lot of them can be really good combined. Try to experiment these patterns in your song and I'm sure you can find a good mix of them for your song!
+Okay! These are some of the different patterns you can use in your song! However, there are still many more configurations of patterns not covered in this guide. Many combinations work well together. Try to experiment these patterns in your song and I'm sure you can find a good mix of them for your song!
 
 ### Mapping
 
