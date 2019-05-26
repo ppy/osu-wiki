@@ -40,7 +40,7 @@ Specifics on what snaps should be used for ranking are detailed in the [osu!mani
 
 *Shortcut:* `Ctrl + MouseScrollWheel`
 
-**8. Sample Set & Additions**: Sample Sets allow you to add even more hitsounds than shown in point 5. As an example, the drum-finish sounds different than the normal-finish. Using this, you can give your song a even larger variety of hitsounds!     
+**8. Sample Set & Additions**: Sample Sets and Additions allow you to add even more hitsounds than shown in point 5. As an example, you can layer a drum-finish sound over the normal-finish. Using this, you can give your song a even larger variety of hitsounds!
 
 *Shortcut:* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
