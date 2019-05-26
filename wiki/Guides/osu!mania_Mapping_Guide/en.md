@@ -105,7 +105,7 @@ The point **Audio** will be explained in the part "Hitsounds"
 
 ### Timing
 
-Once we finished our song setup we need to time our song. The timing of a song sounds really complicated at first and if this is your first map, you might have problems with it but you can always ask the community whether or not someone can help you with the timing! Once you have timed a few songs you will get used to it! So don't worry!t!
+Once we finished our song setup we need to time our song. The timing set must be accurate to the song's beat, else it'll be hard to map accurately.
 
 **How to start?** First you need to listen closely to your song to get a feeling of the Main Beat. Once you think you can hear the main beat, just start to press "T" to the beat! Follow the instructions on the screen until the editor finally has the beat. You can tap longer to get a more accurate BPM, but the most important thing is to get the "basic" BPM or at least get near to the actual BPM of the song. It is also handy to take note that most BPMs are integers. Once you have a timing point set, you need to set the accurate offset. Many inexperienced mappers don't really know what the offset actually is, even though it is quite simple:
 
