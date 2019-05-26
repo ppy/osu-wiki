@@ -65,7 +65,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
 | Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#beatmapset)<br>You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". <br>If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY". <br>For custom names, refer to the ranking criteria linked above. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
-| Tags: | You can add additional information about your song here. Album for example, or producer. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well. |
+| Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.<br> Tags are separated by spaces.|
 
 #### Difficulty
 
