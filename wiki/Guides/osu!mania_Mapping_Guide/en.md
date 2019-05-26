@@ -195,7 +195,7 @@ The shield can be recognized by the fact that its always note right before or af
 
 #### Chordjack
 
-Here we can see the Chord Jack or or Double/Jumpjack. The chord jack is a combination of the jackhammer and the chord. The way to use it is the same as for the jackhammer. For same sounds, just that you use these as chords for heavier sounds.
+The chord jack is a combination of the jackhammer and the chord. The way to use it is the same as for the jackhammer. For same sounds, just that you use these as chords for heavier sounds.
 
 ![Chordjack](MT-Chordjack.jpg "Chordjack")
 
