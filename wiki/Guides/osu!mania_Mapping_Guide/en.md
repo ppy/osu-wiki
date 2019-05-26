@@ -10,7 +10,7 @@ Prologue
 
 osu!mania is one of the four game modes. osu!mania falls under the genre **Vertical Scrolling Rhythm Game** (VSRG). As the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX".
 
-The advantage of osu!mania lies in the fully customizable scroll speed (the speed of the notes falling) as well as the dynamic number of columns the notes fall down in.
+One advantage of osu!mania is the customizable number of playable columns and its simple to use beatmap editor.
 
 ### What is the beatmap editor?
 
