@@ -20,7 +20,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **1. Mapping Area**: This is where you place your objects.
 
-**2. Density Graph**: What you can observe over here is the density of individual parts in the map. The more notes that are contained in a given timeframe in the song, the longer the bar inside this graph will become. If a part has reached its biggest considerable density, the bar for said section will turn pink and it will range from the left to right rim of the line. Make sure this does not occur too often, as less than 30-40% of the map should contain pink bars! To emphasize the magnitude of pink bars on the star rating (SR): This maps SR is 4.1.
+**2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
 
 **3 & 4. Notes and Hold**: We use these panels to place objects on the mapping area. The cursor will change to a cross and hovering over the mapping area will show a rectangle, which turns out to be our note. While note placement happens if we click the desired column, we have to drag the cursor for a long note (or: LN) from line to line in order to expand the initial note into a LN. Later on, you are going to learn how LNs can be used effectively!
 
