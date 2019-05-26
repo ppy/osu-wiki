@@ -189,7 +189,7 @@ Also known as a **Jack**. It is recommended to use jacks for two sounds that sou
 
 #### Shield
 
-Here we can see a Shield. The shield can be recognized by the fact that its always note right before or after a LN.
+The shield can be recognized by the fact that its always note right before or after a LN.
 
 ![Shield](MT-Shield.jpg "Shield")
 
