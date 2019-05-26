@@ -24,7 +24,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **3 & 4. Notes and Hold**: These options can be toggled by clicking or via the keybindings *'2'* and *'3'* respectively. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
 
-**5. Hitsounds**: Objects have assigned sounds, and here's where we assign them! Hitsounds have their own section in this introduction, so there will be more later on!
+**5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
 **6. Lock Notes**: The Lock Notes button is a really useful feature which many mappers don't use. If Lock Notes is activated you can't move your notes any longer, which is really useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
 
