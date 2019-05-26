@@ -207,7 +207,7 @@ The trill is used for two really fast changing sounds in your song. In the scree
 
 #### Chordtrill
 
-Here we can see the Chord Trill or Double/Jumptrill. The chord trill can raise the difficulty of your map really fast so do not overdo it! The chord trill should never be mapped above 1/4. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. Like the trill this is not the only way to map it.
+The chord trill can raise the difficulty of your map quickly. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. A simpler alternative would be using `12` and `34` chord trills instead.
 
 ![Chordtrill](MT-Chordtrill.jpg "Chordtrill")
 
