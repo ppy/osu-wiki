@@ -151,7 +151,7 @@ Once you finally have the right timings in your map it's time to start mapping. 
 
 #### Long Note
 
-Here we can see a Long Note or just LN. A long note is the "Slider" in osu!mania. Using LNs are the best way to map long sounds in your song. There are lot of ways to use a LN which I will explain in another part of this guide.
+The LN is the "Slider" in osu!mania. Using LNs are the best way to represent long sounds in your song. There are lot of ways to use a LN which I will explain in another part of this guide.
 
 ![Long Note](MT-Long_Note.jpg "Long Note")
 
