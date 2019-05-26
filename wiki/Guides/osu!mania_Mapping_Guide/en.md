@@ -51,7 +51,7 @@ Basics
 
 ### Song Setup
 
-Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new map will be created automatically. The map will have no name until we open it once with the editor. Whenever you open your map for the first time in the editor, the song setup will open automatically!
+Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new map will be created automatically. Whenever you create a map for the first time in the editor, the song setup will open automatically.
 
 #### General
 
