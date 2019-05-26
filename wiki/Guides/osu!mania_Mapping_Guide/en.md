@@ -28,7 +28,9 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **6. Lock Notes**: If Lock Notes is activated you can't move any notes, which is useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
 
-**7. Beat Snap Divisor**: A very important tool, especially in osu!mania. Here, you can select in which beat snap you want to map. The default setting is always ¼ and this is the one you should normally use. However in osu!mania you can use the 1/6 or even 1/8 beat snap much more often than in other game modes. Especially piano is often really hard to snap right and there we can use up to 1/16! It is important to always snap all notes right. However, if you want to get your map ranked, only map what you hear! Add 1/3, 1/4, 1/6 rhythms only when the song calls for it! Adding 1/6 bursts when the song does not call for it is unrankable.
+**7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
+
+Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania).
 
 **8. Sample Set**: Sample Sets allow you to add even more hitsounds than shown in point 5. As an example, the drum-finish sounds different than the normal-finish. Using this, you can give your song a even larger variety of hitsounds!         
 
