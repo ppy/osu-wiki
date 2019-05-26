@@ -14,7 +14,7 @@ One advantage of osu!mania is the customizable number of playable columns and it
 
 ### What is the beatmap editor?
 
-As stated, the editor allows a customizable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot to show you the editor compartment in detail
+As stated, the editor allows a customizable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot that details the editor compartments.
 
 #### osu!mania editor
 
