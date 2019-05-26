@@ -213,7 +213,11 @@ The chord trill can raise the difficulty of your map quickly. Like the trill, th
 
 #### Jumpstream
 
-Here we can see the Jumpstream. The jumpstream is often the most complicated pattern to play for a player because it's a mix between normal notes and chords that change hands really fast. The jumpstream should only be mapped when it really fits to your song. As an example; loud melody between more quiet sounds. Drums between hi-hat etc. There a lot of different ways to map jumpstreams. In the screenshot we can see a really safe way to map it because there no 1/2 beat triple jacks in it. But of course you don't have to map it that way!
+**Jump** is a 2-note chord, hence jumpstream is a 2-note chord stream.
+
+A jumpstream can be used to layer strong sounds between a constant 1-note stream, using a 2-note chord whenever feasible.
+
+There a lot of different ways to map jumpstreams. In the screenshot we can see a really safe way to map it because there no 1/2 triple jacks in it.
 
 ![Jumpstream](MT-Jumpstream.jpg "Jumpstream")
 
