@@ -22,7 +22,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
 
-**3 & 4. Notes and Hold**: These options can be toggled by clicking or via the keybindings *'2'* and *'3'* respectively. We use these panels to place objects on the mapping area. The cursor will change to a cross and hovering over the mapping area will show a rectangle, which turns out to be our note. While note placement happens if we click the desired column, we have to drag the cursor for a long note (or: LN) from line to line in order to expand the initial note into a LN. Later on, you are going to learn how LNs can be used effectively!
+**3 & 4. Notes and Hold**: These options can be toggled by clicking or via the keybindings *'2'* and *'3'* respectively. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
 
 **5. Hitsounds**: Objects have assigned sounds, and here's where we assign them! Hitsounds have their own section in this introduction, so there will be more later on!
 
