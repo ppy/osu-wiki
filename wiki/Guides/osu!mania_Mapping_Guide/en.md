@@ -177,7 +177,7 @@ The staircase is mostly used for fast sounds. Note that some stairs get very har
 
 #### Roll
 
-Here we can see the Roll or Stair. Usually rolls are delimited by a repeating pattern of 4 or more notes, but more generally, it's notes going in a certain direction. A 1234 is a roll and a 1324 is a split roll.
+Rolling is similar to Staircases. Usually rolls are delimited by a repeating pattern of 4 or more notes, but more generally, it's notes going in a certain direction. A 1234 is a roll and a 1324 is a split roll.
 
 ![Stair](MT-Stair.jpg "Stair")
 
