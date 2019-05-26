@@ -32,6 +32,8 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania).
 
+*Shortcut:* `Ctrl + MouseScrollWheel`
+
 **8. Sample Set**: Sample Sets allow you to add even more hitsounds than shown in point 5. As an example, the drum-finish sounds different than the normal-finish. Using this, you can give your song a even larger variety of hitsounds!         
 
 ![Mania Editor](Mania_Editor.jpg "Mania Editor")
