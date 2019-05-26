@@ -22,7 +22,9 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
 
-**3 & 4. Notes and Hold**: These options can be toggled by clicking or via the keybindings *'2'* and *'3'* respectively. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
+**3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
+
+*Shortcut:* `2, 3` 
 
 **5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
