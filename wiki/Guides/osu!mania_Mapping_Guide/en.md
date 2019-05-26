@@ -124,13 +124,11 @@ For inaccurate BPM values, the ticking will *sway* it gets **more prominent** th
 If all else fails, you can ask for help in the `#osu` or `#osumania` channel.
 
 #### Finding the First Offset
-
 The first offset is the first beat of your current BPM. Go to the point of your song where you can hear the first beat, press F6, click on the timing point and press "Use current time". Now the timing point should be on the current offset, the first beat.
 
 Should it be right, your song is finally timed!
 
-
-
+#### MixMeister BPM Analyzer
 I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://www.dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
 #### Multiple BPM
