@@ -147,7 +147,7 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 
 ### Pattern
 
-Once you finally have the right timings in your map it's time to start with the mapping! But how exactly do you start? In this part of the guide I would like to show you different kinds of patterns you can use to map your song. It might be that some pattern looks really confusing for new mappers, but once you get used to it and you know how the patterns are actually called and when to use them i'm pretty sure you will learn them really fast! I will add a screenshot for each and every pattern with a short description for what they are and when you should use them.
+Once you finally have the right timings in your map it's time to start mapping. Patterns are like building blocks to the map, it is essential to know their names and their purposes. I will add a screenshot for each and every pattern with a short description for what they are and when you should use them.
 
 #### Long Note
 
