@@ -46,10 +46,6 @@ Specifics on what snaps should be used for ranking are detailed in the [osu!mani
 
 ![Mania Editor](Mania_Editor.jpg "Mania Editor")
 
-### Alright! I want to Map!
-
-Now we know how to place notes in the editor. Should something still be unclear; read it again! You have all time in the world! If you have understood everything we can directly jump to point 2, the basics! This is where I will explain the song setup and how to time your beatmap!
-
 Basics
 -------
 
