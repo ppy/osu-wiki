@@ -18,7 +18,7 @@ function rule_1_boundaryWhitesapce(content, log) {
         content = content + '\n';
     } else if (trailingWhitespaceMatch[0] !== '\n') {
         log(lineAtIndex(original, trailingWhitespaceMatch.index), 'Whitespace at end of file');
-        content = content.substring(0, trailingWhitespaceMatch.index) + '\n';
+        content = content.substring(0, content.lastIndexOf(trailingWhitespaceMatch[0])) + '\n';
     }
 
     return content;
