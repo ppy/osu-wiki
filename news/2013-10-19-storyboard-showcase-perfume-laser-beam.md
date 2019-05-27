@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Storyboard Showcase: Perfume - Laser Beam"
-permalink: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfume-laser-beam
 date: 2014-10-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfume-laser-beam
 ---
+
 Apologies for the delay, but better late than never, right? Our second storyboard showcase features a beatmap that has been ranked just recently.
 
 **[Perfume - Laser Beam](https://osu.ppy.sh/beatmapsets/106568) by [Raging Bull](https://osu.ppy.sh/users/398760)**  

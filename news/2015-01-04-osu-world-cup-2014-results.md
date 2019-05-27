@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! World Cup 2014 - Results"
-permalink: http://osunews.tumblr.com/post/107084870238/osu-world-cup-2014-results
 date: 2015-01-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107084870238/osu-world-cup-2014-results
 ---
+
 The osu! World Cup 2014 ended in the middle of December and we proudly want to remember everyone on the winners our official osu! team tournament again and congratulate them for their outstanding performances.
 
 ![](/wiki/shared/news/2015-01-04-osu-world-cup-2014-results/OWC-podium.jpg)

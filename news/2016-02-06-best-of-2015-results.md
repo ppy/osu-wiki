@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of 2015: Results"
-permalink: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 date: 2016-02-06 08:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
 ---
+
 The osu! community never ceases to break new ground in polling turnouts! Per tradition, we asked you guys what YOU thought were the greatest maps of 2015. 44,653 players from around the world responded to the call, casting a record-breaking 401,028 votes on what they thought stood out above all others in the maps ranked in 2015. No amount of words I can fit in this opening paragraph can express our gratitude to everyone who participated!
 
 **After hearing your feedback from the best of 2014 voting, we have seperated voting by game modes!** This allowed more accurate and representitive results for all the modes in the game. As usual, players were limited to voting for songs they have actually played, so everyone has to know what they are voting for before throwing in the ballot.
@@ -14,7 +14,6 @@ The osu! community never ceases to break new ground in polling turnouts! Per tra
 **The votes are modelled as maps playing a series of head-to-head matches against each other.** Maps you voted for count as a "win" against maps that you could have voted for but didn't. From there, all maps that the user voted for "tie" with each other in weighting, and all of the "losing" maps tie with each other. This model is then resolved using **[maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood)** to find the final rankings that have the highest probability of being correct.
 
 The result of this system is that (a) maps with higher play counts do not have an unfair advantage and (b) votes are considered in the context of the other maps that user has played.
-
 
 <!-- Save for Web Slices (Best Beatmaps 2015.psd) -->
 <table id="Table_01" width="752" height="800" border="0" cellpadding="0" cellspacing="0">

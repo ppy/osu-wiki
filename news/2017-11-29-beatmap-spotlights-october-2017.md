@@ -19,7 +19,6 @@ Congratulations to the winners of the September 2017 Spotlights. They will recei
 + **osu!catch:** [Motion](https://osu.ppy.sh/users/3885626)
 + **osu!mania:** [Lindyes](https://osu.ppy.sh/users/7462804)
 
-
 ## osu!
 
 [![](/wiki/shared/news/2017-11-29-beatmap-spotlights-october-2017/like-a-man.jpg)](https://osu.ppy.sh/beatmapsets/666566)
@@ -113,6 +112,5 @@ Kim is actually a pretty known mapper in the pending section with his popular 7K
 --------
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out from these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
-
 
 —OnosakiHito

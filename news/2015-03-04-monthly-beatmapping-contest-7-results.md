@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #7: Results"
-permalink: http://osunews.tumblr.com/post/112654662093/monthly-beatmapping-contest-7-results
 date: 2015-03-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/112654662093/monthly-beatmapping-contest-7-results
 ---
+
 The wait is finally over! The winners of our first multi-mode Monthly Beatmapping Contest have been decided, and what a contest it was. Four different modes, four unique winners, and one amazing beatmap at the end of it all, bundled exclusively with the game client forever more! See the results here.
 
 Several months ago, we held our first multi-mode version of the Monthly Beatmapping Contest for all to participate in. Several issues stemming from the sheer size of the contest along the way postponed the judging process somewhat, but we've finally managed to incorporate the work of _four unique winners_ into a glorious multi-mode mapset for everyone to enjoy. This beatmap is also bundled with the game client forever more, and celebrates the first concerted effort to produce a multi-mode mapset that can actually be distributed with the game. Congratulations to everyone involved!

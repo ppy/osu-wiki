@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Important pp (Performance Point) changes"
-permalink: http://osunews.tumblr.com/post/63062174098/important-pp-performance-point-changes
 date: 2014-10-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63062174098/important-pp-performance-point-changes
 ---
+
 In preparation for a new implementation of the ranking system (known to many as ppv2), I am cleaning things up. The first part of this is to hide players which have been inactive for over a month.
 
 If you notice your pp score missing, please make sure to play at least once a month to keep it visible.

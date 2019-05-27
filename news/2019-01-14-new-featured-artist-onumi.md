@@ -24,7 +24,6 @@ Check out a quick sample of a few below, or [head on over to her listing now to 
     <source src="https://assets.ppy.sh/artists/32/previews/804.mp3" type="audio/mpeg">
 </audio>
 
-
 ### CONFUSION PART ONE
 
 <audio controls>

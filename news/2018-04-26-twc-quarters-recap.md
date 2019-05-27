@@ -12,7 +12,6 @@ The osu!taiko World Cup 2018 is well underway as the best of the best face off a
 
 Because of so many Group Stage matches being blowouts, **I'll focus heavily on a select few matches**, including upsets that caused crucial changes to the elimination bracket.
 
-
 ### Group Stage Matches
 
 The Group Stage started off with Australia setting the tone for the weekend. In spite of Finland putting up a valiant fight and winning a point, **they were beaten convincingly just like the other low seeded teams would be.**
@@ -21,13 +20,10 @@ After a few more matches, United Kingdom came out swinging against France. In fa
 
 The nocturnal matches (UTC time) both resulted in upsets. **Chile and South Korea showed a dominant performance against the top seeds Australia and Brazil respectively**, only losing 1 map each. Going into the Round Of 16, this put Chile and South Korea in even, winnable matchups while Australia and Brazil had tough teams ahead: Taiwan and USA.
 
-
 The third and final upset of the weekend, Spain versus Indonesia, was a real thriller. After trading close points with each other for 6 maps, the two teams ended up on tiebreaker where **Spain clutched out the victory.**
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/spain-indo-tiebreaker.jpg)
 
-
 For the Round Of 16, this meant that Indonesia would face their fellow top seed France while Spain faced the United Kingdom. Both of those were rematches from last year where France and Spain came out on top, so revenge-driven performances from Indonesia and United Kingdom were to be expected.
-
 
 ### Group Stage Mappool
 
@@ -38,7 +34,6 @@ The rejection of accuracy maps in this stage was made even more apparent by the 
 A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of the map selectors:
 
 *In Group Stage picks and bans mostly went as expected. We were surprised by the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.*
-
 
 ### Round Of 16 Matches
 
@@ -60,11 +55,9 @@ Hong Kong missing one of their three players put them in a tough spot against Ch
 The last match of the day was also arguably the most even one, United Kingdom vs Spain. This one could have been significantly closer, but with the small score differences all going the way of Spain, they clinched the match 5-1. However, United Kingdom still proved themselves as a dedicated team on the memorization map [Black Hole - Pluto](https://osu.ppy.sh/beatmapsets/599679/#taiko/1599257):
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/pluto-uk-fcs.jpg)
 
-
 ### Round Of 16 Mappool
 
 **The picks in Round Of 16 were evenly spread out, more so than in the Group Stage anyway.** Across 7 matches, every map was played at least once except for tiebreaker. Teams kept it simple by banning out technical maps a lot, such as [onoken - Viden](https://osu.ppy.sh/beatmapsets/708312/#taiko/1497491) (Hidden) and [Virt - Staring at my Spaceship](https://osu.ppy.sh/beatmapsets/57145/#taiko/766477) (HardRock).
-
 
 ### Quarterfinals Matches
 
@@ -88,7 +81,6 @@ The anticipated Japanese team was streamed for the first time in their match aga
 
 The last match of this stage was Taiwan versus Canada is the winners bracket. There is some rivalry to this matchup, as Canada fell short on the tiebreaker against Taiwan back in the 2016 Finals stage. This time Taiwan had a much easier time, clinching the game with a 5-0 sweep. If Canada wants the silver medal this year, the mountain they have to climb to obtain it is even steeper than previous years.
 
-
 ### Quarterfinals Mappool
 
 In the Quarterfinals we saw every map get played atleast twice except for the tiebreaker and [U-F SEQUENCER - EupHolic](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103) (FreeMod) which didn't get picked at all. This map was also the most targeted ban along with [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247) (Hidden). Some thoughts from one of the map selectors, [mangomizer](https://osu.ppy.sh/users/1893718), regarding the Quarterfinals mappool:
@@ -97,11 +89,9 @@ In the Quarterfinals we saw every map get played atleast twice except for the ti
 
 *It's slightly disappointing to have a tiebreaker drought for the second week in a row, though at the very least every other map received some attention. Player feedback and comments have been extremely helpful, and we look forward to putting that to good use in shaping the future pools!"*
 
-
 ### Semifinals Preview
 
 The tiebreaker drought is indeed real, but these upcoming matches are looking likely to break that trend. In the winners bracket, mid-seeded South Korea will challenge Japan while Taiwan and United States play a rematch from last year. In the losers bracket, we'll be seeing another rematch from last year between Australia and Chile, along with Canada versus Hong Kong, Brazil versus Indonesia and a European brawl between Spain and Poland. Finally, two more matches that are dependant on the other losers bracket results will take place. To learn more, you can find the schedule, bracket and other info on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/).
-
 
 ### Useful Links
 

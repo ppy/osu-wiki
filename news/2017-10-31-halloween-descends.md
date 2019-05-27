@@ -87,7 +87,6 @@ See the whole process in action:
 </video>
 </center>
 
-
 You can also click on any one of your friends on a shared server who is currently playing osu!, and see what they're up to, as well as ask to join - if they're playing multiplayer.
 
 ![](/wiki/shared/news/2017-10-31-halloween-descends/user-display.png)

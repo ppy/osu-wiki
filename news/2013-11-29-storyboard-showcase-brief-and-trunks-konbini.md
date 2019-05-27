@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Storyboard Showcase: Brief and Trunks - Konbini"
-permalink: http://osunews.tumblr.com/post/68451876624/storyboard-showcase-brief-and-trunks-konbini
 date: 2014-11-29 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/68451876624/storyboard-showcase-brief-and-trunks-konbini
 ---
+
 Maps don't have to be ranked in order to be high-quality. Today, we're looking at a graveyarded map with one of the greatest storyboards of all time.
 
 **[Brief and Trunks - Konbini](https://osu.ppy.sh/beatmapsets/31084)**  

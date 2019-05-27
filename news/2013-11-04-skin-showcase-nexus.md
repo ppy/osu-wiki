@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skin Showcase: Nexus"
-permalink: http://osunews.tumblr.com/post/66039602799/skin-showcase-nexus
 date: 2014-11-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/66039602799/skin-showcase-nexus
 ---
+
 Hello there, and welcome to the first skin showcase. The idea behind this showcase is to share some well made skins that deserve to be recognized. I'll post a few facts about each skin as well as a video showing off key parts of the skin.
 
 The first skin we're showing is one of the most well known skins of all, and that is the Nexus skin created by Xiao. The Nexus skin was first unveiled in June 2011, and has over 13,000 downloads!

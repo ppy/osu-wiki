@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "September 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
 date: 2015-10-20 19:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
 ---
-With some delay, the Ranking Charts for September 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1509)!
-This month [Secretpipe](https://osu.ppy.sh/users/2208964), [Nwolf](https://osu.ppy.sh/users/1910766), [Krah](https://osu.ppy.sh/users/1436748) and [-Kamikaze-](https://osu.ppy.sh/users/2124783) picked the maps for the Monthly Ranking Charts.
 
+With some delay, the Ranking Charts for September 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1509)!
+
+This month [Secretpipe](https://osu.ppy.sh/users/2208964), [Nwolf](https://osu.ppy.sh/users/1910766), [Krah](https://osu.ppy.sh/users/1436748) and [-Kamikaze-](https://osu.ppy.sh/users/2124783) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
 
 ### osu!
 
@@ -42,13 +41,9 @@ xi's songs never disappoints? Don't worry, this map doesn't disappoint! Chaoslit
 
 A little surprise? Yes! I was really surprised by [ Rizen ]'s map, a new mapper that comes with one of his first maps! Mapping Helblinde? A little bit too much "aggressive" for the beginning? Well none of that, the style of the map is more like Liquid DnB and the atmosphere very calm. Having tested the map, I think he would make a pretty wonderful mapper.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[Nwolf](https://osu.ppy.sh/users/1910766)** about their favourite maps in September 2015.
-
 
 + **[sakuzyo - AXION](https://osu.ppy.sh/beatmapsets/57468) by [lepidopodus](https://osu.ppy.sh/users/194807)**
 
@@ -73,8 +68,6 @@ High BPM madness! Backfire and OzzyOzrock offer you the long version of Houkago 
 + [Feint - Reprise](https://osu.ppy.sh/beatmapsets/324058) by [_Gezo_](https://osu.ppy.sh/users/481582)
 
 Last but not least we've got another drum'n'bass song, Reprise, mapped by _Gezo_! While the song is by far not something really interesting due to its repetitive nature, his difficulty slowly evolves and rises in difficulty and complexity as minor changes in the song occur, having some quite difficult patterns towards the end. He managed to make this a nice experience which is hard to accomplish. And as a reprise you could play the first map(s) again.
-
-
 
 ### Catch the Beat
 
@@ -103,7 +96,6 @@ So here it is, the winning entry of the CtB second Monthly Beatmapping Contest. 
 + [Nishiura Tomohito - Omoide no Teien](https://osu.ppy.sh/beatmapsets/329707) by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 The easiest map for this month. It will as you expect with this kind of calm song contain calm patterns. But the interesting part with low bpm songs is that you tend to notice more the hitsounds and the one here are simple but work nicely. A nice choice if you are beginner or just want to relax a bit.
-
 
 ### osu!mania
 
@@ -134,11 +126,7 @@ The hardest 9K map ranked so far. A fun and happy song, with enjoyable map that 
 A very unique mapset in it's own right. The mapset mainly focuses on tricky LN patterning throughout whole song apart from HD difficulty which for contrast is mapped in BMS style. While the song is slow and star rating is rather low, this map, especially yoshilove's Uryu~
 difficulty are very hard to hit accurately due to very unique and complex long note patterns, slowdowns and gimmicks that aren't common for mania maps (especially those ranked ones). Can't LN? Let's practice LN~~
 
-
-
-
 **The September 2015 ranking charts will end on the 15th November 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 
