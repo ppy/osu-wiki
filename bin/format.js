@@ -34,10 +34,10 @@ function detachMeta(content) {
     if (metaStartMatch === null)
         return [content, null];
 
-    const metaEndIndex = content.indexOf('---\n\n', metaStartMatch[0].length);
+    const metaEndIndex = content.indexOf('---\n', metaStartMatch[0].length);
 
     return [
-        content.substring(metaEndIndex + 5),
+        content.substring(metaEndIndex + 3).replace(/^\n+/, ''),
         content.substring(0, metaEndIndex + 3)
     ];
 }
