@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/108383919548/december-2014-monthly-ran
 date: 2015-01-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/108383919548/december-2014-monthly-ranking-charts
 ---
+
 The Ranking Charts for December 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1412)! We also updated the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit).
 
 The current season winner will be rewarded with an additional **3 months supporter tag** and the user title **Charts Champion** for 3 months. Furthermore, if one of the current title holders wins the new season as well, they will be rewarded with an additional **6 months supporter tag** and the user title **Charts Grandmaster** for 3 months. The winner of each individual ranking chart will receive a 1 month supporter tag.

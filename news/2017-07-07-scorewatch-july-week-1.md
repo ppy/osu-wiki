@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 date: 2017-07-07 15:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 ---
+
 A fierce war in the top 5 of osu!standard, a Glitch Nerds score battle between the 2 best players of osu!mania, and some taiko action all wrapped up in the first week of July!
 
 ![](/wiki/shared/news/2017-07-07-scorewatch-july-week-1/banner.png)

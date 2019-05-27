@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/144933230753/monthly-beatmapping-conte
 date: 2016-05-26 01:23:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/144933230753/monthly-beatmapping-contest-12-results
 ---
+
 With a bit of delay, the winner of the 12th Monthly Beatmapping Contest has been decided! Interested in the results? Read on!
 
 The competition very similar to the 11th in that the top two contestants were very close in score. This time around the winner of the contest was [Taeyang](https://osu.ppy.sh/users/Taeyang) with a score of 169 points! Taking second place is [Monstrata](https://osu.ppy.sh/users/Monstrata) scoring 164 points and being quite close to taking first place themselves. Last but certainly not least, our third place contestant coming in with 163 points is [pishifat](https://osu.ppy.sh/users/pishifat), scoring a single point less than our 2nd place contestant.

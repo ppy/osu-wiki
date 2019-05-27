@@ -3,6 +3,7 @@ tags:
 - IGTS 2018
 - IGTS2018
 ---
+
 # Intermediate Global Taiko Showdown 2018
 
 ![IGTS 2018 Logo](img/logo.png)

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-result
 date: 2016-08-29 08:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-results
 ---
+
 The results are in for the first ever osu!remix contest. Get ready to feast your ears on some awesome tracks!
 <!-- more -->
 

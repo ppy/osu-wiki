@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-regist
 date: 2015-10-01 09:10:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-registrations-open
 ---
+
 We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](https://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
 
 ![](/wiki/shared/news/banners/owc_2015.jpg)

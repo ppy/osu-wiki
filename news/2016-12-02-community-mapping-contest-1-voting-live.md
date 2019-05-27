@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/153944715428/community-mapping-contest
 date: 2016-12-02 12:36:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/153944715428/community-mapping-contest-1-voting-live
 ---
+
 After going through hundreds of entries across all gamemodes, voting for the first Community Mapping Contest is now open. Get in and get voting!
 <!-- more -->
 

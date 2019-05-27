@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/60438764327/august-2013-highlights
 date: 2014-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60438764327/august-2013-highlights
 ---
+
 August was a hectic month for osu!, with the largest yet DDoS attack launched against us. We have fixed things up and are now on top of it all, though!
 
 ### A new version-based changelog display is out!

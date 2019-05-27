@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/134589253878/osuidol-2015-results
 date: 2015-12-05 14:32:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/134589253878/osuidol-2015-results
 ---
+
 Throughout the last 4 months, with over 100 competitors, we went through 4 stages and managed to narrow it down to 3 singers to be our winners.
 This year it was up to you, the community, to decide who will shine as the osu!idol! Over the course of 2 weeks, we gathered your votes and now that the time is up, the results shall be announced!
 <!-- more -->

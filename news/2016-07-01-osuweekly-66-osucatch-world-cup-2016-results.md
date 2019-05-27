@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/146760479638/osuweekly-66-osucatch-wor
 date: 2016-07-01 17:42:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/146760479638/osuweekly-66-osucatch-world-cup-2016-results
 ---
+
 We have our champions for the osu!catch World Cup of 2016! Peppy has posted a much anticipated update on the blog, and we have many more community tournaments happening around the community. Read on to find out more!
 
 ![](https://puu.sh/nqIAS/05e726ece8.jpg)

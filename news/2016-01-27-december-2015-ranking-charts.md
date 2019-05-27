@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/138142336088/december-2015-ranking-cha
 date: 2016-01-27 09:07:02 +0000
 tumblr_url: http://osunews.tumblr.com/post/138142336088/december-2015-ranking-charts
 ---
+
 Hello everyone and my apologies for the big delay! The Ranking Charts for December 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1512)!
 This month [Baraatje123](https://osu.ppy.sh/users/2533040), [OzzyOzrock](https://osu.ppy.sh/users/465153), [alienflybot](https://osu.ppy.sh/users/636114) and [Halogen-](https://osu.ppy.sh/users/169992) picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
 

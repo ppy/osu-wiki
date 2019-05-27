@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 ![osu!supporter Abzeichen](Supporter tag.png "osu!supporter Abzeichen")
 
 Einleitung

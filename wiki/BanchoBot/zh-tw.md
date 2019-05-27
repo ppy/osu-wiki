@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 ![BanchoBot's tab.](img/BanchoBot.jpg "BanchoBot's tab.")
 
 IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](HK:IRC "wikilink").

@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="OptionsBase_ES.png" title="Menú de opciones" alt="Menú de opciones" width="300" />
 
 Opciones

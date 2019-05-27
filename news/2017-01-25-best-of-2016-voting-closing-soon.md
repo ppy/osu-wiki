@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/156345021253/best-of-2016-voting-closi
 date: 2017-01-25 06:40:55 +0000
 tumblr_url: http://osunews.tumblr.com/post/156345021253/best-of-2016-voting-closing-soon
 ---
+
 [**The Best of 2016 voting is now here!**](https://osu.ppy.sh/community/contests/39) After a long wait, the famous osu! tradition has been ported over to the new contest system and is waiting for your votes.
 <!-- more -->
 

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/159567407203/monthly-beatmapping-conte
 date: 2017-04-14 15:22:42 +0000
 tumblr_url: http://osunews.tumblr.com/post/159567407203/monthly-beatmapping-contest-april-2017-osumania
 ---
+
 osu!mania's first MBC for the year kicks off in style, featuring the tunes of [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)! Test your mapping mettle for prizes, Elite points and more.
 <!-- more -->
 

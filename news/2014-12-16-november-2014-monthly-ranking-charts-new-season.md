@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/105367487963/november-2014-monthly-ran
 date: 2014-12-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/105367487963/november-2014-monthly-ranking-charts-new-season
 ---
+
 The Ranking Charts for November 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1411)! Along with that, the Autumn Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit) concluded and we have our winners! Moreover, we published the [vote results here!](https://docs.google.com/spreadsheets/d/1bQQsvecPxgHJtFTMGWjSj25FcCmhGu82M8jvvNoKOic/edit)
 
 First of all, congratulations to the winners of the Ranking Charts Autumn Season. They will be rewarded with an additional **3 months supporter tag** and the user title **Charts Champion** for 3 months. Unfortunately, no one was able to hold the title and receive the **Charts Grandmaster** user title.

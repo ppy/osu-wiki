@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-cha
 date: 2015-12-21 21:47:39 +0000
 tumblr_url: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-charts
 ---
+
 Hello everyone! The Ranking Charts for November 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1511)!
 This month [Endaris](https://osu.ppy.sh/users/392866), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508) and [pporse](https://osu.ppy.sh/users/4991434) picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
 

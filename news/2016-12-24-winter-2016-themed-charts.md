@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/154892286088/winter-2016-themed-charts
 date: 2016-12-24 13:31:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154892286088/winter-2016-themed-charts
 ---
+
 Greetings everyone! We hope all of you have a wonderful Christmas today and celebrate it with the ones you love. For this special day, the Quality Assurance Team and the volunteers for the Ranking Charts prepared a winter themed chart for those who feel like only presents are just not enough. Let's spread some cosy feelings at this special day by clicking those circles; bashing these faces; catching those fruits and go octopus-mode with the squares!
 
 <!-- more -->

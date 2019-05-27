@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/152378031248/halloween-fanart-contest-
 date: 2016-10-27 12:41:42 +0000
 tumblr_url: http://osunews.tumblr.com/post/152378031248/halloween-fanart-contest-voting-begins
 ---
+
 The submissions have closed, and the voting is now open. There's been some excellent entries this time around, so come and take a look!
 <!-- more -->
 

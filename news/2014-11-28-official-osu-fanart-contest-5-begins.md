@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/103785787028/official-osu-fanart-conte
 date: 2014-11-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/103785787028/official-osu-fanart-contest-5-begins
 ---
+
 The fifth Official osu! Fanart Contest is here.
 
 You all did so well with the Halloween osu! fan art, so you can probably guess our theme this time (cue jingling sleigh bells) - but there''s a twist...

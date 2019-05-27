@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/60440803370/osu-monthly-beatmapping-co
 date: 2014-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60440803370/osu-monthly-beatmapping-contest-1
 ---
+
 Calling all mappers! Come show off your mapping skills to the community with the chance of having your beatmap **bundled with the game client!**
 
 ## Song

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/152288900053/osuidol-2016-finals-commu
 date: 2016-10-25 11:05:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/152288900053/osuidol-2016-finals-community-voting
 ---
+
 Last year the osu!community voted to determine the winner for 2015's contest and now the time has come again for all of you, to pick who will be the osu!idol for 2016!
 <!-- more -->
 

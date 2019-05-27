@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/133993037128/october-2015-ranking-char
 date: 2015-11-26 13:55:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/133993037128/october-2015-ranking-charts
 ---
+
 Hello everyone and sorry for the late announcement! The Ranking Charts for October 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=1510)!
 This month [Priti](https://osu.ppy.sh/users/2198472), [SKSalt](https://osu.ppy.sh/users/3280542), [- Magic Bomb -](https://osu.ppy.sh/users/3071175) and [ExUsagi](https://osu.ppy.sh/users/3027421) picked the maps for the Monthly Ranking Charts.
 

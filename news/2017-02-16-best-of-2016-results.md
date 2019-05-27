@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/157306073998/best-of-2016-results
 date: 2017-02-16 06:47:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/157306073998/best-of-2016-results
 ---
+
 Earlier in January, the osu! community at large went to the polls for the first time since last year, coming together from far and wide to deliberate on which maps deserved to be named the "Best of 2016". Now that you have spoken, the results are in!
 
 **As a part of our mission to always be looking out for your feedback, we've made a couple of changes to weightings from last year's contest.** If you recall, last year we took on the challenge of providing more accurate results for the greater part of the active community.

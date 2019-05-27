@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/158347604853/aspire-2017-voting-now-op
 date: 2017-03-13 09:56:05 +0000
 tumblr_url: http://osunews.tumblr.com/post/158347604853/aspire-2017-voting-now-open
 ---
+
 Miss the presentation livestream? Fear not, we've got all the details you need to know to make your vote count in this year's premier osu! beatmapping contest.
 <!-- more -->
 

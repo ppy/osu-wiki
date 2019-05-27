@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 ---
+
 People have been waiting for Cube World's release for two years now. An endless journey on unknown land with action-based combat makes people wait for a reason. However, nobody expected Cube World to suddenly come out on the start of July as alpha version. Does Cube World live with promises or will the alpha version kill all hope for this game?
 
 Cube World (PC) Developed by Picroma

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/145260581333/mapping-with-rewards-1-bo
 date: 2016-06-01 16:03:54 +0000
 tumblr_url: http://osunews.tumblr.com/post/145260581333/mapping-with-rewards-1-bounties-complete
 ---
+
 It's been a long time coming, but our first ever set of mapping bounties have been awarded. Come see the three newest maps to be added to the game client!
 <!-- more -->
 

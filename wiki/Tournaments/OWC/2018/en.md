@@ -3,6 +3,7 @@ tags:
 - OWC 2018
 - OWC2018
 ---
+
 # osu! World Cup 2018
 
 ![OWC 2018 Logo](img/logo.png)

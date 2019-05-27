@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/143359597258/storyboard-showcase-2
 date: 2016-04-25 04:07:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/143359597258/storyboard-showcase-2
 ---
+
 It was almost to be expected, but an overwhelming majority of people who submitted a storyboard for us to showcase picked the same one! This month, we'll be taking a look at the swan song of the retired Community Contributor Charles445.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7IDHaLjNGM" frameborder="0" allowfullscreen></iframe>

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/84880595728/osu-monthly-fanart-contest
 date: 2014-05-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/84880595728/osu-monthly-fanart-contest-2-vote-for-mfc1
 ---
+
 Hello again! Welcome to the second Monthly Fanart Contest! Each month we'll be suggesting a different theme for artwork. The first contest went overwhelmingly well! Last month we went with a basic theme, but this month, let's shake it up a bit:
 
 **osu! Around the World!**

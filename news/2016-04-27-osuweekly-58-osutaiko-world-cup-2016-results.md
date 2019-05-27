@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-wor
 date: 2016-04-27 09:39:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-world-cup-2016-results
 ---
+
 What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016, we saw numerous announcements from the people that bring us updates around the game. Strap yourselves in everybody, this is going to be a big one.
 
 ![](https://puu.sh/nqIAS/05e726ece8.jpg)

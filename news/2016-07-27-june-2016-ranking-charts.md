@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/148042383818/june-2016-ranking-charts
 date: 2016-07-27 10:06:16 +0000
 tumblr_url: http://osunews.tumblr.com/post/148042383818/june-2016-ranking-charts
 ---
+
 We apologize for the delay as stuff went a bit up and down, but by now, the Ranking Charts for June 2016 have been finally released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1606)!
 This month our dedicated top chart and general players, [Cookiezi](https://osu.ppy.sh/users/124493), [tasuke912](https://osu.ppy.sh/users/2774767), [_Asriel](https://osu.ppy.sh/users/566276) and [Runa](https://osu.ppy.sh/users/4643294) picked the maps for the Monthly Ranking Charts.
 

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/76226135369/best-maps-of-2013-results
 date: 2014-02-10 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76226135369/best-maps-of-2013-results
 ---
+
 The votes have been tallied, and the results are in. We're proud to present the best maps of 2013, as voted by you!
 
 Voting ran a little differently this year, with the system tweaked to allow votes only from people who actually played the maps, ensuring a much fairer turnout overall.

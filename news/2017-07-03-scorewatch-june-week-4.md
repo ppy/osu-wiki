@@ -5,7 +5,7 @@ permalink: http://osunews.tumblr.com/post/162432090863/scorewatch-june-week-4
 date: 2017-07-03 02:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162432090863/scorewatch-june-week-4
 ---
- 
+
 Many impressive first-ever-done scores on maps like BARUSA of MIKOSU, a lot of EZ and DT mod action, several first places, a taiko scoreshow and more in the final issue of Scorewatch for June!
  
 ![](/wiki/shared/news/2017-07-03-scorewatch-june-week-4/banner.png)

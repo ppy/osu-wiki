@@ -3,6 +3,7 @@ tags:
 - OWC 2015
 - OWC2015
 ---
+
 # osu! World Cup 2015
 
 ![OWC 2015 Logo](img/logo.jpg)

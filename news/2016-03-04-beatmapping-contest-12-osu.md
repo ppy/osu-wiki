@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/140452368663/beatmapping-contest-12-os
 date: 2016-03-04 16:48:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/140452368663/beatmapping-contest-12-osu
 ---
+
 Greetings and welcome to the osu! beatmapping contest \#12
 We just opened the submissions for the 12th Beatmapping Contest! This will be a osu! mode mapping contest, with an awesome song from IAHN   
 

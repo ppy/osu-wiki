@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/152901340878/osuidol-2016-final-result
 date: 2016-11-08 15:52:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/152901340878/osuidol-2016-final-results
 ---
+
 Once again, we have reached the end of another edition of osu!idol. Compared to 2015, we received a lot more contestants this year, giving us an extended amount of singers to listen and evaluate!
 
 <!-- more -->

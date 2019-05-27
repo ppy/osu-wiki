@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/159448419893/spring-fan-art-contest-vo
 date: 2017-04-11 10:33:08 +0000
 tumblr_url: http://osunews.tumblr.com/post/159448419893/spring-fan-art-contest-voting-now-open
 ---
+
 Talent is plainly in season this spring as the artists of the osu!community put forward the strongest showing in a fan art contest we've seen so far. [The votes are now open](https://osu.ppy.sh/community/contests/45), so go and make yours count!
 <!-- more -->
 

@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakur
 date: 2016-12-20 14:46:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakuraburst
 ---
+
 Beatmaps explode across the dying horizon as the critically acclaimed experimental-electronica artist known as **sakuraburst** joins the ranks of the osu!musicians!
 <!-- more -->
 

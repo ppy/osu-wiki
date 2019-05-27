@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/151057958633/community-mapping-contest
 date: 2016-09-28 16:07:58 +0000
 tumblr_url: http://osunews.tumblr.com/post/151057958633/community-mapping-contest-1-yuki-nadeshiko
 ---
+
 Another talented artist emerges as an official osu!musician. To celebrate, we're holding a brand new collaborative community mapping contest in a brand new, never-before-seen format with community voting! Come check it out!
 <!-- more -->
 

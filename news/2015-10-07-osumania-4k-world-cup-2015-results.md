@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/130679970363/osumania-4k-world-cup-201
 date: 2015-10-07 12:43:05 +0000
 tumblr_url: http://osunews.tumblr.com/post/130679970363/osumania-4k-world-cup-2015-results
 ---
+
 The osu!mania 4K World Cup 2015 concluded on Sunday two weeks ago with an amazing Grand Final. We would like to shoutout the results once again and celebrate the winning team with everyone together! The United States were able to achieve their first World Cup Title in all World Cups after battling against Japan with an outstanding performance.
 
 ![](/wiki/shared/news/2015-10-07-osumania-4k-world-cup-2015-results/osu!mwc4k2015+ranking.png)

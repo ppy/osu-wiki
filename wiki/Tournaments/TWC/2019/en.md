@@ -2,6 +2,7 @@
 tags:
 - TWC2019
 ---
+
 # osu!taiko World Cup 2019
 
 ![TWC 2019 Logo](img/logo.jpg)

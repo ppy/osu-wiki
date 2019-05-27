@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/159160085153/aspire-2017-stage-one-con
 date: 2017-04-03 19:10:27 +0000
 tumblr_url: http://osunews.tumblr.com/post/159160085153/aspire-2017-stage-one-concludes
 ---
+
 With a thunderous conclusion, the first stage of Aspire 2017 is over - and we have a clear and decisive winner. Read on to find out more, including details about the next stage of the contest slated to begin this month!
 <!-- more -->
 

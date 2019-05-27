@@ -7,6 +7,7 @@ tags:
 - MWC4K 2014
 - MWC7K 2014
 ---
+
 # osu!mania World Cup 2014
 
 ![MWC 2014 Logo](img/logo.png)

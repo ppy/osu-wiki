@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/155237821483/happy-new-year
 date: 2017-01-01 06:49:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/155237821483/happy-new-year
 ---
+
 Happy New Year from everyone on the osu! team! Whether you're ready for 2017 or not, too bad - it's finally here. Read on to get a little taste of what we've got planned, and a little surprise to boot!
 <!-- more -->
 

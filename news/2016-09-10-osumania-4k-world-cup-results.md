@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-res
 date: 2016-09-10 21:28:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-results
 ---
+
 The champions of the osu!mania 4K World Cup have been crowned! Did you catch the excitement on the livestream? If not, we have a recap for you ready complete with VODs and prize information!
 
 Going into the Grand Finals, the South Korean team came hot off the heels of a rematch between defending champions United States. The confident South Korean team completely annihilated the competition and prepared themselves to meet whoever was coming from the loser's brackets.

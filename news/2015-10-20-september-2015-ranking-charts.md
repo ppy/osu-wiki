@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-ch
 date: 2015-10-20 19:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
 ---
+
 With some delay, the Ranking Charts for September 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1509)!
 This month [Secretpipe](https://osu.ppy.sh/users/2208964), [Nwolf](https://osu.ppy.sh/users/1910766), [Krah](https://osu.ppy.sh/users/1436748) and [-Kamikaze-](https://osu.ppy.sh/users/2124783) picked the maps for the Monthly Ranking Charts.
 

@@ -4,6 +4,7 @@ tags:
 - BTT 4
 - BTT4
 ---
+
 # Beginners' Taiko Tournament 4
 
 ![BTT 4 Logo](img/logo.gif)

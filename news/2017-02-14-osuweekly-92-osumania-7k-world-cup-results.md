@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-
 date: 2017-02-14 07:25:28 +0000
 tumblr_url: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-world-cup-results
 ---
+
 The osu!mania 7K World Cup has reached a very decided conclusion! In the community, people are making a splash by coming up with their own ways to imrpove your osu! lifestyle. Missed out on the carnage? Read on!
 
 <!-- more -->

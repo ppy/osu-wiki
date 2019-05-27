@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Globales Moderationsteam
 
 **Globales Moderationsteam** (früher auch bekannt als Adminstratoren, Globales Modteam oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder des osu!Staffs, die in erster Linie für die Moderation der Channel und für Fragen, die auf das Personal und die gesamte Gemeinschaft gerichtet sind, zuständig sind.

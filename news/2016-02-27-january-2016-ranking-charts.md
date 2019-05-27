@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/140057371308/january-2016-ranking-char
 date: 2016-02-27 00:55:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/140057371308/january-2016-ranking-charts
 ---
+
 The Ranking Charts for January 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1601)!
 This month [ByBy13](https://osu.ppy.sh/users/3436326), [mintong89](https://osu.ppy.sh/users/966210), [ZiRoX](https://osu.ppy.sh/users/200768) and [Feerum](https://osu.ppy.sh/users/4815717) picked the maps for the Monthly Ranking Charts.
 

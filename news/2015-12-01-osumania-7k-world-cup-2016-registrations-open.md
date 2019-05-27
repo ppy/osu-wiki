@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-201
 date: 2015-12-01 11:00:37 +0000
 tumblr_url: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-2016-registrations-open
 ---
+
 We would like to welcome all of you to new year's official osu!mania World Cups, starting with the 7-key edition! To ensure that you are aware of everything, please [read our wiki article carefully](https://osu.ppy.sh/wiki/MWC_7K_2016)  before registering for this tournament.
 
 ![](/wiki/shared/news/banners/MWC7K_2016.png)

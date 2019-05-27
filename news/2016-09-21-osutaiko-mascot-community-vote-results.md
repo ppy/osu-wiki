@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/150724647363/osutaiko-mascot-community
 date: 2016-09-21 12:34:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/150724647363/osutaiko-mascot-community-vote-results
 ---
+
 Public voting for the new Taiko mascot has finished, and the votes are in. Come see the community's favorite picks while the staff deliberates over their choice!
 <!-- more -->
 

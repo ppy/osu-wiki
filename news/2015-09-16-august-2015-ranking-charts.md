@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-chart
 date: 2015-09-16 16:42:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-charts
 ---
+
 The Ranking Charts for August 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1508)!
 This month [Sieg](https://osu.ppy.sh/users/1404615), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), [diao](https://osu.ppy.sh/users/500696) and [juankristal](https://osu.ppy.sh/users/443656) picked the maps for the Monthly Ranking Charts.
 

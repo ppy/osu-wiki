@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-c
 date: 2014-06-25 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-cup-2014-results
 ---
+
 The osu! Catch the Beat World Cup 2014 ended around two week ago, and we are proud to announce the winners of the biggest Catch the Beat tournament yet.
 
 ![image](/wiki/shared/news/2014-06-25-osu-catch-the-beat-world-cup-2014-results/CWC-podium.jpg)

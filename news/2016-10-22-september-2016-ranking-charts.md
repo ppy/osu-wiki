@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/152153263023/september-2016-ranking-ch
 date: 2016-10-22 12:04:07 +0000
 tumblr_url: http://osunews.tumblr.com/post/152153263023/september-2016-ranking-charts
 ---
+
 After an eventful week with the release of the GMT Applications, the new Loved State and the next Fanart Contest, we are back with our common release schedule, providing you the Ranking Charts for September 2016 which [can be found here](https://osu.ppy.sh/p/chart/?ch=MONTH1609)!
 <!-- more -->
 

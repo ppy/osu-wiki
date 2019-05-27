@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-c
 date: 2014-04-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-cup-2014-registration
 ---
+
 Greetings. We'd like to welcome all of you to this year's official osu! Catch the Beat World Cup. The rules have been adjusted from the previous CWC, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/catch_logo_2014.png)

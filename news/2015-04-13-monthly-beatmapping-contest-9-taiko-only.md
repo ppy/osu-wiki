@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/116319155288/monthly-beatmapping-conte
 date: 2015-04-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116319155288/monthly-beatmapping-contest-9-taiko-only
 ---
+
 Submissions for the 9th Monthly Beatmapping Contest are now open - Bringing back some fast paced beats for our 1st **Taiko Only** contest with a great tune from LapFox Traxx for this month's contest!
 
 Sticking with the changes made in the MBC\#8 we are moving on to our next game mode **Taiko** we hope to see some great submissions to kick things off

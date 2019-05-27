@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/154971345623/christmas-fan-art-contest
 date: 2016-12-26 08:40:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/154971345623/christmas-fan-art-contest-results
 ---
+
 In perhaps the closest voting in any of our Fan Art contests ever, the results are finally out for the amazing Christmas-themed entries!
 
 <!-- more -->

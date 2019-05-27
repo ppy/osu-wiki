@@ -5,6 +5,7 @@ permalink: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-r
 date: 2014-01-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-registration-phase
 ---
+
 Greetings. We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/TWC_2014.png)

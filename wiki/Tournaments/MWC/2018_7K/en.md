@@ -5,6 +5,7 @@ tags:
 - MWC2018
 - MWC7K 2018
 ---
+
 # osu!mania 7K World Cup 2018
 
 ![MWC 7K 2018 Logo](img/logo.png)
