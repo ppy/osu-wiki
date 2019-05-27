@@ -23,4 +23,3 @@ It's been a pleasure to experience another great year of singing talents. A big 
 By all means it's not over. We'll be back again next year to bring you more musical goodness. Don't forget to drop by our [Discord server](https://discord.gg/7hZgNeH) for chat, karaoke and the imminent announcements for next year's installment. That is all from us for now! See you again soon!
 
 —Flanster
-

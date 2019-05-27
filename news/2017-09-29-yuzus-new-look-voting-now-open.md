@@ -21,4 +21,3 @@ As always, we're astonished with the level of care and skill that goes into the 
 [Make sure to vote, and let us know which three you like the best!](https://osu.ppy.sh/community/contests/49)
 
 —Ephemeral
-

@@ -29,4 +29,3 @@ And as always, any track present on a Featured Artist listing is 100% licensed f
 Make sure to visit **OISHII**'s [Bandcamp](https://oishiichan.bandcamp.com/) if you want to support their work, and follow them on [Twitter](https://twitter.com/oishiichanmusic). Don't mind the all-caps though!
 
 —Ephemeral
-
