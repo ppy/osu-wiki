@@ -8,7 +8,7 @@ tags:
 
 ![MP4K 3 Logo](img/logo.png)
 
-**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) is a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the tournament.
+**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) is a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the Mistrzostwa Polski 4K.
 
 ## Tournament Schedule
 
@@ -32,9 +32,9 @@ The minimum guaranteed prizes are:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 200 PLN, profile badge and 6 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 120 PLN and 4 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 80 PLN and 2 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 200 PLN, profile badge, 6 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 120 PLN, 4 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 80 PLN, 2 months of osu!supporter tag |
 
 ![MP4K 3 Badge](img/badge.png "MP4K 3 Winner Badge")
 
@@ -43,7 +43,7 @@ The minimum guaranteed prizes are:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinator | ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
+| Coordinators | ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
 | Map Selectors | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referees | ![][flag_RU] [AnatOWJIya](https://osu.ppy.sh/users/486264), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Cyan_Star](https://osu.ppy.sh/users/8679184), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [MrDorian](https://osu.ppy.sh/users/1559983), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamers | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [DrawnGirl](https://osu.ppy.sh/users/2222301), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
