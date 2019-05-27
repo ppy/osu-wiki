@@ -48,12 +48,9 @@ function findArticles(dir) {
     fs.readdirSync(dir).forEach(file => {
         file = path.join(dir, file);
 
-        if (file.endsWith('.md')) {
+        if (file.endsWith('.md'))
             articles.push(file);
-            return;
-        }
-
-        if (fs.statSync(file).isDirectory())
+        else if (fs.statSync(file).isDirectory())
             articles = articles.concat(findArticles(file));
     });
 
