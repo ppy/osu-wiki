@@ -61,8 +61,9 @@ function findArticles(dir) {
 }
 
 function format(file) {
-    let [content, meta] = detachMeta(fs.readFileSync(file, 'utf8'));
     const log = logFactory(file);
+    let content = fs.readFileSync(file, 'utf8');
+    let meta;
 
     let lineEnding = '\n';
     if (content.includes('\r\n'))
@@ -73,10 +74,13 @@ function format(file) {
     if (lineEnding !== '\n')
         content = content.replace(/\r\n?/g, '\n');
 
+    [content, meta] = detachMeta(content);
+
     content = rule_1_boundaryWhitesapce(content, log);
 
+    content = attachMeta(content, meta);
     content = content.replace(/\n/g, lineEnding);
-    fs.writeFileSync(file, attachMeta(content, meta));
+    fs.writeFileSync(file, content);
 }
 
 function lineAtIndex(string, index) {
