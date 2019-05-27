@@ -12,27 +12,21 @@ tags:
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-The **iDOL@NSTER** is an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It will take place during *Zotcade 2019*, a gaming festival hosted at the University of California, Irvine (*UCI*). This is osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+The **iDOL@NSTER** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
 ![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
 
-The tournament will take place on Sunday, May 19, 2019 from 10 a.m. to 10 p.m. It will be located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB. Food is not provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for around $10. Please arrive early, as there will be other events taking up parking spots.
+The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
-Each player location has one guaranteed power outlet and ethernet port. If you require the use of ethernet, please bring your own cable.
-
-### Registration
-
-Please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfhMFC1BZrbdpQK_tjpgYFjCGp4lUG8ILscpYH7XHvcLCmvdw/viewform) to RSVP and register for the event.
-
-## Tournament Schedule
-
-![iDOL@NSTER Schedule](img/schedule.png)
+The osu!standard Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
 
 ## Prizes
 
-All prizes will be awarded to both the osu! and osu!mania winners.
+![iDOL@NSTER Profile Badge](img/badge.png)
+
+### osu!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -40,27 +34,84 @@ All prizes will be awarded to both the osu! and osu!mania winners.
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | HyperX Alloy Core RGB Keyboard |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | HyperX Pulsefire FPS Mouse |
 
-![iDOL@NSTER Profile Badge](img/badge.png)
+A special prize was rewarded to the player who held the highest aggregate score on songs from *THE iDOLM@STER: Cinderella Girls*. They received a poster card for *Anastasia*, one of the idols featured in the game.
+
+### osu!mania
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Logitech G Pro Mouse |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Logitech G Pro Mouse |
 
 ## Organisation
 
-The iDOL@NSTER is run by various osu! community members at UCI or visiting for the event.
+The iDOL@NSTER was run by various osu! community members at UCI or visiting for the event.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Map Selectors | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamers | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentators | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Commentators | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Designers | ![][flag_US] [Skydendrin](https://skydendrin.carrd.co) |
-| Referees | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Referees | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
 
-- **[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfhMFC1BZrbdpQK_tjpgYFjCGp4lUG8ILscpYH7XHvcLCmvdw/viewform)**
+- [Challonge bracket (osu!)](https://challonge.com/ilanstandard)
+- [Challonge bracket (osu!mania)](https://challonge.com/ilanmania)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902500)
 - [Livestream](https://www.twitch.tv/osuuci)
 - [osu! UCI Discord server](https://discord.gg/qbZddFV)
 - [Website](http://www.osuuci.com/tournaments/idol@nster/)
+
+## Participants
+
+![Photo of the event's attendees](img/people.jpg "Attendees of iDOL@NSTER after the tournament concluded")
+
+### osu!
+
+- ![][flag_US] [[KOR] Sora](https://osu.ppy.sh/users/11985468)
+- ![][flag_US] [Achao3](https://osu.ppy.sh/users/12325019)
+- ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)
+- ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
+- ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+- ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
+- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
+- ![][flag_US] [Musket](https://osu.ppy.sh/users/6124459)
+- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+- ![][flag_US] [Sliceofpie](https://osu.ppy.sh/users/3841872)
+- ![][flag_US] [Slo](https://osu.ppy.sh/users/8839884)
+- ![][flag_US] [YungCowboy](https://osu.ppy.sh/users/8176490)
+
+### osu!mania
+
+- ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614)
+- ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
+- ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
+- ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
+- ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760)
+
+## Podium
+
+### osu!
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+
+![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
+
+### osu!mania
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
@@ -255,11 +306,172 @@ The iDOL@NSTER is run by various osu! community members at UCI or visiting for t
 - Tiebreaker
   - **[MC Mental - MC MENTAL @ HIS BEST (hi19hi19) [Hard]](https://osu.ppy.sh/beatmapsets/503710#mania/1071695)**
 
+## Match Results
+
+### osu!
+
+#### Grand Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **6** | 1 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/51947819) |
+
+#### Finals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **5** | 1 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/51945087) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mathyu** ![][flag_US] | **5** | 1 | ![][flag_US] death grips | [#1](https://osu.ppy.sh/community/matches/51947396) |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **4** | 1 | ![][flag_US] Musket | [#1](https://osu.ppy.sh/community/matches/51943219) |
+| death grips ![][flag_US] | 2 | **4** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/51943346) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Musket** ![][flag_US] | **4** | 2 | ![][flag_US] YungCowboy | [#1](https://osu.ppy.sh/community/matches/51944564) |
+| **death grips** ![][flag_US] | **4** | 1 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/51944566) |
+| Musket ![][flag_US] | 2 | **4** | ![][flag_US] **death grips** | [#1](https://osu.ppy.sh/community/matches/51945563) |
+
+#### Quarterfinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [#1](https://osu.ppy.sh/community/matches/51942496) |
+| Darin on osu ![][flag_US] | 1 | **3** | ![][flag_US] **Musket** | [#1](https://osu.ppy.sh/community/matches/51942547) |
+| **death grips** ![][flag_US] | **3** | 0 | ![][flag_US] YungCowboy | [#1](https://osu.ppy.sh/community/matches/51942801) |
+| **Mathyu** ![][flag_US] | **3** | 0 | ![][flag_US] Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/51942604) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51943277) |
+| **YungCowboy** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51943275) |
+| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] [KOR] Sora | -forfeit- |
+| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/51942892) |
+| Ikeda Chizuru ![][flag_US] | 2 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51943880) |
+| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [#1](https://osu.ppy.sh/community/matches/51943344) |
+
+#### Round of 16
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51941939) |
+| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] Achao3 | [#1](https://osu.ppy.sh/community/matches/51941917) |
+| **Musket** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51941899) |
+| [KOR] Sora ![][flag_US] | 0 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51942119) |
+| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] MyAngelNeptune | -played offline- |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Achao3 ![][flag_US] | 1 | **3** | ![][flag_US] **Slo** | [#1](https://osu.ppy.sh/community/matches/51942573) |
+
+#### Seeding
+
+All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ![][flag_US] Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a referee).
+
+| Player | Aggregate placement |
+| :-- | :-- |
+| ![][flag_US] fieryrage | 12 |
+| ![][flag_US] death grips | 26 |
+| ![][flag_US] Mathyu | 30 |
+| ![][flag_US] Darin on osu | 34 |
+| ![][flag_US] Musket | 34 |
+| ![][flag_US] Ikeda Chizuru | 58 |
+| ![][flag_US] [KOR] Sora | 61 |
+| ![][flag_US] pishifat | 65 |
+| ![][flag_US] Sliceofpie | 72 |
+| ![][flag_US] YungCowboy | 77 |
+| ![][flag_US] MyAngelNeptune | 79 |
+| ![][flag_US] Slo | 80 |
+| ![][flag_US] Achao3 | 100 |
+
+### osu!mania
+
+#### Finals
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **6** | 2 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/51944062) |
+
+#### Semifinals
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **5** | 1 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/51941547) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Trainer-** ![][flag_US] | **5** | 0 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/51943569) |
+
+#### Round 2
+
+##### Winners
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Crescendo PiaNo** ![][flag_US] | **4** | 0 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/51940641) |
+| **Trainer-** ![][flag_US] | **4** | 3 | ![][flag_US] Ecal | [#1](https://osu.ppy.sh/community/matches/51940114) |
+
+##### Losers
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ecal** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51941682) |
+| **Ouchiee** ![][flag_US] | **5** | 0 | ![][flag_US] Ecal | [#1](https://osu.ppy.sh/community/matches/51942291) |
+
+#### Round 1
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51939935) |
+
 ## Ruleset
 
-![iDOL@NSTER Bracket Format](img/format.png)
-
 Any disregard for these rules will be met with punishment, ranging from a warning to immediate disqualification. It will be up to the discretion of the staff to punish based on the severity of the offence. **These rules and regulations are subject to change during the event.**
+
+### Format
+
+#### Seeding (osu! only)
+
+1. Every player will play the entire Seeding mappool in display order.
+2. When the match concludes, each player will have their placements on each map added together to determine their seeding score (lower aggregate placement = higher seed).
+
+#### Playoffs
+
+Both tournaments will use a standard double-elimination format for playoffs.
+
+| Match length | Round (osu!) | Round (osu!mania) |
+| --: | :-- | :-- |
+| Best of 5 | Round of 16, Quarterfinals | Round 1 |
+| Best of 7 | Semifinals | Round 2 |
+| Best of 9 | Finals | Semifinals |
+| Best of 11 | Grand finals | Finals |
 
 ### Lobby and Matches
 
@@ -267,10 +479,10 @@ Any disregard for these rules will be met with punishment, ranging from a warnin
 2. Score V2 will be used as the win condition.
 3. Warmups will not be allowed.
 4. Low roll bans first; high roll picks first.
-5. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
-6. No-shows will be automatically considered forfeitures.
-7. Tournament participants must notify staff before leaving tournament premises.
-8. Other rules are explained in the format infographic or at the event. You can also ask osu! UCI officers if you need clarification.
+5. The loser of each map will pick the next one.
+6. Leaving tournament premises (Moss Cove AB) outside of assigned break times will result in a forfeiture of the tournament.
+7. No-shows will be automatically considered forfeitures.
+8. Tournament participants must notify staff before leaving tournament premises.
 
 ### Disconnection
 
