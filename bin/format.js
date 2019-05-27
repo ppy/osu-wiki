@@ -24,6 +24,16 @@ function rule_1_boundaryWhitesapce(content, log) {
     return content;
 }
 
+function rule_2_atxHeaders(content, log) {
+    return content.replace(/\n(.+)\n(?:(=+)|-+)\n/g, (match, header, l1, index) => {
+        if (header.trim() === '' || header.startsWith('#'))
+            return match;
+
+        log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
+        return '\n' + (l1 !== undefined ? '# ' : '## ') + header.trim() + '\n';
+    });
+}
+
 function attachMeta(content, meta) {
     return (meta === null ? '' : meta + '\n\n') + content;
 }
@@ -74,6 +84,7 @@ function format(file) {
     [content, meta] = detachMeta(content);
 
     content = rule_1_boundaryWhitesapce(content, log);
+    content = rule_2_atxHeaders(content, log);
 
     content = attachMeta(content, meta);
     content = content.replace(/\n/g, lineEnding);
