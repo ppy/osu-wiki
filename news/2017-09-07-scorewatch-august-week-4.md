@@ -49,7 +49,6 @@ SCORESHOW WITH ZSEIKIMATSU
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/3rRT6q1FOug" frameborder="0" allowfullscreen></iframe></br>
 
-
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 
 —Raveille

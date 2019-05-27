@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Best of 2016 Results"
-permalink: http://osunews.tumblr.com/post/157306073998/best-of-2016-results
 date: 2017-02-16 06:47:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/157306073998/best-of-2016-results
 ---
@@ -21,16 +20,12 @@ We then use the highest of those weightings (up to a maximum of 3) as the vote's
 
 Okay, that's enough math for you all. Without further ado, here are the best maps of 2016!
 
-
 [![](https://puu.sh/u3X7s/7fe6485770.png)](https://osu.ppy.sh/community/contests/39)
-
 
 In total, **186077 votes** were cast for osu!. Player performance and playcount were calculated on Tuesday, February 14th, 2017, at 13:44:19 UTC+9.
 Despite the new formula providing a seemingly more proper distribution overall for the **5455 ranked maps** in 2016, the winner for osu! can almost be considered an outlier. [Monstrata's 9mm Parabellum Bullet - Inferno](https://osu.ppy.sh/beatmapsets/482090) beat out the second place holder by almost *double* the weighted score. A notable mention goes out to Monstrata's [BABYMETAL - Road of Resistance](https://osu.ppy.sh/beatmapsets/399372) as well, which would have taken second place if we only looked at raw votes. **An astounding 1,400,649,369 scores were sent and recorded by bancho over the course of 2016**.
 
-
 [![](https://puu.sh/u3X7y/60324861ec.png)](https://osu.ppy.sh/community/contests/40)
-
 
 In total, **8580 votes** were cast for osu!taiko. Player performance and playcount were calculated on Tuesday, February 14th, 2017, at 13:53:53 UTC+9.
 
@@ -38,14 +33,11 @@ osu!taiko achieved **29,081,989 scores submitted** over the whole year and saw a
 
 [![](https://puu.sh/u3X7q/f1f31c2c81.png)](https://osu.ppy.sh/community/contests/41)
 
-
 In total, **7629 votes** were cast for osu!catch. Player performance and playcount were calculated on Tuesday, February 14th, 2017, at 13:59:01 UTC+9.
 
 With **284 osu!catch maps ranked in 2016**, osu!catch was a relatively small game mode for mapping. However, despite having the smallest pool of ranked maps, osu!catch as a mode is still widely played with **42,782,141 ranked score submissions**. Ascendance's [saradisk - 176 - ikazuchi](https://osu.ppy.sh/beatmapsets/424208) takes away the first place by a very small margin against [Memme - Acid Burst](https://osu.ppy.sh/beatmapsets/302535), a collaborative work of Spectator and Deif.
 
-
 [![](https://puu.sh/u3X7v/b58d6fa8a5.png)](https://osu.ppy.sh/community/contests/42)
-
 
 In total, **33769 votes** were cast for osu!mania. Player performance and playcount were calculated on Tuesday, February 14th, 2017, at 14:02:18 UTC+9.
 

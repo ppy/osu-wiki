@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Best Maps of 2013 Results"
-permalink: http://osunews.tumblr.com/post/76226135369/best-maps-of-2013-results
 date: 2014-02-10 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76226135369/best-maps-of-2013-results
 ---

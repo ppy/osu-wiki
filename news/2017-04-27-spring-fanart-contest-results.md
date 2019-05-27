@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Spring Fanart Contest Results"
-permalink: http://osunews.tumblr.com/post/160055282693/spring-fanart-contest-results
 date: 2017-04-27 18:01:55 +0000
 tumblr_url: http://osunews.tumblr.com/post/160055282693/spring-fanart-contest-results
 ---
 
 Talent was apparently in season this year, with the results being the closest we've ever seen for a fanart contest - ever! Read on to catch a glimpse of the winners, or [check out the winners yourself over at the contest listing](https://osu.ppy.sh/community/contests/45).
-<!-- more -->
 
 <a href="https://osu.ppy.sh/community/contests/45"><img src="https://assets.ppy.sh/contests/45/header.jpg"></a>
 

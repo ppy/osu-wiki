@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "GMT Applications Now Open"
-permalink: http://osunews.tumblr.com/post/151845561968/gmt-applications-now-open
 date: 2016-10-15 18:01:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151845561968/gmt-applications-now-open
 ---
 
 Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
-<!-- more -->
 
 The Global Moderation Team is one of osu!'s oldest usergroups, dating back to shortly after the game went public. The team has traditionally held some of the most esteemed members of the community within its midst (Ivalset, Sinistro and others) - people who have demonstrated that they are capable of far more than just being a moderator. The GMT are responsible not only for moderating the community at large, but for leading discussions and entire subsets of the community. They are the first people to talk to in-game should you have any issues or problems that you need help with.
 
@@ -21,7 +19,6 @@ There are a few key points to note as well:
 * You must also have impeccable standing on your osu! account. This means that anyone who has had a recent restriction or multi-account offense within the past year likely does not qualify to become a GMT at this time. Silences will be handled case by case per user, but you should still not have very many of them.
 * Successful applicants will be required to maintain an acceptable level of activity in order to remain in the GMT.
 * Please also be aware that this application system will work differently to the BN applications. This is only an application form and not a test. By filling out and completing the form, you are not guaranteed a seat in the GMT. We will contact you if we want to speak to you further.
-
 
 **To clarify, there is not a certain number of "seats" or positions going for the GMT. If we think someone has what it takes, we'll add them. There's no competition for any sort of position.**
 

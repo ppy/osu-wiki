@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fourth Official osu! Fanart Contest Results (Halloween)!"
-permalink: http://osunews.tumblr.com/post/102429724443/fourth-official-osu-fanart-contest-results
 date: 2014-11-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102429724443/fourth-official-osu-fanart-contest-results
 ---

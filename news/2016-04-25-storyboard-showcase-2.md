@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Storyboard Showcase #2"
-permalink: http://osunews.tumblr.com/post/143359597258/storyboard-showcase-2
 date: 2016-04-25 04:07:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/143359597258/storyboard-showcase-2
 ---

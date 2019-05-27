@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2016 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/138990982913/osutaiko-world-cup-2016-registrations-open
 date: 2016-02-09 15:00:13 +0000
 tumblr_url: http://osunews.tumblr.com/post/138990982913/osutaiko-world-cup-2016-registrations-open
 ---
@@ -29,7 +28,6 @@ For more details, refer to the [osu!taiko World Cup 2016 wiki article](https://o
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We altered the prize pool. Details will be revealed as soon as possible!
-
 
 ## Prizes
 

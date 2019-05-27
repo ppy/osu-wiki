@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup Results!"
-permalink: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-results
 date: 2016-09-10 21:28:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-results
 ---
@@ -18,11 +17,10 @@ Without further ado, I present to you the champions of the 2016 osu!mania 4K Wor
 
 ![](https://puu.sh/r6myE/7e1fb4087b.png)
 
-Prizes:
-1st Place - South Korea: $950 ($158.33 per player) + physical prizes + profile badge
-2nd Place - Brazil: $720 ($120 per player) + physical prizes + profile badge
+Prizes:  
+1st Place - South Korea: $950 ($158.33 per player) + physical prizes + profile badge  
+2nd Place - Brazil: $720 ($120 per player) + physical prizes + profile badge  
 3rd Place - United States: $230 ($38.33 per player) + physical prizes + profile badge
-
 
 If you missed the action live, you can take a look at our [newly uploaded videos](https://www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A) on our YouTube channel!
 

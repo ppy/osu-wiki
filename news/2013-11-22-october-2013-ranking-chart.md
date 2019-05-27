@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "October 2013 Ranking Chart"
-permalink: http://osunews.tumblr.com/post/67739299984/october-2013-ranking-chart
 date: 2014-11-22 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/67739299984/october-2013-ranking-chart
 ---

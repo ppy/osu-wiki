@@ -1,21 +1,17 @@
 ---
 layout: post
 title: "November 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-charts
 date: 2015-12-21 21:47:39 +0000
 tumblr_url: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-charts
 ---
 
 Hello everyone! The Ranking Charts for November 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1511)!
-This month [Endaris](https://osu.ppy.sh/users/392866), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508) and [pporse](https://osu.ppy.sh/users/4991434) picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
 
+This month [Endaris](https://osu.ppy.sh/users/392866), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508) and [pporse](https://osu.ppy.sh/users/4991434) picked the maps for the Monthly Ranking Charts. I would also like to mention that next month will be a special christmas themed chart for the December Ranking Charts. Until then, I wish all of you a merry christmas and a happy new year!
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -48,13 +44,9 @@ Another thing I really want to highlight is the brilliant choice of background a
 
 I couldn't help myself but to put this in. Normal and Hard of this set are a perfect showcase of how simplicity and consistency can ensure maximum playability without taking anything from the song's charm away. The additional Insane is a challenging addition that stays true to the song as well. I really enjoyed playing this mapset.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[Raiden](https://osu.ppy.sh/users/2239480)** about their favourite maps in November 2015.
-
 
 + **[Eluveitie - Helvetios](https://osu.ppy.sh/beatmapsets/324146) by [Grimbow](https://osu.ppy.sh/users/1387762)**
 
@@ -92,9 +84,6 @@ Another fast-paced song for my last pick. Amazing song choice by the mapper, as 
 The lower difficulties are made in a great way so new players are able to play them efficiently, while the higher
 difficulties offer simple but hard to read patterns due to the natural fast pace of the song.
 
-
-
-
 ### Catch the Beat
 
 For Catch the Beat, **[JBHyperion](https://osu.ppy.sh/users/4879508)** was the chosen one to declare the winners of the November 2015 beatmaps.
@@ -122,7 +111,6 @@ Featuring 8 difficulties from 7 different mappers, this is a set that contains s
 + [Nana Mizuki - Vitalization](https://osu.ppy.sh/beatmapsets/120383) by [Kurokami](https://osu.ppy.sh/users/260933)
 
 Surprisingly the only pure CtB mapset in my selection, I chose this mapset for those more accustomed to specific difficulties rather than converts, and also because I'm so happy to see it get ranked after more than two years of work. Each of the difficulties will pose a decent challenge to their intended audience, with fast-paced and varied rhythms providing numerous jumps and streams even on the lower difficulties. The outstanding difficulty of this set is definitely the Platter, which makes use of some really awesome wiggling and jump patterns, as well as beautifully flowing sliders and stream sections that make it worth checking out regardless of your ability level.
-
 
 
 
@@ -180,7 +168,6 @@ This map is made up with trill parts, many short 32nd beat streams showing up, a
 Having every part of the song with it's own clear concept gave me a nice impression.
 Especially the high quality long note part will help 4 key users improve their skills.
 
-
 + [PLight feat. mow2 - Homeneko*Sensation](https://osu.ppy.sh/beatmapsets/315350) by [victorica_db](https://osu.ppy.sh/users/2046044)
 
 When mapping a song that repeats a part, it is challenging to perform new patterns continuously so that it doesn't get boring when playing.
@@ -190,11 +177,7 @@ You can feel this a lot in the drum patterns, showing different patterns even if
 Also, there are few maps that you can practice the Variable Scratch, the scratch 4-jack that shows up in the 8 key mapset will help you practice the Variable Scratch.
 *Variable Scratch = A method used to hit the scratch note with two different keys using an alternate special key
 
-
-
-
 **The November 2015 ranking charts will end on the 15th January 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

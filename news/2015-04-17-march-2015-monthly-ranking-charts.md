@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "March 2015 Monthly Ranking Charts"
-permalink: http://osunews.tumblr.com/post/116637580923/march-2015-monthly-ranking-charts
 date: 2015-04-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116637580923/march-2015-monthly-ranking-charts
 ---

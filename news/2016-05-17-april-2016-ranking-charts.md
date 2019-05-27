@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "April 2016 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/144503836683/april-2016-ranking-charts
 date: 2016-05-17 14:19:04 +0000
 tumblr_url: http://osunews.tumblr.com/post/144503836683/april-2016-ranking-charts
 ---
@@ -9,15 +8,12 @@ tumblr_url: http://osunews.tumblr.com/post/144503836683/april-2016-ranking-chart
 Time went by pretty fast! One year ago, we started with giving individual community members the opportunity to select beatmaps for the Monthly Ranking Charts. For this occassion, we prepared a [spreadsheet full of statistics for you](https://docs.google.com/spreadsheets/d/1KIp8VROr59EuECLo5KXjnrcKaH4gQZZrkCGc6vTF8n8/edit?usp=sharing). There you can check the past Ranking Charts and interesting information about them: chosen maps, chart winners, selectors - all at one place! Do you want to have more information about the charts and have ideas what could be added to the overview? Tell us in the comments and we will consider it!
 
 With that being said, we are heading to the current Ranking Charts for April 2016 which have been released yesterday and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1604)!
-This month [Andrea](https://osu.ppy.sh/users/33599), [S a n d](https://osu.ppy.sh/users/676578), [Kingkevin30](https://osu.ppy.sh/users/564334) and [_underjoy](https://osu.ppy.sh/users/2235750) picked the maps for the Monthly Ranking Charts.
 
+This month [Andrea](https://osu.ppy.sh/users/33599), [S a n d](https://osu.ppy.sh/users/676578), [Kingkevin30](https://osu.ppy.sh/users/564334) and [_underjoy](https://osu.ppy.sh/users/2235750) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -72,9 +68,6 @@ challenging, making this beatmap a blast to play. Even though some jumps/pattern
 the beatmap still stays fun and gives a quite nice challenge. If you love to play jumpy beatmaps, this one is
 completely made for you! Don't miss this chance.
 
-
-
-
 ### osu!taiko
 
 For Taiko, we asked **[S a n d](https://osu.ppy.sh/users/676578)** about their favourite maps in April 2016.
@@ -102,9 +95,6 @@ Starting with the 1/6, none of them are miss placed or over mapped on purpose as
 + [senya - Yozakura ni Kimi o Kakushite](https://osu.ppy.sh/beatmapsets/365251) by [Surono](https://osu.ppy.sh/users/3611370)
 
 I was quite disappointed on the previous map set on this song because of how easy it was. But this time Surono has done a great job on making up the difficulty, but also with an amazing flow in kiai. The whole map has a very very very well created structure, the color combination is well fitting too. I wouldn't be surprised if I ever see this map on Taiko no Tatsujin arcade because of how nice of a rhythm this map has. A great map for beginner to practice with simple 1/6 reading in the first part, and in later section would be great for familiarizing with different color combination. Again, I have to compliment on how good of a structure this map has, great job Surono.
-
-
-
 
 ### osu!catch
 
@@ -134,9 +124,6 @@ Not only can this map boast for itself with a beautiful Storyboard, but also as 
 
 As one of the slower maps on my selection this map won't be a powerhouse or a big challange to players, but what it does essentially is to use the acoustic guitar and the background clapping to give it a coherent light hearted feeling. So if you're in need for a relaxing, fun mapset, then get comfy and enjoy.
 
-
-
-
 ### osu!mania
 
 For osu!mania, **[_underjoy](https://osu.ppy.sh/users/2235750)** was able to select their personal most noteworthy beatmap from last month.
@@ -165,13 +152,7 @@ Another 4K mapset in the Ranking Charts, Gekkou Ranbu is one of the more convent
 
 Ranked on 1st of April, this beatmap is NOT a joke! This mapset consists of only two 4K difficulties, Easy and Normal. The amazing song choice paired with natural, pleasant patterning resulted in a great map for beginners. It contains a great balance of everything an easy map should contain - single notes, doubles, long notes and steady rhythm. It's not flashy, because it doesn't need to be. Nothing else needs to be said about this beatmap, really fun and well-thought choice for beginners.
 
-
-
-
-
-
 **The April 2016 ranking charts will end on the 15th June 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

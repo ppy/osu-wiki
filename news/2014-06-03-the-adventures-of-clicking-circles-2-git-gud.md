@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The adventures of clicking circles #2 - Git gud!"
-permalink: http://osunews.tumblr.com/post/87727265753/the-adventures-of-clicking-circles-2-git-gud
 date: 2014-06-03 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/87727265753/the-adventures-of-clicking-circles-2-git-gud
 ---

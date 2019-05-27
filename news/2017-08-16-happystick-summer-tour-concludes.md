@@ -42,7 +42,6 @@ There, \_verto\_ selected [Igorrr - Unpleasant Sonata](https://osu.ppy.sh/beatma
 
 [View multiplayer match history for \_verto\_ vs Lee Jung Hyun](https://osu.ppy.sh/community/matches/35244291)
 
-
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
   
   

@@ -46,7 +46,8 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
-- [Livestream](https://www.twitch.tv/osuliveph)
+- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch](https://www.twitch.tv/osuliveph)
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
 ---
@@ -59,7 +60,15 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Mappools
 
-*Mappools will be revealed one week in advance of each stage.*
+### Qualifiers
+
+**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3)**
+
+- FreeMod
+  - [hirota - idea (Lenfried-) \[Afterthought\]](https://osu.ppy.sh/beatmapsets/977516#mania/2045910)
+  - [Tennyson - No Answer (ByeForNow) \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
+  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
+  - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
 ---
 
@@ -109,7 +118,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocols to follow.
   - **1st-4th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
-  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
+  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 25th to 32nd seed group. Players who win their matches in this stage will advance to the Group Stage.
   - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **25th-32nd seeds**: Players within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a player in this seed group. In particular, their opponent's seed will be `(57 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 5th to 8th seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 

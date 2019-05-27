@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! Monthly Fanart Contest #2 - Vote for MFC#1 now!"
-permalink: http://osunews.tumblr.com/post/84880595728/osu-monthly-fanart-contest-2-vote-for-mfc1
 date: 2014-05-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/84880595728/osu-monthly-fanart-contest-2-vote-for-mfc1
 ---

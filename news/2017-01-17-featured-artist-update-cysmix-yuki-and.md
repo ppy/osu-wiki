@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Featured Artist Update: cYsmix, yuki. and Helblinde"
-permalink: http://osunews.tumblr.com/post/155994951623/featured-artist-update-cysmix-yuki-and
 date: 2017-01-17 15:44:12 +0000
 tumblr_url: http://osunews.tumblr.com/post/155994951623/featured-artist-update-cysmix-yuki-and
 ---
 
 In our journey to continue feeding the creative mapping community of osu!, we have added **over twenty new tracks** to the Featured Artist catalog.
-<!-- more -->
 
 For those that aren't aware, the [Featured Artist catalog](https://osu.ppy.sh/beatmaps/artists) is a listing of artists who we are working with to bring a larger official library of songs to osu!, for use in tournaments, streaming and other events. Each one of these tracks has been selected by us for their mappability and provided to you - the mappers - in a pretimed template format for your convenience!
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Storyboard Showcase: Lia - Toki wo Kizamu Uta"
-permalink: http://osunews.tumblr.com/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta
 date: 2014-02-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta
 ---

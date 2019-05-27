@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Performance Ranking Maintenance"
-permalink: http://osunews.tumblr.com/post/73929298672/performance-ranking-maintenance
 date: 2014-01-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73929298672/performance-ranking-maintenance
 ---

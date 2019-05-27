@@ -33,7 +33,6 @@ The rules are as follows:
 * **If your entry has no additional assets (hitsounds, backgrounds, etc.), it MUST BE SUBMITTED AS A .osu file.**
 * **If your entry HAS additional assets such as storyboard assets, hitsounds, etc., it MUST BE SUBMITTED AS A .osz with a size NO LARGER THAN 20MB.** Accounting for the size of the track, you have roughly **16mb** of asset space available for use. Extensions may be granted upon request via forum PM to [Ephemeral](https://osu.ppy.sh/users/102335).
 
-
 Similar to the previous two Aspire Stages, **this contest will be judged by a combination of double-blind community voting and the opinions of an expert judging panel weighted equally against each other.** Make sure you appeal to our judges and give the community something to take notice of if you want to claim the prize! Remember that this is not an ordinary beatmapping contest, so get creative and use everything and anything at your disposal to stand out!
 
 After shortlisting the best and most innovative entries, we will aim to provide a livestream showcase alongside expert commentary from renowned and established osu!catch community members as well.

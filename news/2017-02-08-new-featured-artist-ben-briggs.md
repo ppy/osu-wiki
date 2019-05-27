@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "New Featured Artist: Ben Briggs"
-permalink: http://osunews.tumblr.com/post/156993953828/new-featured-artist-ben-briggs
 date: 2017-02-08 23:20:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/156993953828/new-featured-artist-ben-briggs
 ---
 
 Like video games? Like remixes? Like chiptunes? [**Ben Briggs**](https://osu.ppy.sh/beatmaps/artists/11), the newest osu!musician has you covered!
-<!-- more -->
 
 <a href="https://osu.ppy.sh/beatmaps/artists/11"><img src="https://assets.ppy.sh/artists/11/header.jpg"></a>
 

@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "osu!taiko Mascot Community Vote Results"
-permalink: http://osunews.tumblr.com/post/150724647363/osutaiko-mascot-community-vote-results
 date: 2016-09-21 12:34:32 +0000
 tumblr_url: http://osunews.tumblr.com/post/150724647363/osutaiko-mascot-community-vote-results
 ---
 
 Public voting for the new Taiko mascot has finished, and the votes are in. Come see the community's favorite picks while the staff deliberates over their choice!
-<!-- more -->
 
 With the voting finally closed, we've got a solid winner on our hands. We originally planned to only keep voting open for a few weeks, but after noticing the relatively small number of votes overall for something so important, we opted to advertise the voting more heavily in-game to entice people to vote.
 

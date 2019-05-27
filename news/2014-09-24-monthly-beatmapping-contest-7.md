@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #7"
-permalink: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
 ---

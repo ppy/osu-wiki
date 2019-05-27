@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! Taiko World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-registration-phase
 date: 2014-01-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-registration-phase
 ---

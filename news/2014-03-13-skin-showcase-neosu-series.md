@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Skin Showcase: NeOsu series"
-permalink: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 date: 2014-03-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 ---

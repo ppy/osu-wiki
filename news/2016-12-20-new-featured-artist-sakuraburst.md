@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "New Featured Artist: sakuraburst"
-permalink: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakuraburst
 date: 2016-12-20 14:46:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154721849303/new-featured-artist-sakuraburst
 ---
 
 Beatmaps explode across the dying horizon as the critically acclaimed experimental-electronica artist known as **sakuraburst** joins the ranks of the osu!musicians!
-<!-- more -->
 
 A forerunner among the experimental music community on Soundcloud, **sakuraburst**'s tracks have seen use in osu! by some of our most skilled mappers to create some incredible experiences. A unique fusion of glitch, melodic soundscapes, breakcore and winding, evocative synthlines, **sakuraburst**'s sound is as enigmatic as it is majestic.
 

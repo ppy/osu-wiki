@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Beatmap Spotlights: June 2017"
-permalink: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 date: 2017-08-02 01:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 ---
@@ -20,7 +19,6 @@ First of all, congratulations to the winners of the May 2017 Spotlights. They re
 + **osu!taiko:** [Quizmaegi](https://osu.ppy.sh/users/2228401)
 + **osu!catch:** [_Asriel](https://osu.ppy.sh/users/566276)
 + **osu!mania:** [Xcstasy](https://osu.ppy.sh/users/1306875)
-
 
 ## osu!
 

@@ -1,22 +1,18 @@
 ---
 layout: post
 title: "osu!weekly #92 (osu!mania 7K World Cup Results!)"
-permalink: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-world-cup-results
 date: 2017-02-14 07:25:28 +0000
 tumblr_url: http://osunews.tumblr.com/post/157226073513/osuweekly-92-osumania-7k-world-cup-results
 ---
 
 The osu!mania 7K World Cup has reached a very decided conclusion! In the community, people are making a splash by coming up with their own ways to imrpove your osu! lifestyle. Missed out on the carnage? Read on!
 
-<!-- more -->
-
 ![](https://puu.sh/nqIAS/05e726ece8.jpg)
 <table width="100%"><tr><td align="left"><a href="https://osu.ppy.sh/home/news/2017-02-08-osuweekly-91">Previous</a></td>
 <td align="right">Next</td>
 </tr></table>
 
-Weekly news
----------------------
+## Weekly news
 
 **From seemingly out of nowhere, Usin released a brand new (android only) [home screen widget](https://osu.ppy.sh/community/forums/topics/557002) to display osu profiles!** Featuring pleasant aesthetics and available in English or Korean, this handy little app promises to be a part of your new daily drive. If you, like me, like to remind yourself every time you check twitter how great you are at the game, head on over to the thread to find out how you can give it a try!
 
@@ -28,8 +24,7 @@ Weekly news
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE5vmzVi7t8" frameborder="0" allowfullscreen></iframe>
 
-Scorewatch: February Week 2 (With Scorewatch Patrol)
----------------------
+## Scorewatch: February Week 2 (With Scorewatch Patrol)
 
 [[Toy]s our boy](https://osu.ppy.sh/users/4650315) managed to reverse choke [DragonForce - Defenders](https://osu.ppy.sh/beatmaps/718156?m=0) with a HR 98.41% 2427 max combo play, setting a 593pp score. This basically meant he lost about 72pp, which is absolutely heart breaking, but a very impressive score nonetheless. Only 3 players have managed a better HR accuracy than him, and 2 have a higher pp score. Check it out, it's nuts.
 
@@ -61,8 +56,8 @@ Somewhere, far and deep into the osu! scores, [Tasha](https://osu.ppy.sh/users/1
 
 [Zyph](https://osu.ppy.sh/users/1600432) broke the speed barrier (kinda?) with a 99.93% FC on the 263BPM Loved [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/335798).
 
-osu!mania 7K World Cup: And then there were 2
----------------------
+## osu!mania 7K World Cup: And then there were 2
+
 The osu!mania 7K world cup scene has been commanded confidently by Team China since the return of competitive 7 key to our repertoire of yearly tournaments. The former champions, South Korea, has been edging to get another shot at taking down the superpower to reclaim their title as the country home to the greatest 7K players ever known.
 
 In line with a series of domineering performances given out by the South Korean team, it looks like Team China will be vacating the throne as champions of keyboard grinding for a new king!

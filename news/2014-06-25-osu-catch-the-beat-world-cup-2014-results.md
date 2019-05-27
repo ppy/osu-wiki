@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! Catch the Beat World Cup 2014 - Results"
-permalink: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-cup-2014-results
 date: 2014-06-25 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-cup-2014-results
 ---

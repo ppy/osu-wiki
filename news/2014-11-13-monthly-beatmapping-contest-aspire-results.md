@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: Aspire Results!"
-permalink: http://osunews.tumblr.com/post/102534475143/monthly-beatmapping-contest-aspire-results
 date: 2014-11-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102534475143/monthly-beatmapping-contest-aspire-results
 ---

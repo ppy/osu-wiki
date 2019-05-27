@@ -1,19 +1,15 @@
 ---
 layout: post
 title: "August 2016 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/151558446353/august-2016-ranking-charts
 date: 2016-10-09 12:28:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/151558446353/august-2016-ranking-charts
 ---
 
 The Ranking Charts for August 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart/?ch=MONTH1608)! As we are still searching for more volunteers to help out with preparing future monthly ranking charts, their appearance has to wait for just a little longer. Stay tuned!
-<!-- more -->
 
 ## Ranking Charts Creation
 
 The charts have [previously](https://osu.ppy.sh/news/150551685358) been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -40,7 +36,6 @@ It's sometimes a struggle to express a song with so many distinct sounds, but th
 + [gya9 - Midnight Riders (kamome sano remix)](https://osu.ppy.sh/beatmapsets/473364) by [ProfessionalBox](https://osu.ppy.sh/users/3250792) (Nominator: [handsome](https://osu.ppy.sh/users/2123087))
 
 ProfessionalBox brings out much of the song's intensity with a modern mapping style. Masterfully executed slider patterns, smooth streams and fluid jumps give this map a solid spot in this month's charts.
-
 
 ### osu!taiko
 
@@ -70,7 +65,6 @@ A very challenging map with complex 1/4 pattern alongside with 1/6. The intro ha
 
 You know a beatmap it's good when the feeling you got from playing it gets ingrained in you for a long time, and it's the case with this map. Despite its simple looks, the way the map is built is an invitation to have a really fun time, as it's well structured and follows the song nicely, two crucial things we can ask from a beatmap. All this combined with a soothing yet powerful song awaits for you, be sure you don't miss any of those drumroll bonus points!
 
-
 ### osu!catch
 
 + **[Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express](https://osu.ppy.sh/beatmapsets/228539) by [Spectator](https://osu.ppy.sh/users/702598)** (Nominator: [Chara](https://osu.ppy.sh/users/829284))
@@ -96,8 +90,6 @@ This set is quite a refreshing surprise to see as most maps these days that are 
 + [Venetian Snares - She Runs](https://osu.ppy.sh/beatmapsets/319890) by [fergas](https://osu.ppy.sh/users/3144542) (Nominator: [Zak](https://osu.ppy.sh/users/1375955))
 
 Here's a map from fergas who's already known for mapping a couple other great Venetian Snares tracks, and this one is no exception! With fast and dense streams you'll see your combo climbing fast but there's many tricky patterns to keep you on your toes all the way through. I found this to be one of the more enjoyable marathon difficulties hitting the ranked section lately, and hope to see others enjoy it as well.
-
-
 
 ### osu!mania
 
@@ -125,10 +117,7 @@ I especially love the patterns how they flow. Even though people judge it as an 
 
 Pretty challenging beatmap, especially the highest difficulty. Very dense jumpstream and high OD require pretty accurate play. Also pretty stamina draining.
 
-
-
 **The August 2016 ranking charts will end on the 30th October 2016.**
-
 
 ## Past Ranking Charts results
 

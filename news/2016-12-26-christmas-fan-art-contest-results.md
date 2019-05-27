@@ -1,14 +1,11 @@
 ---
 layout: post
 title: "Christmas Fan Art Contest Results"
-permalink: http://osunews.tumblr.com/post/154971345623/christmas-fan-art-contest-results
 date: 2016-12-26 08:40:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/154971345623/christmas-fan-art-contest-results
 ---
 
 In perhaps the closest voting in any of our Fan Art contests ever, the results are finally out for the amazing Christmas-themed entries!
-
-<!-- more -->
 
 Some [absolutely incredible entries](https://osu.ppy.sh/community/contests/36) came in from some of our amazingly talented community artists this time - so much so that three votes simply didn't seem like enough to give credit where credit is due! Nonetheless, hundreds of people agonized over their choices and made the top three winners known:
 
@@ -49,7 +46,6 @@ We also featured the work of a number of very talented artists for the main-menu
 
 <a href="https://assets.ppy.sh/user-contest-entries/1014/ff8d6a86acd521cbb66e7b2db49625c570646661521efd2d95be9d33945888ed.png"><img src="https://puu.sh/t1lcT/5db4595bdc.jpg"></a>
 [tobiaszsmyrak](https://osu.ppy.sh/users/501186)'s wonderfully unique style showing the main mascots at play in the snow - with a pippidon snowman.
-
 
 We had so many incredible entries this time! Thank you to everybody who submitted an entry and also to those who voted. Winners will receive their prizes very shortly.
 

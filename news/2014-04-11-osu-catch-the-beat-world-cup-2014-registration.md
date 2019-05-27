@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu! Catch the Beat World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-cup-2014-registration
 date: 2014-04-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-cup-2014-registration
 ---

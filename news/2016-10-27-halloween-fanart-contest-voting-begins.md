@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Halloween Fanart Contest Voting Begins!"
-permalink: http://osunews.tumblr.com/post/152378031248/halloween-fanart-contest-voting-begins
 date: 2016-10-27 12:41:42 +0000
 tumblr_url: http://osunews.tumblr.com/post/152378031248/halloween-fanart-contest-voting-begins
 ---
 
 The submissions have closed, and the voting is now open. There's been some excellent entries this time around, so come and take a look!
-<!-- more -->
 
 We've got a number of incredible entries from our amazingly talented community artists, and we need your help to determine which ones get shown on the game's main menu during our upcoming Halloween event! Everybody gets **three** votes to choose their favourite entries, so make them count.
 

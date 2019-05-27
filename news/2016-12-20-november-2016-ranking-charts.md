@@ -1,20 +1,15 @@
 ---
 layout: post
 title: "November 2016 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/154735514953/november-2016-ranking-charts
 date: 2016-12-20 21:41:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/154735514953/november-2016-ranking-charts
 ---
 
 The Ranking Charts for November 2016 have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1611)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-<!-- more -->
-
 ## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -44,7 +39,6 @@ The 'Extra' captures the complexity of the song perfectly by using various conce
 
 With all 6 difficulties done solo, Kalindraz' first ranked mapset is really a cut above a regular 'first ranked'. Throughout the whole set, a clear geometric and symmetric design can be distinguished, making the set feel clean and cohesive. Although the rhythms expressed in the song might be somewhat difficult to represent, Kalindraz has done it well, with intuitive implementation from Easy all the way to Oberum Primus. A fitting entry in this month's charts.
 
-
 ### osu!taiko
 
 + **[LeaF - Alice in Misanthrope -Ensei Alice-](https://osu.ppy.sh/beatmapsets/523315) by [S a n d](https://osu.ppy.sh/users/676578)** (Nominator: [Ntiger](https://osu.ppy.sh/users/1910766))
@@ -70,7 +64,6 @@ I find this beatmap to be very appealing due to its overall consistent structure
 + [Chiyoko - Baby Fantastic!(Epsilon Remix)](https://osu.ppy.sh/beatmapsets/496210) by [Charlotte](https://osu.ppy.sh/users/3686901) (Nominator: [OnosakiHito](https://osu.ppy.sh/users/290128))
 
 It seems like I found my inner lolicon in me as I'm somehow found of this song. But beside that, I think this beatmap offers a good disparity between harder and easier, but also denser and less denser patterns which makes the beatmap feel more lively. One may argue about certain 1/6, but for me it was enough to enter current charts as they seem to be easy to comprehent on such low BPM.
-
 
 ### osu!catch
 
@@ -98,8 +91,6 @@ This map was recently featured in the mappool for the osu!standard World Cup, an
 
 For those of you who loved CLSW's Endless Tears mapset and wanted some sort of a sequel, then here it is! This single-difficulty marathon map features low-bpm 1/4 patterns that make it harder than the usual osu!catch Rain difficulty. With the changes of flow complimenting the tone of the music, this map is quite fun and challenging for the player. The length also provides some sort of strain, and this just adds to its difficulty. Goodbyes are painful indeed.
 
-
-
 ### osu!mania
 
 + **[DragonForce - The Warrior Inside](https://osu.ppy.sh/beatmapsets/330405) by [_underjoy](https://osu.ppy.sh/users/2235750)** (Nominator: [Jinjin](https://osu.ppy.sh/users/3360737))
@@ -126,10 +117,7 @@ I'm very happy with the maps that Fresh Chicken has been pushing for rank recent
 
 da whooshiaq strikes again! This time with a very fast (259 BPM!) song from Noah. This set is really nicely structured starting from the basics and going up to a 5,4* difficulty, which despite the song being fast, manages to be pretty comfortable to play. The set is a great combination of speed and friendly patterning that's not boring in any case.
 
-
-
 **The November 2016 ranking charts will end on the 15th January 2017.**
-
 
 ## Past Ranking Charts results
 
