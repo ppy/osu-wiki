@@ -83,12 +83,12 @@ function lineAtIndex(string, index) {
     let lineNumber = 1;
     let position = 0;
 
-    string.split('\n').forEach(line => {
+    for (line of string.split('\n')) {
         if ((position += line.length + 1) > index)
             return lineNumber;
 
         ++lineNumber;
-    });
+    }
 
     return lineNumber;
 }
