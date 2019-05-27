@@ -25,7 +25,7 @@ function rule_1_boundaryWhitesapce(content, log) {
 }
 
 function attachMeta(content, meta) {
-    return (meta === null ? '' : meta + '\n') + content;
+    return (meta === null ? '' : meta + '\n\n') + content;
 }
 
 function detachMeta(content) {
@@ -34,10 +34,10 @@ function detachMeta(content) {
     if (metaStartMatch === null)
         return [content, null];
 
-    const metaEndIndex = content.indexOf('---\n', metaStartMatch[0].length);
+    const metaEndIndex = content.indexOf('---\n\n', metaStartMatch[0].length);
 
     return [
-        content.substring(metaEndIndex + 4),
+        content.substring(metaEndIndex + 5),
         content.substring(0, metaEndIndex + 3)
     ];
 }
