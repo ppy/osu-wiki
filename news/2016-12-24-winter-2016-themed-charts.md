@@ -4,16 +4,14 @@ title: "Winter 2016 Themed Charts"
 date: 2016-12-24 13:31:35 +0000
 tumblr_url: http://osunews.tumblr.com/post/154892286088/winter-2016-themed-charts
 ---
-Greetings everyone! We hope all of you have a wonderful Christmas today and celebrate it with the ones you love. For this special day, the Quality Assurance Team and the volunteers for the Ranking Charts prepared a winter themed chart for those who feel like only presents are just not enough. Let's spread some cosy feelings at this special day by clicking those circles; bashing these faces; catching those fruits and go octopus-mode with the squares!
 
-<!-- more -->
+Greetings everyone! We hope all of you have a wonderful Christmas today and celebrate it with the ones you love. For this special day, the Quality Assurance Team and the volunteers for the Ranking Charts prepared a winter themed chart for those who feel like only presents are just not enough. Let's spread some cosy feelings at this special day by clicking those circles; bashing these faces; catching those fruits and go octopus-mode with the squares!
 
 With that said, the Winter Themed Charts have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=WINCH16), containing this time 8 beatmaps! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy winter / christmas themed maps of the last years.
-
 
 ### osu!
 

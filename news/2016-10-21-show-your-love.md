@@ -4,8 +4,8 @@ title: "Show Your Love!"
 date: 2016-10-21 10:59:18 +0000
 tumblr_url: http://osunews.tumblr.com/post/152109048933/show-your-love
 ---
+
 As we enter the second phase of our Loved state testing, get ready to cast your vote for the next set of maps to enter the category!
-<!-- more -->
 
 ![](https://puu.sh/rLQPQ/316c9445f3.png)
 

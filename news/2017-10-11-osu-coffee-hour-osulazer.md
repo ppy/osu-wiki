@@ -8,7 +8,6 @@ The osu! Coffee Hour is back again for another sitting, this time showcasing one
 
 [![](/wiki/shared/news/banners/coffee-hour.jpg)](http://itsalmo.st/#osulazershowcasetime)
 
-
 ## This week's theme
 
 This week is all about **osu!lazer**, the project responsible for osu!'s next big step forward.

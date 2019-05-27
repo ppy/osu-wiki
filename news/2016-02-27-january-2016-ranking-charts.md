@@ -4,16 +4,14 @@ title: "January 2016 Ranking Charts"
 date: 2016-02-27 00:55:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/140057371308/january-2016-ranking-charts
 ---
-The Ranking Charts for January 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1601)!
-This month [ByBy13](https://osu.ppy.sh/users/3436326), [mintong89](https://osu.ppy.sh/users/966210), [ZiRoX](https://osu.ppy.sh/users/200768) and [Feerum](https://osu.ppy.sh/users/4815717) picked the maps for the Monthly Ranking Charts.
 
+The Ranking Charts for January 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1601)!
+
+This month [ByBy13](https://osu.ppy.sh/users/3436326), [mintong89](https://osu.ppy.sh/users/966210), [ZiRoX](https://osu.ppy.sh/users/200768) and [Feerum](https://osu.ppy.sh/users/4815717) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -43,13 +41,9 @@ A calm and slow song, yet, a great mapset in my point of view. One might feel li
 
 Another Touhou Project song from Kite! Honestly said, the hardest difficulty, Serenity, really impressed me. The reason for this is the structure of patterns and the aesthetics the map provides. Moreover, in a more specific way, I really love how the stacks were placed. Additionally I would like to mention, that in my opinion the guest difficulties are regarding their patterns and structure, great too. There is nothing else I have to say here. A great mapset which really deserves to be in this list!
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[mintong89](https://osu.ppy.sh/users/966210)** about their favourite maps in January 2016.
-
 
 + **[MikitoP - Akaito](https://osu.ppy.sh/beatmapsets/361462) by [EdamaMe411](https://osu.ppy.sh/users/4270973)**
 
@@ -74,9 +68,6 @@ Might sound crazy that I choose this beatmap for the Ranking Charts, but I had t
 + [DragonForce - Defenders](https://osu.ppy.sh/beatmapsets/375447) by [Raiden](https://osu.ppy.sh/users/2239480)
 
 Last but not least, I choose this map for the Charts. It suits to those who want pure and straight flow. The map is well mapped and the song is great, which makes the map worth to try!
-
-
-
 
 ### Catch the Beat
 
@@ -105,9 +96,6 @@ Here we have an interesting convert marathon mapset, consisting of 2 diffs! Both
 + [MY FIRST STORY - Itsuwari NEUROSE](https://osu.ppy.sh/beatmapsets/365963) by [Saut](https://osu.ppy.sh/users/3799202)
 
 When I first heard this, it reminded me a lot of ONE OK ROCK, and it turned out both vocalists are brothers. Trivia stuff aside, the 7 difficulties from this mapset provide a difficulty for every CtB player out there: Easy, Normal and Hard difficulties will appeal Cup and Salad players, while the Insane and Broccoly's Extra will feel adequate for Platter and Rain players, respectively. Jommy's Extreme and the Madness diff exploit the song's rhythm to the last, making for interesting and challenging patterns, recommended for top players.
-
-
-
 
 ### osu!mania
 
@@ -139,11 +127,7 @@ What would be the charts without more anti-meta mapsets? victorica_db chose a ni
 
 I had the feeling I had to choose at least one opening map for the charts! And here we are. With nao as the artist I also chose one of my favorite artists and not enough, also from my favorite game! The map is a 4K mapset with difficulties from Novice to an Insane difficulty. The patterns are well chosen here. While the Novice and Medium have more basic patterns like chords, short bursts and well placed long notes, the Advance and Extreme have a lot of chord mash and chordtrills rounded with well placed long notes to the guitar! Overall it's an really well mapped chart and Critical_Star did a really good job here.
 
-
-
-
 **The January 2016 ranking charts will end on the 15th March 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

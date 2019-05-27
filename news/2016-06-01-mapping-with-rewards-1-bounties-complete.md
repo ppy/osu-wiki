@@ -4,8 +4,8 @@ title: "Mapping With Rewards #1 - Bounties Complete!"
 date: 2016-06-01 16:03:54 +0000
 tumblr_url: http://osunews.tumblr.com/post/145260581333/mapping-with-rewards-1-bounties-complete
 ---
+
 It's been a long time coming, but our first ever set of mapping bounties have been awarded. Come see the three newest maps to be added to the game client!
-<!-- more -->
 
 ![](https://puu.sh/oTUtZ/f744bd40e5.jpg)
 
@@ -24,7 +24,6 @@ Manic: [monstrata's rendition](https://osu.ppy.sh/beatmapsets/361175)
 House With Legs: [alacat's rendition](https://osu.ppy.sh/beatmapsets/360680)
 
 Dovregubben's Hall: [Guy's rendition](https://osu.ppy.sh/beatmapsets/360950)
-
 
 Each of these maps will be bundled with the game client for an indeterminate period of time. [monstrata](https://osu.ppy.sh/users/2706438), [alacat](https://osu.ppy.sh/users/869782#osu) and [Guy](https://osu.ppy.sh/users/91738) will all receive **$50 in osu!store credit, 6 months of osu!supporter, and a unique profile badge** for their effort.
 

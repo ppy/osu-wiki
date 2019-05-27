@@ -3,6 +3,7 @@ layout: post
 title: "Aspire Stage Three: osu!catch Begins"
 date: 2017-09-21 22:00:00 +0100
 ---
+
 With the osu! and osu!taiko communities flexing their creative muscles in the past two Aspire contests, the time is ripe for the fruit-catchers to take the spotlight, to the sound our very own Featured Artist, **OISHII**!
 
 ![](/wiki/shared/news/banners/osu_catch.png)
@@ -31,7 +32,6 @@ The rules are as follows:
 * The drain time of your entry must be at least 70% of the song's total length.
 * **If your entry has no additional assets (hitsounds, backgrounds, etc.), it MUST BE SUBMITTED AS A .osu file.**
 * **If your entry HAS additional assets such as storyboard assets, hitsounds, etc., it MUST BE SUBMITTED AS A .osz with a size NO LARGER THAN 20MB.** Accounting for the size of the track, you have roughly **16mb** of asset space available for use. Extensions may be granted upon request via forum PM to [Ephemeral](https://osu.ppy.sh/users/102335).
-
 
 Similar to the previous two Aspire Stages, **this contest will be judged by a combination of double-blind community voting and the opinions of an expert judging panel weighted equally against each other.** Make sure you appeal to our judges and give the community something to take notice of if you want to claim the prize! Remember that this is not an ordinary beatmapping contest, so get creative and use everything and anything at your disposal to stand out!
 

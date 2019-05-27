@@ -4,6 +4,7 @@ title: "osu!mania 4K World Cup 2015 - Registrations open!"
 date: 2015-07-12 19:44:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/123912240253/osumania-4k-world-cup-2015-registrations-open
 ---
+
 We'd like to welcome all of you to this year's official osu!mania 4K World Cup. We have split the 4K and 7K brackets of the MWC into two seperated tournaments and start with the 4K tournament. However, the rules have been adjusted from the previous MWC, so please [read them carefully ](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#ruleset) before registering for this tournament.
 
 ![](/wiki/shared/news/banners/MWC_2015.png)
@@ -32,7 +33,6 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 + We adjusted the winning conditions on every Stage.
 + We have implemented a new 'veto' rule, replacing the previous beatmap picking restrictions.
 + The limitations of exchanging players have been removed. You can exchange players freely now.
-
 
 ## Prizes
 

@@ -4,6 +4,7 @@ title: "osu! community contributors"
 date: 2013-08-08 09:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/59476410622/osu-community-contributors
 ---
+
 Over the past four years, osu!'s community has grown dramatically. Many users from places all over the world and from all walks of life have come together from a common love of rhythm.
 
 A few distinct individuals have taken it upon themselves to provide service to the osu! community at great cost to themselves - tools and features that many of us take for granted today. In light of this, a new profile badge distinction has been created, awarded only to those who have gone above and beyond their peers in contributing to our wonderful community.

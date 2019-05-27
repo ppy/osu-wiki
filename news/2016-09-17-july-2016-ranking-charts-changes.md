@@ -4,8 +4,8 @@ title: "July 2016 Ranking Charts - Changes"
 date: 2016-09-17 20:35:03 +0000
 tumblr_url: http://osunews.tumblr.com/post/150551685358/july-2016-ranking-charts-changes
 ---
+
 It's been a year since we introduced the new evaluation system for the charts by letting four dedicated community members select the most noteworthy maps of a month which has proven to have its pros and cons. But at the end we decided to change the way of selection once again to a more staff driven system, lead by the Quality Assurance Team alongside chosen community members who are interested in volunteering for these kind of tasks.
-<!-- more -->
 
 Followed by the change of people who are from now on attached to the charts, we are also having plans in how the future charts might look like which you can read on about in the [official development blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting).
 
@@ -14,7 +14,6 @@ With thanking everyone who have put efforts in chosing the past charts, we are n
 ## Ranking Charts Creation
 
 The charts have previously been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
 
 
 ### osu!
@@ -43,7 +42,6 @@ This entire set contains really straight forward and clean mapping across all di
 
 The higher part of this set, especially the Aether difficulty utilise interesting stream mapping techniques. It sticks to mapping the 1/6 piano with repeating sliders when it is in focus so the streams end up not being too demanding on stamina while still being interesting to play. For the part of the song which doesn't need streams it makes use of symmetry-based patterning which makes for an overall fun experience to play this diff. N/A's Another is a different take on the song and simplifies some of the 1/6 to 1/4 (and maps the constant hihat layer for that matter) for playability reasons while it manages to stay relevant overall. The Insane and lower half of the set is similar to the Aether difficulty in terms of symmetric patterning, and most of them end up on the more dense side of their respective difficulty levels, which may make progression through this set a bit more challenging even though the execution of these difficulties is fitting for something that ends up in charts.
 
-
 ### osu!taiko
 
 + **[t+pazolite - Candy Crack Curtain Call](https://osu.ppy.sh/beatmapsets/237272) by [tasuke912](https://osu.ppy.sh/users/2774767)** (Nominator: [OnosakiHito](https://osu.ppy.sh/users/290128))
@@ -69,7 +67,6 @@ I'm surprised how well made this beatmap is considering the mapper isn't known t
 + [Aimer with chelly (EGOIST) - ninelie (TV size)](https://osu.ppy.sh/beatmapsets/444285) by [qoot8123](https://osu.ppy.sh/users/766371) (Nominator: [DakeDekaane](https://osu.ppy.sh/users/1425253))
 
 This beatmap may look simple, but it's notable for its solid structure. It reflects accurately the changes in the song pace (getting more dense as the song reaches its climax), making it a good experience while playing. Also, we rarely have new calm and clean maps to play, so this is worth pointing out.
-
 
 ### osu!catch
 
@@ -97,8 +94,6 @@ Both the longest and calmest map in the selection this month, I find this map to
 
 I choose this because it provides a full difficulty spread which satisfies players of all levels. The Expert level has a very good choice of approach rate which is good for those who can not handle the really high ones. If someone feels the patterns in Expert too much, the Another difficulty provides a good easier difficulty. While none of the Hards could be compared with the similar level of difficulty in osu!catch, they still play very well - Hyper even has some jumps where really good timing is required.
 
-
-
 ### osu!mania
 
 + **[gmtn. (witch's slave) - furioso melodia](https://osu.ppy.sh/beatmapsets/307371) by [Harbyter](https://osu.ppy.sh/users/1147679)** (Nominator: [Blocko](https://osu.ppy.sh/users/4075092))
@@ -125,10 +120,7 @@ Nice snapping usage and layering in this set. This song may seem calm due to its
 
 When listening to a song like this, words like 'extreme, intense and powerful' often come to mind. That said, this map is just like what's described. The patterns in higher difficulties go more extreme with this aspect using unusually-patterned bursts that are very tricky to go through. Nevertheless, this mapset has a full spread of difficulties that lets a vast majority of players to experience the song's intensity along with the chart.
 
-
-
 **The July 2016 ranking charts will end on the 5th October 2016.**
-
 
 ## Past Ranking Charts results
 

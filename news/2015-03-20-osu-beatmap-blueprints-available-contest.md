@@ -4,6 +4,7 @@ title: "osu! Beatmap Blueprints Available & Contest Details"
 date: 2015-03-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-available-contest
 ---
+
 Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)... [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
 
 ![](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/stickers.jpg)

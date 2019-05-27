@@ -4,16 +4,14 @@ title: "October 2015 Ranking Charts"
 date: 2015-11-26 13:55:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/133993037128/october-2015-ranking-charts
 ---
-Hello everyone and sorry for the late announcement! The Ranking Charts for October 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=1510)!
-This month [Priti](https://osu.ppy.sh/users/2198472), [SKSalt](https://osu.ppy.sh/users/3280542), [- Magic Bomb -](https://osu.ppy.sh/users/3071175) and [ExUsagi](https://osu.ppy.sh/users/3027421) picked the maps for the Monthly Ranking Charts.
 
+Hello everyone and sorry for the late announcement! The Ranking Charts for October 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=1510)!
+
+This month [Priti](https://osu.ppy.sh/users/2198472), [SKSalt](https://osu.ppy.sh/users/3280542), [- Magic Bomb -](https://osu.ppy.sh/users/3071175) and [ExUsagi](https://osu.ppy.sh/users/3027421) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -43,13 +41,9 @@ Yet again, a map that isn't so difficult, but it has a special place in my heart
 
 I usually dislike DnB maps due to them being generally boring and unoriginal, but this one kinda broke the myth for me. True, this isn't the new 8bit princess, But it is pretty interesting. The composition has unique spacing and flow that usually isn't seen in such songs. While keeping the main concepts of DnB maps, being solid movement throughout the map, not overly complex patterns and pleasant hitsounding that doesn't override the music, this map is a whole lot of fun! This map made its place into this list by honor considering that it's something that I usually dislike.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[SKSalt](https://osu.ppy.sh/users/3280542)** about their favourite maps in October 2015.
-
 
 + **[xi - ANiMA](https://osu.ppy.sh/beatmapsets/326029) by [tasuke912](https://osu.ppy.sh/users/2774767)**
 
@@ -71,13 +65,9 @@ This song is long compared to the others. It's over 4 minutes, but you'll never 
 
 This song is a famous japanese anime song and its mapset contains all modes. You are able to enjoy the melody even if you don't know the song yet, so I think, overall the maps are very well made. It is a good chance to start playing Taiko, so let's enjoy it!
 
-
 + [Renard - Bumblefuck](https://osu.ppy.sh/beatmapsets/243045) by [Lost The Lights](https://osu.ppy.sh/users/1255920)
 
 I chose this mapset as the last one, mapped by Lost The Lights. The high BPM is common for Renard and because of this, it makes the mapset hard. I love the usage of finishers in the Collab Inner Oni difficulty. The last 1/6 pattern is like hell and makes me crazy! Let's try to get a S rank!
-
-
-
 
 ### Catch the Beat
 
@@ -107,9 +97,6 @@ A well known song, that I can assume had a place in a lot of osu player's childh
 
 Another convert map of another amazing song, this map by Bakari is a very fun convert. The way jumps are used plays very well in CtB, with a layer of fun difficulty there. Techno music has a way of always being interesting to play after being converted due to the fast and upbeat nature combined with the seemingly random nature of converted maps, which leads to some very fun movements, and difficult jumps. Bakari mapped all 5 difficulties for this set, each of them being good for the player they're aimed at, even after being converted.
 
-
-
-
 ### osu!mania
 
 For osu!mania, **[ExUsagi](https://osu.ppy.sh/users/3027421)** was able to select their personal most noteworthy beatmap from last month.
@@ -133,27 +120,20 @@ Everytime you see a song by xi in the ranked beatmaps with over 190BPM, you bett
 The second xi song I picked for this month. Just like ANiMA, you better prepare your fingers to play a 202 BPM streamy map that would be considered really difficult, due to the 1/8 long stream. Get stuck in Extra? Play the easier difficulty first.
 The note chart layering is focused on the rhythm of the piano sounds and the upbeat percussion. Zan - did a great job to represent the climax of the song through his 4K mapset, each difficulty guides you through to travel the rhythm so high, over the top!
 
-
 + [sakuzyo - Imprinting](https://osu.ppy.sh/beatmapsets/318277) by [KawaEE](https://osu.ppy.sh/users/4647754)
 
 Simple and super solid N H I set, sakuzyo brings you another catchy song, while KawaEE brings you a great 7K mapset along with it. The difficulty gap is designed great for such small set, and as always, KawaEE did a great job on hitsounding the note chart, and placing the notes and long notes in a catchy way to represent the music. Try this 7K, and as KawaEE said, get your implant!
 
-
 + [44teru-k remixed wa. - Isetsu Higanbana Daini -Shuusei no Lycoris-](https://osu.ppy.sh/beatmapsets/235278) by [liaoxingyao](https://osu.ppy.sh/users/3620963)
 
 The secondnd set with simple and solid N H I in 4K. liaoxingyao and SanadaYukimura made a well-done mapset that deserves a spot for this monthly chart. For the note chart itself, all patterns in each difficulty fits along with the violin, 1/4  piano and percussion rhythm. To get a full combo in Another difficulty might be a little tricky because, some part become heavier with the 1/8 pattern. Overall, it plays really smooth and has great flow. Also personally speaking, playing the Another difficulty is so pleasing and fun.
-
 
 + [Erio o Kamattechan - os-Uchuujin(Asterisk Makina Remix)](https://osu.ppy.sh/beatmapsets/338762) by [Frim4503](https://osu.ppy.sh/users/2945775)
 
 Ayyy, a catchy song from Asterisk made into a 5k marathon.
 Yes! A marathon! In 5K! For 5K lovers! Frim4503 managed to create another impressive, fun, & "Greget" 5K map. In this marathon you will find a light usage of patterns that are relatively easy to execute, but which can be still quiet a challenge for rookie and medicore players. The note chart is mainly focuses on the synthesizer and the Drum'n'Bass percussion throughout the song in a fresh way, so it's worth to try 5K maps sometimes.
 
-
-
-
 **The October 2015 ranking charts will end on the 15th December 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

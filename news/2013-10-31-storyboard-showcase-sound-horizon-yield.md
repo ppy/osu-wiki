@@ -4,6 +4,7 @@ title: "Storyboard Showcase: Sound Horizon - Yield"
 date: 2014-10-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/65571250251/storyboard-showcase-sound-horizon-yield
 ---
+
 This week's storyboard highlight is a little bit different than the ones in weeks past - read on to find out how!
 
 For the previous highlights, I have picked maps that were popularly suggested via form submission as a good gauge of what the community thinks are great storyboards. This pick, however, is quite the other way around, in that there was not a single submission suggesting this map! Since the weekly storyboard showcase is all about helping osu! discover great storyboards, I feel that picking a particularly unknown map once in a while will maximize the reach and effectiveness of the showcase :).

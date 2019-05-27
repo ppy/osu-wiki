@@ -4,16 +4,14 @@ title: "March 2016 Ranking Charts"
 date: 2016-04-26 22:44:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/143450713603/march-2016-ranking-charts
 ---
-With some delay, the Ranking Charts for March 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1603)!
-This month [TicClick](https://osu.ppy.sh/users/672931), [DakeDekaane](https://osu.ppy.sh/users/1425253), [Spectator](https://osu.ppy.sh/users/702598) and [Evening](https://osu.ppy.sh/users/2193881) picked the maps for the Monthly Ranking Charts.
 
+With some delay, the Ranking Charts for March 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1603)!
+
+This month [TicClick](https://osu.ppy.sh/users/672931), [DakeDekaane](https://osu.ppy.sh/users/1425253), [Spectator](https://osu.ppy.sh/users/702598) and [Evening](https://osu.ppy.sh/users/2193881) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -23,35 +21,27 @@ For osu!, we decided to let **[TicClick](https://osu.ppy.sh/users/672931)** pick
 
 A brilliant map that fits this melancholic, yet dynamic song. Swaying from side to side, going in circles, rising and diving, living our everyday lives, we make our way through the map and its perfectly done structure, where not a single slider is misplaced: they all work together, and work well. The mapper (both mappers, actually. Don't forget the guest, Giralda!) made the right choice - that still impressed me - of using offbeat sliders on the kiai sections, and the other thing I absolutely loved is usage of pairs of 3/4th + 1/2nd sliders spaced out; these two things reflect the vocal line with its countless accents impressively accurately. Oh, and he picked just the right background with its monochromatic lifelessness, which outlines the overall impression, reminding how unavoidable routine is and inclining you to simply accept it.
 
-
 + [Nekomata Master - Avalon no Oka](https://osu.ppy.sh/beatmapsets/317538) by [moph](https://osu.ppy.sh/users/2233878)
 
 Amazing, really. During the play I couldn't help but feel like I was flying, as if my cursor has gotten into a stream of air, which whirls and swirls it on every occasion like a leaf, sometimes driving it into a random stack of notes and stopping, but only to continue its rapid flow. It's one of good, no, great examples of how 1/3 songs should be mapped! Not to mention custom finisher, which pounds loudly, adding a bit of primal vibe to the journey.
-
 
 + [BoA - Lookbook](https://osu.ppy.sh/beatmapsets/379890) by [Irreversible](https://osu.ppy.sh/users/1287964)
 
 "I know you're checking me out", this map would say, together with BoA, if it was able to talk. While familiarizing everyone with K/J-pop, Irreversible keeps producing high quality maps, and there's no way anyone could stop him! The new masterpiece, "Lookbook", tightly follows vocals, resonating with my feelings and vision of the song, toying around with kiai flashes and adjusting itself on-the-fly with speed changes to go hand in hand with every accented syllable - all to impress a player, and I have to say it succeeds! Ah yeah, you should definitely try it, even if you're not a huge fan of pop.
 
-
 + [DM vs. POCKET - uNDeRWoRLD MoNaRCHy](https://osu.ppy.sh/beatmapsets/412938) by [Charles445](https://osu.ppy.sh/users/85000)
 
 Such a spectacular map, and not only because of its awesome, thoroughly crafted colourful storyboard, which shows you a couple of exciting ways to die in this western danmaku, but also due to its well-thought-out pattern system. During his years of mapping, Charles has developed a simple and unique way of laying things out on the grid, his mapping signature, one could say, and it matches the song really well. Hell, it even has ~that~ Freestyler part, thanks to the fellow composer! Realizing it's still not enough, Charles went ahead and added a good load of perfectly matching hitsounds: all sorts of snares, kicks, oh hey, I think I also heard bits of piano. All in all, it's really a great marathon, and were I an Undertale fan, I'd give this my heart for sure!
 
-But I refused.    
-
+But I refused.
 
 + [TOTTO - Wadatsumi](https://osu.ppy.sh/beatmapsets/351828) by [Desperate-kun](https://osu.ppy.sh/users/2202645)
 
 It's usually easy to judge contest mapsets composed of multiple mappers' works: there's almost always a leading difficulty, which speaks "I am the best" loud and clear. But not in this special case! The first German Beatmapping Contest brought us a whole pack of excellently done Insanes from almost every cool German mapper, a pack you cannot pick the best difficulty from, because every single one is the best and there's no two alike. And it's not only a compliment, I really can't pick a favourite among these top-notch creations, each with its own way of showing you the beauty of streams. Just look at the cast!
 
-
 + [Horie Yui - Promised Love ~Daisuki x 100~](https://osu.ppy.sh/beatmapsets/358659) by [moonlightleaf](https://osu.ppy.sh/users/1074648)
 
 It actually reminds me of previous years of mapping - in a very positive sense! No cunning patterns, no mind-bending storyboard, no dozens of astonishing, hand-picked samplesets, but really, sometimes simplicity is beauty, and this map proves it. Disable its most notable feature, a cute and smooth yet awesome storyboard, and it'll still look all bright and appealing. Hey, did you... did you really turn the storyboard off? How... how could you!!
-
-
-
 
 ### Taiko
 
@@ -81,9 +71,6 @@ game rock is not a known mapper, neither maps a lot, but knows how to make a goo
 
 Both Oni difficulties have some 190BPM stream action for you. Don't let the easy beginning of Lundlerol's Oni fool you, as kiai time is packed with a nice amount of 1/4 triples, quintuples and a few longer streams, although those are relatively easy. On the other side, MidSoul's offers you shorter, but slightly more complex streams and a wider pattern variety. Choose wisely.
 
-
-
-
 ### osu!catch
 
 For osu!catch, **[Spectator](https://osu.ppy.sh/users/702598)** was the chosen one to declare the winners of the March 2016 beatmaps.
@@ -111,9 +98,6 @@ I'm pretty sure most of you will agree that yuikonnu is amazing, and this map as
 + [P*Light - Deadliner](https://osu.ppy.sh/beatmapsets/350290) by [xDarxen](https://osu.ppy.sh/users/4625954)
 
 "ded liner". A decent DnB song from P*Light, welcomes the players with beautiful hitsounds and jumps, attracting them into deeply enjoying the map. On a specific note, I appreciate how xDarxen represented the Dubstep parts with his notable mapping styles.
-
-
-
 
 ### osu!mania
 
@@ -143,13 +127,7 @@ I'm not writing any food related references nor any meme related things and I'm 
 
 What I feel that stands out the most in this map is how Rizqy manages to pull off these 1/6 graces well in combination with jacks on the second half. I felt that this pattern emphasizes the instrumental in the track accurately and personally wouldn't feel that any other pattern would fit substantially better than that of what it is currently. Even though this unique patterning is a nice characteristic of the mapset, I felt that the track itself falls short in terms of it being appealing as it doesn't really help in providing more opportunities for these kind of patterns. But that being said, the song's simplicity is a good factor when it comes to maps that players can aim to SS/1,000,000 in which I feel is what this map is made for, and it pulled off this idea quite well with patterns that aren't too hard to nail and having a rather short and sweet track to go with it.
 
-
-
-
-
-
 **The March 2016 ranking charts will end on the 15th May 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

@@ -4,6 +4,7 @@ title: 'Tips on creating "Beginner Friendly" easies'
 date: 2016-09-10 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150197939840/tips-on-creating-beginner-friendly-easies
 ---
+
 Hello everyone!  
 
 Maps are becoming harder and harder, and 2012 mapping is very different compared to 2016 mapping. Nowadays, people tend to space their objects farther and use more complex rhythms. Currently, mappers want to impress and achieve fame by making the best hard difficulties possible for their songs and often neglect their easier difficulties. In order to ensure your maps are enjoyable to players of all abilities, here are some tips for making beginner friendly easies.

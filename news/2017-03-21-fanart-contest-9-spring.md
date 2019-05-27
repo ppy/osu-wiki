@@ -4,8 +4,8 @@ title: "Fanart Contest #9: Spring"
 date: 2017-03-21 11:28:13 +0000
 tumblr_url: http://osunews.tumblr.com/post/158662594563/fanart-contest-9-spring
 ---
+
 Spring's drawing near for a lot of the world, and to celebrate, we're holding another Fanart Contest!
-<!-- more -->
 
 <a href="https://osu.ppy.sh/community/contests/45"><img src="https://assets.ppy.sh/contests/45/header.jpg"></a>
 
@@ -23,8 +23,7 @@ The top 10 entries as voted by the public will see their artists receive with 2 
 
 **The contest will accept entries for 21 days from the date of this post.** You can check the actual time remaining by checking out the [contest listing](https://osu.ppy.sh/community/contests/45).
 
-Rules
------
+## Rules
 
 * Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017).
 * **The templates above denote WHERE THE osu! COOKIE IS LOCATED IN THE MAIN MENU**. You probably don't want to draw anything central to your piece inside the central circle, as it'll be occluded by the cookie on the main-menu.

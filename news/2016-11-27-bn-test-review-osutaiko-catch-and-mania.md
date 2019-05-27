@@ -4,6 +4,7 @@ title: "BN Test Review (osu!taiko, catch and mania)"
 date: 2016-11-27 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania
 ---
+
 Hello!
 
 As you're probably all aware, we have recently welcomed a new batch of promising modders from osu!taiko, osu!catch and osu!mania to the Beatmap Nomination Group! Information on what goes into the Beatmap Nominator test and selection process can be found in [**this thread**](https://osu.ppy.sh/community/forums/topics/471344), but this time we thought it would be cool to share with you some of the results of the recent round of tests, such as the total number of applications, average scores, and common mistakes.

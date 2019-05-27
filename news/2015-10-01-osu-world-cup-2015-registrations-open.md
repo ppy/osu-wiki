@@ -4,7 +4,8 @@ title: "osu! World Cup 2015 - Registrations open!"
 date: 2015-10-01 09:10:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-registrations-open
 ---
-We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](https://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
+
+We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](https://osu.ppy.sh/wiki/OWC_2015) before registering for this tournament.
 
 ![](/wiki/shared/news/banners/owc_2015.jpg)
 
@@ -29,11 +30,9 @@ We would like to welcome all of you to this year's official osu! World Cup. This
 + We implemented a money prize pool.
 + We plan to use a different scoring system within the tournament matches, relying less on pure combo count and more on accuracy. We will provide you detailed information as soon as it is available!
 
-
 ## Prizes
 
 We are aiming to have a minimum $5,000 cash prize pool for this world cup. We will be announcing a way you can help raise funds for the prize pool shortly, so stay tuned!
-
 
 + 1st: 50% of the raised prize pool, profile badge, "osu! Champion" user title
 + 2nd: 38% of the raised prize pool, profile badge

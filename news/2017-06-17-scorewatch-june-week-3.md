@@ -29,8 +29,7 @@ Could [Wilchq](https://osu.ppy.sh/users/2021758) be the next person to HDHR FC [
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/yPDAmCRJ7TU" frameborder="0" allowfullscreen></iframe></center>
 
-NOTABLE MENTIONS
-------
+## NOTABLE MENTIONS
 
 [My Angel Serena](https://osu.ppy.sh/users/1545031), popularly known as NerO, isn't out of the scene yet. He recently set a crazy 99.23% HD FC on [Primary - Inai Sekai](https://osu.ppy.sh/beatmaps/1185036?m=0) to steal 571pp and the No. 2 spot on the map, 2nd only to [DanyL](https://osu.ppy.sh/users/3069354) who had the same accuracy
 
@@ -38,8 +37,7 @@ NOTABLE MENTIONS
 
 [Wookiezi](https://osu.ppy.sh/users/4407567) might have took lessons from the HDDT gods above as he stole an amazing HDDT 98.98% 2 miss score on [HoneyWorks - Miraizu feat.Aida Miou(CV:Toyosaki Aki)](https://osu.ppy.sh/beatmaps/696225) and grabbed 615pp in the process.
 
-SCOREWATCH SCORE SHOW
-------
+## SCOREWATCH SCORE SHOW
 
 The Top 2 Koreans of the osu! scene, [Cookiezi](https://osu.ppy.sh/users/124493) and [Angelsim](https://osu.ppy.sh/users/1777162), go head to head with HDHR on the 7* map [ITO KASHITARO - Yuudachi no Ribbon](https://osu.ppy.sh/beatmapsets/479811).
 

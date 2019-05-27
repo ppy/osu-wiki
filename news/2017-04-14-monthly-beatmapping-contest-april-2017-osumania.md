@@ -4,8 +4,8 @@ title: "Monthly Beatmapping Contest April 2017: osu!mania"
 date: 2017-04-14 15:22:42 +0000
 tumblr_url: http://osunews.tumblr.com/post/159567407203/monthly-beatmapping-contest-april-2017-osumania
 ---
+
 osu!mania's first MBC for the year kicks off in style, featuring the tunes of [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)! Test your mapping mettle for prizes, Elite points and more.
-<!-- more -->
 
 <a href="https://osu.ppy.sh/community/contests/46"><img src="https://assets.ppy.sh/contests/46/header.jpg"/></a>
 
@@ -15,9 +15,7 @@ Arguably the most popular of the alternate gamemodes, osu!mania is the new kid o
 
 [Download the contest .osz file and read the rules in more depth at the Contest Listing page!](https://osu.ppy.sh/community/contests/46)
 
-
-What are the prizes?
---------------------
+## What are the prizes?
 
 The winning mapset of the contest as determined by popular vote will walk away with the following:
 
@@ -26,8 +24,7 @@ The winning mapset of the contest as determined by popular vote will walk away w
 * The winning map will be fast-tracked for ranking
 * 25 mapping *Elite* points (details to be announced at a later date)
 
-What are the rules?
--------------------
+## What are the rules?
 
 * All submissions must be for the **osu!mania** gamemode only.
 * All entries within a submission must be for a **single keymode of your choice**, though we suggest either 4K or 7K to reach the maximum number of players. To clarify, this means either a 4K set or a 7K set - not 2 4K difficulties and a 7K difficulty.

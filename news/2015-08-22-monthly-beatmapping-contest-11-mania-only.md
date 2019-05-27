@@ -11,7 +11,6 @@ For the previous contest we had a quirky, fun 8-bit remix from the Legend of Zel
 
 
 
-
 ## What are the prizes?
 
 * 6 months of supporter for you or a friend!

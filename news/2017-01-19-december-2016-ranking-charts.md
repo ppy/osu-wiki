@@ -4,15 +4,12 @@ title: "December 2016 Ranking Charts"
 date: 2017-01-19 21:01:49 +0000
 tumblr_url: http://osunews.tumblr.com/post/156093490568/december-2016-ranking-charts
 ---
-The Ranking Charts for December 2016 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1612)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-<!-- more -->
+The Ranking Charts for December 2016 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1612)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -42,7 +39,6 @@ An absolutely breathtaking experience to behold. Even though it's spboxer3's fir
 
 pishifat contributing another really well-mapped Apocalyptica map to the ranked section is no surprise anymore. The song's pace varies a lot, so does the map and its patterns. Playing this one feels like an adventure similar to sailing the seven seas. 'BOUYAAA's Extra' provides a less stressful experience for those players who can't handle the challenges 'Extreme' provides.
 
-
 ### osu!taiko
 
 + **[KOTOKO - Koi Kou Enishi](https://osu.ppy.sh/beatmapsets/485249) by [JUDYDANNY](https://osu.ppy.sh/users/1165475)** (Nominator: [qoot8123](https://osu.ppy.sh/users/766371))
@@ -70,7 +66,6 @@ Who is this dude called Ntiger? Anyway, this dude called Ntiger has created some
 
 The structure in Oni by qoot8123 is way beyond "solid" or "sophisticated". It might seem mundane, but trust me, you can't pick any flaws no matter how hard you try. The Oni difficulty offers a very Authentic (Taiko no Tatsujin) style like structure. The map mostly features simple triplet, pentaplets, and slightly more complex but short streams; a perfect combination of good song and good map for beginners sharpen their skills. As of the lower difficulties by Sh1n1, they are once again very well structured. On top of that, the spread between each difficulties are well set. Overall, a very well-done set.
 
-
 ### osu!catch
 
 + **[Hecq - Dstrukt](https://osu.ppy.sh/beatmapsets/511538) by [JBHyperion](https://osu.ppy.sh/users/4879508)** (Nominator: [Yuii-](https://osu.ppy.sh/users/2935923))
@@ -96,8 +91,6 @@ This is actually a really nice and challenging set if I take into account that i
 + [senya - Zouka de Arou to Shita Mono](https://osu.ppy.sh/beatmapsets/495283) by [Satellite](https://osu.ppy.sh/users/1661227) (Nominator: [Kurokami](https://osu.ppy.sh/users/260933))
 
 While Satellite's maps are usually easy in osu!catch this is somewhat an exception. The extra difficulty has some really tricky jump which requires good timing and this provides some challenge to players. One of the two Lunatic is a usual Insane diffuculty while the other being slower which is good to cover the usually jumpless Hard and take it's place. The lower difficulties are good to get used to the higher approach rate while having some easier pattern to read. All in all, I think this is a really good mapset.
-
-
 
 ### osu!mania
 
@@ -126,10 +119,7 @@ As it is unfrequent we get to see a set featuring which are 2 of the most ignore
 
 It makes me more than happy to see finally another German osu!mania beatmapper. Hiranaka created here a really good beatmap of the song Light It Up. Like we already know from osu!mania, a Camellia song can't work without SV changes and exactly this did Hiranaka. A lot of stutter SV's without overdoing it. Together with some LN sections and jumpstreams this beatmap has everything what it needs. A well deserved place in the December charts!
 
-
-
 **The December 2016 ranking charts will end on the 15th February 2017.**
-
 
 ## Past Ranking Charts results
 

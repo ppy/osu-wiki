@@ -4,6 +4,7 @@ title: "July 2014 Ranking Charts"
 date: 2014-08-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95029815063/july-2014-ranking-charts
 ---
+
 The Ranking Charts for July 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1407)! Along with that, we updated the [long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit) and published the [vote results here!](https://docs.google.com/spreadsheets/d/1bQQsvecPxgHJtFTMGWjSj25FcCmhGu82M8jvvNoKOic/edit)
 
 Keep in mind that at the end of each season, which concludes with the July 2014 Charts, the season winner will be rewarded with an additional **3 months supporter tag** and the user title **Charts Champion** for 3 months. The winner of each individual ranking chart receives a 1 month supporter tag.

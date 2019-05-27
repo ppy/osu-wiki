@@ -4,8 +4,8 @@ title: "Flash Fanart Contest #7: Halloween"
 date: 2016-10-19 11:58:14 +0000
 tumblr_url: http://osunews.tumblr.com/post/152021157083/flash-fanart-contest-7-halloween
 ---
+
 Halloween draws near. A time of spooks and thrills, and most of all - a new FLASH fanart contest! The winner gets to spook (or amaze, preferably amaze) osu! worldwide from the main menu and more!
-<!-- more -->
 
 Given the tremendous reception to the last fanart contest, we're excited to host another one, this time with the theme being **'the mascots in Halloween'**. To spice things up a bit, **this also includes the community-submitted mascots for the previous contests**, even the ones that didn't win. If you've forgotten them already (how could you?), head on over to the [fanart contest #6 page](https://osu.ppy.sh/community/contests/2) and refresh your memory.
 
@@ -21,8 +21,8 @@ The winning entries will have their works used as main-menu art for the duration
 
 The winners will also both receive 2 months of osu! supporter to tide them over until the end of the year.<br>
 
-Rules
---------
+## Rules
+
 * Artists should use the custom templates provided: [PSD template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.psd) / [PNG template](https://dl.dropboxusercontent.com/u/16332218/osu%21%20Title%20Screen%202732x1536.png).
 * **Note: these templates are to be used as a guide. Don't leave the pink circle in your work though, you'll just look dumb!**
 * The artwork you create has to be Halloween themed. If you show up with Christmas stuff, you'll be comically wrong. Even if clowns are in season this Halloween, it still isn't going to fly.

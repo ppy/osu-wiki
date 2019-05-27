@@ -4,6 +4,7 @@ title: "New Performance Ranking"
 date: 2014-01-26 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/74631045581/new-performance-ranking
 ---
+
 Some of you might already know me as the guy who made osu!tp, a third party osu! ranking site. In the recent past peppy and I started to write with each other which eventually lead to me getting involved with pp.
 
 Over the past week I've been working to build a completely new ranking processor from scratch, which is able to deal with the enormous amount of scores that is available. Yes, you heard right: **pp now considers every single score that you have!** While being based on osu!tp, the new ranking processor is tuned to be far more rewarding for casual players than osu!tp ever was while still keeping the ranking skill-based to a high degree.

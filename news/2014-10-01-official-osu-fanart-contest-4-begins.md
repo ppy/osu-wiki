@@ -4,6 +4,7 @@ title: "Official osu! Fanart Contest 4 Begins!"
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98877711548/official-osu-fanart-contest-4-begins
 ---
+
 Hi there! New osu! staffer here. I'll soon be taking over the running of the osu webstore (yes, that means restocked [osu! tablets](https://osu.ppy.sh/store/products/1) soon!) but today I'm here to introduce the fourth Official osu! Fanart Contest! This time, things are getting spooky with the theme of...
 
 ![](/wiki/shared/news/2014-10-01-official-osu-fanart-contest-4-begins/osu-fanart4.gif)

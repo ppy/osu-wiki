@@ -4,6 +4,7 @@ title: "Are huge sets a problem?"
 date: 2016-08-26 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem
 ---
+
 Hi there!
 
 I would like to use this blog to throw a few thoughts about difficulty spreads in general at the community. Please keep in mind that this is my personal opinion on things and I intend to stir discussion about it, so some things may be provocatively worded or tinted by what I deem to be more important (as in, yes, that is intended). As many may have noticed, the amount of difficulties within the same set varies from very simple ENH to difficulty spreads to things like [DJ Ozawa - Tokyo (Innovaderz Remix)](https://osu.ppy.sh/beatmapsets/333139#osu/763946) or [xi - Happy End of the World](https://osu.ppy.sh/beatmapsets/171880#mania/706049) which top at over 20 difficulties in total. This article will take big sets with multiple difficulties per level as an example to discuss the pros and cons of even having them in the first place.
@@ -27,7 +28,6 @@ Examples:
 ![Number of plays from DJ Ozawa - Tokyo (July 8, 2016)](/wiki/shared/news/2016-08-26-are-huge-sets-a-problem/tumblr_inline_p7ph2ngFtB1usyjz5_540.png)
 
 ![Number of plays from Reol - MONSTER (December 26, 2015)](/wiki/shared/news/2016-08-26-are-huge-sets-a-problem/tumblr_inline_p7ph2nQAwu1usyjz5_540.png)
-
 
 A few of these Extra or Insane level difficulties may have been better off if they were put into a spread where they are actually a necessary element for progression throughout the set.
 

@@ -4,18 +4,14 @@ title: "October 2016 Ranking Charts"
 date: 2016-12-01 22:33:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/153921090753/october-2016-ranking-charts
 ---
+
 The Ranking Charts for October 2016 have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1610)!
 
-<!-- more -->
-
 Additionally, with the help of [Stefan](https://osu.ppy.sh/users/626907), we reintroduce to you the Chart Packs which are an easier and more convenient way to access to the charted beatmaps. You can find these and any upcoming Charts in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r).
-
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -45,7 +41,6 @@ Everything about this mapset is well-designed to reflect the music. Renegade is 
 
 In classic Okorin fashion, a spectacular 11-difficulty full-length set all done by himself. With each difficulty being done in his own characteristic style, it feels very cohesive. The rhythm choices used are perfect in bringing out the different intensities in the song, and the movement used is that of a calming nature, very appropriate for the song choice as well. The multitude of difficulties given is also great at appealing to a wider range of audiences. All in all, a well-rounded mapset that suits its position in this month's charts.
 
-
 ### osu!taiko
 
 + **[Ryu* feat.Mayumi Morinaga - Din Don Dan](https://osu.ppy.sh/beatmapsets/467975) by [aabc271](https://osu.ppy.sh/users/155707)** (Nominator: [S a n d](https://osu.ppy.sh/users/676578))
@@ -73,7 +68,6 @@ Despite this song having complex melodies, Nwolf and SKSalt completely nailed th
 
 Another solid full taiko mapset which I'd like to mention in October. From eaier difficulties to harder one, mappers did very well on their maps. kantan and futsuu contains reasonable breaks by following vocal and drum,futsuu is harder than averange in order to make better difficulty gap with Muzukashii. Moreover, this set has two closed level Onis but the styles are totally different. Nardo's Oni was arranged rather rigorous or neat. ll-oscar and WoahE's one is relatively varied, plus, the SV change also provide the map become more interesting to play! To sum up ,every element about making taiko full set like spread, map's structure, pattern arrangement ... ect is quite decent. This set is worth to be one of charts as a good model of taiko full set in October!
 
-
 ### osu!catch
 
 + **[FELT - Day after](https://osu.ppy.sh/beatmapsets/458825) by [BennyBananas](https://osu.ppy.sh/users/4023183)** (Nominator: [JBHyperion](https://osu.ppy.sh/users/4879508))
@@ -99,8 +93,6 @@ This is a really good mapset where each difficulty has a common point which is t
 + [Dancing Dolls - monochrome(Asterisk Makina Remix)](https://osu.ppy.sh/beatmapsets/466238) by [koliron](https://osu.ppy.sh/users/4632730) (Nominator: [Deif](https://osu.ppy.sh/users/318565))
 
 This is probably the endurance challenge of these charts. The marathon mapped by koliron is a good example of a challenge, contrasting anti-flow patterns with some other milder ones. Don't let the general BPM fool you, your fingers will need to be ready to face this beatmap!
-
-
 
 ### osu!mania
 
@@ -130,10 +122,7 @@ Kamikaze is back with his antimeta mapsets. In this map, along with a standard g
 
 Kamikaze takes a rather unconventional take on the mapping scene of osu!mania with a unorthodox song choice and patterning. Bringing a full spread of two different keys definitely broadens the scope of the audience reached. With complex patterns and sequences involving BPM speed ups and polyrhythms, I feel that this map may be one of a kind in the ranked category. The map mostly shines at the point where 8K Melodie de tristesse used quite experimental patterns (relative to the mapping scene in osu!mania) and was pushed to rank, feel that this may be a sign of more experimental map designed being pushed to ranked, it may be a good thing, maybe.
 
-
-
 **The October 2016 ranking charts will end on the 20th December 2016.**
-
 
 ## Past Ranking Charts results
 

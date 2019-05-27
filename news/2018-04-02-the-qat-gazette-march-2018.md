@@ -57,7 +57,6 @@ by [Raiden](https://osu.ppy.sh/users/2239480)
 
 Members marked with an (L) are the designed **leaders** of each branch.
 
-
 ### New Quality Assurance Team additions
 People join, people leave. That's how communities evolve throughout history. And the QAT is no different.
 
@@ -68,7 +67,6 @@ Please give a warm welcome to:
 - [Gabe](https://osu.ppy.sh/users/654108), who will partake the **Moderation** branch;
 - [Feerum](https://osu.ppy.sh/users/4815717), an old hand who just couldn't stay away and is back once again to rejoin the **Disqualification** branch;
 - and finally, [Lanturn](https://osu.ppy.sh/users/1446665), who will assist the **Metadata** branch.
-
 
 ### Quality Assurance Team retirements
 Not everything can always be good news, for it is at times of loss when one really appreciates what one had

@@ -4,15 +4,14 @@ title: "March 2017 Spotlights"
 date: 2017-04-20 09:37:07 +0000
 tumblr_url: http://osunews.tumblr.com/post/159784843033/march-2017-spotlights
 ---
+
 The Spotlights for March 2017 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1703)! Their respective packs will be soon available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-<!-- more -->
 ![](https://assets.ppy.sh/media/generic-header.png)
 
 ## Spotlights Creation
 
 The spotlights have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
 
 ### osu! (7)
 
@@ -85,6 +84,7 @@ Sinnoh here gives us a small set, not going for difficulty, but still being one 
 +  **[takamatt feat. GUMI - TOKIO FUNKA](https://osu.ppy.sh/beatmapsets/539611) by [-Kamikaze-](https://osu.ppy.sh/users/2124783)** (Nominator: [juankristal](https://osu.ppy.sh/users/443656))
 
 It has been a looong journey Kamikaze, right? This map has been around for like 3 years and it has finally been ranked! And thank god it happened.
+
 Featured in the MWC 7K of 2016 as the tiebreaker this mapset comes back once again with the usual combo from Kami. That combo I like to call it EVERYTHING. A decent amount of different snaps are used here in combination with streams with harsh accentuation and of course, LNs and SVs to add on top of it. Not only that, even as a player who plays without hitsounds I can tell the hitsounding here is GODLIKE tier and I absolutely love it. Totally deserved \#1 spot of the month after such a long time fighting. Congratulations Kami!
 
 +  [sakuraburst - skyshifter vip](https://osu.ppy.sh/beatmapsets/529155) by [Evening](https://osu.ppy.sh/users/2193881) (Nominator: [juankristal](https://osu.ppy.sh/users/443656))
@@ -103,9 +103,7 @@ Who said there couldn't be a challenging Normal / Hard difficulty mapset? Archer
 
 If we have some unique and challenging maps in one spectrum, we have enjoyable, relatively easy maps in the other! Sennen no Kotowari offers difficulties ranging from Easy to Expert which caters to all 7K players alike. The patterns are relatively simple and fits the song nicely, with a pleasant balance between regular notes and long notes. To some of the higher skilled mania players out there, the GRAVITY difficulty gives tests players on entirely different skill sets with DoubleTime, so have a go at it!
 
-
 **The March 2017 spotlights will end on the 15th May 2017.**
-
 
 ## Past Spotlights results
 

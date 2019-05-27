@@ -4,8 +4,8 @@ title: "New Hush-Hush Medals!"
 date: 2016-08-17 11:04:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/149074719383/new-hush-hush-medals
 ---
+
 The first set of new "Hush-Hush" style medals are here at long last. Medal hunters unite!
-<!-- more -->
 
 Many months ago, we mentioned a number of new medals in development in the meetings posted on [peppy's blog](https://blog.ppy.sh). The Mod Spotlight medals released relatively quietly a few weeks back were just preparation for the big ones coming - and they're finally here!
 

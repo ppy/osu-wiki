@@ -4,6 +4,7 @@ title: "The QAT Gazette #6"
 date: 2017-06-07 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6
 ---
+
 **Hello!**
 
 Even though I recently wrote about the osu!taiko, osu!catch and osu!mania Beatmap Nominator test results and feedback (with some assistance from OnosakiHito and Feerum), it's been a busy few weeks for us here at the Quality Assurance Team, so I wanted to bring you all up to speed with a more general-purpose article as well. In a truly perfect world, I would also be calling on one of my colleagues to present their much anticipated discussion articles, but with the pressures of exam season, sadly real life priorities have to take the front. This would not be a major issue had the stars not aligned against me, with Feerum's computer tragically suffering from an acute case of not turning on. Therefore I'll be filling in with another informative interlude for you guys.
@@ -20,8 +21,6 @@ Even though I recently wrote about the osu!taiko, osu!catch and osu!mania Beatma
 -   **Spotlights (Ranking Charts):** Kurokami, OnosakiHito
 -   **Ranking Criteria:** Okorin, pishifat
 -   **General Assistant:** Cryptic
-
-  
 
 Additionally, with the exception of alacat and Kurokami (who will focus solely on metadata checks and Spotlights, respectively), all of the above listed team members now lead their own subdivision of Beatmap Nominators, working closely with them to promote team-working and communication. After reviewing recent feedback from the Beatmap Nominators, each of these subdivisions will compete with one another, with the highest performing groups receiving a reward.
 

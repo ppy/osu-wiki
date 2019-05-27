@@ -4,8 +4,8 @@ title: "Monthly Beatmapping Contest March 2017: osu!catch"
 date: 2017-03-01 15:44:33 +0000
 tumblr_url: http://osunews.tumblr.com/post/157864915928/monthly-beatmapping-contest-march-2017-osucatch
 ---
+
 Another month rolls by, another contest to test your mettle on. Ever tried catching fruits for fun? How about arranging them for once?
-<!-- more -->
 
 The MBC series continues with (actual) monthly installments as promised! While the Aspire voting is prepared, why not whet your teeth on something new - namely osu!catch mapping?
 
@@ -14,8 +14,7 @@ Here's a taste of the song for this contest - **HYPER★DRIVE** from our wickedl
 
 *(Please note that the above track is a sample of the full song - the actual track is 3:19 in length!)*
 
-What are the prizes?
---------------------
+## What are the prizes?
 
 * 3 months of osu!supporter (for yourself, a friend, or many friends, it's up to you!)
 * The winning map will be featured by the osu! media team, including a video preview and potentially much more.
@@ -23,8 +22,7 @@ What are the prizes?
 
 All contestants who enter a valid map will receive a number of points towards the *Elite Mapper* rankings based on their map's end position in the contest scoring. We'll explain more of this system in the upcoming development meeting.
 
-What are the rules?
--------------------
+## What are the rules?
 
 * **All submissions must be for the osu!catch gamemode only.**
 * **All submitted difficulties must adhere to the Ranking Criteria as closely as possible.**

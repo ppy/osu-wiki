@@ -4,6 +4,7 @@ title: "Explore the QAT!"
 date: 2016-08-05 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/148493430910/explore-the-qat
 ---
+
 Hello everyone!
 
 Recently, we heard voices urging from the community calling for transparent release of information about the Quality Assurance Team. Responding to your curiosity, this blog is here to deliver the progress of things we are working on and reveal (fun) facts for you!

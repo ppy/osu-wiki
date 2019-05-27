@@ -4,6 +4,7 @@ title: "August 2013 Ranking Chart"
 date: 2013-08-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/59476752574/august-2013-ranking-chart
 ---
+
 This month, we feature the winning maps of the [osu! Beatmapping Contest #4](https://osu.ppy.sh/community/forums/posts/2464179). You can see the new chart here, and the packlist here.
 
 Congratulations to the July Chart Winners!

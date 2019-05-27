@@ -4,6 +4,7 @@ title: "Skin Showcase - Catch the Beat Special"
 date: 2014-05-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/86623206423/skin-showcase-catch-the-beat-special
 ---
+
 With the Catch the Beat World Cup well underway, I've decided to showcase 4 different skins looking solely at Catch the Beat
 
 1.  HD Neon by winotu and Tiensei ([thread link](https://osu.ppy.sh/community/forums/topics/171731))

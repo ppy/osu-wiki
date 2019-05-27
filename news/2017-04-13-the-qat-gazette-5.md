@@ -4,6 +4,7 @@ title: "The QAT Gazette #5"
 date: 2017-04-13 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5
 ---
+
 Hello again!
 
 A few weeks ago when I talked about the **Best of 2016 Voting**, I mentioned that I would try to get these delivered on a more regular basis and not leave months between issues, keeping you wondering what we actually do all day. To that effect, I'll be bringing you a rundown of some of the recent happenings in and around the Quality Assurance Team and what's coming up in the near future.

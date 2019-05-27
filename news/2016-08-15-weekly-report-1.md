@@ -4,6 +4,7 @@ title: "Weekly Report #1"
 date: 2016-08-15 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/148998065655/weekly-report-1
 ---
+
 Hello! We will be bringing you the latest internal topics that came up inside the Quality Assurance Team. We would like to keep this in a regular basis (and weekly if possible) to let you stay tuned about our whereabouts!
 
 **osu!standard nominators tests are ongoing.** We received about 100 applications from dedicated modders who are willing to become part of the Beatmap Nomination Group in the coming days. The number of applications looks overwhelming, but our test creators Irreversible and Mao are working hard on correcting all the received tests until now. The process can still last a few more days than we initially planned, so stay tuned when the results come out to meet the new nominators!

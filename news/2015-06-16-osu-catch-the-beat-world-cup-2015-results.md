@@ -4,6 +4,7 @@ title: "osu! Catch the Beat World Cup 2015 - Results"
 date: 2015-06-16 22:07:44 +0000
 tumblr_url: http://osunews.tumblr.com/post/121704697763/osu-catch-the-beat-world-cup-2015-results
 ---
+
 The osu! Catch the Beat World Cup 2015 concluded on Sunday with an amazing Grand Final, and South Korea was able to defend their title after an intense battle against their opponent China!
 
 ![](/wiki/shared/news/2015-06-16-osu-catch-the-beat-world-cup-2015-results/osu!ctb+ranking.png)

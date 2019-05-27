@@ -28,21 +28,17 @@ osu!mania is back on the Scorewatch after a brief absence, this time round we go
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UHEKvDnacdE" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
-
+## NOTABLE MENTIONS
 
 [Mathi](https://osu.ppy.sh/users/5339515) set his new top personal play on the recently ranked map [Minazuki Airi with Atsushi - Daisuki, Evolution](https://osu.ppy.sh/beatmaps/1289927), scoring an amazing 98.54% HR FC to claim a whopping 682pp, beating out his previous top personal play by 60pp! Make way for the number one Chilean!  
 
 [Bubbleman](https://osu.ppy.sh/users/5182050) is on the rise with an insane 98.26% HDDT FC on [Hagumi Nishizawa - My Hero! Up to you!](https://osu.ppy.sh/beatmaps/858271) and grabbed 647pp, knocking Cookiezi out of his throne on the map! With that score, he is now up into the Top 40 global.
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [ExGon](https://osu.ppy.sh/users/214187) and [Ryoko](https://osu.ppy.sh/users/2660111) slap on some extraordinary mod combinations and battle it out on [xi - Glorious Crown](https://osu.ppy.sh/p/beatmap?b=1181761&m=2) with EZ and FL!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/T_Tqf8y6dKU" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

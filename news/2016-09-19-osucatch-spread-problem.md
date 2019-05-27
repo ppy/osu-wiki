@@ -4,6 +4,7 @@ title: "osu!catch Spread Problem"
 date: 2016-09-19 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150614301470/osucatch-spread-problem
 ---
+
 Hello guys!  
 
 **I'm about to speak a little about the gap between Salads and Platters**. The reason behind it and a possible solution to solve this in the future. With this, I hope to give a chance to those players who have just started to learn how the hyperdashes work and can be handled to create better spreads for osu!catch.

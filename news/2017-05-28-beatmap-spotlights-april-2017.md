@@ -20,7 +20,6 @@ First of all, congratulations to the winners of the March 2017 Spotlights. They 
 + **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 + **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
 
-
 ## osu!
 
 [![](https://assets.ppy.sh/media/spotlights2017-april/pitch-fucker.jpg)](https://osu.ppy.sh/beatmapsets/559928)

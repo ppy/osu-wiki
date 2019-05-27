@@ -4,8 +4,8 @@ title: "September 2016 Ranking Charts"
 date: 2016-10-22 12:04:07 +0000
 tumblr_url: http://osunews.tumblr.com/post/152153263023/september-2016-ranking-charts
 ---
+
 After an eventful week with the release of the GMT Applications, the new Loved State and the next Fanart Contest, we are back with our common release schedule, providing you the Ranking Charts for September 2016 which [can be found here](https://osu.ppy.sh/p/chart/?ch=MONTH1609)!
-<!-- more -->
 
 Additionaly, we want to name our current volunteers who helped since last month's Ranking Charts alongside the Quality Assurance Team collecting the most noteworthy beatmaps of this month for their representive gamemode:
 
@@ -17,13 +17,9 @@ Additionaly, we want to name our current volunteers who helped since last month'
 
 Volunteers are suggested and invited by the QAT. Due to the varying amount of QATs familiar with each gamemode to cover, the amount of volunteers for each gamemode is varying as well. We are still looking for people to help us with the Ranking Charts so more will follow.
 
-
-
 ## Ranking Charts Creation
 
 The charts have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -50,7 +46,6 @@ A really well-put together set featuring quality difficulties from various guest
 + [PolyphonicBranch - Usotsuki Betty](https://osu.ppy.sh/beatmapsets/60140) by [Chewin](https://osu.ppy.sh/users/617323) (Nominator: [handsome](https://osu.ppy.sh/users/2123087))
 
 5 different mappers come together to produce a beautiful representation of this song. Mochi's Easy is a smooth and simple difficulty relying mostly on blankets and clean shapes while Andrea's Normal gives us a taste of old, vertical axis symmetry mapping. alacat's Hard manages to pull off the tricky rhythms in this song well while maintaining the simplicity expected from a hard difficulty. Chewin's own difficulty, Insane, showcases his characteristic curved slider style, accompanied by fluid jumps and coupled patterns. Skystar's Extra is a jaw-dropping assortment of rhythms and patterns. From symmetry to streamjumps, it has everything. Be sure to play this at least once to experience how Skystar manages to turn an awfully complex rhythm into a delightful playing experience. All in all, 5 quality difficulties from 5 quality mappers clearly deserving of a spot in this month's chart.
-
 
 ### osu!taiko
 
@@ -79,7 +74,6 @@ Another very notable thing about this set is the simplicity, as the maps are ver
 
 A very interesting map, I had fun playing all difficulties, especially Oni (DT) and Inner Oni. The placement and usage of 1/6 + 1/12 are pretty good and the same goes for the usage of finishers. The map itself is well structured and consistent. I don't have much to say since these kind of maps aren't common in Taiko and it would be nice if we have more like these.
 
-
 ### osu!catch
 
 + **[Bitter Sweet Entertainment - Kanashimi no Mukougawa (Piano Version)](https://osu.ppy.sh/beatmapsets/435287) by [JBHyperion](https://osu.ppy.sh/users/4879508)** (Nominator: [Chara](https://osu.ppy.sh/users/829284))
@@ -105,8 +99,6 @@ This map has a well build structure. The beginning is slow paced therefore the m
 + [Amane - TWEEKER](https://osu.ppy.sh/beatmapsets/257165) by [TicClick](https://osu.ppy.sh/users/672931) (Nominator: [Zak](https://osu.ppy.sh/users/1375955))
 
 I like how the difficulty is increasing in this mapset. Starting from Hard the jumps starts to appear and as we go up they are become much harsher. This is a great set for those whos are want to learn how to jump in and out from a stream without missing a note or two.
-
-
 
 ### osu!mania
 
@@ -137,10 +129,7 @@ A pretty simple 7K chart by ZZHBOY. This mapset features two relatively easy dif
 
 Yet another energetic t+pazolite 4K set. Running at 195 bpm, this set has a wide range of difficulties for everyone to enjoy. SY's UNCENSORED focusing mostly on pure jumpstream with heavy chords and roll bursts inbetween jumpstream sections, while DECADE's GRAVITY is built on more trill-based patterning with some tricky LNs here and there. Overall one of the most enjoyable mid-tier 4K sets ranked lately.
 
-
-
 **The September 2016 ranking charts will end on the 15th November 2016.**
-
 
 ## Past Ranking Charts results
 

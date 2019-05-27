@@ -4,16 +4,14 @@ title: "May 2016 Ranking Charts"
 date: 2016-06-19 10:46:58 +0000
 tumblr_url: http://osunews.tumblr.com/post/146150512763/may-2016-ranking-charts
 ---
-The Ranking Charts for May 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1605)!
-This month our dedicated QAT members, [Bakari](https://osu.ppy.sh/users/597957), [MMzz](https://osu.ppy.sh/users/128993), [Deif](https://osu.ppy.sh/users/318565) and [Blocko](https://osu.ppy.sh/users/4075092) picked the maps for the Monthly Ranking Charts.
 
+The Ranking Charts for May 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1605)!
+
+This month our dedicated QAT members, [Bakari](https://osu.ppy.sh/users/597957), [MMzz](https://osu.ppy.sh/users/128993), [Deif](https://osu.ppy.sh/users/318565) and [Blocko](https://osu.ppy.sh/users/4075092) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -43,9 +41,6 @@ A great and powerful song enriched by well-done hitsounds. Mapping is organized 
 
 Powerful vocals and 1/3 snapping go too well together. I could not ignore this piece of art that is so fun to play! Despite the simplicity of the rhythms and the fact, that there is no any difficulty above 3,5 stars, this map is still surprisingly fun to play even for the skilled players as the rhythm is quite different from what we see in the majority of the maps.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[MMzz](https://osu.ppy.sh/users/128993)** about their favourite maps in May 2016.
@@ -73,9 +68,6 @@ Hands down the hardest map we saw in May. At 256 BPM, the amount of raw speed an
 + [Girls Dead Monster - Alchemy (MUZIK SERVANT vs you Remix)](https://osu.ppy.sh/beatmapsets/389093) by [Charlotte](https://osu.ppy.sh/users/3686901)
 
 A collaboration with [Nofool](https://osu.ppy.sh/users/672430). Although the song doesn't have a very interesting beat compared to the other maps this month. The mappers found a way to mix in unique patterns to keep the map entertaining for the length. You'll see regular streams, doubles, quads and even some brief 1/3. Overall a fun map and both mapper's styles mix very well.
-
-
-
 
 ### osu!catch
 
@@ -106,9 +98,6 @@ Another good example of a beatmap by pishifat. Plenty of BPM and rhythm changes,
 
 Do you enjoy catching hard/edge dashes? This is the perfect beatmap for you! Combined with some hyperdashes and patterns typical of a Rain difficulty, this conversion offers a good challenge for the players who are tyred of the typical difficulty settings. The slightly smaller circle size and the distance of the dashes offer this possibility in the highest difficulty of the beatmap. Old school players will surely get them all!
 
-
-
-
 ### osu!mania
 
 For osu!mania, **[Blocko](https://osu.ppy.sh/users/4075092)** was able to select their personal most noteworthy beatmap from last month.
@@ -137,13 +126,7 @@ I'd say this is a mapset that has a well defined spread for a lot of players to 
 
 And another 4K map enters the Ranking Charts! This time by Dellvangel - featuring four 4K difficulties with guest appearances from DixonBlackwing and Critical_Star. At the start, the patterns start off comfy and easy to follow, but they get denser and more complicated as you go through the mapset. Each mapper here has their own interpretation of the song, and all of them provide a consistent structure that acts as a backbone for the beatmap's difficulty spread. I'm a big fan when it comes to great difficulty spreads, and this beatmap earns a spot in the Ranking Charts for having those qualities. Great job to everyone involved!
 
-
-
-
-
-
 **The May 2016 ranking charts will end on the 15th July 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

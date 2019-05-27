@@ -4,6 +4,7 @@ title: "Storyboard Showcase: Kozato - 45nen no Yukizakura"
 date: 2014-10-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63423749972/storyboard-showcase-kozato-45nen-no-yukizakura
 ---
+
 After overwhelmingly positive feedback, I am happy to announce that we will immediately begin weekly storyboard showcases.
 
 First of all, I would like to thank each and every one of you who submitted a storyboard for review. In less than 3 days, we've received over 200 submissions, many of which were phenomenal. We have a plethora of maps to pick from now, so making storyboard highlights a weekly thing has become a reality. Good job, everyone :)

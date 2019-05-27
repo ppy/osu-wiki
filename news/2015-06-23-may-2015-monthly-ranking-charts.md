@@ -4,7 +4,9 @@ title: "May 2015 Monthly Ranking Charts"
 date: 2015-06-23 10:44:01 +0000
 tumblr_url: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking-charts
 ---
+
 With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1505)!
+
 Along with that, we concluded the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month [DoKito](https://osu.ppy.sh/users/537084), [qoot8123](https://osu.ppy.sh/users/766371), [Pew](https://osu.ppy.sh/users/597692) and [Blocko](https://osu.ppy.sh/users/4075092) picked the maps for the Monthly Ranking Charts.
 
 ## Spring 2015 Season is over!
@@ -24,7 +26,6 @@ We would like to thank everyone for participating on the seasonal competition we
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
 
 ### osu!
 
@@ -53,7 +54,6 @@ Cherry Blossom... the master of streams and 1/4 sliderjumps. This is not even hi
 + [RedMuffleR - Rubeus](https://osu.ppy.sh/beatmapsets/249703) by [Smoothie World](https://osu.ppy.sh/users/1855540)
 
 Never heard of the mapper "Smoothie World". It looks like this is his first ranked map, but it looks like we will see more of him in the future. This map is a nice mix of 200BPM streams and jumps, which follow the music very well. Anyways. I am running out of ideas what to write, so just play the map yourself and enjoy!
-
 
 ### Taiko
 
@@ -85,7 +85,6 @@ Pretty solid mapset made by tasuke912, and it is good to see there is a differen
 
 A classic taiko map for TV size song which is mapped by JUDYDANNY. He follows the snare pretty solid by using kat. And he is also using big don / kat to emphsize the vocal's accent. That's very common way to map this kind of song, but it is still very good, so I choose this mapset for this chart.
 
-
 ### Catch the Beat
 
 For Catch the Beat, **[Pew](https://osu.ppy.sh/users/597692)** was the chosen one to declare the winners of the May 2015 beatmaps.
@@ -114,7 +113,6 @@ Another well done Catch the Beat difficulty, this one, the hypderdash flows very
 
 This is a very interesting map ranked this month, in the convert form it has a very new and fresh style of complex jumps and patterning. what more is that difficulty such as another focuses on timed jumps and expert with hyperdashes makes it a good map for harder players. but the easier difficulty is still very enjoyable for new players and mod players, this is due to the high quality hitsounds and simpler patterns that newer players would enjoy
 
-
 ### osu!mania
 
 For osu!mania, **[Blocko](https://osu.ppy.sh/users/4075092)** was able to select their personal most noteworthy beatmap from last month.
@@ -122,7 +120,6 @@ For osu!mania, **[Blocko](https://osu.ppy.sh/users/4075092)** was able to select
 + **[Halozy - Kanshou no Matenrou](https://osu.ppy.sh/beatmapsets/251365) by [Feerum](https://osu.ppy.sh/users/4815717)**
 
 Marathon maps can be both fun and challenging, especially when they're mapped well, but Feerum's map really takes the cake. This map brings us a variety of patterns that completely made the map very enjoyable such as streams, chordstreams and 1/8 rolls. I like how the map acts like an emotional rollercoaster, going from a relaxed to a strong feeling for a good number of times in the song, ending with fierce chordstreams followed by calm patterns. The hitsounds were also icing on the cake as they compliment the tranquil atmosphere in some parts of the song really well. Personally, this map deserves the #1 spot for osu!mania's May 2015 charts, and for those who haven't played this yet, I definitely recommend you to play this.
-
 
 + [Yooh - FIRE FIRE -DARK BLAZE REMIX-](https://osu.ppy.sh/beatmapsets/242368) by [Shinzo-](https://osu.ppy.sh/users/4720038)
 
@@ -144,9 +141,7 @@ Kyousuke- brings out 8 difficulties in a mapset featuring the ever-popular 4K ke
 
 [AyanoTatemaya] brings us another mapset that contains both 4K and 7K keymodes, adding up to 6 difficulties in total. The difficulty spread is great, covering for a wide variety of players. The patterns are done well and are very enjoyable, and the mix of long notes and regular notes provide a little bit of challenge as you work up through the difficulties. Even then, the mapset's structure and the song go along with each other very well, and this is a mapset that many people would enjoy.
 
-
 **The May 2015 ranking charts will end on the 15th July 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

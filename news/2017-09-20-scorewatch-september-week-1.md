@@ -24,9 +24,7 @@ September has finally arrived and players are working hard to keep this scorewat
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6SvPtpDqcdM" frameborder="0" allowfullscreen></iframe></br>
 
-
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 [Toy](https://osu.ppy.sh/users/2757689) gets featured for this section as he tears through [Kitsune^2 - Tung, The Icelandic Lesbian](https://osu.ppy.sh/beatmaps/114295) with a crazy 96.68% HDDT FC, earning 258pp. This man has quite the control, missing only one slider end through this 240BPM 2011 map!
 
@@ -47,7 +45,6 @@ SCORESHOW WITH ZSEIKIMATSU
 [ExGon](https://osu.ppy.sh/users/214187) takes on fellow Korean [[224]Hyperw7](https://osu.ppy.sh/users/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/374606)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r5aKxRfTgw0" frameborder="0" allowfullscreen></iframe></br>
-
 
 
 

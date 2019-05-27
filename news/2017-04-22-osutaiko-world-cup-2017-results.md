@@ -4,8 +4,8 @@ title: "osu!taiko World Cup 2017 Results"
 date: 2017-04-22 10:37:19 +0000
 tumblr_url: http://osunews.tumblr.com/post/159858161773/osutaiko-world-cup-2017-results
 ---
+
 Drumming thundered out across the heavens as the osu!taiko World Cup 2017 concluded, with our winners finally decided after weeks of grueling matches!
-<!-- more -->
 
 ![](/wiki/shared/news/banners/twc2017.jpg)
 

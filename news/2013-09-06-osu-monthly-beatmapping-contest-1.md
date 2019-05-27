@@ -4,6 +4,7 @@ title: "osu! Monthly Beatmapping Contest #1"
 date: 2014-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60440803370/osu-monthly-beatmapping-contest-1
 ---
+
 Calling all mappers! Come show off your mapping skills to the community with the chance of having your beatmap **bundled with the game client!**
 
 ## Song
@@ -62,7 +63,6 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
-
 ## Premi
 
 *   **Il mapset sarà incluso nel download del client di osu!**
@@ -100,7 +100,6 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 ## Juges
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
-
 
 ## Prix
 
@@ -140,7 +139,6 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
-
 ## 奖品
 
 *   **谱面将会被整合到游戏安装包里**
@@ -178,7 +176,6 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 ## Juri
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
-
 
 ## Hadiah
 
@@ -218,7 +215,6 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
-
 ## 賞品
 
 *   **譜面がosu!のクライアントに同梱されます**
@@ -256,7 +252,6 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ## Preisrichter
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
-
 
 ## Preise
 
@@ -296,7 +291,6 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
 
-
 ## Призы
 
 *   **Карта будет идти в комплекте с новым релизом osu!**
@@ -334,7 +328,6 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ## Jueces
 
 [**dkun**](https://osu.ppy.sh/users/dkun), [**Nyquill**](https://osu.ppy.sh/users/Nyquill), [**Andrea**](https://osu.ppy.sh/users/Andrea), [**those**](https://osu.ppy.sh/users/those), [**MMzz**](https://osu.ppy.sh/users/MMzz), [**Sync**](https://osu.ppy.sh/users/Sync)
-
 
 ## Premios
 

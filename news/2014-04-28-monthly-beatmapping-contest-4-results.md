@@ -4,6 +4,7 @@ title: "osu! Monthly Fanart Contest #2 - Vote for MFC#1 now!"
 date: 2014-04-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/84880595728/osu-monthly-fanart-contest-2-vote-for-mfc1
 ---
+
 After a grueling marathon of back-to-back judging, the results are finally here! We have a winner of our largest and best beatmapping contest yet!
 
 [W h i t e](https://osu.ppy.sh/users/685229) drove his mapping talent straight into the judge's hearts - gaining a near-perfect score from one of them - and officially the highest single and combined score ever awarded in any MBC thus far! With a phenomenal cumulative score of 205, W h i t e takes home the grand prize. Congratulations!

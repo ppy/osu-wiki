@@ -4,6 +4,7 @@ title: "Scorewatch: July Week 2"
 date: 2017-07-17 04:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
 ---
+
 Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads going crazy once again in this week's issue of Scorewatch!
 
 ![](/wiki/shared/news/2017-07-18-scorewatch-july-week-2/banner.jpg)
@@ -28,15 +29,13 @@ There are no brakes to what [jakads](https://osu.ppy.sh/users/259972) can do, sn
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/1lUnxqYUf08" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 Seeing an S on [Inferi - The Promethean Kings](https://osu.ppy.sh/beatmaps/1083470) is odd indeed, but not that odd for [-GN](https://osu.ppy.sh/users/895581), stealing the limelight by taking the first FC, using EZHT to guide his way to a 98.68% FC to earn 388pp. The patience in this is remarkable.
 
 A certain [Monstrata](https://osu.ppy.sh/users/2706438) map, [xi - Glorious Crown](https://osu.ppy.sh/beatmapsets/558694), was recently ranked, and as such, [Angelsim](https://osu.ppy.sh/users/1777162) conquered the 2nd hardest difficulty in the mapset, scoring an impressive 98.54% HDHR FC to claim 552pp and the No. 1 spot. The final difficulty has yet to be conquered.
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [Cookiezi](https://osu.ppy.sh/users/124493) and [Gayzmcgee](https://osu.ppy.sh/users/1419095) battle it out on a stream test on the map [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmaps/552068?m=0).
 
