@@ -5,9 +5,11 @@ date: 2017-05-11 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/160532419785/bn-test-review-2
 ---
 
-Hello!  
+Hello!  Our modding community has been hard at work for the past four months, pushing the quality of mapping forward every day in order to give the playerbase new and exciting content to enjoy.
 
-Our modding community has been hard at work for the past four months, pushing the quality of mapping forward every day in order to give the playerbase new and exciting content to enjoy. For those that want to go the extra mile and have the final say on what maps go on to become official osu!content, the Beatmap Nominator test is at the top of their to-do list. Through tribulation to eventual triumph, we are proud to again welcome a new batch of promising modders from osu!taiko, osu!catch and osu!mania to the Beatmap Nomination Group! As always, information on what makes up the Beatmap Nominator test and selection process can be found in [**this thread**](https://osu.ppy.sh/community/forums/topics/471344), but if you want to see the nitty gritty details on all the applicants, responses and results, then look no further!
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
+For those that want to go the extra mile and have the final say on what maps go on to become official osu!content, the Beatmap Nominator test is at the top of their to-do list. Through tribulation to eventual triumph, we are proud to again welcome a new batch of promising modders from osu!taiko, osu!catch and osu!mania to the Beatmap Nomination Group! As always, information on what makes up the Beatmap Nominator test and selection process can be found in [**this thread**](https://osu.ppy.sh/community/forums/topics/471344), but if you want to see the nitty gritty details on all the applicants, responses and results, then look no further!
 
 Additionally, the test creators will again share their insight on the creation and testing process, noting what people excelled at, and what people should brush up on for future tests. If you're considering an application for the BNG in the near future, be sure to give this a read and prepare yourself for the trials ahead!
 

@@ -7,6 +7,8 @@ tumblr_url: https://osuqat.tumblr.com/post/148493430910/explore-the-qat
 
 Hello everyone!
 
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
 Recently, we heard voices urging from the community calling for transparent release of information about the Quality Assurance Team. Responding to your curiosity, this blog is here to deliver the progress of things we are working on and reveal (fun) facts for you!
 
 **[Changes to the Quality Assurance Team](https://osu.ppy.sh/community/forums/topics/447417) make the QAT one of the most mysterious teams again**! After the implementation of the changes, many of you may be unsure what the QAT actually does apart from checking reports and metadata on qualified beatmaps. As the very first entry, let me introduce the working field assigned to each of us!

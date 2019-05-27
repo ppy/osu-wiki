@@ -5,9 +5,11 @@ date: 2017-06-07 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6
 ---
 
-**Hello!**
+**Hello!** Even though I recently wrote about the osu!taiko, osu!catch and osu!mania Beatmap Nominator test results and feedback (with some assistance from OnosakiHito and Feerum), it's been a busy few weeks for us here at the Quality Assurance Team, so I wanted to bring you all up to speed with a more general-purpose article as well.
 
-Even though I recently wrote about the osu!taiko, osu!catch and osu!mania Beatmap Nominator test results and feedback (with some assistance from OnosakiHito and Feerum), it's been a busy few weeks for us here at the Quality Assurance Team, so I wanted to bring you all up to speed with a more general-purpose article as well. In a truly perfect world, I would also be calling on one of my colleagues to present their much anticipated discussion articles, but with the pressures of exam season, sadly real life priorities have to take the front. This would not be a major issue had the stars not aligned against me, with Feerum's computer tragically suffering from an acute case of not turning on. Therefore I'll be filling in with another informative interlude for you guys.
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
+In a truly perfect world, I would also be calling on one of my colleagues to present their much anticipated discussion articles, but with the pressures of exam season, sadly real life priorities have to take the front. This would not be a major issue had the stars not aligned against me, with Feerum's computer tragically suffering from an acute case of not turning on. Therefore I'll be filling in with another informative interlude for you guys.
 
 **With the welcome new additions of Cryptic and Doyak to the team, as well as the recent retirement of some of our old stalwarts DakeDekaane, Desperate-kun and Fycho,** it's obvious that the working fields of the QAT have changed quite significantly since our original post back in August of last year! Therefore, in order to clarify who's doing what in the modern age, let's take a little update as to the current state of affairs:
 

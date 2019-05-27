@@ -5,9 +5,11 @@ date: 2017-04-13 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5
 ---
 
-Hello again!
+Hello again! A few weeks ago when I talked about the **Best of 2016 Voting**, I mentioned that I would try to get these delivered on a more regular basis and not leave months between issues, keeping you wondering what we actually do all day.
 
-A few weeks ago when I talked about the **Best of 2016 Voting**, I mentioned that I would try to get these delivered on a more regular basis and not leave months between issues, keeping you wondering what we actually do all day. To that effect, I'll be bringing you a rundown of some of the recent happenings in and around the Quality Assurance Team and what's coming up in the near future.
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
+To that effect, I'll be bringing you a rundown of some of the recent happenings in and around the Quality Assurance Team and what's coming up in the near future.
 
 **We have welcomed a new member to our ranks!** A hearty congratulations to Nardoxyribonucleic, who will be assisting in the creation of Beatmap Nominator tests for osu!taiko along with DakeDekaane. Be sure to treat them well as they settle into their new role!  
 

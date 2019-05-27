@@ -5,9 +5,9 @@ date: 2016-10-08 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4
 ---
 
-Hi there!
+Hi there! I guess I'm back with some material to think about once more. So I will once again throw a bunch of thoughts at everyone with the intention to stir up discussion about it!
 
-I guess I'm back with some material to think about once more. So I will once again throw a bunch of thoughts at everyone with the intention to stir up discussion about it!
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 This time it's about spreads again, but seeing that the other spread discussion is still... in progress, I'll talk about how people approach making standard spreads currently and why I think it's quite an odd approach.
 

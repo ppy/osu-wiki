@@ -5,9 +5,11 @@ date: 2016-09-01 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149777211965/code-of-conduct
 ---
 
-Hello!
+Hello! As some of you may be aware, recently I have been working on a [**Code of Conduct**](https://osu.ppy.sh/community/forums/topics/447557) for mapping and modding, intended to apply across the entire community.
 
-As some of you may be aware, recently I have been working on a [**Code of Conduct**](https://osu.ppy.sh/community/forums/topics/447557) for mapping and modding, intended to apply across the entire community. The aim of this was to ensure a productive and enjoyable experience for everyone, from those who are just starting out and looking for help and advice, all the way through to experienced members looking to polish their skills. Despite a large proportion of the work being "common sense", I felt it was necessary to have a clear point of reference for people to use as an example to when necessary. Over the internet, it is often easy to forget that mappers and modders are real people, with feelings just like you and I have. To help this, we want the mapping and modding community to be **a civil and accessible place** which its members are happy to be a part of.
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
+The aim of this was to ensure a productive and enjoyable experience for everyone, from those who are just starting out and looking for help and advice, all the way through to experienced members looking to polish their skills. Despite a large proportion of the work being "common sense", I felt it was necessary to have a clear point of reference for people to use as an example to when necessary. Over the internet, it is often easy to forget that mappers and modders are real people, with feelings just like you and I have. To help this, we want the mapping and modding community to be **a civil and accessible place** which its members are happy to be a part of.
 
 Since this idea fell under the umbrella of the [osu! Community Rules](https://osu.ppy.sh/help/wiki/Rules) to some degree, it was decided that once finished, the Code of Conduct should be featured in the **General Ranking Criteria**, clearly visible to all. From an initial concept of "How to Behave in the Beatmap Subforums", the guide was gradually expanded to include advice and guidance on a number of additional topics, such as how to word suggestions effectively, responding to criticism, as well as dealing with qualified maps.
 

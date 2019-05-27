@@ -5,9 +5,9 @@ date: 2016-11-08 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152896720720/osustandard-bn-examination
 ---
 
-Hey everyone!  
+Hey everyone! Some of you might be wondering how we **create the BN examination**. If you are one of those, keep reading, because Mao and I are about to explain the whole process from coming up with possible questions up to the actual mapmaking!
 
-Some of you might be wondering how we **create the BN examination**. If you are one of those, keep reading, because Mao and I are about to explain the whole process from coming up with possible questions up to the actual mapmaking!
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 We will divide the whole process into three pieces:
 

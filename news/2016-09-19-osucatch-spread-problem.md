@@ -5,9 +5,11 @@ date: 2016-09-19 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150614301470/osucatch-spread-problem
 ---
 
-Hello guys!  
+Hello guys! **I'm about to speak a little about the gap between Salads and Platters**.
 
-**I'm about to speak a little about the gap between Salads and Platters**. The reason behind it and a possible solution to solve this in the future. With this, I hope to give a chance to those players who have just started to learn how the hyperdashes work and can be handled to create better spreads for osu!catch.
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
+The reason behind it and a possible solution to solve this in the future. With this, I hope to give a chance to those players who have just started to learn how the hyperdashes work and can be handled to create better spreads for osu!catch.
 
 In the past few months, I spoke to many players about the spreads and how hard it is to start playing Platters. **Currently, in most cases, a player who can play Salads well enough can not even touch those so called Platters because of their high AR and most importantly their usage of hyperdashes.** While we stated that Platters are to introduce these intense jumps, many of them contain a lot of these. making the difficulties much harder than they should be. While I do understand that everyone wants to play harder and harder maps, we also need to think about those who are just started to play recently. It's easy to say "then they should play converts" or "then they should just quit", but with this kind of negative attitude thing will never change. Platters are not intended to satisfy the top 10 and or even the top 100 players. They are supposed to be easy enough to learn how to handle complex patterns and harder jumps. Many mappers make their Rains harder than necessary, so feel they must make Platters harder as well.
 

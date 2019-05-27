@@ -7,6 +7,8 @@ tumblr_url: https://osuqat.tumblr.com/post/150075576015/weekly-report-3
 
 Hello! These last days have been relatively calmed for us after the new additions to the Beatmap Nominators. On the other hand, the [report thread](https://osu.ppy.sh/community/forums/topics/447428) has been rather active lately with the feedback of the community on qualified beatmaps. Keep up the good job!
 
+![](/wiki/shared/news/banners/theqatgazette.jpg)
+
 **Further additions to the osu!standard nominators:** With the last accepted invitations from [ezek](https://osu.ppy.sh/users/180241), [sahuang](https://osu.ppy.sh/users/5318910), [Zero__wind](https://osu.ppy.sh/users/1822830), [Pentori](https://osu.ppy.sh/users/7452237) and [Sieg](https://osu.ppy.sh/users/1404615) to join the BNG, we conclude the batch of additions to the usergroup. For those modders who missed this opportunity there will be a new application process in the near future, so make sure you keep your activity and quality high enough to be able to participate in the next test!
 
 **The Criteria Council has been refreshed with a name change:** The newly renamed United Beat-Knights of Ranking Criteria (or UBKRC) is still working on revamping the old ruleset of all game modes. The members of the osu!standard section have come up with the first draft of the general ruleset. You can find it at [this thread](https://osu.ppy.sh/community/forums/topics/495246), so make sure you give your feedback before it gets officially approved! There is still some time until the 11th September at 23:59 UTC, where the draft will be revised by the members for further refinement. Elsewhere, the osu!taiko members have thought out criteria for layer improvisation in their attempts to define how layering in general needs to be handled.

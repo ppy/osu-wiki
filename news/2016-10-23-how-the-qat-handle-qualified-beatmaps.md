@@ -5,9 +5,9 @@ date: 2016-10-23 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps
 ---
 
-Hi there!
+Hi there! Feerum here! This is the first time you guy's will see a blog post by your beloved osu!mania QAT. But don't worry, it will be not the last!
 
-Feerum here! This is the first time you guy's will see a blog post by your beloved osu!mania QAT. But don't worry, it will be not the last!
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 I write to you today about a topic which is kinda serious, but first let me give you an update about something else! As you guys know already from previous blogs, the work of us, the mania QATs, is mainly to prepare the BN test (which will be awesome this time!) and my work is also to handle the Criteria Council **United Beat Knights of the Ranking Criteria**. Last weekend we had a pretty good meeting and i think we will soon be ready to share our work with you guys in the criteria forums. So stay tuned, things will happen soon!
 
