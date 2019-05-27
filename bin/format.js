@@ -3,7 +3,25 @@
 const fs = require('fs');
 const path = require('path');
 
-function rule_1_boundaryWhitesapce(content, log) {
+const articles = findArticles(path.join(__dirname, '..'));
+const changes = {};
+const rules = [
+    null,
+    rule_1_boundaryWhitesapce,
+    rule_2_atxHeaders
+];
+
+const ruleArgIndex = process.argv.findIndex(a => a === '-r' || a === '--rule') + 1;
+const rulesToCheck = ruleArgIndex === 0 ? null : process.argv[ruleArgIndex].split(',').map(r => parseInt(r));
+
+articles.forEach(article => format(article));
+
+const changeCount = Object.values(changes).reduce((sum, c) => sum + c, 0);
+const changeFileCount = Object.values(changes).filter(c => c > 0).length;
+
+console.log(`\x1b[30m\x1b[42mDONE!\x1b[0m Made \x1b[32m${changeCount}\x1b[0m changes to \x1b[32m${changeFileCount} / ${articles.length}\x1b[0m articles`);
+
+function rule_1_boundaryWhitesapce(content, meta, log) {
     const original = '' + content;
     const leadingWhitespaceMatch = original.match(/^\s+/);
     const trailingWhitespaceMatch = original.match(/\s+$/);
@@ -21,17 +39,20 @@ function rule_1_boundaryWhitesapce(content, log) {
         content = content.substring(0, content.lastIndexOf(trailingWhitespaceMatch[0])) + '\n';
     }
 
-    return content;
+    return [content, meta];
 }
 
-function rule_2_atxHeaders(content, log) {
-    return content.replace(/\n(.+)\n(?:(=+)|-+)\n/g, (match, header, l1, index) => {
-        if (header.trim() === '' || header.startsWith('#'))
-            return match;
+function rule_2_atxHeaders(content, meta, log) {
+    return [
+        content.replace(/\n(.+)\n(?:(=+)|-+)\n/g, (match, header, l1, index) => {
+            if (header.trim() === '' || header.startsWith('#'))
+                return match;
 
-        log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
-        return '\n' + (l1 !== undefined ? '# ' : '## ') + header.trim() + '\n';
-    });
+            log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
+            return '\n' + (l1 !== undefined ? '# ' : '## ') + header.trim() + '\n';
+        }),
+        meta
+    ];
 }
 
 function attachMeta(content, meta) {
@@ -83,8 +104,9 @@ function format(file) {
 
     [content, meta] = detachMeta(content);
 
-    content = rule_1_boundaryWhitesapce(content, log);
-    content = rule_2_atxHeaders(content, log);
+    rules
+        .filter((rule, index) => rule !== null && (rulesToCheck === null || rulesToCheck.includes(index)))
+        .forEach(rule => [content, meta] = rule(content, meta, log));
 
     content = attachMeta(content, meta);
     content = content.replace(/\n/g, lineEnding);
@@ -105,8 +127,6 @@ function lineAtIndex(string, index) {
     return lineNumber;
 }
 
-const changes = {};
-
 function logFactory(file) {
     file = file.substring(path.join(__dirname, '..').length);
 
@@ -118,11 +138,3 @@ function logFactory(file) {
         ++changes[file];
     }
 }
-
-const articles = findArticles(path.join(__dirname, '..'));
-articles.forEach(article => format(article));
-
-const changeCount = Object.values(changes).reduce((sum, c) => sum + c, 0);
-const changeFileCount = Object.values(changes).filter(c => c > 0).length;
-
-console.log(`\x1b[30m\x1b[42mDONE!\x1b[0m Made \x1b[32m${changeCount}\x1b[0m changes to \x1b[32m${changeFileCount} / ${articles.length}\x1b[0m articles`);
