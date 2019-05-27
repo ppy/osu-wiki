@@ -2,7 +2,6 @@
 outdated: true
 ---
 
-
 Storyboard Scripting
 ====================================
 

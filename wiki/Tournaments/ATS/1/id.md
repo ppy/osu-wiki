@@ -3,6 +3,7 @@ tags:
 - Indonesian Taiko Showdown
 - IDTS
 ---
+
 # Indonesian Taiko Showdown
 
 ![Logo IDTS](img/logo.png)

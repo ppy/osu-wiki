@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Gallery
 ===================
 
@@ -43,5 +44,3 @@ Cameo
 ![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")
 ![Vecchia pippi e amici nelle deprecate Modalità Speciali.](/wiki/shared/Ctb_logo.jpg "Vecchia pippi e amici nelle deprecate Modalità Speciali.")
-
-

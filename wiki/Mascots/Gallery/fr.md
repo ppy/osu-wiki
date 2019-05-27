@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Galerie des Mascottes
 ======================
 
@@ -47,5 +48,3 @@ Cameos
 ![Ryuuta dans osu!catch.](../Fruit_ryuuta.png "Ryuuta dans osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")
 ![Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).](/wiki/shared/Ctb_logo.jpg "Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).")
-
-

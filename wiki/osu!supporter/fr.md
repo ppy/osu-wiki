@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 ![Badge du osu!supporter](Supporter tag.png "fig:Badge du osu!supporter") osu! est un jeu ne se basant que sur les dons de ses joueurs. Le badge de "**osu!supporter**" est ainsi distribué aux joueurs ayant participé à son financement et ce pour une période déterminée par le montant donné.
 
 Avantages

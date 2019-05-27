@@ -3,6 +3,7 @@ tags:
 - TWC 2015
 - TWC2015
 ---
+
 # osu! Taiko World Cup 2015
 
 ![TWC 2015 Logo](img/logo.png)

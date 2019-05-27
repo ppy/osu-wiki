@@ -3,6 +3,7 @@ tags:
 - TWC 2012
 - TWC2012
 ---
+
 # Taiko World Cup 2012
 
 ![TWC 2012 Logo](img/logo.png)

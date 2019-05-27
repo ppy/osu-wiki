@@ -27,4 +27,3 @@ As always, any track present on a Featured Artist listing comes pre-timed for yo
 We're looking forward to exploring **Wisp X**'s sound as it continues to grow and evolve in the future, and we hope you are too! Like what you hear? Make sure to check out their [Bandcamp](https://wispx.bandcamp.com/) and follow them on [Twitter](https://twitter.com/wispx) to catch their latest work!
 
 —Ephemeral
-

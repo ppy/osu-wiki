@@ -3,6 +3,7 @@ tags:
 - TWC 2016
 - TWC2016
 ---
+
 # osu!taiko World Cup 2016
 
 ![TWC 2016 Logo](img/logo.png)

@@ -4,6 +4,7 @@ tags:
 - ATS 2018
 - ATS2018
 ---
+
 # Asian Taiko Showdown 2018
 
 ![ATS 2018 Logo](logo.jpg)

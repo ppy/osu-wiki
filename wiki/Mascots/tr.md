@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Maskotlar hakkında bir video: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 osu! Maskotları

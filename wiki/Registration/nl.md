@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Hoe kan ik registreren?
 -----------------------
 

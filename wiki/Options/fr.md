@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="FrOptionsGeneral.png" title="Menu des options (l&#39;interface à gauche)" alt="Menu des options (l&#39;interface à gauche)" width="400" />
 
 Options

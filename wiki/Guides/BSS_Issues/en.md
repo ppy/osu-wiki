@@ -3,6 +3,7 @@ tags:
 - I can't submit my own beatmap!
 - beatmap submission system issues
 ---
+
 # BSS Issues
 
 *Note: Do not use this guide to steal other creator's beatmaps!*

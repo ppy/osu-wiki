@@ -1,6 +1,7 @@
 ---
 legal: true
 ---
+
 # osu! 服务条款
 
 上一次英文版更新：2018 年 5 月 25 日。[在此查看历史](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)

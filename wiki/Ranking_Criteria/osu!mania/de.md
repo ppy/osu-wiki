@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 osu!mania Ranking Kriterien
 ============================
 

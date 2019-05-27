@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Options Base.jpg" title="Opcje (tak, chodzi o ten panel boczny)" alt="Opcje (tak, chodzi o ten panel boczny)" width="300" />
 
 Opcje

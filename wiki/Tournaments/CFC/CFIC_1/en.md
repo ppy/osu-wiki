@@ -3,6 +3,7 @@ tags:
 - Catch French Intermediate Cup
 - CFIC
 ---
+
 # Catch French Intermediate Cup
 
 ![CFIC Logo](img/logo.png)

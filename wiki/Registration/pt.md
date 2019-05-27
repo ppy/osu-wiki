@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Como se registrar?
 ------------------
 
