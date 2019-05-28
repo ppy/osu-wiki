@@ -6,7 +6,7 @@ tags:
 
 ![TWC 2019 Logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -33,7 +33,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko t
 
 ## Organisation
 
-The osu!taiko World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
