@@ -3,6 +3,7 @@ tags:
 - Taiko Suiji Cup
 - TSC
 ---
+
 # Taiko Suiji Cup
 
 ![TSC Logo](img/logo.png)

@@ -3,6 +3,7 @@ tags:
 - osu! Technical Championship
 - OTC
 ---
+
 # osu! Technical Championship
 
 ![OTC Logo](img/logo.png)

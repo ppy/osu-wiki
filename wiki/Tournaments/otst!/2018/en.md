@@ -3,6 +3,7 @@ tags:
 - otst! 2018
 - otst!2018
 ---
+
 # osu! TV Size Tournament 2018
 
 ![otst! 2018 Logo](img/logo.png)

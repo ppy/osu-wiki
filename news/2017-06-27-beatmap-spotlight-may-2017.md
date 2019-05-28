@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Beatmap Spotlights: May 2017"
-permalink: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
 date: 2017-07-01 14:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162318442723/beatmap-spotlights-may-2017
 ---
-
 
 OrVid, Classic Pursuit, Chronoxia and Trigger reign supreme in the [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1705) of May 2017, and more to boot! Come check out what's in store this month, and maybe even win an osu!supporter tag for your trouble!
 
@@ -21,7 +19,6 @@ First of all, congratulations to the winners of the April 2017 Spotlights. They 
 + **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/users/8089664)
 + **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
 + **osu!mania:** [Hestia-](https://osu.ppy.sh/users/393151)
-
 
 ## osu!
 

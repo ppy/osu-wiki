@@ -2,6 +2,7 @@
 tags:
 - MXB
 ---
+
 # Novice Mania Cup 3rd
 
 ![MXB 3rd Logo](img/logo.jpg)

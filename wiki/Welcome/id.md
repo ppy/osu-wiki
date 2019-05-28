@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Selamat Datang
 
 Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang menyediakan pilihan empat mode permainan yang ditawarkan: osu!standard, simulator klik lingkaran; osu!taiko, emulator drum; osu!catch, penangkap buah salad, dan osu!mania, sebuah synthesizer dengan menekan tombol.

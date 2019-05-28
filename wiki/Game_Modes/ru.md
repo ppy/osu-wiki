@@ -1,4 +1,4 @@
-﻿# Режимы игры
+# Режимы игры
 
 ## ![иконка osu!](/wiki/shared/mode/osu.png) osu!standard
 

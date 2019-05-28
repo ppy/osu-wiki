@@ -5,6 +5,7 @@ tags:
 - MWC2018
 - MWC4K 2018
 ---
+
 # osu!mania 4K World Cup 2018
 
 ![MWC 4K 2018 Logo](img/logo.png)

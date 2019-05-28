@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! World Cup 2013 - Results"
-permalink: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 date: 2014-12-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 ---
+
 The osu! World Cup 2013 just ended, and we are proud to announce the winners of the biggest osu! tournament yet.
 
 ![image](/wiki/shared/news/2013-12-08-osu-world-cup-2013-results/podium+(2).jpg)

@@ -4,6 +4,7 @@ tags:
 - oMMFF
 - MMFF
 ---
+
 # osu! Multi Mode French Fiesta
 
 ![oMMFF Logo](img/logo.png)

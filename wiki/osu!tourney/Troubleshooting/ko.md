@@ -52,4 +52,4 @@ osu!tourney 의 관전창은 `tournament.cfg` 내에서 조절할 수 있으나 
 
 osu!에서 요구하지 않는 한 관리자 권한으로 실행되지 않았는지 확인하고, CuttingEdge 버전으로 업데이트 되어있는지 확인하세요.
 
-[tournaments@ppy.sh](mailto:tournaments@ppy.sh) 에 증상과 스크린샷을 첨부하여 메일을 보내주시면 도와드리겠습니다.     
+[tournaments@ppy.sh](mailto:tournaments@ppy.sh) 에 증상과 스크린샷을 첨부하여 메일을 보내주시면 도와드리겠습니다.

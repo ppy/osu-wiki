@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Hur registrerar jag mig?
 ------------------------
 

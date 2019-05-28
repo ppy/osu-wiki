@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Vidéo de présentation des mascottes : <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 Mascottes d'osu!

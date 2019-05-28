@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "osu!remix contest #1: Results"
-permalink: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-results
 date: 2016-08-29 08:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-results
 ---
+
 The results are in for the first ever osu!remix contest. Get ready to feast your ears on some awesome tracks!
-<!-- more -->
 
 A little while ago, we held our first official remix contest for one of osu!'s first ever exclusive tracks - *circles!*, by our in-house composer (and developer!) [nekodex](https://osu.ppy.sh/users/nekodex). 21 talented musicians stepped forward and took their own spin on *circles!*, with everything from electronica to dubstep and beyond explored by our intrepid contestants.
 

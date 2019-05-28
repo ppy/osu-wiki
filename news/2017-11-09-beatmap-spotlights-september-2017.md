@@ -19,7 +19,6 @@ Congratulations to the winners of the August 2017 Spotlights. They receive one m
 + **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
 + **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
-
 ## osu!
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/reloaded.jpg)](https://osu.ppy.sh/beatmapsets/380143)
@@ -109,6 +108,5 @@ Players will be taken by surprise at the height of the song with a long note sec
 --------
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out on these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
-
 
 —OnosakiHito

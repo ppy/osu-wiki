@@ -3,6 +3,7 @@ tags:
 - OWC 2014
 - OWC2014
 ---
+
 # osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)

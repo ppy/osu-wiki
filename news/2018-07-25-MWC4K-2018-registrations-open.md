@@ -3,7 +3,7 @@ layout: post
 title: "osu!mania 4K World Cup 2018: Registrations now open!"
 date: 2018-07-25 18:00:00 +0000
 ---
- 
+
 With fruits depleted and the osu!catch World Cup concluding it is now time to restock with both rice and noodles! The osu!mania 4K World Cup registration phase is now open!
 
 ![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)

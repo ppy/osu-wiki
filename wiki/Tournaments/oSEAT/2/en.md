@@ -4,6 +4,7 @@ tags:
 - oSEAT 2
 - SEAT 2
 ---
+
 # osu! South East Asia Tournament 2
 
 ![oSEAT 2 Logo](img/logo.png)

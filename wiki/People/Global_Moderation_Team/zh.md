@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Global Moderation Team
 
 **Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是 osu!Staff 的一部分，主要负责管理论坛以及各个聊天室的纪律。

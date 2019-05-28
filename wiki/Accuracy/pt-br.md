@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"

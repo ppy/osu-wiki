@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest Voting Now Open: osu!catch and osu!mania"
-permalink: http://osunews.tumblr.com/post/161314703108/monthly-beatmapping-contest-voting-now-open
 date: 2017-06-01 20:45:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161314703108/monthly-beatmapping-contest-voting-now-open
 ---

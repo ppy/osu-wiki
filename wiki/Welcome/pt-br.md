@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Bem-vindo
 
 Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido pelo peppy com quatro modalidades de jogo: osu!standard, um simulador de cliques em círculos; osu!taiko, um emulador de tambor; osu!catch, um coletor de salada de frutas; osu!mania, um modo de ritmo com ênfase em esmagar o teclado.

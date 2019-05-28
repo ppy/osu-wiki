@@ -5,6 +5,7 @@ tags:
 - MWC2016
 - MWC4K 2016
 ---
+
 # osu!mania 4K World Cup 2016
 
 ![MWC 4K 2016 Logo](img/logo.png)

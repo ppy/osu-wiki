@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 

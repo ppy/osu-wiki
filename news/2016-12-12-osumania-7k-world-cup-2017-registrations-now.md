@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2017 - Registrations now open!"
-permalink: http://osunews.tumblr.com/post/154375559588/osumania-7k-world-cup-2017-registrations-now
 date: 2016-12-12 13:30:44 +0000
 tumblr_url: http://osunews.tumblr.com/post/154375559588/osumania-7k-world-cup-2017-registrations-now
 ---
+
 We'd like to welcome all of you to this year's official osu! World Cup. As in every year, the rules have been adjusted from the previous MWC 7K, so please **[read them carefully](https://osu.ppy.sh/wiki/MWC7K_2017#Ruleset)** before registering for this tournament.
-<!-- more -->
 
 ![](https://puu.sh/sMSdZ/cc19cb0259.png)
 

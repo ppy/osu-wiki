@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Selamlar. Benimle şahsi olarak iletişime geçme isteğinizi anlıyorum, ancak sizden buranın benden yardım/destek istemek için doğru yer **olmadığını** anlamanızı istiyorum.  osu! desteği şahsi mesajlardan ayrı tutuyorum, ve ayrıca forum PM'lerine ayak uymayı oldukça zor buluyorum. Bundan ötürü sizden aşağıdakilerden birisini yapmanızı istiyorum:
 
 ## Teknik destek

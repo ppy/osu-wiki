@@ -63,4 +63,3 @@ We're excited to see what kind of incredible pieces the osu! community can churn
 As always, keep your eyes and ears peeled for future developments surrounding the Featured Artist project, since this is only the tip of the iceberg after all!
 
 —Chaos, Ephemeral
-

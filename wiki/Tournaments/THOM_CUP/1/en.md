@@ -4,6 +4,7 @@ tags:
 - THOM CUP
 - Heptakey osu!mania CUP
 ---
+
 The Heptakey osu!mania Cup #1
 ======================
 

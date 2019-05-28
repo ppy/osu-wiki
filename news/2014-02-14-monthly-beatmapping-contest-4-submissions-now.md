@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #4 - Submissions Now Open"
-permalink: http://osunews.tumblr.com/post/76642902143/monthly-beatmapping-contest-4-submissions-now
 date: 2014-02-14 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76642902143/monthly-beatmapping-contest-4-submissions-now
 ---
+
 Calling all mappers! It's time again for another monthly beatmapping contest! We're departing from the previous theme of electronic/dance music and embracing the spirit of Valentine's Day with a special pop song for this contest.
 
 The song choice for this month is Kuba Oms - My Love, from the as-of-yet unreleased album [ADHD](https://kubaoms.bandcamp.com/album/adhd), available on the 4th of March with pre-ordering available via the Bandcamp preview below. Coming in with a strong 3:48 duration and kicking synth-pop bassline, My Love offers mappers a veritable canvas to experiment with in a distinctly different genre from our last contests. We look forward to seeing what you come up with!
