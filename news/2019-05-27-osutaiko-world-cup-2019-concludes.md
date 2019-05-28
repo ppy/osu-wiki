@@ -10,7 +10,7 @@ date: 2019-05-27 22:00:00 +0000
  
 Six weeks ago, the osu!taiko World Cup stepped boldly into the limelight, returning for its 9th instalment. 
 
-We've come a long way since our inception in 2011 — long gone are the days where multiple country teams run rampant, with dominating performances from the likes of both Japan Team A and B, and curious oddities such as the great Italy-Netherlands Alliance of 2011-2013.
+We've come a long way since our inception in 2011—long gone are the days where multiple country teams run rampant, with dominating performances from the likes of both Japan Team A and B, and curious oddities such as the great Italy-Netherlands Alliance of 2011-2013.
  
 This year is special in the sense that it is the first time the osu!taiko World Cup has had 32 unique countries participating in a battle for the very top. 
 
