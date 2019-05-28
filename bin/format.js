@@ -101,6 +101,8 @@ function format(file) {
     if (lineEnding !== '\n')
         content = content.replace(/\r\n?/g, '\n');
 
+    const originalContent = content;
+
     [content, meta] = detachMeta(content);
 
     rules
@@ -108,6 +110,10 @@ function format(file) {
         .forEach(rule => [content, meta] = rule(content, meta, log));
 
     content = attachMeta(content, meta);
+
+    if (originalContent === content)
+        return;
+
     content = content.replace(/\n/g, lineEnding);
     fs.writeFileSync(file, content);
 }
