@@ -67,7 +67,7 @@ function detachMeta(content) {
     const metaEndIndex = content.indexOf('---\n', metaStartMatch[0].length);
 
     return [
-        content.substring(metaEndIndex + 3).replace(/^\n+/, ''),
+        content.substring(metaEndIndex + 3).replace(/^\n\n?/, ''),
         content.substring(0, metaEndIndex + 3)
     ];
 }
