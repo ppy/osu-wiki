@@ -4,7 +4,7 @@ title: "osu!taiko World Cup 2019 Concludes"
 date: 2019-05-27 22:00:00 +0000
 ---
  
-*sniff sniff...* do you smell that? Yeah, smelt like ...*sniff*... poppin' gamers in here. What's poppin' gamers? The osu!taiko World Cup just came to a close last weekend - read on to find out what happened in the Grand Finale!
+*sniff sniff...* do you smell that? Yeah, smells like... *sniff...* poppin' gamers in here. What's poppin' gamers? The osu!taiko World Cup just came to a close last weekend! Read on to find out what happened in the grand finale!
  
 ![](/wiki/shared/news/banners/TWC_2019_banner.jpg)
  
