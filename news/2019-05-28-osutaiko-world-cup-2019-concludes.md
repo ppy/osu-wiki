@@ -18,7 +18,7 @@ With an upgrade to match sizes and the introduction of a terrifying Grand Finals
  
 Without further ado, let's get right into the results!
  
-[![](/wiki/shared/news/2019-05-27-osutaiko-world-cup-2019-concludes/podium.jpg?1)](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2019)
+[![](/wiki/shared/news/2019-05-27-osutaiko-world-cup-2019-concludes/podiumv2.jpg)](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2019)
 
 **Congratulations to Team Japan for winning the osu!taiko World Cup 2019!**
  
