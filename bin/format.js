@@ -43,16 +43,15 @@ function rule_1_boundaryWhitesapce(content, meta, log) {
 }
 
 function rule_2_atxHeaders(content, meta, log) {
-    return [
-        content.replace(/^(.+)\n(?:(=+)|-+)$/gm, (match, header, l1, index) => {
-            if (header.trim() === '' || header.startsWith('#'))
-                return match;
+    content = content.replace(/^(.+)\n(?:(=+)|-+)$/gm, (match, header, l1, index) => {
+        if (header.trim() === '' || header.startsWith('#'))
+            return match;
 
-            log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
-            return (l1 !== undefined ? '# ' : '## ') + header.trim();
-        }),
-        meta
-    ];
+        log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
+        return (l1 !== undefined ? '# ' : '## ') + header.trim();
+    });
+
+    return [content, meta];
 }
 
 function attachMeta(content, meta) {
