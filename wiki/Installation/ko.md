@@ -2,13 +2,11 @@
 outdated: true
 ---
 
-설치하기
-========
+# 설치하기
 
 이 문서에서는 여러가지 플랫폼에서의 osu! 설치 방법과 몇가지 문제 해결 절차를 기술합니다.
 
-PC **환경에서의 설치 가이드**
------------------------------
+## PC **환경에서의 설치 가이드**
 
 ### Windows
 
@@ -100,8 +98,7 @@ Please keep in mind that each time you will want to launch/install osu! or confi
 #### Adding Beatmaps
 - Drag and drop the .osz file from a file manager to an osu! window.
 
-안드로이드 기기
----------------
+## 안드로이드 기기
 
 ### osu!droid (비공식)
 
@@ -167,8 +164,7 @@ Please keep in mind that each time you will want to launch/install osu! or confi
     - Directory will vary **if you did modify it in Advanced Option. You need to put in that directory you set instead.**
 - Plug off your device and launch T-Aiko
 
-iOS devices
------------
+## iOS devices
 
 ### osu! iPhone (unofficial, created by nuudles)
 
@@ -210,8 +206,7 @@ It is another game quite similar to osu! but that has its own features and ranki
 - Select your desired pack.
   - It is suggested you download packs that do not cost you money first. Free packs have "FREE" tag instead of the "USD$" cost tag.
 
-FAQ and troubleshooting
------------------------
+## FAQ and troubleshooting
 
 ### osu!
 
@@ -241,8 +236,7 @@ FAQ and troubleshooting
     -   Do you happen to be using a Motorola smartphone? There seems to be a bug in Motorola Android firmware that causes the game to crash when pressing play without even letting you send an error report. The only recommendation to-do is to install a (Stock) Google ROM.
     -   If you discover any (bugs/problems), please post at [this forum post](https://osu.ppy.sh/community/forums/topics/58640) complete with what smartphone you are using and the steps to reproduce the problem.
 
-External links
---------------
+## External links
 
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 -   peppy's download page [2](https://osu.ppy.sh/p/download)

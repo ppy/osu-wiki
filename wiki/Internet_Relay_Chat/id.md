@@ -1,17 +1,14 @@
-Apa itu Internet Relay Chat?
-============================
+# Apa itu Internet Relay Chat?
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
 
-osu!Bancho
----------
+## osu!Bancho
 osu!Bancho menyediakan gateway untuk mengakses IRC (obrolan dalam game). Anda dapat terhubung dengan klien anda sendiri dan mulai obrolan dengan orang lain tanpa harus menggunakan klien osu!. Mohon perhatikan bahwa prokotol IRC ini telah dimodifikasi oleh karena itu jangan harap fitur klien anda berfungsi dengan benar.
 
 **Pemberitahuan: [HexChat](http://hexchat.github.io/) diketahui memiliki masalah dengan IRC osu!** ([laporan bug dari GitHub HexChat](http://github.com/hexchat/hexchat/issues/818)), jika hal ini mengganggu anda, pertimbangkan untuk menggunakan klien lain .
 
 
-Cara Menghubungkan
---------------
+## Cara Menghubungkan
 Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 - **Server:**  `irc.ppy.sh`
@@ -22,8 +19,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 *Kata sandi IRC anda berbeda dengan kata sandi akun osu! anda. **Jangan dibagikan kepada orang lain**.*
 
 
-Perintah Dasar IRC
-------------------
+## Perintah Dasar IRC
 | Perintah             | Deskripsi                                          |
 | -------------------- | -------------------------------------              |
 | `/join <#channel>`   | Bergabung ke channel                                 |
@@ -32,8 +28,7 @@ Perintah Dasar IRC
 | `/ignore <username>` | Mengabaikan pengguna (menyembunyikan pesan mereka) |
 
 
-Menonaktifkan Pemberitahuan Masuk/Meninggalkan
-----------------------------
+## Menonaktifkan Pemberitahuan Masuk/Meninggalkan
 Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanalnya sangat ramai seperti `#osu`, anda akan menerima pemberitahuan masuk/meninggalkan terus menerus dan tidak dapat mengikuti percakapan. Oleh karena itu, biasanya pesan-pesan ini lebih disarankan untuk disembunyikan.
 
 ```
@@ -61,8 +56,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 
 Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang tersedia, sebagian besar klien memiliki cara untuk menonaktifkannya.
 
-Pertanyaan yang Sering Diajukan
---------------------------------
+## Pertanyaan yang Sering Diajukan
 
 ### Saya mendapat kesalahan "Token Otentikasi Salah".
 1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).

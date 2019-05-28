@@ -5,20 +5,17 @@ outdated: true
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Beatmap Nominator
-==================
+# Beatmap Nominator
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/Beatmap_Nominator_Rules) dan [Informasi Umum untuk Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
 Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
 
-Peran dan Tanggung Jawab
---------------------------
+## Peran dan Tanggung Jawab
 
 Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps) ke dalam ranah status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding.
 
-Menjadi seorang Beatmap Nominator
-----------------------------
+## Menjadi seorang Beatmap Nominator
 
 Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominator jauh lebih mudah dibandingkan dengan yang dulu. [Quality Assurance Team](https://osu.ppy.sh/groups/7) akan mengumumkan pendaftaran Beatmap Nominator dalam bentuk post di [Pending Beatmaps Subforum](https://osu.ppy.sh/community/forums/6) dalam rentang waktu 1 atau 2 bulan.
 
@@ -63,15 +60,13 @@ Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
   + Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa aspek lainnya.
 + Setelah mengevaluasi setiap modder, akan diadakan diskusi di mana akan dipertimbangkan apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
 
-Quality Assurance Helper
--------------------------
+## Quality Assurance Helper
 
 Quality Assurance Helper adalah sukarelawan di dalam Beatmap Nominator yang bertugas membantu Quality Assurance Team memeriksa setiap beatmap yang berstatus Qualified untuk menemukan masalah. Jika ditemukan sebuah masalah, mereka akan melaporkan beatmap yang dimaksud ke thread [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428).
 
 Quality Assurance Helper bebas memilih beatmap yang ingin diperiksa, setidaknya empat beatmap per bulan. Jika ditemukan seorang anggota QAH yang tidak memenuhi standar aktivitas, hak mereka akan dicabut dan mereka hanya bisa kembali masuk setelah melewati masa cooldown selama satu bulan. Beatmap Nominator yang tidak masuk dalam masa percobaan atau masa cooldown boleh bergabung dengan Quality Assurance Helper kapan saja.
 
-Anggota Tim
-------------
+## Anggota Tim
 
 Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nominator berhak secara resmi untuk melakukan nominasi.
 

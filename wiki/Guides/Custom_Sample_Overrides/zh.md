@@ -1,10 +1,8 @@
-Custom Sample Overrides
-=================================
+# Custom Sample Overrides
 
 你可以在谱面所在文件夹下放置或者替换下列文件来自定义你的音效:
 
-Normal音效(loud):
---------------------
+## Normal音效(loud):
 
 -   normal-hitnormal
 -   normal-hitwhistle
@@ -21,8 +19,7 @@ Normal音效(loud):
 -   normal-sliderwhistle (loops)
 -   normal-slidertick
 
-Soft音效:
-----------
+## Soft音效:
 
 -   soft-hitnormal
 -   soft-hitwhistle
@@ -35,14 +32,12 @@ Soft音效:
 -   soft-sliderwhistle (loops)
 -   soft-slidertick
 
-通用的音效
-------------
+## 通用的音效
 
 -   spinnerspin (这个音效的频率是逐渐增加的. 它从〜500赫兹到80000赫兹递增，其中原始样本率为44100Hz)
 -   spinnerbonus (ding)
 
-音效的格式
--------------
+## 音效的格式
 
 你可以使用wav 或者 mp3, 但是你需要注意: wav文件是最好的选择。mp3文件会导致不正确循环并且造成一个约20ms的延迟,也许你需要因此增加一个延迟量。
 

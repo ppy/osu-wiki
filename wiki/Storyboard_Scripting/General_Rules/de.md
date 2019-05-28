@@ -1,12 +1,10 @@
-Storyboard Scripting - allgemeine Regeln
-===========================================
+# Storyboard Scripting - allgemeine Regeln
 
 ![Ein Bespiel eines Skriptes im .osb.](SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
 
   Diese Seite und der Rest von der Anleitung beschreibt die Zeilen des geskripteten Codes in einer .osb oder .osu Datei unter dem `[Events]`. Die Befehle in der .osb Datei wird von allen vorhandenen Schwierigkeitsstufen in einer Beatmap verwendet; wenn sie jedoch in .osu enthalten sein sollten, werden sie nur in der gegebenen Schwierigkeitsstufe angewendet.
 
-Grundregeln
--------------
+## Grundregeln
 
 ### Objekte
 
@@ -97,8 +95,7 @@ Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map keine Pause
     -   Ereignisse bleiben weiterbestehen, selbst wenn der Spieler zu den Resultaten überspringen sollte, die Audioeffekte im Storyboard werden trotzdem fortgesetzt und abgespielt.
 -   Im Tab "Design" beim Beatmap Editor wird die derzeitige Zeit in Millisekunden angezeigt. Drücken Sie STRG + C, um die Zeit in Ihre Zwischenablage zu kopieren.
 
-Kommentare
------------
+## Kommentare
 
 You can do single-line C-style comments, but be advised they may be removed if you save in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
 

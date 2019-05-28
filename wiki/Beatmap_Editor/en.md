@@ -1,5 +1,4 @@
-Beatmap Editor
-==============
+# Beatmap Editor
 
 The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps).
 It is separated into four parts:

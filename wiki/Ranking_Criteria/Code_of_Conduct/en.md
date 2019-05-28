@@ -1,10 +1,8 @@
-Code of Conduct: Modding and Mapping
-=====================================
+# Code of Conduct: Modding and Mapping
 
 The **Code of Conduct: Modding and Mapping** is a set of rules and guidelines that apply to the entirety of the osu! Modding and Mapping ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [General Ranking Criteria](/wiki/Ranking_Criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the Modding and Mapping ecosystem, it is mandatory to follow this Code of Conduct. Misconduct that violates these rules might lead to penalties issued to your account.
 
-Behaviour and Conduct
----------------------
+## Behaviour and Conduct
 
 -   The goal of modding is to help a mapper improve their work so that it can be pushed towards Ranked status if the mapper chooses to do so. If you're not interested in helping people, steer clear of the discussion to avoid *hurting them*.
 -   When modding, consider who the post is directed at, what you aim to achieve by posting and what response you expect to receive. This will ensure your best intentions are conveyed and your post is easy to understand.
@@ -14,8 +12,7 @@ Behaviour and Conduct
 -   If you wish to comment on or discuss a beatmap, go to that beatmap's thread - not social media outlets, or the Disqus comments section (if the map is Qualified), as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
 -   Personal attacks, hateful comments, misplaced joking, derailing the thread and general drama-initiation are not acceptable in any form and **will not be tolerated**.
 
-Making a Mod Post
-------------------
+## Making a Mod Post
 
 So you downloaded a map and you've thought of some things you aren't happy with - now's the time to put your thoughts to words and help improve the map. But how can you get the mapper to see your point of view, test your suggestions and give you feedback? After all, no-one likes feeling that their time has been wasted.
 
@@ -36,8 +33,7 @@ Suggestions themselves should ideally consist of four main parts, though based o
 
 There are any number of ways to present your mod post, so feel free to experiment, but try to keep the visuals simple and formatted in a way that it is easy for the mapper and others to work with.
 
-Responding to a Mod
---------------------
+## Responding to a Mod
 
 Someone just posted some suggestions on your map, great! - but it doesn't end there. For the record, it's necessary to give a proper response for two major reasons. Firstly, so that future mods can be tailored more specifically to your concept or style, resulting in fewer unhelpful suggestions. Secondly, just as a mod post *helps you to improve your mapping ability*, providing a detailed mod response helps the modder improve their modding ability, meaning they gain experience and can provide more helpful and detailed mods in the future. You never know who you may need to ask for a mod next time around!
 
@@ -46,8 +42,7 @@ Someone just posted some suggestions on your map, great! - but it doesn't end th
 -   When declining a suggestion, remain calm and professional, say what needs to be said in order to explain yourself and **leave it at that**. No matter how impolite, confusing or unhelpful the suggestion was, getting angry and responding with hostility, sarcasm, etc. will not help the situation.
 -   BNs and QATs will review previous mods before placing any icons and may want to initiate or revisit discussions during their checks. Any assistance you can provide as to why you did or didn't do something takes very little effort, and could be a huge help to all parties later on.
 
-Further Exchange and Discussion
---------------------------------
+## Further Exchange and Discussion
 
 Sometimes, a single mod and response isn't enough to bring all parties to agreement, or fully resolve an issue. Perhaps the mapper doesn't agree with a suggestion, and the modder isn't satisfied with their response. Alternatively, both parties might agree that although one option is better, it isn't the best option and could still be improved further with additional input. Continued feedback is the best way to improve a beatmap, so get people involved and talking to get as many different ideas, or see things from as many points of view as necessary.
 
@@ -57,8 +52,7 @@ Sometimes, a single mod and response isn't enough to bring all parties to agreem
 -   If you can't explain something through logic, you will not be able to explain it to them through violence either. Rather than continue a discussion that isn't progressing, walk away and try again with the next modder/mapper.
 -   When things look to be getting out of hand, or of the discussion is struggling to stay on topic, call a moderator - don't contribute to the problem by continuing to post.
 
-Qualified Mapsets
-------------------
+## Qualified Mapsets
 
 The Qualified section allows mapsets to receive any final suggestions for change or improvement before reaching Ranked status. When modding a Qualified map, everything you consider "not minor" should **always** be mentioned - minor issues are also worth mentioning however, especially if they affect gameplay. If a Qualified mapset accumulates a significant number of minor issues, or if there is one or more major / unrankable issues, the mapset should be disqualified so that fixes and improvements can be made before attempting requalification.
 

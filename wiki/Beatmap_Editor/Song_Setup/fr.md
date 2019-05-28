@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-Paramètres de la beatmap
-==========================
+# Paramètres de la beatmap
 
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
 
 ![Emplacement des paramètres de la beatmap](img/Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
 
-Général
--------
+## Général
 
 ### Métadonnées de la musique et de la map
 
@@ -59,8 +57,7 @@ Vous devriez entrer ces informations avant de créer une seconde difficulté, po
 
 Une fois encore, pour éviter des problèmes, assurez vous que tous les champs (sauf "Difficulty") soient tous remplis identiquement dans toutes les difficultés. D'autres règles sont aussi mises en place, merci de lire les [critères de ranking](/wiki/Ranking_Criteria).
 
-Difficulty (Difficulté)
------------------------
+## Difficulty (Difficulté)
 
 Onglet en relation avec le cœur des paramètres de la beatmap. Chaque paramètre affecte différent aspects de la beatmap.
 
@@ -138,8 +135,7 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 **Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
 
-Audio
------
+## Audio
 
 ![Onglet "Audio"](img/SS_Audio.jpg "Onglet "Audio"")
 
@@ -161,8 +157,7 @@ Ici vous pouvez ajuster le volume des hitsounds. Cela est important, puisque mê
 
 Cliquez sur les boutons pour tester les hitsounds actuels. Ces sons sont additifs, Whistle est une combinaison de Normal et Whistle.
 
-Colours (Couleurs)
-------------------
+## Colours (Couleurs)
 
 ![Onglet "Colours"](img/SS_Colours.jpg "Onglet "Colours"")
 
@@ -170,8 +165,7 @@ Cette section est utilisée principalement pour assigner des couleurs de combo. 
 
 L'autre partie de cette fenêtre permet d'assigner une couleur à l'arrière plan, mais c'est inutile puisque les maps ne peuvent pas être rankées sans arrière-plan, ce dernier annulant ce paramètre sauf si vous utilisez un storyboard où ce paramètre est visible.
 
-Storyboarding
--------------
+## Storyboarding
 
 ![Onglet "Storyboarding"](img/SS_Storyboarding.jpg "Onglet "Storyboarding"")
 
@@ -201,8 +195,7 @@ Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-
 
 ![Exemple ici](img/SS_Skin_eg.jpg)
 
-Advanced (Avancé)
------------------
+## Advanced (Avancé)
 
 ![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet "Advanced"")
 

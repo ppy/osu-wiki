@@ -4,15 +4,13 @@ outdated: true
 
 ![osu!supporter Abzeichen](Supporter tag.png "osu!supporter Abzeichen")
 
-Einleitung
-==========
+# Einleitung
 
 Übergeleitet von diesem Link: <https://osu.ppy.sh/p/support>
 
 Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohne dabei für das Spiel selber zahlen zu müssen.
 
-Vorteile als osu!supporter
-==========================
+# Vorteile als osu!supporter
 
 -   osu!direct (Direkter Download von Beatmaps im Spielclient)
 -   osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
@@ -30,11 +28,9 @@ Vorteile als osu!supporter
 -   [Performance Ranking](https://osu.ppy.sh/p/pp): Die Option "filter to friends" ist verfügbar.
 -   *Weitere Features werden noch hinzugefügt*
 
-Geschäftlicher Teil
-===================
+# Geschäftlicher Teil
 
-Kosten
-------
+## Kosten
 
 \[www.finanzen.net/waehrungsrechner/ Benutzt diese Webseite zum Umrechnen\] oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet. <img src="O!s Decide.jpg" title="fig:Beispiel hierfür" alt="Beispiel hierfür" width="300" />
 
@@ -52,17 +48,14 @@ Kosten
 
 -   Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
 
-Entscheidung
-------------
+## Entscheidung
 
 Im Normalfall wird dein Account für den Kauf eines Supporter Tag angegeben. Sofern du diesen nicht für dich kaufen willst, klicke auf "Gift another player" und schreibe den Namen des jeweiligen Users hin, dem der Tag gewidmet ist. Wenn du mehr als nur einem User einen Supporter Tag schenken möchtest, klicke auf "Add another tag" neben "Checkout". Nachdem du bestätigt hast, dass es sich auch um diesen Benutzer handelt, schiebe den weißen Schalter bei jedem Benutzer, um zu bestimmen, wie lange der Supporter Tag wirken soll und wie du insgesamt zahlst. Du kannst bei jedem Benutzer eine unterschiedliche Zeit angeben, wo es dann dementsprechend unterschiedliche Preise geben wird. Sobald du die Länge bei jedem bestimmt hast, klick auf "Checkout".
 
-Bezahlung
----------
+## Bezahlung
 
 Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehlenswerte Bezahlmethoden sind [PayPal](https://www.paypal.com) oder Kreditkarten. Zwar gibt es auch andere Möglichkeiten wie etwa per SMS Bezahlung, allerdings wird da eine zusätzliche Gebühr angerechnet und ist daher nicht unbedingt die kostengünstigste Bezahlmethode. Wenn du weniger als deine Gesamtkosten ("Total Cost") in "dorrah" bezahlst (zusätzliche Kosten, sofern nicht Paypal benutzt wird, sind inkludiert), erhälst du nicht deine(n) Abzeichen.
 
-Dauer
------
+## Dauer
 
 <img src="O!s Duration.jpg" title="fig:Der Vergleich: Inaktiver und aktiver osu!supporter." alt="Der Vergleich: Inaktiver und aktiver osu!supporter." width="200" /> Sobald die Transaktion abgeschlossen ist, wird auf deinem Profil unter "Recent Activity" folgendes stehen: "{Name des Benutzers} has become an osu! supporter - thanks for your generosity!" (sofern das der erste Tag auf dem jeweiligen Account ist). Sofern schonmal osu!Supporter geholt wurde, wird stattdessen "{Name des Benutzers} has once again chosen to donate to the osu! cause - thanks for your generosity!" stehen. Wenn du dir den für dich selber gekauft hast, wirst du unter deinem Profilbild das osu!supporter Abzeichen finden. Um nachzuprüfen, wann dieser abläuft, [kehre zur Seite zurück, woher du diesen gekauft hast](https://osu.ppy.sh/p/support).

@@ -1,5 +1,4 @@
-osu! World Cup 2017
-=============================
+# osu! World Cup 2017
  
 ![osu! World Cup 2017](img/logo.png)
  

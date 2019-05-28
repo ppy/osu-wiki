@@ -1,10 +1,8 @@
-.osr (format de fichier)
-=================
+# .osr (format de fichier)
 
 Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour l'utiliser, il suffit juste d'avoir la beatmap de ce replay.
 
-Les types de données
---------------------
+## Les types de données
 
 | Nom (nom anglais) | Nombre d'octets | Description |
 | ---- | ----- | ----------- |
@@ -15,8 +13,7 @@ Les types de données
 | ULEB128 (ULEB128) | Variable | nombre entier à taille variable; en savoir plus: [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
 | Chaîne de caractère (string) | Variable | Contient trois partie; un octet qui est soit défini par 0x00, indiquant que les deux autres parties ne sont pas présentes, ou 0x0b (11 en décimal), indiquant que les deux autres parties sont présentes. Si la première partie est définie par 0x0b, alors, la deuxième partie est un ULEB128, définissant la longueur de la chaîne de caractère, et ensuite la chaîne de caractère elle-même, encodé en UTF-8. En savoir plus: [UTF-8](http://en.wikipedia.org/wiki/UTF-8) |
 
-Format
-------
+## Format
 
 Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à taille variable.
 
@@ -54,8 +51,7 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
 | z | Entier (int) | Combinaison bit à bit des actions (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Fumée = 16) (K1 et M1 sont toujours utilisés simultanément; K2 et M2 sont toujours utilisés simultanément: 1+4=5; 2+8=10) |
 
-Mods
-----
+## Mods
 
 Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 

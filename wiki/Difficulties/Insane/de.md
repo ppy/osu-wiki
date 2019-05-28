@@ -1,10 +1,8 @@
-Insane
-=========
+# Insane
 
 Die Insane Schwierigkeitsstufe ist die schwerste im normalen 4 [difficulty](/wiki/Difficulties) Mapset. Diese Maps sind häufig Ex­em­p­li­fi­ka­ti­onen für den Skill des jeweiligen Mappers, und sind die Schwierigkeitsstufen in denen leicht Kreativität gezeigt werden kann. Es gibt einige Synonyme für "Insane", wie z.B. *Lunatic* ("verrückt", wie es in der "Touhou" Serie vorkommt), "Another"(*IIDX beatmania* Serie), "Extreme"(*Jubeat* Serie), usw.
 
-Einstellungen
--------------
+## Einstellungen
 
 Beachte bitte dass das hier keine festen Vorgaben sind. Die Einstellungen va­ri­ie­ren je nach Lied und dem Stiel des Mappers.
 

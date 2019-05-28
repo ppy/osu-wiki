@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-osu! World Cup 2014
-=====================
+# osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
 A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecida por OWC 2014, é gerida pela [Administração de Torneios](https://osu.ppy.sh/groups/26). É o 5º evento do osu! World Cup. O Atual campeão é a **![][flag_KR] Coreia do Sul**.
 
-Calendário do Torneio
--------------------------
+## Calendário do Torneio
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -23,8 +21,7 @@ Calendário do Torneio
 | Finals - Week 1    | 6-7 Dec 2014             |
 | Finals - Week 2    | 13-14 Dec 2014           |
 
-Premiação
-------------
+## Premiação
 
 | Placing                                                    | Prizes                                                                                      |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -32,8 +29,7 @@ Premiação
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 mezes de supporter tag                                                                    |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mez de supporter tag                                                                      |
 
-Organização
--------------
+## Organização
 
 | Job                        | Person(s)                                                                                                                                                                                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,8 +41,7 @@ Organização
 
 ------------------------------------------------------------------------
 
-Links
--------
+## Links
 
 -   [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
 -   [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -60,8 +55,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Participantes
----------------
+## Participantes
 
 | Country                                    | Grupo A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -121,8 +115,7 @@ Participantes
 
 ------------------------------------------------------------------------
 
-Lista de Beatmaps
-------------------
+## Lista de Beatmaps
 
 ### Quartas de final
 
@@ -216,8 +209,7 @@ Lista de Beatmaps
 
 ------------------------------------------------------------------------
 
-Resultado das Partidas
---------------------------
+## Resultado das Partidas
 
 ### Oitavas de final
 
@@ -263,8 +255,7 @@ Resultado das Partidas
 
 ------------------------------------------------------------------------
 
-Regras
-----------
+## Regras
 
 ### Regras Gerais do Torneio
 

@@ -1,12 +1,10 @@
-Performance Points
-==================
+# Performance Points
 
 The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
 
 It aims to shift the focus of skill progression from the amount of time played to an **actual representation of the player's skill.** This is attained by the calculation of a unique _pp_ score, based on the difficulty of a beatmap and a player's performance on that map.
 
-History
--------
+## History
 
 Revealed to the public during April 2012 and titled only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
 
@@ -20,8 +18,7 @@ It continued to exist in this capacity for more than a year of service, until [T
 
 *ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).
 
-How is pp calculated?
----------------------
+## How is pp calculated?
 
 Performance Points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode.
 
@@ -102,8 +99,7 @@ You can calculate the exact amount of this bonus by following this formula, wher
 The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
 
-FAQ
----
+## FAQ
 
 ### Where can I view the performance ranking?
 

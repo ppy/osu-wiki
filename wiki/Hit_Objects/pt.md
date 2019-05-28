@@ -1,5 +1,4 @@
-Hit Objects
-===========================
+# Hit Objects
 
 Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. Existem três tipos de objetos:
 
@@ -9,15 +8,13 @@ Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. 
 
 Hit circles e sliders são encontrados frequentemente, enquanto que spinners irão aparecer ocasionalmente. Tudo que você interage durante o decurso do beatmap é um objeto.
 
-Hit Circle
-----------
+## Hit Circle
 
 ![Um hit circle na skin padrão.](Hit_circle.png "Um hit circle na skin padrão.")
 
 Chamado Hit Marker(marcador de batida) nos [jogos de DS](/wiki/Glossary). É um círculo colorido com um número dentro do mesmo (dependendo da sua posição num [Combo](/wiki/Glossary)) e com uma borda de outro círculo ([Approach Circle](/wiki/Glossary) aproximando á volta dele. Uma vez que a borda do Aproach Circle colide com a borda do Hit Circle, o jogador deve [clicar](/wiki/Glossary) no Hit Circle, ganhando assim um número de pontos (50, 100 ou 300) dependendo da precisão de seu clique, e possivelmente conseguindo um [Beat!](/wiki/Score) ou um [Elite Beat!](/wiki/Score) se o círculo em questão for o final de um combo. Clicar regularmente Hit Circles providencia um pequeno impulso na [barra de HP](/wiki/Glossary), e um impulso considerável no círculo final do combo.
 
-Slider
-------
+## Slider
 
 ![Um slider na skin padrão.](Slider2.jpg "Um slider na skin padrão.")
 
@@ -27,8 +24,7 @@ Slider Ticks são círculos pequenos que aparecem em intervalos regulares ao lon
 
 Sliders são mapeados de acordo com sons longos na música em questão. Eles também são usados para carregar o ritmo (especialmente quando o ritmo poderia ser demasiado completo sem ajuda de um slider ou não adequado a usar um Hit Circle), e são algumas vezes usados para substituir streams de Hit Circles para dificuldades mais baixas.
 
-Spinner
--------
+## Spinner
 
 ![Um spinner na skin padrão.](Spinner.jpg "Um spinner na skin padrão.")
 

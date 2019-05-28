@@ -5,8 +5,7 @@ outdated: true
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team
-=====================================
+# Quality Assurance Team
 
 **Quality Assurance Team** は一般的にQATとして知られ、Qualifiedされた譜面を確認し、質やプレイ性を損なう譜面には必要な場合においてDisqualifyとしてWIP/Pendingに戻すことができる審査員です。彼らはRankする前にQualifiedされた譜面に対して最低限の品質を守らせる門番の役割をします。
 
@@ -14,8 +13,7 @@ QATには厳しいアクティビティの制限を守る義務があり、内�
 
 メンバーは[BNから推薦され](/wiki/People/Beatmap_Nomination_Group)、同時に彼らはその新しい役割について承諾をしなければいけません。 BNとは違いQATはチャットで赤い名前になります。
 
-Team Members
-------------
+## Team Members
 
 [Group Link](https://osu.ppy.sh/groups/7)
 

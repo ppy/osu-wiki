@@ -4,15 +4,13 @@ outdated: true
 
 ![osu!supporter tag](Supporter tag.png "osu!supporter tag")
 
-Introduzione
-============
+# Introduzione
 
 Maggiori informazioni e fonti al link: <https://osu.ppy.sh/p/support>
 
 Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel complesso.
 
-Vantaggi degli osu!supporter
-============================
+# Vantaggi degli osu!supporter
 
 -   osu!direct (download diretto in-game)
 -   osu!test (versione di test per vedere i nuovi aggiornamenti prima che diventino pubblici)
@@ -30,11 +28,9 @@ Vantaggi degli osu!supporter
 -   [Performance Ranking](https://osu.ppy.sh/p/pp): Possibilità di usare il comando "filtra agli amici" ("filter to friends").
 -   *Altri vanaggi in arrivo in futuro!*
 
-Pagamento
-=========
+# Pagamento
 
-Costo
------
+## Costo
 
 [Usa questo convertitore di valute](http://www.oanda.com/currency/converter/) oppure [ask Google](https://www.google.com.my/#q=usd+exchange+rate) per verificare il costo nel tuo stato. Il costo dell'osu!supporter è nel dollaro statunitense ("USD$ dollar"). <img src="O!s Decide.jpg" title="fig:Un esempio" alt="Un esempio" width="300" />
 
@@ -52,17 +48,14 @@ Costo
 
 -   I costi sono per gli account individuali. Non c'è nessuno sconto per degli osu! supporter tag comprati assieme.
 
-Decidi a chi dare l'osu!supporter
----------------------------------
+## Decidi a chi dare l'osu!supporter
 
 Normalmente, sarà selezionato il tuo account come profilo al quale dare l'osu!supporter. Se però non sei la persona a cui vuoi dare l'osu!supporter, clicca su "Gift another player" per scrivere un altro username al quale dare l'osu!supporter. Se vuoi regalare l'osu!supporter a più di una persona, clicca su "Add another tag" vicino a "Checkout". Dopo aver selezionato i giocatori a cui dare il supporter, seleziona la durata dell'osu!supporter trascinando il quadrato bianco sotto il loro username per decidere la durata, e di conseguenza il costo, del supporter tag. Dopo aver scelto la durata e gli account, clicca "Checkout".
 
-Pagamento
----------
+## Pagamento
 
 Dopo aver deciso la durata e gli account, clicca "Checkout". Qui avrai varie opzioni di pagamento. È consigliato fortemente l'uso di [PayPal](https://www.paypal.com) o altri servizi bancari. Ci sono altri metodi di pagamento (come via SMS o servizi come [Cherry Credits](http://www.cherrycredits.com/)), ma se si utilizzano tali servizi, verranno applicati dei costi aggiuntivi. Se paghi meno del "Total Cost" in "dorrah" (con anche il costo addizionale se non si sta usando Paypal), non riceverai i tuoi supporter tag.
 
-Durata
-------
+## Durata
 
 <img src="O!s Duration.jpg" title="fig:Differenza tra status attivo e inattivo dell&#39;osu!supporter" alt="Differenza tra status attivo e inattivo dell&#39;osu!supporter" width="200" /> Dopo che il pagamento è stato completato, la sezione "Recent Activity" del tuo profilo dirà "{Il tuo username} has become an osu!supporter - thanks for your generosity!" (che si traduce in "{Il tuo username} è diventato un osu!supporter - grazie per la tua generosità!") se è la prima volta che diventi osu!supporter. Le altre volte riceverai sulla sezione "Recent Activity" il messaggio "{Il tuo username} has once again chosen to donate to the osu! cause - thanks for your generosity!" (che si traduce in "{Il tuo username} ha deciso un'altra volta di donare ad osu! - grazie per la tua generosità!"). Se ne hai comprato uno per te stesso, vedrai nel tuo profilo sotto il tuo nickname la targhetta dell'osu!supporter. Per sapere *quando* il tuo osu!supporter tag finirà, consulta [la stessa pagina dal quale lo hai comprato](https://osu.ppy.sh/p/support).

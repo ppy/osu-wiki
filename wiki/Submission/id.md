@@ -1,5 +1,4 @@
-Pengajuan
-============
+# Pengajuan
 
 [Beatmapper](/wiki/Glossary/#beatmapper) dan mengajukan beatmap yang [masih dalam tahap pengerjaan (WIP)](/wiki/Glossary/#wip) maupun beatmap yang mereka anggap selesai (2 tingkat kesulitan dibutuhkan) ke masing-masing subforum [Beatmap](https://osu.ppy.sh/community/forums/12) *[Work In Progress/Help](https://osu.ppy.sh/community/forums/10)* dan [Pending Beatmap](https://osu.ppy.sh/community/forums/6), menggunakan **Sistem Pengajuan Beatmap (BSS)** dalam permainan \[Ctrl + Shift + U\].
 
@@ -9,8 +8,7 @@ Terletak dalam [Penyunting](/wiki/Beatmap_Editor) osu!, BSS secara otomatis meng
 
 ![Layar Peringatan Sistem Pengajuan Beatmap](BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
 
-Pengajuan
------------
+## Pengajuan
 
 ### Sebelum mengajukan sebuah beatmap
 
@@ -117,8 +115,7 @@ Sekali lagi, ingat bahwa masih banyak masalah yang mungkin terjadi dalam sebuah 
 
 Tolong lihat [Kriteria Pemeringkatan](/wiki/Ranking_Criteria) untuk informasi lebih lanjut tentang ini.
 
-Pertanyaan
-------------
+## Pertanyaan
 
 ### Map saya tidak akan dimod maupun dirank...
 

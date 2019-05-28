@@ -2,11 +2,9 @@
 outdated: true
 ---
 
-Installation
-======================
+# Installation
 
-安装指南
--------
+## 安装指南
 
 此页面会告诉你如何获得游戏和一些排除故障的方法。
 
@@ -150,8 +148,7 @@ Installation
 - 选择你想要的谱面。
   - 建议你先下载免费的谱面，免费的谱面有 "FREE" 标签。
 
-常见问题和故障排除
------------------------
+## 常见问题和故障排除
 
 ### osu!
 - 我尝试运行 osu!，但是出现了 "Initialization Error"！
@@ -173,8 +170,7 @@ Installation
 - 你希望添加新的功能么？
   - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/community/forums/topics/62313)中告诉我们。
 
-外部链接
---------------
+## 外部链接
 
 - peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 - peppy's download page [2](https://osu.ppy.sh/p/download)

@@ -1,8 +1,6 @@
-Hard
-========
+# Hard
 
-Summary
--------
+## Summary
 
 Hard difficulties are considered the second most difficult in the general of 4 difficulty mapset. This difficulty level between normal and hard difficulty is considered enormous and is considered by many one of the hardest learning curves.
 
@@ -14,8 +12,7 @@ A commonly used technique to map Hards for faster songs is a simple pattern of 1
 
 Try to not create a huge gap between your Hard and Insane difficulty, it might unbalance your entire mapset.
 
-Guidelines
-----------
+## Guidelines
 
 Following mostly "what you can hear". Try to capture the essence of the song and don't leave out too much. **Interesting patterns and beat placements are encouraged** along with jumps and short streams/triplets. **If your mapset features a Normal and an Insane make sure your Hard map is a reasonable stepping stone between them**.
 
@@ -26,8 +23,7 @@ And try to avoid these:
 -   extremely long streams
 -   fullscreen jump patterns ([Jumps](/wiki/Mapping_Techniques/Jump) that are wide as the screen)
 
-Setup
------
+## Setup
 
 An ideal setup for a Hard difficulty would be:
 

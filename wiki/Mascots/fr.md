@@ -4,11 +4,9 @@ outdated: true
 
 Vidéo de présentation des mascottes : <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
-Mascottes d'osu!
-================
+# Mascottes d'osu!
 
-Pippi
------
+## Pippi
 
 ![Pippi](Pippi_Daru_Header.png "Pippi")
 
@@ -47,8 +45,7 @@ Féminin
 #### Biographie
 (Prochainement)
 
-Yuzu
-----
+## Yuzu
 
 ![Yuzu](Yuzu_Profile.png "Yuzu")
 
@@ -83,8 +80,7 @@ Masculin
 #### Biographie
 [Introduction](https://osu.ppy.sh/news/89483664163) (détails prochainement)
 
-Maria
------
+## Maria
 
 ![Maria](Maria_Profile.jpeg "Maria")
 
@@ -118,11 +114,9 @@ Féminin
 #### Biographie
 [Introduction](https://osu.ppy.sh/news/143103453693) (Prochainement)
 
-Cameos
-======
+# Cameos
 
-Ryūta Ippongi
--------------
+## Ryūta Ippongi
 
 ![Ryuuta](Fruit_ryuuta.png "Ryuuta")
 
@@ -159,8 +153,7 @@ Masculin
 #### Biographie
 Il s'agit du leader de l'équipe d'acclamation. Il a un mental d'acier, une âme pure et aide les gens en détresse autour de lui en se battant à leurs côtés.
 
-Agent J
--------
+## Agent J
 
 ![Agent J](J_chibi_Header.png "Agent J")
 
@@ -195,8 +188,7 @@ Masculin
 #### Biographie
 Un expert dans tous les styles de danse, du hip-hop au ballet. J peut raviver l'espoir de n'importe quel être vivant.
 
-Don
----
+## Don
 
 ![Don](Don-chan_Taiko.png "Don")
 
@@ -232,7 +224,6 @@ Mai 2008
 #### Biographie
 Don est le protagoniste de la série de jeux Taiko no Tatsujin. Il ressemble à un tambour japonais (appelé taiko) avec des bords blancs et quatre pattes, une face rouge (qui semblerait plutôt orange) et un corps bleu clair. Le rêve de Don est de partager la beauté du Taiko avec le monde entier. Trois ans se sont écoulés depuis qu'il a déménagé dans la maison de Wada, il est devenu populaire dans son village. Il a un appétit monstrueux et a tendance à faire les magasins et acheter de façon excessive, au prix de la maison de Wada. Il finit habituellement ses phrases par "Ta-don", voulant dire "Ba-doum" en japonais.
 
-Galerie d'images
-================
+# Galerie d'images
 
 [Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery "wikilink")

@@ -2,8 +2,7 @@
 
 Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting van het puntensysteem en het speluitzicht.
 
-Het spel
---------
+## Het spel
 
 ### "Ouendan"? Nog nooit van gehoord - wat is het?
 
@@ -45,8 +44,7 @@ Voor meer informatie kan je [hierheen](NL:Interface "wikilink") gaan.
 
 Dit is het speluitzicht. De balk bovenaan links is je levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect afgetikte hit (zgn. '300 hit' of 'Geki Beat') zal je leven meer doen stijgen dan een slecht afgetikte hit ('100' of zelfs '50' hit). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. Rechts naast de levensbalk kan je je score zien. Het nummer links onder is je comboteller/score vermenigvuldiger.
 
-Punten halen
-------------
+## Punten halen
 
 Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip van de wiskunde formules.
 
@@ -126,8 +124,7 @@ Je verliest leven door:
 -   een hit circle of slider te missen.
 -   een spinner niet af te maken.
 
-Alternatieve spelmodi
----------------------
+## Alternatieve spelmodi
 
 ### Hoe speel ik de Taiko-modus?
 
@@ -171,8 +168,7 @@ Doorgaans gebruik je de pijltjes naar links en recht om de vanger te bewegen. De
 
 Wanneer je gebruikmaakt van de "Relax" mod, beheers je de bewegingen van de vanger met je muis.
 
-Veelvoorkomende problemen
--------------------------
+## Veelvoorkomende problemen
 
 ### Mijn gerankte score stijgt niet! Is dit een bug?
 

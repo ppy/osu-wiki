@@ -1,10 +1,8 @@
-Pliki osu!
-==============
+# Pliki osu!
 
 ![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
 
-Lokalizacja
------------
+## Lokalizacja
 
 ### Windows
 
@@ -13,8 +11,7 @@ Lokalizacja
 | C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
-Foldery
-----------
+## Foldery
 
 ### \_MACOSX
 
@@ -73,8 +70,7 @@ Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają 
 
 **osu!data files.** Nie powinieneś ich ruszać.
 
-Pliki programowe
--------------------
+## Pliki programowe
 
 ### .db (pliki baz danych)
 

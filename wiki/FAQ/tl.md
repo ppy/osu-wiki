@@ -1,7 +1,6 @@
 # FAQ
 
-Panimula
-========
+# Panimula
 
 ### Hindi ko pa nalaro tong "Ouendan" na laro, ano ba ito?
 
@@ -11,8 +10,7 @@ Panimula
 
 Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay nandun ang storya. Bawat stage ay may isang nilalaman na storya ng isang tao na nasa peligro. Diyan kung saan ay lalabas ang Ouendan (Cheer Squad). Sa kapangyarihan ng male cheer-leading, kailangan mong tulungan ang mga taong nasa peligro.
 
-Paano maglaro?
---------------
+## Paano maglaro?
 
 *Buong explenation (English): [osu! Standard](PH:Standard "wikilink")*
 
@@ -83,8 +81,7 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 -   Yung bilog na katabi ng accuracy mo ay dun pinapakita ang timer bar, kung saan pinapakita ang haba ng kanta.
 -   Ang numero sa kaliwang ibaba ay ang combo counter/score multiplier.
 
-Mga Issues at Tanong
---------------------
+## Mga Issues at Tanong
 
 ### Hindi ko mapagana ang osu! dahil may nakukuha ako na 'Initialization Error'!
 

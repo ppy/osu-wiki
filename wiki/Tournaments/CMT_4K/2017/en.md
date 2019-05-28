@@ -1,5 +1,4 @@
-Chinese osu!mania 4K Tournament 2017
-=============================
+# Chinese osu!mania 4K Tournament 2017
 
 ![CMT 4K 2017](pic.png)
 

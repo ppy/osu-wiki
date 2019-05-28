@@ -1,12 +1,10 @@
-Custom Hitsound Library
-=========================
+# Custom Hitsound Library
 
 [*Custom Hitsound Library* by: Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)
 
 This article serves as a library of custom hitsounds.
 
-Normal Sample Sets
-------------------
+## Normal Sample Sets
 
 ### Hitnormals
 
@@ -40,8 +38,7 @@ Normal Sample Sets
 
 1.  [14](https://up.ppy.sh/files/normal-slidertick.wav) - little bell
 
-Soft Sample Set
----------------
+## Soft Sample Set
 
 ### Hitnormals
 
@@ -68,8 +65,7 @@ Soft Sample Set
 
 1.  [21](https://up.ppy.sh/files/normal-slidertick.wav) - soft bell
 
-Global
-------
+## Global
 
 ### Special/Other Hitsounds
 
@@ -80,15 +76,13 @@ Global
 
 ### Spinner Bonuses
 
-Packed Sets of Hitsounds
-------------------------
+## Packed Sets of Hitsounds
 
 1.  Ouendan1 authentic pack: [26](https://up.ppy.sh/files/hitsounds_oto1.rar)
 2.  EBA authentic pack: [27](https://up.ppy.sh/files/hitsounds_eba.rar)
 3.  Ouendan2 authentic pack: [28](https://up.ppy.sh/files/hitsounds_oto2.rar)
 
-Miscellaneous
--------------
+## Miscellaneous
 
 1.  [29](http://www.mediafire.com/?2oyjtzimita) - claps
 2.  [30](http://www.mediafire.com/?tzemmzgym2j) - cymbols1
@@ -105,7 +99,6 @@ Miscellaneous
 13. [- LKs Hitsound Pack](https://puu.sh/uEpY)
 14. [- LKs Ultimate Hitsound Pack](https://puu.sh/1Ojer)
 
-Silence
--------
+## Silence
 
 1.  [41](https://up.ppy.sh/files/blank.wav) - silence ;o

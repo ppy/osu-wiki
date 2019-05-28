@@ -7,13 +7,11 @@ There are 2 types of compression. **Lossy** and **Lossless** compression.
 -   **Lossless** implies that the quality never degrades and can be repeatedly compressed or decompressed.
 -   **Lossy** is a much more powerful form of compression which sacrifices quality for space/processor demand.
 
-Zip
----
+## Zip
 
 The `.osz` package is actually a `.zip` file, and will compress your beatmap, although not very much, since audio, video, and images are usually compressed very well. Zip and other archives are all lossless compression, otherwise you wouldn't be able to get your data back.
 
-Video
------
+## Video
 
 Recommended reading: [Encoding Video](/wiki/Beatmap_Editor_Guides/Compressing_Videos).
 
@@ -21,8 +19,7 @@ Videos are usually where people go wrong. There are thousands of video codecs ou
 
 h.264 and XviD are very good codecs to use but like most video codecs, they are lossy. So do not re-encode multiple times, but encode from the high resolution source.
 
-Audio
------
+## Audio
 
 Now that there is a limit on audio bitrate, it's not as much of a problem anymore. However long songs at 192 kbps will undoubtedly take up most of your space. I recommend using a variable bitrate between rate factor 2 and 5 (I try to stick around 4). With a variable bitrate, you get more compression in low activity areas, and more quality in higher areas.
 
@@ -32,8 +29,7 @@ Programs such as [Audacity 1.3.13](http://audacity.sourceforge.net/download/) do
 
 osu! accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advantage over mp3 at low bitrates (under 128 kbps), but suffers from lack of support by proprietary software like apple, since mp3 is the standard for audio. However, there are severely limiting returns on using anything higher than 128 kbps. For osu! it doesn't really matter which one you use.
 
-Images
-------
+## Images
 
 There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use `.png` and `.jpg` compression to the most of their ability however, leaving you with 4 KB pngs of 1 colour, which could be compressed up to 400 times smaller.
 
@@ -51,23 +47,19 @@ For even better compression, you can use a script which combines multiple compre
 
 ![Compressing Images with pngslim](CBF_04.png "Compressing Images with pngslim")
 
-Results
--------
+## Results
 
 Here we have results of compressing.
 
 ![Compression Results](CBF_05.png "Compression Results")
 
-Compressing Videos
-=====================
+# Compressing Videos
 
-Precursor/Notes
----------------
+## Precursor/Notes
 
 Editing videos with [avidemux](http://fixounet.free.fr/avidemux/download.html)
 
-Removing audio
---------------
+## Removing audio
 
 1) Open avidemux
 
@@ -87,8 +79,7 @@ Removing audio
 
 ![Tutorial Image 3](CV_03.png "Tutorial Image 3")
 
-Encoding Video
---------------
+## Encoding Video
 
 6) Make sure that both the video and audio are on "Copy".
 
@@ -112,13 +103,11 @@ Encoding Video
 
 ![Tutorial Image 8](CV_08.png "Tutorial Image 8")
 
-Save
-----
+## Save
 
 11) Press `Ctrl` + `S` to save the file somewhere, then copy it into your folder.
 
-Final Remarks
--------------
+## Final Remarks
 
 If avidemux does not open your file correctly, there are alternatives: [Mediacoder](http://www.mediacoderhq.com/) is a bit more difficult to use, but might work, and can save h.264 flv files. [SUPER](http://www.erightsoft.com/SUPER.html) isn't very good, hard to find, but is another program that might be worthwhile, if you can find the download on the website. Finally, [VLC](http://www.videolan.org/vlc/) can be used, **but that should be avoided at all costs**.
 

@@ -28,22 +28,19 @@ When you have played a map for about 750 times, it should be expected that you g
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/-CRpgW5HTrg" frameborder="0" allowfullscreen></iframe></br>
 
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 [rrtyui](https://osu.ppy.sh/users/352328) finally shows up on osu!archive, setting a crazy 97.35% DT 2069x 1 miss play on [Jeff Williams - I Burn (Extended Remix feat. Casey Lee Williams)](https://osu.ppy.sh/beatmapsets/137196) around 3 years ago, gaining 422pp. His number one score on this map has been dethroned, but this score still remains as one of the best ones we will see by rrtyui.
 
 Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6wwy7t/osuarchive_14_rrtyui_jeff_williams_i_burn_remix/) (it is still ongoing on the osugame reddit), more scores are being churned out as this gets published!
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [Cookiezi](https://osu.ppy.sh/users/124493) has certainly stepped up his game after the YACA meeting, taking an outstanding 98.38% HD FC on [penoreri - Preserved Valkyria](https://osu.ppy.sh/beatmaps/828242) on the Arles difficulty in a multiplayer lobby! All he could say was "ez".
 
 [BeasttrollMC](https://osu.ppy.sh/users/3171691) has taken the leap of faith into the 500pp pool with a crazy 98.55% FC on [DragonForce - Extraction Zone](https://osu.ppy.sh/beatmaps/1007522?m=0), earning himself 533pp! Recently ranked, this map stands at 6.93* and at OD9. What else can we say? He is a beast after all.
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [_yu68](https://osu.ppy.sh/users/6170507) and [uone](https://osu.ppy.sh/users/5321719) go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
 
