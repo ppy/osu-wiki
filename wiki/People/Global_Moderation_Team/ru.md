@@ -66,7 +66,6 @@ outdated: true
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | русский | чат |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | русский | чат |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | корейский, японский | чат |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | французский | чат |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | тагалог («филиппинский») | чат |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | испанский | техподдержка |

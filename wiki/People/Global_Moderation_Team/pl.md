@@ -60,7 +60,6 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Niemiecki | Moderacja Forum oraz czatu |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rosyjski | Moderacja czatu |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Rosyjski | Moderacja czatu |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreański, Japoński | Moderacja czatu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Francuski | Moderacja czatu |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipiński | Moderacja czatu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański | Pomoc techniczna |

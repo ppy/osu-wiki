@@ -60,7 +60,6 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Jerman | Moderasi Chat, Moderasi Forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Rusia | Moderasi Chat |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Rusia | Moderasi Chat |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korean, Jepang | Moderasi Chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Perancis | Moderasi Chat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipina | Moderasi Chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan Teknis |

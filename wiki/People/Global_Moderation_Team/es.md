@@ -60,7 +60,6 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán | Moderación del chat, Moderación del foro |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Ruso | Moderación del chat |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Ruso | Moderación del chat |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coreano, Japonés | Moderación del chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Francés | Moderación del chat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderación del chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |

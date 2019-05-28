@@ -195,6 +195,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |

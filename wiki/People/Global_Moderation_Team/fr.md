@@ -63,7 +63,6 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand | Modération du Chat, Modération du Forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russe | Modération du Chat |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du Chat |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, Japanese | Modération du Chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Français | Modération du Chat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Modération du Chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espanol | Support technique |

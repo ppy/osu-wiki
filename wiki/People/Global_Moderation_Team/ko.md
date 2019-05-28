@@ -60,7 +60,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 독일어 | 채팅 관리, 포럼 관리 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 러시아어 | 채팅 관리 |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | 러시아어 | 채팅 관리 |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 한국어, 일본어 | 채팅 관리 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 프랑스어 | 채팅 관리 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 필리핀어 | 채팅 관리 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |

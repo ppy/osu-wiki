@@ -63,7 +63,6 @@ outdated: true
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天室管理 |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语, 日语 | 聊天室管理 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 法语 | 聊天室管理 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |

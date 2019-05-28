@@ -63,7 +63,6 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Deutsch | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russisch | Chat Moderation |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russisch | Chat Moderation |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreanisch, Japanisch | Chat Moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Französisch | Chat Moderation |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippinisch | Chat Moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch | Technische Unterstützung |
