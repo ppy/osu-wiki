@@ -8,7 +8,8 @@ const changes = {};
 const rules = [
     null,
     rule_1_boundaryWhitesapce,
-    rule_2_atxHeaders
+    rule_2_atxHeaders,
+    rule_3_noTabs
 ];
 
 const ruleArgIndex = process.argv.findIndex(a => a === '-r' || a === '--rule') + 1;
@@ -66,6 +67,21 @@ function rule_2_atxHeaders(content, meta, log) {
         log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
         return (l1 !== undefined ? '# ' : '## ') + header.trim();
     });
+
+    return [content, meta];
+}
+
+function rule_3_noTabs(content, meta, log) {
+    let match;
+
+    const tabsPattern = /\t+/g;
+    while (match = tabsPattern.exec(content))
+        log(lineAtIndex(content, match.index), 'Tabs are not allowed');
+
+    const filteredContent = content.replace(/Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く/g, '');
+    const nonAsciiPattern = /[^\S\n\r\t ]+/g;
+    while (match = nonAsciiPattern.exec(filteredContent))
+        log(lineAtIndex(filteredContent, match.index), 'Non-ASCII whitespace is not allowed');
 
     return [content, meta];
 }
