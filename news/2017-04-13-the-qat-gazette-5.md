@@ -11,13 +11,13 @@ Hello again! A few weeks ago when I talked about the **Best of 2016 Voting**, I 
 
 To that effect, I'll be bringing you a rundown of some of the recent happenings in and around the Quality Assurance Team and what's coming up in the near future.
 
-**We have welcomed a new member to our ranks!** A hearty congratulations to Nardoxyribonucleic, who will be assisting in the creation of Beatmap Nominator tests for osu!taiko along with DakeDekaane. Be sure to treat them well as they settle into their new role!  
+**We have welcomed a new member to our ranks!** A hearty congratulations to Nardoxyribonucleic, who will be assisting in the creation of Beatmap Nominator tests for osu!taiko along with DakeDekaane. Be sure to treat them well as they settle into their new role!
 
 **The Beatmap Nomination Group for osu!standard has recently been split into two Tiers.** This will affect the process of beatmap nomination, so if you're a mapper looking to see your work in the ranked section, be sure to check out all the details [**here**](https://osu.ppy.sh/community/forums/topics/578413).
 
 **Beatmap Nominator tests for non-standard game modes are currently being marked.** We expect to see some new faces pushing quality osu!taiko, osu!catch and osu!mania maps forward within the next few weeks! After monthly reviews of BN activity in each mode, this will also coincide with the removal of any inactive nominators.
 
-**Updates to the Ranking Criteria are continuing.** In addition to the osu!standard General and Specific criteria being formally approved last month, osu!taiko are almost ready to push out their new and improved General Ranking Criteria, with the [**Timing**](https://osu.ppy.sh/community/forums/topics/557042) and [**Storyboarding**](https://osu.ppy.sh/community/forums/topics/559005) sections currently open to feedback, and a first draft of the Metadata section expected to be available for feedback very soon.  
+**Updates to the Ranking Criteria are continuing.** In addition to the osu!standard General and Specific criteria being formally approved last month, osu!taiko are almost ready to push out their new and improved General Ranking Criteria, with the [**Timing**](https://osu.ppy.sh/community/forums/topics/557042) and [**Storyboarding**](https://osu.ppy.sh/community/forums/topics/559005) sections currently open to feedback, and a first draft of the Metadata section expected to be available for feedback very soon.
 
 **Lastly, a quick peek at some upcoming discussion articles on our blog:**
 
