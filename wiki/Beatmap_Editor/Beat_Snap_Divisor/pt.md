@@ -7,7 +7,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 ![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - {Nome}
-- 	Apenas ticks brancos
+- Apenas ticks brancos
 - Melhor para dificuldades Easy.
 
 ### Divisor 1/2

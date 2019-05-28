@@ -136,9 +136,9 @@ Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará c
 - `Ordenar por`: Ordena las publicaciones por `linea de tiempo` (predeterminado, ordenada por la marca de tiempo dada desde la publicación de la modificación) o `Ultima actualización` (ordenada segun cuando se publicó la publicación)
 - `Contraer todo` y `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
 - Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
-	- Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
-	- **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
-	- Solo los miembros del [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
+  - Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
+  - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
+  - Solo los miembros del [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
 - Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
 - Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
 - Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.

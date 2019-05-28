@@ -112,7 +112,7 @@ Baris hijau: Kamu.
 
 ![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
 
-- 	Ketukan Seperduabelas
+- Ketukan Seperduabelas
 
 ### Pembagi 1/16
 
