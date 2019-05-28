@@ -22,7 +22,7 @@ Without further ado, let's get right into the results!
 
 **Congratulations to Team Japan for winning the osu!taiko World Cup 2019!**
  
-With new leadership in the form of [iceOC](https://osu.ppy.sh/users/5482401), Team Japan showed few signs of weakness throughout the tournament, and will continue to defend their championship title for the **sixth** year in a row! Surely there must be someone that can arrest their momentum...right? ...hello?
+With new leadership in the form of [iceOC](https://osu.ppy.sh/users/5482401), Team Japan showed few signs of weakness throughout the tournament, and will continue to defend their championship title for the **sixth** year in a row! Surely there must be someone that can arrest their momentum... right? hello?
  
 Team Japan will receive the grand prize: $150 per team member, profile badge, and the highly coveted "osu!taiko Champion" user title for one year!
  
