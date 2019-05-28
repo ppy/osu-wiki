@@ -1,12 +1,10 @@
-Expert
-=====================
+# Expert
 
 Como forma de estender os limites de beatmapping, Experts foram criados para serem níveis *semelhantes* a [Insane](/wiki/Difficulties/osu!/Insane) mas vão além.
 
 Esses níveis usam esse icone: ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
 
-Settings
---------
+## Settings
 
 *Observação: isso é apenas uma sugestão geral. As configurações de dificuldade variam dependendo da musica e do próprio estilo do mapper!!*
 

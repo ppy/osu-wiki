@@ -1,10 +1,8 @@
-Pencapaian
-============
+# Pencapaian
 
 **Pencapaian** (Achievements) adalah sebuah badge kecil di bagian bawah profil para user yang mengindentifikasi seseorang telah mencapai sebuah target yang telah ditentukan. Saat ini, badge dibagi dalam 5 grup
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 | Video Game Pack | Anime Pack | Internet! Pack | Rhythm Game Pack |
 | :-------------: | :--------: | :------------: | :--------------: |
@@ -13,8 +11,7 @@ Beatmap Packs
 | ![Video Game Pack vol.3](img/all-packs-gamer-3.png "Video Game Pack vol.3") | ![Anime Pack vol.3](img/all-packs-anime-3.png "Anime Pack vol.3") | ![Internet Pack vol.3](img/all-packs-internet-3.png "Internet Pack vol.3") | ![Rhythm Pack vol.3](img/all-packs-rhythm-3.png "Rhythm Pack vol.3") |
 | ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
-Combo
------
+## Combo
 
 | Combo | The High Ranker |
 | :---: | :-------------: |
@@ -23,8 +20,7 @@ Combo
 | ![1000 Combo (any song)](img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](img/all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
-Dedication
-----------
+## Dedication
 
 | Standard | Taiko | Catch the Beat | Mania |
 | :------: | :---: | :------------: | :---: |
@@ -33,8 +29,7 @@ Dedication
 | ![25,000 Plays (osu! mode)](img/osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Hush-Hush
----------
+## Hush-Hush
 
 Achievement ini tidak memiliki cara yang jelas untuk mendapatkannya. Pemain tersebut harus mencari tahu apa yang harus dia lakukan untuk membuka Achievement tersebut. Memberi tahu seseorang tentang bagaimana cara untuk membuka Achievement ini *akan diberi Peringatan/Larangan.* Judul dari Achievement itu adalah sebuah petunjuk untuk membukanya.
 

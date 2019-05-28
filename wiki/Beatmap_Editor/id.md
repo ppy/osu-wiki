@@ -1,5 +1,4 @@
-Penyunting Beatmap
-===================
+# Penyunting Beatmap
 
 ![osu!Editor Windowed mode](Compose/Compose.png "osu!Editor Windowed mode")
 
@@ -11,8 +10,7 @@ Penyunting Beatmap
 -   [Timing](/wiki/Beatmap_Editor/Timing): Tempat dimana untuk mengatur BPM dan offset. Disini juga untuk mengatur beberapa Hitsound.
 -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup): Di sinilah berbagai pilihan tentang Maps yang akan ditetapkan. Dan termasuk combo colors dan juga difficulty settings.
 
-Artikel Terkait
----------------
+## Artikel Terkait
 
 -   [Beatmapping](/wiki/Beatmapping) (Basic Mapping)
 -   [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)

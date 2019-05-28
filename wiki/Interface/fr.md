@@ -28,8 +28,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 3.  **Change Avatar**: Ouvre la page de modification de votre avatar dans votre navigateur Internet.
 4.  **Close** : Ferme la fenêtre.
 
-Menu de jeu
-===========
+# Menu de jeu
 
 <img src="introscreen2.png" title="Menu de jeu" alt="Menu de jeu" width="280" />
 
@@ -43,8 +42,7 @@ Menu de jeu
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-Ecran de sélection des beatmaps
--------------------------------
+## Ecran de sélection des beatmaps
 
 <img src="soloplay1.jpeg" title="L&#39;écran de sélection" alt="L&#39;écran de sélection" width="300" />
 
@@ -120,11 +118,9 @@ Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR
 | Global Ranking (Selected Mod)   |
 | Friend Ranking                  |
 
-Ranking screen
-==============
+# Ranking screen
 
-Grade screen
-------------
+## Grade screen
 
 This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
 
@@ -132,8 +128,7 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
 
-Online score leader-board
--------------------------
+## Online score leader-board
 
 Note: The back transparent leitmotif is based on what mode you played in.
 

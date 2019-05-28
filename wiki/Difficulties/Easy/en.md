@@ -1,8 +1,6 @@
-Easy
-=======
+# Easy
 
-Guidelines
-----------
+## Guidelines
 
 Generally following the baseline and the most distinctive features of a song. Leave plenty of **recovery time**, especially after spinners, and use sliders to avoid monotonous 1/1 spam. Following the vocals or melody is a possibility. **Consistent spacing is required** to teach beginners the correlation between timing and distance. Overall, you want to achieve the highest possible readability while keeping the balance between too boring and too complex beat patterns.
 
@@ -14,8 +12,7 @@ And try to avoid these:
 -   overlapping notes
 -   [Short Repeating Sliders](/wiki/Mapping_Techniques/Slider/Short_Repeating_Sliders/)
 
-Setup
------
+## Setup
 
 Easy [difficulties](/wiki/Beatmap_Editor/Song_Setup) are easy to make once you get the hang of it. First off, start with the following recommended difficulty settings:
 
@@ -39,8 +36,7 @@ Set the [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, then
 
 Now, your main rhythm here should be every other beat. Start with the [downbeat](/wiki/Beatmap_Editor/Timing) and start off by placing a hit circle every other beat. However, you'll find that this is boring and puts you to sleep. This is why we go back and edit things to spruce things up a bit so that players don't totally die of boredom. You're going to want to do three things:
 
-Being on the beat
------------------
+## Being on the beat
 
 Assume that a `.` (period) is a beat without a [hit circle](/wiki/Hit_Objects), and an `O` (`o`, not a zero) is a beat with a hit circle (Easy difficulties should be mapped to the beat for the most part, with a few exceptions). Here's a simple pattern you can try:
 
@@ -54,8 +50,7 @@ That pattern works well too. If you want to be lazy, you can use the first patte
 
 Remember you can map them by alternating sliders/circles: O.O.O.O can be mapped as O=O.O=O (with = representing sliders) or O=O=O.O (with "repeating sliders")
 
-Slider usage
-------------
+## Slider usage
 
 2-beat-long sliders and measure-long sliders are intuitive here. 1-beat-long sliders often don't work well here simply because your slider velocity is so low that 1-beat-long sliders look like stubs, not sliders. A general rule of thumb is if your slider start and end circles are overlapping each other, your slider is too short and/or your slider velocity is too low.
 
@@ -63,15 +58,13 @@ You can also use sliders to help represent many parts of the music with one easy
 
 Avoid using sliders that only use 1/2 of a beat in the timeline. The rhythm these are conveying are often easily covered by extending a previous slider. 1/2 repeat sliders are just plain confusing to new players since they won't know when the slider will stop repeating.
 
-Being visually appealing
-------------------------
+## Being visually appealing
 
 Since the map is considered to be easy, it is recommended to make the map visually appealing to look at because patterns will definitely be noticed and appreciated on an Easy. This can be achieved through [smooth looking curves](/wiki/Mapping_Techniques/Making_Good_Sliders) and strong structured patterns.
 
 There are more advanced things you can do with an Easy, so experiment and figure out what works best for you.
 
-Spinners
---------
+## Spinners
 
 Spinners should be used sparingly in Easy difficulties - generally ends of mapped parts before a break and the entire song. When using a spinner, make sure the length is fairly long. 2-4 measures is a good guide.
 

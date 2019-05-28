@@ -1,5 +1,4 @@
-Storyboards
-===========
+# Storyboards
 
 ![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
 ![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
@@ -10,8 +9,7 @@ Storyboards are stored in beatmap folders as either standalone [`.osb` files](/w
 
 Storyboards are often very difficult to make and require considerable time and expertise in standard animation and in the creation of graphics. osu! offers a [design editor](/wiki/Beatmap_Editor/Design) inside of the [beatmap editor](/wiki/Beatmap_Editor) to aid the creation of storyboards, but most avid storyboard producers opt to instead program via [storyboard scripting](/wiki/Storyboard_Scripting) directly. Many creators choose to write programs in full-featured programming languages to generate storyboards scripts, because complex visual effects can require a great amount of storyboard code to produce.
 
-Full Storyboards
-----------------
+## Full Storyboards
 
 With the advent of the design editor to create simple graphical effects in beatmaps, the full list of ranked beatmaps with storyboards [is rather long](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Therefore, this page only lists those beatmaps who have "full" storyboards. If you want more, go to the [full maps list](/wiki/Storyboards/Maps).
 

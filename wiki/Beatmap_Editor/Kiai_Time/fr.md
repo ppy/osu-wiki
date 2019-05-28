@@ -1,5 +1,4 @@
-Kiai Time
-=====================
+# Kiai Time
 
 ![Etoiles jaillissant des côtés de l'écran pour montrer que le Kiai Time a commencé.](img/Kiai_Time_test.jpg "Etoiles jaillissant des côtés de l'écran pour montrer que le Kiai Time a commencé.")
 
@@ -7,8 +6,7 @@ Kiai Time
 
 Le **Kiai Time** est défini par le [mappeur](/wiki/Beatmapping) sur une beatmap, entre deux [sections de timing](/wiki/Beatmap_Editor/Timing). Il est possible de reconnaître un Kiai Time grâce aux étoiles qui jaillissent des côtés de l'écran, aux flashs en rythme avec la musique et à la traînée d'étoiles qui suit le curseur (si l'option graphique correspondante est activée).
 
-Kiai Time en beatmapping
-------------------------
+## Kiai Time en beatmapping
 
 Le moment le plus adapté pour placer un Kiai Time sur une musique est de trouver "la partie la plus dure" de la musique en question. Il s'agit généralement du chorus de la musique. Il est possible de placer des sections Kiai Time très courtes sur la musique, de façon à "spammer" l'écran de fontaines d'étoiles. Il s'agit cependant d'une méthode déconseillée car votre map deviendra inclassable et les joueurs risqueront de lagger.
 

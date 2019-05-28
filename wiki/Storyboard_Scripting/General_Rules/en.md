@@ -1,12 +1,10 @@
-General Rules
-================
+# General Rules
 
 ![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
 
  This page and the rest of the guide describes the lines of scripting code that are placed into the .osb or .osu file, under `[Events]`. Commands in the .osb file for the beatmap will appear in all difficulties; those that appear in the .osu file will only appear in that given difficulty.
 
-Basic Rules
------------
+## Basic Rules
 
 ### Objects
 
@@ -98,8 +96,7 @@ States during **playtime** ("draining time", when the player is expected to clic
     -   Events will continue even if the user skips to the results screen early, and the audio produced by the storyboard can still be heard.
 -   When in the Beatmap Editor's Design tab, the current time in milliseconds is displayed. Press Ctrl+C to copy the current time to your clipboard.
 
-Comments
------------
+## Comments
 
 You can do single-line C-style comments, but be advised they may be removed if you save in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
 

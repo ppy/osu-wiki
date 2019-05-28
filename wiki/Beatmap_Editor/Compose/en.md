@@ -1,5 +1,4 @@
-Compose
-==========
+# Compose
 
 ![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 
@@ -9,8 +8,7 @@ Compose
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 
-Features (osu!)
------------------
+## Features (osu!)
 
 For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
@@ -175,8 +173,7 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-Features (osu!mania)
------------------------
+## Features (osu!mania)
 
 (The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
 

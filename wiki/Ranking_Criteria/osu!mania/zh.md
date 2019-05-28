@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-osu!mania Ranking Criteria
-==========================
+# osu!mania Ranking Criteria
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 这里会列出 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87)的最近更新（recent changes）。按照惯例，这里列出了所有正在讨论的规则，一旦意见达成一致，这些规则将被更新。
 
-术语
-------
+## 术语
 
 -   非专家级别 = Easy, Normal. (Basic, Standard)
 -   专家级别 = Hard, Insane. (Hyper, Another)
@@ -18,8 +16,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 -   O2Mania = 是由玩家制作的单机版本的 O2jam 里面的谱面。O2jam 已经消失很多年了，但此游戏的单机版的此游戏仍然有很多谱面。
 -   音符 = 英文 `note` 在本篇当中的翻译方式，表示击打物件。
 
-规则
-------
+## 规则
 
 规则就是规则，有约束性和强制性。它们不是指南，在任何情况下都不允许违背规则。
 
@@ -89,8 +86,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
     -   举个例子，在 [dubstep](https://en.wikipedia.org/wiki/Dubstep) 风格的曲子上就用的很好。
 -   **对于专家级别，单指连打没有 BPM 上的要求，只要符合原曲就可以使用。**
 
-指南
-------
+## 指南
 
 大多数的图应遵循指南（guidelines）。但在某些特殊的情况下指南是可以打破的, 在打破指南前, 问问你自己这样做是否合情理，是否能让一个谱面变的更有趣。如果你对这两个问题的回答是"yes"，那么这么做是可以的。
 
@@ -108,8 +104,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 -    **在歌曲的情感，节奏或者是主题发生比较明显的变化时可以使用滑条速度变化（SV）**，对于剧烈滑条速度变化的使用由制谱者酌情把握。
 -    **在谱面集中，不同键位数应该有相似的难度**。这可以保证不同键位数难度的平衡，满足不同键位数玩家的需要。
 
-xK 参照
-----------
+## xK 参照
 
 注意：1K,2K,3K,9K 和 10K 只存在于非正式版本更新中（unstable update），因此不推荐做这样的图。
 

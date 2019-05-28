@@ -1,5 +1,4 @@
-提出
-=====
+# 提出
 
 [Mapperは譜面の完成状態に応じて](/wiki/Glossary/#beatmapper)[Work-In-Progress (WIP)もしくは](/wiki/Glossary/#wip)[Pending](/wiki/Beatmaps)(2難易度が必要)のどちらかに譜面を投稿(アップロード)することが出来ます。**Beatmap Submission System (BSS)** \[Ctrl + Shift + U\]を使用して上げることができます。
 
@@ -9,8 +8,7 @@ osu!の[Editorによって](/wiki/Beatmap_Editor)、BSSは自動で全ての要�
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
-投稿
-------
+## 投稿
 
 ### 譜面を投稿する前に
 
@@ -119,8 +117,7 @@ MapperもBSSはRankした譜面にはアップデートを適用することが�
 
 ルールについての詳細は[Ranking Criteriaを参照してください](/wiki/Ranking_Criteria)。
 
-質問
------
+## 質問
 
 ### 私の譜面がModやRankされません
 

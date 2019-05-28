@@ -1,10 +1,8 @@
-Menambahkan Hit Sound Kustom
-===========================
+# Menambahkan Hit Sound Kustom
 
 Dari thread: *[how to add custom hitsound? oleh: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (dan sudah dimodifikasi)
 
-Mendapatkan Hit Sound Kustom
-------------------------------
+## Mendapatkan Hit Sound Kustom
 
 Sebelumnya, Anda akan memerlukan beberapa kustom hit sound! Anda bisa mendapatkannya dengan cara:
 - Anda bisa mengambil dari [Custom Hit Sound Library](../Custom_Hit_Sound_Library/),
@@ -31,8 +29,7 @@ Kemudian Anda harus memutuskan untuk menjadikannya normal hit, clap, whistle ata
 
 Jadi, Anda akan menamai filenya (katakanlah Soft clap) `soft-hitclap.wav`.
 
-Beberapa hit sound dengan nama yang sama
----------------------------------------
+## Beberapa hit sound dengan nama yang sama
 
 Jika Anda menginginkan variasi yang lebih dan membutuhkan banyak pilihan untuk clap dan sebagainya, Anda dapat menambahkan nomor di belakangnya.
 

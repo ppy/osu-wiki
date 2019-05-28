@@ -1,7 +1,6 @@
 <img src="Osu!stream.jpeg" title="osu!stream" alt="osu!stream" width="300" />
 
-Perkenalan
-==========
+# Perkenalan
 
 **osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple, dan versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-nya pun masih dalam tahap perencanaan. osu!stream memperkenalkan model gameplay yang baru, seperti *hold circle* dan *connected beat*.
 
@@ -9,8 +8,7 @@ osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!
 
 [osu!stream telah dibahas dalam osu!monthly \#5 (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
 
-Pemasangan
-----------
+## Pemasangan
 
 <img src="Devices.jpg" title="osu!stream" alt="osu!stream" width="200" />
 
@@ -46,8 +44,7 @@ Pemasangan
 -   Pilih lagu yang akan kamu unduh
     -   Disarankan untuk mendownload bundel yang tidak berbayar. Pada bundel yang gratis terdapat tulisan "FREE".
 
-Apa perbedaan versi osu! PC dengan osu!stream?
-----------------------------------------------
+## Apa perbedaan versi osu! PC dengan osu!stream?
 
 -   **Hanya dapat dimainkan di perangkat iOS.** (untuk sekarang)
 -   Seluruh beatmap dibuat dari nol.
@@ -116,18 +113,15 @@ Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau le
 
 Warna latarnya yaitu ungu dan tingkat kecerahan layar bergantung pada HP yang kamu miliki.
 
-Antarmuka
----------
+## Antarmuka
 
 Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar "Store" Os DS.png|Layar pemilihan mode Os SI.png|Informasi dari lagu Osu!stream Example.jpg|Contoh gameplay Os Pause.png|Menu jeda Os FM.png|Menu gagal Os SC.png|*Stage cleared!* Osu!stream Grade.jpg|Layar *grade* Os O1.png|Layar *option* Os O2.png|Layar *option* lagi
 
-Song list
----------
+## Song list
 
 ***Buka [laman ini untuk daftar lagunya](ID:Osu!stream/Song_list "wikilink")***.
 
-Penilaian
----------
+## Penilaian
 
 ### Akurasi
 
@@ -248,32 +242,26 @@ HP tidak akan berkurang apabila:
 
 -   Secara umum, **ketika bermain, lifebar tidak akan berkurang sama sekali**.
 
-Pertanyaan yang Mungkin Ditanyakan
-==================================
+# Pertanyaan yang Mungkin Ditanyakan
 
-Mengapa tidak ada lagu (sisipkan lagu ber-hak cipta disini)?
-------------------------------------------------------------
+## Mengapa tidak ada lagu (sisipkan lagu ber-hak cipta disini)?
 
 -   Karena sulit untuk mendapatkan lisensi dari lagu tersebut.
 
-Bagaimana cara mendapatkan beatmap baru?
-----------------------------------------
+## Bagaimana cara mendapatkan beatmap baru?
 
 -   Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download more songs..." pada daftar pemilihan lagu.
 -   Beatmap dibundel dan beberapa ada yang berbayar. Pastikan kamu dapat membedakan mana bundel yang berbayar dan mana yang tidak, agar kamu tidak "membeli" bundel berbayar secara tidak sengaja.
 
-Apa lagu antarmuka dari osu!stream?
------------------------------------
+## Apa lagu antarmuka dari osu!stream?
 
 -   [nekodex - Lagu antarmuka osu!stream (1.48)](https://soundcloud.com/nekodex/osu-stream-theme). Biasanya terdengar di menu utama dan di layar tutorial.
 
-Siapa saja yang ikut berkontribusi dalam pembuatan osu!stream?
---------------------------------------------------------------
+## Siapa saja yang ikut berkontribusi dalam pembuatan osu!stream?
 
 -   [Klik disini.](Media:Os_C.jpg "wikilink")
 
-Tautan
-======
+# Tautan
 
 -   [Website resmi osu!stream](http://www.osustream.com)
 -   [Forum diskusi (osu!)](https://osu.ppy.sh/community/forums/79)

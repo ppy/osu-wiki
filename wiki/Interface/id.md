@@ -30,8 +30,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 3.  **Change Avatar (Ubah Gambar Profil)**: Membuka halaman edit avatar di browsermu.
 4.  **Close (Tutup)** : Menutup jendela ini.
 
-Menu Bermain
-============
+# Menu Bermain
 
 <img src="Introscreen2.jpg" title="Menu bermain" alt="Menu bermain" width="280" />
 
@@ -45,8 +44,7 @@ Menu Bermain
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-Layar Pemilihan Lagu
---------------------
+## Layar Pemilihan Lagu
 
 <img src="soloplay1.jpeg" title="Pemilihan lagu" alt="Pemilihan lagu" width="300" />
 
@@ -193,11 +191,9 @@ Klik pada **user panelmu** untuk mengakses **Menu Opsi Pengguna**.
 
 Klik pada **logo osu!** untuk **mulai bermain beatmap yang dipilih**.
 
-Layar Peringkat
-===============
+# Layar Peringkat
 
-Layar Tingkat
--------------
+## Layar Tingkat
 
 Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda dapat mengakses hasil daring Anda dengan menggulir ke bawah atau menekan tombol yang jelas.
 
@@ -205,8 +201,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg| Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg| Pertandingan bermain bersama : Team Vs
 
-Papan peringkat skor daring
----------------------------
+## Papan peringkat skor daring
 
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 

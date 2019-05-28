@@ -1,5 +1,4 @@
-Beatmap Editor
-======================
+# Beatmap Editor
 
 ![osu!的谱面编辑器 (Windows 系统)](Compose/Compose.png "osu!的谱面编辑器 (Windows 系统)")
 
@@ -10,8 +9,7 @@ Beatmap Editor
 -   [Timing](/wiki/Beatmap_Editor/Timing): 这是设置乐曲的BPM和Offset。这个窗口还控制点击音效。
 -   [Song setup](/wiki/Beatmap_Editor/Song_Setup): 这是关于地图的各种选项进行设置。这包括颜色和难度设置。
 
-Related articles
-----------------
+## Related articles
 
 -   [作图](/wiki/Beatmapping)
 -   [音符时值](/wiki/Beatmap_Editor/Beat_Snap_Divisor)

@@ -2,11 +2,9 @@
 outdated: true
 ---
 
-Installation - Thai
-===================
+# Installation - Thai
 
-วิธีการติดตั้ง
-----------
+## วิธีการติดตั้ง
 
 ### คอมพิวเตอร์
 

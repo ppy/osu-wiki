@@ -1,5 +1,4 @@
-Storyboards
-===========
+# Storyboards
 
 ![Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"](Sbpassing.png "Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"")
 ![Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.](Sbfailing.png "Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.")
@@ -8,13 +7,11 @@ Uma **Storyboard** (conhecida como SB) é uma imagem animada com dimensões máx
 
 Storyboards são difíceis de fazer e requerem habilidade em animação e criação de gráficos
 
-Criando uma Storyboard
-----------------------
+## Criando uma Storyboard
 
 O [Editor de Storyboard](/wiki/Storyboard_Editor) (conhecido como SBE) é localizado na Design tab (atalho do teclado F2) no Editor de Beatmaps. O SBE oferece aos usuários uma maneira simples de controlar os movimentos de imagens. porém ainda não tem todas as funcionalidades implementadas, apenas as funções principais estão disponíveis. Para fazer Storyboards mais complexas o mapper precisa adquirir conhecimento sobre o código de Storyboard e fazer efeitos diretamente no arquivo OSB. visite [Storyboard Scripting](/wiki/Storyboard_Scripting) para mais informações
 
-Storyboards complexas
----------------------
+## Storyboards complexas
 
 A lista completa de beatmaps [Ranked](/wiki/Beatmaps) que incluem storyboards [pode ser vista aqui](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Porém, essa pagina apenas mostra beatmaps com storyboards complexas. Para outras storyboards visite a [lista completa](/wiki/Storyboards/Maps).
 

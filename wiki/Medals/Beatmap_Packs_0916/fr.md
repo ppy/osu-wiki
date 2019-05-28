@@ -7,8 +7,7 @@
 [media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
 [media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
 
-Anciens packs de beatmaps
-=========================
+# Anciens packs de beatmaps
 
 ***[Cliquez ici pour retourner à la page des "Succès/Médailles"](../)***
 
@@ -408,8 +407,7 @@ Maps:
 - [Crush 40 - Sonic Heroes](https://osu.ppy.sh/beatmapsets/21836)
 - [Anamanaguchi - Scott Pilgrim Anthem](https://osu.ppy.sh/beatmapsets/23073)
 
-Quelques chiffres
-------------------
+## Quelques chiffres
 
 -   16 packs (4 thèmes x 4 volumes)
     -   1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
@@ -418,7 +416,6 @@ Quelques chiffres
 -   1.39 GB (zippées), 1.47 GB (importées)
 -   3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
 
-Remerciements spéciaux
-------------------------------
+## Remerciements spéciaux
 
 -   [Wayback Machine](https://archive.org/web/)

@@ -5,21 +5,18 @@ outdated: true
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Beatmap Nomination Group
-======================================
+# Beatmap Nomination Group
 
 El **Beatmap Nomination Group**, mas comúnmente referido como BNG, es un grupo a cargo de [nominar beatmaps](/wiki/Submission/Beatmap_Ranking_Procedure). Este grupo ha sufrido muchos cambios, especialmente el 22 de agosto del 2014, día en el cual se declaró que ya no formarían parte del staff, revocándoles así sus atributos de moderadores de chat y sus nombres en rojo tanto en el juego como en el foro. El más reciente cambio ocurrió el 1 de febrero de 2015, cuando el nombre del grupo fue cambiado de *Beatmap Appreciation Team o BAT* (Equipo de Apreciación de Beatmaps), a *Beatmap Nominator Group o BNG* (Grupo Nominador de Beatmaps).
 
-Roles y Responsabilidades
--------------------------
+## Roles y Responsabilidades
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
 Los miembros del **Beatmap Nomination Group** son principalmente responsabes de [modear](/wiki/Modding) los [beatmaps pendientes](/wiki/Beatmaps) en el ciclo de ranking.
 Los BN son personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modeo.
 
-Convertirse en un Beatmap Nominator
------------------------------------
+## Convertirse en un Beatmap Nominator
 
 Con el cambio al grupo el 22 de agosto de 2014, unirse al grupo es mucho más fácil de lo que solía ser.
 El [Quality Assurance Team](https://osu.ppy.sh/groups/7) escribirá un anuncio para las inscripciones en la [sección de Pending Beatmaps](https://osu.ppy.sh/community/forums/6) en intervalos irregulares.
@@ -52,8 +49,7 @@ Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con 
   + osu!: 1100
 + Normalmente es una buena idea mantener la puntuación por encima de lo mínimo requerido, ya que pueden haber variaciones en función de la cantidad de aplicantes.
 
-Miembros del Grupo
--------------------
+## Miembros del Grupo
 
 _Ten en cuenta que todos los BN hablan inglés a menos que se indique lo contrario._ Link a [página de grupo de usuarios.](https://osu.ppy.sh/groups/28)
 

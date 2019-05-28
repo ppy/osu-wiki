@@ -1,10 +1,8 @@
-osu!taiko Ranking Criteria
-=========================================
+# osu!taiko Ranking Criteria
 
 Over deze regels en richtlijnen is gediscussieerd in het [osu!taiko Discussion Thread](https://osu.ppy.sh/community/forums/posts/1275323). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [discussion forum](https://osu.ppy.sh/community/forums/87) dat zal worden geupdated, als de discussie wordt afgerond
 
-Veel voorkomende termen
--------------------------
+## Veel voorkomende termen
 
 ### Algemeen
 
@@ -22,8 +20,7 @@ Veel voorkomende termen
 -   **Shaker**: Spinner
 -   **Finisher**: Grote rode of blauwe noot
 
-Regels
--------
+## Regels
 
 De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
 
@@ -31,8 +28,7 @@ De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GE
 
 Finisher noten mogen niet in het midden, of aan het begin van een [Stream](/wiki/Mapping_Techniques/Formations), met 1/4 of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. "Finisher noten aan het einde van de Stream, moeten een andere kleur hebben, dan de voorafgaande noot."
 
-Richtlijnen
----------------
+## Richtlijnen
 
 Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in **speciale gevallen**. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: 'Slaat dat, wat ik wil gaan doen ergens op?' en 'Is het leuker om het zo te spelen, dan als ik de richtlijn volg?' Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké. Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
 
