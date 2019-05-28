@@ -1,5 +1,4 @@
-Changing the Map's Artist or Title
-===================================
+# Changing the Map's Artist or Title
 
 [*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/community/forums/topics/24443)
 

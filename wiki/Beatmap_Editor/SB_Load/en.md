@@ -1,5 +1,4 @@
-SB Load
-==========
+# SB Load
 
 **SB Load** (short for storyboard load) is a number used in [Storyboarding](/wiki/Storyboards) to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
 
@@ -9,14 +8,12 @@ It's best if a map never exceeds 5x SB Load. This ensures that the map is viewab
 
 [Original Forum Post](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
 
-Where It's Displayed
---------------------
+## Where It's Displayed
 
 -   Testing in [Beatmap Editor](/wiki/Beatmap_Editor).
 -   [Storyboard Editor](/wiki/Beatmap_Editor/Design), though numbers may not be as accurate.
 
-Suggestions for Reduction
--------------------------
+## Suggestions for Reduction
 
 From [Reducing SB Load](https://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177):
 

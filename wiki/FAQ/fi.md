@@ -2,8 +2,7 @@
 
 osu!:n gameplayn perusteet sekä pisteytyksen ja käyttöliittymän toiminta kerrotaan tässä osiossa.
 
-Pelaaminen
-----------
+## Pelaaminen
 
 ### En ole koskaan pelannut Ouendania - Mikä se on?
 

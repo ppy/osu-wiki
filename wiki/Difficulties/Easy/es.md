@@ -1,5 +1,4 @@
-Fácil (Dificultad)
-=====================
+# Fácil (Dificultad)
 
 Las [dificultades](/wiki/Beatmap_Editor/Song_Setup) faciles son faciles de hacer una vez que entiendes sus bases. Primero, empieza siguiente la siguiente configuración recomendada para la difucultad:
 
@@ -23,8 +22,7 @@ Ajusta el [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) a 1/1, lue
 
 Ahora, tu ritmo principal aquí debería ser todo otro beat. Empieza con el [downbeat](/wiki/Beatmap_Editor/Timing) y comienza colocando un círculo en cada beat. Como sea, verás que esto es aburrido y da mucho sueño. Es por esto que regresamos y editamos cosas para pulir el caso un poco y que los jugadores no mueran de aburrimiento. Te conviene hacer tres cosas:
 
-Mantenerte a ritmo
-------------------
+## Mantenerte a ritmo
 
 Imagina que un "." es un beat sin un [hit circle](/wiki/Hit_Objects), y que una "O" es un beat con un "hit circle" (Las dificultades fáciles deberían ser mapeadas conforme al ritmo en la mayoría de los casos, con unas cuantas excepciones). Este es un patrón simple que podrías intentar:
 
@@ -38,8 +36,7 @@ Ese patrón funciona bien. Si quieres ser flojo, puedes usar el primer patrón d
 
 Recuerda que puedes mapear alternando deslizadores/círculos: O.O.O.O puede mapearse como O=O.O=O ("=" representa un deslizador) o O=O=O.O (repitiendo deslizadores).
 
-Ruletas
--------
+## Ruletas
 
 Los Spinners (Ruletas) deben ser usadas muy moderadamente en dificultades faciles - generalmente al finalizar una parte mapeada y antes de un descanso, o también al final de la canción. Cuando uses una ruleta, asegurate de que su duración sea considerablemente larga. De 2 - 4 pulsos son buena guía.
 

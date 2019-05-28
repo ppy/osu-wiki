@@ -2,13 +2,11 @@
 outdated: true
 ---
 
-Skróty klawiszowe
-==================
+# Skróty klawiszowe
 
 W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzystane w grze jak i w menu. Są one wymienione poniżej wraz z ich funkcjami.
 
-Cała gra
---------
+## Cała gra
 
 -   **Shift + F1**: Otwiera osu!status (jeśli występuje błąd połączenia)
 -   **F7**: Zmienia limit FPSów
@@ -20,8 +18,7 @@ Cała gra
 -   **Insert**: Minimalizuje osu!
 -   **Strzałka w górę / w dół**: Zwiększa/Zmniejsza głośność.
 
-Tylko w Menu
-------------
+## Tylko w Menu
 
 -   **F1**: Odtwarza poprzedni utwór
 -   **F2**: Odtwórz od początku
@@ -33,8 +30,7 @@ Tylko w Menu
 -   **Escape**: Wraca do wcześniejszego menu
 -   **Ctrl + Alt + Shift + S**: Odświeża elementy skórki
 
-Główne menu
------------
+## Główne menu
 
 -   **P**: Tryb Rozgrywki (dwukrotnie dla wyboru piosenek)
 -   **P - M**: Tryb Rozgrywki ([Multiplayer](/wiki/Multi))
@@ -46,8 +42,7 @@ Główne menu
 -   **Q**: Wyjście
 -   **R**: Losowy utwór
 
-Wybór utworów
--------------
+## Wybór utworów
 
 -   **F1**: [Modyfikacje](/wiki/Game_Modifiers)
 -   **F2**: Wybiera losową mapa
@@ -68,8 +63,7 @@ Wybór utworów
 -   **Shift + (Left / Right)**: Zmienia zbiór
 -   **Shift + Enter**: Otwiera/Zamyka zbiór
 
-Ekran modyfikacji
------------------
+## Ekran modyfikacji
 
 Note: Specjalne mody takie jak [Perfect](/wiki/Game_Modifiers) czy [Nightcore](/wiki/Game_Modifiers) potrzebują jeszcze jednego kliknięcia.
 
@@ -94,8 +88,7 @@ Note: Specjalne mody takie jak [Perfect](/wiki/Game_Modifiers) czy [Nightcore](/
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
-Rozgrywka
----------
+## Rozgrywka
 
 -   **+ / -**: Reguluje opóźnienie lokalne (przytrzymaj ALT żeby zmienić precyzję)
 -   **Escape**: Zatrzymuje (wyłącza mapę, gdy używasz moda Auto)
@@ -105,8 +98,7 @@ Rozgrywka
 -   **F3 / F4**: Dostosowuje prędkość w osu!manii
 -   **Ctrl + R**: Szybki restart mapy (automatycznie pomija scenkę)
 
-Edycja
-------
+## Edycja
 
 ### Skróty klawiszowe
 

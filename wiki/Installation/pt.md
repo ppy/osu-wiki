@@ -2,13 +2,11 @@
 outdated: true
 ---
 
-Instalação
-=============
+# Instalação
 
 Esta página irá dizer-lhe como instalar o jogo bem como alguns métodos de solução de problemas.
 
-Guias de instalação
---------------------
+## Guias de instalação
 
 ### Desktops
 
@@ -43,8 +41,7 @@ A Beatmap é um arquivo .osz que contêm a música e outros arquivos necessário
   - A primeira vez que correres o osu! ele demora 5 minutos. Isto devido ao X11 (o subsistema gráfico) que faz a reconstrução do cache de fonte.
 
 
-Links Externos
---------------
+## Links Externos
 
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 -   peppy's download page [2](https://osu.ppy.sh/p/download)

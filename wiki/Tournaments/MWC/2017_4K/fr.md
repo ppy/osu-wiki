@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-osu!mania 4K World Cup 2017
-=============================
+# osu!mania 4K World Cup 2017
 
 ![osu!mania 4K World Cup 2017](logo.jpg)
 

@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-osu! World Cup 2014
-=====================
+# osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
@@ -19,8 +18,7 @@ Esta competición ha terminado y el podio resultante es:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Polonia**  |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Alemania** |
 
-Calendario
-----------
+## Calendario
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -33,8 +31,7 @@ Calendario
 | Finales - Semana 1 | 6-7 Dic 2014             |
 | Finales - Semana 2 | 13-14 Dic 2014           |
 
-Premios
------------
+## Premios
 
 | Placing                                                    | Prizes                                                                                               |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -42,8 +39,7 @@ Premios
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de supporter tag                                                                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de supporter tag                                                                               |
 
-Organización
-------------
+## Organización
 
 | Job                 | Person(s)                                                                                                                                                                                                                                                    |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,8 +51,7 @@ Organización
 
 ------------------------------------------------------------------------
 
-Links
---------
+## Links
 
 -   [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de registro](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -70,8 +65,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Participantes
--------------
+## Participantes
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,8 +125,7 @@ Participantes
 
 ------------------------------------------------------------------------
 
-Grupos de mapas
----------------
+## Grupos de mapas
 
 ### Finales
 
@@ -286,8 +279,7 @@ Grupos de mapas
 
 ------------------------------------------------------------------------
 
-Resultados
--------------
+## Resultados
 
 ### Finales
 

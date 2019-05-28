@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-Colaboradores de la comunidad
-======================
+# Colaboradores de la comunidad
 
 ![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
 

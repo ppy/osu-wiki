@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-Kontributor Komunitas
-======================
+# Kontributor Komunitas
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
 

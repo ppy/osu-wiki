@@ -2,20 +2,17 @@
 outdated: true
 ---
 
-Zespół
-========
+# Zespół
 
 Osoby przedstawione poniżej są trzonem zespołu osu!. Ich celem jest sprawienie, by wszyscy użytkownicy czerpali jak największą przyjemność z gry.
 
-Twórca
--------
+## Twórca
 
 | Pseudonim | Opis |
 | ---- | ----------- |
 | [![][flag_AU] peppy](https://osu.ppy.sh/users/2) | Prowadzenie projektu |
 
-Aktywni
----------
+## Aktywni
 
 | Pseudonim | Opis |
 | ---- | ----------- |
@@ -31,8 +28,7 @@ Aktywni
 | [![][flag_JP] yelle](https://osu.ppy.sh/users/4916903) | Zarządzanie [sklepem osu!](https://osu.ppy.sh/store/listing) |
 | [![][flag_AU] Zallius](https://osu.ppy.sh/users/55) | Gatunki zagrożone wyginięciem |
 
-Nieaktywni
-------------
+## Nieaktywni
 
 | Pseudonim | Opis |
 | ---- | ----------- |
@@ -51,8 +47,7 @@ Nieaktywni
 | [![][flag_CN] woc2006](https://osu.ppy.sh/users/1105845) | Programista, rozwój osu!manii |
 | [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) | Projekt oraz prowadzenie [akademii osu!](/wiki/Announcements/osu!academy), projekt Yuzu |
 
-Grupy
--------
+## Grupy
 
 | Nazwa | Opis |
 | ---- | ----------- |

@@ -1,5 +1,4 @@
-Éditeur de Beatmap
-====================
+# Éditeur de Beatmap
 
 ![Le mode Compose](Compose/Compose.png "Le mode Compose")
 
@@ -10,8 +9,7 @@
 -   [Timing](/wiki/Beatmap_Editor/Timing) : c'est ici que l'offset et le BPM de la musique sont spécifiés. Cette fenêtre contrôle aussi les hitsounds s'ils ne sont pas constants durant la map.
 -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup) : c'est ici que les diverses options de la map sont spécifiées. Ceci inclut la couleur des combos et la configuration de la difficulté.
 
-Articles liés
--------------
+## Articles liés
 
 -   [Bruitages](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
 -   [Éditeur de beatmaps osu!mania](/wiki/Game_Modes/osu!mania)

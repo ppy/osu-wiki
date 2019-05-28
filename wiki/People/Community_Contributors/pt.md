@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-Contribuidores da Comunidade
-=================================
+# Contribuidores da Comunidade
 
 ![Emblema de Contribuidor](/wiki/shared/contributor.jpg "Emblema de Contribuidor")
 

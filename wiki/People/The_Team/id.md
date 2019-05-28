@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-Tim
-=======
+# Tim
 
-Pelopor pembuatan
-----------------------
+## Pelopor pembuatan
 
 | Nama | Deskripsi |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Pemimpin proyek |
 
-Aktif
-----------------------
+## Aktif
 
 | Nama | Deskripsi |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ Aktif
 | [ztrot](https://osu.ppy.sh/users/6347) | Profesor academy osu!, Media/desain karakter |
 | [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Tidak aktif
-----------------------
+## Tidak aktif
 
 | Nama | Deskripsi |
 | ---- | ----------- |
@@ -46,8 +42,7 @@ Tidak aktif
 | [Sinistro](https://osu.ppy.sh/users/5530) | Menit Pertemuan, Kontribusi pertanyaan-pertanyaan umum |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Tim pengembang osu!, Pengembang mode osu!mania |
 
-Anggota grup
-----------------------
+## Anggota grup
 
 | Nama | Deskripsi |
 | ---- | ----------- |

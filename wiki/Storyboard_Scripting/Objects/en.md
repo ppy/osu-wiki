@@ -1,5 +1,4 @@
-Objects
-==========
+# Objects
 
 ![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
@@ -7,8 +6,7 @@ Objects
 
 In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 
-Object Definition
------------------
+## Object Definition
 
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
@@ -57,8 +55,7 @@ Where:
 
 Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
 
-Examples
---------
+## Examples
 
 | Basic image | Moving image |
 | ----------- | ------------ |

@@ -2,13 +2,11 @@
 outdated: true
 ---
 
-.osu (format de fichier)
-=================
+# .osu (format de fichier)
 
 Les fichiers **.osu** sont des fichiers lisibles par l'Homme. Ils contiennent des informations sur une seule beatmap.
 
-Format
-------
+## Format
 
 La première ligne du fichier indique la version du fichier de la beatmap. Exemple:
 
@@ -29,8 +27,7 @@ Exemple:
 
 `[General]`
 
-Sections
---------
+## Sections
 
 ### General
 

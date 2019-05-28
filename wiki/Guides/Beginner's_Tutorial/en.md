@@ -3,8 +3,7 @@
 
 Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in osu!, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of osu!.
 
-Types of Input
---------------
+## Types of Input
 
 *Main page: [Play Styles](/wiki/Play_Styles)*
 
@@ -54,8 +53,7 @@ Touchscreen tends to struggle with:
 
 For mouse and tablet or any other input device, you may also use your keyboard (`Z` and `X` by default) to hit the circles instead. The benefit of doing so is spreading the physical movement across two hands, rather than doing the clicking with your aiming device, thus allowing you to more easily hit faster sections of notes. This takes some time to get used to, but if you decide on using your keyboard to tap circles, it's a good idea to get used to it early on.
 
-Gameplay Techniques
--------------------
+## Gameplay Techniques
 
 ### Accuracy and Timing
 
@@ -83,8 +81,7 @@ The best way to improve is to challenge yourself. The only way you will get used
 
 Don't be afraid to practise something that always makes you miss for one reason or another. You will need to find the challenge, and see what you need to do to meet that challenge. Do you need to hit the buttons faster? Do you need better timing? Do you need to be more precise when moving to notes? These are all questions that you can ask yourself. This will help you find your answer a lot more quickly and make your experience all the more worth it.
 
-Getting more out of Gameplay
-----------------------------
+## Getting more out of Gameplay
 
 ### Global Offset
 

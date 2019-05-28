@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-社区贡献者
-=============
+# 社区贡献者
 
 ![社区贡献者名牌](/wiki/shared/contributor.jpg "社区贡献者名牌")
 

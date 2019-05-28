@@ -1,10 +1,8 @@
-Turnamen
-===============
+# Turnamen
 
 Bagian ini diperuntukkan untuk Turnamen osu!. Turnamen memiliki forum khusus yang dapat Anda temukan [melewati tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Turnamen Resmi
---------------------------------------------------
+## Turnamen Resmi
 
 Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
 
@@ -63,8 +61,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia | ![][flag_CN] Cina |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] Korea Selatan | ![][flag_US] Amerika Serikat | ![][flag_BR] Brasil |
 
-Komunitas
------------
+## Komunitas
 
 Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
@@ -288,8 +285,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- |
 | [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
-Lihat juga
-----------
+## Lihat juga
 
 - [Kriteria penyusunan artikel turnamen](/wiki/Tournaments/Template)
 - [Daftar negara yang berpartisipasi dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)

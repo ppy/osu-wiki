@@ -1,12 +1,10 @@
-Points de Performance
-==================
+# Points de Performance
 
 Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!
 
 Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en _pp_, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
 
-Histoire
---------
+## Histoire
 
 Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
 
@@ -20,8 +18,7 @@ Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94
 
 *ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
 
-Comment sont calculés les pp ?
-------------------------------
+## Comment sont calculés les pp ?
 
 Les Points de Performance sont beaucoup basés sur la difficulté calculée de la map, qui est déterminée par un algorithme unique conçu pour chaque mode de jeu.
 
@@ -102,8 +99,7 @@ Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_
 Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
 
 
-FAQ
----
+## FAQ
 
 ### Où puis-je consulter le classement par points de performance ?
 

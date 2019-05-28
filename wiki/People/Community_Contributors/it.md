@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-Collaboratori della Comunità
-==================================
+# Collaboratori della Comunità
 
 ![Badge dei Collaboratori](/wiki/shared/contributor.jpg "Badge dei Collaboratori")
 

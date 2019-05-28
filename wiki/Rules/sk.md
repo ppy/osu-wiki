@@ -1,10 +1,8 @@
-Pravidlá
-============
+# Pravidlá
 
 Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunitu zábavným a vítajúcím miestom pre všetkých.
 
-Komunitné pravidlá
----------------
+## Komunitné pravidlá
 
 1.  **Každý hráč môže mať iba jeden účet. Bodka.** *Prvý* účet ktorý si urobíš je tvoj prvý a posledný osu! účet, navždy. Tento účet si TY. Nie je to tvoj brat, tvoja sestra, tvoja mama, tvoj kamarát - si to TY. Nezdieľaj tvoj účet s nikým. Nemôžeš si vytvoriť nový pokiaľ ho stratíš. Udržuj ho v bezpečí.
 2. **Hraj férovo.** Používanie akýchkoľvek nástrojov ako sú makrá, aim-assist programy, menenie rýchlosti osu!, atď... nie je v poriadku. Pokiaľ program robí niečo, čo by si mal robiť ty v osu!, je to proti pravidlám.
@@ -13,8 +11,7 @@ Komunitné pravidlá
 5.  **Sme komunita pre všetky vekové kategórie.** Toto znamená, že, obsah ktorý je 18+ ako je užívanie drog alebo obsah ktorý má sexuálny podtón tu nie je vítaný. Výnimky sú udelené kde je to potrebné, ale zväčša to tu udžujte čisté. 
 6.  **Kde pravidlá nesiahajú, sedliacký rozum by mal.** Administrátori môžu uďeľovať svoj úsudok na toto ako chcú.
 
-Četové pravidlá
-------------------
+## Četové pravidlá
 
 1.  **Rešpektuj ostatných uživateľov v kanáli a vyhni sa spamovaniu.** Jeden človek zapĺňajúci polovicu obrazovky je otravný, takže sa snaž tomu vyhnúť. Ostatní chcú tiež četovať.
 2.  **Nechaj moderátorov aby si poradili s problémami** Môžeš ich poukázať na veci s príkazom `!report` a oni sa o to postarajú.
@@ -26,8 +23,7 @@ Komunitné pravidlá
 8. **Neposielaj reklamy o iných četovacích serveroch akéhokoľvek druhu, vrátane Discordu, Teamspeaku alebo Skype serverov/skupín.** osu! čet je prvorade určený na diskusiu o osu!, nie na zdieľanie linkov ku tvojmu serveru. Pokiaľ to absolútne musíš urobiť, urob to cez súkromnú správu.
 9. **V kanáloch ktoré sú určené pre konkrétny jazyk musíš hovoriť len tým jazykom (angličtina pre #english, thajsky v #thai, atď...)** Kde jazyk kanálu nie je určený (a nie je v názve kanálu), jazyk je vždy angličtina. Kanály `#lobby` a `#help` sú výnimkou - môžete v nich rozprávať akýmkoľvek jazykom. *[Moderátorksý tím](/wiki/People/Global_Moderation_Team) nemusí dodržiavať toto pravidlo pri svojej práci.*
 
-Fórum pravidlá
-----------------
+## Fórum pravidlá
 
 1.  **Vytváraj len zmysluplné, zaujímavé alebo inak pútavé príspevky.** Fóra sú predovšetkým o diskusii, snaž sa aby tvoj príspevok nebol len strata času.
 2.  **Akýkoľvek obsah na fórach musí byť pre všetky vekové kategórie.** Nepridávaj príspevky a komentáre, ktoré sú nevhodné pre maloletých. Nič ti však nebráni diskutovať o takomto obsahu v súkromných správach (v rámci rozumu).
@@ -37,8 +33,7 @@ Fórum pravidlá
 6.  **Nevytváraj  príspevky s reklamami, odporúčacími odkazmi, alebo s iným otravným obsahom** Veci ako sú tieto sú zábava pre autorov týchto príspevkov ale otrava pre ostatných. Automatické načítavanie/hranie obsahu tiež spadá pod toto pravidlo.
 7.  **Odkazovanie k aplikáciam alebo nástrojom otázneho využitia nie je povolené.** Jednoducho pokiaľ je akákoľvek pochybnosť o leglite aplikácie/nástroju, nie sú vítané na fórach.
 
-Pravidlá o odosielaní beatmáp
----------------------------------
+## Pravidlá o odosielaní beatmáp
 
 Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou [systému odosielania beatmáp](/wiki/Glossary#bss). Tieto vlákna/diskusie sú vytvorené, keď sa beatmapa odošle s osu! [editora](/wiki/editor).
 
@@ -48,8 +43,7 @@ Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktor�
 2.  **Drž sa témy v diskusiách o beatmapách.** Tieto vlákna sú o beatmape a o ničom inom. Pokiaľ máš problém s niečim iným daj to do vhodného fóra.
 3.  **Nekradni.** Nepoužívaj obsah od ďaľších ľudí bez ich dovolenia (napr. skiny, obtiažnosi, atď...).
 
-Off-Topic pravidlá
----------------
+## Off-Topic pravidlá
 
 *Tieto pravidlá sa týkajú sub-fóra [Off-Topic](https://osu.ppy.sh/community/forums/52) pokiaľ sa inak nepovedalo.*
 
@@ -57,8 +51,7 @@ Off-Topic pravidlá
 2. **Extrémna stupdita je špatná.** Roztomilá hlúposť je v pohode a spadá pod shitposting. Nefaľšovaná stupidita je zlá. Pokiaľ máš problém nájsť rozdieľ, porušuješ toto pravidlo.
 3. **Narodeninové príspevky sú povolené len v Off-Topic.** Všetky narodeninové príspevky musia mať v sebe minimálne tri (3) obrázky tancujúcich anime dievčat. V opačnom prípade budú *nemilosrdne* hodené pod autobus.
 
-Čo sa stane ak poruším pravidlá?
----------------
+## Čo sa stane ak poruším pravidlá?
 
 Pokiaľ sa ocitneš na zlej strane naších komunitných pravidiel, stanú sa zlé veci.
 

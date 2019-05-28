@@ -4,15 +4,13 @@ outdated: true
 
 ![emblema de osu!supporter](Supporter tag.png "emblema de osu!supporter")
 
-Introdução
-==========
+# Introdução
 
 <img src="Osu-support.png" title="fig:link do osu!supporter na pagina principal." alt="link do osu!supporter na pagina principal." width="200" /> Consulte o link: <https://osu.ppy.sh/p/support>
 
 Resumindo: Doações são usadas para sustentar o jogo em geral.
 
-Vantagens de ser osu!supporter
-==============================
+# Vantagens de ser osu!supporter
 
 -   osu!direct (download de beatmaps dentro do jogo)
 -   Acesso ao multiplayer quando usar a versão de testes do osu!.
@@ -33,11 +31,9 @@ Vantagens de ser osu!supporter
 -   [Ranking de Performance](https://osu.ppy.sh/p/pp): Permite o comando "mostrar apenas amigos".
 -   Mais por vir
 
-Negociação
-==========
+# Negociação
 
-Valor
------
+## Valor
 
 [Use esse conversor de moeda](http://www.oanda.com/currency/converter/) ou [peça ao google](https://www.google.com.my/#q=usd+exchange+rate) para checar o valor no seu país. A doação é feita em "USD$ dollar" (dólar americano).
 
@@ -57,17 +53,14 @@ Valor
 
 -   O valor é por contas individuais. Não tem promoções por presentear grupos.
 
-Decisão
--------
+## Decisão
 
 Por padrão sua conta vai ser exibida. Se você não quer o osu!supporter para si mesmo, clique em "Gift another player" (presentear outro jogador) e escreva o nick do jogador. Se você quer presentear mais de um jogador, clique no botão "Add another tag" (Adicionar outro emblema). Depois de confirmar as contas, arraste o botão branco abaixo dos nicks para determinar o valor total da doação e tempo de duração. Você pode definir durações e valores diferentes para jogadores diferentes. Depois de confirmar a duração e os jogadores, clique em "Checkout" (Confirmar).
 
-Transação
----------
+## Transação
 
 Aqui, você terá varias formas de doação. É recomendado que use [PayPal](https://www.paypal.com) ou cartão de credito. Existem outras formas de doar (como SMS ou provedores de serviço local como [Credits](http://www.cherrycredits.com/Cherry)) mas taxas adicionais serão cobradas por seus serviços. Se você doar menos do que seu "Total Cost" (preço total) em "dorrah" (incluindo custos adicionai se não usar PayPal), você não vai receber seu(s) emblema(s).
 
-Duração
--------
+## Duração
 
 <img src="O!s Duration.jpg" title="fig:Comparação entre osu!supporter ativo e inativo." alt="Comparação entre osu!supporter ativo e inativo." width="200" /> Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](https://osu.ppy.sh/p/support).

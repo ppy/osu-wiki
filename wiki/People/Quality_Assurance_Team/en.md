@@ -1,8 +1,7 @@
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team
-======================
+# Quality Assurance Team
 
 The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](/wiki/People/Beatmap_Nominators/#quality-assurance-helpers), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
 
@@ -10,8 +9,7 @@ In addition to assuring the basic expectation of quality, the QAT also manage th
 
 Members of this team are generally promoted from well-behaved, active and willing members of the Quality Assurance Helpers, whom are also deemed to work well with the team. Members of the QAT have a red name in the game's chat and on the forums, whereas BNs have a purple name only on the forums.
 
-Team Members
-------------
+## Team Members
 
 Link to [user group page](https://osu.ppy.sh/groups/7)
 

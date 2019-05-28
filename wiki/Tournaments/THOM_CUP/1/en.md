@@ -5,8 +5,7 @@ tags:
 - Heptakey osu!mania CUP
 ---
 
-The Heptakey osu!mania Cup #1
-======================
+# The Heptakey osu!mania Cup #1
 
 ![THOM CUP Logo](logo.png)
 

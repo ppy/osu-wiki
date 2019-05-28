@@ -1,5 +1,4 @@
-Insane
-=================
+# Insane
 
 Les difficultés "Insane" (littéralement *folles*, *insensées* en anglais) sont considérées comme les difficultés les plus difficiles dans le groupe des 4 difficultés générales. Ces maps sont généralement au même niveau de jouabilité que celui du mapper, et où ce dernier laisse libre cours à sa créativité.
 
@@ -7,8 +6,7 @@ Ces difficutés peuvent aussi porter le nom "Lunatic" (provenant des séries *To
 
 Les [critères de ranking](/wiki/Ranking_Criteria) laissent aussi le droit au mapper de choisir le nom de sa difficulté Insane dans le cas où il s'agit de la difficulté la plus difficile de son mapset.
 
-Réglages initiaux
------------------
+## Réglages initiaux
 
 Notez qu'il s'agit d'une suggestion générale. Les paramètres de la difficulté peuvent varier selon le style de la musique et du mapper.
 
@@ -17,8 +15,7 @@ Notez qu'il s'agit d'une suggestion générale. Les paramètres de la difficult�
 -   Approach Rate (Fenêtre d'approche) : 7 ou plus
 -   Overall Difficulty (Difficulté générale) : 7 ou plus
 
-Overmapping
------------
+## Overmapping
 
 Le défaut le plus couramment rencontré sur les Insane en cours de mapping est l*'overmapping*, il s'agit du fait de placer des éléments sur la map lorsqu'il n'y a pas lieu d'en placer à ce moment dans la musique. Voici deux points à retenir :
 

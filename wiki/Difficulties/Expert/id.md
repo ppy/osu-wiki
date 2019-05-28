@@ -1,5 +1,4 @@
-Expert
-======================
+# Expert
 
 Untuk mendorong dan memperluas batasan dalam pembuatan suatu map, tingkat kesulitan Expert dibuat guna menjadi suatui beatmap yang menyerupai tingkat kesulitan [Insane](/wiki/Difficulties/osu!/Insane) namun lebih sulit dari itu.
 
@@ -9,8 +8,7 @@ Pada halaman daftar osu!beatmap (seperti: [Shiro Sagisu - Soundscape To Ardor Mo
 
 Expert juga dapat dianggap sebagai *[streamnya](/wiki/Mapping_Techniques/Rhythm) hit circles!*
 
-Pengaturan
-----------
+## Pengaturan
 
 *Catatan: Ini hanyalah saran umum. Pengaturan tingkat kesulitan akan beragam tergantung dari lagu itu sendiri dan* style *sang mapper tersebut.*
 

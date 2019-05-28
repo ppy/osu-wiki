@@ -1,8 +1,6 @@
-Panduan Mapping osu!mania
-===========================
+# Panduan Mapping osu!mania
 
-Prologue
-----------
+## Prologue
 
 ### Apa itu Mania?
 

@@ -1,10 +1,8 @@
-Normalny
-============
+# Normalny
 
 Normalne poziomy trudności są poziomami, na których musisz mieć podstawowe umiejętności by na nich grać. Są one trudniejsze od poziomów [Easy](/wiki/Difficulties/osu!/Easy). Mapowanie dobrych normalnych poziomów może być czasem trudne, ale po jakimś czasie staje się to bardzo proste. Oto jak zacząć tworzenie takiej beatmapy:
 
-Ustawienia:
------------
+## Ustawienia:
 
 -   HP Drain Rate: 5 lub mniej
 -   Circle Size: 3 lub 4
@@ -17,8 +15,7 @@ Distance Spacing x1.0 jest często używany, ponieważ daje on prędkość odleg
 
 Jeżeli masz poziom [Easy](/wiki/Difficulties/osu!/Easy), wtedy chcesz aby normalny poziom był trudniejszy niż łatwy. Jeżeli nie masz poziomu [Easy](/wiki/Difficulties/osu!/Easy) (nie jest wymagany, aby beatmapa była rankingowa), chcesz aby nowi gracze nadal mogli grać łatwo twoją mapę. Poeksperymentuj trochę i zobacz jakie ustawienia najlepiej działają według Ciebie. Twoje ustawienia poziomu trudności, oraz sliderów naprawdę bardzo wpłyną na to, jaka będzie twoja beatmapa!
 
-Mapowanie:
-----------
+## Mapowanie:
 
 Nie przejmuj się! Mapowanie łatwych poziomów trudności jest bardzo proste, kiedy wiesz co robić.
 

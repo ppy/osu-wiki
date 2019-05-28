@@ -1,5 +1,4 @@
-Aus/NZ osu!standard Tournament 5 - Summer
-=============================
+# Aus/NZ osu!standard Tournament 5 - Summer
 
 ![Osu! AU/NZ Tournament 5 Summer](logo.jpg)
 

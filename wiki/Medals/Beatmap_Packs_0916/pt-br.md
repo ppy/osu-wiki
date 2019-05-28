@@ -7,15 +7,13 @@
 [media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
 [media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
 
-Pacotes de Beatmap
-=============
+# Pacotes de Beatmap
 
 ***[Clique aqui para retornar à página "Conquistas"](../)***
 
 Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](https://osu.ppy.sh/news/137535031193).
 
-Pacote Anime
------------
+## Pacote Anime
 ### Volume 1
 
 > LuigiHann/DeathxShinigami (2011)
@@ -112,8 +110,7 @@ Mapas:
 - [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](https://osu.ppy.sh/beatmapsets/16252)
 - [DOMINO - U Can Do It! (TV Size)](https://osu.ppy.sh/beatmapsets/21197)
 
-Pacote Internet
----------------
+## Pacote Internet
 
 ### Volume 1
 
@@ -213,8 +210,7 @@ Mapas:
 - [yamas03 - bloomin' octagon](https://osu.ppy.sh/beatmapsets/17217)
 - [8corporation - The Ultimate Trololo Mashup](https://osu.ppy.sh/beatmapsets/17724)
 
-Pacote Jogos de Ritmo
-------------------------
+## Pacote Jogos de Ritmo
 
 ### Volume 1
 
@@ -312,8 +308,7 @@ Mapas:
 - [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~](https://osu.ppy.sh/beatmapsets/19809)
 - [M2U - Memory of Beach](https://osu.ppy.sh/beatmapsets/22401)
 
-Pacote Jogos
------------------------
+## Pacote Jogos
 
 ### Volume 1
 
@@ -411,8 +406,7 @@ Mapas:
 - [Crush 40 - Sonic Heroes](https://osu.ppy.sh/beatmapsets/21836)
 - [Anamanaguchi - Scott Pilgrim Anthem](https://osu.ppy.sh/beatmapsets/23073)
 
-Curiosidades
----------
+## Curiosidades
 
 -   16 pacotes. (4 temas x 4 volumes)
     -   1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
@@ -421,7 +415,6 @@ Curiosidades
 -   1.39 GB (compactado), 1.47 GB (importado)
 -   3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
 
-Agradecimentos especiais
----------------
+## Agradecimentos especiais
 
 -   [Wayback Machine](https://archive.org/web/)

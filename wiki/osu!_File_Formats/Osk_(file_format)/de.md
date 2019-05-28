@@ -1,5 +1,4 @@
-.osk (Dateiformat)
-=====================
+# .osk (Dateiformat)
 
 **.osk** ist ein Skindateiformat, welches alle im genannten [Skinning Artikel](/wiki/Skinning) beinhalten kann, sprich Skin Elemente und Hitsounds.
 

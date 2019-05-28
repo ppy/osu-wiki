@@ -1,5 +1,4 @@
-皮肤组列表
-=============
+# 皮肤组列表
 
 _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
