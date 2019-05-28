@@ -44,12 +44,12 @@ function rule_1_boundaryWhitesapce(content, meta, log) {
 
 function rule_2_atxHeaders(content, meta, log) {
     return [
-        content.replace(/\n(.+)\n(?:(=+)|-+)\n/g, (match, header, l1, index) => {
+        content.replace(/^(.+)\n(?:(=+)|-+)$/gm, (match, header, l1, index) => {
             if (header.trim() === '' || header.startsWith('#'))
                 return match;
 
             log(lineAtIndex(content, index), 'Setext header used (atx is preferred)');
-            return '\n' + (l1 !== undefined ? '# ' : '## ') + header.trim() + '\n';
+            return (l1 !== undefined ? '# ' : '## ') + header.trim();
         }),
         meta
     ];
