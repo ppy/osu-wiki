@@ -14,7 +14,7 @@ We've come a long way since our inception in 2011—long gone are the days where
  
 This year is special in the sense that it is the first time the osu!taiko World Cup has had 32 unique countries participating in a battle for the very top. 
 
-With an upgrade to match sizes and the introduction of a terrifying Grand Finals pool, this year undoubtedly saw some of the greatest moments in TWC history — a momentous occasion and a cause for celebration for all osu!taiko fans and supporters alike.
+With an upgrade to match sizes and the introduction of a terrifying Grand Finals pool, this year undoubtedly saw some of the greatest moments in TWC history—a momentous occasion and a cause for celebration for all osu!taiko fans and supporters alike.
  
 Without further ado, let's get right into the results!
  
