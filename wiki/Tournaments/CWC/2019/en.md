@@ -40,7 +40,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Position | Members |
 | ------------ | -------------- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
+| Map Selectors | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
 | Commentators | _to be decided_ |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -186,7 +186,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 
-8. The tiebreaker will be played under NoMod conditions.
+8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
 11. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in Semifinals, Finals and Grand Finals.
@@ -240,3 +240,4 @@ _Mappools won't be available until one week before the stage that it is meant to
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_GR]: /wiki/shared/flag/GR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_TN]: /wiki/shared/flag/TN.gif
