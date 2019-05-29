@@ -14,14 +14,14 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | 2018-05-28/2018-06-11 |
-| Drawings | 2018-06-22 (14:00 UTC) |
-| Group Stage | 2018-06-29/2018-06-30 |
-| Round of 16 | 2018-07-06/2018-07-07 |
-| Quarterfinals | 2018-06-13/2018-06-14 |
-| Semifinals | 2018-07-20/2018-07-21 |
-| Finals | 2018-07-27/2018-07-28 |
-| Grand Finals | 2018-08-03/2018-07-04 |
+| Registration Phase | 2019-05-28/2019-06-11 |
+| Drawings | 2019-06-22 (14:00 UTC) |
+| Group Stage | 2019-06-29/2019-06-30 |
+| Round of 16 | 2019-07-06/2019-07-07 |
+| Quarterfinals | 2019-06-13/2019-06-14 |
+| Semifinals | 2019-07-20/2019-07-21 |
+| Finals | 2019-07-27/2019-07-28 |
+| Grand Finals | 2019-08-03/2019-07-04 |
 
 ## Prizes
 
@@ -35,7 +35,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 ## Organization
 
-The osu!catch World Cup 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | ------------ | -------------- |
@@ -94,7 +94,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 
-19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+19. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
    - Exclusion of specific players for one map
@@ -159,7 +159,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2018: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2019: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
@@ -176,8 +176,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - Finals and Grand Finals use the same mappool.
+1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 
 2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
 3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
