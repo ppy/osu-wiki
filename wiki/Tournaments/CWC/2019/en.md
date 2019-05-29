@@ -3,19 +3,18 @@ tags:
 - CWC 2019
 - CWC2019
 ---
-osu!catch World Cup 2019
-=============================
+#osu!catch World Cup 2019
 
-![osu!catch World Cup 2019](img/logo.png)
+![CWC 2019 Logo](img/logo.png)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 8th installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2019-05-28/2019-06-11 |
-| Drawings | 2019-06-22 (14:00 UTC) |
+| Live Drawings | 2019-06-22 (14:00 UTC) |
 | Group Stage | 2019-06-29/2019-06-30 |
 | Round of 16 | 2019-07-06/2019-07-07 |
 | Quarterfinals | 2019-06-13/2019-06-14 |
@@ -28,17 +27,17 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
-| --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Profile badge |
+| :-: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Unique profile badge |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Unique profile badge |
 
 ## Organization
 
 The osu!catch World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
-| ------------ | -------------- |
+| :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
 | Commentators | _to be decided_ |
@@ -52,13 +51,13 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 - [Livestream](https://www.twitch.tv/osulive)
 - [Sign up here!](https://osu.ppy.sh/community/tournaments/20)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
 _Mappools won't be available until one week before the stage that it is meant to be played_
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -97,12 +96,12 @@ _Mappools won't be available until one week before the stage that it is meant to
 19. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
-   - Exclusion of specific players for one map
-   - Exclusion of specific players for an entire match
-   - Declaring the match as Lost by Default
-   - Disqualification from the entire tournament
-   - Disqualification from the current and future official tournaments until appealed
-   - Any modification of these rules will be announced.
+    - Exclusion of specific players for one map
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
+    - Any modification of these rules will be announced.
 
 ### Tournament Registration
 
@@ -144,7 +143,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
+| --: | :-- |
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
@@ -177,7 +176,6 @@ _Mappools won't be available until one week before the stage that it is meant to
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-
 2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
 3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
@@ -185,7 +183,6 @@ _Mappools won't be available until one week before the stage that it is meant to
 6. The NoMod bracket will be played with no mods activated.
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
-
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
