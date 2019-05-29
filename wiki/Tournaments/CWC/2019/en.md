@@ -3,9 +3,9 @@ tags:
 - CWC 2019
 - CWC2019
 ---
-#osu!catch World Cup 2019
+# osu!catch World Cup 2019
 
-![CWC 2019 Banner](img/banner.png)
+![CWC 2019 Banner](img/banner.jpg)
 
 The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eight installment of the osu!catch World Cup.
 
@@ -13,7 +13,7 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-28/2019-06-11 |
+| Registration Phase | 2019-05-29/2019-06-11 |
 | Live Drawings | 2019-06-22 (14:00 UTC) |
 | Group Stage | 2019-06-29/2019-06-30 |
 | Round of 16 | 2019-07-06/2019-07-07 |
@@ -30,7 +30,7 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Unique profile badge |
 
-## Organization
+## Organisation
 
 The osu!catch World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
@@ -71,12 +71,10 @@ _Mappools won't be available until one week before the stage that it is meant to
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map is considered as passing it.
-
 7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
-
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
 12. Exchanging players during a match is allowed without limitations.
