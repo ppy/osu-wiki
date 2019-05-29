@@ -24,8 +24,6 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
