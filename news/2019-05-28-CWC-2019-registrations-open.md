@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2019: Registrations now open!"
-date: 2019-05-29 01:00:00 +0000
+date: 2019-05-29 02:00:00 +0000
 ---
 
 The osu!catch World Cup. It is the mecca. It is religion. It is life. May we present another 32 intrepid teams to the fruit gods, that their dashing skills may appease the almighty Lord Yuzu. New match formats, new pick and ban mechanics, and new history-making moments await, so don't delay — submit your registration today!
@@ -15,7 +15,7 @@ You can discuss this event and follow the most important changes in the **[offic
 
 | Event | Timestamp |
 | ---: | :--- |
-| Registration Phase | May 28th - June 11th |
+| Registration Phase | May 29th - June 11th |
 | Drawings | June 22nd (14:00 UTC) |
 | Group Stage | June 29th & June 30th |
 | Round of 16 | July 6th & July 7th |
