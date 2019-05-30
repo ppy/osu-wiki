@@ -74,6 +74,29 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Mappools
 
+### Finals
+
+**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w) (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
+
+- FreeMod
+  - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
+  - [LeaF - Calamity Fortune \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
+  - [Camellia - K.Y.A.F.A. \[DomaUMR0's Extra\]](https://osu.ppy.sh/beatmapsets/468440#mania/1007635)
+  - [DragonForce - Symphony of the Night \[Melody of the Darkne\]](https://osu.ppy.sh/beatmapsets/478042#mania/1095862)
+  - [Morimori Atsushi - PUPA \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
+  - [chunbaiP - Akari \[SC\]](https://osu.ppy.sh/beatmapsets/550095#mania/1165111)
+  - [penoreri - Everlasting Message \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/628672#mania/1325361)
+  - [Imperial Circus Dead Decadence - Danzai no Homura to Koibito Tachi no Rondo \[Shutsugen\]](https://osu.ppy.sh/beatmapsets/654588#mania/1387496)
+  - [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
+  - [Yooh - Knock The Gate (short Ver.) \[Extra [Fantastic SV]\]](https://osu.ppy.sh/beatmapsets/797589#mania/1675081)
+  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+  - [DJ SHARPNEL - BLUE NOAH 2006 \[2010\]](https://osu.ppy.sh/beatmapsets/915929#mania/1912937)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
+  - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
+- Tiebreaker
+  - [Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)
+
+
 ### Semifinals
 
 **Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ) (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
@@ -143,6 +166,15 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## Match Results
+
+### Semifinals
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| HerrySun | 0 | **5** | **Yutto007** |
+| shizehao | 1 | **5** | **amxmodx** |
+| 1ess\_\_ | **5** | 1 | \[xiao ba\] |
+| KirigayaSnow | 0 | **1** | **s\_w\_w** |
 
 ### Quarterfinals
 
