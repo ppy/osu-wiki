@@ -1,6 +1,7 @@
 ---
 legal: true
 ---
+
 # Politique de Confidentialité d'osu!
 
 Dernière mise à jour le 25 Mai 2018. [Voir l'historique ici](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)

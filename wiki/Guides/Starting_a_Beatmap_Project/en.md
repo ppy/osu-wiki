@@ -1,12 +1,10 @@
-Starting a Beatmap Project
-============================
+# Starting a Beatmap Project
 
 [*Please specify project type (Discography, Album, Collab)* by LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)
 
 Note: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it.
 
-Making an informative thread title
-----------------------------------
+## Making an informative thread title
 
 *Yes, your thread's title will determine if other osu! users will "yay" or "nay" your Beatmap Project, even before they click on it!*
 

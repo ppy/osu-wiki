@@ -1,8 +1,6 @@
-osu!academy
-=====================
+# osu!academy
 
-Einführung
-------------
+## Einführung
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
@@ -14,8 +12,7 @@ Quelle: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 Wir hoffen dadurch, dass die neuen Spieler diese Videos informativ finden und ihnen mit Leichtigkeit dabei hilft eine steile Lehrkurve für das Spiel beizubehalten. Wenn sie Fragen oder Anmerkungen haben, leiten sie sie bitte an <a href="//osu.ppy.sh/users/6347">ztrot</a>; er ist der primäre und fast alleinige Besitzer der osu! academy und daher sein Kanal.
 [Jetzt sogar mit einem Trailer](https://www.youtube.com/watch?v=z5gy34k3RI0&amp;feature=c4-overview&amp;list=UUMeRgqzTfC5ja40B6kM6pdg).
 
-Episoden
----------
+## Episoden
 
 | # | Episoden (alle auf Englisch)                                                                                       |
 |-----|--------------------------------------------------------------------------------------------------------------------|

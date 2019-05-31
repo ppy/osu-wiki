@@ -12,7 +12,6 @@ That's right, **Spotlight medals are now in the game and achievable by everyone.
 
 With that said, the beatmap charts for July and August can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH17078). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
-
 ## What are Spotlights?
 
 Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The July and August 2017 Spotlights rankings will end on the 15th Oct 2017.**
@@ -252,6 +251,5 @@ It has a simple but cute storyboard, harmless to your sight while you are playin
 --------
 
 And that concludes the Spotlights listing. We hope that you click, drum, catch, and mash your heart out from these maps and nab yourself a shiny new Spotlight medal for your profile page! Look forward to next month's installment!
-
 
 —OnosakiHito

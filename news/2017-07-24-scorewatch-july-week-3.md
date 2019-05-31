@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Scorewatch: July Week 3"
-permalink: http://osunews.tumblr.com/post/163396613988/scorewatch-july-week-3
 date: 2017-07-25 15:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/163396613988/scorewatch-july-week-3
 ---
@@ -30,22 +29,18 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ai4aSRSp0Rg" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [kablaze](https://osu.ppy.sh/users/3043603) returns to Scorewatch with a very strong play on [cillia - Fairytale](https://osu.ppy.sh/beatmaps/759192?m=0), scoring an amazing 99.79% HDHR FC to earn 471pp and the number one score on the map (not forgetting to mention his 66.66 UR!). Talk about being a consistent player, this play is not to be underestimated!
 
 In all of his extraordinary glory, [kablaze](https://osu.ppy.sh/users/3043603) does it again with an amazing HDHR SS on [RYO - Shuffle Heaven](https://osu.ppy.sh/beatmaps/235470) is pretty extraordinary, racking up 460pp and the number one spot. What a way to snipe WubWoofWolf!
 
-
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [_yu68](https://osu.ppy.sh/users/6170507) and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/D37TPIuwPP8" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

@@ -1,20 +1,17 @@
 ---
 layout: post
 title: "February 2016 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/141144403708/february-2016-ranking-charts
 date: 2016-03-16 13:29:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/141144403708/february-2016-ranking-charts
 ---
-The Ranking Charts for February 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1602)!
-This month [Blue Dragon](https://osu.ppy.sh/users/19048), [Lost The Lights](hhttps://osu.ppy.sh/users/1255920), [Kurokami](https://osu.ppy.sh/users/260933) and [iJinjin](https://osu.ppy.sh/users/3360737) picked the maps for the Monthly Ranking Charts.
 
+The Ranking Charts for February 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1602)!
+
+This month [Blue Dragon](https://osu.ppy.sh/users/19048), [Lost The Lights](hhttps://osu.ppy.sh/users/1255920), [Kurokami](https://osu.ppy.sh/users/260933) and [iJinjin](https://osu.ppy.sh/users/3360737) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -44,9 +41,6 @@ Gotta go fast! What best describes this map, certainly, is "fast-paced". Well, o
 
 Speaking of intensity... With a lot of wubs and onii-chans in this beatmap, it certainly deserves a spot here due to the fact that the song, originally, seems extremely hard to map, but in the end, all of the mappers involved here managed to make an intense beatmap, with the extreme speedup being perfectly mapped and, well, since 2013, RLC has proved himself to be one of the mappers who can best translate playability into technical quality. In every difficulty, including all of the guest ones, this proves to be true. The mapset follows an insane song closely, and while making it intuitive to play, doesn't make the structure any less important.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[Lost The Lights](https://osu.ppy.sh/users/1255920)** about their favourite maps in February 2016.
@@ -75,9 +69,6 @@ Even if this is a slow and relaxing map, it is mapped in a way that fits the son
 
 I know people will murder me for this, but I'll pick furioso melodia as the last chart map. I'll be honest, Nwolf did a really good job with this map. Even if the patterns are kinda awkward to play, they fit the song. This map is a complete challenge, filled with 1/3, 1/6 and some 1/8. Give it a try if you want a good challenge!
 
-
-
-
 ### Catch the Beat
 
 For Catch the Beat, **[Kurokami](https://osu.ppy.sh/users/260933)** was the chosen one to declare the winners of the February 2016 beatmaps.
@@ -105,9 +96,6 @@ I did not choose this because of the dashes or for its difficulty. No. I just th
 + [void - Sun Goes Down (BMS edit)](https://osu.ppy.sh/beatmapsets/382413) by [Frey](https://osu.ppy.sh/users/695678)
 
 None of the difficulties of this mapset could be called challenging in CtB, but it still reminds me of the way old maps worked: when HyperDashes were used where they belong to. It can be recognized on the easier difficulties that this is not a CtB specific set, but I still enjoyed it, which might be also because of the music itself. I hope I'm not the only one with this feeling!
-
-
-
 
 ### osu!mania
 
@@ -139,12 +127,7 @@ First thought that crossed my mind when looking at the mapset: a lot of Russian 
 
 NAN NAN NANJA! Our anti meta mapper Kamikaze again brings us with a very rare 7K / 8K mapset, featuring Rayz141 and Evening (Zenx) as guest mappers. The patterns in here are comfortable and friendly, so it's great for players that are looking into playing 7K or 8K. Zenx's difficulty includes some neat SV changes, so look out for that too! Finally, props to Agka for the audio waveform-like storyboard.
 
-
-
-
-
 **The February 2016 ranking charts will end on the 15th April 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

@@ -2,11 +2,12 @@
 tags:
 - TWC2019
 ---
+
 # osu!taiko World Cup 2019
 
 ![TWC 2019 Logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -29,9 +30,11 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) is a country-based osu!taiko t
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
 
+![TWC 2019 Winner Badge](img/badge.png) ![TWC 2019 2nd Place Badge](img/badge2.png) ![TWC 2019 3rd Place Badge](img/badge3.png)
+
 ## Organisation
 
-The osu!taiko World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -88,22 +91,11 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ---
 
-![TWC 2019 Bracket](img/bracket_GF.png)
+![TWC 2019 Podium](img/podium.png)
 
 ---
 
-## Match Schedule: Grand Finals
-
-### Sunday, 26 May 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
-| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **6:00 UTC** | 14:00 UTC+08 | 15:00 UTC+09 | ¹ |
-| Japan | ![][flag_JP] | ![][flag_TW] | Taiwan | **8:00 UTC** | 17:00 UTC+09 | 16:00 UTC+08 | ² |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **10:00 UTC** | 19:00 UTC+09 | 19:00 UTC+09 | ² |
-
-¹ 3rd place encounter  
-² Grand Finals encounter dependent on results of ¹3rd place encounter
+![TWC 2019 Bracket](img/bracket_GF.png)
 
 ---
 
@@ -257,12 +249,19 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 ## Match Results
 
+### Grand Finals
+
+| Sunday, 2019-05-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **7** | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/52105527) |
+| **Japan** ![][flag_JP] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52107329) |
+
 ### Finals
 
 | Saturday, 2019-05-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51892392) |
-| **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](	https://osu.ppy.sh/community/matches/51909730) |
+| **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/51909730) |
 
 | Sunday, 2019-05-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

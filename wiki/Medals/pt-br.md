@@ -1,10 +1,8 @@
-Conquistas
-================
+# Conquistas
 
 **Conquistas** (também chamadas de **Medalhas**) são pequenas insígnias no perfil de alguém que indicam que o jogador alcançou um objetivo excepcional. Atualmente, elas estão divididas em 5 grupos.
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](https://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](https://osu.ppy.sh/p/packlist?t=t) e medalha.
 
@@ -51,8 +49,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 | ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
 
-Skill
--------
+## Skill
 
 As conquistas **Skill** atualmente estão divididos em três grupos: **Combo**, **High Ranker** e **Star-based**
 
@@ -81,8 +78,7 @@ As conquistas **Star-based** são divididas em dois grupos, **Pass** e **S**. As
 | ![8 Star Standard S](img/osu-skill-fc-8.png "8 Star Standard S") | ![8 Star Taiko S](img/taiko-skill-fc-8.png "8 Star Taiko S") | ![8 Star Catch the Beat S](img/fruits-skill-fc-8.png "8 Star Catch the Beat S") | ![8 Star Mania S](img/mania-skill-fc-8.png "8 Star Mania S") |
 
 
-Dedication
------------
+## Dedication
 
 As conquistas de **dedicação** podem ser obtidas por jogar muitas vezes no modo padrão/coletar muitas frutas no modo [Catch the Beat](/wiki/Game_Modes/osu!catch)/acertar um monte de batidas no modo [Taiko](/wiki/Game_Modes/osu!taiko)/pressionar um monte de teclas no modo [Mania](/wiki/Game_Modes/osu!mania).
 
@@ -95,8 +91,7 @@ As conquistas de **dedicação** podem ser obtidas por jogar muitas vezes no mod
 | ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (modo osu!)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
 
-Mod Introduction
------------------
+## Mod Introduction
 
 As conquistas de **introdução de mod** podem ser obtidas concluíndo mapas com o modificador de jogo especificado. Elas têm o objetivo de incentivar novos jogadores a experimentarem cada mod e explorar o que o jogo tem para oferecer.
 
@@ -110,8 +105,7 @@ As conquistas de **introdução de mod** podem ser obtidas concluíndo mapas com
 | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
 
-Hush-Hush
-----------
+## Hush-Hush
 
 Conquistas deste tipo não têm nenhuma maneira óbvia de obtê-las. O próprio jogador deve descobrir o que ele precisa fazer para alcançar a conquista. Os nomes em si já são uma pista.
 
@@ -127,7 +121,6 @@ Conquistas deste tipo não têm nenhuma maneira óbvia de obtê-las. O próprio 
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
 
-Links externos
--------------
+## Links externos
 
 -   Gráficos de conquistas do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

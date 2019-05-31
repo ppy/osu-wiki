@@ -102,7 +102,6 @@ Dormin's "Une mage blanche" shows [Sulfur](https://osu.ppy.sh/users/5297447)'s e
 
 [Chaoslitz](https://osu.ppy.sh/users/3621552) and Moecho’s collab on colate and Nanahira’s "Good Night" is a great example of how collab difficulties are supposed to be mapped: the styles of both mappers blending with each other, resulting in a smooth playing experience without either of the mappers’ parts outshining the other. Coupled with the intuitive rhythm and patterns, the result is a very enjoyable map to play for players of all skillsets and levels.
 
-
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/taiko/passage.jpg)](https://osu.ppy.sh/beatmapsets/587426)

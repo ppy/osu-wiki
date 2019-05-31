@@ -4,6 +4,7 @@ tags:
 - DMX 3
 - DMX3
 ---
+
 # DeltaMax's Mania Key Smasher
 
 ![DMX 3 Logo](img/logo.png)

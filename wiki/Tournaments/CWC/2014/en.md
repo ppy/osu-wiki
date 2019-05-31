@@ -3,6 +3,7 @@ tags:
 - CWC 2014
 - CWC2014
 ---
+
 # osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 Logo](img/logo.png)

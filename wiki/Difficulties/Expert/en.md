@@ -1,5 +1,4 @@
-Expert
-========
+# Expert
 
 In ways to push and extend the limits of beatmapping, Expert was invented/created to be beatmaps *like* [Insane](/wiki/Difficulties/osu!/Insane) but go beyond.
 
@@ -11,8 +10,7 @@ Characteristically, expert difficulties are difficult maps, usually featuring bo
 
 An issue with Expert maps, like Insane maps, is that they can easily be Overmapped to increase the map's difficulty.
 
-Settings
---------
+## Settings
 
 *Note: this is only a general suggestion. The difficulty setting will vary depending on the song itself and mapper's own style.*
 

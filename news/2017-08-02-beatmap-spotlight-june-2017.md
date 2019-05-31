@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Beatmap Spotlights: June 2017"
-permalink: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 date: 2017-08-02 01:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017
 ---
-
 
 Demetori, Infected Mushroom, Seiryu, Krux and more in this month's [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1706)! Take a look, have a play, and maybe even win some osu!supporter tags while you're at it!
 
@@ -21,7 +19,6 @@ First of all, congratulations to the winners of the May 2017 Spotlights. They re
 + **osu!taiko:** [Quizmaegi](https://osu.ppy.sh/users/2228401)
 + **osu!catch:** [_Asriel](https://osu.ppy.sh/users/566276)
 + **osu!mania:** [Xcstasy](https://osu.ppy.sh/users/1306875)
-
 
 ## osu!
 

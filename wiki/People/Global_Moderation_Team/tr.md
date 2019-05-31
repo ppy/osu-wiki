@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Global Moderasyon Takımı
 
 **Global Moderasyon Takımı** (eskiden Adminler, Global Mod Takımı, ya da “GreenBAT” olarak bilinir), yaygın adıyla **GMT**, ana olarak oyuncu moderasyonu ve ekibi ve topluluğun bütününü etkileyen konular ile ilgilenen osu!ekip üyeleridir.

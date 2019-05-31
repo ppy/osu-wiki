@@ -25,4 +25,3 @@ A community driven singing contest where contestants as a solo or a duet sing th
 Best of luck to our 2017 finalists!
 
 —Flanster
-

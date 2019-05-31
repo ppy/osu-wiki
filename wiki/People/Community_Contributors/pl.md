@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Zasłużeni dla społeczności
-================================
+
+# Zasłużeni dla społeczności
 
 ![Znak Zasłużonego](/wiki/shared/contributor.jpg "Znak Zasłużonego")
 

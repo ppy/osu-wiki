@@ -6,7 +6,6 @@ date: 2018-01-23 09:00:00 +0000
 
 It seems like we still have a few unopened presents from last year - the December Spotlights are out, make sure to drop by and check it out!
 
-
 ![](https://assets.ppy.sh/media/generic-header.png)
 
 The beatmap charts for the December Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1801) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The December 2017 Spotlights rankings will end on 15th February 2018.**

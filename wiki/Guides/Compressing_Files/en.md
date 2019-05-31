@@ -9,13 +9,11 @@ There are 2 types of compression. **Lossy** and **Lossless** compression.
 -   **Lossless** implies that the quality never degrades and can be repeatedly compressed or decompressed.
 -   **Lossy** is a much more powerful form of compression which sacrifices quality for space/processor demand.
 
-Zip
----
+## Zip
 
 The `.osz` package is actually a `.zip` file, and will compress your beatmap, although not very much, since audio, video, and images are usually compressed very well. Zip and other archives are all lossless compression, otherwise you wouldn't be able to get your data back.
 
-Video
------
+## Video
 
 Videos are usually where people go wrong. There are thousands of video codecs out there, and *believe it or not, YouTube is usually a terrible place to get videos*. For the best quality, you should always downsize from a high resolution source (720p YouTube videos are fine for this).
 
@@ -83,8 +81,7 @@ If avidemux does not open your file correctly, there are alternatives: [Mediacod
 
 The reason I like avidemux is because you can easily edit each frame, and it has a good interface, unlike mediacoder (which has greater compatibility). I've never been able to get virtualdub to work properly.
 
-Audio
------
+## Audio
 
 Now that there is a limit on audio bitrate, it's not as much of a problem anymore. However long songs at 192 kbps will undoubtedly take up most of your space. I recommend using a variable bitrate between rate factor 2 and 5 (I try to stick around 4). With a variable bitrate, you get more compression in low activity areas, and more quality in higher areas.
 
@@ -94,8 +91,7 @@ Programs such as [Audacity 1.3.13](http://audacity.sourceforge.net/download/) do
 
 osu! accepts 2 major file formats: mp3 and ogg vorbis. Vorbis has a clear advantage over mp3 at low bitrates (under 128 kbps), but suffers from lack of support by proprietary software like apple, since mp3 is the standard for audio. However, there are severely limiting returns on using anything higher than 128 kbps. For osu! it doesn't really matter which one you use.
 
-Images
-------
+## Images
 
 There are 2 major image formats which make up most of the images you find online: jpg and png. Png uses lossless compression which makes it ideal for small and or simple images. Complex images are better suited for jpg. The majority of image editing programs however do not naturally use `.png` and `.jpg` compression to the most of their ability however, leaving you with 4 KB pngs of 1 colour, which could be compressed up to 400 times smaller.
 
@@ -113,8 +109,7 @@ For even better compression, you can use a script which combines multiple compre
 
 ![Compressing Images with pngslim](CBF_04.png "Compressing Images with pngslim")
 
-Results
--------
+## Results
 
 Here we have results of compressing.
 

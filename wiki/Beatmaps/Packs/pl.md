@@ -1,4 +1,4 @@
-﻿# Paczki
+# Paczki
 
 _Główny artykuł: [Beatmapy](/wiki/Beatmaps)_
 

@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Installation - Finnish
-======================
+
+# Installation - Finnish
 
 Tässä on suurin osa yleisistä ongelmista kun yrittää käynnistää osu!:a.
 
-Ongelmat
---------
+## Ongelmat
 
 ### Minä yritän käynnistää osu!:a ja minä saan virheen 'Initialization Error'
 

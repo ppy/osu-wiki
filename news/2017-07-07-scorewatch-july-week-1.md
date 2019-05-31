@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scorewatch: July Week 1"
-permalink: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 date: 2017-07-07 15:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162665757983/scorewatch-july-week-1
 ---
+
 A fierce war in the top 5 of osu!standard, a Glitch Nerds score battle between the 2 best players of osu!mania, and some taiko action all wrapped up in the first week of July!
 
 ![](/wiki/shared/news/2017-07-07-scorewatch-july-week-1/banner.png)
@@ -22,7 +22,6 @@ And when we thought it was just a duel, [Angelsim](https://osu.ppy.sh/users/1777
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RrCNNdcsWQw" frameborder="0" allowfullscreen></iframe></br>
 
-
 Miss [_yu68](https://osu.ppy.sh/users/6170507) already? Fear not, he is back on setting scores here with a possibly casual 99.63% DT FC on [Infected Mushroom - Nutmeg](https://osu.ppy.sh/beatmaps/1306449?m=1) to score 538pp. We really have to wonder how he manages to do stuff like this without fail.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nX0somgZo1k" frameborder="0" allowfullscreen></iframe></br>
@@ -31,20 +30,15 @@ We love people setting chaotic scores. We also love people setting chaotic score
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/okCgV1FN0gk" frameborder="0" allowfullscreen></iframe></br>
 
-
-
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [Toy](https://osu.ppy.sh/users/2757689), resident tickler, set an amazing SS score on the Loved [O2i3 - TSLove](https://osu.ppy.sh/beatmaps/1251844) consisting of crazy slider patterns and strenous jumps, with streams mixed into it. I don't know about you guys, but this score is actually out of this world.
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 It's time for a duel between [jakads](https://osu.ppy.sh/users/259972) and [dksgo](https://osu.ppy.sh/users/1190879) (previously WindyS) who are both global and Korean #1 and #2 rank players! Watch them battle on [Camellia - Glitch Nerds](https://osu.ppy.sh/beatmapsets/462748) in the video below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zgCqgccHR7A" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

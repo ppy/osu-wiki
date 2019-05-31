@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #3 - Submissions Extended"
-permalink: http://osunews.tumblr.com/post/75252397877/skin-showcase-taiko-special
 date: 2014-02-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/75252397877/skin-showcase-taiko-special
 ---
+
 With the Taiko World Cup now underway, I've decided to showcase 5 different skins looking solely at Taiko.
 
 1.  Frank's Taiko skin by Frank7654321 ([thread link](https://osu.ppy.sh/community/forums/topics/48424))

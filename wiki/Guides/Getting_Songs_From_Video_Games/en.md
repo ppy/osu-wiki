@@ -1,10 +1,8 @@
-Getting songs from Video Games
-===============================
+# Getting songs from Video Games
 
 This tutorial is for mappers that want a song from video games, mainly consoles like PS2, GCN/Wii, Xbox 360, etc. It can include portable and older consoles (See SNES, PS1, PSP, N64, NDS, etc.) but it requires more things to get the music from them.
 
-Before you begin
-----------------
+## Before you begin
 
 This tutorial will require several things. These will be listed in case so if you don't have them you can download or seek more information about them:
 
@@ -18,8 +16,7 @@ This tutorial will require several things. These will be listed in case so if yo
 -   **An extracted backup from your game.** This is required to get your desired song. However, you should get the backup by yourself.
     This tutorial will use *Paper Mario: The Thousand Year Door* as our game.
 
-Starting up
------------
+## Starting up
 
 ![Inside of our music folder. Look that we are on the sound/stream folder.](GameMusicTutorial-Screen1.jpg "Inside of our music folder. Look that we are on the sound/stream folder.")
 
@@ -27,14 +24,12 @@ First download and install the required applications in your computer (If you do
 *Note: The name of the folder can vary depending of the game. The usual names for the music folder are **stream, sound, bgm, music**.*
 *Note 2: Some games use a different extension or not extension at all due to engine limitations/programmer whines/whatever reason. Usually a Google search can give you information about those specific games.*
 
-Loading our song
-----------------
+## Loading our song
 
 Once you are in the game's music folder, is time to load the songs to foobar2000. To do so, select all files in the folder and drag them to foobar's window. Once the songs are loaded, listen each one until you get to the desired song. In this tutorial, we're seeking for *Chapter 3 Boss Battle Theme* (We can't spoil the real name for those who are still playing the game :p) so our file is **btl\_gns1\_32k.stm**.
 Feel free to listen the song if you want.
 
-Converting
-----------
+## Converting
 
 Once you have the song that you are converting, right-click the song in the playlist, select *Convert* and then the *...* option. This will bring you to a dialog so you can select how the conversion will be done.
 
@@ -51,7 +46,6 @@ This list will give you the correct setup for converting them to osu!:
 
 Once you have your options set, click the *Save* button and when it asks to overwrite the preset, click in *Save as new*. Give it a name so you can convert future songs quickly. Once you are ready to convert, click on the *Convert* button so the conversion process can start. Once it's finished, search the folder for the resulting file. In our case, the file is **btl\_gns1\_32k.mp3**.
 
-Finishing
----------
+## Finishing
 
 Once we have our converted file, load it in foobar2000 or in your prefered music player to check if the song converted to your linking, if not, review the conversion settings until you have an appropriate file. Once the file is ready, drag it into osu!'s window, fill in the tags and start mapping!

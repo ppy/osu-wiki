@@ -1,5 +1,4 @@
-Countries that participated in osu! tournaments
-========================================================================
+# Countries that participated in osu! tournaments
 
 Este artigo lista os países que participaram dos vários torneios de osu!, Taiko, CtB e osu!mania que aconteceram no osu!, assim como suas colocações se conseguiram chegar no top 4.
 
@@ -10,8 +9,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 | ![][true] | Participou       |
 | ![][false] | Não participou |
 
-Classificação nacional de todos os modos
---------------------------------------------
+## Classificação nacional de todos os modos
 
 | Posição | País                     | Ouro | Prata | Bronze |
 |:----:|-----------------------------|:----:|:------:|:------:|
@@ -37,8 +35,7 @@ Classificação nacional de todos os modos
 | 12   | ![][flag_GB] Reino Unido |      |        | 1      |
 
 
-Por modo
-------------
+## Por modo
 
 ### osu!
 
@@ -289,8 +286,7 @@ Por modo
 | ![][flag_VN] Vietnam            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
 | Total number of teams           | 19            | 19            | 32            | 20            | 32            | 16         |
 
-Observações
--------------
+## Observações
 
 **½** - Participou com outro país como um único time.
 

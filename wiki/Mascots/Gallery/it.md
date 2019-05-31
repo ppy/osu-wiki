@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Gallery
-===================
+
+# Gallery
 
 ***[Clicca per tonare alla pagina delle Mascotte](/wiki/Mascots)***
 
-Originali osu!
---------------
+## Originali osu!
 
 ### Pippi originali (vestito da idol)
 
@@ -37,11 +36,8 @@ Originali osu!
 ![pippidon (Modalità Taiko).](img/Pippidon.png "pippidon (Modalità Taiko).")
 ![pippi & Yuzu che registrano una discussione.](img/Osu!Talk.png "pippi & Yuzu che registrano una discussione.")
 
-Cameo
---------
+## Cameo
 
 ![Ryuuta in osu!catch.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")
 ![Vecchia pippi e amici nelle deprecate Modalità Speciali.](/wiki/shared/Ctb_logo.jpg "Vecchia pippi e amici nelle deprecate Modalità Speciali.")
-
-

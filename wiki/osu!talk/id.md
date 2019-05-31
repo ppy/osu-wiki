@@ -1,17 +1,14 @@
-osu!talk
-===========================
+# osu!talk
 
 ![osu!talk logo](osu!talk.jpg "osu!talk logo")
 
-Pengenalan
------------
+## Pengenalan
 
 Channel Youtube resmi: <https://www.youtube.com/user/osuacademy/videos>
 Forum resmi: <https://osu.ppy.sh/community/forums/topics/225111>
 **osu!talk** adalah sebuah serial program rekaman yang diselenggarakan oleh [ztrot](https://osu.ppy.sh/users/ztrot), bersama dengan [deadbeat](https://osu.ppy.sh/users/deadbeat) yang berperan sebagai co-host. Serial ini berfokus pada kegiatan mewawancarai banyak orang dari berbagai tempat di komunitas osu!. Meski begitu, terkadang kami juga mengadakan diskusi grup mengenai berbagai hal yang berbeda yang terjadi di sekitar komunitas seperti perubahan-perubahan yang terjadi pada jajaran staff, atau isu-isu berkepanjangan yang sering sekali dibahas seperti isu mengenai overmapping. Program rekaman ini telah diatur sehingga siapapun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](https://en.wikipedia.org/wiki/Q%26A) publik berlangsung pada episode tersebut. Kesemua ini tidak disiarkan secara langsung dimana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan mengambil bagian mereka sendiri.
 
-Episode
----------
+## Episode
 
 | EP\#  | Orang yang diwawancarai                                  | Profesi                          | [Tautan]                                                        |
 |-------|----------------------------------------------------------|----------------------------------|-----------------------------------------------------------------|
@@ -59,8 +56,7 @@ Episode
 | #40   | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Tautan](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
-Diskusi
-----------
+## Diskusi
 
 | EP\# | Topik                                     | Orang yang diwawancara                                                                                                                                                                                                      | [Tautan]                                        |
 |------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -78,8 +74,7 @@ Diskusi
 | #12  | Diskusi mengenai osu!idol                 | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868)                                                                          | [Tautan](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
 
-Rekapitulasi World Cup
------------------------
+## Rekapitulasi World Cup
 
 ### Taiko World Cup 2015
 
@@ -101,8 +96,7 @@ Rekapitulasi World Cup
 | Semi Finals    | deadbeat, Tasha and ztrot | [Tautan](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
 
-Spesial
----------
+## Spesial
 
 | EP\# | Acara                      | Orang yang diwawancara                                                                                                                                                   | [Tautan]                                        |
 |------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|

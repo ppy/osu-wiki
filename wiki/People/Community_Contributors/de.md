@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Mitwirkende der Community
-===========================
+
+# Mitwirkende der Community
 
 ![Contributor Abzeichen](/wiki/shared/contributor.jpg "Contributor Abzeichen")
 

@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Global Moderation Team
 
 **Global Moderation Team** (以前はAdministrators, Global Mod Team あるいは“GreenBAT”として知られていたチーム)は一般的に**GMT**と呼ばれ、プレイヤーの穏健化やスタッフに関する問題を解決するosu!Staffの大きなコミュニティーの一つです。

@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Installation
-======================
+
+# Installation
 
 Cette page explique comment faire fonctionner osu! sur votre ordinateur et propose quelques solutions en cas de problèmes.
 
-Guide d'installation
---------------------
+## Guide d'installation
 
 ### Windows OS
 
@@ -86,8 +85,7 @@ Plus d'informations dans [cette section](https://osu.ppy.sh/community/forums/top
 #### iPhone (version non officielle) Plus d'informations sur [cette page](https://osu.ppy.sh/community/forums/topics/176495) (en anglais)
 
 
-Questions et problèmes fréquents
---------------------------------
+## Questions et problèmes fréquents
 
 -   **J'essaye de lancer osu! et j'obtiens une "Initialization Error"**
     -   Assurez-vous d'avoir installé la dernière version de [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/fr-FR/download/details.aspx?id=22)

@@ -1,10 +1,8 @@
-Design
-==================
+# Design
 
 O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Beatmap_Editor), localizado na aba Design, que permite a criação simplificada de [Storyboards](/wiki/Storyboards), e é normalmente uma boa introdução para o conceito antes de tentar fazer [Storyboard Scripting](/wiki/Storyboard_Scripting).
 
-Destaques
----------
+## Destaques
 
 -   Mostra as coordenadas de onde o cursor esta e sua orientação na linha do tempo (em milissegundos).
 -   Mostra o nivel de [SB Load](/wiki/Beatmap_Editor/SB_Load) de todas as imagens visíveis.
@@ -25,8 +23,7 @@ Destaques
 -   Difficulty specific toggle (faz com que os efeitos que você está criando seja visível apenas na dificuldade do beatmap em que você esta editando)
 -   Capacidade de adicionar plano de fundo e mudar as cores de fundo (que é roxo por padrão).
 
-Limitações
-----------
+## Limitações
 
 -   Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Hit_Objects). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
 -   Sem suporte para loop ou trigger.

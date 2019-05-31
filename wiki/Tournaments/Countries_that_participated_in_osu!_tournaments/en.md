@@ -1,5 +1,4 @@
-Countries that participated in osu! tournaments
-=================================================
+# Countries that participated in osu! tournaments
 
 This article lists the countries that participated in the various osu!, osu!taiko, CtB and osu!mania tournaments as well as their rank if they finished in the top 4.
 
@@ -12,8 +11,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 | ![][true] | Participated       |
 | ![][false] | Didn't participate |
 
-All-modes country ranking
----------------------------
+## All-modes country ranking
 
 | Rank | Country                     | Gold | Silver | Bronze |
 |:----:|-----------------------------|:----:|:------:|:------:|
@@ -39,8 +37,7 @@ All-modes country ranking
 | 12   | ![][flag_GB] United Kingdom |      |        | 1      |
 
 
-Per mode
-------------
+## Per mode
 
 ### osu!
 
@@ -291,8 +288,7 @@ Per mode
 | ![][flag_VN] Vietnam            | ![][false]    | ![][false]    | ![][true]     | ![][false]    | ![][false]    | ![][false] |
 | Total number of teams           | 19            | 19            | 32            | 20            | 32            | 16         |
 
-Notes
--------
+## Notes
 
 **½** - Participated with another country as a single team.
 

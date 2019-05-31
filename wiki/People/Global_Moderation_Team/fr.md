@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Équipe de modération globale
 
 L **'équipe de modération globale** (*Global Moderation Team* ou *GMT* en anglais), dont les membres sont aussi connus sous le nom de **global mods** ou simplement **modos**, sont des membres du staff d'osu! dont l'objectif premier est d'encadrer la communauté sur le chat et le forum à l'aide du [règlement](/wiki/Rules).

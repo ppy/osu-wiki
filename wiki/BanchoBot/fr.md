@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![La carte de joueur de BanchoBot](img/BanchoBot.jpg "La carte de joueur de BanchoBot")

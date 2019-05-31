@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-osu! World Cup 2013
-======================
+
+# osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
@@ -17,15 +17,13 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 -   Semi-finali: 30 Nov - 1 Dec 2013
 -   Finali/lotta per il terzo posto: 7-8 Dec 2013
 
-Premi
----------
+## Premi
 
 **\#1:** 6 mesi di supporter, piccolo banner sotto al nome utente, trofeo OWC
 **\#2:** 3 mesi di supporter
 **\#3:** 1 mese di supporter
 
-Organizzazione
----------------
+## Organizzazione
 
 **Gestione torneo:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/Loctav), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_DE] [p3n](https://osu.ppy.sh/users/p3n)
 
@@ -39,21 +37,17 @@ Organizzazione
 
 ------------------------------------------------------------------------
 
-Partecipanti (0/32)
---------------------
+## Partecipanti (0/32)
 
-Mappools
------------
+## Mappools
 
-Links
----------
+## Links
 
 -   [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 
-Regolamento
---------------
+## Regolamento
 
 ### Regolamento del torneo
 

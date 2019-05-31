@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Scorewatch: June Week 2"
-permalink: http://osunews.tumblr.com/post/161653411533/scorewatch-june-week-2
 date: 2017-06-10 12:45:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161653411533/scorewatch-june-week-2
 ---
@@ -30,8 +29,7 @@ Light it up with this week's Scorewatch, featuring some crazy plays on Blue Zeni
  
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/DkSVEbrLLPU" frameborder="0" allowfullscreen></iframe></center>
  
-NOTABLE MENTIONS
-------
+## NOTABLE MENTIONS
 
 [Rafis](https://osu.ppy.sh/users/2558286) joins the ranks of the unholy trinity of players (consisting of filsdelama, Angelsim and Vaxei) by setting the next HDHRDT FC on [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmaps/1262832?m=0) with 97.84%, earning 655pp! While he didn't quite make the No. 1 spot on the leaderboards, he certainly enjoyed finally getting the score he wanted!
  
@@ -39,11 +37,9 @@ NOTABLE MENTIONS
 
 [OskaRRRitoS](https://osu.ppy.sh/users/7051163) took [MillhioreF - Waltz o' the Irish](https://osu.ppy.sh/beatmaps/326585&m=0) and played it for 3 days straight! Not willing to be outdone by ExGon who did the same map a couple weeks ago, he does it with HTNF and grabs an SS! For once this is a score we won't recommend you to watch in its entirety, but definitely something worth mentioning.
 
-SCOREWATCH SCORE SHOW
-------
+## SCOREWATCH SCORE SHOW
 
 [Estonians](https://osu.ppy.sh/users/7014697) takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/beatmaps/846925)!
-
 
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/j-0edVaahjA" frameborder="0" allowfullscreen></iframe></center>
 

@@ -1,10 +1,8 @@
-Cheat Sheet
-============
+# Cheat Sheet
 
 Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/community/forums/topics/1869)
 
-Storyboarding by Scripting
---------------------------
+## Storyboarding by Scripting
 
 In the .osu file, under [Events]: *Note: underscores can be replaced with spaces.*
 

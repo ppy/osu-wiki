@@ -1,10 +1,8 @@
-osu! Program Files
-===================
+# osu! Program Files
 
 ![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
 
-Location
---------
+## Location
 
 ### Windows
 
@@ -13,8 +11,7 @@ Location
 | `C:\Users\<Username>\AppData\Local\osu!` | 	`C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
 > `C:` is your harddisk with osu! installed.
 
-Folders
-------------------------------------------
+## Folders
 
 ### \_MacOS
 
@@ -77,8 +74,7 @@ Please note that *ancient* beatmaps folders during the beginnings of osu! do not
 
 **osu!data files.** Should not be tampered.
 
-Program files
-----------------
+## Program files
 
 ### .db (Database file)
 

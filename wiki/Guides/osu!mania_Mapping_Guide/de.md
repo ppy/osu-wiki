@@ -1,10 +1,8 @@
-osu!mania Mapping Guide
-====================================
+# osu!mania Mapping Guide
 
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.
 
-Vorwort
----------
+## Vorwort
 
 ### Was ist Mania?
 
@@ -50,8 +48,7 @@ Sollte noch etwas unklar sein schaut ruhig noch einmal nach und lest es in ruhe 
 
 Aber solltet ihr alles verstanden haben springen wir doch gleich zu Punkt 2, den Grundlagen des Guides!
 
-Grundlagen
--------------
+## Grundlagen
 
 ### Song Setup
 
@@ -297,8 +294,7 @@ Auch zu erwähnen wäre: Solltet ihr einfach keine lust auf Hitsounden haben (wa
 
 Soviel zum Thema Hitsounds! Nachdem eure Map nun auch Hitsounded ist könnt ihr sie hochladen und anderen Spieler zur Verfügung stellen!
 
-Erweiterte Kenntnisse
-----------------------
+## Erweiterte Kenntnisse
 
 ### Pitch
 

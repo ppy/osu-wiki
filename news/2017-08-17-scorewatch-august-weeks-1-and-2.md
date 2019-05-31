@@ -32,8 +32,7 @@ An unfamiliar face to newcomers, but definitely a player that has not rusted a b
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QJ6GyjY5qrY" frameborder="0" allowfullscreen></iframe></br>
 
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 As osu! progresses into the 10th year of development, we look back at some scores set in previous years that we might have forgotten or missed, starting with [WubWoofWolf](https://osu.ppy.sh/users/39828) as he tears open [Bowling for Soup - 1985](https://osu.ppy.sh/beatmaps/19467) with a 96.46% DT FC!
 
@@ -41,8 +40,7 @@ We may not be able to keep up with what [jehlp](https://osu.ppy.sh/users/7568542
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VT4Q5haXSOE" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [WubWoofWolf](https://osu.ppy.sh/users/39828) has shocked the osu! community with an amazing play on [Halozy - Genryuu Kaiko](https://osu.ppy.sh/beatmaps/433005)! Slapping on the HD mod, he went on to take an incredible 99.15% HD 4 miss score to land 4th on the leaderboards and even earn 408pp in the process! Wolf at its finest.
 
@@ -50,13 +48,11 @@ Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has ju
 
 <iframe width="100%" height="315" src="https://player.twitch.tv/?video=v165036056&autoplay=false" frameborder="0" allowfullscreen></iframe></br>
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [inteliser](https://osu.ppy.sh/users/1824775) takes on [Pope Gadget](https://osu.ppy.sh/users/2288341) on the infamous osu!mania map [LeaF - NANO DEATH!!!!!](https://osu.ppy.sh/beatmapsets/478161).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zQR8-BtcWGY" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

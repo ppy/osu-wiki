@@ -1,5 +1,4 @@
-Divisor de ritmo
-==================
+# Divisor de ritmo
 
 El Divisor de ritmo se usa para limitar dónde se pueden colocar notas para que siempre caigan al ritmo. Mover el control deslizante hacia la derecha aumenta la granularidad de las notas, es decir, se pueden colocar más notas en la misma medida.
 
@@ -55,8 +54,7 @@ El 1/3 y 1/6 son especiales porque significa que el BPM es divisible por tres, p
 
 Al mantener presionado el botón "Alt" sobre el control deslizante, se cambiara por el de [distancia entre notas](/wiki/Beatmap_Editor/Distance_Snap).
 
-osu!mania
------
+## osu!mania
 
 Doble línea blanca: Medida.
 

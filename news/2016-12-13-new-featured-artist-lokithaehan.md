@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "New Featured Artist: Loki/Thaehan"
-permalink: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 date: 2016-12-13 06:15:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 ---
-First teased during last month's development meeting, we're delighted to introduce you to one of osu!'s newest featured artists - [Loki/Thaehan!](https://osu.ppy.sh/beatmaps/artists/7) Why the slash you ask? Well, he's two in one!
 
-<!-- more -->
+First teased during last month's development meeting, we're delighted to introduce you to one of osu!'s newest featured artists - [Loki/Thaehan!](https://osu.ppy.sh/beatmaps/artists/7) Why the slash you ask? Well, he's two in one!
 
 Hailing from Bordeaux in France, **Loki/Thaehan** is an incredibly talented musician that already sports a pedigree of maps made to his tracks by members of the community. His twin identities split cleanly between his two very different styles, with **Loki** specialising exclusively in metal of a symphonic twist, and **Thaehan** focusing on a racing, chiptune-electronica sound.
 

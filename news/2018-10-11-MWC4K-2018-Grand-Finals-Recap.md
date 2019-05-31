@@ -8,7 +8,6 @@ After 6 weeks of intense note holding action, the osu!mania World Cup 4k has rea
 
  ![](/wiki/shared/news/banners/MWC4K_2018_banner.jpg)
 
-
 ### [United States vs Brazil](https://osu.ppy.sh/community/matches/46485848)
 
 The first match of the grand finals weekend was a rehash between United States and Brazil, whose previous semi-final encounter resulted in Brazil getting brought to the loser's bracket in a 7-6 tiebreaking thriller. The two teams duked it out and showcased yet another match of exceptional intensity that would rival their previous matchup, both performing in win-or-out pressure to determine the third place finisher and the grand finals matchup.
@@ -22,7 +21,6 @@ After an expected LN win by Brazil, the United States team found themselves unde
 With both teams attempting to jockey for position, Brazil continued to press forward with their long-note game, aiming to make [Talent Shredder](https://osu.ppy.sh/beatmaps/1783836&m=3) an expected fifth point. However, Brazil would unfortunately meet an untimely break point against the United States on their expected win, giving the United States team ample opportunity to push Brazil’s backs against the wall with the extremely difficult [Contain](https://osu.ppy.sh/beatmaps/1783616&m=3). Contain’s result pushed the match to a 6-4 score, putting the United States team at match point and more importantly, one point away from a winner’s finals rematch against South Korea in the Grand Finals stage of the tournament.
 
 Requiring two more wins simply to secure a tiebreaker after a break point, Brazil went for a pick befitting the United States team: [Shrill False](https://osu.ppy.sh/beatmaps/1778859&m=3) — despite this consideration, Lothus delivered an absolutely exceptional run and aided Brazil in keeping their tournament hopes alive with a win decided by a mere 5,345 points. Down to only two remaining picks in the mappool, the United States made [beepbit futures](https://osu.ppy.sh/beatmaps/1783622&m=3) the 12th and final possible pick of the round, with full awareness that conceding a point would result in a tiebreaking 13th song. After an exceptional fight from both teams on this brutally difficult map, the United States took the pick by a rather convincing amount — over 75,000 points, and secured themselves a top 2 finish, and a trip to the Grand Finals where they would meet South Korea once more.
-
 
 ### [South Korea vs United States](https://osu.ppy.sh/community/matches/46519536)
 

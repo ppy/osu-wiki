@@ -1,5 +1,4 @@
-osu!
-======
+# osu!
 
 _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
@@ -7,8 +6,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 提出的新的规定会在 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87) 内进行讨论。按照惯例，这里会列出所有经过探讨并得到了社区认可的规定，它们已在各自的讨论帖中达成了一致意见。
 
-一般术语
---------
+## 一般术语
 
 ### 难度名称
 
@@ -46,8 +44,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 - **Hit object/Note density：** 用节拍数表示的物件之间的平均时间跨度。（比如 1/1 表示一拍，1/2 表示半拍）。
 - **Keysounding：** 使用与音乐很相近的音，或者直接用音乐中的音来作为谱面音效。 这种音效的做法通常给玩家的打击反馈感很少。
 
-总体
---------
+## 总体
 
 总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/osu!/Scaling_BPM)中有更详细的介绍。
 
