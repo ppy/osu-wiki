@@ -10,8 +10,6 @@ From *Cytus II* and *Crypt of the Necrodancer* fame, [**James Landino**](https:/
 
 A veteran music producer and touring DJ, **James Landino** just also happens to be a massive rhythm gaming nerd like the rest of us, and has spent much of his career introducing the nuances of video game music to EDM to widespread acclaim.
 
-We're delighted to announce **6** new tracks specifically commissioned and designed by this musical mastermind are now available for use in modding and mapping over at [**his Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/39).
-
 To kick things off, some of the original Mappers' Guild team have been hard at work creating three full beatmap sets for you to experience, complete with some wonderful hand-made atmospheric storyboards courtesy of the mind of [Noffy](https://osu.ppy.sh/users/1541323).
 
 Check them out:
@@ -70,7 +68,7 @@ Here's a sneak musical peek of all six:
 
 ---------
 
-As always, the above tracks are available over at [**James Landino's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/39), and are 100% free for use in modding and mapping. We might've already said this, but it warrants repeating! Go forth and map his wonderful work, guilt and risk free.
+As always, the above tracks are available over at [**James Landino's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/39), and are 100% free for use in mapping. Go forth and map his wonderful work, guilt and risk free.
 
 In other news, we've recently brought so many new artists on board the Featured Artist project that we've had to sit down and reconsider our two-a-month release schedule that we've been maintaining strong all year so far! Depending on how things go, June might be a very busy month indeed!
 
