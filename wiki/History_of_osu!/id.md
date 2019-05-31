@@ -19,4 +19,4 @@ Catatan sejarah osu!, dapat diakses semua di osu! wiki.
 
 Perlu dicatat, osu! wiki memiliki sedikit sejarah rincinya tersendiri.
 
-- [osu! wiki](/wiki/History_of_osu!/osu!wiki)
+- [osu! wiki](/wiki/History_of_osu!/osu!_wiki)
