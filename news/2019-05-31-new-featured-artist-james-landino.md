@@ -26,7 +26,7 @@ Check them out:
 
 [**Hide And Seek**](https://osu.ppy.sh/s/972932) by [Mirash](https://osu.ppy.sh/users/2841009) featuring [RLC](https://osu.ppy.sh/users/1047883)
 
-But don't take this to mean that all the new tracks have already been mapped - there's still **three** more left for the intrepid to conquer, with quests for a full pack likely soon to come for those esteemed members of the [Mappers' Guild](https://mappersguild.com/).
+But don't take this to mean that all the new tracks have already been mapped - there's still **three** more left for the intrepid to conquer, with quests for a full pack likely soon to come for those esteemed members of the [Mappers' Guild](https://mappersguild.com/). Interested in joining? Check out the link and find out how to join - there's a ton of benefits, and anyone can become a member if they meet the requirements!
 
 Here's a sneak musical peek of all six:
 
