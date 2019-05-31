@@ -4,7 +4,7 @@ title: "New Featured Artist: James Landino"
 date: 2019-05-31 12:00:00 +0000
 ---
 
-From *Cytus II* and *Crypt of the Necrodancer* fame, [**James Landino**](https://osu.ppy.sh/beatmaps/artists/39) joins the lineup as osu!'s latest Featured Artist with **6** brand new commissioned tracks! And as an added bonus, three fully storyboarded beatmaps from the Mappers' Guild available for play right now!
+From *Cytus II* and *Crypt of the Necrodancer* fame, [**James Landino**](https://osu.ppy.sh/beatmaps/artists/39) joins the lineup as osu!'s latest Featured Artist with **6** brand new tracks, made especially for use in osu!. And as an added bonus, three fully storyboarded beatmaps from the Mappers' Guild available for play right now!
 
 ![](https://assets.ppy.sh/artists/39/header.jpg)
 
@@ -26,7 +26,7 @@ Check them out:
 
 [**Hide And Seek**](https://osu.ppy.sh/s/972932) by [Mirash](https://osu.ppy.sh/users/2841009) featuring [RLC](https://osu.ppy.sh/users/1047883)
 
-But don't take this to mean that all the new tracks have already been mapped - there's still **three** more left for the intrepid to conquer, with quests for a full pack likely soon to come for those esteemed members of the Mappers' Guild.
+But don't take this to mean that all the new tracks have already been mapped - there's still **three** more left for the intrepid to conquer, with quests for a full pack likely soon to come for those esteemed members of the [Mappers' Guild](https://mappersguild.com/).
 
 Here's a sneak musical peek of all six:
 
