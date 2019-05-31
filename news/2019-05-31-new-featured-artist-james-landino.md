@@ -48,7 +48,7 @@ Here's a sneak musical peek of all six:
     <source src="https://assets.ppy.sh/artists/39/previews/939.mp3" type="audio/mpeg">
 </audio>
 
-### Reaction feat. Skyleaf
+### Reaction feat. Slyleaf
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/39/previews/940.mp3" type="audio/mpeg">
