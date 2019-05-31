@@ -4,7 +4,7 @@ title: "New Featured Artist: James Landino"
 date: 2019-05-31 12:00:00 +0000
 ---
 
-From *Cytus II* and *Crypt of the Necrodancer* fame, [**James Landino**](https://osu.ppy.sh/beatmaps/artists/39) joins the lineup as osu!'s latest Featured Artist with **6** brand new tracks, made especially for use in osu!. And as an added bonus, three fully storyboarded beatmaps from the Mappers' Guild available for play right now!
+[**James Landino**](https://osu.ppy.sh/beatmaps/artists/39) of rhythm gaming fame joins the lineup as osu!'s latest Featured Artist with **6** brand new tracks, made especially for use in osu!. And as an added bonus, three fully storyboarded beatmap creations from the Mappers' Guild are available for play right now!
 
 ![](https://assets.ppy.sh/artists/39/header.jpg)
 
