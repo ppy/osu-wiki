@@ -19,4 +19,4 @@ Records of osu!'s history, all in the osu! wiki.
 
 On a side note, the osu! wiki has a bit of its own detailed history in and of itself.
 
-- [osu! wiki](/wiki/History_of_osu!/osu!wiki)
+- [osu! wiki](/wiki/History_of_osu!/osu!_wiki)
