@@ -13,7 +13,6 @@ Términos comunes
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Experto / Extremo
 - ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Extra
 
-Puedes buscar otras alternativas de nombres en [este hilo](https://osu.ppy.sh/community/forums/topics/178700).
 
 El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad mayor a la que indique su nombre base, pero menor a la de la dificultad siguiente (Por ejemplo: Ura Kantan es más dificil que Kantan, pero más facil que Futsuu).
 
