@@ -1,12 +1,11 @@
-osu!taiko 
-=============
+# osu!taiko
+
 El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko.
 Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.
 
 Estas reglas y pautas han sido discutidas en el [Hilo de Discusión de osu!taiko (en inglés)](https://osu.ppy.sh/community/forums/87). Nuevas reglas o pautas pueden ser sugeridas en el foro de discusión, las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
-Términos comunes
---------------
+## Términos comunes
 
 ### Nombres de la dificultades
 - ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Fácil
@@ -15,10 +14,10 @@ Términos comunes
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Experto / Extremo
 - ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Extra
 
-
 El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad mayor a la que indique su nombre base, pero menor a la de la dificultad siguiente (Por ejemplo: Ura Kantan es más dificil que Kantan, pero más facil que Futsuu).
 
 ### Jugabilidad
+
 - **Don / Nota roja:** Una nota que puede ser marcada con cualquiera de los botones asignados al centro del tambor (por defecto, `X` y `C`).
 - **Kat / Nota azul:** Una nota que puede ser marcada con cualquiera de los botones asignados al borde del tambor (por defecto, `Z` y `V`).
 - **Big don / Gran nota roja / Finisher rojo:** Una nota retumbante que puede ser marcada con ambos botones asignados al centro del tambor al mismo tiempo para obtener más puntaje.
@@ -39,7 +38,7 @@ El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad 
 
 ## Universal
 
-Las reglas y pautas se aplican a cualquier tipo de dificultad de osu!taiko. 
+Las reglas y pautas se aplican a cualquier tipo de dificultad de osu!taiko.
 
 ### General
 
@@ -52,7 +51,7 @@ Todas las reglas son exactamente eso: **reglas**. **No** son pautas y **no** deb
 - **La opción `Omit first bar line` de una línea de timing (roja) debe ser utilizada en cambios de BPM o cada vez que se reinicie el metrónomo. Esto ayuda a evitar que la jugabilidad se vea afectada por múltiples bar lines en el campo de juego.**
 - **Los "Taiko Template Background" no deben ser utilizados.** Debido a la variedad de resoluciones de pantalla que soporta el cliente, éstos no siempre se ven de la misma manera, lo que va en contra del propósito que tienen.
 - **No asignes el final de un slider a un snap incorrecto.** Esto generalmente se hace para corregir la falta de un punto en el slider, pero este error se corregirá en el futuro.
-- **No uses el sampleset "Drum" (a menos que uses tus mismos sonidos).** Este sampleset no tiene sonidos asignados por defecto en osu!taiko, por lo que las notas no sonarán. 
+- **No uses el sampleset "Drum" (a menos que uses tus mismos sonidos).** Este sampleset no tiene sonidos asignados por defecto en osu!taiko, por lo que las notas no sonarán.
 
 #### Pautas
 
@@ -108,7 +107,7 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 #### Pautas
 
 - **Los patrones en 1/3 no deben ser de más de 2 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
-- **Los patrones en 1/2 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. 
+- **Los patrones en 1/2 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes.
 - **Las subdivisiones principales que debes usar son en su mayoría 1/1, 2/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/2 también es aceptable.
 - **Debes utilizar al menos un descanso de 2/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida es aceptable si el ritmo de la canción no permite descansos que suenen naturales o si la sección continua no es densa en en general
 - **Puedes utilizar cambios de SV simples.**
@@ -151,7 +150,6 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
-
 ### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 
 #### Reglas
@@ -180,4 +178,3 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 #### Pautas de Ajustes de dificultad
 - El Overall Difficulty debe estar ajustado a 5 o un número mayor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
-
