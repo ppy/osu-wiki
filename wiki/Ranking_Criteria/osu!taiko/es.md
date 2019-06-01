@@ -1,5 +1,7 @@
 osu!taiko 
 =============
+El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko.
+Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.
 
 Estas reglas y pautas han sido discutidas en el [Hilo de Discusión de osu!taiko (en inglés)](https://osu.ppy.sh/community/forums/87). Nuevas reglas o pautas pueden ser sugeridas en el foro de discusión, las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
