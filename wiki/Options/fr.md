@@ -1,10 +1,10 @@
 ---
 outdated: true
 ---
+
 <img src="FrOptionsGeneral.png" title="Menu des options (l&#39;interface à gauche)" alt="Menu des options (l&#39;interface à gauche)" width="400" />
 
-Options
-=======
+# Options
 
 Le menu d'options d'osu! vous donne l'accès à un large panel d'options. Chaque option sera expliquée en détail sur cette page. Vous aurez à les fouiller si osu! rame sur votre ordinateur ou si certains éléments s'affichent mal.
 
@@ -12,15 +12,13 @@ Cliquez sur le bouton d'options (ou pressez la touche O) pour accéder au panel 
 
 Vous pouvez entrer ici l'option de votre choix dans la barre de recherche si vous savez précisément ce que vous recherchez.
 
-Options
-=======
+# Options
 
-`Redémarrez osu! si quelque chose ne marche pas comme prévu.`
+`Redémarrez osu! si quelque chose ne marche pas comme prévu.`
 
 Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéder aux options:
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg")Général
----------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg")Général
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
 
@@ -88,8 +86,7 @@ Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéd
 </tbody>
 </table>
 
-Graphismes
-----------
+## Graphismes
 
 <img src="FrOptionsGraphics.png" title="Section graphismes" alt="Section graphismes" width="300" />
 
@@ -109,7 +106,7 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 | 60fps (VSync)                                                                  | 60fps (latence lente)                                                                                                                                |
 ||
 
-Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limiter le nombre de FPS pour prévenir les surchauffes et la consommation excessive de la batterie comme mentionné sur [ce topic](http://osu.ppy.sh/forum/t/82605) (en anglais).
+Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limiter le nombre de FPS pour prévenir les surchauffes et la consommation excessive de la batterie comme mentionné sur [ce topic](https://osu.ppy.sh/community/forums/topics/82605) (en anglais).
 
 -   **Affiche le compteur de FPS**: Affiche un compteur de FPS en bas à droite de l'écran.
 
@@ -200,8 +197,7 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 </tbody>
 </table>
 
-Gameplay
---------
+## Gameplay
 
 <img src="Options_GameplayFR.jpg" title="Section gameplay" alt="Section gameplay" width="200" />
 
@@ -281,7 +277,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 </tr>
 <tr class="odd">
 <td><p>Toujours utiliser le skin Taiko (mode Taiko)</p></td>
-<td><p>Si cette option est cochée, <a href="http://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">le skin Taiko de LuigiHann</a> sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).</p></td>
+<td><p>Si cette option est cochée, <a href="https://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">le skin Taiko de LuigiHann</a> sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).</p></td>
 </tr>
 <tr class="even">
 <td><p>Toujours utiliser le curseur du skin choisi</p></td>
@@ -307,14 +303,13 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 
 1.  Cette zone sur le côté droit de l'écran liste les skins que vous avez téléchargés et placés dans le sous-dossier Skins d'osu!. Pour changer de skin, cliquez simplement sur l'un d'eux.
 2.  Au centre, un aperçu du skin sélectionné est affiché. L'intelligence artificielle est programmée pour faire des erreurs afin que vous puissiez voir le plus d'éléments possibles.
-3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](http://osu.ppy.sh/forum/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
-    1.  Pour une liste de skins (en anglais):[Original](http://osu.ppy.sh/forum/t/23820), [Mis à jour](https://osu.ppy.sh/forum/t/180864), [version](http://osu.ppy.sh/forum/t/136163).
+3.  Cliquer sur "Plus de skins" vous redirigera vers [la catégorie Skins du Forum](https://osu.ppy.sh/community/forums/109), où vous pourrez télécharger plus de skins pour personnaliser le design d'osu! à votre goût.
+    1.  Pour une liste de skins (en anglais):[Original](https://osu.ppy.sh/community/forums/topics/23820), [Mis à jour](https://osu.ppy.sh/community/forums/topics/180864), [version](https://osu.ppy.sh/community/forums/topics/136163).
 
 4.  Cliquer sur "Beatmap aléatoire" va charger une beatmap au hasard parmi votre liste de beatmaps avec le skin sélectionné.
 5.  Cliquez sur "Back" ou pressez Echap pour retourner à la catégorie Skins du menu d'options.
 
-Audio
------
+## Audio
 
 <img src="OptionsAudioFR.jpg" title="Onglet Audio" alt="Onglet Audio" width="300" />
 
@@ -348,8 +343,7 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 3.  Ce que vous voyez et entendez sont des ticks. Ils défilent en rythme sur la barre verte au milieu de l'écran.
 4.  Cliquer sur Back ou appuyer sur Echap va vous faire revenir à l'accueil. Les modifications seront sauvegardées.
 
-Périphériques
--------------
+## Périphériques
 
 <img src="OptionsInputFR.jpg" title="Onglet Contrôles" alt="Onglet Contrôles" width="300" />
 
@@ -374,7 +368,7 @@ Entre x0.40 et x6, par défaut sur 1.</p></td>
 </tr>
 <tr class="even">
 <td><p>Contourner le pilote de la souris</p></td>
-<td><p>(Ajouté depuis Février 2014) <em>Détecte la position du curseur directement depuis le périphérique, sans aucun post-traitement par le pilote de ce dernier.</em>' <span class="plainlinks"><a href="https://osu.ppy.sh/forum/t/187785">Cliquez ici pour plus d'informations</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">A propos du &quot;Polling Rate&quot;, reférez vous à cet article sur howtogeek.com.</a></span></p></td>
+<td><p>(Ajouté depuis Février 2014) <em>Détecte la position du curseur directement depuis le périphérique, sans aucun post-traitement par le pilote de ce dernier.</em>' <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Cliquez ici pour plus d'informations</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">A propos du &quot;Polling Rate&quot;, reférez vous à cet article sur howtogeek.com.</a></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Molette de la souris désactivée pendant les parties</p></td>
@@ -508,8 +502,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-Edition
--------
+## Edition
 
 <img src="Options EditorFR.jpg" title="Section édition" alt="Section édition" width="200" />
 
@@ -542,8 +535,7 @@ Edition
 </tbody>
 </table>
 
-Connexion
----------
+## Connexion
 
 <img src="OptionsOnlineFR.jpg" title="Onglet Internet" alt="Onglet Internet" width="300" />
 
@@ -686,8 +678,7 @@ Connexion
 </tbody>
 </table>
 
-Onglet Maintenance
-------------------
+## Onglet Maintenance
 
 <img src="optionsmaintenance.png" title="fig:Onglet Maintenance" alt="Onglet Maintenance" width="250" /> Cliquez sur l'onglet Maintenance de l'écran d'Options pour accéder aux paramètres de maintenance.
 

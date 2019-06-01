@@ -6,7 +6,6 @@ date: 2018-01-23 09:00:00 +0000
 
 It seems like we still have a few unopened presents from last year - the December Spotlights are out, make sure to drop by and check it out!
 
-
 ![](https://assets.ppy.sh/media/generic-header.png)
 
 The beatmap charts for the December Spotlights can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1801) Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access. **The December 2017 Spotlights rankings will end on 15th February 2018.**
@@ -25,7 +24,7 @@ First of all, congratulations to the winners of the November 2017 Spotlights. Th
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/impulse.jpg)](https://osu.ppy.sh/beatmapsets/705788)
 
-As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! In addition, be sure to check out the alluring storyboard made by [Darky1](https://osu.ppy.sh/u/3372928).
+As one of the most well known mappers in the community, [handsome](https://osu.ppy.sh/users/2123087) continues to impress us with his latest ranked map - Impulse after RELOADED! Featuring 3 specific types of sliders coupled with delightful usage of patterns and small circle size, this map gives a uniquely aim-heavy challenge that fits the song at its finest! In addition, be sure to check out the alluring storyboard made by [Darky1](https://osu.ppy.sh/users/3372928).
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/jin-li-chao.jpg)](https://osu.ppy.sh/beatmapsets/684393)
 
@@ -111,7 +110,7 @@ With that being said, even though this map didn't top the Spotlights this month,
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/breeze.jpg)](https://osu.ppy.sh/beatmapsets/632221)
 
-Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/5314573) demonstrates his mapping prowess with the newly ranked map cYsmix - Breeze. This map is notable as it contains unusual elements such as long note walls and unique slider velocity changes, patterns that are not commonly found in the ranked section. 
+Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/5314573) demonstrates his mapping prowess with the newly ranked map cYsmix - Breeze. This map is notable as it contains unusual elements such as long note walls and unique slider velocity changes, patterns that are not commonly found in the ranked section.
 
 During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 

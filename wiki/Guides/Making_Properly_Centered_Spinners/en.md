@@ -1,12 +1,10 @@
-Making Properly Centered Spinners
-===================================
+# Making Properly Centered Spinners
 
-[*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/forum/t/51502)
+[*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
 This guide is probably hard to understand for people with little experience with gimp/photoshop. This guide assumes you know how to (and are able to) turn on/off layers, as well as find some things on your own. If you have questions, you can forum PM and I'll try to help. I'm no good at actually generating content, though, just editing someone else's work.
 
-How to make symmetrical spinners
---------------------------------
+## How to make symmetrical spinners
 
 It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
 
@@ -62,8 +60,7 @@ Now you should have a perfect spinner which doesn't wobble when you spin it.
 
 In this guide there won't be information how to make the edges pretty, or give it depth, that's something entirely different. I chose a very simple image and process. If you want to do that, there are guides everywhere, or you probably already know how to do that. However it seems that symmetry has escaped most of the people who make skins.
 
-How to make spinner backgrounds which match the beatmap background
-------------------------------------------------------------------
+## How to make spinner backgrounds which match the beatmap background
 
 If you want your spinner to have the same background as the actual map, it can be difficult because of a bug in osu! introduced by a gameplay change which was never fixed. First, we need to match up the background *in the game* and not *in the beatmap editor*. The beatmap puts storyboarded elements (background and video) 5 pixels higher on 1024x768 than the rest of the map.
 

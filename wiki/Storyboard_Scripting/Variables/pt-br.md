@@ -1,10 +1,8 @@
-Variáveis de Storyboard
-=======================
+# Variáveis de Storyboard
 
 Você pode por sequencias de texto, até uma linha inteira, como **variáveis** para uso em outro lugar em um arquivo .osb (observe que o valor não pode mudar durante a jogabilidade, portanto, para aqueles com experiência em software, pense nisso mais como uma constante). *Arquivos .osu não suportam isso.*
 
-Uso
------
+## Uso
 
 A declaração de variáveis ocorre na seção separada de \[Variables\] do .osb, localizada na parte superior do arquivo:
 
@@ -28,8 +26,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,CC,0
 ```
 
-Aviso
--------
+## Aviso
 
 Observe que as variáveis são transferidas ao salvar no Editor de Beatmap, mas *todas* as instâncias do valor da variável serão substituídas pela variável. Portanto, você não deve fazer uma variável muito curta ou geral, por exemplo:
 
@@ -38,7 +35,7 @@ Observe que as variáveis são transferidas ao salvar no Editor de Beatmap, mas 
 $number_of_loops=12
 
 [Events]
-// ...
+// ...
 
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12

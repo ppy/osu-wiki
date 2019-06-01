@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First Official osu! Fanart Contest Results!"
-permalink: http://osunews.tumblr.com/post/86373762103/first-official-osu-fanart-contest-results
 date: 2014-05-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/86373762103/first-official-osu-fanart-contest-results
 ---
+
 Hello everyone! The results are in for the first fanart contest, and I have to say, from the number of entries to the number of votes, the response has been truly astonishing. Narrowing down the results for the staff favorites in particular was a daunting task. Please don't feel bad if you didn't win this time. There were far too many amazing entries to feature them all here, but I will gradually post all of them to the facebook page so each can be given the attention they deserve.
 
 The results are broken into two sections, the hard numbers of the public poll results, and the more subjective and personal choices of the staff picks. First place in each section wins a full year supporter tag, along with an [osu!tablet](https://osu.ppy.sh/store/products/1) (or [Pippi plushie](https://osu.ppy.sh/store/products/3), if they prefer). The next four runner-ups in each section will each receive a one-month supporter tag. I've also listed five honorable mentions, who won't be getting prizes but whose art I felt deserved to be featured here as well. We'll be granting the supporter tags and contacting the first prize winners about the physical prizes tonight and tomorrow. If we use any of this art in upcoming merchandise, one of those will be given to the artist as part of the prize as well.
@@ -85,6 +85,6 @@ by windswirl
 Full: [Download Here](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/full-10.jpg)  
 by iPhone
 
-Thanks, everyone, for participating, whether you entered or even if you just voted, I appreciate that everyone took this seriously. I've been happy to see some great entries coming in for [the second contest](https://osu.ppy.sh/forum/t/206852/), and I hope to see even more in the coming weeks.
+Thanks, everyone, for participating, whether you entered or even if you just voted, I appreciate that everyone took this seriously. I've been happy to see some great entries coming in for [the second contest](https://osu.ppy.sh/community/forums/topics/206852/), and I hope to see even more in the coming weeks.
 
 —LuigiHann

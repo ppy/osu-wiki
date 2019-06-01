@@ -1,21 +1,18 @@
-Academia do osu!
-=================
+# Academia do osu!
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
-Introdução
------------
+## Introdução
 
 Fonte: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 Canal Oficial do Youtube: <https://www.youtube.com/user/osuacademy/videos>
-Forum oficial: <https://osu.ppy.sh/forum/t/169707>
+Forum oficial: <https://osu.ppy.sh/community/forums/topics/169707>
 
 Essa nova serie chamada de **osu!academy** (Academia do osu!) pretende dar uma visão abrangente de todos os aspectos do jogo, de jogar para o mapeamento e tudo relacionado
 
-Esperamos que os novos jogadores vão encontrar esses vídeos informativos, e ajudar a responder dúvidas relacionadas com o jogo. Se você tiver quaisquer perguntas ou comentários, por favor envie-os para [ztrot](https://osu.ppy.sh/u/6347)- ele é o principal colaborador do projeto e é praticamente o dono do osu! academy e seu canal.
+Esperamos que os novos jogadores vão encontrar esses vídeos informativos, e ajudar a responder dúvidas relacionadas com o jogo. Se você tiver quaisquer perguntas ou comentários, por favor envie-os para [ztrot](https://osu.ppy.sh/users/6347)- ele é o principal colaborador do projeto e é praticamente o dono do osu! academy e seu canal.
 
-Episódios
-----------
+## Episódios
 
 Clique na imagem do episódio que deseja assistir.
 

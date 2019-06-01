@@ -1,13 +1,11 @@
-Encodage audio
-================
+# Encodage audio
 
->L 'osu! academy a fait [une vidéo](https://www.youtube.com/watch?v=muu3HkG38kk) à ce propos, en anglais.
-Il apprend aussi comment installer et utiliser LAME dans Audacity. (Lien vers l'[osu!academy](/wiki/Announcements/osu!academy))
+>L 'osu! academy a fait [une vidéo](https://www.youtube.com/watch?v=muu3HkG38kk) à ce propos, en anglais.
+Il apprend aussi comment installer et utiliser LAME dans Audacity. (Lien vers l'[osu!academy](/wiki/Announcements/osu!academy))
 
 Cet article est un guide pour apprendre à encoder correctement un fichier mp3 pour osu!, dans le cadre de la réalisation de votre propre map ou celle des autres mappeurs qui n'ont pas l'encodage approprié.
 
-Encodage audio
------------------
+## Encodage audio
 
 Le débit (*bitrate* en anglais) du fichier audio doit être compris entre 128 et 192 kbps (kilobits par seconde), selon les [critères de ranking](/wiki/Ranking_Criteria).
 

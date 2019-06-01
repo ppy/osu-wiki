@@ -49,7 +49,7 @@ These beatmaps may not meet the [ranking criteria](/wiki/ranking_criteria) but a
 
 This status will give those beatmaps a leaderboard.
 
-To get a beatmap in the loved status, see the forum post: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
+To get a beatmap in the loved status, see the forum post: [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
 
 ### Pending
 

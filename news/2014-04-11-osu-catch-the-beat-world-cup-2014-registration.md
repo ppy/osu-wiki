@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! Catch the Beat World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-cup-2014-registration
 date: 2014-04-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/82403247710/osu-catch-the-beat-world-cup-2014-registration
 ---
+
 Greetings. We'd like to welcome all of you to this year's official osu! Catch the Beat World Cup. The rules have been adjusted from the previous CWC, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/catch_logo_2014.png)
@@ -46,6 +46,6 @@ When your registration was successful, your team's captain will be notified. _An
 
 -   [Registration Form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)
 -   [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014)
--   [Discussion thread](https://osu.ppy.sh/forum/t/200185)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
 
 —Loctav

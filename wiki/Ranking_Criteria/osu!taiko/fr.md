@@ -1,10 +1,8 @@
-Critères de ranking osu!taiko
-================================
+# Critères de ranking osu!taiko
 
-Ces directives et conseils ont été discuté dans [ce sujet](https://osu.ppy.sh/forum/p/1275323). De nouvelles règles ou recommandations peuvent être suggérées dans [ce forum](https://osu.ppy.sh/forum/87) et seront mises en place lorsqu'une décision est prise.
+Ces directives et conseils ont été discuté dans [ce sujet](https://osu.ppy.sh/community/forums/posts/1275323). De nouvelles règles ou recommandations peuvent être suggérées dans [ce forum](https://osu.ppy.sh/community/forums/87) et seront mises en place lorsqu'une décision est prise.
 
-Rules
--------
+## Rules
 
 Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circonstances. Notez bien que ce ne sont pas des conseils, mais des pré-requis si vous tenez à ce que votre beatmap soit ranked.
 
@@ -12,8 +10,7 @@ Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circ
 
 **Les Finish Notes ne doivent pas être placées au milieu ou au début d'un stream 1/4 ou moins.** A la fin de la map, les Finish Streams sont autorisés s'ils correspondent à certains sons de la musique. Les Finisher Notes à la fin d'un stream doivent être de couleur différente que la note précédente.
 
-Conseils
----------
+## Conseils
 
 Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
 

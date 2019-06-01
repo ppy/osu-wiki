@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Second Official osu! Fanart Contest Results!"
-permalink: http://osunews.tumblr.com/post/90764226618/second-official-osu-fanart-contest-results
 date: 2014-07-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/90764226618/second-official-osu-fanart-contest-results
 ---
+
 Hello again! The results are finally in for the second official osu! fanart contest! It was very interesting seeing people take this fairly open-ended theme in different directions, and even more interesting to see how those different directions were reflected in the voting results.
 
 The results are broken into two sections, the hard numbers of the public poll results, and the more subjective and personal choices of the staff picks. First place in each section wins a full year supporter tag, along with an [osu!tablet](https://osu.ppy.sh/store/products/1) (or [Pippi plushie](https://osu.ppy.sh/store/products/3), if they prefer). The next four runner-ups in each section will each receive a one-month supporter tag. I've also listed five honorable mentions, who won't be getting prizes but whose art I felt deserved to be featured here as well. We'll be granting the supporter tags and contacting the first prize winners about the physical prizes in the next few days. If we use any of this art in upcoming merchandise, one of those will be given to the artist as part of the prize as well.
@@ -56,7 +56,7 @@ by Pokie
 
 **Runner-up (No Particular Order):**  
 ![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-79.jpg)  
-Full: [Download Here](https://s.ppy.sh/images/storeart3/full-79.jpg) 
+Full: [Download Here](https://s.ppy.sh/images/storeart3/full-79.jpg)
 by Mocochia
 
 **Runner-up (No Particular Order):**  

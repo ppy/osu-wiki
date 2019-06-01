@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Show Your Love!"
-permalink: http://osunews.tumblr.com/post/152109048933/show-your-love
 date: 2016-10-21 10:59:18 +0000
 tumblr_url: http://osunews.tumblr.com/post/152109048933/show-your-love
 ---
-As we enter the second phase of our Loved state testing, get ready to cast your vote for the next set of maps to enter the category!
-<!-- more -->
 
-![](http://puu.sh/rLQPQ/316c9445f3.png)
+As we enter the second phase of our Loved state testing, get ready to cast your vote for the next set of maps to enter the category!
+
+![](https://puu.sh/rLQPQ/316c9445f3.png)
 
 We're pleased to see the positively glowing reception for the new Loved beatmap status. We'd expected people to like it, but not quite *this* much! Evidently it was something that we should've pushed forward a long time ago, but enough of that for now.
 
@@ -17,7 +16,7 @@ The next phase of testing involves the gradual addition of new beatmaps into the
 * Each week from now going forward, we'll be holding a "round" of Loved voting in the Community Voice forum.
 * **Ten** maps will be selected from a pool pulled from the beatmap listing based on a variety of factors - ranging from the number of favourites they hold, to the predominant gamemode that their mapsets are based around and an appraisal of the overall "feel" of the map.
 * Each gamemode will have their own poll - you can vote in all of them, if you like.
-* We're also [making use](https://docs.google.com/spreadsheets/d/1AsXu7D1TX5BQ191ffiRrOqy1Leem9ehboynlBXSjD0I/edit#gid=992597601) of the [rather comprehensive lists](https://osu.ppy.sh/forum/t/512815) that many members of the community have taken to creating since we announced the mode, so feel free to [participate in those](https://docs.google.com/forms/d/e/1FAIpQLSdyFZGBR0HDmgMee7w96gS1f2-_M2DRtQWaJVqvIltl7eBofQ/viewform?c=0&w=1) if you'd like.
+* We're also [making use](https://docs.google.com/spreadsheets/d/1AsXu7D1TX5BQ191ffiRrOqy1Leem9ehboynlBXSjD0I/edit#gid=992597601) of the [rather comprehensive lists](https://osu.ppy.sh/community/forums/topics/512815) that many members of the community have taken to creating since we announced the mode, so feel free to [participate in those](https://docs.google.com/forms/d/e/1FAIpQLSdyFZGBR0HDmgMee7w96gS1f2-_M2DRtQWaJVqvIltl7eBofQ/viewform?c=0&w=1) if you'd like.
 * Every member of the community will be given **four** votes to use in these polls.
 * The top 4 maps voted for in the osu!standard poll, and the most popular choice in the each of the other gamemode polls will be placed into the Loved status at the end of the voting for a total of **7 maps** added per round.
 * The leftover maps will remain in the pool until the next round, where another four maps will be added to supplement the ones that were added to the mode.
@@ -35,7 +34,7 @@ Just a reminder, **this is just one way that maps will enter the Loved category 
 
 Now that we've gotten that out of the way..
 
-[Head on over to the Community Voice forum and check out the Announcement posts to get started on voting for your favourites!](https://osu.ppy.sh/forum/65).
+[Head on over to the Community Voice forum and check out the Announcement posts to get started on voting for your favourites!](https://osu.ppy.sh/community/forums/65).
 
 You're also all very welcome to discuss any maps you think would be worth adding in the polling threads, but please keep it civil! It's all about the love, after all.
 

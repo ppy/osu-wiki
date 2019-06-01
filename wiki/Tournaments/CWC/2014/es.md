@@ -4,12 +4,12 @@ tags:
 - CWC2014
 outdated: true
 ---
-osu! Catch the Beat World Cup 2014
-=====================================
+
+# osu! Catch the Beat World Cup 2014
 
 ![CWC 2014 logo](logo.png)
 
-La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![][flag_CL] Chile**.
+La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup. El ganador de la edición anterior fue **![][flag_CL] Chile**.
 
 La competición ha concluido con el siguiente podio:
 
@@ -19,8 +19,7 @@ La competición ha concluido con el siguiente podio:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] **Alemania**      |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] **Suecia**        |
 
-Calendario
------------
+## Calendario
 
 | Event            | Timestamp                |
 |------------------|--------------------------|
@@ -32,8 +31,7 @@ Calendario
 | Semifinales      | 7-8 Jun 2014             |
 | Final/3er puesto | 14-15 Jun 2014           |
 
-Premios
--------
+## Premios
 
 | Place                                                      | Premios                                                    |
 |------------------------------------------------------------|------------------------------------------------------------|
@@ -41,8 +39,7 @@ Premios
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                         |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                           |
 
-Organización
---------------
+## Organización
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                      |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,24 +51,21 @@ Organización
 
 ------------------------------------------------------------------------
 
-Links
--------
+## Links
 
 -   [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [Hilo de discusión (en inglés)](https://osu.ppy.sh/forum/t/200185)
+-   [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 
-Cuadro
------
+## Cuadro
 
 ![CWC 2014 brackets](brackets.jpg)
 
 ------------------------------------------------------------------------
 
-Participantes
--------------
+## Participantes
 
 | Flag                           | Grupo A Members |                                                                                                                                                                                                                      |
 |--------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,8 +125,7 @@ Participantes
 
 ------------------------------------------------------------------------
 
-Mappools
----------
+## Mappools
 
 **[Todos los mapas del torneo pueden descargarse aquí](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
@@ -308,8 +301,7 @@ Mappools
 
 ------------------------------------------------------------------------
 
-Resultados
-----------
+## Resultados
 
 ### Fase de grupos
 
@@ -390,8 +382,7 @@ Resultados
 
 ------------------------------------------------------------------------
 
-Reglamento
-----------
+## Reglamento
 
 ### Reglas del torneo
 

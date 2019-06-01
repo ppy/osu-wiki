@@ -1,12 +1,10 @@
-ppv1
-==========
+# ppv1
 
 The **first performance score** (abbreviated as **ppv1**) is an ancient ranking system for players globally and nationally of all modes from osu!. It replaced the old system of *ranking by total score* and was abandoned for the benefit of [ppv2](../ "ppv2").
 
-History
-----------
+## History
 
-ppv1 was launched in April 2012 and initially mentioned in the players profiles under the name ``???`` during a test phase. Then finally renamed to **pp** (performance points) on 17. April 2012. This system existed with the previous ranking system (by total score) and eventually became the unique system in place on 24. July 2012 during the release of the version [20120722-24](http://osu.ppy.sh/forum/p/1687719 "20120722-24") of the osu! client. 
+ppv1 was launched in April 2012 and initially mentioned in the players profiles under the name ``???`` during a test phase. Then finally renamed to **pp** (performance points) on 17. April 2012. This system existed with the previous ranking system (by total score) and eventually became the unique system in place on 24. July 2012 during the release of the version [20120722-24](https://osu.ppy.sh/community/forums/posts/1687719 "20120722-24") of the osu! client.
 
 
 This system was initially updated at regular intervals, usually every 24 hours, to finally run in real-time on 16. August 2012.
@@ -20,8 +18,7 @@ The reasons behind that change were the criticism of the players:
 
 It also allowed peppy to seperate the job of maintaining and updating the filing system to and thus ease its workload.
 
-Algorithm
-----------
+## Algorithm
 
 The calculations involved are not publicly known, however some indications on the inner workings of the system were disclosed:
 
@@ -35,8 +32,7 @@ The calculations involved are not publicly known, however some indications on th
 - Mode specific difficulties are favored.
 - If a score is not placed in the top 500 of a map, it will not count.
 
-Climbing the rankings
-----------
+## Climbing the rankings
 
 The ranking is mainly related to the performance on individual maps, resulting in players to only focussing and mastering single difficulties.
 
@@ -47,4 +43,3 @@ The ranking is mainly related to the performance on individual maps, resulting i
 - Playing difficult maps.
 - Improving old scores.
 - Geting SS grades.
-

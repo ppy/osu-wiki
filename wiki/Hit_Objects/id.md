@@ -1,5 +1,4 @@
-Objek Ketukan
-==============
+# Objek Ketukan
 
 Sebuah benda hit adalah elemen gameplay inti di osu!. Ada tiga jenis objek hit:
 
@@ -9,15 +8,13 @@ Sebuah benda hit adalah elemen gameplay inti di osu!. Ada tiga jenis objek hit:
 
 Hit circles dan sliders yang ditemui secara teratur, sementara Spinner hanya muncul sesekali. Segala sesuatu yang Anda berinteraksi dengan selama Beatmap adalah objek hit.
 
-Hit Circle
-----------
+## Hit Circle
 
 ![Sebuah lingkaran hit skin default.](Hit_circle.png "Sebuah lingkaran hit skin default.")
 
 Disebut Hit Marker di [DS games](/wiki/Glossary). Ini adalah lingkaran berwarna dengan nomor (tergantung pada tempatnya dalam [Combo](/wiki/Glossary)) dengan garis lingkaran lain ([Approach Circle](/wiki/Glossary)) menyusut di sekitarnya. Setelah garis Pendekatan Lingkaran tumpang tindih perbatasan Hit Circle, pemain harus [Tap](/wiki/Glossary) Hit Circle, mendapatkan sejumlah poin (50, 100 atau 300) tergantung pada seberapa akurat penyadapan nya, dan mungkin mencetak [Beat!](/wiki/Score) atau [Elite Beat!jika](/wiki/Score) lingkaran adalah akhir combo. Tapping Lingkaran Hit biasa memberikan dorongan yang sangat kecil untuk [Life Bar](/wiki/Glossary), dan dorongan yang baik jika itu adalah lingkaran akhir combo.
 
-Slider
--------
+## Slider
 
 ![Sebuah slider skin default.](Slider2.jpg "Sebuah slider skin default.")
 
@@ -27,8 +24,7 @@ Slider Tick adalah lingkaran kecil yang muncul dalam interval reguler sepanjang 
 
 Slider sering dipetakan ke suara panjang dalam musik. Mereka juga digunakan untuk membawa irama (terutama ketika irama akan sangat kompleks tanpa slider atau tidak cocok untuk menggunakan Hit Circles), dan kadang-kadang digunakan untuk menggantikan aliran Circles Hit untuk kesulitan mudah.
 
-Spinner
--------
+## Spinner
 
 ![Sebuah spinner in default skin.](Spinner.jpg "Sebuah spinner in default skin.")
 

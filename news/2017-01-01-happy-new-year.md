@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Happy New Year!"
-permalink: http://osunews.tumblr.com/post/155237821483/happy-new-year
 date: 2017-01-01 06:49:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/155237821483/happy-new-year
 ---
+
 Happy New Year from everyone on the osu! team! Whether you're ready for 2017 or not, too bad - it's finally here. Read on to get a little taste of what we've got planned, and a little surprise to boot!
-<!-- more -->
 
 We hope that you've all enjoyed your holidays over the past month or so, and have come away from your time with family and friends suitably refreshed to experience the year head on - because there's a LOT of stuff slated to happen in 2017.
 
@@ -20,7 +19,7 @@ To celebrate, we've drawn upon the incredible talent of [@Phibonnachee](https://
 
 Speaking of incredible talent, there's rumors floating around about a certain rave-loving artist joining the ranks of the osu!musicians recently, as well as a certain happy-go-lucky artist whom was previously featured on a particularly monstrous music label. Whoever could they be?
 
-In any case, it's a big year to come, and whilst a lot of the osu! team is currently out and about visiting their own families and friends, we've all come together to wish you the best in the new year. 
+In any case, it's a big year to come, and whilst a lot of the osu! team is currently out and about visiting their own families and friends, we've all come together to wish you the best in the new year.
 
 Thank you all for making osu! as awesome as it is, and we're super excited to usher in the new year. We hope you will be, too!
 

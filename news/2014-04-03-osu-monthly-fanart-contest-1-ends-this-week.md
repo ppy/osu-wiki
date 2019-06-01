@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! Monthly Fanart Contest #1 - Ends this week!"
-permalink: http://osunews.tumblr.com/post/81538849275/osu-monthly-fanart-contest-1-ends-this-week
 date: 2014-04-03 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/81538849275/osu-monthly-fanart-contest-1-ends-this-week
 ---
+
 Hello all! Announcing the first Monthly Fanart Contest!
 
-[![Monthly Fanart Contest](/wiki/shared/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week/tumblr_inline_n3fjpgTi5Z1s6rj41.png)](https://osu.ppy.sh/forum/t/198551/)
+[![Monthly Fanart Contest](/wiki/shared/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week/tumblr_inline_n3fjpgTi5Z1s6rj41.png)](https://osu.ppy.sh/community/forums/topics/198551/)
 
 Each month we'll be suggesting a different theme for artwork, and two winners will each get a full **[one year supporter tag](https://osu.ppy.sh/p/support)**. This is intended to be kind of a fun, informal contest, but we still need some rules.
 
@@ -23,14 +23,14 @@ Rules:
 -   Everything in your image must be **your own work**! Don't steal anyone's art, even for backgrounds.
 -   Don't include any copyrighted characters. Including your own original characters alongside osu! characters is fine.
 -   Images must be G-rated and safe-for-work
--   You must post a web-friendly (600px by 600px maximum) image in **[the official contest thread](https://osu.ppy.sh/forum/t/198551/)**, and link to a much larger print-friendly image (at least 1000x1000, as high as possible) for possible merch use.
+-   You must post a web-friendly (600px by 600px maximum) image in **[the official contest thread](https://osu.ppy.sh/community/forums/topics/198551/)**, and link to a much larger print-friendly image (at least 1000x1000, as high as possible) for possible merch use.
 -   Deadline for entries is **May 1st, 2014**.
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. While this isn't a merch design contest per se, if we do decide to use your image on a t-shirt or other item, you will get a free one!
 
 Only entries that follow all rules will be considered. There will be two winners each month, one chosen by public poll, and one chosen by osu! staff. Each winner will get a **[one-year osu! supporter tag](https://osu.ppy.sh/p/support)**.
 
-Let me know if anything needs clarifying, otherwise, [post away](https://osu.ppy.sh/forum/t/198551/)!
+Let me know if anything needs clarifying, otherwise, [post away](https://osu.ppy.sh/community/forums/topics/198551/)!
 
 Edit: The contest ends soon! Everybody's been doing really well! I'm overwhelmed. Please have your entries in by the end of the day on May 1st.
 

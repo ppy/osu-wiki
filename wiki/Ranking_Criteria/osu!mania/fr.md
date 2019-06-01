@@ -1,18 +1,19 @@
-Critères de Ranking osu!mania
-=============================
+---
+outdated: true
+---
 
-Lexique et termes mania
--------------------------
+# Critères de Ranking osu!mania
+
+## Lexique et termes mania
 
 -   Non-expert = Easy, Normal. (Basic, Standard) = Facile, Normal.
 -   Expert = Hard, Insane. (Hyper, Another) = Difficile, Extrême.
 -   Colonnes = 5K, 5 colonnes. La colonne centrale est parfois appelée *step column* ou *special column*
 -   O2Mania/Jam = O2Mania est un jeu de rythme solo tiré directement de l'ancien jeu multijoueur O2Jam. Les joueurs de ces jeux sont très présents dans osu!mania.
 -   Notes = Les notes présentes. Il en existe deux types, les simples, appelées *Hit*, et les longues, appelées *Hold*.
--   Pattern = Terme désignant un ensemble, une suite de notes qui tombent dans un certain ordre. Certains patterns ont des noms (Jackhammer, Chords, Runningmen, Streams, etc...) tandis que d'autres sont constitués de plusieurs autres patterns plus petits. Plus d'informations [vers le bas du premier post](https://osu.ppy.sh/forum/t/146615).
+-   Pattern = Terme désignant un ensemble, une suite de notes qui tombent dans un certain ordre. Certains patterns ont des noms (Jackhammer, Chords, Runningmen, Streams, etc...) tandis que d'autres sont constitués de plusieurs autres patterns plus petits. Plus d'informations [vers le bas du premier post](https://osu.ppy.sh/community/forums/topics/146615).
 
-Règles
----------
+## Règles
 
 Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circonstances. Notez bien que **ce ne sont pas des conseils**, mais des **pré-requis** si vous tenez à ce que votre beatmap soit ranked.
 
@@ -58,8 +59,7 @@ Par exemple (4K étant le nombre de colonnes inférieur et 7K le nombre de colon
 
 -   **Vous ne pouvez pas utiliser les *uninherited timing sections* quand la chanson ne possède pas de BPM variable.** En d'autres termes, vous n'êtes pas autorisé les *uninherited timing sections* afin de ralentir ou d'accélérer progressivement la vitesse de défilement des notes. Utilisez plutôt les *inherited timing sections* et les *SV changes*.
 
-Patterns
-----------
+## Patterns
 
 ### Jackhammers
 
@@ -80,8 +80,7 @@ Voici un exemple comportant des jackhammers : [MENDES Black Another](https://www
 -   **Pour les difficultés non-expert, vous pouvez utiliser des jackhammers *seulement si* le BPM est inférieur à 150 et *si* ils correspondent à la musique.** Par exemple, dans des musiques de dubstep ou autre genre à rythme frénétique.
 -   **Pour les difficultés expert, vous pouvez utiliser les jackhammers sans limite de BPM tant que les jackhammers respectent le rythme.**
 
-Conseils
----------
+## Conseils
 
 Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
 

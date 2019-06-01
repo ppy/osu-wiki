@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "osu!catch World Cup 2017 - Registrations now open!"
-permalink: http://osunews.tumblr.com/post/160263921203/osucatch-world-cup-2017-registrations-now-open
 date: 2017-05-03 13:33:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/160263921203/osucatch-world-cup-2017-registrations-now-open
 ---
-Here we are again with this year's official osu!catch World Cup. As in every year, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://new.ppy.sh/wiki/Tournaments/CWC/2017)** before registering for this tournament.
+
+Here we are again with this year's official osu!catch World Cup. As in every year, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://osu.ppy.sh/wiki/Tournaments/CWC/2017)** before registering for this tournament.
 
 ![](https://puu.sh/vEfBQ/a6880caeae.png)
 
-For more details, refer to the **[osu!catch World Cup 2017 wiki article](https://new.ppy.sh/wiki/Tournaments/CWC/2017)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/589552)**.
+For more details, refer to the **[osu!catch World Cup 2017 wiki article](https://osu.ppy.sh/wiki/Tournaments/CWC/2017)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/589552)**.
 
 ## Tournament Schedule
 
@@ -40,11 +40,11 @@ We plan to distribute exclusive and unique merchandise to all our podium winners
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/10)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/10)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **14. May 2017.**
 
-Note that you can only participate if you are of a **osu!catch global ranking of #5000 or higher and did not violate the [osu! community rules](https://new.ppy.sh/wiki/Rules) in the past 12 months**.
+Note that you can only participate if you are of a **osu!catch global ranking of #5000 or higher and did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 
 If your registration successfully passed our evaluation, you will be put on the candidate list of your country. Whenever a captain for your country has been assigned, the list will be sent to them. This may take a while, so please be patient.
 

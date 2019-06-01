@@ -1,12 +1,12 @@
 ---
 outdated: true
 ---
-osu! World Cup 2013
-=======================
+
+# osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecida por OWC 2013, é gerida pela [Administração de Torneios](https://osu.ppy.sh/g/26). A copa começou no dia 15 de Outubro de 2013 e termou no dia 8 de Dezembro de 2013. O campeão da OWC pelo terceiro ano consecutivo foi a **![][flag_KR] Coréia do Sul**.
+A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecida por OWC 2013, é gerida pela [Administração de Torneios](https://osu.ppy.sh/groups/26). A copa começou no dia 15 de Outubro de 2013 e termou no dia 8 de Dezembro de 2013. O campeão da OWC pelo terceiro ano consecutivo foi a **![][flag_KR] Coréia do Sul**.
 
 | Placing                                                    | Country                                    |
 |------------------------------------------------------------|--------------------------------------------|
@@ -14,8 +14,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan**  |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polônia** |
 
-Calendário do Torneio
----------------------------
+## Calendário do Torneio
 
 -   Fase de Inscrições: 15 a 28 de Outubro de 2013
 -   Sorteio ao vivo: 31 de Outubro de 2013
@@ -25,19 +24,17 @@ Calendário do Torneio
 -   Semi-finais: 30 de Novembro a 1º de Dezembro de 2013
 -   Finais/Disputa do terceiro lugar: 7 a 8 de Dezembro de 2013
 
-Premiação
-------------
+## Premiação
 
 **1º:** Supporter tag de 6 meses, medalha no perfil, troféu da OWC
 **2º:** Supporter tag de 3 mês
 **3º:** Supporter tag de 1 mês
 
-Organização
------------
+## Organização
 
 **Administração do Torneio:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400)
 
-**Árbitros:** [grupo da Administração do Torneio](https://osu.ppy.sh/g/26)
+**Árbitros:** [grupo da Administração do Torneio](https://osu.ppy.sh/groups/26)
 
 **Selecionadores de Beatmaps:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323)
 
@@ -47,8 +44,7 @@ Organização
 
 ------------------------------------------------------------------------
 
-Participantes
------------------
+## Participantes
 
 ### Maiores Torcidas
 
@@ -104,15 +100,13 @@ Participantes
 
 ------------------------------------------------------------------------
 
-Tabela
----------
+## Tabela
 
 ![OWC 2013 brackets](img/brackets.jpg)
 
 ------------------------------------------------------------------------
 
-Lista de Beatmaps
-----------------------
+## Lista de Beatmaps
 
 ### Final
 
@@ -286,15 +280,13 @@ Lista de Beatmaps
 
 ------------------------------------------------------------------------
 
-Links
----------
+## Links
 
--   [Tópico de Discussão](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Tópico de Discussão](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 
-Regras
--------
+## Regras
 
 ### Regras Gerais do Torneio
 

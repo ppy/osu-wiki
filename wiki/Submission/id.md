@@ -1,16 +1,14 @@
-Pengajuan
-============
+# Pengajuan
 
-[Beatmapper](/wiki/Glossary/#beatmapper) dan mengajukan beatmap yang [masih dalam tahap pengerjaan (WIP)](/wiki/Glossary/#wip) maupun beatmap yang mereka anggap selesai (2 tingkat kesulitan dibutuhkan) ke masing-masing subforum [Beatmap](https://osu.ppy.sh/forum/12) *[Work In Progress/Help](https://osu.ppy.sh/forum/10)* dan [Pending Beatmap](https://osu.ppy.sh/forum/6), menggunakan **Sistem Pengajuan Beatmap (BSS)** dalam permainan \[Ctrl + Shift + U\].
+[Beatmapper](/wiki/Glossary/#beatmapper) dan mengajukan beatmap yang [masih dalam tahap pengerjaan (WIP)](/wiki/Glossary/#wip) maupun beatmap yang mereka anggap selesai (2 tingkat kesulitan dibutuhkan) ke masing-masing subforum [Beatmap](https://osu.ppy.sh/community/forums/12) *[Work In Progress/Help](https://osu.ppy.sh/community/forums/10)* dan [Pending Beatmap](https://osu.ppy.sh/community/forums/6), menggunakan **Sistem Pengajuan Beatmap (BSS)** dalam permainan \[Ctrl + Shift + U\].
 
 Terletak dalam [Penyunting](/wiki/Beatmap_Editor) osu!, BSS secara otomatis mengunggah beatmap berserta segala elemennya (mp3, video, storyboard, dll.) ke server osu! dan membuat thread dengan sebuah tautan unduh di forum yang relevan. Moderator dan anggota forum lainnya dapat berkomentar dan menawarkan umpan balik pada beatmap. Jika beatmap itu telah mendapatkan persetujuan paling tidak 2 BNG, maka beatmap itu akan dirank ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon").
 
-![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Beatmap yang telah dirank dipindahkan ke subforum *[Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14)*, ditambahkan ke [Daftar Beatmap Ranked](https://osu.ppy.sh/p/beatmaplist) termasuk ke dalam [Paket Beatmap Ranked](https://osu.ppy.sh/p/packlist), dan akan muncul di profil mereka. Skor yang diperoleh ketika mereka bermain beatmap tersebut akan menambahkan *Total Ranked Score* pemain dalam [Peringkat Pemain](https://osu.ppy.sh/p/playerranking) dan penilaian pemain dapat dimasukkan sebagai hitungan mereka pada [Peringkat Beatmapper](https://osu.ppy.sh/p/mapperranking).
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Beatmap yang telah dirank dipindahkan ke subforum *[Ranked/Approved Beatmaps](https://osu.ppy.sh/community/forums/14)*, ditambahkan ke [Daftar Beatmap Ranked](https://osu.ppy.sh/p/beatmaplist) termasuk ke dalam [Paket Beatmap Ranked](https://osu.ppy.sh/p/packlist), dan akan muncul di profil mereka. Skor yang diperoleh ketika mereka bermain beatmap tersebut akan menambahkan *Total Ranked Score* pemain dalam [Peringkat Pemain](https://osu.ppy.sh/p/playerranking) dan penilaian pemain dapat dimasukkan sebagai hitungan mereka pada [Peringkat Beatmapper](https://osu.ppy.sh/p/mapperranking).
 
 ![Layar Peringatan Sistem Pengajuan Beatmap](BSS_Base.jpg "Layar Peringatan Sistem Pengajuan Beatmap")
 
-Pengajuan
------------
+## Pengajuan
 
 ### Sebelum mengajukan sebuah beatmap
 
@@ -30,9 +28,9 @@ Jika kamu telah menambahkan, menghilangkan, atau mengganti berkas mp3nya, video 
 
 Setelah kamu menekan tombol "**Upload Files**", Sistem Pengajuan Beatmap akan mulai mengunggah berkasmu berdasarkan metode pengiriman yang kamu pilih. Bar yang berada di bawah mengilustrasikan proses pengunggahannya. Di dalam kotak dialog ini, kamu dapat menyunting judul dan pesan pertama dari topik forum yang secara otomatis dibuat oleh BSS untuk beatmapmu. Kamu juga dapat memilih subforum tempat thread beatmapmu dikirimkan. Mengganti pilihanmu ketika memperbaharui beatmapmu akan memindahkan keseluruhan topik ke forum lainnya dengan mudah.
 
-Pilih **Work In Progress/Help** untuk mengirim thread beatmapmu di dalam subforum *[Work In Progress/Help](https://osu.ppy.sh/forum/10)*. Pilih ini jika kamu merasa kamu membutuhkan bantuan dengan satu atau lebih aspek spesifik dari beatmapmu (seperti timing) atau hanya untuk membagikan versi sebagian jadi dari beatmapmu ke komunitas dan mendapatkan komentar umum dan umpan balik.
+Pilih **Work In Progress/Help** untuk mengirim thread beatmapmu di dalam subforum *[Work In Progress/Help](https://osu.ppy.sh/community/forums/10)*. Pilih ini jika kamu merasa kamu membutuhkan bantuan dengan satu atau lebih aspek spesifik dari beatmapmu (seperti timing) atau hanya untuk membagikan versi sebagian jadi dari beatmapmu ke komunitas dan mendapatkan komentar umum dan umpan balik.
 
-Pilih **Pending Beatmap** untuk mengirim thread beatmapmu di dalam subforum *[Pending Beatmaps](https://osu.ppy.sh/forum/6)*. Pilih ini jika kamu percaya beatmapmu kurang lebih telah mengikuti kriteria persetujuan dasar dan kamu megharapkannya untuk dipertimbangkan oleh moderator untuk dirank. Kamu telah berusaha paling tidak mendekati pengaturan timing yang benar sebelum mengirim sebuah beatmap ke forum *Pending Beatmaps*, dan beatmapmu harus memiliki paling tidak 2 tingkat kesulitian.
+Pilih **Pending Beatmap** untuk mengirim thread beatmapmu di dalam subforum *[Pending Beatmaps](https://osu.ppy.sh/community/forums/6)*. Pilih ini jika kamu percaya beatmapmu kurang lebih telah mengikuti kriteria persetujuan dasar dan kamu megharapkannya untuk dipertimbangkan oleh moderator untuk dirank. Kamu telah berusaha paling tidak mendekati pengaturan timing yang benar sebelum mengirim sebuah beatmap ke forum *Pending Beatmaps*, dan beatmapmu harus memiliki paling tidak 2 tingkat kesulitian.
 
 Kamu juga dapat memilih opsi berikut lewat kotak centang dibawah kotak masukan pesan:
 
@@ -117,8 +115,7 @@ Sekali lagi, ingat bahwa masih banyak masalah yang mungkin terjadi dalam sebuah 
 
 Tolong lihat [Kriteria Pemeringkatan](/wiki/Ranking_Criteria) untuk informasi lebih lanjut tentang ini.
 
-Pertanyaan
-------------
+## Pertanyaan
 
 ### Map saya tidak akan dimod maupun dirank...
 

@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #11 - Mania Only"
-permalink: http://osunews.tumblr.com/post/127344497068/monthly-beatmapping-contest-11-mania-only
 date: 2015-08-22 22:24:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/127344497068/monthly-beatmapping-contest-11-mania-only
 ---
 
 We just opened the submissions for the 11th Monthly Beatmapping Contest! This will be the first mania only mapping contest and with the awesome song "Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)".
 
-For the previous contest we had a quirky, fun 8-bit remix from the Legend of Zelda. This time we're moving to an energetic remix from the game Freedom Planet. There's lots going on here with plenty of instruments to map to, leaving plenty of opportunity to show off your mapping prowess. You can listen to the contest song **[here](http://puu.sh/jA1On/241f3ca38f.mp3)**
-
+For the previous contest we had a quirky, fun 8-bit remix from the Legend of Zelda. This time we're moving to an energetic remix from the game Freedom Planet. There's lots going on here with plenty of instruments to map to, leaving plenty of opportunity to show off your mapping prowess. You can listen to the contest song **[here](https://puu.sh/jA1On/241f3ca38f.mp3)**
 
 
 

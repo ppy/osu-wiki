@@ -1,5 +1,4 @@
-Componer
-==========
+# Componer
 
 ![Editor de composición para osu! en modo ventana](img/Compose.jpg "Editor de composición para osu! en modo ventana")
 
@@ -9,8 +8,7 @@ Componer
 
 Debido a las diferentes necesidades en el estilo de mapeo (osu! Es muy flexible, permitiendo mucho espacio para la creatividad mientras osu!mania está restringido a la clave seleccionada, exigiendo una precisión extrema para evocar los sonidos clave armónicamente), al editor de osu! y al editor osu!mania-only se les da su propia sección de características. Puedes acceder fácilmente al editor de osu!mania estableciendo su dificultad en osu!mania-only.
 
-Caracteristicas (osu!)
------------------
+## Caracteristicas (osu!)
 
 Para una guía de novatos: [Beatmapping](/wiki/Beatmapping).
 
@@ -175,10 +173,9 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 
 **Abajo a la derecha** se puede ajustar la **Tasa de reproducción** en **valores por cuartos**
 
-Características (osu!mania)
------------------------
+## Características (osu!mania)
 
-(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/forum/t/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/forum/t/139139)
+(La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Esquina superior derecha (Divisor de ritmo)
 

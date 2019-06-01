@@ -1,12 +1,13 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![Aba do BanchoBot](img/BanchoBot.jpg "aba do BanchoBot")
 
-O BanchoBot é um bot (um conjunto de comandos com respostas automatizadas) programado para ajudar as pessoas na conversa exibindo certas informações e anunciando mensagens relacionadas ao jogo. 
-O BanchoBot é seu host do servidor do [osu!chat](/wiki/Internet_Relay_Chat) e tem um perfil chamado _[BanchoBot](https://osu.ppy.sh/u/3)_.
+O BanchoBot é um bot (um conjunto de comandos com respostas automatizadas) programado para ajudar as pessoas na conversa exibindo certas informações e anunciando mensagens relacionadas ao jogo.
+O BanchoBot é seu host do servidor do [osu!chat](/wiki/Internet_Relay_Chat) e tem um perfil chamado _[BanchoBot](https://osu.ppy.sh/users/3)_.
 
 ## Utilizando o BanchoBot
 

@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Como se registrar?
-------------------
+
+## Como se registrar?
 
 Se registrar no osu! é simples como o um dois três! Siga os passos abaixo.
 
@@ -10,11 +10,10 @@ Caso você não se conecte com sua conta dentro do jogo em 24 horas, o registro 
 
 <span style="color:#FF0000">Tenha em mente que você pode apenas possuir uma conta! Fazer duas contas ou mais não é permitido.</span>
 
-Passos
-------
+## Passos
 
 <center>
-<span style="font-size:18px">1. Vá para o <span class="plainlinks"> [website](https://osu.ppy.sh)</span> e clique em"<b>I'm new!</b>" para ser redirecionado ao campo de registro de usuário. </span>
+<span style="font-size:18px">1. Vá para o <span class="plainlinks"> [website](https://osu.ppy.sh/home)</span> e clique em"<b>I'm new!</b>" para ser redirecionado ao campo de registro de usuário. </span>
 
 <span style="font-size:18px">2. Preencha os campos abaixo e pressione "Continue" </span>
 
@@ -45,8 +44,7 @@ Passos
 | 3. Log-in dialog - Preencha os campos de nome de usuario e senha que criou anteriormente e pressione login.   |
 
 </center>
-O que fazer depois?
--------------------
+## O que fazer depois?
 
 Você está pronto para sua aventura, então [ fique por dentro de tudo sobre o jogo](PT:Welcome "wikilink") e não se esqueça de ler as [ regras](PT:Rules "wikilink")!
 

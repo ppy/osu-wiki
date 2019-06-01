@@ -1,6 +1,6 @@
 # skin.ini
 
-*See also: [skin.ini](https://osu.ppy.sh/wiki/Skinning/skin.ini) and [Skinning](https://osu.ppy.sh/help/wiki/Skinning)*
+*See also: [skin.ini](/wiki/Skinning/skin.ini) and [Skinning](/wiki/Skinning)*
 
 ## What does the skin.ini do?
 The skin.ini file can modify the behaviour of certain skinning elements in a skin.
@@ -10,7 +10,7 @@ To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to
 ### [General]
 + `Name:` The name of the skin.
 + `Author:` The name of the skinner (your in-game name).
-+ `Version:` The version you want to use. Check [skin.ini](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#versions) for detailed informations about every version.
++ `Version:` The version you want to use. Check [skin.ini](/wiki/Skinning/skin.ini#versions) for detailed informations about every version.
 + `AllowSliderBallTint:` Should the slider ball `sliderb` have the same color as the combo colour it is on? If so, use `1`. If not, use `0`.
 + `CursorRotate:` Should the `cursor` rotate? If so, use `1`. If not, use `0`.
 + `CursorExpand:` Should the `cursor` expand when the player clicks? If so, use `1`. If not, use `0 `.

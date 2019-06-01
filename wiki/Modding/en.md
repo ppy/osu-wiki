@@ -14,8 +14,8 @@ Whether you are learning or already know how to map, modding is a great way to h
 
 ## Getting Started
 
-To get started, go to the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) subforums.
-From here, you can either randomly choose beatmaps from these subforums to mod or open a modding queue in the [Modding Queue](https://osu.ppy.sh/forum/60) subforum and accept requests.
+To get started, go to the [Pending](https://osu.ppy.sh/community/forums/6) or [Work In Progress/Help](https://osu.ppy.sh/community/forums/10) subforums.
+From here, you can either randomly choose beatmaps from these subforums to mod or open a modding queue in the [Modding Queue](https://osu.ppy.sh/community/forums/60) subforum and accept requests.
 If you are opening a queue for the first time, it is a good idea to see how modding queues work by looking at some of the existing threads in the Modding Queue subforum.
 
 Open the beatmap's forum thread by clicking on `Web` then `This Beatmap's Thread`.

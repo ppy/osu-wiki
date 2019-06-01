@@ -20,9 +20,8 @@ A community driven singing contest where contestants as a solo or a duet sing th
 
 * **1st:** osu!idol 2017 Winner profile Badge + 6 months supporter tag.
 * **2nd:** 3 months supporter tag.
-* **3rd:** 2 months supporter tag. 
+* **3rd:** 2 months supporter tag.
 
 Best of luck to our 2017 finalists!
 
 —Flanster
-

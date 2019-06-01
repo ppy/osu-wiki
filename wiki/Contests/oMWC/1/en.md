@@ -18,8 +18,8 @@ The **osu! Mapping World Cup #1** (***oMWC #1***) is a country-based osu! mappin
 | Team Ambassadors Applications | 2018-12-11/2018-12-27|
 | Team Pick-ups | 2018-12-27/2019-01-11 |
 | Mapping Phase | 2019-01-12/2019-02-09 |
-| Judging Phase | 2019-02-09/2019-03-04 |
-| Final Results | 2019-03-09 (21:00 UTC+0) |
+| Judging Phase | 2019-02-09/2019-03-09 |
+| Final Results | 2019-03-16 (21:00 UTC+0) |
 
 ## Prizes
 
@@ -38,15 +38,15 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
-| Helpers | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630), ![][flag_BE] [GoldenWolf](https://osu.ppy.sh/users/1612624), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
+| Helpers | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
 | Casters | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
 | Judges | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163), ![][flag_PK] [DeRandom Otaku](https://osu.ppy.sh/users/5156153), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_CN] [Hollow Wings](https://osu.ppy.sh/users/416662), ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964), ![][flag_CN] [Regraz](https://osu.ppy.sh/users/3076909) |
 | Reserve Judges | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676), ![][flag_DE] [Yauxo](https://osu.ppy.sh/users/898306), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
-| Graphics | ![][flag_FI] [Micro]( https://osu.ppy.sh/users/4801080) |
+| Graphics | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/843987)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/843987)
 - [Livestream](https://www.twitch.tv/osumwc)
 - [Discord server](https://discord.gg/DybsJTr)
 
@@ -81,12 +81,16 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | ![][flag_SE] | **Sweden** | **[Liiraye](https://osu.ppy.sh/users/1280641)**, [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), [Zer0-](https://osu.ppy.sh/users/4260033) |
 | ![][flag_TW] | **Taiwan** | **[bossandy](https://osu.ppy.sh/users/360437)**, [Flask](https://osu.ppy.sh/users/959763), [Hey lululu](https://osu.ppy.sh/users/4086497), [knowledgeking](https://osu.ppy.sh/users/8022517), [Loneight](https://osu.ppy.sh/users/663131), [Nerova Riuz GX](https://osu.ppy.sh/users/1557955), [Silent Rock](https://osu.ppy.sh/users/4657504) |
 | ![][flag_TN] | **Tunisia** | **[Lilyanna](https://osu.ppy.sh/users/8144098)**, [-Ken](https://osu.ppy.sh/users/4430811), [LegendOfWario](https://osu.ppy.sh/users/12293309), [Starset](https://osu.ppy.sh/users/6383137) |
-| ![][flag_GB] | **United Kingdom** | **[hypercyte](https://osu.ppy.sh/users/9155377)**, [Alphabet](https://osu.ppy.sh/users/4879380), [Apo11o](https://osu.ppy.sh/users/9558549), [Log Off Know](https://osu.ppy.sh/users/4378277), [Mikii](https://osu.ppy.sh/users/3107791) |
+| ![][flag_GB] | **United Kingdom** | **[hypercyte](https://osu.ppy.sh/users/9155377)**, [Alphabet](https://osu.ppy.sh/users/4879380), [Apo11o](https://osu.ppy.sh/users/9558549), [Log Off Know](https://osu.ppy.sh/users/4378277), [Mikii](https://osu.ppy.sh/users/3107791), [Turquoise-](https://osu.ppy.sh/users/7524046) |
 | ![][flag_US] | **United States** | **[Hobbes2](https://osu.ppy.sh/users/8157492)**, [Axarious](https://osu.ppy.sh/users/2614511), [Byfar](https://osu.ppy.sh/users/4674054), [Melloe](https://osu.ppy.sh/users/2367616), [Nathan](https://osu.ppy.sh/users/4785223), [Toybot](https://osu.ppy.sh/users/2848604), [Winber1](https://osu.ppy.sh/users/270328) |
 | ![][flag_UA] | **Ukraine** | **[Sulfur](https://osu.ppy.sh/users/5297447)**, [Aka](https://osu.ppy.sh/users/1307553), [den0saur](https://osu.ppy.sh/users/5385151), [InternalLight](https://osu.ppy.sh/users/6221637) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Shortthu](https://osu.ppy.sh/users/7985423), [Stormiverse](https://osu.ppy.sh/users/8705545) |
 
----------------------------
+------------------------------------------------------------------------
+
+![oMWC \#1 Podium](img/podium.png)
+
+------------------------------------------------------------------------
 
 ## Ruleset
 

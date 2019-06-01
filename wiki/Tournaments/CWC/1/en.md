@@ -2,6 +2,7 @@
 tags:
 - CWC
 ---
+
 # Catch the Beat World Cup
 
 The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 1st installment of the osu!catch World Cup.
@@ -36,17 +37,17 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 The Catch the Beat World Cup was run by various osu!catch community members by distributing the multitude of tasks into various fields of responsibility.
 
-- ![][flag_DE] [Nyan-Zapo](/users/480676)
-- ![][flag_ES] [Deif](/users/318565)
-- ![][flag_KR] [CLSW](/users/531253)
-- ![][flag_CA] [weezy47](/users/67211)
-- ![][flag_SG] [ZHSteven](/users/142413)
-- ![][flag_RU] [Louis Cyphre](/users/186243)
-- ![][flag_IT] [NeoRainier](/users/326049)
+- ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253)
+- ![][flag_CA] [weezy47](https://osu.ppy.sh/users/67211)
+- ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413)
+- ![][flag_RU] [Louis Cyphre](https://osu.ppy.sh/users/186243)
+- ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049)
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/63296)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
   
 -----------------------
 
@@ -105,109 +106,109 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - SUPER STAR -MITSURU- - THANK YOU FOR PLAYING \[CWC competition\]
-  - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](/beatmapsets/43027#fruits/135142)
-  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- \[2Q\]](http://puu.sh/ccsl)
-  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](/beatmapsets/31297#fruits/102923)
-  - [NicoNico Chorus - World's End Dancehall \[CLSPEC Adieu Special\]](http://puu.sh/eykZ)
-  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](http://puu.sh/1g0e)
-  - [LEAF XCEED Music Division - Fur Elise \[Extra CtB Stage\]](http://puu.sh/HiC)
-  - [Yousei Teikoku - Kokou no Sousei \[Verdi's TAG2\]](http://puu.sh/f6oX)
+  - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](https://osu.ppy.sh/beatmapsets/43027#fruits/135142)
+  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- \[2Q\]](https://puu.sh/ccsl)
+  - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](https://osu.ppy.sh/beatmapsets/31297#fruits/102923)
+  - [NicoNico Chorus - World's End Dancehall \[CLSPEC Adieu Special\]](https://puu.sh/eykZ)
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
+  - [LEAF XCEED Music Division - Fur Elise \[Extra CtB Stage\]](https://puu.sh/HiC)
+  - [Yousei Teikoku - Kokou no Sousei \[Verdi's TAG2\]](https://puu.sh/f6oX)
   - Ryu\* - I'm so Happy \[Shana's Madness CTB\]
 
 ### Semifinals
 
 - NoMod
-  - [BACK-ON - flyaway \[Tales of\] Remix (ztrot) \[FLYAWAY!!!\]](/beatmapsets/11620#fruits/44782)
-  - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Atomic\]](/beatmapsets/20125#fruits/91037)
-  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](/beatmapsets/10406#fruits/66246)
-  - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](/beatmapsets/22194#fruits/76663)
-  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](/beatmapsets/39816#fruits/126671)
-  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](/beatmapsets/16457#fruits/58970)
-  - [DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](/beatmapsets/24611#fruits/97416)
+  - [BACK-ON - flyaway \[Tales of\] Remix (ztrot) \[FLYAWAY!!!\]](https://osu.ppy.sh/beatmapsets/11620#fruits/44782)
+  - [Demetori - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Louis Cyphre) \[Atomic\]](https://osu.ppy.sh/beatmapsets/20125#fruits/91037)
+  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](https://osu.ppy.sh/beatmapsets/10406#fruits/66246)
+  - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#fruits/76663)
+  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](https://osu.ppy.sh/beatmapsets/39816#fruits/126671)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
+  - [DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](https://osu.ppy.sh/beatmapsets/24611#fruits/97416)
 
 ### Quarterfinals
 
 - NoMod
-  - [IOSYS - Accept Bloody Fate (Louis Cyphre) \[Lunatic\]](/beatmapsets/37305#fruits/120066)
-  - [goreshit - MATZcore (Ekoro) \[Lolicore\]](/beatmapsets/24388#fruits/83975)
-  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](/beatmapsets/32775#fruits/112586)
-  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](/beatmapsets/16619#fruits/62589)
-  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](/beatmapsets/12030#fruits/45433)
+  - [IOSYS - Accept Bloody Fate (Louis Cyphre) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/37305#fruits/120066)
+  - [goreshit - MATZcore (Ekoro) \[Lolicore\]](https://osu.ppy.sh/beatmapsets/24388#fruits/83975)
+  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#fruits/62589)
+  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)
   
 ### Round 5
 
 - NoMod
-  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](/beatmapsets/22773#fruits/78913)
-  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](/beatmapsets/24782#fruits/84801)
-  - [Sound Horizon - Shiseru Eiyuutachi no Tatakai (zerosyn) \[Thanatos\]](/beatmapsets/8809#fruits/39298)
-  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](/beatmapsets/24177#fruits/87223)
-  - [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (gowww) \[gow's Lunatic\]](/beatmapsets/28342#fruits/112158)
-  - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](/beatmapsets/27712#fruits/92780)
-  - [xi - Halcyon (gowww) \[Another\]](/beatmapsets/20871#fruits/73699)
-  - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](/beatmapsets/13204#fruits/48985)
-  - [FamilyMart Jingle (deepsea, ignorethis, Alace, SOGASOGAMO) \[Family Mart is your home\]](/beatmapsets/9400#fruits/37658)
+  - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](https://osu.ppy.sh/beatmapsets/24782#fruits/84801)
+  - [Sound Horizon - Shiseru Eiyuutachi no Tatakai (zerosyn) \[Thanatos\]](https://osu.ppy.sh/beatmapsets/8809#fruits/39298)
+  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#fruits/87223)
+  - [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (gowww) \[gow's Lunatic\]](https://osu.ppy.sh/beatmapsets/28342#fruits/112158)
+  - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/27712#fruits/92780)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#fruits/73699)
+  - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13204#fruits/48985)
+  - [FamilyMart Jingle (deepsea, ignorethis, Alace, SOGASOGAMO) \[Family Mart is your home\]](https://osu.ppy.sh/beatmapsets/9400#fruits/37658)
 - Tiebreaker
-  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (uranuss8600) \[Uran's CTB\]](/beatmapsets/13676#fruits/51945)**
+  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (uranuss8600) \[Uran's CTB\]](https://osu.ppy.sh/beatmapsets/13676#fruits/51945)**
 
 ### Round 4
 
 - NoMod
-  - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](/beatmapsets/23907#fruits/81560)
-  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](/beatmapsets/30485#fruits/100627)
-  - [IOSYS - Okuu's Nuclear Fusion Dojo (v2b) \[v2b's Insane\]](/beatmapsets/8442#fruits/37166)
-  - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](/beatmapsets/24634#fruits/83674)
-  - [Flobots - Handlebars (-Xero-) \[Holocaust\]](/beatmapsets/16091#fruits/58143)
-  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](/beatmapsets/4404#fruits/63875)
-  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](/beatmapsets/25922#fruits/87728)
-  - [Faylan - Last vision for last (Clare) \[Impossible\]](/beatmapsets/22571#fruits/77769)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](/beatmapsets/28107#fruits/93842)
+  - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#fruits/100627)
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (v2b) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
+  - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/24634#fruits/83674)
+  - [Flobots - Handlebars (-Xero-) \[Holocaust\]](https://osu.ppy.sh/beatmapsets/16091#fruits/58143)
+  - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](https://osu.ppy.sh/beatmapsets/4404#fruits/63875)
+  - [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#fruits/87728)
+  - [Faylan - Last vision for last (Clare) \[Impossible\]](https://osu.ppy.sh/beatmapsets/22571#fruits/77769)
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#fruits/93842)
 - Tiebreaker
-  - **[07th Expansion - Final Answer (Shiirn) \[Question\]](/beatmapsets/36272#fruits/117232)**
+  - **[07th Expansion - Final Answer (Shiirn) \[Question\]](https://osu.ppy.sh/beatmapsets/36272#fruits/117232)**
 
 ### Round 3
 
 - NoMod
-  - [Yousei Teikoku - Torikago (furawa) \[yami\]](/beatmapsets/11781#fruits/44746)
-  - [Nekomata Master - Goodbye Heaven (gdeath) \[Another\]](/beatmapsets/12688#fruits/48926)
-  - [Ryu* Vs. Sota - Go Beyond! (Sprosive) \[Sp's Darkness\]](/beatmapsets/19705#fruits/84398)
-  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/10714#fruits/42244)
-  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](/beatmapsets/25248#fruits/85494)
-  - [Megurine Luka - Leia (gowww) \[gowww\]](/beatmapsets/29064#fruits/96587)
-  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](/beatmapsets/12483#fruits/47152)
-  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](/beatmapsets/17819#fruits/67504)
-  - [Hyadain - Chocobo (mtmcl) \[Gold\]](/beatmapsets/4392#fruits/24023)
+  - [Yousei Teikoku - Torikago (furawa) \[yami\]](https://osu.ppy.sh/beatmapsets/11781#fruits/44746)
+  - [Nekomata Master - Goodbye Heaven (gdeath) \[Another\]](https://osu.ppy.sh/beatmapsets/12688#fruits/48926)
+  - [Ryu* Vs. Sota - Go Beyond! (Sprosive) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#fruits/84398)
+  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#fruits/42244)
+  - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/25248#fruits/85494)
+  - [Megurine Luka - Leia (gowww) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#fruits/96587)
+  - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmapsets/12483#fruits/47152)
+  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#fruits/24023)
 - Tiebreaker
-  - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](/beatmapsets/25098#fruits/85550)**
+  - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#fruits/85550)**
 
 ### Round 2
 
 - NoMod
-  - [Sakakibara Yui - Koi no Honoo (ignorethis) \[ignore's Slider Madness\]](/beatmapsets/8511#fruits/35010)
-  - [DJ YOSHITAKA - ALBIDA (Nakagawa-Kanon) \[Extreme\]](/beatmapsets/19561#fruits/77810)
-  - [TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](/beatmapsets/15740#fruits/56830)
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Champion\]](/beatmapsets/23916#fruits/81594)
-  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](/beatmapsets/30128#fruits/105534)
-  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](/beatmapsets/29727#fruits/98496)
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](/beatmapsets/27807#fruits/93021)
-  - [Rhapsody - Emerald Sword (Duoprism) \[Extreme\]](/beatmapsets/3198#fruits/25580)
-  - [IOSYS - Border of Death (Nakagawa-Kanon) \[Lunatic\]](/beatmapsets/14107#fruits/53380)
+  - [Sakakibara Yui - Koi no Honoo (ignorethis) \[ignore's Slider Madness\]](https://osu.ppy.sh/beatmapsets/8511#fruits/35010)
+  - [DJ YOSHITAKA - ALBIDA (Nakagawa-Kanon) \[Extreme\]](https://osu.ppy.sh/beatmapsets/19561#fruits/77810)
+  - [TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](https://osu.ppy.sh/beatmapsets/15740#fruits/56830)
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/23916#fruits/81594)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#fruits/105534)
+  - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#fruits/98496)
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#fruits/93021)
+  - [Rhapsody - Emerald Sword (Duoprism) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#fruits/25580)
+  - [IOSYS - Border of Death (Nakagawa-Kanon) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14107#fruits/53380)
 - Tiebreaker
-  - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](/beatmapsets/28984#fruits/96358)**
+  - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#fruits/96358)**
 
 ### Round 1
 
 - NoMod
-  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](/beatmapsets/29996#fruits/104635)
-  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster) \[Hot Spring\]](/beatmapsets/27107#fruits/95431)
-  - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](/beatmapsets/33052#fruits/107875)
-  - [yak\_won - Lucid (soulfear) \[Extra\]](/beatmapsets/15898#fruits/85852)
-  - [TuTuWan - Wo Ge Zai Guang Dian (v2b) \[Qi Shi Ma\]](/beatmapsets/12034#fruits/52940)
-  - [SHK - Weep Irish (fartownik) \[Another\]](/beatmapsets/28545#fruits/95360)
-  - [NH22 - Corrosion (Cecilia) \[Lunatic\]](/beatmapsets/17044#fruits/60941)
-  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](/beatmapsets/34427#fruits/111902)
-  - [Len - U.N. Owen was her? (Louis Cyphre) \[Insane\]](/beatmapsets/22699#fruits/78171)
+  - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#fruits/104635)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster) \[Hot Spring\]](https://osu.ppy.sh/beatmapsets/27107#fruits/95431)
+  - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/33052#fruits/107875)
+  - [yak\_won - Lucid (soulfear) \[Extra\]](https://osu.ppy.sh/beatmapsets/15898#fruits/85852)
+  - [TuTuWan - Wo Ge Zai Guang Dian (v2b) \[Qi Shi Ma\]](https://osu.ppy.sh/beatmapsets/12034#fruits/52940)
+  - [SHK - Weep Irish (fartownik) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#fruits/95360)
+  - [NH22 - Corrosion (Cecilia) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
+  - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/34427#fruits/111902)
+  - [Len - U.N. Owen was her? (Louis Cyphre) \[Insane\]](https://osu.ppy.sh/beatmapsets/22699#fruits/78171)
 - Tiebreaker
-  - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](/beatmapsets/16782#fruits/60858)**
+  - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
 
 ------------------------------------------------------------------------
 

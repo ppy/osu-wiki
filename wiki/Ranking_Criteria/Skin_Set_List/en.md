@@ -1,5 +1,4 @@
-Skin Set List 
-============= 
+# Skin Set List
 
 The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
@@ -71,7 +70,7 @@ The entirety of this skin set is gameplay relevant.
 
 ### Hitcircle Number Set
 
-The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
+The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself.
 Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
@@ -89,7 +88,7 @@ Please note that the recommended sizes for all elements in this set is handled v
 
 ### Spinner Set
 
-All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style". 
+All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style".
 
 This is because the basic spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
 
@@ -111,7 +110,7 @@ This is because the basic spinner style will take priority over the new one if b
 
 ## osu!taiko
 
-### Hitobject Set
+### Hit Object Set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -173,7 +172,7 @@ The entirety of this skin set is gameplay relevant.
 
 ### Catcher Set
 
-All elements besides lightning.png are gameplay relevant. 
+All elements besides lightning.png are gameplay relevant.
 For catchers the plate must be perfectly centered and exactly 302px across in width. While the default skin's plate is uncentered, it may be used in beatmap-specific skins.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
@@ -200,7 +199,7 @@ The entirety of this skin set is gameplay relevant. Please note that the sizes o
 
 ### Score Number Set
 
-The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself. 
+The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself.
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|

@@ -1,11 +1,12 @@
 ---
 outdated: true
 ---
+
 Salutations. Je comprends ton besoin de me contacter personellement, mais je te demande de comprendre que ce n'est **pas** le bon endroit pour demander de l'aide/du support. Je garde le support d'osu! séparé de mes messages personnels, et je trouve aussi compliqué de trouver le temps de répondre aux messages privés du forum. Je te demande donc de suivre une des options suivantes:
 
 ## Support Technique
 
-La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/forum/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouveras donc plus rapidement une solution comme ça qu'en me contactant.
+La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/community/forums/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouveras donc plus rapidement une solution comme ça qu'en me contactant.
 
 ## Support Général d'osu!
 

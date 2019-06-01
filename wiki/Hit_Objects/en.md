@@ -1,5 +1,4 @@
-Hit Objects
-===============
+# Hit Objects
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
@@ -9,15 +8,13 @@ A hit object is the core gameplay element in osu!. There are three types of hit 
 
 Hit circles and sliders are encountered frequently, while spinners typically only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
-Hit Circle
-----------
+## Hit Circle
 
 ![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
 
 Hit circles, or "hit markers" in the DS games, are coloured circles with a number on them that shows its place in a combo. These are outlined with another circle (the approach circle) shrinking around it. Once the approach circle outline overlaps the hit circle's border, the player should click on/tap the hit circle, earning a set number of points (50, 100, or 300) based on how accurate they were (e.g. if they clicked too early, their points would be reduced). Tapping regular hit circles gives a very small boost to the life bar, and at the end of a combo a bigger boost will be awarded if the player did well in that combo.
 
-Slider
-------
+## Slider
 
 ![A slider in the default skin.](Slider2.jpg "A slider in the default skin.")
 
@@ -59,8 +56,7 @@ Slider tick rate is the rate that slider tick appears in slider. For example, sl
 
 Typical slider tick rate includes 1, 2 and 4. 3 is also available but used rarely. In the past slider tick 4 is widely used but slider tick rate 1 and 2 are used more popularly. Slider tick rate 0.5 (slider tick per 2 beat) is also available in the past but it is unrankable now.
 
-Spinner
--------
+## Spinner
 
 ![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
 

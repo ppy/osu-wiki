@@ -403,7 +403,7 @@ Coloca el párrafo dentro de un cuadro blanco.
 
 ### Trivia
 
-- Guía original: [HOW TO: Forum BBCodes (inglés)](/community/forums/topics/445599) por [Stefan](/users/626907)
+- Guía original: [HOW TO: Forum BBCodes (inglés)](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907)
 
 ### Historia
 

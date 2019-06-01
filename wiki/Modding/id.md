@@ -1,17 +1,18 @@
-Modding adalah proses moderasi dari satu mapper ke mapper yang lain yang bersangkutan dengan [beatmap](ID:Beatmapping "wikilink") yang dimoderasinya. Proses moderasi ini memberikan saran untuk mengembangkan beatmapnya hingga ke proses ranked atau setidaknya approved. Tiga manfaat utama dari modding antara lain:
+# Modding (Bahasa Indonesia)
 
-1. Dengan melakukan modding, biasanya modder (yang memberikan moderasi) akan diberikan [kudosu star](ID:Kudosu_Star "wikilink") yang bisa digunakan untuk meningkatkan star rating pada map miliknya atau map yang lain.
+Modding adalah proses moderasi dari satu mapper ke mapper yang lain yang bersangkutan dengan [beatmap](/wiki/Beatmapping) yang dimoderasinya. Proses moderasi ini memberikan saran untuk mengembangkan beatmapnya hingga ke proses ranked atau setidaknya approved. Tiga manfaat utama dari modding antara lain:
+
+1. Dengan melakukan modding, biasanya modder (yang memberikan moderasi) akan diberikan [kudosu star](/wiki/Glossary) yang bisa digunakan untuk meningkatkan star rating pada map miliknya atau map yang lain.
 
 **Catatan**: Jika melakukan modding pada beatmap yang tidak ada balasan dari modder lain selama 2 minggu, maka jumlah kudosu yang akan diterima adalah 2, bukan 1.
 
 2. "Mod4Mod", dimana Anda membuat persetujuan dengan seseorang untuk melakukan modding terhadap mapnya dengan syarat ia turut me-mod map Anda. Ini adalah cara yang baik untuk mendatangkan mod kepada map Anda.
 
-3. Mod post yang baik akan mengurangi kesalahan mendasar, sehingga mempersingkat waktu tim approval ([BAT](ID:BAT "wikilink")/[MAT](ID:MAT "wikilink")) untuk mencari-cari kesalahan. Ini akan membuat tim approval tidak frustasi, dan pada akhirnya mereka akan lebih tertarik untuk me-mod map Anda. Percayalah, [MAT](ID:MAT "wikilink") yang baik secara umum lebih bahagia dibandingkan dengan MAT yang hanya menyarankan "Map ini masih butuh modding lebih".
+3. Mod post yang baik akan mengurangi kesalahan mendasar, sehingga mempersingkat waktu tim approval ([BAT](/wiki/People/Beatmap_Nominators)) untuk mencari-cari kesalahan. Ini akan membuat tim approval tidak frustasi, dan pada akhirnya mereka akan lebih tertarik untuk me-mod map Anda. Percayalah, [MAT](/wiki/Glossary) yang baik secara umum lebih bahagia dibandingkan dengan MAT yang hanya menyarankan "Map ini masih butuh modding lebih".
 
-Jika Anda ingin belajar bagaimana cara untuk [mapping](ID:Beatmapping "wikilink"), atau Anda ingin lebih mempertajam kemampuan mapping anda, modding adalah salah satu cara yang efektif.
+Jika Anda ingin belajar bagaimana cara untuk [mapping](/wiki/Beatmapping), atau Anda ingin lebih mempertajam kemampuan mapping anda, modding adalah salah satu cara yang efektif.
 
-Bagaimana Melakukan Modding?
-----------------------------
+## Bagaimana Melakukan Modding?
 
 **Pertama**, download Beatmap dari Pending atau Work In Progress/help. Kamu bisa mendapatkan beatmap ini dari request seseorang atau memilih acak dari forum-forum pending map dan wip map.
 
@@ -23,10 +24,9 @@ Bagaimana Melakukan Modding?
 
 **Kelima**, silahkan post mod yang sudah kita buat.
 
-Hal-Hal Yang Perlu Diperhatikan Dalam Modding
----------------------------------------------
+## Hal-Hal Yang Perlu Diperhatikan Dalam Modding
 
--   Baca [1](http://osu.ppy.sh/?p=faq&n=10) dan [2](http://osu.ppy.sh/forum/viewtopic.php?f=6&t=439) sebelum kita melakukan modding untuk pertama kali.
+-   Baca 1 dan [2](https://osu.ppy.sh/community/forums/topics/439) sebelum kita melakukan modding untuk pertama kali.
 -   Hal yang paling penting dan kerap dilupakan dalam modding adalah menyertakan alasan kepada setiap hal yang kita sebutkan. Ingat, tujuan kita memoding adalah membantu mapper menjadi lebih baik dalam mapnya. Jika kita tidak menyertakan alasan, biasanya mapper akan mengabaikan saran kita, dan kemungkinan besar tidak akan mengerti apa yang kita utarakan.
 -   Hal yang paling mudah dan paling sering dilakukan pertama kali adalah mencek kesalahan pada folder lagu, seperti bitrate mp3, ukuran gambar, ukuran filesize, dan file-file yang seharusnya tidak termasuk di dalam folder lagu.
 -   Perlu di ingat bahwa ukuran bitrate mp3 harus diantara 128kbps-192kbps, ukuran gambar sebaiknya di antara 800x600-1024x780. Kita juga bisa memberitahu mapper untuk mengcompress gambar jika ada file gambar yang ukurannya cukup besar (sekitar 500kb-1mb)

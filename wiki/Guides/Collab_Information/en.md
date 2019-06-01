@@ -1,10 +1,8 @@
-Collab Information
-===================
+# Collab Information
 
 Collaborations are one of the most difficult types of mapping to achieve. There are a lot of factors to include... Here are some tips to consider when making a collaboration.
 
-Be sure
--------
+## Be sure
 
 What does that mean?
 
@@ -16,8 +14,7 @@ What does that mean?
 
 This step is, in essence, a confirmation step to see whether that doing a collaboration is right for you. From this, it branches of from the dot points.
 
-Song Selection
---------------
+## Song Selection
 
 A step that can be easily dismissed, hazardous if done so.
 
@@ -25,8 +22,7 @@ A step that can be easily dismissed, hazardous if done so.
 -   Timing is always an important thing.
 -   Songs that have distinct changes to the music or have distinct parts are usually the ones to choose when collaborating.
 
-Partitioning
-------------
+## Partitioning
 
 It is usually good to have parts in which you and the other person/people that you are working with can clearly start mapping.
 
@@ -34,17 +30,15 @@ It is usually good to have parts in which you and the other person/people that y
 -   Regardless of who starts mapping, it much more easier to go from start to finish instead of you mapping all your parts altogether. That way, it is much more easier to flow and play better.
 -   Remember to partition in breaks. **Most people forget that.**
 
-Map Settings
-------------
+## Map Settings
 
 If you can't agree on map settings...it's going to be detrimental.
 
 -   Agree on a Slider Velocity. This was a big killer for Last Time Travel and Gonna Be Here.
--   Agree on distance snapping and spacing in general. Look at [Be Your Wings](https://osu.ppy.sh/s/8518).
+-   Agree on distance snapping and spacing in general. Look at [Be Your Wings](https://osu.ppy.sh/beatmapsets/8518).
 -   Agree on difficulty settings.
 
-Mappers
--------
+## Mappers
 
 This is the part where most people go crazy. Getting mappers that you might dream about to have might not be so easy but if you do get them, you must be ready in every aspect before you start.
 

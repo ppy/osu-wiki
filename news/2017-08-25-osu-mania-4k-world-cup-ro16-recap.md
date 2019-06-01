@@ -10,7 +10,7 @@ This past Sunday saw the conclusion of the Round of 16 stage, featuring many hig
 
 In contrast to the busy Group Stage, the Round of 16 has historically been one of the more straightforward stages. Consisting of only 8 matches, teams compete fiercely in an effort to remain in the winner's bracket. While no teams were at risk of being eliminated from the tournament this weekend, this stage will significantly impact how teams will progress throughout the remainder of this tournament.
 
-If you've missed the matches on Sunday, you can always watch the VODs [here](https://www.twitch.tv/osulive/videos/all), or settle for the weekly recap below! 
+If you've missed the matches on Sunday, you can always watch the VODs [here](https://www.twitch.tv/osulive/videos/all), or settle for the weekly recap below!
 
 This year's Round of 16 saw a total of 49 picks and 16 bans. [hyi - you can recover](https://osu.ppy.sh/beatmapsets/566156#mania/1199287) was definitely a favourite among teams, having been picked in all 8 matches! [Sonitus Vir ft. Emily Smith - Lune Noir](https://osu.ppy.sh/beatmapsets/57946#mania/225781) also received equal attention, proving to be a competitive map that was played 5 times and banned 3 times.
 
@@ -23,7 +23,7 @@ The first match of the day saw the unseeded New Zealand facing off against the h
 
 Next up was a match between two top seeded teams - Indonesia vs. China. Having lost to the aforementioned France in the Group Stage, things were not looking too favourable for China. This soon proved to be true, as Indonesia took point after point in a series of very close matches, quickly reaching 3-0. China saw a brief respite in taking a point back, but it would be short lived, as Indonesia bounced back immediately, securing the match 5 - 1.
 
-Moving onto our first memorable highlight, the match between the United Kingdom and Japan was definitely a surprising one. Having made it through the Group Stage unscathed, the United Kingdom seemed confident in their ability to win. However, after a brief exchange of blows, it was clear that both teams were equally skilled, as the score settled at 2 - 2. Seeking to capitalise on their opponent's weakness, the tea sipping gentlemen went straight for [Edwin Starr vs. Justice - War vs. Waters of Nazareth](https://osu.ppy.sh/beatmapsets/602039#mania/1394983), a highly technical map featuring tricky long notes and streams. 
+Moving onto our first memorable highlight, the match between the United Kingdom and Japan was definitely a surprising one. Having made it through the Group Stage unscathed, the United Kingdom seemed confident in their ability to win. However, after a brief exchange of blows, it was clear that both teams were equally skilled, as the score settled at 2 - 2. Seeking to capitalise on their opponent's weakness, the tea sipping gentlemen went straight for [Edwin Starr vs. Justice - War vs. Waters of Nazareth](https://osu.ppy.sh/beatmapsets/602039#mania/1394983), a highly technical map featuring tricky long notes and streams.
 
 ![](/wiki/shared/news/2017-08-25-osu-mania-4k-world-cup-ro16-recap/UnitedKingdomJapan_game1.jpg)
 
@@ -42,10 +42,10 @@ The final two matches saw Poland vs. Chile and Sweden vs. United States. While b
 ![](/wiki/shared/news/2017-08-25-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
 
 --------
-And that's a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser's bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017_4K). 
+And that's a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser's bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017_4K).
 
-Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don't want to miss! 
+Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don't want to miss!
 
-Finally, a reminder that you can always support your favourite team by purchasing a colorful [user profile banner!](https://osu.ppy.sh/store/product/226). All proceeds will go towards funding the prize pool for this tournament, so get your banners now today!
+Finally, a reminder that you can always support your favourite team by purchasing a colorful [user profile banner!](https://osu.ppy.sh/store/products/226). All proceeds will go towards funding the prize pool for this tournament, so get your banners now today!
 
 —mangomizer

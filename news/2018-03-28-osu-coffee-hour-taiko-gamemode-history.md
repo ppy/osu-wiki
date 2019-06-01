@@ -20,7 +20,7 @@ Given the impressive resumes above we'll have a ton to go over! We'd like to ins
 
 ## Questions?
 
-As per usual, **we're looking for your questions!** 
+As per usual, **we're looking for your questions!**
 
 If you have questions for Raiden or karterfreak regarding osu!taiko, or suggestions for specific osu!taiko moments over the years that you want to hear more about, let us know below!
 

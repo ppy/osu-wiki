@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Storyboard Showcase #1"
-permalink: http://osunews.tumblr.com/post/141179581633/storyboard-showcase-1
 date: 2016-03-17 02:43:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/141179581633/storyboard-showcase-1
 ---
+
 A good storyboard can bring a map to life in ways we have never thought possible. Today, we show our appreciation to one of the members of the community who bring us expertly crafted animations rendered at the same frame rate the game is running at. That's right, Storyboard Showcases are back!
 
 Before we get into today's storyboard, let's get some specifics about how the new storyboard showcases will work out of the way first:
@@ -15,12 +15,11 @@ Before we get into today's storyboard, let's get some specifics about how the ne
 
 + **Storyboard Showcases will now happen regularly monthly.** The previous intervals proved a little dense to put in brief.
 
-Without further ado, let's take a look at the first storyboard: [yuiko & Meis Clauson - Aozora Memories](https://osu.ppy.sh/s/349062) by [Gelbana](https://osu.ppy.sh/u/Gelbana)!
+Without further ado, let's take a look at the first storyboard: [yuiko & Meis Clauson - Aozora Memories](https://osu.ppy.sh/beatmapsets/349062) by [Gelbana](https://osu.ppy.sh/users/Gelbana)!
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/crfumx1rRrI" frameborder="0" allowfullscreen></iframe>
-
 
 **The storyboard to Aozora Memories is a modest yet appealing interpretation of the song.** The minimalistic elements of the storyboard are brought to life with the impressive  implementation of animated typography via tiny dots. Needless to say, the size of the download (the .osb was pretty fat) was properly justified when you got to see each individual dot fly across the screen to form new visualizations and flash pretty colours!
 

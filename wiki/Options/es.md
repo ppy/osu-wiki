@@ -1,10 +1,10 @@
 ---
 outdated: true
 ---
+
 <img src="OptionsBase_ES.png" title="Menú de opciones" alt="Menú de opciones" width="300" />
 
-Opciones
-========
+# Opciones
 
 Reinicia osu! si algo no funciona como debería. Clic en "Opciones" o presiona "O" en la pantalla de inicio para acceder a la barra de opciones y cambiar el modo en que osu! funciona.
 
@@ -18,8 +18,7 @@ To find the build of your osu!, scroll down to the lowest part of the sidebar (o
 -   b(YYYY)(MM)(DD).(revision)(BuildType) = Test Build.
     -   So, b20151113.8cuttingedge means Cutting Edge Build as of 13th of November 2015, eighth revision.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") General section
-------------------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") General section
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
 
@@ -62,7 +61,7 @@ Click on **Sign in** to to log-in or click on **Create an account** if you do no
 
 #### {username}
 
-`Logged in as {username}`
+`Logged in as {username}`
 
 Click on it to access user stuff.
 
@@ -114,12 +113,12 @@ Click on it to access user stuff.
 <tr class="odd">
 <td><p>Select language</p></td>
 <td><p>Pick a language of your choice. osu! with download the .txt translation file and change to selected language. Default is English.<br />
-For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http://osu.ppy.sh/forum/t/104342/</a> (old link)</p></td>
+For contribution: <a href="https://osu.ppy.sh/community/forums/topics/104342/" class="uri">https://osu.ppy.sh/community/forums/topics/104342/</a> (old link)</p></td>
 </tr>
 <tr class="even">
 <td><p>Prefer metadata in original language</p></td>
 <td><p>Beatmaps that have Unicode metadata will be shown instead of the usual ASCII metadata.<br />
-<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="http://osu.ppy.sh/s/44443">Actual Beatmap here</a></p></td>
+<strong>Example:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">If activated, the beatmap's title will change from &quot;Night of Feifan Brother&quot; to &quot;非凡哥之夜&quot; if the mapper did set a Unicode data for his/her's beatmap.</a> <a href="https://osu.ppy.sh/beatmapsets/44443">Actual Beatmap here</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use alternative font for chat display</p></td>
@@ -165,8 +164,7 @@ For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http:/
 </tbody>
 </table>
 
-![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Graphics section
------------------------------------------------------------------------
+## ![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Graphics section
 
 <img src="optionsscreengraphics1.jpg" title="Graphics Tab" alt="Graphics Tab" width="300" />
 
@@ -194,7 +192,7 @@ For contribution: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http:/
 <hr>
 <p>Unlimited (gameplay)</p>
 <hr>
-<p><strong>Note:</strong> For laptop users, it is recommended to limit your frames to prevent overheating <a href="http://osu.ppy.sh/forum/t/82605">as mentioned in this thread</a>. Also, mind your electricity usage bill.</p></td>
+<p><strong>Note:</strong> For laptop users, it is recommended to limit your frames to prevent overheating <a href="https://osu.ppy.sh/community/forums/topics/82605">as mentioned in this thread</a>. Also, mind your electricity usage bill.</p></td>
 </tr>
 <tr class="even">
 <td><p>Show FPS Counter</p></td>
@@ -381,8 +379,7 @@ Play &quot;<a href="http://soundcloud.com/nekodex/welcome-to-christmas">nekodex 
 </tbody>
 </table>
 
-![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Gameplay section
------------------------------------------------------------------------
+## ![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Gameplay section
 
 <img src="Options Gameplay.jpg" title="fig:Gameplay section" alt="Gameplay section" width="300" /> <img src="OP PBP.jpg" title="fig:Progress display placement" alt="Progress display placement" width="200" /> <img src="Input key overlay.jpg" title="fig:Input key overlay" alt="Input key overlay" width="200" />
 
@@ -488,8 +485,7 @@ Default is 1.00x. Size range from 0.50x - 2.00x.</p></td>
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------|
 | up to                 | Adjusting this will **hide** all the beatmaps higher than selected star value and show others lower. (Defaults to 10) |
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio section
---------------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio section
 
 <img src="optionsaudio1.jpg" title="Audio tab" alt="Audio tab" width="300" />
 
@@ -530,8 +526,7 @@ Note: Your current playing song on your jukebox will be used.
 4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
 5.  Your jukebox. The currently playing song's BPM is shown as ticks.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin section
------------------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin section
 
 <img src="Optionsskin.jpg" title="Skin Tab" alt="Skin Tab" width="300" />
 
@@ -579,7 +574,7 @@ Set 4: Score numbers</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use Taiko skin for Taiko mode</p></td>
-<td><p>Uses <a href="http://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">LuigiHann's Taiko skin</a> when playing Taiko mode. Disable it when your current skin have Taiko-specific elements.</p></td>
+<td><p>Uses <a href="https://osu.ppy.sh/forum/viewtopic.php?f=15&amp;t=662">LuigiHann's Taiko skin</a> when playing Taiko mode. Disable it when your current skin have Taiko-specific elements.</p></td>
 </tr>
 <tr class="even">
 <td><p>Always use skin cursor</p></td>
@@ -600,8 +595,7 @@ Set 4: Score numbers</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Input section
---------------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Input section
 
 <img src="optionsinput1.jpeg" title="Input Tab" alt="Input Tab" width="300" />
 
@@ -626,7 +620,7 @@ Range: 0.40x - 6.00x. Default is 1.00x.</p></td>
 </tr>
 <tr class="even">
 <td><p>Raw Input (reports: #/sec latency: #ms)</p></td>
-<td><p>(Added since February 2014) <strong>Read mouse/tablet values directly from the hardware, without any post-processing.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/forum/t/187785">Check this thread for more info</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">For Polling Rate knowledge, refer to this link to howtogeek.com</a></span></p></td>
+<td><p>(Added since February 2014) <strong>Read mouse/tablet values directly from the hardware, without any post-processing.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Check this thread for more info</a></span>. <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">For Polling Rate knowledge, refer to this link to howtogeek.com</a></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Map absolute raw input to the osu! window</p></td>
@@ -776,8 +770,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor section
------------------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor section
 
 <img src="Options Editor.jpg" title="Editor section" alt="Editor section" width="300" />
 
@@ -826,8 +819,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online section
------------------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online section
 
 <img src="optionsonline1.jpeg" title="Online Tab" alt="Online Tab" width="300" />
 
@@ -979,8 +971,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Maintenance section
-----------------------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Maintenance section
 
 <img src="optionsmaintenance.png" title="Maintenance Tab" alt="Maintenance Tab" width="300" />
 
@@ -1115,8 +1106,7 @@ Please note: you may have to restart osu! after toggling these as some of these 
 </tbody>
 </table>
 
-Old Screen(s)
-=============
+# Old Screen(s)
 
 The screen(s) *used* to be available in the Options menu. You can access this screen in specific way(s).
 
@@ -1127,8 +1117,8 @@ The screen(s) *used* to be available in the Options menu. You can access this sc
 1.  This area on the right lists skins you have downloaded in your Skins subfolder. To switch to another one, simply click on its respective bar.
 2.  Currently listening beatmap's design will play on the majority of the screen, using the elements of the skin currently selected. The artificial intelligence playing the beatmap is designed to display as many different visual elements in as short a period of time as possible.
 3.  Clicking on "Export as .osk" will export the selected skin to .osk file in "Exports" folder.
-4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](http://osu.ppy.sh/forum/109), where you can download more skins for your viewing pleasure.
-    1.  For a compendium of skins: [Original](http://osu.ppy.sh/forum/t/23820), [Updated](https://osu.ppy.sh/forum/t/180864) [version](http://osu.ppy.sh/forum/t/136163).
+4.  Clicking "Get more skins" will [summon your browser and to the Completed Skins forum](https://osu.ppy.sh/community/forums/109), where you can download more skins for your viewing pleasure.
+    1.  For a compendium of skins: [Original](https://osu.ppy.sh/community/forums/topics/23820), [Updated](https://osu.ppy.sh/community/forums/topics/180864) [version](https://osu.ppy.sh/community/forums/topics/136163).
 
 5.  Clicking "Random Beatmap" will load randomly selected difficulty from your collection to review the currently selected skin's appearance.
 6.  Click Back or press Esc to return to the Skins tab of the Options Screen.

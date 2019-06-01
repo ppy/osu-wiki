@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #2 - Submissions Open!"
-permalink: http://osunews.tumblr.com/post/65311349854/monthly-beatmapping-contest-2-submissions-open
 date: 2014-10-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/65311349854/monthly-beatmapping-contest-2-submissions-open
 ---
+
 Calling all mappers! After a brief delay, the monthly beatmapping contest is back! Test your mettle against mappers from around the globe in creating the best beatmap you can to this month's theme - **Touhou**!
 
 The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relatively long cut due to the structure of the song. Even so, I would recommend against using long break sections as a rule (short ~6s breaks are fine, if used correctly).
@@ -13,7 +13,7 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 
 ## Judges:
 
-[Nyquill](https://osu.ppy.sh/u/682935), [Charles445](https://osu.ppy.sh/u/85000), [LunarSakuya](https://osu.ppy.sh/u/1027860), [kanpakyin](https://osu.ppy.sh/u/394326), [Scorpiour](https://osu.ppy.sh/u/867259), [dkun](https://osu.ppy.sh/u/dkun), [Gabe](https://osu.ppy.sh/u/654108).
+[Nyquill](https://osu.ppy.sh/users/682935), [Charles445](https://osu.ppy.sh/users/85000), [LunarSakuya](https://osu.ppy.sh/users/1027860), [kanpakyin](https://osu.ppy.sh/users/394326), [Scorpiour](https://osu.ppy.sh/users/867259), [dkun](https://osu.ppy.sh/users/dkun), [Gabe](https://osu.ppy.sh/users/654108).
 
 ## Prizes:
 

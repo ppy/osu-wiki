@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Community Mapping Contest #1 Voting Live"
-permalink: http://osunews.tumblr.com/post/153944715428/community-mapping-contest-1-voting-live
 date: 2016-12-02 12:36:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/153944715428/community-mapping-contest-1-voting-live
 ---
-After going through hundreds of entries across all gamemodes, voting for the first Community Mapping Contest is now open. Get in and get voting!
-<!-- more -->
 
-[Check out the Community Contests portal page to find your favourite gamemode and start voting now!](https://new.ppy.sh/community/contests) Instructions on how to vote are available on each contest's page - read on if you'd like to see a little more of what took us so long to get this all out.
+After going through hundreds of entries across all gamemodes, voting for the first Community Mapping Contest is now open. Get in and get voting!
+
+[Check out the Community Contests portal page to find your favourite gamemode and start voting now!](https://osu.ppy.sh/community/contests) Instructions on how to vote are available on each contest's page - read on if you'd like to see a little more of what took us so long to get this all out.
 
 We were amazed at just how many people entered our brand new beatmapping contest. Over 400 unique entries were submitted across all of the game modes available in osu!.
 

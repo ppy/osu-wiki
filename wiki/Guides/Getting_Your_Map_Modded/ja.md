@@ -1,10 +1,8 @@
-Getting Your Map Modded
-================================
+# Getting Your Map Modded
 
 あなたの譜面が[Rankedになるために](/wiki/Beatmapping)、[Modを手に入れる必要があります](/wiki/Modding)。 ここにはそれをするいくつかの手段があります。
 
-\#modreqs
----------
+## \#modreqs
 
 **\#modreqs**はosu!のチャットの一つで、プレイヤー達はここで([Mod](/wiki/Modding))のリクエストをします。
 
@@ -18,18 +16,15 @@ Getting Your Map Modded
 
 もっとも効果的な方法ではありませんが、試しておいて損はありません。
 
-Modding Queues
---------------
+## Modding Queues
 
-フォーラムの[Modding Queues](https://osu.ppy.sh/forum/60)には様々なModを受け付けるスレッドがあります。Modding Queuesにあなたの譜面をPostし、スレッドの作者は最終的にそれらをModします。各スレッドには各ルールがあるので、Modを手に入れるためにルールは守りましょう。
+フォーラムの[Modding Queues](https://osu.ppy.sh/community/forums/60)には様々なModを受け付けるスレッドがあります。Modding Queuesにあなたの譜面をPostし、スレッドの作者は最終的にそれらをModします。各スレッドには各ルールがあるので、Modを手に入れるためにルールは守りましょう。
 
-Mod4Modを他のプレイヤーに頼む
------------------------------
+## Mod4Modを他のプレイヤーに頼む
 
 Mod4Mod(m4m)は彼らにModをされた時、あなたが他の誰かの譜面(多くはm4m相手の譜面)をModすることで、Modを得る非常に有効な方法です。\#modreqsと組み合わせれば非常に有効な手段となります。もし誰かがそこでModのリクエストをPostし、mod4modを喜ぶ場合は彼らに頼むとよいでしょう。多くの場合彼らはそれを受け付けます。手間はかかりますが大きな意味があります。
 
-ほかのユーザーに直接頼む
-------------------------
+## ほかのユーザーに直接頼む
 
 ほかのユーザーにModを頼むことは非常に正しく有効な手段です。一般ユーザーで多くの[Kudosuを保有していて](/wiki/Glossary)、Modding Queueがない場合、彼らが忙しくなければよくその依頼を受け付けます。あなたの譜面をRankedさせるにはほとんどが[BATに直接頼むことが必要となってきます](/wiki/People/Beatmap_Nomination_Group)。いくつかのヒントを以下に表示します。
 

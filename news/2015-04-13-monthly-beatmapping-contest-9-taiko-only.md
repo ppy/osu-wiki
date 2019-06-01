@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #9 Taiko Only"
-permalink: http://osunews.tumblr.com/post/116319155288/monthly-beatmapping-contest-9-taiko-only
 date: 2015-04-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116319155288/monthly-beatmapping-contest-9-taiko-only
 ---
+
 Submissions for the 9th Monthly Beatmapping Contest are now open - Bringing back some fast paced beats for our 1st **Taiko Only** contest with a great tune from LapFox Traxx for this month's contest!
 
 Sticking with the changes made in the MBC\#8 we are moving on to our next game mode **Taiko** we hope to see some great submissions to kick things off
 
 After that chill cool down with "the light", we are cranking it back up to 11 with one of **Renard's** many personas **Furries in a Blender** featuring **Storm World**! With the fast-paced beats and hetic speeds it is sure to be a intresting contest! Listen to it below:
 
-<audio controls=""><source src="http://puu.sh/h7Lf6/7f8117944c.mp3" type="audio/mpeg"></audio>
+<audio controls=""><source src="https://puu.sh/h7Lf6/7f8117944c.mp3" type="audio/mpeg"></audio>
 
 ## What are the prizes?
 

@@ -3,13 +3,14 @@ tags:
 - oPHST 2018
 - oPHST2018
 ---
+
 # osu!Philippines Summer Tournament 2018
 
 ![oPHST2018 Poster](poster.png)
 
 > The sun is up, temperatures are high, and it's time to set your rhythm ablaze!
 
-The **osu!Philippines Summer Tournament 2018** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is considered as the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes. 
+The **osu!Philippines Summer Tournament 2018** is a semi-invitational, semi-open Tournament Series hosted by the osu!PH community for the osu!standard, osu!catch, and the osu!mania game modes. This tournament is considered as the flagship competition of the community and will serve as the Philippine National Championships for the respective game modes.
 
 This also serves as the third edition of the annual **osu!mania Philippines Summer Tournament**.
 
@@ -94,88 +95,88 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 ### osu!standard
 
-| Seed |  Player                                              | 
-|:------:|------------------------------------------------------| 
-| 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       | 
-| 2    | [Dunois](https://osu.ppy.sh/users/4581715)           | 
-| 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         | 
-| 4    | [-Marika](https://osu.ppy.sh/users/2199427)          | 
-| 5    | [Fraye](https://osu.ppy.sh/users/5352971)            | 
-| 6    | [fixedbyglue](https://osu.ppy.sh/users/8296269)      | 
-| 7    | [PhasiconN](https://osu.ppy.sh/users/7183538)        | 
-| 8    | [- Neon -](https://osu.ppy.sh/users/7273455)         | 
-| 9    | [TyrantsEye2014](https://osu.ppy.sh/users/4530738)   | 
-| 10   | [Oooodriiin](https://osu.ppy.sh/users/7223737)       | 
-| 11   | [Xidorn](https://osu.ppy.sh/users/7904667)           | 
-| 12   | [Nezol](https://osu.ppy.sh/users/7509103)            | 
-| 13   | [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) | 
-| 14   | [\[Vik\]](https://osu.ppy.sh/users/5428448)          | 
-| 15   | [NymphSan05](https://osu.ppy.sh/users/5340700)       | 
-| 16   | [Eboryte](https://osu.ppy.sh/users/7243198)          | 
-| 17   | [NepNep-](https://osu.ppy.sh/users/4800093)          | 
-| 18   | [Natsume-](https://osu.ppy.sh/users/5682791)         | 
-| 19   | [Marika](https://osu.ppy.sh/users/1679638)           | 
-| 20   | [xchan](https://osu.ppy.sh/users/6100591)            | 
-| 21   | [CharlesMoveOn](https://osu.ppy.sh/users/8670152)    | 
-| 22   | [Rimazii](https://osu.ppy.sh/users/3831514)          | 
-| 23   | [Caernarvon725](https://osu.ppy.sh/users/8208317)    | 
-| 24   | [SkyLifeHope](https://osu.ppy.sh/users/7417642)      | 
-| 25   | [CloudBlaze](https://osu.ppy.sh/users/5742581)       | 
-| 26   | [Awishi](https://osu.ppy.sh/users/4290020)           | 
-| 27   | [Scylz](https://osu.ppy.sh/users/8367043)            | 
-| 28   | [\[Paradoxum\]](https://osu.ppy.sh/users/6927531)    | 
-| 29   | [Aharu](https://osu.ppy.sh/users/5039816)            | 
-| 30   | [Mietzu](https://osu.ppy.sh/users/7960710)           | 
-| 31   | [Itsvet](https://osu.ppy.sh/users/9989784)           | 
-| 32   | [Afireee](https://osu.ppy.sh/users/7919913)          | 
+| Seed |  Player                                              |
+|:------:|------------------------------------------------------|
+| 1    | [HaruTachi-](https://osu.ppy.sh/users/6244066)       |
+| 2    | [Dunois](https://osu.ppy.sh/users/4581715)           |
+| 3    | [Varsagus](https://osu.ppy.sh/users/3885723)         |
+| 4    | [-Marika](https://osu.ppy.sh/users/2199427)          |
+| 5    | [Fraye](https://osu.ppy.sh/users/5352971)            |
+| 6    | [fixedbyglue](https://osu.ppy.sh/users/8296269)      |
+| 7    | [PhasiconN](https://osu.ppy.sh/users/7183538)        |
+| 8    | [- Neon -](https://osu.ppy.sh/users/7273455)         |
+| 9    | [TyrantsEye2014](https://osu.ppy.sh/users/4530738)   |
+| 10   | [Oooodriiin](https://osu.ppy.sh/users/7223737)       |
+| 11   | [Xidorn](https://osu.ppy.sh/users/7904667)           |
+| 12   | [Nezol](https://osu.ppy.sh/users/7509103)            |
+| 13   | [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) |
+| 14   | [\[Vik\]](https://osu.ppy.sh/users/5428448)          |
+| 15   | [NymphSan05](https://osu.ppy.sh/users/5340700)       |
+| 16   | [Eboryte](https://osu.ppy.sh/users/7243198)          |
+| 17   | [NepNep-](https://osu.ppy.sh/users/4800093)          |
+| 18   | [Natsume-](https://osu.ppy.sh/users/5682791)         |
+| 19   | [Marika](https://osu.ppy.sh/users/1679638)           |
+| 20   | [xchan](https://osu.ppy.sh/users/6100591)            |
+| 21   | [CharlesMoveOn](https://osu.ppy.sh/users/8670152)    |
+| 22   | [Rimazii](https://osu.ppy.sh/users/3831514)          |
+| 23   | [Caernarvon725](https://osu.ppy.sh/users/8208317)    |
+| 24   | [SkyLifeHope](https://osu.ppy.sh/users/7417642)      |
+| 25   | [CloudBlaze](https://osu.ppy.sh/users/5742581)       |
+| 26   | [Awishi](https://osu.ppy.sh/users/4290020)           |
+| 27   | [Scylz](https://osu.ppy.sh/users/8367043)            |
+| 28   | [\[Paradoxum\]](https://osu.ppy.sh/users/6927531)    |
+| 29   | [Aharu](https://osu.ppy.sh/users/5039816)            |
+| 30   | [Mietzu](https://osu.ppy.sh/users/7960710)           |
+| 31   | [Itsvet](https://osu.ppy.sh/users/9989784)           |
+| 32   | [Afireee](https://osu.ppy.sh/users/7919913)          |
 
 ### osu!catch
 
-| Seed | Player                                             | 
-|:------:|----------------------------------------------------| 
-| 1    | [Roido](https://osu.ppy.sh/users/6829103)          | 
-| 2    | [-Nicotine](https://osu.ppy.sh/users/4818935)      | 
-| 3    | [- Kielzu -](https://osu.ppy.sh/users/6221114)     | 
-| 4    | [Crowley](https://osu.ppy.sh/users/6341006)        | 
-| 5    | [-MomoX](https://osu.ppy.sh/users/2150415)         | 
-| 6    | [Laqure](https://osu.ppy.sh/users/1642435)         | 
-| 7    | [Kuya Frex](https://osu.ppy.sh/users/8868701)      | 
-| 8    | [KaganimeRin](https://osu.ppy.sh/users/1626093)    | 
-| 9    | [JeirYagtama](https://osu.ppy.sh/users/7483452)    | 
-| 10   | [AJamez](https://osu.ppy.sh/users/7890134)         | 
-| 11   | [Contingent](https://osu.ppy.sh/users/11849880)    | 
-| 12   | [kaarin](https://osu.ppy.sh/users/10054160)        | 
-| 13   | [Weazle](https://osu.ppy.sh/users/7864598)         | 
-| 14   | [oSuTroop3r](https://osu.ppy.sh/users/7661767)     | 
-| 15   | [princealbert10](https://osu.ppy.sh/users/7804181) | 
-| 16   | [justin1709](https://osu.ppy.sh/users/4699130)     | 
+| Seed | Player                                             |
+|:------:|----------------------------------------------------|
+| 1    | [Roido](https://osu.ppy.sh/users/6829103)          |
+| 2    | [-Nicotine](https://osu.ppy.sh/users/4818935)      |
+| 3    | [- Kielzu -](https://osu.ppy.sh/users/6221114)     |
+| 4    | [Crowley](https://osu.ppy.sh/users/6341006)        |
+| 5    | [-MomoX](https://osu.ppy.sh/users/2150415)         |
+| 6    | [Laqure](https://osu.ppy.sh/users/1642435)         |
+| 7    | [Kuya Frex](https://osu.ppy.sh/users/8868701)      |
+| 8    | [KaganimeRin](https://osu.ppy.sh/users/1626093)    |
+| 9    | [JeirYagtama](https://osu.ppy.sh/users/7483452)    |
+| 10   | [AJamez](https://osu.ppy.sh/users/7890134)         |
+| 11   | [Contingent](https://osu.ppy.sh/users/11849880)    |
+| 12   | [kaarin](https://osu.ppy.sh/users/10054160)        |
+| 13   | [Weazle](https://osu.ppy.sh/users/7864598)         |
+| 14   | [oSuTroop3r](https://osu.ppy.sh/users/7661767)     |
+| 15   | [princealbert10](https://osu.ppy.sh/users/7804181) |
+| 16   | [justin1709](https://osu.ppy.sh/users/4699130)     |
 
 ### osu!mania 4K
 
-| Seed | Players | 
-| :---: | --- | 
-| Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) | 
-| High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) | 
-| Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) | 
-| Low (#25 - #32) | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), [Lordie09](https://osu.ppy.sh/users/10010130), [Batujitsu](https://osu.ppy.sh/users/6402552), [szc19](https://osu.ppy.sh/users/11444817), [Inoariusu](https://osu.ppy.sh/users/8586656), [lord\_waker](https://osu.ppy.sh/users/7235545), [vincent4399](https://osu.ppy.sh/users/9764388), [Altertis](https://osu.ppy.sh/users/9374657) | 
+| Seed | Players |
+| :---: | --- |
+| Top (#1 - #4) | [joseee-](https://osu.ppy.sh/users/10083439), [MapleSyrup-](https://osu.ppy.sh/users/1192936), [windrush123](https://osu.ppy.sh/users/9087181), [nyx-](https://osu.ppy.sh/users/9883834) |
+| High (#5 - #8) | [TheArge](https://osu.ppy.sh/users/9919550), [Mk3605](https://osu.ppy.sh/users/8416824), [Nelvin\_27](https://osu.ppy.sh/users/2766029), [FeveredNickel](https://osu.ppy.sh/users/7331952) |
+| Middle (#9 - #24) | [Trainer-](https://osu.ppy.sh/users/9331760), [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), [Toyohime-](https://osu.ppy.sh/users/9770359), [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), [exodia3000](https://osu.ppy.sh/users/10500797), [GTXCZE](https://osu.ppy.sh/users/9209185), [Baltz](https://osu.ppy.sh/users/6083463), [inverselina](https://osu.ppy.sh/users/6375534), [Mentai Cosmic](https://osu.ppy.sh/users/6908508), [\[\_blank-\]](https://osu.ppy.sh/users/10583118), [EikiShiki60](https://osu.ppy.sh/users/11517895), [Kaleiodo](https://osu.ppy.sh/users/4657592), [takedown411](https://osu.ppy.sh/users/9374607), [Chez](https://osu.ppy.sh/users/4866112), [Hezekiah-](https://osu.ppy.sh/users/6819871), [Victoria Artois](https://osu.ppy.sh/users/8021372) |
+| Low (#25 - #32) | [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), [Lordie09](https://osu.ppy.sh/users/10010130), [Batujitsu](https://osu.ppy.sh/users/6402552), [szc19](https://osu.ppy.sh/users/11444817), [Inoariusu](https://osu.ppy.sh/users/8586656), [lord\_waker](https://osu.ppy.sh/users/7235545), [vincent4399](https://osu.ppy.sh/users/9764388), [Altertis](https://osu.ppy.sh/users/9374657) |
 
 #### Groups
 
-| Group | Top              | High               | Low                     | Bottom              | 
-|:-------:|------------------|--------------------|-------------------------|---------------------| 
-| **A** | (#4) nyx-        | (#7) Nelvin\_27    | (#12) Vigne Tsukinose   | (#14) GTXCZE        | 
-| **B** | (#2) MapleSyrup- | (#5) TheArge       | (#9) Trainer-           | (#13) exodia3000    | 
-| **C** | (#3) windrush123 | (#8) FeveredNickel | (#11) Toyohime-         | (#15) Baltz         | 
-| **D** | (#1) joseee-     | (#6) Mk3605        | (#10) \_Shirayukihime\_ | (#17) Mentai Cosmic | 
+| Group | Top              | High               | Low                     | Bottom              |
+|:-------:|------------------|--------------------|-------------------------|---------------------|
+| **A** | (#4) nyx-        | (#7) Nelvin\_27    | (#12) Vigne Tsukinose   | (#14) GTXCZE        |
+| **B** | (#2) MapleSyrup- | (#5) TheArge       | (#9) Trainer-           | (#13) exodia3000    |
+| **C** | (#3) windrush123 | (#8) FeveredNickel | (#11) Toyohime-         | (#15) Baltz         |
+| **D** | (#1) joseee-     | (#6) Mk3605        | (#10) \_Shirayukihime\_ | (#17) Mentai Cosmic |
 
 ### osu!mania 7K
 
-| Group | Top                                                      | High                                                | Low                                                        | Bottom                                              | 
-|:-------:|----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------| 
-| **A** | (#3) [cieloday05](https://osu.ppy.sh/users/2722489)      | (#6) [joseee-](https://osu.ppy.sh/users/10083439)   | (#9) [FeveredNickel](https://osu.ppy.sh/users/7331952)     | (#14) [DrawdeX](https://osu.ppy.sh/users/2228215)   | 
-| **B** | (#2) [- Kura -](https://osu.ppy.sh/users/11420405)       | (#5) [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) [windrush123](https://osu.ppy.sh/users/9087181)      | (#13) [Chez](https://osu.ppy.sh/users/4866112)      | 
-| **C** | (#1) [MapleSyrup-](https://osu.ppy.sh/users/1192936)     | (#8) [Tots](https://osu.ppy.sh/users/3443131)       | (#11) [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) [- Aries -](https://osu.ppy.sh/users/6639880) | 
-| **D** | (#4) [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) [fer789](https://osu.ppy.sh/users/8901267)     | (#10) [nyx-](https://osu.ppy.sh/users/9883834)             | <blank spot>                                        | 
+| Group | Top                                                      | High                                                | Low                                                        | Bottom                                              |
+|:-------:|----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------|
+| **A** | (#3) [cieloday05](https://osu.ppy.sh/users/2722489)      | (#6) [joseee-](https://osu.ppy.sh/users/10083439)   | (#9) [FeveredNickel](https://osu.ppy.sh/users/7331952)     | (#14) [DrawdeX](https://osu.ppy.sh/users/2228215)   |
+| **B** | (#2) [- Kura -](https://osu.ppy.sh/users/11420405)       | (#5) [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) [windrush123](https://osu.ppy.sh/users/9087181)      | (#13) [Chez](https://osu.ppy.sh/users/4866112)      |
+| **C** | (#1) [MapleSyrup-](https://osu.ppy.sh/users/1192936)     | (#8) [Tots](https://osu.ppy.sh/users/3443131)       | (#11) [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) [- Aries -](https://osu.ppy.sh/users/6639880) |
+| **D** | (#4) [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) [fer789](https://osu.ppy.sh/users/8901267)     | (#10) [nyx-](https://osu.ppy.sh/users/9883834)             | <blank spot>                                        |
 
 
 
@@ -375,7 +376,7 @@ Mappools will be revealed one week in advance of each stage.
 - Double Time
 	- [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
 	
-### osu!catch 
+### osu!catch
 
 #### Finals Week 2
 
@@ -470,7 +471,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [Maksim Mrvica - Croatian Rhapsody (ZHSteven) \[Insane\]](https://osu.ppy.sh/beatmaps/881329)
 	- [DJ TOTTO feat.Enako - Precious \* Star (handsome) \[Glimmer\]](https://osu.ppy.sh/beatmaps/1094167)
 	- [NeLiME - CODE NAME : ZERO (ursa) \[OverdoZe\]](https://osu.ppy.sh/beatmaps/374232)
-- Hard Rock	
+- Hard Rock
 	- [DJVI - Base After Base (Kurokami) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmaps/857417)
 	- [REOL - drop pop candy (Nysrogh) \[Candies Platter\]](https://osu.ppy.sh/beatmaps/1293300)
 	- [Dan Winter - Don't Stop Push It Now (Nightcore Mix) (Gero) \[Insane\]](https://osu.ppy.sh/beatmaps/474929)
@@ -626,7 +627,7 @@ Mappools will be revealed one week in advance of each stage.
 	- [Celldweller - Weaponized (Noxus) \[Normal '9mm Pistol'\]](https://osu.ppy.sh/beatmaps/1523952)
 	- [Porter Robinson - Natural Light (SitekX) \[Ray\]](https://osu.ppy.sh/beatmaps/1222576)
 	- [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmaps/1045578)
-- Tiebreaker	
+- Tiebreaker
 	- [Chime - Undertale (Chime Remix) (SourToast) \[True Pacifist\]](https://osu.ppy.sh/beatmaps/976440)
 
 #### Qualifiers
@@ -766,68 +767,68 @@ All results are compiled for public viewing via [this link](https://docs.google.
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml)
 
-| Seed | Player 1 |   |       | Player 2   | Seed |  | 
-|:------:|:----------|:---:|:-------:|------------:|:------:|--| 
-| 4    | -Marika  | 2 | **7** | **Dunois** | 2    |  | 
+| Seed | Player 1 |   |       | Player 2   | Seed |  |
+|:------:|:----------|:---:|:-------:|------------:|:------:|--|
+| 4    | -Marika  | 2 | **7** | **Dunois** | 2    |  |
 
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml)
 
-| Seed | Player 1       |       |       | Player 2    | Seed |  | 
-|:------:|:----------------|:-------:|:-------:|-------------:|:------:|--| 
-| 9    | TyrantsEye2014 | 3     | **7** | **-Marika** | 4    |  | 
-| 2    | **Dunois**     | **7** | 2     | Varsagus    | 3    |  | 
+| Seed | Player 1       |       |       | Player 2    | Seed |  |
+|:------:|:----------------|:-------:|:-------:|-------------:|:------:|--|
+| 9    | TyrantsEye2014 | 3     | **7** | **-Marika** | 4    |  |
+| 2    | **Dunois**     | **7** | 2     | Varsagus    | 3    |  |
 
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
 
-| Seed | Player 1     |       |       | Player 2           | Seed |  | 
-|:------:|:--------------|:-------:|:-------:|--------------------:|:------:|--| 
-| 16   | Eboryte      | 0     | **6** | **TyrantsEye2014** | 9    |  | 
-| 4    | **-Marika**  | **6** | 1     | Nezol              | 12   |  | 
-| 2    | **Dunois**   | **6** | 0     | PhasiconN          | 7    |  | 
-| 3    | **Varsagus** | **6** | 3     | Xidorn             | 11   |  | 
+| Seed | Player 1     |       |       | Player 2           | Seed |  |
+|:------:|:--------------|:-------:|:-------:|--------------------:|:------:|--|
+| 16   | Eboryte      | 0     | **6** | **TyrantsEye2014** | 9    |  |
+| 4    | **-Marika**  | **6** | 1     | Nezol              | 12   |  |
+| 2    | **Dunois**   | **6** | 0     | PhasiconN          | 7    |  |
+| 3    | **Varsagus** | **6** | 3     | Xidorn             | 11   |  |
 
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
 
-| Seed | Player 1      |       |       | Player 2           | Seed |     | 
-|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
-| 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     | 
-| 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     | 
-| 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     | 
-| 5    | Fraye         | 0     | **5** | **Nezol**          | 12   | WBD | 
-| 2    | **Dunois**    | **5** | 1     | Natsume-           | 18   |     | 
-| 7    | **PhasiconN** | **5** | 1     | Oooodriiin         | 10   |     | 
-| 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     | 
-| 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     | 
+| Seed | Player 1      |       |       | Player 2           | Seed |     |
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|
+| 32   | Afireee       | 1     | **5** | **Eboryte**        | 16   |     |
+| 8    | - Neon -      | 2     | **5** | **TyrantsEye2014** | 9    |     |
+| 4    | **-Marika**   | **5** | 0     | xX_MusicMan_Xx     | 13   |     |
+| 5    | Fraye         | 0     | **5** | **Nezol**          | 12   | WBD |
+| 2    | **Dunois**    | **5** | 1     | Natsume-           | 18   |     |
+| 7    | **PhasiconN** | **5** | 1     | Oooodriiin         | 10   |     |
+| 3    | **Varsagus**  | **5** | 1     | \[Vik\]            | 14   |     |
+| 6    | fixedbyglue   | 4     | **5** | **Xidorn**         | 11   |     |
 
 #### Round of 32
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
-| Seed | Player 1           |       |       | Player 2      | Seed |     | 
+| Seed | Player 1           |       |       | Player 2      | Seed |     |
 |:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
-| 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD | 
-| 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     | 
-| 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD | 
-| 9    | **TyrantsEye2014** | **4** | 0     | SkyLifeHope   | 24   |     | 
-| 4    | **-Marika**        | **4** | 0     | Aharu         | 29   |     | 
-| 13   | **xX_MusicMan_Xx** | **4** | 2     | xchan         | 20   |     | 
-| 5    | **Fraye**          | **4** | 0     | [Paradoxum]   | 28   | WBD | 
-| 12   | **Nezol**          | **4** | 1     | CharlesMoveOn | 21   |     | 
-| 2    | **Dunois**         | **4** | 0     | Itsvet        | 31   |     | 
-| 15   | NymphSan05         | 0     | **4** | **Natsume-**  | 18   | WBD | 
-| 7    | **PhasiconN**      | **4** | 0     | Awishi        | 26   |     | 
-| 10   | **Oooodriiin**     | **4** | 0     | Caernarvon725 | 23   |     | 
-| 3    | **Varsagus**       | **4** | 0     | Mietzu        | 30   |     | 
-| 14   | **[Vik]**          | **4** | 0     | Marika        | 19   | WBD | 
-| 6    | **fixedbyglue**    | **4** | 0     | Scylz         | 27   |     | 
-| 11   | **Xidorn**         | **4** | 2     | Rimazii       | 22   |     | 
+| 1    | HaruTachi-         | 0     | **4** | **Afireee**   | 32   | WBD |
+| 16   | **Eboryte**        | **4** | 3     | NepNep-       | 17   |     |
+| 8    | **- Neon -**       | **4** | 0     | CloudBlaze    | 25   | WBD |
+| 9    | **TyrantsEye2014** | **4** | 0     | SkyLifeHope   | 24   |     |
+| 4    | **-Marika**        | **4** | 0     | Aharu         | 29   |     |
+| 13   | **xX_MusicMan_Xx** | **4** | 2     | xchan         | 20   |     |
+| 5    | **Fraye**          | **4** | 0     | [Paradoxum]   | 28   | WBD |
+| 12   | **Nezol**          | **4** | 1     | CharlesMoveOn | 21   |     |
+| 2    | **Dunois**         | **4** | 0     | Itsvet        | 31   |     |
+| 15   | NymphSan05         | 0     | **4** | **Natsume-**  | 18   | WBD |
+| 7    | **PhasiconN**      | **4** | 0     | Awishi        | 26   |     |
+| 10   | **Oooodriiin**     | **4** | 0     | Caernarvon725 | 23   |     |
+| 3    | **Varsagus**       | **4** | 0     | Mietzu        | 30   |     |
+| 14   | **[Vik]**          | **4** | 0     | Marika        | 19   | WBD |
+| 6    | **fixedbyglue**    | **4** | 0     | Scylz         | 27   |     |
+| 11   | **Xidorn**         | **4** | 2     | Rimazii       | 22   |     |
 
 #### Qualifiers
 
@@ -839,66 +840,66 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals Week 2
 
-| Seed | Player 1      |       |   | Player 2    | Seed |     | 
-|:------:|:---------------|:-------:|:---:|-------------:|:------:|-----| 
-| 2    | **-Nicotine** | **7** | 3 | KaganimeRin | 8    |     | 
-| 1    | **Roido**     | **7** | 0 | Nicotine    | 2    | WBD | 
+| Seed | Player 1      |       |   | Player 2    | Seed |     |
+|:------:|:---------------|:-------:|:---:|-------------:|:------:|-----|
+| 2    | **-Nicotine** | **7** | 3 | KaganimeRin | 8    |     |
+| 1    | **Roido**     | **7** | 0 | Nicotine    | 2    | WBD |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml)
 
-| Seed | Player 1   |       |       | Player 2        | Seed |     | 
-|:------:|:------------|:-------:|:-------:|-----------------:|:------:|-----| 
-| 5    | **-MomoX** | **7** | 2     | Laqure          | 6    |     | 
-| 3    | - Kielzu - | 0     | **7** | **KaganimeRin** | 8    | WBD | 
-| 5    | -MomoX     | 3     | **7** | **KaganimeRin** | 8    |     | 
-| 1    | **Roido**  | **7** | 2     | -Nicotine       | 2    |     | 
+| Seed | Player 1   |       |       | Player 2        | Seed |     |
+|:------:|:------------|:-------:|:-------:|-----------------:|:------:|-----|
+| 5    | **-MomoX** | **7** | 2     | Laqure          | 6    |     |
+| 3    | - Kielzu - | 0     | **7** | **KaganimeRin** | 8    | WBD |
+| 5    | -MomoX     | 3     | **7** | **KaganimeRin** | 8    |     |
+| 1    | **Roido**  | **7** | 2     | -Nicotine       | 2    |     |
 
 #### Semifinals and Loser's Bracket Round 2 and 3
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml)
 
-| Seed | Player 1        |       |       | Player 2        | Seed |     | 
-|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
-| 8    | **KaganimeRin** | **6** | 0     | Contingent      | 11   | WBD | 
-| 4    | **Crowley**     | **6** | 0     | princealbert10  | 15   | WBD | 
-| 10   | **AJamez**      | **6** | 0     | Weazle          | 13   | WBD | 
-| 6    | **Laqure**      | **6** | 0     | JeirYagtama     | 9    | WBD | 
-| 4    | Crowley         | 4     | **6** | **KaganimeRin** | 8    |     | 
-| 6    | **Laqure**      | **6** | 0     | AJamez          | 10   | WBD | 
-| 1    | **Roido**       | **6** | 3     | -MomoX          | 5    |     | 
-| 2    | **-Nicotine**   | **6** | 3     | * Kielzu -      | 3    |     | 
+| Seed | Player 1        |       |       | Player 2        | Seed |     |
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----|
+| 8    | **KaganimeRin** | **6** | 0     | Contingent      | 11   | WBD |
+| 4    | **Crowley**     | **6** | 0     | princealbert10  | 15   | WBD |
+| 10   | **AJamez**      | **6** | 0     | Weazle          | 13   | WBD |
+| 6    | **Laqure**      | **6** | 0     | JeirYagtama     | 9    | WBD |
+| 4    | Crowley         | 4     | **6** | **KaganimeRin** | 8    |     |
+| 6    | **Laqure**      | **6** | 0     | AJamez          | 10   | WBD |
+| 1    | **Roido**       | **6** | 3     | -MomoX          | 5    |     |
+| 2    | **-Nicotine**   | **6** | 3     | * Kielzu -      | 3    |     |
 
 #### Quarterfinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
 
-| Seed | Player 1           |       |       | Player 2        | Seed |     | 
+| Seed | Player 1           |       |       | Player 2        | Seed |     |
 |:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
-| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     | 
-| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     | 
-| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD | 
-| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD | 
-| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     | 
-| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     | 
-| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD | 
-| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     | 
+| 16   | justin1709         | 0     | **5** | **JeirYagtama** | 9    |     |
+| 13   | **Weazle**         | **5** | 1     | kaarin          | 12   |     |
+| 15   | **princealbert10** | **5** | 0     | Kuya Frex       | 7    | WBD |
+| 14   | oSuTroop3r         | 0     | **5** | **Contingent**  | 11   | WBD |
+| 1    | **Roido**          | **5** | 3     | KaganimeRin     | 8    |     |
+| 4    | Crowley            | 2     | **5** | **-MomoX**      | 5    |     |
+| 2    | **-Nicotine**      | **5** | 0     | AJamez          | 10   | WBD |
+| 3    | **- Kielzu -**     | **5** | 1     | Laqure          | 6    |     |
 
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
-| Seed | Player 1        |       |       | Player 2       | Seed |     | 
-|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----| 
-| 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     | 
-| 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD | 
-| 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     | 
-| 5    | **-MomoX**      | **4** | 0     | kaarin         | 12   |     | 
-| 2    | **-Nicotine**   | **4** | 0     | princealbert10 | 15   | WBD | 
-| 7    | Kuya Frex       | 0     | **4** | **AJamez**     | 10   |     | 
-| 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD | 
-| 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD | 
+| Seed | Player 1        |       |       | Player 2       | Seed |     |
+|:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|
+| 1    | **Roido**       | **4** | 0     | justin1709     | 16   |     |
+| 8    | **KaganimeRin** | **4** | 0     | JeirYagtama    | 9    | WBD |
+| 4    | **Crowley**     | **4** | 0     | Weazle         | 13   |     |
+| 5    | **-MomoX**      | **4** | 0     | kaarin         | 12   |     |
+| 2    | **-Nicotine**   | **4** | 0     | princealbert10 | 15   | WBD |
+| 7    | Kuya Frex       | 0     | **4** | **AJamez**     | 10   |     |
+| 3    | **- Kielzu -**  | **4** | 0     | oSuTroop3r     | 14   | WBD |
+| 6    | **Laqure**      | **4** | 0     | Contingent     | 11   | WBD |
 
 ### osu!mania 4K
 
@@ -906,98 +907,98 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml)
 
-| Seed | Player 1        |       |       | Player 2       | Seed |  | 
-|:------:|:-----------------|:-------:|:-------:|----------------:|:------:|--| 
-| 3    | Vigne Tsukinose | 2     | **7** | **exodia3000** | 8    |  | 
-| 1    | **joseee-**     | **7** | 6     | exodia3000     | 8    |  | 
+| Seed | Player 1        |       |       | Player 2       | Seed |  |
+|:------:|:-----------------|:-------:|:-------:|----------------:|:------:|--|
+| 3    | Vigne Tsukinose | 2     | **7** | **exodia3000** | 8    |  |
+| 1    | **joseee-**     | **7** | 6     | exodia3000     | 8    |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml)
 
-| Seed | Player 1       |       |       | Player 2        | Seed |     | 
-|:------:|:----------------|:-------:|:-------:|-----------------:|:------:|-----| 
-| 4    | **Toyohime-**  | **7** | 6     | MapleSyrup-     | 2    |     | 
-| 7    | Mk3605         | 3     | **7** | **exodia3000**  | 8    |     | 
-| 8    | **exodia3000** | **7** | 1     | Toyohime-       | 4    |     | 
-| 1    | **joseee-**    | **7** | 0     | Vigne Tsukinose | 3    | WBD | 
+| Seed | Player 1       |       |       | Player 2        | Seed |     |
+|:------:|:----------------|:-------:|:-------:|-----------------:|:------:|-----|
+| 4    | **Toyohime-**  | **7** | 6     | MapleSyrup-     | 2    |     |
+| 7    | Mk3605         | 3     | **7** | **exodia3000**  | 8    |     |
+| 8    | **exodia3000** | **7** | 1     | Toyohime-       | 4    |     |
+| 1    | **joseee-**    | **7** | 0     | Vigne Tsukinose | 3    | WBD |
 
 #### Semifinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml)
 
-| Seed | Player 1        |       |       | Player 2            | Seed |     | 
-|:------:|:-----------------|:-------:|:-------:|---------------------:|:------:|-----| 
-| 8    | **exodia3000**  | **6** | 0     | windrush123         | 5    |     | 
-| 2    | **MapleSyrup-** | **6** | 0     | nyx-                | 6    | WBD | 
-| 1    | **joseee-**     | **6** | 0     | Toyohime-           | 4    |     | 
-| 7    | Mk3605          | 2     | **6** | **Vigne Tsukinose** | 3    |     | 
+| Seed | Player 1        |       |       | Player 2            | Seed |     |
+|:------:|:-----------------|:-------:|:-------:|---------------------:|:------:|-----|
+| 8    | **exodia3000**  | **6** | 0     | windrush123         | 5    |     |
+| 2    | **MapleSyrup-** | **6** | 0     | nyx-                | 6    | WBD |
+| 1    | **joseee-**     | **6** | 0     | Toyohime-           | 4    |     |
+| 7    | Mk3605          | 2     | **6** | **Vigne Tsukinose** | 3    |     |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFEzcUVlpMMYroSYsEwsiaop5BnH_1JCUZGPk-EALl4BxAWL0FyIbISaio8QdCEMi1A_2HRxOiX-gl/pubhtml)
 
-| Seed | Player 1            |       |       | Player 2    | Seed |  | 
-|:------:|:---------------------|:-------:|:-------:|-------------:|:------:|--| 
-| 1    | **joseee-**         | **5** | 2     | exodia3000  | 8    |  | 
-| 4    | **Toyohime-**       | **5** | 4     | windrush123 | 5    |  | 
-| 2    | MapleSyrup-         | 1     | **5** | **Mk3605**  | 7    |  | 
-| 3    | **Vigne Tsukinose** | **5** | 1     | nyx-        | 6    |  | 
+| Seed | Player 1            |       |       | Player 2    | Seed |  |
+|:------:|:---------------------|:-------:|:-------:|-------------:|:------:|--|
+| 1    | **joseee-**         | **5** | 2     | exodia3000  | 8    |  |
+| 4    | **Toyohime-**       | **5** | 4     | windrush123 | 5    |  |
+| 2    | MapleSyrup-         | 1     | **5** | **Mk3605**  | 7    |  |
+| 3    | **Vigne Tsukinose** | **5** | 1     | nyx-        | 6    |  |
 
 
 #### Group Stage
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml)
 
-| Seed | Player 1              |       |       | Player 2            | Seed |     | 
-|:----:|:-----------------------|:-------:|:-------:|---------------------:|:------:|-----| 
-| 4    | **nyx-**              | **4** | 0     | Nelvin\_27          | 7    | WBD | 
-| 4    | nyx-                  | 3     | **4** | **Vigne Tsukinose** | 12   |     | 
-| 4    | **nyx-**              | **4** | 3     | GTXCZE              | 14   |     | 
-| 7    | Nelvin\_27            | 0     | **4** | **Vigne Tsukinose** | 12   | WBD | 
-| 7    | Nelvin\_27            | 0     | **4** | **GTXCZE**          | 14   | WBD | 
-| 12   | **Vigne Tsukinose**   | **4** | 1     | GTXCZE              | 14   |     | 
-| 2    | **MapleSyrup-**       | **4** | 3     | TheArge             | 5    |     | 
-| 2    | **MapleSyrup-**       | **4** | 1     | Trainer-            | 9    |     | 
-| 2    | **MapleSyrup-**       | **4** | 0     | exodia3000          | 13   |     | 
-| 5    | **TheArge**           | **4** | 0     | Trainer-            | 9    | WBD | 
-| 5    | TheArge               | 0     | **4** | **exodia3000**      | 13   | WBD | 
-| 9    | Trainer-              | 3     | **4** | **exodia3000**      | 13   |     | 
-| 3    | **windrush123**       | **4** | 0     | FeveredNickel       | 8    |     | 
-| 3    | windrush123           | 3     | **4** | **Toyohime-**       | 11   |     | 
-| 3    | **windrush123**       | **4** | 0     | Baltz               | 15   |     | 
-| 8    | FeveredNickel         | 1     | **4** | **Toyohime-**       | 11   |     | 
-| 8    | FeveredNickel         | 1     | **4** | **Baltz**           | 15   |     | 
-| 11   | **Toyohime-**         | **4** | 2     | Baltz               | 15   |     | 
-| 1    | **joseee-**           | **4** | 0     | Mk3605              | 6    |     | 
-| 1    | **joseee-**           | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
-| 1    | **joseee-**           | **4** | 0     | Mentai Cosmic       | 17   |     | 
-| 6    | **Mk3605**            | **4** | 0     | \_Shirayukihime\_   | 10   | WBD | 
-| 6    | **Mk3605**            | **4** | 1     | Mentai Cosmic       | 17   |     | 
-| 10   | **\_Shirayukihime\_** | **4** | 0     | Mentai Cosmic       | 17   | WBD | 
+| Seed | Player 1              |       |       | Player 2            | Seed |     |
+|:----:|:-----------------------|:-------:|:-------:|---------------------:|:------:|-----|
+| 4    | **nyx-**              | **4** | 0     | Nelvin\_27          | 7    | WBD |
+| 4    | nyx-                  | 3     | **4** | **Vigne Tsukinose** | 12   |     |
+| 4    | **nyx-**              | **4** | 3     | GTXCZE              | 14   |     |
+| 7    | Nelvin\_27            | 0     | **4** | **Vigne Tsukinose** | 12   | WBD |
+| 7    | Nelvin\_27            | 0     | **4** | **GTXCZE**          | 14   | WBD |
+| 12   | **Vigne Tsukinose**   | **4** | 1     | GTXCZE              | 14   |     |
+| 2    | **MapleSyrup-**       | **4** | 3     | TheArge             | 5    |     |
+| 2    | **MapleSyrup-**       | **4** | 1     | Trainer-            | 9    |     |
+| 2    | **MapleSyrup-**       | **4** | 0     | exodia3000          | 13   |     |
+| 5    | **TheArge**           | **4** | 0     | Trainer-            | 9    | WBD |
+| 5    | TheArge               | 0     | **4** | **exodia3000**      | 13   | WBD |
+| 9    | Trainer-              | 3     | **4** | **exodia3000**      | 13   |     |
+| 3    | **windrush123**       | **4** | 0     | FeveredNickel       | 8    |     |
+| 3    | windrush123           | 3     | **4** | **Toyohime-**       | 11   |     |
+| 3    | **windrush123**       | **4** | 0     | Baltz               | 15   |     |
+| 8    | FeveredNickel         | 1     | **4** | **Toyohime-**       | 11   |     |
+| 8    | FeveredNickel         | 1     | **4** | **Baltz**           | 15   |     |
+| 11   | **Toyohime-**         | **4** | 2     | Baltz               | 15   |     |
+| 1    | **joseee-**           | **4** | 0     | Mk3605              | 6    |     |
+| 1    | **joseee-**           | **4** | 0     | \_Shirayukihime\_   | 10   | WBD |
+| 1    | **joseee-**           | **4** | 0     | Mentai Cosmic       | 17   |     |
+| 6    | **Mk3605**            | **4** | 0     | \_Shirayukihime\_   | 10   | WBD |
+| 6    | **Mk3605**            | **4** | 1     | Mentai Cosmic       | 17   |     |
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Mentai Cosmic       | 17   | WBD |
 
 #### Post-qualification Play-offs
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
-| Seed | Player 1              |       |       | Player 2          | Seed |     | 
+| Seed | Player 1              |       |       | Player 2          | Seed |     |
 |:------:|:---------------|:-------:|:-------:|--------------------:|:------:|-----|  
-| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD | 
-| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     | 
-| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     | 
-| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     | 
-| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     | 
-| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     | 
-| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     | 
-| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     | 
-| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD | 
-| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD | 
-| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     | 
-| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     | 
-| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     | 
-| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     | 
-| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     | 
-| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     | 
+| 16   | inverselina           | 0     | **4** | **Mentai Cosmic** | 17   | WBD |
+| 15   | **Baltz**             | **4** | 0     | \[\_blank-\]      | 18   |     |
+| 14   | **GTXCZE**            | **4** | 0     | EikiShiki60       | 19   |     |
+| 13   | **exodia3000**        | **4** | 1     | Kaleiodo          | 20   |     |
+| 12   | **Vigne Tsukinose**   | **4** | 1     | takedown411       | 21   |     |
+| 11   | **Toyohime-**         | **4** | 0     | Chez              | 22   |     |
+| 10   | **\_Shirayukihime\_** | **4** | 0     | Hezekiah-         | 23   |     |
+| 9    | **Trainer-**          | **4** | 0     | Victoria Artois   | 24   |     |
+| 28   | szc19                 | 0     | **4** | **Inoariusu**     | 29   | WBD |
+| 27   | **Batujitsu**         | **4** | 0     | lord_waker        | 30   | WBD |
+| 26   | Lordie09              | 2     | **4** | **vincent4399**   | 31   |     |
+| 25   | **Otaku_Gamer_INF**   | **4** | 3     | Altertis          | 32   |     |
+| 5    | **TheArge**           | **4** | 1     | Inoariusu         | 29   |     |
+| 6    | **Mk3605**            | **4** | 0     | Batujitsu         | 27   |     |
+| 7    | **Nelvin\_27**        | **4** | 2     | vincent4399       | 31   |     |
+| 8    | **FeveredNickel**     | **4** | 2     | Otaku\_Gamer\_INF | 25   |     |
 
 #### Qualifiers
 
@@ -1009,72 +1010,72 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml)
 
-| Seed | Player 1       |       |       | Player 2            | Seed |  | 
-|:------:|:----------------|:-------:|:-------:|---------------------:|------:|--| 
-| 1    | MapleSyrup     | 0     | **7** | **Vigne Tsukinose** | 3    |  | 
-| 2    | **cieloday05** | **7** | 1     | Vigne Tsukinose     | 3    |  | 
+| Seed | Player 1       |       |       | Player 2            | Seed |  |
+|:------:|:----------------|:-------:|:-------:|---------------------:|------:|--|
+| 1    | MapleSyrup     | 0     | **7** | **Vigne Tsukinose** | 3    |  |
+| 2    | **cieloday05** | **7** | 1     | Vigne Tsukinose     | 3    |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml)
 
-| Seed | Player 1            |       |       | Player 2       | Seed |     | 
-|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----| 
-| 5    | **LackPoints**      | **7** | 0     | joseee-        | 6    | WBD | 
-| 3    | **Vigne Tsukinose** | **7** | 0     | - Kura -       | 4    | WBD | 
-| 3    | **Vigne Tsukinose** | **7** | 0     | LackPoints     | 5    |     | 
-| 1    | MapleSyrup-         | 0     | **7** | **cieloday05** | 2    |     | 
+| Seed | Player 1            |       |       | Player 2       | Seed |     |
+|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----|
+| 5    | **LackPoints**      | **7** | 0     | joseee-        | 6    | WBD |
+| 3    | **Vigne Tsukinose** | **7** | 0     | - Kura -       | 4    | WBD |
+| 3    | **Vigne Tsukinose** | **7** | 0     | LackPoints     | 5    |     |
+| 1    | MapleSyrup-         | 0     | **7** | **cieloday05** | 2    |     |
 
 #### Semifinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml)
 
-| Seed | Player 1        |       |       | Player 2        | Seed |     | 
-|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----| 
-| 8    | nyx-            | 0     | **6** | **- Kura -**    | 4    | WBD | 
-| 7    | Tots            | 0     | **6** | **joseee-**     | 6    | WBD | 
-| 1    | **MapleSyrup-** | **6** | 0     | LackPoints      | 5    |     | 
-| 2    | **cieloday05**  | **6** | 0     | Vigne Tsukinose | 3    |     | 
+| Seed | Player 1        |       |       | Player 2        | Seed |     |
+|:------:|:-----------------|:-------:|:-------:|-----------------:|:------:|-----|
+| 8    | nyx-            | 0     | **6** | **- Kura -**    | 4    | WBD |
+| 7    | Tots            | 0     | **6** | **joseee-**     | 6    | WBD |
+| 1    | **MapleSyrup-** | **6** | 0     | LackPoints      | 5    |     |
+| 2    | **cieloday05**  | **6** | 0     | Vigne Tsukinose | 3    |     |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvCCksLFHwERSX-QL_ICRv8SptBrnlt-bjzlxQgk40gADlWlPWV9RDIOAisFC83wOseSvTkuHirYHY/pubhtml)
 
-| Seed | Player 1            |       |       | Player 2       | Seed |     | 
-|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----| 
-| 1    | **MapleSyrup-**     | **5** | 0     | nyx-           | 8    |     | 
-| 4    | - Kura -            | 0     | **5** | **LackPoints** | 5    | WBD | 
-| 2    | **cieloday05**      | **5** | 0     | Tots           | 7    | WBD | 
-| 3    | **Vigne Tsukinose** | **5** | 0     | joseee-        | 6    | WBD | 
+| Seed | Player 1            |       |       | Player 2       | Seed |     |
+|:------:|:---------------------|:-------:|:-------:|----------------:|:------:|-----|
+| 1    | **MapleSyrup-**     | **5** | 0     | nyx-           | 8    |     |
+| 4    | - Kura -            | 0     | **5** | **LackPoints** | 5    | WBD |
+| 2    | **cieloday05**      | **5** | 0     | Tots           | 7    | WBD |
+| 3    | **Vigne Tsukinose** | **5** | 0     | joseee-        | 6    | WBD |
 
 
 #### Group Stage
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml)
 
-| Seed | Player 1              |       |       | Player 2          | Seed |     | 
-|:------:|:-----------------------|:-------:|:-------:|-------------------:|:------:|-----| 
-| 3    | **cieloday05**        | **4** | 1     | joseee-           | 6    |     | 
-| 3    | **cieloday05**        | **4** | 0     | FeveredNickel     | 9    | WBD | 
-| 3    | **cieloday05**        | **4** | 0     | DrawdeX           | 14   | WBD | 
-| 6    | **joseee-**           | **4** | 0     | FeveredNickel     | 9    |     | 
-| 6    | **joseee-**           | **4** | 0     | DrawdeX           | 14   |     | 
-| 9    | **FeveredNickel**     | **4** | 0     | DrawdeX           | 14   | WBD | 
-| 2    | **- Kura -**          | **4** | 2     | LackPoints        | 5    |     | 
-| 2    | **- Kura -**          | **4** | 1     | windrush123       | 12   |     | 
-| 2    | **- Kura -**          | **4** | 0     | Chez              | 13   | WBD | 
-| 5    | **LackPoints**        | **4** | 0     | windrush123       | 12   |     | 
-| 5    | **LackPoints**        | **4** | 0     | Chez              | 13   | WBD | 
-| 12   | **windrush123**       | **4** | 0     | Chez              | 13   | WBD | 
-| 1    | **MapleSyrup-**       | **4** | 1     | Tots              | 8    |     | 
-| 1    | **MapleSyrup-**       | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
-| 1    | **MapleSyrup-**       | **4** | 0     | - Aries -         | 15   |     | 
-| 8    | **Tots**              | **4** | 0     | \_Shirayukihime\_ | 11   | WBD | 
-| 8    | **Tots**              | **4** | 0     | - Aries -         | 15   | WBD | 
-| 11   | **\_Shirayukihime\_** | **4** | 0     | - Aries -         | 15   | WBD | 
-| 4    | **Vigne Tsukinose**   | **4** | 1     | fer789            | 7    |     | 
-| 4    | **Vigne Tsukinose**   | **4** | 0     | nyx-              | 10   |     | 
-| 7    | fer789                | 2     | **4** | **nyx-**          | 10   |     | 
+| Seed | Player 1              |       |       | Player 2          | Seed |     |
+|:------:|:-----------------------|:-------:|:-------:|-------------------:|:------:|-----|
+| 3    | **cieloday05**        | **4** | 1     | joseee-           | 6    |     |
+| 3    | **cieloday05**        | **4** | 0     | FeveredNickel     | 9    | WBD |
+| 3    | **cieloday05**        | **4** | 0     | DrawdeX           | 14   | WBD |
+| 6    | **joseee-**           | **4** | 0     | FeveredNickel     | 9    |     |
+| 6    | **joseee-**           | **4** | 0     | DrawdeX           | 14   |     |
+| 9    | **FeveredNickel**     | **4** | 0     | DrawdeX           | 14   | WBD |
+| 2    | **- Kura -**          | **4** | 2     | LackPoints        | 5    |     |
+| 2    | **- Kura -**          | **4** | 1     | windrush123       | 12   |     |
+| 2    | **- Kura -**          | **4** | 0     | Chez              | 13   | WBD |
+| 5    | **LackPoints**        | **4** | 0     | windrush123       | 12   |     |
+| 5    | **LackPoints**        | **4** | 0     | Chez              | 13   | WBD |
+| 12   | **windrush123**       | **4** | 0     | Chez              | 13   | WBD |
+| 1    | **MapleSyrup-**       | **4** | 1     | Tots              | 8    |     |
+| 1    | **MapleSyrup-**       | **4** | 0     | \_Shirayukihime\_ | 11   | WBD |
+| 1    | **MapleSyrup-**       | **4** | 0     | - Aries -         | 15   |     |
+| 8    | **Tots**              | **4** | 0     | \_Shirayukihime\_ | 11   | WBD |
+| 8    | **Tots**              | **4** | 0     | - Aries -         | 15   | WBD |
+| 11   | **\_Shirayukihime\_** | **4** | 0     | - Aries -         | 15   | WBD |
+| 4    | **Vigne Tsukinose**   | **4** | 1     | fer789            | 7    |     |
+| 4    | **Vigne Tsukinose**   | **4** | 0     | nyx-              | 10   |     |
+| 7    | fer789                | 2     | **4** | **nyx-**          | 10   |     |
 
 #### Qualifiers
 
@@ -1084,9 +1085,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ## Rules
 
-### Game Modes and Scoring Format 
+### Game Modes and Scoring Format
 
-- The tournament will host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge. 
+- The tournament will host the following game modes: osu!standard, osu!catch, osu!mania 4K, and osu!mania 7K. In addition, the tournament will use **Score v2** as its scoring format. This requires players to play on the following osu! Builds: Stable (Latest), Beta, and Cutting Edge.
 
 ### Tournament Formats
 
@@ -1096,44 +1097,44 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
-### Mods Used in the Tournament 
+### Mods Used in the Tournament
 
-#### osu!standard 
+#### osu!standard
 
-- Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool. 
+- Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
 
-	- **NoMod** - No mod is to be used at all for the beatmap. 
-	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool. 
-	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool. 
+	- **NoMod** - No mod is to be used at all for the beatmap.
+	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
 	- **DT (Double Time)** - The Double Time mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.  
-	- **FreeMod** – Both contestants must use at least ONE mod if the map chosen falls into the FreeMod (bar DT) category of the mappool. 
+	- **FreeMod** – Both contestants must use at least ONE mod if the map chosen falls into the FreeMod (bar DT) category of the mappool.
 	
 #### osu!catch
 
-- Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool. 
+- Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
 
-	- **NoMod** - No mod is to be used at all for the beatmap. 
-	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool. 
-	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool. 
+	- **NoMod** - No mod is to be used at all for the beatmap.
+	- **HR (Hard Rock)** – The Hard Rock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+	- **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
 	- **DT (Double Time)** – The Double Time will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 	
-- The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket. 
+- The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
 #### osu!mania
 
-- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick. 
+- For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (Fade In)**, or **FL (Flashlight)** during a pick.
 
-### Eligibility and Registration 
+### Eligibility and Registration
 
-- Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted. 
+- Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted.
 
-- Players who have shown exemplary performances over the previous months will be given an invitation to join the tournament and will be reserved a registration slot upon acceptance. 
+- Players who have shown exemplary performances over the previous months will be given an invitation to join the tournament and will be reserved a registration slot upon acceptance.
 
-- Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney. 
+- Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney.
 
-- The registration phase of the tournament will begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments. 
+- The registration phase of the tournament will begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments.
 
-- **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**. 
+- **The tournament staff has the right to revoke a player's registration if there is enough evidence against them**.
 
 ### Qualifier Round
 
@@ -1149,11 +1150,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
-#### osu!mania 4K and 7K 
+#### osu!mania 4K and 7K
 
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to thirty-two (32) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 
-- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend. 
+- Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 
 - The room name format is as follows: ``oPHST18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
 
@@ -1167,7 +1168,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 	
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 
-### Match Proper 
+### Match Proper
 
 #### Preparation
 
@@ -1175,35 +1176,35 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - The room name format for the three tournaments is: ``oPHST18: (Player 1) vs (Player 2)``
 
-- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner. 
+- Defaulting time is ten (10) minutes directly after the actual match schedule. The player who fails to appear in the match within that time period will be considered as a no-show and the player inside the room already will be declared the winner. If both players do not appear, the player with the higher seed will be considered the winner.
 
 - It is asked of the players to allow non-friend PM's in order for the invites to arrive.
 
 #### Warm-up Phase
 
-- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](https://osu.ppy.sh/wiki/Rules)) will be disallowed.  
+- Each Player is allowed to select warm-up charts for them to play in the room in whatever purpose they have. These **must be uploaded to the osu! servers and have less than four (4) minutes of drain time**. Warm-ups that contain questionable content (as defined by the [osu! Community Rules](/wiki/Rules)) will be disallowed.  
 
-#### Bans and Picks 
+#### Bans and Picks
 
 - After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
-#### Match Format 
+#### Match Format
 
-- Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows: 
+- Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
 
-	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4) 
-	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5) 
-	- osu!standard Quarterfinals/osu!catch and osu!mania Semifinals - Best-of-11 (First to 6) 
-	- osu!standard Semifinals/osu!catch and osu!mania Finals Week 1 - Best-of-13 (First to 7) 
-	- osu!standard Finals/osu!catch and osu!mania Finals Week 2 - Best-of-13 (First to 7) 
+	- osu!standard Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4)
+	- osu!standard Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5)
+	- osu!standard Quarterfinals/osu!catch and osu!mania Semifinals - Best-of-11 (First to 6)
+	- osu!standard Semifinals/osu!catch and osu!mania Finals Week 1 - Best-of-13 (First to 7)
+	- osu!standard Finals/osu!catch and osu!mania Finals Week 2 - Best-of-13 (First to 7)
 
-- For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**. 
+- For osu!standard, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 
-- In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool. 
+- In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool.
 
-#### Mappools and their Construction 
+#### Mappools and their Construction
 
 - Each round has its own mappool, with increasing difficulty as the tournament progresses. For osu!standard and osu!catch, the mappool is made to accomodate the mods to be used as explained in their respective sections in these rules.
 
@@ -1211,63 +1212,63 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - For osu!catch and osu!mania, the Loser's Bracket Finals will be played using the Finals Week 2 mappool of the respective game modes.
 
-### Rescheduling 
+### Rescheduling
 
-- Players are allowed to reschedule their matches as long as their opponent have a mutual agreement on this arrangement, and is **made before the Thursday prior to the match**. This is for the staff to be able to adjust their general schedules for the round, including the streams. If the arrangement is made after the set deadline, the match will still be rescheduled, but there is no assurance that it will be streamed. 
+- Players are allowed to reschedule their matches as long as their opponent have a mutual agreement on this arrangement, and is **made before the Thursday prior to the match**. This is for the staff to be able to adjust their general schedules for the round, including the streams. If the arrangement is made after the set deadline, the match will still be rescheduled, but there is no assurance that it will be streamed.
 
-- For reschedules made after the deadline, the staff will only consider this if given a valid reason (academics, sickness, family matters) with proof. 
+- For reschedules made after the deadline, the staff will only consider this if given a valid reason (academics, sickness, family matters) with proof.
 
-### Disconnections 
+### Disconnections
 
 - In case disconnections happen during a match, the following guidelines are given:
 
 	- If the player disconnects within 10 seconds of the drain time of the pick (the pick is being played), the play will be aborted and will be repeated once the player re-enters, or gets moved into the room.
-	- If the player disconnects within 30 seconds of the drain time of the pick, the play will continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard. 
-	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play will continue and will be counted as part of the scoreboard. 
-	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used will be counted as a point for their opponent. (Only applies for disconnections during the play) 
+	- If the player disconnects within 30 seconds of the drain time of the pick, the play will continue BUT it will be decided by both players whether to repeat the play, or the play be counted as part of the scoreboard.
+	- If the player disconnects beyond 30 seconds of the drain time of the pick, the play will continue and will be counted as part of the scoreboard.
+	- In order to avoid abuse of the system, each player has only one (1) disconnection token per match and is used up once the player does. Any disconnection made after the token is used will be counted as a point for their opponent. (Only applies for disconnections during the play)
 	- Players are only given 10 minutes to return to the room upon disconnection. If the player fails to return, the match score will be frozen and will be considered the official result.
-	- If the player who leads the score is the one who disconnected, the match will continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player will be disqualified from the match. 
-	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot. 
+	- If the player who leads the score is the one who disconnected, the match will continue, regardless of the player's time of return, and as long as the opponent is present. If the said player fails to return within 30 minutes after disconnection, the player will be disqualified from the match.
+	- Situations uncovered by these clauses (stuck at "Waiting for Other Players" screen, Player disconnection a few seconds prior to score submission, etc.) will be decided immediately by the staff on-the-spot.
 	
-### Player and Staff Conduct 
+### Player and Staff Conduct
 
-- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament. 
+- Players are expected to be informed about the Rules and Guidelines of this tournament. In addition, the staff will assure a good experience for the players during the tournament.
 
-#### Match Conduct 
+#### Match Conduct
 
-- The Players and staff are expected to adhere to the Rules and Regulations of the osu! Community. If the player's behavior during the match is not tolerable anymore, the staff has the decision whether to terminate the match and freeze at current score, disqualify the player from the match, or disqualify the player in the tournament as a whole. The staff also have the discretion to change the referee of the match, or kick him/her out of the staff based on the same grounds. 
+- The Players and staff are expected to adhere to the Rules and Regulations of the osu! Community. If the player's behavior during the match is not tolerable anymore, the staff has the decision whether to terminate the match and freeze at current score, disqualify the player from the match, or disqualify the player in the tournament as a whole. The staff also have the discretion to change the referee of the match, or kick him/her out of the staff based on the same grounds.
 
-#### Overall Conduct 
+#### Overall Conduct
 
 - The players and staff are expected to not be a douche. If the player is seen to be disconnecting from the match without proper justification, the staff may decide to impose the penalties to their discretion. Also, if the player is in a match that determines the Top 3 of the tournament, regardless of division, and no-shows on that match without proper justification, the player will be deemed disqualified from the tournament as a whole, and the tournament rankings will be adjusted accordingly.
 
-- If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service. 
+- If the staff member is the one who's at fault, it is the Executive Committee's decision on which penalties the said staff member faces. This may include suspension or termination from service.
 
-- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default. 
+- In addition, the staff are not accountable if the player is silenced or restricted during the course of the tournament. In case of the former, the silence duration will be considered as either the defaulting time, or disconnection time. Thus, if the silence lasts for more than 10 minutes, the said player is deemed to have lost the match by default.
 
-### Updates and Concerns 
+### Updates and Concerns
 
 - Most of the major updates regarding the tournament will be posted on this forum thread. All concerns and questions regarding the tournament may be posted on this thread, or via the official osu!Philippines Facebook Group.
 
 ## Changes from Previous Editions
 
-### Addition of osu!standard and osu!catch 
+### Addition of osu!standard and osu!catch
 
 - Initially, this tournament would have been just an osu!mania tournament, similar to the [previous](https://osu.ppy.sh/community/forums/topics/437448) [two](https://osu.ppy.sh/community/forums/topics/579557) editions. Though after the success of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068), [Zaphirox](https://osu.ppy.sh/users/2478675) has suggested adding osu!standard (and later, with [Lobsterr](https://osu.ppy.sh/users/6575915)'s go signal, osu!catch) to the fray. With a few modifications to the rules introduced, this tournament series was born.
 
-### "National Championships" 
+### "National Championships"
 
 - The amount of prestige this tournament has been given outside the osu!PH community, this has been considered as the community's flagship competition, hence calling it such is considerable.
 
-### Player Eligibility 
+### Player Eligibility
 
-- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are logged in before allowing their participation. 
+- Starting with the recently finished [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068),  we have been less strict with the PH flag requirement for registration eligibility. This is to improve player interest and turnout. Though what we'll be strict on will be their proof of Philippine Citizenship, which would be similar to how osu! Staff deals with the profile flag changes. Players will be asked to present identification along with an open osu! client where they are logged in before allowing their participation.
 
-### Qualification Criteria (osu!mania) 
+### Qualification Criteria (osu!mania)
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](https://osu.ppy.sh/help/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed [**Score Rating System**](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers. 
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed [**Score Rating System**](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217) by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
 
-### Disconnection Clauses 
+### Disconnection Clauses
 
 - It has been observed that computing percentages from the drain time is not practical, hence a definite clause was laid out.
 

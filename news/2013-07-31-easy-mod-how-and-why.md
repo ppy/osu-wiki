@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Easy Mod: How and Why"
-permalink: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 ---
+
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?
 
 **What is Easy Mod?**
@@ -39,7 +39,7 @@ Here are a few tips to make reading the Easy mod a little bit easier, too:
 
 **What are some good practice maps?**
 
-Hmm... now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/b/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
+Hmm... now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/beatmaps/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
 
 **And finally, what skin works well?**
 

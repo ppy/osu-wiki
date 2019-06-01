@@ -1,11 +1,9 @@
-Medale
-======
+# Medale
 
 Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
 Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 Medale **The Beatmap Packs** są przyznawane za **zagranie dowolnego poziomu trudności w każdej beatmapie** znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
 Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!standard](/wiki/osu!standard).
@@ -25,7 +23,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 - Gracz musi ukończyć dowolny poziom trudności każdej beatmapy znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
 - Liczy się tylko tryb osu!standard.
-- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`. 
+- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`.
   Następnie włącz klienta gry i pozwól, aby przetworzył on wszystkie beatmapy.
   - Gracz może pobrać ręcznie wszystkie beatmapy z paczki i będzie się to liczyć.
 - Inne wersje tej samej piosenki nie będą liczone.
@@ -36,8 +34,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 - Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych.
 - Beatmapa może zostać bez żadnych skutków usunięta po tym, jak pojawi się status **`ukończona`** na [liście paczek beatmap](https://osu.ppy.sh/p/packlist?t=t).
 
-Skill
------
+## Skill
 
 Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
 
@@ -73,8 +70,7 @@ Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale 
 | ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
 | ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
 
-Dedication
-----------
+## Dedication
 
 Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!standard, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
 
@@ -85,8 +81,7 @@ Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdy
 | ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Mod Introduction
-----------------
+## Mod Introduction
 
 _Zobacz także: [Modyfikacje](/wiki/Game_Modifiers)._
 
@@ -102,12 +97,11 @@ Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej
 | ![Hidden](img/all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
-Hush-Hush
----------
+## Hush-Hush
 
 Te medale nie mają dosłownie określonego celu.
 Gracz musi samodzielnie znaleźć sposób na zdobycie danego medalu z tej grupy.
-Podpowiedź znajduje się w tytule medalu. 
+Podpowiedź znajduje się w tytule medalu.
 
 | ![Don't let the bunny distract you!](img/all-secret-bunny.png "Don't let the bunny distract you!") | ![S-Ranker](img/all-secret-rank-s.png "S-Ranker") | ![Most Improved](img/all-secret-improved.png "Most Improved") | ![Non-stop Dancer](img/all-secret-dancer.png "Non-stop Dancer") |
 | :---: | :---: | :---: | :---: |
@@ -119,8 +113,7 @@ Podpowiedź znajduje się w tytule medalu.
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
-Źródła
-------
+## Źródła
 
 - [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
-- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/forum/t/80448).
+- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).

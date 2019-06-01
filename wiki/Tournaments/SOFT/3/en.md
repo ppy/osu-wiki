@@ -3,8 +3,8 @@ tags:
 - SOFT3
 - SOFT 3
 ---
-Springtime Osu!mania Free-for-all Tournament 3
-=============================
+
+# Springtime Osu!mania Free-for-all Tournament 3
 
 ![SOFT3 Banner](banner.jpg)
 
@@ -54,7 +54,7 @@ Springtime Osu!mania Free-for-all Tournament 3
 
 ## Links
 
-- [Discussion Thread](/community/forums/posts/6449304)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/6449304)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [Challonge](https://challonge.com/SOFT3r)
 

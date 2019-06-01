@@ -47,7 +47,7 @@ Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ra
 
 Esse status atribui aos beatmaps uma leaderboard.
 
-Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835).
+Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
 
 ### Pendente
 

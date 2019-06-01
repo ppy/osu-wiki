@@ -1,8 +1,6 @@
-osu!mania Mapping Guide
-=========================
+# osu!mania Mapping Guide
 
-Prologue
----------
+## Prologue
 
 ### What is osu!mania?
 
@@ -38,8 +36,7 @@ The beatmap editor is the place where the map-making-magic happens! After all, m
 
 Now we know how to place notes in the editor. Should something still be unclear; read it again! You have all time in the world! If you have understood everything we can directly jump to point 2, the basics! This is where I will explain the song setup and how to time your beatmap!
 
-Basics
--------
+## Basics
 
 ### Song Setup
 
@@ -289,8 +286,7 @@ You don't even have to select all of this by hand. You can also change the sampl
 
 Hitsounding may take some time but like I already mentioned it's important for the beatmap. Once you get used to it, hitsounding will go really fast!
 
-Advanced Knowledge
--------------------
+## Advanced Knowledge
 
 In this part I would like to explain more details of osu!mania mapping like keysounding, SV changes and pitch relevancy. Also, together with the community I want to explain different mapping styles here. The osu!mania community consists of players from different VSRG's like o2 jam, Stepmania and BMS. All these games have a special mapping style.
 

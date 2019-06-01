@@ -1,10 +1,8 @@
-Достижения
-===========
+# Достижения
 
 Достижения (*ачивки*, от англ. *achievement*) — значки в профиле игрока, которые даются за выполнение определённых условий. В настоящее время существует 5 группы достижений.
 
-Архивы карт (Betmap Packs)
-----------------------------
+## Архивы карт (Betmap Packs)
 
 Ачивки зарабатываются **прохождением каждой карты из архива до конца** на любой сложности.
 
@@ -38,8 +36,7 @@
 | ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
 
-Комбо (Combo)
-------------------
+## Комбо (Combo)
 
 Требуется набрать комбо некоторой длины при игре в стандартном режиме.
 
@@ -52,8 +49,7 @@
 | ![1000 Combo (any song)](img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](img/all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
-Увлечённость (Dedication)
----------------------------
+## Увлечённость (Dedication)
 
 Ачивки набираются за выполнение определённого количества действий во каждом из четырёх режимов.
 
@@ -65,8 +61,7 @@
 | ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
 
-Секретные (Hush-Hush)
-----------------------
+## Секретные (Hush-Hush)
 
 Вы должны сами угадать, что нужно сделать для получения ачивки. Иногда подсказка содержится в названии достижения. Примечание: в настоящее время обсуждать ачивки этой категории нельзя, за это полагается [сайленс](/wiki/Glossary).
 

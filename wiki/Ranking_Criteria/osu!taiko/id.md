@@ -1,10 +1,8 @@
-Kriteria Pemeringkatan osu!taiko
-=================================
+# Kriteria Pemeringkatan osu!taiko
 
-Peraturan dan petunjuk ini telah didiskusikan dalam [Thread Diskusi osu!taiko](https://osu.ppy.sh/forum/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan di update setiap diskusi mencapai kesepakatan.
+Peraturan dan petunjuk ini telah didiskusikan dalam [Thread Diskusi osu!taiko](https://osu.ppy.sh/community/forums/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan di update setiap diskusi mencapai kesepakatan.
 
-Istilah Umum
---------------
+## Istilah Umum
 
 ### Umum
 
@@ -22,8 +20,7 @@ Istilah Umum
 -   **Shaker**: Spinner
 -   **Finisher**: Not biru besar atau Not merah besar
 
-Aturan
----------
+## Aturan
 
 Semua aturan pastinya adalah: ATURAN. Ini BUKAN petunjuk dan TIDAK boleh dilanggar dalam kondisi apapun.
 
@@ -31,8 +28,7 @@ Semua aturan pastinya adalah: ATURAN. Ini BUKAN petunjuk dan TIDAK boleh dilangg
 
 **Not Finish tidak boleh berada di awal atau di tengah suatu [stream](/wiki/Mapping_Techniques/Formations) 1/4 atau lebih kecil.** Ini untuk memastikan agar pola dapat dimainkan, karena sering kali not finish di tengah atau di awal stream 1/4 atau lebih kecil dianggap terlalu susah untuk ditangkap/ditekan.
 
-Petunjuk
----------
+## Petunjuk
 
 Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, mereka BUKANLAH aturan, jadi mereka bisa dilanggar dalam **kasus-kasus tertentu**. Jika kamu ingin melanggar petunjuk, tanyakan pada dirimu: Apakah yang aku lakukan masuk akal? Apakah lebih menyenangkan bila dimainkan daripada mengikuti petunjuk? Jika kamu menjawab iya kepada kedua pertanyaan tersebut, maka kemungkinan boleh. Jika map anda yang melanggar petunjuk dimod, cobalah sebisa mungkin memberi alasan yang masuk akal : Jelaskan sudut pandangmu dan terbuka terhadap saran/sugesti.
 

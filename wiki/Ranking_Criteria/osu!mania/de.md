@@ -1,10 +1,12 @@
-osu!mania Ranking Kriterien
-============================
+---
+outdated: true
+---
 
-Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [durch das Diskussions-Forum](https://osu.ppy.sh/forum/87). Jede Regel, die dort diskutiert wird, ist hier so aufgelistet, wie sie momentan gilt und wird erst aktualisiert, wenn die Diskussion eine Einigung erreichen konnte.
+# osu!mania Ranking Kriterien
 
-Übliche Bedingungen
-----------------------
+Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [durch das Diskussions-Forum](https://osu.ppy.sh/community/forums/87). Jede Regel, die dort diskutiert wird, ist hier so aufgelistet, wie sie momentan gilt und wird erst aktualisiert, wenn die Diskussion eine Einigung erreichen konnte.
+
+## Übliche Bedingungen
 
 ### Schwierigkeitsgrade
 
@@ -18,8 +20,7 @@ Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [d
 
 -   Column = 5K, 5 column. Die mittlere Column wird oft "Step-Column" oder auch "Spezial-Taste" genannt.
 
-Regeln
---------
+## Regeln
 
 Die folgenden Regeln sind genau das: REGELN. Es sind keine Richtlinien und sollten unter KEINEN Umständen gebrochen werden!!
 
@@ -43,8 +44,7 @@ Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erken
 
 -   **Es ist nicht erlaubt Rote Timing Points zu benutzen wenn sich die BPM im Lied nicht ändert.** In anderen Worten: Es ist nicht erlaubt die Fallgeschwindigkeit der Noten mit einem Roten Timing Point zu verändert. Benutzt dafür die Grünen Inherited Timing Points.
 
-Richtlinien
-------------
+## Richtlinien
 
 Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werden. Sie sind keine Regeln und dürfen unter gewissen Umständen missachtet werden. Wenn du vor hast eine dieser Richtlinien zu brechen frage dich erst selbst: Macht das nicht befolgen irgendeinen Sinn? Macht die Map durch das nicht befolgen der Richtlinie mehr Spaß? Wenn die Antwort auf beide fragen Ja lautet ist es in Ordnung die Richtlinien nicht zu beachten.
 
@@ -62,8 +62,7 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 -   **Das benutzen von SV changes ist nur erlaubt bei signifikanten Änderung in der Musik.** Als Beispiel: Die Musik wird stiller/langsamer/ruhiger. Wie stark die SVs geändert werden darf der Mapper selber bestimmen
 -   **Verschiedene Tastenzahlen in einem Mapset sollten ein ähnlichen Spread besitzen.** Dies ist um sicher zu stellen das jede Tastenzahl den gleichen Spielspaß bietet.
 
-xK Referenz
--------------
+## xK Referenz
 
 Note: 1K, 2K, 3K und 10K wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
 

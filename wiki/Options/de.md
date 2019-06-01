@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="DEoptionen.png" title="Optionsmenü (die Leiste zur Linken)" alt="Optionsmenü (die Leiste zur Linken)" width="600" />
 
 # Optionen
@@ -44,7 +45,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 | Name                           | Effekt                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: http://osu.ppy.sh/forum/t/104342/ (alter Link)                                                                                                                                            |
+| Sprache wählen                | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch.Um dazu beizutragen: https://osu.ppy.sh/community/forums/topics/104342/ (alter Link)                                                                                                                                            |
 | Metadaten in Originalsprache   | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
 | Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten.                                                                                                                                                                                                                                                           |
 
@@ -61,7 +62,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 ### Renderer
 
-`Neustart erforderlich.`
+`Neustart erforderlich.`
 
 <img src="DE-Renderer.jpg" title="Renderer" alt="Renderer" width="300" />
 
@@ -72,7 +73,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 | Frame Limiter: (kontrolliert die maximale Anzahl an Frames, die pro Sekunde angezeigt werden) |                                                                                                                                                                                       |
 | 60fps (vsync)                                                                                 | 60fps (low latency)                                                                                                                                                                   |
 
-Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](http://osu.ppy.sh/forum/t/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
+Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](https://osu.ppy.sh/community/forums/topics/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
 
 -   **FPS-Zähler**: Zeigt einen unaufdringlichen Frame-Pro-Sekunde Zähler am unteren, rechten Rand des Bildschirmes.
 
@@ -232,8 +233,7 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 </tbody>
 </table>
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio
-------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio
 
 ### Lautstärke
 
@@ -262,8 +262,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 4.  Klick auf "zurück" oder die Taste "ESC", um zu den Einstellungen zurückzukehren. Dadurch wird der universale Offset aktualisiert.
 5.  Ihre Jukebox. Benutzt den BPM-Wert des aktuell abgespielten Songs als Tickrate.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin
----------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin
 
 ### [Skin](Skin "wikilink")
 
@@ -332,8 +331,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Steuerung
-----------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Steuerung
 
 ### Maus
 
@@ -569,8 +567,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor
----------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor
 
 ### Allgemein
 
@@ -603,8 +600,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
----------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
 
 ### Meldungen und Privatsphäre
 
@@ -750,8 +746,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Wartung
-----------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Wartung
 
 ### Allgemein
 

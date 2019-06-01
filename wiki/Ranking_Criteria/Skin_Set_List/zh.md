@@ -1,9 +1,8 @@
-皮肤组列表
-=============
+# 皮肤组列表
 
 _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
-以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) 起草，由 Ephemeral 命名。
+以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/community/forums/topics/480331) 起草，由 Ephemeral 命名。
 
 ## osu!
 

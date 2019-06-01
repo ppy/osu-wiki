@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "osu!catch World Cup 2016 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/142680619968/osucatch-world-cup-2016-registrations-open
 date: 2016-04-12 11:30:20 +0000
 tumblr_url: http://osunews.tumblr.com/post/142680619968/osucatch-world-cup-2016-registrations-open
 ---
-We'd like to welcome all of you to this year's official osu!catch World Cup. As usual, the rules have been adjusted from the previous CWC, so please **[read them carefully](http://osu.ppy.sh/wiki/CWC_2016#Ruleset)** before registering for this tournament.
 
-![](http://puu.sh/ofsJA/b31f8d8306.png)
+We'd like to welcome all of you to this year's official osu!catch World Cup. As usual, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://osu.ppy.sh/wiki/CWC_2016#Ruleset)** before registering for this tournament.
 
-For more details, refer to the **[osu!catch World Cup 2016 wiki article](http://osu.ppy.sh/wiki/CWC_2016)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/442617)**.
+![](https://puu.sh/ofsJA/b31f8d8306.png)
+
+For more details, refer to the **[osu!catch World Cup 2016 wiki article](https://osu.ppy.sh/wiki/CWC_2016)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/442617)**.
 
 ## Tournament Schedule
 
@@ -25,7 +25,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 
 ## What has been changed?
 
-+ Sign-ups are handled via **[this registration page](http://new.ppy.sh/tournaments/5)**.
++ Sign-ups are handled via **[this registration page](https://osu.ppy.sh/tournaments/5)**.
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We added a cash prize pool for this competition! Additionally, everyone is able to support funding this prize pool by purchasing support banners for their user profile when available.
@@ -40,7 +40,7 @@ We are aiming to have a $3,800 cash prize pool for this world cup. You can suppo
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/5)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/5)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **30. April 2016.**
 

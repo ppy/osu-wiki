@@ -2,7 +2,7 @@
 
 ## January
 
-[Ephemeral](/users/102335) posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](/beatmaps/artists/9) and [nanobii](/beatmaps/artists/10) were announced to be osu!'s new featured artists. [cYsmix](/beatmaps/artists/2), [yuki.](/beatmaps/artists/4) and [Helblinde](/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.
+[Ephemeral](https://osu.ppy.sh/users/102335) posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) and [nanobii](https://osu.ppy.sh/beatmaps/artists/10) were announced to be osu!'s new featured artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) and [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.
 
 Links:
 
@@ -12,7 +12,7 @@ Links:
 
 ## February
 
-[Ben Briggs](/beatmaps/artists/11) was announced to be another featured artist. The first osu!lazer build was released!
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another featured artist. The first osu!lazer build was released!
 
 Links:
 
@@ -21,7 +21,7 @@ Links:
 
 ## March
 
-Monthly Beatmapping Contest revolving around osu!catch has begun. [LukHash](/beatmaps/artists/12) was announced as another featured artist. Aspire 2017 voting had begun. Spotlights was announced to co-exist with Ranking Charts. The Spring-themed 9th fanart contest was opened.
+Monthly Beatmapping Contest revolving around osu!catch has begun. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) was announced as another featured artist. Aspire 2017 voting had begun. Spotlights was announced to co-exist with Ranking Charts. The Spring-themed 9th fanart contest was opened.
 
 Links:
 
@@ -33,7 +33,7 @@ Links:
 
 ## April
 
-Monthly Beatmapping Contest \#13 concluded with [RyoKazuka](/users/6258586) taking first place. Apsire 2017: Stage One concluded with [ProfessionalBox](/users/3250792) taking first place. The voting for the Spring fanart contest was opened. The 100th(?) issue of osu!weekly was released. The osu!taiko World Cup 2017 concluded with Japan winning against Taiwan. Before April ended, the Spring fanart contest votes were in, allowing [Evaine](/users/7295733) to take first place.
+Monthly Beatmapping Contest \#13 concluded with [RyoKazuka](https://osu.ppy.sh/users/6258586) taking first place. Apsire 2017: Stage One concluded with [ProfessionalBox](https://osu.ppy.sh/users/3250792) taking first place. The voting for the Spring fanart contest was opened. The 100th(?) issue of osu!weekly was released. The osu!taiko World Cup 2017 concluded with Japan winning against Taiwan. Before April ended, the Spring fanart contest votes were in, allowing [Evaine](https://osu.ppy.sh/users/7295733) to take first place.
 
 Links:
 
@@ -45,7 +45,7 @@ Links:
 
 ## May
 
-osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mocha) has entered the scene with [pippi](/wiki/pippi), [Yuzu](/wiki/Yuzu), and [Maria](/wiki/Maria). Lastly, [Rin / Function Phantom](/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
+osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mocha) has entered the scene with [pippi](/wiki/pippi), [Yuzu](/wiki/Yuzu), and [Maria](/wiki/Maria). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
 
 - [osu!catch World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2017-05-03-osucatch-world-cup-2017-registrations-now-open)
 - [osu! at anime expo 2017](https://osu.ppy.sh/home/news/2017-05-09-osu-at-anime-expo-2017)
@@ -66,7 +66,7 @@ Links:
 
 ## July
 
-osu!mania 4K World Cup registrations opened. Voting for the Mocha in Summer fanart contest was opened. osu!catch World Cup 2017 concluded with South Korea taking first place from China. The Community Mentorship Program Fall 2017 Signups was opened. On the last day of July, the Mocha in Summer fanart contest concluded with [2Su](/users/6598966) taking first place.
+osu!mania 4K World Cup registrations opened. Voting for the Mocha in Summer fanart contest was opened. osu!catch World Cup 2017 concluded with South Korea taking first place from China. The Community Mentorship Program Fall 2017 Signups was opened. On the last day of July, the Mocha in Summer fanart contest concluded with [2Su](https://osu.ppy.sh/users/6598966) taking first place.
 
 Links:
 
@@ -77,7 +77,7 @@ Links:
 
 ## August
 
-[Wisp X](/beatmaps/artists/16) and [OISHII](/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Yuzu) new look was opened as a fanart contest.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) and [OISHII](https://osu.ppy.sh/beatmaps/artists/17) were announced as new featured artists. osu!idol 2017 auditions opened. The osu! Coffee Hour was introduced as a pod cast. An overhaul for [Yuzu's](/wiki/Yuzu) new look was opened as a fanart contest.
 
 Links:
 
@@ -89,7 +89,7 @@ Links:
 
 ## September
 
-[\*namirin](/beatmaps/artists/18) was announced to be another featured artist. Mapping with rewards returned with bounties tied to selected songs. osu!mania 4K World Cup concluded with South Korea taking first place from United States. Voting for Yuzu's new look opened.
+[\*namirin](https://osu.ppy.sh/beatmaps/artists/18) was announced to be another featured artist. Mapping with rewards returned with bounties tied to selected songs. osu!mania 4K World Cup concluded with South Korea taking first place from United States. Voting for Yuzu's new look opened.
 
 Links:
 
@@ -111,7 +111,7 @@ Links:
 
 ## November
 
-[MOtOLOiD](/beatmaps/artists/19) was announced to be another featured artist. peppy opened a forum thread to centralise his thoughts on touchscreens; along with some answers to frequently proposed solutions. The `#osu-performance` channel in the osu!dev Discord server was opened to allow open discussion. The Winter 2017 Fanart Contest was opened.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) was announced to be another featured artist. peppy opened a forum thread to centralise his thoughts on touchscreens; along with some answers to frequently proposed solutions. The `#osu-performance` channel in the osu!dev Discord server was opened to allow open discussion. The Winter 2017 Fanart Contest was opened.
 
 Links:
 
@@ -121,7 +121,7 @@ Links:
 
 ## December
 
-The Winter 2017 Fanart Contest results were in, awarding [Leissss](/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to osu!lazer.
+The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to osu!lazer.
 
 Links:
 

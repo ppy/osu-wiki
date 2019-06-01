@@ -1,14 +1,12 @@
-Как играть лучше?
-===================
+# Как играть лучше?
 
 Тут будут перечислены ответы на основные вопросы, связанные с улучшением каких-либо игровых навыков. Стоит отметить, что эта статья в большей степени предназначена для игроков, которые хотят улучшить уже имеющиеся базовые навыки. Если вы совсем новичок и не имеете представления об игре, то, возможно, вам стоит начать с прочтения [этой статьи](/wiki/Welcome).
 
 Большая часть статьи взята из [гайда от Sh1ni](http://vk.com/topic-6590565_29871506)
 
-Правильный подход к игре и базовые ошибки
---------------------------------------------
+## Правильный подход к игре и базовые ошибки
 
-Этот раздел написан на основе [гайда от ScarletStory](https://osu.ppy.sh/forum/t/187364).
+Этот раздел написан на основе [гайда от ScarletStory](https://osu.ppy.sh/community/forums/topics/187364).
 
 -   У вас неправильная мотивация к игре
 
@@ -42,8 +40,7 @@ Osu! — игра, в которую нельзя научиться играт�
 
 Даже несмотря на то, что графический планшет даёт большой потенциал для улучшения точности наведения курсора, к нему и привыкать нужно будет очень долго. Если вы никогда не держали перо в руке, то даже на выход к вашему уровню игры на мышке у вас уйдут десятки и сотни игровых часов.
 
-Советы по настройке игрового клиента и девайсов
--------------------------------------------------
+## Советы по настройке игрового клиента и девайсов
 
 ### Преимущества разных областей планшета
 
@@ -72,8 +69,7 @@ Osu! — игра, в которую нельзя научиться играт�
 
 Многие игроки предпочитают играть на двух близлежащих клавишах одного ряда (z/x, например), но можно попробовать что-нибудь другое в поисках наиболее удобного для вас варианта. Например, игра на клавишах одного ряда, находящихся через одну клавишу друг от друга (z/c, например) указательным и безымянным пальцами. Или игра на клавишах из разных рядов (z/a для игры средним и указательным пальцами или x/a для игры указательным и безымянным пальцами).
 
-Основные советы
-----------------
+## Основные советы
 
 ### Подбор клавиатуры
 
@@ -108,8 +104,7 @@ Osu! — игра, в которую нельзя научиться играт�
 
 P.S. Этот раздел несколько устарел. Теперь можно свободно настраивать ar в редакторе, достаточно просто зажать Shift.
 
-Стримы
---------
+## Стримы
 
 ### Стиль игры
 
@@ -130,8 +125,7 @@ P.S. Этот раздел несколько устарел. Теперь мо�
 -   zxz xzx. Начиная каждый трипл с разного пальца, вы потенциально увеличиваете скорость и количество триплов, которые сможете пробить. Использование такого метода позволяет вам держать ритм больше, чем вы продержали бы его на стриме с такими же скоростью и длительностью, но научиться этому сложно.
 -   zxz zxz. Так легче пробивать короткие серии триплов. Этот метод многие игроки находят более естественным.
 
-Синглтап
------------
+## Синглтап
 
 ### Непреодолимый BPM синглтапа
 
@@ -141,8 +135,7 @@ P.S. Этот раздел несколько устарел. Теперь мо�
 
 Некоторые находят очень удобным синглтап всей рукой, оторвав запястье от стола. Этому сложно научиться, но, освоив такой способ, ваша скорость синглтапа сильно повысится. [1](https://www.youtube.com/watch?feature=player_embedded&v=xRbGdCmYP2o)
 
-Точность наведения
----------------------
+## Точность наведения
 
 ### Джампы
 
@@ -156,8 +149,7 @@ P.S. Этот раздел несколько устарел. Теперь мо�
 
 -   Старайтесь не смотреть на квадрат, как на целое. Играть станет легче, если вы будете смотреть на квадрат, как на две прямых линии или на ноту, линию и ещё одну ноту.
 
-Физиология, влияющая на качество игры
-----------------------------------------
+## Физиология, влияющая на качество игры
 
 ### Техника ведения пера или мышки
 
@@ -173,83 +165,81 @@ P.S. Этот раздел несколько устарел. Теперь мо�
 -   Кофеин улучшает работу ЦНС, что поднимает качество вашей игры. Стоит учесть, что передозировка кофеина отрицательно повлияет на вашу игру и на здоровье в целом.
 -   Некоторые ноотропы улучшают внимание, что способствует более качественной игре. Перед употреблением препаратов всё-таки стоит проконсультироваться с врачом.
 
-Карты для практики
------------------------
+## Карты для практики
 
 ### Точность
 
-- [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Atomic)](https://osu.ppy.sh/b/91037&m=1)
-- [Demetori - Emotional Skyscraper ~ World's End (Extra Stage)](https://osu.ppy.sh/b/53554&m=1)
-- [Demetori - Wind God Girl (Extra)](https://osu.ppy.sh/b/74684&m=0)
-- [AU - Infinite of Nuclear Fusion (Regou's Extra)](https://osu.ppy.sh/b/291285&m=0)
-- [Bring Me The Horizon - Anthem (Lucifer)](https://osu.ppy.sh/b/118380&m=1)
-- [Amuro vs Killer - Mei (Another)](https://osu.ppy.sh/b/36290&m=0)
-- [Blackhole - Lagomorphic (Lagamorph)](https://osu.ppy.sh/b/211889&m=0)
-- [Memme - Plasma Gun (eXtra)](https://osu.ppy.sh/b/231917&m=0)
-- [Comp - Gensou no Satellite (Extra)](https://osu.ppy.sh/b/63875&m=0)
-- [ONE OK ROCK - Re:make (Remake)](https://osu.ppy.sh/b/123152&m=0)
-- [Ikareru Kin no Shishi - G59 (Another)](https://osu.ppy.sh/b/85513&m=0)
+- [Demetori - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Atomic)](https://osu.ppy.sh/beatmaps/91037&m=1)
+- [Demetori - Emotional Skyscraper ~ World's End (Extra Stage)](https://osu.ppy.sh/beatmaps/53554&m=1)
+- [Demetori - Wind God Girl (Extra)](https://osu.ppy.sh/beatmaps/74684&m=0)
+- [AU - Infinite of Nuclear Fusion (Regou's Extra)](https://osu.ppy.sh/beatmaps/291285&m=0)
+- [Bring Me The Horizon - Anthem (Lucifer)](https://osu.ppy.sh/beatmaps/118380&m=1)
+- [Amuro vs Killer - Mei (Another)](https://osu.ppy.sh/beatmaps/36290&m=0)
+- [Blackhole - Lagomorphic (Lagamorph)](https://osu.ppy.sh/beatmaps/211889&m=0)
+- [Memme - Plasma Gun (eXtra)](https://osu.ppy.sh/beatmaps/231917&m=0)
+- [Comp - Gensou no Satellite (Extra)](https://osu.ppy.sh/beatmaps/63875&m=0)
+- [ONE OK ROCK - Re:make (Remake)](https://osu.ppy.sh/beatmaps/123152&m=0)
+- [Ikareru Kin no Shishi - G59 (Another)](https://osu.ppy.sh/beatmaps/85513&m=0)
 
 ### Стримы
 
-- [07th Expansion - Eiji Kuinbii (Collapse)](https://osu.ppy.sh/b/124321&m=0)
-- [DJ Swan - Beautiful Angel (Another)](https://osu.ppy.sh/b/43550&m=0)
-- [SHIKI - Pure Ruby (Another)](https://osu.ppy.sh/b/82604&m=0)
-- [KIEN - La Grand Bleu (SHD)](https://osu.ppy.sh/b/119056&m=1)
-- [Niko - Night of Fire (Insane)](https://osu.ppy.sh/b/66820&m=1)
-- [Chata - Yuujou Pop (Ai)](https://osu.ppy.sh/b/77781&m=0)
-- [xi - FREEDOM DiVE (Another)](https://osu.ppy.sh/b/126645&m=0)
-- [kors k - Wuv U (dksslqj Style)](https://osu.ppy.sh/b/116739&m=0)
-- [dj TAKA - AA (Another)](https://osu.ppy.sh/b/38209&m=0)
-- [Toshiyuki O'mori - Justice (Divine)](https://osu.ppy.sh/b/65810&m=0)
-- [dj TAKA with NAOKI - Kakumei (Another)](https://osu.ppy.sh/b/44791&m=0)
-- [SHK - Identity Part 4 (Another)](https://osu.ppy.sh/b/125838&m=0)
-- [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (Challenging)](https://osu.ppy.sh/b/117182&m=0)
-- [Makou - Fermion (Maximum)](https://osu.ppy.sh/b/72284&m=1)
-- [Memme - Extreme Fantasy (Hard)](https://osu.ppy.sh/b/192180&m=0)
-- [Mizuki Nana - Massive Wonders (Beyond)](https://osu.ppy.sh/b/37850&m=0)
-- [Kitsune^2 - Rainbow Tylenol (lol201)](https://osu.ppy.sh/b/80914&m=0)
-- [SHK - Weep Irish (Another)](https://osu.ppy.sh/b/95360&m=0)
-- [Tatsh feat. Kanako Hoshino - Gekkou (Another)](https://osu.ppy.sh/b/102016&m=0)
-- [07th Expansion - lixAxil (Another)](https://osu.ppy.sh/b/92878&m=1)
-- [Last Note. - Setsuna Trip (Short Ver.) (Chew 'N Sane)](https://osu.ppy.sh/b/206845&m=0)
-- [ChomuP - Gate of Steiner (Insane)](https://osu.ppy.sh/b/157886&m=0)
-- [07th Expansion - rog-unlimitation (AngelHoney)](https://osu.ppy.sh/b/116128&m=0)
-- [07th Expansion - Rougoku (Insane)](https://osu.ppy.sh/b/35031&m=0)
-- [IOSYS - Kitto Mou Hatarakanai (Lunatic)](https://osu.ppy.sh/b/131006&m=0)
-- [SYNC.ART'S - Garasu no Kairou (Nightmare)](https://osu.ppy.sh/b/172456&m=0)
-[Camille Saint-saens & FIRST AID - D2 (Maximum)](https://osu.ppy.sh/b/76880&m=1)
-- [Comp - Kyoai (Insane)](https://osu.ppy.sh/b/105806&m=1)
-- [xi - Parousia (Another)](https://osu.ppy.sh/b/283607&m=0)
-- [Rche - Todestrieb (Another)](https://osu.ppy.sh/b/129555&m=0)
-- [PokeRemixStudio - Primal Dialga Remix (Vs. Primal Dialga)](https://osu.ppy.sh/b/67899&m=0)
-- [ZUN & Ryu\* - Second Darkside (Lunatic)](https://osu.ppy.sh/b/83355&m=1)
-- [Memme - Extreme Fantasy (Insane)](https://osu.ppy.sh/b/192181&m=0)
-- [Shounen Radio - neu (Platinum)](https://osu.ppy.sh/b/179070&m=0)
-- [Amane - Midsummer Festival (Lunatteke)](https://osu.ppy.sh/b/75822&m=0)
+- [07th Expansion - Eiji Kuinbii (Collapse)](https://osu.ppy.sh/beatmaps/124321&m=0)
+- [DJ Swan - Beautiful Angel (Another)](https://osu.ppy.sh/beatmaps/43550&m=0)
+- [SHIKI - Pure Ruby (Another)](https://osu.ppy.sh/beatmaps/82604&m=0)
+- [KIEN - La Grand Bleu (SHD)](https://osu.ppy.sh/beatmaps/119056&m=1)
+- [Niko - Night of Fire (Insane)](https://osu.ppy.sh/beatmaps/66820&m=1)
+- [Chata - Yuujou Pop (Ai)](https://osu.ppy.sh/beatmaps/77781&m=0)
+- [xi - FREEDOM DiVE (Another)](https://osu.ppy.sh/beatmaps/126645&m=0)
+- [kors k - Wuv U (dksslqj Style)](https://osu.ppy.sh/beatmaps/116739&m=0)
+- [dj TAKA - AA (Another)](https://osu.ppy.sh/beatmaps/38209&m=0)
+- [Toshiyuki O'mori - Justice (Divine)](https://osu.ppy.sh/beatmaps/65810&m=0)
+- [dj TAKA with NAOKI - Kakumei (Another)](https://osu.ppy.sh/beatmaps/44791&m=0)
+- [SHK - Identity Part 4 (Another)](https://osu.ppy.sh/beatmaps/125838&m=0)
+- [Ryu\* - Rondo Alla Turca (Ryu\* Remix) (Challenging)](https://osu.ppy.sh/beatmaps/117182&m=0)
+- [Makou - Fermion (Maximum)](https://osu.ppy.sh/beatmaps/72284&m=1)
+- [Memme - Extreme Fantasy (Hard)](https://osu.ppy.sh/beatmaps/192180&m=0)
+- [Mizuki Nana - Massive Wonders (Beyond)](https://osu.ppy.sh/beatmaps/37850&m=0)
+- [Kitsune^2 - Rainbow Tylenol (lol201)](https://osu.ppy.sh/beatmaps/80914&m=0)
+- [SHK - Weep Irish (Another)](https://osu.ppy.sh/beatmaps/95360&m=0)
+- [Tatsh feat. Kanako Hoshino - Gekkou (Another)](https://osu.ppy.sh/beatmaps/102016&m=0)
+- [07th Expansion - lixAxil (Another)](https://osu.ppy.sh/beatmaps/92878&m=1)
+- [Last Note. - Setsuna Trip (Short Ver.) (Chew 'N Sane)](https://osu.ppy.sh/beatmaps/206845&m=0)
+- [ChomuP - Gate of Steiner (Insane)](https://osu.ppy.sh/beatmaps/157886&m=0)
+- [07th Expansion - rog-unlimitation (AngelHoney)](https://osu.ppy.sh/beatmaps/116128&m=0)
+- [07th Expansion - Rougoku (Insane)](https://osu.ppy.sh/beatmaps/35031&m=0)
+- [IOSYS - Kitto Mou Hatarakanai (Lunatic)](https://osu.ppy.sh/beatmaps/131006&m=0)
+- [SYNC.ART'S - Garasu no Kairou (Nightmare)](https://osu.ppy.sh/beatmaps/172456&m=0)
+[Camille Saint-saens & FIRST AID - D2 (Maximum)](https://osu.ppy.sh/beatmaps/76880&m=1)
+- [Comp - Kyoai (Insane)](https://osu.ppy.sh/beatmaps/105806&m=1)
+- [xi - Parousia (Another)](https://osu.ppy.sh/beatmaps/283607&m=0)
+- [Rche - Todestrieb (Another)](https://osu.ppy.sh/beatmaps/129555&m=0)
+- [PokeRemixStudio - Primal Dialga Remix (Vs. Primal Dialga)](https://osu.ppy.sh/beatmaps/67899&m=0)
+- [ZUN & Ryu\* - Second Darkside (Lunatic)](https://osu.ppy.sh/beatmaps/83355&m=1)
+- [Memme - Extreme Fantasy (Insane)](https://osu.ppy.sh/beatmaps/192181&m=0)
+- [Shounen Radio - neu (Platinum)](https://osu.ppy.sh/beatmaps/179070&m=0)
+- [Amane - Midsummer Festival (Lunatteke)](https://osu.ppy.sh/beatmaps/75822&m=0)
 
 ### Джампы
 
-- [Yousei Teikoku - Wahrheit (Saten)](https://osu.ppy.sh/b/164183&m=0)
-- [Team Nekokan - Can't Defeat Airman (Holy Shit! It's Airman!!)](https://osu.ppy.sh/b/104229&m=0)
-- [StylipS - MIRACLE RUSH (TV Size) (Saten's Insane)](https://osu.ppy.sh/b/162071&m=0)
-- [Tsukasa ft. 3L - Space Accelerator (Lunatic)](https://osu.ppy.sh/b/293573&m=0)
-- [Evil Activities - Make a Wish (Insane)](https://osu.ppy.sh/b/70517&m=0)
-- [Shihori - Day Breaker (Lunatic)](https://osu.ppy.sh/b/247999&m=0)
-- [Yousei Teikoku - Senketsu no Chikai (Insanity)](https://osu.ppy.sh/b/142954&m=0)
-- [Kozato - 45nen no Yukizakura (Another)](https://osu.ppy.sh/b/155929&m=0)
-- [Meiko Nakamura - Dispel (Insane)](https://osu.ppy.sh/b/126229&m=0)
-- [Noisestorm - Pulse (Another)](https://osu.ppy.sh/b/113749&m=0)
-- [bibuko - Reizouko Mitara Pudding ga Nai - (Jumpudding!)](https://osu.ppy.sh/b/256027&m=0)
-- [Wotamin - Gigantic O.T.N (S.S)](https://osu.ppy.sh/b/223397&m=0)
-- [Katakiri Rekka - Answer (Rejection)](https://osu.ppy.sh/b/159007&m=0)
-- [Saiya - Remote Control (Insane)](https://osu.ppy.sh/b/164020&m=0)
-- [Shin Hae Chul - Sticks and Stones (Madness)](https://osu.ppy.sh/b/66514&m=0)
+- [Yousei Teikoku - Wahrheit (Saten)](https://osu.ppy.sh/beatmaps/164183&m=0)
+- [Team Nekokan - Can't Defeat Airman (Holy Shit! It's Airman!!)](https://osu.ppy.sh/beatmaps/104229&m=0)
+- [StylipS - MIRACLE RUSH (TV Size) (Saten's Insane)](https://osu.ppy.sh/beatmaps/162071&m=0)
+- [Tsukasa ft. 3L - Space Accelerator (Lunatic)](https://osu.ppy.sh/beatmaps/293573&m=0)
+- [Evil Activities - Make a Wish (Insane)](https://osu.ppy.sh/beatmaps/70517&m=0)
+- [Shihori - Day Breaker (Lunatic)](https://osu.ppy.sh/beatmaps/247999&m=0)
+- [Yousei Teikoku - Senketsu no Chikai (Insanity)](https://osu.ppy.sh/beatmaps/142954&m=0)
+- [Kozato - 45nen no Yukizakura (Another)](https://osu.ppy.sh/beatmaps/155929&m=0)
+- [Meiko Nakamura - Dispel (Insane)](https://osu.ppy.sh/beatmaps/126229&m=0)
+- [Noisestorm - Pulse (Another)](https://osu.ppy.sh/beatmaps/113749&m=0)
+- [bibuko - Reizouko Mitara Pudding ga Nai - (Jumpudding!)](https://osu.ppy.sh/beatmaps/256027&m=0)
+- [Wotamin - Gigantic O.T.N (S.S)](https://osu.ppy.sh/beatmaps/223397&m=0)
+- [Katakiri Rekka - Answer (Rejection)](https://osu.ppy.sh/beatmaps/159007&m=0)
+- [Saiya - Remote Control (Insane)](https://osu.ppy.sh/beatmaps/164020&m=0)
+- [Shin Hae Chul - Sticks and Stones (Madness)](https://osu.ppy.sh/beatmaps/66514&m=0)
 
-Список карт взят [отсюда](https://osu.ppy.sh/forum/t/99612)
+Список карт взят [отсюда](https://osu.ppy.sh/community/forums/topics/99612)
 
-Советы по набору большего количества Perfomance Points
--------------------------------------------------------
+## Советы по набору большего количества Perfomance Points
 
 В целом, Osu! — состязательная игра, поэтому многим игрокам нравится играть на рейтинг, который здесь исчисляется в Perfomance Points. Подробную информацию о нашей системе рейтинга можно найти [здесь](/wiki/Perfomance_Points), а здесь будут только прикладные выводы из этой статьи. Нужно понимать, что в Osu! нет какого-либо единого параметра, определяющего сложность карты, что ведёт к тому, что некоторые объективно сложные по каким-либо карты будут давать меньше очков, чем карты, сложные по другим причинам, и ниже будет дана информация о том, за что будут давать больше очков:
 

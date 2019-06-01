@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Taiko World Cup 2014 - Last Man Standing"
-permalink: http://osunews.tumblr.com/post/83610164656/taiko-world-cup-2014-last-man-standing
 date: 2014-04-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/83610164656/taiko-world-cup-2014-last-man-standing
 ---
-Welcome! We would like to welcome you a spin-off of the official World Cups: the Taiko World Cup - Last Man Standing. Compared to the official Taiko World Cup, we have decided to change the rules up a little to create a different setting, so read them up [in our forum thread](https://osu.ppy.sh/forum/t/192614/start=0).  
+
+Welcome! We would like to welcome you a spin-off of the official World Cups: the Taiko World Cup - Last Man Standing. Compared to the official Taiko World Cup, we have decided to change the rules up a little to create a different setting, so read them up [in our forum thread](https://osu.ppy.sh/community/forums/topics/192614/start=0).  
 
 In this tournament, both teams gather normally and choose a song as usual, but the player who does the worst on that song is eliminated and has to leave the match. The team that loses all their players first, loses the match and is eliminated from the tournament.  
 
@@ -37,6 +37,6 @@ _Any registrations or team changes past the deadline can not be considered._
 
 ## Links
 
--   [Information and Discussion Thread](https://osu.ppy.sh/forum/t/192614/start=0)
+-   [Information and Discussion Thread](https://osu.ppy.sh/community/forums/topics/192614/start=0)
 
 —Dolphin

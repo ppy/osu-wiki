@@ -1,10 +1,8 @@
-osu!taiko Ranking Kriterien
-============================
+# osu!taiko Ranking Kriterien
 
-Diese Regeln und Richtlinien wurden in diesem [osu!taiko Diskussions Thread](https://osu.ppy.sh/forum/p/1275323) diskutiert. Mögliche neue Regeln oder Richtlinien können in diesen [Forum](https://osu.ppy.sh/forum/87) diskutiert werden, welche dann hinzugefügt werden, wenn es bei der Diskussion zu einer Einigung gekommen ist.
+Diese Regeln und Richtlinien wurden in diesem [osu!taiko Diskussions Thread](https://osu.ppy.sh/community/forums/posts/1275323) diskutiert. Mögliche neue Regeln oder Richtlinien können in diesen [Forum](https://osu.ppy.sh/community/forums/87) diskutiert werden, welche dann hinzugefügt werden, wenn es bei der Diskussion zu einer Einigung gekommen ist.
 
-Übliche Bedingungen
----------------------
+## Übliche Bedingungen
 
 ### Allgemeines
 
@@ -22,8 +20,7 @@ Diese Regeln und Richtlinien wurden in diesem [osu!taiko Diskussions Thread](htt
 -   **Shaker**: Spinner
 -   **Finisher**: Große blaue oder rote Note
 
-Regeln
---------
+## Regeln
 
 Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollten unter keinen Umständen gebrochen werden!
 
@@ -31,8 +28,7 @@ Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollt
 
 Finisher Noten dürfen nicht in der Mitte und am Anfang eines 1/4- oder größeren Takt Streams sein. Am Ende des Streams kann es möglich sein einen Finisher zu setzen, wenn ein akzeptabler Sound vorhanden ist. *Finisher Noten müssen am Ende eines Streams die gegenteilige Farbe von den 4 vorherigen Noten haben.*
 
-Richtlinien
---------------
+## Richtlinien
 
 Richtlinien sind wichtig und sollten so gut wie möglich eingehalten werden. Wie auch immer, es sind keine Regeln und müssen nicht in allen Fällen eingehalten werden. Wenn Sie eine Richtlinie brechen sollten, sollten Sie sich stets selber fragen: "Macht das, was ich gerade mache, überhaupt Sinn? Würde es dem Spieler wirklich mehr Spaß am Spielen der Map bereiten, wenn ich mich nicht an die Richtlinie halte?" Wenn Sie für sich beide Fragen mit "Ja" geantwortet haben, sollte es kein großes Problem darstellen.
 

@@ -1,10 +1,8 @@
-osu!mania Mapping Guide
-====================================
+# osu!mania Mapping Guide
 
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.
 
-Vorwort
----------
+## Vorwort
 
 ### Was ist Mania?
 
@@ -50,8 +48,7 @@ Sollte noch etwas unklar sein schaut ruhig noch einmal nach und lest es in ruhe 
 
 Aber solltet ihr alles verstanden haben springen wir doch gleich zu Punkt 2, den Grundlagen des Guides!
 
-Grundlagen
--------------
+## Grundlagen
 
 ### Song Setup
 
@@ -227,7 +224,7 @@ Eine **Map für Rank** besteht für gewöhnlich aus mindestens 3 Schwierigkeitsg
 
 **Die "Approval" Map**: Eine Approval Map braucht kein ganzes Mapset. Jedoch muss die Approval Map eine Regel befolgen und diese wird auch Knallhart durchgesetzt: Der Song muss mindestens 5 Minuten lang sein. Ist euer Song länger als 5 Minuten braucht ihr kein Ganzes Mapset mehr.
 
-Approval Maps können, wie Insane Maps alle arten von Pattern enthalten. Eine gute Beispiel Approval Map ist hier die [Kanshou no Matenrou](https://osu.ppy.sh/s/251365) von mir. Ich verwende für die Leisen Drums 2er Chords und für die Lauten 3er Chords. Ich benutze Stairs und Streams bei langen 1/8 Sounds. Auch benutze ich lange Jumpstreams. Jedoch baut alles nach und nach auf und kommt nicht von jetzt auf gleich überraschend!
+Approval Maps können, wie Insane Maps alle arten von Pattern enthalten. Eine gute Beispiel Approval Map ist hier die [Kanshou no Matenrou](https://osu.ppy.sh/beatmapsets/251365) von mir. Ich verwende für die Leisen Drums 2er Chords und für die Lauten 3er Chords. Ich benutze Stairs und Streams bei langen 1/8 Sounds. Auch benutze ich lange Jumpstreams. Jedoch baut alles nach und nach auf und kommt nicht von jetzt auf gleich überraschend!
 
 Entscheidend für eine gute Approval Map ist das sie auch mal Ruhephasen hat. Niemand hat die Ausdauert 5 Minuten lang nur Jumpstreams zu spielen.
 
@@ -297,16 +294,15 @@ Auch zu erwähnen wäre: Solltet ihr einfach keine lust auf Hitsounden haben (wa
 
 Soviel zum Thema Hitsounds! Nachdem eure Map nun auch Hitsounded ist könnt ihr sie hochladen und anderen Spieler zur Verfügung stellen!
 
-Erweiterte Kenntnisse
-----------------------
+## Erweiterte Kenntnisse
 
 ### Pitch
 
 Unter **Pitch** versteht man in Mania das Mappen nach Tonhöhe, heißt tiefe Noten werden Links, hohe Noten Rechts gemappt. Wie auf einem Piano. Grade in 4k ist es uns leider nicht möglich jedes mal nach Pitch zu Mappen da wir von den Pattern sehr eingeschränkt sind. Das sieht jedoch ab 6k schon ganz anders aus. Es kann oft zu einem ganz anderen Spielerlebnis führen wenn man mit einzelnen Noten oder ganzen Chords dem Pitch folgt.
 
-Eine gute Beispiel Map hier ist die [sakuzyo - Altale](https://osu.ppy.sh/s/347779). In der Starry's Another Lv.29 sehen wir vor allem in den Ruhigen Parts das hier mit den Noten sehr genau nach Pitch gefolgt wird. Auch die LN's folgen hier schön dem Pitch.
+Eine gute Beispiel Map hier ist die [sakuzyo - Altale](https://osu.ppy.sh/beatmapsets/347779). In der Starry's Another Lv.29 sehen wir vor allem in den Ruhigen Parts das hier mit den Noten sehr genau nach Pitch gefolgt wird. Auch die LN's folgen hier schön dem Pitch.
 
-Auch erwähnenswert ist hier die [MiddleIsland - Achromat](https://osu.ppy.sh/s/195940). In der 4k Hard sehen wir sehr schön wie der Mapper mit sehr vielen Single noten überall im Song versucht dem Piano Pitch zu folgen. In der Tristan97's 4K White Another sehen wir sogar das der Mapper selbst mit den Chords dem Pitch folgt. Was auf den ersten Blick extrem schwer zu Spielen scheint, spielt sich dann in der Praxis extrem gut wenn man sich der Melodie anvertraut.
+Auch erwähnenswert ist hier die [MiddleIsland - Achromat](https://osu.ppy.sh/beatmapsets/195940). In der 4k Hard sehen wir sehr schön wie der Mapper mit sehr vielen Single noten überall im Song versucht dem Piano Pitch zu folgen. In der Tristan97's 4K White Another sehen wir sogar das der Mapper selbst mit den Chords dem Pitch folgt. Was auf den ersten Blick extrem schwer zu Spielen scheint, spielt sich dann in der Praxis extrem gut wenn man sich der Melodie anvertraut.
 
 Also versucht euch anfangs nicht nach Pitch zu Orientieren. Es ist uns einfach nicht möglich jedes mal diesem zu folgen. Man kann es wie ein "kleines Extra" sehen was eure Map noch etwas spannender machen kann, ist aber nicht zwingend Notwendig.
 
@@ -318,17 +314,17 @@ Entweder wir folgen der **Melodie** oder wir folgen den **Instrumenten**.
 
 Man kann auch beides versuchen jedoch ist das grade für neue Osu!Mania Mapper sehr schwer. Je nach Musik müsst ihr euch oft für eines davon Entscheiden. Wenn ihr zum Beispiel ein Musikstück mit sehr vielen Instrumental Mappt fällt die Wahl natürlich schon mal einfach. Wir versuchen so gut wie möglich den Instrumenten zu folgen. Als Beispiel: Einfache Piano Noten können wir mit Single noten belegen. Drums dann immer mit einem 2er Chord um diese zu Betonen.
 
-Ein gutes Beispiel um das zu verdeutlichen wie man den **Instrumental** folgt, ist die [Jin ft. MARiA from GARNiDELiA - daze (short ver.)](https://osu.ppy.sh/b/477955). In der Shiki's SC sehen wir vor allem am Anfang sehr deutlich wie der Mapper dem Drums folgt. Dabei bleibt der Mapper strickt bei seinem Plan. Er mappt den Drum-Sound den er einmal mit einem 2er Chord gemappt hat Konstant die ganze Map lang mit einem 2er Chord, das gleiche gilt für den 3er Chord.
+Ein gutes Beispiel um das zu verdeutlichen wie man den **Instrumental** folgt, ist die [Jin ft. MARiA from GARNiDELiA - daze (short ver.)](https://osu.ppy.sh/beatmaps/477955). In der Shiki's SC sehen wir vor allem am Anfang sehr deutlich wie der Mapper dem Drums folgt. Dabei bleibt der Mapper strickt bei seinem Plan. Er mappt den Drum-Sound den er einmal mit einem 2er Chord gemappt hat Konstant die ganze Map lang mit einem 2er Chord, das gleiche gilt für den 3er Chord.
 
-Eine gute Map die der **Melodie** folgt ist die [C-Show - Invitation from Mr.C](https://osu.ppy.sh/b/659683). Dies ist ein Song aus Sound Voltex. Hier hat man nur eingeschränkte Wahl den Instrumentals zu folgen da nicht viele bis auf Drums vorhanden sind. Also was Mappen wir? Ganz einfach! Wir gehen den einfachsten Weg. Wir folgen voll und ganz der Melodie! Hier könnten wir sogar ab und zu mal mit LN's den Vocals folgen (Übertreibt es aber nicht! Vocals Mappen sollte man unterlassen, dazu aber gleich mehr). Hier sieht man grade in der Zweiten Kiai sehr gut wie der Mapper der Melodie folgt.
+Eine gute Map die der **Melodie** folgt ist die [C-Show - Invitation from Mr.C](https://osu.ppy.sh/beatmaps/659683). Dies ist ein Song aus Sound Voltex. Hier hat man nur eingeschränkte Wahl den Instrumentals zu folgen da nicht viele bis auf Drums vorhanden sind. Also was Mappen wir? Ganz einfach! Wir gehen den einfachsten Weg. Wir folgen voll und ganz der Melodie! Hier könnten wir sogar ab und zu mal mit LN's den Vocals folgen (Übertreibt es aber nicht! Vocals Mappen sollte man unterlassen, dazu aber gleich mehr). Hier sieht man grade in der Zweiten Kiai sehr gut wie der Mapper der Melodie folgt.
 
 Kommen wir mal zum **Vocal** Mapping. Bedeutet der Mapper folgt dem/der Sänger/in im Musikstück. In Mania sollte man oft vermeiden zu viele Vocals zu Mappen. Gern kann man ab und zu mal eine LN für ein Vocal einfügen, jedoch sollte man das dann auch Konstant und gut Spielbar durchführen.
 
-Eine gute map das zu zeigen ist die [Haruna Luna - Startear -TV size ver.-](https://osu.ppy.sh/b/577389). Grade am Anfang und vor der ersten Kiai sieht man sehr gut wie der Mapper hier mit LN's den Vocals folgt da er einfach kaum andere Wahl hat, da kaum Instrumente vorhanden sind. In diesem Fall ist es in Ordnung wenn wir den Vocals folgen.
+Eine gute map das zu zeigen ist die [Haruna Luna - Startear -TV size ver.-](https://osu.ppy.sh/beatmaps/577389). Grade am Anfang und vor der ersten Kiai sieht man sehr gut wie der Mapper hier mit LN's den Vocals folgt da er einfach kaum andere Wahl hat, da kaum Instrumente vorhanden sind. In diesem Fall ist es in Ordnung wenn wir den Vocals folgen.
 
 Aber übertreibt es nicht! Ihr werdet schnell merken wie schlecht sich zu viele Vocals Mappen. Versucht immer in erster Linie Instrumenten zu folgen!
 
-Ein gutes Beispiel wie man es **NICHT** machen sollte sehen wir in einer meiner ersten Maps [hier](https://osu.ppy.sh/b/571190). Ich war damals nicht nicht wirklich erfahren und fand es recht lustig die Komplette Map fast nur den Vocals zu folgen. Jedoch spielt sich das einfach nur schlecht. Versucht einfach übermäßiges Vocal Mapping zu vermeiden ;)
+Ein gutes Beispiel wie man es **NICHT** machen sollte sehen wir in einer meiner ersten Maps [hier](https://osu.ppy.sh/beatmaps/571190). Ich war damals nicht nicht wirklich erfahren und fand es recht lustig die Komplette Map fast nur den Vocals zu folgen. Jedoch spielt sich das einfach nur schlecht. Versucht einfach übermäßiges Vocal Mapping zu vermeiden ;)
 
 Soviel zum Thema Design! Wie ihr seht gibt es einige Methoden wie wir Mappen können. Sollte euch mal die Inspiration fehlen dann schaut euch andere Maps im Editor an und fragt euch selber "Wie hat der Mapper hier gemappt und warum". Vielleicht könnt ihr davon was in eure Map übernehmen. Dies ist auch die Perfekte Überleitung zu unserem nächsten Punkt:
 
@@ -338,7 +334,7 @@ Ganz egal wie viel ihr auch Mappt. Irgendwann habt ihr eure grenzen erreicht. Es
 
 Unter **Modding** versteht man sich die Pending Map eines anderen Spielers runterzuladen und sich diese dann im Editor anzuschauen und dazu im Forum Beitrag der Map Vorschläge zu schreiben was die Map besser machen könnte. Wichtig hierbei: Ihr gebt nur Vorschläge! Der Mapper ist keinesfalls verpflicht das anzunehmen was ihr ihm vorschlagt, schließlich ist es seine Map. Genau so ist es mit eurer Map. Solltet ihr einen Mod für eure Map bekommen müsst ihr nicht alles annehmen was man euch vorschlägt. Es ist eure Map. Es soll auch eure Map bleiben und sie muss **euch** gefallen!
 
-Gehen wir mal näher aufs Modding ein. Zuerst brauchen wir eine Map dir wir Modden wollen. Es gibt mehrere Möglichkeiten woher ihr eine Map bekommen könnt die ihr Modden wollt. In erster Linie haben wir das [Modding Queue](https://osu.ppy.sh/forum/60) Forum. Hier Posten die Leute ihre Maps in die Queues der anderen und fragen nach Mods. Ihr könnt einfach mal in die Verschiedenen Queues schauen und vielleicht findet ihr einen Song der euch gefällt!
+Gehen wir mal näher aufs Modding ein. Zuerst brauchen wir eine Map dir wir Modden wollen. Es gibt mehrere Möglichkeiten woher ihr eine Map bekommen könnt die ihr Modden wollt. In erster Linie haben wir das [Modding Queue](https://osu.ppy.sh/community/forums/60) Forum. Hier Posten die Leute ihre Maps in die Queues der anderen und fragen nach Mods. Ihr könnt einfach mal in die Verschiedenen Queues schauen und vielleicht findet ihr einen Song der euch gefällt!
 
 Zweitens haben wir Ingame den Channel **\#modreqs**. Dort posten Spieler auch ihre Maps um nach Mods zu fragen. Viele Modder fangen genau dort an. Sie picken sich einfach 1-2 Maps raus und Modden diese.
 
@@ -354,7 +350,7 @@ Das hier ist mit Abstand der Wichtigste Punkt. Treffen die Noten auch den Ton f�
 
 Ihr möchtet mal sehen wie Modding aussieht? Kein Problem! Hier haben wir eine Map die ich vor einem Monat mal gemodded habe:
 
-[Senpi- - The Last Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/forum/p/4424484). Ihr braucht jetzt kein ausgefallenes Design so wie ich das benutze. Ich habe mir diese "Vorlage" gebaut um mehr Übersicht zu haben was ich zu Modden haben und auch für den Mapper das er eine bessere Übersicht hat.
+[Senpi- - The Last Part of Touhou EX Boss Rush!!](https://osu.ppy.sh/community/forums/posts/4424484). Ihr braucht jetzt kein ausgefallenes Design so wie ich das benutze. Ich habe mir diese "Vorlage" gebaut um mehr Übersicht zu haben was ich zu Modden haben und auch für den Mapper das er eine bessere Übersicht hat.
 
 Soviel zum Thema Modding! Wenn ihr eine Map ranken wollt kommt ihr nicht drum rum eine Map zu Modden. Aber vergesst nicht. Durch das Modden seht ihr unzählige verschiedene Designs auf die ihr selber vielleicht nie kommen würdet!
 
@@ -362,7 +358,7 @@ Soviel zum Thema Modding! Wenn ihr eine Map ranken wollt kommt ihr nicht drum ru
 
 Ein sehr interessanter Punkt und einzigartig für den Mania Modus ist das "**Keysounden**"
 
-Das Keysounden ist eine besondere Art des Hitsounden. Wir können einzelne Noten mit Hitsounds oder anderem Sounds belegen ohne das wir sie in ein Sampleset einfügen müssen! Die wohl bekannteste Mania Keysound Map ist die [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006](https://osu.ppy.sh/b/259067). Sie besteht zu 100% aus Keysounds. Heißt, der Mapper hat jede Note mit einem einzelnen und bestimmten Keysound belegt! Eine Full Keysound Map ist unheimlich viel Arbeit, denn jeder Ton muss richtig belegt sein, sonst klingt die Melodie falsch. Ich versuche mal zu beschreiben wie das ungefähr funktioniert:
+Das Keysounden ist eine besondere Art des Hitsounden. Wir können einzelne Noten mit Hitsounds oder anderem Sounds belegen ohne das wir sie in ein Sampleset einfügen müssen! Die wohl bekannteste Mania Keysound Map ist die [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006](https://osu.ppy.sh/beatmaps/259067). Sie besteht zu 100% aus Keysounds. Heißt, der Mapper hat jede Note mit einem einzelnen und bestimmten Keysound belegt! Eine Full Keysound Map ist unheimlich viel Arbeit, denn jeder Ton muss richtig belegt sein, sonst klingt die Melodie falsch. Ich versuche mal zu beschreiben wie das ungefähr funktioniert:
 
 #### Sample Menü
 
@@ -378,19 +374,19 @@ Wollt ihr eine Note mit einem Keysound belegen wählt diese mit einem ALT + Link
 
 Im Grunde könnte man damit ein komplett eigenen Song erstellen ohne eine mp3 verwenden zu müssen! (Dann aber nicht für Rank!)
 
-Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample Set packen möchte. Ihr habt einen Piano Song und die dazugehörigen Piano Noten? Wunderbar! Packt sie in den Song Ordner und benutzt das Sample Menü! Ein schönes Beispiel wie ich das gemacht habe seht ihr auf meiner Map [Liz Triangle - The Starry true](https://osu.ppy.sh/s/327114) Ich habe das Intro einfach mit Piano Noten belegt. Dies gibt dem Song eine besondere Atmosphäre. Probiert es einfach mal aus!
+Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample Set packen möchte. Ihr habt einen Piano Song und die dazugehörigen Piano Noten? Wunderbar! Packt sie in den Song Ordner und benutzt das Sample Menü! Ein schönes Beispiel wie ich das gemacht habe seht ihr auf meiner Map [Liz Triangle - The Starry true](https://osu.ppy.sh/beatmapsets/327114) Ich habe das Intro einfach mit Piano Noten belegt. Dies gibt dem Song eine besondere Atmosphäre. Probiert es einfach mal aus!
 
 Auch andere gute Keysound Maps sind:
 
-[Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/b/678460) by Starry-
+[Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/beatmaps/678460) by Starry-
 
-[monotone - Totsugeki! Glass no Kneesocks Hime!](https://osu.ppy.sh/b/369341) by - Loco
+[monotone - Totsugeki! Glass no Kneesocks Hime!](https://osu.ppy.sh/beatmaps/369341) by - Loco
 
-[orangentle / Yu\_Asahina - HAELEQUIN](https://osu.ppy.sh/b/450104) by Chocoliti
+[orangentle / Yu\_Asahina - HAELEQUIN](https://osu.ppy.sh/beatmaps/450104) by Chocoliti
 
 Sie sind nicht alle Full Keysounded aber sie besitzen welche!
 
-Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](https://osu.ppy.sh/forum/t/139139) an! **(Englisch)**
+Interesse an Keysounden? Dann schaut euch doch mal [Hanyuu's Keysound Guide](https://osu.ppy.sh/community/forums/topics/139139) an! **(Englisch)**
 
 Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkeiten offen Hitsounds und Keysounds zu verwenden!
 
@@ -398,7 +394,7 @@ Soviel zum Thema Keysounden! Wie ihr seht stehen uns unendlich viele Möglichkei
 
 Die Slider Velocity oder auch SV spielt in Mania eine große Rolle. Sie kontrollieren das Scrollspeed die eine Map hat. Zur Klarstellung: Wenn ihr eine Map mit Multipler BPM habt, z.B Anfang 150 BPM und in der Mitte 200 BPM wird das Scrollspeed auf eimal viel schneller! Das wollen wir natürlich nicht und genau das regulieren wir mit den Inherited Points und der Slider Velocity.
 
-Nehmen wir mal als Beispiel folgende Map: [ginkiha - Starlight Express](https://osu.ppy.sh/s/216238)
+Nehmen wir mal als Beispiel folgende Map: [ginkiha - Starlight Express](https://osu.ppy.sh/beatmapsets/216238)
 
 Diese Map hat ungefähr ab der Mitte einen Speedup und somit werden auch die BPM Schneller, von ca 200 BPM hoch bis zu 400 BPM. Es gibt eine Simple Formel um hier die richtige SV Zu berechnen
 
@@ -414,12 +410,12 @@ Vergesst niemals SV Punkte einzusetzen sonst wird eure ganz plötzlich viel schn
 
 Ein weiteren Verwendungszweck für SV's sind wenn wir ganz kurze abschnitte schneller oder Langsamer haben möchten.
 
-Eine sehr gute Beispiel Map dafür ist die [Nizikawa - F.K.S](https://osu.ppy.sh/b/556755).
+Eine sehr gute Beispiel Map dafür ist die [Nizikawa - F.K.S](https://osu.ppy.sh/beatmaps/556755).
 
 In der Gravity und der Infinite Diff sehen wir vereinzelnd stellen die "Ruckeln" diese werden mit den Inherited Points kontrolliert. Um solche Ruckler einzubauen müsst ihr erst einen etwas schnelleren SV Punkt Platzieren (In der Infinite 1.2 SV), kurz darauf, und das noch vor den nächsten Noten wieder die SV Normalisieren (1.0). Dann wieder 1.2 SV und wieder 1.0. Ich versuche es mal zu erklären:
 
 Sobald wir bei einem SV Punkt angekommen sind der schneller ist als das Normale wird das Scrollspeed schneller. Wenn wir jedoch kurz darauf direkt wieder das Scrollspeed Normalisieren sieht man nur ganz kurz wie das Speed schneller wird. Wenn man das öfter hintereinander in kurzer Zeit macht bekommt man den Optischen Effekt die noten würden ein wenig "Ruckeln".
 
-Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr gut dafür ist diese [Guide](https://osu.ppy.sh/forum/t/155780). **(Englisch)**
+Man muss sich ein wenig damit auseinandersetzen um das genauer zu versehen. Sehr gut dafür ist diese [Guide](https://osu.ppy.sh/community/forums/topics/155780). **(Englisch)**
 
 Probiert einfach mal ein wenig rum. Man kann damit wirklich sehr lustige Maps erstellen.

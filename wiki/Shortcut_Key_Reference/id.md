@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Referensi Tombol Pintasan
-==========================
+
+# Referensi Tombol Pintasan
 
 Di osu!, terdapat variasi pintasan yang dapat berguna baik dalam game maupun tampilan awal. Dibawah ini tertulis beserta fungsinya
 
-Semua (Baik dalam Permainan maupun Tampilan Awal)
--------------------------------------------------
+## Semua (Baik dalam Permainan maupun Tampilan Awal)
 
 -   **Shift+F1**: Membuka osu!status (ketika terjadi kesalahan koneksi)
 -   **F7**: Mengganti cara membatasi FPS
@@ -18,8 +17,7 @@ Semua (Baik dalam Permainan maupun Tampilan Awal)
 -   **Insert**: Meminimalkan osu! ke area notifikasi pada taskbar.
 -   **Tombol Panah Atas/Bawah**: Menambah/Mengurangi volume.
 
-Hanya Tampilan Awal
--------------------
+## Hanya Tampilan Awal
 
 -   **F1**: Lagu Sebelumnya
 -   **F2**: Mulai dari awal
@@ -31,8 +29,7 @@ Hanya Tampilan Awal
 -   **Escape**: Mundur 1 Menu
 -   **Ctrl-Alt-Shift-S**: Memulai ulang skin
 
-Menu Utama
-----------
+## Menu Utama
 
 -   **P**: Mode Bermain (2 kali untuk masuk ke pemilihan lagu)
 -   **P-M**: Mode ([Bermain Bersama](/wiki/Multi))
@@ -44,8 +41,7 @@ Menu Utama
 -   **Q**: Keluar
 -   **R**: Lagu acak
 
-Pemilihan Lagu
---------------
+## Pemilihan Lagu
 
 -   **F1**: [Pemilihan Mod](/wiki/Game_Modifiers)
 -   **F2**: Map Acak (tekan 2x secara cepat untuk map acak instan)
@@ -60,8 +56,7 @@ Pemilihan Lagu
 -   **PageUp/PageDown**: Mengganti pilihan (Besar)
 -   **Enter**: Memilih
 
-Tampilan Mod
-------------
+## Tampilan Mod
 
 Catatan: Mod spesial seperti [Perfect](/wiki/Game_Modifiers) atau [Nightcore](/wiki/Game_Modifiers) perlu ditekan sekali lagi.
 
@@ -86,8 +81,7 @@ Catatan: Mod spesial seperti [Perfect](/wiki/Game_Modifiers) atau [Nightcore](/w
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
-Mode Bermain
-------------
+## Mode Bermain
 
 -   **+/-**: Mengatur offset lokal (tahan SHIFT/CTRL untuk mengganti keakuratan)
 -   **Escape**: Jeda (Keluar jika sedang menggunakan mod Otomatis)
@@ -96,8 +90,7 @@ Mode Bermain
 -   **F3/F4**: Mengatur kecepatan untuk osu!mania.
 -   **Ctrl-R**: Mengulang dengan cepat map yang sedang dimainkan (Melewatkan pembukaan secara otomatis )
 
-Mode Penyunting
----------------
+## Mode Penyunting
 
 ### Pintasan Papan Tombol
 

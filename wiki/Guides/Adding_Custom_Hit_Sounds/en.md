@@ -1,10 +1,8 @@
-Adding Custom Hit Sounds
-===========================
+# Adding Custom Hit Sounds
 
-From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/forum/p/3215699)* (and modified)
+From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (and modified)
 
-Getting the custom hit sounds
-------------------------------
+## Getting the custom hit sounds
 
 You'll first need some custom hit sounds! You can either:
 - You can get them from the [Custom Hit Sound Library](../Custom_Hit_Sound_Library/),
@@ -31,8 +29,7 @@ You then decide if you want it to be the normal hit, clap, whistle or finish.
 
 So then you name the file (let's say the Soft clap) `soft-hitclap.wav`.
 
-Multiple hit sounds with the same name
----------------------------------------
+## Multiple hit sounds with the same name
 
 If you want more variety and need more options for clap and all, you just add a number behind it.
 

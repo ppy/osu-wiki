@@ -1,5 +1,4 @@
-Timing Songs with #/8-Signatures
-================================
+# Timing Songs with #/8-Signatures
 
 Every now and then, songs are being mapped that have a time signature that is not divided into quater-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ..). Since the current editor does not support those #/8-signatures and we don't know whether this will change in the near future, an addition has been made to the rule concerning this matter on the [corresponding section of the Ranking Criteria](/wiki/Ranking_Criteria#timing.1).
 
@@ -18,7 +17,7 @@ Now to give you a first example of this in osu!, look at the `3/4`-difficulty in
 
 ## Methods of timing songs with #/8-signatures
 
-Generally speaking, there are 2 viable methods of dealing with this problem in osu!. 
+Generally speaking, there are 2 viable methods of dealing with this problem in osu!.
 
 ### Emulating #/8-signatures
 

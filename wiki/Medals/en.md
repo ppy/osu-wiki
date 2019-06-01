@@ -1,11 +1,9 @@
-Medals
-======
+# Medals
 
 Medals, previously known as _achievements_, are little badges on a user's profile which indicate that the user has accomplished an exceptional goal.
 Currently, they are divided into 5 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), and [Hush-Hush](#hush-hush).
 
-Beatmap Packs
--------------
+## Beatmap Packs
 
 **The Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t).
 You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) and the badge.
@@ -37,8 +35,7 @@ Each of these sections currently have 4 volumes to them.
 - Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
 - The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t).
 
-Skill
------
+## Skill
 
 Skill medals are currently divided into three groups: Combo, High Ranker, and Star-based.
 
@@ -74,8 +71,7 @@ Shown below are the _Pass_ and _S_ medals for the 8-star variant, but there are 
 | ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
 | ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
 
-Dedication
-----------
+## Dedication
 
 The Dedication medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
@@ -86,8 +82,7 @@ The Dedication medals can be obtained by playing a lot of osu!standard, collecti
 | ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Mod Introduction
-----------------
+## Mod Introduction
 
 *See also: [Game Modifiers](/wiki/Game_Modifiers)*
 
@@ -103,8 +98,7 @@ Do note that if the player plays with multiple game modifiers at a time, the pla
 | ![Hidden](img/all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
-Hush-Hush
----------
+## Hush-Hush
 
 Medals of this kind have no obvious way to get them.
 The player must find out what needs to be done in order to unlock the medal.
@@ -120,8 +114,7 @@ The title itself is a clue.
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
-Trivia
-------
+## Trivia
 
 - [Legacy beatmap packs (2009 - 2016) before Stefan's update.](Beatmap_Packs_0916)
-- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/forum/t/80448).
+- peppy's forum post for [Achievement Graphics](https://osu.ppy.sh/community/forums/topics/80448).

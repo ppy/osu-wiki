@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Restructuring of the BAT"
-permalink: http://osunews.tumblr.com/post/95382566688/restructuring-of-the-bat
 date: 2014-08-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95382566688/restructuring-of-the-bat
 ---
+
 New changes to the ranking process are inbound! Read on to discover how the team is changing, and how this affects everyday mappers.
 
 In the spirit of preparing the community for a brand new modding system (known internally as "moddingv2"), we have decided to alter the team's structure to one which simulates how the ranking process will function after the new system is introduced.

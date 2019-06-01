@@ -1,8 +1,7 @@
-[*The Painless Add Video To Beatmap Process walkthrough.* por: Gilrad](https://osu.ppy.sh/forum/t/639/)
+[*The Painless Add Video To Beatmap Process walkthrough.* por: Gilrad](https://osu.ppy.sh/community/forums/topics/639/)
 Este tutorial é destinado para aqueles que **não conseguem** encontrar o vídeo que desejam fora do YouTube.
 
-Como baixar vídeos do YouTube
------------------------------------
+## Como baixar vídeos do YouTube
 
 ### YouTube
 

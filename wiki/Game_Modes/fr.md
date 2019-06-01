@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Modes de Jeu
 
 ## ![icône d'osu!](/wiki/shared/mode/osu.png) osu!standard
@@ -25,4 +26,4 @@ Collectez les fruits tombant en bougeant l'attrapeur avec un plateau. Keep danci
 
 *Main page: [osu!mania](/wiki/osu!mania)*
 
-Basé sur les jeux de rythme de type "tapis-roulant", principalement introduit et implémenté par [woc2006](/users/1105845). Make the notes play a melody of the beat.
+Basé sur les jeux de rythme de type "tapis-roulant", principalement introduit et implémenté par [woc2006](https://osu.ppy.sh/users/1105845). Make the notes play a melody of the beat.

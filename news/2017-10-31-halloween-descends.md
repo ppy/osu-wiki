@@ -60,7 +60,7 @@ As with last year, this little client-makeover also features cYsmix's spectacula
 
 <br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
 
-We're also delighted to share a special Halloween-themed piece from one of our favourite osu! artists, [Anny](https://osu.ppy.sh/u/249094), which will also be appearing in the main-menu. Check it out!
+We're also delighted to share a special Halloween-themed piece from one of our favourite osu! artists, [Anny](https://osu.ppy.sh/users/249094), which will also be appearing in the main-menu. Check it out!
 
 <center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Halloween! 🎃 <a href="https://t.co/rG18x8gupy">pic.twitter.com/rG18x8gupy</a></p>— anny (@annytf) <a href="https://twitter.com/annytf/status/925187326933917696?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
@@ -86,7 +86,6 @@ See the whole process in action:
 <video src="https://assets.ppy.sh/media/halloween-2017/themoon.mp4" controls>
 </video>
 </center>
-
 
 You can also click on any one of your friends on a shared server who is currently playing osu!, and see what they're up to, as well as ask to join - if they're playing multiplayer.
 

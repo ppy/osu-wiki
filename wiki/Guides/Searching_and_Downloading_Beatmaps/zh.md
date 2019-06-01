@@ -1,16 +1,14 @@
-Searching and Downloading Beatmaps
-=========================================
+# Searching and Downloading Beatmaps
 
 本条目说明了如何搜索并下载谱面。有关谱面分类、编号等资料，可以参考[谱面](/wiki/Beatmaps)。
 
-如何搜索谱面？
---------------
+## 如何搜索谱面？
 
 在搜索框中输入关键词即可。
 
 在官网的每个页面的顶端都有搜索框。把本页面拉到最顶端，其中那个写着“Beatmap”字样的文本框就是它了。
 
-或者点击顶端的“Beatmaps”链接，进入[谱面搜索页](http://osu.ppy.sh/p/beatmaplist)。
+或者点击顶端的“Beatmaps”链接，进入[谱面搜索页](https://osu.ppy.sh/p/beatmaplist)。
 
 ### 搜索要素之一：关键词
 
@@ -47,20 +45,20 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 
 ```
 例1：
- √ 初音ミク
- × 初音未来
+ √ 初音ミク
+ × 初音未来
 ```
 
 ```
 例2：
- √ 杀马特遇见洗剪吹
- × When Shamate meets Xijianchui
+ √ 杀马特遇见洗剪吹
+ × When Shamate meets Xijianchui
 ```
 
 ```
 例3：
- √ 八雲 紫
- × 紫妈dal;fj;eij;;sdlkjmajfejf;ealija;slgvbmnfdsjme
+ √ 八雲 紫
+ × 紫妈dal;fj;eij;;sdlkjmajfejf;ealija;slgvbmnfdsjme
 ```
 
 至于“国际化”，则是将非英文转化成英文的通用表示方法。Osu!在2013年以前，并不使用非英文信息进行谱面检索，因此想要检索2013年的谱面，就需要将以上提到的信息进行**罗马音化**。
@@ -72,8 +70,8 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 对于中文，其罗马音就是其汉语拼音，单字之间以空格分隔。
 
 ```
-例  最炫民族风
-结果  zui xuan min zu feng
+例  最炫民族风
+结果  zui xuan min zu feng
 ```
 
 对于日文，采用[平文式罗马字](http://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)进行罗马音化，单词之间以空格分隔。
@@ -89,10 +87,10 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 典型搜索方式：百度/谷歌搜索→A/B站→视频说明中包含niconico链接→转到网页→复制标题、P主。
 
 
-**例** 搜索Vocaloid歌曲《千本樱》。
+**例** 搜索Vocaloid歌曲《千本樱》。
 通过搜索找到niconico页面，可知歌曲原本标题是“千本桜”，作者是“黒うさP”，使用的歌姬是初音ミク。
-因此搜索关键词应该填写：千本桜 senbonzakura 黒うさP kurousa-P 初音ミク hatsune miku
-[点此查看搜索结果](http://osu.ppy.sh/p/beatmaplist?q=%E5%8D%83%E6%9C%AC%E6%A1%9C%20senbonzakura%20%E9%BB%92%E3%81%86%E3%81%95P%20kurousa-P%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%20hatsune%20miku&m=-1&r=0&g=0&la=0&ra)，可见排位在前面的所有歌曲都是我们想找的。
+因此搜索关键词应该填写：千本桜 senbonzakura 黒うさP kurousa-P 初音ミク hatsune miku
+[点此查看搜索结果](https://osu.ppy.sh/p/beatmaplist?q=%E5%8D%83%E6%9C%AC%E6%A1%9C%20senbonzakura%20%E9%BB%92%E3%81%86%E3%81%95P%20kurousa-P%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%20hatsune%20miku&m=-1&r=0&g=0&la=0&ra)，可见排位在前面的所有歌曲都是我们想找的。
 
 
 ##### 专辑收录歌曲类
@@ -102,8 +100,8 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 此外还有一些专辑百科类的网站，例如针对动漫/游戏音乐的 <http://vgmdb.net/> 等。
 
 ```
-例 搜索专辑歌曲《My Love》（月度作图比赛歌曲）
+例 搜索专辑歌曲《My Love》（月度作图比赛歌曲）
 搜索歌手和歌名可以转到专辑信息页面：http://kubaoms.bandcamp.com/album/adhd
-可以知道以下信息：歌手Kuba Oms，歌名My Love，专辑ADHD
-因此搜索关键词应该填写：Kuba Oms My Love ADHD
+可以知道以下信息：歌手Kuba Oms，歌名My Love，专辑ADHD
+因此搜索关键词应该填写：Kuba Oms My Love ADHD
 ```

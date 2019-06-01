@@ -58,7 +58,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 | Position | Member(s) |
 | :-- | :-- |
-| Example; delete this line | ![][flag_AU] [peppy](/users/2), ![][flag_AU] [BanchoBot](/users/3) |
+| Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
 | Management |  |
 | Map Selectors |  |
 | Streamers |
@@ -69,7 +69,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/{TOPIC_NUM})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet]({STATS_LINK})**
 
@@ -77,7 +77,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](/users/2), [BanchoBot](/users/3) |
+| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
 |  |  |  |
 
 ## Groups
@@ -104,7 +104,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
-  - Beatmap 
+  - Beatmap
 - Tiebreaker
   - **Beatmap**
 
@@ -122,7 +122,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Finals - Week 2
 
 | Day, date |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
 | TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
 | TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |
@@ -131,7 +131,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
-### Group Stage 
+### Group Stage
 
 ---------------------------------
 
@@ -142,9 +142,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Stage Instructions
 ### Match Instructions
 ### Mappool Instructions
-### Scheduling Instructions 
+### Scheduling Instructions
 
-<!-- 
+<!--
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->

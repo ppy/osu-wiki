@@ -1,7 +1,6 @@
 # FAQ
 
-Panimula
-========
+# Panimula
 
 ### Hindi ko pa nalaro tong "Ouendan" na laro, ano ba ito?
 
@@ -11,8 +10,7 @@ Panimula
 
 Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay nandun ang storya. Bawat stage ay may isang nilalaman na storya ng isang tao na nasa peligro. Diyan kung saan ay lalabas ang Ouendan (Cheer Squad). Sa kapangyarihan ng male cheer-leading, kailangan mong tulungan ang mga taong nasa peligro.
 
-Paano maglaro?
---------------
+## Paano maglaro?
 
 *Buong explenation (English): [osu! Standard](PH:Standard "wikilink")*
 
@@ -20,7 +18,7 @@ Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin m
 
 ### Game-play Basics
 
-`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](http://osu.ppy.sh/s/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Yung` `naka-bundled` `na` `sa` `PC` `osu!)` `Orihinal` `na` `tutorial`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Ranked` `beatmap` `ng` `tutorial`](https://osu.ppy.sh/beatmapsets/19928)
 
 Ang laro na ito ay nakasalalay sa iyong:
 
@@ -83,8 +81,7 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 -   Yung bilog na katabi ng accuracy mo ay dun pinapakita ang timer bar, kung saan pinapakita ang haba ng kanta.
 -   Ang numero sa kaliwang ibaba ay ang combo counter/score multiplier.
 
-Mga Issues at Tanong
---------------------
+## Mga Issues at Tanong
 
 ### Hindi ko mapagana ang osu! dahil may nakukuha ako na 'Initialization Error'!
 
@@ -104,26 +101,26 @@ Maaaring na-corrupt ang beatmap na na-idownload mo o kaya naman hindi nakumpleto
 
 ### May iba bang mali na hindi naka sulat dito?
 
-Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa [Technical Support](https://osu.ppy.sh/forum/5) sa wikang Ingles.
+Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa [Technical Support](https://osu.ppy.sh/community/forums/5) sa wikang Ingles.
 
-"Bago magpost sa [Technical Support](https://osu.ppy.sh/forum/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
+"Bago magpost sa [Technical Support](https://osu.ppy.sh/community/forums/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
 
 "Pwede ka rin pumunta sa \#help channel at magtanong tungkol sa problema mo."
 
 ### Gumagana ba ang osu! sa OSX?
 
-May test release para sa OSX na [makikita dito](https://osu.ppy.sh/forum/t/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
+May test release para sa OSX na [makikita dito](https://osu.ppy.sh/community/forums/topics/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
 
-Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/forum/t/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
+Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/community/forums/topics/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
 
 ### Gumagana ba ang osu! sa loob ng Linux?
 
 May mga tao na nagsasabi na pwede mo rin mapagana ang osu! sa loob ng Linux gamit Wine.
 
-Tignan ang [thread na ito](https://osu.ppy.sh/forum/t/14614) para sa mga detalye kung paano gawin.
+Tignan ang [thread na ito](https://osu.ppy.sh/community/forums/topics/14614) para sa mga detalye kung paano gawin.
 
 ### Ang hirap ng mga maps! Saan ako makaka hanapa ng madaling maps?
 
-Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <http://osu.ppy.sh/forum/t/5456>
+Si pokebis ay nag-ipon ng mga set na beatmap para malaro ng mga beginner. Mahahanap mo sila dito: <https://osu.ppy.sh/community/forums/topics/5456>
 
-At tsaka, [ang ranked na beatmap ng osu! tutorial](http://osu.ppy.sh/s/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.
+At tsaka, [ang ranked na beatmap ng osu! tutorial](https://osu.ppy.sh/beatmapsets/19928) ay maganda din pag-praktisan para sa mga possibleng desenyo na mapping na ma-lalaro mo. Ito ay isang magandang pagsasanay para sa mga newbies at magagaling na players.

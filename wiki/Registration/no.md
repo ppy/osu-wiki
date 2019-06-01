@@ -1,13 +1,13 @@
 ---
 outdated: true
 ---
-Hvordan registrerer jeg meg?
-----------------------------
+
+## Hvordan registrerer jeg meg?
 
 <center>
 **<font size="5">Legg merke til at du kan bare ha én konto! Å lage to eller flere kontoer er brudd på <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules osu!regler\]</span>. Følg trinnene nedenfor for å lage din egen osu!-bruker.**
 </font>
-<span style="font-size:18px">1. Gå til <span class="plainlinks"> [nettsiden](https://osu.ppy.sh)</span> og trykk "<b>I'm new!</b>" for å komme til registreringsskjema. </span>
+<span style="font-size:18px">1. Gå til <span class="plainlinks"> [nettsiden](https://osu.ppy.sh/home)</span> og trykk "<b>I'm new!</b>" for å komme til registreringsskjema. </span>
 
 <span style="font-size:18px">2. Fyll inn skjemaet og trykk "Continue" </span>
 
@@ -34,8 +34,7 @@ Hvordan registrerer jeg meg?
 | **3. Brukerpanel**     |
 
 </center>
-Hva gjør jeg nå?
-----------------
+## Hva gjør jeg nå?
 
 Du er klar for å starte ditt første eventyr i osu!. Fortsett til <span class="plainlinks"> [Velkommen](/wiki/Welcome)</span>-siden og ikke glem å lese <span class="plainlinks"> \[</wiki/Game_Modes/osu!>!:Rules reglene\]</span>!
 

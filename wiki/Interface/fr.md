@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Intro_static.jpg" title="fig:Right|Ecran d&#39;introduction d&#39;osu!" alt="Right|Ecran d&#39;introduction d&#39;osu!" width="400" /> \_\_TOC\_\_
 =Menu principal= <img src="introscreen.png" title="fig:Menu principal d&#39;osu!" alt="Menu principal d&#39;osu!" width="280" />
 
@@ -27,8 +28,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 3.  **Change Avatar**: Ouvre la page de modification de votre avatar dans votre navigateur Internet.
 4.  **Close** : Ferme la fenêtre.
 
-Menu de jeu
-===========
+# Menu de jeu
 
 <img src="introscreen2.png" title="Menu de jeu" alt="Menu de jeu" width="280" />
 
@@ -42,8 +42,7 @@ Menu de jeu
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-Ecran de sélection des beatmaps
--------------------------------
+## Ecran de sélection des beatmaps
 
 <img src="soloplay1.jpeg" title="L&#39;écran de sélection" alt="L&#39;écran de sélection" width="300" />
 
@@ -119,11 +118,9 @@ Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR
 | Global Ranking (Selected Mod)   |
 | Friend Ranking                  |
 
-Ranking screen
-==============
+# Ranking screen
 
-Grade screen
-------------
+## Grade screen
 
 This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
 
@@ -131,8 +128,7 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
 
-Online score leader-board
--------------------------
+## Online score leader-board
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
@@ -154,7 +150,7 @@ Note: The back transparent leitmotif is based on what mode you played in.
     5.  Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
     6.  To Next Rank: How much score you need to move your current map ranking position up.
 
-5.  Same as 4, but it is reserved for monthly [Ranking Charts](http://osu.ppy.sh/p/chart)
+5.  Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
 6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](Achievements "wikilink") page
 7.  Beatmap song with it's history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.

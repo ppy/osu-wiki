@@ -3,6 +3,7 @@ tags:
 - CMT 4K 2018
 - CMT4K 2018
 ---
+
 # 2018年华人 osu!mania 4K 大赛
 
 ![CMT 4K 2018 Logo](img/logo.jpg)
@@ -37,16 +38,16 @@ tags:
 
 | 团队 | 人员 |
 | :-: | :-- |
-| 比赛经理 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
-| 比赛监督 | ![][CN] [SSV Normandy](/users/6475977) |
-| 图池管理 | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| 直播裁判 | ![][CN] [aiyulu](/users/189617), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
-| 解说团队 | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083), ![][CN] [kj415j45](/users/9367540), ![][CN] [NimaPro](/users/11524571), ![][CN] [IA daisuki](/users/11238501) |
-| Wiki | ![][CN] [kj415j45](/users/9367540) |
+| 比赛经理 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 比赛监督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| 图池管理 | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| 直播裁判 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 解说团队 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## 链接
 
-- [论坛帖子](/community/forums/topics/800125)
+- [论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)
 - [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
@@ -290,7 +291,7 @@ tags:
      - 玩家使用汉语作为主要语言。
      - 本次比赛对玩家排名无强制要求。
      - 如果参赛者在过去一年内于 osu!社区 或在比赛中有过不良记录，我们可能会取消其参赛资格。
-3. 报名成功的选手将收到确认邮件，同时也将被加入[论坛帖子](/community/forums/topics/800125)。
+3. 报名成功的选手将收到确认邮件，同时也将被加入[论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)。
 4. 图池管理和比赛经理不得参赛。
 
 ### 比赛赛程

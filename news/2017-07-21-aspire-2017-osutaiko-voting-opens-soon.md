@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Aspire 2017: osu!taiko Voting Opens Soon"
-permalink: http://osunews.tumblr.com/post/163212166448/aspire-2017-osutaiko-voting-opens-soon
 date: 2017-07-21 10:10:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163212166448/aspire-2017-osutaiko-voting-opens-soon
 ---
@@ -16,7 +15,7 @@ There will be carnage, there will be crazy storyboards, and there will be things
 
 We'll be starting at **Saturday 22 July, 14:00 UTC** over at the [official osu! Twitch channel](https://twitch.tv/osulive). The voting will go live as soon as the stream begins, so you can vote along with everybody else watching!
 
-Be there, or be square. Or as Evrien once put it, don't be square, because we are circles. 
+Be there, or be square. Or as Evrien once put it, don't be square, because we are circles.
 
 See you there!
 

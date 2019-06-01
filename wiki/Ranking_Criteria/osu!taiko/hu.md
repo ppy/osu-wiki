@@ -1,10 +1,8 @@
-osu!taiko Ranking Criteria
-=====================================
+# osu!taiko Ranking Criteria
 
-Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/forum/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
+Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/community/forums/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
 
-Gyakori kifejezések
-----------------------
+## Gyakori kifejezések
 
 ### Általános
 
@@ -22,8 +20,7 @@ Gyakori kifejezések
 -   **Shaker**: Pörgető
 -   **Finisher**: Nagy Piros vagy Kék kör
 
-Szabályok
------------
+## Szabályok
 
 Minden szabály az, ami: SZABÁLY. A szabályok NEM simán jó tanácsok és NEM lehet őket megszegni SEMMILYEN körülmények között.
 
@@ -31,8 +28,7 @@ Minden szabály az, ami: SZABÁLY. A szabályok NEM simán jó tanácsok és NEM
 
 A nagy körök nem lehetnek a közepén vagy az elején a 1/4 vagy annál magasabb streameknek, kizárólag a végén, csak indokolt esetben. \[strike\]pls allow us oX\[/strike\]
 
-Irányelvek
--------------
+## Irányelvek
 
 Az irányelvek fontos szerepet töltenek be és követni kell legtöbb esetben. Viszont az irányelvek NEM szabályok, így meg lehet szegni őket **különleges eseteknél**. Ha meg szeretnél szegni egy segédelvet, kérdezd meg magadtól: "Van értelme annak, amit most fogok csinálni? Jobban lehet majd így játszani, mintha az irányelveket követném?" Ha a válaszod "igen" mindkét kérdésre, akkor valószínűleg rendben van.
 

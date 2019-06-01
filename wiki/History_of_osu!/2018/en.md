@@ -32,7 +32,7 @@ Links:
 
 ## February
 
-In osu!lazer, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hit sounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again. 
+In osu!lazer, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hit sounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again.
 
 In osu!web, the total play time was implemented in user profiles. Elasticsearch was updated. The old site was depreciated almost entirely (a new banner is now present almost everywhere on the old site, linking users to the new site). Genres and languages were added to beatmap pages. Recent activity now shows the "show more" option. Searching users was improved. Icons for the forum topics were changed to be more colour-blind friendly. Users are now able to set their default game mode (shown with a star next to the game mode) in their user profiles, rather than assuming the last viewed game mode. The changelog builds now have an osu!supporter promo at the bottom. An experience bar for the user's level can now be seen by hovering over the level badge.
 
@@ -116,7 +116,7 @@ In osu!web, thanks to nanaya, the header has been updated to match flyte's new d
 
 ---
 
-Thanks to nekodex, the osu!supporter status is now visible in the [support the game](/home/support) page and adding your Discord username to your user account was implemented.
+Thanks to nekodex, the osu!supporter status is now visible in the [support the game](https://osu.ppy.sh/home/support) page and adding your Discord username to your user account was implemented.
 
 ---
 

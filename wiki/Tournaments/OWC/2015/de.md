@@ -1,12 +1,10 @@
-osu! World Cup 2015
-======================
+# osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/g/26). Es ist der 6. osu! World Cup.
+Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Es ist der 6. osu! World Cup.
 
-Turnierzeitplan
----------------
+## Turnierzeitplan
 
 | Event               | Timestamp                   |
 |---------------------|-----------------------------|
@@ -19,8 +17,7 @@ Turnierzeitplan
 | Finale - Woche 1    | 05.-06. Dez. 2015           |
 | Finale - Woche 2    | 12.-13. Dez. 2015           |
 
-Preise
----------
+## Preise
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
@@ -30,8 +27,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
-Organisation
--------------
+## Organisation
 
 | Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,17 +39,15 @@ Organisation
 
 ------------------------------------------------------------------------
 
-Links
---------
+## Links
 
 -   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/forum/p/4550383)
--   [Registrierungsseite](https://jizz.ppy.sh/tournaments/2)
+-   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
+-   [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
-Participants
--------------
+## Participants
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
@@ -73,8 +67,8 @@ Participants
 |F|Country name|Team|
 |:---:|:---:|:---|
 |![Mx.gif][flag_MX]|**Mexico**|**[Broodich](https://osu.ppy.sh/users/2484629 "Broodich")**, [Id_Beat](https://osu.ppy.sh/users/3431380 "Id_Beat"), [Atheneon](https://osu.ppy.sh/users/2164627 "Atheneon"), [lndex](https://osu.ppy.sh/users/2038320 "lndex"), [Psycopath-](https://osu.ppy.sh/users/3233957 "Psycopath-"), [Eiikon](https://osu.ppy.sh/users/2553519 "Eiikon"), [KevEz](https://osu.ppy.sh/users/2271558 "KevEz"), [Atsuro](https://osu.ppy.sh/users/2279351 "Atsuro")|
-|![My.gif][flag_MY]|**Malaysia**|**[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-")| 
-|![Au.gif][flag_AU]|**Australia**|**[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha")| 
+|![My.gif][flag_MY]|**Malaysia**|**[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-")|
+|![Au.gif][flag_AU]|**Australia**|**[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha")|
 |![Us.gif][flag_US]|**United States**|**[Xilver](https://osu.ppy.sh/users/3099689 "Xilver")**, [Natalia](https://osu.ppy.sh/users/2162669 "Natalia"), [Axarious](https://osu.ppy.sh/users/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/users/1028387 "Ritzeh"), [Seouless](https://osu.ppy.sh/users/3328676 "Seouless"), [0120](https://osu.ppy.sh/users/1901534 "0120"), [Zodiaack](https://osu.ppy.sh/users/3096229 "Zodiaack"), [[Toy]](https://osu.ppy.sh/users/2757689 "[Toy]")|
 
 ### Group B
@@ -92,7 +86,7 @@ Participants
 |:---:|:---:|:---|
 |![Ua.gif][flag_UA]|**Ukraine**|**[Aka](https://osu.ppy.sh/users/1307553 "Aka")**, [wasisdasS](https://osu.ppy.sh/users/1999698 "wasisdasS"), [FllareA](https://osu.ppy.sh/users/1163931 "FllareA"), [Granje](https://osu.ppy.sh/users/496387 "Granje"), [-Ranndom-](https://osu.ppy.sh/users/5022536 "-Ranndom-"), [Yoru-hide](https://osu.ppy.sh/users/791121 "Yoru-hide"), [blednak](https://osu.ppy.sh/users/912627 "blednak")|
 |![Lv.gif][flag_LV]|**Latvia**|**[LoGo](https://osu.ppy.sh/users/750382 "LoGo")**, [Forseen](https://osu.ppy.sh/users/556012 "Forseen"), [Emula](https://osu.ppy.sh/users/2891792 "Emula"), [Vmx](https://osu.ppy.sh/users/967501 "Vmx"), [Jesus[Krists]](https://osu.ppy.sh/users/2842992 "Jesus[Krists]"), [Edijs](https://osu.ppy.sh/users/2799835 "Edijs"), [xoho](https://osu.ppy.sh/users/3647897 "xoho")|
-|![Ca.gif][flag_CA]|**Canada**|**[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi")| 
+|![Ca.gif][flag_CA]|**Canada**|**[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi")|
 |![Pl.gif][flag_PL]|**Poland**|**[Wilchq](https://osu.ppy.sh/users/2021758 "Wilchq")**, [Rafis](https://osu.ppy.sh/users/2558286 "Rafis"), [WubWoofWolf](https://osu.ppy.sh/users/39828 "WubWoofWolf"), [AmaiHachimitsu](https://osu.ppy.sh/users/844815 "AmaiHachimitsu"), [r0ck](https://osu.ppy.sh/users/1549620 "r0ck"), [fartownik](https://osu.ppy.sh/users/56917 "fartownik"), [SpajdeR](https://osu.ppy.sh/users/3446664 "SpajdeR"), [Lucid Astray](https://osu.ppy.sh/users/1773225 "Lucid Astray")|
 
 ### Group D
@@ -142,13 +136,12 @@ Participants
 
 ------------------------------------------------------------------------
 
-Regelsätze
-------------
+## Regelsätze
 
 ### Turnierregeln
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
     -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 

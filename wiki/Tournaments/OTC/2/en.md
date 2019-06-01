@@ -5,11 +5,12 @@ tags:
 - OTC#2
 - OTC2
 ---
+
 # osu! Technical Championship #2
 
 ![OTC #2 Logo](img/logo.png)
 
-The **osu! Technical Championship #2** (***OTC #2***) was a double elimination three-on-three osu! tournament hosted by ![][flag_US] [IsoSubjectPi](/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the 2nd installment of the osu! Technical Championship.
+The **osu! Technical Championship #2** (***OTC #2***) was a double elimination three-on-three osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the 2nd installment of the osu! Technical Championship.
 
 ## Tournament Schedule
 
@@ -40,20 +41,20 @@ The osu! Technical Championship #2 was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [IsoSubjectPi](/users/3989669) |
-| Administrators | ![][flag_DE] [Sir Hywen](/users/7601761), ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_US] [Saber](/users/4272841) |
-| Mappool QAT | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_US] [Saber](/users/4272841), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_CA] [Septembre](/users/3666816), ![][flag_SG] [-Engel-](/users/9424243), ![][flag_GB] [Nega](/users/3181083) |
-| Mappool Selectors | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_CA] [Septembre](/users/3666816), ![][flag_SG] [-Engel-](/users/9424243), ![][flag_US] [- Marii -](/users/5691561), ![][flag_EG] [Mohab500](/users/10520912), ![][flag_CN] [VRainbow](/users/3635214) |
-| Mappool Testers | ![][flag_GB] [Nega](/users/3181083), ![][flag_GB] [SoraRoxas01](/users/1986262), ![][flag_GB] [Best459](/users/8185366), ![][flag_GB] [OskaRRRitoS](/users/7051163) |
-| Designers | ![][flag_TH] [Trigonoculus](/users/7627013), ![][flag_US] [- Marii -](/users/5691561), ![][flag_DE] [Sir Hywen](/users/7601761) |
-| Streamers | ![][flag_DE] [Sir Hywen](/users/7601761), ![][flag_FR] [Kaeldori](/users/962519), ![][flag_FI] [SanteriP](/users/1981187), ![][flag_CA] [Neko Rin](/users/6720237), ![][flag_FR] [Spartan Plume](/users/2553166) |
-| Commentators | ![][flag_FI] [SanteriP](/users/1981187), ![][flag_CA] [Neko Rin](/users/6720237), ![][flag_NL] [Blue-Orb](/users/6612210), ![][flag_AR] [juliancaia](/users/6612210), ![][flag_SG] [woahsia](/users/195946), ![][flag_PL] [Dabis](/users/509575) |
-| Referees | ![][flag_US] [IsoSubjectPi](/users/3989669), ![][flag_DE] [Sir Hywen](/users/7601761), ![][flag_HK] [-GN Junior](/users/3901754), ![][flag_SG] [-Engel-](/users/9424243), ![][flag_CN] [VRainbow](/users/3635214), ![][flag_SG] [woahsia](/users/195946), ![][flag_US] [Noya](/users/4276374), ![][flag_DK] [Pennek](/users/3723742), ![][flag_TW] [EthanTC](/users/9539163), ![][flag_DE] [likejaxirl](/users/7093373), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_US] [Hot Cocoa](/users/4986705), ![][flag_DK] [MASQQ](/users/5351497), ![][flag_CA] [Neko Rin](/users/6720237), ![][flag_PL] [- Dave -](/users/3604693) |
-| Wiki | ![][flag_ID] [fajar13k](/users/7100002) |
+| Host | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669) |
+| Administrators | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841) |
+| Mappool QAT | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
+| Mappool Selectors | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_EG] [Mohab500](https://osu.ppy.sh/users/10520912), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214) |
+| Mappool Testers | ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
+| Designers | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761) |
+| Streamers | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
+| Commentators | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_AR] [juliancaia](https://osu.ppy.sh/users/6612210), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_PL] [Dabis](https://osu.ppy.sh/users/509575) |
+| Referees | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_US] [Noya](https://osu.ppy.sh/users/4276374), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_DE] [likejaxirl](https://osu.ppy.sh/users/7093373), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_PL] [- Dave -](https://osu.ppy.sh/users/3604693) |
+| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/716902)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/716902)
 - [OTC Discord server](https://discord.gg/GGMmSu5)
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml)**
@@ -64,38 +65,38 @@ The osu! Technical Championship #2 was run by various osu! community members.
 
 | Team | Members |
 | :-- | :-- |
-| **727pp XddXDDDDD** | **![][flag_US] [Gifted](/users/7971757)**, ![][flag_US] [Informous](/users/4734244), ![][flag_US] [Timowoof](/users/6390912), ![][flag_US] [WillCookie](/users/6404488), ![][flag_US] [KoaLeahq](/users/4321876), ![][flag_US] [iliekwaffles](/users/4644354) |
-| **anime hardba55** | **![][flag_RU] [z0mbir](/users/4939107)**, ![][flag_RU] [Cappu](/users/6754712), ![][flag_RU] [Enns](/users/6375834), ![][flag_UA] [Cloz1k](/users/4548264), ![][flag_RU] [-Trigger](/users/1890143), ![][flag_JP] [surume yotyan](/users/1704801) |
-| **beat that meat** | **![][flag_CA] [Ignite](/users/3122948)**, ![][flag_CA] [kyle](/users/2694475), ![][flag_CA] [Hakurae](/users/6284304), ![][flag_US] [Megatron is bad](/users/2570828), ![][flag_CA] [ThePro365](/users/4415285), ![][flag_PL] [Bartek22830](/users/6404027) |
-| **BOOMING** | **![][flag_GB] [meltz](/users/6741042)**, ![][flag_GB] [Obese](/users/3937808), ![][flag_GB] [Morbid](/users/6963690), ![][flag_GB] [\[- Creepy -\]](/users/7263333), ![][flag_GB] [\[Bloo\]](/users/6778877), ![][flag_GB] [Wario](/users/4361729) |
-| **Cauldron Bois** | **![][flag_US] [Ghouru](/users/6273855)**, ![][flag_US] [Viggma](/users/8299854), ![][flag_US] [Hau](/users/7018565), ![][flag_US] [Bredzeus](/users/6314059), ![][flag_US] [nop](/users/9475159), ![][flag_US] [Ryuti](/users/2752589) |
-| **Dumii has a small dick** | **![][flag_NL] [Blue-Orb](/users/6612210)**, ![][flag_FI] [SanteriP](/users/1981187), ![][flag_GB] [Spare](/users/2204373), ![][flag_NL] [Lazer](/users/1799925), ![][flag_AU] [Dumii](/users/3068044), ![][flag_AU] [GranDSenpai](/users/3997580) |
-| **e-girl respecters** | **![][flag_HU] [Lexion](/users/5271371)**, ![][flag_HU] [emu1337](/users/2185987), ![][flag_HU] [Jugment](/users/3727686), ![][flag_HU] [RatinA0](/users/3436625) |
-| **El perro me vomito la cama** | **![][flag_UY] [Raby](/users/5218320)**, ![][flag_AR] [Cata](/users/5958063), ![][flag_AR] [Pein](/users/2212941), ![][flag_AR] [Zaq Lev](/users/3188703), ![][flag_UY] [Madozito](/users/4054429), ![][flag_UY] [Vetium](/users/6159669) |
-| **EzSupport** | **![][flag_RU] [Sharfik](/users/5533261)**, ![][flag_RU] [\_NotSoFast\_](/users/4663676), ![][flag_RU] [SadnessWillSear](/users/6591496), ![][flag_RU] [callmebatya](/users/3512112), ![][flag_RU] [-Miruku-](/users/4712799), ![][flag_RU] [iok144](/users/2171652) |
-| **Fernet con coca** | **![][flag_AR] [-Urushihara-](/users/6169195)**, ![][flag_US] [Cappy](/users/6668666), ![][flag_AR] [Arua](/users/5038837), ![][flag_AR] [Lubren](/users/6573651), ![][flag_AR] [Ceja](/users/4185921), ![][flag_US] [Jac](/users/7804116) |
-| **Floating up** | **![][flag_KR] [Gomo Pslvarh](/users/1206417)**, ![][flag_TW] [Flask](/users/959763), ![][flag_TW] [\_Shield](/users/1860489), ![][flag_CN] [Crystal](/users/1646397), ![][flag_KR] [Pring](/users/3478883), ![][flag_ID] [smh](/users/1629553) |
-| **Fully Unified Chistianized Kingdom** | **![][flag_DE] [Ami](/users/2114779)**, ![][flag_RO] [badeu](/users/1473890), ![][flag_FI] [Jerekek](/users/4162662), ![][flag_DE] [Heros5k](/users/6676303), ![][flag_LT] [Auji](/users/4114438), ![][flag_DE] [\[ Nano \]](/users/5132353) |
-| **Insert Funny Team Name Here** | **![][flag_TR] [heyronii](/users/5642779)**, ![][flag_US] [crippletoytl](/users/3256645), ![][flag_TR] [egemenbsrms](/users/4520477), ![][flag_CN] [Play Offline](/users/5791401), ![][flag_SG] [GSBlank](/users/2312106), ![][flag_SG] [moosepi](/users/1868745) |
-| **izako boars** | **![][flag_PL] [alien](/users/4743869)**, ![][flag_PL] [Michni](/users/3543130), ![][flag_PL] [QbaDoo](/users/2395405), ![][flag_PL] [MrBooM](/users/1837989), ![][flag_PL] [Piggey](/users/4163860) |
-| **Jeffrey's Down Syndrome** | **![][flag_ID] [Fuma](/users/1501956)**, ![][flag_ID] [Skydiver](/users/4750008), ![][flag_MY] [ShaneLiang](/users/6716499), ![][flag_VN] [Sakura Rain](/users/6577176), ![][flag_ID] [dika312](/users/741613), ![][flag_ID] [Rayhan Hakim](/users/4085825) |
-| **Latex Intolerance** | **![][flag_CA] [peng](/users/6043452)**, ![][flag_GB] [Bubbleman](/users/5182050), ![][flag_US] [Donkey Kong](/users/4787150), ![][flag_US] [Woey](/users/3792472), ![][flag_NO] [-GN](/users/895581), ![][flag_GB] [Jameslike](/users/2415743) |
-| **Meido** | **![][flag_BE] [Hanori](/users/7078544)**, ![][flag_US] [Riley](/users/3007925), ![][flag_US] [Palace](/users/6893333), ![][flag_KR] [Eurus](/users/3426414), ![][flag_BE] [5joshi](/users/4279650), ![][flag_US] [melloe](/users/2367616) |
-| **Nai Fen Pu Pu** | **![][flag_CN] [davidqu2](/users/6090175)**, ![][flag_CN] [DuNaI](/users/2522197), ![][flag_CN] [NightFiend](/users/1955058), ![][flag_CN] [\[Echoes\]](/users/6678196), ![][flag_CN] [bless\_von](/users/7853092), ![][flag_CN] [Sugiura Kanade](/users/7839397) |
-| **Odeio Negrxs** | **![][flag_BR] [favela](/users/5295743)**, ![][flag_BR] [Texats](/users/1638293), ![][flag_BR] [My Angelsim](/users/3149577), ![][flag_BR] [Mirtrax](/users/2290888), ![][flag_BR] [Mystia](/users/4277702), ![][flag_US] [DigiDrake](/users/7863082) |
-| **owo for the uwu** | **![][flag_US] [Kaoura](/users/5831631)**, ![][flag_US] [Freddie Benson](/users/7342622), ![][flag_US] [Yuza](/users/3077037), ![][flag_US] [BearZyo](/users/6116759), ![][flag_GB] [xFluffyo](/users/8397226), ![][flag_US] [Cyrame](/users/6489078) |
-| **Ricola** | **![][flag_DE] [Chriz](/users/2355080)**, ![][flag_CH] [Deramok](/users/1428455), ![][flag_CH] [My Angel Uni](/users/7045024) ![][flag_CH] [Paddington](/users/2643216), ![][flag_CH] [Akani](/users/2323137), ![][flag_CH] [gtfo](/users/2114760) |
-| **Rubber Conquest** | **![][flag_US] [DigitalHypno](/users/4384207)**, ![][flag_US] [Apraxia](/users/4194445), ![][flag_CA] [Azer](/users/2155578), ![][flag_KR] [Cookiezi](/users/124493), ![][flag_US] [Monko2k](/users/4852013), ![][flag_US] [Toy](/users/2757689) |
-| **SAMPLE TEXT** | **![][flag_UA] [kug1](/users/6997572)**, ![][flag_UA] [Katoru](/users/7032191), ![][flag_UA] [Xorts](/users/6581597), ![][flag_RU] [Jabba](/users/6068934), ![][flag_RU] [Snowslide](/users/4198283), ![][flag_RU] [Okinotori](/users/4346274) |
-| **save me slider break** | **![][flag_US] [big brain](/users/8165181)**, ![][flag_FI] [Bolek\_gamer\_05](/users/7786382), ![][flag_FR] [Carbone](/users/5783315/), ![][flag_FR] [nasobol90](/users/7630971), ![][flag_US] [GiantSharkTooth](/users/8533847) |
-| **small boob** | **![][flag_CA] [Daoski](/users/4752536)**, ![][flag_CL] [Yumbtah](/users/2784663), ![][flag_US] [Trance](/users/2170951), ![][flag_CL] [\[-Neon-\]](/users/6064382), ![][flag_CA] [Yuuki-chan](/users/7031287), ![][flag_CL] [-Dylson-](/users/6315784) |
-| **spy kids** | **![][flag_DE] [kiiro127](/users/3959582)**, ![][flag_LT] [Damach](/users/3065625), ![][flag_DE] [- Slice -](/users/4239265), ![][flag_LT] [shineroo](/users/4360718), ![][flag_ES] [Snowwy](/users/4393092), ![][flag_DE] [My Angel Hifumi](/users/6951812) |
-| **STARTails\*** | **![][flag_US] [Aoiyuuki-](/users/1820694)**, ![][flag_US] [mook](/users/6362900), ![][flag_US] [Conyoh](/users/4844496), ![][flag_US] [L1NKED](/users/3087205), ![][flag_DE] [Vyshus](/users/7812798), ![][flag_US] [Tohru](/users/3596296) |
-| **Tak Halal Sial** | **![][flag_SG] [LanJay](/users/5210595)**, ![][flag_SG] [Asterix-](/users/5138193), ![][flag_SG] [Loslite](/users/6398160), ![][flag_SG] [SupremeChaoss](/users/7506646), ![][flag_SG] [sinn](/users/4262229), ![][flag_SG] [Datenshi Yohane](/users/7171857) |
-| **technical issues** | **![][flag_CA] [Penguin UwU](/users/3992043)**, ![][flag_CN] [MyAngelMiku](/users/7025429), ![][flag_CA] [\_DerF](/users/8385190), ![][flag_CA] [Itou](/users/8070357), ![][flag_DK] [Tenaxzity](/users/7395529), ![][flag_CA] [WonderfulDay](/users/7278983) |
-| **We Have No Friends** | **![][flag_DE] [KatzEasy](/users/3087892/)**, ![][flag_GB] [Jimzzyyy](/users/3600441), ![][flag_DE] [xenou](/users/2539403), ![][flag_DE] [prhtnsm](/users/6702666), ![][flag_DE] [M3ddly](/users/9154962), ![][flag_RO] [Chamosiala](/users/1469892) |
-| **Wisdom Chair** | **![][flag_US] [mniminwoo](/users/3929529)**, ![][flag_US] [Noname0](/users/280147), ![][flag_US] [Ritzeh](/users/1028387), ![][flag_US] [Mlaw](/users/3126596), ![][flag_US] [Exarch](/users/5370153), ![][flag_US] [Tem](/users/5393042) |
-| **Zzz** | **![][flag_DK] [Spork Lover](/users/3417469)**, ![][flag_DK] [waefwerf](/users/3868653), ![][flag_EE] [Abyssal](/users/5527745), ![][flag_IL] [Xilver](/users/3099689), ![][flag_NO] [ItsKevZii](/users/5201225), ![][flag_DK] [iamVill](/users/6295380) |
+| **727pp XddXDDDDD** | **![][flag_US] [Gifted](https://osu.ppy.sh/users/7971757)**, ![][flag_US] [Informous](https://osu.ppy.sh/users/4734244), ![][flag_US] [Timowoof](https://osu.ppy.sh/users/6390912), ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_US] [KoaLeahq](https://osu.ppy.sh/users/4321876), ![][flag_US] [iliekwaffles](https://osu.ppy.sh/users/4644354) |
+| **anime hardba55** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_RU] [Cappu](https://osu.ppy.sh/users/6754712), ![][flag_RU] [Enns](https://osu.ppy.sh/users/6375834), ![][flag_UA] [Cloz1k](https://osu.ppy.sh/users/4548264), ![][flag_RU] [-Trigger](https://osu.ppy.sh/users/1890143), ![][flag_JP] [surume yotyan](https://osu.ppy.sh/users/1704801) |
+| **beat that meat** | **![][flag_CA] [Ignite](https://osu.ppy.sh/users/3122948)**, ![][flag_CA] [kyle](https://osu.ppy.sh/users/2694475), ![][flag_CA] [Hakurae](https://osu.ppy.sh/users/6284304), ![][flag_US] [Megatron is bad](https://osu.ppy.sh/users/2570828), ![][flag_CA] [ThePro365](https://osu.ppy.sh/users/4415285), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
+| **BOOMING** | **![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042)**, ![][flag_GB] [Obese](https://osu.ppy.sh/users/3937808), ![][flag_GB] [Morbid](https://osu.ppy.sh/users/6963690), ![][flag_GB] [\[- Creepy -\]](https://osu.ppy.sh/users/7263333), ![][flag_GB] [\[Bloo\]](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729) |
+| **Cauldron Bois** | **![][flag_US] [Ghouru](https://osu.ppy.sh/users/6273855)**, ![][flag_US] [Viggma](https://osu.ppy.sh/users/8299854), ![][flag_US] [Hau](https://osu.ppy.sh/users/7018565), ![][flag_US] [Bredzeus](https://osu.ppy.sh/users/6314059), ![][flag_US] [nop](https://osu.ppy.sh/users/9475159), ![][flag_US] [Ryuti](https://osu.ppy.sh/users/2752589) |
+| **Dumii has a small dick** | **![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210)**, ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
+| **e-girl respecters** | **![][flag_HU] [Lexion](https://osu.ppy.sh/users/5271371)**, ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987), ![][flag_HU] [Jugment](https://osu.ppy.sh/users/3727686), ![][flag_HU] [RatinA0](https://osu.ppy.sh/users/3436625) |
+| **El perro me vomito la cama** | **![][flag_UY] [Raby](https://osu.ppy.sh/users/5218320)**, ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063), ![][flag_AR] [Pein](https://osu.ppy.sh/users/2212941), ![][flag_AR] [Zaq Lev](https://osu.ppy.sh/users/3188703), ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429), ![][flag_UY] [Vetium](https://osu.ppy.sh/users/6159669) |
+| **EzSupport** | **![][flag_RU] [Sharfik](https://osu.ppy.sh/users/5533261)**, ![][flag_RU] [\_NotSoFast\_](https://osu.ppy.sh/users/4663676), ![][flag_RU] [SadnessWillSear](https://osu.ppy.sh/users/6591496), ![][flag_RU] [callmebatya](https://osu.ppy.sh/users/3512112), ![][flag_RU] [-Miruku-](https://osu.ppy.sh/users/4712799), ![][flag_RU] [iok144](https://osu.ppy.sh/users/2171652) |
+| **Fernet con coca** | **![][flag_AR] [-Urushihara-](https://osu.ppy.sh/users/6169195)**, ![][flag_US] [Cappy](https://osu.ppy.sh/users/6668666), ![][flag_AR] [Arua](https://osu.ppy.sh/users/5038837), ![][flag_AR] [Lubren](https://osu.ppy.sh/users/6573651), ![][flag_AR] [Ceja](https://osu.ppy.sh/users/4185921), ![][flag_US] [Jac](https://osu.ppy.sh/users/7804116) |
+| **Floating up** | **![][flag_KR] [Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_TW] [\_Shield](https://osu.ppy.sh/users/1860489), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) |
+| **Fully Unified Chistianized Kingdom** | **![][flag_DE] [Ami](https://osu.ppy.sh/users/2114779)**, ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_FI] [Jerekek](https://osu.ppy.sh/users/4162662), ![][flag_DE] [Heros5k](https://osu.ppy.sh/users/6676303), ![][flag_LT] [Auji](https://osu.ppy.sh/users/4114438), ![][flag_DE] [\[ Nano \]](https://osu.ppy.sh/users/5132353) |
+| **Insert Funny Team Name Here** | **![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779)**, ![][flag_US] [crippletoytl](https://osu.ppy.sh/users/3256645), ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477), ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401), ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+| **izako boars** | **![][flag_PL] [alien](https://osu.ppy.sh/users/4743869)**, ![][flag_PL] [Michni](https://osu.ppy.sh/users/3543130), ![][flag_PL] [QbaDoo](https://osu.ppy.sh/users/2395405), ![][flag_PL] [MrBooM](https://osu.ppy.sh/users/1837989), ![][flag_PL] [Piggey](https://osu.ppy.sh/users/4163860) |
+| **Jeffrey's Down Syndrome** | **![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499), ![][flag_VN] [Sakura Rain](https://osu.ppy.sh/users/6577176), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Rayhan Hakim](https://osu.ppy.sh/users/4085825) |
+| **Latex Intolerance** | **![][flag_CA] [peng](https://osu.ppy.sh/users/6043452)**, ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743) |
+| **Meido** | **![][flag_BE] [Hanori](https://osu.ppy.sh/users/7078544)**, ![][flag_US] [Riley](https://osu.ppy.sh/users/3007925), ![][flag_US] [Palace](https://osu.ppy.sh/users/6893333), ![][flag_KR] [Eurus](https://osu.ppy.sh/users/3426414), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_US] [melloe](https://osu.ppy.sh/users/2367616) |
+| **Nai Fen Pu Pu** | **![][flag_CN] [davidqu2](https://osu.ppy.sh/users/6090175)**, ![][flag_CN] [DuNaI](https://osu.ppy.sh/users/2522197), ![][flag_CN] [NightFiend](https://osu.ppy.sh/users/1955058), ![][flag_CN] [\[Echoes\]](https://osu.ppy.sh/users/6678196), ![][flag_CN] [bless\_von](https://osu.ppy.sh/users/7853092), ![][flag_CN] [Sugiura Kanade](https://osu.ppy.sh/users/7839397) |
+| **Odeio Negrxs** | **![][flag_BR] [favela](https://osu.ppy.sh/users/5295743)**, ![][flag_BR] [Texats](https://osu.ppy.sh/users/1638293), ![][flag_BR] [My Angelsim](https://osu.ppy.sh/users/3149577), ![][flag_BR] [Mirtrax](https://osu.ppy.sh/users/2290888), ![][flag_BR] [Mystia](https://osu.ppy.sh/users/4277702), ![][flag_US] [DigiDrake](https://osu.ppy.sh/users/7863082) |
+| **owo for the uwu** | **![][flag_US] [Kaoura](https://osu.ppy.sh/users/5831631)**, ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622), ![][flag_US] [Yuza](https://osu.ppy.sh/users/3077037), ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_US] [Cyrame](https://osu.ppy.sh/users/6489078) |
+| **Ricola** | **![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080)**, ![][flag_CH] [Deramok](https://osu.ppy.sh/users/1428455), ![][flag_CH] [My Angel Uni](https://osu.ppy.sh/users/7045024) ![][flag_CH] [Paddington](https://osu.ppy.sh/users/2643216), ![][flag_CH] [Akani](https://osu.ppy.sh/users/2323137), ![][flag_CH] [gtfo](https://osu.ppy.sh/users/2114760) |
+| **Rubber Conquest** | **![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) |
+| **SAMPLE TEXT** | **![][flag_UA] [kug1](https://osu.ppy.sh/users/6997572)**, ![][flag_UA] [Katoru](https://osu.ppy.sh/users/7032191), ![][flag_UA] [Xorts](https://osu.ppy.sh/users/6581597), ![][flag_RU] [Jabba](https://osu.ppy.sh/users/6068934), ![][flag_RU] [Snowslide](https://osu.ppy.sh/users/4198283), ![][flag_RU] [Okinotori](https://osu.ppy.sh/users/4346274) |
+| **save me slider break** | **![][flag_US] [big brain](https://osu.ppy.sh/users/8165181)**, ![][flag_FI] [Bolek\_gamer\_05](https://osu.ppy.sh/users/7786382), ![][flag_FR] [Carbone](https://osu.ppy.sh/users/5783315), ![][flag_FR] [nasobol90](https://osu.ppy.sh/users/7630971), ![][flag_US] [GiantSharkTooth](https://osu.ppy.sh/users/8533847) |
+| **small boob** | **![][flag_CA] [Daoski](https://osu.ppy.sh/users/4752536)**, ![][flag_CL] [Yumbtah](https://osu.ppy.sh/users/2784663), ![][flag_US] [Trance](https://osu.ppy.sh/users/2170951), ![][flag_CL] [\[-Neon-\]](https://osu.ppy.sh/users/6064382), ![][flag_CA] [Yuuki-chan](https://osu.ppy.sh/users/7031287), ![][flag_CL] [-Dylson-](https://osu.ppy.sh/users/6315784) |
+| **spy kids** | **![][flag_DE] [kiiro127](https://osu.ppy.sh/users/3959582)**, ![][flag_LT] [Damach](https://osu.ppy.sh/users/3065625), ![][flag_DE] [- Slice -](https://osu.ppy.sh/users/4239265), ![][flag_LT] [shineroo](https://osu.ppy.sh/users/4360718), ![][flag_ES] [Snowwy](https://osu.ppy.sh/users/4393092), ![][flag_DE] [My Angel Hifumi](https://osu.ppy.sh/users/6951812) |
+| **STARTails\*** | **![][flag_US] [Aoiyuuki-](https://osu.ppy.sh/users/1820694)**, ![][flag_US] [mook](https://osu.ppy.sh/users/6362900), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_US] [L1NKED](https://osu.ppy.sh/users/3087205), ![][flag_DE] [Vyshus](https://osu.ppy.sh/users/7812798), ![][flag_US] [Tohru](https://osu.ppy.sh/users/3596296) |
+| **Tak Halal Sial** | **![][flag_SG] [LanJay](https://osu.ppy.sh/users/5210595)**, ![][flag_SG] [Asterix-](https://osu.ppy.sh/users/5138193), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_SG] [SupremeChaoss](https://osu.ppy.sh/users/7506646), ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229), ![][flag_SG] [Datenshi Yohane](https://osu.ppy.sh/users/7171857) |
+| **technical issues** | **![][flag_CA] [Penguin UwU](https://osu.ppy.sh/users/3992043)**, ![][flag_CN] [MyAngelMiku](https://osu.ppy.sh/users/7025429), ![][flag_CA] [\_DerF](https://osu.ppy.sh/users/8385190), ![][flag_CA] [Itou](https://osu.ppy.sh/users/8070357), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_CA] [WonderfulDay](https://osu.ppy.sh/users/7278983) |
+| **We Have No Friends** | **![][flag_DE] [KatzEasy](https://osu.ppy.sh/users/3087892)**, ![][flag_GB] [Jimzzyyy](https://osu.ppy.sh/users/3600441), ![][flag_DE] [xenou](https://osu.ppy.sh/users/2539403), ![][flag_DE] [prhtnsm](https://osu.ppy.sh/users/6702666), ![][flag_DE] [M3ddly](https://osu.ppy.sh/users/9154962), ![][flag_RO] [Chamosiala](https://osu.ppy.sh/users/1469892) |
+| **Wisdom Chair** | **![][flag_US] [mniminwoo](https://osu.ppy.sh/users/3929529)**, ![][flag_US] [Noname0](https://osu.ppy.sh/users/280147), ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387), ![][flag_US] [Mlaw](https://osu.ppy.sh/users/3126596), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042) |
+| **Zzz** | **![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469)**, ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_EE] [Abyssal](https://osu.ppy.sh/users/5527745), ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689), ![][flag_NO] [ItsKevZii](https://osu.ppy.sh/users/5201225), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
 
 ## Groups
 
@@ -133,52 +134,52 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip)**
 
 - NoMod
-  - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](/beatmapsets/615878#osu/1299008)
-  - [Halozy - Deconstruction Star (Lasse) \[Constellation\]](/beatmapsets/431010#osu/1024742)
-  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (Crystal) \[Quantum\]](/beatmapsets/405167#osu/880761)
-  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](/beatmapsets/588018#osu/1245003)
-  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](/beatmapsets/10406#osu/66246)
-  - [Team Grimoire - C18H27NO3 (-Bakari-) \[Bakari's INFINITE\]](/beatmapsets/223370#osu/686421)
+  - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
+  - [Halozy - Deconstruction Star (Lasse) \[Constellation\]](https://osu.ppy.sh/beatmapsets/431010#osu/1024742)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (Crystal) \[Quantum\]](https://osu.ppy.sh/beatmapsets/405167#osu/880761)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Basshunter - Ievan Polkka Trance Remix (Starrodkirby86, Beuchi-chan) \[BeuKirby\]](https://osu.ppy.sh/beatmapsets/10406#osu/66246)
+  - [Team Grimoire - C18H27NO3 (-Bakari-) \[Bakari's INFINITE\]](https://osu.ppy.sh/beatmapsets/223370#osu/686421)
 - Hidden
-  - [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](/beatmapsets/136065#osu/340652)
-  - [Y&Co. - Daisuke (moph) \[moph's Expert\]](/beatmapsets/697087#osu/1481149)
-  - [lapix - Foolish Hero (P\*Light Remix) (Cassu2) \[Irrationality 2.0\]](/beatmapsets/551111#osu/1454407)
+  - [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#osu/340652)
+  - [Y&Co. - Daisuke (moph) \[moph's Expert\]](https://osu.ppy.sh/beatmapsets/697087#osu/1481149)
+  - [lapix - Foolish Hero (P\*Light Remix) (Cassu2) \[Irrationality 2.0\]](https://osu.ppy.sh/beatmapsets/551111#osu/1454407)
 - HardRock
-  - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](/beatmapsets/419614#osu/908093)
-  - [M2U - Velocity (Karen) \[Expert\]](/beatmapsets/593985#osu/1256483)
-  - [Memme - Avalanche (Starfy) \[Extreme\]](/beatmapsets/611095#osu/1318360)
+  - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
+  - [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
+  - [Memme - Avalanche (Starfy) \[Extreme\]](https://osu.ppy.sh/beatmapsets/611095#osu/1318360)
 - DoubleTime
-  - [Lon - Yuru Fuwa Jukai Girl (Mystica) \[Mystica's Insane\]](/beatmapsets/49686#osu/155438)
-  - [Reol - Gokusaishiki (Hakurei Yoru) \[Yoru's Insane\]](/beatmapsets/422369#osu/954129)
-  - [Camellia - Towards The Horizon (Zexous) \[Zexous' Insane\]](/beatmapsets/578445#osu/1325051)
+  - [Lon - Yuru Fuwa Jukai Girl (Mystica) \[Mystica's Insane\]](https://osu.ppy.sh/beatmapsets/49686#osu/155438)
+  - [Reol - Gokusaishiki (Hakurei Yoru) \[Yoru's Insane\]](https://osu.ppy.sh/beatmapsets/422369#osu/954129)
+  - [Camellia - Towards The Horizon (Zexous) \[Zexous' Insane\]](https://osu.ppy.sh/beatmapsets/578445#osu/1325051)
 - Tiebreaker
-  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Mir) \[Redemption\]](/beatmapsets/703731#osu/1488838)**
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Mir) \[Redemption\]](https://osu.ppy.sh/beatmapsets/703731#osu/1488838)**
 
 ### Semifinals
 
 **[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip)**
 
 - NoMod
-  - [Hommarju - Rock It (toybot) \[Blast Off\]](/beatmapsets/700421#osu/1484308)
-  - [Memme - Extreme Fantasy (-PC) \[Reverie\]](/beatmapsets/697899#osu/1478228)
-  - [Max Coveri - Running in the 90's (Monstrata) \[FINAL STAGE\]](/beatmapsets/739262#osu/1559974)
-  - [lapix feat. Renko from ORANGEJAM - Concept Of Reality (ProfessionalBox) \[eXiStEnCe\]](/beatmapsets/559140#osu/1182535)
-  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](/beatmapsets/580375#osu/1228840)
-  - [Memme - Pandemonium (handsome) \[handsome's Master: #1\]](/beatmapsets/734190#osu/1562545)
+  - [Hommarju - Rock It (toybot) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
+  - [Memme - Extreme Fantasy (-PC) \[Reverie\]](https://osu.ppy.sh/beatmapsets/697899#osu/1478228)
+  - [Max Coveri - Running in the 90's (Monstrata) \[FINAL STAGE\]](https://osu.ppy.sh/beatmapsets/739262#osu/1559974)
+  - [lapix feat. Renko from ORANGEJAM - Concept Of Reality (ProfessionalBox) \[eXiStEnCe\]](https://osu.ppy.sh/beatmapsets/559140#osu/1182535)
+  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/580375#osu/1228840)
+  - [Memme - Pandemonium (handsome) \[handsome's Master: #1\]](https://osu.ppy.sh/beatmapsets/734190#osu/1562545)
 - Hidden
-  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](/beatmapsets/54511#osu/168031)
-  - [Ocelot - KAEDE (Moecho) \[Moecho's EX\]](/beatmapsets/660630#osu/1551210)
-  - [Memme - Blessing Snow (sahuang) \[sahuang's Extra\]](/beatmapsets/688128#osu/1456309)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
+  - [Ocelot - KAEDE (Moecho) \[Moecho's EX\]](https://osu.ppy.sh/beatmapsets/660630#osu/1551210)
+  - [Memme - Blessing Snow (sahuang) \[sahuang's Extra\]](https://osu.ppy.sh/beatmapsets/688128#osu/1456309)
 - HardRock
-  - [Skrillex & Diplo - To U ft AlunaGeorge (NeilPerry, schoolboy) \[Neil & schoolboy Extra\]](/beatmapsets/723626#osu/1538272)
-  - [Sota Fujimori - Move That Body -Extended Mix- (Skystar) \[Extreme\]](/beatmapsets/220220#osu/538404)
-  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (RLC) \[RLC's Extra\]](/beatmapsets/581787#osu/1481178)
+  - [Skrillex & Diplo - To U ft AlunaGeorge (NeilPerry, schoolboy) \[Neil & schoolboy Extra\]](https://osu.ppy.sh/beatmapsets/723626#osu/1538272)
+  - [Sota Fujimori - Move That Body -Extended Mix- (Skystar) \[Extreme\]](https://osu.ppy.sh/beatmapsets/220220#osu/538404)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (RLC) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/581787#osu/1481178)
 - DoubleTime
-  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](/beatmapsets/10714#osu/41586)
-  - [monet - Noborenai Sakamichi (Mirash) \[Insane\]](/beatmapsets/671607#osu/1424776)
-  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Spork Lover) \[Spork Lover's Insane\]](/beatmapsets/710329#osu/1502635)
+  - [Susumu Hirasawa - Big Brother (Gens) \[Insane\]](https://osu.ppy.sh/beatmapsets/10714#osu/41586)
+  - [monet - Noborenai Sakamichi (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/671607#osu/1424776)
+  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Spork Lover) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmapsets/710329#osu/1502635)
 - Tiebreaker
-  - **[Camellia - dreamless wanderer (Shiirn) \[ouroboros\]](/beatmapsets/620981#osu/1309336)**
+  - **[Camellia - dreamless wanderer (Shiirn) \[ouroboros\]](https://osu.ppy.sh/beatmapsets/620981#osu/1309336)**
 
 ### Quarterfinals
 
@@ -218,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yuu - U.N. Owen was Her? (DJPop) \[DJPop's Insane\]](https://osu.ppy.sh/beatmapsets/7104#osu/31906)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Unconnected\]](https://osu.ppy.sh/beatmapsets/37242#osu/108762)
 - Hidden
-  - [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715) 
+  - [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715)
   - [Zekk - Calling (Mirash) \[Mirash's Another\]](https://osu.ppy.sh/beatmapsets/673878#osu/1427700)
   - [a\_hisa - Fanatiker der Liebe \[Extra\]](http://osu.uu.gl/s/167091)
 - HardRock
@@ -264,132 +265,132 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2018-05-27 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Rubber Conquest** | **6** | 1 | Floating up | [#1](/community/matches/42816259) |
+| Sunday, 2018-05-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 1 | Floating up | [#1](https://osu.ppy.sh/community/matches/42816259) |
 
 ### Finals
 
-| Saturday, 2018-05-12 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| Floating up | 3 | **6** | **Rubber Conquest** | [#1](/community/matches/42411160) |
+| Saturday, 2018-05-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Floating up | 3 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/42411160) |
 
-| Sunday, 2018-05-13 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Latex Intolerance** | **6** | 3 | Zzz | [#1](/community/matches/42445467) |
+| Sunday, 2018-05-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Latex Intolerance** | **6** | 3 | Zzz | [#1](https://osu.ppy.sh/community/matches/42445467) |
 
-| Sunday, 2018-05-26 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
+| Sunday, 2018-05-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **6** | 0 | Latex Intolerance | -win by default- |
 
 ### Semifinals
 
-| Saturday, 2018-05-05 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Latex Intolerance** | **5** | 0 | Tak Halal Sial | [#1](/community/matches/42225047) |
-| Wisdom Chair | 0 | **5** | **Floating up** | [#1](/community/matches/42226598) |
-| **Rubber Conquest** | **5** | 0 | Dumii has a small dick | [#1](/community/matches/42228520) |
-| **Zzz** | **5** | 2 | Fully Unified Chistianized Kingdom | [#1](/community/matches/42230056) |
+| Saturday, 2018-05-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Latex Intolerance** | **5** | 0 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/42225047) |
+| Wisdom Chair | 0 | **5** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/42226598) |
+| **Rubber Conquest** | **5** | 0 | Dumii has a small dick | [#1](https://osu.ppy.sh/community/matches/42228520) |
+| **Zzz** | **5** | 2 | Fully Unified Chistianized Kingdom | [#1](https://osu.ppy.sh/community/matches/42230056) |
 
-| Sunday, 2018-05-06 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| Dumii has a small dick | 0 | **5** | **Zzz** | [#1](/community/matches/42263115) |
-| Wisdom Chair | 1 | **5** | **Latex Intolerance** | [#1](/community/matches/42264660) |
+| Sunday, 2018-05-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Dumii has a small dick | 0 | **5** | **Zzz** | [#1](https://osu.ppy.sh/community/matches/42263115) |
+| Wisdom Chair | 1 | **5** | **Latex Intolerance** | [#1](https://osu.ppy.sh/community/matches/42264660) |
 
 ### Quarterfinals
 
-| Saturday, 2018-04-29 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
+| Saturday, 2018-04-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
 | Odeio Negrxs | 0 | **5** | **EzSupport** | -win by default- |
-| **We Have No Friends** | **5** | 1 | spy kids | [#1](/community/matches/42027341) |
-| El perro me vomito la cama | 3 | **5** | **SAMPLE TEXT** | [#1](/community/matches/42031830) |
-| Fernet con coca | 1 | **5** | **Fully Unified Chistianized Kingdom** | [#1](/community/matches/42037843) |
-| Tak Halal Sial | 0 | **5** | **Rubber Conquest** | [#1](/community/matches/42031778) |
-| Latex Intolerance | 4 | **5** | **Dumii has a small dick** | [#1](/community/matches/42033735) |
-| **Wisdom Chair** | **5** | 1 | izako boars | [#1](/community/matches/42039012) |
+| **We Have No Friends** | **5** | 1 | spy kids | [#1](https://osu.ppy.sh/community/matches/42027341) |
+| El perro me vomito la cama | 3 | **5** | **SAMPLE TEXT** | [#1](https://osu.ppy.sh/community/matches/42031830) |
+| Fernet con coca | 1 | **5** | **Fully Unified Chistianized Kingdom** | [#1](https://osu.ppy.sh/community/matches/42037843) |
+| Tak Halal Sial | 0 | **5** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/42031778) |
+| Latex Intolerance | 4 | **5** | **Dumii has a small dick** | [#1](https://osu.ppy.sh/community/matches/42033735) |
+| **Wisdom Chair** | **5** | 1 | izako boars | [#1](https://osu.ppy.sh/community/matches/42039012) |
 
-| Sunday, 2018-04-28 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Floating up** | **5** | 0 | Zzz | [#1](/community/matches/42058100) |
-| **Tak Halal Sial** | **5** | 2 | We Have No Friends | [#1](/community/matches/42059678) |
-| izako boars | 1 | **5** | **Fully Unified Chistianized Kingdom** | [#1](/community/matches/42064757) |
-| **Zzz** | **5** | 1 | SAMPLE TEXT | [#1](/community/matches/42064978) |
+| Sunday, 2018-04-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Floating up** | **5** | 0 | Zzz | [#1](https://osu.ppy.sh/community/matches/42058100) |
+| **Tak Halal Sial** | **5** | 2 | We Have No Friends | [#1](https://osu.ppy.sh/community/matches/42059678) |
+| izako boars | 1 | **5** | **Fully Unified Chistianized Kingdom** | [#1](https://osu.ppy.sh/community/matches/42064757) |
+| **Zzz** | **5** | 1 | SAMPLE TEXT | [#1](https://osu.ppy.sh/community/matches/42064978) |
 | **Latex Intolerance** | **5** | 0 | EzSupport | -win by default- |
 
 ### Round of 16
 
-| Saturday, 2018-04-21 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Wisdom Chair** | **5** | 2 | Odeio Negrxs | [#1](/community/matches/41848222) |
-| **izako boars** | **5** | 4 | EzSupport | [#1](/community/matches/41834719) |
-| **Floating up** | **5** | 1 | We Have No Friends | [#1](/community/matches/41833214) |
+| Saturday, 2018-04-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Wisdom Chair** | **5** | 2 | Odeio Negrxs | [#1](https://osu.ppy.sh/community/matches/41848222) |
+| **izako boars** | **5** | 4 | EzSupport | [#1](https://osu.ppy.sh/community/matches/41834719) |
+| **Floating up** | **5** | 1 | We Have No Friends | [#1](https://osu.ppy.sh/community/matches/41833214) |
 | El perro me vomito la cama | 0 | **5** | **Tak Halal Sial** | -win by default- |
 
-| Sunday, 2018-04-22 |  |  |  |  | 
-| --: | :-: | :-: | :-- | :-: |
-| **Zzz** | **5** | 0 | spy kids | [#1](/community/matches/41880888) |
-| **Rubber Conquest** | **5** | 0 | SAMPLE TEXT | [#1](/community/matches/41872121) |
+| Sunday, 2018-04-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Zzz** | **5** | 0 | spy kids | [#1](https://osu.ppy.sh/community/matches/41880888) |
+| **Rubber Conquest** | **5** | 0 | SAMPLE TEXT | [#1](https://osu.ppy.sh/community/matches/41872121) |
 | **Latex Intolerance** | **5** | 0 | Fernet con coca | -win by default- |
-| Fully Unified Chistianized Kingdom | 4 | **5** | **Dumii has a small dick** | [#1](/community/matches/41875764) |
+| Fully Unified Chistianized Kingdom | 4 | **5** | **Dumii has a small dick** | [#1](https://osu.ppy.sh/community/matches/41875764) |
 
 ### Group Stage
 
 | Match ID | Saturday, 2018-04-14 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C1 | **Floating up** | **4** | 0 | save me slider break | -win by default- |
-| C2 | **Floating up** | **4** | 0 | Insert Funny Team Name Here | [#1](/community/matches/41649601) |
-| D5 | **SAMPLE TEXT** | **4** | 2 | Nai Fen Pu Pu | [#1](/community/matches/41649714) |
-| E1 | **Fully Unified Chistianized Kingdom** | **4** | 3 | Ricola | [#1](/community/matches/41649863) |
-| B3 | anime hardba55 | 3 | **4** | **EzSupport** | [#1](/community/matches/41651634) |
-| D3 | **Jeffrey's Down Syndrome** | **4** | 1 | Nai Fen Pu Pu | [#1](/community/matches/41651388) |
-| E2 | **Fully Unified Chistianized Kingdom** | **4** | 1 | spy kids | [#1](/community/matches/41651313) |
-| D2 | **Latex Intolerance** | **4** | 0 | Nai Fen Pu Pu | [#1](/community/matches/41653185) |
-| F1 | **Dumii has a small dick** | **4** | 0 | technical issues | [#1](/community/matches/41653395) |
-| H3 | 727pp XddXDDDDD | 0 | **4** | **Tak Halal Sial** | [#1](/community/matches/41654314) |
-| F2 | **Dumii has a small dick** | **4** | 2 | El perro me vomito la cama | [#1](/community/matches/41655164) |
-| H2 | **Wisdom Chair** | **4** | 2 | Tak Halal Sial | [#1](/community/matches/41656353) |
-| E3 | owo for the uwu | 1 | **4** | **spy kids** | [#1](/community/matches/41657811) |
-| F3 | BOOMING | 0 | **4** | **El perro me vomito la cama** | [#1](/community/matches/41657302) |
-| C3 | **Fernet con coca** | **4** | 2 | Insert Funny Team Name Here | [#1](/community/matches/41659001) |
+| C2 | **Floating up** | **4** | 0 | Insert Funny Team Name Here | [#1](https://osu.ppy.sh/community/matches/41649601) |
+| D5 | **SAMPLE TEXT** | **4** | 2 | Nai Fen Pu Pu | [#1](https://osu.ppy.sh/community/matches/41649714) |
+| E1 | **Fully Unified Chistianized Kingdom** | **4** | 3 | Ricola | [#1](https://osu.ppy.sh/community/matches/41649863) |
+| B3 | anime hardba55 | 3 | **4** | **EzSupport** | [#1](https://osu.ppy.sh/community/matches/41651634) |
+| D3 | **Jeffrey's Down Syndrome** | **4** | 1 | Nai Fen Pu Pu | [#1](https://osu.ppy.sh/community/matches/41651388) |
+| E2 | **Fully Unified Chistianized Kingdom** | **4** | 1 | spy kids | [#1](https://osu.ppy.sh/community/matches/41651313) |
+| D2 | **Latex Intolerance** | **4** | 0 | Nai Fen Pu Pu | [#1](https://osu.ppy.sh/community/matches/41653185) |
+| F1 | **Dumii has a small dick** | **4** | 0 | technical issues | [#1](https://osu.ppy.sh/community/matches/41653395) |
+| H3 | 727pp XddXDDDDD | 0 | **4** | **Tak Halal Sial** | [#1](https://osu.ppy.sh/community/matches/41654314) |
+| F2 | **Dumii has a small dick** | **4** | 2 | El perro me vomito la cama | [#1](https://osu.ppy.sh/community/matches/41655164) |
+| H2 | **Wisdom Chair** | **4** | 2 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/41656353) |
+| E3 | owo for the uwu | 1 | **4** | **spy kids** | [#1](https://osu.ppy.sh/community/matches/41657811) |
+| F3 | BOOMING | 0 | **4** | **El perro me vomito la cama** | [#1](https://osu.ppy.sh/community/matches/41657302) |
+| C3 | **Fernet con coca** | **4** | 2 | Insert Funny Team Name Here | [#1](https://osu.ppy.sh/community/matches/41659001) |
 | B2 | **Rubber Conquest** | **4** | 0 | EzSupport | -win by default- |
-| H1 | **Wisdom Chair** | **4** | 2 | e-girl respecters | [#1](/community/matches/41661359) |
-| A3 | **Odeio Negrxs** | **4** | 1 | beat that meat | [#1](/community/matches/41663746) |
-| G3 | **We Have No Friends** | **4** | 0 | small boob | [#1](/community/matches/41663727) |
-| B1 | **Rubber Conquest** | **4** | 0 | STARTails\* | [#1](/community/matches/41665530) |
+| H1 | **Wisdom Chair** | **4** | 2 | e-girl respecters | [#1](https://osu.ppy.sh/community/matches/41661359) |
+| A3 | **Odeio Negrxs** | **4** | 1 | beat that meat | [#1](https://osu.ppy.sh/community/matches/41663746) |
+| G3 | **We Have No Friends** | **4** | 0 | small boob | [#1](https://osu.ppy.sh/community/matches/41663727) |
+| B1 | **Rubber Conquest** | **4** | 0 | STARTails\* | [#1](https://osu.ppy.sh/community/matches/41665530) |
 
 | Match ID | Sunday, 2018-04-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| H5 | **e-girl respecters** | **4** | 2 | Tak Halal Sial | [#1](/community/matches/41681735) |
-| F4 | **BOOMING** | **4** | 1 | Dumii has a small dick | [#1](/community/matches/41694951) |
-| A1 | **izako boars** | **4** | 0 | Meido | [#1](/community/matches/41684478) |
-| A2 | **izako boars** | **4** | 0 | beat that meat | [#1](/community/matches/41686277)
-| D6 | **SAMPLE TEXT** | **4** | 3 | Jeffrey's Down Syndrome | [#1](/community/matches/41686029) |
-| B5 | STARTails\* | 3 | **4** | **EzSupport** | [#1](/community/matches/41687767) |
-| D4 | Jeffrey's Down Syndrome | 0 | **4** | **Latex Intolerance** | [#1](/community/matches/41687895) |
-| F6 | technical issues | 2 | **4** | **BOOMING** | [#1](/community/matches/41687795) |
-| B6 | STARTails\* | 0 | **4** | **anime hardba55** | [#1](/community/matches/41690625) |
-| C4 | Fernet con coca | 1 | **4** | **Floating up** | [#1](/community/matches/41689486) |
-| D1 | **Latex Intolerance** | **4** | 1 | SAMPLE TEXT | [#1](/community/matches/41689536) |
-| G1 | **Zzz** | **4** | 0 | Cauldron Bois | [#1](/community/matches/41689288) |
-| B4 | anime hardba55 | 1 | **4** | **Rubber Conquest** | [#1](/community/matches/41691377) |
-| C6 | save me slider break | 0 | **4** | **Fernet con coca** | [#1](/community/matches/41691256) |
-| G6 | Cauldron Bois | 2 | **4** | **We Have No Friends** | [#1](/community/matches/41691371) |
-| A4 | Odeio Negrxs | 1 | **4** | **izako boars** | [#1](/community/matches/41693178) |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| H5 | **e-girl respecters** | **4** | 2 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/41681735) |
+| F4 | **BOOMING** | **4** | 1 | Dumii has a small dick | [#1](https://osu.ppy.sh/community/matches/41694951) |
+| A1 | **izako boars** | **4** | 0 | Meido | [#1](https://osu.ppy.sh/community/matches/41684478) |
+| A2 | **izako boars** | **4** | 0 | beat that meat | [#1](https://osu.ppy.sh/community/matches/41686277)
+| D6 | **SAMPLE TEXT** | **4** | 3 | Jeffrey's Down Syndrome | [#1](https://osu.ppy.sh/community/matches/41686029) |
+| B5 | STARTails\* | 3 | **4** | **EzSupport** | [#1](https://osu.ppy.sh/community/matches/41687767) |
+| D4 | Jeffrey's Down Syndrome | 0 | **4** | **Latex Intolerance** | [#1](https://osu.ppy.sh/community/matches/41687895) |
+| F6 | technical issues | 2 | **4** | **BOOMING** | [#1](https://osu.ppy.sh/community/matches/41687795) |
+| B6 | STARTails\* | 0 | **4** | **anime hardba55** | [#1](https://osu.ppy.sh/community/matches/41690625) |
+| C4 | Fernet con coca | 1 | **4** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/41689486) |
+| D1 | **Latex Intolerance** | **4** | 1 | SAMPLE TEXT | [#1](https://osu.ppy.sh/community/matches/41689536) |
+| G1 | **Zzz** | **4** | 0 | Cauldron Bois | [#1](https://osu.ppy.sh/community/matches/41689288) |
+| B4 | anime hardba55 | 1 | **4** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/41691377) |
+| C6 | save me slider break | 0 | **4** | **Fernet con coca** | [#1](https://osu.ppy.sh/community/matches/41691256) |
+| G6 | Cauldron Bois | 2 | **4** | **We Have No Friends** | [#1](https://osu.ppy.sh/community/matches/41691371) |
+| A4 | Odeio Negrxs | 1 | **4** | **izako boars** | [#1](https://osu.ppy.sh/community/matches/41693178) |
 | C5 | save me slider break | 0 | **4** | **Insert Funny Team Name Here** | -win by default- |
-| E4 | owo for the uwu | 0 | **4** | **Fully Unified Chistianized Kingdom** | [#1](/community/matches/41692845) |
-| E5 | Ricola | 2 | **4** | **spy kids** | [#1](/community/matches/41693407) |
-| G4 | We Have No Friends | 0 | **4** | **Zzz** | [#1](/community/matches/41692858) |
-| A6 | Meido | 2 | **4** | **Odeio Negrxs** | [#1](/community/matches/41695027) |
-| E6 | **Ricola** | **4** | 3 | owo for the uwu | [#1](/community/matches/41695210) |
-| G2 | **Zzz** | **4** | 0 | small boob | [#1](/community/matches/41694860) |
-| G6 | Cauldron Bois | 2 | **4** | **We Have No Friends** | [#1](/community/matches/41691371) |
-| A5 | Meido | 1 | **4** | **beat that meat** | [#1](/community/matches/41696932) |
-| F5 | technical issues | 1 | **4** | **El perro me vomito la cama** | [#1](/community/matches/41697158) |
-| H4 | 727pp XddXDDDDD | 1 | **4** | **Wisdom Chair** | [#1](/community/matches/41699693) |
+| E4 | owo for the uwu | 0 | **4** | **Fully Unified Chistianized Kingdom** | [#1](https://osu.ppy.sh/community/matches/41692845) |
+| E5 | Ricola | 2 | **4** | **spy kids** | [#1](https://osu.ppy.sh/community/matches/41693407) |
+| G4 | We Have No Friends | 0 | **4** | **Zzz** | [#1](https://osu.ppy.sh/community/matches/41692858) |
+| A6 | Meido | 2 | **4** | **Odeio Negrxs** | [#1](https://osu.ppy.sh/community/matches/41695027) |
+| E6 | **Ricola** | **4** | 3 | owo for the uwu | [#1](https://osu.ppy.sh/community/matches/41695210) |
+| G2 | **Zzz** | **4** | 0 | small boob | [#1](https://osu.ppy.sh/community/matches/41694860) |
+| G6 | Cauldron Bois | 2 | **4** | **We Have No Friends** | [#1](https://osu.ppy.sh/community/matches/41691371) |
+| A5 | Meido | 1 | **4** | **beat that meat** | [#1](https://osu.ppy.sh/community/matches/41696932) |
+| F5 | technical issues | 1 | **4** | **El perro me vomito la cama** | [#1](https://osu.ppy.sh/community/matches/41697158) |
+| H4 | 727pp XddXDDDDD | 1 | **4** | **Wisdom Chair** | [#1](https://osu.ppy.sh/community/matches/41699693) |
 
 | Match ID | Monday, 2018-04-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| G5 | Cauldron Bois | 3 | **4** | **small boob** | [#1](/community/matches/41701534) |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G5 | Cauldron Bois | 3 | **4** | **small boob** | [#1](https://osu.ppy.sh/community/matches/41701534) |
 
 ------------------------------------------------------------------------
 

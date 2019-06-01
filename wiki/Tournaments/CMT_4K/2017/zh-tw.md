@@ -1,5 +1,4 @@
-2017年華人 osu!mania 4K 大賽
-=============================
+# 2017年華人 osu!mania 4K 大賽
 
 ![CMT 4K 2017](pic.png)
 
@@ -166,7 +165,7 @@ TB:
 
 ### 測試賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
 - [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmaps/601737)  
 - [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmaps/1178870)  
 - [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmaps/815021)  
@@ -344,7 +343,7 @@ TB:
      - 玩家使用漢語作為主要語言。
      - 本次比賽對玩家排名無強制要求，建議 **mania模式** \#**4000** 排名之內的玩家參賽。
      - 如果參賽者在過去一年內於 osu!社區 或在比賽中有過不良記錄，我們可能會取消其參賽資格。
-3. 報名成功的選手將收到確認郵件，同時也將被加入[公示名單](https://osu.ppy.sh/forum/t/576970)。
+3. 報名成功的選手將收到確認郵件，同時也將被加入[公示名單](https://osu.ppy.sh/community/forums/topics/576970)。
 4. 圖池管理和比賽經理不得參賽。
 
 ### 比賽賽程

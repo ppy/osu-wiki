@@ -1,8 +1,6 @@
-Menu
-====
+# Menu
 
-File
-------
+## File
 
 ![File menu](img/M_File.jpg "File menu")
 
@@ -35,7 +33,7 @@ File
 
 | Name | Description |
 | ---- | ----------- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/community/forums/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
 | Extract Map Package | ? |
 | Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
@@ -54,8 +52,7 @@ File
 | ---- | ----------- |
 | Exit... (`Esc`) | Exit Beatmap Editor. May prompt you to save recent changes. Sometimes *ignores* Design tab changes. |
 
-Edit
------
+## Edit
 
 ![Edit menu](img/M_Edit.jpg "Edit menu")
 
@@ -114,8 +111,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 | Nudge Backward (`J`) | Move the note(s) one beat backward based on Beat Snap Divisor. |
 | Nudge Forward (`K`) | Move the note(s) one beat forward based on Beat Snap Divisor. |
 
-View
---------
+## View
 
 ![View menu](img/M_View.jpg "View menu")
 
@@ -150,8 +146,7 @@ Places of interest.
 | Stacking | Stack the overlaid hitcircles as if in-game (dependent on difficulty settings) |
 | Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
-Compose
---------
+## Compose
 
 *Main page: [Compose](/wiki/Beatmap_Editor/Compose)*
 
@@ -174,8 +169,7 @@ Compose
 | Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hitcircles/fruit/taiko hitcircles, while playing song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input circles, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
 | Sample import | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
 
-Design
--------
+## Design
 
 *Main page: [Design](/wiki/Beatmap_Editor/Design)*
 
@@ -185,8 +179,7 @@ Design
 | ---- | ----------- |
 | Move all elements on time... | Move *everything* by #ms value. Useful if you changed the .mp3 or offset. |
 
-Timing
--------
+## Timing
 
 *Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
 
@@ -232,8 +225,7 @@ Timing
 | ---- | ----------- |
 | Set Current Position as Preview Point | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
 
-Web
-------
+## Web
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
@@ -241,12 +233,11 @@ Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to
 
 | Name | Description |
 | ---- | ----------- |
-| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/b/### where "###" is the beatmap's ID. |
+| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/beatmaps/### where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
 | Quick Reply | Post a reply to the beatmap thread. |
 
-Help
------
+## Help
 
 ![Help menu](img/M_Help.jpg "Help menu")
 

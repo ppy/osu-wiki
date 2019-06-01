@@ -1,11 +1,10 @@
 ---
 outdated: true
 ---
-Installation
-======================
 
-安装指南
--------
+# Installation
+
+## 安装指南
 
 此页面会告诉你如何获得游戏和一些排除故障的方法。
 
@@ -38,10 +37,10 @@ Installation
   - 如果 osu! 已经打开，你也可以拖动谱面文件到游戏窗口上，然后松开。或者你也可以将谱面文件放置在 osu! 目录的 "Song" 文件夹，osu! 将会自动导入。
 - 现在，你就可以玩这些新谱面啦！如果列表中没有出现你导入的谱面，只需在歌曲菜单按下 F5 键，列表会自动刷新。
 - 你也可以下载 **[谱面集](https://osu.ppy.sh/p/packlist)** ，谱面集是把一些谱面压缩成单个文件。它们一般都是 zip 或 rar 文件。你可以下载一个你喜欢的压缩程序提取它（例如 [7-Zip](http://www.7-zip.org/)），并导入提取出的谱面文件。
-- 如果你知道如何使用 BT（BitTorrent） 客户端，你可以使用 [由社区成员提供的 torrent 文件](https://osu.ppy.sh/forum/t/147478)，这可以让你一次下载许多谱面集。
+- 如果你知道如何使用 BT（BitTorrent） 客户端，你可以使用 [由社区成员提供的 torrent 文件](https://osu.ppy.sh/community/forums/topics/147478)，这可以让你一次下载许多谱面集。
 
 #### Linux（利用 Wine）
-> 这个教程可能不是最新的，你可以通过在论坛查看[这个帖子的最后一页](https://osu.ppy.sh/forum/t/14614)找到安装最新 osu! 的方法。
+> 这个教程可能不是最新的，你可以通过在论坛查看[这个帖子的最后一页](https://osu.ppy.sh/community/forums/topics/14614)找到安装最新 osu! 的方法。
 
 ##### 如何安装
 
@@ -49,12 +48,12 @@ Installation
  - 首先，检查你的显卡。
    - 使用 NVIDIA 显卡以获得最佳游戏体验。
    - 如果你使用 Intel 显卡，你需要启用 V-Sync。
-   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
-   - 安装 "Wine"（如果你还没有安装的话）.
+   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
+   - 安装 "Wine"（如果你还没有安装的话）.
 
 2. 使 Wine 工作
  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
-   - `sudo apt-get -y install wine`
+   - `sudo apt-get -y install wine`
  - 对于 Gentoo/Sabayon：
    - `sudo emerge wine`
  - 对于 Fedora：
@@ -83,7 +82,7 @@ Installation
 #### osu!droid（非官方，由 Pesets 和 neico 创建）
 
 ##### 如何安装（在手机上）
-> [原帖](https://osu.ppy.sh/forum/t/62680)
+> [原帖](https://osu.ppy.sh/community/forums/topics/62680)
 
 - 你有两个选择，随便挑一个。
   - 查看原帖，扫描二维码。
@@ -100,7 +99,7 @@ Installation
 - osu!droid 将被安装在你的设备里。
 
 ##### 添加谱面
-> 请参考[原帖](https://osu.ppy.sh/forum/t/62680)的图片指南。
+> 请参考[原帖](https://osu.ppy.sh/community/forums/topics/62680)的图片指南。
 
 如果你正在使用智能手机，你也可以前往 https://osu.ppy.sh ，下载完毕后打开即可。
 
@@ -113,7 +112,7 @@ Installation
 #### osu! iPhone（非官方，由 nuudles 创建）
 
 ##### 如何安装
- - 你可以通过查看[原帖](https://osu.ppy.sh/forum/t/176495)来找到如何在越狱 iOS 7.0.4 设备安装 osu! iPhone的教程。
+ - 你可以通过查看[原帖](https://osu.ppy.sh/community/forums/topics/176495)来找到如何在越狱 iOS 7.0.4 设备安装 osu! iPhone的教程。
 
 #### osu!stream
 
@@ -149,8 +148,7 @@ Installation
 - 选择你想要的谱面。
   - 建议你先下载免费的谱面，免费的谱面有 "FREE" 标签。
 
-常见问题和故障排除
------------------------
+## 常见问题和故障排除
 
 ### osu!
 - 我尝试运行 osu!，但是出现了 "Initialization Error"！
@@ -161,7 +159,7 @@ Installation
   - 这是因为你的谱面文件不完整或已损坏，这可能是因为网络原因/你取消了下载/谱面的制作者上传了损坏的谱面。你可以试着重新下载谱面或搜索相同歌曲名的其它谱面。
    - osu! 将会把损坏的谱面放置在 "Songs/Failed" 目录下。
 - 发生了其它错误？
-  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](https://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的（截图/视频/能重现该问题的操作步骤），一定会有人来帮助你的！
+  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](https://osu.ppy.sh/community/forums/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的（截图/视频/能重现该问题的操作步骤），一定会有人来帮助你的！
 
 ### osu!droid
 
@@ -170,21 +168,20 @@ Installation
 - 将会支持故事板或视频吗？
   - 不会。
 - 你希望添加新的功能么？
-  - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/forum/t/62313)中告诉我们。
+  - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/community/forums/topics/62313)中告诉我们。
 
-外部链接
---------------
+## 外部链接
 
 - peppy's FAQ [1](https://osu.ppy.sh/p/faq)
 - peppy's download page [2](https://osu.ppy.sh/p/download)
-- peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/forum/p/909738)
-- mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/forum/t/14664/)
+- peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
+- mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/community/forums/topics/14664/)
   - [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu! wiki version)
 - KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
-- doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)
-  - Pesets's osu!droid Changelog [7](https://osu.ppy.sh/forum/t/62315)
+- doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
+  - Pesets's osu!droid Changelog [7](https://osu.ppy.sh/community/forums/topics/62315)
   - osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
-- Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/forum/t/58640)
+- Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/community/forums/topics/58640)
   - T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
 - peppy's osu!stream official page [11](http://osustream.com/)
   - osu!stream App Store page [12](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

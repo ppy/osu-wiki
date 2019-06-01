@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Hoe kan ik registreren?
------------------------
+
+## Hoe kan ik registreren?
 
 Een osu! account registreren is heel erg simpel als 1,2,3! Volg deze stappen.
 
@@ -10,11 +10,10 @@ Als je binnen 24 uur niet inlogt op je account dan wordt de registratie ongeldig
 
 <span style="background-color:#FF0000; color:#FFFFFF;">Je mag niet meer dan 1 account aanmaken, Meer dan 1 account maken is NIET toegestaan.</span>
 
-Steps
------
+## Steps
 
 <center>
-<span style="font-size:18px">1. Ga naar de <span class="plainlinks"> [website](https://osu.ppy.sh)</span> en klik "<b>I'm new!</b>" om verder te gaan naar de registratie pagina. </span>
+<span style="font-size:18px">1. Ga naar de <span class="plainlinks"> [website](https://osu.ppy.sh/home)</span> en klik "<b>I'm new!</b>" om verder te gaan naar de registratie pagina. </span>
 
 <span style="font-size:18px">2. Vul de lege balken in en druk "Continue" </span>
 
@@ -41,8 +40,7 @@ Steps
 | 3. Log-in dialog - Voer je gebruikersnaam en wachtwoord in die je toe net hebt gemaakt en druk log in. |
 
 </center>
-What to do next?
-----------------
+## What to do next?
 
 Je bent klaar voor je einde dus ga nog even de [welcome](NL:Welcome "wikilink") pagina en de [rules](NL:Rules "wikilink") pagina lezen en je bent er klaar voor!
 

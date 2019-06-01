@@ -3,6 +3,7 @@ tags:
 - OWC 2014
 - OWC2014
 ---
+
 # osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
@@ -46,7 +47,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 
@@ -91,7 +92,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 
 ## Groups
 
-| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H | 
+| Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BR] Brazil | ![][flag_LT] Lithuania | ![][flag_CA] Canada | ![][flag_FI] Finland | ![][flag_CN] China |
 | ![][flag_IT] Italy | ![][flag_AT] Austria | ![][flag_CL] Chile | ![][flag_JP] Japan | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_SG] Singapore | ![][flag_DK] Denmark|
@@ -263,12 +264,12 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ### Finals
 
 | Saturday, 2014-12-13 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  Poland ![][flag_PL]| 1 | **6** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/11117046) |
 |  Poland ![][flag_PL]| 2 | **6** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/11118895) |
 
 | Saturday, 2014-12-06 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Japan** ![][flag_JP]| **6** | 0|![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/10950205) |
 |  **South Korea** ![][flag_KR]| **6** | 1 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10954577) |
 |  South Korea ![][flag_KR]| 5 | **6** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10955976) |
@@ -277,14 +278,14 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ### Semifinals
 
 | Saturday, 2014-11-29 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Russian Federation ![][flag_RU] | 5 | **6** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10799208) |
 |  **Japan**  ![][flag_JP] | **6** | 0|![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/10800808) |
 |  Sweden ![][flag_SE]| 3 | **6** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/10801986) |
 |  **Netherlands** ![][flag_NL] | **6** | 0|![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/10803221) |
 
 | Sunday, 2014-11-30 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 5|![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/10828929) |
 |  **Japan** ![][flag_JP]| **6** | 4|![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10829960) |
 |  **Germany** ![][flag_DE]| **6** | 5|![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10835928) |
@@ -293,14 +294,14 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ### Quarterfinals
 
 | Saturday, 2014-11-22 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Russian Federation** ![][flag_RU] | **5** | 1|![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/10635177) |
 |  **Taiwan** ![][flag_TW]| **5** | 2|![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/10636683) |
 |  France  ![][flag_FR]| 1 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10637580) |
 |  Argentina ![][flag_AR]| 0 | **5** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10638992) |
 
 | Sunday, 2014-11-23| | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **5** | 2|![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/10669681) |
 |  **Germany** ![][flag_DE]| **5** | 4|![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10671115) |
 |  Ukraine  ![][flag_UA] | 0| **5** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10672689) |
@@ -309,7 +310,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ### Round of 16
 
 | Sunday, 2014-11-16| | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  China ![][flag_CN] | 2 | **5** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10507941) |
 |  Australia ![][flag_AU]| 2 | **5** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/10508932) |
 |  **Ukraine** ![][flag_UA] | **5** | 1|![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/10509978) |
@@ -322,7 +323,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 ### Group Stage
 
 | Saturday, 2014-11-08| | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  New Zealand ![][flag_NZ] | 1| **4** |![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/10316251) |
 |  Lithuania ![][flag_LT] | 2| **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/10315808) |
 |  Indonesia ![][flag_ID] | 1| **4** |![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/10315815) |
@@ -353,7 +354,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | Mexico ![][flag_MX] | 0| **4** | ![][flag_JP]**Japan** | [#1](https://osu.ppy.sh/community/matches/10336267) |
 
 | Sunday, 2014-11-09| | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  Norway ![][flag_NO] | 1| **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/10348348) |
 |  New Zealand ![][flag_NZ]| 0| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10348353) |
 |  Indonesia ![][flag_ID]| 2| **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/10348356) |

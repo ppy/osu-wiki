@@ -1,10 +1,8 @@
 # FAQ
 
-Introdução
-==========
+# Introdução
 
-eu nunca joguei essa coisa chamada "Ouendan" - o que é isso?
-------------------------------------------------------------
+## eu nunca joguei essa coisa chamada "Ouendan" - o que é isso?
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) é um jogo rítmico para Nintendo DS. A jogabilidade consiste de três elementos: tocar em círculos na tela de toque, arrastar uma bola através de um caminho fixo e girar um spinner rapidamente. O jogo é assim no DS:
 
@@ -12,8 +10,7 @@ eu nunca joguei essa coisa chamada "Ouendan" - o que é isso?
 
 Você poder ver os círculos na parte inferior da tela, e no topo da tela você tem a historia Cada estagio é basicamente uma historia alguém passando por dificuldade. E onde Ouendan (Lideres de torcida) aparecem.
 
-Como jogar?
------------
+## Como jogar?
 
 *Explicação completa: [osu! Standard](PT:Standard "wikilink")*
 
@@ -21,7 +18,7 @@ como a maioria dos usuários de computadores não possuem tela touchscreen, o jo
 
 ### Básico sobre a Jogabilidade
 
-`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](http://osu.ppy.sh/s/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Embutido` `ao` `instalador` `de` `osu!)Tutorial` `Original`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Versão` `Ranqueada` `não-Oficial`](https://osu.ppy.sh/beatmapsets/19928)
 
 A Jogabilidade tem foco em testar seus sentidos em:-
 
@@ -90,11 +87,9 @@ Vamos aprender sobre os tipos de hit-objects.
 -   O circulo ao lado da precisão e abaixo da pontuação é a barra de progresso da musica (mostra o quanto do musica já foi tocada e quanto falta até chegar ao final)
 -   O numero na parte inferior esquerda é o contador de combo/multiplicador de pontos. (mostra quantas notas em seguida você acertou e esse numero multiplica o valor das notas seguintes)
 
-Modos de jogo alternativos
-==========================
+# Modos de jogo alternativos
 
-O que é "Taiko"?
-----------------
+## O que é "Taiko"?
 
 *Explicação completa: [Taiko](PT:Taiko "wikilink")*
 
@@ -133,15 +128,14 @@ O que é "Taiko"?
 
 Os comandos padrão para o modo taiko são:
 
-`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
-`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
+`Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.`
+`Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.`
 
 O local onde o cursor fica não faz diferença em quanto joga
 
 Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis para você. Isso pode ser feito indo ao menu principal&gt;opções&gt;input tab
 
-O que é "Catch the Beat"?
--------------------------
+## O que é "Catch the Beat"?
 
 [200px|thumb|right|Jogabilidade do Catch The Beat.](image:ctbaqua.jpg "wikilink")
 
@@ -157,8 +151,7 @@ Caso o mod [Relax](PT:Relax "wikilink") estiver sendo utilizado, o catcher pode 
 -   Por padrão, as setas esquerda \[&lt;-\] e direita \[-&gt;\] do teclado são usadas para mover o catcher.
 -   Pressionando o botão \[SHIFT\] esquerdo com uma das setas faz com que o catcher correr naquela direção (indicado por um brilho ao redor do catcher).
 
-O que é "osu!mania"?
---------------------
+## O que é "osu!mania"?
 
 ![ thumb | 200px | Exemplo da Jogabilidade (7K) do osu!mania]( Mania screenshot.jpg  " thumb | 200px | Exemplo da Jogabilidade (7K) do osu!mania")
 
@@ -256,15 +249,13 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 </tbody>
 </table>
 
-Pontuação
-=========
+# Pontuação
 
 *Informações detalhadas de Pontuação podem ser encontradas nas paginas dos respectivos modos de jogo.*
 
 ### Standard
 
-Classificação de Desempenho
----------------------------
+## Classificação de Desempenho
 
 **<u>Classificações Comuns</u>**
 
@@ -320,54 +311,46 @@ Classificação de Desempenho
 -   **Classificações adicionadas ao seu perfil dependem das dificuldades separadas, não em conjunto.**
     -   Se um beatmap tem 3 dificuldades, e você consegue SS em todas elas, você recebe 3 SS e não apenas um em seu perfil.
 
-Problemas e perguntas frequentes
-================================
+# Problemas e perguntas frequentes
 
-Onde eu encontro beatmaps para baixar?
---------------------------------------
+## Onde eu encontro beatmaps para baixar?
 
 *Explicação detalhada sobre beatmaps: [Beatmaps](PT:Beatmaps "wikilink")*
 
-Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
+Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)".
 
 -   Para baixar beatmaps é necessário ter uma conta valida e logada. o servidor não libera download de beatmaps para usuários não registrados
 
-Tem como desativar o Kiai Time?
--------------------------------
+## Tem como desativar o Kiai Time?
 
 Não. Diferente do vídeo, kiai é integrado ao jogo (como seu fosse um hit object)
 
-Os maps são muito difíceis! Onde eu acho os maps mais fáceis?
--------------------------------------------------------------
+## Os maps são muito difíceis! Onde eu acho os maps mais fáceis?
 
-Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <http://osu.ppy.sh/forum/t/5456>
+Pokebis compilou uma lista de beatmaps apropriados para iniciantes jogarem. você pode encontra-los aqui: <https://osu.ppy.sh/community/forums/topics/5456>
 
-E também [versão não-oficial ranqueada do tutorial osu! tutorial](http://osu.ppy.sh/s/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
+E também [versão não-oficial ranqueada do tutorial osu! tutorial](https://osu.ppy.sh/beatmapsets/19928). É ótimo para praticar, tanto para iniciantes quanto para jogadores experientes
 
-Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](http://osu.ppy.sh/?p=beatmaplist&s=3). Os maps mais fáceis estão no topo da lista
+Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](https://osu.ppy.sh/?p=beatmaplist&s=3). Os maps mais fáceis estão no topo da lista
 
-O que o Level em meu perfil faz??
----------------------------------
+## O que o Level em meu perfil faz??
 
 Absolutamente nada. Não existe diferenças comparando um jogador level 100 contra um jogador level 1 (com exceção do nível de habilidade e experiência em jogo) Não existem "privilégios" para jogadores com level mais alto ou desvantagens para iniciantes. Level é baseado no seu total de pontos acumulado quando jogando online com sua conta.. [a Formula pode ser encontrada aqui](PT:Score#Level "wikilink")
 
-Porque as estatísticas do meu perfil são diferentes das que vejo durante o jogo?
---------------------------------------------------------------------------------
+## Porque as estatísticas do meu perfil são diferentes das que vejo durante o jogo?
 
 Você provavelmente esta visualizando o modo de jogo errado. Clique no modo de jogo que você esta jogando em seu perfil. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
 
-Porque estou vendo linhas brancas na tela aleatoriamente toda vez que jogo?
----------------------------------------------------------------------------
+## Porque estou vendo linhas brancas na tela aleatoriamente toda vez que jogo?
 
 Certifique-se de que a tecla de fumaça/escrita/desenho não esta próxima das teclas que você usa para jogar.
 
 <File:Smoke> effect.jpg| Uso da "fumaça" <File:Screenshot085.jpg>| Localização da "fumaça"
 
-Créditos
-========
+# Créditos
 
--   FAQ do peppy[1](http://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](http://osu.ppy.sh/s/3756), [Tutorial não-oficial Ranqueado](http://osu.ppy.sh/s/19928))
--   Treino para iniciantes do Pokebis [2](http://osu.ppy.sh/forum/t/5456)
+-   FAQ do peppy[1](https://osu.ppy.sh/p/faq)
+-   Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
+-   Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 -   Reddit's /r/osugame/wiki [5](http://www.reddit.com/r/osugame/wiki/index)

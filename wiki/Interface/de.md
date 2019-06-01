@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" /> \_\_TOC\_\_
 =Hauptmenü= <img src="Introscreen.jpg" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
 
@@ -39,8 +40,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 <img src="DE-Multiplay.jpg" title="fig:DE-Multiplay.jpg" alt="DE-Multiplay.jpg" width="280" /> <img src="DE-Multiplay-1.jpg" title="fig:DE-Multiplay-1.jpg" alt="DE-Multiplay-1.jpg" width="280" />
 
-Songauswahl
------------
+## Songauswahl
 
 <img src="soloplay1.jpeg" title="Songauswahl" alt="Songauswahl" width="300" />
 
@@ -114,8 +114,7 @@ Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht de
 -   Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
 -   Weiß: Diese Beatmap ist gerade ausgewählt.
 
-Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
-----
+## Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
 
 <img src="soloplay7.jpeg" title="fig:soloplay7.jpeg" alt="soloplay7.jpeg" width="400" /> <img src="Mode screen.png" title="fig:Auflistung aller verfügbaren Spielmodi" alt="Auflistung aller verfügbaren Spielmodi" width="100" /> Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge von links nach rechts durcharbeiten.
 
@@ -142,11 +141,9 @@ Klicken Sie auf "Random Map" oder die F2-Taste, damit Ihr Spiel **zufällig eine
 
 Während Sie sich in der Auswahl der Beatmap Optionen befinden, können Sie nicht den Chat oder den erweiterten Chat verwenden.
 
-Rankingtabelle
-==============
+# Rankingtabelle
 
-Rangtabelle
------------
+## Rangtabelle
 
 In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beatmap erlangt haben, angezeigt. Um zur Online Score Führungstabelle zu gelangen, scrollen Sie einfach hinunter.
 
@@ -154,8 +151,7 @@ In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beat
 
 Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko Skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Team-Modus : Head-To-Head Multiplay Co-Op Grade.jpg| Team-Modus : Tag Coop Multiplay Team Grade.jpg| Team-Modus : Team Vs
 
-Online Score Führungstabelle
-----------------------------
+## Online Score Führungstabelle
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
@@ -177,7 +173,7 @@ Note: The back transparent leitmotif is based on what mode you played in.
     5.  Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
     6.  To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
 
-5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](http://osu.ppy.sh/p/chart) reserviert.
+5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/p/chart) reserviert.
 6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](DE:Achievements "wikilink") finden.
 7.  Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
 8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.

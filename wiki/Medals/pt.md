@@ -1,10 +1,8 @@
-Conquistas
-=============
+# Conquistas
 
 **Conquistas** (achievements) são pequenos emblemas para perfil que indicam que o usuário conseguiu realizar certo objetivo. Atualmente, eles são divididos em 5 grupos.
 
-Beatmap Packs
---------------
+## Beatmap Packs
 
 As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_Modes/osu!).
 
@@ -51,8 +49,7 @@ Cada uma dessas seções possuem 4 volumes.
 | ![Video Game Pack vol.4](img/all-packs-gamer-4.png "Video Game Pack vol.4") | ![Anime Pack vol.4](img/all-packs-anime-4.png "Anime Pack vol.4") | ![Internet Pack vol.4](img/all-packs-internet-4.png "Internet Pack vol.4") | ![Rhythm Pack vol.4](img/all-packs-rhythm-4.png "Rhythm Pack vol.4") |
 
 
-Combo
------
+## Combo
 
 As conquistas de **Combo** podem ser obtidas por conseguir um número específico de [Combo](/wiki/Glossary) no modo Standard **em qualquer música**. Conseguir o mesmo combo em Taiko ou Catch the Beat não resultarão na obtenção da conquista.
 
@@ -65,8 +62,7 @@ Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approv
 | ![1000 Combo (any song)](img/osu-combo-1000.png "1000 Combo (any song)") | ![The Highranker Lvl3](img/all-skill-highranker-3.png "The Highranker Lvl3") |
 | ![2000 Combo (any song)](img/osu-combo-2000.png "2000 Combo (any song)") | ![The Highranker Lvl4](img/all-skill-highranker-4.png "The Highranker Lvl4") |
 
-Dedication
-----------
+## Dedication
 
 As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar várias vezes no modo Standard, coletar várias frutas no [Catch the Beat](/wiki/Game_Modes/osu!catch) acertar várias vezes os "tambores" do modo [Taiko](/wiki/Game_Modes/osu!taiko) / pressionando varias teclas em [osu!mania](/wiki/Game_Modes/osu!mania)
 
@@ -77,8 +73,7 @@ As conquistas de **Dedication** (Dedicação) podem ser obtidas por jogar vária
 | ![25,000 Plays (osu! mode)](img/osu-plays-25000.png "25,000 Plays (osu! mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu! mode)](img/osu-plays-50000.png "50,000 Plays (osu! mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Hush-Hush
----------
+## Hush-Hush
 
 Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador, por conta própria, precisa descobrir o que ele precisa fazer para conseguir a conquista. Revelar o método de obter essas conquistas **resultará em banimento**. O próprio título delas são dicas.
 
@@ -92,7 +87,6 @@ Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn")  |
 
-Link
-----
+## Link
 
--   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/forum/t/80448)
+-   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

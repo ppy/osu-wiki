@@ -1,10 +1,8 @@
-Compound Commands
-====================
+# Compound Commands
 
 These are more complicated commands that don't do anything by themselves. Instead, they **provide conditions for when other events happen.**
 
-Loop (L) Command
---------------------
+## Loop (L) Command
 
 It's extremely common to have some [actions](/wiki/Storyboard_Scripting/Commands) in [Storyboarding](/wiki/Storyboards) repeat themselves a fixed number of times. For instance, you may want to have an object to fade in and out constantly during a certain playtime. In this case, it would be best to use a **loop**.
 
@@ -15,7 +13,7 @@ Loops are done on commands within an object, not across several objects. They ar
 ```
 _L,(starttime),(loopcount)
 __(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
+// More events allowed
 ```
 
 where:
@@ -36,8 +34,7 @@ __F,0,0,500,0,1
 __F,0,500,1000,1,0
 ```
 
-Trigger (T) Command
-------------------------
+## Trigger (T) Command
 
 In addition to the "implicit" player feedback via the separate [Pass/Fail layers](/wiki/Storyboard_Scripting/General_Rules), you can use one of several **Trigger conditions** to cause a series of [events](/wiki/Storyboard_Scripting/Commands) to happen whenever that condition is fulfilled within a certain time period. The official specification calls these "trigger loops" due to their syntactic similarity to Loops (L), but they aren't loops at all, so here they are simply called "Triggers".
 
@@ -48,7 +45,7 @@ Triggers take the form:
 ```
 _T,(triggerType),(starttime),(endtime)
 __(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
+// More events allowed
 ```
 
 where:

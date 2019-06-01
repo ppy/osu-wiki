@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Comment s'inscrire?
--------------------
+
+## Comment s'inscrire?
 
 S'inscrire sur osu! est une chose très simple, en deux ou trois étapes c'est fini.
 
@@ -10,11 +10,10 @@ Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création 
 
 <span style="color:#FF0000">Notez bien que vous ne pouvez avoir qu'un seul compte. Créer plusieurs comptes est interdit !</span>
 
-Étapes
-------
+## Étapes
 
 <center>
-<span style="font-size:18px">1. Allez sur le <span class="plainlinks"> [site](https://osu.ppy.sh)</span> et cliquez sur "<b>I'm new!</b>" pour commencer votre inscription. </span>
+<span style="font-size:18px">1. Allez sur le <span class="plainlinks"> [site](https://osu.ppy.sh/home)</span> et cliquez sur "<b>I'm new!</b>" pour commencer votre inscription. </span>
 
 <span style="font-size:18px">2. Remplissez les champs et cliquez sur "Continue" </span>
 
@@ -45,8 +44,7 @@ Si vous ne vous connectez pas sur le jeu dans les 24 heures après la création 
 | 3. **Fenêtre de connexion** - Écrivez le pseudo et le mot de passe que vous avez entrés plus tôt et cliquez sur "Connexion"  |
 
 </center>
-Que faire après?
-----------------
+## Que faire après?
 
 Lorsque vous êtes prêt, continuez vers la page [de bienvenue](FR:Welcome "wikilink") et n'oubliez pas de lire les règles sur [cette page](FR:Rules "wikilink") ([version courte ici](FR:Short_Rules "wikilink")) Vous pouvez aussi vous renseigner sur le vocabulaire couramment utilisé sur [cette page](FR:Lexique "wikilink").
 

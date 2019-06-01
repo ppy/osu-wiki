@@ -1,15 +1,12 @@
-osu! Program Files
-=============================
+# osu! Program Files
 
 ![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")
 
-Emplacement
------------
+## Emplacement
 
 Par défaut `C:Program Files (x86)osu!` où "C:" est votre disque dur où osu! est installé.
 
-Dossiers
-----------
+## Dossiers
 
 ### \_MACOSX
 
@@ -42,7 +39,7 @@ Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Conteint
 
 ### Replays
 
-Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/forum/t/108092).
+Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
 
 Le format est `{Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`
 **Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
@@ -55,7 +52,7 @@ Le format est `screenshot###` où "###" est le numéro de la capture d'écran.
 
 ### Skins
 
-Contient des **skins crées par des utilisateurs qui peuvent être utilisés pour personnaliser l'Interface Utilisateur dans osu!.** Vous pouvez télécharger des skins depuis la section [skinning](https://osu.ppy.sh/forum/15) du forum. Il y a deux sorties possibles: le .osk ou le .zip/.rar. Si vous obtenez un fichier osu!skin exécutable (.osk), ouvrez-le directement pour ouvrir osu! et vous diriger vers l'écran de sélection d'un skin avec votre nouveau skin dans la liste. Si vous obtenez un dossier, vous devez le placer manuellement dans le dossier "Skins". Si c'est un .zip/.rar, vous devez d'abord l'extraire. Vous pouvez changer de skin dans le [menu des Options section Skin (Sélectionner un skin)](/wiki/Options). Veuillez garder en mémoire que le skin que vous utilisez n'est utilisable que dans votre propre osu! uniquement.
+Contient des **skins crées par des utilisateurs qui peuvent être utilisés pour personnaliser l'Interface Utilisateur dans osu!.** Vous pouvez télécharger des skins depuis la section [skinning](https://osu.ppy.sh/community/forums/15) du forum. Il y a deux sorties possibles: le .osk ou le .zip/.rar. Si vous obtenez un fichier osu!skin exécutable (.osk), ouvrez-le directement pour ouvrir osu! et vous diriger vers l'écran de sélection d'un skin avec votre nouveau skin dans la liste. Si vous obtenez un dossier, vous devez le placer manuellement dans le dossier "Skins". Si c'est un .zip/.rar, vous devez d'abord l'extraire. Vous pouvez changer de skin dans le [menu des Options section Skin (Sélectionner un skin)](/wiki/Options). Veuillez garder en mémoire que le skin que vous utilisez n'est utilisable que dans votre propre osu! uniquement.
 
 Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinning). De plus, osu! par peppy est le seul skin sans son dossier et donc ne peut pas être supprimé directement.
 
@@ -64,12 +61,11 @@ Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinn
 **Votre recueil des beatmaps d'osu!**.
 
 Le format est `{Beatmap number} {Artist} - {Song Title}`.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](http://osu.ppy.sh/s/1)" ou "[avgn](http://osu.ppy.sh/s/66)". Mention spéciale pour "[tutorial](http://osu.ppy.sh/s/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
+Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
 
-Fichiers programmes
---------------------
+## Fichiers programmes
 
 ### .dll (Extension de l'application)
 
@@ -113,8 +109,7 @@ Les fichiers de configurations ou fichiers CFG configurent les paramètres initi
 -   osu!.cfg (Configuration d'osu!.)
 -   osu!.user.cfg ("Écran des [Options](/wiki/Options)")
 
-.exe (Application)
-------------------
+## .exe (Application)
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 

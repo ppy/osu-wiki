@@ -3,6 +3,7 @@ tags:
 - CMT 4K 2018
 - CMT4K 2018
 ---
+
 # Chinese osu!mania 4K Tournament 2018
 
 ![CMT 4K 2018 Logo](img/logo.jpg)
@@ -39,16 +40,16 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 | Team | Member(s) |
 | --: | :-- |
-| Management and Organisation | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256) |
-| Coordinator | ![][CN] [SSV Normandy](/users/6475977) |
-| Map Selectors | ![][US] [qqqant](/users/8976576), ![][SG] [Polytetral](/users/8612061), ![][US] [Trainer-](/users/9331760), ![][SG] [Raveille](/users/1388767) |
-| Streamers and Referees | ![][CN] [aiyulu](/users/189617), ![][CN] [Flow Light](/users/6705256), ![][CN] [kj415j45](/users/9367540) |
-| Commentators | ![][CN] [hans1999](/users/6679329), ![][CN] [Flow Light](/users/6705256), ![][AU] [williammak](/users/11083079), ![][CN] [crazybrother](/users/8045083), ![][CN] [kj415j45](/users/9367540), ![][CN] [NimaPro](/users/11524571), ![][CN] [IA daisuki](/users/11238501) |
-| Wiki | ![][CN] [kj415j45](/users/9367540) |
+| Management and Organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| Map Selectors | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Streamers and Referees | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentators | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/800125)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/800125)
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
 - [Challonge](https://challonge.com/CMT2018)
 - Livestream
@@ -293,7 +294,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
      - Use Chinese as the primary language.
      - No requirement on performance points.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
-3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](/community/forums/topics/800125).
+3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/800125).
 4. Map selectors and tournament managers are not allowed to register.
 
 ### Stage Instructions

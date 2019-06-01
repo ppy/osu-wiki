@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-osu!mania World Cup 2014
-========================
+# osu!mania World Cup 2014
 
 ![MWC 2014 logo](logo.png)
 
-The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/g/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
+The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/groups/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
-Calendrier
--------------
+## Calendrier
 
 | Event                   | Timestamp          |
 |-------------------------|--------------------|
@@ -23,8 +21,7 @@ Calendrier
 | Demi-finales            | 7 Septembre 2014   |
 | Finale et petite finale | 14 Septembre 2014  |
 
-Prix
----------
+## Prix
 
 | Placing                                                    | Prize(s)                                                                                                                    |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -32,8 +29,7 @@ Prix
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
 
-Organisation
------------
+## Organisation
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,17 +41,15 @@ Organisation
 
 ------------------------------------------------------------------------
 
-Links
-------
+## Links
 
 -   [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
 -   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Topic de discussion](https://osu.ppy.sh/forum/t/222100)
+-   [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
 
 ------------------------------------------------------------------------
 
-Réglement
-------------
+## Réglement
 
 ### Règles du tournoi
 

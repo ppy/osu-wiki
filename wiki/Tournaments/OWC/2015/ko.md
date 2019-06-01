@@ -1,12 +1,10 @@
-osu! World Cup 2015
-=====================
+# osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
-올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](https://osu.ppy.sh/g/26)에 의해 개최되는 국가 대항 토너먼트입니다.
+올해로 6번째를 맞이하는 osu! World Cup 2015 (***OWC 2015*** )은 [Tournament Management](https://osu.ppy.sh/groups/26)에 의해 개최되는 국가 대항 토너먼트입니다.
 
-토너먼트 일정
------------
+## 토너먼트 일정
 
 | Event       | Timestamp                  |
 |-------------|----------------------------|
@@ -19,10 +17,9 @@ osu! World Cup 2015
 | 결승 - Week 1 | 2015년 12월 5일 - 6일          |
 | 결승 - Week 2 | 2015년 12월 12일 - 13일        |
 
-상품
-----
+## 상품
 
-저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](https://store.ppy.sh/store/product/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
+저희는 이번 월드컵의 상금으로 최소 5,000달러 현금을 목표로 하고 있습니다. 당신은 **[여기서 프로필 배너 구매](https://osu.ppy.sh/store/products/38)** 를 함으로써 월드컵의 상품을 후원을 할 수 있습니다!
 
 | Placing                                                    | Prizes                                    |
 |------------------------------------------------------------|-------------------------------------------|
@@ -30,8 +27,7 @@ osu! World Cup 2015
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 총 상금의 38%, 프로필 뱃지                         |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 총 상금의 12%, 프로필 뱃지                         |
 
-주최자 구성
-----------
+## 주최자 구성
 
 | Job     | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,12 +39,11 @@ osu! World Cup 2015
 
 ------------------------------------------------------------------------
 
-링크
-------
+## 링크
 
 -   [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
--   [논의 스레드](https://osu.ppy.sh/forum/p/4550383)
--   [등록 페이지](https://jizz.ppy.sh/tournaments/2)
+-   [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
+-   [등록 페이지](https://osu.ppy.sh/tournaments/2)
 -   [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
 -   **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
@@ -58,8 +53,7 @@ osu! World Cup 2015
 
 ------------------------------------------------------------------------
 
-참가자
--------
+## 참가자
 
 | Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
 |---------------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
@@ -77,8 +71,8 @@ osu! World Cup 2015
 |F|Country name|Team|
 |:---:|:---:|:---|
 |![][flag_MX]|**Mexico**|**[Broodich](https://osu.ppy.sh/users/2484629 "Broodich")**, [Id_Beat](https://osu.ppy.sh/users/3431380 "Id_Beat"), [Atheneon](https://osu.ppy.sh/users/2164627 "Atheneon"), [lndex](https://osu.ppy.sh/users/2038320 "lndex"), [Psycopath-](https://osu.ppy.sh/users/3233957 "Psycopath-"), [Eiikon](https://osu.ppy.sh/users/2553519 "Eiikon"), [KevEz](https://osu.ppy.sh/users/2271558 "KevEz"), [Atsuro](https://osu.ppy.sh/users/2279351 "Atsuro")|
-|![][flag_MY]|**Malaysia**|**[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-")| 
-|![][flag_AU]|**Australia**|**[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha")| 
+|![][flag_MY]|**Malaysia**|**[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-")|
+|![][flag_AU]|**Australia**|**[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha")|
 |![][flag_US]|**United States**|**[Xilver](https://osu.ppy.sh/users/3099689 "Xilver")**, [Natalia](https://osu.ppy.sh/users/2162669 "Natalia"), [Axarious](https://osu.ppy.sh/users/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/users/1028387 "Ritzeh"), [Seouless](https://osu.ppy.sh/users/3328676 "Seouless"), [0120](https://osu.ppy.sh/users/1901534 "0120"), [Zodiaack](https://osu.ppy.sh/users/3096229 "Zodiaack"), [[Toy]](https://osu.ppy.sh/users/2757689 "[Toy]")|
 
 ### Group B
@@ -96,7 +90,7 @@ osu! World Cup 2015
 |:---:|:---:|:---|
 |![][flag_UA]|**Ukraine**|**[Aka](https://osu.ppy.sh/users/1307553 "Aka")**, [wasisdasS](https://osu.ppy.sh/users/1999698 "wasisdasS"), [FllareA](https://osu.ppy.sh/users/1163931 "FllareA"), [Granje](https://osu.ppy.sh/users/496387 "Granje"), [-Ranndom-](https://osu.ppy.sh/users/5022536 "-Ranndom-"), [Yoru-hide](https://osu.ppy.sh/users/791121 "Yoru-hide"), [blednak](https://osu.ppy.sh/users/912627 "blednak")|
 |![][flag_LV]|**Latvia**|**[LoGo](https://osu.ppy.sh/users/750382 "LoGo")**, [Forseen](https://osu.ppy.sh/users/556012 "Forseen"), [Emula](https://osu.ppy.sh/users/2891792 "Emula"), [Vmx](https://osu.ppy.sh/users/967501 "Vmx"), [Jesus[Krists]](https://osu.ppy.sh/users/2842992 "Jesus[Krists]"), [Edijs](https://osu.ppy.sh/users/2799835 "Edijs"), [xoho](https://osu.ppy.sh/users/3647897 "xoho")|
-|![][flag_CA]|**Canada**|**[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi")| 
+|![][flag_CA]|**Canada**|**[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi")|
 |![][flag_PL]|**Poland**|**[Wilchq](https://osu.ppy.sh/users/2021758 "Wilchq")**, [Rafis](https://osu.ppy.sh/users/2558286 "Rafis"), [WubWoofWolf](https://osu.ppy.sh/users/39828 "WubWoofWolf"), [AmaiHachimitsu](https://osu.ppy.sh/users/844815 "AmaiHachimitsu"), [r0ck](https://osu.ppy.sh/users/1549620 "r0ck"), [fartownik](https://osu.ppy.sh/users/56917 "fartownik"), [SpajdeR](https://osu.ppy.sh/users/3446664 "SpajdeR"), [Lucid Astray](https://osu.ppy.sh/users/1773225 "Lucid Astray")|
 
 ### Group D
@@ -146,8 +140,7 @@ osu! World Cup 2015
 
 ------------------------------------------------------------------------
 
-맵풀
--------
+## 맵풀
 
 ### 8강
 
@@ -234,15 +227,14 @@ osu! World Cup 2015
   - [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/beatmaps/216690)
 - FreeMod
   - [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](https://osu.ppy.sh/beatmaps/537235)
-  - [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/beatmaps/486613) 
+  - [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/beatmaps/486613)
   - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmaps/313025)
 - Tiebreaker
   - [Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/beatmaps/722224)
 
 ------------------------------------------------------------------------
 
-경기 결과
--------------
+## 경기 결과
 
 ### 16강
 
@@ -321,13 +313,12 @@ osu! World Cup 2015
 
 ------------------------------------------------------------------------
 
-룰셋
--------
+## 룰셋
 
 ### 토너먼트 규칙
 
 1.  osu! World Cup은 국가 대항의 4:4 토너먼트입니다.
-2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/forum/t/375428)**
+2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  맵풀은 맵풀 선정자에 의해 경기가 있기 전 주의 일요일 이전에 발표됩니다. 이것들은 각각의 경기 중에 사용됩니다.
     -   한 맵은 타이브레이커 맵으로서 주어집니다. 이 맵은 동점인 상황에만 플레이하게 됩니다.
 

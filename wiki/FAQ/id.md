@@ -1,10 +1,8 @@
 # FAQ
 
-Pendahuluan
-===========
+# Pendahuluan
 
-Saya tidak pernah bermain "Ouendan" - Apakah itu ?
---------------------------------------------------
+## Saya tidak pernah bermain "Ouendan" - Apakah itu ?
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) adalah permainan irama untuk Nintendo DS. Permainan tersebut hanya terdiri dari tiga elemen: menekan lingkaran di layah sentuh, membawa bola mengikuti alur yang ditentukan dan memutar sebuah pemutar dengan sangat cepat. Semua elemen ini didasari oleh lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini di DS:
 
@@ -12,17 +10,15 @@ Saya tidak pernah bermain "Ouendan" - Apakah itu ?
 
 Kamu dapat melihat lingkaran-lingkaran di layar bawah, dan di layar atas terdapat kisahnya. Setiap tahap memiliki sebuah kisah tentang seseorang dalam kesulitan. Itulah saat dimana Quendan (Tim Penyemangat) hadir. Melalui kekuatan magis sang penyemangat laki-laki, kamu harus menolong orang-orang dalam kesulitan.
 
-Bagaimana cara memainkannya ?
------------------------------
+## Bagaimana cara memainkannya ?
 
 "Penjelasan lebih lanjut: [osu! Standard](ID:Standard "wikilink")''
 
 Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](ID:Play_Styles "wikilink") . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
-Dasar-dasar permainan
----------------------
+## Dasar-dasar permainan
 
-`Tutorial: `[`(Menjadi` `satu` `dengan` `osu!` `PC)` `Tutorial` `asli`](http://osu.ppy.sh/s/3756)`, `[`Beatmap` `versi` `ranked`](http://osu.ppy.sh/s/19928)
+`Tutorial: `[`(Menjadi` `satu` `dengan` `osu!` `PC)` `Tutorial` `asli`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Beatmap` `versi` `ranked`](https://osu.ppy.sh/beatmapsets/19928)
 
 Permainan ini menekankan kepada :-
 
@@ -89,11 +85,9 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 -   Lingkaran di samping akurasimu dan di bawah total nilaimu adalah batang waktu, yang mana menunjukkan lama lagu yang ada.
 -   Angka di pojok kiri bawah adalah total kombo yang tercapai/pengganda nilai yang di dapat.
 
-Alternatif Mode Permainan
-=========================
+# Alternatif Mode Permainan
 
-Apa itu"Taiko"?
----------------
+## Apa itu"Taiko"?
 
 *Penjelasan lebih lengkap: [Taiko](ID:Taiko "wikilink")*
 
@@ -135,14 +129,13 @@ Seperti dasar-dasar pada osu!, terdapat 3 elemen penting pada permainan ini.
 
 Terdapat tombol *default* dalam Taiko yaitu :
 
-`Merah: [Mouse] Klik kiri, [Keyboard] [X] atau [C], [TaTaCon] Bagian datar dalam drum.`
-`Biru: [Mouse] Klik kanan, [Keyboard] [Z] atau [V], [TaTaCon] Bagian luar dalam drum.`
-`Arah kursor tidak berpengaruh selama permainan berlangsung.`
+`Merah: [Mouse] Klik kiri, [Keyboard] [X] atau [C], [TaTaCon] Bagian datar dalam drum.`
+`Biru: [Mouse] Klik kanan, [Keyboard] [Z] atau [V], [TaTaCon] Bagian luar dalam drum.`
+`Arah kursor tidak berpengaruh selama permainan berlangsung.`
 
 Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam menu pengaturan.
 
-Apa itu "Catch the Beat"?
--------------------------
+## Apa itu "Catch the Beat"?
 
 [200px|thumb|right| Permainan Catch The Beat .](image:ctbaqua.jpg "wikilink")
 
@@ -158,8 +151,7 @@ Jika mod [Relax](ID:Relax "wikilink") digunakan, maka kontrol dari penangkap dap
 -   Secara *default*, arah panah kiri \[&lt;-\] dan kanan \[-&gt;\] pada keyboard berguna untuk mengarahkan penangkap.
 -   Dengan menekan tombol \[SHIFT\] kiri dengan salah satu arah panah maka akan membuat penangkap bergerak 1.5x lebih cepat daripada tanpa menggunakannya (diindikasikan dengan menyalanya sebuah cahaya di sekitar penangkap).
 
-Apa itu "osu!mania"?
---------------------
+## Apa itu "osu!mania"?
 
 ![ thumb | 200px | Contoh permainan (7K) dalam osu!mania]( Mania screenshot.jpg  " thumb | 200px | Contoh permainan (7K) dalam osu!mania")
 

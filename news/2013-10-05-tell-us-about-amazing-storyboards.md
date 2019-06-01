@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tell us about amazing storyboards!"
-permalink: http://osunews.tumblr.com/post/63165469542/tell-us-about-amazing-storyboards
 date: 2014-10-05 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63165469542/tell-us-about-amazing-storyboards
 ---
+
 Although there have been many great storyboards recently - and even some absolutely stellar ones - storyboards have gone largely unnoticed by the general osu! playerbase. Here's your chance to change that!
 
 For those of you who don't already know, storyboards are animations that move across the screen during gameplay. A skilled storyboarder can use them to tell a story, create high-quality video-like effects in the background, and even augment the map elements themselves! However, despite the huge amount of effort certain storyboarders put towards their creations, these works of art are barely paid attention to at large. Some of the greatest storyboards of all are on maps with little to no plays, which is quite a shame. **This is where you can help!**

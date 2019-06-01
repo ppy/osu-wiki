@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Commentating Circle-Clicking Competitions"
-permalink: http://osunews.tumblr.com/post/56949459622/commentating-circle-clicking-competitions
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949459622/commentating-circle-clicking-competitions
 ---
+
 As competitions start blooming all over osu! and their popularity skyrockets, streaming matches has begun to be a major part of these tournaments. Nowadays, the biggest competitions even provide live commentary on said streams. As a commentator for both the osu! World Cup 2013 and the Taiko World Cup 2013, I will cover in this article my personal interest in commentating, how I do it and why I like it.
 
 With the sudden outburst of various tournaments and World Cups lately (osu! World Cup, Taiko World Cup, Catch the Beat World Cup, and so on) and their managers' constantly expanding ambitions, streaming matches has quickly become an easy way to entertain the osu! community. On the most important and official tournaments, streams even provide commentary.

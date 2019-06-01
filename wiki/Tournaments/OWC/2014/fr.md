@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-osu! World Cup 2014
-====================
+
+# osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
@@ -15,8 +15,7 @@ Cette compétition est terminée et a abouti au podium suivant :
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Pologne**   |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Allemagne** |
 
-Calendrier
---------------
+## Calendrier
 
 | Event                    | Timestamp                         |
 |--------------------------|-----------------------------------|
@@ -29,8 +28,7 @@ Calendrier
 | Finales - semaine 1      | 6 et 7 décembre 2014              |
 | Finales - semaine 2      | 13 et 14 décembre 2014            |
 
-Lots attribués
---------------
+## Lots attribués
 
 Pour chaque participant :
 
@@ -40,8 +38,7 @@ Pour chaque participant :
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                      |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                      |
 
-Organisateurs
-------------
+## Organisateurs
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                    |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,13 +49,11 @@ Organisateurs
 | Statistiques              | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                |
 
 
-Retransmission des matchs
------------------------------
+## Retransmission des matchs
 
 La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/).
 
-Équipes
-----------
+## Équipes
 
 Les capitaines sont représentés en gras.
 
@@ -118,8 +113,7 @@ Les capitaines sont représentés en gras.
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882)             |
 | ![][flag_CN] China              | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
 
-Résultats
--------------
+## Résultats
 
 Le graphique suivant met en évidence les équipes qui se sont qualifiées pour les huitièmes de finale :
 
@@ -260,8 +254,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 | ![][flag_KR] South Korea     | 5      - **6** | **Japan** ![][flag_JP]     | [#1](https://osu.ppy.sh/community/matches/10955976) |
 | ![][flag_DE] Germany         | 3      - **6** | **Poland** ![][flag_PL]    | [#1](https://osu.ppy.sh/community/matches/10966299) |
 
-Beatmaps
------------
+## Beatmaps
 
 ### Poules
 
@@ -414,8 +407,7 @@ Beatmaps
 - Tiebreaker
   - [onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmaps/457061)
 
-Règlement
------------
+## Règlement
 
 ### Lexique
 
@@ -545,11 +537,10 @@ Règlement
 4.  Les horaires des matchs sont imposés par la direction et seront diffusés le dimanche précédent le début de chaque phase. La direction fera de son mieux pour prévoir des horaires convenables pour chaque équipe en fonction de leur fuseau horaire.
 5.  Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 7 autres joueurs dans son équipe plutôt que 3 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 4 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
 
-Liens divers
--------------
+## Liens divers
 
 -   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
--   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/forum/t/247090)
+-   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

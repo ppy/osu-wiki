@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mara's Gaming Corner - July"
-permalink: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 ---
+
 People have been waiting for Cube World's release for two years now. An endless journey on unknown land with action-based combat makes people wait for a reason. However, nobody expected Cube World to suddenly come out on the start of July as alpha version. Does Cube World live with promises or will the alpha version kill all hope for this game?
 
 Cube World (PC) Developed by Picroma
@@ -21,7 +21,7 @@ Minimum System Requirements
 
 Hello, gamers! Today I will tell you about an amazing game. It's an experience that people have awaited for the last two years. It's an action-packed adventure with voxels and has surprisingly good gameplay for an alpha! Guess what game it is! Minecraft, perhaps? Good guess, but the correct answer is Cube World, which just got released on PC recently. Speaking of Minecraft, people tend to claim that Cube World is just a massive rip-off of Minecraft. The truth is that the only similarity with Minecraft are the voxels. Cube World focuses on completely different elements.
 
-Cube World is developed by a married German couple, Wolfram von Funck and his wife Sarah. They face a huge challenge: making a dream game which involves infinite adventures, with you in control as a hero. Even after multiple people have offered to help with powerful servers, the couple has chosen to work alone on this project, for unexplained reasons. Will they really be able to do it themselves?  I hope this doesn't crash the project!
+Cube World is developed by a married German couple, Wolfram von Funck and his wife Sarah. They face a huge challenge: making a dream game which involves infinite adventures, with you in control as a hero. Even after multiple people have offered to help with powerful servers, the couple has chosen to work alone on this project, for unexplained reasons. Will they really be able to do it themselves? I hope this doesn't crash the project!
 
 The developers had no idea just how quickly this game would get immensely popular. Alpha was released in early July, but the servers got overloaded right away. The shop for buying the game was down for two days and, even as I write this article, the shop is still closed. Fortunately, things are getting more stable as time goes on.
 

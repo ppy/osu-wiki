@@ -2,8 +2,7 @@
 
 Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting van het puntensysteem en het speluitzicht.
 
-Het spel
---------
+## Het spel
 
 ### "Ouendan"? Nog nooit van gehoord - wat is het?
 
@@ -45,8 +44,7 @@ Voor meer informatie kan je [hierheen](NL:Interface "wikilink") gaan.
 
 Dit is het speluitzicht. De balk bovenaan links is je levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect afgetikte hit (zgn. '300 hit' of 'Geki Beat') zal je leven meer doen stijgen dan een slecht afgetikte hit ('100' of zelfs '50' hit). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. Rechts naast de levensbalk kan je je score zien. Het nummer links onder is je comboteller/score vermenigvuldiger.
 
-Punten halen
-------------
+## Punten halen
 
 Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip van de wiskunde formules.
 
@@ -126,8 +124,7 @@ Je verliest leven door:
 -   een hit circle of slider te missen.
 -   een spinner niet af te maken.
 
-Alternatieve spelmodi
----------------------
+## Alternatieve spelmodi
 
 ### Hoe speel ik de Taiko-modus?
 
@@ -171,8 +168,7 @@ Doorgaans gebruik je de pijltjes naar links en recht om de vanger te bewegen. De
 
 Wanneer je gebruikmaakt van de "Relax" mod, beheers je de bewegingen van de vanger met je muis.
 
-Veelvoorkomende problemen
--------------------------
+## Veelvoorkomende problemen
 
 ### Mijn gerankte score stijgt niet! Is dit een bug?
 
@@ -184,16 +180,16 @@ Gerankte score telt enkel de beste score voor elke liedjesset, niet voor elke mo
 
 Hier even een voorbeeld... ik heb de volgende punten op drie maps:
 
-`   `[`BRANDY` `-` `The` `Festival` `of` `Ghosts` `2`](http://osu.ppy.sh/s/3302)
-`       Relaxing: 3,000,000`
-`       `<u>`DaRRi MIx: 5,000,000`</u>
-`   `[`ZZ` `-` `Samurai` `Blue`](http://osu.ppy.sh/s/271)
-`       Easy: 500,000`
-`       `<u>`Normal: 1,000,000`</u>
-`       Hard: geen score`
-`   `[`Matchbox` `20` `-` `How` `Far` `We've` `Come`](http://osu.ppy.sh/s/1264)
-`       `<u>`Normal: 2,000,000`</u>
-`       Hard: 1,500,000`
+`   `[`BRANDY` `-` `The` `Festival` `of` `Ghosts` `2`](https://osu.ppy.sh/beatmapsets/3302)
+`       Relaxing: 3,000,000`
+`       `<u>`DaRRi MIx: 5,000,000`</u>
+`   `[`ZZ` `-` `Samurai` `Blue`](https://osu.ppy.sh/beatmapsets/271)
+`       Easy: 500,000`
+`       `<u>`Normal: 1,000,000`</u>
+`       Hard: geen score`
+`   `[`Matchbox` `20` `-` `How` `Far` `We've` `Come`](https://osu.ppy.sh/beatmapsets/1264)
+`       `<u>`Normal: 2,000,000`</u>
+`       Hard: 1,500,000`
 
 Mijn totale beste score van elke set is 5,000,000 + 1,000,000 + 2,000,000 = 8,000,000, dat dus mijn totale gerankte score is.
 
@@ -205,6 +201,6 @@ NEEN.
 
 ### De maps zijn te moeilijk! Waar vind ik er gemakkelijkere?
 
-Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: <http://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456&start=0>.
+Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: <https://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456&start=0>.
 
 Daarnaast kan je de de geclassifiëerde ('ranked') beatmaps ook per moeilijkheidsgraad sorteren. De gemakkelijkste staan dan bovenaan de lijst.

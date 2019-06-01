@@ -8,7 +8,7 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 
 ## Clasificación por estrellas
 
-![Rangos de clasificación por estrellas](SR_range.png "Rangos de clasificación por estrellas")
+![Rangos de clasificación por estrellas](img/SR-range.png "Rangos de clasificación por estrellas")
 
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 

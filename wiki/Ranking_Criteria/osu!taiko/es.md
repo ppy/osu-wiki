@@ -1,13 +1,13 @@
 # osu!taiko
 
-El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko.
-Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.
+El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko. Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.
 
 Estas reglas y pautas han sido discutidas en el [Hilo de Discusión de osu!taiko (en inglés)](https://osu.ppy.sh/community/forums/87). Nuevas reglas o pautas pueden ser sugeridas en el foro de discusión, las cuales serán actualizadas una vez se llegue a algún acuerdo en la discusión.
 
 ## Términos comunes
 
 ### Nombres de la dificultades
+
 - ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Fácil
 - ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
 - ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Difícil
@@ -21,7 +21,7 @@ El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad 
 - **Don / Nota roja:** Una nota que puede ser marcada con cualquiera de los botones asignados al centro del tambor (por defecto, `X` y `C`).
 - **Kat / Nota azul:** Una nota que puede ser marcada con cualquiera de los botones asignados al borde del tambor (por defecto, `Z` y `V`).
 - **Big don / Gran nota roja / Finisher rojo:** Una nota retumbante que puede ser marcada con ambos botones asignados al centro del tambor al mismo tiempo para obtener más puntaje.
-- **Big Kat / Gran nota azul / Finisher azul:**  Una nota retumbante que puede ser marcada con ambos botones asignados al borde del tambor al mismo tiempo para obtener más puntaje.
+- **Big Kat / Gran nota azul / Finisher azul:** Una nota retumbante que puede ser marcada con ambos botones asignados al borde del tambor al mismo tiempo para obtener más puntaje.
 - **BPM (Tempo):** Abreviatura de "Beats per Minute" (Golpes por Minuto), que indica el pulso de una canción.
 - **Slider/Drumroll (Redoble):** Barra amarilla que contiene puntos que pueden ser marcados con cualquier botón asignado a los controles. Estos puntos están usualmente asignados a 1/4 del BPM de la canción. Si el BPM es menor que 125, los puntos estarán asignados a 1/8 del BPM en su lugar. Si el BPM es mayor que 250, los puntos estaran asignados a 1/2. Finalmente, puedes asignar el "Slider Tick Rate" a 3 para que los puntos se asignen a 1/3 del BPM.
 - **Spinner (Ruleta):** Elemento del juego que se completa alternando repetidas veces entre notas rojas y azules. La cantidad de veces que debes tocar notas está designado por un número que aparecerá junto al spinner y que, dependiendo de la longitud del spinner y la dificultad asignada, será mayor o menor.
@@ -176,5 +176,6 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2 y 1/4.** Además, los ritmos en 1/4 pueden ser utilizados frecuentemente en este nivel de dificultad.
 
 #### Pautas de Ajustes de dificultad
+
 - El Overall Difficulty debe estar ajustado a 5 o un número mayor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.

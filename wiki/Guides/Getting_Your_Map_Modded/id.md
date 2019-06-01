@@ -1,10 +1,8 @@
-Getting Your Map Modded
-=============================================
+# Getting Your Map Modded
 
 Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmaps), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.
 
-\#modreqs
----------
+## \#modreqs
 
 **\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/Beatmap_Nomination_Group) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
 
@@ -18,18 +16,15 @@ Bila kamu mengepost lebih daru dua link beatmap di jangka waktu yang singkat, Ba
 
 Ini bukan cara yang paling efektif, tetapi tidak ada salahnya mencoba.
 
-Modding Queue
--------------
+## Modding Queue
 
-Pada forum [Modding Queues](https://osu.ppy.sh/forum/60) terdapat Modding Queue. Modding Queue adalah tempat di mana kamu mengepost map, dan pembikin thread mungkin mengemod mereka. Setiap thread mempunyai peraturan yang berbeda dan spesifik, jadi ikuti peraturan tersebut agar mapmu bisa dimod.
+Pada forum [Modding Queues](https://osu.ppy.sh/community/forums/60) terdapat Modding Queue. Modding Queue adalah tempat di mana kamu mengepost map, dan pembikin thread mungkin mengemod mereka. Setiap thread mempunyai peraturan yang berbeda dan spesifik, jadi ikuti peraturan tersebut agar mapmu bisa dimod.
 
-Meminta Pemain Lain untuk Mod4Mod
----------------------------------
+## Meminta Pemain Lain untuk Mod4Mod
 
 mod4mod, atau biasa disingkat M4M, adalah di mana kamu mengemod map orang lain, dan sebagai gantinya mereka mengemod mapmu. Ini adalah cara yang sangat efektif untuk mendapat mod. Ini akan sangat berguna bila kamu menggabungkannya dengan \#modreqs; jika seseorang mengepost permintaan mod di sana, langsung tanya saja apakah mereka mau melakukan mod4mod. Seringnya, mereka akan mengatakan "ya". Ini memerlukan upaya, tetapi juga tidak ada salahnya menecoba, karena kamu juga mendapat mod dari orang lain dan kamu bisa mendapat pengalaman dengan mengemod map orang lain. someone else's map.
 
-Langsung Tanya ke Pemain Lain
------------------------------
+## Langsung Tanya ke Pemain Lain
 
 Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Glossary) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/Beatmap_Nomination_Group) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
 

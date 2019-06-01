@@ -1,10 +1,8 @@
 # FAQ
 
-Bevezető
-========
+# Bevezető
 
-Sosem játszottam ezzel az "Ouendan" dologgal - Mi is ez?
---------------------------------------------------------
+## Sosem játszottam ezzel az "Ouendan" dologgal - Mi is ez?
 
 Az [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) egy Nintendo DS-re kiadott ritmusjáték. A játékmenet mindössze három elemből áll: körökre tapintás az érintőképernyőn, egy labda húzása egy rögzített útvonalon és egy pörgettyű nagyon gyors forgatása. Ezek az elemek mind népszerű japán zenékre (vagy azok feldolgozásaira) vannak időzítve. Így néz ki a DS-en:
 
@@ -12,8 +10,7 @@ Az [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) e
 
 A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minden pálya egy önálló történet valakiről, aki bajban van. Itt jön a képbe az Ouendan (Felvidító osztag). A férfi szurkolás varázslatos erejét felhasználva segítened kell a bajba jutott embereken.
 
-Hogyan kell játszani?
----------------------
+## Hogyan kell játszani?
 
 *Teljes magyarázat: [osu! Standard](HU:Standard "wikilink")*
 
@@ -21,7 +18,7 @@ A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így 
 
 ### A játékmenet alapjai
 
-`Útmutató: `[`(Az` `osu!` `PC` `változatához` `csomagolva)` `Eredeti` `útmutató`](http://osu.ppy.sh/s/3756)`, `[`Rankelt` `beatmap` `változat`](http://osu.ppy.sh/s/19928)
+`Útmutató: `[`(Az` `osu!` `PC` `változatához` `csomagolva)` `Eredeti` `útmutató`](https://osu.ppy.sh/beatmapsets/3756)`, `[`Rankelt` `beatmap` `változat`](https://osu.ppy.sh/beatmapsets/19928)
 
 A játékmenet a következőkre helyezi a hangsúlyt:
 
@@ -93,11 +90,9 @@ Ez az osu! felülete.
 -   A kör a pontosság mellett és a pontszám alatt egy időmérő, ami a szám hosszát mutatja. Az [Options](HU:Options#Detail_Settings "wikilink") képernyőn módosíthatod, a "Folyamatjelző sáv helye" beállítással.
 -   A bal alsó sarokban lévő szám a kombó/pontszorzó-számláló.
 
-Alternatív játékmódok
-=====================
+# Alternatív játékmódok
 
-Mi az a "Taiko"?
-----------------
+## Mi az a "Taiko"?
 
 *Teljes magyarázat: [Taiko](HU:Taiko "wikilink")*
 
@@ -139,14 +134,13 @@ Mi az a "Taiko"?
 
 A Taiko mód alapértelmezett gombjai a következők:
 
-`Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.`
-`Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.`
-`Az osu! egérmutató pozíciója nem számít.`
+`Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.`
+`Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.`
+`Az osu! egérmutató pozíciója nem számít.`
 
 A Beállítások menü Input részén testre szabhatod a használatos billentyűket.
 
-Mi az a "Catch the Beat"?
--------------------------
+## Mi az a "Catch the Beat"?
 
 [200px|thumb|right|Catch The Beat játékmenet.](image:ctbaqua.jpg "wikilink")
 
@@ -162,8 +156,7 @@ Ha a [Relax](Relax "wikilink") mod aktiválva van, a fogót az egérrel mozgatha
 -   Alapértelmezetten a bal \[&lt;-\] és jobb \[-&gt;\] nyílgombok mozgatják.
 -   A bal \[SHIFT\] gomb valamelyik nyílgombbal történő együttes lenyomásának hatására a fogó abba az irányba fog sprintelni, 1.5x-es sebességgel (ezt a fogó körüli fényes ragyogás is jelzi).
 
-Mi az az "osu!mania"?
----------------------
+## Mi az az "osu!mania"?
 
 ![ thumb | 200px | Példa a játékmenetre (7K)]( Mania screenshot.jpg  " thumb | 200px | Példa a játékmenetre (7K)")
 
@@ -261,13 +254,11 @@ Mi az az "osu!mania"?
 </tbody>
 </table>
 
-Pontozás
-========
+# Pontozás
 
 *A pontozásról részletes magyarázat az adott játékstílus oldalán található.*
 
-Osztályzatok
-------------
+## Osztályzatok
 
 **<u>Normál értékelések</u>**
 
@@ -290,53 +281,45 @@ Osztályzatok
 -   **A profilodon megjelenő értékelések függnek a beatmap nehézségi szintjétől is.**
     -   Ha a beatmapnek 3 nehézségi szintje van, és te mindhármon SS-t szerzel, akkor 3 SS-t fogsz kapni a profilodon, nem csak egyet.
 
-Gyakori problémák és kérdések
-=============================
+# Gyakori problémák és kérdések
 
-Hol találhatom meg és szerezhetem be a beatmapeket?
----------------------------------------------------
+## Hol találhatom meg és szerezhetem be a beatmapeket?
 
 *Részletesen a beatmapekről angol nyelven: [Beatmaps](HU:Beatmaps "wikilink")*
 
-A főoldalról, a "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)" menüpont alatt találod őket.
+A főoldalról, a "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)" menüpont alatt találod őket.
 
 -   A letöltésükhöz viszont be kell jelentkezned, ellenkező esetben a szerver visszautasítja a kérésedet!
 
-A Kiai Time-ot ki lehet kapcsolni?
-----------------------------------
+## A Kiai Time-ot ki lehet kapcsolni?
 
 Nem, ugyanis - a videóval ellentétben - ez a játékba van integrálva (az eltalálható objektumok részeként), így nem lehet kikapcsolni.
 
-A mapek túl nehezek! Hol találhatok könnyebbeket?
--------------------------------------------------
+## A mapek túl nehezek! Hol találhatok könnyebbeket?
 
-Pokebis összeállított egy listát kezdőknek is megfelelő beatmapekből. Itt találod őket: <http://osu.ppy.sh/forum/t/5456>
+Pokebis összeállított egy listát kezdőknek is megfelelő beatmapekből. Itt találod őket: <https://osu.ppy.sh/community/forums/topics/5456>
 
-[Az osu! tutorial rankolt beatmap változata](http://osu.ppy.sh/s/19928) is remek, ha gyakorolni szeretnél néhányat a lehetséges minták közül, amikkel találkozhatsz. Ez egy nagyon jó gyakorló map kezdőknek és haladóknak egyaránt.
+[Az osu! tutorial rankolt beatmap változata](https://osu.ppy.sh/beatmapsets/19928) is remek, ha gyakorolni szeretnél néhányat a lehetséges minták közül, amikkel találkozhatsz. Ez egy nagyon jó gyakorló map kezdőknek és haladóknak egyaránt.
 
-[A rankolt beatmapek listáját nehézség szerint is rendezheted.](http://osu.ppy.sh/?p=beatmaplist&s=3) A legkönnyebb mapek a lista tetején vannak.
+[A rankolt beatmapek listáját nehézség szerint is rendezheted.](https://osu.ppy.sh/?p=beatmaplist&s=3) A legkönnyebb mapek a lista tetején vannak.
 
-Mit csinál a profilomon látható szint?
---------------------------------------
+## Mit csinál a profilomon látható szint?
 
 Igazából semmit. Egy 100-as szintű és egy 1-es szintű játékos között mindössze a képességeik és a játéktapasztalatuk tesznek különbséget. Semmilyen hátrányok nem érik az alacsonyabb szintűeket, ahogy a magasabb szintűek sincsenek előnyben (kivéve a tapasztalatot és talán a használt eszközöket).
 
 A szint a teljes összegyűjtött online pontszámodon alapul, attól függetlenül, hogy teljesíted vagy elbukod a beatmapet. [Képletet lásd itt](HU:osu!#Pontoz.C3.A1s "wikilink")
 
-Miért különböznek a profilomon megtalálható adatok a játékbeliektől?
---------------------------------------------------------------------
+## Miért különböznek a profilomon megtalálható adatok a játékbeliektől?
 
 Valószínűleg nem a megfelelő játékmódot nézed. Kattints a megfelelő módra a profilodon. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
 
-Miért jelennek meg random fehér vonalak a képernyőn, amikor játszom?
---------------------------------------------------------------------
+## Miért jelennek meg random fehér vonalak a képernyőn, amikor játszom?
 
 Bizonyosodj meg róla, hogy a füst/égre írás gomb nem ugyanaz-e, mint az egyik játékra használt gomb. ![](Screenshot085.jpg "fig:Screenshot085.jpg")
 
-Készítők
-========
+# Készítők
 
--   peppy GYIK-je [1](http://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
--   Pokebis kezdőknek szánt listája [2](http://osu.ppy.sh/forum/t/5456)
+-   peppy GYIK-je [1](https://osu.ppy.sh/p/faq)
+-   Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
+-   Pokebis kezdőknek szánt listája [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

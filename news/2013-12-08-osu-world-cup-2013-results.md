@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! World Cup 2013 - Results"
-permalink: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 date: 2014-12-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 ---
+
 The osu! World Cup 2013 just ended, and we are proud to announce the winners of the biggest osu! tournament yet.
 
 ![image](/wiki/shared/news/2013-12-08-osu-world-cup-2013-results/podium+(2).jpg)
@@ -23,7 +23,7 @@ Congratulations to the winners, and thanks to all participants for making this t
   
 If you want to learn more about the osu! World Cup 2013, take a look at the [wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013).
 
-Keep your eyes peeled for more tournaments to come, starting in January 2014 with registrations for the Taiko World Cup 2014 opening, and other game modes to follow! For more details, check out [this thread](https://osu.ppy.sh/forum/t/148024).  
+Keep your eyes peeled for more tournaments to come, starting in January 2014 with registrations for the Taiko World Cup 2014 opening, and other game modes to follow! For more details, check out [this thread](https://osu.ppy.sh/community/forums/topics/148024).  
   
 Stay tuned, and see you soon for the next world cups!
 

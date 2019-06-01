@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Galerie des Mascottes
-======================
+
+# Galerie des Mascottes
 
 ***[Cliquez ici pour revenir à la page des Mascottes](/wiki/Mascots)***
 
-Originals d'osu!
------------------
+## Originals d'osu!
 
 ### Pippi originale (Tenue d'idole)
 
@@ -41,11 +40,8 @@ Originals d'osu!
 ![Pippidon (Mode Taiko).](img/Pippidon.png "Pippidon (Mode Taiko).")
 ![Pippi & Yuzu enregistrant une conversation.](img/Osu!Talk.png "Pippi & Yuzu enregistrant une conversation.")
 
-Cameos
---------
+## Cameos
 
 ![Ryuuta dans osu!catch.](../Fruit_ryuuta.png "Ryuuta dans osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")
 ![Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).](/wiki/shared/Ctb_logo.jpg "Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).")
-
-

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #6"
-permalink: http://osunews.tumblr.com/post/92453842843/monthly-beatmapping-contest-6
 date: 2014-08-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/92453842843/monthly-beatmapping-contest-6
 ---
+
 Announcing a brand new Monthly Beatmapping Contest - with a twist! All restrictions are gone, bar an essential few. Do anything you like, however you like, with one exception - it must be playable at the end of it all! We call it: Aspire!
 
 The only restrictions for this contest are:
 
--   All notes must be properly snapped in time, and no multiple hitobjects may be placed on the same tick as each other.
+-   All notes must be properly snapped in time, and no multiple hit objects may be placed on the same tick as each other.
 -   Notes placed must be within the playfield.
 -   You may submit ONE (1) and ONLY one beatmap difficulty to this contest. *Its difficulty name must be "Aspire."*
 -   The beatmap may be as difficult as you like and incorporate as many complex elements as you feel appropriate, but it MUST be designed for a single player - no TAG difficulties of any kind, construed or otherwise.

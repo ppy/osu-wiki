@@ -18,6 +18,6 @@
 
 Jangan lupa untuk membaca [peraturan](/wiki/Rules) yang berlaku dengan sangat hati-hati!
 
-Setelah tahap di atas selesai, Anda siap memulai petualangan ritme Anda! Anda dapat [menambahkan beatmap](/wiki/installation#adding-beatmapsets) untuk mulai bermain, [membuat skin](/wiki/skinning), atau bahkan [membuat beatmap](/wiki/beatmapping). Anda juga bisa mampir dan berkata, "Hai", di [subforum Introductions](/community/forums/8).
+Setelah tahap di atas selesai, Anda siap memulai petualangan ritme Anda! Anda dapat [menambahkan beatmap](/wiki/installation#adding-beatmapsets) untuk mulai bermain, [membuat skin](/wiki/skinning), atau bahkan [membuat beatmap](/wiki/beatmapping). Anda juga bisa mampir dan berkata, "Hai", di [subforum Introductions](https://osu.ppy.sh/community/forums/8).
 
-Jika Anda membutuhkan bantuan lebih lanjut dalam game, Anda dapat bertanya melewati [IRC](/wiki/IRC) di channel `#help` (Internet Relay Chat) dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Anda juga dapat mengirim pertanyaan Anda di subforum [Help](/community/forums/5).
+Jika Anda membutuhkan bantuan lebih lanjut dalam game, Anda dapat bertanya melewati [IRC](/wiki/IRC) di channel `#help` (Internet Relay Chat) dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Anda juga dapat mengirim pertanyaan Anda di subforum [Help](https://osu.ppy.sh/community/forums/5).

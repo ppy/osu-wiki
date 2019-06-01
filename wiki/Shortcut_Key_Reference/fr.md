@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Raccourcis clavier
-==================
+
+# Raccourcis clavier
 
 Dans osu!, il existe divers raccourcis qui peuvent être utilisés dans le jeu et les menus. Ils sont listés ici avec leurs fonctions ci-dessous.
 
-Raccourcis généraux
--------------------
+## Raccourcis généraux
 
 -   **MAJ+F1**: Ouvre osu!status (en cas d'erreur de connexion)
 -   **F7**: Change la limite du FPS
@@ -18,8 +17,7 @@ Raccourcis généraux
 -   **Inser**: Réduit osu! dans la zone de notification.
 -   **Flèche Haut/Bas**: Augmente/Réduit le volume. (Maintenez MAJ pour régler les bruitages)
 
-Menus seulement
----------------
+## Menus seulement
 
 -   **F1**: Musique précédente
 -   **F2**: Jouer depuis le début
@@ -31,8 +29,7 @@ Menus seulement
 -   **Échap**: Retour en arrière
 -   **Ctrl-Alt-MAJ-S**: Recharger les images du skin
 
-Menu principal
---------------
+## Menu principal
 
 -   **P**: Mode Play (deux fois pour l'écran de sélection des beatmaps)
 -   **P-M**: Mode Play ([Multijoueur](/wiki/Multi))
@@ -44,8 +41,7 @@ Menu principal
 -   **Q**: Quitter
 -   **R**: Musique aléatoire
 
-Sélection de la beatmap
------------------------
+## Sélection de la beatmap
 
 -   **F1**: [Modes de difficulté](/wiki/Game_Modifiers)
 -   **F2**: Map aléatoire
@@ -66,8 +62,7 @@ Sélection de la beatmap
 -   **Shift+(Left/Right)**: Changer de groupe
 -   **Shift+Enter**: Ouvrir ou fermer le groupe
 
-Modes de difficulté
--------------------
+## Modes de difficulté
 
 Note: Les mods spéciaux comme [Perfect](/wiki/Game_Modifiers) ou [Nightcore](/wiki/Game_Modifiers) nécessitent d'appuyer sur la touche correspondante une nouvelle fois.
 
@@ -92,8 +87,7 @@ Note: Les mods spéciaux comme [Perfect](/wiki/Game_Modifiers) ou [Nightcore](/w
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
-Mode Play
----------
+## Mode Play
 
 -   **+/-**: Ajuster le décalage audio (maintenez MAJ/CTRL pour changer la précision)
 -   **Échap**: Pause (Quitte la chanson si Auto est utilisé)
@@ -103,8 +97,7 @@ Mode Play
 -   **F3/F4**: Ajuste la vitesse d'osu!mania.
 -   **Ctrl-R**: Redémarrage rapide de la map (passe automatiquement l'intro)
 
-Mode Edit
----------
+## Mode Edit
 
 ### Raccourcis clavier
 

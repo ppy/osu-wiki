@@ -28,7 +28,7 @@ The key overlay shows left/right click as `M1` and `M2`.
 
 Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
 
-It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](http://osu.ppy.sh/u/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](http://osu.ppy.sh/s/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
+It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
 It is also common for Dual Mouse players to tape the tapping mouse to the desk.
 
 ### Mouse + Keyboard
@@ -82,7 +82,7 @@ The play style can be similar to Tablet + Keyboard as some monitors allows for a
 
 - **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
 - **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
-- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/u/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 
@@ -157,8 +157,17 @@ The play-style tuned for seasoned veterans at conveyor-type rhythm games.
 
 Since 8 Keys requires mapper's decision or Game Modifiers, most players owning these arcade controllers can handle up to 7Keys (max default) and 1 special.
 
+### Dance Pad
+
+Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi-well known community-driven clone of both of these games).
+
+Players dance on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. 9 panel pads also exist, for compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
+
+A major drawback with using a dance pad is that it can be hard to hit multiple keys at once. To hit 4 notes on a DDR pad, you would either have to use your hands along with your feet to hit them, or position your feet on 2 panels at once.
+
+Another drawback is that osu!mania maps may have been designed without dance game chart flow in mind, limiting the amount of charts you can (comfortably) dance to. Dance games are often charted with dancing chart flow. One big rule of the many rules of charting for a dance game like DDR is mostly being able to switch feet for every note (with some exceptions). Since some osu!mania maps don't really follow those rules, this can make it really awkward to play a lot of maps on a dance pad.
+
 ### Other styles
 
-- **Dancepad**(4/8K): The default controller for [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) series ([Stepmania](https://wikipedia.org/wiki/StepMania) for community-driven). Players dance on the dancepad to input commands. Depending on dancepad and player's preference, it is possible to use the face buttons as input commands rather than the usual left/down/up/right arrow buttons. The biggest drawback is the maximum input at a time is four (hands and feet), which is very disadvantaging considering current beatmaps can go up to much more than that.
 - **Guitar/Drum set**(5/6K): The default controller for guitar-themed([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players streams on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
 - **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitive input receiver and player's physical limitation.

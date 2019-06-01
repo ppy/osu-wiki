@@ -1,5 +1,4 @@
-Compose
-==========
+# Compose
 
 ![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 
@@ -9,8 +8,7 @@ Compose
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 
-Features (osu!)
------------------
+## Features (osu!)
 
 For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
@@ -21,7 +19,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
-**Shows the timeline for hitobjects with respect to Beat Snap Divisor and timestamp.**
+**Shows the timeline for hit objects with respect to Beat Snap Divisor and timestamp.**
 
 #### Hit Object Timeline
 
@@ -29,7 +27,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 | ---- | ----------- |
 | `+`/`-` buttons | Increase/Decrease timeline zoom |
 | Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
-| Click on hitobject | **Left-Click:** Select / Move hitobject against timeline. **Right-Click:** Remove hitobject. |
+| Click on hit object | **Left-Click:** Select / Move hit object against timeline. **Right-Click:** Remove hit object. |
 
 ### Top-Right (Beat Snap Divisor)
 
@@ -175,10 +173,9 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-Features (osu!mania)
------------------------
+## Features (osu!mania)
 
-(The top-left hitobjects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/forum/t/118868) [Mapping & Keysound](https://osu.ppy.sh/forum/t/139139)
+(The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Top-Right (Beat Snap Divisor)
 

@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
 =Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
@@ -29,8 +30,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 3.  **Change Avatar (Ubah Gambar Profil)**: Membuka halaman edit avatar di browsermu.
 4.  **Close (Tutup)** : Menutup jendela ini.
 
-Menu Bermain
-============
+# Menu Bermain
 
 <img src="Introscreen2.jpg" title="Menu bermain" alt="Menu bermain" width="280" />
 
@@ -44,8 +44,7 @@ Menu Bermain
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-Layar Pemilihan Lagu
---------------------
+## Layar Pemilihan Lagu
 
 <img src="soloplay1.jpeg" title="Pemilihan lagu" alt="Pemilihan lagu" width="300" />
 
@@ -192,11 +191,9 @@ Klik pada **user panelmu** untuk mengakses **Menu Opsi Pengguna**.
 
 Klik pada **logo osu!** untuk **mulai bermain beatmap yang dipilih**.
 
-Layar Peringkat
-===============
+# Layar Peringkat
 
-Layar Tingkat
--------------
+## Layar Tingkat
 
 Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda dapat mengakses hasil daring Anda dengan menggulir ke bawah atau menekan tombol yang jelas.
 
@@ -204,8 +201,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg| Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg| Pertandingan bermain bersama : Team Vs
 
-Papan peringkat skor daring
----------------------------
+## Papan peringkat skor daring
 
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 
@@ -227,7 +223,7 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
     5.  Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
     6.  To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
 
-5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](http://osu.ppy.sh/p/chart) Bulanan
+5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/p/chart) Bulanan
 6.  Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](ID:Achievements "wikilink")
 7.  Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
 8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.

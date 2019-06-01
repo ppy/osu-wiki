@@ -1,17 +1,16 @@
 ---
 outdated: true
 ---
-.osu (формат файла)
-================
+
+# .osu (формат файла)
 
 **.osu** — читабельный файловый формат, содержащий информацию о карте.
 
-Формат
---------
+## Формат
 
 Первая строка файла содержит версию карты, например:
 
-`osu file format v12`
+`osu file format v12`
 
 Последующие строки разделены в несколько секций, обозначаемых квадратными скобками:
 
@@ -28,74 +27,73 @@ outdated: true
 
 `[General]`
 
-Секции
--------
+## Секции
 
 ### General
 
 **AudioFilename** (String): относительный путь к аудио-файлу.
 
-`AudioFilename: 03 artcore JINJA.mp3`
+`AudioFilename: 03 artcore JINJA.mp3`
 
 **AudioLeadIn** (Integer, мс): количество времени, после которого начнётся проигрывание аудио.
 
-`AudioLeadIn: 2000`
+`AudioLeadIn: 2000`
 
 **PreviewTime** (Integer, мс): момент, с которого аудио должно проигрываться в меню выбора песни.
 
-`PreviewTime: 10013`
+`PreviewTime: 10013`
 
 **Countdown** (Boolean): указывает наличие обратного отсчёта в начале песни.
 
-`Countdown: 0`
+`Countdown: 0`
 
 **SampleSet** (String): указывает, какие хитсаунды будут использованы в песне.
 
-`SampleSet: Soft`
+`SampleSet: Soft`
 
 **StackLeniency** (Float): указывает, с какой частотой расположенные в одной точке объекты будут стековаться.
 
-`StackLeniency: 0.7`
+`StackLeniency: 0.7`
 
 **Mode** (Integer): режим игры (0 - osu!, 1 - Тайко, 2 - Catch the Beat, 3 - osu!mania).
 
-`Mode: 0`
+`Mode: 0`
 
 **LetterboxInBreaks** (Boolean): указывает, будет ли применяться леттербоксинг во время перерывов.
 
-`LetterboxInBreaks: 0`
+`LetterboxInBreaks: 0`
 
 **WidescreenStoryboard** (Boolean): указывает, будет ли сториборд подстраиваться под широкоэкранный формат.
 
-`WidescreenStoryboard: 0`
+`WidescreenStoryboard: 0`
 
 ### Editor
 
 **Bookmarks** (список целых чисел, мс): разделённый запятыми список закладок.
 
-`Bookmarks: 94171`
+`Bookmarks: 94171`
 
 **DistanceSpacing** (Float): множитель функции "Distance Snap".
 
-`DistanceSpacing: 1.22`
+`DistanceSpacing: 1.22`
 
 **BeatDivisor** (Integer): шаг временной шкалы.
 
-`BeatDivisor: 4`
+`BeatDivisor: 4`
 
 **GridSize** (Integer): размер сетки для функции "Grid Snap".
 
-`GridSize: 4`
+`GridSize: 4`
 
 **TimelineZoom** (Integer): масштаб временной шкалы.
 
-`TimelineZoom: 1`
+`TimelineZoom: 1`
 
 ### Metadata
 
 **Title** (String): название песни (только ASCII).
 
-`Title:artcore JINJA`
+`Title:artcore JINJA`
 
 **TitleUnicode** (String): название песни (с поддержкой Юникода). Если отсутствует, используется Title.
 
@@ -123,7 +121,7 @@ outdated: true
 
 **Tags** (String List): теги, описывающие песню и помогающие при поиске.
 
-`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
+`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
 
 **BeatmapID** (Integer): ID карты.
 
@@ -167,7 +165,7 @@ outdated: true
 
 Точки тайминга имеют несколько параметров, касающихся оффсета, BPM и хитсаундов. Offset (Integer, мс) определяет, когда тайминг вступает в силу. Milliseconds per Beat (Double) задаёт длительность одного бита в мс. Meter (Integer) указывает число долей в такте. Sample Type (Integer) задаёт тип сэмплов хитсаундов. Sample Set (Integer) задаёт сет хитсаундов. Volume (Integer, 0-100) указывает громкость звука. Kiai Mode (Boolean) определяет, активен ли киай тайм. Inherited (Boolean) указывает, является ли точка тайминга дочерней.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
 Дочерние точки задаются с отрицательным значением Milliseconds per Beat и наследуют это значение от предыдущей точки, не являющейся дочерней. Их можно использовать, чтобы изменить громкость или хитсаунды, не меняя BPM. Пример точки тайминга:
 
@@ -181,7 +179,7 @@ outdated: true
 
 **Combo1**—**Combo8** (список целых чисел): список из трёх чисел, задающих цвет комбо в формате RGB.
 
-`Combo1: 245, 245, 245`
+`Combo1: 245, 245, 245`
 
 ### Hit Objects
 
@@ -189,7 +187,7 @@ outdated: true
 
 ```
 x,y,time,type,hitSound,addition
-(x-координата, y-координата, время, тип объекта, хитсаунд, addition)
+(x-координата, y-координата, время, тип объекта, хитсаунд, addition)
 ```
 
 Например:
@@ -200,7 +198,7 @@ x,y,time,type,hitSound,addition
 
 ```
 x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
-(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
+(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
 ```
 
 Например:
@@ -211,7 +209,7 @@ x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitso
 
 ```
 x,y,time,type,hitSound,endTime,addition
-(x, y, время появления, тип объекта, хитсаунд, время конца, addition)
+(x, y, время появления, тип объекта, хитсаунд, время конца, addition)
 ```
 
 Например:

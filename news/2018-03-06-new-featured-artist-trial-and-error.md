@@ -8,7 +8,7 @@ The search for new musical talent never ends, and we're proud to announce the ne
 
 [![](https://assets.ppy.sh/artists/20/header.jpg)](https://osu.ppy.sh/beatmaps/artists/20)
 
-The mind behind countless Japanese and anime-themed tracks, **Trial & Error**'s work has been featured in popular projects like the cult classic visual novels *Stay! Stay! Democratic People's Republic of Korea* and *Panzermadels: Tank Dating Simulator*. 
+The mind behind countless Japanese and anime-themed tracks, **Trial & Error**'s work has been featured in popular projects like the cult classic visual novels *Stay! Stay! Democratic People's Republic of Korea* and *Panzermadels: Tank Dating Simulator*.
 
 A multi-discipline master of music production, **Trial & Error**'s work crosses a variety of sounds and genres, ranging from the quintessential anime hits that have become massively prominent in osu!, to soulful ballads and grungy rock hits, supported with a variety of vocalists both real and virtual.
 
@@ -45,7 +45,7 @@ But don't take our word for it, have a listen to a small sample of what's availa
 </audio>
 
 > Beset with a backing choir, the voice of the Vocaloid GUMI reigns supreme in this fast-paced, rock-themed track.
-> 
+>
 
 ### Houkai no Hate No Ishi feat. GUMI
 
@@ -57,13 +57,13 @@ But don't take our word for it, have a listen to a small sample of what's availa
 
 ------
 
-But that's not all, there are a few more tracks on [**Trial & Error**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/20) for you to check out if you're interested. 
+But that's not all, there are a few more tracks on [**Trial & Error**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/20) for you to check out if you're interested.
 
 Additionally, every track comes with a "short version" cut to approximately 1:30 in length - perfectly poised for mappers to get stuck in and experiment with his sound.
 
 If you're fond of **Trial & Error**'s work, make sure to check out his [official website](https://tandess.itch.io/) for more tracks that you might like, [his twitter](http://twitter.com/tandess) for all the details on new releases, and maybe even consider subscribing to his [Patreon](https://www.patreon.com/tandess) as well.
 
-We're also proud to announce that a number of existing Featured Artist listings will receive some brand new track updates in the coming weeks, bringing some new variety to the artists that you know and love. 
+We're also proud to announce that a number of existing Featured Artist listings will receive some brand new track updates in the coming weeks, bringing some new variety to the artists that you know and love.
 
 Additionally, we've also got **two** new artists directly in the pipeline, and both are *very* close to home in more ways than one!
 

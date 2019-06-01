@@ -29,13 +29,13 @@ It can be used to derivate in the naming scheme of the numbers.
 _Default skin_
 
 ![](fs/default-numbers_1.png)
-_[Acchi Kocchi](https://osu.ppy.sh/forum/t/92440)_
+_[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
 
 ![](fs/default-numbers_2.png)
-_[Soda v1.5 Numbers](https://osu.ppy.sh/forum/t/220809)_
+_[Soda v1.5 Numbers](https://osu.ppy.sh/community/forums/topics/220809)_
 
 ![](fs/default-numbers_3.png)
-_[Vocaloid](https://osu.ppy.sh/forum/t/51632)_
+_[Vocaloid](https://osu.ppy.sh/community/forums/topics/51632)_
 
 ## Hitcircle and Hitcircleoverlay
 
@@ -59,13 +59,13 @@ However, just remember to make the overlay slightly larger than the hitcircle an
 _Default skin_
 
 ![](fs/hitcircle_1.jpg)
-_[TECHNOGALAXY](https://osu.ppy.sh/forum/t/356379)_
+_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
 
 ![](fs/hitcircle_2.jpg)
-_[Holiday](https://osu.ppy.sh/forum/p/7111)_
+_[Holiday](https://osu.ppy.sh/community/forums/posts/7111)_
 
 ![](fs/hitcircle_3.jpg)
-_[Acchi Kocchi](https://osu.ppy.sh/forum/t/92440)_
+_[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
 
 #### Hitcircleselect
 

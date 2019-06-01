@@ -2,7 +2,7 @@
 
 *Página principal: [Historia de osu!](/wiki/HOO).*
 
-Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](/users/5530) por ayudar a reunir el contenido de 2007/2008.
+Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
 ![](img/2007.jpg)
 
 ## Julio
@@ -94,6 +94,6 @@ El [Sistema de envío de Beatmaps](/wiki/Beatmap_Submission_System) (BSS) se hiz
 
 ## Diciembre
 
-Las canciones podían ser editadas al ser arrastradas a la venta de osu!. Información sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchas skins de calidad fueron subidas por los primeros creadores de skins ([Holiday by LuigiHann](http://osu.ppy.sh/forum/t/1139/start=0), [WindWaker by awp](http://osu.ppy.sh/forum/t/761/start=0)). Nuevos métodos para ordenar fueron agregados en la pantalla de selección de canciones. Peppy podía ahora enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
+Las canciones podían ser editadas al ser arrastradas a la venta de osu!. Información sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchas skins de calidad fueron subidas por los primeros creadores de skins ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139/start=0), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761/start=0)). Nuevos métodos para ordenar fueron agregados en la pantalla de selección de canciones. Peppy podía ahora enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
 
 ![](img/2007-12_01.jpg)

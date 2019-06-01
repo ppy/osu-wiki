@@ -4,7 +4,7 @@
 ![聊天面板](Chatconsole1.png "聊天面板")
 
 -   所有当前加入的频道均会在这一排选项卡中显示。仅需在某个选项卡上点一下，就能切换到你想聊天的那个频道。点击 `New` 将显示一个列表，包含所有可加入的频道。
--   不同颜色的用户名代表不同的含义，详情见表：
+-   不同颜色的用户名代表不同的含义，详情见表：
 
 | 颜色 | 用户类型      |
 |--------|----------------------------------------------------------------------------------------------|
@@ -12,12 +12,12 @@
 | **淡黄色** | 非 supporter 玩家                                                                                                                             |
 | **黄色**   | [osu!supporter](/wiki/osu!supporter/ "osu!supporter") 玩家                                                                                    |
 | **红色**   | [社区管理团队](/wiki/People/Global_Moderation_Team/ "社区管理团队") 或 [质量保障团队](/wiki/People/Quality_Assurance_Team/ "质量保障团队") 的成员  |
-| **绿色**   | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
+| **绿色**   | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
 | **蓝色**   | 私信你的玩家                                                                                                                                   |
-| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/u/2 "peppy")                                                                                        |
+| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2 "peppy")                                                                                        |
 | **粉色**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot") 机器人                                                                                               |
 
--   点击 `Show Ticker` 按钮将在聊天面板不可见的情况下，在屏幕最底部一行显示当前频道里最新的消息 ；
+-   点击 `Show Ticker` 按钮将在聊天面板不可见的情况下，在屏幕最底部一行显示当前频道里最新的消息 ；
 -   点击 `Auto-Hide` 按钮将在游戏时自动隐藏聊天面板 （除谱面的前奏、休息时段和结尾外）；
 -   点击 `Hide Chat` 按钮或者按下 `F8` 可以隐藏聊天面板。
 
@@ -70,26 +70,26 @@
 
 ### 帮助
 
-| 命令       | 作用                                                                                         | 示例           | BanchoBot 的回复                                                               | 
+| 命令       | 作用                                                                                         | 示例           | BanchoBot 的回复                                                               |
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
 | `/addfriend [玩家]`   | 将 `[玩家]` 添加到你的好友列表。      | `/addfriend Amigo` | You are now friends with Amigo. *你和 Amigo 现在是好友了。*  |
 | `/delfriend [玩家]`   | 将 `[玩家]` 从好友列表中移除。 | `/delfriend Amigo` | You are no longer friends with Amigo. *你和 Amigo 已不再是好友。* |
 | `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。将消息留空以取消离开状态。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`.|
 | `/bb` | 给 Bancho 发送消息。如： rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [玩家]` | 打开与该玩家的聊天窗口。 | `/chat Amigo` | （与 Amigo 聊天的窗口打开） | 
-| `/clear` | 清除当前聊天窗口的全部内容。 | `/clear` | （ 当前窗口下的所有内容均被清除 ） | 
-| `/ignore [玩家][@chp]` | 在本次登录中忽略特定玩家的所有消息。在后面加上 @ 和 ` c, h, p ` 中的任意字母，你可以分别从聊天、提及你的消息和私信中屏蔽该玩家。| `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} （你的聊天界面被设为：`c` 屏蔽 Amigo 发送的任何消息；`h` 屏蔽 Amigo 发送的任何提及你名字的消息；`p` 屏蔽 Amigo 给你发送的任何私信) | 
-| `/j [频道]` or `/join [channel]` | 加入指定的频道。 | `/join #lobby` | （ #lobby 频道的窗口出现 ） | 
-| `/p` or `/part` | 离开当前加入的频道。 | `/part` | （ 当前频道的窗口关闭 ） | 
-| `/unignore [玩家]` | 取消屏蔽在此次登录时所屏蔽的玩家。 | `/unignore Amigo` | You may now hear Amigo. （ 你的聊天窗口将重新显示 Amigo 所发的消息 ） | 
-| `/me [动作]` | 以第三人称发送消息。 | `/me is at home` | * John is at home | 
-| `/msg [玩家] [消息文字]` | 给 `[玩家]` 发送私信。 | `/msg Amigo I am sick at home.` | （ 在 Amigo 的聊天窗口中 ） John: I am sick at home. | 
-|`/np`| 发送你正在听的 / 玩的歌曲。| `/np`| （ 游戏时 ） * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) （不做任何事情时，取决于玩家卡片显示的状态 ） * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) （ 旁观或使用 Auto 机器人时 ） * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
-| `/savelog` | 将当前窗口中的聊天记录存储为文件。 | `/savelog` | （ 在 osu! 目录下将创建一个名为 Chat 的文件夹，里面包含在该聊天窗口下的所有聊天记录 ） | 
-| `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | * Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） | 
-| `/nopm` | 设置允许所有人的私信，或仅允许好友的私信。 | `/nopm` | （ 屏幕将弹出一个横幅，显示你允许来自所有人的还是仅好友的私信 ） | 
-| `/invite [玩家]` | 给 `[玩家]` 发送一个链接以将其邀请到你所在的房间。 | `/invite Nathanael` | * Nathanael has been invited to the game. *Nathanael 已被邀请至你所在的房间。* | 
+| `/chat [玩家]` | 打开与该玩家的聊天窗口。 | `/chat Amigo` | （与 Amigo 聊天的窗口打开） |
+| `/clear` | 清除当前聊天窗口的全部内容。 | `/clear` | （ 当前窗口下的所有内容均被清除 ） |
+| `/ignore [玩家][@chp]` | 在本次登录中忽略特定玩家的所有消息。在后面加上 @ 和 ` c, h, p ` 中的任意字母，你可以分别从聊天、提及你的消息和私信中屏蔽该玩家。| `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} （你的聊天界面被设为：`c` 屏蔽 Amigo 发送的任何消息；`h` 屏蔽 Amigo 发送的任何提及你名字的消息；`p` 屏蔽 Amigo 给你发送的任何私信) |
+| `/j [频道]` or `/join [channel]` | 加入指定的频道。 | `/join #lobby` | （ #lobby 频道的窗口出现 ） |
+| `/p` or `/part` | 离开当前加入的频道。 | `/part` | （ 当前频道的窗口关闭 ） |
+| `/unignore [玩家]` | 取消屏蔽在此次登录时所屏蔽的玩家。 | `/unignore Amigo` | You may now hear Amigo. （ 你的聊天窗口将重新显示 Amigo 所发的消息 ） |
+| `/me [动作]` | 以第三人称发送消息。 | `/me is at home` | * John is at home |
+| `/msg [玩家] [消息文字]` | 给 `[玩家]` 发送私信。 | `/msg Amigo I am sick at home.` | （ 在 Amigo 的聊天窗口中 ） John: I am sick at home. |
+|`/np`| 发送你正在听的 / 玩的歌曲。| `/np`| （ 游戏时 ） * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) （不做任何事情时，取决于玩家卡片显示的状态 ） * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) （ 旁观或使用 Auto 机器人时 ） * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
+| `/savelog` | 将当前窗口中的聊天记录存储为文件。 | `/savelog` | （ 在 osu! 目录下将创建一个名为 Chat 的文件夹，里面包含在该聊天窗口下的所有聊天记录 ） |
+| `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | * Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） |
+| `/nopm` | 设置允许所有人的私信，或仅允许好友的私信。 | `/nopm` | （ 屏幕将弹出一个横幅，显示你允许来自所有人的还是仅好友的私信 ） |
+| `/invite [玩家]` | 给 `[玩家]` 发送一个链接以将其邀请到你所在的房间。 | `/invite Nathanael` | * Nathanael has been invited to the game. *Nathanael 已被邀请至你所在的房间。* |
 
 
 ### 按键功能

@@ -470,7 +470,11 @@
 "hoo/2018":                     "History_of_osu!/2018"
 "hoo/osu!wiki":                 "History_of_osu!/osu!_wiki"
 
+"hit_object":                  "Hit_Objects"
+"hit_objects":                 "Hit_Objects"
+"hitobject":                   "Hit_Objects"
 "hitobjects":                  "Hit_Objects"
+"object":                      "Hit_Objects"
 "objects":                     "Hit_Objects"
 "hit_circle":                  "Hit_Objects#hit-circle"
 "hit_circles":                 "Hit_Objects#hit-circle"
@@ -1483,9 +1487,9 @@
 "ozt/2018": "Tournaments/OZT/2018"
 
 "rmoti":   "Tournaments#-rapid-monthly-osu!-tournament-invitationals"
-"rmoti2":  "Tournaments/RMoT_Invitational/2"
-"rmoti_2": "Tournaments/RMoT_Invitational/2"
-"rmoti/2": "Tournaments/RMoT_Invitational/2"
+"rmoti2":  "Tournaments/RMoTI/2"
+"rmoti_2": "Tournaments/RMoTI/2"
+"rmoti/2": "Tournaments/RMoTI/2"
 
 "soft":   "Tournaments#-springtime-osu!mania-free-for-all-tournament"
 "soft3":  "Tournaments/SOFT/3"
@@ -1493,9 +1497,9 @@
 "soft/3": "Tournaments/SOFT/3"
 
 "sst":      "Tournaments#-ss-tournament"
-"sst2018":  "Tournaments/SS_Tournament/2018"
-"sst_2018": "Tournaments/SS_Tournament/2018"
-"sst/2018": "Tournaments/SS_Tournament/2018"
+"sst2018":  "Tournaments/SST/2018"
+"sst_2018": "Tournaments/SST/2018"
+"sst/2018": "Tournaments/SST/2018"
 
 "thom_cup":   "Tournaments#-the-heptakey-osu!mania-cup"
 "thom_cup1":  "Tournaments/THOM_CUP/1"

@@ -1,29 +1,26 @@
-Points de Performance
-==================
+# Points de Performance
 
 Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!
 
 Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en _pp_, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
 
-Histoire
---------
+## Histoire
 
 Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
 
 Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
 
-Plusieurs mois après, la [version (20120722-24) d'osu!](http://osu.ppy.sh/forum/p/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel. 
+Plusieurs mois après, la [version (20120722-24) d'osu!](https://osu.ppy.sh/community/forums/posts/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel.
 
-Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](http://osu.ppy.sh/u/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
+Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
 
 *ppv2* est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](http://osu.ppy.sh/forum/t/92185).
+*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
 
-Comment sont calculés les pp ?
-------------------------------
+## Comment sont calculés les pp ?
 
-Les Points de Performance sont beaucoup basés sur la difficulté calculée de la map, qui est déterminée par un algorithme unique conçu pour chaque mode de jeu. 
+Les Points de Performance sont beaucoup basés sur la difficulté calculée de la map, qui est déterminée par un algorithme unique conçu pour chaque mode de jeu.
 
 La difficulté que vous jouez détermine la valeur en pp de votre score.
 
@@ -49,7 +46,7 @@ La visée n'est pas prise en compte dans les modes de jeu _osu!taiko_ et _osu!ma
 
 **La vitesse est le débit auquel sont présentés les éléments à jouer de la beatmaps.**
 
-Les maps avec un grand nombre de hit objects dans un petite période de temps sont considérés comme des maps à grande vitesse. 
+Les maps avec un grand nombre de hit objects dans un petite période de temps sont considérés comme des maps à grande vitesse.
 
 Les mods comme DoubleTime et HalfTime affectent beaucoup la vitesse d'une beatmap et sont donc pris en compte dans l'algorithme des points de performance.
 
@@ -102,8 +99,7 @@ Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_
 Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
 
 
-FAQ
----
+## FAQ
 
 ### Où puis-je consulter le classement par points de performance ?
 
@@ -132,7 +128,7 @@ C'est expliqué en profondeur dans la section _système de pondération_ de l'ar
 
 Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait _195 pp_.
 
-Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meilleur score. 
+Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meilleur score.
 
 Le second score ne vaudra que 95 % de ses pp totaux puisque ce n'est pas votre meilleur score, il ne vous donnera donc que 95pp et non pas 100.
 

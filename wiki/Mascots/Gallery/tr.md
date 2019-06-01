@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Galeri
-=========
+
+# Galeri
 
 ***[Maskotlar sayfasına dönmek için tıklayın](/wiki/Mascots)***
 
-osu! Orijinaller
-----------------
+## osu! Orijinaller
 
 ### Orijinal pippi (İdol kıyafeti)
 
@@ -41,8 +40,7 @@ osu! Orijinaller
 ![pippidon (Taiko modu).](img/Pippidon.png "pippidon (Taiko mode).")
 ![Konuşma kaydı yaparken pippi & Yuzu.](img/Osu!Talk.png "pippi & Yuzu recording a talk.")
 
-Cameolar
---------
+## Cameolar
 
 ![osu!catch'te Ryuuta.](../Fruit_ryuuta.png "Ryuuta in osu!catch.")
 ![Chibi-J](../J_chibi_Header.png "Chibi-J")

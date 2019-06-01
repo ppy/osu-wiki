@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Interview with Ephemeral"
-permalink: http://osunews.tumblr.com/post/56947685704/interview-with-ephemeral
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56947685704/interview-with-ephemeral
 ---
+
 Ephemeral, joining the game in August of 2009, has taken an active part in the development of osu!, hitting a large amount of milestones in the game. He has made one of the game's most popular beatmaps, acted as a key role in the development of the Mapping Assistance Team (MAT), and even developed many key features in the game that are still used today! Now, he has a new role as the Community Manager. We've decided to interview him, to learn more about this well-accomplished member of this game.
 
 **Hello Ephemeral!**
@@ -35,7 +35,7 @@ _*laughs*_ There's a favorite part? Really? There's nothing really "favorite" ab
 
 I've actually been thinking about that for a long time. To be honest, when we cut the gap between the MAT and the BAT, I was hoping that we would end up with more bubbles. At that point, the MAT was practically the BAT anyway, since they were doing a lot of the bubble work.
 
-**But weren't the MAT supposed to be the "trial period" for BAT entry?**
+**But weren't the MAT supposed to be the "trial period" for BAT entry?**
 
 Yeah, they were. That's a pretty silly question. In the end, it ended up being less of them being in a trial period and more like being BATs who couldn't rank. Even more so when they could only proto-bubble, which was pretty useless.
 
@@ -61,6 +61,6 @@ Please don't bring up bad memories. Zallius's office is a frightening thing.
 
 **Well Ephemeral, it was a swell interview! Is there anything you'd like to say before we call this a day?**
 
-I don't know.  Make people feel like they don't have to question me through the osu!monthly. I just wish more people would talk to me, since God knows we need more people to actually do things. Just please, talk to me. I'm desperate. It's like that one anime about the girl who wants to be popular. Just like that.
+I don't know. Make people feel like they don't have to question me through the osu!monthly. I just wish more people would talk to me, since God knows we need more people to actually do things. Just please, talk to me. I'm desperate. It's like that one anime about the girl who wants to be popular. Just like that.
 
 —osu!news team
