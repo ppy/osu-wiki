@@ -91,8 +91,8 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
-- El OD debe estar ajustado a 4 o un número menor.
-- El HP debe estar ajustado a 6 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
+- El Overall Difficulty debe estar ajustado a 4 o un número menor.
+- El HP Drain Rate debe estar ajustado a 6 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
 ### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
@@ -116,8 +116,8 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
-- El OD debe estar ajustado a 5 o un número menor.
-- El HP debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
+- El Overall Difficulty debe estar ajustado a 5 o un número menor.
+- El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
 ### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
@@ -135,8 +135,8 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Los patrones diseñados en 1/4 que cuenten con más de 3 notas seguidas pueden tener máximo un cambio de color, el que debe suceder al principio o al final del patrón.** Este tipo de patrón debe ser seguido por un breve descanso.
 
 #### Pautas de Ajustes de dificultad
-- El OD debe estar ajustado a 5 o un número menor.
-- El HP debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
+- El Overall Difficulty debe estar ajustado a 5 o un número menor.
+- El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
 
 ### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
@@ -152,8 +152,8 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Los patrones diseñados en 1/4 que cuenten con más de 5 notas seguidas deben evitar un nivel de complejidad muy alto con los cambios de colores.** Los patrones de esta longitud y con tanta complejidad pueden resultar demasiado difícil para el jugador objetivo de este nivel de dificultad.
 
 #### Pautas de Ajustes de dificultad
-- El OD debe estar ajustado a 5 o un número menor.
-- El HP debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
+- El Overall Difficulty debe estar ajustado a 5 o un número menor.
+- El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
 ### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
@@ -161,6 +161,6 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2 y 1/4.** Además, los ritmos en 1/4 pueden ser utilizados frecuentemente en este nivel de dificultad.
 
 #### Pautas de Ajustes de dificultad
-- El OD debe estar ajustado a 5 o un número menor.
-- El HP debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
+- El Overall Difficulty debe estar ajustado a 5 o un número mayor.
+- El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
