@@ -20,7 +20,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels. 
 - **Key mode**: The number of columns present in a difficulty.
 - **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
-- **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity is based user settings and additional changes can be made through inherited (green) timing points.
+- **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity is based on user settings and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
 - **Musical phrase**: A standalone unit of musical meter that is usually 4 measures long. 
 - **Short-term slider velocity**: A slider velocity change lasting less than 1/2 of a beat.
