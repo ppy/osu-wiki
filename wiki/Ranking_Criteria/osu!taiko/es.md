@@ -18,23 +18,23 @@ Puedes buscar otras alternativas de nombres en [este hilo](https://osu.ppy.sh/co
 El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad mayor a la que indique su nombre base, pero menor a la de la dificultad siguiente (Por ejemplo: Ura Kantan es más dificil que Kantan, pero más facil que Futsuu).
 
 ### Jugabilidad
-- **Don / Nota Roja:** Una nota que puede ser marcada con cualquiera de los botones asignados al centro del tambor (por defecto, `X` y `C`).
-- **Kat / Nota Azul:** Una nota que puede ser marcada con cualquiera de los botones asignados al borde del tambor (por defecto, `Z` y `V`).
-- **Big Don / Gran Nota Roja / Finisher Rojo:** Una nota retumbante que puede ser marcada con ambos botones asignados al centro del tambor al mismo tiempo para obtener más puntaje.
-- **Big Kat / Gran Nota Azul / Finisher Azul:**  Una nota retumbante que puede ser marcada con ambos botones asignados al borde del tambor al mismo tiempo para obtener más puntaje.
+- **Don / Nota roja:** Una nota que puede ser marcada con cualquiera de los botones asignados al centro del tambor (por defecto, `X` y `C`).
+- **Kat / Nota azul:** Una nota que puede ser marcada con cualquiera de los botones asignados al borde del tambor (por defecto, `Z` y `V`).
+- **Big don / Gran nota roja / Finisher rojo:** Una nota retumbante que puede ser marcada con ambos botones asignados al centro del tambor al mismo tiempo para obtener más puntaje.
+- **Big Kat / Gran nota azul / Finisher azul:**  Una nota retumbante que puede ser marcada con ambos botones asignados al borde del tambor al mismo tiempo para obtener más puntaje.
 - **BPM (Tempo):** Abreviatura de "Beats per Minute" (Golpes por Minuto), que indica el pulso de una canción.
-- **Slider / Drumroll:** Barra amarilla que contiene puntos que pueden ser marcados con cualquier botón asignado a los controles. Estos puntos están usualmente asignados a 1/4 del BPM de la canción. Si el BPM es menor que 125, los puntos estarán asignados a 1/8 del BPM en su lugar. Si el BPM es mayor que 250, los puntos estaran asignados a 1/2. Finalmente, puedes asignar el "Slider Tick Rate" a 3 para que los puntos se asignen a 1/3 del BPM.
+- **Slider/Drumroll (Redoble):** Barra amarilla que contiene puntos que pueden ser marcados con cualquier botón asignado a los controles. Estos puntos están usualmente asignados a 1/4 del BPM de la canción. Si el BPM es menor que 125, los puntos estarán asignados a 1/8 del BPM en su lugar. Si el BPM es mayor que 250, los puntos estaran asignados a 1/2. Finalmente, puedes asignar el "Slider Tick Rate" a 3 para que los puntos se asignen a 1/3 del BPM.
 - **Spinner (Ruleta):** Elemento del juego que se completa alternando repetidas veces entre notas rojas y azules. La cantidad de veces que debes tocar notas está designado por un número que aparecerá junto al spinner y que, dependiendo de la longitud del spinner y la dificultad asignada, será mayor o menor.
-- **Bar Line (Barra):** Una línea que aparece en el campo de juego y que simboliza el inicio de un compás.
+- **Bar line (Barra):** Una línea que aparece en el campo de juego y que simboliza el inicio de un compás.
 - **Overlap (Superposición):** De esta forma se le denomina cuando una nota cubre parcial o totalmente a otra dentro del campo de juego.
-- **Rest Moment (Descanso):** Un período de tiempo sin notas que se utiliza para permitir al jugador que descanse y recupere energías para los siguientes patrones.
+- **Rest moment (Descanso):** Un período de tiempo sin notas que se utiliza para permitir al jugador que descanse y recupere energías para los siguientes patrones.
 - **Stream:** Se le denomina de esta forma a un grupo de notas continuas. Generalmente se aplica a notas en subdivisión de 1/4, pero se puede llamar así a grupos de notas de cualquier subdivisión.
 - **Snapping (Subdivisión):** Es la subdivisión del BPM sobre la cual se ponen las notas, evitando irregularidades.
-- **Variable Snapping (Variación de subdivisiónes):** De esta forma se le llama cuando se combina diversas subdivisiones en un corto período de tiempo debido a la naturaleza de la canción.
-- **Slider Velocity (Velocidad de las notas):** Indica la velocidad a la que las notas/sliders/spinners se mueven horizontalmente a través del campo de juego. Esto puede ser modificado en la pestaña de "Timing" del editor, el cual permite hacer pequeñas modificaciones por medio de "inherited timing points" (líneas verdes).
-- **Smooth Slider Velocity Changes (Cambios graduales de velocidad):** Esto es una mecánica del juego comúnmente denominada "SV changes" o simplemente "SV" y que permite hacer transiciones graduales de velocidad ya sea para acelerarla o decelerarla.
+- **Variable snapping (Variación de subdivisiónes):** De esta forma se le llama cuando se combina diversas subdivisiones en un corto período de tiempo debido a la naturaleza de la canción.
+- **Slider velocity (Velocidad de las notas):** Indica la velocidad a la que las notas/sliders/spinners se mueven horizontalmente a través del campo de juego. Esto puede ser modificado en la pestaña de "Timing" del editor, el cual permite hacer pequeñas modificaciones por medio de "inherited timing points" (líneas verdes).
+- **Smooth slider velocity changes (Cambios graduales de velocidad):** Esto es una mecánica del juego comúnmente denominada "SV changes" o simplemente "SV" y que permite hacer transiciones graduales de velocidad ya sea para acelerarla o decelerarla.
 - **Improvisación :** En términos generales, es cuando se utiliza más notas de las que la canción indica o bien se crea un patrón rítmico que, aunque no sea parte explícita de la canción, sí es acorde a ella.
-- **Taiko Template Background:** Imágenes de fondo editadas para tener una apariencia similar a la del juego original "Taiko no Tatsujin". Estas usualmente tienen una barra negra debajo del campo de juego que contiene el artista y titulo de la canción.
+- **Taiko template background:** Imágenes de fondo editadas para tener una apariencia similar a la del juego original "Taiko no Tatsujin". Estas usualmente tienen una barra negra debajo del campo de juego que contiene el artista y titulo de la canción.
 
 ## General
 
