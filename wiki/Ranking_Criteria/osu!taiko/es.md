@@ -35,11 +35,15 @@ El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad 
 - **Improvisación :** En términos generales, es cuando se utiliza más notas de las que la canción indica o bien se crea un patrón rítmico que, aunque no sea parte explícita de la canción, sí es acorde a ella.
 - **Taiko template background:** Imágenes de fondo editadas para tener una apariencia similar a la del juego original "Taiko no Tatsujin". Estas usualmente tienen una barra negra debajo del campo de juego que contiene el artista y titulo de la canción.
 
-## General
+## Universal
 
-### Reglas
+Las reglas y pautas se aplican a cualquier tipo de dificultad de osu!taiko. 
 
-Todas las reglas son exactamente eso: **reglas**. **No** son guidelines y **no** deben ser rotas bajo **ninguna** circunstancia.
+### General
+
+#### Reglas
+
+Todas las reglas son exactamente eso: **reglas**. **No** son pautas y **no** deben ser rotas bajo **ninguna** circunstancia.
 
 - **Cada nota debe tener su color claramente visible y facilmente diferenciable de las notas anteriores y posteriores.**
 - **Cada nota debe representar claramente algún aspecto de la canción, ya sea algún instrumento específico o bien una improvisación coherente.** Improvisaciones que contradigan el ritmo, el movimiento de la música o malinterprete la intensidad de la música no están permitidas. Improvisar debe potenciar un aspecto de la canción o crear uno nuevo. De otra forma, la relación con la canción se pierde, junto al propósito de un juego de ritmo.
@@ -48,7 +52,7 @@ Todas las reglas son exactamente eso: **reglas**. **No** son guidelines y **no**
 - **No asignes el final de un slider a un snap incorrecto.** Esto generalmente se hace para corregir la falta de un punto en el slider, pero este error se corregirá en el futuro.
 - **No uses el sampleset "Drum" (a menos que uses tus mismos sonidos).** Este sampleset no tiene sonidos asignados por defecto en osu!taiko, por lo que las notas no sonarán. 
 
-### Pautas
+#### Pautas
 
 Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas excepciones deben ser respaldadas por una explicación exhaustiva del porqué se ha quebrado una pauta y cómo el no hacerlo interfiere con la calidad de la creación.
 
