@@ -1,6 +1,6 @@
 # osu!mania
 
-The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
 Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
 
@@ -61,7 +61,7 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 
 ### Guidelines
 
-Guidelines may be broken under exceptional circumstances. These must be warranted by a reasonable explanation as of why the guideline has been broken and why not breaking it will interfere with the overall quality of the creation.
+Guidelines may be broken under exceptional circumstances. These must be justified by a reasonable explanation as of why the guideline has been broken and why not breaking it will interfere with the overall quality of the creation.
 
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favor of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
