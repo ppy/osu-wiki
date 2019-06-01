@@ -81,25 +81,30 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 ### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
 
 #### Reglas
+
 - **Si un patrón en 1/2 es utilizado, los patrones deben mantenerse simples y deben ser seguidos por un descanso.** Si la canción utiliza un ritmo de swing, este límite es de 1/3.
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/2.** Estos patrones son demasiado complejos para un jugador novato. Para canciones con ritmo de swing, este límite es de 1/3.
 
 #### Pautas
+
 - **Los patrones en 1/1 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Las subdivisiones principales que debes usar son en su mayoría 2/1, 4/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/1 también es aceptable.
 - **Debes utilizar al menos un descanso de 3/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida o utilizar descansos más cortos puede resultar en demasiada dificultad para un jugador de este nivel.
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
+
 - El Overall Difficulty debe estar ajustado a 4 o un número menor.
 - El HP Drain Rate debe estar ajustado a 6 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
 ### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
 #### Reglas
+
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/3.** Estos patrones son demasiado complejos para un jugador novato.
 
 #### Pautas
+
 - **Los patrones en 1/3 no deben ser de más de 2 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Los patrones en 1/2 no deben ser de más de 7 notas.** De otra forma, es muy probable que esto resulte demasiado difícil para principiantes. 
 - **Las subdivisiones principales que debes usar son en su mayoría 1/1, 2/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/2 también es aceptable.
@@ -109,23 +114,28 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe adherirse a las siguientes reglas y pautas:
 
 #### Reglas
+
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/2.** Estos patrones son demasiado complejos para un jugador novato.
 
 #### Pautas
+
 - **Los patrones en 1/2 no deben ser de más de 5 notas.**
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
 
 #### Pautas de Ajustes de dificultad
+
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
 ### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
 #### Reglas
+
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/6.** Estos patrones son demasiado complejos para el tipo de jugador objetivo de ésta dificultad.
 - **No debes utilizar Finishers en ningún patron en 1/4.** Este tipo de patrones no son adecuados para este nivel de dificultad.
 
 #### Pautas
+
 - **Los patrones en 1/6 no deben ser de más de 4 notas en un BPM moderado a bajo (aproximadamente entre 140 y 180).** De otra forma resulta en casos demasiado situacionales y normalmente demasiado complejos. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Los patrones en 1/4 no deben ser de más de 5 notas.** De otra forma, es muy probable que esto resulte demasiado difícil incluso para jugadores un poco más experimentados.
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2, 1/1 o ritmos más lentos.** Ocasionalmente, utilizar ritmos en 1/4 también es aceptable.
@@ -135,6 +145,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Los patrones diseñados en 1/4 que cuenten con más de 3 notas seguidas pueden tener máximo un cambio de color, el que debe suceder al principio o al final del patrón.** Este tipo de patrón debe ser seguido por un breve descanso.
 
 #### Pautas de Ajustes de dificultad
+
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
@@ -142,9 +153,11 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 ### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 
 #### Reglas
+
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/8.** Estos patrones son demasiado complejos para el tipo de jugador objetivo de ésta dificultad.
 
 #### Pautas
+
 - **Los patrones en 1/8 no deben ser de más de 2 notas.** De otra forma resulta en casos demasiado situacionales y normalmente demasiado complejos. Además, los patrones que lleguen a este límite deben ser seguidos por un pequeño descanso.
 - **Los patrones en 1/4 no deben ser de más de 9 notas.** De otra forma, es muy probable que esto resulte demasiado difícil incluso para jugadores un poco más experimentados.
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2, y ocasionalmente 1/1.** Además, los ritmos en 1/4 pueden ser utilizados con más frecuencia en este nivel de dificultad.
@@ -152,12 +165,14 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Los patrones diseñados en 1/4 que cuenten con más de 5 notas seguidas deben evitar un nivel de complejidad muy alto con los cambios de colores.** Los patrones de esta longitud y con tanta complejidad pueden resultar demasiado difícil para el jugador objetivo de este nivel de dificultad.
 
 #### Pautas de Ajustes de dificultad
+
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
 ### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
 #### Pautas
+
 - **Las subdivisiones principales que debes usar son en su mayoría 1/2 y 1/4.** Además, los ritmos en 1/4 pueden ser utilizados frecuentemente en este nivel de dificultad.
 
 #### Pautas de Ajustes de dificultad
