@@ -9,7 +9,8 @@ const rules = [
     null,
     rule_1_boundaryWhitesapce,
     rule_2_atxHeaders,
-    rule_3_noTabs
+    rule_3_noTabs,
+    rule_4_smartCharacters
 ];
 
 const ruleArgIndex = process.argv.findIndex(a => a === '-r' || a === '--rule') + 1;
@@ -82,6 +83,21 @@ function rule_3_noTabs(content, meta, log) {
     const nonAsciiPattern = /[^\S\n\r\t ]+/g;
     while (match = nonAsciiPattern.exec(filteredContent))
         log(lineAtIndex(filteredContent, match.index), 'Non-ASCII whitespace is not allowed');
+
+    return [content, meta];
+}
+
+function rule_4_smartCharacters(content, meta, log) {
+    content = content
+        .replace(/[“”]/g, (_, __, index) => {log(lineAtIndex(content, index), 'Smart double quotes not allowed'); return '"';})
+        .replace(/[‘’]/g, (_, __, index) => {log(lineAtIndex(content, index), 'Smart single quotes not allowed'); return "'";})
+        .replace(/…/g, (_, __, index) => {log(lineAtIndex(content, index), 'Smart ellipses not allowed'); return '...';})
+
+        // would be surprised if the other fractions ever appear
+        // possibly a TODO...
+        .replace(/½/g, (_, __, index) => {log(lineAtIndex(content, index), '1/2 characters not allowed'); return '1/2';})
+        .replace(/¼/g, (_, __, index) => {log(lineAtIndex(content, index), '1/4 characters not allowed'); return '1/4';})
+        .replace(/¾/g, (_, __, index) => {log(lineAtIndex(content, index), '3/4 characters not allowed'); return '3/4';});
 
     return [content, meta];
 }
