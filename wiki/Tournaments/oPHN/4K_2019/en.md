@@ -55,7 +55,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ## Participants
 
 | Seed | Players |
-| :---: | --- |
+| :-: | :-- |
 | Top (#1 - #4) | [- Kura -](https://osu.ppy.sh/users/11420405), [windrush123](https://osu.ppy.sh/users/9087181), [Silhoueska Elze](https://osu.ppy.sh/users/11517895), [realqarp](https://osu.ppy.sh/users/10374991) |
 | High (#5 - #8) | [Arccat](https://osu.ppy.sh/users/4848294), [Koibenii](https://osu.ppy.sh/users/2471512), [nathan on mania](https://osu.ppy.sh/users/6152404), [Nikana](https://osu.ppy.sh/users/4345491) |
 | Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
