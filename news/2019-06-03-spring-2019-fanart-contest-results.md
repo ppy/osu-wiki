@@ -14,6 +14,8 @@ The voting turnout was fairly spectacular this time around as well, with over 10
 
 Without further ado, let's get stuck into the winning entries - which, might I remind you, are now featured in-game as the seasonal backgrounds for Spring 2019. Their stupendously talented artists also receive **2 months of osu!supporter** for their efforts!
 
+*By the by, you can click the little banners to be taken to a full-size, high quality download for each entry!*
+
 [![](/wiki/shared/news/2019-06-03-spring-2019-fanart-contest-results/tofumang.jpg)](https://assets.ppy.sh/contests/78/winners/tofumang.png)
 
 Turning heads and taking names with a whopping **6593** votes, [**TofuMang**](https://osu.ppy.sh/users/4817223)'s rendition of a pippi almost too adorable for this world was a literal showstopper, surging to win the contest handily with almost a thousand vote lead.
@@ -99,6 +101,8 @@ There are times where Mocha's existence seems just too cute for this world, and 
 **2277** voters went for a walk with [**Phoebe Yu**](https://osu.ppy.sh/users/3607337)'s portrayal of a parasol pippi enjoying a walk along a sakura-rimmed path, complete with Taikonator accessory.
 
 --------
+
+*You can download an archive of all fifteen winning entries [here!](https://assets.ppy.sh/contests/78/winners/Spring2019-Winners.zip)*
 
 Make sure to check out the [full voting details over at the Spring 2019 Fanart Contest listing](https://osu.ppy.sh/community/contests/78) as the competition was fierce for a placing spot towards the end, as always. 12 votes between 15th and 16th place should tell a huge story all on its own!
 
