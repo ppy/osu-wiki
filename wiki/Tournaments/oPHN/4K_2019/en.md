@@ -39,7 +39,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | Map Selectors | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentators | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [x y a r o](https://osu.ppy.sh/users/7626994)  |
+| Commentators | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913)  |
 | Graphic Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
@@ -54,11 +54,33 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Participants
 
-*Qualified participants will be added in this section.*
+| Seed | Players |
+| :---: | --- |
+| Top (#1 - #4) | [- Kura -](https://osu.ppy.sh/users/11420405), [windrush123](https://osu.ppy.sh/users/9087181), [Silhoueska Elze](https://osu.ppy.sh/users/11517895), [realqarp](https://osu.ppy.sh/users/10374991) |
+| High (#5 - #8) | [Arccat](https://osu.ppy.sh/users/4848294), [Koibenii](https://osu.ppy.sh/users/2471512), [nathan on mania](https://osu.ppy.sh/users/6152404), [Nikana](https://osu.ppy.sh/users/4345491) |
+| Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
+| Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
 
 ---
 
 ## Mappools
+
+### Play-offs
+
+**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT)**
+
+- FreeMod
+  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
+  - [Chroma - Sayonara Planet Wars (Asherz007) \[Tails' ADVANCED Lv.11\]](https://osu.ppy.sh/beatmapsets/730558#mania/1543106)
+  - [Io - Lv.0 (Valedict) \[Prelude\]](https://osu.ppy.sh/beatmapsets/470823#mania/1006523)
+  - [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/beatmapsets/415947#mania/901153)
+  - [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (MapleSyrup-) \[Even if I chase after you forever, time passes in an instant\]](https://osu.ppy.sh/beatmapsets/974629#mania/2040062)
+  - [himmel feat. YooSanHyakurei - Maple Wind (RemFangirl) \[Solitude (non-SV)\]](https://osu.ppy.sh/beatmapsets/705052#mania/1611381)
+  - [KOTOKO - Princess Bride! (\_underjoy) \[Hard\]](https://osu.ppy.sh/beatmapsets/932541#mania/1947882)
+  - [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
+  - [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/beatmapsets/151453#mania/374172)
+- Tiebreaker
+  - **[Yuchimaru - Bousou Lolita Holic (LeiN-) \[PiraLeiN\]](https://osu.ppy.sh/beatmapsets/175020#mania/422292)**
 
 ### Qualifiers
 
@@ -74,7 +96,9 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Match Results
 
-*All match results will be added in this section.*
+#### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
 
 ---
 
