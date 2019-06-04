@@ -212,7 +212,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 3. The scoring system that will be used is **Score V2.**
 4. Any player who meets the requirements stated in the rank restrictions part is allowed to play. Since the tournament is aiming to get badged, some players might be declined by osu! staff.
 5. Any members of staff apart from **Management, Mappool Selectors, and Referees** are allowed to play.
-6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
+6. Players and staff members must have read this ruleset entirely. (and we will assume you did so throughout the tournament)
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
 
