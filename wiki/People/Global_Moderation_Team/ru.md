@@ -28,7 +28,7 @@ outdated: true
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | чат, техподдержка |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров, карты |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | техподдержка |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | игрок поддержки |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | болгарский | организация конкурсов osu!idol, форум |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | китайский | чат, форум |

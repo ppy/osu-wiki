@@ -23,7 +23,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 채팅 관리, 기술 지원 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 스페인어 | 대회, 비트맵 관리 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 기술 지원 |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | 플레이어 지원 |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 불가리아어 | osu! 아이돌 호스팅, 포럼 관리 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 중국어 | 채팅 관리, 포럼 관리 |

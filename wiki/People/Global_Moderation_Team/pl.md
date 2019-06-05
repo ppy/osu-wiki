@@ -23,7 +23,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderacja czatu, Pomoc techniczna |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów, Moderacja Beatmap |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Pomoc techniczna |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Pomoc techniczna |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |

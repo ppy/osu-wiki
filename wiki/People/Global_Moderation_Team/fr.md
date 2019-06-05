@@ -26,7 +26,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Modération du Chat, Support technique |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanol | Organisation de tournois, Modération du Beatmaps |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Support technique |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugais, Japanese | Modération du Chat |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugais, Japanese | Modération du Chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Support du joueur |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgare | osu!idol hosting, Modération du Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinois | Modération du Chat, Modération du Forum |

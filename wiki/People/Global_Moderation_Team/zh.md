@@ -26,7 +26,7 @@ outdated: true
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 聊天室管理, 技术支持 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛, 谱面管理 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | 玩家支持 |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol 主持者, 论坛管理 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理, 论坛管理 |

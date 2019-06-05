@@ -23,7 +23,7 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderasi Chat, Dukungan Teknis |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen, Moderasi Beatmap |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Dukungan Teknis |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi Chat |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi Chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Bantuan pemain |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgaria | osu!idol hosting, Moderasi Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Cina | Moderasi Chat, Moderasi Forum |

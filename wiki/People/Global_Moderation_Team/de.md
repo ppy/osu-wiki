@@ -26,7 +26,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technische Unterstützung |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanisch | Tournaments, Beatmap Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technische Unterstützung |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Spieler Hilfe |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarisch | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinesisch | Chat Moderation, Forum Moderation |

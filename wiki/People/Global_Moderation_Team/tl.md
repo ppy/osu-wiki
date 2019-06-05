@@ -26,7 +26,7 @@ Ang Global Moderation Team ay responsable sa mga disiplina ng chat/forum at nag-
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technical Support |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournaments, Beatmap Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technical Support |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat Moderation |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Chat Moderation, Forum Moderation |

@@ -23,11 +23,11 @@ Molti dei canali presenti in osu! hanno i loro moderatori, che si occupano di tu
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
-| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) |
+| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` | | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436), ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
