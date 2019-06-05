@@ -23,8 +23,8 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 | Group Stage - Week 1 | 2019-04-27/2019-04-28 |
 | Group Stage - Week 2 | 2019-05-04/2019-05-06 |
 | Round of 32 | 2019-05-11/2019-05-12 |
-| Round of 16 | 2019-05-18/2019-05-19 |
-| Quarterfinals | 2019-05-25/2019-05-26 |
+| Round of 16 | 2019-05-17/2019-05-19 |
+| Quarterfinals | 2019-05-24/2019-05-26 |
 | Semifinals | 2019-06-01/2019-06-02 |
 | Finals | 2019-06-08/2019-06-09 |
 | Grand Finals | 2019-06-15/2019-06-16 |
@@ -40,10 +40,10 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map Selectors | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_LV] [Adiopulse](https://osu.ppy.sh/users/4387852), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentators | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132) |
+| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamers | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentators | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
@@ -55,7 +55,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Finals
 
 The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEmLPa2KQCVCJtg_nYcTaRpAkzO2pSoCGvkwcPw/edit?usp=sharing).
 
@@ -94,6 +94,46 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 ---
 
 ## Mappools
+
+### Finals
+
+- FreeMod
+  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND 1.15x\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052614)
+  - [U1 overground - Dopamine (juankristal) \[Anxiety\]](https://osu.ppy.sh/beatmapsets/695124#mania/2054230)
+  - [Terminal 11 - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/980403#mania/2051696)
+  - [Whirligig231 - Battle Against A True Parent (anim girl) \[Battle Against A True LN Master\]](https://osu.ppy.sh/beatmapsets/774898#mania/1628530)
+  - [Frums - Pictured as Perfect (qqqant) \[i have no idea who i used to be\]](https://osu.ppy.sh/beatmapsets/981508#mania/2054126)
+  - [Kobaryo - Tool Assisted Speedcore (TQBF Frame Advance RMX) (qqqant) \[SV ON EVERY NOTE!!!!\]](https://osu.ppy.sh/beatmapsets/981501#mania/2054119)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/1823177)
+  - [loz - Cinderella Cage -Trancecore Mix- (tailsdk / Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Fleshgod Apocalypse - Thru Our Scars (IcyWorld) \[IcyWorld's Challenge\]](https://osu.ppy.sh/beatmapsets/981533#mania/2054163)
+  - [Camellia - New Challenger Approaching (RuleBlazing / HowtoPlayLN) \[RuleNote's Professional\]](https://osu.ppy.sh/beatmapsets/935793#mania/1955008)
+  - [Various Artists - JP 4K Hard Pack Part.1 (mach\_jp) \[Kuwagata - Signal Hopping! (SHD)\]](https://osu.ppy.sh/beatmapsets/711653#mania/1504627)
+  - [cosMo VS dj TAKA - Kyokken (Raveille) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/895828#mania/1871803)
+  - [antiPLUR - Speed Of Link (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/335798#mania/743282)
+  - [Litmus* - B612 (dreamwalker) \[Le petit Prince x0.95\]](https://osu.ppy.sh/beatmapsets/885961#mania/1853149)
+  - [Silentroom - NULCTRL (Razzy) \[contempt\]](https://osu.ppy.sh/beatmapsets/872655#mania/1824126)
+- Tiebreaker
+  - **[Kobaryo vs. t+pazolite - Galaxy Friends (tpz Overheat remix) (Guilhermeziat) \[Redemption\]](https://osu.ppy.sh/beatmapsets/981506#mania/2054124)**
+
+### Semifinals
+
+- FreeMod
+  - [Cardboard Box - The Limit Does Not Exist (qqqant) \[Divergence\]](https://osu.ppy.sh/beatmapsets/977911#mania/2046643)
+  - [IOSYS - Ringo's Tea Party (Toaph Daddy) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
+  - [Ofcourse you Need and nEed and neEd and neeD and NEED ME (Guilhermeziat) \[Ofcourse you need guil in every mappool\]](https://osu.ppy.sh/beatmapsets/978015#mania/2046853)
+  - [Aoi vs. Siqlo - Hacktivism (zero2snow) \[Hijacked\]](https://osu.ppy.sh/beatmapsets/780574#mania/1639605)
+  - [P4koo - honoohana - flameflower - (stupud man) \[Rekindling\]](https://osu.ppy.sh/beatmapsets/812009#mania/2045441)
+  - [Mayumi Morinaga - dreamin' feat. Ryu* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
+  - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2005270)
+  - [Car Bomb - Constant Sleep (Pope Gadget) \[Midnight Black\]](https://osu.ppy.sh/beatmapsets/959929#mania/2009754)
+  - [-45 - EXILE (qqqant) \[FORBIDDEN\]](https://osu.ppy.sh/beatmapsets/977909#mania/2046641)
+  - [Plini x Kendrick Lamar - Away/Poetic Justice (Razzy) \[Desire\]](https://osu.ppy.sh/beatmapsets/955714#mania/1996491)
+  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (Dergo) \[envisage\]](https://osu.ppy.sh/beatmapsets/955763#mania/1996592)
+  - [Shoujo Shuumatsu Ryokou - More One Night (Assertive Hardcore Bootleg) (Gekido-) \[/o/ DAB \\o\\\]](https://osu.ppy.sh/beatmapsets/942612#mania/1968373)
+  - [Kakka - Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
+- Tiebreaker
+  - **[KikuoHana - Haretsu Haretsu Haretsu (Gekido-) \[Rupture\]](https://osu.ppy.sh/beatmapsets/977898#mania/2046620)**
 
 ### Quarterfinals
 
@@ -188,6 +228,53 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
 
 ## Match Results
 
+### Semifinals
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVoJ1Q5Pjx3BjvXIXrdCdElJukRl8QrgU5FXmcYVfuQTEOcEKpTshd47bdfHDLhpTDN9YlvSKd6e4/pubhtml).**
+
+| Saturday, 2019-06-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **[Crz]Crysarlene** ![][flag_ID] | **6** | 1 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/52271689) |
+| HeZeuS ![][flag_US] | 1 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52274695) |
+| -Rem- ![][flag_ID] | 2 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/52279895) |
+
+| Sunday, 2019-06-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Tidek ![][flag_PL] | 2 | **6** | ![][flag_SG] **ByeForNow** | [#1](https://osu.ppy.sh/community/matches/52301779) |
+| [Crz]Crysarlene ![][flag_ID] | 2 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52302942) |
+| **ByeForNow** ![][flag_SG] | **6** | 2 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52304454) |
+| -Electro- ![][flag_US] | 0 | **6** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/52305875) |
+| MyZterioN- ![][flag_TH] | 0 | **6** | ![][flag_US] **Toaph Daddy** | [#1](https://osu.ppy.sh/community/matches/52309120) |
+
+### Quarterfinals
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWGQ694lt7C616ImxI28fZuepVS7i-CoTeZbaRpV6-FS-toNG_RtK5g7eZl-DN0K9TVBLogjz83Yzd/pubhtml).**
+
+| Friday, 2019-05-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| SitekX ![][flag_PL] | 5 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52048034) |
+| -Rem- ![][flag_ID] | 5 | **6** | ![][flag_TH] **MyZterioN-** | [#1](https://osu.ppy.sh/community/matches/52052881) |
+
+| Saturday, 2019-05-25 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Tamaneko** ![][flag_SG] | **6** | 0 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/52075246) |
+| **Nyarlahothep** ![][flag_TH] | **6** | 3 | ![][flag_GB] SoFast | [#1](https://osu.ppy.sh/community/matches/52076391) |
+| SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_SG] **ByeForNow** | -win by default- |
+| BossPlays ![][flag_AR] | 1 | **6** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/52081126) |
+| **RuleBlazing** ![][flag_TH] | **6** | 0 | ![][flag_FI] Daughter- | -win by default- |
+| DaZeRo5 ![][flag_PE] | 0 | **6** | ![][flag_US] **Chrubble** | -forfeited- |
+| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_US] EtienneXC | [#1](https://osu.ppy.sh/community/matches/52097472) |
+
+| Sunday, 2019-05-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **-Electro-** ![][flag_US] | **6** | 0 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/52101773) |
+| **Chrubble** ![][flag_US] | **6** | 1 | ![][flag_SG] ByeForNow | [#1](https://osu.ppy.sh/community/matches/52103811) |
+| [Crz]Crysarlene ![][flag_ID] | 0 | **6** | ![][flag_KR] **wonder5193** | -win by default- |
+| **NKEYBOARD** ![][flag_KR] | **6** | 1 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/52111935) |
+| AMDuskia1996 ![][flag_JP] | 0 | **6** | ![][flag_SG] **Tamaneko** | -forfeited- |
+| **RuleBlazing** ![][flag_TH] | **6** | 3 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52116950) |
+| **Toaph Daddy** ![][flag_US] | **6** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/52121932) |
+
 ### Round of 16
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml).**
@@ -231,7 +318,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **[Crz]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/51707469) |
 | **-Electro-** ![][flag_US] | **5** | 0 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/51715930) |
 | **Tidek** ![][flag_PL] | **5** | 3 | ![][flag_US] EtienneXC | [#1](https://osu.ppy.sh/community/matches/51718126) |
-| AYAYAA ![][flag_US] | 0 | **5** | ![][flag_AR] **BossPlays** | -win by default- |
+| AYAYAA ![][flag_US] | 0 | **5** | ![][flag_AR] **BossPlays** | -forfeited- |
 
 | Sunday, 2019-05-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -252,11 +339,11 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **-[DaNieL_TH]-** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51327530) |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51328368) |
 | Tamaneko ![][flag_SG] | 2 | **4** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51329555) |
-| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] Xonica | -win by default- |
+| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] Xonica | -forfeited- |
 | **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_PH] JztCallMeRon | [#1](https://osu.ppy.sh/community/matches/51333328) |
 | **xSnaggles** ![][flag_GB] | **4** | 1 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/51336326) |
 | xSnaggles ![][flag_GB] | 3 | **4** | ![][flag_FR] **Adri** | [#1](https://osu.ppy.sh/community/matches/51337751) |
-| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_GB] Xonica | -win by default- |
+| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_GB] Xonica | -forfeited- |
 | **andreymc** ![][flag_BR] | **4** | 1 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/51340804) |
 | **DaZeRo5** ![][flag_PE] | **4** | 1 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/51342433) |
 | **DaZeRo5** ![][flag_PE] | **4** | 0 | ![][flag_BE] yetii | [#1](https://osu.ppy.sh/community/matches/51343959) |
@@ -284,7 +371,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **[Crz]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51364530) |
 | **Toaph Daddy** ![][flag_US] | **4** | 0 | ![][flag_PH] JztCallMeRon | [#1](https://osu.ppy.sh/community/matches/51365732) |
 | **Couil** ![][flag_SE] | **4** | 1 | ![][flag_NL] Obligerator | [#1](https://osu.ppy.sh/community/matches/51366607) |
-| Xonica ![][flag_GB] | 0 | **4** | ![][flag_RU] **YaLTeR** | -win by default- |
+| Xonica ![][flag_GB] | 0 | **4** | ![][flag_RU] **YaLTeR** | -forfeited- |
 | Yyorshire ![][flag_US] | 0 | **4** | ![][flag_IT] **[Crz]Cribob** | [#1](https://osu.ppy.sh/community/matches/51369390) |
 | Elementaires ![][flag_FR] | 2 | **4** | ![][flag_FR] **Adri** | [#1](https://osu.ppy.sh/community/matches/51370693) |
 | **EtienneXC** ![][flag_US] | **4** | 3 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51370703) |
@@ -304,7 +391,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 | Thursday, 2019-05-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **PatouZ** ![][flag_FR] | **4** | 0 | ![][flag_US] dhn | -win by default- |
+| **PatouZ** ![][flag_FR] | **4** | 0 | ![][flag_US] dhn | -forfeited- |
 
 | Saturday, 2019-05-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -315,7 +402,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Cunu ![][flag_FR] | 3 | **4** | ![][flag_JP] **[ misa ]** | [#1](https://osu.ppy.sh/community/matches/51517598) |
 | PatouZ ![][flag_FR] | 0 | **4** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51517922) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51518579) |
-| Yyorshire ![][flag_US] | 0 | **4** | ![][flag_AU] **PotassiumF** | -win by default- |
+| Yyorshire ![][flag_US] | 0 | **4** | ![][flag_AU] **PotassiumF** | -forfeited- |
 | **MyZterioN-** ![][flag_TH] | **4** | 1 | ![][flag_FR] PatouZ | [#1](https://osu.ppy.sh/community/matches/51519826) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/51520100) |
 | **Polytetral** ![][flag_SG] | **4** | 3 | ![][flag_FI] Camopoltergeist | [#1](https://osu.ppy.sh/community/matches/51521531) |
@@ -337,7 +424,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Chrubble** ![][flag_US] | **4** | 2 | ![][flag_US] Logan636 | [#1](https://osu.ppy.sh/community/matches/51541011) |
 | **RemiFlan** ![][flag_US] | **4** | 0 | ![][flag_US] Logan636 | [#1](https://osu.ppy.sh/community/matches/51541842) |
 | **HeZeuS** ![][flag_US] | **4** | 1 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/51542801) |
-| **MyZterioN-** ![][flag_TH] | **4** | 0 | ![][flag_US] dhn | -win by default- |
+| **MyZterioN-** ![][flag_TH] | **4** | 0 | ![][flag_US] dhn | -forfeited- |
 | yetii ![][flag_BE] | 0 | **4** | ![][flag_NZ] **Spicy Meme** | [#1](https://osu.ppy.sh/community/matches/51548674) |
 | **ByeForNow** ![][flag_SG] | **4** | 1 | ![][flag_FR] DemonWaves | [#1](https://osu.ppy.sh/community/matches/51550578) |
 | **DaZeRo5** ![][flag_PE] | **4** | 0 | ![][flag_NZ] Spicy Meme | [#1](https://osu.ppy.sh/community/matches/51551364) |
@@ -352,12 +439,12 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Amascite** ![][flag_GB] | **4** | 3 | ![][flag_PL] _underjoy | [#1](https://osu.ppy.sh/community/matches/51555294) |
 | **windrush123** ![][flag_PH] | **4** | 2 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51555567) |
 | **[Crz]Crysarlene** ![][flag_ID] | **4** | 1 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51557279) |
-| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_FR] Cunu | -win by default- |
-| Cunu ![][flag_FR] | 0 | **4** | ![][flag_CA] **AndyTechGuy** | -win by default- |
+| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_FR] Cunu | -forfeited- |
+| Cunu ![][flag_FR] | 0 | **4** | ![][flag_CA] **AndyTechGuy** | -forfeited- |
 | **RuleBlazing** ![][flag_TH] | **4** | 0 | ![][flag_US] RemiFlan | [#1](https://osu.ppy.sh/community/matches/51561135) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51562554) |
 | **AYAYAA** ![][flag_US] | **4** | 1 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/51566448) |
-| **Daughter-** ![][flag_FI] | **4** | 0 | ![][flag_US] dhn | -win by default- |
+| **Daughter-** ![][flag_FI] | **4** | 0 | ![][flag_US] dhn | -forfeited- |
 
 | Monday, 2019-05-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -377,7 +464,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_FR] AntoAa | -win by default- |
 | Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_FR] **Ping36** | -win by default- |
 | **Daughter-** ![][flag_FI] | **4** | 0 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/50966220) |
-| **JztCallMeRon** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | -win by default- |
+| **JztCallMeRon** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | -forfeited- |
 | **\[Crz\]Cribob** ![][flag_IT] | **4** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/50969056) |
 | **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_PL] FD5GD | [#1](https://osu.ppy.sh/community/matches/50970024) |
 | **CharlisMadCut** ![][flag_FR] | **4** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/50971505) |
@@ -410,7 +497,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 | Wednesday, 2019-04-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Xonica** ![][flag_GB] | **4** | 0 | ![][flag_NL] 2fast4you98 | -win by default- |
+| **Xonica** ![][flag_GB] | **4** | 0 | ![][flag_NL] 2fast4you98 | -forfeited- |
 
 | Friday, 2019-04-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -422,7 +509,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | -Lethal- ![][flag_US] | 1 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/51141708) |
 | **Malox** ![][flag_DE] | **4** | 0 | ![][flag_FR] CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/51147833) |
 | **Rek** ![][flag_AU] | **4** | 0 | ![][flag_PH] SurfChu85 | [#1](https://osu.ppy.sh/community/matches/51148853) |
-| **Spartan-** ![][flag_AU] | **4** | 0 | ![][flag_AU] WMountain | -win by default- |
+| **Spartan-** ![][flag_AU] | **4** | 0 | ![][flag_AU] WMountain | -forfeited- |
 | **Obligerator** ![][flag_NL] | **4** | 0 | ![][flag_VN] Weabonie | -win by default- |
 | **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/51152258) |
 | **Elementaires** ![][flag_FR] | **4** | 2 | ![][flag_PH] Lenfried- | [#1](https://osu.ppy.sh/community/matches/51152633) |
