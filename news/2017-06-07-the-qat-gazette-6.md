@@ -32,15 +32,15 @@ Additionally, with the exception of alacat and Kurokami (who will focus solely o
 
 ## Ask us anything!
 
-**Will BNG / community members be given the chance to apply for the QAT in the same way as the GMT from a few months ago?** 
+**Will BNG / community members be given the chance to apply for the QAT in the same way as the GMT from a few months ago?**
 
 Presently, the GMT is a sizeable group encompassing a number of different roles, from technical support staff to language moderators and osu!media creation, so it is almost always “open” to new members who fit the criteria. The QAT on the other hand is a relatively small team with a specialised work field, so we will only look at recruiting people once there is a need to do so, such as replacing a departing member or leading a new working field.
 
-**What does it take to join the QAT?** 
+**What does it take to join the QAT?**
 
 Despite the previous answer, this doesn't mean we're not constantly looking for potential future members. Where the need arises, members will be promoted from the BNG (typically from the Advanced Tier in osu!standard) after demonstrating consistently high standards of activity and proficiency in their field. Maturity, integrity and the ability to lead and motivate are also essential qualities for anyone in a supervisory position, but a willingness to take proactive steps towards improving the community in some way should also not be overlooked.
 
-**What is the point of mapping if anything you post isn't going to be noticed by anyone?** 
+**What is the point of mapping if anything you post isn't going to be noticed by anyone?**
 
 If you never try, you are guaranteed to never be noticed! Everyone has to start at the bottom, but with hard work and dedication, they can climb to the top all the same, from taking your first steps in mapping and modding, to becoming an Elite Mapper or joining the QAT. This is a great aspect of a community-driven game such as osu! - each and every member has the potential to bring something new and exciting for all others to enjoy. If you want something to happen, make it happen. Don't wait for the change - be the change.
 

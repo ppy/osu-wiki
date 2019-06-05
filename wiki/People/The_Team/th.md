@@ -33,7 +33,7 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, จัดการเกี่ยวกับสังคมในเกม |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | ทีม osu! dev, บูรณาการ IRC แชทของในเกม, ซ่อมบำรุงเว็บไซต์ |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | ทีม osu! dev, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  	ออกแบบเว็บไซต์ |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | ออกแบบเว็บไซต์ |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | ออกแบบ Epic skin, มีส่วนร่วมในการทำสกิน default และ iconset |
 | [mm201](https://osu.ppy.sh/users/30655) | ทีม osu! dev, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | พัฒนา osu! iPhone |

@@ -43,7 +43,7 @@ It would be favorable to do crash courses out of every commands using random ima
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| `+`/`-` buttons at left | Increase/Decrease timeline zoom |
 | `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
 
@@ -105,7 +105,7 @@ To use them:-
 | Command | Usage |
 | ------- | ----- |
 | Move | Translation [where to go (e.g., move up)]. |
-| Scale	| Proportional enlargement (a square is still a square). |
+| Scale | Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |

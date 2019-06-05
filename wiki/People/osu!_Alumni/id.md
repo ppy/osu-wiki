@@ -14,9 +14,9 @@
 | ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ![][flag_RU] [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
-| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836)	| BAT |
+| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | GMT |
-| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902)	| BAT |
+| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ![][flag_FI] [Asphyxia](https://osu.ppy.sh/users/1715720) | QAT |
 | ![][flag_CN] [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | GMT |

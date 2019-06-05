@@ -12,7 +12,7 @@ La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!man
 
 | Évènement | Date |
 | ---: | :--- |
-| Inscription des équipes	 | 10 au 23 juillet 2017 |
+| Inscription des équipes | 10 au 23 juillet 2017 |
 | Tirages au sort | 7 août 2017 (14:00 UTC+0) |
 | Phases de poules | 12 au 13 août 2017 |
 | Huitièmes de finale | 19 au 20 août 2017 |

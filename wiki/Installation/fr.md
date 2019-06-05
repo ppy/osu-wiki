@@ -20,10 +20,10 @@ Cette page explique comment faire fonctionner osu! sur votre ordinateur et propo
 - Ouvrez-le depuis la liste de téléchargement de votre navigateur, ou depuis le dossier de téléchargement de votre ordinateur. Il se peut que vous ayez besoin des droits administrateur.
 - Prenez votre temps pour lire ce qui est affiché. Cliquez sur "Suivant" lorsque vous avez terminé.
 - Choisissez le répertoire d'installation et cliquez sur "Suivant". L'installation commence.
-	- Il n'est pas nécessaire de télécharger les "skins", mais vous pouvez le faire, le téléchargement aura lieu une fois que la mise à jour sera terminée.
+  - Il n'est pas nécessaire de télécharger les "skins", mais vous pouvez le faire, le téléchargement aura lieu une fois que la mise à jour sera terminée.
 - Cliquez sur "Lancer osu!"
 - Lorsque vous aurez atteint le menu principal, une fenêtre vous proposera de vous connecter ou de jouer hors-ligne.
-	- Il est fortement conseillé de vous connecter à votre compte plutôt que de jouer hors-ligne, afin de sauvegarder vos scores sur le site.
+  - Il est fortement conseillé de vous connecter à votre compte plutôt que de jouer hors-ligne, afin de sauvegarder vos scores sur le site.
 - Bon jeu sur osu!
 
 #### Ajout de beatmaps
@@ -47,7 +47,7 @@ Il y a aussi d'autres méthodes permettant de télécharger des beatmaps :
 - Rendez vous sur la page de [téléchargement du jeu](https://osu.ppy.sh/p/download) et cliquez sur "OS X installer" pour télécharger la dernière version.
 - [Suivez ces instructions](http://www.youtips.com/fr/mac/installer-une-application-sous-mac-os-x/) pour installer le fichier .dmg sur votre Mac.
 - Lancez le jeu.
-	- Lors du premier lancement, il se peut que le jeu mette 5 minutes à se lancer.
+  - Lors du premier lancement, il se peut que le jeu mette 5 minutes à se lancer.
 
 #### Ajout de beatmaps
 - Faites un clic droit sur l'application osu! ("osu!.app") et cliquez sur "Afficher le contenu du package".
@@ -69,8 +69,8 @@ Il s'agit d'un autre jeu développé par peppy, très similaire mais qui dispose
 #### Ajout de beatmaps
 - Ouvrez osu!stream.
 - Dans le menu principal, cliquez sur le bouton "Store".
-	- A partir d'ici, vous pouvez télécharger des packs de beatmaps.
-	- Note : La plupart des packs sont payants.
+  - A partir d'ici, vous pouvez télécharger des packs de beatmaps.
+  - Note : La plupart des packs sont payants.
 
 ### Autres plateformes (non officiel)
 
