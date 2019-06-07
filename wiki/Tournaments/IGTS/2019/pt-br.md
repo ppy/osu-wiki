@@ -114,7 +114,7 @@ O Intermediate Global Taiko Showdown 2019 é realizado por vários membros da co
 
 ## Mappools
 
-### Group Stage
+### Fase de grupos
 
 **[Baixe o pacote de mapas aqui! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
