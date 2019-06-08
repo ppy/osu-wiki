@@ -17,7 +17,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 ### Common Terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels. 
+- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels. 
 - **Key mode**: The number of columns present in a difficulty.
 - **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
@@ -38,7 +38,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Minijack**: Two consecutive notes in the same column, usually pressed at a faster pace compared to surrounding notes.
 - **Release**: The end of a long note which must be released within a certain timing  window to score the entirety of the note properly.
 - **Roll**: A variation of a stream consisting of notes that go from the first to the last column or last to the first column, usually done in quick succession.
-- **Shield**: A note that appears in the same column immediately after the release of a long note.
+- **Shield**: A note that appears in the same column immediately before or after the release of a long note.
 - **Split-jumptrill**: A jumptrill which requires the use of both hands at the same time to be performed correctly (i.e two one-handed trills).
 - **Stream**: Constant notes with the same interval that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.

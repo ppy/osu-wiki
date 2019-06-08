@@ -36,7 +36,10 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Spinner recovery time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
-- **Key sounding:** hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Key sounding:** Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Spaced stream:** A stream whose circles do not overlap.
+- **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
+
 
 ## Overall
 
@@ -63,7 +66,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 -   **Spinner ends, slider ends, and slider reverses should have hit sound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
 -   **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 -   **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
--   **Avoid unjustified spikes in difficulty.** Difficulty should be representative of the song's intensity.
+-   **Avoid unjustified difficulty spikes.** Difficulty should be representative of the song's intensity.
 
 ### Skinning
 
@@ -161,7 +164,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 -  **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
 -  **Avoid visually similar 1/2 and 1/1 spacing.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from 1/1 gaps.
--  **Avoid mixing 1/2 and 1/4 rhythms in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
+-  **Avoid using 1/2 and 1/4 rhythms with visually similar spacing or in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
 -  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 -  **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 -  **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
