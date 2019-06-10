@@ -1,29 +1,33 @@
----
-outdated: true
----
-
 # The Team
+
+以下列表中的用户<!--NC:翻译为用户是否合适-->是 osu!team 的核心成员，并且负责让这个游戏变得更有趣的成员<!--NC:需要确认原句"and are chiefly responsible for helping make the game awesome for everyone."的翻译是否合理--> 。
 
 ## 游戏创建者
 
 | 名 | 描述 |
 | ---- | ----------- |
-| [peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
+|  ![][flag_AU][peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
 
 ## 活跃用户
 
 | 名 | 描述 |
 | ---- | ----------- |
-| [Ephemeral](https://osu.ppy.sh/users/102335) | 玩家事务支持 |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | 首要设计人员 |
-| [Loctav](https://osu.ppy.sh/users/71366) | 官方赛事组织 |
-| [nanaya](https://osu.ppy.sh/users/2387883) | 网页成绩 |
-| [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师, 制作很酷的素材 |
-| [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania 开发, 发掘 Bug |
-| [Tom94](https://osu.ppy.sh/users/1857058) | pp 系统开发 |
-| [yelle](https://osu.ppy.sh/users/4916903) | 举办美术竞赛, osu!store 管理 |
-| [ztrot](https://osu.ppy.sh/users/6347) | osu! 学院教授, 音频/文字设计 |
-| [Zallius](https://osu.ppy.sh/users/55) | 濒危物种 |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation<!--NT--> 和社区的顾问 |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护和[精选艺术家](https://osu.ppy.sh/beatmaps/artists)的推广 |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | 外观设计设定 lead<!--NT--> 和 resident Creative Cloud watcher<!--NT--> |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图圈的顾问 |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织和管理 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 摸图和作图圈的顾问 |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图圈的顾问 |
+| ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | 网页成绩<!--NC:使用原翻译，可能不适用于新版本原句"osu!web developer"--> |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation<!--NT-->顾问 |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web 开发者 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发者, osu! 开发, Mappers' Guild 组织者 |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 摸图和作图圈的顾问 |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | 摸图和作图圈的顾问 & Mappers' Guild 组织者 & [osu!academy](/wiki/osu!academy) 教授 |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping & wiki 维护 |
+
 
 ## 不活跃用户
 
@@ -54,3 +58,19 @@ outdated: true
 | [osu!news](https://osu.ppy.sh/groups/25) | 从2013年开始给你带来高质量的阅读体验 |
 | [Tournament Staff](https://osu.ppy.sh/groups/26) | 为所有模式举办官方的 osu! 联赛 |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | 审核将要上架谱面的质量 |
+
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
