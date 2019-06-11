@@ -27,7 +27,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 | Quarterfinals | 2019-05-24/2019-05-26 |
 | Semifinals | 2019-06-01/2019-06-02 |
 | Finals | 2019-06-08/2019-06-09 |
-| Grand Finals | 2019-06-15/2019-06-16 |
+| Grand Finals | 2019-06-22/2019-06-23 |
 
 ## Prizes
 
@@ -54,10 +54,6 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 - [Challonge](https://challonge.com/SOFT4)
 
 ---
-
-## Match Schedule: Finals
-
-The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEmLPa2KQCVCJtg_nYcTaRpAkzO2pSoCGvkwcPw/edit?usp=sharing).
 
 ## Participants
 
@@ -227,6 +223,20 @@ The schedule can be found [here](https://docs.google.com/spreadsheets/d/1LQ1oZEm
   - [FOLiACETATE - Heterochromia Iridis (Gekido-) \[Stage 4: Mutation\]](https://osu.ppy.sh/beatmapsets/948787#mania/1981395)
 
 ## Match Results
+
+### Finals
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml).**
+
+| Saturday, 2019-06-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **MyZterioN-** ![][flag_TH] | **7** | 5 | ![][flag_ID] [Crz]Crysarlene | [#1](https://osu.ppy.sh/community/matches/52456773) |
+| -Electro- ![][flag_US] | 0 | **7** | ![][flag_BR] **andreymc** | -win by default- |
+
+| Sunday, 2019-06-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **wonder5193** ![][flag_KR] | **7** | 0 | ![][flag_US] Toaph Daddy | [#1](https://osu.ppy.sh/community/matches/52486834) |
+| **MyZterioN-** ![][flag_TH] | **7** | 4  | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52489690) |
 
 ### Semifinals
 
