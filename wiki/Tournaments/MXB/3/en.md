@@ -19,7 +19,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 | Quarterfinals | 2019-05-18/2019-05-19 |
 | Semifinals | 2019-05-25/2019-05-26 |
 | Finals - Week 1 | 2019-06-01/2019-06-02 |
-| Finals - Week 2 | 2019-06-08/2019-06-09 |
+| Finals - Week 2 | 2019-06-15/2019-06-16 |
 
 ## Prizes
 
@@ -167,13 +167,22 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Match Results
 
+### Finals - Week 1
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 1 | **6** | **amxmodx** |
+| **shizehao** | **6** | 4 | 1ess\_\_ |
+| **HerrySun** | **1** | 0 | s\_w\_w |
+| **shizehao** | **6** | 4 | HerrySun |
+
 ### Semifinals
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
 | HerrySun | 0 | **5** | **Yutto007** |
 | shizehao | 1 | **5** | **amxmodx** |
-| 1ess\_\_ | **5** | 1 | \[xiao ba\] |
+| **1ess\_\_** | **5** | 1 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **s\_w\_w** |
 
 ### Quarterfinals
