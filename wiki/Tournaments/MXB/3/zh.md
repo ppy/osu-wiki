@@ -94,7 +94,7 @@ tags:
   - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
   - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
 - Tiebreaker
-  - [Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)
+  - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
 
 ### 半决赛
 
@@ -114,7 +114,7 @@ tags:
   - [uma - Imaginary world \[Insane\]](https://osu.ppy.sh/beatmapsets/890068#mania/1860563)
   - [Sakuzyo - Kronos \[z3\_5724's 4K Enteral Sound\]](https://osu.ppy.sh/beatmapsets/970406#mania/2030997)
 - Tiebreaker
-  - [Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)
+  - **[Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)**
 
 ### 八强赛
 
@@ -134,7 +134,7 @@ tags:
   - [NoKANY - Floating Metropolis-Living City#E6BBAD- \[Another\]](https://osu.ppy.sh/beatmapsets/868435#mania/1818942)
   - [40mP - Junjou Skirt \[1\]](https://osu.ppy.sh/beatmapsets/912583#mania/1906356)
 - Tiebreaker
-  - [gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)
+  - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
 
 ### 小组赛
@@ -153,7 +153,7 @@ tags:
   - [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
   - [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
 - Tiebreaker
-  - [u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)
+  - **[u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)**
 
 ### 资格赛
 
