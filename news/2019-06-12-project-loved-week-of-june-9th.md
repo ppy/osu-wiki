@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of June 9th"
-date: 2019-06-12 17:30:00 +0000
+date: 2019-06-12 20:10:00 +0000
 ---
 
 Come check out the new maps in [Project Loved](https://osu.ppy.sh/community/forums/120)! Your vote will decide which of these maps will make it to the Loved category!
@@ -82,7 +82,7 @@ A classic from 2013 comes back to life 6 years later in this Project Loved round
 157 BPM, 3:51 | 6.05★, 6.51★, 6.53★, 7.13★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-If you're looking for a classic, you've come to the right place. Den Den passion is a map that was enjoyed by many through only word of mouth. It's a mapset that's just really fun to play in general with its cheerful and upbeat rhythm. Its top difficulty gives players a test for their aim with its large spacing jumps and dense streams. Included in this mapset are a couple guest difficulties: one from Justaway12 which focuses more on symmetrical jumps, and another from ErunamoJAZZ which is more of a map for players to just enjoy their time. All in all, it's hard to leave this map without a smile :).
+If you're looking for a classic, you've come to the right place. Denden Passion is a map that was enjoyed by many through only word of mouth. It's a mapset that's just really fun to play in general with its cheerful and upbeat rhythm. Its top difficulty gives players a test for their aim with its large spacing jumps and dense streams. Included in this mapset are a couple guest difficulties: one from Justaway12 which focuses more on symmetrical jumps, and another from ErunamoJAZZ which is more of a map for players to just enjoy their time. All in all, it's hard to leave this map without a smile :).
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/8-maniera.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -98,7 +98,7 @@ D(ABE3)'s "MANIERA" was quick on its way to popularity upon getting its first ra
 180 BPM, 2:12 | 7.45★  
 *description written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to check it out!](https://twitter.com/kaifinowo/status/1136845697141993473)), what's a better time to have a Kaifin map appear in Loved? If you have played any of Kaifin's maps, you'll know that they're far from standard and get very very technical. "Future cider" really pushes your reading skill with many complicated patterns, including spaced bursts and triples, fast and slow sliders, and a few slider streams chucked in here and there. This map isn't 7.4 stars for nothing, and it'll truly test your abilities as a player. Good luck if you decide to attempt this map!
+With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to check it out!](https://twitter.com/kaifinowo/status/1136845697141993473)), what's a better time to have a Kaifin map appear in Loved? If you have played any of Kaifin's maps, you'll know that they're far from standard and get very very technical. "Future Cider" really pushes your reading skill with many complicated patterns, including spaced bursts and triples, fast and slow sliders, and a few slider streams chucked in here and there. This map isn't 7.4 stars for nothing, and it'll truly test your abilities as a player. Good luck if you decide to attempt this map!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/10-idola-no-circus.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
