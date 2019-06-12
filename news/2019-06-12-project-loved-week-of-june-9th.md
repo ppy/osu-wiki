@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of June 9th"
-date: 2019-06-12 02:00:00 +0000
+date: 2019-06-12 17:30:00 +0000
 ---
 
 Come check out the new maps in [Project Loved](https://osu.ppy.sh/community/forums/120)! Your vote will decide which of these maps will make it to the Loved category!
@@ -33,7 +33,7 @@ osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/438
 222 BPM, 2:24 | 8.27★, 8.49★  
 *description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-This is a very fast map. It even says so in the title! This sped up version of Asu no Yozora Shoukaihan is very fast-paced from the beginning. It keeps this speed throughout the map, except for the ending. The ending truly boosts up the distance between jumps. It all starts simple, with some tricky jumps, nothing too much out of the ordinary. After the second break section, you really need to be prepared to flick your cursor fast! It comes to you fairly clean, then a sudden 35-note stream and jumps everywhere! After all of that, the mapper tests your ability on back and forth jumps over a huge distance that are rotating. Be ready!
+This version of Asu no Yozora Shoukaihan is very fast-paced map—it even says so in the title! It starts simple with some tricky jumps and nothing else too out of the ordinary. After the second break section however, you need to be prepared to flick your cursor fast! Everything appears simple, but suddenly there comes a 35-note stream followed by jumps everywhere! For the climax, the mapper tests your aim abilities on rotating, highly-spaced back and forth jumps. Be ready!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/2-start-up-feat-such.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -41,7 +41,7 @@ This is a very fast map. It even says so in the title! This sped up version of A
 178 BPM, 5:27 | 6.21★  
 *description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-A song from PSYQUI and a fun map is always a great combo! The mapper has worked hard on improving the map's quality. It has some tricky rhythm control at the beginning with simple patterns and some slider jumps, but the map turns around in an instant on the second kiai section, with spaced streams, slider jumps and eye-pleasing slider shapes. The map throughout the song keeps its momentum, keeping you focused on the song and the map. Can you FC the map without sliderbreaking or missing the streams the map throws at you? Give it a try, and see if you can handle it!
+A song from PSYQUI and a fun map are always a great combo! dong2729 has worked hard to create a high quality map, as seen through its initial tricky rhythm control and simple patterns/slider jumps, followed by a quick turn around in the second kiai section with spaced streams, extreme slider jumps, and mesmerizing slider shapes. Throughout its run, the map maintains its high-paced momentum, keeping you focused on the synergy between the song and the map. Can you FC it without sliderbreaking or missing the intense streams thrown at you? Give it a try and see if you can handle it!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/3-say-goodbye-speed-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -74,7 +74,7 @@ The core rhythm of this map is simple, focusing on almost non-stop triples, quin
 296 BPM, 5:46 | 5.60★  
 *description written by [fartownik](https://osu.ppy.sh/users/56917)*
 
-A classic from 2013 comes back to life 6 years later in this Project Loved round! Jiyuu e no Sanka is a single-difficulty collab between two old-school mappers, RLC and Nyquill. The map is heavily slider-based, with the circle-slider ratio being at around 1:2. It doesn't make it any easier though (quite the opposite), the usage of slider tick rate 2 and tricky repeating sliders make it so almost every slider has to be perfectly followed in order not to break your combo. Take a break from your standard pp map and have a go at something a bit unusual!
+A classic from 2013 comes back to life 6 years later in this Project Loved round! Jiyuu e no Sanka is a single-difficulty collab between two old-school mappers, RLC and Nyquill. The map is heavily slider-based, with the circle-slider ratio being at around 1:2. It doesn't make it any easier though—quite the opposite! The usage of slider tick rate 2 and tricky repeating sliders make it so almost every slider has to be perfectly followed in order not to break your combo. Take a break from your standard pp map and have a go at something a bit unusual!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/7-denden-passion.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -82,7 +82,7 @@ A classic from 2013 comes back to life 6 years later in this Project Loved round
 157 BPM, 3:51 | 6.05★, 6.51★, 6.53★, 7.13★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-If you're looking for a classic, you've come to the right place. Den Den passion is a map that was enjoyed by many through just word of mouth. It's a mapset that's just really fun to play in general with its cheerful and upbeat rhythm. Its top difficulty gives players a test for their aim with its large spacing jumps and dense streams. Included in this mapset are guest difficulties from Justaway12, which focuses more on symmetrical jumps, and ErunamoJAZZ, which is more of a map for players to just enjoy their time. All in all, it's hard to leave this map without a smile :).
+If you're looking for a classic, you've come to the right place. Den Den passion is a map that was enjoyed by many through only word of mouth. It's a mapset that's just really fun to play in general with its cheerful and upbeat rhythm. Its top difficulty gives players a test for their aim with its large spacing jumps and dense streams. Included in this mapset are a couple guest difficulties: one from Justaway12 which focuses more on symmetrical jumps, and another from ErunamoJAZZ which is more of a map for players to just enjoy their time. All in all, it's hard to leave this map without a smile :).
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/8-maniera.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -98,7 +98,7 @@ D(ABE3)'s "MANIERA" was quick on its way to popularity upon getting its first ra
 180 BPM, 2:12 | 7.45★  
 *description written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to check it out!](https://twitter.com/kaifinowo/status/1136845697141993473)), what's a better time to have a Kaifin map appear in Loved? If you have played any of Kaifin's maps, you'll know that his maps are far from standard and get very very technical. "Future cider" really pushes your reading with many complicated patterns, including spaced bursts and triples, fast and slow sliders, and a few slider streams chucked in here and there. This map isn't 7.4 stars for nothing, and it'll truly test your abilities as a player. Good luck if you decide to attempt this map!
+With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to check it out!](https://twitter.com/kaifinowo/status/1136845697141993473)), what's a better time to have a Kaifin map appear in Loved? If you have played any of Kaifin's maps, you'll know that they're far from standard and get very very technical. "Future cider" really pushes your reading skill with many complicated patterns, including spaced bursts and triples, fast and slow sliders, and a few slider streams chucked in here and there. This map isn't 7.4 stars for nothing, and it'll truly test your abilities as a player. Good luck if you decide to attempt this map!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/10-idola-no-circus.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -120,7 +120,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 246 BPM, 4:00 | 8.10★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-As part of his "ULTIMATE CHALLENGE" series, "Let's madness?" is everything you'd expect from a Sayaka- map of this caliber: an extremely streamy map with plenty of difficult bursts, like an omen to the amount of retries these series cause. This one in particular has a lot less unfair patterns, and it's on the comfortable side of really difficult maps, so while it is indeed one of the hardest maps out there, it's also very possible to get a pass. It's been a while since the last time we saw one of Sayaka-'s "ULTIMATE CHALLENGE" maps, and this truly is a hidden gem of his. Remember to warm up properly, and good luck!
+As part of his "ULTIMATE CHALLENGE" series, "Let's madness?" is everything you'd expect from a Sayaka- map of this caliber: an extremely streamy map with plenty of difficult bursts, like an omen to the amount of retries these series cause. This one in particular has a lot fewer unfair patterns, and it's on the comfortable side of really difficult maps, so while it is indeed one of the hardest maps out there, it's also very possible to get a pass. It's been a while since the last time we saw one of Sayaka-'s "ULTIMATE CHALLENGE" maps, and this truly is a hidden gem of his. Remember to warm up properly, and good luck!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/taiko/2-oedo-controller-feat-toriena.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -128,7 +128,7 @@ As part of his "ULTIMATE CHALLENGE" series, "Let's madness?" is everything you'd
 230 BPM, 4:13 | 6.53★  
 *description written by [jyake](https://osu.ppy.sh/users/9099822)*
 
-Y O U T A is back in the Loved voting again with another fantastic map: Oedo Controller. Mapped in a double-tempo style, you often need to improvise so much more than you would in normal mapping, but Y O U T A has no difficulty pulling this off. The patterns have bits of variation that keeps you hooked. Props to Y O U T A for making this fantastic map!
+Y O U T A is back in the Loved voting again with another fantastic map: Oedo Controller. When mapping in a double-tempo style, you often need to improvise so much more than you would in normal mapping, but Y O U T A has no difficulty pulling this off. The patterns have bits of variation that keeps you hooked. Props to Y O U T A for making this fantastic map!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/taiko/3-speed-of-link.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -136,7 +136,7 @@ Y O U T A is back in the Loved voting again with another fantastic map: Oedo Con
 263 BPM, 2:06 | 7.46★  
 *description written by [jyake](https://osu.ppy.sh/users/9099822)*
 
-If someone asked me to recommend them a speed map, I would definitely recommend Skull Kid's Speed of Link. This map is the perfect "speed map" in my opinion. Every pattern in the map is mapped super comfortably, so you can focus purely on how fast you are. The map transitions from 263 BPM in the first half to 284 BPM at the final kiai. Despite the speed up, it actually gets denser, so the map is significantly more challenging towards the end. This is a great map with a clear intention.
+If someone asked me to recommend them a speed map, I would definitely recommend Skull Kid's Speed of Link. This map is the perfect "speed map" in my opinion. Every pattern in the map is mapped super comfortably, so you can focus purely on how fast you are. The map transitions from 263 BPM in the first half to 284 BPM at the final kiai. Despite the speed up, it actually gets rhythmically denser, so the map is significantly more challenging towards the end. This is a great map with a clear intention.
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/taiko/4-never-to-fade-away.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -144,7 +144,7 @@ If someone asked me to recommend them a speed map, I would definitely recommend 
 125 BPM, 3:02 | 6.86★  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-This week, we have a map by an SV mapper that Japan is proud to present—iceOC! Even though this map is packed with varying SV, it has predictability, which makes it comfortable to connect sightread. You might even be able to pick this in multiplayer without having anyone get mad at you! Maybe. What makes this map difficult to FC are the dense and continuous patterns. I hope you guys defeat the SV and dense patterns, and score a win from the mapper.
+This week, we have a map by an SV mapper that Japan is proud to present: iceOC! Even though this map is packed with varying SV, it's done predictably, which makes it comfortable to sightread. You might even be able to pick this in multiplayer without having anyone get mad at you! ...maybe. The aspects that make this map difficult to FC are the dense and continuous patterns. I hope you guys defeat the SV and dense patterns to score a win from the mapper.
 
 日本が誇るSV mapperのiceOCが手掛ける高難易度譜面が今週のpickに登場します！この譜面は、SVがとても多彩ながらも、初見でも繋ぐことが出来るような予測性があります。これは初見の人が多いマルチで投げても怒られないほどです。多分。ただ、プレイヤーのFCを阻むのは、この譜面の高密度な連続した連打です。SVと高密度なパターンを乗り越え、マッパーからフルコンボを勝ち取ることを願っています！
 
@@ -160,7 +160,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 207 BPM, 6:51 | 6.08★, 6.14★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-AugoEidEs is a song most osu!catch players will know very well, but this time the map is created by several Korean players. The mapset has two fully-mapped difficulties. "Crystal" is made by Minato Yukina, while "Darkness" is a collaboration by Serena-, ExGon, Frobe, Minato Yukina and Last Bubble where Spectator handled the hitsounds. Both difficulties are what you would expect of such an intense song: a lot of streams, jumps and of course a lot of creativity. As the map is somewhat old already (2014), it's a lot different compared to the newer AugoEidEs mapped by Koliron. Expect to see a lot of "older" stream patterns and jumps while playing either of these two difficulties!
+AugoEidEs is a song most osu!catch players will know very well, but this time the mapset's two difficulties are created by several Korean players. The difficulty "Crystal" is made by Minato Yukina, while "Darkness" is a collaboration by Serena-, ExGon, Frobe, Minato Yukina and Last Bubble where Spectator handled the hitsounds. Both difficulties are what you would expect of such an intense song: many streams, jumps and of course a lot of creativity. As the map is somewhat old already (2014), it's a lot different compared to the newer AugoEidEs mapped by Koliron. Expect to see a lot of "older" stream patterns and jumps while playing either of these two difficulties!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/catch/2-all-i-need-are-things-i-like.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
@@ -168,7 +168,7 @@ AugoEidEs is a song most osu!catch players will know very well, but this time th
 140 BPM, 4:17 | 7.17★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Another round, another first timer for the osu!catch Loved vote! Here we have Alostis with his most popular map, All I Need are Things I Like. Despite the very small quantity of maps he has created, Alostis has put out a true banger with this second map of his. For its time of release last year, this map has been able to accumulate quite a respectable amount of favourites from players, and with good reason. The combination of the cute and funky song, together with very enjoyable jumping patterns for players on a pretty high level has made this map quite a success, with it appearing in multiplayer lobbies quite often. Mods can also very well be applied to this map, with no patterns becoming clunky with HardRock and Hidden being quite friendly thanks to the pretty high AR of 9.6. So go check it out, if you need new things to like!
+Another round, another first timer for the osu!catch Loved vote! Here we have Alostis with his most popular map, All I Need are Things I Like. Despite the very small quantity of maps he has created, Alostis has put out a true banger with this second map of his. Since its time of release last year, this map has been able to accumulate quite a respectable amount of favourites from players, and for good reason. The combination of the cute and funky song, together with very enjoyable jumping patterns for players on a pretty high level has made this map quite a success, with it appearing in multiplayer lobbies quite often. Mods can also very well be applied to this map, with no patterns becoming clunky with HardRock and Hidden being quite friendly thanks to the pretty high AR of 9.6. So go check it out, if you need new things to like!
 
 ## <a name="osumania" id="osumania"></a>osu!mania
 
@@ -190,30 +190,30 @@ The Extra difficulty still holds up quite well today as a sporadic yet straightf
 [Suzuki Konomi - One Day Sky](https://osu.ppy.sh/beatmapsets/621883#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
 118 BPM, 4:39 | [4K] 6.94★, [4K] 7.78★
 
-Shuniki's back once again with anything and everything we've come to know and love about him. Intense O2Jam-esque long note mapping, insanely difficult and varied patterns, and an immaculate popularity matched by nearly no one in the long note mapping community. This time being brought to Loved for his map of One Day Sky, a representation of all that was mentioned previously, but with a massive boost in the difficulty compartment when compared to pretty much every other ln chart nominated to ranked or loved. The set's highest difficulty is nothing to scoff at difficulty wise, utilizing extremely dense and awkward minijack and ln patterns in the chorus, and giving even the best of the best a challenge to face. The lower difficulty, however, is a much easier and approachable (albeit still very daunting) experience, boasting many of the same lovable qualities, just with easier, more comfortable patterning throughout. This is a pick representative of the truly hardcore LN fans, and certainly one not to miss by anyone looking for more LN in their lives.
+Shuniki's back once again with anything and everything we've come to know and love about him. Intense O2Jam-esque long note mapping, insanely difficult and varied patterns, and an immaculate popularity matched by nearly no one in the long note mapping community. This time being brought to Loved for his map of One Day Sky, a representation of all that was mentioned previously, but with a massive boost in the difficulty department when compared to pretty much every other LN chart nominated to Ranked or Loved. The set's highest difficulty is nothing to scoff at difficulty wise, utilizing extremely dense and awkward minijack and LN patterns in the chorus, and giving even the best of the best a challenge to face. The lower difficulty, however, is a much easier and approachable (albeit still very daunting) experience, boasting many of the same lovable qualities, just with easier, more comfortable patterning throughout. This is a pick representative of the truly hardcore LN fans, and certainly one not to miss by anyone looking for more LN in their lives.
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/3-didj-pvc.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [The Flashbulb - DIDJ PVC](https://osu.ppy.sh/beatmapsets/884240#mania) by [Vortex-](https://osu.ppy.sh/users/4999669)  
 135 BPM, 1:26 | [4K] 3.69★
 
-From one of osu!mania's more recognised modern charters today, DIDJ PVC is a slightly more technical product from what you'd expect from Vortex- given his previous charts in the Loved section. The chart is very technical despite its low density, with many minijacks, gallops, substantial LN use, and very few continuous streams. The chart itself goes to what practically sounds like a drum solo, and the chart almost feels like playing on a snare drum (given its heavy use of minijacks and two-hand trills), which emulates the percussion of the song nicely.
+From one of osu!mania's more recognised modern charters today, DIDJ PVC is a slightly more technical product from what you'd expect from Vortex- given his previous charts in the Loved section. The chart is very demanding despite its low density, with many minijacks, gallops, substantial LN use, and very few continuous streams. The chart itself goes to what practically sounds like a drum solo, and the chart almost feels like playing on a snare drum (given its heavy use of minijacks and two-hand trills), which emulates the percussion of the song nicely.
 
-From a structural standpoint, this chart has the usual chord allocation and column allocation techniques that you'd see from Vortex (pay attention to whether inner or outer column singles go toward certain sounds), LNs with lengths that depend on the type of sound (higher louder sound = longer LN) with occasional use of pitch relevance and grace notes whenever possible, and an overall tactful use of minijacks. What I've mentioned sounds pretty simple on paper, but thanks to the track's near-unpredictable structure, the chart itself is a crazy dynamic experience with many spikes and turns that will keep many players on their feet (or fingers) throughout the entire chart.
+From a structural standpoint, this chart has the usual chord allocation and column allocation techniques that you'd see from Vortex- (pay attention to whether inner or outer column singles go toward certain sounds), LNs with lengths that depend on the type of sound (higher louder sound = longer LN) with occasional use of pitch relevance and grace notes whenever possible, and an overall tactful use of minijacks. What I've mentioned sounds pretty simple on paper, but thanks to the track's near-unpredictable structure, the chart itself is a crazy dynamic experience with many spikes and turns that will keep many players on their feet (or fingers) throughout the entire chart.
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/4-tsubomi-long-version.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Sano Hiroaki feat. Tatsumi Megumi - Tsubomi (Long Version)](https://osu.ppy.sh/beatmapsets/349611#mania) by [moni](https://osu.ppy.sh/users/1750531)  
 184 BPM, 5:07 | [7K] 8.01★
 
-A chart bearing the hallmark of O2Jam converts, Tsubomi has it all for anyone looking for a fun and noodly time. Coming in at 197 BPM, players are to expect red line speed changes and insanely difficulty LN usages. Visuals are given a very strong emphasis, giving each chorus its own character with the help of playful manipulation of LN lengths and chord sizes. Beware the final section, as accuracy difficulties are ramped up with the introduction of 1/8 LNs that take the place of rice notes. This is a must-try for noodle slurpers!
+A chart bearing the hallmark of O2Jam converts, Tsubomi has it all for anyone looking for a fun and noodly time. Coming in at 197 BPM, players are to expect tempo changes and insanely difficulty LN usages. Visuals are given a very strong emphasis, giving each chorus its own character with the help of playful manipulation of LN lengths and chord sizes. Beware of the final section, as accuracy difficulties are ramped up with the introduction of 1/8 LNs that take the place of rice notes. This is a must-try for noodle slurpers!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/5-niwaka-sannen-ota-hachinen-internets-wa-forever-choubun-sumaso-long-ver.jpg)](https://osu.ppy.sh/community/forums/topics/FORUM_TOPIC_ID)
 
 [Camellia feat. Nanahira - Niwaka Sannen Ota Hachinen, Internets wa forever (Choubun Sumaso Long ver.)](https://osu.ppy.sh/beatmapsets/748377#mania) by [Kim_GodSSI](https://osu.ppy.sh/users/2218047)  
 216 BPM, 5:04 | [7K] 7.13★
 
-It's time to throw in another 7K marathon, and we're going in with a blast with a Camellia chart! Primarily a dense and rolly chart, the map primarily puts an emphasis on huge 126 BPM 1/2 chords and 1/4 chordtrills with rolly chordstreams. They're are a staple in this chart which highlights the chaotic nature of the song. While the chart can be a little dense to deal with, a generous break section is followed by a very aggressive delay-like dubstep section to bring back the pacing of the song. The chart is finally topped off with the same general flow but with much more dense chord usages! This is generally a fun pick for anyone wanting to play a marathon.
+It's time to throw in another 7K marathon, and this time we're aiming for a blast with a Camellia chart! Primarily a dense and rolly chart, the map mainly puts an emphasis on huge 126 BPM 1/2 chords and 1/4 chordtrills with rolly chordstreams. They're are a staple in this chart which highlights the chaotic nature of the song. While the chart can be a little dense to deal with, a generous break section is followed by a very aggressive delay-like dubstep section to bring back the pacing of the song. The chart is finally topped off with the same general flow but with much more dense chord usages! This is generally a fun pick for anyone wanting to play a marathon.
 
 ---
 
