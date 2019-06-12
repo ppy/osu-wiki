@@ -4,11 +4,13 @@ title: "Project Loved: Week of June 9th"
 date: 2019-06-12 02:00:00 +0000
 ---
 
-[Project Loved](https://osu.ppy.sh/community/forums/120)'s back in the spotlight with yet another selection of awesome unranked maps! Come take a look, and cast your votes for whether or not these maps should enter the Loved category!
+Come check out the new maps in [Project Loved](https://osu.ppy.sh/community/forums/120)! Your vote will decide which of these maps will make it to the Loved category!
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
+
+We're running a little behind schedule—this round of Loved was supposed to be for the week of June 2nd, sorry for the wait!
 
 In case you don't read to the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 
