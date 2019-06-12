@@ -65,6 +65,25 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox)**
+
+- FreeMod
+  - [Lime - Stargazer (Kamikaze) \[Astral\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975568)
+  - [Hyper Potions - Porta Vista (snoverpk) \[Oni (17)\]](https://osu.ppy.sh/beatmapsets/532576#mania/1128494)
+  - [xi - FREEDOM DiVE (tpz Overcute Remix) (Toyohime-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/978669#mania/2048124)
+  - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
+  - [Sabrepulse - Horizon (Remix) (SurfChu85) \[beyond\]](https://osu.ppy.sh/beatmapsets/965952#mania/2022015)
+  - [Pastel\*Palettes - Tenka Toitsu A to Z\* (Raveille) \[L to N\*\]](https://osu.ppy.sh/beatmapsets/969949#mania/2029142)
+  - [SENTIVE - rain drops (ByeForNow) \[see that, the rain is nice, but i don't really like getting wet\]](https://osu.ppy.sh/beatmapsets/970444#mania/2031163)
+  - [Kero Kero Bonito - Flamingo (RemFangirl) \[Indifference\]](https://osu.ppy.sh/beatmapsets/767418#mania/1613146)
+  - [Yamamoto Momiji - Fantastic\*To-ryanse! (short Ver.) (ALEFY) \[ADV\]](https://osu.ppy.sh/beatmapsets/620504#mania/1307892)
+  - [brothel. - timmy. (Nick Wilde) \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
+  - [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Four Keys Scroll Velocity Demonstration Chart\]](https://osu.ppy.sh/beatmapsets/641196#mania/1359715)
+- Tiebreaker
+  - **[Feryquitous - Central Nucleus (tailsdk) \[Pivot Of All Is In The Mind (Edit)\]](https://osu.ppy.sh/beatmapsets/814614#mania/2016711)**
+
 ### Play-offs
 
 **[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT)**
@@ -96,7 +115,36 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Match Results
 
-#### Qualifiers
+### Play-offs
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml)
+
+| Friday, 2019-06-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| notapplicable | 0 | **4** | **vincent4399** | [#1](https://osu.ppy.sh/community/matches/52426444) |
+| **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
+
+| Saturday, 2019-06-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Chez** | **4** | 1 | Batujitsu | [#1](https://osu.ppy.sh/community/matches/52451521) |
+| didgey | 1 | **4** | **Hues** | [#1](https://osu.ppy.sh/community/matches/52451866) |
+| **Loli-Sensei69** | **4** | 3 | Xidorn | [#1](https://osu.ppy.sh/community/matches/52453772) |
+| **Shiyui-** | **4** | 0 | Andrei-- | [#1](https://osu.ppy.sh/community/matches/52454768) |
+| **Koibenii** | **4** | 0 | Loli-Sensei69 | [#1](https://osu.ppy.sh/community/matches/52454841) |
+| **ChristsuGaming** | **4** | 2 | wallwap | [#1](https://osu.ppy.sh/community/matches/52455938) |
+| Neoskiie | 0 | **4** | **Chiaki-chan** | [#1](https://osu.ppy.sh/community/matches/52457281) |
+| **GTXCZE** | **4** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/52458503) |
+
+| Sunday, 2019-06-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Captain Cusheen | 0 | **4** | **PotatoPresser** | [#1](https://osu.ppy.sh/community/matches/52479278) |
+| **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |
+| Nikana | 0 | **4** | **Chez** | [#1](https://osu.ppy.sh/community/matches/52480159) |
+| **Swarmsii** | **4** | 0 | pumpiyumpiyummm | [#1](https://osu.ppy.sh/community/matches/52482377) |
+| **nathan on mania** | **4** | 0 | Chiaki-chan | [#1](https://osu.ppy.sh/community/matches/52483191) |
+| **bananacake304** | **4** | 2 | kraken_33 | [#1](https://osu.ppy.sh/community/matches/52484174) |
+
+### Qualifiers
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
 
