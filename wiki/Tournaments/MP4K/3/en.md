@@ -43,11 +43,11 @@ The minimum guaranteed prizes are:
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinators | ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
+| Coordinators | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
 | Map Selectors | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referees | ![][flag_RU] [AnatOWJIya](https://osu.ppy.sh/users/486264), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Cyan_Star](https://osu.ppy.sh/users/8679184), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [MrDorian](https://osu.ppy.sh/users/1559983), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [DrawnGirl](https://osu.ppy.sh/users/2222301), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentators | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Beniek](https://osu.ppy.sh/users/1649633), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Streamers | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [DrawnGirl](https://osu.ppy.sh/users/2222301), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentators | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Beniek](https://osu.ppy.sh/users/1649633), ![][flag_PL] [Chazoshtare](https://osu.ppy.sh/users/4185189), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [LaviSorrow](https://osu.ppy.sh/users/9966768), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician Helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
@@ -67,7 +67,14 @@ The minimum guaranteed prizes are:
 
 ## Mappools
 
-*Mappools will be revealed one week in advance of each stage.*
+### Qualifiers
+
+- FreeMod
+  - [The Dilinger Escape Plan - When Acting As A Wave (Pope Gadget) \[Stage 1: Panasonic w/ Evening\]](https://osu.ppy.sh/beatmapsets/984989#mania/2060892)
+  - [Skrillex - Kyoto (feat.Sirah) (Kamikaze) \[Stage 2: Precision\]](https://osu.ppy.sh/beatmapsets/984894#mania/2060731)
+  - [GOTH - Ruti'n (GOTH Wild Electro Remix) (Kamikaze) \[Stage 3: Control w/ Rave\]](https://osu.ppy.sh/beatmapsets/984896#mania/2060733)
+  - [Yu^ta w. Satoguchi Yu - Alien Artifact (-Rem-) \[Stage 4: Agility\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060730)
+  - [KNOWER - Time Traveler (Kamikaze) \[Stage 5: Versatility w/ Hydria\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060730)
 
 ## Match Results
 
@@ -140,9 +147,9 @@ The minimum guaranteed prizes are:
   - For maximal accountability on the MP4K 3 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
   - Take care of any priorities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
-  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in PHN4K19 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in MP4K 3 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
-  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the PHN4K19 staff.
+  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the MP4K 3 staff.
   - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**. In the Post-Qualification stage **the player with the higher qualifier seed in the match-up will advance automatically**
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
@@ -181,9 +188,10 @@ The minimum guaranteed prizes are:
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
