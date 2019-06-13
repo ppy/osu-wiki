@@ -29,7 +29,7 @@ outdated: true
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | чат, техподдержка |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | испанский | организация турниров, карты |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | техподдержка |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | португальский, японский | чат |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | игрок поддержки |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | болгарский | организация конкурсов osu!idol, форум |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | китайский | чат, форум |
@@ -67,7 +67,6 @@ outdated: true
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | немецкий | чат, форум |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | русский | чат |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | русский | чат |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | корейский, японский | чат |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | французский | чат |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | тагалог («филиппинский») | чат |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | испанский | техподдержка |
