@@ -121,7 +121,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| notapplicable | 0 | **4** | **vincent4399** | [#1](https://osu.ppy.sh/community/matches/52426444) |
+| notapplicable | 0 | **4** | **vincent4399** | -win by default- |
 | **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
 
 | Saturday, 2019-06-08 |  |  |  |  |
@@ -137,9 +137,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Sunday, 2019-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Captain Cusheen | 0 | **4** | **PotatoPresser** | [#1](https://osu.ppy.sh/community/matches/52479278) |
+| Captain Cusheen | 0 | **4** | **PotatoPresser** | -win by default- |
 | **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |
-| Nikana | 0 | **4** | **Chez** | [#1](https://osu.ppy.sh/community/matches/52480159) |
+| Nikana | 0 | **4** | **Chez** | -win by default- |
 | **Swarmsii** | **4** | 0 | pumpiyumpiyummm | [#1](https://osu.ppy.sh/community/matches/52482377) |
 | **nathan on mania** | **4** | 0 | Chiaki-chan | [#1](https://osu.ppy.sh/community/matches/52483191) |
 | **bananacake304** | **4** | 2 | kraken_33 | [#1](https://osu.ppy.sh/community/matches/52484174) |
