@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: RiraN"
-date: 2019-06-15 06:00:00 +0000
+date: 2019-06-15 04:30:00 +0000
 ---
 
 osu!'s latest Featured Artist enters the scene in style - hardstyle in fact! Meet [**RiraN**](https://osu.ppy.sh/beatmaps/artists/40), one of Asia's up and coming hardstyle artists!
@@ -50,9 +50,11 @@ All of the above plus more are now available over at [**RiraN**'s Featured Artis
 
 The [Mappers' Guild](http://mappersguild.com/) will also be hosting a series of quests based on these new tracks in the coming days, so if you're a member of the Guild and fancy a stab at some hardstyle mapping, start preparing! If you're not yet a member of the Guild - get three ranked maps to your name and come aboard.
 
-If this sort of sound is your jam, get excited because we've got more coming at the end of the month! A LOT more. The observant among you may have already caught wind of a hint we dropped at the beginning of June.
+If this sort of sound is your jam, get excited because we've got more coming at the end of the month! A LOT more. The observant among you may have already caught wind of a little hint we dropped at the beginning of June.
 
-As an extra note, you may see a few more releases from us over the coming weeks. [pishifat](https://osu.ppy.sh/users/3178418) and [Toy](https://osu.ppy.sh/users/2757689) have been hard at work securing a *gigantic* roster of new talent from a variety of genres and musical styles both familiar and fresh that we're super hyped to share with you guys. Keep your eyes and ears peeled!
+As an extra note, you may see a few more releases from us over the coming weeks - [pishifat](https://osu.ppy.sh/users/3178418) and [Toy](https://osu.ppy.sh/users/2757689) have been hard at work securing a *gigantic* roster of new talent from a variety of genres and musical styles both familiar and fresh that we're super hyped to share with you guys. 
+
+Keep your eyes and ears peeled!
 
 —Ephemeral
 
