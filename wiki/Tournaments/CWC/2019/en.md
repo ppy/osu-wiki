@@ -51,6 +51,43 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
+## Participants
+
+| ![][flag_AR] | **** | **[\[Force\]](https://osu.ppy.sh/u/348467)** |
+| ![][flag_AU] | **** | **[chickennando](https://osu.ppy.sh/u/4841352)** |
+| ![][flag_BE] | **** | **[\[ Seraf \]](https://osu.ppy.sh/u/6283136)** |
+| ![][flag_BR] | **** | **[Hanik](https://osu.ppy.sh/u/2349221)** |
+| ![][flag_CA] | **** | **[Henrick](https://osu.ppy.sh/u/8623922)** |
+| ![][flag_CL] | **** | **[lineqtxz](https://osu.ppy.sh/u/285756)** |
+| ![][flag_CN] | **** | **[Dusk](https://osu.ppy.sh/u/518503)** |
+| ![][flag_CO] | **** | **[Deley-](https://osu.ppy.sh/u/8290364)** |
+| ![][flag_CZ] | **** | **[-\[NetriX\]-](https://osu.ppy.sh/u/9784522)** |
+| ![][flag_DE] | **** | **[Vinci007](https://osu.ppy.sh/u/4691991)** |
+| ![][flag_DK] | **** | **[SharpN](https://osu.ppy.sh/u/3922957)** |
+| ![][flag_FI] | **** | **[forgottentaco](https://osu.ppy.sh/u/5302804)** |
+| ![][flag_FR] | **** | **[AAAAAAAAAAAAHHH](https://osu.ppy.sh/u/4316542)** |
+| ![][flag_GB] | **** | **[Olib](https://osu.ppy.sh/u/3546931)** |
+| ![][flag_HK] | **** | **[Touch Me](https://osu.ppy.sh/u/6645501)** |
+| ![][flag_ID] | **** | **[dika312](https://osu.ppy.sh/u/9155988)** |
+| ![][flag_IT] | **** | **[Karym](https://osu.ppy.sh/u/4982799)** |
+| ![][flag_JP] | **** | **[noraRcat](https://osu.ppy.sh/u/853694)** |
+| ![][flag_KR] | **** | **[Motion](https://osu.ppy.sh/u/3657951)** |
+| ![][flag_MX] | **** | **[daxeroz](https://osu.ppy.sh/u/12123746)** |
+| ![][flag_NL] | **** | **[Sartan](https://osu.ppy.sh/u/3809967)** |
+| ![][flag_NO] | **** | **[Cameragod](https://osu.ppy.sh/u/4023183)** |
+| ![][flag_PH] | **** | **[Bunnrei](https://osu.ppy.sh/u/5297904)** |
+| ![][flag_PL] | **** | **[BoberOfDarkness](https://osu.ppy.sh/u/3396013)** |
+| ![][flag_RO] | **** | **[Shiroi Lelouch](https://osu.ppy.sh/u/3080727)** |
+| ![][flag_RU] | **** | **[VagaNNN](https://osu.ppy.sh/u/10419790)** |
+| ![][flag_SE] | **** | **[Setomi](https://osu.ppy.sh/u/1894511)** |
+| ![][flag_TH] | **** | **[Eito](https://osu.ppy.sh/u/8477520)** |
+| ![][flag_TW] | **** | **[\[-naniwa-\]](https://osu.ppy.sh/u/4936530)** |
+| ![][flag_US] | **** | **[chickenbible](https://osu.ppy.sh/u/1375955)** |
+| ![][flag_VE] | **** | **[\[Aless50\]](https://osu.ppy.sh/u/7293703)** |
+| ![][flag_VN] | **** | **[\[A\]bsolute](https://osu.ppy.sh/u/6403418)** |
+
+---
+
 ## Mappools
 
 _Mappools won't be available until one week before the stage that it is meant to be played_
@@ -185,39 +222,37 @@ _Mappools won't be available until one week before the stage that it is meant to
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_CO]: /wiki/shared/flag/CO.gif
+[flag_CZ]: /wiki/shared/flag/CZ.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
