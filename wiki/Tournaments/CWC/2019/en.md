@@ -256,7 +256,6 @@ _Mappools won't be available until one week before the stage that it is meant to
 [flag_VN]: /wiki/shared/flag/VN.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gi
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_GR]: /wiki/shared/flag/GR.gif
