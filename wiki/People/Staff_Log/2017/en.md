@@ -2,150 +2,150 @@
 
 ## January
 
-- Moved [ToGlette](/users/1076236) to the Global Moderation Team (2017-01-22)
-- Moved [Atrue](/users/1758523) to the Global Moderation Team (2017-01-22)
-- Added [n0ah](/users/3086393) to the Global Moderation Team (2017-01-26)
-- Added [heyronii](/users/5642779) to the Global Moderation Team (2017-01-28)
-- Added [ruexia](/users/385069) to the Global Moderation Team (2017-01-29)
+- Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the Global Moderation Team (2017-01-22)
+- Moved [Atrue](https://osu.ppy.sh/users/1758523) to the Global Moderation Team (2017-01-22)
+- Added [n0ah](https://osu.ppy.sh/users/3086393) to the Global Moderation Team (2017-01-26)
+- Added [heyronii](https://osu.ppy.sh/users/5642779) to the Global Moderation Team (2017-01-28)
+- Added [ruexia](https://osu.ppy.sh/users/385069) to the Global Moderation Team (2017-01-29)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-01-20.
 
-- [Bakari](/users/597957)
-- [Battle](/users/4037545)
-- [F D Flourite](/users/2459589)
-- [Garden](/users/2849992)
-- [Nao Tomori](/users/5364763)
-- [Naxess](/users/8129817)
+- [Bakari](https://osu.ppy.sh/users/597957)
+- [Battle](https://osu.ppy.sh/users/4037545)
+- [F D Flourite](https://osu.ppy.sh/users/2459589)
+- [Garden](https://osu.ppy.sh/users/2849992)
+- [Nao Tomori](https://osu.ppy.sh/users/5364763)
+- [Naxess](https://osu.ppy.sh/users/8129817)
 
 ## February
 
-- Added [Nardoxyribonucleic](/users/876419) to the Quality Assurance Team (2017-02-20)
+- Added [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) to the Quality Assurance Team (2017-02-20)
 
 ## March
 
-- Added [S o h](/users/2234772) to the Global Moderation Team (2017-03-29)
-- Moved [QHideaki13](/users/733998) to the osu! Alumni (2017-03-29)
+- Added [S o h](https://osu.ppy.sh/users/2234772) to the Global Moderation Team (2017-03-29)
+- Moved [QHideaki13](https://osu.ppy.sh/users/733998) to the osu! Alumni (2017-03-29)
 
 ## April
 
-- Moved [Uni](/users/617106) to the Global Moderation Team (2017-04-03)
-- Moved [ErunamoJAZZ](/users/1869764) to the osu! Alumni (2017-04-03)
-- Moved [DakeDekaane](/users/1425253) to the osu! Alumni (2017-04-27)
-- Moved [Desperate-kun](/users/2202645) to the osu! Alumni (2017-04-27)
-- Moved [Fycho](/users/1876867) to the osu! Alumni (2017-04-27)
+- Moved [Uni](https://osu.ppy.sh/users/617106) to the Global Moderation Team (2017-04-03)
+- Moved [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) to the osu! Alumni (2017-04-03)
+- Moved [DakeDekaane](https://osu.ppy.sh/users/1425253) to the osu! Alumni (2017-04-27)
+- Moved [Desperate-kun](https://osu.ppy.sh/users/2202645) to the osu! Alumni (2017-04-27)
+- Moved [Fycho](https://osu.ppy.sh/users/1876867) to the osu! Alumni (2017-04-27)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-04-25.
 
-- [Arrival](/users/1694000)
-- [Benny-](/users/4023183)
-- [Jonawaga](/users/3653035)
-- [Julie](/users/2420987)
-- [Kin](/users/480689)
-- [Skylish](/users/2845958)
-- [Stefan](/users/626907)
-- [Surono](/users/3611370)
-- [thzz](/users/1614839)
+- [Arrival](https://osu.ppy.sh/users/1694000)
+- [Benny-](https://osu.ppy.sh/users/4023183)
+- [Jonawaga](https://osu.ppy.sh/users/3653035)
+- [Julie](https://osu.ppy.sh/users/2420987)
+- [Kin](https://osu.ppy.sh/users/480689)
+- [Skylish](https://osu.ppy.sh/users/2845958)
+- [Stefan](https://osu.ppy.sh/users/626907)
+- [Surono](https://osu.ppy.sh/users/3611370)
+- [thzz](https://osu.ppy.sh/users/1614839)
 
 ## May
 
-- Added [Cryptic](/users/3728904) to the Quality Assurance Team (2017-05-02)
-- Added [Doyak](/users/2046893) to the Quality Assurance Team (2017-05-03)
-- Added [WalterToro](/users/5281416) to the Global Moderation Team (2017-05-22)
+- Added [Cryptic](https://osu.ppy.sh/users/3728904) to the Quality Assurance Team (2017-05-02)
+- Added [Doyak](https://osu.ppy.sh/users/2046893) to the Quality Assurance Team (2017-05-03)
+- Added [WalterToro](https://osu.ppy.sh/users/5281416) to the Global Moderation Team (2017-05-22)
 
 ## June
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-06-30.
 
-- [-Mo-](/users/2202163)
-- [Delis](/users/1603923)
-- [Doormat](/users/3230571)
-- [Hobbes2](/users/8157492)
-- [Kurai](/users/77089)
-- [Mir](/users/8688812)
-- [Plaudible](/users/7149815)
-- [squirrelpascals](/users/6151332)
-- [Voli](/users/2522275)
+- [-Mo-](https://osu.ppy.sh/users/2202163)
+- [Delis](https://osu.ppy.sh/users/1603923)
+- [Doormat](https://osu.ppy.sh/users/3230571)
+- [Hobbes2](https://osu.ppy.sh/users/8157492)
+- [Kurai](https://osu.ppy.sh/users/77089)
+- [Mir](https://osu.ppy.sh/users/8688812)
+- [Plaudible](https://osu.ppy.sh/users/7149815)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- [Voli](https://osu.ppy.sh/users/2522275)
 
 ## August
 
-- Moved [alacat](/users/869782) to the osu! Alumni (2017-08-20)
+- Moved [alacat](https://osu.ppy.sh/users/869782) to the osu! Alumni (2017-08-20)
 
 ## September
 
-- Added [Lassikko](/users/7253731) to the Global Moderation Team (2017-09-11)
-- Moved [Pereira006](/users/537344) to the osu! Alumni (2017-09-21)
-- Moved [Shockwave](/users/251631) to the osu! Alumni (2017-09-21)
+- Added [Lassikko](https://osu.ppy.sh/users/7253731) to the Global Moderation Team (2017-09-11)
+- Moved [Pereira006](https://osu.ppy.sh/users/537344) to the osu! Alumni (2017-09-21)
+- Moved [Shockwave](https://osu.ppy.sh/users/251631) to the osu! Alumni (2017-09-21)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-09-10.
 
-- [Asherz007](/users/9014047)
-- [Gabe](/users/654108)
-- [frukoyurdakul](/users/7612550)
-- [Taikocracy](/users/6256027)
-- [Weber](/users/6410432)
-- [Litharrale](/users/3189995)
-- [Electoz](/users/6485263)
-- [alienflybot](/users/636114)
-- [neonat](/users/1561995)
-- [xfraczynho](/users/2192669)
-- [Chromoxx](/users/1881639)
+- [Asherz007](https://osu.ppy.sh/users/9014047)
+- [Gabe](https://osu.ppy.sh/users/654108)
+- [frukoyurdakul](https://osu.ppy.sh/users/7612550)
+- [Taikocracy](https://osu.ppy.sh/users/6256027)
+- [Weber](https://osu.ppy.sh/users/6410432)
+- [Litharrale](https://osu.ppy.sh/users/3189995)
+- [Electoz](https://osu.ppy.sh/users/6485263)
+- [alienflybot](https://osu.ppy.sh/users/636114)
+- [neonat](https://osu.ppy.sh/users/1561995)
+- [xfraczynho](https://osu.ppy.sh/users/2192669)
+- [Chromoxx](https://osu.ppy.sh/users/1881639)
 
 ## October
 
-- Moved [mancuso\_JM\_](/users/521568) to the Global Moderation Team (2017-10-03)
-- Removed [Cryptic](/users/3728904) from the Quality Assurance Team (2017-10-03)
-- Added [Naxess](/users/8129817) to the Quality Assurance Team (2017-10-05)
-- Added [Raiden](/users/2239480) to the Quality Assurance Team (2017-10-05)
-- Removed [IamKwaN](/users/1856463) from the Global Moderation Team (2017-10-12)
-- Moved [n0ah](/users/3086393) to the osu! Alumni (2017-10-12)
-- Moved [Stefan](/users/626907) to the osu! Alumni (2017-10-12)
-- Moved [IamKwaN](/users/1856463) to the osu! Alumni (2017-10-14)
-- Added [Death](/users/3242450) to the Global Moderation Team and Support Team (2017-10-20)
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) to the Global Moderation Team (2017-10-03)
+- Removed [Cryptic](https://osu.ppy.sh/users/3728904) from the Quality Assurance Team (2017-10-03)
+- Added [Naxess](https://osu.ppy.sh/users/8129817) to the Quality Assurance Team (2017-10-05)
+- Added [Raiden](https://osu.ppy.sh/users/2239480) to the Quality Assurance Team (2017-10-05)
+- Removed [IamKwaN](https://osu.ppy.sh/users/1856463) from the Global Moderation Team (2017-10-12)
+- Moved [n0ah](https://osu.ppy.sh/users/3086393) to the osu! Alumni (2017-10-12)
+- Moved [Stefan](https://osu.ppy.sh/users/626907) to the osu! Alumni (2017-10-12)
+- Moved [IamKwaN](https://osu.ppy.sh/users/1856463) to the osu! Alumni (2017-10-14)
+- Added [Death](https://osu.ppy.sh/users/3242450) to the Global Moderation Team and Support Team (2017-10-20)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-10-24.
 
-- [celerih](/users/4696296)
-- [Cerulean Veyron](/users/1886524)
-- [Chewin](/users/617323)
-- [DeRandom Otaku](/users/5156153)
-- [Halfslashed](/users/4598899)
-- [MaridiuS](/users/4496961)
-- [Kisses](/users/4276114)
-- [Sinnoh](/users/4236057)
+- [celerih](https://osu.ppy.sh/users/4696296)
+- [Cerulean Veyron](https://osu.ppy.sh/users/1886524)
+- [Chewin](https://osu.ppy.sh/users/617323)
+- [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
+- [Halfslashed](https://osu.ppy.sh/users/4598899)
+- [MaridiuS](https://osu.ppy.sh/users/4496961)
+- [Kisses](https://osu.ppy.sh/users/4276114)
+- [Sinnoh](https://osu.ppy.sh/users/4236057)
 
 ## December
 
-- Added [Protastic101](/users/6712747) to the Quality Assurance Team (2017-12-11)
-- Moved [OnosakiHito](/users/290128) to the osu! Alumni (2017-12-11)
-- Moved [MrSergio](/users/2581696) to the osu! Alumni (2017-12-17)
-- Moved [Loctav](/users/71366) to the osu! Alumni (2017-12-17)
-- Moved [n0ah](/users/3086393) to the Global Moderation Team (2017-12-26)
-- Added [Edu](/users/5618109) to the Global Moderation Team (2017-12-29)
-- Added [Clobohne](/users/499343) to the Global Moderation Team (2017-12-29)
-- Added [Kurai](/users/77089) to the Quality Assurance Team (2017-12-31)
+- Added [Protastic101](https://osu.ppy.sh/users/6712747) to the Quality Assurance Team (2017-12-11)
+- Moved [OnosakiHito](https://osu.ppy.sh/users/290128) to the osu! Alumni (2017-12-11)
+- Moved [MrSergio](https://osu.ppy.sh/users/2581696) to the osu! Alumni (2017-12-17)
+- Moved [Loctav](https://osu.ppy.sh/users/71366) to the osu! Alumni (2017-12-17)
+- Moved [n0ah](https://osu.ppy.sh/users/3086393) to the Global Moderation Team (2017-12-26)
+- Added [Edu](https://osu.ppy.sh/users/5618109) to the Global Moderation Team (2017-12-29)
+- Added [Clobohne](https://osu.ppy.sh/users/499343) to the Global Moderation Team (2017-12-29)
+- Added [Kurai](https://osu.ppy.sh/users/77089) to the Quality Assurance Team (2017-12-31)
 
-### New BN additions
+### Beatmap Nominator additions
 
 All users listed below were added on 2017-12-11.
 
-- [Aloda](/users/1190127)
-- [Garalulu](/users/757783)
-- [Hareimu](/users/4138746)
-- [Kamikaze](/users/2124783)
-- [Nokashi](/users/5431196)
-- [Sorcerer](/users/1913190)
-- [Tofu1222](/users/6089608)
+- [Aloda](https://osu.ppy.sh/users/1190127)
+- [Garalulu](https://osu.ppy.sh/users/757783)
+- [Hareimu](https://osu.ppy.sh/users/4138746)
+- [Kamikaze](https://osu.ppy.sh/users/2124783)
+- [Nokashi](https://osu.ppy.sh/users/5431196)
+- [Sorcerer](https://osu.ppy.sh/users/1913190)
+- [Tofu1222](https://osu.ppy.sh/users/6089608)
 
-### BN removals
+### Beatmap Nominator removals
 
-- [Monstrata](/users/2706438) - less than stellar behaviour over extended periods of time (2017-12-19)
+- [Monstrata](https://osu.ppy.sh/users/2706438) - less than stellar behaviour over extended periods of time (2017-12-19)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: Fractal Dreamers"
-permalink: http://osunews.tumblr.com/post/161358080313/new-featured-artist-fractal-dreamers
 date: 2017-06-02 12:45:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161358080313/new-featured-artist-fractal-dreamers
 ---
@@ -10,7 +9,7 @@ Descend into the Kingdom of Silence with the latest talent to join the Featured 
 
 [![](https://assets.ppy.sh/artists/15/header.jpg)](https://osu.ppy.sh/beatmaps/artists/15)
 
-Something familiar yet fresh, the **Fractal Dreamers** project is the culmination of two artists with completely different musical backgrounds achieving something new together. 
+Something familiar yet fresh, the **Fractal Dreamers** project is the culmination of two artists with completely different musical backgrounds achieving something new together.
 
 The ever-talented [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) and his wonderful wife, a classically-trained pianist, married their musical expertise together to create something really quite spectacular.
 

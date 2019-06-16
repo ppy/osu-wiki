@@ -1,16 +1,14 @@
-Submission
-============
+# Submission
 
-[Beatmappers](/wiki/Glossary/#beatmapper) can submit either [Work-In-Progress (WIP)](/wiki/Glossary/#wip) beatmaps or beatmaps they deem complete (2 difficulties needed) to the [Beatmap's](https://osu.ppy.sh/forum/12) [Work In Progress/Help](https://osu.ppy.sh/forum/10) and [Pending Beatmaps](https://osu.ppy.sh/forum/6) subforums respectively, using the in-game **Beatmap Submission System (BSS)** `Ctrl` + `Shift` + `U`.
+[Beatmappers](/wiki/Glossary/#beatmapper) can submit either [Work-In-Progress (WIP)](/wiki/Glossary/#wip) beatmaps or beatmaps they deem complete (2 difficulties needed) to the [Beatmap's](https://osu.ppy.sh/community/forums/12) [Work In Progress/Help](https://osu.ppy.sh/community/forums/10) and [Pending Beatmaps](https://osu.ppy.sh/community/forums/6) subforums respectively, using the in-game **Beatmap Submission System (BSS)** `Ctrl` + `Shift` + `U`.
 
 Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads the beatmap with all its elements (mp3, video, storyboarding, etc.) to osu!'s server and creates a thread with a download link in the relevant forum. Moderators and other forum members can then comment and offer feedback on the beatmap. Once a beatmap has the approval of at least two Beatmap Nominaters and the QAT, it is ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked.
 
-![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked beatmaps are moved to the [Ranked/Approved Beatmaps](https://osu.ppy.sh/forum/14) subforum, added to the [Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist), included in the Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist), and appear in their profile. The scores achieved when playing them count towards a player's Total Ranked Score in the [Player Rankings](https://osu.ppy.sh/p/playerranking) and the ratings players can give them count towards their Beatmapper Rank.
+![Heart icon](/wiki/shared/icon/heart.gif "Heart icon") Ranked beatmaps are moved to the [Ranked/Approved Beatmaps](https://osu.ppy.sh/community/forums/14) subforum, added to the [Ranked Beatmap listing](https://osu.ppy.sh/p/beatmaplist), included in the Ranked [Beatmap packs](https://osu.ppy.sh/p/packlist), and appear in their profile. The scores achieved when playing them count towards a player's Total Ranked Score in the [Player Rankings](https://osu.ppy.sh/p/playerranking) and the ratings players can give them count towards their Beatmapper Rank.
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
-Submission
------------
+## Submission
 
 ### Before submitting a beatmap
 
@@ -30,9 +28,9 @@ If you have since added, removed, or changed its mp3 file, video and/or storyboa
 
 After you've clicked the "Upload Files" button, the Beatmap Submission System will start uploading your files according to the submission method you selected. The bar at the bottom illustrates the upload's progress. In this dialog box, you can edit the subject and first message of the forum topic the BSS automatically creates for your beatmap. You can also choose the subforum your beatmap's thread is submitted to. Changing your selection when updating your beatmap will simply move the entire topic to the other forum.
 
-Choose **Work In Progress/Help** to post your beatmap's thread in the [Work In Progress/Help](https://osu.ppy.sh/forum/10) subforum. Choose this when you feel you need help with one or more specific aspects of your beatmap (such as timing) or just to share a partly finished version of your beatmap with the community and get general comments and feedback.
+Choose **Work In Progress/Help** to post your beatmap's thread in the [Work In Progress/Help](https://osu.ppy.sh/community/forums/10) subforum. Choose this when you feel you need help with one or more specific aspects of your beatmap (such as timing) or just to share a partly finished version of your beatmap with the community and get general comments and feedback.
 
-Choose **Pending Beatmap** to post your beatmap's thread in the [Pending Beatmaps](https://osu.ppy.sh/forum/6) subforum. Choose this when you believe your beatmap more or less follows the basic approval criteria and you wish it to be reviewed by the moderators to get Ranked. You are strongly encouraged to have at least close to correct timing settings before submitting a beatmap to the Pending Beatmaps forum, and your beatmap must have **at least two difficulties.**
+Choose **Pending Beatmap** to post your beatmap's thread in the [Pending Beatmaps](https://osu.ppy.sh/community/forums/6) subforum. Choose this when you believe your beatmap more or less follows the basic approval criteria and you wish it to be reviewed by the moderators to get Ranked. You are strongly encouraged to have at least close to correct timing settings before submitting a beatmap to the Pending Beatmaps forum, and your beatmap must have **at least two difficulties.**
 
 You can also select the following via checkboxes under the message input box:
 
@@ -117,8 +115,7 @@ Again, remember that there can be *many more* possible problems with a beatmap. 
 
 Please see [Ranking Criteria](/wiki/Ranking_Criteria) for further information on this.
 
-Questions
-------------
+## Questions
 
 ### My map's not getting modded/ranked...
 

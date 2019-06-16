@@ -1,13 +1,13 @@
 # Team di supporto
 
-Il **Team di supporto** (conosciuto anche come **Support Team Redux**, da non essere confuso con l'account support team, colloquialmente conosciuto come "Support Team") sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (escludendo [Tornei](https://osu.ppy.sh/forum/55) and [Techniche di mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Richieste di Funzionalità](https://osu.ppy.sh/forum/4), and [Aiuto](https://osu.ppy.sh/forum/5).
+Il **Team di supporto** (conosciuto anche come **Support Team Redux**, da non essere confuso con l'account support team, colloquialmente conosciuto come "Support Team") sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (escludendo [Tornei](https://osu.ppy.sh/community/forums/55) and [Techniche di mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4), and [Aiuto](https://osu.ppy.sh/community/forums/5).
 
 ## Responsabilità
 
 Il Team di supporto è responsabile di:
 
 1.  Provare e/o confermare segnalazioni di bug per permettere agli sviluppatori di conoscere i problemi e risolverli.
-2.  Oraganizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/forum/4) e [Aiuto](https://osu.ppy.sh/forum/5) e segnarle come Risolte, Confermate, Invalide, Duplicate e  Aggiunte.
+2.  Oraganizzare le discussioni in [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4) e [Aiuto](https://osu.ppy.sh/community/forums/5) e segnarle come Risolte, Confermate, Invalide, Duplicate e  Aggiunte.
 
 Se qualcuno ha bisogno di qualche assistenza in questi subforum, loro dovrebbero essere i primi a cui bisogna rivolgersi.
 
@@ -23,13 +23,11 @@ Se qualcuno ha bisogno di qualche assistenza in questi subforum, loro dovrebbero
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Svedese, Spagnolo |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Tedesco |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spagnolo |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif

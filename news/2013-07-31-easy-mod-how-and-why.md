@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Easy Mod: How and Why"
-permalink: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 ---
+
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?
 
 **What is Easy Mod?**
@@ -15,11 +15,11 @@ The first thing that goes through peoples' minds when seeing the Easy mod is "Oh
 
 What most people never realize is that, when trained and applied properly, the Easy mod is an incredible tool, allowing players to get much higher combos and better scores than their modless peers. HP drain too high? Easy takes care of that! Having trouble aiming? Bigger circles always help! OD9 getting you down? Why not make it OD4.5? Even if a map still isn't quite easy enough after that, the extra lives will let you push through an extra difficult part and go on to complete the map. As for the 50% score decrease, NoFail does that too, and for no significant advantage – if you can't pass the map normally, why not use Easy instead of NoFail, and rack up a few more points along the way? And let's not forget how amazing it feels to perform so well that you end up with a top 50 rank using the Easy mod! In fact, the main reason why people opt not to use Easy, and the huge defining factor in its special form of difficulty is:
 
-![](https://lh4.googleusercontent.com/N-GVBbAX7OYQeTalZfZGUzO3olvwS6eWo0OdfhgEq2sfb1lr536XNkEpguiD90Ms6wJ31FILJfHDpvB2kngMDgRoOFy1e3SF8ADq4OfOXqUtDDJAmhZcTyAl)
+![](/wiki/shared/news/2013-07-31-easy-mod-how-and-why/image02.jpg)
 
-Some maps have very small circles and strange patterns, requiring weird mouse movements and heavy precision…
+Some maps have very small circles and strange patterns, requiring weird mouse movements and heavy precision...
 
-![](https://lh6.googleusercontent.com/IYHckM9M4diKS-sHulbs8Yv_IY4HL0SKVeEZNulN_cwtFFdpAO9rSznLSWoXYWg9C_XFOaEuA7OG2ZgZAtsuKlmUJrI6BTiBrLnqSluhEk3wxdj6_69p-qrW)
+![](/wiki/shared/news/2013-07-31-easy-mod-how-and-why/image03.jpg)
 
 But with the Easy mod, the circles become much bigger, allowing the player to simply move their cursor in a straight line to hit the notes.
 
@@ -39,11 +39,11 @@ Here are a few tips to make reading the Easy mod a little bit easier, too:
 
 **What are some good practice maps?**
 
-Hmm… now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/b/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
+Hmm... now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/beatmaps/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
 
 **And finally, what skin works well?**
 
-You may be surprised to hear this, but in my humble opinion, the best skin for playing Easy mod is none other than the osu! default skin! The combo colors are very distinct from one another, the combo numbers are very readable, and the hitbursts don't completely hide circles, while still being visible, which is a huge help for Easy+Hidden mods. Unfortunately, I won't go to very much detail about that, since Easy+Hidden is a completely different beast, and it would nearly take another article entirely to explain its nuances. I highly, highly recommend avoiding it until you are very proficient at Easy alone…
+You may be surprised to hear this, but in my humble opinion, the best skin for playing Easy mod is none other than the osu! default skin! The combo colors are very distinct from one another, the combo numbers are very readable, and the hitbursts don't completely hide circles, while still being visible, which is a huge help for Easy+Hidden mods. Unfortunately, I won't go to very much detail about that, since Easy+Hidden is a completely different beast, and it would nearly take another article entirely to explain its nuances. I highly, highly recommend avoiding it until you are very proficient at Easy alone...
 
 If you have any further questions, feel free to ask me via PM, either in-game or on the forums. I'm always happy to discuss the Easy mod and help out those who want to learn it!
 

@@ -1,5 +1,4 @@
-Hit Objekte
-============
+# Hit Objekte
 
 Ein Hit-Objekt ist das Kernelement in osu!. Es gibt drei Arten von Hit-Objekten:
 
@@ -9,15 +8,13 @@ Ein Hit-Objekt ist das Kernelement in osu!. Es gibt drei Arten von Hit-Objekten:
 
 Hitcircle und Slider kommen sehr häufig vor, während Spinner nur gelegentlich auftauchen. Alles, mit dem sie im Verlauf einer Beatmap interagieren, ist ein Hit-Objekt.
 
-Hit Circle
-----------
+## Hit Circle
 
 ![Ein Hit Circle vom Standardskin.](Hit_circle.png "Ein Hit Circle vom Standardskin.")
 
 Hit Circle sind sogenannte Hit Marker aus den [DS Spielen](/wiki/Glossary). Hierbei handelt es sich um einen farbigen Kreis, in dessen Zentrum eine Zahl (die von der Platzierung in einem [Combo](/wiki/Glossary) abhängig ist) steht, währenddessen schrumpft ein weiterer Kreis, der [Approach Circle](/wiki/Glossary), auf den Hit Circle zu. Sobald der Approach Circle am Rand des Hit Cricles angekommen ist, sollte der Spieler auf den Hit Circle [tappen](/wiki/Glossary), je nach Genauigkeit erhält der Spieler eine gewisse Punktzahl (0, 50, 100 oder 300) und kann durch den letzten Hit Circle am Ende eines Combos einen [Beat!](/wiki/Score) oder einen [Elite Beat!](/wiki/Score) erzielen. Der Spieler erhält durch regelmäßiges Tappen einen kleinen Schub zur [Life Bar](/wiki/Glossary), einen großen Schub erhält der Spieler, wenn es sich um den letzten Hit Circle vom Combo handelt.
 
-Slider
-------
+## Slider
 
 ![Ein Slider vom Standardskin.](Slider2.jpg "Ein Slider vom Standardskin.")
 
@@ -27,8 +24,7 @@ Slider Ticks sind kleine Kreise, die in bestimmten Intervallen im Slider auftauc
 
 Slider werden oft bei langen Tönen in der Musik verwendet. Sie werden ebenfalls genutzt, um den Rhythmus weiter zu halten (speziell wenn der Rhythmus ohne den Slider zu komplex wäre oder Hit Circle unpassend dafür wären) und kommen auch als Ersatz für Streams bei einfachen Schwierigkeitsgrade zur Verwendung.
 
-Spinner
--------
+## Spinner
 
 ![Ein Spinner vom Standardskin.](Spinner.jpg "Ein Spinner vom Standardskin.")
 

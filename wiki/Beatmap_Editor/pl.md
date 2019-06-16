@@ -1,5 +1,4 @@
-Edytor Beatmap
-==============
+# Edytor Beatmap
 
 ![Tryb kompozycji osu! w trybie okienkowym](Compose/Compose.png "Tryb kompozycji osu! w trybie okienkowym")
 
@@ -10,8 +9,7 @@ Edytor Beatmap
 -   [Rytmika](/wiki/Beatmap_Editor/Timing): Jest to miejsce gdzie ustawione jest opóźnienie i BPM. Można tutaj także edytować dźwięki, jeżeli nie są stałe w mapie.
 -   [Ustawienia mapy](/wiki/Beatmap_Editor/Song_Setup): Jest to miejsce gdzie można zmienić różne opcje mapy (od kolorów combo do ustawień poziomów trudności.
 
-Powiązane artykuły
-------------------
+## Powiązane artykuły
 
 -   [Mapowanie](/wiki/Beatmapping) (podstawy mapowania)
 -   [Podziałka czasowa](/wiki/Beatmap_Editor/Beat_Snap_Divisor)

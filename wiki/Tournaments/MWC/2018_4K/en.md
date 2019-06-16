@@ -5,6 +5,7 @@ tags:
 - MWC2018
 - MWC4K 2018
 ---
+
 # osu!mania 4K World Cup 2018
 
 ![MWC 4K 2018 Logo](img/logo.png)
@@ -107,103 +108,103 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Finals
 
 - Freemod
-	- [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](http://osu.ppy.sh/beatmaps/1778859&m=3)
-	- [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](http://osu.ppy.sh/beatmaps/1782630&m=3)
-	- [LeaF - I \(Tidek\) \[Ego\]](http://osu.ppy.sh/beatmaps/1783820&m=3)
-	- [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](http://osu.ppy.sh/beatmaps/1778183&m=3)
-	- [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](http://osu.ppy.sh/beatmaps/1783679&m=3)
-	- [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](http://osu.ppy.sh/beatmaps/1783790&m=3)
-	- [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](http://osu.ppy.sh/beatmaps/1780964&m=3)
-	- [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](http://osu.ppy.sh/beatmaps/1782639&m=3)
-	- [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](http://osu.ppy.sh/beatmaps/1783684&m=3)
-	- [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](http://osu.ppy.sh/beatmaps/1781994&m=3)
-	- [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](http://osu.ppy.sh/beatmaps/1783616&m=3)
-	- [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](http://osu.ppy.sh/beatmaps/1783661&m=3)
-	- [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](http://osu.ppy.sh/beatmaps/1783622&m=3)
-	- [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](http://osu.ppy.sh/beatmaps/1783836&m=3)
-	- [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](http://osu.ppy.sh/beatmaps/1783636&m=3)
+  - [Yuuna Kamishiro - Shrill False \(Hydria\) \[Lunatic - 0.95x\]](https://osu.ppy.sh/beatmaps/1778859&m=3)
+  - [Kommisar - Turkey Turkey \(Gekido-\) \[LN Master\]](https://osu.ppy.sh/beatmaps/1782630&m=3)
+  - [LeaF - I \(Tidek\) \[Ego\]](https://osu.ppy.sh/beatmaps/1783820&m=3)
+  - [Kopophobia & Ajataa - Starfall \(riktoi\) \[Planetary Annihilation 1.1x\]](https://osu.ppy.sh/beatmaps/1778183&m=3)
+  - [Hiro - VERTeX \(Raveille\) \[Zenith 1.05x\]](https://osu.ppy.sh/beatmaps/1783679&m=3)
+  - [LeaF - Wizdomiot \(Kamikaze\) \[The Jealousy Beneath the Earth's Crust\]](https://osu.ppy.sh/beatmaps/1783790&m=3)
+  - [Zero Hero - Bass Drop \(Guilhermeziat\) \[Bass Flop 1.05\]](https://osu.ppy.sh/beatmaps/1780964&m=3)
+  - [Aquellex - Tachyon Beam Cannon \(Gekido-\) \[Destruction\]](https://osu.ppy.sh/beatmaps/1782639&m=3)
+  - [Garigari Samushi - larva \(Raveille\) \[Magnesioferrite\]](https://osu.ppy.sh/beatmaps/1783684&m=3)
+  - [The Queenstons - Amber Starlight \(IcyWorld\) \[Collab Beginner\]](https://osu.ppy.sh/beatmaps/1781994&m=3)
+  - [Venetian Snares - Contain \(Halogen-\) \[Genesis\]](https://osu.ppy.sh/beatmaps/1783616&m=3)
+  - [teranoid & MC Natsack ft. good-cool - M.A.G.I.C -speed ball- \(Pope Gadget\) \[INSANE\]](https://osu.ppy.sh/beatmaps/1783661&m=3)
+  - [FrAAAAms - beepbit futures \(Daikyi\) \[Prophecy\]](https://osu.ppy.sh/beatmaps/1783622&m=3)
+  - [Nanahoshi Kangengakudan - Talent Shredder \(juankristal\) \[Timing Hell\]](https://osu.ppy.sh/beatmaps/1783836&m=3)
+  - [DJ Mass MAD Izm\* - Shakunetsu Pt.2 Long Train Running \(Ciel\) \[yoooo!\]](https://osu.ppy.sh/beatmaps/1783636&m=3)
 - Tiebreaker
-	- **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](http://osu.ppy.sh/beatmaps/1563688&m=3)**
+  - **[Camellia - GHOST \(Gekido-\) \[Inconspicuous \(231bpm\)\]](https://osu.ppy.sh/beatmaps/1563688&m=3)**
 
 ### Semifinals
 
 - Freemod
-	- [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](http://osu.ppy.sh/beatmaps/1384837&m=3)
-	- [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](http://osu.ppy.sh/beatmaps/1723938&m=3)
-	- [Camellia - Chirality \(Abraxos\) \[Kheir\]](http://osu.ppy.sh/beatmaps/1440557&m=3)
-	- [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](http://osu.ppy.sh/beatmaps/1777377&m=3)
-	- [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](http://osu.ppy.sh/beatmaps/1777378&m=3)
-	- [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](http://osu.ppy.sh/beatmaps/1770257&m=3)
-	- [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1771900&m=3)
-	- [Chroma - I \(Guilhermeziat\) \[You\]](http://osu.ppy.sh/beatmaps/1592359&m=3)
-	- [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](http://osu.ppy.sh/beatmaps/1576797&m=3)
-	- [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](http://osu.ppy.sh/beatmaps/1665871&m=3)
-	- [Coakira - KAMISORI \(Civilization\) \[ERADICATE\]](http://osu.ppy.sh/beatmaps/1659079&m=3)
-	- [Glamour Of The Kill - A Hope In Hell \(Halogen-\) \[Hopeless\]](http://osu.ppy.sh/beatmaps/1777343&m=3)
-	- [Neil Cicierega - Wallspin \(Pope Gadget\) \[Wonderround \[262.5\]\]](http://osu.ppy.sh/beatmaps/1777424&m=3)
-	- [Tak - SINister Evolution \(Daikyi\) \[SVil\]](http://osu.ppy.sh/beatmaps/1777438&m=3)
-	- [MDK - Press Start \(juankristal\) \[1up\]](http://osu.ppy.sh/beatmaps/1777456&m=3)
+  - [Yuuyu - endleSSStation \(Frums Shuden Bootleg\) \(Elekton\) \[last train\]](https://osu.ppy.sh/beatmaps/1384837&m=3)
+  - [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop \(Unknown\_player\) \[qqq's LNoli Pop\]](https://osu.ppy.sh/beatmaps/1723938&m=3)
+  - [Camellia - Chirality \(Abraxos\) \[Kheir\]](https://osu.ppy.sh/beatmaps/1440557&m=3)
+  - [TAG underground overlay - Over The "Period" \(Tidek\) \[Edit\]](https://osu.ppy.sh/beatmaps/1777377&m=3)
+  - [kemu feat.GUMI - Life Reset Button \(Kamikaze\) \[New Game Plus w/ Raveille\]](https://osu.ppy.sh/beatmaps/1777378&m=3)
+  - [Betwixt & Between - out of Blue \(Shoegazer\) \[Abyss \(181bpm\)\]](https://osu.ppy.sh/beatmaps/1770257&m=3)
+  - [Lite Show Magic - TRICKL4SH 220 \(22,000 Power Extended\) \(Gekido-\) \[MAXIMUM\]](https://osu.ppy.sh/beatmaps/1771900&m=3)
+  - [Chroma - I \(Guilhermeziat\) \[You\]](https://osu.ppy.sh/beatmaps/1592359&m=3)
+  - [Kobaryo - The Lightning Sword \(AutotelicBrown\) \[Ayumu's ascension\]](https://osu.ppy.sh/beatmaps/1576797&m=3)
+  - [knot - cold planet \(Kamikaze\) \[Everybody Dance!\]](https://osu.ppy.sh/beatmaps/1665871&m=3)
+  - [Coakira - KAMISORI \(Civilization\) \[ERADICATE\]](https://osu.ppy.sh/beatmaps/1659079&m=3)
+  - [Glamour Of The Kill - A Hope In Hell \(Halogen-\) \[Hopeless\]](https://osu.ppy.sh/beatmaps/1777343&m=3)
+  - [Neil Cicierega - Wallspin \(Pope Gadget\) \[Wonderround \[262.5\]\]](https://osu.ppy.sh/beatmaps/1777424&m=3)
+  - [Tak - SINister Evolution \(Daikyi\) \[SVil\]](https://osu.ppy.sh/beatmaps/1777438&m=3)
+  - [MDK - Press Start \(juankristal\) \[1up\]](https://osu.ppy.sh/beatmaps/1777456&m=3)
 - Tiebreaker
-	- **[Infected Mushroom - Sa'eed \(Pope Gadget\) \[Icy X - Tiebreaker Edition\]](http://osu.ppy.sh/beatmaps/1777431&m=3)**
+  - **[Infected Mushroom - Sa'eed \(Pope Gadget\) \[Icy X - Tiebreaker Edition\]](https://osu.ppy.sh/beatmaps/1777431&m=3)**
 
 ### Quarterfinals
 
 - Freemod
-	- [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](http://osu.ppy.sh/beatmaps/1765782&m=3)
-	- [Hommarju - Rock It \(Mage\) \[aLNother\]](http://osu.ppy.sh/beatmaps/1532410&m=3)
-	- [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](http://osu.ppy.sh/beatmaps/1697375&m=3)
-	- [The Flashbulb - Please Don't Remember \(Gekido-\) \[Amnesia\]](http://osu.ppy.sh/beatmaps/1698295&m=3)
-	- [Chroma - Made In Love \(Lude\) \[Made by Jakads' Exhaust\]](http://osu.ppy.sh/beatmaps/1742170&m=3)
-	- [Blazar - Impulse \(Guilhermeziat\) \[Beginner\]](http://osu.ppy.sh/beatmaps/1650834&m=3)
-	- [Fall Out Boy - Thnks Fr Th Mmrs \(Razzy\) \[Thnks Fr Th Ndls\]](http://osu.ppy.sh/beatmaps/1563668&m=3)
-	- [ATC - Around the World \(Wh1teh\) \[!!\]](http://osu.ppy.sh/beatmaps/1766006&m=3)
-	- [Roselia - ONENESS \(PiraTom\) \[LoneNess\]](http://osu.ppy.sh/beatmaps/1545982&m=3)
-	- [Sakuzyo - Toy's 3 minutes war \(Halogen-\) \[Speedy Trinket\]](http://osu.ppy.sh/beatmaps/1770280&m=3)
-	- [sun3 - AA \(Elekton\) \[beginner\]](http://osu.ppy.sh/beatmaps/1460619&m=3)
-	- [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](http://osu.ppy.sh/beatmaps/1770185&m=3)
-	- [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](http://osu.ppy.sh/beatmaps/1770141&m=3)
+  - [ANNERLEY GORDON - ON MY OWN  2006 \(Sped Up Ver.\) \(Jole\) \[0.95x\]](https://osu.ppy.sh/beatmaps/1765782&m=3)
+  - [Hommarju - Rock It \(Mage\) \[aLNother\]](https://osu.ppy.sh/beatmaps/1532410&m=3)
+  - [sakuraburst - dragonlands \(TheToaphster\) \[myth\]](https://osu.ppy.sh/beatmaps/1697375&m=3)
+  - [The Flashbulb - Please Don't Remember \(Gekido-\) \[Amnesia\]](https://osu.ppy.sh/beatmaps/1698295&m=3)
+  - [Chroma - Made In Love \(Lude\) \[Made by Jakads' Exhaust\]](https://osu.ppy.sh/beatmaps/1742170&m=3)
+  - [Blazar - Impulse \(Guilhermeziat\) \[Beginner\]](https://osu.ppy.sh/beatmaps/1650834&m=3)
+  - [Fall Out Boy - Thnks Fr Th Mmrs \(Razzy\) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668&m=3)
+  - [ATC - Around the World \(Wh1teh\) \[!!\]](https://osu.ppy.sh/beatmaps/1766006&m=3)
+  - [Roselia - ONENESS \(PiraTom\) \[LoneNess\]](https://osu.ppy.sh/beatmaps/1545982&m=3)
+  - [Sakuzyo - Toy's 3 minutes war \(Halogen-\) \[Speedy Trinket\]](https://osu.ppy.sh/beatmaps/1770280&m=3)
+  - [sun3 - AA \(Elekton\) \[beginner\]](https://osu.ppy.sh/beatmaps/1460619&m=3)
+  - [Nekomata Master - Scars of FAUNA \(Raveille\) \[Orchid\]](https://osu.ppy.sh/beatmaps/1770185&m=3)
+  - [sasakure.UK - Jack-the-Ripper \(Daikyi\) \[Serial\]](https://osu.ppy.sh/beatmaps/1770141&m=3)
 - Tiebreaker
-	- **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]](https://osu.ppy.sh/beatmaps/1480322)**
+  - **[uno - #FairyJoke #CAMELLIAS\_CHAFFANDTWERKANDCORE\_REMIX \(\_underjoy\) \[Chill\]](https://osu.ppy.sh/beatmaps/1480322)**
 
 ### Round of 16
 
 **[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
 
 - Freemod
-	- [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](http://osu.ppy.sh/beatmaps/1514659&m=3)
-	- [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](http://osu.ppy.sh/beatmaps/1616973&m=3)
-	- [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](http://osu.ppy.sh/beatmaps/1190604&m=3)
-	- [xi underground - TU-MA-MI ALL-NIGHTER \(Halogen-\) \[Expert\]](http://osu.ppy.sh/beatmaps/992960&m=3)
-	- [Camellia - NEURO CLOUD-9 \(Couil\) \[Extinction \[cut vers.\] \(new SVs\)\]](http://osu.ppy.sh/beatmaps/1335694&m=3)
-	- [naotyu- - Her Majesty \(Elementaires\) \[Another\]](http://osu.ppy.sh/beatmaps/1282858&m=3)
-	- [fourfolium - SAKURA Skip \(Niima\) \[Aoba is the best\]](http://osu.ppy.sh/beatmaps/1107708&m=3)
-	- [DJKurara - Japanese Transformation \(XeoStyle\) \[Xeo VS \_UJ Insane\]](http://osu.ppy.sh/beatmaps/1201654&m=3)
-	- [Nekomata Master - Beyond The Earth \(Kamikaze\) \[Spiritual\]](http://osu.ppy.sh/beatmaps/1764098&m=3)
-	- [DET - Monk2 \(Elekton\) \[zen\]](http://osu.ppy.sh/beatmaps/1279446&m=3)
-	- [GTA feat. Sam Bruno - Red Lips \(Mendus Remix\) \(Hydria\) \[Hard \(SV\)\]](http://osu.ppy.sh/beatmaps/1537498&m=3)
-	- [Memme - Acid Burst \(juankristal\) \[Chaos\]](http://osu.ppy.sh/beatmaps/1530202&m=3)
-	- [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](http://osu.ppy.sh/beatmaps/1306252&m=3)
+  - [Glome - Cynthia \(With Moonlight\) \(Elekton\) \[hyper\]](https://osu.ppy.sh/beatmaps/1514659&m=3)
+  - [Y..J - Ten Thousand Tons of Anonymous Letters \(zero2snow\) \[A message\]](https://osu.ppy.sh/beatmaps/1616973&m=3)
+  - [The Black Dahlia Murder - Deathmask Divine \(Valedict\) \[Necromance\]](https://osu.ppy.sh/beatmaps/1190604&m=3)
+  - [xi underground - TU-MA-MI ALL-NIGHTER \(Halogen-\) \[Expert\]](https://osu.ppy.sh/beatmaps/992960&m=3)
+  - [Camellia - NEURO CLOUD-9 \(Couil\) \[Extinction \[cut vers.\] \(new SVs\)\]](https://osu.ppy.sh/beatmaps/1335694&m=3)
+  - [naotyu- - Her Majesty \(Elementaires\) \[Another\]](https://osu.ppy.sh/beatmaps/1282858&m=3)
+  - [fourfolium - SAKURA Skip \(Niima\) \[Aoba is the best\]](https://osu.ppy.sh/beatmaps/1107708&m=3)
+  - [DJKurara - Japanese Transformation \(XeoStyle\) \[Xeo VS \_UJ Insane\]](https://osu.ppy.sh/beatmaps/1201654&m=3)
+  - [Nekomata Master - Beyond The Earth \(Kamikaze\) \[Spiritual\]](https://osu.ppy.sh/beatmaps/1764098&m=3)
+  - [DET - Monk2 \(Elekton\) \[zen\]](https://osu.ppy.sh/beatmaps/1279446&m=3)
+  - [GTA feat. Sam Bruno - Red Lips \(Mendus Remix\) \(Hydria\) \[Hard \(SV\)\]](https://osu.ppy.sh/beatmaps/1537498&m=3)
+  - [Memme - Acid Burst \(juankristal\) \[Chaos\]](https://osu.ppy.sh/beatmaps/1530202&m=3)
+  - [ZUN remixed by LeaF - Calamity Fortune \(semyon422\) \[Miracle\]](https://osu.ppy.sh/beatmaps/1306252&m=3)
 - Tiebreaker
-	- **[goreshit - fleshbound \(Couil\) \[trapped\]](http://osu.ppy.sh/beatmaps/1383190&m=3)**
+  - **[goreshit - fleshbound \(Couil\) \[trapped\]](https://osu.ppy.sh/beatmaps/1383190&m=3)**
 
 ### Group Stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
 
 - Freemod
-	- [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](http://osu.ppy.sh/beatmaps/1635364&m=3)
-	- [toby fox - ASGORE \(Wh1teh\) \[Edit\]](http://osu.ppy.sh/beatmaps/1726743&m=3)
-	- [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](http://osu.ppy.sh/beatmaps/1061726&m=3)
-	- [Tom Encore - Jig \(Kamikaze\) \[Manufactured\]](http://osu.ppy.sh/beatmaps/1563652&m=3)
-	- [Hakuryu - Genesis At Oasis \(MOONLiGHT Mix\) \(Alternater\) \[NanoMorpheus\]](http://osu.ppy.sh/beatmaps/1637624&m=3)
-	- [Tennouzu Nazuna \(CV.Yamamoto Ayano\) - Tic Tac DREAMIN \(ALEFY\) \[Master \[NSV\]\]](http://osu.ppy.sh/beatmaps/1270729&m=3)
-	- [Fudanshi Crisis - Scarlet Tempest \(Shoegazer\) \[Tempest\]](http://osu.ppy.sh/beatmaps/1444641&m=3)
-	- [Rengoku Teien - Suikyou Heaven \(Kamikaze\) \[Oriental // justhow x Kamikaze\]](http://osu.ppy.sh/beatmaps/1755454&m=3)
-	- [The Flashbulb - That Missing Week \(Alternate\) \(Shoegazer\) \[Departure\]](http://osu.ppy.sh/beatmaps/1746723&m=3)
-	- [An - Saigo \(juankristal\) \[Inspiration\]](http://osu.ppy.sh/beatmaps/1287086&m=3)
-	- [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](http://osu.ppy.sh/beatmaps/1745743&m=3)
+  - [Suzuki Konomi - THERE IS A REASON \(Mat\) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmaps/1635364&m=3)
+  - [toby fox - ASGORE \(Wh1teh\) \[Edit\]](https://osu.ppy.sh/beatmaps/1726743&m=3)
+  - [Mike Forst - I Do, What I Want \(XeoStyle\) \[SV\]](https://osu.ppy.sh/beatmaps/1061726&m=3)
+  - [Tom Encore - Jig \(Kamikaze\) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652&m=3)
+  - [Hakuryu - Genesis At Oasis \(MOONLiGHT Mix\) \(Alternater\) \[NanoMorpheus\]](https://osu.ppy.sh/beatmaps/1637624&m=3)
+  - [Tennouzu Nazuna \(CV.Yamamoto Ayano\) - Tic Tac DREAMIN \(ALEFY\) \[Master \[NSV\]\]](https://osu.ppy.sh/beatmaps/1270729&m=3)
+  - [Fudanshi Crisis - Scarlet Tempest \(Shoegazer\) \[Tempest\]](https://osu.ppy.sh/beatmaps/1444641&m=3)
+  - [Rengoku Teien - Suikyou Heaven \(Kamikaze\) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454&m=3)
+  - [The Flashbulb - That Missing Week \(Alternate\) \(Shoegazer\) \[Departure\]](https://osu.ppy.sh/beatmaps/1746723&m=3)
+  - [An - Saigo \(juankristal\) \[Inspiration\]](https://osu.ppy.sh/beatmaps/1287086&m=3)
+  - [Gabriela Lotarynska \(CV: Yagi Yuki\) - Tak a ja lubie. \(eyes\) \[Borshch\]](https://osu.ppy.sh/beatmaps/1745743&m=3)
 - Tiebreaker
-	- **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](http://osu.ppy.sh/beatmaps/539853&m=3)**
+  - **[ARM\(IOSYS\) feat. miko & kimu - Otaser\*Revolution \(Long Version\) \(PiraTom\) \[REVOLUTION\]](https://osu.ppy.sh/beatmaps/539853&m=3)**
 
 ------------------------------------------------------------------------
 
@@ -439,7 +440,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
-2. Each mappool consists of a fixed amount of maps each stage (see bellow) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FlashLight and Fade-In.

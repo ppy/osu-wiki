@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Teclas de Atalho
-=================
+
+# Teclas de Atalho
 
 *No osu!, existem varios atalhos que podem ser utilizados durante o jogo e em menus. Eles estão listados com suas funções abaixo.*
 
-Globais
--------
+## Globais
 
 -   **Shift+F1**: Abre osu!status (durante erros de conexão)
 -   **F7**: Troca o tipo de limitador de quadros
@@ -18,8 +17,7 @@ Globais
 -   **Insert**: Minimiza osu! para a area de notificação
 -   **setas para cima/baixo**: Aumenta/diminui o volume
 
-Apenas nos menus
-----------------
+## Apenas nos menus
 
 -   **F1**: Previous Song Musica anterior
 -   **F2**: Tocar a musica desde o começo
@@ -30,8 +28,7 @@ Apenas nos menus
 -   **Alt-Enter**: Alternar entre Tela Cheia e Janela
 -   **Escape**: Voltar ao menu
 
-Menu Principal
---------------
+## Menu Principal
 
 -   **P**: Vai para modo jogar (Aperte duas vezes para ir a lista de musicas)
 -   **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multi)
@@ -46,8 +43,7 @@ Menu Principal
 -   **Q**: Sair do jogo
 -   **R**: Musica Aleatória
 
-Seleção de Musicas
-------------------
+## Seleção de Musicas
 
 -   **F1**: [Seleçao de Mods](/wiki/Game_Modifiers)
 -   **F2**: Map Aleatorio (pressione duas vezes rapidamente para seleção aleatória instantânea)
@@ -61,8 +57,7 @@ Seleção de Musicas
 -   **PageUp/PageDown**: Muda seleção (em grande escala)
 -   **Enter**: Selecionar
 
-Tela de Mods
-------------
+## Tela de Mods
 
 ![Lista de mods](Soloplay8.png "Lista de mods")
 
@@ -85,8 +80,7 @@ Tela de Mods
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
-Durante uma Partida
--------------------
+## Durante uma Partida
 
 -   **+/-**: Ajusta o offset local (segure SHIFT/CTRL para mudar a precisão)
 -   **Escape**: Pauss (Sai da musica caso o mod Auto esteja ativado)
@@ -95,8 +89,7 @@ Durante uma Partida
 -   **F3/F4**: Ajusta mudança de velocidade para osu!mania.
 -   **Ctrl-R**: Rapidamente reinicia a partida (Pula a introdução da musica automaticamente)
 
-Modo de Edição
---------------
+## Modo de Edição
 
 ### Atalhos do Teclado
 

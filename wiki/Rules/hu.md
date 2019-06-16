@@ -1,10 +1,8 @@
-Szabályok
-============
+# Szabályok
 
 Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy vidám, és barátságos hely legyen mindenki számára.
 
-Közösségi Szabályok
----------------
+## Közösségi Szabályok
 
 1.  **Minden játékosnak csupán *EGY* felhasználói fiókja lehet.** Ez a fiók csak te vagy. Ez a fiók senki más - nem a testvéred, az édesanyád, a nővéred, a barátod - ez TE vagy. Ne oszd meg a fiókodat senkivel.
 2.  **Játssz tisztán.** Bármiféle segédprogram használata, ami bármi előnyt biztosít másokkal szemben, nem elfogadott. Ebbe beletartozik például: makroprogramok, célzást segítő programok, időkeret módosítók és így tovább. Ha egy program azt csinálja, amit egyébként neked kellene, az nem szabályos.
@@ -13,8 +11,7 @@ Közösségi Szabályok
 5.  **Mi egy korhatár nélküli közösség vagyunk.** Ez azt jelenti, hogy 18+/felnőtt tartalom, mint például droghasználat, vagy bármiféle szexuális jellegű téma nem elfogadott. Ritka kivételek előfordulhatnak, ahol ez illő lehet, de általánosan beszélve, kerüljük ezeket.
 6.  **Ahol a szabályok nem érvényesülnek, ott a józan ész igen.** A moderátorok megítélésük alapján bírálhatják ezt, ahol szerintük szükséges.
 
-Játékon Belüli Chat Szabályok
-------------------
+## Játékon Belüli Chat Szabályok
 
 1.  **Legyél tisztelettudó és figyelmes másokhoz a csatornában, ne áraszd el azt egymagad.** Ha egy ember foglalja el a fél képernyőt, az elég idegesítő tud lenni, szóval kerüld, amennyire lehetséges. A többiek is próbálnak beszélgetni!
 2.  **Hagyd a moderátorokra a chat-problémák kezelését.** Rámutathatsz ezekre a `!report` paranccsal, a többiről ők gondoskodni fognak.
@@ -26,8 +23,7 @@ Játékon Belüli Chat Szabályok
 8. **Ne hirdess semmiféle külső chat szervert, Discord-ot, Teamspeak-et, illetve Skype szervereket/csoportokat beleértve.** Az osu! chat elsősorban az osu!-ról szól, és nem arról, hogy a saját szervereidet híreszteld. Tedd ezt privát üzenetekben, ha mindenképpen szükséges.
 9.  **Nyelvspecifikus csatornákban, a domináns nyelvet kell beszélned (Angol az #english-ben, Magyar a #hungarian-ben, stb.), ha be szeretnél kapcsolódni a beszélgetésbe.** Abban a csatornában, ahol a nyelv nincs kifejezetten előírva (vagy a csatorna nevéből nem lehet egyértelműen kikövetkeztetni, például Magyar a `#hungarian`-ben és Holland a `#dutch`-ban), ott mindig Angol. A `#lobby` és a `#help` csatornákban bármely nyelv megengedett, nem úgy, mint az összes többiben. *A [moderátori csapatnak](/wiki/People/Global_Moderation_Team) nem kell követnie ezt a szabályt, amikor a munkájukat végzik.*
 
-Fórum Szabályzat
-----------------
+## Fórum Szabályzat
 
 1.  **Csak értelmes, érdekes tartalmakat/témákat posztolj.** A fórum elsősorban megvitatásokra van, szóval győződj meg arról, hogy elég energiát szántál arra, hogy ne rabold a többiek idejét.
 2.  **Tartsd a posztjaidat és a válaszaidat a korhatár nélküli közösséghez megfelelően.** Felnőtt tartalomnak semmi keresnivalója egy ilyen közösségben, ugyanakkor semmi sem állít meg ezeknek a megvitatása privát üzenetekben.
@@ -37,10 +33,9 @@ Fórum Szabályzat
 6.  **Ne posztolj hirdetéseket, átverős oldalakat vagy bármi egyéb tolakodó tartalmat.** Az átverős vagy partner oldalak megosztása jó mókának tűnhet annak, aki posztolja, de aki rákattint annak már jóval kevésbé az, tehát ne csináld. Az automatikusan betöltődő és lejátszódó tartalmak is szintúgy beletartoznak ebbe a szabályba.
 7.  **Ismeretlen célú applikációk vagy eszközök linkelése nem engedélyezett.** Egyszerűen, ha bármi legalitási kérdés felmerül az említett applikációk kapcsán, akkor nemkívánatosak posztolásra.
 
-Beatmap Közzétételi Szabályok
----------------------------------
+## Beatmap Közzétételi Szabályok
 
-Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Beatmap_Submission_System) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/editor) segítségével a beatmap-ek publikálásra kerülnek.
+Ezek a szabályok szigorúan azokra a beatmap-ekre vonatkoznak, amik a játékon belüli [Beatmap Közzétételi Rendszer](/wiki/Glossary#bss) használatával lettek nyilvánosak. Ezek a szálak az osu! kliens által automatikusan jönnek létre, amikor a [szerkesztő](/wiki/editor) segítségével a beatmap-ek publikálásra kerülnek.
 
 Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lásd: [Rangsorolási Követelmények](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lás
 2.  **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.
 3.  **Ne próbáld ellopni mások munkáját.** Szintúgy ne töltsd fel és használd a másik munkáját az engedélyük nélkül (beleértve, de nem korlátozva, témákat és vendég nehézségeket).
 
-Off-Topic Szabályok
----------------
+## Off-Topic Szabályok
 
 *Az alábbi szabályok CSAK az [Off-Topic](https://osu.ppy.sh/community/forums/52) alfórumra vonatkoznak, kivéve ha másként van jelezve.*
 
@@ -57,8 +51,7 @@ Off-Topic Szabályok
 2. **A hülyeségnek is van határa.** Aranyosan butának lenni rendben van, és hozzájárul a felesleges posztolás működési módjához. Az eszeveszett hülyeség sosincs rendben. Ha képtelen vagy megítélni a különbséget, nagy valószínűséggel már meg is szegted ezt a szabályt.
 3. **Születésnapi szálak az Off-Topic-ban engedélyezve vannak, de sehol máshol.** Minden születésnapi szálnak tartalmaznia kell legalább három (3) táncoló anime lány képet, ellenkező esetben *könyörtelenül* ki lesznek hajítva az ablakon.
 
-Mi történik ha megszegem a szabályokat?
----------------
+## Mi történik ha megszegem a szabályokat?
 
 Ha a közösség rossz oldalán találod magad, rossz dolgok fognak történni.
 

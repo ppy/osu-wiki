@@ -1,8 +1,6 @@
-Formats de fichiers
-======================
+# Formats de fichiers
 
-Formats de fichiers spécifiques à osu!
------------------------------------------
+## Formats de fichiers spécifiques à osu!
 
 ### Archive
 
@@ -12,7 +10,7 @@ Formats de fichiers spécifiques à osu!
 | [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
 | [.db][Db Link]        | Fichier de base de données.                                                                                            |
 
-### [Éditeur de beatmap](/wiki/Beatmap_Editor)
+### Éditeur de beatmap
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -25,8 +23,7 @@ Formats de fichiers spécifiques à osu!
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
 
-Créer un fichier .osz/.osk
-----------------------------
+## Créer un fichier .osz/.osk
 
 .osz/.osk est une extension de fichier liée spécifiquement à osu!.exe. Lorsqu'ils sont ouverts, les fichiers .osz sont extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk sont extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
 
@@ -54,10 +51,10 @@ Créer un fichier .osz/.osk
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
 
-**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
+**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/community/forums/topics/51694) de [MLGnom](https://osu.ppy.sh/users/46620))
 
-- [WinRAR](http://puu.sh/1MBV)
-- [7-zip](http://puu.sh/1MBW)
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
     - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu

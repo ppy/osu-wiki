@@ -1,19 +1,17 @@
 ***[Clicca per tornare ad Offset Audio Universale](IT:Options#Universal_Audio_Offset "wikilink")***
 
-Offset Universale
------------------
+## Offset Universale
 
 L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. Puoi trovare questa opzione sotto [Opzioni](IT:Options "wikilink").
 
 <img src="Universal_Offset.jpg" title="Universal_Offset.jpg" alt="Universal_Offset.jpg" width="400" />
 
-Impostare L'Offset Universale
------------------------------
+## Impostare L'Offset Universale
 
 Per impostarlo correttamente, segui questa procedura:
 
 1.  Vai sulle opzioni e disattiva il Volume degli effetti a 0%.
-2.  Scarica [questa](https://osu.ppy.sh/s/4659) beatmap.
+2.  Scarica [questa](https://osu.ppy.sh/beatmapsets/4659) beatmap.
 3.  Trovala nella tua lista delle beatmap.
 4.  Premi F3 e 5.
 5.  Scorri un po con il tuo mouse, poi vai all'inizio della beatmap.

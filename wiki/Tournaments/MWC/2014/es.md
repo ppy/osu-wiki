@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-osu!mania World Cup 2014
-========================
+# osu!mania World Cup 2014
 
 ![MWC 2014 logo](logo.png)
 
-La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu!mania organizado por el [Tournament Management](https://osu.ppy.sh/g/26). Es la primera entrega de la osu!mania World Cup y está separada por 7-keys y 4-keys.
+La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu!mania organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Es la primera entrega de la osu!mania World Cup y está separada por 7-keys y 4-keys.
 
-Calendario
-----------------
+## Calendario
 
 | Event               | Timestamp      |
 |---------------------|----------------|
@@ -23,8 +21,7 @@ Calendario
 | Semifinales         | 7 Sep 2014     |
 | Final/3er puesto    | 14 Sep 2014    |
 
-Premios
------------
+## Premios
 
 | Placing                                                    | Prize(s)                                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -32,8 +29,7 @@ Premios
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                                                                    |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                      |
 
-Organización
-----------------
+## Organización
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,8 +41,7 @@ Organización
 
 ------------------------------------------------------------------------
 
-Cronograma: 7K
------------------
+## Cronograma: 7K
 
 **Viernes, 15 de Agosto de 2014**
 
@@ -92,19 +87,17 @@ Cronograma: 7K
 
 ------------------------------------------------------------------------
 
-Links
---------
+## Links
 
 -   [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Hilo de Discusión (en inglés)](https://osu.ppy.sh/forum/t/222100)
+-   [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
 -   [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
 -   [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
 
 ------------------------------------------------------------------------
 
-Participantes
-------------
+## Participantes
 
 | Country                                        | Grupo 4K Members                                                                                                                                                |
 |------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -152,8 +145,7 @@ Participantes
 | ![][flag_GB] Reino Unido    | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [The Muffin Man](https://osu.ppy.sh/users/2186171), [Mafham](https://osu.ppy.sh/users/3660531), [xWillx](https://osu.ppy.sh/users/696222) |
 | ![][flag_US] Estados Unidos | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092)                                    |
 
-Grupos
----------
+## Grupos
 
 ### Grupo 4K
 
@@ -177,8 +169,7 @@ Grupos
 
 ------------------------------------------------------------------------
 
-Mappools 4K
------------
+## Mappools 4K
 
 ### Fase de grupos
 
@@ -195,8 +186,7 @@ Mappools 4K
 - Tiebreaker
   - [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmaps/407642)
 
-Mappools 7K
-----------------
+## Mappools 7K
 
 ### Fase de Grupos
 
@@ -215,8 +205,7 @@ Mappools 7K
 
 ------------------------------------------------------------------------
 
-Resultados de las partidas
-----------------------------
+## Resultados de las partidas
 
 ### Fase de Grupos (4K)
 
@@ -266,8 +255,7 @@ Resultados de las partidas
 
 ------------------------------------------------------------------------
 
-Reglamento
-------------
+## Reglamento
 
 ### Reglas del Torneo
 

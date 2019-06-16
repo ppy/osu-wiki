@@ -1,5 +1,4 @@
-Facile (Difficulté)
-====================
+# Facile (Difficulté)
 
 Les Faciles [difficulties](/wiki/Beatmap_Editor/Song_Setup) sont simple à faire lorsque l'on s'est fait la main. Pour commencer, lisez ces recommandations pour les configurations de difficultés:
 
@@ -15,8 +14,7 @@ Mettez le [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) à 1/1, en
 
 Maintenant, votre rythme principale ici devrait être tout autre battement. Commencer avec le [downbeat](/wiki/Beatmap_Editor/Timing) et commencer à placer un cercle sur le battement. Toutefois, you trouverez ca ennuyeux et vous souhaiterez dormir. C'est pourquoi nous allons revenir et éditer la map pour la rendre plus exaltante et éviter de tuer d'ennui les joueurs . Vous allez vouloir faire trois de ces choses :
 
-Être sur le battement
----------------------
+## Être sur le battement
 
 Imaginer que le "." est un battement sans [cercle](/wiki/Hit_Objects), et le "O" un battement avec un cercle (Les difficultés faciles doivent être faîtes sur les battements pour la plupart, à quelques exceptions près). Voici un motif simple que vous pouvez réaliser :
 
@@ -32,8 +30,7 @@ O..O..O
 
 Rappelez vous que vous pouvez mapper en alternant sliders/cercle : O.O.O.O peut être mappé O=O.O=O (avec = pour les sliders) ou O=O=O.O (avec "des sliders à répétitions")
 
-Utilisation des sliders
------------------------
+## Utilisation des sliders
 
 Des sliders de deux temps et les sliders longs d'un mesure sont ici intuitif. Les sliders d'un temps souvent ne vont pas, car la vitesse du slider est si lente qu'un slider d'un temps ressemble à un bout de truc, pas un slider. En général, si votre début de slider chevauche la fin de celui-ci, il est soit trop court, soit la sa vitesse est trop lente.
 
@@ -41,15 +38,13 @@ Vous pouvez aussi utiliser les sliders pour aider le joueur à se représenter u
 
 Evitez d'utilisez des slider qui utilise 1/2 temps sur la même ligne de temps. Le rythme produit est souvent couvert par l'extension d'un slider précédent. Les 1/2 slider à répétition sont souvent confus pour les nouveaux joueurs du fait qu'ils ne savent pas quand il va s’arrêter.
 
-Être visuellement appréciable
------------------------------
+## Être visuellement appréciable
 
-Parce que la map est considéré comme facile, il est recommander de rendre la map claire au regard afin que les différents types de mouvement soient facilement détecté et anticipé en Facile. Cela peut être réalisé au travers de [smooth looking curves](http://osu.ppy.sh/forum/t/37194) et de motifs simples.
+Parce que la map est considéré comme facile, il est recommander de rendre la map claire au regard afin que les différents types de mouvement soient facilement détecté et anticipé en Facile. Cela peut être réalisé au travers de [smooth looking curves](https://osu.ppy.sh/community/forums/topics/37194) et de motifs simples.
 
 Il existe bien d'autres choses que vous pouvez réaliser en Facile, alors expérimentez et trouver ce qui vous botte le plus.
 
-Les spinners
-------------
+## Les spinners
 
 Les Spinners doivent être utilisé avec parcimonie en facile - généralement achevant une partie de la map avant une pause ou la fin de la musique. Lors de l'utilisation d'un spinner, soyez sur que sa longueur soit suffisante. 2 à 4 mesures est un bon exemple.
 

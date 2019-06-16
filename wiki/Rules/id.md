@@ -1,10 +1,8 @@
-Peraturan
-============
+# Peraturan
 
 Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu! menjadi tempat yang menyenangkan dan ramah bagi semua orang.
 
-Peraturan Komunitas
----------------
+## Peraturan Komunitas
 
 1.  **Setiap pemain hanya diperbolehkan memiliki *SATU* akun.** Akun *pertama* yang Anda buat saat Anda mendaftar adalah satu-satunya akun osu! Anda, berlaku saat didaftarkan dan selamanya. Akun ini adalah ANDA. Bukan orang lain - bukan saudara Anda, ibu Anda, kakak Anda, teman Anda - itu adalah ANDA. Jangan bagikan kredensial akun Anda dengan orang lain. Anda tidak dapat membuat akun baru jika dengan suatu alasan Anda kehilangan akses akun Anda. Jagalah sebaik-baiknya.
 2. **Bermain adil.** Menggunakan utilitas pihak ketiga dalam bentuk apa pun demi memperoleh keuntungan apa pun tidak diperbolehkan. Hal ini meliputi program makro, program yang membantu sasaran kursor, modifikasi skala waktu, dan sebagainya. Jika suatu program melakukan sesuatu untuk membantu Anda memainkan permainan yang seharusnya Anda lakukan sendiri, hal itu tidak baik!
@@ -13,8 +11,7 @@ Peraturan Komunitas
 5.  **Kami adalah komunitas semua umur.** Ini berarti bahwa konten 18+/NSFW (Tidak aman saat waktu kerja) seperti penggunaan narkoba atau topik yang bersifat seksual tidak diterima di sini. Pengecualian berlaku untuk beberapa alasan, tetapi secara umum, tetap jaga ketenteraman.
 6.  **Jika peraturan tidak berlaku, akal sehat harus.** Bagian Administrasi memiliki kebijaksanaan spesifik untuk menerapkan penilaian mereka atas hal ini sesuai keinginan mereka.
 
-Peraturan Obrolan Dalam Game
-------------------
+## Peraturan Obrolan Dalam Game
 
 1.  **Bersikap hormat dan baik terhadap pengguna lain di channel, serta dilarang membanjiri dan melakukan spam dalam chat.** Satu orang yang mengobrol hingga menghabiskan separuh layar sekaligus pasti mengganggu, jadi hindari tindakan tersebut kapan pun. Orang lain juga ingin mengobrol!
 2.  **Biarkan moderator menangani masalah dalam obrolan.** Anda dapat membantu mereka dengan menunjukkan kesalahan pengguna yang bermasalah dengan perintah `!report` dan mereka akan menangani sisanya.
@@ -26,8 +23,7 @@ Peraturan Obrolan Dalam Game
 8. **Jangan mengiklankan server obrolan pihak ketiga dalam bentuk apa pun, termasuk Discord, Teamspeak, atau server/grup Skype.** Obrolan osu! pastinya diutamakan hanya untuk osu! dan bukan tentang berbagi tautan ke server pribadi Anda. Lakukan melalui PM jika Anda benar-benar harus melakukannya.
 9.  **Dalam channel khusus bahasa, Anda harus berbicara dengan bahasa dominan (bahasa Inggris untuk channel `#english`, bahasa Thailand untuk channel `#thai`, dll) jika Anda berpartisipasi dalam diskusi.** Dimana bahasa untuk channel tidak secara spesifik dinyatakan (atau disimpulkan dari nama channel, seperti dalam bahasa Thai untuk `#thai` dan Belanda untuk channel `#dutch`), secara standard selalu bahasa Inggris. channel `#lobby` dan `#help` dapat digunakan dalam berbagai bahasa, tidak seperti channel lain. *Anggota [moderation staff](/wiki/People/Global_Moderation_Team) tidak perlu mengikuti aturan ini selama masa jabatan mereka.*
 
-Aturan seluruh forum
-----------------
+## Aturan seluruh forum
 
 1.  **Hanya diperbolehkan mengirim kiriman yang menarik dan berhubungan dengan topik.** Poin penting forum adalah untuk berdiskusi, jadi pastikan berusaha berdiskusi agar waktu orang lain tidak sia-sia.
 2.  **Jaga kiriman dan balasan Anda sesuai untuk orang-orang dari semua kalangan usia.** Konten NSFW tidak sesuai untuk komunitas semua usia, meskipun begitu tidak ada yang menghentikan Anda untuk mendiskusikan hal-hal ini dalam pesan pribadi.
@@ -37,10 +33,9 @@ Aturan seluruh forum
 6.  **Dilarang mengirimkan tautan iklan, rujukan, atau konten yang bersifat mengganggu lainnya.** Hal-hal seperti afiliasi dan tautan rujukan sangat menguntungkan orang yang mengirimnya tetapi termasuk hal yang mengganggu bagi orang lain, jadi jangan lakukan. Konten/sematan bersifat autoloading atau autoplay juga termasuk dalam aturan ini.
 7.  **Menghubungkan ke aplikasi atau utilitas dengan maksud yang tidak pasti tidak diperbolehkan.** Sederhananya, jika ada keraguan mengenai legalitas dari utilitas tersebut, mereka tidak boleh dikirimkan.
 
-Aturan Pengajuan Beatmap
----------------------------------
+## Aturan Pengajuan Beatmap
 
-Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Beatmap_Submission_System) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/editor).
+Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Glossary#bss) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/editor).
 
 Ada sekumpulan aturan yang lebih rinci untuk pembuatan beatmap, yang dikenal sebagai [Kriteria Ranking](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ Ada sekumpulan aturan yang lebih rinci untuk pembuatan beatmap, yang dikenal seb
 2.  **Tetap dalam topik bahasan dalam Diskusi Beatmap.** Topik ini bertujuan untuk membahas beatmap yang dipertanyakan, dan tidak ada bahasan lain. Jika Anda memiliki masalah dengan sesuatu yang tidak berkaitan langsung dengan beatmap, kirim masalah anda di forum yang sesuai.
 3.  **Dilarang menjiplak atau mencoba mencuri karya orang lain.** Jangan juga mengunggah atau menggunakan karya orang lain tanpa izin spesifik dari mereka (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan mapper lain).
 
-Peraturan Off-Topic
----------------
+## Peraturan Off-Topic
 
 *Peraturan-peraturan di bawah ini berlaku HANYA di dalam sub-forum [Off-Topic](https://osu.ppy.sh/community/forums/52), kecuali ditentukan.*
 
@@ -57,8 +51,7 @@ Peraturan Off-Topic
 2. **Kebodohan yang berlebih itu buruk.** Menjadi sangat bodoh itu baik-baik saja, dan jatuh ke dalam modus operandi shitposting. Kebodohan sejati tidak pernah baik. Jika Anda tidak dapat membedakannya, Anda sudah melanggar aturan.
 3. **Topik ulang tahun hanya diperbolehkan di Off-Topic.** Semua topik ulang tahun harus disertai dengan tidak kurang dari (3) gambar gadis anime yang menari atau mereka akan dengan *kejam* dibuang di bawah bus.
 
-Apa yang terjadi jika saya melanggar peraturan?
----------------
+## Apa yang terjadi jika saya melanggar peraturan?
 
 Jika Anda menemukan diri Anda di ujung yang salah dari aturan komunitas kami, hal-hal buruk akan terjadi.
 

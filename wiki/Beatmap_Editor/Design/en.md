@@ -1,5 +1,4 @@
-Design
-========
+# Design
 
 ![Design tab](img/SE_base.jpg "Design tab")
 
@@ -7,8 +6,7 @@ The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Bea
 
 It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
-Getting Started
-----------------
+## Getting Started
 
 1.  Place all your storyboard elements/pictures into your map's song folder and create a subfolder named "SB" for them.
 2.  Access your map through the editor and go to the "Design" screen.
@@ -31,8 +29,7 @@ Getting Started
 
 **Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (e.g. move up -> move down).
 
-Features
----------
+## Features
 
 (Starting from top-down left-right order)
 
@@ -46,7 +43,7 @@ Features
 
 | Name | Description |
 | ---- | ----------- |
-| `+`/`-` buttons at left	| Increase/Decrease timeline zoom |
+| `+`/`-` buttons at left | Increase/Decrease timeline zoom |
 | `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
 
@@ -108,7 +105,7 @@ To use them:-
 | Command | Usage |
 | ------- | ----- |
 | Move | Translation [where to go (e.g., move up)]. |
-| Scale	| Proportional enlargement (a square is still a square). |
+| Scale | Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
@@ -160,17 +157,15 @@ Click the "Browse..." button to search for sprite to use. You can duplicate the 
 
 Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback Speed slows down the song by % against original speed. You should be familiar with this if you had did some mapping before at Compose.
 
-Limitations
-------------
+## Limitations
 
--   No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hitobjects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
+-   No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
 -   No [loop](/wiki/Storyboard_Scripting/Compound_Commands) or [trigger](/wiki/Storyboard_Scripting/Compound_Commands) support.
 -   No [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard_Scripting/Commands) commands.
 -   Sprite coordinate is *always* 320,240. You will need to use Move command once to set the location (endpoint not required).
     -   If you are *also* doing [Storyboard Scripting](/wiki/Storyboard_Scripting), you will need to *read an extra line* per object done in Design tab.
 
-Source
--------
+## Source
 
--   [m980's basic explanation](https://osu.ppy.sh/forum/p/67660)
--   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/forum/t/46111)
+-   [m980's basic explanation](https://osu.ppy.sh/community/forums/posts/67660)
+-   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/community/forums/topics/46111)

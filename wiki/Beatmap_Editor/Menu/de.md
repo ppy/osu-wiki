@@ -1,8 +1,6 @@
-Menü
-====
+# Menü
 
-Datei
-------
+## Datei
 
 ![Dateimenü](img/M_File-DE.jpg "Dateimenü")
 
@@ -54,8 +52,7 @@ Datei
 | ---- | ----------- |
 | Beenden... (`Esc`) | Beatmap Editor verlassen. Sie werden möglicherweise gefragt, ob Sie speichern wollen. Ignoriert manchmal Veränderungen, die im Design Bereich gemacht wurden. |
 
-Bearbeiten
------------
+## Bearbeiten
 
 ![Bearbeitungsmenü](img/M_Edit-DE.jpg "Bearbeitungsmenü")
 
@@ -114,8 +111,7 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 | Stubs zurück (`J`) | Bewegt Hit Objekt(e) um ein Beat zurück im Beat Snap Divisor. |
 | Stubs vrfwärts (`K`) | Bewegt Hit Objekt(e) um ein Beat nach vorne im Beat Snap Divisor. |
 
-Ansicht
-----------
+## Ansicht
 
 ![Ansichtmenü](img/M_View-DE.jpg "Ansichtmenü")
 
@@ -148,8 +144,7 @@ Ansicht
 | Stapeln | ? |
 | "Rückgängig" deaktivieren | Beim Editieren von sehr langen Marathon-Editoraps kann das Speichern aller vorgenommenen Änderungen für die Rückgängig-/Wiederholen-Funktion die Perfomance beeinträchtigen. |
 
-Komponieren
-------------
+## Komponieren
 
 ![Kompositionsmenü](img/M_Compose-DE.jpg "Kompositionsmenü")
 
@@ -172,8 +167,7 @@ Komponieren
 | Live-Editorapping-Editorodus aktivieren (`Strg` + `Tab`) | osu!/osu!catch/osu!taiko Maps: Benutzen Sie die osu!taikotasten, um Hit Circles/Früchte/osu!taiko Hit Circles zu platzieren, während Sie das Lied im Editor spielen. Die Objekte werden am Standort des Cursors platziert. osu!mania Maps: Benutzen Sie die osu!maniatasten, um Noten während dem Spielen zu platzieren. Wenn Sie die Taste gedrückt halten, wird kein Slider dadurch erstellt. |
 | Sample importieren | [Tastentöne und Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
 
-Design
--------
+## Design
 
 ![Designmenü](img/M_Design-DE.jpg "Designmenü")
 
@@ -183,8 +177,7 @@ Design
 | ---- | ----------- |
 | Alle Objekte verschieben | Bewegen Sie *alle* Objekte um #ms. Ganz nützlich, wenn Sie .mp3 Datei austauschen oder das Offset geändert haben. |
 
-Timing
---------
+## Timing
 
 ![Timingmenü](img/M_Timing-DE.jpg "Timingmenü")
 
@@ -230,8 +223,7 @@ Timing
 | ---- | ----------- |
 | Aktuelle Position als Vorschaupunkt festlegen | Setzt eine gelbe Markierung (das Lied fängt dann im Songauswahl an der Stelle an zu spielen). |
 
-Web
-------
+## Web
 
 ![Webmenü](img/M_Web-DE.jpg "Webmenü")
 
@@ -239,12 +231,11 @@ Web
 
 | Name | Beschreibung |
 | ---- | ----------- |
-| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/b/###, ### ist die BeatmapID (findet man in `.osu`). |
+| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap. Der Link ist "https://osu.ppy.sh/beatmaps/###, ### ist die BeatmapID (findet man in `.osu`). |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap Thread. |
 | Schnellantwort | Erstellen Sie eine Nachricht im Beatmap Thread. |
 
-Hilfe
---------
+## Hilfe
 
 ![Hilfemenü](img/M_Help-DE.jpg "Hilfemenü")
 

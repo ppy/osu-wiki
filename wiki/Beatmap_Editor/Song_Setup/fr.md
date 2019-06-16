@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-Paramètres de la beatmap
-==========================
+# Paramètres de la beatmap
 
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
 
 ![Emplacement des paramètres de la beatmap](img/Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
 
-Général
--------
+## Général
 
 ### Métadonnées de la musique et de la map
 
@@ -18,7 +16,7 @@ Général
 
 ![Onglet "Difficulty" (Difficulté)](img/SS_Difficulty_Settings.jpg "Onglet "Difficulty" (Difficulté)")
 
-[Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/forum/t/249288).
+[Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/community/forums/topics/249288).
 
 Toutes les musiques n'ont pas besion d'avoir quelque chose dans le champ "Source". La source est uniquement utilisée pour les musiques qui viennent de quelque chose de spécifique, comme un Jeu Vidéo ou un Anime. Les chansons de rock ou de pop régulières peuvent laisser ce champ vide.
 
@@ -59,8 +57,7 @@ Vous devriez entrer ces informations avant de créer une seconde difficulté, po
 
 Une fois encore, pour éviter des problèmes, assurez vous que tous les champs (sauf "Difficulty") soient tous remplis identiquement dans toutes les difficultés. D'autres règles sont aussi mises en place, merci de lire les [critères de ranking](/wiki/Ranking_Criteria).
 
-Difficulty (Difficulté)
------------------------
+## Difficulty (Difficulté)
 
 Onglet en relation avec le cœur des paramètres de la beatmap. Chaque paramètre affecte différent aspects de la beatmap.
 
@@ -80,7 +77,7 @@ Aussi connu en tant que "**CS**" lors de la sélection d'une beatmap.
 
 Ceci détermine la taille des cercles et des sliders. La valeur varie entre 2 et 7 avec les plus petites valeurs donnant des plus grosses tailles. Les petits cercles rendent la map difficile en exigeant le joueur à être plus précis.
 
-La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](https://osu.ppy.sh/s/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](https://osu.ppy.sh/s/1208).
+La plupart des maps utilisent les tailles 3, 4 et 5. 6 est parfois utilisé et 7 est quasiment jamais utilisé (les objets font quasiment la taille du curseur par défaut). 7 a plus de chances d'être utilisé un utilisant le mod [Hard Rock](/wiki/Game_Modifiers). Un exemple d'une [beatmap utilisant 3, 5, 6, et 7 par défaut](https://osu.ppy.sh/beatmapsets/2008) et une [beatmap qui utilise 0, 1, 3 et 4 par défaut](https://osu.ppy.sh/beatmapsets/1208).
 
 Il est possible en éditant manuellement le fichier `.osu` pour assigner une valeur entre 0 et 10 mais il est déconseillé de faire ceci puisque des valeurs non comprises entre 2 et 7 sont considérés non rankables.
 
@@ -138,8 +135,7 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 **Note :** Le système de timing d'osu! n'autorise pas un [cercle](/wiki/Hit_Objects) a être cliqué avant que le précédent ne soit cliqué ou la fenêtre de temps s'est écoulée (résultant en un miss). Avec un OD bas, la fenêtre de temps d'un cercle peut se chevaucher avec la suivante. Donc, quelqu'un peut cliquer le second cercle avec un timing parfait (après avoir manqué la première note) et se retrouver à rater les deux notes puisque la fenêtre de temps du premier cercle ne s'était pas encore terminée.
 
-Audio
------
+## Audio
 
 ![Onglet "Audio"](img/SS_Audio.jpg "Onglet "Audio"")
 
@@ -161,8 +157,7 @@ Ici vous pouvez ajuster le volume des hitsounds. Cela est important, puisque mê
 
 Cliquez sur les boutons pour tester les hitsounds actuels. Ces sons sont additifs, Whistle est une combinaison de Normal et Whistle.
 
-Colours (Couleurs)
-------------------
+## Colours (Couleurs)
 
 ![Onglet "Colours"](img/SS_Colours.jpg "Onglet "Colours"")
 
@@ -170,8 +165,7 @@ Cette section est utilisée principalement pour assigner des couleurs de combo. 
 
 L'autre partie de cette fenêtre permet d'assigner une couleur à l'arrière plan, mais c'est inutile puisque les maps ne peuvent pas être rankées sans arrière-plan, ce dernier annulant ce paramètre sauf si vous utilisez un storyboard où ce paramètre est visible.
 
-Storyboarding
--------------
+## Storyboarding
 
 ![Onglet "Storyboarding"](img/SS_Storyboarding.jpg "Onglet "Storyboarding"")
 
@@ -197,12 +191,11 @@ Vous pouvez changer la vitesse et le décalage du compte à rebours.
 
 Choisissez le skin de préférence (depuis votre dossier de skins) qui sera utilisé si le skin est présent dans le dossier de skins d'un autre joueur. Si le skin n'est pas présent, un avertissement apparaîtra et le skin par défaut du joueur sera utilisé. Cependant, la plupart des personnes incluront les éléments de skin directement dans la beatmaps donc cette option est rarement utilisée sauf pour réduire la taille de la beatmap. D'anciennes maps peuvent utiliser cette option, et très rarement ces jours-ci.
 
-Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmaps/41820).
 
 ![Exemple ici](img/SS_Skin_eg.jpg)
 
-Advanced (Avancé)
------------------
+## Advanced (Avancé)
 
 ![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet "Advanced"")
 

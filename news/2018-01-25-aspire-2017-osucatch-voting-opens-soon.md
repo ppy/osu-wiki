@@ -8,7 +8,7 @@ After a long wait of preparation and scrutinisation by our panel of expert judge
 
 ![](/wiki/shared/news/banners/osu_catch.png)
 
-With some incredible offerings from both experienced osu!catch Aspirants and fresh-faced visionaries alike, the Aspire 2017: osu!catch showcase is sure to serve up a treat on all creative fronts. And if that wasn't enough, you'll be able to see all the entries playtested by our final judge, [alienflybot](https://osu.ppy.sh/users/636114)! 
+With some incredible offerings from both experienced osu!catch Aspirants and fresh-faced visionaries alike, the Aspire 2017: osu!catch showcase is sure to serve up a treat on all creative fronts. And if that wasn't enough, you'll be able to see all the entries playtested by our final judge, [alienflybot](https://osu.ppy.sh/users/636114)!
 
 There will be eye-popping aesthetics and gameplay alike, from snazzy storyboards to astonishing pattern art, teleporting catchers to mountainous fruit stacks - if you want to know what osu!catch mapping is truly capable of, this is the showcase for you! Even if you're not an avid osu!catch player, fruits are good for you, so what's to lose by tuning in!?
 

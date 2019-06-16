@@ -1,7 +1,6 @@
 Willkommen zu den osu! Anfänger Tutorial. Die Welt von osu! kann manchmal ein sehr Komplizierter Ort sein. Egal ob du eine möglichkeit haben möchtest, gegen andere Fair anzutreten oder eichfach nur Spaß haben willst, ist dies für dich! Diese Anleitung beinhalltet alles was du wissen musst, um in die Welt von osu! einzutauchen.
 
-Die Arten der Eingabemethode
---------------
+## Die Arten der Eingabemethode
 
 Normalerweise fangen viele Spieler mit der normalen Computermaus an, da es oft das am einfachsten erreichbare Eingabemethode ist, weil halt jeder der ein Pc besitzt, eine Maus hat. Aber in wirklichkeit gibt es viele verschiedene Arten um den Cursor zu bewegen und auf die Hitcircle zu klicken:
 
@@ -49,8 +48,7 @@ Touchscreen-Spieler haben Probleme mit:
 
 Wenn du mit Maus oder Tastertur spielst, oder irgendeine andere Eingabemethode, kannst du auch deine Tastertur (Z und X als Standarttasten) um die Kreise zu Treffen. Der Vorteil bei der Tastertur ist es, das du nicht mehr das bewegen und Klicken mit der Selben hand machst, sondern es auf beide Hände aufteilst, was dir Erlaubt um einiges schneller auf schnelle Sektionen zu reagieren. Es kann etwas dauern, bis man dran gewöhnt ist, aber wenn du dich entscheidest deine Tastertur zum klicken zu nutzen, solltest du es früh machen, da das Umgewöhnen schwer ist.
 
-Gameplay Techniken
--------------------
+## Gameplay Techniken
 
 ### Genauigkeit Und Timing
 
@@ -78,8 +76,7 @@ Der beste Weg dich zu verbessern, ist es dich selber herauszuforden! Der einzige
 
 Habe keine Angst irgendetwas zu spielen, was dich aus irgendeinen Grund dich danebenklicken lässt. Du brauchst eine Challenge und du brauchst alles, was nötig ist, um diese Challenge zu bezwingen! Musst du die Hitcirlces schneller anklicken? Brauchst du schnelleres Timing? Müssen deine Bewegungen Präser sein? Dies sind alle Fragen, die du dir stellen musst. Dies wird dir helfen die Antwort um einiges scheller zu finden und es macht deine Erfahrungen um einiges Wertvoller!
 
-Mehr aus dem Spiel bekommen
-----------------------------
+## Mehr aus dem Spiel bekommen
 
 ### Globaler Offset
 
@@ -97,54 +94,49 @@ Ein meist übersehendes Feature ist "Raw Input". Raw Input erlaubt das osu! dire
 
 ### Skins
 
-Es gibt sehr viele, viele Skins, von denen du aussuchen kannst, du findest die in den Forums, in dem Chat oder indem du andere osu! Spieler fragst. Sie können helfen dich zu motivieren zu spielen oder leichter auf deinen Augen zu sein. Oder, wenn du es bevorzugst, das dein Spiel nicht so vollgepackt ist mit Elementen, kannst du Skins finden, die einer solchen Philosofie angehöhren. Du kannst dir sogar die Skins [der Pros](http://osu.ppy.sh/forum/t/87675&start=0) anschauen und sehen, was diese do erfolgreich gemacht haben. Ausserdem bringt es ein wenig mehr Anwechslung in das Graphische. Manche Skins sind dazu gemacht worden so simplistisch wie möglich so sein, oder einfach nur spaß zu machen. In kurz: Es ist ein weiterer Weg deine Freude die du aus osu! bekommen kannst noch weiter zu steigern und deine Erfahrung noch besser zu gestallten. ;)
+Es gibt sehr viele, viele Skins, von denen du aussuchen kannst, du findest die in den Forums, in dem Chat oder indem du andere osu! Spieler fragst. Sie können helfen dich zu motivieren zu spielen oder leichter auf deinen Augen zu sein. Oder, wenn du es bevorzugst, das dein Spiel nicht so vollgepackt ist mit Elementen, kannst du Skins finden, die einer solchen Philosofie angehöhren. Du kannst dir sogar die Skins [der Pros](https://osu.ppy.sh/community/forums/topics/87675&start=0) anschauen und sehen, was diese do erfolgreich gemacht haben. Ausserdem bringt es ein wenig mehr Anwechslung in das Graphische. Manche Skins sind dazu gemacht worden so simplistisch wie möglich so sein, oder einfach nur spaß zu machen. In kurz: Es ist ein weiterer Weg deine Freude die du aus osu! bekommen kannst noch weiter zu steigern und deine Erfahrung noch besser zu gestallten. ;)
 
-Anfänger Beatmaps
-=============
+# Anfänger Beatmaps
 
 Gib diesen Beatmaps eine Versuch! Die Beatmaps sind von einfach bis nach schwer geordnethey are ordered, also versuch dir deinen Weg nach unten zu Bahnen!
 
-Anfangen
--------
+## Anfangen
 
 Du kannst dein Abenteuer mit diesen Beatmaps starten!
 
--   [GReeeeN - Ai Uta (Taiko Cut)](http://osu.ppy.sh/b/57281) auf Kantan (0.83 Stars)
--   [TOKINE - Soko ni Aru Mono](http://osu.ppy.sh/b/67008) auf Easy (0.99 Stars)
--   [Rammstein - Mein erz brennt (Piano Instrumental)](http://osu.ppy.sh/b/250553) auf Easy (1.00 Stars)
--   [fripSide - a little christmas time](http://osu.ppy.sh/b/191008) auf Easy (1.03 Stars)
--   [Yoko Shimomura - A Twinkle in the Sky](http://osu.ppy.sh/b/220650) auf Easy (1.05 Stars)
--   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](http://osu.ppy.sh/b/158917) auf Easy (1.08 Stars)
--   [Anamanaguchi - This is the End](http://osu.ppy.sh/b/74686) auf Average Joe (1.09 Stars)
--   [Infected Mushroom - The Pretender](http://osu.ppy.sh/b/240979) auf Easy (1.10 Stars)
--   [Do As Infinity - Fukai Mori](http://osu.ppy.sh/b/49478) auf Easy Dan (1.11 Stars)
--   [Nishiura Tomohito - Shop](http://osu.ppy.sh/b/404645) auf Easy (1.13 Stars)
--   [Angela Chang - Aurora](http://osu.ppy.sh/b/397975) auf Easy (1.14 Stars)
+-   [GReeeeN - Ai Uta (Taiko Cut)](https://osu.ppy.sh/beatmaps/57281) auf Kantan (0.83 Stars)
+-   [TOKINE - Soko ni Aru Mono](https://osu.ppy.sh/beatmaps/67008) auf Easy (0.99 Stars)
+-   [Rammstein - Mein erz brennt (Piano Instrumental)](https://osu.ppy.sh/beatmaps/250553) auf Easy (1.00 Stars)
+-   [fripSide - a little christmas time](https://osu.ppy.sh/beatmaps/191008) auf Easy (1.03 Stars)
+-   [Yoko Shimomura - A Twinkle in the Sky](https://osu.ppy.sh/beatmaps/220650) auf Easy (1.05 Stars)
+-   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](https://osu.ppy.sh/beatmaps/158917) auf Easy (1.08 Stars)
+-   [Anamanaguchi - This is the End](https://osu.ppy.sh/beatmaps/74686) auf Average Joe (1.09 Stars)
+-   [Infected Mushroom - The Pretender](https://osu.ppy.sh/beatmaps/240979) auf Easy (1.10 Stars)
+-   [Do As Infinity - Fukai Mori](https://osu.ppy.sh/beatmaps/49478) auf Easy Dan (1.11 Stars)
+-   [Nishiura Tomohito - Shop](https://osu.ppy.sh/beatmaps/404645) auf Easy (1.13 Stars)
+-   [Angela Chang - Aurora](https://osu.ppy.sh/beatmaps/397975) auf Easy (1.14 Stars)
 
-Vortgeschrittener
-------
+## Vortgeschrittener
 
 Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps ja versuchen.
 
--   [Mutsuhiko Izumi - Russian Snowy Dance](http://osu.ppy.sh/b/124348) auf Easy (1.21 Stars)
--   [goreshit - o'er the flood](http://osu.ppy.sh/b/177139) auf Easy (1.22 Stars)
--   [Hatsune Miku - Electric Love (Short Ver.)](http://osu.ppy.sh/b/141749) auf Easy. (1.25 Stars)
--   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](http://osu.ppy.sh/b/186601) auf Easy (1.28 Stars)
--   [Akcent feat. Edward Maya - That's My Name](http://osu.ppy.sh/b/132838) auf Easy (1.28 Stars)
--   [Hatsune Miku - Do-re-mi-fa Rondo](http://osu.ppy.sh/b/163457) auf Easy (1.28 Stars)
+-   [Mutsuhiko Izumi - Russian Snowy Dance](https://osu.ppy.sh/beatmaps/124348) auf Easy (1.21 Stars)
+-   [goreshit - o'er the flood](https://osu.ppy.sh/beatmaps/177139) auf Easy (1.22 Stars)
+-   [Hatsune Miku - Electric Love (Short Ver.)](https://osu.ppy.sh/beatmaps/141749) auf Easy. (1.25 Stars)
+-   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](https://osu.ppy.sh/beatmaps/186601) auf Easy (1.28 Stars)
+-   [Akcent feat. Edward Maya - That's My Name](https://osu.ppy.sh/beatmaps/132838) auf Easy (1.28 Stars)
+-   [Hatsune Miku - Do-re-mi-fa Rondo](https://osu.ppy.sh/beatmaps/163457) auf Easy (1.28 Stars)
 
-Herausforderung
----------
+## Herausforderung
 
 Möchtest du dich selber Herrausfordern? Dann versuch diese!
 
--   [DJ Fresh - Gold Dust](http://osu.ppy.sh/b/96042) auf Easy (1.32 Stars)
--   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](http://osu.ppy.sh/b/230174) auf Easy (1.36 Stars)
--   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](http://osu.ppy.sh/b/172736) auf Easy (1.36 Stars)
--   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](http://osu.ppy.sh/b/368307) auf Easy (1.45 Stars)
--   [Gentle Stick X M2U - Hades in the Heaven](http://osu.ppy.sh/b/318994) auf Easy (1.46 Stars)
+-   [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmaps/96042) auf Easy (1.32 Stars)
+-   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](https://osu.ppy.sh/beatmaps/230174) auf Easy (1.36 Stars)
+-   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](https://osu.ppy.sh/beatmaps/172736) auf Easy (1.36 Stars)
+-   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](https://osu.ppy.sh/beatmaps/368307) auf Easy (1.45 Stars)
+-   [Gentle Stick X M2U - Hades in the Heaven](https://osu.ppy.sh/beatmaps/318994) auf Easy (1.46 Stars)
 
-Weiter Gehen
-============
+# Weiter Gehen
 
-Wenn du die obrigen Beatmaps bereits gemeister hast, sollstest du hier nicht aufhöhren! Mach weiter und finde noch schwerere Beatmaps! Versuch Lieder zu finden, basierend auf \[<http://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra>= Vorschägen!\], woduch du eine Vorstellung bekommst, was du als nächstes Spielen solltest. Sei nicht scheu andere Spieler zu fragen wie du dich verbessern kannst, da fast immer sehr nett sind und irgendeine Beatmap parat haben, die sie mit dir Teilen wollen, woran sie selber spaß hatten. **Am aller, aller, ich wiederhole mich: aller Wichtigsten**, ist es **Spaß** zu haben!
+Wenn du die obrigen Beatmaps bereits gemeister hast, sollstest du hier nicht aufhöhren! Mach weiter und finde noch schwerere Beatmaps! Versuch Lieder zu finden, basierend auf \[<https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra>= Vorschägen!\], woduch du eine Vorstellung bekommst, was du als nächstes Spielen solltest. Sei nicht scheu andere Spieler zu fragen wie du dich verbessern kannst, da fast immer sehr nett sind und irgendeine Beatmap parat haben, die sie mit dir Teilen wollen, woran sie selber spaß hatten. **Am aller, aller, ich wiederhole mich: aller Wichtigsten**, ist es **Spaß** zu haben!

@@ -1,17 +1,14 @@
-Berkas Program osu!
-=======================
+# Berkas Program osu!
 
 ![File aturcara osu! secara keseluruhan](Osu!sys.jpg "File aturcara osu! secara keseluruhan")
 
-Lokasi
---------
+## Lokasi
 
 ### Windows
 
 Secara standar, `C:Program Filesosu!` di mana "C:" adalah kode hard disk dimana osu! diinstal. Untuk Windows 8, `C:Program Files(x86)osu!`.
 
-Folder
--------
+## Folder
 
 ### \_MACOSX
 
@@ -38,7 +35,7 @@ Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Opti
 
 ### Replay
 
-Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/forum/t/108092).
+Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/community/forums/topics/108092).
 
 Formatnya adalah `{Nama pemain tempatan} - {Penyanyi} - {Tajuk} {[Kesukaran]}{(TTTT-BB-HH)} {Mode Mainan}`
 **Contoh:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
@@ -51,7 +48,7 @@ Formatnya adalah `screenshot###` dimana "###" adalah nombor screenshot.
 
 ### Skins
 
-Memegang **Skin yang dibuat oleh pengguna yang dapat digunakan untuk menyesuaikan User Interface sekitar osu! dalam game.** Anda dapat memuat-turun lebih dari Skin osume!.exe(osu! updater) Anda dapat memuat-turun lebih dari Skin [forum istana kulit](https://osu.ppy.sh/forum/15). Skins download dari osume!.exe yang diambil segera dan siap untuk digunakan. Untuk download forum, ada dua kemungkinan. Jika anda mendapatkan executable osu!skin (.osk) file, langsung membukanya dan anda akan dipaksa untuk membuka osu! dan diarahkan ke "Skins Selector" layar dengan Skin baru yang berlokasi di daftar. Jika Skin download dalam bentuk folder, anda harus menempatkan folder di sini sendiri. Jika dalam format .zip/.rar, anda harus extract terlebih dahulu. Anda dapat mengubah Skin anda di [Options menu under Skins tab (Skin Selector)](/wiki/Options). Harap diingat Skin yang digunakan adalah *hanya efektif untuk osu! anda sendiri saja.*
+Memegang **Skin yang dibuat oleh pengguna yang dapat digunakan untuk menyesuaikan User Interface sekitar osu! dalam game.** Anda dapat memuat-turun lebih dari Skin osume!.exe(osu! updater) Anda dapat memuat-turun lebih dari Skin [forum istana kulit](https://osu.ppy.sh/community/forums/15). Skins download dari osume!.exe yang diambil segera dan siap untuk digunakan. Untuk download forum, ada dua kemungkinan. Jika anda mendapatkan executable osu!skin (.osk) file, langsung membukanya dan anda akan dipaksa untuk membuka osu! dan diarahkan ke "Skins Selector" layar dengan Skin baru yang berlokasi di daftar. Jika Skin download dalam bentuk folder, anda harus menempatkan folder di sini sendiri. Jika dalam format .zip/.rar, anda harus extract terlebih dahulu. Anda dapat mengubah Skin anda di [Options menu under Skins tab (Skin Selector)](/wiki/Options). Harap diingat Skin yang digunakan adalah *hanya efektif untuk osu! anda sendiri saja.*
 
 Untuk referensi lebih lanjut, silakan lihat muka [Pengkulitan](/wiki/Skinning). Juga, "osu! by peppy" adalah satu-satunya Skin tanpa folder dan tidak dapat dihapus secara langsung.
 
@@ -60,12 +57,11 @@ Untuk referensi lebih lanjut, silakan lihat muka [Pengkulitan](/wiki/Skinning). 
 **Beatmaps osu!**. Biasanya berisi .osu (Kesulitan), .mp3/.ogg (file musik), .jpg/.png/.gif (Gambar latar belakang), .osb (file SB) dan .mp4/.flv (file video). Kemungkinan berisi .wav/.ogg (file suara) dan folder (objek SB dan/atau skin).
 
 Formatnya adalah `{Kode nombor} {Penyanyi} - {Nama lagu}`.
-**Contoh:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Contoh:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](http://osu.ppy.sh/s/1)" atau "[avgn](http://osu.ppy.sh/s/66)". Disebutkan secara khusus pergi ke "[tutorial](http://osu.ppy.sh/s/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
+Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](https://osu.ppy.sh/beatmapsets/1)" atau "[avgn](https://osu.ppy.sh/beatmapsets/66)". Disebutkan secara khusus pergi ke "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
 
-Program files
------------------
+## Program files
 
 ### .dll (Ekstensi Aplikasi)
 

@@ -1,5 +1,4 @@
-Regeln
-============
+# Regeln
 
 Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb der osu! Community, in der sich jeder wohlfühlen soll.
 
@@ -36,7 +35,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 
 ## Regeln der Beatmap Submission
 
-Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmap_Submission_System) geteilt werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
+Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Glossary#bss) geteilt werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
 
 Darüber hinaus existieren noch detaillierte Regeln zur Erstellung von Beatmaps, wenn sie geranked werden sollen - die [Ranking Kriterien](/wiki/Ranking_Criteria).
 

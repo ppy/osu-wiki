@@ -6,7 +6,7 @@ date: 2018-02-27 09:00:00 +0000
 
 What's been happening in the Beatmap Nominators and Quality Assurance Team, you ask? Mapping successes, exciting current developments and many new team additions all round, that's what! Read on to find out all the details!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 Welcome back everyone!
 
@@ -22,7 +22,7 @@ That said, we're always striving towards future growth and even more impressive 
 
 ### New Beatmap Nominator promotions
 
-A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!: 
+A significant part in the above-mentioned success might be attributed to a few new Nominators joining our ranks - and when I say "a few", I mean twenty-one of them. Yes, really. Without further ado, please welcome the newst additions to the Beatmap Nominators for osu!:
 
 [- Frontier -](https://osu.ppy.sh/users/4314710), [ailv](https://osu.ppy.sh/users/6933054), [AyanokoRin](https://osu.ppy.sh/users/5376866), [Bubblun](https://osu.ppy.sh/users/6191653), [dsco](https://osu.ppy.sh/users/4330511), [ezek](https://osu.ppy.sh/users/180241), [Hailie](https://osu.ppy.sh/users/5226970), [iYiyo](https://osu.ppy.sh/users/3919785), [Kuron-Kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [mancuso_JM_](https://osu.ppy.sh/users/521568), [Namki](https://osu.ppy.sh/users/5248582), [Nevo](https://osu.ppy.sh/users/7451883), [Noffy](https://osu.ppy.sh/users/1541323), [pinataman](https://osu.ppy.sh/users/1235485), [Realazy](https://osu.ppy.sh/users/918297), [Sotarks](https://osu.ppy.sh/users/4452992), [TheKingHenry](https://osu.ppy.sh/users/5128277), [timemon](https://osu.ppy.sh/users/2072005), [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Wishkey](https://osu.ppy.sh/users/1101704)!
 
@@ -32,11 +32,11 @@ Additionally, [Electoz](https://osu.ppy.sh/users/6485263) and [Gabe](https://osu
 
 ### Beatmap Nominator retirements
 
-Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come. 
+Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
 
 ### Changes to Beatmap Nominator applications
 
-A major concern in previous months was how to ensure fairness when balancing the rewards of traditional forum post mods to the more generous Modding Discussions system. Unfortunately, the ability to log kudosu and/or modding activity on the Discussions system isn't yet implemented, so for the near future, we'll be treating each forum mod post and modding discussion with at least one suggestion as as **“1 mod”, regardless of the total kudosu obtained**. Mod sampling by Quality Assurance Team members will still take place during the evaluation process however to clear up any oddities.
+A major concern in previous months was how to ensure fairness when balancing the rewards of traditional forum post mods to the more generous Modding Discussions system. Unfortunately, the ability to log kudosu and/or modding activity on the Discussions system isn't yet implemented, so for the near future, we'll be treating each forum mod post and modding discussion with at least one suggestion as as **"1 mod", regardless of the total kudosu obtained**. Mod sampling by Quality Assurance Team members will still take place during the evaluation process however to clear up any oddities.
 
 We're still trying to determine an optimal strategy for evaluating aspiring Beatmap Nominators, balancing critical appraisal with accessibility and fairness for all. In the recent application round, the application pool was divided in two, with each half being evaluated by a team of three Quality Assurance Team members. Each team would attempt to come to a consensus on every applicant from their pool, based on experience, behaviour, modding quality, and so on.
 

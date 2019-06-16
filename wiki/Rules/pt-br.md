@@ -1,10 +1,8 @@
-Regras
-============
+# Regras
 
 Estas regras tem o propósito de manter a comunidade do osu! divertida e agradável para todos.
 
-Regras da Comunidade
----------------
+## Regras da Comunidade
 
 1.  **Cada jogador pode ter apenas *UMA* conta.** Essa conta é você. Não é mais ninguém - não é seu irmão, sua mãe, sua irmã, seu amigo - é VOCÊ. Não compartilhe sua conta com mais ninguém.
 2.  **Seja agradável com as pessoas.** Assédio ou qualquer outro tipo de comportamento impróprio não é aceito dentro da comunidade do osu! Nós estamos aqui para clicar em círculos, bater no ritmo dos tambores, pegar frutas, e acertar dezoito teclas de uma vez, não para perseguir outros jogadores.
@@ -12,8 +10,7 @@ Regras da Comunidade
 4.  **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores/NSFW (not safe for work) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui. Exceções são feitas quando tal assunto é apropriado para o momento, mas de uma maneira geral, não fale sobre isso.
 5.  **Onde as regras não prevalecem, o senso comum deve.** A administração tem total liberdade de discrição para aplicar um julgamento nisso caso achem necessário.
 
-Regras do Chat
-------------------
+## Regras do Chat
 
 1.  **Seja respeitoso com os outros usuários do canal, e evite qualquer tipo de flood ou spam.** Uma pessoa ocupando metade da tela de uma vez só é irritante, então evite isso sempre que possível. Outras pessoas também estão tentando conversar!
 2.  **Deixe que os moderadores cuidem dos problemas no canal.** Você pode ajudá-los com o comando `!report` e eles farão o resto.
@@ -25,8 +22,7 @@ Regras do Chat
 8. **Não compartilhe servidores de terceiros de qualquer tipo, incluindo grupos/servidores do Discord, Teamspeak ou Skype.** Os canais do osu! são em sua maioria utilizados apenas para conversas relacionadas ao osu!, e não para compartilhar links do seu servidor pessoal. Faça-o através da mensagem privada caso realmente seja necessário.
 9.  **Em canais de idioma específico, você deve falar o idioma dominante (inglês para #english, tailandês para #thai, etc) se você está participando da conversa.** Quando o idioma de um canal não é explicitamente claro (ou especificado no nome do canal, assim como português para `#portuguese` e inglês para `#english`), converse sempre em inglês. O `#lobby` e `#help` são utilizados para qualquer tipo de idioma, diferente dos outros canais. *Membros da [equipe de moderação](/wiki/People/Global_Moderation_Team) não precisam seguir essa regra caso estejam fazendo seu trabalho.*
 
-Regras do Fórum
-----------------
+## Regras do Fórum
 
 1.  **Poste apenas conteúdo relevante, interessante, ou ao menos mantenha-se no tópico.** Fóruns são para discussões abertas, então tenha certeza de colocar o mínimo de esforço para compensar o tempo de todos.
 2.  **Mantenha suas postagens e respostas adequadas para pessoas de todas as idades.** Conteúdo NSFW não é apropriado para uma comunidade livre para todas as idades, embora não tenha nada para impedir que você converse isso através de mensagens privadas.
@@ -36,10 +32,9 @@ Regras do Fórum
 6.  **Não poste anúncios, links tendenciosos ou qualquer outro tipo de conteúdo invasivo ou irritante.** Coisas como propagandas e links de redirecionamento são divertidos para a pessoa que está postando-as, mas um incômodo para todo o resto, então não faça isso. Conteúdos que carregam automaticamente também caem nessa regra.
 7.  **Compartilhamento de aplicativos inseguros ou de natureza incerta não são permitidos.** Entenda apenas de uma forma, caso tenha alguma dúvida da legitimidade de um determinado aplicativo, não os poste.
 
-Regras de Envio de Beatmap
----------------------------------
+## Regras de Envio de Beatmap
 
-Estas regras se aplicam aos beatmaps enviados pelo [sistema de envio de beatmaps](/wiki/Beatmap_Submission_System). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/editor).
+Estas regras se aplicam aos beatmaps enviados pelo [sistema de envio de beatmaps](/wiki/Glossary#bss). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/editor).
 
 Uma página de regras mais detalhadas para a elaboração de um beatmap existe, conhecida como [Ranking Criteria](/wiki/Ranking_Criteria).
 
@@ -47,8 +42,7 @@ Uma página de regras mais detalhadas para a elaboração de um beatmap existe, 
 2.  **Mantenha-se no tópico nas conversas.** Estes tópicos/discussões são sobre o beatmap em questão, nada mais. Caso tenha algum problema que não seja diretamente relacionado ao beatmap, faça uma postagem no fórum apropriado.
 3.  **Não plagie ou tente roubar o trabalho dos outros.** Também não envie ou utilize o conteúdo de outras pessoas sem a devida permissão (incluindo, mas se não limitando a, skins e dificuldades colaborativas (guest difficulties)).
 
-Regras do Off-topic
----------------
+## Regras do Off-topic
 
 *Estas regras se aplicam APENAS ao [Off-topic](https://osu.ppy.sh/community/forums/52), a não ser que seja descrito de outra maneira.*
 
@@ -56,8 +50,7 @@ Regras do Off-topic
 2. **Estupidez excessiva é ruim.** Ser claramente um idiota não tem problema, e entra no modus operandi de shitposting (postar conteúdo sem valor algum). Estupidez genuina nunca é bom. Caso tenha problemas em distinguir a diferença entre as duas, você já está quebrando a regra.
 3. **Tópicos de aniversário são apenas permitidos no off-topic, e em nenhum outro lugar.** Todos os tópicos de aniversário precisam ter pelo menos (3) imagens de menininhas de anime dançando ou ele será *brutalmente* atirado na frente de um ônibus em movimento.
 
-O que acontece se eu quebrar as regras?
----------------
+## O que acontece se eu quebrar as regras?
 
 Caso você seja encontrado quebrando as regras da comunidade, coisas ruins irão acontecer.
 

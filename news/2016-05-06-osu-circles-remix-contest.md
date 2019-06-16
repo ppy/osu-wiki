@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "osu! "circles!" Remix Contest"
-permalink: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
+title: 'osu! "circles!" Remix Contest'
 date: 2016-05-06 07:40:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
 ---
+
 Do you like to make music? Do you want to get your creative work out there for others to see? Look no further as we're putting the spotlight on the music creators of the community with osu!'s first ever remix contest! Sound interesting? Read on to see the details!
 
 For the first contest, participants are challenged to make a remix of nekodex's "circles!". There are stems provided for circles! for use in this contest, which can be found [right here!](https://nekodex.net/dl/nekodex_-_circles!_(stems).zip). The original song is 184bpm for those who may need it.

@@ -1,10 +1,8 @@
-Éditeur de Storyboards
-======================
+# Éditeur de Storyboards
 
 ' **Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](/wiki/Beatmap_Editor), dans la partie Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) basique, et est en général une bonne introduction au [Storyboarding](/wiki/Storyboards) avant le [Storyboard Scripting](/wiki/Storyboard_Scripting), plus complexe.
 
-Fonctionnalités
----------------
+## Fonctionnalités
 
 -   Affichage des coordonnées du curseur et du marqueur temporel (en millisecondes).
 -   Affiche les [images chargées](/wiki/Beatmap_Editor/SB_Load) actuellement sur tous les calques visibles.
@@ -25,8 +23,7 @@ Fonctionnalités
 -   Possibilité de définir la SB en fonction de la difficulté (Bouton "Diff. specific")
 -   Possibilité d'ajouter un Fond d'écran et mettre une couleur de fond.
 
-Limites
--------
+## Limites
 
 -   Pas d'effets sonores, pas très gênant du fait qu'ils pourraient gêner les joueurs si ils sont placés près des [Hit objects](/wiki/Hit_Objects). L'utilisation d'effets sonores n'est autorisée qu'aux mappers expérimentés, avec l'aide d'un BAT.
 -   Loops et déclencheurs impossibles à créer.

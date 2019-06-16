@@ -1,11 +1,10 @@
 ---
 outdated: true
 ---
-osu! Maskottchen
-================
 
-Pippi
------
+# osu! Maskottchen
+
+## Pippi
 
 ![Pippi](Pippi_Daru_Header.png "Pippi")
 
@@ -44,8 +43,7 @@ weiblich
 #### Biologische Daten
 (noch hinzuzufügen)
 
-Yuzu
-----
+## Yuzu
 
 ![Yuzu](Yuzu_Profile.png "Yuzu")
 
@@ -80,8 +78,7 @@ männlich
 #### Biologische Daten
 [Einführung](https://osu.ppy.sh/news/89483664163) (noch hinzuzufügen)
 
-Maria
------
+## Maria
 
 ![Maria](Maria_Profile.jpeg "Maria")
 
@@ -115,11 +112,9 @@ weiblich
 #### Biologische Daten
 [Einführung](https://osu.ppy.sh/news/143103453693) (noch hinzuzufügen)
 
-Cameos
-======
+# Cameos
 
-Ryūta Ippongi
--------------
+## Ryūta Ippongi
 
 ![Ryuuta](Fruit_ryuuta.png "Ryuuta")
 
@@ -138,7 +133,7 @@ Ryuuta
 #### Einsatz in
 * Catch the Beat (als chibi-Ryuuta) [ersetzt durch Yuzu]
 * osu!webpage (chibi-Ryuuta als Mascot) [Im Ruhestand]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (als NPC Easter Egg)
 
 #### Ersteller
@@ -156,8 +151,7 @@ männlich
 #### Biologische Daten
 Er is der heißblütige Führer des Anfeuerungssquads. Er hat eine gute Seele und hilft denen, die in Not sind und kämpft für sie!
 
-Agent J
--------
+## Agent J
 
 ![Agent J](J_chibi_Header.png "Agent J")
 
@@ -175,7 +169,7 @@ BA-2 (Beat Agent-2), J
 
 #### Einsatz in
 * osu!Webseite (chibi-J als Mascot) [Im Ruhestand]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Ersteller
 iNiS Corporation
@@ -192,8 +186,7 @@ männlich
 #### Biologische Daten
 Ein Experte in vielen Stilrichtungen vom Hip-Hop bis zum Ballett, J kann alle Lebewesen hypnotisieren.
 
-Don
----
+## Don
 
 ![Don](Don-chan_Taiko.png "Don")
 
@@ -229,7 +222,6 @@ May 2008
 #### Biologische Daten
 Don ist der Protagonist der Taiko no Tatsujin Serie. Er ist die Taiko-Trommel mit weißem Rand und vier Beinen, einem roten Gesicht (welches teils in Richtung Orange geht) und einem hell blauen Körper. Dons Traum ist es, die Schönheit von Taiko mit der ganzen Welt zu teilen. 3 Jahre sind nun schon vergangen, nachdem er ins Wada-Haus eingezogen ist und mehr und mehr in der Stadt bekannt wurde. Er hat einen monströsen Appetit und gibt viel Geld beim Einkaufen im Wada-Haus aus, welches nicht zu seinen Guten Seiten zählt. Er beendet für gewöhnlich seine Sätze mit "Ta-don", was aus dem Japanischen für "Ba-dum" steht.
 
-Bildergalerie
-=============
+# Bildergalerie
 
 [Klicke hier drauf, um zur Bildergalerie zu gelangen.](Mascots/Gallery "wikilink")

@@ -1,7 +1,6 @@
 # FAQ
 
-Wprowadzenie
-============
+# Wprowadzenie
 
 ### Nigdy nie grałem w tego całego „Ouendana” - co to jest?
 
@@ -11,15 +10,13 @@ Wprowadzenie
 
 Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawiona jest historia. Generalnie każdy poziom jest historyjką o jakiejś osobie, która ma problem. Właśnie to jest moment, gdzie Ouendan (drużyna pocieszająca) wkracza do gry. Dzięki magicznej mocy męskiego cheerleadowania, musisz pomóc ludziom w potrzebie.
 
-Jak w to się gra?
------------------
+## Jak w to się gra?
 
 *Pełny artykuł: [osu!standard](PL:Standard "wikilink")*
 
 Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](PL:Play_Styles "wikilink"). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
-Mechanika gry
--------------
+## Mechanika gry
 
 Rozgrywka naciska na:
 
@@ -87,11 +84,9 @@ To jest interfejs osu!.
 -   Kółko obok procentów i poniżej punktów to timer, który pokazuje długość piosenki.
 -   Liczba w lewym dolnym rogu to twoje combo.
 
-Inne tryby gry
-==============
+# Inne tryby gry
 
-Czym jest „Taiko”?
-------------------
+## Czym jest „Taiko”?
 
 *Pełny artykuł: [Taiko](PL:Taiko "wikilink")*
 
@@ -133,14 +128,13 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
-`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
-`W trakcie gry umiejscowienie kursora nie jest ważne.`
+`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
+`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
+`W trakcie gry umiejscowienie kursora nie jest ważne.`
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
 
-Czym jest „Catch the Beat”?
----------------------------
+## Czym jest „Catch the Beat”?
 
 [200px|thumb|right|Rozgrywka w trybie Catch the Beat.](image:ctbaqua.jpg "wikilink")
 
@@ -151,13 +145,12 @@ Czym jest „Catch the Beat”?
 
 ### Kontrolowanie catchera
 
-`W trakcie używania moda Relax catcherem można sterować za pomocą myszy.`
+`W trakcie używania moda Relax catcherem można sterować za pomocą myszy.`
 
 -   Domyślnie poruszać można się za pomocą lewej \[&lt;-\] i prawej \[-&gt;\] strzałki na klawiaturze.
 -   Przytrzymywanie lewego klawisza \[SHIFT\] pozwala na przyśpieszenie łapacza (tzw. dash) do x1.5 szybkości (pokazywane jasną poświatą wokół postaci).
 
-Czym jest "osu!mania"?
-----------------------
+## Czym jest "osu!mania"?
 
 ![ thumb | 200px |Rozgrywka w trybie osu!mania]( Mania screenshot.jpg  " thumb | 200px |Rozgrywka w trybie osu!mania")
 
@@ -255,13 +248,11 @@ Przypisanie klawiszy "Od lewej do prawej" (styl Beatmanii IIDX)
 </tbody>
 </table>
 
-Zdobywanie punktów
-==================
+# Zdobywanie punktów
 
 *Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry.*
 
-Oceny
------
+## Oceny
 
 **<u>Normalne oceny</u>**
 
@@ -284,36 +275,31 @@ Oceny
 -   **Oceny pokazane na twoim profilu zależą od zdobytego wyniku na specyficznych beatmapach**.
     -   Jeżeli zdobyłeś SS na łatwym poziomie trudności lecz B na szalonym poziomie trudności(org. Insane), a twój wynik na poziomie szalonym jest wyższy niż ten na łatwym, pokazana będzie ocena z szalonego poziomu zamiast łatwego.
 
-Popularne problemy i pytania
-============================
+# Popularne problemy i pytania
 
-Gdzie mogę znaleźć i ściągnąć beatmapy?
----------------------------------------
+## Gdzie mogę znaleźć i ściągnąć beatmapy?
 
 *Pełny artykuł: [Beatmapy](PL:Beatmaps "wikilink")*
 
-Możesz znaleźć je pod nazwą "[Beatmaps](http://osu.ppy.sh/p/beatmaplist)".
+Możesz znaleźć je pod nazwą "[Beatmaps](https://osu.ppy.sh/p/beatmaplist)".
 
 -   Pamiętaj o zalogowaniu się! W przeciwnym wypadku strona potraktuje cię jako gościa i zablokuje możliwość ściągania beatmap.
 
-Czy mogę wyłączyć Czas Kiai?
-----------------------------
+## Czy mogę wyłączyć Czas Kiai?
 
 Nie, ponieważ w przeciwieństwie do video, jest on zintegrowany z grą, przez co nie może zostać wyłączony.
 
-Te mapy są za trudne! Gdzie mogę znaleźć łatwiejsze?
-----------------------------------------------------
+## Te mapy są za trudne! Gdzie mogę znaleźć łatwiejsze?
 
-Pokebis stworzył kompilację map przeznaczonych dla nowych graczy. Możesz znaleźć je tutaj: <http://osu.ppy.sh/forum/t/5456>
+Pokebis stworzył kompilację map przeznaczonych dla nowych graczy. Możesz znaleźć je tutaj: <https://osu.ppy.sh/community/forums/topics/5456>
 
-Także [rankingowa wersja osu! tutorial](http://osu.ppy.sh/s/19928) jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
+Także [rankingowa wersja osu! tutorial](https://osu.ppy.sh/beatmapsets/19928) jest dobra do ćwiczenia różnych możliwych stylów mapowania, z którymi przyjdzie ci się zmierzyć. To świetny trening zarówno dla początkujących, jak i zaawansowanych graczy.
 
-Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności](http://osu.ppy.sh/?p=beatmaplist&s=3). Najłatwiejsze mapy są na górze listy.
+Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trudności](https://osu.ppy.sh/?p=beatmaplist&s=3). Najłatwiejsze mapy są na górze listy.
 
-Źródła
-======
+# Źródła
 
--   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
--   Peter Lambert - osu! tutorial ([Original tutorial](http://osu.ppy.sh/s/3756), [Ranked beatmap ver.](http://osu.ppy.sh/s/19928))
--   Pokebis's Beginner's Training [2](http://osu.ppy.sh/forum/t/5456)
+-   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
+-   Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
+-   Pokebis's Beginner's Training [2](https://osu.ppy.sh/community/forums/topics/5456)
 -   Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

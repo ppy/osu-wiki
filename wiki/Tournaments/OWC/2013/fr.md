@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-osu! World Cup 2013
-======================
+
+# osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
@@ -15,8 +15,7 @@ Cette compétition est terminée et a abouti au podium suivant :
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taïwan**       |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Pologne**      |
 
-Calendrier
-------------
+## Calendrier
 
 | Event                    | Timestamp                        |
 |--------------------------|----------------------------------|
@@ -28,36 +27,32 @@ Calendrier
 | Demi-finales             | 30 novembre et 1er décembre 2013 |
 | Finale et petite finale  | 7 et 8 décembre 2013             |
 
-Lots attribués
-----------------
+## Lots attribués
 
 Pour chaque participant :
 
 | Placing                                                    | Prize(s)                                                                                                                                                                  |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                                                        |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                                                        |
 
-Organisateurs
---------------
+## Organisateurs
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Direction                 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400)                                                                                                                                                                                                                                                                               |
-| Arbitrage                 | Liste des arbitres disponible [à cette adresse](https://osu.ppy.sh/g/26)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Arbitrage                 | Liste des arbitres disponible [à cette adresse](https://osu.ppy.sh/groups/26)                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Sélection des beatmaps    | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323)                                                                                                                                                                                                                                                                       |
 | Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)                                                                                                                                                                                                                  |
 | Commentaires              | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Statistiques              | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-Retransmission des matchs
---------------------------
+## Retransmission des matchs
 
 La plupart des matchs ont été diffusés et sont disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/profile/pastBroadcasts).
 
-Équipes
--------------
+## Équipes
 
 Les capitaines sont représentés en gras.
 
@@ -113,8 +108,7 @@ Les capitaines sont représentés en gras.
 | ![][flag_SG] Singapore   | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela   | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli                               |
 
-Résultats
----------
+## Résultats
 
 Consultez le [tableau des résultats et des statistiques](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web) pour tous les détails.
 Le graphique suivant montre les équipes qui se sont qualifiées pour les huitièmes de finale :
@@ -237,8 +231,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 |:----------------------------------------------|:------------|:-----------------------------------------:|-------------------------------------|
 | ![][flag_GB] United Kingdom | 1   - **6** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
-Beatmaps à disposition
------------------------------
+## Beatmaps à disposition
 
 ### Poules
 
@@ -410,8 +403,7 @@ Beatmaps à disposition
 - Tiebreaker
   - **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) \[Love\]](https://osu.ppy.sh/beatmaps/226605)**
 
-Règlement
-------------
+## Règlement
 
 ### Lexique
 
@@ -526,10 +518,9 @@ Règlement
 4.  Les horaires des matchs sont imposés par la direction et seront diffusés le dimanche précédent le début de chaque phase. La direction fera de son mieux pour prévoir des horaires convenables pour chaque équipe en fonction de leur fuseau horaire.
 5.  Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 7 autres joueurs dans son équipe plutôt que 3 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 4 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
 
-Liens importants
----------------
+## Liens importants
 
--   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

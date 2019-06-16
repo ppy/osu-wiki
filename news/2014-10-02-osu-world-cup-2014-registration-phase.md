@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/98965605173/osu-world-cup-2014-registration-phase
 date: 2014-10-02 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98965605173/osu-world-cup-2014-registration-phase
 ---
+
 We'd like to welcome all of you to this year's official osu! World Cup. The rules have been adjusted from the previous OWC, so please [read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014#ruleset) before registering for this tournament.
 
-![](http://puu.sh/bTQLf/10bc4ca19a.png)
+![](/wiki/shared/news/banners/owc_2014.png)
 
 For more details, refer to the [osu! World Cup 2014 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014).
 
@@ -57,6 +57,6 @@ If your registration is successful, your team's captain will be notified. _Any r
 
 *   [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng/edit)
 *   [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014)
-*   [Discussion thread](https://osu.ppy.sh/forum/p/3410198)
+*   [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
 
 —Loctav

@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
+
 [Filmik o maskotkach](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
-Maskotki osu!
-=============
+# Maskotki osu!
 
-Pippi
------
+## Pippi
 
 ![Pippi](Pippi_Daru_Header.png "Pippi")
 
@@ -46,8 +45,7 @@ Kobieta
 #### Dane biograficzne
 (niedostępne)
 
-Yuzu
-----
+## Yuzu
 
 ![Yuzu](Yuzu_Profile.png "Yuzu")
 
@@ -82,8 +80,7 @@ Mężczyzna
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/news/89483664163) (niedostępne)
 
-Maria
------
+## Maria
 
 ![Maria](Maria_Profile.jpeg "Maria")
 
@@ -117,11 +114,9 @@ Kobieta
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/news/143103453693) (niedostępne)
 
-Cameos
-======
+# Cameos
 
-Ryūta Ippongi
--------------
+## Ryūta Ippongi
 
 ![Ryuuta](Fruit_ryuuta.png "Ryuuta")
 
@@ -140,7 +135,7 @@ Ryuuta
 #### Występowanie
 * Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
 * Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/forum/t/190357/)
+* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 * Yandere Simulator (jako NPC (easteregg))
 
 #### Twórcy
@@ -158,8 +153,7 @@ Mężczyzna
 #### Dane biograficzne
 Jest liderem zagrzewającego składu. Ma dobre serce i pomaga tym, którzy są nieszczęśliwi, poprzez wspieranie ich i zagrzewanie do walki!
 
-Agent J
--------
+## Agent J
 
 ![Agent J](J_chibi_Header.png "Agent J")
 
@@ -177,7 +171,7 @@ BA-2 (Beat Agent-2), J
 
 #### Występowanie
 * Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/forum/t/190357/)
+* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Twórcy
 iNiS Corporation
@@ -194,8 +188,7 @@ Mężczyzna
 #### Dane biograficzne
 Jako ekspert w wielu stylach tańca (od hip-hopu po balet), J potrafi oczarować każdego.
 
-Don
----
+## Don
 
 ![Don](Don-chan_Taiko.png "Don")
 
@@ -231,10 +224,8 @@ Maj 2008
 #### Dane biograficzne
 Don jest protagonistą serii Taiko no Tatsujin. Jest bębenkiem taiko z białymi krawędziami, czterema nogami, czerwoną twarzą (która może się pojawiać jako łagodny pomarańczowy) oraz jasnoniebieskim (w Catch the Beat) lub ciemnoniebieskim (w Taiko) ciałem. Marzeniem Dona jest dzielenie się pięknem Taiko ze światem. Minęły 3 lata odkąd przeniósł się do Wada House i stał się popularny w mieście. Ma potworny apetyt, czasem robi też drogie zakupy w Wada House, co może się dla niego kiedyś źle skończyć. Zazwyczaj kończy swoje zdania z „Ta-don", co po japońsku oznacza „Ba-dum".
 
-Don
----
+## Don
 
-Galeria zdjęć
-=============
+# Galeria zdjęć
 
 [Kliknij, aby przejść do galerii zdjęć.](Mascots/Gallery "wikilink")

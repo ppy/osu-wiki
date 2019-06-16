@@ -18,7 +18,7 @@ Nice.
 
 Unfortunately, for the third time in a row, we're not going to have videos in this post. We're not sure if our video editor is going to be available in the future, so we've contacted another party in hopes of working with them for the upcoming voting rounds. Sorry!
 
-Lastly, as a reminder in case if you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form.
+Lastly, as a reminder in case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form.
 
 Alright then, let's jump right in!
 

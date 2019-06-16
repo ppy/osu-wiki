@@ -1,12 +1,10 @@
-Storyboard Scripting General Rules
-================================================
+# Storyboard Scripting General Rules
 
 ![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
 
  ガイドの残りの.osb もしくは .osuファイルの`[Events]`の下に置かれるコードについて解説をしています。osbに記述されたコマンドは全ての難易度で、osuファイルに記述されたものはその難易度のみで動作します。
 
-基本ルール
------------
+## 基本ルール
 
 ### オブジェクト
 
@@ -97,11 +95,10 @@ Storyboard Scripting General Rules
     -   イベントはプレイヤーがリザルト画面へ行っても継続され、音声データは引き続き聞くことが可能です。
 -   Designタブを開いている時、表示されている現在のタイムをCtrl+Cをすることで単位ミリセカンドでクリップボードにコピーすることができます。
 
-コメント
----------
+## コメント
 
 シングルラインのCスタイルのコメントを入れることができますが、ゲーム内のEditorで保存をすればそれは消えてしまいます。デフォルトでは4つのレイヤーにコマンドを分けることが勧められています。
 
-`// This is a comment.`
+`// This is a comment.`
 
 C/C++/C#/Javaと異なり、有効なコマンドの後ろにこのコマンドを入れることはできず、またブロックコメントをすることもできません。

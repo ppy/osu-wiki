@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Featured Artist: Rin / Function Phantom"
-permalink: http://osunews.tumblr.com/post/161207732693/new-featured-artist-rin-function-phantom
 date: 2017-05-29 17:46:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161207732693/new-featured-artist-rin-function-phantom
 ---
@@ -22,7 +21,7 @@ You might've already noticed that *Algebra* from **Function Phantom** was featur
 
 But, it doesn't end there! **Function Phantom** aside, we're excited to introduce three sets from **Rin**'s Touhou House mix series, a distinctly new twist on some classic sounds from ZUN and the Touhou universe as a whole.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283787357&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283787357&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
 We currently have *three* of these sets available for use in mapping - the House set of Double Dealing Character, the House set of Imperishable Night and the House set of Legacy of Lunatic Kingdom. These three together comprise of over 60 tracks, massively varied in sound and feeling - but all distinctly Touhou in their own way.
 

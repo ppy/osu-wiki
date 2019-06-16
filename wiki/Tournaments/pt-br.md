@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-Torneios
-===============
+# Torneios
 
-Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/forum/55)
+Seção dedicada a Torneios ou Competições. [Link dos fórums aqui.](https://osu.ppy.sh/community/forums/55)
 
-Copas do Mundo Oficiais
-----------------------
+## Copas do Mundo Oficiais
 
-Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/g/26).
+Tornamentos oficiais sediados pela [Gerência de Torneios](https://osu.ppy.sh/groups/26).
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
@@ -60,8 +58,7 @@ osu! World Cup é um torneio de times (países) 4v4 VS seguindo a regra do mata-
 | [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 28/06/2016 | 11/09/2016 | 4K   | ![][flag_KR] Coréia do Sul                       | ![][flag_BR] Brasil                       | ![][flag_US] USA                         |
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 12/12/2016 | 12/02/2017 | 7K   | ![][flag_KR] Coréia do Sul                     | ![][flag_CN] China                 | ![][flag_ID] Indonésia                    |
 
-Comunidade
-----------
+## Comunidade
 
 Torneios e competições não-oficiais também são sediados pelas comunidades.
 
@@ -69,18 +66,29 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/u/6178640)           | [bsurma](https://osu.ppy.sh/u/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640)           | [bsurma](https://osu.ppy.sh/users/509575)                | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 | Nome                                             | Início      | Fim        | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
 |--------------------------------------------------|------------|------------|----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/u/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/u/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/u/%5BCrz%5DScSolAr) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/users/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/users/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/%5BCrz%5DScSolAr) |
 
-Veja também
----------
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
+
+| Nome | Início | Fim | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+| --- | --- | --- | --- | --- | --- |
+| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+
+| Nome | Data | ![Gold Crown](/wiki/shared/GCrown.png "1º Lugar") | ![Silver Crown](/wiki/shared/SCrown.png "2º Lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "3º Lugar") |
+| --- | --- | --- | --- | --- |
+| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+
+## Veja também
 
 -   [Lista de países que participaram em torneios do osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [Cronograma de Temporada da World Cup 2013/14](https://osu.ppy.sh/forum/t/148024)
+-   [Cronograma de Temporada da World Cup 2013/14](https://osu.ppy.sh/community/forums/topics/148024)
 -   [osu!tourney](/wiki/osu!tourney) (Cliente utilizado para streaming de torneios)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

@@ -20,7 +20,7 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 | Quarterfinals | 2019-07-13/2019-07-14 |
 | Semifinals | 2019-07-20/2019-07-21 |
 | Finals | 2019-07-27/2019-07-28 |
-| Grand Finals | 2019-08-03/2019-07-04 |
+| Grand Finals | 2019-08-03/2019-08-04 |
 
 ## Prizes
 
@@ -255,4 +255,9 @@ _Mappools won't be available until one week before the stage that it is meant to
 [flag_VN]: /wiki/shared/flag/VN.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gi
 [flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_TN]: /wiki/shared/flag/TN.gif

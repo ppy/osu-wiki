@@ -1,14 +1,14 @@
 ---
 outdated: true
 ---
+
 ![BanchoBot's tab.](img/BanchoBot.jpg "BanchoBot's tab.")
 
 IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](HK:IRC "wikilink").
 
 有自己的個人檔案! :D
 
-外觀和任務
-----------
+## 外觀和任務
 
 &lt;!-​​-- 關於\#annouce，\#multiplayer 等... ---&gt;
 
@@ -30,7 +30,6 @@ IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](HK:IRC "wikilink").
 | REQUEST (list) | 顯示一個隨機MOD的要求。  [list] Shows 5 random recent mod request | !request | Seether - Fake It by [Dellirium] |
 | ROLL (number) | 隨機得到數字從1到(編號) （默認100） | !roll 9000 | John rolls 1337 point(s) |
 
-其他ID
-------
+## 其他ID
 
 -   is 1, is 2, is 3. \#4-\#52 不同的Bot，按字母順序排列。

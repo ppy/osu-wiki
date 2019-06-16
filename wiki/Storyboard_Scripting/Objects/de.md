@@ -1,15 +1,14 @@
 ---
 outdated: true
 ---
-Storyboard Scripting - Objekte
-=================================
+
+# Storyboard Scripting - Objekte
 
 ![Aufruf von Objekten/Sprites im SB](SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
 
  Beim [Storyboarding](/wiki/Storyboards) sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](/wiki/Storyboard_Scripting/Audio) noch einen eigenen Artikel dazu.  |
 
-Definition von Objekten
------------------------
+## Definition von Objekten
 
 Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzurufen, benutzen Sie dazu maximal eine Zeile im `[Events]` in der .osb Datei oder .osu Datei zu deklarieren.
 
@@ -60,8 +59,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 
 Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird*. Das kommt ganz auf [die Befehle selbst](/wiki/Storyboard_Scripting/Commands) an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
 
-Beispiele
----------
+## Beispiele
 
 | Grundbilder | Bewegende Bilder |
 | ----------- | ------------ |

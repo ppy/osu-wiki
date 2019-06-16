@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
@@ -102,7 +103,7 @@ Nous autoriserons l'achat de 'score reset' depuis le osu!store pour les joueurs 
 
 **Oui, absolument !**
 
-Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://store.ppy.sh/store/product/32).
+Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://osu.ppy.sh/store/products/32).
 
 À n'importe quel moment après l'achat, vous pouvez changer votre nom d'utilisateur vers tout ce que vous voulez. Cependant, le prix des changements augmente à chaque fois - le second coûtera 8$ USD, le troisième 16$ USD, et ainsi de suite. Nous avons pris cette mesure afin d'éviter que certains n'abusent de ce système pour changer de nom trop fréquemment.
 
@@ -112,7 +113,7 @@ Si vous ne souhaitez changer que la casse ou corriger une faute de frappe, vous 
 
 **Oui, mais sous certaines conditions.**
 
-Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://store.ppy.sh/store/product/32) pour les frais standards associés au changement de nom d'utilisateur.
+Si le joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la [page de changement de nom du osu!store](https://osu.ppy.sh/store/products/32) pour les frais standards associés au changement de nom d'utilisateur.
 
 Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 jours) sera ajouté au temps avant que le nom de ce joueur soit disponible. Cette précaution est prise afin d'éviter que des gens ne volent les nom d'utilisateurs de joueurs trop récemment inactifs.
 
@@ -120,7 +121,7 @@ Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 j
 
 **Oui, mais sous certaines conditions.**
 
-Nous ne faisons de retour de nom que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://store.ppy.sh/store/product/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
+Nous ne faisons de retour de nom que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
 
 Nous ne permettons cela qu'une fois par compte, choisissez donc bien votre moment !
 
@@ -474,7 +475,7 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 1. Cliquez sur le bouton d'options en jeu
 2. Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
 3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par example).
-4. C'est bon ! 
+4. C'est bon !
 
 Vous ne recevrez ni messages publiques, ni messages privés venant des utilisateurs de cette liste.
 
@@ -679,7 +680,7 @@ Gardez votre ordinateur propre et protégé et vous devriez apercevoir des amél
 
 Le seul moyen de régler ce problème est d'acheter un nouvel ordinateur !
 
-#### Est-ce que vos pilotes sont à jour ? 
+#### Est-ce que vos pilotes sont à jour ?
 
 **D'anciens pilotes peuvent aussi causer des problèmes. Assurez-vous de garder à jour vos pilotes.**
 
@@ -713,7 +714,7 @@ Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de tr
 
 **C'est dû à un effet nommé [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing), ce peut être corrigé en définissant l'option `Images par secondes` sur `VSync`.**
 
-Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça arrive quand le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur. 
+Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça arrive quand le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur.
 
 Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
  
@@ -727,7 +728,7 @@ Les cartes graphiques NVidia récentes ont une option globale dans le Panneau de
 
 ### Comment télécharger osu! ?
 
-**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/).**
+**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
 
 Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers la page des téléchargements.
 
@@ -772,7 +773,7 @@ Chaque utilisateur a un nombre limité de beatmaps qu'il peut mettre en ligne si
 
 **Ça peut arriver si le créateur de la beatmap n'est pas proprement défini dans les fichiers de la beatmap.**
 
-Dans l'éditeur, cliquez sur `File` dans le menu, puis `Open .osu file in Notepad`. Cochez la ligne `Creator:` et assurez-vous que votre nom exact est marqué dessus, casse comprise. 
+Dans l'éditeur, cliquez sur `File` dans le menu, puis `Open .osu file in Notepad`. Cochez la ligne `Creator:` et assurez-vous que votre nom exact est marqué dessus, casse comprise.
 
 Si ce n'est pas le cas, changez le manuellement pour chaque difficulté de votre set, rechargez la map, et vous pouvez enfin la soumettre.
 
@@ -796,7 +797,7 @@ Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur
 
 ### Comment configurer le osu!keyboard ?
 
-**Vous pouvez le faire via le programme de configuration du osu!keyboard, disponible à partir de [ce lien](http://puu.sh/l6urN/4b6bc800f2.zip).**
+**Vous pouvez le faire via le programme de configuration du osu!keyboard, disponible à partir de [ce lien](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Simplement l'extraire quelque part sur votre ordinateur suffit, et lancez l'exécutable !
 
@@ -838,7 +839,7 @@ Supprimer ces résidus peut faire fonctionner à nouveau votre LED. Si c'est le 
 
 **Cela peut être compliqué de savoir pourquoi puisque la osu!tablet est un ensemble de deux éléments (la tablette et le stylet).**
 
-En sachant cela, il peut être difficile de dire d'où vient le problème. 
+En sachant cela, il peut être difficile de dire d'où vient le problème.
 
 Pour le savoir, essayez les étapes suivantes:
 
@@ -850,7 +851,7 @@ Pour le savoir, essayez les étapes suivantes:
 2. Rebranchez doucement le câble dans le slot USB de votre système.
 3. Si la tablette fonctionne, le slot lumineux sur votre tablette devrait faire des flashs verts puis s'éteindre. C'est ce qui devrait se passer.
 
-Si la lumière de la tablette ne fait pas de flashs, essayez d'utiliser un autre câble USB - celui fourni avec la tablette peut être usé par le transport ou par un usage intensif. 
+Si la lumière de la tablette ne fait pas de flashs, essayez d'utiliser un autre câble USB - celui fourni avec la tablette peut être usé par le transport ou par un usage intensif.
 
 Si le problème persiste et que votre produit est assez récent (environ un mois), veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) pour de l'assistance.
 
@@ -867,9 +868,9 @@ Nous pouvons essayer de vous aider à résoudre votre problème avec d'anciennes
 - Revissez la plaque.
 - Appuyez sur le bouton à l'arrière (extrémité de la gomme) du stylet jusqu'à ce qu'il clique.
 
-Si la tablette fonctionne correctement, rapprocher le stylet de la tablette déplacera le curseur sur votre écran. 
+Si la tablette fonctionne correctement, rapprocher le stylet de la tablette déplacera le curseur sur votre écran.
 
-Si ça n'arrive pas et que vous avez suivi les étapes de vérification de la tablette précédent cette section, alors il est possible que votre stylet est cassé ou défectueux. 
+Si ça n'arrive pas et que vous avez suivi les étapes de vérification de la tablette précédent cette section, alors il est possible que votre stylet est cassé ou défectueux.
 
 Si votre stylet a été endommagé par l'usure ou par un accident (comme une chute), nous ne pouvons pas vous offrir de remplacement.
 
@@ -926,7 +927,7 @@ Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mai
 
 **Les journaux sont des enregistrement de ce que le jeu fait à un certain moment. Nous pouvons les utiliser pour déterminer ce qui pose problème.**
 
-Ces fichiers sont extrêmement utiles et peuvent aider à résoudre des problèmes complexes. 
+Ces fichiers sont extrêmement utiles et peuvent aider à résoudre des problèmes complexes.
 
 Si un membre du support vous en demande, voici comment les obtenir:
 

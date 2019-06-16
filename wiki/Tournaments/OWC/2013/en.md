@@ -28,7 +28,7 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/forum/t/169139) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
@@ -46,7 +46,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/t/160181/start=0)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
 - **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 
@@ -287,25 +287,25 @@ The osu! World Cup 2013 was run by various community members by distributing the
 ### Finals
 
 | Saturday, 2013-12-07 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Korea** ![][flag_KR] | **6** | 5 |![][flag_TW] Taiwan  | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
 
 | Sunday, 2013-12-08 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  United Kingdom ![][flag_GB] | 1 | **6** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
 ### Semifinals
 
 | Saturday, 2013-11-30 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Korea** ![][flag_KR] | **6** | 1 |![][flag_GB] United Kingdom  | [#1](https://osu.ppy.sh/community/matches/3088440) |
 |  **Taiwan** ![][flag_TW]| **6** | 0 |![][flag_PL] Poland  | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
 ### Quarterfinals
 
 | Sunday, 2013-11-24 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  Japan ![][flag_JP]| 2 | **5** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/2962477) |
 |  **Korea** ![][flag_KR] | **5** | 2 |![][flag_AT] Austria   | [#1](https://osu.ppy.sh/community/matches/2964278) |
 |  China ![][flag_CN]| 4 | **5** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/2966197) |
@@ -314,14 +314,14 @@ The osu! World Cup 2013 was run by various community members by distributing the
 ### Round of 16
 
 | Saturday, 2013-11-16 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Korea** ![][flag_KR] | **5** | 0 |![][flag_RU] Russian Federation  | [#1](https://osu.ppy.sh/community/matches/2778204) |
 |  Hong Kong  ![][flag_HK]| 3  | **5** |![][flag_DE] **Germany**   | [#1](https://osu.ppy.sh/community/matches/2780657) |
 |  **United Kingdom** ![][flag_GB]| **5** | 1 |![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/2783657) |
 
 
 | Sunday, 2013-11-17 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **China** ![][flag_CN]| **5** | 2 |![][flag_US] United States  | [#1](https://osu.ppy.sh/community/matches/2805329) [#A](https://osu.ppy.sh/ss/1107405) [#B](https://osu.ppy.sh/ss/1107418) |
 |  **Japan** ![][flag_JP]| **5** | 1 |![][flag_NL] Netherlands  | [#1](https://osu.ppy.sh/community/matches/2811659) |
 |  **Taiwan** ![][flag_TW] | **5** | 0 |![][flag_BR] Brazil   | [#1](https://osu.ppy.sh/community/matches/2814063) |
@@ -331,7 +331,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 ### Group Stage
 
 | Friday, 2013-11-08 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Taiwan** ![][flag_TW]| **4** | 0 |![][flag_ID] Indonesia   | [#1](https://osu.ppy.sh/community/matches/2581408) |
 |  **Poland** ![][flag_PL]| **4** | 0 |![][flag_RU] Russian Federation  | [#1](https://osu.ppy.sh/community/matches/2587307) |
 |  **Finland**  ![][flag_FI]| **4** | 0 |![][flag_EE] Estonia  | [#1](https://osu.ppy.sh/community/matches/2588205) |
@@ -341,7 +341,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 
 | Saturday, 2013-11-09 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ![][flag_ID]  | **4** | 0 |![][flag_VE] Venezuela   | [#1](https://osu.ppy.sh/community/matches/2597698) |
 |  **Japan** ![][flag_JP]| **4** | 1 |![][flag_CA] Canada  | [#1](https://osu.ppy.sh/community/matches/2598602) |
 | **Korea** ![][flag_KR] | **4** | 0 |![][flag_NO] Norway  | [#1](https://osu.ppy.sh/community/matches/2605519) |
@@ -364,7 +364,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 
 | Sunday, 2013-11-10 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 |  **Thailand** ![][flag_TH]| **4** | 0 |![][flag_SG] Singapore  | [#1](https://osu.ppy.sh/community/matches/2644383) |
 |  **China** ![][flag_CN]| **4** | 1 |![][flag_PH] Philippines  | [#1](https://osu.ppy.sh/community/matches/2642702) [#2](https://osu.ppy.sh/community/matches/2644022) [#3](https://osu.ppy.sh/community/matches/2644544) |
 |  **Australia** ![][flag_AU] | **4** | 0 |![][flag_BG] Bulgaria   | [#1](https://osu.ppy.sh/community/matches/2645416) |

@@ -1,14 +1,14 @@
-AiMod
-========
+# AiMod
 
-**AiMod** is a tool built in the osu! Beatmap Editor, you can open it by pressing `Control` + `Shift` + `A` or by clicking **File** » **Open AiMod**. AiMod will help new mappers "mod" their maps. The issues with AiMod is that it was designed to be simple, so AiMod will most likely not detect issues with mapping patterns or bad BPM/timing. So in the end, you will still need a [modder](/wiki/Glossary) to mod your beatmap.
+**AiMod** is a modding tool built into the [Beatmap Editor](/wiki/Beatmap_Editor). To open AiMod, press `Control` + `Shift` + `A` or navigate via menu options **File** » **Open AiMod** once a beatmap is open in the Beatmap Editor.
+
+AiMod aims to help beginner mappers "mod" their beatmaps. The limitation of AiMod lies with its basic design which causes it to sometimes overlook issues such as bad mapping patterns, BPM, or timing. Finding a [modder](/wiki/Glossary) to mod your beatmap is strongly recommended.
 
 ![AiMod](AiMod.jpg "AiMod is usually your first modder")
 
-After AiMod checks over your beatmap (should take less than a minute), the warnings and errors are displayed. If "No problems were found in this map!"… Then congratulations! Your beatmap passed the AiMod "modding", but you'll still need to find [modder](/wiki/Glossary) to mod your beatmap because they will find more issues than what AiMod can detect.
+AiMod typically completes its beatmap analysis in under a minute and subsequently displays warnings and errors. If no problems were found in your beatmap, then congratulations! The beatmap passed the AiMod analysis, but it still requires modding from the community. The modders can find other issues that AiMod failed to detect.
 
-Tabs
-----
+## Tabs
 
 **All**
 
@@ -35,8 +35,7 @@ Tabs
 
 -   These problems affect the mapset as a whole.
 
-Messages
---------
+## Messages
 
 >Note: Numbers inside curly brackets (i.e. "{0}") is a placeholder for a number or a word.
 
@@ -55,7 +54,7 @@ Messages
 | HP rate for Easy/Normal is suggested to be at least 4. | osu!mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
 | HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
-| The Slider Velocity should be 1.40 or 1.60. |	osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
+| The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
 
 
 ### Errors
@@ -144,7 +143,7 @@ Messages
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
-| OD rate for maps with very few sliders is suggested to be at least 8. | 	osu!mania maps only! | |
+| OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! | |
 | Countdown is not allowed in taiko mode. | osu!taiko maps only! | |
 | Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! | |
 | Letterboxing is not allowed in taiko mode. | osu!taiko maps only! | |

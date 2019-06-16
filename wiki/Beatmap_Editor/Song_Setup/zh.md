@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-Song Setup
-====================
+# Song Setup
 
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
 
 ![歌曲设置的位置](img/Song_Setup_nav.jpg "歌曲设置的位置")
 
-基本设定(General)
------------------
+## 基本设定(General)
 
 ### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
 
@@ -57,8 +55,7 @@ Song Setup
 
 再次说明，请确保以上信息（除了难度名）在每个难度中都保持相同。
 
-谱面难度设定(Difficulty)
-------------------------
+## 谱面难度设定(Difficulty)
 
 该选项卡包含谱面的核心设定。每一项都影响谱面的不同属性。
 
@@ -76,7 +73,7 @@ Song Setup
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。 小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/s/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/s/1208)的例子。
+大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
 
 可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
 
@@ -134,8 +131,7 @@ Approach Rate通常缩写为"**AR**"。
 
 这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
 
-音效(Audio)
------------
+## 音效(Audio)
 
 ![Audio section](img/SS_Audio.jpg "Audio section")
 
@@ -157,8 +153,7 @@ Approach Rate通常缩写为"**AR**"。
 
 点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说Whistle就是Normal音效和Whistle音效的叠加(就是同时播放)
 
-谱面相关颜色设定(Colors)
--------------------------
+## 谱面相关颜色设定(Colors)
 
 ![Colors section](img/SS_Colors.jpg "Colors section")
 
@@ -170,8 +165,7 @@ Approach Rate通常缩写为"**AR**"。
 
 这里可以给谱面分配一个背景色。这里一直很有争议，因为一个没有背景图像(Background)的谱面是不能被rank的。但是如果有了背景图像，这个设定的效果又会被背景图像覆盖掉，除非你使用storyboard切换背景图像是否可见。
 
-外观设计设定(Design)
---------------------
+## 外观设计设定(Design)
 
 ![Design section](img/SS_Storyboarding.jpg "Design section")
 
@@ -187,30 +181,29 @@ Approach Rate通常缩写为"**AR**"。
 
 **Widescreen Support**
 
-`   - 加对宽屏的支持`
+`   - 加对宽屏的支持`
 
 **Display storyboard in front of combo file**
 
-`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
+`   - 将storyboard显示于连击火焰(Combo Fire)的上面`
 
 **Display epilespy warning(Storyboard has <abbr title="为了表达震撼感，会采用背景闪烁不同颜色光的技术。在每秒24个画面的速度下，每1～2个单位时间反覆不同画面。青少年眼睛的比大人更敏感。加上儿童大多喜欢不眨眼地盯著屏幕看，而红光跟蓝光（最为刺激人眼）快速切换的速率又高达1/12秒一次，于是在观看画面的同时，视神经受到强烈刺激，影响到脑部的控制，轻则不舒服，重则会昏厥或痉挛,这些现象在医学上被称为急性光过敏症，也称为光敏感性癫痫症。">quick strobing</abbr>)**
 
-`   - 在开始前提示Storyboard会有令人不适的闪烁`
+`   - 在开始前提示Storyboard会有令人不适的闪烁`
 
 **Letterbox during breaks**
 
-`   - 在休息的时候用黑色边框将背景图像围起来。`
+`   - 在休息的时候用黑色边框将背景图像围起来。`
 
 ### 谱面皮肤设定(Skinning)
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
-这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/b/41820).
+这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmaps/41820).
 
 ![点击打开图像](img/SS_Skin_eg.jpg)
 
-高级设定(Advanced)
-------------------
+## 高级设定(Advanced)
 
 ![Advanced section](img/SS_Advanced.jpg "Advanced section")
 

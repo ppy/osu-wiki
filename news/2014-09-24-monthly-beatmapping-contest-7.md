@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #7"
-permalink: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
 ---
+
 Announcing the 7th installment of the Monthly Beatmapping Contest - but this time across all game modes. Celebrating the anniversary of mode-specific BATs, we opened this Monthly Beatmapping Contest for osu!, Taiko, Catch the Beat and osu!mania.
 
 We consequently opened the contest with four different brackets. You are allowed to submit your map in as many brackets as you wish, but you can only win once.
 
 The song for this contest is **Soleily - Renatus**. You may listen to a short preview below:
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95082536&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95082536&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
 
 # What are the prizes?
 

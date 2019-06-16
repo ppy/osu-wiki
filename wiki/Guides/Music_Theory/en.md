@@ -1,12 +1,10 @@
-Music Theory
-===============
+# Music Theory
 
-[Original guide by ziin](http://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
+[Original guide by ziin](https://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
 
 Osu! is primarily a music game, and beatmaps are usually created with the idea that they fit the music, rather than fitting a certain BPM. In this short essay I will be discussing music theory as it applies to an osu! beatmap, as well as explaining why certain things sound bad (at least to me). In no way can the matters discussed even be considered “guidelines”. Instead, think of it as theory. Most of the time they will apply to some parts of songs, but there are many exceptions. Everything I say here is personal opinion based upon 12+ years of concert band experience or taken directly from Wikipedia. It can’t be applied to all forms of music, especially avant garde stuff and most Touhou music (so, half of osu?)
 
-Part 1: Breakdown of common time and techniques
------------------------------------------------
+## Part 1: Breakdown of common time and techniques
 
 ![Music Theory](MusicTheory1.png "Music Theory")
 
@@ -24,8 +22,7 @@ Part 1: Breakdown of common time and techniques
 
 -   This is where the downbeat (usually) is omitted, or dropped. By dropping the beat in a faster song, tension is usually created. Often times only one particular instrument will drop the beat, when others play as normal. Dropping the beat can be an interesting way to make up a rhythm, but should not be overused. Another way to simulate this is by using upbeat or offbeat sliders.
 
-Part 2: Sliders
----------------
+## Part 2: Sliders
 
 ### Onbeat sliders
 
@@ -75,8 +72,7 @@ It’s common knowledge that when playing the bass line with any instrument, you
 
 Songs which only use onbeat sliders are destined to be boring, so make sure you improvise your rhythms.
 
-Part 3: Overmapping
--------------------
+## Part 3: Overmapping
 
 My definition of [overmapping](/wiki/Glossary) is placing a note or slider end where no note exists in the background. There are a few reasons to overmap:
 

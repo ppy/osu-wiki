@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Installation - Finnish
-======================
+
+# Installation - Finnish
 
 Tässä on suurin osa yleisistä ongelmista kun yrittää käynnistää osu!:a.
 
-Ongelmat
---------
+## Ongelmat
 
 ### Minä yritän käynnistää osu!:a ja minä saan virheen 'Initialization Error'
 
@@ -23,12 +22,12 @@ Lue ohjeet lataussivulta.
 
 ### Jotain muuta pielessä?
 
-Jos sinä kohtaat bugin tai virheen jota ei ole listattu ylempänä, käy [Help and Support-foorumilla](http://osu.ppy.sh/forum/viewforum.php?f=5) ja lähetä viestiä sinne (samanlaisten aiheiden etsiminen ensiksi on suositeltavaa!). Joku tulee varmasti auttamaan! Kannattaa ottaa huomioon myös osu!:n IRC-kanava.
+Jos sinä kohtaat bugin tai virheen jota ei ole listattu ylempänä, käy [Help and Support-foorumilla](https://osu.ppy.sh/forum/viewforum.php?f=5) ja lähetä viestiä sinne (samanlaisten aiheiden etsiminen ensiksi on suositeltavaa!). Joku tulee varmasti auttamaan! Kannattaa ottaa huomioon myös osu!:n IRC-kanava.
 
 ### Voiko osu! pyöriä OS X:llä?
 
-Tällä hetkellä ei ole natiivia käännöstä saatavilla, mutta voit seurata [näitä hyvin vaiheittain selostettuja neuvoja](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14664) kuinka saat Windowsin pyörimään Macillasi ja pääset pelaamaan!
+Tällä hetkellä ei ole natiivia käännöstä saatavilla, mutta voit seurata [näitä hyvin vaiheittain selostettuja neuvoja](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14664) kuinka saat Windowsin pyörimään Macillasi ja pääset pelaamaan!
 
 ### Voiko osu! pyöriä Linuxilla?
 
-On huomattu, että osu!:n voi saada pienen säätelyn avulla toimimaan winellä. Lisätietoja saat [täältä](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614).
+On huomattu, että osu!:n voi saada pienen säätelyn avulla toimimaan winellä. Lisätietoja saat [täältä](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614).

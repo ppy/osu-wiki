@@ -1,23 +1,20 @@
-Akademia osu!
-===============
+# Akademia osu!
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
-Wprowadzenie
----------------
+## Wprowadzenie
 
 Źródło: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek: <https://osu.ppy.sh/forum/t/169707>
+Oficjalny wątek: <https://osu.ppy.sh/community/forums/topics/169707>
 
 **Akademia osu!** ma na celu wszechstronne ukazanie wszystkich aspektów osu!, od rozgrywki do mapowania i wszystkiego pomiędzy.
 
-Mamy nadzieję, że filmiki te przekażą potrzebne informacje nowym graczom oraz ułatwią im wszelakie trudności związane z dalszą grą. Jeżeli masz jakieś pytania lub komentarze, proszę kieruj je do [ztrota](https://osu.ppy.sh/u/6347). Jest on praktycznie jedynym właścicielem kanału osu!academy jak i twórcą takowego projektu.
+Mamy nadzieję, że filmiki te przekażą potrzebne informacje nowym graczom oraz ułatwią im wszelakie trudności związane z dalszą grą. Jeżeli masz jakieś pytania lub komentarze, proszę kieruj je do [ztrota](https://osu.ppy.sh/users/6347). Jest on praktycznie jedynym właścicielem kanału osu!academy jak i twórcą takowego projektu.
 
 [Teraz ze zwiastunem!](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
-Odcinki
-----------
+## Odcinki
 
 Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 

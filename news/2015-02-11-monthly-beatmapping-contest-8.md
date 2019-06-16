@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #8"
-permalink: http://osunews.tumblr.com/post/110718882663/monthly-beatmapping-contest-8
 date: 2015-02-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/110718882663/monthly-beatmapping-contest-8
 ---
+
 Submissions for the 8th Monthly Beatmapping Contest are now open - with a special **winter** theme for this month's contest, and all-new changes to the format of the monthly contests to spice things up a bit!
 
 We'll be trialing out a new concept of rotating between gamemodes in future contests, to try and encourage more people to get involved in the multitude of rhythm experiences that osu! has to offer. We'll be starting with the **standard** gamemode this month to kick things off.
 
 Taking a bit of a break from the fast-paced songs found in previous contests, this month's choice is a calm, downtempo stroll through one of the slower pieces we've featured thus far. The song is performed by the talented **raja_ffm**, and is titled "**the light**". Listen to it below:
 
-<audio controls=""><source src="http://puu.sh/fEgD7/c810f8a597.mp3" type="audio/mpeg"></audio>
+<!-- dead link -->
+<audio controls=""><source src="https://puu.sh/fEgD7/c810f8a597.mp3" type="audio/mpeg"></audio>
 
 ## What are the prizes?
 

@@ -1,7 +1,5 @@
 # Spectator Usage
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 ![osu!tourney interface](Osutourneymain.png "Basic Interface of the osu!tourney client")
 
 This is the interface of the osu!tourney client. The top of the screen is divided in two halves, representing the two teams of the multiplayer room.

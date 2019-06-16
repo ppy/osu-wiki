@@ -1,12 +1,12 @@
 ---
 outdated: true
 ---
-osu! World Cup 2014
-=====================
+
+# osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
-El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](https://osu.ppy.sh/g/26). Esta es la 5ª temporada de osu! World Cup.
+El **osu! World Cup 2014** (***OWC 2014*** ) es un torneo de países organizado por la [Administración](https://osu.ppy.sh/groups/26). Esta es la 5ª temporada de osu! World Cup.
 
 El anterior poseedor del título es **![][flag_KR] Corea del Sur**.
 
@@ -18,8 +18,7 @@ Esta competición ha terminado y el podio resultante es:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Polonia**  |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Alemania** |
 
-Calendario
-----------
+## Calendario
 
 | Event              | Timestamp                |
 |--------------------|--------------------------|
@@ -32,8 +31,7 @@ Calendario
 | Finales - Semana 1 | 6-7 Dic 2014             |
 | Finales - Semana 2 | 13-14 Dic 2014           |
 
-Premios
------------
+## Premios
 
 | Placing                                                    | Prizes                                                                                               |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -41,8 +39,7 @@ Premios
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de supporter tag                                                                             |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de supporter tag                                                                               |
 
-Organización
-------------
+## Organización
 
 | Job                 | Person(s)                                                                                                                                                                                                                                                    |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,13 +51,12 @@ Organización
 
 ------------------------------------------------------------------------
 
-Links
---------
+## Links
 
 -   [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
 -   [Forma de registro](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [Hilo de discusión (en inglés)](https://osu.ppy.sh/forum/p/3410198)
--   [Discusión sobre los mapas](https://osu.ppy.sh/forum/t/255369/)
+-   [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/posts/3410198)
+-   [Discusión sobre los mapas](https://osu.ppy.sh/community/forums/topics/255369/)
 -   **[Estadísticas de la fase de grupos](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------
@@ -69,8 +65,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Participantes
--------------
+## Participantes
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,8 +125,7 @@ Participantes
 
 ------------------------------------------------------------------------
 
-Grupos de mapas
----------------
+## Grupos de mapas
 
 ### Finales
 
@@ -285,8 +279,7 @@ Grupos de mapas
 
 ------------------------------------------------------------------------
 
-Resultados
--------------
+## Resultados
 
 ### Finales
 

@@ -12,9 +12,9 @@ When a setting that has a default value is changed, the grey vertical bar on the
 
 This section is about your account, language settings, and what updates you want your game client to receive.
 
-### Sign In
+### Sign-in
 
-If you are not signed into the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](wiki/Multi).
+If you are not signed in to the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](wiki/Multi).
 
 If you are a guest, these options will be shown:
 
@@ -23,8 +23,8 @@ If you are a guest, these options will be shown:
 | `Username` | Sign in input for your username. | Text | *(empty)* |
 | `Password` | Sign in input for your password. | Password | *(empty)* |
 | `Remember Username` | If checked, the game client will remember the entered username. | Checkbox | `Enabled` |
-| `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed into the game client. | Checkbox | `Disabled` |
-| `Sign In` | Sign into osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
+| `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed in to the game client. | Checkbox | `Disabled` |
+| `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
 | `Create an account` | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button |  |
 
 ---

@@ -1,19 +1,18 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #10 (CtB only)"
-permalink: http://osunews.tumblr.com/post/121583979808/monthly-beatmapping-contest-10-ctb-only
 date: 2015-06-15 12:01:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/121583979808/monthly-beatmapping-contest-10-ctb-only
 ---
+
 We just opened the submissions for the 10th Monthly Beatmapping Contest  - for the first time only for the Catch the Beat game mode and with the awesome song "Hylian Lemon - Foresight Is for Losers".
 
 This is the first stand-alone beatmapping contest for Catch the Beat only! We anticipated this moment for a long time and hope that you like the song choice as much as we do.
 
 Moving from the fast-paced and catchy music of Lapfoxx Track, we are moving over to a great 8-bit styled remix from The Legend of Zelda. Various speed changes and varying sections offer a lot of opportunity to show off how you can make the fruits rain. Listen to it below:
 
-
 <audio controls>
-  <source src="http://puu.sh/ilirp/f8f3472bf6.mp3" type="audio/mpeg">
+  <source src="https://puu.sh/ilirp/f8f3472bf6.mp3" type="audio/mpeg">
 </audio>
 
 ## What are the prizes?

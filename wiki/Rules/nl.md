@@ -1,10 +1,8 @@
-Regels
-============
+# Regels
 
 Deze regels zijn de basis waarmee we ervoor zorgen dat de osu!gemeenschap een leuke en gastvrije plek voor iedereen blijft.
 
-Gemeenschap regels
----------------
+## Gemeenschap regels
 
 1.  **Elke speler mag maar *ÉÉN* account hebben.** Jij bent dit account. Het is niemand anders - niet je broer, je moeder, je zus, je vriend - JIJ bent het. Deel je account niet met iemand anders.
 2.  **Speel eerlijk.** Het gebruik van hulp van een derde partij om enig voordeel ten opzichte van anderen te krijgen is niet oké. Hierbij horen ook dingen als macro programma's, programma's om te helpen mikken, tijdschaal modificaties, enzovoort. Als een programma iets doet om jou te helpen met het spelen van het spel dat je zelf zou moeten spelen, is het niet oké!
@@ -13,8 +11,7 @@ Gemeenschap regels
 5.  **We zijn een gemeenschap voor alle leeftijden.** Dit betekent dat 18+ inhoud zoals het gebruik van drugs of seksuele onderwerpen hier niet welkom zijn. Uitzonderingen worden hier gemaakt waar het geschikt is, maar houd het over het algemeen netjes.
 6.  **Waar regels niet heersen, zal gezond verstand dit doen.** De administratie heeft expliciete discretie om hun oordeel toe te passen zoals zij dit toepasselijk vinden.
 
-Chat regels voor in het spel
----------------
+## Chat regels voor in het spel
 
 1.  **Wees respectvol en denk aan anderen in het kanaal, en vermijd vloeden en spammen.** Eén persoon die het halve scherm tegelijk inneemt is irritant, dus vermijd dit wanneer mogelijk. Andere mensen proberen ook te praten!
 2.  **Laat de moderators problemen in de chat oplossen.** Je kan dingen aan ze aangeven met het `!report ` commando en zij doen de rest.
@@ -26,21 +23,19 @@ Chat regels voor in het spel
 8.  **Adverteer geen chat servers van een derde partij van welke soort dan ook, inclusief Discord, Teamspeak of Skype servers/groepen.** De osu! chat gaat als eerste over osu! en niet over het delen van links naar je persoonlijke servers. Doe het in een persoonlijk bericht als je het absoluut moet doen.
 9.  **In taal-specifieke kanalen moet je de dominante taal praten (Engels voor `#english`, Thais voor `#thai`, enzovoort) als je deelneemt aan het gesprek.** Wanneer de taal voor een kanaal niet specifiek gemeld is (of afgeleid kan worden van de naam van het kanaal zoals Thais voor `#thai` en Nederlands voor `#dutch`), is het altijd Engels. De `#lobby` en `#help` kanalen mogen gebruikt worden in elke taal, in tegenstelling tot andere kanalen. *Leden van het [moderator team](/wiki/People/Global_Moderation_Team) hoeven deze regel niet te volgen wanneer ze hun werk doen.*
 
-Forum-brede regels
----------------
+## Forum-brede regels
 
 1.  **Plaats alleen betekenisvolle, interessante of anders uitnodigende onderwerpen.** Forums zijn als eerste voor gesprekken, dus zorg ervoor dat je de moeite er in stopt om niemands tijd te verspillen.
-2.  **Houd je posts en reacties geschikt voor mensen van alle leeftijden.** 18+ inhoud is niet echt geschikt voor een alle leeftijden gemeenschap, hoewel er niets is dat je er van weerhoudt om hierover te praten in een privégesprek. 
+2.  **Houd je posts en reacties geschikt voor mensen van alle leeftijden.** 18+ inhoud is niet echt geschikt voor een alle leeftijden gemeenschap, hoewel er niets is dat je er van weerhoudt om hierover te praten in een privégesprek.
 3.  **Wees opbouwend met je kritiek zonder persoonlijke aanvallen te gebruiken.** Kritiek is een heel mooi iets als het goed gebeurt, maar als je op persoonlijke aanvallen overgaat om je punt te maken doe je het fout, en moet je je schamen.
 4.  **Houd threads relevant, en vermijd het weer oprakelen van oudere onderwerpen als het gesprek is afgestorven.** Als een onderwerp al jaren dood is, is het niet meer relevant; dus laat het vervagen. Post een nieuwe, of zoek en kijk of iemand anders je vraag al heeft beantwoord.
 5.  **Houd je handtekening en avatar redelijk.** Als ze geanimeerd zijn, mogen ze niet excessief knipperen. Ze moeten ook een bestandsgrootte hebben klein genoeg voor gebruikers met een tragere verbinding om hun aanwezigheid op de pagina niet op te merken, het liefst onder een halve megabyte (500 kilobytes) waar mogelijk.
 6.  **Post geen advertenties, doorverwijzende links of ander irritante inhoud.** Dingen als doorverwijzende links zijn leuk voor de persoon die ze post en een irritatie voor alle anderen, dus doe het niet. Inhoud/embeds die automatisch laadt of afspeelt vallen hier ook onder.
 7.  **Linken naar applicaties of andere dingen met onduidelijke afkomst is niet toegestaan.** Om het simpel te zeggen, als er aan de legaliteit van genoemd onderwerp wordt getwijfeld, zijn ze niet welkom.
 
-Beatmap inzend regels
----------------------------------
+## Beatmap inzend regels
 
-Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Beatmap_Submission_System). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
+Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
 
 Een set met meer gedetailleerde regels voor het maken van een beatmap, genaamd de [Rang Criteria](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ Een set met meer gedetailleerde regels voor het maken van een beatmap, genaamd d
 2.  **Blijf bij het onderwerp in beatmap discussies.** Deze threads/discussies gaan over de beatmap in kwestie, en niets anders. Als je een probleem hebt met iets dat niet direct te maken heeft met de beatmap, zet het in het geschikte forum.
 3.  **Pleeg geen plagiaat en steel het werk van anderen niet.** Upload ook niet andermans werk zonder hun expliciete toestemming (inclusief, maar niet gelimiteerd tot, skins en gast moeilijkheden).
 
-Overige regels
----------------
+## Overige regels
 
 *Onderstaande regels zijn ALLEEN van toepassing op het [Overig](https://osu.ppy.sh/community/forums/52) subforum tenzij anders genoemd.*
 
@@ -57,8 +51,7 @@ Overige regels
 2.  **Buitensporig dom zijn is slecht.** Vertederend dom is goed, en valt onder de modus operandi van shitposten. Oprechte stupiditeit is daarentegen nooit goed. Als je het verschil niet weet, ben je deze regel nu al aan het breken.
 3.  **Verjaardags-threads zijn alleen toegestaan in Overig, en nergens anders.** Alle verjaardags-threads moeten met niets minder dan tenminste (3) plaatjes van dansende anime meisjes komen, of anders worden ze *genadeloos* onder een bus gegooid.
 
-Wat gebeurt er als ik de regels verbreek?
----------------
+## Wat gebeurt er als ik de regels verbreek?
 
 Als je je bevindt op het slechte eind van de gemeenschap regels, gebeuren er slechte dingen.
 

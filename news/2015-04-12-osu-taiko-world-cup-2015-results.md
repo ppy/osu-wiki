@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! Taiko World Cup 2015 - Results"
-permalink: http://osunews.tumblr.com/post/116205500393/osu-taiko-world-cup-2015-results
 date: 2015-04-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116205500393/osu-taiko-world-cup-2015-results
 ---
+
 The osu! Taiko World Cup 2015 has just concluded with a thunderous Grand Final, and a new team has emerged victorious with an absolutely outstanding performance!
 
-![](http://puu.sh/hb4JP/1c9151c980.png)
+![](/wiki/shared/news/2015-04-12-osu-taiko-world-cup-2015-results/osu!taiko-ranking.png)
 
 During the grand final, Japan and Taiwan showed off their incredibly impressive Taiko skills. Japan held their ground against the very skilled players from Taiwan, whom clawed themselves up to the Grand Final after being placed in the loser's bracket earlier in the contest, and won with a fantastic score of 6-3.
 

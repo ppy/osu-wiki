@@ -1,13 +1,13 @@
 ---
 outdated: true
 ---
-ลงทะเบียนยังไง
---------------
+
+## ลงทะเบียนยังไง
 
 <center>
 **<font size="5"><span style="color:#FF0000">คำเตือน: การสมัครมากกว่าหนึ่งไอดีจะเป็นการละเมิด<span class="plainlinks">[กฎของ osu!](/wiki/Rules)</span></span>**
 </font>
-<span style="font-size:18px">1. ที่<span class="plainlinks">[หน้าหลัก](https://osu.ppy.sh)</span> คลิก "<b>I'm new!</b>" เพื่อเริ่มลงทะเบียน </span>
+<span style="font-size:18px">1. ที่<span class="plainlinks">[หน้าหลัก](https://osu.ppy.sh/home)</span> คลิก "<b>I'm new!</b>" เพื่อเริ่มลงทะเบียน </span>
 
 <span style="font-size:18px">2. กรอกทุกอย่างลงแบบฟอร์มแล้วกด "Continue" </span>
 
@@ -34,8 +34,7 @@ outdated: true
 | **3. User panel**           |
 
 </center>
-แล้วไงต่อ
----------
+## แล้วไงต่อ
 
 คุณพร้อมผจญภัยในโลกของดนตรีแล้ว ดังนั้นรีบไปยังหน้า [welcome](/wiki/Welcome) แล้วเริ่มเล่นเลย และอย่าลืมอ่าน[กฎ](/wiki/Rules)ด้วยล่ะ
 

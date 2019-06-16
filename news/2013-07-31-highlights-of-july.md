@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Highlights of July"
-permalink: http://osunews.tumblr.com/post/56990275116/highlights-of-july
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56990275116/highlights-of-july
 ---
+
 **osu! hit 3 million users!**
 
 Since osu!'s creation, the amount of registered users has just been going up faster and faster! Let's take a look at the amount of users osu! has gotten over time:
 
-![](http://puu.sh/3UYKr/042f80f80e.png)
+![](/wiki/shared/news/2013-07-31-highlights-of-july/graph.png)
 
 And let's not forget some other milestones, too - in the very first week of July, we've obtained a grand total of 100,000 likes on [Facebook](https://www.facebook.com/osugame), and a staggering 1,500,000,000 ranked plays. That's a billion and a half, all since late 2007!
 

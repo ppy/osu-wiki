@@ -1,13 +1,13 @@
 ---
 outdated: true
 ---
-Como crio uma conta?
-------------------
+
+## Como crio uma conta?
 
 
 **Por favor, tenha em mente que ter mais de uma conta infringe as nossas [regras do osu!](/wiki/Rules/). Siga os passos abaixo para criar sua conta no osu!.**
 
-1. Na [página principal](https://osu.ppy.sh), Clique em ``Sou novo!`` para iniciar o processo de registro
+1. Na [página principal](https://osu.ppy.sh/home), Clique em ``Sou novo!`` para iniciar o processo de registro
 ![Register-3.png](Register-1.png)
 2. Complete todos os campos do formulário e pressione ``Continuar``
 ![Login.png](Register-2.png)
@@ -29,8 +29,7 @@ Como crio uma conta?
 | Painel de usuário     | ![Userpanel.png](Userpanel.png) | Assim que seu nome de usuário e senha forem inseridos, você verá seu painel de usuário no canto esquerdo superior de sua tela. Você conseguiu entrar no osu! e está pronto para jogar! Você também poderá ver seu painel de usuário no canto inferior na tela de seleção de músicas, à esquerda da ``Seleção de Opções``.|
 
 
-E agora?
-------------
+## E agora?
 
 Você está pronto para começar sua aventura ritmica, então prossiga para a página de [boas-vindas](/wiki/Welcome/) e comece a jogar! Não esqueça de ler as [regras](/wiki/Rules/) cuidadosamente!
 

@@ -1,12 +1,10 @@
-Audio editing
-============================
+# Audio editing
 
 [osu!academyの](/wiki/Announcements/osu!academy)[Episode 15](http://www.youtube.com/watch?v=muu3HkG38kk) Audio Encoding (4:02) にてその説明がされています。それにはインストールの方法とAudiacityでLAMEを使用しmp3としてエクスポートする方法も含まれています。
 
 この記事は譜面を作成する上でオーディオの編集をする助けとなるでしょう。またあなたはオーディオに関して仲の良いMapperの助けをすることもできます。
 
-オーディオのエンコード
-----------------------
+## オーディオのエンコード
 
 まずはmp3のbitrateを変える段階です。osu!の[Rankルールでは](#)128~192kbpsの間に収める必要があります。
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!idol 2016 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/145357306703/osuidol-2016-registrations-open
 date: 2016-06-03 15:04:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/145357306703/osuidol-2016-registrations-open
 ---
+
 Ever find yourself singing along to your favourite tunes? How about taking it to the next level and showing your talent to the osu!world? We're back this year again and it is time for another round of osu!idol!
 
 ![](http://flan.s-ul.eu/IXfP3V7O)
@@ -21,6 +21,6 @@ osu!Idol is a contest where contestants as a solo or a duet sing their way throu
 
 ## Where do I sign up?
 
-[**See the thread for updated contest rules, more details on the event and discussion.**](https://osu.ppy.sh/forum/t/448842)
+[**See the thread for updated contest rules, more details on the event and discussion.**](https://osu.ppy.sh/community/forums/topics/448842)
 
 —Flanster

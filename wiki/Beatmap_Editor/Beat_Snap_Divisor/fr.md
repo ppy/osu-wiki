@@ -1,5 +1,4 @@
-Représentation du Tempo
-========================
+# Représentation du Tempo
 
 Le diviseur de l’alignement des battements est utilisé pour limiter l'endroit où les notes peuvent être placées, de sorte qu'elles soient toujours sur un battement. Déplacer le slider sur la droite augmente la granularité des notes, ie. plus de notes peuvent être placées sur la même mesure.
 

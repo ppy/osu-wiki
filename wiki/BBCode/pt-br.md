@@ -411,4 +411,4 @@ Coloca o parágrafo dentro de uma caixa branca.
 
 ## Conhecimentos gerais
 
-- Postagem original no fórum: [HOW TO: Forum BBCodes](https://osu.ppy.sh/forum/t/445599) por [Stefan](https://osu.ppy.sh/u/626907)
+- Postagem original no fórum: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907)

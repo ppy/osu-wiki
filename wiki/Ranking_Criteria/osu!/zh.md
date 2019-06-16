@@ -1,14 +1,12 @@
-osu!
-======
+# osu!
 
 _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 **osu! Ranking Criteria** 是一系列关于创建 osu! 谱面的规定和指南。为了使 osu! 谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而指南可以在某些情况下打破。但这些例外的情况必须有详尽合理的解释，解释指南被打破的原因，以及为什么你认为遵守指南会影响谱面的整体质量。
 
-提出的新的规定会在 [Ranking Criteria 论坛版块](https://osu.ppy.sh/forum/87) 内进行讨论。按照惯例，这里会列出所有经过探讨并得到了社区认可的规定，它们已在各自的讨论帖中达成了一致意见。
+提出的新的规定会在 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87) 内进行讨论。按照惯例，这里会列出所有经过探讨并得到了社区认可的规定，它们已在各自的讨论帖中达成了一致意见。
 
-一般术语
---------
+## 一般术语
 
 ### 难度名称
 
@@ -18,7 +16,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
 -  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
 
-其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/forum/t/178700)。
+其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/community/forums/topics/178700)。
 
 - **![Hard](/wiki/shared/diff/hard-s.png "Hard") Advanced:** 一种处在 Normal 和 Hard 中间的难度，填补了两者之间的难度跨度。
 - **![Expert](/wiki/shared/diff/expert-s.png "Expert") Extra/Extreme/Ultra:** 在有多个 Expert 难度时用于替换 Expert 的难度名并且表示它们之间难度的递增。
@@ -46,8 +44,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 - **Hit object/Note density：** 用节拍数表示的物件之间的平均时间跨度。（比如 1/1 表示一拍，1/2 表示半拍）。
 - **Keysounding：** 使用与音乐很相近的音，或者直接用音乐中的音来作为谱面音效。 这种音效的做法通常给玩家的打击反馈感很少。
 
-总体
---------
+## 总体
 
 总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/osu!/Scaling_BPM)中有更详细的介绍。
 

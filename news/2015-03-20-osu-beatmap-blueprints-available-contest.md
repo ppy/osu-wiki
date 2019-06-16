@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! Beatmap Blueprints Available & Contest Details"
-permalink: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-available-contest
 date: 2015-03-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/114095906408/osu-beatmap-blueprints-available-contest
 ---
-Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)… [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
 
-![](https://puu.sh/gFcQ2/6cbb2ea5e1.jpg)
+Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listing)... [Beatmap Blueprints](https://osu.ppy.sh/store/products/9).
+
+![](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/stickers.jpg)
 
 Now you can beatmap anywhere you want! No admin approval needed - just go ahead and slap them on your books, fridge, laptop and all over the neighbourhood.
 
@@ -17,7 +17,7 @@ Each pack contains two 8.5" x 11" custom sticker sheets featuring elements from 
 
 To celebrate the launch of this new item, we're running a contest to see who can make the best beatmaps IRL, using the Beatmap Blueprints.
 
-![image](https://puu.sh/gFcOz/2c188f51a5.jpg)
+![image](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/laptop.jpg)
 
 So, if you've already purchased your set of Beatmap Blueprints, get to work! Pick your blank canvas and build the beatmap of your dreams. Points for creativity.
 
@@ -37,9 +37,9 @@ First place wins you an **osu! store pack** featuring 1x [osu! tablet](https://o
 ## How to Enter
 
 *   You should use the [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) stickers to create an osu! beatmap in real life.
-*   Post a web-friendly (370px wide by 320px maximum) image in the [official contest thread](https://osu.ppy.sh/forum/t/312138)
+*   Post a web-friendly (370px wide by 320px maximum) image in the [official contest thread](https://osu.ppy.sh/community/forums/topics/312138)
 *   Link to a larger print-friendly image
-*   You can upload the images on [http://up.ppy.sh/](https://up.ppy.sh) or [http://puush.me/](http://puush.me)
+*   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
 *   You may enter more than one image, but you can only win one prize. If you have more than one entry, please keep them all in a **single forum post**.
 
 By entering, you agree to let us use your photograph on the osu! website and social media accounts. Only entries that follow all rules will be considered. Winners will be chosen by a panel of osu! staff.

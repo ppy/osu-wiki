@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Hur registrerar jag mig?
-------------------------
+
+## Hur registrerar jag mig?
 
 Att registrera ett konto till osu! är väldigt simpelt, följ stegen nedan.
 
@@ -10,11 +10,10 @@ Om du inte loggar in med ditt konto till spelet inom 24 timmar, så kommer regis
 
 <span style="background-color:#FF0000; color:#FFFFFF;">Notera att du endast kan äga **ett** konto! Att skapa två stycken konton är inte tillåtet.</span>
 
-Steg
-----
+## Steg
 
 <center>
-<span style="font-size:18px">1. Gå till <span class="plainlinks"> [hemsidan](https://osu.ppy.sh)</span> och klicka "<b>I'm new!</b>" för att fortsätta till registreringsformen. </span>
+<span style="font-size:18px">1. Gå till <span class="plainlinks"> [hemsidan](https://osu.ppy.sh/home)</span> och klicka "<b>I'm new!</b>" för att fortsätta till registreringsformen. </span>
 
 <span style="font-size:18px">2. Fyll i formen och klicka "Continue" </span>
 
@@ -41,8 +40,7 @@ Steg
 | 3. Inloggningsrutan - Fyll i ditt användarnamn och lösenord som du registrerade innan och tryck Sign in.        |
 
 </center>
-Vad ska man göra härnäst?
--------------------------
+## Vad ska man göra härnäst?
 
 Du är redo för att starta ditt aväntyr på osu! så fortsätt till [välkomst](SV:Welcome "wikilink") sidan och glöm inte att läsa [reglerna](SV:Rules "wikilink")!
 

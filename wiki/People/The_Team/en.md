@@ -1,29 +1,24 @@
-The Team
-========
+# The Team
 
 The people listed below are the core of the osu!team, and are chiefly responsible for helping make the game awesome for everyone.
 
-Creator
--------
+## Creator
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Project lead |
 
-Active
-------
+## Active
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Lead designer, [osu!next](https://next.ppy.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streaming and tournament organisation |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead and resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organisation and administration |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -31,23 +26,23 @@ Active
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/osu!academy) professor |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania development, Bug busting |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp development |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! development, osu!mania lover, bug buster |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved captain and community advisor |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping and tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-Inactive
---------
+## Inactive
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeping and help, game/site chibi artwork, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Community management |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streaming and tournament organisation |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
 | ![][flag_US] Jim | Original site design, [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organisation and administration, QAT leadership and community management |
@@ -55,22 +50,25 @@ Inactive
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
 | ![][flag_US] Phil | Forum design work |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork design, [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community management and leadership, Meeting minutes, FAQ contributions |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp development |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, Media/character design |
 
-User Groups
-----------------------
+## User Groups
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
+| [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Developers](https://osu.ppy.sh/groups/11) | Making the game awesome by adding new features and fixing the bugs |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Users going above and beyond the call to ensure your maps get qualified |
-| [Developers](https://osu.ppy.sh/g/11) | Making the game awesome by adding new features and fixing the bugs |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy osu!, starting with assuring the quality of beatmaps. |
+| [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Helping you enjoy osu!, starting with assuring the quality of beatmaps |
+| [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

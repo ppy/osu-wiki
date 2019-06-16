@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "New Featured Artist: Loki/Thaehan"
-permalink: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 date: 2016-12-13 06:15:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/154410623013/new-featured-artist-lokithaehan
 ---
-First teased during last month's development meeting, we're delighted to introduce you to one of osu!'s newest featured artists - [Loki/Thaehan!](https://new.ppy.sh/beatmaps/artists/7) Why the slash you ask? Well, he's two in one!
 
-<!-- more -->
+First teased during last month's development meeting, we're delighted to introduce you to one of osu!'s newest featured artists - [Loki/Thaehan!](https://osu.ppy.sh/beatmaps/artists/7) Why the slash you ask? Well, he's two in one!
 
 Hailing from Bordeaux in France, **Loki/Thaehan** is an incredibly talented musician that already sports a pedigree of maps made to his tracks by members of the community. His twin identities split cleanly between his two very different styles, with **Loki** specialising exclusively in metal of a symphonic twist, and **Thaehan** focusing on a racing, chiptune-electronica sound.
 
@@ -21,7 +19,7 @@ And here's a taste of his work as **Thaehan**, sporting the aforementioned chipt
 
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=936406348/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://loki2.bandcamp.com/album/bwa">Bwa by Thaehan</a></iframe>
 
-You can read more about **Loki/Thaehan** over at [his Featured Artist listing](https://new.ppy.sh/beatmaps/artists/7), and even download dozens of his tracks already timed and ready to be mapped!
+You can read more about **Loki/Thaehan** over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/7), and even download dozens of his tracks already timed and ready to be mapped!
 
 We think that a huge number of people will be drawn to his variety across both his identities, and we hope to see more of his amazing sound mapped by the community at large. There's something for everyone in his amazingly varied sound, so make sure to give his tracks a good listen.
 

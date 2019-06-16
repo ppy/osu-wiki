@@ -1,14 +1,12 @@
-Recording osu!
-===================================
+# Recording osu!
 
-[Want to use Virtualdub instead of Sony Vegas? Click here!](http://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
+[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 
-Always wanted to make a video for Youtube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.
+Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.
 **Please note that there are more ways to do this, this is just my way.**
 [See result of this tutorial here (Watch in HD and fullscreen!)](http://youtube.com/watch?v=JRGhQh69geI)
 
-Requirements
--------------
+## Requirements
 
 -   Recording software
     - OBS
@@ -35,8 +33,7 @@ Make sure that:
 -   No Cursor is checked
 -   YOU RECORD SOUND! There is nothing worse then osu! videos with later added music.
 
-Recording your gameplay
-------------------------
+## Recording your gameplay
 
 Open osu! whilst Fraps is running. If everything goes right (and if you haven't disabled this feature), you'll see a yellow FPS counter in a corner of the screen.
 
@@ -48,8 +45,7 @@ Now, go to the thing that you want to record. i.e: a replay of yourself getting 
 
 Press the Video Capture Hotkey again to stop recording.
 
-Editing your output video
----------------------------
+## Editing your output video
 
 Drag and drop the video on the timeline in Vegas. If there are multiple files, Vegas will add them to the end of the previous part automatically.
 
@@ -57,8 +53,7 @@ Drag and drop the video on the timeline in Vegas. If there are multiple files, V
 
 You can do some optional editing now.
 
-Rendering your video
-----------------------
+## Rendering your video
 
 Now that you are done editing the video, go to 'File', then click 'Render As'
 Use the following options (depending on your Vegas version):
@@ -67,8 +62,8 @@ Use the following options (depending on your Vegas version):
 
 ![Rendering video clip](Recording_6.png "Rendering video clip")
 
-Press the save button, and your video will be done in a couple of minutes. It's now ready for Youtube!
-Please note that it will take some time before the video will be available in high res on Youtube, be patient!
+Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube!
+Please note that it will take some time before the video will be available in high res on YouTube, be patient!
 
 **Now, go make videos and spread osu!**
-Guide done by [Remco32](http://osu.ppy.sh/u/9199), original thread [here](https://osu.ppy.sh/forum/t/18112)
+Guide done by [Remco32](https://osu.ppy.sh/users/9199), original thread [here](https://osu.ppy.sh/community/forums/topics/18112)

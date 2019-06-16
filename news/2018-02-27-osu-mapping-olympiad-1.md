@@ -49,7 +49,7 @@ All entries will be judged by the following criteria:
 
 - Musical Relevance (10P) - how well the entry follows the music with its choice of rhythms, emphasis, spacing, etc.
 - Creativity (10P) - how unique and innovative the entry is in its use of concepts and design.
-- Technique (10P) - how well the entry utilizes the editor and its tools to create structure, patterning, etc. 
+- Technique (10P) - how well the entry utilizes the editor and its tools to create structure, patterning, etc.
 - Impression (10P) - how the judge views the map holistically (as the entire creation). All of the concepts used in the map should work well together and should be executed in a consistent and polished manner.
 - Hitsounding (5P) - how well the entry utilizes hitsounding to emphasize and follow the music.
 

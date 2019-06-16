@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
@@ -9,8 +10,7 @@ L'host del [server della chat di osu!](/wiki/Internet_Relay_Chat).
 
 ha un profilo!
 
-Apparenza e funzioni
---------------------
+## Apparenza e funzioni
 
 ### !help
 
@@ -30,7 +30,6 @@ Apparenza e funzioni
 | REQUEST | Show a random recent mod request. | !request | Seether - Fake It by [Dellirium] |
 | ROLL (numero) | Tira un dado (virtuale) e dà un risultato casuale da uno a (numero) (il default è di 100) | !roll 9000 | John rolls 1337 point(s) |
 
-Curiosità
----------
+## Curiosità
 
--   [Anonymous](https://osu.ppy.sh/u/1) è l'utente 1, [peppy](https://osu.ppy.sh/u/2) è l'utente 2, [BanchoBot](https://osu.ppy.sh/u/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.
+-   [Anonymous](https://osu.ppy.sh/users/1) è l'utente 1, [peppy](https://osu.ppy.sh/users/2) è l'utente 2, [BanchoBot](https://osu.ppy.sh/users/3) è l'utente 3. \#4-\#52 sono vari bot in ordine alfabetico, ma i loro account sono stati eliminati.

@@ -1,10 +1,8 @@
-.osr (file format)
-==================
+# .osr (file format)
 
 **.osr** is a file format containing information about an osu! replay. To use it, the beatmap specified by the file is required in "Songs" folder.
 
-Data Types
-----------
+## Data Types
 
 | Name | Bytes | Description |
 | ---- | ----- | ----------- |
@@ -15,8 +13,7 @@ Data Types
 | ULEB128 | Variable | A variable length integer. See [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
 | String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [UTF-8](http://en.wikipedia.org/wiki/UTF-8) |
 
-Format
-------
+## Format
 
 Byte offsets are not included in this table due to variable length values.
 
@@ -41,7 +38,7 @@ Byte offsets are not included in this table due to variable length values.
 | Long | Time stamp ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
-| Long | Unknown |
+| Long | Online Score ID |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
@@ -54,8 +51,9 @@ When decompressed, the text contains data separated by commas. Each piece denote
 | y | Float | y-coordinate of the cursor from 0 - 384 |
 | z | Integer | Bitwise combination of keys/mouse buttons pressed (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 is always used with M1; K2 is always used with M2: 1+4=5; 2+8=10) |
 
-Mods
-----
+On replays set on version `20130319` or later, the 32-bit integer RNG seed used for the score will be encoded into an additional replay frame at the end of the LZMA stream, under the format `-12345|0|0|seed`.
+
+## Mods
 
 As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 

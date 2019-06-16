@@ -1,12 +1,10 @@
-How to run osu! on Mac without using Boot Camp
-====================================================
+# How to run osu! on Mac without using Boot Camp
 
-Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/forum/t/14664/)
+Original post in forums is located... right about~, here! [*How to Run osu! on Your Mac without using Boot Camp* by mattyu007](https://osu.ppy.sh/community/forums/topics/14664/)
 
 Note: External Images cannot (or I assume so) be loaded through osu! wiki unless uploaded through osu! wiki's media uploader. So all links with numbers are linking to them. Sorry for this inconvenience!
 
-Introduction/Description
--------------------------
+## Introduction/Description
 
 This (very detailed) guide will show you how to run osu! on Mac OS X without using Boot Camp.
 
@@ -20,8 +18,7 @@ This (very detailed) guide will show you how to run osu! on Mac OS X without usi
     -   Highlight the Macintosh HD icon on the desktop and press ⌘I
 -   1 Windows XP disc or a disc image of a Windows XP disc
 
-Installing Virtualbox
------------------------
+## Installing Virtualbox
 
 1.  Go to [virtualbox.org](http://www.virtualbox.org). [4](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup02.png)
 2.  Find the Downloads section located on the left column. [5](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup03.png)
@@ -32,8 +29,7 @@ Installing Virtualbox
 7.  Agree to the Terms and Conditions and then select the disk **Macintosh HD** to install to. [11](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup11.png)
 8.  After the install completes, you can eject the Virtualbox disk image by selecting it on the desktop and choosing "Eject". [12](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup12.png)
 
-Configuring Virtualbox
-----------------------
+## Configuring Virtualbox
 
 1.  Find VirtualBox in your Applications folder and open it. [13](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup13.png)
 2.  Select "Machine &gt; New..." or press ⌘N. [14](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup14.png)
@@ -75,8 +71,7 @@ Configuring Virtualbox
 
 18. Click "OK". [35](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup35.png)
 
-Installing Windows
-------------------
+## Installing Windows
 
 *Note on why this looks slightly formatted differently than the one before and after this section... The numbering system on osu! wiki is strict; so I had to manually input them in.*
 
@@ -146,15 +141,14 @@ Installing Windows
 
 31. If the virtual machine window seems to be too small, you can now drag the bottom-right corner out to make it bigger [66](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup69.png)
 
-Installing osu!
-----------------
+## Installing osu!
 
 *Notice: These instructions for "Installing osu!" are somewhat out of date... image- and some information-wise. So*
 
 **From this point on, the instructions are the same for both Mac and Windows; You may refer to the \[FAQ\] for general questions. However, the instructions to run osu! will also be posted here.**
 
 1.  Click on the Start button (**1**) and click on "Internet Explorer" (**2**). [67](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup70.png)
-2.  Go to [the website](http://osu.ppy.sh). [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
+2.  Go to [the website](https://osu.ppy.sh/home). [68](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup71.png)
 3.  Click on the "Download" link. [69](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup72.png)
 4.  Click on "Download osu! NOW!". [70](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup73.png)
 5.  Select "Run". [71](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup74.png)
@@ -177,8 +171,7 @@ After the installation completes, check the box marked with the *1* and then cli
 1.  Click "Yes" when it prompts you with this dialog: [82](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup85.png)
 2.  Have fun! :) [83](http://i286.photobucket.com/albums/ll103/mattyu007/Mac%20osu%20setup/osumacSetup86.png)
 
-Closing Virtualbox Properly / Resuming osu! Play
-------------------------------------------------
+## Closing Virtualbox Properly / Resuming osu! Play
 
 There are two ways to do this:
 

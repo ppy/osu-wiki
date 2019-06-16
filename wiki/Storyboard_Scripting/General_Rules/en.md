@@ -1,12 +1,10 @@
-General Rules
-================
+# General Rules
 
 ![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
 
  This page and the rest of the guide describes the lines of scripting code that are placed into the .osb or .osu file, under `[Events]`. Commands in the .osb file for the beatmap will appear in all difficulties; those that appear in the .osu file will only appear in that given difficulty.
 
-Basic Rules
------------
+## Basic Rules
 
 ### Objects
 
@@ -49,7 +47,7 @@ The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Desig
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objects that overlap in the same layer will be drawn in the order in which they are specified (e.g., if Object 1 is specified first in the .osb or .osu file, and then Object 2 is as well, but they are both in the same layer, Object 2 will appear in front of Object 1).
--   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](http://osu.ppy.sh/forum/viewtopic.php?p=469997#p469997).
+-   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](https://osu.ppy.sh/forum/viewtopic.php?p=469997#p469997).
 
 ### Game State
 
@@ -72,7 +70,7 @@ States during **playtime** ("draining time", when the player is expected to clic
 -   Fail State otherwise (i.e., the "X" symbol appears).
     -   In [Taiko](/wiki/Game_Modes/osu!taiko), if it reaches certain quota at certain time. Refer to the two examples below,
         -   Example A: Get an 96.5% accuracy while HP bar still 40%, gives Pass instead Fail.
-        -   Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](http://osu.ppy.sh/b/69556&m=1)).
+        -   Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmaps/69556&m=1)).
 
  States after last playtime, if the map had at least one break
 
@@ -98,11 +96,10 @@ States during **playtime** ("draining time", when the player is expected to clic
     -   Events will continue even if the user skips to the results screen early, and the audio produced by the storyboard can still be heard.
 -   When in the Beatmap Editor's Design tab, the current time in milliseconds is displayed. Press Ctrl+C to copy the current time to your clipboard.
 
-Comments
------------
+## Comments
 
 You can do single-line C-style comments, but be advised they may be removed if you save in the in-game editor. By default there are some to suggest the separation of commands into the four layers.
 
-`// This is a comment.`
+`// This is a comment.`
 
 Unlike in C/C++/C#/Java, you can't put a comment on a line after a valid command. You also can't do block comments.

@@ -1,14 +1,16 @@
-.osu (format de fichier)
-=================
+---
+outdated: true
+---
+
+# .osu (format de fichier)
 
 Les fichiers **.osu** sont des fichiers lisibles par l'Homme. Ils contiennent des informations sur une seule beatmap.
 
-Format
-------
+## Format
 
 La première ligne du fichier indique la version du fichier de la beatmap. Exemple:
 
-`osu file format v12`
+`osu file format v12`
 
 Les lignes suivantes sont séparées en différentes sections, indiquées avec des crochets.
 
@@ -25,74 +27,73 @@ Exemple:
 
 `[General]`
 
-Sections
---------
+## Sections
 
 ### General
 
 AudioFilename (String) indique la localisation du fichier audio relatif au dossier actuel.
 
-`AudioFilename: 03 artcore JINJA.mp3`
+`AudioFilename: 03 artcore JINJA.mp3`
 
 AudioLeadIn (Integer, millisecondes) est le montant de temps à ajouter avant que l'audio ne se joue. Utile pour les musiques qui commencent immédiatement.
 
-`AudioLeadIn: 2000`
+`AudioLeadIn: 2000`
 
 PreviewTime (Integer, millisecondes) définit le temps auquel le fichier audio sera joué lorsque la beatmap est sélectionnée dans l'écran de sélection des beatmaps.
 
-`PreviewTime: 10013`
+`PreviewTime: 10013`
 
 Countdown (Boolean) indique si un compteur doit apparaître avant le premier hit object.
 
-`Countdown: 0`
+`Countdown: 0`
 
 SampleSet (String) indique quel ensemble de hit sounds sera utilisé pour cette beatmap.
 
-`SampleSet: Soft`
+`SampleSet: Soft`
 
 StackLeniency (Float) est la distance à laquelle les hit objects seront fusionnés.
 
-`StackLeniency: 0.7`
+`StackLeniency: 0.7`
 
 Mode (Integer) définit le mode de jeu de la beatmap. (0=osu!, 1=osu!taiko, 2=osu!catch, 3=osu!mania)
 
-`Mode: 0`
+`Mode: 0`
 
 LetterboxInBreaks (Boolean) spécifie si la letterbox apparaît durant les pauses.
 
-`LetterboxInBreaks: 0`
+`LetterboxInBreaks: 0`
 
 WidescreenStoryboard (Boolean) indique si le storyboard doit être affiché en écran large.
 
-`WidescreenStoryboard: 0`
+`WidescreenStoryboard: 0`
 
 ### Editor
 
 Bookmarks (Integer List, millisecondes) est une liste de temps séparés par virgules des favoris de l'éditeur.
 
-`Bookmarks: 94171`
+`Bookmarks: 94171`
 
 DistanceSpacing (Float) est le multiplicateur de la fonctionnalité "Distance Snap".
 
-`DistanceSpacing: 1.22`
+`DistanceSpacing: 1.22`
 
 BeatDivisor (Integer) indique la division de rythme pour placer les objets.
 
-`BeatDivisor: 4`
+`BeatDivisor: 4`
 
 GridSize (Integer) indique la taille de la grille pour la fonctionnalité "Grid Snap".
 
-`GridSize: 4`
+`GridSize: 4`
 
 TimelineZoom (Integer) indique le zoom dans la timeline de l'éditeur.
 
-`TimelineZoom: 1`
+`TimelineZoom: 1`
 
 ### Metadata
 
 Title (String) est le titre de la musique, limité aux caractères ASCII.
 
-`Title:artcore JINJA`
+`Title:artcore JINJA`
 
 TitleUnicode (String) est le titre de la musique, avec support unicode. Si cette valeur n'est pas présente, Title est utilisé.
 
@@ -120,7 +121,7 @@ Source (String) décrit l'origine de la musique.
 
 Tags (String List) est un ensemble de mots décrivant la musique. Les Tags sont cherchables à la fois dans la liste de beatmaps en ligne et dans l'écran de sélection des musiques.
 
-`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
+`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
 
 BeatmapID (Integer) est l'ID de la difficulté.
 
@@ -164,7 +165,7 @@ Voir [Storyboard Scripting](/wiki/Storyboard_Scripting)
 
 Les Timing Points contiennent un certain nombre de propriétés concernant le décalage audio, les battements pas minute et les hit sounds. L'Offset (Integer, milliseconds) définit quand le Timing Point prend effet. Milliseconds per Beat (Float) définit le battement par minute de la musique. Pour certains calculs, il est plus simple d'utiliser les millisecondes par battement. Meter (Integer) définit le nombre de battement par mesure. Sample Type (Integer) définit le type de hit sound utilisé. Sample Set (Integer) définit l'ensemble de hit sound à utiliser. Volume (Integer) est une valeur de 0 à 100 qui définit le volume des hit sounds. Kiai Mode (Boolean) définit si le Kiai Time est actif. Inherited (Boolean) indique si le Timing Point est un Timing Point héritant.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
 Un Timing Point héritant est différent d'un Timing Point car sa valeur de Milliseconds per Beat est négative, et définit un nouveau Milliseconds per Beat basé sur le dernier Timing Point non-hérité. Ce peut être utilisé pour changer le volume sans affecter le timing du décalage audio, ou changer la vitesse des sliders.
 
@@ -180,7 +181,7 @@ Exemple d'un Timing Point hérité:
 
 Combo# (Integer List) est une liste de trois nombres, chacun allant de 0 à 255 définissant une couleur RVB.
 
-`Combo1 : 245,245,245`
+`Combo1 : 245,245,245`
 
 ### Hit Objects
 
@@ -196,7 +197,7 @@ Un hit circle est un simple coup dans le mode de jeu osu!
 
 *time (Integer)* est le début de la musique, en millisecondes.
 
-*type (Integer)* est un bitmap pour hitobject:
+*type (Integer)* est un bitmap pour hit object:
 
 Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) forment un nombre de 3-bit (0-7) qui choisit combien de couleurs de combo passer. Bit 7 (128) est une note longue d'osu!mania. Cercles, sliders, et spinners peuvent voir leur être appliqué un OR avec de nouveau combos et de nouvelles valeurs de sautement de combo, mais pas avec l'un l'autre.
 
@@ -206,7 +207,7 @@ Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = s
 
 Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
 
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hitobject."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
+*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hit object."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
 
 0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
 

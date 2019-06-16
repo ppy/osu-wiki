@@ -1,20 +1,17 @@
-Pliki osu!
-==============
+# Pliki osu!
 
 ![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
 
-Lokalizacja
------------
+## Lokalizacja
 
 ### Windows
 
 | Obecna, domyślna ścieżka | Stara ścieżka |
 | ------------------------ | ---------------------- |
-| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+| C:\Users\<Username>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
-Foldery
-----------
+## Foldery
 
 ### \_MACOSX
 
@@ -41,7 +38,7 @@ Pojawia się, gdy zmienisz swój język w Opcjach. **'Zawiera przetłumaczone pl
 
 ### Replays
 
-Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/forum/t/108092).
+Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
 
 Szyk: `{Lokalny pseudonim gracza} - {Wykonawca} - {Tytuł} {[Poziom trudności]}{(Rok-Miesiąc-Dzień)} {Tryb Gry}`
 **Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
@@ -54,7 +51,7 @@ Szyk: `screenshot###` gdzie "###" to numer zrzutu ekranu.
 
 ### Skins
 
-Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/forum/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
+Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
 
 Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning). Również, "osu! by peppy" to jedyny skin bez folderu oraz nie może zostać skasony bezpośrednio.
 
@@ -63,9 +60,9 @@ Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning)
 **Twoje kompendium beatmap**. Zazwyczaj zawiera pliki: .osu (poziomy trudności), .mp3/.ogg (plik z muzyką), .jpg/.png/.gif (tło), .osb (Storyboard) and .mp4/.flv (plik z filmikiem). Może też zawierać pliki: .wav/.ogg (Dźwięki uderzeń) i foldery (SB spites i/lub skórka).
 
 Szyk: `{Numer beatmapy} {Wykonawca} - {Tytuł}`.
-**Przykład:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+**Przykład:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](http://osu.ppy.sh/s/1)" lub "[avgn](http://osu.ppy.sh/s/66)". Specjalna wzmianka idzie do "[tutorial](http://osu.ppy.sh/s/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
+Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają numerowania i nie używają tego szyku. Przykładowo "[discoprince](https://osu.ppy.sh/beatmapsets/1)" lub "[avgn](https://osu.ppy.sh/beatmapsets/66)". Specjalna wzmianka idzie do "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" ponieważ każdy gracz osu! powinien ją posiadać (podczas instalacji osu!). Także, ręcznie stworzone/cmentarzowe foldery z beatmapą są do tego zaliczane.
 
 ### Ukryte foldery
 
@@ -73,8 +70,7 @@ Proszę zauważ, że bardzo stare foldery map z początków osu! nie posiadają 
 
 **osu!data files.** Nie powinieneś ich ruszać.
 
-Pliki programowe
--------------------
+## Pliki programowe
 
 ### .db (pliki baz danych)
 

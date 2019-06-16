@@ -1,14 +1,12 @@
 # GitHub Desktop
 
-*Main page: [osu! wiki Contribution Guide](/wiki/owcg).*
-
 *This article continues from the main page* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
 ## Installing GitHub Desktop
 
 1\. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already.
 
-2\. When the installer is completed, GitHub Desktop will prompt you to login, click `Sign into GitHub.com`.
+2\. When the installer is completed, GitHub Desktop will prompt you to sign in, click `Sign in to GitHub.com`.
 
 3\. Fill in the prompts as they appear.
 

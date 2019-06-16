@@ -1,4 +1,4 @@
-﻿# Rejestracja
+# Rejestracja
 
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
@@ -17,6 +17,6 @@
 
 Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules)!
 
-Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/installation#adding-beatmapsets), [stworzyć własną skórkę](/wiki/skinning) czy [stworzyć własną beatmapę](/wiki/beatmapping). Nie zapomnij o [przywitaniu się](/community/forums/8)!
+Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/installation#adding-beatmapsets), [stworzyć własną skórkę](/wiki/skinning) czy [stworzyć własną beatmapę](/wiki/beatmapping). Nie zapomnij o [przywitaniu się](https://osu.ppy.sh/community/forums/8)!
 
-Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie wpisz `/join help`. Możesz także utworzyć nowy wątek w [podforum przeznaczonym dla pomocy](/community/forums/5).
+Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie wpisz `/join help`. Możesz także utworzyć nowy wątek w [podforum przeznaczonym dla pomocy](https://osu.ppy.sh/community/forums/5).

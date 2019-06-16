@@ -1,5 +1,4 @@
-Compose
-==========
+# Compose
 
 ![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 
@@ -9,8 +8,7 @@ Compose
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 
-Features (osu!)
------------------
+## Features (osu!)
 
 For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
@@ -21,7 +19,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
-**Shows the timeline for hitobjects with respect to Beat Snap Divisor and timestamp.**
+**Shows the timeline for hit objects with respect to Beat Snap Divisor and timestamp.**
 
 #### Hit Object Timeline
 
@@ -29,7 +27,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 | ---- | ----------- |
 | `+`/`-` buttons | Increase/Decrease timeline zoom |
 | Double white vertical lines | Current timestamp with respect to the Hit Objects Timeline. |
-| Click on hitobject | **Left-Click:** Select / Move hitobject against timeline. **Right-Click:** Remove hitobject. |
+| Click on hit object | **Left-Click:** Select / Move hit object against timeline. **Right-Click:** Remove hit object. |
 
 ### Top-Right (Beat Snap Divisor)
 
@@ -103,7 +101,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 | ------------------------------------ | ----- | ----------- |
 | Sampleset | Auto, Normal, Soft, Drum | This ignore the timing section's Sampleset setting , and add the selected one... e.g. Timing point with **soft 77%**, While this Sampleset set into **Drum** and have **Clap** on the notes, will play default drum-hitnormal 77% + drum-hitclap 77% on hit |
 | Additions | Auto, Normal, Soft, Drum | Additions hitsound means add Clap, Finish, and Whistle with the SELECTED set... e.g. Sampleset **Normal**, Timing point **Soft 77%**, while Additions is set to **Drum** and have **Clap** on the notes, will result of normal-hitnormal 77% + drum-hitclap 77% on hit |
-| Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
+| Select (`1`) | **Left-click/drag:** Select/Adjust the notes/sliderpoints location. **Right-click:** Remove notes/sliderpoints. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
 | Circle (`2`) | **Left/Right-click:** Add/Remove hit circle. | Hit Circle. |
 | Slider (`3`) | **Left/Right-click:** Start/End Slider. Add/Remove sliderpoints (white square). **Left-Click x2:** New curve section (red square). | Slider. |
 | Spinner (`4`) | **Left/Right-click:** Start/End Spinner at current timestamp. | Spinner. Make sure Auto can at least score 2,000 Bonus per Spinner (to prevent the infamous spinner spam/ninja spinner). |
@@ -150,9 +148,9 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 
 | Colour | Description |
 | ------ | ----------- |
-| Bright White Long	| Current test section |
+| Bright White Long | Current test section |
 | Yellow Long | Preview point. |
-| Yellow up	| Start of Drain time. |
+| Yellow up | Start of Drain time. |
 | Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
 | Red up | Timing Points. (See Timing Setup) |
 | Blue Down |Bookmark |
@@ -171,14 +169,13 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 | `Ctrl` + `B` | Add bookmark at current location. |
 | `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
 | `Ctrl` + `Right` Arrow | Next bookmark. |
-| `Ctrl` + `Left` Arrow	| Previous bookmark. |
+| `Ctrl` + `Left` Arrow | Previous bookmark. |
 
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
-Features (osu!mania)
------------------------
+## Features (osu!mania)
 
-(The top-left hitobjects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/forum/t/118868) [Mapping & Keysound](https://osu.ppy.sh/forum/t/139139)
+(The top-left hit objects timeline holds no significance. Please ignore it.) For a simple guide: [Basics](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Keysound](https://osu.ppy.sh/community/forums/topics/139139)
 
 ### Top-Right (Beat Snap Divisor)
 
@@ -207,7 +204,7 @@ Features (osu!mania)
 | ------------------------------------ | ----- | ----------- |
 | Sampleset | Auto, Normal, Soft, Drum | Change the Sampleset ignoring the current one on timing section. Ex : Timing **Drum 66%**, while this Sampleset is **Soft**, will play all related **Soft** sound on the notes like clap , normal , finish, whistle with 66% volume. |
 | Additions | Auto, Normal, Soft, Drum | Basically the same as above, BUT Additions setting overwrite Sampleset setting. Ex : Timing **Drum 55%**, Sampleset **Soft**, while this Additions is **Normal**, will play all related **Normal** sound on the notes like clap , normal , finish, whistle with 55% volume. |
-| Select (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection.	| Select and modify existing notes. |
+| Select (`1`) | **Left-cilck/drag:** Move timestamp and location of a note. **Right-Click:** Remove note. **`Ctrl` + Click:** Multiple selection. | Select and modify existing notes. |
 | Circle (`2`) | **Left/Right-click:** Place/Remove note. | Add note to current column based on mouse position. |
 | Hold (`3`) | **Left-click (Hold):** Place hold note and adjust length. **Release on end:** Set hold length | Add hold note to current column based on mouse position. |
 
@@ -308,7 +305,7 @@ At **bottom-centre**, it shows the **timeline with markings and the compulsory m
 | `Ctrl` + `B` | Add bookmark at current location. |
 | `Ctrl` + `Shift` + `B` | Remove bookmark at current location. |
 | `Ctrl` + `Right` Arrow | Next bookmark. |
-| `Ctrl` + `Left` Arrow	| Previous bookmark. |
+| `Ctrl` + `Left` Arrow | Previous bookmark. |
 
 At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value.**
 
@@ -352,5 +349,3 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Seconds:Milliseconds respectively.
 
 **Example:** 1:57:745 kick.wav@100% means at 1 min 57 second 745th millisecond, trigger the "kick.wav" file at 100% volume regardless of condition.
-
-[If this doesn't tickle your fancy, you can always go for the hardcore SBS way.](/wiki/Storyboard_Scripting/Miscellaneous)

@@ -1,16 +1,16 @@
 # Skinning
 
-Skinning is one of the key features of osu! It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
+Skinning is one of the key features of osu!. It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
 
 ## Skinning sets
 
-*See also: [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List/).*
+*Main page: [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
 
 **For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the Ranking Criteria, it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners may want to consider those lists as well.
 
 ## How do I make a skin?
 
-*See also: [Skinning Tutorial](/wiki/Skinning/Tutorial).*
+*Main page: [Skinning Tutorial](/wiki/Skinning/Tutorial)*
 
 ## Skin elements lists
 
@@ -27,6 +27,6 @@ The list of skinning elements is split up into these categories:
 
 - [skin.ini](/wiki/skin.ini)
 - [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
-- [Compendium](/wiki/Skinning/Compendium) - a list of completed skins
+- [Compendium](/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
 - [Guides and Important Threads](/wiki/Skinning/Guides_and_Important_Threads)

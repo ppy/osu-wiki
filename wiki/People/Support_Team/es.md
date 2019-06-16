@@ -1,13 +1,13 @@
 # Equipo de Soporte
 
-El "'Equipo de Soporte"' son miembros del staff de osu! que se encargan de la moderación de los foros en varios subforos: [Desarrollo](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (excluding [Torneos](https://osu.ppy.sh/forum/55) and [Técnicas de Mapeo](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Solicitud de características](https://osu.ppy.sh/forum/4), y [Soporte Técnico](https://osu.ppy.sh/forum/5)
+El "'Equipo de Soporte"' son miembros del staff de osu! que se encargan de la moderación de los foros en varios subforos: [Desarrollo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Torneos](https://osu.ppy.sh/community/forums/55) and [Técnicas de Mapeo](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Solicitud de características](https://osu.ppy.sh/community/forums/4), y [Soporte Técnico](https://osu.ppy.sh/community/forums/5)
 
 ## Responsabilidades
 
 El equipo de soporte se responsabiliza de:
 
 1.  Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
-2.  Organizar temas en [Solicitud de Características](https://osu.ppy.sh/forum/4) y [Soporte Técnico](https://osu.ppy.sh/forum/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
+2.  Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
 
 Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 
@@ -23,13 +23,11 @@ Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Sueco, Español |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Alemán |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif

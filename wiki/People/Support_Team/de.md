@@ -1,13 +1,13 @@
 # Support Team
 
-Das **Support Team** (auch bekannt als **Support Team Redux**, leicht zu verwechseln mit dem "Account Support Team", welches ebenfalls als Support Team bekannt ist) besteht aus Mitgliedern der osu! Belegschaft, die für die Moderation von bestimmte Subforen im Forum zuständig sind: diese sind [Development](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (ausgenommen [Tournaments](https://osu.ppy.sh/forum/55) und [Mapping Techniques](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Feature Requests](https://osu.ppy.sh/forum/4), und [Technical Support](https://osu.ppy.sh/forum/5).
+Das **Support Team** (auch bekannt als **Support Team Redux**, leicht zu verwechseln mit dem "Account Support Team", welches ebenfalls als Support Team bekannt ist) besteht aus Mitgliedern der osu! Belegschaft, die für die Moderation von bestimmte Subforen im Forum zuständig sind: diese sind [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (ausgenommen [Tournaments](https://osu.ppy.sh/community/forums/55) und [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), und [Technical Support](https://osu.ppy.sh/community/forums/5).
 
 ## Verantwortung
 
 Das Support Team ist verantwortlich für:
 
 1.  das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
-2.  das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/forum/4) und [Technical Support](https://osu.ppy.sh/forum/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
+2.  das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Technical Support](https://osu.ppy.sh/community/forums/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
 
 Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle für Unterstützung.
 
@@ -23,13 +23,11 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f�
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Niederländisch |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif

@@ -17,6 +17,6 @@
 
 Don't forget to read the [rules](/wiki/Rules) very carefully!
 
-Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/installation#adding-beatmapsets) to play, [make a skin](/wiki/skinning), or [make a beatmap](/wiki/beatmapping). You could also stop by and say, "Hi," in the [Introductions subforum](/community/forums/8).
+Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/installation#adding-beatmapsets) to play, [make a skin](/wiki/skinning), or [make a beatmap](/wiki/beatmapping). You could also stop by and say, "Hi," in the [Introductions subforum](https://osu.ppy.sh/community/forums/8).
 
-If you need further in-game help, you can ask in the `#help` [IRC](/wiki/IRC) (Internet Relay Chat) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](/community/forums/5).
+If you need further in-game help, you can ask in the `#help` [IRC](/wiki/IRC) (Internet Relay Chat) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](https://osu.ppy.sh/community/forums/5).

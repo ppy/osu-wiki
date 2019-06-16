@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2015 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/123912240253/osumania-4k-world-cup-2015-registrations-open
 date: 2015-07-12 19:44:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/123912240253/osumania-4k-world-cup-2015-registrations-open
 ---
+
 We'd like to welcome all of you to this year's official osu!mania 4K World Cup. We have split the 4K and 7K brackets of the MWC into two seperated tournaments and start with the 4K tournament. However, the rules have been adjusted from the previous MWC, so please [read them carefully ](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#ruleset) before registering for this tournament.
 
-![](http://puu.sh/iS6kp/56a7701176.png)
+![](/wiki/shared/news/banners/MWC_2015.png)
 
 For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015).
 
@@ -25,7 +25,7 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 ## What has been changed?
 
 + Sign-ups are individual now. Teams will be compiled by captains **after registration phase**. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#tournament-registration).
-+ Sign-ups run via [this web registration now](https://jizz.ppy.sh/tournaments/1).
++ Sign-ups run via [this web registration now](https://osu.ppy.sh/tournaments/1).
 + We split the 4K and 7K brackets into two independent tournaments. Whereas the 4K version takes place now, the 7K version takes place on December 2015.
 + We plan to run this tournament as a 3 versus 3 tournament.
 + We have changed over to a double elimination bracket after group stage. Therefore, the tournament runs for a full week longer. Check [the Stage Instructions](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#stage-instructions) for more details.
@@ -33,7 +33,6 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 + We adjusted the winning conditions on every Stage.
 + We have implemented a new 'veto' rule, replacing the previous beatmap picking restrictions.
 + The limitations of exchanging players have been removed. You can exchange players freely now.
-
 
 ## Prizes
 
@@ -43,10 +42,10 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://jizz.ppy.sh/tournaments/1)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/1)**
 + Do not found teams in advance! **Register individually, if you wish to join this competition**. Teams will be formed after registration phase concluded by country's team captains!
 + Hand in your registration before **2. August 2015 at 23:59:59  UTC.**
-+ You can only participate if you are of a **osu!mania global ranking of #5000 or higher** and **did not violate the [osu! community rules](http://osu.ppy.sh/wiki/Rules) in the past 12 months**.
++ You can only participate if you are of a **osu!mania global ranking of #5000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 
 If your registration was successful, you will be notified. This may take a while.
 
@@ -54,7 +53,7 @@ _Remember that any registrations past the deadline will not be considered under 
 
 ## Links
 
-+ [Wiki article](http://osu.ppy.sh/wiki/MWC_4K_2015)
-+ [Discussion thread](https://osu.ppy.sh/forum/t/345431)
++ [Wiki article](https://osu.ppy.sh/wiki/MWC_4K_2015)
++ [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
 
 —Loctav

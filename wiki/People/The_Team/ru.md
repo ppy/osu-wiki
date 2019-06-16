@@ -2,23 +2,20 @@
 outdated: true
 ---
 
-Команда
-=========
+# Команда
 
-Создатель
-----------------------
+## Создатель
 
 | имя | описание |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Лидер проекта |
 
-В строю
-----------------------
+## В строю
 
 | имя | описание |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Поддержка игроков, Секретарь в очках |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Ведущий дизайнер |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Ведущий дизайнер |
 | [Loctav](https://osu.ppy.sh/users/71366) | Организация официальных турниров, Управление сообществом и персоналом |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Веб-программист |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Художник osu!, Чемпион по прикольным идеям |
@@ -28,8 +25,7 @@ outdated: true
 | [ztrot](https://osu.ppy.sh/users/6347) | Профессор osu!academy, Ответственный за медиа и дизайн персонажей |
 | [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
 
-Ушедшие на покой
-----------------------
+## Ушедшие на покой
 
 | имя | описание |
 | ---- | ----------- |
@@ -46,16 +42,15 @@ outdated: true
 | [Sinistro](https://osu.ppy.sh/users/5530) | Организатор встреч, Значительный вклад в FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu!, Разработчик osu!mania |
 
-Группы пользователей
-----------------------
+## Группы пользователей
 
 | имя | описание |
 | ---- | ----------- |
 | [Глобальные модераторы (GMT)](/wiki/People/Global_Moderation_Team) | Наблюдение за форумами и игровым чатом |
 | [Номинаторы карт (BNG)](/wiki/People/Beatmap_Nomination_Group) | Те, кто номинирует карты и днём и ночью |
-| [Разработчики](http://osu.ppy.sh/g/11) | Реализация нововведений, исправление багов |
+| [Разработчики](https://osu.ppy.sh/groups/11) | Реализация нововведений, исправление багов |
 | [osu!alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Техподдержка](/wiki/People/Support_Team) | Помощь в разделах Help и Feature Requests |
-| [osu!news](http://osu.ppy.sh/g/25) | Качественные статьи с 2013 года |
-| [Турнирный персонал](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/groups/25) | Качественные статьи с 2013 года |
+| [Турнирный персонал](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Контроль качества (QAT)](/wiki/People/Quality_Assurance_Team) | Контроль качества ранкнутых карт |

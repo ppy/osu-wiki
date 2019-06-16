@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2016 - Registrations now open!"
-permalink: http://osunews.tumblr.com/post/146609981558/osumania-4k-world-cup-2016-registrations-now
 date: 2016-06-28 16:48:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/146609981558/osumania-4k-world-cup-2016-registrations-now
 ---
+
 We'd like to welcome all of you to this year's official osu!mania 4K World Cup. As usual, the rules have been adjusted from the previous MWC 4K, so please **[read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016_4K#ruleset)** before registering for this tournament.
 
-![](http://puu.sh/pJ9Ml/8d6f0d1b51.png)
+![](https://puu.sh/pJ9Ml/8d6f0d1b51.png)
 
 For more details, refer to the **[osu!mania 4K World Cup 2016 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016_4K)**.
-You can discuss this event in the **[official forum thread](https://osu.ppy.sh/forum/t/472027)**.
+You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/472027)**.
 
 ## Tournament Schedule
 
@@ -29,7 +29,7 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/f
 + We added a cash prize pool for this competition! Additionally, everyone is able to support funding this prize pool by purchasing support banners for their user profile when available.
 + We adjusted the mappool structure. There is no a NoMod and a FreeMod bracket, where FreeMod allows the usage of HardRock and Flashlight. One player per team must play with one mod on a FreeMod beatmap. NoMod forces everyone to play NoMod. Optionally, everyone can activate Hidden or FadeIn at any map they choose.
 + We adjusted the mappool size and ban amounts for balancing purposes. Teams may only ban 1 beatmap each per match now. All mappools now have a constant size of 15 across all stages, with 10 NoMod, 4 FreeMod and 1 Tiebreaker beatmap.
-+ We will use ScoreV2 for this tournament. Check out **[this thread](https://osu.ppy.sh/forum/t/466617)** for more information.
++ We will use ScoreV2 for this tournament. Check out **[this thread](https://osu.ppy.sh/community/forums/topics/466617)** for more information.
 
 ## Prizes
 
@@ -41,7 +41,7 @@ We are aiming to have a $1,900 cash prize pool for this world cup. You can suppo
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://new.ppy.sh/tournaments/6)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/6)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Hand in your registration before **17. July 2016.**
 

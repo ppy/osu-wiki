@@ -1,13 +1,13 @@
 # Support technique
 
-L'**équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/forum/2), [Gameplay & Rankings](https://osu.ppy.sh/forum/13) (sauf [Tournois](https://osu.ppy.sh/forum/55) et [Techniques de mapping](https://osu.ppy.sh/forum/61)), [Skinning](https://osu.ppy.sh/forum/15), [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4), et [Support technique](https://osu.ppy.sh/forum/5).
+L'**équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (sauf [Tournois](https://osu.ppy.sh/community/forums/55) et [Techniques de mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Demandes de fonctionnalités](https://osu.ppy.sh/community/forums/4), et [Support technique](https://osu.ppy.sh/community/forums/5).
 
 ## Responsabilités
 
 L'équipe de support est responsable de :
 
 1.  Tester et/ou confirmer les rapports de bugs puis laisser les développeurs les résoudre,
-2.  Organiser les sujets des sections [Demandes de fonctionnalités](https://osu.ppy.sh/forum/4) et [Support technique](https://osu.ppy.sh/forum/5) et leur attribuer un statut : *résolu*, *confirmé*, *non valide*, *doublon* ou *ajouté*.
+2.  Organiser les sujets des sections [Demandes de fonctionnalités](https://osu.ppy.sh/community/forums/4) et [Support technique](https://osu.ppy.sh/community/forums/5) et leur attribuer un statut : *résolu*, *confirmé*, *non valide*, *doublon* ou *ajouté*.
 
 Si quelqu'un a besoin d'aide sur lesdits sous-forums, l'équipe de support est là pour ça.
 
@@ -24,13 +24,11 @@ Si quelqu'un a besoin d'aide sur lesdits sous-forums, l'équipe de support est l
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, Espagnol |
-| ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Allemand |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif

@@ -1,10 +1,8 @@
-osu!taiko Ranking Criteria
-=======================================
+# osu!taiko Ranking Criteria
 
-Essas regras e diretrizes foram discutidas no [Tópico de Discussão de osu!taiko](https://osu.ppy.sh/forum/p/1275323). Novas regras e diretrizes podem ser sugeridas no [Fórum de Discussão](https://osu.ppy.sh/forum/87), que serão atualizadas após a discussão chegar a um acordo.
+Essas regras e diretrizes foram discutidas no [Tópico de Discussão de osu!taiko](https://osu.ppy.sh/community/forums/posts/1275323). Novas regras e diretrizes podem ser sugeridas no [Fórum de Discussão](https://osu.ppy.sh/community/forums/87), que serão atualizadas após a discussão chegar a um acordo.
 
-Termos Comuns
---------------
+## Termos Comuns
 
 ### Geral
 
@@ -22,15 +20,13 @@ Termos Comuns
 -   **Shaker**: Spinner
 -   **Finisher/Finish**: Nota Grande, tanto Azul quanto Vermelho.
 
-Regras
--------
+## Regras
 
 Todas as regras são exatamente o que são: REGRAS. Elas NÃO SÃO diretrizes e NÃO DEVEM ser quebradas em NENHUMA circunstância.
 
 -   **Notas com finish não devem estar no meio ou começo de uma pattern com beat snap de 1/4 ou superior.** Isso é para a jogabilidade de todas as patterns, já que notas com finish no começo ou meio de uma pattern com beat snap de 1/4 ou superior foram considerados problemáticos de se jogar corretamente.
 
-Diretrizes
------------
+## Diretrizes
 
 Diretrizes são importantes e devem ser seguidas na maioria dos mapas. Contudo, elas NÃO SÃO regras, podendo ser quebradas em **casos especiais**. Se você quer quebrar uma diretriz, pergunte a si mesmo: O que eu estou prestes a fazer faz sentido? É mais divertido de jogar desse modo do que seguir as diretrizes? Se você respondeu sim à ambas questões, então provavelmente não tem nenhum problema. Quando seu mapa que não segue as diretrizes for moddado, tente ser o mais compreensivo que puder: Faça o melhor para explicar o seu ponto de vista, e esteja aberto para sugestões.
 

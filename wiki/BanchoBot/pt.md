@@ -1,13 +1,14 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
 Seu hospedeiro do [servidor de chat do osu!](/wiki/Internet_Relay_Chat).
 
-[tem um perfil!](https://osu.ppy.sh/u/3)
+[tem um perfil!](https://osu.ppy.sh/users/3)
 
 ## Aparência e trabalho
 

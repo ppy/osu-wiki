@@ -1,7 +1,5 @@
 # General Information
 
-*Main page: [Beatmap Nominators](/wiki/Beatmap_Nominators).*
-
 Are you a Beatmap Nominator, or are interested in becoming one? Then you have come to the right place! This article is all the general information you will need to know as a new Beatmap Nominator. To start, this article will start with a few useful links and then introduce you to the way icons are used, as well as how this transitions into [Beatmap Discussions](/wiki/Beatmap_Discussions) (also known as Modding v2).
 
 ## Useful Information

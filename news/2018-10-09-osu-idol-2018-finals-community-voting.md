@@ -12,7 +12,7 @@ It has been another exciting year for the osu!idol competition! We have three fi
 
 osu!idol is a community driven singing contest where contestants (as a solo or a duet) sing their way through multiple stages of different genres with the aim to reach the very top of the idol podium! Much of the voting has already happened, but we now need your vote to decide who's the winner once and for all!
 
-In [last year's voting](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results) the community chose [Renril](https://osu.ppy.sh/users/4955122) to be the osu!idol of 2017 with [Will Stetson](https://osu.ppy.sh/users/4909088) and [Thievley](https://osu.ppy.sh/users/4717672) taking 2nd and 3rd place respectively. 
+In [last year's voting](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results) the community chose [Renril](https://osu.ppy.sh/users/4955122) to be the osu!idol of 2017 with [Will Stetson](https://osu.ppy.sh/users/4909088) and [Thievley](https://osu.ppy.sh/users/4717672) taking 2nd and 3rd place respectively.
 
 What will happen this year? Up to you!
 
@@ -24,9 +24,8 @@ What will happen this year? Up to you!
 
 * **1st:** will receive the osu!idol 2018 Winner profile Badge and 6 months supporter tag!
 * **2nd:** will receive a 3 month supporter tag!
-* **3rd:** will receive a 2 month supporter tag! 
+* **3rd:** will receive a 2 month supporter tag!
 
 Best of luck to our 2018 finalists!
 
 —Flanster
-

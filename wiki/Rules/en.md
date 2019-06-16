@@ -1,10 +1,8 @@
-Rules
-============
+# Rules
 
 These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
 
-Community Rules
----------------
+## Community Rules
 
 1.  **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
@@ -13,8 +11,7 @@ Community Rules
 5.  **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
 6.  **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
-In-Game Chat Rules
-------------------
+## In-Game Chat Rules
 
 1.  **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
 2.  **Let the moderators handle issues in the chat.** You can point things out to them with the `!report` command and they'll handle the rest.
@@ -26,8 +23,7 @@ In-Game Chat Rules
 8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9.  **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
-Forum-wide rules
-----------------
+## Forum-wide rules
 
 1.  **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
 2.  **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
@@ -37,10 +33,9 @@ Forum-wide rules
 6.  **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
 7.  **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
-Beatmap Submission Rules
----------------------------------
+## Beatmap Submission Rules
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
 
 A set of more detailed rules for beatmap construction exists, known as the [Ranking Criteria](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ A set of more detailed rules for beatmap construction exists, known as the [Rank
 2.  **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3.  **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 
-Off-Topic Rules
----------------
+## Off-Topic Rules
 
 *The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
 
@@ -57,8 +51,7 @@ Off-Topic Rules
 2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
 3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
 
-What happens if I break the rules?
----------------
+## What happens if I break the rules?
 
 If you do find yourself on the wrong end of our community rules, bad things will happen.
 

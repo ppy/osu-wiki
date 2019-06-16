@@ -2,23 +2,20 @@
 outdated: true
 ---
 
-A Equipe
-=========
+# A Equipe
 
-Criador
-----------------------
+## Criador
 
 | Nome | Descrição |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Lider do Projeto |
 
-Ativos
-----------------------
+## Ativos
 
 | Nome | Descrição |
 | ---- | ----------- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Suporte a Jogadores, Meganekko secretary |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](http://next.ppy.sh/) | Lead designer |
+| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Lead designer |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organização oficial de torneios, Staff and community management |
 | [nanaya](https://osu.ppy.sh/users/2387883) | Web implementation |
 | [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
@@ -28,8 +25,7 @@ Ativos
 | [ztrot](https://osu.ppy.sh/users/6347) | professor do osu!academy, Designer de Media/Personagens |
 | [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-Inativos
-----------------------
+## Inativos
 
 | Nome | Descrição |
 | ---- | ----------- |
@@ -46,16 +42,15 @@ Inativos
 | [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Grande contribuições no FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, Desenvolvedor do modo de jogo osu!mania |
 
-Grupo de usuários
-----------------------
+## Grupo de usuários
 
 | Nome | Descrição |
 | ---- | ----------- |
 | [Time de Moderação Global](/wiki/People/Global_Moderation_Team) | Tomam conta dos forums e chat in-game |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Te ajudam a melhorar seus Beatmaps |
-| [Desenvolvedores](http://osu.ppy.sh/g/11) | Tornando o jogo incrível adicionando novos recursos e concretando erros |
+| [Desenvolvedores](https://osu.ppy.sh/groups/11) | Tornando o jogo incrível adicionando novos recursos e concretando erros |
 | [osu! alumni](/wiki/People/osu!_Alumni) | São reconhecidos por suas contribuições mas que não são mais ativos |
 | [Equipe de Suporte](/wiki/People/Support_Team) | Assistentes dos subforums Tech Support/Feature Request |
-| [osu!news](http://osu.ppy.sh/g/25) | Disponibilizando boas noticias desde 2013 |
-| [Organizadores de Torneios](http://osu.ppy.sh/g/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
+| [osu!news](https://osu.ppy.sh/groups/25) | Disponibilizando boas noticias desde 2013 |
+| [Organizadores de Torneios](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Ajudam você a aproveitar o osu!, garantindo a qualidade dos beatmaps. |

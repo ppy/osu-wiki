@@ -3,11 +3,12 @@ layout: post
 title: "osu!taiko World Cup - Semifinals Recap"
 date: 2018-05-05 10:30:00 +0000
 ---
+
 Did you miss the past weekend of matches in the osu!taiko World Cup? Don't worry, as Eiuh helps you catch up on what went down in the Semifinals!
+
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 The Semifinals offered some very exciting matches, including the first tiebreaker we've seen since Group Stage. Let's walk through them, shall we?
-
 
 ### Semifinals Matches
 
@@ -15,7 +16,7 @@ The Semifinals offered some very exciting matches, including the first tiebreake
 
 The next team to secure their top 8 placement was **Indonesia with a 6-0 sweep over Brazil.** While some maps were close, Brazil leaves the match empty-handed as they're knocked out of the tournament along with Chile, leaving no Latin American teams left in the cup.
 
-**The European brawl between Spain and Poland ended 6-2 for Spain.** [CreepyDuck](https://osu.ppy.sh/users/2435013) besting both of the Spaniards on 5 out of 8 maps was simply not enough for Poland. Spain would be the last European team standing, but not for long. 
+**The European brawl between Spain and Poland ended 6-2 for Spain.** [CreepyDuck](https://osu.ppy.sh/users/2435013) besting both of the Spaniards on 5 out of 8 maps was simply not enough for Poland. Spain would be the last European team standing, but not for long.
 
 **Canada versus Hong Kong was the definite highlight of the weekend, ending 6-5 for the Canadians.** The mid-seeded Hong Kong team took everyone by surprise as they took Canada all the way to tiebreaker where they narrowly lost. If you missed this truly spectacular performance, you can rewatch it on the [osulive Twitch channel](https://www.twitch.tv/osulive/videos/all).
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/canada-hk-tiebreaker.jpg)
@@ -28,14 +29,13 @@ In the other winners bracket match, **Japan mercilessly knocked South Korea into
 Since Indonesia and Australia won their respective matches, they would now face each other. **Indonesia did win 6-2 after a 5 map win streak to close it out**, but don't let that scoreline fool you. Many of the maps could've gone either way, and the Indonesians had to fight tooth and nail for most of their wins. An exception would be the gruesome DoubleTime finisher map [Ellie Goulding - Burn](https://osu.ppy.sh/beatmapsets/140698#taiko/351271), which is something the Australians certainly felt.
 ![](/wiki/shared/news/2018-04-23-twc-quarters-recap/indonesia-burn.jpg)
 
-A few reflections on the cup by the Australian player [Jaye](https://osu.ppy.sh/users/4841352) following their elimination: 
+A few reflections on the cup by the Australian player [Jaye](https://osu.ppy.sh/users/4841352) following their elimination:
 
-*This is the first time [Aloda](https://osu.ppy.sh/users/1190127) has been captain, and they did a great job of it. The tournament also showed how much [rango](https://osu.ppy.sh/users/7728466) has grown as a player. I really think he was the highlight of the team, even if our scores say otherwise. As the maps got harder we could show off more of what we could do, especially in Semifinals. When we beat Chile, it felt like a massive weight was lifted off our shoulders because we got revenge for not only last year and Group Stage, but also MWC where they've swept the Australian team twice.* 
+*This is the first time [Aloda](https://osu.ppy.sh/users/1190127) has been captain, and they did a great job of it. The tournament also showed how much [rango](https://osu.ppy.sh/users/7728466) has grown as a player. I really think he was the highlight of the team, even if our scores say otherwise. As the maps got harder we could show off more of what we could do, especially in Semifinals. When we beat Chile, it felt like a massive weight was lifted off our shoulders because we got revenge for not only last year and Group Stage, but also MWC where they've swept the Australian team twice.*
 
 *My best mod is Hidden, but since 2 of our HardRock players were absent I had to limit myself and play the mod I dislike the most. As much as I dislike HardRock as a mod in general, [Jikininki](https://osu.ppy.sh/beatmapsets/415048/#taiko/899485) is the first map and only map so far to actually make me not only enjoy HardRock, but actually want to play it. Finally, I might as well add that [Nov 29](https://osu.ppy.sh/beatmapsets/741465#taiko/1564247) was an amazing HD pick and I feel no sympathy towards everyone that struggled on it.*
 
 In the last match of the weekend, the journey of the last European team came to an end. Canada had a player fail on the HardRock map [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086#taiko/1507092) for the second time this weekend, but besides that they didn't give Spain any way into the game and could close it out more convincingly than in their match against Hong Kong. It ended 6-1 for the Canadians.  
-
 
 ### Semifinals Mappool
 
@@ -51,13 +51,11 @@ In Semifinals, every map was picked atleast once (including tiebreaker!) and the
 
 *Overall, Nwolf and I are pleasantly surprised with the success of the Semifinals Mappool. After all, who wouldn't be satisfied with a tiebreaker match after a two week drought? With Finals Mappool released, we look forward to hearing your thoughts and feedback in the comments below!"* —[mangomizer](https://osu.ppy.sh/users/1893718)
 
-
 ### Finals Preview
 
-This weekend we'll be seeing 4 matches. While that may not sound like a lot, the importance of each match cannot be overstated. Also, keep in mind that the matches from now on will be Best-Of-13 and can last a very long time as a result. 
+This weekend we'll be seeing 4 matches. While that may not sound like a lot, the importance of each match cannot be overstated. Also, keep in mind that the matches from now on will be Best-Of-13 and can last a very long time as a result.
 
 In the winners bracket, the undefeated teams of Japan and Taiwan will battle for a spot in the Grand Final. In the losers bracket, we'll be seeing atleast two matches between North America and Asia, as the first two matchups are South Korea versus Canada and United States versus Indonesia. The winners of these two matches will face each other for a spot in the top 3, where they later compete with either Japan or Taiwan for the Grand Finals spot. If all of this sounds complicated, you can have a look at the bracket on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/).
-
 
 ### Useful Links
 

@@ -1,11 +1,9 @@
-Médailles
-=========
+# Médailles
 
-Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle. 
+Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle.
 Elles sont divisées en 5 groupes: [Packs de Beatmaps](#packs-de-beatmaps), [Compétence](#compétence), [Consécration](#consécration), [Introduction aux Mods](#introduction-aux-mods), et [Secrets](#secrets).
 
-Packs de Beatmaps
--------------------
+## Packs de Beatmaps
 
 Les médailles des **Packs de Beatmaps** peuvent être obtenues **en jouant chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans sa totalité au moins une fois et dans n'importe quelle difficulté**.
 Vous devez jouer en mode [osu!standard](/wiki/Game_Modes/osu!) pour pouvoir obtenir la mention **CLEARED** ("complété") dans la [Liste de Packs](https://osu.ppy.sh/p/packlist?t=t) ainsi que le badge correspondant.
@@ -25,7 +23,7 @@ Chacune de ces sections comporte 4 volumes.
 
 - Jouez une fois chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans n'importe quelle difficulté.
 - Le mode de jeu doit être [osu!standard](/wiki/Game_Modes/osu!).
-- Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier `Songs` de osu!. 
+- Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier `Songs` de osu!.
   Ouvrez osu!, et vous pouvez jouer. C'est tout.
   - Vous pouvez aussi télécharger les chansons une à une manuellement, cela compterait également.
 - Toute variation des données de la chanson (par exemple un créateur différent) fera que cette map ne sera pas comptée.
@@ -37,15 +35,14 @@ Chacune de ces sections comporte 4 volumes.
 - Les mods peuvent être utilisés, à l'exception de ceux qui ne comptent pas dans les classements (mod [Auto Pilot](/wiki/AP) par exemple). Utilisez les mods avec sagesse et à votre avantage.
 - Après avoir obtenu votre succès, vous pouvez supprimer les chansons du thème que vous avez complété. Votre succès ainsi que votre score et précision entrés dans le classement seront conservés. Si vous voulez améliorer votre score et votre précision sur une beatmap, vous devrez importer cette beatmap dans votre jeu une nouvelle fois.
 
-Compétence
------------
+## Compétence
 
 Les médailles de compétence se divisent actuellement en trois catégories: Combo, High Ranker, and Star-based.
 
 Les médailles **Combo** s'obtiennent en atteignant un [combo](/wiki/combo) spécifique dans le mode osu!standard, et peuvent être complétées sur n'importe quelle musique.
 Atteindre le même combo en mode [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) ne vous donnera **pas** le succès.
 
-Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked". 
+Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked".
 Ne cherchez pas de beatmaps qui ne soient pas "approved".
 
 ---
@@ -74,8 +71,7 @@ Il y a ci-dessous les médailles _Pass_ et _S_ pour leur variante 8-étoiles, ma
 | ![8 Star osu!standard Pass](img/osu-skill-pass-8.png "8 Star osu!standard Pass") | ![8 Star osu!taiko Pass](img/taiko-skill-pass-8.png "8 Star osu!taiko Pass") | ![8 Star osu!catch Pass](img/fruits-skill-pass-8.png "8 Star osu!catch Pass") | ![8 Star osu!mania Pass](img/mania-skill-pass-8.png "8 Star osu!mania Pass") |
 | ![8 Star osu!standard S](img/osu-skill-fc-8.png "8 Star osu!standard S") | ![8 Star osu!taiko S](img/taiko-skill-fc-8.png "8 Star osu!taiko S") | ![8 Star osu!catch S](img/fruits-skill-fc-8.png "8 Star osu!catch S") | ![8 Star osu!mania S](img/mania-skill-fc-8.png "8 Star osu!mania S") |
 
-Consécration
--------------
+## Consécration
 
 Les succès de consécration s'obtiennent en jouant un grand nombre de parties en mode osu!standard, en collectant beaucoup de fruits en mode osu!catch, en frappant un grand nombre de coups en mode osu!taiko, en jouant de nombreuses notes en mode [osu!mania](/wiki/Game_Modes/osu!mania).
 
@@ -86,8 +82,7 @@ Les succès de consécration s'obtiennent en jouant un grand nombre de parties e
 | ![25,000 Plays (osu!standard mode)](img/osu-plays-25000.png "25,000 Plays (osu!standard mode)") | ![3,000,000 Drum Hits](img/taiko-hits-3000000.png "3,000,000 Drum Hits") | ![Catch 2,000,000 fruits](img/fruits-hits-2000000.png "Catch 2,000,000 fruits") | ![4,000,000 Keys](img/mania-hits-4000000.png "4,000,000 Keys") |
 | ![50,000 Plays (osu!standard mode)](img/osu-plays-50000.png "50,000 Plays (osu!standard mode)") | ![30,000,000 Drum Hits](img/taiko-hits-30000000.png "30,000,000 Drum Hits") | ![Catch 20,000,000 fruits](img/fruits-hits-20000000.png "Catch 20,000,000 fruits") | ![40,000,000 Keys](img/mania-hits-40000000.png "40,000,000 Keys") |
 
-Introduction aux Mods
-----------------
+## Introduction aux Mods
 
 _Voir aussi: [Modifieurs de Jeu](/wiki/Game_Modifiers)._
 
@@ -103,8 +98,7 @@ Notez que si le joueur joue avec plusieurs modifieurs de jeu en même temps, le 
 | ![Hidden](img/all-intro-hidden.png "Hidden") | | |
 | ![Sudden Death](img/all-intro-suddendeath.png "Sudden Death") ![Perfect](img/all-intro-perfect.png "Perfect") | | |
 
-Secrets
------------
+## Secrets
 
 La manière d'obtenir ces médailles n'est pas définie de manière évidente.
 Le joueur doit trouver lui-même ce qu'il faut faire afin de les débloquer.
@@ -120,8 +114,7 @@ Le titre de la médaille est un indice sur la manière de l'obtenir.
 | ![Up For The Challenge](img/all-secret-challenge.png "Up For The Challenge") | ![Lights Out](img/all-secret-lightsout.png "Lights Out") |![Unstoppable](img/osu-secret-superhardhddt.png "Unstoppable") |![Is This Real Life?](img/osu-secret-supersuperhardhddt.png "Is This Real Life?") |
 | ![Camera Shy](img/all-secret-uguushy.png "Camera Shy") | ![The Sum Of All Fears](img/all-secret-nuked.png "The Sum Of All Fears") |![Dekasight](img/osu-secret-deka.png "Dekasight") |![Hour Before The Dawn](img/all-secret-hourbeforethedawn.png "Hour Before The Dawn") |
 
-Liens Externes
---------------
+## Liens Externes
 
 - [Anciens packs de beatmaps (2009 - 2016) avant la mise à jour de Stefan.](Beatmap_Packs_0916)
-- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/forum/t/80448).
+- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/community/forums/topics/80448).

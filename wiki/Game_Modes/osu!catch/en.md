@@ -31,8 +31,6 @@
 
 # osu!catch
 
-**[Click to return to Game Modes page][Game_Modes wikilink]**
-
 <!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
 <!-- **[Click here to visit the older version of osu!catch using deprecated ScoreV1 system](./v1 "osu!catch v1")** -->
 
@@ -268,7 +266,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 
 ### History
 
-[first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran"
+[first catch link]:https://osu.ppy.sh/beatmapsets/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran"
 
 ![osu!catch logo in the Special Modes][osu!catch logo]
 
@@ -278,4 +276,4 @@ _osu!catch (Catch the Beat) logo in deprecated Special Mode_
   However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines.
   These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
 - The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran][first catch link]
-- The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki (Deif)")
+- The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485 "Rita - Hajimari no Toki (Deif)")

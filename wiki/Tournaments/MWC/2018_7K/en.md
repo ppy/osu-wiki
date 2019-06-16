@@ -5,6 +5,7 @@ tags:
 - MWC2018
 - MWC7K 2018
 ---
+
 # osu!mania 7K World Cup 2018
 
 ![MWC 7K 2018 Logo](img/logo.png)
@@ -104,99 +105,99 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 **[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
 
 - FreeMod
-  - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](http://osu.ppy.sh/beatmaps/1421269)
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](http://osu.ppy.sh/beatmaps/1309991)
-  - [you - Hold Angel (Blocko) \[Angel\]](http://osu.ppy.sh/beatmaps/1351223)
-  - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](http://osu.ppy.sh/beatmaps/943256)
-  - [Gekikara Mania - Deublithick (\_underjoy) \[Ultra\]](http://osu.ppy.sh/beatmaps/1536787)
-  - [Nauts - Second Run (Core Mix) (Reba) \[Lv.60\]](http://osu.ppy.sh/beatmaps/1173638)
-  - [DJ Sharpnel - Gate Openerz (qodtjr) \[qodwawa\]](http://osu.ppy.sh/beatmaps/1291115)
-  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (arcwinolivirus) \[Beating Fallen Angel\]](http://osu.ppy.sh/beatmaps/1299515)
-  - [YUC'e - Future Cider (Blasticide) \[Future Candy\]](http://osu.ppy.sh/beatmaps/1407558)
-  - [xi - Valhalla (AncuL) \[Collab Grimnismal\]](http://osu.ppy.sh/beatmaps/1539702)
-  - [Ras - TURNDOWN(gdbg edit) (spoonguy) \[sp7\]](http://osu.ppy.sh/beatmaps/1567241)
-  - [F-777 - Deadlocked (Ciel) \[Lockstep\]](http://osu.ppy.sh/beatmaps/1567673)
-  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[Coronation\]](http://osu.ppy.sh/beatmaps/1495919)
-  - [DragonForce - Through The Fire And Flames (Jinjin) \[Eternal Reign\]](http://osu.ppy.sh/beatmaps/1565212)
-  - [lapix - Carry me away (Couil) \[7K SV Challenge\]](http://osu.ppy.sh/beatmaps/1526642)
+  - [Chroma - Tiny Tales Continue (qodtjr) \[Recollections\]](https://osu.ppy.sh/beatmaps/1421269)
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Evening) \[\* \* \* \ ( o w o)/ \*\* !!\]](https://osu.ppy.sh/beatmaps/1309991)
+  - [you - Hold Angel (Blocko) \[Angel\]](https://osu.ppy.sh/beatmaps/1351223)
+  - [Misty rain - Sakura no Sakanu wa Eiketsu no (Zenonia) \[Lasers of Seventeen Articles\]](https://osu.ppy.sh/beatmaps/943256)
+  - [Gekikara Mania - Deublithick (\_underjoy) \[Ultra\]](https://osu.ppy.sh/beatmaps/1536787)
+  - [Nauts - Second Run (Core Mix) (Reba) \[Lv.60\]](https://osu.ppy.sh/beatmaps/1173638)
+  - [DJ Sharpnel - Gate Openerz (qodtjr) \[qodwawa\]](https://osu.ppy.sh/beatmaps/1291115)
+  - [Hoshizora Rin (CV.Iida Riho) & Nishikino Maki (CV.Pile) - Beat in Angel (arcwinolivirus) \[Beating Fallen Angel\]](https://osu.ppy.sh/beatmaps/1299515)
+  - [YUC'e - Future Cider (Blasticide) \[Future Candy\]](https://osu.ppy.sh/beatmaps/1407558)
+  - [xi - Valhalla (AncuL) \[Collab Grimnismal\]](https://osu.ppy.sh/beatmaps/1539702)
+  - [Ras - TURNDOWN(gdbg edit) (spoonguy) \[sp7\]](https://osu.ppy.sh/beatmaps/1567241)
+  - [F-777 - Deadlocked (Ciel) \[Lockstep\]](https://osu.ppy.sh/beatmaps/1567673)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[Coronation\]](https://osu.ppy.sh/beatmaps/1495919)
+  - [DragonForce - Through The Fire And Flames (Jinjin) \[Eternal Reign\]](https://osu.ppy.sh/beatmaps/1565212)
+  - [lapix - Carry me away (Couil) \[7K SV Challenge\]](https://osu.ppy.sh/beatmaps/1526642)
 - Tiebreaker
-  - **[DJ Genki (as Gram) vs. Camellia - Ragnarok (Jinjin) \[Fate\]](http://osu.ppy.sh/beatmaps/1566335)**
+  - **[DJ Genki (as Gram) vs. Camellia - Ragnarok (Jinjin) \[Fate\]](https://osu.ppy.sh/beatmaps/1566335)**
 
 ### Semifinals
 
 **[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip)**
 
 - FreeMod
-  - [FELT - Flower Flag (17VA) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1142360)
-  - [ZiGZaG - VVV (AncuL) \[Nightmare\]](http://osu.ppy.sh/beatmaps/1180112)
-  - [fripSide - white forces (Pikobaka) \[White\]](http://osu.ppy.sh/beatmaps/959256)
-  - [Hinoisuka - Delightness Brightness (qodtjr) \[Hoshi\]](http://osu.ppy.sh/beatmaps/1251693)
-  - [Camellia - Towards the Horizon (AncuL) \[Horizon\]](http://osu.ppy.sh/beatmaps/1455297)
-  - [Sai Oto / Komiya Mao - Yozakura (Reba) \[Lv.16\]](http://osu.ppy.sh/beatmaps/1306788)
-  - [Shoujo Fractal - Samayoi no mei (Wonki) \[Lunatic\]](http://osu.ppy.sh/beatmaps/1522088)
-  - [goreshit - the nature of dying (Blocko) \[mourning\]](http://osu.ppy.sh/beatmaps/1411514)
-  - [Noah - Celestial stinger (Wonki) \[GRAVITY\]](http://osu.ppy.sh/beatmaps/1149869)
-  - [O2i3 - TSLove (jakads) \[Jump!\]](http://osu.ppy.sh/beatmaps/1245822)
-  - [Camellia - crystallized (Blocko) \[Coalescence\]](http://osu.ppy.sh/beatmaps/1008888)
-  - [A4paper - Hypernova (Spy) \[Lee's 7K Black Another\]](http://osu.ppy.sh/beatmaps/1147752)
-  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Ciel) \[Crispy\]](http://osu.ppy.sh/beatmaps/1562281)
+  - [FELT - Flower Flag (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1142360)
+  - [ZiGZaG - VVV (AncuL) \[Nightmare\]](https://osu.ppy.sh/beatmaps/1180112)
+  - [fripSide - white forces (Pikobaka) \[White\]](https://osu.ppy.sh/beatmaps/959256)
+  - [Hinoisuka - Delightness Brightness (qodtjr) \[Hoshi\]](https://osu.ppy.sh/beatmaps/1251693)
+  - [Camellia - Towards the Horizon (AncuL) \[Horizon\]](https://osu.ppy.sh/beatmaps/1455297)
+  - [Sai Oto / Komiya Mao - Yozakura (Reba) \[Lv.16\]](https://osu.ppy.sh/beatmaps/1306788)
+  - [Shoujo Fractal - Samayoi no mei (Wonki) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1522088)
+  - [goreshit - the nature of dying (Blocko) \[mourning\]](https://osu.ppy.sh/beatmaps/1411514)
+  - [Noah - Celestial stinger (Wonki) \[GRAVITY\]](https://osu.ppy.sh/beatmaps/1149869)
+  - [O2i3 - TSLove (jakads) \[Jump!\]](https://osu.ppy.sh/beatmaps/1245822)
+  - [Camellia - crystallized (Blocko) \[Coalescence\]](https://osu.ppy.sh/beatmaps/1008888)
+  - [A4paper - Hypernova (Spy) \[Lee's 7K Black Another\]](https://osu.ppy.sh/beatmaps/1147752)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Ciel) \[Crispy\]](https://osu.ppy.sh/beatmaps/1562281)
 - Tiebreaker
-  - **[Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](http://osu.ppy.sh/beatmaps/684928)**
+  - **[Halozy - Genryuu Kaiko (ShikiNoHollow) \[7K Z3nith\]](https://osu.ppy.sh/beatmaps/684928)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)**
 
 - FreeMod
-  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](http://osu.ppy.sh/beatmaps/1497082)
-  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[Blocko's 7K Extra\]](http://osu.ppy.sh/beatmaps/1552763)
-  - [The Flashbulb - Passage D (Wonki) \[Forbidden Path\]](http://osu.ppy.sh/beatmaps/1348685)
-  - [Yooh - Shanghai Kouchakan (Orchid Remix 2017 Update ver.) (AncuL) \[Orchid\]](http://osu.ppy.sh/beatmaps/1421481)
-  - [EBIMAYO - GOODBOUNCE (R e m u r i n g) \[BOUNCE\]](http://osu.ppy.sh/beatmaps/1285588)
-  - [Suzuki Konomi - CHOIR JAIL (arcwinolivirus) \[7K 'Epic Tragedy' Arc\]](http://osu.ppy.sh/beatmaps/1086869)
-  - [bill wurtz - outside (Nivrad00) \[i wanna go outside\]](http://osu.ppy.sh/beatmaps/1552703)
-  - [holic - Deus ex machina (spoonguy) \[sp1\]](http://osu.ppy.sh/beatmaps/1015427)
-  - [UNDEAD CORPORATION - Seven Colors (Nwolf) \[LordRaika's 7K EX\]](http://osu.ppy.sh/beatmaps/1155703)
-  - [encX - One Day (Lenfried-) \[7K SV\]](http://osu.ppy.sh/beatmaps/1261333)
-  - [Aphex Twin (Cover by Webodan) - Avril 14th (8-bit GXSCC) (Nivrad00) \[Challenge\]](http://osu.ppy.sh/beatmaps/963008)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) \[Betsaljoy Lv.32 [Jacky Express]\]](https://osu.ppy.sh/beatmaps/1497082)
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[Blocko's 7K Extra\]](https://osu.ppy.sh/beatmaps/1552763)
+  - [The Flashbulb - Passage D (Wonki) \[Forbidden Path\]](https://osu.ppy.sh/beatmaps/1348685)
+  - [Yooh - Shanghai Kouchakan (Orchid Remix 2017 Update ver.) (AncuL) \[Orchid\]](https://osu.ppy.sh/beatmaps/1421481)
+  - [EBIMAYO - GOODBOUNCE (R e m u r i n g) \[BOUNCE\]](https://osu.ppy.sh/beatmaps/1285588)
+  - [Suzuki Konomi - CHOIR JAIL (arcwinolivirus) \[7K 'Epic Tragedy' Arc\]](https://osu.ppy.sh/beatmaps/1086869)
+  - [bill wurtz - outside (Nivrad00) \[i wanna go outside\]](https://osu.ppy.sh/beatmaps/1552703)
+  - [holic - Deus ex machina (spoonguy) \[sp1\]](https://osu.ppy.sh/beatmaps/1015427)
+  - [UNDEAD CORPORATION - Seven Colors (Nwolf) \[LordRaika's 7K EX\]](https://osu.ppy.sh/beatmaps/1155703)
+  - [encX - One Day (Lenfried-) \[7K SV\]](https://osu.ppy.sh/beatmaps/1261333)
+  - [Aphex Twin (Cover by Webodan) - Avril 14th (8-bit GXSCC) (Nivrad00) \[Challenge\]](https://osu.ppy.sh/beatmaps/963008)
 - Tiebreaker
-  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Lude's 7K Interstellar\]](http://osu.ppy.sh/beatmaps/1177813)**
+  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Lude's 7K Interstellar\]](https://osu.ppy.sh/beatmaps/1177813)**
 
 ### Round of 16
 
 **[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
 
 - FreeMod
-  - [xi - Aragami (Blocko) \[7K Insane\]](http://osu.ppy.sh/beatmaps/760452)
-  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](http://osu.ppy.sh/beatmaps/261515)
-  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](http://osu.ppy.sh/beatmaps/955188)
-  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](http://osu.ppy.sh/beatmaps/1170409)
-  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](http://osu.ppy.sh/beatmaps/615683)
-  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](http://osu.ppy.sh/beatmaps/1206690)
-  - [xi - .357 Magnum (Level 51) \[Insane\]](http://osu.ppy.sh/beatmaps/1099592)
-  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](http://osu.ppy.sh/beatmaps/1189760)
-  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](http://osu.ppy.sh/beatmaps/1186335)
-  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](http://osu.ppy.sh/beatmaps/293691)
-  - [she - gum (spoonguy) \[spoongum\]](http://osu.ppy.sh/beatmaps/1546340)
+  - [xi - Aragami (Blocko) \[7K Insane\]](https://osu.ppy.sh/beatmaps/760452)
+  - [KOTOKO - agony (TV Size) (woc2006) \[Rumi's Insane\]](https://osu.ppy.sh/beatmaps/261515)
+  - [N.M.S.T - Snowflakes (jakads) \[Insane\]](https://osu.ppy.sh/beatmaps/955188)
+  - [THE KOXX - A Fool Moon Night (Jinjin) \[Foolish\]](https://osu.ppy.sh/beatmaps/1170409)
+  - [Kola Kid - Spaceman (wizardoffail) \[Normal\]](https://osu.ppy.sh/beatmaps/615683)
+  - [she - Is This Love [osu!mania Speedmapping Challenge #5] (Nivrad00) \[Niv's 7K Space Distortion\]](https://osu.ppy.sh/beatmaps/1206690)
+  - [xi - .357 Magnum (Level 51) \[Insane\]](https://osu.ppy.sh/beatmaps/1099592)
+  - [Hideyuki Fukasawa - kengen/great three (richardfeder) \[AL's Insane\]](https://osu.ppy.sh/beatmaps/1189760)
+  - [capitaro - Tenshinranman Haikara Hime (ExNeko) \[Tsukimisake\]](https://osu.ppy.sh/beatmaps/1186335)
+  - [Falcom Sound Team J.D.K. - Phantasmagoria (richardfeder) \[7K MX\]](https://osu.ppy.sh/beatmaps/293691)
+  - [she - gum (spoonguy) \[spoongum\]](https://osu.ppy.sh/beatmaps/1546340)
 - Tiebreaker
-  - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](http://osu.ppy.sh/beatmaps/1074472)**
+  - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) \[Gourmet Chocolate\]](https://osu.ppy.sh/beatmaps/1074472)**
 
 ### Group Stage
 
 **[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
 
 - FreeMod
-  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](http://osu.ppy.sh/beatmaps/964012)
-  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](http://osu.ppy.sh/beatmaps/1515408)
-  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](http://osu.ppy.sh/beatmaps/384381)
-  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](http://osu.ppy.sh/beatmaps/1536295)
-  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[\_underjoy's Insane\]](http://osu.ppy.sh/beatmaps/1124577)
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](http://osu.ppy.sh/beatmaps/1209101)
-  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](http://osu.ppy.sh/beatmaps/799473)
-  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](http://osu.ppy.sh/beatmaps/1038325)
-  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](http://osu.ppy.sh/beatmaps/1533313)
+  - [yozuca\* - LOVING TRIP (shionelove) \[Another\]](https://osu.ppy.sh/beatmaps/964012)
+  - [Haruki \<Childhood\> (CV: Koinu) - Kikoe masu ka (SurfChu85) \[do you hear me?\]](https://osu.ppy.sh/beatmaps/1515408)
+  - [LAST ALLIANCE - HEKIREKI (TV Size) (Miyamoto Usagi) \[7K Burst! 'Cruel Shower'\]](https://osu.ppy.sh/beatmaps/384381)
+  - [Camellia - Proluvies (Lenfried-) \[7K Hard\]](https://osu.ppy.sh/beatmaps/1536295)
+  - [Kinjishi - Nageki no Ki -02RMX- (CHARGE) \[\_underjoy's Insane\]](https://osu.ppy.sh/beatmaps/1124577)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Sulit [HD]\]](https://osu.ppy.sh/beatmaps/1209101)
+  - [ClariS - Anemone -TV MIX- (richardfeder) \[7K Insane\]](https://osu.ppy.sh/beatmaps/799473)
+  - [Between August and December - Sayonara Cruel World (Reworked) (AnatOWJIya) \[Kivi's 7K Cruel World\]](https://osu.ppy.sh/beatmaps/1038325)
+  - [RADWIMPS - Sakusen Kaigi (Level 51) \[it's criminal!\]](https://osu.ppy.sh/beatmaps/1533313)
 - Tiebreaker
-  - **[KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](http://osu.ppy.sh/beatmaps/1355805)**
+  - **[KIVA feat. Qma - Flame Dark (Protastic101) \[Minseo's 7K Solipsism\]](https://osu.ppy.sh/beatmaps/1355805)**
 
 ------------------------------------------------------------------------
 
@@ -205,14 +206,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2018-03-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 4 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40933215) |
 | **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
 
 ### Finals
 
 | Saturday, 2018-03-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **7** | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40743246) |
 | Philippines ![][flag_PH] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40745201) |
 | **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/40752937) |
@@ -221,7 +222,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ### Semifinals
 
 | Saturday, 2018-03-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/40518173) |
 | **United States** ![][flag_US] | **6** | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40519477) |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/40527504) |
@@ -231,13 +232,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/40544245) |
 
 | Sunday, 2018-03-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 3 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
 | Saturday, 2018-02-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40337357) |
 | **Australia** ![][flag_AU] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40338527) |
 | Indonesia ![][flag_ID] | 4 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/40339940) |
@@ -246,14 +247,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | United States ![][flag_US] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40366912) |
 
 | Sunday, 2018-02-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_AR] Argentina | -win by default- |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/40386907) |
 
 ### Round of 16
 
 | Sunday, 2018-02-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/40172677) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
 | Indonesia ![][flag_ID] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/40179448) |
@@ -266,7 +267,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2018-02-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Thailand ![][flag_TH] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/39954578) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/39954590) |
 | Germany ![][flag_DE] | 1 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/39956341) |
@@ -280,7 +281,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/39979395) |
 
 | Sunday, 2018-02-11 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/39979434) |
 | Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/39988692) |
 | Macau ![][flag_MO] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/39988688) |
@@ -404,7 +405,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
-2. Each mappool consists of a fixed amount of maps each stage (see bellow) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 10 maps, Round of 16 and Quarterfinals will consist of 12 maps, SemiFinals will consist of 14 maps and the Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).

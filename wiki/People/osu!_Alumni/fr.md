@@ -8,6 +8,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 
 | Nom | Ancienne position |
 | :-- | :-- |
+| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
 | ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
 | ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | GMT |
@@ -17,9 +18,9 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ![][flag_RU] [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
-| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836)	| BAT |
+| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | GMT |
-| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902)	| BAT |
+| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ![][flag_FI] [Asphyxia](https://osu.ppy.sh/users/1715720) | QAT |
 | ![][flag_CN] [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | GMT |
@@ -62,6 +63,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
+| ![][flag_KR] [Endroll](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | GMT |
 | ![][flag_FI] [ethox](https://osu.ppy.sh/users/441380) | Chat Moderator |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -77,6 +79,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
 | ![][flag___] [General Pepper](https://osu.ppy.sh/users/3669) | BAT |
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
+| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | GMT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
@@ -87,7 +90,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
-| ![][flag_CH] [Irreversible](https://new.ppy.sh/users/1287964) | QAT |
+| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
@@ -114,7 +117,6 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
 | ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Administration |
 | ![][flag_SE] [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
 | ![][flag_US] [Love](https://osu.ppy.sh/users/467487) | BAT |
@@ -127,7 +129,8 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
 | ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
-| ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |  
+| ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
+| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |  
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
@@ -155,7 +158,6 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
-| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | GMT |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
@@ -193,6 +195,7 @@ Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur disti
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |

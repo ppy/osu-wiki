@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! World Cup 2015 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-registrations-open
 date: 2015-10-01 09:10:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/130259524788/osu-world-cup-2015-registrations-open
 ---
-We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](http://osu.ppy.sh/wiki/OWC_2015)  before registering for this tournament.
 
-![](http://puu.sh/kux2m/60c6d1a88c.jpg)
+We would like to welcome all of you to this year's official osu! World Cup. This year, we implemented some groundbreaking changes, so check them out! Please [read our wiki article carefully](https://osu.ppy.sh/wiki/OWC_2015) before registering for this tournament.
+
+![](/wiki/shared/news/banners/owc_2015.jpg)
 
 ## Tournament Schedule
 
@@ -23,18 +23,16 @@ We would like to welcome all of you to this year's official osu! World Cup. This
 ## What has been changed?
 
 + Players are now able to sign-up individually. Teams will be compiled by captains **after** the registration phase is over. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/wiki/OWC_2015#Tournament_Registration).
-+ You can sign up from the [registration page](https://jizz.ppy.sh/tournaments/2).
++ You can sign up from the [registration page](https://osu.ppy.sh/tournaments/2).
 + We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11).
 + The limitations of exchanging players have been removed. You can exchange players freely now.
 + We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
 + We implemented a money prize pool.
 + We plan to use a different scoring system within the tournament matches, relying less on pure combo count and more on accuracy. We will provide you detailed information as soon as it is available!
 
-
 ## Prizes
 
 We are aiming to have a minimum $5,000 cash prize pool for this world cup. We will be announcing a way you can help raise funds for the prize pool shortly, so stay tuned!
-
 
 + 1st: 50% of the raised prize pool, profile badge, "osu! Champion" user title
 + 2nd: 38% of the raised prize pool, profile badge
@@ -42,11 +40,11 @@ We are aiming to have a minimum $5,000 cash prize pool for this world cup. We wi
 
 ## How do I register?
 
-+ **[Click here to sign-up!](http://jizz.ppy.sh/tournaments/2)**
++ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/2)**
 + Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
 + Submit your registration before **18th October 2015 at 23:59:59  UTC**.
 
-Note that you can only participate if you are of a **osu! global ranking of #5000 or higher** and **did not violate the [osu! community rules](http://osu.ppy.sh/wiki/Rules) in the past 12 months**.
+Note that you can only participate if you are of a **osu! global ranking of #5000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 
 If your registration was successful, you will be notified via a forum message. This may take a while, so please be patient.
 
@@ -54,7 +52,7 @@ _Remember that any registrations past the deadline will not be considered under 
 
 ## Links
 
-+ [Wiki article](http://osu.ppy.sh/wiki/OWC_2015)
-+ [Discussion thread](https://osu.ppy.sh/forum/t/371786)
++ [Wiki article](https://osu.ppy.sh/wiki/OWC_2015)
++ [Discussion thread](https://osu.ppy.sh/community/forums/topics/371786)
 
 —Loctav

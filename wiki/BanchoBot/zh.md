@@ -1,12 +1,13 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![BanchoBot 玩家信息](img/BanchoBot.jpg "BanchoBot 玩家信息")
 BanchoBot 是由 **Echo49** 编写的一个可爱的机器人。它能在聊天室中根据用户下达的指令来给予反馈，从而协助玩家例如显示特定信息以及发布与游戏相关的内容。
- 
-BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#3](https://osu.ppy.sh/u/3)_ （就比 ID 是 [#2](https://osu.ppy.sh/u/2) 的 peppy 大一号）。*同时，它也有一个[推特账号](https://twitter.com/banchoboat)。*
+ 
+BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#3](https://osu.ppy.sh/users/3)_ （就比 ID 是 [#2](https://osu.ppy.sh/users/2) 的 peppy 大一号）。*同时，它也有一个[推特账号](https://twitter.com/banchoboat)。*
 
 
 ## BanchoBot 指令
@@ -20,9 +21,9 @@ BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 _[#
 | 指令名   | 语法            | 介绍 | 示例指令 | 示例输出 |
 | --------- | ---------------------- | ----------- | ------------- | ---------------- |
 | `HELP`    | 无                   | 返回可用指令的列表                                                    | `!help`                               | （本列表） |
-| `ROLL`    | `[整数]`             | 返回不大于给定整数的随机自然数。如果仅仅输入`!roll`，将会使用默认最大值 100。                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
-| `STATS`   | `<玩家名>`          | 显示目标玩家在目标前游玩模式中的游戏数据统计                   | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/u/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
+| `ROLL`    | `[整数]`             | 返回不大于给定整数的随机自然数。如果仅仅输入`!roll`，将会使用默认最大值 100。                       | `!roll 1000`                          | "Nathanael rolls 789 point(s)" |
+| `STATS`   | `<玩家名>`          | 显示目标玩家在目标前游玩模式中的游戏数据统计                   | `!stats peppy`                        | "Stats for [peppy](https://osu.ppy.sh/users/2): <br> Score:    412,018,739 (#94718) <br> Plays:    7073 (lv65) <br> Accuracy: 87.31%" |
 | `WHERE`   | `<玩家名>`          | 显示目标用户的当前位置                                                  | `!where Kyubey`                       | "Kyubey is in Russia" |
 | `FAQ`     | `[语言:]<条目>/list`  | 显示目标条目的相消息。当输入条目为 `list` 时将返回所有可用条目列表。  | `!faq ping`                           | "Pong!" |
 | `REPORT`  | `<玩家名> <举报原因>` | 向聊天管理员举报某玩家的不当行为。玩家名中的空格用下划线 `_` 代替。     | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | 无                  | 随机返回某玩家要求他人协助修改的谱面。                     | `!request`                           | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" |
+| `REQUEST` | 无                  | 随机返回某玩家要求他人协助修改的谱面。                     | `!request`                           | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252) by MrSergio" |

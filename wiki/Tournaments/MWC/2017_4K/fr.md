@@ -2,8 +2,7 @@
 outdated: true
 ---
 
-osu!mania 4K World Cup 2017
-=============================
+# osu!mania 4K World Cup 2017
 
 ![osu!mania 4K World Cup 2017](logo.jpg)
 
@@ -13,7 +12,7 @@ La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!man
 
 | Évènement | Date |
 | ---: | :--- |
-| Inscription des équipes	 | 10 au 23 juillet 2017 |
+| Inscription des équipes | 10 au 23 juillet 2017 |
 | Tirages au sort | 7 août 2017 (14:00 UTC+0) |
 | Phases de poules | 12 au 13 août 2017 |
 | Huitièmes de finale | 19 au 20 août 2017 |
@@ -47,7 +46,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
 - [Diffusion en direct](https://www.twitch.tv/osulive)
-- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/product/226)
+- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
 - **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ------------------------------------------------------------------------
@@ -138,84 +137,84 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 **[Téléchargez le pack de maps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
 - Freemod
-  - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](http://osu.ppy.sh/beatmaps/718401&m=3)
+  - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmaps/718401&m=3)
   - [Shawn Wasabi - Burnt Rice (855wa) \[Hard\]](https://osu.ppy.sh/beatmaps/1063205&m=3)
-  - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](http://osu.ppy.sh/beatmaps/741552&m=3)
-  - [sakuzyo - Altale (Kuo Kyoka) \[Hyper Lv.22\]](http://osu.ppy.sh/beatmaps/767309&m=3)
-  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](http://osu.ppy.sh/beatmaps/1050663&m=3)
-  - [Warak - REANIMATE (Mat) \[Complex LNs\]](http://osu.ppy.sh/beatmaps/1315761&m=3)
-  - [Takemura Kiriko - Ninja Re Bang Bang (ecafree2) \[4K HD\]](http://osu.ppy.sh/beatmaps/816807&m=3)
-  - [REDALiCE feat. anporin - Beautiful Dream (Dellvangel) \[CS' Challenge\]](http://osu.ppy.sh/beatmaps/908398&m=3)
-  - [Niira Etsuko - Imaginary Waltz (-Troke-) \[Raccoon's MX\]](http://osu.ppy.sh/beatmaps/480148&m=3)
-  - [Tim & Eric - Sports! (ilikexd) \[Hard\]](http://osu.ppy.sh/beatmaps/685357&m=3)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](http://osu.ppy.sh/beatmaps/994291&m=3)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](http://osu.ppy.sh/beatmaps/1222765&m=3)
+  - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](https://osu.ppy.sh/beatmaps/741552&m=3)
+  - [sakuzyo - Altale (Kuo Kyoka) \[Hyper Lv.22\]](https://osu.ppy.sh/beatmaps/767309&m=3)
+  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmaps/1050663&m=3)
+  - [Warak - REANIMATE (Mat) \[Complex LNs\]](https://osu.ppy.sh/beatmaps/1315761&m=3)
+  - [Takemura Kiriko - Ninja Re Bang Bang (ecafree2) \[4K HD\]](https://osu.ppy.sh/beatmaps/816807&m=3)
+  - [REDALiCE feat. anporin - Beautiful Dream (Dellvangel) \[CS' Challenge\]](https://osu.ppy.sh/beatmaps/908398&m=3)
+  - [Niira Etsuko - Imaginary Waltz (-Troke-) \[Raccoon's MX\]](https://osu.ppy.sh/beatmaps/480148&m=3)
+  - [Tim & Eric - Sports! (ilikexd) \[Hard\]](https://osu.ppy.sh/beatmaps/685357&m=3)
+  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291&m=3)
+  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765&m=3)
 - Tiebreaker
-  - [sakuraburst - sha (SitekX) \[dow\]](http://osu.ppy.sh/beatmaps/1258514&m=3)
+  - [sakuraburst - sha (SitekX) \[dow\]](https://osu.ppy.sh/beatmaps/1258514&m=3)
 
 ### Huitièmes de finale
 
 **[Téléchargez le pack de maps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
-  - [hyi - you can recover (Valedict) \[restoration\]](http://osu.ppy.sh/beatmaps/1199287&m=3)
-  - [GIRAFFES? GIRAFFES! - I Am S/H(im)e[r] (XeoStyle) \[I Am Us\]](http://osu.ppy.sh/beatmaps/1259834&m=3)
-  - [KOAN Sound + asa - Fuego (sakuraburst remix) (Couil) \[HD\]](http://osu.ppy.sh/beatmaps/1313120&m=3)
-  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[4K Irrsinnig\]](http://osu.ppy.sh/beatmaps/1178997&m=3)
+  - [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmaps/1199287&m=3)
+  - [GIRAFFES? GIRAFFES! - I Am S/H(im)e[r] (XeoStyle) \[I Am Us\]](https://osu.ppy.sh/beatmaps/1259834&m=3)
+  - [KOAN Sound + asa - Fuego (sakuraburst remix) (Couil) \[HD\]](https://osu.ppy.sh/beatmaps/1313120&m=3)
+  - [Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange (Feerum) \[4K Irrsinnig\]](https://osu.ppy.sh/beatmaps/1178997&m=3)
   - [Team Grimoire - Sheriruth (DoNotMess) \[Future\]](https://osu.ppy.sh/beatmaps/1295745&m=3)
-  - [Helblinde - Heaven's Fall (Kaito-kun) \[Extra\]](http://osu.ppy.sh/beatmaps/1217314&m=3)
-  - [q/stol - Re/Im (Lude) \[Re/Extreme\]](http://osu.ppy.sh/beatmaps/1245089&m=3)
-  - [USAO - Showdown (Side) \[puxtu's MX\]](http://osu.ppy.sh/beatmaps/996693&m=3)
-  - [Sonitus Vir ft. Emily Smith - Lune Noir (Bites) \[4K MX\]](http://osu.ppy.sh/beatmaps/225781&m=3)
-  - [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](http://osu.ppy.sh/beatmaps/1097526&m=3)
-  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](http://osu.ppy.sh/beatmaps/1372839&m=3)
-  - [The Flashbulb - Three Hundred CC (edit) (Blocko) \[Another\]](http://osu.ppy.sh/beatmaps/1368417&m=3)
-  - [Alesana - The Artist (Tornspirit) \[Collapse\]](http://osu.ppy.sh/beatmaps/1280807&m=3)
+  - [Helblinde - Heaven's Fall (Kaito-kun) \[Extra\]](https://osu.ppy.sh/beatmaps/1217314&m=3)
+  - [q/stol - Re/Im (Lude) \[Re/Extreme\]](https://osu.ppy.sh/beatmaps/1245089&m=3)
+  - [USAO - Showdown (Side) \[puxtu's MX\]](https://osu.ppy.sh/beatmaps/996693&m=3)
+  - [Sonitus Vir ft. Emily Smith - Lune Noir (Bites) \[4K MX\]](https://osu.ppy.sh/beatmaps/225781&m=3)
+  - [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](https://osu.ppy.sh/beatmaps/1097526&m=3)
+  - [Edwin Starr vs. Justice - War vs. Waters of Nazareth (Raspberriel) \[Massacre Edit\]](https://osu.ppy.sh/beatmaps/1372839&m=3)
+  - [The Flashbulb - Three Hundred CC (edit) (Blocko) \[Another\]](https://osu.ppy.sh/beatmaps/1368417&m=3)
+  - [Alesana - The Artist (Tornspirit) \[Collapse\]](https://osu.ppy.sh/beatmaps/1280807&m=3)
 - Tiebreaker
-  - [BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](http://osu.ppy.sh/beatmaps/1290602&m=3)
+  - [BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](https://osu.ppy.sh/beatmaps/1290602&m=3)
 
 ### Quarts de finale
 
 **[Téléchargez le pack de maps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
 
 - FreeMod
-  - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](http://osu.ppy.sh/beatmaps/1375744&m=3)
-  - [Caravan Palace - Clash (Hydria) \[Hard\]](http://osu.ppy.sh/beatmaps/1369706&m=3)
-  - [goreshit - looming shadow of a tree long gone (Shoegazer) \[extra\]](http://osu.ppy.sh/beatmaps/792874&m=3)
-  - [yst - The Lost Dedicated (DDMythical) \[Another\]](http://osu.ppy.sh/beatmaps/1302866&m=3)
-  - [8284 - Connaextion (LeiN-) \[TIMED_OUT\]](http://osu.ppy.sh/beatmaps/1029033&m=3)
-  - [Maika - Goldrop (Skorer) \[Yudaina LN\]](http://osu.ppy.sh/beatmaps/1243241&m=3)
-  - [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](http://osu.ppy.sh/beatmaps/1228388&m=3)
-  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh) \[Black Another\]](http://osu.ppy.sh/beatmaps/1104774&m=3)
-  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun\]](http://osu.ppy.sh/beatmaps/1341515&m=3)
-  - [Dustvoxx - Trigger (Zekk Remix) (Wonki) \[Trigger\]](http://osu.ppy.sh/beatmaps/1174927&m=3)
-  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Dreamless\]](http://osu.ppy.sh/beatmaps/1103630&m=3)
-  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](http://osu.ppy.sh/beatmaps/1279175&m=3)
-  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](http://osu.ppy.sh/beatmaps/1252742&m=3)
+  - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmaps/1375744&m=3)
+  - [Caravan Palace - Clash (Hydria) \[Hard\]](https://osu.ppy.sh/beatmaps/1369706&m=3)
+  - [goreshit - looming shadow of a tree long gone (Shoegazer) \[extra\]](https://osu.ppy.sh/beatmaps/792874&m=3)
+  - [yst - The Lost Dedicated (DDMythical) \[Another\]](https://osu.ppy.sh/beatmaps/1302866&m=3)
+  - [8284 - Connaextion (LeiN-) \[TIMED_OUT\]](https://osu.ppy.sh/beatmaps/1029033&m=3)
+  - [Maika - Goldrop (Skorer) \[Yudaina LN\]](https://osu.ppy.sh/beatmaps/1243241&m=3)
+  - [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](https://osu.ppy.sh/beatmaps/1228388&m=3)
+  - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh) \[Black Another\]](https://osu.ppy.sh/beatmaps/1104774&m=3)
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun\]](https://osu.ppy.sh/beatmaps/1341515&m=3)
+  - [Dustvoxx - Trigger (Zekk Remix) (Wonki) \[Trigger\]](https://osu.ppy.sh/beatmaps/1174927&m=3)
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Dreamless\]](https://osu.ppy.sh/beatmaps/1103630&m=3)
+  - [YUC'e - Sengoku HOP (c/f Athenarium) (Hydria) \[Insane\]](https://osu.ppy.sh/beatmaps/1279175&m=3)
+  - [NOISIA - Groundhog (Beat Juggle) (Raspberriel) \[Sorry, Am I Putting You Off?\]](https://osu.ppy.sh/beatmaps/1252742&m=3)
 - Tiebreaker
-  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](http://osu.ppy.sh/beatmaps/1038662&m=3) 
+  - [DragonForce - The Warrior Inside (\_underjoy) \[4K Collab Gladiator\]](https://osu.ppy.sh/beatmaps/1038662&m=3)
 
 ### Demi-finales
 
 **[Téléchargez le pack de maps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
 
 - FreeMod
-  - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](http://osu.ppy.sh/beatmaps/1128678&m=3)
-  - [Kaneko Chiharu - Lachryma\<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](http://osu.ppy.sh/beatmaps/901050&m=3)
-  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf) \[flnowers\]](http://osu.ppy.sh/beatmaps/993976&m=3)
-  - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](http://osu.ppy.sh/beatmaps/1364765&m=3)
-  - [The Flashbulb - Passage D (Jinjin) \[Delve\]](http://osu.ppy.sh/beatmaps/1016508&m=3)
-  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus) \[Arcwin Lost Tewicated\]](http://osu.ppy.sh/beatmaps/855471&m=3)
-  - [USAO - Boss Rush (PiraTom) \[LN Rush\]](http://osu.ppy.sh/beatmaps/1259719&m=3)
-  - [Fele - Peter on Crack (Cut) (Jole) \[this is brain surgery\]](http://osu.ppy.sh/beatmaps/1394763&m=3)
-  - [Kidkanevil - Lantern 1 (Valedict) \[Fog\]](http://osu.ppy.sh/beatmaps/1331160&m=3)
-  - [Kontinuum - Lost (feat. Savoi) \[Sunroof Remix\] (Otakujanai) \[Emotional Drift\]](http://osu.ppy.sh/beatmaps/1321781&m=3)
-  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P) \[Dream\]](http://osu.ppy.sh/beatmaps/1311355&m=3)
-  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](http://osu.ppy.sh/beatmaps/897408&m=3)
-  - [C-Show - ERROR CODE (SpectorDG) \[SPE vs. ZEN's GRAVITY\]](http://osu.ppy.sh/beatmaps/1155393&m=3)
-  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal) \[Team LNBY\]](http://osu.ppy.sh/beatmaps/1112725&m=3)
+  - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmaps/1128678&m=3)
+  - [Kaneko Chiharu - Lachryma\<Re:Queen'M\> (Fresh Chicken) \[GRAVITY\]](https://osu.ppy.sh/beatmaps/901050&m=3)
+  - [aaaa + yadorigi - Sakase natsuzora, koi no hana. (scissorsf) \[flnowers\]](https://osu.ppy.sh/beatmaps/993976&m=3)
+  - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmaps/1364765&m=3)
+  - [The Flashbulb - Passage D (Jinjin) \[Delve\]](https://osu.ppy.sh/beatmaps/1016508&m=3)
+  - [IOSYS - Endless Tewi-ma Park (arcwinolivirus) \[Arcwin Lost Tewicated\]](https://osu.ppy.sh/beatmaps/855471&m=3)
+  - [USAO - Boss Rush (PiraTom) \[LN Rush\]](https://osu.ppy.sh/beatmaps/1259719&m=3)
+  - [Fele - Peter on Crack (Cut) (Jole) \[this is brain surgery\]](https://osu.ppy.sh/beatmaps/1394763&m=3)
+  - [Kidkanevil - Lantern 1 (Valedict) \[Fog\]](https://osu.ppy.sh/beatmaps/1331160&m=3)
+  - [Kontinuum - Lost (feat. Savoi) \[Sunroof Remix\] (Otakujanai) \[Emotional Drift\]](https://osu.ppy.sh/beatmaps/1321781&m=3)
+  - [Fractal Dreamers - Fortuna Redux (Kizunuko-P) \[Dream\]](https://osu.ppy.sh/beatmaps/1311355&m=3)
+  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmaps/897408&m=3)
+  - [C-Show - ERROR CODE (SpectorDG) \[SPE vs. ZEN's GRAVITY\]](https://osu.ppy.sh/beatmaps/1155393&m=3)
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (juankristal) \[Team LNBY\]](https://osu.ppy.sh/beatmaps/1112725&m=3)
 - Tiebreaker
-  - [Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](http://osu.ppy.sh/beatmaps/1295025&m=3)
+  - [Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](https://osu.ppy.sh/beatmaps/1295025&m=3)
 
 ------------------------------------------------------------------------
 

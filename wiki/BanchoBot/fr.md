@@ -1,12 +1,13 @@
 ---
 outdated: true
 ---
+
 # BanchoBot
 
 ![La carte de joueur de BanchoBot](img/BanchoBot.jpg "La carte de joueur de BanchoBot")
 
 BanchoBot est un bot (lire: un ensemble de commandes avec des réponses automatiques) programmé afin d'assister les joueurs dans le chat en affichant certaines informations et annonçant des messages liés au jeu.
-BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) et a un profil nommé _[BanchoBot](https://osu.ppy.sh/u/3)_.
+BanchoBot est votre hôte pour le [serveur osu!chat](/wiki/Internet_Relay_Chat) et a un profil nommé _[BanchoBot](https://osu.ppy.sh/users/3)_.
 
 ## Ouverture de BanchoBot
 
@@ -20,8 +21,8 @@ Vous pouvez utiliser la commande `!<commande>` ou `/bb <commande>` dans n'import
 
 | `<commande>`                          | Effet                                                                                                                               | Exemple                             | Exemple de réponse de BanchoBot                                         |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------|
-| `WHERE <utilisateur>`                 | Affiche la localisation du joueur donné.                                                                                            | `!where John`                       | John is in USA                                                          | 
-| `STATS <utilisateur>`                 | Affiche le statut du joueur donné (basé sur l'onglet actuel du joueur).                                                             | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. | 
+| `WHERE <utilisateur>`                 | Affiche la localisation du joueur donné.                                                                                            | `!where John`                       | John is in USA                                                          |
+| `STATS <utilisateur>`                 | Affiche le statut du joueur donné (basé sur l'onglet actuel du joueur).                                                             | `/bb stats John`                    | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | `FAQ <code-de-langue><objet> <liste>` | Questions fréquemment posées, accessibles par mots-clé. !faq list en donne une liste exhaustive.                                    | `!faq wiki` / `!faq ru:wiki`        | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики!   |
 | `REPORT <raison>`                     | Signale qu'un utilisateur a enfreint les règles. Remplacez les espaces du nom d'utilisateur par des underscores (`_`).              | `!report Thomas offending comments` | Chat moderators has been alerted. Thanks for your help.                 |
 | `REQUEST <liste>`                     | Affiche une requête de mod au hasard. [liste] Montre 5 requêtes de mod au hasard prise dans les maps données en lien dans #modreqs. | `/bb request`                       | Seether - Fake It by [Dellirium]                                        |

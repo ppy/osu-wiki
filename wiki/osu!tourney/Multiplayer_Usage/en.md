@@ -1,7 +1,5 @@
 # Multiplayer Usage
 
-_Main page: [osu!tourney](/wiki/osu!tourney)_
-
 ## Match creation
 
 The multiplayer room must be named based on the template listed in the control panel of the osu!tourney client.
@@ -18,7 +16,7 @@ The team names (`Team Name 1` and `Team Name 2`) can be replaced with any team n
 
 ### Tournament Management Commands
 
-_See also: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")_
+*Main page: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")*
 
 Make sure to assign the correct slots to the players joining the room using the `!mp move` and `!mp team` commands.
 

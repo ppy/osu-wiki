@@ -1,17 +1,18 @@
 ---
 legal: true
 ---
+
 # osu! Terms of Service
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 
-By visiting and/or using the services offered by this site ([https://osu.ppy.sh](https://osu.ppy.sh)), the osu! game client (as found on [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
+By visiting and/or using the services offered by this site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), the osu! game client (as found on [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
 
 As a condition of your use of this web site, you warrant that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 
-In addition to this policy, please also make sure to visit and understand our [Privacy Policy](/legal/privacy)
+In addition to this policy, please also make sure to visit and understand our [Privacy Policy](/legal/privacy).
 
 If you violate any of these Terms of Use, your permission to use the web site automatically terminates.
 
@@ -48,7 +49,7 @@ osu! MAKES NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, OR THAT THE
 
 ## LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL osu!, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR WEBSITE, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR WEBSITE, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR WEBSITE BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE osu! WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER ORNOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT SHALL osu!, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR WEBSITE, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR WEBSITE, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR WEBSITE BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE osu! WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 WHILE THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION, WHERE CONDITIONS, WARRANTIES OR OTHER RIGHTS ARE IMPLIED IN THIS AGREEMENT OR OTHERWISE CONFERRED BY LAW, AND IT IS NOT LAWFUL OR POSSIBLE TO EXCLUDE THEM, THEN THOSE CONDITIONS, WARRANTIES OR OTHER RIGHTS WILL (BUT ONLY TO THE EXTENT REQUIRED BY LAW) APPLY TO THIS AGREEMENT.
 AT THE OPTION OF osu!, OUR LIABILITY FOR BREACH OF IMPLIED CONDITIONS OR WARRANTIES IS LIMITED, TO THE EXTENT PERMITTED BY LAW TO, IF THE BREACH RELATES TO GOODS, (I) THE REPLACEMENT OF THE GOODS OR THE SUPPLY OF EQUIVALENT GOODS, (II) THE REPAIR OF THE GOODS, (III) THE PAYMENT OF THE COST OF REPLACING THE GOODS OR OF ACQUIRING EQUIVALENT GOODS, OR (IV) THE PAYMENT OF HAVING THE GOODS REPAIRED AND, IF THE BREACH RELATES TO SERVICES, (I) THE SUPPLY OF THE SERVICES AGAIN; OR (II) THE PAYMENT OF THE COST OF HAVING THE SERVICES SUPPLIED AGAIN.
 
@@ -85,7 +86,7 @@ osu! finds your privacy most important, and we value your use of our services.
 osu!'s services are free of any charge, no prior registration is needed for the use of these services.
 osu! will explicitly ask for information about you when such information is needed for use of the services provided by osu!.
 Any submission of any personal information is done only with your voluntary act (website), or automatically (game client software) where necessary to provide diagnostics and feedback.
-osu! keeps all private and personal information private, and does not, or will not share this information with any third parties except under the following circumstances :
+osu! keeps all private and personal information private, and does not, or will not share this information with any third parties except under the following circumstances:
 
 When such action is necessary to conform to legal requirements or comply with legal process.
 

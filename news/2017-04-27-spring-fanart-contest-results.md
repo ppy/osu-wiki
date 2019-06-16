@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Spring Fanart Contest Results"
-permalink: http://osunews.tumblr.com/post/160055282693/spring-fanart-contest-results
 date: 2017-04-27 18:01:55 +0000
 tumblr_url: http://osunews.tumblr.com/post/160055282693/spring-fanart-contest-results
 ---
-Talent was apparently in season this year, with the results being the closest we've ever seen for a fanart contest - ever! Read on to catch a glimpse of the winners, or [check out the winners yourself over at the contest listing](https://new.ppy.sh/community/contests/45).
-<!-- more -->
 
-<a href="https://new.ppy.sh/community/contests/45"><img src="https://assets.ppy.sh/contests/45/header.jpg"></a>
+Talent was apparently in season this year, with the results being the closest we've ever seen for a fanart contest - ever! Read on to catch a glimpse of the winners, or [check out the winners yourself over at the contest listing](https://osu.ppy.sh/community/contests/45).
+
+<a href="https://osu.ppy.sh/community/contests/45"><img src="https://assets.ppy.sh/contests/45/header.jpg"></a>
 
 Over thirty talented artists rose to the challenge and put forward their spring-themed works for the community to decide upon. The choices were agonizing this time around - so many incredible pieces, so few votes.
 
@@ -16,7 +15,7 @@ Without further ado, here's this contest's winners *(and remember, you can click
 
 -------
 
-**With a whopping 815 votes, [Evaine](https://new.ppy.sh/u/7295733) takes away first place!**
+**With a whopping 815 votes, [Evaine](https://osu.ppy.sh/users/7295733) takes away first place!**
 
 [![](https://assets.ppy.sh/contests/45/entries/37.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20Evaine.jpg)
 
@@ -26,7 +25,7 @@ A well deserved victory. Congratulations on eight months supporter tag.
 
 -------
 
-**Coming in at second with 752 votes is [suiseki](https://new.ppy.sh/u/4792023)'s captivating piece.**
+**Coming in at second with 752 votes is [suiseki](https://osu.ppy.sh/users/4792023)'s captivating piece.**
 
 [![](https://assets.ppy.sh/contests/45/entries/33.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20suiseki.png)
 
@@ -34,7 +33,7 @@ Little more than a beautifully captured pippi before a blooming sakura tree, sui
 
 -------
 
-**And in third place with 597 votes, [Karkovb152](https://new.ppy.sh/u/5828215)'s smiling yukata-pippi stole the hearts of the community..**
+**And in third place with 597 votes, [Karkovb152](https://osu.ppy.sh/users/5828215)'s smiling yukata-pippi stole the hearts of the community..**
 
 [![](https://assets.ppy.sh/contests/45/entries/30.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20Karkovb152.jpg)
 
@@ -42,7 +41,7 @@ Clad in traditional Japanese garb, pippi looks very much at home in Karkovb152's
 
 -------
 
-**In fourth place by a hair with 567 votes, [Sylux6](https://new.ppy.sh/u/2607507)'s yukata-pippi came devilishly close to snatching away third place.**
+**In fourth place by a hair with 567 votes, [Sylux6](https://osu.ppy.sh/users/2607507)'s yukata-pippi came devilishly close to snatching away third place.**
 
 [![](https://assets.ppy.sh/contests/45/entries/15.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20Sylux6.jpg)
 
@@ -50,7 +49,7 @@ Sylux6 decided that certain bits of pippi would barely fit in a yukata - though 
 
 -------
 
-**Fifth place went to [CelestKirin](https://new.ppy.sh/u/1631442)'s enthralling vista of pippi enjoying a walk in the river, scoring 458 votes.**
+**Fifth place went to [CelestKirin](https://osu.ppy.sh/users/1631442)'s enthralling vista of pippi enjoying a walk in the river, scoring 458 votes.**
 
 [![](https://assets.ppy.sh/contests/45/entries/10.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20CelestKirin.jpg)
 
@@ -58,7 +57,7 @@ Making excellent use of the sunlit blues and greens of spring, CelestKirin decid
 
 -------
 
-**The much-loved [Anny](https://new.ppy.sh/u/249094)'s inexplicably cute renditions of both pippi and Maria stole sixth place tidily with 376 votes.**
+**The much-loved [Anny](https://osu.ppy.sh/users/249094)'s inexplicably cute renditions of both pippi and Maria stole sixth place tidily with 376 votes.**
 
 [![](https://assets.ppy.sh/contests/45/entries/18.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20Anny.jpg)
 
@@ -66,7 +65,7 @@ Light was truly the centerpiece in Anny's submission, second only to the ridicul
 
 -------
 
-**[pyun](https://new.ppy.sh/u/981534)'s back again with pippi and their own osu!taiko mascot enjoying the scenery and surroundings of a sakura forest in bloom, rounding out seventh place with 329 votes.**
+**[pyun](https://osu.ppy.sh/users/981534)'s back again with pippi and their own osu!taiko mascot enjoying the scenery and surroundings of a sakura forest in bloom, rounding out seventh place with 329 votes.**
 
 [![](https://assets.ppy.sh/contests/45/entries/24.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20pyun.png)
 
@@ -74,7 +73,7 @@ Crisp, clean colouring set to a beautiful pastel sakura-tinged forest is the nam
 
 -------
 
-**Familiar names abound as [SkyDiverFox](https://new.ppy.sh/u/6926124) surges into eighth place from 304 votes, with a garland-wearing pippi set upon a dreamlike background.**
+**Familiar names abound as [SkyDiverFox](https://osu.ppy.sh/users/6926124) surges into eighth place from 304 votes, with a garland-wearing pippi set upon a dreamlike background.**
 
 [![](https://assets.ppy.sh/contests/45/entries/21.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20SkyDiverFox.png)
 
@@ -82,7 +81,7 @@ Set perhaps in the scene of a spring dream, SkyDiverFox's entry walks us through
 
 -------
 
-**[tittu](https://new.ppy.sh/u/10017982)'s striking pippi and friend below a fall of petals came in ninth place with 285 votes.**
+**[tittu](https://osu.ppy.sh/users/10017982)'s striking pippi and friend below a fall of petals came in ninth place with 285 votes.**
 
 [![](https://assets.ppy.sh/contests/45/entries/6.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20tittu.jpg)
 
@@ -90,7 +89,7 @@ Bright and mysterious, tittu's piece resonated strongly enough with the communit
 
 -------
 
-**And finally, [\[ Sinon \]](https://new.ppy.sh/u/6498914)'s striking portrayal of pippi and Maria in what appears to be chinese dress cements tenth place once and for all, with 250 votes.**
+**And finally, [\[ Sinon \]](https://osu.ppy.sh/users/6498914)'s striking portrayal of pippi and Maria in what appears to be chinese dress cements tenth place once and for all, with 250 votes.**
 
 [![](https://assets.ppy.sh/contests/45/entries/2.jpg)](https://assets.ppy.sh/contests/45/winners/osu!%20Spring%20Fanart%202017%20-%20%5B%20Sinon%20%5D.png)
 

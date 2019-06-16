@@ -1,10 +1,8 @@
-Règles
-============
+# Règles
 
 Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun et accueillante pour tout le monde.
 
-Règles de Communauté
----------------
+## Règles de Communauté
 
 1.  **Chaque joueur ne doit avoir qu'*UN* seul compte.** Ce compte c'est vous. Ce n'est personne d'autre - ni votre frère, votre mère, votre sœur, votre ami - c'est VOUS. Ne partagez votre compte avec personne.
 2.  **Soyez bon entre vous.** Le harcèlement ou autre antagonisme n'a pas de place dans la communauté d'osu! Nous sommes ici pour cliquer sur des cercles, taper sur un tambour, attraper des fruits, et frapper jusqu'à dix-huit touches en même temps, pas pour mal se comporter avec les autres.
@@ -12,8 +10,7 @@ Règles de Communauté
 4.  **Nous sommes une communauté tout-âges.** Ça signifie que les contenus 18+/NSFW (not safe for work) comme l'usage de drogues ou des discussions à nature sexuelles n'ont rien à faire ici. Exceptions faites pour les endroits où il est indiqué que c'est autorisé, mais généralement, restez neutres.
 5.  **Où les règles ne règnent pas, faites appel au bon sens.** Le jugement à appliquer est décidé à la discrétion de l'administration.
 
-Règles du Chat En-Jeu
-------------------
+## Règles du Chat En-Jeu
 
 1.  **Soyez respectueux et conscient des autres utilisateurs du canal, et évitez le flood ou le spam.** Une seule personne prenant jusqu'à la moitié de l'écran est assez dérangeante, c'est donc un comportement à éviter tant que possible. Les autres ont aussi le droit de chatter !
 2.  **Laissez les modérateurs gérer les problèmes du chat.** Vous pouvez les prévenir avec la commande `!report`, ils se chargeront du reste.
@@ -25,8 +22,7 @@ Règles du Chat En-Jeu
 8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'osu! est à propos d'osu! et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
 9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
-Règles du Forum
-----------------
+## Règles du Forum
 
 1.  **Ne postez que des discussions/contenus qui ont du sens, qui sont intéressants ou engageants.** Les forums sont tout d'abord faits pour les discussions, donc assurez-vous que vous ne ferez pas perdre de temps aux personnes qui liront vos publications.
 2.  **Faites en sorte que vos publications et réponses soient acceptables pour tous les âges.** Le contenu NSFW n'est pas approprié pour une communauté tout-âges, mais rien ne vous empêche d'en discuter en messages privés.
@@ -36,10 +32,9 @@ Règles du Forum
 6.  **Ne postez pas de publicités, de liens de référence ou autre contenu intrusif et dérangeant.** Ces types de liens sont amusants pour la personne les postant et dérangeant pour les autres, donc ne le faites pas. Les contenus qui se chargent et/ou s'activent tout seuls sont soumis à cette règle.
 7.  **Les liens vers des applications avec des intentions qui ne sont pas claires ne sont pas autorisés.** Pour faire simple, si vous avez des doutes sur la légalité d'une application, elle ne devrait pas être postée.
 
-Règles de Soumission des Beatmaps
----------------------------------
+## Règles de Soumission des Beatmaps
 
-Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Beatmap_Submission_System) en jeu. Les sujets/discussions sont créés via le client osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
+Ces règles s'appliquent strictement aux beatmaps soumises via le [Système de Soumission de Beatmaps](/wiki/Glossary#bss) en jeu. Les sujets/discussions sont créés via le client osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/editor).
 
 Un ensemble plus détaillé de règles pour la construction de beatmap existe, connu sous le nom de [Critères de Classement](/wiki/Ranking_Criteria).
 
@@ -47,8 +42,7 @@ Un ensemble plus détaillé de règles pour la construction de beatmap existe, c
 2.  **Restez sur le thème dans les discussions de Beatmap.** Ces discussions sont à propos de la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui n'est pas en rapport direct avec la beatmap, postez-le dans le forum approprié.
 3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 
-Règles du Off-Topic
----------------
+## Règles du Off-Topic
 
 *Les règles ci-dessous ne s'appliquent qu'au sous-forum [Off-Topic](https://osu.ppy.sh/community/forums/52) sauf mention contraire.*
 
@@ -56,8 +50,7 @@ Règles du Off-Topic
 2. **Une stupidité excessive est mauvaise.** Être péniblement bête passe, et tombe dans le mode opératoire du shitposting. L'authentique stupidité ne l'est pas. Si vous êtes incapable de faire la différence, vous êtes déjà en train de ne pas respecter les règles.
 3. **Les sujets d'anniversaire ne sont autorisés que dans Off-Topic, et nulle part ailleurs.** Tous les sujets d'anniversaire doivent être accompagnés d'au moins trois (3) images de filles d'anime dansants ou ils seront *impitoyablement* jetés sous un bus.
 
-Que se passe-t-il si je ne respecte pas les règles ?
----------------
+## Que se passe-t-il si je ne respecte pas les règles ?
 
 Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvaises choses vont se passer.
 

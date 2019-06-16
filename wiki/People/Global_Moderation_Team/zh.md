@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Global Moderation Team
 
 **Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是 osu!Staff 的一部分，主要负责管理论坛以及各个聊天室的纪律。
@@ -15,59 +16,63 @@ outdated: true
 
 ## 成员
 
-**小提示：所有 GMT 都能够熟练的使用英文进行交流，特别说明的除外。** - [当前在任的 GMT 成员可以在这里看到](http://osu.ppy.sh/groups/4)
+**小提示：所有 GMT 都能够熟练的使用英文进行交流，特别说明的除外。** - [当前在任的 GMT 成员可以在这里看到](https://osu.ppy.sh/groups/4)
 
 | 名字 | 语言 | 专注范围 |
 | :-- | :-- | :-- |
-| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | 意大利语 | 聊天室管理 |
+| ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天室管理 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | 聊天室管理 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 德语 | 聊天室管理 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理, 论坛管理 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | 聊天室管理, 技术支持 |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语 | 比赛, 谱面管理 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | 技术支持 |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
-| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | 韩语, 日语 | 聊天室管理, 论坛管理 |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Player Support |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol hosting, 论坛管理 |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语, 日语 | 聊天室管理 |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | 玩家支持 |
+| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol 主持者, 论坛管理 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 中文 | 聊天室管理, 论坛管理 |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理 |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理, 论坛管理, 谱面管理 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理 |
-| ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | 葡萄牙语 | 聊天室管理 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 土耳其语 | 聊天室管理 |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印尼语 | 聊天室管理, 谱面管理 |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | 聊天室管理, 谱面管理 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 西班牙语 | 比赛 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理 |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理, Metadata Team |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语, 俄语 | 聊天室管理 |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | 葡萄牙语 | 聊天室管理, 谱面管理 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理 |
-| ![][flag_FI] [Lassikko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理 |
-| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | 西班牙语 | 聊天室管理, 论坛管理 |
+| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理 |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面管理 |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | 意大利语 | 聊天室管理 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理 |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理, 技术支持 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 开发, Mappers' Guild 组织者 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | Ranking Criteria, 论坛管理, 聊天室管理 |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 比赛 |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | 聊天室管理, 技术支持 |
+| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理 |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | 西班牙语, 加泰罗尼亚 | 聊天室管理 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天室管理, wiki 管理 |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天室管理 |
-| ![][flag_US] [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天室管理 |
+| ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天室管理 |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 | 聊天室管理 |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 法语, 西班牙语 | 聊天室管理 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 印尼语 | 聊天室管理 |
-| ![][flag_TW] [spboxer3](http://osu.ppy.sh/users/197974) | 中文 | 聊天室管理 |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 中文 | 聊天室管理 |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | 匈牙利语 | 聊天室管理 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语 | 聊天室管理, 论坛管理 |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | 俄语 | 聊天室管理 |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天室管理 |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语, 日语 | 聊天室管理 |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | 法语 | 聊天室管理 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理 |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, 论坛管理 |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, Wiki 助手, 论坛管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理 |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | 中文 | 聊天室管理 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | 德语 | 聊天室管理 |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语 | 聊天室管理 |
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
@@ -81,18 +86,19 @@ outdated: true
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif

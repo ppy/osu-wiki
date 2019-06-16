@@ -1,20 +1,18 @@
 ---
 outdated: true
 ---
-El Equipo
-========
+
+# El Equipo
 
 Las personas que nombradas a continuación son el núcleo del equipo de osu!, y son los principales responsables de ayudar a que el juego sea impresionante para todos.
 
-Creador
--------
+## Creador
 
 | Nombre | Descripción |
 | ---- | ----------- |
 | [![][flag_AU] peppy](https://osu.ppy.sh/users/2) | Lider del Proyecto |
 
-Activos
-------
+## Activos
 
 | Nombre | Descripción |
 | ---- | ----------- |
@@ -32,8 +30,7 @@ Activos
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Administrador de la [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-Inactivos
---------
+## Inactivos
 
 | Nombre | Descripción |
 | ---- | ----------- |
@@ -53,14 +50,13 @@ Inactivos
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/Announcements/osu!academy), Diseñador de medios/personajes |
 
 
-Grupos de Usuarios
-----------------------
+## Grupos de Usuarios
 
 | Nombre | Descripción |
 | ---- | ----------- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Vigilando los foros y el chat en el juego |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Encargados de la calificación de beatmaps |
-| [Developers](https://osu.ppy.sh/g/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |
+| [Developers](https://osu.ppy.sh/groups/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
 | [Support Team Redux](/wiki/People/Support_Team) | Asistencia en foros de ayuda |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Te ayudamos a disfrutar de osu!, empezando por asegurar la calidad de los beatmaps. |

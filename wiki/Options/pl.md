@@ -1,12 +1,12 @@
 ---
 outdated: true
 ---
+
 <img src="Options Base.jpg" title="Opcje (tak, chodzi o ten panel boczny)" alt="Opcje (tak, chodzi o ten panel boczny)" width="300" />
 
-Opcje
-=====
+# Opcje
 
-`Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
+`Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
 
 Naciśnij **Options** albo naciśnij **O** na ekranie głównym, aby dostać się do panelu Opcji i zmienić działanie osu!
 
@@ -20,8 +20,7 @@ Aby dowiedzieć się na jakim buildzie pracuje osu!, przejdź do najniższej cz�
 -   b(YYYY)(MM)(DD).(korekta)(TypBuildu) = Testowy Build.
     -   b20151113.8cuttingedge to Eksperymentalny Build z 13 listopada 2015, ósma korekta.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Ogólne
----------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Ogólne
 
 <img src="Options General.jpg" title="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" alt="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" width="300" />
 
@@ -64,7 +63,7 @@ Naciśnij **Zaloguj się** aby się zalogować albo naciśnij **Stwórz konto** 
 
 #### Osoba zalogowana
 
-`Zalogowany jako {nazwa użytkownika}`
+`Zalogowany jako {nazwa użytkownika}`
 
 Naciśnij to aby przejść do „opcji” związanych z kontem.
 
@@ -116,12 +115,12 @@ Naciśnij to aby przejść do „opcji” związanych z kontem.
 <tr class="odd">
 <td><p>Wybierz język</p></td>
 <td><p>Wybierz język jaki chcesz. osu! pobierze plik .txt z tłumaczeniem i zmieni język gry na pobrany. Domyślnie jest to angielski.<br />
-Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="uri">http://osu.ppy.sh/forum/t/104342/</a> (stary link)</p></td>
+Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/community/forums/topics/104342/" class="uri">https://osu.ppy.sh/community/forums/topics/104342/</a> (stary link)</p></td>
 </tr>
 <tr class="even">
 <td><p>Stosuj oryginalne nazewnictwo</p></td>
 <td><p>Jeśli to możliwe, tytuły piosenek będą wyświetlane w ich ojczystym języku (wraz z zapisem).<br />
-<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="http://osu.ppy.sh/s/44443">Wspomniana beatmapa</a></p></td>
+<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="https://osu.ppy.sh/beatmapsets/44443">Wspomniana beatmapa</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Użyj alternatywnej czcionki dla czatu</p></td>
@@ -167,8 +166,7 @@ Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="
 </tbody>
 </table>
 
-![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafika
---------------------------------------------------------------
+## ![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafika
 
 <img src="optionsscreengraphics1.jpg" title="Sekcja Grafiki" alt="Sekcja Grafiki" width="300" />
 
@@ -196,7 +194,7 @@ Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="
 <hr>
 <p>Bez limitu (podczas gry)</p>
 <hr>
-<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="http://osu.ppy.sh/forum/t/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
+<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="https://osu.ppy.sh/community/forums/topics/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
 </tr>
 <tr class="even">
 <td><p>Pokaż licznik klatek</p></td>
@@ -374,8 +372,7 @@ Dla osób chcących [pomóc: <a href="http://osu.ppy.sh/forum/t/104342/" class="
 </tbody>
 </table>
 
-![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Rozgrywka
-----------------------------------------------------------------
+## ![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Rozgrywka
 
 <img src="Options Gameplay.jpg" title="fig:Sekcja Rozgrywki" alt="Sekcja Rozgrywki" width="300" /> <img src="OP PBP.jpg" title="fig:Rozmieszczenie paska postępu" alt="Rozmieszczenie paska postępu" width="200" /> <img src="Input key overlay.jpg" title="fig:Nakładka klawiszy" alt="Nakładka klawiszy" width="200" />
 
@@ -481,8 +478,7 @@ Domyślnie ustawiona jest na 1.00x. Możesz ustawić od 0.50x do 2.00x.</p></td>
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | do                 | Regulowanie tego paska **ukryje** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i pokaże resztę. (Domyślnie ustawione na 10) |
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
--------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
 
 <img src="optionsaudio1.jpg" title="Sekcja Dźwięku" alt="Sekcja Dźwięku" width="300" />
 
@@ -523,8 +519,7 @@ Note: Your current playing song on your jukebox will be used.
 4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
 5.  Your jukebox. The currently playing song's BPM is shown as ticks.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skórka
------------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skórka
 
 <img src="Optionsskin.jpg" title="Sekcja Skórki" alt="Sekcja Skórki" width="300" />
 
@@ -597,8 +592,7 @@ Zestaw 4: Cyfry Score</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Sterowanie
------------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Sterowanie
 
 <img src="optionsinput1.jpeg" title="Sekcja Sterowania" alt="Sekcja Sterowania" width="300" />
 
@@ -623,7 +617,7 @@ Zasięg paska: 0.40x - 6.00x. Domyślnie jest to 1.00x.</p></td>
 </tr>
 <tr class="even">
 <td><p>Użyj odczytu bezpośredniego (Częstotliwość: #/sec Opóźnienie: #ms)</p></td>
-<td><p><strong>Sygnał bezpośredni ominie przyśpieszanie systemu i zapewni najbardziej precyzyjne ruchy kursora.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/forum/t/187785">Dowiedz się więcej.</a></span> <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">Jeżeli chcesz się czegoś dowiedzieć o szybkości odpytywania, stosuj się do tej strony</a></span></p></td>
+<td><p><strong>Sygnał bezpośredni ominie przyśpieszanie systemu i zapewni najbardziej precyzyjne ruchy kursora.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Dowiedz się więcej.</a></span> <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">Jeżeli chcesz się czegoś dowiedzieć o szybkości odpytywania, stosuj się do tej strony</a></span></p></td>
 </tr>
 <tr class="odd">
 <td><p>Mapuj powierzchnię roboczą tabletu do okna osu!</p></td>
@@ -773,8 +767,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Edytor
----------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Edytor
 
 <img src="Options Editor.jpg" title="Sekcja Edytora" alt="Sekcja Edytora" width="300" />
 
@@ -819,8 +812,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
----------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
 
 <img src="optionsonline1.jpeg" title="Sekcja Online" alt="Sekcja Online" width="300" />
 
@@ -971,8 +963,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Zarządzanie
---------------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Zarządzanie
 
 <img src="optionsmaintenance.png" title="Sekcja Zarządzania" alt="Sekcja Zarządzania" width="300" />
 
@@ -1107,8 +1098,7 @@ Ważne: Po przełączeniu części z nich będzie trzeba zrestartować osu!, pon
 </tbody>
 </table>
 
-Stare ekrany
-============
+# Stare ekrany
 
 To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać różnymi sposobami.
 
@@ -1119,8 +1109,8 @@ To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać r�
 1.  Ten obszar po prawo to lista skórek umieszczonych w folderze Skins, Aby zmienić wygląd osu!, po prostu kliknij na odpowiedni przycisk.
 2.  Obecnie słuchana beatmapa zostanie odtworzona, aby wyświetlić elementy skórki. Sztuczna inteligencja grająca beatmapę jest tak stworzona aby wyświetlać wiele elementów w krótkim czasie.
 3.  Naciśnięcie "Export as .osk" wyeksportuje obecną skórkę jako plik .osk i umieści ją w folderze "Exports".
-4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](http://osu.ppy.sh/forum/109), gdzie będzie można pobrać więcej skórek.
-    1.  Kompendium skórek: [oryginalne](http://osu.ppy.sh/forum/t/23820), [zaktualizowana](https://osu.ppy.sh/forum/t/180864) [wersja](http://osu.ppy.sh/forum/t/136163).
+4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/community/forums/109), gdzie będzie można pobrać więcej skórek.
+    1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/community/forums/topics/23820), [zaktualizowana](https://osu.ppy.sh/community/forums/topics/180864) [wersja](https://osu.ppy.sh/community/forums/topics/136163).
 
 5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
 6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.

@@ -10,7 +10,7 @@ New beatmaps submitted via the Beatmap Submission System will use Beatmap Discus
 
 ### Old beatmaps
 
-A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](/users/102335) is currently in charge of transferring beatmapsets. All existing beatmaps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Beatmap Discussion.
+A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](https://osu.ppy.sh/users/102335) is currently in charge of transferring beatmapsets. All existing beatmaps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Beatmap Discussion.
 
 ### Returning to the old modding system
 
@@ -136,9 +136,9 @@ Enabling the pin will allow the [modding field](#modding-field) to scroll with y
 - `Sort by`: Sort the posts by either `timeline` (default; ordered on the timestamp given from the mod post) or `last updated` (ordered on when the post itself was posted)
 - `Collapse all` and `Expand all` and the up arrow: These will show/hide posts.
 - Thumbs Up/Down: Like/Dislike the mod.
-	- Everyone but the mod submitter can give a thumbs up.
-	- **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
-	- Only [BN](/wiki/BN), [QAT](/wiki/QAT), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
+  - Everyone but the mod submitter can give a thumbs up.
+  - **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
+  - Only [BN](/wiki/BN), [QAT](/wiki/QAT), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
@@ -216,6 +216,6 @@ Beatmap Discussion is now live. There is no way to return to the older system; h
 
 ## See also
 
-- Original forum thread: [Modding Discussion Guide (MV2)](/community/forums/topics/650961) by [Lanturn](/users/1446665)
-- [pishifat](/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/forum/t/662559)
+- Original forum thread: [Modding Discussion Guide (MV2)](https://osu.ppy.sh/community/forums/topics/650961) by [Lanturn](https://osu.ppy.sh/users/1446665)
+- [pishifat](https://osu.ppy.sh/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/community/forums/topics/662559)

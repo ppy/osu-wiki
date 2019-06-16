@@ -1,10 +1,8 @@
-Adicionando hitsounds personalizados
-===========================
+# Adicionando hitsounds personalizados
 
-Do tópico: *[como hitsounds personalizados? por: neonat](https://osu.ppy.sh/forum/p/3215699)* (e modificado)
+Do tópico: *[como hitsounds personalizados? por: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (e modificado)
 
-Obtendo os hitsounds personalizados
-------------------------------
+## Obtendo os hitsounds personalizados
 
 Primeiro, você precisará de alguns hitsounds personalizados! Você também pode:
 - Pegá-los na [biblioteca de hitsounds personalizados](../Custom_Hit_Sound_Library/),
@@ -31,8 +29,7 @@ Você então decide se quer que seja o normal hit, clap, whistle ou finish.
 
 Então, você nomeia o arquivo (para, diagmos, Soft clap) `soft-hitclap.wav`.
 
-Vários hitsounds com o mesmo nome
----------------------------------------
+## Vários hitsounds com o mesmo nome
 
 Se você quiser mais variedade e precisa de mais opções para aplausos e tudo mais, basta adicionar um número no final do nome.
 

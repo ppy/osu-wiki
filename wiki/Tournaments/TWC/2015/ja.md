@@ -1,12 +1,17 @@
-osu! Taiko World Cup 2015
-===========================
+---
+tags:
+- TWC 2015
+- TWC2015
+outdated: true
+---
+
+# osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/g/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![][flag_JP] 日本**です。
+**osu! Taiko World Cup 2015** (***TWC 2015***)は[Tournament Management](https://osu.ppy.sh/groups/26)主催の国別対抗の太鼓トーナメントです。今大会は5回目の開催で、2015年1月12日から2015年3月15日まで行われます。前大会の優勝国は**![][flag_JP] 日本**です。
 
-トーナメント日程
----------------------
+## トーナメント日程
 
 | Event       | Timestamp                |
 |-------------|--------------------------|
@@ -19,8 +24,7 @@ osu! Taiko World Cup 2015
 | 決勝 - Week 1 | 2015年4月4日~5日             |
 | 決勝 - Week 2 | 2015年4月11日~12日           |
 
-賞品
-----------
+## 賞品
 
 | Placing                                                    | Prize(s)                                                    |
 |------------------------------------------------------------|-------------------------------------------------------------|
@@ -28,8 +32,7 @@ osu! Taiko World Cup 2015
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | supporter tag 3ヶ月、プロフィールバッジ                                 |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | supporter tag 1ヶ月、プロフィールバッジ                                 |
 
-構成
---------
+## 構成
 
 | Job   | Person                                                                                                                                                                                        |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,8 +44,7 @@ osu! Taiko World Cup 2015
 
 ------------------------------------------------------------------------
 
-参加者
----------
+## 参加者
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,16 +82,14 @@ osu! Taiko World Cup 2015
 | ![][flag_HK] Hong Kong     | **[KanaRin](https://osu.ppy.sh/users/310747)**, [john26148853](https://osu.ppy.sh/users/2930055), [ice man007](https://osu.ppy.sh/users/1926937), [ll-oscar](https://osu.ppy.sh/users/1488736), [aabc271](https://osu.ppy.sh/users/155707), [ztrike](https://osu.ppy.sh/users/2568493)             |
 | ![][flag_US] United States | **[Two Fruit Cakes](https://osu.ppy.sh/users/437259)**, [FLANKs](https://osu.ppy.sh/users/2398168), [OzzyOzrock](https://osu.ppy.sh/users/465153), [Shyguy](https://osu.ppy.sh/users/178038), [Kuro](https://osu.ppy.sh/users/1735031), [goatlife](https://osu.ppy.sh/users/4408784)               |
 
-リンク
------------
+## リンク
 
--   [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+-   [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
-ルールセット
--------------
+## ルールセット
 
 ### トーナメントルール
 

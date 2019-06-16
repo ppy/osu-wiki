@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Mascotas
 
 *Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery).*
@@ -10,19 +14,19 @@ Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showc
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, estilizado con una "p" minúscula, es la mascota de osu!standard que se unió en 2008-07. También se le conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](/users/9427), el sprite de pippidon fue creado por [crystalsuicune](/users/9974), y el arte actual fue diseñado por [Daru](/users/32480).
+pippi, estilizado con una "p" minúscula, es la mascota de osu!standard que se unió en 2008-07. También se le conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
 
 ### Yuzu
 
-*Para la publicación en las noticias, véase: [Meet Yuzu](/home/news/89483664163).*
+*Para la publicación en las noticias, véase: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10, mide 172cm de altura, y pesa 65kg. Su diseño de arte inicial y los sprites del catcher fueron hechos por [ztrot](/users/6347) mientras Daru creó el arte del comboburst.
+Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10, mide 172cm de altura, y pesa 65kg. Su diseño de arte inicial y los sprites del catcher fueron hechos por [ztrot](https://osu.ppy.sh/users/6347) mientras Daru creó el arte del comboburst.
 
 ### Maria
 
-*Para la publicación en las noticias, véase: [Meet Maria - osu!mania’s new mascot!](/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
+*Para la publicación en las noticias, véase: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
 
 ![Maria](img/Maria.png "Maria")
 
@@ -30,11 +34,11 @@ Maria es la mascota de osu!mania que se unió en 2016-03-04. Su arte fue diseña
 
 ### Mocha
 
-*Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
+*Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto concurso de fanart](/community/contests/2) por [Crowie](/users/6894067), y quedó clasificada en el puesto 21 de las votaciones.
+Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto concurso de fanart](https://osu.ppy.sh/community/contests/2) por [Crowie](https://osu.ppy.sh/users/6894067), y quedó clasificada en el puesto 21 de las votaciones.
 
 ## Camafeos
 
@@ -46,7 +50,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en el 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
 
-Ryuuta también fue presentado en el skin de [LuigiHann](/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Ryuuta también fue presentado en el skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Agent J
 
@@ -56,7 +60,7 @@ Ryuuta también fue presentado en el skin de [LuigiHann](/users/1079), [Elite Be
 
 Agent J, también conocido como BA-2 (Beat Agent-2) o J, fue una de las mascotas de osu! en 2008 pero fue retirado en el 2014. Fue creado por iNiS Corporation y una vez fue parte del viejo sitio web.
 
-Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/forum/t/190357/).
+Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 
@@ -72,19 +76,19 @@ Agent J también fue presentado en el skin de LuigiHann, [Elite Beat osu! HD (1.
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos "Tabi" elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos "Tabi" elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Diseñada por [\[ Glitch \]](/users/3781400), Alisa fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
+Diseñada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Diseñada por [crystalsuicine](/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
+Diseñada por [crystalsuicine](https://osu.ppy.sh/users/9974), Tama fue una de las participantes más jóvenes en el concurso de diseño de mascotas para osu!taiko con sólo 15 años de edad, Tama tiene una gran pasión por tocar el tambor. Y tormentas eléctricas. Y especialmente los festivales, donde se arrebata cualquier takoyaki que se encuentra. Siempre lista para cualquier desafío, Tama oculta un pasado misterioso detrás de su comportamiento juvenil.
 
 ### Taikonator
 
@@ -96,4 +100,4 @@ Taikonator, también conocido como Taikonator 3000, fue uno de los participantes
 
 ![pyun](img/pyun.png "pyun")
 
-Diseñada por [pyun](/users/981534),  pyun fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Puede ser vista en algunas de las sumisiones pasadas de fanart hechas por pyun.
+Diseñada por [pyun](https://osu.ppy.sh/users/981534),  pyun fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Puede ser vista en algunas de las sumisiones pasadas de fanart hechas por pyun.

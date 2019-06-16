@@ -1,5 +1,4 @@
-Chinese osu!mania 4K Tournament 2017
-=============================
+# Chinese osu!mania 4K Tournament 2017
 
 ![CMT 4K 2017](pic.png)
 
@@ -343,7 +342,7 @@ TB:
      - Use Chinese as the primary language.  
      - No requirement on performance points (pp), but rank (above \#4000) is highly recommended.
      - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.  
-3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/forum/t/576970).
+3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/576970).
 4. Map selectors and tournament managers are not allowed to register.
 
 ### Stage Instructions

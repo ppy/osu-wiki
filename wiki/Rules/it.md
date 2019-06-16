@@ -1,10 +1,8 @@
-Regole
-============
+# Regole
 
 Queste regole sono la base da cui attingiamo per aiutare a mantenere la community di osu! un posto divertente e accogliente per tutti.
 
-Regole della community
----------------
+## Regole della community
 
 1. **Ogni giocatore può avere solo *UN* account, sempre.** Il *primo* account che fai durante la registrazione dell'account è il tuo unico e solo account osu!, dal momento della sua creazione e per sempre. Questo account sei TU. Non è nessun altro - non tuo fratello, tua madre, tua sorella, il tuo amico - sei TU. Non condividere il tuo account con nessun altro. Non puoi crearne uno nuovo se perdi l'accesso ad esso. Tienilo al sicuro.
 2. **Gioca correttamente.** Utilizzare programmi di terze parti di qualsiasi tipo per ottenere qualsiasi tipo di vantaggio non va bene. Ciò include cose come programmi macro, programmi di assistenza alla mira, modifiche della scala cronologica e così via. Se un programma sta facendo qualcosa per aiutarti a giocare al gioco che dovresti fare da solo, non va bene!
@@ -13,8 +11,7 @@ Regole della community
 5. **Siamo una community di tutte le età.** Ciò significa che i contenuti 18+/NSFW (non sicuri per il lavoro) come l'uso di droghe o argomenti di natura sessuale non sono i benvenuti qui. Le eccezioni sono fatte dove appropriato per questo, ma in generale, tenerlo pulito.
 6. **Nel caso in cui le regole non prevalgano, il buon senso sarà.** L'amministrazione ha la discrezione esplicita di applicare il proprio giudizio su ciò che ritengono opportuno.
 
-Regole della chat di gioco
-------------------
+## Regole della chat di gioco
 
 1. **Sii rispettoso e attento agli altri utenti del canale ed evita i flooding o lo spamming.** Una persona che occupa metà dello schermo in una volta è fastidiosa, quindi evita di farlo ovunque sia possibile. Anche altre persone stanno cercando di chattare!
 2. **Lascia che i moderatori gestiscano i problemi nella chat.** Puoi indicarli con il comando `!report` e loro gestiranno il resto.
@@ -26,8 +23,7 @@ Regole della chat di gioco
 8. **Non pubblicizzare server di chat di terze parti di alcun tipo, inclusi Discord, Teamspeak o server/gruppi Skype.** La chat di osu! riguarda innanzitutto osu! e non sulla condivisione di link ai tuoi server personali. Fallo via PM se devi assolutamente.
 9. **Nei canali specifici della lingua, devi parlare la lingua dominante (inglese per #english, Thai per #thai, ecc.) se stai partecipando alla discussione.** Dove la lingua per un canale non è esplicitamente dichiarata (o dedotto dal nome del canale, come in tailandese per `#thai` e olandese per` #dutch`), è sempre inglese. I canali `#lobby` ed `#help` possono essere utilizzati con qualsiasi lingua, a differenza di altri canali. *I membri del [moderation staff](/wiki/People/Global_Moderation_Team) non hanno bisogno di seguire questa regola quando fanno il loro lavoro.*
 
-Regole del forum
-----------------
+## Regole del forum
 
 1. **Pubblica solo contenuti/argomenti significativi, interessanti o comunque coinvolgenti.** I forum riguardano principalmente le discussioni, quindi assicurati di dedicare tutto il tuo tempo per renderlo utile a tutti.
 2. **Mantieni i tuoi post e le risposte adatti a persone di tutte le età.** Il contenuto NSFW non è appropriato per una community di tutte le età, anche se non c'è nulla che ti impedisca di discutere di questo genere di cose nei messaggi privati.
@@ -37,10 +33,9 @@ Regole del forum
 6. **Non pubblicare annunci pubblicitari, link di riferimento o altri contenuti fastidiosi o intrusivi.** Cose come i link di affiliazione e di riferimento sono divertenti per la persona che li pubblica e un fastidio per tutti gli altri, quindi non farlo. Anche l'autocaricamento o la riproduzione automatica di contenuti/incorporamenti rientrano in questa regola.
 7. **Non è consentito il collegamento alle applicazioni o ai programmi di utilità con intento incerto.** In parole povere, se vi sono dubbi sulla legalità di tali servizi, non è possibile inviare messaggi.
 
-Regole di richiesta delle beatmap
----------------------------------
+## Regole di richiesta delle beatmap
 
-Queste regole si applicano strettamente alle beatmap inviate tramite il gioco [Beatmap Submission System](/wiki/Beatmap_Submission_System). Questi thread/discussioni sono creati tramite il client di osu! quando una beatmap viene inviata tramite [editor](/wiki/editor).
+Queste regole si applicano strettamente alle beatmap inviate tramite il gioco [Beatmap Submission System](/wiki/Glossary#bss). Questi thread/discussioni sono creati tramite il client di osu! quando una beatmap viene inviata tramite [editor](/wiki/editor).
 
 Esiste una serie di regole più dettagliate per la costruzione di beatmap, note come [Criteri di classificazione](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ Esiste una serie di regole più dettagliate per la costruzione di beatmap, note 
 2. **Rimani in argomento nelle discussioni di Beatmap.** Questi thread/discussioni riguardano la beatmap in questione e nient'altro. Se hai un problema con qualcosa che non appartiene direttamente alla beatmap, pubblicalo nel forum appropriato.
 3. **Non plagiare o tentare di rubare il lavoro degli altri.** Non caricare o utilizzare il lavoro di altre persone senza il loro esplicito permesso (incluse, ma non limitate a, skin e difficoltà degli ospiti).
 
-Regole fuori tema
----------------
+## Regole fuori tema
 
 *Le regole seguenti si applicano SOLO al subforum [Off-Topic](https://osu.ppy.sh/community/forums/52), salvo diversa indicazione.*
 
@@ -57,8 +51,7 @@ Regole fuori tema
 2. **L'eccessiva stupidità è cattiva.** Essere accattivante stupido va bene, e cade nel modus operandi di shitposting. La vera stupidità non è mai bella. Se non sei in grado di distinguere la differenza, stai già infrangendo la regola.
 3. **I thread di compleanno sono consentiti solo in Off-Topic, e da nessun'altra parte.** Tutte le discussioni di compleanno devono essere accompagnate da non meno di tre (3) immagini di ragazze anime che ballano o saranno *brutalmente* gettate sotto un autobus.
 
-Cosa succede se infrango le regole?
----------------
+## Cosa succede se infrango le regole?
 
 Se ti ritrovi nella parte sbagliata delle nostre regole comunitarie, accadranno cose brutte.
 

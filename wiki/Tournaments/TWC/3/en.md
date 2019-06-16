@@ -1,13 +1,14 @@
 ---
 tags:
-- TWC #3
+- 'TWC #3'
 - TWC#3
 ---
+
 # Taiko World Cup #3
 
 ![TWC #3 Logo](img/logo.png)
 
-The **Taiko World Cup #3** (***TWC #3***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 3rd installment of the osu!taiko World Cup.
+The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 
@@ -24,14 +25,14 @@ The **Taiko World Cup #3** (***TWC #3***) is a country-based osu!taiko tournamen
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
+
+![TWC #3 Winner Badge](img/badge.png)
 
 ## Organisation
 
@@ -51,56 +52,58 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/99029)
 - [Livestream](https://www.twitch.tv/taikoworldcup)
 
------
+---
 
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **Nearex**, Sujeto 97, Ariel, Pollotuc |
-| ![][flag_CA] | **Canada A** | **Tasha**, hipster3000, kenny388 |
-| ![][flag_CA] | **Canada B** | **Haruka**, Crystalloid, Super\_Banana |
-| ![][flag_CL] | **Chile A** | **T o u c h e**, Cristian, Foster Don, MichelleP |
-| ![][flag_CL] | **Chile B** | **kazukisinx**, Letz\_Shake, koneejo, N3koKiller |
-| ![][flag_CN] | **China A** | **HM495**, Mic, narcissu2012, baka\_baka\_Koishi |
-| ![][flag_CN] | **China B** | **bx1989**, yuan0312, Yowane \_ Haku, mcwyc |
-| ![][flag_DKNO] | **Denmark-Norway** | **TraxieChan**, Zheant, Dolphin, Agu |
-| ![][flag_SVVE] | **El Salvador-Venezuela** | **Christian**, KIKECTB, \[Chichioko\], Black Wolf159 |
-| ![][flag_FI] | **Finland** | **Samwais**, ReZero, Orkel |
-| ![][flag_FR] | **France** | **Nashmun**, \_Gezo\_, omegaflo, Fraolinch |
-| ![][flag_DE] | **Germany A** | **Slih**, Xay, BrokenArrow, DarkDunskin |
-| ![][flag_DE] | **Germany B** | **Luna**, FreedomofBirds, Satyros, xBourbon\_Kid |
-| ![][flag_HK] | **Hong Kong A** | **aabc271**, kanpakyin, KanaRin, hknoboru |
-| ![][flag_HK] | **Hong Kong B** | **NewibornCLivee**, EZENA, firenz818, wcl\_0209 |
-| ![][flag_ID] | **Indonesia** | **Flandre XKarlet**, Frans Niko, \[Sena Airi\], Ghassan Super |
-| ![][flag_ITNL] | **Italy-Netherlands** | **NeoRainier**, Pheon, Lokamp, happy30 |
-| ![][flag_JP] | **Japan A** | **FlowerMasterK**, Rappu, shifon\[0312\], kiru132 |
-| ![][flag_JP] | **Japan B** | **Shuki-**, Orukaa, NeGaTiVeMinD, TKSalt |
-| ![][flag_KR] | **Korea** | **-applerss-**, kawhy, Bye, [Akita-Neru] |
-| ![][flag_MO] | **Macau** | **L y n n i e**, benisakura, justnobody, i0200352 |
-| ![][flag_MY] | **Malaysia** | **taiko\_maniac1811**, HeatKai, Jerry, huiko12 |
-| ![][flag_PH] | **Philippines** | **Ca Calne**, \_intervention, Kyoren, Kotaro |
-| ![][flag_PL] | **Poland** | **Acrith**, DarkStoorM, nekoyan, Niko |
-| ![][flag_RU] | **Russia** | **Big and Busty**, Wolfjkeee, Shandro, Ch1ka |
-| ![][flag_ES] | **Spain** | **MYRKUL**, LZD, CARRI, charly kempachy |
-| ![][flag_TW] | **Taiwan A** | **-\[ ix Ishida xi \]-**, zx\_baka\_0502442, yikao, oiu850714 |
-| ![][flag_TW] | **Taiwan B** | **Dora**, yoyo, howar5041, ----mliencheng---- |
-| ![][flag_TH] | **Thailand** | **RSX-981**, 0OoMickeyoO0, gangevil123, kantokun |
-| ![][flag_UA] | **Ukraine** | **totoco**, Aka-, Hikkiko |
-| ![][flag_US] | **United States A** | **Two Fruit Cakes**, Backfire, HashishKabob, OzzyOzrock |
-| ![][flag_US] | **United States B** | **Kuro**, lianna, Horo, AnFace |
+| ![][flag_AR] | **Argentina** | **[Nearex](https://osu.ppy.sh/users/1893238)**, [Sujeto 97](https://osu.ppy.sh/users/1331132), [Ariel](https://osu.ppy.sh/users/1065794), [Pollotuc](https://osu.ppy.sh/users/42440) |
+| ![][flag_CA] | **Canada A** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [hipster3000](https://osu.ppy.sh/users/1307688), [kenny388](https://osu.ppy.sh/users/1098972) |
+| ![][flag_CA] | **Canada B** | **[Haruka](https://osu.ppy.sh/users/686460)**, [Crystalloid](https://osu.ppy.sh/users/699741), [Super\_Banana](https://osu.ppy.sh/users/459886) |
+| ![][flag_CL] | **Chile A** | **[T o u c h e](https://osu.ppy.sh/users/744220)**, [Cristian](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [MichelleP](https://osu.ppy.sh/users/1260578) |
+| ![][flag_CL] | **Chile B** | **[kazukisinx](https://osu.ppy.sh/users/920861)**, [Letz\_Shake](https://osu.ppy.sh/users/593579), [koneejo](https://osu.ppy.sh/users/718626), [N3koKiller](https://osu.ppy.sh/users/1095350) |
+| ![][flag_CN] | **China A** | **[HM495](https://osu.ppy.sh/users/810813)**, [Mic](https://osu.ppy.sh/users/81972), [narcissu2012](https://osu.ppy.sh/users/819937), [baka\_baka\_Koishi](https://osu.ppy.sh/users/915103) |
+| ![][flag_CN] | **China B** | **[bx1989](https://osu.ppy.sh/users/424233)**, [yuan0312](https://osu.ppy.sh/users/586131), [Yowane \_ Haku](https://osu.ppy.sh/users/255267), [mcwyc](https://osu.ppy.sh/users/624482) |
+| ![][flag_DK] ![][flag_NO] | **Denmark-Norway** | **[TraxieChan](https://osu.ppy.sh/users/455552)**, [Zheant](https://osu.ppy.sh/users/708656), [Dolphin](https://osu.ppy.sh/users/1331438), [Agu](https://osu.ppy.sh/users/1109122) |
+| ![][flag_SV] ![][flag_VE] | **El Salvador-Venezuela** | **[Christian](https://osu.ppy.sh/users/1435127)**, [KIKECTB](https://osu.ppy.sh/users/1671844), [\[Chichioko\]](https://osu.ppy.sh/users/2140739), [Black Wolf159](https://osu.ppy.sh/users/1860819) |
+| ![][flag_FI] | **Finland** | **[Samwais](https://osu.ppy.sh/users/1227199)**, [ReZero](https://osu.ppy.sh/users/391366), [Orkel](https://osu.ppy.sh/users/39385) |
+| ![][flag_FR] | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), [Fraolinch](https://osu.ppy.sh/users/205257) |
+| ![][flag_DE] | **Germany A** | **[Slih](https://osu.ppy.sh/users/606738)**, [Xay](https://osu.ppy.sh/users/961417), [BrokenArrow](https://osu.ppy.sh/users/384034), [DarkDunskin](https://osu.ppy.sh/users/98985) |
+| ![][flag_DE] | **Germany B** | **[Luna](https://osu.ppy.sh/users/588007)**, [FreedomofBirds](https://osu.ppy.sh/users/1074143), [Satyros](https://osu.ppy.sh/users/520358), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
+| ![][flag_HK] | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [kanpakyin](https://osu.ppy.sh/users/394326), [KanaRin](https://osu.ppy.sh/users/310747), [hknoboru](https://osu.ppy.sh/users/1485257) |
+| ![][flag_HK] | **Hong Kong B** | **[NewibornCLivee](https://osu.ppy.sh/users/1530993)**, [EZENA](https://osu.ppy.sh/users/1257848), [firenz818](https://osu.ppy.sh/users/942283), [wcl\_0209](https://osu.ppy.sh/users/1214640) |
+| ![][flag_ID] | **Indonesia** | **[Flandre XKarlet](https://osu.ppy.sh/users/1139209)**, [Frans Niko](https://osu.ppy.sh/users/906991), [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), [Ghassan Super](https://osu.ppy.sh/users/1538223) |
+| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [happy30](https://osu.ppy.sh/users/27767) |
+| ![][flag_JP] | **Japan A** | **[FlowerMasterK](https://osu.ppy.sh/users/1143137)**, [Rappu](https://osu.ppy.sh/users/1207106), [shifon\[0312\]](https://osu.ppy.sh/users/295488), [kiru132](https://osu.ppy.sh/users/663075) |
+| ![][flag_JP] | **Japan B** | **[Shuki-](https://osu.ppy.sh/users/621526)**, [Orukaa](https://osu.ppy.sh/users/987895), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [TKSalt](https://osu.ppy.sh/users/940878) |
+| ![][flag_MO] | **Macau** | **[L y n n i e](https://osu.ppy.sh/users/189880)**, [benisakura](https://osu.ppy.sh/users/384986), [justnobody](https://osu.ppy.sh/users/2875410), [i0200352](https://osu.ppy.sh/users/1238085) |
+| ![][flag_MY] | **Malaysia** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [HeatKai](https://osu.ppy.sh/users/332555), [Jerry](https://osu.ppy.sh/users/605973), [huiko12](https://osu.ppy.sh/users/598553) |
+| ![][flag_PH] | **Philippines** | **[Ca Calne](https://osu.ppy.sh/users/1498271)**, [\_intervention](https://osu.ppy.sh/users/1150178), [Kyoren](https://osu.ppy.sh/users/1266303), [Kotaro](https://osu.ppy.sh/users/796530) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [nekoyan](https://osu.ppy.sh/users/685739), [Niko](https://osu.ppy.sh/users/175141) |
+| ![][flag_RU] | **Russian Federation** | **[Big and Busty](https://osu.ppy.sh/users/1728245)**, [Wolfjkeee](https://osu.ppy.sh/users/1282662), [Shandro](https://osu.ppy.sh/users/175411), [Ch1ka](https://osu.ppy.sh/users/352967) |
+| ![][flag_KR] | **South Korea** | **[-applerss-](https://osu.ppy.sh/users/983349)**, [kawhy](https://osu.ppy.sh/users/2180896), [Bye](https://osu.ppy.sh/users/344783), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944) |
+| ![][flag_ES] | **Spain** | **[MYRKUL](https://osu.ppy.sh/users/255933)**, [LZD](https://osu.ppy.sh/users/224335), [CARRI](https://osu.ppy.sh/users/854536), [charly kempachy](https://osu.ppy.sh/users/280115) |
+| ![][flag_TW] | **Taiwan A** | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [zx\_baka\_0502442](https://osu.ppy.sh/users/457766), [yikao](https://osu.ppy.sh/users/352674), [oiu850714](https://osu.ppy.sh/users/437607) |
+| ![][flag_TW] | **Taiwan B** | **[Dora](https://osu.ppy.sh/users/358675)**, [yoyo](https://osu.ppy.sh/users/31060), [howar5041](https://osu.ppy.sh/users/584411), [----mliencheng----](https://osu.ppy.sh/users/586659) |
+| ![][flag_TH] | **Thailand** | **[RSX-981](https://osu.ppy.sh/users/1136345)**, [0OoMickeyoO0](https://osu.ppy.sh/users/317494), [gangevil123](https://osu.ppy.sh/users/600440), [kantokun](https://osu.ppy.sh/users/1280801) |
+| ![][flag_UA] | **Ukraine** | **[totoco](https://osu.ppy.sh/users/592387)**, [Aka-](https://osu.ppy.sh/users/3732398), [Hikkiko](https://osu.ppy.sh/users/551193) |
+| ![][flag_US] | **United States A** | **[Two Fruit Cakes](https://osu.ppy.sh/users/437259)**, [Backfire](https://osu.ppy.sh/users/263110), [HashishKabob](https://osu.ppy.sh/users/1076063), [OzzyOzrock](https://osu.ppy.sh/users/465153) |
+| ![][flag_US] | **United States B** | **[Kuro](https://osu.ppy.sh/users/1735031)**, [lianna](https://osu.ppy.sh/users/1167251), [Horo](https://osu.ppy.sh/users/992439), [AnFace](https://osu.ppy.sh/users/233485) |
 
------
+---
+
+## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Country |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] **Taiwan A** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] **Hong Kong A** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] **Japan A** |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] Taiwan A |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong A |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] Japan A |
 
------
+---
 
 ## Mappools
 
@@ -193,11 +196,11 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/12292/#taiko/61369)
   - [Xelia - Illumiscape (Kanna) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/43960/#taiko/160239)
 - Hidden
-  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](http://puu.sh/28gKz)
+  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
   - kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
 - HardRock
   - [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229/#taiko/124413)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](http://puu.sh/28h1RZ)
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
 - DoubleTime
   - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369/#taiko/139607)
   - [ClariS - Neo Moon (goodbye) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/29693/#taiko/100104)
@@ -296,7 +299,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Demetori - Silent Voyage to Eternity (brikel) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/14309/#taiko/108010)**
 
------
+---
 
 ## Ruleset
 
@@ -306,13 +309,13 @@ This competition has come to an end and resulted in the following podium:
 2. You need to specify a captain who will manage the team. (e.g. in match scheduling)
 3. Basically a team represents a nation. That means you should make a team with players from same country.
 4. If your country lacks Taiko players sufficient to participate this, you can make a binational team.
-    - Binational team includes 2 players from a certain country and 2 players from an another country.
-    - Making a binational team can be restricted due to time difference between members of binational team.
-    - Binational teams are only exceptional and shall not be common case. They need approval by tournament management.
-    - You can not create one binational team and another national team. (e.g. you can not create a Team IT/NL and another Team IT)
+   - Binational team includes 2 players from a certain country and 2 players from an another country.
+   - Making a binational team can be restricted due to time difference between members of binational team.
+   - Binational teams are only exceptional and shall not be common case. They need approval by tournament management.
+   - You can not create one binational team and another national team. (e.g. you can not create a Team IT/NL and another Team IT)
 5. Multiple teams per country are allowed. Special Qualification Encounter after Group Stage may happen. Refer to Tournament Instructions!
 6. To found a team, send a PM to tournament management or post into this thread.
-    - Captains are free to change their team setup until their first match starts
+   - Captains are free to change their team setup until their first match starts
 7. Mapset selectors can't participate tournament as a player.
 
 ### Stage Instructions
@@ -320,11 +323,11 @@ This competition has come to an end and resulted in the following podium:
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 team in each one.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the statistics of each team in followed priority:
-    - More matches won.
-    - Have higher {(the number of games won) - (the number of games defeated)}.
-    - More games won.
-    - Have higher ∑{(total score difference) / (maximum score)}.
-    - Winner of the rematch.
+   1. More matches won.
+   2. Have higher `{(the number of games won) - (the number of games defeated)}`.
+   3. More games won.
+   4. Have higher `∑{(total score difference) / (maximum score)}`.
+   5. Winner of the rematch.
 4. Teams from the same country will not be in the same group in group stage.
 5. The best two of each group will ascend to the Knock-Out Stages.
 6. If two teams of the same country are supposed to ascend from Group Stage to Knock-Out Stages, they will encounter each other on a Qualification Stage. The winning team will ascend to the next round, the losing will be knocked out from the tournament. The free slot will receive the team with the best result among all groups.
@@ -334,33 +337,33 @@ This competition has come to an end and resulted in the following podium:
 ### Match Instructions
 
 1. One of referees will create a multiplayer room about 30 minutes before the time. All players should arrive the room in right time.
-    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
-    - Room settings are Taiko, Team-Vs., Win Condition 'Score'. Room name must be "Taiko World Cup #3: TeamBlue vs. TeamRed"
-    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+   - Room settings are Taiko, Team-Vs., Win Condition 'Score'. Room name must be "Taiko World Cup #3: TeamBlue vs. TeamRed"
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. The team that mentioned first in the timetable will be the blue team.
 3. Referee will keep the host during the whole match.
 4. Referee will select one warmup map. This map is not part of the actual mappool.
 5. Alternately each captain selects a map out of the mappool. Winner of this warmup will start selecting maps.
-    - The captains can select maps out of the NoMod bracket unlimited.
-    - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
-    - In case of tie, the tiebreaker map must be played.
-    - Captains shall tell the selected map via PM to the referee. He will pick it.
+   - The captains can select maps out of the NoMod bracket unlimited.
+   - Selection out of mod-specific brackets is limited. Each captain can only select one map from each mod-restricted bracket during match. So each team can pick 1 HardRock, 1 Hidden and 1 DoubleTime map during match.
+   - In case of tie, the tiebreaker map must be played.
+   - Captains shall tell the selected map via PM to the referee. He will pick it.
 6. Referees must save the result of each game with a screenshot.
 7. When match ended, referee must post the screenshots and the multiplayer history link into the tournament thread.
 
 ### Tournament Rules
 
 1. The maps for each round are announced by mapset selectors approx. 1 week ahead. Only these can be used during the respective matches.
-    - One map will be given as tiebreaker map. This map only gets played in case of a tie. Also there will be a Hidden, a HardRock and a DoubleTime bracket.
+   - One map will be given as tiebreaker map. This map only gets played in case of a tie. Also there will be a Hidden, a HardRock and a DoubleTime bracket.
 2. Captains have the chance to hand in preferred times for matches 9 days ahead. All your matches will be scheduled by trying to fit these perferations. Match schedules will be released approx. 7 days ahead. Captains have 24 hours to object the scheduled time.
-    - After the 24 hours passed, match schedule is locked and can't be changed anymore.
+   - After the 24 hours passed, match schedule is locked and can't be changed anymore.
 3. If no staff or referee is available, the match must be postponed.
 4. Score of failed player will be added to total score too.
 5. 'No Video' mod is available. Visual Settings are available.
 6. Maps cannot be used more than once in the same match unless the game was nullified.
 7. If the game ends in a draw, the game will be nullified.
 8. If one of players gets disconnected, the game will be nullified. This can happen up to twice. After exceeding two attempts, disconnected players get treated as left on their own.
-    - If server is too unstable to continue the match, tournament management can postpone the match.
+   - If server is too unstable to continue the match, tournament management can postpone the match.
 9. If less than 3 players arrived, the match can be postponed maximum 20 minutes.
 10. During the match, exchanging players is allowed.
     - You can exchange players once in group-stage and twice in knock-out stages.
@@ -383,22 +386,25 @@ This competition has come to an end and resulted in the following podium:
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DKNO]: /wiki/shared/flag/DKNO.png
+[flag_DK]: /wiki/shared/flag/DK.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
-[flag_ITNL]: /wiki/shared/flag/ITNL.png
+[flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MO]: /wiki/shared/flag/MO.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SVVE]: /wiki/shared/flag/SVVE.png
+[flag_SV]: /wiki/shared/flag/SV.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif

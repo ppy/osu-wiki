@@ -6,7 +6,7 @@ date: 2018-08-17 12:00:00 +0000
 
 Beatmap Nominator Evaluations, another upcoming public QAT meeting, and huge Ranking Criteria changes that may change the face of mapping forever are all on the menu for this month, and reading inside is the fastest way to hear all about them!
 
-![](/wiki/shared/news/banners/qat-blog-logo.png)
+![](/wiki/shared/news/banners/theqatgazette.jpg)
 
 ## Opening
 
@@ -74,7 +74,7 @@ A little more minor, but by no means less important, have been the addition of t
 
 + **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
-You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418). 
+You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418).
 
 ### Changes to Beatmap Veto Mediation
 

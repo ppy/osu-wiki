@@ -4,8 +4,8 @@ tags:
 - THOM CUP
 - Heptakey osu!mania CUP
 ---
-The Heptakey osu!mania Cup #1
-======================
+
+# The Heptakey osu!mania Cup #1
 
 ![THOM CUP Logo](logo.png)
 
@@ -50,7 +50,7 @@ The Heptakey osu!mania Cup #1
 
 ## Links
 
-- [Discussion Thread](/community/forums/topics/731431)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/731431)
 - [Livestream](https://www.twitch.tv/thomcup)
 - [Challonge](https://challonge.com/THOMCup)
 

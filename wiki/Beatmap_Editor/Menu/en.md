@@ -1,8 +1,6 @@
-Menu
-====
+# Menu
 
-File
-------
+## File
 
 ![File menu](img/M_File.jpg "File menu")
 
@@ -35,7 +33,7 @@ File
 
 | Name | Description |
 | ---- | ----------- |
-| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/forum/10). Requires osu!account logged in to the website to view "Beatmaps" forum. |
+| Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/community/forums/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
 | Extract Map Package | ? |
 | Import from... | **bms/bme:** (osu!mania only) Open .bms/.bme file to be imported as osu!mania difficulty. |
@@ -54,8 +52,7 @@ File
 | ---- | ----------- |
 | Exit... (`Esc`) | Exit Beatmap Editor. May prompt you to save recent changes. Sometimes *ignores* Design tab changes. |
 
-Edit
------
+## Edit
 
 ![Edit menu](img/M_Edit.jpg "Edit menu")
 
@@ -114,8 +111,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 | Nudge Backward (`J`) | Move the note(s) one beat backward based on Beat Snap Divisor. |
 | Nudge Forward (`K`) | Move the note(s) one beat forward based on Beat Snap Divisor. |
 
-View
---------
+## View
 
 ![View menu](img/M_View.jpg "View menu")
 
@@ -144,18 +140,17 @@ Places of interest.
 | Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
 | Show Video | Show Video. Usually disabled because it's distracting. |
 | Show Sample Name | Show keysound attached to the notes. Very useful in osu!mania. |
-| Snaking sliders | Animate the sliders as if playing ingame. |
-| Hit animations | Animate the hitcircles as if being clicked (when the timestamp passes the hitcircle) ingame. |
-| Follow points | Display (and animate) the follow points as if ingame. |
-| Stacking | Stack the overlaid hitcircles as if ingame (dependent on difficulty settings) |
+| Snaking sliders | Animate the sliders as if playing in-game. |
+| Hit animations | Animate the hitcircles as if being clicked (when the timestamp passes the hitcircle) in-game. |
+| Follow points | Display (and animate) the follow points as if in-game. |
+| Stacking | Stack the overlaid hitcircles as if in-game (dependent on difficulty settings) |
 | Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
-Compose
---------
+## Compose
+
+*Main page: [Compose](/wiki/Beatmap_Editor/Compose)*
 
 ![Compose menu](img/M_Compose.jpg "Compose menu")
-
-***Main page: [Compose](/wiki/Beatmap_Editor/Compose)***
 
 ### Rulers commands
 
@@ -174,23 +169,21 @@ Compose
 | Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hitcircles/fruit/taiko hitcircles, while playing song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input circles, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
 | Sample import | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
 
-Design
--------
+## Design
+
+*Main page: [Design](/wiki/Beatmap_Editor/Design)*
 
 ![Design menu](img/M_Design.jpg "Design menu")
-
-***Main page: [Design](/wiki/Beatmap_Editor/Design)***
 
 | Name | Description |
 | ---- | ----------- |
 | Move all elements on time... | Move *everything* by #ms value. Useful if you changed the .mp3 or offset. |
 
-Timing
--------
+## Timing
+
+*Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
 
 ![Timing menu](img/M_Timing.jpg "Timing menu")
-
-***Main page: [Timing](/wiki/Beatmap_Editor/Timing)***
 
 ### Metronome commands
 
@@ -232,21 +225,19 @@ Timing
 | ---- | ----------- |
 | Set Current Position as Preview Point | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
 
-Web
-------
+## Web
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
-Opens your browser. Mainly send you to the beatmap's thread (requires log-in to the website.)
+Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to the website.)
 
 | Name | Description |
 | ---- | ----------- |
-| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/b/### where "###" is the beatmap's ID. |
+| This Beatmap's Information Page | Go to this beatmap's information page. Link is https://osu.ppy.sh/beatmaps/### where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
 | Quick Reply | Post a reply to the beatmap thread. |
 
-Help
------
+## Help
 
 ![Help menu](img/M_Help.jpg "Help menu")
 

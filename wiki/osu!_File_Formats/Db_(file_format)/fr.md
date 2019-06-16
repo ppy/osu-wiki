@@ -1,17 +1,15 @@
-.db (format de fichier)
-===============
+# .db (format de fichier)
 
 Les fichiers **.db** sont utilisés en tant que fichiers binaire par osu! pour y enregistrer des informations variées, comme les paramètres d'une beatmap, les données d'un replay ou les collections de beatmaps.
 
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
 
-- Windows: `C:\\Program Files (x86)\osu!\`
+- Windows: `%localappdata%\osu!`
 - Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 En ce moment, osu! utilise 4 fichiers .db: osu!.db, scores.db, collection.db et presence.db.
 
-Les types de données
---------------------
+## Les types de données
 
 Pour faciliter la description des formats de chaque fichier .db, les noms des types données vont être utilisés. Sauf indication contraire, toutes ces données numériques sont des petit-boutistes. Les nombres entiers, tout comme les octets ne sont pas signés. Les caractères UTF-8 sont enregistrés dans leur forme canonique, les octets étant en priorité.
 
@@ -27,8 +25,7 @@ Pour faciliter la description des formats de chaque fichier .db, les noms des ty
 | Booléen (boolean) | 1 | 0x00 pour false (faux), sinon, renvoie true (vrai) |
 | Chaîne de caractère (string) | Variable | Contient trois partie; un octet qui est soit défini par 0x00, indiquant que les deux autres parties ne sont pas présentes, ou 0x0b (11 décimaux), indiquant que les deux autres parties sont présentes. Si la première partie est définie par 0x0b, alors, la deuxième partie est un ULEB128, définissant la longueur de la chaîne de caractère, et ensuite la chaîne de caractère en lui-même, encodé en UTF-8. En savoir plus: [UTF-8](https://en.wikipedia.org/wiki/UTF-8). |
 
-osu!.db
--------
+## osu!.db
 
 **osu!.db** contient en cache toutes les informations sur les beatmaps installées. Supprimer une beatmap va forcer osu! à refaire entièrement ce fichier, ce qui peut aussi corriger des erreurs, comme des beatmaps ayant été retirées du dossier Songs, mais dont le nom est resté visible dans le jeu. Ce fichier, le plus lourd des quatre, occupe un rôle important dans la gestion des beatmaps et dans la mise en cache des données.
 
@@ -114,8 +111,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Int | Date de la dernière modification (?) |
 | Byte | Vitesse de défilement d'osu!mania |
 
-collection.db
--------------
+## collection.db
 
 **collection.db** contient les données de toutes les collections de l'utilisateur. Il peut être transféré sans problèmes; toutefois, il faudrait avoir toutes les beatmaps contenues dans les collections.
 
@@ -134,8 +130,7 @@ Les prochains éléments vont être répétés pour chaque collection.
 | Entier (Int) | Nombre de beatmaps dans cette collection |
 | Chaîne de caractère* (String) | La beatmap chiffrée en MD5. Répété pour chaque beatmap dans la collection. |
 
-scores.db
----------
+## scores.db
 
 Cette base de données contient tous les scores réalisés localement.
 

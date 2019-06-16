@@ -1,10 +1,8 @@
 # osu!catch
 
-*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
-
 ## Skinning elements
 
-*See also: [Skinning/osu!catch](/wiki/Skinning/osu!catch).*
+*See also: [Skinning/osu!catch](/wiki/Skinning/osu!catch)*
 
 ### Fruits
 
@@ -76,7 +74,7 @@ These have a minimum width of 302px and the first 16 horizontal lines from the t
 
 ## Skin configuration
 
-*See also: [skin.ini](/wiki/skin.ini).*
+*See also: [skin.ini](/wiki/skin.ini)*
 
 osu!catch has three unique skin configuration commands:
 

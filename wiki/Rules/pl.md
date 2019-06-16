@@ -1,20 +1,17 @@
-Zasady
-============
+# Zasady
 
 Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjaznym miejscem dla wszystkich.
 
-Zasady dot. społeczności
----------------------------
+## Zasady dot. społeczności
 
 1. **Każdy gracz może posiadać maksymalnie *JEDNO* konto** To konto należy do ciebie. Nie do nikogo innego - brata, matki, siostry, znajomego - jest TWOJE. Nie dziel się swoim kontem z nikim innym.
 2. **Graj uczciwie.** Używanie zewnętrznych narzędzi przynoszących różnego rodzaju nieuczciwe korzyści jest niedozwolone. Dotyczy ty makr, programów poprawiających celność, modyfikacje prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
 3. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być dupkami w stosunku do siebie.
 4. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
 5. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
-6. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą. 
+6. **Tego czego nie obejmują zasady, obejmuje zdrowy rozsądek.** Administracja ma prawo do indywidualnej oceny każdej sprawy, nawet jeśli zasady jej nie dotyczą.
 
-Zasady dot. czatu
-------------------
+## Zasady dot. czatu
 
 1. **Szanuj innych uczestników czatu danego kanału, a także unikaj spamowania czy floodowania.** Wiadomości jednej osoby zajmujące pół ekranu są denerwujące, więc postaraj się tego unikać. Inni też chcą popisać!
 2. **Pozwól, by to moderacja rozwiązywała problemy na czacie.** Możesz zasugerować jej potrzebę działania komendą `!report`.
@@ -26,8 +23,7 @@ Zasady dot. czatu
 8. **Nie rozgłaszaj innych serwerów czatowych, włączając w to serwery/grupy na Discord, Teamspeak czy Skype.** Głównym tematem na czacie w osu! jest właśnie osu! i nie powinno się udostępniać linków do zewnętrznych serwerów. Jeżeli to koniecznie, zrób to poprzez prywatną wiadomość.
 9. **Na kanałach o określonym języku można rozmawiać tylko w tym języku (angielski dla #english, chiński dla #chinese itd.).** Jeżeli język na danym kanale nie został określony (bądź nie jest możliwy do wywnioskowania z nazwy kanału), to jest to zawsze angielski. Kanały `#lobby` i `#help` są wielojęzyczne, w przeciwieństwie do reszty. *Członkowie [moderacji](/wiki/People/Global_Moderation_Team) nie muszą przestrzegać tej zasady podczas swojej pracy.*
 
-Zasady dot. forum
---------------------
+## Zasady dot. forum
 
 1. **Zamieszczane wątki oraz posty powinny być istotne i rozwijać przedstawiane w nich zagadnienia.** Forum polega na dyskusji, więc włóż wysiłek w to, o czym chcesz powiedzieć, by nie marnować czasu innych.
 2. **Pilnuj, by twoje wątki i odpowiedzi były odpowiednie dla wszystkich grup wiekowych** Treści przeznaczone tylko dla pełnoletnich nie są stosowne w naszej społeczności, ale nie ma nic przeciwko dyskutowaniu o tego typu sprawach w prywatnych wiadomościach.
@@ -37,10 +33,9 @@ Zasady dot. forum
 6. **Nie zamieszczaj reklam, odnośników czy jakichkolwiek innych nachalnych treści** Reklamy oraz inne odnośniki służą tylko osobom je udostępniającym. Dla reszty jest to denerwujące, więc nigdy tego nie rób. Treści odtwarzające się automatycznie po załadowaniu również są objęte tą regułą.
 7. **Udostępnianie linków do aplikacji i narzędzi o niejasnym działaniu jest zabronione.** Jeżeli legalność tych narzędzi jest wątpliwa, to nie ma tutaj dla nich miejsca.
 
-Zasady dot. przesyłania beatmap
------------------
+## Zasady dot. przesyłania beatmap
 
-Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Beatmap_Submission_System). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/editor).
+Te zasady dotyczą wyłącznie beatmap udostępnionych poprzez [system przesyłania beatmap](/wiki/Glossary#bss). Wątki są tworzone przez klient gry automatycznie, gdy beatmapa zostanie przesłana poprzez [edytor](/wiki/editor).
 
 Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria rankingowe](/wiki/Ranking_Criteria).
 
@@ -48,8 +43,7 @@ Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria 
 2. **Trzymaj się tematu w wątkach beatmap.** Te dyskusje dotyczą wyłącznie beatmap. Jeżeli masz problem z czymś niezwiązanym bezpośrednio z beatmapą, to stwórz wątek na odpowiednim forum.
 3. **Nie kradnij ani nie przywłaszczaj sobie pracy innych.** Nie przesyłaj ani nie używaj pracy innych ludzi bez ich wyraźnej zgody, włączając w to m.in. skórki oraz gościnne poziomy trudności.
 
-Zasady dot. forum Off-Topic
------------------------------
+## Zasady dot. forum Off-Topic
 
 *Te zasady mają zastosowanie TYLKO do forum [Off-Topic](https://osu.ppy.sh/community/forums/52).*
 
@@ -57,8 +51,7 @@ Zasady dot. forum Off-Topic
 2. **Nadmiar głupoty jest zły.** Bycie ujmująco głupim jest w porządku i klasyfikuje się to jako sposób działania shitpostingu. Natomiast prawdziwa głupota nigdy nie jest porządku. Jeżeli nie możesz zrozumieć różnicy, to już łamiesz tę zasadę.
 3. **Wątki urodzinowe są dozwolone tylko w Off-Topic i nigdzie więcej** Wszystkie wątki urodzinowe muszą zawierać przynajmniej trzy obrazki tańczących anime dziewczynek albo zostaną bez żalu wrzucone pod ciężarówkę.
 
-Co się stanie, jeżeli złamię zasady?
----------------------------------------
+## Co się stanie, jeżeli złamię zasady?
 
 Jeżeli uważasz, że łamiesz zasady zapisane powyżej, to mogą cię spotkać przykre konsekwencje!
 

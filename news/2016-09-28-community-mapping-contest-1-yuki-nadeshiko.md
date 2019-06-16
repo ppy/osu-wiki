@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)"
-permalink: http://osunews.tumblr.com/post/151057958633/community-mapping-contest-1-yuki-nadeshiko
 date: 2016-09-28 16:07:58 +0000
 tumblr_url: http://osunews.tumblr.com/post/151057958633/community-mapping-contest-1-yuki-nadeshiko
 ---
+
 Another talented artist emerges as an official osu!musician. To celebrate, we're holding a brand new collaborative community mapping contest in a brand new, never-before-seen format with community voting! Come check it out!
-<!-- more -->
 
-![](http://puu.sh/rqLHx/42a523ea5c.jpg)
+![](https://puu.sh/rqLHx/42a523ea5c.jpg)
 
-We're back at last with a new mapping contest! To formally usher in our newest osu!musician, we've decided to hold **an all-modes mapping contest with a brand new twist**. [**yuki.**](https://new.ppy.sh/beatmaps/artists/4) has stepped up to the plate alongside [IAHN](https://new.ppy.sh/beatmaps/artists/3), [cYsmix](https://new.ppy.sh/beatmaps/artists/2) and [nekodex](https://new.ppy.sh/beatmaps/artists/1) to form our first set of featured artists.
+We're back at last with a new mapping contest! To formally usher in our newest osu!musician, we've decided to hold **an all-modes mapping contest with a brand new twist**. [**yuki.**](https://osu.ppy.sh/beatmaps/artists/4) has stepped up to the plate alongside [IAHN](https://osu.ppy.sh/beatmaps/artists/3), [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) and [nekodex](https://osu.ppy.sh/beatmaps/artists/1) to form our first set of featured artists.
 
 **yuki.** is a Japanese artist primarily focused on creating J-Core and UK Hardcore tracks designed for rhythm gaming. Having a strong founding in producing music for rhythm games due to his participation in several major rhythm game music tournaments (such as *BMS Of Fighters* and *K-Shoot Mania Shooter's Festival*), yuki.'s music is positioned perfectly for osu!, having something for every intrepid mapper to discover across all game modes!
 
@@ -35,11 +34,11 @@ The prizes are as follows:
 * Winning difficulties will be bundled together with other winning difficulties to create a **bundled mapset for that particular gamemode.** This may seem like a smaller prize than other contests, but do note that bundled maps recieve millions of plays over the course of a year where most maps are lucky to receive a hundred thousand at best. It is a huge amount of exposure.
 * Acknowledgement for producing the difficulty/difficulties will be denoted in the mapset's metadata and description.
 
-Have any questions about the contest or its prizes? [Head on over to the discussion thread on the forums](https://osu.ppy.sh/forum/t/506289) and ask the organizers!
+Have any questions about the contest or its prizes? [Head on over to the discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/506289) and ask the organizers!
 
-**To get started, download the pre-timed beatmap osz from [yuki's featured artist page](https://new.ppy.sh/beatmaps/artists/4) (or [this link for the lazy](https://assets.ppy.sh/artists/4/osz/yuki.%20-%20Nadeshiko%20Sensation.osz)) and start mapping!**
+**To get started, download the pre-timed beatmap osz from [yuki's featured artist page](https://osu.ppy.sh/beatmaps/artists/4) (or [this link for the lazy](https://assets.ppy.sh/artists/4/osz/yuki.%20-%20Nadeshiko%20Sensation.osz)) and start mapping!**
 
-**Submissions are open at the [beatmapping contest portal page](https://new.ppy.sh/community/contests/3).**
+**Submissions are open at the [beatmapping contest portal page](https://osu.ppy.sh/community/contests/3).**
 
 **Entries must be submitted by the 7th of November. No entries will be accepted past this date under any circumstances.**
 

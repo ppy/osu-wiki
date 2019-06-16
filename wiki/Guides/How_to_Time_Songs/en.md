@@ -1,24 +1,20 @@
-How to time songs
-====================
+# How to time songs
 
 ![Timing menu.](/wiki/Beatmap_Editor/Timing/Timing_base.jpg "Timing menu.")
 
-Introduction
--------------
+## Introduction
 
 Timing a song is, in fact, not as complicated as it may seem at first glance. You only need two things: a sense of rhythm and some dexterity. An ear for music and experience playing rhythm games are not required, but can help improve the outcome of your map.
 
 You are also supposed to know what [BPM](/wiki/Glossary) and [offset](/wiki/Glossary) are, and how to set uninherited timing points (often called red offsets).
 
-Preparing the .mp3 file
--------------------------
+## Preparing the .mp3 file
 
-If you are going to work on a beatmap and get it ranked (or approved), it is necessary for an audio file to have a bitrate between 128 and 192 kbps. (This is to ensure that songs are of acceptable quality and don't take too much space on the server and your hard drive). You can see the audio bitrate by right clicking it and selecting Properties, then Details tab. If you don't know how to reduce the bitrate (usually down to 192 kbps), there's a [wiki page](/wiki/Beatmap_Editor_Guides/Audio_Editing) and [our own professor's lecture {Direct to Youtube}](https://www.youtube.com/watch?v=muu3HkG38kk). You can ask your friends or you can ask around in Chat Console. If all else fails, search/ask on [forums](https://osu.ppy.sh/forum/56) or [find a way yourself](https://duckduckgo.com/?q=reducing+bitrate+mp3).
+If you are going to work on a beatmap and get it ranked (or approved), it is necessary for an audio file to have a bitrate between 128 and 192 kbps. (This is to ensure that songs are of acceptable quality and don't take too much space on the server and your hard drive). You can see the audio bitrate by right clicking it and selecting Properties, then Details tab. If you don't know how to reduce the bitrate (usually down to 192 kbps), there's a [wiki page](/wiki/Beatmap_Editor_Guides/Audio_Editing) and [our own professor's lecture {Direct to YouTube}](https://www.youtube.com/watch?v=muu3HkG38kk). You can ask your friends or you can ask around in Chat Console. If all else fails, search/ask on [forums](https://osu.ppy.sh/community/forums/56) or [find a way yourself](https://duckduckgo.com/?q=reducing+bitrate+mp3).
 
 The preparations may range from trimming to adding/removing any sound effects. All this is **best done before timing**, as **any** audio edits, including re-encoding, will *change the timing*.
 
-Single timing (One Red)
---------------------------
+## Single timing (One Red)
 
 ### Goals and Objectives
 
@@ -38,7 +34,7 @@ So the plan of action in nutshell:
 
 ### BPM and offset
 
-When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](http://osu.ppy.sh/s/8894)), and in cases like this you can follow the vocals.
+When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](https://osu.ppy.sh/beatmapsets/8894)), and in cases like this you can follow the vocals.
 
 Play your track from the beginning and keep listening to it until you come to a point where you can clearly hear the rhythm and catch it. At this point, stop the song, wind back a little bit, start listening again and tapping `T` key as consistently as possible (you can also click the button in the top right corner that says "Tap here!", but keyboard usually gives more accurate results). The parameters (BPM, Offset) will change with every new tap you make, but don't mind it, you'll iron them out later. Spend half a minute on this, a minute at maximum.
 
@@ -68,7 +64,7 @@ To check whether BPM is correct or not, jump to the middle or somewhere near the
 
 ### Finding time signature
 
-Music consists of stanzas (repetitive parts). This repetition follows the same pattern of sound in a time frame (such as "PataPataPataPon", "DonDonDonKat", "SnareSnareSnareCymbal", "TapTapTapClap" or "Hallelujah"). This is best explained using a [metronome](http://www.webmetronome.com/). If you wish, you can read the [article about Time Signature](https://en.wikipedia.org/wiki/Time_signature) or take a peek at [Alace's thread](https://osu.ppy.sh/forum/t/20998).
+Music consists of stanzas (repetitive parts). This repetition follows the same pattern of sound in a time frame (such as "PataPataPataPon", "DonDonDonKat", "SnareSnareSnareCymbal", "TapTapTapClap" or "Hallelujah"). This is best explained using a [metronome](http://www.webmetronome.com/). If you wish, you can read the [article about Time Signature](https://en.wikipedia.org/wiki/Time_signature) or take a peek at [Alace's thread](https://osu.ppy.sh/community/forums/topics/20998).
 
 So we need to find on which time frame we will set and start the metronome, that is, to find a strong solid beat called downbeat ([here is another article](https://en.wikipedia.org/wiki/Beat_%28music%29)). It's easy to spot; on downbeats, singers raise their voice, music intensity increases and you can sometimes hear finish hitsounds. If the downbeat is located right on the red line, then it is good. If not, then we need to correct it by moving our offset. Jump on the respective tick on the time scale (set beat snap divisor in the top right corner to 1/2 or 1/4 if necessary), then press F6 to get into the Timing menu. Select your red offset (it looks like a dot there) and press the button "Use current offset" on the left. Then, using the same technique, shift it back to the very first beat of the song, because it affects the pulse of osu! cookie in the main menu and hit objects during kiai times.
 
@@ -120,12 +116,11 @@ At the end of the testplay, check the results. If the notes have heavy timing er
 
 If everything is done correctly, you now have a properly timed beatmap. Sometimes, it is necessary to double-check the timing with other users, especially if you are not too confident about it. Learn from it, and be bold to ask.
 
-Multitiming (Many Red)
-----------------------
+## Multitiming (Many Red)
 
 ### Introduction
 
-There are situations when one red bar is not enough (some example will be [Bad Apple](http://osu.ppy.sh/b/64780), [DJ Amuro's A](http://osu.ppy.sh/b/20841) or [kemu's Ikasama Life Game](http://osu.ppy.sh/b/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](http://osu.ppy.sh/b/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
+There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmaps/64780), [DJ Amuro's A](https://osu.ppy.sh/beatmaps/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmaps/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmaps/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
 
 You can ask for help from others on this, but there are only few people who *know* how to identify and work with multi-timing. Moreover, people will not help you if you don't make an effort on your beatmap or don't seem to be worth their time. You can do this yourself if you have a lot of experience and/or a pretty good accuracy, and are able to hit the notes correctly. This is vital, because you'll have to do lots of test plays, and mistimed hits will make it frustrating to the player.
 
@@ -177,8 +172,7 @@ In the end, we should tell you some important tips:
 -   ''' Do not rush to make new timing sections. ''' It is better to run the test several times, and then make sure that a new section is really necessary.
     -   Instead of a new offset (unless there's an actual shift) it is sometimes better to try to change current point's BPM; however, it is necessary to make sure that the beginning of the section remained timed correctly.
 
-Epilogue
-----------
+## Epilogue
 
 You should only help with timing if:
 

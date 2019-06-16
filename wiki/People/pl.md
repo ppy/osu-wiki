@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Grupy użytkowników
 
 Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami wspierają rozwój gry. Większość z nich można rozpoznać poprzez kolor nazwy użytkownika na czacie lub forum, tytuł na profilu lub odznakę.

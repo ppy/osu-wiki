@@ -1,17 +1,18 @@
-osu!mania Ranking Criteria
-====================================
+---
+outdated: true
+---
 
-For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/forum/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
+# osu!mania Ranking Criteria
 
-Terms
--------
+For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/community/forums/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
+
+## Terms
 
 -   Expert以外 = Easy, Normal. (Basic, Standard)
 -   Expert = Hard, Insane. (Hyper, Another)
 -   Column (key数) = 5K, 5 column. 中央の列はSpecialもしくはStep columnと呼ばれることがあります。
 
-Rules
-------
+## Rules
 
 これらはガイドラインではなくルールであり、いかなる状況下においても守る必要があります。
 
@@ -35,8 +36,7 @@ Rules
 
 -   **BPMに変化が無いときには赤線を使用することはできません。** 言い換えればスクロール速度の変更のために使用することはできません。よって緑線とSVによって変更することが可能です。
 
-Guidelines
-------------
+## Guidelines
 
 ガイドラインは、ほとんどの譜面で遵守されるべき重要なものです。しかしルールでは無い為、可能な限り従うべきではありますが、特殊な状況下においては破ることもできます。もしガイドラインを破りたい場合、「ガイドラインを破ることは理に適っているのか」、「ガイドラインを守る場合に比べて、ガイドラインを破ったものはより面白いか」をよく検討してみてください。もし両方ともに対してイエスならば、ガイドラインを破ることはおそらく認められるでしょう。ガイドラインを破った譜面をModしてもらう場合には、その箇所について極力あなたの考えを説明し、提案を受け入れるようにしましょう。
 
@@ -54,8 +54,7 @@ Guidelines
 -   **SVの変更は曲にムードやペース、テーマ等に変化があった場合にのみ変更することが許されます。** SVの変化の大きさはマッパーの裁量に依存します。
 -   **マップセット内の異なるキー設定の譜面は似たような難易度のバランスにするべきです。**それは異なるキー設定との間でバランスを保全し、そして別のキーをメインとしているプレイヤーを満足させることが出来ます。
 
-?K 参考用
------------
+## ?K 参考用
 
 | Keys(CS) | Game                               |
 |----------|------------------------------------|

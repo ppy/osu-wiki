@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "osu!World Cup 2016: Results"
-permalink: http://osunews.tumblr.com/post/154875453203/osuworld-cup-2016-results
 date: 2016-12-24 02:56:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/154875453203/osuworld-cup-2016-results
 ---
-Hello everyone, Evrien here, assigned with the task of informing you the final results of osu! World Cup 2016. Spanning across 6 exciting and hype-filled weekends, the OWC 2016 saw 32 teams representing player communities around the world. Needless to say, the excitement was almost tangible in the air, and this winter was set ablaze by the passion and support from everyone involved.
 
-<!-- more -->
+Hello everyone, Evrien here, assigned with the task of informing you the final results of osu! World Cup 2016. Spanning across 6 exciting and hype-filled weekends, the OWC 2016 saw 32 teams representing player communities around the world. Needless to say, the excitement was almost tangible in the air, and this winter was set ablaze by the passion and support from everyone involved.
 
 Without further ado, here are the Top 3 Teams of OWC 2016.
 
-![](https://puu.sh/sZnrp/20c7ccb1b7.png)
+![](/wiki/shared/news/banners/twc2017.jpg)
 
 **Taking 3rd place, the South Korean team showcased great tenacity and well-roundedness.** Team Captain Neta is an experienced veteran from both official and community tournaments, and under his lead the South Korean players strived for the very top. Having climbed to \#1 earlier this year, Angelsim was instrumental alongside My Aim Sucks, carrying the team forward and avoiding several close losses. While they may have lost their star Hidden player Cinia Pacifica early in the tournament, South Korea bonded closely together as – T A R U L A S - , La Valse, Enon, and Yuria did their very best keeping the team afloat all the way to Winner's Finals. Shouldering great responsibility of bringing the champion title back to Asia, the South Koreans faced considerable pressure, but their performance was nothing to be scoffed at, and momentum dictates that they will continue to be a great powerhouse in the osu! competitive scene.
 

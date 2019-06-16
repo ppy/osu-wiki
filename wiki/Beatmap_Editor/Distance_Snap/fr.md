@@ -1,5 +1,4 @@
-Espacement des notes
-=====================
+# Espacement des notes
 
 ![Un exemple de ce que l'espacement des battements donne.](img/Beatspacing.jpg "Un exemple de ce que l'espacement des battements donne.")
 

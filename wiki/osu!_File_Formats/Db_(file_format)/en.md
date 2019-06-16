@@ -1,17 +1,15 @@
-.db (file format)
-==================
+# .db (file format)
 
 **.db** files are binary files used by osu! to store various information, including a cache of beatmap properties, present users, cached replay data, and user beatmap collections.
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `C:\\Program Files (x86)\osu!\`
+-   Windows: `%localappdata%\osu!`
 -   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 
-Data Types
-----------
+## Data Types
 
 To ease the description of the format of each .db file, the following names for data types will be used. Unless otherwise specified, all numerical types are stored little-endian. Integer values, including bytes, are all unsigned. UTF-8 characters are stored in their canonical form, with the higher-order byte first.
 
@@ -27,10 +25,9 @@ To ease the description of the format of each .db file, the following names for 
 | Boolean | 1 | 0x00 for false, everything else is true |
 | String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8). |
 
-osu!.db
--------
+## osu!.db
 
-**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up ingame. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
+**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up in-game. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
 
 ### Format
 
@@ -115,8 +112,7 @@ Some data types specific to osu!.db are defined below.
 | Int | Last modification time (?) |
 | Byte | Mania scroll speed |
 
-collection.db
--------------
+## collection.db
 
 **collection.db** contains the user's beatmap collection data. This file can be transferred from one osu! installation to another. However, this will not work if the PC does not have all of the collected beatmaps installed.
 
@@ -135,8 +131,7 @@ The following will be repeated for the total number of collections.
 | Int | Number of beatmaps in the collection |
 | String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
 
-scores.db
----------
+## scores.db
 
 This database contains the scores achieved locally.
 

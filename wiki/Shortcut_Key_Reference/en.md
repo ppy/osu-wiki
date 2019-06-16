@@ -21,7 +21,7 @@ These shortcuts work anywhere:
 - `F12`: Take a screenshot
 - `Shift` + `F12`: Take a screenshot and upload to the server for sharing
 - `Insert`: ([Boss Key](https://en.wikipedia.org/wiki/Boss_key)) Minimize the osu!client into the notification area
-- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on Twitter") (when connection error appears)
 
 ## Main Menu
 
@@ -95,7 +95,7 @@ Note: Not all of these work in the [multi](/wiki/multi) mode's song select scree
 
 ### Game Modifiers
 
-_See also: [Game Modifiers](/wiki/Game_Modifiers)._
+*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
 
 **Notes:**
 
@@ -143,12 +143,13 @@ _See also: [Game Modifiers](/wiki/Game_Modifiers)._
 - `Space`: Skip opening cut-scene
 - `Tab`: Toggle scoreboard
 - `Shift` + `Tab`: Toggle in-game interface
+- `H`: Toggle scoreboard and replay interface (only available when watching a replay or spectator stream)
 - `F3` or `F4`: Adjust speed for osu!mania (only works near the beginning of playing)
 - `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the intro upon retry)
 
 ## Beatmap Editor
 
-_See also: [Beatmap Editor](/wiki/Beatmap_Editor)._
+*Main page: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
 ### General
 
@@ -167,7 +168,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Right Arrow`: Jump to next bookmark
 - `Ctrl` + `L`: Revert to saved (partial). Reloads .osu and .osb files.
 - `Ctrl` + `Shift` + `L`: Revert to saved (full). Reloads other files like hitsounds and skin elements in addition to the .osu and .osb.
-- `Ctrl` + `Shift` + `O`: Opens Difficulty Selection window. 
+- `Ctrl` + `Shift` + `O`: Opens Difficulty Selection window.
 - `Ctrl` + `S`: Quick save
 - `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
 - `Ctrl` + `Down Arrow`: Lower playback speed by 25%

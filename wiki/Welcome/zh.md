@@ -8,12 +8,12 @@
 - [安装](/wiki/Installation)
 - [规章制度](/wiki/Rules)
 - [常见问题](/wiki/FAQ)
-- 游戏模式
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [多人游戏](/wiki/Multi/#getting-started)
+- [游戏模式](/wiki/Game_Modes)
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+- [多人游戏](/wiki/Multi)
 - [Rank 标准](/wiki/Ranking_Criteria)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
@@ -22,13 +22,13 @@
 
 ## 作图
 
-*参考：[作图](/wiki/Beatmapping/#开始)。*
+*参考：[作图](/wiki/Beatmapping)。*
 
-作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/storyboarding/#开始) ， 添加[自定义皮肤](/wiki/skinning/#开始) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 *故事板作者（storyboarders）* 、 *皮肤制作者（skinners）* 和 *客串作者（guest creators）* 等职业，取决于他们在作图中扮演的角色。
+作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/Storyboarding) ， 添加[自定义皮肤](/wiki/Skinning) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 *故事板作者（storyboarders）* 、 *皮肤制作者（skinners）* 和 *客串作者（guest creators）* 等职业，取决于他们在作图中扮演的角色。
 
 ## 改图
 
-*参考：[改图](/wiki/Modding/#开始)。*
+*参考：[改图](/wiki/Modding)。*
 
 改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
 

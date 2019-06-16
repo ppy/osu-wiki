@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Clicking Styles"
-permalink: http://osunews.tumblr.com/post/56949145760/clicking-styles
 date: 2013-07-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949145760/clicking-styles
 ---
+
 What is the first thing people wonder when they see certain players on osu!? Some wonder if they play with a mouse or a tablet. Some wonder what kind of keyboard they use. These are all important for sure, but there is one thing that many seem to put off to the side.
 
 _How exactly do they hit these circles?_

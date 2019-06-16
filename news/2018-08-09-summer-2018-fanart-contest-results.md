@@ -14,7 +14,7 @@ Without further ado:
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/66/winners/Evaine.png)
 
-In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky. 
+In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky.
 
 This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a *tit*ular summer-themed contest.
 
