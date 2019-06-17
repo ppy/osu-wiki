@@ -56,16 +56,52 @@ The minimum guaranteed prizes are:
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907418)
 - [Livestream](https://www.twitch.tv/mp4k)
 - [MP4K Tournament Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Challonge](https://challonge.com/MP4K3)
 
 ---
 
 ## Participants
 
-*Qualified participants will be added in this section.*
+### Qualified Participants
+
+| Seed | Users |
+| --- | --- |
+| Top (#1 - #8) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8550320), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Triksu](https://osu.ppy.sh/users/7233032), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
+| High (#9 - #16) | ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Hvb3rt](https://osu.ppy.sh/users/7749033), ![][flag_PL] [arfuk0134](https://osu.ppy.sh/users/13618563), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297) |
+| Mid (#17 - #24) | ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943), ![][flag_PL] [PIayer69](https://osu.ppy.sh/users/10694850), ![][flag_PL] [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Marqez](https://osu.ppy.sh/users/9579664), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [klodaa](https://osu.ppy.sh/users/10584535) |
+| Low (#25 - #32) | ![][flag_PL] [FD5GD](https://osu.ppy.sh/users/9477978), ![][flag_PL] [Kush-kun](https://osu.ppy.sh/users/9922294), ![][flag_PL] [p4v31](https://osu.ppy.sh/users/7474409), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Kupamasla](https://osu.ppy.sh/users/9066667), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_PL] [ricoMeister](https://osu.ppy.sh/users/9117305), ![][flag_PL] [MrBoom](https://osu.ppy.sh/users/1837989) |
+
+### Groups
+
+| Group | Top | High | Mid | Low |
+| :-: | --- | --- | --- | --- |
+| **A** | ![][flag_PL] Arkitev | ![][flag_PL] capsafangirl | ![][flag_PL] EWGF | ![][flag_PL] ricoMeister |
+| **B** | ![][flag_PL] Triksu | ![][flag_PL] arfuk0134 | ![][flag_PL] Marqez | ![][flag_PL] Kush-kun |
+| **C** | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] Moskas | ![][flag_PL] C18-H27-NO3 | ![][flag_PL] Otis1204 |
+| **D** | ![][flag_PL] TheFalek | ![][flag_PL] Archaic84 | ![][flag_PL] klodaa | ![][flag_PL] p4v31 |
+| **E** | ![][flag_PL] Nick Wilde | ![][flag_PL] Eclipse- | ![][flag_PL] PIayer69 | ![][flag_PL] Kupamasla |
+| **F** | ![][flag_PL] SitekX | ![][flag_PL] Miq | ![][flag_PL] Felix27 | ![][flag_PL] Acrith |
+| **G** | ![][flag_PL] Tidek | ![][flag_PL] Hvb3rt | ![][flag_PL] Shadow Cultist | ![][flag_PL] FD5GD |
+| **H** | ![][flag_PL] \_underjoy | ![][flag_PL] Justin14p | ![][flag_PL] m666 | ![][flag_PL] MrBooM |
 
 ---
 
 ## Mappools
+
+### Group Stage
+
+- FreeMod
+  - [mattaku - Estpolis Denki II ~Battle #2~ (Kamikaze) \[Architect \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067886)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Kami's Hard\]](https://osu.ppy.sh/beatmapsets/684675#mania/1478702)
+  - [Gojou Kai & Nakamura Meiko - fragment of tears (\[-Seiryuu-\]) \[Another\]](https://osu.ppy.sh/beatmapsets/235122#mania/545057)
+  - [Brandy - The Festival of Ghost (Benzopirene) \[spooky lns\]](https://osu.ppy.sh/beatmapsets/954412#mania/1992551)
+  - [fripSide - Love with You (TV Size) (Hailie) \[Tofu's HD\]](https://osu.ppy.sh/beatmapsets/859025#mania/1827345)
+  - [Ushigome Rimi (CV:Nishimoto Rimi) - Chocolate no Teion Recipe (Koibenii) \[Choco Coronet \[NSV\]\]](https://osu.ppy.sh/beatmapsets/767462#mania/2038795)
+  - [Ryu - !Viva! (Spy) \[Another\]](https://osu.ppy.sh/beatmapsets/526265#mania/1116743)
+  - [she - 1997 (Benzopirene) \[exaltation\]](https://osu.ppy.sh/beatmapsets/983255#mania/2057583)
+  - [Knife Party - Bonfire (Kamikaze) \[Rage\]](https://osu.ppy.sh/beatmapsets/988569#mania/2067883)
+- Tiebreaker
+  - **[xi vs sakuzyo - STORIA (Kyousuke-) \[4K Extreme\]](https://osu.ppy.sh/beatmapsets/330438#mania/1174765)**
 
 ### Qualifiers
 
@@ -74,11 +110,13 @@ The minimum guaranteed prizes are:
   - [Skrillex - Kyoto (feat.Sirah) (Kamikaze) \[Stage 2: Precision\]](https://osu.ppy.sh/beatmapsets/984894#mania/2060731)
   - [GOTH - Ruti'n (GOTH Wild Electro Remix) (Kamikaze) \[Stage 3: Control w/ Rave\]](https://osu.ppy.sh/beatmapsets/984896#mania/2060733)
   - [Yu^ta w. Satoguchi Yu - Alien Artifact (-Rem-) \[Stage 4: Agility\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060730)
-  - [KNOWER - Time Traveler (Kamikaze) \[Stage 5: Versatility w/ Hydria\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060730)
+  - [KNOWER - Time Traveler (Kamikaze) \[Stage 5: Versatility w/ Hydria\]](https://osu.ppy.sh/beatmapsets/984893#mania/2060735)
 
 ## Match Results
 
-*All match results will be added in this section.*
+### Qualifiers
+
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml).
 
 ---
 
