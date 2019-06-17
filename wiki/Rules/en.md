@@ -42,6 +42,7 @@ A set of more detailed rules for beatmap construction exists, known as the [Rank
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hit sounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) listing, all 100% licensed for use in osu!.
 2.  **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3.  **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
+4.  **Beatmaps must not contain any content attributed to or contributed by any restricted users.** This includes graphics, audio, beatmap data and storyboard sequencing data. Existing sets uploaded before a user's restriction will be allowed to remain as is, but may not be updated or altered in any way, and cannot be Ranked or Loved until their creator returns to the community in good standing.
 
 ## Off-Topic Rules
 
