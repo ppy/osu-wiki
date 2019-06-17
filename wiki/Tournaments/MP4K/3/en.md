@@ -91,7 +91,7 @@ The minimum guaranteed prizes are:
 ### Group Stage
 
 - FreeMod
-  - [mattaku - Estpolis Denki II ~Battle #2~ (Kamikaze) \[Architect \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067886)
+  - [mattaku - Estpolis Denki II \~Battle \#2\~ (Kamikaze) \[Architect \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067886)
   - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Kami's Hard\]](https://osu.ppy.sh/beatmapsets/684675#mania/1478702)
   - [Gojou Kai & Nakamura Meiko - fragment of tears (\[-Seiryuu-\]) \[Another\]](https://osu.ppy.sh/beatmapsets/235122#mania/545057)
   - [Brandy - The Festival of Ghost (Benzopirene) \[spooky lns\]](https://osu.ppy.sh/beatmapsets/954412#mania/1992551)
