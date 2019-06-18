@@ -67,6 +67,8 @@ Additionally, for a period of one year, we will not grant any flag changes for y
 
 In some cases, an appeal returnee may be banned from official or badged tournaments. This ban lasts one year and cannot be discussed. Some offences lead to a permanent ban from tournaments and higher positions.
 
+Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to poke us on twitter or by mail if this happens to you!
+
 ## My appeal has been denied!
 
 There are several reasons why an appeal might be denied.
