@@ -69,6 +69,8 @@ In some cases, an appeal returnee may be banned from official or badged tourname
 
 Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to poke us on twitter or by mail if this happens to you!
 
+Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
+
 ## My appeal has been denied!
 
 There are several reasons why an appeal might be denied.
