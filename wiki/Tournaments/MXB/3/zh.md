@@ -33,7 +33,7 @@ tags:
 
 ## 工作人员
 
-| Position | Members |
+| 职位 | 成员 |
 | :-: | :-- |
 | 比赛经理 | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
 | 比赛监督 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
@@ -50,6 +50,14 @@ tags:
   - [IA daisuki](https://live.bilibili.com/4353181)
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
+
+## 颁奖
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠](/wiki/shared/GCrown.png "第一名") | [A M D](https://osu.ppy.sh/users/5321112) （比赛时昵称为 amxmodx） |
+| ![银冠](/wiki/shared/SCrown.png "第二名") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![铜冠](/wiki/shared/BCrown.png "第三名") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## 参赛选手
 
@@ -166,6 +174,13 @@ tags:
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## 比赛结果
+
+### 决赛第二周
+
+| 选手 | 得分 | 得分 | 选手 |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 0 | **1** | **shizehao** |
+| **amxmodx** | **6** | 1 | shizehao |
 
 ### 决赛第一周
 

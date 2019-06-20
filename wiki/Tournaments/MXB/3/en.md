@@ -51,6 +51,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
 
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) (a.k.a amxmodx) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+
 ## Participants
 
 |  |  |  |  |
@@ -166,6 +172,13 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Shawn Wasabi - Marble Soda \[Stage 4: Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
 
 ## Match Results
+
+### Finals - Week 2
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 0 | **1** | **shizehao** |
+| **amxmodx** | **6** | 1 | shizehao |
 
 ### Finals - Week 1
 
