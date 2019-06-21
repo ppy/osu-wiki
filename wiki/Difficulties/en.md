@@ -39,11 +39,11 @@ The above star rating ranges determine which web icon is going to be used on any
 
 ### osu!taiko
 
-- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
-- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu)
-- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
-- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (sometimes called _Inner Oni_)
+- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan) (meaning "easy")
+- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu) (meaning "ordinary")
+- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii) (meaning "difficult")
+- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni) (meaning "demon")
+- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (meaning "back demon"; sometimes called _Inner Oni_)
 
 ### osu!catch
 
