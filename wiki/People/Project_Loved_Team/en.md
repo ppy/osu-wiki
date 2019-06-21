@@ -16,10 +16,9 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) | osu! captain |
 | ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691) | osu! captain |
 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | osu! captain |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | News and forum post writer, mapper contact |
 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! captain |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Beatmap updater |
 | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | osu! captain |
+| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | General maintainer |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko captain |
 | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | osu!taiko captain |
 | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573) | osu!mania captain |
@@ -35,12 +34,12 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265) | osu!catch captain |
 | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | osu!catch captain |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
+[flag_LT]: /wiki/shared/flag/LT.gif
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
