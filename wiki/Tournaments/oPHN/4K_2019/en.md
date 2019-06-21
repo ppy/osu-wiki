@@ -48,6 +48,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
 - [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
 - [Twitch](https://www.twitch.tv/osuliveph)
+- [Challonge](https://challonge.com/oPHN4K19)
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
 ---
@@ -64,6 +65,27 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ---
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
+
+- FreeMod
+  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmaps/1190462)
+  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmaps/802114)
+  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmaps/2038639)
+  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmaps/2039384)
+  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmaps/1994717)
+  - [ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]](https://osu.ppy.sh/beatmaps/1678448)
+  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmaps/1514656)
+  - [Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]](https://osu.ppy.sh/beatmaps/2019849)
+  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmaps/1801301)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmaps/1870722)
+  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmaps/1509208)
+  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
+- Tiebreaker
+  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmaps/1779774)**
 
 ### Group Stage
 
@@ -114,6 +136,46 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ---
 
 ## Match Results
+
+### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
+
+| Thursday, 2019-06-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Swarmsii** | **5** | 2 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52582100) |
+
+| Friday, 2019-06-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **ChristsuGaming** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52606297) |
+| **windrush123** | **5** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52606070) |
+| realqarp | 3 | **5** | **nathan on mania** | [#1](https://osu.ppy.sh/community/matches/52606332) |
+| **- Kura -** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52608617) |
+
+| Saturday, 2019-06-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Arccat** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52630036) |
+| **windrush123** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52632922) |
+| **Swarmsii** | **5** | 0 | ChristsuGaming | [#1](https://osu.ppy.sh/community/matches/52634067) |
+| **Arccat** | **5** | 3 | Shiyui- | [#1](https://osu.ppy.sh/community/matches/52635037) |
+| **windrush123** | **5** | 1 | Shiyui- | [#1](https://osu.ppy.sh/community/matches/52636094) |
+| **Silhoueska Elze** | **5** | 0 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52637562) |
+| **realqarp** | **5** | 0 | Lordie09 | [#1](https://osu.ppy.sh/community/matches/52639347) |
+| **Silhoueska Elze** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52638906) |
+| **Shiyui-** | **5** | 1 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52639494) |
+
+| Sunday, 2019-06-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Lordie09** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52657820) |
+| **realqarp** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52658913) |
+| **- Kura -** | **5** | 0 | ChristsuGaming | [#1](https://osu.ppy.sh/community/matches/52661325) |
+| **Koibenii** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661333) |
+| **GTXCZE** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661967) |
+| Silhoueska Elze | 2 | **5** | **Koibenii** | [#1](https://osu.ppy.sh/community/matches/52662954) |
+| **- Kura -** | **5** | 0 | Swarmsii | -win by default- |
+| **Koibenii** | **5** | 4 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52664687) |
+| **nathan on mania** | **5** | 0 | Chez | -win by default- |
+| **nathan on mania** | **5** | 0 | Lordie09 | -win by default- |
 
 ### Play-offs
 
