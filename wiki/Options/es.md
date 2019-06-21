@@ -1,10 +1,10 @@
 ---
 outdated: true
 ---
+
 <img src="OptionsBase_ES.png" title="Menú de opciones" alt="Menú de opciones" width="300" />
 
-Opciones
-========
+# Opciones
 
 Reinicia osu! si algo no funciona como debería. Clic en "Opciones" o presiona "O" en la pantalla de inicio para acceder a la barra de opciones y cambiar el modo en que osu! funciona.
 
@@ -18,8 +18,7 @@ To find the build of your osu!, scroll down to the lowest part of the sidebar (o
 -   b(YYYY)(MM)(DD).(revision)(BuildType) = Test Build.
     -   So, b20151113.8cuttingedge means Cutting Edge Build as of 13th of November 2015, eighth revision.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") General section
-------------------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") General section
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
 
@@ -165,8 +164,7 @@ For contribution: <a href="https://osu.ppy.sh/community/forums/topics/104342/" c
 </tbody>
 </table>
 
-![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Graphics section
------------------------------------------------------------------------
+## ![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Graphics section
 
 <img src="optionsscreengraphics1.jpg" title="Graphics Tab" alt="Graphics Tab" width="300" />
 
@@ -381,8 +379,7 @@ Play &quot;<a href="http://soundcloud.com/nekodex/welcome-to-christmas">nekodex 
 </tbody>
 </table>
 
-![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Gameplay section
------------------------------------------------------------------------
+## ![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Gameplay section
 
 <img src="Options Gameplay.jpg" title="fig:Gameplay section" alt="Gameplay section" width="300" /> <img src="OP PBP.jpg" title="fig:Progress display placement" alt="Progress display placement" width="200" /> <img src="Input key overlay.jpg" title="fig:Input key overlay" alt="Input key overlay" width="200" />
 
@@ -488,8 +485,7 @@ Default is 1.00x. Size range from 0.50x - 2.00x.</p></td>
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------|
 | up to                 | Adjusting this will **hide** all the beatmaps higher than selected star value and show others lower. (Defaults to 10) |
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio section
---------------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio section
 
 <img src="optionsaudio1.jpg" title="Audio tab" alt="Audio tab" width="300" />
 
@@ -530,8 +526,7 @@ Note: Your current playing song on your jukebox will be used.
 4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
 5.  Your jukebox. The currently playing song's BPM is shown as ticks.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin section
------------------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin section
 
 <img src="Optionsskin.jpg" title="Skin Tab" alt="Skin Tab" width="300" />
 
@@ -600,8 +595,7 @@ Set 4: Score numbers</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Input section
---------------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Input section
 
 <img src="optionsinput1.jpeg" title="Input Tab" alt="Input Tab" width="300" />
 
@@ -776,8 +770,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor section
------------------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor section
 
 <img src="Options Editor.jpg" title="Editor section" alt="Editor section" width="300" />
 
@@ -826,8 +819,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online section
------------------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online section
 
 <img src="optionsonline1.jpeg" title="Online Tab" alt="Online Tab" width="300" />
 
@@ -979,8 +971,7 @@ Enable this if you use a controller or joystick to play osu!mania.</p></td>
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Maintenance section
-----------------------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Maintenance section
 
 <img src="optionsmaintenance.png" title="Maintenance Tab" alt="Maintenance Tab" width="300" />
 
@@ -1115,8 +1106,7 @@ Please note: you may have to restart osu! after toggling these as some of these 
 </tbody>
 </table>
 
-Old Screen(s)
-=============
+# Old Screen(s)
 
 The screen(s) *used* to be available in the Options menu. You can access this screen in specific way(s).
 

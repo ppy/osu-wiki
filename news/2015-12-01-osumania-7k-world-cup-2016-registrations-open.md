@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2016 - Registrations open!"
-permalink: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-2016-registrations-open
 date: 2015-12-01 11:00:37 +0000
 tumblr_url: http://osunews.tumblr.com/post/134326008483/osumania-7k-world-cup-2016-registrations-open
 ---
+
 We would like to welcome all of you to new year's official osu!mania World Cups, starting with the 7-key edition! To ensure that you are aware of everything, please [read our wiki article carefully](https://osu.ppy.sh/wiki/MWC_7K_2016)  before registering for this tournament.
 
 ![](/wiki/shared/news/banners/MWC7K_2016.png)
@@ -28,7 +28,6 @@ We would like to welcome all of you to new year's official osu!mania World Cups,
 ## Prizes
 
 We are aiming to have a minimum $1,900 cash prize pool for this world cup. We will be announcing a way you can help raise funds for the prize pool shortly, so stay tuned!
-
 
 + 1st: 50% of the raised prize pool, profile badge, "osu!mania Champion" user title
 + 2nd: 38% of the raised prize pool, profile badge

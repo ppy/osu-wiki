@@ -3,11 +3,12 @@ layout: post
 title: "osu!taiko World Cup - Semifinals Recap"
 date: 2018-05-05 10:30:00 +0000
 ---
+
 Did you miss the past weekend of matches in the osu!taiko World Cup? Don't worry, as Eiuh helps you catch up on what went down in the Semifinals!
+
 ![](/wiki/shared/news/banners/TWC_2018_banner.jpg)
 
 The Semifinals offered some very exciting matches, including the first tiebreaker we've seen since Group Stage. Let's walk through them, shall we?
-
 
 ### Semifinals Matches
 
@@ -36,7 +37,6 @@ A few reflections on the cup by the Australian player [Jaye](https://osu.ppy.sh/
 
 In the last match of the weekend, the journey of the last European team came to an end. Canada had a player fail on the HardRock map [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086#taiko/1507092) for the second time this weekend, but besides that they didn't give Spain any way into the game and could close it out more convincingly than in their match against Hong Kong. It ended 6-1 for the Canadians.  
 
-
 ### Semifinals Mappool
 
 In Semifinals, every map was picked atleast once (including tiebreaker!) and the most common bans by far were [Whispered - Strike!](https://osu.ppy.sh/beatmapsets/713086/#taiko/1507092) (HardRock) and [Hitori Tori - perthed again (yambabom remix)](https://osu.ppy.sh/beatmapsets/313081/#taiko/701069) (Hidden). For some more insight on the pool, let's hear what the map selectors had to say about it.
@@ -51,13 +51,11 @@ In Semifinals, every map was picked atleast once (including tiebreaker!) and the
 
 *Overall, Nwolf and I are pleasantly surprised with the success of the Semifinals Mappool. After all, who wouldn't be satisfied with a tiebreaker match after a two week drought? With Finals Mappool released, we look forward to hearing your thoughts and feedback in the comments below!"* —[mangomizer](https://osu.ppy.sh/users/1893718)
 
-
 ### Finals Preview
 
 This weekend we'll be seeing 4 matches. While that may not sound like a lot, the importance of each match cannot be overstated. Also, keep in mind that the matches from now on will be Best-Of-13 and can last a very long time as a result.
 
 In the winners bracket, the undefeated teams of Japan and Taiwan will battle for a spot in the Grand Final. In the losers bracket, we'll be seeing atleast two matches between North America and Asia, as the first two matchups are South Korea versus Canada and United States versus Indonesia. The winners of these two matches will face each other for a spot in the top 3, where they later compete with either Japan or Taiwan for the Grand Finals spot. If all of this sounds complicated, you can have a look at the bracket on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/).
-
 
 ### Useful Links
 

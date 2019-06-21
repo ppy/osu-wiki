@@ -1,10 +1,8 @@
-Insane
-====================
+# Insane
 
 Insaneの難易度は一般的な4難易度構成の譜面で最も難しい[難易度となります](/wiki/Difficulties)。一般的にMapperのスキルの模範となるもので、簡単に創造的な譜面を作れる難易度でもあります。難易度名の"Lunatic"(*Touhou* で最も難しい難易度)や *Another* (*IIDX beatmania* シリーズ)、*Extreme* (*Jubeat* シリーズ)は"Insane"と同じ意味として扱われます。
 
-Settings
---------
+## Settings
 
 あくまでもこれは一般的な例であり、難易度設定は曲とMapperのスタイルに依存します。
 

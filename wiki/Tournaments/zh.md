@@ -2,13 +2,11 @@
 outdated: true
 ---
 
-锦标赛
-===============
+# 锦标赛
 
 本页面展示锦标赛。 [论坛链接](https://osu.ppy.sh/community/forums/55)
 
-官方世界杯
-----------------------
+## 官方世界杯
 
 官方锦标赛由锦标赛管理组负责
 
@@ -54,8 +52,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!mania 4K 世界杯 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] 美国                       | ![][flag_JP] 日本                       | ![][flag_GB] 英国                          |
 | [osu!mania 7K 世界杯 2016](/wiki/Tournaments/MWC/2016_7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] 中国                     | ![][flag_KR] 韩国                 | ![][flag_MY] 马来西亚                    |
 
-Community
-----------
+## Community
 
 非官方的锦标赛由社区成员自发举办。
 
@@ -76,8 +73,13 @@ Community
 | --- | --- | --- | --- | --- | --- |
 | [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
-参见
----------
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+
+| 名称 | 日期 | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
+| --- | --- | --- | --- | --- |
+| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+
+## 参见
 
 -   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)

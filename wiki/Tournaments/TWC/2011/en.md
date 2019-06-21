@@ -3,6 +3,7 @@ tags:
 - TWC 2011
 - TWC2011
 ---
+
 # Taiko World Cup 2011
 
 ![TWC 2011 Logo](img/logo.png)

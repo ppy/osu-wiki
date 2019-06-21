@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <!-- Informasi mengenai BanchoBot -->
 # BanchoBot
 

@@ -3,6 +3,7 @@ tags:
 - CWC 2017
 - CWC2017
 ---
+
 # osu!catch World Cup 2017
 
 ![CWC 2017 Logo](img/logo.png)

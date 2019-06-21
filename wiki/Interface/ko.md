@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 **들어가기 전에**
 이 문서는 영문문서를 번역 및 내용 추가한 문서 입니다.(b20140320.4 버전 기준)
 이 문서에는 오탈자 및 실제 유저가 사용하지 않는 단어가 있을 수 있습니다. 찾으면 수정해주세요.
@@ -22,8 +23,7 @@ outdated: true
 -   11. 상단중앙에는 비트맵의 수, 오스!의 실행시간과 현재 컴퓨터의 시간을 볼 수 있습니다.
 -   12. 좌측상단에는 사용자패널이 있습니다. 누르면 사용자설정이 나옵니다.
 
-**사용자설정**
---------------
+## **사용자설정**
 
 <img src="useroptions1.png" title="유저 옵션" alt="유저 옵션" width="280" />
 
@@ -34,8 +34,7 @@ outdated: true
 3.  **Change Avatar**(아바타 변경): 웹 브라우저를 열어 아바타 설정 페이지를 띄웁니다.
 4.  **Close**(닫기) : 사용자설정화면을 닫습니다.
 
-**플레이 메뉴**
-===============
+# **플레이 메뉴**
 
 <img src="Introscreen2.jpg" title="플레이 메뉴" alt="플레이 메뉴" width="280" />
 
@@ -49,8 +48,7 @@ outdated: true
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-**선곡화면**
-------------
+## **선곡화면**
 
 <img src="soloplay1.jpeg" title="선곡화면" alt="선곡화면" width="300" />
 
@@ -186,8 +184,7 @@ OD(Overall Difficulty, 전반적 난이도):히트오차와 스핀의 난이도�
 -   "Enter"키를 누르거나
 -   우측하단에 있는 오스!로고를 클릭
 
-하면 됩니다.
-----
+## 하면 됩니다.
 
 <img src="soloplay7.jpeg" title="fig:soloplay7.jpeg" alt="soloplay7.jpeg" width="400" /> <img src="Mode screen.png" title="fig:게임 모드 목록" alt="게임 모드 목록" width="100" /> 여기는 도구모음입니다. 왼쪽에서 오른쪽으로 설명합니다.
 
@@ -231,11 +228,9 @@ Back을 누르거나 ESC키를 눌러 메인메뉴로 나갈 수 있습니다.
 
 **오스!로고**를 누르면 **선택된 비트맵을 시작**합니다.
 
-**랭킹화면**
-============
+# **랭킹화면**
 
-**성적창**
-----------
+## **성적창**
 
 이 화면은 성적창입니다. 무사히 맵을 통과했을 때 뜹니다. 아래로 스크롤을 내리거나 "Online Ranking"버튼을 눌러 아래에 있는 온라인 랭킹을 볼 수 있습니다.
 
@@ -243,8 +238,7 @@ Back을 누르거나 ESC키를 눌러 메인메뉴로 나갈 수 있습니다.
 
 Accuracy\_osu!.jpg| 스탠다드 Taiko grade.jpg| 태고 (태고 스킨 사용) Accuracy\_CtB.jpg| 캐치 더 비트 Accuracy\_Mania.jpg| 마니아 Multi-play record.png| 멀티플레이 : Head-To-Head (개인전) Multiplay Co-Op Grade.jpg| 멀티플레이 : Tag Coop (협동) Multiplay Team Grade.jpg| 멀티플레이 : Team Vs (팀)
 
-**온라인 스코어 리더보드**
---------------------------
+## **온라인 스코어 리더보드**
 
 팁: 배경은 어떤 게임 모드로 플레이 했는지에 따라 다르게 나타납니다.
 

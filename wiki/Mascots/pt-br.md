@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
+
 Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
-Mascotes do osu!
-============
+# Mascotes do osu!
 
-Pippi
------
+## Pippi
 
 ![Pippi](Pippi_Daru_Header.png "Pippi")
 
@@ -46,8 +45,7 @@ Feminino
 #### Biografia
 (a ser adicionada)
 
-Yuzu
-----
+## Yuzu
 
 ![Yuzu](Yuzu_Profile.png "Yuzu")
 
@@ -82,8 +80,7 @@ Masculino
 #### Biografia
 [Introdução](https://osu.ppy.sh/news/89483664163) (a ser adicionada)
 
-Maria
------
+## Maria
 
 ![Maria](Maria_Profile.jpeg "Maria")
 
@@ -117,11 +114,9 @@ Feminino
 #### Biografia
 [Introdução](https://osu.ppy.sh/news/143103453693) (a ser adicionada)
 
-Cameos
-======
+# Cameos
 
-Ryūta Ippongi
--------------
+## Ryūta Ippongi
 
 ![Ryuuta](Fruit_ryuuta.png "Ryuuta")
 
@@ -158,8 +153,7 @@ Masculino
 #### Biografia
 Ele é o líder de sangue quente da equipe de elogios. Ele tem uma boa alma e ajuda aqueles ao seu redor que estão em perigo, levantando e lutando por eles!
 
-Agent J
--------
+## Agent J
 
 ![Agent J](J_chibi_Header.png "Agent J")
 
@@ -194,8 +188,7 @@ Masculino
 #### Biografia
 Um especialista em muitos estilos de dança que vão desde hip-hop até balé, J pode hipnotizar qualquer coisa viva.
 
-Don
----
+## Don
 
 ![Don](Don-chan_Taiko.png "Don")
 

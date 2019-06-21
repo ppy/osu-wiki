@@ -1,5 +1,4 @@
-Expert
-============
+# Expert
 
 Dans les moyens de pousser et d'étendre le beatmapping, la difficulté Expert à été créée pour désigner des beatmaps de difficulté ressemblante à [Insane](/wiki/Difficulties/osu!/Insane) mais en plus dur.
 
@@ -11,8 +10,7 @@ De façon caractéristique, les difficultés Expert sont des maps difficiles, co
 
 Une erreur de mapping récurrente sur les maps Expert (tout comme des maps Insane) est l'*[overmapping](/wiki/Glossary)*, qui a souvent pour conséquence d'augmenter considérablement le nombre d'étoiles de difficulté de la map.
 
-Paramètres de la map
---------------------
+## Paramètres de la map
 
 *Note: il s'agit seulement d'une suggestion générale. Le niveau de difficulté varie en fonction de la musique elle même et du style du mappeur."*
 

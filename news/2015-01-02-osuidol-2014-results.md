@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!idol 2014 Results"
-permalink: http://osunews.tumblr.com/post/106902823593/osuidol-2014-results
 date: 2015-01-02 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/106902823593/osuidol-2014-results
 ---
+
 The osu!idol contest just concluded, so lets wrap this up!
 
 ![](http://78.media.tumblr.com/0ee146ce4ea607d6c9a03c25866f0731/tumblr_inline_nhjyauVGuz1s6rj41.png)

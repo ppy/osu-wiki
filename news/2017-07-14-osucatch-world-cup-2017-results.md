@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "osu!catch World Cup 2017 - Results"
-permalink: http://osunews.tumblr.com/post/162821221298/osucatch-world-cup-2017-results
 date: 2017-07-14 11:15:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162821221298/osucatch-world-cup-2017-results
 ---

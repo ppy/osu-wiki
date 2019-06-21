@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #5 - Submissions Now Open!"
-permalink: http://osunews.tumblr.com/post/85034669678/monthly-beatmapping-contest-5-submissions-now
 date: 2014-05-07 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/85034669678/monthly-beatmapping-contest-5-submissions-now
 ---
+
 Calling all mappers! After a brief hiatus, the Monthly Beatmapping Contest is back! With our heckles warmed from W h i t e's record breaking performance in our last MBC, it's time for a new track to spur our mappers to new heights of creativity!
 
 The song choice for this month is Rameses B - Flaklypa, a remix of the The Pinchcliffe Grand Prix commissioned especially for a high-school graduation ceremony in Norway known as russefeiring (or simply, russ). A variety of layered sounds and beats add a Noisia-esque touch to this track, with dips and dives that are certain to bring out a glint in every astute mapper's eye. Listen to the song below:

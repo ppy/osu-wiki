@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-Das Team
-==========
+# Das Team
 
-Gründer
-----------------------
+## Gründer
 
 | Name | Beschreibung |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Projektleiter |
 
-Aktive
-----------------------
+## Aktive
 
 | Name | Beschreibung |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ Aktive
 | [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Professor, Medien/Charakter Design |
 | [Zallius](https://osu.ppy.sh/users/55) | Gefährdete Spezies |
 
-Inaktive
-----------------------
+## Inaktive
 
 | Name | Beschreibung |
 | ---- | ----------- |
@@ -46,8 +42,7 @@ Inaktive
 | [Sinistro](https://osu.ppy.sh/users/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
 
-Benutzergruppen
-----------------------
+## Benutzergruppen
 
 | Name | Beschreibung |
 | ---- | ----------- |

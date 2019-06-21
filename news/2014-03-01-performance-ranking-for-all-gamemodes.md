@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Performance ranking for all gamemodes"
-permalink: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 date: 2014-03-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 ---
+
 Finally the performance rankings for Taiko, Catch the Beat and osu!mania reached a point where they can be used as official ranking systems. You can find your new rank in your profile and the performance ladder [here](https://osu.ppy.sh/p/pp).
 
 I'd like to mention, that the performance ranking is in no way finalized and you can expect frequent changes to the ranking system especially in Taiko, Catch the Beat and osu!mania. Your feedback will be used to steer these changes.

@@ -96,7 +96,7 @@ Price: **USD$1.99**
 **Packlist:-**
 
 - Cranky - 1970 - [IceBeam][IceBeam] - ![2][dif4]
-- Cranky - Crocus - [Xgor][Xgor] - ![2][dif4]		
+- Cranky - Crocus - [Xgor][Xgor] - ![2][dif4]
 - Cranky - Into the Unknown - [Samah][Samah] - ![4][dif8]
 - Cranky - Dee Dee Cee - [D33d][D33d] - ![4.5][dif9]
 

@@ -4,6 +4,7 @@ tags:
 - oPHF2018
 - oPHF18
 ---
+
 # osu!Philippines Holiday Friendlies 2018
 
 ![oPHF2018 Logo](img/logo.png)
@@ -359,15 +360,15 @@ The following players are the people who managed to pull through the whole compe
 [**Download the mappack here! (35.7 MB)**](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)
 
 - NoMod
-	- [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmaps/1773874)
-	- [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmaps/1261914)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmaps/1773874)
+  - [96neko - Aimai Elegy (Lasse) \[Absence\]](https://osu.ppy.sh/beatmaps/1261914)
 - Hidden
-	- [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmaps/1502635)
+  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Insane\]](https://osu.ppy.sh/beatmaps/1502635)
 - HardRock
-	- [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmaps/1477261)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Jace's Insane\]](https://osu.ppy.sh/beatmaps/1477261)
 - DoubleTime
-	- [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmaps/1482857)
-  
+  - [Kana Nishino - Still love you (Modem) \[Goodbye\]](https://osu.ppy.sh/beatmaps/1482857)
+
 ### osu!taiko
 
 #### Finals Week 2
@@ -477,7 +478,7 @@ The following players are the people who managed to pull through the whole compe
   - [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/1319575)
 - Tiebreaker
   - [**Felt - Day after (Senritsu) \[Oni\]**](https://osu.ppy.sh/beatmaps/718430)
-	
+
 ### osu!catch
 
 #### Finals Week 2
@@ -544,7 +545,7 @@ The following players are the people who managed to pull through the whole compe
   - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (Seni) \[Each And Every Word Leaves Me Here Alone\]](https://osu.ppy.sh/beatmaps/1270000)
   - [Zhou Li Ming - Pi Li Pa La (bakabaka) \[Extra\]](https://osu.ppy.sh/beatmaps/363010)
 - Hidden
-  - [Twin-Tails - Twintail Dreamer! (Minorsonek	) \[Nyukai's Extreme\]](https://osu.ppy.sh/beatmaps/1624963)
+  - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[Nyukai's Extreme\]](https://osu.ppy.sh/beatmaps/1624963)
   - [ITO KASHITARO - Hyakka Ryouran (F D Flourite) \[Sparks\]](https://osu.ppy.sh/beatmaps/1813016)
   - [Go Ichinose - Champion Daigo (MBomb) \[MBomb's Heavy Rain\]](https://osu.ppy.sh/beatmaps/740055)
 - HardRock
@@ -1199,7 +1200,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
   - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
-	
+
 #### osu!taiko
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
@@ -1208,7 +1209,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
   - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
-	
+
 #### osu!catch
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.

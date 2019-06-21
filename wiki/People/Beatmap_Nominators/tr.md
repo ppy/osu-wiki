@@ -1,27 +1,25 @@
 ---
 outdated: true
 ---
+
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
-========================
+# Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
 
 **Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Submission/Beatmap_Ranking_Procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
 Bu grup yakın zamanda pek çok değişiklikten geçti.
 22 Ağustos 2014 tarihinden itibaren ekibin bir parçası değiller, yani oyun içi sohbet möderatörlüğü yetkileri, oyun içindeki ve forumlardaki kırmızı isimleri kaldırıldı.
 Yapılan en son değişiklik 1 Şubat 2015'te, grubun ismi Beatmap Appreciation Team (BAT) yerine Beatmap Nomination Group (BNG) olarak değiştirilmesi ile gerçekleşti.
 
-Roller ve Sorumluluklar
---------------------------
+## Roller ve Sorumluluklar
 
 ![The Nominator Badge](Nominator.png "The Nominator Badge")
 
 **Beatmap Aday Gösterme Grubunun** üyeleri ana olarak [beklemedeki beatmapların](/wiki/Beatmaps)  derecelendirme döngüsüne sokmak için [modlanması](/wiki/Modding) ile sorumludur.
 BNler herhangi bir modlama işi ya da maplama ve modlama hakkında tavisye istemek için gidilecek ilk kişilerdir.
 
-Bir BN olmak
-----------------------------
+## Bir BN olmak
 
 Takıma 22 Ağustos 2014'te yapılan değişiklikle, Beatmap Aday Gösterme Grubuna katılmak eskisine kıyasla çok daha kolay.
 [Kalite Kontrol Takımı (QAT)](https://osu.ppy.sh/groups/7) [Pending Beatmaps Altforumuna](https://osu.ppy.sh/community/forums/6) düzensiz aralıklarla BN kayıtları için duyuru başlıkları açarlar.
@@ -54,8 +52,7 @@ BNG'ye katılmak isteyen bir modder:
   + osu!: 1100
 + Adayların yukarıdaki değerlerin katılan aday sayısına başlı olarak değişkenlik gösterebilmesi sebebiyle kendi skorlarını bu skorlardan yüksekte tutması iyi bir fikirdir.
 
-Takım Üyeleri
-------------
+## Takım Üyeleri
 
 _Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/groups/28).
 

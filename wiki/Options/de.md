@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="DEoptionen.png" title="Optionsmenü (die Leiste zur Linken)" alt="Optionsmenü (die Leiste zur Linken)" width="600" />
 
 # Optionen
@@ -232,8 +233,7 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 </tbody>
 </table>
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio
-------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio
 
 ### Lautstärke
 
@@ -262,8 +262,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 4.  Klick auf "zurück" oder die Taste "ESC", um zu den Einstellungen zurückzukehren. Dadurch wird der universale Offset aktualisiert.
 5.  Ihre Jukebox. Benutzt den BPM-Wert des aktuell abgespielten Songs als Tickrate.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin
----------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin
 
 ### [Skin](Skin "wikilink")
 
@@ -332,8 +331,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Steuerung
-----------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Steuerung
 
 ### Maus
 
@@ -569,8 +567,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor
----------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor
 
 ### Allgemein
 
@@ -603,8 +600,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
----------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
 
 ### Meldungen und Privatsphäre
 
@@ -750,8 +746,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Wartung
-----------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Wartung
 
 ### Allgemein
 

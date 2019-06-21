@@ -29,8 +29,7 @@ Voici quatre solutions pour effectuer ce signalement :
 == Utiliser certains périphériques peut être considéré comme de la triche ?== Les périphériques comme des tablettes graphiques ou des écrans tactiles ne posent aucun problème. Tous les périphériques pouvant diminuer le niveau de compétence requis pour jouer ne l'est pas. Ce qui veut dire qu'utiliser plusieurs PC, plus de deux touches pour jouer ou tout ce qui s'y rapporte est considéré comme de la triche.
 Evidemment, il n'est pas possible pour le staff de vous surveiller derrière votre écran, mais si vous avez été accusé de ce genre de pratiques, prendre une vidéo (avec une caméra) de votre jeu sur une map pourrait aider.
 
-Comment puis-je demander mon débannissement en cas d'erreur ?
--------------------------------------------------------------
+## Comment puis-je demander mon débannissement en cas d'erreur ?
 
 Envoyez un mail à <accounts@ppy.sh> et utilisez le sujet "Ban Appeal: <username>".
 Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportement ou manière de jouer n'aurait pas dû conduire à un bannissement.

@@ -4,8 +4,8 @@ tags:
 - LMS Shift
 - LMSShift
 ---
-Taiko LMS: Shift Cup
-=============================
+
+# Taiko LMS: Shift Cup
 
 ![Taiko LMS: Shift Cup](banner.jpg)
 

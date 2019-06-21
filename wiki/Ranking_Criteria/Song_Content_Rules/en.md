@@ -1,5 +1,4 @@
-Song Content Rules
-==================
+# Song Content Rules
 
 With a wide variety of music available, most tracks will be fine for use in osu!, providing that they are not:
 

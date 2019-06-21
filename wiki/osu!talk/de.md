@@ -1,8 +1,6 @@
-osu!talk
-==================
+# osu!talk
 
-Einführung
-------------
+## Einführung
 
 ![osu!talk logo](osu!talk.jpg "osu!talk logo")
 
@@ -11,8 +9,7 @@ Einführung
 
 **osu!talk** ist eine Podcast Serie, die von ztrot und Charles445 geführt wird, die sich mit vielen Leuten aus der Community unterhalten. Durch die Art und Weise wie die Podcast Serie aufgestellt wurde, kann jeder, der Lust und Interesse hat, am Podcast live teilnehmen und am Ende im Frage&amp;Antwort Teil seine Frage(n) zum Thema/zur Person stellen.
 
-Episoden
-----------
+## Episoden
 
 | \#         | Episoden (alle auf Englisch)                                                                          |
 |------------|-------------------------------------------------------------------------------------------------------|
@@ -35,8 +32,7 @@ Episoden
 | Episode 17 | [mit RBRat3 - osu!painter (23:37)](https://www.youtube.com/watch?v=kSotXmkCN4I)                             |
 
 
-Spezialfolgen
---------------
+## Spezialfolgen
 
 | \#              | Spezialfolgen (alle auf Englisch)                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------------------------|

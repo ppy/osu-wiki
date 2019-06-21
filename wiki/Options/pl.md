@@ -1,10 +1,10 @@
 ---
 outdated: true
 ---
+
 <img src="Options Base.jpg" title="Opcje (tak, chodzi o ten panel boczny)" alt="Opcje (tak, chodzi o ten panel boczny)" width="300" />
 
-Opcje
-=====
+# Opcje
 
 `Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
 
@@ -20,8 +20,7 @@ Aby dowiedzieć się na jakim buildzie pracuje osu!, przejdź do najniższej cz�
 -   b(YYYY)(MM)(DD).(korekta)(TypBuildu) = Testowy Build.
     -   b20151113.8cuttingedge to Eksperymentalny Build z 13 listopada 2015, ósma korekta.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Ogólne
----------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Ogólne
 
 <img src="Options General.jpg" title="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" alt="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" width="300" />
 
@@ -167,8 +166,7 @@ Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/community/forums/topics
 </tbody>
 </table>
 
-![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafika
---------------------------------------------------------------
+## ![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafika
 
 <img src="optionsscreengraphics1.jpg" title="Sekcja Grafiki" alt="Sekcja Grafiki" width="300" />
 
@@ -374,8 +372,7 @@ Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/community/forums/topics
 </tbody>
 </table>
 
-![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Rozgrywka
-----------------------------------------------------------------
+## ![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Rozgrywka
 
 <img src="Options Gameplay.jpg" title="fig:Sekcja Rozgrywki" alt="Sekcja Rozgrywki" width="300" /> <img src="OP PBP.jpg" title="fig:Rozmieszczenie paska postępu" alt="Rozmieszczenie paska postępu" width="200" /> <img src="Input key overlay.jpg" title="fig:Nakładka klawiszy" alt="Nakładka klawiszy" width="200" />
 
@@ -481,8 +478,7 @@ Domyślnie ustawiona jest na 1.00x. Możesz ustawić od 0.50x do 2.00x.</p></td>
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | do                 | Regulowanie tego paska **ukryje** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i pokaże resztę. (Domyślnie ustawione na 10) |
 
-![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
--------------------------------------------------------
+## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
 
 <img src="optionsaudio1.jpg" title="Sekcja Dźwięku" alt="Sekcja Dźwięku" width="300" />
 
@@ -523,8 +519,7 @@ Note: Your current playing song on your jukebox will be used.
 4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
 5.  Your jukebox. The currently playing song's BPM is shown as ticks.
 
-![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skórka
------------------------------------------------------
+## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skórka
 
 <img src="Optionsskin.jpg" title="Sekcja Skórki" alt="Sekcja Skórki" width="300" />
 
@@ -597,8 +592,7 @@ Zestaw 4: Cyfry Score</p></td>
 </tbody>
 </table>
 
-![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Sterowanie
------------------------------------------------------------
+## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Sterowanie
 
 <img src="optionsinput1.jpeg" title="Sekcja Sterowania" alt="Sekcja Sterowania" width="300" />
 
@@ -773,8 +767,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Edytor
----------------------------------------------------------
+## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Edytor
 
 <img src="Options Editor.jpg" title="Sekcja Edytora" alt="Sekcja Edytora" width="300" />
 
@@ -819,8 +812,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
----------------------------------------------------------
+## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
 
 <img src="optionsonline1.jpeg" title="Sekcja Online" alt="Sekcja Online" width="300" />
 
@@ -971,8 +963,7 @@ Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></t
 </tbody>
 </table>
 
-![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Zarządzanie
---------------------------------------------------------------------
+## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Zarządzanie
 
 <img src="optionsmaintenance.png" title="Sekcja Zarządzania" alt="Sekcja Zarządzania" width="300" />
 
@@ -1107,8 +1098,7 @@ Ważne: Po przełączeniu części z nich będzie trzeba zrestartować osu!, pon
 </tbody>
 </table>
 
-Stare ekrany
-============
+# Stare ekrany
 
 To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać różnymi sposobami.
 

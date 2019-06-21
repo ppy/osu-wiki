@@ -1,10 +1,8 @@
-.osu (file format)
-=================
+# .osu (file format)
 
 **.osu** is a human-readable file format containing information about a single beatmap.
 
-Global structure
-----------------
+## Global structure
 
 The first line of the file specifies the version of beatmap file. Example:
 
@@ -25,8 +23,7 @@ Example:
 
 `[General]`
 
-General
--------
+## General
 
 AudioFilename (String) specifies the location of the audio file relative to the current folder.
 
@@ -90,8 +87,7 @@ UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's 
 
 `UseSkinSprites: 0`
 
-Editor
-------
+## Editor
 
 Bookmarks (Integer List, milliseconds) is a list of comma-separated times of editor bookmarks.
 
@@ -113,8 +109,7 @@ TimelineZoom (Decimal) specifies the zoom in the editor timeline.
 
 `TimelineZoom: 1.5`
 
-Metadata
---------
+## Metadata
 
 Title (String) is the title of the song limited to ASCII characters.
 
@@ -156,8 +151,7 @@ BeatmapSetID (Integer) is the ID of the beatmap set.
 
 `BeatmapSetID:114987`
 
-Difficulty
-----------
+## Difficulty
 
 The following four difficulty properties are expressed in *stars*, where 0 is very easy, and 10 is very hard.
 
@@ -234,8 +228,7 @@ SliderTickRate:1
 
 *SliderTickRate* (Decimal) is the number of ticks per beat. The default value is 1 tick per beat.
 
-Events
-------
+## Events
 
 ### Background
 
@@ -255,8 +248,7 @@ Storyboards can be defined in a separate optional storyboard file with the *.osb
 
 Each beatmap may contain its own difficulty-specific storyboard, in conjunction with the external storyboard or without.
 
-Timing Points
--------------
+## Timing Points
 
 Timing points describe a number of properties regarding beats per minute and hit sounds.
 
@@ -284,8 +276,7 @@ Example of an inherited Timing Point:
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours
--------
+## Colours
 
 ### Combos
 
@@ -316,8 +307,7 @@ Each one of these property receives an RGB triplet, like regular combos.
 
 The special colours are independent of the combo.
 
-Hit Objects
------------
+## Hit Objects
 
 ### Common structure
 

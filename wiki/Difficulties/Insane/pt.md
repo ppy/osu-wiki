@@ -1,10 +1,8 @@
-Insane
-=====================
+# Insane
 
 Insane são o nível mais dificil em um mapset comum de 4 níveis. Alguns outros nomes também são utilizados com significado parecido com "insane", como *Lunatic* ("Maluco", como é mostrado nas dificuldades máximas nas series *Touhou*), *Another* (series de *IIDX beatmania*), *Extreme* (series de *Jubeat*), etc.
 
-Settings
---------
+## Settings
 
 Note que isso é apenas uma sugestão geral. As configurações de dificuldade variam dependendo da propria musica e também do estilo do criador do beatmap.
 

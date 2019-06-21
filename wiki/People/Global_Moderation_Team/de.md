@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Globales Moderationsteam
 
 **Globales Moderationsteam** (früher auch bekannt als Adminstratoren, Globales Modteam oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder des osu!Staffs, die in erster Linie für die Moderation der Channel und für Fragen, die auf das Personal und die gesamte Gemeinschaft gerichtet sind, zuständig sind.
@@ -26,7 +27,7 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technische Unterstützung |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanisch | Tournaments, Beatmap Moderation |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technische Unterstützung |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Spieler Hilfe |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarisch | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinesisch | Chat Moderation, Forum Moderation |
@@ -63,7 +64,6 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Deutsch | Chat Moderation, Forum Moderation |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russisch | Chat Moderation |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russisch | Chat Moderation |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Koreanisch, Japanisch | Chat Moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Französisch | Chat Moderation |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippinisch | Chat Moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch | Technische Unterstützung |

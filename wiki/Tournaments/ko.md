@@ -1,11 +1,9 @@
-대회
-======
+# 대회
 
 이 곳은 osu! 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
  
  
-공식 대회
------------
+## 공식 대회
 
 공식 대회는 모두 osu! 공식 대회 매니지먼트에서 주최합니다.
  
@@ -63,8 +61,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 4K World Cup  2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
 | [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
 
-커뮤니티
-----------
+## 커뮤니티
 
 비공식 대회로써 커뮤니티에서 주최하는 대회입니다.
 
@@ -196,9 +193,13 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
 
-같이보기
---------
+| 대회명 | 당일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- |
+| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+
+## 같이보기
 -   [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
 -   [osu! 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 -   [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)

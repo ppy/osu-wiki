@@ -1,17 +1,14 @@
-osu!talk
-====================
+# osu!talk
 
 ![osu!talk logo](osu!talk.jpg "osu!talk logo")
 
-Introdução
------------
+## Introdução
 
 Canal Oficial do YouTube: <https://www.youtube.com/user/osuacademy/videos>
 Fórum Oficial: <https://osu.ppy.sh/community/forums/topics/225111>
 **osu!talk** é uma serie de áudio digital apresentada por [ztrot](https://osu.ppy.sh/users/ztrot), e [deadbeat](https://osu.ppy.sh/users/deadbeat) como co-apresentador. A série tem como foco entrevistar varias pessoas da comunidade do osu!. Porém algumas vezes arranjam uma discussão em grupo sobre coisas diferentes acontecendo pela comunidade como mudanças na staff, ou problemas a longo prazo discutidos frequentemente como overmapping. A serie de áudio digital é feita de forma com que qualquer um possa se juntar a sessão e fazer perguntas durante o bloco "[Perguntas e Respostas](https://en.wikipedia.org/wiki/Q%26A)" do episódio.
 
-Episódios
------------
+## Episódios
 
 | EP\#  | Entrevistas                                              | Profession                                   | [Link]                                                        |
 |-------|----------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------|
@@ -59,8 +56,7 @@ Episódios
 | #40   | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                                 | [Link](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
-Discussões
------------
+## Discussões
 
 | EP\# | Tópicos                                 | Entrevistas                                                                                                                                                                                                                 | [Link]                                        |
 |------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -78,8 +74,7 @@ Discussões
 | #12  | osu!idol Discussion                     | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868)                                                                          | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
 
-Repescagens do Campeonato Mundial
----------------------------------
+## Repescagens do Campeonato Mundial
 
 ### Taiko World Cup 2015
 
@@ -100,8 +95,7 @@ Repescagens do Campeonato Mundial
 | Semi Finais       | deadbeat, Tasha e ztrot | [Lien](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
 
-Especiais
-------------
+## Especiais
 
 | EP\# | Events                          | Entrevistas                                                                                                                                                              | [Link]                                        |
 |------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|

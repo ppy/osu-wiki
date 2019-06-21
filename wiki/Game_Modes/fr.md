@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Modes de Jeu
 
 ## ![icône d'osu!](/wiki/shared/mode/osu.png) osu!standard

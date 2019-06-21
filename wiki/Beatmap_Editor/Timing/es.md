@@ -1,5 +1,4 @@
-Tempo
-=======
+# Tempo
 
 ***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
 
@@ -9,8 +8,7 @@ Tempo
 
 Para lograr un correcto timing es necesario que el timeline (línea de tiempo) en el [editor](/wiki/Beatmap_Editor) se sincronice correctamente con la música. Si el timing es incorrecto, entonces el timeline no coincidirá con la canción. Por lo tanto, no podrías presionar los objetos con precisión, y sería imposible mappear correctamente la canción.
 
-Cómo poner timing a las canciones
----------------------------------
+## Cómo poner timing a las canciones
 
 El timing es extremadamente importante. Para poner timing a la canción, primero necesitas cambiar a la pestaña de timing.
 En la pestaña de timing, hay un pequeña cuadro en la parte superior derecha, al lado del timeline. Este cuadro será usado para establecer el BPM aproximado basado en tus clicks.
@@ -27,8 +25,7 @@ Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM c
 
 **La tecla «T» también puede ser usado en lugar de «Tap Here!»**
 
-Secciones de Timing
--------------------
+## Secciones de Timing
 
 ![La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.](img/TimingSetup.jpg "La ventana de configuración de timing mostrando un beatmap con un BPM fluctuando y cambios simples.")
 

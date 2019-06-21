@@ -1,24 +1,20 @@
-How to time songs
-====================
+# How to time songs
 
 ![Timing menu.](/wiki/Beatmap_Editor/Timing/Timing_base.jpg "Timing menu.")
 
-Introduction
--------------
+## Introduction
 
 Timing a song is, in fact, not as complicated as it may seem at first glance. You only need two things: a sense of rhythm and some dexterity. An ear for music and experience playing rhythm games are not required, but can help improve the outcome of your map.
 
 You are also supposed to know what [BPM](/wiki/Glossary) and [offset](/wiki/Glossary) are, and how to set uninherited timing points (often called red offsets).
 
-Preparing the .mp3 file
--------------------------
+## Preparing the .mp3 file
 
 If you are going to work on a beatmap and get it ranked (or approved), it is necessary for an audio file to have a bitrate between 128 and 192 kbps. (This is to ensure that songs are of acceptable quality and don't take too much space on the server and your hard drive). You can see the audio bitrate by right clicking it and selecting Properties, then Details tab. If you don't know how to reduce the bitrate (usually down to 192 kbps), there's a [wiki page](/wiki/Beatmap_Editor_Guides/Audio_Editing) and [our own professor's lecture {Direct to YouTube}](https://www.youtube.com/watch?v=muu3HkG38kk). You can ask your friends or you can ask around in Chat Console. If all else fails, search/ask on [forums](https://osu.ppy.sh/community/forums/56) or [find a way yourself](https://duckduckgo.com/?q=reducing+bitrate+mp3).
 
 The preparations may range from trimming to adding/removing any sound effects. All this is **best done before timing**, as **any** audio edits, including re-encoding, will *change the timing*.
 
-Single timing (One Red)
---------------------------
+## Single timing (One Red)
 
 ### Goals and Objectives
 
@@ -120,8 +116,7 @@ At the end of the testplay, check the results. If the notes have heavy timing er
 
 If everything is done correctly, you now have a properly timed beatmap. Sometimes, it is necessary to double-check the timing with other users, especially if you are not too confident about it. Learn from it, and be bold to ask.
 
-Multitiming (Many Red)
-----------------------
+## Multitiming (Many Red)
 
 ### Introduction
 
@@ -177,8 +172,7 @@ In the end, we should tell you some important tips:
 -   ''' Do not rush to make new timing sections. ''' It is better to run the test several times, and then make sure that a new section is really necessary.
     -   Instead of a new offset (unless there's an actual shift) it is sometimes better to try to change current point's BPM; however, it is necessary to make sure that the beginning of the section remained timed correctly.
 
-Epilogue
-----------
+## Epilogue
 
 You should only help with timing if:
 

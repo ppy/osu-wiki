@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fourth Official osu! Fanart Contest Results (Halloween)!"
-permalink: http://osunews.tumblr.com/post/102429724443/fourth-official-osu-fanart-contest-results
 date: 2014-11-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102429724443/fourth-official-osu-fanart-contest-results
 ---
+
 Woah! So many incredible entries for the 4th official osu! Fanart contest, **"A very osu! Halloween"**. Entries ranged from spooky and cute, to gorey, creepy and downright scary. All in the spirit of Halloween, of course. Thanks for voting everyone - now it's time to announce results.
 
 The results are broken into two sections, the hard numbers of the public poll results, and the more subjective and personal choices of the staff picks. First place in each section wins a full year supporter tag, along with an osu!tablet. The next four runner-ups in each section will each receive a one-month supporter tag. We've also listed five honorable mentions, who won't be getting prizes but whose art deserves a shout-out here too.

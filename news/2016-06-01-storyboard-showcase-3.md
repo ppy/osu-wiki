@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Storyboard Showcase #3"
-permalink: http://osunews.tumblr.com/post/145263178063/storyboard-showcase-3
 date: 2016-06-01 17:15:16 +0000
 tumblr_url: http://osunews.tumblr.com/post/145263178063/storyboard-showcase-3
 ---
+
 [Damnae](https://osu.ppy.sh/users/Damnae) was one of the pioneers of modern storyboarding, setting new standards for expectations when it comes to what can be done within the game. Today, we look at one of the storyboards he has created in our monthly storyboard showcase!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tv48SnY1Kko" frameborder="0" allowfullscreen></iframe>
