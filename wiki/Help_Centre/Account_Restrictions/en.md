@@ -65,9 +65,9 @@ If we decide to let you return, we will require that you agree to some terms bef
 
 Additionally, for a period of one year, we will not grant any flag changes for your account.
 
-In some cases, an appeal returnee may be banned from official or badged tournaments. This ban lasts one year and cannot be discussed. Some offences lead to a permanent ban from tournaments and higher positions.
+In some cases, an appeal returnee may be banned from official and badged tournaments. This ban lasts one year and cannot be discussed. Some offences lead to a permanent ban from tournaments and higher positions.
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to poke us on twitter or by mail if this happens to you!
+Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to poke us on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
 Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
 
@@ -82,13 +82,13 @@ There are several reasons why an appeal might be denied.
 
 ## Common restriction reasons and cooldowns
 
-|Restriction reason|Cooldown duration|Appeal notes|
-|-|-|-|
-|Judgement Error|No cooldown|If found erroneous, no impact on the account.|
-|Multi-account|Permanent (multis)|Main account will be left unrestricted, possibly silenced.|
-|Excessive multi-accounting|3 months|Appeal terms apply|
-|Account sharing|3 months|Appeal terms apply and partial rollback|
-|Cheating|3 months|Appeal terms apply and full rollback|
-|Excessive misconduct|Variable|Appeal terms apply. Cooldown will depend on history.|
-|Cheating/Sharing for a tournament|6 months| Appeal terms apply, permanent tournament ban|
-|Second offences|6 months|Appeal terms apply, permanent tournament ban|
+| Restriction reason | Cooldown duration | Appeal notes |
+| - | - | - |
+| Judgement Error | No cooldown | If found erroneous, no impact on the account. |
+| Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
+| Excessive multi-accounting | 3 months | Appeal terms apply |
+| Account sharing | 3 months | Appeal terms apply and partial rollback |
+| Cheating | 3 months | Appeal terms apply and full rollback |
+| Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
+| Cheating/Sharing for a tournament | 6 months | Appeal terms apply, permanent tournament ban |
+| Subsequent offences | 6 months | Appeal terms apply, permanent tournament ban |
