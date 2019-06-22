@@ -13,10 +13,11 @@ tags:
 ## 토너먼트 일정
 
 | 일정 | 날짜 |
+| --: | :-- |
 | 참가 신청 | 2019-05-11/2019-05-25 |
 | 조 배정 결과 발표 | 2019-06-02 (14:00 UTC) |
 | 조별 예선 | 2019-06-08/2019-06-09 |
-| 16강 | 2019-06-15/2019-06-16 |
+| 16강 | 2019-06-15/2019-06-22 |
 | 8강 | 2019-06-22/2019-06-23 |
 | 4강 | 2019-06-29/2019-06-30 |
 | 결승 | 2019-07-06/2019-07-07 |
@@ -111,7 +112,73 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ---
 
+## 경기 일정: 4강
+
+### 토요일, 2019 년 6 월 29 일
+
+| 경기 ID | 팀 A |  |  | 팀 B | 경기 시각 (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+
+### 일요일, 2019 년 6 월 30 일
+
+| 경기 ID | 팀 A |  |  | 팀 B | 경기 시각 (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+
+---
+
 ## 맵풀
+
+### 8강
+
+**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+
+- NoMod
+  - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
+  - [Frederic - Kanashii Ureshii (Nifty) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/640443#taiko/1490351)
+  - [Camellia as "fluX Xroise" - Xronier (Felt7z) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/925700#taiko/1966652)
+  - [Chroma - Goodbye-bye Planet (butter0414) \[Oni\]](https://osu.ppy.sh/beatmapsets/694474#taiko/1469258)
+  - [onumi - REGRET PART TWO (Ulqui) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/912552#taiko/1908118)
+- Hidden
+  - [LukHash - MIDNIGHT LIGHTS (-omicron) \[Fleure De Lapin's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987825#taiko/2066572)
+  - [TangJuan vs Black Box - Xetta (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/819907#taiko/1718985)
+- HardRock
+  - [Nekomata Master - Moffing (Tasha) \[MM's Oni\]](https://osu.ppy.sh/beatmapsets/104880#taiko/283871)
+  - [turdl3 - Lunatic Peels \~ Invisible Full Net (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968108#taiko/2025848)
+- DoubleTime
+  - [ClariS - Diary (captin1) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/156168#taiko/382737)
+  - [ClariS - Surely (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
+- FreeMod
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[Oni\]](https://osu.ppy.sh/beatmapsets/83560#taiko/586601)
+  - [MY FIRST STORY - Missing You (-Sh1n1-) \[Oni\]](https://osu.ppy.sh/beatmapsets/869178#taiko/1816549)
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/973031#taiko/2037090)
+- Tiebreaker
+  - **[Liz Triangle - past lover (Realazy) \[Lost Oni\]](https://osu.ppy.sh/beatmapsets/608260#taiko/1284600)**
+
+### 16강
+
+**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+
+- NoMod
+  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
+  - [Akiyama Uni - Odoru Mizushibuki (Yumyum-) \[Oni\]](https://osu.ppy.sh/beatmapsets/924849#taiko/1932871)
+  - [REDALiCE - Always TANO\*C (Kobaryo's FTN-Remix) (yea) \[jyake's Muzukashii\]](https://osu.ppy.sh/beatmapsets/690365#taiko/1482770)
+  - [I SEE MONSTAS - Holdin On (Skrillex and Nero Remix) (QEpicAce) \[Surono's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/984425#taiko/2059807)
+  - [The Flashbulb - Creep (Greenshell) \[Volta's Muzukashii\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2054858)
+- Hidden
+  - [lapix - Nexta (TKS) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1549620)
+  - [xi - Bad Elixir (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/937808#taiko/1959373)
+- HardRock
+  - [Furries in a Blender - Storm World (OzzyOzrock) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/319805#taiko/711730)
+  - [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1968634)
+- DoubleTime
+  - [U - Hi-Fi day (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/285279#taiko/644393)
+  - [ONE OK ROCK - Mighty Long Fall (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/578492#taiko/1225108)
+- FreeMod
+  - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/684455#taiko/1459567)
+  - [Nekomata Master - Izanami no nageki (HiroK) \[Coryn's Muzukashii\]](https://osu.ppy.sh/beatmapsets/835429#taiko/1760172)
+  - [Pierce The Veil - She Sings In The Morning (puxtu) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/393110#taiko/1007023)
+- Tiebreaker
+  - **[RIOT - Overkill (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/984743#taiko/2060444)**
 
 ### 조별 예선
 
@@ -140,6 +207,86 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ---
 
+## 경기 결과
+
+### 16강
+
+| 토요일, 2019-06-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/mp/52630781) |
+| Taiwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/mp/52636109) |
+| **Indonesia A** ![][flag_ID] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/mp/52637520) |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/mp/52637498) |
+| Mexico ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/52641017) |
+| Argentina ![][flag_AR] | 3 | **6** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
+| Poland A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/52647239) |
+| **United States A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298) |
+
+| 일요일, 2019-06-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Ecuador | [#1](https://osu.ppy.sh/community/matches/52657012) |
+| Japan ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/52661179) |
+| Poland A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/mp/52673843) |
+| **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/mp/52676942) |
+
+### 조별 예선
+
+| 시드 | 토요일, 2019-06-08 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F3 | **United States A** ![][flag_US] | **5** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/52446671) |
+| G5 | Peru ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52446788) |
+| C6 | Ecuador ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japan** | -win by default- |
+| G4 | **Indonesia B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/52447584) |
+| G6 | Indonesia B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
+| D2 | Singapore ![][flag_SG] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/52453695) |
+| A3 | Taiwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/mp/52457632) |
+| B3 | Poland A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | -win by default- |
+| A2 | Finland ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
+| C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/mp/52453715) |
+| B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/mp/52454819) |
+| D3 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
+| C2 | France B ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/52455708) |
+| H2 | Ireland ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| A1 | **Indonesia A** ![][flag_ID] | **5** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/52454774) |
+| H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
+| D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/mp/52459107) |
+| B2 | Greece ![][flag_GR] | 0 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
+| H1 | **Poland B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombia | -win by default- |
+| E4 | **Argentina** ![][flag_AR] | **5** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/52492419) |
+| F2 | Denmark ![][flag_DK] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
+| E1 | Mexico ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/52501005) |
+| E3 | United States B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/52460665) |
+| E6 | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/52498726) |
+
+| Group | 일요일, 2019-06-09 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
+| G3 | Brazil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52475794) |
+| C1 | Australia ![][flag_AU] | 4 | **5** | ![][flag_EC] **Ecuador** | [#1](https://osu.ppy.sh/community/matches/52474929) |
+| G2 | Peru ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
+| F1 | **China** ![][flag_CN] | **5** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/52477719) |
+| H6 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| G1 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/52478417) |
+| C3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/52481439) |
+| D4 | Netherlands ![][flag_NL] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/52482358) |
+| D5 | **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/52485481) |
+| A6 | Germany ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
+| F5 | Denmark ![][flag_DK] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/52484212) |
+| A5 | Finland ![][flag_FI] | 3 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/52485543) |
+| D6 | Netherlands ![][flag_NL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/mp/52456119) |
+| B5 | Greece ![][flag_GR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52486785) |
+| B4 | Switzerland ![][flag_CH] | 0 | **5** | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/52488184) |
+| A4 | Germany ![][flag_DE] | 2 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/52489442) |
+| B6 | Switzerland ![][flag_CH] | 1 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
+| H5 | Ireland ![][flag_IE] | 1 | **5** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
+| C4 | **Ecuador** ![][flag_EC] | **5** | 1 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
+| H4 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_IE] **Ireland** | -win by default- |
+| E2 | **United Kingdom** ![][flag_GB] | **5** | 4 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/52496157) |
+| F4 | Canada ![][flag_CA] | 4 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
+| E5 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/52489459) |
+
+---
+
 ## 규칙
 
 ### 전체 규칙
@@ -152,6 +299,13 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 6. 모든 대회 참여자와 관리자는 이 규칙을 전부 읽어야 합니다. 이 대회는 모두가 그렇게 했다는 가정 하에 진행됩니다.
 7. 관리자를 포함한 모든 대회 관련자는 상대를 존중해야 합니다. 이 규정을 따르지 않을 경우 토너먼트 참여의 블랙리스트에 올라갈 수 있으니 주의 바랍니다.
 8. 규칙에 수정 사항이 생길 경우 모든 사항은 디스코드 서버에 공지됩니다.
+
+### 참가 신청 제한
+
+1. 이 대회에 참여하려면 태고 모드의 랭킹이 3,500~10,000위 사이여야 합니다. **참가 신청이 끝나기 전에 이 랭킹 범위에서 벗어나면 참가 자격이 박탈됩니다.**
+2. 대회 진행 중에 참여자의 랭킹이 **2,500위보다 높아지면 참가 자격이 박탈됩니다.**
+3. 참가자 계정에 표시된 국기에 맞춰서 참여하게 될 팀이 결정됩니다. 이 국가는 참가 신청 양식에도 기입하게 됩니다.
+4. 반드시 IGTS 디스코드 서버에 참여하셔야 대회 참가가 가능합니다.
 
 ### 대회 등록과 팀 배치
 
