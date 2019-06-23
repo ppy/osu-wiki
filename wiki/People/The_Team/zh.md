@@ -1,14 +1,14 @@
 # The Team
 
-以下列表中的用户<!--NC:翻译为用户是否合适-->是 osu!team 的核心成员，并且负责让这个游戏变得更有趣的成员<!--NC:需要确认原句"and are chiefly responsible for helping make the game awesome for everyone."的翻译是否合理--> 。
+以下列出的玩家是 osu!team 的核心成员，并且致力于让这个游戏变得更有趣。
 
 ## 游戏创建者
 
-| 名 | 描述 |
+| 昵称 | 介绍 |
 | ---- | ----------- |
-|  ![][flag_AU][peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
+|  ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
 
-## 活跃用户
+## 活跃
 
 | 名 | 描述 |
 | ---- | ----------- |
