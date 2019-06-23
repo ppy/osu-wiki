@@ -16,7 +16,7 @@
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护和[精选艺术家](https://osu.ppy.sh/beatmaps/artists)的推广 |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | 首席设计师、Creative Cloud 常任观察员 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图圈的顾问 |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯组织者、管理者 |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 摸图和作图圈的顾问 |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图圈的顾问 |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web 开发者 |
@@ -39,7 +39,7 @@
 | ---- | ----------- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助, 游戏/网页上“Chibi”的美术设计，[Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯的组织和管理者 |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯组织者、管理者 |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护, 社区管理 |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队, 游戏内聊天的一体化, 网页维护，[博客](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
@@ -47,7 +47,7 @@
 | ![][flag_US] Jim | 初代网页设计, [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 世界杯组织者、管理者 & QAT 领导者 & 社区管理 |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出的皮肤设计, 为默认皮肤和图标的设计做出贡献, [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev 团队, mm 滑条 |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队, mm 滑条 |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
 | ![][flag_US] Phil | 论坛设计工作 |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师, 制作很酷的素材 |
