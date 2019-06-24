@@ -37,7 +37,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Key sounding:** Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
-- **Spaced stream:** A stream whose circles do not overlap.
+- **Spaced stream:** A stream with circles that do not overlap.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
 
 
@@ -163,8 +163,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hit object following a spinner.
 -  **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 -  **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
--  **Avoid visually similar 1/2 and 1/1 spacing.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from 1/1 gaps.
--  **Avoid using 1/2 and 1/4 rhythms with visually similar spacing or in the same stack.** Different rhythms of this density without spacing indication can cause reading issues.
+-  **Avoid visually similar spacing for different rhythms.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
 -  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 -  **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 -  **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
