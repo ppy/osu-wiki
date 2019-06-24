@@ -17,7 +17,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 ### Common Terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels. 
+- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels. 
 - **Key mode**: The number of columns present in a difficulty.
 - **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
@@ -38,7 +38,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Minijack**: Two consecutive notes in the same column, usually pressed at a faster pace compared to surrounding notes.
 - **Release**: The end of a long note which must be released within a certain timing  window to score the entirety of the note properly.
 - **Roll**: A variation of a stream consisting of notes that go from the first to the last column or last to the first column, usually done in quick succession.
-- **Shield**: A note that appears in the same column immediately after the release of a long note.
+- **Shield**: A note that appears in the same column immediately before the beginning of a long note.
 - **Split-jumptrill**: A jumptrill which requires the use of both hands at the same time to be performed correctly (i.e two one-handed trills).
 - **Stream**: Constant notes with the same interval that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.
@@ -53,7 +53,7 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
-- **No column can be left empty.** If you want to use less keys, change the amount of keys in the Song Setup.
+- **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment.** Most USB-connected keyboards cannot handle 7 simultaneous inputs at a time. Note that this rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section. 
 - **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
@@ -63,7 +63,7 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 
 Guidelines may be broken under exceptional circumstances. These must be justified by a reasonable explanation as of why the guideline has been broken and why not breaking it will interfere with the overall quality of the creation.
 
-- **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favor of simplification should be made when following the music completely accurately...
+- **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
   - would be effectively represented with a consistent, predictable snap
   - would cause an inappropriate difficulty spike.
@@ -148,7 +148,7 @@ Bracket patterns should be used sparingly.
 - **Chords within 1/4 streams should be used sparingly.** The density of these patterns is often too difficult for players of this skill level.
 - **Avoid using chords in the middle of 1/6 streams.** However, Using a chord at the beginning or end of a stream is fine.
 - **1/4 Jack usage is discouraged.** These can be too physically demanding for players of this level. Minijacks with ample rest time in between may be acceptable.
-- **Avoid using more than 9 consecutives notes in a trills.** The coordination and hand balance required for this pattern is too difficult for players at this skill level.
+- **Avoid using more than 9 consecutive notes in a trill.** The coordination and hand balance required for this pattern is too difficult for players at this skill level.
 - **Long notes should be held for at least 1/4 of a beat.**
 - **Objects directly after short-term slider velocity changes should appear at the beatmap's normal scroll speed.** To do this, short-term slider velocity changes should only be used in empty spaces between notes and should equalize to a distance of 1.0x.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
