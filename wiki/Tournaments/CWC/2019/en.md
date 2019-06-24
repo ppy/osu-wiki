@@ -89,9 +89,87 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
+## Match Schedule: Group Stage
+
+### Saturday, 29. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Japan | ![][flag_JP] | ![][flag_CN] | China | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
+| Sweden | ![][flag_SE] | ![][flag_GB] | Vietnam | **11:00 UTC** | 13:00 UTC+02 | 18:00 UTC+07 |
+| Taiwan | ![][flag_TW] | ![][flag_PH] | Philippines | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| Netherlands | ![][flag_NL] | ![][flag_CN] | China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_AU] | Australia | **12:00 UTC** | 21:00 UTC+09 | 22:00 UTC+010 |
+| Norway | ![][flag_NO] | ![][flag_TW] | Taiwan | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Czech Republic | ![][flag_CZ] | ![][flag_NO] | Norway | **13:00 UTC** | 14:00 UTC+01 | 15:00 UTC+02 |
+| Australia | ![][flag_AU] | ![][flag_CN] | China | **13:00 UTC** | 23:00 UTC+010 | 21:00 UTC+08 |
+| Belgium | ![][flag_BE] | ![][flag_FI] | Finland | **14:00 UTC** | 15:00 UTC+01 | 17:00 UTC+03 |
+| Czech Republic | ![][flag_CZ] | ![][flag_PH] | Philippines | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Colombia | ![][flag_CO] | ![][flag_GB] | Vietnam | **14:00 UTC** | 10:00 UTC-04 | 21:00 UTC+07 |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **16:00 UTC** | 13:00 UTC-03 | 21:00 UTC+05 |
+| Romania | ![][flag_RO] | ![][flag_GB] | United States | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 |
+| Venezuela | ![][flag_GB] | ![][flag_FI] | Finland | **17:00 UTC** | 13:00 UTC-04 | 20:00 UTC+03 |
+| Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
+| Russian Federation | ![][flag_RU] | ![][flag_GB] | United States | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
+| Belgium | ![][flag_BE] | ![][flag_GB] | Venezuela | **18:00 UTC** | 19:00 UTC+01 | 14:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
+| Mexico | ![][flag_MX] | ![][flag_CL] | Chile | **18:00 UTC** | 13:00 UTC-05 | 14:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
+| Sweden | ![][flag_SE] | ![][flag_CO] | Colombia | **20:00 UTC** | 22:00 UTC+02 | 16:00 UTC-04 |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United States | **21:00 UTC** | 18:00 UTC-03 | 17:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
+
+### Sunday, 30. June 2018
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| Australia | ![][flag_AU] | ![][flag_NL] | Netherlands | **10:00 UTC** | 20:00 UTC+010 | 12:00 UTC+02 |
+| Thailand | ![][flag_TH] | ![][flag_KR] | South Korea | **10:00 UTC** | 17:00 UTC+07 | 19:00 UTC+09 |
+| Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
+| Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 |
+| Czech Republic | ![][flag_CZ] | ![][flag_TW] | Taiwan | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| Thailand | ![][flag_TH] | ![][flag_ID] | Indonesia | **11:00 UTC** | 18:00 UTC+07 | 18:00 UTC+07 |
+| Norway | ![][flag_NO] | ![][flag_PH] | Philippines | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
+| Thailand | ![][flag_TH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_KR] | South Korea | **12:00 UTC** | 19:00 UTC+07 | 21:00 UTC+09 |
+| Poland | ![][flag_PL] | ![][flag_FI] | Finland | **13:00 UTC** | 15:00 UTC+02 | 16:00 UTC+03 |
+| Russian Federation | ![][flag_RU] | ![][flag_RO] | Romania | **13:00 UTC** | 18:00 UTC+05 | 15:00 UTC+02 |
+| Vietnam | ![][flag_GB] | ![][flag_FR] | France | **13:00 UTC** | 20:00 UTC+07 | 15:00 UTC+02 |
+| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 17:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_RO] | Romania | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
+| Sweden | ![][flag_SE] | ![][flag_FR] | France | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Italy | ![][flag_IT] | ![][flag_CL] | Chile | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 |
+| Venezuela | ![][flag_GB] | ![][flag_PL] | Poland | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
+| Colombia | ![][flag_CO] | ![][flag_FR] | France | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
+
+---
+
 ## Mappools
 
-_Mappools won't be available until one week before the stage that it is meant to be played_
+[Download the map pack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)
+
+- NoMod
+	- [Roselia - Neo-Aspect \(Underdogs\) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
+	- [ITO KASHITARO - Hyakka Ryouran \(F D Flourite\) \[Sparks\]](https://osu.ppy.sh/beatmapsets/867277#fruits/1813016)
+	- [antiPLUR - One Life Left to Live \(JBHyperion\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005440)
+	- [onumi - CONFUSION PART ONE \(Sinnoh\) \[ASCENDANCE'S RAIN\]](https://osu.ppy.sh/beatmapsets/933700#fruits/2021599)
+	- [League of Legends - RISE \(ft. The Glitch Mob, Mako, and The Word Alive\) \(SquareTude\) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/858938#fruits/1795003)
+	- [zakuro - Inochi ni Kirawarete Iru. \(Mirash\) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/693727#fruits/1467820)
+- Hidden
+	- [NICODE & M2U - Predawn \(Sulfur\) \[Jeir's Rain\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1602530)
+	- [cYsmix - Breeze \(wonjae\) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
+	- [SID - Ranbu no Melody \(TV Size\) \(Kiddo-Kun\) \[Happy's Insane\]](https://osu.ppy.sh/beatmapsets/22648#fruits/86920)
+- HardRock
+	- [Survive Said The Prophet - found & lost \(TV Size\) \(Wei Wuxian\) \[Platter\]](https://osu.ppy.sh/beatmapsets/893177#fruits/1866779)
+	- [Y&Co. feat. Karin - Sweet Rain \(Sorcerer\) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
+	- [DECO\*27 - Ghost Rule \(Awaken\) \[G's Harder\]](https://osu.ppy.sh/beatmapsets/413117#fruits/928857)
+- DoubleTime
+	- [Arashi - Natsu no Owari ni Omou Koto \(mingmichael\) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/332814#fruits/741868)
+	- [Helblinde - When Time Sleeps \(Sinnoh\) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
+	- [Kalafina - Oblivious \(Melt\) \[Oblivious\]](https://osu.ppy.sh/beatmapsets/114188#fruits/295857)
+- Tiebreaker
+	- **[Rita - dorchadas \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/812855#fruits/1704854)**
 
 ---
 
