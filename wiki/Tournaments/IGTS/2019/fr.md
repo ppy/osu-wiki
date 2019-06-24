@@ -114,19 +114,61 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 ## Planning des matches: Demi-finales
 
-### Samedi, 8 Juin 2019
+### Samedi, 29 Juin 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
+| L1 | Hong Kong | ![][flag_HK] | ![][flag_AR] | Argentina | **01:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
+| L2 | France A | ![][flag_FR] | ![][flag_JP] | Japan | **12:00** |
+| W2 | Chile | ![][flag_CL] | ![][flag_CN] | China | **14:00** |
 
-### Dimanche, 9 Juin 2019
+### Dimanche, 30 Juin 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
+| L3a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
+| L3b¹ | United States A | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
+| L3c¹ | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **08:00** |
+| L3c¹ | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **13:00** |
+| L4a² | Chile | ![][flag_CL] | ![][flag_FR] | France A | **19:00** |
+| L4b² | Chile | ![][flag_CL] | ![][flag_JP] | Japan | **02:00** |
+| L4c² | China | ![][flag_CN] | ![][flag_FR] | France A | **12:00** |
+| L4d² | China | ![][flag_CN] | ![][flag_JP] | Japan | **10:00** |
+
+¹ Confrontation dépendant du **perdant du Match W1** et du **gagnant du Match L1**
+
+² Confrontation dépendant du **perdant du Match W2** et du **gagnant du Match L2**
 
 ---
 
 ## Liste des maps
+
+### Demi-finales
+
+**[Téléchargez le mappack ici! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+
+- NoMod
+  - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
+  - [Frederic - Kanashii Ureshii (Nifty) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/640443#taiko/1490351)
+  - [Camellia as "fluX Xroise" - Xronier (Felt7z) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/925700#taiko/1966652)
+  - [Chroma - Goodbye-bye Planet (butter0414) \[Oni\]](https://osu.ppy.sh/beatmapsets/694474#taiko/1469258)
+  - [onumi - REGRET PART TWO (Ulqui) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/912552#taiko/1908118)
+- Hidden
+  - [LukHash - MIDNIGHT LIGHTS (-omicron) \[Fleure De Lapin's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987825#taiko/2066572)
+  - [TangJuan vs Black Box - Xetta (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/819907#taiko/1718985)
+- HardRock
+  - [Nekomata Master - Moffing (Tasha) \[MM's Oni\]](https://osu.ppy.sh/beatmapsets/104880#taiko/283871)
+  - [turdl3 - Lunatic Peels \~ Invisible Full Net (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968108#taiko/2025848)
+- DoubleTime
+  - [ClariS - Diary (captin1) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/156168#taiko/382737)
+  - [ClariS - Surely (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
+- FreeMod
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[Oni\]](https://osu.ppy.sh/beatmapsets/83560#taiko/586601)
+  - [MY FIRST STORY - Missing You (-Sh1n1-) \[Oni\]](https://osu.ppy.sh/beatmapsets/869178#taiko/1816549)
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/973031#taiko/2037090)
+- Tiebreaker
+  - **[Liz Triangle - past lover (Realazy) \[Lost Oni\]](https://osu.ppy.sh/beatmapsets/608260#taiko/1284600)**
 
 ### Quarts de finale
 
@@ -209,6 +251,22 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 ## Match Results
 
+### Quarts de finale
+
+| Samedi, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 0 | **6** | ![][flag_US] **United States A** | -win by default- |
+| France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/mp/52814381) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/mp/52818020) |
+| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/52820880) |
+| Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/mp/52820731) |
+
+| Dimanche, 2019-06-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/52845363) |
+| Singapore ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/52848092) |
+| **France A** ![][flag_FR] | **6** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/52850794) |
+
 ### Huitièmes de finale
 
 | Samedi, 2019-06-15 |  |  |  |  |
@@ -228,6 +286,11 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 | Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/mp/52661179) |
 | Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/mp/52673843) |
 | **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/mp/52676942) |
+
+| Samedi, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Taïwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Pologne B | [#1](https://osu.ppy.sh/community/matches/52815977) |
+| **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Pologne B | -win by default- |
 
 ### Phase de groupe
 

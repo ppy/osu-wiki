@@ -93,7 +93,7 @@ Intermediate Global Taiko Showdown 2019 проводится группой чл
 | ![][flag_KR] | **Южная Корея** | **[Civil oath](https://osu.ppy.sh/users/3216107)**, [MuangMuangE](https://osu.ppy.sh/users/3752338), [Hoshikuz](https://osu.ppy.sh/users/9892196), [Endroll](https://osu.ppy.sh/users/1399551) |
 | ![][flag_CH] | **Швейцария** | **[HardNeper](https://osu.ppy.sh/users/9776256)**, [basti78](https://osu.ppy.sh/users/28222), [- DustyFlow -](https://osu.ppy.sh/users/824415), [-Shizue-](https://osu.ppy.sh/users/12819177) |
 | ![][flag_TW] | **Тайвань** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Dviler](https://osu.ppy.sh/users/10838779), [ipad\_siri](https://osu.ppy.sh/users/9930377), [NaleYuar](https://osu.ppy.sh/users/6701207), [Twinlight](https://osu.ppy.sh/users/9693274) |
-| ![][flag_GB] | **Объединенное Королевство** | **[hammygames](https://osu.ppy.sh/users/12232503)**, [Livvo](https://osu.ppy.sh/users/8884687), [ChicagoTed7172](https://osu.ppy.sh/users/2948139), [Olii](https://osu.ppy.sh/users/7683305) |
+| ![][flag_GB] | **Великобритания** | **[hammygames](https://osu.ppy.sh/users/12232503)**, [Livvo](https://osu.ppy.sh/users/8884687), [ChicagoTed7172](https://osu.ppy.sh/users/2948139), [Olii](https://osu.ppy.sh/users/7683305) |
 | ![][flag_US] | **Соединенные Штаты A** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Cychloryn](https://osu.ppy.sh/users/6921736), [Stan GFriend](https://osu.ppy.sh/users/1773605), [InsaneToe](https://osu.ppy.sh/users/6389252), [kb131313](https://osu.ppy.sh/users/11229259) |
 | ![][flag_US] | **Соединенные Штаты Б** | **[Binsu](https://osu.ppy.sh/users/6236911)**, [Slav Man](https://osu.ppy.sh/users/11612235), [White Axl](https://osu.ppy.sh/users/12334307), [Tsred](https://osu.ppy.sh/users/2737667), [Carlohman1](https://osu.ppy.sh/users/12212290) |
 
@@ -105,7 +105,7 @@ Intermediate Global Taiko Showdown 2019 проводится группой чл
 | **B** | ![][flag_PL] Польша A | ![][flag_PH] Филиппины | ![][flag_CH] Швейцария | ![][flag_GR] Греция |
 | **C** | ![][flag_JP] Япония | ![][flag_AU] Австралия | ![][flag_EC] Эквадор | ![][flag_FR] Франция B |
 | **D** | ![][flag_KR] Южная Корея | ![][flag_FR] Франция A | ![][flag_NL] Нидерланды | ![][flag_SG] Сингапур |
-| **E** | ![][flag_US] Соединенные Штаты B | ![][flag_MX] Мексика | ![][flag_AR] Аргентина | ![][flag_GB] Объединенное Королевство |
+| **E** | ![][flag_US] Соединенные Штаты B | ![][flag_MX] Мексика | ![][flag_AR] Аргентина | ![][flag_GB] Великобритания |
 | **F** | ![][flag_US] Соединенные Штаты A | ![][flag_CN] Китай | ![][flag_CA] Канада | ![][flag_DK] Дания |
 | **G** | ![][flag_BR] Бразилия | ![][flag_CL] Чили | ![][flag_ID] Индонезия B | ![][flag_PE] Перу |
 | **H** | ![][flag_HK] Гонконг | ![][flag_PL] Польша B | ![][flag_CO] Колумбия | ![][flag_IE] Ирландия |
@@ -118,15 +118,58 @@ Intermediate Global Taiko Showdown 2019 проводится группой чл
 
 | ID матча | Команда А |  |  | Команда Б | Время матча (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
+| L1 | Hong Kong | ![][flag_HK] | ![][flag_AR] | Argentina | **01:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
+| L2 | France A | ![][flag_FR] | ![][flag_JP] | Japan | **12:00** |
+| W2 | Chile | ![][flag_CL] | ![][flag_CN] | China | **14:00** |
 
 ### Воскресенье, 30 июня 2019 года
 
 | ID матча | Команда А |  |  | Команда Б | Время матча (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
+| L3a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
+| L3b¹ | United States A | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
+| L3c¹ | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **08:00** |
+| L3c¹ | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **13:00** |
+| L4a² | Chile | ![][flag_CL] | ![][flag_FR] | France A | **19:00** |
+| L4b² | Chile | ![][flag_CL] | ![][flag_JP] | Japan | **02:00** |
+| L4c² | China | ![][flag_CN] | ![][flag_FR] | France A | **12:00** |
+| L4d² | China | ![][flag_CN] | ![][flag_JP] | Japan | **10:00** |
+
+¹ Encounter dependent on **loser of Match W1** and **winner of Match L1**
+
+² Encounter dependent on **loser of Match W2** and **winner of Match L2**
 
 ---
 
 ## Пул карт
+
+### Полуфинал
+
+**[Скачайте сборку карт здесь! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
+
+- NoMod
+  - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
+  - [Colorful Sounds Port - ETERNAL DRAIN (zigizigiefe) \[Oni\]](https://osu.ppy.sh/beatmapsets/692110#taiko/1464636)
+  - [Zekk - Sugary Daydream (Jaye) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/708322#taiko/1513610)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (zhu) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/936772#taiko/1958124)
+  - [Pokota and Hanatan - Aa, Subarashiki Nyansei (Bedwyr Aorta) \[Teru's Oninyan (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/992200#taiko/2075012)
+  - [aran - Xperanza (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/800399#taiko/1755536)
+- Hidden
+  - [Dzeko & Torres - L'Amour Toujours feat. Delaney Jane (Nightcore Mix) (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/890586#taiko/1871013)
+  - [Se-U-Ra - The Endless for Traveler (ZethZ161) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/692388#taiko/1467259)
+- HardRock
+  - [TAMAONSEN - Touhou Tanoshii feat. Matsu (Alwaysyukaz) \[Oni\]](https://osu.ppy.sh/beatmapsets/804456#taiko/1688737)
+  - [Silver Forest feat.Aki - Yami no Mahou Shoujo (\[Belajar-Osu\]) \[Yami no Oni\]](https://osu.ppy.sh/beatmapsets/873256#taiko/1825490)
+- DoubleTime
+  - [GigaP feat. GUMI, KYO - Ooedo Ranvu (snowball112) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/345381#taiko/762900)
+  - [Yura Hatsuki x Seraph - Le Rouge et le Noir (-Tenshi-) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/365971#taiko/823246)
+- FreeMod
+  - [7 Sequence x M2U - Megaburn (JUDYDANNY) \[JuDa's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/991638#taiko/2073824)
+  - [Itou Kashitarou x Ron - Soushi Souai (newyams99) \[Oni\]](https://osu.ppy.sh/beatmapsets/635203#taiko/1347899)
+  - [Krewella X DISKORD - Beggars (Consouls Remix) (-omicron) \[Remus' Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/991642#taiko/2073828)
+- Tiebreaker
+  - **[Culprate & Joe Ford - Gaucho (vrnl) \[Kqrth's Oni\]](https://osu.ppy.sh/beatmapsets/937645#taiko/1960216)**
 
 ### Четвертьфинал
 
@@ -209,6 +252,22 @@ Intermediate Global Taiko Showdown 2019 проводится группой чл
 
 ## Результаты матчей
 
+### Полуфинал
+
+| Суббота, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 0 | **6** | ![][flag_US] **United States A** | -win by default- |
+| France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/mp/52814381) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/mp/52818020) |
+| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/52820880) |
+| Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/mp/52820731) |
+
+| Воскресенье, 2019-06-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/52845363) |
+| Singapore ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/52848092) |
+| **France A** ![][flag_FR] | **6** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/52850794) |
+
 ### 1/8 финала
 
 | Суббота, 2019-06-15 |  |  |  |  |
@@ -228,6 +287,11 @@ Intermediate Global Taiko Showdown 2019 проводится группой чл
 | Japan ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/52661179) |
 | Poland A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/mp/52673843) |
 | **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/mp/52676942) |
+
+| Суббота, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/52815977) |
+| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_PL] Poland B | -win by default- |
 
 ### Групповая стади
 
