@@ -27,7 +27,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Modération du Chat, Support technique |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanol | Organisation de tournois, Modération du Beatmaps |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Support technique |
-| ![][flag_BR] [Edu](https://osu.ppy.sh/users/5618109) | Portugais, Japanese | Modération du Chat |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugais, Japanese | Modération du Chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Support du joueur |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgare | osu!idol hosting, Modération du Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinois | Modération du Chat, Modération du Forum |
@@ -64,7 +64,6 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand | Modération du Chat, Modération du Forum |
 | ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russe | Modération du Chat |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du Chat |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, Japanese | Modération du Chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Français | Modération du Chat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Modération du Chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espanol | Support technique |
