@@ -94,7 +94,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ### Saturday, 29. June 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Hong Kong | ![][flag_HK] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
 | Japan | ![][flag_JP] | ![][flag_CN] | China | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
 | Sweden | ![][flag_SE] | ![][flag_VN] | Vietnam | **11:00 UTC** | 13:00 UTC+02 | 18:00 UTC+07 |
@@ -127,7 +127,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ### Sunday, 30. June 2018
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| ---: | ---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_NL] | Netherlands | **10:00 UTC** | 20:00 UTC+10 | 12:00 UTC+02 |
 | Thailand | ![][flag_TH] | ![][flag_KR] | South Korea | **10:00 UTC** | 17:00 UTC+07 | 19:00 UTC+09 |
 | Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
@@ -153,7 +153,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ## Mappools
 
-[Download the map pack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)
+**[Download the map pack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)**
 
 - NoMod
 	- [Roselia - Neo-Aspect \(Underdogs\) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
