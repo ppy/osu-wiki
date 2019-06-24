@@ -37,24 +37,24 @@
 
 | 名 | 描述 |
 | ---- | ----------- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助, 游戏/网页上“Chibi”的美术设计，[Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助，游戏/网页上“Chibi”的美术设计，[Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯组织者、管理者 |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护, 社区管理 |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队, 游戏内聊天的一体化, 网页维护，[博客](http://blog.echo.sh/) |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护，社区管理 |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队，游戏内聊天的一体化，网页维护，[博客](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队, osz2/p2p 后端 |
-| ![][flag_US] Jim | 初代网页设计, [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队，osz2/p2p 后端 |
+| ![][flag_US] Jim | 初代网页设计，[Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 世界杯组织者、管理者 & QAT 领导者 & 社区管理 |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出的皮肤设计, 为默认皮肤和图标的设计做出贡献, [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队, mm 滑条 |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出的皮肤设计，为默认皮肤和图标的设计做出贡献，[DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队，mm 滑条 |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
 | ![][flag_US] Phil | 论坛设计工作 |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师, 制作很酷的素材 |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念与美术设计, [DeviantArt](https://sarumaru.deviantart.com/) |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师，制作很酷的素材 |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念与美术设计，[DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | 早期社区管理与leadership<!--NT--> & 讨论记录 & FAQ 贡献者 |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | pp 系统开发者 |
-| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发团队, osu!mania 开发者 |
+| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发团队，osu!mania 开发者 |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) 管理 |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) 教授 & 媒体<!--NC:Media翻译为媒体是否准确-->/人物<!--NC:Character翻译为人物是否准确--> 设计 |
 
