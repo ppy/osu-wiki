@@ -91,7 +91,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ## Match Schedule: Group Stage
 
-### Saturday, 29. June 2018
+### Saturday, 29. June 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -101,30 +101,30 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Taiwan | ![][flag_TW] | ![][flag_PH] | Philippines | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | Netherlands | ![][flag_NL] | ![][flag_CN] | China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Japan | ![][flag_JP] | ![][flag_AU] | Australia | **12:00 UTC** | 21:00 UTC+09 | 22:00 UTC+10 |
-| Czech Republic | ![][flag_CZ] | ![][flag_NO] | Norway | **13:00 UTC** | 14:00 UTC+01 | 15:00 UTC+02 |
+| Czech Republic | ![][flag_CZ] | ![][flag_NO] | Norway | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | Australia | ![][flag_AU] | ![][flag_CN] | China | **13:00 UTC** | 23:00 UTC+10 | 21:00 UTC+08 |
 | Norway | ![][flag_NO] | ![][flag_TW] | Taiwan | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
-| Belgium | ![][flag_BE] | ![][flag_FI] | Finland | **14:00 UTC** | 15:00 UTC+01 | 17:00 UTC+03 |
-| Czech Republic | ![][flag_CZ] | ![][flag_PH] | Philippines | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Belgium | ![][flag_BE] | ![][flag_FI] | Finland | **14:00 UTC** | 16:00 UTC+02 | 17:00 UTC+03 |
+| Czech Republic | ![][flag_CZ] | ![][flag_PH] | Philippines | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
 | Colombia | ![][flag_CO] | ![][flag_VN] | Vietnam | **14:00 UTC** | 9:00 UTC-05 | 21:00 UTC+07 |
 | Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **16:00 UTC** | 13:00 UTC-03 | 21:00 UTC+05 |
 | Romania | ![][flag_RO] | ![][flag_US] | United States | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 |
-| Denmark | ![][flag_DK] | ![][flag_AR] | Argentina | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 |
+| Denmark | ![][flag_DK] | ![][flag_AR] | Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
 | Venezuela | ![][flag_VE] | ![][flag_FI] | Finland | **17:00 UTC** | 13:00 UTC-04 | 20:00 UTC+03 |
 | Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
 | Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
-| Belgium | ![][flag_BE] | ![][flag_VE] | Venezuela | **18:00 UTC** | 19:00 UTC+01 | 14:00 UTC-04 |
+| Belgium | ![][flag_BE] | ![][flag_VE] | Venezuela | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
 | Mexico | ![][flag_MX] | ![][flag_CL] | Chile | **18:00 UTC** | 13:00 UTC-05 | 14:00 UTC-04 |
-| Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **18:00 UTC** | 19:00 UTC+01 | 20:00 UTC+02 |
+| Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
 | Argentina | ![][flag_AR] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 |
 | Canada | ![][flag_CA] | ![][flag_CL] | Chile | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
 | Sweden | ![][flag_SE] | ![][flag_CO] | Colombia | **20:00 UTC** | 22:00 UTC+02 | 15:00 UTC-05 |
 | Brazil | ![][flag_BR] | ![][flag_US] | United States | **21:00 UTC** | 18:00 UTC-03 | 17:00 UTC-04 |
 | Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
 
-### Sunday, 30. June 2018
+### Sunday, 30. June 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -132,7 +132,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Thailand | ![][flag_TH] | ![][flag_KR] | South Korea | **10:00 UTC** | 17:00 UTC+07 | 19:00 UTC+09 |
 | Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
 | Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 |
-| Czech Republic | ![][flag_CZ] | ![][flag_TW] | Taiwan | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| Czech Republic | ![][flag_CZ] | ![][flag_TW] | Taiwan | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
 | Thailand | ![][flag_TH] | ![][flag_ID] | Indonesia | **11:00 UTC** | 18:00 UTC+07 | 18:00 UTC+07 |
 | Norway | ![][flag_NO] | ![][flag_PH] | Philippines | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Thailand | ![][flag_TH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
@@ -140,13 +140,13 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Poland | ![][flag_PL] | ![][flag_FI] | Finland | **13:00 UTC** | 15:00 UTC+02 | 16:00 UTC+03 |
 | Russian Federation | ![][flag_RU] | ![][flag_RO] | Romania | **13:00 UTC** | 18:00 UTC+05 | 15:00 UTC+02 |
 | Vietnam | ![][flag_VN] | ![][flag_FR] | France | **13:00 UTC** | 20:00 UTC+07 | 15:00 UTC+02 |
-| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 17:00 UTC+02 |
+| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Brazil | ![][flag_BR] | ![][flag_RO] | Romania | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
 | Sweden | ![][flag_SE] | ![][flag_FR] | France | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_CL] | Chile | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 |
 | Venezuela | ![][flag_VE] | ![][flag_PL] | Poland | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
 | Colombia | ![][flag_CO] | ![][flag_FR] | France | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
-| Denmark | ![][flag_DK] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Denmark | ![][flag_DK] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
 | Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
 
 ---
