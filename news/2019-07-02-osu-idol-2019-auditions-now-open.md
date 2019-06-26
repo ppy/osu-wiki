@@ -16,7 +16,7 @@ osu!idol is the community driven singing contest! Contestants participate solo o
 
 Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got! 
 
-### What’s in it for me?
+### What's in it for me?
 
 Once community voting has concluded, the finalists will be receiving these prizes as followed:
 
