@@ -112,7 +112,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ---
 
-## Match Schedules: Semifinals
+## Match Schedule: Semifinals
 
 ### Saturday, 29 June 2019
 
