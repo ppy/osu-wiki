@@ -30,4 +30,3 @@ Check out the [**official thread**](https://osu.ppy.sh/illdoitsoon) for the cont
 
 -Kyonko Hizara
 
-
