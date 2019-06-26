@@ -28,5 +28,5 @@ Once community voting has concluded, the finalists will be receiving these prize
 
 Check out the [**official thread**](https://osu.ppy.sh/illdoitsoon) for the contest rules, submission sheet, and more details and discussions on the event. Make sure to join the [discord server](https://discord.gg/7hZgNeH) as well to get announcements and updates, ask questions, and talk to the community!
 
--Kyonko Hizara
+—Kyonko Hizara
 
