@@ -4,7 +4,7 @@ title: "osu!idol 2019 Auditions Now Open"
 date: 2019-07-02 12:00:00 +0000
 ---
 
-So do you enjoy singing? Are you interested in competing to become the next osu!idol? Plug in your mic and come in, it’s that time again to join and show off those singing skills!
+So do you enjoy singing? Are you interested in competing to become the next osu!idol? Plug in your mic and come in, it's that time again to join and show off those singing skills!
 
 ![](/wiki/shared/news/2019-07-02-osu-idol-2019-auditions-now-open/banner.jpg)
 
