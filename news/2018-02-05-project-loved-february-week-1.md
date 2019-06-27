@@ -180,6 +180,6 @@ This is a quick, dense and varied semi-finals pick in 2016 meaning that this cha
 
 -----
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/p/beatmaplist&s=4&r=12) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame?lang=en).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame?lang=en).
 
 —Project Loved
