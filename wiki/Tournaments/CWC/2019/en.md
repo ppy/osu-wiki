@@ -116,13 +116,13 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Russian Federation | ![][flag_RU] | ![][flag_US] | United States | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
 | Belgium | ![][flag_BE] | ![][flag_VE] | Venezuela | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
-| Mexico | ![][flag_MX] | ![][flag_CL] | Chile | **18:00 UTC** | 13:00 UTC-05 | 14:00 UTC-04 |
 | Denmark | ![][flag_DK] | ![][flag_DE] | Germany | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
 | Argentina | ![][flag_AR] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 |
-| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
+| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **19:00 UTC** | 15:00 UTC-04 | 15:00 UTC-04 |
 | Sweden | ![][flag_SE] | ![][flag_CO] | Colombia | **20:00 UTC** | 22:00 UTC+02 | 15:00 UTC-05 |
+| Denmark | ![][flag_DK] | ![][flag_GB] | United Kingdom | **20:00 UTC** | 22:00 UTC+02 | 21:00 UTC+01 |
 | Brazil | ![][flag_BR] | ![][flag_US] | United States | **21:00 UTC** | 18:00 UTC-03 | 17:00 UTC-04 |
-| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
+| Mexico | ![][flag_MX] | ![][flag_CL] | Chile | **22:00 UTC** | 17:00 UTC-05 | 18:00 UTC-04 |
 
 ### Sunday, 30. June 2019
 
@@ -146,8 +146,8 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Italy | ![][flag_IT] | ![][flag_CL] | Chile | **16:00 UTC** | 18:00 UTC+02 | 12:00 UTC-04 |
 | Venezuela | ![][flag_VE] | ![][flag_PL] | Poland | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
 | Colombia | ![][flag_CO] | ![][flag_FR] | France | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
-| Denmark | ![][flag_DK] | ![][flag_GB] | United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
 | Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
+| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **17:00 UTC** | 13:00 UTC-04 | 12:00 UTC-05 |
 
 ---
 
