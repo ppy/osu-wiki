@@ -4,7 +4,7 @@ title: "New Featured Artist: Rising Sun Traxx"
 date: 2019-06-30 13:00:00 +0000
 ---
 
-Did [RiraN](https://osu.ppy.sh/beatmaps/artists/40)'s heavy hardstyle beats strike a nerve that left you wanting more? Do you wish you could find a consolidated list of similar artists all nested under the same label? Did you hope that you could have all of the above packaged together into a neat, new release with pre-timed beatmap templates for you to get started mapping right away?
+Did [RiraN](https://osu.ppy.sh/beatmaps/artists/40)'s heavy hardstyle beats strike a nerve that left you wanting more? Do you wish you could find a consolidated list of similar artists all nested under the same label? 
 
 Welcome to [**Rising Sun Traxx**](https://osu.ppy.sh/beatmaps/artists/41), osu!'s newest record label dedicated to providing you with a wide variety of top-of-the-line music at the low, low price of *absolutely free*.  
 
