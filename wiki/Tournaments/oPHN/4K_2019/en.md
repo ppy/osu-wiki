@@ -66,6 +66,27 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
+
+- FreeMod
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmaps/1751934)
+  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmaps/1697322)
+  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmaps/2013908)
+  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmaps/1790119)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmaps/1824765)
+  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmaps/1735528)
+  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmaps/2017618)
+  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmaps/1658712)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmaps/2001931)
+  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmaps/1979200)
+  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmaps/1484691)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
+  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmaps/2074774)
+- Tiebreaker
+  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmaps/1951599)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
@@ -136,6 +157,20 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ---
 
 ## Match Results
+
+### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
+
+| Saturday, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **- Kura -** | **6** | 5 | realqarp | [#1](https://osu.ppy.sh/community/matches/52819151) |
+
+| Sunday, 2019-06-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Koibenii** | **6** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52840309) |
+| nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
+| windrush123 | 2 | **6** | **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/52846932) |
 
 ### Group Stage
 
