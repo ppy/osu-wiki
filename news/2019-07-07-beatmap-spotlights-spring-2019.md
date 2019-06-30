@@ -6,7 +6,7 @@ date: 2019-07-07 06:00:00 +0000
 
 The sun shines brightly and it is hot outside and you shouldn't be outside during dangerous times! We have prepared a nice package of awesome mapsets from last season for you to spend time with. Come take a look and earn a fancy new medal for yourself by playing them all!
 
-![](/wiki/shared/news/banners/spotlights-header.jpg)
+![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/header.jpg)
 
 The beatmap charts for the Spring Spotlights can be found [here](https://osu.ppy.sh/rankings/taiko/charts?spotlight=263). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Spring 2018 Spotlights rankings will end on the 15th of September, 2018.**
 
