@@ -4,7 +4,7 @@ title: "New Featured Artist: Rising Sun Traxx"
 date: 2019-06-30 13:00:00 +0000
 ---
 
-Did [RiraN](https://osu.ppy.sh/beatmaps/artists/40)'s heavy hardstyle beats strike a nerve that left you wanting more? Did you wish you could find a consolidated list of similar artists all nested under the same label? Did you hope that you could have all of the above packaged together into a neat, new release with pre-timed beatmap templates for you to get started mapping right away?
+Did [RiraN](https://osu.ppy.sh/beatmaps/artists/40)'s heavy hardstyle beats strike a nerve that left you wanting more? Do you wish you could find a consolidated list of similar artists all nested under the same label? Did you hope that you could have all of the above packaged together into a neat, new release with pre-timed beatmap templates for you to get started mapping right away?
 
 Welcome to [**Rising Sun Traxx**](https://osu.ppy.sh/beatmaps/artists/41), osu!'s newest record label dedicated to providing you with a wide variety of top-of-the-line music at the low, low price of *absolutely free*.  
 
@@ -40,9 +40,9 @@ Don't believe me? Try listening to a few previews below:
 
 ---------
 
-You get these four tracks included among the **48 new tracks** available now under [**Rising Sun Traxx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/41), fully timed and ready for the editor. 
+You get find four tracks included among the **48 new tracks** available now under [**Rising Sun Traxx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/41), fully timed and ready for the editor. 
 
-And I know. We've been promising a real paradigm shift in the upcoming genres you can expect coming from future Featured Artist releases, and I *promise* you they're soon approaching. We're more than excited to finally begin unveiling the curtains of what we've got in store, so sit tight in your rocking chair, because it's going to get loud. 
+And I know. We've been promising a real paradigm shift in the upcoming genres you can expect coming from future Featured Artist releases, and I *promise* you they're rapidly approaching. We're more than excited to finally begin unveiling the curtains of what we've got in store, so sit tight in your rocking chair because it's about to get loud. 
 
 Catch you soon!
 
