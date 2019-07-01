@@ -19,8 +19,8 @@
 
 ### Beatmap Nominator removals
 
-- Removed [Garden](https://osu.ppy.sh/users/2849992) - resignation (2019-02-03)
-- Removed [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (2019-02-05)
+- [Garden](https://osu.ppy.sh/users/2849992) - resignation (2019-02-03)
+- [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (2019-02-05)
 
 ### Beatmap Nominator additions
 
