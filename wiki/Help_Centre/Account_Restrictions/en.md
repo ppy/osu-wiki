@@ -65,7 +65,9 @@ If we decide to let you return, we will require that you agree to some terms bef
 
 Additionally, for a period of one year, we will not grant any flag changes for your account.
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. This ban lasts one year and cannot be discussed. Some offences lead to a permanent ban from tournaments and higher positions.
+In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+
+**Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.**
 
 Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
@@ -86,9 +88,9 @@ There are several reasons why an appeal might be denied.
 | - | - | - |
 | Judgement Error | No cooldown | If found erroneous, no impact on the account. |
 | Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
-| Excessive multi-accounting | 3 months | Appeal terms apply |
-| Account sharing | 3 months | Appeal terms apply and partial rollback |
-| Cheating | 3 months | Appeal terms apply and full rollback |
+| Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
+| Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
+| Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
-| Cheating/Sharing for a tournament | 6 months | Appeal terms apply, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, permanent tournament ban |
+| Cheating/Sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
+| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence|
