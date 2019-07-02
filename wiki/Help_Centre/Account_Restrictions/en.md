@@ -67,7 +67,7 @@ Additionally, for a period of one year, we will not grant any flag changes for y
 
 In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. This ban lasts one year and cannot be discussed. Some offences lead to a permanent ban from tournaments and higher positions.
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to poke us on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
+Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
 
 Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
 
