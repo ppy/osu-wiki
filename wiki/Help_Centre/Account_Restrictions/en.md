@@ -17,7 +17,7 @@ The following features are disabled for restricted accounts:
 If your account has been restricted, do not panic. Please follow these steps:
 - **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will hopefully be lifted within that time.
 - **Contact our support team.** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
-- If you strongly believe that your restriction is erreoneous, please contact us immediately so that we can discuss your case.
+- If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
 
 If your account has become restricted for breaking the [rules](/wiki/rules), a strict cooldown of three months will be enforced before you are allowed to send an appeal.
 
@@ -33,7 +33,7 @@ There are several reasons why an account might be restricted.
 - **You cheated.** Using a third-party program, macros, or any form of unfair advantage will result in an immediate restriction.
 - **Other cases.** The accounts team reserves the right to restrict an account for cases that are not covered by the three above.
 
-If an account has been found to be rightfully restricted, we will request the user to wait some time before sending their appeal. The duration of this cooldown varies depending on offences.
+If an account has been found to be rightfully restricted, we will ask that the user waits for some time before sending their appeal.  This is referred to as a *cooldown*, and its duration varies depending on the offences that have taken place.
 
 ## What do I do while on cooldown before appealing?
 
