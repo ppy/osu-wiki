@@ -9,7 +9,7 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) is an Asian and Oceanian double-elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It is the third installment of the tournament and extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) is an Asian and Oceanian double-elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It is the third installment of the tournament and extension from the Asia region to Asia and Oceania.
 
 ## Tournament Schedule
 
@@ -29,8 +29,8 @@ The **Asian-Oceanian Taiko Showdown** (***AOTS***) is an Asian and Oceanian doub
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive team banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive team banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive team banner |
 
 ## Organisation
 
