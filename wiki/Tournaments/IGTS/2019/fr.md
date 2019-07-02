@@ -112,37 +112,56 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 ---
 
-## Planning des matches: Demi-finales
+## Planning des matches: Finales
 
-### Samedi, 29 Juin 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| L1 | Hong Kong | ![][flag_HK] | ![][flag_AR] | Argentina | **01:00** |
-| W1 | United States A | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
-| L2 | France A | ![][flag_FR] | ![][flag_JP] | Japan | **12:00** |
-| W2 | Chile | ![][flag_CL] | ![][flag_CN] | China | **14:00** |
-
-### Dimanche, 30 Juin 2019
+### Samedi, 6 Juillet 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| L3a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
-| L3b¹ | United States A | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
-| L3c¹ | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **08:00** |
-| L3c¹ | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **13:00** |
-| L4a² | Chile | ![][flag_CL] | ![][flag_FR] | France A | **19:00** |
-| L4b² | Chile | ![][flag_CL] | ![][flag_JP] | Japan | **02:00** |
-| L4c² | China | ![][flag_CN] | ![][flag_FR] | France A | **12:00** |
-| L4d² | China | ![][flag_CN] | ![][flag_JP] | Japan | **10:00** |
+| L1 | Hong Kong | ![][flag_HK] | ![][flag_FR]| France A | **09:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_CL] | Chile | **23:00** |
+
+### Dimanche, 7 Juillet 2019
+
+| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| L2a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **03:00** |
+| L2b¹ | United States A | ![][flag_US] | ![][flag_FR] | France A | **18:00** |
+| L2c¹ | Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **02:00** |
+| L2c¹ | Chile | ![][flag_CL] | ![][flag_FR] | France A | **18:00** |
 
 ¹ Confrontation dépendant du **perdant du Match W1** et du **gagnant du Match L1**
-
-² Confrontation dépendant du **perdant du Match W2** et du **gagnant du Match L2**
 
 ---
 
 ## Liste des maps
+
+### Finales
+
+**[Téléchargez le mappack ici! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+
+- NoMod
+  - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
+  - [Shiokara-zu - Shiokara-Bushi (Skull Kid) \[Oni\]](https://osu.ppy.sh/beatmapsets/517401#taiko/1099368)
+  - [ITO KASHITARO - Yuudachi no Ribbon (Prophecy) \[Oni\]](https://osu.ppy.sh/beatmapsets/831573#taiko/1743336)
+  - [be5moti - Trahison (houraizin) \[Oni\]](https://osu.ppy.sh/beatmapsets/833305#taiko/1745535)
+  - [Sota Fujimori - polygon (Fallmorph) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1628101)
+  - [(Seiryu) - AO-INFINITY (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/869505#taiko/1824962)
+- Hidden
+  - [Memme - Unison System (Love) \[Oni\]](https://osu.ppy.sh/beatmapsets/185198#taiko/442943)
+  - [40mP feat. Chano - Yuugure One Room (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/469504#taiko/1004024)
+- HardRock
+  - [Mili - Summoning 101 (Dellvangel) \[Oni\]](https://osu.ppy.sh/beatmapsets/804107#taiko/1687872)
+  - [MY FIRST STORY - Fukagyaku Replace (Broccoly) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/383270#taiko/896262)
+- DoubleTime
+  - [Hanatan - Sarishinohara (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/886776#taiko/1853891)
+  - [Yunomi with Momobako&miko - Soumatou Labyrinth (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/625493#taiko/1319575)
+- FreeMod
+  - [MitiS - Pain (Original Mix) (game rock) \[Oni\]](https://osu.ppy.sh/beatmapsets/680259#taiko/1438414)
+  - [Ocelot - TSUBAKI (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427931)
+  - [Orange Lounge - Les filles balancent (Zetera) \[Oni\]](https://osu.ppy.sh/beatmapsets/684224#taiko/1448036)
+- Tiebreaker
+  - **[EGOIST - The Everlasting Guilty Crown (JUDYDANNY) \[Taiko Crown\]](https://osu.ppy.sh/beatmapsets/658600#taiko/1430707)**
 
 ### Demi-finales
 
@@ -251,15 +270,29 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 ## Match Results
 
+### Demi-finales
+
+| Samedi, 2019-06-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
+| **Chile** ![][flag_CL] | **7** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/52987753) |
+| **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/52987594) |
+
+| Dimanche, 2019-06-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **France A** ![][flag_FR] | **7** | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/53005399) |
+| Philippines ![][flag_PH] | 6 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53005654) |
+| China ![][flag_CN] | 1 | **7** | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53009063) |
+
 ### Quarts de finale
 
 | Samedi, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia A ![][flag_ID] | 0 | **6** | ![][flag_US] **United States A** | -win by default- |
-| France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/mp/52814381) |
-| **China** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/mp/52818020) |
+| France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52818020) |
 | **Chile** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/52820880) |
-| Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/mp/52820731) |
+| Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
 | Dimanche, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -271,21 +304,21 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 | Samedi, 2019-06-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Chine** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/mp/52630781) |
-| Taïwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/mp/52636109) |
-| **Indonésie A** ![][flag_ID] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/mp/52637520) |
-| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/mp/52637498) |
+| **Chine** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/52630781) |
+| Taïwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
+| **Indonésie A** ![][flag_ID] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/52637520) |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52637498) |
 | Mexique ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentine ![][flag_AR] | 3 | **6** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
-| Pologne A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/52647239) |
+| Pologne A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
 | **États Unis A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
 
 | Dimanche, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Équateur | [#1](https://osu.ppy.sh/community/matches/52657012) |
-| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/mp/52661179) |
-| Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/mp/52673843) |
-| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/mp/52676942) |
+| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
+| Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
+| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
 | Samedi, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -302,17 +335,17 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 | G4 | **Indonésie B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Pérou | [#1](https://osu.ppy.sh/community/matches/52447584) |
 | G6 | Indonésie B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brésil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
 | D2 | Singapour ![][flag_SG] | 2 | **5** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52453695) |
-| A3 | Taïwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/mp/52457632) |
+| A3 | Taïwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
 | B3 | Pologne A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | -win by default- |
 | A2 | Finlande ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
-| C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australie** | [#1](https://osu.ppy.sh/mp/52453715) |
-| B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/mp/52454819) |
+| C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australie** | [#1](https://osu.ppy.sh/community/matches/52453715) |
+| B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/community/matches/52454819) |
 | D3 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
 | C2 | France B ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/52455708) |
 | H2 | Irlande ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
 | A1 | **Indonésie A** ![][flag_ID] | **5** | 1 | ![][flag_DE] Allemagne | [#1](https://osu.ppy.sh/community/matches/52454774) |
 | H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
-| D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Pays-Bas | [#1](https://osu.ppy.sh/mp/52459107) |
+| D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Pays-Bas | [#1](https://osu.ppy.sh/community/matches/52459107) |
 | B2 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PL] **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
 | H1 | **Pologne B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombie | -win by default- |
 | E4 | **Argentine** ![][flag_AR] | **5** | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/52492419) |
@@ -336,7 +369,7 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 | A6 | Allemagne ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taïwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
 | F5 | Danemark ![][flag_DK] | 3 | **5** | ![][flag_CN] **Chine** | [#1](https://osu.ppy.sh/community/matches/52484212) |
 | A5 | Finlande ![][flag_FI] | 3 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52485543) |
-| D6 | Pays-Bas ![][flag_NL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/mp/52456119) |
+| D6 | Pays-Bas ![][flag_NL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/52456119) |
 | B5 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52486785) |
 | B4 | Suisse ![][flag_CH] | 0 | **5** | ![][flag_GR] Grèce | [#1](https://osu.ppy.sh/community/matches/52488184) |
 | A4 | Allemagne ![][flag_DE] | 2 | **5** | ![][flag_FI] **Finlande** | [#1](https://osu.ppy.sh/community/matches/52489442) |
