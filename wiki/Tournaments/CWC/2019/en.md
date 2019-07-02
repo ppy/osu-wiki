@@ -95,18 +95,18 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **11:30 UTC** | 13:00 UTC+02 | 20:00 UTC+09 |
+| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **11:30 UTC** | 13:30 UTC+02 | 20:30 UTC+09 |
 | China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | **14:30 UTC** | 17:00 UTC+03 | 16:00 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | **14:30 UTC** | 17:30 UTC+03 | 16:30 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_FR] | France | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
-| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:30 UTC** | 13:00 UTC-04 | 14:00 UTC-03 |
+| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:30 UTC** | 13:30 UTC-04 | 14:30 UTC-03 |
 | Mexico | ![][flag_MX] | ![][flag_US] | United States | **19:00 UTC** | 14:00 UTC-05 | 15:00 UTC-04 |
 
 ### Sunday, 7. July 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_GB] | United Kingdom | **11:30 UTC** | 19:00 UTC+08 | 12:00 UTC+01 |
+| Philippines | ![][flag_PH] | ![][flag_GB] | United Kingdom | **11:30 UTC** | 19:30 UTC+08 | 12:30 UTC+01 |
 | Taiwan | ![][flag_TW] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 
 ---
