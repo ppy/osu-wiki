@@ -7,68 +7,67 @@ tags:
 
 # Asian Taiko Showdown 2018
 
-![ATS 2018 Logo](logo.jpg)
+![ATS 2018 Logo](img/logo.jpg)
 
-> Unite the Diversity between us!
+> 皆で多様性を結び付けましょう！
 
-**Asian Taiko Showdown 2018 _(ATS 2018)_** 是由 ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) 舉辦，以雙敗淘汰制形式進行的單對單比賽。
-本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) ，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
+**Asian Taiko Showdown 2018** (***ATS 2018***) は、![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002)氏主催の一対一のosu!taikoの大会で、double eliminationトーナメント方式(１回負けると敗者復活戦に参加して計２回負けるまで戦う形式のトーナメント)です。以前にATSは [Indonesian Taiko Showdown(IDTS)](https://osu.ppy.sh/community/forums/topics/576070)として知られていました。今大会は第二回であり、対象国がインドネシアからアジアへと対象が広がりました。
 
-## 比賽賽程表
+## 大会スケジュール
 
-| 階段  | 時間 |
+| 行事 | 日時 |
 | --: | :-- |
-| 報名 | 2018-04-21/2018-05-26 |
-| 分組 | 2018-05-27 (19:00 UTC +7) |
-| 小組賽 | 2018-06-02/2018-06-03 |
-| 十六強 | 2018-06-09/2018-06-10 |
-| 八強 | 2018-06-16/2018-06-17 |
-| 四強 | 2018-06-23/2018-06-24 |
-| 決賽 | 2018-06-30/2018-07-01 |
-| 總決賽 | 2018-07-08 |
+| 参加受付 | 2018-04-21/2018-05-26 |
+| 締め切り | 2018-05-27 21:00 UTC+9(日本時間)) |
+| Group Stage | 2018-06-02/2018-06-03 |
+| Round of 16 | 2018-06-09/2018-06-10 |
+| Quarterfinals | 2018-06-16/2018-06-17 |
+| Semifinals | 2018-06-23/2018-06-24 |
+| Finals | 2018-06-30/2018-07-01 |
+| Grand Finals | 2018-07-08 |
 
-## 獎品
+## 賞
 
-| 名次 | 獎品 |
+| 順位 | 賞 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "冠軍") | 特製徽章 及 個人版面橫額 |
-| ![Silver Crown](/wiki/shared/SCrown.png "亞軍") | 個人版面橫額 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "季軍") | 個人版面橫額 |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 特別なプロフィールバッジ, ユーザーページにバナー追加 |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ユーザーページにバナー追加 |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ユーザーページにバナー追加 |
 
-## 工作人員
+## 主催者
 
-The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
+ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営します。
 
-| 職位 | 成員 |
+| 役割 | ﾒﾝﾊﾞｰ |
 | :-- | :-- |
-| 主辦 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
-| 選譜 | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| 評論 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
-| 直播 | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279) |
-| 美術 | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
-| 裁判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻譯 | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
-| 統計 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 主催 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 譜面セレクター | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| コメンテーター | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
+| 放送配信者 | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279) |
+| デザイナー | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| 審判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| 翻訳家  | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
+| 集計 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
-## 連結
+## リンク
 
-- [大賽討論頁面](https://osu.ppy.sh/community/forums/topics/726251)
-- [賽事直播連結](https://www.twitch.tv/osutaikoshowdown)
-- [比賽專用Discord](https://discord.gg/2xQDbkS)
-- **[ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
+- [討論スレッド](https://osu.ppy.sh/community/forums/topics/726251)
+- [ライブ配信](https://www.twitch.tv/osutaikoshowdown)
+- [ATSディスコード](https://discord.gg/2xQDbkS)
+- **[ATS 統計シート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
------------------------
+---
 
-## 參賽者
+## 参加者
 
-| Seed | 成員 |
+| Seed | 選手 |
 | :-- | :-- |
 | Top | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371), ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ![][flag_JP] [toorun12](https://osu.ppy.sh/users/10349712) |
 | High | ![][flag_MY] [ZethZ161](https://osu.ppy.sh/users/9912966), ![][flag_KR] [L y s](https://osu.ppy.sh/users/211825), ![][flag_JP] [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957), ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) |
 | Low | ![][flag_JP] [Sanawieck](https://osu.ppy.sh/users/4125666), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092), ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845), ![][flag_MY] [Dakry](https://osu.ppy.sh/users/1994145), ![][flag_AU] [SpiritsUnite](https://osu.ppy.sh/users/1198002), ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981), ![][flag_ID] [Braixen](https://osu.ppy.sh/users/4871378), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504) |
 | Bottom | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_PH] [Micka](https://osu.ppy.sh/users/2770422), ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_VN] [Taiko\_VN12](https://osu.ppy.sh/users/10072828), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_ID] [\_CaKy\_](https://osu.ppy.sh/users/9828983), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_ID] [Jin Kun](https://osu.ppy.sh/users/6896699), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_PH] [-Zephy-](https://osu.ppy.sh/users/6862483) |
 
-## 小組
+## グループ
 
 | Group | Top Seed | High Seed | Low Seed | Bottom Seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -80,26 +79,26 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | **F** | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_AU] [SpiritsUnite](https://osu.ppy.sh/users/1198002) | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
- 
------------------------
 
-![ATS 2018 Podium](podium.jpg)
+---
 
------------------------
+![ATS 2018 Podium](img/podium.jpg)
 
-![ATS 2018 Upper Bracket](upper_bracket.jpg)
+---
 
-![ATS 2018 Lower Bracket](lower_bracket.jpg)
+![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
-![ATS 2018 GS Participants](gs_participants.gif)
+![ATS 2018 Lower Bracket](img/lower_bracket.jpg)
 
------------------------
+![ATS 2018 GS Participants](img/gs_participants.gif)
 
-## 圖池
+---
 
-### 總決賽
+## 譜面プール(課題曲)
 
-**[此處下載圖池 (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
+### Grand Finals
+
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](https://osu.ppy.sh/beatmapsets/625899/#taiko/1574085)
@@ -125,9 +124,9 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[RoughSketch + DD""Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Guardistack-) \[STAnic\]](https://osu.ppy.sh/beatmapsets/748030/#taiko/1695846)**
 
-### 決賽
+### Finals
 
-**[此處下載圖池 (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/796419/#taiko/1672405)
@@ -153,9 +152,9 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[BlackY - Harpuia -evolutionary extended ver- (Sand, Backfire) \[Sand x Backfire\]](https://osu.ppy.sh/beatmapsets/523713/#taiko/1111804)**
 
-### 四強
+### Semifinals
 
-**[此處下載圖池 (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737973/#taiko/1557391)
@@ -181,21 +180,21 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[Morimori Atsushi vs. uma - Noel (long ver.) (Ayyri) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/705224/#taiko/1491659)**
 
-### 八強
+### Quarterfinals
 
-**[此處下載圖池 (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809/#taiko/1172641)
   - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173/#taiko/1602516)
   - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157/#taiko/1104911)
-  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581/#taiko/398568)
+  - [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581/#taiko/398568)
   - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516/#taiko/1575117)
 - Hidden
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265/#taiko/1670210)
   - [Ayasa - Kou ! Tetsu ! Ketsu ! Sen ! -Ironbottom Sound- (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/519566/#taiko/1103735)
 - HardRock
-  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/326711/#taiko/725333)
+  - [Project Grimoire - Caliburne ~\Story of the Legendary sword\~ (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/326711/#taiko/725333)
   - [ginkiha + kamome sano - Dawn of Asia (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/446239/#taiko/958486)
 - DoubleTime
   - [Meg & Dia - Monster (DotEXE Remix) (NewibornCLivee) \[NC's Inner Oni\]](https://osu.ppy.sh/beatmapsets/157896/#taiko/386782)
@@ -209,9 +208,9 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[Asterisk - World's End, Girl's Rondo(Asterisk DnB Remix) (Steven1) \[Special*\]](https://osu.ppy.sh/beatmapsets/551087/#taiko/1624252)**
 
-### 十六強
+### Round of 16
 
-**[此處下載圖池 (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898/#taiko/145660)
@@ -237,9 +236,9 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[IOSYS - Doutei Korose (Plua-) \[Taikorose-\]](https://osu.ppy.sh/beatmapsets/653540/#taiko/1385416)**
 
-### 小組賽
+### Group Stage
 
-**[此處下載圖池 (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
 
 - NoMod
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248/#taiko/148859)
@@ -267,7 +266,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### Eliminations Stage
 
-**[此處下載圖池 (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
+**[Mappackのダウンロードはこちら！ (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
 
 - NoMod
   - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854/#taiko/156706)
@@ -288,18 +287,18 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
-------------------------------------------------------------------------
+---
 
-## 比賽結果
+## 試合結果
 
-### 總決賽
+### Grand Finals
 
 | Group | Sunday, 2018-07-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | UB | nyanmi-1828 ![][flag_JP] | 2 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/43991727) |
 | LB | **Smallwu** ![][flag_TW] | **7** | 0 | ![][flag_JP] nyanmi-1828 | -win by default- |
 
-### 決賽
+### Finals
 
 | Group | Saturday, 2018-06-30 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -312,7 +311,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | LB | **Smallwu** ![][flag_TW] | **7** | 1 | ![][flag_TW] qoot8123 | [#1](https://osu.ppy.sh/community/matches/43804465) |
 | LB | butter0414 ![][flag_JP] | 0 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/43807559) |
 
-### 四強
+### Semifinals
 
 | Group | Saturday, 2018-06-23 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -328,7 +327,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | LB | TS\_LewisLuo ![][flag_TW] | 5 | **6** | ![][flag_JP] **Xin Leviathan** | [#1](https://osu.ppy.sh/community/matches/43613894) |
 | UB | **nyanmi-1828** ![][flag_JP] | **6** | 2 | ![][flag_JP] Sanawieck | [#1](https://osu.ppy.sh/community/matches/43617099) |
 
-### 八強
+### Quarterfinals
 
 | Group | Saturday, 2018-06-16 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -344,7 +343,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | UB | **butter0414** ![][flag_JP] | **5** | 3 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/43414816) |
 | LB | Noko\_BSF ![][flag_JP] | 2 | **5** | ![][flag_JP] **KILI3343** | [#1](https://osu.ppy.sh/community/matches/43415768) |
 
-### 十六強
+### Round of 16
 
 | Group | Saturday, 2018-06-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -360,7 +359,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | UB | Noko\_BSF ![][flag_JP] | 0 | **5** | ![][flag_JP] **butter0414** | -win by default- |
 | UB | **ayomikasa** ![][flag_ID] | **5** | 1 | ![][flag_JP] KILI3343 | [#1](https://osu.ppy.sh/community/matches/43221245) |
 
-### 小組賽
+### Group Stage
 
 | Group | Saturday, 2018-06-02 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -425,86 +424,85 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
-------------------------------------------------------------------------
+---
 
-## 規則
+## ルールセット
 
-### 賽事規則
+### 大会ルール
 
-1. Asian Taiko Showdown 以單對單的形式進行，為 osu!taiko 模式的比賽。
-2. 有意參賽者須達到以下條件方接受報名：
-    - 報名參賽者必須填寫相關報名表格。
-    - 報名參賽者之國家旗幟須為亞洲地區。
-    - 報名參賽者不得逾8,500pp。
-    - 報名參賽者之帳戶須註冊滿六個月或以上。
-3. 計分方法為 **Score V2**。
-4. 賽程將由主辦單位安排。
-5. 倘若裁判或主辦單位成員無法出席賽事，將予以延期處理。
-6. 一方無法取得合格視作對方勝論。
-7. 和局不予計分，由另一方選譜繼續比賽。
-8. 開賽十分鐘後仍然缺席作棄權論。
-9. 一方斷線作該譜面不合格論。
-   - 開始三十秒內斷線則可作重賽。
-10. 選譜期間斷線最多可以暫停比賽十分鐘等待。
-    - 斷線逾十分鐘者作棄權論。
-11. 小組賽中，因對方棄權而勝者視為以四比零比數勝出。
-12. 突發事件應交由主辦單位解決；裁判可以酌情作出判斷。
+1. Asian Taiko Showdownはosu!taikoゲームモードでプレイする一対一のトーナメントです。
+2. 参加するためには、以下の条件を満たす必要があります。
+    - 参加者は予め用意されたフォームに記入しなくてはいけません。
+    - 参加者のプロフィール旗はアジア国でなければなりません。
+    - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
+    - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
+3. 譜面のスコアは **Score V2**が適用されます。
+4. 各日の試合スケジュールはトーナメント管理に基づいて行われます(下記参照)。
+5. もしスタッフ若しくは審判が不在の場合、試合は延期されます。
+6. クリアに失敗したプレイは、相手側の勝利になります。
+7. 試合が引き分けた場合、そのゲームは無効となり、次のプレイヤーの選曲に進みます。
+8. プレイヤーが開始から１０分以内に訪れない場合、相手側の不戦勝となります。
+9. プレイヤーの接続が切れた場合、クリアに失敗したプレイとして扱われます。
+   - 曲が始まって３０秒以内に接続が切れた場合は、その曲の再戦ができます。
+10. プレイ中ではない時にプレイヤーの接続が切断されると、１０分までは試合再開の猶予が与えられます。
+    - １０分以上接続がなかった場合、その試合は基本的に相手側の不戦勝となります。
+11. Group stageの不戦勝は、4点を先に取り、+1.0以上のスコア差であることで勝利とみなします。
+12. 予期せぬ出来事が起きた場合はTournament Managementにより処理されます。審判員は上記のルールよりも寛容にプレイヤーに接することが許されています。これは審判員の裁量によります。
 
-### 階段說明
+### ステージに関して
 
-1. 在小組賽階段，參賽者將被分為八組，每組六人。
-2. 每組參賽者將互相對決。
-3. 每組前四名將獲晉級。
-4. 小組賽以後的賽事為雙敗淘汰制。
+1. 第一ステージ(Group Stage)では、プレイヤーは8つの6人グループに分かれます。
+2. 各グループにおける全プレイヤーはお互いに戦います。
+3. 各グループの上位4プレイヤーは Knock-Out Stage へと進みます。
+4. Following stageはDouble-Eliminationステージになります。これはつまり、勝者は次のステージに進み、敗者は敗者復活戦へと流れます。
 
-### 比賽說明
+### 試合に関して
 
-1. 裁判將於每局對賽十五分鐘前建立房間。參賽者務必準時到達。
-   - 房間相關設定為：osu!taiko，Head to Head，勝利條件為＂Score V2＂。房名必為＂ATS 2018: (藍方) vs (紅方)＂。
-   - 房間名字中首先出現的參賽者名稱須為藍組，其次者須為紅組。
-2. 每位參賽者可以自由選擇一張熱身譜面。禁止選擇內容不雅的譜面，或是非太鼓專用之譜面。
-3. 每位參賽者各需禁用 **一張譜面** ，於該場比賽期間不得作為可選譜面。
-4. 每位參賽者輪流由圖池選擇譜面。
-5. 每位參賽者須在 #multiplayer 使用 「!roll」指令。
-   - !roll 值較高者可以首先選擇比賽譜面。
-   - !roll 值較低者可以首先ban圖
-6. 玩家可以從圖池中任意選擇一張譜面。
-   - 和局者須由Tiebreaker譜面以決勝負。
+1. 審判はあらかじめ15分前に部屋を作ります。プレイヤーはこの間に集まらなければなりません。
+   - ルームはosu!taiko, Head To Head, Win Condition'Score V2'にセッテイングされます。ルーム名は"ATS 2018: (TeamBlue) vs (TeamRed)"とならなければなりません。
+   - ルーム内で最初に呼ばれたプレイヤーがblue teamとなり、2番目に呼ばれたプレイヤーがred teamとならなければなりません。
+2. お互いのプレイヤーは自由に1回だけウォーミングアップの譜面が選べます。但し、試合に適さない譜面は禁止されます。全てのマップはosu！taiko専用の譜面でなければなりません。
+3. お互いのプレイヤーは、プール内の譜面を１つ追放する権利があります。これらの譜面は試合中において、全プレイヤーが選ぶことが禁止されます。
+4. 譜面選択は、mappoolから譜面を選んでいるプレーヤーの間で交互に代わります。
+5. お互いのプレイヤーは、 "!roll"を #multiplayerのチャンネル内のチャットで一度発言しなければなりません。
+   - !rollの(数字が高い)勝者は試合開始の譜面を選びます。
+   - !rollの(数字が低い)敗者は禁止譜面を選びます。
+6. プレイヤーは各ブラケット(Mappool Instructions参照)から自由に選びます。
+   - 最後まで同点の場合、Tiebreakerの譜面を選ばなくてはなりません。
 
-### 圖池說明
+### 譜面プールに関して
 
-1. 各個階段皆會使用各不相同的圖池。
-   - 但決賽及總決賽使用相同的圖池
-2. 每個圖池皆由 NoMod、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers)、Special 以及 FreeMod 組成。
-3. 每個圖池皆有 16 張譜面。
-4. 每個圖池皆有 1 張 Tiebreaker。
-5. NoMod 將在不使用任何Mod的狀況下遊玩。
-6. Special 相較於NoMod更難且有更多花樣，其將在不使用任何Mod的狀況下遊玩。
-7. Hidden、HardRock 以及 DoubleTime 將在開啟它們各自的Mod的狀況下遊玩。
-8. FreeMod 可允許使用NoMod，HardRock，Hidden 或是兩者皆用的狀況下遊玩
-9. Tiebreaker 將以NoMod的狀況下遊玩。
-   - 假若平局，Tiebreaker將會以FreeMod再次被遊玩。
-10. 圖池由以下格式組成：
-   - 5 張NoMod
-   - 2 張Hidden
-   - 2 張HardRock
-   - 2 張DoubleTime
-   - 2 張Special
-   - 2 張FreeMod
-   - 1 張Tiebreaker
+1. グループステージ、1回戦、2回戦、準々決勝、準決勝、決勝ではそれぞれのmappoolがあります。
+2. それぞれの譜面プールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special,そして FreeModです。
+3. それぞれの譜面プールには合計16の譜面があります。
+4. それぞれの譜面プールには１つのtiebreakerの譜面があります。
+5. NoModブラケットは no modeでプレイされます。
+6. SpecialブラケットはNoModブラケットにある異なる譜面の高難度バージョンで、no modeでプレイされます。
+7. Hidden, HardRockそして DoubleTimeブラケットはそれぞれのmodsでプレイされます。
+8. FreeModブラケットは FreeModでプレイされます。全てのプレイヤーはHidden, HardRock,両方,もしくは NoModのいずれかでプレイできます。
+9. Tiebreakerは NoModでプレイされます。
+   - Tiebreakerで同点だった場合、もう一度Tiebreakerを FreeModの条件で再戦します。
+10. 譜面プールの各ブランケットの譜面数は
+    - 5 NoMod
+    - 2 Hidden
+    - 2 HardRock
+    - 2 DoubleTime
+    - 2 Special
+    - 2 FreeMod
+    - 1 Tiebreaker
 
-### 賽程說明
+### スケジュールに関して
 
-1. 每階段的比賽都會被安排在 **單個週末** 內舉行。
-2. 所有的雙淘汰階段都會被安排在週六或週日(UTC+7)舉行。
-3. 賽程由主辦單位安排。時間表將會在當前階段之所有比賽結束後的星期天被公布。重新安排賽程是允許的，但選手雙方皆必須同意，且必須提供證據。
+1. それぞれのステージは各週末で開催されます。
+2. 全てのDouble Elimination Stageは土曜日か日曜日(UTC+7)に開催されます。
+3. スケジュールはTournament Managementにより操作されます。スケジュールは現在のステージが終わった後で日曜日に発表されます。スケジュール変更は許可されていますが、双方のプレーヤーの同意と変更先の日程で試合ができることを確認しなければなりません。
 
-### 勝利條件
+### 勝利条件
 
-1. 小組賽階段 為 7 戰 4 勝制，獲得 4 勝方可勝出。
-2. 十六強 和 八強階段 為 9 戰 5 勝制，獲得 5 勝方可勝出。
-3. 四強階段 為 11 戰 6 勝制，獲得 6 勝方可勝出。
-4. 決賽 和 總決賽 為 13 戰 7 勝制，獲得 7 勝方可勝出。
+1. Group Stageにおいて、勝つためには試合で４つの譜面で勝利する必要があります。
+2. Round of 16と準々決勝において、勝つためには試合で５つの譜面で勝利する必要があります。
+3. 準決勝において、勝つためには試合で６つの譜面で勝利する必要があります。
+4. 決勝と最終戦において、勝つためには試合で７つの譜面で勝利する必要があります。
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

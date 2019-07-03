@@ -7,11 +7,11 @@ tags:
 
 # Asian Taiko Showdown 2018
 
-![ATS 2018 Logo](logo.jpg)
+![ATS 2018 Logo](img/logo.jpg)
 
 > Unite the Diversity between us!
 
-The **Asian Taiko Showdown 2018 _(ATS 2018)_**, is a double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from the Indonesia region to Asia.
+The **Asian Taiko Showdown 2018** (***ATS 2018***), is a double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). This is the 2nd installment of the tournament and extension from the Indonesia region to Asia.
 
 ## Tournament Schedule
 
@@ -82,15 +82,15 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 -----------------------
 
-![ATS 2018 Podium](podium.jpg)
+![ATS 2018 Podium](img/podium.jpg)
 
 -----------------------
 
-![ATS 2018 Upper Bracket](upper_bracket.jpg)
+![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
-![ATS 2018 Lower Bracket](lower_bracket.jpg)
+![ATS 2018 Lower Bracket](img/lower_bracket.jpg)
 
-![ATS 2018 GS Participants](gs_participants.gif)
+![ATS 2018 GS Participants](img/gs_participants.gif)
 
 -----------------------
 

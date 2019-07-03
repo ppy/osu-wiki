@@ -133,7 +133,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 
-### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
+### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |

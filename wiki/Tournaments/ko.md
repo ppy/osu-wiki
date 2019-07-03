@@ -1,17 +1,15 @@
 # 대회
 
 이 곳은 osu! 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
- 
- 
+
 ## 공식 대회
 
 공식 대회는 모두 osu! 공식 대회 매니지먼트에서 주최합니다.
- 
+
 ### ![](/wiki/shared/mode/osu.png) 역대 osu! 월드컵 목록
 
 osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수들이 더블 엘리미네이션 토너먼트 형식으로 진행하게 됩니다. 월드컵은 국제적인 행사이고 매년 치뤄집니다. 오스 커뮤니티는 물론, 전세계 플레이어들이 최고의 대회로 만들기 위해 함께합니다.
- 
- 
+
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | [osu! World Cup #1](/wiki/Tournaments/OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] 대만 | ![][flag_NL] 네덜란드 | ![][flag_KR] 대한민국 |
@@ -96,7 +94,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | osu! TV Size Tournament 2017 | 2017-03-04 | 2017-04-15 | European Dream | MudHorse | !^ |
 | [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 2018-02-17 | 2018-04-15 | Rubber Conquest | Floating up | black dogleg |
 
-### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
+### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
@@ -200,10 +198,10 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 ## 같이보기
--   [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
--   [osu! 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)
 
+- [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
+- [osu! 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+- [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
