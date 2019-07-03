@@ -55,7 +55,11 @@ _written by [Nao Tomori](https://osu.ppy.sh/users/5364763)
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/731108)
 
-_written by [Nao Tomori](https://osu.ppy.sh/users/5364763)
+Like last time, we present you another set of "Kyoumen no Nami" by YURiKA. This time it's [Vell](https://osu.ppy.sh/users/3414541)'s turn to show what amazing things you can do with this breathtaking song. He captures the song's beauty perfectly with his movement choices and hitsounds that the map is definitly a hightlight to play. [Darky1](https://osu.ppy.sh/users/3372928)'s storybeard definitly adds to the atmosphere for a great gameplay experience.
+
+Don't forget to check out on the lower difficulties by [Stjpa](https://osu.ppy.sh/users/2954693) and [Smokeman](https://osu.ppy.sh/users/2140676) which both also archieve to follow the song in a very enjoyable way.
+
+_written by [Icekalt](https://osu.ppy.sh/users/5410645)
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/focus.jpg)](https://osu.ppy.sh/beatmapsets/925329)
 
@@ -67,7 +71,7 @@ _written by [Smokeman](https://osu.ppy.sh/users/2140676)
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/line.jpg)](https://osu.ppy.sh/beatmapsets/899381)
 
-A sharp contrast from recent trends of electronic and anime music, Yuuya_ke delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook". The highly emotive indie track is accented beautifully through a level of flow and rhythm mastery unprecedented from most mappers' first ranked mapsets. Regardless, Line Without A Hook doesn't disappoint in highlighting how even rudimentary patterning can culminate into a moving, well-polished product that'll leave you begging for more.
+A sharp contrast from recent trends of electronic and anime music, [Yuuya_ke](https://osu.ppy.sh/users/6441720) delivers a strikingly simplistic, yet effective mapset of Ricky Montgomery's "Line Without A Hook". The highly emotive indie track is accented beautifully through a level of flow and rhythm mastery unprecedented from most mappers' first ranked mapsets. Regardless, Line Without A Hook doesn't disappoint in highlighting how even rudimentary patterning can culminate into a moving, well-polished product that'll leave you begging for more.
 
 _written by [Toy](https://osu.ppy.sh/users/2757689)
 
@@ -77,7 +81,7 @@ _written by [Toy](https://osu.ppy.sh/users/2757689)
 
 Starting off the list of spotlighted maps for this season, we have a mapset extraordinaire coming from [SKSalt](https://osu.ppy.sh/users/3280542), a relatively old mapper some people have been considering to be ahead of their time back in the day, and even today this holds true, as this rendition of "Ylil's overed landscape" by xyst masterfully exemplifies!
 
-There are so many things to say about this map, such as ranging from a load of seven refined difficulties to make sure players of all skill levels are in for a treat, amazing spread management which helps less-experienced players advance to the next stage, and last, but most certainly not least, the sheer creativity and execution you can see in the top difficulty.
+There are so many things to say about this map, such as ranging from a load of seven refined difficulties to make sure players of all skill levels are in for a treat. Amazing spread management which helps less-experienced players advance to the next stage, and last, but most certainly not least, the sheer creativity and execution you can see in the top difficulty.
 
 Speaking of which, boy, ohh boy it is hard. Insanely hard. You might expect "pp map" when you look at its BPM and Star Rating, but let me tell you: this is anything but ordinary. The way 1/6 patterns are arranged will keep your fingers dancing constantly during the intense parts, as do the streams, which also feature a mix of longer 1/6 bursts - up to 13 notes in a row, which is not easy to keep up with at 200 BPM, especially with their rather unusual colouring! - and the Slider Velocity manipulation will demand your eyes to adjust quickly, as it gets increasingly faster along with the song's intensity, befitting it perfectly!
 
