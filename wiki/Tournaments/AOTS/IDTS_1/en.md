@@ -51,7 +51,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 - [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -69,7 +69,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 | ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Koucha-](https://osu.ppy.sh/users/2537412) | ![][flag_ID] [Plua-](https://osu.ppy.sh/users/974012) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | ![][flag_ID] [\_Destroyer\_](https://osu.ppy.sh/users/3185598) | ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) |
 | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490) | ![][flag_ID] [pingping2011](https://osu.ppy.sh/users/1094255) | ![][flag_ID] [sweetbravery](https://osu.ppy.sh/users/6807808) | ![][flag_ID] Elisabeth- | ![][flag_ID] [Rendang](https://osu.ppy.sh/users/3866968) | ![][flag_ID] [\_CaKy\_](https://osu.ppy.sh/users/9828983) | ![][flag_ID] [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341) |
 
------------------------
+---
 
 ## Podium
 
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
 
------------------------
+---
 
 ## Mappools
 
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[CHiCO with HoneyWorks - Sekai wa Koi ni Ochiteiru (newyams99) \[Oni\]](https://osu.ppy.sh/beatmaps/861612&m=1)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -326,7 +326,7 @@ This competition has come to an end and resulted in the following podium:
 | A | **Wim Are** ![][flag_ID] | **4** | 0 | ![][flag_ID] Buyut | [#1](https://osu.ppy.sh/community/matches/33003681) |
 | C | **Nishizumi** ![][flag_ID] | **4** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33005364) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
