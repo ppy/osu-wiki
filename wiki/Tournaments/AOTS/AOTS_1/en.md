@@ -87,8 +87,8 @@ The Asian-Oceanian Taiko Showdown is run by various community members by distrib
 
 1. The referee will create the room and invite the respective players in.
 2. The participants will use `!roll` tournament to determine the order of picking beatmaps.
-3. The participants that scores higher will pick the first beatmap to play and second to bann.
-4. The participants that scores lower will start banning the map first and picking map to play second.
+3. The participant that scores higher will pick the first beatmap to play and second to bann.
+4. The participant that scores lower will start banning the map first and picking map to play second.
 
 ### Mappool Instructions
 
@@ -102,9 +102,8 @@ The Asian-Oceanian Taiko Showdown is run by various community members by distrib
 
 1. Each stage will be held on a **single weekend.**
 2. All stages will be held between Friday to Sunday, with UTC+7 as default timezone.
-3. The NoMod bracket will be played with no mods activated.
-4. Match Schedules will be released on the Sunday after current stage is finished.
-5. Reschedules are allowed by submitting a request and proof that contains agreement from both participants to reschedule, request must be submitted via reserved text-channel on AOTS' Discord Server.
+3. Match Schedules will be released on the Sunday after current stage is finished.
+4. Reschedules are allowed by submitting a request and proof that contains agreement from both participants to reschedule, request must be submitted via reserved text-channel on AOTS' Discord Server.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
