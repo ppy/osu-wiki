@@ -32,7 +32,7 @@ The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](
 
 ### Torrenting
 
-- [Osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
+- [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
 - [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
