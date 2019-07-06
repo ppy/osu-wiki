@@ -203,7 +203,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | --: | :-: | :-: | :-- | :-- |
 | **- Kura -** | **6** | 5 | realqarp | [#1](https://osu.ppy.sh/community/matches/52819151) |
 
-| Sunday, 2019-06-13 |  |  |  |  |
+| Sunday, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Koibenii** | **6** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52840309) |
 | nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
