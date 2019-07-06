@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Как можно помочь
 
 _Это — перевод поста, который как-то раз взял и написал, а потом попросил превратить в статью сам [peppy](https://osu.ppy.sh/users/2 "peppy"). Оригинал можно найти на форуме: [How you can help!](https://osu.ppy.sh/community/forums/topics/83155)._

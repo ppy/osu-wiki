@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Bagaimana Anda dapat membantu!
 
 _Sebelumnya ini adalah kiriman yang [peppy](https://osu.ppy.sh/users/2 "peppy") buat beberapa waktu lalu dan diminta untuk menjadikannya sebuah artikel di sini. Anda dapat melihat kiriman aslinya [di sini](https://osu.ppy.sh/community/forums/topics/83155)._
