@@ -37,7 +37,7 @@ A mapper who is reputable in the community for their unorthodox music taste and 
 
 This mapping contains unique stream patterns, minimalistic slider velocities, characterized slider shapes, and much more. squirrelpascals underlines the core portions of this chill, tranquil, math rock song with clarity and accentuates their features fantastically through distinctive design choices that align with the song's simplicity.
 
-Those unprepared for the challenge may find a very engaging experience in the insane difficulty. For the more skilled players, the top difficulty is not something you would want to sleep on either. With more emphasis on greater slider movements, the difficulties compliment each other with their slight varied approaches to the song; while both capturing it's integrity faithfully. This is a truly refreshing mapset overall that stands out among the many maps in the ranked section!
+This is not to take away from the Insane difficulty however, as not only it is sure to give an enriching experience to the less skilled players, those well versed may still find it engaging in its own right. With more emphasis on greater slider movements, the difficulties compliment each other with their slight varied approaches to the song; while both capturing it's integrity faithfully. This is a truly refreshing mapset overall that stands out among the many maps in the ranked section!
 
 _written by [faygo](https://osu.ppy.sh/users/5199686)_
 
@@ -61,11 +61,11 @@ _written by [Nao Tomori](https://osu.ppy.sh/users/5364763)_
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/731108)
 
-Like last time, we present you another set of "Kyoumen no Nami" by YURiKA. This time, it is [Vell](https://osu.ppy.sh/users/3414541)'s turn to show what amazing things can be done with this breathtaking song. 
+Last time we showed you the orchestral arrangement of the song "Kyoumen no Nami" by YURiKA, but this time we have the stunning original full version from [Vell](https://osu.ppy.sh/users/3414541). 
 
-He captures the song's beauty perfectly with his movement choices and hitsounds that the map is definitely a highlight to play. [Darky1](https://osu.ppy.sh/users/3372928)'s storyboard definitely adds to the atmosphere for a great gameplay experience.
+Not fazed by its characteristic polyrhythms, he captures the song's beauty perfectly with his movement choices and hitsounds which definitely elevate the map, making it something worth checking out. [Darky1](https://osu.ppy.sh/users/3372928)'s storyboard once again adds to the atmosphere for a great gameplay experience as one might be familiar with other Vell maps.
 
-Don't forget to check out on the lower difficulties by [Stjpa](https://osu.ppy.sh/users/2954693) and [Smokeman](https://osu.ppy.sh/users/2140676) which both also manage to follow the song in a very enjoyable way.
+Don't forget to check out the lower difficulties by [Stjpa](https://osu.ppy.sh/users/2954693) and [Smokeman](https://osu.ppy.sh/users/2140676) which both also manage to follow the song in a very enjoyable way.
 
 _written by [Icekalt](https://osu.ppy.sh/users/5410645)_
 
