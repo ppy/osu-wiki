@@ -146,7 +146,7 @@ Some parts of the GitHub Flavored Markdown markup are supported in the osu! wiki
 
 <!-- ppy ruled HTML is not allowed. from:ppy#0001 during:2017-06-26 in:osu-wiki markdown -->
 
-HTML must not be used, with exception (see section below). The structure of the article must be redone if HTML is used.
+HTML must not be used, with an exception for comments (see [comments](#comments)). The structure of the article must be redone if HTML is used.
 
 #### Comments
 
