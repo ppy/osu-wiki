@@ -66,6 +66,29 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Mappools
 
+### Finals Week 1
+
+**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing)**
+
+- FreeMod
+  - [Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]](https://osu.ppy.sh/beatmaps/2083112)
+  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmaps/1551698)
+  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmaps/1978712)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmaps/1850115)
+  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmaps/2083171)
+  - [Two Steps From Hell - Star Sky (Evening) \[Ethereal\]](https://osu.ppy.sh/beatmaps/1699702)
+  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmaps/2058130)
+  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmaps/1859068)
+  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmaps/1365985)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmaps/2082239)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmaps/1313335)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
+  - [sakuzyo - Black Lair (RemFangirl) \[Depths\]](https://osu.ppy.sh/beatmaps/1866053)
+  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmaps/1498464)
+  - [saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]](https://osu.ppy.sh/beatmaps/1992444)
+- Tiebreaker
+  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmaps/1242347)**
+
 ### Semifinals
 
 **[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
@@ -158,6 +181,20 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Match Results
 
+### Semifinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml)
+
+| Saturday, 2019-06-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **windrush123** | **6** | 3 | nathan on mania | [#1](https://osu.ppy.sh/community/matches/52986554) |
+
+| Saturday, 2019-06-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Silhoueska Elze** | **6** | 1 | Swarmsii | [#1](https://osu.ppy.sh/community/matches/53004365) |
+| **Koibenii** | **6** | 5 | - Kura - | [#1](https://osu.ppy.sh/community/matches/53005937) |
+| **Arccat** | **6** | 3 | realqarp | [#1](https://osu.ppy.sh/community/matches/53008183) |
+
 ### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
@@ -166,7 +203,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | --: | :-: | :-: | :-- | :-- |
 | **- Kura -** | **6** | 5 | realqarp | [#1](https://osu.ppy.sh/community/matches/52819151) |
 
-| Sunday, 2019-06-13 |  |  |  |  |
+| Sunday, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Koibenii** | **6** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52840309) |
 | nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
