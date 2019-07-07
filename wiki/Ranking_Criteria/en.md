@@ -96,12 +96,7 @@ For the record, these include the recent changes made [from the discussion forum
 
 ### Rules
 
-- **Single-mode beatmapsets must form a reasonable spread.** This spread must comply with its respective mode's difficulty-specific Ranking Criteria.
-- **Hybrid beatmapsets without osu! difficulties must form a reasonable spread for each included game mode.** Each game mode's spread must comply with its difficulty-specific Ranking Criteria.
-- **If a hybrid beatmapset includes osu! difficulties...**
-    - **...the osu! difficulties must form a reasonable spread.** This spread must comply with the osu! difficulty-specific Ranking Criteria.
-    - **...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
-    - **...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
+- **All game modes within a beatmapset must form a reasonable spread.** Each spread must comply with its respective mode's difficulty-specific Ranking Criteria.
 - **Every difficulty of a beatmapset must have a minimum drain time of 30 seconds.**
 - **If the drain time of each difficulty is...**
     - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** For hybrid beatmapsets that include osu! difficulties, the additional modes' lowest difficulties cannot be harder than a Hard.
@@ -225,7 +220,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
-- **A beatmapset's audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
+- **A beatmapset's audio file must be no higher than 192kbps.** Variable bit rate songs must average between that range.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
 - **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
@@ -240,6 +235,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
+- **The audio file of a song should not be re-encoded to a bit rate higher than its source file.** This can be tested in [audio spectogram generators](http://spek.cc/), which typically show 128kbps and 192kbps songs with average peak frequencies of 16kHz and 18kHz respectively.
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the BPM of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable beatmapset length.
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
 - **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
