@@ -22,7 +22,7 @@ tags:
 | Semifinales | 2019-06-29/2019-06-30 |
 | Finales | 2019-07-06/2019-07-07 |
 | Gran Finales | 2019-07-13/2019-07-14 |
-| All-Star | 2019-07-13/2019-07-14 |
+| All-Stars | 2019-07-13/2019-07-14 |
 
 ## Premios
 
@@ -114,31 +114,22 @@ Intermediate Global Taiko Showdown 2019 es realizado por varios miembros de la c
 
 ---
 
-## Horario de partidas: Finales
+## Horario de partidas: Gran Finales
 
-### Sábado, 6 Julio 2019
-
-| Match ID | Equipo A |  |  | Equipo B | Hora de la partida (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| L1 | Hong Kong | ![][flag_HK] | ![][flag_FR]| France A | **09:00** |
-| W1 | United States A | ![][flag_US] | ![][flag_CL] | Chile | **23:00** |
-
-### Domingo, 7 Julio 2019
+### Sábado, 13 Julio 2019
 
 | Match ID | Equipo A |  |  | Equipo B | Hora de la partida (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| L2a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00** |
-| L2b¹ | United States A | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
-| L2c¹ | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **08:00** |
-| L2c¹ | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **13:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_HK]| Hong Kong | **01:00** |
+| L1¹ | Hong Kong | ![][flag_HK] | ![][flag_US] | United States A |  |
 
-¹ Encounter dependent on **loser of Match W1** and **winner of Match L1**
+¹ Match L1 will take place if Team B wins the Match W1 and will take place immediately after Match W1
 
 ---
 
 ## Mappools
 
-### All-Star
+### All-Stars Battle Royale
 
 **[Descarga el paquete de mapas aquí! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
@@ -160,6 +151,37 @@ Intermediate Global Taiko Showdown 2019 es realizado por varios miembros de la c
 - EX
   - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
   - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[1st Sister Shallty\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737946)
+
+### All-Stars
+
+**[Descarga el paquete de mapas aquí! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+
+- NoMod
+  - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
+  - [ENNNN - Nightfall (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/655932#taiko/1389903)
+  - [Zetsubou Shoujotachi - Zetsubou Restaurant (TV Size) (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/869002#taiko/1816218)
+- Hidden
+  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1016241)
+  - [Rabpit - Sanctity (tsuka) \[Taiko\]](https://osu.ppy.sh/beatmapsets/50017#taiko/161503)
+  - [t+pazolite - Candy Crack Curtain Call (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/237272#taiko/928806)
+- HardRock
+  - [KNOWER - Overtime (Zetera) \[Onitime\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
+  - [Nekomata Master+ - POINT ZERO (Nyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/303883#taiko/680908)
+  - [TOMOSUKE x Jazzin'park feat. LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369059#taiko/808984)
+- DoubleTime
+  - [Utsu-P & Minatsuki Toka - Natsu Matsuri (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/132262#taiko/487286)
+  - [Rainbowdragoneyes - Size My Day (Mew104) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/224043#taiko/566293)
+  - [DAOKO - Daisuki with TeddyLoid (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/707331#taiko/1495773)
+- FreeMod
+  - [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Taiko\]](https://osu.ppy.sh/beatmapsets/48537#taiko/150491)
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/853408#taiko/1783664)
+  - [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
+- EX
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  - [polysha - The Golden Era (Silentroom Remix) (EdamaMe411) \[TJBC#8\]](https://osu.ppy.sh/beatmapsets/844391#taiko/1766363)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+- Tiebreaker
+  - **[Kano - Stella-rium(DJ Noriken Bootleg Remix) (thika1432) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/479881#taiko/1084587)**
 
 ### Gran Finales
 
