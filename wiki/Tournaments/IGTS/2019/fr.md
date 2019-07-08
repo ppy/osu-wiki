@@ -32,6 +32,8 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) est un tournoi o
 | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | bannière d'équipe exclusive |
 | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | bannière d'équipe exclusive |
 
+[Badge des gagnants de l'IGTS 2019](img/badge.png)
+
 ## Organisation
 
 L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres de la communauté qui se sont distribués les différentes tâches selon plusieurs rôles.

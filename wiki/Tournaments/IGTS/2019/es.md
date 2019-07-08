@@ -32,6 +32,8 @@ tags:
 | ![Corona de Plata](/wiki/shared/SCrown.png "2ndo lugar") | banner de equipo exclusivo |
 | ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | banner de equipo exclusivo |
 
+![Medalla para el ganador de IGTS 2019](img/badge.png)
+
 ## Organización
 
 Intermediate Global Taiko Showdown 2019 es realizado por varios miembros de la comunidad, distribuyendo las variadas labores en ciertos campos de responsabilidades.

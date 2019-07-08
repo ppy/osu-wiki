@@ -32,6 +32,8 @@ tags:
 | ![은관](/wiki/shared/SCrown.png "2등") | 2등팀 배너 |
 | ![동관](/wiki/shared/BCrown.png "3등") | 3등팀 배너 |
 
+![IGTS 2019 Winner Badge](img/badge.png)
+
 ## 구성 인원
 
 Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토너먼트 진행을 위해 필요한 역할을 서로 분담하여 치러졌습니다.

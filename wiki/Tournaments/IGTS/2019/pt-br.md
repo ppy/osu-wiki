@@ -32,6 +32,8 @@ O **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) é um torneio 2 
 | ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | banner exclusivo do time |
 | ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | banner exclusivo do time |
 
+![IGTS 2019 Winner Badge](img/badge.png)
+
 ## Organização
 
 O Intermediate Global Taiko Showdown 2019 é realizado por vários membros da comunidade, distribuindo diferentes tarefas em diversas responsabilidades.
