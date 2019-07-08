@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights: Spring 2019"
-date: 2019-07-07 06:00:00 +0000
+date: 2019-07-08 10:00:00 +0000
 ---
 
 The sun is shining brightly and it's hot outside, so you shouldn't be outside during these dangerous times!  Instead we have prepared a nice package of awesome mapsets from last season for you to spend some time with. Come take a look and earn a fancy new medal for yourself by playing them all!
