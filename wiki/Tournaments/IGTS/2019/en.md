@@ -116,7 +116,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ## Match Schedule: Grand Finals
 
-### Saturday, 13 July 2019
+### Saturday, 13. July 2019
 
 | Match ID | Team A |  |  | Team B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
