@@ -114,6 +114,8 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ## Mappools
 
+**[Download the map pack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
+
 ### Quarterfinals
 
 - NoMod
