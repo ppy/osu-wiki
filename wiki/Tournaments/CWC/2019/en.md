@@ -47,6 +47,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://bit.ly/2Jd3RXc)
 
 ---
 
@@ -89,29 +90,53 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Group Stage
+## Match Schedule: Quarterfinals
 
-### Saturday, 6. July 2019
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **11:30 UTC** | 13:30 UTC+02 | 20:30 UTC+09 |
-| China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | **14:30 UTC** | 17:30 UTC+03 | 16:30 UTC+02 |
-| Poland | ![][flag_PL] | ![][flag_FR] | France | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
-| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:30 UTC** | 13:30 UTC-04 | 14:30 UTC-03 |
-| Mexico | ![][flag_MX] | ![][flag_US] | United States | **19:00 UTC** | 14:00 UTC-05 | 15:00 UTC-04 |
-
-### Sunday, 7. July 2019
+### Saturday, 13. July 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_GB] | United Kingdom | **11:30 UTC** | 19:30 UTC+08 | 12:30 UTC+01 |
-| Taiwan | ![][flag_TW] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **15:30 UTC** | 17:30 UTC+02 | 17:30 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_CL] | Chile | **17:00 UTC** | 20:00 UTC+03 | 13:00 UTC-04 |
+| Poland | ![][flag_PL] | ![][flag_MX] | Mexico | **18:30 UTC** | 20:30 UTC+02 | 13:30 UTC-05 |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **20:00 UTC** | 22:00 UTC+02 | 17:00 UTC-03 |
+
+### Sunday, 14. July 2019
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Philippines | ![][flag_PH] | ![][flag_CN] | China | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **12:30 UTC** | 21:30 UTC+09 | 20:30 UTC+08 |
+| United States | ![][flag_US] | ![][flag_FR] | France | **14:00 UTC** | 10:00 UTC-04 | 16:00 UTC+02 |
 
 ---
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+	- [Helblinde - Unconquered \(IDu5t\) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
+	- [void \(Mournfinale\) - World Vanquisher \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/860457#fruits/1800318)
+	- [wowaka - Reversible Doll \(Minato Yukina\) \[Lasting Legacy\]](https://osu.ppy.sh/beatmapsets/952552#fruits/1989009)
+	- [ak+q - Axium Crisis \(Lacrima\) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
+	- [Akiyama Uni - Chi no Iro wa Kiiro \(Hollow Wings\) \[Extra\]](https://osu.ppy.sh/beatmapsets/119779#fruits/307410)
+	- [Loki - Interlude \(Chewin\) \[Drama\]](https://osu.ppy.sh/beatmapsets/659093#fruits/1395942)
+- Hidden
+	- [Rigel Theatre - La Sylphide \(F D Flourite\) \[Collab Aurora \(Short ver.\)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
+	- [ribbon room - mint tears \(Rotte\) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
+	- [luz - Doku Ringo to Cinderella \(Ametrin\) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
+- HardRock
+	- [Amatsuki - How-to Sekai Seifuku \(Crowley\) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
+	- [Jin feat. MARiA from GARNiDELiA - daze \(short ver.\) \(luxoDeh\) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
+	- [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
+- DoubleTime
+	- [Kalafina - heavenly blue \(Nelly\) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
+	- [Denkishiki Karen Ongaku Shuudan - Endless ripples \(Hareimu\) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
+	- [Yasuda Rei - Best of my Love \(NEVlR\) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
+- Tiebreaker
+	- **[Virtual Self - Angel Voices \(Sinnoh\) \[Ghost\]](https://osu.ppy.sh/beatmapsets/939437#fruits/1962245)**
 
 ### Round of 16
 
@@ -168,6 +193,22 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2019-07-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Netherlands ![][flag_NL] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53145753) |
+| **China** ![][flag_CN] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| **Finland** ![][flag_FI] | **6** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/53149402) |
+| Poland ![][flag_PL] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53151416) |
+| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53153172) |
+
+| Sunday, 2019-07-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53169340) |
+| **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53170971) |
+| Mexico ![][flag_MX] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/53178682) |
 
 ### Group Stage
 
