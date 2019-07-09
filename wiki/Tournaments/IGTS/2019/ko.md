@@ -32,6 +32,8 @@ tags:
 | ![은관](/wiki/shared/SCrown.png "2등") | 2등팀 배너 |
 | ![동관](/wiki/shared/BCrown.png "3등") | 3등팀 배너 |
 
+![IGTS 2019 우승자 뱃지](img/badge.png)
+
 ## 구성 인원
 
 Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토너먼트 진행을 위해 필요한 역할을 서로 분담하여 치러졌습니다.
@@ -112,29 +114,101 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ---
 
-## 경기 일정: 4강
+## 경기 일정: 최종 결승
 
-### 토요일, 2019 년 7 월 6 일
-
-| 경기 ID | 팀 A |  |  | 팀 B | 경기 시각 (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| L1 | Hong Kong | ![][flag_HK] | ![][flag_FR]| France A | **09:00** |
-| W1 | United States A | ![][flag_US] | ![][flag_CL] | Chile | **23:00** |
-
-### 일요일, 2019 년 7 월 7 일
+### 토요일, 2019 년 7 월 13 일
 
 | 경기 ID | 팀 A |  |  | 팀 B | 경기 시각 (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| L2a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **03:00** |
-| L2b¹ | United States A | ![][flag_US] | ![][flag_FR] | France A | **18:00** |
-| L2c¹ | Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **02:00** |
-| L2c¹ | Chile | ![][flag_CL] | ![][flag_FR] | France A | **18:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_HK]| Hong Kong | **01:00** |
+| L1¹ | Hong Kong | ![][flag_HK] | ![][flag_US] | United States A |  |
 
-¹ Encounter dependent on **loser of Match W1** and **winner of Match L1**
+¹ Match L1 will take place if Team B wins the Match W1 and will take place immediately after Match W1
 
 ---
 
 ## 맵풀
+
+### All-Stars Battle Royale
+
+**[여기를 눌러 맵팩을 다운로드하세요. (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+
+- NoMod
+  - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
+  - [dj TAKA - RAIN (Ak1o) \[Ak1oni\]](https://osu.ppy.sh/beatmapsets/881815#taiko/1843675)
+- Hidden
+  - [siromaru + cranky - conflict (Midnaait) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/926839#taiko/1935852)
+  - [TERRA - REVOLUTION (TKS) \[MASTER\]](https://osu.ppy.sh/beatmapsets/106822#taiko/280302)
+- HardRock
+  - [Se-U-Ra - The Endless for Traveler (ZethZ161) \[Oni\]](https://osu.ppy.sh/beatmapsets/692388#taiko/1467210)
+  - [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
+- DoubleTime
+  - [Nyanners - Gucci Gang (Nifty) \[Uguuci Gang\]](https://osu.ppy.sh/beatmapsets/710007#taiko/1500870)
+  - [Kola Kid - a whole lotta Kola Kid songs (Raphalge) \[good old times\]](https://osu.ppy.sh/beatmapsets/607839#taiko/1283783)
+- FreeMod
+  - [Ushirokara Haiyoritai G - Taiyou Iwaku Moeyo Chaos (An-bootleg) (Nifty) \[Ooh! Nya!\]](https://osu.ppy.sh/beatmapsets/779307#taiko/1636526)
+  - [Oxblud+ - the littlest things [Kesu+ Audio Scribble] (Vulkin) \[ulqui's inner oni\]](https://osu.ppy.sh/beatmapsets/579166#taiko/1755465)
+- EX
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[1st Sister Shallty\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737946)
+
+### 올스타전
+
+**[여기를 눌러 맵팩을 다운로드하세요. (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+
+- NoMod
+  - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
+  - [ENNNN - Nightfall (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/655932#taiko/1389903)
+  - [Zetsubou Shoujotachi - Zetsubou Restaurant (TV Size) (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/869002#taiko/1816218)
+- Hidden
+  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1016241)
+  - [Rabpit - Sanctity (tsuka) \[Taiko\]](https://osu.ppy.sh/beatmapsets/50017#taiko/161503)
+  - [t+pazolite - Candy Crack Curtain Call (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/237272#taiko/928806)
+- HardRock
+  - [KNOWER - Overtime (Zetera) \[Onitime\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
+  - [Nekomata Master+ - POINT ZERO (Nyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/303883#taiko/680908)
+  - [TOMOSUKE x Jazzin'park feat. LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369059#taiko/808984)
+- DoubleTime
+  - [Utsu-P & Minatsuki Toka - Natsu Matsuri (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/132262#taiko/487286)
+  - [Rainbowdragoneyes - Size My Day (Mew104) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/224043#taiko/566293)
+  - [DAOKO - Daisuki with TeddyLoid (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/707331#taiko/1495773)
+- FreeMod
+  - [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Taiko\]](https://osu.ppy.sh/beatmapsets/48537#taiko/150491)
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/853408#taiko/1783664)
+  - [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
+- EX
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  - [polysha - The Golden Era (Silentroom Remix) (EdamaMe411) \[TJBC#8\]](https://osu.ppy.sh/beatmapsets/844391#taiko/1766363)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+- Tiebreaker
+  - **[Kano - Stella-rium(DJ Noriken Bootleg Remix) (thika1432) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/479881#taiko/1084587)**
+
+### 최종 결승
+
+**[여기를 눌러 맵팩을 다운로드하세요. (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+
+- NoMod
+  - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
+  - [Virt - Staring at my Spaceship (HashishKabob) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/57145#taiko/172402)
+  - [Umeboshi Chazuke - Bison Charge (Midnaait) \[hikiko's Oni\]](https://osu.ppy.sh/beatmapsets/739116#taiko/1598892)
+  - [DIVERSA - atlas (Ulqui) \[Skull Kid's Oni\]](https://osu.ppy.sh/beatmapsets/875591#taiko/2002994)
+  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499438)
+  - [lapix - Kill The Beat (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/891525#taiko/1863761)
+- Hidden
+  - [Sana - Hoshifuri (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/195958#taiko/464760)
+  - [RoughSketch + DD"Nakata"Metal - Booths of Fighters (-Kazu-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/185427#taiko/443331)
+- HardRock
+  - [Memme - Starving Days (Charles445) \[Oni445\]](https://osu.ppy.sh/beatmapsets/157641#taiko/385907)
+  - [xi - Longinus (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/963975#taiko/2018178)
+- DoubleTime
+  - [cYsmix - Dovregubben's Hall (Raiden) [Oni]](https://osu.ppy.sh/beatmapsets/363214#taiko/797639)
+  - [Anamanaguchi - Miku ft. Hatsune Miku (Nightcore Mix) (Backfire) \[Lyawi's Oni\]](https://osu.ppy.sh/beatmapsets/886962#taiko/1854203)
+- FreeMod
+  - [Amane - DEADLYBLOW (Yoshi\_green) \[TK's Oni\]](https://osu.ppy.sh/beatmapsets/100155#taiko/327561)
+  - [SOOOO - Raven Haven (Raiden) \[Oni\]](https://osu.ppy.sh/beatmapsets/921535#taiko/1925777)
+  - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
+- Tiebreaker
+  - **[Yooh - Shigure (Karee Pan) \[Blue\]](https://osu.ppy.sh/beatmapsets/656246#taiko/1390464)**
 
 ### 결승
 
@@ -270,6 +344,17 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 ---
 
 ## 경기 결과
+
+### 결승
+
+| 토요일, 2019-07-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
+| **United States A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/53159685) |
+
+| 일요일, 2019-07-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Chile ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
 ### 4강
 

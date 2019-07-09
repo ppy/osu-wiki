@@ -22,7 +22,7 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) est un tournoi o
 | Demi-finales | 2019-06-29/2019-06-30 |
 | Finales | 2019-07-06/2019-07-07 |
 | Grande finale | 2019-07-13/2019-07-14 |
-| All-Star | 2019-07-13/2019-07-14 |
+| All-Stars | 2019-07-13/2019-07-14 |
 
 ## Prix
 
@@ -31,6 +31,8 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) est un tournoi o
 | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge de profil unique, bannière d'équipe exclusive |
 | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | bannière d'équipe exclusive |
 | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | bannière d'équipe exclusive |
+
+[Badge des gagnants de l'IGTS 2019](img/badge.png)
 
 ## Organisation
 
@@ -112,29 +114,74 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 
 ---
 
-## Planning des matches: Finales
+## Planning des matches: Grande finale
 
-### Samedi, 6 Juillet 2019
-
-| Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| L1 | Hong Kong | ![][flag_HK] | ![][flag_FR]| France A | **09:00** |
-| W1 | United States A | ![][flag_US] | ![][flag_CL] | Chile | **23:00** |
-
-### Dimanche, 7 Juillet 2019
+### Samedi, 13 Juillet 2019
 
 | Match ID | Équipe A |  |  | Équipe B | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| L2a¹ | United States A | ![][flag_US] | ![][flag_HK] | Hong Kong | **03:00** |
-| L2b¹ | United States A | ![][flag_US] | ![][flag_FR] | France A | **18:00** |
-| L2c¹ | Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **02:00** |
-| L2c¹ | Chile | ![][flag_CL] | ![][flag_FR] | France A | **18:00** |
+| W1 | United States A | ![][flag_US] | ![][flag_HK]| Hong Kong | **01:00** |
+| L1¹ | Hong Kong | ![][flag_HK] | ![][flag_US] | United States A |  |
 
-¹ Confrontation dépendant du **perdant du Match W1** et du **gagnant du Match L1**
+¹ Match L1 will take place if Team B wins the Match W1 and will take place immediately after Match W1
 
 ---
 
 ## Liste des maps
+
+### All-Stars Battle Royale
+
+**[Téléchargez le mappack ici! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+
+- NoMod
+  - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
+  - [dj TAKA - RAIN (Ak1o) \[Ak1oni\]](https://osu.ppy.sh/beatmapsets/881815#taiko/1843675)
+- Hidden
+  - [siromaru + cranky - conflict (Midnaait) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/926839#taiko/1935852)
+  - [TERRA - REVOLUTION (TKS) \[MASTER\]](https://osu.ppy.sh/beatmapsets/106822#taiko/280302)
+- HardRock
+  - [Se-U-Ra - The Endless for Traveler (ZethZ161) \[Oni\]](https://osu.ppy.sh/beatmapsets/692388#taiko/1467210)
+  - [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
+- DoubleTime
+  - [Nyanners - Gucci Gang (Nifty) \[Uguuci Gang\]](https://osu.ppy.sh/beatmapsets/710007#taiko/1500870)
+  - [Kola Kid - a whole lotta Kola Kid songs (Raphalge) \[good old times\]](https://osu.ppy.sh/beatmapsets/607839#taiko/1283783)
+- FreeMod
+  - [Ushirokara Haiyoritai G - Taiyou Iwaku Moeyo Chaos (An-bootleg) (Nifty) \[Ooh! Nya!\]](https://osu.ppy.sh/beatmapsets/779307#taiko/1636526)
+  - [Oxblud+ - the littlest things [Kesu+ Audio Scribble] (Vulkin) \[ulqui's inner oni\]](https://osu.ppy.sh/beatmapsets/579166#taiko/1755465)
+- EX
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[1st Sister Shallty\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737946)
+
+### All-Stars
+
+**[Téléchargez le mappack ici! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+
+- NoMod
+  - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
+  - [ENNNN - Nightfall (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/655932#taiko/1389903)
+  - [Zetsubou Shoujotachi - Zetsubou Restaurant (TV Size) (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/869002#taiko/1816218)
+- Hidden
+  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1016241)
+  - [Rabpit - Sanctity (tsuka) \[Taiko\]](https://osu.ppy.sh/beatmapsets/50017#taiko/161503)
+  - [t+pazolite - Candy Crack Curtain Call (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/237272#taiko/928806)
+- HardRock
+  - [KNOWER - Overtime (Zetera) \[Onitime\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
+  - [Nekomata Master+ - POINT ZERO (Nyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/303883#taiko/680908)
+  - [TOMOSUKE x Jazzin'park feat. LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369059#taiko/808984)
+- DoubleTime
+  - [Utsu-P & Minatsuki Toka - Natsu Matsuri (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/132262#taiko/487286)
+  - [Rainbowdragoneyes - Size My Day (Mew104) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/224043#taiko/566293)
+  - [DAOKO - Daisuki with TeddyLoid (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/707331#taiko/1495773)
+- FreeMod
+  - [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Taiko\]](https://osu.ppy.sh/beatmapsets/48537#taiko/150491)
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/853408#taiko/1783664)
+  - [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
+- EX
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  - [polysha - The Golden Era (Silentroom Remix) (EdamaMe411) \[TJBC#8\]](https://osu.ppy.sh/beatmapsets/844391#taiko/1766363)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+- Tiebreaker
+  - **[Kano - Stella-rium(DJ Noriken Bootleg Remix) (thika1432) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/479881#taiko/1084587)**
 
 ### Finales
 
@@ -269,6 +316,17 @@ L'Intermediate Global Taiko Showdown 2019 est organisé par différents membres 
 ---
 
 ## Match Results
+
+### Finales
+
+| Samedi, 2019-07-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
+| **United States A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/53159685) |
+
+| Dimanche, 2019-07-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Chile ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
 ### Demi-finales
 
