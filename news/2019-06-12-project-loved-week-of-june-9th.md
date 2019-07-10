@@ -8,7 +8,7 @@ Come check out the new maps in [Project Loved](https://osu.ppy.sh/community/foru
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 We're running a little behind schedule—this round of Loved was supposed to be for the week of June 2nd, sorry for the wait!
 
@@ -217,7 +217,7 @@ It's time to throw in another 7K marathon, and this time we're aiming for a blas
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [clayton](https://osu.ppy.sh/users/3666350), [ThatsNotAName](https://osu.ppy.sh/users/9682904), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
 

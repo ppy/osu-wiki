@@ -8,7 +8,7 @@ We're a little late, but fear not, [Project Loved](https://osu.ppy.sh/community/
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 Starting this week, we'll list on this news post whether a beatmapset will have any of its difficulties excluded from Loved, since it's caused some confusion in the past. The captains usually exclude difficulties only if they have major problems that prevent them from being played properly, but it's also common that multi-mode mapsets will have some game modes removed, since the set isn't nominated for those modes explicitly. If any difficulties of a map aren't being included in the Loved nomination, a note will be written below the map's image here (see Ryuu to Shoujo to Decoherence for an example).
 
@@ -212,7 +212,7 @@ Get ready for some noodles because we're coming in hot with a very difficult O2J
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [clayton](https://osu.ppy.sh/users/3666350), [ThatsNotAName](https://osu.ppy.sh/users/9682904), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
 
