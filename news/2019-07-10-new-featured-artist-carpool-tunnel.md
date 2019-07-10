@@ -46,7 +46,7 @@ Here's a few previews of what Carpool Tunnel has to offer:
 
 ---------
 
-These tracks and many more can be found with pre-timed beatmap templates over on [**Carpool Tunnel**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/40). As with all Featured Artist tracks, these new tracks are all 100% free for use in mapping. Be sure to give each a listen!
+These tracks and many more can be found with pre-timed beatmap templates over on [**Carpool Tunnel**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/42). As with all Featured Artist tracks, these new tracks are all 100% free for use in mapping. Be sure to give each a listen!
 
 In other news, we'll be temporarily increasing the frequency of Featured Artist releases to *3 per month*, as suggested in some of our previous announcements. We've gotten a ton of new artists on board recently, so look out for more musical goodness in the coming weeks!
 
