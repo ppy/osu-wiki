@@ -13,66 +13,6 @@ For the record, these include the recent changes made [from the discussion forum
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
-### Beatmapset
-
-- **Drain time:** The time during which the health-bar drains. Excludes break periods. osu!taiko's drain time includes sliders and the intended length of spinners.
-- **Song compilation:** An audio file that features multiple different songs or sections of songs.
-- **Play time**: The time during which the health-bar drains combined with break periods.
-- **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
-- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
-- **Single-mode beatmapset:** A beatmapset which contains difficulties of only one game mode.
-- **Hybrid beatmapset:** A beatmapset which contains difficulties of multiple game modes.
-- **Beatmapset host:** A user who uploads and manages a beatmapset.
-- **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
-- **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
-
-### Metadata
-
-- **Official sources**: Media that the artist or their label provides, such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
-- **vs.**: versus
-- **feat.**: featuring
-- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
-- **Asterisk**: `*`
-- **Umlauts**: `ü`, `ö`, `ä` and `ß`
-- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
-- **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
-- **Modified Hepburn romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
-- **Character-by-character romanisation**: Each Chinese character must be romanised as a capitalised word and separated with a space.
-
-### Timing
-
-- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
-- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
-- **Uninherited timing point:** A point used to change a beatmap's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
-- **Inherited timing point:** A point that inherits elements from the previous timing point, and is not used to modify a beatmap's timing. Indicated by a green line in the editor and informally called a `green line`.
-- **Single-BPM timing:** Timing which only requires one BPM.
-- **Multi-BPM timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
-- **Variable-BPM timing:** Timing which changes BPM irregularly due to a song's fluctuations.
-
-### Audio
-
-- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
-- **Passive hit sounds:** Hit sounds that are not designed to match a player's exact clicking, such as ambient sounds.
-- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
-
-### Skinning
-
-- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
-- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
-- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
-- **User-specific:** A user's personal skin which they set in their options menu.
-- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
-
-### Storyboarding
-
-- **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
-- **Sprite:** An object in a storyboard representing an image, or a series of images.
-- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
-- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
-- **Axis-specific command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
-- **Active:** From the first start time to the last end time of commands in the object.
-- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
-- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
 ## General
 
@@ -93,6 +33,19 @@ For the record, these include the recent changes made [from the discussion forum
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
 ## Beatmapset
+
+### Glossary
+
+- **Drain time:** The time during which the health-bar drains. Excludes break periods. osu!taiko's drain time includes sliders and the intended length of spinners.
+- **Song compilation:** An audio file that features multiple different songs or sections of songs.
+- **Play time**: The time during which the health-bar drains combined with break periods.
+- **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
+- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
+- **Single-mode beatmapset:** A beatmapset which contains difficulties of only one game mode.
+- **Hybrid beatmapset:** A beatmapset which contains difficulties of multiple game modes.
+- **Beatmapset host:** A user who uploads and manages a beatmapset.
+- **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
+- **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
 
 ### Rules
 
@@ -129,6 +82,19 @@ For the record, these include the recent changes made [from the discussion forum
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
 
 ## Metadata
+
+### Glossary
+
+- **Official sources**: Media that the artist or their label provides, such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
+- **vs.**: versus
+- **feat.**: featuring
+- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
+- **Asterisk**: `*`
+- **Umlauts**: `ü`, `ö`, `ä` and `ß`
+- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
+- **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
+- **Modified Hepburn romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
+- **Character-by-character romanisation**: Each Chinese character must be romanised as a capitalised word and separated with a space.
 
 ### Rules
 
@@ -202,6 +168,16 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Timing
 
+### Glossary
+
+- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
+- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
+- **Uninherited timing point:** A point used to change a beatmap's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
+- **Inherited timing point:** A point that inherits elements from the previous timing point, and is not used to modify a beatmap's timing. Indicated by a green line in the editor and informally called a `green line`.
+- **Single-BPM timing:** Timing which only requires one BPM.
+- **Multi-BPM timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
+- **Variable-BPM timing:** Timing which changes BPM irregularly due to a song's fluctuations.
+
 ### Rules
 
 - **Uninherited timing points must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) for further information.
@@ -219,6 +195,12 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Beatmaps with Variable-BPM timing should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offset are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
 
 ## Audio
+
+### Glossary
+
+- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
+- **Passive hit sounds:** Hit sounds that are not designed to match a player's exact clicking, such as ambient sounds.
+- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
 
 ### Rules
 
@@ -256,6 +238,14 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Skinning
 
+### Glossary
+
+- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
+- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
+- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
+- **User-specific:** A user's personal skin which they set in their options menu.
+- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
+
 ### Rules
 
 - **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
@@ -269,6 +259,17 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
 
 ## Storyboarding
+
+### Glossary
+
+- **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
+- **Sprite:** An object in a storyboard representing an image, or a series of images.
+- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
+- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
+- **Axis-specific command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
+- **Active:** From the first start time to the last end time of commands in the object.
+- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
+- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
 ### Rules
 
