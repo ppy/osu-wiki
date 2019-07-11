@@ -16,7 +16,7 @@ Every entry that qualifies as per the rules below will be put up for 7 days of v
 
 Feeling up for it? Check out the rules below (even if you're a regular, some have changed!) and then [dive on over to the contest listing page](https://osu.ppy.sh/community/contests/79) and submit your entry into the mix.
 
-Make sure you read the rules carefully before entering. Lots of entries for Spring 2019 were disqualified due to things that actually reading the rules and checking one's work would've fixed! It's sad for us and sad for you when this happens.
+Make sure you read the rules carefully before entering. We've had a lot of otherwise really good entries end up excluded from the voting because of people not following instructions properly. It's sad for us and sad for you when this happens!
 
 ## Rules
 
