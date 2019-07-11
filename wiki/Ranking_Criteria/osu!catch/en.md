@@ -133,7 +133,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
-- **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
+- **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
 - **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5 times the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
 - Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
