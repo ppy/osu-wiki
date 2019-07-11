@@ -38,7 +38,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
-| Commentators | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637), ![][flag_NO] [Divine Cake](https://osu.ppy.sh/users/3636998), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
+| Commentators | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637), ![][flag_NO] [Divine Cake](https://osu.ppy.sh/users/3636998), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -119,26 +119,26 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ### Quarterfinals
 
 - NoMod
-	- [Helblinde - Unconquered \(IDu5t\) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
-	- [void \(Mournfinale\) - World Vanquisher \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/860457#fruits/1800318)
-	- [wowaka - Reversible Doll \(Minato Yukina\) \[Lasting Legacy\]](https://osu.ppy.sh/beatmapsets/952552#fruits/1989009)
-	- [ak+q - Axium Crisis \(Lacrima\) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
-	- [Akiyama Uni - Chi no Iro wa Kiiro \(Hollow Wings\) \[Extra\]](https://osu.ppy.sh/beatmapsets/119779#fruits/307410)
-	- [Loki - Interlude \(Chewin\) \[Drama\]](https://osu.ppy.sh/beatmapsets/659093#fruits/1395942)
+  - [Helblinde - Unconquered \(IDu5t\) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
+  - [void \(Mournfinale\) - World Vanquisher \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/860457#fruits/1800318)
+  - [wowaka - Reversible Doll \(Minato Yukina\) \[Lasting Legacy\]](https://osu.ppy.sh/beatmapsets/952552#fruits/1989009)
+  - [ak+q - Axium Crisis \(Lacrima\) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
+  - [Akiyama Uni - Chi no Iro wa Kiiro \(Hollow Wings\) \[Extra\]](https://osu.ppy.sh/beatmapsets/119779#fruits/307410)
+  - [Loki - Interlude \(Chewin\) \[Drama\]](https://osu.ppy.sh/beatmapsets/659093#fruits/1395942)
 - Hidden
-	- [Rigel Theatre - La Sylphide \(F D Flourite\) \[Collab Aurora \(Short ver.\)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
-	- [ribbon room - mint tears \(Rotte\) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
-	- [luz - Doku Ringo to Cinderella \(Ametrin\) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
+  - [Rigel Theatre - La Sylphide \(F D Flourite\) \[Collab Aurora \(Short ver.\)\]](https://osu.ppy.sh/beatmapsets/955131#fruits/2072991)
+  - [ribbon room - mint tears \(Rotte\) \[Steven's flood tears\]](https://osu.ppy.sh/beatmapsets/117063#fruits/303383)
+  - [luz - Doku Ringo to Cinderella \(Ametrin\) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#fruits/1406919)
 - HardRock
-	- [Amatsuki - How-to Sekai Seifuku \(Crowley\) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
-	- [Jin feat. MARiA from GARNiDELiA - daze \(short ver.\) \(luxoDeh\) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
-	- [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
+  - [Amatsuki - How-to Sekai Seifuku \(Crowley\) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/695892#fruits/1474313)
+  - [Jin feat. MARiA from GARNiDELiA - daze \(short ver.\) \(luxoDeh\) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/165391#fruits/443046)
+  - [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#fruits/146610)
 - DoubleTime
-	- [Kalafina - heavenly blue \(Nelly\) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
-	- [Denkishiki Karen Ongaku Shuudan - Endless ripples \(Hareimu\) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
-	- [Yasuda Rei - Best of my Love \(NEVlR\) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
+  - [Kalafina - heavenly blue \(Nelly\) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)
+  - [Denkishiki Karen Ongaku Shuudan - Endless ripples \(Hareimu\) \[Sadness\]](https://osu.ppy.sh/beatmapsets/433029#fruits/1475145)
+  - [Yasuda Rei - Best of my Love \(NEVlR\) \[A Colorful Path Of Inspiration\]](https://osu.ppy.sh/beatmapsets/910570#fruits/1900083)
 - Tiebreaker
-	- **[Virtual Self - Angel Voices \(Sinnoh\) \[Ghost\]](https://osu.ppy.sh/beatmapsets/939437#fruits/1962245)**
+  - **[Virtual Self - Angel Voices \(Sinnoh\) \[Ghost\]](https://osu.ppy.sh/beatmapsets/939437#fruits/1962245)**
 
 ### Round of 16
 
