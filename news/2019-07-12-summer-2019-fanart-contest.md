@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer 2019 Fanart Contest"
-date: 2019-07-11 04:00:00 +0000
+date: 2019-07-12 02:00:00 +0000
 ---
 
 Sizzling scores abound this summer, time to crank up the heat even more with our latest seasonal fan art contest! Wield your drawing implement of choice and draw any of the osu! mascots enjoying the summer sun for glory. And prizes!
