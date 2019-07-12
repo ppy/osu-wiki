@@ -68,7 +68,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 -----------------------
 
-![Podium](img/podium.png)
+![Podium](img/podium.jpg)
 
 -----------------------
 

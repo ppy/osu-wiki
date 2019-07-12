@@ -68,7 +68,7 @@ tags:
 
 -----------------------
 
-![Podium](img/podium.png)
+![Podium](img/podium.jpg)
 
 -----------------------
 
