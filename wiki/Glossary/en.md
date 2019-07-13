@@ -804,12 +804,6 @@ Star priority has two meanings:
 
 The visual representation of a beatmap's [difficulty](/wiki/Difficulties) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
-osu! currently uses two different algorithms to calculate star rating:
-
-- peppy's algorithm
-  - determined by using the bonus difficulty score multiplier and eyup's algorithm (use the difficulty tags are assigned)
-- Echo's algorithm (not in use)
-
 You can see a beatmap's difficulty when testing it in the editor. The star rating can be seen on the song selection screen or at its listing in the site.
 
 ### Storyboarder
