@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #1 - Results!"
-permalink: http://osunews.tumblr.com/post/64561724273/monthly-beatmapping-contest-1-results
 date: 2014-10-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64561724273/monthly-beatmapping-contest-1-results
 ---
+
 Without any further delay, we'd like to present the winner for the monthly beatmap contest!
 
 It was a very close competition this time. Only a mere 7 points stood between the winner and the runner up - despite the heated competition, the judges have declared the winner for the month of September to be **[Charles445](https://osu.ppy.sh/users/85000)**!  

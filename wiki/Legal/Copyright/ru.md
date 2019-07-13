@@ -2,6 +2,7 @@
 legal: true
 outdated: true
 ---
+
 # Политика osu! в отношении авторского права
 
 В соответствии с [Законом об авторском праве в цифровую эпоху](https://ru.wikipedia.org/wiki/Digital_Millennium_Copyright_Act), osu! сформировало следующую политику в отношении авторского права.

@@ -1,5 +1,4 @@
-Compose
-==============
+# Compose
 
 ![视窗模式下的 osu! 编辑器 Compose 画面](img/Compose.jpg "视窗模式下的 osu! 编辑器 Compose 画面")
 
@@ -10,8 +9,7 @@ Compose
 由于作图风格上有不同的需求（osu! 非常弹性，拥有许多可供发挥创意的空间；而 osu!mania 则有键数的限制，需要极高的准确度方能用键盘演奏出一段段天籁之音），osu! 的编辑器和 osu!mania 独占编辑器拥有不同的功能配置。你可以将一难度设置为 osu!mania 模式，就可以启用 osu!mania 编辑器。
 
 
-功能（osu! 编辑器
---------------------
+## 功能（osu! 编辑器
 
 （以上至下、左至右的顺序编列）新手教学：[Beatmapping](/wiki/Beatmapping)。
 
@@ -168,8 +166,7 @@ Compose
 
 在**右下角**，你可以将**播放速度**调整为 25%、50%、75%、100%。
 
-功能（osu!mania）
-------------------
+## 功能（osu!mania）
 
 （左上角的物件时间轴没有用处。请忽略。）简易教学：[基础](https://osu.ppy.sh/community/forums/topics/118868)、[作图 & 按键音效](https://osu.ppy.sh/community/forums/topics/139139)
 

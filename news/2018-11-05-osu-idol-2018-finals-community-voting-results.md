@@ -27,4 +27,3 @@ As we mark this year's installment to a close, we'd like to thank the community 
 Don't forget to drop by our [Discord server](https://discord.gg/7hZgNeH) for banter, karaoke and future announcements. See you next time. Boomshakalaka.
 
 —Flanster
-

@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Installation - Hungarian
-========================
+
+# Installation - Hungarian
 
 Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az eszközeiden, illetve tartalmaz néhány hibakeresési módszert is.
 
-Telepítési útmutatók
---------------------
+## Telepítési útmutatók
 
 ### Asztali számítógépek
 
@@ -177,8 +176,7 @@ Figyelem: Az osu!stream *NEM* az osu!.
 - Válaszd ki a kívánt csomagot
   - Javasolt, hogy előbb ingyenes csomagokat tölts le. Ezek mellet a "FREE" címke van, "USD$" címke helyett.
 
-GYIK és hibakeresés
--------------------
+## GYIK és hibakeresés
 
 ### osu!
 
@@ -202,8 +200,7 @@ GYIK és hibakeresés
 -   Lesz benne <funkció neve>?
     -   Funkciókat a [feature requests témában](https://osu.ppy.sh/community/forums/topics/62313) kérhetsz.
 
-Külső hivatkozások
--------------------
+## Külső hivatkozások
 
 -   peppy GYIK [1](https://osu.ppy.sh/p/faq)
 -   peppy letöltések oldala [2](https://osu.ppy.sh/p/download)

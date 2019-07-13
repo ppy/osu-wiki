@@ -1,5 +1,4 @@
-Hit Objects
-========================
+# Hit Objects
 
 히트 오브젝트는 osu! 플레이의 중심이라고 봐도 됩니다. 이 히트 오브젝트에는 세가지의 종류가 있는데 :
 
@@ -9,15 +8,13 @@ Hit Objects
 
 히트 서클과 슬라이더는 맵에서 매우 많이 볼수 있지만 스피너는 가끔씩만 나옵니다. 비트맵 플레이중 보이는 모든 것들을 통틀어서 히트 오브젝트라고 합니다.
 
-히트 서클
----------
+## 히트 서클
 
 ![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
 
 [DS 게임들에서는](/wiki/Glossary) 히트 마커라고 불렀던 것들입니다. 동그라미 중간에 해당 [콤보](/wiki/Glossary) 숫자에 따라서 숫자가 적혀있습니다. 이 주위에([어프로치 서클이](/wiki/Glossary) 생기고 히트 서클로 다가오는데 이 두개가 겹칠때 히트 서클을 [눌러주셔야](/wiki/Glossary) 합니다 , 서클을 누른 정확도에 따라 (50,100,300)점중 하나를 획득하게 됩니다, 또한 해당 서클이 해당 콤보의 마지막 서클이였다면 [Beat!](/wiki/Score) 또는 [Elite Beat!을](/wiki/Score#Elite_Beat!) 받을수도 있습니다. Tapping regular Hit Circles gives a very small boost to the [Life Bar](/wiki/Glossary), and a good boost if it is a end combo circle.
 
-슬라이더
---------
+## 슬라이더
 
 ![A slider in the default skin.](Slider2.jpg "A slider in the default skin.")
 
@@ -27,8 +24,7 @@ Hit Objects
 
 슬라이더는 곡 내에서 길거나 히트 서클로는 표현하기 힘든 소리들을 맵에 맞게 하기위해 사용됩니다. 가끔씩은 히트 서클을 여러개 사용하는 스트림을 쉽게 하게위해 사용되기도 합니다.
 
-Spinner
--------
+## Spinner
 
 ![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
 

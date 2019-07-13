@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-osu! World Cup 2014
-=====================
+
+# osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
@@ -18,8 +18,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Polen**       |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Deutschland** |
 
-Turnierzeitplan
----------------
+## Turnierzeitplan
 
 | Event               | Timestamp                   |
 |---------------------|-----------------------------|
@@ -33,8 +32,7 @@ Turnierzeitplan
 | Finale - Woche 2    | 13.-14. Dez. 2014           |
 ||
 
-Preise
--------
+## Preise
 
 | Placing                                                    | Prizes                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -42,8 +40,7 @@ Preise
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                 |
 
-Organisation
--------------
+## Organisation
 
 | Job                | Person(s)                                                                                                                                                                                                                                                    |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,8 +52,7 @@ Organisation
 
 ------------------------------------------------------------------------
 
-Links
----------
+## Links
 
 -   [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive/)
 -   [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
@@ -70,8 +66,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Teilnehmer
-------------
+## Teilnehmer
 
 | Country                                    | Gruppe A Members                                                                                                                                                                                                                                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,8 +126,7 @@ Teilnehmer
 
 ------------------------------------------------------------------------
 
-Mappools
-------------
+## Mappools
 
 ### Finale
 
@@ -286,8 +280,7 @@ Mappools
 
 ------------------------------------------------------------------------
 
-Matchergebnisse
--------------------
+## Matchergebnisse
 
 ### Finale
 
@@ -430,8 +423,7 @@ Matchergebnisse
 
 ------------------------------------------------------------------------
 
-Regelsätze
-------------
+## Regelsätze
 
 ### Turnierregeln
 

@@ -233,4 +233,3 @@ All the tracks listed above are completely free to use for mapping in osu! and a
 There's bound to be something for everyone, but just in case there isn't, keep your eyes and ears peeled for a series of brand new releases happening very soon - and remarkably close to home, too!
 
 —Ephemeral
-

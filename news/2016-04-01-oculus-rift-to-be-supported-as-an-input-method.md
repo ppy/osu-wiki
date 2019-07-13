@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Oculus Rift to be Supported as an Input Method (April Fools!)"
-permalink: http://osunews.tumblr.com/post/142055271658/oculus-rift-to-be-supported-as-an-input-method
 date: 2016-04-01 05:48:59 +0000
 tumblr_url: http://osunews.tumblr.com/post/142055271658/oculus-rift-to-be-supported-as-an-input-method
 ---
+
 Earlier last week, Peppy announced in a blog post his decision to expand the functionalities of the game as osu!next is well on its way: "I am amazed by the genius in my decision to supply Flyte unlimited quantities of Espresso and pin-ups of Nisekoi characters (specifically Onodera)," he adds, "(You) should have seen how fast he's been punching those keys and writing the codes."
 
 **Edit: Hope you all had a fun and mostly pain-free 1st of April! -Nyquill**

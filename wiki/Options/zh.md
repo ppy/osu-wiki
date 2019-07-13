@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-选项
-====
+
+# 选项
 
 如果设置没有生效请尝试重启osu! 在开始界面点击 **Options** 或按 **O** 键就会弹出选项边栏,在里面你就可以变更osu! 的行为
 
@@ -16,8 +16,7 @@ outdated: true
 -   b(YYYY)(MM)(DD).(revision)(BuildType) = 测试版.
     -   所以,b20151113.8cuttingedge表示2015年11月13日第八次修正的测试版
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") 常规
--------------------------------------------------------------------
+## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") 常规
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
 

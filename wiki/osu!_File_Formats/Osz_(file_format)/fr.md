@@ -1,10 +1,8 @@
-.osz (format de fichier)
-=====================
+# .osz (format de fichier)
 
 Un fichier **.osz** est une archive globale qui contient **un** beatmap set. Lors d'un téléchargement, ces fichiers contiennent plusieurs fichiers différents.
 
-Contenu des fichiers .osz
--------------------------
+## Contenu des fichiers .osz
 
 Un fichier ayant une extension **.osz** contient/peut contenir ces différents types de fichier:
 
@@ -14,8 +12,7 @@ Un fichier ayant une extension **.osz** contient/peut contenir ces différents t
 - Des fichiers divers pour le fichier [.osb][Osb Link], principalement des fichiers image, souvent placés dans un sous-dossier.
 - Des fichiers son (en .wav) pour asservir la map de [Hitsounds](/wiki/Glossary), placés à la racine. Ils peuvent être contrôlés par le mapper, qui peut ainsi choisir quel flux de "Custom Hitsounds" choisir (pour en savoir plus, il est recommandé de voir la page [Skinning](/wiki/Skinning))
 
-Lire un fichier .osz
---------------------
+## Lire un fichier .osz
 
 Il y a plusieurs moyens d'ouvrir un fichier .osz
 

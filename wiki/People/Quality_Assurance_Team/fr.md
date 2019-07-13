@@ -1,17 +1,16 @@
 ---
 outdated: true
 ---
+
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Équipe de certification de qualité des beatmaps
-===============================================
+# Équipe de certification de qualité des beatmaps
 
 L**'équipe de certification de qualité des beatmaps**, connue sous l'acronyme de QAT (*Quality Assurance Team*), est un groupe de joueurs chargés de contrôler la qualité des beatmaps mises en statut "Qualified" par les [BN](/wiki/People/Beatmap_Nomination_Group). Si une map vient à être acceptée par les QAT après le passage des BN, la map en question devient [classée](/wiki/Submission/Beatmap_Ranking_Procedure).
 Ils possèdent aussi des droits de modération dans les canaux de discussion et leur nom en rouge, au même titre que les [GMT](/wiki/People/Global_Moderation_Team).
 
-Membres de l'équipe
--------------------
+## Membres de l'équipe
 
 [Lien vers le groupe](https://osu.ppy.sh/groups/7)
 

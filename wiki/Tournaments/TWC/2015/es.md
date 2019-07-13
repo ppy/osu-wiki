@@ -1,5 +1,11 @@
-osu! Taiko World Cup 2015
-===============================
+---
+tags:
+- TWC 2015
+- TWC2015
+outdated: true
+---
+
+# osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](logo.png)
 
@@ -7,8 +13,7 @@ El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizad
 
 El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
-Agenda del Torneo
---------------------
+## Agenda del Torneo
 
 | Event                                | Timestamp                |
 |--------------------------------------|--------------------------|
@@ -21,8 +26,7 @@ Agenda del Torneo
 | Finales (Semana 1)                   | 04-05 Abril 2015         |
 | Finales (Semana 2)                   | 11-12 Abril 2015         |
 
-Premios
-----------
+## Premios
 
 | Placing                                                    | Prizes                                                                                                                                                      |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,8 +34,7 @@ Premios
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
-Organización
---------------
+## Organización
 
 | Job                        | Person                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,16 +46,14 @@ Organización
 
 ------------------------------------------------------------------------
 
-Links
------------
+## Links
 
 -   [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
-Set de Reglas
---------------
+## Set de Reglas
 
 ### Reglas del Torneo
 

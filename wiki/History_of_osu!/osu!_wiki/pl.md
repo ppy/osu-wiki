@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Lista zmian
------------
+
+## Lista zmian
 
 <table>
 <tbody>
@@ -43,8 +43,7 @@ Dellirium został zastąpiony przez Shiro w roli <a href="Special:ListUsers/syso
 </tbody>
 </table>
 
-Lista rzeczy do zrobienia
--------------------------
+## Lista rzeczy do zrobienia
 
 ### Pierwszorzędne
 

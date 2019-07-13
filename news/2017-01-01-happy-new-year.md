@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Happy New Year!"
-permalink: http://osunews.tumblr.com/post/155237821483/happy-new-year
 date: 2017-01-01 06:49:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/155237821483/happy-new-year
 ---
+
 Happy New Year from everyone on the osu! team! Whether you're ready for 2017 or not, too bad - it's finally here. Read on to get a little taste of what we've got planned, and a little surprise to boot!
-<!-- more -->
 
 We hope that you've all enjoyed your holidays over the past month or so, and have come away from your time with family and friends suitably refreshed to experience the year head on - because there's a LOT of stuff slated to happen in 2017.
 

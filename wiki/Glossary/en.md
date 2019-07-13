@@ -445,7 +445,7 @@ For osu!standard, the bar is replenished by the player [tapping](/wiki/tap) hit 
 
 For osu!catch, this can be done by catching fruit and drops.
 
-For all game modes (expect osu!taiko), a sizeable part of the bar is also depleted in case of a miss.
+For all game modes (except osu!taiko), a sizeable part of the bar is also depleted in case of a miss.
 
 ### Local Song Offset
 

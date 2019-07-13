@@ -1,8 +1,6 @@
-Formats de fichiers
-======================
+# Formats de fichiers
 
-Formats de fichiers spécifiques à osu!
------------------------------------------
+## Formats de fichiers spécifiques à osu!
 
 ### Archive
 
@@ -12,7 +10,7 @@ Formats de fichiers spécifiques à osu!
 | [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
 | [.db][Db Link]        | Fichier de base de données.                                                                                            |
 
-### [Éditeur de beatmap](/wiki/Beatmap_Editor)
+### Éditeur de beatmap
 
 | Format du fichier                           | Usage                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -25,8 +23,7 @@ Formats de fichiers spécifiques à osu!
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
 
-Créer un fichier .osz/.osk
-----------------------------
+## Créer un fichier .osz/.osk
 
 .osz/.osk est une extension de fichier liée spécifiquement à osu!.exe. Lorsqu'ils sont ouverts, les fichiers .osz sont extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk sont extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
 

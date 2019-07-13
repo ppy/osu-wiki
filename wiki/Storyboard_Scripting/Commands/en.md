@@ -1,5 +1,4 @@
-Commands
-==========
+# Commands
 
 Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
@@ -55,8 +54,7 @@ In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
 ![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
-Basic commands
--------------------
+## Basic commands
 
 These are the fundamental commands for any object. The commands are easy to use and only requires minor calculation.
 
@@ -143,8 +141,7 @@ So,
 -   x-coordinate: 320
 -   y-coordinate: (240 overwritten with) -100 -> 580
 
-Advanced commands
------------------
+## Advanced commands
 
 These are extra commands for an object to use. These commands are quite advanced, so consult with others or experiment yourself before use.
 
@@ -243,8 +240,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,CC,CC,0
 ```
 
-Extra commands
------------------
+## Extra commands
 
 ### Parameter (P) Command
 
@@ -266,8 +262,7 @@ _P,0,60000,62000,H
 _P,0,60000,62000,V
 ```
 
-Compound Commands
--------------------
+## Compound Commands
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 

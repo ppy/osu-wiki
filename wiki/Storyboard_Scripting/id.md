@@ -1,17 +1,14 @@
-Storyboard Scripting
-======================
+# Storyboard Scripting
 
 ![Sebuah contoh scripting di .osb.](SBS_Base.jpg "Sebuah contoh scripting di .osb.")
 
   Selain menggunakan [Storyboard Editor](/wiki/Beatmap_Editor/Design) (tab Design) untuk membuat [Storyboards](/wiki/Storyboards) pada beatmap, Anda juga dapat menggunakan teks editor biasa (seperti Notepad atau [Notepad++](http://www.notepad-plus-plus.org/)). Ini disebut sebagai "**Storyboarding by Scripting**" (SBS), dan membantu Anda agar lebih presisi (hingga satuan pixel dan milidetik) dalam perihal mengatur kapan sprite muncul, apa yang mereka lakukan, dan sebagainya.
 
-Petunjuk Pemula
-----------------
+## Petunjuk Pemula
 
 [Doomsday telah menyediakan petunjuk yang bagus untuk pemula mengenai konsep dari SBS disini (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
 
-Spesifikasi Lengkap
-------------------
+## Spesifikasi Lengkap
 
 Secara garis besar, spesifikasi ini dibuat berdasarkan pada [Spesifikasi Resmi](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) dan pengalaman saat membuat SB yang besar. Ini **bukanlah petunjuk langkah-demi-langkah**, meskipun contoh sederhana telah disediakan. Ini dimaksudkan untuk memberikan penjelasan mendalam mengenai bagaimana SBS diinterpretasikan menjadi berbagai aksi tertentu pada layar osu!
 

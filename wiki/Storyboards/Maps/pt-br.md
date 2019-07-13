@@ -1,5 +1,4 @@
-Mapas com Storyboards
-=====================
+# Mapas com Storyboards
 
 Esta é uma lista expandida de beatmaps com [storyboard](wiki/Storyboards).
 
@@ -108,8 +107,7 @@ Esta é uma lista expandida de beatmaps com [storyboard](wiki/Storyboards).
 -   [KOKIA - EXEC\_COSMOFLIPS/.](https://osu.ppy.sh/beatmapsets/38394)
 -   [doriko - Yuuhi Zaka](https://osu.ppy.sh/beatmapsets/54581)
 
-Beatmaps que não têm uma alma™, mas que ainda sim são bons
-----------------------------------------------------------
+## Beatmaps que não têm uma alma™, mas que ainda sim são bons
 
 -   [Chata - Nijiiro](https://osu.ppy.sh/beatmapsets/25372)
 -   [Touyama Nao - ALL 4 YOU](https://osu.ppy.sh/beatmaps/131945)
@@ -124,8 +122,7 @@ Beatmaps que não têm uma alma™, mas que ainda sim são bons
 -   [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774)
 -   [Shiori Mikami - Watashi, Shuyaku no Akaza Akari Desu (Short Ver.)](https://osu.ppy.sh/beatmapsets/48072)
 
-Não ranqueados
---------------
+## Não ranqueados
 
 -   [Poets Of The Fall - The Happy Song](https://osu.ppy.sh/beatmapsets/58704)
 -   [ZUN - At the End of Spring](https://osu.ppy.sh/beatmapsets/28274)
@@ -140,8 +137,7 @@ Não ranqueados
 -   [Seether - Fake It](https://osu.ppy.sh/beatmapsets/48738)
 -   [M2U - BlythE (Osuka)](https://osu.ppy.sh/beatmapsets/26932)
 
-Músicas antigas e não interessantes
------------------------------------
+## Músicas antigas e não interessantes
 
 - [Je t'aime](https://osu.ppy.sh/beatmapsets/6818)
 - [Let's Dance](https://osu.ppy.sh/beatmapsets/789)

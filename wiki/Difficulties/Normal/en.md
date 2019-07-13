@@ -1,15 +1,12 @@
-Normal
-=========
+# Normal
 
-Summary
--------
+## Summary
 
 Normal [difficulties](/wiki/Difficulties) are difficulties in which you must have basic skills to play them. They are the easiest difficulties next to [Easy](/wiki/Difficulties/osu!/Easy) difficulties.
 
 [Mapping](/wiki/Beatmapping) good Normal difficulties can appear to be hard at times, but after a while, it's pretty simple. Here's how to get things started.
 
-Mapping Tips
---------------
+## Mapping Tips
 
 Generally following the most distinctive features of a song. **Recovery times** should be plenty but can be less than in the related Easy map. **Use of 1/2 notes** is encouraged as well as the development of more **interesting beat placements** if the song allows it. **Spacing should be mostly consistent** to teach beginners the correlation between timing and distance. It is **not recommended** to change the distance spacing during the mapping process.
 
@@ -22,8 +19,7 @@ It is also **highly recommended** to avoid these:
 
 Beginners can easily be confused and disoriented by these, so they are unfit for a Normal difficulty **unless absolutely necessary.** Do not be afraid to ask on #modhelp or on the forum if you are unclear whether these are needed in your map.
 
-Setup
------
+## Setup
 
 -   HP Drain Rate: 5 or below
 -   Circle Size: 3 or 4
@@ -36,8 +32,7 @@ The [slider velocity](/wiki/Mapping_Techniques/Slider) can vary greatly. Typical
 
 A [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) of x1.0 is commonly used because it gives the spacing a speed that's equal to the sliders. However, since you generally move your mouse faster than is necessary, 0.7x to 0.8x potentially gives better flow into the sliders (which is why 0.8x is the default). Experiment a bit and see what works the best for your style, but don't go crazy.
 
-The Actual Mapping
-------------------
+## The Actual Mapping
 
 **Don't worry!** Mapping normal difficulties are pretty easy when you know what you're doing. Listen to the music you are mapping at first. Think about where it would be appropriate to place [beats](/wiki/Hit_Objects) that should be expected to be on your map. Keep them in your mind.
 

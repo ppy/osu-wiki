@@ -29,4 +29,3 @@ What will happen this year? Up to you!
 Best of luck to our 2018 finalists!
 
 —Flanster
-

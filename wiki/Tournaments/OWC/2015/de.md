@@ -1,12 +1,10 @@
-osu! World Cup 2015
-======================
+# osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
 
 Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Es ist der 6. osu! World Cup.
 
-Turnierzeitplan
----------------
+## Turnierzeitplan
 
 | Event               | Timestamp                   |
 |---------------------|-----------------------------|
@@ -19,8 +17,7 @@ Turnierzeitplan
 | Finale - Woche 1    | 05.-06. Dez. 2015           |
 | Finale - Woche 2    | 12.-13. Dez. 2015           |
 
-Preise
----------
+## Preise
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
@@ -30,8 +27,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
-Organisation
--------------
+## Organisation
 
 | Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,8 +39,7 @@ Organisation
 
 ------------------------------------------------------------------------
 
-Links
---------
+## Links
 
 -   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
 -   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
@@ -52,8 +47,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Participants
--------------
+## Participants
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
@@ -142,8 +136,7 @@ Participants
 
 ------------------------------------------------------------------------
 
-Regelsätze
-------------
+## Regelsätze
 
 ### Turnierregeln
 

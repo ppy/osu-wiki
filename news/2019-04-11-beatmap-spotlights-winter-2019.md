@@ -6,7 +6,7 @@ date: 2019-04-11 16:00:00 +0000
 
 The wind's blowing warmer and the sun's feeling nicer, but we still have some cool beatmaps from the winter to show off! Come take a look at our selection of mapsets from last season, and earn a fancy new medal for yourself by playing them all!
 
-![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/header.jpg)
+![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/header.jpg?)
 
 The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=259). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Winter 2019 Spotlights rankings will end on the 25th of June, 2019.**
 

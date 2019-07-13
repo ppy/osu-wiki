@@ -1,5 +1,4 @@
-Editor de Beatmap
-==============
+# Editor de Beatmap
 
 O **editor de beatmap** é a interface gráfica dentro do jogo do osu! para criar [beatmaps](/wiki/Beatmaps).
 Ele é dividido em quatro modos:

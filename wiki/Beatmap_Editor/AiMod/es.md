@@ -1,5 +1,4 @@
-AiMod
-========
+# AiMod
 
 **AiMod** es una herramienta construida en el osu!Beatmap Editor, puedes abrirlo presionando `Control`+`Shift`+`A` o haciendo clic en **Archivo**» **Abrir AiMod**. AiMod ayudará a los nuevos mappers a "modificar" sus mapas. El problema con AiMod es que fue diseñado para ser simple, por lo que es muy probable que AiMod no detecte problemas con los patrones de mapeo o mal BPM/timing. Así que al final, necesitarás un [modder](/wiki/Glossary) para modificar tu beatmap.
 
@@ -7,8 +6,7 @@ AiMod
 
 Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto), se muestran las advertencias y los errores. Si "¡No se encontraron problemas en este mapa!"... ¡Felicitaciones! Tu beatmap pasó el modding de AiMod, pero igual necesitarás encontrar un [modder](/wiki/Glossary) para modificar tu beatmap, porque ellos encontrarán más problemas de los que AiMod puede detectar.
 
-Pestañas
-----
+## Pestañas
 
 **All**
 
@@ -35,8 +33,7 @@ Pestañas
 
 -   Estos problemas afectan al mapset en su conjunto.
 
-Mensajes
---------
+## Mensajes
 
 > Nota: los números dentro de los corchetes (es decir, "{0}") son un marcador de posición para un número o una palabra.
 

@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Community Contributor Badges (January 2016)"
-permalink: http://osunews.tumblr.com/post/136976187198/community-contributor-badges-january-2016
 date: 2016-01-09 23:32:36 +0000
 tumblr_url: http://osunews.tumblr.com/post/136976187198/community-contributor-badges-january-2016
 ---
-It's a given that osu! would not be as amazing as it is without the awesome community that backs it up. This goes out to the great team behind community moderation, to the individuals who provide cool and interesting tools that change the way you play, and to those who stop at nothing to spread the love of circle clicking. A new wave of community contributor badges have arrived!
 
+It's a given that osu! would not be as amazing as it is without the awesome community that backs it up. This goes out to the great team behind community moderation, to the individuals who provide cool and interesting tools that change the way you play, and to those who stop at nothing to spread the love of circle clicking. A new wave of community contributor badges have arrived!
 
 A long time has passed since we last gave our appreciation to the members of the community in the form of a Community Contributor Badge. During this time, many more have taken up the task of aiding in community development with their skills and expertise. The osu! staff encourages all members of the community, new and old, to participate and contribute their abilities to help grow the game we all know and love.
 

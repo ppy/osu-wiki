@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "June 2014 Ranking Chart"
-permalink: http://osunews.tumblr.com/post/92131524533/june-2014-ranking-chart
 date: 2014-07-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/92131524533/june-2014-ranking-chart
 ---
+
 The Ranking Charts for June 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1406)! Along with that, we want to introduce you some changes to make the Monthly Ranking Charts more attractive for everyone!
 
 First of all, we implemented a [long-term ladderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit). Everytime you reach the Top 10 at the end of a monthly ranking chart, you will receive a score according to your position. At the end of each season, which consists of three months of charts, the season winner will be rewarded with an additional **3 months supporter tag** and the user title **Charts Champion** for 3 months. The winner of each individual ranking chart will still receive 1 month supporter tag. The Summer season will regroup the May, June and July ranking charts.

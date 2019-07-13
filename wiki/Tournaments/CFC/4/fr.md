@@ -4,11 +4,12 @@ tags:
 - CFC 4
 - CFC4
 ---
+
 # Catch French Cup 4
 
 ![CFC 4 Logo](img/logo.png)
 
-La **Catch French Cup 4** (***CFC 4***) est un tournoi osu!catch français en 1v1 organisé par ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) et du ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). Ceci est la 4ème édition de la Catch French Cup.
+La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en 1v1 organisé par ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) et du ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci est la quatrième édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -18,7 +19,7 @@ La **Catch French Cup 4** (***CFC 4***) est un tournoi osu!catch français en 1v
 | Tirage au sort en direct | 2019-03-24 (20:00 UTC+1) |
 | Phase de poules | 2019-03-30/2019-04-07 |
 | Quarts-de-finale | 2019-04-13/2019-04-14 |
-| Demi-finales | 2019-04-20/2019-04-21 |
+| Demi-finales | 2019-04-20/2019-04-23 |
 | Finales | 2019-04-27/2019-04-28 |
 
 ## Récompenses
@@ -27,19 +28,21 @@ La **Catch French Cup 4** (***CFC 4***) est un tournoi osu!catch français en 1v
 | :-: | :-- |
 | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
 
+![Badge du gagnant de la CFC4](img/badge.png)
+
 ## Organisation
 
-La Catch French Cup 4 est gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
+La Catch French Cup 4 était gérée par différents membres de la communauté, en distribuant le nombre de tâches dans différents départements de responsibilité.
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Commentateurs | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728) |
-| Streamers | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Organisateurs | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Sélectionneur de map | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Commentateurs | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
+| Streamers | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Arbitres | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
+| Statisticien | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Arbitres | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 | Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
@@ -49,57 +52,74 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 - [Livestream](https://www.twitch.tv/osufrlive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| Top | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | High | ![][flag_RE] [Sounny](https://osu.ppy.sh/users/7326109), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | Low | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239), ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) |
 | Unseeded | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
 
 ## Groupes
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Groupe | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568) | ![][flag_RE] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167) | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
+| **B** | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
 | **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
 
------------------------
+---
 
-## Planning des matches: Demi-finales
+## Podium
 
-### Samedi, 20 Avril 2019
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC+1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Aqliva | ![][flag_FR] | ![][flag_FR] | Boros | **16:00** |
-| #2 | Tbotas | ![][flag_FR] | ![][flag_FR] | Noulayfe | **17:00** |
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
+| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
-### Dimanche, 21 Avril 2019
-
-| Match ID | Joueur A |  |  | Joueur B | Horaire du match (UTC+1) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | Aqliva | ![][flag_FR] | ![][flag_TN] | -Ken | **16:00** |
-| #3b¹ | Boros | ![][flag_FR] | ![][flag_TN] | -Ken | **16:00** |
-| #4a² | Tbotas | ![][flag_FR] | ![][flag_RE] | Sounny | **17:00** |
-| #4b² | Noulayfe | ![][flag_FR] | ![][flag_RE] | Sounny | **17:00** |
-
-¹ Confrontation dépendant du perdant du Match #1
-
-² Confrontation dépendant du perdant du Match #2
-
------------------------
+---
 
 ## Liste des maps
 
+### Finales
+
+**[Téléchargez le mappack ici! (150 MB)](https://mega.nz/#!d5FymIpS!gt2O_LS7Gn_BCx3BHoPyLImDiYCLvnrTka9mnhvhCKA)**
+
+- NoMod
+  - [PinocchioP - Weekly Shonen BYE-BYE (\[224\]Reol) \[224STEP\]](https://osu.ppy.sh/beatmapsets/279313#fruits/632533)
+  - [kuroma - Daiuchuu Stage (Spectator) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/481006#fruits/1026736)
+  - [Tadokoro Azusa - 'EVERMORE SIDE C (Emiru) \[Tadokoro Azusa - 1HOPE SNIPER\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935626)
+  - [Akatsuki Records - WARNING x WARNING x WARNING (Hailie, UndeadCapulet) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#fruits/1593262)
+  - [ryo(supercell) feat. Hatsune Miku - ODDS&ENDS (Speed Up Ver.) (elchxyrlia) \[AR9.5\]](https://osu.ppy.sh/beatmapsets/617809#fruits/1302566)
+  - [xi - Akasha (Midge) \[Falling\]](https://osu.ppy.sh/beatmapsets/291784#fruits/656916)
+- Hidden
+  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmapsets/105245#fruits/276366)
+  - [Susumu Hirasawa - Aurora 2 (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
+  - [penoreri - Everlasting Message (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/542478#fruits/1149965)
+  - [Kevin.o2SE - Red Sign (ZHSteven) \[Another\]](https://osu.ppy.sh/beatmapsets/118454#fruits/304526)
+- HardRock
+  - [DenKare - Yakata Mawari (Taikuta) \[Extra\]](https://osu.ppy.sh/beatmapsets/510170#fruits/1084725)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#fruits/46298)
+  - [Panda Eyes & Teminite - Highscore (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/615326#fruits/1297908)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Legende\]](https://osu.ppy.sh/beatmapsets/779991#fruits/1637765)
+- DoubleTime
+  - [Matsunaga Maho (from StylipS) - Resonant World (Kurokami) \[Kurokami's Rain\]](https://osu.ppy.sh/beatmapsets/193326#fruits/461438)
+  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](https://osu.ppy.sh/beatmapsets/495910#fruits/1055601)
+  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
+  - [Susumu Hirasawa - Bandiria Travellers (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/51391#fruits/157582)
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Fusyoku Ressentiment, Fushiyoku no Sarugakuza. (Minato Yukina) \[Sceleratus Nitor\]](https://osu.ppy.sh/beatmapsets/949602#fruits/1982901)**
+
 ### Demi-finales
 
-**Téléchargez le mappack ici! ? (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
+**[Téléchargez le mappack ici! (132 MB)](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0)**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ TechMap Pack (CLSW) \[Opium and Purple \~ 9th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829#fruits/1468087)
@@ -128,7 +148,7 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 
 ### Quarts-de-finale
 
-**[Téléchargez le mappack ici! ? (77 MB)](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0)**
+**[Téléchargez le mappack ici! (77 MB)](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0)**
 
 - NoMod
   - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
@@ -152,7 +172,7 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 
 ### Phase de poules
 
-**[Téléchargez le mappack ici! ? (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc)**
+**[Téléchargez le mappack ici! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc)**
 
 - NoMod
   - [MitiS feat. Crywolf - Oasis (vocal Mix) (Benny-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/306442#fruits/861238)
@@ -171,43 +191,70 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+---
 
 ## Résultats des matches
+
+### Finales
+
+| Samedi, 2019-04-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
+| **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | -win by default- |
+| Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** |[#1](https://osu.ppy.sh/community/matches/51344482) |
+
+| Dimanche, 2019-04-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
+
+### Demi-finales
+
+| Samedi, 2019-04-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Tbotas ![][flag_FR] | 1 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
+| **Alostis** ![][flag_FR] | **6** | 0 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
+
+| Dimanche, 2019-04-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | -win by default- |
+
+| Mardi, 2019-04-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Boros** ![][flag_FR] | **6** | 3 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
 
 ### Quarts-de-finale
 
 | Samedi, 2019-04-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Tbotas** ![][flag_FR] | **5** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 2 | **5** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
 | -Ken ![][flag_TN] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50801266) |
 
 | Dimanche, 2019-04-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Holloh ![][flag_FR] | 1 | **5** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
-| Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Aqliva** | -win by default- |
+| Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | -win by default- |
 | **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | -win by default- |
 
 ### Phase de poules
 
 | Samedi, 2019-03-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_RE] **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
 | **Holloh** ![][flag_FR] | **3** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/50635325) |
-| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aqliva** | -win by default- |
+| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | -win by default- |
 | **Tbotas** ![][flag_FR] | **3** | 2 | ![][flag_RE] Sounny | [#1](https://osu.ppy.sh/community/matches/50636114) |
-| **Aqliva** ![][flag_FR] | **3** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50636538) |
+| **Alostis** ![][flag_FR] | **3** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50636538) |
 | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **YANOO123** | -win by default- |
 | **dracoV** ![][flag_FR] | **3** | 0 | ![][flag_FR] Dask | -win by default- |
 | **Sounny** ![][flag_RE] | **3** | 0 | ![][flag_FR] Noctalium | -win by default- |
-| dracoV ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aqliva** | [#1](https://osu.ppy.sh/community/matches/50637487) |
+| dracoV ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/50637487) |
 | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | -win by default- |
 | Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | -win by default- |
 
 | Dimanche, 2019-03-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Noulayfe** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
 | **Boros** ![][flag_FR] | **3** | 1 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |
 | Julo ![][flag_FR] | 1 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50664262) |
@@ -221,7 +268,7 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Règlement
 
@@ -233,7 +280,7 @@ La Catch French Cup 4 est gérée par différents membres de la communauté, en 
 4. Rejoindre le serveur Discord est obligatoire, au moins pour la durée du tournoi.
 5. Les matchs du 1er weekend et du 2ème weekend seront en best-of-5, les matchs du 3ème weekend seront en best-of-7, les matchs du 4ème weekend seront en best-of-9, les matchs du 5ème weekend seront en best-of-11, les matchs du 6ème et du 7ème weekend seront en best-of-13.
 
-### Instructions durant les matchs:
+### Instructions durant les matchs
 
 1. L'arbitre créera la salle et invitera les joueurs.
 2. Les joueurs vont `!roll` pour déterminer l'ordre pour choisir les warmups et les beatmaps.

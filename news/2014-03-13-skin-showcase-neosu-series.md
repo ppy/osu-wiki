@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skin Showcase: NeOsu series"
-permalink: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 date: 2014-03-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
 ---
+
 It was only a matter of time until this skin got showcased, and here it is at last. I present to you, the NeOsu series.
 
 [NeOsu](https://osu.ppy.sh/community/forums/topics/83087) was first submitted on the 5th of May in 2012 and is skinned for osu! standard, Taiko and Catch the Beat. A lot of the elements worked really well with each other, however there were some parts (like most of the Taiko graphics) that didn't seem to fit in with the rest of the skin. With some small fixes it could have been a really good skin; the author knew this, and released these fixes as a second skin.

@@ -1,5 +1,4 @@
-Hard
-=====================
+# Hard
 
 Tingkat kesulitan Hard dianggap sebagai tingkat tersulit kedua di dalam 4 tingkat kesulitan umum yang ada pada sebuah mapset. Pada umumnya, map ini memiliki [tingkat capaian](/wiki/Beatmap_Editor/Song_Setup), [tingkat pengurasan HP](/wiki/Beatmap_Editor/Song_Setup), dan [tingkat kesulitan secara keseluruhan](/wiki/Beatmap_Editor/Song_Setup) yang lebih tinggi dibandingkan [Normal](/wiki/Difficulties/osu!/Normal). Pola yang lebih kompleks/sulit pun muncul pada tingkat kesulitan ini, seperti adanya [stream](/wiki/Mapping_Techniques/Rhythm) dan [jump](/wiki/Mapping_Techniques/Jump) pendek. Bergantung pada kemampuan mapper dan lagu yang digunakan, nama ini akan digunakan sebagai pengganti [Insane](/wiki/Difficulties/osu!/Insane), berdasarkan perbandingan relatif mapper pada hasil testplay map tersebut (hindari jump yang terlalu jauh dan stream cepat/panjang).
 

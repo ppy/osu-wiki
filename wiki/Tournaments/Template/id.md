@@ -122,7 +122,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 ### Final - Minggu 2
 
 | Hari, tanggal |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | TEAM_A ![][flag] | SKOR | SKOR | ![][flag] TEAM_B | [#1](TAUTAN_PERTANDINGAN) |
 | TEAM_C ![][flag] | SKOR | SKOR | ![][flag] TEAM_D | -win by default- |
 | TEAM_E ![][flag] | SKOR | SKOR | ![][flag] TEAM_F | -anulir- |

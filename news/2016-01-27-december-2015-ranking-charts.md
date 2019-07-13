@@ -1,20 +1,17 @@
 ---
 layout: post
 title: "December 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/138142336088/december-2015-ranking-charts
 date: 2016-01-27 09:07:02 +0000
 tumblr_url: http://osunews.tumblr.com/post/138142336088/december-2015-ranking-charts
 ---
-Hello everyone and my apologies for the big delay! The Ranking Charts for December 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1512)!
-This month [Baraatje123](https://osu.ppy.sh/users/2533040), [OzzyOzrock](https://osu.ppy.sh/users/465153), [alienflybot](https://osu.ppy.sh/users/636114) and [Halogen-](https://osu.ppy.sh/users/169992) picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
 
+Hello everyone and my apologies for the big delay! The Ranking Charts for December 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1512)!
+
+This month [Baraatje123](https://osu.ppy.sh/users/2533040), [OzzyOzrock](https://osu.ppy.sh/users/465153), [alienflybot](https://osu.ppy.sh/users/636114) and [Halogen-](https://osu.ppy.sh/users/169992) picked the maps for the Monthly Ranking Charts. Unfortunately, because of the low amount of ranked christmas / winter themed maps, we can't go for a themed chart, which is why we will continue with the normal procedure for now.
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
-
 
 ### osu!
 
@@ -44,13 +41,9 @@ Another one of the maps that can't be left out. This map offers a total of 15 di
 
 This map shows how streams are done correctly. The song calls for streams, something Gamu did pretty well. The map occasionally switches snapping, but due to the way it's mapped it feels natural. The guest difficulties are all executed properly, but the Extra difficulty stands on the top. It follows rhythm perfectly, and the usage of 1/6 is quite clever. I'm personally not that big of a fan of stream-maps, but this map made me reconsider that. It's a flawless excecution of a map, which therefore needs to be in the top 6
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[OzzyOzrock](https://osu.ppy.sh/users/465153)** about their favourite maps in December 2015.
-
 
 + **[L.E.D. vs. S-C-U - Confiserie](https://osu.ppy.sh/beatmapsets/369596) by [-xNaCLx-](https://osu.ppy.sh/users/1530993)**
 
@@ -75,9 +68,6 @@ Despite being this mapper's first ranked map, it has already managed to land its
 + [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey](https://osu.ppy.sh/beatmapsets/274111) by [Irreversible](https://osu.ppy.sh/users/1287964)
 
 With a BPM that doubles from 132 to 266, this song is one tough cookie despite having very simple patterns and even some mercy, such as the map going from 1/4 patterns to 1/2 for a while. The map plays off of the aggressive beat fairly well, and while it may take you a few tries, it is satisfying to finally full combo.
-
-
-
 
 ### Catch the Beat
 
@@ -107,9 +97,6 @@ Though the map is a bit short in length, this mapset showcased an array of diffi
 
 Everyone knows that playing Camellia songs is quite interesting because of the uplifting streams and throbbing beats. For me, this map totally displayed how thrilling the gameplay are, with the crazy patterns that can really bring shocking-yet-fulfilling experiences to the players. In addition, this map also offer challenges to the top Catch the Beat players since it involves a flurry of intense patterns, such as the slider-stream madness jumping in the Kiai Time. Let's see if you can pass it, or even getting into the leaderboard!
 
-
-
-
 ### osu!mania
 
 For osu!mania, **[Halogen-](https://osu.ppy.sh/users/169992)** was able to select their personal most noteworthy beatmap from last month.
@@ -138,11 +125,7 @@ One of the shorter choices in this pool, Little Busters! is a five difficulty, 7
 
 Rounding off the December ranking pool is Takane6's 7K set for everyone's favorite bang-bang-woosh-woosh song (but not really), Preserved Valkyria. While the ranked 4K set has a blistering stream section for the opening piano solo, Takane opted to go the more technical route for the map, refraining from the excessive speed and instead focusing more on extreme layering and well constructed pattern placement that does a respectable job following the music. Also featuring five-difficulty set, this map aims to cater to adept players, with the second lowest difficulty being just a hair under three stars. The GRAVITY tips at roughly 5.4 stars, but unlike Valedict, does not have quite as rough of a structure, with a good majority of the 1/4 patterns carrying scale-heavy patterns. If the GRAVITY proves to be too much, Shin's INFINITE does a great job providing an equally effective interpretation of the song, while dropping the layering a touch to put more emphasis on the speedy melodies.
 
-
-
-
 **The December 2015 ranking charts will end on the 20th February 2016**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
 
 ## Past Ranking Charts results
 

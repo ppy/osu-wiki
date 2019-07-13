@@ -80,7 +80,6 @@ For over two years, Evrien has been tirelessly involving himself in some of the 
 
 Evrien has made it his mission to ensure everybody knows what the best of the best are up to, and we have people like him to thank for the growing prominence of osu!'s tournament scene.
 
-
 ## Development
 
 These contributors have made massive contributions in the form of code, projects, services, or a mixture of all three. These unsung heroes are the beating heart from which the game's future is built.

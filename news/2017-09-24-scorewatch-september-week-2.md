@@ -28,9 +28,7 @@ How many times can [ExGon](https://osu.ppy.sh/users/214187) show up in scorewatc
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zhxQmKGMWQM" frameborder="0" allowfullscreen></iframe></br>
 
-
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 Many players may not know how much of a beast [SapphireGhost](https://osu.ppy.sh/users/388602) was back in 2014, so here is osu!archive doing what they do best and picking his 96.99% HDNCSD FC on [Tomohito Nishiura - Theme of the Last Time Travel (Live)](https://osu.ppy.sh/beatmaps/57143?m=0) to take 225pp and the number one spot on the map.
 
@@ -38,20 +36,15 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Nmh42Lc4EDs" frameborder="0" allowfullscreen></iframe></br>
 
-
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [Monko2k](https://osu.ppy.sh/users/4852013) has surged up the rankings without a care after he set an amazing 99.71% HR 1x sliderbreak on [BABYMETAL - Gimme chocolate!!](https://osu.ppy.sh/beatmaps/970048?m=0) to grab 611pp. This unfortunate incident does not seem to hinder him that much as he has risen into the top 25 globally!
 
-
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [WindyS](https://osu.ppy.sh/users/1190879) takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/beatmapsets/354157).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YwobO3E0lz0" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

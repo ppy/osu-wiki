@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #3 - Submissions Open!"
-permalink: http://osunews.tumblr.com/post/70079897578/monthly-beatmapping-contest-3-submissions-open
 date: 2014-12-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/70079897578/monthly-beatmapping-contest-3-submissions-open
 ---
+
 Calling all mappers again! It's time for another monthly beatmapping contest! Show off your mapping skills against others by creating the best beatmap you can to this month's contest song!
 
 The song choice for this month is **Chasers - Lost**. With a total length of 3:30, the song offers various opportunities to let your creativity loose with fancy patterns and mapping techniques. You can listen to the song right here.

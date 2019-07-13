@@ -1,20 +1,16 @@
 ---
 layout: post
 title: "August 2015 Ranking Charts"
-permalink: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-charts
 date: 2015-09-16 16:42:31 +0000
 tumblr_url: http://osunews.tumblr.com/post/129221795953/august-2015-ranking-charts
 ---
+
 The Ranking Charts for August 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1508)!
 This month [Sieg](https://osu.ppy.sh/users/1404615), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), [diao](https://osu.ppy.sh/users/500696) and [juankristal](https://osu.ppy.sh/users/443656) picked the maps for the Monthly Ranking Charts.
-
-
 
 ## Ranking Charts Creation
 
 The charts have previously been created by letting four dedicated community members select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
-
 
 ### osu!
 
@@ -44,16 +40,11 @@ The Dance. You can meet a lot of big circle size maps on high level but this is 
 
 The E. Priti is well known in community due to his unique Ultra diffs. While you can find really awesome and intense stream action on Ultra difficulty, don't forget to necessarily check another top tier great difficulties here "-Irrvin-'s Extra" by -kevincela- & Irreversible and wa's Extra by wa_.
 
-
-
-
 ### Taiko
 
 For Taiko, we asked **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)** about their favourite maps in August 2015.
 
-
-+ **[DJ TOTTO VS TOTTO - Vajra](https://osu.ppy.sh/beatmapsets/322526) by [qoot8123](https://osu.ppy.sh/users/766371)**    
-
++ **[DJ TOTTO VS TOTTO - Vajra](https://osu.ppy.sh/beatmapsets/322526) by [qoot8123](https://osu.ppy.sh/users/766371)**
 
 A decent full set which is really impressive to me. The mapper makes good use of different pattern constellations to accompany the music appropriately. Spread is well balanced in spite of the relatively large gaps between difficulties. By significantly lowering the note density in calmer sessions, the dense kiais are properly emphasized, thereby making them interesting to play. The complex, yet fitting note streams in Inner Oni and the smooth flow are the highlights of this notable set for the month.
 
@@ -61,27 +52,21 @@ A decent full set which is really impressive to me. The mapper makes good use of
 
 Although the mapper is quite new to the community, this debut approved map is surprisingly well-made that may help establish their reputation. Notes are nicely arranged according to vocal pitch and main rhythm, resulting in good coherence with the song. The transition between stanzas is also quite clear and intuitive. If you get some free time on weekends, this 7-minute marathon will definitely be a good choice to spend on.
 
-
 + [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/193469) by [DakeDekaane](https://osu.ppy.sh/users/1425253)  
 
 Another appealing instrumental map for the month. Difficulties are made on a hard scale with some difficulty spikes in certain parts, but the overall spread is still reasonable. Inner Oni is considerably hard in terms of note density and pattern complexity. Oni is also quite challenging because of the uncommon 3/4 snapping and the dense arrangement of notes. Are you ready for the stagnation of time (due to retries)?
-
 
 + [AU - Rochill Tarmination(9 Voice Edit)](https://osu.ppy.sh/beatmapsets/301204) by [OnosakiHito](https://osu.ppy.sh/users/290128)  
 
 Getting stuck by BPM constraint? This map may probably help you. The mapper maintains a high level of pattern consistency throughout the set with a good spread. Despite the relatively high BPM, the patterns used are quite simple and straightforward. Therefore, this can be a possible practice map for players to get familiar with faster songs. If you want to train the reverse patterns, you may try the abekobe version of Inner Oni as well.
 
-
 + [CINDERELLA PROJECT - Star!!](https://osu.ppy.sh/beatmapsets/336453) by [climbb65588](https://osu.ppy.sh/users/31610)
 
 Renowned for drum mapping, the mapper presents a new piece of work to end their 4-year halt of creating own maps. Patterns are carefully arranged in accordance with the drum sounds and play very well. The use of finishes is a bit special compared with most maps, but they still sound good in gameplay. Difficulties can show a good contrast of note density as song pace changes, thus bringing greater impact to the denser parts.
 
-
 + [Infected Mushroom - The Pretender](https://osu.ppy.sh/beatmapsets/130088) by [Nwolf](https://osu.ppy.sh/users/1910766)
 
 Without having a look in editor, most of the players will be surprised owing to this dramatic map. In the first half, it looks like a typical Oni until they notice the nightmare afterwards. Starting from second half, the waves of streams are really challenging that require higher level of skills to overcome. The arrangement of hit-sounds is quite nice that patterns can follow the music in general, while the changes in slider velocity are managed well.
-
-
 
 ### Catch the Beat
 
@@ -111,8 +96,6 @@ Another wonderful song by Halozy, this might be my favorite ranked Halozy song b
 
 Blue Dragon is a fairly infamous name in the CtB community for his old ar10 maps, but don't forget that he maps far less intense things too! This song is the definition of chill, smooth, and classy and all of the diffs do an excellent job at complementing the mood. If you've played Charles445's map Dragons or even his Smile of Split you will probably think about those maps when you play the insane diff. These kinds of 3/4 slider heavy maps flow nicely as converts, sometimes creating a hyperdash heavy challenge like Spec's Yoiyami map. This set is less intense with the jump distance, but that does not take away from the challenge of timing smaller non-hyper mini jumps from one slider to the next. Hope you guys have fun with this one.
 
-
-
 ### osu!mania
 
 For osu!mania, **[juankristal](https://osu.ppy.sh/users/443656)** was able to select their personal most noteworthy beatmap from last month.
@@ -141,11 +124,7 @@ And now we have one of my favourites songs of SDVX and I am talking about _FrEsH
 
 And for the last map of this month we have Heavenly Moon by Spy. A really good mapset selected for the MWC 2015 Round of 16 map pool. Mentioning that last thing, you should be able to notice the quality of the map without many explanations. Overall a good structured map and one of the best maps that Spy made. Also Mashiro made a diff for this mapset challenging the new players to an advanced difficult. Expect some double trills for this map and some fun SV changes!
 
-
-
 **The August 2015 ranking charts will end on the 15th October 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
-
-
 
 ## Past Ranking Charts results
 

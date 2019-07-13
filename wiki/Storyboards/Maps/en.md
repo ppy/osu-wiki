@@ -1,10 +1,8 @@
-Maps with Storyboards
-=====================
+# Maps with Storyboards
 
 This is an expanded list of beatmaps with [storyboard](/wiki/Storyboards).
 
-Storyboards
-------------------
+## Storyboards
 
 -   [Suzuta Miyako - one's future (Full Ver.)](https://osu.ppy.sh/beatmaps/156919)
 -   [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmaps/26567)
@@ -31,8 +29,7 @@ Storyboards
 -   [Katakiri Rekka - Get The Regret Over](https://osu.ppy.sh/beatmapsets/27328)
 -   [Lon - Yuru Fuwa Jukai Girl](https://osu.ppy.sh/beatmapsets/50462)
 
-Songs With Cool Effects
---------------------------
+## Songs With Cool Effects
 
 -   [Kayano Ai - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)](https://osu.ppy.sh/beatmaps/106358)
 -   [Hayami Saori - Fallen Down](https://osu.ppy.sh/beatmaps/84748)
@@ -93,8 +90,7 @@ Songs With Cool Effects
 -   [Doppelman - Error!!](https://osu.ppy.sh/beatmapsets/50042)
 -   [SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmaps/178904)
 
-Beatmaps which have a soul™
------------------------------
+## Beatmaps which have a soul™
 
 -   [Wiklund - Billy Boogie](https://osu.ppy.sh/beatmapsets/22082)
 -   [Jimmy Eat World - The Middle](https://osu.ppy.sh/beatmapsets/24685)
@@ -110,8 +106,7 @@ Beatmaps which have a soul™
 -   [KOKIA - EXEC\_COSMOFLIPS/.](https://osu.ppy.sh/beatmapsets/38394)
 -   [doriko - Yuuhi Zaka](https://osu.ppy.sh/beatmapsets/54581)
 
-Ones which doesn't have a soul™ but still good
-----------------------------------------------
+## Ones which doesn't have a soul™ but still good
 
 -   [Chata - Nijiiro](https://osu.ppy.sh/beatmapsets/25372)
 -   [Touyama Nao - ALL 4 YOU](https://osu.ppy.sh/beatmaps/131945)
@@ -126,8 +121,7 @@ Ones which doesn't have a soul™ but still good
 -   [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774)
 -   [Shiori Mikami - Watashi, Shuyaku no Akaza Akari Desu (Short Ver.)](https://osu.ppy.sh/beatmapsets/48072)
 
-Not ranked
-----------
+## Not ranked
 
 -   [Poets Of The Fall - The Happy Song](https://osu.ppy.sh/beatmapsets/58704)
 -   [ZUN - At the End of Spring](https://osu.ppy.sh/beatmapsets/28274)
@@ -137,14 +131,12 @@ Not ranked
 -   [The Adventures of Duane & BrandO - MEGA MAN 2](https://osu.ppy.sh/beatmaps/55640)
 -   [Yooh - MariannE](https://osu.ppy.sh/beatmapsets/301247)
 
-Songs Which Change the Gameplay
----------------------------------
+## Songs Which Change the Gameplay
 
 -   [Seether - Fake It](https://osu.ppy.sh/beatmapsets/48738)
 -   [M2U - BlythE (Osuka)](https://osu.ppy.sh/beatmapsets/26932)
 
-Old and not interesting Songs
------------------------------
+## Old and not interesting Songs
 
 - [Je t'aime](https://osu.ppy.sh/beatmapsets/6818)
 - [Let's Dance](https://osu.ppy.sh/beatmapsets/789)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Beatmap Spotlights: April 2017"
-permalink: http://osunews.tumblr.com/post/161158476378/beatmap-spotlights-april-2017
 date: 2017-05-28 21:52:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/161158476378/beatmap-spotlights-april-2017
 ---
@@ -20,7 +19,6 @@ First of all, congratulations to the winners of the March 2017 Spotlights. They 
 + **osu!taiko:** [mangomizer](https://osu.ppy.sh/users/1893718)
 + **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 + **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
-
 
 ## osu!
 
