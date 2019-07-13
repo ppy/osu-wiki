@@ -33,4 +33,3 @@ The next episode of the osu! Coffee Hour will be happening [**this Friday, the 1
 We'll see you then!
 
 —HappyStick
-

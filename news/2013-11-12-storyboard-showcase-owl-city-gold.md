@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Storyboard Showcase: Owl City - Gold"
-permalink: http://osunews.tumblr.com/post/66739437597/storyboard-showcase-owl-city-gold
 date: 2014-11-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/66739437597/storyboard-showcase-owl-city-gold
 ---
+
 With the OWC well underway, let's take a little break from all the stress with a calm, feel-good song for this week.
 
 **[Owl City - Gold](https://osu.ppy.sh/beatmapsets/65146) by [inverness](https://osu.ppy.sh/users/1361697)**  

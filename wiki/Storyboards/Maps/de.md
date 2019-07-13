@@ -1,10 +1,8 @@
-Maps with Storyboards
-===============================
+# Maps with Storyboards
 
 Hier werden (so gut wie möglich) alle Beatmaps mit einem [Storyboard](/wiki/Storyboards) aufgelistet.
 
-Storyboard
--------------
+## Storyboard
 
 -   [Suzuta Miyako - one's future (Full Ver.)](https://osu.ppy.sh/beatmaps/156919)
 -   [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmaps/26567)
@@ -31,8 +29,7 @@ Storyboard
 -   [Katakiri Rekka - Get The Regret Over](https://osu.ppy.sh/beatmapsets/27328)
 -   [Lon - Yuru Fuwa Jukai Girl](https://osu.ppy.sh/beatmapsets/50462)
 
-Lieder mit coolen Effekten
-----------------------------
+## Lieder mit coolen Effekten
 
 -   [Kayano Ai - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)](https://osu.ppy.sh/beatmaps/106358)
 -   [Hayami Saori - Fallen Down](https://osu.ppy.sh/beatmaps/84748)
@@ -93,8 +90,7 @@ Lieder mit coolen Effekten
 -   [Doppelman - Error!!](https://osu.ppy.sh/beatmapsets/50042)
 -   [SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmaps/178904)
 
-Beatmaps, die eine Seele haben™
----------------------------------
+## Beatmaps, die eine Seele haben™
 
 -   [Wiklund - Billy Boogie](https://osu.ppy.sh/beatmapsets/22082)
 -   [Jimmy Eat World - The Middle](https://osu.ppy.sh/beatmapsets/24685)
@@ -110,8 +106,7 @@ Beatmaps, die eine Seele haben™
 -   [KOKIA - EXEC\_COSMOFLIPS/.](https://osu.ppy.sh/beatmapsets/38394)
 -   [doriko - Yuuhi Zaka](https://osu.ppy.sh/beatmapsets/54581)
 
-Haben keine Seele™, sind aber dennoch gut
------------------------------------------
+## Haben keine Seele™, sind aber dennoch gut
 
 -   [Chata - Nijiiro](https://osu.ppy.sh/beatmapsets/25372)
 -   [Touyama Nao - ALL 4 YOU](https://osu.ppy.sh/beatmaps/131945)

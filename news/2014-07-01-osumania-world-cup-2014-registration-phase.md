@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!mania World Cup 2014 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-registration-phase
 date: 2014-07-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/90458656443/osumania-world-cup-2014-registration-phase
 ---
+
 Greetings. We'd like to welcome all of you to this year's official osu!mania World Cup. This is the first osu!mania World Cup we ever hosted, consisting of a 7-keys and 4-keys bracket. For that, we adjusted the ruleset to fit them to the special needs for hosting an osu!mania World Cup, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2014#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/MWC_2014.png)

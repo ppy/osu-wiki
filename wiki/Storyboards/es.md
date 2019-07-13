@@ -1,5 +1,4 @@
-Storyboards
-===========
+# Storyboards
 
 ***Artículo original aquí***
 
@@ -7,15 +6,13 @@ El **Storyboard** (SB) es un fondo animado, hecho a medida en las resoluciones d
 
 Crear un Storyboard normalmente es difícil y requiere de una considerable cantidad tiempo y experiencia en animación y creación de gráficos.
 
-Creando un storyboard
----------------------
+## Creando un storyboard
 
 El Editor de Storyboards (SBE, por sus siglas en inglés) está localizado en la pestaña que dice "Design" (o presionando el atajo del teclado F2). Fundamentalmente, el SBE ofrece a los jugadores una forma fácil para controlar movimientos simples de los elementos, pero es normalmente considerado como torpe e inutilizable para cualquier cosa más allá de lo básico de un storyboard. Si se quisiera crear un storyboard de pantalla panorámica, habría que activar la opción "Widescreen Support" en el "Song Setup Dialog".
 
 Jugadores más hábiles en la creación de storyboards normalmente usan el "backend code" creado por el SBE, titulado Storyboard Scripting (SBS), pues les permite más control.
 
-Storyboards Completos
----------------------
+## Storyboards Completos
 
 Gracias a la llegada del Storyboard Editor, la lista completa de Beatmaps Rankeados con storyboards es [bastante larga](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1), por lo tanto esta página solo alista Beatmaps que tienen un storyboard "completo". Si quieres ver más, ve a [la lista completa.](/wiki/Storyboards/Maps)
 

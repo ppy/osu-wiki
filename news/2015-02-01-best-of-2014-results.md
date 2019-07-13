@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of 2014 - Results"
-permalink: http://osunews.tumblr.com/post/109804193683/best-of-2014-results
 date: 2015-02-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/109804193683/best-of-2014-results
 ---
+
 We compiled the results for the Best of 2014 votings for you and want to share **[the results](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)** with everyone.
 
 Similiar to last year, players were only able to vote for beatmaps they have actually played. With a limit breaking amount of votes, we would like to thank everyone for placing their votes on the last year's beatmaps. We had a total of 226,551 votes by 32,513 users!

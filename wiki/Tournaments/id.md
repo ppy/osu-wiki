@@ -1,10 +1,8 @@
-Turnamen
-===============
+# Turnamen
 
 Bagian ini diperuntukkan untuk Turnamen osu!. Turnamen memiliki forum khusus yang dapat Anda temukan [melewati tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Turnamen Resmi
---------------------------------------------------
+## Turnamen Resmi
 
 Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
 
@@ -63,8 +61,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia | ![][flag_CN] Cina |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] Korea Selatan | ![][flag_US] Amerika Serikat | ![][flag_BR] Brasil |
 
-Komunitas
------------
+## Komunitas
 
 Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
@@ -136,7 +133,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 
-### ![](/wiki/shared/mode/taiko.png) Asian Taiko Showdown
+### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
@@ -282,8 +279,13 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)(osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973)(osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811)(osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604)(osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031)(osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218)(osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623)(osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522)(osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239)(osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622)(osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542)(osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293)(osu!mania) |
 
-Lihat juga
-----------
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+
+| Nama | Tanggal | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
+| --- | --- | --- | --- | --- |
+| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+
+## Lihat juga
 
 - [Kriteria penyusunan artikel turnamen](/wiki/Tournaments/Template)
 - [Daftar negara yang berpartisipasi dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)

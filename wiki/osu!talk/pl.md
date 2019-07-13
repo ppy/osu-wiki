@@ -1,17 +1,14 @@
-osu!talk
-=================
+# osu!talk
 
 ![osu!talk logo](osu!talk.jpg "osu!talk logo")
 
-Wprowadzenie
----------------
+## Wprowadzenie
 
 Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
 Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
 **osu!talk** to seria podcastowa prowadzona przez [ztrota](https://osu.ppy.sh/users/ztrot) i [deadbeata](https://osu.ppy.sh/users/deadbeat). Seria składa się głównie z wywiadów z osobami ze społeczności osu!. Jednakże, czasami dyskutujemy w większej grupie o rzeczach dziejących się w społeczności osu! (są to np. zmiany w załodze czy długotrwałe błędy takie jak przesadzone mapowanie). Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć w trakcie sesji na żywo i zadawać pytania podczas bloku pytań i odpowiedzi każdego odcinka. Odcinki nie są nigdzie strumieniowane/nadawane, ponieważ staramy się zachęcić graczy, by dołączali i sami brali w nich udział.
 
-Odcinki
-----------
+## Odcinki
 
 | Odc.  | Osoba udzielająca wywiadu                                | Funkcja                                          | [Odnośnik]                                                        |
 |-------|----------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|
@@ -59,8 +56,7 @@ Odcinki
 | #40   | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                                     | [Odnośnik](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
-Dyskusje
----------
+## Dyskusje
 
 | Odc. | Temat                                        | Uczestnicy                                                                                                                                                                                                                  | [Odnośnik]                                        |
 |------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -79,8 +75,7 @@ Dyskusje
 
 
 
-Skróty meczów Mistrzostw Świata
--------------------------------
+## Skróty meczów Mistrzostw Świata
 
 ### Mistrzostwa Świata w Taiko 2015
 
@@ -102,8 +97,7 @@ Skróty meczów Mistrzostw Świata
 | Półfinały    | deadbeat, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
 
 
-Odcinki specjalne
-------------------
+## Odcinki specjalne
 
 | Odc. | Wydarzenia              | Uczestnicy                                                                                                                                                               | [Odnośnik]                                        |
 |------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|

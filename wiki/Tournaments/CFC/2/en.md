@@ -3,6 +3,7 @@ tags:
 - CFC 2
 - CFC2
 ---
+
 # Catch French Cup 2
 
 ![CFC 2 Logo](img/logo.png)

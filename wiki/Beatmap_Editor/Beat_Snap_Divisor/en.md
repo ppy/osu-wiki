@@ -1,5 +1,4 @@
-Beat Snap Divisor
-==================
+# Beat Snap Divisor
 
 The Beat Snap Divisor is used to limit where notes can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the notes, that is, more notes can be placed in the same measure.
 
@@ -56,8 +55,7 @@ The 1/3 and 1/6 are special because it means your BPM is divisible by three, but
 
 Holding down the `Alt` button over the slider changes it to the [distance spacing](/wiki/Beatmap_Editor/Distance_Snap) slider
 
-osu!mania
------
+## osu!mania
 
 Double white line: Measure
 

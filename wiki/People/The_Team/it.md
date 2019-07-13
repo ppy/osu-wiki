@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-Il Team
-==========
+# Il Team
 
-Creatore
-----------------------
+## Creatore
 
 | Nome | Descrizione |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Leader del progetto |
 
-Attivi
-----------------------
+## Attivi
 
 | Nome | Descrizione |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ Attivi
 | [ztrot](https://osu.ppy.sh/users/6347) | Professore osu!academy, Desing Media/personaggi |
 | [Zallius](https://osu.ppy.sh/users/55) | Specie in via di estinzione |
 
-Inattivi
-----------------------
+## Inattivi
 
 | Nome | Descrizione |
 | ---- | ----------- |
@@ -46,8 +42,7 @@ Inattivi
 | [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Grande contributo alle FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) |Team sviluppatori di osu!, Sviluppatore della modalità osu!mania |
 
-Gruppi Utente
-----------------------
+## Gruppi Utente
 
 | Nome | Descrizione |
 | ---- | ----------- |

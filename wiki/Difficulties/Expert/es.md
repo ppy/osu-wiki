@@ -1,5 +1,4 @@
-Expert
-===================
+# Expert
 
 Como manera de impulsar y extender los límites del *beatmapping*, la dificultad Expert fue creada para ser más allá de una [Insane](/wiki/Difficulties/osu!/Insane).
 
@@ -11,8 +10,7 @@ Característicamente, las dificultades Expert son mapas difíciles que presentan
 
 Un mapa recibe el icono de Expert cuando su dificultad llega a más de 5,25 estrellas.
 
-Settings
---------
+## Settings
 
 *Nota: esto es solo una ugerencia general. Los ajustes de la dificultad variarán dependiendo de la canción propia y el propio estilo del mapper.*
 

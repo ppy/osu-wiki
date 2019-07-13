@@ -1,11 +1,11 @@
 ---
 outdated: true
 ---
+
 [false]: /wiki/shared/false.png "No"
 [true]: /wiki/shared/true.png "Yes"
 
-Quality Assurance Team
-=====================================
+# Quality Assurance Team
 
 El **Quality Assurance Team**, más comúnmente referido como QAT, son los llamados judictadores de control de calidad quienes checan los mapas recientemente calificados por su calidad y jugabilidad, estos mapas son retraidos de su estado de calificación con un aviso de descalificación en caso de ser necesario. Ellos forman el baluarte de control estándar y hacen cumplir la expectativa básica de calidad para todos los mapas que entran en el proceso de clasificación.
 
@@ -13,8 +13,7 @@ Los miembros del QAT serán sometidos a estrictas normas de actividad, sus roles
 
 Los miembros de este equipo serán promovidos del [BN](/wiki/People/Beatmap_Nomination_Group), siempre y cuando acepten el rol ofrecido. Los miembros del QAT tienen un nombre rojo en el chat del juego y en el foro, mientras que los BN ya no lo tienen.
 
-Miembros del Equipo
--------------------
+## Miembros del Equipo
 
 [Link](https://osu.ppy.sh/groups/7)
 

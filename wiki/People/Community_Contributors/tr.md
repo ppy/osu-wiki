@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Topluluk İştirakçıları
-======================
+
+# Topluluk İştirakçıları
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 

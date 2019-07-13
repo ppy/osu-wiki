@@ -3,6 +3,7 @@ tags:
 - CMT 4K 2018
 - CMT4K 2018
 ---
+
 # Chinese osu!mania 4K Tournament 2018
 
 ![CMT 4K 2018 Logo](img/logo.jpg)

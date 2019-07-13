@@ -1,6 +1,6 @@
 # osu!taiko
 
-The **osu!taiko Ranking Criteria** are rules and guidelines that apply to the creation of osu!taiko-specific difficulties. In order to get an osu!taiko-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be violated under exceptional circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as of why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+The **osu!taiko Ranking Criteria** are rules and guidelines that apply to the creation of osu!taiko-specific difficulties. In order to get an osu!taiko-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
 These rules and guidelines have been discussed in the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). New ones may be suggested in that forum and this page will be updated once discussions reach an agreement.
 
@@ -55,7 +55,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 
 #### Guidelines
 
-Guidelines may be violated under **exceptional** circumstances. These exceptional circumstances must be warranted by an exhaustive explanation as to why the guideline has been violated and why not violating it will interfere with the overall quality of the creation.
+Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
 - **Avoid covering essential parts of your background with the taiko playfield.** If this happens, consider altering the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.

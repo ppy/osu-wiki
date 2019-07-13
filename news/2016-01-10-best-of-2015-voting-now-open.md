@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of 2015 Voting Now Open!"
-permalink: http://osunews.tumblr.com/post/137019258158/best-of-2015-voting-now-open
 date: 2016-01-10 15:35:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/137019258158/best-of-2015-voting-now-open
 ---
+
 With 2015 finally over and the new year well under way, it's time to take a moment to nominate your favorite maps from last year - from every mode!
 
 For the first time ever in osu! history, the yearly "Best of" voting is now **fully mode-based**, meaning that you can vote for your favorite maps in all of the modes you play, instead of just standard!

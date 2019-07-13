@@ -12,11 +12,11 @@ If you haven't managed to submit or finish your entries for [Mapping With Reward
 
 The deadline for this contest was hit on the **31st December 2017** and the turnout for this contest was as follows:
 - **Fractal Dreamers - Fortuna Redux**
-	- 2 valid entries; 1 osu!, 1 osu!taiko
+  - 2 valid entries; 1 osu!, 1 osu!taiko
 - **Loki - A New King Is Born**
-	- 6 valid entries; 1 osu!, 1 osu!taiko, 3 osu!mania, 1 osu!catch
+  - 6 valid entries; 1 osu!, 1 osu!taiko, 3 osu!mania, 1 osu!catch
 - **\*namirin - closing eyes**
-	- 5 valid entries; 3 osu!, 2 osu!taiko
+  - 5 valid entries; 3 osu!, 2 osu!taiko
 
 We'll be extending deadline of the contest to the **1st May 2018 00:00 UTC+0** to allow for more people to participate.
 

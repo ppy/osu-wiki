@@ -2,6 +2,7 @@
 tags:
 - MXB
 ---
+
 # Novice Mania Cup 3rd
 
 ![MXB 3rd Logo](img/logo.jpg)
@@ -19,7 +20,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 | Quarterfinals | 2019-05-18/2019-05-19 |
 | Semifinals | 2019-05-25/2019-05-26 |
 | Finals - Week 1 | 2019-06-01/2019-06-02 |
-| Finals - Week 2 | 2019-06-08/2019-06-09 |
+| Finals - Week 2 | 2019-06-15/2019-06-16 |
 
 ## Prizes
 
@@ -51,6 +52,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
 
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+
 ## Participants
 
 |  |  |  |  |
@@ -59,7 +66,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
 | [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
 | [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
+| [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
 | [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
 
@@ -70,9 +77,32 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
-| D | [xiao ba] | Star0v0 | RW233 | amxmodx |
+| D | [xiao ba] | Star0v0 | RW233 | A M D |
 
 ## Mappools
+
+### Finals
+
+**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w) (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
+
+- FreeMod
+  - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
+  - [LeaF - Calamity Fortune \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
+  - [Camellia - K.Y.A.F.A. \[DomaUMR0's Extra\]](https://osu.ppy.sh/beatmapsets/468440#mania/1007635)
+  - [DragonForce - Symphony of the Night \[Melody of the Darkne\]](https://osu.ppy.sh/beatmapsets/478042#mania/1095862)
+  - [Morimori Atsushi - PUPA \[Metamorphosis\]](https://osu.ppy.sh/beatmapsets/492056#mania/1048321)
+  - [chunbaiP - Akari \[SC\]](https://osu.ppy.sh/beatmapsets/550095#mania/1165111)
+  - [penoreri - Everlasting Message \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/628672#mania/1325361)
+  - [Imperial Circus Dead Decadence - Danzai no Homura to Koibito Tachi no Rondo \[Shutsugen\]](https://osu.ppy.sh/beatmapsets/654588#mania/1387496)
+  - [stereoberry - ametsuchi \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
+  - [Yooh - Knock The Gate (short Ver.) \[Extra [Fantastic SV]\]](https://osu.ppy.sh/beatmapsets/797589#mania/1675081)
+  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+  - [DJ SHARPNEL - BLUE NOAH 2006 \[2010\]](https://osu.ppy.sh/beatmapsets/915929#mania/1912937)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
+  - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
+- Tiebreaker
+  - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
+
 
 ### Semifinals
 
@@ -92,7 +122,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [uma - Imaginary world \[Insane\]](https://osu.ppy.sh/beatmapsets/890068#mania/1860563)
   - [Sakuzyo - Kronos \[z3\_5724's 4K Enteral Sound\]](https://osu.ppy.sh/beatmapsets/970406#mania/2030997)
 - Tiebreaker
-  - [Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)
+  - **[Camellia - Tornado \[Disaster\]](https://osu.ppy.sh/beatmapsets/965851#mania/2021759)**
 
 ### Quarterfinals
 
@@ -112,7 +142,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [NoKANY - Floating Metropolis-Living City#E6BBAD- \[Another\]](https://osu.ppy.sh/beatmapsets/868435#mania/1818942)
   - [40mP - Junjou Skirt \[1\]](https://osu.ppy.sh/beatmapsets/912583#mania/1906356)
 - Tiebreaker
-  - [gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)
+  - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
 ### Group Stage
 
@@ -130,7 +160,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [Zekk - Calling \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
   - [feat.MeAqua(ver.DECO27+Hatsune Miku) - Ai Kotoba III \[MeAqua\]](https://osu.ppy.sh/beatmapsets/951443#mania/1987026)
 - Tiebreaker
-  - [u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)
+  - **[u's - No brand girls \[Maximum Live!\]](https://osu.ppy.sh/beatmapsets/207612#mania/515574)**
 
 ### Qualification Stage
 
@@ -144,11 +174,36 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Match Results
 
+### Finals - Week 2
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 0 | **1** | **shizehao** |
+| **A M D** | **6** | 1 | shizehao |
+
+### Finals - Week 1
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 1 | **6** | **A M D** |
+| **shizehao** | **6** | 4 | 1ess\_\_ |
+| **HerrySun** | **1** | 0 | s\_w\_w |
+| **shizehao** | **6** | 4 | HerrySun |
+
+### Semifinals
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| HerrySun | 0 | **5** | **Yutto007** |
+| shizehao | 1 | **5** | **A M D** |
+| **1ess\_\_** | **5** | 1 | \[xiao ba\] |
+| KirigayaSnow | 0 | **1** | **s\_w\_w** |
+
 ### Quarterfinals
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
-| s\_w\_w | 1 | **5** | **amxmodx** |
+| s\_w\_w | 1 | **5** | **A M D** |
 | 1ess\_\_ | 4 | **5** | **HerrySun** |
 | **Yutto007** | **1** | 0 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **shizehao** |
@@ -163,7 +218,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 |  | 1 | 0 | **5** | **9** |
 | C | bouquetww | a794151336 | **s\_w\_w** | **Yutto007** |
 |  | 4 | 2 | **9** | **9** |
-| D | **\[xiao ba\]** | Star0v0 | RW233 | **amxmodx** |
+| D | **\[xiao ba\]** | Star0v0 | RW233 | **A M D** |
 |  | **7** | 1 | 4 | **12** |
 
 ### Qualification Stage

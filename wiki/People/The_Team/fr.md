@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-Le staff d'osu!
-=====================
+# Le staff d'osu!
 
-Fondateur
-----------------------
+## Fondateur
 
 | Nom | Description |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Création d'osu! sur PC |
 
-Membres actifs
-----------------------
+## Membres actifs
 
 | Nom | Description |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ Membres actifs
 | [ztrot](https://osu.ppy.sh/users/6347) | Professeur de osu!academy, Conception media/personnage |
 | [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
 
-Inactifs
-----------------------
+## Inactifs
 
 | Nom | Description |
 | ---- | ----------- |
@@ -46,8 +42,7 @@ Inactifs
 | [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Importantes contributions à la FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, Développaur d'osu!mania |
 
-User Groups
-----------------------
+## User Groups
 
 | Nom | Description |
 | ---- | ----------- |

@@ -1,8 +1,6 @@
-Beat Snap Divisor
-==============================
+# Beat Snap Divisor
 
-osu!, osu!taiko und osu!catch
-------------------------------
+## osu!, osu!taiko und osu!catch
 
 Der Beat Snap Divisor wird benutzt, um die Positionen, auf denen Noten gelegt werden können, zu limitieren. Um die Zählzeit zu erhöhen, bewegen Sie einfach den Balken nach rechts.
 
@@ -56,8 +54,7 @@ Jede dieser Einstellungen benutzt für die Ticks in der [Timeline](/wiki/Beatmap
 
 Halten Sie die `Alt` Taste gedrückt und drehen Sie am Mausrad, um den [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) zu verändern.
 
-osu!mania
----------
+## osu!mania
 
 Doppelte weiße Linie: Grundschlag
 

@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Contributeurs
-=================
+
+# Contributeurs
 
 ![Badge du contributeur](/wiki/shared/contributor.jpg "Badge du contributeur")
 

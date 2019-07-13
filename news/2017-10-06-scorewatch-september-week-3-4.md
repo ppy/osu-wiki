@@ -28,9 +28,7 @@ Following the path of [ExGon](https://osu.ppy.sh/users/214187), [Motion](https:/
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iWp7og8_A2g" frameborder="0" allowfullscreen></iframe></br>
 
-
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 [Bikko](https://osu.ppy.sh/users/246186) has not logged in for about a year now, but his scores are still magnificent till this day, as we showcase his amazing [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmaps/215238?m=0) HDHR SS, giving him 442pp!
 
@@ -38,9 +36,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VEeRGAy4E2M" frameborder="0" allowfullscreen></iframe></br>
 
-
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [Aireu](https://osu.ppy.sh/users/1650010) has pulled off the incredible! He became the 2nd person to take a HR FC on [Minazuki Airi with Atsushi - Daisuki, Evolution](https://osu.ppy.sh/beatmaps/1289927?m=0), taking the 2nd spot on the leaderboards with a 98.43% score to earn 680pp! Pretty insane for someone that was unheard of months ago!
 
@@ -48,13 +44,11 @@ NOTABLE MENTIONS
 
 [osu player84](https://osu.ppy.sh/users/2562987) is climbing faster than ever, setting the first ever HDDT SS on [Agnete Kjolsrud - Get Jinxed](https://osu.ppy.sh/beatmaps/794670) to earn 740pp! He has been on fire ever since and has climbed to 6th in the global rankings!
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 They are two former number ones! [Rafis](https://osu.ppy.sh/users/2558286) takes on [firebat92](https://osu.ppy.sh/users/1777162) on [xi - Ascension to Heaven](https://osu.ppy.sh/beatmaps/807074).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tdlDhJhNUcs" frameborder="0" allowfullscreen></iframe></br>
-
 
 Interested in having your say on what makes it into the weekly Scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

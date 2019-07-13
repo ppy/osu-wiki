@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-Ranking Criteria
-=================
+
+# Ranking Criteria
 
 这里会列出[官方论坛](https://osu.ppy.sh/community/forums/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
 
@@ -10,8 +10,7 @@ Ranking Criteria
 
 _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。_
 
-术语
---------
+## 术语
 
 ### 一般术语
 

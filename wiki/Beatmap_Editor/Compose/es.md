@@ -1,5 +1,4 @@
-Componer
-==========
+# Componer
 
 ![Editor de composición para osu! en modo ventana](img/Compose.jpg "Editor de composición para osu! en modo ventana")
 
@@ -9,8 +8,7 @@ Componer
 
 Debido a las diferentes necesidades en el estilo de mapeo (osu! Es muy flexible, permitiendo mucho espacio para la creatividad mientras osu!mania está restringido a la clave seleccionada, exigiendo una precisión extrema para evocar los sonidos clave armónicamente), al editor de osu! y al editor osu!mania-only se les da su propia sección de características. Puedes acceder fácilmente al editor de osu!mania estableciendo su dificultad en osu!mania-only.
 
-Caracteristicas (osu!)
------------------
+## Caracteristicas (osu!)
 
 Para una guía de novatos: [Beatmapping](/wiki/Beatmapping).
 
@@ -103,7 +101,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 | ------------------------------------ | ----- | ----------- |
 | Sampleset | Auto, Normal, Soft, Drum | Esto ignora la configuración del Sampleset de la sección de tiempo, y agrega la configuración seleccionada... Ej. Punto de sincronización con **suave 77%**, Mientras este conjunto de samples se establece en **Drum** y tiene **Clap** en las notas, se reproducirá por defecto drum-hitnormal 77% + drum-hitclap 77% en el golpe |
 | Adiciones | Auto, Normal, Soft, Drum | Las adiciones de sonidos de golpe significan agregar Clap, Finish y Whistle con el conjunto SELECCIONADO... Ej. Sampleset **Normal**, Punto de tiempo **Soft 77%**, mientras que Adiciones está configurado en **Drum** y tiene **Clap** en las notas, resultará de normal-hitnormal 77% + drum-hitclap 77% en el golpe |
-| Seleccionar (`1`) | **Clic izquierdo/arrastre:** Selecciona/Ajusta la ubicación de las notas/puntos de controles deslizantes. **Clic derecho:** Elimina las notas/controles deslizantes. **`Ctrl` + Click:** Selección múltiple.	| Selecciona y modifica las notas existentes. |
+| Seleccionar (`1`) | **Clic izquierdo/arrastre:** Selecciona/Ajusta la ubicación de las notas/puntos de controles deslizantes. **Clic derecho:** Elimina las notas/controles deslizantes. **`Ctrl` + Click:** Selección múltiple. | Selecciona y modifica las notas existentes. |
 | Circulo (`2`) | **Clic izquierdo/derecho:** Agrega/Elimina el Círculo de Golpeo. | Círculo de Golpeo. |
 | Deslizador (`3`) | **Clic izquierdo/derecho:** Empieza/Termina un control deslizante. Agrega/Elimina puntos de controles deslizantes (cuadrado blanco). **Clic izquierdo x2:** Nueva sección de curva(cuadrado rojo). | Control deslizante. |
 | Ruleta (`4`) | **Clic izquierdo/derecho:** Inicia/Termina la ruleta en la marca de tiempo actual. | Ruleta. Asegúrate de que Auto pueda al menos obtener 2.000 Bonus por Ruleta (para evitar la infame ruleta spam/ruleta ninja ). |
@@ -150,9 +148,9 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 
 | Color | Descripción |
 | ------ | ----------- |
-| Blanco brillante largo	| Sección de prueba actual |
+| Blanco brillante largo | Sección de prueba actual |
 | Amarillo largo | Punto de vista previa |
-| Amarillo arriba	| Inicio del tiempo de drenaje |
+| Amarillo arriba | Inicio del tiempo de drenaje |
 | Verde arriba | Puntos heredados. (Ver [Configuración de sincronización](/wiki/Beatmap_Editor/Timing)) |
 | Rojo arriba | Marcas de tiempo. (Ver configuración de tiempo) |
 | Azul abajo | Marcador |
@@ -171,12 +169,11 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 | `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
 | `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
 | `Ctrl` + `Right` Flecha | Siguiente marcador. |
-| `Ctrl` + `Left` Flecha	| Marcador anterior. |
+| `Ctrl` + `Left` Flecha | Marcador anterior. |
 
 **Abajo a la derecha** se puede ajustar la **Tasa de reproducción** en **valores por cuartos**
 
-Características (osu!mania)
------------------------
+## Características (osu!mania)
 
 (La línea de tiempo superior de objetos golpeables no tiene importancia. Por favor ignórala.) Para una guía simple: [Basicos](https://osu.ppy.sh/community/forums/topics/118868) [Mapping & Sonido de notas](https://osu.ppy.sh/community/forums/topics/139139)
 
@@ -207,7 +204,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 | ------------------------------------ | ----- | ----------- |
 | Conjunto de muestra | Auto, Normal, So, Drum | Cambia el Sampleset ignorando el actual en la sección de tiempo. Ej: Temporización **Drum 66%**, mientras que este conjunto de samples es **Soft**, reproducirá todo el sonido **Soft** relacionado en las notas como clap, normal, finish, whistle con 66% de volumen. |
 | Adiciones | Auto, Normal, Soft, Drum | Básicamente lo mismo de arriba, PERO la configuración de Adiciones sobrescribe la configuración del conjunto de muestras. Ej: Temporización **Drum 55%**, conjunto de muestras **Soft**, mientras que estas Adiciones es **Normal**, reproducirá todo el sonido **Normal** relacionado en las notas como clap, normal, finish, whistle con 55% de volumen. |
-| Seleccionar (`1`) | **Clic izquierdo/ arrastrar:** Mueve la marda de tiempo y ubicación de una nota. **Clic derecho:** Elimina la nota. **`Ctrl` + Clic:** Selección múltiple.	| Selecciona y modifica las notas existentes. |
+| Seleccionar (`1`) | **Clic izquierdo/ arrastrar:** Mueve la marda de tiempo y ubicación de una nota. **Clic derecho:** Elimina la nota. **`Ctrl` + Clic:** Selección múltiple. | Selecciona y modifica las notas existentes. |
 | Circulo (`2`) | **Clic Izquierdo/Derecho** Coloca/Elimina la nota. | Agrega una nota en la columna actual en función de la posición del mouse. |
 | Mantener (`3`) | **Clic izquierdo (Mantener):** Coloca una nota sostenida y ajusta su duración. **Sotarla:** Establece longitud de retención | Agrega un nota de sostenida en la columna actual según la posición del mouse. |
 
@@ -307,7 +304,7 @@ Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota
 | `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
 | `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
 | `Ctrl` + `Right` Flecha | Siguiente marcador |
-| `Ctrl` + `Left` Flecha	| Marcador anterior. |
+| `Ctrl` + `Left` Flecha | Marcador anterior. |
 
 **Abajo a la derecha** se puede ajustar la **Tasa de reproducción** en **valores por cuartos**
 

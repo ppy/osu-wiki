@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping Analysis #1 - Flow"
-permalink: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
 date: 2014-09-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
 ---
+
 Hello everyone, I'm Shiro, and here is the first post of a map analysis series in which I will go over common mistakes I've found through my modding history, explaining why they are mistakes and how to fix them.
 
 Keep in mind that flow is subjective, and that things defined as "broken" here might work under certain circumstances. This article assumes that the flow tries to be smooth in a neutral setup.

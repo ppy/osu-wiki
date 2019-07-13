@@ -14,9 +14,9 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ![][flag_RU] [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
-| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836)	| BAT |
+| ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | GMT |
-| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902)	| BAT |
+| ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ![][flag_FI] [Asphyxia](https://osu.ppy.sh/users/1715720) | QAT |
 | ![][flag_CN] [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | GMT |
@@ -191,6 +191,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del Chat |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |

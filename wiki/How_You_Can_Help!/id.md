@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Bagaimana Anda dapat membantu!
 
 _Sebelumnya ini adalah kiriman yang [peppy](https://osu.ppy.sh/users/2 "peppy") buat beberapa waktu lalu dan diminta untuk menjadikannya sebuah artikel di sini. Anda dapat melihat kiriman aslinya [di sini](https://osu.ppy.sh/community/forums/topics/83155)._
@@ -46,7 +50,7 @@ Meskipun kami telah mengatur tim yang menangani proses persetujuan beatmap, tida
 
 ### Dimulai dari mana:
 
--   Lihat (atau cari) daftar [Beatmap berstatus Pending](https://osu.ppy.sh/beatmapsets?m=-1&s=4) dengan artis/lagu yang Anda sukai (atau pilih secara acak).
+-   Lihat (atau cari) daftar [Beatmap berstatus Pending](https://osu.ppy.sh/beatmapsets?s=pending) dengan artis/lagu yang Anda sukai (atau pilih secara acak).
 -   Mainkan beatmapnya dan tinggalkan umpan balik dalam kiriman beatmap yang Anda mainkan.
 -   Baca [Panduan Modding](/wiki/Modding "Modding") dan pelajari dasar-dasar modding yang lebih teknis.
 -   Baca [Kriteria Ranking](/wiki/Ranking_Criteria "Kriteria Ranking") dan kenali apa yang membuat sebuah beatmap dapat berstatus Ranked.

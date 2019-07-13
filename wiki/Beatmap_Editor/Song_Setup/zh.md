@@ -2,15 +2,13 @@
 outdated: true
 ---
 
-Song Setup
-====================
+# Song Setup
 
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
 
 ![歌曲设置的位置](img/Song_Setup_nav.jpg "歌曲设置的位置")
 
-基本设定(General)
------------------
+## 基本设定(General)
 
 ### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
 
@@ -57,8 +55,7 @@ Song Setup
 
 再次说明，请确保以上信息（除了难度名）在每个难度中都保持相同。
 
-谱面难度设定(Difficulty)
-------------------------
+## 谱面难度设定(Difficulty)
 
 该选项卡包含谱面的核心设定。每一项都影响谱面的不同属性。
 
@@ -134,8 +131,7 @@ Approach Rate通常缩写为"**AR**"。
 
 这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
 
-音效(Audio)
------------
+## 音效(Audio)
 
 ![Audio section](img/SS_Audio.jpg "Audio section")
 
@@ -157,8 +153,7 @@ Approach Rate通常缩写为"**AR**"。
 
 点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说Whistle就是Normal音效和Whistle音效的叠加(就是同时播放)
 
-谱面相关颜色设定(Colors)
--------------------------
+## 谱面相关颜色设定(Colors)
 
 ![Colors section](img/SS_Colors.jpg "Colors section")
 
@@ -170,8 +165,7 @@ Approach Rate通常缩写为"**AR**"。
 
 这里可以给谱面分配一个背景色。这里一直很有争议，因为一个没有背景图像(Background)的谱面是不能被rank的。但是如果有了背景图像，这个设定的效果又会被背景图像覆盖掉，除非你使用storyboard切换背景图像是否可见。
 
-外观设计设定(Design)
---------------------
+## 外观设计设定(Design)
 
 ![Design section](img/SS_Storyboarding.jpg "Design section")
 
@@ -209,8 +203,7 @@ Approach Rate通常缩写为"**AR**"。
 
 ![点击打开图像](img/SS_Skin_eg.jpg)
 
-高级设定(Advanced)
-------------------
+## 高级设定(Advanced)
 
 ![Advanced section](img/SS_Advanced.jpg "Advanced section")
 

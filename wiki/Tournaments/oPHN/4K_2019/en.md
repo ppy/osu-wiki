@@ -3,6 +3,7 @@ tags:
 - PHN4K2019
 - PHN4K 2019
 ---
+
 # osu! Philippines Nationals 2019 (osu!mania 4K)
 
 ![PHN4K2019 Logo](img/logo.png)
@@ -38,33 +39,248 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | Map Selectors | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
 | Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentators | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [x y a r o](https://osu.ppy.sh/users/7626994)  |
+| Commentators | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913) |
 | Graphic Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
-- [Livestream](https://www.twitch.tv/osuliveph)
+- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
+- [Twitch](https://www.twitch.tv/osuliveph)
+- [Challonge](https://challonge.com/oPHN4K19)
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
 
 ---
 
 ## Participants
 
-*Qualified participants will be added in this section.*
+| Seed | Players |
+| :-: | :-- |
+| Top (#1 - #4) | [- Kura -](https://osu.ppy.sh/users/11420405), [windrush123](https://osu.ppy.sh/users/9087181), [Silhoueska Elze](https://osu.ppy.sh/users/11517895), [realqarp](https://osu.ppy.sh/users/10374991) |
+| High (#5 - #8) | [Arccat](https://osu.ppy.sh/users/4848294), [Koibenii](https://osu.ppy.sh/users/2471512), [nathan on mania](https://osu.ppy.sh/users/6152404), [Nikana](https://osu.ppy.sh/users/4345491) |
+| Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
+| Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
 
 ---
 
 ## Mappools
 
-*Mappools will be revealed one week in advance of each stage.*
+### Finals Week 1
+
+**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing)**
+
+- FreeMod
+  - [Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]](https://osu.ppy.sh/beatmaps/2083112)
+  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmaps/1551698)
+  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmaps/1978712)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmaps/1850115)
+  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmaps/2083171)
+  - [Two Steps From Hell - Star Sky (Evening) \[Ethereal\]](https://osu.ppy.sh/beatmaps/1699702)
+  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmaps/2058130)
+  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmaps/1859068)
+  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmaps/1365985)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmaps/2082239)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmaps/1313335)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
+  - [sakuzyo - Black Lair (RemFangirl) \[Depths\]](https://osu.ppy.sh/beatmaps/1866053)
+  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmaps/1498464)
+  - [saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]](https://osu.ppy.sh/beatmaps/1992444)
+- Tiebreaker
+  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmaps/1242347)**
+
+### Semifinals
+
+**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
+
+- FreeMod
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmaps/1751934)
+  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmaps/1697322)
+  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmaps/2013908)
+  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmaps/1790119)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmaps/1824765)
+  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmaps/1735528)
+  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmaps/2017618)
+  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmaps/1658712)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmaps/2001931)
+  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmaps/1979200)
+  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmaps/1484691)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
+  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmaps/2074774)
+- Tiebreaker
+  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmaps/1951599)**
+
+### Quarterfinals
+
+**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
+
+- FreeMod
+  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmaps/1190462)
+  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmaps/802114)
+  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmaps/2038639)
+  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmaps/2039384)
+  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmaps/1994717)
+  - [ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]](https://osu.ppy.sh/beatmaps/1678448)
+  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmaps/1514656)
+  - [Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]](https://osu.ppy.sh/beatmaps/2019849)
+  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmaps/1801301)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmaps/1870722)
+  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmaps/1509208)
+  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
+- Tiebreaker
+  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmaps/1779774)**
+
+### Group Stage
+
+**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox)**
+
+- FreeMod
+  - [Lime - Stargazer (Kamikaze) \[Astral\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975568)
+  - [Hyper Potions - Porta Vista (snoverpk) \[Oni (17)\]](https://osu.ppy.sh/beatmapsets/532576#mania/1128494)
+  - [xi - FREEDOM DiVE (tpz Overcute Remix) (Toyohime-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/978669#mania/2048124)
+  - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
+  - [Sabrepulse - Horizon (Remix) (SurfChu85) \[beyond\]](https://osu.ppy.sh/beatmapsets/965952#mania/2022015)
+  - [Pastel\*Palettes - Tenka Toitsu A to Z\* (Raveille) \[L to N\*\]](https://osu.ppy.sh/beatmapsets/969949#mania/2029142)
+  - [SENTIVE - rain drops (ByeForNow) \[see that, the rain is nice, but i don't really like getting wet\]](https://osu.ppy.sh/beatmapsets/970444#mania/2031163)
+  - [Kero Kero Bonito - Flamingo (RemFangirl) \[Indifference\]](https://osu.ppy.sh/beatmapsets/767418#mania/1613146)
+  - [Yamamoto Momiji - Fantastic\*To-ryanse! (short Ver.) (ALEFY) \[ADV\]](https://osu.ppy.sh/beatmapsets/620504#mania/1307892)
+  - [brothel. - timmy. (Nick Wilde) \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
+  - [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Four Keys Scroll Velocity Demonstration Chart\]](https://osu.ppy.sh/beatmapsets/641196#mania/1359715)
+- Tiebreaker
+  - **[Feryquitous - Central Nucleus (tailsdk) \[Pivot Of All Is In The Mind (Edit)\]](https://osu.ppy.sh/beatmapsets/814614#mania/2016711)**
+
+### Play-offs
+
+**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT)**
+
+- FreeMod
+  - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
+  - [Chroma - Sayonara Planet Wars (Asherz007) \[Tails' ADVANCED Lv.11\]](https://osu.ppy.sh/beatmapsets/730558#mania/1543106)
+  - [Io - Lv.0 (Valedict) \[Prelude\]](https://osu.ppy.sh/beatmapsets/470823#mania/1006523)
+  - [Anamanaguchi - Power Supply (Halogen-) \[Charge\]](https://osu.ppy.sh/beatmapsets/415947#mania/901153)
+  - [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (MapleSyrup-) \[Even if I chase after you forever, time passes in an instant\]](https://osu.ppy.sh/beatmapsets/974629#mania/2040062)
+  - [himmel feat. YooSanHyakurei - Maple Wind (RemFangirl) \[Solitude (non-SV)\]](https://osu.ppy.sh/beatmapsets/705052#mania/1611381)
+  - [KOTOKO - Princess Bride! (\_underjoy) \[Hard\]](https://osu.ppy.sh/beatmapsets/932541#mania/1947882)
+  - [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
+  - [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/beatmapsets/151453#mania/374172)
+- Tiebreaker
+  - **[Yuchimaru - Bousou Lolita Holic (LeiN-) \[PiraLeiN\]](https://osu.ppy.sh/beatmapsets/175020#mania/422292)**
+
+### Qualifiers
+
+**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3)**
+
+- FreeMod
+  - [hirota - idea (Lenfried-) \[Afterthought\]](https://osu.ppy.sh/beatmapsets/977516#mania/2045910)
+  - [Tennyson - No Answer (ByeForNow) \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
+  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
+  - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
 ---
 
 ## Match Results
 
-*All match results will be added in this section.*
+### Semifinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml)
+
+| Saturday, 2019-06-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **windrush123** | **6** | 3 | nathan on mania | [#1](https://osu.ppy.sh/community/matches/52986554) |
+
+| Saturday, 2019-06-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Silhoueska Elze** | **6** | 1 | Swarmsii | [#1](https://osu.ppy.sh/community/matches/53004365) |
+| **Koibenii** | **6** | 5 | - Kura - | [#1](https://osu.ppy.sh/community/matches/53005937) |
+| **Arccat** | **6** | 3 | realqarp | [#1](https://osu.ppy.sh/community/matches/53008183) |
+
+### Quarterfinals
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
+
+| Saturday, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **- Kura -** | **6** | 5 | realqarp | [#1](https://osu.ppy.sh/community/matches/52819151) |
+
+| Sunday, 2019-06-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Koibenii** | **6** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52840309) |
+| nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
+| windrush123 | 2 | **6** | **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/52846932) |
+
+### Group Stage
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
+
+| Thursday, 2019-06-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Swarmsii** | **5** | 2 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52582100) |
+
+| Friday, 2019-06-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **ChristsuGaming** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52606297) |
+| **windrush123** | **5** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52606070) |
+| realqarp | 3 | **5** | **nathan on mania** | [#1](https://osu.ppy.sh/community/matches/52606332) |
+| **- Kura -** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52608617) |
+
+| Saturday, 2019-06-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Arccat** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52630036) |
+| **windrush123** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52632922) |
+| **Swarmsii** | **5** | 0 | ChristsuGaming | [#1](https://osu.ppy.sh/community/matches/52634067) |
+| **Arccat** | **5** | 3 | Shiyui- | [#1](https://osu.ppy.sh/community/matches/52635037) |
+| **windrush123** | **5** | 1 | Shiyui- | [#1](https://osu.ppy.sh/community/matches/52636094) |
+| **Silhoueska Elze** | **5** | 0 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52637562) |
+| **realqarp** | **5** | 0 | Lordie09 | [#1](https://osu.ppy.sh/community/matches/52639347) |
+| **Silhoueska Elze** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52638906) |
+| **Shiyui-** | **5** | 1 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52639494) |
+
+| Sunday, 2019-06-16 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Lordie09** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52657820) |
+| **realqarp** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52658913) |
+| **- Kura -** | **5** | 0 | ChristsuGaming | [#1](https://osu.ppy.sh/community/matches/52661325) |
+| **Koibenii** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661333) |
+| **GTXCZE** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661967) |
+| Silhoueska Elze | 2 | **5** | **Koibenii** | [#1](https://osu.ppy.sh/community/matches/52662954) |
+| **- Kura -** | **5** | 0 | Swarmsii | -win by default- |
+| **Koibenii** | **5** | 4 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52664687) |
+| **nathan on mania** | **5** | 0 | Chez | -win by default- |
+| **nathan on mania** | **5** | 0 | Lordie09 | -win by default- |
+
+### Play-offs
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml)
+
+| Friday, 2019-06-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| notapplicable | 0 | **4** | **vincent4399** | -win by default- |
+| **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
+
+| Saturday, 2019-06-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Chez** | **4** | 1 | Batujitsu | [#1](https://osu.ppy.sh/community/matches/52451521) |
+| didgey | 1 | **4** | **Hues** | [#1](https://osu.ppy.sh/community/matches/52451866) |
+| **Loli-Sensei69** | **4** | 3 | Xidorn | [#1](https://osu.ppy.sh/community/matches/52453772) |
+| **Shiyui-** | **4** | 0 | Andrei-- | [#1](https://osu.ppy.sh/community/matches/52454768) |
+| **Koibenii** | **4** | 0 | Loli-Sensei69 | [#1](https://osu.ppy.sh/community/matches/52454841) |
+| **ChristsuGaming** | **4** | 2 | wallwap | [#1](https://osu.ppy.sh/community/matches/52455938) |
+| Neoskiie | 0 | **4** | **Chiaki-chan** | [#1](https://osu.ppy.sh/community/matches/52457281) |
+| **GTXCZE** | **4** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/52458503) |
+
+| Sunday, 2019-06-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Captain Cusheen | 0 | **4** | **PotatoPresser** | -win by default- |
+| **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |
+| Nikana | 0 | **4** | **Chez** | -win by default- |
+| **Swarmsii** | **4** | 0 | pumpiyumpiyummm | [#1](https://osu.ppy.sh/community/matches/52482377) |
+| **nathan on mania** | **4** | 0 | Chiaki-chan | [#1](https://osu.ppy.sh/community/matches/52483191) |
+| **bananacake304** | **4** | 2 | kraken_33 | [#1](https://osu.ppy.sh/community/matches/52484174) |
+
+### Qualifiers
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
 
 ---
 
@@ -108,7 +324,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocols to follow.
   - **1st-4th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
-  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
+  - **5th-8th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 25th to 32nd seed group. Players who win their matches in this stage will advance to the Group Stage.
   - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **25th-32nd seeds**: Players within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a player in this seed group. In particular, their opponent's seed will be `(57 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 5th to 8th seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 

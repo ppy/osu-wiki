@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! Taiko World Cup 2015 - Results"
-permalink: http://osunews.tumblr.com/post/116205500393/osu-taiko-world-cup-2015-results
 date: 2015-04-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116205500393/osu-taiko-world-cup-2015-results
 ---
+
 The osu! Taiko World Cup 2015 has just concluded with a thunderous Grand Final, and a new team has emerged victorious with an absolutely outstanding performance!
 
 ![](/wiki/shared/news/2015-04-12-osu-taiko-world-cup-2015-results/osu!taiko-ranking.png)

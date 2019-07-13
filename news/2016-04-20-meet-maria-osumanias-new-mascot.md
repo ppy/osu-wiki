@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Meet Maria - osu!mania's new mascot!"
-permalink: http://osunews.tumblr.com/post/143103453693/meet-maria-osumanias-new-mascot
 date: 2016-04-20 07:34:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/143103453693/meet-maria-osumanias-new-mascot
 ---
-Refined elegance joins the osu! mascot lineup! Meet Maria, osu!mania's new postergirl!
 
-<!-- more -->
+Refined elegance joins the osu! mascot lineup! Meet Maria, osu!mania's new postergirl!
 
 ![](https://puu.sh/o5Hx4/b0a2b5a1f2.jpg)
 

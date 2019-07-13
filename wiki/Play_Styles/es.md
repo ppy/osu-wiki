@@ -1,4 +1,3 @@
-
 <!-- wikilink -->
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
 

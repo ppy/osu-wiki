@@ -3,6 +3,7 @@ tags:
 - osu!mania LN Tournament
 - o!mLN
 ---
+
 # osu!mania LN Tournament
 
 ![o!mLN Logo](img/logo.png)

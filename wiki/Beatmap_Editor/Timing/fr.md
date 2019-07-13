@@ -1,15 +1,12 @@
-Timing
-===================
+# Timing
 
 Le **timing** d'une [Beatmap](/wiki/Beatmaps) se compose de la définition du décalage du son (« *offset* ») et du nombre de battements par minute (BPM). Le BPM de la musique va en général aussi vite que le son lui-même. Le décalage correspond à la durée entre le nombre de temps entre le début du mp3 et le premier battement du son, c'est-à-dire le début de la musique.
 
 Le fait d'avoir un timing correct permet d'avoir la ligne de timing dans l'[éditeur](/wiki/Beatmap_Editor) aligné avec la musique. Si le timing est incorrect, la ligne de timing ne correspondra pas avec le son. Ainsi, vous ne pourrez pas placer avec précision les objets et il deviendra impossible de mapper correctement la musique.
 
-Trouver le bon timing
----------------------
+## Trouver le bon timing
 
-Sections de timing
-------------------
+## Sections de timing
 
 ![La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.](img/TimingSetup.jpg "La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.")
 

@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Shortcut Key Reference
-=================================
+
+# Shortcut Key Reference
 
 以下是各种模式下可以使用的快捷键：
 
-游戏通用
---------
+## 游戏通用
 
 -   **Shift+F1**: 打开 osu!status （当网络错误时）
 -   **F7**: 切换帧数限制模式
@@ -18,8 +17,7 @@ Shortcut Key Reference
 -   **Insert**: 最小化osu!至通知栏
 -   **↑/↓**: 增大/减小音量
 
-仅限菜单
---------
+## 仅限菜单
 
 -   **F1**: 前一首歌
 -   **F2**: 从开头播放
@@ -30,8 +28,7 @@ Shortcut Key Reference
 -   **Alt-Enter**: 切换全屏模式
 -   **Esc**: 返回上级菜单
 
-主菜单
-------
+## 主菜单
 
 -   **P**: 游戏模式（敲击两次为 osu! 模式歌曲选择）
 -   **P-M**: 游戏模式 （[多人游戏](/wiki/Multi)）
@@ -46,8 +43,7 @@ Shortcut Key Reference
 -   **Q**: 退出
 -   **R**: 随机歌曲
 
-歌曲选择
---------
+## 歌曲选择
 
 -   **F1**: [Mod选择](/wiki/Game_Modifiers)
 -   **F2**: 随机谱面（快速按下两次立即选择随机谱面）
@@ -60,8 +56,7 @@ Shortcut Key Reference
 -   **PageUp/PageDown**: 改变选择（大幅度）
 -   **Enter**: 确认选择
 
-模式选择
---------
+## 模式选择
 
 注意：特殊模式如[Perfect或](/wiki/Game_Modifiers)[Nightcore需要多点击一次来选择](/wiki/Game_Modifiers)。
 
@@ -86,8 +81,7 @@ Shortcut Key Reference
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: [Auto](/wiki/Game_Modifiers)
 
-游戏模式
---------
+## 游戏模式
 
 -   **+/-**: 调整本地延时（按住SHIFT/CTRL更精确调节）
 -   **Esc**: 暂停（在自动模式下退出）
@@ -95,8 +89,7 @@ Shortcut Key Reference
 -   **Tab**: 切换分数显示
 -   **F3/F4**: 调整osu!mania的速度变化
 
-编辑模式
---------
+## 编辑模式
 
 ### 键盘快捷键
 

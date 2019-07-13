@@ -3,6 +3,7 @@ tags:
 - CIC 2018
 - CIC2018
 ---
+
 # Catch the Beat Indonesia Cup 2018
 
 ![Logo CIC 2018](img/logo.jpg)
@@ -67,7 +68,7 @@ tags:
 
 -----------------------
 
-![Podium](img/podium.png)
+![Podium](img/podium.jpg)
 
 -----------------------
 

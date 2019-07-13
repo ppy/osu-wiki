@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! World Cup 2015 - Results"
-permalink: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-results
 date: 2015-12-17 14:07:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-results
 ---
+
 The osu! World Cup 2015 concluded last Sunday with an amazing Grand Final. In an unexpected turn of events, the United States were able to come back from the loser's bracket and secure their first osu! World Cup Title against their final opponent: China.
 
 ![](/wiki/shared/news/2015-12-17-osu-world-cup-2015-results/podium-owc2015.png)
@@ -16,9 +16,7 @@ If you didn't catch it live, we highly recommended you check out the recording o
 <iframe width="760" height="430" src="https://www.youtube.com/embed/JlLTbsG7NQw" frameborder="0" allowfullscreen></iframe>
 
 + Team United States wins $320 for each player ($2,600 in total), a profile badge and the user title "osu! champion!" for 1 year.
-
 + Team China is awarded with $240 for each player ($1,900 in total) and a profile badge!
-
 + Team Poland receives $80 for each player ($640 in total) and a profile badge.
 
 All participants from the top three teams will also receive and [a set of limited edition badges](/wiki/shared/news/2015-12-14-osuweekly-39/PC130098.jpg) and an osu! world cup mug (still in production)!

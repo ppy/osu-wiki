@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "January & February 2014 Ranking Chart"
-permalink: http://osunews.tumblr.com/post/80471375728/january-february-2014-ranking-chart
 date: 2014-03-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/80471375728/january-february-2014-ranking-chart
 ---
+
 Due to an internal change with the way charts are created, the two past charts have had delayed releases. Therefore, we have decided to release two monthly charts at the same time!
 
 The charts have been created by letting the the [CAT](https://osu.ppy.sh/groups/21) and [BAT](https://osu.ppy.sh/groups/7) vote for the most noteworthy maps of each respective month. Due to the delay, both charts will run simultaneously until the 20th of April, 2014. Sorry for the inconvenience.

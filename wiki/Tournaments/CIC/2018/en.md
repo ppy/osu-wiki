@@ -3,6 +3,7 @@ tags:
 - CIC 2018
 - CIC2018
 ---
+
 # Catch the Beat Indonesia Cup 2018
 
 ![CIC 2018 Logo](img/logo.jpg)
@@ -67,7 +68,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 -----------------------
 
-![Podium](img/podium.png)
+![Podium](img/podium.jpg)
 
 -----------------------
 

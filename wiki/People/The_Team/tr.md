@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-Takım
-========
+# Takım
 
-Yaratıcı
--------
+## Yaratıcı
 
 | İsim | Açıklama |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | Proje başı |
 
-Aktif
-------
+## Aktif
 
 | İsim | Açıklama |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ Aktif
 | [ztrot](https://osu.ppy.sh/users/6347) | [osu!akademi](/wiki/Announcements/osu!academy) profesörü, Medya/karakter tasarımı |
 | [Zallius](https://osu.ppy.sh/users/55) | Nesli tükenmekte olan tür |
 
-İnaktif
---------
+## İnaktif
 
 | İsim | Açıklama |
 | ---- | ----------- |
@@ -46,8 +42,7 @@ Aktif
 | [Sinistro](https://osu.ppy.sh/users/5530) | Toplantı notları, SSS'ye büyük katkılar |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştirici takımı, osu!mania geliştiricisi |
 
-Kullanıcı grupları
-----------------------
+## Kullanıcı grupları
 
 | İsim | Açıklama |
 | ---- | ----------- |

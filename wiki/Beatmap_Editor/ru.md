@@ -1,5 +1,4 @@
-Beatmap Editor
-========================
+# Beatmap Editor
 
 ![Главный раздел редактора в режиме окна](Compose/Compose.png "Главный раздел редактора в режиме окна")
 
@@ -10,8 +9,7 @@ Beatmap Editor
 -   [Timing](/wiki/Beatmap_Editor/Timing): Здесь вводится оффсет и [BPM](/wiki/Beatmap_Editor/Timing) песни. Также здесь задаются другие звуки для хитсаундов, их громкость и [киаи тайм](/wiki/Beatmap_Editor/Kiai_Time).
 -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup): Тут вводятся различные прочие опции: название песни и сложности, размер кругов и хп-дрейн, цвета кругов и прочее.
 
-Связанные статьи
-----------------
+## Связанные статьи
 
 -   [Маппинг](/wiki/Beatmapping) (Основы маппинга)
 -   [Шаг временной шкалы](/wiki/Beatmap_Editor/Beat_Snap_Divisor)

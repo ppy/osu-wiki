@@ -9,8 +9,7 @@ In addition to this, there may be some group discussions about different things 
 The podcast series is set up so that anyone is free to join in on the live session and ask questions during the public [Q&A](https://en.wikipedia.org/wiki/Q%26A) part of the episode.
 These aren't live streamed anywhere as we'd rather encourage users to join in and take part themselves.
 
-Episodes
---------
+## Episodes
 
 | EP No. | Interviewees                                                   | Profession                       | Link                                                                |
 |--------|----------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------|
@@ -58,8 +57,7 @@ Episodes
 | 40     | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Link](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
-Discussions
--------------
+## Discussions
 
 | EP No. | Topics                                   | Profession                                                                                                                                                                                                                                                      | Link                                                |
 |--------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -76,8 +74,7 @@ Discussions
 | 11     | Catch the Beat Discussion                | [deadbeat](https://osu.ppy.sh/users/128370), [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), and [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | 12     | osu!idol Discussion                      | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868)                                                                                      | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-Specials
---------
+## Specials
 
 | EP No. | Topics                  | Profession                                                                                                                                                                                             | Link                                                |
 |--------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
