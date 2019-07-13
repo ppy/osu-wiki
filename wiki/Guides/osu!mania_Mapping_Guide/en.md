@@ -1,8 +1,6 @@
-osu!mania Mapping Guide
-=========================
+# osu!mania Mapping Guide
 
-Prologue
----------
+## Prologue
 
 ### What is osu!mania?
 
@@ -46,8 +44,7 @@ Specifics on what snaps should be used for ranking are detailed in the [osu!mani
 
 ![Mania Editor](Mania_Editor.jpg "Mania Editor")
 
-Basics
--------
+## Basics
 
 ### Song Setup
 
@@ -63,9 +60,9 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
 | Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
-| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#beatmapset)<br>You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". <br>If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY". <br>For custom names, refer to the ranking criteria linked above. |
+| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
-| Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.<br> Tags are separated by spaces.|
+| Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces.|
 
 #### Difficulty
 
@@ -73,7 +70,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7**<br>*Note: Only 50 or Misses will drain HP*|
+| HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP*|
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
 | Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
@@ -96,8 +93,8 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Name | Description |
 | ---- | ----------- |
 | Stacking: | This point has no effect for osu!mania so no need to change anything here. |
-| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.<br> **Changing this option while in an existing osu!mania map will overwrite the map.** |
-| Use special Style (N+1 style) for osu!mania: | If you map in a keymode which uses a special key (5K and 8K) you can enable this point. This allows the player to swap the **special column** to their left or right depending on their settings.<br>Known in "BMS" as the "Scratch Column", it is commonly used in 7+1K (8K) osu!mania. Mapping 7+1K is akin to mapping a 7K map, but an extra **special column** is generated for the mapper's discretion. |
+| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.  **Changing this option while in an existing osu!mania map will overwrite the map.** |
+| Use special Style (N+1 style) for osu!mania: | If you map in a keymode which uses a special key (5K and 8K) you can enable this point. This allows the player to swap the **special column** to their left or right depending on their settings. Known in "BMS" as the "Scratch Column", it is commonly used in 7+1K (8K) osu!mania. Mapping 7+1K is akin to mapping a 7K map, but an extra **special column** is generated for the mapper's discretion. |
 
 The point **Colours** is not used in osu!mania so we don't need to change anything there.
 
@@ -323,8 +320,7 @@ You don't even have to select all of this by hand. You can also change the sampl
 
 Hitsounding may take some time but like I already mentioned it's important for the beatmap. Once you get used to it, hitsounding will go really fast!
 
-Advanced Knowledge
--------------------
+## Advanced Knowledge
 
 In this part I would like to explain more details of osu!mania mapping like keysounding, SV changes and pitch relevancy. Also, together with the community I want to explain different mapping styles here. The osu!mania community consists of players from different VSRG's like o2 jam, Stepmania and BMS. All these games have a special mapping style.
 
