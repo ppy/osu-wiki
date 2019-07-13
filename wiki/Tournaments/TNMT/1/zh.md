@@ -44,8 +44,11 @@
 
 ## 链接
 
+- [报名注册](https://www.wjx.cn/jq/42658963.aspx)
 - [Challonge](https://challonge.com/TNMT)
 - [Discord](https://discord.gg/nxWEjpW)
+- [QQ 群](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
+- [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
 - 直播间
   - [官方 Twitch](https://www.twitch.tv/thonkingtourney)
   - [IA daisuki](https://live.bilibili.com/4353181)

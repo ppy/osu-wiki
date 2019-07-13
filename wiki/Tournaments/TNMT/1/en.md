@@ -44,8 +44,11 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 
 ## Links
 
+- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform)
 - [Challonge](https://challonge.com/TNMT)
 - [Discord](https://discord.gg/nxWEjpW)
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
+- [Forum post](https://osu.ppy.sh/community/forums/topics/933542)
 - Livestream
   - [Official Twitch](https://www.twitch.tv/thonkingtourney)
   - [IA daisuki](https://live.bilibili.com/4353181)
