@@ -1,6 +1,3 @@
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
-
 # Quality Assurance Team
 
 The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](/wiki/People/Beatmap_Nominators/#quality-assurance-helpers), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
