@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of July 14th"
-date: 2019-07-11 00:00:00 +0000
+date: 2019-07-14 17:45:00 +0000
 ---
 
 Hey guys. [Project Loved](https://osu.ppy.sh/community/forums/120) here again. It's been a bit of a break but we're here once again.
@@ -41,7 +41,7 @@ Been looking for a good stream map to train your stamina? This is the map for yo
 140 BPM, 8:48 | 7.71★  
 *description written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-With Raikozen getting unbanned, you'll be glad to hear his maps are now available to appear in Loved voting! Starting off with his very popular Uta, it's also one of his more difficult maps sitting at 7.71 stars. The map consists of 8 minutes of huge AR10 jumps and hard spaced streams which makes falling off one of these patterns all that more deadly. However, if that's your type of map, then by all means drop this one a vote!
+With Raikozen returning from a long hiatus, you'll be glad to hear his maps are now available to appear in Loved voting! Starting off with his very popular Uta, it's also one of his more difficult maps sitting at 7.71 stars. The map consists of 8 minutes of huge AR10 jumps and hard spaced streams which makes falling off one of these patterns all that more deadly. However, if that's your type of map, then by all means drop this one a vote!
 
 [![](/wiki/shared/news/2019-07-11-project-loved-week-of-july-14th/osu/3-frozen-one.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -162,8 +162,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 200 BPM, 4:24 | 6.97★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Zyzyx is by no means a new mapper and is mostly known for maps that are relatively low star rating compared to their actual difficulty.   
-This time around the map they created is by one of our featured artists, Helblinde. The map has a bunch of streams, jumps, and a couple of tricky patterns here and there.The song is a banger; what more can you expect from a Zyzyx map?
+Zyzyx is by no means a new mapper and is mostly known for maps that are relatively low star rating compared to their actual difficulty. This time around the map they created is by one of our featured artists, Helblinde. The map has a bunch of streams, jumps, and a couple of tricky patterns here and there. The song is a banger; what more can you expect from a Zyzyx map?
 
 [![](/wiki/shared/news/2019-07-11-project-loved-week-of-july-14th/catch/2-be-there.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -195,16 +194,16 @@ If you've been playing rhythm games for at least a year or two, you'll know who 
 
 Gekido's *Chik Habit* is a medley of fast broken jumpstreams, light minijack usage, difficult 1/6 bursts (315-360 BPM 1/4s) and short 1/8 bursts all compressed into a short 2 and a half minutes. It was also used as a technical qualifier chart that was used in SOFT3 (one of the biggest ever osu!mania tournaments), and it was praised for being a gratifying chart to play through and for having an apposite prudent approach to the song. 
 
-Looking or playing through the chart, it's hard not to see why: Gekido's tactful patterning of the 1/6 bursts make those bursts feel far more intense than they otherwise would, his LN use emphasised certain parts of the melody well, most of the patterns require a lot of wrist movement (which makes the chart really engaging), and the chart, overall, captures the song well through good layering and patterning without making the chart overly spiky in difficulty. Combine that with a catchy and aggressive song, and you get a chart that's hard to miss. For players who aren't as enthusiastic about LNs, Gekido's Challenge difficulty has no LNs, better layering, and more 1/6 bursts -- give that a whirl instead.
+Looking or playing through the chart, it's hard not to see why: Gekido's tactful patterning of the 1/6 bursts make those bursts feel far more intense than they otherwise would, his LN use emphasised certain parts of the melody well, most of the patterns require a lot of wrist movement (which makes the chart really engaging), and the chart, overall, captures the song well through good layering and patterning without making the chart overly spiky in difficulty. Combine that with a catchy and aggressive song, and you get a chart that's hard to miss. For players who aren't as enthusiastic about LNs, Gekido's Challenge difficulty has no LNs, better layering, and more 1/6 bursts—give that a whirl instead.
 
 [![](/wiki/shared/news/2019-07-11-project-loved-week-of-july-14th/mania/3-sakurairo-time-capsule.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by [MisterLuka](https://osu.ppy.sh/users/6117525), [eZmmR](https://osu.ppy.sh/users/8647138), [upan](https://osu.ppy.sh/users/4289829) and [kaythen](https://osu.ppy.sh/users/5782153)  
+[\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by [MisterLuka](https://osu.ppy.sh/users/6117525), [eZmmR](https://osu.ppy.sh/users/8647138), [upan](https://osu.ppy.sh/users/5214397) and [kaythen](https://osu.ppy.sh/users/5782153)  
 170 BPM, 4:20 | [4K] 6.35★, [7K] 4.25★, [7K] 8.22★
 
-After a very successful round with Ame to Asphalt, MisterLuka returns to Project Loved with another set to look out for! This round, we have *Sakurairo Time Capsule* which follows the usual 4k + 7k o2LN combination but with the aid of another 7k difficulty by kaythen.
+After a very successful round with Ame to Asphalt, MisterLuka returns to Project Loved with another set to look out for! This round, we have *Sakurairo Time Capsule* which follows the usual 4K + 7K O2LN combination but with the aid of another 7K difficulty by kaythen.
 
-Serving as a much easier alternative to the main difficulty, kay's Memories presents a pretty fun chart focused around percussions and a surprising but fitting inclusion of 1/4 rice streaming at its main sections. The difficulty is finally topped of with a light chordstream all at 170 BPM. With a few LNs here and there to highlight some sounds, players who want to try to enter the 4\* range should definitely try this out
+Serving as a much easier alternative to the main difficulty, kay's Memories presents a pretty fun chart focused around percussions and a surprising but fitting inclusion of 1/4 rice streaming at its main sections. The difficulty is finally topped of with a light chordstream all at 170 BPM. With a few LNs here and there to highlight some sounds, players who want to try to enter the 4\* range should definitely try this out.
 
 With LNs now becoming commonplace in Project Loved, the main difficulties don't really need much to talk about. A lot of visual flair comes into these difficulties with the playful usage of LNs and dump elements later into the song where each kiai has its own character. Another plus to these difficulties is the gradual increase in difficulty and don't forget! That low OD value is there for good reasons. Both ODs go in really hard with the expressive elements the chart has from LN based 1/8 rolling and a ton of quick pressing. A prime factor in this chart as to how it has its charm lies in the masterful combination of LN aesthetics and playability and this approach charting places not just this map, but also MisterLuka at a great spot for Project Loved.
 
