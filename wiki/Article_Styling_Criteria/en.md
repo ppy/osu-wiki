@@ -154,6 +154,14 @@ HTML comments may be used for annotating text.
 
 ### Editing
 
+#### End of line sequence
+
+<!-- Parsing will break if it reads a file using CRLF. -->
+
+*Notice: Uploading markdown files via GitHub may result in files using `CRLF` (carriage return and line feed).*
+
+The end of line (EOL) sequence must be set to `LF` (line feed).
+
 #### Escaping
 
 *Notice: The title of an article must not be escaped. Titles are parsed as plain text.*
