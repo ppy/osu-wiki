@@ -160,7 +160,7 @@ HTML comments may be used for annotating text.
 
 *Notice: Uploading markdown files via GitHub may result in files using `CRLF` (carriage return and line feed).*
 
-The end of line (EOL) sequence must be set to `LF` (line feed).
+Articles must be checked in using the `LF` (line feed) end of line sequence.
 
 #### Escaping
 
