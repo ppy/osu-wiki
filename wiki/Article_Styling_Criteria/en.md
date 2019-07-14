@@ -430,7 +430,7 @@ Whenever linking to a beatmap, use this format as the link text:
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
-The link to a beatmap must actually link to that difficulty. All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/beatmaps/{BeatmapID}`. The other URL format may be used instead.
+The link to a beatmap must actually link to that difficulty. Beatmap difficulty URLs must be formatted like this: `https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}`.
 
 The difficulty name may be left outside of the link text, but doing so must be consistent throughout the entire article.
 
