@@ -157,6 +157,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malezja | ![][flag_NL] Holandia | ![][flag_US] Stany Zjednoczone |
+| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hongkong | ![][flag_US] Stany Zjednoczone A | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 

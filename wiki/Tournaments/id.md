@@ -157,6 +157,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |
 | --- | --- | --- | --- | --- | --- |
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Belanda | ![][flag_US] Amerika Serikat |
+| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] Amerika Serikat A | ![][flag_CL] Chili |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
