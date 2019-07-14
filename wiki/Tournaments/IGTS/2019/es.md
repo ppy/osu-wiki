@@ -8,7 +8,7 @@ tags:
 
 ![IGTS 2019 Logo](img/logo.png)
 
-**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) fue un torneo de osu!taiko por equipos basados en países de doble eliminación dos-contra-dos organizado por ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) I ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Esta fue la segunda edición de Intermediate Global Taiko Showdown.
+**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) fue un torneo de osu!taiko por equipos basados en países de doble eliminación dos-contra-dos organizado por ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) y ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Esta fue la segunda edición del Intermediate Global Taiko Showdown.
 
 ## Horarios del Torneo
 
@@ -118,10 +118,10 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 
 Este competencia ha llegado a su fin y los resultados se demuestran en ese podio:
 
-| Placing | Team |
+| Lugar | Equipo |
 | :-: | :-- |
 | ![Corona de Oro](/wiki/shared/GCrown.png "1er lugar") | ![][flag_HK] Hong Kong |
-| ![Corona de Plata](/wiki/shared/SCrown.png "2ndo lugar") | ![][flag_US] Estados Unidos A |
+| ![Corona de Plata](/wiki/shared/SCrown.png "2do lugar") | ![][flag_US] Estados Unidos A |
 | ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | ![][flag_CL] Chile |
 
 ---
