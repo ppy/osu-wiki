@@ -1,10 +1,8 @@
-# Quality Assurance Team
+# Nomination Assessment Team
 
-The Quality Assurance Team, commonly referred to as QAT, form the last line of defense for standard control and enforce the basic expectation of quality for all beatmaps that enter the ranking process. Along with the [Quality Assurance Helpers](/wiki/People/Beatmap_Nominators/#quality-assurance-helpers), they check recently Qualified beatmaps for any issues that may have slipped past the nomination and modding processes. Mapsets that contain issues have their Qualified status revoked through disqualification where necessary.
+The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators). They are responsible for reviewing BN applications, creating tests for the applicants and evaluating current members. All NAT members may act as BNs in the modding and ranking process, but they do not have strict activity requirements like BNs.
 
-In addition to assuring the basic expectation of quality, the QAT also manage the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and ensure the enforcement of various rulesets surrounding the ranking process, for example the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), [Ranking Criteria](/wiki/Ranking_Criteria) and [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). This requires them to be regularly involved in assessing beatmap quality and overseeing the activity of the Beatmap Nominators.
-
-Members of this team are generally promoted from well-behaved, active and willing members of the Quality Assurance Helpers, whom are also deemed to work well with the team. Members of the QAT have a red name in the game's chat and on the forums, whereas BNs have a purple name only on the forums.
+Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team), they also have site-wide moderation permissions and a dark red username in the game's chat channels.
 
 ## Team Members
 
