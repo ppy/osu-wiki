@@ -46,17 +46,12 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 - It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
+
 - The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
   - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
-
-## Quality Assurance Helpers
-
-The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who assist the Quality Assurance Team at checking every single qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428) thread.
-
-Quality Assurance Helpers are free to choose whatever maps they like to check as long as they check at least four qualified maps per month. If they are not able to fulfill these activity standards, they will be removed and can only rejoin after a cooldown of one month. Beatmap Nominators who are not on their probationary period or in the cooldown period mentioned above may join the Quality Assurance Helpers at any time.
 
 ## Team Members
 
