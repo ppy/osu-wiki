@@ -363,7 +363,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 #### File extensions
 
-*Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`) nor use code.*
+*Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`).*
 
 File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. For example:
 
@@ -696,7 +696,7 @@ User titles that include `osu!` as part of the title name must be capitalised. E
 
 #### Article names
 
-Article names, when written in a paragraph, must not be capitalise, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). For example:
+Article names, when written in a paragraph, must not be capitalised, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). For example:
 
 ```md
 The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
@@ -900,7 +900,7 @@ Do:     09:09 UTC+7
 Do:     07:15 UTC-4
 ```
 
-`UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but useage must be consistent. UTC with a 0 offset must use a plus symbol (`+`).
+`UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but usage must be consistent. UTC with a 0 offset must use a plus symbol (`+`).
 
 ### Date and time formatting
 
