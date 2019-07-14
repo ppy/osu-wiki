@@ -8,9 +8,9 @@ All articles should aim at having proper grammar, correct spelling, and correct 
 
 If you have any suggestions regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
-## Repository directory
+## Applicable files
 
-The following repository directory standards apply only to files saved in the `wiki` directory.
+The ASC only applies to files saved in the `wiki` directory.
 
 ## Locales
 
