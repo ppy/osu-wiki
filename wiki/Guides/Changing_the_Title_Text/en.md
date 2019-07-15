@@ -15,7 +15,7 @@ If used correctly, it can add a certain effect (in a good way!) to a map. It cha
 
 ## General Info
 
-Send a PM (private message) with this to a QAT member.
+Send a PM (private message) with this to a NAT member.
 
 -   Syntax is as follows:
 

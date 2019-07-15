@@ -1,6 +1,6 @@
 # Moderator Bahasa
 
-Kebanyakan channel-channel yang ditampilkan di osu! memiliki moderatornya masing-masing, yang mengurus setiap hal yang dapat melanggar dan menentang suasana channel tersebut. Most of the channels being present in osu! have their own moderators, which take care of anything that could invade or go against the atmosphere of the channel. Meskipun berbagai anggota QAT/GMT mengurus masalah-masalah ini berkat kewenangan kekuatan mereka, ada juga berbagai orang yang bukan anggota Obrolan Operator QAT yang memoderasi channel untuk menolong moderator yang lain.
+Kebanyakan channel-channel yang ditampilkan di osu! memiliki moderatornya masing-masing, yang mengurus setiap hal yang dapat melanggar dan menentang suasana channel tersebut. Most of the channels being present in osu! have their own moderators, which take care of anything that could invade or go against the atmosphere of the channel. Meskipun berbagai anggota NAT/GMT mengurus masalah-masalah ini berkat kewenangan kekuatan mereka, ada juga berbagai orang yang bukan anggota Obrolan Operator NAT yang memoderasi channel untuk menolong moderator yang lain.
 
 ## Daftar moderator bahasa spesifik (terkini)
 

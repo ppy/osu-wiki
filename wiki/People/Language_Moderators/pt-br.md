@@ -1,6 +1,6 @@
 # Moderadores de Idioma
 
-A maioria dos canais presentes no osu! têm seus próprios moderadores, que cuidam de tudo que possa invadir ou ir contra a atmosfera do canal. Embora existir vários QATs/GMTs cuidando desses problemas graças aos seus poderes, existem vários OPs da conversa que não fazem parte do QAT que moderam o canal para ajudar os outros moderadores.
+A maioria dos canais presentes no osu! têm seus próprios moderadores, que cuidam de tudo que possa invadir ou ir contra a atmosfera do canal. Embora existir vários NATs/GMTs cuidando desses problemas graças aos seus poderes, existem vários OPs da conversa que não fazem parte do NAT que moderam o canal para ajudar os outros moderadores.
 
 ## Lista dos (atuais) moderadores de idioma
 
