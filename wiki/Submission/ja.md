@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 提出
 
 [Mapperは譜面の完成状態に応じて](/wiki/Glossary/#beatmapper)[Work-In-Progress (WIP)もしくは](/wiki/Glossary/#wip)[Pending](/wiki/Beatmaps)(2難易度が必要)のどちらかに譜面を投稿(アップロード)することが出来ます。**Beatmap Submission System (BSS)** \[Ctrl + Shift + U\]を使用して上げることができます。

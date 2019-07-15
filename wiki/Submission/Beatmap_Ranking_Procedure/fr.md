@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Statuts
 
 Lorsqu’une beatmap est créée pour la première fois, elle se situe dans la section Pending ou Work In Progress du forum. Ces maps sont dites “unranked”. Les maps unranked n’ont pas de tableau de score et se retrouvent au cimetière après une certaine période d’inactivité. Pour qu’une map puisse avoir un tableau de score et passer dans la section “ranked” du forum, elle doit passer par un processus d’acceptation. Tout d’abord, elle doit recevoir un bubble et ensuite elle doit se faire ranker. Seuls les BAT sont habilités à ranker une beatmap.

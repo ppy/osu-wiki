@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Freigabe
 
 Wenn eine Beatmap zum allerersten Mal erstellt wurde, ist sie entweder im Pending- oder Work in Progress-Sektion (kurz WIP-Sektion). Solche Maps werden als "unranked" bezeichnet. Unranked Maps haben kein Scoreboard und wandern in die Graveyard-Sektion im Forum, wenn die Map nach einer bestimmten Zeit nicht mehr bearbeitet wurde. Damit eine Map einen Scoreboard bekommt und in die Ranked-Sektion verschoben werden kann, muss die Map erst die Genehmigungsprozesse für Beatmaps durchlaufen haben. Um eine Map zu ranken, muss sie zuvor gebubbled worden sein. Nur BATs können Bubbles verteilen und sie anschließend ranken.
