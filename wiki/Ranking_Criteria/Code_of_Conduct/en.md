@@ -58,4 +58,4 @@ The Qualified section allows mapsets to receive any final suggestions for change
 
 If you're unsure on the nature of a potential problem, ask for other opinions or review previous mod posts to make sure the "issue" presented isn't something done intentionally by the mapper - if so, it will likely have been discussed already. If there has been no prior discussion, feel free to open one as if you were modding the map normally. If you feel the issues discovered should prevent the mapset from being ranked, report it in this thread with a link to your mod post and a brief outline of your concerns.
 
-**Note that it is the community's responsibility ALONE to report issues with qualified beatmaps**. The Quality Assurance Team will NOT actively check and disqualify mapsets unless prompted to do so.
+**Note that it is the community's responsibility ALONE to report issues with qualified beatmaps**. It is not guaranteed that BNs or NAT members will actively check and disqualify mapsets without being prompted to do so.
