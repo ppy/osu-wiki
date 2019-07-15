@@ -1,6 +1,6 @@
 # Nomination Assessment Team
 
-The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators). They are responsible for reviewing BN applications, creating tests for the applicants and evaluating current members. All NAT members may act as BNs in the modding and ranking process, but they do not have strict activity requirements like BNs.
+The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators). They are responsible for reviewing BN applications, creating tests for the applicants, evaluating current members and overseeing vetoes in the ranking process. All NAT members may act as BNs in the modding and ranking process, but they do not have strict activity requirements like BNs.
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team), they also have site-wide moderation permissions and a dark red username in the game's chat channels.
 
