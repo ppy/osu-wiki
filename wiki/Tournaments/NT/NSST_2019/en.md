@@ -90,7 +90,7 @@ The nik's Spring/Summer Tour 2019 was run by various community members by distri
 ### Tier 1
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_RO] [eternum](https://osu.ppy.sh/users/4581069) | ![][flag_GR] [Riven](https://osu.ppy.sh/users/3638005) | ![][flag_AU] [ASecretBox 2](https://osu.ppy.sh/users/4166621) | ![][flag_VE] [-Dreamless](https://osu.ppy.sh/users/4426728) |
 | **B** | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_RU] [Kreet](https://osu.ppy.sh/users/9202834) | ![][flag_DE] [respektive](https://osu.ppy.sh/users/1023489) |
 | **C** | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_AR] [Nykke](https://osu.ppy.sh/users/8181950) | ![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605) |
@@ -103,7 +103,7 @@ The nik's Spring/Summer Tour 2019 was run by various community members by distri
 ### Tier 2
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_PL] [Triojo](https://osu.ppy.sh/users/7736410) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548) | ![][flag_CA] [Xeli](https://osu.ppy.sh/users/4947796) |
 | **B** | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244) | ![][flag_CA] [PayneTrain](https://osu.ppy.sh/users/10275038) | ![][flag_PL] [lokser](https://osu.ppy.sh/users/4675441) |
 | **C** | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323) | ![][flag_DE] [Katsumi](https://osu.ppy.sh/users/513834) |
