@@ -116,9 +116,9 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 
 ## Pódio
 
-Esta competição chegou ao fim e resultou no seguinte pódio:
+Essa competição chegou ao fim e resultou no seguinte pódio:
 
-| Colocação | Equipe |
+| Colocação | Time |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] Hong Kong |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Estados Unidos A |
