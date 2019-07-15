@@ -24,14 +24,14 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 ### osu!taiko
 
-| Name | Additional Languages |
+| Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Cantonese, Chinese |
 
 ### osu!catch
 
-| Name | Additional Languages |
+| Name | Additional languages |
 | :-- | :-- |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German |
@@ -39,7 +39,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 ### osu!mania
 
-| Name | Additional Languages |
+| Name | Additional languages |
 | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
