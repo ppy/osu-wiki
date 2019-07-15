@@ -65,7 +65,7 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
 | [Developers](https://osu.ppy.sh/groups/11) | Making the game awesome by adding new features and fixing the bugs |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Helping to organize the Beatmap Nominators |
+| [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Managing the Beatmap Nominators |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
