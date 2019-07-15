@@ -921,7 +921,10 @@
 
 "quality_assurance_team":          "Glossary#quality-assurance-team"
 "qat":                             "Glossary#quality-assurance-team"
-"qat_blog":                        "Quality_Assurance_Team_Blog"
+"people/quality_assurance_team":   "Glossary#quality-assurance-team"
+"people/qat":                      "Glossary#quality-assurance-team"
+"qat_blog":                           "Quality_Assurance_Team_Blog"
+"people/quality_assurance_team/blog": "Quality_Assurance_Team_Blog"
 
 "nomination_assessment_team":      "People/Nomination_Assessment_Team"
 "nat":                             "People/Nomination_Assessment_Team"
