@@ -8,7 +8,7 @@ tags:
 
 ![IGTS 2019 Logo](img/logo.png)
 
-The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) is a worldwide country-based double-elimination two-on-two osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It is the second installment of the Intermediate Global Taiko Showdown.
+The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination two-on-two osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Intermediate Global Taiko Showdown.
 
 ## Tournament Schedule
 
@@ -36,7 +36,7 @@ The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) is a worldwide
 
 ## Organisation
 
-The Intermediate Global Taiko Showdown 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Intermediate Global Taiko Showdown 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,7 +48,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 | Designers | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316) |
 | Statisticians | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Leadenginger](https://osu.ppy.sh/users/3799991), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
 | Translators | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_JP] [Toorun12](https://osu.ppy.sh/users/10349712) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Pick'em Developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) |
 
 ## Links
@@ -114,16 +114,15 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ---
 
-## Match Schedule: Grand Finals
+## Podium
 
-### Saturday, 13. July 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team A |  |  | Team B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| W1 | United States A | ![][flag_US] | ![][flag_HK]| Hong Kong | **01:00** |
-| L1¹ | Hong Kong | ![][flag_HK] | ![][flag_US] | United States A |  |
-
-¹ Match L1 will take place if Team B wins the Match W1 and will take place immediately after Match W1
+| Placing | Team |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] Hong Kong |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] United States A |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
 
 ---
 
@@ -131,7 +130,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### All-Stars Battle Royale
 
-**[Download the mappack here! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+**[Download the map pack here! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -154,7 +153,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### All-Stars
 
-**[Download the mappack here! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+**[Download the map pack here! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -185,7 +184,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Grand Finals
 
-**[Download the mappack here! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Download the map pack here! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -212,7 +211,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Finals
 
-**[Download the mappack here! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Download the map pack here! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -239,7 +238,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Semifinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
+**[Download the map pack here! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -266,7 +265,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[Download the map pack here! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -292,7 +291,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Round of 16
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+**[Download the map pack here! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -318,7 +317,7 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 
 ### Group Stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
+**[Download the map pack here! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -344,6 +343,13 @@ The Intermediate Global Taiko Showdown 2019 is run by various community members 
 ---
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2019-07-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| United States A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
+| **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] United States A | [#1](https://osu.ppy.sh/community/matches/53300693) |
 
 ### Finals
 
