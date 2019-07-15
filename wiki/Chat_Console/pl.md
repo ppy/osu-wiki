@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Czat
 
 Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięcie `F8` lub przycisku `Show Chat` w prawym dolnym rogu ekranu. Wówczas czat pojawi w dolnej części gry.
