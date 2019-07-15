@@ -133,6 +133,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 
+### ![](/wiki/shared/mode/osu.png) nik's Tournaments
+
+| Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --- | --- | --- | --- | --- | --- |
+| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
+| [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 2019-04-27 | 2019-06-29 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
@@ -157,6 +164,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_US] United States |
+| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -278,7 +286,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)(osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973)(osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811)(osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604)(osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031)(osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218)(osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623)(osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522)(osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239)(osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622)(osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542)(osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293)(osu!mania) |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) (osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) (osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) (osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) (osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) (osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) (osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) (osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) (osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) (osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) (osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) (osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) (osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
 
