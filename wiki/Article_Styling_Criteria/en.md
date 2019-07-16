@@ -158,7 +158,7 @@ HTML comments may be used for annotating text.
 
 <!-- Parsing will break if it reads a file using CRLF. -->
 
-*Notice: Uploading markdown files via GitHub may result in files using `CRLF` (carriage return and line feed).*
+*Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` before uploading.*
 
 Articles must be checked in using the `LF` (line feed) end of line sequence.
 
