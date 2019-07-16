@@ -106,7 +106,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Chile | ![][flag_CL] | ![][flag_CN] | China | **03:00 UTC** | 01:00 UTC-04 | 11:00 UTC+08 | ¹ |
+| Chile | ![][flag_CL] | ![][flag_CN] | China | **03:00 UTC** | 23:00 UTC-04 (Sat) | 11:00 UTC+08 | ¹ |
 | Philippines | ![][flag_PH] | ![][flag_MX] | Mexico | **04:00 UTC** | 12:00 UTC+08 | 01:00 UTC-05 | ³ |
 | Philippines | ![][flag_PH] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 | ³ |
 | United States | ![][flag_US] | ![][flag_TW] | Taiwan | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
