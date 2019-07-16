@@ -412,7 +412,6 @@
 "bss_issues": "Guides/BSS_Issues"
 "beatmap_submission_system_issues": "Guides/BSS_Issues"
 "changing_the_artist_or_title":                               "Guides/Changing_the_Artist_or_Title"
-"changing_the_title_text":                                    "Guides/Changing_the_Title_Text"
 "collab_information":                                         "Guides/Collab_Information"
 "collab_info":                                                "Guides/Collab_Information"
 "compressing_files":                                          "Guides/Compressing_Files"
@@ -446,6 +445,9 @@
 "buying_a_tablet":                                            "Guides/Tablet_Purchase"
 "tips_and_tricks_on_skill_improvement":                       "Guides/Tips_and_Tricks_on_Skill_Improvement"
 "videos_from_youTube":                                        "Guides/Videos_From_YouTube"
+
+"guides/changing_the_title_text":                             "Beatmaps/Title_Text#changing-title-text"
+"changing_the_title_text":                                    "Beatmaps/Title_Text#changing-title-text"
 
 "help_center":                 "Help_Centre"
 "help":                        "Help_Centre"
