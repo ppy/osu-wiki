@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" /> \_\_TOC\_\_
 =主菜单= <img src="Introscreen.jpg" title="fig:Main menu" alt="Main menu" width="280" />
 
@@ -18,8 +19,7 @@ outdated: true
 -   ［11］用户信息旁边的是地图总数，运行时间，以及电脑时显示间。
 -   ［12］用户面板，点击显示用户选项。
 
-用户选项
---------
+## 用户选项
 
 <img src="useroptions1.png" title="User Options" alt="User Options" width="280" />
 
@@ -42,8 +42,7 @@ outdated: true
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
-选歌界面
---------
+## 选歌界面
 
 <img src="soloplay1.jpeg" title="Song selection" alt="Song selection" width="300" />
 

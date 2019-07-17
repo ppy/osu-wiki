@@ -1,18 +1,15 @@
-What is Internet Relay Chat?
-============================
+# What is Internet Relay Chat?
 
 The [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), also known as IRC, is a well established standardized protocol for chatting with numerous clients available to connect with.
 
 
-osu!Bancho
----------
+## osu!Bancho
 osu!Bancho offers a gateway for IRC (in-game chat) access. You can connect with your own client and chat with other people without using the game client. Take note that this IRC protocol is modified therefore do not expect your client's features to work properly.
 
 **Notice: [HexChat](http://hexchat.github.io/) is known to have problems with osu!'s IRC** ([bug report of HexChat's GitHub](http://github.com/hexchat/hexchat/issues/818)), consider using another client if it bothers you.
 
 
-How To Connect
---------------
+## How To Connect
 Once you have a client, you need to set up the server settings.
 
 - **Server:**  `irc.ppy.sh`
@@ -23,8 +20,7 @@ Once you have a client, you need to set up the server settings.
 *Your IRC password is different from your account password. **Do not share it to others**.*
 
 
-Basic IRC Commands
-------------------
+## Basic IRC Commands
 | Command              | Description                           |
 | -------------------- | ------------------------------------- |
 | `/join <#channel>`   | Joins a channel                       |
@@ -33,8 +29,7 @@ Basic IRC Commands
 | `/ignore <username>` | Ignores a user (hides their messages) |
 
 
-Disabling Join/Part Messages
-----------------------------
+## Disabling Join/Part Messages
 Knowing players who joins or parts is a good thing, however in very crowded such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, it's usually preferred that these messages are hidden.
 
 ```
@@ -63,8 +58,7 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 If your client is not listed here refer to its documentation, most clients have a way to do this.
 
 
-Frequently Asked Questions (FAQ)
---------------------------------
+## Frequently Asked Questions (FAQ)
 
 ### I'm receiving the error "Bad Authentication Token".
 1. Make sure you are using the password at the [IRC Authentication](https://osu.ppy.sh/p/irc) page.

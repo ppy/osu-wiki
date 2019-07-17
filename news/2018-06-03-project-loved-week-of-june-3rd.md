@@ -8,7 +8,7 @@ It's time for [Project Loved](https://osu.ppy.sh/community/forums/120) once agai
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome to [Project Loved](https://osu.ppy.sh/community/forums/120)'s first round of voting for June 2018! You guys know the drill by know; we've selected 28 Loved beatmap candidates based on your submissions, and now you can vote whether or not you want each map to finally enter the Loved category. If a map has at least 75% positive votes for osu! or osu!taiko, or 80% for osu!catch or osu!mania, it'll make its way into the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8)!
+Welcome to [Project Loved](https://osu.ppy.sh/community/forums/120)'s first round of voting for June 2018! You guys know the drill by know; we've selected 28 Loved beatmap candidates based on your submissions, and now you can vote whether or not you want each map to finally enter the Loved category. If a map has at least 75% positive votes for osu! or osu!taiko, or 80% for osu!catch or osu!mania, it'll make its way into the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved)!
 
 If you're wondering why osu!catch and osu!mania have different percentage requirements, then you're on the same page as me when I was writing this post. I never understood why the 5% difference was necessary, so I asked osu!mania Loved captain [Kamikaze](https://osu.ppy.sh/users/2124783) if he could explain that to me.
 
@@ -18,7 +18,7 @@ Nice.
 
 Unfortunately, for the third time in a row, we're not going to have videos in this post. We're not sure if our video editor is going to be available in the future, so we've contacted another party in hopes of working with them for the upcoming voting rounds. Sorry!
 
-Lastly, as a reminder in case if you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form.
+Lastly, as a reminder in case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form.
 
 Alright then, let's jump right in!
 
@@ -257,7 +257,7 @@ It also features a few scroll velocities that might be sightreadable, but if we 
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 

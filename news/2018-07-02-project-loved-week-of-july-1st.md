@@ -8,7 +8,7 @@ date: 2018-07-02 15:00:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! As I'm sure you already know, we've picked a handful of beatmaps for each game mode that have the chance to be moved to the Loved category. You now get to decide whether or not these maps will receive that honor by voting on each maps' thread (which you can find by clicking on the images in this post)!
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! As I'm sure you already know, we've picked a handful of beatmaps for each game mode that have the chance to be moved to the Loved category. You now get to decide whether or not these maps will receive that honor by voting on each map's thread (which you can find by clicking on the images in this post)!
 
 This week's osu! selection of nominees is a little special: [Toy](https://osu.ppy.sh/users/2757689) wrote his reasoning for making this round a "Meme Week" for osu!, meaning that all of the mapsets are basically just jokes that the community came to adore.
 
@@ -20,7 +20,7 @@ Sorry for the delay! The unnamed writer of these posts (that's me, hah) got caug
 
 In addition to the map quantity changes mentioned in last round's news post, the captains of osu!catch have decided to decrease the map count to just two per round. This unfortunately won't let as many maps reached loved for osu!catch, but it will prevent the backlog from depleting too quickly. We're trying to keep the backlogs of future Loved nominees stocked so that we have at least *some* to put up for vote every round. Sooner or later, we may just tone down the frequency of Loved voting—we've been discussing the possibility of monthly rather than bi-weekly.
 
-Lastly, as a reminder in case if you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+Lastly, as a reminder in case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
 Let's get started! To accompany the selections, we have verto's mentioned video, showcasing all of the picks from all of the game modes. Check it out!
 
@@ -186,7 +186,7 @@ If you have already played any of his maps ([Fiat Lux](https://osu.ppy.sh/beatma
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

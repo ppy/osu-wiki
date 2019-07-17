@@ -1,6 +1,6 @@
 # Beatmapping (Português)
 
-**Beatmapping**é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboarding).
+**Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboarding).
 
 Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmaps), que consiste num processo de [beatmap approval](/wiki/Beatmap_Ranking_Procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
 
@@ -44,11 +44,11 @@ Rota alternativa: Coloque o ficheiro de áudio na pasta "Songs".
 Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da música:-
 
 -   Assista o [video](https://osu.ppy.sh/community/forums/topics/39317) e os [tutoriais](https://osu.ppy.sh/community/forums/topics/3815) para conhecer os métodos básicos de timing.
--   Tenha certeza que os toques do metronómo coincidem com a batida da música em toda a duração da mesma. Então verifique o timing em 5%, 25%, 50%, 75% e 100% da música, no mínimo.
+-   Tenha certeza que os toques do metrônomo coincidem com a batida da música em toda a duração da mesma. Então verifique o timing em 5%, 25%, 50%, 75% e 100% da música, no mínimo.
 -   Dê uma olhada na tabela de BPM, se o número estiver perto de um número completo (até .10 de diferença), é provavelmente melhor (a não ser que peçam que não o faça) arredondar para um número total. Se for esse o caso, manualmente insira o BPM correto usando o Timing Setup Panel.
     -   Exemplo: 150.02 deverá ser arredondado para 150.00 a não ser que outro mapper peça que não o faça porque o som poderá ficar errado, por alguma razão.
--   Para ajuste certo no offset, reduza a velocidade da música para metade - 0,5x (ou até 0.25x, se necessário) e ajuste os valores até as batidas coincidirem exatamente com os cliques do metrónomo.
--   Algumas músicas têm múltiplos BPMs. Você poderá resolver isso adicionando uma seção de timing (Timing --> Add Timing Section) no momento em que o tempo muda. O BPM e o offset para a nova seção de timing poderão ser encontrados exactamente como anteriormente. O Timing Setup Panel fornece uma lista de todas as seções de timing existentes na música.
+-   Para ajuste certo no offset, reduza a velocidade da música para metade - 0,5x (ou até 0.25x, se necessário) e ajuste os valores até as batidas coincidirem exatamente com os cliques do metrônomo.
+-   Algumas músicas têm múltiplos BPMs. Você poderá resolver isso adicionando uma seção de timing (Timing --> Add Timing Section) no momento em que o tempo muda. O BPM e o offset para a nova seção de timing poderão ser encontrados exatamente como anteriormente. O Timing Setup Panel fornece uma lista de todas as seções de timing existentes na música.
 
 ### Que informação eu insiro no Song Setup ?
 
@@ -61,7 +61,7 @@ Você deverá inserir essa informação antes de criar uma segunda dificuldade, 
 | Title | **O nome da música.** Será extraído automaticamente do ficheiro mp3, mas verifique novamente para ter certeza que está sendo soletrado e pontuado corretamente., especialmente se você conseguiu o mp3 online. |
 | Romanised Title | **Os nomes romanizados (Ingleses) do título da música.** Novamente, este campo ficará ativo se você usar carateres Unicode no campo *Title*. |
 | Beatmap Creator | **Você. O osu! deverá automaticamente preencher este campo, então você não deve editar ele.** Se você vai incluir uma dificuldade guest feita por outro alguém, seu/seus nomes pertencem ao campo de Difficulty abaixo, não aqui. |
-| Difficulty | **O nome da dificuldade do mapa. ** O menu suspenso contém os nomes predefinidos: Easy, Normal, Hard e Insane. Você poderá selecionar um dos nomes predefinidos, ou criar o seu próprio nome. Enquanto que é bom ser criativo, tente deixar claro qual é o mais díficil que os outros, visto que dificuldades ambíguas poderão confundir e aborrecer jogadores. Esse também será o campo onde você irá indicar o mapper da dificuldade guest, se essa for a sua dificuldade (e.g. *Larto's Hard*). |
+| Difficulty | **O nome da dificuldade do mapa. ** O menu suspenso contém os nomes predefinidos: Easy, Normal, Hard e Insane. Você poderá selecionar um dos nomes predefinidos, ou criar o seu próprio nome. Enquanto que é bom ser criativo, tente deixar claro qual é o mais difícil que os outros, visto que dificuldades ambíguas poderão confundir e aborrecer jogadores. Esse também será o campo onde você irá indicar o mapper da dificuldade guest, se essa for a sua dificuldade (e.g. *Larto's Hard*). |
 | Source | **Onde a música foi originada.** Esse campo deverá geralmente ser incluído apenas caso a música seja de Anime ou videojogo, e ocasionalmente em músicas de Novelty (Filmes, TV ou Internet). Se a música veio de um anime ou videojogo, ou é famosa pelo seu uso na TV ou tema de filme, o título da fonte da música deverá estar aqui. Músicas Rock e Pop geralmente deixam esse campo vazio. **Este campo não é usado para coisas como títulos de álbuns.** |
 | Tags | **Palavras-chave que ajudam nas pesquisas.** Usuários normalmente incluem os nomes dos álbuns, criadores das dificuldades guest, nomes de companhias e outros termos que poderão ser usados por pessoas ao fazerem pesquisas definidas (exemplo disso são eroges ou visual novels, se seu mapa é baseado numa visual novel eroge). Se seu mapa tem elementos de "collab" (colaboração entre mappers), seus nomes poderão ficar aqui. Tags são separadas por espaços. Não é obrigatório encher esse campo, mas é fortemente recomendado ao usar pesquisas da Web ou do osu! in-game. **Nota:** Se você possuir uma tag de "qwertyuiop" no seu beatmap, você poderá também encontrar seu mapa in-game ao digitar "qwertyuiop" na tela de seleção de músicas. |
 
@@ -116,7 +116,7 @@ Para adicionar spinners no seu mapa, clique com botão esquerdo para começar. e
 
 ### O que são Combos?
 
-Combos são grupos de notas, essenciais para o sistema de score no osu!. Diferentes combos possuem diferentes cores. É importante que você use combos nos seus beatmaps que assegurem melhor percepção e compreensão da música. Tipicamente, combos devem ser baseados no som (percussão, streamings de guitarra, vocais) da música de alguma forma, então preste atenção ás informações exibidas no painel de timing se precisar de orientação. Como um guia descritivo, uma boa duração de combo deverá ser entre 5-15 excluindo streams (10-30).
+Combos são grupos de notas, essenciais para o sistema de score no osu!. Diferentes combos possuem diferentes cores. É importante que você use combos nos seus beatmaps que assegurem melhor percepção e compreensão da música. Tipicamente, combos devem ser baseados no som (percussão, streamings de guitarra, vocais) da música de alguma forma, então preste atenção às informações exibidas no painel de timing se precisar de orientação. Como um guia descritivo, uma boa duração de combo deverá ser entre 5-15 excluindo streams (10-30).
 
 Nota: Combos finais (Geki e Katu, especificamente) irão aumentar a barra de HP num bom valor comparado com os típicos 300. Combos pequenos são mais preferidos que os longos, visto que o slider consumirá mais vida (HP) em comparação com os pequenos, o que poderá fazer com o mapa se torne estranhamento difícil devido ao consumo de HP.
 
@@ -140,7 +140,7 @@ Aqui estão algumas dicas avançadas no planeamento de intervalos usando atalhos
 
 ### O que é Beat Spacing?
 
-Para jogabilidade intuitiva, seus beatmaps devem ter um bom "Beat Spacing"(Espaçamento de batidas)! Em geral, batidas que estão perto de umas das outras na timeline devem estão perto no beatmap, e vice-versa. Isto serve para assegurar um fluxo da sincronização harmónica da música com o beatmap, fazendo os mapas muito mais agradáveis.
+Para jogabilidade intuitiva, seus beatmaps devem ter um bom "Beat Spacing"(Espaçamento de batidas)! Em geral, batidas que estão perto de umas das outras na timeline devem estar perto no beatmap, e vice-versa. Isto serve para assegurar um fluxo da sincronização harmônica da música com o beatmap, fazendo os mapas muito mais agradáveis.
 
 A maneira mais simples de assegurar que o espaçamento de batidas está correto nos seus beatmaps é utilizando a função ping da ferramenta do editor [Distance Snap](/wiki/Distance_Snap), que poderá ser encontrada no canto superior direito do editor. A distância relativa entre notas pode ser ajustada usando a roda do mouse. Se você se acostumar a usar o Distance Snap para toda a música, é garantido um espaçamento de batida correto!
 
@@ -148,7 +148,7 @@ A maneira mais simples de assegurar que o espaçamento de batidas está correto 
 
 Para criar um novo nível de dificuldade, simplesmente abra uma dificuldade existente, escolha "File" --> "Save as New Difficulty..." e mude a entrada na caixa de Dificuldade.
 
-Tenha certeza que adiciona variações entre diferentes níveis de dificuldades. Adicione, remova ou rearranje notas para fazer novos patterns (modelos). Vire ou rode notas existentes. As diferentes dificuldades do mapa devem ser de alguma forma familiares (como a velocidade de BPM, pontos de mudanças de BPM or certos designs do beatmap) enquanto ^*retendo a diferença distinta em acordo com a dificuldade em questão.*
+Tenha certeza que adiciona variações entre diferentes níveis de dificuldades. Adicione, remova ou rearranje notas para fazer novos patterns (modelos). Vire ou rode notas existentes. As diferentes dificuldades do mapa devem ser de alguma forma familiares (como a velocidade de BPM, pontos de mudanças de BPM ou certos designs do beatmap) enquanto ^*retendo a diferença distinta em acordo com a dificuldade em questão.*
 
 **Nota:** Mudar as configurações de dificuldade (ex. HP drain rate) não é considerado uma nova dificuldade. Isso é chamado pura preguiça, e você provavelmente será solicitado a criar um novo design para a nova dificuldade.
 
@@ -236,7 +236,7 @@ Sim, e aqui está uma lista deles. Será melhor que você imprima eles para refe
 | `Shift` (na colocação) | Ignora alinhamento de grade. |
 | `Shift` (enquanto modifica) | Ignora ambos alinhamento e batidas (tempos) de grade. |
 | `J` | Nudge atrás no tempo. |
-| `K` | Nudge á frente no tempo. |
+| `K` | Nudge à frente no tempo. |
 | `G` | Percorre pela precisão de grade. |
 | `Ctrl` + `1-4` | Muda o tamanho da grade. |
 | `Ctrl` + `<` | Rodar no sentido anti-relógio. |

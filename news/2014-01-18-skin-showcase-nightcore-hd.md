@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skin Showcase - Nightcore HD"
-permalink: http://osunews.tumblr.com/post/73755762190/skin-showcase-nightcore-hd
 date: 2014-01-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73755762190/skin-showcase-nightcore-hd
 ---
+
 Hey guys, and welcome to the first skin showcase for 2014! And to kick off the new year, I'm going to showcase one of the biggest skins I know of, the Nightcore HD skin.
 
 [evil_genius](https://osu.ppy.sh/users/2526988) has put in a huge amount of effort into constructing the [skin](https://osu.ppy.sh/community/forums/topics/135588), skinning all four games modes to appeal a wider range of players. Along with the standard edition, the creator has gone to the effort of making a second "lite" family-friendly edition, which doesn't contain any of the borderline adult content that the standard one does.

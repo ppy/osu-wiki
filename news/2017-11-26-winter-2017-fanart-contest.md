@@ -31,4 +31,3 @@ Make sure to read these rules before you begin (**even if you are a long-time en
 [Head on over to the Winter 2017 Fanart Contest listing and enter now!](https://osu.ppy.sh/community/contests/58)
 
 —Ephemeral
-

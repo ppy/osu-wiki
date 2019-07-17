@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <img src="Intro_static.jpg" title="fig:Right|Pantalla de introducción" alt="Right|Pantalla de introducción" width="400" /> \_\_TOC\_\_
 =Menú principal= <img src="Introscreen.jpg" title="fig:Menú principal" alt="Menú principal" width="280" />
 

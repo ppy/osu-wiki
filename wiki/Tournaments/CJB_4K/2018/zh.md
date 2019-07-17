@@ -4,6 +4,7 @@ tags:
 - CJB 2018
 - CJB2018
 ---
+
 # 第四届 osu!mania 4K 菜鸡杯
 
 ![CJB 4K 4th](img/banner.png)
@@ -170,18 +171,18 @@ tags:
 ### 决赛第二周
 
 | 编号 | 2018-08-13，星期一 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
 
 | 编号 | 2018-08-14，星期二 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
 | 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
 
 ### 决赛第一周
 
 | 编号 | 2018-08-11，星期六 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
 | 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
 | 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
@@ -190,14 +191,14 @@ tags:
 ### 半决赛
 
 | 编号 | 2018-08-04，星期六 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | WBD |
 | 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
 | 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
 | 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | WBD |
 
 | 编号 | 2018-08-05，星期日 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | WBD |
 | 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
 | 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
@@ -205,7 +206,7 @@ tags:
 ### 八强
 
 | 编号 | 2018-07-28，星期六 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | WBD |
 | 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | WBD |
 | 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
@@ -213,7 +214,7 @@ tags:
 | 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
 
 | 编号 | 2018-07-29，星期日 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | WBD |
 | 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
 | 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
@@ -223,14 +224,14 @@ tags:
 ### 十六强
 
 | 编号 | 2018-07-21，星期六 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | WBD |
 | 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
 | 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
 | 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
 
 | 编号 | 2018-07-22，星期日 |  |  |  |  |
-| :-: | --: | :-: | :-- | :-- | :-: |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
 | 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
 | 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane | |

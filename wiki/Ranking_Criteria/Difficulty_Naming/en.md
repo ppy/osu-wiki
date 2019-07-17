@@ -1,20 +1,21 @@
 # Difficulty Naming
-	
+
 The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
 
 ## Default
 
 This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
 
-- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/drain_time), and thus can form a mapset on its own.
+- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/Glossary#drain-time), and thus can form a mapset on its own.
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
- 
+
 - ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
 - ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
+- ![Expert+](/wiki/shared/diff/expertplus-s.png "Expert+") Expert+
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
@@ -23,6 +24,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 - ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 - ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
 - ![Inner Oni / Ura Oni](/wiki/shared/diff/expert-t.png "Inner Oni / Ura Oni") Inner Oni / Ura Oni
+- ![Hell Oni](/wiki/shared/diff/expertplus-t.png "Hell Oni") Hell Oni
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
@@ -31,6 +33,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 - ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
 - ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
 - ![Overdose](/wiki/shared/diff/expert-c.png "Overdose") Overdose
+- ![Overdose+](/wiki/shared/diff/expertplus-c.png "Overdose+") Overdose+
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
@@ -39,6 +42,7 @@ This subsection shows the default **scaling** difficulty names for each game mod
 - ![HD](/wiki/shared/diff/hard-m.png "HD") HD
 - ![MX](/wiki/shared/diff/insane-m.png "MX") MX
 - ![SC](/wiki/shared/diff/expert-m.png "SC") SC
+- ![SHD](/wiki/shared/diff/expertplus-m.png "SHD") SHD
 
 ## Songs from other rhythm games
 
@@ -98,19 +102,12 @@ The difficulty spread would follow the Default difficulty naming scheme, with th
 
 ## Widely accepted alternatives
 
-The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:			
+The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
 - ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
 - ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
 - ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![Extreme](/wiki/shared/diff/expert-s.png "Extreme") **Extreme**: it can be used to represent a more difficult Expert.
-
-### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
-
-- ![Hell Oni](/wiki/shared/diff/expert-t.png "Hell Oni") **Hell Oni**: it can be used to represent a more difficult Inner Oni / Ura Oni.
-
-### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
-
-- ![Deluge](/wiki/shared/diff/expert-c.png "Deluge") **Deluge**: it can be used to represent a more difficult Overdose.
+- ![Extra](/wiki/shared/diff/expert-s.png "Extra") **Extra**: it can used as a substitute for Expert.
+- ![Extreme](/wiki/shared/diff/expertplus-s.png "Extreme") **Extreme**: it can be used to represent a more difficult Expert or as a substitute for Expert+.

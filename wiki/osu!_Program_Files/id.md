@@ -1,17 +1,14 @@
-Berkas Program osu!
-=======================
+# Berkas Program osu!
 
 ![File aturcara osu! secara keseluruhan](Osu!sys.jpg "File aturcara osu! secara keseluruhan")
 
-Lokasi
---------
+## Lokasi
 
 ### Windows
 
 Secara standar, `C:Program Filesosu!` di mana "C:" adalah kode hard disk dimana osu! diinstal. Untuk Windows 8, `C:Program Files(x86)osu!`.
 
-Folder
--------
+## Folder
 
 ### \_MACOSX
 
@@ -64,8 +61,7 @@ Formatnya adalah `{Kode nombor} {Penyanyi} - {Nama lagu}`.
 
 Harap dicatat bahawa folder beatmap *lagenda* osu! tidak memiliki kode nombor dan tidak mengikuti format. Beberapa contoh adalah "[discoprince](https://osu.ppy.sh/beatmapsets/1)" atau "[avgn](https://osu.ppy.sh/beatmapsets/66)". Disebutkan secara khusus pergi ke "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" karena setiap osu! pemain akan memilikinya ketika osu! diinstal menggunakan installer osu!. Juga, dibuat secara manual/kubur .osz/zip lagu folder dapat dihitung juga.
 
-Program files
------------------
+## Program files
 
 ### .dll (Ekstensi Aplikasi)
 

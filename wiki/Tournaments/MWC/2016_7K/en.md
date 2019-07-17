@@ -5,6 +5,7 @@ tags:
 - MWC2016
 - MWC7K 2016
 ---
+
 # osu!mania 7K World Cup 2016
 
 ![MWC 7K 2016 Logo](img/logo.png)
@@ -227,27 +228,27 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 ### Grand Finals
 
 | Sunday, 2016-02-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 0 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/22642271) |
 | **China** ![][flag_CN] | **7** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/22643409) |
 
 ### Finals
 
 | Saturday, 2016-02-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/22424367) |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/22426065) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/22428318) |
 
 | Sunday, 2016-02-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/22457102) |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/22459042) |
 
 ### Semifinals
 
 | Saturday, 2016-01-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/22231572) |
 | China ![][flag_CN] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/22232589) |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/22234901) |
@@ -256,14 +257,14 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Brazil ![][flag_BR] | 4 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/22240673) |
 
 | Sunday, 2016-01-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/22265355) |
 | **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_PH] Philippines | -win by default- |
 
 ### Quarterfinals
 
 | Saturday, 2016-01-23 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/22039893) |
 | Indonesia ![][flag_ID] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/22041291) |
 | Philippines ![][flag_PH] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/22042907) |
@@ -276,7 +277,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 ### Round of 16
 
 | Saturday, 2016-01-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/21844684) |
 | Japan ![][flag_JP] | 0 | **5** | ![][flag_PH] **Philippines** | -win by default- |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/21846586) |
@@ -289,7 +290,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2016-01-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/21645045) |
 | Taiwan ![][flag_TW] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/21645051) |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/21645052) |
@@ -313,7 +314,7 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/21669547) |
 
 | Sunday, 2016-01-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/21685098) |
 | **Malaysia** ![][flag_MY] | **4** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/21685099) |
 | Philippines ![][flag_PH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/21685103) |

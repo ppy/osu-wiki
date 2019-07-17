@@ -28,8 +28,7 @@ A score that was almost replicated 4 years back! [Rafis](https://osu.ppy.sh/user
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uKDiGVBDlHY" frameborder="0" allowfullscreen></iframe></br>
 
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 We blast ourselves back to 2015 where [rustbell](https://osu.ppy.sh/users/227717), known for his technical ability in maps, took an amazing 99.57% HDFL FC on [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmaps/16266) to earn 211pp. Honestly speaking, you have to see it to believe it.
 
@@ -37,8 +36,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-gtFEQQhUqI" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 The one and only [MinG3012](https://osu.ppy.sh/users/1583218) is back as he sets a brilliant 58.12% HDHR FC on [marina - Towa yori Towa ni](https://osu.ppy.sh/beatmaps/793846?m=0) to earn 298pp. This is one crazy score.
 
@@ -46,8 +44,7 @@ Circle size 9.1? Not a problem for [Adamqs](https://osu.ppy.sh/users/613592), se
 
 [Flask](https://osu.ppy.sh/users/959763) may be a stranger to some, but he makes an appearance this week after he set a crazy 99.48% HDHR FC on [xi - Akasha](https://osu.ppy.sh/beatmaps/877312) to take 572pp and the number three spot, beating out Adamqs himself! What a way to get your top score!
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 2 Polish greats, [WubWoofWolf](https://osu.ppy.sh/users/39828) and [Wilchq](https://osu.ppy.sh/users/2021758) duke on the map [positive MAD-crew - Mynarco Addiction](https://osu.ppy.sh/beatmaps/718679?m=0) with HDHR enabled!
 

@@ -1,10 +1,8 @@
 # FAQ
 
-Introduzione
-============
+# Introduzione
 
-Non ho mai giocato ad "Ouendan" qualcosa - che cos'è?
------------------------------------------------------
+## Non ho mai giocato ad "Ouendan" qualcosa - che cos'è?
 
 [Osu! Tatakae! Ouendan](http://it.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) è un gioco ritmico per il Nintendo DS. Il gameplay consiste in tre elementi: cliccare i cerchi sul touchscreen, trascinare una palla su un percorso già tracciato e ruotare uno spinner molto veloce. Tutti questi elementi sono messi a tempo su (cover di) canzoni popolari Giapponesi. Sul Nintendo DS è così:
 
@@ -12,13 +10,11 @@ Non ho mai giocato ad "Ouendan" qualcosa - che cos'è?
 
 Nello schermo inferiore si vedono i cerchi, in quello superiore una storia relativa ad una persona in difficoltà.
 
-Come si gioca?
---------------
+## Come si gioca?
 
 Dal momento che la maggior parte degli utenti PC non possiede un touch-screen è possibile giocare a osu! sia utilizzando il mouse sia tramite una lunga e fantasiosa lista di altri dispositivi. La lista degli stili di gioca è reperibile \[qui\][1](/wiki/Play_Styles).
 
-Le basi del gameplay
---------------------
+## Le basi del gameplay
 
 Il gameplay di osu! si basa su:
 

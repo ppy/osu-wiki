@@ -1,12 +1,10 @@
-Timing
-=============================
+# Timing
 
 Timing untuk sebuah beatmap terdiri dari offset lagu dan BPM(Beats Per Minute, atau ketukan per menit). BPM lagu menunjukkan seberapa cepat sebuah lagu. Offset adalah jumlah waktu di antara awal dari file mp3 dan pembukaan lagu dalam sebuah lagu.
 
 Fungsi dari timing yang benar adalah agar linimasa di dalam editor sejajar dengan musiknya. Jika timingnya salah, maka linimasa tidak akan sesuai dengan lagu. Oleh karena itu, kamu tidak dapat menempatkan objek yang diklik dengan akurat, dan akan menjadi sangat sulit untuk me-map sejajar dengan musiknya.
 
-Pembagian Timing
-----------------
+## Pembagian Timing
 
 Ada dua jenis pembagian timing; bagian timing biasa dan bagian timing turunan.
 

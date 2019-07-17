@@ -1,5 +1,4 @@
-Submission
-============
+# Submission
 
 [Beatmappers](/wiki/Glossary/#beatmapper) can submit either [Work-In-Progress (WIP)](/wiki/Glossary/#wip) beatmaps or beatmaps they deem complete (2 difficulties needed) to the [Beatmap's](https://osu.ppy.sh/community/forums/12) [Work In Progress/Help](https://osu.ppy.sh/community/forums/10) and [Pending Beatmaps](https://osu.ppy.sh/community/forums/6) subforums respectively, using the in-game **Beatmap Submission System (BSS)** `Ctrl` + `Shift` + `U`.
 
@@ -9,8 +8,7 @@ Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads 
 
 ![Beatmap Submission System Warning screen](BSS_Base.jpg "Beatmap Submission System Warning screen")
 
-Submission
------------
+## Submission
 
 ### Before submitting a beatmap
 
@@ -117,8 +115,7 @@ Again, remember that there can be *many more* possible problems with a beatmap. 
 
 Please see [Ranking Criteria](/wiki/Ranking_Criteria) for further information on this.
 
-Questions
-------------
+## Questions
 
 ### My map's not getting modded/ranked...
 

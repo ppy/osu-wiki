@@ -1,8 +1,8 @@
 ---
 outdated: true
 ---
-osu! World Cup 2013
-=======================
+
+# osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
@@ -18,8 +18,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan**   |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polen**    |
 
-Turnierzeitplan
-------------------
+## Turnierzeitplan
 
 | Event                         | Timestamp                 |
 |-------------------------------|---------------------------|
@@ -31,8 +30,7 @@ Turnierzeitplan
 | Halbfinale                    | 30. Nov. - 01. Dez. 2013  |
 | Finale/Partie um den 3. Platz | 07.-08. Dez. 2013         |
 
-Preise
---------
+## Preise
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -40,8 +38,7 @@ Preise
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                          |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                           |
 
-Organisation
---------------
+## Organisation
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,8 +50,7 @@ Organisation
 
 ------------------------------------------------------------------------
 
-Links
-------------
+## Links
 
 -   [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 -   [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts)
@@ -62,8 +58,7 @@ Links
 
 ------------------------------------------------------------------------
 
-Teilnehmer
------------
+## Teilnehmer
 
 ### Top-platzierte
 
@@ -119,15 +114,13 @@ Teilnehmer
 
 ------------------------------------------------------------------------
 
-K.-o.-Runden
---------------
+## K.-o.-Runden
 
 ![OWC 2013 brackets](img/brackets.jpg)
 
 ------------------------------------------------------------------------
 
-Mappools
------------
+## Mappools
 
 ### Finals
 
@@ -301,8 +294,7 @@ Mappools
 
 ------------------------------------------------------------------------
 
-Ergebnisse aller Partien
---------------------------
+## Ergebnisse aller Partien
 
 ### Finale
 
@@ -422,8 +414,7 @@ Ergebnisse aller Partien
 
 ------------------------------------------------------------------------
 
-Regelsätze
-----------------
+## Regelsätze
 
 ### Turnierregeln
 

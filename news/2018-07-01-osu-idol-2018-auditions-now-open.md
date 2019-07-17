@@ -29,4 +29,3 @@ After the community voting, the top three contestants will receive supporter tag
 Check out the [**official thread**](https://osu.ppy.sh/community/forums/topics/752088) for the contest rules, where to submit, details on the contest and discussion. Come join our [Discord server](https://discord.gg/7hZgNeH) for announcements and updates, ask questions, and a friendly chat!
 
 —Flanster
-

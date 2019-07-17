@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mocha in Summer Fanart Contest Begins!"
-permalink: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 date: 2017-06-14 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 ---
@@ -23,10 +22,9 @@ Make sure to reference Mocha's [official design document](https://assets.ppy.sh/
 The top 10 entries selected by voters will receive 2 months of osu!supporter, as well as get a spot in the in-game background rotations for everyone to enjoy. Yes, these are a regular thing now, and you'll be seeing more options in the game client to support them very shortly.
  
 **The contest will run for 21 days from the date of this post.** You can check precisely how long you have left to submit your entry at the [contest listing page](https://osu.ppy.sh/community/contests/48).
- 
-Rules
------
- 
+
+## Rules
+
 * **Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017).**
 * **The templates above denote WHERE THE osu! COOKIE IS LOCATED IN THE MAIN MENU**. This area should still be filled with illustration, but avoid drawing anything of main focus here as it will usually be hidden.
 * **Entries must meet the size requirements for a main-menu piece** (at least 1366x768, or higher. 2732x1536 is optimal wherever possible.)

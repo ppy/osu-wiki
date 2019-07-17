@@ -24,9 +24,7 @@ September has finally arrived and players are working hard to keep this scorewat
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6SvPtpDqcdM" frameborder="0" allowfullscreen></iframe></br>
 
-
-BLAST FROM THE PAST
------
+## BLAST FROM THE PAST
 
 [Toy](https://osu.ppy.sh/users/2757689) gets featured for this section as he tears through [Kitsune^2 - Tung, The Icelandic Lesbian](https://osu.ppy.sh/beatmaps/114295) with a crazy 96.68% HDDT FC, earning 258pp. This man has quite the control, missing only one slider end through this 240BPM 2011 map!
 
@@ -34,20 +32,17 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0gaQ15jXriU" frameborder="0" allowfullscreen></iframe></br>
 
-NOTABLE MENTIONS
------
+## NOTABLE MENTIONS
 
 [Karthy](https://osu.ppy.sh/users/4196808) has taken the 2nd spot on [DragonForce - Above the Winter Moonlight](https://osu.ppy.sh/beatmaps/908042) with his amazing 99.28% HDHR FC, taking 574pp and beating out the likes of Beafowl, Mathi and FunOrange! With that, he has also leaped into the global top 50!
 
 Amidst the controversy of touchscreen plays, someone has stepped up and taken a 700pp score with the playstyle! Enter [freedomdiver](https://osu.ppy.sh/users/8482062), setting a 90.10% HDNC FC on [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response](https://osu.ppy.sh/beatmaps/1055147?m=0) to take 708pp. Insert civilized discussions of this playstyle here.
 
-SCORESHOW WITH ZSEIKIMATSU
------
+## SCORESHOW WITH ZSEIKIMATSU
 
 [ExGon](https://osu.ppy.sh/users/214187) takes on fellow Korean [[224]Hyperw7](https://osu.ppy.sh/users/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/374606)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r5aKxRfTgw0" frameborder="0" allowfullscreen></iframe></br>
-
 
 
 

@@ -1,26 +1,20 @@
 ---
 layout: post
 title: "Introducing to you: Spotlights"
-permalink: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotlights
 date: 2017-03-18 11:18:47 +0000
 tumblr_url: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotlights
 ---
+
 The Ranking Charts has been since always a part of the osu! ecosystem, presenting the community the most noteworthy beatmaps each month where players compete for the top and mappers gain recognition for exceptional work on their beatmaps. However, after all the changes the charts have had to undergo in the past years, they will now encounter their biggest one yet!
-
-
-<!-- more -->
-
 
 ## Changes
 
 As previously mentioned in the [official development blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting), the overhaul will kick in by firstly renaming the current Ranking Charts to "Spotlights", bringing additional features in the near future such as a new format of prizes for players (and mappers), as well as more regular releasing of Beatmap Packs.
 
-
 As for now, the development team (hi [smoogipooo](https://osu.ppy.sh/users/1040328)!) has put a great deal of effort into fixing the scoreboard issues we had for so long, making the desired competition between players accessible again. Following this, the system will be split into two rubrics - one which will be in the interest of mappers and one which will be for players:
 
 + **Spotlights**: Similar to the previous Charts, this is where the most noteworthy maps of each month will be showcased, awarding the \#1 placed mapper with 1 month of supporter. These maps will be included in the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r).
 + **Themed Spotlights**: [Released in a bi-monthly manner](https://osu.ppy.sh/p/chart), at the end of these months players will be able to compete on themed compilations, such as "Electronic" or "Summer", awarding the \#1 placed player with 1 month of supporter. Additionally, by completing a whole themed pack you will gain achievements.
-
 
 There's much more to come from Spotlights, but for now we will keep that a surprise (!) and stick with the common release of the monthly Spotlights while preparing the remaining upcoming changes. Additionally, we will release a pack you can gain achievements on by completing older chart packs every two months.
 
@@ -31,7 +25,6 @@ Last but not least, we would like to present you the current Spotlight members w
 ## January 2017 Spotlights
 
 With that said, the very first Spotlights for January and February 2017 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH17012). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
-
 
 ### osu! (6)
 
@@ -59,7 +52,6 @@ After the entrancing hit that was Ooedo Ranvu, Pho returns with another REOL map
 
 A great treat to enjoy, with creative but clean patterns utilized in this slow-paced song. Even without possessing an Extra icon, this mapset can definitely pose a challenge to most players. Karen's close attention towards clean aesthetics really help to give a certain personality to his maps, which really defines each difficulty here, being simple but simply beautiful. Not to forget Chaoz's Extra, a fine addition that adds a bit of variety to the mapset.
 
-
 ### osu!taiko (5)
 
 + **[Memme - Force of RA](https://osu.ppy.sh/beatmapsets/539245) by [Arrival](https://osu.ppy.sh/users/1694000)** (Nominator: [OnosakiHito](https://osu.ppy.sh/users/290128))
@@ -81,7 +73,6 @@ A decent map which I would like to mention this month. The mapper iloveyou4ever 
 + [Tamura Yukari - MERRY MERRY MERRY MENU... Ne!](https://osu.ppy.sh/beatmapsets/425994) by [Volta](https://osu.ppy.sh/users/4154071) (Nominator: [Nwolf](https://osu.ppy.sh/users/1910766)
 
 Merry belated Christmas, everyone! This festive set by Volta includes difficulties for everyone to enjoy: A simple Kantan that does feature more dense 1/1 than many other ranked taiko maps, a Futsuu that challenges your sense for rhythm - especially in the kiai part -, a Muzukashii that very carefully introduces you to 1/4 triplets and of course the Oni, which uses a variety of patterns and even complex/rare patterns together with 1/2 finishers, that sure as hell also make DoubleTime plays just so much more difficult! Overall a simplistic, yet fantastic set.
-
 
 ### osu!catch (5)
 
@@ -105,38 +96,23 @@ As well as being a catchy song, Mbomb's Rain is quite unique in it's way of emph
 
 I find this map to convert into osu!catch at a surprisingly high level. I really enjoyed all difficulties and even ended up finishing the Expert with an A because I was swallowed in. That difficulty is a really jumpy one without many hyperdash which just might plays better. And the difficulties are built down from here really nicely. Congratulation to the mapper, really.
 
-
-
 ### osu!mania (5)
 
 + **[kamome sano - eclair au chocolat (extended bittersweet mix)](https://osu.ppy.sh/beatmapsets/505048) by [Lenfried-](https://osu.ppy.sh/users/5314573)** (Nominator: [-Kamikaze-](https://osu.ppy.sh/users/2124783))
 
-Here, we have a very refreshing 7K marathon from Lenfried.
-This map is a combination of a lot of types of technical difficulty, long notes making other patterns uncomfortable, staccato long notes, 1/3 streams, 1/4 streams, 1/6 bursts, 1/8 bursts, SV, you name it.
-It's very neatly ballanced to give players a hard technical challenge, while also accenting the song correctly.
-Especially SV usage is intuitive, fitting the song's pace near perfectly.
-Great map for players who want something diffrent from usual ranked maps.
+Here, we have a very refreshing 7K marathon from Lenfried. This map is a combination of a lot of types of technical difficulty, long notes making other patterns uncomfortable, staccato long notes, 1/3 streams, 1/4 streams, 1/6 bursts, 1/8 bursts, SV, you name it. It's very neatly ballanced to give players a hard technical challenge, while also accenting the song correctly. Especially SV usage is intuitive, fitting the song's pace near perfectly. Great map for players who want something diffrent from usual ranked maps.
 
 + [Gareth Coker - Restoring the Light, Facing the Dark](https://osu.ppy.sh/beatmapsets/524596) by [Halogen-](https://osu.ppy.sh/users/169992) (Nominator: [juankristal](https://osu.ppy.sh/users/443656))
 
-Well, where do I start with this one. Even if it sounds weird, Restoring the Light, Facing the Dark is a perfect title to describe all what this map had to face before hitting ranked (you can read the description of this beatmap if you want to know more!). As it is usual from Halogen-, the quality of this beatmap is on top of what we tend to see ranked nowadays and not only that, this is a 6K set!
-Overall the pitch relevance used into this one is just magnific, its executed in a really impresive way and its super enjoyable. Prepare yourself for some trill action and tricky LN sections. Definetly a great map to get into 6K if you are not a player of this particular keymode.
+Well, where do I start with this one. Even if it sounds weird, Restoring the Light, Facing the Dark is a perfect title to describe all what this map had to face before hitting ranked (you can read the description of this beatmap if you want to know more!). As it is usual from Halogen-, the quality of this beatmap is on top of what we tend to see ranked nowadays and not only that, this is a 6K set! Overall the pitch relevance used into this one is just magnific, its executed in a really impresive way and its super enjoyable. Prepare yourself for some trill action and tricky LN sections. Definetly a great map to get into 6K if you are not a player of this particular keymode.
 
 + [DJ TOTTO VS TOTTO - Vajra](https://osu.ppy.sh/beatmapsets/432015) by [biemote](https://osu.ppy.sh/users/799606) (Nominator: [Feerum](https://osu.ppy.sh/users/4815717))
 
-Did someone say "Anti-Meta"??
-That's right! Here we have something really rare. A mapset which include 6K and 8K (7+1K)
-The 6K Set is by biemote. To the spread itself is not much to say. All difficulties are really well made. Especially the middle part of the beatmap stands a bit out because of the pretty clever jack usage according to the piano pitch.
-The 8K or also called 7+1K difficulties are by [Emiria] who is already known to make pretty interesting 7+1K beatmaps.The basic is a collab between both mappers in the set which introduce the player really well into the 7+1K gameplay. The Leggendaria difficulty begins with some more dense double stairs and heavier scratch usage which turns in the middle into a little bit calmer part. But what is really interesting is the Kiai/Chorus part which has a little bit the style of a typical BMS chart especially the end of the chorus where the beatmap gets more and more dense.
-A really well made beatmap here and now go and play it! Don't wait any longer. Stop reading right here and try it!
+Did someone say "Anti-Meta"?? That's right! Here we have something really rare. A mapset which include 6K and 8K (7+1K). The 6K Set is by biemote. To the spread itself is not much to say. All difficulties are really well made. Especially the middle part of the beatmap stands a bit out because of the pretty clever jack usage according to the piano pitch. The 8K or also called 7+1K difficulties are by [Emiria] who is already known to make pretty interesting 7+1K beatmaps.The basic is a collab between both mappers in the set which introduce the player really well into the 7+1K gameplay. The Leggendaria difficulty begins with some more dense double stairs and heavier scratch usage which turns in the middle into a little bit calmer part. But what is really interesting is the Kiai/Chorus part which has a little bit the style of a typical BMS chart especially the end of the chorus where the beatmap gets more and more dense. A really well made beatmap here and now go and play it! Don't wait any longer. Stop reading right here and try it!
 
 + [Orange Heart(cv:Honda Mariko) Neptune(cv:Tanaka Rie) - Mousou Katharsis](https://osu.ppy.sh/beatmapsets/535272) by [_underjoy](https://osu.ppy.sh/users/2235750) (Nominator: [-Kamikaze-](https://osu.ppy.sh/users/2124783))
 
-And here we have the first 7K mapset ranked by underjoy!
-Known mostly for his 4K charts, underjoy shows in this mapset that he can chart really interesting 7K maps as well.
-With 2 difficulty spread, it's a very technical and complex long note oriented chart, aimed at those who want to train such patterns.
-Mousou starts off relatively tame, getting harder and harderwith each section, going into pretty complex chains and inversions in the last chorus, following the song's feelings with increasing intensity.
-It's a very fun chart, which despite having very low SR, is very challenging and tricky for all players.
+And here we have the first 7K mapset ranked by underjoy! Known mostly for his 4K charts, underjoy shows in this mapset that he can chart really interesting 7K maps as well. With 2 difficulty spread, it's a very technical and complex long note oriented chart, aimed at those who want to train such patterns. Mousou starts off relatively tame, getting harder and harderwith each section, going into pretty complex chains and inversions in the last chorus, following the song's feelings with increasing intensity. It's a very fun chart, which despite having very low SR, is very challenging and tricky for all players.
 
 + [Helblinde - Memoria (Original Mix)](https://osu.ppy.sh/beatmapsets/518266) by [Manwon](https://osu.ppy.sh/users/4129020) (Nominator: [_underjoy](https://osu.ppy.sh/users/2235750))
 
@@ -144,10 +120,7 @@ Memoria is probably one of the most controversial and unique mapsets that made i
 
 + [LOLI RIPE - All I wanna do is touch your power points](https://osu.ppy.sh/beatmapsets/474288) by [laughingcomet](https://osu.ppy.sh/users/3432877) (Nominator: [juankristal](https://osu.ppy.sh/users/443656))
 
-Everyone say hello laughingcomet who is just entering the ranked section!
-Its impressive to see someone just joining the mapping scene with such an interesting and agressive style. This map features a lot of jacking (or handjacking I suppose we can call it that way) and really fun SVs that fits the song in a hard, yet sightreadable, way. This map is intense as the song but I can bet you will laugh once or twice while playing it, specially if you never heared the song before.
-Overall this mapset is a good choice if you like this style of music or you just want something kinda different as this one definetly has his uniqueness. And fear not those who arent strong enought for the highest difficulties, the set has 5 difficulties designed for all the levels of play.
-
+Everyone say hello laughingcomet who is just entering the ranked section! Its impressive to see someone just joining the mapping scene with such an interesting and agressive style. This map features a lot of jacking (or handjacking I suppose we can call it that way) and really fun SVs that fits the song in a hard, yet sightreadable, way. This map is intense as the song but I can bet you will laugh once or twice while playing it, specially if you never heared the song before. Overall this mapset is a good choice if you like this style of music or you just want something kinda different as this one definetly has his uniqueness. And fear not those who arent strong enought for the highest difficulties, the set has 5 difficulties designed for all the levels of play.
 
 ## February 2017 Spotlights
 
@@ -177,8 +150,6 @@ Irreversible shocked us with a very interesting approach to vocal mapping. Once 
 
 Sometimes, when older mappers rise from the grave, it almost seems like they forgot how to map. Clearly not the case with Delis! This mapset still has the charms from 3-4 years ago, but can easily keep up with modern standards! Especially impressive is the very varied patterning that still feels cohesive and the great flow that goes along with it! The lower difficulties are also really well mapped, making this mapset great for players of all skill levels.
 
-
-
 ### osu!taiko (5)
 
 + **[Nekomata Master+ - encounter](https://osu.ppy.sh/beatmapsets/474003) by [tasuke912](https://osu.ppy.sh/users/2774767)** (Nominator: [Arrival](https://osu.ppy.sh/users/1694000))
@@ -200,8 +171,6 @@ Easy approval here! The map is a great representation of the music itself, slow 
 + [Ryu* - ¡Viva!](https://osu.ppy.sh/beatmapsets/526265) by [qoot8123](https://osu.ppy.sh/users/766371) and [-Anhedonia-](https://osu.ppy.sh/users/920861) (Nominator: [Nwolf](https://osu.ppy.sh/users/1910766))
 
 Hooray! What an unusual song! qoot8123 and -Anhedonia- (previously known as "kazukisinx") present you some difficult off-beat rhythms across all difficulties, starting qoot's Futsuu, which uses many and long 3/4+1/2 patterns. This is followed by the very tricky Muzukashii and Oni, which both use 1/4 doublet patterns (and of course longer streams) that start and/or end off-beat. Overall a decent set for this caribic party-feel song.
-
-
 
 ### osu!catch (5)
 
@@ -225,8 +194,6 @@ This map is quite entertaining for it's smooth game-play and experimentation wit
 
 The players who've been around here for a long time probably have seen a map or two of this song, but it just never gets old! With the sense of nostalgia for the veteran and the fast-paced difficulty for the fresh player, this convert contains stream patterns combined with jumps that might throw one off if not prepared for. While this isn't really hardcore stuff here (pal), it still is quite the enjoyable map!
 
-
-
 ### osu!mania (5)
 
 + **[TeddyLoid - ME!ME!ME! feat. daoko](https://osu.ppy.sh/beatmapsets/236697) by [LordRaika](https://osu.ppy.sh/users/3265023)** (Nominator: [Jinjin](https://osu.ppy.sh/users/3360737))
@@ -243,11 +210,7 @@ I am still unsure about the moment I first found this map. I dont even remember 
 
 + [Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx)](https://osu.ppy.sh/beatmapsets/490717) by [[Shana Lesus]](https://osu.ppy.sh/users/2881789) (Nominator: [Feerum](https://osu.ppy.sh/users/4815717))
 
-For me this Set is something special. We have here a pretty interesting 4K Beatmap which has 3 difficulties. An Easy for new player, a Hard for more experienced player and a Insane for these who are looking for a challenge! I really like this because we doesn't have a lot of Easy Maps which go over 5min in osu!mania. Shana tried to create here something for everyone and i have to say: Success!
-The Easy difficulty has really basic pattern which are playable for everyone, even for people who never touched osu!mania before. Some try's and i'm sure they can get a S!
-The Hard is something for more experianced player. A lot of 1/2 pattern combined with short 1/4 pattern. Also several LN sections make this beatmap really nice to play and give it the needed variety.
-The Insane uses a lot of jumpstreams combined with a lot of Minijacks. These jumpstreams have also several 1/8 sections. The usage of long notes gets also higher in the middle of the beatmap what gives it here the needed variety.
-Overall a really nice and challenging beatmap for everyone, Newcomer and experienced osu!mania player!
+For me this Set is something special. We have here a pretty interesting 4K Beatmap which has 3 difficulties. An Easy for new player, a Hard for more experienced player and a Insane for these who are looking for a challenge! I really like this because we doesn't have a lot of Easy Maps which go over 5min in osu!mania. Shana tried to create here something for everyone and i have to say: Success! The Easy difficulty has really basic pattern which are playable for everyone, even for people who never touched osu!mania before. Some try's and i'm sure they can get a S! The Hard is something for more experianced player. A lot of 1/2 pattern combined with short 1/4 pattern. Also several LN sections make this beatmap really nice to play and give it the needed variety. The Insane uses a lot of jumpstreams combined with a lot of Minijacks. These jumpstreams have also several 1/8 sections. The usage of long notes gets also higher in the middle of the beatmap what gives it here the needed variety. Overall a really nice and challenging beatmap for everyone, Newcomer and experienced osu!mania player!
 
 + [RIN - Pluto -Tenderness](https://osu.ppy.sh/beatmapsets/430938) by [MEGAtive](https://osu.ppy.sh/users/3094101) (Nominator: [juankristal](https://osu.ppy.sh/users/443656))
 
@@ -258,6 +221,5 @@ If I have to define this map with just two words I would probably say "Hidden Ge
 The spotlights have previously been created by letting volunteers alongside the Quality Assurance Team select the most noteworthy maps of this month.
 
 **The January and February 2017 Spotlights will end on the 15th April 2017.**
-
 
 —OnosakiHito

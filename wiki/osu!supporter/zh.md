@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # osu!supporter
 
 ![osu!supporter 标志](/wiki/shared/osu!supporter.png "osu!supporter 标志")
@@ -56,8 +57,7 @@ outdated: true
 
 ![购买 osu!supporter 的例子](O!s_Decide.jpg "购买 osu!supporter 的例子")
 
-付款
--------
+## 付款
 
 确认期限和账户后，点击“添加到购物车”，确认无误后点击“Checkout”。在此之后，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如银联支付和微信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
 

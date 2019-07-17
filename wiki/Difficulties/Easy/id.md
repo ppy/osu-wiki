@@ -1,5 +1,4 @@
-Easy (Difficulty)
-===================================
+# Easy (Difficulty)
 
 Kesulitan Easy mudah untuk dilakukan begitu anda telah terbiasa. Pertama-tama, mulai dengan pengaturan kesulitan yang direkomendasikan berikut ini:
 
@@ -15,8 +14,7 @@ Atur [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) menjadi 1/1, la
 
 Sekarang, ritme utamamu di sini adalah *beat* yang lainnya. awali dengan [downbeat](/wiki/Beatmap_Editor/Timing) dan mulai menempatkan *hit circle* di *beat* yang lainnya. Namun, anda akan menemukan bahwa ini membosankan dan membuatmu ingin tidur. Ini mengapa kita kembali dan mengedit berbagai hal untuk merapikan berbagai hal sedikit supaya para pemain tidak mati kebosanan. Kau akan perlu melakukan 3 hal:
 
-Tepat pada irama
-----------------
+## Tepat pada irama
 
 Bayangkan bahwa a"." adalah sebuah irama tanpa *hit circles*, dan "o" adalah sebuah irama dengan *hit circles*. Ini adalah sebuah pola sederhana yang dapat kau coba:
 
@@ -28,15 +26,13 @@ OOO.OOO.
 
 Pola itu bekerja dengan baik juga. Jika anda sedang malas, anda dapat menggunakan pola yang pertama selama di *verse* dan pola kedua selama di *chorus*. Tapi, anda pasti tidak mau terlihat jelas kalau anda sedang malas, jadi ya..
 
-Penggunaan slider
------------------
+## Penggunaan slider
 
 *slider* berkisar 2 *beat* dan *slider* panjang bersifat intuitif di sini. *slider* berkisar 1 *beat* sering tidak bekerja dengan baik di sini hanya karena kecepatan slider anda terlalu rendah sehingga *slider* itu terlihat kecil, tidak nampak seperti *slider*.
 
 Anda juga dapat menambahan *spinner* di akhir untuk poin bonus.
 
-Telihat menarik secara visual
------------------------------
+## Telihat menarik secara visual
 
 Karena *Map* nya dianggap mudah, direkomendasikan untuk membuat *map* nya menjadi menarik secara visual karena dengan itu pola nya akan dianggap dan di hargai di *easy*.
 

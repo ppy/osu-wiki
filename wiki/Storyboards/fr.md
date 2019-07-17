@@ -1,5 +1,4 @@
-Storyboards
-===========
+# Storyboards
 
 ![Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"](Sbpassing.png "Vous pouvez voir cette scène dans Walkie Talkie Man. Cependant, elle apparaît seulement quand vous obtenez un "Elite Beat 300"")
 ![Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.](Sbfailing.png "Ceci apparait quand vous ratez ou obtenez un 50 sur le combo précédent.")
@@ -8,15 +7,13 @@ Une **Storyboard** (SB) est un fond animé accompagnant le [Beatmap](/wiki/Gloss
 
 Les Storyboards sont assez difficiles à créer et demandent une certaine connaissance dans le domaine de l'animation et du graphisme.
 
-Créer une Storyboard
---------------------
+## Créer une Storyboard
 
 L'[Éditeur de Storyboards](/wiki/Storyboard_Editor) (SBE) est situé dans la partie Design (Touche F2) de l’Éditeur de Beatmaps. A la base, le SBE offre aux utilisateurs un moyen simple de contrôler des images, mais il est souvent jugé imprécis et inutilisable pour les Storyboards plus complexes.
 
 Les mappers doués en Storyboarding recourent souvent à la modification du code généré par le SBE, appelé aussi [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS), du fait qu'il leur offre plus de possibilités.
 
-Storyboards Complètes
----------------------
+## Storyboards Complètes
 
 Avec la création de l'Editeur de Storyboards pour créer des effets graphiques simples, la liste des Beatmaps [Rankées](/wiki/Beatmaps) contenant des Storyboards [est assez longue](https://osu.ppy.sh/p/beatmaplist?s=7&o=1&q=&r=0&g=0&la=0&sb=1). Cependant, cette page ne liste que les beatmaps ayant une Storyboard "Complète".
 

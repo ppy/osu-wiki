@@ -1,8 +1,6 @@
-Format plików osu!
-=================
+# Format plików osu!
 
-Specyficzne formaty plików osu!
----------------------------------
+## Specyficzne formaty plików osu!
 
 ### Archiwum
 
@@ -12,7 +10,7 @@ Specyficzne formaty plików osu!
 | [.osk][Osk Link]       | Uruchamialny plik ze skórką.                                                                                           |
 | [.db][Db Link]          | Plik bazy danych. (Nie dotykać!)                                                                                       |
 
-### [Edytor beatmap](/wiki/Beatmap_Editor)
+### Edytor beatmap
 
 | Format                                         | Korzystanie                                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -25,8 +23,7 @@ Specyficzne formaty plików osu!
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr][Osr Link]        | Uruchamialny plik z powtórką (nie może zostać zdekompresowany).                                                        |
 
-Tworzenie pliku .osz/.osk
----------------------------
+## Tworzenie pliku .osz/.osk
 
 Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otworzeniu, plik .osz zostanie rozpakowany przez osu!.exe i przeniesiony do folderu "Songs" podczas gdy plik .osk zostanie rozpakowany i przeniesiony do folderu "Skins". Domyślnie, pliki beatmap pobrane bezpośrednio z oficjalnej strony są w formacie .osz. Tworzenie pliku .osz/.osk to fundementalna wiedza dla odpowiedniej grupy społeczności tworzącej beatmapy, storyboardy oraz skórki.
 

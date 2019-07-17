@@ -5,6 +5,7 @@ tags:
 - all pages
 - all articles
 ---
+
 # Sitemap
 
 -   [About](/wiki/About)
@@ -262,7 +263,7 @@ tags:
         -   [2016](/wiki/Tournaments/OWC/2016)
         -   [2017](/wiki/Tournaments/OWC/2017)
     -   RMoT Invitational
-        -   [2](/wiki/Tournaments/RMoT_Invitational/2)
+        -   [2](/wiki/Tournaments/RMoTI/2)
     -   TWC
         -   [2011](/wiki/Tournaments/TWC/2011)
         -   [2014](/wiki/Tournaments/TWC/2014)

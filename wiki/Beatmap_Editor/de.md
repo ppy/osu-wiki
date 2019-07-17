@@ -1,5 +1,4 @@
-Beatmap Editor
-=========================
+# Beatmap Editor
 
 ![Kompositionseditor im Fenstermodus](Compose/Compose.png "Kompositionseditor im Fenstermodus")
 
@@ -10,8 +9,7 @@ Der **Beatmap Editor** ist osu!s grafisches Ingame-Interface zum Erstellen von [
 -   [Timing](/wiki/Beatmap_Editor/Timing): Hier wird die BPM und Offset des Liedes eingestellt. Hier werden auch die Hitsounds eingestellt, wenn nicht nur ein Sample benutzt wird.
 -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup): Hier werden spezielle Einstellungen an der Beatmap vorgenommen. Schwierigkeitseinstellungen, Kombofarben, usw.
 
-Zusammenhängende Artikel
-------------------------
+## Zusammenhängende Artikel
 
 -   [Beatmapping](/wiki/Beatmapping) (Grundladen zum Mapping)
 -   [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)

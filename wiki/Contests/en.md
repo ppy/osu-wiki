@@ -1,4 +1,4 @@
-﻿[o!s]: /wiki/shared/mode/osu.png
+[o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
 [o!m]: /wiki/shared/mode/mania.png

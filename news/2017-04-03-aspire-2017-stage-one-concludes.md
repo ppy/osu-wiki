@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Aspire 2017 Stage One Concludes"
-permalink: http://osunews.tumblr.com/post/159160085153/aspire-2017-stage-one-concludes
 date: 2017-04-03 19:10:27 +0000
 tumblr_url: http://osunews.tumblr.com/post/159160085153/aspire-2017-stage-one-concludes
 ---
+
 With a thunderous conclusion, the first stage of Aspire 2017 is over - and we have a clear and decisive winner. Read on to find out more, including details about the next stage of the contest slated to begin this month!
-<!-- more -->
 
 ![](https://assets.ppy.sh/contests/43/header.jpg)
 
@@ -24,9 +23,7 @@ Blowing away the competition with OUTSTANDING scores in all categories, and univ
 
 **Somber Ibis**, by [ProfessionalBox](https://osu.ppy.sh/users/3250792), with a total score of **76.5/80**, and **2732** unique votes.
 
-
 <iframe width="750" height="315" src="https://www.youtube.com/embed/9vlfePGNJ9M" frameborder="0" allowfullscreen></iframe>
-
 
 Well known among the mapping community already for his incredible knowledge of the editor and patterning proficiency, **ProfessionalBox** created a truly incredible spectacle to behold - taking the game to its absolute limits, producing a map the likes of which osu! has never seen before.
 
@@ -40,9 +37,7 @@ His entry went above and beyond our greatest expectations for this contest. So s
 
 Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/users/1583218), with a score of **57/80** and **1872** unique votes.
 
-
 <iframe width="750" height="315" src="https://www.youtube.com/embed/6--oSDTwyxU" frameborder="0" allowfullscreen></iframe>
-
 
 Incorporating an eerily dark and mysterious storyboard into his work, **MinG3012** lived up to his reputation of breaking the game in every conceivable way - producing a beatmap so utterly broken that it requires hitlighting disabled to even function, and even then, success is not guaranteed.
 
@@ -56,11 +51,7 @@ Despite it all, **MinG3012**'s work is an absolute spectacle to behold, and it c
 
 Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/users/2003326) with a score of **54.25/80** and **1547** unique votes.
 
-
 <iframe width="750" height="315" src="https://www.youtube.com/embed/AHXYaVgdolQ" frameborder="0" allowfullscreen></iframe>
-
-
-
 
 Stealing the hearts of our meme-loving community with a fantastic twist on the slider animation gimmick established in last year's Aspire, **Emilia**'s infamous dab-slider will be cherished fondly by all.
 

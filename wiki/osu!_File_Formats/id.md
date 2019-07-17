@@ -1,8 +1,6 @@
-Format Berkas Osu!
-==================
+# Format Berkas Osu!
 
-osu!-specific file format
---------------------------
+## osu!-specific file format
 
 ### Archive
 
@@ -12,7 +10,7 @@ osu!-specific file format
 | [.osk][Osk Link]       | skin file.                                                                                                |
 | [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
 
-### [Beatmap Editor](/wiki/Beatmap_Editor)
+### Beatmap Editor
 
 | File format                                 | Kegunaan                                                                                            |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -25,8 +23,7 @@ osu!-specific file format
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [.osr][Osr Link]        | replay file (tidak bisa decompress).                                                                      |
 
-Membuat file .osz/.osk
--------------------------
+## Membuat file .osz/.osk
 
 .osz/.osk adalah file extensi dari osu!.exe. Jika membuka, .osz file akan otomatis mengekstrak ke osu!.exe dan dipindahkan ke folder "Songs" .osk akan diekstrak otomatis dan dipindahkan ke folder "Skins". Secara default, beatmap files dapat didownload lewat website dengan format file .osz. Membuat file .osz/.osk adalah basik dari pengetahuan untuk beatmaping/storyboarding dan skinning.
 

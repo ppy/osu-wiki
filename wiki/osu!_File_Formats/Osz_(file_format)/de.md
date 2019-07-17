@@ -1,5 +1,4 @@
-.osz (Dateiformat)
-===================
+# .osz (Dateiformat)
 
 **.osz** ist ein Beatmapdateiformat, welches Hitsounds, .osu Datei, Skin Elemente, .osb Datei und Storyboard Elemente enthalten kann.
 

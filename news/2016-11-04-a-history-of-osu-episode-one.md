@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "A History of osu!: Episode One"
-permalink: http://osunews.tumblr.com/post/152720784003/a-history-of-osu-episode-one
 date: 2016-11-04 08:37:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/152720784003/a-history-of-osu-episode-one
 ---
+
 As osu! slowly plods along towards its 10 year anniversary and the coming of osu!next, the academy team have decided to take some time to dial it right back, and take a good look at osu! as it has developed throughout the years. Come see for yourself how osu! has grown in this new multi-part series by the osu!academy.
-<!-- more -->
 
 Over the past 9 years, osu! has undergone a number of changes - from developments in the game's client, to the community and how it is run, and much much more. As we advance further into the future, all of these aspects are likely to keep changing. Sometimes though, it's important to take a step back and look at how we got to where we are.
 

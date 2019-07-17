@@ -1,10 +1,8 @@
-.osr 文件
-========
+# .osr 文件
 
 **.osr** 是一种包含osu!回放信息的文件格式。想要使用它，回放所指定的地图必须存在于 "Songs"文件夹。
 
-数据类型
---------
+## 数据类型
 
 | 名称 | 字节数 | 描述 |
 | ---- | ----- | ----------- |
@@ -15,8 +13,7 @@
 | ULEB128 | 可变 | 一个可变长度的Integer。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
 | String | 可变 | 拥有3部分： 第一个byte如果是0x00，表示下面两部分不存在。如果是0x0b（十进制为11），表示下面两部分存在。如果是0x0b，下面会有一个ULEB128，代表字符串的长度。然后是字符串本身，使用UTF-8编码，参阅 [UTF-8](http://en.wikipedia.org/wiki/UTF-8) |
 
-格式
-----
+## 格式
 
 由于长度可变，字节偏移不包含在此表中。 （原文：Byte offsets are not included in this table due to variable length values. ）
 
@@ -53,8 +50,7 @@
 | y    | Float    | 鼠标的Y坐标（从0到384）                                |
 | z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
 
-Mods
-----
+## Mods
 
 可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 

@@ -2,18 +2,15 @@
 outdated: true
 ---
 
-ทีม
-=====
+# ทีม
 
-ผู้สร้าง
-----------------------
+## ผู้สร้าง
 
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |
 | [peppy](https://osu.ppy.sh/users/2) | ผู้นำโครงการ |
 
-ใช้งาน
-----------------------
+## ใช้งาน
 
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |
@@ -28,8 +25,7 @@ outdated: true
 | [ztrot](https://osu.ppy.sh/users/6347) | ผู้ฝึกสอนที่ osu!academy, ออกแบบสื่อ/ตัวละคร |
 | [Zallius](https://osu.ppy.sh/users/55) | บุคคลหายาก |
 
-ไม่ได้ใช้งาน
-----------------------
+## ไม่ได้ใช้งาน
 
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |
@@ -37,7 +33,7 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, จัดการเกี่ยวกับสังคมในเกม |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | ทีม osu! dev, บูรณาการ IRC แชทของในเกม, ซ่อมบำรุงเว็บไซต์ |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | ทีม osu! dev, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  	ออกแบบเว็บไซต์ |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | ออกแบบเว็บไซต์ |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | ออกแบบ Epic skin, มีส่วนร่วมในการทำสกิน default และ iconset |
 | [mm201](https://osu.ppy.sh/users/30655) | ทีม osu! dev, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | พัฒนา osu! iPhone |
@@ -46,8 +42,7 @@ outdated: true
 | [Sinistro](https://osu.ppy.sh/users/5530) | รายงานการประชุม, มีส่วนร่วมใน FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | ทีม osu! dev, พัฒนาโหมด osu!mania |
 
-กลุ่มของผู้ใช้งาน
-----------------------
+## กลุ่มของผู้ใช้งาน
 
 | ชื่อ | ลักษณะ |
 | ---- | ----------- |

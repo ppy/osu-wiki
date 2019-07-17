@@ -8,7 +8,7 @@ With another two Sundays come another 24 beatmaps nominated in [Project Loved](h
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 We've been listening to your feedback, and after some internal debate, we decided to lower osu!standard's Loved voting threshold to 85%—halfway between the previous 80 and 90. While with 80% it felt as if some maps being moved to Loved didn't quite fit the title, 90% proved to be suboptimal as well, due to the increased power given to "No" votes. Since this threshold is admittedly pretty arbitrarily decided, we'll continue to set it based on trial-and-error, and for now are going with the middleground of 85%. After confirming this with you guys via [the poll on our forum](https://osu.ppy.sh/community/forums/topics/816187), this will now be the first round to use it.
 
@@ -221,7 +221,7 @@ This mapset by a Russian duo of DarkSider2442 and Kivicat with a guest difficult
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

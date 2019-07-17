@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "osu!World Cup 2016: Results"
-permalink: http://osunews.tumblr.com/post/154875453203/osuworld-cup-2016-results
 date: 2016-12-24 02:56:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/154875453203/osuworld-cup-2016-results
 ---
-Hello everyone, Evrien here, assigned with the task of informing you the final results of osu! World Cup 2016. Spanning across 6 exciting and hype-filled weekends, the OWC 2016 saw 32 teams representing player communities around the world. Needless to say, the excitement was almost tangible in the air, and this winter was set ablaze by the passion and support from everyone involved.
 
-<!-- more -->
+Hello everyone, Evrien here, assigned with the task of informing you the final results of osu! World Cup 2016. Spanning across 6 exciting and hype-filled weekends, the OWC 2016 saw 32 teams representing player communities around the world. Needless to say, the excitement was almost tangible in the air, and this winter was set ablaze by the passion and support from everyone involved.
 
 Without further ado, here are the Top 3 Teams of OWC 2016.
 

@@ -1,10 +1,8 @@
-Akademia osu!
-===============
+# Akademia osu!
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
-Wprowadzenie
----------------
+## Wprowadzenie
 
 Źródło: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
 Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
@@ -16,8 +14,7 @@ Mamy nadzieję, że filmiki te przekażą potrzebne informacje nowym graczom ora
 
 [Teraz ze zwiastunem!](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
-Odcinki
-----------
+## Odcinki
 
 Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 

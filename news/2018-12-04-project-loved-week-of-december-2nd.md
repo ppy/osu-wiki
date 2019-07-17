@@ -8,7 +8,7 @@ Who's ready to get some more maps Loved? [Project Loved](https://osu.ppy.sh/comm
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 Some of you may remember how the osu!standard captains previously raised the voting threshold to 90%, only to later decrease it back to 85. We want to give those maps that were denied their admission into Loved a fair chance, so this round we are adding a section for what [Toy](https://osu.ppy.sh/users/2757689) calls "redemption voting": any map previously denied at a vote percentage higher than 85% will have a new poll opened alongside the other maps this week. As usual, there will still be 10 standard maps nominated independent of this section.
 
@@ -244,7 +244,7 @@ And for our last pick we have a chart that should be familiar if you're followin
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [clayton](https://osu.ppy.sh/users/3666350), [Ephemeral](https://osu.ppy.sh/users/102335), [Noffy](https://osu.ppy.sh/users/1541323) and [Toy](https://osu.ppy.sh/users/2757689) for their miscellaneous help in managing Project Loved.
 

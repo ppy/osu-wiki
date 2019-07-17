@@ -1,10 +1,8 @@
 # FAQ
 
-Introducción
-============
+# Introducción
 
-Nunca he jugado esta cosa "Ouendan" - ¿Qué es?
-----------------------------------------------
+## Nunca he jugado esta cosa "Ouendan" - ¿Qué es?
 
 [Osu! Tatakae! Ouendan](wikipedia:es:Osu!_Tatakae!_Ouendan "wikilink") es un juego de ritmo creado para Nintendo DS. El juego se compone de solo tres elementos: tocar los círculos de la pantalla, arrastrar una bola a través de una trayectoria establecida y rotar un spinner (ruleta) muy rápido. Todos estos elementos son sincronizados con canciones japonesas populares. Se ve algo así en la DS:
 
@@ -12,8 +10,7 @@ Nunca he jugado esta cosa "Ouendan" - ¿Qué es?
 
 Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tienes la historia. Cada etapa es básicamente una historia independiente sobre una persona en problemas. Aquí es donde el Ouendan (Equipo de las Animadoras) viene. A través del poder mágico de los hombres porristas, tienes que ayudar a las personas en problemas.
 
-¿Cómo puedo jugar?
-------------------
+## ¿Cómo puedo jugar?
 
 *Explicación completa: [osu! Standard](ES:Standard "wikilink")*
 
@@ -90,11 +87,9 @@ Esta es la interfaz del estilo de juego osu! Standard.
 -   El círculo al lado de tu precisión y debajo de tu puntaje es la barra de tiempo, que muestra la duración de la canción.
 -   El número en la parte inferior izquierda es el contador de combo/multiplicador de puntaje.
 
-Otros Modos de Juego
-====================
+# Otros Modos de Juego
 
-¿Qué es "Taiko"?
-----------------
+## ¿Qué es "Taiko"?
 
 *Explicación completa: [Taiko](ES:Taiko "wikilink")*
 
@@ -142,8 +137,7 @@ Los controles por defecto del modo Taiko son:
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.
 
-¿Qué es "Catch the Beat"?
--------------------------
+## ¿Qué es "Catch the Beat"?
 
 [200px|thumb|right|Jugando Catch The Beat.](image:ctbaqua.jpg "wikilink")
 
@@ -159,8 +153,7 @@ Si el mod [relax](ES:Relax "wikilink") es usado, el catcher se controla moviendo
 -   Por defecto, las flechas izquierda \[&lt;-\] y derecha \[-&gt;\] son usadas para mover al catcher.
 -   Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
 
-¿Qué es "osu!mania"?
---------------------
+## ¿Qué es "osu!mania"?
 
 ![ thumb | 200px | Ejemplo de juego (7K)]( Mania screenshot.jpg  " thumb | 200px | Ejemplo de juego (7K)")
 
@@ -258,13 +251,11 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 </tbody>
 </table>
 
-Scoring (Puntaje)
-=================
+# Scoring (Puntaje)
 
 *Una explicación detallada del "scoring" puede ser encontrada en la página respectiva de cada modo de juego.*
 
-Notas
------
+## Notas
 
 **<u>Notas Normales</u>**
 
@@ -290,11 +281,9 @@ Notas
 -   **Las notas dadas a tu perfil dependen de la dificultad, no del betmap en conjunto.**
     -   Por ejemplo, si el beatmap tiene 3 dificultades, y tienes SS en las tres, recibirás 3 SS y no solo una SS en tu perfil.
 
-Problemas y Preguntas Frecuentes
-================================
+# Problemas y Preguntas Frecuentes
 
-¿Donde puedo encontrar beatmaps?
---------------------------------
+## ¿Donde puedo encontrar beatmaps?
 
 *Explicación detallada de los beatmaps: [Beatmaps](ES:Beatmaps "wikilink")*
 
@@ -302,13 +291,11 @@ Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https:
 
 -   Solo recuerda loggearte en tu cuenta de osu! de antemano o el servidor te tratará de invitado y te prohibirá descargar beatmaps desde el sitio web.
 
-¿Puedo desactivar el "Kiai Time"?
----------------------------------
+## ¿Puedo desactivar el "Kiai Time"?
 
 No, porque a diferencia del video, estos son integrados en el juego (como parte de los objetos), por lo tanto no puede ser desactivado.
 
-¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
--------------------------------------------------------------------------------------
+## ¡Los beatmaps son muy difíciles! ¿Dónde puedo encontrar algunos beatmaps más fáciles?
 
 Pokebis ha compilado un conjunto de beatmaps adecuados para principiantes. Puedes encontrarlos aquí: <https://osu.ppy.sh/community/forums/topics/5456>
 
@@ -316,32 +303,27 @@ Además, [la versión rankeada del beatmap del tutorial de osu!](https://osu.ppy
 
 Alternativamente, puedes [ordenar la lista de betmaps rankeados por dificultad](https://osu.ppy.sh/?p=beatmaplist&s=3). Los beatmaps más fáciles están encima de la lista.
 
-¿Qué hace el nivel de mi perfil realmente?
-------------------------------------------
+## ¿Qué hace el nivel de mi perfil realmente?
 
 Absolutamente nada. No hay ningún tipo de diferencia cuando comparas a un jugador Nivel 100 contra un jugador Nivel 1 excepto sus propias habilidades y su experiencia. No existe una desventaja para el nivel más bajo, ni existe una ventaja para el nivel más alto (excepto la experiencia personal y el hardware usado).
 
 El nivel se basa en tu puntaje total acumulado cuando estas "online" con tu cuenta si fallas o pasas el beatmap. [Fórmula aquí](ES:Score#Level "wikilink")
 
-¿Por qué las estadísticas de mi perfil son diferentes con las del juego?
-------------------------------------------------------------------------
+## ¿Por qué las estadísticas de mi perfil son diferentes con las del juego?
 
 Probablemente estés viendo tus estadísticas en el modo de juego incorrecto. Haz Click en el modo que estás jugando en tu perfil. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
 
-¿Por qué veo líneas blancas aleatorias en la pantalla cada vez que juego?
--------------------------------------------------------------------------
+## ¿Por qué veo líneas blancas aleatorias en la pantalla cada vez que juego?
 
 Asegúrate de que las teclas asignadas al smoke/skywriting no sean las mismas que las teclas que usas al jugar.
 
 <File:Smoke> effect.jpg| Uso de *smoke* <File:Screenshot085.jpg>| Ubicación de *smoke*
 
-¿Por qué no tengo el combo máximo posible cuando no tengo errores?
-------------------------------------------------------------------
+## ¿Por qué no tengo el combo máximo posible cuando no tengo errores?
 
 Soltaste un slider demasiado pronto. También es posible perder el combo si lo empiezas demasiado tarde. [Fuente de la respuesta](http://www.reddit.com/r/osugame/wiki/index)
 
-Créditos
-========
+# Créditos
 
 -   FAQ viejo de peppy
 -   Peter Lambert - osu! tutorial ([Tutorial original](https://osu.ppy.sh/beatmapsets/3756), [Versión rankeada](https://osu.ppy.sh/beatmapsets/19928))

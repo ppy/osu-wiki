@@ -1,5 +1,4 @@
-Easy
-========
+# Easy
 
 Die Schwierigkeitsstufe, Easy, ist leicht zu erstellen, sobald ihr einmal den Dreh heraus habt. Als erstes solltet ihr folgende Einstellungen für eure Schwierigkeitsstufe machen:
 
@@ -15,8 +14,7 @@ Stellt den [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) auf 1/1, 
 
 Nun sollte eure Hitcircle-Platzierung so aussehen, dass ihr auf jeden weißen [Zeitstrich](/wiki/Beatmap_Editor/Timing) einen Circle platziert habt. Ihr werdet schnell feststellen, dass das ziemlich langweilig ist. Daher gehen wir, nachdem wir die Circle platziert haben, zurück und bearbeiten unsere Map nach, damit wir nicht befürchten müssen, dass Spieler noch an Langeweile sterben. Hierzu gibt es viele verschiedene Möglichkeiten:
 
-Im Takt sein
-------------
+## Im Takt sein
 
 Stellt euch vor, ein "." ist ein Takt ohne [Hit Circle](/wiki/Hit_Objects), und ein "O" ist ein Beat mit Hit Circle (Easy Schwierigkeitsstufen sollten zum Großteil im Takt erstellt werden, mit kleineren Ausnahmen). Hier sind einfache Muster, die ihr versuchen könnt:
 
@@ -28,8 +26,7 @@ OOO.OOO.
 
 Dieses Muster funktioniert auch großartig. Wenn ihr faul sein möchtet, könnt ihr das erste Muster während des Verses und das zweite Muster während des Chorus nutzen. Aber ihr möchtet nicht, dass es zu offensichtlich ist, dass ihr nur faul seid, also....
 
-Slider Nutzung
---------------
+## Slider Nutzung
 
 2-Takt-lange Slider und Maß-lange Slider wären hier intuitiv. 1-Takt-lange Slider funktionieren oft nicht so gut hier, einfach weil eure Slider-Geschwindigkeit so niedrig ist, dass 1-Takt-lange Slider nur stumpf aussehen. Eine allgemeine Faustregel ist, wenn sich der Start und das Ende des Sliders gegenseitig überlappen, dann ist euer Slider zu klein und/oder eure Slider-Geschwindigkeit zu niedrig.
 

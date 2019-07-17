@@ -122,7 +122,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Finals - Week 2
 
 | Day, date |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
 | TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
 | TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |

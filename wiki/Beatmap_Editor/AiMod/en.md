@@ -54,7 +54,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 | HP rate for Easy/Normal is suggested to be at least 4. | osu!mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
 | HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
-| The Slider Velocity should be 1.40 or 1.60. |	osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
+| The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
 
 
 ### Errors
@@ -143,7 +143,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
-| OD rate for maps with very few sliders is suggested to be at least 8. | 	osu!mania maps only! | |
+| OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! | |
 | Countdown is not allowed in taiko mode. | osu!taiko maps only! | |
 | Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! | |
 | Letterboxing is not allowed in taiko mode. | osu!taiko maps only! | |

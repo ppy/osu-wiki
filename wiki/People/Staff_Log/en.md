@@ -3,6 +3,7 @@ tags:
 - Staff Promotion Log
 - Staff Retirement Log
 ---
+
 # Staff Log
 
 As of 2014-01-17, management is going to file all staff promotions and retirements to easily make it trackable for the community. Starting with all changes and additions from 2014.

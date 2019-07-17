@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Mascotas
 
 *Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery).*

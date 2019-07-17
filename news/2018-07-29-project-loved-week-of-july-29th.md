@@ -8,13 +8,13 @@ date: 2018-07-30 07:30:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to their voting threads.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to their voting threads.
 
 Okay, so last round we tried to get away with not mentioning the missing video at all. We're not going to pull that trick twice in a row, so here's the (unfortunately) regular part of our post where we say "sorry" for not having a video. A lot of work goes into producing them, and there are very few people able to do it—that being said, our current contact is only on a temporary leave, so we might have videos again soon. No promises!
 
 Before we hop on into the maps, the Project Loved team wants to say thanks to [Kaifin](https://osu.ppy.sh/users/2596942) for all the work he's put into this project. Just yesterday, he formally stepped down from his position as an osu! captain and Project Loved manager. Without him, Project Loved wouldn't be where it is now!
 
-In case if you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
+In case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
 Now let's see those beatmaps!
 
@@ -189,7 +189,7 @@ This is a ten-difficulty, 10K mapset, ranging from beginner-friendly EZ to very 
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

@@ -1,15 +1,12 @@
-osu! Program Files
-=============================
+# osu! Program Files
 
 ![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")
 
-Emplacement
------------
+## Emplacement
 
 Par défaut `C:Program Files (x86)osu!` où "C:" est votre disque dur où osu! est installé.
 
-Dossiers
-----------
+## Dossiers
 
 ### \_MACOSX
 
@@ -68,8 +65,7 @@ Le format est `{Beatmap number} {Artist} - {Song Title}`.
 
 Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
 
-Fichiers programmes
---------------------
+## Fichiers programmes
 
 ### .dll (Extension de l'application)
 
@@ -113,8 +109,7 @@ Les fichiers de configurations ou fichiers CFG configurent les paramètres initi
 -   osu!.cfg (Configuration d'osu!.)
 -   osu!.user.cfg ("Écran des [Options](/wiki/Options)")
 
-.exe (Application)
-------------------
+## .exe (Application)
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 

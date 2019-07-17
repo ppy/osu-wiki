@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 Salutations. Je comprends ton besoin de me contacter personellement, mais je te demande de comprendre que ce n'est **pas** le bon endroit pour demander de l'aide/du support. Je garde le support d'osu! séparé de mes messages personnels, et je trouve aussi compliqué de trouver le temps de répondre aux messages privés du forum. Je te demande donc de suivre une des options suivantes:
 
 ## Support Technique

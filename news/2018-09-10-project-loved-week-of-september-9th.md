@@ -8,7 +8,7 @@ date: 2018-09-10 05:00:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to their voting threads.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the Loved category. From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to their voting threads.
 
 osu!taiko returns this week from its break, and the team will be selecting four maps per round. They've heard your feedback from the discussion thread that was open for the last two weeks, and will do their best to incorporate it into the picks from now on! Though they didn't make it in time to help out for this week, we're also welcoming two new captains for osu!taiko: [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)!
 
@@ -223,7 +223,7 @@ This map is mostly focused on speed, challenging players with easy patterns, whi
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 

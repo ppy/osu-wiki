@@ -8,20 +8,22 @@ The difficulty of a beatmap *describes* the level of skill needed to complete it
 
 ## Star rating
 
-![Star rating ranges](SR_range.png "Star rating ranges")
+![Star rating ranges](img/SR-range.png "Star rating ranges")
 
-From the [Ranking Criteria](/wiki/Ranking_Criteria), a star rating of:
+For the [Ranking Criteria](/wiki/Ranking_Criteria), star ratings typically correspond to these difficulties:
 
-- 1.50 stars and below is Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
-- 1.51 - 2.25 stars is Normal ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")
-- 2.26 - 3.75 stars is Hard ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
-- 3.76 - 5.25 stars is Insane ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
-- 5.26 - 6.75 stars is Expert ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
-- 6.76 stars and above is Expert+ ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon")
+- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
+- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
+- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
+- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
+- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
+- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
+
+Note that these ranges are not limits; maps may deviate from the specified ranges significantly and still be acceptable.
 
 ### Web icons
 
-The star rating ranges determines which web icon is going to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [the Mapset section of the Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
+The above star rating ranges determine which web icon is going to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [the Mapset section of the Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
 
 ## Difficulty levels
 

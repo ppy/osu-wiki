@@ -3,6 +3,7 @@ layout: post
 title: "HappyStick Summer Tour 2017 - Results"
 date: 2017-08-16 17:00:00 +0000
 ---
+
 After an exciting five weeks of matches in which 768 initial contestants were narrowed down to 26, the HappyStick Summer Tour reached its riveting conclusion. Over the course of the tournament, players from 56 countries across 13 rank brackets ranging from the 250 - 500 to 100,000+ tiers fought their way through 537 matches until only the Grand Finalists remained. Those select few fought it out mano a mano on the grand stage of the finals where they clashed for the crown of Summer Tour Champion. Read on for results and VODs of our featured matches!
 
 ![](/wiki/shared/news/2017-08-16-happystick-summer-tour-concludes/banner.jpg)
@@ -40,7 +41,6 @@ The second set was a familiar sight as both players won their early picks until 
 There, \_verto\_ selected [Igorrr - Unpleasant Sonata](https://osu.ppy.sh/beatmaps/245284) from the Freemod pool. Both players held strong combos for much of the map until \_verto\_ broke two-thirds of the way through. Holding on for another 60 combo, Lee Jung Hyun took the lead and held on to win by under one million points to win the match 6-2.
 
 [View multiplayer match history for \_verto\_ vs Lee Jung Hyun](https://osu.ppy.sh/community/matches/35244291)
-
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
   

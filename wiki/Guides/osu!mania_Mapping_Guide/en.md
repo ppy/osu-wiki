@@ -1,49 +1,54 @@
-osu!mania Mapping Guide
-=========================
+# osu!mania Mapping Guide
 
-Prologue
----------
+## Prologue
 
 ### What is osu!mania?
 
 *Main page: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
-So what exactly is osu!mania? Many of you osu! veterans out there might already know what osu!mania is. osu!mania is one of the four game modes. Many people that stumble upon osu!mania for the first time will probably think to themselves "Oh cool! Guitar Hero!". And indeed, osu!mania is very similar to Guitar Hero. Both of these games are so-called "VSRGs", or **Vertical Scrolling Rhythm Games**. This means, as the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX". But for now, we will be concentrating on osu!mania only!
+osu!mania is one of the four game modes. osu!mania falls under the genre **Vertical Scrolling Rhythm Game** (VSRG). As the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX".
 
-The advantage of osu!mania lies in the fully customizable scroll speed (the speed of the notes falling) as well as the dynamic number of columns the notes fall down in.
+One advantage of osu!mania is the customizable number of playable columns and its simple to use beatmap editor.
 
 ### What is the beatmap editor?
 
-The beatmap editor is the place where the map-making-magic happens! After all, maps do not appear out of nowhere (sadly). There are users that dedicate a lot of effort to creating what we get to play in osu! and you can become a mapper as well! Though everything inside the editor might appear confusing at first sight, it is much easier to use than one might think! Obviously, the editor handles all game modes, however, in this introduction, we will only focus on osu!mania. This mode has a very distinct appearance compared to the other mappable modes. Mostly, the area in which notes can be placed, is entirely different. It is rather compact, since all the other modes use the entire screen for object placement. Depending on the key count, the mappable area increases or decreases in size. This guide will revolve around 4-key-mapping. Below you can see a screenshot to show you the editor compartment in detail
+As stated, the editor allows a customizable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot that details the editor compartments.
 
 #### osu!mania editor
 
-**1. Mapping Area**: This is where you place your objects. It is divided into different columns, | 0 | 1 | 2 | 3 | in this case. These are the numbers the editor works with, though many people prefer to use | 1 | 2 | 3 | 4 | because it's a more intuitive way of counting, when modding. This is not relevant for now, though.  
+**1. Mapping Area**: This is where you place your objects.
 
-**2. Density Graph**: What you can observe over here is the density of individual parts in the map. The more notes that are contained in a given timeframe in the song, the longer the bar inside this graph will become. If a part has reached its biggest considerable density, the bar for said section will turn pink and it will range from the left to right rim of the line. Make sure this does not occur too often, as less than 30-40% of the map should contain pink bars! To emphasize the magnitude of pink bars on the star rating (SR): This maps SR is 4.1.
+**2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
 
-**3 & 4. Notes and Hold**: We use these panels to place objects on the mapping area. The cursor will change to a cross and hovering over the mapping area will show a rectangle, which turns out to be our note. While note placement happens if we click the desired column, we have to drag the cursor for a long note (or: LN) from line to line in order to expand the initial note into a LN. Later on, you are going to learn how LNs can be used effectively!
+**3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
 
-**5. Hitsounds**: Objects have assigned sounds, and here's where we assign them! Hitsounds have their own section in this introduction, so there will be more later on!
+*Shortcut:* `2, 3` 
 
-**6. Lock Notes**: The Lock Notes button is a really useful feature which many mappers don't use. If Lock Notes is activated you can't move your notes any longer, which is really useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
+**5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
-**7. Beat Snap Divisor**: A very important tool, especially in osu!mania. Here, you can select in which beat snap you want to map. The default setting is always ¼ and this is the one you should normally use. However in osu!mania you can use the 1/6 or even 1/8 beat snap much more often than in other game modes. Especially piano is often really hard to snap right and there we can use up to 1/16! It is important to always snap all notes right. However, if you want to get your map ranked, only map what you hear! Add 1/3, 1/4, 1/6 rhythms only when the song calls for it! Adding 1/6 bursts when the song does not call for it is unrankable.
+*Shortcut:* `W, E, R`
 
-**8. Sample Set**: Sample Sets allow you to add even more hitsounds than shown in point 5. As an example, the drum-finish sounds different than the normal-finish. Using this, you can give your song a even larger variety of hitsounds!         
+**6. Lock Notes**: If Lock Notes is activated you can't move any notes, which is useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
+
+*Shortcut:* `L`
+
+**7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
+
+Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania).
+
+*Shortcut:* `Ctrl + MouseScrollWheel`
+
+**8. Sample Set & Additions**: Sample Sets and Additions allow you to add even more hitsounds than shown in point 5. As an example, you can layer a drum-finish sound over the normal-finish. Using this, you can give your song a even larger variety of hitsounds!
+
+*Shortcut:* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
 ![Mania Editor](Mania_Editor.jpg "Mania Editor")
 
-### Alright! I want to Map!
-
-Now we know how to place notes in the editor. Should something still be unclear; read it again! You have all time in the world! If you have understood everything we can directly jump to point 2, the basics! This is where I will explain the song setup and how to time your beatmap!
-
-Basics
--------
+## Basics
 
 ### Song Setup
 
-Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new map will be created automatically. The map will have no name until we open it once with the editor. Whenever you open your map for the first time in the editor, the song setup will open automatically!
+Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new map will be created automatically. Whenever you create a map for the first time in the editor, the song setup will open automatically.
 
 #### General
 
@@ -55,9 +60,9 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
 | Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
-| Difficulty: | Here you have to give your difficulty a name. The standard difficulty names for osu!mania are "EZ", "NM", "HD", "MX", "SC" and "SHD", but you are not forced to use these! If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC, NOVICE, ADVANCED, EXHAUST, INFINITE, GRAVITY".You can even add own difficulty names. The only important part of the naming process is that the chosen names have to show a clear indication of their difficulty. This does not apply to marathon maps. |
+| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
-| Tags: | You can add additional information about your song here. Album for example, or producer. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well. |
+| Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces.|
 
 #### Difficulty
 
@@ -65,10 +70,10 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| HP Drain Rate: | Here you have to select how much HP the player will lose when he misses a note and how much HP they will gain from notes. Important to add: Unlike osu! standard and Catch the Beat, the player does not lose their HP automatically over time but only when they miss a note or get the 50 judgement! The HP drain rate for example can be set higher when your song is really easy to play compared to the automatically set star rating. But don't exaggerate! Experiment with the HP drain to find a fair value - you don't want too many players failing out |
-| Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. You want to have more? Go for it! Just select the amount of keys you want to map and start! You have the free choice! 4K and 7K are the most popular key modes. Important: Not every key count is rankable! Currently only 4K, 5K, 6K, 7K 8K and 9K are able to reach the ranked status! The checkbox "Co-Op" can be selected when you choose 5K and above. This allows you to map more than 10 Keys! As an example: When you choose 6K Co-Op, you will map in 12K. While playing that, there will be two osu!mania stages, both with 6K each. This allows you to play with a friend on one keyboard! |
+| HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP*|
+| Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
-| Overall Difficulty: | Overall Difficulty orOD changes the judgement of how accurate you have to hit a note to get a 300, take note that the hit error range of MAX doesn't change with OD, instead only with HR and EZ mod. A detailed table can be found here; hereAlso: Should your map have a lot of Long Notes you should set it to a lower OD, if you have more single notes than long notes it is recommended that you set it to a higher OD. |
+| Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
 
 #### Design
 
@@ -76,10 +81,10 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| Countdown: | Here you can set a countdown for your map. Newer maps and especially osu!mania usually don't use this, so it should be disabled. |
-| Widescreen Support: | This box should only be enabled when your map has a storyboard. |
-| Display epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dimmer. |
-| Letterboxing during Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break. Breaks are uncommon in osu!mania, so disable this point. |
+| Countdown: | Here you can set a countdown for your map. It is not recommended to enable it. |
+| Widescreen Support: | This box should only be enabled when your map has a widescreen storyboard. |
+| Display Epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dim. |
+| Letterboxing During Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break. |
 
 #### Advanced
 
@@ -87,107 +92,133 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 | Name | Description |
 | ---- | ----------- |
-| Stacking: | This Point has no effect for osu!mania so no need to change anything here. |
-| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course.Should you choose "All", your editor will be set to osu! Standard, then your map will be automatically converted into any other game mode. |
-| Use special Style (N+1 style) for osu!mania: | If you map in a keymode which can use a special key (5K and 8K) you can enable this point. It is known from "BMS" as "Scratch". It's a special extra key, especially used in 8K osu!mania. You can map the song like a normal 7K map, but you will have (depending on the skin settings the player uses), an extra key for scratching on the left or right of the playfield. |
+| Stacking: | This point has no effect for osu!mania so no need to change anything here. |
+| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.  **Changing this option while in an existing osu!mania map will overwrite the map.** |
+| Use special Style (N+1 style) for osu!mania: | If you map in a keymode which uses a special key (5K and 8K) you can enable this point. This allows the player to swap the **special column** to their left or right depending on their settings. Known in "BMS" as the "Scratch Column", it is commonly used in 7+1K (8K) osu!mania. Mapping 7+1K is akin to mapping a 7K map, but an extra **special column** is generated for the mapper's discretion. |
 
 The point **Colours** is not used in osu!mania so we don't need to change anything there.
 
 The point **Audio** will be explained in the part "Hitsounds"
 
 ### Timing
+Once we finished our song setup we need to time our song. The timing set must be accurate to the song's beat, else it'll be hard to map accurately.
 
-Once we finished our song setup we need to time our song. The timing of a song sounds really complicated at first and if this is your first map, you might have problems with it but you can always ask the community whether or not someone can help you with the timing! Once you have timed a few songs you will get used to it! So don't worry!t!
+#### Finding the BPM
+First you need to listen closely to your song to get a feeling of the rhythm. Once you think you can hear the rhythm, start pressing "T" to the beat until the editor displays a value. You can tap longer to get a more accurate BPM, but most songs have integer BPM values, that is, they don't have decimals.
 
-**How to start?** First you need to listen closely to your song to get a feeling of the Main Beat. Once you think you can hear the main beat, just start to press "T" to the beat! Follow the instructions on the screen until the editor finally has the beat. You can tap longer to get a more accurate BPM, but the most important thing is to get the "basic" BPM or at least get near to the actual BPM of the song. It is also handy to take note that most BPMs are integers. Once you have a timing point set, you need to set the accurate offset. Many inexperienced mappers don't really know what the offset actually is, even though it is quite simple:
+There should be a ticking sound indicating the BPM set, if it's not present, check if your **Effects** volume high enough.
 
-**The offset is the first beat of your current BPM!** That's all! Go to the point of your song where you can hear the first beat, press F6 again, choose your timing point and press "Use current time". Now the timing point should be on the current offset, the first beat! Now you need to check whether or not the BPM is really correct. Press F3 and play the song. Watch the beats and check if they're on the white lines you can see above the Timing line. Should it be wrong, you can adjust it by increasing or decreasing the BPM. Listen closely to the metronome and adjust it until the beats are on the same tact as the metronome! Should it be right, your song is finally timed!
+#### Verifying the Offset
+Most of the time, your offset will be slightly off, that is, the ticking will sound consistently late, or early. Nudge the value until it sounds perfect on the beat.
 
+#### Verifying the BPM
+Usually, the initial BPM found will be slightly off, you will need to verify the BPM is correct.
+
+*Note that bad offsets are different from bad BPMs*
+
+For inaccurate BPM values, the ticking will *sway* it gets **more prominent** the further away you get from the **red line** in the timeline (at the bottom of the editor). This is a telltale sign that your BPM is inaccurate. Try adjusting it by +1 or -1.
+
+If all else fails, you can ask for help in the `#osu` or `#osumania` channel.
+
+#### Finding the First Offset
+The first offset is the first beat of your current BPM. Go to the point of your song where you can hear the first beat, press F6, click on the timing point and press "Use current time". Now the timing point should be on the current offset, the first beat.
+
+Should it be right, your song is finally timed!
+
+#### MixMeister BPM Analyzer
 I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://www.dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
-**Multiple BPM**: A lot of songs don't have a constant BPM. For those, you need to add another BPM point. It works similar to the normal BPM. Go to the point where the BPM changes (This is the offset again because it's the first beat of the BPM!), press F6 to open the Timing panel. Now just add another timing point by clicking on the green "plus" and adjust it to the BPM change while listening to the metronome again, or you can press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
+#### Multiple BPMs
+A lot of songs don't have a constant BPM. For those, you need to add another BPM point on the point of change.
+
+Go to the point where the BPM changes, press F6 to open the Timing panel, add another timing point by clicking on the green "plus" and adjust it to the BPM change while listening to the metronome again. You can also press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
 
 #### Timing Setup Panel
-
 ![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
 | Name | Description |
 | ---- | ----------- |
-| Timing Points: | The timing points or "Red Lines" are there to time your song. Without these you can't map. I already explained how you can find the right BPM and offset for your song earlier! |
-| Inherited Point: | The inherited point are also called "Green Lines". These points are used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
-| Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It let appear star fountain on the left and right side of the screen and is used to make this moment of your Map "more exciting". |
+| Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
+| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
+| Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
 
 ### Pattern
 
-Once you finally have the right timings in your map it's time to start with the mapping! But how exactly do you start? In this part of the guide I would like to show you different kinds of patterns you can use to map your song. It might be that some pattern looks really confusing for new mappers, but once you get used to it and you know how the patterns are actually called and when to use them i'm pretty sure you will learn them really fast! I will add a screenshot for each and every pattern with a short description for what they are and when you should use them.
+Once you finally have the right timings in your map it's time to start mapping. Patterns are like building blocks to the map, it is essential to know their names and their purposes. I will add a screenshot for each and every pattern with a short description for what they are and when you should use them.
 
 #### Long Note
 
-Here we can see a Long Note or just LN. A long note is the "Slider" in osu!mania. Using LNs are the best way to map long sounds in your song. There are lot of ways to use a LN which I will explain in another part of this guide.
+The LN is the "Slider" in osu!mania. Using LNs are the best way to represent long sounds in your song. There are lot of ways to use a LN which I will explain in another part of this guide.
 
 ![Long Note](MT-Long_Note.jpg "Long Note")
 
 #### Chord
 
-Here we can see the Chord. The chords, who also can be called "doubles", "triples" or "quads" is used to emphasize strong sounds in your song like heavy drums or cymbals. In the screenshot I have used a two note chord but you can of course use more notes for it! If you are planning to rank your map, depending on the key-count you map in, you can use up to six notes! Anything more is against the Ranking Criteria.
+In the screenshot I have used a two note chord. Chords mean *more than 1 note*. "Doubles", "triples" or "quads" fall into that category. It is used to emphasize strong sounds in your song like heavy drums or cymbals.
+
+If you are planning to rank your map, you can use up to six notes! Anything more is against the Ranking Criteria.
 
 ![Chord](MT-Chord.jpg "Chord")
 
 #### Burst
 
-Here we can see the Burst. Bursts are what they sound like - quick bursts of notes. It's not necessarily 1/4, but usually is defined by something that is much faster than the normal density of notes in the song for a very short period of time
+Bursts are quick bursts of notes. They are not necessarily 1/4, but is defined by a sudden increase in density for a short period of time.
 
 ![Burst](MT-Burst.jpg "Burst")
 
 #### Staircases
 
-Here we can see the Staircases. The staircase is mostly used for fast sounds. It is recommended that you should map staircase streams conservatively as it gets very hard to execute after a certain bpm threshold for players, this is mainly due to the jacks formed on columns 2 and 3.
+The staircase is mostly used for fast sounds. Note that some stairs get very hard to execute after a certain BPM, this is mainly due to the jacks formed on columns 2 and 3.
 
 ![Staircases](MT-Stream.jpg "Staircases")
 
 #### Roll
 
-Here we can see the Roll or Stair. Usually rolls are delimited by a repeating pattern of 4 or more notes, but more generally, it's notes going in a certain direction. A 1234 is a roll and a 1324 is a split roll.
+Rolling is similar to Staircases. Usually rolls are delimited by a repeating pattern of 4 or more notes, but more generally, it's notes going in a certain direction. A 1234 is a roll and a 1324 is a split roll.
 
 ![Stair](MT-Stair.jpg "Stair")
 
 #### Jackhammer
 
-Here we can see the Jackhammer or just Jack. It is recommended to use jacks for two sounds that sound exactly the same. Should you use jacks randomly you will very quickly notice that it doesn't play well. As an example you can use the jack very well for dubstep sounds or for similar drum-sounds. But be careful, do not over-use it! When you use too many jacks at once it often plays too hard.
+Also known as a **Jack**. It is recommended to use jacks for two sounds that sound exactly the same. Jacks can scale in difficulty quickly when overused. It is recommended to avoid too much of these unless you're certain.
 
 ![Jackhammer](MT-Jackhammer.jpg "Jackhammer")
 
 #### Shield
 
-Here we can see a Shield. The shield can be recognized by the fact that its always note right before or after a LN.
+The shield can be recognized by the fact that its always note right before or after a LN.
 
 ![Shield](MT-Shield.jpg "Shield")
 
 #### Chordjack
 
-Here we can see the Chord Jack or or Double/Jumpjack. The chord jack is a combination of the jackhammer and the chord. The way to use it is the same as for the jackhammer. For same sounds, just that you use these as chords for heavier sounds.
+The chord jack is a combination of the jackhammer and the chord. The way to use it is the same as for the jackhammer. For same sounds, just that you use these as chords for heavier sounds.
 
 ![Chordjack](MT-Chordjack.jpg "Chordjack")
 
 #### Trill
 
-Here we can see the Trill. The trill is used for two really fast changing sounds in your song. In the screenshot we see the one handed trill but that is not the only way to map it. You can also use both hands for it, as an example you can use columns 1 and 3 instead
+The trill is used for two really fast changing sounds in your song. In the screenshot we see the one handed trill, however you can also use columns 1 and 3 instead for a two handed trill.
 
 ![Trill](MT-Trill.jpg "Trill")
 
 #### Chordtrill
 
-Here we can see the Chord Trill or Double/Jumptrill. The chord trill can raise the difficulty of your map really fast so do not overdo it! The chord trill should never be mapped above 1/4. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. Like the trill this is not the only way to map it.
+The chord trill can raise the difficulty of your map quickly. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. A simpler alternative would be using `12` and `34` chord trills instead.
 
 ![Chordtrill](MT-Chordtrill.jpg "Chordtrill")
 
 #### Jumpstream
 
-Here we can see the Jumpstream. The jumpstream is often the most complicated pattern to play for a player because it's a mix between normal notes and chords that change hands really fast. The jumpstream should only be mapped when it really fits to your song. As an example; loud melody between more quiet sounds. Drums between hi-hat etc. There a lot of different ways to map jumpstreams. In the screenshot we can see a really safe way to map it because there no 1/2 beat triple jacks in it. But of course you don't have to map it that way!
+**Jump** is a 2-note chord, hence jumpstream is a 2-note chord stream.
+
+A jumpstream can be used to layer strong sounds between a constant 1-note stream, using a 2-note chord whenever feasible.
+
+There a lot of different ways to map jumpstreams. In the screenshot we can see a really safe way to map it because there no 1/2 triple jacks in it.
 
 ![Jumpstream](MT-Jumpstream.jpg "Jumpstream")
 
-Okay! These are some of the different patterns you can use in your song! There's still many more configurations of patterns not covered in this guide however. A lot of them can be really good combined. Try to experiment these patterns in your song and I'm sure you can find a good mix of them for your song!
+Okay! These are some of the different patterns you can use in your song! However, there are still many more configurations of patterns not covered in this guide. Many combinations work well together. Try to experiment these patterns in your song and I'm sure you can find a good mix of them for your song!
 
 ### Mapping
 
@@ -289,8 +320,7 @@ You don't even have to select all of this by hand. You can also change the sampl
 
 Hitsounding may take some time but like I already mentioned it's important for the beatmap. Once you get used to it, hitsounding will go really fast!
 
-Advanced Knowledge
--------------------
+## Advanced Knowledge
 
 In this part I would like to explain more details of osu!mania mapping like keysounding, SV changes and pitch relevancy. Also, together with the community I want to explain different mapping styles here. The osu!mania community consists of players from different VSRG's like o2 jam, Stepmania and BMS. All these games have a special mapping style.
 

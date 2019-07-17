@@ -18,8 +18,8 @@ The **osu! Mapping World Cup #1** (***oMWC #1***) is a country-based osu! mappin
 | Team Ambassadors Applications | 2018-12-11/2018-12-27|
 | Team Pick-ups | 2018-12-27/2019-01-11 |
 | Mapping Phase | 2019-01-12/2019-02-09 |
-| Judging Phase | 2019-02-09/2019-03-04 |
-| Final Results | 2019-03-09 (21:00 UTC+0) |
+| Judging Phase | 2019-02-09/2019-03-09 |
+| Final Results | 2019-03-16 (21:00 UTC+0) |
 
 ## Prizes
 
@@ -38,11 +38,11 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
-| Helpers | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630), ![][flag_BE] [GoldenWolf](https://osu.ppy.sh/users/1612624), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
+| Helpers | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
 | Casters | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
 | Judges | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163), ![][flag_PK] [DeRandom Otaku](https://osu.ppy.sh/users/5156153), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_CN] [Hollow Wings](https://osu.ppy.sh/users/416662), ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964), ![][flag_CN] [Regraz](https://osu.ppy.sh/users/3076909) |
 | Reserve Judges | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676), ![][flag_DE] [Yauxo](https://osu.ppy.sh/users/898306), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
-| Graphics | ![][flag_FI] [Micro]( https://osu.ppy.sh/users/4801080) |
+| Graphics | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 
 ## Links
 
@@ -86,7 +86,11 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | ![][flag_UA] | **Ukraine** | **[Sulfur](https://osu.ppy.sh/users/5297447)**, [Aka](https://osu.ppy.sh/users/1307553), [den0saur](https://osu.ppy.sh/users/5385151), [InternalLight](https://osu.ppy.sh/users/6221637) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Shortthu](https://osu.ppy.sh/users/7985423), [Stormiverse](https://osu.ppy.sh/users/8705545) |
 
----------------------------
+------------------------------------------------------------------------
+
+![oMWC \#1 Podium](img/podium.png)
+
+------------------------------------------------------------------------
 
 ## Ruleset
 

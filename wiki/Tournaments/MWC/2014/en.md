@@ -7,6 +7,7 @@ tags:
 - MWC4K 2014
 - MWC7K 2014
 ---
+
 # osu!mania World Cup 2014
 
 ![MWC 2014 Logo](img/logo.png)
@@ -338,21 +339,21 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 0 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/9193332) |
 | Philippines ![][flag_PH] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9194419) |
 
 ### Semifinals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/9049440) |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9050433) |
 
 ### Quarterfinals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/8904599) |
 | **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/8905453) |
 | France ![][flag_FR] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/8906666) |
@@ -361,7 +362,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Russian Federation ![][flag_RU] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/8744011) |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/8744737) |
 | **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/8745757) |
@@ -374,7 +375,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **4** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/8429133) |
 | **Russian Federation** ![][flag_RU] | **4** | 3 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/8429172) |
 | **Japan** ![][flag_JP] | **4** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/8429927) |
@@ -421,21 +422,21 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/9195322) |
 | Thailand ![][flag_TH] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9196502) |
 
 ### Semifinals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/9047313) |
 | Malaysia ![][flag_MY] | 3 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/9048167) |
 
 ### Quarterfinals
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/8927248) |
 | **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/8934471) |
 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_TH] **Thailand** | -win by default- |
@@ -444,7 +445,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/8770905) |
 | Germany ![][flag_DE] | 0 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/8771747) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/8772820) |
@@ -457,7 +458,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 | Team A |  |  | Team B | History |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **4** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/8573871) |
 | Portugal ![][flag_PT] | 0 | **4** | ![][flag_FR] **France** | -win by default- |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/8574628) |

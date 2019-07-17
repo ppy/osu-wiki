@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!weekly #58 (osu!taiko World Cup 2016 Results!)"
-permalink: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-world-cup-2016-results
 date: 2016-04-27 09:39:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/143474255578/osuweekly-58-osutaiko-world-cup-2016-results
 ---
+
 What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016, we saw numerous announcements from the people that bring us updates around the game. Strap yourselves in everybody, this is going to be a big one.
 
 ![](https://puu.sh/nqIAS/05e726ece8.jpg)
@@ -50,7 +50,6 @@ For a full list of standings, please take a look at our [wiki page](https://osu.
 + Third Place: $480 (80 for each player) + Profile Badge
 
 **A big congratulations to team Japan for winning this year's osu!taiko World Cup!** A big round of applause as well for teams Taiwan and Canada for putting on an amazing performance this year.
-
 
 ---
 

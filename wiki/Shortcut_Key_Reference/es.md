@@ -1,13 +1,12 @@
 ---
 outdated: true
 ---
-Shortcut Key Reference
-=================================
+
+# Shortcut Key Reference
 
 En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectivos menús. Están mencionados a continuación con sus respectivas funciones.
 
-Global
-------
+## Global
 
 -   **Shift+F1**: Abre el osu!status (cuando hay una conexión de error)
 -   **F7**: Cambia el límite de FPS
@@ -18,8 +17,7 @@ Global
 -   **Insert**: Minimiza el osu! en la ventana de notificaciones.
 -   **Flecha arriba/abajo**: Aumenta/Disminuye el volumen.
 
-Menú
-----
+## Menú
 
 -   **F1**: Canción anterior
 -   **F2**: Play desde el comienzo
@@ -31,8 +29,7 @@ Menú
 -   **Escape**: Ir al menú anterior
 -   **Ctrl+Alt+Shift+S**: Recarga los cambios realizados en un skin
 
-Menú Principal
---------------
+## Menú Principal
 
 -   **P**: Modo Jugar (doble click para seleccionar canción)
 -   **P-M**: Modo Jugar ([Multijugador](/wiki/Multi))
@@ -44,8 +41,7 @@ Menú Principal
 -   **Q**: Salir
 -   **R**: Canción aleatoria
 
-Elección de Canción
--------------------
+## Elección de Canción
 
 -   **F1**: [Selección de Mods](/wiki/Game_Modifiers)
 -   **F2**: Mapa aleatorio
@@ -66,8 +62,7 @@ Elección de Canción
 -   **Shift+(Izquierda/Derecha)**: Cambia de colección
 -   **Shift+Enter**: Abre/cierra la colección
 
-Pantalla de Mods
-----------------
+## Pantalla de Mods
 
 Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/wiki/Game_Modifiers) necesitan de un clic adicional.
 
@@ -92,8 +87,7 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/
 -   **V**: [Spun-Out](/wiki/Game_Modifiers)
 -   **B**: Auto
 
-Durante la partida
-------------------
+## Durante la partida
 
 -   **+/-**: Ajusta el offset local (mantén pulsado Alt para ajustar con mayor precisión)
 -   **Escape**: Pausa (Sale de la canción si el mod Auto está activado)
@@ -103,8 +97,7 @@ Durante la partida
 -   **F3/F4**: Ajusta la velocidad para osu!mania
 -   **Ctrl+R**: Rápidamente reinicia la partida (saltea la introducción de la música)
 
-Modo de Edición
----------------
+## Modo de Edición
 
 ### Atajos del Teclado
 

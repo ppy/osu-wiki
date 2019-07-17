@@ -8,7 +8,7 @@ date: 2018-11-04 17:30:00 +0000
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each maps' header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 Continuing the slow, steady decline of the quantity of maps we put up for vote, this week the osu!mania captains have decided to only put up seven maps, instead of the usual eight.
 
@@ -206,7 +206,7 @@ Zephyros from Remillion Cross has been wandering around the community since 2014
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
 In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [clayton](https://osu.ppy.sh/users/3666350), [Ephemeral](https://osu.ppy.sh/users/102335), [Noffy](https://osu.ppy.sh/users/1541323) and [Toy](https://osu.ppy.sh/users/2757689) for their miscellaneous help in managing Project Loved.
 

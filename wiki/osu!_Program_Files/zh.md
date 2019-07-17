@@ -1,20 +1,17 @@
-osu! 目录文件
-===============================
+# osu! 目录文件
 
 ![在资源管理器下的 osu! 目录文件](Osu!sys.jpg "在资源管理器下的 osu! 目录文件")
 
-位置
------
+## 位置
 
 ### Windows
 
 | 现版本默认路径 | 旧的程序安装路径 |
 | ------------------------ | ---------------------- |
-| `C:\Users\<Username>\AppData\Local\osu!` | 	`C:\Program Files\osu!` 或 `C:\Program Files(x86)\osu!` （ 64 位 Windows 7+ 系统） |
+| `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` 或 `C:\Program Files(x86)\osu!` （ 64 位 Windows 7+ 系统） |
 > "`C:`" 即为你安装 osu! 的硬盘分区。
 
-文件夹
-------
+## 文件夹
 
 ### \_MACOSX
 
@@ -85,8 +82,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 
 **osu! 的数据文件夹。** 不要修改这个文件夹。
 
-程序依赖的文件
----------------
+## 程序依赖的文件
 
 ### .db （数据库文件）
 

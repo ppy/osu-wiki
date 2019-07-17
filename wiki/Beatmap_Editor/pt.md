@@ -1,5 +1,4 @@
-Editor de Beatmap
-==================
+# Editor de Beatmap
 
 O **Editor de Beatmap** é uma interface grafica do osu! para criação de [Beatmaps](/wiki/Beatmaps). É dividido em quatro modos:
 
@@ -8,8 +7,7 @@ O **Editor de Beatmap** é uma interface grafica do osu! para criação de [Beat
 -   [Timing](/wiki/Beatmap_Editor/Timing): Aqui é onde se encontra o BPM e offset da musica. Essa parte também controla os hitsounds caso eles não seja o mesmo durante o beatmap inteiro.
 -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup): Nesta parte são configuradas varias opções como por exemplo niveis de dificuldade, informações da faixa, cores das notas etc.
 
-Artigos relacionados
---------------------
+## Artigos relacionados
 
 -   [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)
 -   [Hitsounds Personalizáveis](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)

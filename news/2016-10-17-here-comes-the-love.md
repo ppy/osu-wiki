@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Here Comes the Love"
-permalink: http://osunews.tumblr.com/post/151925254083/here-comes-the-love
 date: 2016-10-17 08:50:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/151925254083/here-comes-the-love
 ---
+
 Ever wanted to see a scoreboard on some of your favourite maps that weren't qualified or ranked? The future is here with the new "Loved" beatmap ranking state. Read on to learn more!
-<!-- more -->
 
 ![](https://puu.sh/rLQPQ/316c9445f3.png)
 
@@ -24,7 +23,7 @@ Here's the details:
 
 The first vote will go up within a week or so. In the meantime, we'd like to present to you the first set of maps ever to be Loved:
 
-[Check them out here at the 'Loved' section in the Beatmap Listing!](https://osu.ppy.sh/p/beatmaplist?m=-1&r=12&g=0&la=0&ra=)
+[Check them out here at the 'Loved' section in the Beatmap Listing!](https://osu.ppy.sh/beatmapsets?s=loved)
 
 Head on over, download the map, and play! It may appear as a Qualified map in the game client until a patch goes in later during the week.
 
