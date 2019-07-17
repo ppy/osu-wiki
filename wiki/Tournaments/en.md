@@ -81,6 +81,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
 
