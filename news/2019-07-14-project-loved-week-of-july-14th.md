@@ -174,7 +174,7 @@ Despite this set being relatively young compared to some of our other picks, it 
 
 ## <a name="mania" id="mania"></a>osu!mania
 
-osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)! This week, all osu!mania beatmap descriptions were written by [Captain](https://osu.ppy.sh/users/2563435).
+osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
 ---
 
