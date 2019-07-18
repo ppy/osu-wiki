@@ -26,7 +26,7 @@ If your account has been restricted, you'll likely know why after a brief conver
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-Refer to [this page](/wiki/Help_Centre/Account_Restrictions) for more information on account restrictions and the appeal process.
+Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
 
 ### Sign-in
 
