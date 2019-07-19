@@ -131,29 +131,29 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 **[Download the map pack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0)**
 
 - NoMod
-	- [M2U - Marionette \(Absolute Zero\) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
-	- [Camellia - crystallized \(Spectator\) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/751290#fruits/1581742)
-	- [succducc - me & u \(Zyzyx\) \[Forever\]](https://osu.ppy.sh/beatmapsets/931928#fruits/1945822)
-	- [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto \(F D Flourite\) \[The White Queen \(Overdose\)\]](https://osu.ppy.sh/beatmapsets/830717#fruits/1766406)
-	- [Camellia feat. Nanahira - Amor De Verao \(Kuron-kun\) \[CAIPIRINHA\]](https://osu.ppy.sh/beatmapsets/746563#fruits/1573413)
-	- [Camellia - kodama \(ProfessionalBox\) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#fruits/1048276)
+  - [M2U - Marionette \(Absolute Zero\) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
+  - [Camellia - crystallized \(Spectator\) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/751290#fruits/1581742)
+  - [succducc - me & u \(Zyzyx\) \[Forever\]](https://osu.ppy.sh/beatmapsets/931928#fruits/1945822)
+  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto \(F D Flourite\) \[The White Queen \(Overdose\)\]](https://osu.ppy.sh/beatmapsets/830717#fruits/1766406)
+  - [Camellia feat. Nanahira - Amor De Verao \(Kuron-kun\) \[CAIPIRINHA\]](https://osu.ppy.sh/beatmapsets/746563#fruits/1573413)
+  - [Camellia - kodama \(ProfessionalBox\) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#fruits/1048276)
 - Hidden
-	- [Grand Thaw - AltMirrorBell \(Deif\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2009626)
-	- [REOL - drop pop candy \(chickenbible\) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
-	- [DJ YOSHITAKA - Evans \(Jerrysr\) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
-	- [xi - Mirage Garden \(P o M u T a\) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
+  - [Grand Thaw - AltMirrorBell \(Deif\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2009626)
+  - [REOL - drop pop candy \(chickenbible\) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
+  - [DJ YOSHITAKA - Evans \(Jerrysr\) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
+  - [xi - Mirage Garden \(P o M u T a\) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
 - HardRock
-	- [Helblinde - Grief & Malice \(Kyuare\) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
-	- [Mr. Saturn - Saturn \(Saturnalize\) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
-	- [jippusu - Mushikui Saikede Rhythm \(Amamiya Yuko\) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
-	- [sakuzyo - Imprinting \(Squigly\) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
+  - [Helblinde - Grief & Malice \(Kyuare\) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
+  - [Mr. Saturn - Saturn \(Saturnalize\) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
+  - [jippusu - Mushikui Saikede Rhythm \(Amamiya Yuko\) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
+  - [sakuzyo - Imprinting \(Squigly\) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
 - DoubleTime
-	- [Cha Ji Yeon, LDN Noise - My Show \(Ollapeu\) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
-	- [Tamaki to Yumine \(CV: Naganawa Maria Maekawa Ryouko\) - Yonaka Jikaru \(examination\) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
-	- [SEREBRO - Mi Mi Mi \(Speed Up Ver.\) \(eiri-\) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
-	- [TatshMusicCircle - Raikou -3rd Desire- \(Kite\) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#fruits/1836851)
+  - [Cha Ji Yeon, LDN Noise - My Show \(Ollapeu\) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
+  - [Tamaki to Yumine \(CV: Naganawa Maria Maekawa Ryouko\) - Yonaka Jikaru \(examination\) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
+  - [SEREBRO - Mi Mi Mi \(Speed Up Ver.\) \(eiri-\) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
+  - [TatshMusicCircle - Raikou -3rd Desire- \(Kite\) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#fruits/1836851)
 - Tiebreaker
-	- **[DragonForce - Symphony Of The Night \(Crowley\) \[Myth of the Darkest Twilight\]](https://osu.ppy.sh/beatmapsets/984228#fruits/2059422)**
+  - **[DragonForce - Symphony Of The Night \(Crowley\) \[Myth of the Darkest Twilight\]](https://osu.ppy.sh/beatmapsets/984228#fruits/2059422)**
 
 ### Quarterfinals
 
@@ -241,17 +241,17 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Saturday, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Hong Kong ![][flag_HK] | 6 | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| Netherlands ![][flag_NL] | 3 | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53147363) |
-| Finland ![][flag_FI] | 3 | 6 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/53149402) |
-| Poland ![][flag_PL] | 0 | 6 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/53151416) |
-| Sweden ![][flag_SE] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53153172) |
-| United States ![][flag_US] | 2 | 6 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53169340) |
+| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53149402) |
+| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53151416) |
+| Sweden ![][flag_SE] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/53153172) |
+| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53169340) |
 
 | Sunday, 2019-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Philippines ![][flag_PH] | 0 | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| South Korea ![][flag_KR] | 6 | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53145753) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
 
 ### Round of 16
 
