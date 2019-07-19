@@ -96,7 +96,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 18:00 UTC+08 | 18:00 UTC+08 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 | ² |
 | South Korea | ![][flag_KR] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 | ¹ |
 | Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ² |
 | Finland | ![][flag_FI] | ![][flag_MX] | Mexico | **20:00 UTC** | 23:00 UTC+03 | 15:00 UTC-05 | ² |
