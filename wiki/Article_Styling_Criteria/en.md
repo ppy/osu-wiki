@@ -156,11 +156,11 @@ HTML comments may be used for annotating text.
 
 #### End of line sequence
 
-<!-- Parsing will break if it reads a file using CRLF. -->
+<!-- YAML parsing will break and display as plain text if the file is using CRLF. -->
 
-*Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` before uploading.*
+*Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.*
 
-Articles must be checked in using the `LF` (line feed) end of line sequence.
+Markdown files must be checked in using the `LF` end of line sequence.
 
 #### Escaping
 
