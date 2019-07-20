@@ -8,9 +8,9 @@ Born again from the flames and into the Featured Artist family, **Inferi** joins
 
 ![](https://assets.ppy.sh/artists/43/header.jpg)
 
-Delving deeper into the pits of the highly complex and commanding sound of metal and its subgenres, **Inferi** throws wide the gates to the nine circles of hell with some of the most intense and commanding tracks seen in the lineup so far.
+Delving deeper into the pits of the highly complex and commanding sound of metal and its subgenres, **Inferi** throws wide the gates to the underworld with some of the most intense and commanding tracks seen in the lineup so far.
 
-We're happy to announce *30* fearsome tracks spanning **Inferi**'s three latest albums: from the highly praised concept album *The Path of Apotheosis*, through the nine rings of hell within *Revenant*, to the Rebirth of their 2009 album *The End of an Era*, **Inferi** is a relentless powerhouse within the technical death metal scene.
+We're happy to announce *30* fearsome tracks spanning **Inferi**'s three latest albums: from the highly praised concept album *The Path of Apotheosis*, through the nine circles of hell within *Revenant*, to the Rebirth of their 2009 album *The End of an Era*, **Inferi** is a relentless powerhouse within the technical death metal scene.
 
 Already a household name among osu! players craving a more gruesome set of faster-paced maps, take a listen to some previews of what **Inferi** is bringing to the table:
 
