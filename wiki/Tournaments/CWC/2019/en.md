@@ -90,7 +90,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
 ### Saturday, 27. July 2019
 
