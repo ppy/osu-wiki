@@ -8,7 +8,7 @@ tags:
 
 <!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
 
-![Screenshot of osu! autoplay with title text visible](img/renatus-title-text.jpg "The title text for \"Soleily - Renatus\" shows just after starting the map.")
+![Screenshot of osu! gameplay with title text visible](img/liquid-title-text.jpg "The title text for \"Rostik - Liquid (Paul Rosenthal Remix)\" shows just after starting the map.")
 
 **Title text** appears in the top-middle of the screen while playing a beatmap. Most commonly, it shows the artist and title of the song near the beginning of the map, but the map's creator may change the text to whatever they prefer. They can also change how the text is formatted and when it will display.
 
