@@ -90,31 +90,19 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 20. July 2019
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Taiwan | ![][flag_TW] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 | ² |
-| South Korea | ![][flag_KR] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 | ¹ |
-| Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ² |
-| Finland | ![][flag_FI] | ![][flag_MX] | Mexico | **20:00 UTC** | 23:00 UTC+03 | 15:00 UTC-05 | ² |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **22:00 UTC** | 18:00 UTC-04 | 19:00 UTC-03 | ² |
-
-### Sunday, 21. July 2019
+### Saturday, 27. July 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Chile | ![][flag_CL] | ![][flag_CN] | China | **03:00 UTC** | 23:00 UTC-04 (Sat) | 11:00 UTC+08 | ¹ |
-| Philippines | ![][flag_PH] | ![][flag_MX] | Mexico | **04:00 UTC** | 12:00 UTC+08 | 23:00 UTC-05 (Sat) | ³ |
-| Philippines | ![][flag_PH] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 | ³ |
-| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
-| United States | ![][flag_US] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
-| Germany | ![][flag_DE] | ![][flag_FI] | Finland | **16:00 UTC** | 18:00 UTC+02 | 19:00 UTC+03 | ³ |
-| Germany | ![][flag_DE] | ![][flag_MX] | Mexico | **16:00 UTC** | 18:00 UTC+02 | 11:00 UTC-05 | ³ |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 | ¹ |
+| Chile | ![][flag_CL] | ![][flag_US] | United States | **17:00 UTC** | 13:00 UTC-04 | 13:00 UTC-04 | ² |
+| France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 | ² |
+| Chile | ![][flag_CL] | ![][flag_FR] | France | **21:00 UTC** | 17:00 UTC-04 | 23:00 UTC+02 | ³ |
+| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 | ³ |
+| United States | ![][flag_US] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 | ³ |
+| United States | ![][flag_US] | ![][flag_FR] | France | **21:00 UTC** | 17:00 UTC-04 | 23:00 UTC+02 | ³ |
 
  ¹ Winner bracket encounter
  
@@ -125,6 +113,35 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Mappools
+
+### Finals
+
+**[Download the map pack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
+
+- NoMod
+  - [Zekk - Feelsleft0ut \(AJamez\) \[:\)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
+  - [solfa feat. Ceui - Koiiro Recipe \(-Luminate\) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
+  - [Dustvoxx - TRiGGER \(Zekk Remix\) \(Deif\) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
+  - [cosMo@BousouP - Sadistic.Music Factory \(JeirYagtama\) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
+  - [Kitsune^2 - Free \(Starrodkirby86\) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
+  - [BABYMETAL - YAVA! \(\[ Kohioma \]\) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
+- Hidden
+  - [Kagamine Rin - Oni Kanojo \(Spectator\) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
+  - [Gekidan Record - Ares no Tate \(- Syamu -\) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
+  - [KAKU P-MODEL - Big Brother \(Mismagius\) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
+  - [Zhou Li Ming - Pi Li Pa La \(bakabaka\) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
+- HardRock
+  - [Nekomata Master+ - squall \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
+  - [Halozy - Deconstruction Star \(CLSW\) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
+  - [ITO KASHITARO - Yuudachi no Ribbon \(Milan-\) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
+  - [e-ZUKA - Assailant in the Night \(Saten\) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
+- DoubleTime
+  - [sana - Sunset March \(Benita\) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
+  - [Floating Cloud - Ame no chikumori no chihare \(dazzulay\) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
+  - [Myrath - Endure The Silence \(LMT\) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
+  - [Yorushika - Itte. \(deetz\) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
+- Tiebreaker
+  - **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters \(Camellia's "Barrage of Flurries" Remix\) \(Ascendance\) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
 
 ### Semifinals
 
@@ -236,6 +253,22 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Match Results
+
+### Semifinals
+
+| Saturday, 2019-07-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53472837) |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53473820) |
+| **Philippines** ![][flag_PH] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53476256) |
+| Finland ![][flag_FI] | 0 | **7** | ![][flag_MX] **Mexico** | -win by default- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53486183) |
+
+| Sunday, 2019-07-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Chile ![][flag_CL] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53490373) |
+| Philippines ![][flag_PH] | 5 | **7** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53491250) |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53499382) |
 
 ### Quarterfinals
 
