@@ -119,29 +119,29 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 **[Download the map pack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
 
 - NoMod
-	- [Zekk - Feelsleft0ut \(AJamez\) \[:\)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
-	- [solfa feat. Ceui - Koiiro Recipe \(-Luminate\) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
-	- [Dustvoxx - TRiGGER \(Zekk Remix\) \(Deif\) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
-	- [cosMo@BousouP - Sadistic.Music Factory \(JeirYagtama\) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
-	- [Kitsune^2 - Free \(Starrodkirby86\) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
-	- [BABYMETAL - YAVA! \(\[ Kohioma \]\) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
+  - [Zekk - Feelsleft0ut \(AJamez\) \[:\)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
+  - [solfa feat. Ceui - Koiiro Recipe \(-Luminate\) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
+  - [Dustvoxx - TRiGGER \(Zekk Remix\) \(Deif\) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
+  - [cosMo@BousouP - Sadistic.Music Factory \(JeirYagtama\) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
+  - [Kitsune^2 - Free \(Starrodkirby86\) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
+  - [BABYMETAL - YAVA! \(\[ Kohioma \]\) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
 - Hidden
-	- [Kagamine Rin - Oni Kanojo \(Spectator\) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
-	- [Gekidan Record - Ares no Tate \(- Syamu -\) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
-	- [KAKU P-MODEL - Big Brother \(Mismagius\) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
-	- [Zhou Li Ming - Pi Li Pa La \(bakabaka\) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
+  - [Kagamine Rin - Oni Kanojo \(Spectator\) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
+  - [Gekidan Record - Ares no Tate \(- Syamu -\) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
+  - [KAKU P-MODEL - Big Brother \(Mismagius\) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
+  - [Zhou Li Ming - Pi Li Pa La \(bakabaka\) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
 - HardRock
-	- [Nekomata Master+ - squall \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
-	- [Halozy - Deconstruction Star \(CLSW\) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
-	- [ITO KASHITARO - Yuudachi no Ribbon \(Milan-\) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
-	- [e-ZUKA - Assailant in the Night \(Saten\) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
+  - [Nekomata Master+ - squall \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
+  - [Halozy - Deconstruction Star \(CLSW\) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
+  - [ITO KASHITARO - Yuudachi no Ribbon \(Milan-\) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
+  - [e-ZUKA - Assailant in the Night \(Saten\) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
 - DoubleTime
-	- [sana - Sunset March \(Benita\) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
-	- [Floating Cloud - Ame no chikumori no chihare \(dazzulay\) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
-	- [Myrath - Endure The Silence \(LMT\) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
-	- [Yorushika - Itte. \(deetz\) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
+  - [sana - Sunset March \(Benita\) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
+  - [Floating Cloud - Ame no chikumori no chihare \(dazzulay\) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
+  - [Myrath - Endure The Silence \(LMT\) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
+  - [Yorushika - Itte. \(deetz\) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
 - Tiebreaker
-	- **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters \(Camellia's "Barrage of Flurries" Remix\) \(Ascendance\) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
+  - **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters \(Camellia's "Barrage of Flurries" Remix\) \(Ascendance\) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
 
 ### Semifinals
 
@@ -258,17 +258,17 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Saturday, 2019-07-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53472837) |
-| South Korea ![][flag_KR] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53473820) |
-| Philippines ![][flag_PH] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53476256) |
-| Finland ![][flag_FI] | 0 | **7** | ![][flag_MX] Mexico | **WBD** |
-| United States ![][flag_US] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53486183) |
+| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53472837) |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53473820) |
+| **Philippines** ![][flag_PH] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53476256) |
+| Finland ![][flag_FI] | 0 | **7** | ![][flag_MX] **Mexico** | -win by default- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53486183) |
 
 | Sunday, 2019-07-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Chile ![][flag_CL] | 2 | **7** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/53490373) |
-| Philippines ![][flag_PH] | 5 | **7** | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/53491250) |
-| United States ![][flag_US] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53499382) |
+| Chile ![][flag_CL] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53490373) |
+| Philippines ![][flag_PH] | 5 | **7** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53491250) |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53499382) |
 
 ### Quarterfinals
 
