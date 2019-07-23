@@ -32,10 +32,10 @@
 ## 主办团队
 
 | 团队 | 人员 |
-| :-: | :-- |
+| :-- | :-- |
 | 比赛经理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | 比赛监督 | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 图池管理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| 图池管理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
 | 直播 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | 裁判 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | 解说 | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
@@ -44,11 +44,11 @@
 
 ## 链接
 
+- [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
 - [报名注册](https://www.wjx.cn/jq/42658963.aspx)
-- [Challonge](https://challonge.com/TNMT)
+- [在 Challonge 上查看赛程](https://challonge.com/TNMT)
 - [Discord](https://discord.gg/nxWEjpW)
 - [QQ 群](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
-- [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
 - 直播间
   - [官方 Twitch](https://www.twitch.tv/thonkingtourney)
   - [IA daisuki](https://live.bilibili.com/4353181)

@@ -6,10 +6,10 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 
 ## Tournament Schedule
 
-| Event | Time |
+| Event | Timestamp  |
 | --: | :-- |
 | Registration Phase | 2019-07-13/2019-08-03 |
-| Qualifiers Showcase | 2019-8-10 |
+| Qualifiers Showcase | 2019-08-10 |
 | Qualifiers | 2019-08-17/2019-08-18 |
 | Live Drawings | 2019-08-18 |
 | Group Stage | 2019-08-24/2019-08-25 |
@@ -27,15 +27,15 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 | :-: | :-- |
 | ![](/wiki/shared/GCrown.png) | 3 months of osu!supporter tag, unique profile badge |
 | ![](/wiki/shared/SCrown.png) | 2 months of osu!supporter tag |
-| ![](/wiki/shared/BCrown.png) | 1 months of osu!supporter tag |
+| ![](/wiki/shared/BCrown.png) | 1 month of osu!supporter tag |
 
 ## Organisation
 
 | Position | Member(s) |
-| :-: | :-- |
+| :-- | :-- |
 | Management | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Coordinator | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Map Selectors | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| Coordinators | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Map Selectors | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
 | Streamers | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Referees | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentators | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
@@ -44,11 +44,11 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 
 ## Links
 
-- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform)
-- [Challonge](https://challonge.com/TNMT)
-- [Discord](https://discord.gg/nxWEjpW)
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
-- [Forum post](https://osu.ppy.sh/community/forums/topics/933542)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/933542)
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform)
+- [Challonge brackets](https://challonge.com/TNMT)
+- [Discord server](https://discord.gg/nxWEjpW)
+- [QQ group](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
 - Livestream
   - [Official Twitch](https://www.twitch.tv/thonkingtourney)
   - [IA daisuki](https://live.bilibili.com/4353181)
@@ -60,16 +60,16 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 
 ### Registration
 
-- The following conditions should be satisfied to register in the Tournaments.
+- Participants must met the following conditions in order for their registration to count.
   - Rank of osu!mania should **not above #4000**, and the highest historical rank is **lower than #3000**.
   - Have a good standing in osu!community and other tournaments in recent years.
-- List of participants will be submit to osu! Tournament Team. Player who don't meet the requirements will be removed from list.
+- List of participants will be submitted to the osu! Tournament Team. Player who do not meet the requirements will be removed from the list.
 - Staff (except commentators) are not allowed to sign up.
-- After osu! Tournament Team's review, players met requirements will receive notification email.
+- After osu! Tournament Team's review, players whom met requirements will receive notification via email.
 
 ### Overview
 
-All the mappools are in FreeMod. If player want to enable DT, NC or HT, the opponent must agree with it and inform the referee. All mappools except Qualifiers have a Tiebreaker.
+All the mappools are in FreeMod. If player wants to enable DT, NC or HT, both players must agree with the decision and inform the referee about the changes. All mappools except Qualifiers have a Tiebreaker.
 
 - Qualifiers: **32 leading players** descending order by total score will advance to Group Stage. **4 maps** in pool.
 - Group Stage: 32 or less players will be divide into groups and play in single round-robin. The best **2 players** of each group will advance to Round of 16. **9+1 maps** in pool, **BO7**.
@@ -98,20 +98,20 @@ CJB & TMT Team has the ultimate power of interpretation.
 - Match (not apply to Qualifiers)
   - Room settings will be **Team VS, Score V2**.
   1. Warm-up
-    - Referee will give host to random player, he can select any downloadable **osu!mania 4K** map. If the map is longer than 4 minutes, player should have agreement with his opponent and inform the referee. Then exchange host, play the second warm-up map.
+      - Referee will give host to random player, he can select any downloadable **osu!mania 4K** map. If the map is longer than 4 minutes, player should have agreement with his opponent and inform the referee. Then exchange host, play the second warm-up map.
   2. Roll & Ban
-    - After warm-up, send `!roll` to `#multiplayer` channel for rolling points. The loser of rolling points can ban a map first, then the winner. If draw, re-roll points.
+      - After warm-up, send `!roll` to `#multiplayer` channel for rolling points. The loser of rolling points can ban a map first, then the winner. If draw, re-roll points.
   3. Pick & Play
-    - Should not pick the map that banned in Roll & Ban.
-    - Should not pick the map that picked.
-    - Should not pick the Tiebreaker.
-    - The winner of rolling points will pick the first map, then exchange host every round.
-    - The interval between rounds shall **not be longer than 3 minutes**. Referee has right to force-start the round in 15 seconds after that.
-    - If draw, this round will be treated as invalid and the map will be marked as un-picked. Exchange the picker and play other map.
+      - Should not pick the map that banned in Roll & Ban.
+      - Should not pick the map that picked.
+      - Should not pick the Tiebreaker.
+      - The winner of rolling points will pick the first map, then exchange host every round.
+      - The interval between rounds shall **not be longer than 3 minutes**. Referee has right to force-start the round in 15 seconds after that.
+      - If draw, this round will be treated as invalid and the map will be marked as un-picked. Exchange the picker and play other map.
   4. Tiebreaker
-    - If both players reach the match point, the Tiebreaker will be used in this round.
+      - If both players reach the match point, the Tiebreaker will be used in this round.
   5. Pause
-    - If player has some unexpected things to do and need a pause, inform the referee and set a timer. Pause can **not be longer than 5 minutes**.
+      - If player has some unexpected things to do and need a pause, inform the referee and set a timer. Pause can **not be longer than 5 minutes**.
 - Overtime
   - Player not enter his room in time, or disconnect from a started match will be treated as Overtime. If Overtime timer of the player reached **10 minutes**, he will lost the match.
 
@@ -123,7 +123,7 @@ CJB & TMT Team has the ultimate power of interpretation.
 
 ### Group Stage
 
-- Group Stage will play in single round-robin. The best **2 players** of each group will advance to Round of 16. It arranged from highest priority to lowest:
+- Group Stage will be played under single round-robin. **2 best players** from each group will advance to Round of 16 stage. The priority range from highest to lowest priority explained as follows:
   1. More matches win.
   2. Higher `Number of rounds won - numbers of round lost`.
   3. Less round losses
