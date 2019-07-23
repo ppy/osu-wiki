@@ -554,7 +554,7 @@ All screenshots of gameplay must be done in the stable build, unless it is for a
 
 ##### osu! client settings
 
-*Note: If you do not want to change your current settings for the osu! wiki, you can install a separate installation of osu! in another directory.*
+*Note: If you do not want to change your current settings for the osu! wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.*
 
 You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
 
