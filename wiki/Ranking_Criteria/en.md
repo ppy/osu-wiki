@@ -40,8 +40,6 @@ For the record, these include the recent changes made [from the discussion forum
 - **Play time**: The time during which the health-bar drains combined with break periods.
 - **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
 - **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
-- **Single-mode beatmapset:** A beatmapset which contains difficulties of only one game mode.
-- **Hybrid beatmapset:** A beatmapset which contains difficulties of multiple game modes.
 - **Beatmapset host:** A user who uploads and manages a beatmapset.
 - **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
 - **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
