@@ -9,9 +9,9 @@
 | 阶段 | 时间 |
 | --: | :-- |
 | 报名 | 2019-07-13/2019-08-03 |
-| 资格赛图池展示 | 2019-08-10 12:00(UTC+0) |
-| 资格赛 | 2019-0817/2019-08-18 |
-| 小组赛抽签仪式 | 2019-08-18 12:00(UTC+0) |
+| 资格赛图池展示 | 2019-08-10 (12:00 UTC+0) |
+| 资格赛 | 2019-08-17/2019-08-18 |
+| 小组赛抽签仪式 | 2019-08-18 (12:00 UTC+0) |
 | 小组赛 | 2019-08-24/2019-08-25 |
 | 十六强 | 2019-08-31/2019-09-01 |
 | 四分之一决赛 | 2019-09-07/2019-09-08 |
@@ -36,11 +36,11 @@
 | 比赛经理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | 比赛监督 | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 | 图池管理 | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| 直播 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| 裁判 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| 解说 | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| 直播 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
+| 裁判 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287) |
+| 解说 | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |
 | 视觉设计 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## 链接
 
@@ -71,7 +71,7 @@
 
 全部图池均为 Free-mod，如果需要启用 DT、NC、HT 需对手同意，并告知裁判。除资格赛，其他图池均含一张 Tiebreaker。
 
-- 资格赛：全部参赛选手按图池总分数降序晋级前 32 名。图池为 4 张。
+- 资格赛：全部参赛选手按图池平均排名升序晋级前 32 名。图池为 4 张。
 - 小组赛：32 名或更少的选手按资格赛得分进行分组，组内进行单循环赛。每组积分最高的两名玩家晋级，共晋级 16 名。图池为 9+1 张，BO7。
 - 十六强及以后：16 名选手进行双败淘汰赛。
   - 十六强：图池为 11+1 张，BO9。
@@ -98,19 +98,19 @@
 - 比赛（资格赛不适用）
   - 房间设定为 Team VS, Score V2。
   1. 热手
-    - 裁判将随机给予房主，选手可选择一张 osu!mania 4K 专用谱面进行热手，热手图若长于 4 分钟需对方同意并经裁判确认，之后交换房主，遵循同样规则。
+      - 裁判将随机给予房主，选手可选择一张 osu!mania 4K 专用谱面进行热手，热手图若长于 4 分钟需对方同意并经裁判确认，之后交换房主，遵循同样规则。
   2. 摇点与禁图
-    - 双方热手完成后需在 `#multiplayer` 频道发送 `!roll` 进行摇点，若相同则重摇，点数低的选手先禁用地图，之后是点数高的选手禁用地图。
+      - 双方热手完成后需在 `#multiplayer` 频道发送 `!roll` 进行摇点，若相同则重摇，点数低的选手先禁用地图，之后是点数高的选手禁用地图。
   3. 选图比赛
-    - 摇点阶段禁用的地图以及决胜图不能选择
-    - 已经选择过的地图不能再次选择
-    - 摇点阶段点数高的选手先选择第一张地图，之后每轮交替选图。
-    - 每轮赛图结束后的空窗期不得长于 3 分钟，超时的情况裁判有权设置 15 秒倒计时强制开始。
-    - 若发生平局，该回合视为无效，地图重新记为未选择，交换选图选手，并且该回合不得再选择该图。
+      - 摇点阶段禁用的地图以及决胜图不能选择
+      - 已经选择过的地图不能再次选择
+      - 摇点阶段点数高的选手先选择第一张地图，之后每轮交替选图。
+      - 每轮赛图结束后的空窗期不得长于 3 分钟，超时的情况裁判有权设置 15 秒倒计时强制开始。
+      - 若发生平局，该回合视为无效，地图重新记为未选择，交换选图选手，并且该回合不得再选择该图。
   4. Tiebreaker（决胜）
-    - 双方均达到赛点时，该回合将强制选择 Tiebreaker。
+      - 双方均达到赛点时，该回合将强制选择 Tiebreaker。
   5. 中途暂停
-    - 如果选手因特殊原因需要在比赛中途暂停需告知裁判，裁判将设定计时器，暂停时间不得超过 5 分钟。
+      - 如果选手因特殊原因需要在比赛中途暂停需告知裁判，裁判将设定计时器，暂停时间不得超过 5 分钟。
 - 超时
   - 比赛时间已到但未入场、比赛中途从房间断开均记为超时，此时将启动一个计时器，计时器达到 10 分钟的选手判负。
 
@@ -130,7 +130,10 @@
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_US]: /wiki/shared/flag/US.gif
