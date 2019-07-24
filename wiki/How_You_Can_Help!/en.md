@@ -40,7 +40,7 @@ You can begin with lending people a hand on the following mediums:
 
 osu! has a dedicated team of reviewers to check if the beatmaps are ready to be ranked and played by everyone. However, that does not stop you from contributing in this sector, so here are a few things you can do to help:
 
-- Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?m=-1&s=4) listing for any artists or songs you like (or just choose at random).
+- Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like (or just choose at random).
 - Play beatmaps in the pending or work in progress stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding "Modding") and the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") to know the basics of technical modding and what makes a beatmap rankable.
 - Join the `#modhelp` and `#modreqs` on the in-game chat and join in on the conversation (or just follow along).

@@ -44,7 +44,7 @@ Download the Halloween Spotlight map pack [here](https://puu.sh/rYzoS/3ccb9ea263
 
 **The Halloween Spotlight will run for a full fortnight - well after the spooks themselves have retreated back into the earth to wait for next year.** The winners from each gamemode will find themselves earning 2 months of osu!supporter status each - long enough to tide you over until the Christmas events start in earnest!
 
-**We're also very happy to welcome the first new set of community-voted maps into the Loved category.** [Head on over to the listing](https://osu.ppy.sh/p/beatmaplist&s=4&r=12) and see for yourself! Almost all of these maps were added purely by your vote from the Community Voice polls we held earlier in the week. While you're busy being spooked to death, we'll be preparing the next set of polls for you to vote in.
+**We're also very happy to welcome the first new set of community-voted maps into the Loved category.** [Head on over to the listing](https://osu.ppy.sh/beatmapsets?s=loved) and see for yourself! Almost all of these maps were added purely by your vote from the Community Voice polls we held earlier in the week. While you're busy being spooked to death, we'll be preparing the next set of polls for you to vote in.
 
 Excited? Wait until you see Christmas.
 

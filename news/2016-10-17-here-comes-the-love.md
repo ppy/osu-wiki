@@ -23,7 +23,7 @@ Here's the details:
 
 The first vote will go up within a week or so. In the meantime, we'd like to present to you the first set of maps ever to be Loved:
 
-[Check them out here at the 'Loved' section in the Beatmap Listing!](https://osu.ppy.sh/p/beatmaplist?m=-1&r=12&g=0&la=0&ra=)
+[Check them out here at the 'Loved' section in the Beatmap Listing!](https://osu.ppy.sh/beatmapsets?s=loved)
 
 Head on over, download the map, and play! It may appear as a Qualified map in the game client until a patch goes in later during the week.
 
