@@ -9,9 +9,9 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-07-13/2019-08-03 |
-| Qualifiers Showcase | 2019-08-10 (12:00 UTC+0)  |
+| Qualifiers Showcase | 2019-08-10 (12:00 UTC+0) |
 | Qualifiers | 2019-08-17/2019-08-18 |
-| Live Drawings | 2019-08-18 (12:00 UTC+0)  |
+| Live Drawings | 2019-08-18 (12:00 UTC+0) |
 | Group Stage | 2019-08-24/2019-08-25 |
 | Round of 16 | 2019-08-31/2019-09-01 |
 | Quarterfinals | 2019-09-07/2019-09-08 |
