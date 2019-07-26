@@ -96,7 +96,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 | ¹ |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ¹ |
 | Chile | ![][flag_CL] | ![][flag_US] | United States | **17:00 UTC** | 13:00 UTC-04 | 13:00 UTC-04 | ² |
 | France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 | ² |
 | Chile | ![][flag_CL] | ![][flag_FR] | France | **21:00 UTC** | 17:00 UTC-04 | 23:00 UTC+02 | ³ |
