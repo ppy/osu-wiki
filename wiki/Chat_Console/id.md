@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Konsol Obrolan Standar
 
 Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` untuk membuka konsol obrolan.

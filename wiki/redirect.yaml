@@ -921,9 +921,15 @@
 "osu!alumni":                      "People/osu!_Alumni"
 "alumni":                          "People/osu!_Alumni"
 
-"quality_assurance_team":          "People/Quality_Assurance_Team"
-"qat":                             "People/Quality_Assurance_Team"
-"qat_blog":                        "People/Quality_Assurance_Team/Blog"
+"quality_assurance_team":          "Glossary#quality-assurance-team"
+"qat":                             "Glossary#quality-assurance-team"
+"people/quality_assurance_team":   "Glossary#quality-assurance-team"
+"people/qat":                      "Glossary#quality-assurance-team"
+"qat_blog":                           "Quality_Assurance_Team_Blog"
+"people/quality_assurance_team/blog": "Quality_Assurance_Team_Blog"
+
+"nomination_assessment_team":      "People/Nomination_Assessment_Team"
+"nat":                             "People/Nomination_Assessment_Team"
 
 "staff_log": "People/Staff_Log"
 "staff_promotion/retirement_log": "People/Staff_Log"

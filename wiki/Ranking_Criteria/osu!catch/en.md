@@ -97,7 +97,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
 - **Dashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 dashes would be allowed at 160 BPM and below, whereas 1/4 dashes would be allowed at 120 BPM and below.
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
-- **Basic dashes can't be used more than two times between consecutive fruits. If higher-snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
+- **Basic dashes must not be used more than two times between consecutive fruits. If higher-snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
 - **Higher-snapped dashes of different beat snap must not be used between consecutive fruits.**
 - **At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
 
@@ -121,11 +121,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes cannot be used on individual drops and/or slider repititions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the sliderpath.
 - **Hyperdashes may be used if the time between the ticks of the desired snapping is 125ms or higher.** As an example, 1/3 hyperdashes would be allowed at 160 BPM and below, whereas 1/4 hyperdashes would be allowed under 120 BPM.
-- **Basic hyperdashes can't be used more than two times between consecutive fruits. If higher-snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
+- **Basic hyperdashes must not be used more than two times between consecutive fruits. If higher-snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
 - **Hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
-- **Basic hyperdashes may be used in conjunction with antiflow patterns. If used, the spacing must not exceed a distance snap of 1.2x if followed by a walkable movement, or 1.1x the trigger distance if followed by a basic dash.**
+- **Basic hyperdashes may be used in conjunction with antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.2 times the trigger distance when followed by a walkable movement, or 1.1 times the trigger distance when followed by a basic dash.
 - **Dashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
-- **Basic dashes can't be used more than four times between consecutive fruits. Higher-snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
+- **Basic dashes must not be used more than four times between consecutive fruits. Higher-snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 125 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 - **At least 250 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 bpm, whereas a 1/2 gap would be required at 120 BPM.
@@ -133,8 +133,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
-- **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing must not exceed a distance snap of 1.1x the trigger distance and the movement after the hyperdash must be walkable.
-- **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5x above the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3x is recommended instead.
+- **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
+- **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5 times the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
 - Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
 
@@ -149,17 +149,17 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Hyperdashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 hyperdashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes would be allowed at 120 BPM and below.
-- **Basic hyperdashes can't be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
+- **Basic hyperdashes must not be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
 - **Higher-snapped hyperdashes of different beat snap (1/2, 1/4, etc.) must not be used between consecutive fruits.**
 - **At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
 #### Guidelines
 
-- **Hyperdashes should not be used on individual drops and/or slider repetitions.** If used, the slider path must be simple and easy-to-follow and they can't exceed two consecutive uses for basic hyperdashes. Higher-snapped hyperdashes within a slider are not allowed.
+- **Hyperdashes should not be used on individual drops and/or slider repetitions.** If used, the slider path must be simple and easy-to-follow and they must not exceed two consecutive uses for basic hyperdashes. Higher-snapped hyperdashes within a slider are not allowed.
 - Basic hyperdashes of different beat snap should not be used between consecutive fruits.
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
-- Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).
+- Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used in after hyperdashes.
 
 #### Difficulty Setting Guidelines
 
@@ -180,7 +180,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
 - 1/8 and higher hyperdashes should not be used between consecutive object pairs.
-- Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used in conjunction with hyperdashes.
+- Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used after hyperdashes.
 
 #### Difficulty Setting Guidelines
 

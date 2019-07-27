@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Qualificazione Beatmaps
 
 Quando viene inviata una beatmap, questa viene messa nella sezione "Pending" o nella sezione "Work in Progress". Queste mappe vengono chiamate comunemente "unranked" (non rankate). Le mappe unranked si differenziano da quelle rankate perché non hanno una tabella dei 50 migliori punteggi e possono finire nella sezione Graveyard dopo un mese di inattività (ovvero che non vengono aggiornate dal creatore da più di un mese). In modo che una mappa abbia la propria tabella dei 50 migliori punteggi deve passare per il processo di approvazione delle beatmap, il Beatmap Approval Process. Prima viene bollata "Bubbled" e poi viene rankata. Solo i [BAT](/wiki/People/Beatmap_Nomination_Group) possono mettere la bolla "bubbled" e, di conseguenza, rankare le mappe.

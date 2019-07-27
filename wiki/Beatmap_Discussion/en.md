@@ -138,7 +138,7 @@ Enabling the pin will allow the [modding field](#modding-field) to scroll with y
 - Thumbs Up/Down: Like/Dislike the mod.
   - Everyone but the mod submitter can give a thumbs up.
   - **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
-  - Only [BN](/wiki/BN), [QAT](/wiki/QAT), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
+  - Only [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
@@ -159,7 +159,7 @@ Hype is used to help push beatmaps forward to nomination; similar to how Star Pr
 
 ### Nomination
 
-Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all suggestions and problems resolved before it can become ranked. BN/QAT can reset nominations by posting a problem in the discussion field.
+Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all suggestions and problems resolved before it can become ranked. BN/NAT can reset nominations by posting a problem in the discussion field.
 
 ### Kudosu!
 
@@ -167,7 +167,7 @@ Nomination is similar to the previous modding system. A beatmap must receive 2 n
 
 Giving a thumbs up to a suggestion or problem in the discussion field will give the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder gets. Any user besides the poster can thumbs up any post.
 
-*Note: You are limited to 60 votes per hour, while BN and QAT members do not have this limit.*
+*Note: Normal users are limited to 60 votes per hour, while BN and NAT members do not have this limit.*
 
 Currently, these are the thresholds for earning a certain amount of Kudosu!:
 
@@ -175,7 +175,7 @@ Currently, these are the thresholds for earning a certain amount of Kudosu!:
 - 2 thumbs up = 2 Kudosu!
 - 5 thumbs up = 3 Kudosu!
 
-BN, QAT, and GMT members can deny Kudosu! by giving a thumbs down.
+BN, NAT, and GMT members can deny Kudosu! by giving a thumbs down.
 
 ## Reminders
 
