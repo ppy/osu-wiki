@@ -641,9 +641,13 @@ For more information about puush, see [puush / home](https://puush.me).
 
 ### QAT
 
-*Short for [Quality Assurance Team](/wiki/People/Quality_Assurance_Team).*
+*Short for [Quality Assurance Team](#quality-assurance-team).*
 
 Used to refer to the group itself or one of its members.
+
+### Quality Assurance Team
+
+The group predating the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
 
 ## R
 

@@ -14,8 +14,6 @@ Yapılan en son değişiklik 1 Şubat 2015'te, grubun ismi Beatmap Appreciation 
 
 ## Roller ve Sorumluluklar
 
-![The Nominator Badge](Nominator.png "The Nominator Badge")
-
 **Beatmap Aday Gösterme Grubunun** üyeleri ana olarak [beklemedeki beatmapların](/wiki/Beatmaps)  derecelendirme döngüsüne sokmak için [modlanması](/wiki/Modding) ile sorumludur.
 BNler herhangi bir modlama işi ya da maplama ve modlama hakkında tavisye istemek için gidilecek ilk kişilerdir.
 

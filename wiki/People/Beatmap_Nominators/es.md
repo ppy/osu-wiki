@@ -11,8 +11,6 @@ El **Beatmap Nomination Group**, mas comúnmente referido como BNG, es un grupo 
 
 ## Roles y Responsabilidades
 
-![The Nominator Badge](Nominator.png "The Nominator Badge")
-
 Los miembros del **Beatmap Nomination Group** son principalmente responsabes de [modear](/wiki/Modding) los [beatmaps pendientes](/wiki/Beatmaps) en el ciclo de ranking.
 Los BN son personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modeo.
 

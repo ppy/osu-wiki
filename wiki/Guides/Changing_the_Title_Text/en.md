@@ -4,7 +4,7 @@
 
 ## How to get it changed
 
-Sadly, you can't do this yourself. Just ask a [QAT](/wiki/People/Quality_Assurance_Team) to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
+Sadly, you can't do this yourself. Just ask an [NAT](/wiki/People/Nomination_Assessment_Team) member to change it. They're the only ones that are able to, so just give them a note of what you need/want, and if it's reasonable enough, you'll get your new title text on your map! Easy, right?!
 
 ## Why should I change it?
 
@@ -15,7 +15,7 @@ If used correctly, it can add a certain effect (in a good way!) to a map. It cha
 
 ## General Info
 
-Send a PM (private message) with this to a QAT member.
+Send a PM (private message) with this to a NAT member.
 
 -   Syntax is as follows:
 
