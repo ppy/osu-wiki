@@ -4,7 +4,7 @@ title: "Summer 2019 Fanart Contest Voting Now Open!"
 date: 2019-07-28 14:00:00 +0000
 ---
 
-The heat is ON with over 190 entries to pick from in the Summer 2019 Fanart Contest, and only 20 votes to go around! Take a look at our largest fan art contest yet - but be quick, the voting is only open for a week!
+The heat is ON with over 190 entries to pick from in the Summer 2019 Fanart Contest, and only 20 votes to go around! Take a look at our largest fan art contest yet, but be quick - the voting is only open for a week!
 
 [![](https://assets.ppy.sh/contests/79/header.jpg)](https://osu.ppy.sh/community/contests/79)
 
