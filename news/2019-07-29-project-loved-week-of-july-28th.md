@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of July 28th"
-date: 2019-07-29 10:00:00 +0000
+date: 2019-07-29 00:00:00 +0000
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) returns yet again for its (mostly) regularly scheduled programming.
@@ -25,7 +25,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 
 ---
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/1-the-rolling.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/1-the-rolling.jpg)](https://osu.ppy.sh/community/forums/topics/940615)
 
 [kors k vs Camellia - The Rolling](https://osu.ppy.sh/beatmapsets/688576#osu) by [Akali](https://osu.ppy.sh/users/2127359)  
 170 BPM, 4:09 | 7.38★  
@@ -35,7 +35,7 @@ It's been a few weeks since we've seen Akali here, but that changes today! Known
 
 This week in Project Loved, we are featuring his take on *The Rolling*, a song by both kors k and Camellia. The map itself is a blast to play, but what's more impressive is [Bubbleman's insane run](https://www.youtube.com/watch?v=JZUPo6eNisg) on it back in March. Since then, this map has garnered almost 100 favorites and sits here today for your vote. Check it out!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/2-yeah-right.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/2-yeah-right.jpg)](https://osu.ppy.sh/community/forums/topics/940595)
 
 [Joji - YEAH RIGHT](https://osu.ppy.sh/beatmapsets/798615#osu) by [Ksardas](https://osu.ppy.sh/users/6115007)  
 85 BPM, 2:18 | 5.39★  
@@ -43,7 +43,7 @@ This week in Project Loved, we are featuring his take on *The Rolling*, a song b
 
 osu! is a great way to blow off steam. Whether it's to relax after a long day or to get your mind off of something else, it's so easy to just chill and click some circles. This is the perfect map to do so. With the rise of Joji's popularity and the popularity of the LoFi music genre in general, it's apparent that more and more people are looking for songs to help unwind and relax. Ksardas's take on *YEAH RIGHT* makes this goal easier with patterns that follow circular flow and jumps that ride the vocals.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/3-arphimigon-collection-two.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/3-arphimigon-collection-two.jpg)](https://osu.ppy.sh/community/forums/topics/940594)
 
 [Various Artists - Arphimigon Collection Two](https://osu.ppy.sh/beatmapsets/280795#osu) by [Arphimigon](https://osu.ppy.sh/users/5392762)  
 170 BPM, 3:49 | 4.55★, 5.11★, 5.29★, 6.50★, 7.19★  
@@ -51,7 +51,7 @@ osu! is a great way to blow off steam. Whether it's to relax after a long day or
 
 Another fun collection of maps by Arphimigon appears after a couple of months—this time being his second collection! With songs like *Techno Kitty*, *Electronic Bitch* and an... interesting remix of *The Big Black*, why not give it a shot? The map set starts off pretty simple with 4.07 stars on the lowest difficulty but the set peaks at 7 stars as you go through! With the map reaching over 150 likes, this set is definitely worth your time.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/4-pumpmycrunkbeetz.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/4-pumpmycrunkbeetz.jpg)](https://osu.ppy.sh/community/forums/topics/940593)
 
 [$44,000 - #pumpmycrunkbeetz](https://osu.ppy.sh/beatmapsets/438763#osu) by [Silverboxer](https://osu.ppy.sh/users/2166762)  
 220 BPM, 1:54 | 2.39★, 4.73★, 6.31★, 6.81★  
@@ -59,7 +59,7 @@ Another fun collection of maps by Arphimigon appears after a couple of months—
 
 Projet Loved is back with another Silverboxer map—one that many of the older players may know. This map is great if you're looking to train your speed or aim as this map is over 200 BPM and 6.89 stars! Although it may not be for the newer players, this map is one to enjoy if you can play it. Have a crack at it!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/5-dragon-ball-rap.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/5-dragon-ball-rap.jpg)](https://osu.ppy.sh/community/forums/topics/940592)
 
 [Porta - Dragon Ball Rap](https://osu.ppy.sh/beatmapsets/809913#osu) by [Tatan](https://osu.ppy.sh/users/5646529) et al.  
 110 BPM, 1:58 | 6.76★, 7.20★, 7.72★, 7.92★  
@@ -67,7 +67,7 @@ Projet Loved is back with another Silverboxer map—one that many of the older p
 
 A household classic to some of you, Porta's *Dragon Ball Rap* has made its way to the gates of Project Loved! If this tune isn't familiar to you, check out the beatmap description for a well-written explanation of the song's history. The mapset features four difficulties all falling between high-6 and high-7 stars in difficulty. They're each jumpy in their own way, letting you bounce your cursor around to the beat of the song just like you'd jump around if it came on at a disco. Relive your younger days (or expose yourself to some cultural history) by playing this map yourself!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/6-maracas.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/6-maracas.jpg)](https://osu.ppy.sh/community/forums/topics/940591)
 
 [Dalas Calvo (Joan Sebastian y Alberto Vazquez) - Maracas](https://osu.ppy.sh/beatmapsets/904955#osu) by [Mantecolky](https://osu.ppy.sh/users/7643102)  
 187 BPM, 2:13 | 4.95★  
@@ -75,7 +75,7 @@ A household classic to some of you, Porta's *Dragon Ball Rap* has made its way t
 
 This map—or more importantly the video that goes along with it—is based on a popular Spanish Youtuber named DalasReview. Due to his controversial reputation around the internet, many memes have been made of him over the years, one of which being the osu! beatmap this description is attached to! An image of DalasReview was edited into a video that went along with the story of the song *Maracas*, which tells a tale of two men reflecting on their teenage love affairs. The map itself is just under 5 stars, making it friendly enough for most experienced players to play through. This map has gained a lot of attention over the last few months, so check it out if you'd like to see this gem for yourself!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/7-dizzy.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/7-dizzy.jpg)](https://osu.ppy.sh/community/forums/topics/940590)
 
 [Balduin & Wolfgang Lohr (feat. Alanna) - Dizzy](https://osu.ppy.sh/beatmapsets/611507#osu) by [Arastelia](https://osu.ppy.sh/users/7945027)  
 125 BPM, 2:44 | 5.51★, 7.24★  
@@ -83,7 +83,7 @@ This map—or more importantly the video that goes along with it—is based on a
 
 Enjoy some circle clicking with this electro swing song made by Baldiun and Wolfgang Lohr. The beatmap is mapped by a lesser known mapper Arastelia. The map plays really well together with the song, containing some back-and-forth jumps and sliders that go round and round. Don't get too addicted to the song, you'll need to hit some jumps that are pretty far apart! The map also has some custom hitsounds as well as being polished enough to merit it appearing on the Loved voting. Don't get dizzy!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/8-my-demons.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/8-my-demons.jpg)](https://osu.ppy.sh/community/forums/topics/940589)
 
 [Starset - My Demons](https://osu.ppy.sh/beatmapsets/428463#osu) by [Nightsky](https://osu.ppy.sh/users/6177006)  
 173 BPM, 3:55 | 2.20★, 3.64★, 4.71★, 5.49★  
@@ -91,7 +91,7 @@ Enjoy some circle clicking with this electro swing song made by Baldiun and Wolf
 
 *y Demons*! The popular song from Starset is mapped on osu! and waiting for its chance to be Loved. The mapset is well spread out. If you're a player who wants to relax or a hardcore one that likes hard jumps, this mapset has you covered. Each difficulty offers something unique. The lowest difficulty is Normal, with interesting slider shapes and simple, relaxing rhythms. The highest difficulty sits at almost 5.5 stars, containing some jumps and difficult rhythmic patterns. It's generally quite spaced, with a small amount of density throughout the map. Be prepared for the ending, as it gets really heavy with the jumps! Try the map out and see if you can scare away your demons!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/9-shuffle-heaven.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/9-shuffle-heaven.jpg)](https://osu.ppy.sh/community/forums/topics/940588)
 
 [RYO - Shuffle Heaven](https://osu.ppy.sh/beatmapsets/30682#osu) by [AngelHoney](https://osu.ppy.sh/users/104401) et al.  
 190 BPM, 1:53 | 1.57★ – 6.60★  
@@ -99,7 +99,7 @@ Enjoy some circle clicking with this electro swing song made by Baldiun and Wolf
 
 Many players already know of Nemis's set for *Shuffle Heaven*, but did you know AngelHoney made one too? Submitted back in 2011 and updated up until 2014, this set showcases his signature streamy style and even includes a guest difficulty from rustbell. The set is full of multiple tests spanning many different aspects of play, so give each map a try and see what you think!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/10-coward-killing-time.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/osu/10-coward-killing-time.jpg)](https://osu.ppy.sh/community/forums/topics/940587)
 
 [The Quick Brown Fox - Coward Killing Time](https://osu.ppy.sh/beatmapsets/23412#osu) by [theowest](https://osu.ppy.sh/users/60604), [OzzyOzrock](https://osu.ppy.sh/users/465153) and [Medi-chan](https://osu.ppy.sh/users/707875)  
 200 BPM, 1:48 | 1.62★, 2.39★, 2.44★, 3.72★, 5.62★  
@@ -113,7 +113,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 ---
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/1-ishukan-communication-tv-size.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/1-ishukan-communication-tv-size.jpg)](https://osu.ppy.sh/community/forums/topics/940585)
 
 [Chorogons - Ishukan Communication(TV size)](https://osu.ppy.sh/beatmapsets/602600#taiko) by [Skylish](https://osu.ppy.sh/users/2845958)  
 108 BPM, 1:29 | 0.88★, 2.36★, 3.12★, 4.40★, 5.63★  
@@ -125,7 +125,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 You could probably call this the foundation of all pp maps as it has high star-rating despite being a simple map mostly composed of just 5/16 and 3/16 rhythms. But because maps using 1/16 snapping were something of a novelty at the time, it wouldn't be saying too much even if I said this map changed the relationship between maps and pp. You can feel the mapper's skill not just from originality, but how much they're able to express using just doublet note patterns.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/2-deadly-dolly-dance.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/2-deadly-dolly-dance.jpg)](https://osu.ppy.sh/community/forums/topics/940584)
 
 [Shiron - Deadly Dolly Dance](https://osu.ppy.sh/beatmapsets/565909#taiko) by [butter0414](https://osu.ppy.sh/users/7935022) and [komasy](https://osu.ppy.sh/users/1980256)  
 160 BPM, 1:58 | 4.03★, 6.83★  
@@ -133,7 +133,7 @@ You could probably call this the foundation of all pp maps as it has high star-r
 
 Make your fingers dance with Shiron's *Deadly Dolly Dance*—by far one of the grooviest taiko maps out there! butter0414 fully utilizes the often underemphasized 1/3 rhythms, making for one of the most satisfying beats you'll ever hit. Just be careful of those tricky long streams!
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/3-schur-s-theorem.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/taiko/3-schur-s-theorem.jpg)](https://osu.ppy.sh/community/forums/topics/940583)
 
 [w_tre respect for AT&HU - Schur's Theorem](https://osu.ppy.sh/beatmapsets/817767#taiko) by [Raphalge](https://osu.ppy.sh/users/3918650)  
 185 BPM, 1:38 | 7.63★  
@@ -147,7 +147,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 ---
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/catch/1-end-time.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/catch/1-end-time.jpg)](https://osu.ppy.sh/community/forums/topics/940581)
 
 [Cres - End Time](https://osu.ppy.sh/beatmapsets/406487#fruits) by [Callionet](https://osu.ppy.sh/users/3072921) and [ZHSteven](https://osu.ppy.sh/users/142413)  
 180 BPM, 2:09 | 5.16★, 6.08★  
@@ -155,7 +155,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 Streamy maps, which are mostly seen with modern styles, are always considered easy and comfortable for play. However, the map *End Time* reveals the more difficult side of streamy maps. Both two difficulties have their own styles. Steven's difficulty, which is done by well-known mapper ZHSteven, showcases the beauty of old styles, being featured in the CWC 2018 Semifinals. The RequiemTrance difficulty, by top player Callionet, has a rather high circle size 5.7, and is a real challenge for catch players. This map will give you a brand ew view of hard maps.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/catch/2-suki-yuki-maji-magic.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/catch/2-suki-yuki-maji-magic.jpg)](https://osu.ppy.sh/community/forums/topics/940580)
 
 [Mitchie M - Suki ! Yuki ! Maji Magic](https://osu.ppy.sh/beatmapsets/508597#fruits) by [Nucoin](https://osu.ppy.sh/users/1089803)  
 167 BPM, 3:17 | 5.89★  
@@ -169,7 +169,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 
 ---
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/1-uta.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/1-uta.jpg)](https://osu.ppy.sh/community/forums/topics/940578)
 
 [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by [Evening](https://osu.ppy.sh/users/2193881) and [XeoStyle](https://osu.ppy.sh/users/3377280)  
 140 BPM, 8:48 | [4K] 4.74★, [4K] 5.64★, [4K] 5.77★
@@ -182,7 +182,7 @@ If this 9 minute beast is too much to handle, then the Bloody Hopeful Romantic d
 
 Back when this was first released, it gained significant notoriety through the community, going as far as being used as a tiebreaker in the first edition of SOFT, osu!mania's biggest 1v1 tournament, and even now still maintains a level of relevance due in no small part to the challenge and satisfaction that the chart gives,in addition to the popularity of the song keeping people interested despite its length. This gives more than enough reason for *Uta* to be nominated for the Loved section.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/2-mario-paint-time-regression-mix-for-bms.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/2-mario-paint-time-regression-mix-for-bms.jpg)](https://osu.ppy.sh/community/forums/topics/940577)
 
 [ueotan - Mario Paint (Time Regression Mix for BMS)](https://osu.ppy.sh/beatmapsets/292994#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
 155 BPM, 1:29 | [4K] 4.91★, [4K] 5.68★, [4K] 6.74★
@@ -193,7 +193,7 @@ D-NORMAL contains 1/6 jumpstream, with a maximum density of doubles every 3 note
 
 Mario Paint, as a mapset, has sustained popularity for over four and a half years, and you'll practically never meet anyone who has been playing osu!mania for a while and not know what Mario Paint is. Its popularity, alongside its general accessibility towards a wide range of players, makes this mapset a contender for the Loved section of the highest caliber.
 
-[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/3-gravitation.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/3-gravitation.jpg)](https://osu.ppy.sh/community/forums/topics/940576)
 
 [Kurosaki Maon - Gravitation](https://osu.ppy.sh/beatmapsets/884981#mania) by [tangjinxi](https://osu.ppy.sh/users/2270126)  
 200 BPM, 4:22 | [7K] 10.38★
