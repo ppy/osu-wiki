@@ -9,7 +9,7 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 3. **Sii buono l'uno con l'altro.** Le molestie o altri antagonismi non hanno posto nella community di osu!. Siamo qui per cliccare cerchi, battere tamburi, raccogliere frutta e colpire fino a diciotto tasti contemporaneamente, non per darci fastidio ed offenderci l'uno con l'altro.
 4. **Non essere un cretino.** Se in qualsiasi momento ti stai chiedendo se stai infrangendo questa regola, probabilmente è così.
 5. **Siamo una community di tutte le età.** Ciò significa che i contenuti 18+/NSFW (*Not Safe For Work*, non adatti ad un ambito lavorativo) come l'uso di droghe ed argomenti di natura sessuale non sono i benvenuti qui. Le eccezioni sono fatte dove la discussione lo permette, ma in generale evita e basta.
-6. **Nel caso in cui le regole non prevalgano, lo farà il buon senso.** L'amministrazione ha la discrezione esplicita di applicare il proprio giudizio su ciò che ritengono opportuno.
+6. **Nel caso in cui le regole non prevalgano, subentrerà il buon senso.** L'amministrazione ha la discrezione esplicita di applicare il proprio giudizio su ciò che ritengono opportuno.
 
 ## Regole della chat di gioco
 
