@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Aprovação de Beatmaps
 
 ![Processo de Ranking.](Ranking_procedure.png "Processo de Ranking.")

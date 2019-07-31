@@ -40,14 +40,14 @@ Someone just posted some suggestions on your map, great! - but it doesn't end th
 -   Treat all suggestions as valid and equally important until you have thoroughly inspected and tested them - even minor stylistic changes or alternative viewpoints can help improve the quality of a beatmap
 -   As with making a mod post, be sure to explain yourself as much as possible. State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead.
 -   When declining a suggestion, remain calm and professional, say what needs to be said in order to explain yourself and **leave it at that**. No matter how impolite, confusing or unhelpful the suggestion was, getting angry and responding with hostility, sarcasm, etc. will not help the situation.
--   BNs and QATs will review previous mods before placing any icons and may want to initiate or revisit discussions during their checks. Any assistance you can provide as to why you did or didn't do something takes very little effort, and could be a huge help to all parties later on.
+-   BNs and NAT members will review previous mods before placing any icons and may want to initiate or revisit discussions during their checks. Any assistance you can provide as to why you did or didn't do something takes very little effort, and could be a huge help to all parties later on.
 
 ## Further Exchange and Discussion
 
 Sometimes, a single mod and response isn't enough to bring all parties to agreement, or fully resolve an issue. Perhaps the mapper doesn't agree with a suggestion, and the modder isn't satisfied with their response. Alternatively, both parties might agree that although one option is better, it isn't the best option and could still be improved further with additional input. Continued feedback is the best way to improve a beatmap, so get people involved and talking to get as many different ideas, or see things from as many points of view as necessary.
 
 -   If you're unsure about something, ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
--   Still can't reach an agreement? Ask someone with more experience, such as a BN or QAT. Remember they are busy people, however! Should you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside - **sometimes being wrong can be far more valuable than being right**.
+-   Still can't reach an agreement? Ask someone with more experience, such as a BN or NAT member. Remember they are busy people, however! Should you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside - **sometimes being wrong can be far more valuable than being right**.
 -   **There is no such things as a "wrong" opinion** - it's up to the mapper and modders to come to an agreement in a civil manner - try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
 -   If you can't explain something through logic, you will not be able to explain it to them through violence either. Rather than continue a discussion that isn't progressing, walk away and try again with the next modder/mapper.
 -   When things look to be getting out of hand, or of the discussion is struggling to stay on topic, call a moderator - don't contribute to the problem by continuing to post.
@@ -58,4 +58,4 @@ The Qualified section allows mapsets to receive any final suggestions for change
 
 If you're unsure on the nature of a potential problem, ask for other opinions or review previous mod posts to make sure the "issue" presented isn't something done intentionally by the mapper - if so, it will likely have been discussed already. If there has been no prior discussion, feel free to open one as if you were modding the map normally. If you feel the issues discovered should prevent the mapset from being ranked, report it in this thread with a link to your mod post and a brief outline of your concerns.
 
-**Note that it is the community's responsibility ALONE to report issues with qualified beatmaps**. The Quality Assurance Team will NOT actively check and disqualify mapsets unless prompted to do so.
+**Note that it is the community's responsibility ALONE to report issues with qualified beatmaps**. It is not guaranteed that BNs or NAT members will actively check and disqualify mapsets without being prompted to do so.

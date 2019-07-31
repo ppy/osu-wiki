@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmaps
 
 Los beatmaps son los niveles a completar en [osu!](/wiki/osu!_glossary), similares a los de los [Juegos de DS](/wiki/Glossary/#ds-games). Los beatmaps se componen de una canción y varios [hit objects](/wiki/hit_objects) situados en el espacio y el tiempo al ritmo de la música. Pueden tener como fondo una imagen, un vídeo o un [storyboard](/wiki/storyboard).
