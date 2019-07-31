@@ -90,29 +90,57 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Finals
+## Match Schedule: Grand Finals
 
-### Saturday, 27. July 2019
+### Saturday, 3. August 2019
 
 | Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ¹ |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **17:00 UTC** | 13:00 UTC-04 | 13:00 UTC-04 | ² |
-| France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 | ² |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | **21:00 UTC** | 17:00 UTC-04 | 23:00 UTC+02 | ³ |
-| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 | ³ |
-| United States | ![][flag_US] | ![][flag_MX] | Mexico | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 | ³ |
-| United States | ![][flag_US] | ![][flag_FR] | France | **21:00 UTC** | 17:00 UTC-04 | 23:00 UTC+02 | ³ |
+| China | ![][flag_CN] | ![][flag_CL] | Chile | **16:00 UTC** | 00:00 UTC+08 (Sun) | 12:00 UTC-04 | ¹ |
 
- ¹ Winner bracket encounter
+### Sunday, 4. August 2019
+
+| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **01:00 UTC** | 10:00 UTC+09 | 21:00 UTC-04 (Sat) |  ² |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ² |
+
+ ¹ Loser bracket Grand Final
  
- ² Loser bracket encounter
- 
- ³ Encounter dependent on results of ²Loser bracket encounter
+ ² Winner bracket Grand Final dependent on results of ¹ Loser bracket Grand Final
 
 ---
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the map pack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool)**
+
+- NoMod
+	- [Masayoshi Iimori - BREAK OVER \(- G i G a s -\) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
+	- [Mitsuyoshi Takenobu no Ani - Amphisbaena \(Ascendance\) \[Mythic Another \(2019 Edit Ver.\)\]](https://osu.ppy.sh/beatmapsets/1009892#fruits/2114109)
+	- [Chroma - Made In Love \(Bunnrei\) \[Ai\]](https://osu.ppy.sh/beatmapsets/973405#fruits/2037794)
+	- [Shiron - CODE -CRiMSON- \(CLSW\) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/534978#fruits/1133219)
+	- [Omoi - Chiisana Koi no Uta \(Synth Rock Cover\) \(val0108\) \[Kroytz's EX EX\]](https://osu.ppy.sh/beatmapsets/609189#fruits/1312375)
+	- [Zekk - Calling \(NeilPerry\) \[winber1's Special Extra\]](https://osu.ppy.sh/beatmapsets/673878#fruits/1430468)
+- Hidden
+	- [Emilie Autumn - I Know Where You Sleep \(- Magic Bomb -\) \[Revealed\]](https://osu.ppy.sh/beatmapsets/673883#fruits/1426045)
+	- [uno & D.watt \(IOSYS TRAX\) - #Endroll \(INO\) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/732562#fruits/1545604)
+	- [Susumu Hirasawa - Aurora 2 \(NachoPiggy\) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
+	- [Shinra-bansho - Zenryoku Happy Life \(Hailie\) \[Extra\]](https://osu.ppy.sh/beatmapsets/806350#fruits/1692553)
+- HardRock
+	- [Dasu - Nakakapagpabagabag \(Bunnrei\) \[Schadenfreude\]](https://osu.ppy.sh/beatmapsets/755615#fruits/1590406)
+	- [Ponkichi - Hyakukakai to Shirotokkuri \(F D Flourite\) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
+	- [Shindig - Zzz \(squirrelpascals\) \[I'm Home\]](https://osu.ppy.sh/beatmapsets/802730#fruits/1684963)
+	- [seleP - Scarlet Rose \(pkk\) \[X\]](https://osu.ppy.sh/beatmapsets/528089#fruits/1120184)
+- DoubleTime
+	- [Maksim Mrvica - Croatian Rhapsody \(ZHSteven\) \[Insane\]](https://osu.ppy.sh/beatmapsets/191590#fruits/881329)
+	- [Project Grimoire - Brionac ~Lugh Lamhfhata~ \(Rocma\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
+	- [Ni-Sokkususu - Shukusai no Elementalia \(Silynn\) \[haqi's Insane\]](https://osu.ppy.sh/beatmapsets/203309#fruits/880587)
+	- [Hatsuki Yura - Lunicode \(GreenHue\) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#fruits/1689336)
+- Tiebreaker
+	- **[Camellia - gigadelic \(Camellia's "THE TERA" Remix\) \[" 10^12 " Long ver.\] \(Minato Yukina\) \[Final Showdown\]](https://osu.ppy.sh/beatmapsets/856174#fruits/1788806)**
 
 ### Finals
 
@@ -253,6 +281,15 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2019-07-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/53636548) |
+| Chile ![][flag_CL] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/53643053) |
+| France ![][flag_FR] | 2 | **7** | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/53645553) |
+| Chile ![][flag_CL] | **7** | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/53648177) |
 
 ### Semifinals
 
