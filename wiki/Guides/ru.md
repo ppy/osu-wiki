@@ -46,9 +46,9 @@
 
 *Смотрите также: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-- [Вырезание со сложными фонами](/wiki/Cropping_with_Complex_Backgrounds)
-- [Вырезание с простыми фонами](/wiki/Cropping_with_Simple_Backgrounds)
-- [Создание правильных спиннеров](/wiki/Making_Properly_Centered_Spinners)
+- [Как удалить "сложный" фон на картинке](/wiki/Cropping_with_Complex_Backgrounds)
+- [Как удалить "простой" фон на картинке](/wiki/Cropping_with_Simple_Backgrounds)
+- [Создание круглых картинок](/wiki/Making_Properly_Centered_Spinners)
 
 ## Прочее
 
