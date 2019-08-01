@@ -1,6 +1,6 @@
 # Руководства
 
-Ниже приведен отсортированный список руководств, созданный членами osu!. Большинство из них было создано на форумах, но потом перенесено в osu!вики
+Ниже приведен упорядоченный список руководств, созданный членами osu!community. Большинство из них были созданы на форуме osu!, но в последствии перенесены в osu!вики
 
 ## Маппинг
 
@@ -16,7 +16,7 @@
 - [Кастомные примеры переопределений](/wiki/Custom_Sample_Overrides)
 - [Получение песен из игр](/wiki/Getting_Songs_From_Video_Games)
 - [Как затаймить песню](/wiki/How_to_Time_Songs)
-- [Музыкальная теория](/wiki/Music_Theory)
+- [Теория музыки](/wiki/Music_Theory)
 - [Гайд по маппингу в osu!mania](/wiki/osu!mania_Mapping_Guide)
 - [Настройка оффсета и БПМ](/wiki/Setting_the_Offset_on_the_Correct_Beat)
 - [Создание проектор по карте](/wiki/Starting_a_Beatmap_Project)
@@ -50,6 +50,6 @@
 - [Вырезание с простыми фонами](/wiki/Cropping_with_Simple_Backgrounds)
 - [Создание правильных спиннеров](/wiki/Making_Properly_Centered_Spinners)
 
-## Разнообразный
+## Прочее
 
 - [Как запустить osu! на Mac без использования Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)
