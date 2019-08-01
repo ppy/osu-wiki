@@ -1,8 +1,7 @@
 # Tworzenie scenorysu
 
-Jak stworzyć scenorys?
-----------------------
+## Jak stworzyć scenorys?
 
-[Edytor Scenorysu](/wiki/Storyboard_Editor) (ES) znajduje się w zakładce "Design" (skrót klawiszowy F2) w Edytorze Beatmap. ES przede wszystkim oferuje użytkownikom łatwe kontrolowanie ruchu prostych grafik, jednak jest uważany za niezgrabny i przydatny tylko w przypadku tworzenia najbardziej podstawowego scenorysu. Jeżeli chcesz utworzyć panaromiczny scenorys, możesz to zrobić, przechodząc do okna dialogowego ustawień utworu.
+[Edytor scenorysu](/wiki/Storyboard_Editor) znajduje się w zakładce Design dostępnej pod skrótem klawiszowym `F2` w edytorze beatmap. Generalnie edytor scenorysu umożliwa łatwą kontrolę nad ruchem prostych sprite'ów, jednak jest on często uważany za toporny i nieskuteczny dla tworzenia czegokolwiek poza podstawowymi scenorysami. Jeżeli chcesz stworzyć scenorys panoramiczny, to możesz to zrobić poprzez okienko z ustawieniami utworu.
 
-Użytkowniczy doświadczeni w tworzeniu scenorysów często używają kodu backend, stworzonego przez ES, zatutyłowanego [Skryptowanie Scenorysu](/wiki/Storyboard_Scripting) (SS), ponieważ zapewnia im większą kontrolę. Zobacz artykuł by dowiedzieć się więcej.
+Użytkownicy posiadający doświadczenie w tworzeniu scenorysów często posługują się kodem generowanym przez edytor scenorysu. Jest on nazywany [skryptem scenorysu](/wiki/Storyboard_Scripting) i daje twórcom większą kontrolę nad obiektami. Sprawdź ten artykuł po więcej informacji.
