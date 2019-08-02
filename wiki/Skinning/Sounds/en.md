@@ -460,6 +460,8 @@ Notes:
 
 ## Gameplay
 
+The following gameplay sounds are all beatmap skinnable.
+
 ### Countdown
 
 `count.wav`
