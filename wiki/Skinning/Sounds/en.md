@@ -2,7 +2,9 @@
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
 
-## Main Menu
+## Interface
+
+### Main menu
 
 `heartbeat.wav`
 
@@ -26,7 +28,7 @@ Notes:
 - Plays when starting the osu!client.
 - This can be disabled in the [options](/wiki/options).
 
-## Keys
+### Keys
 
 `key-confirm.wav`
 
@@ -82,7 +84,7 @@ Notes:
 
 - Plays when pressing a key for chat, search, edit, etc.
 
-## Clicks
+### Clicks
 
 `back-button-click.wav`
 
@@ -258,7 +260,7 @@ Notes:
 
 - Plays when a screenshot is taken.
 
-## Hover
+### Hover
 
 `back-button-hover.wav`
 
@@ -382,7 +384,7 @@ Notes:
 
 - Plays when hovering over Retry in pause menu.
 
-## Drag
+### Drag
 
 `sliderbar.wav`
 
@@ -398,7 +400,7 @@ Notes:
 
 - As of now, this is disabled.
 
-## Multiplayer
+### Multi
 
 `match-confirm.wav`
 
@@ -447,7 +449,18 @@ Notes:
 - Plays when the match is starting.
 - This is also the chat highlight sound.
 
-# Countdown
+### Metronome
+
+`metronomelow.wav`
+
+Notes:
+
+- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
+- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
+
+## Gameplay
+
+### Countdown
 
 `count.wav`
 
@@ -476,24 +489,7 @@ Notes:
 
 `readys.wav`
 
-## Metronome
-
-`metronomelow.wav`
-
-Notes:
-
-- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
-- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
-
-## Gameplay
-
-`applause.wav`
-
-Notes:
-
-- On the ranking screen after clearing a map.
-
----
+### Playfield
 
 `comboburst.wav`
 
@@ -534,7 +530,15 @@ Notes:
 
 - Halfway through a break with low HP remaining.
 
-## Pause Screen
+### Game screens
+
+`applause.wav`
+
+Notes:
+
+- On the ranking screen after clearing a map.
+
+---
 
 `pause-loop.wav`
 
@@ -544,11 +548,11 @@ Notes:
 - This sound is looped.
 - Fades out when the client loses focus.
 
-## Hit Sounds
+### Hit sounds
 
 Hit sounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
 
-### Drum Set
+#### Drum set
 
 `drum-hitnormal.wav`
 
@@ -606,7 +610,7 @@ Notes:
 - Mapped as `D:C1` on beatmap skins.
 - This sound is looped.
 
-### Normal Set
+#### Normal set
 
 `normal-hitnormal.wav`
 
@@ -664,7 +668,7 @@ Notes:
 - Mapped as `N:C1` on beatmap skins.
 - This sound is looped.
 
-### Soft Set
+#### Soft set
 
 `soft-hitnormal.wav`
 
@@ -722,7 +726,7 @@ Notes:
 - Mapped as `S:C1` on beatmap skins.
 - This sound is looped.
 
-### Spinner Set
+#### Spinner set
 
 `spinnerspin.wav`
 
@@ -740,9 +744,9 @@ Notes:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
-### Taiko Hit Sounds
+#### osu!taiko specific
 
-#### Normal Set
+##### Normal set
 
 `taiko-normal-hitnormal.wav`
 
@@ -774,7 +778,7 @@ Notes:
 
 - Mapped as `N:C1` on beatmap skins.
 
-#### Soft Set
+##### Soft set
 
 `taiko-soft-hitnormal.wav`
 
@@ -806,7 +810,7 @@ Notes:
 
 - Mapped as `S:C1` on beatmap skins.
 
-#### Drum Set
+##### Drum set
 
 `taiko-drum-hitnormal.wav`
 
