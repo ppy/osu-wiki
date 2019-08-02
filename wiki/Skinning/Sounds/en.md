@@ -823,7 +823,7 @@ Notes:
 
 ---
 
-_`taiko-drum-hitclap.wav`_
+`taiko-drum-hitclap.wav`
 
 Notes:
 
