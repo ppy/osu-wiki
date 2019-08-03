@@ -32,8 +32,8 @@ Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
 ### Rules
 - This contest is for only osu!Standard mode.
 - Only Koreans are permitted to participate. If your profile flag is not showing you're in korea because of some reasons like foreign residence, you can participate if you're able to verify that you're a korean somehow. 
-- Contestants should submit only a difficulty. More submitting won't be considered as your entry. 
-- The entry shouldn't be easier than Insane, otherwise your entry won't be considered as an entry. 
+- Contestants should only submit one difficulty. More submitting won't be considered as your entry. 
+- The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
 - Storyboard and Video may not be considered for judging.
 - Contestants may follow [Ranking Criteria](Ranking_Criteria/en.md).
 
