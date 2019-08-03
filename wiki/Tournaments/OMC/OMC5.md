@@ -15,10 +15,6 @@ The **OMC5** (***osu! Fan Cafe Mapping Contest #5***) is a mapping contest hoste
 
 Schedules may be delayed.
 
-<!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
-Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
- -->
-
 ## Songs
  Contestants are offered 2 songs to choose from. These maps are free from copyright issues as we have legally bought the rights to use the songs. No other songs may be mapped other than the 2 offered.
 
@@ -28,7 +24,7 @@ Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
 | 2. Cranky - R176 |
 
 ## Ruleset
-<!-- For official tournaments it depends on game mode used -->
+
 ### Rules
 - This contest is for only osu!Standard mode.
 - Only Koreans are permitted to participate. If your profile flag is not showing you're in korea because of some reasons like foreign residence, you can participate if you're able to verify that you're a korean somehow. 
@@ -79,8 +75,3 @@ The OMC5 is run by korean community members by distributing the multitude of tas
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
 
 ---------------------------------
-
-<!--
-Add flag references here.
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
- -->
