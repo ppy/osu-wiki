@@ -4,28 +4,28 @@ The rules listed here affect what Beatmap Nominators can and cannot do when nomi
 
 Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) directly.
 
-## General
-
-+ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, NAT or otherwise) involved in the ranking process.
-+ **Do not qualify beatmapsets whose song already has a Qualified beatmapset, unless no game modes of both sets overlap - this includes remixed versions**. For example an osu!taiko and osu! beatmapset of the same song can exist in the Qualified section, whilst an osu!taiko and osu!/osu!taiko hybrid set cannot. This ensures variety among Ranked beatmaps within their respective game modes.
-+ **Make sure no mod posts in the beatmap discussion have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
-
 ## Conduct
 
 + **Do not follow any unfinalized rules or amendments.**
 + **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
-+ **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
-+ **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
++ **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, NAT or otherwise) involved in the ranking process.
 
 ## Nomination
 
 + **Do not nominate beatmaps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
 + **Do not nominate beatmapsets that you contributed to.** This applies to your own beatmaps, collaboration difficulties you participate in as well as beatmaps that you hitsounded or made a storyboard for.
-+ **Do not nominate a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
-+ **Do not nominate a beatmap without properly checking all difficulties of the beatmap all by yourself.** If you are unfamiliar with the game mode some of the difficulties are mapped in, ask fellow Beatmap Nominators for help. Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
-+ **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
-+ **Hybrid beatmapsets must be nominated by full nominators from two of its modes in order to be qualified**, as well as gain clear approval from any remaining modes' nominators in the modding discussion. This means only full members may nominate hybrid sets, and ensures that a full nominator takes responsibility for each mode (regardless of nominating or just giving approval in the discussion). In this scenario, nominators proficient in multiple modes can approve more than one mode.
++ **Do not nominate a beatmap without properly checking all difficulties of the beatmapset all by yourself.** If you are unfamiliar with the game mode some of the difficulties are mapped in, ask fellow Beatmap Nominators for help. Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
++ **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
++ **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
 + **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the beatmapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
++ **Make sure no mod posts in the beatmap discussion have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
+
+### Qualification
+
++ **Do not qualify beatmapsets whose song already has a Qualified beatmapset, unless no game modes of both sets overlap—this includes remixed versions**. For example an osu!taiko and osu! beatmapset of the same song can exist in the Qualified section, whilst an osu!taiko and osu!/osu!taiko hybrid set cannot. This ensures variety among Ranked beatmaps within their respective game modes.
++ **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
++ **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
++ **Hybrid beatmapsets must be nominated by full nominators from two of its modes in order to be qualified**, as well as gain clear approval from any remaining modes' nominators in the modding discussion. This means only full members may nominate hybrid sets, and ensures that a full nominator takes responsibility for each mode (regardless of nominating or just giving approval in the discussion). In this scenario, nominators proficient in multiple modes can approve more than one mode.
 
 ## Nomination Reset
 
