@@ -6,7 +6,7 @@
 
 Сложности карт *описывают* уровень навыка игрока, необходимый для ее прохождения.
 
-## Звёздочная оценка
+## Оценка по звёздам
 
 ![Оценка по звёздам](img/SR-range.png "Star rating ranges")
 
@@ -43,7 +43,7 @@
 - ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu)
 - ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
 - ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (Иногда называется "Inner Oni")
+- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (иногда называется "Inner Oni")
 
 ### osu!catch
 
