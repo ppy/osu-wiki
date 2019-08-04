@@ -6,7 +6,7 @@ tags:
 
 # osu! Fan Cafe Mapping Contest #5 
 
-![OMC5 Logo](/wiki/Contests/OMC/5/img/omcbg.jpg)
+![OMC5 Logo](img/omcbg.jpg)
 
 The **OMC5** (***osu! Fan Cafe Mapping Contest #5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the 5th installment of the OMC.
 
@@ -15,22 +15,18 @@ The **OMC5** (***osu! Fan Cafe Mapping Contest #5***) is a mapping contest hoste
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
 | Registration Phase | 2019-08-12/2019-08-18 |
-| Submitting Phase | 2019-08-19 ~ 2019-09-19 24:00 UTC +9 |
-| Judging Phase | 2019-09-20 ~ 2019-09-27 24:00 UTC +9 |
+| Submitting Phase | 2019-08-19/2019-09-19 |
+| Judging Phase | 2019-09-20/2019-09-27 |
 | Results Announcement | 2019-09-20 |
 
 Schedules may be delayed.
 
 ## Songs
 
-
-
  Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
-|     |
-| --: |
-| 1. (to be announced) |
-| 2. Cranky - R176 |
+ 1. (to be announced)
+ 2. Cranky - R176
 
 ## Ruleset
 
@@ -61,8 +57,6 @@ Schedules may be delayed.
 - Contestants may only submit one beatmap, regardless of difficulty. Following the contest, the winner will map additional difficulties to complete a full mapset. 
 ## Prizes
 
-In every contest, people conquering a place on the podium are eligible to receive unique prizes created specifically for OMC winners. It is possible that these items change with every installment of the OMC.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW + Profile Badge for each division (Pro and Rookie) winner |
@@ -78,6 +72,7 @@ The OMC5 is run by members of the Korean mapping community.
 | Management | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
 | Judge | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
 | Designer | [Enon](https://osu.ppy.sh/users/2043401) |
+
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
