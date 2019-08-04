@@ -8,7 +8,7 @@ tags:
 
 ![OMC5 Logo](img/omcbg.jpg)
 
-**OMC5** (***osu! Fan Cafe Mapping Contest #5***)는 한국에서 열리고 한국인만 참가하는 것이 가능한 매핑 컨테스트입니다.
+**osu! Fan Cafe Mapping Contest #5** (***OMC5***)는 한국에서 열리고 한국인만 참가하는 것이 가능한 매핑 컨테스트입니다.
 
 ## 대회 일정
 
