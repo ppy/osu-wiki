@@ -52,7 +52,7 @@ Schedules may be delayed.
 - There are two divisions, a 'Pro' division and a 'Rookie' division.
 - Contestants with a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Pro' division contestant.
 - Contestants without a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Rookie' division contestant.
-- Points 2 and 3 above will be based off of the start of the mapping date.
+- The two rules above will be based off of the start of the Submitting Phase.
 - Contestants may only compete within their respective divisions.
 - Contestants may only submit one beatmap, regardless of difficulty. Following the contest, the winner will map additional difficulties to complete a full mapset. 
 
