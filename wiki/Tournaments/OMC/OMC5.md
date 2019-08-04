@@ -52,6 +52,7 @@ Schedules may be delayed.
 
 ### Division System
 
+
 - There are two divisions, a 'Pro' division and a 'Rookie' division.
 - Contestants with a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Pro' division contestant.
 - Contestants without a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Rookie' division contestant.
