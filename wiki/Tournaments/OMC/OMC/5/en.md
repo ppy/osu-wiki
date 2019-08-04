@@ -6,7 +6,7 @@ tags:
 
 # osu! Fan Cafe Mapping Contest #5 
 
-![{ABBR} Logo](https://i.imgur.com/2a7gVVl.jpg)
+![OMC5 Logo](img/omcbg.jpg))
 
 The **OMC5** (***osu! Fan Cafe Mapping Contest #5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the 5th installment of the OMC.
 
