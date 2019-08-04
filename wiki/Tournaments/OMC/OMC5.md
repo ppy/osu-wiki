@@ -34,7 +34,7 @@ Schedules may be delayed.
 
 ### Rules
 
-- This contest is for only osu!Standard mode.
+- This contest is for the osu!standard mode only.
 - Only Koreans are permitted to participate. If your profile flag is not showing you're in korea because of some reasons like foreign residence, you can participate if you're able to verify that you're a korean somehow. 
 - Contestants should only submit one difficulty. More submitting won't be considered as your entry. 
 - The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
