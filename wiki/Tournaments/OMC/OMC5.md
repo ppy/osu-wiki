@@ -23,6 +23,7 @@ Schedules may be delayed.
 
 ## Songs
 
+
  Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
 |     |
