@@ -68,7 +68,7 @@ In every contest, people conquering a place on the podium are eligible to receiv
 
 ## Organisation
 
-The OMC5 is run by korean community members by distributing the multitude of tasks into various fields of responsibility.
+The OMC5 is run by members of the Korean mapping community.
 
 | Position | Member(s) |
 | :-- | :-- |
