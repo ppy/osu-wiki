@@ -46,7 +46,6 @@ Schedules may be delayed.
     - You collaborated with another mapper on your entry.
     - You bribed one of the judges.
     - Your behaviour caused an issue (even if it wasn't related to this contest).
-    - ...Your act doesn't make sense and it's a bad influence to this contest.
 
 ### Division System
 - There are 2 divisions, a 'Pro' division and a 'Rookie' division.
