@@ -14,7 +14,7 @@ The **OMC5** (***osu! Fan Cafe Mapping Contest #5***) is a mapping contest hoste
 
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
-| Registration Phase | 2019-08-12 ~ 2019-08-18 24:00 UTC +9 |
+| Registration Phase | 2019-08-12/2019-08-18 |
 | Submitting Phase | 2019-08-19 ~ 2019-09-19 24:00 UTC +9 |
 | Judging Phase | 2019-09-20 ~ 2019-09-27 24:00 UTC +9 |
 | Results Announce | 2019-09-20 |
