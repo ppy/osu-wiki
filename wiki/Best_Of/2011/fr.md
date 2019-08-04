@@ -1,6 +1,6 @@
 # 2011
 
-- [Google Doc officiel des résutats](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
+- [Google Doc officiel des résultats](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 - [Classement par Charts](https://osu.ppy.sh/p/chart?ch=best2011)
 - Download (Mediafire):
   - [Partie 1](https://www.mediafire.com/?n3a2vppcquz1aja)
