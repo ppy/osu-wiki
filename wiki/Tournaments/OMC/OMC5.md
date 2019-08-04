@@ -43,7 +43,7 @@ Schedules may be delayed.
 
 - You may be disqualified from the contest if:
     - You uploaded your entry before results were announced.
-    - ...You collaborated your entry.
+    - You collaborated with another mapper on your entry.
     - ...You bribed Judge.
     - ...You made an issue even if it's not related to this contest.
     - ...Your act doesn't make sense and it's a bad influence to this contest.
