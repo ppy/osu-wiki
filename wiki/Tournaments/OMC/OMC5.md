@@ -45,7 +45,7 @@ Schedules may be delayed.
     - You uploaded your entry before results were announced.
     - You collaborated with another mapper on your entry.
     - You bribed one of the judges.
-    - ...You made an issue even if it's not related to this contest.
+    - Your behaviour caused an issue (even if it wasn't related to this contest).
     - ...Your act doesn't make sense and it's a bad influence to this contest.
 
 ### Division System
