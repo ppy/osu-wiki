@@ -17,7 +17,7 @@ The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hoste
 | Registration Phase | 2019-08-12/2019-08-18 |
 | Submitting Phase | 2019-08-19/2019-09-19 |
 | Judging Phase | 2019-09-20/2019-09-27 |
-| Results Announcement | 2019-09-20 |
+| Results Announcement | 2019-09-28 |
 
 Schedules may be delayed.
 
