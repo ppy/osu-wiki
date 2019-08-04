@@ -38,7 +38,7 @@ Schedules may be delayed.
 - Only Koreans are permitted to participate. If your profile flag is not showing that you're in Korea because of some reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
 - Contestants must only submit one difficulty. Additional difficulties won't be considered as your entry. 
 - The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
-- Storyboard and Video may not be considered for judging.
+- Storyboard and Video will not be considered for judging.
 - Contestants may follow [Ranking Criteria](Ranking_Criteria/en.md).
 
 - You can be disqualified from contest if...
