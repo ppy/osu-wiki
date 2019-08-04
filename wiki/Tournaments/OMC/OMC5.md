@@ -33,6 +33,7 @@ Schedules may be delayed.
 ## Ruleset
 
 ### Rules
+
 - This contest is for only osu!Standard mode.
 - Only Koreans are permitted to participate. If your profile flag is not showing you're in korea because of some reasons like foreign residence, you can participate if you're able to verify that you're a korean somehow. 
 - Contestants should only submit one difficulty. More submitting won't be considered as your entry. 
