@@ -23,7 +23,7 @@ Schedules may be delayed.
 
 ## Songs
 
- Contestants are offered 2 songs to choose from. These maps are free from copyright issues as we have legally bought the rights to use the songs. No other songs may be mapped other than the 2 offered.
+ Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
 |     |
 | --: |
