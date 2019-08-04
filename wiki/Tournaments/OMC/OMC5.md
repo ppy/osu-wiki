@@ -42,7 +42,7 @@ Schedules may be delayed.
 - Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
 
 - You may be disqualified from the contest if:
-    - ...You uploaded your entry before results announced.
+    - You uploaded your entry before results were announced.
     - ...You collaborated your entry.
     - ...You bribed Judge.
     - ...You made an issue even if it's not related to this contest.
