@@ -80,4 +80,3 @@ The OMC5 is run by members of the Korean mapping community.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
 
----------------------------------
