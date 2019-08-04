@@ -39,7 +39,6 @@ Schedules may be delayed.
 - The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
 - Storyboard and Video will not be considered for judging.
 - Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
-
 - You may be disqualified from the contest if:
     - You uploaded your entry before results were announced.
     - You collaborated with another mapper on your entry.
