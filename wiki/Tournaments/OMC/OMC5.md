@@ -1,3 +1,9 @@
+---
+tags:
+  - OMC5
+  - 'OMC #5'
+---
+
 # osu! Fan Cafe Mapping Contest #5 
 
 ![{ABBR} Logo](https://i.imgur.com/2a7gVVl.jpg)
