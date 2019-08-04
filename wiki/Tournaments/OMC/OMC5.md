@@ -59,7 +59,6 @@ Schedules may be delayed.
 - The two rules above will be based off of the start of the Submitting Phase.
 - Contestants may only compete within their respective divisions.
 - Contestants may only submit one beatmap, regardless of difficulty. Following the contest, the winner will map additional difficulties to complete a full mapset. 
-
 ## Prizes
 
 In every contest, people conquering a place on the podium are eligible to receive unique prizes created specifically for OMC winners. It is possible that these items change with every installment of the OMC.
