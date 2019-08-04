@@ -41,7 +41,7 @@ Schedules may be delayed.
 - Storyboard and Video will not be considered for judging.
 - Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
 
-- You can be disqualified from contest if...
+- You may be disqualified from the contest if:
     - ...You uploaded your entry before results announced.
     - ...You collaborated your entry.
     - ...You bribed Judge.
