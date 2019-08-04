@@ -39,7 +39,7 @@ Schedules may be delayed.
 - Contestants must only submit one difficulty. Additional difficulties won't be considered as your entry. 
 - The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
 - Storyboard and Video will not be considered for judging.
-- Contestants may follow [Ranking Criteria](Ranking_Criteria/en.md).
+- Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
 
 - You can be disqualified from contest if...
     - ...You uploaded your entry before results announced.
