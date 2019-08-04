@@ -62,7 +62,7 @@ In every contest, people conquering a place on the podium are eligible to receiv
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW + Profile Badge for each division(Pro and Rookie) winner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW + Profile Badge for each division (Pro and Rookie) winner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
 
