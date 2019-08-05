@@ -302,7 +302,7 @@ Sommaire de tous les "Best Of".
 | ![#2][#2]  | [BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/beatmapsets/200552) |
 | ![#3][#3]  | [AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/beatmapsets/288794)  |
 
-- [Top 246](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!mania")
+- [Top 246](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (dans l'onglet "osu!mania")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [Nouvelle #1](https://osu.ppy.sh/news/137019258158)
 - [Nouvelle #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
