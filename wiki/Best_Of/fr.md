@@ -1,5 +1,5 @@
 [#1]: /wiki/shared/GCrown.png "1er"
-[#2]: /wiki/shared/SCrown.png "2nd"
+[#2]: /wiki/shared/SCrown.png "2ème"
 [#3]: /wiki/shared/BCrown.png "3ème"
 
 # Série des Best Of 
