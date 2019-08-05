@@ -2,7 +2,7 @@
 
 - [Liste complète des beatmaps de 2012 (page des votes)](https://osu.ppy.sh/p/bestof2012) [Ancien lien. Contenu supprimé]
 - [Google Doc officiel des résultats](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
-- [Classement par Charts](https://osu.ppy.sh/p/chart?ch=BEST2012) (Les  31 premières chansons. 21 ranked, 10 approved)
+- [Classement par Charts](https://osu.ppy.sh/p/chart?ch=BEST2012) (Les 31 premières chansons. 21 ranked, 10 approuvées)
 
 |Place|Votes|Beatmap|
 |:---:|:---:|:---|
