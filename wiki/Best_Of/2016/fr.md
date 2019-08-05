@@ -1592,7 +1592,7 @@ Pour faire court, la pondération prend en compte le nombre de fois que vous ave
 ## osu!mania
 
 - [Liste complète des beatmaps osu!mania 2016  (page des votes)](https://osu.ppy.sh/community/contests/42)
-- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
+- [Google Doc officiel des résultats](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
 
 |Place|Beatmap ID|Titre|Vote Brut|Score Pondéré|
 |:---:|:---|:---|---:|:---:|
