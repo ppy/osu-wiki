@@ -1,10 +1,10 @@
-[#1]: /wiki/shared/GCrown.png "1st"
+[#1]: /wiki/shared/GCrown.png "1er"
 [#2]: /wiki/shared/SCrown.png "2nd"
-[#3]: /wiki/shared/BCrown.png "3rd"
+[#3]: /wiki/shared/BCrown.png "3ème"
 
-# Best Of série
+# Série des Best Of 
 
-Sommaire pour toute la série "Best Of".
+Sommaire de tous les "Best Of".
 
 - [2009](./2009 "Best of 2009")
 - [2010](./2010 "Best of 2010")
@@ -31,7 +31,7 @@ Sommaire pour toute la série "Best Of".
 - Téléchargement (Mediafire):
   - [Partie 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Partie 2](https://www.mediafire.com/?d1bi0b447zrb70r)
-- [Nouvelles](https://osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
+- [Nouvelle](https://osu.ppy.sh/forum/viewtopic.php?f=9&amp;t=21059)
 - [Résultats](https://osu.ppy.sh/community/forums/topics/22162)
 
 #### 2010 osu!standard
@@ -47,7 +47,7 @@ Sommaire pour toute la série "Best Of".
 - Téléchargement (Mediafire):
   - [Partie 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Partie 2](https://www.mediafire.com/?rfpzf1c1detavfz)
-- [Nouvelles](https://osu.ppy.sh/community/forums/topics/42889)
+- [Nouvelle](https://osu.ppy.sh/community/forums/topics/42889)
 - [Résultats](https://osu.ppy.sh/community/forums/topics/43834)
 
 #### 2011 osu!standard
@@ -78,7 +78,7 @@ Sommaire pour toute la série "Best Of".
 - Téléchargement (Mediafire):
   - [Partie 1](https://www.mediafire.com/download/ew1p4foirfxoa5f/Best+of+2012+Chart+Pack+Part+1.rar)
   - [Partie 2](https://www.mediafire.com/download/fx7baq327r502so/Best+of+2012+Chart+Pack+Part+2.rar)
-- [Nouvelles](https://osu.ppy.sh/community/forums/topics/110066)
+- [Nouvelle](https://osu.ppy.sh/community/forums/topics/110066)
 - [Résultats](https://osu.ppy.sh/community/forums/topics/113613)
 
 #### 2013 osu!standard
@@ -136,7 +136,7 @@ Sommaire pour toute la série "Best Of".
 
 - [Top 1265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
 - [Votes](https://osu.ppy.sh/community/contests/39)
-- [Nouvelle Résultats](https://osu.ppy.sh/news/157306073998)
+- [Nouvelle et résultats](https://osu.ppy.sh/news/157306073998)
 
 ### osu!taiko
 
@@ -180,7 +180,7 @@ Sommaire pour toute la série "Best Of".
 | ![#2][#2]  | [joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/beatmapsets/329268) |
 | ![#3][#3]  | [CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/beatmapsets/215476) |
 
-- [Top 226](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!taiko")
+- [Top 226](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (dans l'onglet "osu!taiko")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [Nouvelle #1](https://osu.ppy.sh/news/137019258158)
 - [Nouvelle #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
@@ -197,7 +197,7 @@ Sommaire pour toute la série "Best Of".
 
 - [Top 190](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
 - [Votes](https://osu.ppy.sh/community/contests/40)
-- [Nouvelle Résultats](https://osu.ppy.sh/news/157306073998)
+- [Nouvelle et résultats](https://osu.ppy.sh/news/157306073998)
 
 ### osu!catch
 
@@ -241,7 +241,7 @@ Sommaire pour toute la série "Best Of".
 | ![#2][#2]  | [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/beatmapsets/287873)|
 | ![#3][#3]  | [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/beatmapsets/139525) |
 
-- [Top 72](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!catch")
+- [Top 72](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (dans l'onglet "osu!catch")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [Nouvelle #1](https://osu.ppy.sh/news/137019258158)
 - [Nouvelle #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
@@ -258,7 +258,7 @@ Sommaire pour toute la série "Best Of".
 
 - [Top 94](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
 - [Votes](https://osu.ppy.sh/community/contests/41)
-- [Nouvelle Résultats](https://osu.ppy.sh/news/157306073998)
+- [Nouvelle et résultats](https://osu.ppy.sh/news/157306073998)
 
 ### osu!mania
 
@@ -319,4 +319,4 @@ Sommaire pour toute la série "Best Of".
 
 - [Top 265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
 - [Votes](https://osu.ppy.sh/community/contests/42)
-- [Nouvelle Résultats](https://osu.ppy.sh/news/157306073998)
+- [Nouvelle et résultats](https://osu.ppy.sh/news/157306073998)
