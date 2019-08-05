@@ -138,10 +138,6 @@ Redirects must be updated to have the ambiguous keyword(s) redirect to the disam
 
 All osu! wiki articles must adhere to the following rules.
 
-### GitHub Flavored Markdown
-
-Some parts of the GitHub Flavored Markdown markup are supported in the osu! wiki.
-
 ### HTML
 
 <!-- ppy ruled HTML is not allowed. from:ppy#0001 during:2017-06-26 in:osu-wiki markdown -->
