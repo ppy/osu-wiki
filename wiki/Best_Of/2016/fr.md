@@ -12,7 +12,7 @@ Cette année le score pondéré a été calculé en prenant en compte tous les s
 
 †Ici la difficulté est de prendre en compte tous les mods que le joueur a activé quand il a fait le score. 
 
-Nous utilisons donc la plus grande valeur pondérée (jusqu'a 3 maximum) comme pondération du vote. Si le résultat de la pondération est en dessous de 0.2 (ou si le joueur n'a fini aucune des beatmaps du set), nous utilisons 0.2 comme pondération. 
+Nous utilisons donc la plus grande valeur pondérée (jusqu'à 3 maximum) comme pondération du vote. Si le résultat de la pondération est en dessous de 0.2 (ou si le joueur n'a fini aucune des beatmaps du set), nous utilisons 0.2 comme pondération. 
 
 Pour faire court, la pondération prend en compte le nombre de fois que vous avez joué une map, avec son facteur croissant sur une échelle logarithmique (inversement exponentiel). Nous utilisons ensuite un ratio des compétences du joueur par rapport à la difficulté de la map (prenant en compte les mods qu'ils ont activé) pour déterminer la pondération finale. Cela veut dire, que pour la première fois, les compétences du joueur et le nombre de parties jouées sont un vrai facteur dans le classement.
 
