@@ -1,6 +1,6 @@
 # 2009
 
-![Meilleurs résultats de 2009 annoncés par peppy](2009results.png "Best of 2009 results announced by peppy")
+![Meilleurs résultats de 2009 annoncés par peppy](2009results.png "Meilleurs résultats de 2009 annoncés par peppy")
 
 - [Résultats](https://osu.ppy.sh/community/forums/topics/22162)
 - [Classement par Charts](https://osu.ppy.sh/p/chart?ch=best2009)
