@@ -1,25 +1,25 @@
 # Difficulté
 
-*Ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
+*À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
 
-*Voir aussi: [Critères de ranking et mapset](/wiki/Ranking_Criteria/#mapset)*
+*Voir aussi: [Critères de ranking § Mapset](/wiki/Ranking_Criteria/#mapset)*
 
 La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouvoir la finir.
 
 ## Star rating (difficulté en étoiles)
 
-![Tranche de difficulté](img/SR-range.png "Star rating ranges")
+![Tranches de difficulté](img/SR-range.png "Tranches de difficulté")
 
 Pour les [Critères de ranking](/wiki/Ranking_Criteria), les tranches de niveau se divisent en plusieurs difficultés :
 
-- ![Icône easy](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
+- ![Icône easy](/wiki/shared/diff/easy-s.png "Icône easy") Easy: 0.0★–1.99★
 - ![Icône normal](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
 - ![Icône hard](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
 - ![Icône insane](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
 - ![Icône expert](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
 - ![Icône expert+](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
 
-À noter que ces intervalles ne sont pas des limites; les maps peuvent significativement déviées de ces dernières et être cependant acceptées.
+À noter que ces intervalles ne sont pas des limites; les maps qui ne les respectent pas peuvent toujours être acceptées.
 
 ### Icônes
 
@@ -27,7 +27,7 @@ Les tranches de difficulté ci-dessus déterminent quelle icône va être utilis
 Suivre ces indicateurs peut vous donner une bonne estimation pour atteindre un niveau de difficulté équilibré. Vous pouvez trouver plusieurs tutoriels à suivre [ici](/wiki/Ranking_Criteria/#mapset) pour améliorer la difficulté de votre beatmapset.
 
 
-## Niveau de difficulté
+## Niveaux de difficulté
 
 *Page principale: [Nom des difficultés](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
