@@ -214,7 +214,6 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
-- **The audio file of a song should have average peak frequencies of 16kHz or higher.** Lower values usually result in noticeably low audio quality and it is recommended to use a better audio file unless none can be found. Average peak frequency can be shown in [audio spectrogram generators](http://spek.cc/), which typically display 128kbps and 192kbps songs with average peak frequencies of 16kHz and 18kHz respectively. 
 - **The audio file of a song should not be re-encoded to a bit rate higher than its source file.** Re-encoding files like this results in unnecessarily large file sizes.
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the BPM of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable beatmapset length.
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
