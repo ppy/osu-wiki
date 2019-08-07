@@ -6,7 +6,7 @@ date: 2019-06-03 08:00:00 +0000
 
 You voted, and the results are in! **15** brand new scathingly spectacular summer scenes now grace the main menu with their scorching presence!
 
-![](/wiki/shared/news/2019-06-03-spring-2019-fanart-contest-results/banner.jpg)
+![](/wiki/shared/news/2019-08-07-summer-2019-fanart-contest-results/banner.jpg)
 
 Over ten thousand people flocked to the polls like an ice cream stand at the beach and threw their votes into the biggest fielding of fan art entries we've ever seen by a large margin. Seriously, the voting was *nuts* this year.
 
