@@ -96,7 +96,7 @@ To Kyoto Animation, we thank you for all that you have done, and we wish you all
 
 This piece will be featured alongside the winning fifteen entries above as a part of the Summer 2019 seasonal backgrounds pack.
 
-*As always, you can download a zip archive of all winning entries (plus the tribute above) in full size via [this link](assets.ppy.sh/contests/79/SummerFanart2019Winners.zip).*
+*As always, you can download a zip archive of all winning entries (plus the tribute above) in full size via [this link](https://assets.ppy.sh/contests/79/SummerFanart2019Winners.zip).*
 
 ------------
 
