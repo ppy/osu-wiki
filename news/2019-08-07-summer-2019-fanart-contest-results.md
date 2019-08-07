@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Spring 2019 Fanart Contest Results"
-date: 2019-06-03 08:00:00 +0000
+title: "Summer 2019 Fanart Contest Results"
+date: 2019-08-07 11:00:00 +0000
 ---
 
 You voted, and the results are in! **15** brand new scathingly spectacular summer scenes now grace the main menu with their scorching presence!
