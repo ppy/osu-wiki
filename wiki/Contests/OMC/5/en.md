@@ -8,7 +8,7 @@ tags:
 
 ![OMC5 Logo](img/omcbg.jpg)
 
-The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the 5th installment of the OMC.
+The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the fifth installment of the OMC.
 
 ## Contest Schedule
 
@@ -40,7 +40,7 @@ Schedules may be delayed.
 - Storyboard and Video will not be considered for judging.
 - Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
 - You may be disqualified from the contest if:
-    - You uploaded your entry before results were announced.
+    - You revealed your entry to others before results were announced.
     - You collaborated with another mapper on your entry.
     - You bribed one of the judges.
     - Your behaviour caused an issue (even if it wasn't related to this contest).
@@ -58,7 +58,7 @@ Schedules may be delayed.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW + Profile Badge for each division (Pro and Rookie) winner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
 
@@ -69,7 +69,7 @@ The OMC5 is run by members of the Korean mapping community.
 | Position | Member(s) |
 | :-- | :-- |
 | Management | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| Judge | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
+| Judges | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
 | Designer | [Enon](https://osu.ppy.sh/users/2043401) |
 
 ## Links
