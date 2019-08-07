@@ -86,9 +86,9 @@ Clear, cool skies charmed **2706** voters in [**Charrmy**](https://osu.ppy.sh/us
 
 And now, for a little bit of a sombre moment.
 
-In homage to the recent losses suffered by Kyoto Animation, [**snowyani2000**](https://osu.ppy.sh/u/2691590) has worked with us to create a tribute piece honoring many of the beloved series produced by the studio that a huge number of us know and love.
+In homage to the recent losses suffered by Kyoto Animation, [**snowyani2000**](https://osu.ppy.sh/u/2691590) has worked with us to create a tribute piece honouring many of the beloved series produced by the studio that a huge number of us know and love.
 
-To Kyoto Animation, we say thank you for all that you have done, and we wish you all the best in these trying times.
+To Kyoto Animation, we thank you for all that you have done, and we wish you all the best in these trying times.
 
 [![](https://assets.ppy.sh/contests/79/snowyani2k-thumb.jpg)](https://assets.ppy.sh/contests/79/snowyani2000-KyoAniTribute.jpg)
 
