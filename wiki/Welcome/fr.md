@@ -2,7 +2,7 @@
 
 Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comporte quatre modes de jeu: osu!standard, un simulateur de clic sur des cibles en forme de cercles, osu!taiko, un émulateur du jeu de tambour au défilement horizontal, osu!catch, un attrapeur de fruit vertical; ainsi qu'osu!mania, un key smasher vertical. 
 
-## Points d'intêrets communs
+## Points d'intérêts communs
 
 - [Installation](/wiki/Installation)
 - [Inscription](/wiki/Registration)
