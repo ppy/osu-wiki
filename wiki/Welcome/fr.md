@@ -38,7 +38,7 @@ Le modding est un procédé où plusieurs utilisateurs (connus sous le nom de "m
 
 *Voir aussi: [Tutoriel de skinning](/wiki/Skinning_Tutorial)*
 
-Le skinning permet à n'importe qui de changer la façon dont osu! ressemble. Cela peut très bien être quelque chose de mineur, tel qu'un changement de curseur, ou bien plus important, comme le changement complet de l'interface, l'apparence des modes de jeu, etc...
+Le skinning permet à n'importe qui de changer l'apparence d'osu!. Cela peut très bien être quelque chose de mineur, tel qu'un changement de curseur, ou bien plus important, comme le changement complet de l'interface, l'apparence des modes de jeu, etc...
 
 ## osu! wiki - Comment pouvez-vous aider!
 
