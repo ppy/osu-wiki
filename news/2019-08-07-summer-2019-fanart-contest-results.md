@@ -100,7 +100,7 @@ This piece will be featured alongside the winning fifteen entries above as a par
 
 ------------
 
-Thank you to everyone who participated - this year marks the *biggest* our Fan Art contests have ever gotten. So big in fact, that we're thinking we may have to sit down and reassess just how voting will work in the future
+Thank you to everyone who participated - this year marks the *biggest* our Fanart contests have ever gotten. So big in fact, that we're thinking we may have to sit down and reassess just how voting will work in the future.
 
 You can check out the full voting tallies [over at the contest listing](https://osu.ppy.sh/community/contests/79) if you're interested how it all went down.
 
