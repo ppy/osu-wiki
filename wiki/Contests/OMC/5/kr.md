@@ -73,7 +73,7 @@ OMC5는 한국의 다음과 같은 매핑 커뮤니티 인원에 의해 주최�
 | 심사 | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
 | 디자인 | [Enon](https://osu.ppy.sh/users/2043401) |
 
-## Links
+## 
 
 - [디스커션 스레드](https://osu.ppy.sh/community/forums/topics/937258)
 
