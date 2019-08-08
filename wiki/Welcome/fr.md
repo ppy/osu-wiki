@@ -30,7 +30,7 @@ Le beatmapping est le procédé durant lequel le créateur crée sa beatmap. Ce 
 
 *Page de référence: [Modding](/wiki/Modding)*
 
-Le modding est un procedé où plusieurs utilisateurs vérifient (connus sous le nom de "modders") la beatmap d'un autre joueur qui est en période de vérification (ou bien encore en cours de création). Le modding joue un rôle très important dans le contrôle de qualité car ceci permet aux créateurs de corriger des erreurs sur leurs beatmaps.
+Le modding est un procédé où plusieurs utilisateurs (connus sous le nom de "modders") vérifient la beatmap d'un autre joueur qui est en période de vérification (ou bien encore en cours de création). Le modding joue un rôle très important dans le contrôle de qualité car il permet aux créateurs de corriger les erreurs de leurs beatmaps.
 
 ## Skinning
 
