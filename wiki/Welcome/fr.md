@@ -24,7 +24,7 @@ Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comp
 
 *Page de référence: [Beatmapping](/wiki/Beatmapping)*
 
-Le beatmapping est un procedé dans lequel le créateur créer sa beatmap. Ce procédé comprends: la séléction de la musique, l'ajustement du timing, le placement d'objets sur la beatmap ainsi que le test de celle-ci. Cela peut également comprendre: l'addition d'une vidéo, d'un [storyboard](/wiki/Storyboarding), d'un [skin personnalisé](/wiki/Skinning). Tout ce procédé peut-être fait par le créateur lui-même, ou bien avec d'autres utilisateurs, souvent appelés *storyboarders*, *skinners*, et/ou *créateurs invités*, tout dépend de leur contribution à la beatmap.
+Le beatmapping est le procédé durant lequel le créateur crée sa beatmap. Ce procédé comprend: la sélection de la musique, l'ajustement du timing, le placement d'objets sur la beatmap ainsi que le test de celle-ci. Cela peut également comprendre: l'ajout d'une vidéo, d'un [storyboard](/wiki/Storyboarding), d'un [skin personnalisé](/wiki/Skinning). Tout ce procédé peut-être fait par le créateur lui-même, ou bien avec d'autres utilisateurs, souvent appelés *storyboarders*, *skinners*, et/ou *créateurs invités*, tout dépend de leur contribution à la beatmap.
 
 ## Modding
 
