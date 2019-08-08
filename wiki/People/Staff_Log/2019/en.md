@@ -147,3 +147,7 @@ All users listed below were added on 2019-02-16.
 - [MBomb](https://osu.ppy.sh/users/3071175) - resignation (2019-06-23)
 - [Greenshell](https://osu.ppy.sh/users/8693851) - resignation (2019-06-26)
 - [_Epreus](https://osu.ppy.sh/users/7342798) - resignation (2019-06-29)
+
+## July
+
+- Moved [Spkz](https://osu.ppy.sh/users/2964029) to the osu! Alumni (2019-07-13)
