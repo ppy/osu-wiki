@@ -1,20 +1,20 @@
 # Critère de style pour les articles
 
-*Pour de nouveaux posts, voir : [Nouveauté sur les critères de style](/wiki/News_Styling_Criteria)*
+*Pour les critères de style des nouvelles, voir : [Critères de style des nouvelles](/wiki/News_Styling_Criteria)*
 
-Les critères de style pour les articles (CSA) servent au osu! wiki pour renforcer les standards de style pour garder de la clareté, formater et gérer la disposition de tous les articles du osu! wiki.
+Les critères de style pour les articles (CSA) servent à garder les articles du osu! wiki consistents en clareté, format et disposition.
 
-Ces derniers doivent avoir une bonne grammaire, un langage correct et des informations correctes. Souvenez-vous que les reviewers peuvent vous donner leur avis sur vos pull requests pour corriger des erreurs ou proposer des suggestions. Un bon écrivain/éditeur osu! wiki devra lire ces commentaires et appliquer les changements ou faire un retour sur l'avis pour aider à améliorer la qualité globale du osu! wiki et de permettre une expérience optimale pour le lecteur.
+Tous les articles doivent avoir une bonne grammaire, un langage correct et des informations correctes. Souvenez-vous que des reviewers vous donneront leur avis sur vos pull requests pour corriger des erreurs ou proposer des suggestions. Un bon éditeur osu! wiki devra lire ces commentaires et appliquer les changements ou faire un retour sur l'avis pour aider à améliorer la qualité globale du osu! wiki et proposer une expérience optimale pour le lecteur.
 
 Si vous avez des suggestions sur les critères de style pour les articles, [ouvrez un sujet "issue" sur GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
-## Répertoire de référentiel
+## Fichiers concernés
 
-Les standards du répertoire de référentiel suivant sont appliqués seulement aux fichiers sauvegardés dans le répertoire `wiki`.
+Le CSA ne concerne que les fichiers situés dans le dossier `wiki`.
 
 ## Régions
 
-Les régions listées ci-dessous sont supportées par le osu! wiki. Le nom du fichier sera composé des deux lettres du code de la langue ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) suivi par `.md`. Si dans un pays il y a une variante de la  langue, le nom du fichier est les deux lettres du code de la langue ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) suivi d'un trait d'union (`-`), les deux lettres du code du pays ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), puis `.md`.  
+Les régions listées ci-dessous sont supportées par le osu! wiki. Le nom du fichier est composé des deux lettres du code  ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) de la langue suivi par `.md`. Si dans un pays il y a une variante de la  langue, le nom du fichier est les deux lettres du code  ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) de la langue suivi d'un trait d'union (`-`), les deux lettres du code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")) du pays, puis `.md`.  
 
 | Nom du fichier | Nom Local | Script Natif |
 | --- | --- | --- |
@@ -34,37 +34,38 @@ Les régions listées ci-dessous sont supportées par le osu! wiki. Le nom du fi
 | `ja.md` | Japonais | 日本語 |
 | `ko.md` | Coréen | 한국어 |
 | `nl.md` | Néerlandais | Nederlands |
-| `no.md` | Norvège | Norsk |
+| `no.md` | Norvégien | Norsk |
 | `pl.md` | Polonais | Polski |
 | `pt.md` | Portugais | Português |
 | `pt-br.md` | Portugais Brésilien | Português (Brasil) |
 | `ro.md` | Roumain | Română |
 | `ru.md` | Russe | Русский |
 | `sk.md` | Slovaque | Slovenčina |
-| `sv.md` | Suedois | Svenska |
+| `sv.md` | Suédois | Svenska |
 | `th.md` | Thaïlandais | ไทย |
 | `tr.md` | Turque | Türkçe |
 | `vi.md` | Vietnamien | Tiếng Việt |
 | `zh.md` | Chinois (Simplifié) | 简体中文 |
 | `zh-tw.md` | Chinois Traditionel (Taïwanais) | 繁體中文（台灣） |
 
-*Annonce : C'est normal que osu! wiki essaye de donner aux lecteurs un article dans leur langue native (et si ce n'est pas disponible nous utilisons la version anglaise de l'article).*
+*Note : osu! wiki propose aux lecteurs les articles dans la langue de leur choix, mais si un article n'est pas traduit la version anglaise est alors utilisée.*
 
-Si votre langue n'est pas dans celles ci-dessus, vous pouvez toujours ajouter `?locale={langcode}` à l'URL (où `{langcode}` est le code de votre langue composé de deux lettres en minuscules, par exemple `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` vous donnera la version Chinoise de l'article Welcome suivant la langue choisie) ou aider à traduire le [osu-web via Crowdin](https://crowdin.com/project/osu-web). Si vous avez besoin d'aide pour traduire le site web ou que vous voulez discuter de vos décisions de traduction, vous pouvez en parler sur le [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
+Si votre langue n'est pas dans celles ci-dessus, vous pouvez toujours ajouter `?locale={langcode}` à l'URL (où `{langcode}` est le code de votre langue composé de deux lettres en minuscules, par exemple `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` vous donnera la version Chinoise de l'article Welcome suivant la langue choisie) ou aider à traduire [osu-web via Crowdin](https://crowdin.com/project/osu-web). Si vous avez besoin d'aide pour traduire le site web ou que vous voulez discuter de vos décisions de traduction, vous pouvez en parler sur le [serveur Discord osu!dev](https://discord.gg/ppy) (salon `#osu-web`).
 
 ### Metadonnées
 
-*Note : Les métadonnées doivent être placées tout en haut du fichier; sinon, il sera compté comme du texte brut.*
+*Note : Les métadonnées doivent être placées tout en haut du fichier et suivi d'une ligne vide; sinon, il sera compté comme du texte brut.*
 
 #### Articles dépassés
 
 *Note pour les traducteurs : Après avoir mis à jour un article, enlevez la note `outdated`.*
 
-Utilisez la note `outdated` sur les articles traduits quand la version anglaise est mise à jour, celà ressemble à : 
+Utilisez la note `outdated` sur les articles traduits quand la version anglaise est mise à jour, cela ressemble à : 
 
 ```md
 ---
 outdated: true
+
 ---
 ```
 
@@ -72,7 +73,7 @@ outdated: true
 
 *Note : Vous devez seulement inclure les mots qui ne sont pas trouvés dans l'article.*
 
-Les articles tagués vont aider au moteur de recherche du site web à mieux trouver les articles. Tagging articles will help the website's search engine query articles better. It is unlikely that you will need to do this, but the markup is as follows:
+Les articles tagués permettent au moteur de recherche du site web à mieux trouver les articles. Il y a peu de chances que vous ayez à l'utiliser. Il s'écrit comme suit :
 
 ```md
 ---
@@ -93,6 +94,7 @@ outdated: true
 tags:
 - CSA
 - standards du wiki
+
 ---
 ```
 
@@ -108,7 +110,7 @@ Les noms de dossier ne doivent pas contenir des caractères réservés aux URL. 
 
 #### Encodage en pourcent des caractères
 
-Les noms de dossier ne doivent pas utiliser des caractères de l'encodage en pourcent. Ces caractères peuvent inclure, mais ne sont pas limités à : 
+Les noms de dossier ne doivent pas utiliser de caractères qui doivent être encodés avec un pourcent. Ces caractères peuvent inclure, mais ne sont pas limités à : 
 
 - espaces
   - tous les espaces doivent être des underscores (`_`).
@@ -116,19 +118,19 @@ Les noms de dossier ne doivent pas utiliser des caractères de l'encodage en pou
 
 ### Nom du fichier contenant un article
 
-Le nom d'un fichier contenant un article peut être trouvé dans la colonne `File Name` de la [section régionale](#régions). La localisation de la traduction doit être placé dans le bon dossier nommé en anglais.
+Le nom d'un fichier contenant un article peut être trouvé dans la colonne `Nom de fichier` de la [section Régions](#régions). Le fichier de l'article traduit doit être dans le même dossier que l'article anglais.
 
-### Index des articles
+### Articles index
 
-Tous les dossiers doivent contenir un article de ce genre. Si il semble impossible de créer un article pour un dossier ui contient d'autres articles, créez un index d'article à la place. L'index des articles liste les articles qui sont dans son propre dossier et chaque lien peut contenir une description. 
+Tous les dossiers doivent contenir un article. S'il semble impossible de créer un article pour un dossier qui contient d'autres articles, créez un article index à la place. Les index liste les articles qui sont dans son propre dossier, chaque lien peut contenir une description. 
 
-### Disambiguation articles
+### Article de désambiguïsation
 
-[Disambiguation](/wiki/Disambiguation) articles doivent être placés dans le dossier `/wiki/Disambiguation`.
+Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés dans le dossier `/wiki/Disambiguation`.
 
 ## Markdown
 
-Tous les articles osu! wiki doivent adhérés aux règles suivantes.
+Tous les articles osu! wiki doivent adhérer aux règles suivantes.
 
 ### GitHub Flavored Markdown
 
@@ -144,11 +146,17 @@ Quelques markup du GFM (GitHub Flavored Markdown) sont supportés par le osu! wi
 
 Les commentaires HTML peuvent être utilisés pour annoter du texte, mais avec un usage limité.
 
-### Edition
+### Édition
+
+#### Fin de lignes
+
+*Note : Notice: Uploading Markdown files using the CRLF (carriage return and line feed) line ending via GitHub will result in those files using CRLF. To prevent this, set the line ending to LF (line feed) before uploading.*
+
+Les fichiers Markdown doivent être vérifiés Markdown files must be checked in using the LF end of line sequence.
 
 #### Caractère d'échappement
 
-*Note : Le titre d'un article ne peux pas avoir de caractère d'échappement, comme les titres sont parser comme du texte brut et non comme du Markdown.*
+*Note : Le titre d'un article ne peux pas avoir de caractère d'échappement, puisque les titres sont traités comme du texte brut et non du Markdown.*
 
 Utilisez le caractère d'échapement Markdown quand vous en avez vraiment besoin. Par exemple : 
 
@@ -166,11 +174,11 @@ Chaque paragraphe doit être suivi par une ligne vide.
 
 ### Notes de début
 
-Les notes de début sont de petites notes placées en haut de l'article ou sous une section pour aider les lecteurs à naviguer dans les articles ou les topics liés à cet article. Les notes de début doivent être en italique, et ne doivent pas finir avec un point final (`.`), et doivent être placé directement après le titre ou la rubrique.
+Les notes de début sont de petites notes placées en haut de l'article ou sous une section pour aider les lecteurs à naviguer dans les articles ou les topics liés à cet article. Les notes de début doivent être en italique, ne doivent pas finir avec un point final (`.`), et doivent être placé directement après le titre ou la rubrique. Il ne doit y avoir qu'une note par ligne, toutes espacées par une ligne vide.
 
-#### Page principale 
+#### Pages principale 
 
-Les notes de début de la page principale permettent de diriger le lecteur jusqu'à un article contenant plus d'informations. Elles doivent commencer par les mots `Main page` suivit par deux points (`:`). Par exemple : 
+Certaines notes permettent de diriger le lecteur jusqu'à un article contenant plus d'informations. Elles doivent commencer par les mots `Page principale` suivit d'un deux-points (`:`). Par exemple : 
 
 ```md
 ## Modding
@@ -182,29 +190,29 @@ Le modding est le processus dans lequel un utilisateur examine (ou plus communé
 
 #### Voir aussi
 
-De plus les notes de début peuvent être utilisées pour suggérer au lecteurs d'autres points d'intéret par rapport à un article donné. Ils doivent commencer cette section avec les mots `Voir aussi` suivit de deux-points (`:`). Par exemple :
+De plus les notes de début peuvent être utilisées pour suggérer au lecteur d'autres articles en rapport à l'article actuel. Ces notes doivent commencer avec les mots `Voir aussi` suivi d'un deux-points (`:`). Par exemple :
 
 ```md
 ## Beatmapping
 
-*Voir aussi [Storyboarding](/wiki/Storyboarding)*
+*Voir aussi : [Storyboarding](/wiki/Storyboarding)*
 
 Beatmapper est le processus par lequel un utilisateur créer une beatmap. Ce processus inclut : la sélection de la musique, l'ajustement du timing, le placement d'objets sur la beatmap ainsi que le test de celle-ci. Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap.
 ```
 
 #### Pour voir
 
-Les notes du début pour voir sont similaires à celles voir aussi, mais les notes du début pour voir sont généralement plus descriptives. Elles doivent commencer avec le mot `Pour` suivit par la description, une virgule (`,`), `voir`, puis deux points (`:`). Par exemple :
+Les notes du début pour voir sont similaires aux "voir aussi", mais elles sont généralement plus descriptives. Elles doivent commencer avec le mot `Pour` suivit par la description, une virgule (`,`), `voir`, puis un deux-points (`:`). Par exemple :
 
 ```md
 # Installation
 
-*Pour voir le guide d'installation pour Linux : [Installation/Linux](/wiki/Installation/Linux)*
+*Pour le guide d'installation pour Linux, voir : [Installation/Linux](/wiki/Installation/Linux)*
 ```
 
 ### Notes
 
-Une note peut être placée là où semble approprié de la mettre dans une section, mais elle doit commencer à la fin d'un paragraphe et être en italique. Les notes peuvent comporter des mots en gras quand cela semble approprié, mais il vaut mieux en mettre un minimum. Cela doit commencer par "Note","Annonce","Attention",or "Avertissement" suivit par deux points (`:`). Les notes sont des phrases complètes contrairement aux [notes de début](#notes-de-début), elles doivent se finir par un point (`.`) ou un point d'exclamation (`!`), si cela est approprié. Tout ce qui est dans le même paragraphe qu'une note doit aussi être en italique. Par exemple :  
+Une note peut être placée là où semble approprié de la mettre dans une section, mais elle doit commencer à la fin d'un paragraphe et être en italique. Les notes peuvent comporter des mots en gras quand cela semble approprié, mais il vaut mieux en mettre un minimum. Cela doit commencer par "Note","Annonce","Attention", ou "Avertissement" suivit par deux points (`:`). Les notes sont des phrases complètes contrairement aux [notes de début](#notes-de-début), elles doivent se finir par un point (`.`) ou un point d'exclamation (`!`), si cela est approprié. Tout ce qui est dans le même paragraphe qu'une note doit aussi être en italique. Par exemple :  
 
 ```md
 *Note: pippi est écrit avec un "p" minuscule, comme peppy*
@@ -213,51 +221,51 @@ Une note peut être placée là où semble approprié de la mettre dans une sect
 
 *Attention: Ce bouton ne vous demandera pas de confirmation*
 
-*Avertissement: Si vous avez plus d'un compte osu! n'importe quand vous êtes en infraction contre les [règles d'osu!](/wiki/Rules)!*
+*Avertissement: Si vous avez plus d'un compte osu! vous enfreignez les [règles d'osu!](/wiki/Rules)!*
 ```
 
 "Note" est utilisé pour des détails triviaux, factuels ou des rappels. "Annonce" est utilisé pour quelque chose qu'il est important que le lecteur sache. "Attention" est utilisé pour avertir le lecteur que cela peut avoir des conséquences involontaires. "Avertissement" est utilisé pour avertir le lecteur que des actions peuvent être effectués contre lui.
 
 #### Annonce pour
 
-Les annonces qui ont pour cible certains lecteurs, incluant le mot `pour` après "Note","Annonce","Attention","Avertissement" puis suivi d'une brève description des lecteurs visés. Par exemple :  
+Les annonces qui ont pour cible certains lecteurs, incluant le mot `pour` après "Note", "Annonce", "Attention", "Avertissement" puis suivi d'une brève description des lecteurs visés. Par exemple :  
 
 ```md
-*Annonce pour les utilisateurs  d'API : Dans osu!catch, les droplets sont marqués comme `count50` et les droplets manquants comme `countkatu`.*
+*Annonce pour les utilisateurs  de l'API : Dans osu!catch, les droplets sont marqués comme `count50` et les droplets manquants comme `countkatu`.*
 ```
 
 ### Soulignement
 
 *Annonce : Une mauvaise utilisation du soulignement réduira son efficacité.*
 
-Quand vous voulez souligner des mots, avec quelques exceptions, n'utilisez pas de lettres majuscules. A la place mettez en gras les mots ou la phrase entière. Par exemple : 
+Quand vous voulez souligner des mots n'utilisez pas de lettres majuscules, sauf exception. A la place mettez en gras les mots ou la phrase entière. Par exemple : 
 
 ```md
-Vous n'êtes **pas** autorisés à poster des skins R-18 sur le forum d'osu!.
-**Vous n'êtes pas autorisés à poster des skins R-18 sur le forum d'osu!.**
+Vous n'êtes **pas** autorisé à poster des skins R-18 sur le forum d'osu!.
+**Vous n'êtes pas autorisé à poster des skins R-18 sur le forum d'osu!.**
 ```
 
 #### Gras
 
-Utilisez le gras quand vous avez besoin de noter quelque chose d'important. Quand vous mettez en gras, essayez de ne pas simplement mettre en gras un seul mot mais plutôt des phrases entières, car il est difficile de remarquer quand un seul mot est en gras. Préférez utiliser des doubles astérisques (`**`) au lieu des doubles underscores (`__`).
+Utilisez le gras quand vous avez besoin de noter quelque chose d'important. Quand vous mettez en gras, essayez de ne pas simplement mettre en gras un seul mot mais plutôt des phrases entières, car il est difficile de remarquer un seul mot en gras. Préférez utiliser des doubles astérisques (`**`) au lieu des doubles underscores (`__`).
 
 #### Italique
 
 <!-- Ephemeral ruled not to italise "osu!". in:#osu-wiki from:ephemeralis#0001 during:2018-02-11 anymore -->
 
-Utilisez l'italique seulement quand vous voulez parler d'un nom de jeux vidéo ou le nom d'un projet. osu!, le jeux, ne peut pas être mis en italique. Préférez utiliser une astérisque simple (`*`) au lieu d'un underscore simple (`_`).
+Utilisez l'italique seulement quand vous voulez parler d'un nom de jeux vidéo ou le nom d'un projet. osu!, le jeu, ne doit pas être mis en italique. Préférez utiliser une astérisque simple (`*`) au lieu d'un underscore simple (`_`).
 
 ### Rubrique
 
-N'utilisez pas le style ou le format de texte des rubriques et limitez les au niveau 5. Utilisez le [ATX (hash) style](https://github.github.com/gfm/#atx-headings). Chaque rubrique doit être précédé et suivit par une ligne vide.
+Ne formattez pas de texte avec les rubriques et limitez les au niveau 5. Utilisez le style [ATX](https://github.github.com/gfm/#atx-headings). Chaque rubrique doit être précédée et suivie par une ligne vide.
 
 #### Titres
 
-*Les titres d'articles ne doivent pas avoir de caractère d'échappement, car il doit être parser comme du texte brut et non comme du Markdown.*
+*Les titres d'articles ne doivent pas avoir de caractère d'échappement, car ils sont traités comme du texte brut et non comme du Markdown.*
 
-Le premier titre de chaque article doivent avoir un libellé de niveau 1, qui deviendra le titre de l'article. Chaque libellés qui suis le libellé du titre de l'article doivent être des [libellés de section](#sections). Les titres d'articles ne peuvent pas contenir de mise en forme, de liens ou d'images.
+Le premier titre de chaque article doit avoir un libellé de niveau 1, qui deviendra le titre de l'article. Chaque libellé qui suit doit être un [libellé de section](#sections). Les titres d'articles ne peuvent pas contenir de mise en forme, de liens ou d'images.
 
-Ce libellé de niveau 1 doit être placé au début de l'article sauf s'il y a des liens référencés ou des métadonnées placés au début de l'article. Si c'est le cas placez le libellé de niveau 1 juste en dessous.
+Ce libellé de niveau 1 doit être placé au début de l'article sauf s'il y a des liens référencés ou des métadonnées placées au début de l'article. Si c'est le cas placez le libellé de niveau 1 juste en dessous.
 
 Le titre d'un article doit être en rapport avec le nom du dossier où il est placé (les espaces peuvent remplacer les underscores (`_`) quand cela est nécessaire). Les exeptions à cette règle sont les pages de tournois, qui peuvent utiliser des abréviations, des acronymes ou des initialismes.
 
@@ -267,21 +275,21 @@ Pour les titres d'articles écrits en anglais, si le titre de l'article a besoin
 
 #### Sections
 
-Tous les libellés de section doivent être de niveau 2 à 5. Les libellés de section ne doivent pas contenir de mise en forme ou des liens. En plus, les libellés de sections ne peuvent pas sauter de niveau de libellé (par exemple : vous ne pouvez pas passer d'un libellé de niveau 2 à un libellé de niveau 4). Le libellé de section doit obligatoirement être un libellé de niveau 2 après le [libellé de titre](#titres). Les libellés de section peuvent avoir une petite image contrairement aux titres.
+Tous les libellés de section doivent être de niveau 2 à 5. Les libellés de section ne doivent pas contenir de mise en forme ou de liens. De plus, les libellés de sections ne peuvent pas sauter de niveau de libellé (par exemple : vous ne pouvez pas passer d'un libellé de niveau 2 à un libellé de niveau 4). Le libellé de section doit obligatoirement être un libellé de niveau 2 après le [libellé de titre](#titres). Les libellés de section peuvent avoir une petite image contrairement aux titres.
 
-Sur le wiki d'osu!, les libellés de niveau 4 et 5 ne doivent pas apparaitre dans le sommaire et n'ont pas d'id attribué (Ils ne peuvent pas être rejoint directement).
+Sur le wiki d'osu!, les libellés de niveau 4 et 5 n'apparaîtront pas dans le sommaire et n'ont pas d'id attribué (ils ne peuvent pas être rejoints directement).
 
 ### Listes
 
 4 niveaux d'indentations sont disponible quand vous faites une liste.
 
-#### à puce
+#### À puce
 
-Utilisez plutôt un tiret (`-`) ou le symbole (`+`) quand vous écrivez une liste à puces. Gardez le même symbole sur l'article tout entier.
+Vous devez utiliser un tiret (`-`) ou le symbole plus (`+`) quand vous écrivez une liste à puces. Gardez le même symbole sur l'article tout entier, ils doivent être suivis d'un espace.
 
 #### Mixte
 
-La combinaison entre liste à puces et liste numérotée doivent être utilisez avec parcimonie.
+La combinaison entre liste à puces et liste numérotée doit être utilisée avec parcimonie.
 
 ### Code
 
