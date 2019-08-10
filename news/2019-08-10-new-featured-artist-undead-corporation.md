@@ -62,7 +62,7 @@ In case you've forgotten, check out the samples below:
 
 ---------
 
-As usual, all of these amazing tracks and a **HUGE** amount more are available right now over at [**UNDEAD CORPORATION**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/45), pre-timed for your convenience. 100% free for use in mapping, so get out there and get creating with them!
+As usual, all of these amazing tracks and a **HUGE** amount more are available right now over at [**UNDEAD CORPORATION**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/45), pre-timed for your convenience. These are 100% free for use in mapping, so get out there and get creating with them!
 
 Those so inclined may wish to spare pishifat a moment of thanks, as anyone who has ever timed this sort of music can attest to how outrageously difficult it can get sometimes! Now imagine that, a hundred and eleven times over. Crazy stuff.
 
