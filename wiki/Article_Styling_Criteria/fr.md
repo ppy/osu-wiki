@@ -71,8 +71,6 @@ outdated: true
 
 #### Articles tagués
 
-*Note : Vous devez seulement inclure les mots qui ne sont pas trouvés dans l'article.*
-
 Les articles tagués permettent au moteur de recherche du site web à mieux trouver les articles. Il y a peu de chances que vous ayez à l'utiliser. Il s'écrit comme suit :
 
 ```md
@@ -150,9 +148,9 @@ Les commentaires HTML peuvent être utilisés pour annoter du texte, mais avec u
 
 #### Fin de lignes
 
-*Note : Notice: Uploading Markdown files using the CRLF (carriage return and line feed) line ending via GitHub will result in those files using CRLF. To prevent this, set the line ending to LF (line feed) before uploading.*
+*Note : Les fichiers Markdown téléchargés utilisent la ligne CRLF (retour chariot et saut de lignes) se terminant par GitHub entraînera l'utilisation de ces fichiers à l'aide de CRLF. Pour éviter cela, définissez la fin de la ligne sur LF (saut de ligne) avant le téléchargement.*
 
-Les fichiers Markdown doivent être vérifiés Markdown files must be checked in using the LF end of line sequence.
+Les fichiers Markdown doivent être vérifiés quand ils utilisent le saut de ligne comme fin de ligne.
 
 #### Caractère d'échappement
 
@@ -285,11 +283,48 @@ Sur le wiki d'osu!, les libellés de niveau 4 et 5 n'apparaîtront pas dans le s
 
 #### À puce
 
-Vous devez utiliser un tiret (`-`) ou le symbole plus (`+`) quand vous écrivez une liste à puces. Gardez le même symbole sur l'article tout entier, ils doivent être suivis d'un espace.
+Vous devez utiliser un tiret (`-`) ou le symbole plus (`+`) quand vous écrivez une liste à puces. Gardez le même symbole sur l'article tout entier, ils doivent être suivis d'un espace. Par exemple : 
+
+```md
+- osu!standard
+  - Cercles
+    - Nombre de combo
+    - Approach circle
+  - Slider
+    - Cercles
+    - Slider body
+    - Slider ticks
+  - Spinner
+- osu!taiko
+```
+
+#### Numérotée
+
+<!-- The parser checks for the starting number in numbered lists. The numbering can be messed up if there is something (i.e. an image, code block) that breaks the list apart. -->
+
+Dans une liste numérotée les nombres doivent être en ordre croissant.
+
+```md
+1. Télécharger l'installateur d'osu!.
+2. Lancer l'installateur.
+   1. Pour changer le dossier dans lequel installer le jeu, cliquez sur le texte en dessous de la barre de progression.
+   2. Le programme d'installation vous demandera un nouvel emplacement, choisissez le dossier d'installation.
+3. osu! se lancera une fois l'installation complétée.
+4. Connectez vous
+```
 
 #### Mixte
 
 La combinaison entre liste à puces et liste numérotée doit être utilisée avec parcimonie.
+
+```md
+1. Télécharger un skin du forum.
+2. Charger le fichier contenant le skin dans osu!.
+   - Si le fichier est un `.zip`, dézipper le et mettez le dans le dossier `Skins/` (placé dans le dossier d'installation d'osu!). 
+   - Si le fichier est un `.osk`, ouvrez le sur votre bureau ou glisser-déposer le dans le client du jeu.
+3. Ouvrez osu! s'il n'est pas ouvert et sélectionnez le skin dans les options.
+   - Si vous avez ouvert le fichier `.osk` ou l'avoir glisser-déposé dans le client du jeu, vous pourrez faire cette action.
+```
 
 ### Code
 
