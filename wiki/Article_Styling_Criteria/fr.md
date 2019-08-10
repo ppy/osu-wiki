@@ -4,7 +4,7 @@
 
 Les critères de style pour les articles (CSA) servent au osu! wiki pour renforcer les standards de style pour garder de la clareté, formater et gérer la disposition de tous les articles du osu! wiki.
 
-Ces derniers doivent avoir une bonne grammaire, un langage correct et des informations correctes. Souvenez-vous que les reviewers peuvent vous donner leur avis sur vos pull requests pour corriger des erreurs ou proposer des suggestions. Un bon écrivain/éditeur osu! wiki devra lire ces commentaires et appliquer les changements ou faire un retour sur l'avis pour aider à améliorer la qualité globale du osu ! wiki et de permettre une expérience optimale pour le lecteur.
+Ces derniers doivent avoir une bonne grammaire, un langage correct et des informations correctes. Souvenez-vous que les reviewers peuvent vous donner leur avis sur vos pull requests pour corriger des erreurs ou proposer des suggestions. Un bon écrivain/éditeur osu! wiki devra lire ces commentaires et appliquer les changements ou faire un retour sur l'avis pour aider à améliorer la qualité globale du osu! wiki et de permettre une expérience optimale pour le lecteur.
 
 Si vous avez des suggestions sur les critères de style pour les articles, [ouvrez un sujet "issue" sur GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
@@ -320,7 +320,7 @@ osu! est installer dans le dossier `AppData/Local` par défaut, sauf si vous ave
 Quand vous copiez un mot-clé ou une commande, copiez la casse des lettres comme elle est ou comme vous la tapez normalement (préférez l'écrire en minuscule si cela est possible). Par exemple :
 
 ```md
-Les commandes `Name` et `Author` dans le fichier de configuration de skin (`skin.ini`) ne feront rien. As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
+Les commandes `Name` et `Author` dans le fichier de configuration de skin (`skin.ini`) ne feront rien.
 ```
 
 #### Noms de fichier
