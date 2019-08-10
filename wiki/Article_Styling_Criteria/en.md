@@ -546,7 +546,7 @@ When translating annotated images, the localised image version must be placed in
 
 #### Screenshots of gameplay
 
-All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
+All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice). You must use the in-game screenshot feature (`F12`).
 
 ##### osu! client settings
 
