@@ -556,18 +556,11 @@ You must set these settings before taking a screenshot of the osu! client (setti
 
 -   Select language: `English`
 -   Prefer metadata in original language: `Enabled`
--   Release stream: `Stable`
 -   Resolution: `1280x720`
 -   Fullscreen mode: `Disabled`
--   Screenshot format: `JPEG (web-friendly)`
 -   Parallax: `Disabled`
 -   Menu tips: `Disabled`
 -   Seasonal backgrounds: `Never`
--   Show thumbnails: `Enabled`
--   Background dim: `30%`
--   Progress display: `Top-Right (Pie)`
--   Score meter type: `Hit error`
--   Score meter size: `1x`
 -   Always show key overlay: `Enabled`
 -   Current skin: `Default` (first option)
 
