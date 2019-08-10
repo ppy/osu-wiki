@@ -4,7 +4,7 @@ title: "New Featured Artist: UNDEAD CORPORATION"
 date: 2019-08-10 12:00:00 +0000
 ---
 
-The Empress beckons. [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artists/45) shambles into the Featured Artist lineup with over a hundred tracks to choose from!
+The Empress beckons. [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artists/45) shambles into the Featured Artist line-up with over a hundred tracks to choose from!
 
 ![](https://assets.ppy.sh/artists/45/header.jpg)
 
@@ -33,7 +33,7 @@ In case you've forgotten, check out the samples below:
 ### Kami Kakushi
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/45/previews/1075.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/45/previews/1093.mp3" type="audio/mpeg">
 </audio>
 
 ### Forgive your insanity
