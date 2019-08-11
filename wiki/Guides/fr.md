@@ -35,7 +35,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par des membres de
 - [Aide aux problèmes d'incompatibilité d'OpenGL](/wiki/GL_Support_Issues)
 - [Comment jouer à osu!mania](/wiki/How_to_Play_osu!mania)
 - [Comment utiliser l'assistant de décalage](/wiki/How_to_Use_the_Offset_Wizard)
-- [Faire des enregistrement d'osu!](/wiki/Recording_osu!)
+- [Faire des enregistrements d'osu!](/wiki/Recording_osu!)
 - [Chercher et télécharger des beatmaps](/wiki/Searching_and_Downloading_Beatmaps)
 - [Acheter une tablette](/wiki/Tablet_Purchase)
 - [Trucs et astuces pour améliorer ses compétences](/wiki/Tips_and_Tricks_on_Skill_Improvement)
