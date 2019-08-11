@@ -35,7 +35,7 @@ En osu!taiko, l'accuracy est calculée en prenant la somme de la précision de l
 
 En osu!catch, l'accuracy est calculée en prenant le nombre total d'objets attrapés (excepté les spinners), divisé par le nombre d'objets total (excepté les spinners). Tous les objets ont la même valeur, sauf les bananes, qui font partie des spinners.
 
-*Note pour les utilisateurs de l'API: Afin de calculer l'accuracy en osu!catch, le nombre de droplets (gouttelettes en français) sont sous `count50` et les nombres de gouttelettes ratés sont sous `countkatu`.*
+*Note pour les utilisateurs de l'API: Afin de calculer l'accuracy en osu!catch, le nombre de droplets sont sous `count50` et le nombre de gouttelettes manquées sont sous `countkatu`.*
 
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
