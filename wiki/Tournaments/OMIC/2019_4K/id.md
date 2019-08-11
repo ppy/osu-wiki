@@ -3,7 +3,7 @@ tags:
 - O!MIC 4K 2019
 - OMIC
 ---
-# O!MIC / osu!mania 4K Indonesia Cup 2019
+# osu!mania 4K Indonesia Cup 2019
 
 ![O!MIC 4K 2019 Logo](img/logo.png)
 
