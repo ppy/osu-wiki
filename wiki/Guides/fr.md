@@ -1,6 +1,6 @@
 # Guides
 
-Vous trouverez ci-dessous une liste triée des guides créés par des membres de la communauté osu! la plupart proviennent des forums osu! et ont été transférés sur ce wiki.
+Vous trouverez ci-dessous une liste triée des guides créés par des membres de la communauté osu! dont la plupart proviennent des forums osu! et ont été transférés sur ce wiki.
 
 ## Beatmapping
 
@@ -10,7 +10,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par des membres de
 - [Édition audio](/wiki/Audio_Editing)
 - [Changer l'artiste ou le titre](/wiki/Changing_the_Artist_or_Title)
 - [Changer le texte du titre](/wiki/Changing_the_Title_Text)
-- [Information sur les collaborations](/wiki/Collab_Information)
+- [Informations sur les collaborations](/wiki/Collab_Information)
 - [Compresser des fichiers](/wiki/Compressing_Files)
 - [Bibliothèque de sons personalisés](/wiki/Custom_Hit_Sound_Library)
 - [Utiliser des échantillons personnalisés](/wiki/Custom_Sample_Overrides)
