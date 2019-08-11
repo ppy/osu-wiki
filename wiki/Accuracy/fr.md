@@ -74,5 +74,5 @@ En plus de l'accuracy, des informations à propos des spinners apparaissent dans
 
 #### Speed
 
-La valeur "Speed" représente la moyenne de TPM (tours par minutes) sur tout les spinners de la beatmap. "Max" étant la plus haute valeur de TPM reçue parmi tout les spinners de la beatmap.
+La valeur "Speed" représente la moyenne de TPM (tours par minutes) sur tous les spinners de la beatmap. "Max" étant la plus haute valeur de TPM reçue parmi tout les spinners de la beatmap.
 
