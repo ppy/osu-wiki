@@ -46,7 +46,7 @@ En osu!mania, le système d'accuracy fonctionne de la même manière que le mode
 
 ## Graphiques de performances
 
-![Performance graph](img/performance_graph.jpg "Performance graph")
+![Graphique de performance](img/performance_graph.jpg "Graphique de performance")
 
 Le graphique de performance est un tableau qui affiche les performances du joueur (basé sur sa barre de vie) au cours de la partie. D'autres informations peuvent y être indiquées lorsque le joueur passe son curseur par dessus. 
 
