@@ -24,7 +24,7 @@ Voici la référence pour un cercle:
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Accuracy = 0.5(nombres de GOOD + nombres de GREAT) / (nombres de BAD + nombres de GOOD + nombres de GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![Accuracy = 0.5(nombre de GOOD + nombre de GREAT) / (nombre de BAD + nombre de GOOD + nombre de GREAT)](img/accuracy_taiko.png "Formule de l'accuracy d'osu!taiko")
 
 En osu!taiko, l'accuracy est calculée en prenant la somme de la précision de la note, par le nombre de notes. Les différents scores de précision sont les suivants: PARFAIT (良) qui est considéré comme un 100%, BON (可) comme un 50% (moitié) et RATE/MAUVAIS (不可) comme 0% (ce qui brise le combo). Les drums rolls et les spinners, eux, n'influencent pas l'accuracy.
 
