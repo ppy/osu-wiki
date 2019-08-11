@@ -11,7 +11,7 @@ Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier
 
 ![Accuracy = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 300s)](img/accuracy_standard.png "Formule de l'accuracy d'osu!standard")
 
-Dans le mode osu!standard, l'accuracy est calculée en podérant les points reçus (300,100,50) à chaque clic sur des objets par sa valeur, divisé par le nombre total d'objets. 
+Dans le mode osu!standard, l'accuracy est calculée en pondérant les points reçus pour chaque object touché par sa valeur, divisée par le score maximal obtenable.
 
 Voici la référence pour un cercle:
 
