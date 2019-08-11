@@ -64,7 +64,7 @@ Dû à la manière dont le mode [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (
 
 #### Unstable rate
 
-La valeur "Unstable rate" représente la constance des clics, plus les chiffres sont bas, mieux c'est (les meilleurs joueurs obtiennent trés souvent des valeurs en dessous de 100). Prenez en compte que cette valeur mesure la constance, et non l'accuracy, donc si vous cliquez de manière constante avec 15ms de retard sur les cercles, vous obtiendrez la même valeur que si vous avez cliqué en rythme! La formule est principalement basé sur l'écart des erreurs de clics (en millisecondes) multipliés par 10.
+La valeur "Unstable rate" représente la constance des clics, plus les chiffres sont bas, mieux c'est (les meilleurs joueurs obtiennent très souvent des valeurs en dessous de 100). Prenez en compte que cette valeur mesure la constance, et non l'accuracy, donc si vous cliquez de manière constante avec 15ms de retard sur les cercles, vous obtiendrez la même valeur que si vous avez cliqué en rythme! La formule est principalement basée sur l'écart des erreurs de clics (en millisecondes) multipliés par 10.
 
 ### Spin
 
