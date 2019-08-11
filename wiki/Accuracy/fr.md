@@ -40,7 +40,7 @@ En osu!catch, l'accuracy est calculée en prenant le nombre total d'objets attra
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* nombres de 50s + 100 \* nombres de 100s + 200 \* nombres de 200s + 300 \* nombres de 300s + 300 \* nombres de MAXs) / 300(nombres de 0s + nombres de 50s + nombres de 100s + nombres de 200s + nombres de 300s + nombres de MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+![Accuracy = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "Formule de l'acccuracy d'osu!mania")
 
 En osu!mania, le système d'accuracy fonctionne de la même manière que le mode [osu!standard](#osu!standard).
 
