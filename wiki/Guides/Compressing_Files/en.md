@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Compressing Files
 
 *This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002).*
