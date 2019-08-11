@@ -70,7 +70,7 @@ La valeur "Unstable rate" représente la constance des clics, plus les chiffres 
 
 *Note: Le spin est un gameplay unique au mode [osu!standard](/wiki/osu!standard).*
 
-En plus de l'accuracy, des informations à propos des spinners apparaissent dans la fenêtre de statistiques. 
+En plus de l'accuracy, des informations à propos des spinners apparaissent dans la fenêtre des statistiques. 
 
 #### Speed
 
