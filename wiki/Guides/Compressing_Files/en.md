@@ -2,7 +2,7 @@
 
 *This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002).*
 
-Each osu! beatmap has a file size limit dictated by its `.mp3` file's length. In this tutorial I will tell you smart ways to get your beatmap under that limit.
+Each osu! beatmapset has a file size limit dictated by its beatmaps' total lengths. In this tutorial I will tell you smart ways to get your beatmap under that limit.
 
 There are 2 types of compression. **Lossy** and **Lossless** compression.
 
