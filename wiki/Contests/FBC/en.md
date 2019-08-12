@@ -1,56 +1,55 @@
 ---
 tags:
-- 'French Beatmapping Contest'
-- 'FBC'
-- 'Mapping' 
+- FBC
+- Mapping 
 ---
 
 # French Beatmapping Contest
 
-**French Beatmapping Contest** (***FBC***) is a mapping tournament that is available for francophone mappers. In each edition, mappers have to create a difficulty of insane or higher. 
+The **French Beatmapping Contest** (***FBC***) is a mapping contest for French-speaking mappers. In each edition, mappers have to create a difficulty of Insane or higher.
 
-Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria can change if needed.  
+Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria may change if necessary. 
 
-The top three mappers of a tournament will receive an osu!supporter tag, their length can vary between editions. However, the winner of each edition will earn a personalized badge that will be shown on their osu! profile. 
+The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalized badge that will be shown on their osu! profile.  
 
 Since the 2017 edition, the chosen songs have a length lower than 3 mintutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
 
 # FBC 2015
 
-This edition is the first one which reunited all gamemodes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
+This edition was the first one which reunited all gamemodes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
 
-The chosen song for this edition was [ΛNTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
+The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
 
 ![FBC 2015 Badge](img/fbc2015.png)
 
-## **osu!standard** winners
+## osu!standard Winners
 
 | Place | Mappers |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] rezoons |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
-## **osu!taiko** winners
+## osu!taiko Winners
 
 | Place | Mappers |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] Gezoda|
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
 
-## **osu!mania** winners
+## osu!mania Winners
 
 | Place | Mappers |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
-## **osu!catch** winners
+## osu!catch Winners
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] rezoons |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ## Organisation
 
@@ -95,7 +94,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 
 # FBC 2017
 
-This edition is the first edition which use a song that last less than 3 minutes. Moreover, it's the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
+This edition was the first edition which use a song that last less than 3 minutes. Moreover, it wass the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
 
 The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
 
@@ -122,9 +121,9 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 
 # FBC 2018
 
-This contest edition is the first one to suggest a Featured Artist song in the FBC contests.
+This contest edition was the first one to suggest a Featured Artist song in the FBC contests.
 
-The song picked for this tournament edition is [Thaehan - Sunrise](https://www.youtube.com/watch?v=F1_EyWi68hE).
+The song picked for this tournament edition was [Thaehan - Sunrise](https://www.youtube.com/watch?v=F1_EyWi68hE).
 
 ![FBC 2018 Badge](img/fbc2018.png)
 
