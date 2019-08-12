@@ -14,7 +14,7 @@ The top three mappers of a tournament will receive an osu!supporter tag, and the
 
 Since the 2017 edition, the chosen songs have a length lower than 3 mintutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
 
-# FBC 2015
+## FBC 2015
 
 This edition was the first one which reunited all gamemodes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
 
@@ -22,7 +22,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 ![FBC 2015 Badge](img/fbc2015.png)
 
-## osu!standard Winners
+### osu!standard Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -30,7 +30,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
-## osu!taiko Winners
+### osu!taiko Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -38,32 +38,32 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
 
-## osu!mania Winners
+### osu!mania Winners
 
 | Place | Mappers |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
-## osu!catch Winners
+### osu!catch Winners
 
 | Place | Mappers |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
-## Organisation
+### Organisation
 
 | Roles | Members |
 | :-- | :-- |
 | Host | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) |
 | Judges | ![][flag_PL] [Krfawy](https://osu.ppy.sh/users/1478292), ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253), ![][flag_GB] [Mysticalia](https://osu.ppy.sh/users/2728676) |
 
-## Links
+### Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/347485)
 - [Results thread](https://osu.ppy.sh/community/forums/topics/366859) 
 
-# FBC 2016
+## FBC 2016
 
 This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other gamemodes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania. 
 
@@ -71,7 +71,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 
 ![FBC 2016 Badge](img/fbc2016.png)
 
-## Winners
+### Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -79,7 +79,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 
-## Organisation
+### Organisation
 
 | Roles | Members |
 | :-- | :-- |
@@ -87,12 +87,12 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 | Judges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910)|
 
 
-## Links
+### Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/482659)
 - [Results thread](https://osu.ppy.sh/community/forums/topics/506691) 
 
-# FBC 2017
+## FBC 2017
 
 This edition was the first edition which use a song that last less than 3 minutes. Moreover, it wass the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
 
@@ -100,7 +100,7 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 
 ![FBC 2017 Badge](img/fbc2017.png)
 
-## Winners
+### Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -108,18 +108,18 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) |
 
-## Organisation
+### Organisation
 
 | Roles | Members |
 | :-- | :-- |
 | Hosts | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |   
 | Judges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)|
 
-## Link
+### Link
 
 - [Discussion and results thread](https://osu.ppy.sh/community/forums/topics/482659)
 
-# FBC 2018
+## FBC 2018
 
 This contest edition was the first one to suggest a Featured Artist song in the FBC contests.
 
@@ -127,7 +127,7 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 
 ![FBC 2018 Badge](img/fbc2018.png)
 
-## Winners
+### Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -135,14 +135,14 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047)  |
 
-## Organisation
+### Organisation
 
 | Roles | Members |
 | :-- | :-- |
 | Hosts | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |   
 | Judges | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696)|
 
-## Links
+### Links
 
 - [Discussion and results thread](https://osu.ppy.sh/community/forums/topics/754821)
 
