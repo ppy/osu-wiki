@@ -1,7 +1,7 @@
 ---
 tags:
-- osu! Asia Oceania Tournament
 - o!AOT
+- AOT
 ---
 # osu! Asia Oceania Tournament
 
@@ -27,7 +27,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) is an Asian and Oceanian doub
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 2 months of osu!supporter tag
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
 
 ![o!AOT Winner Badge](img/badge.png)
 
@@ -107,7 +107,63 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
 
 ---
 
+## Match Schedules: Round of 16
+
+### Friday, 16. August 2019
+
+| Match ID | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| **#1606** | No Tryhard | panda is not justice | **12:00** |
+
+### Saturday, 17. August 2019
+
+| Match ID | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| **#1603** | babote | osu attack on titan | **08:00** |
+| **#1602** | 모모니나 | Bin Boys | **10:00** |
+| **#1605** | 黃建智 | any ideas | **12:00** |
+
+### Sunday, 18. August 2019
+
+| Match ID | Team A | Team B | Match Time (UTC) |
+| :-: | --: | :-- | :-: |
+| **#1604** | 과로사 | bus girls | **06:00** |
+| **#1607** | The Big Dilfs | Operation Bathroom | **08:00** |
+| **#1608** | okguysweneedaname | 進撃のバブルティー | **10:00** |
+| **#1601** | reyuza ganteng | FYP 228922 | **12:00** |
+
+---
+
 ## Mappools
+
+### Round of 16
+
+**[Download the map pack here! (121 MB)](https://drive.google.com/file/d/1BKoSNRuz5TnHcwTn35KjAW12fX4ZNCbG/view?usp=sharing)**
+
+- NoMod
+  - [a_hisa - Pastel Subliminal (My Angel Rize) \[Nanaka's Extra\]](https://osu.ppy.sh/beatmapsets/587286#osu/1251051)
+  - [Suzuki Konomi - CHOIR JAIL (TV Size) (emu1337) \[Yukiyo's Phantasm\]](https://osu.ppy.sh/beatmapsets/929973#osu/1983024)
+  - [Isubokuro - Packet Hero (Battle) \[Apathy\]](https://osu.ppy.sh/beatmapsets/552084#osu/1169201)
+  - [Ras - STAGER (ALL STAGE CLEAR) (wa\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/165765#osu/460042)
+  - [Makai Toshi Niigata - Ukiyo-e Yokochou (DeviousPanda) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/921808#osu/1943166)
+- Hidden
+  - [Function Phantom - Paradox (byfar) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/824125#osu/1734156)
+  - [Sakai Mikio - Identity (TV-size) (taka1235) \[Insane\]](https://osu.ppy.sh/beatmapsets/374073#osu/819488)
+  - [antiPLUR - One Life Left to Live (Leader) \[Expert\]](https://osu.ppy.sh/beatmapsets/962141#osu/2014556)
+- HardRock
+  - [Morimori Atsushi - Applique (Uta) \[Lonely apple\]](https://osu.ppy.sh/beatmapsets/838366#osu/1755242)
+  - [Sakuzyo - Ala Grande (Smoothie World) \[Adventure\]](https://osu.ppy.sh/beatmapsets/394575#osu/858714)
+  - [Nekomata Master - Caring Dance (HanzeR) \[wet\]](https://osu.ppy.sh/beatmapsets/183379#osu/439350)
+- DoubleTime
+  - [LeaF - Alice in Misanthrope -Ensei Alice- (eiri-) \[Reform's Light Insane\]](https://osu.ppy.sh/beatmapsets/782989#osu/1644001)
+  - [omniboi - BonBon (Kyshiro) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/505729#osu/1092923)
+  - [Kuraki Mai - Your Best Friend (Xinely) \[Together\]](https://osu.ppy.sh/beatmapsets/210114#osu/494368)
+- FreeMod
+  - [Black Hole - Pluto (Snow Note) \[Expert\]](https://bloodcat.com/osu/s/45074)
+  - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/96103#osu/257793)
+  - [Tonon - Shirayuki \~sirayuki\~ (yf\_bmp) \[Expert\]](https://osu.ppy.sh/beatmapsets/429316#osu/926381)
+- Tiebreaker
+  - **[BABYMETAL - KARATE (Hysteria) \[Kyacchi Ni-Ju Ni\]](https://osu.ppy.sh/beatmapsets/505685#osu/1090998)**
 
 ### Group Stage
 
@@ -151,6 +207,78 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
 - DoubleTime
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   - [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
+
+---
+
+## Match Results
+
+### Group Stage
+
+| Group | Friday, 2019-08-02 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| E | **babote** | **5** | 0 | 12 jobs a month | [#1](https://osu.ppy.sh/community/matches/53777408) |
+| F | **Operation Bathroom** | **5** | 2 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/53779062) |
+| B | **FYP 228922** | **5** | 0 | matsuyoku-rotsoforce | [#1](https://osu.ppy.sh/community/matches/53780203) |
+| C | **모모니나** | **5** | 2 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/53780296) |
+| G | **과로사** | **5** | 0 | okguysweneedaname | -win by default- |
+| C | **모모니나** | **5** | 1 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53799799) |
+
+| Group | Saturday, 2019-08-03 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **FYP 228922** | **5** | 0 | No title | -win by default- |
+| E | **babote** | **5** | 1 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/53801400) |
+| E | **The Big Dilfs** | **5** | 1 | 12 jobs a month | [#1](https://osu.ppy.sh/community/matches/53802247) |
+| D | **panda is not justice** | **5** | 0 | Neo Fantasy Online | -win by default- |
+| B | **any ideas** | **5** | 2 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/53804224) |
+| A | **黃建智** | **5** | 1 | HoChRaPi | [#1](https://osu.ppy.sh/community/matches/53805239) |
+| D | **panda is not justice** | **5** | 1 | Nov 14th | [#1](https://osu.ppy.sh/community/matches/53805394) |
+| A | **黃建智** | **5** | 0 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53806415) |
+
+| Group | Sunday, 2019-08-04 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C | **an unlikely alliance** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53824575)
+| F | **osu attack on titan** | **5** | 0 | wat | -win by default- |
+| F | **Operation Bathroom** | **5** | 0 | wat | -win by default- |
+| E | **The Big Dilfs** | **5** | 1 | Team Smead | [#1](https://osu.ppy.sh/community/matches/53825263) |
+| H | Best Friends | 4 | **5** | **Chicken Biriyani** | [#1](https://osu.ppy.sh/community/matches/53825965) |
+| F | **Operation Bathroom** | **5** | 0 | tim jago strim | -win by default- |
+| C | **모모니나** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53828443) |
+| A | HoChRaPi | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/53830471) |
+
+| Group | Friday, 2019-08-09 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **any ideas** | **5** | 0 | matsuyoku-rotsoforce | [#1](https://osu.ppy.sh/community/matches/53945342) |
+| D | **panda is not justice** | **5** | 0 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/53945127) |
+| F | **osu attack on titan** | **5** | 0 | tim jago strim | -win by default- |
+| H | **進撃のバブルティー** | **5** | 0 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53948031) |
+
+| Group | Saturday, 2019-08-10 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C | **No Tryhard** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53967598) |
+| E | **babote** | **5** | 0 | Team Smead | [#1](https://osu.ppy.sh/community/matches/53968367) |
+| F | **wat** | **5** | 0 | tim jago strim | -win by default- |
+| A | **reyuza ganteng** | **5** | 0 | HoChRaPi | [#1](https://osu.ppy.sh/community/matches/53970049) |
+| B | **matsuyoku-rotsoforce** | **5** | 0 | No title | -win by default- |
+| D | **Bin Boys** | **5** | 4 | Neo Fantasy Online | [#1](https://osu.ppy.sh/community/matches/53970100) |
+| H | **進撃のバブルティー** | **5** | 0 | Best Friends | [#1](https://osu.ppy.sh/community/matches/53971003) |
+| D | **Nov 14th** | **5** | 1 | Neo Fantasy Online | [#1](https://osu.ppy.sh/community/matches/53971009) |
+| G | **okguysweneedaname** | **5** | 0 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53971921) |
+| G | **艾莉皮肤店** | **5** | 1 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53973352) |
+| A | **reyuza ganteng** | **5** | 1 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53976528) |
+
+| Group | Sunday, 2019-08-11 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| E | 12 jobs a month | 0 | 0 | Team Smead | -nullified- |
+| C | **No Tryhard** | **5** | 3 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53991507) |
+| H | **bus girls** | **5** | 1 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53993115) |
+| B | **any ideas** | **5** | 0 | No title | -win by default- |
+| G | **과로사** | **5** | 0 | 艾莉皮肤店 | [#1](https://osu.ppy.sh/community/matches/53994657) |
+| H | **bus girls** | **5** | 0 | Best Friends | -win by default- |
+| D | **Bin Boys** | **5** | 3 | Nov 14th | [#1](https://osu.ppy.sh/community/matches/53995030) |
+| H | **進撃のバブルティー** | **5** | 0 | bus girls | [#1](https://osu.ppy.sh/community/matches/53995469) |
+| G | **과로사** | **5** | 1 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53996389) |
+| G | **okguysweneedaname** | **5** | 2 | 艾莉皮肤店 | [#1](https://osu.ppy.sh/community/matches/53997555) |
+| A | 黃建智 | 4 | **5** | **reyuza ganteng** | [#1](https://osu.ppy.sh/community/matches/53999327) |
 
 ---
 
