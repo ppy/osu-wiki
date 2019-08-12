@@ -132,7 +132,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 142 BPM, 1:43 | 11.89★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-So here we go with a little bit of an odd map to get a bit of variety in this week's picks. Despite rostld's reputation of not really mapping anything all too serious, Sentimental Hades in the Heavenly Skyscraper is quite a playable map for good players. It's quite bursty in its difficulty thanks to crazy jumps from the halfway point up until the end of the map. It's very enjoyable to try and catch these jumps though, making it a map with lots of replayability. Above all though, simply put the map is funny and not to be taken too seriously, with the lawnmower meme having been quite popular around its release in 2015.
+So here we go with a little bit of an odd map to get a bit of variety in this week's picks. Despite rostld's reputation of not really mapping anything all too serious, *Sentimental Hades in the Heavenly Skyscraper* is quite a playable map for good players. It's quite bursty in its difficulty thanks to crazy jumps from the halfway point up until the end of the map. It's very enjoyable to try and catch these jumps though, making it a map with lots of replayability. Above all though, simply put the map is funny and not to be taken too seriously, with the lawnmower meme having been quite popular around its release in 2015.
 
 ## <a name="mania" id="mania"></a>osu!mania
 
