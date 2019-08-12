@@ -35,11 +35,11 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 190 BPM, 3:04 | 6.04★  
 *description written by [fartownik](https://osu.ppy.sh/users/56917)*
 
-The Loved section is no stranger to sped up versions of songs, and with a track as popular as *Kyouran Hey Kids!!*, it should come as no surprise that this 190 BPM edit by D e s has collected 120+ favorites to date. A fairly standard mapping style with simple streams and straight, generic sliders leaves a stamina-draining map reminiscent of the recent BarkingMadDog *Bon Appetit S* megaset that was also recently introduced to the category. If you've become a God of Speed on the ranked mapset, it's high time you attempt to transcend that status with this map!
+The Loved section is no stranger to sped up versions of songs, and with a track as popular as *Kyouran Hey Kids!!*, it should come as no surprise that this 190 BPM edit by D e s has collected 120+ favorites to date. A fairly standard mapping style with simple streams and straight, generic sliders leaves a stamina-draining map reminiscent of the recent [BarkingMadDog](https://osu.ppy.sh/users/3475189) *Bon Appetit S* megaset that was also recently introduced to the category. If you've become a God of Speed on the ranked mapset, it's high time you attempt to transcend that status with this map!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/2-charon-dj-seven-pnb-refix.jpg)](https://osu.ppy.sh/community/forums/topics/947109)
 
-[Negoto (DJ SEVEN) - Charon (DJ SEVEN PnB Refix)](https://osu.ppy.sh/beatmapsets/255655#osu) by [eLy](https://osu.ppy.sh/users/5026068)  
+[Negoto (DJ SEVEN) - Charon (DJ SEVEN PnB Refix)](https://osu.ppy.sh/beatmapsets/255655#osu) by [eLy](https://osu.ppy.sh/users/1014222)  
 175 BPM, 2:56 | 6.02★, 6.02★  
 *description written by [fartownik](https://osu.ppy.sh/users/56917)*
 
@@ -81,12 +81,12 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 155 BPM, 2:41 | 4.92★  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-- Can you defeat Flandre? -  
+_Can you defeat Flandre?_
 Jerryによるこの譜面は、7/27に公開された時からたったの3日で72favを獲得するという伝説的とも言えるスピードで認知されています。（8/8現在では87favも獲得しています）  
 この譜面は、"VS. Flandre Scarlet"と称し、この曲の原作である東方Projectの登場人物のフランドールスカーレットからの攻撃や妨害を受けながらプレイします。これには、見えないノーツとストーリーボードを組み合わせた手法が用いられています。  
 もちろん、一筋縄ではいかない難易度ですが、とても素晴らしいこの作品を一度プレイしてみてはいかがでしょうか？
 
-- Can you defeat Flandre? -  
+_Can you defeat Flandre?_
 This map by Jerry, uploaded on 7/27, received an almost legendary 72 favs in 3 days (87 favs as of 8/8).  
 This map goes by "VS. Flandre Scarlet" meaning you play while being attacked by Flandre Scarlet, a character from Touhou Project, the game this song originates from. This is achieved by a combination of invisible notes and storyboarding. Of course, it's not an easy map, but why not give this fabulous map a try?
 
@@ -156,7 +156,7 @@ AutotelicBrown gets her first mapset nominated for the Loved section with *Troub
 
 The chart is filled with doubles and triples to the main melody with occasional quads charted to higher and louder notes. In the Ayumu's Distress difficulty, there are also occasional jumptrills that pair with snare rolls, which could trip up players who are going for either accuracy or a 97-98% score. In the Ayumu's Trouble difficulty, the snare rolls are just 1234 rolls which are less stamina intensive than jumptrills. There's no long break until 70% into the chart (which is 3 minutes long), so this chart doubles as both chordjack stamina practice for lower-level players and chordjack accuracy practice for higher-level players.
 
-This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that you'll have two or three difficulties to try out. If you enjoy charts like XeoStyle's *Lone Digger* or arcwinolivirus' *Endless Tewi-ma Park*, or if you just want to practice chordjacks in general, absolutely try out this mapset.
+This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that you'll have two or three difficulties to try out. If you enjoy charts like [XeoStyle's](https://osu.ppy.sh/users/3377280) *Lone Digger* or [arcwinolivirus'](https://osu.ppy.sh/users/2039089) *Endless Tewi-ma Park*, or if you just want to practice chordjacks in general, absolutely try out this mapset.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/3-suikinkutsu-feat-uehara-hiromi.jpg)](https://osu.ppy.sh/community/forums/topics/947130)
 
