@@ -1,6 +1,6 @@
 # Commencer un projet de beatmap
 
-[*Veuillez préciser le type de projet (Discographie, Album, Collaboration)* par LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)
+[*Please specify project type (Discography, Album, Collab)* par LuigiHann](https://osu.ppy.sh/community/forums/topics/12193)
 
 Note : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) du forum et explique comment correctement l'utiliser.
 
