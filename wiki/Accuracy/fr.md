@@ -2,8 +2,7 @@
 
 L'accuracy (précision en français) est une mesure qui sert à établir la constance d'un joueur. 
 
-Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un object est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/pp) accuracy qui dépend du score envoyé aprés avoir joué une beatmap.
-
+Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un object est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/pp) accuracy qui dépend du score envoyé après avoir joué une beatmap.
 
 ## Modes de jeu
 
@@ -11,7 +10,7 @@ Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier
 
 ![Accuracy = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 300s)](img/accuracy_standard.png "Formule de l'accuracy d'osu!standard")
 
-Dans le mode osu!standard, l'accuracy est calculée en pondérant les points reçus pour chaque object touché par sa valeur, divisée par le score maximal obtenable.
+Dans le mode osu!standard, l'accuracy est calculée en pondérant les points reçus pour chaque object touché par sa valeur, divisé par le score maximal obtenable.
 
 Voici la référence pour un cercle:
 
@@ -28,15 +27,13 @@ Voici la référence pour un cercle:
 
 En osu!taiko, l'accuracy est calculée en prenant la somme de la précision de la note, par le nombre de notes. Les différents scores de précision sont les suivants: PARFAIT (良) qui est considéré comme un 100%, BON (可) comme un 50% (moitié) et RATE/MAUVAIS (不可) comme 0% (ce qui brise le combo). Les drums rolls et les spinners, eux, n'influencent pas l'accuracy.
 
-
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (nombre de droplets + nombre de drops + nombre de fruits) / (nombre de droplets manqués + nombre de drops manqués + nombres de fruits manqués + nombres de droplets + nombres de drops + nombres de fruits)](img/accuracy_catch.png "Formule de l'accuracy d'osu!catch")
+![Accuracy = (nombre de droplets + nombre de drops + nombre de fruits) / (nombre de droplets manqués + nombre de drops manqués + nombre de fruits manqués + nombre de droplets + nombre de drops + nombre de fruits)](img/accuracy_catch.png "Formule de l'accuracy d'osu!catch")
 
 En osu!catch, l'accuracy est calculée en prenant le nombre total d'objets attrapés (excepté les spinners), divisé par le nombre d'objets total (excepté les spinners). Tous les objets ont la même valeur, sauf les bananes, qui font partie des spinners.
 
 *Note pour les utilisateurs de l'API: Afin de calculer l'accuracy en osu!catch, le nombre de droplets sont sous `count50` et le nombre de gouttelettes manquées sont sous `countkatu`.*
-
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -56,7 +53,7 @@ Le graphique de performance est un tableau qui affiche les performances du joueu
 
 Lorsque le curseur passe sur graphique de performance, une petite fenêtre est affichée avec deux valeurs: *Error* et *Unstable Rate*. 
 
-Dû à la manière dont le mode [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implementés, les valeurs "Error" et "Unstable Rate" sont multipliées par le même facteur que la musique. Afin d'obtenir les valeurs exactes lorsque vous jouez en DT, divisez le résultat par 1.5. Pour le mode HT, multipliez le résultat par 1.33.  
+Dû à la manière dont le mode [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implémentés, les valeurs "Error" et "Unstable Rate" sont multipliées par le même facteur que la musique. Afin d'obtenir les valeurs exactes lorsque vous jouez en DT, divisez le résultat par 1.5. Pour le mode HT, multipliez le résultat par 1.33.  
 
 #### Error
 
@@ -75,4 +72,3 @@ En plus de l'accuracy, des informations à propos des spinners apparaissent dans
 #### Speed
 
 La valeur "Speed" représente la moyenne de TPM (tours par minutes) sur tous les spinners de la beatmap. "Max" étant la plus haute valeur de TPM reçue parmi tout les spinners de la beatmap.
-
