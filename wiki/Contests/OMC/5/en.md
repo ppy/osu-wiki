@@ -6,7 +6,7 @@ tags:
 
 # osu! Fan Cafe Mapping Contest #5 
 
-![OMC5 Logo](img/omcbg.jpg)
+![OMC5 Logo](img/Banner.jpg)
 
 The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the fifth installment of the OMC.
 
@@ -14,10 +14,10 @@ The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hoste
 
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
-| Registration Phase | 2019-08-12/2019-08-18 |
-| Submitting Phase | 2019-08-19/2019-09-19 |
-| Judging Phase | 2019-09-20/2019-09-27 |
-| Results Announcement | 2019-09-28 |
+| Registration Phase | 2019-08-13/2019-08-19 |
+| Submitting Phase | 2019-08-20/2019-09-20 |
+| Judging Phase | 2019-09-21/2019-09-28 |
+| Results Announcement | 2019-09-29 |
 
 Schedules may be delayed.
 
@@ -25,7 +25,7 @@ Schedules may be delayed.
 
  Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
- 1. (to be announced)
+ 1. HyuN - Absolute
  2. Cranky - R176
 
 ## Ruleset
@@ -75,4 +75,5 @@ The OMC5 is run by members of the Korean mapping community.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
+- [Registration](https://forms.gle/RwDTZNyLS1A8z2Bu9)
 
