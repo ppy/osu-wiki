@@ -12,4 +12,4 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 - [osu! Alumni](/wiki/People/osu!_Alumni)
 - [Équipe Project Loved](/wiki/People/Project_Loved_Team)
 - [Support technique](/wiki/People/Support_Team)
-- [L'administration](/wiki/People/The_Team) 
+- [Administration](/wiki/People/The_Team) 
