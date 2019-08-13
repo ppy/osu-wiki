@@ -6,10 +6,9 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - [Contributeurs](/wiki/People/Community_Contributors)
 - [Développeurs](https://osu.ppy.sh/groups/11) <!-- This should be its own page under People -->
-- [Équipe de de modération globale](/wiki/People/Global_Moderation_Team)
+- [Équipe de modération globale](/wiki/People/Global_Moderation_Team)
 - [Modérateurs par langue](/wiki/People/Language_Moderators)
 - [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 - [osu! Alumni](/wiki/People/osu!_Alumni)
 - [Équipe Project Loved](/wiki/People/Project_Loved_Team)
 - [Support technique](/wiki/People/Support_Team)
-- [Administration](/wiki/People/The_Team) 
