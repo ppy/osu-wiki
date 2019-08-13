@@ -94,7 +94,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 
 ## FBC 2017
 
-This edition was the first edition which use a song that last less than 3 minutes. Moreover, it wass the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
+This edition was the first edition which use a song that last less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
 
 The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
 
