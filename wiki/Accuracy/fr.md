@@ -2,7 +2,7 @@
 
 L'accuracy (précision en français) est une mesure qui sert à établir la constance d'un joueur. 
 
-Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un object est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/pp) accuracy qui dépend du score envoyé après avoir joué une beatmap.
+Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un objet est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/pp) accuracy qui dépend du score envoyé après avoir joué une beatmap.
 
 ## Modes de jeu
 
