@@ -28,6 +28,8 @@ Schedules may be delayed.
  1. HyuN - Absolute
  2. Cranky - R176
 
+ You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing).
+
 ## Ruleset
 
 ### Rules
@@ -69,7 +71,7 @@ The OMC5 is run by members of the Korean mapping community.
 | Position | Member(s) |
 | :-- | :-- |
 | Management | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| Judges | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
+| Judges | (to be announced when the results is announced. it's for avoiding bribeing the judges.) |
 | Designer | [Enon](https://osu.ppy.sh/users/2043401) |
 
 ## Links
