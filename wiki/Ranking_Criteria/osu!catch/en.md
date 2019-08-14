@@ -178,7 +178,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - 1/8 and higher hyperdashes should not be used between consecutive object pairs.
 - Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used after hyperdashes.
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
-- Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
+- Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern⁠. 1/8 patterns and higher should be used sparingly.
 
 
 #### Difficulty Setting Guidelines
