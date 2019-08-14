@@ -175,8 +175,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **Hyperdashes should only be used on drops and/or slider repetitions when the slider path is simple and easy-to-follow.** This is to prevent chaotic or unreasonably difficult slider movement, as transitioning into and out of complex slider shapes with hyperdash is usually uncomfortable to play and a major penalty to accuracy for little benefit.
-- **1/8 and higher hyperdashes should not be used between consecutive object pairs.
-- **Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used after hyperdashes.
+- **1/8 and higher hyperdashes should not be used between consecutive object pairs.**
+- **Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used after hyperdashes.**
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern⁠.** 1/8 patterns and higher should be used sparingly.
 
