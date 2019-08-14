@@ -28,6 +28,8 @@ tags:
  1. HyuN - Absolute
  2. Cranky - R176
 
+ .osz 파일은 [이 링크](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing)에서 다운로드 받을 수 있습니다.
+
 ## 대회 규칙
 
 ### 규칙
@@ -70,7 +72,7 @@ OMC5는 한국의 다음과 같은 매핑 커뮤니티 인원에 의해 주최�
 | 직책 | 인원 |
 | :-- | :-- |
 | 주최 | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| 심사 | [404 AimNotFound](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [eINess](https://osu.ppy.sh/users/3789302), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Len](https://osu.ppy.sh/users/1686145), [Sonnyc](https://osu.ppy.sh/users/11771) |
+| 심사 | (심사위원 매수 등의 불미스러운 일을 피하기 위해 심사위원은 결과 발표 이후 공개됩니다.) |
 | 디자인 | [Enon](https://osu.ppy.sh/users/2043401) |
 
 ## 링크
