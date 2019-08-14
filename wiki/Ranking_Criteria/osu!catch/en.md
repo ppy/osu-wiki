@@ -82,7 +82,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **Combos should not exceed 8 objects including slider tails and repeats.** Spinners are an exception.
-- **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly
+- **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly.
 
 #### Difficulty Setting Guidelines
 
