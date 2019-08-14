@@ -294,7 +294,7 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
    - Seed 9 - 16 will be identified as a **high seed team.**
    - Seed 17 - 24 will be identified as a **mid seed team.**
    - Seed 24 - 32 will be identified as a **low seed team.**
-5. Each group in group stage is consist of: 1 top seed, 1 high seed, 1 mid seed, and 1 low seed team.
+5. Each group in group stage consists of: 1 top seed, 1 high seed, 1 mid seed, and 1 low seed team.
 6. However, for top seed team, their group will be placed as follows:
    - Seed 1 will be placed in Group A
    - Seed 2 will be placed in Group H
@@ -302,12 +302,12 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
    - Seed 5/6/7/8 will be placed in Group B/C/F/G
 7. A team will have **2 minutes** to switch their roster(s) between each map.
    - After the given time expires, the referee will start the map.
-8. If a team get a technical difficulty in the middle of a qualifier map, the following team gets a chance to replay that specific map. (only once per team in the whole qualifier playthrough)
+8. If a team gets a technical difficulty in the middle of a qualifier map, the following team gets a chance to replay that specific map. (only once per team in the whole qualifier playthrough)
 
 ### Match Procedures
 
 1. Teams will use `!roll` tournament to determine the order of picking and banning beatmaps.
-2. The team that scores higher will pick the first beatmap to play and second to bann. (start picking after the second bann is mentioned)
+2. The team that scores higher will pick the first beatmap to play and second to ban. (start picking after the second ban is mentioned)
 3. The team that scores lower will start banning the map first and picking map to play second.
 4. For Grand Finals, there will be no bracket reset. Instead, the team in winner bracket will be given a choice to win/lose the `!roll`, one point advantage and a free ban. Their pick/ban order can follow the #2 and #3 point of this section.
 5. A team will be given **2 minutes** to pick/ban a map
@@ -316,7 +316,7 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
 8. Disconnection rules (timer counts when the map begins):
    - First 30 seconds: Rematch the map.
    - After 30 seconds: No rematch.
-   - If any disconnection happens, the team who has disonnected member should not wait for their member. However in the case there are only 2 members in the said team, both teams should wait until 5 minutes before it is declared a loss to the disconnecting team.
+   - If any disconnection happens, the team who has disconnected member should not wait for their member. However in the case there are only 2 members in the said team, both teams should wait until 5 minutes before it is declared a loss to the disconnecting team.
 9. Each team will only be given one chance to rematch in case of a disconnection.
 10. Late tolerance are explained as follows:
     - Qualifiers Stage: 5 minutes.
