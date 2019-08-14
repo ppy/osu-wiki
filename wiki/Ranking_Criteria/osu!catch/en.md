@@ -20,9 +20,9 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Drop:** A medium-sized object representing a slider tick.
 - **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike fruits and drops, will not result in a combo break.
 - **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
-- **Active Object** An object that must be caught in order to maintain combo, namely fruits and drops. 
+- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops. 
 - **Walk:** Any spacing between two objects where no dash is needed to catch both.
-- **Dash:** A spacing between two active objects that requires the use of dash to catch both.
+- **Dash:** A spacing between two objects that requires the use of the dash key to catch both.
 - **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects. 
 - **Trigger distance:** The minimum spacing between two active objects at which a hyperdash is generated between them.
 - **Edge dash:** A very large spacing between two active objects where the required Trigger Distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
@@ -46,7 +46,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 - **All circles and slider heads should represent a sound existing in the music.** This is usually a distinct sound, but can also represent a continuous sound with an indistinguishable start or end.
 - **Sliderends of extended sliders should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, and 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a sound in a different snap from what was recommended, snapping to an actual beat always takes priority.
-- **Dashes and hyperdashes should not be used when the destination of the dash or hyperdash is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osupixels of space between the end point of the dash/hyperdash and the border of the play field, namely at x:16 or x:496 at most.
+- **Dashes and hyperdashes should not be used when the destination of the dash or hyperdash is located near the left or right border of the play field.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield. Try to leave at least 16 osu!pixels of space between the end point of the dash/hyperdash and the border of the play field, namely at x:16 or x:496 at most.
 - **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
 - **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
 - **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty should be less than or equal to the Overall Difficulty of the next hardest difficulty.
@@ -103,9 +103,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Guidelines
 
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
+- Basic dashes of different beat snap should not be used between consecutive fruits.
 - **Higher-snapped dashes should not be followed by antiflow patterns.** If used, the movement after the dash must be walkable.
 - Combos should not exceed 10 objects including slider tails and repeats. Spinners are an exception.
-- Basic dashes of different beat snap should not be used between consecutive fruits.
 - Note density should follow a mostly 1/1 and 1/2 pattern - 1/3 and/or 1/4 patterns can be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
 
 #### Difficulty Setting Guidelines
@@ -122,7 +122,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Hyperdashes cannot be used on individual drops and/or slider repititions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the sliderpath.
 - **Basic hyperdashes must not be used more than two times between consecutive fruits. If higher-snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
 - **Hyperdashes of different beat snap (for example, a 1/2 hyperdash followed by a 1/4 hyperdash) must not be used between consecutive fruits.**
-- **Basic hyperdashes may be used in conjunction with antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the trigger distance when followed by a walkable movement, or 1.1 times the trigger distance when followed by a basic dash.
 - **Dashes may be used if the time between the ticks of the desired snapping is 62ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
 - **Basic dashes must not be used more than four times between consecutive fruits. Higher-snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
@@ -133,6 +132,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
 - **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5 times the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
+- **Basic hyperdashes may be used in conjunction with antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the trigger distance when followed by a walkable movement, or 1.1 times the trigger distance when followed by a basic dash.
 - **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
 - Combos should not exceed 12 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 and/or 1/3 pattern - 1/4 and/or 1/6 patterns can be used sparingly.
@@ -155,7 +155,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes should not be used on individual drops and/or slider repetitions.** If used, the slider path must be simple and easy-to-follow and they must not exceed two consecutive uses for basic hyperdashes. Higher-snapped hyperdashes within a slider are not allowed.
 - Basic hyperdashes of different beat snap should not be used between consecutive fruits.
-- Edge dashes may be used with caution for a maximum of three consecutive objects, and should not be used in after hyperdashes.
+- Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern - 1/8 patterns and higher can be used sparingly.
 
