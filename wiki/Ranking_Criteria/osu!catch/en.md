@@ -180,7 +180,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Combos should not exceed 16 objects including slider tails and repeats. Spinners are an exception.
 - Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern⁠. 1/8 patterns and higher should be used sparingly.
 
-
 #### Difficulty Setting Guidelines
 
 - Approach Rate / Overall Difficulty should be between 8-10
