@@ -25,7 +25,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Dash:** A spacing between two objects that requires the use of the dash key to catch both.
 - **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects. 
 - **Trigger distance:** The minimum spacing between two active objects at which a hyperdash is generated between them.
-- **Edge dash:** A very large spacing between two active objects where the required Trigger Distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
+- **Edge dash:** A very large spacing between two active objects where the required trigger distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 - **Basic dash/hyperdash:** Any dash or hyperdash whose time between active objects is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
 - **Higher-snapped dash/hyperdash:** Any dash or hyperdash that doesn't meet the requirement to be a basic one, i.e. the time between the objects is less than the threshold to be classified as basic.
 - **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
