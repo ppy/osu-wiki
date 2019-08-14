@@ -11,12 +11,11 @@ The **French Beatmapping Contest** (***FBC***) is a mapping contest for French-s
 Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria may change if necessary. 
 
 The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalized badge that will be shown on their osu! profile.  
-
-Since the 2017 edition, the chosen songs have a length lower than 3 mintutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
+Since the 2017 edition, the chosen songs have a length lower than 3 minutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
 
 ## FBC 2015
 
-This edition was the first one which reunited all gamemodes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
+This edition was the first one which reunited all game modes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
 
 The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
 
@@ -65,7 +64,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 ## FBC 2016
 
-This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other gamemodes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania. 
+This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania. 
 
 The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
 
@@ -94,7 +93,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 
 ## FBC 2017
 
-This edition was the first edition which use a song that last less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
+This edition was the first edition which uses a song that lasts less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
 
 The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
 
