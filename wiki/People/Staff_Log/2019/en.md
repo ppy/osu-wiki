@@ -165,3 +165,15 @@ All users listed below were added on 2019-02-16.
 - [Stefan](https://osu.ppy.sh/users/626907) - resignation (2019-07-17)
 - [NeilPerry](https://osu.ppy.sh/users/841391) - resignation (2019-07-22)
 - [Testo](https://osu.ppy.sh/users/5200881) - resignation (2019-07-22)
+
+## August
+
+### Beatmap Nominator Additions
+
+- [Namki](https://osu.ppy.sh/users/5248582) (2019-08-01)
+
+### Beatmap Nominator Removals
+
+- [Nokashi](https://osu.ppy.sh/users/5431196) - inactivity (2019-08-05)
+- [-Luminate](https://osu.ppy.sh/users/4778689) - resignation (2019-08-07)
+- [Agatsu](https://osu.ppy.sh/users/5579871) - insufficient proficiency (2019-08-11)
