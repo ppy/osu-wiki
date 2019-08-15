@@ -159,12 +159,12 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
-### ![](/wiki/shared/mode/taiko.png) Intermediate Global Taiko Showdown
+### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- | --- |
-| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malezja | ![][flag_NL] Holandia | ![][flag_US] Stany Zjednoczone |
-| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hongkong | ![][flag_US] Stany Zjednoczone A | ![][flag_CL] Chile |
+| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/GTS/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malezja | ![][flag_NL] Holandia | ![][flag_US] Stany Zjednoczone |
+| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hongkong | ![][flag_US] Stany Zjednoczone A | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
