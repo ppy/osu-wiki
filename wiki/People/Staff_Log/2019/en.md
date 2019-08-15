@@ -151,3 +151,17 @@ All users listed below were added on 2019-02-16.
 ## July
 
 - Moved [Spkz](https://osu.ppy.sh/users/2964029) to the osu! Alumni (2019-07-13)
+
+### Beatmap Nominator additions
+
+- [Trynna](https://osu.ppy.sh/users/2652951) (2019-07-04)
+- [Lacrima](https://osu.ppy.sh/users/4915649) (2019-07-06)
+- [JeirYagtama](https://osu.ppy.sh/users/7483452) (2019-07-06)
+- [Uberzolik](https://osu.ppy.sh/users/1314547) (2019-07-20)
+- [-Ziel-](https://osu.ppy.sh/users/6866022) (2019-07-28)
+
+### Beatmap Nominator removals
+
+- [Stefan](https://osu.ppy.sh/users/626907) - resignation (2019-07-17)
+- [NeilPerry](https://osu.ppy.sh/users/841391) - resignation (2019-07-22)
+- [Testo](https://osu.ppy.sh/users/5200881) - resignation (2019-07-22)
