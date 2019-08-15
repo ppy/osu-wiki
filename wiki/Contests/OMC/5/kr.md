@@ -72,7 +72,7 @@ OMC5는 한국의 다음과 같은 매핑 커뮤니티 인원에 의해 주최�
 | 직책 | 인원 |
 | :-- | :-- |
 | 주최 | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| 심사 | (심사위원 매수 등의 불미스러운 일을 피하기 위해 심사위원은 결과 발표 이후 공개됩니다.) |
+| 심사 | (심사위원은 결과 발표 이후 공개됩니다.) |
 | 디자인 | [Enon](https://osu.ppy.sh/users/2043401) |
 
 ## 링크
