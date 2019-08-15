@@ -186,7 +186,6 @@ tags:
     -   [ppv1](/wiki/Performance_Points/ppv1)
 -   [Play Styles](/wiki/Play_Styles)
 -   [Projects](/wiki/Projects)
--   [Quality Assurance Team Blog](/wiki/Quality_Assurance_Team_Blog)
 -   [Ranking Criteria](/wiki/Ranking_Criteria)
     -   [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)
     -   [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)
