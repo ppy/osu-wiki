@@ -2,7 +2,7 @@
 
 ## Étape \#1
 
-Premièrement, vous devez sélectionner une image. Je vais utiliser l'image ci-dessous. Je vais vous montrer comment cela fonctionne en utilisant GIMP. (Il n'y a pas de problèmes à utiliser d'autres programmes.) Pour cette méthode, nous avons besoin de l'outil de sélection aka Lasso.
+Premièrement, vous devez sélectionner une image. Je vais utiliser l'image ci-dessous. Je vais vous montrer comment cela fonctionne en utilisant GIMP. (Il n'y a pas de problèmes à utiliser d'autres programmes.) Pour cette méthode, nous avons besoin de l'outil de sélection Lasso.
 
 ![Étape #1](CCB-1.png "Étape #1")
 
@@ -20,7 +20,7 @@ Continuez jusqu'à ce que vous finissiez de sélectionner le contour de votre pe
 
 ## Étape \#4
 
-Si vous avez fini votre sélection principale, nous pouvons nous occuper de l'arrière-plan qui était avec le personnage. Continuez d'utiliser votre outil de sélection, mais changez son mode en "Soustraire de la sélection actuelle" aka supprimer la sélection. Et maintenant, procédez de la même manière qu'au début en désélectionnant tout fond entre les cheveux, les jambes, etc.
+Si vous avez fini votre sélection principale, nous pouvons nous occuper de l'arrière-plan qui était avec le personnage. Continuez d'utiliser votre outil de sélection, mais changez son mode en "Soustraire de la sélection actuelle" donc supprimer la sélection. Et maintenant, procédez de la même manière qu'au début en désélectionnant tout fond entre les cheveux, les jambes, etc.
 
 ![Étape #4](CCB-4.png "Étape #4")
 
@@ -32,7 +32,7 @@ La seule chose qu'il reste à faire est de couper votre personnage hors de l'ima
 
 ## Fin
 
-C'est fini. Cela n'a pas l'air très bien fait surtout pour la fin des cheveux, mais c'est parce que je n'ai pas été asser précis quand je l'ai fait.
+C'est fini. Cela n'a pas l'air très bien fait surtout pour la fin des cheveux, mais c'est parce que je n'ai pas été assez précis quand je l'ai fait.
 
 Cela peut prendre du temps, mais le rendu final est vraiment bien.
 
