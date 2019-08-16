@@ -20,7 +20,7 @@ Osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'ad
 
 ### Sauter un temps
 
--   C'est là que le temps fort (généralement) est omis. Sauter un temps dans une chanson rapide peut faire monter la tension. Souvent, seul un instrument particulier perd le rythme, alors que les autres jouent normalement. Abandonner le rythme peut être un moyen intéressant de rattraper un rythme, mais il ne faut pas en abuser. Une autre façon de simuler cela consiste à utiliser des sliders décalés.
+-   C'est là que le temps fort (généralement) est omis. Sauter un temps dans une chanson rapide peut faire monter la tension. Souvent, seul un instrument particulier perd le rythme, alors que les autres jouent normalement. Abandonner le rythme peut être un moyen intéressant de construire un rythme, mais il ne faut pas en abuser. Une autre façon de simuler cela consiste à utiliser des sliders décalés.
 
 ## Partie 2: Sliders
 
@@ -54,7 +54,7 @@ Une exception évidente concerne les streams longs où un slider de répétition
 
 ![Patterns de slider](Slider_patterns.png "Patterns de slider")
 
-Alterner cercle, slider, cercle, slider est une manière élégante de mapper des rythmes en demi-notes en pointillés (c.-à-d. les rythmes 1 et 1/2) car elle met l’accent sur le slider, qui est généralement la note accentuée. Personnellement, j'adore ces rythmes et je les préfère aux 1x slider répétitifs. Vous pouvez également faire cercle cercle slider slider cercle slider, etc ... C’est aussi simple que de mélanger un rythme droit 1/1 ou 1/2 en accentuant certaines notes en utilisant des sliders à différents endroits.
+Alterner cercle, slider, cercle, slider est une manière élégante de mapper des rythmes en demi-notes en pointillés (c.-à-d. les rythmes 1 et 1/2) car elle met l’accent sur le slider, qui est généralement la note accentuée. Personnellement, j'adore ces rythmes et je les préfère aux slider à une répétition. Vous pouvez également faire cercle cercle slider slider cercle slider, etc ... C’est aussi simple que de mélanger un rythme 1/1 ou 1/2 en accentuant certaines notes en utilisant des sliders à différents endroits.
 
 ### Sliders courts vs sliders longs
 
@@ -74,7 +74,7 @@ Les chansons qui utilisent uniquement des sliders de temps forts sont vouées à
 
 ## Partie 3: Overmapping
 
-Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper  :
+Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper :
 
 -   Le rythme est trop difficile à jouer normalement/être fun.
     -   Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.
@@ -86,4 +86,4 @@ Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la f
 
 Si vous vous reconnaissez dans un des points ci-dessus, alors vous mappez probablement mal.
 
-Si vous voulez vraiment overmapper quelque chose pour des raisons de difficulté / plaisir (l'excuse la plus courante), assurez-vous qu'il n'y ait pas un autre moyen de mapper correctement les notes (par exemple, en utilisant un slider répétitif). Mapper un reoulement en 1/6 avec un slider répétitif de 1/4 ou 1/8 est tout simplement faux. Ils se jouent tous à l'identique, et la seule différence est la façon dont ils sonnent et l'impact sur le score.
+Si vous voulez vraiment overmapper quelque chose pour des raisons de difficulté / plaisir (l'excuse la plus courante), assurez-vous qu'il n'y ait pas un autre moyen de mapper correctement les notes (par exemple, en utilisant un slider répétitif). Mapper un roulement en 1/6 avec un slider répétitif de 1/4 ou 1/8 est tout simplement faux. Ils se jouent tous à l'identique, et la seule différence est la façon dont ils sonnent et l'impact sur le score.
