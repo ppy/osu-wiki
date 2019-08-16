@@ -546,7 +546,7 @@ When translating annotated images, the localised image version must be placed in
 
 #### Screenshots of gameplay
 
-All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice).
+All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build (e.g. Target Practice). You must use the in-game screenshot feature (`F12`).
 
 ##### osu! client settings
 
@@ -556,18 +556,11 @@ You must set these settings before taking a screenshot of the osu! client (setti
 
 -   Select language: `English`
 -   Prefer metadata in original language: `Enabled`
--   Release stream: `Stable`
 -   Resolution: `1280x720`
 -   Fullscreen mode: `Disabled`
--   Screenshot format: `JPEG (web-friendly)`
 -   Parallax: `Disabled`
 -   Menu tips: `Disabled`
 -   Seasonal backgrounds: `Never`
--   Show thumbnails: `Enabled`
--   Background dim: `30%`
--   Progress display: `Top-Right (Pie)`
--   Score meter type: `Hit error`
--   Score meter size: `1x`
 -   Always show key overlay: `Enabled`
 -   Current skin: `Default` (first option)
 
