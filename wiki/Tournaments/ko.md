@@ -161,8 +161,8 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/GTS/IGTS/2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_US] United States |
-| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS/2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
+| [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/GTS/IGTS_2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_US] United States |
+| [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 

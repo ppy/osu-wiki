@@ -52,7 +52,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 - [Livestream](https://www.twitch.tv/igtsosu)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -88,7 +88,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 | **C** | ![][flag_PT] Portugal | ![][flag_SG] Singapore | ![][flag_RU] Russia | ![][flag_ID] Indonesia | ![][flag_CO] Colombia |
 | **D** | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_CR] Costa Rica |
 
------------------------
+---
 
 ## Podium
 
@@ -100,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_NL] Netherlands |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] United States |
 
------------------------
+---
 
 ## Mappools
 
@@ -255,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Xandria - Call Of Destiny (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/635559/#taiko/1408975)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -373,7 +373,7 @@ This competition has come to an end and resulted in the following podium:
 | D | Brazil ![][flag_BR] | 0 | **4** | ![][flag_CL] **Chile** | -win by default- |
 | B | **Ecuador** ![][flag_EC] | **4** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45021176) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
