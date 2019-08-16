@@ -2,7 +2,7 @@
 
 [Vous voulez utiliser Virtualdub au lieu de Sony Vegas ? Cliquez ici !](https://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 
-Vous avez toujours voulu faire une vidéo pour YouTube sur osu!, ne savez pas comment vous y prendre  ? Je vous expliquerai dans cet article le faire.
+Vous avez toujours voulu faire une vidéo pour YouTube sur osu!, mais vous ne savez pas comment vous y prendre ? Je vous expliquerai dans cet article le faire.
 **Notez qu'il y a d'autres moyens de le faire, c'est juste ma façon de faire.**
 [Voyez le résultat de ce tutoriel ici (Regardez en HD et en plein écran !)](http://youtube.com/watch?v=JRGhQh69geI)
 
@@ -35,7 +35,7 @@ Soyez sûr que :
 
 ## Enregistrez votre gameplay
 
-Ouvrez osu! quand Fraps est ouvert. Si tout fonctionne correctement (et si vous n'avez pas désactivé ce paramètre), vous verrez une compteur de FPS jaune dans un coin de l'écran.
+Ouvrez osu! quand Fraps est ouvert. Si tout fonctionne correctement (et si vous n'avez pas désactivé ce paramètre), vous verrez un compteur de FPS jaune dans un coin de l'écran.
 
 ![osu! quand Fraps fonctionne](Recording_2.png "osu! quand Fraps fonctionne")
 
