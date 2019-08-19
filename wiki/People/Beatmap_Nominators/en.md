@@ -10,7 +10,7 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 
 ### Full Beatmap Nominators
 
-In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have significant issues. When mapsets are vetoed and require mediation, a jury of random full Beatmap Nominators is created to reach a consensus. Full Beatmap Nominators may also participate in occassional Beatmap Nominator Application assessment if they are interested in joining the Nomination Assessment Team in the future.
+In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have significant issues. When mapsets are vetoed and require mediation, a jury of random full Beatmap Nominators is created to reach a consensus. Full Beatmap Nominators may also participate in occasional Beatmap Nominator Application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
 Approximately each three months, full Beatmap Nominators have their behavior and nomination activity/quality assessed by the Nomination Assessment Team. If their nominations are frequently reset for notable reasons or their behavior is unacceptable, they may be moved to the probationary Beatmap Nominators.
 
