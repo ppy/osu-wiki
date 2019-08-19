@@ -1,4 +1,4 @@
-# Informations Légales
+# Informations légales
 
 Page listant toutes les articles sur les informations légales d'osu!. Ces articles peuvent aussi être trouvées en bas de chaque page du site internet d'osu!
 
