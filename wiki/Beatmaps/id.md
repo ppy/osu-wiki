@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmaps
 
 *Tidak bingung dengan: [Kesulitan](/wiki/Difficulties).*

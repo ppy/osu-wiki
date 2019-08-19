@@ -18,7 +18,7 @@ type: "main_page"
 ## [FAQ](/wiki/FAQ)
 ## [Tryb wieloosobowy](/wiki/Multi)
 ## [Tryby gry](/wiki/Game_Modes)
-### [osu!standard](/wiki/Game_Modes/osu!)
+### [osu!](/wiki/Game_Modes/osu!)
 ### [osu!taiko](/wiki/Game_Modes/osu!taiko)
 ### [osu!catch](/wiki/Game_Modes/osu!catch)
 ### [osu!mania](/wiki/Game_Modes/osu!mania)
@@ -47,7 +47,7 @@ type: "main_page"
 ### [Modowanie](/wiki/Modding)
 
 ## [Kryteria rankingowe](/wiki/Ranking_Criteria)
-### [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+### [osu!](/wiki/Ranking_Criteria/osu!)
 ### [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
 ### [osu!catch](/wiki/Ranking_Criteria/osu!catch)
 ### [osu!mania](/wiki/Ranking_Criteria/osu!mania)

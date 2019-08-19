@@ -19,8 +19,8 @@
 
 ### Beatmap Nominator removals
 
-- Removed [Garden](https://osu.ppy.sh/users/2849992) - resignation (2019-02-03)
-- Removed [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (2019-02-05)
+- [Garden](https://osu.ppy.sh/users/2849992) - resignation (2019-02-03)
+- [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (2019-02-05)
 
 ### Beatmap Nominator additions
 
@@ -93,3 +93,61 @@ All users listed below were added on 2019-02-16.
 - [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
 - [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
 - [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
+
+## May
+
+- **Quality Assurance Team becomes the Nomination Assessment Team** (2019-05-06)
+- Added [Faputa](https://osu.ppy.sh/users/845733) to the Nomination Assessment Team (2019-05-07)
+- Moved [ghm12](https://osu.ppy.sh/users/2594229) to the osu! Alumni (2019-05-11)
+- Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the osu! Alumni (2019-05-27)
+
+### Beatmap Nominator additions
+
+- [Unpredictable](https://osu.ppy.sh/users/7560872) (2019-05-11)
+- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) (2019-05-11)
+- [bite you death](https://osu.ppy.sh/users/6398464) (2019-05-11)
+- [Nao Tomori](https://osu.ppy.sh/users/5364763) (2019-05-11)
+- [Absolute Zero](https://osu.ppy.sh/users/4847256) (2019-05-13)
+- [Dapuluous](https://osu.ppy.sh/users/8140944) (2019-05-13)
+- [-Mikan](https://osu.ppy.sh/users/9063995) (2019-05-15)
+- [wonjae](https://osu.ppy.sh/users/5032045) (2019-05-17)
+- [Kqrth](https://osu.ppy.sh/users/4115718) (2019-05-22)
+- [Nuvolina](https://osu.ppy.sh/users/10974170) (2019-05-22)
+- [Halfslashed](https://osu.ppy.sh/users/4598899) (2019-05-22)
+- [Mun](https://osu.ppy.sh/users/6699165) (2019-05-29)
+
+### Beatmap Nominator removals
+
+- [Serizawa Haruki](https://osu.ppy.sh/users/6642617) - insufficient proficiency (2019-05-02)
+- [chickenbible](https://osu.ppy.sh/users/2306637) - resignation (2019-05-09)
+- [Arf](https://osu.ppy.sh/users/3716999) - inactivity (2019-05-14)
+- [-GN Junior](https://osu.ppy.sh/users/3901754) - insufficient proficiency (2019-05-18)
+- [Kaitjuh](https://osu.ppy.sh/users/2225327) - resignation (2019-05-19)
+- [DoNotMess](https://osu.ppy.sh/users/1596318) - resignation (2019-05-28)
+
+## June
+
+- Moved [Hinsvar](https://osu.ppy.sh/users/1249323) to the osu! Alumni (2019-06-30)
+
+### Beatmap Nominator additions
+
+- [Dored](https://osu.ppy.sh/users/10284894) (2019-06-06)
+- [Peter](https://osu.ppy.sh/users/8623835) (2019-06-20)
+
+### Beatmap Nominator removals
+
+- [Volta](https://osu.ppy.sh/users/4154071) - resignation (2019-06-01)
+- [Lafayla](https://osu.ppy.sh/users/5312547) - resignation (2019-06-03)
+- [Hobbes2](https://osu.ppy.sh/users/8157492) - resignation (2019-06-05)
+- [Electoz](https://osu.ppy.sh/users/6485263) - resignation (2019-06-06)
+- [Sotarks](https://osu.ppy.sh/users/4452992) - misconduct (2019-06-11)
+- [Doormat](https://osu.ppy.sh/users/3230571) - inactivity (2019-06-22)
+- [Yuii-](https://osu.ppy.sh/users/2935923) - inactivity (2019-06-22)
+- [celerih](https://osu.ppy.sh/users/4696296) - resignation (2019-06-23)
+- [MBomb](https://osu.ppy.sh/users/3071175) - resignation (2019-06-23)
+- [Greenshell](https://osu.ppy.sh/users/8693851) - resignation (2019-06-26)
+- [_Epreus](https://osu.ppy.sh/users/7342798) - resignation (2019-06-29)
+
+## July
+
+- Moved [Spkz](https://osu.ppy.sh/users/2964029) to the osu! Alumni (2019-07-13)

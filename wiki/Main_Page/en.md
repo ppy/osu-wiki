@@ -19,7 +19,7 @@ blurb: "The osu! wiki is a project based on the contributions of people from osu
 ## [FAQ](/wiki/FAQ)
 ## [Multi](/wiki/Multi)
 ## [Game Modes](/wiki/Game_Modes):
-### [osu!standard](/wiki/Game_Modes/osu!)
+### [osu!](/wiki/Game_Modes/osu!)
 ### [osu!taiko](/wiki/Game_Modes/osu!taiko)
 ### [osu!catch](/wiki/Game_Modes/osu!catch)
 ### [osu!mania](/wiki/Game_Modes/osu!mania)
@@ -47,7 +47,7 @@ blurb: "The osu! wiki is a project based on the contributions of people from osu
 ## [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure)
 ## [Modding](/wiki/Modding)
 ## [Ranking Criteria](/wiki/Ranking_Criteria):
-### [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+### [osu!](/wiki/Ranking_Criteria/osu!)
 ### [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
 ### [osu!catch](/wiki/Ranking_Criteria/osu!catch)
 ### [osu!mania](/wiki/Ranking_Criteria/osu!mania)
