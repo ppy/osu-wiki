@@ -8,7 +8,7 @@ date: 2019-08-20 12:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/46/header.jpg)
 
-Made famous in osu! by the giant collab beatmap [**Boogie**](https://osu.ppy.sh/beatmapsets/411435#osu/966177) hosted by [Spaghetti](https://osu.ppy.sh/users/4761930) back in 2016, [**Billain**](https://osu.ppy.sh/beatmaps/artists/46) has been an eminent name among much of the high-end mapping scene ever since.
+Made famous in osu! by the giant collaborative beatmap [**Boogie**](https://osu.ppy.sh/beatmapsets/411435#osu/966177) hosted by [Spaghetti](https://osu.ppy.sh/users/4761930) back in 2016, [**Billain**](https://osu.ppy.sh/beatmaps/artists/46) has been an eminent name among much of the high-end mapping scene ever since.
 
 His unique fusion of atmospheric, neurofunk-inspired sound design interwoven with classic drum & bass style leads produces a uniquely compelling long-form experience that we're sure people are bound to pick up and experiment with.
 
@@ -58,6 +58,6 @@ Since a goodly number of people have recently awakened to the fact that yes, we 
 
 The deck pretty majorly stacked for this one.
 
-Whatever could it mean? Don't lose sleep over it, find out at the end of the month! Was that a hint too? Is this a hint? Who knows!
+Whatever could it mean? Don't lose sleep over it, find out at the end of the month! Was that a hint too? Is this a hint? Maybe I'm being too forceful with all this. Hmm.
 
 —Ephemeral
