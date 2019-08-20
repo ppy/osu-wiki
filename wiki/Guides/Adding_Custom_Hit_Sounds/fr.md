@@ -1,10 +1,10 @@
 # Ajouter des hitsounds personnalisés 
 
-Du sujet: *[Comment ajouter des sons de clics personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (et modifié)
+Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (et modifié)
 
-## Obtenir des hit sounds personnalisés
+## Obtenir des hitsounds personnalisés
 
-Vous aurez dans un premier temps besoin de hit sounds ! Vous pouvez:
+Vous aurez dans un premier temps besoin de hitsounds ! Vous pouvez:
 - En trouver dans la [bibliothèque d'hitsounds personnalisés](../Custom_Hit_Sound_Library/),
 - Les faire vous même
   - Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
