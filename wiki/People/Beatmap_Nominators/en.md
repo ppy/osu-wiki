@@ -18,7 +18,7 @@ Full Beatmap Nominators with below minimum nomination activity will not be place
 
 ### Probationary Beatmap Nominators
 
-Probation is used to monitor new or concerning Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each map, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members. They also cannot nominate hybrid beatmapsets.
+Probation is used to monitor new or concerning Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members. They also cannot nominate hybrid beatmapsets.
 
 New members of the Beatmap Nominators begin with a one month long probation period. If their nominations and behavior are satisfactory, they will be promoted to the full Beatmap Nominators. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
 
