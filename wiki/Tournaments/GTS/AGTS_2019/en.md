@@ -27,16 +27,16 @@ The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) is an advanced wor
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive team banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive team banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive team banner |
 
 ## Organisation
 
 The Advanced Global Taiko Showdown 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position | Member(s) |
+| Position(s) | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Managers | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Map Selectors | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |
 | Referees | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Streamers | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
@@ -44,7 +44,7 @@ The Advanced Global Taiko Showdown 2019 is run by various community members by d
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticians | ![][flag_DE] [IceDynamix](https://osu.ppy.sh/users/8599070), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Leadenginger](https://osu.ppy.sh/users/3799991), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
 | Translators | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_TW] [InfinityAstral](https://osu.ppy.sh/users/9913256), ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Developers | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
 
 ## Links
@@ -107,6 +107,34 @@ The Advanced Global Taiko Showdown 2019 is run by various community members by d
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+
+- NoMod
+  - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
+  - [S.S.H. - BassTest (Ak1o) \[TEST\]](https://osu.ppy.sh/beatmapsets/666764#taiko/1411059)
+  - [Chroma - I (rubies87) \[Oni\]](https://osu.ppy.sh/beatmapsets/883570#taiko/1933318)
+  - [Camellia - \*Feels Seasickness...\* (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1014457#taiko/2126517)
+  - [Sadkey - Further (Airuei Redo) (Nifty) \[Discovery\]](https://osu.ppy.sh/beatmapsets/741764#taiko/1564820)
+- EX
+  - [Masa - Kitsune no Yomeiri (asuasu_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/335722#taiko/743086)
+- Hidden
+  - [Yurry Canon - Suicide Parade (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/902163#taiko/1883597)
+  - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978374)
+- HardRock
+  - [Kiryu - Euphoric Phantasmagoria [komasy] \[Phantasm\]](https://osu.ppy.sh/beatmapsets/654413#taiko/1387168)
+  - [Zekk - Libertas (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2096131)
+- DoubleTime
+  - [HyuN feat. JeeE - Fallen Angel (Mao) \[oko's Oni\]](https://osu.ppy.sh/beatmapsets/891335#taiko/1863216)
+  - [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1945290)
+- FreeMod
+  - [ParagonX9 - Defection (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/582351#taiko/1232379)
+  - [Camellia feat. Nanahira - Bassdrop freaks (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/299747#taiko/672384)
+  - [P\*Light feat.Nanahira - Rainbow (P\*Light Remix) (Y O U T A) \[On the Sky\]](https://osu.ppy.sh/beatmapsets/536720#taiko/1137587)
+- Tiebreaker
+  - **[Various Artists - International OTOMAD's 6 (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424276#taiko/916603)**
+
 ### Group Stage
 
 **[Download the map pack here! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
@@ -152,6 +180,54 @@ The Advanced Global Taiko Showdown 2019 is run by various community members by d
   - [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/177182#taiko/426542)
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
+
+---
+
+## Match Results
+
+### Group Stage
+
+| Group | Saturday, 2019-08-17 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C4 | Mexico ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/54132793) |
+| D6 | United States B ![][flag_US] | 1 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/mp/54133753) |
+| A1 | **Russian Federation B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/mp/54141466) |
+| F5 | **Indonesia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/mp/54142329) |
+| D1 | **Russian Federation A** ![][flag_RU] | **5** | 2 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/mp/54143643) |
+| A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russian Federation B** | [#1](https://osu.ppy.sh/mp/54143711) |
+| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/mp/54146452) |
+| A6 | Philippines ![][flag_PH] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/54146455) |
+| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/mp/54147726) |
+| C1 | **France** ![][flag_FR] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/mp/54149300) |
+| C6 | Mexico ![][flag_MX] | 1 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/mp/54151830) |
+| E1 | **Germany A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/mp/54152083) |
+| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/mp/54153575) |
+| C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/mp/54153517) |
+
+| Group | Sunday, 2019-08-18 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F6 | Indonesia A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/mp/54159212) |
+| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/54160233) |
+| B1 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/mp/54160229) |
+| B3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/mp/54161382) |
+| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/54161391) |
+| F2 | Indonesia B ![][flag_ID] | 0 | **5** | ![][flag_CA] **Canada** | -win by default- |
+| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/54165254) |
+| F4 | **Indonesia A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/mp/54168881) |
+| A3 | **Poland** ![][flag_PL] | **5** | 1 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/mp/54168865) |
+| D5 | Brazil ![][flag_BR] | 2 | **5** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/mp/54168668) |
+| A4 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/mp/54170118) |
+| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/mp/54169919) |
+| E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **South Korea** | -win by default- |
+| E3 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/mp/54171395) |
+| F1 | United Kingdom ![][flag_GB] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/mp/54171441) |
+| A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/54171560) |
+| D3 | United States A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/mp/54171222) |
+| C3 | **Netherlands** ![][flag_NL] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/mp/54173902) |
+| D4 | United States B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/mp/54175298) |
+| E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
+| E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Germany A** | -win by default- |
+| D2 | **Brazil** ![][flag_BR] | **5** | 3 | ![][flag_US] United States A | [#1](https://osu.ppy.sh/mp/54181034) |
 
 ---
 
