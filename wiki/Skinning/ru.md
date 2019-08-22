@@ -17,10 +17,10 @@
 Список элементов скиннига разделен на следующие категории:
 
 - [Изменение интерфейса в скине](/wiki/Skinning/Interface)
-- [Изменение скина для осу!стандарт](/wiki/Skinning/osu!)
-- [Изменение скина для осу!тайко](/wiki/Skinning/osu!taiko)
-- [Изменение скина для осу!кэтч](/wiki/Skinning/osu!catch)
-- [Изменение скина для осу!мания](/wiki/Skinning/osu!mania)
+- [Изменение скина для osu!standard](/wiki/Skinning/osu!)
+- [Изменение скина для osu!taiko](/wiki/Skinning/osu!taiko)
+- [Изменение скина для osu!catch](/wiki/Skinning/osu!catch)
+- [Изменение скина для osu!mania](/wiki/Skinning/osu!mania)
 - [Изменение звуков в скине](/wiki/Skinning/Sounds)
 
 ## Смотрите также
