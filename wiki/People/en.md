@@ -1,5 +1,6 @@
 # People
-<!-- There is no mention of the Staff Log article here, despite this being an index article above it -->
+
+*For a list of promotions and retirements, see: [Staff Log](/wiki/People/Staff_Log)*
 
 The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized with their forum name colours, in-game chat colours, profile titles, and/or profile badges.
 
