@@ -12,6 +12,8 @@ Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every 
 
 I want to give you all a big "Thank You" for sticking around and voting week after week. This post marks Project Loved's [b]50th Captain's Pick[/b] since its inception, and it's truly not possible to keep afloat without the consistent support from the community. Thank you for being a part of it and making the category as successful as it's been!
 
+We also have a new video editor (hopefully for more than this round)! Check out their coverage of this week's osu!standard picks below!
+
 In case you don't read to the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 
 ### Navigation
