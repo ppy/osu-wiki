@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of August 25th"
-date: 2019-08-26 18:00:00 +0000
+date: 2019-08-26 18:30:00 +0000
 ---
 
 Hey kids, have you heard the news? [Project Loved](https://osu.ppy.sh/community/forums/120) just dropped [i]Now That's What I Call Loved[/i] Vol. 50.
@@ -10,7 +10,7 @@ Hey kids, have you heard the news? [Project Loved](https://osu.ppy.sh/community/
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
-I want to give you all a big "Thank You" for sticking around and voting week after week. This post marks Project Loved's [b]50th Captain's Pick[/b] since its inception, and it's truly not possible to keep afloat without the consistent support from the community. Thank you for being a part of it and making the category as successful as it's been!
+I want to give you all a big "Thank You" for sticking around and voting week after week. This post marks Project Loved's **50th Captain's Pick** since its inception, and it's truly not possible to keep afloat without the consistent support from the community. Thank you for being a part of it and making the category as successful as it's been!
 
 We also have a new video editor (hopefully for more than this round)! Check out their coverage of this week's osu!standard picks below!
 
@@ -37,7 +37,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 210 BPM, 5:22 | 7.43★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-1025. Very few people have the patience to count that high, but that's okay! Those who know this map will recognize this number. Not only in reference to the difficulty name, but because of one particular stream in this map. That's right, this map contains a 1025 note deathstream with zero breaks. Originally submitted back in October 2018, -Tynamo's *WE LUV LAMA* gained popularity extremely quickly after top players began to conquer this deathstream, including the likes of [Informous](https://i.imgur.com/TU1Xiey.jpg) and [Gayzmcgee](https://www.youtube.com/watch?v=WlSCV_LTpLY). Soon after, this map became one of the most well known stamina training maps for any aspiring player looking to test their endurance.
+Very few people have the patience to count that high, but that's okay! Those who know this map will recognize this number. Not only in reference to the difficulty name, but because of one particular stream in this map. That's right, this map contains a 1025 note deathstream with zero breaks. Originally submitted back in October 2018, -Tynamo's *WE LUV LAMA* gained popularity extremely quickly after top players began to conquer this deathstream, including the likes of [Informous](https://i.imgur.com/TU1Xiey.jpg) and [Gayzmcgee](https://www.youtube.com/watch?v=WlSCV_LTpLY). Soon after, this map became one of the most well known stamina training maps for any aspiring player looking to test their endurance.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/2-asphyxia.jpg)](https://osu.ppy.sh/community/forums/topics/953243)
 
