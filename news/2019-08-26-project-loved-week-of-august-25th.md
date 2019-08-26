@@ -4,7 +4,7 @@ title: "Project Loved: Week of August 25th"
 date: 2019-08-26 18:30:00 +0000
 ---
 
-Hey kids, have you heard the news? [Project Loved](https://osu.ppy.sh/community/forums/120) just dropped [i]Now That's What I Call Loved[/i] Vol. 50.
+Hey kids, have you heard the news? [Project Loved](https://osu.ppy.sh/community/forums/120) just dropped *Now That's What I Call Loved* Vol. 50.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
