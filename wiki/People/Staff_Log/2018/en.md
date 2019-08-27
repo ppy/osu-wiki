@@ -19,7 +19,7 @@
 
 ### Beatmap Nominator additions
 
-All users listed below were added on 2017-12-11.
+All users listed below were added on 2018-01-29
 
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533)
 - [Noffy](https://osu.ppy.sh/users/1541323)
