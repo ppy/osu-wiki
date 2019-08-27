@@ -92,12 +92,12 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
 | ![][flag_US] [DJ Lucky](https://osu.ppy.sh/users/5226970) |  |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | <!-- not sure --> |
+| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French |
 | ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715) | Spanish |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) | <!-- not sure --> |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) |  |
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | German |
@@ -107,7 +107,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | German |
-| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | <!-- not sure --> |
+| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
@@ -118,7 +118,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italian |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | <!-- not sure --> |
+| ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | Polish, some Russian |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | French |
 | ![][flag_NZ] [Rizen](https://osu.ppy.sh/users/3056732) |  |
@@ -129,7 +129,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |  |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
-| ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | <!-- not sure --> |
+| ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portuguese |
 | ![][flag_US] [Ultima Fox](https://osu.ppy.sh/users/3198109) |  |
 | ![][flag_ID] [Uta](https://osu.ppy.sh/users/9439796) | Indonesian |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polish |
@@ -161,7 +161,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |  |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
-| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | <!-- not sure --> |
+| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | Russian |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
@@ -187,11 +187,11 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AU] [greenhue](https://osu.ppy.sh/users/4967662) | <!-- not sure --> |
-| ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | <!-- not sure --> |
+| ![][flag_AU] [greenhue](https://osu.ppy.sh/users/4967662) |  |
+| ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | Estonian, Russian |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
-| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | <!-- not sure --> |
+| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
 
 #### osu!taiko
@@ -199,7 +199,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | <!-- not sure --> |
-| ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718) | <!-- not sure --> |
 
 #### osu!catch
 
