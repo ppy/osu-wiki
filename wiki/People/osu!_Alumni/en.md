@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square.
@@ -83,6 +87,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Chat Moderator |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | GMT and QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
