@@ -179,7 +179,7 @@ All users listed below were added on 2019-02-16.
 - [greenhue](https://osu.ppy.sh/users/4967662) (2019-08-17)
 - [Teky](https://osu.ppy.sh/users/10520912) (2019-08-17)
 - [chickenbible](https://osu.ppy.sh/users/2306637) (2019-08-17)
-- [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-8-25)
+- [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-08-25)
 
 ### Beatmap Nominator Removals
 
