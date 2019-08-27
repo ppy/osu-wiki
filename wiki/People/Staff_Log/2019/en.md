@@ -168,7 +168,7 @@ All users listed below were added on 2019-02-16.
 
 ## August
 
-- Added [Pachiru](https://osu.ppy.sh/u/2850983) to the Global Moderation Team (2019-08-15)
+- Added [Pachiru](https://osu.ppy.sh/users/2850983) to the Global Moderation Team (2019-08-15)
 - Added [Nepuri](https://osu.ppy.sh/users/6637817) to the Nomination Assessment Team (2019-08-16)
 - Added [Noffy](https://osu.ppy.sh/users/1541323) to the Nomination Assessment Team (2019-08-25)
 
