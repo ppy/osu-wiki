@@ -168,12 +168,23 @@ All users listed below were added on 2019-02-16.
 
 ## August
 
+- Added [Pachiru](https://osu.ppy.sh/users/2850983) to the Global Moderation Team (2019-08-15)
+- Added [Nepuri](https://osu.ppy.sh/users/6637817) to the Nomination Assessment Team (2019-08-16)
+- Added [Noffy](https://osu.ppy.sh/users/1541323) to the Nomination Assessment Team (2019-08-25)
+
 ### Beatmap Nominator Additions
 
 - [Namki](https://osu.ppy.sh/users/5248582) (2019-08-01)
+- [tailsdk](https://osu.ppy.sh/users/6751666) (2019-08-17)
+- [greenhue](https://osu.ppy.sh/users/4967662) (2019-08-17)
+- [Teky](https://osu.ppy.sh/users/10520912) (2019-08-17)
+- [chickenbible](https://osu.ppy.sh/users/2306637) (2019-08-17)
+- [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-08-25)
 
 ### Beatmap Nominator Removals
 
 - [Nokashi](https://osu.ppy.sh/users/5431196) - inactivity (2019-08-05)
 - [-Luminate](https://osu.ppy.sh/users/4778689) - resignation (2019-08-07)
 - [Agatsu](https://osu.ppy.sh/users/5579871) - insufficient proficiency (2019-08-11)
+- [Dellvangel](https://osu.ppy.sh/users/5186244) - inactivity (2019-08-18)
+- [UndeadCapulet](https://osu.ppy.sh/users/2523533) - resignation (2019-08-26)
