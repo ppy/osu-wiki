@@ -83,8 +83,8 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 
 #### Rules
 
-- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 - **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
+- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 
 #### Guidelines
 
