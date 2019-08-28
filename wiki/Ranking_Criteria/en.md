@@ -114,7 +114,7 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk. Other special characters are to be romanised or dropped on case-by-case basis.
 - **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
 - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
-- **If a series applicable to be used as a source is clustered into multiple sub-series, the most precise label must be prioritised.** If a song has multiple applicable sources however, the main series/franchise may be used as a source.
+**If a series applicable as a source contains sub-series, the most precise label must be used as the source.** If a song has multiple applicable sub-series, the main series/franchise may be used instead.
 
 #### Romanisation
 
@@ -197,7 +197,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **A beatmapset's audio file must use the `.mp3` file format and have a constant bit rate no greater than 192kbps.**
+- **A beatmapset's audio file must use the `.mp3` file format and have an average bit rate no greater than 192kbps.**
 - **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
@@ -205,7 +205,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
 - **Active hit sounds must use the `.wav` or `.ogg` file formats.** `.ogg` files must use a bit rate of 128kbps or higher. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. 
-- **Applause files and other passive hit sounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison. 
+- **Applause files and other passive hit sounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison.
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
