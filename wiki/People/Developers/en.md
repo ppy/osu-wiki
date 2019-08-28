@@ -23,6 +23,10 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag___] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 
+### Designers
+
+- ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
+
 ### Community Managers
 
 - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
