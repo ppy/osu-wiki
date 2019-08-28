@@ -198,7 +198,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | <!-- not sure --> |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 
 #### osu!catch
 
@@ -206,7 +206,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | :-- | :-- |
 | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
-| ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) | <!-- not sure --> |
+| ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 
 #### osu!mania
 
