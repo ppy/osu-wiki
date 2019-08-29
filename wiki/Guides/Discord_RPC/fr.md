@@ -2,7 +2,7 @@
 
 Depuis le 31-10-2017, Discord RPC est stable !
 
-## Qu'est-ce que cela signifie?
+## Qu'est-ce que cela signifie ?
 
 Cela signifie que vous pouvez maintenant annoncer et rejoindre des parties multijoueurs d'osu! depuis vos serveurs Discord, mais aussi voir les beatmaps auxquelles vos amis jouent, et même leur demander de rejoindre leur parties ! Enfin, vous pouvez aussi regarder les joueurs en pleine partie.
 
