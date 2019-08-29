@@ -6,7 +6,7 @@ Depuis le 31-10-2017, Discord RPC est stable !
 
 Cela signifie que vous pouvez maintenant annoncer et rejoindre des parties multijoueurs d'osu! depuis vos serveurs Discord, mais aussi voir les beatmaps auxquelles vos amis jouent, et même leur demander de rejoindre leur parties ! Enfin, vous pouvez aussi regarder les joueurs en pleine partie.
 
-## Comment ça marche?
+## Comment ça marche ?
 
 -   **Vérifiez bien qu'osu! est à jour en démarrant le jeu.** Discord RPC ne fonctionne qu'à partir de la version spéciale Halloween d'osu! et n'importe quelle version qui s'ensuit - ça ne fonctionnera **pas** si votre jeu n'est pas à jour.
 -   Assurez-vous que Discord détecte bien osu! lorsque ce dernier est démarré -  il est généralement détecté automatiquement, si ce n'est pas le cas ajoutez le jeu sur Discord dans `Paramètres` -> `Activité de jeu`.
