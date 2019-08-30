@@ -19,7 +19,8 @@ Si vous avez un salon multijoueur avec mot de passe, les personnes utilisant vot
 
 ## Rejoindre un salon
 
-Vous pouvez cliquer sur le profile Discord de n'importe qui jouant à osu! afin de voir ce qu'il fait. Si vous êtes amis avec cette personne sur Discord, vous pouvez demander à rejoindre son salon multijoueur grâce au bouton `Demander à rejoindre` !
+Vous pouvez cliquer sur le profil Discord de n'importe qui jouant à osu! afin de voir ce qu'il fait. Si vous êtes amis avec cette personne sur Discord, vous pouvez demander à rejoindre son salon multijoueur grâce au bouton `Demander à rejoindre` !
+
 
 ![](img/join.jpg)
 
