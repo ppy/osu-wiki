@@ -1,0 +1,69 @@
+Aspire:
+  description: null
+  title: Aspire Mapping Contests
+Beatmap_Spotlights:
+  description: Showcases of recent high-quality and innovative beatmaps
+  title: Beatmap Spotlights
+Coffee_Hour:
+  description: Talk shows about all things osu!, hosted by HappyStick
+  title: Coffee Hour
+Community_Choice:
+  description: null
+  title: Community Choice
+Community_Contributors:
+  description: Recognition of the community members who help make osu! better
+  title: Community Contributors
+Community_Mentorship_Program:
+  description: null
+  title: Community Mentorship Program
+Conventions:
+  description: Information about osu!'s presence at real-world events
+  title: Conventions and Meetups
+Fanart_Contests:
+  description: null
+  title: Fanart Contests
+Featured_Artists:
+  description: New Featured Artist and Mappers' Guild content
+  title: Featured Artists
+Mapping_Olympiad:
+  description: null
+  title: Mapping Olympiad
+Mapping_With_Rewards:
+  description: null
+  title: Mapping With Rewards
+Monthly_Beatmapping_Contests:
+  description: null
+  title: Monthly Beatmapping Contests
+osu!idol:
+  description: null
+  title: osu!idol
+osu!weekly:
+  description: Weekly updates about what's going on in the osu! community
+  title: osu!weekly
+Performance_Metrics:
+  description: Updates to the star rating and performance points systems
+  title: Performance Metrics
+Project_Loved:
+  description: Releases of new beatmaps up for voting in Project Loved
+  title: Project Loved
+QAT_Gazette:
+  description: Assessment of the mapping ecosystem from a top-down perspective
+  title: QAT Gazette
+Ranking_Charts:
+  description: null
+  title: Ranking Charts
+Ranking_Process_Changes:
+  description: null
+  title: Ranking Process Changes
+Scorewatch:
+  description: Coverage of the crazy scores set by osu!'s most skilled players
+  title: Scorewatch
+Skin_Showcases:
+  description: null
+  title: Skin Showcases
+Storyboard_Showcases:
+  description: null
+  title: Storyboard Showcases
+World_Cups:
+  description: Announcements and recap regarding the official World Cups for each game mode
+  title: World Cups
