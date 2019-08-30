@@ -8,7 +8,7 @@ Dans le cas où les discussions sont infructueuses et n'amènent à rien, et que
 
 ## Appliquer un veto sur une Beatmap
 
-En tant que nominateur de beatmap, vous pouvez exercer votre droit de veto dans l'un des deux cas:
+En tant que nominateur de beatmap, vous pouvez exercer votre droit de veto dans l'un des deux cas suivants:
 
 * Dans le cas où la beatmap est nominée, retirer ses nominations.
 * Dans le cas où la beatmap est qualifiée, la disqualifier.
