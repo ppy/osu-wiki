@@ -1,68 +1,39 @@
 ---
-type: "main_page"
+layout: "main_page"
 blurb: "The osu! wiki is a project based on the contributions of people from osu!. The end goal is that it replaces the old FAQ section, and allows it to become a much more exhaustive resource. However, to make this possible, we need help from everyone willing to contribute!<br>You can use your osu! account to start contributing!"
 ---
-# Main Page
-
+"""
 # Getting Started
-## [Welcome](/wiki/Welcome)
-## [Registration](/wiki/Registration)
-## [Installation](/wiki/Installation)
-## [Game Interface](/wiki/Interface)
-## [Game Options](/wiki/Options)
-## [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)
-## [Sitemap](/wiki/Sitemap)
-## [Guides](/wiki/Guides)
-## [Help Center](/wiki/Help_Center)
 
+[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Center](/wiki/Help_Center)
+"""
+
+"""
 # Gameplay
-## [FAQ](/wiki/FAQ)
-## [Multi](/wiki/Multi)
-## [Game Modes](/wiki/Game_Modes):
-### [osu!](/wiki/Game_Modes/osu!)
-### [osu!taiko](/wiki/Game_Modes/osu!taiko)
-### [osu!catch](/wiki/Game_Modes/osu!catch)
-### [osu!mania](/wiki/Game_Modes/osu!mania)
 
+[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Game Modes](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+"""
+
+"""
 # [Beatmap Editor](/wiki/Beatmap_Editor)
-## Sections:
-### [Compose](/wiki/Beatmap_Editor/Compose)
-### [Design](/wiki/Beatmap_Editor/Design)
-### [Timing](/wiki/Beatmap_Editor/Timing)
-### [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
 
-## Components:
-### [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)
-### [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)
+Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • Components: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficulties](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Mapping Techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+"""
 
-## [Beatmapping](/wiki/Beatmapping)
-## [Difficulties](/wiki/Difficulties)
-## [Hit Objects](/wiki/Hit_Objects)
-## [Mapping Techniques](/wiki/Mapping_Techniques)
-## [Storyboarding](/wiki/Storyboarding)
-
+"""
 # Online Editing and Ranking
-## [Forums](/wiki/Forums)
-## [Submission](/wiki/Submission)
-## [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure)
-## [Modding](/wiki/Modding)
-## [Ranking Criteria](/wiki/Ranking_Criteria):
-### [osu!](/wiki/Ranking_Criteria/osu!)
-### [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-### [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-### [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
+[Forums](/wiki/Forums) • [Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) •[osu!mania](/wiki/Ranking_Criteria/osu!mania))
+"""
+
+"""
 # World of osu!
-## [Glossary](/wiki/Glossary)
-## [Tournaments](/wiki/Tournaments)
-## [Skinning](/wiki/Skinning)
-## [Projects](/wiki/Projects)
 
+[Glossary](/wiki/Glossary) • [Tournaments](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projects](/wiki/Projects)
+"""
+
+"""
 # People
-## [The Team](/wiki/The_Team)
-## [Global Moderation Team](/wiki/Global_Moderation_Team)
-## [Language Moderators](/wiki/Language_Moderators)
-## [Quality Assurance Team](/wiki/Quality_Assurance_Team)
-## [Beatmap Nominators](/wiki/Beatmap_Nominators)
-## [osu! Alumni](/wiki/osu!_Alumni)
-## [Support Team](/wiki/Support_Team)
+
+[The Team](/wiki/The_Team) • [Global Moderation Team](/wiki/Global_Moderation_Team) • [Language Moderators](/wiki/Language_Moderators) • [Quality Assurance Team](/wiki/Quality_Assurance_Team) • [Beatmap Nominators](/wiki/Beatmap_Nominators) • [osu! Alumni](/wiki/osu!_Alumni) • [Support Team](/wiki/Support_Team)
+"""
