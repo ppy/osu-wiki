@@ -2,7 +2,7 @@
 
 **Project Loved** is the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps#loved) category. It is run primarily by the [Project Loved Team](/wiki/People/Project_Loved_Team).
 
-## Moving a beatmap to Loved
+## Moving a Beatmap to Loved
 
 Beatmaps are moved to Loved by a nomination and voting process.
 
