@@ -11,15 +11,15 @@ Cette page vous dira approximativement comment installer osu! sur votre appareil
 
 ## Installer osu!
 
-1. Aller sur la [page de téléchargement](https://osu.ppy.sh/home/download) et téléchargez l'installateur.
-2. Localiser et exécuter le programme d'installation (normalement présent dans votre dossier "Téléchargement").
+1. Allez sur la [page de téléchargement](https://osu.ppy.sh/home/download) et téléchargez l'installateur.
+2. Localisez et exécutez le programme d'installation (normalement présent dans votre dossier "Téléchargement").
 3. Pendant que le programme d’installation est en cours d’exécution, une période de dix secondes vous permet de sélectionner la localisation de l’installation.
     - Si vous voulez le changer, cliquez sur le texte sous le mot "Salut!" et sélectionnez l'emplacement d'installation.
     - osu! sera installé à cet endroit lorsque le décompte est terminé.
 4. Lorsque l'installation est terminée, osu! va démarrer juste après. osu!direct sera utilisé pour télécharger quelques beatmaps de départ pour vous.
 5. osu! vous demandera de vous connecter ou de vous inscrire.
     - Si vous avez déjà un compte, connectez vous.
-    - Si vous devez vous inscrire, voir [Enregistrement](/wiki/Registration), puis connectez-vous.
+    - Si vous devez vous inscrire, référez-vous à [Enregistrement](/wiki/Registration), puis connectez-vous.
 
 ## Ajouter des beatmapsets
 
@@ -29,20 +29,20 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 
 ### Site Internet
 
-1. Aller à la page [beatmaps](https://osu.ppy.sh/beatmapsets) et  connecter vous au site si cela n'a pas été encore fait.
-2. Trouvez une chanson que vous aimez jouer.
+1. Allez à la page [beatmaps](https://osu.ppy.sh/beatmapsets) et connectez vous au site si cela n'a pas encore été fait.
+2. Trouvez une chanson que vous aimeriez.
 3. Cliquez sur l'icône de téléchargement pour enregistrer le beatmapset sur votre ordinateur.
-4. Recherchez et ouvrez le fichier beatmapset, il possède l'extension `.osz`.
-    - Vous pouvez également placer le fichier beatmapset dans le dossier `Songs` du dossier osu!.
-5. osu! se chargera automatiquement du reste et chargera le beatmapset.
+4. Recherchez et ouvrez le fichier beatmapset , il possède l'extension `.osz` (normalement présent dans votre dossier "Téléchargement").
+    - Vous pouvez également placer le fichier beatmapset dans le dossier `Songs` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'avez pas changez le dossier au début de l'installation).
+5. osu! se chargera automatiquement du reste et chargera la beatmap.
     - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Solo_mode) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
 
 ### osu!direct
 
 *Remarque: vous devez disposer du tag "osu!supporter" et d'une connexion internet pour pouvoir utiliser osu!direct.*
 
-1. Ouvrez osu!, si vous n'aviez pas déjà fait.
-2. Trouvez une chanson que vous aimez jouer.
+1. Ouvrez osu!, si vous ne l'aviez pas déjà fait.
+2. Trouvez une chanson que vous aimeriez.
 3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Télécharger` à droite pour le télécharger.
     - Si vous ne souhaitez pas télécharger la vidéo, cliquez sur `DL NoVideo` en jeu.
 4. Quand osu! a fini le téléchargeant du beatmapset, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Song_Selection).
@@ -58,9 +58,9 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
     - Si le skin utilise l'extension `.osk` :
         1. Ouvrez-le ou faites-le glisser dans osu!.
         2. osu! traitera le skin et le sélectionnera  automatiquement pour vous.
-    - Si le skin est compresser (en utilisant l'extension `.7z`, `.rar`, `.zip`, etc.):
-        1. L'extraire à l'aide d'un logiciel spécifique.
-        2. Déplacez le dossier du skin dans le dossier `Skins` du dossier osu!.
-        3. Si osu! est ouvert, vous devrez peut-être le redémarrer avant que le skin puisse être utilisée.
-        4. Dans osu!, allez à [Options](/wiki/Options) et rechercher `Skin`.
+    - Si le skin est compressé (en utilisant l'extension `.7z`, `.rar`, `.zip`, etc.):
+        1. L'extraire à l'aide d'un logiciel spécifique (comme 7-Zip par exemple).
+        2. Déplacez le dossier du skin dans le dossier `Skins` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'avez pas changez le dossier au début de l'installation).
+        3. Si osu! est ouvert, vous devrez peut-être le redémarrer avant que le skin puisse être utilisé.
+        4. Dans osu!, allez à [Options](/wiki/Options) et recherchez `Skin`.
         5. Faites défiler jusqu'à l'option `Skin actuel:` et sélectionnez le skin que vous avez téléchargé.
