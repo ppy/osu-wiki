@@ -57,7 +57,7 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 3. Selon la façon dont le skinner a emballé son skin, vous devrez peut-être faire différentes choses.
     - Si le skin utilise l'extension `.osk` :
         1. Ouvrez-le ou faites-le glisser dans osu!.
-        2. osu! traitera le skin et le sélectionnera  automatiquement pour vous.
+        2. osu! traitera le skin et le sélectionnera automatiquement pour vous.
     - Si le skin est compressé (en utilisant l'extension `.7z`, `.rar`, `.zip`, etc.):
         1. L'extraire à l'aide d'un logiciel spécifique (comme 7-Zip par exemple).
         2. Déplacez le dossier du skin dans le dossier `Skins` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'avez pas changez le dossier au début de l'installation).
