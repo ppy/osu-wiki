@@ -1,0 +1,32 @@
+# Skinning
+
+Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de dériver des éléments de skinning originaux pour créer les leurs! Les skins peuvent varier d’être amusants, thématiques, PRO ou presque impossibles à jouer.
+
+## Skinning sets
+
+*Page principale: [Liste de skins](/wiki/Ranking_Criteria/Skin_Set_List)*
+
+**Pour les beatmaps seulement,** Si votre skin beatmap contient un seul élément parmi les ensembles répertoriés dans les critères de classement, il doit contenir tous les autres éléments dudit ensemble. Cela ne s'applique qu'aux skins beatmap, mais d'autres skinners voudront peut-être aussi prendre en compte ces listes.
+
+## Comment puis-je faire un skin
+
+*Page principale: [Tutoriel de skinning](/wiki/Skinning/Tutorial)*
+
+## Listes d'éléments de skins
+
+La liste des éléments de skinning est divisée en ces catégories:
+
+- [Skinning Interface](/wiki/Skinning/Interface)
+- [Skinning osu!standard](/wiki/Skinning/osu!)
+- [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
+- [Skinning osu!catch](/wiki/Skinning/osu!catch)
+- [Skinning osu!mania](/wiki/Skinning/osu!mania)
+- [Skinning Sons](/wiki/Skinning/Sounds)
+
+## Voir également
+
+- [skin.ini](/wiki/skin.ini)
+- [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
+- [Compendium](/community/forums/topics/686664) - une liste des skins terminées
+- [FAQ Skinning](/wiki/Skinning/FAQ)
+- [Guides et fils importants](/wiki/Skinning/Guides_and_Important_Threads)
