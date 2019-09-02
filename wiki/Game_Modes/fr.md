@@ -4,7 +4,7 @@
 
 *Page principale: [osu!standard](/wiki/osu!standard)*
 
-Basé sur [*Osu! Tatakae! Ouendan*](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tapez, glissez et tournez au rythme.
+Basé sur [*Osu! Tatakae! Ouendan*](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tapez, glissez et tournez au rythme.
 
 ## ![Icône d'osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko
 
