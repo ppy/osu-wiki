@@ -180,6 +180,7 @@ All users listed below were added on 2019-02-16.
 - [Teky](https://osu.ppy.sh/users/10520912) (2019-08-17)
 - [chickenbible](https://osu.ppy.sh/users/2306637) (2019-08-17)
 - [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-08-25)
+- [Sonnyc](https://osu.ppy.sh/users/11771) (2019-08-27)
 
 ### Beatmap Nominator Removals
 
@@ -188,3 +189,4 @@ All users listed below were added on 2019-02-16.
 - [Agatsu](https://osu.ppy.sh/users/5579871) - insufficient proficiency (2019-08-11)
 - [Dellvangel](https://osu.ppy.sh/users/5186244) - inactivity (2019-08-18)
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533) - resignation (2019-08-26)
+- [Kqrth](https://osu.ppy.sh/users/4115718) - insufficient proficiency (2019-08-27)
