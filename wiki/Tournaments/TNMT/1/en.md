@@ -11,7 +11,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 | Registration Phase | 2019-07-13/2019-08-03 |
 | Qualifiers Showcase | 2019-08-10 (12:00 UTC+0)  |
 | Qualifiers | 2019-08-17/2019-08-18 |
-| Live Drawings | 2019-08-18 (12:00 UTC+0)  |
+| Live Drawings | 2019-08-19 (14:00 UTC+0)  |
 | Group Stage | 2019-08-24/2019-08-25 |
 | Round of 16 | 2019-08-31/2019-09-01 |
 | Quarterfinals | 2019-09-07/2019-09-08 |
@@ -55,7 +55,109 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
   - [kj415j45](https://okinawa.loli.land/live)
   - [Rasis](https://live.bilibili.com/5333)
   - [Sinaeb](https://www.twitch.tv/sinbae_)
-  - [Logan636](https://www.twitch.tv/logan636_osu)
+  - [Logan636](https://www.twitch.tv/logan_636)
+
+## Mappools
+
+### Quarterfinals
+
+- FreeMod
+  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw \[Stage 3: Release\]](https://osu.ppy.sh/b/1546412)
+  - [OISHII - PIZZA PLAZA \[Perfect Cuisine!\]](https://osu.ppy.sh/b/2100826)
+  - [DJ Sharpnel - Tactical Railroad Gamma \[Original\]](https://osu.ppy.sh/b/2084421)
+  - [Kotori - Nanamori (youth Remix) \[Insane\]](https://osu.ppy.sh/b/1964176)
+  - [ARForest - Metheus \[Normal\]](https://osu.ppy.sh/b/1159573)
+  - [Seiryu - AO-INFINITY \[White Hard\]](https://osu.ppy.sh/b/1951977)
+  - [Puru - Grimheart \[Lonely\]](https://osu.ppy.sh/b/1488395)
+  - [Rotten Blood - duvet \[Iwakura\]](https://osu.ppy.sh/b/1752042)
+  - [Tennyson - XYZ \[Enlightenment\]](https://osu.ppy.sh/b/1443574)
+  - [Middleisland - Zap \[Electric SV\]](https://osu.ppy.sh/b/1909358)
+  - [Frums - Wavetapper \[Stage 1: Memory Factory\]](https://osu.ppy.sh/b/1811863)
+- Tiebreaker
+  - **[Camellia - farewell to today \[Another\]](https://osu.ppy.sh/b/1769258)**
+
+### Round of 16
+
+- FreeMod
+  - [Primastella - Koigokoro \[Kokoro\]](https://osu.ppy.sh/b/2110798)
+  - [Ani - Ververg (feat. B) \[Usagi's Lv.12,1\]](https://osu.ppy.sh/b/708608)
+  - [DJ Siesta - Another Day \[riu's Serenity (edited)\]](https://osu.ppy.sh/b/2147167)
+  - [antiPLUR - Runengon \[Hard\]](https://osu.ppy.sh/b/2034201)
+  - [Umeboshi Chazuke - Bison Charge \[MEGA's Hard\]](https://osu.ppy.sh/b/1755410)
+  - [w_tre - Shannon's Theorem \[Medium\]](https://osu.ppy.sh/b/1519707)
+  - [RevenG - Sakura \[1:37:00 AMCherry Blossom [NO SLOWJAMS]\]](https://osu.ppy.sh/b/2116953)
+  - [aaaa - carnation \[fascination\]](https://osu.ppy.sh/b/1392215)
+  - [SOUND HOLIC Vs. VENUS feat. Nana Takahashi - Musou \[EXHAUST\]](https://osu.ppy.sh/b/987971)
+  - [Post Malone - Money Made Me Do It \[yuh\]](https://osu.ppy.sh/b/2104840)
+  - [Sakuraburst - Serotonin \[Transmission Problem [SV]\]](https://osu.ppy.sh/b/1382422)
+- Tiebreaker
+  - **[Ryo Arue - Forza \[Sophistication (edit)\]](https://osu.ppy.sh/b/2148054)**
+
+### Group Stage
+
+- FreeMod
+  - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. \[Chill\]](https://osu.ppy.sh/b/2110884)
+  - [fripSide - black bullet (TV Size) \[Normal Curse\]](https://osu.ppy.sh/b/2069199)
+  - [M2U - Quo Vadis \[Hard\]](https://osu.ppy.sh/b/2018240)
+  - [Artisan - Summon \[Voyage\]](https://osu.ppy.sh/b/2066947)
+  - [Kamex - Collapse Remix \[Hard\]](https://osu.ppy.sh/b/1796039)
+  - [The Flashbulb - Black Lawn Finale \[Hayden's Lv.12 NSV\]](https://osu.ppy.sh/b/1253922)
+  - [sasakure.UK - Merry Christmas, Mr.Lawrence \[Hard\]](https://osu.ppy.sh/b/2009260)
+  - [void - Valedict \[Hard\]](https://osu.ppy.sh/b/1306452)
+  - [rainlord. - i wonder. \[hard.\]](https://osu.ppy.sh/b/2087790)
+- Tiebreaker
+  - **[sakuzyo - After Altale \[End of a Journey\]](https://osu.ppy.sh/b/1220666)**
+
+### Qualifiers
+
+- [Mr. Fantastic - Hyperactive \[Stage 1: Subtle\]](https://osu.ppy.sh/b/2130420)
+- [Tennyson - Pancake Feet \[Stage 2: Quick Steps\]](https://osu.ppy.sh/b/2130186)
+- [Eve - As You Like It \[Stage 3: Regulation\]](https://osu.ppy.sh/b/2130198)
+- [Silentroom - NULCTRL \[Stage 4: THE CLUB\]](https://osu.ppy.sh/b/2130237)
+
+## Match Results
+
+### Round of 16
+
+| Player | Score | Score | Player |
+| --: | :-: | :-: | :-- |
+| Maou | 0 | **5** | **NestleiFan** |
+| **Davvyforte** | **5** | 0 | NutAndGo |
+| **Yukina-** | **5** | 4 | Antalf |
+| **Halo-** | **5** | 0 | vincent4399 |
+| edisonhello | 2 | **5** | **Horou** |
+| BITONIC | 0 | **5** | **Ladylag** |
+| HD_AdreNaline | 1 | **5** | **palmEuEi** |
+| EDTA233 | 2 | **5** | **mewmew** |
+
+### Group Stage
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Group A | Score |  | Group B | Score |  | Group C | Score |  | Group D | Score |
+| **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
+| **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
+| TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
+| - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
+| **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
+| **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
+| Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
+| -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
+
+### Qualifiers
+
+| Players |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Davvyforte | palmEuEi | Halo- | Ladylag |
+| mewmew | HD_AdreNaline | NestleiFan | Maou |
+| Yukina- | Loily | vincent4399 | GodYeeKung |
+| TNKSTC | Horou | Antalf | BITONIC |
+| edisonhello | ReanimateS | Blujae | OumiOVO |
+| Yozomi | EDTA233 | [xiao ba] | -[ GuiboxFR ]- |
+| xyxyxy091 | DrugManager | XxTheJKxX | NutAndGo |
+| Kasumii-sama | - Blue Bell - | JunFish | Katsumi |
 
 ## Ruleset
 
