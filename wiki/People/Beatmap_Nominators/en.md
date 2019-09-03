@@ -130,6 +130,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portuguese |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
 | ![][flag_US] [Ultima Fox](https://osu.ppy.sh/users/3198109) |  |
 | ![][flag_ID] [Uta](https://osu.ppy.sh/users/9439796) | Indonesian |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polish |
@@ -169,16 +170,18 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_ID] [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359) |  |
+| ![][flag_ID] [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
 | ![][flag_US] [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
-| ![][flag_MY] [Critical\_Star](https://osu.ppy.sh/users/3793196) | Chinese |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Chinese |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_DZ] [KeppSado](https://osu.ppy.sh/users/11085809) |  |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101) | Indonesian |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ### Probationary Nominators
@@ -193,7 +196,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
 
 #### osu!taiko
 
@@ -214,8 +216,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
-| ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
