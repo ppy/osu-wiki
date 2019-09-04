@@ -190,3 +190,8 @@ All users listed below were added on 2019-02-16.
 - [Dellvangel](https://osu.ppy.sh/users/5186244) - inactivity (2019-08-18)
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533) - resignation (2019-08-26)
 - [Kqrth](https://osu.ppy.sh/users/4115718) - insufficient proficiency (2019-08-27)
+
+## September
+
+- Moved [Zero__wind](https://osu.ppy.sh/users/1822830) to the osu! Alumni (2019-09-04)
+- Moved [Yason](https://osu.ppy.sh/users/2574392) to the osu! Alumni (2019-09-04)
