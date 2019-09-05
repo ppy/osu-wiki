@@ -83,8 +83,8 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 
 #### Rules
 
+- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** For songs that follow a swing beat, this limit is 1/3.
 - **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
-- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 
 #### Guidelines
 
@@ -103,7 +103,6 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 #### Rules
 
 - **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
-- **If a 1/3 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such.
 
 #### Guidelines
 
@@ -134,7 +133,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 #### Rules
 
 - **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
-- **Finisher notes must not be used in any 1/4 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
+- **Finisher notes must not be used in any 1/4 patterns in this difficulty.** These patterns are not suitable for this difficulty level.
 
 #### Guidelines
 
@@ -156,8 +155,6 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 #### Rules
 
 - **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
-- **Finisher notes must not be used in any 1/6 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
-- **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern.** Placements other than this can disturb the readability for the audience at this level.
 
 #### Guidelines
 
@@ -177,7 +174,6 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 #### Guidelines
 
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
-- **Finisher notes for patterns that are 1/4 or faster in this difficulty should only be used at the end of that pattern.** Placements other than this may disturb the readability for the audience at this level.
 
 #### Difficulty Setting Guidelines
 
