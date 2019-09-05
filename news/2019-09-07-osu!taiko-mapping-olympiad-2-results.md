@@ -6,7 +6,7 @@ date: 2019-09-07 17:00:00 +0000
 
 The judging for the first [osu!taiko Mapping Olympiad contest](https://osu.ppy.sh/community/contests/65) has been completed, and the results are in: congratulations to **[Nofool](https://osu.ppy.sh/users/672430)**, the first osu!taiko Mapping Olympian and our newest *Elite Mapper*!
 
-![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
+![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
 For the inaugural [osu!taiko Mapping Olympiad contest](https://osu.ppy.sh/community/contests/65), we tasked mappers to create a full spread showcasing their proficiency in osu!taiko mapping with the song *Bwa !* from [Thaehan](https://osu.ppy.sh/beatmaps/artists/7). There were a total of 33 entries, and below are the results for the **top 10**:
 
