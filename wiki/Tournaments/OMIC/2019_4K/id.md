@@ -354,7 +354,7 @@ tags:
   - Penyiar
   - Komentator
   - Desainer
-- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](https://osu.ppy.sh/help/wiki/osu!tourney/Prizes/?fbclid=IwAR2D01a5uGKQHRo4aAz-xK1Z224a55dGFDg6FV_DmgLG27TFkv0SHfAn8FM#tournament-screening).
+- Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/osu!tourney/Prizes#tournament-screening).
 
 ### Peraturan Turnamen
 
@@ -366,7 +366,7 @@ tags:
 - Peserta diharapkan **hadir tepat waktu** sesuai jadwal yang telah ditentukan.
 - Panitia hanya bisa memberi waktu keterlambatan selama **10 menit**.
 - Apabila pemain memiliki gangguan koneksi sampai keluar dari pertandingan, maka keputusan selanjutnya **dipegang oleh wasit** dan sifat nya adalah **tetap**.
-- Pemain wajib mengikuti [peraturan](https://osu.ppy.sh/help/wiki/Rules) yang sudah ditetapkan oleh permainan ini.
+- Pemain wajib mengikuti [peraturan](/wiki/Rules) yang sudah ditetapkan oleh permainan ini.
 
 ### Regulasi Pertandingan
 
