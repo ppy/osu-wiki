@@ -3,20 +3,23 @@ tags:
 - SOFT4
 - SOFT 4
 ---
+
 # Springtime Osu!mania Free-for-all Tournament 4
 
 ![SOFT4 Logo](img/logo.png)
 
-> SOFT 4 When?, now!
+> SOFT 4 when?
 
-The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), was a one-on-one, country-independent osu!mania 4-key tournament.
+Now!
+
+The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-on-one, country-independent osu!mania 4-key tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-03-06/2019-03-22 |
-| Qualifiers Showcase | 2019-03-31 16:00 UTC |
+| Qualifiers Showcase | 2019-03-31 (16:00 UTC) |
 | Qualifiers | 2019-04-06/2019-04-07 |
 | Playoffs - Week 1 | 2019-04-13/2019-04-14 |
 | Playoffs - Week 2 | 2019-04-20/2019-04-21 |
@@ -31,9 +34,9 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), was a one
 
 ## Prizes
 
-| Placing | Prize |
+| Placing | Prizes |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD and a profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD, profile badge |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
 
