@@ -28,8 +28,12 @@ The choices are almost all yours! Go wild, but stick to the rules outlined below
 
 The top 3 entries as voted by the public will receive **6 months, 3 months, and 2 months** of osu!supporter respectively. 
 
-flyte will be reviewing all entries submitted himself and convening with whichever he deems the most fit to be selected as our new set of twin mascots—winning the contest does *NOT* mean that your entry will be chosen in that regard, but you've got a pretty good chance!
+The osu!team will convene after the voting is finalized and choose the most fitting entry together, and its author will receive a **custom osu! user title** and an additional **1 year of osu!supporter** for their efforts.
 
-Got all that? Great. [Head on over to the contest listing and submit your entry now!](https://osu.ppy.sh/community/contests/80) Entries will run for 30 days from the date of this post.
+**PLEASE NOTE:** The winner will be expected to work with the team to finalize and tweak the design to meet osu!'s standards. We will further compensate for time spent working on this. If you're not willing/unable to follow up with us, we'll be forced to pick another entrant!
+
+Got all that? Great. 
+
+[Head on over to the contest listing and submit your entry now!](https://osu.ppy.sh/community/contests/80) Entries will run for 30 days from the date of this post. Voting will begin immediately afterwards and run for 14 days.
 
 —Ephemeral
