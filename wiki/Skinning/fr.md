@@ -1,12 +1,12 @@
 # Skinning
 
-Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de modifier les des éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent amusant, ou pour des skins de pro, avec des thèmes mais aussi.
+Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux joueurs de modifier les éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent être amusant, thématisés ou alors être plus professionnel et sobre.
 
 ## Skinning sets
 
 *Page principale: [Liste de skins](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-**Pour les beatmaps seulement,** Si votre skin beatmap contient un seul élément parmi les ensembles répertoriés dans les critères de classement, il doit contenir tous les autres éléments dudit ensemble. Cela ne s'applique qu'aux skins beatmap, mais d'autres skinners voudront peut-être aussi prendre en compte ces listes.
+**Pour les beatmaps seulement,** si votre skin de beatmap contient un seul élément parmi les ensembles répertoriés dans les critères de classement, il doit contenir tous les autres éléments dudit ensemble. Cela ne s'applique qu'aux skins de beatmap.
 
 ## Comment puis-je faire un skin
 
@@ -16,7 +16,7 @@ Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux jo
 
 La liste des éléments de skinning est divisée en ces catégories:
 
-- [Skinning d'interface](/wiki/Skinning/Interface)
+- [Skinning de l'interface](/wiki/Skinning/Interface)
 - [Skinning osu!standard](/wiki/Skinning/osu!)
 - [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning osu!catch](/wiki/Skinning/osu!catch)
