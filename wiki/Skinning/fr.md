@@ -1,6 +1,6 @@
 # Skinning
 
-Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux joueurs de modifier les éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent être amusant, thématisés ou alors être plus professionnel et sobre.
+Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux joueurs de modifier les éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent être amusants, thématisés ou alors être plus professionnels et sobres.
 
 ## Skinning sets
 
@@ -14,14 +14,14 @@ Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux 
 
 ## Listes d'éléments de skins
 
-La liste des éléments de skinning est divisée en ces catégories:
+La liste des éléments de skinning est divisée en plusieurs catégories:
 
 - [Skinning de l'interface](/wiki/Skinning/Interface)
 - [Skinning osu!standard](/wiki/Skinning/osu!)
 - [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning osu!catch](/wiki/Skinning/osu!catch)
 - [Skinning osu!mania](/wiki/Skinning/osu!mania)
-- [Skinning Sons](/wiki/Skinning/Sounds)
+- [Skinning sonore](/wiki/Skinning/Sounds)
 
 ## Voir également
 
@@ -29,4 +29,4 @@ La liste des éléments de skinning est divisée en ces catégories:
 - [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
 - [Compendium](/community/forums/topics/686664) - une liste des skins terminées
 - [FAQ Skinning](/wiki/Skinning/FAQ)
-- [Guides et fils importants](/wiki/Skinning/Guides_and_Important_Threads)
+- [Guides et discussions importants](/wiki/Skinning/Guides_and_Important_Threads)
