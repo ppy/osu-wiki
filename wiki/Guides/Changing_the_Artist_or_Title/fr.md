@@ -21,7 +21,7 @@ La méthode facile (sans aucun changement local):
 La méthode compliquée (en gardant les changements locaux):
 
 1.  Rendez vous sur la page de votre beatmap sur le site d'osu! (https://osu.ppy.sh/beatmaps/xxxx -- PAS l'article du forum).
-2.  Ouvrez le Song Setup pour chaque difficulté et définissez l'artiste / le titre par ce qu'il est sur le site.
+2.  Ouvrez le Song Setup pour chaque difficulté et définissez l'artiste/le titre par ce qu'il est sur le site.
 3.  Rendez vous dans le menu de sélection des beatmaps et appuyez sur `F5`. Attendez quelques secondes.
 4.  Retournez dans l'éditeur. Vérifiez que le menu "Web" est activé (et pas grisé).
 5.  Changez l'artiste/le titre.
