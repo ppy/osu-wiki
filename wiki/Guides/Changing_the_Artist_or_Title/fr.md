@@ -14,7 +14,7 @@ La méthode facile (sans aucun changement local):
 2.  Téléchargez la copie à partir du site web d'osu!.
 3.  Rendez vous dans l'éditeur d'osu!. Vérifiez que le menu "Web" est accessible (et pas grisé).
 4.  Changez l'artiste et/ou le titre.
-5. Ne **sortez pas** de l'éditeur.
+5. **Ne sortez pas de l'éditeur.**
 6.  Accédez aux menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
 7.  Publiez la beatmap.
 
