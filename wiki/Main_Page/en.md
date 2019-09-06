@@ -35,5 +35,5 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 """
 # People
 
-[The Team](/wiki/The_Team) • [Global Moderation Team](/wiki/Global_Moderation_Team) • [Language Moderators](/wiki/Language_Moderators) • [Quality Assurance Team](/wiki/Quality_Assurance_Team) • [Beatmap Nominators](/wiki/Beatmap_Nominators) • [osu! Alumni](/wiki/osu!_Alumni) • [Support Team](/wiki/Support_Team)
+[The Team](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Language Moderators](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Support Team](/wiki/People/Support_Team)
 """
