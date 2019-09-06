@@ -1,25 +1,25 @@
 # L'éditeur de Beatmap
 
-**L'éditeur de beatmap** est l'interface graphique intégrée au jeu d'osu! Pour la création de [beatmaps](/wiki/Beatmaps).
+**L'éditeur de beatmap** est une interface graphique intégrée au jeu pour la création de [beatmaps](/wiki/Beatmaps).
 Il est séparé en quatre parties:
 
-- [Compose](Compose) : L'endroit où la majorité des beatmapping sont créer.
+- [Compose](Compose) : L'endroit où se déroule la majorité du processus de création de beatmap.
 
 - [Design](Design) : L'endroit pour la création de storyboards. Cependant, la plupart des mappeurs n'utiliseront que l'option "Image de fond/Vidéo" ici.
 
-- [Timing](Timing) : L'endroit où toutes les nouvelles beatmaps sont créer. Ceci contrôle le BPM (Battement Par Minute) et d'autres options de hitsounds.
+- [Timing](Timing) : La première étape pour la création d'une beatmap. Ceci permet de contrôler le BPM (Battement Par Minute) et d'autres options de hitsounds.
 
-- [Song Setup](Song_Setup) : L'endroit où toutes les nouvelles beatmaps sont créer. Ceci définit les valeurs concernant le titre, l'artiste, le nom de la version, la difficulté, les couleurs de combo, etc.
+- [Song Setup](Song_Setup) : Ceci définit les valeurs concernant le titre, l'artiste, le nom de la version, la difficulté, les couleurs de combo, etc.
 
 D'autres composants de l'éditeur de beatmap incluent :
 
-- [AiMod](AiMod) : Le logiciel que tous les beatmappers peuvent utiliser.
+- [AiMod](AiMod) : Fonctionnalité qui permet aux beatmappeurs d'afficher des potentielles erreurs sur la beatmap.
 
-- [Beat Snap Divisor](Beat_Snap_Divisor) : Le logiciel sur la chronologie qui vous aide à faire une beatmap, en termes de temps.
+- [Beat Snap Divisor](Beat_Snap_Divisor) : Un outil qui permet de changer le rythme des battements.
 
 - [Distance Snap](Distance_Snap) : Le logiciel qui affecte la proximité ou la distance des objets touchés.
 
-- [Kiai Time](Kiai_Time) : Notes sur les fontaines en étoile et les lumières flashy pendant une certaine section d'une beatmap.
+- [Kiai Time](Kiai_Time) : Permet d'ajouter une section Kiai Time, qui est souvent placée lors d'un moment fort de la musique. Le Kiai Time rajoute des petits effets en jeu, comme des effets d'étoiles sur les cotés de l'écran, des clignotements plus intenses des cercles, etc...
 
 - [Menu](Menu) : Une explication sur les boutons de menu en haut de l'éditeur de beatmap.
 
@@ -27,6 +27,6 @@ D'autres composants de l'éditeur de beatmap incluent :
 
 - [Slider](Slider) : Une explication de base du fonctionnement des sliders dans osu!
 
-- [Timelines](Timelines) : La partie supérieure de l'éditeur beatmap qui affiche les objets frappés placés, les ruptures, etc.
+- [Timelines](Timelines) : La partie supérieure de l'éditeur beatmap qui affiche les objets placés, les pauses, etc.
 
 - [Timing](Timing) : Un guide pour bien configurer le timing d'une nouvelle beatmap.
