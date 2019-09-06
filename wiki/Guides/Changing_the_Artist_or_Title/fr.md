@@ -30,5 +30,3 @@ La méthode compliquée (en gardant les changements locaux):
 8.  Publiez la beatmap.
 
 Si vous avez toujours des maps dupliquées, contactez la NAT (Nomination Assessment Team) pour résoudre le problème.
-
-**Ne publiez pas une beatmap si le menu "Web" est grisé. Sinon, votre map sera dupliquée.**
