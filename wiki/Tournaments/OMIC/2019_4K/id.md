@@ -188,10 +188,10 @@ tags:
 ### Kualifikasi
 
 - FreeMod
-  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Stage 1: Constant\]](https://osu.ppy.sh/beatmapsets/988436)
-  - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (-Rem-) \[Stage 2: Clarity\]](https://osu.ppy.sh/beatmapsets/988439)
-  - [SHK - Identity Part 4 (LuxAzure) \[Stage 3: Existence\]](https://osu.ppy.sh/beatmapsets/988442)
-  - [Venetian Snares - My So-Called Life (\[Crz\]Crysarlene) \[Stage 4: Desolation\]](https://osu.ppy.sh/beatmapsets/988435)
+  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Stage 1: Constant\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
+  - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (-Rem-) \[Stage 2: Clarity\]](https://osu.ppy.sh/beatmapsets/988439#mania/2067676)
+  - [SHK - Identity Part 4 (LuxAzure) \[Stage 3: Existence\]](https://osu.ppy.sh/beatmapsets/988442#mania/2067686)
+  - [Venetian Snares - My So-Called Life (\[Crz\]Crysarlene) \[Stage 4: Desolation\]](https://osu.ppy.sh/beatmapsets/988435#mania/2067665)
 
 ---
 
