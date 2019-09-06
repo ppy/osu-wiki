@@ -3,11 +3,12 @@ tags:
 - O!MIC 4K 2019
 - OMIC
 ---
+
 # osu!mania 4K Indonesia Cup 2019
 
 ![O!MIC 4K 2019 Logo](img/logo.png)
 
-**osu!mania 4K Indonesia Cup 2019** ***(O!MIC 4K 2019)*** adalah turnamen osu!mania 4K tunggal khusus wilayah Indonesia dengan sistem pertandingan awal *Royal Rumble*, dilanjut satu lawan satu dengan *Double-Elimination bracket* di babak Penyisihan Grup.
+**osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) adalah turnamen osu!mania 4K tunggal khusus wilayah Indonesia dengan sistem pertandingan awal *Royal Rumble*, dilanjut satu lawan satu dengan *Double-Elimination bracket* di babak Penyisihan Grup.
 
 ## Jadwal Turnamen
 
