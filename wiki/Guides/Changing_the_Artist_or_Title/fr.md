@@ -29,6 +29,6 @@ La méthode compliquée (en gardant les changements locaux):
 7.  Naviguez dans les menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
 8.  Publiez la beatmap.
 
-Si vous avez toujours des maps dupliquées, contactez la BAT(Beatmap Appreciation Team) pour résoudre le problème.
+Si vous avez toujours des maps dupliquées, contactez la NAT (Nomination Assessment Team) pour résoudre le problème.
 
 **Ne publiez pas une beatmap si le menu "Web" est grisé. Sinon, votre map sera dupliquée.**
