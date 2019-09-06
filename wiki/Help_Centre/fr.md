@@ -459,7 +459,7 @@ Dans de tels cas, vous pouvez ouvrir un ticket à l'équipe de support en envoya
 
 La plupart du temps, vous serez réautorisé à éditer votre page, mais les utilisateurs abusant de cette autorisation peuvent se voir bloqués à tout jamais, soyez prudent !
 
-Si à n'importe quel moment vous avez un doute sur un contenu, vous pouvez envoyer un message à l'[Équipe Globale de Modération](/wiki/People/Global_Moderation_Team) avec ce que vous pensiez y mettre et ils vous feront savoir si c'est correct.
+Si à n'importe quel moment vous avez un doute sur un contenu, vous pouvez envoyer un message à l'[Équipe Globale de Modération](/wiki/The_Team/Global_Moderation_Team) avec ce que vous pensiez y mettre et ils vous feront savoir si c'est correct.
 
 
 ### Puis-je totalement bloquer quelqu'un ?

@@ -8,7 +8,7 @@ outdated: true
 
 Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de [osu!](/Wiki/Glossary/#osu) aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-No debe confundirse con [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar osu! Y el entorno de la comunidad.
+No debe confundirse con [osu!Alumni](/wiki/The_Team/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/The_Team/Global_Moderation_Team), [QAT](/wiki/The_Team/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar osu! Y el entorno de la comunidad.
 
 Los usuarios actuales con esta insignia se indican en esta tabla:
 
@@ -33,7 +33,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [Beatmap Packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño del skin del beatmap original, [storyboarding](/ wiki / Storyboards) avanzando como arte y motivación. |
 | [awp](https://osu.ppy.sh/users/2650) | Temprana gestión y moderación de la comunidad y enormes contribuciones en el transcurso de su tiempo. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Siendo el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Siendo el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/The_Team/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | Siendo el primer gerente de personal y BATmanager, y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |
 
 ## 2015

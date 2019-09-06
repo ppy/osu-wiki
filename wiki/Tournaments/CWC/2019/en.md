@@ -7,7 +7,7 @@ tags:
 
 ![CWC 2019 Banner](img/banner.jpg)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/The_Team). It is the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 

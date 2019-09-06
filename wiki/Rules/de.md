@@ -21,7 +21,7 @@ Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb de
 7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Anime Streaming-Webseiten oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spiele teilen, solange das in `#videogames` passiert.
 8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im osu! Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
 9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden.
-*[Moderatoren](/wiki/People/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
+*[Moderatoren](/wiki/The_Team/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
 
 ## Forumregeln
 

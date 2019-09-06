@@ -4,7 +4,7 @@ In order for your map to become [ranked](/wiki/Beatmaps), it must get [modded](/
 
 ## \#modreqs
 
-**\#modreqs** is a channel in osu! chat where players can request help ([modding](/wiki/Modding)) with their maps by linking them with the `/np` command. Some modders and even [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) members may be on the lookout for good maps being linked in this channel.
+**\#modreqs** is a channel in osu! chat where players can request help ([modding](/wiki/Modding)) with their maps by linking them with the `/np` command. Some modders and even [Beatmap Nomination Group](/wiki/The_Team/Beatmap_Nomination_Group) members may be on the lookout for good maps being linked in this channel.
 
 [Bancho](/wiki/Glossary) keeps track of the 20 most recent requests and allows potential modders to find them in a number of ways:
 
@@ -26,7 +26,7 @@ A mod4mod, or M4M for short, is where you mod somebody else's map if they mod yo
 
 ## Directly Asking Other Users
 
-Directly asking other users is a great way to get mods, too, if you ask the right ones. Look for a normal user with a lot of [kudosu](/wiki/Glossary) and no modding queue; often they'll accept your request if they're not busy. Also, directly asking [BNs](/wiki/People/Beatmap_Nomination_Group) is almost a necessity to getting your map ranked. Here are some tips:
+Directly asking other users is a great way to get mods, too, if you ask the right ones. Look for a normal user with a lot of [kudosu](/wiki/Glossary) and no modding queue; often they'll accept your request if they're not busy. Also, directly asking [BNs](/wiki/The_Team/Beatmap_Nomination_Group) is almost a necessity to getting your map ranked. Here are some tips:
 
 -   If somebody's signature or [user page](/wiki/Glossary) says, "I don't take requests", then don't ask them if they aren't your friend.
 -   Start up a regular conversation, and just casually slide the request in. This is much more effective than straight-out asking.

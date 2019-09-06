@@ -8,7 +8,7 @@ Are you a Beatmap Nominator, or are interested in becoming one? Then you have co
 
 ## Useful Information
 
-First off, take note of the [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules), which outlines both how to undertake various actions such as iconing maps, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) if you are unsure about something, and we will be happy to help.
+First off, take note of the [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules), which outlines both how to undertake various actions such as iconing maps, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Quality Assurance Team](/wiki/The_Team/Quality_Assurance_Team) if you are unsure about something, and we will be happy to help.
 
 Next, there's the [Code of Conduct for Mapping and Modding](/wiki/CoC). As a Beatmap Nominator, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled. This also includes parts of the ranking process as well - do not go around nominating maps in which the mapper has ignored mods, for example.
 
@@ -16,7 +16,7 @@ Moreover, as a Beatmap Nominator, you have the opportunity to join a Nominator S
 
 Lastly, the information you will probably be referencing the most, the Ranking Criteria. If you are already a Beatmap Nominator, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. If you see a Qualified map breaking one of the rules, or feel that it could still use substantial improvement for whatever reason, feel free to report it in this thread, giving a brief outline of the problems you see.
 
-For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [_beatmap veto_](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
+For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [_beatmap veto_](/wiki/The_Team/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
 
 ## Beatmap Nominator Icons
 

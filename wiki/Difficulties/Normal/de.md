@@ -21,4 +21,4 @@ Denke daran, Sliders zu verwenden, wenn eine lange Note oder ein langer Ton in d
 Jetzt liegt es an deiner Fantasie. Schöne Muster sind immer toll anzusehen - und lassen deine Beatmaps noch attraktiver erscheinen.
 Viel Erfolg mit deinen Maps der Schwierigkeit "Normal"!
 ^Übrigens: Wenn du schon eine Easy zu dem Lied erstellt hast, gehe sicher, dass deine Normal natürlich ein wenig schwieriger ist.
-^^Nunja, es sei denn, du spammst überall 1/4-Sliders. Oder zwängst 1/2 Sliders ein. Bestimmte [BAT members](/wiki/People/Beatmap_Nomination_Group) haben sich schon per PN über solche Sachen beschwert.
+^^Nunja, es sei denn, du spammst überall 1/4-Sliders. Oder zwängst 1/2 Sliders ein. Bestimmte [BAT members](/wiki/The_Team/Beatmap_Nomination_Group) haben sich schon per PN über solche Sachen beschwert.

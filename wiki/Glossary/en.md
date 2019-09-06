@@ -109,7 +109,7 @@ A mapping term to describe when a slider covers the shape of another object. A g
 
 ### BN
 
-*Short for [Beatmap Nominator](/wiki/People/Beatmap_Nominators).*
+*Short for [Beatmap Nominator](/wiki/The_Team/Beatmap_Nominators).*
 
 Used to refer to the group itself or one of its members.
 
@@ -647,7 +647,7 @@ Used to refer to the group itself or one of its members.
 
 ### Quality Assurance Team
 
-The group predating the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
+The group predating the [Nomination Assessment Team](/wiki/The_Team/Nomination_Assessment_Team) that managed the Ranked beatmap category. They were responsible for handling beatmap disqualifications, managing the [Beatmap Nominators](/wiki/The_Team/Beatmap_Nominators) and other miscellaneous work in the modding and mapping scene. On 6 May, 2019, the QAT was renamed and repurposed into the NAT.
 
 ## R
 

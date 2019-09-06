@@ -53,12 +53,12 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 
 | Nazwa | Opis |
 | ---- | ----------- |
-| [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) | Sprawowanie nadzoru nad czatem i forum |
-| [Nominatorzy beatmap](/wiki/People/Beatmap_Nomination_Group) | Kwalifikowanie i modowanie beatmap |
+| [Moderatorzy globalni](/wiki/The_Team/Global_Moderation_Team) | Sprawowanie nadzoru nad czatem i forum |
+| [Nominatorzy beatmap](/wiki/The_Team/Beatmap_Nomination_Group) | Kwalifikowanie i modowanie beatmap |
 | [Programiści](https://osu.ppy.sh/groups/11) | Ulepszanie gry poprzez naprawianie błędów i dodawanie nowych funkcji |
-| [osu! Alumni](/wiki/People/osu!_Alumni) | Osoby, które zapisały się w historii osu! |
-| [Pomoc techniczna](/wiki/People/Support_Team) | Odpowiadanie na pytania i prośby |
-| [Zespół zapewniania jakości](/wiki/People/Quality_Assurance_Team) | Zapewnianie jakości beatmap |
+| [osu! Alumni](/wiki/The_Team/osu!_Alumni) | Osoby, które zapisały się w historii osu! |
+| [Pomoc techniczna](/wiki/The_Team/Support_Team) | Odpowiadanie na pytania i prośby |
+| [Zespół zapewniania jakości](/wiki/The_Team/Quality_Assurance_Team) | Zapewnianie jakości beatmap |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_DE]: /wiki/shared/flag/DE.gif

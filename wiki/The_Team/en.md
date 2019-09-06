@@ -60,19 +60,19 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 
 ## User Groups
 
-*For a list of promotions and retirements, see: [Staff Log](/wiki/People/Staff_Log)*
+*For a list of promotions and retirements, see: [Staff Log](/wiki/The_Team/Staff_Log)*
 
 The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized with their forum name colours, in-game chat colours, profile titles, and/or profile badges.
 
 | Name | Description |
 | :-- | :-- |
-| [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Developers](/wiki/People/Developers) | Making the game awesome by adding new features and fixing the bugs |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Managing the Beatmap Nominators |
-| [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
-| [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
+| [Beatmap Nominators](/wiki/The_Team/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Developers](/wiki/The_Team/Developers) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
+| [Nomination Assessment Team](/wiki/The_Team/Nomination_Assessment_Team) | Managing the Beatmap Nominators |
+| [osu! Alumni](/wiki/The_Team/osu!_Alumni) | Those known for their contributions who have since moved on |
+| [Project Loved Team](/wiki/The_Team/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Support Team](/wiki/The_Team/Support_Team) | Help / Feature Request assistance |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

@@ -8,7 +8,7 @@ outdated: true
 
 Kontributor Komunitas adalah orang-orang yang telah mengikutsertakan dirinya untuk memberikan pelayanan kepada komunitas [osu!](/wiki/Glossary) bahkan hingga melakukan pengorbanan tinggi - yakni dengan memberikan peralatan dan fitur permainan yang kita semua dapatkan sekarang. Para pengguna ini diberikan sebuah lencana untuk menunjukkan bahwa mereka telah melakukan sesuatu yang berharga terhadap seluruh komunitas disini.
 
-Berbeda dari [osu! Alumni](/wiki/People/osu!_Alumni) yang merupakan anggota osu!tim ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), dan lainnya) sebelumnya yang telah mengundurkan diri, lencana para Kontributor Komunitas tersebut diberikan kepada pekerja lepas publik yang telah bekerja diatas segala panggilan pekerjaan apapun untuk mengembangkan osu! dan lingkup komunitas.
+Berbeda dari [osu! Alumni](/wiki/The_Team/osu!_Alumni) yang merupakan anggota osu!tim ([GMT](/wiki/The_Team/Global_Moderation_Team), [QAT](/wiki/The_Team/Quality_Assurance_Team), dan lainnya) sebelumnya yang telah mengundurkan diri, lencana para Kontributor Komunitas tersebut diberikan kepada pekerja lepas publik yang telah bekerja diatas segala panggilan pekerjaan apapun untuk mengembangkan osu! dan lingkup komunitas.
 
 Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
@@ -29,7 +29,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Bekerja selama 3 tahun lebih tanpa lelah untuk menghandel [pamaketan beatmap](https://osu.ppy.sh/p/packlist) dan beberapa tahun mengatur grafis beatmap. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan dari tahun ke tahun, termasuk mendesain skin beatmap yang asli, menyatakan pembuatan storyboard sebagai sebuah karya dan motivasi. |
 | [awp](https://osu.ppy.sh/users/2650) | Mengelola dan memoderasi komunitas terdahulu dan memberikan kontribusi yang besar sepanjang waktunya. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/People/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/The_Team/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | Menjadi staff manajer pertama, manajer BAT pertama, dan orang pertama yang satu-satunya membentuk tim moderasi beatmap elit yang semulanya bukan apa-apa. |
 
 ### Maret 2015

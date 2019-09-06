@@ -2,7 +2,7 @@
  
 ![osu! World Cup 2017](img/logo.png)
  
-**osu! World Cup 2017** (**_OWC 2017_**)는 [osu! team](/wiki/People/The_Team)이 주관하는 국가 대항 토너먼트입니다.
+**osu! World Cup 2017** (**_OWC 2017_**)는 [osu! team](/wiki/The_Team)이 주관하는 국가 대항 토너먼트입니다.
  
 ## 대회 일정
  

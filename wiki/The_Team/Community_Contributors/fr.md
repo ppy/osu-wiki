@@ -8,7 +8,7 @@ outdated: true
 
 Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs ayant beaucoup aidé au développement d'osu! et qui se sont fortement impliqués dans le développement de la communauté. Ces utilisateurs ont reçu un badge pour montrer qu'ils ont rendu service à toute la communauté par leurs actes.
 
-À la différence des [osu!Alumnis](/wiki/People/osu!_Alumni) qui sont d'anciens membres du staff, les contributeurs sont des joueurs qui, peu importe leur grade, ont grandement contribué à l'amélioration d'osu! et fait grandir la communauté.
+À la différence des [osu!Alumnis](/wiki/The_Team/osu!_Alumni) qui sont d'anciens membres du staff, les contributeurs sont des joueurs qui, peu importe leur grade, ont grandement contribué à l'amélioration d'osu! et fait grandir la communauté.
 
 Les joueurs possédant ce grade sont notés ici :
 
@@ -29,5 +29,5 @@ Les joueurs possédant ce grade sont notés ici :
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de trois années passés à créer des [packs de beatmaps](https://osu.ppy.sh/p/packlist) et à maintenir les charts. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Des années de travaux sur l'interface graphique et le [storyboarding](/wiki/Storyboards). Développeur du skin original d'osu!. |
 | [awp](https://osu.ppy.sh/users/2650) | L'un des premiers managers et modérateurs de la communauté. Contributions significatives sur le long terme. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Premier manager de la communauté et modérateur, qui a mis la barre extrêmement haut pour [l'équipe de modération](/wiki/People/Global_Moderation_Team) actuelle. |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Premier manager de la communauté et modérateur, qui a mis la barre extrêmement haut pour [l'équipe de modération](/wiki/The_Team/Global_Moderation_Team) actuelle. |
 | [Ivalset](https://osu.ppy.sh/users/827) | Premier manager du staff et des BAT. A formé une équipe d'élite de modération des beatmaps à partir de rien. |

@@ -19,7 +19,7 @@ Experienced modders from **all game modes** may apply. You will have until **Jan
 + You must be familiar with the current modding environment and abide by the current [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct)
 + You must be familiar with the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and apply it where necessary in your mods
 
-More information about activity requirements and the selection process can be found in the [Beatmap Nominators wiki article](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators#becoming-a-beatmap-nominator).
+More information about activity requirements and the selection process can be found in the [Beatmap Nominators wiki article](https://osu.ppy.sh/help/wiki/The_Team/Beatmap_Nominators#becoming-a-beatmap-nominator).
 
 ---
 

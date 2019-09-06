@@ -8,7 +8,7 @@ outdated: true
 
 **Zasłużeni dla społeczności** to osoby, które same z siebie stworzyły różne narzędzia dla społeczności [osu!](/wiki/Glossary) swoim kosztem. Został im przyznany Znak Zasłużonego, aby pokazać, że przysłużyli się całej społeczności.
 
-Nie należy ich mylić z [osu! Alumni](/wiki/People/osu!_Alumni) którzy są dawnymi członkami osu!team ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), itp), którzy odeszli. Znak Zasłużonego jest przyznawany wolnym strzelcom, którzy musieli wznieść się ponad wezwanie do obowiązku, aby ulepszyć osu! i środowisko społeczności.
+Nie należy ich mylić z [osu! Alumni](/wiki/The_Team/osu!_Alumni) którzy są dawnymi członkami osu!team ([GMT](/wiki/The_Team/Global_Moderation_Team), [QAT](/wiki/The_Team/Quality_Assurance_Team), itp), którzy odeszli. Znak Zasłużonego jest przyznawany wolnym strzelcom, którzy musieli wznieść się ponad wezwanie do obowiązku, aby ulepszyć osu! i środowisko społeczności.
 
 Osoby posiadające obecnie Znak Zasłużonego:
 
@@ -29,7 +29,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Ponad 3 lata cichej pracy nad [paczkami beatmap](https://osu.ppy.sh/p/packlist) oraz kilka lat zarządzania mapami. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Wiele lat pracy nad projektem oryginalnego skina beatmap, stwarzania [storyboarding](/wiki/Storyboards) sztuką i motywacją. |
 | [awp](https://osu.ppy.sh/users/2650) | Wczesne zarządzanie i moderowanie społecznością oraz duży wkład, zanim opuścił osu!. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/The_Team/Global_Moderation_Team) |
 | [Ivalset](https://osu.ppy.sh/users/827) | Bycie pierwszym zarządcą staffu oraz BAT, a także stworzenie elitarnego zespołu mapperów. |
 
 ### Marzec 2015

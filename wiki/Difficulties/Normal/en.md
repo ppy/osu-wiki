@@ -48,4 +48,4 @@ Good luck with your Normal difficulties!
 
 &sup1; If you have an [Easy](/wiki/Difficulties/osu!/Easy), make sure your Normal is a bit harder than your Easy, of course. If you do not have an Easy, you should still make your Normal suitable for beginners. A 1.6-1.7 star Normal will comfortably make up for an Easy.
 
-&sup2; Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](/wiki/People/Beatmap_Nomination_Group) have been known to rage via PMs over this sort of thing.
+&sup2; Well, unless you spam 1/4 sliders everywhere. Or shoehorn 1/2 sliders in for that matter. Certain [BAT members](/wiki/The_Team/Beatmap_Nomination_Group) have been known to rage via PMs over this sort of thing.

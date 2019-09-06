@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2014 Logo](img/logo.png)
 
-The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!taiko World Cup.
+The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/The_Team). It was the fourth installment of the osu!taiko World Cup.
 
 ## Tournament Schedule
 

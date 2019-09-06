@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmap ranking procedure
 
-譜面が最初に作られた時、それはPendingかWork in Progress(WIP)のセクションに置かれ、これらの譜面は"Unranked"と呼ばれます。Unrankedの譜面はスコアボード/ランキングの表示はなく、一定期間後にGraveyardに移動されます。スコアボードを表示させるためには"Ranked"に移動されていなければならず、Beatmap Approvalのプロセスを介する必要があります。まずはbubbleを手に入れ、その次にRankedされます。[BAT達だけがBubbleとRankedを与えることが出来ます](/wiki/People/Beatmap_Nomination_Group)。
+譜面が最初に作られた時、それはPendingかWork in Progress(WIP)のセクションに置かれ、これらの譜面は"Unranked"と呼ばれます。Unrankedの譜面はスコアボード/ランキングの表示はなく、一定期間後にGraveyardに移動されます。スコアボードを表示させるためには"Ranked"に移動されていなければならず、Beatmap Approvalのプロセスを介する必要があります。まずはbubbleを手に入れ、その次にRankedされます。[BAT達だけがBubbleとRankedを与えることが出来ます](/wiki/The_Team/Beatmap_Nomination_Group)。
 
 ## Bubble ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon")
 
@@ -15,7 +15,7 @@ Rankedになる前にBATによってなれる状態で、最初にBubbleを手�
 
 ### 専用モードのBubble
 
-Mode-Specific Bubble(専用モード用のBubble)はいくつかのモードが混ざったマップセットの特定のモードに適用されるBubbleです。各モードのBubbleの基準は、各[Ranking Criteriaに依存しますが](/wiki/Ranking_Criteria)、, 各モードを担当した/できる専用のBATだけがbubbleを付けることが出来ます。利用可能なBATのリストは次のものを参照してください。 [the respective list on its article](/wiki/People/Beatmap_Nomination_Group) もしくは [this post](https://osu.ppy.sh/community/forums/posts/2430411)。
+Mode-Specific Bubble(専用モード用のBubble)はいくつかのモードが混ざったマップセットの特定のモードに適用されるBubbleです。各モードのBubbleの基準は、各[Ranking Criteriaに依存しますが](/wiki/Ranking_Criteria)、, 各モードを担当した/できる専用のBATだけがbubbleを付けることが出来ます。利用可能なBATのリストは次のものを参照してください。 [the respective list on its article](/wiki/The_Team/Beatmap_Nomination_Group) もしくは [this post](https://osu.ppy.sh/community/forums/posts/2430411)。
 
 ## Popped Bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 
@@ -29,6 +29,6 @@ Bubbleされた譜面が、上記の2つの基準を満たしている場合、B
 
 ## Unranked ![Heart-broken icon](/wiki/shared/icon/broken-heart.gif "Heart-broken icon")
 
-人々はミスをします。なのでもし根本的な問題がある状態でApprovalシステムを通過した場合、それは一時的にunrankになるかもしれません。もしあなたの譜面がunrankをされたなら、unrankをした[BATと話し合い](/wiki/People/Beatmap_Nomination_Group)、あなたの譜面の問題点を解決し、Rerankをさせ可能な限り迅速に喜ばせるようにします。
+人々はミスをします。なのでもし根本的な問題がある状態でApprovalシステムを通過した場合、それは一時的にunrankになるかもしれません。もしあなたの譜面がunrankをされたなら、unrankをした[BATと話し合い](/wiki/The_Team/Beatmap_Nomination_Group)、あなたの譜面の問題点を解決し、Rerankをさせ可能な限り迅速に喜ばせるようにします。
 
 注: 時々変更したくない物を変更するように言われるかもしれません。あなたは変更をせずに逃げ切ることも可能かもしれませんが、BATがその指摘を同意したなら変更をするべきです。あなたのプライドを捨て直すのが良いでしょう。

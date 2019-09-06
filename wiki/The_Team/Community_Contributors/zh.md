@@ -8,7 +8,7 @@ outdated: true
 
 **社区贡献者** 是对那些主动向 osu!社区 投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的名牌。这个名牌代表着他们曾为整个社区做出了显著的贡献。
 
-与社区贡献者相比， [osu!Alumni](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/People/Global_Moderation_Team) ，[QAT](/wiki/People/Quality_Assurance_Team) ，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 osu!  和社区环境的人。
+与社区贡献者相比， [osu!Alumni](/wiki/The_Team/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/The_Team/Global_Moderation_Team) ，[QAT](/wiki/The_Team/Quality_Assurance_Team) ，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 osu!  和社区环境的人。
 
 现在拥有社区贡献者名牌的用户如下：
 
@@ -33,7 +33,7 @@ outdated: true
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理      |
 | [LuigiHann](https://osu.ppy.sh/users/1079)        | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboards)作为艺术和作图动力的发展                  |
 | [awp](https://osu.ppy.sh/users/2650)              | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献                                                           |
-| [Sinistro](https://osu.ppy.sh/users/5530)         | 作为第一位临时的社区管理员和GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样          |
+| [Sinistro](https://osu.ppy.sh/users/5530)         | 作为第一位临时的社区管理员和GMT，他为 [GMT](/wiki/The_Team/Global_Moderation_Team) 树立了一个非常好的榜样          |
 | [Ivalset](https://osu.ppy.sh/users/827)           | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队                                |
 
 ## 2015

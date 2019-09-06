@@ -10,7 +10,7 @@ tags:
 
 ![OWC #2 Logo](img/logo.png)
 
-The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***) is a country-based osu! tournament hosted by the [osu! team](/wiki/The_Team). It is the 2nd installment of the osu! World Cup.
 
 ## Prizes
 

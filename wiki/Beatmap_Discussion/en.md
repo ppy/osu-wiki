@@ -138,7 +138,7 @@ Enabling the pin will allow the [modding field](#modding-field) to scroll with y
 - Thumbs Up/Down: Like/Dislike the mod.
   - Everyone but the mod submitter can give a thumbs up.
   - **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
-  - Only [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
+  - Only [BN](/wiki/BN), [NAT](/wiki/The_Team/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
 - Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
 - CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
 - permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.

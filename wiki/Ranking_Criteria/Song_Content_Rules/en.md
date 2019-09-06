@@ -17,7 +17,7 @@ This is a mildly complicated issue and what is acceptable for one person is ofte
 
 To address this, roughly apply a variant of the **20% rule** - is more than 20% of your track's lyrical content a direct reference to something explicit, suggestive, or otherwise controversial?
 
-If you aren't sure on how to proceed with your track given this rough variant, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
+If you aren't sure on how to proceed with your track given this rough variant, ask any member of the [Nomination Assessment Team](/wiki/The_Team/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team) _before_ uploading your mapset!
 
 Any track that is highly intense or shocking in any manner as described in the three criteria above is not allowed regardless of what percentage of its content falls under the classification.
 
@@ -27,7 +27,7 @@ What determines "highly intense" should be abundantly obvious to a large selecti
 
 Any beatmap containing a disallowed track will be removed from the website.
 
-Each time your submission is removed, you will be afforded an explanation by the presiding member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) responsible for the removal with reasoning justifying the removal.
+Each time your submission is removed, you will be afforded an explanation by the presiding member of the [Nomination Assessment Team](/wiki/The_Team/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team) responsible for the removal with reasoning justifying the removal.
 
 You may contest this with them via PM if you so wish, or seek the opinions of others to substantiate your claim to the track's suitability. If you still cannot find common ground on this front, your claim may be escalated to a consensus vote among the current NAT members, who will collectively decide if your track is acceptable or not.
 

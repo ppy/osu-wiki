@@ -650,7 +650,7 @@ Dalam kasus seperti itu, Anda dapat membuka tiket dengan mengirim email kepada t
 
 Dalam kebanyakan kasus, Anda akan diizinkan untuk mengakses dan mengubah laman pengguna (user page) Anda lagi, tetapi pengguna yang menyalahgunakan amnesti ini mungkin tidak dapat menyunting laman pengguna (user page) mereka sama sekali, jadi berhati-hatilah!
 
-Jika pada titik tertentu Anda ragu apakah suatu hal sesuai untuk semua pengguna, Anda dapat mengirim pesan kepada salah satu anggota ​[Global Moderation Team](/wiki/People/Global_Moderation_Team)​ berdampingan dengan apa yang Anda rencanakan untuk disiapkan dan mereka akan memberi tahu Anda jika hal yang Anda taruh tidak bermasalah.
+Jika pada titik tertentu Anda ragu apakah suatu hal sesuai untuk semua pengguna, Anda dapat mengirim pesan kepada salah satu anggota ​[Global Moderation Team](/wiki/The_Team/Global_Moderation_Team)​ berdampingan dengan apa yang Anda rencanakan untuk disiapkan dan mereka akan memberi tahu Anda jika hal yang Anda taruh tidak bermasalah.
 
 #### Dapatkah saya memblokir pengguna lain untuk menghubungi saya?
 

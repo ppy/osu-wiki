@@ -12,7 +12,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
  | **Weiß** | Du |
  | **Bleich** | Andere Spieler |
  | **Gelb** | [osu!-Supporter](/wiki/osu!supporter/ "osu!-Supporter") |
- | **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") oder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") |
+ | **Rot** | Mitglied des [Global Moderation Teams](/wiki/The_Team/Global_Moderation_Team/ "Global Moderation Team") oder des [Nomination Assessment Teams](/wiki/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
  | **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
  | **Blau** | Private Nachricht |
  | **Türkis** | [peppy](https://osu.ppy.sh/users/2 "peppy"), der Ersteller von osu! |

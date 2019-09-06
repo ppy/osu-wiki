@@ -26,7 +26,7 @@ Un **M4M** (**Mod for Mod**) désigne l'action de modder une map en échange du 
 
 ## Demander directement aux autres joueurs
 
-Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](/wiki/Kudosu) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](/wiki/People/Beatmap_Nomination_Group) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
+Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](/wiki/Kudosu) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](/wiki/The_Team/Beatmap_Nomination_Group) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
 
 ## Astuces
 

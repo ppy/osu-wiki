@@ -6,7 +6,7 @@ outdated: true
 
 ![osu!mania 4K World Cup 2017](logo.jpg)
 
-La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
+La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!mania entre pays organisé par [l'équipe osu!](/wiki/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
 
 ## Calendrier du tournoi
 

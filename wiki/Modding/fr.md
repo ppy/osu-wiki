@@ -6,7 +6,7 @@ Le **Modding** est le fait d'examiner la [map](/wiki/Beatmaps) de quelqu'un d'au
 2. "Mod4mods", ou bien le fait de modder la map de quelqu'un pour obtenir un mod de sa part sur votre map en retour, est un excellent moyen d'être moddé.
 3. Un bon mod réduit le temps que les BATs/MATs passent à signaler des erreurs basiques. Ainsi, ils auront moins de travail et cela augmentera les chances pour qu'ils moddent votre map.
 
-Croyez-nous, un [MAT](/wiki/People/Beatmap_Nominators) est généralement de bonne humeur quand il n'a pas passé 10 minutes à s'énerver sur une map parce qu'elle a clairement besoin de plus de mods.
+Croyez-nous, un [MAT](/wiki/The_Team/Beatmap_Nominators) est généralement de bonne humeur quand il n'a pas passé 10 minutes à s'énerver sur une map parce qu'elle a clairement besoin de plus de mods.
 
 Que vous soyez un mappeur débutant ou un peu plus expérimenté, le modding est un bon moyen d'améliorer vos propres techniques de mapping.
 

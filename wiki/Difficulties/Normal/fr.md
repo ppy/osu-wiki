@@ -25,4 +25,4 @@ Bonne chance avec vos difficultés Normal!
 
 ^Note : Bien sûr, si vous avez un Easy, soyez sûrs que votre Normal soit un peu plus dur que votre Easy.
 
-^^Hé bien, à moins que vous spammez des sliders 1/4 partout. Ou superposez des sliders 1/2 tant qu'on y est. Certains [membres du BAT](/wiki/People/Beatmap_Nomination_Group) sont bien connus pour rager via des PMs sur ce genre de choses.
+^^Hé bien, à moins que vous spammez des sliders 1/4 partout. Ou superposez des sliders 1/2 tant qu'on y est. Certains [membres du BAT](/wiki/The_Team/Beatmap_Nomination_Group) sont bien connus pour rager via des PMs sur ce genre de choses.

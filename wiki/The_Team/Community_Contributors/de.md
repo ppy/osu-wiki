@@ -8,7 +8,7 @@ outdated: true
 
 Die "Community Mitwirkenden" sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, der zeigt, dass sie besonders nennenswert sind und etwas in und für die osu! Community getan haben.
 
-Dabei sollten diese nicht mit den [osu! Alumni](/wiki/People/osu!_Alumni) verwechselt werden, die davor Teil des osu!Teams waren ([GMT](/wiki/People/Global_Moderation_Team), [BAT](/wiki/People/Beatmap_Nomination_Group), etc.), dieses Abzeichen wird überwiegend denen verliehen, die unabhängig deren Position und Rolle einen großen Dienst der Community geleistet haben und osu! merklich verbessert haben.
+Dabei sollten diese nicht mit den [osu! Alumni](/wiki/The_Team/osu!_Alumni) verwechselt werden, die davor Teil des osu!Teams waren ([GMT](/wiki/The_Team/Global_Moderation_Team), [BAT](/wiki/The_Team/Beatmap_Nomination_Group), etc.), dieses Abzeichen wird überwiegend denen verliehen, die unabhängig deren Position und Rolle einen großen Dienst der Community geleistet haben und osu! merklich verbessert haben.
 
 Derzeitig tragen folgende User dieses Abzeichen:
 
@@ -29,5 +29,5 @@ Derzeitig tragen folgende User dieses Abzeichen:
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Mehr als drei Jahre lang für die Aufrechthaltung der [Beatmap Packs](https://osu.ppy.sh/p/packlist) verantwortlich und mehrere Jahre hindurch der Manager der Beatmap Charts. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Jahrelanger Dienst und Mithilfe, insbesondere des Skinning und fortgeschrittenem [Storyboarding](/wiki/Storyboards) und Designer des originalen Skins. |
 | [awp](https://osu.ppy.sh/users/2650) | Frühes Mitglied und für das damalige Community Management verantwortlich. Außerdem sehr stark mitwirkend innerhalb der Community. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Der erste Community Manager und Global Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/The_Team/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | [Ivalset](https://osu.ppy.sh/users/827) | Der erste Team- sowie BATmanager, der damals alleine das elitäre Beatmap Moderation Team aus dem Nichts gegründet hat. |

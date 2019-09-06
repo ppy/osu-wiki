@@ -638,7 +638,7 @@ In such cases, you may open up a ticket with the support team by emailing [accou
 
 Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
 
 #### Can I completely block another user from contacting me?

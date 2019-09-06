@@ -10,7 +10,7 @@ tags:
 
 ![OWC #3 Logo](img/logo.png)
 
-The **osu! World Cup #3** (***OWC #3***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 3rd installment of the osu! World Cup.
+The **osu! World Cup #3** (***OWC #3***) is a country-based osu! tournament hosted by the [osu! team](/wiki/The_Team). It is the 3rd installment of the osu! World Cup.
 
 ## Tournament Schedule
 

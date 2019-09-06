@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2017 Logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 4th installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/The_Team). It is the 4th installment of the osu!mania 4K World Cup.
 
 ## Tournament Schedule
 

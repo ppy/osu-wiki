@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2018 Logo](img/logo.png)
 
-The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 7th installment of the osu!catch World Cup.
+The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/The_Team). It was the 7th installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 

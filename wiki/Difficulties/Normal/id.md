@@ -25,6 +25,6 @@ Berjuanglah dengan map buatanmu!
 
 ^Catatan: Jika kamu mempunyai tingkat kesulitan Easy, pastikan tingkat kesulitan Normalmu sedikit lebih sulit dari tingkat kesulitan Easymu, pastinya.
 
-^^Yah, apabila kamu tidak meletakkan slider 1/4 di mana mana. Atau slider 1/2 juga dalam hal tersebut. Salah satu [anggota BAT](/wiki/People/Beatmap_Nomination_Group) pernah dibuat marah melalui PM (Pesan Pribadi) mengenai hal ini.
+^^Yah, apabila kamu tidak meletakkan slider 1/4 di mana mana. Atau slider 1/2 juga dalam hal tersebut. Salah satu [anggota BAT](/wiki/The_Team/Beatmap_Nomination_Group) pernah dibuat marah melalui PM (Pesan Pribadi) mengenai hal ini.
 
-Bila masih ada beberapa hal yang kurang jelas mengenai hal ini, bisa langsung menghubungi pada beberapa mapper yang memang sudah bisa dan bisa juga langsung menghubungi anggota [BNG](/wiki/People/Beatmap_Nomination_Group) untuk beberapa pencerahan mengenai cara mapping tingkat kesulitan Normal.
+Bila masih ada beberapa hal yang kurang jelas mengenai hal ini, bisa langsung menghubungi pada beberapa mapper yang memang sudah bisa dan bisa juga langsung menghubungi anggota [BNG](/wiki/The_Team/Beatmap_Nomination_Group) untuk beberapa pencerahan mengenai cara mapping tingkat kesulitan Normal.

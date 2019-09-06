@@ -8,14 +8,14 @@ outdated: true
 
 ## Bubble (버블) ![Thinking icon](/wiki/shared/icon/bubble.gif "Thinking icon")
 
-[BAT/뱃이](/wiki/People/Beatmap_Nomination_Group) 부여하는 Ranked에 속하기 전 단계로, 반드시 거치지 않으면 안됩니다. 보면을 랭크시키기 위해서는 우선 12[별점](/wiki/Glossary/#star-priority) (또는SP/CP)를 유지해야하고, 두가지의 방법에 의해 SP를 획득할 수 있습니다. 첫번째 방법은, 다른사람이 당신의 비트맵을 mod하는것입니다. 만약 당신이 그들의 mod가 도움이 되었다 생각한다면, [kudosu/쿠도수를](/wiki/Glossary/#kudosu) 상대방에게 지급하여 1SP를 획득할 수 있습니다. 당신, 또는 다른 사람들이 당신의 비트맵에 kudosu를 소비하는 것으로 "star"가 추가됩니다.(1개의 star로 1kudosu, [매퍼의](/wiki/Glossary/#beatmapper) 프로필, 또는 [비트맵](/wiki/Beatmaps) 스레드에서 확인가능, 비트맵이 적어도 12SP를 획득하였을 때, [BAT/뱃이](/wiki/People/Beatmap_Nomination_Group) 두가지의 상태를 보고 좋다고 판단할 경우에 Bubble을 부여하게 됩니다.
+[BAT/뱃이](/wiki/The_Team/Beatmap_Nomination_Group) 부여하는 Ranked에 속하기 전 단계로, 반드시 거치지 않으면 안됩니다. 보면을 랭크시키기 위해서는 우선 12[별점](/wiki/Glossary/#star-priority) (또는SP/CP)를 유지해야하고, 두가지의 방법에 의해 SP를 획득할 수 있습니다. 첫번째 방법은, 다른사람이 당신의 비트맵을 mod하는것입니다. 만약 당신이 그들의 mod가 도움이 되었다 생각한다면, [kudosu/쿠도수를](/wiki/Glossary/#kudosu) 상대방에게 지급하여 1SP를 획득할 수 있습니다. 당신, 또는 다른 사람들이 당신의 비트맵에 kudosu를 소비하는 것으로 "star"가 추가됩니다.(1개의 star로 1kudosu, [매퍼의](/wiki/Glossary/#beatmapper) 프로필, 또는 [비트맵](/wiki/Beatmaps) 스레드에서 확인가능, 비트맵이 적어도 12SP를 획득하였을 때, [BAT/뱃이](/wiki/The_Team/Beatmap_Nomination_Group) 두가지의 상태를 보고 좋다고 판단할 경우에 Bubble을 부여하게 됩니다.
 
 1.  첫번째로 비트맵이 [Ranking Criteria/랭킹 크리테리아를](/wiki/Ranking_Criteria) 만족하고 있는가. 이는 기본적으로 정확한 [timing/타이밍과](/wiki/Beatmap_Editor/Timing) 최저 두개의 [difficulties/난이도](/wiki/Difficulties) ([Easy/이지](/wiki/Difficulties/osu!/Easy) 또는 [Normal/노말](/wiki/Difficulties/osu!/Normal)), 그리고 전체적으로 플레이가 가능한가를 보게 됩니다.
 2.  Ranking Criteria이외의 부분에서도 질적으로 충분한가. 예를들어 슬라이드가 매우 지저분하다면 BAT는 Bubble을 부여하기 전 깨끗하게 할 것을 요구합니다.
 
 ### 다른 모드의 Bubble (버블)
 
-Mode-Specific Bubble은 2개 이상의 모드가 섞인 맵셋의 특정한 모드에 적용되는 Bubble입니다. 각 모드의 Bubble 기준은 각 [Ranking Criteria/랭킹 크리테리아에](/wiki/Ranking_Criteria) 따라 차이가 있지만, 각 모드를 담당한/가능한 한 그 모드의 전용 BAT만이 Bubble을 줄 수 있습니다. 이용가능한 BAT의 리스트는 다음부분을 참조하여주십시오. [BAT/뱃 리스트](/wiki/People/Beatmap_Nomination_Group), 또는 [해당 포스트](https://osu.ppy.sh/community/forums/posts/2430411).
+Mode-Specific Bubble은 2개 이상의 모드가 섞인 맵셋의 특정한 모드에 적용되는 Bubble입니다. 각 모드의 Bubble 기준은 각 [Ranking Criteria/랭킹 크리테리아에](/wiki/Ranking_Criteria) 따라 차이가 있지만, 각 모드를 담당한/가능한 한 그 모드의 전용 BAT만이 Bubble을 줄 수 있습니다. 이용가능한 BAT의 리스트는 다음부분을 참조하여주십시오. [BAT/뱃 리스트](/wiki/The_Team/Beatmap_Nomination_Group), 또는 [해당 포스트](https://osu.ppy.sh/community/forums/posts/2430411).
 
 ## Popped Bubble (버블 팝) ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 

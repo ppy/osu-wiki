@@ -15,7 +15,7 @@ Avant qu’une beatmap puisse être rankée par un BAT, elle doit tout d’abord
 
 ### Bubbles spécifiques à un mode
 
-Les bubbles spécifiques à un mode ne s’appliquent qu’aux mapsets hybrides contenant différents modes. Les critères d’attribution de ces bubbles sont dictés par leurs [Ranking Criteria](/wiki/Ranking_Criteria) respectifs. Néanmoins, seuls les BAT spécifiques à ces modes peuvent les attribuer. Une liste des différents BAT disponibles peut être trouvée sur [cet article](/wiki/People/Beatmap_Nomination_Group) ou [ce post](https://osu.ppy.sh/community/forums/posts/2430411).
+Les bubbles spécifiques à un mode ne s’appliquent qu’aux mapsets hybrides contenant différents modes. Les critères d’attribution de ces bubbles sont dictés par leurs [Ranking Criteria](/wiki/Ranking_Criteria) respectifs. Néanmoins, seuls les BAT spécifiques à ces modes peuvent les attribuer. Une liste des différents BAT disponibles peut être trouvée sur [cet article](/wiki/The_Team/Beatmap_Nomination_Group) ou [ce post](https://osu.ppy.sh/community/forums/posts/2430411).
 
 ## Popped bubble ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 

@@ -16,7 +16,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 | **White**  | Ty    |
 | **Pale**   | Zwykli użytkownicy     |
 | **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter/ "Status donatora osu!")   |
-| **Red**    | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team/ "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team/ "Zespół zapewniania jakości")  |
+| **Red**    | [Moderatorzy globalni](/wiki/The_Team/Global_Moderation_Team/ "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/The_Team/Quality_Assurance_Team/ "Zespół zapewniania jakości")  |
 | **Green**  | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Blue**   | Wiadomość prywatna  |
 | **Cyan**   | [peppy](https://osu.ppy.sh/users/2 "peppy"), twórca osu!  |

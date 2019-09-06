@@ -57,12 +57,12 @@ La mayoría de estos grupos de usuarios reciben distintivos colores en el nombre
 
 | Nombre | Descripción |
 | ---- | ----------- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Vigilando los foros y el chat en el juego |
-| [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Encargados de la calificación de beatmaps |
+| [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team) | Vigilando los foros y el chat en el juego |
+| [Beatmap Nomination Group](/wiki/The_Team/Beatmap_Nomination_Group) | Encargados de la calificación de beatmaps |
 | [Developers](https://osu.ppy.sh/groups/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |
-| [osu! Alumni](/wiki/People/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
-| [Support Team Redux](/wiki/People/Support_Team) | Asistencia en foros de ayuda |
-| [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Te ayudamos a disfrutar de osu!, empezando por asegurar la calidad de los beatmaps. |
+| [osu! Alumni](/wiki/The_Team/osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
+| [Support Team Redux](/wiki/The_Team/Support_Team) | Asistencia en foros de ayuda |
+| [Quality Assurance Team](/wiki/The_Team/Quality_Assurance_Team) | Te ayudamos a disfrutar de osu!, empezando por asegurar la calidad de los beatmaps. |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"

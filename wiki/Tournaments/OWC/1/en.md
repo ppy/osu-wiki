@@ -10,7 +10,7 @@ tags:
 
 ![OWC #1 Logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 1st installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) is a country-based osu! tournament hosted by the [osu! team](/wiki/The_Team). It is the 1st installment of the osu! World Cup.
 
 ## Tournament Schedule
 

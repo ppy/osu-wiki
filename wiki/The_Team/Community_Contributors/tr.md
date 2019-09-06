@@ -8,7 +8,7 @@ outdated: true
 
 **Topluluk İştirakçıları** [osu!](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-Eskiden osu!takım üyeleri olan ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp osu! ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
+Eskiden osu!takım üyeleri olan ([GMT](/wiki/The_Team/Global_Moderation_Team), [QAT](/wiki/The_Team/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp osu! ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
 
 Bu tabloda bu rozete sahip mevcut kullanıcılar listelenmiştir:
 
@@ -31,7 +31,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | [beatmap paketlemede](https://osu.ppy.sh/p/packlist) hiç yorulmadan sessizce 3 yılı aşkın verilen emek ve beatmap listelerinde birkaç yıllık çalışma. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmpap skini tasarımı, [storyboard yapımının](/wiki/Storyboards) bşr sanat olarak gelişmesi ve motivasyon kaynağı olmak gibi yıllar boyu verilen hizmet. |
 | [awp](https://osu.ppy.sh/users/2650) | Zamanında yaptığı bütün katkılar, başlangıçta topluluk yönetimi ve moderasyonunda katkıları. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | İlk topluluk yöneticisi ve global moderatör olarak kendisinden sonra gelecek olan [GMT](/wiki/People/Global_Moderation_Team) için çıtayı oldukça yükseltti. |
+| [Sinistro](https://osu.ppy.sh/users/5530) | İlk topluluk yöneticisi ve global moderatör olarak kendisinden sonra gelecek olan [GMT](/wiki/The_Team/Global_Moderation_Team) için çıtayı oldukça yükseltti. |
 | [Ivalset](https://osu.ppy.sh/users/827) | İlk ekip yöneticisi ve BATmanager olarak tek başına hiç yoktan elit bir beatmap moderasyon takımı kurdu. |
 
 ## Mart 2015

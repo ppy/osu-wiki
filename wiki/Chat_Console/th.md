@@ -12,7 +12,7 @@
 | **ขาว**                     | **คุณ**นั่นแหละ                                                                                                                                    |
 | **เหลืองอ่อน**              |  ไม่ใช่ Supporter                                                                                                                                   |
 | **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                                                                         |
-| **แดง**                     | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team/ "Global Moderation Team") หรือ [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team")                |
+| **แดง**                     | สมาชิก [Global Moderation Team](/wiki/The_Team/Global_Moderation_Team/ "Global Moderation Team") หรือ [Nomination Assessment Team](/wiki/The_Team/Nomination_Assessment_Team "Nomination Assessment Team")                |
 | **เขียวเข้ม**               | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
 | **น้ำเงิน**                 | คนที่ทักคุณในข้อความส่วนตัว (PM)                                                                                                                   |
 | **ฟ้า**                     | [peppy](https://osu.ppy.sh/users/2 "peppy") หรือผู้สร้าง osu!                                                                                                        |
