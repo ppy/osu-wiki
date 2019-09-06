@@ -49,6 +49,8 @@ Osoby przedstawione poniżej są trzonem zespołu osu!. Ich celem jest sprawieni
 
 ## Grupy
 
+Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami wspierają rozwój gry. Większość z nich można rozpoznać poprzez kolor nazwy użytkownika na czacie lub forum, tytuł na profilu lub odznakę.
+
 | Nazwa | Opis |
 | ---- | ----------- |
 | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) | Sprawowanie nadzoru nad czatem i forum |

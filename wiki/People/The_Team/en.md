@@ -60,6 +60,10 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 
 ## User Groups
 
+*For a list of promotions and retirements, see: [Staff Log](/wiki/People/Staff_Log)*
+
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized with their forum name colours, in-game chat colours, profile titles, and/or profile badges.
+
 | Name | Description |
 | :-- | :-- |
 | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
