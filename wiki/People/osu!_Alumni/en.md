@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square.
@@ -83,6 +87,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Chat Moderator |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | GMT and QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
@@ -206,10 +211,12 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Support Team |
 | ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ![][flag_AU] [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |
 | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484) | BAT |
+| ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder |

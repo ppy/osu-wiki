@@ -12,6 +12,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 | Name | Role |
 | :-- | :-- |
+| ![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** | **Project manager** |
 | ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861) | osu!taiko captain |
 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) | osu! captain |
 | ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691) | osu! captain |
@@ -25,11 +26,11 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Beatmap metadata expert |
 | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | osu!taiko captain |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) | osu!mania captain |
+| ![][flag_GB] [PsychoStatic](https://osu.ppy.sh/users/7291594) | Video editor |
 | ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | osu!catch captain |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania captain |
 | ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600) | osu!catch captain |
 | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) | osu!mania captain |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project manager |
 | ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453) | osu! captain |
 | ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265) | osu!catch captain |
 | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | osu!catch captain |

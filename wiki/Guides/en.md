@@ -9,7 +9,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Adding Custom Hit Sounds](/wiki/Adding_Custom_Hit_Sounds)
 - [Audio Editing](/wiki/Audio_Editing)
 - [Changing the Artist or Title](/wiki/Changing_the_Artist_or_Title)
-- [Changing the Title Text](/wiki/Changing_the_Title_Text)
+- [Changing the Title Text](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Collab Information](/wiki/Collab_Information)
 - [Compressing Files](/wiki/Compressing_Files)
 - [Custom Hit Sound Library](/wiki/Custom_Hit_Sound_Library)

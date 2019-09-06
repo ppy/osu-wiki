@@ -116,7 +116,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
 | `Resolution` | Set the game client resolution. The listed resolutions differ per monitor. | Dropdown |  |
-| `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Disabled` |
+| `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
 | `Letterboxing` | Run the game client in fullscreen (usually decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black borders. | Checkbox | `Enabled` |
 | `Horizontal offset` | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
 | `Vertical offset` | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |

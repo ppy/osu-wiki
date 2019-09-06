@@ -147,3 +147,51 @@ All users listed below were added on 2019-02-16.
 - [MBomb](https://osu.ppy.sh/users/3071175) - resignation (2019-06-23)
 - [Greenshell](https://osu.ppy.sh/users/8693851) - resignation (2019-06-26)
 - [_Epreus](https://osu.ppy.sh/users/7342798) - resignation (2019-06-29)
+
+## July
+
+- Moved [Spkz](https://osu.ppy.sh/users/2964029) to the osu! Alumni (2019-07-13)
+
+### Beatmap Nominator additions
+
+- [Trynna](https://osu.ppy.sh/users/2652951) (2019-07-04)
+- [Lacrima](https://osu.ppy.sh/users/4915649) (2019-07-06)
+- [JeirYagtama](https://osu.ppy.sh/users/7483452) (2019-07-06)
+- [Uberzolik](https://osu.ppy.sh/users/1314547) (2019-07-20)
+- [-Ziel-](https://osu.ppy.sh/users/6866022) (2019-07-28)
+
+### Beatmap Nominator removals
+
+- [Stefan](https://osu.ppy.sh/users/626907) - resignation (2019-07-17)
+- [NeilPerry](https://osu.ppy.sh/users/841391) - resignation (2019-07-22)
+- [Testo](https://osu.ppy.sh/users/5200881) - resignation (2019-07-22)
+
+## August
+
+- Added [Pachiru](https://osu.ppy.sh/users/2850983) to the Global Moderation Team (2019-08-15)
+- Added [Nepuri](https://osu.ppy.sh/users/6637817) to the Nomination Assessment Team (2019-08-16)
+- Added [Noffy](https://osu.ppy.sh/users/1541323) to the Nomination Assessment Team (2019-08-25)
+
+### Beatmap Nominator Additions
+
+- [Namki](https://osu.ppy.sh/users/5248582) (2019-08-01)
+- [tailsdk](https://osu.ppy.sh/users/6751666) (2019-08-17)
+- [greenhue](https://osu.ppy.sh/users/4967662) (2019-08-17)
+- [Teky](https://osu.ppy.sh/users/10520912) (2019-08-17)
+- [chickenbible](https://osu.ppy.sh/users/2306637) (2019-08-17)
+- [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-08-25)
+- [Sonnyc](https://osu.ppy.sh/users/11771) (2019-08-28)
+
+### Beatmap Nominator Removals
+
+- [Nokashi](https://osu.ppy.sh/users/5431196) - inactivity (2019-08-05)
+- [-Luminate](https://osu.ppy.sh/users/4778689) - resignation (2019-08-07)
+- [Agatsu](https://osu.ppy.sh/users/5579871) - insufficient proficiency (2019-08-11)
+- [Dellvangel](https://osu.ppy.sh/users/5186244) - inactivity (2019-08-18)
+- [UndeadCapulet](https://osu.ppy.sh/users/2523533) - resignation (2019-08-26)
+- [Kqrth](https://osu.ppy.sh/users/4115718) - insufficient proficiency (2019-08-27)
+
+## September
+
+- Moved [Zero__wind](https://osu.ppy.sh/users/1822830) to the osu! Alumni (2019-09-04)
+- Moved [Yason](https://osu.ppy.sh/users/2574392) to the osu! Alumni (2019-09-04)
