@@ -11,7 +11,7 @@ Pour résoudre ce problème de duplication, suivez les étapes suivantes:
 La méthode facile (sans aucun changement local):
 
 1.  Supprimez la copie de votre beatmap.
-2.  Téléchargez la copie a partir du site web d'osu!.
+2.  Téléchargez la copie à partir du site web d'osu!.
 3.  Rendez vous dans l'éditeur d'osu!. Vérifiez que le menu "Web" est accessible (et pas grisé).
 4.  Changez l'artiste et/ou le titre.
 5. Ne **sortez pas** de l'éditeur.
