@@ -1,6 +1,6 @@
 # Skinning
 
-Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de dériver des éléments de skinning originaux pour créer les leurs! Les skins peuvent varier d’être amusants, thématiques, PRO ou presque impossibles à jouer.
+Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de modifier les des éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent amusant, ou pour des skins de pro, avec des thèmes mais aussi.
 
 ## Skinning sets
 
@@ -16,7 +16,7 @@ Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux jo
 
 La liste des éléments de skinning est divisée en ces catégories:
 
-- [Skinning Interface](/wiki/Skinning/Interface)
+- [Skinning d'interface](/wiki/Skinning/Interface)
 - [Skinning osu!standard](/wiki/Skinning/osu!)
 - [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning osu!catch](/wiki/Skinning/osu!catch)
