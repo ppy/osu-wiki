@@ -1,5 +1,6 @@
 ---
 layout: "main_page"
+outdated: true
 ---
 
 """
