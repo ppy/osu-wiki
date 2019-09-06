@@ -2,7 +2,7 @@
 
 [*Repris du post Title/Artist Change -- Mistakes* par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)
 
-Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut être constaté, et qui a pour conséquence de vous rendre impossible la publication de cette dernière sans la dupliquer.
+Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, et qui rendra la publication de cette dernière impossible sans la dupliquer.
 
 **NE PUBLIEZ PAS SI LE MENU "WEB" DE L'EDITEUR EST DESACTIVE, CAR VOTRE BEATMAP SERAIT DUPLIQUEE.**
 
