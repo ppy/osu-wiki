@@ -25,7 +25,7 @@ La méthode compliquée (en gardant les changements locaux):
 3.  Rendez vous dans le menu de sélection des beatmaps et appuyez sur `F5`. Attendez quelques secondes.
 4.  Retournez dans l'éditeur. Vérifiez que le menu "Web" est activé (et pas grisé).
 5.  Changez l'artiste/le titre.
-6.  **Ne SORTEZ PAS de l'éditeur.**
+6.  **Ne sortez pas de l'éditeur.**
 7.  Naviguez dans les menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
 8.  Publiez la beatmap.
 
