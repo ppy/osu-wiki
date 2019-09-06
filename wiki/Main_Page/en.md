@@ -5,7 +5,7 @@ blurb: "The osu! wiki is a project based on the contributions of people from osu
 """
 # Getting Started
 
-[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Center](/wiki/Help_Center)
+[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
 """
 
 """
