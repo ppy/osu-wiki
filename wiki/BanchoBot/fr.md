@@ -14,7 +14,7 @@ Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commande
 
 Ils peuvent être utilisés dans les canaux de discussion multijoueurs et dans l'onglet MP (message privé) de BanchoBot. 
 
-Si un utilisateur normal envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
+Si un utilisateur envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
 
 Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet avec BanchoBot et envoyer la commande immédiatement.
 
@@ -71,11 +71,11 @@ BanchoBot: pippi rolls 109 point(s)
 
 Affiche les statistiques de l'utilisateur entré. 
 
-Les statistiques résultantes dépendent du mode dans lequel elles sont jouées ou de la dernière fois.
+Les statistiques affichées dépendent du mode dans lequel elles sont jouées ou de la dernière fois.
 
 *Remarque: BanchoBot ne vous dira pas de quel mode de jeu proviennent les statistiques.*
 
-*Avis: BanchoBot répondra avec `User not found` si l'utilisateur n'a jamais joué une partie, même si l'utilisateur existe.*
+*Avis: BanchoBot répondra avec `User not found` si l'utilisateur n'a jamais joué, même si l'utilisateur existe.*
 
 #### Exemples d'utilisation
 
@@ -134,7 +134,7 @@ Lorsque des utilisateurs normaux l'utilisent dans un canal public, la réponse s
 ```
 pippi: !faq peppy
 
-BanchoBot: peppy est le développeur principal et en fait, le créateur d'osu! et gère la plupart du projet lui-même.
+BanchoBot: peppy est le développeur principal ainsi que le créateur d'osu! et gère la plupart du projet lui-même.
 ```
 
 ```
@@ -151,7 +151,7 @@ Tama: ok
 
 ### REPORT
 
-*Notice: Si vous souhaitez signaler un modérateur, envoyez un courrier électronique à [support@ppy.sh](mailto:support@ppy.sh) pour les plaintes du modérateur.*
+*Notice: Si vous souhaitez signaler un modérateur, envoyez un e-mail à [support@ppy.sh](mailto:support@ppy.sh).*
 
 *Remarque: vous pouvez également utiliser la carte d’utilisateur pour signaler un utilisateur.*
 
@@ -161,7 +161,7 @@ Tama: ok
 
 *Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`).*
 
-Envoie un rapport à [L'Equipe Mondiale de Modération](/wiki/Global_Moderation_Team) ou les [Modérateurs de Langues](/wiki/Language_Moderators).
+Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou les [Modérateurs par langues](/wiki/Language_Moderators).
 
 #### Exemple d'utilisation
 
