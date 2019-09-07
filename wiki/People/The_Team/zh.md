@@ -1,17 +1,22 @@
+---
+outdated: true
+---
+<!-- outdated 2019-09-06 because the description, name and link for QAT needs to change to NAT. also the article title should be translated -->
+
 # The Team
 
 以下列出的玩家是 osu!team 的核心成员，并且致力于让这个游戏变得更有趣。
 
 ## 游戏创建者
 
-| 昵称                                             | 介绍       |
-| ------------------------------------------------ | ---------- |
+| 昵称 | 介绍 |
+| :-- | :-- |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 项目领头人 |
 
 ## 活跃
 
-| 名 | 描述 |
-| ---- | ----------- |
+| 昵称 | 介绍 |
+| :-- | :-- |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation<!--NT--> 和社区的顾问 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护和[精选艺术家](https://osu.ppy.sh/beatmaps/artists)的推广 |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | 首席设计师、Creative Cloud 常任观察员 |
@@ -35,8 +40,8 @@
 
 ## 不活跃
 
-| 名 | 描述 |
-| ---- | ----------- |
+| 昵称 | 介绍 |
+| :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助, 游戏/网页上“Chibi”的美术设计，[Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯的组织和管理者 |
@@ -61,7 +66,7 @@
 ## 用户组
 
 | 名 | 描述 |
-| ---- | ----------- |
+| :-- | :-- |
 | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | 使你的图能够上架的玩家 |
 | [Developers](https://osu.ppy.sh/groups/11) | 通过添加新功能和修复 bugs 使游戏变得有趣 |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | 管理论坛和聊天室 |
@@ -70,18 +75,18 @@
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | 通过审核将要上架谱面的质量，提升你的 osu! 体验 |
 | [Support Team](/wiki/People/Support_Team) | 处理帮助/新功能请求的助手 |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
