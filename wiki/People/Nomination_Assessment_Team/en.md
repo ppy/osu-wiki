@@ -21,6 +21,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
 
 ### osu!taiko
@@ -56,3 +57,4 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
