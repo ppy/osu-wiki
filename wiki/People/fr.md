@@ -1,6 +1,6 @@
 # L'Équipe
 
-*For a list of promotions and retirements, see: [Staff Log](/wiki/People/Staff_Log)*
+*Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/People/Staff_Log)*
 
 Les groupes d'utilisateurs suivants représentent les membres de la communauté qui aident à maintenir osu!. La plupart de ces groupes peuvent être reconnus grâce à la couleur de leur pseudonyme ou de leur texte dans le chat, leur photo de profil et/ou le(s) badge(s) présent(s) sur leur profil.
 
