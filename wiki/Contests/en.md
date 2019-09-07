@@ -60,6 +60,80 @@ Notes:
 
 A gallery of some of the older contests can be found at the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums).
 
+## Best of
+
+"Best of" is a yearly voting contest out to pick the best beatmap in the given year. It was succeeded by [Community Choice](#community-choice) starting 2017.
+
+### 2009
+
+- [Results](https://osu.ppy.sh/community/forums/topics/22162)
+- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=8)
+- Download (Mediafire):
+  - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
+  - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
+
+### 2010
+
+- [Results (table text file)](https://puu.sh/Fju)
+  - [Forum](https://osu.ppy.sh/community/forums/topics/43834)
+- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=20)
+- Download (Mediafire):
+  - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
+  - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
+
+### 2011
+
+- [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
+- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=45)
+- Download (Mediafire):
+  - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
+  - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+
+### 2012
+
+- [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
+- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=68) (First 31 songs. 21 ranked, 10 approved)
+
+### 2013
+
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=85)
+- Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
+
+Notes:
+
+- First time in the series expand to cover osu!taiko, osu!catch, and osu!mania (Top 10 only).
+- First time in the series to also cover linkless beatmaps.
+
+### 2014
+
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
+
+### 2015
+
+- [News Results](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
+- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
+
+Notes:
+
+- First time in the series to enforce that at least one beatmap in the beatmapset must be played and passed to be votable.
+  - As such, it is entirely possible to get an empty list of votable beatmapset.
+- First time in the series to use a weighting system.
+
+### 2016
+
+- [News Results](https://osu.ppy.sh/home/news/2017-02-16-best-of-2016-results)
+
+Notes:
+
+- Begin of this year, a formula was used to weigh the votes based on the amount of times a player played a map and if they had passed or not.
+
+## Community Choice
+
+For the Community Choice contest information, see: [the website's contests page](https://osu.ppy.sh/community/contests).
+
+Community Choice is the successor of the "Best of" contests.
+
 ## osu!idol
 
 osu!idol is a contest where contestants as a solo or a duet sing their way through multiple stages with different genres. Official judges and the community will take over and vote to determine the winner.
