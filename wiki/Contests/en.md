@@ -3,10 +3,13 @@
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
 [o!m]: /wiki/shared/mode/mania.png
+[GCrown]: /wiki/shared/GCrown.png "First Place"
+[SCrown]: /wiki/shared/SCrown.png "Second Place"
+[BCrown]: /wiki/shared/BCrown.png "Third Place"
 
 # Contests
 
-This article lists contests that are not listed on the [website's contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016).
+This article lists contests that are not listed on the [website's contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other community-ran contests).
 
 ## Official Beatmapping Contests
 
@@ -102,11 +105,6 @@ A gallery of some of the older contests can be found at the [Facebook page](http
 - [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=85)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 
-Notes:
-
-- First time in the series expand to cover osu!taiko, osu!catch, and osu!mania (Top 10 only).
-- First time in the series to also cover linkless beatmaps.
-
 ### 2014
 
 - [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
@@ -116,19 +114,9 @@ Notes:
 - [Results (News)](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
 - [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-Notes:
-
-- First time in the series to enforce that at least one beatmap in the beatmapset must be played and passed to be votable.
-  - As such, it is entirely possible to get an empty list of votable beatmapset.
-- First time in the series to use a weighed voting system.
-
 ### 2016
 
 - [Results (News)](https://osu.ppy.sh/home/news/2017-02-16-best-of-2016-results)
-
-Notes:
-
-- A formula was used to weigh the votes, based on the amount of times a player played a beatmap and if they had passed it or not.
 
 ## Community Choice
 
@@ -144,9 +132,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | --- | --- | --- |
-| First | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345) |
-| Second | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
-| Third | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
+| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345) |
+| ![Silver Crown][SCrown] | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
+| ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
 - [News post](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open)
@@ -157,9 +145,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | --- | --- | --- |
-| First | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
-| Second | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
-| Third | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
+| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
+| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
@@ -170,9 +158,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artist |
 | --- | --- | --- |
-| First | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w)                 |
-| Second | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn)              | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs)        |
-| Third | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk)        | [Error](https://www.youtube.com/watch?v=IF8kySIcWNw)        |
+| ![Gold Crown][GCrown] | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w) |
+| ![Silver Crown][SCrown] | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn) | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs) |
+| ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk) | [Error](https://www.youtube.com/watch?v=IF8kySIcWNw) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
@@ -183,9 +171,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artist |
 | --- | --- | --- |
-| First | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3) | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw) |
-| Second | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3) | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc) |
-| Third | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3) | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE) |
+| ![Gold Crown][GCrown] | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3) | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw) |
+| ![Silver Crown][SCrown] | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3) | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc) |
+| ![Bronze Crown][BCrown] | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3) | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
 - [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
@@ -196,9 +184,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artist |
 | --- | --- | --- |
-| First | [Will Stetson](https://osu.ppy.sh/users/4909088) - [Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3) | [Omoi](https://www.youtube.com/watch?v=mf4nO-g9vwE) |
-| Second | [Zeva[FL]](https://osu.ppy.sh/users/2805170) - [My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3) | [Chris Kirkpatrick](https://www.youtube.com/watch?v=0BVwxMIUK1o) |
-| Third | [MjIsMaster](https://osu.ppy.sh/users/9922896) - [Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3) | [The Romantics](https://www.youtube.com/watch?v=JmGMzyajA2U) |
+| ![Gold Crown][GCrown] | [Will Stetson](https://osu.ppy.sh/users/4909088) - [Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3) | [Omoi](https://www.youtube.com/watch?v=mf4nO-g9vwE) |
+| ![Silver Crown][SCrown] | [Zeva[FL]](https://osu.ppy.sh/users/2805170) - [My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3) | [Chris Kirkpatrick](https://www.youtube.com/watch?v=0BVwxMIUK1o) |
+| ![Bronze Crown][BCrown] | [MjIsMaster](https://osu.ppy.sh/users/9922896) - [Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3) | [The Romantics](https://www.youtube.com/watch?v=JmGMzyajA2U) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1BzmspQSE_umaAhfS63zYnBT4DqlnD5QQK7TciYqJoGo/edit#gid=495757546)
 - [News post](https://osu.ppy.sh/home/news/2018-07-01-osu-idol-2018-auditions-now-open)
@@ -215,65 +203,65 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 
 #### Pending Cup \#1 (2013)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | TERRA - 華爛漫 -Flowers-               | [buhei](https://osu.ppy.sh/users/1371514)          | [Flask](https://osu.ppy.sh/users/959763)           | [Nyquill](https://osu.ppy.sh/users/682935)         |
-| 2         | 葉月ゆら - 宵闇花火                     | [Lan Wings](https://osu.ppy.sh/users/467860)       | [Kotone](https://osu.ppy.sh/users/26507)           | [Regou](https://osu.ppy.sh/users/419954)           |
-| 3         | An - アートコア神社                     | [Flower](https://osu.ppy.sh/users/1033017)         | [Amamiya Yuko](https://osu.ppy.sh/users/873961)    | [Regou](https://osu.ppy.sh/users/419954)           |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | TERRA - 華爛漫 -Flowers- | [buhei](https://osu.ppy.sh/users/1371514) | [Flask](https://osu.ppy.sh/users/959763) | [Nyquill](https://osu.ppy.sh/users/682935) |
+| 2 | 葉月ゆら - 宵闇花火 | [Lan Wings](https://osu.ppy.sh/users/467860) | [Kotone](https://osu.ppy.sh/users/26507) | [Regou](https://osu.ppy.sh/users/419954) |
+| 3 | An - アートコア神社 | [Flower](https://osu.ppy.sh/users/1033017) | [Amamiya Yuko](https://osu.ppy.sh/users/873961) | [Regou](https://osu.ppy.sh/users/419954) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/135492)
 - [Results post](https://osu.ppy.sh/community/forums/topics/152966)
 
 #### Pending Cup \#2 (2014)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | Sharlo & Sabbo - 桜の花が舞い落ちるとき  | [Loneight](https://osu.ppy.sh/users/663131)        | [Macuilxochitl](https://osu.ppy.sh/users/418699)   | [eveless](https://osu.ppy.sh/userssers/102976)         |
-| 2         | 木製みゅーと - 七つ一旋桜                | [OSUtoto](https://osu.ppy.sh/users/847182)         | [bo0O0od](https://osu.ppy.sh/users/530547)         | [Kawaiwkyik](https://osu.ppy.sh/users/1367570)     |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | Sharlo & Sabbo - 桜の花が舞い落ちるとき | [Loneight](https://osu.ppy.sh/users/663131) | [Macuilxochitl](https://osu.ppy.sh/users/418699) | [eveless](https://osu.ppy.sh/userssers/102976) |
+| 2 | 木製みゅーと - 七つ一旋桜 | [OSUtoto](https://osu.ppy.sh/users/847182) | [bo0O0od](https://osu.ppy.sh/users/530547) | [Kawaiwkyik](https://osu.ppy.sh/users/1367570) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/229019)
 - [Results post](https://osu.ppy.sh/community/forums/topics/243930)
 
 #### Pending Cup \#3 (2015)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 挨批熊 - 权御天下                       | [Regraz](https://osu.ppy.sh/users/3076909)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [jonathanlfj](https://osu.ppy.sh/users/270377)     |
-| 2         | 削除 - Imprinting                      | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017)        |
-| 3         | P*Light - YELLOW SPLASH!!              | [fanzhen0019](https://osu.ppy.sh/users/418699)     | [yf_bmp](https://osu.ppy.sh/users/1243669)         | [Minakami Yuki](https://osu.ppy.sh/users/2433507)  |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | 挨批熊 - 权御天下 | [Regraz](https://osu.ppy.sh/users/3076909) | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [jonathanlfj](https://osu.ppy.sh/users/270377) |
+| 2 | 削除 - Imprinting | [yf_bmp](https://osu.ppy.sh/users/1243669) | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017) |
+| 3 | P*Light - YELLOW SPLASH!! | [fanzhen0019](https://osu.ppy.sh/users/418699) | [yf_bmp](https://osu.ppy.sh/users/1243669) | [Minakami Yuki](https://osu.ppy.sh/users/2433507) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/345263)
 - [Results post](https://osu.ppy.sh/community/forums/topics/373843)
 
 #### Pending Cup \#4 (2016)
 
-| Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | ClariS - SECRET                               | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [handsome](https://osu.ppy.sh/users/2123087)       | [Snowy Wings](https://osu.ppy.sh/users/2234810)    |
-| 2         | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [rui](https://osu.ppy.sh/users/74313)              | [yf_bmp](https://osu.ppy.sh/users/1243669)         |
-| 3         | Dollscythe - Flashes (Extended)               | [Skystar](https://osu.ppy.sh/users/873961)         | [Level9](https://osu.ppy.sh/users/7232130)         | [Frostings](https://osu.ppy.sh/users/2652543)      |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | ClariS - SECRET | [FreeSongs](https://osu.ppy.sh/users/2116792) | [handsome](https://osu.ppy.sh/users/2123087) | [Snowy Wings](https://osu.ppy.sh/users/2234810) |
+| 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792) | [rui](https://osu.ppy.sh/users/74313) | [yf_bmp](https://osu.ppy.sh/users/1243669) |
+| 3 | Dollscythe - Flashes (Extended) | [Skystar](https://osu.ppy.sh/users/873961) | [Level9](https://osu.ppy.sh/users/7232130) | [Frostings](https://osu.ppy.sh/users/2652543) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/482629)
 - [Results post](https://osu.ppy.sh/community/forums/topics/504645)
 
 #### Pending Cup \#5 (2017)
 
-| Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 霜月はるか - 白夜幻想谭        | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Level9](https://osu.ppy.sh/users/7232130)       | [Kibbleru](https://osu.ppy.sh/users/3193504)    |
-| 2         | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552)      | [Garden](https://osu.ppy.sh/users/2849992)              | [Ellyu](https://osu.ppy.sh/users/4438154)         |
-| 3         | かめりあ - Chirality             | [Suzuki_1112](https://osu.ppy.sh/users/3170678)         | [Miura](https://osu.ppy.sh/users/4990362)         | [\[ Drop \]](https://osu.ppy.sh/users/2391299)      |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | 霜月はるか - 白夜幻想谭 | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Level9](https://osu.ppy.sh/users/7232130) | [Kibbleru](https://osu.ppy.sh/users/3193504) |
+| 2 | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Garden](https://osu.ppy.sh/users/2849992) | [Ellyu](https://osu.ppy.sh/users/4438154) |
+| 3 | かめりあ - Chirality | [Suzuki_1112](https://osu.ppy.sh/users/3170678) | [Miura](https://osu.ppy.sh/users/4990362) | [\[ Drop \]](https://osu.ppy.sh/users/2391299) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/620182)
 - [Results post](https://osu.ppy.sh/community/forums/topics/640906)
 
 #### Pending Cup \#6 (2018)
 
-| Songs No. | Songs                                         | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 米津玄师 - LOSER                          | [Skystar](https://osu.ppy.sh/users/873961)      | [how2miss](https://osu.ppy.sh/users/4477199)       | [AIR](https://osu.ppy.sh/users/2070688)    |
-| 2         | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | [J1_](https://osu.ppy.sh/users/5918561)      | [yf_bmp](https://osu.ppy.sh/users/1243669)              | [Level9](https://osu.ppy.sh/users/7232130)         |
-| 3         | Sota Fujimori - ACCELERATE               | [Chaoslitz](https://osu.ppy.sh/users/3621552)         | [Koiyuki](https://osu.ppy.sh/users/2433507)         | [yf_bmp](https://osu.ppy.sh/users/1243669)      |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | 米津玄师 - LOSER | [Skystar](https://osu.ppy.sh/users/873961) | [how2miss](https://osu.ppy.sh/users/4477199) | [AIR](https://osu.ppy.sh/users/2070688) |
+| 2 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | [J1_](https://osu.ppy.sh/users/5918561) | [yf_bmp](https://osu.ppy.sh/users/1243669) | [Level9](https://osu.ppy.sh/users/7232130) |
+| 3 | Sota Fujimori - ACCELERATE | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Koiyuki](https://osu.ppy.sh/users/2433507) | [yf_bmp](https://osu.ppy.sh/users/1243669) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/775847)
 - [Results post](https://osu.ppy.sh/community/forums/topics/806794)
@@ -284,40 +272,40 @@ Newspaper Cup is an annually mapping contest which aims at attract normal player
 
 #### Newspaper Cup \#1 (2015)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | wa.vs ETIA. - Akasagarbha              | [tm1209](https://osu.ppy.sh/users/2775906)         | [Philosophy2](https://osu.ppy.sh/users/372256)     | [bread129988](https://osu.ppy.sh/users/2010665)    |
-| 2         | 猫叉Master - Far east nightbird        | [Narcissu](https://osu.ppy.sh/users/1826598)       | [JJburstOwO](https://osu.ppy.sh/users/1776055)     | [Kamio Misuzu](https://osu.ppy.sh/users/2041350)   |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | wa.vs ETIA. - Akasagarbha | [tm1209](https://osu.ppy.sh/users/2775906) | [Philosophy2](https://osu.ppy.sh/users/372256) | [bread129988](https://osu.ppy.sh/users/2010665) |
+| 2 | 猫叉Master - Far east nightbird | [Narcissu](https://osu.ppy.sh/users/1826598) | [JJburstOwO](https://osu.ppy.sh/users/1776055) | [Kamio Misuzu](https://osu.ppy.sh/users/2041350) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/272739)
 - [Results post](https://osu.ppy.sh/community/forums/topics/312154)
 
 #### Newspaper Cup \#2 (2016)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
-|-----------|----------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| 1         | 葉月ゆら - Eclipse Parade               | [LunaSaika](https://osu.ppy.sh/users/4018820)      | [FreeSongs](https://osu.ppy.sh/users/2116792)      | [Vert](https://osu.ppy.sh/users/3420746)           |
-| 2         | Sakuzyo - Laplace                      | [Hakurei Yoru](https://osu.ppy.sh/users/3280555)   | [liaoxingyao](https://osu.ppy.sh/users/3620963)    | [Kencho](https://osu.ppy.sh/users/3178411)     |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| --- | --- | --- | --- | --- |
+| 1 | 葉月ゆら - Eclipse Parade | [LunaSaika](https://osu.ppy.sh/users/4018820) | [FreeSongs](https://osu.ppy.sh/users/2116792) | [Vert](https://osu.ppy.sh/users/3420746) |
+| 2 | Sakuzyo - Laplace | [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | [liaoxingyao](https://osu.ppy.sh/users/3620963) | [Kencho](https://osu.ppy.sh/users/3178411) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/415669)
 - [Results post](https://osu.ppy.sh/community/forums/topics/432070)
 
 #### Newspaper Cup \#3 (2017)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
-|-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1         | 影翔鼓舞 - Oriental Blossom             | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118)       | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612)                 |
-| 2         | ESQUARIA - 寒椿 ～ Kantsubaki           | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390)       | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255)  |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
+| --- | --- | --- | --- |
+| 1 | 影翔鼓舞 - Oriental Blossom | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118) | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612) |
+| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390) | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/546038)
 - [Results post](https://osu.ppy.sh/community/forums/topics/570350)
 
 #### Newspaper Cup \#4 (2017)
 
-| Songs No. | Songs                                  | ![Gold Crown](/wiki/shared/GCrown.png "1st place")                                        | ![Silver Crown](/wiki/shared/SCrown.png "2nd place")                                      |
-|-----------|----------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1         | 葉月ゆら - サラマンドラの踊り子             | [Yugu](https://osu.ppy.sh/users/Yugu)           | [nika mika](https://osu.ppy.sh/users/nika%20mika)     |
-| 2         | P＊Light - SAY BAY                        | [Firika](https://osu.ppy.sh/users/Firika)       | [Yugu](https://osu.ppy.sh/users/Yugu)            |
+| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
+| --- | --- | --- | --- |
+| 1 | 葉月ゆら - サラマンドラの踊り子 | [Yugu](https://osu.ppy.sh/users/Yugu) | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
+| 2 | P＊Light - SAY BAY | [Firika](https://osu.ppy.sh/users/Firika) | [Yugu](https://osu.ppy.sh/users/Yugu) |
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/690824)
 - [Results post](https://osu.ppy.sh/community/forums/topics/721264)
