@@ -196,3 +196,8 @@ All users listed below were added on 2019-02-16.
 - Moved [Zero__wind](https://osu.ppy.sh/users/1822830) to the osu! Alumni (2019-09-04)
 - Moved [Yason](https://osu.ppy.sh/users/2574392) to the osu! Alumni (2019-09-04)
 - Added [Seto Kousuke](https://osu.ppy.sh/users/2857314) to the Nomination Assessment Team (2019-09-06)
+
+### Beatmap Nominator Additions
+
+- [Rhytoly](https://osu.ppy.sh/users/8121109) (2019-09-06)
+
