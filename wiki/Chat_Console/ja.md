@@ -24,7 +24,7 @@
 
 ## チャットコンソールの拡張機能
 
-*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy")[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi/ "Multiplayer")*それをカバーしています。
+*[osu!academy](/wiki/osu!academy "osu!academy")[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi/ "Multiplayer")*それをカバーしています。
 
 `F9`もしくは下部の`Show Chat`ボタンを押すことでosu!のほとんどの画面から拡張されたチャットコンソールを呼び出すことができます。加えてチャットコンソールの画面全体の余っている部分2/3に拡張されたコンソールが表示され、現在のログインしているユーザーの情報が表示されます。
 

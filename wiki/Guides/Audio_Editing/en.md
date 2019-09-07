@@ -2,7 +2,7 @@
 
 *See also: [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)*
 
-[osu!academy](/wiki/Announcements/osu!academy) covered this in [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
+[osu!academy](/wiki/osu!academy) covered this in [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
 That episode also contains how to install and use Audacity with LAME's `.mp3` export ability.
 
 This article serves as guide to help you do minor edits to your audio files for beatmapping purposes.

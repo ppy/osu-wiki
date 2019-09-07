@@ -29,7 +29,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 
 ## Rozszerzony czat
 
-*[Akademia osu!](/wiki/Announcements/osu!academy/ "Akademia osu!") podjęła temat rozszerzonego czatu w [odcinku 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) wraz z tematem [trybu wieloosobowego](/wiki/Multi/ "Tryb wielosobowy").*
+*[Akademia osu!](/wiki/osu!academy "Akademia osu!") podjęła temat rozszerzonego czatu w [odcinku 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) wraz z tematem [trybu wieloosobowego](/wiki/Multi/ "Tryb wielosobowy").*
 
 Okno z rozszerzonym czatem można otworzyć z większości miejsc w osu! poprzez naciśnięcie `F9` albo przycisku `Online Users` w prawym dolnym rogu ekranu. Oprócz klasycznego okna z czatem, w pozostałej części ekranu zostaną wyświetlone panele użytkowników, którzy są aktualnie online.
 
