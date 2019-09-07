@@ -148,7 +148,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) | Chinese |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan |
-| ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109) | Thai |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | Indonesian |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
@@ -202,6 +201,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
+| ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109) | Thai |
 
 #### osu!catch
 
