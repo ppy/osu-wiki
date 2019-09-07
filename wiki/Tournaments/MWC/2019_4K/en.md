@@ -43,7 +43,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Commentators | ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Commentators | ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -240,7 +240,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MO]: /wiki/shared/flag/MO.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
