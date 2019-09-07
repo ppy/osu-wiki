@@ -90,10 +90,10 @@ Conçu par [pyun](https://osu.ppy.sh/users/981534), Chirou est une des participa
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Taikonator, aussi connu comme Taikonator 3000, est un des participants au concours pour désigner la mascotte d'osu!taiko. Pour des raisons inconnus il est devenu populaire et une blague. Ses origines sont mystérieuses, malgré cela, il est un des plus unique par rapport aux autres soumissions de designs pour la mascotte osu!taiko et à fait son apparition dans diverses soumissions de fanart par les utilisateurs.
+Taikonator, aussi connu comme Taikonator 3000, est un des participants au concours pour désigner la mascotte d'osu!taiko. Pour des raisons inconnus il est devenu populaire par une blague. Ses origines sont mystérieuses, malgré cela, il est un des plus unique par rapport aux autres soumissions de designs pour la mascotte osu!taiko et à fait son apparition dans diverses soumissions de fanart par les utilisateurs.
 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
 
-Conçu par [crystalsuicine](https://osu.ppy.sh/users/9974), Tama est un des plus jeunes participants du concours pour désigner la mascotte osu!taiko agé seulement de 15 ans (ou elle ?), Tama a une grande passion pour les tambours taiko. Et des orages. Et spécialement des festivals, où elle attrape tous les takoyaki qu'elle peut trouver. Toujours prête à relever le défi, Tama cache un passé particulièrement mystérieux derrière son comportement juvénile.
+Conçu par [crystalsuicine](https://osu.ppy.sh/users/9974), Tama est un des plus jeunes participants du concours pour désigner la mascotte osu!taiko agé seulement de 15 ans, Tama a une grande passion pour les tambours taiko. Et des orages. Et spécialement des festivals, où elle attrape tous les takoyaki qu'elle peut trouver. Toujours prête à relever le défi, Tama cache un passé particulièrement mystérieux derrière son comportement juvénile.

@@ -33,8 +33,8 @@
 Pour voir les fanarts de pippi :
 
 - [Résultats du premier concours de Fanart officiel osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
-- [osu! concours de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
-- [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [concours osu! de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
+- [concours osu! de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
 - [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
