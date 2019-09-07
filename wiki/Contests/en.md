@@ -9,13 +9,9 @@
 
 # Contests
 
-This article lists contests that are not listed on the [website's contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other community-ran contests).
+A list of contests that are not listed on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
 
-## Official Beatmapping Contests
-
-Official beatmapping contests hosted by the osu!staff.
-
-### Monthly Beatmapping Contest
+## Monthly Beatmapping Contest
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | --- | :-: | --- | --- | --- |
@@ -34,9 +30,6 @@ Official beatmapping contests hosted by the osu!staff.
 | 10 | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751) | ![osu!catch][o!c] | [ZiRoX](https://osu.ppy.sh/users/200768) | [Results](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19) |
 | 11 | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m] | [LordRaika](https://osu.ppy.sh/users/3265023) | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20) |
 | 12 | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054) | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340) | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21) |
-| 13 | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888) | ![osu!standard][o!s] | [RyoKazuka](https://osu.ppy.sh/users/6258586) | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) | [Score #13](https://docs.google.com/spreadsheets/d/1CysSPvMCrkace40s4aGnpIdmc-TNEJZ72QGKz0MPBqc) |
-| March 2017 | [nanobii - HYPER★DRIVE](https://osu.ppy.sh/beatmapsets/639991) | ![osu!catch][o!c] | [Ascendance](https://osu.ppy.sh/users/2931883) | TBA | [Score #14](https://osu.ppy.sh/community/contests/44) |
-| April 2017 | [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575) | ![osu!mania][o!m] | [Soul Evans](https://osu.ppy.sh/users/4490770) | TBA | [Score #15](https://osu.ppy.sh/community/contests/46) |
 
 Notes:
 
@@ -44,17 +37,13 @@ Notes:
 - Winning beatmapsets from MBC #1 to #12 (except for MBC #6) were be bundled with the [osu!installer](https://osu.ppy.sh/home/download).
 - Winning beatmapsets since MBC #13 have been / will be featured by the osu! media team.
 
-### Aspire
+## Aspire
 
 Aspire is a beatmapping contests with one special exception, they are not bound to the [Ranking Criteria](/wiki/Ranking_Criteria).
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | --- | :-: | --- | --- | --- |
 | Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22) |
-| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43) |
-| Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033) | ![osu!taiko][o!t] | [Supairo](https://osu.ppy.sh/users/2837231) |  [Results](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Score #3](https://osu.ppy.sh/community/contests/47) |
-| Aspire 2017 Stage Three | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/740242) | ![osu!catch][o!c] | [Spectator](https://osu.ppy.sh/users/702598) | [Results](https://osu.ppy.sh/home/news/2018-03-08-aspire-2017-stage-three-osucatch-results) | [Score #4](https://osu.ppy.sh/community/contests/51) |
-| Aspire 2018 | Culprate - Acid Rain | ![osu!standard][o!s] | TBA | TBA | TBA |
 
 Notes:
 
@@ -63,11 +52,11 @@ Notes:
 
 ## Fan Art Contest
 
-A gallery of some of the older contests can be found at the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums).
+A gallery for the first through fifth fan art contests can be found on the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums). All fan art contests after those can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
 
 ## Best of
 
-"Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) after 2016.
+"Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) in 2017.
 
 ### 2009
 
@@ -114,10 +103,6 @@ A gallery of some of the older contests can be found at the [Facebook page](http
 - [Results (News)](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
 - [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-### 2016
-
-- [Results (News)](https://osu.ppy.sh/home/news/2017-02-16-best-of-2016-results)
-
 ## Community Choice
 
 *For the Community Choice contests, see: [Community Contests](https://osu.ppy.sh/community/contests)*
@@ -153,45 +138,6 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
 - [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
 - [Official post](https://osu.ppy.sh/community/forums/topics/352608)
-
-### 2016
-
-| Placing | Results | Original Artist |
-| --- | --- | --- |
-| ![Gold Crown][GCrown] | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w) |
-| ![Silver Crown][SCrown] | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn) | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs) |
-| ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk) | [Error](https://www.youtube.com/watch?v=IF8kySIcWNw) |
-
-- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [News post](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
-- [Results post](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
-- [Official post](https://osu.ppy.sh/community/forums/topics/448842)
-
-### 2017
-
-| Placing | Results | Original Artist |
-| --- | --- | --- |
-| ![Gold Crown][GCrown] | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3) | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw) |
-| ![Silver Crown][SCrown] | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3) | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc) |
-| ![Bronze Crown][BCrown] | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3) | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE) |
-
-- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/183iJJIxoD8qXLXyzra5vr9kmHMnZDDI63w-lUz5SSH0/edit#gid=1357895603)
-- [News post](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open)
-- [Results post](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results)
-- [Official post](https://osu.ppy.sh/community/forums/topics/617845)
-
-### 2018
-
-| Placing | Results | Original Artist |
-| --- | --- | --- |
-| ![Gold Crown][GCrown] | [Will Stetson](https://osu.ppy.sh/users/4909088) - [Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3) | [Omoi](https://www.youtube.com/watch?v=mf4nO-g9vwE) |
-| ![Silver Crown][SCrown] | [Zeva[FL]](https://osu.ppy.sh/users/2805170) - [My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3) | [Chris Kirkpatrick](https://www.youtube.com/watch?v=0BVwxMIUK1o) |
-| ![Bronze Crown][BCrown] | [MjIsMaster](https://osu.ppy.sh/users/9922896) - [Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3) | [The Romantics](https://www.youtube.com/watch?v=JmGMzyajA2U) |
-
-- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1BzmspQSE_umaAhfS63zYnBT4DqlnD5QQK7TciYqJoGo/edit#gid=495757546)
-- [News post](https://osu.ppy.sh/home/news/2018-07-01-osu-idol-2018-auditions-now-open)
-- [Results post](https://osu.ppy.sh/home/news/2018-11-05-osu-idol-2018-finals-community-voting-results)
-- [Official post](https://osu.ppy.sh/community/forums/topics/752088)
 
 ## Community Contests
 
