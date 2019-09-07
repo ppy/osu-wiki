@@ -1,3 +1,4 @@
+<!-- Please check redirects after adding new sections with year numbers. -->
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
@@ -5,7 +6,7 @@
 
 # Contests
 
-This article lists contests that ran before late-2016. Please see [the website's contests page](https://osu.ppy.sh/community/contests) for contests that ran after late-2016.
+This article lists contests that are not listed on the [website's contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016).
 
 ## Official Beatmapping Contests
 
@@ -16,10 +17,10 @@ Official beatmapping contests hosted by the osu!staff.
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | --- | :-: | --- | --- | --- |
 | 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) | [Score #1](https://osu.ppy.sh/p/contestresults?c=7) |
-| 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results)  | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
-| 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!standard][o!s] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results)  | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
-| 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!standard][o!s] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/home/news/2017-05-11-osuweekly-103)  | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
-| 5 | [Rameses B - Flaklypa](https://osu.ppy.sh/beatmapsets/190390) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results)  | [Score #5](https://osu.ppy.sh/p/contestresults?c=11) |
+| 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
+| 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!standard][o!s] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
+| 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!standard][o!s] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/home/news/2017-05-11-osuweekly-103) | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
+| 5 | [Rameses B - Flaklypa](https://osu.ppy.sh/beatmapsets/190390) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results) | [Score #5](https://osu.ppy.sh/p/contestresults?c=11) |
 | 6 (Aspire) | [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) | [Score #6](https://osu.ppy.sh/p/contestresults?c=12) |
 | 7.1 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!standard][o!s] | [Gamu](https://osu.ppy.sh/users/611174) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.1](https://osu.ppy.sh/p/contestresults?c=13) |
 | 7.2 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!taiko][o!t] | [MMzz](https://osu.ppy.sh/users/128993) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.2](https://osu.ppy.sh/p/contestresults?c=14) |
@@ -36,7 +37,8 @@ Official beatmapping contests hosted by the osu!staff.
 
 Notes:
 
-- Winners of the Monthly Beatmapping Contests will receive the "Elite Mapper" forum title. Winning beatmapsets from MBC #1 to #12 (except for MBC #6) were be bundled with the [osu!installer](https://osu.ppy.sh/home/download).
+- Winners of the Monthly Beatmapping Contests will receive the "Elite Mapper" forum title.
+- Winning beatmapsets from MBC #1 to #12 (except for MBC #6) were be bundled with the [osu!installer](https://osu.ppy.sh/home/download).
 - Winning beatmapsets since MBC #13 have been / will be featured by the osu! media team.
 
 ### Aspire
@@ -45,8 +47,8 @@ Aspire is a beatmapping contests with one special exception, they are not bound 
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | --- | :-: | --- | --- | --- |
-| Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22)   |
-| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43)   |
+| Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22) |
+| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43) |
 | Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033) | ![osu!taiko][o!t] | [Supairo](https://osu.ppy.sh/users/2837231) |  [Results](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Score #3](https://osu.ppy.sh/community/contests/47) |
 | Aspire 2017 Stage Three | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/740242) | ![osu!catch][o!c] | [Spectator](https://osu.ppy.sh/users/702598) | [Results](https://osu.ppy.sh/home/news/2018-03-08-aspire-2017-stage-three-osucatch-results) | [Score #4](https://osu.ppy.sh/community/contests/51) |
 | Aspire 2018 | Culprate - Acid Rain | ![osu!standard][o!s] | TBA | TBA | TBA |
@@ -62,7 +64,7 @@ A gallery of some of the older contests can be found at the [Facebook page](http
 
 ## Best of
 
-"Best of" is a yearly voting contest out to pick the best beatmap in the given year. It was succeeded by [Community Choice](#community-choice) starting 2017.
+"Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) after 2016.
 
 ### 2009
 
@@ -83,7 +85,7 @@ A gallery of some of the older contests can be found at the [Facebook page](http
 
 ### 2011
 
-- [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
+- [Results (Google Docs)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=45)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
@@ -91,12 +93,12 @@ A gallery of some of the older contests can be found at the [Facebook page](http
 
 ### 2012
 
-- [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
+- [Results (Google Docs)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=68) (First 31 songs. 21 ranked, 10 approved)
 
 ### 2013
 
-- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
 - [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=85)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 
@@ -107,32 +109,32 @@ Notes:
 
 ### 2014
 
-- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
+- [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
 ### 2015
 
-- [News Results](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
-- [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
+- [Results (News)](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
+- [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
 Notes:
 
 - First time in the series to enforce that at least one beatmap in the beatmapset must be played and passed to be votable.
   - As such, it is entirely possible to get an empty list of votable beatmapset.
-- First time in the series to use a weighting system.
+- First time in the series to use a weighed voting system.
 
 ### 2016
 
-- [News Results](https://osu.ppy.sh/home/news/2017-02-16-best-of-2016-results)
+- [Results (News)](https://osu.ppy.sh/home/news/2017-02-16-best-of-2016-results)
 
 Notes:
 
-- Begin of this year, a formula was used to weigh the votes based on the amount of times a player played a map and if they had passed or not.
+- A formula was used to weigh the votes, based on the amount of times a player played a beatmap and if they had passed it or not.
 
 ## Community Choice
 
-For the Community Choice contest information, see: [the website's contests page](https://osu.ppy.sh/community/contests).
+*For the Community Choice contests, see: [Community Contests](https://osu.ppy.sh/community/contests)*
 
-Community Choice is the successor of the "Best of" contests.
+Community Choice is the successor to the "Best of" contests.
 
 ## osu!idol
 
