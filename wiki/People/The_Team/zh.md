@@ -68,7 +68,7 @@ outdated: true
 | 名 | 描述 |
 | :-- | :-- |
 | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | 使你的图能够上架的玩家 |
-| [Developers](https://osu.ppy.sh/groups/11) | 通过添加新功能和修复 bugs 使游戏变得有趣 |
+| [Developers](/wiki/People/Developers) | 通过添加新功能和修复 bugs 使游戏变得有趣 |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | 管理论坛和聊天室 |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | 曾经为社区做出了杰出贡献 |
 | [Project Loved Team](/wiki/People/Project_Loved_Team) | 辨认社区最喜欢的谱面 |
