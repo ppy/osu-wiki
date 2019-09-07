@@ -11,7 +11,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 | Registration Phase | 2019-07-13/2019-08-03 |
 | Qualifiers Showcase | 2019-08-10 (12:00 UTC+0) |
 | Qualifiers | 2019-08-17/2019-08-18 |
-| Live Drawings | 2019-08-19 (14:00 UTC+0)  |
+| Live Drawings | 2019-08-19 (14:00 UTC+0) |
 | Group Stage | 2019-08-24/2019-08-25 |
 | Round of 16 | 2019-08-31/2019-09-01 |
 | Quarterfinals | 2019-09-07/2019-09-08 |
@@ -132,15 +132,15 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 
 ### Group Stage
 
-|  |  |  |  |  |  |  |  |  |  |  |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Group A | Score |  | Group B | Score |  | Group C | Score |  | Group D | Score |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
 | **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
 | TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
 | - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
-|  |  |  |  |  |  |  |  |  |  |  |
+
 | Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
