@@ -43,7 +43,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | :-- | :-- |
 | Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Map Selectors | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Commentators | *- to be announced -* |
+| Commentators | ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -52,6 +52,45 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Sign up here!](https://osu.ppy.sh/community/tournaments/21)
+
+---
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/u/7093698)** |
+| ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/u/4247722)** |
+| ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/u/9530019)** |
+| ![][flag_CA] | **Canada** | **[Dawt](https://osu.ppy.sh/u/2747704)** |
+| ![][flag_CL] | **Chile** | **[Sebaex](https://osu.ppy.sh/u/4686036)** |
+| ![][flag_CN] | **China** | **[[Crz]Satori](https://osu.ppy.sh/u/7082178)** |
+| ![][flag_DK] | **Denmark** | **[Jole](https://osu.ppy.sh/u/2883132)** |
+| ![][flag_FI] | **Finland** | **[Daughter-](https://osu.ppy.sh/u/8370443)** |
+| ![][flag_FR] | **France** | **[Azubeur](https://osu.ppy.sh/u/1594604)** |
+| ![][flag_DE] | **Germany** | **[Malox](https://osu.ppy.sh/u/4516252)** |
+| ![][flag_HK] | **Hong Kong** | **[Mooncha](https://osu.ppy.sh/u/5417362)** |
+| ![][flag_ID] | **Indonesia** | **[-Rem-](https://osu.ppy.sh/u/5767941)** |
+| ![][flag_IT] | **Italy** | **[[Crz]Cribob](https://osu.ppy.sh/u/8485394)** |
+| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/u/1824775)** |
+| ![][flag_MX] | **Mexico** | **[Kaisteria](https://osu.ppy.sh/u/6507028)** |
+| ![][flag_MY] | **Malaysia** | **[cheewee10](https://osu.ppy.sh/u/4477497)** |
+| ![][flag_NL] | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/u/5183940)** |
+| ![][flag_NO] | **Norway** | **[Bizarrely_F4st](https://osu.ppy.sh/u/7676585)** |
+| ![][flag_PE] | **Peru** | **[DaZeRo5](https://osu.ppy.sh/u/6114633)** |
+| ![][flag_PH] | **Philippines** | **[Cielo Day](https://osu.ppy.sh/u/2722489)** |
+| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/u/743282)** |
+| ![][flag_RU] | **Russian Federation** | **[AngeloLagusa](https://osu.ppy.sh/u/9074986)** |
+| ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/u/7199159)** |
+| ![][flag_KR] | **South Korea** | **[wonder5193](https://osu.ppy.sh/u/8474029)** |
+| ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/u/3154852)** |
+| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/u/4123399)** |
+| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/u/4952941)** |
+| ![][flag_TH] | **Thailand** | **[MyZterioN-](https://osu.ppy.sh/u/8521723)** |
+| ![][flag_TW] | **Taiwan** | **[Sakaki](https://osu.ppy.sh/u/2656856)** |
+| ![][flag_GB] | **United Kingdom** | **[PikachuNick](https://osu.ppy.sh/u/4168230)** |
+| ![][flag_US] | **United States** | **[Toaph Daddy](https://osu.ppy.sh/u/7616811)** |
+| ![][flag_VE] | **Venezuela** | **[_Yisus_](https://osu.ppy.sh/u/1489811)** |
 
 ---
 
