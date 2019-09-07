@@ -28,15 +28,15 @@
 
 ![image d'erreur 404](img/pippi-Daru-404.png "image d'erreur 404")
 
-#### Fan arts
+#### Fanarts
 
-Pour voir les fan arts de pippi :
+Pour voir les fanarts de pippi :
 
 - [Résultats du premier concours de Fanart officiel osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
 - [osu! concours de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
 - [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
@@ -49,39 +49,39 @@ Pour voir les fan arts de pippi :
 
 ![Yuzu quand il rate des fruits dans osu!catch](img/Yuzu-fail.png "Yuzu quand il rate des fruits dans osu!catch")
 
-#### Fan arts
+#### Fanarts
 
 Pour voir plus de fanarts de Yuzu :
 
 - [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
 
 ### Maria
 
 ![Fanart avec pippi et Maria](img/Maria-fanart-1.jpg "Fanart par Anny")
 
-#### Fan arts
+#### Fanarts
 
-Pour voir plus de fan arts de Maria :
+Pour voir plus de fanarts de Maria :
 
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [FanArt 9: Spring](https://osu.ppy.sh/community/contests/45)
 
 ### Mocha
 
 ![design de Mocha](img/Mocha-design.jpg "design de Mocha")
 
-![Fan art avec pippi et Mocha](img/Mocha-fanart-1.jpg "Fanart par 2Su")
+![Fanart avec pippi et Mocha](img/Mocha-fanart-1.jpg "Fanart par 2Su")
 
-![Fan art avec pippi et Mocha](img/Mocha-fanart-2.jpg "Fanart par Leissss")
+![Fanart avec pippi et Mocha](img/Mocha-fanart-2.jpg "Fanart par Leissss")
 
-![Fan art avec Mocha](img/Mocha-fanart-3.jpg "Fanart par Leissss")
+![Fanart avec Mocha](img/Mocha-fanart-3.jpg "Fanart par Leissss")
 
-#### Fan arts
+#### Fanarts
 
-Pour voir plus de fan arts de Mocha :
+Pour voir plus de fanarts de Mocha :
 
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
@@ -93,19 +93,19 @@ Pour voir plus de fan arts de Mocha :
 
 ![L'ancien bouton Catch the Beat dans les modes spéciaux](/wiki/shared/Ctb_logo.jpg "L'ancien bouton Catch the Beat dans les modes spéciaux")
 
-### Fan arts
+### Fanarts
 
-Pour voir des fan arts avec des mascottes caméo : 
+Pour voir des fanarts avec des mascottes caméo : 
 
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ## Communauté
 
-Pour voir les fan arts avec des mascottes faites par la communauté : 
+Pour voir les fanarts avec des mascottes faites par la communauté : 
 
-- [Fan Art 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Noël](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Printemps](https://osu.ppy.sh/community/contests/45)
+- [FanArt 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Noël](https://osu.ppy.sh/community/contests/36)
+- [FanArt 9: Printemps](https://osu.ppy.sh/community/contests/45)
 - [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 - [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
