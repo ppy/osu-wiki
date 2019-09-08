@@ -1,12 +1,12 @@
 # Beatmapping
 
-**Beatmapping** est le processus de création des [beatmaps](/wiki/Beatmaps) dans osu! pour les joueurs à jouer.
-Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [objects](/wiki/Hit_Objects), et (éventuellement) [skinning](/wiki/Skinning) et [storyboarding](/wiki/Storyboarding).
+Le **Beatmapping** est le processus de création de [beatmaps](/wiki/Beatmaps) par le biais du client osu!
+Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [objects](/wiki/Hit_Objects), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboarding).
 
-Les mappers veulent généralement obtenir leurs beatmaps [classé](/wiki/Beatmaps) qui se compose de la [procédure de classement d'une beatmap](/wiki/Beatmap_Ranking_Procedure).
+Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmaps). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_Ranking_Procedure).
 
 Comme osu! est un jeu basé sur le rythme, la chanson/musique que vous choisissez de mapper doit avoir un rythme évident et constant.
-Essayez d’éviter les chansons dont la tempo (ou la vitesse) change ou qui ralentissent jusqu’à ce que vous soyez plus expérimenté et habitué à la beatmapping.
+Essayez d’éviter les chansons dont le tempo (ou la vitesse) change trop souvent, jusqu’à ce que vous soyez plus expérimentés et habitués au beatmapping.
 
 ## Commencer
 
@@ -18,9 +18,9 @@ Cela devrait s'ouvrir et vous diriger vers l'écran d'édition avec votre fichie
 
 Votre nouvelle chanson sera disponible en bas de la liste des chansons, surlignée en violet.
 
-S'il ne figure pas dans la sélection de chanson pour une raison quelconque, appuyez sur `F5` pour réinitialiser le cache beatmap et il devrait apparaître.
+S'il ne figure pas dans la sélection de chanson pour une raison quelconque, appuyez sur `F5` pour réinitialiser le cache de beatmaps afin de le faire apparaître.
 
-Cliquez sur la chanson, cela ouvrira le dialogue l'[éditeur de beatmap](/wiki/Beatmap_Editor) et la `Configuration de la chanson`.
+Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wiki/Beatmap_Editor) et la `Configuration de la chanson`.
 
 ### Configuration de la chanson
 
@@ -30,11 +30,11 @@ En faisant un nouveau [mapset](/wiki/mapset), vous verrez toujours cette boîte 
 
 Vous devez renseigner ces informations avant de créer une autre [difficulté](/wiki/Difficulties).
 
-Cela garantira que les métadonnées seront cohérentes malgré toutes les difficultés de l'ensemble.
+Cela garantira que les métadonnées seront cohérentes malgré toutes les difficultés du mapset.
 
-Vous pouvez modifier les options des autres onglets maintenant si vous le souhaitez, mais vous pouvez les modifier ultérieurement.
+Vous pouvez modifier les options des autres onglets maintenant si vous le souhaitez, bien qu'elles soient modifiable plus tard.
 
-Cliquez sur `OK`, et vous pouvez commencer à beatmapping!
+Cliquez sur `OK`, et vous pouvez commencer à composer !
 L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 ### Timing
@@ -55,7 +55,7 @@ Cela vous évitera (et la communauté de modding) beaucoup de tracas par la suit
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à beatmapping.
 
-C’est à cet endroit que vous pouvez placer visuellement des hit objects et basculer leurs [hit sounds](/wiki/hit_sounds)
+C’est à cet endroit que vous pouvez placer des hit objects et gérer leurs [hit sounds](/wiki/hit_sounds).
 
 ### Conception
 
