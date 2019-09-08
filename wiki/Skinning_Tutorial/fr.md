@@ -12,7 +12,7 @@ Contrairement aux croyances populaires, pour mieux comprendre comment le skinnin
 
 ## Créer un skin
 
-Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vous aurez tout d'abord besoin d'un éditeur d'image et, optionnelement, de fichiers audios. Il y a plusieurs au choix qui varient entre fonctionnalités et coût. Malgré ça, n'importe quel logiciel fonctionnera probablement, du moment que vous savez comment l'utiliser.
+Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vous aurez tout d'abord besoin d'un éditeur d'image et, optionnellement, de fichiers audios. Il y a plusieurs options au choix qui varient entre fonctionnalités et coût. Malgré cela, n'importe quel logiciel fonctionnera probablement, du moment que vous savez comment l'utiliser.
 
 -   Éditeurs d'images
     -   [GIMP](https://www.gimp.org) (Gratuit)
