@@ -1,12 +1,12 @@
-# Artistes en vedette
+# Artistes associés
 <!-- à faire : inclure une histoire sur la guilde des artistes/mappeurs, peut-être dans /History_of_osu! aussi -->
 
-**Les artistes en vedette** sont des artistes musicaux qui ont travaillé avec osu! pour faire une sélection de leurs pistes disponibles pour une utilisation illimitée dans la communauté. Certains des artistes présentés ont également composé des pistes spécialement pour osu! et les a libérés comme osu! des exclusivités.
+**Les artistes associés** sont des musiciens ayant collaboré avec osu! pour faire une sélection de leurs compositions afin que n'importe qui dans la communauté osu! puisse les utiliser. Certains des artistes présentés ont également composé des pistes spécialement pour osu! et sont répertoriées en tant qu'exclusivités.
 
-[Une section du site](https://osu.ppy.sh/beatmaps/artists) répertorie et détaille chaque artiste sélectionné. Vous trouverez sur les pages des artistes des informations générales à leur sujet, ainsi que toutes les pistes autorisées à être utilisées dans osu! accompagné de fichiers .osz prédéfinis pour une utilisation dans le beatmapping.
+[Une section du site](https://osu.ppy.sh/beatmaps/artists) répertorie et détaille chaque artiste associés. Vous trouverez sur les pages des artistes des informations générales à leur sujet, ainsi que toutes les pistes libre d'utilisation sur osu!, accompagné de fichiers .osz prédéfinis pour une utilisation dans l'éditeur de beatmaps.
 
-## Guilde des Mappeurs
+## Mappers' Guild
 
-Pour promouvoir le contenu mappé des artistes en vedette, les membres de la communauté ont créé la **Guilde des mappeurs**, offrant aux mappeurs un système de quêtes de style MMO auquel ils peuvent participer avec d'autres mappeurs. Les récompenses pour être actif dans la guilde incluent des badges de profil, un accès rapide à un nouveau contenu d’artiste en vedette et la possibilité d’aider à décider quels artistes osu! l'équipe devrait envisager de travailler avec eux dans le futur.
+Pour promouvoir le contenu des artistes associés, les membres de la communauté ont créé la **Mappers' Guild**, offrant aux mappeurs un système de quêtes avec un style MMO, auquel ils peuvent participer avec d'autres mappeurs. Les récompenses pour les membres les plus actifs de la guilde incluent des badges de profil, un accès rapide aux nouveaux contenus d’artistes associés et la possibilité d’aider à décider avec quels artistes l'équipe d'osu! devrait envisager de travailler dans le futur.
 
-Plus d'informations sur la Guilde des mappeurs sont disponibles sur [their website](http://mappersguild.com) et dans le channel `#mappers-guild` du [Serveur Discord osu!dev](https://discord.gg/ppy).
+Plus d'informations sur la Mappers' Guild sont disponibles sur [leur site internet](http://mappersguild.com) et dans le canal `#mappers-guild` du [serveur Discord osu!dev](https://discord.gg/ppy).
