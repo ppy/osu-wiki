@@ -34,6 +34,6 @@ Throughout this active cycle time, the organization team will host various event
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/955356) for more information!
 
-We're looking forwards to the future mappers of tomorrow!
+We're looking forward to the future mappers of tomorrow!
 
 —ailv
