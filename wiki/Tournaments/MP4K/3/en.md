@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
   - [yassu~ - before... (-Rem-) \[mizuki w/ remuther (MP4K3 Edit)\]](https://osu.ppy.sh/beatmapsets/1007040#mania/2107649)
   - [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Pope Gadget) \[Noughts\]](https://osu.ppy.sh/beatmapsets/878577#mania/1837470)
   - [YZYX - .\_Pulse (-Rem-) \[Challenge (240bpm\]](https://osu.ppy.sh/beatmapsets/1007048#mania/2107663)
-  - [guna with Team Kyukkyu - subconsciousness (-Rem-) \[Benzopirene w/ remuther (177bpm\)]](https://osu.ppy.sh/beatmapsets/1006457#mania/2106348)
+  - [guna with Team Kyukkyu - subconsciousness (-Rem-) \[Benzopirene w/ remuther (177bpm)\]](https://osu.ppy.sh/beatmapsets/1006457#mania/2106348)
   - [DJ Sharpnel - WE LUV LAMA (-Rem-) \[bbu2's AAA (231bpm)\]](https://osu.ppy.sh/beatmapsets/1005227#mania/2103824)
   - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmapsets/658097#mania/1393891)
   - [Shawn Wasabi & YDG feat. Yung GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (AuraahDono) \[Burnt Noodles (MP4K3 Edit)\]](https://osu.ppy.sh/beatmapsets/1004372#mania/2106913)
