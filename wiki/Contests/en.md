@@ -39,7 +39,7 @@ Notes:
 
 ## Aspire
 
-Aspire is a beatmapping contests with one special exception, they are not bound to the [Ranking Criteria](/wiki/Ranking_Criteria).
+Aspire is a beatmapping contest with one special exception, they are not bound to the [Ranking Criteria](/wiki/Ranking_Criteria).
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | --- | :-: | --- | --- | --- |
@@ -47,7 +47,7 @@ Aspire is a beatmapping contests with one special exception, they are not bound 
 
 Notes:
 
-- Winners of the Aspire contests will receive the "Elite Mapper: Aspirant" forum title and an unique Aspire profile badge.
+- Winners of the Aspire contests will receive the "Elite Mapper: Aspirant" forum title and a unique Aspire profile badge.
 - "Monthly Beatmapping Contest #6" was an Aspire event, but is not part of this list (see Monthly Beatmapping Contest instead).
 
 ## Fan Art Contest
@@ -214,7 +214,7 @@ The Pending Cup is a mapping contest where the main participants are usually Chi
 
 ### Newspaper Cup
 
-Newspaper Cup is an annually mapping contest which aims at attract normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
+Newspaper Cup is an annual mapping contest which aims at attracting normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
 
 #### Newspaper Cup \#1 (2015)
 
