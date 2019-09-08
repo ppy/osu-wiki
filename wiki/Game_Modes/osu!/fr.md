@@ -42,20 +42,20 @@
 
 ![Gameplay de Osu!][Osu! Interface image]
 
-Le premier mode de jeu et homonyme qui était basé sur la série ouendan.
+Le premier mode et homonyme du jeux qui était basé sur la série ouendan.
 
 ## Qu'est-ce que "Ouendan"?
 
 _[Osu! Tatakae! Ouendan][ouendan wikipedia]_ est un jeu de rythme pour la _Nintendo DS_.
-Le gameplay se compose de trois éléments seulement: taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter une roulette très rapidement.
-Tous ces éléments sont adaptés en rythme pour des reprises de chansons japonaises populaires.
+Le gameplay se compose de seulement trois éléments : taper des cercles sur l’écran tactile, faire glisser une balle sur une trajectoire fixe et faire pivoter un spinner très rapidement.
+Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires.
 Ça ressemble à ça sur la _DS_:
 
 ![Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS][ouendan image]
 
 _Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS_
 
-Les cercles de frappe sont visibles sur l’écran inférieur et l’histoire sur l’écran supérieur.
+Les cercles sont visibles sur l’écran inférieur et une histoire est montrée sur l’écran supérieur.
 Chaque niveau est, en gros, une histoire indépendante suivant une personne en difficulté.
 C'est là que le _Ouendan_ (Cheer squad) entre en jeu.
 Grâce au pouvoir magique du cheerleading masculin, le joueur doit aider les personnes en difficulté.
@@ -66,13 +66,13 @@ _Tutoriel: [(Fourni lors de l'installation de osu! PC) Tutoriel original][osu!tu
 
 Le gameplay met l'accent sur:
 
-- Adaptabilité et réaction aux stimuli (c'est-à-dire la capacité à réagir aux éléments du jeu qui apparaissent partout sur l'écran à la vitesse de l'éclair).
-- Compréhension du rythme et de la conception de la chanson.
-- Contrôle du périphérique d'entrée.
-- Timing des frappes sur l'objet qui est apparu à l'écran.
-- Possibilité de faire tourner la souris (ou un stylo pour tablette) sur les spinners.
-- Endurance physique et force mentale (surtout des chansons plus longues de type marathon).
-- Positionnement correct et coordination œil-main.
+- L'adaptabilité et la réaction aux stimuli (c'est-à-dire la capacité à réagir aux éléments du jeu qui apparaissent partout sur l'écran à la vitesse de l'éclair).
+- La compréhension du rythme et de la conception de la chanson.
+- Le contrôle du périphérique d'entrée.
+- Le timing des frappes sur l'objet qui est apparu à l'écran.
+- La possibilité de faire tourner la souris (ou un stylo pour tablette) sur les spinners.
+- L'endurance physique et la force mentale (surtout pour des chansons plus longues de type marathon).
+- Savoir correctement se positionner et avoir une bonne coordination œil-main.
 
 Ce sont quelques-unes des compétences essentielles pour devenir un _champion du rythme d'Osu!_.
 
@@ -88,18 +88,18 @@ Sinon, cliquez sur le boutton `Mode` et sélectionnez `Osu!`.
 
 #### Zone de Jeu
 
-![Interface d'Osu!][Osu! Interface image]
+![Interface d'osu!][Osu! Interface image]
 
-_Interface de jeu d'Osu!_
+_Interface de jeu d'osu!_
 
 La barre en haut à gauche est la barre de vie , qui diminuera à un rythme constant (en fonction des paramètres de difficulté de la beatmap), mais qui pourra augmenter en tapant sur les notes au bon moment ou en faisant tourner le spinner.
 
 Un coup parfaitement chronométré (300 ou Geki) rétablira plus de vie qu'un coup mal chronométré (50).
-Une note complètement ratée (ou miss) enlèvera une bonne partie de la vie de la barre de vie.
+Une note complètement ratée (ou miss) enlèvera une bonne partie de la barre de vie.
 
-Le score total se trouve à droite de la barre de santé.
+Le score total se trouve à droite de la barre de vie.
 En dessous, c'est la précision.
-Le cercle à côté de la précision (et sous le score) est un chronomètre pour la durée de la beatmap.
+Le cercle à côté de la précision (et sous le score) est un chronomètre permettant de connaitre la durée de la beatmap.
 
 Le chiffre en bas à gauche correspond au compteur de combo (ou enchaînement)/multiplicateur de score.
 
@@ -110,14 +110,14 @@ _Quelques Hit Circles alignés de manière à exploiter le rythme_
 
 Un mince cercle d'approche de même couleur situé à l'extérieur du Hit Circle (ou cercle de frappe) se réduit au fil du temps
 
-Tapez sur la note à l'endroit exact où elle touche la bordure blanche du Hit Circle.
+Tapez sur la note au moment exact où elle touche la bordure blanche du Hit Circle.
 
 Un affichage du score apparaît après avoir appuyé sur le Hit Circle, montrant le score et les changements de santé en fonction du moment où vous tapez.
 Le Hit Circle disparaîtra après l'affichage du score.
 
 Pour comprendre le charme caché des hit circles, ne vous fiez pas uniquement à la perception; sentez les battements et le rythme de la beatmap.
 
-Cela vous aidera à jongler avec certains des schémas visuels complexes de Hit Circles trouvés dans les difficultés ultérieures.
+Cela vous aidera à jongler avec certains des schémas visuels complexes de Hit Circles trouvés dans les difficultés supérieures.
 
 #### Sliders
 ![Sliders][osu_slider image]
@@ -131,7 +131,7 @@ Maintenez le bouton de la souris/clavier (ou gardez le stylet sur la tablette) e
 
 Le cercle extérieur orange, appelé follow circle (ou cercle suiveur), apparaîtra si vous maintenez la balle du slider, mais disparaîtra une fois relâché.
 
-Parfois, comme le montre la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre retourner jusqu'au début du parcours ou inversement. Le repère visuel est une flèche inversée à l'intérieur du cercle de fin/début de trajectoire.
+Parfois, comme le montre la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre pour retourner jusqu'au début du parcours ou inversement. Le repère visuel est une flèche inversée à l'intérieur du cercle de fin/début de trajectoire.
 
 #### Spinners
 ![Spinner][osu_spinner image]
@@ -140,26 +140,26 @@ _Un spinner réussi avec un bonus de spinner_
 
 Maintenez le bouton de la souris/du clavier (ou gardez le stylet sur la tablette).
 
-À partir de là, utilisez la souris (ou le stylet) et faites tourner le spinner dans un mouvement circulaire (dans un sens ou dans l’autre) jusqu’à ce que le cercle grandisse et atteigne complètement l’extérieur.
+À partir de là, utilisez la souris (ou le stylet) et faites tourner le spinner dans un mouvement circulaire (dans n'importe quel sens) jusqu’à ce que le cercle grandisse et atteigne complètement l’extérieur.
 
 Une notification _Clear_ apparaîtra pour indiquer que le spinner a été réussi.
-Si le spinner a été réussi rapidement, continuez de tourner pour obtenir un bonus de score et un regain de points de vie.
+Si le spinner a été réussi rapidement, continuez de tourner pour obtenir un bonus de score et pour regagner des points de vie.
 
 Le cercle blanc extérieur indique le temps restant pour terminer le spinner.
 
 Ce cercle deviendra rouge pour signaler que le temps est presque écoulé.
 
-Les beatmaps plus anciennes, utilisant _skin version 1.0_, auront un mètre/une jauge pour indiquer à quel point le joueur est proche de compléter le spinner.
+Les beatmaps plus anciennes, utilisant le _skin version 1.0_, auront un mètre/une jauge pour indiquer à quel point le joueur est proche de compléter le spinner.
 
 La petite case située en dessous du spinner montre les tours par minute.
 
 Le nombre à l'intérieur de cette case correspond au nombre de tours que vous effectuerez si vous continuez à faire tourner le spinner à cette vitesse pendant une minute.
 
-Si le bouton de la souris/du clavier a été relâché (ou que le stylo n’a pas touché la tablette) tôt pendant la rotation, le spinner arrêtera de prendre en compte la rotation.
+Si le bouton de la souris/du clavier a été relâché (ou que le stylo n’a pas touché la tablette) trop tôt pendant la rotation, le spinner arrêtera de prendre en compte la rotation.
 
 Sur la _DS_, c’est un bon moyen de rayer l’écran tactile (ou le protecteur d’écran), en particulier dans les situations difficiles.
 
-Dans Osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer.
+Dans osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer.
 Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui correspond également à la vitesse auquel le mod (ou modificateur de jeu) [Auto][Auto wikilink] fait tourner les spinners, tandis que le modificateur de jeu [Spun Out][Spun Out wikilink] les fait tourner plus lentement, à 287 tours par minute.
 
 ## Styles de jeu
@@ -168,13 +168,13 @@ Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui c
 
 ## Contrôles
 
-Les contrôles par défaut pour Osu! sont:
+Les contrôles par défaut pour osu! sont:
 
 Souris|Clavier|Tablette/Écran tactile
 ---|---|---|
 Click gauche(M1) / Clic-droit(M2)|`Z`(K1) / `X`(K2)|Toucher l'écran(M1)
 
-Les hit objects (ou objets cliquables) dans Osu! accepteront tous types d'entrées du périphérique d'entrée, à condition que hit object touché ait été frappé à temps.
+Les hit objects (ou objets cliquables) dans osu! accepteront tous types d'entrées du périphérique d'entrée, à condition que le hit object touché ait été frappé à temps.
 
 Si le Mod [Relax][Relax wikilink] a été utilisé, seul le curseur fonctionnera en jeu.
 Utilisez le curseur du jeu pour suivre les hit objects avec les frappes automatisé.
@@ -184,11 +184,11 @@ Si le Mod [Auto Pilot][Auto Pilot wikilink] a été utilisé, seule les frappes 
 Respectez le timing des hit objects avec le mouvement automatique du curseur.
 Les spinners suivront la vitesse du mod [Spun Out][Spun Out wikilink]
 
-## Scoring (ou calcul du score)
+## Calcul du score
 
 _[Les valeurs de base peuvent être trouvées dans la section Score dans Osu! Section des Scoring Values][Score#Osu!SV wikilink]_
 
-La section scoring détaille toutes les subtilités du scoring, y compris la formule mathématique.
+La section score détaille toutes les subtilités du score, y compris la formule mathématique.
 
 ### Notes
 
@@ -262,7 +262,7 @@ Le CS (Circle Size) ne peut normalement pas descendre en dessous de 2 ni monter 
 Notez que les modificateurs de jeu (comme Hard Rock/Easy) ne changeront pas le **multiplicateur de difficulté**.
 Cela ne tiendra compte que des valeurs d'origine.
 
-### Prise ne compte des hit objects
+### Prise en compte des hit objects
 
 **Hit Circles**
 
@@ -310,7 +310,7 @@ Cela ne tiendra compte que des valeurs d'origine.
 
 ## Barre de vie
 
-Le système utilisé pour calculer le drain et le gain de santé est compliqué et ne sera donc pas expliqué en détail.
+Le système utilisé pour calculer la perte et le gain de vie est compliqué et ne sera donc pas expliqué en détail.
 Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini que par le mappeur lui-même.
 
 **Ce qui suit entraînera un rétablissement de la santé:**
@@ -327,10 +327,10 @@ Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini qu
 - Un miss a été donné.
 - Manquer un Hit Circle.
 - Taper sur un slider trop tôt.
-- Il manque un tick du slider ou une flèche inversée de slider.
-- Échec à l'accomplissement d'un spinner nécessitant un 50 pour être complété.
+- Manquer un tick du slider ou une flèche inversée de slider.
+- Ne pas réussir un spinner nécessitant un 50 pour être complété.
 
-**Ce qui suit réservera la santé dans la barre de santé:**
+**Ce qui suit mettra en pause la santé dans la barre de santé:**
 
 - Pause.
 
@@ -342,28 +342,28 @@ Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini qu
 
 **[Reportez-vous à la page Beatmapping pour des informations détaillées.][Beatmapping wikilink]**
 
-## Trivia
+## Futilités
 
 ### Gameplay
 
-![Effet smoke d'Osu!][osu_smoke image]
+![Effet fumée d'osu!][osu_smoke image]
 
-_Usage du Smoke_
+_Usage de la fumée_
 
-![paramètres du smoke d'Osu!][osu_smoke_set image]
+![paramètres de la fumée d'osu!][osu_smoke_set image]
 
-_Touche de smoke dans les paramètres de raccourcis clavier; maintenir la touche `C` pour le déclencher par défaut dans Osu!_
+_Touche de fumée dans les paramètres de raccourcis clavier; maintenir la touche `C` pour le déclencher par défaut dans osu!_
 
 - En fonction du réglage de la difficulté et de la tolérance de timing, taper sur un hit object «beaucoup trop tôt» fera vibrer fortement l'objet touché à la place de donner un miss.
 - Relâcher la balle du slider sur une trajectoire de slider vide sans ticks de slider masqués ou visibles ne donne pas lieu à une rupture de combo ni à une augmentation du score.
   - La prise en compte du slider est regarde uniquement si le cercle de départ a été cliqué, si les ticks du slider ont été collectés et si le cercle de fin a été complété avec succès ou non.
-- Si vous modifiez le sens de rotation du spinner en cours de rotation, le compte-tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens.
+- Si vous modifiez le sens de rotation du spinner en cours de rotation, le compteur de tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens.
   - La progression du spinner ne sera pas perdue lors de la réorientation (elle n'augmentera pas à la place) et continuera à augmenter en rotation inverse.
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une totation valide.
-- Le smoke dure plus longtemps que la trace du curseur dans le jeu par défaut.
-  - Appliquez les effets de smoke en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
+- La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut.
+  - Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
 - La Mascotte pour Osu! est [pippi][Mascots#pippi wikilink].
-- Quand joué par [Auto][Auto wikilink], le nom du joueur sera Osu!.
+- Quand on joue avec le mod [Auto][Auto wikilink], le nom du joueur sera osu!.
 
 ### Histoire
 
@@ -371,10 +371,10 @@ _Touche de smoke dans les paramètres de raccourcis clavier; maintenir la touche
 
 _Combo Fire_
 
-- Les anciennes versions de Osu! ont utilisé des éléments de la série _ouendan_ avant qu'ils ne soient supprimés ou remplacés.
+- Les anciennes versions de osu! ont utilisé des éléments de la série _ouendan_ avant qu'ils ne soient supprimés ou remplacés.
   - Le combo fire qui ajoutait des flammes depuis le bas de l'écran lors de grands combos.
     - Supprimé le 5 mars 2013 (05-03-2013), en raison de problèmes de performance.
-  - La première version du skin par défaut utilisant le comportement du skin v1, qui était _Osu!default by peppy_, fournit une copie presque identique de l'interface du jeu _ouendan_.
+  - La première version du skin par défaut utilisant le comportement du skin v1, qui était _osu!default by peppy_, fournit une copie presque identique de l'interface du jeu _ouendan_.
     - Il a été remplacé par un skin actuel plus agréable utilisant le comportement de skin v2.
   - La différence la plus notable entre le comportement du skin v1 et v2 est le spinner.
     - Le skin v1 remplit la jauge de spinner de bas en haut, niveau par niveau, juqu'a ce que la jauge soit remplie conformément à la série _ouendan_.
@@ -385,5 +385,6 @@ _Combo Fire_
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1 "Kenji Ninuma - DISCO PRINCE (peppy)"), ou`discoprince`; qui a apparemment été mappé en environ une heure.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 "Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)") , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16 "Brandy - Love Fighter (FFFanatic)"), ou `Brandy - Love Fighter`.
-- On notera que les dossiers les plus anciens ont leur propre appellation (les noms de dossier ne peuvent être trouvés que dans les packs de beatmap _ancient_) et ne suivent pas strictement les règles en vigueur actuellement appliquées, c'est à dire le format `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
-  - Le téléchargement direct à partir du site Web Osu! respecte le format d'appellation actuel en vigueur quel que soit le processus.
+- On notera que les dossiers les plus anciens ont leur propre appellation (les noms de dossier ne peuvent être trouvés que dans les packs de beatmap _anciens_) et ne suivent pas strictement les règles en vigueur actuellement appliquées, c'est à dire le format `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
+  - Le téléchargement direct à partir du site Web osu! respecte le format d'appellation actuel en vigueur quel que soit le processus.
+
