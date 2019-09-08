@@ -62,4 +62,3 @@ C’est à cet endroit que vous pouvez placer des hit objects et gérer leurs [h
 *Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboarding)*
 
 L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard de base.
-En fonction de ce que vous faites, vous pouvez utiliser l’onglet Conception beaucoup ou pas du tout, si vous le faites avec [SBS](/wiki/Storyboard_Scripting) (scénarisation de storyboard).
