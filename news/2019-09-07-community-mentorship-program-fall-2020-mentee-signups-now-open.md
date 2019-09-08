@@ -30,7 +30,7 @@ The fall 2019 cycle will start on 2019-10-06 to 2020-01-05.
 
 Throughout this active cycle time, the organization team will host various events on the Mentorship discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous puzzles can be found here at this [thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122). 
 
-If any of this interests you or anyone you know, please go to our [forum announcement and rules thread(https://osu.ppy.sh/community/forums/topics/955356)! 
+If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/955356)! 
 
 We're looking forwards to the future mappers of tomorrow!
 
