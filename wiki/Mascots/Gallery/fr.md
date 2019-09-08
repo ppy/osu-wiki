@@ -1,47 +1,111 @@
----
-outdated: true
----
+# Galerie
 
-# Galerie des Mascottes
+## Officiel
 
-***[Cliquez ici pour revenir à la page des Mascottes](/wiki/Mascots)***
+### pippi
 
-## Originals d'osu!
+#### Original pippi (Tenue d'idole)
 
-### Pippi originale (Tenue d'idole)
+![Concept art original de pippi](img/pippi-original-concept.jpg "concept art de pippi par Sarumaru.")
 
-![Concept art de Pippi par Sarumaru.](img/OSUconceptWIP-3.jpg "Concept art de Pippi par Sarumaru.")
-![Combo Burst de l'ancien skin "osu!default par peppy".](img/Pippi_Sarumaru_CB.png "Combo Burst de l'ancien skin \"osu!default par peppy\".")
-![Chibi-pippi (Ancienne image d'en-tête).](img/Pippi_Sarumaru_Chibi.png "Chibi-pippi (Ancienne image d'en-tête).")
-![Ancienne image d'erreur 404](img/Pippi_404_old.jpg "Ancienne image d'erreur 404")
-![Pippi illustré par Daru (Pouvait être trouvée dans l'ancien osu!installer).](img/Pippi_old_Daru_CG1.png "Pippi illustré par Daru (Pouvait être trouvée dans l'ancien osu!installer).")
-![Pippi quand osu! recevait une erreur.](img/Pippi_corruption.jpg "Pippi quand osu! recevait une erreur.")
+![osu!standard comboburst du skin par défaut v1](img/pippi-original-comboburst.png "Comboburst du skin par défaut v1.")
 
-### Pippi actuelle (Tenue de DJ)
+![Chibi-pippi (Image d'en-tête)](img/pippi-original-header.jpg "Chibi-pippi (Image de banière.)")
 
-![Pippi (Nouvelle version par Daru).](img/Pippi_welcome.png "Pippi (Nouvelle version par Daru).")
-![Combo Burst du skin "osu! par peppy".](img/Pippi_Daru_CB.png "Combo Burst du skin \"osu! par peppy\".")
-![Image d'en-tête.](../Pippi_Daru_Header.png "Image d'en-tête.")
-![Image d'erreur 404.](img/Pippi_Daru_404.png "Image d'erreur 404.")
+![Vielle image d'erreur 404 du vieux site web](img/pippi-original-website-404.jpg "Vielle image d'erreur 404 du vieux site web")
 
-### Pippi (Fanart)
+![pippi illustrée par Daru](img/pippi-original-installer.jpg "pippi illustrée par Daru (qui pouvait être trouvée dans l'ancien osu!installer)")
 
-![Art par Lempika pour le MFC #2.](img/Pippi_Lempika_oAtW.jpg "Art par Lempika pour le MFC #2.")
+![Vieux dialogue d'erreur du client osu!](img/pippi-original-error.jpg "pippi mâche le cookie")
+
+![pippidon](img/pippidon.png "pippidon")
+
+#### pippi actuelle (vêtements de DJ)
+
+![pippi redesignée par Daru](img/pippi-Daru-redesigned.png "pippi redesignée par Daru (peut être vue dans la page de bienvenue)")
+
+![osu!standard comboburst du skin par défaut v2](img/pippi-Daru-comboburst.png "Comboburst du skin par défaut v2.")
+
+![image d'erreur 404](img/pippi-Daru-404.png "image d'erreur 404")
+
+#### Fanarts
+
+Pour voir les fanarts de pippi :
+
+- [Résultats du premier concours de Fanart officiel osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
+- [concours osu! de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
+- [concours osu! de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
 
-![Yuzu par Daru](img/Yuzu_Artwork.png "Yuzu par Daru")
-![Yuzu dans osu!catch par ztrot](img/Yuzu_Idle.png "Yuzu dans osu!catch par ztrot")
-![Yuzu pendant un Kiai Time dans osu!catch](img/Yuzu_Kiai.png "Yuzu pendant un Kiai Time dans osu!catch")
-![Yuzu manquant des fruits dans osu!catch](img/Yuzu_Fail.png "Yuzu manquant des fruits dans osu!catch")
+![Yuzu par Daru](img/Yuzu-Daru.png "Comboburst par Daru")
 
-### Autres
+![Yuzu dans osu!catch par ztrot](img/Yuzu-idle.png "Yuzu dans osu!catch par ztrot")
 
-![Pippidon (Mode Taiko).](img/Pippidon.png "Pippidon (Mode Taiko).")
-![Pippi & Yuzu enregistrant une conversation.](img/Osu!Talk.png "Pippi & Yuzu enregistrant une conversation.")
+![Yuzu pendant le Kiai Time dans osu!catch](img/Yuzu-kiai.png "Yuzu pendant le Kiai Time dans osu!catch")
+
+![Yuzu quand il rate des fruits dans osu!catch](img/Yuzu-fail.png "Yuzu quand il rate des fruits dans osu!catch")
+
+#### Fanarts
+
+Pour voir plus de fanarts de Yuzu :
+
+- [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
+
+### Maria
+
+![Fanart avec pippi et Maria](img/Maria-fanart-1.jpg "Fanart par Anny")
+
+#### Fanarts
+
+Pour voir plus de fanarts de Maria :
+
+- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [FanArt 9: Spring](https://osu.ppy.sh/community/contests/45)
+
+### Mocha
+
+![design de Mocha](img/Mocha-design.jpg "design de Mocha")
+
+![Fanart avec pippi et Mocha](img/Mocha-fanart-1.jpg "Fanart par 2Su")
+
+![Fanart avec pippi et Mocha](img/Mocha-fanart-2.jpg "Fanart par Leissss")
+
+![Fanart avec Mocha](img/Mocha-fanart-3.jpg "Fanart par Leissss")
+
+#### Fanarts
+
+Pour voir plus de fanarts de Mocha :
+
+- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+
+### Divers
+
+![pippi et Yuzu enregistrant une conversation](img/osu!talk.jpg "osu!talk toile de fond d'épisode")
 
 ## Cameos
 
-![Ryuuta dans osu!catch.](../Fruit_ryuuta.png "Ryuuta dans osu!catch.")
-![Chibi-J](../J_chibi_Header.png "Chibi-J")
-![Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).](/wiki/shared/Ctb_logo.jpg "Ancienne Pippi & ses amis dans les modes spéciaux (obsolète).")
+![L'ancien bouton Catch the Beat dans les modes spéciaux](/wiki/shared/Ctb_logo.jpg "L'ancien bouton Catch the Beat dans les modes spéciaux")
+
+### Fanarts
+
+Pour voir des fanarts avec des mascottes caméo : 
+
+- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+
+## Communauté
+
+Pour voir les fanarts avec des mascottes faites par la communauté : 
+
+- [FanArt 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
+- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+- [FanArt 8: Noël](https://osu.ppy.sh/community/contests/36)
+- [FanArt 9: Printemps](https://osu.ppy.sh/community/contests/45)
+- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+- [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
