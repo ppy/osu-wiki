@@ -8,7 +8,7 @@ tags:
 
 ![MP4K 3 Logo](img/logo.png)
 
-**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) is a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the Mistrzostwa Polski 4K.
+**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) was a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the Mistrzostwa Polski 4K.
 
 ## Tournament Schedule
 
@@ -26,8 +26,7 @@ tags:
 
 ## Prizes
 
-The prize pool is crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3) page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
-The minimum guaranteed prizes are:
+The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3) page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
 
 | Placing | Prize(s) |
 | :-: | :-- |
