@@ -12,7 +12,7 @@ Contrairement aux croyances populaires, pour mieux comprendre comment le skinnin
 
 ## Créer un skin
 
-Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vous aurez tout d'abord besoin d'un éditeur d'image et, optionnelement, de fichiers audios. Il y a plusieurs au choix qui varient entre fonctionnalités et coût. Malgré ça, n'importe quel logiciel que vous utilisez fonctionnera probablement, du moment que vous savez comment l'utiliser.
+Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vous aurez tout d'abord besoin d'un éditeur d'image et, optionnelement, de fichiers audios. Il y a plusieurs au choix qui varient entre fonctionnalités et coût. Malgré ça, n'importe quel logiciel fonctionnera probablement, du moment que vous savez comment l'utiliser.
 
 -   Éditeurs d'images
     -   [GIMP](https://www.gimp.org) (Gratuit)
@@ -20,11 +20,11 @@ Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vo
     -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Payant)
 -   Éditeurs d'audio
     - [Audacity](https://www.audacityteam.org) (Gratuit)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant
+    - [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant)
 
 ---
 
-La prochaine chose dont vous aurez besoin sera un thème ou une idée. Vous devriez en avoir un en tête afin de vous créer un objectif pour le rendu final de votre skin. Cela vous aidera égelement quand vous aurez besoin de récupérer et/ou de créer des fichiers
+La prochaine chose dont vous aurez besoin sera un thème ou une idée. Vous devriez avoir quelque chose en tête afin d'avoir un objectif pour le rendu final de votre skin. Cela vous aidera également quand vous aurez besoin de récupérer et/ou de créer des fichiers
 
 Le dernière chose à préparer est de la patience et beaucoup de temps. De nouveaux skins ne se complètent pas en un claquement de doigt mais peuvent prendre une semaine ou même plusieurs mois, donnez-y donc du temps.
 
