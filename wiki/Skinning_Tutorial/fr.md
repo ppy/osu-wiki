@@ -6,7 +6,7 @@
 
 ## Commencer
 
-Pour commencer, ouvrez le client de jeu, sélectionnez [Options](/wiki/Options), et cliquez sur `Ouvrier le dossier d'osu!`. Une fois que le dossier `osu!/` est ouvert, dirigez-vous dans le sous-dossier `Skins/` et créez un nouveau dossier à l'intérieur de celui-ci. Vous pouvez le nommer comme vous voulez mais gardez en mémoire qu'osu! affichera ce nom dans les options. Dans ce dossier, vous pouvez ajouter tous les éléments de skins listés dans les listes d'éléments.
+Pour commencer, ouvrez le client de jeu, sélectionnez [Options](/wiki/Options), et cliquez sur `Ouvrir le dossier d'osu!`. Une fois que le dossier `osu!/` est ouvert, dirigez-vous dans le sous-dossier `Skins/` et créez un nouveau dossier à l'intérieur de celui-ci. Vous pouvez le nommer comme vous le voulez mais gardez en mémoire qu'osu! affichera ce nom dans les options. Dans ce dossier, vous pouvez ajouter tous les éléments de skins listés dans les listes d'éléments.
 
 Contrairement aux croyances populaires, pour mieux comprendre comment le skinning fonctionne, vous devriez commencer en mixant différents skins (copier des fichiers d'autres skins et les coller dans votre dossier de skin nouvellement créé). **Vous n'êtes alors pas autorisés à les partager sur le forum.** Cependant, mixer des skins pour vous-mêmes peut vous aider à apprendre ce que le skinning peut et ne peut pas faire dans osu!.
 
