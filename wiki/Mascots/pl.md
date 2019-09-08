@@ -8,7 +8,7 @@ outdated: true
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Imię
 Pippi
@@ -47,7 +47,7 @@ Kobieta
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Imię
 Yuzu
@@ -82,7 +82,7 @@ Mężczyzna
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Imię
 Maria
@@ -118,7 +118,7 @@ Kobieta
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Imię
 一本木龍太 (Ryūta Ippongi)
@@ -155,7 +155,7 @@ Jest liderem zagrzewającego składu. Ma dobre serce i pomaga tym, którzy są n
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Imię
 Agent J
@@ -190,7 +190,7 @@ Jako ekspert w wielu stylach tańca (od hip-hopu po balet), J potrafi oczarować
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Imię
 和田どん (Wada Don)

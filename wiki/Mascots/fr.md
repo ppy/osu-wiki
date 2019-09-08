@@ -8,7 +8,7 @@ Vidéo de présentation des mascottes : <https://www.youtube.com/watch?v=mJF2cAs
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Nom complet
 Pippi
@@ -47,7 +47,7 @@ Féminin
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nom complet
 Yuzu
@@ -82,7 +82,7 @@ Masculin
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nom complet
 Maria
@@ -118,7 +118,7 @@ Féminin
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nom complet
 一本木龍太 (Ryūta Ippongi)
@@ -155,7 +155,7 @@ Il s'agit du leader de l'équipe d'acclamation. Il a un mental d'acier, une âme
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nom complet
 Agent J
@@ -190,7 +190,7 @@ Un expert dans tous les styles de danse, du hip-hop au ballet. J peut raviver l'
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nom complet
 和田どん (Wada Don)

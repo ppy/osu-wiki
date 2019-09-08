@@ -8,7 +8,7 @@ Maskotlar hakkında bir video: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Gerçek adı
 Pippi
@@ -47,7 +47,7 @@ Dişi
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Gerçek adı
 Yuzu
@@ -82,7 +82,7 @@ Erkek
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Gerçek Adı
 Maria
@@ -118,7 +118,7 @@ Cinsiyet
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Gerçek Adı
 一本木龍太 (Ryūta Ippongi)
@@ -155,7 +155,7 @@ Moral takımının sıcak kanlı lideri. İyi bir kalbi vardır ve etrafındakil
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Gerçek Adı
 Agent J
@@ -190,7 +190,7 @@ Hip-hop'tan baleye, pek çok dans stilinde uzman olan J, yaşayan herkesi etkisi
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Gerçek Adı
 和田どん (Wada Don)

@@ -8,7 +8,7 @@ Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Nome Real
 Pippi
@@ -47,7 +47,7 @@ Feminino
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nome Real
 Yuzu
@@ -82,7 +82,7 @@ Masculino
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nome Real
 Maria
@@ -118,7 +118,7 @@ Feminino
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nome Real
 一本木龍太 (Ryūta Ippongi)
@@ -155,7 +155,7 @@ Ele é o lider de Sangue-Quente do esquadrao de torcedores. Tem um bom coração
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nome Real
 Agent J
@@ -190,7 +190,7 @@ Um expert em vários estilos de dança desde hip-hop até balé, J pode hipnotiz
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nome Real
 和田どん (Wada Don)

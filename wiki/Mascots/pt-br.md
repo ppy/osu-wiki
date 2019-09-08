@@ -8,7 +8,7 @@ Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Nome real
 Pippi
@@ -47,7 +47,7 @@ Feminino
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nome real
 Yuzu
@@ -82,7 +82,7 @@ Masculino
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nome real
 Maria
@@ -118,7 +118,7 @@ Feminino
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nome real
 一本木龍太 (Ryūta Ippongi)
@@ -155,7 +155,7 @@ Ele é o líder de sangue quente da equipe de elogios. Ele tem uma boa alma e aj
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nome real
 Agent J
@@ -190,7 +190,7 @@ Um especialista em muitos estilos de dança que vão desde hip-hop até balé, J
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nome real
 和田どん (Wada Don)

@@ -6,7 +6,7 @@ outdated: true
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Nome reale
 Pippi
@@ -45,7 +45,7 @@ Femmina
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nome reale
 Yuzu
@@ -80,7 +80,7 @@ Maschio
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nome reale
 Maria
@@ -116,7 +116,7 @@ Femmina
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nome reale
 一本木龍太 (Ryūta Ippongi)
@@ -153,7 +153,7 @@ Lui è il leader dal sangue caldo della squadra del cibo. Ha una buona anima e a
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nome reale
 Agent J
@@ -188,7 +188,7 @@ Un'esperto in molti stili di ballo variando dall hip-hop al balletto classico, J
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nome reale
 和田どん (Wada Don)

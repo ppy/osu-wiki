@@ -6,7 +6,7 @@ outdated: true
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Wirklicher Name
 Pippi
@@ -45,7 +45,7 @@ weiblich
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Wirklicher Name
 Yuzu
@@ -80,7 +80,7 @@ männlich
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Wirklicher Name
 Maria
@@ -116,7 +116,7 @@ weiblich
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Wirklicher Name
 一本木龍太 (Ryūta Ippongi)
@@ -153,7 +153,7 @@ Er is der heißblütige Führer des Anfeuerungssquads. Er hat eine gute Seele un
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Wirklicher Name
 Agent J
@@ -188,7 +188,7 @@ Ein Experte in vielen Stilrichtungen vom Hip-Hop bis zum Ballett, J kann alle Le
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Wirklicher Name
 和田どん (Wada Don)
