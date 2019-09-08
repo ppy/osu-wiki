@@ -6,6 +6,6 @@
 
 ## Créer un storyboard
 
-Le [Storyboard Editor](/wiki/Storyboard_Editor) (SBE) se trouve dans l’onglet Conception (raccourci clavier F2) de l’éditeur de Beatmap. Fondamentalement, le SBE offre aux utilisateurs un moyen facile de contrôler le mouvement de sprites simples, mais il est souvent considéré comme maladroit et inutilisable pour tout ce qui dépasse le plus simple des scénarimages. Si vous souhaitez créer un story-board à écran large, vous pouvez le faire en allant dans la boîte de dialogue d’installation de la chanson.
+L'[éditeur de storyboard](/wiki/Storyboard_Editor) (SBE) se trouve dans l’onglet Conception (raccourci clavier F2) de l’éditeur de Beatmap. Fondamentalement, le SBE offre aux utilisateurs un moyen facile de contrôler le mouvement de sprites simples, mais il est souvent considéré comme maladroit et inutilisable pour tout ce qui dépasse le plus simple des storyboard. Si vous souhaitez créer un storyboard à écran large, vous pouvez le faire en allant dans la boîte de dialogue d’installation de la chanson.
 
-Les utilisateurs expérimentés dans la création de story-boards utilisent souvent le code d’arrière-plan créé par la SBE, intitulé [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) au lieu de cela, car cela leur donne plus de contrôle. Voir cet article pour plus de détails.
+Les utilisateurs expérimentés dans la création de storyboards utilisent souvent le code d’arrière-plan créé par la SBE, intitulé [Script de Storyboard](/wiki/Storyboard_Scripting) (SBS) au lieu de cela, car cela leur donne plus de contrôle. Voir cet article pour plus de détails.
