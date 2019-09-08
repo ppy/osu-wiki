@@ -22,7 +22,7 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 
 - ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883)
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
-- ![][flag___] [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 
 ### Designers
