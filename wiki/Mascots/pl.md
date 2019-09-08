@@ -14,8 +14,8 @@ outdated: true
 Pippi
 
 #### Pseudonimy
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Urodziny
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Występowanie
-* osu! (oficjalna maskotka)
-* Taiko (jako Pippidon)
-* Yandere Simulator (jako NPC (easter egg))
+- osu! (oficjalna maskotka)
+- Taiko (jako Pippidon)
+- Yandere Simulator (jako NPC (easter egg))
 
 #### Twórcy
-* Sarumaru (oryginalny koncept i wygląd)
-* Daru (obecny wygląd)
-* crystalsuicune (pippidon)
+- Sarumaru (oryginalny koncept i wygląd)
+- Daru (obecny wygląd)
+- crystalsuicune (pippidon)
 
 #### Płeć
 Kobieta
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Twórcy
-* Daru (Wygląd)
-* ztrot (wygląd jako Łapacz, koncept)
+- Daru (Wygląd)
+- ztrot (wygląd jako Łapacz, koncept)
 
 #### Płeć
 Mężczyzna
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Twórcy
-* Daru (Wygląd)
+- Daru (Wygląd)
 
 #### Płeć
 Kobieta
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Występowanie
-* Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
-* Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (jako NPC (easteregg))
+- Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
+- Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
+- [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (jako NPC (easteregg))
 
 #### Twórcy
 iNiS Corporation
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Występowanie
-* Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
-* [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
+- Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
+- [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Twórcy
 iNiS Corporation
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Występowanie
-* Taiko (Skin)
+- Taiko (Skin)
 {Oficjalna skórka dost. [w opcjach](/wiki/Options#Skin)}
 
 #### Twórcy
-* Yukiko Yokoo (横尾有希子) [Wygląd]
-* Narahashi Miki (楢橋 美紀) [Głos]
+- Yukiko Yokoo (横尾有希子) [Wygląd]
+- Narahashi Miki (楢橋 美紀) [Głos]
 
 #### Płeć
 Mężczyzna

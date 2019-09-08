@@ -14,8 +14,8 @@ outdated: true
 Pippi
 
 #### Alias
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Date de naissance
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Apparition
-* osu! (mascotte officielle)
-* Taiko (en tant que Pippidon)
-* Yandere Simulator (en tant que PNJ easter egg)
+- osu! (mascotte officielle)
+- Taiko (en tant que Pippidon)
+- Yandere Simulator (en tant que PNJ easter egg)
 
 #### Créateur
-* Sarumaru (idée et apparence originales)
-* Daru (apparence actuelle)
-* crystalsuicune (pippidon)
+- Sarumaru (idée et apparence originales)
+- Daru (apparence actuelle)
+- crystalsuicune (pippidon)
 
 #### Genre
 Féminin
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Créateur
-* Daru (Apparence)
-* ztrot (Apparence en tant qu'attrapeur de fruits, Concept art)
+- Daru (Apparence)
+- ztrot (Apparence en tant qu'attrapeur de fruits, Concept art)
 
 #### Genre
 Masculin
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Créateur
-* Daru (Apparence)
+- Daru (Apparence)
 
 #### Genre
 Féminin
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Apparition
-* Catch the Beat (en tant que chibi-Ryuuta) [remplacé par Yuzu]
-* Site web d'osu! (chibi-Ryuuta en tant que mascotte) [Retiré]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (en tant que PNJ easter egg)
+- Catch the Beat (en tant que chibi-Ryuuta) [remplacé par Yuzu]
+- Site web d'osu! (chibi-Ryuuta en tant que mascotte) [Retiré]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (en tant que PNJ easter egg)
 
 #### Créateur
 iNiS Corporation
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Apparition
-* Site web d'osu! (chibi-J en tant que mascotte) [retiré]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Site web d'osu! (chibi-J en tant que mascotte) [retiré]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Créateur
 iNiS Corporation
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Apparition
-* Taiko (Skin)
+- Taiko (Skin)
 {Skin officiel depuis [le menu des options](/wiki/Options#Skin)}
 
 #### Créateur
-* Yukiko Yokoo (横尾有希子) [Appearance]
-* Narahashi Miki (楢橋 美紀) [Voix]
+- Yukiko Yokoo (横尾有希子) [Appearance]
+- Narahashi Miki (楢橋 美紀) [Voix]
 
 #### Genre
 Masculin

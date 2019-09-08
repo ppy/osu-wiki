@@ -18,7 +18,7 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergab
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
-<!-- *Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).* -->
+<!-- *Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).- -->
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 

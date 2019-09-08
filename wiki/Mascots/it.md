@@ -12,8 +12,8 @@ outdated: true
 Pippi
 
 #### Alias
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Compleanno
 ?
@@ -22,14 +22,14 @@ Pippi
 ?
 
 #### Aspetto
-* osu! (Mascotte ufficiale)
-* Taiko (come Pippidon)
-* Yandere Simulator (as NPC easter egg)
+- osu! (Mascotte ufficiale)
+- Taiko (come Pippidon)
+- Yandere Simulator (as NPC easter egg)
 
 #### Creator
-* Sarumaru (Concept e arte originale)
-* Daru (Arte corrente)
-* crystalsuicune (pippidon)
+- Sarumaru (Concept e arte originale)
+- Daru (Arte corrente)
+- crystalsuicune (pippidon)
 
 #### Genere
 Femmina
@@ -63,8 +63,8 @@ Yuzu
 Catch the Beat
 
 #### Creator
-* Daru (Arte)
-* ztrot (arte del personaggio nel gioco)
+- Daru (Arte)
+- ztrot (arte del personaggio nel gioco)
 
 #### Genere
 Maschio
@@ -98,7 +98,7 @@ Maria
 Mania
 
 #### Creator
-* Daru (Arte)
+- Daru (Arte)
 
 #### Genere
 Femmina
@@ -131,10 +131,10 @@ Ryuuta
 ?
 
 #### Aspetto
-* Catch the Beat (come chibi-Ryuuta) [sostituito da Yuzu],
-* pagina web di osu!(chibi-Ryuuta come Mascotte) [Ritirato]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (as NPC Easter Egg)
+- Catch the Beat (come chibi-Ryuuta) [sostituito da Yuzu],
+- pagina web di osu!(chibi-Ryuuta come Mascotte) [Ritirato]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (as NPC Easter Egg)
 
 #### Creator
 iNiS Corporation
@@ -168,8 +168,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aspetto
-* pagina web di osu!(chibi-J come mascotte) [Ritirato]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- pagina web di osu!(chibi-J come mascotte) [Ritirato]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Creator
 iNiS Corporation
@@ -203,12 +203,12 @@ Don, Don-chan
 48cm
 
 #### Aspetto
-* Taiko (Skin)
+- Taiko (Skin)
 {Skin ufficiale per [Options's trigger](/wiki/Options#Skin)}
 
 #### Creator
-* Yukiko Yokoo (横尾有希子) [Art]
-* Narahashi Miki (楢橋 美紀) [Voce]
+- Yukiko Yokoo (横尾有希子) [Art]
+- Narahashi Miki (楢橋 美紀) [Voce]
 
 #### Genere
 Maschio

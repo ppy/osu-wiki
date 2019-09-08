@@ -14,8 +14,8 @@ outdated: true
 Pippi
 
 #### Apelhidos
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Aniversario
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Aparece em
-* osu! (Mascote Oficial))
-* Taiko (como Pippidon)
-* Yandere Simulator (as NPC easter egg)
+- osu! (Mascote Oficial))
+- Taiko (como Pippidon)
+- Yandere Simulator (as NPC easter egg)
 
 #### Criador
-* Sarumaru (Conceito e Arte original)
-* Daru (Arte atual)
-* crystalsuicune (pippidon)
+- Sarumaru (Conceito e Arte original)
+- Daru (Arte atual)
+- crystalsuicune (pippidon)
 
 #### Sexo
 Feminino
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Criador
-* Daru (Art)
-* ztrot (Arte do Catcher)
+- Daru (Art)
+- ztrot (Arte do Catcher)
 
 #### Sexo
 Masculino
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Criador
-* Daru (Art)
+- Daru (Art)
 
 #### Sexo
 Feminino
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Aparece em
-* Catch the Beat (como chibi-Ryuuta) [substituido por Yuzu]
-* osu!webpage (chibi-Ryuuta como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (as NPC Easter Egg)
+- Catch the Beat (como chibi-Ryuuta) [substituido por Yuzu]
+- osu!webpage (chibi-Ryuuta como Mascote) [Retirado]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (as NPC Easter Egg)
 
 #### Criador
 iNiS Corporation
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aparece em
-* osu!webpage (chibi-J como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- osu!webpage (chibi-J como Mascote) [Retirado]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Criador
 iNiS Corporation
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Aparece em
-* Taiko (Skin)
+- Taiko (Skin)
 {Official skin for [Options's trigger](/wiki/Options#Skin)}
 
 #### Criador
-* Yukiko Yokoo (横尾有希子) [Art]
-* Narahashi Miki (楢橋 美紀) [Voice provider]
+- Yukiko Yokoo (横尾有希子) [Art]
+- Narahashi Miki (楢橋 美紀) [Voice provider]
 
 #### Sexo
 Masculino
