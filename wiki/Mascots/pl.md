@@ -2,9 +2,9 @@
 outdated: true
 ---
 
-[Filmik o maskotkach](https://www.youtube.com/watch?v=mJF2cAs_MrI)
-
 # Maskotki osu!
+
+[Filmik o maskotkach](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
 ## Pippi
 
