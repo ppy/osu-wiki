@@ -8,7 +8,7 @@ The next cycle of the Community Mentorship program is starting again! If you've 
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
-The Community Mentorship program serves as place for upcoming mappers and modders to develop their skills underneath the guidance of more experienced mappers and modders in the community. Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events, such as mapping contests, hang out with fellow mentees and more!
+The Community Mentorship program serves as place for upcoming mappers and modders to develop their skills underneath the guidance of more experienced mappers and modders in the community. Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (such as mapping contests), hang out with fellow mentees, and more!
 
 For those of you already experienced in mapping, and have a desire to take those that are newer under your wing, mentor applications are already open! In the forum announcement and rule thread [here](https://osu.ppy.sh/community/forums/topics/955356), you'll be able to apply if you’re considering mentoring! Keep in mind mentor applications take sometime to process, so please be patient.
 
