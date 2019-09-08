@@ -78,7 +78,7 @@ Masculino
 65kg
 
 #### Biografia
-[Introdução](https://osu.ppy.sh/news/89483664163) (a ser adicionada)
+[Introdução](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
@@ -112,7 +112,7 @@ Feminino
 ?
 
 #### Biografia
-[Introdução](https://osu.ppy.sh/news/143103453693) (a ser adicionada)
+[Introdução](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Cameos
 
@@ -206,7 +206,7 @@ Don, Don-chan
 
 #### Aparece em
 * Taiko (Skin)
-{Skin oficial para as [Opções do gatilho](Options#Skin "wikilink")}
+{Skin oficial para as [Opções do gatilho](/wiki/Options#Skin)}
 
 #### Criador
 * Yukiko Yokoo (横尾有希子) [Arte]

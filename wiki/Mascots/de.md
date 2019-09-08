@@ -76,7 +76,7 @@ männlich
 65kg
 
 #### Biologische Daten
-[Einführung](https://osu.ppy.sh/news/89483664163) (noch hinzuzufügen)
+[Einführung](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
@@ -110,7 +110,7 @@ weiblich
 ?
 
 #### Biologische Daten
-[Einführung](https://osu.ppy.sh/news/143103453693) (noch hinzuzufügen)
+[Einführung](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Cameos
 
@@ -204,7 +204,7 @@ Don, Don-chan
 
 #### Einsatz in
 * Taiko (Skin)
-{Official skin for [Options's trigger](Options#Skin "wikilink")}
+{Official skin for [Options's trigger](/wiki/Options#Skin)}
 
 #### Ersteller
 * Yukiko Yokoo (横尾有希子) [Aussehen]
@@ -224,4 +224,4 @@ Don ist der Protagonist der Taiko no Tatsujin Serie. Er ist die Taiko-Trommel mi
 
 # Bildergalerie
 
-[Klicke hier drauf, um zur Bildergalerie zu gelangen.](Mascots/Gallery "wikilink")
+[Klicke hier drauf, um zur Bildergalerie zu gelangen.](/wiki/Mascots/Gallery)

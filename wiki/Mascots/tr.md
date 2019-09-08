@@ -78,7 +78,7 @@ Erkek
 65kg
 
 #### Biyoveri
-[Tanıtım](https://osu.ppy.sh/news/89483664163) (eklenecek)
+[Tanıtım](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
@@ -112,7 +112,7 @@ Cinsiyet
 ?
 
 #### Biyoveri
-[Tanıtım](https://osu.ppy.sh/news/143103453693) (eklenecek)
+[Tanıtım](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Konuklar
 
@@ -206,7 +206,7 @@ Don, Don-chan
 
 #### Belirmeler
 * Taiko (Skin)
-{[Option'un tetiği](Options#Skin "wikilink") için resmi skin}
+{[Option'un tetiği](/wiki/Options#Skin) için resmi skin}
 
 #### Yaratıcı
 * Yukiko Yokoo (横尾有希子) [Çizim]
@@ -226,4 +226,4 @@ Don Taiko no Tatsujin serisinin ana karakteri. Kendisi beyaz kenarlı, kırmız�
 
 # Resim Galerisi
 
-[Galeriye gitmek için buraya tıklayın tıklayın.](/wiki/Mascots/Gallery "wikilink")
+[Galeriye gitmek için buraya tıklayın tıklayın.](/wiki/Mascots/Gallery)

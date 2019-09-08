@@ -78,7 +78,7 @@ Masculin
 65kg
 
 #### Biographie
-[Introduction](https://osu.ppy.sh/news/89483664163) (détails prochainement)
+[Introduction](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
@@ -112,7 +112,7 @@ Féminin
 ?
 
 #### Biographie
-[Introduction](https://osu.ppy.sh/news/143103453693) (Prochainement)
+[Introduction](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Cameos
 
@@ -206,7 +206,7 @@ Don, Don-chan
 
 #### Apparition
 * Taiko (Skin)
-{Skin officiel depuis [le menu des options](Options#Skin "wikilink")}
+{Skin officiel depuis [le menu des options](/wiki/Options#Skin)}
 
 #### Créateur
 * Yukiko Yokoo (横尾有希子) [Appearance]
@@ -226,4 +226,4 @@ Don est le protagoniste de la série de jeux Taiko no Tatsujin. Il ressemble à 
 
 # Galerie d'images
 
-[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery "wikilink")
+[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery)
