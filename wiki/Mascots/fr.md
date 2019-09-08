@@ -2,20 +2,20 @@
 outdated: true
 ---
 
-# Mascottes d'osu!
+Vidéo de présentation des mascottes : <https://www.youtube.com/watch?v=mJF2cAs_MrI>
 
-[Vidéo de présentation des mascottes](https://www.youtube.com/watch?v=mJF2cAs_MrI)
+# Mascottes d'osu!
 
 ## Pippi
 
-![Pippi](img/pippi.png "Pippi")
+![Pippi](Pippi_Daru_Header.png "Pippi")
 
 #### Nom complet
 Pippi
 
 #### Alias
-- Pippi
-- Pippidon
+* Pippi
+* Pippidon
 
 #### Date de naissance
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Apparition
-- osu! (mascotte officielle)
-- Taiko (en tant que Pippidon)
-- Yandere Simulator (en tant que PNJ easter egg)
+* osu! (mascotte officielle)
+* Taiko (en tant que Pippidon)
+* Yandere Simulator (en tant que PNJ easter egg)
 
 #### Créateur
-- Sarumaru (idée et apparence originales)
-- Daru (apparence actuelle)
-- crystalsuicune (pippidon)
+* Sarumaru (idée et apparence originales)
+* Daru (apparence actuelle)
+* crystalsuicune (pippidon)
 
 #### Genre
 Féminin
@@ -47,7 +47,7 @@ Féminin
 
 ## Yuzu
 
-![Yuzu](img/Yuzu.png "Yuzu")
+![Yuzu](Yuzu_Profile.png "Yuzu")
 
 #### Nom complet
 Yuzu
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Créateur
-- Daru (Apparence)
-- ztrot (Apparence en tant qu'attrapeur de fruits, Concept art)
+* Daru (Apparence)
+* ztrot (Apparence en tant qu'attrapeur de fruits, Concept art)
 
 #### Genre
 Masculin
@@ -78,11 +78,11 @@ Masculin
 65kg
 
 #### Biographie
-[Introduction](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
+[Introduction](https://osu.ppy.sh/news/89483664163) (détails prochainement)
 
 ## Maria
 
-![Maria](img/Maria.png "Maria")
+![Maria](Maria_Profile.jpeg "Maria")
 
 #### Nom complet
 Maria
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Créateur
-- Daru (Apparence)
+* Daru (Apparence)
 
 #### Genre
 Féminin
@@ -112,13 +112,13 @@ Féminin
 ?
 
 #### Biographie
-[Introduction](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
+[Introduction](https://osu.ppy.sh/news/143103453693) (Prochainement)
 
 # Cameos
 
 ## Ryūta Ippongi
 
-![Ryuuta](img/Ryuuta.png "Ryuuta")
+![Ryuuta](Fruit_ryuuta.png "Ryuuta")
 
 #### Nom complet
 一本木龍太 (Ryūta Ippongi)
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Apparition
-- Catch the Beat (en tant que chibi-Ryuuta) [remplacé par Yuzu]
-- Site web d'osu! (chibi-Ryuuta en tant que mascotte) [Retiré]
-- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-- Yandere Simulator (en tant que PNJ easter egg)
+* Catch the Beat (en tant que chibi-Ryuuta) [remplacé par Yuzu]
+* Site web d'osu! (chibi-Ryuuta en tant que mascotte) [Retiré]
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+* Yandere Simulator (en tant que PNJ easter egg)
 
 #### Créateur
 iNiS Corporation
@@ -155,7 +155,7 @@ Il s'agit du leader de l'équipe d'acclamation. Il a un mental d'acier, une âme
 
 ## Agent J
 
-![Agent J](img/Agent_J.png "Agent J")
+![Agent J](J_chibi_Header.png "Agent J")
 
 #### Nom complet
 Agent J
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Apparition
-- Site web d'osu! (chibi-J en tant que mascotte) [retiré]
-- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+* Site web d'osu! (chibi-J en tant que mascotte) [retiré]
+* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Créateur
 iNiS Corporation
@@ -190,7 +190,7 @@ Un expert dans tous les styles de danse, du hip-hop au ballet. J peut raviver l'
 
 ## Don
 
-![Don](img/Don.png "Don")
+![Don](Don-chan_Taiko.png "Don")
 
 #### Nom complet
 和田どん (Wada Don)
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Apparition
-- Taiko (Skin)
-{Skin officiel depuis [le menu des options](/wiki/Options#Skin)}
+* Taiko (Skin)
+{Skin officiel depuis [le menu des options](Options#Skin "wikilink")}
 
 #### Créateur
-- Yukiko Yokoo (横尾有希子) [Appearance]
-- Narahashi Miki (楢橋 美紀) [Voix]
+* Yukiko Yokoo (横尾有希子) [Appearance]
+* Narahashi Miki (楢橋 美紀) [Voix]
 
 #### Genre
 Masculin
@@ -226,4 +226,4 @@ Don est le protagoniste de la série de jeux Taiko no Tatsujin. Il ressemble à 
 
 # Galerie d'images
 
-[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery)
+[Cliquez ici pour voir la galerie.](/wiki/Mascots/Gallery "wikilink")
