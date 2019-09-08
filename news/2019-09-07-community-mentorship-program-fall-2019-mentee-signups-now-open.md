@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Fall 2020 Signups Now Open"
+title: "Community Mentorship Program Fall 2019 Signups Now Open"
 date: 2019-09-08 12:50:00 +0000
 ---
 
@@ -10,7 +10,7 @@ The next cycle of the Community Mentorship program is starting again! If you've 
 
 The Community Mentorship program serves as place for upcoming mappers and modders to develop their skills underneath the guidance of more experienced mappers and modders in the community. Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events (such as mapping contests), hang out with fellow mentees, and more!
 
-For those of you already experienced in mapping, and have a desire to take those that are newer under your wing, mentor applications are already open! In the forum announcement and rule thread [here](https://osu.ppy.sh/community/forums/topics/955356), you'll be able to apply if you’re considering mentoring! Keep in mind mentor applications take sometime to process, so please be patient.
+For those of you already experienced in mapping, and have a desire to take those that are newer under your wing, we also support mentor applications! In the forum announcement and rule thread [here](https://osu.ppy.sh/community/forums/topics/955356), you'll be able to apply if you’re considering mentoring! Keep in mind mentor applications are currently closed, but we will be opening up for future cycles, so please be patient.
 
 ---
 
