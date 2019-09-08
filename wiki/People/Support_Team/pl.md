@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Zespół pomocy
 
 **Zespół pomocy** (również znani jako **Support Team Redux**, nie mylić z zespołem pomocy ds. kont, którzy również są znani jako Zespół pomocy) są członkami załogi osu!. Zajmują się moderowaniem forum oraz poszczególnych podforów: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (wyłączając [Tournaments](https://osu.ppy.sh/community/forums/55) i [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), a także [Technical Support](https://osu.ppy.sh/community/forums/5).
