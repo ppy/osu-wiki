@@ -26,7 +26,7 @@ These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_crite
 
 Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may uploaded them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
 
 ### Qualified
 
@@ -48,7 +48,7 @@ During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up
 
 Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
 
-These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialoge will display, noting that:
+These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialogue will display, noting that:
 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted if the creator updates the beatmap.
@@ -71,7 +71,7 @@ All pending beatmaps do not affect user statistics.
 
 Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
-These beatmaps were initally [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
+These beatmaps were initially [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
 
 All graveyarded beatmaps do not affect user statistics.
 
