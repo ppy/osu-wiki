@@ -4,10 +4,11 @@ outdated: true
 
 # osu! Alumni
 
-The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square.
-Link to [user group page](https://osu.ppy.sh/groups/16)
+The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available, we would erect a statue for each member in the town square.
 
-| Name  | Epitaph |
+The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the members.
+
+| Name | Past roles |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
@@ -154,7 +155,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator and Support Team |
+| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |

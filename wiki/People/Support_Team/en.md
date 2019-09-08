@@ -13,9 +13,11 @@ If someone needs any assistance on the said subforums, they can be first approac
 
 ## Team Members
 
-*Every Support Team member speaks English unless specified otherwise. Link to [user group page](https://osu.ppy.sh/groups/22).*
+The [Support Team group page](https://osu.ppy.sh/groups/22) lists all of the team members.
 
-| Name | Language(s) |
+*Note: All Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+| Name | Additional languages |
 | :-- | :-- |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |

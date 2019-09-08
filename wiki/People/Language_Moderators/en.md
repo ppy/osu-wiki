@@ -2,7 +2,7 @@
 
 Many of the language channels in osu! have specific moderators who oversee conversations and maintains the channels. While GMT members are mainly in charge of taking care of any issues, some NAT members are also available when needed.
 
-## List of language-specific moderators
+## List of Language-Specific Moderators
 
 | Channel | Subforum | Operators |
 | :-- | :-- | :-- |
@@ -13,7 +13,7 @@ Many of the language channels in osu! have specific moderators who oversee conve
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974), ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) |
 | `#czechoslovak` | | |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
-| `#english` | | *All Moderators* |
+| `#english` | | *All moderators* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731)  |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |

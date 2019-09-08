@@ -6,6 +6,8 @@ Developers of osu! can be recognized by their pink user colours and "osu!dev" or
 
 ## Team Members
 
+The [Developers group page](https://osu.ppy.sh/groups/11) lists all of the team members.
+
 The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, the creator of osu!.
 
 ### Game Client Developers
