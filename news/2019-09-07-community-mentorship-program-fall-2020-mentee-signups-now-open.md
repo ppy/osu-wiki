@@ -26,7 +26,7 @@ Since last cycle, we've restructured our general mentorship timeline.
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 
-- Mentor sign-ups have started  2019-09-01 and close on 2019-09-08.
+- Mentor sign-ups opened on 2019-09-01 and closed on 2019-09-08.
 - Mentee sign-ups will open on 2019-09-22 and close on 2019-10-03.
 - The fall 2019 cycle will run from 2019-10-06 to 2020-01-05.
 
