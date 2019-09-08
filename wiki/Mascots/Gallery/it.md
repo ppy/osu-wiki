@@ -21,7 +21,7 @@ outdated: true
 
 ![pippi (Nuova revisione di Daru).](img/pippi-Daru-redesigned.png "pippi (Nuova revisione di Daru).")
 ![Combo Burst della skin "osu! di peppy".](img/pippi-Daru-comboburst.png "Combo Burst della skin \"osu! di peppy\".")
-![Immagine di errore 404.](img/Pippi-Daru-404.png "Immagine di errore 404.")
+![Immagine di errore 404.](img/pippi-Daru-404.png "Immagine di errore 404.")
 
 ### Yuzu
 
