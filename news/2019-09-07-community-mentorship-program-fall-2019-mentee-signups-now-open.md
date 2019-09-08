@@ -4,7 +4,7 @@ title: "Community Mentorship Program Fall 2019 Signups Now Open"
 date: 2019-09-08 12:50:00 +0000
 ---
 
-The next cycle of the Community Mentorship program is starting again! If you've ever found yourself wanting to get into beatmapping, or expanding your current knowledge and skills, this program will serve as a great opportunity for you!
+The next cycle of the Community Mentorship program is starting again! If you've ever found yourself wanting to get into beatmapping or expand your current knowledge and skills, this program will serve as a great opportunity for you!
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
