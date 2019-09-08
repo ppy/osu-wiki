@@ -45,7 +45,7 @@ Osoby przedstawione poniżej są trzonem zespołu osu!. Ich celem jest sprawieni
 | [![][flag_US] Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Oryginalny projekt i szkic pippi |
 | [![][flag_GR] Sinistro](https://osu.ppy.sh/users/5530) | Zarządzanie społecznością, organizowanie spotkań, wkład w FAQ |
 | [![][flag_CN] woc2006](https://osu.ppy.sh/users/1105845) | Programista, rozwój osu!manii |
-| [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) | Projekt oraz prowadzenie [akademii osu!](/wiki/Announcements/osu!academy), projekt Yuzu |
+| [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) | Projekt oraz prowadzenie [akademii osu!](/wiki/osu!academy), projekt Yuzu |
 
 ## Grupy
 
