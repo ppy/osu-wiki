@@ -10,9 +10,9 @@ BanchoBot est un bot (c’est-à-dire un ensemble de commandes à réponse autom
 
 Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commandes fonctionnent dans le jeu et dans les clients IRC externes. Ils peuvent être utilisés dans les canaux de discussion multijoueurs et dans l'onglet MP (message privé) de BanchoBot. Si un utilisateur envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
 
-Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet avec BanchoBot et envoyer la commande immédiatement.
+Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet de tchat avec BanchoBot et envoyer la commande immédiatement.
 
-*Nota: la commande `SEARCH` n'est pas inclus car elle ne fonctionne pas.*
+*Nota: La commande `SEARCH` n'est pas incluse car elle ne fonctionne pas.*
 
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
@@ -26,7 +26,7 @@ Affiche une liste des commandes de BanchoBot disponibles.
 
 #### Exemple d'utilisation
 
-*Nota: le paramètre `user` pour la commande `REPORT` est manquant.*
+*Nota: Le paramètre `user` pour la commande `REPORT` est manquant.*
 
 ```
 pippi: !help
@@ -61,7 +61,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <utilisateur>
 ```
 
-Affiche les statistiques de l'utilisateur entré. Les statistiques affichées dépendent du mode dans lequel elles sont jouées ou de la dernière fois.
+Affiche les statistiques de l'utilisateur entré. Les statistiques affichées dépendent du mode dans lequel elles sont jouées ou du mode dans lesquelles elles ont été jouées pour la dernière fois.
 
 *Remarque: BanchoBot ne vous dira pas de quel mode de jeu proviennent les statistiques.*
 
@@ -110,7 +110,7 @@ BanchoBot: Ephemeral est en Australie
 !FAQ list
 ```
 
-Affiche le message de l'entrée. Vous pouvez utiliser l'argument `list` pour afficher toutes les entrées disponibles. Lorsqu'un modérateur l'utilise dans un canal public, la réponse est transmise à ce canal. Lorsque des utilisateurs normaux l'utilisent dans un canal public, la réponse sera transmise via le PM de BanchoBot.
+Affiche le message de l'entrée. Vous pouvez utiliser l'argument `list` pour afficher toutes les entrées disponibles. Lorsqu'un modérateur l'utilise dans un canal public, la réponse est transmise dans ce canal. Lorsque des utilisateurs normaux l'utilisent dans un canal public, la réponse sera transmise via le PM de BanchoBot.
 
 #### Exemples d'utilisation
 
