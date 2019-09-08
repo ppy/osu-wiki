@@ -26,7 +26,7 @@ Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vo
 
 La prochaine chose dont vous aurez besoin sera un thème ou une idée. Vous devriez avoir quelque chose en tête afin d'avoir un objectif pour le rendu final de votre skin. Cela vous aidera également quand vous aurez besoin de récupérer et/ou de créer des fichiers
 
-Le dernière chose à préparer est de la patience et beaucoup de temps. De nouveaux skins ne se complètent pas en un claquement de doigt mais peuvent prendre une semaine ou même plusieurs mois, donnez-y donc du temps.
+La patience et de la disponibilité sont deux choses primordiales en skinning. De nouveaux skins ne se complètent pas en un claquement de doigt mais peuvent prendre une semaine ou même plusieurs mois, donnez-y donc du temps.
 
 ## Et après ?
 
