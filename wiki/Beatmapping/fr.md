@@ -6,7 +6,7 @@ Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [o
 Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmaps). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_Ranking_Procedure).
 
 Comme osu! est un jeu basé sur le rythme, la chanson/musique que vous choisissez de mapper doit avoir un rythme évident et constant.
-Essayez d’éviter les chansons dont le tempo (ou la vitesse) change trop souvent, jusqu’à ce que vous soyez plus expérimentés et habitués au beatmapping.
+Essayez d’éviter les chansons dont le tempo (ou la vitesse) change trop souvent, a moins que vous soyez expérimentés et habitués au beatmapping.
 
 ## Commencer
 
@@ -47,18 +47,18 @@ Vous devez vous assurer que votre timing est parfait avant d’ajouter des [hit 
 
 Si vous avez des doutes sur le timing, contactez d'abord un mod pour obtenir de l'aide, ou soumettez votre chanson au [Forum d'aide sur les Beatmap](https://osu.ppy.sh/community/forums/10).
 
-Cela vous évitera (et la communauté de modding) beaucoup de tracas par la suite.
+Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup de soucis par la suite.
 
 ### Composer
 
 *Page principale : [Composer](/wiki/Compose)*
 
-L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à beatmapping.
+L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
-C’est à cet endroit que vous pouvez placer des hit objects et gérer leurs [hit sounds](/wiki/hit_sounds).
+C’est également ici que vous pouvez placer des hit objects et gérer leurs [hit sounds](/wiki/hit_sounds).
 
 ### Conception
 
 *Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboarding)*
 
-L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard de base.
+L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard.
