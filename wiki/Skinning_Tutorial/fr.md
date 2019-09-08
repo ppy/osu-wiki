@@ -28,7 +28,7 @@ La prochaine chose dont vous aurez besoin sera un thème ou une idée. Vous devr
 
 Le dernière chose à préparer est de la patience et beaucoup de temps. De nouveaux skins ne se complètent pas en un claquement de doigt mais peuvent prendre une semaine ou même plusieurs mois, donnez-y donc du temps.
 
-## Pour la suite ?
+## Et après ?
 
 Ici, vous pouvez soit aller vérifier la [liste d'élements des skins](/wiki/skinning#skin-elements-lists) pour avoir une idée de quoi inclure dans votre skin ou alors allez voir certains des tutoriels :
 
