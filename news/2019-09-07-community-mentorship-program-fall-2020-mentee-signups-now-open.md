@@ -16,7 +16,7 @@ For those of you already experienced in mapping, and have a desire to take those
 
 For this upcoming fall cycle, we are looking for both mentors and mentees for all game modes!
 
-Since last cycle, we've restructured our general mentorship timeline.
+Since last cycle, we've restructured our general mentorship timeline:
 
 - No longer are mentors required to sign-up each cycle, instead a mentor may mentor for as long as they'd like, but can retire at any time, once completing their commitments to their mentees.
 - Mentee applications are accepted every 4-weeks, and expire after 8, if they have not been accepted. However, applicants with high interests are encouraged to reapply as often as possible, to better reflect their interest, changes in mentor preferences, and availability.
