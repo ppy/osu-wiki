@@ -21,7 +21,7 @@ outdated: true
 
 ![pippi (Daru'nun yeni revizyonu ).](img/pippi-Daru-redesigned.png "pippi (Daru'nun yeni revizyonu).")
 !["osu! by peppy" skininin kombo parıltıları.](img/pippi-Daru-comboburst.png "\"osu! by peppy\" skininin kombo parıltıları.")
-![404 hatası resmi.](img/Pippi-Daru-404.png "404 hatası resmi.")
+![404 hatası resmi.](img/pippi-Daru-404.png "404 hatası resmi.")
 
 ### Yuzu
 
