@@ -30,7 +30,7 @@ Le dernière chose à préparer est de la patience et beaucoup de temps. De nouv
 
 ## Et après ?
 
-Ici, vous pouvez soit aller vérifier la [liste d'élements des skins](/wiki/skinning#skin-elements-lists) pour avoir une idée de quoi inclure dans votre skin ou alors allez voir certains des tutoriels :
+Ici, vous pouvez soit aller vérifier la [liste d'élements des skins](/wiki/skinning#skin-elements-lists) pour avoir une idée de quoi inclure dans votre skin, ou alors allez voir certains des tutoriels suivants :
 
 -   [Tutoriel de Skinning/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
 -   [Tutoriel de Skinning/Interface](/wiki/Skinning_Tutorial/Interface)
