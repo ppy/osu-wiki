@@ -95,7 +95,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ---
 
-![TWC 2019 Bracket](img/bracket_GF.png)
+![TWC 2019 Bracket](img/bracket.png)
 
 ---
 
