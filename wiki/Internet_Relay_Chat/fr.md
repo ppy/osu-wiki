@@ -1,6 +1,6 @@
 # Qu'est-ce que Internet Relay Chat?
 
-L'[Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), également connu sous le nom d'IRC, est un protocole normalisé bien établi pour discuter avec de nombreux clients disponibles.
+L'[Internet Relay Chat](http://fr.wikipedia.org/wiki/Internet_Relay_Chat), également connu sous le nom d'IRC, est un protocole normalisé bien établi pour discuter avec de nombreux clients disponibles.
 
 
 ## osu!Bancho
