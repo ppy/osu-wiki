@@ -37,6 +37,6 @@ outdated: true
 
 ## Cameo
 
-![Ryuuta in osu!catch.](../img/Ryuuta.png "Ryuuta in osu!catch.")
-![Chibi-J](../img/Agent_J.png "Chibi-J")
+![Ryuuta in osu!catch.](/wiki/Mascots/img/Ryuuta.png "Ryuuta in osu!catch.")
+![Chibi-J](/wiki/Mascots/img/Agent_J.png "Chibi-J")
 ![Vecchia pippi e amici nelle deprecate Modalità Speciali.](/wiki/shared/Ctb_logo.jpg "Vecchia pippi e amici nelle deprecate Modalità Speciali.")
