@@ -1,9 +1,9 @@
 <!-- wiki -->
 [Game_Modes wikilink]: ../ "Game Modes"
-[Play_Styles#Osu! wikilink]: /wiki/Play_Styles/ "plus d'informations sur les Styles de jeu dans Osu!"
-[Score#Osu!SV wikilink]: /wiki/Score/#osu "plus d'informations sur le Score dans Osu! Calcul du score"
+[Play_Styles#Osu! wikilink]: /wiki/Play_Styles/ "plus d'informations sur les Styles de jeu dans osu!"
+[Score#Osu!SV wikilink]: /wiki/Score/#osu "plus d'informations sur le Score dans osu! Calcul du score"
 [Options#Keyboard wikilink]: /wiki/Options/ "plus d'informations sur les Options du Clavier"
-[Skinning#Osu! wikilink]: /wiki/Skinning/Osu!/ "plus d'informations sur le Skinning dans Osu!"
+[Skinning#Osu! wikilink]: /wiki/Skinning/osu!/ "plus d'informations sur le Skinning dans osu!"
 [Mascots#pippi wikilink]: /wiki/Mascots/#pippi "plus d'informations sur la mascotte pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "plus d'informations sur le Mod Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "plus d'informations sur le modificateur de jeu Hidden"
@@ -11,23 +11,23 @@
 [Relax wikilink]: /wiki/Game_Modifiers "plus d'informations sur le modificateur de jeu Relax"
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "plus d'informations sur le modificateur de jeu Auto Pilot"
 [Spun Out wikilink]: /wiki/Game_Modifiers "plus d'informations sur le modificateur de jeu Spun Out"
-[Beatmapping wikilink]: /wiki/Beatmapping "Plus d'informations sur le Beatmapping dans Osu!"
+[Beatmapping wikilink]: /wiki/Beatmapping "Plus d'informations sur le Beatmapping dans osu!"
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "plus d'informations sur le Circle Size"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "plus d'informations sur le HP Drain"
 [OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "plus d'informations sur l'Overall Difficulty"
 
 <!-- externe -->
-[ouendan wikipedia]: https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia dédiée à Osu! Tatakae! Ouendan"
-[Osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Tutoriel sur les mécaniques de base du jeu Osu! par Peppy"
-[Osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Tutoriel classé sur les mécaniques avancées du jeu Osu! par Sushi"
+[ouendan wikipedia]: https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia dédiée à osu! Tatakae! Ouendan"
+[Osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Tutoriel sur les mécaniques de base du jeu osu! par Peppy"
+[Osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Tutoriel classé sur les mécaniques avancées du jeu osu! par Sushi"
 
 <!-- image partagée -->
-[ouendan image]: /wiki/shared/Ouendan.jpg "Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS"
-[Osu! icon link]: /wiki/shared/mode/osu.png "Icône d'Osu!"
-[osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "Hit Circles d'Osu!"
-[osu_slider image]: /wiki/shared/osu_slider.jpg "Slider d'Osu!"
-[osu_spinner image]: /wiki/shared/osu_spinner.jpg "Spinner d'Osu!"
-[Osu! Interface image]: /wiki/shared/Interface_osu.jpg "Interface d'Osu!"
+[ouendan image]: /wiki/shared/Ouendan.jpg "Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS"
+[Osu! icon link]: /wiki/shared/mode/osu.png "Icône d'osu!"
+[osu_hit circles image]: /wiki/shared/osu_hitcircles.jpg "Hit Circles d'osu!"
+[osu_slider image]: /wiki/shared/osu_slider.jpg "Slider d'osu!"
+[osu_spinner image]: /wiki/shared/osu_spinner.jpg "Spinner d'osu!"
+[Osu! Interface image]: /wiki/shared/Interface_osu.jpg "Interface d'osu!"
 [Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Icône de saisie, section Clavier"
 [Slider ticks image]: /wiki/shared/Sliderticks.png "Image montrant un slider avec des graduations de slider, avec la partie supérieure pendant l'édition et la partie inférieure pendant la lecture"
 [osu_smoke image]: /wiki/shared/osu_smoke.jpg "Usage du Smoke"
@@ -38,9 +38,9 @@
 # Osu!
 
 <!-- Supprimez les commentaires ci-dessous et supprimez ce commentaire si ScoreV2 est officiel et que la page entière doit être révisée pour s’adapter au comportement du système -->
-<!-- **[Cliquez ici pour visiter l'ancienne version d'Osu! en utilisant le système obsolète ScoreV1](./v1 "Osu! v1")** -->
+<!-- **[Cliquez ici pour visiter l'ancienne version d'osu! en utilisant le système obsolète ScoreV1](./v1 "Osu! v1")** -->
 
-![Gameplay de Osu!][Osu! Interface image]
+![Gameplay de osu!][Osu! Interface image]
 
 Le premier mode de jeu basé sur la série Ouendan.
 
@@ -51,9 +51,9 @@ Le gameplay se compose de seulement trois éléments : taper des cercles sur l�
 Tous ces éléments sont adaptés pour reprendre le rythme de chansons japonaises populaires.
 Voici a quoi ressemble le jeu sur _Nintendo DS_:
 
-![Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS][ouendan image]
+![Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS][ouendan image]
 
-_Exemple de gameplay de Osu! Tatakae! Ouendan sur Nintendo DS_
+_Exemple de gameplay de osu! Tatakae! Ouendan sur Nintendo DS_
 
 Les cercles sont visibles sur l’écran inférieur et une histoire est montrée sur l’écran supérieur.
 Chaque niveau est, en gros, une histoire indépendante suivant une personne en difficulté.
@@ -82,7 +82,7 @@ Pour bien comprendre comment fonctionne le jeu, il faut tout d'abord apprendre l
 
 Pour accéder au mode de jeu osu!, appuyez sur `Ctrl`+`1` en même temps.
 
-Sinon, cliquez sur le boutton `Mode` et sélectionnez `Osu!`.
+Sinon, cliquez sur le boutton `Mode` et sélectionnez `osu!`.
 
 ### Les bases du gameplay
 
@@ -362,7 +362,7 @@ _Touche de fumée dans les paramètres de raccourcis clavier; maintenir la touch
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une rotation valide.
 - La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut.
   - Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
-- La Mascotte pour Osu! est [pippi][Mascots#pippi wikilink].
+- La Mascotte pour osu! est [pippi][Mascots#pippi wikilink].
 - Quand on joue avec le mod [Auto][Auto wikilink], le nom du joueur sera osu!.
 
 ### Histoire
