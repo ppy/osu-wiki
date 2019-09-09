@@ -2,15 +2,15 @@
 
 The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
 
-## Becoming a GMT Member
+## Becoming a GMT member
 
 Becoming a member of the **Global Moderation Team** requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
 
-## Roles and Responsibilities
+## Roles and responsibilities
 
 The Global Moderation Team is responsible for the welfare of the chat/forum and takes care of interactions with the community. They should be approached if you have any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (silences, harassment) and the forum (spam).
 
-## Team Members
+## Team members
 
 The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members.
 

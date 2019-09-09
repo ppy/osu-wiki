@@ -58,7 +58,7 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, Media/character design |
 
-## User Groups
+## User groups
 
 | Name | Description |
 | :-- | :-- |

@@ -4,7 +4,7 @@
 
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submission/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums and in beatmap discussions.
 
-## Roles and Responsibilities
+## Roles and responsibilities
 
 Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Members of the Beatmap Nominators are divided into subgroups of full members and probationary members.
 
@@ -30,14 +30,14 @@ With the change to the team in May 2019, joining the Beatmap Nominators became a
 
 Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90 day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
-### Basic Criteria
+### Basic criteria
 
 Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
 - They have been modding beatmaps actively for at least 3 months prior to the announcement.
 - They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
 - They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
-### What Qualifies as a Mod Post
+### What qualifies as a mod post
 
 - Upon signing up the website will automatically calculate your kudosu score from the last 3 months.
 - A mod post qualifies as one if it has received a Kudosu and has been created within the 3 months.
@@ -45,7 +45,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 - The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 - The point in time at which the Kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
 
-### How the Required Minimum Score is Calculated
+### How the required minimum score is calculated
 
 - This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
 
@@ -61,7 +61,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
   - osu!: m = 4 and a total of 200 kudosu or more
 - It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
-### How New Potential Beatmap Nominators are Chosen
+### How new potential Beatmap Nominators are chosen
 
 - The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
@@ -69,13 +69,13 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
-## Team Members
+## Team members
 
 The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
 The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
 
-### Full Nominators
+### Full Beatmap Nominators
 
 #### osu!standard
 
@@ -183,7 +183,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) | |
 
-### Probationary Nominators
+### Probationary Beatmap Nominators
 
 #### osu!standard
 

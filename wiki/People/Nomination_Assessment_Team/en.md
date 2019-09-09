@@ -4,7 +4,7 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team), they also have site-wide moderation permissions and a dark red username in the game's chat channels.
 
-## Team Members
+## Team members
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members.
 

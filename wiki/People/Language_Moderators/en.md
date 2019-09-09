@@ -6,7 +6,7 @@ outdated: true
 
 Many of the language channels in osu! have specific moderators who oversee conversations and maintains the channels. While GMT members are mainly in charge of taking care of any issues, some NAT members are also available when needed.
 
-## List of Language-Specific Moderators
+## List of moderators by language
 
 | Channel | Subforum | Operators |
 | :-- | :-- | :-- |
