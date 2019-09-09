@@ -8,7 +8,7 @@ Many of the language channels in osu! have specific moderators who oversee conve
 
 ## List of moderators by language
 
-| Channel | Subforum | Operators |
+| Channel | Subforum | Moderators |
 | :-- | :-- | :-- |
 | `#arabic` | | |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
