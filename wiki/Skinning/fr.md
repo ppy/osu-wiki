@@ -27,6 +27,6 @@ La liste des éléments de skinning est divisée en plusieurs catégories:
 
 - [skin.ini](/wiki/skin.ini)
 - [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
-- [Compendium](/community/forums/topics/686664) - une liste des skins terminées
+- [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - une liste des skins terminées
 - [FAQ Skinning](/wiki/Skinning/FAQ)
 - [Guides et discussions importants](/wiki/Skinning/Guides_and_Important_Threads)
