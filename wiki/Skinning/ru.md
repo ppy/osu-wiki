@@ -27,6 +27,6 @@
 
 - [skin.ini](/wiki/skin.ini)
 - [История скинов](/wiki/Skinning/History) - набор старых элементов скина
-- [Компендиум](/community/forums/topics/686664) - список готовых скинов
+- [Компендиум](https://osu.ppy.sh/community/forums/topics/686664) - список готовых скинов
 - [ЧАВО по созданию скинов](/wiki/Skinning/FAQ)
 - [Руководства и важные темы](/wiki/Skinning/Guides_and_Important_Threads)
