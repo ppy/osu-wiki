@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
 | **_underjoy** ![][flag_PL] | **6** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
 | SitekX ![][flag_PL] | 1 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53667265) |
 
-### SemiFinals
+### Semifinals
 
 | Monday, 2019-07-15 | | | | |
 | --: | :-: | :-: | :-- | :-- |
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 | **TheFalek** ![][flag_PL] | **5** | 1 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/53176156) |
 | **Triksu** ![][flag_PL] | **5** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/53177261) |
 
-### Group Stages
+### Group Stage
 
 | Friday, 2019-06-21 | | | | |
 | --: | :-: | :-: | :-- | :-- |
