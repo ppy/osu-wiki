@@ -43,11 +43,11 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map Selectors | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| Map Selector | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Streamer | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
-| Commentators | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_GB] [Faithful](https://osu.ppy.sh/users/8283935), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_NZ] [sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Designers | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Referees | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Commentator | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_GB] [Faithful](https://osu.ppy.sh/users/8283935), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_NZ] [sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
+| Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 

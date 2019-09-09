@@ -60,12 +60,12 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | :-- | :-- |
 | Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
 | Management |  |
-| Map Selectors |  |
-| Streamers |
-| Commentators |  |
-| Designers |
-| Referees |
-| Statisticians |  |
+| Map Selector |  |
+| Streamer |
+| Commentator |  |
+| Designer |
+| Referee |
+| Statistician |  |
 
 ## Links
 

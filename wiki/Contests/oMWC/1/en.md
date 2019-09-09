@@ -38,10 +38,10 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
-| Helpers | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
-| Casters | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
-| Judges | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163), ![][flag_PK] [DeRandom Otaku](https://osu.ppy.sh/users/5156153), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_CN] [Hollow Wings](https://osu.ppy.sh/users/416662), ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964), ![][flag_CN] [Regraz](https://osu.ppy.sh/users/3076909) |
-| Reserve Judges | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676), ![][flag_DE] [Yauxo](https://osu.ppy.sh/users/898306), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
+| Helper | ![][flag_FR] [-Arche](https://osu.ppy.sh/users/5352689), ![][flag_US] [hanfan](https://osu.ppy.sh/users/9886009), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_KR] [Mitsunu](https://osu.ppy.sh/users/2970016), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_PH] [Shizuku-](https://osu.ppy.sh/users/1125647) |
+| Caster | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
+| Judge | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163), ![][flag_PK] [DeRandom Otaku](https://osu.ppy.sh/users/5156153), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_CN] [Hollow Wings](https://osu.ppy.sh/users/416662), ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964), ![][flag_CN] [Regraz](https://osu.ppy.sh/users/3076909) |
+| Reserve Judge | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676), ![][flag_DE] [Yauxo](https://osu.ppy.sh/users/898306), ![][flag_US] [Xexxar](https://osu.ppy.sh/users/2773526) |
 | Graphics | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 
 ## Links

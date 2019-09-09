@@ -41,11 +41,11 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 | Postition | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401), ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807) |
-| Map Selectors | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Match Schedulers | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460) |
-| Referees | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484), ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880) |
-| Streamers | ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
-| Commentators | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880) |
+| Map Selector | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Match Scheduler | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460) |
+| Referee | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484), ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880) |
+| Streamer | ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
+| Commentator | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880) |
 
 ## Links
 

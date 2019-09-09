@@ -40,11 +40,11 @@ The osu! World Cup #3 was run by various community members by distributing the m
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) |
-| Referees | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078)
-| Map Selectors | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241)
-| Match Schedulers | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460) |
-| Streamers | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Commentators | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) |
+| Referee | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078)
+| Map Selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241)
+| Match Scheduler | ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460) |
+| Streamer | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Commentator | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401) |
 
 ## Links
 
