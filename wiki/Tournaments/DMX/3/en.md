@@ -41,14 +41,14 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map Selectors | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [\_untitld](https://osu.ppy.sh/users/10465260), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576) |
+| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Map Selector | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [\_untitld](https://osu.ppy.sh/users/10465260), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576) |
 | Designer | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993) |
-| Streamers | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142) |
-| Referees | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [Jinkela](https://osu.ppy.sh/users/5347374), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_NL] [SpectreSan](https://osu.ppy.sh/users/11310442), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
-| Commentators | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754) |
+| Streamer | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142) |
+| Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [Jinkela](https://osu.ppy.sh/users/5347374), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_NL] [SpectreSan](https://osu.ppy.sh/users/11310442), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
+| Commentator | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

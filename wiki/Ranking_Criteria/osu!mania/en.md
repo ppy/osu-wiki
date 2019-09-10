@@ -20,7 +20,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels. 
 - **Key mode**: The number of columns present in a difficulty.
 - **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
-- **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
+- **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
 - **Musical phrase**: A standalone unit of musical meter that is usually 4 measures long. 
 - **Short-term slider velocity**: A slider velocity change lasting less than 1/2 of a beat.
@@ -54,7 +54,7 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
-- **There must not be more than 6 notes pressed at any given moment.** Most USB-connected keyboards cannot handle 7 simultaneous inputs at a time. Note that this rule does not apply to ends of long notes, as they are released, not pressed.
+- **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section. 
 - **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
 - **If multiple key modes are present in a single beatmap set, the key mode must be denoted in the difficulty name.**
@@ -143,7 +143,7 @@ Bracket patterns should be used sparingly.
 #### Guidelines
 
 - **HP and OD values should not be higher than 8.**
-- **Note snappings of consecutive 1/8 and higher should not be used.** These can be too physically demanding for players of this level. An exception to this rule would be the usage of 3 grace notes that are at higher-end snaps (1/8, 1/12 and 1/16) as they are only used to accentuate gracing sounds.
+- **Note snappings of consecutive 1/8 and higher should not be used.** These can be too physically demanding for players of this level. An exception to this guideline would be the usage of 3 grace notes that are at higher-end snaps (1/8, 1/12 and 1/16) as they are only used to accentuate gracing sounds.
 - **Long streams of 1/4 notes should include, at minimum, a 1/2 pause where natural to implement after every musical phrase.** These can be too physically demanding for players of this level.
 - **Chords within 1/4 streams should be used sparingly.** The density of these patterns is often too difficult for players of this skill level.
 - **Avoid using chords in the middle of 1/6 streams.** However, Using a chord at the beginning or end of a stream is fine.

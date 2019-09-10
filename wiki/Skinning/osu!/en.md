@@ -220,7 +220,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -238,7 +238,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -260,7 +260,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 |
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -309,7 +309,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -325,7 +325,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -346,7 +346,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -362,7 +362,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 |
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
@@ -385,7 +385,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 |
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 

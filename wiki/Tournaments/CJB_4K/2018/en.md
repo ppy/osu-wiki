@@ -37,12 +37,12 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | Position | Members |
 | :-: | :-- |
-| Organizers | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Organiser | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | Manager | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map Selectors | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streaming Judgements | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentators | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069), ![][flag_CN] [wuhuanmin](https://osu.ppy.sh/users/935322) , ![][flag_CN] [704661982](https://osu.ppy.sh/users/7080633) |
-| Wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Map Selector | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
+| Streaming Judgement | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069), ![][flag_CN] [wuhuanmin](https://osu.ppy.sh/users/935322) , ![][flag_CN] [704661982](https://osu.ppy.sh/users/7080633) |
+| Wiki Editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 

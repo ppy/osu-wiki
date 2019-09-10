@@ -22,23 +22,11 @@ Make sure to include any receipts that you received during the process (paypal t
 
 **A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
-They may continue to set scores locally and online (though the scores will not show until the status is lifted) and play the game like normal, with the exception of multiplayer.
-
-Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
-
-In most cases, the status will be removed automatically after 24 hours. If such time has passed and you are still restricted, you may inquire about the status of your account with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh).
-
-If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
-
-#### My account has been banned/disabled/permanently restricted!
-
-**Accounts are generally only disabled when they are confirmed to be multiple accounts belonging to the same user.**
-
-If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely sign in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
-
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+
+Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
 
 ### Sign-in
 

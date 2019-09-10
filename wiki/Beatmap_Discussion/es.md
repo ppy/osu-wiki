@@ -138,7 +138,7 @@ Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará c
 - Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
   - Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
   - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
-  - Solo los miembros del [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
+  - Solo los miembros del [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
 - Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
 - Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
 - Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.
@@ -158,7 +158,7 @@ Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la
 
 ### Nominación
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/QAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
 
@@ -166,7 +166,7 @@ La nominación es similar al sistema de modding anterior. Un beatmap debe recibi
 
 Darle pulgar arriba a una sugerencia o problema en el campo de discusión le dará al modificador Kudosu!. La cantidad de votos recibidos determina cuánto Kudosu! el modder reciba. Cualquier usuario que no sea el publicador puede dar pulgar arriba cualquier publicación.
 
-*Nota: Estas limitado a 60 votos por hora, mientras que los miembros de BN y QAT no tienen este límite.*
+*Nota: Estas limitado a 60 votos por hora, mientras que los miembros de BN y NAT no tienen este límite.*
 
 Actualmente, estos son los umbrales para ganar una cierta cantidad de Kudosu!:
 
@@ -174,7 +174,7 @@ Actualmente, estos son los umbrales para ganar una cierta cantidad de Kudosu!:
 - 2 pulgares arriba = 2 Kudosu!
 - 5 pulgares arriba = 3 Kudosu!
 
-Los miembros de BN, QAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo.
+Los miembros de BN, NAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo.
 
 ## Recordatorios
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Global Moderation Team
 
 The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
@@ -65,8 +69,6 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish | Technical Support |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polish | Chat Moderation |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Chat Moderation, Tournaments, Wiki Helper, Forum Moderation |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat Moderation |
-| ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | Chinese | Chat Moderation |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | German | Chat Moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish | Chat Moderation |
 

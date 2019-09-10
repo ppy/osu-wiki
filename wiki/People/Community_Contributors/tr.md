@@ -48,7 +48,7 @@ _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
-| [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/Announcements/osu!academy) kurucusu |
+| [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/osu!academy) kurucusu |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber iştircakçısı |
 | [Flanster](https://osu.ppy.sh/users/447818) | Üstün modersayon varlığı (10k+ öldürme). |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | Üstün modersayon varlığı (10k+ ödlürme). |

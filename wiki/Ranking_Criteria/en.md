@@ -13,67 +13,6 @@ For the record, these include the recent changes made [from the discussion forum
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
-### Beatmapset
-
-- **Drain time:** The time during which the health-bar drains. Excludes break periods. osu!taiko's drain time includes sliders and the intended length of spinners.
-- **Song compilation:** An audio file that features multiple different songs or sections of songs.
-- **Play time**: The time during which the health-bar drains combined with break periods.
-- **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
-- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
-- **Single-mode beatmapset:** A beatmapset which contains difficulties of only one game mode.
-- **Hybrid beatmapset:** A beatmapset which contains difficulties of multiple game modes.
-- **Beatmapset host:** A user who uploads and manages a beatmapset.
-- **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
-- **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
-
-### Metadata
-
-- **Official sources**: Media that the artist or their label provides, such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
-- **vs.**: versus
-- **feat.**: featuring
-- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
-- **Asterisk**: `*`
-- **Umlauts**: `ü`, `ö`, `ä` and `ß`
-- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
-- **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
-- **Modified Hepburn romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
-- **Character-by-character romanisation**: Each Chinese character must be romanised as a capitalised word and separated with a space.
-
-### Timing
-
-- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
-- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
-- **Uninherited timing point:** A point used to change a beatmap's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
-- **Inherited timing point:** A point that inherits elements from the previous timing point, and is not used to modify a beatmap's timing. Indicated by a green line in the editor and informally called a `green line`.
-- **Single-BPM timing:** Timing which only requires one BPM.
-- **Multi-BPM timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
-- **Variable-BPM timing:** Timing which changes BPM irregularly due to a song's fluctuations.
-
-### Audio
-
-- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
-- **Passive hit sounds:** Hit sounds that are not designed to match a player's exact clicking, such as ambient sounds.
-- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
-
-### Skinning
-
-- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
-- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
-- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
-- **User-specific:** A user's personal skin which they set in their options menu.
-- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
-
-### Storyboarding
-
-- **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
-- **Sprite:** An object in a storyboard representing an image, or a series of images.
-- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
-- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
-- **Axis-specific command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
-- **Active:** From the first start time to the last end time of commands in the object.
-- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
-- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
-
 ## General
 
 ### Rules
@@ -94,22 +33,28 @@ For the record, these include the recent changes made [from the discussion forum
 
 ## Beatmapset
 
+### Glossary
+
+- **Drain time:** The time during which the health-bar drains. Excludes break periods. osu!taiko's drain time includes sliders and the intended length of spinners.
+- **Song compilation:** An audio file that features multiple different songs or sections of songs.
+- **Play time**: The time during which the health-bar drains combined with break periods.
+- **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, starting from the lowest difficulty level required for the song's length, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
+- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
+- **Beatmapset host:** A user who uploads and manages a beatmapset.
+- **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
+- **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
+
 ### Rules
 
-- **Single-mode beatmapsets must form a reasonable spread.** This spread must comply with its respective mode's difficulty-specific Ranking Criteria.
-- **Hybrid beatmapsets without osu! difficulties must form a reasonable spread for each included game mode.** Each game mode's spread must comply with its difficulty-specific Ranking Criteria.
-- **If a hybrid beatmapset includes osu! difficulties...**
-    - **...the osu! difficulties must form a reasonable spread.** This spread must comply with the osu! difficulty-specific Ranking Criteria.
-    - **...converted difficulties must form a reasonable spread.** For example, a beatmapset with Easy and Normal osu! difficulties and an Insane osu!catch difficulty is not permitted. One or more additional difficulties may need to be added to fill the gap.
-    - **...any two or more osu!taiko, osu!mania, or osu!catch difficulties must be arranged in a reasonable spread.**
+- **All game modes within a beatmapset must form a reasonable spread.** Each spread must comply with its respective mode's difficulty-specific Ranking Criteria.
 - **Every difficulty of a beatmapset must have a minimum drain time of 30 seconds.**
 - **If the drain time of each difficulty is...**
-    - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.** For hybrid beatmapsets that include osu! difficulties, the additional modes' lowest difficulties cannot be harder than a Hard.
+    - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.**
     - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
     - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
     - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
 
-    Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Quality Assurance Team for the corresponding game modes.
+    Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
 
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
@@ -130,6 +75,19 @@ For the record, these include the recent changes made [from the discussion forum
 
 ## Metadata
 
+### Glossary
+
+- **Official sources**: Media that the artist or their label provides, such as official websites, CD Scans, or official uploads to websites like Bandcamp, YouTube, or SoundCloud. Third party websites such as wikis, databases (vndb, vgmdb, etc.), or music services (Spotify, iTunes, Amazon, etc.) do not count as official sources.
+- **vs.**: versus
+- **feat.**: featuring
+- **CV**: character voice, usually used to refer to the voice actor of a fictional character.
+- **Asterisk**: `*`
+- **Umlauts**: `ü`, `ö`, `ä` and `ß`
+- **Whitespace**: A visual spacing between characters, not always a literal space. Full-width characters do not require whitespaces.
+- **TV Size**: A song where the particular version is used in a television program, web series, or direct-to-video series, such as an opening, ending, or insert song. Fan-made works are not included in this.
+- **Modified Hepburn romanisation**: Refer to [this page](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for information.
+- **Character-by-character romanisation**: Each Chinese character must be romanised as a capitalised word and separated with a space.
+
 ### Rules
 
 #### Technical
@@ -139,7 +97,7 @@ For the record, these include the recent changes made [from the discussion forum
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website or album names are not an acceptable source. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
+- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
     - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 
@@ -156,6 +114,7 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk. Other special characters are to be romanised or dropped on case-by-case basis.
 - **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
 - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
+- **If a series applicable as a source contains sub-series, the most precise label must be used as the source.** If a song has multiple applicable sub-series, the main series/franchise may be used instead.
 
 #### Romanisation
 
@@ -163,7 +122,7 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Songs with German metadata must romanise umlauts into two-letter equivalents (`ue`, `oe`, `ae` and `ss`).**
-- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf).
+- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
 - **Songs with Japanese metadata must use the Modified Hepburn romanisation method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons.
 - **Songs with Chinese metadata are to be handled with respect to the tones and dialects of Chinese they belong to using character-by-character romanisation method with the exception of artist names.** In any case, all diacritical tone marks must be omitted:
     - Mandarin metadata must be romanised using the Hanyu Pinyin system.
@@ -186,7 +145,6 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 All forms of Artist/Title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised whitespaces for full-width characters.
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
-- **If a series applicable to be used as a source is clustered into multiple sub-series, the most precise label should be prioritised.**
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
 - **If the same song exists in the Ranked section already, the metadata should be followed unless it breaks other rules in the Ranking Criteria or the Official Sources state something completely different.**
 - **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring whitespaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
@@ -201,6 +159,16 @@ This category contains explicit allowance statements of concepts and rules that 
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
 ## Timing
+
+### Glossary
+
+- **BPM:** An acronym for `beats per minute` used to determine the tempo of a song.
+- **Offset:** The millisecond position when a timing point's BPM correlates to a song.
+- **Uninherited timing point:** A point used to change a beatmap's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
+- **Inherited timing point:** A point that inherits elements from the previous timing point, and is not used to modify a beatmap's timing. Indicated by a green line in the editor and informally called a `green line`.
+- **Single-BPM timing:** Timing which only requires one BPM.
+- **Multi-BPM timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
+- **Variable-BPM timing:** Timing which changes BPM irregularly due to a song's fluctuations.
 
 ### Rules
 
@@ -220,17 +188,24 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Audio
 
+### Glossary
+
+- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
+- **Passive hit sounds:** Hit sounds that are not designed to match a player's exact clicking, such as ambient sounds.
+- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
+- **Cut:** A song file that has had a portion of audio removed to shorten the beatmapset's play time.
+
 ### Rules
 
+- **A beatmapset's audio file must use the `.mp3` file format and have an average bit rate no greater than 192kbps.**
 - **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
-- **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes.
-- **A beatmapset's audio file must be no lower than 128kbps and no higher than 192kbps.** Variable bit rate songs must average between that range.
+- **A song's audio file must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
 - **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
-- **Active hit sounds must use the `.wav` file format.** Active hit sounds are those that reach their peak impact exactly when they are clicked. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. `.ogg` files are deprecated and no longer allowed.
-- **Applause files must use the `.mp3` file format.** Applause files usually have long durations and `.wav` files are unnecessarily large in comparison.
+- **Active hit sounds must use the `.wav` or `.ogg` file formats.** `.ogg` files must use a bit rate of 128kbps or higher. `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. 
+- **Applause files and other passive hit sounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison.
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
@@ -243,6 +218,8 @@ This category contains explicit allowance statements of concepts and rules that 
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the BPM of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable beatmapset length.
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
 - **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
+- **Cuts should not be shorter than 1:30.** These often cause unsatisfying play experiences and are generally seen as disrespectful to the artists. This does not apply to official cuts or recreations of official cuts.
+- **Cuts should maintain the general impression and intensity of the full song.** Cuts that make significant changes to the overall listening experience of the song are very misleading and often cause unsatisfying play experiences. This does not apply to official cuts or recreations of official cuts.
 
 ## Video and Background
 
@@ -255,6 +232,14 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that filesize of the beatmap. This includes videos with muted audio tracks.
 
 ## Skinning
+
+### Glossary
+
+- **Gameplay elements:** Skinning elements which the user interacts with on the playfield or receives feedback from during gameplay, as such elements that show up in breaks are excluded. Gameplay relevant elements are declared as such in the [table listing](/wiki/Ranking_Criteria/Skin_Set_List/).
+- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
+- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
+- **User-specific:** A user's personal skin which they set in their options menu.
+- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
 
 ### Rules
 
@@ -269,6 +254,17 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
 
 ## Storyboarding
+
+### Glossary
+
+- **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
+- **Sprite:** An object in a storyboard representing an image, or a series of images.
+- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
+- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
+- **Axis-specific command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
+- **Active:** From the first start time to the last end time of commands in the object.
+- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
+- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
 ### Rules
 
