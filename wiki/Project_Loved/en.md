@@ -30,7 +30,7 @@ There are some very minimal criteria that need to be met for beatmaps to be appr
 
 However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps#pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
-To help sort out maps that captains will likely never nominate, osu!standard requires them to have at least 30 favourites in addition to the other requirements. **This does not apply to maps of the other three game modes.**
+To help sort out maps that captains will likely never nominate, osu!standard maps are required to have at least 30 favourites in addition to the other requirements. **This does not apply to maps of the other three game modes.**
 
 ### Nomination priority
 
