@@ -14,15 +14,15 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) |  |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
 
@@ -38,7 +38,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | |
+| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish |
 
