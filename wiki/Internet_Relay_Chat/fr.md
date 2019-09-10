@@ -70,6 +70,6 @@ Si votre client n'est pas répertorié ici, reportez-vous à sa documentation, l
 Non, vous ne pouvez utiliser que le nom d'utilisateur de votre compte osu!.
 
 ### Quel est le statut de ma voix? Je vois aussi des gens en avoir.
-Les utilisateurs avec *statut vocal* sont également connectés via un client IRC, à l'exception des modérateurs de discussion qui ont toujours le statut *opérateur (+ o)*, quel que soit le client utilisé.
+Les utilisateurs avec *statut vocal* sont également connectés via un client IRC, à l'exception des modérateurs de discussion qui ont toujours le statut *opérateur (+o)*, quel que soit le client utilisé.
 
 Les utilisateurs n'ayant aucun statut sont connectés à l'aide du client en jeu.
