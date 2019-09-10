@@ -23,7 +23,7 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param√
 ## Commandes IRC de base
 | Commande            | Description                          |
 | -------------------- | ------------------------------------- |
-| `/join <#channel>`   | Rejoint un channel                       |
+| `/join <#channel>`   | Rejoindre un channel                       |
 | `/part <#channel>`   | Quitter un channel                    |
 | `/me <action>`       | Envoyer un message d'action                |
 | `/ignore <username>` | Ignorer un utilisateur (cache ses messages) |
