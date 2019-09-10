@@ -2,11 +2,11 @@
 
 ## Why am I restricted?
 A user may get restricted if they do any of the following:
--   Continuous misbehaviour regardless of how many infringements they accumulate.
--   Circumventing a punishment by making a new account.
--   Sharing their account with other users.
--   Multi-accounting.
--   Hacking or cheating (see below).
+- Continuous misbehaviour regardless of how many infringements they accumulate.
+- Circumventing a punishment by making a new account.
+- Sharing their account with other users.
+- Multi-accounting.
+- Hacking or cheating (see below).
 
 
 ## What is considered multi-accounting?
