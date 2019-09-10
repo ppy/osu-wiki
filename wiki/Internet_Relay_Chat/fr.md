@@ -44,7 +44,7 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 [17:46] * Kerantor (cho@ppy.sh) à rejoint #lobby
 ```
 
-### Désactivation des messages de Join/Quit dans les clients les plus utilisés
+### Désactivation des messages de Join/Quit sur les clients les plus utilisés
 
 | IRC Client                                | Description |
 | ----------------------------------------- | ----------- |
