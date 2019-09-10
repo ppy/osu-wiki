@@ -29,12 +29,12 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Team | Staff |
 | ---: | :--- |
-| Tournament managers | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
+| Tournament manager | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
 | Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map selectors | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296), ![][TW] [Spy](https://osu.ppy.sh/users/1217122), ![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streamers and referees | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
-| Commentators | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [644520858](https://osu.ppy.sh/users/5507069), ![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki maintenance | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Map Selector | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296), ![][TW] [Spy](https://osu.ppy.sh/users/1217122), ![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
+| Streamer and Referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Commentator | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Scslag](https://osu.ppy.sh/users/6705256), ![][CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][CN] [644520858](https://osu.ppy.sh/users/5507069), ![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
+| Wiki Editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45), ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 
 ## Tournament stream
 

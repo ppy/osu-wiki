@@ -39,11 +39,11 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
-| Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selector | ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
+| Referee | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
