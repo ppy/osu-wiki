@@ -1,6 +1,6 @@
 # Qu'est-ce que Internet Relay Chat?
 
-L'[Internet Relay Chat](http://fr.wikipedia.org/wiki/Internet_Relay_Chat), également connu sous le nom d'IRC, est un protocole établi afin de discuter avec de nombreux clients disponibles.
+L'[Internet Relay Chat](http://fr.wikipedia.org/wiki/Internet_Relay_Chat), également connu sous le nom d'IRC, est un protocole établi afin de discuter avec d'autres clients IRC.
 
 ## osu!Bancho
 
@@ -44,7 +44,7 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 [17:46] * Kerantor (cho@ppy.sh) à rejoint #lobby
 ```
 
-### Désactivation des messages de Join/Quit dans les clients communs
+### Désactivation des messages de Join/Quit dans les clients les plus utilisés
 
 | IRC Client                                | Description |
 | ----------------------------------------- | ----------- |
@@ -67,7 +67,7 @@ Si votre client n'est pas répertorié ici, reportez-vous à sa documentation, l
 2. Si votre nom d'utilisateur comporte des espaces, remplacez-le par des underscores. (exemple : **Ce Nom** par **Ce_Nom**)
 
 ### Puis-je utiliser un autre nom d'utilisateur?
-Non, vous ne pouvez utiliser que votre nom d'utilisateur sur osu!.
+Non, vous ne pouvez utiliser que le nom d'utilisateur de votre compte osu!.
 
 ### Quel est le statut de ma voix? Je vois aussi des gens en avoir.
 Les utilisateurs avec *statut vocal* sont également connectés via un client IRC, à l'exception des modérateurs de discussion qui ont toujours le statut *opérateur (+ o)*, quel que soit le client utilisé.
