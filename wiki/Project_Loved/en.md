@@ -26,8 +26,11 @@ There are some very minimal criteria that need to be met for beatmaps to be appr
 - Its creator is not banned or restricted
 - At least one difficulty can be passed
 - No difficulties contain beatmapping errors (timing issues, incorrect file formatting, etc.)
+- It has correct metadata
 
 However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps#pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
+
+To help sort out maps that captains will likely never nominate, osu!standard requires them to have at least 30 favourites in addition to the other requirements. **This does not apply to maps of the other three game modes.**
 
 ### Nomination priority
 
