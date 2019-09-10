@@ -10,7 +10,7 @@ The government knows you've been craving this. **KNOWER** joins the lineup as ou
 
 Rising to fame in the osu! community with their panopticon hit *The Government Knows* courtesy of Project Loved and other subsequent sets, the cult of **KNOWER** has been on the up and up. You might already be familiar with some of their work from games like *Grand Theft Auto V* and more recently, *Beat Saber*.
 
-Campy, quirky and stuffed full of a frankly absurd amount of funk, we're delighted to welcome **KNOWER** aboard as the latest Featured Artist, complete with a selection of familiar favorites and some fresh new things from their latest album *Life*, and a few tracks from *Let Go*.
+Campy, quirky and stuffed full of a frankly absurd amount of funk, we're delighted to welcome **KNOWER** aboard as the latest Featured Artist, complete with some familiar favorites, a fresh selection from their latest album *Life*, and a few tracks from *Let Go*.
 
 Here's a sample of just a few:
 
