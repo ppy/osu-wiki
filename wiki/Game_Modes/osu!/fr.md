@@ -350,7 +350,7 @@ Tout tourne autour du paramètre de difficulté HP, qui ne peut être défini qu
 
 _Usage de la fumée_
 
-![paramètres de la fumée d'osu!][osu_smoke_set image]
+![Paramètres de la fumée d'osu!][osu_smoke_set image]
 
 _Touche de fumée dans les paramètres de raccourcis clavier; maintenir la touche `C` pour le déclencher par défaut dans osu!_
 
