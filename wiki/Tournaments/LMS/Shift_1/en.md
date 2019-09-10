@@ -37,7 +37,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 | Position | Members |
 | --- | --- |
-| Management | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Manager | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Map Selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Commentator | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_HK] [akali393394](https://osu.ppy.sh/users/9686628), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
 | Streamer | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911) |

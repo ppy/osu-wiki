@@ -42,13 +42,13 @@ The osu! Technical Championship was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669) |
-| Administrator | ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496) |
-| Mappool Selector | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_PL] [Chalwa](https://osu.ppy.sh/users/4826159), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
+| Manager | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669) |
+| Admin | ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496) |
+| Map Selector | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_PL] [Chalwa](https://osu.ppy.sh/users/4826159), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
 | Designer | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
 | Streamer/Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_NL] [Chungie](https://osu.ppy.sh/users/3752124), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
 | Referee | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_CA] [muza](https://osu.ppy.sh/users/944305), ![][flag_PL] [- Dave -](https://osu.ppy.sh/users/3604693), ![][flag_NL] [Chungie](https://osu.ppy.sh/users/3752124), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406), ![][flag_SG] [Reset-](https://osu.ppy.sh/users/3850861) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

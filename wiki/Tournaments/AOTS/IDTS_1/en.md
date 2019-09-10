@@ -42,7 +42,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Referee | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [LittleBird-](https://osu.ppy.sh/users/6668671), ![][flag_ID] [MRaihanZ](https://osu.ppy.sh/users/6668671), ![][flag_ID] [Etherealize](https://osu.ppy.sh/users/7850608), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
 | Statistician | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

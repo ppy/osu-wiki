@@ -29,7 +29,7 @@ The osu! Tag Team Multiplayer Tournament was run by various community members by
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057) |
+| Manager | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057) |
 | Referee | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [Daru](https://osu.ppy.sh/users/32480), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_US] [EEeee](https://osu.ppy.sh/users/19819) |
 
 ## Links

@@ -38,11 +38,11 @@ The TAG2 Tournament 2019 was run by various community members by distributing th
 | Position | Member(s) |
 | --: | :-- |
 | Host | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
-| Co-Hosts | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Co-Host | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Map Selector | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648) |
 | Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_BR] [Flow-](https://osu.ppy.sh/users/4222824), ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077), ![][flag_VN] [steve_04_](https://osu.ppy.sh/users/10852911), ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383), ![][flag_GR] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287) |
 | Statistician | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
-| Graphics | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
+| Designer | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 
 ## Links
 

@@ -30,13 +30,13 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Manager | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Scheduler | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Commentator | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/users/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | Streamer | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | Referee | ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/users/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/users/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/users/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747) |
 | Map Selector | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Graphics Design | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
+| Designer | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
 
 ## Links
 

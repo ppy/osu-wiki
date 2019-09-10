@@ -38,14 +38,14 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574) |
+| Manager | ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574) |
 | Map Selector | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941) |
 | Commentator | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Designer | ![][flag_MY] [Xeious](https://osu.ppy.sh/users/5357146) |
 | Statistician | ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_PL] [Baziu](https://osu.ppy.sh/users/7192659), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_ID] [chouyaa](https://osu.ppy.sh/users/8404646), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

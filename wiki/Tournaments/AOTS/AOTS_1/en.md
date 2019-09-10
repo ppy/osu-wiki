@@ -38,14 +38,14 @@ The Asian-Oceanian Taiko Showdown is run by various community members by distrib
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Map Selector | ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

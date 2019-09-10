@@ -84,7 +84,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Head Referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Map Selector (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 | Map Selector (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
@@ -98,7 +98,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Designer | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028), ![][flag_FR][Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

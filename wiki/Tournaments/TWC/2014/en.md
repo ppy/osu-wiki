@@ -37,7 +37,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
 | Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Streamer | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Commentator | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438) |

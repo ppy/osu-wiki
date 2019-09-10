@@ -39,7 +39,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 | Position | Members |
 | :-- | :-- |
-| Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
+| Manager | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | Map Selector | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
 | Commentator | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |

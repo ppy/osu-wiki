@@ -37,14 +37,14 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| Manager | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Map Selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Commentator | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
 | Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
 | Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_DE] [Reo](https://osu.ppy.sh/users/2249297) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 
 ## Links
 

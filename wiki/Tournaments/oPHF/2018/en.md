@@ -47,7 +47,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Referee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | Commentator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
+| Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Links

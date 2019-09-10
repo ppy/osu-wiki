@@ -39,7 +39,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
+| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
 
 ## Links

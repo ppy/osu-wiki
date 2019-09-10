@@ -59,7 +59,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Position | Member(s) |
 | :-- | :-- |
 | Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
-| Management |  |
+| Manager |  |
 | Map Selector |  |
 | Streamer |
 | Commentator |  |
