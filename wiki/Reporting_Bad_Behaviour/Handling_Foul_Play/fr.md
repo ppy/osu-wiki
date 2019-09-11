@@ -36,20 +36,18 @@ Restez calme. **N'en parlez pas dans le chat public.** Ne donnez ces information
 Voici quatre solutions pour effectuer ce signalement:
 
 1. Cliquez sur le lien "Report" à côté de leur score, sur la page web de la beatmap.
-2. Utilisez la commande **!report**, en jeu, pour envoyer un message au canal des modérateurs. (Selon le modèle *!report <Nom d'utilisateur> <raison>*)
+2. Utilisez la commande `!report`, en jeu, pour envoyer un message au canal des modérateurs. (Selon le modèle `!report <Nom d'utilisateur> <raison>`)
 3. Envoyez un message privé au [modérateur de votre canal](/wiki/People/Language_Moderators) ou à un [GMT](/wiki/People/Global_Moderation_Team). Ils se chargeront de faire circuler le message.
 4. Envoyez un mail à <osu@ppy.sh>.
 
 ## Utiliser certains périphériques peut être considéré comme de la triche ?
 
-Les périphériques comme des tablettes graphiques ou des écrans tactiles ne posent aucun problème. Tous les périphériques pouvant diminuer le niveau de compétence requis pour jouer ne l'est pas. Ce qui veut dire qu'utiliser plusieurs PC, plus de deux touches pour jouer ou tout ce qui s'y rapporte est considéré comme de la triche.
-Evidemment, il n'est pas possible pour le staff de vous surveiller derrière votre écran, mais si vous avez été accusé de ce genre de pratiques, prendre une vidéo (avec une caméra) de votre jeu sur une map pourrait aider.
+Les périphériques comme des tablettes graphiques ou des écrans tactiles ne posent aucun problème. Tous les périphériques pouvant diminuer le niveau de compétence requis pour jouer ne l'est pas. Ce qui veut dire qu'utiliser plusieurs PC, plus de deux touches pour jouer ou tout ce qui s'y rapporte est considéré comme de la triche. Evidemment, il n'est pas possible pour le staff de vous surveiller derrière votre écran, mais si vous avez été accusé de ce genre de pratiques, prendre une vidéo (avec une caméra) de votre jeu sur une map pourrait aider.
 
 ## Comment puis-je demander mon débannissement en cas d'erreur ?
 
-Envoyez un mail à <accounts@ppy.sh> et utilisez le sujet "Ban Appeal: <username>".
-Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportement ou manière de jouer n'aurait pas dû conduire à un bannissement.
-Attendez une semaine maximum pour une réponse. Si votre demande de débanissement a été rejetée, toutes vos prochaines demandes seront rejetées, donc appliquez-vous dans la première.
+Envoyez un mail à <accounts@ppy.sh> et utilisez le sujet `Ban Appeal: <username>`.
+Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportement ou manière de jouer n'aurait pas dû conduire à un bannissement. Attendez une semaine maximum pour une réponse. Si votre demande de débanissement a été rejetée, toutes vos prochaines demandes seront rejetées, donc appliquez-vous dans la première.
 
 ## Comment éviter un bannissement/mute ?
 
