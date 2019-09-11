@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 **osu! Alumni** は彼らが貢献していたことを知らせるものです。 [Link](https://osu.ppy.sh/groups/16)

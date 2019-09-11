@@ -201,3 +201,4 @@ All users listed below were added on 2019-02-16.
 
 - [Rhytoly](https://osu.ppy.sh/users/8121109) (2019-09-06)
 
+<!-- last update: 2019-09-06 Seto Kousuke to NAT -->

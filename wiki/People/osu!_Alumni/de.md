@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 Die **osu! Alumni** sind für ihre bewegenden Beiträge an osu! bekannt. Hätten wir die nötigen Mittel, würden wir eine Statue für jedes dieser Mitglieder errichten! [Link](https://osu.ppy.sh/groups/16)

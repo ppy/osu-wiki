@@ -4,11 +4,13 @@ The developers of osu! keep the game and website running by fixing bugs and addi
 
 Developers of osu! can be recognized by their pink user colours and "osu!dev" or "osu!team" user titles.
 
-## Team Members
+## Team members
+
+The [Developers group page](https://osu.ppy.sh/groups/11) lists all of the team members.
 
 The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, the creator of osu!.
 
-### Game Client Developers
+### Game client developers
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
@@ -16,24 +18,24 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 - ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)
 
-### Website and Server Developers
+### Website and server developers
 
 - ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883)
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
-- ![][flag___] [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 
 ### Designers
 
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
 
-### Community Managers
+### Community managers
 
 - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Bot and Maintenance Accounts
+### Bot and maintenance accounts
 
 - ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3)
 - ![][flag_JP] [Fly a Kite](https://osu.ppy.sh/users/7137649)

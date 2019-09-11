@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Team di supporto
 
 Il **Team di supporto** (conosciuto anche come **Support Team Redux**, da non essere confuso con l'account support team, colloquialmente conosciuto come "Support Team") sono membri dello staff di osu! che sono focalizzati sulla moderazione del forum su alcuni subforum: [Sviluppo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (escludendo [Tornei](https://osu.ppy.sh/community/forums/55) and [Techniche di mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Richieste di Funzionalità](https://osu.ppy.sh/community/forums/4), and [Aiuto](https://osu.ppy.sh/community/forums/5).
