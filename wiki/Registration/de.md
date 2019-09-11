@@ -2,7 +2,7 @@
 
 *Warnung: Mehr als einen osu!-Account zu besitzen, ist ein Verstoß gegen die allgemeinen [Regeln](/wiki/Rules)!*
 
-1. Nach der [Installation](/wiki/Installation) und dem Starten von osu! fordert dich das Spiel auf, dich einzuloggen oder zu registrieren. Zum Erstellen eines Accounts musst du nur auf `Create an Account` klicken und osu! im Hintergrund offen lassen. Nun öffnet sich die Seite, auf der du einen [Account erstellen](/p/register) kannst.
+1. Nach der [Installation](/wiki/Installation) und dem Starten von osu! fordert dich das Spiel auf, dich einzuloggen oder zu registrieren. Zum Erstellen eines Accounts musst du nur auf `Create an Account` klicken und osu! im Hintergrund offen lassen. Nun öffnet sich die Seite, auf der du einen [Account erstellen](https://osu.ppy.sh/p/register) kannst.
 
 ![Das Registrierungsformular auf der Webseite](img/register.jpg "Das Registrierungsformular")
 
