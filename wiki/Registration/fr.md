@@ -2,16 +2,16 @@
 
 *Attention: avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)*
 
-1.  Après [l'installation](/wiki/Installation) d'osu!, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte` et gardez osu! ouvert. Cela devrait ouvrir la page web [Créer un compte](https://osu.ppy.sh/p/register).
+1. Après [l'installation](/wiki/Installation) d'osu!, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte` et gardez osu! ouvert. Cela devrait ouvrir la page web [Créer un compte](https://osu.ppy.sh/p/register).
 
 ![Le formulaire d'inscription sur le site](img/register.jpg "Le formulaire d'inscription")
 
-2.  Remplissez tous les champs du formulaire.
-    -   Pour le champ `Nom d'utilisateur`, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), soulignés (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).
-    -   Pour le champ `Adresse email`, utilisez votre email. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin. N'utilisez donc pas d'adresse mail jetable.
-    -   Pour le champ `Mot de passe`, utilisez un mot de passe d'au moins 8 caractères.
-3.  Une fois cela terminé, appuyez sur `Continuer` puis retournez à osu!
-4.  Connectez vous pour terminer l'inscription.
+2. Remplissez tous les champs du formulaire.
+   - Pour le champ `Nom d'utilisateur`, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), soulignés (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).
+   - Pour le champ `Adresse email`, utilisez votre email. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin. N'utilisez donc pas d'adresse mail jetable.
+   - Pour le champ `Mot de passe`, utilisez un mot de passe d'au moins 8 caractères.
+3. Une fois cela terminé, appuyez sur `Continuer` puis retournez à osu!
+4. Connectez vous pour terminer l'inscription.
 
 ## Et après ?
 

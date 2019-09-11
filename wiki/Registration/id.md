@@ -14,7 +14,6 @@
 4. Masuk untuk menyelesaikan tahap pendaftaran.
 
 ## Apa selanjutnya?
-------------
 
 Jangan lupa untuk membaca [peraturan](/wiki/Rules) yang berlaku dengan sangat hati-hati!
 

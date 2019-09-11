@@ -7,9 +7,9 @@
 ![Das Registrierungsformular auf der Webseite](img/register.jpg "Das Registrierungsformular")
 
 2. Fülle alle Felder des Formulars aus.
-    - Der Benutzername kann maximal 15 Zeichen lang sein; außerdem dürfen nur alphanumerische Zeichen (`a-z`, `A-Z`, `0-9`), Unterstriche (`_`), eckige Klammern (`[` und `]`), Bindestriche (`-`) und Leerstellen (` `) verwendet werden.
-    - Verwende deine echte E-Mail-Adresse. Sie wird zum Zurücksetzen deines Passwortes und zum Versenden von Bestätigungscodes verwendet, daher solltest du immer auf sie zugreifen können (verwende keine "Wegwerf-E-Mail").
-    - Das Passwort muss mindestens acht Zeichen lang sein.
+   - Der Benutzername kann maximal 15 Zeichen lang sein; außerdem dürfen nur alphanumerische Zeichen (`a-z`, `A-Z`, `0-9`), Unterstriche (`_`), eckige Klammern (`[` und `]`), Bindestriche (`-`) und Leerstellen (` `) verwendet werden.
+   - Verwende deine echte E-Mail-Adresse. Sie wird zum Zurücksetzen deines Passwortes und zum Versenden von Bestätigungscodes verwendet, daher solltest du immer auf sie zugreifen können (verwende keine "Wegwerf-E-Mail").
+   - Das Passwort muss mindestens acht Zeichen lang sein.
 3. Sobald du das Formular ausgefüllt hast, klicke `Continue` und begib dich zurück ins Spiel.
 4. Nun kannst du dich einloggen, um die Registrierung zu vervollständigen.
 
