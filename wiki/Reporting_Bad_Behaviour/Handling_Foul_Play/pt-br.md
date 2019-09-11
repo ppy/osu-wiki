@@ -1,4 +1,4 @@
-# Handling Foul Play (Español)
+# Handling Foul Play (Português (Brasil))
 
 ## Por que fui banido?
 
