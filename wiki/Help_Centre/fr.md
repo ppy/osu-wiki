@@ -24,7 +24,7 @@ Prenez soin d'inclure le reçu que vous avez reçu durant le traitement (identif
 
 Si votre compte a été restreint, vous pourrez en savoir les raisons après une brève conversation avec l'équipe du support.
 
-Dans les situations où nous sommes absolument assurés que des actes fautifs ont été commis, nous vous demanderons d'attendre une période de **trois (3) mois** à compter de la date de votre dernière infraction avant de prendre en compte un appel pour vous laisser retourner en jeu.
+Dans les situations où nous sommes absolument assurés que des actes fautifs ont été commis, nous vous demanderons d'attendre une période de **3 mois** à compter de la date de votre dernière infraction avant de prendre en compte un appel pour vous laisser retourner en jeu.
 
 Reférez-vous à la section *[Restrictions de compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions de compte et le processus d'appel.
 
@@ -86,7 +86,7 @@ Enfin, nous savons que certains fournisseurs n'acceptent pas d'e-mails automatiq
 
 **Oui, absolument !**
 
-Si vous avez acheté (ou avez reçu en cadeau) un [tag osu!supporter](https://osu.ppy.sh/home/support), vous serez en mesure de changer votre nom **une** fois gratuitement. Ce changement de nom peut être réclamé dans le Les osu!supporters obtiennent **un** changement de nom gratuit la première fois qu'il achètent ou offrent un tag de supporter. Il peut être réclamé dans le [osu!store](https://osu.ppy.sh/store/products/32).
+Si vous avez acheté (ou avez reçu en cadeau) un [tag osu!supporter](https://osu.ppy.sh/home/support), vous serez en mesure de changer votre nom **une** fois gratuitement. Il peut être réclamé dans le [osu!store](https://osu.ppy.sh/store/products/32).
 
 À n'importe quel moment après l'achat, vous pouvez changer votre nom d'utilisateur vers tout ce que vous voulez. Cependant, le prix des changements augmente à chaque fois - le second coûtera 8$ USD, le troisième 16$ USD, et ainsi de suite, jusqu'à une limite de 100$ USD.  Nous avons pris cette mesure afin d'éviter que certains n'abusent de ce système pour changer de nom trop fréquemment.
 
@@ -120,7 +120,7 @@ Si le changement a été effectué avec le changement gratuit offert aux support
 
 **Pas pour le moment, désolé.**
 
-Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez accounts@ppy.sh to demander sa suppression.
+Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez accounts@ppy.sh pour demander sa suppression.
 
 ### Autres problèmes
 
@@ -172,7 +172,7 @@ Si vous jouez depuis une place publique, gardez un œil sur la sécurité de vot
 
 Si vous avez un supporter tag actif, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
 
-Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez,il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
+Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
 ----------------------------------------------------------------------------
 
@@ -412,7 +412,7 @@ La solution est simple: débranchez votre hub USB. Si la latence disparaît, vou
 
 **Ces deux modes introduisent un délai _considérable_. Le plein écran est optimal pour la meilleure expérience de jeu.**
 
-##### Est-ce que votre jeu gèle ou quelque chose dans le genre?
+##### Est-ce que votre jeu gèle ou quelque chose comme ça ?
 
 **Quelques fois, une tâche de fond ou une application sur votre ordinateur peut envoyer de grandes requêtes demandant beaucoup de ressources d'un coup, ce qui fera agoniser votre machine.**
 
@@ -436,7 +436,7 @@ Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le V
  
 Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
-Les cartes graphiques NVidia récentes ont une option globale dans le Panneau de Contrôle NVidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
+Les cartes graphiques Nvidia récentes ont une option globale dans le Panneau de Contrôle Nvidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
 
 ### Fonctionnalités en ligne
 
@@ -450,7 +450,7 @@ Voilà quelques manières de permettre à une application d'accéder à Internet
 
 **Sur la plupart des installations Windows, le Pare-feu Windows sera le pare-feu par défaut.**
 
-Pour s'assurer qu'osu! peut accéder à Internet, nous devrons le dire au Pare-feu Windows. Voilà comment vérifier et autoriser osu! dans la liste des programmes:
+Pour s'assurer qu'osu! peut accéder à Internet, vous devez le vérifier sur le Pare-feu Windows. Voilà comment vérifier et autoriser osu! dans la liste des programmes:
 
 1. Ouvrez le menu Démarrer.
 2. Écrivez `autoriser une application` dans la barre de recherche.
@@ -489,7 +489,7 @@ Vous pouvez effectuer un suivi en ouvrant l'invite de commande et en exécutant 
 
 Pour ouvrir l'invite de commande, appuyez sur la touche `Windows` et `R` en même temps, puis écrivez `cmd` et cliquez sur `OK`. [Pour plus d'informations, voir la base de connaissance Windows.](https://support.microsoft.com/fr-fr/help/314868).
 
-Vous pouvez désormais écrire la commande dans la console. Par exemple, la commande `tracert cho.ppy.sh` tracera comment votre ordinateur se connecte au serveur de jeu sur (ou via) Internet. Le suivi prend quelques temps à se faire, des fois plus d'une minute, tout cela dépend de votre connexion.
+Vous pouvez désormais écrire la commande dans la console. Par exemple, la commande `tracert cho.ppy.sh` tracera comment votre ordinateur se connecte au serveur de jeu à partir Internet. Le suivi prend quelques temps à se faire, des fois plus d'une minute, tout cela dépend de votre connexion.
 
 Nous aurons besoin des résultats de cette commande pour les addresses suivantes: `cho.ppy.sh`, `osu.ppy,sh` et `m1.ppy.sh`.
 
@@ -523,7 +523,7 @@ Pour voir quelle est la limite actuelle, essayez les étapes suivantes:
 
 1. Ouvrez osu!.
 2. Ouvrez le menu `Options` ou faites la combinaison `Control` + `O` par défaut.
-3. Écrivez `frame` pour ramener l'option de limite d'images par seconde.
+3. Écrivez `frame` pour configurer l'option de limite d'images par seconde.
 
 Si votre limite est à Illimité, vous devriez remarquer un changement en le changeant en une des autres options.
 
@@ -539,7 +539,7 @@ Vous pourriez aussi être intéressé par des programmes permettant de modifier 
 
 Pour savoir quel composant pose problème, nous recommandons d'utiliser un moniteur de température de GPU/CPU pour y garder un œil quand vous jouez à osu! Un bon programme, que nous vous conseillons, est [Speccy de Piriform](https://www.piriform.com/speccy).
 
-Si vous remarquez qu'un de vos composants dépasse les 90°C ou 194°F, votre ordinateur est très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
+Si vous remarquez qu'un de vos composants dépasse les 90°C, votre ordinateur est très chaud et est très proche de la limite de température avant un arrêt forcé automatique.
 
 ##### Mon ordinateur ne surchauffe pas et le jeu continue à faire redémarrer mon PC !
 
@@ -653,7 +653,7 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 
 1. Cliquez sur le bouton d'options en jeu
 2. Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
-3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par example).
+3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par exemple).
 4. C'est bon !
 
 Vous ne recevrez ni messages publiques, ni messages privés venant des utilisateurs de cette liste.
