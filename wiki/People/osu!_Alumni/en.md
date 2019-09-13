@@ -25,6 +25,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_AU] [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Chat Moderator |
 | ![][flag_ES] [Beuchi](https://osu.ppy.sh/users/67192) | GMT |
+| ![][flag_AU] [Blaizer](https://osu.ppy.sh/users/62018) | osu!dev |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | GMT |
 | ![][flag_US] [blissfulyoshi](https://osu.ppy.sh/users/20865) | BAT |
 | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) | QAT |
@@ -45,6 +46,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | QAT |
 | ![][flag_CA] [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
 | ![][flag_US] [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ![][flag_TW] [deepsea](https://osu.ppy.sh/users/7824) | BAT |
@@ -134,6 +136,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu!dev |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | QAT |
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
@@ -192,6 +195,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_ZA] [Teara](https://osu.ppy.sh/users/123491) | BAT |
 | ![][flag_AU] [tensheapz](https://osu.ppy.sh/users/60) | BAT |
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
+| ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
@@ -216,6 +220,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
