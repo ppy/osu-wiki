@@ -1,79 +1,53 @@
----
-outdated: true
----
-# Médailles
+# Medals
 
-Les **Médailles** (anciennement **Succès**) sont des badges visibles sur la page de profil, qui indiquent que le joueur a accompli une action exceptionnelle.
-Elles sont divisées en 5 groupes: [Packs de Beatmaps](#packs-de-beatmaps), [Compétence](#compétence), [Consécration](#consécration), [Introduction aux Mods](#introduction-aux-mods), et [Secrets](#secrets).
+Les médailles, auparavant appelées *réalisations*, sont des badges sur le profil d'un utilisateur qui indiquent que celui-ci a atteint un objectif exceptionnel. Actuellement, ils sont divisés en 7 groupes: [Beatmap Packs](#beatmap-packs), [Compétence](#skill), [Dédicace](#dedication), [Introduction des mods](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, et projecteurs saisonniers.
 
-## Packs de Beatmaps
+## Beatmap Packs
 
-Les médailles des **Packs de Beatmaps** peuvent être obtenues **en jouant chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans sa totalité au moins une fois et dans n'importe quelle difficulté**.
-Vous devez jouer en mode [osu!standard](/wiki/Game_Modes/osu!) pour pouvoir obtenir la mention **CLEARED** ("complété") dans la [Liste de Packs](https://osu.ppy.sh/p/packlist?t=t) ainsi que le badge correspondant.
+Les médailles **Beatmap Packs** peuvent être obtenues en **jouant chaque beatmap au moins une fois dans n'importe quelle difficulté** dans un [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). Vous devez jouer au mode de jeu[osu!standard](/wiki/osu!standard)pour qualifier un status **`CLEARED`** au [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) et au badge.
 
-Il existe actuellement 16 médailles dans ce groupe, qui sont divisées en 4 sections: Video Game, Anime, Internet!, et Rhythm Game.
+### Exigences
 
-Chacune de ces sections comporte 4 volumes.
+- Le joueur doit terminer chaque beatmap une fois dans n’importe quelle difficulté du pack téléchargé de [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme).
+- Le mode de jeu joué doit être osu!standard.
+- Extraire le pack thématique du fichier `.zip` et placez le contenu dans le dossier `Songs`.
+  - De là, ouvrez osu! et laissez le client analyser les fichiers avant de lire les beatmaps.
+  - Alternativement, le joueur peut télécharger les chansons qu’il contient manuellement, une par une et cela comptera quand même.
+- Toute variation (comme un créateur différent) de la chanson n'est pas comptée.
+  Ce **doit** être cette chanson spécifique et ce créateur spécifique de cette beatmap spécifique.
+- Le compte du joueur en question doit être connecté à osu! (pas sur le site).
 
-### Conditions:
+### Notes
 
-- Jouez une fois chaque beatmap d'un [Pack à Thème](https://osu.ppy.sh/p/packlist?t=t) dans n'importe quelle difficulté.
-- Le mode de jeu doit être [osu!standard](/wiki/Game_Modes/osu!).
-- Extrayez le contenu du pack à Thème, puis placez toutes les beatmaps au format .zip dans votre dossier `Songs` de osu!.
-  Ouvrez osu!, et vous pouvez jouer. C'est tout.
-  - Vous pouvez aussi télécharger les chansons une à une manuellement, cela compterait également.
-- Toute variation des données de la chanson (par exemple un créateur différent) fera que cette map ne sera pas comptée.
-  Ce **doit** être cette chanson, ce créateur ainsi que cette beatmap en particulier.
-- Vous devez être connecté en jeu. Être connecté sur le site sans l'être dans le jeu ne compte pas.
-
-### Remarques:
-
-- Les mods peuvent être utilisés, à l'exception de ceux qui ne comptent pas dans les classements (mod [Auto Pilot](/wiki/AP) par exemple). Utilisez les mods avec sagesse et à votre avantage.
-- Après avoir obtenu votre succès, vous pouvez supprimer les chansons du thème que vous avez complété. Votre succès ainsi que votre score et précision entrés dans le classement seront conservés. Si vous voulez améliorer votre score et votre précision sur une beatmap, vous devrez importer cette beatmap dans votre jeu une nouvelle fois.
+- Les mods peuvent être utilisés à l'exception des mods qui peuvent causer une beatmap non classée (exemple [Auto Pilot](/wiki/AP)).
+- La beatmap peut être supprimé en toute sécurité une fois le status **`CLEARED`** a été noté dans la [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme).
 
 ## Compétence
 
-Les médailles de compétence se divisent actuellement en trois catégories: Combo, High Ranker, and Star-based.
+Les médailles **Compétence** sont actuellement divisées en trois groupes: Combo, Classement élevé et Étoile.
 
-Les médailles **Combo** s'obtiennent en atteignant un [combo](/wiki/combo) spécifique dans le mode osu!standard, et peuvent être complétées sur n'importe quelle musique.
-Atteindre le même combo en mode [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) ne vous donnera **pas** le succès.
+Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/combo) en osu!standard et peut être complété avec n’importe quelle chanson. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) n'entraînera pas l'obtention de la médaille.
 
-Pour les succès à 1.000 et 2.000 de combo, vous devriez trouver des beatmaps "approved" plutôt que des "ranked".
-Ne cherchez pas de beatmaps qui ne soient pas "approved".
+Pour les médailles combinées de 1 000 et de 2 000, vous devriez trouver des beatmaps approuvées au lieu des beatmaps classées. Cependant, **ne cherchez pas et ne jouez pas de beatmaps non approuvées!**
 
 ---
 
-Les succès **"High Ranker"** s'obtiennent en atteignant une certaine position du classement global général dans **n'importe quel** mode de jeu.
+Les médailles de haut rang peuvent être obtenues en atteignant un certain classement mondial dans **n'importe** quel mode de jeu.
 
 ---
 
-Les médailles Star-based sont divisées en deux groupes, _Pass_ et _S_.
-Les médailles _Pass_ peuvent être obtenues en complétant n'importe quelle musique d'une difficulté donnée.
-Les médailles _S_ sont obtenues si vous complétez une musique avec un rang S tout en ayant fait un [FC](/wiki/FC).
-La difficulté de la map sera arrondie à la difficulté en étoiles la plus proche et donnera la médaille correspondante.
-Vous pouvez obtenir un S sur une map avec un ou plusieurs mods augmentant ou diminuant la difficulté.
-La map doit aussi être classée pour pouvoir obtenir une médaille dessus.
-Il y a ci-dessous les médailles _Pass_ et _S_ pour leur variante 8-étoiles, mais il y a aussi les médailles correspondant aux classements de 1 à 7 étoiles.
+Les réalisations basées sur Star sont divisées en deux groupes, *Pass* et *S*. Les médailles *Pass* peuvent être obtenues en passant toute carte d’une certaine difficulté en étoile. Les médailles *S* seront obtenues si vous passez la carte avec un classement S tout en ayant un [FC](/wiki/FC). La difficulté de la carte sera arrondie à la difficulté de l’étoile la plus proche et donnera la médaille à ce qu’elle arrondit. Vous pouvez passer ou obtenir un S sur une carte avec difficulté pour augmenter les mods ou difficulté pour les diminuer. La carte doit également être classée pour pouvoir gagner une médaille.
 
-## Consécration
+## Dedication
 
-Les succès de consécration s'obtiennent en jouant un grand nombre de parties en mode osu!standard, en collectant beaucoup de fruits en mode osu!catch, en frappant un grand nombre de coups en mode osu!taiko, en jouant de nombreuses notes en mode [osu!mania](/wiki/Game_Modes/osu!mania).
+Les médailles **Dédicace** peuvent être obtenues en jouant beaucoup à osu!standard, en récoltant beaucoup de fruits dans osu!catch, en frappant beaucoup de percussions dans osu!taiko, en appuyant sur beaucoup de touches dans osu!mania.
 
-## Introduction aux Mods
+## Introduction du mod
 
-_Voir aussi: [Modifieurs de Jeu](/wiki/Game_Modifiers)._
+*Voir également : [Game Modifiers](/wiki/Game_Modifiers)*
 
-Les médailles Introduction aux Mods peuvent être obtenues en finissant des maps avec des modifieurs de jeu spécifiques.
-Ils encouragent les nouveaux joueurs à essayer chaque mod et explorer ce que le jeu a à offrir.
-Notez que si le joueur joue avec plusieurs modifieurs de jeu en même temps, le joueur n'est **pas** éligible à l'obtention de _n'importe quelle_ médailles de modifieurs de jeu pour cette partie.
+Les médailles **Introduction de mod** peuvent être obtenues en effectuant les cartes avec le modificateur de jeu spécifié. Ils sont destinés à encourager les nouveaux joueurs à essayer chaque mod et à explorer ce que le jeu a à offrir. Notez que si le joueur joue avec plusieurs modificateurs de jeu à la fois, il n’est **pas** admissible à gagner *n’importe quelle* médaille de modificateur de jeu pour ce jeu.
 
-## Secrets
+## Hush-Hush
 
-La manière d'obtenir ces médailles n'est pas définie de manière évidente.
-Le joueur doit trouver lui-même ce qu'il faut faire afin de les débloquer.
-Le titre de la médaille est un indice sur la manière de l'obtenir.
-
-## Liens Externes
-
-- [Anciens packs de beatmaps (2009 - 2016) avant la mise à jour de Stefan.](Beatmap_Packs_0916)
-- Post de forum de peppy pour les [Graphiques de Succès](https://osu.ppy.sh/community/forums/topics/80448).
+Les médailles de ce genre n'ont aucun moyen évident de les obtenir. Le joueur doit savoir ce qui doit être fait pour débloquer la médaille. Le titre lui-même est un indice.
