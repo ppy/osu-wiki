@@ -214,7 +214,8 @@ All users listed below were added on 2019-02-16.
 - [Riana](https://osu.ppy.sh/users/1997633) (2019-09-10)
 
 ### Beatmap Nominator Removals
+
 - [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (2019-09-10)
 - [bite you death](https://osu.ppy.sh/users/6398464) - insufficient proficiency (2019-09-10)
 
-<!-- last update: 2019-09-12 general updates + fixes -->
+<!-- last update: 2019-09-12 TVO alumni -->
