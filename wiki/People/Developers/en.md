@@ -28,6 +28,7 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 ### Designers
 
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
+- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
 
 ### Community managers
 
@@ -35,21 +36,10 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Bot and maintenance accounts
+### Bot accounts
 
-- ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3)
-- ![][flag_JP] [Fly a Kite](https://osu.ppy.sh/users/7137649)
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-### Inactive
-
-- ![][flag_AU] [Blaizer](https://osu.ppy.sh/users/62018)
-- ![][flag_US] [Daru](https://osu.ppy.sh/users/32480)
-- ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431)
-- ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)
-- ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655)
-- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
-- ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862)
 
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
