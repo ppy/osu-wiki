@@ -168,6 +168,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_ID] [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
 | ![][flag_US] [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
+| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
@@ -208,13 +209,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
-| ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
