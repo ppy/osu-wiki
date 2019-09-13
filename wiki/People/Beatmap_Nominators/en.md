@@ -179,6 +179,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101) | Indonesian |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
+| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 
 ### Probationary Beatmap Nominators
 
@@ -208,13 +209,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
-| ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
