@@ -539,6 +539,7 @@ Notes:
 Notes:
 
 - On the ranking screen after clearing a map.
+- Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
 
 ---
 
