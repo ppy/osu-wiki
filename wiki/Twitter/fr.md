@@ -4,7 +4,7 @@
 
 osu! a plusieurs comptes Twitter, chacun servant des objectifs spécifiques. La plupart sont très peu fréquentés mais vous aideront à vous tenir informés en dehors de l'osu! écosystème.
 
-| Avatar | Handle | Description |
+| Avatar | Compte | Description |
 | :-: | :-: | --- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | La source officielle de nouvelles et d'annonces. Contenu de haute qualité à faible trafic. |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Dédié à fournir des notifications à faible trafic des problèmes de site et de bancho. |
