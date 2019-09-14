@@ -4,7 +4,7 @@
 
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submission/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums and in beatmap discussions.
 
-## Roles and Responsibilities
+## Roles and responsibilities
 
 Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) the [pending beatmaps](/wiki/Beatmaps) into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Members of the Beatmap Nominators are divided into subgroups of full members and probationary members.
 
@@ -30,14 +30,14 @@ With the change to the team in May 2019, joining the Beatmap Nominators became a
 
 Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90 day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
-### Basic Criteria
+### Basic criteria
 
 Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
 - They have been modding beatmaps actively for at least 3 months prior to the announcement.
 - They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
 - They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
-### What Qualifies as a Mod Post
+### What qualifies as a mod post
 
 - Upon signing up the website will automatically calculate your kudosu score from the last 3 months.
 - A mod post qualifies as one if it has received a Kudosu and has been created within the 3 months.
@@ -45,7 +45,7 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 - The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 - The point in time at which the Kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
 
-### How the Required Minimum Score is Calculated
+### How the required minimum score is calculated
 
 - This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
 
@@ -69,13 +69,13 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
-## Team Members
+## Team members
 
-The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate.
+The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
-_Please note: All BN speak English unless otherwise noted._ Link to the [full user group page](https://osu.ppy.sh/groups/28) and [probationary user group page](https://osu.ppy.sh/groups/32).
+The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
 
-### Full Nominators
+### Full Beatmap Nominators
 
 #### osu!standard
 
@@ -87,11 +87,10 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italian |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
-| ![][flag_SE] [bite you death](https://osu.ppy.sh/users/6398464) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chinese |
+| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
-| ![][flag_US] [DJ Lucky](https://osu.ppy.sh/users/5226970) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -105,7 +104,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | Polish |
 | ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798) | Vietnamese |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | German |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
@@ -162,7 +160,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | Russian |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
@@ -171,6 +168,7 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | :-- | :-- |
 | ![][flag_ID] [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
 | ![][flag_US] [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
+| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
@@ -183,15 +181,17 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
-### Probationary Nominators
+### Probationary Beatmap Nominators
 
 #### osu!standard
 
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_AU] [greenhue](https://osu.ppy.sh/users/4967662) |  |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
 | ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | Estonian, Russian |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
@@ -209,13 +209,11 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 | :-- | :-- |
 | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
-| ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
@@ -247,7 +245,6 @@ _Please note: All BN speak English unless otherwise noted._ Link to the [full us
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif

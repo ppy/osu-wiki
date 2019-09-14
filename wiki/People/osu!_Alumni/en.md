@@ -1,17 +1,13 @@
----
-outdated: true
----
-
 # osu! Alumni
 
-The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available we would erect a statue for each member in the town square.
-Link to [user group page](https://osu.ppy.sh/groups/16)
+The **osu! Alumni** are those known for their contributions who have since moved on. Were the resources available, we would erect a statue for each member in the town square.
 
-| Name  | Epitaph |
+The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the members.
+
+| Name | Past roles |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
-| ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
 | ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
@@ -19,6 +15,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782) | QAT |
 | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | BAT |
 | ![][flag_RU] [Aleks719](https://osu.ppy.sh/users/360176) | QAT |
+| ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127) | QAT |
 | ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | GMT |
 | ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902) | BAT |
@@ -28,6 +25,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_AU] [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Chat Moderator |
 | ![][flag_ES] [Beuchi](https://osu.ppy.sh/users/67192) | GMT |
+| ![][flag_AU] [Blaizer](https://osu.ppy.sh/users/62018) | osu!dev |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | GMT |
 | ![][flag_US] [blissfulyoshi](https://osu.ppy.sh/users/20865) | BAT |
 | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) | QAT |
@@ -48,6 +46,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | QAT |
 | ![][flag_CA] [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
 | ![][flag_US] [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ![][flag_TW] [deepsea](https://osu.ppy.sh/users/7824) | BAT |
@@ -55,7 +54,6 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_GB] [DiamondCrash](https://osu.ppy.sh/users/123790) | BAT |
 | ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) | BAT |
-| ![][flag___] [Doddler](https://osu.ppy.sh/users/54) | BAT |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
 | ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893) | QAT |
 | ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) | BAT |
@@ -78,7 +76,6 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
-| ![][flag___] [General Pepper](https://osu.ppy.sh/users/3669) | BAT |
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | GMT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
@@ -86,13 +83,13 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Chat Moderator |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | GMT and QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
-| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
@@ -115,6 +112,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Chat Moderator |
+| ![][flag_CA] [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
@@ -131,14 +129,14 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
 | ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
+| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
-| ![][flag_KR] [Minato Yukina](https://osu.ppy.sh/users/531253) | QAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | QAT |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu!dev |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | QAT |
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
@@ -154,7 +152,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator and Support Team |
+| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |
@@ -164,6 +162,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
+| ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
 | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | GMT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -183,6 +182,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | GMT |
+| ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
 | ![][flag_CN] [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
@@ -195,6 +195,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_ZA] [Teara](https://osu.ppy.sh/users/123491) | BAT |
 | ![][flag_AU] [tensheapz](https://osu.ppy.sh/users/60) | BAT |
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
+| ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | GMT |
@@ -219,6 +220,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
@@ -227,7 +229,6 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_CO]: /wiki/shared/flag/CO.gif
@@ -253,6 +254,7 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
@@ -263,4 +265,3 @@ Link to [user group page](https://osu.ppy.sh/groups/16)
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_ZA]: /wiki/shared/flag/ZA.gif
-[flag___]: /wiki/shared/flag/__.gif

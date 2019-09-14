@@ -35,14 +35,14 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organisers | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
+| Organiser | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
 | Map Selector | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) |
-| Streamers | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Commentators | ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_ID] [ganjas62](https://osu.ppy.sh/users/934685), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) |
-| Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Referees | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [LittleBird-](https://osu.ppy.sh/users/6668671), ![][flag_ID] [MRaihanZ](https://osu.ppy.sh/users/6668671), ![][flag_ID] [Etherealize](https://osu.ppy.sh/users/7850608), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
+| Streamer | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Commentator | ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_ID] [ganjas62](https://osu.ppy.sh/users/934685), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) |
+| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Referee | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [LittleBird-](https://osu.ppy.sh/users/6668671), ![][flag_ID] [MRaihanZ](https://osu.ppy.sh/users/6668671), ![][flag_ID] [Etherealize](https://osu.ppy.sh/users/7850608), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
 | Statistician | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

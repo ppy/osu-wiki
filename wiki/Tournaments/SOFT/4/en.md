@@ -49,10 +49,10 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map Selector | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Match Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Commentator | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Graphic Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links

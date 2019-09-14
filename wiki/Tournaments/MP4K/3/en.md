@@ -41,12 +41,12 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinators | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
-| Map Selectors | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Streamers | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentators | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Coordinator | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
+| Map Selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Streamer | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentator | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
+| Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician Helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links

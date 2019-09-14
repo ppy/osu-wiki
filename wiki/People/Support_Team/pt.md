@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Equipe de Suporte
 
 **Equipe de Suporte** (normalmente chamados de **Support Team**, também conhecidos como "Support Team Redux" e não são relacionados com o account support team) são membros da equipe do osu! que tem foco em vários subforums: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (com exceção de [Tournaments](https://osu.ppy.sh/community/forums/55) e [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), e [Technical Support](https://osu.ppy.sh/community/forums/5).

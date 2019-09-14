@@ -4,9 +4,11 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team), they also have site-wide moderation permissions and a dark red username in the game's chat channels.
 
-## Team Members
+## Team members
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members.
+
+*Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
 
 ### osu!
 
@@ -38,7 +40,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German |
-| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish |
 
 ### osu!mania
 
@@ -49,7 +50,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
