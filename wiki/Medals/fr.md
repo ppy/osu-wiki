@@ -13,7 +13,6 @@ Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes l
 - Extraire le pack thématique du fichier `.zip` et placez le contenu dans le dossier `Songs`.
   - De là, ouvrez osu! et laissez le client analyser les fichiers avant de lire les beatmaps.
   - Alternativement, le joueur peut télécharger les chansons qu’il contient manuellement, une par une et cela comptera quand même.
-- Toute variation (comme un créateur différent) de la chanson n'est pas comptée.
   La beatmap jouée **doit** être celle indiqué dans la liste. Une beatmap portant le même nom mais venant d'un autre créateur ne sera pas comptabilisée.
 - Le compte du joueur en question doit être connecté au client osu!.
 
