@@ -49,11 +49,12 @@ Modders that aim to apply to the Beatmap Nominators must fulfil the following cr
 
 Submitted mods should show that a user is capable of analyzing and improving maps to a standard fit for the Beatmap Nominators.
 
-The following are modding traits expected of Beatmap Nominators. Failure to display any trait may result in a rejected application.
+The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
+
 - Coverage of all difficulty levels
-- Identification of unrankable issues, including ones tools can't detect like timing/metadata
-- Comparisons of parts of a map to support issues/suggestions
-- A wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency.
+- Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata
+- Comparison between parts of a map to support issues or suggestions
+- Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency
 - Identification of both isolated issues and general map-wide issues
 
 ### How the required minimum score is calculated
