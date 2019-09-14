@@ -19,7 +19,7 @@ tags:
 - [Chaîne Twitch](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
 
-## Les officiers
+## Staff
 
 ### Actuel
 
