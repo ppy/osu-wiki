@@ -31,7 +31,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Chord**: Two or more notes pressed at the same time.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams that mix different types of chords. 
 - **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
-- **Hand**: Three notes pressed at the same time.
+- **Hand**: Three notes pressed at the same time. Occasionally referred to as a "triple".
 - **Jack**: Three or more consecutive notes in the same column, usually pressed at a faster pace than surrounding notes.
 - **Jump**: Two notes pressed at the same time.
 - **Jumptrill**: A trill consisting of two alternating jumps.
@@ -167,7 +167,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous. 
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
-- **Occasional Triples can be used in a stream with a note that their distances are further than a measure (4 beats).**
+- **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
 ### Insane
 
