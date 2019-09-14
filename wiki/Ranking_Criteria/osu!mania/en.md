@@ -167,7 +167,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous. 
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
-- **Occasional Hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
+- **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
 ### Insane
 
