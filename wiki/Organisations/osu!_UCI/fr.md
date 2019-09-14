@@ -11,7 +11,7 @@ tags:
 
 **osu! UCI** est un club osu! centré sur le jeu et la discussion à l’Université de Californie, Irvine (*UCI*). Ils organisent divers événements, notamment des tournois LAN saisonniers et des rencontres hebdomadaires.
 
-## Links
+## Liens
 
 - **[Site Internet](http://www.osuuci.com)**
 - [Serveur Discord](https://discord.gg/qbZddFV)
