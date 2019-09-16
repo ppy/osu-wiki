@@ -473,7 +473,6 @@ Notes:
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
-
 - This element is 0.625x smaller than the stage width.
 - Animation name: `mania-stage-bottom-{n}.png`.
 - Shown on the bottom (or top, if the stage is upside down) of the stage(s).
