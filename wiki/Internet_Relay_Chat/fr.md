@@ -48,13 +48,13 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 
 | IRC Client                                | Description |
 | ----------------------------------------- | ----------- |
-| [HexChat](http://hexchat.github.io/)      | Allez dans Paramètres - Préférences, sous Chat - Général, cochez la case "Masquer les messages de la Join/Quit". |
+| [HexChat](http://hexchat.github.io/)      | Allez dans Settings - Preferences, sous Chatting - General, cochez la case "Hide join and part messages". |
 | [ircII](http://www.eterna.com.au/ircii/)  | Taper `/ignore * crap` |
 | [Irssi](http://www.irssi.org)             | Taper `/ignore -channels #somechannel * JOINS PARTS QUITS` |
 | [Weechat](http://www.weechat.org)         | Taper `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Nota:** Remplacez **nom d'utilisateur** par votre nom d'utilisateur osu! .
 | [KVIrc](http://www.kvirc.net)             | Visitez [ce fil de discussions](http://www.kvirc.ru/forum/?topic=609.0) sur les forums officiels de KVIrc. |
-| [mIRC](http://www.mirc.com/)              | Allez dans les options mIRC (Outils - Options / Alt + O), sous l’arborescence IRC, cliquez sur le bouton "Evénements ..." et changez Join/Quit par "Masquer". |
-| [Quassel IRC](http://www.quassel-irc.org) | Faites un clic droit sur la fenêtre de discussion, puis choisissez Masquer les événements » Join/Quit. |
+| [mIRC](http://www.mirc.com/)              | Allez dans les options mIRC ((Tools - Options / Alt + O), sous l’arborescence IRC, cliquez sur le bouton "Events..." et changez Join/Quit par "Hide". |
+| [Quassel IRC](http://www.quassel-irc.org) | Faites un clic droit sur la fenêtre de discussion, puis choisissez Masquer les événements » Join/Part/Quit. |
 | [XChat](http://www.xchat.org)             | Tapper `/set irc_conf_mode 1` (ou [2](http://xchat.org/faq/#q211) pour désactiver les messages sur tous les channels). |
 
 Si votre client n'est pas répertorié ici, reportez-vous à sa documentation, la plupart des clients ont un moyen de le faire.
