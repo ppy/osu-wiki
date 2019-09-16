@@ -385,8 +385,6 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
-Notes:
-
 - Animation name: `mania-note1T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
@@ -404,8 +402,6 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
-Notes:
-
 - Animation name: `mania-note2T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
@@ -422,8 +418,6 @@ Notes:
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
-
-Notes:
 
 - Animation name: `mania-noteST-{n}.png`.
 - These elements are the tail part of the hold note.
@@ -473,6 +467,7 @@ Notes:
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
+
 - This element is 0.625x smaller than the stage width.
 - Animation name: `mania-stage-bottom-{n}.png`.
 - Shown on the bottom (or top, if the stage is upside down) of the stage(s).
