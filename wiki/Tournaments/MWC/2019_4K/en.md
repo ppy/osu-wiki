@@ -102,11 +102,11 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
 | South Korea | ![][flag_KR] | ![][flag_DK] | Denmark | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | Taiwan | ![][flag_TW] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
-| Australia | ![][flag_AU] | ![][flag_JP] | Japan | **12:00 UTC** | 22:00 UTC+10 | 21:00 UTC+09 |
+| Australia | ![][flag_AU] | ![][flag_JP] | Japan | **12:00 UTC** | 22:00 UTC+010 | 21:00 UTC+09 |
 | United Kingdom | ![][flag_GB] | ![][flag_MY] | Malaysia | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
 | Indonesia | ![][flag_ID] | ![][flag_CH] | Switzerland | **13:00 UTC** | 20:00 UTC+07 | 16:00 UTC+03 |
 | Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+10 | 18:00 UTC+05 |
+| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+010 | 18:00 UTC+05 |
 | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
 | Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
 | Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
@@ -115,11 +115,11 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | Thailand | ![][flag_TH] | ![][flag_PL] | Poland | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 |
 | Netherlands | ![][flag_NL] | ![][flag_ES] | Spain | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Chile | ![][flag_CL] | ![][flag_FI] | Finland | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
+| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_VE] | Venezuela | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
 | United Kingdom | ![][flag_GB] | ![][flag_CH] | Switzerland | **18:00 UTC** | 19:00 UTC+01 | 21:00 UTC+03 |
 | Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
-| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **18:00 UTC** | 15:00 UTC-03 | 21:00 UTC+03 |
+| Chile | ![][flag_CL] | ![][flag_FI] | Finland | **18:00 UTC** | 15:00 UTC-03 | 21:00 UTC+03 |
 | Canada | ![][flag_CA] | ![][flag_PE] | Peru | **19:00 UTC** | 15:00 UTC-04 | 14:00 UTC-05 |
 | France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 |
 | United States | ![][flag_US] | ![][flag_CA] | Canada | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
