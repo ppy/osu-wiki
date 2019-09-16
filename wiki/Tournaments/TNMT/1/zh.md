@@ -46,6 +46,7 @@
 
 - [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
 - [报名注册](https://www.wjx.cn/jq/42658963.aspx)
+- [数据表](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ)
 - [在 Challonge 上查看赛程](https://challonge.com/TNMT)
 - [Discord](https://discord.gg/nxWEjpW)
 - [QQ 群](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
@@ -58,6 +59,45 @@
   - [Logan636](https://www.twitch.tv/logan_636)
 
 ## 图池
+
+### 决赛第一周
+
+- FreeMod
+  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/b/1895977)
+  - [iRis - Changing point \[Hindsight\]](https://osu.ppy.sh/b/1630528)
+  - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/b/1530202)
+  - [Omoi - Teo \[d\]](https://osu.ppy.sh/b/1602734)
+  - [Gekikara Mania - Deublithick \[Thicc Jacc\]](https://osu.ppy.sh/b/1640457)
+  - [Nekomata Master - Izanami no Nageki \[4K\]](https://osu.ppy.sh/b/1297624)
+  - [t+pazolite - QZKago Requiem \[Garakuta Milk Play\]](https://osu.ppy.sh/b/1924744)
+  - [Kkrusty - A Quick Death \[Desolation\]](https://osu.ppy.sh/b/1679692)
+  - [Camellia - In Black & White \[Insane\]](https://osu.ppy.sh/b/2138382)
+  - [YUC'e - MUDPIE \[CHOCOLAT'e\]](https://osu.ppy.sh/b/1344171)
+  - [HyuN - Grin \[Summer\]](https://osu.ppy.sh/b/1929411)
+  - [lapix & Massive New Krew - Bizzare Nation \[4k MX\]](https://osu.ppy.sh/b/1892295)
+  - [Xander - Ginger \[Another World Memory\]](https://osu.ppy.sh/b/1933684)
+- Tiebreaker
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Daybreak\]](https://osu.ppy.sh/b/2070280)**
+
+### 半决赛
+
+- FreeMod
+  - [Something Wild (feat. Andrew McMahon In the Wilderness) \[Enigma\]](https://osu.ppy.sh/b/1845621)
+  - [lapix - Kill The Beat \[juankristal's Ultra Stage\]](https://osu.ppy.sh/b/1822249)
+  - [onoken - Ramua \[Fantasy\]](https://osu.ppy.sh/b/1811018)
+  - [Yunomi - Mentai Cosmic \[Insane\]](https://osu.ppy.sh/b/1252001)
+  - [Nekomata Master ft. Haruka Shimotsuki - Element of SPADA \[Couil's Defender (178.5)\]](https://osu.ppy.sh/b/2161746)
+  - [Cardboard Box - The Limit Does Not Exist \[Mentos' Insane\]](https://osu.ppy.sh/b/1490013)
+  - [Cres - End Time \[Time end\]](https://osu.ppy.sh/b/1711136)
+  - [Stellabee - in heaven \[anhedonia\]](https://osu.ppy.sh/b/1923231)
+  - [Seiya Murai - Der Wald (kors k Remix) \[wubwub\]](https://osu.ppy.sh/b/970082)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix \[Love Me Senpai\]](https://osu.ppy.sh/b/1968882)
+  - [PSYQUI - Education \[bye4now's university\]](https://osu.ppy.sh/b/2129202)
+  - [Tipper - Cubic Squeal \[Passable\]](https://osu.ppy.sh/b/1959674)
+  - [encx - One Day \[4K SV\]](https://osu.ppy.sh/b/1413835)
+- Tiebreaker
+  - **[gmtn. vs. kozato  & gmtn. -squartatrice vs disperagioia \[Purification\]](https://osu.ppy.sh/b/1469347)**
+
 
 ### 八强赛
 
@@ -116,6 +156,33 @@
 - [Silentroom - NULCTRL \[Stage 4: THE CLUB\]](https://osu.ppy.sh/b/2130237)
 
 ## 比赛结果
+
+### 半决赛
+
+| Player | Score | Score | Player |
+| --: | :-: | :-: | :-- |
+| **Davvyforte** | **6** | 2 | Halo- |
+| Ladylag | 3 | **6** | **palmEuEi** |
+| **mewmew** | **1** | 0 | NutAndGo |
+| Horou | 3 | **6** | **Antalf** |
+| **Yukina-** | **1** | 0 | edisonhello |
+| **NestleiFan** | **6** | 1 | EDTA233 |
+| NutAndGo | 1 | **6** | **Antalf** |
+| Yukina- | -1 | **0** | **NestleiFan** |
+
+### 八强赛
+
+| Player | Score | Score | Player |
+| --: | :-: | :-: | :-- |
+| NestleiFan | 2 | **5** | **Davvyforte** |
+| Yukina- | 0 | **5** | **Halo-** |
+| Horou | 2 | **5** | **Ladylag** |
+| **palmEuEi** | **5** | 4 | mewmew |
+| Maou | 0 | **5** | **NutAndGo** |
+| **Antalf** | **5** | 1 | vincent4399 |
+| **edisonhello** | **5** | 0 | BITONIC |
+| HD_AdreNaline | 1 | **5** | **EDTA233** |
+
 
 ### 十六强
 
