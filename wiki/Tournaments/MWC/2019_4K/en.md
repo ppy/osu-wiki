@@ -51,7 +51,6 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Sign up here!](https://osu.ppy.sh/community/tournaments/21)
 
 ---
 
@@ -94,9 +93,85 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
+## Match Schedule: Group Stage
+
+### Saturday, 21. September 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_DK] | Denmark | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Taiwan | ![][flag_TW] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
+| Australia | ![][flag_AU] | ![][flag_JP] | Japan | **12:00 UTC** | 22:00 UTC+10 | 21:00 UTC+09 |
+| United Kingdom | ![][flag_GB] | ![][flag_MY] | Malaysia | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_CH] | Switzerland | **13:00 UTC** | 20:00 UTC+07 | 16:00 UTC+03 |
+| Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+10 | 18:00 UTC+05 |
+| Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
+| Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
+| Italy | ![][flag_IT] | ![][flag_SE] | Sweden | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Thailand | ![][flag_TH] | ![][flag_PL] | Poland | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_ES] | Spain | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Chile | ![][flag_CL] | ![][flag_FI] | Finland | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
+| Russian Federation | ![][flag_RU] | ![][flag_VE] | Venezuela | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
+| United Kingdom | ![][flag_GB] | ![][flag_CH] | Switzerland | **18:00 UTC** | 19:00 UTC+01 | 21:00 UTC+03 |
+| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
+| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **18:00 UTC** | 15:00 UTC-03 | 21:00 UTC+03 |
+| Canada | ![][flag_CA] | ![][flag_PE] | Peru | **19:00 UTC** | 15:00 UTC-04 | 14:00 UTC-05 |
+| France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
+| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **20:00 UTC** | 17:00 UTC-03 | 17:00 UTC-03 |
+| United States | ![][flag_US] | ![][flag_PE] | Peru | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
+| Mexico | ![][flag_MX] | ![][flag_NO] | Norway | **21:00 UTC** | 16:00 UTC-05 | 23:00 UTC+02 |
+
+### Sunday, 22. September 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_PE] | Peru | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
+| Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **02:00 UTC** | 23:00 (Sat.) UTC-03 | 10:00 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_VE] | Venezuela | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-04 |
+| China | ![][flag_CN] | ![][flag_CA] | Canada | **03:00 UTC** | 11:00 UTC+08 | 23:00 (Sat.) UTC-04 |
+| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **03:00 UTC** | 00:00 UTC-03 | 11:00 UTC+08 |
+| Australia | ![][flag_AU] | ![][flag_VE] | Venezuela | **03:00 UTC** | 13:00 UTC+10 | 23:00 (Sat.) UTC-04 |
+| Singapore | ![][flag_SG] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
+| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
+| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | **12:00 UTC** | 19:00 UTC+07 | 14:00 UTC+02 |
+| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 21:00 UTC+09 | 17:00 UTC+05 |
+| Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
+| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | **13:00 UTC** | 21:00 UTC+08 | 16:00 UTC+03 |
+| United States | ![][flag_US] | ![][flag_CN] | China | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 |
+| Argentina | ![][flag_AR] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
+| France | ![][flag_FR] | ![][flag_SG] | Singapore | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_NL] | Netherlands | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_FI] | Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
+| France | ![][flag_FR] | ![][flag_NO] | Norway | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+
 ## Mappools
 
-_Mappools won't be available until one week before the stage that it is meant to be played_
+### Group Stage
+
+- FreeMod
+    - [Mr.T - electro peaceful (-mint-) \[voltaic relaxation\]](https://osu.ppy.sh/beatmapsets/1031030#mania/2164238)
+    - [PSYQUI - Update (KeppSado) \[amelioration\]](https://osu.ppy.sh/beatmapsets/1014868#mania/2123926)
+    - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Kamikaze) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1034656#mania/2163213)
+    - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](https://osu.ppy.sh/beatmapsets/706898#mania/1494548)
+    - [Zekk - Calling (Couil) \[HD\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787004)
+    - [Kazmasa - FIRE FIRE (Kazmasa Remix) (inteliser) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/354653#mania/781158)
+    - [terminal11 - Rotary Slicers (Xay) \[Slicendix\]](https://osu.ppy.sh/beatmapsets/972182#mania/2035562)
+    - [Weroh K - Arc - IV (Elekton) \[iteration\]](https://osu.ppy.sh/beatmapsets/719294#mania/1519014)
+    - [Airuei - Framework (Couil) \[mechanically made\]](https://osu.ppy.sh/beatmapsets/739371#mania/1560169)
+    - [sirokuma - Apollo11 (Elekton) \[lunarian stream\]](https://osu.ppy.sh/beatmapsets/769539#mania/1618073)
+    - [cubesato - April Showers (Raveille) \[Drizzling (NSV)\]](https://osu.ppy.sh/beatmapsets/749117#mania/2164001)
+    - [TSUNKU - Batting Show Perfect Version (Daikyi) \[Batter Up!\]](https://osu.ppy.sh/beatmapsets/418097#mania/905136)
+- TieBreaker
+    - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
 ---
 
@@ -207,7 +282,7 @@ _Mappools won't be available until one week before the stage that it is meant to
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
+5. Possible mod choices for all maps are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers), [Flashlight](/wiki/Game_Modifiers) and [Mirror](/wiki/Game_Modifiers).
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling Instructions
