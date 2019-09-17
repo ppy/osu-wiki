@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] Smallwu |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] Saikoro |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_HK] MTDex |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
 
 ---
 
