@@ -8,9 +8,9 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) was an Asian and Oceanian double-elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the tournament and extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) was an Asian and Oceanian double-elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the ATS series and extension from the Asia region to Asia and Oceania.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -60,7 +60,7 @@ The Asian-Oceanian Taiko Showdown was run by various community members by distri
 
 ## Participants
 
-| Seed | Members |
+| Seed | Players |
 | :-- | :-- |
 | Top | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223), ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) |
 | Mid | ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208) |
@@ -68,7 +68,7 @@ The Asian-Oceanian Taiko Showdown was run by various community members by distri
 
 ## Groups
 
-| Group | Top Seed | Mid Seed | Low Seed |
+| Group | Top seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- |
 | **A** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
 | **B** | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
