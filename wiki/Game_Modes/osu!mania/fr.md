@@ -38,9 +38,6 @@
 
 **[Cliquez pour retourner à la page des Modes de Jeu][Game_Modes wikilink]**
 
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!mania using deprecated ScoreV1 system](./v1 "osu!mania v1")** -->
-
 ![Gameplay d'osu!mania][osu!mania Interface image]
 
 Ce mode a été énormément utilisé dans à peu près tous les principaux jeux de rythme.

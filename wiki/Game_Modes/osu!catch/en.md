@@ -1,5 +1,4 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
 [Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
@@ -30,9 +29,6 @@
 <!-- Title -->
 
 # osu!catch
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!catch using deprecated ScoreV1 system](./v1 "osu!catch v1")** -->
 
 ![Gameplay of osu!catch][osu!catch Interface image]
 
