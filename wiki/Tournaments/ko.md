@@ -33,6 +33,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_HK] 홍콩 |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
+| [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_KR] 대한민국 |
 
 ### ![](/wiki/shared/mode/catch.png) 역대 osu!catch 월드컵 목록
 
@@ -45,6 +46,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 | ![][flag_DE] 독일 |
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
+| [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_CL] 칠레 |
 
 ### ![](/wiki/shared/mode/mania.png) 역대 osu!maina 4K/7K 월드컵 목록
 
@@ -58,6 +60,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 7K World Cup  2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!mania 4K World Cup  2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
 | [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
+| [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
 
 ## 커뮤니티
 
@@ -79,6 +82,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
 
@@ -142,8 +146,9 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Indonesian Taiko Showdown](/wiki/Tournaments/ATS/1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
+| [Indonesian Taiko Showdown](/wiki/Tournaments/AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| [Asian Taiko Showdown 2018](/wiki/Tournaments/AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
+| [Asian-Oceanian Taiko Showdown](/wiki/Tournaments/AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 

@@ -34,6 +34,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
+| [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -46,6 +47,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
 | [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] China | ![][flag_US] United States | ![][flag_CL] Chile |
+| [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -60,6 +62,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
+| [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
 
 ## Community
 
@@ -146,8 +149,9 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Indonesian Taiko Showdown](/wiki/Tournaments/ATS/1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/ATS/2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
+| [Indonesian Taiko Showdown](/wiki/Tournaments/AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| [Asian Taiko Showdown 2018](/wiki/Tournaments/AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
+| [Asian-Oceanian Taiko Showdown](/wiki/Tournaments/AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
