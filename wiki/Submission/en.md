@@ -14,6 +14,10 @@ Located in osu!'s [Editor](/wiki/Beatmap_Editor), the BSS automatically uploads 
 
 ## Submission
 
+### File size limit
+
+Beatmaps will fail to submit if they exceed the online file size limit. That limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB.
+
 ### Before submitting a beatmap
 
 Before submitting your beatmap, make sure you've tried to make it as good as your current experience allows. However, do not hesitate to submit your beatmap if you're new to beatmapping or if you believe there is still something wrong with it - everyone is here to help, it's just better if you show you've made some effort and took some care in creating your beatmap. Try reading the relevant help sections for tips on how to make a good beatmap.
