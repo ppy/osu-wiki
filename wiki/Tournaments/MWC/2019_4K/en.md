@@ -100,25 +100,22 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
-| South Korea | ![][flag_KR] | ![][flag_DK] | Denmark | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| South Korea | ![][flag_KR] | ![][flag_DK] | Denmark | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
 | Taiwan | ![][flag_TW] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
 | Australia | ![][flag_AU] | ![][flag_JP] | Japan | **12:00 UTC** | 22:00 UTC+10 | 21:00 UTC+09 |
 | United Kingdom | ![][flag_GB] | ![][flag_MY] | Malaysia | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_CH] | Switzerland | **13:00 UTC** | 20:00 UTC+07 | 16:00 UTC+03 |
+| Indonesia | ![][flag_ID] | ![][flag_CH] | Switzerland | **13:00 UTC** | 20:00 UTC+07 | 15:00 UTC+02 |
 | Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+10 | 18:00 UTC+05 |
+| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+10 | 16:00 UTC+03 |
 | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
-| Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
 | Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_SE] | Sweden | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Thailand | ![][flag_TH] | ![][flag_PL] | Poland | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_ES] | Spain | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
-| Russian Federation | ![][flag_RU] | ![][flag_VE] | Venezuela | **17:00 UTC** | 22:00 UTC+05 | 13:00 UTC-04 |
-| United Kingdom | ![][flag_GB] | ![][flag_CH] | Switzerland | **18:00 UTC** | 19:00 UTC+01 | 21:00 UTC+03 |
-| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
+| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_VE] | Venezuela | **17:00 UTC** | 20:00 UTC+03 | 13:00 UTC-04 |
+| United Kingdom | ![][flag_GB] | ![][flag_CH] | Switzerland | **18:00 UTC** | 19:00 UTC+01 | 20:00 UTC+02 |
 | Chile | ![][flag_CL] | ![][flag_FI] | Finland | **18:00 UTC** | 15:00 UTC-03 | 21:00 UTC+03 |
 | Canada | ![][flag_CA] | ![][flag_PE] | Peru | **19:00 UTC** | 15:00 UTC-04 | 14:00 UTC-05 |
 | France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 |
@@ -134,24 +131,27 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | China | ![][flag_CN] | ![][flag_PE] | Peru | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
 | Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **02:00 UTC** | 23:00 (Sat.) UTC-03 | 10:00 UTC+08 |
 | Japan | ![][flag_JP] | ![][flag_VE] | Venezuela | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-04 |
-| China | ![][flag_CN] | ![][flag_CA] | Canada | **03:00 UTC** | 11:00 UTC+08 | 23:00 (Sat.) UTC-04 |
 | Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **03:00 UTC** | 00:00 UTC-03 | 11:00 UTC+08 |
 | Australia | ![][flag_AU] | ![][flag_VE] | Venezuela | **03:00 UTC** | 13:00 UTC+10 | 23:00 (Sat.) UTC-04 |
 | Singapore | ![][flag_SG] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
+| China | ![][flag_CN] | ![][flag_CA] | Canada | **05:00 UTC** | 13:00 UTC+08 | 01:00 UTC-04 |
 | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
 | South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
 | Thailand | ![][flag_TH] | ![][flag_ES] | Spain | **12:00 UTC** | 19:00 UTC+07 | 14:00 UTC+02 |
-| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 21:00 UTC+09 | 17:00 UTC+05 |
+| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 21:00 UTC+09 | 15:00 UTC+03 |
 | Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
-| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | **13:00 UTC** | 21:00 UTC+08 | 16:00 UTC+03 |
+| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_ES] | Spain | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
 | United States | ![][flag_US] | ![][flag_CN] | China | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
 | United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 |
 | Argentina | ![][flag_AR] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
 | France | ![][flag_FR] | ![][flag_SG] | Singapore | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_NL] | Netherlands | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Brazil | ![][flag_BR] | ![][flag_FI] | Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
 | France | ![][flag_FR] | ![][flag_NO] | Norway | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
+| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
 
 ## Mappools
 
