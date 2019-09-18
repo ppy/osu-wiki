@@ -5,9 +5,9 @@ tags:
 ---
 # osu!catch World Cup 2019
 
-![CWC 2019 Banner](img/banner.jpg)
+![CWC 2019 Logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 
@@ -30,9 +30,11 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Unique profile badge |
 
+![CWC 2019 Winner Badge](img/badge.png)
+
 ## Organisation
 
-The osu!catch World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | :-- | :-- |
@@ -42,6 +44,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
+---
 
 ## Links
 
@@ -90,24 +93,15 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Grand Finals
+## Podium
 
-### Saturday, 3. August 2019
+This competition has come to an end and resulted in the following podium:
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_CL] | Chile | **16:00 UTC** | 00:00 UTC+08 (Sun) | 12:00 UTC-04 | ¹ |
-
-### Sunday, 4. August 2019
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **01:00 UTC** | 10:00 UTC+09 | 21:00 UTC-04 (Sat) |  ² |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ² |
-
- ¹ Loser bracket Grand Final
- 
- ² Winner bracket Grand Final dependent on results of ¹ Loser bracket Grand Final
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] South Korea |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CN] China |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
 
 ---
 
@@ -281,6 +275,17 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2019-08-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 1 | ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/53809297) |
+
+| Sunday, 2019-08-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 4 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53828395) |
+| China ![][flag_CN] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53830712) |
 
 ### Finals
 
@@ -464,7 +469,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -487,7 +492,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
    - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2019: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
-3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
 4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 6. Each captain must use "!roll" once in #multiplayer.
@@ -504,7 +509,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
 5. Each mappool has one tiebreaker.
 6. The NoMod bracket will be played with no mods activated.
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
+7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
