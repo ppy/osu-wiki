@@ -95,7 +95,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ## Match Schedule: Group Stage
 
-### Saturday, 21. September 2019
+### Saturday, 21 September 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
@@ -127,7 +127,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | United States | ![][flag_US] | ![][flag_PE] | Peru | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
 | Mexico | ![][flag_MX] | ![][flag_NO] | Norway | **21:00 UTC** | 16:00 UTC-05 | 23:00 UTC+02 |
 
-### Sunday, 22. September 2019
+### Sunday, 22 September 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
@@ -282,7 +282,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers), [Flashlight](/wiki/Game_Modifiers) and [Mirror](/wiki/Game_Modifiers).
+5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling Instructions
