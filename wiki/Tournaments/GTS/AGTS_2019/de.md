@@ -20,7 +20,7 @@ Der **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) war ein länderbas
 | Viertelfinale | 2019-08-24/2019-08-25 |
 | Halbfinale | 2019-08-31/2019-09-01 |
 | Finale | 2019-09-07/2019-09-08 |
-| Hauptfinale | 2019-09-14/2019-09-15 |
+| Hauptfinale | 2019-09-14 |
 
 ## Preise
 

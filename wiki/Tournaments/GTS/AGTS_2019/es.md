@@ -20,7 +20,7 @@ tags:
 | Cuartos de Final | 2019-08-24/2019-08-25 |
 | Semifinales | 2019-08-31/2019-09-01 |
 | Finales | 2019-09-07/2019-09-08 |
-| Gran Finales | 2019-09-14/2019-09-15 |
+| Gran Finales | 2019-09-14 |
 
 ## Premios
 
