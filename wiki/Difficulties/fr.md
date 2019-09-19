@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Difficulté
 
 *À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*

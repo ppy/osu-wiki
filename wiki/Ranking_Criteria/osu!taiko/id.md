@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Kriteria Pemeringkatan osu!taiko
 
 Peraturan dan petunjuk ini telah didiskusikan dalam [Thread Diskusi osu!taiko](https://osu.ppy.sh/community/forums/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan di update setiap diskusi mencapai kesepakatan.
