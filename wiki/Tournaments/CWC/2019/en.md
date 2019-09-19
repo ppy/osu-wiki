@@ -44,8 +44,6 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
----
-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
@@ -97,7 +95,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Country |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] South Korea |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CN] China |
