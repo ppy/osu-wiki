@@ -1,4 +1,4 @@
-# osu!mania
+# osu!mania Ranking Criteria
 
 The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -6,7 +6,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ## Glossary
 
-### Difficulty Names
+### Difficulty names
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
@@ -16,7 +16,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
 
-### Common Terms
+### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels. 

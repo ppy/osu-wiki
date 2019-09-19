@@ -1,4 +1,4 @@
-# osu!taiko
+# osu!taiko Ranking Criteria
 
 The **osu!taiko Ranking Criteria** are rules and guidelines that apply to the creation of osu!taiko-specific difficulties. In order to get an osu!taiko-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -6,7 +6,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ## Glossary
 
-### Difficulty Names
+### Difficulty names
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
@@ -93,7 +93,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **You should insert at least 1 rest moment that is 3/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
@@ -123,7 +123,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/2 patterns should not be longer than five notes.**
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
@@ -145,7 +145,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **1/4 patterns with one or more colour changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity.
 - **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
@@ -164,7 +164,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - **You should insert at least 1 rest moment which is 1/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or more
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
@@ -175,7 +175,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Overall Difficulty should be more than 5.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.

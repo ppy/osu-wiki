@@ -8,7 +8,7 @@ For the record, these include the recent changes made [from the discussion forum
 
 ## Glossary
 
-### General Terms
+### General terms
 
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
@@ -221,7 +221,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Cuts should not be shorter than 1:30.** These often cause unsatisfying play experiences and are generally seen as disrespectful to the artists. This does not apply to official cuts or recreations of official cuts.
 - **Cuts should maintain the general impression and intensity of the full song.** Cuts that make significant changes to the overall listening experience of the song are very misleading and often cause unsatisfying play experiences. This does not apply to official cuts or recreations of official cuts.
 
-## Video and Background
+## Video and background
 
 ### Rules
 

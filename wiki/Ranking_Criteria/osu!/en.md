@@ -1,4 +1,4 @@
-# osu!
+# osu! Ranking Criteria
 
 The **osu! Ranking Criteria** are rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -6,7 +6,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ## Glossary
 
-### Difficulty Names
+### Difficulty names
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
@@ -38,7 +38,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Key sounding:** Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
 - **Spaced stream:** A stream with circles that do not overlap.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
-
 
 ## Overall
 
@@ -109,7 +108,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 -  Approach Rate should be 5 or less.
 -  Overall Difficulty / HP Drain Rate should be between 1 and 3.
@@ -146,7 +145,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Objects making up actively clicked 1/2 rhythms should overlap each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
 -  **Avoid slider velocity above 1.3x.**
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 -  Approach Rate should be between 4 and 6.
 -  Overall Difficulty / HP Drain Rate should be between 3 and 5.
@@ -168,7 +167,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 -  **Avoid perfectly overlapping slider bodies within 2 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate should be between 6 and 8.
 - Overall Difficulty should be between 5 and 7.
@@ -184,7 +183,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 -  **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 -  **Avoid perfectly overlapping slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 -  Approach Rate should be between 7 and 9.3
 -  Overall Difficulty should be between 7 and 9.
@@ -196,7 +195,7 @@ If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it
 
 -  **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 -  Approach Rate / Overall Difficulty should be 8 or higher.
 -  HP Drain Rate should be 5 or higher.
