@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 | C4 | Mexico ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | United States B ![][flag_US] | 1 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
 | A1 | **Russian Federation B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/54141466) |
-| F5 | **Indonesia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| F5 | **Indonesia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] United Kingdom/Portugal | [#1](https://osu.ppy.sh/community/matches/54142329) |
 | D1 | **Russian Federation A** ![][flag_RU] | **5** | 2 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/54143643) |
 | A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russian Federation B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
 | C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/54146452) |
@@ -353,7 +353,7 @@ This competition has come to an end and resulted in the following podium:
 | C6 | Mexico ![][flag_MX] | 1 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/54151830) |
 | E1 | **Germany A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
 | B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54153575) |
-| C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/54153517) |
+| C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] United Kingdom/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | Group | Sunday, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -371,7 +371,7 @@ This competition has come to an end and resulted in the following podium:
 | C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/54169919) |
 | E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **South Korea** | -win by default- |
 | E3 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/54171395) |
-| F1 | United Kingdom ![][flag_GB] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| F1 | United Kingdom/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/54171560) |
 | D3 | United States A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **Netherlands** ![][flag_NL] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/54173902) |

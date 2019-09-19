@@ -343,7 +343,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | C4 | メキシコ ![][flag_MX] | 2 | **5** | ![][flag_TW] **台湾** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | アメリカ合衆国B ![][flag_US] | 1 | **5** | ![][flag_US] **アメリカ合衆国A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
 | A1 | **ロシアB** ![][flag_RU] | **5** | 3 | ![][flag_PH] フィリピン | [#1](https://osu.ppy.sh/community/matches/54141466) |
-| F5 | **インドネシアB** ![][flag_ID] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| F5 | **インドネシアB** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] イギリス/ポルトガル | [#1](https://osu.ppy.sh/community/matches/54142329) |
 | D1 | **ロシアA** ![][flag_RU] | **5** | 2 | ![][flag_US] アメリカ合衆国B | [#1](https://osu.ppy.sh/community/matches/54143643) |
 | A5 | マレーシア ![][flag_MY] | 3 | **5** | ![][flag_RU] **ロシアB** | [#1](https://osu.ppy.sh/community/matches/54143711) |
 | C5 | **台湾** ![][flag_TW] | **5** | 0 | ![][flag_FR] フランス | [#1](https://osu.ppy.sh/community/matches/54146452) |
@@ -353,7 +353,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | C6 | メキシコ ![][flag_MX] | 1 | **5** | ![][flag_NL] **オランダ** | [#1](https://osu.ppy.sh/community/matches/54151830) |
 | E1 | **ドイツA** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] スカンジナビア | [#1](https://osu.ppy.sh/community/matches/54152083) |
 | B5 | チリ ![][flag_CL] | 0 | **5** | ![][flag_AR] **アルゼンチン** | [#1](https://osu.ppy.sh/community/matches/54153575) |
-| C3 | **カナダ** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/54153517) |
+| C3 | **カナダ** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] イギリス/ポルトガル | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | Group | 日曜日, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -371,7 +371,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | C2 | 台湾 ![][flag_TW] | 0 | **5** | ![][flag_NL] **オランダ** | [#1](https://osu.ppy.sh/community/matches/54169919) |
 | E2 | ベネズエラ ![][flag_VE] | 0 | **5** | ![][flag_KR] **韓国** | -win by default- |
 | E3 | **韓国** ![][flag_KR] | **5** | 2 | ![][flag_DE] ドイツA | [#1](https://osu.ppy.sh/community/matches/54171395) |
-| F1 | United Kingdom ![][flag_GB] | 4 | **5** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| F1 | イギリス/ポルトガル ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | マレーシア ![][flag_MY] | 0 | **5** | ![][flag_PL] **ポーランド** | [#1](https://osu.ppy.sh/community/matches/54171560) |
 | D3 | アメリカ合衆国A ![][flag_US] | 2 | **5** | ![][flag_RU] **ロシアA** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **オランダ** ![][flag_NL] | **5** | 1 | ![][flag_FR] フランス | [#1](https://osu.ppy.sh/community/matches/54173902) |

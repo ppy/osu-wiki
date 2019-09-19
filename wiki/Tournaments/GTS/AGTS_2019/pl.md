@@ -343,7 +343,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | C4 | Meksyk ![][flag_MX] | 2 | **5** | ![][flag_TW] **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | Stany Zjednoczone B ![][flag_US] | 1 | **5** | ![][flag_US] **Stany Zjednoczone A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
 | A1 | **Rosja B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Filipiny | [#1](https://osu.ppy.sh/community/matches/54141466) |
-| F5 | **Indonezja B** ![][flag_ID] | **5** | 0 | ![][flag_GB] Wielka Brytania | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| F5 | **Indonezja B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | [#1](https://osu.ppy.sh/community/matches/54142329) |
 | D1 | **Rosja A** ![][flag_RU] | **5** | 2 | ![][flag_US] Stany Zjednoczone B | [#1](https://osu.ppy.sh/community/matches/54143643) |
 | A5 | Malezja ![][flag_MY] | 3 | **5** | ![][flag_RU] **Rosja B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
 | C5 | **Tajwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] Francja | [#1](https://osu.ppy.sh/community/matches/54146452) |
@@ -353,7 +353,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | C6 | Meksyk ![][flag_MX] | 1 | **5** | ![][flag_NL] **Holandia** | [#1](https://osu.ppy.sh/community/matches/54151830) |
 | E1 | **Niemcy A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
 | B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentyna** | [#1](https://osu.ppy.sh/community/matches/54153575) |
-| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] Wielka Brytania | [#1](https://osu.ppy.sh/community/matches/54153517) |
+| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | Group | Niedziela, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -371,7 +371,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | C2 | Tajwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Holandia** | [#1](https://osu.ppy.sh/community/matches/54169919) |
 | E2 | Wenezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **Korea Południowa** | -win by default- |
 | E3 | **Korea Południowa** ![][flag_KR] | **5** | 2 | ![][flag_DE] Niemcy A | [#1](https://osu.ppy.sh/community/matches/54171395) |
-| F1 | Wielka Brytania ![][flag_GB] | 4 | **5** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| F1 | Wielka Brytania/Portugalia ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | Malezja ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polska** | [#1](https://osu.ppy.sh/community/matches/54171560) |
 | D3 | Stany Zjednoczone A ![][flag_US] | 2 | **5** | ![][flag_RU] **Rosja A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **Holandia** ![][flag_NL] | **5** | 1 | ![][flag_FR] Francja | [#1](https://osu.ppy.sh/community/matches/54173902) |

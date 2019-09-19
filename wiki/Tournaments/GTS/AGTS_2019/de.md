@@ -343,7 +343,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 | C4 | Mexiko ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/54132793) |
 | D6 | Vereinigte Staaten B ![][flag_US] | 1 | **5** | ![][flag_US] **Vereinigte Staaten A** | [#1](https://osu.ppy.sh/mp/54133753) |
 | A1 | **Russland B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippinen | [#1](https://osu.ppy.sh/mp/54141466) |
-| F5 | **Indonesien B** ![][flag_ID] | **5** | 0 | ![][flag_GB] Königreich Großbritannien | [#1](https://osu.ppy.sh/mp/54142329) |
+| F5 | **Indonesien B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/mp/54142329) |
 | D1 | **Russland A** ![][flag_RU] | **5** | 2 | ![][flag_US] Vereinigte Staaten B | [#1](https://osu.ppy.sh/mp/54143643) |
 | A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russland B** | [#1](https://osu.ppy.sh/mp/54143711) |
 | C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/mp/54146452) |
@@ -353,7 +353,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 | C6 | Mexiko ![][flag_MX] | 1 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/mp/54151830) |
 | E1 | **Deutschland A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/mp/54152083) |
 | B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentinien** | [#1](https://osu.ppy.sh/mp/54153575) |
-| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] Königreich Großbritannien | [#1](https://osu.ppy.sh/mp/54153517) |
+| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/mp/54153517) |
 
 | Group | Sonntag, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -371,7 +371,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 | C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/mp/54169919) |
 | E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **Südkorea** | -win by default- |
 | E3 | **Südkorea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Deutschland A | [#1](https://osu.ppy.sh/mp/54171395) |
-| F1 | Königreich Großbritannien ![][flag_GB] | 4 | **5** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/mp/54171441) |
+| F1 | Königreich Großbritannien/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/mp/54171441) |
 | A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/mp/54171560) |
 | D3 | Vereinigte Staaten A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/mp/54171222) |
 | C3 | **Niederlande** ![][flag_NL] | **5** | 1 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/mp/54173902) |
