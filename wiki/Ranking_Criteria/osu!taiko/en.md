@@ -8,13 +8,13 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ### Difficulty Names
 
-- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Easy
-- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
-- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Hard
-- ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Insane
-- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Expert
+*Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-The prefix `Inner` or `Ura` may be used to indicate a higher difficulty tier than the one of its base but lower than the next one (e.g. Ura Kantan is harder than Kantan, but easier than Futsuu).
+- ![](/wiki/shared/diff/easy-t.png) Kantan
+- ![](/wiki/shared/diff/normal-t.png) Futsuu
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png) Oni
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
 
 ### Gameplay
 
@@ -79,7 +79,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
 
-### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
+### ![](/wiki/shared/diff/easy-t.png) Kantan
 
 #### Rules
 
@@ -98,7 +98,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
-### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
+### ![](/wiki/shared/diff/normal-t.png) Futsuu
 
 #### Rules
 
@@ -128,7 +128,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
+### ![](/wiki/shared/diff/hard-t.png) Muzukashii
 
 #### Rules
 
@@ -150,7 +150,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or less
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
+### ![](/wiki/shared/diff/insane-t.png) Oni
 
 #### Rules
 
@@ -169,7 +169,7 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or more
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
 
 #### Guidelines
 
