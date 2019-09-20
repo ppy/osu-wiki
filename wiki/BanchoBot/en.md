@@ -136,6 +136,8 @@ Tama: ok
 !REPORT <user> <reason>
 ```
 
+*Note: to learn more about what's worth reporting, head to [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour) article.
+
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
 Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
@@ -154,7 +156,7 @@ BanchoBot: Chat moderators have been alerted. Thanks for your help.
 !REQUEST list
 ```
 
-Shows a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
+Shows a link to a recent beatmap that is requesting [modding assistance](/wiki/Modding). You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
 
 #### Usage Example
 
