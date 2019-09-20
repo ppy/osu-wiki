@@ -46,7 +46,7 @@ Don't have a clue what I'm getting at? Never fear, their music tells the full st
 
 ---------
 
-All these and more add up to **16** brand new tracks awaiting you  over on their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/49), all pre-timed and ready for you to experiment with. We're excited to see what people come up with to some more complex electronic sounds, especially after all of the metal we've had blasting about lately.
+All these and more add up to **16** brand new tracks awaiting you over on their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/49), all pre-timed and ready for you to experiment with. We're excited to see what people come up with to some more complex electronic sounds, especially after all of the metal we've had blasting about lately.
 
 We might've been a little too easy on the hint last time given how many people correctly guessed it *(better luck next time unko)*. That being said, our next release slated for the end of the month is a big, **BIG** set of updates from some of our current Featured Artists.
 
