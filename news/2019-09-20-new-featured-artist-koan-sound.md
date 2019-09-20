@@ -35,7 +35,7 @@ Don't have a clue what I'm getting at? Never fear, their music tells the full st
 ### Viridian Dream
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/49/previews/1241.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/49/previews/1250.mp3" type="audio/mpeg">
 </audio>
 
 ### Cobalt
