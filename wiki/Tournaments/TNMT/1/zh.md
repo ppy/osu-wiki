@@ -63,97 +63,97 @@
 ### 决赛第一周
 
 - FreeMod
-  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/b/1895977)
-  - [iRis - Changing point \[Hindsight\]](https://osu.ppy.sh/b/1630528)
-  - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/b/1530202)
-  - [Omoi - Teo \[d\]](https://osu.ppy.sh/b/1602734)
-  - [Gekikara Mania - Deublithick \[Thicc Jacc\]](https://osu.ppy.sh/b/1640457)
-  - [Nekomata Master - Izanami no Nageki \[4K\]](https://osu.ppy.sh/b/1297624)
-  - [t+pazolite - QZKago Requiem \[Garakuta Milk Play\]](https://osu.ppy.sh/b/1924744)
-  - [Kkrusty - A Quick Death \[Desolation\]](https://osu.ppy.sh/b/1679692)
-  - [Camellia - In Black & White \[Insane\]](https://osu.ppy.sh/b/2138382)
-  - [YUC'e - MUDPIE \[CHOCOLAT'e\]](https://osu.ppy.sh/b/1344171)
-  - [HyuN - Grin \[Summer\]](https://osu.ppy.sh/b/1929411)
-  - [lapix & Massive New Krew - Bizzare Nation \[4k MX\]](https://osu.ppy.sh/b/1892295)
-  - [Xander - Ginger \[Another World Memory\]](https://osu.ppy.sh/b/1933684)
+  - [senya - Banbutsu no Ou \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+  - [iRis - Changing point \[Hindsight\]](https://osu.ppy.sh/beatmapsets/775999#mania/1630528)
+  - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670#mania/1530202)
+  - [Omoi - Teo \[d\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602734)
+  - [Gekikara Mania - Deublithick \[Thicc Jacc\]](https://osu.ppy.sh/beatmapsets/781026#mania/1640457)
+  - [Nekomata Master - Izanami no Nageki \[4K\]](https://osu.ppy.sh/beatmapsets/615168#mania/1297624)
+  - [t+pazolite - QZKago Requiem \[Garakuta Milk Play\]](https://osu.ppy.sh/beatmapsets/921697#mania/1924744)
+  - [Kkrusty - A Quick Death \[Desolation\]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
+  - [Camellia - In Black & White \[Insane\]](https://osu.ppy.sh/beatmapsets/1020196#mania/2138382)
+  - [YUC'e - MUDPIE \[CHOCOLAT'e\]](https://osu.ppy.sh/beatmapsets/633309#mania/1344171)
+  - [HyuN - Grin \[Summer\]](https://osu.ppy.sh/beatmapsets/923908#mania/1929411)
+  - [lapix & Massive New Krew - Bizzare Nation \[4k MX\]](https://osu.ppy.sh/beatmapsets/906808#mania/1892295)
+  - [Xander - Ginger \[Another World Memory\]](https://osu.ppy.sh/beatmapsets/925756#mania/1933684)
 - Tiebreaker
-  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Daybreak\]](https://osu.ppy.sh/b/2070280)**
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/669960#mania/2070280)**
 
 ### 半决赛
 
 - FreeMod
-  - [Something Wild (feat. Andrew McMahon In the Wilderness) \[Enigma\]](https://osu.ppy.sh/b/1845621)
-  - [lapix - Kill The Beat \[juankristal's Ultra Stage\]](https://osu.ppy.sh/b/1822249)
-  - [onoken - Ramua \[Fantasy\]](https://osu.ppy.sh/b/1811018)
-  - [Yunomi - Mentai Cosmic \[Insane\]](https://osu.ppy.sh/b/1252001)
-  - [Nekomata Master ft. Haruka Shimotsuki - Element of SPADA \[Couil's Defender (178.5)\]](https://osu.ppy.sh/b/2161746)
-  - [Cardboard Box - The Limit Does Not Exist \[Mentos' Insane\]](https://osu.ppy.sh/b/1490013)
-  - [Cres - End Time \[Time end\]](https://osu.ppy.sh/b/1711136)
-  - [Stellabee - in heaven \[anhedonia\]](https://osu.ppy.sh/b/1923231)
-  - [Seiya Murai - Der Wald (kors k Remix) \[wubwub\]](https://osu.ppy.sh/b/970082)
-  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix \[Love Me Senpai\]](https://osu.ppy.sh/b/1968882)
-  - [PSYQUI - Education \[bye4now's university\]](https://osu.ppy.sh/b/2129202)
-  - [Tipper - Cubic Squeal \[Passable\]](https://osu.ppy.sh/b/1959674)
-  - [encx - One Day \[4K SV\]](https://osu.ppy.sh/b/1413835)
+  - [Something Wild (feat. Andrew McMahon In the Wilderness) \[Enigma\]](https://osu.ppy.sh/beatmapsets/882820#mania/1845621)
+  - [lapix - Kill The Beat \[juankristal's Ultra Stage\]](https://osu.ppy.sh/beatmapsets/861400#mania/1822249)
+  - [onoken - Ramua \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
+  - [Yunomi - Mentai Cosmic \[Insane\]](https://osu.ppy.sh/beatmapsets/591660#mania/1252001)
+  - [Nekomata Master ft. Haruka Shimotsuki - Element of SPADA \[Couil's Defender (178.5)\]](https://osu.ppy.sh/beatmapsets/1033904#mania/2161746)
+  - [Cardboard Box - The Limit Does Not Exist \[Mentos' Insane\]](https://osu.ppy.sh/beatmapsets/704152#mania/1490013)
+  - [Cres - End Time \[Time end\]](https://osu.ppy.sh/beatmapsets/815917#mania/1711136)
+  - [Stellabee - in heaven \[anhedonia\]](https://osu.ppy.sh/beatmapsets/920947#mania/1923231)
+  - [Seiya Murai - Der Wald (kors k Remix) \[wubwub\]](https://osu.ppy.sh/beatmapsets/452249#mania/970082)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix \[Love Me Senpai\]](https://osu.ppy.sh/beatmapsets/942796#mania/1968882)
+  - [PSYQUI - Education \[bye4now's university\]](https://osu.ppy.sh/beatmapsets/983953#mania/2129202)
+  - [Tipper - Cubic Squeal \[Passable\]](https://osu.ppy.sh/beatmapsets/771447#mania/1959674)
+  - [encx - One Day \[4K SV\]](https://osu.ppy.sh/beatmapsets/596525#mania/1413835)
 - Tiebreaker
-  - **[gmtn. vs. kozato  & gmtn. -squartatrice vs disperagioia \[Purification\]](https://osu.ppy.sh/b/1469347)**
+  - **[gmtn. vs. kozato  & gmtn. -squartatrice vs disperagioia \[Purification\]](https://osu.ppy.sh/beatmapsets/694536#mania/1469347)**
 
 
 ### 八强赛
 
 - FreeMod
-  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw \[Stage 3: Release\]](https://osu.ppy.sh/b/1546412)
-  - [OISHII - PIZZA PLAZA \[Perfect Cuisine!\]](https://osu.ppy.sh/b/2100826)
-  - [DJ Sharpnel - Tactical Railroad Gamma \[Original\]](https://osu.ppy.sh/b/2084421)
-  - [Kotori - Nanamori (youth Remix) \[Insane\]](https://osu.ppy.sh/b/1964176)
-  - [ARForest - Metheus \[Normal\]](https://osu.ppy.sh/b/1159573)
-  - [Seiryu - AO-INFINITY \[White Hard\]](https://osu.ppy.sh/b/1951977)
-  - [Puru - Grimheart \[Lonely\]](https://osu.ppy.sh/b/1488395)
-  - [Rotten Blood - duvet \[Iwakura\]](https://osu.ppy.sh/b/1752042)
-  - [Tennyson - XYZ \[Enlightenment\]](https://osu.ppy.sh/b/1443574)
-  - [Middleisland - Zap \[Electric SV\]](https://osu.ppy.sh/b/1909358)
-  - [Frums - Wavetapper \[Stage 1: Memory Factory\]](https://osu.ppy.sh/b/1811863)
+  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw \[Stage 3: Release\]](https://osu.ppy.sh/beatmapsets/732983#mania/1546412)
+  - [OISHII - PIZZA PLAZA \[Perfect Cuisine!\]](https://osu.ppy.sh/beatmapsets/1003760#mania/2100826)
+  - [DJ Sharpnel - Tactical Railroad Gamma \[Original\]](https://osu.ppy.sh/beatmapsets/996504#mania/2084421)
+  - [Kotori - Nanamori (youth Remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/913114#mania/1964176)
+  - [ARForest - Metheus \[Normal\]](https://osu.ppy.sh/beatmapsets/543115#mania/1159573)
+  - [Seiryu - AO-INFINITY \[White Hard\]](https://osu.ppy.sh/beatmapsets/934974#mania/1951977)
+  - [Puru - Grimheart \[Lonely\]](https://osu.ppy.sh/beatmapsets/703517#mania/1488395)
+  - [Rotten Blood - duvet \[Iwakura\]](https://osu.ppy.sh/beatmapsets/836686#mania/1752042)
+  - [Tennyson - XYZ \[Enlightenment\]](https://osu.ppy.sh/beatmapsets/682615#mania/1443574)
+  - [Middleisland - Zap \[Electric SV\]](https://osu.ppy.sh/beatmapsets/914129#mania/1909358)
+  - [Frums - Wavetapper \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmapsets/866661#mania/1811863)
 - Tiebreaker
-  - **[Camellia - farewell to today \[Another\]](https://osu.ppy.sh/b/1769258)**
+  - **[Camellia - farewell to today \[Another\]](https://osu.ppy.sh/beatmapsets/845934#mania/1769258)**
 
 ### 十六强
 
 - FreeMod
-  - [Primastella - Koigokoro \[Kokoro\]](https://osu.ppy.sh/b/2110798)
-  - [Ani - Ververg (feat. B) \[Usagi's Lv.12,1\]](https://osu.ppy.sh/b/708608)
-  - [DJ Siesta - Another Day \[riu's Serenity (edited)\]](https://osu.ppy.sh/b/2147167)
-  - [antiPLUR - Runengon \[Hard\]](https://osu.ppy.sh/b/2034201)
-  - [Umeboshi Chazuke - Bison Charge \[MEGA's Hard\]](https://osu.ppy.sh/b/1755410)
-  - [w_tre - Shannon's Theorem \[Medium\]](https://osu.ppy.sh/b/1519707)
-  - [RevenG - Sakura \[1:37:00 AMCherry Blossom [NO SLOWJAMS]\]](https://osu.ppy.sh/b/2116953)
-  - [aaaa - carnation \[fascination\]](https://osu.ppy.sh/b/1392215)
-  - [SOUND HOLIC Vs. VENUS feat. Nana Takahashi - Musou \[EXHAUST\]](https://osu.ppy.sh/b/987971)
-  - [Post Malone - Money Made Me Do It \[yuh\]](https://osu.ppy.sh/b/2104840)
-  - [Sakuraburst - Serotonin \[Transmission Problem [SV]\]](https://osu.ppy.sh/b/1382422)
+  - [Primastella - Koigokoro \[Kokoro\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2110798)
+  - [Ani - Ververg (feat. B) \[Usagi's Lv.12,1\]](https://osu.ppy.sh/beatmapsets/317967#mania/708608)
+  - [DJ Siesta - Another Day \[riu's Serenity (edited)\]](https://osu.ppy.sh/beatmapsets/1026737#mania/2147167)
+  - [antiPLUR - Runengon \[Hard\]](https://osu.ppy.sh/beatmapsets/971561#mania/2034201)
+  - [Umeboshi Chazuke - Bison Charge \[MEGA's Hard\]](https://osu.ppy.sh/beatmapsets/838465#mania/1755410)
+  - [w_tre - Shannon's Theorem \[Medium\]](https://osu.ppy.sh/beatmapsets/719672#mania/1519707)
+  - [RevenG - Sakura \[1:37:00 AMCherry Blossom [NO SLOWJAMS]\]](https://osu.ppy.sh/beatmapsets/1011359#mania/2116953)
+  - [aaaa - carnation \[fascination\]](https://osu.ppy.sh/beatmapsets/657239#mania/1392215)
+  - [SOUND HOLIC Vs. VENUS feat. Nana Takahashi - Musou \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/461303#mania/987971)
+  - [Post Malone - Money Made Me Do It \[yuh\]](https://osu.ppy.sh/beatmapsets/1005720#mania/2104840)
+  - [Sakuraburst - Serotonin \[Transmission Problem [SV]\]](https://osu.ppy.sh/beatmapsets/651935#mania/1382422)
 - Tiebreaker
-  - **[Ryo Arue - Forza \[Sophistication (edit)\]](https://osu.ppy.sh/b/2148054)**
+  - **[Ryo Arue - Forza \[Sophistication (edit)\]](https://osu.ppy.sh/beatmapsets/1027155#mania/2148054)**
 
 ### 小组赛
 
 - FreeMod
-  - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. \[Chill\]](https://osu.ppy.sh/b/2110884)
-  - [fripSide - black bullet (TV Size) \[Normal Curse\]](https://osu.ppy.sh/b/2069199)
-  - [M2U - Quo Vadis \[Hard\]](https://osu.ppy.sh/b/2018240)
-  - [Artisan - Summon \[Voyage\]](https://osu.ppy.sh/b/2066947)
-  - [Kamex - Collapse Remix \[Hard\]](https://osu.ppy.sh/b/1796039)
-  - [The Flashbulb - Black Lawn Finale \[Hayden's Lv.12 NSV\]](https://osu.ppy.sh/b/1253922)
-  - [sasakure.UK - Merry Christmas, Mr.Lawrence \[Hard\]](https://osu.ppy.sh/b/2009260)
-  - [void - Valedict \[Hard\]](https://osu.ppy.sh/b/1306452)
-  - [rainlord. - i wonder. \[hard.\]](https://osu.ppy.sh/b/2087790)
+  - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. \[Chill\]](https://osu.ppy.sh/beatmapsets/1002081#mania/2110884)
+  - [fripSide - black bullet (TV Size) \[Normal Curse\]](https://osu.ppy.sh/beatmapsets/989264#mania/2069199)
+  - [M2U - Quo Vadis \[Hard\]](https://osu.ppy.sh/beatmapsets/939503#mania/2018240)
+  - [Artisan - Summon \[Voyage\]](https://osu.ppy.sh/beatmapsets/988031#mania/2066947)
+  - [Kamex - Collapse Remix \[Hard\]](https://osu.ppy.sh/beatmapsets/736346#mania/1796039)
+  - [The Flashbulb - Black Lawn Finale \[Hayden's Lv.12 NSV\]](https://osu.ppy.sh/beatmapsets/592633#mania/1253922)
+  - [sasakure.UK - Merry Christmas, Mr.Lawrence \[Hard\]](https://osu.ppy.sh/beatmapsets/959667#mania/2009260)
+  - [void - Valedict \[Hard\]](https://osu.ppy.sh/beatmapsets/619834#mania/1306452)
+  - [rainlord. - i wonder. \[hard.\]](https://osu.ppy.sh/beatmapsets/998152#mania/2087790)
 - Tiebreaker
-  - **[sakuzyo - After Altale \[End of a Journey\]](https://osu.ppy.sh/b/1220666)**
+  - **[sakuzyo - After Altale \[End of a Journey\]](https://osu.ppy.sh/beatmapsets/576590#mania/1220666)**
 
 ### 资格赛
 
-- [Mr. Fantastic - Hyperactive \[Stage 1: Subtle\]](https://osu.ppy.sh/b/2130420)
-- [Tennyson - Pancake Feet \[Stage 2: Quick Steps\]](https://osu.ppy.sh/b/2130186)
-- [Eve - As You Like It \[Stage 3: Regulation\]](https://osu.ppy.sh/b/2130198)
-- [Silentroom - NULCTRL \[Stage 4: THE CLUB\]](https://osu.ppy.sh/b/2130237)
+- [Mr. Fantastic - Hyperactive \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
+- [Tennyson - Pancake Feet \[Stage 2: Quick Steps\]](https://osu.ppy.sh/beatmapsets/1017840#mania/2130186)
+- [Eve - As You Like It \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
+- [Silentroom - NULCTRL \[Stage 4: THE CLUB\]](https://osu.ppy.sh/beatmapsets/1017872#mania/2130237)
 
 ## 比赛结果
 
@@ -212,19 +212,6 @@
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
 | -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
-
-### 资格赛
-
-| Players |  |  |  |
-| :-: | :-: | :-: | :-: |
-| Davvyforte | palmEuEi | Halo- | Ladylag |
-| mewmew | HD_AdreNaline | NestleiFan | Maou |
-| Yukina- | Loily | vincent4399 | GodYeeKung |
-| TNKSTC | Horou | Antalf | BITONIC |
-| edisonhello | ReanimateS | Blujae | OumiOVO |
-| Yozomi | EDTA233 | [xiao ba] | -[ GuiboxFR ]- |
-| xyxyxy091 | DrugManager | XxTheJKxX | NutAndGo |
-| Kasumii-sama | - Blue Bell - | JunFish | Katsumi |
 
 ## 规则
 
