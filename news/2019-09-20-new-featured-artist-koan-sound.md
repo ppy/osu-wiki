@@ -8,7 +8,7 @@ We're proud to welcome **KOAN Sound** aboard as our latest Featured Artist! 16 t
 
 ![](https://assets.ppy.sh/artists/49/header.jpg)
 
-Showcased in osu! since early 2015 by [Aiceo](https://osu.ppy.sh/users/4453280)'s set of [Starlite](https://osu.ppy.sh/beatmapsets/294496#osu/662054) (featuring Asa), **KOAN Sound** has been something of an underground hit in the osu! community among the mapping scenes and abroad. Further from home, the enigmatic duo has toured extensively worldwide, supporting headline acts like *Skrillex*, *Pretty Lights* and more. They're also currently on tour at the moment around the United States with *Haywyre* in a show titled 'In Parallel'.
+Showcased in osu! since early 2015 by [Aiceo](https://osu.ppy.sh/users/4453280)'s set of [Starlite](https://osu.ppy.sh/beatmapsets/294496) (featuring Asa), **KOAN Sound** has been something of an underground hit in the osu! community among the mapping scenes and abroad. Further from home, the enigmatic duo has toured extensively worldwide, supporting headline acts like *Skrillex*, *Pretty Lights* and more. They're also currently on tour at the moment around the United States with *Haywyre* in a show titled "In Parallel".
 
 Undeniable masters of electronic music, **KOAN Sound** has so much going in their work that it is genuinely difficult to describe them one way or another. *Polychrome* is full of inexplicably chill but rhythmic and sometimes jazzy funk, while *Intervals Above* is all billowing melodic synthlines underscored by percussive wonder.
 
