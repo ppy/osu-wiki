@@ -9,7 +9,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 3.  **Birbirinize karşı saygılı olun.** Hakaret veya düşmanlık gibi davranışlarının osu! topluluğunda yeri yok. Biz circle'lara tıklamak, davullara vurmak, meyve toplamak, 18 taneye kadar tuşa aynı anda basmak için burdayız; birbirimize şerefsizlik yapmak için değil.
 4.  **Kıroluk yapmayın.** Bu kuralı kırıp kırmadığınızdan emin değilseniz, muhtemelen kırıyorsunuz.
 5.  **Topluluğumuz her yaştan insanları bulunduruyor.** Yani, uyuşturucu kullanmak ve cinsellik gibi 18+/müstehcen konuların konuşulması yasak. Gerektiği yerde istisnalar olabilmesine rağmen siz konuşmalarınızı olabildiğince temiz tutun.
-6.  ** Kuralların yeterli olmadığı yerde akıl mantık devreye girer.** Oyun yetkilileri, gerek gördükleri yerde kendi hükümlerini uygulayabilirler.
+6.  **Kuralların yeterli olmadığı yerde akıl mantık devreye girer.** Oyun yetkilileri, gerek gördükleri yerde kendi hükümlerini uygulayabilirler.
 ## Oyun-İçi Sohbet Kuralları
 
 1.  **Düşünceli davranın, kanaldaki diğer kullanıcılara saygılı olun ve spam'dan kaçının.** Tek kişinin sohbetin yarısını kaplaması hoş bir durum değil, bu yüzden spam yapmayın. Diğer insanların da sohbeti kullandığını unutmayın!
@@ -24,13 +24,13 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 ## Forum Kuralları
 
-1.  ** Sadece anlamlı, ilginç yada ilgi çekici gönderiler paylaşın.** Forumlar çoğunlukla tartışmalar içindir, dolayısıyla herkesin ayırdığı zamana değecek bir efor sarfettiğinizden emin olun.
-2.  ** Gönderilerinizin ve yanıtlarınızın her yaştan kullanıcı için uygun olmasına dikkat edin.** Müstehcen veya +18 içerikler her yaştan kullanıcının bulunduğu bir topluluk için uygun değildir, yine de bu tarz konuları özel mesajlarda konuşmanızdan sizi kimse alıkoyamaz.
-3.  ** Eleştirilerinizi bireye yönelik saldırılara mahal vermeden, üretken ve faydalı bir şekilde yapın.** Eleştiri, doğru düzgün yapıldığında harika bir şeydir, ancak bunu yaparken kişiye yönelik saldırılarda bulunuyorsanız, yanlış yapıyorsunuz ve üzgün hissetmelisiniz.
-4.  ** Forum konularını alakalı tutun, ve eğer tartışma bitip gitmişse eski konu başlıklarını hortlatmayın.** Herhangi bir konu yıllardır aktif değilse, artık günümüzle bir ilişiği kalmamış demektir, bu yüzden bırakın öyle kalsın. Yeni bir gönderi hazırlayın, yada forum içerisinde aramayı deneyin. Belki birisi soracağınız soruyu çoktan cevaplamıştır.
-5.  ** Profil resminizi ve forum imzanızı mantık çerçevesinde tutun.** Animasyonluysa, çok fazla flaşlı ve hareketli olmamasına özen gösterin. Bağlantı hızı düşük olan kullanıcıları unutmayarak, bunların olabildiğince küçük boyutta, mümkünse yarım megabayt (500 kilobayt) veya daha düşük, olmasına özen gösterelim.
-6.  ** Gönderilerinizde reklamlar, yönlendirme linkleri veya diğer sinir bozucu yada istenmeyen içerikler bulundurmayın.** Yönlendirme linkleri gibi şeyler, bunları gönderen kullanıcı için eğlenceli, diğer herkes için sinir bozucu olabilir, bu nedenle yapmayın. Otomatik yüklenen veya çalışan gömülü içerikler de bu kurala tabiidir.
-7.  ** Niyeti belirsiz uygulamalar veya programların linklerinin paylaşılması yasaktır.** Gayet basitçe; eğer belirtilen programların yasal olup olmadığı şüpheliyse, bunların gönderilmesi hoş karşılanmayacaktır.
+1.  **Sadece anlamlı, ilginç yada ilgi çekici gönderiler paylaşın.** Forumlar çoğunlukla tartışmalar içindir, dolayısıyla herkesin ayırdığı zamana değecek bir efor sarfettiğinizden emin olun.
+2.  **Gönderilerinizin ve yanıtlarınızın her yaştan kullanıcı için uygun olmasına dikkat edin.** Müstehcen veya +18 içerikler her yaştan kullanıcının bulunduğu bir topluluk için uygun değildir, yine de bu tarz konuları özel mesajlarda konuşmanızdan sizi kimse alıkoyamaz.
+3.  **Eleştirilerinizi bireye yönelik saldırılara mahal vermeden, üretken ve faydalı bir şekilde yapın.** Eleştiri, doğru düzgün yapıldığında harika bir şeydir, ancak bunu yaparken kişiye yönelik saldırılarda bulunuyorsanız, yanlış yapıyorsunuz ve üzgün hissetmelisiniz.
+4.  **Forum konularını alakalı tutun, ve eğer tartışma bitip gitmişse eski konu başlıklarını hortlatmayın.** Herhangi bir konu yıllardır aktif değilse, artık günümüzle bir ilişiği kalmamış demektir, bu yüzden bırakın öyle kalsın. Yeni bir gönderi hazırlayın, yada forum içerisinde aramayı deneyin. Belki birisi soracağınız soruyu çoktan cevaplamıştır.
+5.  **Profil resminizi ve forum imzanızı mantık çerçevesinde tutun.** Animasyonluysa, çok fazla flaşlı ve hareketli olmamasına özen gösterin. Bağlantı hızı düşük olan kullanıcıları unutmayarak, bunların olabildiğince küçük boyutta, mümkünse yarım megabayt (500 kilobayt) veya daha düşük, olmasına özen gösterelim.
+6.  **Gönderilerinizde reklamlar, yönlendirme linkleri veya diğer sinir bozucu yada istenmeyen içerikler bulundurmayın.** Yönlendirme linkleri gibi şeyler, bunları gönderen kullanıcı için eğlenceli, diğer herkes için sinir bozucu olabilir, bu nedenle yapmayın. Otomatik yüklenen veya çalışan gömülü içerikler de bu kurala tabiidir.
+7.  **Niyeti belirsiz uygulamalar veya programların linklerinin paylaşılması yasaktır.** Gayet basitçe; eğer belirtilen programların yasal olup olmadığı şüpheliyse, bunların gönderilmesi hoş karşılanmayacaktır.
 
 ## Beatmap Gönderme Kuralları
 
@@ -38,16 +38,16 @@ Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Glossary#bs
 
 Beatmap hazırlanışı ile ilgili detaylı bir kural listesi [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) başlığı altında ayrıca mevcuttur..
 
-1. ** Beatmapinizde bulunan her türlü içeriği kullanmak için izniniz olduğuna emin olun.** Bu, müzik, video, hitsoundlar, grafikler ve sizin kendinizin yaratmadığı herhangi bir başka içeriği de kapsar. Eğer kullanımı serbest bir içeriği nereden bulacağınızdan emin değilseniz, [Seçkin Sanatçılar](https://osu.ppy.sh/beatmaps/artists/) listemizde mevcut, gittikçe büyüyen müzik kütüphanemizden yararlanabilirsiniz. Tamamı %100 osu! için lisanslıdır!
-2.  ** Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.
-3.  ** Emek hırsızlığı yapmayın, başkalarının yapıtlarını taklit etmeyin.** Diğer insanların yapıtlarını onların apaçık izni olmadan kullanmayın veya karşıya yüklemeyin. Sadece bunlarla kısıtlı olmaksızın, temalar ve misafir zorluklar da buna dahildir.
+1. **Beatmapinizde bulunan her türlü içeriği kullanmak için izniniz olduğuna emin olun.** Bu, müzik, video, hitsoundlar, grafikler ve sizin kendinizin yaratmadığı herhangi bir başka içeriği de kapsar. Eğer kullanımı serbest bir içeriği nereden bulacağınızdan emin değilseniz, [Seçkin Sanatçılar](https://osu.ppy.sh/beatmaps/artists/) listemizde mevcut, gittikçe büyüyen müzik kütüphanemizden yararlanabilirsiniz. Tamamı %100 osu! için lisanslıdır!
+2.  **Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.
+3.  **Emek hırsızlığı yapmayın, başkalarının yapıtlarını taklit etmeyin.** Diğer insanların yapıtlarını onların apaçık izni olmadan kullanmayın veya karşıya yüklemeyin. Sadece bunlarla kısıtlı olmaksızın, temalar ve misafir zorluklar da buna dahildir.
 ## Off-Topic Kuralları
 
 * Aşağıda belirtilen kurallar, aksi belirtilmediği sürece, YALNIZCA [Off-Topic](https://osu.ppy.sh/community/forums/52) altforumu için geçerlidir.
 
-1. ** Off-Topic’teki hiçbir konunun değeri yoktur.** Gayet basitçe, çöplükten farksızdır. Eğer konu başlıklarınız sürekli Off-Topic forumuna taşınıyorsa, bilin ki ciddi bir tartışma için ortam hazırlamıyorlardır. Anladınız artık.
-2. ** Aşırı aptallık kötüdür.** . Sevimli bir budala olmak iyidir, ve hatta bokpostlamanın başlıca prosedürü konumundadır. Hakiki aptallık asla iyi değildir. Eğer aradaki farkı ayırt edemiyorsanız, zaten bir kuralı çiğniyorsunuz.
-3. ** Doğum günü başlıkları Off-Topic forumundan başka hiçbir yerde bulunmamalıdır.** Tüm doğum günü başlıkları en az üç (3) tane dans eden anime kızı içermek zorundadır, aksi halde acımasızca otobüsün altına fırlatılır.
+1. **Off-Topic’teki hiçbir konunun değeri yoktur.** Gayet basitçe, çöplükten farksızdır. Eğer konu başlıklarınız sürekli Off-Topic forumuna taşınıyorsa, bilin ki ciddi bir tartışma için ortam hazırlamıyorlardır. Anladınız artık.
+2. **Aşırı aptallık kötüdür.** . Sevimli bir budala olmak iyidir, ve hatta bokpostlamanın başlıca prosedürü konumundadır. Hakiki aptallık asla iyi değildir. Eğer aradaki farkı ayırt edemiyorsanız, zaten bir kuralı çiğniyorsunuz.
+3. **Doğum günü başlıkları Off-Topic forumundan başka hiçbir yerde bulunmamalıdır.** Tüm doğum günü başlıkları en az üç (3) tane dans eden anime kızı içermek zorundadır, aksi halde acımasızca otobüsün altına fırlatılır.
 
 ## Peki kuralları çiğnersem ne olur?
 
