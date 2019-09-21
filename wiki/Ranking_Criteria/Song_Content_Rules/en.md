@@ -15,13 +15,14 @@ They will need to be identified by a line in the beatmap's description reflectin
 
 This is a mildly complicated issue and what is acceptable for one person is often not for another.
 
-To address this, roughly apply a variant of the **20% rule** - is more than 20% of your track's lyrical content a direct reference to something explicit, suggestive, or otherwise controversial?
+When considering the appropriateness of a given track, think of the **20% guideline** - is more than 20% of your track's lyrical content a direct reference to something explicit, suggestive, or otherwise controversial? If so, it may not be appropriate for osu!.
 
-If you aren't sure on how to proceed with your track given this rough variant, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
+This guideline is not a hard rule, but more of a way to help inform your choices on what might work and what probably won't.
 
-Any track that is highly intense or shocking in any manner as described in the three criteria above is not allowed regardless of what percentage of its content falls under the classification.
+Many musical styles or genres make use of explicit lyrics for artistic or stylistic ends, and while profanity and explicit content isn't outright forbidden, tracks that are vulgar to the extreme or are deliberately designed to shock or inflame others are not allowed.
 
-What determines "highly intense" should be abundantly obvious to a large selection of random people.
+If you aren't sure on how to proceed with your track given all this, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
+
 
 ## What happens if my track isn't okay?
 
