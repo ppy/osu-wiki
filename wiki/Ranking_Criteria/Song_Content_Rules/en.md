@@ -6,6 +6,7 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 - Glorifying, promoting or otherwise encouraging drug abuse, suicide, murder, or self-harm
 - Promoting racial tension or division
 - Extremely and unbearably loud or excessively clipped
+- Heavily political
 
 Tracks with explicit lyrics can still be used so long as they do not overtly violate the criteria above.
 
@@ -23,6 +24,11 @@ Many musical styles or genres make use of explicit lyrics for artistic or stylis
 
 If you aren't sure on how to proceed with your track given all this, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
 
+## What classifies as 'heavily political' content?
+
+In the interests of keeping a game about rhythm strictly about rhythm and in accordance with Community Rule number 3, content which is deemed excessively political by the administration is disallowed.
+
+We adhere to no one particular 'end' of a political spectrum - osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or quabble over politics.
 
 ## What happens if my track isn't okay?
 
