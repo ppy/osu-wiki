@@ -321,8 +321,8 @@ The level of a player is **based solely** on the **player's total score**.
 The total score requirement for a given level is as follows:
 
 ```
-5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100
-26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101
+5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n < 100
+26,931,190,827 + 99,999,999,999 * (n - 100), where n >= 100
 ```
 
 The progress to the next level is displayed using a bar next to the player's level.
