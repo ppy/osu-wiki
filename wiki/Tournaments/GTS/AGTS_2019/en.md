@@ -463,7 +463,7 @@ This competition has come to an end and resulted in the following podium:
 4. If neither of both teams have the minimum required players after 10 minutes it will count as a loss for both teams in Group Stage. In the double elimination bracket, the highest seeded team will advance.
 5. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "AGTS 2019: (Team Red) vs (Team Blue)".
 6. Each team is allowed one warm-up but it must be below 4 minutes. Everyone is allowed in the room during warm ups.
-7. Each captain has to ban **two beatmaps** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
+7. Each captain has to ban **one beatmap** to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 8. The captain of each team will roll with the command `!roll` in the chat.
 9. The team with the **highest roll bans second and picks first.** The team with **the lowest roll bans first and picks second.**
 10. Beatmap selection will then alternate between each captain selecting a beatmap out of the map pool.
