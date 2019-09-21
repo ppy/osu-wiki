@@ -443,9 +443,10 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 4. Cada mappool consiste en 7 tipos: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker (mapa para desempate).
 5. El mappool consiste en 20 mapas.
 6. La cantidad de mapas de Hidden, HardRock and DoubleTime será de 2, y 3 para FreeMod en todas las etapas.
-7. Los mapas FreeMod serán jugados con "Mods libres" activado. Cada jugador podrá colocarse **Hidden, HardRock o ambos mods. Al menos uno de los jugadores deberá tener un mod puesto (no pueden jugar ambos sin mod).**
-8. El Tiebraker será jugado con los Mods activados pero no es necesario colocarse un mod, y no es obligación que al menos uno de los jugadores utilice un mod.
-9. El mappool de cada etapa será presentado y publicado uan semana antes.
+7. Los mapas EX serán jugados sin ningún mod, y es una versión mucho más difícil de los No Mod. Los EX suelen ser mapas muy técnicos, rápidos, etc, que requieren de especial práctica.
+8. Los mapas FreeMod serán jugados con "Mods libres" activado. Cada jugador podrá colocarse **Hidden, HardRock o ambos mods. Al menos uno de los jugadores deberá tener un mod puesto (no pueden jugar ambos sin mod).**
+9. El Tiebraker será jugado con los Mods activados pero no es necesario colocarse un mod, y no es obligación que al menos uno de los jugadores utilice un mod.
+10. El mappool de cada etapa será presentado y publicado uan semana antes.
 
 ### Instrucciones de horarios
 

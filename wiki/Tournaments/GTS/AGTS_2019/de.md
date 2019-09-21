@@ -443,9 +443,10 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 4. Jeder Mappool stellt sich aus 6 Bracket zusammen: NoMod, Hidden, HardRock, DoubleTime, FreeMod und Tiebreaker.
 5. Der Mappool der Gruppenphase wird aus 14, RO16 und Viertelfinale aus 15 und Halbfinale, Finale und Hauptfinale aus 16 Maps bestehen.
 6. Es werden jeweils 2 HD, HR, DT und 3 FM Maps in jedem Pool geben.
-7. Der FreeMod-Pool kann mit **Hidden, HardRock oder beiden** Mods gespielt werden. **Mindestens ein Spieler pro Team muss einen Mod auswählen.**
-8. Der Tiebreaker wird wie eine FreeMod Map behandelt. Hier muss allerdings kein Spieler einen Mod auswählen.
-9. Der Mappool für jede Phase wird eine Woche vorher bekanntgegeben.
+7. Der EX bracket wird ohne Mods gespielt und ist die schwierigere Version der NoMod Maps. EX Maps beinhalten weniger geläufige Mappingstile, Speedchanges, etc.
+8. Der FreeMod-Pool kann mit **Hidden, HardRock oder beiden** Mods gespielt werden. **Mindestens ein Spieler pro Team muss einen Mod auswählen.**
+9. Der Tiebreaker wird wie eine FreeMod Map behandelt. Hier muss allerdings kein Spieler einen Mod auswählen.
+10. Der Mappool für jede Phase wird eine Woche vorher bekanntgegeben.
 
 ### Zeitplanregulierung
 

@@ -443,9 +443,10 @@ This competition has come to an end and resulted in the following podium:
 4. Each mappool consists of 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
 5. Every mappool will consist of 20 maps.
 6. The size of the Hidden, HardRock, DoubleTime, and FreeMod brackets will be 3 in all stages.
-7. The FreeMod pool is played with FreeMod activated. Every individual player can pick **Hidden, HardRock or both. At least one player of each team must have at least one mod activated.**
-8. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mode activated.
-9. The mappool for each stage will be showcased a week before.
+7. The EX bracket will be played with no mods activated and is the harder version of NoMod, it contains maps with tricky mapping technique, speed changes, etc.
+8. The FreeMod pool is played with FreeMod activated. Every individual player can pick **Hidden, HardRock or both. At least one player of each team must have at least one mod activated.**
+9. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mode activated.
+10. The mappool for each stage will be showcased a week before.
 
 ### Scheduling Instructions
 

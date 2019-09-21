@@ -443,9 +443,10 @@ Cette compétition est maintenant terminée, voici le classement final:
 4. Chaque mappool sera structuré avec 6 catégories de mods: NoMod (NM), Hidden (HD), HardRock (HR), DoubleTime (DT), FreeMod (FM) et le Tiebreaker (TB).
 5. Chaque mappool sera composé de 20 beatmaps.
 6. La taille du pool pour les mods Hidden, Hard Rock et DoubleTime sera de deux (2) et 3 pour le pool Freemod, peu importe l'étape du tournoi.
-7. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
-8. Le Tiebreaker sera joué au même titre que les beatmaps en Freemod, à l'exception que vous n'êtes pas obligé d'avoir un mod actif.
-9. Le mappool pour chaque étape sera dévoilé en direct une semaine avant le début des matchs sur ledit pool.
+7. La catégorie de beatmaps EX sera jouée sans aucun mod actif, et est une version plus complexe des beatmaps NoMod, les maps contenant des patterns trompeurs, des changements de vitesse, etc...
+8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
+9. Le Tiebreaker sera joué au même titre que les beatmaps en Freemod, à l'exception que vous n'êtes pas obligé d'avoir un mod actif.
+10. Le mappool pour chaque étape sera dévoilé en direct une semaine avant le début des matchs sur ledit pool.
 
 ### Instructions des plannifications de matchs
 

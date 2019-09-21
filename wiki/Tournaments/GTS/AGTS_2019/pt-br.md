@@ -443,8 +443,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 4. Cada mappool possui 6 chaves: NoMod, Hidden, HardRock, DoubleTime, FreeMod e Tiebraker.
 5. A mappool da Fase de Grupos terá 14 beatmaps, Oitavas de final e Quartas de final terá 15 beatmaps, Semifinais, Finais e Grande Final terão uma mappool de 16 beatmaps.
 6. As chaves de Hidden, HardRock e DoubleTime terão 2 beatmaps e a chave de FreeMod terá 3 beatmaps em todas as fases.
-7. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado.**
-8. O Tiebraker é jogado sob as mesmas condições do FreeMod, mas não é necessário que pelo menos um jogador tenha no mínimo um mod ativado.
+7. A modalidade EX será jogada sem nenhum mod ativado e é a versão mais difícil do NoMod, contém beatmaps com técnicas de mapping complicadas, mudanças de velocidade, etc.
+8. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado.**
+9. O Tiebraker é jogado sob as mesmas condições do FreeMod, mas não é necessário que pelo menos um jogador tenha no mínimo um mod ativado.
 9. A mappool de cada fase será exibida uma semana anterior as partidas.
 
 ### Instruções para agendamento

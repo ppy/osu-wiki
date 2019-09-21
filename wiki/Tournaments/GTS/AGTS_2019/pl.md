@@ -443,9 +443,10 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 4. Każdy mappool składa się z następujących map: NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
 5. Każdy pula map będzie się składać z 20 map.
 6. Ilość map Hidden, Hard Rock i Double Time będzie wynosić 2 i 3 dla map FreeMod we wszystkich Fazach.
-7. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba.** Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem.
-8. Tiebreaker jest rozgrywany w warunkach FreeMod, ale nie jest wymagane aby ktokolwiek grał z modem.
-9. Mappool dla każdego Fazy zostanie zaprezentowany tydzień wcześniej.
+7. Mapy EX będą grane bez modów i są trudniejszą wersją NoMod. Zawierają mapy, które zawierają specjalne techniki mapowania, zmiany prędkości itp.
+8. Mapy FreeMod będą grane z użyciem FreeModa. Każdy gracz może wybrać **Hidden, HardRock albo oba. Przynajmniej jeden gracz z każdej drużyny musi grać z conajmniej jednym modem.**
+9. Tiebreaker jest rozgrywany w warunkach FreeMod, ale nie jest wymagane aby ktokolwiek grał z modem.
+10. Mappool dla każdego Fazy zostanie zaprezentowany tydzień wcześniej.
 
 ### Instrukcje Planowania
 

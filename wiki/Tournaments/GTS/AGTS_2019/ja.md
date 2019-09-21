@@ -443,9 +443,10 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 4. それぞれのMappoolはNoMod, Hidden, HardRock, DoubleTime, FreeModとTiebreakerの６つのブラケットに分けられます。
 5. すべてのマッププールは20個のマップで構成されます。
 6. Hidden, HardRock と DoubleTime のブラケットは二譜面、 FreeModブラケットは三譜面。
-7. FreeModはFreeModがオンになった状態でプレイします。プレイヤーはそれぞれ**HiddenかHardRock 、もしくは両方同時に選べます。それぞれのチームはプレイヤー最低一人が最低一つModを付ける必要があります。**
-8. TiebreakerはFreeModオンでプレイされますがプレイヤー最低一人が最低一つModを付ける必要はありません。
-9. それぞれのステージのMappoolは一週間前にショーケースされます。
+7. EXブラケットはModなしでプレイされるNoModの上位互換で、トリッキーなマッピングテクニックや速度変化などあります。
+8. FreeModはFreeModがオンになった状態でプレイします。プレイヤーはそれぞれ**HiddenかHardRock 、もしくは両方同時に選べます。それぞれのチームはプレイヤー最低一人が最低一つModを付ける必要があります。**
+9. TiebreakerはFreeModオンでプレイされますがプレイヤー最低一人が最低一つModを付ける必要はありません。
+10. それぞれのステージのMappoolは一週間前にショーケースされます。
 
 ### スケジュール説明
 
