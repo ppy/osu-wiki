@@ -19,9 +19,6 @@ Si le **[Système de Soumission de Beatmap](/wiki/Glossary#bss)** (***BSS***) ne
   - Ex : `1000 - Song Name` devrait plutôt être `Song Name`.
 8. Supprimez le/les fichier(s) dans le dossier `SubmissionCache`. Ce dossier est localisé dans le dossier d’installation d’osu!.
 9. Ouvrez à nouveau osu! et tentez de télécharger votre beatmap.
-10. Si cela échoue, essayez les étapes ci-dessous.
-
----
 
 Si vous avez toujours des problèmes, suivez ces étapes :
 

@@ -19,9 +19,6 @@ If the **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) won't let
   - E.g. `1000 - Song Name` should be `Song Name`.
 8. Delete the file(s) in the `SubmissionCache` folder. This is located in the osu! installation folder.
 9. Open osu! again and try to upload your beatmap.
-10. If this fails, try the steps below.
-
----
 
 If you are still having issues, follow these steps:
 
