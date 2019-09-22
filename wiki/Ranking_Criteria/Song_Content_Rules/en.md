@@ -16,7 +16,7 @@ They will need to be identified by a line in the beatmap's description reflectin
 
 This is a mildly complicated issue and what is acceptable for one person is often not for another.
 
-When considering the appropriateness of a given track, think of the **20% guideline** - is more than 20% of your track's lyrical content a direct reference to something explicit, suggestive, or otherwise controversial? If so, it may not be appropriate for osu!.
+When considering the appropriateness of a given track, think of the **20% guideline**—is more than 20% of your track's lyrical content a direct reference to something explicit, suggestive, or otherwise controversial? If so, it may not be appropriate for osu!.
 
 This guideline is not a hard rule, but more of a way to help inform your choices on what might work and what probably won't.
 
@@ -24,11 +24,11 @@ Many musical styles or genres make use of explicit lyrics for artistic or stylis
 
 If you aren't sure on how to proceed with your track given all this, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
 
-## What classifies as 'heavily political' content?
+## What classifies as "heavily political" content?
 
 In the interests of keeping a game about rhythm strictly about rhythm and in accordance with Community Rule number 3, content which is deemed excessively political by the administration is disallowed.
 
-We adhere to no one particular 'end' of a political spectrum - osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or quabble over politics.
+We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or quabble over politics.
 
 ## What happens if my track isn't okay?
 
@@ -38,5 +38,4 @@ Each time your submission is removed, you will be afforded an explanation by the
 
 You may contest this with them via PM if you so wish, or seek the opinions of others to substantiate your claim to the track's suitability. If you still cannot find common ground on this front, your claim may be escalated to a consensus vote among the current NAT members, who will collectively decide if your track is acceptable or not.
 
-Excluding severely inappropriate uploads, all users are given a **one submission leeway** before penalties are handed out due to the uncertain nature of this ruling.
-After this leeway has passed, users who continually choose to upload inappropriate tracks will face a 42-hour infringement along with the removal of their submission.
+Excluding severely inappropriate uploads, all users are given a **one submission leeway** before penalties are handed out due to the uncertain nature of this ruling. After this leeway has passed, users who continually choose to upload inappropriate tracks will face a 42-hour infringement along with the removal of their submission.
