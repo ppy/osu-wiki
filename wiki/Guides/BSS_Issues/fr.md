@@ -1,7 +1,7 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
+- Je ne peux pas soumettre ma propre beatmap !
+- problèmes dans le système de soumission de beatmap
 ---
 
 # Problème avec le SSB
