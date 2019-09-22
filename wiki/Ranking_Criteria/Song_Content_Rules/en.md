@@ -22,7 +22,7 @@ This guideline is not a hard rule, but more of a way to help inform your choices
 
 Many musical styles or genres make use of explicit lyrics for artistic or stylistic ends, and while profanity and explicit content isn't outright forbidden, tracks that are vulgar to the extreme or are deliberately designed to shock or inflame others are not allowed.
 
-If you aren't sure on how to proceed with your track given all this, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) _before_ uploading your mapset!
+If you aren't sure about how to proceed with your track given these guidelines, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) *before* uploading your mapset!
 
 ## What classifies as "heavily political" content?
 
