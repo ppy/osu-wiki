@@ -6,8 +6,6 @@ tags:
 
 # Problème avec le BSS
 
-*Note: N’utilisez pas ce guide pour voler les beatmaps d’autres créateurs !*
-
 Si le **[Système de Soumission de Beatmap](/wiki/Glossary#bss)** (***BSS***) ne vous laisse pas soumettre votre propre beatmap car il dit que ce n’est pas votre propre beatmap puis faites ce qui suit :
 
 1. Allez dans le dossier beatmapset.
