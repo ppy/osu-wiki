@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 歌曲内容规定
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
