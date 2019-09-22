@@ -3,11 +3,12 @@ tags:
 - AGTS 2019
 - AGTS2019
 ---
+
 # Advanced Global Taiko Showdown 2019
 
 ![AGTS 2019 Logo](img/logo.png)
 
-**Advanced Global Taiko Showdown 2019** (***IGTS 2019***) fue un torneo de osu!taiko por equipos basados en países de doble eliminación dos-contra-dos organizado por ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Esta fue la segunda edición de Intermediate Global Taiko Showdown.
+**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) fue un torneo de osu!taiko por equipos basados en países de doble eliminación dos-contra-dos organizado por ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) y ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Esta fue la segunda edición de Intermediate Global Taiko Showdown.
 
 ## Horarios del Torneo
 

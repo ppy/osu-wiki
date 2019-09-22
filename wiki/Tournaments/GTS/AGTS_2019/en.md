@@ -3,6 +3,7 @@ tags:
 - AGTS 2019
 - AGTS2019
 ---
+
 # Advanced Global Taiko Showdown 2019
 
 ![AGTS 2019 Logo](img/logo.png)
