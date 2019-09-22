@@ -26,7 +26,7 @@ If you aren't sure on how to proceed with your track given all this, ask any mem
 
 ## What classifies as "heavily political" content?
 
-In the interests of keeping a game about rhythm strictly about rhythm and in accordance with Community Rule number 3, content which is deemed excessively political by the administration is disallowed.
+In the interests of keeping a game about rhythm strictly about rhythm and in accordance with [Community Rule](/wiki/Rules#community-rules) #3, content which is deemed excessively political by the administration is disallowed.
 
 We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or quabble over politics.
 
