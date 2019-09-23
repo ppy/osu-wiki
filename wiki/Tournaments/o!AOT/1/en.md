@@ -28,6 +28,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/GCrown.png "2nd place") | 1 month of osu!supporter tag |
 
 ![o!AOT Winner Badge](img/badge.png)
 
