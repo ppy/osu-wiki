@@ -51,6 +51,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Statistics sheet](https://bit.ly/2mu43tz)
 
 ---
 
@@ -93,67 +94,47 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 21 September 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_DK] | Denmark | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
-| Taiwan | ![][flag_TW] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
-| Australia | ![][flag_AU] | ![][flag_JP] | Japan | **12:00 UTC** | 22:00 UTC+10 | 21:00 UTC+09 |
-| Philippines | ![][flag_PH] | ![][flag_DE] | Germany | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Australia | ![][flag_AU] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 23:00 UTC+10 | 16:00 UTC+03 |
-| Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
-| Italy | ![][flag_IT] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
-| Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
-| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | **14:00 UTC** | 21:00 UTC+07 | 22:00 UTC+08 |
-| Italy | ![][flag_IT] | ![][flag_SE] | Sweden | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-| Thailand | ![][flag_TH] | ![][flag_PL] | Poland | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 |
-| Indonesia | ![][flag_ID] | ![][flag_CH] | Switzerland | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 |
-| Sweden | ![][flag_SE] | ![][flag_DK] | Denmark | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
-| Russian Federation | ![][flag_RU] | ![][flag_VE] | Venezuela | **17:00 UTC** | 20:00 UTC+03 | 13:00 UTC-04 |
-| United Kingdom | ![][flag_GB] | ![][flag_CH] | Switzerland | **18:00 UTC** | 19:00 UTC+01 | 20:00 UTC+02 |
-| Chile | ![][flag_CL] | ![][flag_FI] | Finland | **18:00 UTC** | 15:00 UTC-03 | 21:00 UTC+03 |
-| Canada | ![][flag_CA] | ![][flag_PE] | Peru | **19:00 UTC** | 15:00 UTC-04 | 14:00 UTC-05 |
-| France | ![][flag_FR] | ![][flag_MX] | Mexico | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | **20:00 UTC** | 16:00 UTC-04 | 16:00 UTC-04 |
-| Brazil | ![][flag_BR] | ![][flag_CL] | Chile | **20:00 UTC** | 17:00 UTC-03 | 17:00 UTC-03 |
-| United States | ![][flag_US] | ![][flag_PE] | Peru | **21:00 UTC** | 17:00 UTC-04 | 16:00 UTC-05 |
-| Mexico | ![][flag_MX] | ![][flag_NO] | Norway | **21:00 UTC** | 16:00 UTC-05 | 23:00 UTC+02 |
-
-### Sunday, 22 September 2019
+### Saturday, 28 September 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_PE] | Peru | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
-| Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **02:00 UTC** | 23:00 (Sat.) UTC-03 | 10:00 UTC+08 |
-| Japan | ![][flag_JP] | ![][flag_VE] | Venezuela | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-04 |
-| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **03:00 UTC** | 00:00 UTC-03 | 11:00 UTC+08 |
-| Australia | ![][flag_AU] | ![][flag_VE] | Venezuela | **03:00 UTC** | 13:00 UTC+10 | 23:00 (Sat.) UTC-04 |
-| Singapore | ![][flag_SG] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
-| China | ![][flag_CN] | ![][flag_CA] | Canada | **05:00 UTC** | 13:00 UTC+08 | 01:00 UTC-04 |
-| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
-| South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
-| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | **12:00 UTC** | 19:00 UTC+07 | 14:00 UTC+02 |
-| Japan | ![][flag_JP] | ![][flag_RU] | Russian Federation | **12:00 UTC** | 21:00 UTC+09 | 15:00 UTC+03 |
-| United Kingdom | ![][flag_GB] | ![][flag_MY] | Malaysia | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
-| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
-| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_ES] | Spain | **13:00 UTC** | 15:00 UTC+02 | 15:00 UTC+02 |
-| United States | ![][flag_US] | ![][flag_CN] | China | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
-| United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 |
-| Argentina | ![][flag_AR] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
-| France | ![][flag_FR] | ![][flag_SG] | Singapore | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Poland | ![][flag_PL] | ![][flag_NL] | Netherlands | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-| Brazil | ![][flag_BR] | ![][flag_FI] | Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
-| France | ![][flag_FR] | ![][flag_NO] | Norway | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
-| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | **15:00 UTC** | 12:00 UTC-03 | 17:00 UTC+02 |
+| Thailand | ![][flag_TH] | ![][flag_IT] | Italy | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
+| United Kingdom | ![][flag_GB] | ![][flag_RU] | Russian Federation | **15:30 UTC** | 16:30 UTC+01 | 18:30 UTC+03 |
+| United States | ![][flag_US] | ![][flag_FR] | France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+
+### Sunday, 29 September 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_AR] | Argentina | **00:30 UTC** | 21:30 (Sat.) UTC-03 | 21:30 (Sat.) UTC-03 |
+| Chile | ![][flag_CL] | ![][flag_PH] | Philippines | **02:00 UTC** | 23:00 (Sat) UTC-03 | 10:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_JP] | Japan | **10:00 UTC** | 17:00 UTC+07 | 19:00 UTC+09 |
+| Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **11:30 UTC** | 13:30 UTC+02 | 20:30 UTC+09 |
+| China | ![][flag_CN] | ![][flag_SG] | Singapore | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
 
 ## Mappools
+
+### Round of 16
+
+- FreeMod
+    - [E-Type - Here I Go Again (Jole) \[where u going though\]](https://osu.ppy.sh/beatmapsets/433032#mania/933589)
+    - [Shawn Wasabi - Marble Soda (-mint-) \[Ramune\]](https://osu.ppy.sh/beatmapsets/946991#mania/1977877)
+    - [Ariana Grande - thank u, next (Civilization) \[venti frappuccino\]](https://osu.ppy.sh/beatmapsets/1010846#mania/2115940)
+    - [KillerBlood - Goodbye Boss (Dergo) \[treason\]](https://osu.ppy.sh/beatmapsets/907627#mania/1894009)
+    - [Anamanaguchi - Prom Night (Valedict) \[Lovely\]](https://osu.ppy.sh/beatmapsets/585731#mania/1240675)
+    - [PSYQUI - Education (Dergo) \[bye4now's university\]](https://osu.ppy.sh/beatmapsets/983953#mania/2129202)
+    - [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
+    - [Seiryu - AO-INFINITY (Lusty Platypus) \[Forever\]](https://osu.ppy.sh/beatmapsets/861467#mania/1802210)
+    - [Virtual Riot - Preset Junkies VIP (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/886857#mania/1854039)
+    - [Helblinde - Unconquered (Dergo) \[reign\]](https://osu.ppy.sh/beatmapsets/993995#mania/2078446)
+    - [Memme - China Dress (juankristal) \[Stage 3: Armony\]](https://osu.ppy.sh/beatmapsets/901835#mania/1882949)
+    - [goreshit - burn this moment into the retina of my eye (Vortex-) \[memory loss\]](https://osu.ppy.sh/beatmapsets/999447#mania/2169709)
+    - [Chroma - Pon-Pon-Pompoko Dai-Sen-Saw! (ALEFY) \[Pira's EXHAUST\]](https://osu.ppy.sh/beatmapsets/351531#mania/775625)
+    - [The Flashbulb - Cycles (TheToaphster) \[Stage 1: Composure\]](https://osu.ppy.sh/beatmapsets/673208#mania/1424814)
+- TieBreaker
+    - **[dj TAKA - Colors -sasakure.UK Futurelogic Remix- (Dergo) \[blue\]](https://osu.ppy.sh/beatmapsets/1033943#mania/2161813)**
 
 ### Group Stage
 
