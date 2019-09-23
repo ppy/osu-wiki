@@ -7,7 +7,7 @@ tags:
 
 ![o!AOT Logo](img/logo.png)
 
-The **osu! Asia Oceania Tournament** (***o!AOT***) is an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It is the first installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first installment of the osu! Asia Oceania Tournament.
 
 ## Tournament Schedule
 
@@ -17,11 +17,11 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) is an Asian and Oceanian doub
 | Live Drawings | 2019-07-20 (19:00 UTC+7) |
 | Qualifiers Stage | 2019-07-26/2019-07-28 |
 | Group Stage | 2019-08-02/2019-08-11 |
-| Round of 16 | 2019-08-16/2019-08-18 |
-| Quarterfinals | 2019-08-23/2019-08-25 |
+| Round of 16 | 2019-08-17/2019-08-18 |
+| Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-30/2019-09-01 |
-| Finals | 2019-09-06/2019-09-08 |
-| Grand Finals | 2019-09-13/2019-09-15 |
+| Finals | 2019-09-04/2019-09-13 |
+| Grand Finals | 2019-09-18/2019-09-22 |
 
 ## Prizes
 
@@ -33,7 +33,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) is an Asian and Oceanian doub
 
 ## Organisation
 
-The osu! Asia Oceania Tournament is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! Asia Oceania Tournament was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -107,34 +107,135 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
 
 ---
 
-## Match Schedules: Round of 16
+## Podium
 
-### Friday, 16. August 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| **#1606** | No Tryhard | panda is not justice | **12:00** |
-
-### Saturday, 17. August 2019
-
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| **#1603** | babote | osu attack on titan | **08:00** |
-| **#1602** | 모모니나 | Bin Boys | **10:00** |
-| **#1605** | 黃建智 | any ideas | **12:00** |
-
-### Sunday, 18. August 2019
-
-| Match ID | Team A | Team B | Match Time (UTC) |
-| :-: | --: | :-- | :-: |
-| **#1604** | 과로사 | bus girls | **06:00** |
-| **#1607** | The Big Dilfs | Operation Bathroom | **08:00** |
-| **#1608** | okguysweneedaname | 進撃のバブルティー | **10:00** |
-| **#1601** | reyuza ganteng | FYP 228922 | **12:00** |
+| Placing | Team |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 進撃のバブルティー |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 黃建智 |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 과로사 |
 
 ---
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the map pack here! (163 MB)](https://fuma.s-ul.eu/pDlyqhaj)**
+
+- NoMod
+  - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679794)
+  - [xi - over the top (Reillia) \[Heaven\]](https://osu.ppy.sh/beatmapsets/851156#osu/1779343)
+  - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
+  - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz)
+- Hidden
+  - [xi - Caramel Custard (nya10) \[Creme [edit ver.]\]](https://osu.ppy.sh/beatmapsets/1038181#osu/2170298)
+  - [Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
+  - [Ray - km/h (TV Size) (Realazy) \[Velocity\]](https://osu.ppy.sh/beatmapsets/775282#osu/1629195)
+- HardRock
+  - [ESTi - HELIX (Edit Ver.) (FreeSongs) \[Helix\]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
+  - [katagiri - Lu\*nya\*cy Act 2017 (LowComboFC) \[asdf\]](https://osu.ppy.sh/beatmapsets/795798#osu/1671239)
+  - [Zekk - Feelsleft0ut (J1\_) \[Nokris' Extra\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722775)
+- DoubleTime
+  - [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#osu/1952154)
+  - [HoneyWorks meets TrySail - Senpai. (-Mo-) \[Satellite's Admission\]](https://osu.ppy.sh/beatmapsets/844351#osu/1766272)
+  - [An - TearVid (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/37980#osu/121804)
+- FreeMod
+  - [X2N_ - Smile of the End (Mirash) \[a\]](https://osu.ppy.sh/beatmapsets/775541#osu/1629708)
+  - [paraoka - boot (Jounzan) \[difficulty\]](https://osu.ppy.sh/beatmapsets/913680#osu/1908543)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
+- Tiebreaker
+  - **[Vektor - Outer Isolation (FCL) \[Segregated\]](https://osu.ppy.sh/beatmapsets/469408#osu/1574230)**
+
+### Finals
+
+**[Download the map pack here! (102 MB)](https://fuma.s-ul.eu/uzzzkVHO)**
+
+- NoMod
+  - [Hatsuki Yura - Kaguyahime (KwAIMSuckASFuk) \[Parade\]](https://osu.ppy.sh/beatmapsets/1014375#taiko/2125073)
+  - [Camellia - Bangin' Burst (Akali) \[Mazzerin's CHALLENJOUR\]](https://osu.ppy.sh/beatmapsets/194361#osu/674935)
+  - [Falcom Sound Team jdk feat. Suehiro Yuri - Ashita e no Kiseki (Mordred) \[Stars of Destiny\]](https://osu.ppy.sh/beatmapsets/938505#taiko/1960428)
+  - [xi - Ascension to Heaven (Night Mare) \[Forecoming End\]](https://osu.ppy.sh/beatmapsets/962661#taiko/2015643)
+  - [beatMARIO - Night of Knights (Anxient) \[TRUE 2009 STAGE\]](https://osu.ppy.sh/beatmapsets/530702#taiko/1125657)
+- Hidden
+  - [The Ghost of 3.13 - Forgotten (nya10) \[Afterlife [Mismagius edit ver.]\]](https://osu.ppy.sh/beatmapsets/1031696#taiko/2157359)
+  - [Thaehan - Doki-Doki (FrenZ396) \[Heartbeat\]](https://osu.ppy.sh/beatmapsets/713926#taiko/1508844)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](https://osu.ppy.sh/beatmapsets/848259#taiko/1773876)
+- HardRock
+  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#taiko/945304)
+  - [Au5 - Reiteration (NeilPerry) \[Relapse\]](https://osu.ppy.sh/beatmapsets/487775#taiko/1392244)
+  - [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#taiko/1867667)
+- DoubleTime
+  - [ClariS - Kimi no shiranai monogatari (Sotarks) \[Kalibe's Insane\]](https://osu.ppy.sh/beatmapsets/728405#taiko/1537816)
+  - [Suzaku - Anisakis -somatic mutation type''Forza''- (ouranhshc) \[Black Another\]](https://osu.ppy.sh/beatmapsets/60521#taiko/887532)
+  - [Miyuki Hashimoto - Gensou Roukaku (Tsukuyomi) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/369068#taiko/808996)
+- FreeMod
+  - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/31119#taiko/105143)
+  - [Shiraishi - Shinsekai (Priti) \[Jenny's Extra\]](https://osu.ppy.sh/beatmapsets/131094#osu/330276)
+  - [Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#taiko/412288)
+- Tiebreaker
+  - **[gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#taiko/633993)**
+
+### Semifinals
+
+**[Download the map pack here! (111 MB)](https://fuma.s-ul.eu/H8unXHqn)**
+
+- NoMod
+  - [Kaneko Chiharu - WHITEOUT (Flask) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734944#taiko/1551576)
+  - [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#taiko/1428309)
+  - [siromaru + cranky - conflict (Icekalt) \[Encounter\]](https://osu.ppy.sh/beatmapsets/936126#taiko/1955676)
+  - [Xect. - Emptiness (J1\_) \[#4\]](https://osu.ppy.sh/beatmapsets/791110#taiko/1659770)
+  - [Hanatan - If (\_Yiiiii) \[Yif\]](https://osu.ppy.sh/beatmapsets/754013#taiko/1587522)
+- Hidden
+  - [Muzzy - Photons (JrSzZ) \[Asymmetric\]](https://osu.ppy.sh/beatmapsets/967252#taiko/2024333)
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#taiko/1580728)
+  - [T.M.Generation - X-DEN (Realazy) \[Irohas' Extra feat. Kalibe\]](https://osu.ppy.sh/beatmapsets/961061#taiko/2114786)
+- HardRock
+  - [LiSA - Thrill, Risk, Heartless (Doormat) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/718144#taiko/1525778)
+  - [S.S.H - Intersect Thunderbolt-Remix - Celestia Rindoburumu war (nya10) \[Hathz's Extra\]](https://osu.ppy.sh/beatmapsets/1027928#taiko/2149401)
+  - [bbn - Identic Conflict (Myxo) \[Black Another \[HP0\]\]](https://osu.ppy.sh/beatmaps/2142486)
+- DoubleTime
+  - [Trident - Purest Blue (Hinsvar) \[Yearning\]](https://osu.ppy.sh/beatmapsets/354514#osu/780858)
+  - [Camellia - crystallized (Smoothie World) \[wa's Insane\]](https://osu.ppy.sh/beatmapsets/399151#taiko/965494)
+  - [KurousaP feat. KAITO V3 - Jougen no Tsuki (10nya) \[Touchless\]](https://osu.ppy.sh/beatmapsets/316972#taiko/706230)
+- FreeMod
+  - [Zips - Reiwai Terrorism (Kyshiro) \[Terror\]](https://osu.ppy.sh/beatmapsets/165817#taiko/403276)
+  - [Cranky - The Five (avira0922) \[MAX\]](https://osu.ppy.sh/beatmapsets/31920#osu/104665)
+  - [Katakiri Rekka - Answer (Mirash) \[who\]](https://osu.ppy.sh/beatmapsets/1001944#taiko/2097318)
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Fushoku Ressentiment, Fushi Yoku no Sarugakuza (MrKosiej) \[The Throne Of Immortality\]](https://osu.ppy.sh/beatmapsets/584951#taiko/1237804)**
+
+### Quarterfinals
+
+**[Download the map pack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing)**
+
+- NoMod
+  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz)
+  - [UNDEAD CORPORATION - Seven Colors (Realazy) \[Concerto\]](https://osu.ppy.sh/beatmapsets/537952#taiko/1139787)
+  - [Rain Man Ft. Sirah - Visionary (Consouls DnB Edit) (JrSzZ) \[Na na na na...\]](https://osu.ppy.sh/beatmapsets/863113#taiko/1805438)
+  - [D-Cee - CITRUS MONSTER (Hakurei Yoru) \[1112's Master\]](https://osu.ppy.sh/beatmapsets/537860#taiko/1865292)
+  - [Rise Against - Disparity By Design (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/360325#taiko/792011)
+- Hidden
+  - [Rex - Heart Of Witch (EijiKuinbii) \[PP\]](https://osu.ppy.sh/beatmapsets/694203#taiko/1474431)
+  - [Ranko - In the Black (Mirash) \[raNko\]](https://osu.ppy.sh/beatmapsets/937562#taiko/1958516)
+  - [Thomas Holm - Knep Smerten Vaek (Spork Lover) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/894768#taiko/2098377)
+- HardRock
+  - [SynthWulf - Passacaglia (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/758227#taiko/1594988)
+  - [Co shu Nie - ZETTAI ZETSUMEI (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/918776#taiko/1919057)
+  - [Demetori - Shoujo Satori \~ Innumerable Eyes (A Mystery) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/288656#taiko/843013)
+- DoubleTime
+  - [fripSide - black bullet (Cyndere) \[insane: initiator\]](https://osu.ppy.sh/beatmapsets/905839#taiko/1894827)
+  - [Tatsh feat. Ayane - Yoiyami no Tsuki ni Dakarete (happy30) \[Collab\]](https://osu.ppy.sh/beatmapsets/249555#osu/573734)
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[Icekalt's White Hard\]](https://osu.ppy.sh/beatmapsets/879051#taiko/1840444)
+- FreeMod
+  - [UNDEAD CORPORATION - Embraced by the Flame (English ver) (PoNo) \[Linada's Extra\]](https://osu.ppy.sh/beatmapsets/783213#taiko/1648053)
+  - [chum - Genesis of Aquarion (Lena) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#taiko/60858)
+  - [Suzumu - Sekishinsei: Kamatoto Araryouzi (tutuhaha) \[Extra\]](https://osu.ppy.sh/beatmapsets/152546#osu/375346)
+- Tiebreaker
+  - **[BL-Records - Midway Colors (CXu) \[Urakaze\]](https://osu.ppy.sh/beatmapsets/591534#taiko/1251769)**
 
 ### Round of 16
 
@@ -211,6 +312,85 @@ The osu! Asia Oceania Tournament is run by various community members by distribu
 ---
 
 ## Match Results
+
+### Grand Finals
+
+| Wednesday, 2019-09-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| 과로사 | 5 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54931397) |
+
+| Sunday, 2019-09-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **進撃のバブルティー** | **7** | 4 | 黃建智 | [#1](https://osu.ppy.sh/community/matches/55033460) |
+
+### Finals
+
+| Wednesday, 2019-09-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **黃建智** | **7** | 5 | babote | [#1](https://osu.ppy.sh/community/matches/54600184) |
+
+| Saturday, 2019-09-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **reyuza ganteng** | **7** | 2 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/54674050) |
+
+| Sunday, 2019-09-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| 과로사 | 3 | **7** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54700350) |
+
+| Friday, 2019-09-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| reyuza ganteng | 2 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54810712) |
+
+### Semifinals
+
+| Friday, 2019-08-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **panda is not justice** | **7** | 0 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/54471182) |
+| **Bin Boys** | **7** | 1 | Operation Bathroom | [#1](https://osu.ppy.sh/community/matches/54472737) |
+
+| Saturday, 2019-08-31 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **babote** | **7** | 0 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/54504303) |
+| reyuza ganteng | 5 | **7** | **과로사** | [#1](https://osu.ppy.sh/community/matches/54506770) |
+| **babote** | **7** | 4 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54506789) |
+
+| Sunday, 2019-09-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **The Big Dilfs** | **7** | 3 | 모모니나 | [#1](https://osu.ppy.sh/community/matches/54527046) |
+| 黃建智 | 0 | **7** | **進撃のバブルティー** | -win by default- |
+| **The Big Dilfs** | **7** | 2 | panda is not justice | [#1](https://osu.ppy.sh/community/matches/54533335) |
+
+### Quarterfinals
+
+| Saturday, 2019-08-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Operation Bathroom** | **6** | 0 | okguysweneedaname | -win by default- |
+| **reyuza ganteng** | **6** | 1 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54315815) |
+
+| Sunday, 2019-08-25 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| FYP 228922 | 0 | **6** | **모모니나** | -win by default- |
+| **osu attack on titan** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54344319) |
+| babote | 4 | **6** | **과로사** | [#1](https://osu.ppy.sh/community/matches/54344412) |
+| The Big Dilfs | 3 | **6** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54346837) |
+| **黃建智** | **6** | 4 | panda is not justice | [#1](https://osu.ppy.sh/community/matches/54349758) |
+| any ideas | 0 | **6** | **No Tryhard** | -win by default- |
+
+### Round of 16
+
+| Saturday, 2019-08-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| 모모니나 | 4 | **6** | **Bin Boys** | [#1](https://osu.ppy.sh/community/matches/54138982) |
+| **黃建智** | **6** | 4 | any ideas | [#1](https://osu.ppy.sh/community/matches/54144951) |
+
+| Sunday, 2019-08-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **과로사** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54166136) |
+| okguysweneedaname | 2 | **6** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54166945) |
+| **The Big Dilfs** | **6** | 3 | Operation Bathroom | [#1](https://osu.ppy.sh/community/matches/54167855) |
+| **babote** | **6** | 1 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/54168958) |
+| No Tryhard | 1 | **6** | **panda is not justice** | [#1](https://osu.ppy.sh/community/matches/54168789) |
+| **reyuza ganteng** | **6** | 3 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/54168996) |
 
 ### Group Stage
 
