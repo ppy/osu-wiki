@@ -109,7 +109,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Brazil | ![][flag_BR] | ![][flag_AR] | Argentina | **00:30 UTC** | 21:30 (Sat.) UTC-03 | 21:30 (Sat.) UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_PH] | Philippines | **02:00 UTC** | 23:00 (Sat) UTC-03 | 10:00 UTC+08 |
+| Chile | ![][flag_CL] | ![][flag_PH] | Philippines | **02:00 UTC** | 23:00 (Sat.) UTC-03 | 10:00 UTC+08 |
 | Indonesia | ![][flag_ID] | ![][flag_JP] | Japan | **10:00 UTC** | 17:00 UTC+07 | 19:00 UTC+09 |
 | Poland | ![][flag_PL] | ![][flag_KR] | South Korea | **11:30 UTC** | 13:30 UTC+02 | 20:30 UTC+09 |
 | China | ![][flag_CN] | ![][flag_SG] | Singapore | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
