@@ -16,7 +16,7 @@ If you're curious and want to know more about the Guild and its quest system, pl
 
 There are a lot of completed quests, so here we've picked out the ones involving the most mapsets and mappers. You can find even more Featured Artist content by searching the [beatmap listing](https://osu.ppy.sh/beatmapsets?q=featured%20artist)!
 
-![](https://assets.ppy.sh/artists/23/header.jpg)
+![Cranky header image](https://assets.ppy.sh/artists/23/header.jpg)
 
 For this quest, the mappers had to **create and rank at least 6 mapsets of songs by Cranky. Half of the mapsets had to include difficulties of a game mode different from the other half, and each mapset had to be hosted by a different user**.
 
@@ -29,7 +29,7 @@ The **Cranky Standard, Taiko and Catch Pack** quest was completed by **[Icekalt]
 - [Cranky - EMPEROR](https://osu.ppy.sh/beatmapsets/979438) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [Cranky - JULIAN](https://osu.ppy.sh/beatmapsets/1008310) hosted by [ScubDomino](https://osu.ppy.sh/users/8972308)
 
-![](https://assets.ppy.sh/artists/37/header.jpg)
+![The Flashbulb header image](https://assets.ppy.sh/artists/37/header.jpg)
 
 For this quest, the mappers had to **create and rank at least 6 mapsets of songs by The Flashbulb, each hosted by a different user**.
 
@@ -51,7 +51,7 @@ For this quest, the mappers had to **create and rank at least 6 mapsets of songs
 - [The Flashbulb - Black Lawn Finale](https://osu.ppy.sh/beatmapsets/967099) hosted by [Nofool](https://osu.ppy.sh/users/672430)
 - [The Flashbulb - Ninedump](https://osu.ppy.sh/beatmapsets/984361) hosted by [Arrival](https://osu.ppy.sh/users/1694000)
 
-![](https://assets.ppy.sh/artists/14/header.jpg)
+![Rin / Function Phantom header image](https://assets.ppy.sh/artists/14/header.jpg)
 
 For this quest, the mappers had to **create and rank at least 8 mapsets of Touhou-remix songs by Rin, without a single user hosting more than two mapsets**.
 
@@ -66,7 +66,7 @@ The **Rin Standard Beatmap Pack** quest was completed by **[type 1 if cute](http
 - [Rin - Eientewi set 15 ~ Evening Primrose](https://osu.ppy.sh/beatmapsets/1014593) hosted by [yaspo](https://osu.ppy.sh/users/4945926)
 - [Rin - Kishinjou set 10 ~ Reverse Ideology](https://osu.ppy.sh/beatmapsets/1019506) by [defiance](https://osu.ppy.sh/users/6816873)
 
-![](https://assets.ppy.sh/artists/35/header.jpg)
+![Imperial Circus Dead Decadence header image](https://assets.ppy.sh/artists/35/header.jpg)
 
 For this quest, the mappers had to **create and rank 3 mapsets of songs by Imperial Circus Dead Decadence from their albums "Yomi yori..." and "Fusyoku..." each hosted by a different user**.
 
@@ -85,7 +85,7 @@ The **Standard ICDD: Kuruoshiku Saita Seisan na Mukuro wa Kanade, Itooshiku Sait
 - [Imperial Circus Dead Decadence - Tinu rareta Syuren Ni Fukeru Homura](https://osu.ppy.sh/beatmapsets/964134) by [VINXIS](https://osu.ppy.sh/users/4323406)
 - [Imperial Circus Dead Decadence - Syakunetsu No Rengoku Ni Bara Wa...](https://osu.ppy.sh/beatmapsets/964680) hosted by [Sing](https://osu.ppy.sh/users/3795679)
 
-![](https://assets.ppy.sh/artists/11/header.jpg)
+![Ben Briggs header image](https://assets.ppy.sh/artists/11/header.jpg)
 
 For this quest, the mappers had to **create and rank at least 6 mapsets of songs by Ben Briggs, each hosted by a different user**.
 
@@ -99,7 +99,7 @@ The **Ben Briggs Standard Beatmap Pack** quest was completed by **[Myxo](https:/
 - [Ben Briggs - Selecting Continue](https://osu.ppy.sh/beatmapsets/948868) by [Mao](https://osu.ppy.sh/users/2204515)
 - [Ben Briggs - Why Are We Yelling](https://osu.ppy.sh/beatmapsets/952380) hosted by [Crissa](https://osu.ppy.sh/users/5405836)
 
-![](https://assets.ppy.sh/artists/27/header.jpg)
+![KIRA header image](https://assets.ppy.sh/artists/27/header.jpg)
 
 For this quest, the mappers had to **create and rank 5 mapsets of select vocaloid songs, each hosted by a different user**.
 
@@ -111,7 +111,7 @@ The **Vocaloid Standard Showcase** quest was completed by **[Noffy](https://osu.
 - [KIRA - Magical Night (feat. Hatsune Miku)](http://osu.ppy.sh/beatmapsets/946771) by [Niva](https://osu.ppy.sh/users/197805)
 - [baker - For a Dead Girl+](https://osu.ppy.sh/beatmapsets/955671) hosted by [Noffy](https://osu.ppy.sh/users/1541323)
 
-![](https://assets.ppy.sh/artists/8/header.jpg)
+![sakuraburst header image](https://assets.ppy.sh/artists/8/header.jpg)
 
 For this quest, the mappers had to **create and rank 5 mapsets of neuro/bass songs from a pool of artists, each hosted by a different user**.
 
@@ -123,7 +123,7 @@ The **Neuro Genre Taiko Showcase** quest was completed by **[Nifty](https://osu.
 - [Culprate & Joe Ford - Gaucho](https://osu.ppy.sh/beatmapsets/936234) by [Nifty](https://osu.ppy.sh/users/4956097)
 - [sakuraburst - SELF DESTRUCT](https://osu.ppy.sh/beatmapsets/963193) hosted by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 
-![](https://assets.ppy.sh/artists/34/header.jpg)
+![tieff header image](https://assets.ppy.sh/artists/34/header.jpg)
 
 For this quest, the mappers had to **create and rank at least 4 mapsets of songs by tieff, each hosted by a different user**.
 
