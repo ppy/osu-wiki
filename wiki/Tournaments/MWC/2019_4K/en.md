@@ -51,7 +51,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Statistics sheet](https://bit.ly/2mu43tz)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLJYJ_IZMmXieVdGEdqBciVEwx8kqOeu6pzuTgtiMrNrwUmoZVQP1OKQf3BchgQyS0dh9i90TgbtRz/pubhtml)
 
 ---
 
