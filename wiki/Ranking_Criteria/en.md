@@ -105,7 +105,7 @@ For the record, these include the recent changes made [from the discussion forum
 
 All forms of Artist/Title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised whitespaces for full-width characters.
 
-- **Commas, `vs.`, `&`, `feat.`, `CV:`, etc. must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
+- **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
 - **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying a featured artist in the song.**
 - **When a fictional character is credited as the singer of a song, the artist field is to be formatted in a `Character (CV: Voice Actor)` format.** For live action, credit the voice actor only.
