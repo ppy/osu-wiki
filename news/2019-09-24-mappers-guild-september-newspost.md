@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mappers' Guild Quests Completed
-date: 2019-09-24 00:00:00 +0000
+date: 2019-09-24 17:20:00 +0000
 ---
 
 The Mappers' Guild has been hard at work creating beatmaps for your favourite Featured Artist tracks. If you haven't been following, come check them out!
@@ -15,6 +15,8 @@ The quests are usually artist-specific, but can sometimes be targeted in nature,
 If you're curious and want to know more about the Guild and its quest system, please visit [the official Mappers' Guild website](https://mappersguild.com)!
 
 There are a lot of completed quests, so here we've picked out the ones involving the most mapsets and mappers. You can find even more Featured Artist content by searching the [beatmap listing](https://osu.ppy.sh/beatmapsets?q=featured%20artist)!
+
+---
 
 ![Cranky header image](https://assets.ppy.sh/artists/23/header.jpg)
 
