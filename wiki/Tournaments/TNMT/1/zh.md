@@ -60,6 +60,29 @@
 
 ## 图池
 
+### 决赛第二周
+
+### Finals - Week 2
+
+- FreeMod
+  - [rissyuu feat. choko - Bi \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
+  - [chitose - Lucifer \[4K LabyriNth\]](https://osu.ppy.sh/beatmapsets/736856#mania/1555011)
+  - [Linkin Park - Somewhere I Belong \[Unreal\]](https://osu.ppy.sh/beatmapsets/928232#mania/1938851)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) \[-Mystic's Insane\]](https://osu.ppy.sh/beatmapsets/859797#mania/2076553)
+  - [Daisuke Ohnuma - Flying Slash -Dual Dragoon- \[Yamato\]](https://osu.ppy.sh/beatmapsets/522135#mania/1108916)
+  - [ClariS - Connect \[Speed test\]](https://osu.ppy.sh/beatmapsets/893169#mania/1868266)
+  - [KOTOKO - Wing my Way \[Jack my Way\]](https://osu.ppy.sh/beatmapsets/794615#mania/1669001)
+  - [Betwixt & Between - 12 little fragments of silence \[absolution\]](https://osu.ppy.sh/beatmapsets/905867#mania/2164430)
+  - [Lolipusher - why as soon as we become so close, we have to say goodbye? \[Isolated\]](https://osu.ppy.sh/beatmapsets/934936#mania/1951864)
+  - [Cardboard Box - ++ \[--\]](https://osu.ppy.sh/beatmapsets/894030#mania/1868312)
+  - [Rayark Sound Team - V. \[Pre:Chaos\]](https://osu.ppy.sh/beatmapsets/915832#mania/2062313)
+  - [Aoi vs. r0y - Coldlapse \[-Mystic's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/845859#mania/1774662)
+  - [ARForest - Altros \[Aria For Rest\]](https://osu.ppy.sh/beatmapsets/667277#mania/1411965)
+  - [Toby Fox - Dogsong \[Bark\]](https://osu.ppy.sh/beatmapsets/981274#mania/2053483)
+  - [cybermiso - FFT \[TSV no trill\]](https://osu.ppy.sh/beatmapsets/985254#mania/2175472)
+- Tiebreaker
+  - **[AA... Hisui Chazuke... -- Stardust Prism \[Illumination\]](https://osu.ppy.sh/beatmapsets/755101#mania/1589531)**
+
 ### 决赛第一周
 
 - FreeMod
@@ -156,6 +179,15 @@
 - [Silentroom - NULCTRL \[Stage 4: THE CLUB\]](https://osu.ppy.sh/beatmapsets/1017872#mania/2130237)
 
 ## 比赛结果
+
+### 决赛第一周
+
+| Player | Score | Score | Player |
+| --: | :-: | :-: | :-- |
+| **Davvyforte** | **6** | 5 | palmEuEi |
+| Halo- | -1 | **0** | **Antalf** |
+| Ladylag | -1 | **0** | **NestleiFan** |
+| Antalf | 3 | 6 | **NestleiFan** |
 
 ### 半决赛
 
