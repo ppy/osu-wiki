@@ -2,15 +2,15 @@
 
 ![o!mAC2019 Logo](img/logo.png)
 
-The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K mania tournament intended for all osu!mania players in Asia continental.
+The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K mania tournament intended for all osu!mania players across the Asia Continent.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-08-11/2019-08-31 |
 | Qualifiers | 2019-09-21/2019-09-22 |
-| Live Drawings | TBD |
+| Live Drawings | 2019-09-23 21:00 (UTC+7) |
 | Group Stage | 2019-09-28/2019-10-06 |
 | Round of 16 | 2019-10-12/2019-10-13 |
 | Quarterfinals | 2019-10-19/2019-10-20 |
@@ -20,13 +20,11 @@ The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K m
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu!mania Asian's Champions winners. It is possible that these items change with every installment of the o!mAC.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge (To be confirmed), 1 month supporter tag, userpage banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month supporter tag, userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | userpage banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge (To be confirmed), 1 month of osu!supporter tag, userpage banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag, userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
 
 ## Organisation
 
@@ -64,7 +62,7 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 
 ### Tournament Registration
 
-- You must be in Asia continent countries
+- The flag on your profile must be inside one of Asian continent. For complete list you can visit [following page](https://www.worldometers.info/geography/how-many-countries-in-asia/)
 
 ### Match Instructions
 
@@ -74,7 +72,7 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 - Visual mods such as HD, FL, FI are allowed.
 - After the warmups, each players will have 1 ban of any map.
 - Players will pick maps alternating with each other until one player reach the required amount of points to win the match.
-- Tie-breaker map will be played if both players are at match point.
+- Tiebreaker map will be played if both players are at match point.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
