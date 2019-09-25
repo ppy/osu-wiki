@@ -50,7 +50,7 @@ Some data types specific to osu!.db are defined below.
 | String | Player name |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
-| Int | Unknown Int, always seems to be 4 |
+| Int | User permissions (0 = None, 1 = Normal, 2 = Moderator, 4 = Supporter, 8 = Friend, 16 = peppy, 32 = World Cup staff) |
 
 ### Beatmap Information
 
