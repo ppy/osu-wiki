@@ -22,9 +22,9 @@ The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K m
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge (To be confirmed), 1 month of osu!supporter tag, userpage banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag, userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge (To be confirmed), 4 month of osu!supporter tag, userpage banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 month of osu!supporter tag, userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 month of osu!supporter tag, userpage banner |
 
 ## Organisation
 
@@ -39,16 +39,34 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 | Commentator | ![][flag_VN] [Weabonie](https://osu.ppy.sh/users/8151986), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
 | Referee | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735), ![][flag_ID] [FadillSan](https://osu.ppy.sh/users/7006830), ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596), ![][flag_TW] [Makura](https://osu.ppy.sh/users/10665623), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462) |
 | Statistician | ![][flag_TH] [mashedpotato_old](https://osu.ppy.sh/users/496237) |
+| Recap Editor | ![][flag_KR] [Misuku](https://osu.ppy.sh/users/4799593) |
 | Wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/946117)
+- [Challonge](https://challonge.com/zh_CN/asianschampions2019)
+- [Livestream](https://www.twitch.tv/asianschampions)
 - **Statistics sheet**
   - [Mappool](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs)
   - [Schedule](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU)
 
 ## Mappools
+
+### Group Stage
+
+- Freemod
+  - [Tennyson - No Answer \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
+  - [The Flashbulb - Cycles \[Desire\]](https://osu.ppy.sh/beatmapsets/773386#mania/1625709)
+  - [PSYQUI - Shuushinorei \[goodnight.\]](https://osu.ppy.sh/beatmapsets/992766#mania/2076117)
+  - [Various Artist - ATing's LN Pack \[Renai circulation\]](https://osu.ppy.sh/beatmapsets/911475#mania/1903612)
+  - [Izayoi - Night of Knights \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
+  - [Thaehan - Doki-Doki \[4k Hard\]](https://osu.ppy.sh/beatmapsets/579878#mania/1227947)
+  - [ZUN - Plastic Mind.arr \[Lvl 15\]](https://osu.ppy.sh/beatmapsets/485425#mania/1035232)
+  - [Shawn Wasabi - Pizza Rolls (Metal x EDM Mashup) \[Adtw's WTF\]](https://osu.ppy.sh/beatmapsets/333704#mania/741543)
+  - [brothel. - timmy. \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
+- Tiebreaker
+  - [Team Grimoire - MOTHER FUCXXXXXer \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)
 
 ### Qualifiers
 
@@ -78,6 +96,7 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
 [flag_LV]: /wiki/shared/flag/LV.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
