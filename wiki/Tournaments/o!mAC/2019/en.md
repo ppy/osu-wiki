@@ -55,7 +55,7 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 
 ### Group Stage
 
-- Freemod
+- FreeMod
   - [Tennyson - No Answer \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
   - [The Flashbulb - Cycles \[Desire\]](https://osu.ppy.sh/beatmapsets/773386#mania/1625709)
   - [PSYQUI - Shuushinorei \[goodnight.\]](https://osu.ppy.sh/beatmapsets/992766#mania/2076117)
@@ -66,7 +66,7 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
   - [Shawn Wasabi - Pizza Rolls (Metal x EDM Mashup) \[Adtw's WTF\]](https://osu.ppy.sh/beatmapsets/333704#mania/741543)
   - [brothel. - timmy. \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
 - Tiebreaker
-  - [Team Grimoire - MOTHER FUCXXXXXer \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)
+  - **[Team Grimoire - MOTHER FUCXXXXXer \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)**
 
 ### Qualifiers
 
