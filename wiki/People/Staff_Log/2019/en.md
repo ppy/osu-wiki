@@ -212,6 +212,8 @@ All users listed below were added on 2019-02-16.
 - [Rhytoly](https://osu.ppy.sh/users/8121109) (2019-09-06)
 - [Milan-](https://osu.ppy.sh/users/1052994) (2019-09-10)
 - [Riana](https://osu.ppy.sh/users/1997633) (2019-09-10)
+- [-Aqua](https://osu.ppy.sh/users/7150015) (2019-09-15)
+- [Dergo](https://osu.ppy.sh/users/7439226) (2019-09-23)
 
 ### Beatmap Nominator Removals
 
