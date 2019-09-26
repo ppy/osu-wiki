@@ -143,7 +143,7 @@ tags:
 -   [Options](/wiki/Options)
     -   [Keyboard Bindings](/wiki/Options/Keyboard_Bindings)
     -   [Offset Wizard](/wiki/Options/Offset_Wizard)
--   [Organisations](/wiki/Organisations)
+-   Organisations
     -   [osu! UCI](/wiki/Organisations/osu!_UCI)
 -   [osu! File Formats](/wiki/osu!_File_Formats)
     -   [Db (file format)](/wiki/osu!_File_Formats/Db_(file_format))
