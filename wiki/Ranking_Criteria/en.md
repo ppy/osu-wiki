@@ -209,7 +209,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
-- **Every `.wav` file must be at least 100ms long to prevent issues with soundcards.**
+- **Every hit sound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
 - **Completely silent hit sounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
 - **Storyboarded hit sounds cannot be used as replacements for active hit sounds.** These give an inaccurate form of player feedback. Storyboarded hit sounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
