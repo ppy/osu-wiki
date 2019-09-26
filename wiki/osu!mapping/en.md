@@ -15,7 +15,7 @@ tags:
 
 **osu!mapping** is a weekly video series created by ![](/wiki/shared/flag/US.gif) **[pishifat](https://osu.ppy.sh/users/3178418)** about the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem. It is hosted on [pishifat's personal YouTube channel](https://www.youtube.com/user/Pishifat), and most people know it as just "pishifat videos" or "pishi videos".
 
-The series has become so well-known in the osu! community that it's a commonly recommended resource to newer mappers. The [osu! team](/wiki/People/The_Team) awarded pishifat the [Community Contributor](/wiki/People/Community_Contributors) badge for "exemplary performance in beatmap construction and education" as thanks for his effort put into this project.
+The series has become so well-known in the osu! community that it is a commonly recommended resource to newer mappers. The [osu! team](/wiki/People/The_Team) awarded pishifat the [Community Contributor](/wiki/People/Community_Contributors) badge for "exemplary performance in beatmap construction and education" as thanks for his effort put into this project.
 
 osu!mapping's regularly scheduled uploads ended in January 2019, but there are still plans to add to the series later.
 
@@ -27,9 +27,9 @@ osu!mapping's regularly scheduled uploads ended in January 2019, but there are s
 
 ## History
 
-osu!mapping began as a response to [a reddit post](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) asking mappers to create mapping commentary videos. On 2016-07-31, pishifat uploaded the first video: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). In the video, he explains how he was going to create the commentary like the redditor suggested, but ultimately decided against it because a straight thought-process commentary of mapping wouldn't do a good job of introducing new mappers to the wide variety of mapping concepts. Instead, he chose to start a video series where each episode would focus on a specific concept, digging into their usages and importance separately.
+osu!mapping began as a response to [a reddit post](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) asking mappers to create mapping commentary videos. On 2016-07-31, pishifat uploaded the first video: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). In the video, he explains how he was going to create the commentary like the redditor suggested, but ultimately decided against it because a straight thought-process commentary of mapping would not do a good job of introducing new mappers to the wide variety of mapping concepts. Instead, he chose to start a video series where each episode would focus on a specific concept, digging into their usages and importance separately.
 
-<!-- TODO: this isn't really concrete history -->
+<!-- TODO: this is not really concrete history -->
 The series focused on this tutorial-style content at first, but started branching out a few months in to include discussions about the state of mapping and modding, personal/opinionated commentaries, and interviews. There have also been some research projects presented in the form of osu!mapping videos, most notably [a study of mappers' influences](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
 ## Episodes
