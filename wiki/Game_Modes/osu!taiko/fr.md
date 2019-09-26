@@ -1,5 +1,4 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "plus d'informations peuvent être trouvées dans la section Style de jeux en dessous de la section osu!taiko"
 [Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "plus d'informations peuvent être trouvées dans la section Score en dessous de la section osu!taiko Valeur de Score"
 [Options#Keyboard wikilink]: /wiki/Options/ "plus d'informations peuvent être trouvées dans les options en dessous de la section Clavier"
@@ -32,9 +31,6 @@
 <!-- Title -->
 # osu!taiko
 
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!taiko using deprecated ScoreV1 system](./v1 "osu!taiko v1")** -->
-
 ![Gameplay d'osu!taiko][osu!taiko Interface image]
 
 osu!taiko est un mode de jeu dans osu! qui reprend _quelques_ éléments du jeux de rythme japonais, [Taiko no Tatsujin][Taiko no Tatsujin wikipedia] (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master "Taiko: Drum Master wikipedia page") en Amérique du Nord).
@@ -59,7 +55,7 @@ Pour les joueurs expérimentés de _Taiko no Tatsujin_:-
 
 - Pas de danseur en mode chibi en bas de l'écran (Ils doivent être dans un storyboard)
 - La barre de vie doit être au moins à 50% pour réussir une chanson (Ce qui n’est pas très clair quand on joue avec le skin par défaut; regardez dans le [Recueil de Skin][Skin Compendium link] pour un skin décent d’osu!taiko)
-- _Kiai Time_ triggers the _"Go-Go Time"_
+- _Kiai Time_ déclenche le _"Go-Go Time"_
   - Les gimmicks du gameplay comment les hit balloons ou les chemins fourches ne sont pas implémentés (seulement les base de l’infrastructure)
 - La disposition du fond d’écran est différent
   - Les beatmap osu!taiko spécifiques ont généralement leur propre arrière-plan customisé, laissant la section haute vide
