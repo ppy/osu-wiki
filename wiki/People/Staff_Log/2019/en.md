@@ -206,6 +206,7 @@ All users listed below were added on 2019-02-16.
 - Removed [Fly a Kite](https://osu.ppy.sh/users/7137649) from Developers (2019-09-11)
 - Removed [Marcin](https://osu.ppy.sh/users/722665) from Developers (2019-09-11)
 - Removed [BanchoBot](https://osu.ppy.sh/users/3) from Developers (2019-09-11)
+- Moved [Marcin](https://osu.ppy.sh/users/722665) to the osu! Alumni (2019-09-26)
 
 ### Beatmap Nominator Additions
 
@@ -221,4 +222,4 @@ All users listed below were added on 2019-02-16.
 - [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (2019-09-10)
 - [bite you death](https://osu.ppy.sh/users/6398464) - insufficient proficiency (2019-09-10)
 
-<!-- last update: 2019-09-26 chickenbible -->
+<!-- last update: 2019-09-26 Marcin -->

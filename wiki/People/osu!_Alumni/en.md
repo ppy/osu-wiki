@@ -132,6 +132,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
+| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu! dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |

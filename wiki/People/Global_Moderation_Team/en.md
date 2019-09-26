@@ -41,7 +41,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat moderation |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap moderation |
-| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | <!-- not sure --> | Tournaments, osu! development |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | <!-- not sure --> | osu! development |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat moderation |
