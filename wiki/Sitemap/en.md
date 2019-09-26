@@ -348,7 +348,6 @@ tags:
         -   [2019](/wiki/Tournaments/otst!/2019)
     -   [oTTMT](/wiki/Tournaments/oTTMT)
         -   [1](/wiki/Tournaments/oTTMT/1)
-    -   [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/osu!_Tag_Team_Multiplayer_Tournament)
     -   [OWC](/wiki/Tournaments/OWC)
         -   [1](/wiki/Tournaments/OWC/1)
         -   [2](/wiki/Tournaments/OWC/2)
