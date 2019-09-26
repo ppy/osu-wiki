@@ -2,12 +2,7 @@
 
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-<!--
-Uncomment and replace after the main wiki page gets implemented, link isn't official:
-Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
--->
-
-Home of the [osu!](https://osu.ppy.sh/home) wiki.
+Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki/Main_Page).
 
 ## Contributing
 
