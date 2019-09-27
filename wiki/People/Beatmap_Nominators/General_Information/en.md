@@ -15,11 +15,15 @@ Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators), or interested in
 
 Nominations and resetting nominations are the evidence of a Beatmap Nominator's efforts when checking maps, indicating a map's progress through the ranking proccess. As a Beatmap Nominator you have access to these tools and must use them wisely.
 
-### Nominate ![nominate button](/wiki/shared/icon/nominate.png)
+### Nominate
+
+![nominate button](img/nominate.png)
 
 **This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 Hype and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmapset was previously vetoed you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be Qualified and enter the ranking queue.
 
-### Disqualify ![disqualify button](/wiki/shared/icon/disqualify.png) or reset nomination ![reset nominations button](/wiki/shared/icon/reset.png)
+### Disqualify or reset nomination 
+
+![disqualify button](img/nominate.png) ![reset nominations button](img/reset.png)
 
 **This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full Beatmap Nominator. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
