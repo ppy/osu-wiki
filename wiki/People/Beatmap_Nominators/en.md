@@ -1,6 +1,6 @@
 # Beatmap Nominators
 
-*See also: [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) and [General Information for Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information)*
+*See also: [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules), [General Information for Beatmap Nominators](/wiki/People/Beatmap_Nominators/General_Information), and [Becoming a Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
 The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Submission/Beatmap_Ranking_Procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums and in beatmap discussions.
 
@@ -23,63 +23,6 @@ Probation is used to monitor new or concerning Beatmap Nominators more closely. 
 New members of the Beatmap Nominators begin with a one month long probation period. If their nominations and behavior are satisfactory, they will be promoted to the full Beatmap Nominators. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
 
 When a Beatmap Nominator is placed on probation, they cannot be placed on probation again for the same reason. For example, if a Beatmap Nominator is placed on probation for poor behavior, they will be removed from the Beatmap Nominators if they exhibit the same poor behavior again, even if they are a full Beatmap Nominator during the second infringement.
-
-## Becoming a Beatmap Nominator
-
-With the change to the team in May 2019, joining the Beatmap Nominators became a lot easier than it used to be in the past. Applications to join can be submitted on [this website](http://bn.mappersguild.com/bnapps).
-
-Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90 day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
-
-### Basic criteria
-
-Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
-- They have been modding beatmaps actively for at least 3 months prior to the announcement.
-- They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
-- They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
-
-### What qualifies as a mod post
-
-- Upon signing up the website will automatically calculate your kudosu score from the last 3 months.
-- A mod post qualifies as one if it has received a Kudosu and has been created within the 3 months.
-- Since November 2017, beatmaps affected under Modding V2 had a reward system implemented based on upvotes/downvotes. The "mod post" equivalent in this case is a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote.
-- The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
-- The point in time at which the Kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
-
-### Modding expectations
-
-Submitted mods should show that a user is capable of analyzing and improving maps to a standard fit for the Beatmap Nominators.
-
-The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
-
-- Coverage of all difficulty levels
-- Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata
-- Comparison between parts of a map to support issues or suggestions
-- Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency
-- Identification of both isolated issues and general map-wide issues
-
-### How the required minimum score is calculated
-
-- This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
-
-![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
-
-- m = Minimum expected number of individual beatmaps modded in a month
-- M = Total achieved number of individual beatmaps modded in a month
-
-- [This online tool](http://modscore.little.moe/) can be used to calculate mod score.
-- In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
-- The overall minimum threshold is set to the following values:
-  - osu!taiko, osu!catch and osu!mania: m = 3 and a total of 150 kudosu or more
-  - osu!: m = 4 and a total of 200 kudosu or more
-- It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
-
-### How new potential Beatmap Nominators are chosen
-
-- The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
-- Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
-  - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
-  - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
-- After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
 ## Team members
 
@@ -108,6 +51,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French |
 | ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715) | Spanish |
+| ![][flag_AU] [greenhue](https://osu.ppy.sh/users/4967662) |  |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) |  |
@@ -123,6 +67,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_FR] [NEVlR](https://osu.ppy.sh/users/8339126) | French |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italian |
@@ -132,10 +77,12 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | French |
 | ![][flag_NZ] [Rizen](https://osu.ppy.sh/users/3056732) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |  |
+| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portuguese |
@@ -168,6 +115,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_US] [Absolute Zero](https://osu.ppy.sh/users/4847256) |  |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norwegian |
+| ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |  |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
@@ -199,14 +147,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AU] [greenhue](https://osu.ppy.sh/users/4967662) |  |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) |  |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
 | ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | Estonian, Russian |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
-| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 
 #### osu!taiko
 
@@ -219,13 +164,13 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226) |  |
 | ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
