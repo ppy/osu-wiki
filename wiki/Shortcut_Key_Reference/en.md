@@ -168,7 +168,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Right Arrow`: Jump to next bookmark
 - `Ctrl` + `L`: Revert to saved (partial). Reloads .osu and .osb files.
 - `Ctrl` + `Shift` + `L`: Revert to saved (full). Reloads other files like hitsounds and skin elements in addition to the .osu and .osb.
-- `Ctrl` + `Shift` + `O`: Opens Difficulty Selection window.
+- `Ctrl` + `O`: Opens Difficulty Selection window.
 - `Ctrl` + `S`: Quick save
 - `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
 - `Ctrl` + `Down Arrow`: Lower playback speed by 25%
@@ -194,7 +194,8 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `V`: Paste selection
 - `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
 - `Delete`: Remove selected notes
-- `1`, `2`, `3`, or `4`: Switch between placement/selection mode (Select, Circle, Slider, Spinner)
+- `1`, `2`, `3`, or `4`: Switch between placement/selection mode: Select, Circle, Slider, and Spinner respectively when editing osu!standard, osu!taiko, or osu!catch beatmaps.
+- `1`, `2`, or `3`: Switch between placement/selection mode: Select, Circle, and Hold respectively when editing osu!mania beatmaps.
 - `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
 - `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
 - `Ctrl` + `Shift` + `A` : Open [AiMod](/wiki/Beatmap_Editor/AiMod)
@@ -209,9 +210,10 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `2`: Use small grid size
 - `Ctrl` + `3`: Use medium grid size
 - `Ctrl` + `4`: Use large grid size
-- `L`: Lock all notes.
+- `L`: Toggle lock all notes.
 
 #### Object Manipulation
+
 - `Q`: Toggle New Combo
 - `Ctrl` + `,`: Rotate 90 degrees anticlockwise
 - `Ctrl` + `.`: Rotate 90 degrees clockwise
@@ -222,18 +224,15 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Shift` + `S`: Scale selected note(s) by a specified amount (opens a dialog)
 - `Ctrl` + `Shift` + `D`: Generate polygons with a specificied number of points (opens a dialog)
 - `Ctrl` + `Shift` + `F`: Convert slider to stream (opens a dialog)
-- `Ctrl` + `Left Arrow`: Move selected notes left by 1 grid snap
-- `Ctrl` + `Right Arrow`: Move selected notes right by 1 grid snap
+- `Ctrl` + `Left Arrow`: Move selected notes left
+- `Ctrl` + `Right Arrow`: Move selected notes right
 - `Ctrl` + `Left Arrow`, `Right Arrow` (in mania edit mode): Move selected objects left or right one column
-- `Ctrl` + `Up Arrow`: Move selected notes up by 1 grid snap
-- `Ctrl` + `Down Arrow`: Move selected notes down by 1 grid snap
+- `Ctrl` + `Up Arrow`: Move selected notes up
+- `Ctrl` + `Down Arrow`: Move selected notes down
 - `Ctrl` + `Up Arrow`, `Down Arrow` (in mania edit mode): Move selected objects up or down one tick in time
-- `Shift` + `Ctrl` + `Left Arrow`: Move selected notes left by 1 coordinate
-- `Shift` + `Ctrl` + `Up Arrow`: Move selected notes up by 1 coordinate
-- `Shift` + `Ctrl` + `Down Arrow`: Move selected notes down by 1 coordinate
-- `Shift` + `Ctrl` + `Right Arrow`: Move selected notes right by 1 coordinate
 
 #### Hitsounding
+
 - `W`: Add Whistle addition to selected object(s)
 - `E`: Add Finish addition to selected object(s)
 - `R`: Add Clap addition to selected object(s)
@@ -243,7 +242,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively (1, 2, and 3 do not work in osu!mania edit mode)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively.
 - `Shift` while placing (timeline): Ignore grid and beat (time) snapping
 - `J`: Nudge circle backwards in time
 - `K`: Nudge circle forwards in time
@@ -259,18 +258,15 @@ These shortcuts work anywhere within the beatmap editor:
 - `Delete`: Delete selected layer
 - `W`, `A`, `S`, `D`: Move selected layer up, left, down, or right one osu!pixel
 
-
 ### Timing
 
 - `T`: Tap the [BPM](/wiki/BPM)/offset
   - You will need to tap at a constant rate.
 - `Shift` while adjusting BPM/offset: 4x speed
 - `Ctrl` + `B`: Reset current timing point
-- `Ctrl` + `P`: Add uninherited timing point at current time.
-- `Ctrl` + `Shift` + `P`: Add inherited timing point at current time (Opens Timing Setup window)
+- `Ctrl` + `P`: Add uninherited timing point at current time (unless on timing tab, opens the Timing Setup window)
+- `Ctrl` + `Shift` + `P`: Add inherited timing point at current time (opens Timing Setup window)
 - `Ctrl` + `I`: Delete current timing section. Will not work on first uninherited timing point
-
-
 
 ### Mouse Controls
 
