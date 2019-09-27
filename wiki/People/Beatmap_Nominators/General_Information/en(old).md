@@ -1,8 +1,7 @@
-<!-- TODO: Move forum icon information to a history page -->
-
 ---
 outdated: true
 ---
+<!-- TODO: Move forum icon information to a history page -->
 
 # General Information
 
