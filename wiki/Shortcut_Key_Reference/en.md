@@ -194,7 +194,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `V`: Paste selection
 - `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
 - `Delete`: Remove selected notes
-- `1`, `2`, `3`, or `4`: Switch between placement/selection mode: Select, Circle, Slider, and Spinner respectively in when editing osu!standard, osu!taiko, or osu!catch beatmaps.
+- `1`, `2`, `3`, or `4`: Switch between placement/selection mode: Select, Circle, Slider, and Spinner respectively when editing osu!standard, osu!taiko, or osu!catch beatmaps.
 - `1`, `2`, or `3`: Switch between placement/selection mode: Select, Circle, and Hold respectively when editing osu!mania beatmaps.
 - `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
 - `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
@@ -264,8 +264,8 @@ These shortcuts work anywhere within the beatmap editor:
   - You will need to tap at a constant rate.
 - `Shift` while adjusting BPM/offset: 4x speed
 - `Ctrl` + `B`: Reset current timing point
-- `Ctrl` + `P`: Add uninherited timing point at current time (Unless on timing tab, opens the Timing Setup window)
-- `Ctrl` + `Shift` + `P`: Add inherited timing point at current time (Opens Timing Setup window)
+- `Ctrl` + `P`: Add uninherited timing point at current time (unless on timing tab, opens the Timing Setup window)
+- `Ctrl` + `Shift` + `P`: Add inherited timing point at current time (opens Timing Setup window)
 - `Ctrl` + `I`: Delete current timing section. Will not work on first uninherited timing point
 
 ### Mouse Controls
