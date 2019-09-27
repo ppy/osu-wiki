@@ -36,8 +36,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
 
-`m` = Minimum expected number of individual beatmaps modded in a month
-
+`m` = Minimum expected number of individual beatmaps modded in a month  
 `M` = Total achieved number of individual beatmaps modded in a month
 
 - [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating mod score on its main page.
