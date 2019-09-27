@@ -1,27 +1,26 @@
-# General Information
+# General Information for Beatmap Nominators
 
-Are you a Beatmap Nominator, or are interested in becoming one? Then you have come to the right place! This article is all the general information you will need to know as a new Beatmap Nominator. To start, this article will start with a few useful links and then introduce you to the way icons are used, as well as how this transitions into [Beatmap Discussions](/wiki/Beatmap_Discussions) (also known as Modding v2 or Modding Discussions).
+Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators), or interested in becoming one? If so, you have come to the right place! This article has all of the general information you will need to know as a new Beatmap Nominator.
 
-## Important Links
+## Important links
 
-- [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules) - which outlines both how to undertake various actions such as iconing maps, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) if you are unsure about something, and we will be happy to help.
+- [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) if you are unsure about something, and we will be happy to help.
+- [Code of Conduct for Mapping and Modding](/wiki/Ranking_Criteria/Code_of_Conduct): As a Beatmap Nominator, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
+- [Ranking Criteria](/wiki/Ranking_Criteria): If you are already a Beatmap Nominator, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. 
+- [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428): If you see a Qualified map breaking one of the rules, or feel that it could still use substantial improvement for whatever reason, feel free to report it here by linking the map and giving a brief outline of the problems you see.
+- For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): A tool built by NAT member [Naxess](https://osu.ppy.sh/users/8129817). This tool checks for a wide range of unrankable issues, as well as features a snapshot feature to easily compare versions of maps which is beneficial when rechecking. **This should not replace checking a beatmap yourself**, but instead be used as a tool to help double-check nothing slipped by.
 
-- [Code of Conduct for Mapping and Modding](/wiki/CoC) - As a Beatmap Nominator, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
-
-- [Ranking Criteria](/wiki/Ranking_Criteria) - If you are already a Beatmap Nominator, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. If you see a Qualified map breaking one of the rules, or feel that it could still use substantial improvement for whatever reason, feel free to report it in [this thread](https://osu.ppy.sh/community/forums/topics/447428), giving a brief outline of the problems you see.
-
-- For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [_beatmap veto_](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
-
-- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) - A tool built by NAT member [Naxess](https://osu.ppy.sh/users/8129817). This tool checks for a wide range of unrankable issues, as well as features a snapshot feature to easily compare versions of maps which is beneficial when rechecking. **This should not replace checking a beatmap yourself**, but instead be used as a tool to help double-check nothing slipped by.
-
-## Beatmap Nominator Abilities
+## Beatmap Nominator abilities
 
 Nominations and resetting nominations are the evidence of a Beatmap Nominator's efforts when checking maps, indicating a map's progress through the ranking proccess. As a Beatmap Nominator you have access to these tools and must use them wisely.
 
-### Nominate
+### Nominate ![nominate button](/wiki/shared/icon/nominate.png)
+
 **This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 Hype and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmapset was previously vetoed you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be Qualified and enter the ranking queue.
 
-### Reset Nomination / Disqualify
+### Disqualify ![disqualify button](/wiki/shared/icon/disqualify.png) or reset nomination ![reset nominations button](/wiki/shared/icon/reset.png)
+
 **This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full Beatmap Nominator. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
 Steps on Disqualifying a Beatmapset:
@@ -32,11 +31,11 @@ Steps on Disqualifying a Beatmapset:
 
 As an extension of this ability, you can also [veto a beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto/), preventing a beatmap from being renominated until you give permission or the veto is dismissed by veto mediation. However, placing a veto also requires that you discuss the issue with the mapper properly and try to reach a consensus. Discussing the issue with the original Nominator would be beneficial and might grant you a new perspective on the matter, but you're not obligated to do so.
 
-## Additional Beatmap Nominator Functions
+## Additional Beatmap Nominator functions
 
 In addition to being able to nominate beatmaps or reset their nominations, Beatmap Nominators have other functions as well.
 
-### Veto Mediation
+### Veto mediation
 
 When a veto mediation is initiated, a randomly selected jury of Beatmap Nominators will be selected. If you are one of the selected members for a veto mediation, the NAT will send you a message with additional information on how to vote using the [BN Website](http://bn.mappersguild.com). If you are unable to participate, inform a NAT member so that a different Beatmap Nominator can be chosen for the jury in your place.
 
@@ -45,5 +44,3 @@ When a veto mediation is initiated, a randomly selected jury of Beatmap Nominato
 The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who actively work on checking qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428) thread. Full Beatmap Nominators may join at any time. 
 
 The Quality Assurance Helpers' Trello board can be viewed [here](https://trello.com/b/iEsda45d/quality-assurance-helpers).
-
-<!-- TODO: Add more information to help new Beatmap Nominators get used to the role -->

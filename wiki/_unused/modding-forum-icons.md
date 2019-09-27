@@ -1,24 +1,3 @@
----
-outdated: true
----
-<!-- TODO: Move forum icon information to a history page -->
-
-# General Information
-
-Are you a Beatmap Nominator, or are interested in becoming one? Then you have come to the right place! This article is all the general information you will need to know as a new Beatmap Nominator. To start, this article will start with a few useful links and then introduce you to the way icons are used, as well as how this transitions into [Beatmap Discussions](/wiki/Beatmap_Discussions) (also known as Modding v2).
-
-## Useful Information
-
-First off, take note of the [Beatmap Nominator Rules](/wiki/Beatmap_Nominator_Rules), which outlines both how to undertake various actions such as iconing maps, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) if you are unsure about something, and we will be happy to help.
-
-Next, there's the [Code of Conduct for Mapping and Modding](/wiki/CoC). As a Beatmap Nominator, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled. This also includes parts of the ranking process as well - do not go around nominating maps in which the mapper has ignored mods, for example.
-
-Moreover, as a Beatmap Nominator, you have the opportunity to join a Nominator Subdivision. These provide an opportunity to collaborate in small groups, discuss potential problems with your peers, or gain a fresh perspective. Joining a Subdivision is highly recommended for new Beatmap Nominators to ensure you can always ask for help and guidance when necessary. You can find more information on how these work in this document.
-
-Lastly, the information you will probably be referencing the most, the Ranking Criteria. If you are already a Beatmap Nominator, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. If you see a Qualified map breaking one of the rules, or feel that it could still use substantial improvement for whatever reason, feel free to report it in this thread, giving a brief outline of the problems you see.
-
-For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [_beatmap veto_](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
-
 ## Beatmap Nominator Icons
 
 Icons are the evidence of a Beatmap Nominator's efforts when checking maps, and though there are many on offer to you, these are the relevant ones to take note of:

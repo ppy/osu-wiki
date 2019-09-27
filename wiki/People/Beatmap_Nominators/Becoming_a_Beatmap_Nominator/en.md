@@ -1,23 +1,22 @@
 # Becoming a Beatmap Nominator
 
-With the change to the team in May 2019, joining the [Beatmap Nominators](wiki/People/Beatmap_Nominators) became a lot easier than it used to be in the past. Applications to join can be submitted on [this website](http://bn.mappersguild.com/bnapps).
+Users interested in joining the [Beatmap Nominators](wiki/People/Beatmap_Nominators) need to go through an application process overseen by the [NAT](/wiki/People/Nomination_Assessment_Team). Applications are conducted via the [NAT website](http://bn.mappersguild.com/).
 
-Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90 day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
+Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90-day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
 ### Basic criteria
 
-Modders that aim to apply to the Beatmap Nominators must fulfil the following criteria:
+Modders aiming to apply to the Beatmap Nominators must fulfill the following criteria:
 - They have been modding beatmaps actively for at least 3 months prior to the announcement.
-- They have accumulated at least 150 or 200 [Kudosu](/wiki/Glossary/#kudosu) in total, depending on the mode they apply to.
+- They have accumulated at least 150 or 200 [kudosu](/wiki/Glossary#kudosu!) in total, depending on the mode they will apply to.
 - They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What qualifies as a mod post
 
-- Upon signing up the website will automatically calculate your kudosu score from the last 3 months.
-- A mod post qualifies as one if it has received a Kudosu and has been created within the 3 months.
-- Since November 2017, beatmaps affected under Modding V2 had a reward system implemented based on upvotes/downvotes. The "mod post" equivalent in this case is a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote.
-- The gamemode (osu!, osu!mania, osu!catch, osu!taiko) that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
-- The point in time at which the Kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
+- Upon signing up, the website will automatically calculate your kudosu score from the last 3 months.
+- A qualified mod post is a user's posts on a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote, and has been created within the 3 months.
+- The game mode that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
+- The point in time at which the kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
 
 ### Modding expectations
 
@@ -37,8 +36,9 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
 
-- m = Minimum expected number of individual beatmaps modded in a month
-- M = Total achieved number of individual beatmaps modded in a month
+`m` = Minimum expected number of individual beatmaps modded in a month
+
+`M` = Total achieved number of individual beatmaps modded in a month
 
 - [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating mod score on its main page.
 - In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
