@@ -1,6 +1,6 @@
 # osu!mania
 
-**osu! mania Ranking Criteria** 는 osu!mania의 특정한 난이도를 만드는 데 적용되는 규칙인 Rule과 Guideline(가이드라인)입니다.
+**osu! mania Ranking Criteria** 는 osu!mania의 특정한 난이도를 만드는 데 적용되는 Rule(규칙)과 Guideline(가이드라인)입니다.
 osu!mania 특유의 난이도를 랭크시키기 위해서는, 나열된 정해진 기준에 따라야 합니다. 어떤 상황에서든지 **모든 Rule에는 따라야 하지만,** 예외적인 상황에서 Guideline은 무시될 수 있습니다. 이러한 예외적인 상황에서, 맵 제작자는 왜 Guideline이 무시하는것이 맵에 더 좋은 영향을 주는지 자세히 설명하여야 합니다.
 
 Rule의 제안과 의견은 Ranking Criteria의 하위 포럼[Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87)에서 이뤄집니다. 논의와 해당 단체의 승인 과정을 거친 모든 Rule은 합의된 대로 여기에 열거되어 있습니다.
@@ -186,7 +186,7 @@ If Hard is the *비트맵 세트에서 가장 낮은 난이도인 경우*, 다�
 
 *4 key Insane* 난이도의 추가 guidelines : 
 - **1/8 stream 중간에 chord를 사용하지 마십시오.** 이러한 패턴의 밀도는 이 기술 수준의 플레이더들에게 너무 어려운 경우가 많으며, 특히 비트맵 세트의 가장 낮은 난이도에 사용될 경우 더욱 그러합니다. 또한, Chord를 효과적으로 배치하지 않으면 1/4 박자를 사용하는 minijack의 사용량이 일관되지 않을 수 있습니다. stream의 시작이나 끝에는 chord를 사용하는 것은 괜찮습니다.
-- **2개 이상의 박자가 손으로 이어지는 split-jumptrill을 사용하지 마십시오.** 비트맵이 jack이나 다른 복잡한 패턴을 자주 사용하지 않는 한, 이 패턴은 맞추기가 어렵습니다. hand패턴이 필요한 경우 minijack 을 만들지 않도록 노트를 삭제하십시오.
+- **2개 이상의 박자가 손으로 이어지는 split-jumptrill을 사용하지 마십시오.** 비트맵이 jack이나 다른 복잡한 패턴을 자주 사용하지 않는 한, 이 패턴은 맞추기가 어렵습니다. hand 패턴이 필요한 경우 minijack 을 만들지 않도록 노트를 삭제하십시오.
 - **9개 이상의 노트를 split-jumptrill에 넣지 마십시오..** 이것들은 비슷한 밀도의 다른 패턴들보다 신체적으로 더 피곤합니다.
 
 *7 key Insane* 난이도의 추가 guidelines : 
