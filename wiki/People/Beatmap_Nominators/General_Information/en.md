@@ -23,7 +23,7 @@ Nominations and resetting nominations are the evidence of a Beatmap Nominator's 
 
 ### Disqualify or reset nomination 
 
-![disqualify button](img/nominate.png) ![reset nominations button](img/reset.png)
+![disqualify and reset buttons](img/reset_dq.png)
 
 **This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full Beatmap Nominator. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
