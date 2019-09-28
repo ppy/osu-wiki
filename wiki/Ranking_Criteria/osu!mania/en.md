@@ -28,6 +28,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 ### Patterns
 
 - **Anchor**: A pattern that has a relatively high amount of notes in one column compared with another column, usually found within different types of streams.
+- **Bracket**: A pattern that involves multiple trills using columns near each other.
 - **Chord**: Two or more notes pressed at the same time.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams that mix different types of chords. 
 - **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
