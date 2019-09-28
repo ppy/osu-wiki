@@ -2,9 +2,11 @@
 outdated: true
 ---
 
+# Optionen
+
 <img src="DEoptionen.png" title="Optionsmenü (die Leiste zur Linken)" alt="Optionsmenü (die Leiste zur Linken)" width="600" />
 
-# Optionen
+## Optionen
 
 Starte osu! neu, falls etwas nicht wie beabsichtigt funktionieren sollte (Hintergrund-Dimmer ist meist der Auslöser). Klicke auf **Options** oder drücke **o** im Hauptmenü, um das Optionsmenü aufzurufen und um das Verhalten von osu! einzustellen.
 
@@ -14,13 +16,13 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 
 **Anmerkung2:** b(Jahr)(Monat)(Tag)cuttingedge = Test Build.
 
-## Allgemein
+### Allgemein
 
 <img src="DE-Log_in.jpg" title="Einloggen" alt="Einloggen" width="300" />
 
-### Einloggen
+#### Einloggen
 
-#### Gast
+##### Gast
 
 | Name                   | Effekt                                                                                        |
 |------------------------|-----------------------------------------------------------------------------------------------|
@@ -30,7 +32,10 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 | Passwort speichern     | Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen. |
 
 Klicke auf **Einloggen**, um sich anzumelden oder klicke auf **Account erstellen**, falls Sie noch über keinen Account verfügen. Sobald Sie sich erfolgreich eingeloggt haben, wird es sich, wie unten angezeigt, ändern.
-====Benutzername==== <img src="DEallgemein.png" title="fig:Eingeloggt" alt="Eingeloggt" width="300" /> <img src="DE-user functions.jpg" title="fig:" width="300" /> Als {Benutzername} anmeldet
+
+##### Benutzername
+
+<img src="DEallgemein.png" title="fig:Eingeloggt" alt="Eingeloggt" width="300" /> <img src="DE-user functions.jpg" title="fig:" width="300" /> Als {Benutzername} anmeldet
 
 Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
@@ -41,7 +46,9 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 | 3. Avatar ändern  | Ändern Sie Ihren Profilbild.                        |
 | 4. Schließen      | Schließen.                                          |
 
-===Sprache=== <img src="DE-Language.jpg" title="fig:Sprache" alt="Sprache" width="300" />
+#### Sprache
+
+<img src="DE-Language.jpg" title="fig:Sprache" alt="Sprache" width="300" />
 
 | Name                           | Effekt                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +56,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 | Metadaten in Originalsprache   | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt.Beispiel: Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist Beatmap aus dem Beispiel. |
 | Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten.                                                                                                                                                                                                                                                           |
 
-### Updates
+#### Updates
 
 <img src="DE-Updates.jpg" title="Updates" alt="Updates" width="300" />
 
@@ -58,9 +65,9 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 | UpdatequelleUpdatequelle | Stable: Public build.Cutting Edge: osu!test build (Multi nur als Supporter zugänglich).Anmerkung: Online Verbindung ist notwendig, um zwischen diesen zu wechseln. |
 | osu!-Ordner öffnen       | osu!-Ordner öffnen.                                                                                                                                                |
 
-## Grafik
+### Grafik
 
-### Renderer
+#### Renderer
 
 `Neustart erforderlich.`
 
@@ -77,11 +84,11 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 -   **FPS-Zähler**: Zeigt einen unaufdringlichen Frame-Pro-Sekunde Zähler am unteren, rechten Rand des Bildschirmes.
 
-### Bildschirmauflösung
+#### Bildschirmauflösung
 
 <img src="DE-Screen_Resolution.jpg" title="Bildschirmauflösung" alt="Bildschirmauflösung" width="300" />
 
-#### Auflösung wählen:
+##### Auflösung wählen:
 
 | Eigenschaften | Auflösung im Fenstermodus                                  | Auflösung im Vollbildmodus                     |
 |---------------|------------------------------------------------------------|------------------------------------------------|
@@ -90,7 +97,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 -   **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
 
-### Grafikeinstellungen
+#### Grafikeinstellungen
 
 <img src="DE-graphicsettings.jpg" title="Grafikeinstellungen" alt="Grafikeinstellungen" width="300" />
 
@@ -104,14 +111,14 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 | Shadereffekte     | Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert.                                       |
 | Unschärfefilter   | Passt die "Shadereffekte" an, um sie weniger "grell" zu machen.                                                                                                                             |
 
-#### Screenshot Format (Dateiformat von Screenshots)
+##### Screenshot Format (Dateiformat von Screenshots)
 
 | Name                          | Effekt                                                                        |
 |-------------------------------|-------------------------------------------------------------------------------|
 | PNG (Verlustfrei)             | Hohe Dateigröße, aber unkomprimierte Qualität.                                |
 | JPEG (Web-geeignet) [Default] | Kompakte Dateigröße. Mühelos zu laden. Kann beim Reinzoomen verpixelt wirken. |
 
-### Hauptmenü
+#### Hauptmenü
 
 <img src="DE-main menu.jpg" title="Hauptmenü" alt="Hauptmenü" width="300" />
 
@@ -123,7 +130,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 | Interface Stimmen | "Welcome to osu!"/"See you next time." osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden.                                                                                                                                           |
 | osu!-Titelsong    | osu! spielt "nekodex - welcome to osu!" im Menü anstelle von zufälligen Beatmaps ab. Es ist keine Beatmap und wird immer wieder wiederholt bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen. |
 
-### Songauswahl
+#### Songauswahl
 
 <img src="DE-Songauswahl.jpg" title="Songauswahl" alt="Songauswahl" width="300" />
 
@@ -131,9 +138,9 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 |----------------|-------------------------------------------------------------------------------------------------------------------------|
 | Vorschaubilder | Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). |
 
-## Gameplay
+### Gameplay
 
-### Allgemein
+#### Allgemein
 
 <img src="DE-Allgemein.jpg" title="fig:Gameplay" alt="Gameplay" width="300" /> <img src="OP PBP.jpg" title="fig:Position der Fortschrittsleiste" alt="Position der Fortschrittsleiste" width="300" /> <img src="Input key overlay.jpg" title="fig:Tasten-Overlay" alt="Tasten-Overlay" width="200" />
 
@@ -233,9 +240,9 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 </tbody>
 </table>
 
-## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Audio
+### Audio
 
-### Lautstärke
+#### Lautstärke
 
 <img src="DE-Lautstaerke.jpg" title="fig:Lautstärke" alt="Lautstärke" width="300" /> The volume controls allow one to change the volume in-game.
 
@@ -247,12 +254,15 @@ Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzeln
 |-----------------------------------------------------------------------|
 | Hitsounds, die einer Beatmap beigefügt worden sind, werden ignoriert. |
 
-### Universeller Audio-Offset
+#### Universeller Audio-Offset
 
 <img src="DE-Universeller Audio-Offset.jpg" title="fig:Universaler Audio-Offset" alt="Universaler Audio-Offset" width="300" /> Wenn Sie in jeder einzelnen Beatmaps eine Asynchronität feststellen sollten, dann sollten Sie Ýhren universaler Offset anpassen. Entweder klicken Sie auf die gewünschte Stelle vom Graphen oder ziehen den Zeiger auf die gewünschte Stelle. Versuchen Sie den Wert solange anzupassen, bis die Maps zum Lied sychron sind. Alternativ können Sie auch den Offset Assistent benutzen für eine bessere Veranschaulichung, in dem die Tick repräsentiert werden.
 
 Jede Schwierigkeitsstufe besitzt zudem noch einen lokalen Offset, wodurch nur die Schwierigkeitsstufe davon betroffen ist. Wenn ein Online Offset vorhanden sein sollte, dann können Sie entweder \[1\] den Offset der jeweiligen Schwierigkeitsstufe, die Sie gerade spielen, manuell anpassen, indem Sie die Tasten "+" oder "-" benutzen (ändert den Offset in 5ms Schritten, wenn die Taste "Alt" währenddessen gehalten wird, wird der Offset in 1ms geändert) oder \[2\] Sie gehen in den Einstellungen und passen den universalen Offset an. Sie sollten daher nicht vergessen, es danach wieder auf den ursprünglichen Wert einzutellen.
-====Offset Assistent==== <img src="DE-Universales Offset.jpg" title="fig:Offset Assistent" alt="Offset Assistent" width="300" /> Klicken Sie auf "Offset Assistent", um den universalen Offset mit einer bildlichen Veranschaulichung anzupassen.
+
+##### Offset Assistent
+
+<img src="DE-Universales Offset.jpg" title="fig:Offset Assistent" alt="Offset Assistent" width="300" /> Klicken Sie auf "Offset Assistent", um den universalen Offset mit einer bildlichen Veranschaulichung anzupassen.
 
 Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 
@@ -262,9 +272,9 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 4.  Klick auf "zurück" oder die Taste "ESC", um zu den Einstellungen zurückzukehren. Dadurch wird der universale Offset aktualisiert.
 5.  Ihre Jukebox. Benutzt den BPM-Wert des aktuell abgespielten Songs als Tickrate.
 
-## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skin
+### Skin
 
-### [Skin](Skin "wikilink")
+#### Skin
 
 <img src="DE-Skin.jpg" title="Skin" alt="Skin" width="300" />
 
@@ -331,9 +341,9 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Steuerung
+### Steuerung
 
-### Maus
+#### Maus
 
 <img src="DE-Maus.jpg" title="Input Tab" alt="Input Tab" width="300" />
 
@@ -376,9 +386,9 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-### Tastatur
+#### Tastatur
 
-#### Tastenbelegung
+##### Tastenbelegung
 
 <img src="DE-Tastatur.jpg" title="fig:Tastatur" alt="Tastatur" width="300" /> <img src="Options KB.jpg" title="fig:Tastaturbelegung" alt="Tastaturbelegung" width="300" />
 
@@ -455,7 +465,7 @@ Set 4: Scorezahlen</p></td>
 -   Tastenbelegungen zurücksetzen : Alle Tastenbelegungen werden auf die Standardeinstellung zurückgesetzt.
 -   Boss Key: [Versteckt osu! Im Infobereich der Taskleiste (unten rechts).](Media:OP_BOSS.jpg "wikilink") Um osu! wiederzubeschwören, müssen Sie den Icon im Infobereich finden und anklicken. Während osu! Versteckt ist, wird keine Musik abgespielt. Nützlich am Arbeitsplatz.
 
-#### osu!mania-Layout
+##### osu!mania-Layout
 
 <img src="DE-mania_layout.jpg" title="fig:osu!mania-Layout" alt="osu!mania-Layout" width="300" /> Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweilige Spalte.** Ansonsten wird die [Standardtasteneinstellung](Osu!mania#Controls "wikilink") für osu!mania verwendet.
 
@@ -536,7 +546,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-### Sonstiges
+#### Sonstiges
 
 <img src="DE-Sonstiges.jpg" title="Sonstiges" alt="Sonstiges" width="300" />
 
@@ -567,9 +577,9 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Editor
+### Editor
 
-### Allgemein
+#### Allgemein
 
 <img src="DE-Editor.jpg" title="Editor" alt="Editor" width="300" />
 
@@ -600,9 +610,9 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
+### Online
 
-### Meldungen und Privatsphäre
+#### Meldungen und Privatsphäre
 
 <embed src="DE-Meldungen und Privatsphaere.jpg‎" title="Meldungen und Privatsphäre" width="300" />
 
@@ -657,7 +667,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-### Integration
+#### Integration
 
 <embed src="DE-Integration.jpg‎" title="Integration" width="300" />
 
@@ -688,7 +698,7 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-### In-Game Chat
+#### In-Game Chat
 
 [300px|thumb|right|In-Game Chat](File:DE-Ingame-Chat.jpg "wikilink")
 
@@ -746,9 +756,9 @@ Set 4: Scorezahlen</p></td>
 </tbody>
 </table>
 
-## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Wartung
+### Wartung
 
-### Allgemein
+#### Allgemein
 
 <img src="DE-Wartung.jpg" title="Wartung" alt="Wartung" width="300" />
 

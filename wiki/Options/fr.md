@@ -2,9 +2,9 @@
 outdated: true
 ---
 
-<img src="FrOptionsGeneral.png" title="Menu des options (l&#39;interface à gauche)" alt="Menu des options (l&#39;interface à gauche)" width="400" />
-
 # Options
+
+<img src="FrOptionsGeneral.png" title="Menu des options (l&#39;interface à gauche)" alt="Menu des options (l&#39;interface à gauche)" width="400" />
 
 Le menu d'options d'osu! vous donne l'accès à un large panel d'options. Chaque option sera expliquée en détail sur cette page. Vous aurez à les fouiller si osu! rame sur votre ordinateur ou si certains éléments s'affichent mal.
 
@@ -12,19 +12,19 @@ Cliquez sur le bouton d'options (ou pressez la touche O) pour accéder au panel 
 
 Vous pouvez entrer ici l'option de votre choix dans la barre de recherche si vous savez précisément ce que vous recherchez.
 
-# Options
+## Options
 
 `Redémarrez osu! si quelque chose ne marche pas comme prévu.`
 
 Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéder aux options:
 
-## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg")Général
+### Général
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
 
-### Connexion
+#### Connexion
 
-#### Invité
+##### Invité
 
 <table style="width:36%;">
 <colgroup>
@@ -57,7 +57,7 @@ Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéd
 </tbody>
 </table>
 
-### Langue
+#### Langue
 
 <table style="width:36%;">
 <colgroup>
@@ -86,11 +86,11 @@ Cliquez sur **Options** ou pressez "'O"' sur l'écran d'introduction pour accéd
 </tbody>
 </table>
 
-## Graphismes
+### Graphismes
 
 <img src="FrOptionsGraphics.png" title="Section graphismes" alt="Section graphismes" width="300" />
 
-### Rendu
+#### Rendu
 
 Un redémarrage sera probablement requis pour appliquer les modifications apportées par ces options.
 
@@ -110,7 +110,7 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 
 -   **Affiche le compteur de FPS**: Affiche un compteur de FPS en bas à droite de l'écran.
 
-### Résolution de l'écran
+#### Résolution de l'écran
 
 | colspan=3|Selectionne une résolution:- |
 |----------------------------------------|
@@ -122,7 +122,7 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 
 -   Mode plein écran (la fenêtre d'osu! va prendre tout l'écran)
 
-### Options détaillées
+#### Options détaillées
 
 <table style="width:25%;">
 <colgroup>
@@ -172,7 +172,7 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 | PNG (Sans perte)                                                               |
 | JPEG (Plus léger) \[Default\]                                                  |
 
-### Menu principal
+#### Menu principal
 
 <table style="width:25%;">
 <colgroup>
@@ -197,11 +197,11 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 </tbody>
 </table>
 
-## Gameplay
+### Gameplay
 
 <img src="Options_GameplayFR.jpg" title="Section gameplay" alt="Section gameplay" width="200" />
 
-### Général
+#### Général
 
 | Assombrir l'arrière-plan                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -249,9 +249,11 @@ Par défaut : 1.00x. Les tailles peuvent varier entre 0.50x et 2.00x.</p></th>
 </tbody>
 </table>
 
-== Skins == <img src="OptionsSkinFR.jpg" title="fig:Section pour les Skin" alt="Section pour les Skin" width="350" />
+### Skins
 
-### [Skin](Skin "wikilink")
+<img src="OptionsSkinFR.jpg" title="fig:Section pour les Skin" alt="Section pour les Skin" width="350" />
+
+#### Skin
 
 Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sélection de skin
 
@@ -297,7 +299,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 </tbody>
 </table>
 
-### Sélecteur de skins
+#### Sélecteur de skins
 
 <img src="optionsscreenskin1.jpg" title="fig:Sélecteur de skins" alt="Sélecteur de skins" width="300" /> Les skins permettent la personnalisation de nombreux éléments visuels d'osu!. Pour accéder à ce panel, cliquez sur la barre avec le nom de votre skin actuel dans le menu d'options. Sur ce panel, vous pouvez prévisualiser un skin et en choisir un parmi ceux que vous avez téléchargés.
 
@@ -309,11 +311,11 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 4.  Cliquer sur "Beatmap aléatoire" va charger une beatmap au hasard parmi votre liste de beatmaps avec le skin sélectionné.
 5.  Cliquez sur "Back" ou pressez Echap pour retourner à la catégorie Skins du menu d'options.
 
-## Audio
+### Audio
 
 <img src="OptionsAudioFR.jpg" title="Onglet Audio" alt="Onglet Audio" width="300" />
 
-### Volume
+#### Volume
 
 Le contrôleur de volume permet de modifier le volume du jeu.
 
@@ -326,13 +328,13 @@ Le contrôleur de volume permet de modifier le volume du jeu.
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Si cette option est activée, les bruitages des skins intégrés aux beatmaps seront ignorés et les bruitages de votre skin seront utilisés à la place. |
 
-### Ajustement audio
+#### Ajustement audio
 
 Si, dans toutes les beatmaps que vous jouez, vous entendez des effets sonores qui ne sont pas en rythme, vous devriez ajuster cette valeur. Cliquez et maintenez le bouton, puis faites-le glisser vers la gauche ou vers la droite. Vous pouvez aussi cliquer sur le bouton et le faire bouger avec les touches directionnelles de votre clavier. Continuez à ajuster jusqu'à trouver la position idéale aux conditions de jeu d'osu!. Vous pouvez aussi lancer l'assistant d'ajustement audio pour une précision accrue grâce à la représentation graphique des ticks (voir plus bas).
 
 Contrairement à l'ajustement audio local (spécifique à une beatmap), cet ajustement affectera toutes les beatmaps auxquelles vous jouerez. Vous pouvez toujours ajuster l'audio par beatmap en appuyant sur Plus ou Moins (+/-) en jeu pour augmenter ou diminuer le décalage de 5 millisecondes. Si vous appuyez sur Alt en même temps, le décalage ne sera que d'une milliseconde.
 
-#### Assistant d'ajustement audio
+##### Assistant d'ajustement audio
 
 <img src="OffsetWizardFR.jpg" title="fig:Assistant d&#39;ajustement audio" alt="Assistant d&#39;ajustement audio" width="300" /> Cliquez sur "Démarrer l'assistant" pour lancer l'assistant en question qui vous permettra de décaler de façon plus précise grâce à la représentation graphique des ticks.
 
@@ -343,11 +345,11 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 3.  Ce que vous voyez et entendez sont des ticks. Ils défilent en rythme sur la barre verte au milieu de l'écran.
 4.  Cliquer sur Back ou appuyer sur Echap va vous faire revenir à l'accueil. Les modifications seront sauvegardées.
 
-## Périphériques
+### Périphériques
 
 <img src="OptionsInputFR.jpg" title="Onglet Contrôles" alt="Onglet Contrôles" width="300" />
 
-### Souris
+#### Souris
 
 <table style="width:36%;">
 <colgroup>
@@ -385,11 +387,11 @@ Entre x0.40 et x6, par défaut sur 1.</p></td>
 </tbody>
 </table>
 
-### Clavier
+#### Clavier
 
-#### Contrôles
+##### Contrôles
 
-#### Configuration d'osu!mania
+##### Configuration d'osu!mania
 
 <img src="Options MLFR.jpg" title="Interface de configuration osu!mania" alt="Interface de configuration osu!mania" width="200" />
 
@@ -473,7 +475,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-### Autres
+#### Autres
 
 <table style="width:36%;">
 <colgroup>
@@ -502,11 +504,11 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-## Edition
+### Edition
 
 <img src="Options EditorFR.jpg" title="Section édition" alt="Section édition" width="200" />
 
-### Général
+#### Général
 
 <table style="width:36%;">
 <colgroup>
@@ -535,11 +537,11 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-## Connexion
+### Connexion
 
 <img src="OptionsOnlineFR.jpg" title="Onglet Internet" alt="Onglet Internet" width="300" />
 
-### Notifications et vie privée
+#### Notifications et vie privée
 
 <table style="width:36%;">
 <colgroup>
@@ -592,7 +594,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-### Intégration
+#### Intégration
 
 <table style="width:36%;">
 <colgroup>
@@ -621,7 +623,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-### Chat
+#### Chat
 
 <table style="width:36%;">
 <colgroup>
@@ -678,7 +680,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 </tbody>
 </table>
 
-## Onglet Maintenance
+### Onglet Maintenance
 
 <img src="optionsmaintenance.png" title="fig:Onglet Maintenance" alt="Onglet Maintenance" width="250" /> Cliquez sur l'onglet Maintenance de l'écran d'Options pour accéder aux paramètres de maintenance.
 
