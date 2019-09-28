@@ -28,6 +28,7 @@ Rule의 제안과 의견은 Ranking Criteria의 하위 포럼[Ranking Criteria S
 ### Patterns (패턴)
 
 - **Anchor(앵커)**: 다른 Column에 비해 한 열에 노트가 상대적으로 많은 패턴으로, 보통 다른 종류의 stream 패턴 안에서 발견됩니다.
+- **Bracket(브래킷)**: 서로 가까운 column을 이용해 여러개의 trill을 수반하는 패턴.
 - **Chord(코드)**: 두 개 이상의 노트가 동시에 눌리는 경우.
 - **Chordstream(코드 스트림) (Jumpstream, Handstream, Quadstream 점프스트림, 핸드스트림, 쿼드스트림)**: 다양한 종류의 chord를 섞는 스트림.
 - **Grace(그레이스)**: 보통 1/6박자 또는 그 이상에서 두 개 이상의 노트가 연속적으로 눌린 경우.
