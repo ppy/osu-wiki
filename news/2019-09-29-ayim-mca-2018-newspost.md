@@ -26,8 +26,8 @@ As of right now, Mapper's Choice Awards is in the nomination stage, and the rest
 
 - Nomination stage: **28 September, 00:00 UTC** to **5 October, 00:00 UTC** (7 days)
 - Voting stage: **7 October, 00:00 UTC** to **17 October, 18:00 UTC** (11 days)
-- osu!taiko/osu!catch/osu!mania stream: **October 19th** (time TBD)
-- Storyboard/osu!standard stream: **October 20th** (time TBD)
+- osu!taiko/osu!catch/osu!mania stream: **19 October** (time TBD)
+- Storyboard/osu!standard stream: **20 October** (time TBD)
 
 # A Year In Mapping 2018
 
