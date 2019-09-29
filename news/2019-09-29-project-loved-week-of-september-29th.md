@@ -21,7 +21,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## <a name="osu" id="osu"></a>osu!standard
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/DkfcGDx_-rg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZCwu7IWlHPg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
