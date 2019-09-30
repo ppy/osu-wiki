@@ -22,9 +22,9 @@ First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlig
 ### Navigation
 
 - [osu!](#osu)
-- [taiko](osu!taiko)
-- [catch](osu!catch)
-- [mania](osu!mania)
+- [osu!taiko](#taiko)
+- [osu!catch](#catch)
+- [osu!mania](#mania)
 
 # Summer Spotlights
 
