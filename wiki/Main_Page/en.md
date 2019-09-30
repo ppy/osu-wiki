@@ -12,10 +12,20 @@ You can use your osu! account to start contributing!
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
+# Welcome
+
+Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat.
+Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
+
+This wiki is created for the sole purpose of you understanding the game and the community behind it much better, here's some links to get you started.
+
+</div>
+<div class="wiki-main-page-panel">
+
 
 # Getting Started
 
-[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
+[Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,12 +60,22 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 [Glossary](/wiki/Glossary) • [Tournaments](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projects](/wiki/Projects)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel wiki-main-page-panel">
 
 
 # People
 
 [The Team](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Language Moderators](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Support Team](/wiki/People/Support_Team)
+
+</div>
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
+
+
+# Making osu! better
+
+If you're interested to help out in shaping the future of osu!, you may do so by clicking on the links that interest you below:
+
+[osu!wiki](https://github.com/ppy/osu-wiki) • [osu!lazer](https://github.com/ppy/osu-wiki) • [osu!web](https://github.com/ppy/osu-web)
 
 </div>
 </div>
