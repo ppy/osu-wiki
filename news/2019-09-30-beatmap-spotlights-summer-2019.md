@@ -22,9 +22,9 @@ First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlig
 ### Navigation
 
 - [osu!](#osu)
-- <a href="#taiko">osu!taiko</a>
-- <a href="#catch">osu!catch</a>
-- <a href="#mania">osu!mania</a>
+- [taiko](osu!taiko)
+- [catch](osu!catch)
+- [mania](osu!mania)
 
 # Summer Spotlights
 
@@ -229,17 +229,11 @@ Probably the most hard low Star Rating map ever created, the diff "Portrayer" is
 
 _written by [Kazu](https://osu.ppy.sh/users/920861)_
 
-[![](/wiki/shared/news/2019-09-30-beatmap-spotlights-summer-2019/taiko/black.jpg)](https://osu.ppy.sh/beatmapsets/967099)
-
-soon:tm:
-
-_written by [Kazu](https://osu.ppy.sh/users/920861)_
-
 [![](/wiki/shared/news/2019-09-30-beatmap-spotlights-summer-2019/taiko/reason.jpg)](https://osu.ppy.sh/beatmapsets/809965)
 
-soon:tm:
+Reason of Being by [D o t](https://osu.ppy.sh/users/8486686), with an interesting diff made by tasuke912, is a pokemon mapset which offers a clean mapping, a precise interpretation of the music and a wide arrange of rhythms and 1/6 patterns that make the map slightly challenging but definitely reasonable at the same time, which for the complexity the song provides, makes the proposition of the mappers involved in this mapset really satisfactory and enjoyable.
 
-_written by [Kazu](https://osu.ppy.sh/users/920861)_
+_written by [Ulqui](https://osu.ppy.sh/users/1263669)_
 
 [![](/wiki/shared/news/2019-09-30-beatmap-spotlights-summer-2019/taiko/life.jpg)](https://osu.ppy.sh/beatmapsets/975435)
 
@@ -382,5 +376,3 @@ The spreadsheet is available for everyone who is interested to take a look at ho
 We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 
 —the Spotlights Team
-
-
