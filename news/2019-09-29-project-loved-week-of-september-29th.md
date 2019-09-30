@@ -76,7 +76,7 @@ If you like 270 BPM streams, you'll love this map—it's filled with them—espe
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
 ---
 
