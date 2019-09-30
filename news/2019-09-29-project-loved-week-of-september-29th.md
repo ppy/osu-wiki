@@ -4,7 +4,7 @@ title: "Project Loved: Week of September 29th"
 date: 2019-09-29 19:30:00 +0000
 ---
 
-It's [Project Loved](https://osu.ppy.sh/community/forums/120) here again—your one-stop-shop for high quality content.
+It's [Project Loved](https://osu.ppy.sh/community/forums/120) here again—your one-stop-shop for community favorited maps.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
@@ -23,15 +23,14 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZCwu7IWlHPg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917), [Ventus](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917), [Ventus](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)! This week, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
 ---
 
 [![](/wiki/shared/news/2019-09-29-project-loved-week-of-september-29th/osu/1-kyuukyoku-no-seisen.jpg)](https://osu.ppy.sh/community/forums/topics/966984)
 
 [Akira Kushida - Kyuukyoku No Seisen](https://osu.ppy.sh/beatmapsets/735904#osu) by [-NeBu-](https://osu.ppy.sh/users/4099626) et al.  
-170 BPM, 3:54 | 1.60★ – 6.44★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+170 BPM, 3:54 | 1.60★ – 6.44★
 
 This 7-difficulty mapset of a full-version Dragon Ball Z theme ranges from one to six stars. Each difficulty is fairly jumpy with each consecutive map being just a bit harder than the one before. The song itself is simple yet catchy, and mostly warrants jumps at a constant BPM of 170. However, no full-version anime theme comes without a guitar solo that lets the mapper test your streaming skill as well!
 
@@ -40,8 +39,7 @@ Overall, this entire mapset is super solid, so if you're looking for some clean,
 [![](/wiki/shared/news/2019-09-29-project-loved-week-of-september-29th/osu/2-good-bye-mr-jack.jpg)](https://osu.ppy.sh/community/forums/topics/966982)
 
 [sasakure.UK - Good Bye, Mr. Jack](https://osu.ppy.sh/beatmapsets/586425#osu) by [Xilver15](https://osu.ppy.sh/users/3099689)  
-180 BPM, 3:43 | 6.01★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+180 BPM, 3:43 | 6.01★
 
 Xilver is here to bring back the classic CS5 AR8 mapping style with this amazingly crafted tribute map to rustbell and tsuka's 2011 map of "[Jack-The-Ripper](https://osu.ppy.sh/beatmapsets/23907)".
 
@@ -50,10 +48,9 @@ This 6-star map is riddled with all kinds of tricky, old-style patterns that cap
 [![](/wiki/shared/news/2019-09-29-project-loved-week-of-september-29th/osu/3-bad-apple-camellia-s-bad-psy-remix.jpg)](https://osu.ppy.sh/community/forums/topics/966981)
 
 [Masayoshi Minoshima feat nomico - Bad Apple (Camellia's "Bad Psy!!" Remix)](https://osu.ppy.sh/beatmapsets/749552#osu) by [winber1](https://osu.ppy.sh/users/270328)  
-160 BPM, 4:37 | 6.14★  
-*description written by [Ventus](https://osu.ppy.sh/users/1986262)*
+160 BPM, 4:37 | 6.14★
 
-(By DigitalHypno) You might know of the song "Bad Apple", but do you know of this amazing 160 BPM Camellia remix of it? Better yet, do you know of winber1's amazing 6-star map of it? If you don't, that's okay. You do now.
+You might know of the song "Bad Apple", but do you know of this amazing 160 BPM Camellia remix of it? Better yet, do you know of winber1's amazing 6-star map of it? If you don't, that's okay. You do now.
 
 This map does everything right when it comes to technical mapping. Awesome sliders, 1/6 bursts, cut streams, slider streams, more awesome sliders, satisfying rhythms, and everything else that defines a good technical map in your books.
 
@@ -62,20 +59,18 @@ Not convinced yet? Try the map yourself—don't forget to give it a favourite af
 [![](/wiki/shared/news/2019-09-29-project-loved-week-of-september-29th/osu/4-hightechnological.jpg)](https://osu.ppy.sh/community/forums/topics/966980)
 
 [PsyLine & Lunawatt & Brainstalker - Hightechnological](https://osu.ppy.sh/beatmapsets/914371#osu) by [Ciyus Miapah](https://osu.ppy.sh/users/2805457)  
-80 BPM, 13:01 | 7.21★ – 9.61★  
-*description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+80 BPM, 13:01 | 7.21★ – 9.61★
 
-(By DigitalHypno) You know those crazy technical stream maps like [Sound Chimera](https://osu.ppy.sh/beatmapsets/813569#osu/1706210) and [Euphoria](https://osu.ppy.sh/beatmapsets/890438#osu/1861487)? They're pretty hard, right? ...I'm sorry? Those are too easy for you? Well, if you say so...
+You know those crazy technical stream maps like [Sound Chimera](https://osu.ppy.sh/beatmapsets/813569#osu/1706210) and [Euphoria](https://osu.ppy.sh/beatmapsets/890438#osu/1861487)? They're pretty hard, right? ...I'm sorry? Those are too easy for you? Well, if you say so...
 
 Ciyus Miapah, alternatively known as Fort, has you covered with this crazy, and I mean CRAZY map that can both meet and surpass your difficulty standards. Over ten minutes of high 8-star tech stream goodness. *Hightechnological* describes this map just as much as it describes the song. The map is split into various "practice" difficulties to get you trained up for the real deal—you'll probably need them. The beatmap description can help you get an idea for what you're doing here, but aside from that, all I can say is good luck.
 
 [![](/wiki/shared/news/2019-09-29-project-loved-week-of-september-29th/osu/5-palette-gamma.jpg)](https://osu.ppy.sh/community/forums/topics/966979)
 
 [Yuyoyuppe - Palette GAMMA](https://osu.ppy.sh/beatmapsets/679239#osu) by [mithew](https://osu.ppy.sh/users/2571893)  
-270 BPM, 1:24 | 8.14★  
-*description written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
+270 BPM, 1:24 | 8.14★
 
-(By DigitalHypno) If you like 270 BPM streams, you'll love this map—it's filled with them—especially towards the end of this 83-second map. The intro is more burst-heavy rather than streamy, but they get longer as the map goes on. The kiais at the end are where the real meat is, but the whole map plays super well. Give it a try if high BPM streams are your forte!
+If you like 270 BPM streams, you'll love this map—it's filled with them—especially towards the end of this 83-second map. The intro is more burst-heavy rather than streamy, but they get longer as the map goes on. The kiais at the end are where the real meat is, but the whole map plays super well. Give it a try if high BPM streams are your forte!
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
@@ -99,7 +94,7 @@ Representing the Brazilian community, Hirok brings us *eu quero*, a mix of popul
 192 BPM, 2:08 | 1.98★, 2.66★, 3.85★, 4.96★, 5.72★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-*Black MInD* is to our eyes a map done out of sheer geniousy that uses multiple snaps like 1/3 and 1/8 to really emphasize a lot on this chaotic piano song. This was also featured in Taiko World Cup 2018 as a Round of 16 Freemod pick, which along with Time Traveler, was one of the most played maps during that round specially by HD players. Due to the popularity this map got during said World Cup, we decided to bring it to the Loved Section!.
+*Black MInD* is to our eyes a map done out of sheer genius that uses multiple snaps like 1/3 and 1/8 to really emphasize a lot on this chaotic piano song. This was also featured in the osu!taiko World Cup 2018 as a Round of 16 FreeMod pick, which along with *Time Traveler*, was one of the most played maps during that round specially by HD players. Due to the popularity this map got during said World Cup, we decided to bring it to the Loved section!.
 
 ## <a name="catch" id="catch"></a>osu!catch
 
@@ -121,7 +116,7 @@ If you followed CWC 2019 this year, you might be surprised by this breathtaking 
 [AAAA - Hoshi o Kakeru Adventure \~ we are forever friends! \~ [Long ver.]](https://osu.ppy.sh/beatmapsets/584744#fruits) by [Bunnrei](https://osu.ppy.sh/users/829284)  
 187 BPM, 5:51 | 8.00★
 
-Bunnrei is truly mapper for top players. *Hoshi o Kakeru Adventure \~ we are forever friends!* is a map from 2017 with a lot of fun stream patterns and reverse jumps. The map creates a relaxing feeling as a hard-level map. The music piece created by artist AAAA is also really enjoyable, no doubt why the mapper creates a lot of maps from this artist. Would you like to take a unique osu!catch adventure with this map?
+Bunnrei is truly mapper for top players. *Hoshi o Kakeru Adventure* is a map from 2017 with a lot of fun stream patterns and reverse jumps. The map creates a relaxing feeling as a hard-level map. The music piece created by artist AAAA is also really enjoyable, no doubt why the mapper creates a lot of maps from this artist. Would you like to take a unique osu!catch adventure with this map?
 
 ## <a name="mania" id="mania"></a>osu!mania
 
@@ -164,6 +159,8 @@ If dense chordstreaming is your thing, then you have to try this map out!
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [PsychoStatic](https://osu.ppy.sh/users/7291594), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
+
+—Toy
