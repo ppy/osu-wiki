@@ -23,7 +23,7 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZCwu7IWlHPg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917), [Ventus](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
 ---
 
@@ -79,6 +79,8 @@ Ciyus Miapah, alternatively known as Fort, has you covered with this crazy, and 
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
 ---
@@ -101,6 +103,8 @@ Representing the Brazilian community, Hirok brings us *eu quero*, a mix of popul
 
 ## <a name="catch" id="catch"></a>osu!catch
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?t=192?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)! This week, all osu!catch beatmap descriptions were written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962).
 
 ---
@@ -120,6 +124,8 @@ If you followed CWC 2019 this year, you might be surprised by this breathtaking 
 Bunnrei is truly mapper for top players. *Hoshi o Kakeru Adventure \~ we are forever friends!* is a map from 2017 with a lot of fun stream patterns and reverse jumps. The map creates a relaxing feeling as a hard-level map. The music piece created by artist AAAA is also really enjoyable, no doubt why the mapper creates a lot of maps from this artist. Would you like to take a unique osu!catch adventure with this map?
 
 ## <a name="mania" id="mania"></a>osu!mania
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?t=351?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -161,5 +167,3 @@ From everyone on the Project Loved team, we hope you enjoyed this week's selecti
 In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
-
-—the Project Loved team
