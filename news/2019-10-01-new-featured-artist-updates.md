@@ -6,6 +6,8 @@ date: 2019-10-01 10:00:00 +0000
 
 We promised a big update in the last Featured Artist reveal, and boy did we mean it. **197** new tracks from **12** of our absurdly talented Featured Artists are now available. Check it all out!
 
+![](/wiki/shared/news/banners/featured-artist.jpg)
+
 There's so much to go over, so we'll dip right into it - just remember that **clicking the artist banners will take you directly to their Featured Artist listing**, and that the newer tracks listed in this post are likely to be towards the bottom of their respective page.
 
 Got that? Great. ONWARDS!
