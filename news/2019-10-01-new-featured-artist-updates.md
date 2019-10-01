@@ -37,11 +37,11 @@ We've nabbed **11** brand new tracks from antiPLUR, who's also come aboard under
 
 [![](https://assets.ppy.sh/artists/38/header.jpg)](https://osu.ppy.sh/beatmaps/artists/38)
 
-New tracks from **rabbithole**:
+New tracks from **Rabbithole**:
 
 * **BilliumMoto - behind stoic**
 * **BilliumMoto - cap**
-* **BilliumMoto - D**
+* **BilliumMoto - :D**
 * **BilliumMoto - encased**
 * **BilliumMoto - muniflora**
 * **BilliumMoto - night sky**
@@ -49,7 +49,7 @@ New tracks from **rabbithole**:
 * **BilliumMoto - ruby**
 * **BilliumMoto - sway**
 
-BilliumMoto's striking out into the grand beyond with his first ever album release titled *rabbithole*, and we're super excited to have picked a prime selection of **9** tracks from it for you! 
+BilliumMoto's striking out into the grand beyond with his first ever album release titled [*Rabbithole*](https://billiummoto.bandcamp.com/album/rabbithole), and we're super excited to have picked a prime selection of **9** tracks from it for you! 
 
 It's all the Billium you know and love, cranked right up to eleven with his distinctly unique blend of chirpy electronic funk.
 
