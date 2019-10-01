@@ -16,7 +16,7 @@ Got that? Great. ONWARDS!
 
 [![](https://assets.ppy.sh/artists/24/header.jpg)](https://osu.ppy.sh/beatmaps/artists/24)
 
-New tracks from **antiPLUR**:
+New tracks as **antiPLUR**:
 
 * **antiPLUR - A Whisper In My Ghost (osu! edit)**
 * **antiPLUR - Confronting The Numberless (osu! edit)**
@@ -25,7 +25,7 @@ New tracks from **antiPLUR**:
 * **antiPLUR - Street Shogun**
 * **antiPLUR - Summoner**
 
-New tracks from **Internet Death Machine**:
+New tracks as **Internet Death Machine**:
 
 * **Internet Death Machine - BaSH Your Headend (osu! edit)**
 * **Internet Death Machine - Crack Addict (osu! edit)**
