@@ -1,28 +1,24 @@
 # Submission
 
-Beatmaps can be uploaded to the osu! website via the in-game editor. Uploading a beatmap allows the beatmap to receive attention from other users and potentially enter the Ranked or Loved beatmap categories. 
+[Beatmaps](/wiki/Beatmaps) can be submitted to the osu! website via the in-game editor. Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmaps#ranked) or [Loved](/wiki/Beatmaps#loved) categories.
 
-## Submission
+![Beatmap Submission System screen](img/bss_warning.png "Beatmap Submission System screen")
 
-`Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the "Beatmap Submission System" (BSS) window. This initially displays lists resources for users to ensure their maps are suitable for ranking, ask mapping-related questions, and find feedback for their beatmaps.
-
-### Warning Screen
+Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find feedback for their beatmaps, and ensure their maps are suitable for ranking.
 
 If the beatmap a user is uploading is not already on the osu! website, the BSS window will state how many new uploads a user can publish. If the beatmap is nominated, the window warns that the nomination will be reset by updating the beatmap. If the beatmap is in the graveyard, the window warns that the beatmap will be raised to the pending beatmaps category.
 
-![Beatmap Submission System warning screen](bss_warning.jpg "Beatmap Submission System warning screen")
+## Submission options
 
-### Submission Options
+![Beatmap Submission System uploading screen](img/bss_submitting.png "Beatmap Submission System uploading screen")
 
 When clicking the `Update Beatmap!` button, a user will be presented with the choice of uploading their beatmap to the `Work In Progress (WIP)/Help` or `Pending Beatmaps` categories. WIP beatmaps cannot be nominated for ranking, while pending beatmaps can.
 
-The `Creator's Words` section allows for user input that appears alongside the beatmap's website listing page. This supports `BBCode` formatting.
+The `Creator's Words` section allows for user input that appears alongside the beatmap's website listing page. This supports [BBCode](/wiki/BBCode) formatting.
 
 Two checkboxes appear near the bottom of the window. The first says `Receive email notification on reply`, which adds the beatmap to the user's [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). The second says `Load in browser after submission`, which will load the beatmap's listing page.
 
-![Beatmap Submission System uploading screen](bss_submitting.jpg "Beatmap Submission System uploading screen")
-
-### Limitations
+## Limitations
 
 Beatmaps will fail to submit if they exceed the online file size limit. That limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB.
 
