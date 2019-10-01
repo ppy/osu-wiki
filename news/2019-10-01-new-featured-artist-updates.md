@@ -4,11 +4,11 @@ title: "Featured Artist Track Updates: October 2019"
 date: 2019-10-01 10:00:00 +0000
 ---
 
-We promised a big update in the last Featured Artist reveal, and boy did we mean it. **197** new tracks from **12** of our absurdly talented Featured Artists are now available. Check it all out!
+We promised a big update in the last Featured Artist reveal, and boy did we mean it. **197** new tracks from **12** of our absurdly talented Featured Artists are now available. Check them all out!
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
-There's so much to go over, so we'll dip right into it - just remember that **clicking the artist banners will take you directly to their Featured Artist listing**, and that the newer tracks listed in this post are likely to be towards the bottom of their respective page.
+There's so much to go over, so we'll dip right into it—just remember that **clicking the artist banners will take you directly to their Featured Artist listing**, and that the newer tracks listed in this post are likely to be towards the bottom of their respective page.
 
 Got that? Great. ONWARDS!
 
@@ -217,7 +217,7 @@ New **sets** now available:
 * **House set of Ten Desires**
 * **House set of the Embodiment of Scarlet Devil**
 
-The Kuroneko Lounge throws wide its doors once again, this time with a whopping **87** new tracks across **6** new Touhou themed sets. You like Touhou? Like house? You're set, possibly forever.
+The Kuroneko Lounge throws wide its doors once again, this time with a whopping **87** new tracks across **6** new Touhou-themed sets. You like Touhou? Like house? You're set, possibly forever.
 
 This isn't just a set of house mixes, it's a full-on *village* of them. A veritable youkai metropolis. 
 
@@ -244,7 +244,7 @@ New tracks:
 * **Trial & Error - Sore ga Zenbu, Yume ni Tsunagaru**
 * **Trial & Error - Sorezore no Tabiji**
 
-We've got **4** brand new tracks from Trial & Error, with all of them also available in specifically cut short versions for mappers who're attention deficit or just prefer the smaller things in life. Vocaloids? You bet. An assortment of primo vocalists? You got it.
+We've got **4** brand new tracks from Trial & Error, with all of them also available in specifically cut short versions for mappers who're either attention-deficit or just prefer the smaller things in life. Vocaloids? You bet. An assortment of primo vocalists? You got it.
 
 Trial & Error. It's science, people.
 
@@ -252,7 +252,7 @@ Trial & Error. It's science, people.
 
 This should go without saying, but all the tracks listed above and every one on a Featured Artist listing are 100% free for use in mapping, so go ahead and get creative with things!
 
-Now, even though we have just given you nearly two hundred new tracks to digest (like, *what*), we just can't get off the train just yet! Those who follow these announcements will understand that this means a hint is afoot:
+Now, even though we've just given you nearly two hundred new tracks to digest (like, *what*), we can't get off the train just yet! Those who follow these announcements will understand that this means a hint is afoot:
 
 Pull up a chair and listen. It's a real quiet world out there sometimes.
 
