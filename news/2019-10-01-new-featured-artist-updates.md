@@ -217,7 +217,19 @@ New **sets** now available:
 
 The Kuroneko Lounge throws wide its doors once again, this time with a whopping **87** new tracks across **6** new Touhou themed sets. You like Touhou? Like house? You're set, possibly forever.
 
-This isn't just a set of house mixes, it's a full-on *village* of them. A veritable youkai metropolis. The amount of new sound in this update is absolutely astonishing, make sure to check it out!
+This isn't just a set of house mixes, it's a full-on *village* of them. A veritable youkai metropolis. 
+
+Thankfully, the masterful members of the [Mappers' Guild](http://mappersguild.com/) have been hard at work carving out a few of the ghostly streets as the Guild's turf:
+
+* [Daishibyo set 14 ~ Sado no Futatsuiwa by ShirohaMyMommy](https://osu.ppy.sh/beatmapsets/751779#osu/1582605)
+* [Moriya set 08 ReEdit ~ Youkai no Yama by jonathanlfj](https://osu.ppy.sh/beatmapsets/751866#osu/1582806)
+* [Koumakan set 02 ~ Apparitions Stalk the Night by eiri-](https://osu.ppy.sh/beatmapsets/991960#osu/2074476)
+* [Ayakashi set 12 Another ~ Border of Life by pishifat](https://osu.ppy.sh/beatmapsets/1001360#osu/2096201)
+* [Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year by Hinsvar](https://osu.ppy.sh/beatmapsets/985780#osu/2062331)
+* [Chireiden set 05 ~ Walking the Streets of a Former Hell by Niva](https://osu.ppy.sh/beatmapsets/985478#osu/2061813)
+* [Koumakan set 16 ~ Kourou by schoolboy](https://osu.ppy.sh/beatmapsets/1006601#osu/2106628)
+
+Feel free to swoop in and show them who's really boss, or join the Guild yourself. Or both!
 
 ## Trial & Error 
 
