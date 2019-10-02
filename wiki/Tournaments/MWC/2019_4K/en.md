@@ -188,10 +188,10 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | Sunday, 2018-09-29 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55188975) |
-| **Indonesia** ![][flag_ID] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
-| **Poland** ![][flag_PL] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55199722) |
+| Indonesia ![][flag_ID] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
+| Poland ![][flag_PL] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55199722) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/55201602) |
-| **China** ![][flag_CN] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
+| China ![][flag_CN] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
 
 ### Group Stage
 
@@ -201,7 +201,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/54999137) |
 | **Australia** ![][flag_AU] | **5** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/54999135) |
 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/55000690) |
-| **Australia** ![][flag_AU] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/55000695) |
+| Australia ![][flag_AU] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/55000695) |
 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55002319) |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/55002245) |
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/55002249) |
@@ -242,7 +242,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/55034886) |
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/55034909) |
 | **Argentina** ![][flag_AR] | **5** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/55034933) |
-| **France** ![][flag_FR] | 3 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55034905) |
+| France ![][flag_FR] | 3 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55034905) |
 | **Poland** ![][flag_PL] | **5** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/55034955) |
 | **Poland** ![][flag_PL] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/55036564) |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/55036615) |
