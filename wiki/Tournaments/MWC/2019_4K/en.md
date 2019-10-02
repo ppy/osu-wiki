@@ -134,7 +134,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - [Camellia feat. Nanahira - Amor De Verao (-mint-) \[Quatro, tres, dois, um\]](https://osu.ppy.sh/beatmapsets/1021336#mania/2136956)
     - [xi - Longinus (Dergo) \[seraphic\]](https://osu.ppy.sh/beatmapsets/1022615#mania/2139387)
     - [Tipper - Cubic Squeal (Lusty Platypus) \[Passable\]](https://osu.ppy.sh/beatmapsets/771447#mania/1959674)
-- TieBreaker
+- Tiebreaker
     - **[Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**
 
 ### Round of 16
@@ -154,7 +154,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - [goreshit - burn this moment into the retina of my eye (Vortex-) \[memory loss\]](https://osu.ppy.sh/beatmapsets/999447#mania/2169709)
     - [Chroma - Pon-Pon-Pompoko Dai-Sen-Saw! (ALEFY) \[Pira's EXHAUST\]](https://osu.ppy.sh/beatmapsets/351531#mania/775625)
     - [The Flashbulb - Cycles (TheToaphster) \[Stage 1: Composure\]](https://osu.ppy.sh/beatmapsets/673208#mania/1424814)
-- TieBreaker
+- Tiebreaker
     - **[dj TAKA - Colors -sasakure.UK Futurelogic Remix- (Dergo) \[blue\]](https://osu.ppy.sh/beatmapsets/1033943#mania/2161813)**
 
 ### Group Stage
@@ -172,7 +172,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - [sirokuma - Apollo11 (Elekton) \[lunarian stream\]](https://osu.ppy.sh/beatmapsets/769539#mania/1618073)
     - [cubesato - April Showers (Raveille) \[Drizzling (NSV)\]](https://osu.ppy.sh/beatmapsets/749117#mania/2164001)
     - [TSUNKU - Batting Show Perfect Version (Daikyi) \[Batter Up!\]](https://osu.ppy.sh/beatmapsets/418097#mania/905136)
-- TieBreaker
+- Tiebreaker
     - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
 ## Match Results
@@ -211,7 +211,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/55004070) |
 | **Thailand** ![][flag_TH] | **5** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/55004010) |
 | **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/55008220) |
-| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_VE] Venezuela | -Win by Default- |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/55010312) |
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/55010214) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55012372) |
@@ -225,9 +225,9 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55022217) |
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55022251) |
-| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_VE] Venezuela | -Win by Default- |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55023239) |
-| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_VE] Venezuela | -Win by Default- |
+| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | **Singapore** ![][flag_SG] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/55023226) |
 | **China** ![][flag_CN] | **5** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/55025205) |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/55031845) |
