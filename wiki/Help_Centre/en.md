@@ -638,7 +638,7 @@ In rare circumstances, support tickets from chronically offending users may be d
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
-Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
+Most of the time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
 If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
@@ -659,6 +659,8 @@ In the event that another user is harassing you via private messages either on t
 4. You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
+
+If you wish to ignore highlights, private messages, or public messages, you can simply append respectively @h, @p, @c to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
 
 ##### Blocking all non-friends from sending private messages in-game
 
