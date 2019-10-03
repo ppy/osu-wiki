@@ -118,9 +118,9 @@ If the change was done with the free change that comes with a supporter tag, we 
 
 #### Can I remove my previous usernames/delete username history?
 
-**Not at the moment, sorry.**
+**Under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, and we do not accept request to remove them for now. If one of your previous usernames breaches your privacy (for example, if it contains your legal name), contact accounts@ppy.sh to request it removed.
+Your profile will show all your previous purchased namechanges, but we only selective remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
 
 ### Other issues
 
