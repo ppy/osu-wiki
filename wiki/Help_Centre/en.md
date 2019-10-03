@@ -170,7 +170,9 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 **You can see all maps you've played on the website.**
 
-If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
+If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
+
+On the new website, this filter can be found by clicking "more search options" on the [beatmap list page](https://osu.ppy.sh/beatmapsets) then "Played" in the "PLAYED" section. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
