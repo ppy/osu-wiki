@@ -12,7 +12,7 @@ BanchoBot commands start with `!` followed by the command. These commands work i
 
 You can also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
 
-*Notice: The `SEARCH` command is not included as it is not working.*
+*Notice: The `SEARCH` and `REQUEST` commands are not included, as they do not work.*
 
 *Note: The user argument is case-insensitive, as usernames are case-insensitive.*
 
@@ -93,7 +93,8 @@ BanchoBot: Accuracy: 94.19%
 
 Shows the entered user's current location.
 
-*Note: This only shows the user's country.*
+*Note: by default, this only shows the user's country.
+In case the user has `Share your city location with others` toggle enabled, it may also display their city.*
 
 #### Usage Example
 
@@ -147,20 +148,4 @@ Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or 
 ```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
-```
-
-### REQUEST
-
-```
-!REQUEST
-!REQUEST list
-```
-
-Shows a link to a recent beatmap that is requesting [modding assistance](/wiki/Modding). You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
-
-#### Usage Example
-
-```
-pippi: !request
-BanchoBot: HoneyWorks - Tokyo Summer Session feat. CHiCO by MrSergio
 ```
