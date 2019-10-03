@@ -110,9 +110,9 @@ We only grant this one time per account, so please consider carefully before req
 
 #### My username has been changed back/reverted!
 
-**We only force username reverts for inappropriate usernames.**
+**We only force username reverts for usernames we deem inappropriate or abusive.**
 
-If you find your recent namechange has been undone, it may be because the username you changed to was abusive or inappropriate. We will not perform the change again, even if we requested, but if you purchased it on the store, we'll offer a free change for you.
+If you find your recent namechange has been undone, it may be because the username you changed to was abusive, inappropriate, or considered offensive. We will not perform the change again even if requested, but if you purchased it on the store, we will offer a free change to replace it.
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
