@@ -691,9 +691,11 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
 7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
 
+On the new website, go to your [account settings](https://osu.ppy.sh/home/account/edit) and simply click _lock private messages from people not on your friends list_ in the Privacy section. Private messages from users in your friendlist will still reach you.
+
 ##### What if I'm still having problems with a user after blocking them?
 
-**Never fear, our moderation team will help you out.**
+**Never fear, our support staff will help you out.**
 
 If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
 
