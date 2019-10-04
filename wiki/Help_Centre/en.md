@@ -120,7 +120,7 @@ If the change was done with the free change that comes with a supporter tag, we 
 
 **Under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, but we only selective remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
+Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
 
 ### Other issues
 
@@ -628,7 +628,7 @@ Once all of the `.osz` files within the pack are in the Songs directory, hitting
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on twitter at @osusupport to ask about your ticket.
+You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on twitter at @osusupport to ask about your ticket.
 
 In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
@@ -660,7 +660,7 @@ In the event that another user is harassing you via private messages either on t
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
-If you wish to ignore highlights, private messages, or public messages, you can simply append respectively @h, @p, @c to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
+If you wish to ignore highlights, private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
 
 ##### Blocking all non-friends from sending private messages in-game
 
@@ -691,7 +691,7 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
 7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
 
-On the new website, go to your [account settings](https://osu.ppy.sh/home/account/edit) and simply click _lock private messages from people not on your friends list_ in the Privacy section. Private messages from users in your friendlist will still reach you.
+On the new website, go to your [account settings](https://osu.ppy.sh/home/account/edit) and simply click `lock private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendlist will still reach you.
 
 ##### What if I'm still having problems with a user after blocking them?
 
