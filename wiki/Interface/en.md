@@ -168,6 +168,17 @@ Supported filters:
 - `unplayed`: Unplayed maps. No value (use `unplayed=` for unplayed maps or `unplayed!=` for played maps)
 - `speed`: Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options#gameplay) option is off
 
+Supported comparisons:
+
+- `=` or `==`: Equal to
+- `!=`: Not equal to
+- `<`: Less than
+- `>`: Greater than
+- `<=`: Less than or equal to
+- `>=`: Greater than or equal to
+
+You may also enter a beatmap or beatmapset ID in your search to get a single result.
+
 ### Rankings
 
 ![](img/Soloplay10.jpg)
