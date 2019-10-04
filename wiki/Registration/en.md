@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Registration
 
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
