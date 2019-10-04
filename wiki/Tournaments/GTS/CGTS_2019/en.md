@@ -12,7 +12,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 
 ## Tournament schedule
 
-### Regional Phase
+### Regional phase
 
 | Event | Timestamp |
 | --: | :-- |
@@ -26,7 +26,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 | Finals | 2019-09-07/2019-09-08 |
 | Grand Finals | 2019-09-14 |
 
-### Global Phase
+### Global phase
 
 | Event | Timestamp |
 | --: | :-- |
@@ -38,7 +38,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 
 ## Prizes
 
-### Regional Classement
+### Regional classement
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -46,7 +46,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive 2nd place banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive 3rd place banner |
 
-### Global Classement
+### Global classement
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -76,29 +76,23 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
 - [CGTS Discord server](https://discord.gg/C2b4xrH)
 - [Livestream](https://www.twitch.tv/gtsosu)
 
----
-
 ## Participants
 
 *Participants will be announced soon after the screening phase has passed.*
-
----
 
 ## Mappools
 
 *Each mappools will be announced every 7 days (usually Sunday) before the next stage's match timeline.*
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. This tournament is a two-parts tournament. The first part will be a 1v1 tournament within different regions. There will be 7 of these, all played at the same dates. The second part will be a 4v4 between the top 8 of each region.
 2. The players/teams will first play a Qualifiers Stage to seed them accordingly, then will head on to a double-elimination tournament.
-3. The Score System used will be **Score V2.**
+3. The Score System used will be **Score V2**.
 4. Any player who meets the requirements stated in the restrictions part is allowed to play. Since this tournament will aim to get badged, some players might be declined by osu staff, reasons may vary from being unrestricted within the past year, multiaccounting, boosting accounts, etc. The hosts will not be made aware of the exact reasons as to why a player will be declined. Please do not ask them, and contact osu! support instead.
-5. Any staff member apart from **Organizers, Mappoolers, and Referees** is allowed to play.
+5. Any staff members except **Organizers, Mappoolers, and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
@@ -108,7 +102,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
 1. You must join the Discord Server of the tournament to actually be counted as a player. If not, then you won't get on any player lists.
 2. You must sign up with the country flag of your profile.
 
-### Tournament Registration and Region Restrictions
+### Tournament registration and region restrictions
 
 1. In order to be registered, you need to meet the criteria stated in the **[restrictions part.](#restrictions)**
 2. Players sign up individually. When their registration is accepted, they will get a player role with their respective region.
@@ -123,7 +117,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
    - Countries that can play for South East Asia are: Brunei, Cambodia, East Timor, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam.
    - Countries that can play for Oceania are: Australia, Fiji, Kiribati, Marshall Islands, Micronesia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu.
 
-### Stage Regulations
+### Stage regulations
 
 1. There are seven stages in the 1v1 tournament, the Qualifiers, the RO32, the RO16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on if a region gets less players than expected, or much more than expected.
 2. There are five stages in the team tournament, the Qualifiers, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
@@ -135,7 +129,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
    - Quarterfinals: Best-Of-11 (First to 6 points)
    - Semifinals, Finals, and Grand Finals: Best-Of-13 (First to 7 points)
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for each of the following: Qualifiers, RO32, RO16, Quarterfinals, Semifinals, Finals and Grand Finals. For the 1v1 tournaments, every mappool will be the same, due to mapsetters realistically not being able to release 7 mappools every week.
 2. The Loser's Bracket will always play on the same pool as the Winner's bracket of the same weekend.
@@ -145,18 +139,18 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
 6. The size of the NoMod bracket will be of 4 in Round Of 32 and Round Of 16, it will be of 5 in Quarterfinals, and it will be of 6 in Semifinals until Grand Finals.
 7. The size of the Hidden, Hard Rock, and Double Time will be of 2 from RO32 until Quarterfinals, and it will be of 3 from Semifinals until Grand Finals.
 8. The size of the FreeMod pool will be of 3 during the entire tournament.
-9. The FreeMod pool is played with FreeMod activated. Every individual player **can pick Hidden, HardRock or both. At least one player of each team must have at least one mod activated.**
+9. The FreeMod pool is played with FreeMod activated. Every individual player can pick Hidden, HardRock or both. **At least one player of each team must have at least one mod activated.**
 10. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mod activated.
 11. The mappool for each stage will be showcased a week before.
 
-### Scheduling Instructions
+### Scheduling instructions
 
-1. Every stage will be held **during the weekend.** (it is however allowed to schedule on another day if no good time is found during the weekend and a referee is available)
+1. Every stage will be held **during the weekend**. (it is however allowed to schedule on another day if no good time is found during the weekend and a referee is available)
 2. We will try to schedule as best as possible to fit with the timezones. The schedule will be released the previous weekend of each stage.
-3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when your match takes place.
-4. For the team tournament, reschedules may only be requested by **the team captain.**
+3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in that particular week when your match takes place.
+4. For the team tournament, reschedules may only be requested by **the team captain**.
 
-### Match Regulations
+### Match regulations
 
 1. A private lobby will be created 10 minutes before your match by a referee. You will get invited by the referee either right then, or right at the match time. During the team tournament, both teams captains will be invited into the room when it's match time. Then the referees or the captains will invite the other players into the room.
 2. If no staff or referee is available, the match will be postponed.
