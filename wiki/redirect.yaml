@@ -62,16 +62,17 @@
 "packs":                       "Beatmaps/Packs"
 "pack":                        "Beatmaps/Packs"
 
-"best_of_2009":                "Best_Of/2009"
-"best_of_2010":                "Best_Of/2010"
-"best_of_2011":                "Best_Of/2011"
-"best_of_2012":                "Best_Of/2012"
-"best_of_2013":                "Best_Of/2013"
-"best_of_2014":                "Best_Of/2014"
-"best_of_2015":                "Best_Of/2015"
-"best_of_2016":                "Best_Of/2016"
-
 "contest":                     "Contests"
+"best_of_2009":                "Contests#2009"
+"best_of_2010":                "Contests#2010"
+"best_of_2011":                "Contests#2011"
+"best_of_2012":                "Contests#2012"
+"best_of_2013":                "Contests#2013"
+"best_of_2014":                "Contests#2014.1"
+"best_of_2015":                "Contests#2015.1"
+"best_of_2016":                "Contests#2016.1"
+"best_of":                     "Contests#best-of"
+"community_choice":            "Contests#community-choice"
 
 "extended_chat_console":       "Chat_Console#extended-chat-console"
 "extended_chat":               "Chat_Console#extended-chat-console"
@@ -291,12 +292,12 @@
 "katu":                        "Glossary#katu"
 "katsu":                       "Glossary#katu"
 "beat!":                       "Glossary#katu"
-"喝":                           "Glossary#katu"
+"喝":                          "Glossary#katu"
 "keys":                        "Glossary#keys"
 "key":                         "Glossary#keys"
 "kiai":                        "Glossary#kiai"
-"kudosu":                      "Glossary#kudosu"
-"kudosu!":                     "Glossary#kudosu"
+"kudosu":                      "Glossary#kudosu!"
+"kudosu!":                     "Glossary#kudosu!"
 "lead-in":                     "Glossary#lead-in"
 "lead_in":                     "Glossary#lead-in"
 "lead-in_time":                "Glossary#lead-in"
@@ -412,7 +413,6 @@
 "bss_issues": "Guides/BSS_Issues"
 "beatmap_submission_system_issues": "Guides/BSS_Issues"
 "changing_the_artist_or_title":                               "Guides/Changing_the_Artist_or_Title"
-"changing_the_title_text":                                    "Guides/Changing_the_Title_Text"
 "collab_information":                                         "Guides/Collab_Information"
 "collab_info":                                                "Guides/Collab_Information"
 "compressing_files":                                          "Guides/Compressing_Files"
@@ -446,6 +446,9 @@
 "buying_a_tablet":                                            "Guides/Tablet_Purchase"
 "tips_and_tricks_on_skill_improvement":                       "Guides/Tips_and_Tricks_on_Skill_Improvement"
 "videos_from_youTube":                                        "Guides/Videos_From_YouTube"
+
+"guides/changing_the_title_text":                             "Beatmaps/Title_Text#changing-title-text"
+"changing_the_title_text":                                    "Beatmaps/Title_Text#changing-title-text"
 
 "help_center":                 "Help_Centre"
 "help":                        "Help_Centre"
@@ -813,6 +816,7 @@
 "user_config":                                "osu!_Program_Files/User_Configuration_File"
 
 "academy":                     "osu!academy"
+"announcements/osu!academy":   "osu!academy"
 
 "api":                         "osu!api"
 
@@ -1460,8 +1464,8 @@
 "mwc/2018_7k":                 "Tournaments/MWC/2018_7K"
 "mwc/2018/7k":                 "Tournaments/MWC/2018_7K"
 
-"osu!_tag_team_multiplayer_tournament": "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
-"ottmt":                                "Tournaments/osu!_Tag_Team_Multiplayer_Tournament"
+"osu!_tag_team_multiplayer_tournament": "Tournaments/oTTMT"
+"ottmt":                                "Tournaments/oTTMT"
 
 "anzt":    "Tournaments#-aus/nz-osu!standard-tournament"
 "anzt_5s": "Tournaments/ANZT/2018_Summer"
@@ -1523,11 +1527,16 @@
 "visual_setting":              "Visual_Settings"
 "vs":                          "Visual_Settings"
 
-# These redirects block access to index pages. They can be brought back after
-# a change on osu-web allows for page subtitles to use redirects.
+# TODO: These redirects block access to index pages. They can be brought back
+# after a change on osu-web allows for page subtitles to use redirects.
 # see https://github.com/ppy/osu-wiki/pull/1764#issuecomment-431350801
 #
 # "tournaments/owc": "Tournaments#-osu!-world-cup"
 # "tournaments/twc": "Tournaments#-taiko-world-cup"
 # "tournaments/cwc": "Tournaments#-catch-the-beat-world-cup"
 # "tournaments/mwc": "Tournaments#-osu!mania-world-cup"
+
+# Moved in https://github.com/ppy/osu-wiki/pull/2584
+"tournaments/igts":      "Tournaments/GTS"
+"tournaments/igts/2018": "Tournaments/GTS/IGTS_2018"
+"tournaments/igts/2019": "Tournaments/GTS/IGTS_2019"

@@ -59,7 +59,7 @@ Error will always display two values which represents how far off the early hits
 
 #### Unstable rate
 
-Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
+Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as reference, showing how osu-stable calculates unstable rate.
 
 ### Spin
 
@@ -70,7 +70,3 @@ In addition to the accuracy, some information regarding spinners is also seen in
 #### Speed
 
 Speed represents the average RPM (revolutions per minute) on all the spinners in the beatmap. Max is the highest RPM achieved in any of the beatmap's spinners.
-
-#### Unstable rate
-
-Unstable rate represents the average against Max deviation, where lower numbers are better. Formula is unknown.

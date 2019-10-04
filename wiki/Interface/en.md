@@ -143,24 +143,41 @@ The first five groupings are available in tabs below Group and Sort.
 
 ![](img/Soloplay5.jpg)
 
-Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.
+*Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.*
 
-- Only beatmaps who match the criteria of your search will be shown, obviously.
-- In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: `=` (equal to) or `==`, `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), or `!=` (not equal to).
-  - `ar` - Approach Rate
-  - `cs` - Circle Size
-  - `od` - Overall Difficulty
-  - `hp` - HP Drain Rate
-  - `keys` - Number of keys (osu!mania maps only)
-  - `stars` - Star Difficulty
-  - `bpm` - Beats per minute
-  - `length` - Length in seconds
-  - `drain` - Drain Time in seconds
-  - `mode` - Mode - value can be ``osu``, ``taiko``, ``catchthebeat``, or ``mania``, or ``o/t/c/m`` for short.
-  - `status` - Ranked status - value can be ``ranked``, ``approved``, ``pending``, ``notsubmitted``, ``unknown``, or ``loved``, or ``r/a/p/n/u/l`` for short.
-  - `played` - Time since last played in days
-  - `unplayed` - Unplayed maps - no value (use ``unplayed=`` for unplayed maps or ``unplayed!=`` for played maps)
-  - `speed` - Saved osu!mania scroll speed - always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options/#Gameplay) option is off
+Only beatmaps that match the criteria of your search will be shown. By default, any search will be matched against the beatmaps' artists, titles, creators, and tags.
+
+In addition to searching these fields, you can use filters to search through other metadata by combining one of the supported filters with a comparison to a value (for example, `ar=9`).
+
+Supported filters:
+
+- `artist`: Name of the artist
+- `creator`: Name of the beatmap creator
+- `ar`: Approach Rate
+- `cs`: Circle Size
+- `od`: Overall Difficulty
+- `hp`: HP Drain Rate
+- `keys`: Number of keys (osu!mania maps only)
+- `stars`: Star Difficulty
+- `bpm`: Beats per minute
+- `length`: Length in seconds
+- `drain`: Drain Time in seconds
+- `mode`: Mode. Value can be `osu`, `taiko`, `catchthebeat`, or `mania`, or `o`/`t`/`c`/`m` for short.
+- `status`: Ranked status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short.
+- `played`: Time since last played in days
+- `unplayed`: Unplayed maps. No value (use `unplayed=` for unplayed maps or `unplayed!=` for played maps)
+- `speed`: Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options#gameplay) option is off
+
+Supported comparisons:
+
+- `=` or `==`: Equal to
+- `!=`: Not equal to
+- `<`: Less than
+- `>`: Greater than
+- `<=`: Less than or equal to
+- `>=`: Greater than or equal to
+
+You may also enter a beatmap or beatmapset ID in your search to get a single result.
 
 ### Rankings
 

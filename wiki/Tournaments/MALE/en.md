@@ -37,9 +37,9 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Hosts | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
-| Commentators | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
-| Map Selectors | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_SG] [Sheenoboo](https://osu.ppy.sh/users/5704437) |
+| Host | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
+| Commentator | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
+| Map Selector | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_SG] [Sheenoboo](https://osu.ppy.sh/users/5704437) |
 
 ## Links
 

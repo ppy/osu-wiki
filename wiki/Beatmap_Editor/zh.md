@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Editor
 
 ![osu!的谱面编辑器 (Windows 系统)](Compose/Compose.png "osu!的谱面编辑器 (Windows 系统)")

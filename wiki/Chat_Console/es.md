@@ -24,7 +24,7 @@ Desde la mayoría de las pantallas en *osu* puedes presionar `F8` o hacer clic e
 
 ## Consola de chat ampliada
 
-*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") cubrió esta página en el [Episodio 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) junto con [Multijugador](/wiki/Multi/ "Multiplayer").*
+*[osu!academy](/wiki/osu!academy "osu!academy") cubrió esta página en el [Episodio 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) junto con [Multijugador](/wiki/Multi/ "Multiplayer").*
 
 Desde la mayoría de las pantallas en osu! puedes presionar `F9` o hacer clic en el botón `Online Users` en la parte inferior derecha de la pantalla de introducción para alternar la consola de chat extendida. Además de la Consola de chat, el Chat ampliado superpone una lista de paneles en los dos tercios restantes de la pantalla, mostrando información sobre los usuarios que están actualmente conectados.
 

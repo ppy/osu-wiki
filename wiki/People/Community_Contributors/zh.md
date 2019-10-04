@@ -54,7 +54,7 @@ outdated: true
 
 | 用户名                      | 授予原因                                                     |
 |:----------------------------|:-------------------------------------------------------------|
-| [ztrot](https://osu.ppy.sh/users/6347)        | 建立 [osu!学院](/wiki/Announcements/osu!academy) 。          |
+| [ztrot](https://osu.ppy.sh/users/6347)        | 建立 [osu!学院](/wiki/osu!academy) 。          |
 | [Tasha](https://osu.ppy.sh/users/1031958)     | 帮助撰写 osu!weekly 和新闻。                                 |
 | [Flanster](https://osu.ppy.sh/users/447818)   | 杰出摸图贡献（10k+ 次）                                      |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | 杰出摸图贡献（10k+ 次）                                      |

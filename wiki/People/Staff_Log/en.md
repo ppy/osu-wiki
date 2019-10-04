@@ -10,9 +10,9 @@ As of 2014-01-17, management is going to file all staff promotions and retiremen
 
 ## Years
 
-- [2014](./2014)
-- [2015](./2015)
-- [2016](./2016)
-- [2017](./2017)
-- [2018](./2018)
-- [2019](./2019)
+- [2014](/wiki/People/Staff_Log/2014)
+- [2015](/wiki/People/Staff_Log/2015)
+- [2016](/wiki/People/Staff_Log/2016)
+- [2017](/wiki/People/Staff_Log/2017)
+- [2018](/wiki/People/Staff_Log/2018)
+- [2019](/wiki/People/Staff_Log/2019)

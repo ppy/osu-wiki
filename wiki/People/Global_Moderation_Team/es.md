@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Equipo de Moderación Global
 
 El **Equipo de Moderación Global** (formalmente conocido como Administrador, Equipo de Mods Globales o “GreenBAT”), comúnmente referido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación y en los problemas pertinentes a lo largo del staff y la comunidad.

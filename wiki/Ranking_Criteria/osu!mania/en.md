@@ -28,10 +28,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 ### Patterns
 
 - **Anchor**: A pattern that has a relatively high amount of notes in one column compared with another column, usually found within different types of streams.
+- **Bracket**: A pattern that involves multiple trills using columns near each other.
 - **Chord**: Two or more notes pressed at the same time.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams that mix different types of chords. 
 - **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
-- **Hand**: Three notes pressed at the same time.
+- **Hand**: Three notes pressed at the same time. Occasionally referred to as a "triple".
 - **Jack**: Three or more consecutive notes in the same column, usually pressed at a faster pace than surrounding notes.
 - **Jump**: Two notes pressed at the same time.
 - **Jumptrill**: A trill consisting of two alternating jumps.
@@ -54,7 +55,7 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
-- **There must not be more than 6 notes pressed at any given moment.** Most USB-connected keyboards cannot handle 7 simultaneous inputs at a time. Note that this rule does not apply to ends of long notes, as they are released, not pressed.
+- **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section. 
 - **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
 - **If multiple key modes are present in a single beatmap set, the key mode must be denoted in the difficulty name.**
@@ -167,7 +168,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous. 
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
-- **Occasional Triples can be used in a stream with a note that their distances are further than a measure (4 beats).**
+- **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
 ### Insane
 

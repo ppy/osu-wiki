@@ -39,9 +39,6 @@
 
 **[Haz clic aqui para regresar a la página de Modos de Juego][Game_Modes wikilink]**
 
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu! using deprecated ScoreV1 system](./v1 "osu! v1")** -->
-
 ![Gameplay de osu!][osu! Interface image]
 
 El primer modo de juego y homónimo que se basó en la serie ouendan.

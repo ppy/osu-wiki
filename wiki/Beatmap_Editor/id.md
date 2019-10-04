@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Penyunting Beatmap
 
 ![osu!Editor Windowed mode](Compose/Compose.png "osu!Editor Windowed mode")

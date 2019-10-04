@@ -37,11 +37,11 @@ The Catch French Cup 2 was run by various community members by distributing the 
 | :-- | :-- |
 | Host | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Map Selectors | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) |
-| Referees | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Streamers | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
-| Commentators | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
-| Wiki | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Map Selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) |
+| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
+| Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
+| Wiki Editor | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 
 ## Links
 
