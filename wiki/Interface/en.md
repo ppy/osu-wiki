@@ -146,7 +146,9 @@ The first five groupings are available in tabs below Group and Sort.
 Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.
 
 - Only beatmaps who match the criteria of your search will be shown, obviously.
-- In addition to searching beatmap titles, you can use filters to search through other metadata. When combining the list of filters below with a logic symbol: `=` (equal to) or `==`, `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), or `!=` (not equal to).
+- In addition to searching beatmap titles, you can use filters to search through other metadata by combining the list of filters below with a logic symbol: `=` or `==` (equal to), `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), or `!=` (not equal to) and the desired value to filter with.
+  - `artist` - Name of the artist
+  - `creator` - Name of the beatmap creator
   - `ar` - Approach Rate
   - `cs` - Circle Size
   - `od` - Overall Difficulty
