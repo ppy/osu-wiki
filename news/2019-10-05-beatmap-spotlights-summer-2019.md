@@ -275,7 +275,7 @@ With an Approach Rate of 8.8, you can also give a try with DoubleTime on this ma
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
-[![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/illusion.jpg)](https://osu.ppy.sh/beatmapsets/972887)
+[![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/illusion.jpg?1)](https://osu.ppy.sh/beatmapsets/972887)
 
 Being the first Featured Artist mapset for [Jemzuu](https://osu.ppy.sh/users/7890134) (Previously known as AJamez), along with the collaboration from [JBHyperion](https://osu.ppy.sh/users/4879508) and [alienflybot](https://osu.ppy.sh/users/alienflybot), this mapset manages to show challenges with different mapping styles in a neat spread.
 
