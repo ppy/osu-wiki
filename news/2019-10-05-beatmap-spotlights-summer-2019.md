@@ -166,7 +166,7 @@ If this song isn't enough to get you hyped then this mapset sure is!
 
 [ScubDomino](https://osu.ppy.sh/users/8972308) with his collaborators [ImpurePug](https://osu.ppy.sh/users/3124248), [Lv9](https://osu.ppy.sh/users/7232130), [Kalibe](https://osu.ppy.sh/users/3376777), [lewski](https://osu.ppy.sh/users/4980738) and [KKipalt](https://osu.ppy.sh/users/6889573) set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA \~Tai no Kodomotachi\~".
 
-At the forfront stands ScubDomino with a map which feels like a natural extension of the song rather than just another stage in a rhythm game. The high speed combined with the generous circle size allow for each emotional beat of the song to be maximized creating something truly spectacular. In a similar vein, ImpurePug delivers a map not far behind in impact.
+At the forefront stands ScubDomino with a map which feels like a natural extension of the song rather than just another stage in a rhythm game. The high speed combined with the generous circle size allow for each emotional beat of the song to be maximized creating something truly spectacular. In a similar vein, ImpurePug delivers a map not far behind in impact.
 
 Lv9 and Kalibe attempt a different more controled style to much success as well. If you feel the Top diffs are too fast for you, then you can opt for these more technical and stylized maps instead. Lewski and KKipalt keep it simple in their lower diffs respectively despite this song begging them to go faster, but our newer players need something to play too and for those these are just as fun as all the others.
 
@@ -208,7 +208,7 @@ If you crave good speed changes combined with complex patterns, be sure to give 
 
 Even though it's a bit short as it is coming from a arcade rhythm game, Dream to Nightmare definitely lives up to the "Good things come in small packages".
 
-Both [Kqrth](https://osu.ppy.sh/users/4115718)'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781)'s and vrnl low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
+Both [Kqrth](https://osu.ppy.sh/users/4115718)'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781)'s and [vrnl](https://osu.ppy.sh/users/4799788) low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
 
 *written by [Kazu](https://osu.ppy.sh/users/920861)*
 
