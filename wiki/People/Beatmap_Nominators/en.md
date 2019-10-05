@@ -137,7 +137,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101) | Indonesian |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
-| ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
+| ![][flag_DK] [Tailsdk](https://osu.ppy.sh/users/6751666) | Danish |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ### Probationary Beatmap Nominators
@@ -164,7 +164,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | <!-- not sure --> |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ![][flag_GB] [Mbomb](https://osu.ppy.sh/users/3071175) |  |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 | ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) | <!-- not sure --> |
