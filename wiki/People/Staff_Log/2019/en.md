@@ -173,7 +173,7 @@ All users listed below were added on 2019-02-16.
 - Moved [Nepuri](https://osu.ppy.sh/users/6637817) to the Nomination Assessment Team (2019-08-16)
 - Moved [Noffy](https://osu.ppy.sh/users/1541323) to the Nomination Assessment Team (2019-08-25)
 
-### Beatmap Nominator Additions
+### Beatmap Nominator additions
 
 - [Namki](https://osu.ppy.sh/users/5248582) (2019-08-01)
 - [tailsdk](https://osu.ppy.sh/users/6751666) (2019-08-17)
@@ -183,7 +183,7 @@ All users listed below were added on 2019-02-16.
 - [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (2019-08-25)
 - [Sonnyc](https://osu.ppy.sh/users/11771) (2019-08-28)
 
-### Beatmap Nominator Removals
+### Beatmap Nominator removals
 
 - [Nokashi](https://osu.ppy.sh/users/5431196) - inactivity (2019-08-05)
 - [-Luminate](https://osu.ppy.sh/users/4778689) - resignation (2019-08-07)
@@ -208,16 +208,16 @@ All users listed below were added on 2019-02-16.
 - Removed [BanchoBot](https://osu.ppy.sh/users/3) from Developers (2019-09-11)
 - Moved [Marcin](https://osu.ppy.sh/users/722665) to the osu! Alumni (2019-09-26)
 
-### Beatmap Nominator Additions
+### Beatmap Nominator additions
 
 - [Rhytoly](https://osu.ppy.sh/users/8121109) (2019-09-06)
 - [Milan-](https://osu.ppy.sh/users/1052994) (2019-09-10)
 - [Riana](https://osu.ppy.sh/users/1997633) (2019-09-10)
 - [-Aqua](https://osu.ppy.sh/users/7150015) (2019-09-15)
 - [Dergo](https://osu.ppy.sh/users/7439226) (2019-09-23)
-- [Mbomb](https://osu.ppy.sh/users/3071175) (2019-09-30) 
+- [Mbomb](https://osu.ppy.sh/users/3071175) (2019-09-30)
 
-### Beatmap Nominator Removals
+### Beatmap Nominator removals
 
 - [JeirYagtama](https://osu.ppy.sh/users/7483452) - insufficient proficiency (2019-09-08)
 - [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (2019-09-10)
@@ -225,14 +225,14 @@ All users listed below were added on 2019-02-16.
 
 ## October
 
-### Beatmap Nominator Additions
+### Beatmap Nominator additions
 
 - [Greaper](https://osu.ppy.sh/users/2369776) (2019-10-01)
 - [Lafayla](https://osu.ppy.sh/users/5312547) (2019-10-02)
 - [Sanyi](https://osu.ppy.sh/users/7496029) (2019-10-03)
 - [Rocma](https://osu.ppy.sh/users/566276) (2019-10-05)
 
-### Beatmap Nominator Removals
+### Beatmap Nominator removals
 
 - [Surono](https://osu.ppy.sh/users/3611370) - inactivity (2019-10-02)
 - [Lacrima](https://osu.ppy.sh/users/4915649) - resignation (2019-10-03)
