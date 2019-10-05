@@ -215,6 +215,7 @@ All users listed below were added on 2019-02-16.
 - [Riana](https://osu.ppy.sh/users/1997633) (2019-09-10)
 - [-Aqua](https://osu.ppy.sh/users/7150015) (2019-09-15)
 - [Dergo](https://osu.ppy.sh/users/7439226) (2019-09-23)
+- [Mbomb](https://osu.ppy.sh/users/3071175) (2019-09-29) 
 
 ### Beatmap Nominator Removals
 
@@ -222,4 +223,19 @@ All users listed below were added on 2019-02-16.
 - [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (2019-09-10)
 - [bite you death](https://osu.ppy.sh/users/6398464) - insufficient proficiency (2019-09-10)
 
-<!-- last update: 2019-09-26 Marcin -->
+## October
+
+### Beatmap Nominator Additions
+
+- [Greaper](https://osu.ppy.sh/users/2369776) (2019-10-01)
+- [Lafayla](https://osu.ppy.sh/users/5312547) (2019-10-02)
+- [Sanyi](https://osu.ppy.sh/users/7496029) (2019-10-03)
+- [Rocma](https://osu.ppy.sh/users/566276) (2019-10-04)
+
+### Beatmap Nominator Removals
+
+- [Surono](https://osu.ppy.sh/users/3611370) - inactivity (2019-10-02)
+- [Lacrima](https://osu.ppy.sh/users/4915649) - resignation (2019-10-03)
+- [Benita](https://osu.ppy.sh/users/4023183) -inactivity (2019-10-04)
+
+<!-- last update: 2019-10-04 Rocma -->
