@@ -2109,7 +2109,7 @@ Notes:
 
 - Animation name: `menu-back-{n}.png`.
 - The native back button is not skinnable.
-  - If this element is skinned, it will override the new one everywhere, execpt for the [options](/wiki/options).
+  - If this element is skinned, it will override the new one everywhere, except for the [options](/wiki/options).
 
 ---
 
