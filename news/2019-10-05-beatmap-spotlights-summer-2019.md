@@ -164,7 +164,7 @@ An airy skip and a chill-paced dance, this map is a fantastic example of blendin
 
 If this song isn't enough to get you hyped then this mapset sure is!
 
-[ScubDomino](https://osu.ppy.sh/users/8972308) with his collaborators [ImpurePug](https://osu.ppy.sh/users/3124248), [Lv9](https://osu.ppy.sh/users/7232130), [Kalibe](https://osu.ppy.sh/users/3376777), [lewski](https://osu.ppy.sh/users/4980738) and [KKipalt](https://osu.ppy.sh/users/6889573) set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA ~Tai no Kodomotachi~".
+[ScubDomino](https://osu.ppy.sh/users/8972308) with his collaborators [ImpurePug](https://osu.ppy.sh/users/3124248), [Lv9](https://osu.ppy.sh/users/7232130), [Kalibe](https://osu.ppy.sh/users/3376777), [lewski](https://osu.ppy.sh/users/4980738) and [KKipalt](https://osu.ppy.sh/users/6889573) set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA \~Tai no Kodomotachi\~".
 
 At the forfront stands ScubDomino with a map which feels like a natural extension of the song rather than just another stage in a rhythm game. The high speed combined with the generous circle size allow for each emotional beat of the song to be maximized creating something truly spectacular. In a similar vein, ImpurePug delivers a map not far behind in impact.
 
