@@ -111,7 +111,7 @@ Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa
 
 May test release para sa OSX na [makikita dito](https://osu.ppy.sh/community/forums/topics/56460) kasama ang mga instructions kung paano gamitin ang pre-compiled app para magamit ang osu! para sa Mac.
 
-Pwede mo din sundan ang [thread na ito](https://osu.ppy.sh/community/forums/topics/14664) kung paano mapagana ang osu! na hindi gumagamit ng Boot Camp para sa Mac.
+Pwede mo din sundan ang [article na ito](/wiki/Installation/macOS) kung paano mapagana ang osu! sa Mac.
 
 ### Gumagana ba ang osu! sa loob ng Linux?
 

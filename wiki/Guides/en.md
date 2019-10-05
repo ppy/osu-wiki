@@ -49,7 +49,3 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Cropping with Complex Backgrounds](/wiki/Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](/wiki/Cropping_with_Simple_Backgrounds)
 - [Making Properly Centered Spinners](/wiki/Making_Properly_Centered_Spinners)
-
-## Miscellaneous
-
-- [How to Run osu! on Your Mac Without Using Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)

@@ -49,7 +49,3 @@
 - [Как удалить "сложный" фон на картинке](/wiki/Cropping_with_Complex_Backgrounds)
 - [Как удалить "простой" фон на картинке](/wiki/Cropping_with_Simple_Backgrounds)
 - [Создание круглых картинок](/wiki/Making_Properly_Centered_Spinners)
-
-## Прочее
-
-- [Как запустить osu! на Mac без использования Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)

@@ -83,7 +83,6 @@ tags:
     -   [GL Support Issues](/wiki/Guides/GL_Support_Issues)
     -   [How To Get Your Map Ranked](/wiki/Guides/How_To_Get_Your_Map_Ranked)
     -   [How to Play osu!mania](/wiki/Guides/How_to_Play_osu!mania)
-    -   [How to Run osu! on Your Mac Without Using Boot Camp](/wiki/Guides/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)
     -   [How to Time Songs](/wiki/Guides/How_to_Time_Songs)
     -   [How to Use the Offset Wizard](/wiki/Guide/How_to_Use_the_Offset_Wizard)
     -   [Live Streaming osu!](/wiki/Guides/Live_Streaming_osu!)
