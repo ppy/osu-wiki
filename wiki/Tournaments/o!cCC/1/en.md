@@ -8,7 +8,7 @@ tags:
 
 ![o!cCC Logo](img/logo.jpg)
 
-The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament are based on **osu!standard maps** only. It is the installment of the osu!catch Convert Cup.
+The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes **osu!standard maps** only. This is the first installment of the osu!catch Convert Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament
 | --: | :-- |
 | Registration Phase | 2019-08-18/2019-09-07 |
 | Live Drawings | 2019-09-15 (15:00 UTC) |
-| Qualifiers Stage | 2019-09-21/2019-09-22 |
+| Qualifiers stage | 2019-09-21/2019-09-22 |
 | Round of 32 | 2019-09-28/2019-09-29 |
 | Round of 16 | 2019-10-05/2019-10-06 |
 | Quarterfinals | 2019-10-12/2019-10-13 |
@@ -120,7 +120,7 @@ The osu!catch Convert Cup is run by various community members.
 - Tiebreaker
   - **[Feryquitous - Yoi no Tamoto, Yoru to Futari (Ametrin) \[Monogatari\]](https://osu.ppy.sh/beatmapsets/891830#fruits/1864425)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc)**
 
@@ -151,7 +151,7 @@ The osu!catch Convert Cup is run by various community members.
 | Saturday, 2019-09-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Aryssiel ![][flag_CL] | 0 | **4** | ![][flag_PH] **Jemzuu** | -win by default- |
-| chickennando ![][flag_AU] | 1 | **4** | **Galaxi** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/55160792) |
+| chickennando ![][flag_AU] | 1 | **4** | ![][flag_ID] **Galaxi** | [#1](https://osu.ppy.sh/community/matches/55160792) |
 | **Holloh** ![][flag_FR] | **4** | 0 | ![][flag_US] wonjae | [#1](https://osu.ppy.sh/community/matches/55161029) |
 | **Roido** ![][flag_PH] | **4** | 0 | ![][flag_PH] -MomoX | [#1](https://osu.ppy.sh/community/matches/55163605) |
 | **Noulayfe** ![][flag_FR] | **4** | 1 | ![][flag_VN] Saaya | [#1](https://osu.ppy.sh/community/matches/55166154) |
@@ -201,7 +201,7 @@ The osu!catch Convert Cup is run by various community members.
 
 ### Qualifier Stage Details
 
-The qualifiers stage is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
+The Qualifiers stage is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
 
 ### Winning Condition
 
