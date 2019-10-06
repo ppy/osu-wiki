@@ -68,6 +68,6 @@ Certain offenses carry a minimum duration (usually 48 hours or more) if they are
 
 If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
-Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed ([conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
 Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.
