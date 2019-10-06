@@ -43,14 +43,6 @@ Ada sekumpulan aturan yang lebih rinci untuk pembuatan beatmap, yang dikenal seb
 2.  **Tetap dalam topik bahasan dalam Diskusi Beatmap.** Topik ini bertujuan untuk membahas beatmap yang dipertanyakan, dan tidak ada bahasan lain. Jika Anda memiliki masalah dengan sesuatu yang tidak berkaitan langsung dengan beatmap, kirim masalah anda di forum yang sesuai.
 3.  **Dilarang menjiplak atau mencoba mencuri karya orang lain.** Jangan juga mengunggah atau menggunakan karya orang lain tanpa izin spesifik dari mereka (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan mapper lain).
 
-## Peraturan Off-Topic
-
-*Peraturan-peraturan di bawah ini berlaku HANYA di dalam sub-forum [Off-Topic](https://osu.ppy.sh/community/forums/52), kecuali ditentukan.*
-
-1. **Tidak ada topik dalam Off-Topic yang bernilai.** Secara sederhana mereka sampah. Jika topik Anda terus dipindahkan ke Off-Topic, mereka dinilai tidak layak untuk didiskusikan dengan serius. Sadarlah.
-2. **Kebodohan yang berlebih itu buruk.** Menjadi sangat bodoh itu baik-baik saja, dan jatuh ke dalam modus operandi shitposting. Kebodohan sejati tidak pernah baik. Jika Anda tidak dapat membedakannya, Anda sudah melanggar aturan.
-3. **Topik ulang tahun hanya diperbolehkan di Off-Topic.** Semua topik ulang tahun harus disertai dengan tidak kurang dari (3) gambar gadis anime yang menari atau mereka akan dengan *kejam* dibuang di bawah bus.
-
 ## Apa yang terjadi jika saya melanggar peraturan?
 
 Jika Anda menemukan diri Anda di ujung yang salah dari aturan komunitas kami, hal-hal buruk akan terjadi.

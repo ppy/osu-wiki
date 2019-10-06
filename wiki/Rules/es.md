@@ -43,14 +43,6 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
   2.  **Mantén el tema en las discusiones de beatmaps.** Estos hilos/discusiones son sobre el beatmap en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el beatmap, publícalo en el foro apropiado.
   3.  **No plagies o intentes robar el trabajo de otros.** Tampoco subas o uses el trabajo de otros sin su permiso explícito (incluyendo, pero no limitado a skins y dificultades de invitados).
 
-## Reglas Off-Topic
-
-  *Las siguientes reglas aplican SÓLO al subforo [Off-Topic](https://osu.ppy.sh/community/forums/52) a menos que se diga lo contrario.*
-
-  1.  **Ningún tema en Off-Topic tiene valor.** Son simplemente basura. Si tus hilos son constantemente movidos a Off-Topic, es porque son juzgados como no merecerdores de una discusión seria. Capta la insinuación.
-  2.  **El exceso de estupidez es malo.** Ser cariñosamente tonto está bien y cae dentro del modus operandi del shitposting (publicaciones sin sentido/basura). La estupidez genuina nunca está bien. Si no eres capaz de distinguir la diferencia, ya estás rompiendo la regla.
-  3.  **Los hilos de cumpleaños están permitidos solo en Off-Topic y en ningún otro lado.** Todos los hilos de cumpleaños deben ser acompañados de no menos de tres (3) imágenes de chicas animé bailando o sino serán *implacablemente* arrojados bajo un bus.
-
 ## ¿Qué pasa si rompo las reglas?
 
   Si te encuentras en el lado equivocado de nuestras reglas de comunidad, cosas malas pasarán.
