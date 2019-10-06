@@ -1539,3 +1539,7 @@
 "tournaments/igts":      "Tournaments/GTS"
 "tournaments/igts/2018": "Tournaments/GTS/IGTS_2018"
 "tournaments/igts/2019": "Tournaments/GTS/IGTS_2019"
+
+# Deleted in https://github.com/ppy/osu-wiki/pull/2642
+"how_to_run_osu!_on_your_mac_without_using_boot_camp":        "Installation/macOS"
+"guides/how_to_run_osu!_on_your_mac_without_using_boot_camp": "Installation/macOS"
