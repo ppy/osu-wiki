@@ -12,7 +12,7 @@ BanchoBot commands start with `!` followed by the command. These commands work i
 
 You can also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
 
-*Notice: The `SEARCH` and `REQUEST` commands are not included, as they do not work.*
+*Notice: The `REQUEST` command is not included because it is no longer supported.*
 
 *Note: The user argument is case-insensitive, as usernames are case-insensitive.*
 
@@ -31,7 +31,6 @@ Shows a list of available BanchoBot commands.
 ```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: SEARCH <query>|next|prev
 BanchoBot: WHERE <user>
 BanchoBot: STATS <user>
 BanchoBot: FAQ <item>|list
@@ -93,8 +92,7 @@ BanchoBot: Accuracy: 94.19%
 
 Shows the entered user's current location.
 
-*Note: by default, this only shows the user's country.
-In case the user has `Share your city location with others` toggle enabled, it may also display their city.*
+*Note: By default, this only shows the user's country. If the user has `Share your city location with others` enabled, it may also display their city.*
 
 #### Usage Example
 
@@ -137,7 +135,7 @@ Tama: ok
 !REPORT <user> <reason>
 ```
 
-*Note: to learn more about what's worth reporting, head to [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour) article.
+*For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
 
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
