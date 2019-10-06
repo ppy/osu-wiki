@@ -15,7 +15,7 @@
 
 Чтобы быстро открыть вкладку с BanchoBot внутри osu!, отправьте в чат команду `/bb`.
 
-*Примечание: команда `SEARCH` есть в списке `!HELP`, но не работает, как и команда `REQUEST`.*
+*Примечание: команда `REQUEST` есть в списке `!HELP`, но не работает.*
 
 *Примечание: параметр `<пользователь>` нечувствителен к регистру.*
 
@@ -32,7 +32,6 @@
 ```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: SEARCH <query>|next|prev
 BanchoBot: WHERE <user>
 BanchoBot: STATS <user>
 BanchoBot: FAQ <item>|list
