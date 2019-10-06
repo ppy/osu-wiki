@@ -2,7 +2,7 @@
 <!--что за "The version name of a beatmap."?  -->
 **Easy** также может означать:
 
--   [Модификатор игры](/wiki/Game_Modifiers/#easy).
+-   [Игровой мод](/wiki/Game_Modifiers/#easy).
 -   Название версии карты.
 -   Сложность карты:
     -   ![](/wiki/shared/diff/easy-s.png) [Easy](/wiki/Difficulties/Easy), для osu!standard.
