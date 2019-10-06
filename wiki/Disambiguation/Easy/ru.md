@@ -1,8 +1,8 @@
 # Easy
+<!--что за "The version name of a beatmap."?  -->
+**Easy** также может означать:
 
-**Easy** может также относиться к:
-
--   [Игровой модификатор](/wiki/Game_Modifiers/#easy).
+-   [Модификатор игры](/wiki/Game_Modifiers/#easy).
 -   Название версии карты.
 -   Сложность карты:
     -   ![](/wiki/shared/diff/easy-s.png) [Easy](/wiki/Difficulties/Easy), для osu!standard.
