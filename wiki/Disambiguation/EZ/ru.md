@@ -1,8 +1,8 @@
 # EZ
+<!-- опять же, что за "The version name of a beatmap."?  -->
+**EZ** также может означать:
 
-**EZ** может также относиться к:
-
--   [Модификатор игры Easy](/wiki/Game_Modifiers/#easy).
+-   [Easy мод](/wiki/Game_Modifiers/#easy).
 -   Название версии карты.
 -     Сложность карты:
     -   ![](/wiki/shared/diff/easy-m.png) EZ, для osu!mania.
