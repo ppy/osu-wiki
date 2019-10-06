@@ -6,9 +6,9 @@ tags:
 
 # Continental Global Taiko Showdown 2019
 
-![CGTS 2019 Logo](img/logo.png)
+![CGTS 2019 Logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 
 ## Prizes
 
-### Regional classement
+### Regional
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -46,7 +46,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive 2nd place banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive 3rd place banner |
 
-### Global classement
+### Global
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -56,7 +56,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is an advanced 
 
 ## Organisation
 
-The Continental Global Taiko Showdown 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Continental Global Taiko Showdown 2019 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -104,7 +104,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members b
 
 ### Tournament registration and region restrictions
 
-1. In order to be registered, you need to meet the criteria stated in the **[restrictions part.](#restrictions)**
+1. In order to be registered, you need to meet the criteria stated in the **[Restrictions section](#restrictions)**.
 2. Players sign up individually. When their registration is accepted, they will get a player role with their respective region.
 3. The captain for each region's team by default will be the winner of the 1v1 tournament for that region. He can either ask to change captain, if him and the new captain agree, or it can be changed by the team, if everyone else on the team agrees.
 4. The captain is going to be the one who reschedules a match if needed and will ensure that his teammates are here for the matches.
