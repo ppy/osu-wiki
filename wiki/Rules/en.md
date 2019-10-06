@@ -29,7 +29,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 2.  **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
 3.  **Be productive with your criticism without resorting to personal attacks.** Criticism is a wonderful thing when done properly, but if you're resorting to personal attacks to make your point, you're doing it wrong and you should feel bad.
 4.  **Keep threads relevant, and avoid resurrecting older topics if the conversation has died out.** If a topic has been dead for years, it isn't really relevant any more, so just let it fade away. Post a new one, or maybe search and see if someone has answered your question already.
-5.  **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. They should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
+5.  **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. The images should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
 6.  **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
 7.  **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
@@ -49,7 +49,7 @@ A set of more detailed rules for beatmap construction exists, known as the [Rank
 
 1. **No topic in Off-Topic has value.** They are put simply, trash. If your threads keep getting moved to Off-Topic, they are being judged to be unworthy of serious discussion. Take the hint.
 2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
-3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
+3. **Birthday threads are allowed only in Off-Topic, and nowhere else.**
 
 ## What happens if I break the rules?
 
@@ -68,6 +68,6 @@ Certain offenses carry a minimum duration (usually 48 hours or more) if they are
 
 If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
-Restricted accounts can not play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed ([conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed ([conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
 Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.
