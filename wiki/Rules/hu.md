@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c4b0c733cf4e6f3a2ffbe49a5bfa4e44ba946cd4
+---
+
 # Szabályok
 
 Ezek az általános szabályok egyfajta alapként szolgálnak, hogy az osu! egy vidám, és barátságos hely legyen mindenki számára.

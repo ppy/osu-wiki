@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c4b0c733cf4e6f3a2ffbe49a5bfa4e44ba946cd4
+---
+
 # 규칙
 
 이곳에 명시된 규칙들은 osu! 커뮤니티를 누구에게나 환영받을 수 있는 장소로 만들기 위한 기본적인 것들입니다.

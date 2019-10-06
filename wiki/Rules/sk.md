@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c4b0c733cf4e6f3a2ffbe49a5bfa4e44ba946cd4
+---
+
 # Pravidlá
 
 Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunitu zábavným a vítajúcím miestom pre všetkých.
