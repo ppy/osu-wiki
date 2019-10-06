@@ -2,7 +2,7 @@
 <!-- опять же, что за "The version name of a beatmap."?  -->
 **EZ** также может означать:
 
--   [Easy мод](/wiki/Game_Modifiers/#easy).
+-   [Игровой мод Easy](/wiki/Game_Modifiers/#easy).
 -   Название версии карты.
 -     Сложность карты:
     -   ![](/wiki/shared/diff/easy-m.png) EZ, для osu!mania.
