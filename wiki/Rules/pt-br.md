@@ -49,7 +49,7 @@ Uma página de regras mais detalhadas para a elaboração de um beatmap existe, 
 
 1. **Nenhum tópico no off-topic tem qualquer valor.** De forma simples, eles são lixo. Caso seus tópicos estejam sendo movidos constantemente para o off-topic, eles estão sendo julgados como algo sem valor de uma discussão séria. Serve como dica?
 2. **Estupidez excessiva é ruim.** Ser claramente um idiota não tem problema, e entra no modus operandi de shitposting (postar conteúdo sem valor algum). Estupidez genuina nunca é bom. Caso tenha problemas em distinguir a diferença entre as duas, você já está quebrando a regra.
-3. **Tópicos de aniversário são apenas permitidos no off-topic, e em nenhum outro lugar.**
+3. **Tópicos de aniversário são apenas permitidos no off-topic, e em nenhum outro lugar.** Todos os tópicos de aniversário precisam ter pelo menos (3) imagens de menininhas de anime dançando ou ele será *brutalmente* atirado na frente de um ônibus em movimento.
 
 ## O que acontece se eu quebrar as regras?
 
