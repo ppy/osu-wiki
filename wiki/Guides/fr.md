@@ -49,7 +49,3 @@ Vous trouverez ci-dessous une liste triée des guides créés par des membres de
 - [Recadrer des arrière-plans complexes](/wiki/Cropping_with_Complex_Backgrounds)
 - [Recadrer des arrière-plans simples](/wiki/Cropping_with_Simple_Backgrounds)
 - [Faire des spinners proprement centrés](/wiki/Making_Properly_Centered_Spinners)
-
-## Divers
-
-- [Comment lancer osu! sur votre Mac sans utiliser Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)

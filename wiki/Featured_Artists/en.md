@@ -4,7 +4,7 @@
 
 **Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for unrestricted use in the community. Some of the featured artists have also composed tracks specifically for osu! and released them as osu! exclusives.
 
-[A section of the website](https://osu.ppy.sh/beatmaps/artists) lists and details each featured artist. On the artists' pages, you can find general information about them, as well as all of the tracks licensed for use in osu! accompanied by pre-timed .osz files for use in beatmapping.
+[A section of the website](https://osu.ppy.sh/beatmaps/artists) lists and details each featured artist. On the artists' pages, you can find general information about them, as well as all of the tracks licensed for use in osu! accompanied by pre-timed `.osz` files for use in beatmapping.
 
 ## Mappers' Guild
 

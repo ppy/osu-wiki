@@ -19,7 +19,7 @@ To keep the official community hubs safe, osu! has a dedicated moderation team t
 Fortunately, it is still easy for you to help out keeping everything safe, here are some things you can do to help:
 
 - Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums on the web.
-- If you see something happening that you think is inappropriate or disturbing in any way, use the `!report` command in the in-game chat to notify the moderators of it.
+- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
 
 ## Help other community members
 

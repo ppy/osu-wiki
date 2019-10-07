@@ -429,7 +429,6 @@
 "how_to_get_your_map_ranked":                                 "Guides/How_To_Get_Your_Map_Ranked"
 "how_to_get_my_map_ranked":                                   "Guides/How_To_Get_Your_Map_Ranked"
 "how_to_play_osu!mania":                                      "Guides/How_to_Play_osu!mania"
-"how_to_run_osu!_on_your_mac_without_using_boot_camp":        "Guides/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp"
 "how_to_time_songs":                                          "Guides/How_to_Time_Songs"
 "how_to_use_the_offset_wizard":                               "Guides/How_to_Use_the_Offset_Wizard"
 "live_streaming_osu!":                                        "Guides/Live_Streaming_osu!"
@@ -1540,3 +1539,7 @@
 "tournaments/igts":      "Tournaments/GTS"
 "tournaments/igts/2018": "Tournaments/GTS/IGTS_2018"
 "tournaments/igts/2019": "Tournaments/GTS/IGTS_2019"
+
+# Deleted in https://github.com/ppy/osu-wiki/pull/2642
+"how_to_run_osu!_on_your_mac_without_using_boot_camp":        "Installation/macOS"
+"guides/how_to_run_osu!_on_your_mac_without_using_boot_camp": "Installation/macOS"

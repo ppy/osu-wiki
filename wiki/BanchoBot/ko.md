@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 반초봇
 
 ![반초봇의 유저 카드](img/BanchoBot.jpg "반초봇의 유저 카드")
