@@ -32,7 +32,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 | Bouger vers la droite                | `Right Arrow` |
 | Dash! (2x la vitesse de déplacement) | `Left Shift`  |
 
-## Mode osu! Mania
+## Mode osu!Mania
 
 | Nom           | Par défaut |
 |----------------|---------|
