@@ -10,7 +10,7 @@ Don't be alarmed, but things are about to get a little SPOOKY around here at the
 
 Calling all artists! 
 
-Step forth and brandish thy pen (or other drawing implement of choice) as vampire hunters once wielded wooden stakes and silver bullets, because it's DRAWING time! **Scribble any of the osu! mascots (official or community) in a Halloween themed piece** for your shot at glory, prizes, and the right to survive the coming blood moon!
+Step forth and brandish thy pen (or other drawing implement of choice) as vampire hunters once wielded wooden stakes and silver bullets, for it is DRAWING time! **Scribble any of the osu! mascots (official or community) in a Halloween themed piece** for your shot at glory, prizes, and the right to survive the coming blood moon!
 
 If you're brave enough to take a stab, you've got **14** days from the date of this post to make it happen, before we pass off all valid entries to the osu! community to once again, agonize over a thoroughly impossible round of voting, as is the norm for these things.
 
