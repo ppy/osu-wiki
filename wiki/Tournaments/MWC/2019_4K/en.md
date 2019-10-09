@@ -114,7 +114,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_CN] | China | **02:00 UTC** | 02:00 UTC-04 | 10:00 UTC+08 | ² |
+| United States | ![][flag_US] | ![][flag_CN] | China | **02:00 UTC** | 22:00 (Sat.) UTC-04 | 10:00 UTC+08 | ² |
 | Japan | ![][flag_JP] | ![][flag_IT] | Italy | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 | ² |
 | South Korea | ![][flag_KR] | ![][flag_PH] | Philippines | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ¹ |
 | Singapore | ![][flag_SG] | ![][flag_JP] | Japan | **13:00 UTC** | 21:00 UTC+08 | 22:00 UTC+09 | ³ |
