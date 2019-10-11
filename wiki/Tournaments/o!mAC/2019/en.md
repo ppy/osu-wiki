@@ -45,7 +45,7 @@ The osu!mania Asian's Champions 2019 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/946117)
-- [Challonge](https://challonge.com/zh_CN/asianschampions2019)
+- [Challonge](https://challonge.com/asianschampions2019)
 - [Livestream](https://www.twitch.tv/asianschampions)
 - [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs)
 - [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU)
