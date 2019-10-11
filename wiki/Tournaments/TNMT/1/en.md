@@ -103,19 +103,19 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 ### Semifinals
 
 - FreeMod
-- [Lindsey Stirling - Something Wild (feat. Andrew McMahon In the Wilderness) (Rivals_7) \[Enigma\]](https://osu.ppy.sh/beatmapsets/882820#mania/1845621)
-- [lapix - Kill The Beat (Tofu1222) \[juankristal's Ultra Stage\]](https://osu.ppy.sh/beatmapsets/861400#mania/1822249)
-- [onoken - Ramua (LovelySerenade) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
-- [Yunomi - Mentai Cosmic (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/591660#mania/1252001)
-- [Nekomata Master ft. Haruka Shimotsuki - Element of SPADA (Polytetral) \[Couil's Defender (178.5)\]](https://osu.ppy.sh/beatmapsets/1033904#mania/2161746)
-- [Cardboard Box - The Limit Does Not Exist (Asherz007) \[Mentos' Insane\]](https://osu.ppy.sh/beatmapsets/704152#mania/1490013)
-- [Cres - End Time (Couil) \[Time End\]](https://osu.ppy.sh/beatmapsets/815917#mania/1711136)
-- [Stellabee - in heaven (Vortex-) \[anhedonia\]](https://osu.ppy.sh/beatmapsets/920947#mania/1923231)
-- [Seiya Murai - Der Wald (kors k Remix) (Wh1teh) \[wubwub\]](https://osu.ppy.sh/beatmapsets/452249#mania/970082)
-- [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix (Dubstek) \[Love Me Senpai\]](https://osu.ppy.sh/beatmapsets/942796#mania/1968882)
-- [PSYQUI - Education (Dergo) \[bye4now's university\]](https://osu.ppy.sh/beatmapsets/983953#mania/2129202)
-- [Tipper - Cubic Squeal (Lusty Platypus) \[Passable\]](https://osu.ppy.sh/beatmapsets/771447#mania/1959674)
-- [encX - One Day (Lenfried-) \[4K SV\]](https://osu.ppy.sh/beatmapsets/596525#mania/1413835)
+  - [Lindsey Stirling - Something Wild (feat. Andrew McMahon In the Wilderness) (Rivals_7) \[Enigma\]](https://osu.ppy.sh/beatmapsets/882820#mania/1845621)
+  - [lapix - Kill The Beat (Tofu1222) \[juankristal's Ultra Stage\]](https://osu.ppy.sh/beatmapsets/861400#mania/1822249)
+  - [onoken - Ramua (LovelySerenade) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
+  - [Yunomi - Mentai Cosmic (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/591660#mania/1252001)
+  - [Nekomata Master ft. Haruka Shimotsuki - Element of SPADA (Polytetral) \[Couil's Defender (178.5)\]](https://osu.ppy.sh/beatmapsets/1033904#mania/2161746)
+  - [Cardboard Box - The Limit Does Not Exist (Asherz007) \[Mentos' Insane\]](https://osu.ppy.sh/beatmapsets/704152#mania/1490013)
+  - [Cres - End Time (Couil) \[Time End\]](https://osu.ppy.sh/beatmapsets/815917#mania/1711136)
+  - [Stellabee - in heaven (Vortex-) \[anhedonia\]](https://osu.ppy.sh/beatmapsets/920947#mania/1923231)
+  - [Seiya Murai - Der Wald (kors k Remix) (Wh1teh) \[wubwub\]](https://osu.ppy.sh/beatmapsets/452249#mania/970082)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix (Dubstek) \[Love Me Senpai\]](https://osu.ppy.sh/beatmapsets/942796#mania/1968882)
+  - [PSYQUI - Education (Dergo) \[bye4now's university\]](https://osu.ppy.sh/beatmapsets/983953#mania/2129202)
+  - [Tipper - Cubic Squeal (Lusty Platypus) \[Passable\]](https://osu.ppy.sh/beatmapsets/771447#mania/1959674)
+  - [encX - One Day (Lenfried-) \[4K SV\]](https://osu.ppy.sh/beatmapsets/596525#mania/1413835)
 - Tiebreaker
   - **[gmtn. vs. kozato (fw. ) & gmtn. (witch's slave) - squartatrice vs disperagioia (DoNotMess) \[Purification\]](https://osu.ppy.sh/beatmapsets/694536#mania/1469347)**
 
@@ -139,11 +139,11 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 ### Round of 16
 
 - FreeMod
-  - [Primastella - Koigokoro (_underjoy) \[Kokoro\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2110798)
+  - [Primastella - Koigokoro (\_underjoy) \[Kokoro\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2110798)
   - [Ani - Ververg (feat. B) (Rinzler) \[Usagi's Lv.12,1\]](https://osu.ppy.sh/beatmapsets/317967#mania/708608)
   - [DJ Siesta - Another Day (Polytetral) \[riu's Serenity (edited)\]](https://osu.ppy.sh/beatmapsets/1026737#mania/2147167)
   - [antiPLUR - Runengon (Raveille) \[Hard\]](https://osu.ppy.sh/beatmapsets/971561#mania/2034201)
-  - [Umeboshi Chazuke - Bison Charge (_Asha) \[MEGA's Hard\]](https://osu.ppy.sh/beatmapsets/838465#mania/1755410)
+  - [Umeboshi Chazuke - Bison Charge (\_Asha) \[MEGA's Hard\]](https://osu.ppy.sh/beatmapsets/838465#mania/1755410)
   - [w_tre - Shannon's Theorem (ByeForNow) \[Medium\]](https://osu.ppy.sh/beatmapsets/719672#mania/1519707)
   - [RevenG - Sakura (Vortex-) \[Cherry Blossom [NO SLOWJAMS]\]](https://osu.ppy.sh/beatmapsets/1011359#mania/2116953)
   - [aaaa - carnation (Elekton) \[fascination\]](https://osu.ppy.sh/beatmapsets/657239#mania/1392215)
@@ -166,7 +166,7 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
   - [void - Valedict (Tidek) \[Hard\]](https://osu.ppy.sh/beatmapsets/619834#mania/1306452)
   - [rainlord. - i wonder. (Hydria) \[hard.\]](https://osu.ppy.sh/beatmapsets/998152#mania/2087790)
 - Tiebreaker
-  - **[sakuzyo - After Altale (_underjoy) \[End of a Journey\]](https://osu.ppy.sh/beatmapsets/576590#mania/1220666)**
+  - **[sakuzyo - After Altale (\_underjoy) \[End of a Journey\]](https://osu.ppy.sh/beatmapsets/576590#mania/1220666)**
 
 ### Qualifiers
 
