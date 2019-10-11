@@ -68,30 +68,30 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
   - [V.K - Hua Sui Yue (Benzopirene) \[Blossom\]](https://osu.ppy.sh/beatmapsets/993473#mania/2077449)
   - [Redemptive - Adrenaline (Nick Wilde) \[insane\]](https://osu.ppy.sh/beatmapsets/837456#mania/1772478)
 - Tiebreaker
-  - [t+pazolite - Pump up UR NRG (DoNotMess) \[PuMP\]](https://osu.ppy.sh/beatmapsets/762335#mania/1602846)
+  - **[t+pazolite - Pump up UR NRG (DoNotMess) \[PuMP\]](https://osu.ppy.sh/beatmapsets/762335#mania/1602846)**
 
 ### Group Stage
 
 - FreeMod
-  - [Tennyson - No Answer \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
-  - [The Flashbulb - Cycles \[Desire\]](https://osu.ppy.sh/beatmapsets/773386#mania/1625709)
-  - [PSYQUI - Shuushinorei \[goodnight.\]](https://osu.ppy.sh/beatmapsets/992766#mania/2076117)
-  - [Various Artist - ATing's LN Pack \[Renai circulation\]](https://osu.ppy.sh/beatmapsets/911475#mania/1903612)
-  - [Izayoi - Night of Knights \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
-  - [Thaehan - Doki-Doki \[4k Hard\]](https://osu.ppy.sh/beatmapsets/579878#mania/1227947)
-  - [ZUN - Plastic Mind.arr \[Lvl 15\]](https://osu.ppy.sh/beatmapsets/485425#mania/1035232)
-  - [Shawn Wasabi - Pizza Rolls (Metal x EDM Mashup) \[Adtw's WTF\]](https://osu.ppy.sh/beatmapsets/333704#mania/741543)
-  - [brothel. - timmy. \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
+  - [Tennyson - No Answer (ByeForNow) \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
+  - [The Flashbulb - Cycles (FAMoss) \[Desire\]](https://osu.ppy.sh/beatmapsets/773386#mania/1625709)
+  - [PSYQUI - Shuushinorei (RuleBlazing) \[goodnight.\]](https://osu.ppy.sh/beatmapsets/992766#mania/2076117)
+  - [Various Artist - ATing's LN Pack (ATing) \[Renai circulation\]](https://osu.ppy.sh/beatmapsets/911475#mania/1903612)
+  - [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
+  - [Thaehan - Doki-Doki (Hiranaka) \[4k Hard\]](https://osu.ppy.sh/beatmapsets/579878#mania/1227947)
+  - [ZUN - Plastic Mind.arr (thenoob23) \[Lvl 15\]](https://osu.ppy.sh/beatmapsets/485425#mania/1035232)
+  - [Shawn Wasabi - Pizza Rolls (Metal x EDM Mashup) (-BANGKE-) \[Adtw's WTF\]](https://osu.ppy.sh/beatmapsets/333704#mania/741543)
+  - [brothel. - timmy. (Nick Wilde) \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
 - Tiebreaker
-  - **[Team Grimoire - MOTHER FUCXXXXXer \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)**
+  - **[Team Grimoire - MOTHER FUCXXXXXer (_VianK_) \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)**
 
 ### Qualifiers
 
-- [Culprate & Dictate - Pencilina \[Stage 1 : Paranoid\]](https://osu.ppy.sh/beatmapsets/991059#mania/2072838)
-- [Hyper Potions - Ski \[Stage 2: Lubricity\]](https://osu.ppy.sh/beatmapsets/1030043#mania/2153826)
-- [senya - Kimi to Dareka no Yasashisa ni \[Stage 3 : Great Harmony\]](https://osu.ppy.sh/beatmapsets/981019#mania/2053009)
-- [SOUND VOLTEX IV HEAVENLY HAVEN (Laur) - Absolute Domination \[Stage 4 : Devastation\]](https://osu.ppy.sh/beatmapsets/1031176#mania/2156349)
-- [東方紅魔郷 ~ the Embodiment of Scarlet Devil. (PHOENIX Project) - Youma Yakou \[Stage 5: Umbrakinesis\]](https://osu.ppy.sh/beatmapsets/1012614#mania/2119478)
+- [Culprate & Dictate - Pencilina (Noch Einen) \[Stage 1 : Paranoid\]](https://osu.ppy.sh/beatmapsets/991059#mania/2072838)
+- [Hyper Potions - Ski (HowToPlayLN) \[Stage 2: Lubricity\]](https://osu.ppy.sh/beatmapsets/1030043#mania/2153826)
+- [senya - Kimi to Dareka no Yasashisa ni (Virtue-) \[Stage 3 : Great Harmony\]](https://osu.ppy.sh/beatmapsets/981019#mania/2053009)
+- [Laur - Absolute Domination (chouyaa) \[Stage 4 : Devastation\]](https://osu.ppy.sh/beatmapsets/1031176#mania/2156349)
+- [PHOENIX Project - Youma Yakou (FAMoss) \[Stage 5: Umbrakinesis\]](https://osu.ppy.sh/beatmapsets/1012614#mania/2119478)
 
 ## Ruleset
 
