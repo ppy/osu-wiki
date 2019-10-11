@@ -187,7 +187,7 @@
 | **Davvyforte** | **6** | 5 | palmEuEi |
 | Halo- | -1 | **0** | **Antalf** |
 | Ladylag | -1 | **0** | **NestleiFan** |
-| Antalf | 3 | 6 | **NestleiFan** |
+| Antalf | 3 | **6** | **NestleiFan** |
 
 ### 半决赛
 

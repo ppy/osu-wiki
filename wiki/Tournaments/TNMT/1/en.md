@@ -184,7 +184,7 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 | **Davvyforte** | **6** | 5 | palmEuEi |
 | Halo- | -1 | **0** | **Antalf** |
 | Ladylag | -1 | **0** | **NestleiFan** |
-| Antalf | 3 | 6 | **NestleiFan** |
+| Antalf | 3 | **6** | **NestleiFan** |
 
 ### Semifinals
 
