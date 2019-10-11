@@ -96,7 +96,7 @@ The osu!mania Asian's Champions 2019 is run by various community members.
 
 ### Tournament registration
 
-- The flag on your profile must be inside one of Asian continent. For complete list you can visit [following page](https://www.worldometers.info/geography/how-many-countries-in-asia/)
+- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [worldometers](https://www.worldometers.info/geography/how-many-countries-in-asia/).
 
 ### Match instructions
 
