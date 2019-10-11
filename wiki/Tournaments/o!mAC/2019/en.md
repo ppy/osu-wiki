@@ -82,7 +82,7 @@ The osu!mania Asian's Champions 2019 is run by various community members.
   - [Shawn Wasabi - Pizza Rolls (Metal x EDM Mashup) (-BANGKE-) \[Adtw's WTF\]](https://osu.ppy.sh/beatmapsets/333704#mania/741543)
   - [brothel. - timmy. (Nick Wilde) \[notitle.\]](https://osu.ppy.sh/beatmapsets/697911#mania/1478256)
 - Tiebreaker
-  - **[Team Grimoire - MOTHER FUCXXXXXer (_VianK_) \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)**
+  - **[Team Grimoire - MOTHER FUCXXXXXer (\_VianK\_) \[4K nightmare Lady\]](https://osu.ppy.sh/beatmapsets/568931#mania/1206166)**
 
 ### Qualifiers
 
