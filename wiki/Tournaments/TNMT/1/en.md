@@ -4,7 +4,7 @@
 
 The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mania 4K tournament hosted by CJB and TMT Team.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -175,7 +175,7 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 - [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
 - [Silentroom - NULCTRL (-mint-) \[Stage 4: THE CLUB\]](https://osu.ppy.sh/beatmapsets/1017872#mania/2130237)
 
-## Match Results
+## Match results
 
 ### Finals - Week 1
 
@@ -265,7 +265,7 @@ All the mappools are in FreeMod. If a player wants to enable DT, NC or HT, both 
   - Finals - Week 1: **13+1 maps** in pool, **BO11**.
   - Finals - Week 2: **15+1 maps** in pool, **BO13**.
 
-### General Rules
+### General rules
 
 CJB & TMT Team has the ultimate power of interpretation.
 
