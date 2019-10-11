@@ -53,6 +53,23 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [M2U - Gypsy Tronic (Raveille) \[By The Hand\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
+  - [Maizang - Wind Island (HowToPlayLN) \[Sound of the storm\]](https://osu.ppy.sh/beatmapsets/985836#mania/2062486)
+  - [Hotaru Murasaki - Re:TrymenT (Virtue-) \[LieF\]](https://osu.ppy.sh/beatmapsets/1030429#mania/2154854)
+  - [OhkaP - Reimu-instrumental- (Kamikaze) \[Hakurei [1,2x Rate]\]](https://osu.ppy.sh/beatmapsets/982871#mania/2056851)
+  - [ikaruga_nex - ReviXy (DoNotMess) \[MEGAnother\]](https://osu.ppy.sh/beatmapsets/885894#mania/1854945)
+  - [u_Key - TRAHISON (ByeForNow) \[DIVULGATION\]](https://osu.ppy.sh/beatmapsets/1043513#mania/2181095)
+  - [Proc Fiscal - MONK Clip (lenpai) \[Jank\]](https://osu.ppy.sh/beatmapsets/869773#mania/1817705)
+  - [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix (FAMoss) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/984737#mania/2060435)
+  - [Mr. Fantastic - Hyperactive (zero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
+  - [V.K - Hua Sui Yue (Benzopirene) \[Blossom\]](https://osu.ppy.sh/beatmapsets/993473#mania/2077449)
+  - [Redemptive - Adrenaline (Nick Wilde) \[insane\]](https://osu.ppy.sh/beatmapsets/837456#mania/1772478)
+- Tiebreaker
+  - [t+pazolite - Pump up UR NRG (DoNotMess) \[PuMP\]](https://osu.ppy.sh/beatmapsets/762335#mania/1602846)
+
 ### Group Stage
 
 - FreeMod
