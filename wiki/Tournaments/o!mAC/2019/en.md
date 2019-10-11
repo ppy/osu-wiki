@@ -2,7 +2,7 @@
 
 ![o!mAC2019 Logo](img/logo.png)
 
-The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K mania tournament intended for all osu!mania players across the Asia Continent.
+The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K osu!mania tournament for players across Asia.
 
 ## Tournament schedule
 
@@ -22,13 +22,13 @@ The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K m
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge (To be confirmed), 4 month of osu!supporter tag, userpage banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 month of osu!supporter tag, userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 month of osu!supporter tag, userpage banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (pending confirmation), 4 months of osu!supporter tag, userpage banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
 
 ## Organisation
 
-The osu!mania Asian's Champions 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania Asian's Champions 2019 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -39,17 +39,16 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 | Commentator | ![][flag_VN] [Weabonie](https://osu.ppy.sh/users/8151986), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
 | Referee | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735), ![][flag_ID] [FadillSan](https://osu.ppy.sh/users/7006830), ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596), ![][flag_TW] [Makura](https://osu.ppy.sh/users/10665623), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462) |
 | Statistician | ![][flag_TH] [mashedpotato_old](https://osu.ppy.sh/users/496237) |
-| Recap Editor | ![][flag_KR] [Misuku](https://osu.ppy.sh/users/4799593) |
-| Wiki | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Recap editor | ![][flag_KR] [Misuku](https://osu.ppy.sh/users/4799593) |
+| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/946117)
 - [Challonge](https://challonge.com/zh_CN/asianschampions2019)
 - [Livestream](https://www.twitch.tv/asianschampions)
-- **Statistics sheet**
-  - [Mappool](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs)
-  - [Schedule](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs)
+- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU)
 
 ## Mappools
 
@@ -95,19 +94,19 @@ The osu!mania Asian's Champions 2019 is run by various community members by dist
 
 ## Ruleset
 
-### Tournament Registration
+### Tournament registration
 
 - The flag on your profile must be inside one of Asian continent. For complete list you can visit [following page](https://www.worldometers.info/geography/how-many-countries-in-asia/)
 
-### Match Instructions
+### Match instructions
 
-- You will get a notification from your referee that your match is ready 10 minutes before the schedule. Once you are ready, please let them know and they will invite you to the lobby soonly.
-- The referee will ask you to roll for map banning and the first pick. The highest roll goes first for map banning, then the next player goes afterwards. This applies vice versa on the first map picker.
+- You will get a notification from your referee that your match is ready 10 minutes before the scheduled time. Once you are ready, please let them know, and they will invite you to the lobby.
+- The referee will ask you to roll for ban and pick order. The highest roll will ban first, and the lowest roll will pick first. Ban and pick order alternates between players.
 - Warmup maps must be downloadable via osu!direct with 3 minutes length at maximum.
-- Visual mods such as HD, FL, FI are allowed.
-- After the warmups, each players will have 1 ban of any map.
-- Players will pick maps alternating with each other until one player reach the required amount of points to win the match.
-- Tiebreaker map will be played if both players are at match point.
+- Visual mods such as HD, FL, FI and MR are allowed.
+- After the warmups, each player will ban one map.
+- Players will pick maps until one player reaches the required amount of points to win the match.
+- The tiebreaker map will be played if both players are at match point.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
