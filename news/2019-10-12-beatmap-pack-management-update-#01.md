@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beatmap Pack Management - Update #01
+title: Beatmap Pack Management - Update #1
 date: 2019-10-13 15:30:00 +0000
 ---
 
