@@ -4,7 +4,7 @@ title: Beatmap Pack Management - Update #1
 date: 2019-10-13 15:30:00 +0000
 ---
 
-Our project is called Beatmap Pack Management and while it isn't an official part yet we still put a lot of effort and time in the development of Beatmap Packs. Many of you don't even know who we are and what we are doing so I'd like to present to you, what we are:
+Our project is called Beatmap Pack Management and while it isn't official yet, we still put a lot of effort and time into development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
 I've created a small group of experienced users that are interested to work on handmade charts that are dedicated to a specific theme, idea, or share similarities. And so we've been actively working since July 2019 to provide new theme packs with interesting concepts of decent quality. The interest is very high and some noteworthy members of the community joined the group to help me to substantiate their ideas in this project. We already have a few things to present to you, and I am very sure you'll like them.
 
 ### Alternator Style Packs
