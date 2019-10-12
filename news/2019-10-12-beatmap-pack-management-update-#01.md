@@ -53,4 +53,4 @@ While I believe we're doing very well already, we're just about to start and cur
 
 I can also recommend to follow [@osuMapPacks](https://twitter.com/osuMapPacks) on Twitter to stay updated with news, fixes, new packs and more. With that said, I can't really tell when the next news post will follow since we're a group that takes time to work on packs individually but you can still contact me for questions if you have any. And I hope you have an amazing day and download lotsa packs, thank you for reading.
 
-— the Beatmap Pack Management project
+—Stefan
