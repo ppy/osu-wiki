@@ -230,35 +230,44 @@ SliderTickRate:1
 
 ## Events
 
+*Event syntax:* `eventType,startTime,eventParams...`
+
+Events (backgrounds, videos, breaks, and storyboard elements) are defined with comma-separted lists of event parameters.
+
+- **`eventType` (String or Integer):** Type of the event. Some events may be referred to by either a name or a number.
+- **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that don't use a start time, the default is `0`.
+- **`eventParams`:** Extra parameters specific to the event's type.
+
 ### Backgrounds
 
-**Syntax:** `0,0,filename,xOffset,yOffset`
+*Background syntax:* `0,0,filename,xOffset,yOffset`
 
-The first `0` lets osu! know that this is a background event. The second is a placeholder for the event's start time, and is not used (backgrounds don't have start or end times).
-
-*filename* (String) specifies the location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-
-*xOffset* (Integer) and *yOffset* (Integer) are added to the background's position when it is displayed. For example, an offset of `50,100` would have the background shown 50 osu!pixels to the right and 100 osu!pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
+- **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
+- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in osu!pixels from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu!pixels to the right and 100 osu!pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
 
 ### Videos
 
-**Syntax:** `Video,time,filename,xOffset,yOffset`
+*Video syntax:* `Video,startTime,filename,xOffset,yOffset`
 
-Videos are the same as backgrounds, except the first `0` is `Video` instead, and the *time* (Integer) may be specified. `Video` may be replaced by `1`.
+`Video` may be replaced by `1`.
+
+- **`filename` (String)**, **`xOffset` (Integer)**, and **`yOffset` (Integer)** behave exactly as in backgrounds.
 
 ### Breaks
 
-**Syntax:** `2,time,endTime`
+*Break syntax:* `2,startTime,endTime`
 
-The `2` lets osu! know that this is a break event. It may be replaced by `Break`.
+`2` may be replaced by `Break`.
 
-The *time* (Integer) and *endTime* (Integer) fields are both a number of milliseconds from the beginning of the song defining the start and end point of the break period, respectively.
+- **`endTime` (Integer):** End time of the break, in milliseconds from the beginning of the beatmap's audio.
 
 ### Storyboards
 
-Storyboards can be defined in a separate optional storyboard file with the *.osb* extension.  See [Storyboard Scripting](/wiki/Storyboard_Scripting). External storyboards are shared between all the *.osu* beatmaps.
+*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Each beatmap may contain its own difficulty-specific storyboard, in conjunction with the external storyboard or without.
+Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all beatmaps in a beatmapset.
+
+Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 
 ## Timing Points
 
