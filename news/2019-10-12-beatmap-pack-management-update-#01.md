@@ -8,21 +8,21 @@ Our project is called Beatmap Pack Management and while it isn't official yet, w
 
 I've created a small group of experienced users who are interested to work on handmade charts dedicated to a specific theme, idea, or share similarities. And so we've been actively working since July 2019 to provide new theme packs of decent quality with interesting concepts. The interest is very high and some noteworthy members of the community joined the group to help me substantiate their ideas in this project. We already have a few things to present to you, and I am sure you'll like them.
 
-### Alternator Style Packs
+### Alternator Style packs
 
 *created by [lain](https://osu.ppy.sh/users/1650010)*  
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
 lain was passionated enough to work on the very first mapping-style-specific mappacks that has been released in the packlist, and focused on beatmaps where alternating is essential. He has worked on two versions, one with ranked maps and one purely with loved beatmaps. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
 
-### The Embodiment of Scarlet Devil. Pack
+### The Embodiment of Scarlet Devil pack
 
 *created by [celerih](https://osu.ppy.sh/users/4696296), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Xilver15](https://osu.ppy.sh/users/3099689)*  
 *written by [celerih](https://osu.ppy.sh/users/4696296)*
 
 Available to download now is the first of the Touhou Game Packs, where a selection of various Touhou maps from a specific game are picked and curated just for you! This first pack contains beatmaps from the first non PC-98 Touhou game and the sixth game in the series, Embodiment of Scarlet Devil. The packs aims to offer a variety of styles and themes, ranging from 2008 to 2018 to offer something to enjoy for anyone. Packs for future games are currently being worked on and should be released within the next few weeks. Enjoy!
 
-### Best of 2010-2011 Pack
+### Best of 2010–2011 pack
 
 *created by [Dada](https://osu.ppy.sh/users/9119507), [_p0ke_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
 *written by [_p0ke_](https://osu.ppy.sh/users/5434711)*
@@ -41,7 +41,7 @@ The first of the dans is now available to download on the beatmap packs page of 
 
 If you wish to join the osu!dan server to assist with playtesting future packs and stay up to date, [you can join the server!](https://discord.gg/b7cVmGd)
 
-### Loved Beatmap Packs: October
+### October Loved packs
 
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
