@@ -1,27 +1,27 @@
 # .osu (file format)
 
-**.osu** is a human-readable file format containing information about a single beatmap.
+**`.osu`** is a human-readable file format containing information about a beatmap.
 
-## Global structure
+## Structure
 
-The first line of the file specifies the version of beatmap file. Example:
+The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version.
 
-`osu file format v12`
+The following content is separated into sections, indicated by a section title in square brackets:
 
-The following lines are separated into multiple sections, indicated by square brackets.
+- `[General]`: General information about the beatmap.
+- `[Editor]`: Saved settings for the beatmap editor.
+- `[Metadata]`: Information used to identify the beatmap.
+- `[Difficulty]`: Difficulty settings.
+- `[Events]`: Beatmap and storyboard graphic events.
+- `[TimingPoints]`: Timing and control points.
+- `[Colours]`: Combo and skin colours.
+- `[HitObjects]`: Hit objects.
 
--   General - Various properties about the beatmap's gameplay.
--   Editor - Saved settings for mappers while editing beatmaps.
--   Metadata - Descriptive information about the song and beatmap.
--   Difficulty - Values defining the difficulty of the beatmap.
--   Events - A list of storyboard events.
--   Timing Points - A list of the beatmap's timing points and hitsounds.
--   Colours - RGB values of the combo colours used.
--   Hit Objects - A list of the beatmap's hit objects.
+The `General`, `Editor`, `Metadata`, `Difficulty`, and `Colours` sections contain key-value pairs. The format varies slightly between sections:
 
-Example:
-
-`[General]`
+- `General` and `Editor`: `key: value`
+- `Metadata` and `Difficulty`: `key:value`
+- `Colours`: `key : value`
 
 ## General
 
