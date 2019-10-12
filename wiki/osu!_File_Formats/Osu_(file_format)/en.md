@@ -6,22 +6,18 @@
 
 The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version.
 
-The following content is separated into sections, indicated by a section title in square brackets:
+The following content is separated into sections, indicated by section titles in square brackets.
 
-- `[General]`: General information about the beatmap.
-- `[Editor]`: Saved settings for the beatmap editor.
-- `[Metadata]`: Information used to identify the beatmap.
-- `[Difficulty]`: Difficulty settings.
-- `[Events]`: Beatmap and storyboard graphic events.
-- `[TimingPoints]`: Timing and control points.
-- `[Colours]`: Combo and skin colours.
-- `[HitObjects]`: Hit objects.
-
-The `General`, `Editor`, `Metadata`, `Difficulty`, and `Colours` sections contain key-value pairs. The format varies slightly between sections:
-
-- `General` and `Editor`: `key: value`
-- `Metadata` and `Difficulty`: `key:value`
-- `Colours`: `key : value`
+| Section | Description | Content type |
+| :-- | :-- | :-- |
+| `[General]` | General information about the beatmap | `key: value` pairs |
+| `[Editor]` | Saved settings for the beatmap editor | `key: value` pairs |
+| `[Metadata]` | Information used to identify the beatmap | `key:value` pairs |
+| `[Difficulty]` | Difficulty settings | `key:value` pairs |
+| `[Events]` | Beatmap and storyboard graphic events | Comma-separated lists |
+| `[TimingPoints]` | Timing and control points | Comma-separated lists |
+| `[Colours]` | Combo and skin colours | `key : value` pairs |
+| `[HitObjects]` | Hit objects | Comma-separated lists |
 
 ## General
 
