@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modérateurs par langue
 
 Jusqu'au 21 août 2015, il existait des **Chat Moderators**, des modérateurs qui veillaient sur le canal de discussion sur lequel ils étaient assignés et sur leur section du forum correspondante. Ce groupe a fusionné avec la [Global Moderation Team](/wiki/People/Global_Moderation_Team) après cette date.

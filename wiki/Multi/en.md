@@ -1,5 +1,5 @@
 <!--Wiki links used-->
-[osu!academy wikilink]: /wiki/Announcements/osu!academy "osu!academy"
+[osu!academy wikilink]: /wiki/osu!academy "osu!academy"
 [Abandoned Wasteland wikilink]: /wiki/Glossary/#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"
 [Release b335]: /wiki/History_of_osu!/Release_b335/ "Release b335 (Multi patch) in History of osu!"
 [Chat Console wikilink]: /wiki/Chat_Console "Chat Console"

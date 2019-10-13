@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Moderatorzy globalni
 
 **Moderatorzy globalni** (wcześniej znani również jako administratorzy lub „GreenBAT”), najczęściej nazywani w skrócie **GMT**, są członkami społeczności osu!, których głównym zadaniem jest utrzymywanie porządku na czacie i forum oraz zarządzanie sprawami istotnymi dla komunikacji wewnątrz społeczności.

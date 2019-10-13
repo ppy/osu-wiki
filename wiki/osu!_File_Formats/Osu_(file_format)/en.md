@@ -230,17 +230,29 @@ SliderTickRate:1
 
 ## Events
 
-### Background
+### Backgrounds
 
-**Syntax**: `0,0,"BG.png",0,0`
+**Syntax:** `0,0,filename,xOffset,yOffset`
 
-The filename in double quotes specifies the location of the background image relative to the beatmap directory.
+The first `0` lets osu! know that this is a background event. The second is a placeholder for the event's start time, and is not used (backgrounds don't have start or end times).
+
+*filename* (String) specifies the location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
+
+*xOffset* (Integer) and *yOffset* (Integer) are added to the background's position when it is displayed. For example, an offset of `50,100` would have the background shown 50 osu!pixels to the right and 100 osu!pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
+
+### Videos
+
+**Syntax:** `Video,time,filename,xOffset,yOffset`
+
+Videos are the same as backgrounds, except the first `0` is `Video` instead, and the *time* (Integer) may be specified. `Video` may be replaced by `1`.
 
 ### Breaks
 
-**Syntax**: `2,start,end`
+**Syntax:** `2,time,endTime`
 
-The *start* and *end* fields are both an integral number of milliseconds from the beginning of the song defining the start and end point of the break period, respectively.
+The `2` lets osu! know that this is a break event. It may be replaced by `Break`.
+
+The *time* (Integer) and *endTime* (Integer) fields are both a number of milliseconds from the beginning of the song defining the start and end point of the break period, respectively.
 
 ### Storyboards
 

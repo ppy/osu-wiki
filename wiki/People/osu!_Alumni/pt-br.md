@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 **osu! Alumni** são jogadores conhecidos por suas contribuições mas que estão inativos em suas respectivas funções, ou simplesmente se retiraram do jogo completamente. Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16)

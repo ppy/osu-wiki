@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Editor
 
 ![Kompositionseditor im Fenstermodus](Compose/Compose.png "Kompositionseditor im Fenstermodus")
