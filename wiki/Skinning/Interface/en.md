@@ -1349,7 +1349,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
 
 Notes:
 
@@ -1365,7 +1365,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
 
 Notes:
 
@@ -1381,7 +1381,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 12x14 |
 
 Notes:
 
@@ -1395,7 +1395,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | 10x14 |
 
 Notes:
 
