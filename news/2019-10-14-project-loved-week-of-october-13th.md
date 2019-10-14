@@ -21,6 +21,8 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ## <a name="osu" id="osu"></a>osu!standard
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/QeAhD9mac_g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207)!
 
 ---
@@ -31,7 +33,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 145 BPM, 4:35 | 7.15★, 7.98★  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-KNOWER is steadily becoming a household name in the osu! world, and for good reason—they have some *great* songs. Great songs deserve great maps, and that's exactly what Mismagius has for us here. This creative 8-star map captures the song in a unique, technical style. The map is filled with one-of-a-kind alternating patterns making it perfect for those of you looking for a new challenge. A nerfed version of the main difficulty is also available for those of you still asking "what's the tempo?".
+KNOWER is steadily becoming a household name in the osu! world, and for good reason—they have some *great* songs. Great songs deserve great maps, and that's exactly what Mismagius has for us here. This creative 8-star map captures the song in a unique, technical style. The map is filled with one-of-a-kind alternating patterns making it perfect for those of you looking for a new challenge. A nerfed version of the main difficulty is also available for those of you still asking, "what's the tempo?"
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/2-jinsei-wa-yume-darake.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -67,6 +69,8 @@ Sharpen your high BPM aim, because you're going to need it to be in tip-top shap
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
 ---
@@ -77,9 +81,9 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 180 BPM, 5:45 | 5.59★  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-総勢22人が24パートを担当した、Noko_BSF主催の超大型コラボマップが今週のLovedに登場です！（22人の内2人は2パートを担当しています。）  
-この譜面は標準的なパターンが組まれたパートからリズムが難しいパート、多彩なSVが入れられたパートなど、様々なマッパーの個性が集まった譜面です。  
-6分のマラソン譜面ではありますが、24の個性が集まったこの曲、そしてこの譜面に、最後まで飽きることなくプレイできるでしょう！
+Coming to Loved this week is a huge collab hosted by Noko_BSF, with 22 mappers covering 24 parts of this song. The map showcases all of their different styles, some having more typical patterns, others featuring difficult rhythm, and even one part with crazy SVs. It's a 6-minute marathon, but the various styles are so interesting that it goes by in no time. Try it out yourself!
+
+総勢22人が24パートを担当した、Noko_BSF主催の超大型コラボマップが今週のLovedに登場です！（22人の内2人は2パートを担当しています。）この譜面は標準的なパターンが組まれたパートからリズムが難しいパート、多彩なSVが入れられたパートなど、様々なマッパーの個性が集まった譜面です。6分のマラソン譜面ではありますが、24の個性が集まったこの曲、そしてこの譜面に、最後まで飽きることなくプレイできるでしょう！
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/taiko/2-mariquita-breakcore.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -91,6 +95,8 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 ## <a name="catch" id="catch"></a>osu!catch
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?t=170?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
 ---
@@ -101,9 +107,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 110 BPM, 4:18 | 1.72★, 4.68★, 6.23★, 6.39★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Minato Yukina is by no means a new face to the Loved section already boasting a whopping 12 maps in the category. This map is one of the many Nervous Breakdowns' he has created. As the name suggests it is quite heavy on the nerves due to the constant jumps combined with hyperchains. To top it all off, the Nervous Breakdown difficulty has some unique hitsounding from various other games.   
-While Nervous Breakdown is probably the most known difficulty, it isn't the only difficulty in the set. [Milquar](https://osu.ppy.sh/users/5878453?), [Yumeno Himiko](https://osu.ppy.sh/users/1806962?) and [ExGon](https://osu.ppy.sh/users/214187?) have created some well-made difficulties too. All three difficulties offer a wide variation in overall difficulty and patterns, whether it be the Salad, Rain or Overdose.   
-Even though it isn't a full spread, the set will be playable in one way or another for almost everyone!
+Minato Yukina is by no means a new face to the Loved section already boasting a whopping 12 maps in the category. This map is one of the many Nervous Breakdowns' he has created. As the name suggests it is quite heavy on the nerves due to the constant jumps combined with hyperchains. To top it all off, the Nervous Breakdown difficulty has some unique hitsounding from various other games. While Nervous Breakdown is probably the most known difficulty, it isn't the only difficulty in the set. [Milquar](https://osu.ppy.sh/users/5878453), [Yumeno Himiko](https://osu.ppy.sh/users/1806962) and [ExGon](https://osu.ppy.sh/users/214187) have created some well-made difficulties too. All three difficulties offer a wide variation in overall difficulty and patterns, whether it be the Salad, Rain or Overdose. Even though it isn't a full spread, the set will be playable in one way or another for almost everyone!
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/catch/2-the-pretender.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -111,9 +115,11 @@ Even though it isn't a full spread, the set will be playable in one way or anoth
 174 BPM, 6:26 | 6.92★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Whereas the other selected osu!catch map for this week's Loved round is from a mapper with quite some prestige both Loved and Ranked wise, I'd like to introduce you to someone that hasn't seen any kind of love lovin' as of yet! Enter Fauzan 2000, an Indonesian mapper that has been very steadily improving throughout 2019. He has made some very fun maps in this period, such as *he Pretender*. The map itself is very straightforward in its style, being fairly jump heavy throughout with some jump streams in the solo. It does make for a very comfortable and enjoyable experience, with high end players being able to really let loose with hidden and/or hardrock turned on. So do give this more obscure map a spin, as I'm sure most of you will definitely enjoy it!
+Whereas the other selected osu!catch map for this week's Loved round is from a mapper with quite some prestige both Loved and Ranked wise, I'd like to introduce you to someone that hasn't seen any kind of love lovin' as of yet! Enter Fauzan 2000, an Indonesian mapper that has been very steadily improving throughout 2019. He has made some very fun maps in this period, such as *The Pretender*. The map itself is very straightforward in its style, being fairly jump heavy throughout with some jump streams in the solo. It does make for a very comfortable and enjoyable experience, with high end players being able to really let loose with hidden and/or hardrock turned on. So do give this more obscure map a spin, as I'm sure most of you will definitely enjoy it!
 
 ## <a name="mania" id="mania"></a>osu!mania
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?t=328?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
