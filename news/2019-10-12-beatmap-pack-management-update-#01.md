@@ -4,6 +4,8 @@ title: "Beatmap Pack Management: Update #1"
 date: 2019-10-13 15:30:00 +0000
 ---
 
+![](/wiki/shared/news/banners/beatmap-packs.jpg)
+
 Our project is called Beatmap Pack Management and while it isn't official yet, we still put a lot of effort and time into development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
 
 I've created a small group of experienced users who are interested to work on handmade charts dedicated to a specific theme, idea, or share similarities. And so we've been actively working since July 2019 to provide new theme packs of decent quality with interesting concepts. The interest is very high and some noteworthy members of the community joined the group to help me substantiate their ideas in this project. We already have a few things to present to you, and I am sure you'll like them.
@@ -24,8 +26,8 @@ Available to download now is the first of the Touhou Game Packs, where a selecti
 
 ### Best of 2010–2011 pack
 
-*created by [Dada](https://osu.ppy.sh/users/9119507), [_p0ke_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
-*written by [_p0ke_](https://osu.ppy.sh/users/5434711)*
+*created by [Dada](https://osu.ppy.sh/users/9119507), [\_p0ke\_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
+*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*
 
 Ever wanted to see what popular maps looked like in earlier eras of the game? Well now you can! Forged together by members of the Beatmap Pack Management team, you can check out some of the best maps that the game had to offer during 2010 and 2011 in one single pack. While there were a lot of great maps the team didn't have enough room to include, hopefully you can find something on this list that you will enjoy. Play through them all and experience a blast from the past!
 
