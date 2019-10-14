@@ -144,7 +144,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
     - [Chroma - lost found melody (Ciel) \[Found\]](https://osu.ppy.sh/beatmapsets/1051052#mania/2196635)
 - Tiebreaker
-    - [Camellia - Racemization (-mint-) \[enantiomers\]](https://osu.ppy.sh/beatmapsets/1050821#mania/2196214)
+    - **[Camellia - Racemization (-mint-) \[enantiomers\]](https://osu.ppy.sh/beatmapsets/1050821#mania/2196214)**
 
 ### Semifinals 
 
