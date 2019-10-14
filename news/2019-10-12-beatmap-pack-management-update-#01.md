@@ -24,8 +24,8 @@ Available to download now is the first of the Touhou Game Packs, where a selecti
 
 ### Best of 2010–2011 pack
 
-*created by [Dada](https://osu.ppy.sh/users/9119507), [_p0ke_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
-*written by [_p0ke_](https://osu.ppy.sh/users/5434711)*
+*created by [Dada](https://osu.ppy.sh/users/9119507), [\_p0ke\_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
+*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*
 
 Ever wanted to see what popular maps looked like in earlier eras of the game? Well now you can! Forged together by members of the Beatmap Pack Management team, you can check out some of the best maps that the game had to offer during 2010 and 2011 in one single pack. While there were a lot of great maps the team didn't have enough room to include, hopefully you can find something on this list that you will enjoy. Play through them all and experience a blast from the past!
 
