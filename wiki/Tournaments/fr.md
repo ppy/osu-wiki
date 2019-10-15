@@ -177,6 +177,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/GTS/IGTS_2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaisie | ![][flag_NL] Pays-Bas | ![][flag_US] États-Unis d'Amérique |
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] États-Unis d'Amérique A | ![][flag_CL] Chili |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japon | ![][flag_CA] Canada | ![][flag_RU] Russie A |
+| [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
