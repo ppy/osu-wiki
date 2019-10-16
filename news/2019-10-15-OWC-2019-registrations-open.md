@@ -10,7 +10,7 @@ It's that time of the year again. The OWC 2019 is on the horizon and registratio
 
 A Qualifier Stage will be awaiting the players at first instead of a Group Stage. This Qualifier Stage is not limited to only 32 teams though! Weaker teams will be able to have a shot at qualifying through their own performance to claim a spot in the Main Bracket Stage. Unfortunately this means there are no insane Group Stage upsets or very early ruined Pick'ems this time around, but will hopefully come to fruition with the best teams facing in very close matches at the later stages of the tournament! Afterwards, a Round of 32 Stage will feature the 32 best performing teams, which then is followed by the usual bracket structure.
 
-The hugely popular proposed rule change of failed scores counting has now been implemented. Every player is now forced to use NoFail in addition to other mods.
+The hugely popular proposed rule change of failed scores counting has now been implemented. Every player is free to use NoFail in addition to other mods in all picks without any score reduction.
 
 Next to the previously mentioned rule changes there are some smaller clarifications in very specific situations, a slight change in the FreeMod Bracket, altered ban rules and much more!
 

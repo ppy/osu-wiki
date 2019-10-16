@@ -156,7 +156,7 @@ _Mappools will be revealed one week in advance of each round_
   - **The Round of 32 and Round of 16 mappool will have 5 Nomod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
   - **The Quarterfinals, Semifinals, Finals and Grand Finals mappool will have 6 Nomod maps, 4 DoubleTime maps and 3 maps for each of the remaining mod brackets.**
 4. Each mappool has one tiebreaker.
-5. **NoFail mod will be enforced in all picks to avoid fails.**
+5. **NoFail mod is allowed to be selected at any map.**
 6. The NoMod bracket will be played with no mods activated at all (other than NoFail).
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated as well by all current players.
 8. The FreeMod bracket will have FreeMod activated.
