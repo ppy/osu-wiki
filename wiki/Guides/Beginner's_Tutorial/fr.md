@@ -1,6 +1,5 @@
 # Débutant
 
-
 Bienvenue dans le tutoriel osu! pour les débutants. Le monde d’osu! peut être parfois être un endroit compétitif. Que vous cherchiez un moyen de faire décoller votre carrière, vouloir faire de la compétition avec osu!, ou simplement espérer être meilleur pour mieux vous amuser sur le jeu, cela dépend de vous ! Ce guide va vous expliquer tout ce dont vous avez besoin et monter en flèche autour du monde d'osu!.
 
 ## Types d’Input
@@ -29,7 +28,7 @@ Jouer à la souris a tendance à être difficile pour :
 
 ### Jouer à la tablette
 
-Si vous allez utiliser une tablette, vous devez essayer et trouver une zone sur la tablette où vous pouvez jouer confortablement. Si vous voulez acheter une tablette pour jouer à osu! avec, regarder d’abord le guide [Acheter une tablette](/wiki/List_of_Guides/Tablet_purchase/ "Acheter une tablette par Daru"). De plus, achetez quelques plumes, car vous ne savez jamais quand vous aurez besoin de nouvelles car elles ont tendance à s’user rapidement, spécialement quand vous jouez souvent. Bien que vous pouvez utiliser la tablette pour tapper les cercles, la plupart des joueurs préfèrent utiliser le clavier  dont nous parlerons plus tard. Jouer à la tablette a tendance à exceller dans :
+Si vous allez utiliser une tablette, vous devez essayer et trouver une zone sur la tablette où vous pouvez jouer confortablement. Si vous voulez acheter une tablette pour jouer à osu! avec, regarder d’abord le guide [Acheter une tablette](/wiki/Guides/Tablet_purchase/ "Acheter une tablette par Daru"). De plus, achetez quelques plumes, car vous ne savez jamais quand vous aurez besoin de nouvelles car elles ont tendance à s’user rapidement, spécialement quand vous jouez souvent. Bien que vous pouvez utiliser la tablette pour tapper les cercles, la plupart des joueurs préfèrent utiliser le clavier  dont nous parlerons plus tard. Jouer à la tablette a tendance à exceller dans :
 
 -   Pas de dérivation du curseur.
 -   Mouvements et vitesse précis.
@@ -86,7 +85,7 @@ Ne soyez pas effrayés de vous entrainez à quelque chose que vous n’arrivez p
 
 ### Décalage global
 
-*Page Principale: [Comment utiliser l’assistant de décalage](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard)*
+*Page Principale: [Comment utiliser l’assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
 Dépendant de l’appareil que vous utilisez pour jouer à osu!, vous pourriez trouver que les cercles de hit ne sont pas en rythme avec la musique.Pour corriger cela, vous pouvez changer la valeur du décalage global dans le menu des [Options](/wiki/Options/). Le décalage global changera quand la première note apparaîtra sur la beatmap (soit plus tôt ou plus tard que par défaut),ce qui retarde le reste des notes du même décalage. Une valeur négative de décalage fera que les notes apparaîtront légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
