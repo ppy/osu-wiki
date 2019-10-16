@@ -23,47 +23,42 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/QeAhD9mac_g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207)!
+osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Ventus](https://osu.ppy.sh/users/1986262)! This week, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
 ---
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/1-overtime-live-band-session.jpg)](https://osu.ppy.sh/community/forums/topics/973353)
 
 [KNOWER - Overtime (Live Band Session)](https://osu.ppy.sh/beatmapsets/1020600#osu) by [Mismagius](https://osu.ppy.sh/users/19048)  
-145 BPM, 4:35 | 7.15★, 7.98★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+145 BPM, 4:35 | 7.15★, 7.98★
 
 KNOWER is steadily becoming a household name in the osu! world, and for good reason—they have some *great* songs. Great songs deserve great maps, and that's exactly what Mismagius has for us here. This creative 8-star map captures the song in a unique, technical style. The map is filled with one-of-a-kind alternating patterns making it perfect for those of you looking for a new challenge. A nerfed version of the main difficulty is also available for those of you still asking, "what's the tempo?"
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/2-jinsei-wa-yume-darake.jpg)](https://osu.ppy.sh/community/forums/topics/973352)
 
 [Shiina Ringo - Jinsei wa Yume Darake](https://osu.ppy.sh/beatmapsets/934179#osu) by [melloe](https://osu.ppy.sh/users/2367616)  
-100 BPM, 3:13 | 5.80★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+100 BPM, 3:13 | 5.80★
 
 Most maps make you feel like you're playing to the beat of the song, but has a map ever made you feel like you're *playing* the song? If you don't know what I'm talking about, try playing this map. You'll see what I mean. melloe has put together such a masterpiece that it would be an insult to attempt putting it into words. The map is around six stars, but it's not like any other map you'll play. All I can say is that if you like maps that leave you with uniquely satisfying experiences, you'll love this map.
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/3-mesen.jpg)](https://osu.ppy.sh/community/forums/topics/973351)
 
 [BUTAOTOME - Mesen](https://osu.ppy.sh/beatmapsets/865750#osu) by [BarkingMadDog](https://osu.ppy.sh/users/3475189)  
-230 BPM, 3:17 | 7.31★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+230 BPM, 3:17 | 7.31★
 
 Hey, you like to jump, right? Great, because BarkingMadDog has yet another masterpiece of a jump map for us all to enjoy. This 230 BPM map is filled with satisfying 7-star jump patterns throughout most of the song's 3-minute duration. Topped off with a catchy BUTAOTOME song, this is the perfect map for all you aim enthusiasts out there.
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/4-nounai-kakumei-girl.jpg)](https://osu.ppy.sh/community/forums/topics/973350)
 
 [Reol, ill.bell - Nounai Kakumei Girl](https://osu.ppy.sh/beatmapsets/588397#osu) by [Kaifin](https://osu.ppy.sh/users/2596942)  
-240 BPM, 3:37 | 6.09★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+240 BPM, 3:37 | 6.09★
 
 This map is the definition of a well-executed gimmick. It's filled with overlapping sliders and cut 1/3 streams that are made in a way that play really well. The song lends itself well to the patterns in the map, making it super satisfying to play. It's the perfect map for putting your finger control to the test in a way most maps can't challenge. Sound appealing to you? Try the map for yourself! It's certainly one for the collections.
 
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/osu/5-altar.jpg)](https://osu.ppy.sh/community/forums/topics/973349)
 
 [That Poppy - Altar](https://osu.ppy.sh/beatmapsets/685822#osu) by [-NeBu-](https://osu.ppy.sh/users/4099626)  
-132 BPM, 2:39 | 9.75★  
-*description written by [Ventus](https://osu.ppy.sh/users/1986262)*
+132 BPM, 2:39 | 9.75★
 
 Sharpen your high BPM aim, because you're going to need it to be in tip-top shape for this 264 BPM jump map. This high 9-star map has 3 distinct kiai sections with jumps that get harder each time. No streams in sight here, just the high-spacing jumps you'd expect out of a map with such a high star rating. Even if aim is your strong suit, all I can say is "good luck".
 
