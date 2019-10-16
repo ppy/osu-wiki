@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2019
 
-![OWC 2019 Logo](img/logo.png)
+![OWC 2019 Logo](img/logo.jpg)
 
 The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 10th installment of the osu! World Cup.
 
@@ -16,6 +16,7 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 | --: | :-- |
 | Registration Phase | 2019-10-15/2019-10-29 |
 | Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
+| Qualifier Stage | 2019-11-09/2019-11-10 |
 | Round of 32 | 2019-11-16/2019-11-17 |
 | Round of 16 | 2019-11-23/2019-11-24 |
 | Quarterfinals | 2019-11-30/2019-12-01 |
@@ -83,7 +84,7 @@ _Mappools will be revealed one week in advance of each round_
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-15. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
+15. All players and referees must be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
