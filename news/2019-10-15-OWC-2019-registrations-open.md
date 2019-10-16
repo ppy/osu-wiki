@@ -21,7 +21,7 @@ You can discuss this event and follow the most important changes in the **[offic
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-15/2019-10-29 |
+| Registration Phase | 2019-10-15/2019-10-27 |
 | Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
 | Qualifier Stage | 2019-11-09/2019-11-10 |
 | Round of 32 | 2019-11-16/2019-11-17 |
@@ -39,7 +39,7 @@ You can discuss this event and follow the most important changes in the **[offic
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
-## Pick'Em
+## Pick'Ems
 
 Pick'ems will level up to the next stage! [Hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwchr.com/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
 
@@ -47,7 +47,7 @@ Pick'ems will level up to the next stage! [Hallowatcher](https://osu.ppy.sh/user
 
 + **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
 + Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **29th of October.**
++ Hand in your registration before the **27th of October.**
 
 Please note that you may only participate if you are of a **osu! global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

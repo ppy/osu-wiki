@@ -14,7 +14,7 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-15/2019-10-29 |
+| Registration Phase | 2019-10-15/2019-10-27 |
 | Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
 | Qualifier Stage | 2019-11-09/2019-11-10 |
 | Round of 32 | 2019-11-16/2019-11-17 |
