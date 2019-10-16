@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2019: Registrations now open!"
-date: 2019-10-15 01:30:00 +0000
+date: 2019-10-16 16:00:00 +0000
 ---
 
 It's that time of the year again. The OWC 2019 is on the horizon and registrations are now open! The 10th installment and thus also our 10th anniversary of the OWC is community driven and focused as never before! There will be some big changes, as this year's OWC was preceded by a discussion and feedback phase which involved players from the previous OWC.
@@ -21,7 +21,7 @@ You can discuss this event and follow the most important changes in the **[offic
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-15/2019-10-27 |
+| Registration Phase | 2019-10-16/2019-10-27 |
 | Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
 | Qualifier Stage | 2019-11-09/2019-11-10 |
 | Round of 32 | 2019-11-16/2019-11-17 |
@@ -41,7 +41,7 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Pick'Ems
 
-Pick'ems will level up to the next stage! [Hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwchr.com/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
+Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwchr.com/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
 
 ## How do I register?
 
