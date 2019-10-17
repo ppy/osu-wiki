@@ -154,7 +154,7 @@ The osu!catch Convert Cup is run by various community members.
 - Tiebreaker
   - **[Pegboard Nerds - Hero ft. Elizaveta (Rolniczy) \[In the Name of Love\]](https://osu.ppy.sh/beatmapsets/822892#fruits/1724600)**
 
-### Round of 32
+### Round of 16
 
 **[Download the mappack here! (99 MB)](https://mega.nz/#!JxtTjYxJ!6OYoraq-m-hCj2Rew7Gn15J_pjp-BMTHN3qB-fYqQZg)**
 
