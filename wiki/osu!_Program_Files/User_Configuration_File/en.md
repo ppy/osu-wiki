@@ -191,10 +191,10 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `ChatSortMode` | String | Remembers which userpanel tab was selected last. |
-| `ChatLastChannel` | String | Last channel active in |
-| `ChatChannels` | String | Displays a list of chat channels you've used |
-| `UserFilter` | String | Filter for extended chat users |
+| `ChatSortMode` | String | Sorting of extended chat user list |
+| `ChatLastChannel` | String | Last channel active |
+| `ChatChannels` | String | List of channels used |
+| `UserFilter` | String | Filter for extended chat user list |
 
 ### Editor
 
@@ -219,63 +219,62 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 ### Multiplayer
 
-<!-- TODO: descriptions, change order if it makes sense -->
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `LobbyPlayMode` | Integer |  |<!-- TODO not sure about type -->
-| `LobbyShowPassworded` | 0 or 1 |  |
-| `LobbyShowExistingOnly` | 0 or 1 |  |
-| `LobbyShowFriendsOnly` | 0 or 1 |  |
-| `LobbyShowFull` | 0 or 1 |  |
-| `LobbyShowInProgress` | 0 or 1 |  |
+| `LobbyPlayMode` | Integer | Selected game mode tab |<!-- TODO not sure about type -->
+| `LobbyShowExistingOnly` | 0 or 1 | Toggles `Owned Beatmaps` filter |
+| `LobbyShowFriendsOnly` | 0 or 1 | Toggles `Games with Friends` filter |
+| `LobbyShowFull` | 0 or 1 | Toggles `Show Full` filter |
+| `LobbyShowPassworded` | 0 or 1 | Toggles `Show Locked` filter |
+| `LobbyShowInProgress` | 0 or 1 | Toggles `Show In-Progress` filter |
 
 ### Play
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
 | `ManiaSpeed` | Integer | osu!mania scroll speed |
-| `ScoreboardVisible` | 0 or 1 | Remembers whether or not the scoreboard was hidden. |
-| `ShowInterface` | 0 or 1 | Interface hiding controlled by `shift` + `tab` default |
+| `ScoreboardVisible` | 0 or 1 | Whether or not the scoreboard is showing |
+| `ShowInterface` | 0 or 1 | Whether or not the interface is showing |
 | `ShowInterfaceDuringRelax` | 0 or 1 | Whether or not the interface will be shown when using Relax or Autopilot |
 
 ### Replay
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `ShowReplayComments` | 0 or 1 | Toggles `Show Comments` when watching a replay. |
+| `ShowReplayComments` | 0 or 1 | Toggles `Show Comments` when watching a replay |
 
 ### Song select
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `TreeSortMode` | String | Determines the 'group' mode at song select. |
-| `TreeSortMode2` | String | Determines the 'sort' mode at song select. |
-| `LastPlayMode` | String | Displays last game mode played |
-| `RankType` | String | The current scoreboard ranking filter |
+| `TreeSortMode` | String | Grouping of beatmaps |
+| `TreeSortMode2` | String | Sorting of beatmaps |
+| `LastPlayMode` | String | Selected game mode |
+| `RankType` | String | Filter for scoreboard rankings |
 
 ## Not changeable in-game
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `BeatmapDirectory` | String | The folder where osu! will store beatmaps |
+| `BeatmapDirectory` | String | Folder where osu! stores beatmaps |
 | `BossKeyFirstActivation` | 0 or 1 | Whether or not the boss key has been pressed before |
 | `CanForceOptimusCompatibility` | 0 or 1 | Whether or not osu! can perform optimisations on some NVIDIA GPUs |
-| `ConfirmExit` | 0 or 1 | Enables confirmation before exiting the game |
-| `CustomFrameLimit` | Integer | The third FPS limiter option available in-game |
-| `Display` | Integer | Remembers which screen osu! should open on, for users with multiple monitors. |
-| `EditorTip` | Integer | Shows which editor tip will display next. |
+| `ConfirmExit` | 0 or 1 | Whether or not osu! will ask for confirmation before exiting the game |
+| `CustomFrameLimit` | Integer | Third FPS limiter option available in-game |
+| `Display` | Integer | Index of the monitor that osu! should open on |
+| `EditorTip` | Integer | Index of the next editor tip to be shown |
 | `GuideTips` | String | Tracks guide tips that have been shown before so that they aren't shown again |
 | `HighResolution` | 0 or 1 | Forces HD skin element support |
 | `IgnoreBarline` | 0 or 1 | Whether or not osu!mania barlines should be hidden |
 | `LastVersion` | String | Current client version |
 | `LastVersionPermissionsFailed` | String | Client version that last needed computer admin permissions to complete an update |
 | `LowResolution` | 0 or 1 | Forces SD skin elements to be used (overrides `HighResolution`) |
-| `MenuTip` | Integer | Shows which menu tip will display next. |
-| `MyPcSucks` | 0 or 1 | Disables all fancy graphics settings. Should only be needed if your PC is very old |
+| `MenuTip` | Integer | Index of the next menu tip to be shown |
+| `MyPcSucks` | 0 or 1 | Disables all fancy graphics settings |
 | `OverrideRefreshRate` | 0 or 1 | Whether or not `RefreshRate` is used |
 | `RefreshRate` | Integer | Custom refresh rate |
-| `ScaleMode` | String | Default scaling of sprites that need to cover the whole screen |
-| `ScreenshotId` | Integer | Displays the number of the next screenshot to be taken. |
+| `ScaleMode` | String | Default scaling of sprites that cover the whole screen |
+| `ScreenshotId` | Integer | ID of the next screenshot |
 | `SkipTablet` | 0 or 1 | Disables osu!'s special tablet handling code |
 | `UpdatePending` | 0 or 1 | Whether or not there is an update waiting to be installed |
 
