@@ -14,7 +14,7 @@ The Global Moderation Team is responsible for the welfare of the chat/forum and 
 
 The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members.
 
-*Note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise.*
+*Note: All GMT members speak English in addition to the language(s) listed below unless noted otherwise. For a list of moderators grouped by the languages moderated, see [Language Moderators](Language_Moderators).*
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
