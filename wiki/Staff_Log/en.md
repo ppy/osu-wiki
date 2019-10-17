@@ -1,18 +1,16 @@
 ---
 tags:
-- Staff Promotion Log
-- Staff Retirement Log
+  - promotion
+  - retirement
 ---
 
 # Staff Log
 
-As of 2014-01-17, management is going to file all staff promotions and retirements to easily make it trackable for the community, starting with all changes and additions from 2014.
+Since 2014, promotions and retirements of public staff have been recorded to make them easily traceable for the community.
 
-## Years
-
-- [2014](/wiki/People/Staff_Log/2014)
-- [2015](/wiki/People/Staff_Log/2015)
-- [2016](/wiki/People/Staff_Log/2016)
-- [2017](/wiki/People/Staff_Log/2017)
-- [2018](/wiki/People/Staff_Log/2018)
-- [2019](/wiki/People/Staff_Log/2019)
+- [2014](2014)
+- [2015](2015)
+- [2016](2016)
+- [2017](2017)
+- [2018](2018)
+- [2019](2019)
