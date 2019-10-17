@@ -35,13 +35,13 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map Selector | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) |
+| Map selector | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ---
 
-## Match Results
+## Match results
 
 ### Week 2
 
