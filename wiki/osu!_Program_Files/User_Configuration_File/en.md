@@ -1,7 +1,5 @@
 # User Configuration File
 
-<!-- TODO: option descriptions are written very poorly / inconsistently -->
-
 This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these options are available through the in-game [options menu](/wiki/Options), and it is recommended that you change them there. Only edit these values manually if you really must.
 
 ## Changeable via the options menu
