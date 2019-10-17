@@ -4,7 +4,6 @@ This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these 
 
 ## Changeable via the options menu
 
-<!-- TODO: add debug options? -->
 | Option | Value type | In-game option |
 | :-- | :-- | :-- |
 | `Username` | String | Username |
@@ -219,7 +218,7 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `LobbyPlayMode` | Integer | Selected game mode tab |<!-- TODO not sure about type -->
+| `LobbyPlayMode` | Integer | Selected game mode tab (-1 = All, 0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | `LobbyShowExistingOnly` | 0 or 1 | Toggles `Owned Beatmaps` filter |
 | `LobbyShowFriendsOnly` | 0 or 1 | Toggles `Games with Friends` filter |
 | `LobbyShowFull` | 0 or 1 | Toggles `Show Full` filter |
