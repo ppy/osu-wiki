@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Options
 
 ![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
