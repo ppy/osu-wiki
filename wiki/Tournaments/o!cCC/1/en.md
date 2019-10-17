@@ -70,7 +70,7 @@ The osu!catch Convert Cup is run by various community members.
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match schedule: Quarterfinals
 
 ### Saturday, 19 October 2019
 
@@ -94,8 +94,7 @@ The osu!catch Convert Cup is run by various community members.
 | #6c² | Roido | ![][flag_PH] | ![][flag_FI] | forgottentaco | **13:00** |
 | #6d² | Roido | ![][flag_PH] | ![][flag_FR] | Boros | **13:00** |
 
-¹ Encounter dependent on winner of match #2 and match #3
-
+¹ Encounter dependent on winner of match #2 and match #3  
 ² Encounter dependent on winner of match #1 and match #4
 
 ---
@@ -227,7 +226,7 @@ The osu!catch Convert Cup is run by various community members.
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **5** | 0 | ![][flag_CL] nachoL | -win by default- |
 | **forgottentaco** ![][flag_FI] | **5** | 2 | ![][flag_AU] chickennando | [#1](https://osu.ppy.sh/community/matches/55499845) |
-| Boros ![][flag_FR] | 1 | **5** | ![][flag_IT] Karym | [#1](https://osu.ppy.sh/community/matches/55505808) |
+| Boros ![][flag_FR] | 1 | **5** | ![][flag_IT] **Karym** | [#1](https://osu.ppy.sh/community/matches/55505808) |
 | Cxlucha ![][flag_MX] | 0 | **5** | ![][flag_PH] **Roido** | [#1](https://osu.ppy.sh/community/matches/55509226) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_DE] Ginoshi | -win by default- |
 | **-Kurisu-** ![][flag_US] | **5** | 2 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/55515119) |
