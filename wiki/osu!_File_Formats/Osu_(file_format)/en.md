@@ -1,4 +1,5 @@
 # .osu (file format)
+<!-- TODO: Add examples for any structures more complicated than a single value -->
 
 **`.osu`** is a human-readable file format containing information about a beatmap.
 
@@ -81,11 +82,9 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 *Event syntax:* `eventType,startTime,eventParams...`
 
-Events (backgrounds, videos, breaks, and storyboard elements) are defined with comma-separted lists of event parameters.
-
 - **`eventType` (String or Integer):** Type of the event. Some events may be referred to by either a name or a number.
 - **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that don't use a start time, the default is `0`.
-- **`eventParams`:** Extra parameters specific to the event's type.
+- **`eventParams` (Comma-separated list):** Extra parameters specific to the event's type.
 
 ### Backgrounds
 
@@ -120,62 +119,30 @@ Each beatmap may contain its own difficulty-specific storyboard, either in conju
 
 ## Timing Points
 
-Timing points describe a number of properties regarding beats per minute and hit sounds.
+Each timing point influences a specified portion of the map, commonly called a "timing section". The `.osu` file format requires these to be sorted in chronological order.
 
-**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
+*Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,kiai`
 
-The *offset* is an integral number of milliseconds, from the start of the song. It defines when the timing point starts. A timing point ends when the next one starts. The first timing point starts at 0, disregarding its offset.
-
-Timing points must be sorted by offset in the timing points section.
-
-The *milliseconds per beat* field (Decimal) defines the duration of one beat. It affect the scrolling speed in osu!taiko or osu!mania, and the slider speed in osu!standard, among other things. When positive, it is faithful to its name. When negative, it is a percentage of previous non-negative milliseconds per beat. For instance, 3 consecutive timing points with `500`, `-50`, `-100` will have a resulting beat duration of half a second, a quarter of a second, and half a second, respectively.
-
-The *meter* (Integer) field defines the number of beats in a measure.
-
-The *sample set* field defines the default sample set for hit objects. The *sample index* is the default custom index. *Volume* (0 to 100) is the default volume. See the *Hit Objects* section below for details.
-
-*Inherited* (Boolean: 0 or 1) tells if the timing point can be inherited from. *Inherited* is redundant with the milliseconds per beat field. A positive milliseconds per beat implies inherited is 1, and a negative one implies it is 0.
-
-The *kiai mode* (Boolean) defines whether or not [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time) effects are active.
-
-Example of a Timing Point:
-
-`66,315.789473684211,4,2,0,45,1,0`
-
-Example of an inherited Timing Point:
-
-`10171,-100,4,2,0,60,0,1`
+- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point). Note that `beatLength` and `meter` properties on uninherited timing points will carry across all timing sections until the next uninherited timing point, regardless of inherited points' settings in-between.<!-- TODO: I don't know if this is true for `meter` -->
+- **`beatLength` (Decimal):** This property has two meanings:
+  - For uninherited timing points, the duration of a beat, in milliseconds.
+  - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.
+- **`meter` (Integer):** Amount of beats in a measure.
+- **`sampleSet` (Integer):** Default sample set for hit objects.<!-- TODO: list set options -->
+- **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hit sounds.
+- **`volume` (Integer):** Volume percentage for hit objects.
+- **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
+- **`kiai` (0 or 1):** Whether or not [kiai time](/wiki/Beatmap_Editor/Kiai_Time) is enabled.
 
 ## Colours
 
-### Combos
+All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colors.
 
-The colours of the combos are defined by the `Combo1` to `ComboN` properties.
-
-Each colour is specified with a triplet of RGB colour channel values, from 0 to 255.
-
-Example: 2 combos, the first light grey, the second bright red.
-
-```
-Combo1 : 245,245,245
-Combo2 : 255,0,0
-```
-
-The combo definitions must be sorted, consecutive, and start from 1. Any other order is an undefined behavior.
-
-Since combos wrap, the third combo in the above example will be grey, the fourth red, and so on.
-
-### Special colours
-
-Some extra colours for sliders can be optionally overriden with the following properties:
-
-- `SliderBody`,
-- `SliderTrackOverride`,
-- `SliderBorder`.
-
-Each one of these property receives an RGB triplet, like regular combos.
-
-The special colours are independent of the combo.
+| Option | Description |
+| :-- | :-- |
+| `Combo#`, where `#` is an integer | Additive combo colours |<!-- TODO: | `SliderBody` | Additive slider body colour | ... is this even a property -->
+| `SliderTrackOverride` | Additive slider track colour |
+| `SliderBorder` | Slider border colour |
 
 ## Hit Objects
 
