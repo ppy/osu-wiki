@@ -14,9 +14,9 @@ The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-08-18/2019-09-07 |
-| Live Drawings | 2019-09-15 (15:00 UTC) |
-| Qualifiers Stage | 2019-09-21/2019-09-22 |
+| Registration phase | 2019-08-18/2019-09-07 |
+| Live drawings | 2019-09-15 (15:00 UTC) |
+| Qualifiers | 2019-09-21/2019-09-22 |
 | Round of 32 | 2019-09-28/2019-09-29 |
 | Round of 16 | 2019-10-05/2019-10-06 |
 | Quarterfinals | 2019-10-12/2019-10-13 |
@@ -72,51 +72,64 @@ The osu!catch Convert Cup is run by various community members.
 
 ## Match Schedule: Quarterfinals
 
-### Saturday, 12 October 2019
+### Saturday, 19 October 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Dusk | ![][flag_CN] | ![][flag_CL] | nachoL | **02:00** |
-| #2 | Cxlucha | ![][flag_MX] | ![][flag_PH] | Roido | **03:00** |
-| #6 | -Boltic- | ![][flag_PE] | ![][flag_BR] | Hanik | **04:00** |
-| #7 | forgottentaco | ![][flag_FI] | ![][flag_AU] | chickennando | **10:00** |
-| #3 | Boros | ![][flag_FR] | ![][flag_IT] | Karym | **14:00** |
-| #5 | Holloh | ![][flag_FR] | ![][flag_DE] | Ginoshi | **15:00** |
-| #4 | -Kurisu- | ![][flag_US] | ![][flag_FR] | AAAAAAAAAAAAHHH | **19:00** |
-| #8 | Noulayfe | ![][flag_FR] | ![][flag_FR] | Shyeart | **22:00** |
+| #1 | Dusk | ![][flag_CN] | ![][flag_PH] | Roido | **10:00** |
+| #4 | forgottentaco | ![][flag_FI] | ![][flag_FR] | Boros | **15:00** |
+| #2 | Karym | ![][flag_IT] | ![][flag_US] | -Kurisu- | **19:00** |
+| #3 | Cxlucha | ![][flag_MX] | ![][flag_CL] | nachoL | **21:00** |
 
-### Sunday, 13 October 2019
+### Sunday, 20 October 2019
 
 | Match ID | Player A |  |  | Player B | Match Time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #9a¹ | Cxlucha | ![][flag_MX] | ![][flag_FR] | Holloh | **17:00** |
-| #9b¹ | Cxlucha | ![][flag_MX] | ![][flag_DE] | Ginoshi | **17:00** |
-| #9c¹ | Roido | ![][flag_PH] | ![][flag_FR] | Holloh | **11:00** |
-| #9d¹ | Roido | ![][flag_PH] | ![][flag_DE] | Ginoshi | **11:00** |
-| #10a² | Dusk | ![][flag_CN] | ![][flag_PE] | -Boltic- | **02:00** |
-| #10b² | Dusk | ![][flag_CN] | ![][flag_BR] | Hanik | **02:00** |
-| #10c² | nachoL | ![][flag_CL] | ![][flag_PE] | -Boltic- | **02:00** |
-| #10d² | nachoL | ![][flag_CL] | ![][flag_BR] | Hanik | **02:00** |
-| #11a³ | forgottentaco | ![][flag_FI] | ![][flag_US] | -Kurisu- | **18:00** |
-| #11b³ | forgottentaco | ![][flag_FI] | ![][flag_FR] | AAAAAAAAAAAAHHH | **16:00** |
-| #11c³ | chickennando | ![][flag_AU] | ![][flag_US] | -Kurisu- | **00:00** |
-| #11d³ | chickennando | ![][flag_AU] | ![][flag_FR] | AAAAAAAAAAAAHHH | **10:00** |
-| #12a⁴ | Noulayfe | ![][flag_FR] | ![][flag_FR] | Boros | **14:00** |
-| #12b⁴ | Noulayfe | ![][flag_FR] | ![][flag_IT] | Karym | **14:00** |
-| #12c⁴ | Shyeart | ![][flag_FR] | ![][flag_FR] | Boros | **14:00** |
-| #12d⁴ | Shyeart | ![][flag_FR] | ![][flag_IT] | Karym | **14:00** |
+| #5a¹ | Karym | ![][flag_IT] | ![][flag_MX] | Cxlucha | **19:00** |
+| #5b¹ | Karym | ![][flag_IT] | ![][flag_CL] | nachoL | **19:00** |
+| #5c¹ | -Kurisu- | ![][flag_US] | ![][flag_MX] | Cxlucha | **23:00** |
+| #5d¹ | -Kurisu- | ![][flag_US] | ![][flag_CL] | nachoL | **23:00** |
+| #6a² | Dusk | ![][flag_CN] | ![][flag_FI] | forgottentaco | **13:00** |
+| #6b² | Dusk | ![][flag_CN] | ![][flag_FR] | Boros | **13:00** |
+| #6c² | Roido | ![][flag_PH] | ![][flag_FI] | forgottentaco | **13:00** |
+| #6d² | Roido | ![][flag_PH] | ![][flag_FR] | Boros | **13:00** |
 
-¹ Encounter dependent on winner of Match #2 and Match #5
+¹ Encounter dependent on winner of match #2 and match #3
 
-² Encounter dependent on winner of Match #1 and Match #6
-
-³ Encounter dependent on winner of Match #7 and Match #4
-
-⁴ Encounter dependent on winner of Match #8 and Match #3
+² Encounter dependent on winner of match #1 and match #4
 
 ---
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (122 MB)](https://mega.nz/#!U1VVHYyQ!nt-ahH43zuIPYBYceOywAoSxTgrCbOBLtltoXZqzl-8)**
+
+- NoMod
+  - [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#fruits/1556011)
+  - [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#fruits/2096523)
+  - [Ocelot - YUKARI (Nhawak) \[Mystic\]](https://osu.ppy.sh/beatmapsets/497536#fruits/1058995)
+  - [Last Note. - Setsuna Trip (val0108) \[DoKo style\]](https://osu.ppy.sh/beatmapsets/58604#fruits/177493)
+  - [Shounen Radio - neu (Realazy) \[celerih's Expert\]](https://osu.ppy.sh/beatmapsets/843008#fruits/1763937)
+  - [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#fruits/995932)
+- Hidden
+  - [BACK-ON - flyaway [Tales of] Remix (ztrot) \[FLYAWAY!!!\]](https://osu.ppy.sh/beatmapsets/11620#fruits/44782)
+  - [Tia - Deal with the devil (Hey lululu) \[Koa%wer Extra\]](https://osu.ppy.sh/beatmapsets/666709#fruits/1427722)
+  - [SUICIDEWAVE - LAKUNA (2zz) \[expert\]](https://osu.ppy.sh/beatmapsets/512167#fruits/1283840)
+  - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#fruits/145669)
+- HardRock
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#fruits/986233)
+  - [nomico - Bad Apple!! feat. nomico (Kyle Y) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/799327#fruits/1678282)
+  - [Yuuyu - Scrap Syndrome (deetz) \[Extra\]](https://osu.ppy.sh/beatmapsets/973996#fruits/2044722)
+  - [SEVENTEEN - VERY NICE (Natsu) \[NATSU & EUNY'S AJU EXTRA\]](https://osu.ppy.sh/beatmapsets/618500#fruits/1312697)
+- DoubleTime
+  - [Lifetheory - Daisy (\_Yiiiii) \[krt's Insane\]](https://osu.ppy.sh/beatmapsets/549738#fruits/1167848)
+  - [ShinraBansho - Aqua terrarium (caren\_sk) \[AR8.ver\]](https://osu.ppy.sh/beatmapsets/854601#fruits/1788602)
+  - [loos - Koi Yomi Zakura (Full size) (papapa213) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1427449)
+  - [Agent Fresco - The Autumn Red (Mao) \[Wither\]](https://osu.ppy.sh/beatmapsets/917481#fruits/1916015)
+- Tiebreaker
+  - **[Mia REGINA / R3 Music Box - My Sweet Maiden (Riven) \[Desire\]](https://osu.ppy.sh/beatmapsets/702111#fruits/1544643)**
 
 ### Quarterfinals
 
@@ -190,7 +203,7 @@ The osu!catch Convert Cup is run by various community members.
 - Tiebreaker
   - **[Feryquitous - Yoi no Tamoto, Yoru to Futari (Ametrin) \[Monogatari\]](https://osu.ppy.sh/beatmapsets/891830#fruits/1864425)**
 
-### Qualifiers Stage
+### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc)**
 
@@ -207,6 +220,26 @@ The osu!catch Convert Cup is run by various community members.
 ---
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2019-10-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Dusk** ![][flag_CN] | **5** | 0 | ![][flag_CL] nachoL | -win by default- |
+| **forgottentaco** ![][flag_FI] | **5** | 2 | ![][flag_AU] chickennando | [#1](https://osu.ppy.sh/community/matches/55499845) |
+| Boros ![][flag_FR] | 1 | **5** | ![][flag_IT] Karym | [#1](https://osu.ppy.sh/community/matches/55505808) |
+| Cxlucha ![][flag_MX] | 0 | **5** | ![][flag_PH] **Roido** | [#1](https://osu.ppy.sh/community/matches/55509226) |
+| **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_DE] Ginoshi | -win by default- |
+| **-Kurisu-** ![][flag_US] | **5** | 2 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/55515119) |
+| -Boltic- ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55518676) |
+| **Noulayfe** ![][flag_FR] | **5** | 3 | ![][flag_FR] Shyeart | [#1](https://osu.ppy.sh/community/matches/55520182) |
+
+| Sunday, 2019-10-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **nachoL** ![][flag_CL] | **5** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/55524487) |
+| **forgottentaco** ![][flag_FI] | **5** | 1 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/55539324) |
+| **Cxlucha** ![][flag_MX] | **5** | 0 | ![][flag_FR] Holloh | -win by default- |
+| Noulayfe ![][flag_FR] | 0 | **5** | ![][flag_FR] **Boros** | -win by default- |
 
 ### Round of 16
 
@@ -268,7 +301,7 @@ The osu!catch Convert Cup is run by various community members.
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. The score system used in this tournament will be **Score V2**.
 2. Players will be seeded according to their average rank following the Qualifier Stage.
@@ -285,11 +318,11 @@ The osu!catch Convert Cup is run by various community members.
 13. Any player no-showing Qualifiers without any explanation will get a 1-year ban from any Kasumii tournaments. Any player who no-shows twice in Bracket stage without any explanation will get a 2-years ban from any of Kasumii tournaments.
     - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there.
 
-### Qualifier Stage Details
+### Qualifiers details
 
-The Qualifiers Stage is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
+The Qualifiers is a stage purely meant for seeding purposes. It is much better than pp seeding for this kind of tournaments, for well, pretty obvious reasons. We could have also seeded via [PakaChan's pp convert leaderboards](https://pakachan.github.io/osustuff/ppconvert.html), but that wouldn't work too well if we got 4 digits signing up to the tournament, as this only takes the top 1000 players. I don't want to take any risky steps, and therefore made it this way. The qualifier stage is pretty straight forward. Players will come into a lobby, play the entire mappool (which will have a much smaller format than usual, around 5-6 maps.) twice in their lobby, and then they're done. People you're in the same lobby with basically don't matter in the slightest, as your scores will be compared to every player in the tournament. Each player will be ranked by their score on each map, then we will do the average of all these ranks, and that will be the final ranking for the seedings of this tournament.
 
-### Winning Condition
+### Winning conditions
 
 1. Round of 32: Best-Of-7 (First to 4 points wins)
 2. Round of 16 and the Quarterfinals: Best-Of-9 (First to 5 points wins)
