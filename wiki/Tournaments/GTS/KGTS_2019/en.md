@@ -8,21 +8,21 @@ tags:
 
 ![KGTS 2019 Logo](img/logo.jpg)
 
-The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a worldwide  double-elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes **[katacheh](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh) maps** only. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-08-27/2019-09-15 |
-| Live Drawings | 2019-09-21 (15:00 UTC) |
+| Registration phase | 2019-08-27/2019-09-15 |
+| Live drawings | 2019-09-21 (15:00 UTC) |
 | Qualifiers | 2019-09-28/2019-09-29 |
 | Week 1 | 2019-10-05/2019-10-06 |
 | Week 2 | 2019-10-12/2019-10-13 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [Omoi feat. Hatsune Miku - Chiisana Koi no Uta (Synth Rock Cover) (seanhappy8520) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/619757#taiko/2125364)
   - [Camellia feat. Nanahira - Toryoka (katacheh) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1021737#taiko/2137764)
-  - [Camellia feat. Nanahira - NANI THE FUCK!! (katacheh) \[!@#$%^&*\]](https://osu.ppy.sh/beatmapsets/1030207#taiko/2154163)
+  - [Camellia feat. Nanahira - NANI THE FUCK!! (katacheh) \[!@#$%^&\*\]](https://osu.ppy.sh/beatmapsets/1030207#taiko/2154163)
   - [DJ Noriken feat. Nanahira - Sweet Wishes (katacheh) \[LastWish\]](https://osu.ppy.sh/beatmapsets/670625#taiko/1418246)
   - [Camellia feat. Nanahira - Energy Drink Girl Fein-chan! (Camellia-s "MONSTERISTIC" Remix) (katacheh) \[Cannabis\]](https://osu.ppy.sh/beatmapsets/911801#taiko/1903847)
   - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (katacheh) \[Braindropped\]](https://osu.ppy.sh/beatmapsets/758043#taiko/1594580)
@@ -194,7 +194,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Katacheh Global Taiko Showdown 2019 is a double-elimination tournament spread out on three weeks.
 2. The players will first play a Qualifiers Stage to seed them accordingly, then will head on to a double-elimination tournament.
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
 
-### Stage Regulations
+### Stage regulations
 
 1. There are three weeks worth of stages in the 1v1 tournament.
    - The first week will be the Qualifiers.
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
    - Semifinals: Best-Of-11 (First to 6 points)
    - **Finals and Grand Finals**: Best-Of-13 (First to 7 points)
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for every week in this tournament.
 2. The Loser's Bracket will always play on the same pool as the Winner's bracket of the same weekend.
@@ -233,13 +233,13 @@ This competition has come to an end and resulted in the following podium:
 10. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mod activated.
 11. The mappool for each stage will be showcased a week before.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Every stage is held during the weekend. (It is however allowed to schedule on another day if no good time is found during the weekend, and a referee is available)
 2. We will try to schedule as best as possible to fit with the timezones. The schedule will be released the previous weekend of each stage.
 3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when your match takes place.
 
-### Match Regulations
+### Match regulations
 
 1. A private lobby will be created 10 minutes before your match by a referee. You will get invited by the referee either right then, or right at the match time. During the team tournament, both teams captains will be invited into the room when it's match time. Then the referees or the captains will invite the other players into the room.
 2. If no staff or referee is available, the match will be postponed.
