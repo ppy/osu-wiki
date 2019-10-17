@@ -7,105 +7,104 @@ This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these 
 ## Changeable via the options menu
 
 <!-- TODO: add debug options? -->
-<!-- TODO: add value type column, change description to the name of the in-game option (most of them reference it already) -->
-| Option | Description |
-| :-- | :-- |
-| `Username` | osu! username |
-| `Password` | Hashed value of osu! password (**do not share this!**) |
-| `SaveUsername` | Toggles `Remember Username` in-game |
-| `SavePassword` | Toggles `Remember Password` in-game |
-| `Language` | Language that osu! will use |
-| `ShowUnicode` | Toggles `Prefer metadata in original language` in-game |
-| `AlternativeChatFont` | Lets you chose between old and new font style |
-| `FrameSync` | Determines which frame limiter osu! will use. |
-| `FpsCounter` | Toggles `Show FPS Counter` in-game. |
-| `CompatibilityContext` | Toggles `Compatability mode` in-game |
-| `ForceFrameFlush` | Toggles `Reduce dropped frames` in-game |
-| `DetectPerformanceIssues` | Toggles `Detect performance issues` in-game |
-| `Width` | Width of your osu! in windowed mode. Change this to set custom window widths. |
-| `Height` | Height of your osu! in windowed mode. Change this to set custom window heights. |
-| `WidthFullscreen` | Width of your osu! when using fullscreen mode. |
-| `HeightFullscreen` | Height of your osu! when using fullscreen mode. |
-| `Fullscreen` | Toggles `Fullscreen mode` in-game. |
-| `Letterboxing` | Toggles `Letterboxing` in-game |
-| `LetterboxPositionX` | Horizontal offset of the letterboxed view from the center of the screen |
-| `LetterboxPositionY` | Vertical offset of the letterboxed view from the center of the screen |
-| `SnakingSliders` | Toggles `Snaking Sliders` in-game. |
-| `Video` | Toggles `Background Video` in-game. |
-| `ShowStoryboard` | Disables storyboard while playing |
-| `ComboBurst` | Toggles `Combo Bursts` in-game. |
-| `HitLighting` | Toggles `Hit Lighting` in-game. |
-| `Shaders` | Toggles `Shaders` in-game |
-| `BloomSoftening` | Toggles `Softening Filter` in-game. |
-| `ScreenshotFormat` | Whether osu! will save screenshots as `.png` or `.jpg`. |
-| `MenuSnow` | Let it snow |
-| `MenuParallax` | Toggles `Parallax` in-game |
-| `ShowMenuTips` | Enable menu tips |
-| `MenuVoice` | Menu Voices toggle |
-| `MenuMusic` | Menu start-up music toggle |
-| `SeasonalBackgrounds` | Whether osu! will use fanart contest winners as the main menu background |
-| `SongSelectThumbnails` | Toggle whether thumbnails are used in song select |
-| `DimLevel` | Sets a global dim for beatmap backgrounds while playing |
-| `IHateHavingFun` | Toggles `Don't change dim level during breaks` in-game |
-| `ProgressBarType` | Changes `Progress Display` in-game |
-| `ScoreMeter` | Changes `Score meter type` in-game |
-| `ScoreMeterScale` | Changes the size of the score meter if it's enabled |
-| `KeyOverlay` | Automatically display key counter while playing |
-| `HiddenShowFirstApproach` | Toggles `Show approach circle on first "Hidden" object` in-game |
-| `ManiaSpeedBPMScale` | Forces osu!mania scroll speed to scale with BPM |
-| `UsePerBeatmapManiaSpeed` | Toggles `Remember osu!mania scroll speed per-beatmap` in-game |
-| `DisplayStarsMinimum` | The minimum star rating that will be displayed in song select |
-| `DisplayStarsMaximum` | The maximum star rating that will be displayed in song select |
-| `AudioDevice` | Changes `Output device` in-game |
-| `VolumeUniversal` | Current universal volume |
-| `VolumeMusic` | Current music volume |
-| `VolumeEffect` | Current effects volume |
-| `IgnoreBeatmapSamples` | Toggles `Ignore beatmap hitsounds` in-game |
-| `Offset` | Universal offset. |
-| `Skin` | Name of the currently selected skin. |
-| `IgnoreBeatmapSkins` | Ignore any beatmap skin elements |
-| `SkinSamples` | Toggles `Use skin samples` in-game. |
-| `UseTaikoSkin` | Toggles `Use Taiko skin for Taiko mode` in-game |
-| `UseSkinCursor` | `Always use skin cursor` setting toggle |
-| `CursorSize` | Cursor size |
-| `AutomaticCursorSizing` | Toggle automatic cursor sizing to map's circle size |
-| `ComboColourSliderBall` | toggle whether or not to use slider ball aligned to combo colour |
-| `MouseSpeed` | The mouse sensitivity multiplier. |
-| `RawInput` | Raw input toggle |
-| `AbsoluteToOsuWindow` | Toggles `Map absolute raw input to the osu! window` in-game |
-| `ConfineMouse` | Changes `Confine mouse cursor` in-game |
-| `MouseDisableWheel` | Toggles `Disable mouse wheel in play mode` in-game. |
-| `MouseDisableButtons` | Toggles `Disable mouse buttons in play mode` in-game. |
-| `CursorRipple` | Enables cursor ripples when clicking |
-| `Tablet` | Toggles `Enable OS TabletPC support` in-game. |
-| `Wiimote` | Use *Wiimote* toggle |
-| `VideoEditor` | Toggles whether or not background videos are shown while editing |
-| `EditorDefaultSkin` | Forces default skin while inside the editor |
-| `EditorSnakingSliders` | Toggles whether or not snaking sliders are shown while editing |
-| `EditorHitAnimations` | Toggles whether or not hit animations are shown while editing |
-| `EditorFollowPoints` | Toggles whether or not follow points are shown while editing |
-| `EditorStacking` | Toggles whether or not stacking is shown while editing |
-| `Ticker` | Toggles `Show chat ticker` in-game. |
-| `AutoChatHide` | Toggles `Automatically hide chat during gameplay` in-game. |
-| `ChatHighlightName` | Toggles `Show a notification popup when someone says your name` in-game. |
-| `ChatMessageNotification` | Toggles `Show chat message notifications` in-game |
-| `ChatAudibleHighlight` | Enable/disable sound notifications when highlighted |
-| `DisplayCityLocation` | Toggles `Share your city location with others` in-game. |
-| `ShowSpectators` | Toggles `Show a list of spectators during gameplay` in-game. |
-| `AutoSendNowPlaying` | Decides whether player auto `/np`'s the map to spectator chat |
-| `PopupDuringGameplay` | Enables disables popups during gameplay |
-| `NotifyFriends` | Toggles `Show notification popups when friends change status` in-game |
-| `AllowPublicInvites` | Allow anyone to invite you to multiplayer games |
-| `YahooIntegration` | Toggles `Integrate with Yahoo! status display` in-game. |
-| `MsnIntegration` | Toggles `Integrate with MSN Live status display` in-game. |
-| `AutomaticDownload` | Autmatically download new maps from osu!direct |
-| `AutomaticDownloadNoVideo` | Toggles `Prefer no-video downloads` in-game |
-| `ChatFilter` | Enables/disables chat filtering |
-| `ChatRemoveForeign` | Filter foreign characters toggle |
-| `LogPrivateMessages` | Automatically save private chat logs |
-| `BlockNonFriendPM` | Enables you to only receive messages from your friends |
-| `IgnoreList` | Words that will be ignored in chat |
-| `HighlightWords` | Contains everything in `Chat highlight words` in-game. |
+| Option | Value type | In-game option |
+| :-- | :-- | :-- |
+| `Username` | String | Username |
+| `Password` | String | Password (hashed, **do not share this!**) |
+| `SaveUsername` | 0 or 1 | Remember username |
+| `SavePassword` | 0 or 1 | Remember password |
+| `Language` | String | Select language |
+| `ShowUnicode` | 0 or 1 | Prefer metadata in original language |
+| `AlternativeChatFont` | 0 or 1 | Use alternative font for chat display |
+| `FrameSync` | String | Frame limiter |
+| `FpsCounter` | 0 or 1 | Show FPS counter |
+| `CompatibilityContext` | 0 or 1 | Compatibility mode |
+| `ForceFrameFlush` | 0 or 1 | Reduce dropped frames |
+| `DetectPerformanceIssues` | 0 or 1 | Detect performance issues |
+| `Width` | Integer | Resolution (when `Fullscreen` is `0`) |
+| `Height` | Integer | Resolution (when `Fullscreen` is `0`) |
+| `WidthFullscreen` | Integer | Resolution (when `Fullscreen` is `1`) |
+| `HeightFullscreen` | Integer | Resolution (when `Fullscreen` is `1`) |
+| `Fullscreen` | 0 or 1 | Fullscreen mode |
+| `Letterboxing` | 0 or 1 | Letterboxing |
+| `LetterboxPositionX` | Integer | Horizontal offset |
+| `LetterboxPositionY` | Integer | Vertical offset |
+| `SnakingSliders` | 0 or 1 | Snaking sliders |
+| `Video` | 0 or 1 | Background video |
+| `ShowStoryboard` | 0 or 1 | Storyboards |
+| `ComboBurst` | 0 or 1 | Combo bursts |
+| `HitLighting` | 0 or 1 | Hit lighting |
+| `Shaders` | 0 or 1 | Shaders |
+| `BloomSoftening` | 0 or 1 | Softening filter |
+| `ScreenshotFormat` | String | Screenshot format |
+| `MenuSnow` | 0 or 1 | Snow |
+| `MenuParallax` | 0 or 1 | Parallax |
+| `ShowMenuTips` | 0 or 1 | Menu tips |
+| `MenuVoice` | 0 or 1 | Interface voices |
+| `MenuMusic` | 0 or 1 | osu! music theme |
+| `SeasonalBackgrounds` | String | Seasonal backgrounds |
+| `SongSelectThumbnails` | 0 or 1 | Show thumbnails |
+| `DimLevel` | Integer | Background dim |
+| `IHateHavingFun` | 0 or 1 | Don't change dim level during breaks |
+| `ProgressBarType` | String | Progress display |
+| `ScoreMeter` | String | Score meter type |
+| `ScoreMeterScale` | Decimal | Score meter size |
+| `KeyOverlay` | 0 or 1 | Always show key overlay |
+| `HiddenShowFirstApproach` | 0 or 1 | Show approach circle on first "Hidden" object |
+| `ManiaSpeedBPMScale` | 0 or 1 | Scale osu!mania scroll speed with BPM |
+| `UsePerBeatmapManiaSpeed` | 0 or 1 | Remember osu!mania scroll speed per-beatmap |
+| `DisplayStarsMinimum` | Decimal | Display beatmaps from |
+| `DisplayStarsMaximum` | Decimal | up to |
+| `AudioDevice` | String | Output device |
+| `VolumeUniversal` | Integer | Master |
+| `VolumeMusic` | Integer | Music |
+| `VolumeEffect` | Integer | Effect |
+| `IgnoreBeatmapSamples` | 0 or 1 | Ignore beatmap hitsounds |
+| `Offset` | Integer | Universal offset |
+| `Skin` | String | Current skin |
+| `IgnoreBeatmapSkins` | 0 or 1 | Ignore all beatmap skins |
+| `SkinSamples` | 0 or 1 | Use skin's sound samples |
+| `UseTaikoSkin` | 0 or 1 | Use Taiko skin for Taiko mode |
+| `UseSkinCursor` | 0 or 1 | Always use skin cursor |
+| `CursorSize` | Decimal | Cursor size |
+| `AutomaticCursorSizing` | 0 or 1 | Automatic cursor sizing |
+| `ComboColourSliderBall` | 0 or 1 | Use combo colour as tint for slider ball |
+| `MouseSpeed` | Decimal | Sensitivity |
+| `RawInput` | 0 or 1 | Raw input |
+| `AbsoluteToOsuWindow` | 0 or 1 | Map absolute raw input to the osu! window |
+| `ConfineMouse` | String | Confine mouse cursor |
+| `MouseDisableWheel` | 0 or 1 | Disable mouse wheel in play mode |
+| `MouseDisableButtons` | 0 or 1 | Disable mouse buttons in play mode |
+| `CursorRipple` | 0 or 1 | Cursor ripples |
+| `Tablet` | 0 or 1 | Enable OS TabletPC support |
+| `Wiimote` | 0 or 1 | Wiimote/TaTaCon Drum support |
+| `VideoEditor` | 0 or 1 | Background video |
+| `EditorDefaultSkin` | 0 or 1 | Always use default skin |
+| `EditorSnakingSliders` | 0 or 1 | Snaking sliders |
+| `EditorHitAnimations` | 0 or 1 | Hit animations |
+| `EditorFollowPoints` | 0 or 1 | Follow points |
+| `EditorStacking` | 0 or 1 | Stacking |
+| `Ticker` | 0 or 1 | Chat ticker |
+| `AutoChatHide` | 0 or 1 | Automatically hide chat during gameplay |
+| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone says your name |
+| `ChatMessageNotification` | 0 or 1 | Show chat message notifications |
+| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone says your name |
+| `DisplayCityLocation` | 0 or 1 | Share your city location with others |
+| `ShowSpectators` | 0 or 1 | Show spectators |
+| `AutoSendNowPlaying` | 0 or 1 | Automatically link beatmaps to spectators |
+| `PopupDuringGameplay` | 0 or 1 | Show notification popups instantly during gameplay |
+| `NotifyFriends` | 0 or 1 | Show notification popups when friends change status |
+| `AllowPublicInvites` | 0 or 1 | Allow multiplayer game invites from all users |
+| `YahooIntegration` | 0 or 1 | Integrate with Yahoo! status display |
+| `MsnIntegration` | 0 or 1 | Integrate with MSN Live status display |
+| `AutomaticDownload` | 0 or 1 | Automatically start osu!direct downloads |
+| `AutomaticDownloadNoVideo` | 0 or 1 | Prefer no-video downloads |
+| `ChatFilter` | 0 or 1 | Filter offensive words |
+| `ChatRemoveForeign` | 0 or 1 | Filter foreign characters |
+| `LogPrivateMessages` | 0 or 1 | Log private messages |
+| `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
+| `IgnoreList` | String | Chat ignore list (space-separated list) |
+| `HighlightWords` | String | Chat highlight words (space-separated list) |
 
 ### Key binds
 
