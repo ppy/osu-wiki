@@ -40,7 +40,6 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
