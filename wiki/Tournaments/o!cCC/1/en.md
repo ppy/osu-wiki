@@ -315,7 +315,7 @@ The osu!catch Convert Cup is run by various community members.
 11. Always remember that this is just a game. (e.g. behave yourself while the match is ongoing)
 12. If neither player shows up to a match, the winner will be decided by who has the best seeding.
 13. Any player no-showing Qualifiers without any explanation will get a 1-year ban from any Kasumii tournaments. Any player who no-shows twice in Bracket stage without any explanation will get a 2-years ban from any of Kasumii tournaments.
-    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there./
+    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there.
 
 ### Qualifiers details
 
