@@ -21,89 +21,35 @@ The following content is separated into sections, indicated by section titles in
 
 ## General
 
-AudioFilename (String) specifies the location of the audio file relative to the current folder.
-
-`AudioFilename: 03 artcore JINJA.mp3`
-
-AudioLeadIn (Integer, milliseconds) is the amount of time added before the audio file begins playing. Useful for audio files that begin immediately.
-
-`AudioLeadIn: 2000`
-
-PreviewTime (Integer, milliseconds) defines when the audio file should begin playing when selected in the song selection menu.
-
-`PreviewTime: 10013`
-
-Countdown (Integer) specifies the speed of the countdown which occurs before the first hit object appears. (0=No countdown, 1=Normal, 2=Half, 3=Double)
-
-`Countdown: 0`
-
-SampleSet (String) specifies which set of hit sounds will be used throughout the beatmap.
-
-`SampleSet: Soft`
-
-StackLeniency (Decimal) is how often closely placed hit objects will be stacked together.
-
-`StackLeniency: 0.7`
-
-Mode (Integer) defines the game mode of the beatmap. (0=osu!, 1=Taiko, 2=Catch the Beat, 3=osu!mania)
-
-`Mode: 0`
-
-LetterboxInBreaks (Boolean) specifies whether the letterbox appears during breaks.
-
-`LetterboxInBreaks: 0`
-
-StoryFireInFront (Boolean) specifies whether or not display the storyboard in front of combo fire.
-
-`StoryFireInFront: 0`
-
-SkinPreference (String) specifies the preferred skin to use during gameplay.
-
-`SkinPreference:Default`
-
-EpilepsyWarning (Boolean) specifies whether or not show a 'This beatmap contains scenes with rapidly flashing colours...' warning at the beginning of the beatmap.
-
-`EpilepsyWarning: 0`
-
-CountdownOffset (Integer) specifies how many beats earlier the countdown starts.
-
-`CountdownOffset: 0`
-
-WidescreenStoryboard (Boolean) specifies whether or not the storyboard should be widescreen.
-
-`WidescreenStoryboard: 0`
-
-SpecialStyle (Boolean) specifies whether or not use the special `N+1` style for osu!mania.
-
-`SpecialStyle: 0`
-
-UseSkinSprites (Boolean) specifies whether or not the storyboard can use user's skin resources.
-
-[UseSkinSprites sample](https://osu.ppy.sh/beatmapsets/654033/#taiko/1386414)
-
-`UseSkinSprites: 0`
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `AudioFilename` | String | Location of the audio file relative to the current folder |
+| `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing |
+| `PreviewTime` | Integer | Time in milliseconds when the audio preview should start |
+| `Countdown` | Integer | Speed of the countdown before the first hit object (0 = no countdown, 1 = normal, 2 = half, 3 = double) |
+| `SampleSet` | String | Sample set that will be used if timing points do not override it |
+| `StackLeniency` | Decimal | Threshold in time where hit objects placed close together stack |
+| `Mode` | Integer | Game mode (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
+| `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect |
+| `StoryFireInFront` | 0 or 1 | *Deprecated* |
+| `SkinPreference` | String | Preferred skin to use during gameplay |
+| `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map |
+| `CountdownOffset` | Integer | Time in beats that the countdown starts before the first hit object |
+| `WidescreenStoryboard` | 0 or 1 | Whether or not the storyboard allows widescreen viewing |
+| `SpecialStyle` | 0 or 1 | Whether or not the "N+1" style key layout is used for osu!mania |
+| `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images |
 
 ## Editor
 
-Bookmarks (Integer List, milliseconds) is a list of comma-separated times of editor bookmarks.
+These options are only relevant when opening maps in the [beatmap editor](/wiki/Beatmap_Editor). They do not affect gameplay.
 
-`Bookmarks: 94171`
-
-DistanceSpacing (Decimal) is a multiplier for the "Distance Snap" feature.
-
-`DistanceSpacing: 1.22`
-
-BeatDivisor (Integer) specifies the beat division for placing objects.
-
-`BeatDivisor: 4`
-
-GridSize (Integer) specifies the size of the grid for the "Grid Snap" feature.
-
-`GridSize: 4`
-
-TimelineZoom (Decimal) specifies the zoom in the editor timeline.
-
-`TimelineZoom: 1.5`
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of bookmarks |
+| `DistanceSpacing` | Decimal | Distance snap multiplier |
+| `BeatDivisor` | Decimal | Beat snap divisor |
+| `GridSize` | Integer | Grid size |
+| `TimelineZoom` | Decimal | Scale factor for the object timeline |
 
 ## Metadata
 
