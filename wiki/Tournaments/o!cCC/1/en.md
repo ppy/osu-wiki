@@ -325,8 +325,8 @@ The Qualifiers is a stage purely meant for seeding purposes. It is much better t
 
 1. Round of 32: Best-Of-7 (First to 4 points wins)
 2. Round of 16 and the Quarterfinals: Best-Of-9 (First to 5 points wins)
-3. The Semifinals: Best-Of-11 (First to 6 points wins)
-4. **The Finals and the Grand Finals**: Best-Of-13 (First to 7 points wins)
+3. Semifinals: Best-Of-11 (First to 6 points wins)
+4. Finals and Grand Finals: Best-Of-13 (First to 7 points wins)
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
