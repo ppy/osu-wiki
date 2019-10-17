@@ -41,13 +41,13 @@ The osu!catch Convert Cup is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map Selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Map selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Commentator | ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Referee | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -219,7 +219,7 @@ The osu!catch Convert Cup is run by various community members.
 
 ---
 
-## Match Results
+## Match results
 
 ### Quarterfinals
 
@@ -316,7 +316,7 @@ The osu!catch Convert Cup is run by various community members.
 11. Always remember that this is just a game. (e.g. behave yourself while the match is ongoing)
 12. If neither player shows up to a match, the winner will be decided by who has the best seeding.
 13. Any player no-showing Qualifiers without any explanation will get a 1-year ban from any Kasumii tournaments. Any player who no-shows twice in Bracket stage without any explanation will get a 2-years ban from any of Kasumii tournaments.
-    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there.
+    - Players currently on all running  blacklist can accesed via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml). Any player potentially banned from my tournaments due to this will be put there./
 
 ### Qualifiers details
 
