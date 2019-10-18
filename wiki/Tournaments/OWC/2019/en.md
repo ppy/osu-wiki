@@ -26,8 +26,6 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 ## Prizes
 
-In every World Cup, the top three teams are eligible to receive unique prizes created specifically for World Cup winners. These items may change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
