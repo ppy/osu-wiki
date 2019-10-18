@@ -26,7 +26,7 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
+In every World Cup, the top three teams are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -41,9 +41,9 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Map Selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| Commentator | _to be decided_ |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Map Selectors | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
+| Commentators | _To be determined_ |
+| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -65,31 +65,31 @@ _Mappools will be revealed one week in advance of each round_
 
 ### Tournament Rules
 
-1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
-   - While this competition is planned as a 4 versus 4 setup, this might change depending on the amount of incoming registrations.
+1. The osu! World Cup is a country-based team tournament played on the osu! game mode.
+   - While this competition is planned as a 4 versus 4 setup, this may change depending on the amount of incoming registrations.
 2. Beatmap scoring is based on Score V2.
-3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
-4. Match schedule will be settled by the Tournament Management (see below).
+3. The beatmaps for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches.
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
+4. The match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
-7. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
+7. If the beatmap ends in a draw, the map will be nullified and replayed.
 8. If a player disconnects, their scores will not be counted towards their team's total.
-   - Disconnects within 30 seconds or 25% of the beatmap length (what happens first) after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
-9. Beatmaps cannot be reused in the same match unless the game was nullified.
+   - Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) after beatmap begin can be aborted and/or rematched. This is up to the referee's discretion.
+9. Beatmaps cannot be reused in the same match unless the map was nullified.
 10. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed without limitations.
-   - **In the event that a map rematch is required, exchanging players isn't allowed. An exception can be made, up to the referee's discretion, if the previous roster is unavailable to play.**
+   - **In the event that a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
 12. Lag is not a valid reason to nullify a beatmap.
-13. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
-14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-15. All players and referees must be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
+13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
+14. If a player disconnects between maps and the team can not provide an replacement, the match can be delayed 10 minutes at maximum.
+15. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-   - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
+   - Breaking the chat rules will result in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
-19. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-20. Penalties for violating the tournament rules can be:
+19. Unexpected incidents are handled by the tournament management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
+20. Penalties for violating the tournament rules may include:
    - Exclusion of specific players for one beatmap
    - Exclusion of specific players for an entire match
    - Declaring the match as Lost by Default
@@ -99,32 +99,32 @@ _Mappools will be revealed one week in advance of each round_
 
 ### Tournament Registration
 
-1. Every user interested in joining their country's team signs up individually.
+1. Every user interested in joining their country's team will sign up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+   - Tournament Management will declare one candidate to the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global osu! performance ranking is above 5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
-   - **A successful team should have at least 6 players registered to have the chance to play the Qualifier stage.**
-   - **The best 32 seeded teams will qualify to the Round of 32.**
-4. Mapset selectors must not participate as a player in this tournament.
+   - **A team should have at least 6 players registered to have the chance to play the Qualifier stage.**
+   - **The top 32 seeded teams will qualify to the Round of 32.**
+4. Mapset selectors must not participate as players in this tournament.
 
 ### Stage Instructions
 
 1. In the first stage (Qualifier Stage), all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). There won't be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
-4. Teams will have to play the map pool twice at a designated time. The best run will be considered for seeding.
-5. The mappool will be played in the order listed before.
-6. The exact amount of players required to play each map is 4. They can be exchanged freely after a map is concluded.
+4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
+5. The mappool will be played in the order listed above.
+6. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 7. There will be a 5 minute break in between the first and second playthrough of the map pool.
-8. All teams will have their Qualifiers runs in separated rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
-9. The best 32 seeded teams will advance to the Round of 32.
-10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-11. Due to the bracket change, teams on the losers bracket must play 2 matches each weekend starting on Quarterfinals.
+8. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
+9. The top 32 seeded teams will advance to the Round of 32.
+10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+11. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 12. **Winning conditions:**
    - In the Round of 32 and Round of 16, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In Quarterfinals and Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
@@ -140,41 +140,41 @@ _Mappools will be revealed one week in advance of each round_
    - **From Quarterfinals onwards, the amount of bans increases to two. However you can't ban more than one map of any mod bracket (excluding NoMod).**
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll decides which team **picks** first.
-   - The loser of the !roll decides which team **bans** first.
-   - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps and the first team will make their final ban afterwards.**
-6. Captains may pick freely from any bracket.
-   - In case of a tie, the tiebreaker beatmap must be played.
+   - The captain with the higher roll decides which team **picks** first.
+   - The captain with the lower roll decides which team **bans** first.
+   - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
+6. Captains may pick freely from any mod pool.
+   - In case of a tie, the tiebreaker beatmap will be played.
 7. Results of the Qualifier stage will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
-1. There will be **1 mappool for the Qualifier stage, 1 mappool for Round of 32**, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
+1. There will be 1 mappool for the Qualifier stage and each subsequent Winners Bracket Stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The Round of 32 and Round of 16 mappool will have 5 Nomod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
    - **The Quarterfinals, Semifinals, Finals and Grand Finals mappool will have 6 Nomod maps, 4 DoubleTime maps and 3 maps for each of the remaining mod brackets.**
 4. Each mappool has one tiebreaker.
-5. **NoFail mod is allowed to be selected at any map.**
+5. **The NoFail mod may be selected on any map.**
 6. The NoMod bracket will be played with no mods activated at all (other than NoFail).
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod activated as well by all current players.
+7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have FreeMod activated.
    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
-   - **When playing a FreeMod map, there must be one player with Hidden and one player with HardRock or Hidden+HardRock. For the remaining players, activating mods is optional.**
+   - **When playing a FreeMod map, there must be one player with Hidden and one player with HardRock or Hidden+HardRock. For the remaining players, enabling mods is optional.**
 9. The tiebreaker will be played under FreeMod conditions.
-   - When playing the tiebreaker, no one needs to have a mod activated.
+   - When playing the tiebreaker, there are no mod requirements.
 
 ### Scheduling Instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific timeframes proposed by the tournament staff. Each team is free to choose the timeframe they want to play.
-   - **A team that doesn't pick a timeframe by Friday 8th of November will be considered disqualified.**
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose the time slot in which they want to play.
+   - **A team that doesn't pick a time slot by Friday 8th of November will be considered disqualified.**
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zone.
+   - In the Quarterfinals and subsequent stages: Please inform tournament management before Sunday if you expect a specific time slot to be unavailable in the following week. Wishes will be granted to the best of management's abilities.
 5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
 6. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
+   - **Do not ask for a reschedule unless it is absolutely necessary. The tournament staff has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
