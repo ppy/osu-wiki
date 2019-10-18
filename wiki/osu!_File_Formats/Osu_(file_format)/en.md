@@ -80,7 +80,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ## Events
 
-*Event syntax:* `eventType,startTime,eventParams...`
+*Event syntax:* `eventType,startTime,eventParams`
 
 - **`eventType` (String or Integer):** Type of the event. Some events may be referred to by either a name or a number.
 - **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that don't use a start time, the default is `0`.
@@ -117,7 +117,7 @@ Storyboards can be defined in a separate optional storyboard file with the `.osb
 
 Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 
-## Timing Points
+## Timing points
 
 Each timing point influences a specified portion of the map, commonly called a "timing section". The `.osu` file format requires these to be sorted in chronological order.
 
@@ -144,7 +144,7 @@ All options in this section represent colours. They are comma-separated triplets
 | `SliderTrackOverride` | Additive slider track colour |
 | `SliderBorder` | Slider border colour |
 
-## Hit Objects
+## Hit objects
 
 ### Common structure
 
@@ -239,7 +239,7 @@ Today, *additionSet* inherits from *sampleSet*. Otherwise, it inherits from the 
 
 *filename* (String) names an audio file in the folder to play instead of sounds from sample sets, relative to the beatmap's directory.
 
-### Hit Circles
+### Hit circles
 
 A hit circle is a single hit in all osu! game modes.
 
@@ -320,7 +320,7 @@ A spinner also creates bananas in Catch the Beat, a spinner in osu!taiko, and do
 
 Hit sounds play at the end of the spinner.
 
-### osu!mania Hold Notes
+### osu!mania hold notes
 
 A hold note unique to osu!mania.
 
