@@ -140,7 +140,7 @@ All options in this section represent colours. They are comma-separated triplets
 
 | Option | Description |
 | :-- | :-- |
-| `Combo#`, where `#` is an integer | Additive combo colours |<!-- TODO: | `SliderBody` | Additive slider body colour | ... is this even a property -->
+| `Combo#`, where `#` is an integer | Additive combo colours |
 | `SliderTrackOverride` | Additive slider track colour |
 | `SliderBorder` | Slider border colour |
 
