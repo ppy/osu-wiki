@@ -28,7 +28,7 @@ The following content is separated into sections, indicated by section titles in
 | `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing |
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start |
 | `Countdown` | Integer | Speed of the countdown before the first hit object (0 = no countdown, 1 = normal, 2 = half, 3 = double) |
-| `SampleSet` | String | Sample set that will be used if timing points do not override it |
+| `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) |
 | `StackLeniency` | Decimal | Threshold in time where hit objects placed close together stack |
 | `Mode` | Integer | Game mode (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect |
@@ -123,12 +123,12 @@ Each timing point influences a specified portion of the map, commonly called a "
 
 *Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,kiai`
 
-- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point). Note that `beatLength` and `meter` properties on uninherited timing points will carry across all timing sections until the next uninherited timing point, regardless of inherited points' settings in-between.<!-- TODO: I don't know if this is true for `meter` -->
+- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
 - **`beatLength` (Decimal):** This property has two meanings:
   - For uninherited timing points, the duration of a beat, in milliseconds.
   - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.
-- **`meter` (Integer):** Amount of beats in a measure.
-- **`sampleSet` (Integer):** Default sample set for hit objects.<!-- TODO: list set options -->
+- **`meter` (Integer):** Amount of beats in a measure. Inherited timing points ignore this property.
+- **`sampleSet` (Integer):** Default sample set for hit objects (0 = beatmap default, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hit sounds.
 - **`volume` (Integer):** Volume percentage for hit objects.
 - **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
