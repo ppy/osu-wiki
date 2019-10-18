@@ -32,7 +32,7 @@ Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for mo
 
 #### I've forgotten my username and password!
 
-**Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
+**Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
 If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
@@ -45,7 +45,7 @@ Good information to include this email would be:
 
 #### My account has been stolen!
 
-**Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid.**
+**Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email is still valid.**
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
@@ -976,7 +976,7 @@ There's a few things we can try to resolve this issue.
 
 **This is the most obvious one.**
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/home/password-reset) to recover access to your account.
 
 ##### Are you using any proxy servers or VPNs?
 
