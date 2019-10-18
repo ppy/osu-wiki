@@ -176,7 +176,7 @@ On the new website, this filter can be found by clicking "more search options" o
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
-----------------------------------------------------------------------------
+---
 
 ## Client
 
@@ -435,7 +435,7 @@ If it doesn't resolve, a reboot can sometimes help.
 This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
- 
+
 Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
@@ -517,7 +517,7 @@ This helps to identify your own messages from everyone else's. There is no optio
 
 ### Performance
 
-##### How can I make osu! run cooler if my computer is overheating?
+#### How can I make osu! run cooler if my computer is overheating?
 
 **The easiest way is to change your frame limiter settings.**
 
@@ -596,7 +596,9 @@ To enable raw input, follow these steps:
 
 **You can solve this problem by defining a smaller tablet area for your device.**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](/wiki/Help_Centre/Tabarea.png).
+On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
+
+![Wacom Tablet Properties screen showing Mapping options](Tabarea.png "Interface for changing tablet area on Wacom devices")
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
@@ -620,7 +622,7 @@ Most beatmap packs come in a `.rar` file format, which means they are a compress
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
-----------------------------------------------------------------------------
+---
 
 ## Website
 
@@ -628,7 +630,7 @@ Once all of the `.osz` files within the pack are in the Songs directory, hitting
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on twitter at @osusupport to ask about your ticket.
+You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on Twitter at [@osusupport](https://twitter.com/osusupport) to ask about your ticket.
 
 In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
@@ -641,7 +643,6 @@ In such cases, you may open up a ticket with the support team by emailing [accou
 Most of the time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
 If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
-
 
 #### Can I completely block another user from contacting me?
 
@@ -729,7 +730,7 @@ Simply type the name of the artist you are searching for into the Google Custom 
 
 If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
 
-----------------------------------------------------------------------------
+---
 
 ## Installation and Registration
 
@@ -776,7 +777,7 @@ If you are not using any of the above, then you will need to send in a support t
 
 Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
 
-----------------------------------------------------------------------------
+---
 
 ## Beatmapping and Editor
 
@@ -812,7 +813,7 @@ You can delete your beatmap yourself by waiting for it to decay to the beatmap G
 
 Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
 
-----------------------------------------------------------------------------
+---
 
 ## osu!store and merchandise
 
@@ -934,7 +935,6 @@ To fix this, ensure you have the osu!go device selected, and right click on the 
 
 Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
 
-
 #### I've reformatted the osu!go device and it now shows up in Disk Management.
 
 **You're almost done!**
@@ -945,8 +945,7 @@ Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go
 
 If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
 
-
-----------------------------------------------------------------------------
+---
 
 ## Troubleshooting
 
