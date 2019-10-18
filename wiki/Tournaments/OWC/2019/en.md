@@ -41,7 +41,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Map Selectors | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
+| Beatmap Selectors | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
 | Commentators | _To be determined_ |
 | Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -83,12 +83,12 @@ _Mappools will be revealed one week in advance of each round_
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 14. If a player disconnects between maps and the team can not provide an replacement, the match can be delayed 10 minutes at maximum.
-15. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labeled as final are not to be objected.
+15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
    - Breaking the chat rules will result in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
-19. Unexpected incidents are handled by the tournament management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
+19. Unexpected incidents are handled by the tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules may include:
    - Exclusion of specific players for one beatmap
    - Exclusion of specific players for an entire match
@@ -105,12 +105,12 @@ _Mappools will be revealed one week in advance of each round_
    - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, you have to ensure that your global osu! performance ranking is above 5000.
-   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, a player's global osu! performance ranking must be better than #5000.
+   - To be successfully accepted on the list, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
    - **A team should have at least 6 players registered to have the chance to play the Qualifier stage.**
    - **The top 32 seeded teams will qualify to the Round of 32.**
-4. Mapset selectors must not participate as players in this tournament.
+4. Beatmap selectors must not participate as players in this tournament.
 
 ### Stage Instructions
 
@@ -126,9 +126,9 @@ _Mappools will be revealed one week in advance of each round_
 10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 11. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 12. **Winning conditions:**
-   - In the Round of 32 and Round of 16, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In Quarterfinals and Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
+   - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
+   - The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
@@ -137,7 +137,7 @@ _Mappools will be revealed one week in advance of each round_
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
-   - **From Quarterfinals onwards, the amount of bans increases to two. However you can't ban more than one map of any mod bracket (excluding NoMod).**
+   - **From Quarterfinals onwards, the amount of bans increases to two. However each team may not ban more than one map of any mod bracket (excluding NoMod).**
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
    - The captain with the higher roll decides which team **picks** first.
@@ -171,7 +171,7 @@ _Mappools will be revealed one week in advance of each round_
    - **A team that doesn't pick a time slot by Friday 8th of November will be considered disqualified.**
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zone.
-   - In the Quarterfinals and subsequent stages: Please inform tournament management before Sunday if you expect a specific time slot to be unavailable in the following week. Wishes will be granted to the best of management's abilities.
+   - In the Quarterfinals and subsequent stages: Team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Wishes will be granted to the best of Management's abilities.
 5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament staff has the right to decline the request.**
