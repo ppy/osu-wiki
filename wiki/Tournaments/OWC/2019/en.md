@@ -156,7 +156,7 @@ _Mappools will be revealed one week in advance of each round_
 5. **The NoFail mod may be selected on any map.**
 6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mod enabled by all players.
-8. The FreeMod bracket will have free mods enabled.
+8. The FreeMod bracket will have Free Mods enabled.
    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
    - **When playing a FreeMod map, there must be one player with Hidden and one player with HardRock or Hidden+HardRock. For the remaining players, enabling mods is optional.**
 9. The tiebreaker will be played under FreeMod conditions.
