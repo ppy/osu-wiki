@@ -170,7 +170,7 @@ _Mappools will be revealed one week in advance of each round_
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose the time slot in which they want to play.
    - **A team that doesn't pick a time slot by Friday 8th of November will be considered disqualified.**
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zone.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
 5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
 6. **Reschedules may only be requested by a team captain.**
