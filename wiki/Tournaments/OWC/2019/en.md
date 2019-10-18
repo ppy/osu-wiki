@@ -149,7 +149,7 @@ _Mappools will be revealed one week in advance of each round_
 
 ### Mappool Instructions
 
-1. There will be 1 mappool for the Qualifier stage and each subsequent Winners Bracket Stage.
+1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The Round of 32 and Round of 16 mappool will have 5 Nomod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
