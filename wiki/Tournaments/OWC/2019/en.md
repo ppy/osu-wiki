@@ -26,7 +26,7 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 ## Prizes
 
-In every World Cup, the top three teams are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
+In every World Cup, the top three teams are eligible to receive unique prizes created specifically for World Cup winners. These items may change with every installment of the World Cups.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -66,7 +66,7 @@ _Mappools will be revealed one week in advance of each round_
 ### Tournament Rules
 
 1. The osu! World Cup is a country-based team tournament played on the osu! game mode.
-   - While this competition is planned as a 4 versus 4 setup, this may change depending on the amount of incoming registrations.
+   - While this competition is planned as a 4 versus 4 setup, this may change depending on the number of incoming registrations.
 2. Beatmap scoring is based on Score V2.
 3. The beatmaps for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
@@ -79,14 +79,14 @@ _Mappools will be revealed one week in advance of each round_
 9. Beatmaps cannot be reused in the same match unless the map was nullified.
 10. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed without limitations.
-   - **In the event that a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
+   - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
-14. If a player disconnects between maps and the team can not provide an replacement, the match can be delayed 10 minutes at maximum.
+14. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum.
 15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
-   - Breaking the chat rules will result in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+   - Breaking the chat rules will result in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
 19. Unexpected incidents are handled by the tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules may include:
@@ -120,7 +120,7 @@ _Mappools will be revealed one week in advance of each round_
 4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
 6. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
-7. There will be a 5 minute break in between the first and second playthrough of the map pool.
+7. There will be a 5-minute break in between the first and second playthrough of the map pool.
 8. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
 9. The top 32 seeded teams will advance to the Round of 32.
 10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
@@ -137,15 +137,15 @@ _Mappools will be revealed one week in advance of each round_
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
-   - **From Quarterfinals onwards, the amount of bans increases to two. However each team may not ban more than one map of any mod bracket (excluding NoMod).**
+   - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use "!roll" once in #multiplayer.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
 6. Captains may pick freely from any mod pool.
-   - In case of a tie, the tiebreaker beatmap will be played.
-7. Results of the Qualifier stage will be published via a Statistics sheet.
+   - In the case of a tie, the tiebreaker beatmap will be played.
+7. The results of the Qualifier stage will be published via a statistics sheet.
 
 ### Mappool Instructions
 
@@ -175,7 +175,7 @@ _Mappools will be revealed one week in advance of each round_
 5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament staff has the right to decline the request.**
-7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+7. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
