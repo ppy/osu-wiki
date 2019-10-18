@@ -152,7 +152,7 @@ _Mappools will be revealed one week in advance of each round_
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-   - **The Round of 32 and Round of 16 mappool will have 5 Nomod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
+   - **The Round of 32 and Round of 16 mappools will have 5 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
    - **The Quarterfinals, Semifinals, Finals and Grand Finals mappools will have 6 NoMod maps, 4 DoubleTime maps and 3 maps for each of the remaining mod brackets.**
 4. Each mappool has one tiebreaker.
 5. **The NoFail mod may be selected on any map.**
