@@ -672,6 +672,8 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 3. Toggle the setting on by clicking it.
 4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
 
+<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
+
 ##### Blocking public forum posts from a user
 
 **To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
@@ -680,19 +682,11 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 2. Click submit.
 3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
 
+-->
+
 ##### Prevent any new forum private messages from reaching you
 
-**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
-
-1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. At the very top of the page, look for a column titled `Add new Rule`.
-3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
-4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
-5. Enter the offending user's username into the textbox that appears, then click Next.
-6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
-
-On the new website, go to your [account settings](https://osu.ppy.sh/home/account/edit) and simply click `lock private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendlist will still reach you.
+Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `lock private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendlist will still reach you.
 
 ##### What if I'm still having problems with a user after blocking them?
 
