@@ -41,7 +41,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 + **Disqualification requests by the beatmapset owner can be applied immediately.** This includes yourself, in case you want to self-dq.
 + **Issues that can be mitigated through online offsets, tags or similar must still be disqualified.** In the case that this is not possible, contact a member of the NAT. Online offsets and tags only apply for the website, so players will still have the issues in the client unless fixed before ranked.
 + **Qualified beatmaps found with unrankable or significant issues must be disqualified immediately.**
-+ **Do not disqualify beatmaps of game modes you are not formally qualified for.** This does not apply to disqualifications regarding audio, backgrounds, and other content that does not directly pertain to the beatmapset's game mode.
++ **Do not disqualify beatmaps of game modes you are not formally qualified for.** This does not apply to disqualifications regarding audio, backgrounds, and other content that does not directly pertain to the beatmaps' game modes.
 
 ### Veto
 
