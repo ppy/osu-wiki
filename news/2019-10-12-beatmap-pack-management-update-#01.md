@@ -5,7 +5,6 @@ date: 2019-10-13 15:30:00 +0000
 ---
 
 An update of the Beatmap Pack Management project, including new pack releases!
-
 ![](/wiki/shared/news/banners/beatmap-packs.jpg)
 
 Our project is called Beatmap Pack Management and our prior focus is the development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
