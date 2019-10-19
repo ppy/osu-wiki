@@ -19,12 +19,12 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 
 - [Code of Conduct](http://osuqat.tumblr.com/post/149777211965/code-of-conduct)
 - [Weekly Report #3](http://osuqat.tumblr.com/post/150075576015/weekly-report-3)
-- [Tips on creating “Beginner Friendly” easies](http://osuqat.tumblr.com/post/150197939840/tips-on-creating-beginner-friendly-easies)
+- [Tips on creating "Beginner Friendly" easies](http://osuqat.tumblr.com/post/150197939840/tips-on-creating-beginner-friendly-easies)
 - [osu!catch Spread Problem](http://osuqat.tumblr.com/post/150614301470/osucatch-spread-problem)
 
 #### October
 
-- [The QAT Gazette #4 (+ Ask Me Anything)](http://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4)
+- [The QAT Gazette #4](http://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4)
 - [The way we do spreads is actually really weird](http://osuqat.tumblr.com/post/151834390075/the-way-we-do-spreads-is-actually-really-weird)
 - [How the QAT handle Qualified Beatmaps](http://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps)
 
@@ -45,11 +45,11 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 
 #### May
 
-- [BN Test Review (osu!taiko, catch and mania) #2](http://osuqat.tumblr.com/post/160532419785/bn-test-review-2)
+- [BN Test Review #2](http://osuqat.tumblr.com/post/160532419785/bn-test-review-2)
 
 #### June
 
-- [The QAT Gazette #6 (+ Ask Me Anything)](http://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6)
+- [The QAT Gazette #6](http://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6)
 
 #### September
 
@@ -66,7 +66,3 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 #### December
 
 - [The QAT Gazette: December 2017](https://osu.ppy.sh/home/news/2017-12-13-qat-gazette-december-2017)
-
-## See also
-
-Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/users/4815717)
