@@ -64,7 +64,7 @@ Sharpen your high BPM aim, because you're going to need it to be in tip-top shap
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -90,7 +90,7 @@ Coming to Loved this week is a huge collab hosted by Noko_BSF, with 22 mappers c
 
 ## <a name="catch" id="catch"></a>osu!catch
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?start=170&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=170&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -114,7 +114,7 @@ Whereas the other selected osu!catch map for this week's Loved round is from a m
 
 ## <a name="mania" id="mania"></a>osu!mania
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/IcFqM7w5jfs?start=328&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=328&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
