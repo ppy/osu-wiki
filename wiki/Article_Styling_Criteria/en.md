@@ -52,6 +52,10 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 
 If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can discuss about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
+#### Content Parity
+
+Locales are subject to strict content parity with the English article, which in the sense, it has the same message, regardless of sentence structure changes. You are not allowed in any way to deviate from the original content of the English article, however, if cannot be avoided, you must update the English article accordingly based from your changes on the localised version of the article.
+
 ### Metadata
 
 Metadata must be placed at the very top of the file. An empty line must follow it.
