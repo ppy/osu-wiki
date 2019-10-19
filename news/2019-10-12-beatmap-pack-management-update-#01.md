@@ -6,7 +6,7 @@ date: 2019-10-13 15:30:00 +0000
 
 An update of the Beatmap Pack Management project, including new pack releases!
 
-![](/wiki/shared/news/banners/beatmap-pack-management.jpg)
+![](/wiki/shared/news/banners/beatmap-packs.jpg)
 
 Our project is called Beatmap Pack Management and while it isn't official yet, we still put a lot of effort and time into development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
 
@@ -19,7 +19,7 @@ I've created a small group of experienced users who are interested to work on ha
 
 lain was passionated enough to work on the very first mapping-style-specific mappacks that has been released in the packlist, and focused on beatmaps where alternating is essential. He has worked on two versions, one with ranked maps and one purely with loved beatmaps. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
 
-### The Embodiment of Scarlet Devil. pack
+### The Embodiment of Scarlet Devil pack
 
 *created by [celerih](https://osu.ppy.sh/users/4696296), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Xilver15](https://osu.ppy.sh/users/3099689)*  
 *written by [celerih](https://osu.ppy.sh/users/4696296)*
