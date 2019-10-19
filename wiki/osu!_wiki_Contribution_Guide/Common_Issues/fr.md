@@ -4,16 +4,16 @@
 
 Cela peut aussi être formulé ainsi: "Tous mes commits disent `Update en.md`," ou similaire.
 
-Si quelqu'un vous a dit cela ou si vous voyez que tous vos messages de validation sont identiques, cela signifie que vous n'avez pas utilisé de messages de validation significatifs lorsque vous avez pu ou avez essayé de déplacer, modifier et/ou supprimer plusieurs fichiers à l'aide de la commande. Interface Web GitHub.
+Si quelqu'un vous a dit cela ou si vous voyez que tous vos messages de validation sont identiques, cela signifie que vous n'avez pas utilisé de messages de validation significatifs lorsque vous avez pu ou avez essayé de déplacer, modifier et/ou supprimer plusieurs fichiers en utilisant l'Interface Web GitHub.
 
-Un message de validation significatif est un message qui peut permettre à quiconque de comprendre toutes vos modifications au sein de cette validation sans avoir à voir le diff de GitHub. Il y a une limite de 72 caractères pour le message de validation, vous devrez donc également le rendre court. Si vous avez des problèmes pour essayer de rester bref, vous devrez peut-être diviser vos commits. **Garde en tête que `Update en.md` ou similaire ne veut rien dire car personne ne saura quels changements spécifiques vous avez apportés ni quel article vous avez changé.**
+Un message de validation significatif est un message qui peut permettre à quiconque de comprendre toutes vos modifications au sein de cette validation sans avoir à voir le diff de GitHub. Il y a une limite de 72 caractères pour le message de validation, vous devrez donc également le rendre concis. Si vous avez des problèmes pour être bref, vous devrez peut-être diviser vos commits. **Garde en tête que `Update en.md` ou similaire ne veut rien dire car personne ne saura quels changements spécifiques vous avez apportés ni quel article vous avez changé.**
 
 ---
 
 Pour résoudre ce problème (pour les éditeurs GitHub Web Interface et GitHub Desktop):
 
 1. Allez à votre fork du `osu-wiki`.
-2. Créer une nouvelle branche. Nommez-le de la même manière que votre branche problématique et ajoutez un numéro, ou nommez-le comme vous le souhaitez.
+2. Créez une nouvelle branche. Nommez-la de la même manière que votre branche problématique et ajoutez un numéro, ou nommez-la comme vous le souhaitez.
 3. Créer un pull request.
 4. Si les menus déroulants `base fork` et `head fork` ne sont pas présents, cliquez sur le bouton `compare across forks`.
 5. Changez `head fork` par votre fork.
@@ -26,7 +26,7 @@ Pour résoudre ce problème (pour les éditeurs GitHub Web Interface et GitHub D
 12. Cliquez sur `Squash and merge`.
 13. Cliquez sur `Squash and merge` encore.
 14. Corrigez le titre (ce sera le message de validation; assurez-vous qu’il a un sens).
-15. Corrigez la description (ce sera la description de la validation; ceci est facultatif, mais assurez-vous de le changer).
+15. Corrigez la description (ce sera la description de la validation; ceci est facultatif, mais assurez-vous de la changer).
 16. Cliquez sur `Confirm squash and merge`.
 17. Aller à [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
 18. Fermez votre pull request comportant la branche problématique.
@@ -57,13 +57,13 @@ Pour résoudre ce problème, il existe un service/script appelé [Upriver](https
 6. Click `Close`.
 7. (Vous pouvez fermer Upriver).
 
-Si rien ne se passe, votre branche principale sur votre fork sera même avec `ppy:master`. Vous pouvez maintenant créer des branches à partir de la branche principale de votre branche sans problèmes de conflit.
+Si rien ne se passe, la branche principale de votre fork sera la même avec `ppy:master`. Vous pouvez maintenant créer des branches à partir de la branche principale de votre branche sans problèmes de conflit.
 
 ## Ma pull request a des conflits !
 
 Cela pourrait être dû à deux raisons : 
 
-- Vous avez édité un fichier lorsque votre branche était obsolète.
+- Vous avez édité un fichier alors que votre branche était obsolète.
 - Il y avait une mauvaise communication entre vous et une autre personne. Vous modifiiez donc le même article mais les modifications de cette personne ont été fusionnées avant les vôtres. (En raison de problèmes techniques, vos fichiers modifiés sont devenus obsolètes.)
 
 Selon la gravité des conflits, vous pouvez avoir deux options pour résoudre ce problème.
@@ -75,4 +75,4 @@ Selon la gravité des conflits, vous pouvez avoir deux options pour résoudre ce
    4. Répétez pour tous.
    5. Une fois terminé, cliquez sur `Mark as resolved`. (Ceci est uniquement disponible lorsque toutes les parties en conflit du fichier sont résolues.)
 2. Si le bouton`Resolve conflicts` est bloqué car trop compliqué pour GitHub, vous n’avez pas de chance et vous devrez [mettre a jour votre branche](#my-branch-is-out-of-date!) et effectuez vos modifications à nouveau.
-   - *Remarque: cela n’est vrai que si vous êtes limité à l’utilisation de l’Interface Web GitHub.* Il existe toujours des moyens de le réparer, mais cela ne sera pas traité dans cet article et cela ne vaut peut-être pas la peine de le faire, car vous écraserez et annulez les modifications conflictuelles.
+   - *Remarque: cela n’est vrai que si vous êtes limité à l’utilisation de l’Interface Web GitHub.* Il existe toujours des moyens de la réparer, mais cela ne sera pas traité dans cet article et cela ne vaut peut-être pas la peine de le faire, car vous écraserez et annulerez les modifications conflictuelles.

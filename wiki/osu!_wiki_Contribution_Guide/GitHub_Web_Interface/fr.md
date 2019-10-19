@@ -14,9 +14,9 @@
 
 ![](img/online-editing.jpg "En cliquant sur cette icône représentant un crayon dans GitHub, vous accédez à l'éditeur Web.")
 
-5\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Article Critères de style](/wiki/ASC) aussi près que possible.
+5\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les articles](/wiki/ASC) aussi fidèlement que possible.
 
-6\. Continuer à [Saving and committing](#saving-and-committing).
+6\. Continuez à [Saving and committing](#saving-and-committing).
 
 ### Déplacement de fichiers
 
@@ -34,7 +34,7 @@
 
 5\. Une fois que vous avez atteint le niveau requis, saisissez un autre nom de dossier et/ou le nom de la région (en minuscules) suivi de `.md`.
 
-6\. Continuer à [Saving and committing](#saving-and-committing).
+6\. Continuez à [Saving and committing](#saving-and-committing).
 
 ### Création de fichiers
 
@@ -46,7 +46,7 @@
 
 4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
 
-5\. Continuer à [Saving and committing](#saving-and-committing).
+5\. Continuez à [Saving and committing](#saving-and-committing).
 
 ### Téléchargement de fichiers
 
@@ -58,7 +58,7 @@
 
 4\. Sélectionnez les fichiers que vous souhaitez télécharger.
 
-5\. Continuer à [Saving and committing](#saving-and-committing).
+5\. Continuez à [Saving and committing](#saving-and-committing).
 
 *Remarque: vous pouvez également télécharger des dossiers.* Cela peut être utile pour ceux qui souhaitent créer de nouveaux articles localement.
 
@@ -72,13 +72,13 @@
 
 3\. Cliquez sur l'icône de la corbeille.
 
-4\. Continuer à [Saving and committing](#saving-and-committing).
+4\. Continuez à [Saving and committing](#saving-and-committing).
 
 ## Saving and committing
 
 1\. Lorsque vous avez terminé vos modifications, faites défiler vers le bas de la page. Vous pouvez voir quelque chose de semblable à ceci:
 
-![](img/online-commit-changes-empty.jpg "S'il vous plaît ne laissez pas ceci vides!")
+![](img/online-commit-changes-empty.jpg "S'il vous plaît ne laissez pas ceci vide !")
 
 2\. **Quoi que vous fassiez, ne laissez jamais la zone de texte du titre vide!** Au lieu de cela, entrez le titre de l'article et un court résumé de toutes les modifications que vous avez apportées **en anglais**.
 
@@ -90,14 +90,14 @@
 
 5\. Nommez cette branche comme bon vous semble, assurez-vous de bien noter le nom que vous avez choisi.
 
-6\. Cliquez sur le bouton vert. il va lire soit `Propose file change` ou `Commit changes`, Cela dépend si vous créez une nouvelle branche ou non.
+6\. Cliquez sur le bouton vert. il va proposer soit `Propose file change` ou `Commit changes`, cela dépend si vous créez une nouvelle branche ou non.
 
 7\. Cela fera deux choses : sauvegardez vos modifications dans la branche que vous venez de nommer et cela ouvrira la page de demande de tirage.
 
 ![](img/pull-request-pippi-osu--osu-wiki.jpg "Ne fais rien ici! (Ceci est la mauvaise page!)")
 
-8\. Continuer à [Finition](#finishing).
+8\. Continuez à [Finition](#finishing).
 
 ## Finition
 
-Vous pouvez maintenant revenir à  [osu! Guide de contribution du wiki](/wiki/owcg/#finishing) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/owcg#finition) pour la dernière information concernant votre demande et vos modifications.

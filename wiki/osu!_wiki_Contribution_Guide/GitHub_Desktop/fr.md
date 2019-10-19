@@ -10,7 +10,7 @@
 
 3\. Remplissez les invites telles qu'elles apparaissent.
 
-4\. Continuer à [Clonage](#cloning).
+4\. Continuer à [Clonage](#clonage).
 
 ## Clonage
 
@@ -38,25 +38,25 @@
 
 3\. Continuer à [Édition](#editing).
 
-## Editing
+## Édition
 
 1\. Dans le dossier dans lequel vous avez cloné le référentiel, accédez au fichier que vous souhaitez modifier. Les articles sont organisés en fonction des noms de dossier, à savoir les noms d’article et les fichiers `.md` en local.
 
 2\. Une fois que vous avez trouvé le bon fichier, ouvrez-le à l'aide de votre éditeur de texte préféré.
 
-3\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Article Critères de style](/wiki/ASC) aussi près que possible.
+3\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [ Critères de style pour les Article](/wiki/ASC) du mieux que vous pouvez.
 
-4\. Continuer à [Committing et pushing](#committing-and-pushing).
+4\. Continuez à [Committing et pushing](#committing-and-pushing).
 
 ### Déplacement de fichiers existants
 
 1\. Utilisez l'explorateur Windows pour déplacer des fichiers.
 
-2\. Continuer à [Committing and pushing](#committing-and-pushing).
+2\. Continuez à [Committing and pushing](#committing-and-pushing).
 
 ### Créer de nouveaux fichiers
 
-*Attention: Si vous envisagez de créer des fichiers d’article à l’aide de l’explorateur Windows, assurez-vous que l'option `Extensions de nom de fichier` est activer.* Voir [Comment afficher ou masquer les extensions de nom de fichier dans l'Explorateur Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) pour les instructions.
+*Attention: Si vous envisagez de créer des fichiers d’article à l’aide de l’explorateur Windows, assurez-vous que l'option `Extensions de nom de fichier` est activée.* Voir [Comment afficher ou masquer les extensions de nom de fichier dans l'Explorateur Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) pour les instructions.
 
 1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions. [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
 
@@ -66,7 +66,7 @@
 
 1\. Utilisez l'explorateur Windows pour supprimer des fichiers.
 
-2\. ontinuer à [Committing and pushing](#committing-and-pushing).
+2\. Continuez à [Committing and pushing](#committing-and-pushing).
 
 ## Committing and pushing
 
@@ -88,7 +88,7 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajou
 
 ![](img/github-desktop-first-commit.jpg "Premier commit")
 
-7\. Cliquez sur le boutton bleu `Commit to` et, le cas échéant, recommencez à partir de l'étape 4 pour effectuer les autres commits que vous souhaitez effectuer.
+7\. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez à partir de l'étape 4 pour effectuer les autres commits que vous souhaitez effectuer.
 
 ![](img/github-desktop-second-commit.jpg "Deuxième commit")
 
@@ -96,7 +96,7 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajou
 
 ![](img/github-desktop-push.jpg)
 
-9\. Continuer à [Finition](#finishing).
+9\. Continuez à [Finition](#finition).
 
 ## Finition
 
