@@ -54,7 +54,7 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 #### Content Parity
 
-Locales are subject to strict content parity with the English article, which in the sense, it has the same message, regardless of sentence structure changes. You are not allowed in any way to deviate from the original content of the English article, however, if cannot be avoided, you must update the English article accordingly based from your changes on the localised version of the article.
+Locales are subject to strict content parity with the English article, which in the sense, it has the same message, regardless of sentence structure changes. You are not allowed in any way to deviate from the original content of the English article, however, if cannot be avoided, you must update the English article accordingly based from your changes on the localised version of the article, however, articles like the Article Styling Criteria are not allowed to be changed without prior discussion for such changes.
 
 ### Metadata
 
