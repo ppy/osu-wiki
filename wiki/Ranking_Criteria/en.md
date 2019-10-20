@@ -146,8 +146,8 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
-- **If the same song exists in the `Has Leaderboard` section already, the metadata should be followed unless it breaks other rules in the Ranking Criteria or the Official Sources state something completely different.**
-- **Artist names and field formatting should be consistent between different songs from the same person or group as other maps in the `Has Leaderboard` section.** This is unless the person or group intentionally uses a different alias for different song or album releases.
+- **If the same song exists in the Ranked or Loved already, the metadata should be followed unless it breaks other rules in the Ranking Criteria or the Official Sources state something completely different.**
+- **Artist names should be consistent between different songs from the same person or group in Ranked or Loved.** This is unless the person or group intentionally uses a different alias for different song or album releases.
 - **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring whitespaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
 
 ### Allowances
