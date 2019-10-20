@@ -249,4 +249,4 @@ All users listed below were added on 2019-02-16.
 - [Dapuluous](https://osu.ppy.sh/users/8140944) - resignation (2019-10-17)
 - [Nana Abe](https://osu.ppy.sh/users/6443117) - insufficient proficiency (2019-10-19)
 
-<!-- last update: 2019-10-04 Namki -->
+<!-- last update: 2019-10-20 Namki -->
