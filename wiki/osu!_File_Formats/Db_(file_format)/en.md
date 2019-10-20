@@ -174,11 +174,12 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
-| Double | Additional mod information. Currently only present if [Target Practice](/wiki/Game_Modifiers/en.md#target-practice) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_Modifiers#special.1) is enabled. |
 
 #### Additional mod information
+
 | Mod | Stored information |
-| --- | ------------------ |
+| :-- | :-- |
 | Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
 
 Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).
