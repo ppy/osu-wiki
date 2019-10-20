@@ -39,6 +39,12 @@ Byte offsets are not included in this table due to variable length values.
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
 | Long | Online Score ID |
+| Double | Additional mod information. Currently only present when [Target Practice](/wiki/Game_Modifiers/en.md#target-practice) is Enabled. |
+
+**Additional mod information**:
+| Mod | Stored information |
+| --- | ------------------ |
+|Target Practice | Total used for calculating accuracy. (Total / Hits) |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
