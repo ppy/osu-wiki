@@ -52,9 +52,11 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 
 If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can discuss about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
-#### Content Parity
+### Content parity
 
-Locales are subject to strict content parity with the English article, which in the sense, it has the same message, regardless of grammatical changes. You are not allowed in any way to deviate from the original content of the English article, however, if cannot be avoided, you must update the English article accordingly based from your changes on the localised version of the article, however, articles like the Article Styling Criteria and the Beatmap Ranking Criteria are not allowed to be changed without prior discussion for such changes.
+*Note: This does not apply to articles originally written in a language other than English.*
+
+Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
 
 ### Metadata
 
