@@ -12,12 +12,12 @@ The difficulty of a beatmap *describes* the level of skill needed to complete it
 
 For the [Ranking Criteria](/wiki/Ranking_Criteria), star ratings typically correspond to these difficulties:
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
-- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
+- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+: >6.5★
 
 Note that these ranges are not limits; maps may deviate from the specified ranges significantly and still be acceptable.
 
@@ -27,36 +27,40 @@ The above star rating ranges determine which web icon is going to be used on any
 
 ## Difficulty levels
 
-*Main page: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-### osu!
+### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Easy)
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Normal)
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
+- ![](/wiki/shared/diff/easy-s.png) [Easy](Easy)
+- ![](/wiki/shared/diff/normal-s.png) [Normal](Normal)
+- ![](/wiki/shared/diff/hard-s.png) [Hard](Hard)
+- ![](/wiki/shared/diff/insane-s.png) [Insane](Insane)
+- ![](/wiki/shared/diff/expert-s.png) [Expert](Expert)
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+
 
-### osu!taiko
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
-- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu)
-- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
-- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (sometimes called _Inner Oni_)
+- ![](/wiki/shared/diff/easy-t.png) [Kantan](Kantan)
+- ![](/wiki/shared/diff/normal-t.png) [Futsuu](Futsuu)
+- ![](/wiki/shared/diff/hard-t.png) [Muzukashii](Muzukashii)
+- ![](/wiki/shared/diff/insane-t.png) [Oni](Oni)
+- ![](/wiki/shared/diff/expert-t.png) [Inner/Ura Oni](Ura_Oni)
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
-### osu!catch
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
-- ![Cup icon](/wiki/shared/diff/easy-c.png "Cup icon") Cup
-- ![Salad icon](/wiki/shared/diff/normal-c.png "Salad icon") Salad
-- ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
-- ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
-- ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
 
-### osu!mania
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
-- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") EZ
-- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") NM
-- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
-- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
-- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
+- ![](/wiki/shared/diff/easy-m.png) Easy
+- ![](/wiki/shared/diff/normal-m.png) Normal
+- ![](/wiki/shared/diff/hard-m.png) Hard
+- ![](/wiki/shared/diff/insane-m.png) Insane
+- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/expertplus-m.png) Expert+
