@@ -225,7 +225,7 @@ All users listed below were added on 2019-02-16.
 
 ## October
 
-- Added [- [bibitaru] - ](https://osu.ppy.sh/users/4482419) to the Global Moderation Team (2019-10-05)
+- Added [- [bibitaru] -](https://osu.ppy.sh/users/4482419) to the Global Moderation Team (2019-10-05)
 - Added [Loneight](https://osu.ppy.sh/users/663131) to the Global Moderation Team (2019-10-05)
 - Moved [Leniane](https://osu.ppy.sh/users/7138602) to the Nomination Assessment Team (2019-10-15)
 
