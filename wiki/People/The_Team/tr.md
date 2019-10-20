@@ -44,6 +44,8 @@ outdated: true
 
 ## Kullanıcı grupları
 
+Aşağıda belirtilenler osu!'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır. Bu üye gruplarının çoğuna forum ismi renkleri, oyun-içi sohbet renkleri ve/veya profil rozetleri verilir.
+
 | İsim | Açıklama |
 | ---- | ----------- |
 | [Global Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team) | Forumlarda ve oyun-içi sohbette göz kulak olurlar |

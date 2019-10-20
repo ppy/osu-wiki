@@ -1,17 +1,12 @@
 # The Team
 
+*For a list of promotions and retirements, see: [Staff Log](/wiki/Staff_Log)*
+
 The people listed below are the core of the osu!team, and are chiefly responsible for helping make the game awesome for everyone.
 
-## Creator
-
 | Name | Description |
 | :-- | :-- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Project lead |
-
-## Active
-
-| Name | Description |
-| :-- | :-- |
+| ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead and resident Creative Cloud watcher |
@@ -33,7 +28,21 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping and tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-## Inactive
+## User groups
+
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
+
+| Name | Description |
+| :-- | :-- |
+| [Beatmap Nominators](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Developers](Developers) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
+| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
+| [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Support Team](Support_Team) | Help / Feature Request assistance |
+
+## Inactive core team members
 
 | Name | Description |
 | :-- | :-- |
@@ -57,18 +66,6 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) management |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, Media/character design |
-
-## User groups
-
-| Name | Description |
-| :-- | :-- |
-| [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Developers](/wiki/People/Developers) | Making the game awesome by adding new features and fixing the bugs |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Managing the Beatmap Nominators |
-| [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Project Loved Team](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
-| [Support Team](/wiki/People/Support_Team) | Help / Feature Request assistance |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

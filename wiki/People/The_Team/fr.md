@@ -4,6 +4,8 @@ outdated: true
 
 # Le staff d'osu!
 
+*Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/Staff_Log)*
+
 ## Fondateur
 
 | Nom | Description |
@@ -43,6 +45,8 @@ outdated: true
 | [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, Développaur d'osu!mania |
 
 ## User Groups
+
+Les groupes d'utilisateurs suivants représentent les membres de la communauté qui aident à maintenir osu!. La plupart de ces groupes peuvent être reconnus grâce à la couleur de leur pseudonyme ou de leur texte dans le chat, leur photo de profil et/ou le(s) badge(s) présent(s) sur leur profil.
 
 | Nom | Description |
 | ---- | ----------- |
