@@ -1,5 +1,4 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
 [Play_Styles#Osu! wikilink]: /wiki/Play_Styles/ "plus d'informations sur les Styles de jeu dans osu!"
 [Score#Osu!SV wikilink]: /wiki/Score/#osu "plus d'informations sur le Score dans osu! Calcul du score"
 [Options#Keyboard wikilink]: /wiki/Options/ "plus d'informations sur les Options du Clavier"
@@ -36,9 +35,6 @@
 
 <!-- Titre -->
 # Osu!
-
-<!-- Supprimez les commentaires ci-dessous et supprimez ce commentaire si ScoreV2 est officiel et que la page entière doit être révisée pour s’adapter au comportement du système -->
-<!-- **[Cliquez ici pour visiter l'ancienne version d'osu! en utilisant le système obsolète ScoreV1](./v1 "Osu! v1")** -->
 
 ![Gameplay de osu!][Osu! Interface image]
 
