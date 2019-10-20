@@ -179,6 +179,6 @@ This database contains the scores achieved locally.
 #### Additional mod information
 | Mod | Stored information |
 | --- | ------------------ |
-|Target Practice | Total used for calculating accuracy. (Total / Hits) |
+| Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
 
 Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).

@@ -44,7 +44,7 @@ Byte offsets are not included in this table due to variable length values.
 **Additional mod information**:
 | Mod | Stored information |
 | --- | ------------------ |
-|Target Practice | Total used for calculating accuracy. (Total / Hits) |
+| Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
 
 The remaining data contains information about mouse movement and key presses in an [LZMA](https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm) stream.
 
