@@ -18,6 +18,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
+| ![][flag_MY] [- [bibitaru] - ](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat moderation |
@@ -41,6 +42,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat moderation |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap moderation |
+| ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinese | Chat moderation |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | <!-- not sure --> | osu! development |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat moderation |
@@ -107,3 +109,4 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
