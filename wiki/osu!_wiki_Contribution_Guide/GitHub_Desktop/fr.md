@@ -36,7 +36,7 @@
 
 ![](img/github-desktop-branch.jpg)
 
-3\. Continuer à [Édition](#editing).
+3\. Continuer à [Édition](#édition).
 
 ## Édition
 
