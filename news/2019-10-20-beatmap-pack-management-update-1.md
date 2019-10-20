@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Beatmap Pack Management: Update #1"
-date: 2019-10-13 15:30:00 +0000
+date: 2019-10-20 19:00:00 +0000
 ---
 
 An update of the Beatmap Pack Management project, including new pack releases!
+
 ![](/wiki/shared/news/banners/beatmap-packs.jpg)
 
 Our project is called Beatmap Pack Management and our prior focus is the development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
@@ -36,11 +37,11 @@ Ever wanted to see what popular maps looked like in earlier eras of the game? We
 
 *written by [celerih](https://osu.ppy.sh/users/4696296)*
 
-The osu!dan project is a brand new community created project that seeks to provide a sort of ‘campaign mode’ to the game. Players will progress through levels of increasing difficulty in a skill of their choice, such as aim, stamina, accuracy, et cetera.
+The osu!dan project is a brand new community created project that seeks to provide a sort of "campaign mode" to the game. Players will progress through levels of increasing difficulty in a skill of their choice, such as aim, stamina, accuracy, et cetera.
 
 Each of the dans will contain 20 levels, each of increasing difficulty. In order to complete a level, the player must reach the requirements on the maps presented, like reaching a certain accuracy threshold or attaining a full combo. For now, the release of dan levels is purely for fun, a way to practice, or testing yourself, but a more official implementation is planned for the future. wink wink
 
-The first of the dans is now available to download on the beatmap packs page of this site. The skill tested in this first release is aim and is sure to push your circle clicking limits. The requirements for this dan are quite simple; just full combo 10 of the 11 maps in a level to progress to the next. Once again, this for now is just for your own practice, or to compare yourself with your friends - there is no implementation for keeping track of levels as of now.
+The first of the dans is now available to download on the beatmap packs page of this site. The skill tested in this first release is aim and is sure to push your circle clicking limits. The requirements for this dan are quite simple; just full combo 10 of the 11 maps in a level to progress to the next. Once again, this for now is just for your own practice, or to compare yourself with your friends—there is no implementation for keeping track of levels as of now.
 
 If you wish to join the osu!dan server to assist with playtesting future packs and stay up to date, [you can join the server!](https://discord.gg/b7cVmGd)
 
