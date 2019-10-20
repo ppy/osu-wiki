@@ -45,7 +45,7 @@ Lorsque vous avez créé votre fork du `osu-wiki`, vous avez pris un instantané
 Pour résoudre ce problème, il existe un service/script appelé [Upriver](https://upriver.github.io/). Il "synchronisera sans effort vos référentiels GitHub avec Upriver en utilisant uniquement l’API GitHub", comme indiqué sur leur page GitHub.
 
 1. Aller à [Upriver](https://upriver.github.io/).
-2.Cliquez sur `Sign in with GitHub`, sautez ceci si vous l'avez déjà fait.
+2. Cliquez sur `Sign in with GitHub`, sautez ceci si vous l'avez déjà fait.
 3. Cliquez sur `Authorize upriver`, sautez ceci si vous l'avez déjà fait.
 4. Sélectionnez les éléments suivants:
    - in: *choisissez votre fork du `osu-wiki`*
@@ -61,7 +61,7 @@ Si rien ne se passe, la branche principale de votre fork sera la même avec `ppy
 
 ## Ma pull request a des conflits !
 
-Cela pourrait être dû à deux raisons : 
+Cela pourrait être dû à deux raisons :
 
 - Vous avez édité un fichier alors que votre branche était obsolète.
 - Il y avait une mauvaise communication entre vous et une autre personne. Vous modifiiez donc le même article mais les modifications de cette personne ont été fusionnées avant les vôtres. (En raison de problèmes techniques, vos fichiers modifiés sont devenus obsolètes.)

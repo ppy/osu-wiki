@@ -20,13 +20,13 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 2. Cliquez sur `Fork`.
 
-![](img/fork.jpg)
+   ![](img/fork.jpg)
 
 3. Cliquez sur `Fork` encore pour aller à votre fork.
 
 4. Voir quelque chose de similaire à l'image ci-dessous signifie que vous avez créé un fork de `ppy/osu-wiki` et que vous êtes sur votre fork.
 
-![](img/forked.jpg)
+   ![](img/forked.jpg)
 
 5. Continuez à [Synchroniser votre fork](#synchroniser-votre-fork).
 
@@ -36,13 +36,13 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 2. Au-dessus des fichiers, il y a du texte pour vous dire si votre branche est "derrière", "en avant" ou "la même" que `ppy:master`. S'il indique que la branche est "en retard" ou "en avance" avec un nombre quelconque de commits en arrière-plan, votre branche est obsolète.
 
-![](img/fork-even.jpg "OK \(Pas de commits et pas obsolètes\)")
+   ![](img/fork-even.jpg "OK \(Pas de commits et pas obsolètes\)")
 
-![](img/fork-ahead.jpg "OK \(Ce sont vos commits\)")
+   ![](img/fork-ahead.jpg "OK \(Ce sont vos commits\)")
 
-![](img/fork-behind.jpg "Potentiellement mauvais \(votre branche est obsolète\)")
+   ![](img/fork-behind.jpg "Potentiellement mauvais \(votre branche est obsolète\)")
 
-![](img/fork-ahead-behind.jpg "Potentiellement mauvais \(votre branche est obsolète avec vos commits\) ")
+   ![](img/fork-ahead-behind.jpg "Potentiellement mauvais \(votre branche est obsolète avec vos commits\) ")
 
 3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 
@@ -69,33 +69,33 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 2. Si vous avez été assez rapide, vous pouvez voir cette bannière jaune.
 
-![](img/github-recent.jpg)
+   ![](img/github-recent.jpg)
 
-1. Si vous le voyez, cliquez sur le bouton `Compare & pull request` (passez à l'étape 8). Sinon, cliquez sur le bouton `New pull request` (passez à l'étape 4).
+3. Si vous le voyez, cliquez sur le bouton `Compare & pull request` (passez à l'étape 8). Sinon, cliquez sur le bouton `New pull request` (passez à l'étape 4).
 
-2. Sur la page suivante, si ces deux boutons sont illustrés ci-dessous, cliquez sur le bouton `compare across forks`.
+4. Sur la page suivante, si ces deux boutons sont illustrés ci-dessous, cliquez sur le bouton `compare across forks`.
 
-![](img/compare-across-forks-no.jpg "Pas bien.")
+   ![](img/compare-across-forks-no.jpg "Pas bien.")
 
-1. Cliquez sur la liste déroulante `head fork` et sélectionnez celle avec votre nom d'utilisateur (ce devrait être le deuxième).
+5. Cliquez sur la liste déroulante `head fork` et sélectionnez celle avec votre nom d'utilisateur (ce devrait être le deuxième).
 
-![](img/head-fork.jpg)
+   ![](img/head-fork.jpg)
 
-1. Cliquez sur la liste déroulante `compare` et sélectionnez celle avec la branche que vous avez créée (elles sont classées par ordre alphabétique).
+6. Cliquez sur la liste déroulante `compare` et sélectionnez celle avec la branche que vous avez créée (elles sont classées par ordre alphabétique).
 
-![](img/compare-branch.jpg)
+   ![](img/compare-branch.jpg)
 
 7. Cliquez sur `Create pull request`.
 
 8. Entrez le titre en anglais. Cela devrait être une très brève explication de ce que vous avez changé.
 
-  Pour les traductions d'articles,incluez le nom de langue en deux lettres de vos traductions entre parenthèses avant le titre. Votre titre peut simplement être le nom du ou des articles que vous traduisez. Par exemple, `[FR] BBCode` indiquerait que vous mettez à jour la traduction française de l'[article BBCode](/wiki/BBCode).
+   Pour les traductions d'articles,incluez le nom de langue en deux lettres de vos traductions entre parenthèses avant le titre. Votre titre peut simplement être le nom du ou des articles que vous traduisez. Par exemple, `[FR] BBCode` indiquerait que vous mettez à jour la traduction française de l'[article BBCode](/wiki/BBCode).
 
 9. Remplissez la zone de description avec un résumé de vos modifications. Vous devez mentionner toute informations pertinentes à votre demande d'extraction, telle que son statut d'achèvement et tout ce que vous souhaitez que les réviseurs sachent. Vous pouvez également faire en sorte que votre demande d'extraction ferme automatiquement les problèmes de fusion en écrivant "resolves #1" ou "closes #1", dans la description. (voir [Fermer des issues en utilisant des mots clés](https://help.github.com/articles/closing-issues-using-keywords/) sur l'aide de GitHub).
 
 10. Une fois que vous êtes prêt, cliquez sur `Create pull request`.
 
-![](img/new-pull-request.png)
+    ![](img/new-pull-request.png)
 
 11. Voir [Commentaires](#commentaires) et [Fusion](#fusions) en dessous.
 

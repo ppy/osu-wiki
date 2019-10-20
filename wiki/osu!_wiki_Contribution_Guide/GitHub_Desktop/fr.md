@@ -44,7 +44,7 @@
 
 2\. Une fois que vous avez trouvé le bon fichier, ouvrez-le à l'aide de votre éditeur de texte préféré.
 
-3\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [ Critères de style pour les Article](/wiki/ASC) du mieux que vous pouvez.
+3\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les Article](/wiki/ASC) du mieux que vous pouvez.
 
 4\. Continuez à [Committing et pushing](#committing-and-pushing).
 
