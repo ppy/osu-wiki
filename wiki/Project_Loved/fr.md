@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ea5cceced4dbd81d528eb86ae2777947acc739b9
+---
+
 # Project Loved
 
 **Project Loved** est la plateforme de vote qui fait la promotion des beatmaps catégorisé Il est géré principalement par l'[équipe Project Loved](/wiki/People/Project_Loved_Team).
@@ -21,7 +26,7 @@ Les maps nominées sont ensuite postées sur le [forum Project Loved](https://os
 
 Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'un beatmapset est éligible pour la catégorie Loved si:
 
-- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) ou [Approved](/wiki/Beatmaps#approved) 
+- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) ou [Approved](/wiki/Beatmaps#approved)
 - Son créateur ne désapprouve pas le fait qu'il soit loved
 - Son créateur n'est ni banni ni restreint
 - Au moins une difficulté peut être passée
