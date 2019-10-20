@@ -1,4 +1,5 @@
 ---
+layout: sitemap_page
 tags:
 - index
 - all links
