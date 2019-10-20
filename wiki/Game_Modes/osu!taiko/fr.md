@@ -17,7 +17,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[logo osu!taiko]: ./img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
+[osu!taiko logo]: ./img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "icône osu!taiko"
@@ -73,7 +73,7 @@ Le combo ne sera pas brisé s’il n’y a pas de cercle.
 Contrairement à osu!, la célébration d’un combo se fait tous les 50 cercles touchés à la suite.
 Le score de base peut être boosté après avoir obtenu un combo qui est un multiple de 10, mais se stoppe à 100 (limite combo maximum pour le boost)
 Si le combo est brisé, le boost va être réinitialisé.
-Durant le  _Kiai Time_, chaque cerclé frappé réussi donnera au joueur 20% de points en plus par rapport à son score actuel.
+Durant le _Kiai Time_, chaque cerclé frappé réussi donnera au joueur 20% de points en plus par rapport à son score actuel.
 Le score gagné par un cercle réussi est affiché en rouge au dessus de la précision dans le coin en haut à droite. 
 
 #### Notes de Taiko
@@ -98,7 +98,7 @@ _Les drumrolls apparaissent comme une barre jaune avec un cercle jaune comme dé
 
 Frapper l'intérieur (ou l'extérieur) du tambour continuellement pour gagner des points jusqu'à la fin du drumroll.
 Pour les **GRANDE** notes, vous gagnerez le double des points, mais il n’y a pas besoin d’appuyer sur les deux touches intérieures ou extérieures. Une seule suffit.
-Notez que ces drumrolls sont plus difficiles  car les points sont seulement gagner quand vous touchez les petits cercles blancs, contrairement au drumrolling dans _Taiko no Tatsujin_ ou il faut frapper aussi vite que possible.
+Notez que ces drumrolls sont plus difficiles car les points sont seulement gagner quand vous touchez les petits cercles blancs, contrairement au drumrolling dans _Taiko no Tatsujin_ ou il faut frapper aussi vite que possible.
 
 Les drumrolls peuvent être ignorés sans être pénalisant pour la vie, comme il ne font pas remonter la barre de vie du tout.
 Toutefois, vous ne gagnerez pas de points sur ce drumroll.
@@ -132,7 +132,7 @@ L'emplacement du curseur dans le jeu n'a pas d'importance lors de la lecture.
 
 Si le mode [Relax][Relax wikilink] est utilisé, le jugement du score ne prend en compte que le temps de frappe (et corrige automatiquement la couleur incorrecte avec une couleur correcte). 
 
-Les contrôleurs de tambour _TaTaCon_ sont principalement conçus pour les ports d'attache de _Taiko no Tatsujin _ et de _Taiko: Drum Master_.
+Les contrôleurs de tambour _TaTaCon_ sont principalement conçus pour les ports d'attache de _Taiko no Tatsujin_ et de _Taiko: Drum Master_.
 
 ## Calcul du score
 
@@ -140,10 +140,10 @@ _[Les valeurs de base peuvent être trouvées dans la section score d’osu!taik
 
 La section calcul du score détaille toutes les subtilités du score, y compris la formule mathématique.
 
-Les termes pour annoncer un score en osu!taiko utilise les mêmes termes que  _Taiko no Tatsujin_ comme montré ci-dessous :-
+Les termes pour annoncer un score en osu!taiko utilise les mêmes termes que _Taiko no Tatsujin_ comme montré ci-dessous :-
 
 - GREAT (良), ou 300
-- GOOD  (可), ou 100
+- GOOD (可), ou 100
 - MISS/BAD (不可), ou Miss
 
 ## Grade
@@ -151,9 +151,9 @@ Les termes pour annoncer un score en osu!taiko utilise les mêmes termes que  _T
 Grade| Condition
 :---:|:---
 SS | 100% de précision.
-S  | Plus de 95% de précision (90+% GREATs, ou moins d’un GOOD toutes les 10 notes).
-A  | Plus de 90% de précision (80+% GREATs, ou moins d’un GOOD toutes les 5 notes).
-B  | Plus de 80% de précision (70+% GREATs, ou moins d’un GOOD toutes les 3.33 notes).
+S | Plus de 95% de précision (90+% GREATs, ou moins d’un GOOD toutes les 10 notes).
+A | Plus de 90% de précision (80+% GREATs, ou moins d’un GOOD toutes les 5 notes).
+B | Plus de 80% de précision (70+% GREATs, ou moins d’un GOOD toutes les 3.33 notes).
 
 ## Accuracy (Précision)
 
@@ -167,7 +167,7 @@ Termes | Formule
 :---:|:---
 **Total points de hits** | ((Misses * 0) + (100s\[GOOD\] * 0.5) + 300s\[GREAT\]) * 300
 **Nombre total de hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\]
-**s**                    | Nombre de
+**s** | Nombre de
 
 Contrairement à osu!standard ou osu!catch, un miss en Taiko ne réduira pas considérablement le score du score maximal possible. 
 Au lieu de cela, le score constant est réduit par coup si chaque coup est séparé de plus de 100 combos (avec l’existence des spinners et des grandes notes, la perte de score serait plus importante).
@@ -176,7 +176,7 @@ Par exemple, dans une difficultée typique, casser un combo au milieu de la chan
 
 ### Score
 
-Chaque GREAT (excluant le bonus 1.2x du Kiai Time’s)  vaut  _300 + RoundDown (Combo / 10) _ fois _n_ jusqu'à un maximum de _300 + 10n_ points, dans lequel _n_ dépend de la difficulté du morceau.
+Chaque GREAT (excluant le bonus 1.2x du Kiai Time’s) vaut _300 + RoundDown (Combo / 10)_ fois _n_ jusqu'à un maximum de _300 + 10n_ points, dans lequel _n_ dépend de la difficulté du morceau.
 
 Chaque _GOOD_ donne la moitié du score d’un _GREAT_, tandis que pour un _MISS/BAD_ donne un score de zéro.
 
@@ -186,7 +186,7 @@ Pour les longues notes jaunes (drumroll), chaque hit rapporte 300 points tandis 
 
 Pour les notes denden/spinner, chaque strike/spin donne 300 points et finir un denden/spinner donne un score deux fois plus grand qu'un GREAT du combo actuel.
 
-Une valeur typique de _n_ (difficultée 4.5-5 étoile dans le vieux système de 5 étoiles) est 80,  ce qui donne un score de 1,100/2,200 à 100 de combo et les combos d’après.
+Une valeur typique de _n_ (difficultée 4.5-5 étoile dans le vieux système de 5 étoiles) est 80, ce qui donne un score de 1,100/2,200 à 100 de combo et les combos d’après.
 Pour la difficultée 4 -4.5 étoiles, _n_ est égal à 64 qui donne un score maximum par hit de 940/1,880.
 Dans la plus grande difficultée, _n_ est égal à 96 qui donne un score maximum par hit de 1,260/2,520.
 Il y a des valeurs plus basses de _n_ pour les difficultés plus faciles.
@@ -197,7 +197,7 @@ Avec l'existence des spinner et des grandes notes, la perte de score sera plus g
 
 Par exemple, dans une difficultée normale(80), casser un combo au milieu d’une chanson sans prendre en compte les grandes notes et les spinners, va résulter d’une perte de 44,000 points (pour ramener le combo à 100, tous les scores doivent être en GREAT).
 
-Aussi contrairement aux autres modes de jeux, le Kiai Time a un effet sur les scores car il fait référence au _"Go-Go Time"_ dans le jeu_Taiko no Tatsujin_.
+Aussi contrairement aux autres modes de jeux, le Kiai Time a un effet sur les scores car il fait référence au _"Go-Go Time"_ dans le jeu _Taiko no Tatsujin_.
 Quand le Kiai Time est actif, Le tambour en haut à gauche change d’animation, le terrain de jeu à un arrière plan en dégradé et la surface de hit gagne un design enflammé autour d’elle.
 En plus, chaque note hit gagnent x1,2 de multiplicateur de score, les grandes notes jaunes (drumroll) incluses, exceptés pour les hits sur un denden/spinner (le hit final est toujours multiplié).
 
@@ -205,13 +205,13 @@ Pour faire court : `Score = {Valeur du score + [min(RoundDown(Combo / 10), 10) *
 
 Terme | Sens
 :---:|:---
-**Valeur du score**             | La valeur du score gagné par un hit (300/600, 150/300, ou 0/0).
-**Combo**                  | (Combo avant ce hit -1) ou 0; dépendant du plus fort
+**Valeur du score** | La valeur du score gagné par un hit (300/600, 150/300, ou 0/0).
+**Combo** | (Combo avant ce hit -1) ou 0; dépendant du plus fort
 **multiplicateur de score taiko** | \[Dépent de la difficultée\] Les valeurs possibles sont : 32, 48, 64, 80, 96
-**multiplicateur du mod brut**     | Le multiplicateur _brut_ du mod sélectionné (les multiplicateurs sont arrondis)
-**RoundDown**              | Arrondis cette valeur en un nombre entier, en supprimant toutes les valeurs décimales.
-**min(x, y)**              | Choisi toujours la valeur la plus basse entre _x_ ou _y_.
-**Kiai Time**              | Si le Kiai Time est actif, cette valeur est 1,2. Autrement cette valeur est 1,0.
+**multiplicateur du mod brut** | Le multiplicateur _brut_ du mod sélectionné (les multiplicateurs sont arrondis)
+**RoundDown** | Arrondis cette valeur en un nombre entier, en supprimant toutes les valeurs décimales.
+**min(x, y)** | Choisi toujours la valeur la plus basse entre _x_ ou _y_.
+**Kiai Time** | Si le Kiai Time est actif, cette valeur est 1,2. Autrement cette valeur est 1,0.
 
 **Exceptions:-**
 
@@ -230,7 +230,7 @@ Terme | Sens
 
 - Un score constant de 300/600 avec le bonus de Kiai Time quand il est disponible est donné pour chaque note frappée avec succès dans le drumroll de n'importe quelle note.
 - Aucun score n'est donné quand vous frappez entre deux petites notes.
-- Pas de _MISS/BAD_ pour ne pas avoir fait le drumroll dans le style de  _Taiko no Tatsujin_.
+- Pas de _MISS/BAD_ pour ne pas avoir fait le drumroll dans le style de _Taiko no Tatsujin_.
 
 **Denden/Spinner**
 
@@ -242,13 +242,13 @@ Terme | Sens
 
 **Les points suivants ajoutent tous un point au multiplicateur de score/combo :-**
 
-- Avoir un  _GREAT_ ou un _GOOD_ sur les grandes/petites notes.
+- Avoir un _GREAT_ ou un _GOOD_ sur les grandes/petites notes.
 
-**Les points suivants vont remettre à zéro le multiplicateur de  :-**
+**Les points suivants vont remettre à zéro le multiplicateur de :-**
 
--Avoir un  _MISS/BAD_  sur des grandes/petites notes
+-Avoir un _MISS/BAD_ sur des grandes/petites notes
 
-**Les points suivants ne remettent pas a zéro ou n’augmentent le multiplicateur  :-**
+**Les points suivants ne remettent pas a zéro ou n’augmentent le multiplicateur :-**
 
 - Faire le drumroll.
 - Ne pas faire le drumroll.
@@ -264,11 +264,11 @@ Tout tourne autour de la difficulté des PV qui peut uniquement être changée p
 
 **Les points suivants font que la vie augmente :-**
 
-- Avoir un  _GREAT_ ou un  _GOOD_ sur les petites/grandes notes.
+- Avoir un _GREAT_ ou un _GOOD_ sur les petites/grandes notes.
 
 **Les points suivants font que la vie baisse :-**
 
-- Avoir un  _MISS/BAD_ sur les petites/grandes notes 
+- Avoir un _MISS/BAD_ sur les petites/grandes notes 
 - Ne pas compléter le Denden/Spinner
 
 **Les points suivants ne font rien à la barre de vie :-**
@@ -298,12 +298,12 @@ Le placement des notes n'importe pas.
 
 Quand une conversion de map arrive (jouer une map osu!standard en mode osu!taiko), les sliders très petits (moins d’un rythme) sont automatiquement convertis en note bleu ou rouge, dépendant du hit sound utilisé.
 
-Pour les maps avec un BPM de 125 ou moins, on donne ⅛ des drumrolls au lieu de ¼.
+Pour les maps avec un BPM de 125 ou moins, on donne 1/8 des drumrolls au lieu de 1/4.
 
-Notez que ce rythme ⅛  n'est pas souvent utilisé dans la musique.
-Il n'est pas suggéré de placer des sliders sur des rythmes ⅛.
+Notez que ce rythme 1/8 n'est pas souvent utilisé dans la musique.
+Il n'est pas suggéré de placer des sliders sur des rythmes 1/8.
 
-Notez également que les drumrolls en ⅙ sont donnés si le taux de slider tick utilisé est de **3**.
+Notez également que les drumrolls en 1/6 sont donnés si le taux de slider tick utilisé est de **3**.
 
 ## Futilités
 
@@ -313,10 +313,10 @@ Notez également que les drumrolls en ⅙ sont donnés si le taux de slider tick
 - Drumroll: La limite haute d'un nombre de hit sur un slider est :-
   - 4 fois la longueur du slider, ou 
   - 8 fois la longueur du slider dans la musique si elle est égale ou inférieure à 125 BPM.
-- Contrairement aux autres modes de jeux, le _Kiai Time_ a un effet sur le score car cela fait référence au  _"Go-Go Time"_ dans le jeu _Taiko no Tatsujin_. Quand le  _Kiai Time_ est activé, le tambour dans le coin en haut à gauche change d'animation (nommé  _pippidon_ ou_Don_/_Katsu_ dans  _Taiko no Tatsujin_), le terrain de jeu a un arrière plan dégradé et la zone de hit est enflammé.
+- Contrairement aux autres modes de jeux, le _Kiai Time_ a un effet sur le score car cela fait référence au _"Go-Go Time"_ dans le jeu _Taiko no Tatsujin_. Quand le _Kiai Time_ est activé, le tambour dans le coin en haut à gauche change d'animation (nommé _pippidon_ ou _Don_/_Katsu_ dans _Taiko no Tatsujin_), le terrain de jeu a un arrière plan dégradé et la zone de hit est enflammé.
   -En plus, chaque note hit fait gagner x1,2 au multiplicateur de score, les longues notes jaunes incluses, excepté pour les hit sur un shaker (le hit final est toujours multiplié).
 - La mascotte pour osu!taiko est [pippidon][Mascots#pippi wikilink].
-- Quand vous jouez en mod [Auto][Auto wikilink], le nom du joueur sera  _mekkadosu!_.
+- Quand vous jouez en mod [Auto][Auto wikilink], le nom du joueur sera _mekkadosu!_.
 
 ### Historique
 
@@ -324,8 +324,6 @@ Notez également que les drumrolls en ⅙ sont donnés si le taux de slider tick
 
 _le logo osu!taiko est déprécié en mode spécial_
 
-- Le`Use Taiko skin for Taiko mode` dans la barre sur le côté en dessous de la section skin va utiliser les éléments du skin dans le dossier `taiko` quand vous jouez à  osu!taiko, sans prendre en compte les éléments taiko du skin actuel. Le dossier utilisé pour contenir le skin _[Taiko by LuiginHann][Taiko by LuigiHann link]_, qui peut être téléchargé par le maintenant déprécié `osume.exe` (un exécutable permettant de mettre osu! à jour quand il en avait besoin) sous la catégorie `Skin`.
+- Le`Use Taiko skin for Taiko mode` dans la barre sur le côté en dessous de la section skin va utiliser les éléments du skin dans le dossier `taiko` quand vous jouez à osu!taiko, sans prendre en compte les éléments taiko du skin actuel. Le dossier utilisé pour contenir le skin _[Taiko by LuiginHann][Taiko by LuigiHann link]_, qui peut être téléchargé par le maintenant déprécié `osume.exe` (un exécutable permettant de mettre osu! à jour quand il en avait besoin) sous la catégorie `Skin`.
 - Le premier beatmapset ranked qui contenait au moins une beatmap spécifique à osu!taiko est [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210 "Taiko no Tatsujin - Saitama2000 (Kharl)")
 - Le premier beatmapset ranked avec des beatmap uniquement osu!taiko est [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920 "Mutsuhiko Izumi - Red Goose (lepidopodus)")
-
-
