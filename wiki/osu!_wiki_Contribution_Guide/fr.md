@@ -48,7 +48,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
-5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#editing-online-or-locally).
+5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
 
 ## Edition en ligne ou localement
 
