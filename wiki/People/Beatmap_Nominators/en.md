@@ -160,7 +160,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
-| ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | <!-- not sure --> |
+| ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | German |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ![][flag_GB] [Mbomb](https://osu.ppy.sh/users/3071175) |  |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korean |
