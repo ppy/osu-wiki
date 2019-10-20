@@ -46,6 +46,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
 
 [flag_BE]: /wiki/shared/flag/BE.gif
@@ -58,3 +59,4 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
+[flag_NL]: /wiki/shared/flag/NL.gif

@@ -225,17 +225,28 @@ All users listed below were added on 2019-02-16.
 
 ## October
 
+- Added [- [bibitaru] -](https://osu.ppy.sh/users/4482419) to the Global Moderation Team (2019-10-05)
+- Added [Loneight](https://osu.ppy.sh/users/663131) to the Global Moderation Team (2019-10-05)
+- Moved [Leniane](https://osu.ppy.sh/users/7138602) to the Nomination Assessment Team (2019-10-15)
+
 ### Beatmap Nominator additions
 
 - [Greaper](https://osu.ppy.sh/users/2369776) (2019-10-01)
 - [Lafayla](https://osu.ppy.sh/users/5312547) (2019-10-02)
 - [Sanyi](https://osu.ppy.sh/users/7496029) (2019-10-03)
 - [Rocma](https://osu.ppy.sh/users/566276) (2019-10-05)
+- [Bunnrei](https://osu.ppy.sh/users/829284) (2019-10-12)
+- [Daletto](https://osu.ppy.sh/users/7592136) (2019-10-12)
+- [radar](https://osu.ppy.sh/users/7131099) (2019-10-12)
 
 ### Beatmap Nominator removals
 
 - [Surono](https://osu.ppy.sh/users/3611370) - inactivity (2019-10-02)
 - [Lacrima](https://osu.ppy.sh/users/4915649) - resignation (2019-10-03)
 - [Benita](https://osu.ppy.sh/users/4023183) - inactivity (2019-10-04)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332) - resignation (2019-10-10)
+- [Okoratu](https://osu.ppy.sh/users/1623405) - resignation (2019-10-16)
+- [Dapuluous](https://osu.ppy.sh/users/8140944) - resignation (2019-10-17)
+- [Nana Abe](https://osu.ppy.sh/users/6443117) - insufficient proficiency (2019-10-19)
 
-<!-- last update: 2019-10-04 Rocma -->
+<!-- last update: 2019-10-20 Namki -->
