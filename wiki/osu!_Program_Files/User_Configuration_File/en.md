@@ -100,8 +100,8 @@ This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these 
 | `ChatRemoveForeign` | 0 or 1 | Filter foreign characters |
 | `LogPrivateMessages` | 0 or 1 | Log private messages |
 | `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
-| `IgnoreList` | String | Chat ignore list (space-separated list) |
-| `HighlightWords` | String | Chat highlight words (space-separated list) |
+| `IgnoreList` | Space-separated list | Chat ignore list |
+| `HighlightWords` | Space-separated list | Chat highlight words |
 
 ### Key binds
 
@@ -218,7 +218,7 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `LobbyPlayMode` | Integer | Selected game mode tab (-1 = All, 0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
+| `LobbyPlayMode` | Integer | Selected game mode tab (`-1` = All, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
 | `LobbyShowExistingOnly` | 0 or 1 | Toggles `Owned Beatmaps` filter |
 | `LobbyShowFriendsOnly` | 0 or 1 | Toggles `Games with Friends` filter |
 | `LobbyShowFull` | 0 or 1 | Toggles `Show Full` filter |
