@@ -14,10 +14,10 @@ I've created a small group of experienced users who are interested in working on
 
 ### Alternator Style packs
 
-*created by [lain](https://osu.ppy.sh/users/1650010)*  
+*created by [lain](https://osu.ppy.sh/users/1650010), [Uberzolik](https://osu.ppy.sh/users/1314547)*
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
-lain was passionate enough to work on the very first mapping style specific map packs released in the pack list. These first packs are focused on beatmaps where alternating is essential. He has worked on two versions, one with ranked beatmaps and one with loved beatmaps. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
+lain and Uberzolik were passionate enough to work on the very first mapping style specific map packs released in the pack list. These first packs are focused on beatmaps where alternating is essential. lain has worked on the ranked version while Uberzolik did the Loved vesion. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
 
 ### The Embodiment of Scarlet Devil pack
 
