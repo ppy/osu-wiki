@@ -8,16 +8,16 @@ An update of the Beatmap Pack Management project, including new pack releases!
 
 ![](/wiki/shared/news/banners/beatmap-packs.jpg)
 
-Our project is called Beatmap Pack Management and our prior focus is the development of Beatmap Packs. Many of you might not even know who we are and what we are doing, so I'd like to present to you some information about us:
+Our project is called Beatmap Pack Management and we are focused on the development of Beatmap Packs. Many of you might not even know who we are or what we are doing, so I'd like to present some information about us:
 
-I've created a small group of experienced users who are interested to work on handmade charts dedicated to a specific theme, idea, or share similarities. And so we've been actively working since July 2019 to provide new theme packs of decent quality with interesting concepts. The interest is very high and some noteworthy members of the community joined the group to help me substantiate their ideas in this project. We already have a few things to present to you, and I am sure you'll like them.
+I've created a small group of experienced users who are interested in working on handmade charts dedicated to specific themes, ideas, or beatmaps which share similarities. Since July 2019, we've been actively working to provide new theme packs of decent quality with interesting concepts. Interest in this project is very high and some noteworthy members of the community have joined the group to help me by contributing their ideas to this project. We already have a few things to present to you, and I am sure you'll like them.
 
 ### Alternator Style packs
 
 *created by [lain](https://osu.ppy.sh/users/1650010)*  
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
-lain was passionated enough to work on the very first mapping-style-specific mappacks that has been released in the packlist, and focused on beatmaps where alternating is essential. He has worked on two versions, one with ranked maps and one purely with loved beatmaps. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
+lain was passionate enough to work on the very first mapping style specific map packs released in the pack list. These first packs are focused on beatmaps where alternating is essential. He has worked on two versions, one with ranked beatmaps and one with loved beatmaps. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
 
 ### The Embodiment of Scarlet Devil pack
 
@@ -41,7 +41,7 @@ The osu!dan project is a brand new community created project that seeks to provi
 
 Each of the dans will contain 20 levels, each of increasing difficulty. In order to complete a level, the player must reach the requirements on the maps presented, like reaching a certain accuracy threshold or attaining a full combo. For now, the release of dan levels is purely for fun, a way to practice, or testing yourself, but a more official implementation is planned for the future. wink wink
 
-The first of the dans is now available to download on the beatmap packs page of this site. The skill tested in this first release is aim and is sure to push your circle clicking limits. The requirements for this dan are quite simple; just full combo 10 of the 11 maps in a level to progress to the next. Once again, this for now is just for your own practice, or to compare yourself with your friends—there is no implementation for keeping track of levels as of now.
+The first of the dans is now available to download on the beatmap packs page. The skill tested in this first release is aim and is sure to push your circle clicking limits. The requirements for this dan are quite simple; just full combo 10 of the 11 maps in a level to progress to the next. Once again, this for now is just for your own practice, or to compare yourself with your friends—there is no implementation for keeping track of levels as of now.
 
 If you wish to join the osu!dan server to assist with playtesting future packs and stay up to date, [you can join the server!](https://discord.gg/b7cVmGd)
 
@@ -49,12 +49,12 @@ If you wish to join the osu!dan server to assist with playtesting future packs a
 
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
-As it is time again to bundle a few beatmaps, there are some new packs for loved beatmaps available since yesterday. I want to take the chance to explain why I do not bundle the latest maps from Loved already: Since there is always a small chance that a beatmap can become unloved (and therefore unranked) it's a bit tedious to keep track of these things and I decided to give maps at least a minimum of 10 months to stay in Loved, and to bundle them afterwards into packs. While it's no guarantee they will stay in Loved forever, it works for me and I'll go by that for now. Changes can always happen though and I am open for alternatives.
+As it is time again to bundle a few beatmaps, there are some new packs for loved beatmaps available since yesterday. I want to take the chance to explain why I did not bundle the latest maps from Loved already: Since there is always a small chance that a beatmap can become unloved (and therefore unranked) it's a bit tedious to keep track of these things. I decided to give maps at least a minimum of 10 months to stay in Loved, and to bundle them afterwards into packs. While it's no guarantee they will stay in Loved forever, it works for me and I'll go by that for now. Changes can always happen though and I am open for alternatives.
 
 ### What else to expect
 
-While I believe we're doing very well already, we're just about to start and currently I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs so it's a bit slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested to take a look in what we are working on, or if you have to report an error/bug in a pack you can join our project server and spectate our doings. Alternatively, if you are interested to work in the group you can join it too! Please check out the [thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
+While I believe we're doing very well already, we're just about to start and currently I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs so it's a bit slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, or if you have to report an error/bug in a pack, you can join our project server and spectate our doings. Alternatively, if you are interested to work in the group you can join it too! Please check out the [thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
 
-I can also recommend to follow [@osuMapPacks](https://twitter.com/osuMapPacks) on Twitter to stay updated with news, fixes, new packs and more. With that said, I can't really tell when the next news post will follow since we're a group that takes time to work on packs individually but you can still contact me for questions if you have any. And I hope you have an amazing day and download lotsa packs, thank you for reading.
+I also recommend following [@osuMapPacks](https://twitter.com/osuMapPacks) on Twitter to stay updated with news, fixes, new packs and more. With that said, I can't really say when the next news post will be since we're a group that takes time to work on packs individually, but you can still contact me for questions if you have any. I hope you have an amazing day and download lots of packs, thank you for reading.
 
 —Stefan
