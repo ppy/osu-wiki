@@ -53,21 +53,21 @@ A set of more detailed rules for beatmap construction exists, known as the [Rank
 
 ## What happens if I break the rules?
 
-If you do find yourself on the wrong end of our community rules, bad things will happen.
+If you find yourself on the wrong end of our community rules, consequences will take effect.
 
-These bad things may include (*but are not limited to*):
+These consequences may include (*but are not limited to*):
 
 * The removal of your ability to chat in-game for a period of time (known as a silence).
 * The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 * The loss of the privilege to edit or alter your userpage or profile details.
 * The loss of the privilege to play or qualify in officially hosted tournaments.
 
-Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators don't control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
 Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
 If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
-Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Restricted accounts can't play online, set new scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
 Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.
