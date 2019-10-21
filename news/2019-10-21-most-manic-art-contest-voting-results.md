@@ -46,6 +46,8 @@ We'd also like to congratulate the following users for their exemplary performan
 * #9: [**blarackoklahoma**](https://osu.ppy.sh/users/7457620) with **1524** votes
 * #10: [**bty**](https://osu.ppy.sh/users/7425199) with **1204** votes
 
+[**Check out the contest listing for the full voting tallies on all entries, plus handy links to view the winners!**](https://osu.ppy.sh/community/contests/80)
+
 Now, to be extra clear, the results of this contest **do not mean that the first place entry is the new set of osu!mania twins.** 
 
 Faced with the near impossible task of deciding from this incredible deluge of talent, the osu!team must now retreat to the mountains in order to decide upon the fated artist of the ages, the one whom has impressed us collectively the most to have their concept made into reality as the official osu!mania game mode mascots.
