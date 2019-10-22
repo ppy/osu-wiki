@@ -3,21 +3,14 @@ layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-The osu! wiki is a project based on the contributions of people from osu!. The end goal is that it replaces the old FAQ section, and allows it to become a much more exhaustive resource. However, to make this possible, we need help from everyone willing to contribute!
+Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat.
+Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
+
+This wiki is based on the contributions of the community with the primary aim of replacing the old FAQ section, and allows it to become a much more exhaustive resource.
 </div>
 
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
-
-# Welcome
-
-Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat.
-Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
-
-This wiki is created for the sole purpose of you understanding the game and the community behind it much better, here's some links to get you started.
-
-</div>
 <div class="wiki-main-page-panel">
 
 
@@ -69,9 +62,9 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 
-# Making osu! better
+# How You Can Help
 
-If you're interested to help out in shaping the future of osu!, you may do so by clicking on the links that interest you below:
+If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
 
 [osu!wiki](https://github.com/ppy/osu-wiki) • [osu!lazer](https://github.com/ppy/osu-wiki) • [osu!web](https://github.com/ppy/osu-web)
 
