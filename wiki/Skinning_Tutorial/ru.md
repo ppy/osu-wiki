@@ -38,4 +38,3 @@
 -   [Учебник по скинам/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
 -   [Учебник по скинам/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
 -   [Учебник по скинам/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
--   [Учебник по скинам/Звуки](/wiki/Skinning_Tutorial/Sounds)
