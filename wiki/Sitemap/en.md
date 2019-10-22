@@ -231,7 +231,6 @@ tags:
     -   [Tutorial/osu!mania](/wiki/Skinning/Tutorial/osu!mania)
     -   [Tutorial/osu!taiko](/wiki/Skinning/Tutorial/osu!taiko)
     -   [Tutorial/skin.ini](/wiki/Skinning/Tutorial/skin.ini)
-    -   [Tutorial/Sounds](/wiki/Skinning/Tutorial/Sounds)
 -   [Staff Log](/wiki/Staff_Log)
     -   [2014](/wiki/Staff_Log/2014)
     -   [2015](/wiki/Staff_Log/2015)
