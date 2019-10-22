@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
+---
+
 # osu! Program Files
 
 ![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")

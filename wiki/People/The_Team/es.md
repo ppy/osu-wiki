@@ -49,8 +49,9 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Equipo de desarrollo osu!, Desarrollador del modo osu!mania |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/osu!academy), Diseñador de medios/personajes |
 
-
 ## Grupos de Usuarios
+
+Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener osu! La mayoría de estos grupos de usuarios reciben distintivos colores en el nombre dentro del foro, colores de chat en el juego y/o de perfil.
 
 | Nombre | Descripción |
 | ---- | ----------- |

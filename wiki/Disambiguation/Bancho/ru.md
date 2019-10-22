@@ -1,6 +1,6 @@
 # Bancho
 
-**Bancho** может также означать:
+**Bancho** также может означать:
 
--   [Bancho](/wiki/Glossary/#bancho), сервер, закодированный peppy для обработки входящих и исходящих сообщений osu! соединения.
--   [BanchoBot](/wiki/BanchoBot), бот IRC (Internet Relay Chat) для внутриигрового чата.
+- [Bancho](/wiki/Glossary#bancho), сервер, написанный peppy для обработки входящих и исходящих подключений к osu!.
+- [BanchoBot](/wiki/BanchoBot), IRC-бот для [внутриигрового чата](/wiki/Chat_Console).

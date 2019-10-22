@@ -8,7 +8,7 @@ For the record, these include the recent changes made [from the discussion forum
 
 ## Glossary
 
-### General Terms
+### General terms
 
 - **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
 - **Guidelines:** Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
@@ -146,7 +146,8 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
-- **If the same song exists in the Ranked section already, the metadata should be followed unless it breaks other rules in the Ranking Criteria or the Official Sources state something completely different.**
+- **If the same song exists in the Ranked or Loved sections already, the metadata should be followed unless it breaks other rules in the Ranking Criteria or the official sources state something completely different.**
+- **Artist names should be consistent between different songs from the same person or group in the Ranked or Loved sections.** This does not apply if the person or group intentionally uses a different alias for different song or album releases.
 - **Single symbols should be romanised so that they have leading and trailing whitespaces, unless the symbol itself is not commonly requiring whitespaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
 
 ### Allowances
@@ -221,7 +222,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Cuts should not be shorter than 1:30.** These often cause unsatisfying play experiences and are generally seen as disrespectful to the artists. This does not apply to official cuts or recreations of official cuts.
 - **Cuts should maintain the general impression and intensity of the full song.** Cuts that make significant changes to the overall listening experience of the song are very misleading and often cause unsatisfying play experiences. This does not apply to official cuts or recreations of official cuts.
 
-## Video and Background
+## Video and background
 
 ### Rules
 

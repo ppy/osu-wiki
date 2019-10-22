@@ -210,8 +210,8 @@ We have a new face for Project Loved and that would be Fiea and their map, Endle
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [clayton](https://osu.ppy.sh/users/3666350), [ThatsNotAName](https://osu.ppy.sh/users/9682904), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Toy](https://osu.ppy.sh/users/2757689), [Noffy](https://osu.ppy.sh/users/1541323), [ThatsNotAName](https://osu.ppy.sh/users/9682904), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 
-—the Project Loved team
+—clayton
