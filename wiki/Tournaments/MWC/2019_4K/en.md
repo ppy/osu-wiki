@@ -95,7 +95,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
-## Match Schedule: Finals
+## Match schedule: Grand Finals
 
 ### Saturday, 26 October 2019
 
