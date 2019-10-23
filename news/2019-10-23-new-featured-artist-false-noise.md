@@ -54,7 +54,7 @@ This now leaves us with this week's newest dilemma: the ominous *hint* of our ne
 
 *You wake up in a dark room. The pungent stench of blight and mildew fills your lungs as you fiddle around for a light switch.*
 
-*You flip the power on rejuvenating the light bulb's core.*
+*You flip the power on, rejuvenating the light bulb's core.*
 
 *A lone spider spins an immaculate web in the windowsill—a harsh contrast to the hundreds of corpses that lay waste beyond the silk dream-catcher.*
 
