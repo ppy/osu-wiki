@@ -97,28 +97,22 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ## Match Schedule: Finals
 
-### Saturday, 19 October 2019
+### Saturday, 26 October 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Thailand | ![][flag_TH] | ![][flag_JP] | Japan | **12:00 UTC** | 19:00 UTC+07 | 21:00 UTC+09 | ² |
-| Philippines | ![][flag_PH] | ![][flag_US] | United States | **14:00 UTC** | 22:00 UTC+08 | 10:00 UTC-04 | ² |
+| Brazil | ![][flag_BR] | ![][flag_US] | United States | **01:30 UTC** | 22:30 (Fri.) UTC-03 | 21:30 (Fri.) UTC-04 | ¹ |
 
-### Sunday, 20 October 2019
+### Sunday, 27 October 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 10:00 UTC+09 | ¹ |
-| Japan | ![][flag_JP] | ![][flag_US] | United States | **03:00 UTC** | 12:00 UTC+09 | 23:00 (Sat.) UTC-04 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_PH] | Philippines | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 | ³ |
-| Japan | ![][flag_JP] | ![][flag_PH] | Philippines | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_US] | United States | **14:00 UTC** | 21:00 UTC+07 | 10:00 UTC-04 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **01:00 UTC** | 10:00 UTC+09 | 22:00 (Sat.) UTC-03 | ² |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 | ² |
 
-¹ Winner bracket encounter
+¹ 3rd place encounter
 
-² Loser bracket encounter
-
-³ Encounter dependent on results of ²Loser bracket encounter
+² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
 
@@ -227,6 +221,18 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
 ## Match Results
+
+### Finals
+
+| Saturday, 2019-10-19 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Thailand ![][flag_TH] | 5 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55660708) |
+| Philippines ![][flag_PH] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55663695) |
+
+| Sunday, 2019-10-20 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Brazil ![][flag_BR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55680596) |
+| Japan ![][flag_JP] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55682554) |
 
 ### Semifinals
 
