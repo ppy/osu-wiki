@@ -99,20 +99,19 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Saturday, 26 October 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Brazil | ![][flag_BR] | ![][flag_US] | United States | **01:30 UTC** | 22:30 (Fri.) UTC-03 | 21:30 (Fri.) UTC-04 | ¹ |
 
 ### Sunday, 27 October 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **01:00 UTC** | 10:00 UTC+09 | 22:00 (Sat.) UTC-03 | ² |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 | ² |
 
-¹ 3rd place encounter
-
-² Encounter dependent on results of ¹3rd place encounter
+¹ 3rd place encounter  
+² Encounter dependent on results of 3rd place encounter
 
 ## Mappools
 
