@@ -4,7 +4,7 @@ legal: true
 
 # Политика конфиденциальности osu!
 
-Последнее обновление: 25 мая 2018. [Посмотреть историю](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Последнее обновление оригинальной (английской) версии: 25 мая 2018. [Посмотреть историю](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 В дополнение к данной политике, пожалуйста, удостоверьтесь, что Вы посетили и поняли наши [Условия использования](/legal/terms).
 
