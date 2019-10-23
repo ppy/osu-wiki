@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: False Noise"
-date: 2019-10-23 06:00:00 +0000
+date: 2019-10-23 07:50:00 +0000
 ---
 
 We're proud to welcome underground producer **False Noise** as our latest addition to the Featured Artist roster!
