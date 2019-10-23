@@ -48,7 +48,7 @@ Take a listen for yourself and see what all the hype's about:
 
 -------
 
-As always, the above tracks and all the others are immediately available from [**False Noise's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/52) for modding and mapping, no fuss, and 100% free.
+As always, the above tracks and all the others are immediately available from [**False Noise**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/52) for modding and mapping, no fuss, and 100% free.
 
 This now leaves us with this week's newest dilemma: the ominous *hint* of our next release to come. Toy's got the reins on this one, so I'll leave it to him:
 
@@ -66,4 +66,4 @@ This now leaves us with this week's newest dilemma: the ominous *hint* of our ne
 
 But what does this all mean? Spooky! Find out next week!
 
-—Ephemeral, Toy
+—Ephemeral and Toy
