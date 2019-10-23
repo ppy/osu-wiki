@@ -12,7 +12,7 @@ tags:
 
 The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 6th installment of the osu!mania 4K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -140,7 +140,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 - Tiebreaker
     - **[Camellia - Racemization (-mint-) \[enantiomers\]](https://osu.ppy.sh/beatmapsets/1050821#mania/2196214)**
 
-### Semifinals 
+### Semifinals
 
 - FreeMod
     - [Se-U-Ra - Zen'on (AutotelicBrown) \[Ayumu's Death Piano\]](https://osu.ppy.sh/beatmapsets/1044167#mania/2182853)
@@ -220,7 +220,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 - Tiebreaker
     - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
-## Match Results
+## Match results
 
 ### Finals
 
@@ -345,7 +345,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
     - **While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.**
@@ -385,7 +385,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - Disqualification from the current and future official tournaments until appealed.
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
     - Tournament Management will create a list of potential candidates for a country's team.
@@ -399,7 +399,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
 5. Mapset selectors must not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     - This may change depending on how many teams are accepted into the competition at the end.
@@ -430,7 +430,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
     - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K2019: (TeamRed) vs (TeamBlue)".
@@ -442,7 +442,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
    - **The winner of the !roll decides if they want to pick first and ban second, or pick second and ban first.**
 6. Results of the Group Stage will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
@@ -452,7 +452,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
