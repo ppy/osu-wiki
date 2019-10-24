@@ -276,6 +276,22 @@ Section headings must not skip a heading level (i.e. do not go from a level 2 he
 
 Lists must not go over 4 levels of indentation. Lists should not have an empty line in between each item.
 
+For nested lists, make sure that the bullets or numbers align with the item content of their parent lists.
+
+Bad example:
+
+```markdown
+1. Fly a kite
+  - Don't fly a kite if it's raining
+```
+
+Good example:
+
+```markdown
+1. Fly a kite
+   - Don't fly a kite if it's raining
+```
+
 #### Bulleted
 
 Bulleted lists must use the hyphen (`-`) or the plus symbol (`+`). The symbol used must be consistent throughout the entire article. These must then be followed by one space. For example:
