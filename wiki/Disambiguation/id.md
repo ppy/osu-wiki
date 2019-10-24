@@ -5,6 +5,6 @@ Keambiguan dalam osu! wiki adalah proses penyelesaian konflik yang muncul ketika
 ## Daftar artikel yang mengandung keambiguan
 
 - [Bancho](/wiki/Bancho)
-- [Easy](/wiki/Easy)
+- Easy
 - [EZ](/wiki/EZ)
 - [Mod](/wiki/Mod)

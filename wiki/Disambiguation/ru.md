@@ -5,6 +5,6 @@
 ## Список статей о неоднозначности
 
 - [Bancho](/wiki/Bancho)
-- [Easy](/wiki/Easy)
+- Easy
 - [EZ](/wiki/EZ)
 - [Mod](/wiki/Mod)

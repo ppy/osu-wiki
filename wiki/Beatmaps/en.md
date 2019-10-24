@@ -26,7 +26,7 @@ These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_crite
 
 Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an easy or normal difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
 
 ### Qualified
 
