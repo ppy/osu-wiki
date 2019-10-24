@@ -8,4 +8,4 @@
 
 Para promover el mapeo del contenido de los artistas destacados, los miembros de la comunidad crearon el **Mapper's Guild**, dándoles a los mapeadores un sistema de búsqueda de estilo MMO en el que pueden participar con otros mapeadores. ¡Las recompensas por ser activo en el gremio incluyen insignias de perfil, acceso temprano al nuevo contenido de artista destacado y la capacidad de ayudar a decidir qué artistas osu! el equipo debería considerar trabajar con el próximo.
 
-Puede encontrar más información sobre Mapper's Guild en su [sitio web](http://mappersguild.com) y en el canal `#mappers-guild` del servidor [osu! Dev Discord](https://discord.gg/ppy).
+Puede encontrar más información sobre Mapper's Guild en su [sitio web](http://mappersguild.com) y en el canal `#mappers-guild` del servidor [osu!dev Discord](https://discord.gg/ppy).
