@@ -34,9 +34,9 @@ tags:
 -   [Chat Console](/wiki/Chat_Console)
 -   [Contests](/wiki/Contests)
     -   [FBC](/wiki/Contests/FBC)
-    -   OMC
+    -   [OMC](/wiki/Contests/OMC)
         -   [5](/wiki/Contests/OMC/5)
-    -   oMWC
+    -   [oMWC](/wiki/Contests/oMWC)
         -   [1](/wiki/Contests/oMWC/1)
 -   [Difficulties](/wiki/Difficulties)
     -   [Easy](/wiki/Difficulties/Easy)
@@ -142,7 +142,7 @@ tags:
 -   [Options](/wiki/Options)
     -   [Keyboard Bindings](/wiki/Options/Keyboard_Bindings)
     -   [Offset Wizard](/wiki/Options/Offset_Wizard)
--   Organisations
+-   [Organisations](/wiki/Organisations)
     -   [osu! UCI](/wiki/Organisations/osu!_UCI)
 -   [osu! File Formats](/wiki/osu!_File_Formats)
     -   [Db (file format)](/wiki/osu!_File_Formats/Db_(file_format))
@@ -301,7 +301,7 @@ tags:
     -   [LMS](/wiki/Tournaments/LMS)
         -   [Shift 1](/wiki/Tournaments/LMS/Shift_1)
     -   [MALE](/wiki/Tournaments/MALE)
-    -   MP4K
+    -   [MP4K](/wiki/Tournaments/MP4K)
         -   [3](/wiki/Tournaments/MP4K/3)
     -   [MWC](/wiki/Tournaments/MWC)
         -   [2014](/wiki/Tournaments/MWC/2014)
@@ -314,7 +314,7 @@ tags:
         -   [2018 7K](/wiki/Tournaments/MWC/2018_7K)
         -   [2019 4K](/wiki/Tournaments/MWC/2019_4K)
         -   [2019 7K](/wiki/Tournaments/MWC/2019_7K)
-    -   MXB
+    -   [MXB](/wiki/Tournaments/MXB)
         -   [3](/wiki/Tournaments/MXB/3)
     -   [NT](/wiki/Tournaments/NT)
         -   [NSST 2019](/wiki/Tournaments/NT/NSST_2019)
@@ -366,7 +366,7 @@ tags:
         -   [4](/wiki/Tournaments/SOFT/4)
     -   [SST](/wiki/Tournaments/SST)
         -   [2018](/wiki/Tournaments/SST/2018)
-    -   T2T
+    -   [T2T](/wiki/Tournaments/T2T)
         -   [2019](/wiki/Tournaments/T2T/2019)
     -   [Template](/wiki/Tournaments/Template)
     -   [THOM CUP](/wiki/Tournaments/THOM_CUP)
