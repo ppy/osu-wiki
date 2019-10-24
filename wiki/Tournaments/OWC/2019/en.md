@@ -67,7 +67,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 2. Beatmap scoring is based on Score V2.
 3. The beatmaps for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
-4. The match schedule will be settled by the Tournament Management (see below).
+4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
 5. If no staff or referee is available, the match will be postponed.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
 7. If the beatmap ends in a draw, the map will be nullified and replayed.
@@ -81,7 +81,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 14. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum.
 15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
-16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+16. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
     - Breaking the chat rules will result in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
