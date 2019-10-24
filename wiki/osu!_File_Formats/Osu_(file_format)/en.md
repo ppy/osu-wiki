@@ -121,7 +121,7 @@ Each beatmap may contain its own difficulty-specific storyboard, either in conju
 
 Each timing point influences a specified portion of the map, commonly called a "timing section". The `.osu` file format requires these to be sorted in chronological order.
 
-*Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,kiai`
+*Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
 - **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
 - **`beatLength` (Decimal):** This property has two meanings:
@@ -132,7 +132,16 @@ Each timing point influences a specified portion of the map, commonly called a "
 - **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hit sounds.
 - **`volume` (Integer):** Volume percentage for hit objects.
 - **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
-- **`kiai` (0 or 1):** Whether or not [kiai time](/wiki/Beatmap_Editor/Kiai_Time) is enabled.
+- **`effects` (Integer):** Bit flags that give the timing point extra effects. See [the effects section](#effects).
+
+### Effects
+
+Timing points have two extra effects that can be toggled using bits 0 and 3 (from least to most significant) in the `effects` integer:
+
+- 0: Whether or not [Kiai time](/wiki/Beatmap_Editor/Kiai_Time) is enabled
+- 3: Whether or not the first barline is omitted in osu!taiko and osu!mania
+
+The rest of the bits are unused.
 
 ## Colours
 
