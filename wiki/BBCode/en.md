@@ -154,6 +154,7 @@ _Not to be confused with [Spoilerbox](#spoilerbox)._
 **Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
 These are commonly used to hide large images or a large amount of images.
+
 - Dedicated button: N/A
 - Notes:
   - By default, this will create a box with the no heading text.
