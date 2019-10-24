@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Help Centre
 
 Memiliki masalah dengan sesuatu? kami disini untuk membantu! lihat beberapa solusi untuk masalah yang sering terjadi di “sidebar” di sebelah kiri layar anda.

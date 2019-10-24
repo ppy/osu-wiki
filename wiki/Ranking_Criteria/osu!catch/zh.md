@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!catch
 
 _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_

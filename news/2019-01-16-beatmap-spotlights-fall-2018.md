@@ -246,4 +246,4 @@ We hope you enjoy our selection for this season and look forward to what we will
 
 Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 
-—the Spotlights Team
+—Kurokami

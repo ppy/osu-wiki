@@ -4,7 +4,7 @@ Hi there. I ([peppy](https://osu.ppy.sh/users/2)) understand your urge to want t
 
 ## Technical Support
 
-Most technical issues can be resolved by searching or posting in the [Tech Support forum](https://osu.ppy.sh/community/forums/5). There are lots of others there to help you with your issues, so you will find a solution faster than contacting me.
+Most technical issues can be resolved by searching or posting in the [Help forum](https://osu.ppy.sh/community/forums/5). There are lots of others there to help you with your issues, so you will find a solution faster than contacting me.
 
 ## General osu! support
 
