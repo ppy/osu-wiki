@@ -75,7 +75,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `CircleSize` | Decimal | CS setting (0–10) |
 | `OverallDifficulty` | Decimal | OD setting (0–10) |
 | `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hecto-osu!pixels per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
+| `SliderMultiplier` | Decimal | Base slider velocity in hecto-[osu! pixels](/wiki/Glossary#osupixel) per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
 ## Events
@@ -91,7 +91,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 *Background syntax:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in osu!pixels from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu!pixels to the right and 100 osu!pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
+- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/Glossary#osupixel) from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
 
 ### Videos
 
@@ -157,7 +157,7 @@ All options in this section represent colours. They are comma-separated triplets
 
 *Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Integer)** and **`y` (Integer):** Position in osu!pixels of the object.
+- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Glossary#osupixel) of the object.
 - **`time` (Integer):** Time in milliseconds when the object is to be hit.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
 - **`hitSound` (Integer):** Bit flags indicating the hit sound applied to the object. See [the hit sounds section](#hit-sounds).
@@ -194,7 +194,7 @@ The `hitSound` bit flags determine which sounds will play when the object is hit
 
 Usage of `hitSample` can further customize the sounds that play. It defaults to `0:0:0:0:` if it is not written.
 
-*`hitSample` syntax:* `normalSet:additionSet:index:volume:filename`
+*Hit sample syntax:* `normalSet:additionSet:index:volume:filename`
 
 - **`normalSet` (Integer):** Sample set of the normal sound.
 - **`additionSet` (Integer):** Sample set of the whistle, finish, and clap sounds.
