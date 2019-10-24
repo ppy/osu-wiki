@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2019 Fanart Contest Voting Now Open!"
-date: 2019-10-24 12:00:00 +0000
+date: 2019-10-24 12:30:00 +0000
 ---
 
 In a truly terrifying performance, our incredible community artists have stepped forward and penned forth a whopping **156** amazing entries! The voting has literally never been tougher, and we need your help to decide on the best!
