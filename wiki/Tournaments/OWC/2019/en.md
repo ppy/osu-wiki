@@ -50,14 +50,13 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Registration page](https://osu.ppy.sh/community/tournaments/22)**
 
-
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
-_Mappools will be revealed one week in advance of each round_
+*Mappools will be revealed one week in advance of each round.*
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -77,23 +76,23 @@ _Mappools will be revealed one week in advance of each round_
 9. Beatmaps cannot be reused in the same match unless the map was nullified.
 10. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 11. Exchanging players during a match is allowed without limitations.
-   - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
+    - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 14. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum.
 15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
-   - Breaking the chat rules will result in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
+    - Breaking the chat rules will result in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
 19. Unexpected incidents are handled by the tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules may include:
-   - Exclusion of specific players for one beatmap
-   - Exclusion of specific players for an entire match
-   - Declaring the match as Lost by Default
-   - Disqualification from the entire tournament
-   - Disqualification from the current and future official tournaments until appealed
-   - Any modification of these rules will be announced.
+    - Exclusion of specific players for one beatmap
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
+    - Any modification of these rules will be announced.
 
 ### Tournament Registration
 
@@ -124,9 +123,9 @@ _Mappools will be revealed one week in advance of each round_
 10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 11. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 12. **Winning conditions:**
-   - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
-   - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
-   - The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
+    - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
+    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
+    - The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
