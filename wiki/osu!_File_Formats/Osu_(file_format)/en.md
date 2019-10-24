@@ -155,98 +155,75 @@ All options in this section represent colours. They are comma-separated triplets
 
 ## Hit objects
 
-### Common structure
+*Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-This section is made of CSV lines. The first 5 fields are common to every hit objects, and an optional last *extras* fields.
+- **`x` (Integer)** and **`y` (Integer):** Position in osu!pixels of the object.
+- **`time` (Integer):** Time in milliseconds when the object is to be hit.
+- **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
+- **`hitSound` (Integer):** Bit flags indicating the hit sound applied to the object. See [the hit sounds section](#hit-sounds).
+- **`objectParams` (Comma-separated list):** Extra parameters specific to the object's type.
+- **`hitSample` (Colon-separated list):** Information about which samples are played when the object is hit. It is closely related to `hitSound`; see [the hit sounds section](#hit-sounds). If it is not written, it defaults to `0:0:0:0:`.
 
-**Syntax**: `x,y,time,type,hitSound...,extras`
+### Type
 
-#### Position
+Hit object types are stored in an 8-bit integer where each bit is a flag with special meaning. The base hit object type is given by bits 0, 1, 3, and 7 (from least to most significant):
 
-*x* and *y* are integers representing the position of the center of the hit object. *x* ranges from 0 to 512 pixels, inclusive, and *y* ranges from 0 to 384 pixels, inclusive. The origin, (0, 0) is at the top left of the screen.
+- 0: Hit circle
+- 1: Slider
+- 3: Spinner
+- 7: osu!mania hold
 
-To map these coordinates for a standard 640x480 screen, you need to add 64 pixels to *x* and 48 pixels to *y* to respect a uniform padding. Without the padding, an object at (0, 0) will be cut on the top left for the screen.
+The remaining bits are used for distinguishing new combos and optionally skipping combo colours (commonly called "colour hax"):
 
-For some hit objects, like spinners, the position is completely irrelevant.
+- 2: New combo
+- 4–6: A 3-bit integer specifying how many combo colours to skip, if this object starts a new combo.
 
-For osu!mania, only *x* is relevant. See the osu!mania hold note section below.
+### Hit sounds
 
-#### Time
+The `hitSound` bit flags determine which sounds will play when the object is hit:
 
-*time* is an integral number of milliseconds from the beginning of the song, and specifies when the hit begins.
+- 0: normal
+- 1: whistle
+- 2: finish
+- 3: clap
 
-#### Type
+<!-- TODO: not sure if these modes are correct -->
+*Note: in osu!standard, osu!catch, and osu!mania, the `LayeredHitSounds` skin property determines whether or not the normal sound will always play, regardless of bit 0's setting in `hitSound`. It is enabled by default.*
 
-*type* is a bitmap specifying the object type and attributes.
+#### Custom hit samples
 
-- Bit 0 (1): circle.
-- Bit 1 (2): slider.
-- Bit 2 (4): new combo.
-- Bit 3 (8): spinner.
-- Bits 4-6 (16, 32, 64) form a 3-bit number (0-7) that chooses how many combo colours to skip.
-- Bit 7 (128) is for an osu!mania hold note.
+Usage of `hitSample` can further customize the sounds that play. It defaults to `0:0:0:0:` if it is not written.
 
-Circles, sliders, spinners, and hold notes can be OR'd with new combos and the combo skip value, but not with each other.
+*`hitSample` syntax:* `normalSet:additionSet:index:volume:filename`
 
-The new combo flag always advances to the next combo. The skip value is applied on top of that, so that a skip of 1 means a 2-combo advance. The combo skip value is ignored when the new combo bit is not set.
+- **`normalSet` (Integer):** Sample set of the normal sound.
+- **`additionSet` (Integer):** Sample set of the whistle, finish, and clap sounds.
+- **`index` (Integer):** Index of the sample. If this is `0`, the timing point's sample index will be used instead.
+- **`volume` (Integer):** Volume of the sample from 0 to 100.
+- **`filename` (String):** Custom filename of the addition sound.
 
-Examples:
+`normalSet` and `additionSet` can be any of the following:
 
-- `1`: circle.
-- `5 = 1 + 4`: circle starting a new combo.
-- `22 = 2 + 4 + 16`: slider starting a new combo, skipping 2 colours.
+- `0`: No custom sample set
+  - For normal sounds, the set is determined by the timing point's sample set.
+  - For additions, the set is determined by the normal sound's sample set.
+- `1`: Normal set
+- `2`: Soft set
+- `3`: Drum set
 
-#### Hit sounds
+All of these options (besides volume) are used to determine which sound file to play for a given hit sound. The filename is `<sampleSet>-hit<hitSound><index>.wav`, where:
 
-*hitSound* (Integer) is a bitmap of hit sounds to play when the hit object is successfully hit.
+- `sampleSet` is `normal`, `soft`, or `drum`, determined by either `normalSet` or `additionSet` depending on which hit sound is playing
+- `hitSound` is `normal`, `whistle`, `finish`, or `clap`
+- `index` is the same `index` as above, except it is not written if the value is `0` or `1`
 
-- Bit 0 (1): normal.
-- Bit 1 (2): whistle.
-- Bit 2 (4): finish.
-- Bit 3 (8): clap.
+The sound file is loaded from the first of the following directories that contains a matching filename:
 
-The normal sound is always played, so bit 0 is irrelevant today. The only exception is for osu!mania, with the skin's *LayeredHitSounds* property.
+- Beatmap, if `index` is not `0`
+- Skin, with the `index` removed
+- Default osu! resources, with the `index` removed
 
-Multiple sounds will overlap if multiple bits are set.
-
-The sample set and custom index are usually specified in the timing point associated to the hit object, but may be customized in the *extras* field.
-
-The normal hit sound and additions may belong to different sample sets, referred to as *sampleSet* and *additionSet*.
-
-The filename of the sample to play is `{sample set}-hit{sound}{index}.wav`, where:
-
-- *sample set* is normal, soft, or drum.
-- *sound* is normal, whistle, finish, or clap.
-- *index* is the custom index. It is omitted when equal to 0 or 1.
-
-The loader searches for the sample file in one these directories, by order of priority:
-
-1. Inside the beatmap directory with its index, *unless* the custom index 0.
-2. Inside the skin directory, without the index.
-3. Inside the default osu! resources, without the index.
-
-#### Extras
-
-The *extras* field is optional and define additional parameters related to the hit sound samples. It defaults to `0:0:0:0:`.
-
-**Syntax**: `sampleSet:additionSet:customIndex:sampleVolume:filename`
-
-*sampleSet* (Integer) changes the sample set of the normal hit sound, and *additionSet* (Integer) changes the sample set for the other hit sounds (whistle, finish, clap). The values for these are:
-
-- 0: Auto. See below.
-- 1: Normal.
-- 2: Soft.
-- 3: Drum.
-
-When *sampleSet* is 0, its value is inherited from the timing point.
-
-Today, *additionSet* inherits from *sampleSet*. Otherwise, it inherits from the timing point.
-
-*customIndex* (Integer) is the custom sample set index, e.g. 3 in `soft-hitnormal3.wav`. The special index 1 doesn't appear in the filename, for example `normal-hitfinish.wav`. The special index 0 means it is inherited from the timing point.
-
-*sampleVolume* (Integer) is the volume of the sample, and ranges from 0 to 100 (percent).
-
-*filename* (String) names an audio file in the folder to play instead of sounds from sample sets, relative to the beatmap's directory.
+When `filename` is given, no addition sounds will be played, and this file in the beatmap directory is played instead.
 
 ### Hit circles
 
