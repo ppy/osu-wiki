@@ -27,10 +27,10 @@ The following content is separated into sections, indicated by section titles in
 | `AudioFilename` | String | Location of the audio file relative to the current folder |
 | `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing |
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start |
-| `Countdown` | Integer | Speed of the countdown before the first hit object (0 = no countdown, 1 = normal, 2 = half, 3 = double) |
+| `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) |
 | `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) |
 | `StackLeniency` | Decimal | Threshold in time where hit objects placed close together stack |
-| `Mode` | Integer | Game mode (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
+| `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
 | `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect |
 | `StoryFireInFront` | 0 or 1 | *Deprecated* |
 | `SkinPreference` | String | Preferred skin to use during gameplay |
@@ -71,10 +71,10 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `HPDrainRate` | Decimal (0–10) | HP setting |
-| `CircleSize` | Decimal (0–10) | CS setting |
-| `OverallDifficulty` | Decimal (0–10) | OD setting |
-| `ApproachRate` | Decimal (0–10) | AR setting |
+| `HPDrainRate` | Decimal | HP setting (0–10) |
+| `CircleSize` | Decimal | CS setting (0–10) |
+| `OverallDifficulty` | Decimal | OD setting (0–10) |
+| `ApproachRate` | Decimal | AR setting (0–10) |
 | `SliderMultiplier` | Decimal | Base slider velocity in hecto-osu!pixels per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
