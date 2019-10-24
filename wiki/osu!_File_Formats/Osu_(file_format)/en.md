@@ -264,7 +264,7 @@ Each beatmap may contain its own difficulty-specific storyboard, in conjunction 
 
 Timing points describe a number of properties regarding beats per minute and hit sounds.
 
-**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Mode`
+**Syntax**: `Offset, Milliseconds per Beat, Meter, Sample Set, Sample Index, Volume, Inherited, Kiai Flags`
 
 The *offset* is an integral number of milliseconds, from the start of the song. It defines when the timing point starts. A timing point ends when the next one starts. The first timing point starts at 0, disregarding its offset.
 
@@ -278,7 +278,12 @@ The *sample set* field defines the default sample set for hit objects. The *samp
 
 *Inherited* (Boolean: 0 or 1) tells if the timing point can be inherited from. *Inherited* is redundant with the milliseconds per beat field. A positive milliseconds per beat implies inherited is 1, and a negative one implies it is 0.
 
-The *kiai mode* (Boolean) defines whether or not [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time) effects are active.
+The *kiai flags* (Bitmap) field stores the following values:
+
+- Bit 0 (1): whether [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time) effects are active. 
+- Bit 3 (8): whether the first bar line belonging to the timing point should be omitted (for osu!taiko and osu!mania modes).
+
+Other bits are unused.
 
 Example of a Timing Point:
 
