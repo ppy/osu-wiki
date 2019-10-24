@@ -227,19 +227,18 @@ When `filename` is given, no addition sounds will be played, and this file in th
 
 ### Hit circles
 
-A hit circle is a single hit in all osu! game modes.
-
-**Syntax**: `x,y,time,type,hitSound,extras`
-
-**Example**: `164,260,2434,1,0,0:0:0:0:`
+Hit circles do not have additional `objectParams`.
 
 ### Sliders
 
-A slider also creates droplets in Catch the Beat, yellow drumrolls in Taiko, and does not appear in osu!mania.
+*Slider syntax:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
-**Syntax**: `x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,extras`
-
-**Example**: `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+- **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
+- **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
+- **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
+- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Glossary#osupixel) of the slider.
+- **`edgeSounds` (Pipe-separated list of integers):** Hit sounds that play when hitting edges of the slider's curve.
+- **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hit sounds section](#hit-sounds).
 
 #### Path
 
