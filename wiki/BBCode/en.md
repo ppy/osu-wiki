@@ -2,7 +2,7 @@
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
-BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures and user pages.
+BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures, user pages, and beatmap descriptions.
 
 ## Notes
 
@@ -153,7 +153,7 @@ _Not to be confused with [Spoilerbox](#spoilerbox)._
 
 **Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
-These are commonly used to hide large images or a large amount of images.
+These are commonly used to hide large images or a large amount of images, usually in the [Skinning forum](https://osu.ppy.sh/community/forums/15).
 
 - Dedicated button: N/A
 - Notes:
