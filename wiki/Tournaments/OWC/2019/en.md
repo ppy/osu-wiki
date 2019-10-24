@@ -10,13 +10,13 @@ tags:
 
 The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 10th installment of the osu! World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-16/2019-10-27 |
-| Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
-| Qualifier Stage | 2019-11-09/2019-11-10 |
+| Registration phase | 2019-10-16/2019-10-27 |
+| Qualifier showcase | 2019-11-02 (14:00 UTC+0) |
+| Qualifier stage | 2019-11-09/2019-11-10 |
 | Round of 32 | 2019-11-16/2019-11-17 |
 | Round of 16 | 2019-11-23/2019-11-24 |
 | Quarterfinals | 2019-11-30/2019-12-01 |
@@ -60,7 +60,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu! World Cup is a country-based team tournament played on the osu! game mode.
    - While this competition is planned as a 4 versus 4 setup, this may change depending on the number of incoming registrations.
@@ -94,7 +94,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
     - Disqualification from the current and future official tournaments until appealed
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team will sign up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
@@ -109,9 +109,9 @@ The osu! World Cup 2019 is run by various community members by distributing the 
    - **The top 32 seeded teams will qualify to the Round of 32.**
 4. Beatmap selectors must not participate as players in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
-1. In the first stage (Qualifier Stage), all teams will play a specific pool designed by the map selectors.
+1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
 2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
@@ -127,7 +127,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
     - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
     - The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC 2019: (TeamRed) vs (TeamBlue)".
@@ -144,7 +144,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
    - In the case of a tie, the tiebreaker beatmap will be played.
 7. The results of the Qualifier stage will be published via a statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
@@ -161,7 +161,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 9. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose the time slot in which they want to play.
