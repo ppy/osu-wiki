@@ -83,11 +83,11 @@ Tagging articles will help the website's search engine query articles better. Ta
 ```md
 ---
 tags:
-- tags go here
-- keep them in a list like this
-- skin
-- skinning
-- how to skin
+  - tags go here
+  - keep them in a list like this
+  - skin
+  - skinning
+  - how to skin
 ---
 
 # Skinning
@@ -101,8 +101,8 @@ In the case that an article is outdated and has tags, the metadata may look like
 ---
 outdated: true
 tags:
-- ASC
-- wiki standards
+  - ASC
+  - wiki standards
 ---
 
 # Article Styling Criteria
