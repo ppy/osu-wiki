@@ -158,7 +158,7 @@ All options in this section represent colours. They are comma-separated triplets
 *Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
 
 - **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Glossary#osupixel) of the object.
-- **`time` (Integer):** Time in milliseconds when the object is to be hit.
+- **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
 - **`hitSound` (Integer):** Bit flags indicating the hit sound applied to the object. See [the hit sounds section](#hit-sounds).
 - **`objectParams` (Comma-separated list):** Extra parameters specific to the object's type.
@@ -237,90 +237,46 @@ Hit circles do not have additional `objectParams`.
 - **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
 - **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Glossary#osupixel) of the slider.
-- **`edgeSounds` (Pipe-separated list of integers):** Hit sounds that play when hitting edges of the slider's curve.
+- **`edgeSounds` (Pipe-separated list of integers):** Hit sounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
 - **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hit sounds section](#hit-sounds).
 
-#### Path
+#### Slider curves
 
-*sliderType* will be `L` (linear), `P` (perfect), `B` (Bezier), or `C` (Catmull, deprecated).
+When constructing curves for a slider, `x` and `y` are used for the first point, and `curvePoints` supply the rest.
 
-*curvePoints (x:y|...)* is a series of `|`-separated coordinates describing the control points of the slider.
+There are four types of slider curves in osu!:
 
-A **linear** slider has a start, specified in *x* and *y* from the common fields, and an end point specified in *curvePoints*. For example `L|100:200`.
+- **Bézier (B):** [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) of arbitrary degree can be made. Multiple bézier curves can be joined into a single slider by repeating their points of intersection.
+- **Centripetal catmull-rom (C):** [Catmull curves](https://en.wikipedia.org/wiki/Centripetal_Catmull%E2%80%93Rom_spline) are an interpolating alternative to bézier curves. They are rarely used today due to their lack of visual appeal.
+- **Linear (L):** These curves form a straight path between all of their points.
+- **Perfect circle (P):** Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier.
 
-A **perfect** circle slider is defined by three points. In that order: start, pass-through, and end. *x* and *y* define the start point, and *curvePoints* defines the pass-through and end point. For example `P|250:200|200:15`.
+If the slider's `length` is longer than the defined curve, the slider will extend until it reaches the target length:
 
-A perfect circle slider could be represented as a center point, a radius, and two angles for convenience. See this source code for the conversion algorithm: [PathApproximator.cs](https://github.com/ppy/osu-framework/blob/master/osu.Framework/MathUtils/PathApproximator.cs).
+- For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
+- For perfect circle curves, it continues the circular arc.
 
-A **Bézier** slider is made of one or many Bézier curves, sharing common ends. The degree of each curve is arbitrary. The first control points is defined with *x* and *y*, and the other ones by *curvePoints*.
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
 
-To identify the separation between two curves, the intersection point is repeated. Consider the sequence ABCDDEFFG. You would get the 3 Bézier curves: ABCD (cubic), DEF (quadratic) , FG (linear).
+#### Slider hit sounds
 
-Example: `476,340,6419,2,0,B|437:336|422:309|422:309|384:309|359:337|359:337|328:308|300:304|300:304|272:352|237:383|176:356|159:287|224:256,1,420,6|2,0:0|0:0,0:0:0:0:`
+Apart from edge hit sounds, sliders also have an ongoing hit sound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
 
-The first Bézier curve in the segment is quadratic with the following points: (476, 340), (437, 336), (422, 309).
-
-#### Repeat
-
-*repeat* (Integer) is the number of times a player will go over the slider. A value of 1 will not repeat, 2 will repeat once, 3 twice, and so on.
-
-#### Length and duration
-
-*pixelLength* (Decimal) is the length of the slider along the path of the described curve. It is specified in osu!pixels, i.e. relative to the 512×384 virtual screen.
-
-The *pixelLength* is not the length of the curve path described above, but the actual length the slider should have. If the *pixelLength* is smaller than the path length, the path must be shrinked. Conversely, if the *pixelLength* is bigger than the path length, the path must be naturally extended: a longer line for linear sliders, a longer arc for perfect circle curves, and a final linear segment for Bézier paths.
-
-The *pixelLength* is notably used to compute the duration of the slider. To get the slider duration, use the following formula:
-
-`slider duration = pixelLength / (100.0 * SliderMultiplier) * BeatDuration`
-
-Where:
-
-- *SliderMultiplier* is the property defined in the `[Difficulty]` section.
-- *BeatDuration* is the duration of a beat, specific to the current timing point.
-
-The duration you will get is in the same unit as *BeatDuration*, usually milliseconds.
-
-#### Sounds
-
-*hitSound* applies only to the body of the slider. Only *normal* (0) and *whistle* (2) are supported. The samples played are named like `soft-sliderslide4.wav` for normal, and `normal-sliderwhistle.wav` for whistle. These samples are meant to be looped, and may also be empty WAV files to mute the slider.
-
-*edgeHitsounds (hitSound|...)* is a `|`-separated list of *hitSounds* to apply to the circles of the slider. The values are the same as those for regular hit objects. The list must contain exactly *repeat + 1* values, where the first value is the hit sound to play when the slider is first clicked, and the last one when the slider is released.
-
-*edgeAdditions (sampleSet:additionSet|...)* is a `|`-separated list of samples sets to apply to the circles of the slider. The list contains exactly *repeat + 1* elements. *sampleSet* and *additionSet* are the same as for hit circles' *extras* fields.
-
-When *sampleSet* is 0, it inherits from the *sampleSet* in the *extras* field of the hit object, and then from the timing point. *additionSet* inherits from the *additionSet* in *extras*, then the timing point.
-
-The final *extras* defines the sample to use on the slider body. It functions like *extras* for a circle.
+This hit sound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-hit<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
 ### Spinners
 
-**Syntax**: `x,y,time,type,hitSound,endTime,extras`
+*Spinner syntax:* `x,y,time,type,hitSound,endTime,hitSample`
 
-**Example**: `256,192,730,12,8,3983`
+- **`endTime` (Integer):** End time of the spinner, in milliseconds from the beginning of the beatmap's audio.
+- `x` and `y` do not affect spinners. They default to the centre of the playfield, `256,192`.
 
-A spinner also creates bananas in Catch the Beat, a spinner in osu!taiko, and does not appear in osu!mania.
+### osu!mania holds
 
-*endTime (Integer)* is when the spinner will end, in milliseconds from the beginning of the song.
+*Spinner syntax:* `x,y,time,type,hitSound,endTime:hitSample` <!-- TODO: colon? -->
 
-Hit sounds play at the end of the spinner.
+- **`endTime` (Integer):** End time of the hold, in milliseconds from the beginning of the beatmap's audio.
+- `x` determines the index of the column that the hold will be in. It is computed by `floor(x * columnCount / 512)` and clamped between `0` and `columnCount - 1`. For special `nK + 1` modes, `0` is reserved for the special column, and the others have `1` added to them. <!-- TODO: check -->
+- `y` does not affect holds. It defaults to the centre of the playfield, `192`.
 
-### osu!mania hold notes
-
-A hold note unique to osu!mania.
-
-**Syntax**: `x,y,time,type,hitSound,endTime:extras`
-
-**Example**: `329,192,16504,128,0,16620:0:0:0:0:`
-
-*x* (Integer) determines which column a note will fall on. *y* is ignored.
-
-The number of column is defined by the *CircleSize* property in the Difficulty section. Columns are indexed from 0.
-
-The column for a note is computed with `x / column width` with `column width = 512 / number of columns`. The resulting value is floored, then clamped between 0 and (#column - 1) for safety.
-
-To avoid rounding errors, *x* is best picked in the middle of the range for its column. For example, in 4K mode, the first column ranges from 0 to 128, so the safest value for x is 64.
-
-For the 7K + 1 mode, the column index is `1 + x / (512 / 7)`, leaving the column 0 for the specials.
-
-*endTime* (Integer) is the time when the key should be released, in milliseconds from the beginning of the song.
+<!-- TODO: ### Conversions to other game modes -->
