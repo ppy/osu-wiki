@@ -31,5 +31,3 @@ But don't take my word for the madness, here's a little video showcasing the ent
 Voting will close at the end of the 30th, which doesn't leave a whole lot of time — so don't delay and get stuck into the fray today!
 
 —Ephemeral
-
-
