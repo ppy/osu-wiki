@@ -10,11 +10,9 @@ In a truly terrifying performance, our incredible community artists have stepped
 
 Each year that goes by only seems to deepen the already impossibly huge well of talent in the osu! community, and 2019 is no exception.
 
-Stride forth into the court of devilish talent and wield your **15** votes wisely, because there's an astonishingly huge amount of ridiculously good entries in the running this year. 
+Stride forth into the court of devilish talent and wield your **15** votes wisely, because there's an astonishingly huge amount of ridiculously good entries in the running this year.  I know I say that every year, but this year is extra crazy. I also say that every year too, but seriously, you guys are getting absolutely ridiculous with this stuff. We're going to have to start giving people twenty or thirty votes at this rate!
 
-I know I say that every year, but this year is extra crazy. I also say that every year too, but seriously, you guys are getting absolutely ridiculous with this stuff. We're going to have to start giving people twenty or thirty votes at this rate!
-
-But don't take my word for the madness, here's a little video showcasing the entries set to [**Camellia**]'s *Nasty \* Nasty \* Spell* from his latest album, *Blackmagik Blazing*:
+But don't take my word for the madness, here's a little video showcasing the entries set to [**Camellia**](https://osu.ppy.sh/beatmaps/artists/31)'s *Nasty \* Nasty \* Spell* from his latest album, *Blackmagik Blazing*:
 
 <div align="center">
     <video width="90%" controls>
@@ -28,6 +26,6 @@ But don't take my word for the madness, here's a little video showcasing the ent
 
 [Head on over to the **Halloween 2019 Fanart Contest** listing and vote now!](https://osu.ppy.sh/community/contests/81)
 
-Voting will close at the end of the 30th, which doesn't leave a whole lot of time — so don't delay and get stuck into the fray today!
+Voting will close at the end of the 30th, which doesn't leave a whole lot of time—so don't delay and get stuck into the fray today!
 
 —Ephemeral
