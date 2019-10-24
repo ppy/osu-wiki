@@ -436,7 +436,7 @@ The link text of the user link should be the user's current name.
 
 Whenever linking to a beatmap, use this format as the link text:
 
-```
+```md
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
@@ -448,7 +448,7 @@ The difficulty name may be left outside of the link text, but doing so must be c
 
 Whenever linking to a beatmapset, use this format as the link text:
 
-```
+```md
 {artist} - {title} ({creator})
 ```
 
@@ -490,7 +490,7 @@ Images must be under 1 megabyte, otherwise they will fail to load. Downscaling a
 
 All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
-```
+```sh
 jpeg-recompress -am smallfry <input> <output>
 ```
 
@@ -560,15 +560,15 @@ All screenshots of gameplay must be done in the stable build, unless it is for a
 
 You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
 
--   Select language: `English`
--   Prefer metadata in original language: `Enabled`
--   Resolution: `1280x720`
--   Fullscreen mode: `Disabled`
--   Parallax: `Disabled`
--   Menu tips: `Disabled`
--   Seasonal backgrounds: `Never`
--   Always show key overlay: `Enabled`
--   Current skin: `Default` (first option)
+- Select language: `English`
+- Prefer metadata in original language: `Enabled`
+- Resolution: `1280x720`
+- Fullscreen mode: `Disabled`
+- Parallax: `Disabled`
+- Menu tips: `Disabled`
+- Seasonal backgrounds: `Never`
+- Always show key overlay: `Enabled`
+- Current skin: `Default` (first option)
 
 #### Image links
 
@@ -656,7 +656,9 @@ British English spelling variants must be used when there are conflicting spelli
 - `skilful` instead of `skillful`
 - `analyse` instead of `analyze`
 
+<!-- markdownlint-disable MD026 -->
 ### osu!
+<!-- markdownlint-enable MD026 -->
 
 The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
 
@@ -754,14 +756,14 @@ In osu!standard, beatmaps are composed of three different gameplay elements: hit
 Language names must be first-letter capitalised. For example:
 
 ```md
-The `#spanish` chat channel are for those who speak Spanish.
+The `#spanish` chat channel is for those who speak Spanish.
 ```
 
 #### Proper nouns
 
 Proper nouns must be first-letter capitalised. For example:
 
-```
+```md
 Dean Herbert (also known as peppy) created osu! back in 2007.
 ```
 
@@ -832,13 +834,13 @@ These words must be spelt as follows (spacing must match):
 
 ### Abbreviations, acronyms, and initialisms
 
-Abbreviations, acronyms, and/or initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. For example:
+Abbreviations, acronyms, and initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. For example:
 
-```
+```md
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-Abbreviations, acronyms, and/or initialisms must be capitalised, with exception. For example:
+Abbreviations, acronyms, and initialisms must be capitalised, with exception. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -851,9 +853,9 @@ Use `e.g.` for "for example" and `i.e.` for "that is".
 
 ---
 
-Abbreviations, acronyms, and/or initialisms should not be pluralised. For example:
+Abbreviations, acronyms, and initialisms should not be pluralised. For example:
 
-```
+```md
 Avoid: BNs can nominate your beatmapset.
 
 Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
@@ -885,13 +887,13 @@ When listing a start and an end date, list the start date first, followed by a f
 
 Time formatting must be done using the following format:
 
-```
+```md
 HH:MM TIMEZONE
 ```
 
 Time is written in 24-hour format and any single digits must be prefixed with a zero. The timezone must be written immediately after the time and should be in UTC+0 for global events or in your timezone for smaller events. Use `UTC` instead of `GMT`. For example:
 
-```
+```md
 Do not: 9:50 PM UTC
 Do not: 13:57 (UTC)
 Do not: 15:30
@@ -909,7 +911,7 @@ Do:     07:15 UTC-4
 
 When both date and time are used together, the date must be written first followed by the time. The time must be in between round brackets (`(` and `)`). For example:
 
-```
+```md
 Do not: 2018-04-01 at 15:26 UTC
 Do not: 2017-03-31 17:26 UTC
 
