@@ -48,10 +48,10 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm rela
 #### Rules
 
 -   **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
--   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Short spinners are unreasonably difficult to complete.
+-   **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners are too quick to allow adequate spin time.
 -   **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 -   **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
--   **Do not use key sounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
+-   **Do not use hit/key sounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 -   **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
 #### Guidelines
@@ -138,7 +138,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 
-If you use a Normal difficulty as the _lowest difficulty_ of your beatmapset, it should follow these guidelines in addition to the ones above
+If a Normal difficulty is required and used as the _lowest difficulty_ of your beatmapset, it also has to abide by these additional **guidelines**:
 -  **Avoid more than three actively clicked 1/2 rhythms in a row.**
 -  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
 -  **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.

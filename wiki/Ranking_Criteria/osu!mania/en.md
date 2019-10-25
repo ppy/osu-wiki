@@ -126,10 +126,16 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
 - **Long-term slider velocity changes should be between 0.90x and 1.05x.**
 
-If Normal is the *lowest difficulty of a beatmap set*, it has to abide by these additional **rules**:
-- **Consecutive 1/4 snaps may only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmap set.
+If a Normal difficulty is required and used as the _lowest difficulty_ of your beatmapset, it also has to abide by these additional **rules** and **guidelines**:
+
+#### Rules
+
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalization must be done in beatmaps with variable BPM.**
+
+#### Guidelines
+
+- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmap set.
 
 Additional guidelines for *4 key Normal* difficulties:
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
@@ -157,7 +163,7 @@ Bracket patterns should be used sparingly.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
 
-If Hard is the *lowest difficulty of a beatmap set*, it has to abide by these additional **guidelines**:
+If a Hard difficulty is required and used as the _lowest difficulty_ of your beatmapset, it also has to abide by these additional **guidelines**:
 - **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
 - **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
 

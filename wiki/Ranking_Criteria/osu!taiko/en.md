@@ -113,7 +113,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **You should insert at least 1 rest moment that is 2/1 or longer after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
-If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has to abide by the following rules and guidelines:
+If a Futsuu difficulty is required and used as the _lowest difficulty_ of your beatmapset, it also has to abide by these additional **rules** and **guidelines**:
 
 #### Rules
 
