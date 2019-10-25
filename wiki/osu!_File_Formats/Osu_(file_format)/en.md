@@ -26,19 +26,23 @@ The following content is separated into sections, indicated by section titles in
 | :-- | :-- | :-- |
 | `AudioFilename` | String | Location of the audio file relative to the current folder |
 | `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing |
+| `AudioHash` | String | *Deprecated* |
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start |
 | `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) |
 | `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) |
-| `StackLeniency` | Decimal | Threshold in time where hit objects placed close together stack |
+| `StackLeniency` | Decimal | Multiplier for the threshold in time where hit objects placed close together stack (0–1) |
 | `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
 | `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect |
-| `StoryFireInFront` | 0 or 1 | *Deprecated* |
+| `StoryFireInFront` | 0 or 1 | *Deprecated.* Defaults to `1` |
+| `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images. Defaults to `0` |
+| `AlwaysShowPlayfield` | 0 or 1 | *Deprecated.* Defaults to `0` |
+| `OverlayPosition` | String | Draw order of hit circle overlays compared to hit numbers (`NoChange` = use skin setting, `Below` = draw overlays under numbers, `Above` = draw overlays on top of numbers). Defaults to `NoChange` |
 | `SkinPreference` | String | Preferred skin to use during gameplay |
-| `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map |
-| `CountdownOffset` | Integer | Time in beats that the countdown starts before the first hit object |
-| `WidescreenStoryboard` | 0 or 1 | Whether or not the storyboard allows widescreen viewing |
+| `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map. Defaults to `0` |
+| `CountdownOffset` | Integer | Time in beats that the countdown starts before the first hit object. Defaults to `0` |
 | `SpecialStyle` | 0 or 1 | Whether or not the "N+1" style key layout is used for osu!mania |
-| `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images |
+| `WidescreenStoryboard` | 0 or 1 | Whether or not the storyboard allows widescreen viewing |
+| `SamplesMatchPlaybackRate` | 0 or 1 | Whether or not sound samples will change rate when playing with speed-changing mods. Defaults to `0` |
 
 ## Editor
 
