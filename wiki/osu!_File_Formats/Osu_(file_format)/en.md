@@ -275,12 +275,12 @@ This hit sound uses the hit object's `hitSound` and `hitSample` properties, but 
 - **`endTime` (Integer):** End time of the spinner, in milliseconds from the beginning of the beatmap's audio.
 - `x` and `y` do not affect spinners. They default to the centre of the playfield, `256,192`.
 
-### osu!mania holds
+### Holds (osu!mania only)
 
-*Spinner syntax:* `x,y,time,type,hitSound,endTime:hitSample` <!-- TODO: colon? -->
+*Hold syntax:* `x,y,time,type,hitSound,endTime:hitSample`
 
 - **`endTime` (Integer):** End time of the hold, in milliseconds from the beginning of the beatmap's audio.
-- `x` determines the index of the column that the hold will be in. It is computed by `floor(x * columnCount / 512)` and clamped between `0` and `columnCount - 1`. For special `nK + 1` modes, `0` is reserved for the special column, and the others have `1` added to them. <!-- TODO: check -->
+- `x` determines the index of the column that the hold will be in. It is computed by `floor(x * columnCount / 512)` and clamped between `0` and `columnCount - 1`.
 - `y` does not affect holds. It defaults to the centre of the playfield, `192`.
 
 <!-- TODO: ### Conversions to other game modes -->
