@@ -332,7 +332,7 @@ Sterben Punktzahl von jedem Treffer Kreis und Ende eines Schiebers gegeben wird 
   - Ein 300er, wenn alle Slider-Ticks und der genaue erste Tipp erfolgreich ausgeführt wurden.
   - Eine 100, wenn mindestens die Hälfte von ihnen mit erheblichem Anfangsabgriff.
   - Eine 50, wenn es gelungen ist, auch nur einen der Ticks oder den ersten Tipp zu treffen.
-- ** Ein zu früher Klick auf einen Schieberegler ** führt nicht zu einem Fehlschlag, ** setzt jedoch den Punktemultiplikator auf 0 zurück **.
+- **Ein zu früher Klick auf einen Schieberegler** führt nicht zu einem Fehlschlag, **setzt jedoch den Punktemultiplikator auf 0 zurück**.
 - Ein Fehlschlag, wenn der Schieberegler nicht funktioniert hat.
 
 **Spinner**
