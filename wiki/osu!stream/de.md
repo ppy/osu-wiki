@@ -367,7 +367,7 @@ Folgendes erhöht oder setzt den Punktemultiplikator nicht zurück:
 
 ### Noten
 
-! [Notenbildschirm] [Os-Grade.jpg]
+![Notenbildschirm][Os-Grade.jpg]
 
 **Normale Noten**
 
