@@ -14,31 +14,31 @@ I've created a small group of experienced users who are interested in working on
 
 ### Alternator Style packs
 
-*created by [lain](https://osu.ppy.sh/users/1650010), [Uberzolik](https://osu.ppy.sh/users/1314547)*
-*written by [Stefan](https://osu.ppy.sh/users/626907)*
-Download [Ranked](https://osu.ppy.sh/beatmaps/packs/1699) | [Loved](https://osu.ppy.sh/beatmaps/packs/1700)
+*created by [lain](https://osu.ppy.sh/users/1650010), [Uberzolik](https://osu.ppy.sh/users/1314547)*  
+*written by [Stefan](https://osu.ppy.sh/users/626907)*  
+Download [Ranked](https://osu.ppy.sh/beatmaps/packs/1699) | [Loved](https://osu.ppy.sh/beatmaps/packs/1700)  
 
 lain and Uberzolik were passionate enough to work on the very first mapping style specific map packs released in the pack list. These first packs are focused on beatmaps where alternating is essential. lain has worked on the ranked version while Uberzolik did the Loved vesion. If you need maps to practice alternating or are good already and want to challenge yourself you should check these packs out!
 
 ### The Embodiment of Scarlet Devil pack
 
 *created by [celerih](https://osu.ppy.sh/users/4696296), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Xilver15](https://osu.ppy.sh/users/3099689)*  
-*written by [celerih](https://osu.ppy.sh/users/4696296)*
-[Download](https://osu.ppy.sh/beatmaps/packs/1729)
+*written by [celerih](https://osu.ppy.sh/users/4696296)*  
+[Download](https://osu.ppy.sh/beatmaps/packs/1729)  
 
 Available to download now is the first of the Touhou Game Packs, where a selection of various Touhou maps from a specific game are picked and curated just for you! This first pack contains beatmaps from the first non PC-98 Touhou game and the sixth game in the series, Embodiment of Scarlet Devil. The packs aims to offer a variety of styles and themes, ranging from 2008 to 2018 to offer something to enjoy for anyone. Packs for future games are currently being worked on and should be released within the next few weeks. Enjoy!
 
 ### Best of 2010–2011 pack
 
 *created by [Dada](https://osu.ppy.sh/users/9119507), [\_p0ke\_](https://osu.ppy.sh/users/5434711), [Halfslashed](https://osu.ppy.sh/users/4598899), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Cynplytholowazy](https://osu.ppy.sh/users/3901754)*  
-*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*
-[Download](https://osu.ppy.sh/beatmaps/packs/1733)
+*written by [\_p0ke\_](https://osu.ppy.sh/users/5434711)*  
+[Download](https://osu.ppy.sh/beatmaps/packs/1733)  
 
 Ever wanted to see what popular maps looked like in earlier eras of the game? Well now you can! Forged together by members of the Beatmap Pack Management team, you can check out some of the best maps that the game had to offer during 2010 and 2011 in one single pack. While there were a lot of great maps the team didn't have enough room to include, hopefully you can find something on this list that you will enjoy. Play through them all and experience a blast from the past!
 
 ### osu!dan project
 
-*written by [celerih](https://osu.ppy.sh/users/4696296)*
+*written by [celerih](https://osu.ppy.sh/users/4696296)*  
 
 The osu!dan project is a brand new community created project that seeks to provide a sort of "campaign mode" to the game. Players will progress through levels of increasing difficulty in a skill of their choice, such as aim, stamina, accuracy, et cetera.
 
