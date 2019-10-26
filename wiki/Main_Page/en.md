@@ -3,8 +3,7 @@ layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat.
-Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
+Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat. Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
 
 This wiki is based on the contributions of the community with the primary aim of replacing the old FAQ section, and allows it to become a much more exhaustive resource.
 </div>
