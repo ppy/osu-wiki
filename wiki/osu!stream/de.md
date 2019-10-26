@@ -37,7 +37,7 @@
 
 # osu! stream
 
-**[Klicken Sie hier, um zur Indexseite für externe Ports zurückzukehren](../"Indexseite für externe Ports")**
+**[Klicken Sie hier, um zur Indexseite für externe Ports zurückzukehren](../ "Indexseite für externe Ports")**
 
 ![osu! stream logo][osu! stream logo]
 
