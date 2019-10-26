@@ -1,4 +1,4 @@
-<! - wikilink ->
+<!-- wikilink -->
 [Songliste]: ./Song_List "Songliste"
 [NF wikilink]: / wiki / Game_Modifiers / "Weitere Informationen finden Sie in Game Modifiers unter No Fail"
 
