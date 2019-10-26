@@ -41,7 +41,7 @@
 
 ![osu! stream logo][osu! stream logo]
 
-** osu! stream ** ist eine Version von osu! Von Grund auf neu gebaut, speziell für Touch-fähige Geräte. Es ist derzeit nur für Apples Plattform [iOS](http://en.wikipedia.org/wiki/IOS) verfügbar, jedoch für eine Plattform [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) ) Hafen ist geplant. Es führt ein brandneues Gameplay-System wie den Haltekreis und verbundene Beats ein.
+**osu! stream** ist eine Version von osu! Von Grund auf neu gebaut, speziell für Touch-fähige Geräte. Es ist derzeit nur für Apples Plattform [iOS](http://en.wikipedia.org/wiki/IOS) verfügbar, jedoch für eine Plattform [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) ) Hafen ist geplant. Es führt ein brandneues Gameplay-System wie den Haltekreis und verbundene Beats ein.
 
 Es unterstützt kein klassisches osu! Beatmaps. Stattdessen werden Karten von einem speziellen Team von Kartierern erstellt, um die neuen Elemente zu nutzen und strengere Standards einzuhalten. Sowohl kostenlose als auch kostenpflichtige Karten sind im "Store" erhältlich.
 
