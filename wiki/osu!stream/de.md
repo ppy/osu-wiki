@@ -139,6 +139,191 @@ _Hold circle 2_
   - Zumindest 50 für das Berühren.
   - 30 für jede Explosion.
   - Multiplikator-Reset, wenn die Kreise nicht richtig gehalten wurden, und Miss, wenn sie dies nicht taten.
+  
+### Neue Modi, um die Schwierigkeit zu ersetzen
+
+---
+
+![Easy][Os-PlayEasy.png]
+
+_Einfach_
+
+---
+
+![Normal][Os-PlayNormal.png]
+
+_Normal_
+
+---
+
+![Hart][Os-PlayHard.png]
+
+_Hart_
+
+---
+
+![Experte][Os-PlayExpert.jpg]
+
+_Experte_
+
+---
+
+#### Einfacher Modus
+
+![Einfacher Modus] [Einfacher Modus]
+
+** Schwierigkeit: Leicht + [NoFail][NF wikilink]**
+
+Easy-Modus ist für Neuankömmlinge der osu! zu gewöhnen!streamen Spiel-spielen. Das gameplay ist deutlich langsamer für neue Spieler, um den Fluss und das timing zu treffen zu verstehen. Keine lifebar ausgegeben werden und spielen Easy-Modus wird nicht entsperren Expert-Modus.
+
+Sterben Hintergrundfarbe ist Grün.
+
+#### Stream-Modus
+
+![Stream-Modus] [- Stream-Modus]
+
+** Schwierigkeit: Einfach ("Down-Stream!"Normal aus) ~ Normal (Startpunkt) ~ Hart ("Bach Up!"Normal aus)**
+
+Stream-Modus ist eine neue Implementierung speziell für osu!stream. In diesem Modus startet der Spieler mit einer halb gefüllten" 2. "lifebar mit einem normalen Schwierigkeitsgrad. Der Spieler wird dann beauftragt, es voll zu füllen, um "den Stream!"die im Grunde Stimmen die Schwierigkeit bis (durch hinzufügen von mehr Treffer-Objekt und abwechselnd zu "Hart" design) , aber immer noch deutlich weniger härter als Experten-Modus. Wenn Spieler eingegeben ", den Stream!"Modus, eine (Dritte/zweite) lifebar ausgegeben wird und" Down-Stream!"wird auftreten, wenn die (Dritte/zweite) lifebar liefs aus Gesundheit, zurück zu den (Normal/Leicht) Schwierigkeit Einstellung von design und mit der halb gefüllten (zweite/Letzte) lifebar.
+
+Kurz gesagt, der Spieler beginnt zwischen Leicht und Schwer.
+
+Beachten Sie, dass der Spieler * * mindestens einen (&gt;80% Genauigkeit) Klingelte in diesem Modus erzielen muss, um den Expertenmodus des Songs**freizuschalten. Genauigkeit niedriger als 80%, auch wenn full-combo nicht als Einer zählt (es wird wie üblich als B gezählt).
+
+Sterben Hintergrundfarbe ist Grün (Leicht), Blau (Normal) und Rosa (Hart).
+
+---
+
+![Stream!][Os-SU.png]
+
+_strom Nach Oben!_
+
+---
+
+![Strom Nach Unten!] [- Os-SD.png]
+
+_strom Nach Unten!_
+
+---
+
+![Kritische Gesundheit][Os-Zero1.png]
+
+_kritische healthesundheit_
+
+---
+
+![Spiel Vorbei] [Os-Zero2.png]
+
+_Game Over_
+
+---
+
+#### Expertenmodus
+
+![Expertenmodus][Expertenmodus]
+
+** Schwierigkeit: Experte**
+
+Standardmäßig gesperrt und kann nur entriegelt werden, indem der Stream-Modus des Songs mit einem A oder besser abgeschlossen wird. In diesem Modus erhält der Spieler eine vollständige rettungsleiste und der Spieler hat die Aufgabe, Sie bis zum Ende des Songs zu erhalten. Es wird nichts anderes als Prahlerei freigeschaltet.
+
+Sterben Hintergrundfarbe ist Lila und die Lichter verdunkeln sich je nach Aktueller HP.
+
+## Schnittstelle
+
+---
+
+![Hauptmenü] [Os-MM. png]
+
+_Hauptmenü_
+
+---
+
+![Songliste] [Os-SL.jpg]
+
+_Songliste_
+
+---
+
+![Bildschirm speichern] [Os-Store.jpg]
+
+_Store-Bildschirm_
+
+---
+
+![Menü Stil auswählen][Bs-DS.png]
+
+_ Menü Stil auswählen_
+
+---
+
+![Song-Informationen][Os-SI.png]
+
+_Song Informationen_
+
+---
+
+![Experte][Os-PlayExpert.jpg]
+
+_Experte_
+
+---
+
+![Pause-Menü][Os-Pause.png]
+
+_Pause Menü_
+
+---
+
+![Fehlgeschlagene Menü] [Os-FM.png]
+
+_Failed Menü_
+
+---
+
+![Bühne geräumt!][Os-SC.png]
+
+_bühne geräumt!_
+
+---
+
+![Note Bildschirm] [Os-Klasse.jpg]
+
+_Grade Bildschirm_
+
+---
+
+![Option Bildschirm 1][Bs-O1.png]
+
+_Option-Bildschirm 1_
+
+---
+
+![Option Bildschirm 2] [Os-O2.png]
+
+_Option-Bildschirm 2_
+
+---
+
+## Songliste
+
+**_[Klicken Sie für die vollständige Liste][Song-Liste]_**
+
+## Scoring
+
+### Genauigkeit
+
+Genauigkeit = HitValue /(PerfectHitValue)
+
+Begriff / Formel
+: - - -: |:---
+**HitValue* | / (Anzahl der Fehlschüsse * 0 + Anzahl der 50er Jahre * 1 + Anzahl der 100er * 2 + Anzahl der 300ER * 4)
+**PerfectHitValue** / (Anzahl der Fehler + Anzahl 50 + Anzahl 100 + Anzahl 300) * 4
+
+Mit anderen Worten, jeder verpassen, in Richtung auf 0%, jeder 50 in Richtung auf 25%, jeder 100 in Richtung auf 50% und jeder 300 in Richtung auf 100%.
+
+### Ergebnis
+
+Sterben Punktzahl von jedem Treffer Kreis und Ende eines Schiebers gegeben wird mit der folgenden Formel berechnet:
 
 **Sliders**
 
@@ -201,9 +386,9 @@ Im **einfachen Modus wird die Lebensleiste vollständig entfernt**.
 
 ![Beispiel für Stream Up! von Normal][Bild hoch streamen]
 
-Im ** Stream-Modus ** erhält der Spieler jedoch ** drei Lebensleisten und der Spieler beginnt mit der zweiten, halb gefüllten Lebensleiste beim Start **. Spieler (gewinnt / verliert) die Lebensleiste durch die Nachricht (Stream Up! / Stream Down!) Für (Füllt die Lebensleiste voll / verbraucht alle HP in dieser Lebensleiste). Nachdem die Nachricht angezeigt wurde, zeigt das Spiel im Hintergrund eine Animation, die den Schwierigkeitsgrad (lauter / leiser) und eine halb gefüllte Lebensleiste anzeigt. Wenn ein Spieler ein "Stream Down!" Erhält, wird dem Spieler vorübergehend Unsichtbarkeit verliehen (da in der aktuell verwendeten Lebensleiste keine Gesundheit mehr vorhanden ist), bis die Animation abgeschlossen ist, in der die Lebensleiste durch eine zur Hälfte gefüllte aus der vorherigen ersetzt wird Schwierigkeit.
+Im **Stream-Modus** erhält der Spieler jedoch ** drei Lebensleisten und der Spieler beginnt mit der zweiten, halb gefüllten Lebensleiste beim Start **. Spieler (gewinnt / verliert) die Lebensleiste durch die Nachricht (Stream Up! / Stream Down!) Für (Füllt die Lebensleiste voll / verbraucht alle HP in dieser Lebensleiste). Nachdem die Nachricht angezeigt wurde, zeigt das Spiel im Hintergrund eine Animation, die den Schwierigkeitsgrad (lauter / leiser) und eine halb gefüllte Lebensleiste anzeigt. Wenn ein Spieler ein "Stream Down!" Erhält, wird dem Spieler vorübergehend Unsichtbarkeit verliehen (da in der aktuell verwendeten Lebensleiste keine Gesundheit mehr vorhanden ist), bis die Animation abgeschlossen ist, in der die Lebensleiste durch eine zur Hälfte gefüllte aus der vorherigen ersetzt wird Schwierigkeit.
 
-Im ** Expertenmodus ** wird eine vollständige Lebensleiste ausgegeben **.
+Im **Expertenmodus** wird eine vollständige Lebensleiste ausgegeben.
 
 Im Hinblick darauf, Leben für die Lebensader zu erlangen, wird dies wie unten erläutert.
 
