@@ -1,6 +1,6 @@
 <!-- wikilink -->
 [Songliste]: ./Song_List "Songliste"
-[NF wikilink]: / wiki / Game_Modifiers / "Weitere Informationen finden Sie in Game Modifiers unter No Fail"
+[NF wikilink]: /wiki/Game_Modifiers/ "Weitere Informationen finden Sie in Game Modifiers unter No Fail"
 
 <! - img ->
 [osu! stream logo]: ./img/Os-Logo.jpg "osu! stream logo"
