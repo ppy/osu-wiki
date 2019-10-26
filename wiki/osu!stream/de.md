@@ -45,7 +45,7 @@
 
 Es unterstützt kein klassisches osu! Beatmaps. Stattdessen werden Karten von einem speziellen Team von Kartierern erstellt, um die neuen Elemente zu nutzen und strengere Standards einzuhalten. Sowohl kostenlose als auch kostenpflichtige Karten sind im "Store" erhältlich.
 
-[osu! stream wurde zusammen mit einem Interview in osu! month \ # 5 ausgearbeitet.](https://osu.ppy.sh/community/forums/topics/59924)
+[osu! stream wurde zusammen mit einem Interview in osu! month \# 5 ausgearbeitet.](https://osu.ppy.sh/community/forums/topics/59924)
 
 ## Installation
 
