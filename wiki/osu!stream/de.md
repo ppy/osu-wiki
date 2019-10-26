@@ -111,7 +111,7 @@ _Finger Guides display_
 - Die grüne Farbe ist für die linke und die rote für die rechte Hand.
 - Diese Funktion kann aus dem Optionsmenü oder nach Abschluss des Tutorials deaktiviert werden.
 
-######Connected Beats
+#### Connected Beats
 
 ![Connected Beats][OS-CB.png]
 
