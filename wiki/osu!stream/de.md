@@ -64,7 +64,7 @@ Es unterstützt kein klassisches osu! Beatmaps. Stattdessen werden Karten von ei
 
 ### USB-Methode
 
-** Auf dem Gerät muss [iTunes](https://www.apple.com/itunes/) installiert sein. **
+**Auf dem Gerät muss [iTunes](https://www.apple.com/itunes/) installiert sein.**
 
 - Gehen Sie zu [diesem Link und laden Sie ihn herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - Wenn Sie nach der Apple ID gefragt werden, geben Sie die Apple ID und das Passwort ein.
