@@ -384,7 +384,7 @@ Im Gegensatz zum osu! -Standard unterscheidet sich die Lebensleiste in osu! stre
 
 Im **einfachen Modus wird die Lebensleiste vollständig entfernt**.
 
-![Beispiel für Stream Up! von Normal][Bild hoch streamen]
+![Beispiel für Stream Up! von Normal][Bild streamen]
 
 Im **Stream-Modus** erhält der Spieler jedoch ** drei Lebensleisten und der Spieler beginnt mit der zweiten, halb gefüllten Lebensleiste beim Start **. Spieler (gewinnt / verliert) die Lebensleiste durch die Nachricht (Stream Up! / Stream Down!) Für (Füllt die Lebensleiste voll / verbraucht alle HP in dieser Lebensleiste). Nachdem die Nachricht angezeigt wurde, zeigt das Spiel im Hintergrund eine Animation, die den Schwierigkeitsgrad (lauter / leiser) und eine halb gefüllte Lebensleiste anzeigt. Wenn ein Spieler ein "Stream Down!" Erhält, wird dem Spieler vorübergehend Unsichtbarkeit verliehen (da in der aktuell verwendeten Lebensleiste keine Gesundheit mehr vorhanden ist), bis die Animation abgeschlossen ist, in der die Lebensleiste durch eine zur Hälfte gefüllte aus der vorherigen ersetzt wird Schwierigkeit.
 
