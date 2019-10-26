@@ -2,7 +2,7 @@
 [Songliste]: ./Song_List "Songliste"
 [NF wikilink]: /wiki/Game_Modifiers/ "Weitere Informationen finden Sie in Game Modifiers unter No Fail"
 
-<! - img ->
+<!-- img -->
 [osu! stream logo]: ./img/Os-Logo.jpg "osu! stream logo"
 [Gerät]: ./img/Os-Devices.jpg "osu! Stream in iDevice"
 [Einfacher Modus]: ./img/Os-ModeEasy.jpg "Einfacher Modus"
