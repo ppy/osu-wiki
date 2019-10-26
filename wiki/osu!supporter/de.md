@@ -16,7 +16,7 @@ Um osu! -Unterstützer zu erhalten, melden Sie sich an (oder registrieren Sie si
 
 ### Auswahl der Dauer
 
-![Osu! Supporter kaufen](img/selective-duration.jpg "Benutzer und Dauer für osu! Supporter auswählen")
+![osu! Supporter kaufen](img/selective-duration.jpg "Benutzer und Dauer für osu! Supporter auswählen")
 
 Die über dem Schieberegler angezeigte Benutzerkarte ist der Benutzer, für den Sie osu! Supporter kaufen. Standardmäßig sollte es Ihre Benutzerkarte sein. Geben Sie zum Verschenken an einen Freund den Benutzernamen Ihres Freundes (nicht die Benutzer-ID) in das graue Feld unter der Benutzerkarte ein. Sobald dies erledigt ist, ändert sich die Benutzerkarte entsprechend dem von Ihnen eingegebenen Benutzernamen. Von hier aus können Sie dann die Dauer des osu! -Anhängers auswählen, den Sie verschenken möchten. Beachten Sie jedoch, dass es keine Werbung für Gruppengeschenke gibt.
 
