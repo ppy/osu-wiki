@@ -142,7 +142,7 @@ _Hold circle 2_
 
 **Sliders**
 
-- ** Die Beurteilung von Schiebereglern hängt von der Genauigkeit des anfänglichen Abgriffs ab **.
+- **Die Beurteilung von Schiebereglern hängt von der Genauigkeit des anfänglichen Abgriffs ab**.
 - Schieberegler bestehen aus Schieberegler-Häkchen, die die Start-, End- und Wiederholungspunkte des Schiebereglers enthalten.
   - Ein 300er, wenn alle Slider-Ticks und der genaue erste Tipp erfolgreich ausgeführt wurden.
   - Eine 100, wenn mindestens die Hälfte von ihnen mit erheblichem Anfangsabgriff.
