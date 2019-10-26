@@ -246,9 +246,9 @@ Normalerweise im Hauptmenü und im Tutorial-Bildschirm zu hören.
 
 ### Credits?
 
-! [osu! stream credits] [osu! stream credits]
+![osu! stream credits][osu! stream credits]
 
 ## Links
 
 - [Offizielle Website](http://www.osustream.com)
-- [Diskussionsforum (osu! Website)](https://osu.ppy.sh/community/forums/79)
+- [Diskussions forum (osu! Website)](https://osu.ppy.sh/community/forums/79)
