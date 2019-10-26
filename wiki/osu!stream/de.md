@@ -127,7 +127,7 @@ _Connected Beats_
 
 _Hold circle 1_
 
--
+---
 
 ![Hold circle 2][OS-HC2.jpg]
 
