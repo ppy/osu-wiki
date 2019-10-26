@@ -90,7 +90,7 @@ Es unterstützt kein klassisches osu! Beatmaps. Stattdessen werden Karten von ei
 - Zum Herunterladen der Song-Packs ist kein Konto erforderlich.
 - Kann osu! Stream mit einem Twitter-Account integrieren.
 - Der Highscore kann anonym unter dem Namen "Gast" an die Site gesendet werden (falls dies vorkommt, jedoch eine Internetverbindung erforderlich ist).
-- Die Kreisuhr wird ausgetauscht und mit einer kleinen Randlinie nach unten verschoben, die je nach Genauigkeit farbig ist. \ [Bottom (Long)\]
+- Die Kreisuhr wird ausgetauscht und mit einer kleinen Randlinie nach unten verschoben, die je nach Genauigkeit farbig ist. \[Bottom (Long)\]
 - **Durchschnittliches Timing** ist auf der Notenseite angegeben.
 - Kann weder alte Datensätze noch Wiederholungen speichern.
 - Skin kann nicht geändert werden und Modifikationen können (noch) nicht angewendet werden.
