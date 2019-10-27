@@ -2,7 +2,7 @@
 
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 
-1. After [installing](/wiki/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`. Enter your username (if it's not taken), your email, and your password. Then click `Create Account`.
+1. After [installing](/wiki/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`.
 
 ![The registration form from the website](img/register.jpg "The registration form")
 
