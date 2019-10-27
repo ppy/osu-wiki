@@ -203,7 +203,7 @@ Usage of `hitSample` can further customize the sounds that play. It defaults to 
 - **`normalSet` (Integer):** Sample set of the normal sound.
 - **`additionSet` (Integer):** Sample set of the whistle, finish, and clap sounds.
 - **`index` (Integer):** Index of the sample. If this is `0`, the timing point's sample index will be used instead.
-- **`volume` (Integer):** Volume of the sample from 0 to 100.
+- **`volume` (Integer):** Volume of the sample from 1 to 100. If this is `0`, the timing point's volume will be used instead.
 - **`filename` (String):** Custom filename of the addition sound.
 
 `normalSet` and `additionSet` can be any of the following:
