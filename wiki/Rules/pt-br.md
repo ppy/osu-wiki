@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Regras
 
 Estas regras tem o propósito de manter a comunidade do osu! divertida e agradável para todos.

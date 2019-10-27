@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pravidlá
 
 Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunitu zábavným a vítajúcím miestom pre všetkých.
