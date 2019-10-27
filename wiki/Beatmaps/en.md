@@ -34,7 +34,7 @@ Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualifi
 
 These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
-- No [pp](/wiki/pp) will be awarded.
+- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
