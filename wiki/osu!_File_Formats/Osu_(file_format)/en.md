@@ -1,5 +1,4 @@
 # .osu (file format)
-<!-- TODO: Add examples for any structures more complicated than a single value -->
 
 **`.osu`** is a human-readable file format containing information about a beatmap.
 
@@ -147,6 +146,24 @@ Timing points have two extra effects that can be toggled using bits 0 and 3 (fro
 
 The rest of the bits are unused.
 
+### Examples
+
+```
+10000,333.33,4,0,0,100,1,1
+12000,-25,4,3,0,100,0,1
+```
+
+The first timing point at 10 seconds is uninherited, and sets:
+
+- BPM to 180 (`1 / 333.33 * 1000 * 60`)
+- Time signature to 4/4
+- Sample set to the beatmap default
+- Sample index to osu!'s default hit sounds
+- Volume to 100%
+- Kiai time
+
+The second timing point at 12 seconds is inherited, changing the slider velocity to 4x and the sample set to drum.
+
 ## Colours
 
 All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colors.
@@ -282,5 +299,37 @@ This hit sound uses the hit object's `hitSound` and `hitSample` properties, but 
 - **`endTime` (Integer):** End time of the hold, in milliseconds from the beginning of the beatmap's audio.
 - `x` determines the index of the column that the hold will be in. It is computed by `floor(x * columnCount / 512)` and clamped between `0` and `columnCount - 1`.
 - `y` does not affect holds. It defaults to the centre of the playfield, `192`.
+
+### Examples
+
+```
+256,192,11000,21,2
+256,192,11200,8,12,12000,3:0:0:80:
+100,100,12600,6,1,B|200:200|250:200|250:200|300:150,2,310.123,2|1|2,0:0|0:0|0:2,0:0:0:0:
+```
+
+The first object is a hit circle:
+
+- In the centre of the screen
+- At 11 seconds
+- Starting a new combo, and skipping one extra combo colour
+- With a whistle hit sound
+
+The second object is a spinner:
+
+- At 11.2 seconds
+- Ending at 12 seconds
+- With finish and clap hit sounds, playing at 80% volume
+- With the normal hit sound playing with the drum set, at 80% volume
+
+The third object is a slider:
+
+- At the position (100,100)
+- At 12.6 seconds
+- Starting a new combo
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), (300,150)
+- Repeating once
+- 310.123 osu! pixels long
+- With a whistle hit sound at the beginning, and a whistle hit sound playing with the soft set at the end
 
 <!-- TODO: ### Conversions to other game modes -->
