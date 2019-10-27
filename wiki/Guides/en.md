@@ -52,5 +52,5 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 - [Discord RPC](Discord_RPC)
 - [GL Support Issues](GL_Support_Issues)
-- [Live-streaming osu!](Live_streaming_osu!)
+- [Live Streaming osu!](Live_Streaming_osu!)
 - [Recording osu!](Recording_osu!)
