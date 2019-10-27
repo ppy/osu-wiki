@@ -116,7 +116,7 @@ Shortcut key is the `Esc` key.
 
 ## Types of Replay
 
-_Full documentation regarding the .osr file format: [.osr file format][osr wikilink]_
+_Full documentation regarding the `.osr` file format: [.osr file format][osr wikilink]_
 
 To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-
