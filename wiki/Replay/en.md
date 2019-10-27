@@ -26,7 +26,7 @@
 
 # Replay
 
-A replay is a direct emulation of a play, either by a player or a perfect play done by the [Auto][Auto wikilink] mod.
+A replay is a rebroadcast or direct emulation of a play, either by a player or a perfect play done by the [Auto][Auto wikilink] mod.
 As long as the local replay emulation file with a `.osr` file extension is available with the difficulty/beatmap or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by osu! to be watched.
 
 ## Replay options
