@@ -3,10 +3,10 @@ layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-<p>
+<p class="osu-md__paragraph">
 Welcome to osu!, a free-to-win rhythm game with its primary focus of clicking circles along with the beat. Aside from the main game mode, which is referred to many as <em>osu!standard</em>, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
 </p>
-<p>
+<p class="osu-md__paragraph">
 This wiki is based on the contributions of the community with the primary aim of replacing the old FAQ section, and allows it to become a much more exhaustive resource.
 </p>
 </div>
@@ -66,7 +66,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # How You Can Help
 
-<p>
+<p class="osu-md__paragraph">
 If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
 </p>
 
