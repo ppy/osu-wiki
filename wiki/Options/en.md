@@ -84,9 +84,9 @@ This section is about the appearance of your game client and parts of the interf
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Frame Limiter` | Set the frame rate limit. See below for details. | Dropdown | `120fps` |
-| `Show FPS Counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
-| `Compatibility Mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
+| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `120fps` |
+| `Show FPS counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
+| `Compatibility mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
 | `Reduce dropped frames` | Adjust graphical settings to decrease dropped/stuttered frames. | Checkbox | `Disabled` |
 | `Detect performance issues` | Warn you if another program on your computer may harm your client's performance. | Checkbox | `Enabled` |
 
@@ -118,8 +118,8 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | `Resolution` | Set the game client resolution. The listed resolutions differ per monitor. | Dropdown |  |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
 | `Letterboxing` | Run the game client in fullscreen (usually decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black borders. | Checkbox | `Enabled` |
-| `Horizontal offset` | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
-| `Vertical offset` | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
+| `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
+| `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
 
 - If `Fullscreen mode` is disabled, `Running without fullscreen mode will increase your input latency!` may appear underneath it.
 
@@ -128,13 +128,13 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
 | `Snaking Sliders` | Sliders will "snake out" from their starting position. | Checkbox | `Enabled` |
-| `Background Video` | Allow background video files to play while playing beatmaps (can be disabled per-beatmap). | Checkbox | `Enabled` |
+| `Background video` | Allow background video files to play while playing beatmaps (can be disabled per-beatmap). | Checkbox | `Enabled` |
 | `Storyboards` | Allow beatmap storyboards to be played (can be disabled per-beatmap). | Checkbox | `Enabled` |
-| `Combo Bursts` | Allow combo bursts to display upon reaching a combo milestone. | Checkbox | `Enabled` |
-| `Hit Lighting` | Display a subtle glow behind each hit explosion. Does not disable lighting during Kiai Time. | Checkbox | `Enabled` |
+| `Combo bursts` | Allow combo bursts to display upon reaching a combo milestone. | Checkbox | `Enabled` |
+| `Hit lighting` | Display a subtle glow behind each hit explosion. Does not disable lighting during Kiai Time. | Checkbox | `Enabled` |
 | `Shaders` | Display, graphically speaking, concert-type effects. This may automatically be disabled if your computer cannot handle it. | Checkbox | `Disabled` |
 | `Softening filter` | Adjusts the shaders to be less flashy. This will automatically enable `Shaders`. | Checkbox | `Disabled` |
-| `Screenshot Format` | Set the screenshot file format to `JPEG (web-friendly)` or `PNG (Lossless)`. | Dropdown | `JPEG (web friendly)` |
+| `Screenshot format` | Set the screenshot file format to `JPEG (web-friendly)` or `PNG (Lossless)`. | Dropdown | `JPEG (web friendly)` |
 
 ### Main Menu
 
@@ -161,7 +161,7 @@ If you open the dropdown list for `Seasonal backgrounds`, you will be presented 
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Show Thumbnails` | Display a preview image of each beatmap's background. This requires the selected skin's version to 2.2+. | Checkbox | `Enabled` |
+| `Show thumbnails` | Display a preview image of each beatmap's background. This requires the selected skin's version to 2.2+. | Checkbox | `Enabled` |
 
 ## Gameplay
 
@@ -173,9 +173,9 @@ This section is about the appearance during gameplay.
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Background Dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `30%` |
+| `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `30%` |
 | `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visble. | Button | `Disabled` |
-| `Progress Display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
+| `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
 | `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
 | `Score meter size` | Configure size of score meter. | Slider | `1x` |
 | `Always show key overlay` | Show the key status overlay even while playing normally. | Checkbox | `Disabled` |
@@ -255,7 +255,7 @@ This section is about skin related things.
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
 | `Skin sample image` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | Button |  |
-| `Current Skin` | Change the skin. Items in dropdown is based on what is in the `osu!/Skins` folder. (Names are based on folder name.) | Dropdown | `Default` |
+| `Current skin` | Change the skin. Items in dropdown is based on what is in the `osu!/Skins` folder. (Names are based on folder name.) | Dropdown | `Default` |
 | `Preview gameplay` | Preview the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | Button |  |
 | `Open current skin folder` | Open the selected skin folder. | Button |  |
 | `Export as .osk` | Export the current skin as a `.osk` file to share. Once your game client is done exporting, it will the directory containing the `.osk` file. | Button |  |
@@ -263,8 +263,8 @@ This section is about skin related things.
 | `Use skin's sound samples` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | Checkbox | `Enabled` |
 | `Use Taiko skin for Taiko mode` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | Checkbox | `Disabled` |
 | `Always use skin cursor` | Favor the current skin's cursor over any cursors supplied by beatmaps. | Checkbox | `Enabled` |
-| `Cursor Size` | Adjust the cursor size. | Slider | `1x` |
-| `Automatic Cursor Sizing` | Automatically adjusts the cursor size based on the circle size of the beatmap. | Checkbox | `Disabled` |
+| `Cursor size` | Adjust the cursor size. | Slider | `1x` |
+| `Automatic cursor size` | Automatically adjusts the cursor size based on the circle size of the beatmap. | Checkbox | `Disabled` |
 | `Use combo colour as tint for slider ball` | Slider balls will use the current combo colour (usually transparent). Requires skin support. | Checkbox | `Enabled` |
 
 ## Input
@@ -278,7 +278,7 @@ This section is about input peripherals.
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
 | `Sensitivity` | Adjust the sensitivity of the mouse cursor. If changed, it may automatically enable `Raw Input`. | Slider | `1x` |
-| `Raw Input` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | Button | Disabled |
+| `Raw input` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | Button | Disabled |
 | `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | Button | Enabled |
 | `Confine mouse cursor` | Prevent mouse cursor from leaving the game client window. See below for details. | Dropdown | `Only when fullscreen` |
 | `Disable mouse wheel in play mode` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | Button | Disabled |
@@ -324,7 +324,7 @@ These options only affect while working inside the beatmap editor or in test mod
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Background Video` | Play the beatmap's background video while editing. | Checkbox | `Disabled` |
+| `Background video` | Play the beatmap's background video while editing. | Checkbox | `Disabled` |
 | `Always use default skin` | Use osu!'s default skin while editing, despite the current skin's settings. | Checkbox | `Disabled` |
 | `Snaking sliders` | Enable snaking sliders while editing. | Checkbox | `Enabled` |
 | `Hit animations` | Enable hit animations while editing. | Checkbox | `Disabled` |
@@ -346,11 +346,14 @@ This section is about chat, spectators, multi, and osu!direct.
 | `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
 | `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | Checkbox | `Enabled` |
 | `Show a notification pop-up when someone says your name` | When someone mentions your username in chat, a notification will appear. | Checkbox | `Enabled` |
+| `Show chat message notifications | Displays a notification, when new chat messages arrive. | Checkbox | `Enabled` |
 | `Play a sound when someone says your name` | When someone mentions your username in chat, a sound will play. | Checkbox | `Enabled` |
 | `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
+| `Discord Rich Presence` | Provides rich presence data to Discord | Checkbox | `Enabled` |
 | `Show spectators` | Show a list of current spectators on the left of the screen during gameplay. | Checkbox | `Enabled` |
 | `Automatically link beatmaps to spectators` | Send currently-playing beatmap to `#spectator` channel when you have spectators. | Checkbox | `Enabled` |
 | `Show notification popups instantly during gameplay` | Allow a push notification to display during gameplay. If disabled, the game client will wait until you are done playing. | Checkbox | `Enabled` |
+| `Show notification popups when friends change status` | Displays a notification, whenever your friend goes online or offline | Checkbox | `Enabled` |
 | `Allow multiplayer game invites from all users` | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only. | Checkbox | `Enabled` |
 
 ### Integration
