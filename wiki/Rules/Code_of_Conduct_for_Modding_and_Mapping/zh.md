@@ -1,7 +1,5 @@
 # 行为准则：摸图和作图
 
-_父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
-
 **行为准则：摸图和作图（Modding and Mapping）** 是一系列关于 osu! 摸图和作图生态的规定和指南，也是 [osu! 论坛规定](/wiki/Rules) 和 [Ranking Criteria](/wiki/Ranking_Criteria) 的扩展。为了保证作图和摸图的帖子有建设性，积极和高效的氛围，行为准则的作用非常关键。当你参与作图和摸图讨论时，你有义务遵守行为准则。违反这些规则的不当行为会受到相应的惩罚。
 
 ## 行为和准则
