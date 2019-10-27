@@ -3,14 +3,14 @@ layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-Welcome to osu!, a free rhythm game created by peppy with its primary focus of clicking circles along with the beat. Aside from the main game mode, which is referred to many as *osu!standard*, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
+Welcome to osu!, a free rhythm game with its primary focus of clicking circles along with the beat. Aside from the main game mode, which is referred to as `osu!standard`, osu! has three other different game modes, namely: osu!taiko, osu!catch, and osu!mania.
 <br/>
-This wiki is based on the contributions of the community with the primary aim of replacing the old FAQ section, and allows it to become a much more exhaustive resource.
+This wiki is based on the contributions of the community. You can help by reading the [Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide).
 </div>
 
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 
 # Getting Started
@@ -18,12 +18,12 @@ This wiki is based on the contributions of the community with the primary aim of
 [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
 
 </div>
-<div class="wiki-main-page-panel">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Game Modes](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Multi) • [Game Modes](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ This wiki is based on the contributions of the community with the primary aim of
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
 
-Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • Components: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficulties](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Mapping Techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • <br/> Components: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficulties](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Mapping Techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -67,7 +67,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
 </p>
 
-[osu!wiki](https://github.com/ppy/osu-wiki) • [osu!lazer](https://github.com/ppy/osu-wiki) • [osu!web](https://github.com/ppy/osu-web)
+[osu!wiki](https://github.com/ppy/osu-wiki) • [osu!](https://github.com/ppy/osu) • [osu!web](https://github.com/ppy/osu-web)
 
 </div>
 </div>
