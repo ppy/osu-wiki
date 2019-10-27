@@ -960,14 +960,14 @@
 
 "rc":                          "Ranking_Criteria"
 
-"code_of_conduct":                      "Ranking_Criteria/Code_of_Conduct"
-"code_of_conduct:_modding_and_mapping": "Ranking_Criteria/Code_of_Conduct"
-"code_of_conduct_modding_and_mapping":  "Ranking_Criteria/Code_of_Conduct"
-"coc":                                  "Ranking_Criteria/Code_of_Conduct"
-"coc:_mam":                             "Ranking_Criteria/Code_of_Conduct"
-"coc_mam":                              "Ranking_Criteria/Code_of_Conduct"
-"modding_and_mapping":                  "Ranking_Criteria/Code_of_Conduct"
-"mam":                                  "Ranking_Criteria/Code_of_Conduct"
+"code_of_conduct":                      "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"code_of_conduct:_modding_and_mapping": "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"code_of_conduct_modding_and_mapping":  "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"coc":                                  "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"coc:_mam":                             "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"coc_mam":                              "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"modding_and_mapping":                  "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"mam":                                  "Rules/Code_of_Conduct_for_Modding_and_Mapping"
 
 "ranking_criteria_osu!":         "Ranking_Criteria/osu!"
 "ranking_criteria/osu!standard": "Ranking_Criteria/osu!"
@@ -1546,3 +1546,8 @@
 "people/staff_log/2017": "Staff_Log/2017"
 "people/staff_log/2018": "Staff_Log/2018"
 "people/staff_log/2019": "Staff_Log/2019"
+
+# Moved in https://github.com/ppy/osu-wiki/pull/2719
+"ranking_criteria/code_of_conduct":               "Rules/Code_of_Conduct_for_Modding_and_Mapping"
+"ranking_criteria/song_content_rules":            "Rules/Song_Content_Rules"
+"ranking_criteria/visual_content_considerations": "Rules/Visual_Content_Considerations"
