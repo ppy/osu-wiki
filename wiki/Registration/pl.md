@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Rejestracja
 
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
