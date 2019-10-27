@@ -32,10 +32,8 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Playing
 
 - [Beginner's Tutorial](Beginner's_Tutorial)
-- [GL Support Issues](GL_Support_Issues)
 - [How to Play osu!mania](How_to_Play_osu!mania)
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Recording osu!](Recording_osu!)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Tablet Purchase](Tablet_Purchase)
 - [Tips and Tricks on Skill Improvement](Tips_and_Tricks_on_Skill_Improvement)
@@ -49,3 +47,10 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Cropping with Complex Backgrounds](Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](Cropping_with_Simple_Backgrounds)
 - [Making Properly Centered Spinners](Making_Properly_Centered_Spinners)
+
+## Miscellaneous
+
+- [Discord RPC](Discord_RPC)
+- [GL Support Issues](GL_Support_Issues)
+- [Live Streaming osu!](Live_Streaming_osu!)
+- [Recording osu!](Recording_osu!)
