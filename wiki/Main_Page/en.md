@@ -2,8 +2,9 @@
 layout: "main_page"
 ---
 
+<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
-The osu! wiki is a project based on the contributions of people from osu!. The end goal is that it replaces the old FAQ section, and allows it to become a much more exhaustive resource. However, to make this possible, we need help from everyone willing to contribute!
+Welcome to the osu! wiki, a project containing a wide range of osu! related information.
 </div>
 
 
@@ -48,7 +49,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 [Glossary](/wiki/Glossary) • [Tournaments](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projects](/wiki/Projects)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
 # People
@@ -61,9 +62,12 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # How You Can Help
 
+<!-- This p tag is required. -->
+<p class="osu-md__paragraph">
 If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
+</p>
 
-[osu!wiki](https://github.com/ppy/osu-wiki) • [osu!](https://github.com/ppy/osu) • [osu!web](https://github.com/ppy/osu-web)
+[osu!](https://github.com/ppy/osu) • [osu! web](https://github.com/ppy/osu-web) • [osu! wiki](https://github.com/ppy/osu-wiki)
 
 </div>
 </div>
