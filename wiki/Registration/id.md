@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pendaftaran
 
 *Harap diperhatikan bahwa memiliki lebih dari satu akun osu! merupakan salah satu pelanggaran terhadap [peraturan osu!](/wiki/Rules/).*
