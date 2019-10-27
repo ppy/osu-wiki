@@ -3,7 +3,7 @@ layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-Welcome to to the osu! knowledge base, or the osu!wiki. This is a resource for new and veteran players to use for osu!.
+Welcome to to the osu! knowledge base, or otherwise known as the osu!wiki. This is a resource for new and veteran players to use for osu!.
 <br/>
 This wiki is based on the contributions of the community. You can help by reading the Contribution Guide, which is listed on the osu!wiki GitHub repository.
 </div>
@@ -26,7 +26,7 @@ This wiki is based on the contributions of the community. You can help by readin
 [FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Multi) • <br> [Game Modes](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
-<div class="wiki-main-page-panel">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
