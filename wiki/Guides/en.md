@@ -32,7 +32,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Playing
 
 - [Beginner's Tutorial](Beginner's_Tutorial)
-- [GL Support Issues](GL_Support_Issues)
 - [How to Play osu!mania](How_to_Play_osu!mania)
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
@@ -52,5 +51,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Miscellaneous
 
 - [Discord RPC](Discord_RPC)
+- [GL Support Issues](GL_Support_Issues)
 - [Live-streaming osu!](Live_streaming_osu!)
 - [Recording osu!](Recording_osu!)
