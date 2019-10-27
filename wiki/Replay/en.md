@@ -39,7 +39,7 @@ To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/`~`)
 The screen should darken and a sound will be played when the quick restart was successful.
 Releasing the key early will fail the quick retry.
 
-Access to [Chat Console][Chat Console wikilink] (`F8`)/[Extended Chat Console][Extended Chat Console wikilink] (`F9`) will still be available.
+Access to the [Chat Console][Chat Console wikilink] (`F8`)/[Extended Chat Console][Extended Chat Console wikilink] (`F9`) will still be available.
 Press the `Tab` key to hide/show the currently-selected leaderboard.
 Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto][Auto wikilink].
 
@@ -198,7 +198,7 @@ Multi elements will not be saved as shown in the image comparison above (refer t
 
 ### Spectator
 
-As spectator mode requires access to [Extended Chat Console][Extended Chat Console wikilink], please sign in with an active in-game account and connect to Bancho.
+As spectator mode requires access to the [Extended Chat Console][Extended Chat Console wikilink], please sign in with an active in-game account and connect to Bancho.
 
 After that, press `F9` to access the Extended Chat Console and pick a player to spectate.
 Make sure to have the **same** difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.
