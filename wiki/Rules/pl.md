@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Zasady
 
 Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjaznym miejscem dla wszystkich.
