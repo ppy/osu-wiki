@@ -1,10 +1,12 @@
 ---
 tags:
+- Mistrzostwa Polski w 4K 3
 - MP4K
 - MP4K 3
 - MP4K 2019
 ---
-# Mistrzostwa Polski w 4K 3
+
+# Polish 4K Championship 3
 
 ![MP4K 3 Logo](img/logo.png)
 

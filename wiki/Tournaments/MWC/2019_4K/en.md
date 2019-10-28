@@ -12,7 +12,7 @@ tags:
 
 The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 6th installment of the osu!mania 4K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -21,7 +21,7 @@ The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) is a country-based osu!m
 | Group Stage | 2019-09-21/2019-09-22 |
 | Round of 16 | 2019-09-28/2019-09-29 |
 | Quarterfinals | 2019-10-05/2019-10-06 |
-| Semifinals | 2019-10-12/2019-10-13 |
+| Semifinals | 2019-10-11/2019-10-13 |
 | Finals | 2019-10-19/2019-10-20 |
 | Grand Finals | 2019-10-26/2019-10-27 |
 
@@ -95,27 +95,71 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match schedule: Grand Finals
 
-### Saturday, 05 October 2019
+### Saturday, 26 October 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Thailand | ![][flag_TH] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 21:00 UTC+07 | 15:00 UTC+01 |
-| France | ![][flag_FR] | ![][flag_AR] | Argentina | **15:30 UTC** | 17:30 UTC+02 | 12:30 UTC-03 |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_US] | United States | **01:30 UTC** | 22:30 (Fri.) UTC-03 | 21:30 (Fri.) UTC-04 | ¹ |
 
-### Sunday, 06 October 2019
+### Sunday, 27 October 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | **00:30 UTC** | 20:30 (Sat.) UTC-04 | 21:30 (Sat.) UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_CN] | China | **02:00 UTC** | 23:00 (Sat.) UTC-03 | 10:00 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_PL] | Poland | **10:00 UTC** | 17:00 UTC+07 | 12:00 UTC+02 |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **11:30 UTC** | 20:30 UTC+09 | 20:30 UTC+09 |
-| Philppines | ![][flag_PH] | ![][flag_SG] | Singapore | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Italy | ![][flag_IT] | ![][flag_RU] | Russian Federation | **14:30 UTC** | 16:30 UTC+02 | 17:30 UTC+03 |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **01:00 UTC** | 10:00 UTC+09 | 22:00 (Sat.) UTC-03 | ² |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 | ² |
+
+¹ 3rd place encounter  
+² Encounter dependent on results of 3rd place encounter
 
 ## Mappools
+
+### Finals
+
+**This mappool is played in Finals and Grand Finals.**
+
+- FreeMod
+    - [Fairy Godmother (CV:Jennifer Saunders) - Holding Out For a Hero (-mint-) \[Happily Ever After (cut)\]](https://osu.ppy.sh/beatmapsets/1049206#mania/2192932)
+    - [Venetian Snares - Epidermis (Shoegazer) \[Tribalism 1.3x\]](https://osu.ppy.sh/beatmapsets/898099#mania/2159723)
+    - [Jomekka - Eighto (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/584698#mania/1237015)
+    - [LeaF - Calamity Fortune (qqqant) \[Freedom (240bpm)\]](https://osu.ppy.sh/beatmapsets/866025#mania/1810669)
+    - [DJ Noriken - #The\_Relentless\_(Modified) (Dergo) \[#The\_Edited\_(Cut) [1.05x Rate]\]](https://osu.ppy.sh/beatmapsets/978518#mania/2055448)
+    - [t+pazolite - Do I Smile? (Trixta) \[Execution\]](https://osu.ppy.sh/beatmapsets/717382#mania/1515588)
+    - [Reizoko CJ - Thriller (Daikyi) \[Architekt 1.1x\]](https://osu.ppy.sh/beatmapsets/1050752#mania/2196073)
+    - [Kurorak - BREACH PROTOCOL (Daikyi) \[SVampirical\]](https://osu.ppy.sh/beatmapsets/1050571#mania/2195757)
+    - [kradness & REOL - Okochama Sensou (Fullerene-) \[Wafles' Challenge\]](https://osu.ppy.sh/beatmapsets/1048432#mania/2191423)
+    - [Zekk - Duplication (Dergo) \[replicationnn (1.1x)\]](https://osu.ppy.sh/beatmapsets/1046301#mania/2187288)
+    - [DiGiTAL WiNG - DON'T STOP (AutotelicBrown) \[ALiCE's SHORTER RAVE [1.05x Rate]\]](https://osu.ppy.sh/beatmapsets/657818#mania/2196132)
+    - [Aquellex - Crystal Chamber Combustion (Valedict) \[World Destroyer (273BPM Edit)\]](https://osu.ppy.sh/beatmapsets/1047374#mania/2189291)
+    - [KikuoHana - Hibi Darake No Me (Gekido-) \[Stabbing\]](https://osu.ppy.sh/beatmapsets/748212#mania/1576294)
+    - [KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1033252#mania/2160337)
+    - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+    - [Chroma - lost found melody (Ciel) \[Found\]](https://osu.ppy.sh/beatmapsets/1051052#mania/2196635)
+- Tiebreaker
+    - **[Camellia - Racemization (-mint-) \[enantiomers\]](https://osu.ppy.sh/beatmapsets/1050821#mania/2196214)**
+
+### Semifinals
+
+- FreeMod
+    - [Se-U-Ra - Zen'on (AutotelicBrown) \[Ayumu's Death Piano\]](https://osu.ppy.sh/beatmapsets/1044167#mania/2182853)
+    - [BlackY fused with WAiKURO - Alea jacta est! (Raveille) \[Divide et impera\]](https://osu.ppy.sh/beatmapsets/1045504#mania/2185617)
+    - [Kabocha - EgO (zero2snow) \[MXM\]](https://osu.ppy.sh/beatmapsets/1045870#mania/2186392)
+    - [9mm Parabellum Bullet - Punishment (Shoegazer) \[Termination\]](https://osu.ppy.sh/beatmapsets/777334#mania/1633075)
+    - [Memme - Acid Burst (Vortex-) \[Third Eye\]](https://osu.ppy.sh/beatmapsets/696328#mania/1475042)
+    - [Memme - Hellfire (scissorsf) \[La Inferno\]](https://osu.ppy.sh/beatmapsets/635334#mania/1348132)
+    - [siromaru - Absurd Gaff (Civilization) \[Nullify\]](https://osu.ppy.sh/beatmapsets/1046546#mania/2187781)
+    - [Akira Complex - Ether Strike (Dergo) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
+    - [Grimes - We Appreciate Power (Valedict) \[Extra\]](https://osu.ppy.sh/beatmapsets/1046589#mania/2187893)
+    - [funauo - Mousou Seizou Sanka (-mint-) \[Another (NSV) 1.05x\]](https://osu.ppy.sh/beatmapsets/1047347#mania/2189519)
+    - [DJ Sharpnel - Over the Fullereneshift (Shoegazer) \[Edit (245bpm)\]](https://osu.ppy.sh/beatmapsets/893066#mania/1866561)
+    - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
+    - [Terminal 11 - Adcar (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/911470#mania/1902611)
+    - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[Drago's Payapa\]](https://osu.ppy.sh/beatmapsets/584714#mania/2189515)
+    - [The Quick Brown Fox - Serious Shit (Jole) \[ilikexd but the holds died 1.05\]](https://osu.ppy.sh/beatmapsets/842331#mania/2184874)
+    - [Graham Kartna - chiltonWALK.temp (Nivrad00) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1010184#mania/2114659)
+- Tiebreaker
+    - **[Camellia - Arche (-mint-) \[drago vs. mint's apeiron\]](https://osu.ppy.sh/beatmapsets/1047817#mania/2190205)**
 
 ### Quarterfinals
 
@@ -175,17 +219,64 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 - Tiebreaker
     - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
-## Match Results
+## Match results
+
+### Finals
+
+| Saturday, 2019-10-19 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Thailand ![][flag_TH] | 5 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55660708) |
+| Philippines ![][flag_PH] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55663695) |
+
+| Sunday, 2019-10-20 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Brazil ![][flag_BR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55680596) |
+| Japan ![][flag_JP] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55682554) |
+
+### Semifinals
+
+| Friday, 2019-10-11 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **United Kingdom** ![][flag_GB] | **7** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/55482041) |
+
+| Saturday, 2019-10-12 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Singapore ![][flag_SG] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/55506987) |
+| **Brazil** ![][flag_BR] | **7** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/55508916) |
+
+| Sunday, 2019-10-13 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_CN] China | -win by default- |
+| **Japan** ![][flag_JP] | **7** | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55532167) |
+| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/55533576) |
+| France ![][flag_FR] | 6 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55534882) |
+| United Kingdom ![][flag_GB] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55541172) |
+
+### Quarterfinals
+
+| Saturday, 2019-10-05 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/55339583) |
+| **France** ![][flag_FR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55342309) |
+
+| Sunday, 2019-10-06 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| United States ![][flag_US] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55357590) |
+| Chile ![][flag_CL] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/55358879) |
+| Indonesia ![][flag_ID] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/55365647) |
+| Japan ![][flag_JP] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55367399) |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/55369452) |
+| **Italy** ![][flag_IT] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55371660) |
 
 ### Round of 16
 
-| Saturday, 2018-09-28 | | | | |
+| Saturday, 2019-09-28 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Thailand** ![][flag_TH] | **6** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55169227) |
 | **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55172180) |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/55175426) |
 
-| Sunday, 2018-09-29 | | | | |
+| Sunday, 2019-09-29 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55188975) |
 | Indonesia ![][flag_ID] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
@@ -195,7 +286,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2018-09-21 | | | | |
+| Saturday, 2019-09-21 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/54999166) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/54999137) |
@@ -221,7 +312,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55016437) |
 | **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/55016493) |
 
-| Sunday, 2018-09-22 | | | | |
+| Sunday, 2019-09-22 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55022217) |
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55022251) |
@@ -253,7 +344,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode.
     - **While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.**
@@ -293,7 +384,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - Disqualification from the current and future official tournaments until appealed.
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
     - Tournament Management will create a list of potential candidates for a country's team.
@@ -307,7 +398,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
 5. Mapset selectors must not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
     - This may change depending on how many teams are accepted into the competition at the end.
@@ -338,7 +429,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
     - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
     - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K2019: (TeamRed) vs (TeamBlue)".
@@ -350,7 +441,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
    - **The winner of the !roll decides if they want to pick first and ban second, or pick second and ban first.**
 6. Results of the Group Stage will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
     - The mappool for the Grand Finals will be the same one as the one used on the Finals.
@@ -360,7 +451,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.

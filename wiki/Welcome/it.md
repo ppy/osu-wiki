@@ -24,13 +24,13 @@ Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modal
 
 *Pagina principale: [Beatmapping](/wiki/Beatmapping).*
 
-Il beatmapping è il processo che comprende la realizzazione di una mappa da parte di un creatore/creatrice, quest'ultimo/a solitamente più noto/a con il nome di *mapper*. Questo processo include: selezionare la musica, impostare il tempo, mappare la beatmap e testarla. Può anche includere: aggiungere un video, aggiungere una [storyboard](/wiki/Storyboarding), e/o aggiungere una [skin personalizzata](/wiki/Skinning). Tutto ciò può essere fatto dal creatore da solo o con l'aiuto di altri utenti, a volte riferiti come *storyboarders*, *skinners*, e/o *guest creators*, in base a cosa fanno.
+Beatmapping è il processo di un creatore di fare una beatmap. Questo processo include: selezionare la musica, sincronizzare, mappare la beatmap, e testare la beatmap. Può anche includere: aggiungere un video, aggiungere una [storyboard](/wiki/Storyboarding), e/o aggiungere una [skin personalizzata](/wiki/Skinning). Tutto ciò può essere fatto dal creatore da solo o con altri utenti, a volte riferiti a *storyboarders*, *skinners*, e/o *guest creators*, in base a cosa fanno.
 
 ## Modding
 
 *Pagina principale: [Modding](/wiki/Modding).*
 
-Il modding è il processo di revisione della beatmap di un creatore/creatrice in fase di attesa (o in progresso/aiuto) da parte di altri utenti comunemente chiamati *modders*. Moddare gioca un ruolo importante nel controllo della qualità perché permette ai creatori di correggere problemi nelle loro beatmap.
+Modding è il processo di revisione degli utenti di (comunemente chiamati "modders") una beatmap di un creatore in fase di attesa (o in progresso/aiuto). Moddare gioca un ruolo importante nel controllo della qualità perché permette ai creatori di correggere problemi nelle loro beatmap.
 
 ## Skinning
 
@@ -38,7 +38,7 @@ Il modding è il processo di revisione della beatmap di un creatore/creatrice in
 
 *Vedi anche: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Lo skinning permette a chiunque di cambiare il modo di vedere e sentire osu!. Può essere un cambiamento piccolo come la modifica del cursore, o un grande cambiamento come la modifica dell'intera interfaccia di gioco comprese le modalità.
+Skinning permette a chiunque di cambiare il modo di vedere e sentire osu!. Può essere un cambiamento piccolo come la modifica del cursore, o un grande cambiamento come la modifica dell'intera interfaccia di gioco comprese le modalità.
 
 ## osu! wiki - Come puoi aiutare!
 

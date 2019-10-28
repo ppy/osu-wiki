@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Storyboards
 
 ![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
