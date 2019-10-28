@@ -6,13 +6,13 @@
 
 ## Getting Started
 
-To get started, open the game client, select [Options](/wiki/Options), and click `Open osu! folder`. Once the `osu!/` folder is opened, go into the `Skins/` folder and create a new folder. You can name it whatever you want, but keep in mind that osu! will display this name in the options. Inside this folder, you can add any skinning elements listed in the skin element lists.
+To get started, open File Explorer. enter %localappdata%, and press enter. Then, go into the `osu!/` folder, then `Skins/`. Right click, and create a new folder. You can name it whatever you want, but keep in mind that osu! will display this name in the options. Inside this folder, you can add any skinning elements listed in the skin element lists.
 
-Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin files and paste them into your newly created skin folder). **It must be noted that you are not allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
+Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin files and paste them into your newly created skin folder). **Noted that you are not allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
 
 ## Making a skin
 
-Once you have your own skinning folder in the `Skins/` folder, you will first need an image and, optionally, an audio editor. There are many options to choose that vary in functionality and cost. Despite this, any software you use will probably work, as long as you know how to use it.
+Once you have your own skinning folder in the `Skins/` folder, you will first need an image and optionally, an audio editor. There are many options to choose that vary in functionality and cost. Despite this, any software you use will probably work, as long as you know how to use it.
 
 -   Image editors
     -   [GIMP](https://www.gimp.org) (Free)
@@ -30,7 +30,7 @@ The last thing to have ready is patience and a lot of time. New skins do not com
 
 ## What's next?
 
-From here, you can either checkout the [skinning elements lists](/wiki/skinning#skin-elements-lists) to get an idea for what to include in your skin or go through the some of the tutorials:
+From here, you can either checkout the [Skinning Elements Lists](/wiki/skinning#skin-elements-lists) to get an idea for what to include in your skin or go through the some of the tutorials:
 
 -   [Skinning Tutorial/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
 -   [Skinning Tutorial/Interface](/wiki/Skinning_Tutorial/Interface)
