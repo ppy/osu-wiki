@@ -334,4 +334,29 @@ The third object is a slider:
 - 310.123 osu! pixels long
 - With a whistle hit sound at the beginning, and a whistle hit sound playing with the soft set at the end
 
-<!-- TODO: ### Conversions to other game modes -->
+<!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
+
+also there is no info about how they convert to other game modes from an osu!standard beatmap -->
+
+### osu!taiko
+
+osu!taiko's hit objects only use `time` to determine how they are placed on the play field, so `x` and `y` are ignored. Likewise, the only significant part of slider curves is `length`; `curveType` and `curvePoints` are only relevant when opening the map in the editor. Combo colours and new combos are ignored, and mode-specific hit sounds are used.
+
+- Hit circles with whistle or clap hit sounds become kats, and other hit circles become dons. Adding the finish hit sound changes these into their large variants.
+- Sliders become drum rolls.
+- Spinners become denden notes.
+
+### osu!catch
+
+osu!catch's play field only uses the x-axis, so `y` is not relevant. Slider curves may utilize vertical space to achieve horizontal acceleration when they are flattened to a one-dimensional play field.
+
+- Hit circles become fruits.
+- Sliders become juice streams, with fruits on each edge.
+- Spinners become banana showers
+
+### osu!mania
+
+Similarly to osu!catch, osu!mania hit objects do not use `y`. `x` is used to determine the column; see the [Holds section](#holds-(osu!mania-only)).
+
+- Hit circles become normal notes.
+- Sliders and spinners are not used in osu!mania.
