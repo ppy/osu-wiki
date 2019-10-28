@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <!-- wiki -->
 <!-- [Auto wikilink]: /wiki/Game_Modifiers#-auto "Auto game modifier" -->
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
@@ -155,9 +159,9 @@ It is highly suggested to **not rename the encrypted filename**, and make use of
 
 Deleting the `.osg` file has no effect (it is a leftover file for spectator's replay; can be safely removed).
 Deleting the `.osr` file will make the replay _lost forever_ (since the replay data is missing and nothing to export).
-Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make `all` (not exported) replays and local leaderboard scores lost forever_.
+Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make all (not exported) replays and local leaderboard scores lost forever_.
 
-To set a local leaderboard name when not signed in (_Guest_ account), scroll down to the result screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
+To set a local leaderboard name when not signed in (_Guest_ account), scroll down from the results screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
 In this screen, an alternative to using the export `F2` key is to enable the `Save replay to Replays folder` button located at the upper-right.
 
 Return to the _Song Selection_ and changes will be updated for this replay (if no name was given, it will simply be blank).
