@@ -209,8 +209,9 @@ The `hitSound` bit flags determine which sounds will play when the object is hit
 - 2: Finish
 - 3: Clap
 
-<!-- TODO: not sure if these modes are correct -->
-*Note: in osu!standard, osu!catch, and osu!mania, the `LayeredHitSounds` skin property determines whether or not the normal sound will always play, regardless of bit 0's setting in `hitSound`. It is enabled by default.*
+If no bits are set, the normal hit sound is used by default.
+
+In every mode except osu!mania, the `LayeredHitSounds` skin property forces the normal sound to be included regardless of bit 0's setting. It is enabled by default.
 
 #### Custom hit samples
 
