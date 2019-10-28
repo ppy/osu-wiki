@@ -67,7 +67,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
 </p>
 
-[osu!](https://github.com/ppy/osu) • [osu! web](https://github.com/ppy/osu-web) • [osu! wiki](https://github.com/ppy/osu-wiki)
+[osu!](https://github.com/ppy/osu) • [osu!web](https://github.com/ppy/osu-web) • [osu! wiki](https://github.com/ppy/osu-wiki)
 
 </div>
 </div>
