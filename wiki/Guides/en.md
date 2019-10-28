@@ -35,7 +35,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [How to Play osu!mania](How_to_Play_osu!mania)
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
-- [Tablet Purchase](Tablet_Purchase)
 - [Tips and Tricks on Skill Improvement](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Skinning
@@ -53,4 +52,5 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Discord RPC](Discord_RPC)
 - [GL Support Issues](GL_Support_Issues)
 - [Live Streaming osu!](Live_Streaming_osu!)
+- [Tablet Purchase](Tablet_Purchase)
 - [Recording osu!](Recording_osu!)
