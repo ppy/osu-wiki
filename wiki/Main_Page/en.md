@@ -57,17 +57,4 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 [The Team](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Language Moderators](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Support Team](/wiki/People/Support_Team)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
-
-
-# How You Can Help
-
-<!-- This p tag is required. -->
-<p class="osu-md__paragraph">
-If you're interested in shaping the future of osu!, you can help by contributing to any of its projects that interest you.
-</p>
-
-[osu!](https://github.com/ppy/osu) • [osu!web](https://github.com/ppy/osu-web) • [osu! wiki](https://github.com/ppy/osu-wiki)
-
-</div>
 </div>
