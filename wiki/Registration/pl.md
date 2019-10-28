@@ -1,6 +1,6 @@
 ---
 outdated: true
-outdated_since: 95eb88bed8465758a8cef8df66ec424281bc5de8
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
 ---
 
 # Rejestracja
