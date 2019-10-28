@@ -50,7 +50,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 ## Miscellaneous
 
-- [Discord RPC](Discord_RPC)
-- [GL Support Issues](GL_Support_Issues)
+- [Discord Rich Presence](Discord_Rich_Presence)
 - [Live Streaming osu!](Live_Streaming_osu!)
+- [OpenGL Support Issues](OpenGL_Support_Issues)
 - [Recording osu!](Recording_osu!)
