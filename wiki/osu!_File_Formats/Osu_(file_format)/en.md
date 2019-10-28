@@ -87,7 +87,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 *Event syntax:* `eventType,startTime,eventParams`
 
 - **`eventType` (String or Integer):** Type of the event. Some events may be referred to by either a name or a number.
-- **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that don't use a start time, the default is `0`.
+- **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that do not use a start time, the default is `0`.
 - **`eventParams` (Comma-separated list):** Extra parameters specific to the event's type.
 
 ### Backgrounds
