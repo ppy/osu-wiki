@@ -1,6 +1,6 @@
-# Discord RPC
+# Discord Rich Presence
 
-Since 2017-10-31, Discord RPC has now made its way to stable!
+Since 2017-10-31, Discord Rich Presence has now made its way to stable!
 
 ## What does this mean?
 
@@ -31,12 +31,8 @@ This button will automagically change to allow you to spectate people who are pl
 
 ## Known issues
 
-If you send Discord RPC invites too often, you may be temporarily faced with an error from Discord that looks like this:
+If you send Discord Rich Presence invites too often, you may be temporarily faced with an error from Discord that looks like this:
 
 ![](img/slow-down.jpg)
 
 This is perfectly normal and more misleading on Discord's part than anything else. Wait a few minutes, and you should be fine to send invitations again.
-
-## Trivia
-
--   Original forum post: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh/community/forums/topics/659856) by [Ephemeral](https://osu.ppy.sh/users/102335)
