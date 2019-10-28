@@ -35,19 +35,19 @@ outdated: true
 
 ### osu!
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Easy)
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Normal)
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
+- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy
+- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal
+- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard
+- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane
+- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert
 
 ### osu!taiko
 
-- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
-- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu)
-- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
-- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (иногда называется "Inner Oni")
+- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") Kantan
+- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") Futsuu
+- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") Muzukashii
+- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") Oni
+- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") Ura Oni (иногда называется "Inner Oni")
 
 ### osu!catch
 

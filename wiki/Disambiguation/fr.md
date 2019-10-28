@@ -4,7 +4,7 @@ La désambiguïsation sur le wiki d'osu! est le processus de résolution des con
 
 ## Liste des articles de désambiguïsation
 
-- [Bancho](/wiki/Bancho)
-- [Easy](/wiki/Easy)
-- [EZ](/wiki/EZ)
-- [Mod](/wiki/Mod)
+- [Bancho](Bancho)
+- [Easy](Easy)
+- [EZ](EZ)
+- [Mod](Mod)

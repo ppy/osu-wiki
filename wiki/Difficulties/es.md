@@ -32,19 +32,19 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 
 ### osu!
 
-- ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy") [Easy](/wiki/Easy)
-- ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal") [Normal](/wiki/Normal)
-- ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") [Hard](/wiki/Hard)
-- ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") [Insane](/wiki/Insane)
-- ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") [Expert](/wiki/Expert)
+- ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy") Easy
+- ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal") Normal
+- ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") Hard
+- ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") Insane
+- ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") Expert
 
 ### osu!taiko
 
-- ![Icono Kantan](/wiki/shared/diff/easy-t.png "Icono Kantan") [Kantan](/wiki/Kantan)
-- ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") [Futsuu](/wiki/Futsuu)
-- ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") [Muzukashii](/wiki/Muzukashii)
-- ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") [Oni](/wiki/Oni)
-- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") [Ura Oni](/wiki/Ura_Oni) (Aveces llamado _Inner Oni_)
+- ![Icono Kantan](/wiki/shared/diff/easy-t.png "Icono Kantan") Kantan
+- ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") Futsuu
+- ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") Muzukashii
+- ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") Oni
+- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado _Inner Oni_)
 
 ### osu!catch
 

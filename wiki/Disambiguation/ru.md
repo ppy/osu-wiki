@@ -4,7 +4,7 @@
 
 ## Список статей о неоднозначности
 
-- [Bancho](/wiki/Bancho)
-- [Easy](/wiki/Easy)
-- [EZ](/wiki/EZ)
-- [Mod](/wiki/Mod)
+- [Bancho](Bancho)
+- [Easy](Easy)
+- [EZ](EZ)
+- [Mod](Mod)
