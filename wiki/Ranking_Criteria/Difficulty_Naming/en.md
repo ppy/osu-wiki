@@ -45,13 +45,14 @@ These difficulty names are the most commonly used for each game mode.
 
 Mapsets of songs that originated from other rhythm games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
 
-### Beatmania
+### Beatmania IIDX
 
 - ![](/wiki/shared/diff/easy-s.png) Beginner
 - ![](/wiki/shared/diff/normal-s.png) Normal
 - ![](/wiki/shared/diff/hard-s.png) Hyper
 - ![](/wiki/shared/diff/insane-s.png) Another
 - ![](/wiki/shared/diff/expert-s.png) Black Another
+- ![](/wiki/shared/diff/expertplus-s.png) Leggendaria
 
 ### DanceDanceRevolution
 
@@ -61,8 +62,9 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/insane-s.png) Expert
 - ![](/wiki/shared/diff/expert-s.png) Challenge
 
-### DJMax
+### DJMAX
 
+- ![](/wiki/shared/diff/easy-s.png) EZ
 - ![](/wiki/shared/diff/normal-s.png) NM
 - ![](/wiki/shared/diff/hard-s.png) HD
 - ![](/wiki/shared/diff/insane-s.png) MX
@@ -84,7 +86,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/hard-s.png) Hard
 - ![](/wiki/shared/diff/insane-s.png) Expert
 
-### Pop 'n Music
+### Pop'n Music
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
@@ -97,7 +99,51 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/normal-s.png) NOVICE / NOV
 - ![](/wiki/shared/diff/hard-s.png) ADVANCED / ADV
 - ![](/wiki/shared/diff/insane-s.png) EXHAUST / EXH
+
+For **SOUND VOLTEX II -infinite infection-** songs:
+
 - ![](/wiki/shared/diff/expert-s.png) INFINITE / INF
+
+For **SOUND VOLTEX III GRAVITY WARS** songs:
+
+- ![](/wiki/shared/diff/expert-s.png) GRAVITY / GRV
+
+For **SOUND VOLTEX IV HEAVENLY HAVEN** songs:
+
+- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-s.png) HEAVENLY / HVN
+
+For **SOUND VOLTEX VIVID WAVE** songs:
+
+- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-s.png) VIVID / VVD
+
+If more than provided difficulty names are needed for large mapsets, however, using difficulty names from other versions is allowed.
+
+### maimai
+
+- ![](/wiki/shared/diff/easy-s.png) EASY
+- ![](/wiki/shared/diff/normal-s.png) BASIC
+- ![](/wiki/shared/diff/hard-s.png) ADVANCED
+- ![](/wiki/shared/diff/insane-s.png) EXPERT
+- ![](/wiki/shared/diff/expert-s.png) MASTER
+- ![](/wiki/shared/diff/expertplus-s.png) Re:MASTER
+
+### CHUNITHM
+
+- ![](/wiki/shared/diff/normal-s.png) BASIC
+- ![](/wiki/shared/diff/hard-s.png) ADVANCED
+- ![](/wiki/shared/diff/insane-s.png) EXPERT
+- ![](/wiki/shared/diff/expert-s.png) MASTER
+- ![](/wiki/shared/diff/expertplus-s.png) WORLD'S END
+
+### Ongeki
+
+- ![](/wiki/shared/diff/normal-s.png) BASIC
+- ![](/wiki/shared/diff/hard-s.png) ADVANCED
+- ![](/wiki/shared/diff/insane-s.png) EXPERT
+- ![](/wiki/shared/diff/expert-s.png) MASTER
+- ![](/wiki/shared/diff/expertplus-s.png) LUNATIC
 
 ### Touhou Project
 
