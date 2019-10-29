@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # BanchoBot
 
 ![La carte d'utilisateur de BanchoBot](img/BanchoBot.jpg "La carte d'utilisateur de BanchoBot")
@@ -16,8 +12,6 @@ Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commande
 
 Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet de tchat avec BanchoBot et envoyer la commande immédiatement.
 
-*Nota: La commande `SEARCH` n'est pas incluse car elle ne fonctionne pas.*
-
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
 ### HELP
@@ -30,8 +24,6 @@ Affiche une liste des commandes de BanchoBot disponibles.
 
 #### Exemple d'utilisation
 
-*Nota: Le paramètre `user` pour la commande `REPORT` est manquant.*
-
 ```
 pippi: !help
 BanchoBot: Commandes standard (!COMMANDE ou /msg BanchoBot COMMANDE):
@@ -39,8 +31,7 @@ BanchoBot: SEARCH <query>|next|prev
 BanchoBot: WHERE <utilisateur>
 BanchoBot: STATS <utilisateur>
 BanchoBot: FAQ <objet>|liste
-BanchoBot: REPORT <raison> - appeler pour un admin
-BanchoBot: REQUEST [liste] - affiche une requête de mod récente aléatoire
+BanchoBot: REPORT <utilisateur> <raison> - signaler un joueur
 BanchoBot: ROLL <nombre> - lancer un dé et obtenir un résultat aléatoire de 1 à un nombre (par défaut 100)
 ```
 
@@ -50,7 +41,7 @@ BanchoBot: ROLL <nombre> - lancer un dé et obtenir un résultat aléatoire de 1
 !ROLL <nombre>
 ```
 
-Dessine un nombre aléatoire de 1 au nombre sélectionné (par défaut 100).
+Retourne un nombre aléatoire de 1 au nombre sélectionné (par défaut 100).
 
 #### Exemple d'utilisation
 
@@ -65,7 +56,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <utilisateur>
 ```
 
-Affiche les statistiques de l'utilisateur entré. Les statistiques affichées dépendent du mode dans lequel elles sont jouées ou du mode dans lesquelles elles ont été jouées pour la dernière fois.
+Affiche les statistiques de l'utilisateur entré. Les statistiques affichées dépendent du mode auquel le joueur joue ou du mode dans lequel il a joué pour la dernière fois.
 
 *Remarque: BanchoBot ne vous dira pas de quel mode de jeu proviennent les statistiques.*
 
@@ -98,7 +89,7 @@ BanchoBot: Précision: 94.19%
 
 Affiche l'emplacement actuel de l'utilisateur entré.
 
-*Note: Ceci montre seulement le pays de l'utilisateur.*
+*Note: Ceci montre seulement le pays de l'utilisateur. Si l'utilisateur à l'option 'Share your city location with others' (Partager sa ville avec d'autres utilisateurs) activée, cette commande peut aussi retouner sa ville.*
 
 #### Exemple d'utilisation
 
@@ -124,10 +115,10 @@ BanchoBot: peppy est le développeur principal ainsi que le créateur d'osu! et 
 ```
 
 ```
-Tama: Bonjour
+Tama: 你好
 Yuzu: !faq chinese
-BanchoBot: Les utilisateurs chinois s'il vous plaît cliquez sur #chinese Pour entrer dans le canal chinois pour la communication.
-BanchoBot: #osu s’agit d’un canal en anglais seulement. Si vous continuez de parler chinois à #osu après avoir reçu ce message, l’administrateur a le droit d'appliquer des sanctions.
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 (Les utilisateurs chinois s'il vous plaît cliquez sur #chinese Pour entrer dans le canal chinois pour la communication.)
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 (#osu s’agit d’un canal en anglais seulement. Si vous continuez de parler chinois à #osu après avoir reçu ce message, l’administrateur a le droit d'appliquer des sanctions.)
 Tama: ok
 ```
 
@@ -141,6 +132,8 @@ Tama: ok
 !REPORT <utilisateur> <raison>
 ```
 
+*Afin de savoir ce qui mérite d'être signalé, veuillez vous référer à [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour).*
+
 *Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`).*
 
 Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou les [Modérateurs par langues](/wiki/Language_Moderators).
@@ -150,20 +143,4 @@ Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou
 ```
 pippi: !report flyte spamming dans #japanese
 BanchoBot: Les modérateurs du tchat ont été alertés. Merci de votre aide.
-```
-
-### REQUEST
-
-```
-!REQUEST
-!REQUEST list
-```
-
-Affiche un lien vers une beatmap récente demandant une assistance pour la modification. Vous pouvez utiliser l'argument `list` pour chercher plus à la fois. Cliquez sur le lien pour ouvrir la page beatmap ou osu!direct, si vous êtes un osu!supporter.
-
-#### Exemple d'utilisation
-
-```
-pippi: !request
-BanchoBot: HoneyWorks - Tokyo Summer Session feat. CHiCO by MrSergio
 ```
