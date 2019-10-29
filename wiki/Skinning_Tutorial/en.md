@@ -10,7 +10,7 @@ To get started, open File Explorer. enter %localappdata% on the path bar, and pr
 
 Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin files and paste them into your newly created skin folder). **Noted that you are not allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
 
-## Making a skin
+## Making A Skin
 
 Once you have your own skinning folder in the `Skins/` folder, you will first need an image and optionally, an audio editor. There are many options to choose that vary in functionality and cost. Despite this, any software you use will probably work, as long as you know how to use it.
 
@@ -26,11 +26,11 @@ Once you have your own skinning folder in the `Skins/` folder, you will first ne
 
 The next thing you will need is a theme or an idea. You should have one in mind to create an objective for what you want your skin to look like. This is also to help yourself when you need to gather and/or create assets.
 
-The last thing to have ready is patience and a lot of time. New skins do not complete in a snap but can take a week or even several months, so give it some time.
+The last thing to have ready is patience and lots of time. New skins do not complete in a snap but can take a week or even several months, so give it some time.
 
 ## What's next?
 
-From here, you can either checkout the [Skinning Elements Lists](/wiki/skinning#skin-elements-lists) to get an idea for what to include in your skin or go through the some of the tutorials:
+From here, you can checkout the [Skinning Elements Lists](/wiki/skinning#skin-elements-lists) to get an idea for what to include in your skin or go through the some of the tutorials:
 
 -   [Skinning Tutorial/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
 -   [Skinning Tutorial/Interface](/wiki/Skinning_Tutorial/Interface)
