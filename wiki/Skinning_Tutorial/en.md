@@ -15,7 +15,7 @@ Contrary to popular belief, to get a better understanding of how skinning works,
 Once you have your own skinning folder in the `Skins/` folder, you will first need an image and optionally, an audio editor. There are many options to choose that vary in functionality and cost. Despite this, any software you use will probably work, as long as you know how to use it.
 
 -   Image editors
-    -   [GIMP](https://www.gimp.org) (Free)
+    -   [GIMP (GNU Image Manipulation Program)](https://www.gimp.org) (Free)
     -   [Paint.NET](https://www.getpaint.net) (Free)
     -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Paid)
 -   Audio editors
