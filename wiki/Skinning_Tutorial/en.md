@@ -6,9 +6,9 @@
 
 ## Getting Started
 
-To get started, open File Explorer. enter %localappdata% on the path bar, and press enter. Then, go into the `osu!/` folder, then `Skins/`. Right click, and create a new folder. You can also go into osu!, settings, and open the skins folder, then make the folder. You can name it whatever you want, but keep in mind that osu! will display this name on the dropdown of the skin select. Inside this folder, you can add any skinning elements listed in the [Skinning Elements Lists](/wiki/Skinning#skin-elements-lists).
+To get started, open File Explorer. enter %localappdata% on the path bar, and press enter. Then, go into the `osu!/` folder, then `Skins/`. Right click, and create a new folder. You can also go into osu!, settings, and open the skins folder, then make the folder. You can name it whatever you want, but keep in mind that osu! will display this name on the dropdown of the skin select. Inside this folder, you can add any of the skinning elements listed in the [Skinning Elements Lists](/wiki/Skinning#skin-elements-lists).
 
-Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin files and paste them into your newly created skin folder). **Noted that you are not allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
+Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin assets and pasting them into your skin folder). **You are `not` allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
 
 ## Making A Skin
 
@@ -24,7 +24,7 @@ Once you have your own skinning folder in the `Skins/` folder, you will first ne
 
 ---
 
-The next thing you will need is a theme or an idea. You should have one in mind to create an objective for what you want your skin to look like. This is also to help yourself when you need to gather and/or create assets.
+The most important thing you will need is a theme or an idea. You should have one in mind to create an objective for what you want your skin to look like. This is also to help yourself when you need to gather and/or create assets.
 
 The last thing to have ready is patience and lots of time. New skins do not complete in a snap but can take a week or even several months, so give it some time.
 
