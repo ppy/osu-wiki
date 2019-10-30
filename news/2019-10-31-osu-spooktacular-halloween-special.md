@@ -80,7 +80,7 @@ Simple and wonderful, that's all there is to it.
 
 [![](https://assets.ppy.sh/contests/81/banners/saoie.jpg)](https://assets.ppy.sh/contests/81/winners/saoie.png)
 
-**2468** minions bowed before the gaze of [**saoie**](https://osu.ppy.sh/users/6015875) fallen angel Mocha. If you squint really hard, you can see their faces in the darkness of her window.
+**2468** minions bowed before the gaze of [**saoie**](https://osu.ppy.sh/users/6015875)'s' fallen angel Mocha. If you squint really hard, you can see their faces in the darkness of her window.
 
 I lied, you can't, but you should absolutely be squinting at that gorgeous rendition of a decidedly more mature Mocha. Damn.
 
@@ -92,7 +92,7 @@ She must've picked this trick up from the ravens.
 
 [![](https://assets.ppy.sh/contests/81/banners/snowyani2000.jpg)](https://assets.ppy.sh/contests/81/winners/snowyani2000.png)
 
-AVAST ME HEARTIES! **2406** scurvy dogs set sail on [**snowyani2000**](https://osu.ppy.sh/users/2691590) harrowing piratical seas sporting more references than you can shake a stick at, including a *suspiciously familiar* seagull figurehead getting up close and personal with a rather enthusiastic tentacle.
+AVAST ME HEARTIES! **2406** scurvy dogs set sail on [**snowyani2000**](https://osu.ppy.sh/users/2691590)'s harrowing piratical seas sporting more references than you can shake a stick at, including a *suspiciously familiar* seagull figurehead getting up close and personal with a rather enthusiastic tentacle.
 
 There's something I'd never thought I'd have to write in one of these posts.
 
