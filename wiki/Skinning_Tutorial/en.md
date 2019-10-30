@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-To get started, open File Explorer. enter %localappdata% on the path bar, and press enter. Then, go into the `osu!/` folder, then `Skins/`. Right click, and create a new folder. You can also go into osu!, settings, and open the skins folder, then make the folder. You can name it whatever you want, but keep in mind that osu! will display this name on the dropdown of the skin select. Inside this folder, you can add any of the skinning elements listed in the [Skinning Elements Lists](/wiki/Skinning#skin-elements-lists).
+To get started, open File Explorer. enter the path where you installed osu!, and press enter. Then, go into the `osu!/` folder, then `Skins/`. Right click, and create a new folder. You can also go into osu!, settings, and open the skins folder, then make the folder. You can name it whatever you want, but keep in mind that osu! will display this name on the dropdown of the skin select. Inside this folder, you can add any of the skinning elements listed in the [Skinning Elements Lists](/wiki/Skinning#skin-elements-lists).
 
 Contrary to popular belief, to get a better understanding of how skinning works, you should start by mixing skins (copying other skin assets and pasting them into your skin folder). **You are `not` allowed to share these in the forums.** However, mixing skins for yourself can help you learn what skinning can and can not achieve in osu!.
 
