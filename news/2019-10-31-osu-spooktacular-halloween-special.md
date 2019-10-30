@@ -112,7 +112,7 @@ All of the entries showcased above are now the spooktacular background for our u
 
 But wait, that's not all!
 
-It wouldn't be Halloween without some brand new medals, and with that, I am delighted to announce **9** brand new Hush-Hush style riddle-medals to stoke the agony of completionists everywhere.
+It wouldn't be Halloween without some brand new medals, and with that, I am delighted to announce **10** brand new Hush-Hush style riddle-medals to stoke the agony of completionists everywhere.
 
 They are as follows:
 
@@ -123,6 +123,7 @@ They are as follows:
 - **Permadeath**: One life, one shot.
 - **The Future Is Now**: The stars showed you all that was to come.
 - **Natural 20**: Rolled it.
+- **Valediction**: One last time.
 
 And for EXTRA DEBILITATING AGONY, we've thrown in the following two *super difficult* medals, one of which sports a special set of criteria - it requires you to play multiple maps to qualify for it.
 
