@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Enregistrement
 
 *Attention: avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)*

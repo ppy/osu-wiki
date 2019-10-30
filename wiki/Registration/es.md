@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Registro
 
 *Advertencia: ¡Tener más de una cuenta de usuario de osu! en cualquier momento es una infracción contra las [reglas de osu!](/wiki/Rules)!*

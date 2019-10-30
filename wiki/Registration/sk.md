@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Registrácia
 
 *Varovanie: Tvorba viac ako jedného účtu je proti [osu! pravidlám](/wiki/Rules)!*
