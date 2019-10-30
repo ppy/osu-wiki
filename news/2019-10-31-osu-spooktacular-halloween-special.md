@@ -6,7 +6,7 @@ date: 2019-10-30 13:00:00 +0000
 
 All Hallow's Eve is upon us, the blood moon has risen, devilishly delightful depictions and murderous medals abound—this can only mean one thing... **HALLOWEEN IS HERE!**
 
-![](https://assets.ppy.sh/contests/81/newsheader.jpg)
+![](https://assets.ppy.sh/contests/81/newsheader.jpg?2019)
 
 You know it, you love it, our yearly descent into madness is finally here and with it, the results from the *Halloween 2019 Fan Art Contest* are shambling to the stage for their moment in the moonlight.
 
