@@ -32,13 +32,11 @@ So what are you waiting for? Take a listen below!
     <source src="https://assets.ppy.sh/artists/53/previews/1534.mp3" type="audio/mpeg">
 </audio>
 
-
 ### The Skin Thief
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/53/previews/1543.mp3" type="audio/mpeg">
 </audio>
-
 
 ### The Magic Spider
 
