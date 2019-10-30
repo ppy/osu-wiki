@@ -3,7 +3,7 @@
 
 *See also: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-Having trouble getting your [beatmap](/wiki/Glossary) ranked? You've come to the right place.
+Having trouble getting your [beatmap](/wiki/Beatmaps) ranked? You've come to the right place.
 
 ## Step 1: Modding
 
