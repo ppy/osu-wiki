@@ -106,6 +106,8 @@ All of the entries showcased above are now the spooktacular background for our u
 
 **Check out the rest of the entries and their scores over at the [Halloween Fan Art 2019 contest listing!](https://osu.ppy.sh/community/contests/81)**
 
+*You can also download a zip of all the high-quality winning entries [here](https://assets.ppy.sh/contests/81/winners/Halloween2019FanartWinners.zip). Be sure to check each artist out!*
+
 -----------
 
 But wait, that's not all!
