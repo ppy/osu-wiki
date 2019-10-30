@@ -349,7 +349,6 @@ This section is about chat, spectators, multi, and osu!direct.
 | `Show chat message notifications` | Display a notification, when new chat messages arrive. | Checkbox | `Enabled` |
 | `Play a sound when someone says your name` | When someone mentions your username in chat, a sound will play. | Checkbox | `Enabled` |
 | `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
-| `Discord Rich Presence` | Provides rich presence data to Discord. | Checkbox | `Enabled` |
 | `Show spectators` | Show a list of current spectators on the left of the screen during gameplay. | Checkbox | `Enabled` |
 | `Automatically link beatmaps to spectators` | Send currently-playing beatmap to `#spectator` channel when you have spectators. | Checkbox | `Enabled` |
 | `Show notification popups instantly during gameplay` | Allow a push notification to display during gameplay. If disabled, the game client will wait until you are done playing. | Checkbox | `Enabled` |
@@ -360,6 +359,7 @@ This section is about chat, spectators, multi, and osu!direct.
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
+| `Discord Rich Presence` | Provides rich presence data to Discord. | Checkbox | `Enabled` |
 | `Integrate with Yahoo! status display` | Your Yahoo! messenger will show the song you are currently playing or listening to. This needs to be set from the website. | Checkbox | `Disabled` |
 | `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. This needs to be set from the osu!website. | Checkbox | `Disabled` |
 | `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter/) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | Checkbox | `Enabled` |

@@ -349,7 +349,6 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 | `Pokazuj powiadomienia o nowych wiadomościach na czacie` | Wyświetla powiadomienie, gdy na czacie pojawi się na czacie. | Pole wyboru | `Włączone` |
 | `Odgrywaj dźwięk, gdy ktoś wspomni cię na czacie` | Odgrywa charakterystyczny dźwięk, gdy ktokolwiek wspomni twoją nazwę użytkownika na czacie. | Pole wyboru | `Włączone` |
 | `Zezwalaj na udostępnianie nazwy twojego miasta` | Wyświetla nazwę twojego miasta w karcie użytkownika (twój kraj jest publiczny bez względu na stan tej opcji). | Pole wyboru | `Wyłączone` |
-| `Discord Rich Presence` | Udostępnia dane rich presence Discordowi | Checkbox | `Enabled` |
 | `Pokazuj listę widzów` | Wyświetla listę obecnych widzów podczas rozgrywki w lewej części ekranu. | Pole wyboru | `Włączone` |
 | `Automatycznie udostępniaj beatmapy swoim widzom` | Wysyła obecnie rozgrywaną beatmapę na kanał `#spectator`, jeżeli masz jakichkolwiek widzów. | Pole wyboru | `Włączone` |
 | `Pokazuj powiadomienia podczas rozgrywki` | Zezwala na wyświetlanie powiadomień podczas rozgrywki. Odznacz, aby otrzymywać je po zakończeniu gry. | Pole wyboru | `Włączone` |
@@ -360,6 +359,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 
 | Nazwa | Opis | Typ | Domyślnie |
 | --- | --- | --- | --- |
+| `Discord Rich Presence` | Udostępnia dane rich presence Discordowi | Pole wyboru | `Włączone` |
 | `Zintegruj ze statusem Yahoo!` | Twój Yahoo! Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
 | `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
 | `Automaycznie pobieraj beatmapy z osu!direct` | Podczas oglądania innych użytkowników czy rozgrywki w trybie wielosobowym, beatmapy będą pobierane automatycznie. | Pole wyboru | `Włączone` |
