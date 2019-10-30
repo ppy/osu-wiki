@@ -120,30 +120,22 @@ For **SOUND VOLTEX VIVID WAVE** songs:
 
 If more than provided difficulty names are needed for large mapsets, however, using difficulty names from other versions is allowed.
 
-### maimai
+### maimai, CHUNITHM, Ongeki
 
 - ![](/wiki/shared/diff/easy-s.png) EASY
 - ![](/wiki/shared/diff/normal-s.png) BASIC
 - ![](/wiki/shared/diff/hard-s.png) ADVANCED
 - ![](/wiki/shared/diff/insane-s.png) EXPERT
 - ![](/wiki/shared/diff/expert-s.png) MASTER
-- ![](/wiki/shared/diff/expertplus-s.png) Re:MASTER
+- ![](/wiki/shared/diff/expertplus-s.png) Re:MASTER(maimai), WORLD'S END(CHUNITHM), LUNATIC(Ongeki)
 
-### CHUNITHM
+### Cytus, Deemo, VOEZ
 
-- ![](/wiki/shared/diff/normal-s.png) BASIC
-- ![](/wiki/shared/diff/hard-s.png) ADVANCED
-- ![](/wiki/shared/diff/insane-s.png) EXPERT
-- ![](/wiki/shared/diff/expert-s.png) MASTER
-- ![](/wiki/shared/diff/expertplus-s.png) WORLD'S END
-
-### Ongeki
-
-- ![](/wiki/shared/diff/normal-s.png) BASIC
-- ![](/wiki/shared/diff/hard-s.png) ADVANCED
-- ![](/wiki/shared/diff/insane-s.png) EXPERT
-- ![](/wiki/shared/diff/expert-s.png) MASTER
-- ![](/wiki/shared/diff/expertplus-s.png) LUNATIC
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Insane
+- ![](/wiki/shared/diff/expert-s.png) Chaos(Cytus), Extra(Deemo), Special(VOEZ)
 
 ### Touhou Project
 
