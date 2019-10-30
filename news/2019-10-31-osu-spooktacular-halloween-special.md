@@ -133,7 +133,7 @@ Good luck in your searching! And don't spoil the medals for other people, dammit
 
 ------------
 
-From all of us at the osu!team, we hope you have a wonderful Halloween!
+From all of us on the osu!team, we hope you have a wonderful Halloween!
 
 We'll be back later in November to kick things off for the Winter Fan Art contest to cap off the year in some chilly comfort, as usual.
 
