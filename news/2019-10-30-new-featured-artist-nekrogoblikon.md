@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Nekrogoblikon"
-date: 2019-10-30 04:00:00 +0000
+date: 2019-10-30 05:00:00 +0000
 ---
 
 **Nekrogoblikon** travels from the end of the universe to call the Featured Artist page their new home!
@@ -20,7 +20,7 @@ So what are you waiting for? Take a listen below!
     <source src="https://assets.ppy.sh/artists/53/previews/1545.mp3" type="audio/mpeg">
 </audio>
 
-### The Many Faces of Dr. Hubert Malbrec
+### The Many Faces of Dr. Hubert Malbec
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/53/previews/1542.mp3" type="audio/mpeg">
