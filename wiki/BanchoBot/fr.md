@@ -118,7 +118,7 @@ BanchoBot: peppy est le développeur principal ainsi que le créateur d'osu! et 
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 (Les utilisateurs chinois s'il vous plaît cliquez sur #chinese Pour entrer dans le canal chinois pour la communication.)
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 (#osu s’agit d’un canal en anglais seulement. Si vous continuez de parler chinois à #osu après avoir reçu ce message, l’administrateur a le droit d'appliquer des sanctions.)
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 (#osu est un canal en anglais seulement. Si vous continuez de parler chinois dans #osu après avoir reçu ce message, l’administrateur a le droit d'appliquer des sanctions.)
 Tama: ok
 ```
 
