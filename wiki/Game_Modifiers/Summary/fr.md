@@ -25,7 +25,7 @@ Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][o!s]: 0.90x | Les spinners sont tournés automatiquement. |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.00x (unrankable) | Regarde une partie parfaite. |
 | ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.00x (unrankable) | Regarde la vidéo et/ou le storyboard. |
-| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][o!m]: 0.66x ~ 1.00x (see [chart below](#xk-mod-score-multipliers)) | Joue avec un nombre `x` de touches. |
+| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][o!m]: 0.66x ~ 1.00x (voir[chart below](#le-multiplicateur-de-score-du-mode-xk)) | Joue avec un nombre `x` de touches. |
 | ![Co-Op](/wiki/shared/mods/COOP.png) | Co-Op (COOP) | ![][o!m]: 0.70x ~ 1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | Un duo, ca vous dit ? |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][o!m]: 1.00x | Change les touches de colonnes. |
 
