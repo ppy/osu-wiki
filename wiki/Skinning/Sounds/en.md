@@ -515,6 +515,8 @@ Notes:
 Notes:
 
 - Failing a map at any point.
+- Not intended to last for longer than the fail animation (about 5s).
+- Using a long audio track will impact performance as it is loaded each time you play a beatmap, even if you never fail. It's not supposed to be bigger than a few kilobytes.
 
 ---
 
