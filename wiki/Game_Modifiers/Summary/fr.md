@@ -7,7 +7,7 @@
 
 Note: Tous les mods chageant la difficulté sur osu!mania n'augmentera jamais le multiplicateur de score.
 
-| Mod | Nom (Abrégé) | Multiplicateur | Effect |
+| Mod | Nom (Abrégé) | Multiplicateur | Effet |
 |-----|--------------|------------|--------|
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Tout, mais en  _plus facile_. |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Vous ne pouvez pas perdre, peu importe ce que vous faites. |
