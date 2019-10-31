@@ -12,7 +12,7 @@ Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Tout, mais en  _plus facile_. |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Vous ne pouvez pas perdre, peu importe ce que vous faites. |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | Ralenti la beatmap de 25%. |
-| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (non-rankable) | Tout, mais en plus dur. |
+| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (unrankable) | Tout, mais en plus dur. |
 | ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | Si tu casses ton combo = Game over |
 | ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | SS (100% de précision) ou rien |
 | ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | Augmente la vitesse de la beatmap de 50%. |
