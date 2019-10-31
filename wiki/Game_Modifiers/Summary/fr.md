@@ -5,7 +5,7 @@
 
 # Sommaire
 
-Note: Tous les mods chageant la difficulté sur osu!mania n'augmentera jamais le multiplicateur de score.
+Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais le multiplicateur de score.
 
 | Mod | Nom (Abrégé) | Multiplicateur | Effet |
 |-----|--------------|------------|--------|
