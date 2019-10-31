@@ -142,5 +142,5 @@ Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou
 
 ```
 pippi: !report flyte spamming in #japanese
-BanchoBot: Les modérateurs du tchat ont été alertés. Merci de votre aide.
+BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
