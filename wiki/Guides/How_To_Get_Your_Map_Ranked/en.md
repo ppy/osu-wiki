@@ -11,7 +11,7 @@ Having trouble getting your [beatmap](/wiki/Beatmaps) ranked? You've come to the
 
 The first and most important step towards getting your map ranked is to get people looking at it. People willing to [mod](/wiki/Modding) your map can be found in the #modreqs channel of chat, the [modding forum](https://osu.ppy.sh/community/forums/60), or by asking them directly after checking their signature for modding policies. Remember that all mods are useful; any perspective on your map can be used to make it a better one. Consider every suggestion a modder makes, and if you turn any down, post a detailed response in the map thread making it clear why. It makes them a better modder and makes you think about how your map can improve! Also, if you found the mod particularly useful, be sure to give the post an upvote.
 
-Your map's hype train is important when it comes to moving on to the next step. If a modder likes your map, they might give it hype. Hype allows your mod to get noticed more by Beatmap Nominators.
+If a modder likes your map, they might give it hype. Hype allows your mod to get noticed more by Beatmap Nominators. Your map's hype train is important when it comes to moving on to the next step.
 
 ## Step 2: Calling a Beatmap Nominator
 
