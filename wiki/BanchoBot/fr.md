@@ -141,6 +141,6 @@ Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou
 #### Exemple d'utilisation
 
 ```
-pippi: !report flyte spamming dans #japanese
+pippi: !report flyte spamming in #japanese
 BanchoBot: Les modérateurs du tchat ont été alertés. Merci de votre aide.
 ```
