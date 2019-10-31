@@ -40,7 +40,7 @@ Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!s
 | 7k | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
 
 
-### xK mod with CO-OP score multipliers
+### Le mod xK avec le multiplicateur de score de la CO-OP
 
 Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
 
