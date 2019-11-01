@@ -137,7 +137,7 @@ Tama: ok
 
 *Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`).*
 
-Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou les [Modérateurs par langues](/wiki/Language_Moderators).
+Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Language_Moderators).
 
 #### Exemple d'utilisation
 
