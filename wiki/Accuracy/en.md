@@ -1,6 +1,6 @@
 # Accuracy
 
-Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
+Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/Performance_Points) accuracy which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
@@ -63,7 +63,7 @@ Unstable rate represents the consistency of the timing of the hits, where lower 
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/osu!standard).*
+*Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
 
