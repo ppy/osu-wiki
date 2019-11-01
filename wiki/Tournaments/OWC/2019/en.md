@@ -57,6 +57,8 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ## Participants
 
+|  | Country | Members |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[SlowBurn](https://osu.ppy.sh/u/3608846)**, [AxelOsu](https://osu.ppy.sh/users/1887616), [Cata](https://osu.ppy.sh/users/5958063), [juliancala](https://osu.ppy.sh/users/3272902), [Penguo](https://osu.ppy.sh/users/4389490), [Rimi](https://osu.ppy.sh/users/5194834), [Zaqlev](https://osu.ppy.sh/users/3188703) |
 | ![][flag_AT] | **Austria** | **[goosefedora](https://osu.ppy.sh/u/2323131)**, [Elscar](https://osu.ppy.sh/users/2253511), [Eta Carinae](https://osu.ppy.sh/users/5841333), [FeeDyy](https://osu.ppy.sh/users/8123308), [Izuko Gaen](https://osu.ppy.sh/users/9208576), [Kizan](https://osu.ppy.sh/users/3074197), [Teppi](https://osu.ppy.sh/users/1371974), [tomadoi](https://osu.ppy.sh/users/5712451) |
 | ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/u/3997580)**, [ASecretBox](https://osu.ppy.sh/users/7341183), [Jordan The Bear](https://osu.ppy.sh/users/7477458), [Lunirs](https://osu.ppy.sh/users/2118945), [Monk Gyatso](https://osu.ppy.sh/users/4012086), [Rairiku](https://osu.ppy.sh/users/4945688), [Shiroha](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404) |
@@ -260,3 +262,11 @@ _Mappools will be revealed one week in advance of each round_
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_IL]: /wiki/shared/flag/IL.gif
+[flag_UY]: /wiki/shared/flag/UY.gif
+[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_UA]: /wiki/shared/flag/UA.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_LV]: /wiki/shared/flag/LV.gif
+[flag_HU]: /wiki/shared/flag/HU.gif
+[flag_CH]: /wiki/shared/flag/CH.gif
