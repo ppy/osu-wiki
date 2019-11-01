@@ -24,15 +24,17 @@ Affiche une liste des commandes de BanchoBot disponibles.
 
 #### Exemple d'utilisation
 
+
+*Remarque: Le paramètre 'utilisateur' de la commande 'REPORT' est manquant.*
 ```
 pippi: !help
-BanchoBot: Commandes standard (!COMMANDE ou /msg BanchoBot COMMANDE):
-BanchoBot: SEARCH <query>|next|prev
-BanchoBot: WHERE <utilisateur>
-BanchoBot: STATS <utilisateur>
-BanchoBot: FAQ <objet>|liste
-BanchoBot: REPORT <utilisateur> <raison> - signaler un joueur
-BanchoBot: ROLL <nombre> - lancer un dé et obtenir un résultat aléatoire de 1 à un nombre (par défaut 100)
+BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
+BanchoBot: WHERE <user>
+BanchoBot: STATS <user>
+BanchoBot: FAQ <item>|list
+BanchoBot: REPORT <reason> - call for an admin
+BanchoBot: REQUEST [list] - shows a random recent mod request
+BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
 ### ROLL
@@ -66,19 +68,18 @@ Affiche les statistiques de l'utilisateur entré. Les statistiques affichées d�
 
 ```
 pippi: !stats peppy
-BanchoBot: Stats pour peppy:
+BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
 BanchoBot: Plays: 7149 (lv65)
-BanchoBot: Précision: 87.29%
+BanchoBot: Accuracy: 87.29%
 ```
 
 ```
-pippi: !stats Ephemeral
-BanchoBot: Statistiques pour Ephemeral : 
-Playing:
+pippi: !stats Ephemeral:
+BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
 BanchoBot: Plays: 14054 (lv96)
-BanchoBot: Précision: 94.19%
+BanchoBot: Accuracy: 94.19%
 ```
 
 ### WHERE
@@ -95,13 +96,13 @@ Affiche l'emplacement actuel de l'utilisateur entré.
 
 ```
 pippi: !where Ephemeral
-BanchoBot: Ephemeral est en Australie
+BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
 ```
-!FAQ <entée>
+!FAQ <entrée>
 !FAQ list
 ```
 
@@ -111,7 +112,7 @@ Affiche le message de l'entrée. Vous pouvez utiliser l'argument `list` pour aff
 
 ```
 pippi: !faq peppy
-BanchoBot: peppy est le développeur principal ainsi que le créateur d'osu! et gère la plupart du projet lui-même.
+BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
 ```
