@@ -12,6 +12,9 @@ Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commande
 
 Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet de tchat avec BanchoBot et envoyer la commande immédiatement.
 
+*Nota: La commande 'REQUEST' n'est pas inclue car elle n'est plus disponible.*
+
+
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
 ### HELP
