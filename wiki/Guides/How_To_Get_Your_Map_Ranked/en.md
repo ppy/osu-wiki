@@ -14,7 +14,7 @@ If a modder likes your map, they might give it hype. Hype allows your mod to get
 
 ## Step 2: Getting your beatmap nominated
 
-Once your map has been pending for a while, has 5 people on your hype train, and has a decent amount of mods and approval, and you think it's ready to be ranked, it's time to get a [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group). Make sure you check the team member's signature or userpage to see whether they have a modding policy; if they're open to requests or there's nothing there, ask them politely in game if they wouldn't mind taking a look at your map. Lots of Beatmap Nominators are extremely busy — there are an awful lot of pending maps to get through, so don't be too disheartened if you are turned down. Having plenty of mods and hype on your map will help encourage Beatmap Nominators to look at your map, so if you're having difficulties getting a Beatmap Nominator to look at your map, remember that your hype train and mods will help you out.
+Once your map has had a decent amount of mods and approval for a while, and you think it's ready to be ranked, it's time to get a [Beatmap Nominator](/wiki/People/Beatmap_Nomination_Group). Make sure you check the team member's signature or userpage to see if they have a modding policy. If they're open to requests or nothing's there, ask them politely in game if they wouldn't mind taking a look at your map. Lots of Beatmap Nominators are extremely busy — there are an awful lot of pending maps to get through, so don't be too disheartened if you are turned down. Having lots of mods and approval on your map will help encourage Beatmap Nominators to look at your map.
 
 ## Step 3: Nominations
 
