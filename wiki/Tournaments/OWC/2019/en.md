@@ -50,8 +50,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973724)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Registration page](https://osu.ppy.sh/community/tournaments/22)**
-
 
 ------------------------------------------------------------------------
 
