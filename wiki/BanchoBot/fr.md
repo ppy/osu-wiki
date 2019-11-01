@@ -118,7 +118,7 @@ BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handl
 ```
 Tama: 你好
 Yuzu: !faq chinese
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
+BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
 BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 
 Tama: ok
 ```
