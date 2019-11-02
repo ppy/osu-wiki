@@ -411,13 +411,27 @@ Code blocks must use the triple grave marks. If needed, the code block may be se
 
 ### Links
 
-Links may use either the reference or inline style. Use either appropriately.
+Links must use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference links must be placed at the bottom of the article.
 
 The link text must not be the URL itself. They also should not use the word `here` as the link text.
 
 ---
 
-References to reference links must be placed at the bottom of the article.
+Here are examples of inline and reference style links:
+
+```markdown
+Inline style:
+
+[Game Modifiers](/wiki/Game_Modifiers)
+
+---
+
+Reference style:
+
+[Game Modifiers][game mod link]
+
+[game mod link]: /wiki/Game_Modifiers
+```
 
 #### Internal links
 
@@ -488,13 +502,25 @@ There are no visual differences between external and osu! web links. Due to this
 
 ### Images
 
-Like the [links](#links), use either the reference or inline style. Use either appropriately.
+Images must use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference-styled links must be placed at the bottom of the article.
 
 Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple different articles must be stored in the `/wiki/shared/` folder.
 
 ---
 
-References to reference-styled links must be placed at the bottom of the article.
+```markdown
+Inline style:
+
+![](/wiki/shared/flag/AU.gif)
+
+---
+
+Reference style:
+
+![][flag_AU]
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+```
 
 #### Formats and quality
 
