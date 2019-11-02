@@ -11,9 +11,9 @@
 
 ![](img/fruit-catcher-idle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Top | Min width: 302px |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Top | Min width: 302px | Min width: 604px |
 
 Notes:
 
@@ -29,9 +29,9 @@ Notes:
 
 ![](img/fruit-catcher-fail.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -46,9 +46,9 @@ Notes:
 
 ![](img/fruit-catcher-kiai.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -63,9 +63,9 @@ Notes:
 
 ![](img/fruit-ryuuta.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.2- | ![Yes][true] | ![Yes][true] (see notes) | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.2- | ![Yes][true] | ![Yes][true] (see notes) | Normal | Centre | - | - |
 
 Notes:
 
@@ -79,9 +79,9 @@ Notes:
 
 ![](img/comboburst-fruits.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.3+ | ![No][false] (see notes) | ![Yes][true] | Normal | BottomLeft | Max height: 768px |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.3+ | ![No][false] (see notes) | ![Yes][true] | Normal | BottomLeft | Max height: 768px | Max height: 1536px |
 
 Notes:
 
@@ -98,9 +98,9 @@ Notes:
 
 ![](img/lighting.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 | 200x200 |
 
 Notes:
 
@@ -115,9 +115,9 @@ Notes:
 
 ![](img/fruit-pear.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -131,9 +131,9 @@ Notes:
 
 ![](img/fruit-pear-overlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -145,9 +145,9 @@ Notes:
 
 ![](img/fruit-grapes.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -161,9 +161,9 @@ Notes:
 
 ![](img/fruit-grapes-overlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -175,9 +175,9 @@ Notes:
 
 ![](img/fruit-apple.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -191,9 +191,9 @@ Notes:
 
 ![](img/fruit-apple-overlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 | 512x512 |
 
 Notes:
 
@@ -205,9 +205,9 @@ Notes:
 
 ![](img/fruit-orange.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -226,9 +226,9 @@ Notes:
 
 ![](img/fruit-orange-overlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 128x128 |
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -242,9 +242,9 @@ Notes:
 
 ![](img/fruit-bananas.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -258,9 +258,9 @@ Notes:
 
 ![](img/fruit-bananas-overlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -272,9 +272,9 @@ Notes:
 
 ![](img/fruit-drop.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 |
+| All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
 
@@ -287,9 +287,9 @@ Notes:
 
 `fruit-drop-overlay.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 |
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
 
