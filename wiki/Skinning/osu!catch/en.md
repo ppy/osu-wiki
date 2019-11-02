@@ -227,7 +227,7 @@ Notes:
 ![](img/fruit-orange-overlay.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
@@ -243,7 +243,7 @@ Notes:
 ![](img/fruit-bananas.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
@@ -259,7 +259,7 @@ Notes:
 ![](img/fruit-bananas-overlay.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
@@ -273,7 +273,7 @@ Notes:
 ![](img/fruit-drop.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] (see notes) | ![Yes][true] | Multiplicative | Centre | 128x128 | 256x256 |
 
 Notes:
@@ -288,7 +288,7 @@ Notes:
 `fruit-drop-overlay.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 128x128 | 256x256 |
 
 Notes:
