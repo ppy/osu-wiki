@@ -15,7 +15,7 @@ Interface skinning elements are used in multiple game modes or parts of the clie
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 | 1366x768 (see notes) |
+| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 | - |
 
 Notes:
 
@@ -31,7 +31,6 @@ Notes:
     - If the background is transparent, the background color will be black.
 - The player can drag and drop an image to overwrite the skin's skinned image
   - **This will delete the skin's image in the process!**
-- Background images can only be 1366x768 and will be upscaled to the player's resolution.
 
 ---
 
