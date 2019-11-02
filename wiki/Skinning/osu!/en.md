@@ -64,9 +64,9 @@ Notes:
 
 ![](img/default-2.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -81,9 +81,9 @@ Notes:
 
 ![](img/default-3.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -98,9 +98,9 @@ Notes:
 
 ![](img/default-4.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -115,9 +115,9 @@ Notes:
 
 ![](img/default-5.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -132,9 +132,9 @@ Notes:
 
 ![](img/default-6.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -149,9 +149,9 @@ Notes:
 
 ![](img/default-7.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -166,9 +166,9 @@ Notes:
 
 ![](img/default-8.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -183,9 +183,9 @@ Notes:
 
 ![](img/default-9.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -200,9 +200,9 @@ Notes:
 
 ![](img/approachcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 126x126 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 126x126 | 252x252 |
 
 Notes:
 
@@ -218,9 +218,9 @@ Notes:
 
 ![](img/hitcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -236,9 +236,9 @@ Notes:
 
 ![](img/hitcircleoverlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -258,9 +258,9 @@ Notes:
 
 ![](img/hitcircleselect.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -273,9 +273,9 @@ Notes:
 
 ![](img/followpoint.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -289,13 +289,13 @@ Notes:
 
 ![](img/lighting.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | 100x100 | 200x200 |
 
 Notes:
 
-- This can be disabled in the [options](/wiki/options).
+- This can be disabled in the [Options](/wiki/Options) menu.
 - Tinting depends on the hit circle's combo colour.
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.
@@ -307,9 +307,9 @@ Notes:
 
 `sliderstartcircle.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -323,9 +323,9 @@ Notes:
 
 `sliderstartcircleoverlay.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -344,9 +344,9 @@ Notes:
 
 `sliderendcircle.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -360,9 +360,9 @@ Notes:
 
 `sliderendcircleoverlay.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -383,9 +383,9 @@ Notes:
 
 ![](img/reversearrow.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) | 236x236 (circle) 256x256 (whole file) |
 
 Notes:
 
@@ -399,9 +399,9 @@ Notes:
 
 ![](img/sliderfollowcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 256x256 (see notes) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 256x256 (see notes) | 512x512 (see notes) |
 
 Notes:
 
@@ -415,9 +415,9 @@ Notes:
 
 ![](img/sliderb.gif)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Multiplicative | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -432,9 +432,9 @@ Notes:
 
 ![](img/sliderb-nd.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] (see notes) | Multiplicative | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] (see notes) | Multiplicative | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -449,9 +449,9 @@ Notes:
 
 ![](img/sliderb-spec.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] (see notes) | Additive | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] (see notes) | Additive | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -463,9 +463,9 @@ Notes:
 
 `sliderpoint10.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 | 100x60 |
 
 Notes:
 
@@ -477,9 +477,9 @@ Notes:
 
 `sliderpoint30.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | 50x30 | 100x60 |
 
 Notes:
 
@@ -493,9 +493,9 @@ Notes:
 
 ![](img/sliderscorepoint.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 16x16 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 16x16 | 24x24 |
 
 Notes:
 
@@ -513,9 +513,9 @@ Notes:
 
 ![](img/spinner-approachcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 384x384 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 384x384 | 768x768 |
 
 Notes:
 
@@ -531,9 +531,9 @@ Notes:
 
 ![](img/spinner-rpm.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 280x56 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 280x56 | 560x112 |
 
 Notes:
 
@@ -548,9 +548,9 @@ Notes:
 
 ![](img/spinner-clear.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -563,9 +563,9 @@ Notes:
 
 ![](img/spinner-spin.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -578,9 +578,9 @@ Notes:
 
 ![](img/spinner-background.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 1024x702 (see notes) |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 1024x702 (see notes) | 2048x1404 |
 
 Notes:
 
@@ -595,9 +595,9 @@ Notes:
 
 ![](img/spinner-circle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -612,9 +612,9 @@ Notes:
 
 ![](img/spinner-metre.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 1024x692 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 1024x692 | 2048x1384 |
 
 Notes:
 
@@ -630,9 +630,9 @@ Notes:
 
 ![](img/spinner-osu.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![Yes][true] (see notes) | Normal | Centre | - | - |
 
 Notes:
 
@@ -645,9 +645,9 @@ Notes:
 
 ![](img/spinner-glow.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.0+ | ![No][false] | ![Yes][true] | Additive | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Additive | Centre | - | - |
 
 Notes:
 
@@ -662,9 +662,9 @@ Notes:
 
 ![](img/spinner-bottom.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -678,9 +678,9 @@ Notes:
 
 ![](img/spinner-top.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -694,9 +694,9 @@ Notes:
 
 ![](img/spinner-middle2.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -710,9 +710,9 @@ Notes:
 
 ![](img/spinner-middle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2.0+ | ![No][false] | ![Yes][true] | Multiplicative | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 2.0+ | ![No][false] | ![Yes][true] | Multiplicative | Centre | - | - |
 
 Notes:
 
@@ -726,9 +726,9 @@ Notes:
 
 ![](img/particle50.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 | 14x14 |
 
 Notes:
 
@@ -740,9 +740,9 @@ Notes:
 
 ![](img/particle100.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 | 14x14 |
 
 Notes:
 
@@ -755,9 +755,9 @@ Notes:
 
 ![](img/particle300.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 7x7 | 14x14 |
 
 Notes:
 
