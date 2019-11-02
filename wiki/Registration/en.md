@@ -4,7 +4,7 @@
 
 1. After [installing](/wiki/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`.
 
-![The in-game registration form](img/register.jpg "The registration form")
+![The in-game registration form](img/ingame-registration.jpg "The registration form")
 
 2. Fill out all of the fields in the form.
    - For the username field, there is a maximum of 15 characters; of which can only be alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
