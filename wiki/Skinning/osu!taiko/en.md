@@ -13,9 +13,9 @@ You can override the osu!taiko playfield parts by creating a folder called `taik
 
 ![](img/pippidonclear.gif)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - | - |
 
 Notes:
 
@@ -32,9 +32,9 @@ Notes:
 
 ![](img/pippidonfail.gif)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - | - |
 
 Notes:
 
@@ -49,9 +49,9 @@ Notes:
 
 ![](img/pippidonidle.gif)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - | - |
 
 Notes:
 
@@ -65,9 +65,9 @@ Notes:
 
 ![](img/pippidonkiai.gif)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | BottomLeft | - | - |
 
 Notes:
 
@@ -82,9 +82,9 @@ Notes:
 
 ![](img/taiko-hit0.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
