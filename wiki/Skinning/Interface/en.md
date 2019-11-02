@@ -1581,9 +1581,9 @@ Notes:
 
 ![](img/ranking-B.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - | - |
 
 Notes:
 
@@ -1598,9 +1598,9 @@ Notes:
 
 ![](img/ranking-B-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 | 68x80 |
 
 Notes:
 
@@ -1615,6 +1615,10 @@ Notes:
 
 ![](img/ranking-C.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes[true] | Normal | Centre | - | - |
+
 Notes:
 
 - Positioning varies:
@@ -1628,9 +1632,9 @@ Notes:
 
 ![](img/ranking-C-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 | 68x80 |
 
 Notes:
 
@@ -1644,6 +1648,9 @@ Notes:
 `ranking-D.png`
 
 ![](img/ranking-D.png)
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -1658,9 +1665,9 @@ Notes:
 
 ![](img/ranking-D-small.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 | 68x80 |
 
 Notes:
 
@@ -1675,9 +1682,9 @@ Notes:
 
 ![](img/ranking-accuracy.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - | - |
 
 Notes:
 
@@ -1693,10 +1700,10 @@ Notes:
 
 ![](img/ranking-graph.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x156 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x148 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x156 | min: 616x312 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x148 | min: 616x312 |
 
 Notes:
 
@@ -1713,9 +1720,9 @@ Notes:
 
 ![](img/ranking-maxcombo.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - | - |
 
 Notes:
 
@@ -1731,10 +1738,10 @@ Notes:
 
 ![](img/ranking-panel.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | max height: 694px |
-| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | max height: 666px |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | max height: 694px | max height: 1388px |
+| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | max height: 666px | max height: 1332px |
 
 Notes:
 
@@ -1748,9 +1755,9 @@ Notes:
 
 ![](img/ranking-perfect.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - | - |
 
 Notes:
 
@@ -1766,9 +1773,9 @@ Notes:
 
 ![](img/ranking-title.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | TopRight | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | TopRight | - | - |
 
 Notes:
 
@@ -1778,9 +1785,9 @@ Notes:
 
 `ranking-replay.png`
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | Right | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1.0 | ![No][false] | ![No][false] | Normal | Right | - | - |
 
 Notes:
 
