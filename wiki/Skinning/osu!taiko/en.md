@@ -97,9 +97,9 @@ Notes:
 
 ![](img/taiko-hit100.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -112,9 +112,9 @@ Notes:
 
 ![](img/taiko-hit100k.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -127,9 +127,9 @@ Notes:
 
 ![](img/taiko-hit300.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -142,9 +142,9 @@ Notes:
 
 ![](img/taiko-hit300k.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -157,9 +157,9 @@ Notes:
 
 ![](img/taiko-hit300g.png).
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![No][false] | Normal | Centre | - | - |
 
 Notes:
 
@@ -173,9 +173,9 @@ Notes:
 
 ![](img/taikobigcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -192,9 +192,9 @@ Notes:
 
 ![](img/taikobigcircleoverlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -211,9 +211,9 @@ Notes:
 
 ![](img/taikohitcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -227,9 +227,9 @@ Notes:
 
 ![](img/taikohitcircleoverlay.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![Yes][true] | ![Yes][true] | Normal | Centre | 118x118 | 236x236 |
 
 Notes:
 
@@ -245,9 +245,9 @@ Notes:
 
 ![](img/approachcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | 126x126 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 126x126 | 252x252 |
 
 Notes:
 
@@ -260,9 +260,9 @@ Notes:
 
 <!-- ![](img/taiko-glow.png) -->
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Multiplicative | Centre | - | - |
 
 Notes:
 
@@ -276,16 +276,16 @@ Notes:
 
 ![](img/lighting.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Additive | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Additive | Centre | - | - |
 
 Notes:
 
 - Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
   - This element is only visible when using a transparent taiko bar.
-- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/kiai_time).
+- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/Kiai_Time).
 
 ## Playfield (upper half)
 
@@ -293,9 +293,9 @@ Notes:
 
 ![](img/taiko-slider.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 776x162 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 776x162 | 1552x324 |
 
 Notes:
 
@@ -310,9 +310,9 @@ Notes:
 
 ![](img/taiko-slider-fail.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | TopLeft | 776x162 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | TopLeft | 776x162 | 1552x324 |
 
 Notes:
 
@@ -328,9 +328,9 @@ Notes:
 
 ![](img/taiko-flower-group.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![Yes][true] | Normal | Bottom | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Bottom | - | - |
 
 Notes:
 
@@ -345,9 +345,9 @@ Notes:
 
 <!-- ![](img/taiko-bar-left.png) -->
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 181x200 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 181x200 | 362x400 |
 
 Notes:
 
@@ -361,10 +361,10 @@ Notes:
 
 ![](img/taiko-drum-inner.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 56px |
-| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 56px | Max width: 112px |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 | 180x400 |
 
 Notes:
 
@@ -379,10 +379,10 @@ Notes:
 
 ![](img/taiko-drum-outer.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 72px |
-| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | Max width: 72px | Max width: 144px |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 90x200 | 180x400 |
 
 Notes:
 
@@ -397,10 +397,10 @@ Notes:
 
 ![](img/taiko-bar-right.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 |
-| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 | 1686x400 |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 | 2048x400 |
 
 Notes:
 
@@ -417,10 +417,10 @@ Notes:
 
 ![](img/taiko-bar-right-glow.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 |
-| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| v1.0 - v2.0 | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 843x200 | 1686x400 |
+| v2.1+ | ![No][false] | ![No][false] (see notes) | Normal | TopLeft | 1024x200 | 2048x400 |
 
 Notes:
 
@@ -438,9 +438,9 @@ Notes:
 
 ![](img/taiko-roll-middle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 1x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 1x128 | 2x256 |
 
 Notes:
 
@@ -454,9 +454,9 @@ Notes:
 
 ![](img/taiko-roll-end.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 64x128 |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 64x128 | 128x256 |
 
 Notes:
 
@@ -469,9 +469,9 @@ Notes:
 
 ![](img/sliderscorepoint.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -484,9 +484,9 @@ Notes:
 
 ![](img/spinner-warning.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | - | - |
 
 Notes:
 
@@ -498,9 +498,9 @@ Notes:
 
 ![](img/spinner-circle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - | - |
 
 Notes:
 
@@ -514,9 +514,9 @@ Notes:
 
 ![](img/spinner-approachcircle.png)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size | Suggested HD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] (see notes) | Normal | Centre | - | - |
 
 Notes:
 
