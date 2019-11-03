@@ -28,9 +28,9 @@ Lend someone a hand when they encounter an issue with the game! Whether it is a 
 You can begin with lending people a hand on the following mediums:
 
 - Choose a forum that sparks your interest:
-   - [Technical Support](https://osu.ppy.sh/community/forums/5)
+   - [General Support](https://osu.ppy.sh/community/forums/5)
    - [Beatmapping Support](https://osu.ppy.sh/community/forums/56)
-   - [Storyboarding](/https://osu.ppy.sh/community/forums/20)
+   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
    - [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13)
 - Mark the forum as read using the link at the top right.
 - Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
