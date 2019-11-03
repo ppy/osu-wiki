@@ -9,7 +9,7 @@ outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
 
 1. Après [l'installation](/wiki/Installation) d'osu!, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte` et gardez osu! ouvert. Cela devrait ouvrir la page web [Créer un compte](https://osu.ppy.sh/p/register).
 
-![Le formulaire d'inscription sur le site](img/register.jpg "Le formulaire d'inscription")
+![Le formulaire d'inscription sur le site](img/register-old.jpg "Le formulaire d'inscription")
 
 2. Remplissez tous les champs du formulaire.
    - Pour le champ `Nom d'utilisateur`, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), soulignés (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).
