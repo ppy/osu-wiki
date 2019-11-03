@@ -28,10 +28,10 @@ Lend someone a hand when they encounter an issue with the game! Whether it is a 
 You can begin with lending people a hand on the following mediums:
 
 - Choose a forum that sparks your interest:
-   - [General Support](https://osu.ppy.sh/community/forums/5)
-   - [Beatmapping Support](https://osu.ppy.sh/community/forums/56)
+   - [Help](https://osu.ppy.sh/community/forums/5)
+   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
    - [Storyboarding](https://osu.ppy.sh/community/forums/20)
-   - [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13)
+   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Mark the forum as read using the link at the top right.
 - Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish up on your osu! knowledge. If the guides in there does not satisfy you, then contribute to them.
@@ -44,7 +44,7 @@ osu! has a dedicated team of reviewers to check if the beatmaps are ready to be 
 - Play beatmaps in the pending or work in progress stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding "Modding") and the [Ranking Criteria](/wiki/Ranking_Criteria "Ranking Criteria") to know the basics of technical modding and what makes a beatmap rankable.
 - Join the `#modhelp` and `#modreqs` on the in-game chat and join in on the conversation (or just follow along).
-- If you have the time and dedication, make a [Modding Queue](/community/forums/60) to give beatmap creators a place to request you for mods.
+- If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
 
 ## Help/join user-run community projects
 
@@ -52,9 +52,9 @@ osu! has a thriving community of technical and competitive people. They range fr
 
 Here are a few things you can do to participate:
 
-- Browse the [tournaments](/community/forums/55) forum. Tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
-- Check out what is going on in [General Development](/community/forums/2). This low activity forum is where the most serious projects happen.
-- Join a [beatmap project](/community/forums/53) and learn how fun collaborating with others can be!
+- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
+- Check out what is going on in [Development](https://osu.ppy.sh/community/forums/2). This low activity forum is where the most serious projects happen.
+- Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether it is bringing back dancing pippi, or just making something cool for osu!, anything is accepted.
 
 ## Contribute to the future of osu!
