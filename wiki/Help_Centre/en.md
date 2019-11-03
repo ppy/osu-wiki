@@ -86,7 +86,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) an [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
