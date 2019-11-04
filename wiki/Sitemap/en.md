@@ -240,7 +240,6 @@ tags:
     -   [Variables](/wiki/Storyboard_Scripting/Variables)
 -   [Storyboarding](/wiki/Storyboarding)
 -   [Storyboards](/wiki/Storyboards)
-    -   [Maps](/wiki/Storyboards/Maps)
 -   [Submission](/wiki/Submission)
     -   [Beatmap Ranking Procedure](/wiki/Submission/Beatmap_Ranking_Procedure)
 -   [Tournament Drawings](/wiki/Tournament_Drawings)
