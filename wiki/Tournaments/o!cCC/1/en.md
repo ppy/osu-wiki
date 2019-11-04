@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
   - [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#fruits/290919)
   - [Artik & ASTI feat. Artyom Kacher - Grustnyy dance (-Mikan) \[Mikan & schoolboy's Flex\]](https://osu.ppy.sh/beatmapsets/1027708#fruits/2149020)
 - Tiebreaker
-  - **[t+pazolite - GOLDASH (lokovodo) \[BERSERK AR 9.6\]](https://osu.ppy.sh/beatmapsets/304325#fruits/681811)**
+  - **[t+pazolite - GOLDASH (Lokovodo) \[BERSERK AR 9.6\]](https://osu.ppy.sh/beatmapsets/304325#fruits/681811)**
 
 ### Semifinals
 
