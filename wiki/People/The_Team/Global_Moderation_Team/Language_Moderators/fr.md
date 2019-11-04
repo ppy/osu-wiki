@@ -4,7 +4,7 @@ outdated: true
 
 # Modérateurs par langue
 
-Jusqu'au 21 août 2015, il existait des **Chat Moderators**, des modérateurs qui veillaient sur le canal de discussion sur lequel ils étaient assignés et sur leur section du forum correspondante. Ce groupe a fusionné avec la [Global Moderation Team](/wiki/People/Global_Moderation_Team) après cette date.
+Beaucoup de channel par langue dans osu! ont leurs modérateurs spécifiques qui supervisent les conversations et maintiennent le calme dans les canaux. La plupart de ces modérateurs sont membres de la [GMT](/wiki/People/Global_Moderation_Team), mais quelques uns sont membres [NAT](/wiki/People/Nomination_Assessment_Team) sont aussi disponibles si besoin.
 
 ## Liste des modérateurs actuels triés par canal
 
@@ -20,7 +20,7 @@ Jusqu'au 21 août 2015, il existait des **Chat Moderators**, des modérateurs qu
 | `#english` | | *All Moderators* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731)  |
-| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | `#greek` | | |
 | `#hebrew` | | |

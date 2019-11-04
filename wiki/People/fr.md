@@ -1,8 +1,4 @@
----
-outdated: true
----
-
 # L'Équipe
 
-- [Administration](The_Team)
 - [Contributeurs](Community_Contributors)
+- [Administration](The_Team)

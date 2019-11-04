@@ -4,17 +4,14 @@ outdated: true
 
 # Vétérans
 
-Les **vétérans**, connus sous le nom de **osu! Alumnis**, ont reçu leur distinction pour leurs énormes contributions à la communauté. La majorité d'entre eux sont inactifs désormais : il s'agit d'anciens membres du staff. Une rumeur court que lorsque peppy sera riche, il érigera une statue de chacun d'eux dans sa ville.
+Les **osu! Alumni** sont les personnes connues pour la contribution qu'ils ont eut avant de partir. are those known for their contributions who have since moved on. Si les ressources étaient disponibles, nous érigerions une statue pour chaque membre sur place publique.
 
-## Liste des osu! Alumnis actuels
-
-[Lien du groupe](https://osu.ppy.sh/groups/16)
+La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous les membres.
 
 | Nom | Ancienne position |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
-| ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
 | ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |

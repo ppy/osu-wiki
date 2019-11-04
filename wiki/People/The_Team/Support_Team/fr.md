@@ -4,7 +4,7 @@ outdated: true
 
 # Support technique
 
-L'**équipe de support** sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (sauf [Tournois](https://osu.ppy.sh/community/forums/55) et [Techniques de mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Demandes de fonctionnalités](https://osu.ppy.sh/community/forums/4), et [Support technique](https://osu.ppy.sh/community/forums/5).
+L'**équipe de support**  (aussi connu sous le nom de **Équipe de support Redux**, à ne pas confondre avec l'équipe de support pour les comptes, aussi connu sous le nom d' "Équipe de support") sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Développement](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (sauf [Tournois](https://osu.ppy.sh/community/forums/55) et [Techniques de mapping](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Demandes de fonctionnalités](https://osu.ppy.sh/community/forums/4), et [Support technique](https://osu.ppy.sh/community/forums/5).
 
 ## Responsabilités
 
@@ -17,7 +17,7 @@ Si quelqu'un a besoin d'aide sur lesdits sous-forums, l'équipe de support est l
 
 ## Membres de l'équipe
 
-[Page du groupe](https://osu.ppy.sh/groups/22)
+La liste de tous les membres du [groupe de l'équipe de support](https://osu.ppy.sh/groups/22).
 *Veuillez noter que tous les membres de l'équipe de support peuvent également parler anglais en plus des langues listées ci-dessous.*
 
 | Nom | Langues parlées |
