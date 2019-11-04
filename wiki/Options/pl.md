@@ -279,7 +279,7 @@ Ta sekcja jest poświęcona sterowaniu w grze.
 | --- | --- | --- | --- |
 | `Czułość` | Dostosowuje czułość kursora myszy. Zmiana tej opcji automatycznie aktywuje opcję `Odczyt bezpośredni`. | Suwak | `1x` |
 | `Odczyt bezpośredni` | Odczytuje nieprzetworzoną przez system pozycję myszy lub tabletu bezpośrednio z urządzenia (zapobiega akceleracji). | Przycisk | `Wyłączone` |
-| `Mapuj odczyt bezpośredni do wielkości okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia do wielkości klienta gry. | Przycisk | `Włączone` |
+| `Mapuj odczyt bezpośredni do wielkości okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia do wielkości klienta gry. | Przycisk | `Wyłączone` |
 | `Ograniczaj kursor myszy` | Zapobiega wychodzeniu kursora myszy poza okno klienta gry. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `Tylko w trybie pełnoekranowym` |
 | `Wyłącz rolkę myszy podczas gry` | Wyłącza rolkę myszy podczas rozgrywki. Rolka myszy może zmieniać wartość ogólnej głośności gry. | Przycisk | `Wyłączone` |
 | `Wyłącz przyciski myszy podczas gry` | Wyłącza przyciski myszy podczas rozgrywki (przydatne dla graczy używających klawiatury do gry). | Przycisk | `Wyłączone` |
