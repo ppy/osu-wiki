@@ -25,7 +25,7 @@ Jako gość otrzymasz następujące opcje:
 | `Zapamiętaj nazwę użytkownika` | Zapamiętuje wprowadzoną nazwę użytkownika w kliencie gry. | Pole wyboru | `Włączone` |
 | `Zapamiętaj hasło` | Zapamiętuje wprowadzone hasło w kliencie gry i nie będzie wylogowywać użytkownika przy wyjściu z gry. | Pole wyboru | `Wyłączone` |
 | `Zaloguj się` | Loguje się do osu! z podanymi powyżej danymi. Naciśnięcie klawisza `Enter` w polu z nazwą użytkownika czy hasłem zadziała tak samo. | Przycisk |  |
-| `Utwórz konto` | Otwiera ekran rejestracji konta. | Przycisk |  |
+| `Utwórz konto` | Otwiera ekran [rejestracji konta](/wiki/Registration). | Przycisk |  |
 
 ---
 

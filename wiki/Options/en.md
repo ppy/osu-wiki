@@ -25,7 +25,7 @@ If you are a guest, these options will be shown:
 | `Remember Username` | If checked, the game client will remember the entered username. | Checkbox | `Enabled` |
 | `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed in to the game client. | Checkbox | `Disabled` |
 | `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
-| `Create an account` | Opens the account registration screen. | Button |  |
+| `Create an account` | Opens the [account registration](/wiki/Registration) screen. | Button |  |
 
 ---
 
