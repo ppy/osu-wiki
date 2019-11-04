@@ -303,7 +303,7 @@ Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące
 | Nazwa | Opis | Typ |
 | --- | --- | --- |
 | `Ustawienia klawiatury` | Otwiera nakładkę z ustawieniami klawiatury. Sprawdź [ten artykuł](/wiki/Keyboard_Bindings), aby dowiedzieć się więcej. | Przycisk |
-| `Styl osu!mania` | Otwiera nakładkę z ustawieniami sterowania w trybie osu!mania. Sprawdź [ten artykuł](/wiki/osu!mania_Layout), aby dowiedzieć się więcej. | Przycisk |
+| `Styl osu!mania` | Otwiera nakładkę z ustawieniami sterowania w trybie osu!mania. Sprawdź [ten artykuł](/wiki/Game_Modes/osu!mania), aby dowiedzieć się więcej. | Przycisk |
 
 ### Inne
 

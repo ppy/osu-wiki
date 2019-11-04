@@ -303,7 +303,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 | Name | Description | Type |
 | --- | --- | --- |
 | `Change keyboard bindings` | Displays a dialog of the keyboard bindings. See [Keyboard Bindings](/wiki/Keyboard_Bindings) for more details. | Button |
-| `osu!mania layout` | Displays a dialog of osu!mania key bindings. See [osu!mania layout](/wiki/osu!mania_Layout) for more details. | Button |
+| `osu!mania layout` | Displays a dialog of osu!mania key bindings. See [osu!mania layout](/wiki/Game_Modes/osu!mania) for more details. | Button |
 
 ### Other
 
