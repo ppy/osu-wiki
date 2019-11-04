@@ -3,6 +3,8 @@ tags:
 - {ABBR}
 ---
 
+***This template is currently outdated.*** <https://github.com/ppy/osu-wiki/issues/2621>
+
 <!--
 Find and replace those tags listed below with proper information, then delete this comment.
 {TOURNAMENT_NAME} = tournament name
