@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding
 
 Modding is the process of examining another mapper's [beatmap](/wiki/beatmap) and giving constructive feedback to help improve it.
@@ -92,7 +96,7 @@ Do not hesitate to suggest if:
 *See also: [Combo](/wiki/Combo)*
 
 Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read.
-Combos generally do not go over 20 in [Insane](/wiki/Insane), 12 in [Hard](/wiki/Hard), and 8 in [Easy](/wiki/Easy) or [Normal](/wiki/Normal) difficulties.
+Combos generally do not go over 20 in Insane, 12 in Hard, and 8 in Easy or Normal difficulties.
 
 There are expections to the max combo limit if they make sense.
 If there is a logical way to break up a long combo, it is recommended to do so.
@@ -177,7 +181,7 @@ Here are some other things to look out for in the song setup:
 The difficulty settings can be found in the song setup dialog.
 These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have.
 
-For example, an [Easy](/wiki/Easy) difficulty does not really need an [approach rate](/wiki/approach_rate) (AR) of 7 or an [HP drain rate](/wiki/HP_drain_rate) (HP) of 8.
+For example, an Easy difficulty does not really need an [approach rate](/wiki/approach_rate) (AR) of 7 or an [HP drain rate](/wiki/HP_drain_rate) (HP) of 8.
 Using these values for an Easy difficulty makes this completely illogical and will make the difficulty much harder than it should be.
 
 ### Background, Skin, and Combo Colours

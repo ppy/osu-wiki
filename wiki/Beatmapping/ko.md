@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmapping (한국어)
 
 **매핑(Beatmapping)** 은 [비트맵을](/wiki/Beatmaps) 만드는 과정이다.
@@ -8,10 +12,10 @@
 
 가장 흔히 매핑에서 만들어지는 난이도는 다음과 같다
 
--   [이지](/wiki/Difficulties/Easy)
--   [노멀](/wiki/Difficulties/Normal)
--   [하드](/wiki/Difficulties/Hard)
--   [인세인](/wiki/Difficulties/Insane)
+-   이지
+-   노멀
+-   하드
+-   인세인
 
 매퍼들이 커스텀 난이도명을 대신 넣는것도 보기 드문일이 아니다.
 

@@ -1,7 +1,9 @@
 ---
 outdated: true
 ---
-<!-- outdated 2019-09-06 because the description, name and link for QAT needs to change to NAT. also the article title should be translated -->
+<!-- outdated 2019-09-06 because the description, name and link for QAT needs to change to NAT. also the article title should be translated 
+
+as of 2019-10-17 there are a lot more changes -->
 
 # The Team
 

@@ -24,7 +24,7 @@ Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ra
 
 ![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
 
-Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada [łatwego](/wiki/Easy) ani [normalnego](/wiki/Normal) poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
+Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane
 

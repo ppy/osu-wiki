@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!taiko Ranking Criteria
 
 Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/community/forums/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.

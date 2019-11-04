@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Regels
 
 Deze regels zijn de basis waarmee we ervoor zorgen dat de osu!gemeenschap een leuke en gastvrije plek voor iedereen blijft.

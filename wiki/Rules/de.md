@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Regeln
 
 Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb der osu! Community, in der sich jeder wohlfühlen soll.

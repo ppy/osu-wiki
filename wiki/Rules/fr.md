@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Règles
 
 Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun et accueillante pour tout le monde.
