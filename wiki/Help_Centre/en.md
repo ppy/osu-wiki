@@ -8,7 +8,7 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 #### I've paid for a supporter tag, but still have not received it!
 
-**Depending on what payment service you used (Paypal or Xsolla), there might be a slight delay in the processing of your payment before it reaches us.**
+**Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
 Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
@@ -142,7 +142,7 @@ We will never display this information to anyone else, and we encourage you to b
 
 **Unfortunately, no, you cannot.**
 
-If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be worthless!
+If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
 Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
