@@ -77,16 +77,16 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - [CGTS Discord server](https://discord.gg/C2b4xrH)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - Challonge brackets
-  - [Asia region](https://challonge.com/CGTSAsia)
-  - [Europe region](https://challonge.com/CGTSEurope)
-  - [North America region](https://challonge.com/CGTSNA)
-  - [Oceania/South East Asia region](https://challonge.com/CGTSOSEA)
-  - [South America region](https://challonge.com/CGTSSA)
+  - [Asia](https://challonge.com/CGTSAsia)
+  - [Europe](https://challonge.com/CGTSEurope)
+  - [North America](https://challonge.com/CGTSNA)
+  - [Oceania/South East Asia](https://challonge.com/CGTSOSEA)
+  - [South America](https://challonge.com/CGTSSA)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1TI489-a5T_H8gpOjoryV4jYFa4awsKFAreUav3vYXKE/edit)**
 
 ## Participants
 
-### Asia region
+### Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -95,7 +95,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357) |
 | Unseeded | ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_JP] [maguro869](https://osu.ppy.sh/users/4733750), ![][flag_IL] [JackRaBeat](https://osu.ppy.sh/users/3706996) |
 
-### Europe region
+### Europe
 
 | Seed | Members |
 | :-- | :-- |
@@ -104,7 +104,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690), ![][flag_RU] [Den4ik228](https://osu.ppy.sh/users/7115174), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_RU] [Akonine](https://osu.ppy.sh/users/7774222) |
 | Unseeded | ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_NL] [StrijkIjzer](https://osu.ppy.sh/users/4130926), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154), ![][flag_DE] [Naugustogi](https://osu.ppy.sh/users/6803970) |
 
-### North America region
+### North America
 
 | Seed | Members |
 | :-- | :-- |
@@ -113,7 +113,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
 | Unseeded | ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_MX] [ZaveryK](https://osu.ppy.sh/users/10913397) |
 
-### Oceania/South East Asia region
+### Oceania/South East Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -122,7 +122,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_MY] [imnoobatosuosu](https://osu.ppy.sh/users/12086753), ![][flag_AU] [richy2001](https://osu.ppy.sh/users/11499467), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [end_ting](https://osu.ppy.sh/users/8570555) |
 | Unseeded | ![][flag_PH] [Un\_Breaker](https://osu.ppy.sh/users/5670617), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_MY] [newme96](https://osu.ppy.sh/users/2782769) |
 
-### South America region
+### South America
 
 | Seed | Members |
 | :-- | :-- |
@@ -131,91 +131,11 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
----
-
-## Match schedule: Round of 32
-
-### Europe region
-
-#### Saturday, 9 November 2019
-
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| W1 | goheegy | ![][flag_GB] | ![][flag_DE] | Naugustogi | **12:00** |
-| W13 | AlvaroYL | ![][flag_ES] | ![][flag_FR] | Gintoki8 | **12:00** |
-| W2 | Nurend | ![][flag_SE] | ![][flag_RU] | pavlukivan | **13:00** |
-| W11 | Genjuro | ![][flag_GR] | ![][flag_RU] | cloudfags | **13:00** |
-| W4 | Naninub | ![][flag_RU] | ![][flag_RU] | Akonine | **14:00** |
-| W12 | BananaW | ![][flag_FR] | ![][flag_MD] | OldFriend | **14:00** |
-| W5 | Maitgon | ![][flag_ES] | ![][flag_RU] | Nozdormu | **15:00** |
-| W14 | vodnanen | ![][flag_FI] | ![][flag_FR] | -Akitai- | **15:00** |
-| W3 | \[\_LordEnder\_\] | ![][flag_IT] | ![][flag_PL] | Agresywny Arbuz | **16:00** |
-| W15 | D3kuu | ![][flag_IT] | ![][flag_RU] | Dayzeek | **16:00** |
-| W6 | frz | ![][flag_DE] | ![][flag_GB] | Teezel | **17:00** |
-| W16 | Acrith | ![][flag_PL] | ![][flag_RU] | Den4ik228 | **17:00** |
-| W7 | Ak1o | ![][flag_DE] | ![][flag_NL] | StrijkIjzer | **18:00** |
-| W8 | bernard351 | ![][flag_PL] | ![][flag_FR] | maximaxiU | **19:00** |
-| W9 | Ikkun | ![][flag_IT] | ![][flag_RU] | TwinT | **20:00** |
-| W10 | coed | ![][flag_IT] | ![][flag_FI] | duski | **21:00** |
-
-#### Sunday, 10 November 2019
-
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| L1a¹ | goheegy | ![][flag_GB] | ![][flag_SE] | Nurend | **12:00** |
-| L1b¹ | goheegy | ![][flag_GB] | ![][flag_RU] | pavlukivan | **12:00** |
-| L1c¹ | Nozdormu | ![][flag_RU] | ![][flag_SE] | Nurend | **12:00** |
-| L1d¹ | Nozdormu | ![][flag_RU] | ![][flag_RU] | pavlukivan | **12:00** |
-| L2a² | \[\_LordEnder\_\] | ![][flag_IT] | ![][flag_RU] | Naninub | **13:00** |
-| L2b² | \[\_LordEnder\_\] | ![][flag_IT] | ![][flag_RU] | Akonine | **13:00** |
-| L2c² | Agresywny Arbuz | ![][flag_PL] | ![][flag_RU] | Naninub | **13:00** |
-| L2d² | Agresywny Arbuz | ![][flag_PL] | ![][flag_RU] | Akonine | **13:00** |
-| L3a³ | Maitgon | ![][flag_ES] | ![][flag_DE] | frz | **14:00** |
-| L3b³ | Maitgon | ![][flag_ES] | ![][flag_GB] | Teezel | **14:00** |
-| L3c³ | Nozdormu | ![][flag_RU] | ![][flag_DE] | frz | **14:00** |
-| L3d³ | Nozdormu | ![][flag_RU] | ![][flag_GB] | Teezel | **14:00** |
-| L4a⁴ | Ak1o | ![][flag_DE] | ![][flag_PL] | bernard351 | **15:00** |
-| L4b⁴ | Ak1o | ![][flag_DE] | ![][flag_FR] | maximaxiU | **15:00** |
-| L4c⁴ | StrijkIjzer | ![][flag_NL] | ![][flag_PL] | bernard351 | **15:00** |
-| L4d⁴ | StrijkIjzer | ![][flag_NL] | ![][flag_FR] | maximaxiU | **15:00** |
-| L5a⁵ | Ikkun | ![][flag_IT] | ![][flag_IT] | coed | **16:00** |
-| L5b⁵ | Ikkun | ![][flag_IT] | ![][flag_FI] | duski | **16:00** |
-| L5c⁵ | TwinT | ![][flag_RU] | ![][flag_IT] | coed | **16:00** |
-| L5d⁵ | TwinT | ![][flag_RU] | ![][flag_FI] | duski | **16:00** |
-| L6a⁶ | Genjuro | ![][flag_GR] | ![][flag_FR] | BananaW | **17:00** |
-| L6b⁶ | Genjuro | ![][flag_GR] | ![][flag_MD] | OldFriend | **17:00** |
-| L6c⁶ | cloudfags | ![][flag_RU] | ![][flag_FR] | BananaW | **17:00** |
-| L6d⁶ | cloudfags | ![][flag_RU] | ![][flag_MD] | OldFriend | **17:00** |
-| L7a⁷ | AlvaroYL | ![][flag_ES] | ![][flag_FI] | vodnanen | **18:00** |
-| L7b⁷ | AlvaroYL | ![][flag_ES] | ![][flag_FR] | -Akitai- | **18:00** |
-| L7c⁷ | Gintoki8 | ![][flag_FR] | ![][flag_FI] | vodnanen | **18:00** |
-| L7d⁷ | Gintoki8 | ![][flag_FR] | ![][flag_FR] | -Akitai- | **18:00** |
-| L8a⁸ | D3kuu | ![][flag_IT] | ![][flag_PL] | Acrith | **19:00** |
-| L8b⁸ | D3kuu | ![][flag_IT] | ![][flag_RU] | Den4ik228 | **19:00** |
-| L8c⁸ | Dayzeek | ![][flag_RU] | ![][flag_PL] | Acrith | **19:00** |
-| L8d⁸ | Dayzeek | ![][flag_RU] | ![][flag_RU] | Den4ik228 | **19:00** |
-
-¹ Encounter dependent on winner of match W1 and match W2
-
-² Encounter dependent on winner of match W3 and match W4
-
-³ Encounter dependent on winner of match W5 and match W6
-
-⁴ Encounter dependent on winner of match W7 and match W8
-
-⁵ Encounter dependent on winner of match W9 and match W10
-
-⁶ Encounter dependent on winner of match W11 and match W12
-
-⁷ Encounter dependent on winner of match W13 and match W14
-
-⁸ Encounter dependent on winner of match W15 and match W16
-
----
-
 ## Mappools
 
-### Round of 32
+### Regional phase
+
+#### Round of 32
 
 **[Download the map pack here! (55 MB)](https://mega.nz/#!QkMnVCxB!AMGK2j-ujVR9YdSh8dS82DEfmIl5L19Hhfi85qjLg8k)**
 
@@ -240,7 +160,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - Tiebreaker
   - **[The Scratch Perverts - Beats And Pieces (Grimbow) \[Cutting Shapes (UO)\]](https://osu.ppy.sh/beatmapsets/786299#taiko/1650613)**
 
-### Qualifiers
+#### Qualifiers
 
 **[Download the map pack here! (27 MB)](https://mega.nz/#!BxNWRYhL!a1-niu4m38qjKN4Zyj-lvUwGX2wJHSMC5V6UD-En2rw)**
 
