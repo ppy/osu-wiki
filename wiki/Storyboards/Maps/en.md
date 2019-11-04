@@ -1,3 +1,6 @@
+---
+outdated: true
+---
 # Maps with Storyboards
 
 This is an expanded list of beatmaps with [storyboard](/wiki/Storyboards).
