@@ -896,10 +896,10 @@
 "moderators":                      "People/The_Team/Global_Moderation_Team"
 "moderator":                       "People/The_Team/Global_Moderation_Team"
 
-"language_moderator":              "People/The_Team/Global_Moderation_Team/Language_Moderators"
-"language_mods":                   "People/The_Team/Global_Moderation_Team/Language_Moderators"
-"language_mod":                    "People/The_Team/Global_Moderation_Team/Language_Moderators"
-"lm":                              "People/The_Team/Global_Moderation_Team/Language_Moderators"
+"language_moderator":              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
+"language_mods":                   "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
+"language_mod":                    "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
+"lm":                              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 
 "osu!_alumni":                     "People/The_Team/osu!_Alumni"
 "osu!alumni":                      "People/The_Team/osu!_Alumni"
@@ -1517,7 +1517,7 @@
 "people/beatmap_nominators/rules":                        "People/The_Team/Beatmap_Nominators/Rules"
 "people/developers":                                      "People/The_Team/Developers"
 "people/global_moderation_team":                          "People/The_Team/Global_Moderation_Team"
-"people/language_moderators":                             "People/The_Team/Global_Moderation_Team/Language_Moderators"
+"people/language_moderators":                             "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "people/nomination_assessment_team":                      "People/The_Team/Nomination_Assessment_Team"
 "people/osu!_alumni":                                     "People/The_Team/osu!_Alumni"
 "people/project_loved_team":                              "People/The_Team/Project_Loved_Team"
@@ -1534,3 +1534,6 @@
 "ranking_criteria/code_of_conduct":               "Rules/Code_of_Conduct_for_Modding_and_Mapping"
 "ranking_criteria/song_content_rules":            "Rules/Song_Content_Rules"
 "ranking_criteria/visual_content_considerations": "Rules/Visual_Content_Considerations"
+
+# Moved Language Moderators to a section under Global Moderation Team
+"people/the_team/global_moderation_team/language_moderators": "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
