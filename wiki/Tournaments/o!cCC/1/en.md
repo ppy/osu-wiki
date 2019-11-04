@@ -78,7 +78,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [nachoL](https://osu.ppy.sh/users/1250096) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 
 ---
 
@@ -245,11 +245,11 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2019-10-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **7** | 0 | ![][flag_IT] Karym | -win by default- |
-| **nachoL** ![][flag_CL] | **7** | 0 | ![][flag_FR] Boros | -win by default- |
+| **NachoL** ![][flag_CL] | **7** | 0 | ![][flag_FR] Boros | -win by default- |
 
 | Sunday, 2019-10-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Karym** ![][flag_IT] | **7** | 3 | ![][flag_CL] nachoL | [#1](https://osu.ppy.sh/community/matches/55850620) |
+| **Karym** ![][flag_IT] | **7** | 3 | ![][flag_CL] NachoL | [#1](https://osu.ppy.sh/community/matches/55850620) |
 
 ### Semifinals
 
@@ -258,8 +258,8 @@ This competition has come to an end and resulted in the following podium:
 | **Dusk** ![][flag_CN] | **6** | 0 | ![][flag_PH] Roido | -win by default- |
 | **Karym** ![][flag_IT] | **6** | 5 | ![][flag_US] -Kurisu- | [#1](https://osu.ppy.sh/community/matches/55665712) |
 | forgottentaco ![][flag_FI] | 5 | **6** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/55665695) |
-| Cxlucha ![][flag_MX] | 2 | **6** | ![][flag_CL] **nachoL** | [#1](https://osu.ppy.sh/community/matches/55676309) |
-| -Kurisu- ![][flag_US] | 0 | **6** | ![][flag_CL] **nachoL** | [#1](https://osu.ppy.sh/community/matches/55678968) |
+| Cxlucha ![][flag_MX] | 2 | **6** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55676309) |
+| -Kurisu- ![][flag_US] | 0 | **6** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55678968) |
 
 | Sunday, 2019-10-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-10-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Dusk** ![][flag_CN] | **5** | 0 | ![][flag_CL] nachoL | -win by default- |
+| **Dusk** ![][flag_CN] | **5** | 0 | ![][flag_CL] NachoL | -win by default- |
 | **forgottentaco** ![][flag_FI] | **5** | 2 | ![][flag_AU] chickennando | [#1](https://osu.ppy.sh/community/matches/55499845) |
 | Boros ![][flag_FR] | 1 | **5** | ![][flag_IT] **Karym** | [#1](https://osu.ppy.sh/community/matches/55505808) |
 | Cxlucha ![][flag_MX] | 0 | **5** | ![][flag_PH] **Roido** | [#1](https://osu.ppy.sh/community/matches/55509226) |
@@ -280,7 +280,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-10-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **nachoL** ![][flag_CL] | **5** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/55524487) |
+| **NachoL** ![][flag_CL] | **5** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/55524487) |
 | **forgottentaco** ![][flag_FI] | **5** | 1 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/55539324) |
 | **Cxlucha** ![][flag_MX] | **5** | 0 | ![][flag_FR] Holloh | -win by default- |
 | Noulayfe ![][flag_FR] | 0 | **5** | ![][flag_FR] **Boros** | -win by default- |
@@ -295,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
 | **Dusk** ![][flag_CN] | **5** | 1 | ![][flag_FR] Shyeart | [#1](https://osu.ppy.sh/community/matches/55343958) |
 | **-Kurisu-** ![][flag_US] | **5** | 0 | ![][flag_DE] Ginoshi | -win by default- |
 | **Cxlucha** ![][flag_MX] | **5** | 4 | ![][flag_CL] lineqtxz | [#1](https://osu.ppy.sh/community/matches/55353499) |
-| Noulayfe ![][flag_FR] | 4 | **5** | ![][flag_CL] **nachoL** | [#1](https://osu.ppy.sh/community/matches/55354970) |
+| Noulayfe ![][flag_FR] | 4 | **5** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55354970) |
 
 | Sunday, 2019-10-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -322,7 +322,7 @@ This competition has come to an end and resulted in the following podium:
 | **Karym** ![][flag_IT] | **4** | 0 | ![][flag_VN] mothernature | [#1](https://osu.ppy.sh/community/matches/55169589) |
 | **Dusk** ![][flag_CN] | **4** | 0 | ![][flag_DK] SchnitzelBae | [#1](https://osu.ppy.sh/community/matches/55170374) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **4** | 0 | ![][flag_FR] Julo | -win by default- |
-| **nachoL** ![][flag_CL] | **4** | 0 | ![][flag_RU] MeeeDBeD | [#1](https://osu.ppy.sh/community/matches/55174853) |
+| **NachoL** ![][flag_CL] | **4** | 0 | ![][flag_RU] MeeeDBeD | [#1](https://osu.ppy.sh/community/matches/55174853) |
 | **Cxlucha** ![][flag_MX] | **4** | 0 | ![][flag_SE] DataPata | [#1](https://osu.ppy.sh/community/matches/55175671) |
 | wwwww- ![][flag_CA] | 2 | **4** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/55175611) |
 | Hanik ![][flag_BR] | 1 | **4** | ![][flag_FI] **forgottentaco** | [#1](https://osu.ppy.sh/community/matches/55177704) |

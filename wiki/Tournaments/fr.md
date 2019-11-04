@@ -231,7 +231,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [osu!catch Convert Cup](/wiki/Tournaments/o!cCC/1) | 2019-09-21 | 2019-11-03 | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) | ![][flag_CL] [nachoL](https://osu.ppy.sh/users/1250096) |
+| [osu!catch Convert Cup](/wiki/Tournaments/o!cCC/1) | 2019-09-21 | 2019-11-03 | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) | ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
