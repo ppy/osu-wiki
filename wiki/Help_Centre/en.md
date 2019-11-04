@@ -8,7 +8,7 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 #### I've paid for a supporter tag, but still have not received it!
 
-**Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
 Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
@@ -20,7 +20,7 @@ Make sure to include any receipts that you received during the process (paypal t
 
 #### What is "restricted" mode, exactly?
 
-**A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
@@ -140,7 +140,7 @@ We will never display this information to anyone else, and we encourage you to b
 
 #### Can I make more than one account?
 
-**Unfortunately, no, you can not.**
+**Unfortunately, no, you cannot.**
 
 If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
@@ -240,7 +240,7 @@ You can also try forcing the game to update.
 3. Type `update` into the quick-search to jump straight to the option.
 4. Click the `Run osu! updater` button.
 
-You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
+You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything; it just needs to exist, and the game will automatically force an update the next time it runs.
 
 #### I get an error about "font styles" when I try to open the game!
 
