@@ -8,7 +8,7 @@ tags:
 
 ![o!cCC Logo](img/logo.jpg)
 
-The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes **osu!standard maps** only. This is the first installment of the osu!catch Convert Cup.
+The **osu!catch Convert Cup** (***o!cCC***) was a one-on-one osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes **osu!standard maps** only. This was the first installment of the osu!catch Convert Cup.
 
 ## Tournament schedule
 
@@ -22,7 +22,7 @@ The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament
 | Quarterfinals | 2019-10-12/2019-10-13 |
 | Semifinals | 2019-10-19/2019-10-20 |
 | Finals | 2019-10-26/2019-10-27 |
-| Grand Finals | 2019-11-02/2019-11-03 |
+| Grand Finals | 2019-11-03 |
 
 ## Prizes
 
@@ -36,13 +36,13 @@ The **osu!catch Convert Cup** (***o!cCC***) is a one-on-one osu!catch tournament
 
 ## Organisation
 
-The osu!catch Convert Cup is run by various community members.
+The osu!catch Convert Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Commentator | ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Map selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Commentator | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_NZ] [Lay](https://osu.ppy.sh/users/3768185), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_DK] [SchnitzelBae](https://osu.ppy.sh/users/11253135), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
@@ -70,36 +70,50 @@ The osu!catch Convert Cup is run by various community members.
 
 ---
 
-## Match schedule: Quarterfinals
+## Podium
 
-### Saturday, 19 October 2019
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Dusk | ![][flag_CN] | ![][flag_PH] | Roido | **10:00** |
-| #4 | forgottentaco | ![][flag_FI] | ![][flag_FR] | Boros | **15:00** |
-| #2 | Karym | ![][flag_IT] | ![][flag_US] | -Kurisu- | **19:00** |
-| #3 | Cxlucha | ![][flag_MX] | ![][flag_CL] | nachoL | **21:00** |
-
-### Sunday, 20 October 2019
-
-| Match ID | Player A |  |  | Player B | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #5a¹ | Karym | ![][flag_IT] | ![][flag_MX] | Cxlucha | **19:00** |
-| #5b¹ | Karym | ![][flag_IT] | ![][flag_CL] | nachoL | **19:00** |
-| #5c¹ | -Kurisu- | ![][flag_US] | ![][flag_MX] | Cxlucha | **23:00** |
-| #5d¹ | -Kurisu- | ![][flag_US] | ![][flag_CL] | nachoL | **23:00** |
-| #6a² | Dusk | ![][flag_CN] | ![][flag_FI] | forgottentaco | **13:00** |
-| #6b² | Dusk | ![][flag_CN] | ![][flag_FR] | Boros | **13:00** |
-| #6c² | Roido | ![][flag_PH] | ![][flag_FI] | forgottentaco | **13:00** |
-| #6d² | Roido | ![][flag_PH] | ![][flag_FR] | Boros | **13:00** |
-
-¹ Encounter dependent on winner of match #2 and match #3  
-² Encounter dependent on winner of match #1 and match #4
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [nachoL](https://osu.ppy.sh/users/1250096) |
 
 ---
 
 ## Mappools
+
+### Finals
+
+**This mappool was used in Finals and Grand Finals.**
+
+**[Download the mappack here! (116 MB)](https://mega.nz/#!FklExCpQ!eN4Avo5X-Keo5EggnA8O9Q63VpcC2DloSe0Akn9vw_8)**
+
+- NoMod
+  - [The Wrecks - Favorite Liar (Kaifin) \[Valley\]](https://osu.ppy.sh/beatmapsets/520511#fruits/1105826)
+  - [Silent Siren - Routine (Shapy) \[Jumpy Route\]](https://osu.ppy.sh/beatmapsets/377921#fruits/827317)
+  - [Camellia - B L A C K - R A Y (Mir) \[Obtrusion\]](https://osu.ppy.sh/beatmapsets/1020387#fruits/2134989)
+  - [nameless - Milk Crown on Sonnetica (Len) \[byfar's Extra\]](https://osu.ppy.sh/beatmapsets/327557#fruits/1042089)
+  - [K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) (Nathan) \[handsome's Master\]](https://osu.ppy.sh/beatmapsets/874948#fruits/1828562)
+  - [Co shu Nie - Asura (Sharu) \[Jounzan's Extra\]](https://osu.ppy.sh/beatmapsets/889501#fruits/1869911)
+- Hidden
+  - [Red Velvet - Rookie (Albatro) \[AR8\]](https://osu.ppy.sh/beatmapsets/862169#fruits/1816380)
+  - [Sakuzyo - Stoicism (dsco) \[Jazz!\]](https://osu.ppy.sh/beatmapsets/705318#fruits/1491800)
+  - [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#fruits/1925935)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[RLC's INFINITE\]](https://osu.ppy.sh/beatmapsets/514750#fruits/1094551)
+- HardRock
+  - [EGOIST - Eiyuu Unmei no Uta (TV Edit) (handsome) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/637050#fruits/1426311)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#fruits/168031)
+  - [Belmont - Convalescence (Sharkie) \[t\]](https://osu.ppy.sh/beatmapsets/851384#fruits/1779767)
+  - [THE ORAL CIGARETTES - Sesshoku (Nevo) \[Sotarks' Cataclysm\]](https://osu.ppy.sh/beatmapsets/839248#fruits/1756897)
+- DoubleTime
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
+  - [egor nats - ya zhenyus' na devochke iz anime (Daycore) \[collab insane\]](https://osu.ppy.sh/beatmapsets/947717#fruits/1984297)
+  - [Rchetype - V Is For (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/111914#fruits/290919)
+  - [Artik & ASTI feat. Artyom Kacher - Grustnyy dance (-Mikan) \[Mikan & schoolboy's Flex\]](https://osu.ppy.sh/beatmapsets/1027708#fruits/2149020)
+- Tiebreaker
+  - **[t+pazolite - GOLDASH (lokovodo) \[BERSERK AR 9.6\]](https://osu.ppy.sh/beatmapsets/304325#fruits/681811)**
 
 ### Semifinals
 
@@ -220,6 +234,37 @@ The osu!catch Convert Cup is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+| Sunday, 2019-11-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Dusk** ![][flag_CN] | **7** | 1 | ![][flag_IT] Karym | [#1](https://osu.ppy.sh/community/matches/56012271) |
+
+### Finals
+
+| Saturday, 2019-10-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Dusk** ![][flag_CN] | **7** | 0 | ![][flag_IT] Karym | -win by default- |
+| **nachoL** ![][flag_CL] | **7** | 0 | ![][flag_FR] Boros | -win by default- |
+
+| Sunday, 2019-10-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Karym** ![][flag_IT] | **7** | 3 | ![][flag_CL] nachoL | [#1](https://osu.ppy.sh/community/matches/55850620) |
+
+### Semifinals
+
+| Saturday, 2019-10-19 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Dusk** ![][flag_CN] | **6** | 0 | ![][flag_PH] Roido | -win by default- |
+| **Karym** ![][flag_IT] | **6** | 5 | ![][flag_US] -Kurisu- | [#1](https://osu.ppy.sh/community/matches/55665712) |
+| forgottentaco ![][flag_FI] | 5 | **6** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/55665695) |
+| Cxlucha ![][flag_MX] | 2 | **6** | ![][flag_CL] **nachoL** | [#1](https://osu.ppy.sh/community/matches/55676309) |
+| -Kurisu- ![][flag_US] | 0 | **6** | ![][flag_CL] **nachoL** | [#1](https://osu.ppy.sh/community/matches/55678968) |
+
+| Sunday, 2019-10-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Roido ![][flag_PH] | 0 | **6** | ![][flag_FR] **Boros** | -win by default- |
+
 ### Quarterfinals
 
 | Saturday, 2019-10-12 |  |  |  |  |
@@ -337,11 +382,13 @@ The Qualifiers is a stage purely meant for seeding purposes. It is much better t
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
