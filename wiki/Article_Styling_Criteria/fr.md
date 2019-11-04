@@ -6,7 +6,7 @@ Les critères de style pour les articles (CSA) servent à garder les articles du
 
 Tous les articles doivent avoir une bonne grammaire, un langage correct et des informations correctes. Souvenez-vous que des reviewers vous donneront leur avis sur vos pull requests pour corriger des erreurs ou proposer des suggestions. Un bon éditeur osu! wiki devra lire ces commentaires et appliquer les changements ou faire un retour sur l'avis pour aider à améliorer la qualité globale du osu! wiki et proposer une expérience optimale pour le lecteur.
 
-Si vous avez des suggestions sur les critères de style pour les articles, [ouvrez un sujet "issue" sur GitHub](https://github.com/ppy/osu-wiki/issues/new).
+Si vous avez des suggestions sur les critères de style pour les articles, [ouvrez un ticket sur GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Fichiers concernés
 
@@ -52,6 +52,12 @@ Les régions listées ci-dessous sont supportées par le osu! wiki. Le nom du fi
 
 Si votre langue n'est pas dans celles ci-dessus, vous pouvez toujours ajouter `?locale={langcode}` à l'URL (où `{langcode}` est le code de votre langue composé de deux lettres en minuscules, par exemple `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` vous donnera la version Chinoise de l'article Welcome suivant la langue choisie) ou aider à traduire [osu-web via Crowdin](https://crowdin.com/project/osu-web). Si vous avez besoin d'aide pour traduire le site web ou que vous voulez discuter de vos décisions de traduction, vous pouvez en parler sur le [serveur Discord osu!dev](https://discord.gg/ppy) (salon `#osu-web`).
 
+### Parité du contenu
+
+*Note: Cela ne s'applique pas aux articles écrit originellement dans une autre langue que l'anglais.*
+
+Les traductions sont sujettes à une stricte parité de contenu avec leur article en anglais, dans le sens ou ils doivent avoir le même message, sans prendre en compte la grammaire et la syntaxe. N'importe quel changement dans la signification de la traduction doit être accompagné du même changement dans l'article en anglais.
+
 ### Metadonnées
 
 *Note : Les métadonnées doivent être placées tout en haut du fichier et suivi d'une ligne vide; sinon, il sera compté comme du texte brut.*
@@ -62,31 +68,36 @@ Si votre langue n'est pas dans celles ci-dessus, vous pouvez toujours ajouter `?
 
 Utilisez la note `outdated` sur les articles traduits quand la version anglaise est mise à jour, cela ressemble à : 
 
-```md
+```markdown
 ---
 outdated: true
-
 ---
+
+# Beatmaps
 ```
 
 #### Articles tagués
 
 Les articles tagués permettent au moteur de recherche du site web à mieux trouver les articles. Il y a peu de chances que vous ayez à l'utiliser. Il s'écrit comme suit :
 
-```md
+```markdown
 ---
 tags:
-- simple
-- mot
-- plusieurs mots avec des espaces fonctionne aussi (mais il ne faut pas que ça soit trop long)
+  - tags go here
+  - keep them in a list like this
+  - skin
+  - skinning
+  - how to skin
 ---
+
+# Skinning
 ```
 
 #### Articles dépassés et tagués 
 
 Dans le cas où un article est dépassé et a des tags, les métadonnées ressembleront à : 
 
-```md
+```markdown
 ---
 outdated: true
 tags:
@@ -142,7 +153,7 @@ Quelques markup du GFM (GitHub Flavored Markdown) sont supportés par le osu! wi
 
 #### Commentaires
 
-Les commentaires HTML peuvent être utilisés pour annoter du texte, mais avec un usage limité.
+Les commentaires HTML peuvent être utilisés pour annoter du texte.
 
 ### Édition
 
@@ -158,7 +169,7 @@ Les fichiers Markdown doivent être vérifiés quand ils utilisent le saut de li
 
 Utilisez le caractère d'échapement Markdown quand vous en avez vraiment besoin. Par exemple : 
 
-```md
+```markdown
 Le titre de Champion osu!taiko est attribué à [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 est actuellement le joueur numéro 1 en classement pp osu!taiko du Japon !
 ```
 
@@ -178,31 +189,29 @@ Les notes de début sont de petites notes placées en haut de l'article ou sous 
 
 Certaines notes permettent de diriger le lecteur jusqu'à un article contenant plus d'informations. Elles doivent commencer par les mots `Page principale` suivit d'un deux-points (`:`). Par exemple : 
 
-```md
+```markdown
 ## Modding
 
 *Page principale : [Modding](/wiki/Modding)*
 
-Le modding est le processus dans lequel un utilisateur examine (ou plus communément appelé "modders") une beatmap en processus de création.
 ```
 
 #### Voir aussi
 
 De plus les notes de début peuvent être utilisées pour suggérer au lecteur d'autres articles en rapport à l'article actuel. Ces notes doivent commencer avec les mots `Voir aussi` suivi d'un deux-points (`:`). Par exemple :
 
-```md
+```markdown
 ## Beatmapping
 
 *Voir aussi : [Storyboarding](/wiki/Storyboarding)*
 
-Beatmapper est le processus par lequel un utilisateur créer une beatmap. Ce processus inclut : la sélection de la musique, l'ajustement du timing, le placement d'objets sur la beatmap ainsi que le test de celle-ci. Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap.
 ```
 
 #### Pour voir
 
 Les notes du début pour voir sont similaires aux "voir aussi", mais elles sont généralement plus descriptives. Elles doivent commencer avec le mot `Pour` suivit par la description, une virgule (`,`), `voir`, puis un deux-points (`:`). Par exemple :
 
-```md
+```markdown
 # Installation
 
 *Pour le guide d'installation pour Linux, voir : [Installation/Linux](/wiki/Installation/Linux)*
@@ -212,7 +221,7 @@ Les notes du début pour voir sont similaires aux "voir aussi", mais elles sont 
 
 Une note peut être placée là où semble approprié de la mettre dans une section, mais elle doit commencer à la fin d'un paragraphe et être en italique. Les notes peuvent comporter des mots en gras quand cela semble approprié, mais il vaut mieux en mettre un minimum. Cela doit commencer par "Note","Annonce","Attention", ou "Avertissement" suivit par deux points (`:`). Les notes sont des phrases complètes contrairement aux [notes de début](#notes-de-début), elles doivent se finir par un point (`.`) ou un point d'exclamation (`!`), si cela est approprié. Tout ce qui est dans le même paragraphe qu'une note doit aussi être en italique. Par exemple :  
 
-```md
+```markdown
 *Note: pippi est écrit avec un "p" minuscule, comme peppy*
 
 *Annonce: Vous devez avoir une connexion internet décente pour vous connecter à Bancho et envoyer vos scores.*
@@ -228,7 +237,7 @@ Une note peut être placée là où semble approprié de la mettre dans une sect
 
 Les annonces qui ont pour cible certains lecteurs, incluant le mot `pour` après "Note", "Annonce", "Attention", "Avertissement" puis suivi d'une brève description des lecteurs visés. Par exemple :  
 
-```md
+```markdown
 *Annonce pour les utilisateurs  de l'API : Dans osu!catch, les droplets sont marqués comme `count50` et les droplets manquants comme `countkatu`.*
 ```
 
@@ -238,7 +247,7 @@ Les annonces qui ont pour cible certains lecteurs, incluant le mot `pour` après
 
 Quand vous voulez souligner des mots n'utilisez pas de lettres majuscules, sauf exception. A la place mettez en gras les mots ou la phrase entière. Par exemple : 
 
-```md
+```markdown
 Vous n'êtes **pas** autorisé à poster des skins R-18 sur le forum d'osu!.
 **Vous n'êtes pas autorisé à poster des skins R-18 sur le forum d'osu!.**
 ```
@@ -279,13 +288,30 @@ Sur le wiki d'osu!, les libellés de niveau 4 et 5 n'apparaîtront pas dans le s
 
 ### Listes
 
-4 niveaux d'indentations sont disponible quand vous faites une liste.
+Les listes ne doivent pas avoir plus de 4 niveaux d'intendation. Les listes ne doivent pas avoir de ligne vide entre chaque objet.
+
+Pour les listes imbriquées, assurez-vous que les puces ou les numéros sont alignés sur le contenu de l'élément de leurs listes parentes.
+
+Mauvais exemple : 
+
+```markdown
+1. Fly a kite
+  - Don't fly a kite if it's raining
+```
+
+Bon exemple :
+
+```markdown
+1. Fly a kite
+   - Don't fly a kite if it's raining
+```
+
 
 #### À puce
 
 Vous devez utiliser un tiret (`-`) ou le symbole plus (`+`) quand vous écrivez une liste à puces. Gardez le même symbole sur l'article tout entier, ils doivent être suivis d'un espace. Par exemple : 
 
-```md
+```markdown
 - osu!standard
   - Cercles
     - Nombre de combo
@@ -304,7 +330,7 @@ Vous devez utiliser un tiret (`-`) ou le symbole plus (`+`) quand vous écrivez 
 
 Dans une liste numérotée les nombres doivent être en ordre croissant.
 
-```md
+```markdown
 1. Télécharger l'installateur d'osu!.
 2. Lancer l'installateur.
    1. Pour changer le dossier dans lequel installer le jeu, cliquez sur le texte en dessous de la barre de progression.
@@ -317,7 +343,7 @@ Dans une liste numérotée les nombres doivent être en ordre croissant.
 
 La combinaison entre liste à puces et liste numérotée doit être utilisée avec parcimonie.
 
-```md
+```markdown
 1. Télécharger un skin du forum.
 2. Charger le fichier contenant le skin dans osu!.
    - Si le fichier est un `.zip`, dézipper le et mettez le dans le dossier `Skins/` (placé dans le dossier d'installation d'osu!). 
@@ -328,13 +354,15 @@ La combinaison entre liste à puces et liste numérotée doit être utilisée av
 
 ### Code
 
-La balise pour le code est un accent grave (`` ` ``). Pour mettre un accent grave dans le code, il faut le doubler, espacer du caractère espace. 
+La balise pour le code est un accent grave (`` ` ``). Pour mettre un accent grave dans le code, il faut le doubler, espacer par le caractère espace. 
 
 #### Raccourci clavier
 
-Quand vous donner un raccourci clavier, utilisez une lettre majuscule pour un simple caractère et le reportez vous a la section sur les titre pour les modificateurs. Indiquez la lettre elle-même, et non le raccourci clavier, ne doit pas être dans le code (il faut utiliser des quotes). Par exemple :  
+*Note : Lorsque vous indiquez la lettre elle-même et non la touche du clavier, utilisez des guillemets.*
 
-```md
+Lorsque vous indiquez les touches du clavier, utilisez des majuscules pour les caractères uniques et la casse du titre pour les modificateurs. Par exemple:  
+
+```markdown
 pippi s'écrit avec un "p" minuscule comme peppy.
 
 Pressez `Ctrl` + `O` pour ouvrir le dialogue d'ouverture.
@@ -344,9 +372,9 @@ Quand vous utilisez la touche espace, utilisez `` `Space` `` au lieu de `` ` ` `
 
 #### Texte des boutons et des menus
 
-Quand vous copiez le texte d'un menu ou d'un boutton, copiez la casse des lettres comme elle sont. Par exemple :
+Quand vous copiez le texte d'un menu ou d'un boutton, copiez la casse des lettres comme elle est. Par exemple :
 
-```md
+```markdown
 Le boutton `osu!direct` est visible dans le menu principal sur le côté gauche, si vous avez un tag osu!supporter valide. 
 ```
 
@@ -354,7 +382,7 @@ Le boutton `osu!direct` est visible dans le menu principal sur le côté gauche,
 
 Quand vous copiez le nom d'un dossier ou d'un répertoire, copiez la casse des lettres, mais préférez les chemins en minuscule quand cela est possible. N'utilisez pas de chemin absolu commençant à la lettre de lecteur (ou au répertoire root). C'est premièrement fait pour éviter d'avoir à marquer le nom. Par exemple :
 
-```md
+```markdown
 osu! est installer dans le dossier `AppData/Local` par défaut, sauf si vous avez indiquer un autre dossier durant l'installation.
 ```
 
@@ -362,7 +390,7 @@ osu! est installer dans le dossier `AppData/Local` par défaut, sauf si vous ave
 
 Quand vous copiez un mot-clé ou une commande, copiez la casse des lettres comme elle est ou comme vous la tapez normalement (préférez l'écrire en minuscule si cela est possible). Par exemple :
 
-```md
+```markdown
 Les commandes `Name` et `Author` dans le fichier de configuration de skin (`skin.ini`) ne feront rien.
 ```
 
@@ -370,7 +398,7 @@ Les commandes `Name` et `Author` dans le fichier de configuration de skin (`skin
 
 Quand vous copiez le nom d'un fichier, gardez la casse des lettres. When copying the name of a file, copy the letter casing as is.
 
-```md
+```markdown
 Pour jouer a osu!, double cliquez sur l'icône `osu!.exe`.
 ```
 
@@ -378,7 +406,7 @@ Pour jouer a osu!, double cliquez sur l'icône `osu!.exe`.
 
 Quand vous écrivez une extension de fichier, préfixez l'extension avec un point (`.`), suivi par l'extension de fichier en minuscule. Si vous parlez du format de fichier (et non l'extension de fichier), le format de fichier doit être en majuscules sans le point avant (`.`) et ne doit pas être dans le code. Par exemple : 
 
-```md
+```markdown
 Le format de fichier JPG (ou JPEG) a l'extension `.jpg` (ou `.jpeg`).
 ```
 
@@ -386,7 +414,7 @@ Le format de fichier JPG (ou JPEG) a l'extension `.jpg` (ou `.jpeg`).
 
 Quand vous copiez le nom d'un canal de chat, commencez le par la touche dièse (`#`), suivi par le nom du canal en lettres minuscules. Par exemple : 
 
-```md
+```markdown
 `#lobby` est l'endroit ou vous pouvez avertir que vous avez créer une salle multijoueurs.
 ```
 
@@ -412,7 +440,7 @@ Si vous utilisez le style de référence pour les liens, il est suggéré de met
 
 Tous les liens qui redirigent vers un article du wiki d'osu! doivent commencer avec `/wiki/` suivit par le chemin de l'article que vous souhaitez atteindre. Par exemple : 
 
-```md
+```markdown
 [Bienvenue](/wiki/Welcome)
 [pippi](/wiki/Mascots#-pippi)
 ```
@@ -474,7 +502,7 @@ Préférez le protocole `https`. Les liens externes doivent mener directement à
 
 Il n'y a pas de différence visuelle entre un lien externe et un lien du site d'osu!. Vous devez donc inclure le nom du site web dans la légende.Par exemple : 
 
-```md
+```markdown
 *Pour plus d'informations sur la théorie de la musique, regardez : [théorie de la musiques](https://fr.wikipedia.org/wiki/Théorie_de_la_musique "Wikipedia")*
 ```
 
@@ -516,7 +544,7 @@ Utilisez le tiret quand vous voulez mettre un espace entre les mots. Quand vous 
 
 Sur le wiki d'osu! les images sont affichées différament que dans visualiseur de GitHub Markdown. Le plus notable est que si elles sont sur une seule ligne elles seront centrées. Par exemple :
 
-```md
+```markdown
 Installer osu! est facile. Premièrement, téléchargez l'installateur sur la page de téléchargement.
 
 ![](img/download-page.jpg)
@@ -593,7 +621,7 @@ N'utilisez pas de lien vers des images; cela ne fonctionne pas sur les télépho
 
 Les icônes drapeau à côté d'un lien d'utilisateur doit être séparé pour le pseudo de l'utilisateur. Par exemple :
 
-```md
+```markdown
 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 ```
 
@@ -603,7 +631,7 @@ Les icônes drapeau à côté d'un lien d'utilisateur doit être séparé pour l
 
 Toutes les icônes de drapeau utilisent les deux lettres du code du pays (en lettres majuscules) et finissent par `.gif`. Quand vous ajoutez un drapeau intégré, utilisez ce format :
 
-```md
+```markdown
 ![](/wiki/shared/flag/xx.gif)
 ```
 
@@ -630,7 +658,7 @@ Le délimiteur gauche doit être appliqué de manière cohérente dans l’ensem
 
 Par exemple :
 
-```md
+```markdown
 | Groupe "Picturesque" rouge | Score | Groupe "Statuesque" Bleu | Moyenne des étoiles des Beatmap |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 stars |
@@ -644,7 +672,7 @@ Par exemple :
 
 L'usage des blocs de citation est limité à la citation d'une personne. Il ne doit pas être utilisé comme un format de texte.
 
-### Champs thématiques Thematic breaks
+### Champs thématiques 
 
 Utilisez un champ thématique (aussi connu sous le nom de ligne horizontale) avec partimonie. Quelques exemples des utilisations des champs thématiques (mais ce n'est pas limité qu'à ça) : 
 
@@ -654,7 +682,7 @@ Utilisez un champ thématique (aussi connu sous le nom de ligne horizontale) ave
 
 Quand vous utilisez un champ thématique, soyez sûr qu'il y a une ligne vide au dessus du markup. Autrement, il doit être parsé comme un libellé de niveau 2. Avoir une ligne vide en dessous du markup est préféré mais pas obligatoire. Les champs thématiques doivent avoir seulement trois tiret,comme montré ci-dessous :
 
-```md
+```markdown
 ---
 ```
 
@@ -720,7 +748,7 @@ Pour les phrases finissant par `osu!` suivit d'un point d'exclamation (`!`)(exem
 
 #### Noms d'articles
 
-Quand vous écrivez un sujet dans un article, ne l'écrivez pas en lettres majuscules à part si c'est un lien (avec certaines exeptions come BanchoBot). Par exemple :
+Quand vous écrivez un sujet dans un article, ne l'écrivez pas en lettres majuscules à part si c'est un lien (avec certaines exeptions comme BanchoBot). Par exemple :
 
 ```md
 La [Console de Chat](/wiki/Chat_Console) est l'endroit où vous pouvez discuter, en utilisant le IRC (Internet Relay Chat). La console de discution est dans le client du jeu.
