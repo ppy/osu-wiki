@@ -2,7 +2,7 @@
 
 Благодарим Вас за проявленный интерес делать osu! wiki лучше! Это краткое руководство предназначено для новичков, которые никогда раньше не работали с GitHub и osu! wiki. Если же у Вас уже есть опыт работы с GitHub, можете пропустить это руководство и следовать общей функции ветвей рабочего процесса для обновления контента в этом репозитории.
 
-Если во время какой-либо части Вы запутались и/или нуждаетесь в дополнительной помощи, не стесняйтесь отправлять сообщение в [Discord-сервер osu!dev](https://discord.gg/ppy) (канал `#osu-wiki`).
+Если во время какой-либо части Вы запутались и/или нуждаетесь в дополнительной помощи, не стесняйтесь отправить сообщение в [Discord-сервер osu!dev](https://discord.gg/ppy) (канал `#osu-wiki`).
 
 ## Начало работы
 
@@ -12,7 +12,7 @@
 
 2. [Войдите в аккаунт](https://github.com/login).
 
-3. Продолжение в разделе [Форкинг](#forking).
+3. Продолжение в разделе [Форкинг](#форкинг).
 
 ### Форкинг
 
@@ -28,13 +28,13 @@
 
    ![](img/forked.jpg)
 
-5. Продолжение в разделе [Синхронизация форка](#syncing-your-fork).
+5. Продолжение в разделе [Синхронизация форка](#синхронизация-форка).
 
 ### Синхронизация форка
 
 1. Перейдите в свой форк репозитория `osu-wiki`.
 
-2. Над файлами есть текст, говорящий Вам, находится ли ветка "behind", "ahead", или "even" относительно `ppy:master`. Если указано "behind" или "ahead and behind" с колличеством behind-коммитов, значит, что Ваша ветка устарела.
+2. Над файлами есть текст, говорящий Вам, находится ли ветка «behind», «ahead», или «even» относительно `ppy:master`. Если указано «behind» или «ahead and behind» с колличеством behind-коммитов, значит, что Ваша ветка устарела.
 
    ![](img/fork-even.jpg "OK \(Нет коммитов и не устарела\)")
 
@@ -46,20 +46,20 @@
 
 3. Это не такая уж и большая проблема; по крайней мере, если Вы не хотите редактировать уже изменённый файл, который может иметь несколько коммитов ещё до Вас.
 
-4. Чтобы решить данную проблему, просмотрите [раздел Моя ветка устарела! в статье Распространённые проблемы](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4. Чтобы решить данную проблему, просмотрите [раздел «Моя ветка устарела!» в статье «Распространённые проблемы»](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
 
-5. По завершению шага 4, продолжите в разделе [Редактирование онлайн и локально](#editing-online-or-locally).
+5. По завершению шага 4, продолжите в разделе [Редактирование онлайн и локально](#редактирование-онлайн-и-локально).
 
 ## Редактирование онлайн и локально
 
 На данный момент у вас есть два варианта:
 
-- [Веб-интерфейс GitHub](/wiki/owcg/GitHub_Web_Interface) - редактируйте онлайн; лучший вариант для одиночного редактирования статьи;
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - редактируйте локально; лучший вариант для одиночных и/или групповых редактирований (включая загрузку, удаление и перемещение изображений или файлов)
+- [Веб-интерфейс GitHub](/wiki/owcg/GitHub_Web_Interface) — редактируйте онлайн; лучший вариант для одиночного редактирования статьи;
+- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) — редактируйте локально; лучший вариант для одиночных и/или групповых редактирований (включая загрузку, удаление и перемещение изображений или файлов)
 
-*Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.*
+*Примечание: Вы не ограничены в выборе среди двух вышеперечисленных вариантов редактирования. Чтобы это руководство было кратким и простым, в этих статьях не будет подробно обсуждаться использование других инструментов. Есть и другие сторонние приложения, которые могут делать больше или меньше, чем то, что уже делает веб-интерфейс GitHub и GitHub Desktop.*
 
-**Когда вы выбралииспользовать *GitHub Web Interface* или *GitHub Desktop*, можете перходить к следующему разделу.**
+**Когда вы выбрали, использовать *GitHub Web Interface* или *GitHub Desktop*, можете переходить к следующему разделу.**
 
 ## Окончание
 
@@ -67,42 +67,42 @@
 
 1. Перейдите в [репозиторий `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2. If you were quick enough, you may see this yellow banner.
+2. Если Вы были достаточно быстры, Вы можете увидеть жёлтый баннер.
 
    ![](img/github-recent.jpg)
 
-3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
+3. Если Вы видите его, нажмите кнопку `Compare & pull request` (пропустите до шага 8). Если нет — нажмите кнопку `New pull request` (продолжите с шага 4).
 
-4. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
+4. На следующей странице, если Вы видите эти две кнопки, как показано ниже, нажмите `compare across forks`.
 
-   ![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "Нехорошо.")
 
-5. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
+5. Нажмите на выпадающее меню `head fork` и выберете вариант с Вашим именем пользователя (он должен был вторым).
 
    ![](img/head-fork.jpg)
 
-6. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
+6. Нажмите на выпадающее меню `compare` и выберете вариант с веткой, которую Вы создали (они расположены в алфавитном порядке).
 
    ![](img/compare-branch.jpg)
 
-7. Click `Create pull request`.
+7. Нажмите `Create pull request`.
 
-8. Enter the title in English. This should be a very brief explanation of what you changed.
+8. Введите название на английском. Это должно быть краткое описание, что было изменено.
 
-   For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
+   Для перевода статей, включите в него двубуквенное обозначение языка перевода в квадратных скобках перед названием. Ваше название может быть лишь названием статьи(-ей) к переводу. Например, `[FR] BBCode` будет означать, что Вы обновляете французский перевод [статьи BBCode](/wiki/BBCode).
 
-9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).
+9. Заполните контейнер описания кратким изложением Ваших изменений. Вы должны указать любую информацию, относящуюся к вашему пулреквесту, такую как статус завершения и то, что вы хотите донести до обозревателей. Вы также можете заставить Ваш пулреквест автоматически закрывать ишью (указанные проблемы) через мёрдж, написав «resolves #1» или «closes #1» и т.д. в описании (см. [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) в GitHub Help).
 
-10. Once you are ready, click `Create pull request`.
+10. Как только будете готовы, нажмите `Create pull request`.
 
     ![](img/new-pull-request.png)
 
-11. See [Reviews](#reviews) and [Merging](#merging) below.
+11. См. [Ревью](#ревью-обзор) и [Мёрджинг](#мёрджинг-слияние) ниже.
 
-### Reviews
+### Ревью (обзор)
 
-Once you have created your pull request, other osu! wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu! wiki editors in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) or in the GitHub comments.
+Как только Вы создали пулреквест, другие редакторы osu! wiki могут провести ревью (обозрить) Ваши правки, чтобы помочь найти ошибки, которые Вы могли пропустить. **Вам нужно будет идти в ногу с этими обзорами**, иначе Ваш пулреквест может быть помечен на закрытие! Если Вы хотите, чтобы кто-то провёл ревью Вашего пулреквеста, можете спросить других редакторов osu! wiki на [Discord-сервере osu!dev](https://discord.gg/ppy) (канал `#osu-wiki`) или в комментариях GitHub.
 
-### Merging
+### Мёрджинг (слияние)
 
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+Чтобы ваши изменения претворились в жизнь на osu! wiki, ваш пулреквест должен быть «слит» с основной веткой. Как только Ваш пулреквест пройдёт ревью и будет подтверждён, Вы можете использовать раздел комментариев GitHub, чтобы попросить кого-нибудь сделать мёрдж или сделать то же самое на [Discord-сервере osu!dev](https://discord.gg/ppy) (канал `#osu-wiki`). Как только произойдёт слияние, ваши правки появятся на osu! wiki в течение 5 часов.
