@@ -10,7 +10,7 @@ An update to the Beatmap Pack Management project, including new pack releases!
 
 Our project is called Beatmap Pack Management and we are focused on development of the Beatmap Packs. Many of you might not even know who we are or what we are doing, so I'd like to present some information about us:
 
-I've created a small group of experienced users who are interested in working on handmade charts dedicated to specific themes, ideas, or beatmaps which share similarities. Since July 2019, we've been actively working to provide new theme packs of decent quality with interesting concepts. Interest in this project is very high and some noteworthy members of the community have joined the group to help us by contributing their ideas to the project. We already have a few things to present to you, and I am sure you'll like them.
+I've created a small group of experienced users who are interested in working on handmade charts dedicated to specific themes, ideas, or beatmaps which share similarities. Since July 2019, we've been actively working to provide new packs of interesting themes. Interest in this project is very high and some noteworthy members of the community have joined the group to help us by contributing their ideas to the project. We already have a few things to present to you, and I am sure you'll like them.
 
 ### Alternator Style packs
 
@@ -52,7 +52,7 @@ If you wish to help with playtesting future packs and stay up to date, you can j
 
 *written by [Stefan](https://osu.ppy.sh/users/626907)*
 
-As it is time to bundle a few beatmaps again, there are some new packs for Loved beatmaps available since yesterday. I want to take the chance to explain why I did not bundle the latest maps from Loved already - since there is always a small chance that a beatmap can get unloved (and therefore unranked) it's a bit tedious to keep track of these things. I decided to give maps at least a minimum of 10 months to stay in Loved, and to bundle them afterwards into packs. While it's no guarantee they will stay in Loved forever, it works for me and I'll go by that for now. Changes can always happen though and I am open for alternatives.
+As it is time again to bundle a few beatmaps, there are some new packs for loved beatmaps available since mid October. I want to take the chance to explain why I did not bundle the latest maps from Loved already: Since there is always a small chance that a beatmap can become unloved it's a bit tedious to keep track of these things. I decided to give maps at least a minimum of 10 months to stay in Loved, and to bundle them afterwards into packs. While it's no guarantee they will stay in Loved forever, it works for me and I'll go by that for now. Changes can always happen though and I am open for alternatives.
 
 ### What else to expect
 
