@@ -25,7 +25,7 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
 
 ### osu!catch
 
@@ -120,7 +120,20 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-s.png) VIVID / VVD
 
-If more than provided difficulty names are needed for large mapsets, however, using difficulty names from other versions is allowed.
+If more than provided difficulty names are needed for large mapsets, difficulty names from other versions are usually used.
+
+### Arcaea
+
+- ![](/wiki/shared/diff/normal-s.png) Past
+- ![](/wiki/shared/diff/hard-s.png) Present
+- ![](/wiki/shared/diff/insane-s.png) Future
+
+### Lanota
+
+- ![](/wiki/shared/diff/normal-s.png) Whisper
+- ![](/wiki/shared/diff/hard-s.png) Acoustic
+- ![](/wiki/shared/diff/insane-s.png) Ultra
+- ![](/wiki/shared/diff/expert-s.png) Master
 
 ### maimai, CHUNITHM, Ongeki
 
