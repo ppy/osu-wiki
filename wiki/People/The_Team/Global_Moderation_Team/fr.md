@@ -76,6 +76,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Allemand | Modération du Chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turc | Modération du Chat |
 
+[flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
@@ -89,6 +90,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HM]: /wiki/shared/flag/HM.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
@@ -96,6 +98,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PT]: /wiki/shared/flag/PT.gif
@@ -104,3 +107,4 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
