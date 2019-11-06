@@ -6,7 +6,7 @@ date: 2019-11-06 20:00:00 +0000
 
 We're proud to welcome **Ricky Montgomery** aboard as our latest Featured Artist! 10 new tracks from his twin hit releases, *Caught on the Moon EP* and *Montgomery Ricky* — check it out!
 
-![](https://assets.ppy.sh/artists/53/header.jpg)
+![](https://assets.ppy.sh/artists/54/header.jpg)
 
 Those among us who were avid watchers of *Vine* back before it died an untimely death might be familiar with **Ricky Montgomery** or his recent double features at the top of the iTunes Rock and Alternative charts.
 
