@@ -16,7 +16,7 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer and [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
@@ -47,7 +47,7 @@ The following are user groups which are made up of the osu! community members th
 | Name | Description |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeping and help, game/site chibi artwork, [Barrel Roll Weekly](http://brw.twinkfish.com/) |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio design and [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organisation and administration |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Community management |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
