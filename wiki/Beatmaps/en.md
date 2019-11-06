@@ -34,7 +34,7 @@ These beatmaps are in the last stage of the beatmapping and modding process. Bef
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
-When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming [ranked](#ranked) or [approved](#approved) permanently.
+When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming ranked or approved permanently.
 
 During the one week duration, however, [QATs](/wiki/Glossary#quality-assurance-team) are allowed to write issues with the beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
 
@@ -67,8 +67,8 @@ All pending beatmaps do not affect user statistics.
 
 Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
-These beatmaps were initially [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
+These beatmaps were initially pending, but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
 
 All graveyarded beatmaps do not affect user statistics.
 
-For the sake of saving digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.
+For the sake of having digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.
