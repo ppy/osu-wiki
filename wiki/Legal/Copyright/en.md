@@ -4,13 +4,15 @@ legal: true
 
 # osu! Copyright Policy
 
-Last Updated 17th May 2017. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
+Last Updated 6th November 2019. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
 
 osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! takes copyright and other intellectual property rights very seriously.
 
 It is osu!'s policy to (1) expeditiously block access to or remove content that it believes in good faith may contain material that infringes the copyrights of third parties and (2) remove and discontinue service to repeat offenders.
+
+Alternatively, osu! is willing to negotiate music licensing via its [Music Licensing](/wiki/Legal/Copyright/Music_Licensing) process. Inquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
 
 ## Reporting Copyright Infringements
 
