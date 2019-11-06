@@ -23,7 +23,7 @@ But as always, don't take our word for it, give these a listen:
 ### Last Night
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/54/previews/1548.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/54/previews/1551.mp3" type="audio/mpeg">
 </audio>
 
 ### Cabo
