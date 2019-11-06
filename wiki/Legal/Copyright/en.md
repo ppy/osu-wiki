@@ -4,7 +4,7 @@ legal: true
 
 # osu! Copyright Policy
 
-osu! is a heavily community-oriented game. Its levels are created and uploaded by its community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, and we are funded entirely by user donations.
+osu! is a heavily community-oriented game. All game levels (beatmaps) are created and uploaded by community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, the game being funded entirely by user donations.
 
 A large portion of the donations we receive are used to reinvest in [Music Licensing](/wiki/Legal/Copyright/Music_Licensing). Licensing enquiries may be sent to music@ppy.sh.
 
@@ -67,4 +67,4 @@ Wembley, WA, 6014
 Australia
 ```
 
-Last Updated 6th November 2019. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
+*Last updated 6 November 2019. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
