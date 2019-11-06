@@ -18,13 +18,13 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/osu!academy) professor |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and Featured Artist outreach |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeping and wiki maintenance |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping and Featured Artist assistant |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeping |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! development, osu!mania lover, bug buster |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved captain and community advisor |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved captain, community advisor, and Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeping and tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
