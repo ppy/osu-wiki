@@ -135,7 +135,7 @@ If a Normal difficulty is required and used as the _lowest difficulty_ of your b
 
 #### Guidelines
 
-- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmap set.
+- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
 
 Additional guidelines for *4 key Normal* difficulties:
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.

@@ -53,7 +53,7 @@ For the record, these include the recent changes made [from the discussion forum
     - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
     - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
     - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
-- **Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time.** This is not applicable to difficulties below 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
+    - **Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time if their drain time is at least 80% of their play time.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
     - The highest difficulty.
     - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
