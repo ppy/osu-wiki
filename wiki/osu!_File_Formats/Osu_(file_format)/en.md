@@ -269,8 +269,8 @@ When constructing curves for a slider, `x` and `y` are used for the first point,
 
 There are four types of slider curves in osu!:
 
-- **Bézier (B):** [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) of arbitrary degree can be made. Multiple bézier curves can be joined into a single slider by repeating their points of intersection.
-- **Centripetal catmull-rom (C):** [Catmull curves](https://en.wikipedia.org/wiki/Centripetal_Catmull%E2%80%93Rom_spline) are an interpolating alternative to bézier curves. They are rarely used today due to their lack of visual appeal.
+- **Bézier (B):** [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve) of arbitrary degree can be made. Multiple bézier curves can be joined into a single slider by repeating their points of intersection.
+- **Centripetal catmull-rom (C):** [Catmull curves](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) are an interpolating alternative to bézier curves. They are rarely used today due to their lack of visual appeal.
 - **Linear (L):** These curves form a straight path between all of their points.
 - **Perfect circle (P):** Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier.
 
