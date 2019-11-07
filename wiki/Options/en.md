@@ -132,7 +132,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Snaking Sliders` | Sliders will "snake out" from their starting position. | Checkbox | `Enabled` |
+| `Snaking sliders` | Sliders will "snake out" from their starting position. | Checkbox | `Enabled` |
 | `Background video` | Allow background video files to play while playing beatmaps (can be disabled per-beatmap). | Checkbox | `Enabled` |
 | `Storyboards` | Allow beatmap storyboards to be played (can be disabled per-beatmap). | Checkbox | `Enabled` |
 | `Combo bursts` | Allow combo bursts to display upon reaching a combo milestone. | Checkbox | `Enabled` |
