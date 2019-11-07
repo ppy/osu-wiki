@@ -38,7 +38,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Online Editing and Ranking
 
-[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
