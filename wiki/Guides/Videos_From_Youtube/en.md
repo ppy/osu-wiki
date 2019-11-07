@@ -13,7 +13,7 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 ### Download the video
 
-[VIXY](http://vixy.net/) (there are many, many, MANY more out there but this one is listed).
+[noTube](https://notube.net/) (there are many, many, MANY more out there but this one is listed).
 
 ### Remove audio
 
