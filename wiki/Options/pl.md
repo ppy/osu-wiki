@@ -239,7 +239,7 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 | Nazwa | Opis | Typ | Domyślnie |
 | --- | --- | --- | --- |
 | `Globalne opóźnienie` | Ustawia opóźnienie (w milisekundach) dla wszystkich beatmap (nie wpływa na opóźnienie lokalne). | Suwak | `0ms` |
-| `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk | |
+| `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
 - Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Offset_Wizard).
 - Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/How_to_use_the_Offset_Wizard).

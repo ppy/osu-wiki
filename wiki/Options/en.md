@@ -244,7 +244,7 @@ The master, music, and effect volume can be changed elsewhere by pressing `Alt` 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
 | `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `0ms` |
-| `Offset wizard` | Opens the offset wizard. | Button | |
+| `Offset wizard` | Opens the offset wizard. | Button |  |
 
 - For details about the offset wizard, see [Offset Wizard](/wiki/Offset_Wizard).
 - For details on using the offset wizard, see [How to use Offset Wizard](/wiki/How_to_use_the_Offset_Wizard).
