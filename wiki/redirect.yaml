@@ -1303,11 +1303,6 @@
 "variables_sbs":                          "Storyboard_Scripting/Variables"
 
 "storyboard":                  "Storyboards"
-"storyboards/maps":            "Storyboards/Maps"
-"storyboards_maps":            "Storyboards/Maps"
-"storyboard_maps":             "Storyboards/Maps"
-"maps_storyboards":            "Storyboards/Maps"
-"maps_storyboard":             "Storyboards/Maps"
 
 "beatmap_ranking_procedure":            "Submission/Beatmap_Ranking_Procedure"
 "brp":                                  "Submission/Beatmap_Ranking_Procedure"
