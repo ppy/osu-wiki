@@ -95,24 +95,6 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
-## Match schedule: Grand Finals
-
-### Saturday, 26 October 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_US] | United States | **01:30 UTC** | 22:30 (Fri.) UTC-03 | 21:30 (Fri.) UTC-04 | ¹ |
-
-### Sunday, 27 October 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **01:00 UTC** | 10:00 UTC+09 | 22:00 (Sat.) UTC-03 | ² |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 | ² |
-
-¹ 3rd place encounter  
-² Encounter dependent on results of 3rd place encounter
-
 ## Mappools
 
 ### Finals
@@ -220,6 +202,17 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
     - **[BlackY - B(Camellia's"BlAst-Off"Remix) (qqqant) \[Insane\]](https://osu.ppy.sh/beatmapsets/832566#mania/1744188)**
 
 ## Match results
+
+### Grand Finals
+
+| Saturday, 2019-10-26 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55810169) |
+
+| Sunday, 2019-10-27 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| South Korea ![][flag_KR] | 5 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55838067) |
+| Brazil ![][flag_BR] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55839916) |
 
 ### Finals
 
