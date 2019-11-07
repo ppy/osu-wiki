@@ -57,7 +57,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin design, Contributions to default skin and iconset and [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev team and mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
 | ![][flag_US] Phil | Forum design work |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter and Cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept/artwork design and [DeviantArt](https://sarumaru.deviantart.com/) |
