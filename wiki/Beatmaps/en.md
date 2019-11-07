@@ -10,7 +10,7 @@ You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) 
 
 ## Ranked Statuses
 
-Both ranked and approved beatmaps requires approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators). They can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
+Both ranked and approved beatmaps require approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators). They can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
 
 ### Ranked
 
@@ -26,15 +26,15 @@ The approved status is typically for songs that are over five minutes in length 
 
 ### Qualified
 
-Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
+Qualified beatmaps use the checkmark icon (![Checkmark icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
-These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
+These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap:
 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
-When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming ranked or approved permanently.
+When a beatmap is qualified, it has passed the [ranking criteria](/wiki/Ranking_Criteria) and has been approved by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming ranked/approved permanently.
 
 During the one week duration, however, [QATs](/wiki/Glossary#quality-assurance-team) are allowed to write issues with the beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
 
