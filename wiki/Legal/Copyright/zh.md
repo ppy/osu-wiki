@@ -1,5 +1,6 @@
 ---
 legal: true
+outdated: true
 ---
 
 # osu! 版权政策
