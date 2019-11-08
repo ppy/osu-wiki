@@ -1,9 +1,9 @@
-# Community Tournaments
+# Tournaments
 
-This is the place where tournament hosts can add a wiki page for their tournaments.
+This is where wiki articles for tournaments live, both official and community-run. You are welcome to add new tournaments here, but you should have approval from the tournaments' host(s) before doing so.
 
-## Contributing
+Read the ["contributing" file](/CONTRIBUTING.md) if you're a new contributor to osu-wiki. If you have any questions about tournament articles, ask in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy) or [open an issue](https://github.com/ppy/osu-wiki/issues/new).
 
-We urge you to look at the [template for official tournaments](./Template) as a reference for how an acceptable tournament wiki page should look.
+## Template
 
-Please make sure to read the README on the [front page of this repository](https://github.com/ppy/osu-wiki) for other contributing guidelines.
+It's usually easiest to start from the [tournament template](template.md) if you're adding a new tournament. It contains a guide written in HTML comments to help you set everything up.
