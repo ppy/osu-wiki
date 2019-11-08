@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 0841b01411041200f0ea78b88c6a4c8aa879b711
+---
+
 # osu!mania
 
 **osu! mania Ranking Criteria** 는 osu!mania의 특정한 난이도를 만드는 데 적용되는 Rule(규칙)과 Guideline(가이드라인)입니다.
