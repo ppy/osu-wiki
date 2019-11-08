@@ -2,7 +2,7 @@
 
 *For a list of promotions and retirements, see: [Staff Log](/wiki/Staff_Log)*
 
-The people listed below are the core of the osu!team, and are chiefly responsible for helping make the game awesome for everyone.
+The people listed below are the core of the **osu!team** and are chiefly responsible for helping make the game awesome for everyone.
 
 | Name | Description |
 | :-- | :-- |
