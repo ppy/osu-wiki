@@ -10,29 +10,29 @@ A beatmap's creator can mark their submissions as `Work-in-progress` or `Pending
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and these beatmappers are often required to re-do their beatmaps from scratch.
 
-Before being nominated for ranking, beatmapsets need to receive [Hype](/wiki/Glossary#hype) posts from at least five different users.
+Before being nominated for ranking, beatmapsets need to receive [hype](/wiki/Glossary#hype) posts from at least five different users.
 
 ## Nominations
 
-Members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) are experienced modders who are capable of nominating beatmapsets for ranking. Their role is to ensure a beatmapset meets the [Ranking Criteria](/wiki/Ranking_Criteria) and their own personal quality standards.
+Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) are experienced modders who are capable of nominating beatmapsets for ranking. Their role is to ensure a beatmapset meets the [ranking criteria](/wiki/Ranking_Criteria) and their own personal quality standards.
 
-Members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) may also nominate beatmaps, however that is not their primary role.
+Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
 
 It is recommended to receive mods before requesting nominations from Beatmap Nominators, however five Hypes are the only pre-requisite.
 
 ## Qualification
 
-Beatmaps that receive two nominations are moved to the [Qualified](wiki/Beatmaps/#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [Performance Points](/wiki/Performance_Points).
+Beatmaps that receive two nominations are moved to the [Qualified](wiki/Beatmaps#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page.
 
-## Nomination Resets
+## Nomination resets
 
 A beatmapset's nomination count is reset so that its most up-to-date version is evaluated by two capable modders before being added to the ranking queue.
 
 Nominations can be reset when a beatmapset's creator updates the set or when a member of the BN or NAT finds a problem in a nominated beatmapset. If a beatmapset is qualified when its nominations are reset, the set will be disqualified, removing it from the ranking queue.
 
-Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmapsets they believe have quality issues that are unrelated to the Ranking Criteria. In some cases, a beatmapset's nominations can be reset by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) when it involves inappropriate content.
+Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmapsets they believe have quality issues that are unrelated to the Ranking Criteria. In some cases, a beatmapset's nominations can be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when it involves inappropriate content.
 
 When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for two days, then disqualified and re-qualified, it will remain in the Qualified category for five more days. All beatmapsets are qualified for a total of seven days before reaching Ranked status.
 
