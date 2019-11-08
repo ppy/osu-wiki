@@ -170,7 +170,6 @@ tags:
             -   [Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules)
         -   [Developers](/wiki/People/The_Team/Developers)
         -   [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-            -   [Language Moderators](/wiki/People/The_Team/Language_Moderators)
         -   [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
         -   [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
         -   [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
