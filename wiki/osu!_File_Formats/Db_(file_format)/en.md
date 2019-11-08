@@ -56,7 +56,7 @@ Some data types specific to osu!.db are defined below.
 
 | Data type | Description |
 | --------- | ----------- |
-| Int | Size in bytes of the beatmap entry. Only present if version is less than 20191107. |
+| Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
 | String | Artist name, in Unicode |
 | String | Song title |
