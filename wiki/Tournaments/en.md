@@ -316,7 +316,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ## See also
 
-- [Tournament articles template](/wiki/Tournaments/Template)
 - [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 

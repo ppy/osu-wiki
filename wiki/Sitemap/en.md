@@ -357,7 +357,6 @@ tags:
         -   [2018](/wiki/Tournaments/SST/2018)
     -   [T2T](/wiki/Tournaments/T2T)
         -   [2019](/wiki/Tournaments/T2T/2019)
-    -   [Template](/wiki/Tournaments/Template)
     -   [THOM CUP](/wiki/Tournaments/THOM_CUP)
         -   [1](/wiki/Tournaments/THOM_CUP/1)
     -   [TMT](/wiki/Tournaments/TMT)
