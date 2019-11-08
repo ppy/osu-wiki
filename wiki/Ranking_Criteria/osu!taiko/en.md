@@ -10,11 +10,13 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
+<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -79,7 +81,9 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-t.png) Kantan
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -98,12 +102,18 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-t.png) Futsuu
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
 - **If a 1/3 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such.
 - **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
+
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+
+- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
@@ -113,13 +123,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - **You should insert at least 1 rest moment that is 2/1 or longer after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
-If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has to abide by the following rules and guidelines:
-
-#### Rules
-
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
-
-#### Guidelines
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
 - **1/2 patterns should not be longer than five notes.**
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
@@ -129,7 +133,9 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -151,7 +157,9 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or less
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-t.png) Oni
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -172,7 +180,9 @@ If you plan on using a __Futsuu as the lowest difficulty of a mapset__, it has t
 - Overall Difficulty should be 5 or more
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Критерии ранкинга
 
 *Для критериев ранкинга определенного режима: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), и [osu!mania](/wiki/rc_osu!mania)*
