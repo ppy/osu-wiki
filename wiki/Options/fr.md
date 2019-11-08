@@ -4,7 +4,7 @@ outdated: true
 
 <img src="FrOptionsGeneral.png" title="Menu des options (l&#39;interface à gauche)" alt="Menu des options (l&#39;interface à gauche)" width="400" />
 
-# Options
+# Option du jeu
 
 Le menu d'options d'osu! vous donne l'accès à un large panel d'options. Chaque option sera expliquée en détail sur cette page. Vous aurez à les fouiller si osu! rame sur votre ordinateur ou si certains éléments s'affichent mal.
 
