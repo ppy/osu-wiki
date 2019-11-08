@@ -9,14 +9,14 @@ Ce tutoriel est destiné pour ceux qui **ne peuvent pas** trouver la vidéo autr
 
 [YouTube](https://www.youtube.com/)
 
--   C'est une super plateforme. Si la musique a un clip vidéo, elle sera sur YouTube, et sûrement compressée au plus haut point: la vidéo sera d'une qualité acceptable, mais prendra peu de temps à télécharger.
+- C'est une super plateforme. Si la musique a un clip vidéo, elle sera sur YouTube, et sûrement compressée au plus haut point: la vidéo sera d'une qualité acceptable, mais prendra peu de temps à télécharger.
 
-### Télécharger la vidéo
+#### Télécharger la vidéo
 
-[VIXY](http://vixy.net/) (il y en a beaucoup, beaucoup, VRAIMENT beaucoup sur Internet mais on vous conseille celui-ci).
+[noTube](https://notube.net/) (il y en a beaucoup, beaucoup, VRAIMENT beaucoup sur Internet mais on vous conseille celui-ci).
 
-### Enlever l'audio
-
+<!-- markdownlint-disable MD026 -->
 ### Charger la vidéo sur osu!
+<!-- markdownlint-enable MD026 -->
 
 Lancez votre beatmap et appuyez sur `F2`, cliquez sur Insert Background Video. Utilisez la timeline à côté du bouton pour ajuster le temps auquel elle apparaît, et voilà, c'est fini !
