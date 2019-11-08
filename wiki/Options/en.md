@@ -366,7 +366,7 @@ This section is about chat, spectators, multi, and osu!direct.
 | --- | --- | --- | --- |
 | `Discord Rich Presence` | Provides [rich presence data to Discord](/wiki/Guides/Discord_Rich_Presence). | Checkbox | `Enabled` |
 | `Integrate with Yahoo! status display` | Your Yahoo! messenger will show the song you are currently playing or listening to. This needs to be set from the website. | Checkbox | `Disabled` |
-| `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. This needs to be set from the osu!website. | Checkbox | `Disabled` |
+| `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. | Checkbox | `Disabled` |
 | `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter/) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | Checkbox | `Enabled` |
 | `Prefer no-video downloads` | For [osu!supporters](/wiki/osu!supporter/) only. osu!direct downloads will be confined to no-video versions of beatmaps. | Checkbox | `Disabled` |
 

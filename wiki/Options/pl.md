@@ -361,7 +361,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 | --- | --- | --- | --- |
 | `Discord Rich Presence` | Udostępnia [dane rich presence Discordowi](/wiki/Guides/Discord_Rich_Presence) | Pole wyboru | `Włączone` |
 | `Zintegruj ze statusem Yahoo!` | Twój Yahoo! Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
-| `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
+| `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. | Pole wyboru | `Wyłączone` |
 | `Automaycznie pobieraj beatmapy z osu!direct` | Podczas oglądania innych użytkowników czy rozgrywki w trybie wielosobowym, beatmapy będą pobierane automatycznie. | Pole wyboru | `Włączone` |
 | `Pobieraj beatmapy bez wideo w tle` | osu!direct będzie pobierać beatmapy bez wideo w tle. | Pole wyboru | `Wyłączone` |
 
