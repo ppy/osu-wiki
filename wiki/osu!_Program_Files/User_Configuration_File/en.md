@@ -1,6 +1,6 @@
 # User Configuration File
 
-This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these options are available through the in-game [options menu](/wiki/Options), and it is recommended that you change them there. Only edit these values manually if you really must.
+This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot of these options are available through the in-game [options menu](/wiki/Options), and it is recommended that you change them there. Only edit these values manually if you really must.
 
 ## Changeable via the options menu
 
@@ -100,8 +100,8 @@ This is a list of options in the `osu!.{Your_PC_Name}.cfg` file. A lot of these 
 | `ChatRemoveForeign` | 0 or 1 | Filter foreign characters |
 | `LogPrivateMessages` | 0 or 1 | Log private messages |
 | `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
-| `IgnoreList` | Space-separated list | Chat ignore list |
-| `HighlightWords` | Space-separated list | Chat highlight words |
+| `IgnoreList` | Space-separated list of strings | Chat ignore list |
+| `HighlightWords` | Space-separated list of strings | Chat highlight words |
 
 ### Key binds
 

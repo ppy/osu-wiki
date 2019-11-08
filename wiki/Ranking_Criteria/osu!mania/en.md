@@ -10,11 +10,13 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
+<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal
 - ![](/wiki/shared/diff/hard-m.png) Hard
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
+<!-- markdownlint-enable MD045 -->
 
 ### Common terms
 
@@ -85,7 +87,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-m.png) Easy
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -104,11 +108,18 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-m.png) Normal
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
 - **A long note cannot be released during another long note's body.** This requires a level of finger independence that players of this difficulty cannot handle.
+
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+
+- **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
+- **Scroll normalization must be done in beatmaps with variable BPM.**
 
 #### Guidelines
 
@@ -126,22 +137,25 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
 - **Long-term slider velocity changes should be between 0.90x and 1.05x.**
 
-If Normal is the *lowest difficulty of a beatmap set*, it has to abide by these additional **rules**:
-- **Consecutive 1/4 snaps may only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmap set.
-- **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
-- **Scroll normalization must be done in beatmaps with variable BPM.**
-
 Additional guidelines for *4 key Normal* difficulties:
+
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 - **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 Additional guidelines for *7 key Normal* difficulties:
+
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 Bracket patterns should be used sparingly.
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 - **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
+
+- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
+
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-m.png) Hard
+<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -157,22 +171,27 @@ Bracket patterns should be used sparingly.
 - **Long-term slider velocity changes should be between 0.8x and 1.10x.**
 - **Slider Velocity gimmicks should be reactable within 1/2 of a beat or more.**
 
-If Hard is the *lowest difficulty of a beatmap set*, it has to abide by these additional **guidelines**:
-- **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
-- **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
-
 Additional guidelines for *4 key Hard* difficulties:
+
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 Keep jump distance in jumpstream at a 1/1 or higher interval. Anything denser than that can hurt readability.
 
 Additional guidelines for *7 key Hard* difficulties:
+
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
+If a Hard difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
+
+- **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
+- **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
+
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-m.png) Insane
+<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -183,11 +202,13 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Slider Velocity gimmicks should be reactable within 1/4 of a beat or more when unnormalized and 1/2 of a beat or more when normalized.**
 
 Additional guidelines for *4 key Insane* difficulties:
+
 - **Avoid using chords in the middle of 1/8 streams.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. Additionally, ineffective placement of chords may result in inconsistent 1/4 minijack usage. Using a chord at the beginning or end of a stream is fine.
 - **Using split-jumptrills for 2+ beats that leads to a hand is discouraged.** Unless a beatmap uses jacks or other complex patterns frequently, this pattern is difficult to hit. If a hand is necessary, delete the note before it that would create the mini jack.
 - **Avoid using more than 9-note split-jumptrills.** These are more physically exhausting than other patterns of similar density.
 
 Additional guidelines for *7 key Insane* difficulties:
+
 - **Avoid using 1/4 jacks with 3+ notes in the middle of chordstream.** These require finger independence that is too difficult for players at this level.
 - **In the middle of a long chord stream with a chord every...**
   - ...1/1, there should not be more than 3 notes, except at the beginning/end of a stream, when 4 is acceptable.
@@ -195,7 +216,9 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-m.png) Expert
+<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
