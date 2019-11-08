@@ -7,13 +7,13 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 | Name | Description |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project/community maintenance and Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead and resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organisation and administration |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer and [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
