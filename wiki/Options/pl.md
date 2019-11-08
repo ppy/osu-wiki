@@ -108,7 +108,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 - `Synchronizacja pionowa`: korzystanie z synchronizacji pionowej spowoduje, że gra będzie oczekiwała załadowania klatki przed jej wyświetleniem.
   - Użyj tej opcji jeżeli dolna część ekranu zacina się w porównaniu do górnej.
   - Opcja ta może spowodować ścinki i spowolnienia z powodu oczekiwania na załadowanie każdej klatki.
-- `Bez limitu (podczas gry): Limit klatek na sekundę jest zdejmowany podczas rozgrywki.
+- `Bez limitu (podczas gry)`: Limit klatek na sekundę jest zdejmowany podczas rozgrywki.
   - Poza rozgrywką będzie nakładany limit `240fps`.
 
 ### Rozdzielczość
@@ -359,7 +359,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 
 | Nazwa | Opis | Typ | Domyślnie |
 | --- | --- | --- | --- |
-| `Discord Rich Presence` | Udostępnia dane rich presence Discordowi | Pole wyboru | `Włączone` |
+| `Discord Rich Presence` | Udostępnia [dane rich presence Discordowi](/wiki/Guides/Discord_Rich_Presence) | Pole wyboru | `Włączone` |
 | `Zintegruj ze statusem Yahoo!` | Twój Yahoo! Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
 | `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
 | `Automaycznie pobieraj beatmapy z osu!direct` | Podczas oglądania innych użytkowników czy rozgrywki w trybie wielosobowym, beatmapy będą pobierane automatycznie. | Pole wyboru | `Włączone` |
