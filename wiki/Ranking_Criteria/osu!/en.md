@@ -139,7 +139,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 -  **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 -  **Avoid overlapping hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should follow these guidelines in addition to the ones above:
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
 -  **Avoid more than three actively clicked 1/2 rhythms in a row.**
 -  **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.

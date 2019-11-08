@@ -110,6 +110,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **A long note cannot be released during another long note's body.** This requires a level of finger independence that players of this difficulty cannot handle.
 
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+
+- **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
+- **Scroll normalization must be done in beatmaps with variable BPM.**
+
 #### Guidelines
 
 - **HP and OD values should not be higher than 7.5.**
@@ -136,12 +141,7 @@ Bracket patterns should be used sparingly.
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 - **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it must abide by these rules in addition to the ones above:
-
-- **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
-- **Scroll normalization must be done in beatmaps with variable BPM.**
-
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should abide by these guidelines in addition to the ones above:
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
 - **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
 
@@ -172,7 +172,7 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
 
-If a Hard difficulty is required and used as the *lowest difficulty* of a beatmapset, it should follow these guidelines in addition to the ones above:
+If a Hard difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
 - **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
 - **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
