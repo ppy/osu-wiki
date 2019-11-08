@@ -92,6 +92,7 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `PopupDuringGameplay` | 0 or 1 | Show notification popups instantly during gameplay |
 | `NotifyFriends` | 0 or 1 | Show notification popups when friends change status |
 | `AllowPublicInvites` | 0 or 1 | Allow multiplayer game invites from all users |
+| `DiscordRichPresence` | 0 or 1 | Discord Rich Presence |
 | `YahooIntegration` | 0 or 1 | Integrate with Yahoo! status display |
 | `MsnIntegration` | 0 or 1 | Integrate with MSN Live status display |
 | `AutomaticDownload` | 0 or 1 | Automatically start osu!direct downloads |
