@@ -1,33 +1,15 @@
 ---
 tags:
-- {ABBR}
+  - {SHORT_TITLE}
 ---
 
-***This template is currently outdated.*** <https://github.com/ppy/osu-wiki/issues/2621>
+# {TITLE}
 
-<!--
-Find and replace those tags listed below with proper information, then delete this comment.
-{TOURNAMENT_NAME} = tournament name
-{MODE} = game mode
-{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence e.g. MWC 4K 2018
-{ORGANISER} = organiser of the tournament
-{NTH} = installment ordinal number
-{TOURNAMENT_SERIES} = tournament name without its iteration suffix e.g. osu!mania 4K World Cup
-{DRAW_TIME} = Live Drawings (Livestream) time for the tournament
-{TOPIC_NUM} = forum thread number
-{STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
-You will still need to fill other items such as tables, etc.
-Use .png as a default format for images, since .jpg can't handle transparency.
-Alongside this comment, remember to delete all comments across the article after you finish.
--->
+![{SHORT_TITLE} Logo](img/logo.png)
 
-# {TOURNAMENT_NAME}
+The **{TITLE}** (***{SHORT_TITLE}***) is a country-based double-elimination osu! tournament hosted by ![][flag_AU] [peppy](https://osu.ppy.sh/users/2). It is the fifth installment of the {SERIES_TITLE}.
 
-![{ABBR} Logo](img/logo.png)
-
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
-
-## Tournament Schedule
+## Schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -46,8 +28,6 @@ Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_SERIES}.
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  |
@@ -56,7 +36,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 ## Organisation
 
-The {TOURNAMENT_NAME} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The {TITLE} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -91,13 +71,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
----------------------------
+![{SHORT_TITLE} Podium](img/podium.png)
 
-![{ABBR} Podium](img/podium.png)
-
-![{ABBR} Bracket](img/bracket.png)
-
----------------------------
+![{SHORT_TITLE} Bracket](img/bracket.png)
 
 ## Mappools
 
@@ -113,11 +89,9 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
-### Group Stage
+### Group stage
 
 <!-- Tiebreaker beatmap must be bolded -->
-
---------------------------------
 
 ## Match results
 
@@ -140,18 +114,18 @@ Day, date:
 ### Round of 16
 ### Group stage
 
----------------------------------
-
 ## Ruleset
 <!-- For official tournaments it depends on game mode used -->
-### Tournament Rules
-### Tournament Registration
-### Stage Instructions
-### Match Instructions
-### Mappool Instructions
-### Scheduling Instructions
+### General
+### Registration
+### Stages
+### Scheduling
+### Mappools
+### Match procedure
 
 <!--
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->
+
+[flag_AU]: /wiki/shared/flag/AU.gif
