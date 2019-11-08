@@ -60,11 +60,13 @@ If a counter-notice is received by the Designated Agent, osu! may send a copy of
 
 **Postal Address**:
 
+<!-- markdownlint-disable MD040 -->
 ```
 Dean Herbert
 41 Gregory Street
 Wembley, WA, 6014
 Australia
 ```
+<!-- markdownlint-enable MD040 -->
 
 *Last updated 7 November 2019. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
