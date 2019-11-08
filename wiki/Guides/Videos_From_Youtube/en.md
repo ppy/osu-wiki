@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Videos from YouTube
 
 [*The Painless Add Video To Beatmap Process walkthrough.* by: Gilrad](https://osu.ppy.sh/community/forums/topics/639/)
