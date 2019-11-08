@@ -2,7 +2,7 @@
 legal: true
 ---
 
-# Music Licensing
+# osu! Music Licensing
 
 Artists who enter a licensing agreement with osu! are listed under the [Featured Artists](/wiki/Featured_Artists) program. The osu! team regularly reaches out to artists that the community loves and new artists whose music is appropriate for use within the community and game.
 

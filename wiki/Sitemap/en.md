@@ -110,7 +110,7 @@ tags:
 -   [Internet Relay Chat](/wiki/Internet_Relay_Chat)
 -   [Legal](/wiki/Legal)
     -   [Copyright](/wiki/Legal/Copyright)
-        -   [Music Licensing](/wiki/Legal/Copyright/Music_Licensing)
+    -   [Music Licensing](/wiki/Legal/Music_Licensing)
     -   [Privacy](/wiki/Legal/Privacy)
     -   [Terms](/wiki/Legal/Terms)
 -   [Main Page](/wiki/Main_Page)
