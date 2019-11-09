@@ -4,7 +4,7 @@
 
 The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
-All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give feedback for blunders and/or suggestions. Please read through them and either apply the suggestions or return feedback.
+All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give feedback for blunders or suggestions. Please read through them and either apply the suggestions or return feedback.
 
 If you have any suggestions regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
@@ -903,29 +903,32 @@ Avoid: BNs can nominate your beatmapset.
 Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 ```
 
-### Date formatting
+### Date and time
 
-Dates must be written in the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, that is `YYYY-MM-DD`. For example:
+#### Date formatting
 
-- `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
-- `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
-- `17 June, 2013` (`DD MMMM, YYYY`) must be `2013-06-17`
-- `2015 March, 02` (`YYYY MM, DD`) must be `2015-03-02`
-- `2009.09.09` (`YYYY.MM.DD` or `YYYY.DD.MM` and similar) must be `2009-09-09`
-- `2016年02月29日` must be `2016-02-29`
-- `2014년08월18일` must be `2014-08-18`
-- `2010年01月02日` must be `2010-01-02`
+When writing full dates in paragraphs, they must be formatted as `MMMM D, YYYY` (e.g. June 9, 2008); or where the year is omitted, must be `MMMM D` (e.g. July 28). The month and year must be fully written out, while the day is one-digit for days below 10.
 
----
+When writing full dates in tables, they must be formatted as `YYYY-MM-DD` (e.g. 2008-06-09). The year must be fully written out, while the month and day is one-digit for days below 10.
 
-When listing a start and an end date, list the start date first, followed by a forward slash (`/`), followed by the end date. In other words, this format: `{start date}/{end date}`. The start and end date must be written using the `YYYY-MM-DD` format. For example:
+Example:
 
-- `22. - 25. November 2018` should be `2018-11-22/2018-11-25`
-- `June 6, 2009 - August 4, 2011` should be `2009-06-06/2011-08-04`
-- `March 2, 2011 until April 30, 2012` should be `2011-03-02/2012-04-30`
-- `December 1, 2017 to January 1, 2018` should be `2017-12-01/2018-01-01`
+```markdown
+The tournament will take place between August 16, 2015 and September 1, 2015.
 
-### Time formatting
+## Tournament schedule
+
+| Event | Timestamp |
+| --- | --- |
+| Registration | 2015-08-16/2015-08-17 |
+| Group Stage | 2015-08-19/2015-08-20 |
+| Round of 16 | 2015-08-22/2015-08-23 |
+| Quarterfinals | 2015-08-25/2015-08-26 |
+| Semifinals | 2015-08-28/2015-08-29 |
+| Grand Finals | 2015-08-30/2015-09-01 |
+```
+
+#### Time formatting
 
 Time formatting must be done using the following format:
 
@@ -933,31 +936,41 @@ Time formatting must be done using the following format:
 HH:MM TIMEZONE
 ```
 
-Time is written in 24-hour format and any single digits must be prefixed with a zero. The timezone must be written immediately after the time and should be in UTC+0 for global events or in your timezone for smaller events. Use `UTC` instead of `GMT`. For example:
+Time is written in 24-hour format and any single digits must be prefixed with a zero. The timezone must be written immediately after the time and should be in UTC+0 for global events or in the timezone of the event for smaller events. Use `UTC` instead of `GMT`.
+
+Bad examples:
 
 ```markdown
-Do not: 9:50 PM UTC
-Do not: 13:57 (UTC)
-Do not: 15:30
-Do not: 9:14
+3:30 PM UTC
+22:30 (UTC+7)
+11:30
+```
 
-Do:     15:23 UTC
-Do:     08:45 UTC+0
-Do:     09:09 UTC+7
-Do:     07:15 UTC-4
+Good examples:
+
+```markdown
+15:30 UTC
+22:30 UTC+7
+11:30 UTC-4
 ```
 
 `UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but usage must be consistent. UTC with a 0 offset must use a plus symbol (`+`).
 
-### Date and time formatting
+#### Date and time formatting
 
 When both date and time are used together, the date must be written first followed by the time. The time must be in between round brackets (`(` and `)`). For example:
 
-```markdown
-Do not: 2018-04-01 at 15:26 UTC
-Do not: 2017-03-31 17:26 UTC
+Bad examples:
 
-Do:     2016-02-26 (11:26 UTC)
+```markdown
+October 25, 2016 at 11:45 UTC
+October 25, 2016 11:45 UTC
+```
+
+Good example:
+
+```markdown
+October 25, 2016 (11:45 UTC)
 ```
 
 ### Serial comma
