@@ -2,15 +2,15 @@
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
 
-Beatmaps are game levels in [osu!](/wiki/Glossary#osu!), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/Storyboards).
+Beatmaps are difficulties in osu!. They consist of a song, multiple [hit objects](/wiki/Hit_Objects), a background image/video, or a [storyboard](/wiki/Storyboards).
 
-Beatmaps can be uploaded by the [BSS](/wiki/Glossary#bss) (Beatmap Submission System) and then run through an approval process called [modding](/wiki//wiki/Glossary#modder) in order to maintain the high standards of playability.
+Beatmaps can be uploaded using the [BSS](/wiki/Glossary#bss) (Beatmap Submission System), then the beatmap runs through an approval process called [modding](/wiki/Modding), which is to maintain the [Ranking Criteria](/wiki/Ranking_Criteria)
 
-You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on the osu! website.
+You can find beatmaps on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on the osu! website, or in [beatmap packs](https://osu.ppy.sh/beatmaps/packs).
 
 ## Ranked Statuses
 
-Both ranked and approved beatmaps require approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators). They can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
+Both ranked and approved beatmaps require approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before they can be ranked. They can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
 
 ### Ranked
 
@@ -67,8 +67,8 @@ All pending beatmaps do not affect user statistics.
 
 Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
-These beatmaps were initially pending, but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
+These beatmaps were initially pending, but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks (28 days). These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by updating the beatmap in the in-game editor.
 
-All graveyarded beatmaps do not affect user statistics.
+All graveyarded beatmaps don't affect user statistics.
 
 For the sake of having digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.
