@@ -411,27 +411,27 @@ Code blocks must use the triple grave marks. If needed, the code block may be se
 
 ### Links
 
-Links must use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference links must be placed at the bottom of the article.
+There are two types of links: inline and reference. Examples:
 
-The link text must not be the URL itself. They also should not use the word `here` as the link text.
-
----
-
-Here are examples of inline and reference style links:
+**Inline style:**
 
 ```markdown
-Inline style:
-
 [Game Modifiers](/wiki/Game_Modifiers)
+```
 
----
+**Reference style:**
 
-Reference style:
-
+```
 [Game Modifiers][game mod link]
 
 [game mod link]: /wiki/Game_Modifiers
 ```
+
+---
+
+Links must use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference links must be placed at the bottom of the article.
+
+The link text must not be the URL itself and should not use the word `here`.
 
 #### Internal links
 
