@@ -1,6 +1,6 @@
 # GitHub Web Interface
 
-*This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
 
 ## Editing
 
@@ -80,7 +80,7 @@
 
 ![](img/online-commit-changes-empty.jpg "Please don't leave these empty!")
 
-2\. **Whatever you do, never leave the title textbox empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
+2\. **Whatever you do, never ever leave the title textbox empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
 
 3\. You can use the optional description to be more detailed if needed. A good commit may look something like this:
 
@@ -90,7 +90,7 @@
 
 5\. Name this branch to whatever you want, just make sure you note the name you chose.
 
-6\. Click on the green button; it will read either `Propose file change` or `Commit changes`, depending if you are creating a new branch or not.
+6\. Click on the green button. It will read either `Propose file change` or `Commit changes`, depending if you are creating a new branch or not.
 
 7\. This will do two things, save your changes into the branch you just named and it will open the pull request page.
 
