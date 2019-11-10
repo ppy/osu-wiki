@@ -52,14 +52,17 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 ## Editing online or locally
 
-At this point, you have two choices:
+Here, you have two choices:
 
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
 
+**Also, be sure to put your local changes in a new branch. Putting your changes in the master branch of your fork and making a pull request with it is an anti-PR.**
+
 *Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.*
 
 **When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
+
 
 ## Finishing
 
@@ -105,4 +108,4 @@ Once you have created your pull request, other osu! wiki editors may review your
 
 ### Merging
 
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five or six hours to appear live on the osu! wiki.
