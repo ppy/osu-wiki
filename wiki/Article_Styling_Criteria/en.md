@@ -907,26 +907,9 @@ Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 
 #### Date formatting
 
-When writing full dates in paragraphs, they must be formatted as `MMMM D, YYYY` (e.g. June 9, 2008); or where the year is omitted, must be `MMMM D` (e.g. July 28). The month and year must be fully written out, while the day is one-digit for days below 10.
+*For date formatting, see [Wikipedia's Manual of Style on Date formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
 
-When writing full dates in tables, they must be formatted as `YYYY-MM-DD` (e.g. 2008-06-09). The year must be fully written out, while the month and day is one-digit for days below 10.
-
-Example:
-
-```markdown
-The tournament will take place between August 16, 2015 and September 1, 2015.
-
-## Tournament schedule
-
-| Event | Timestamp |
-| --- | --- |
-| Registration | 2015-08-16/2015-08-17 |
-| Group Stage | 2015-08-19/2015-08-20 |
-| Round of 16 | 2015-08-22/2015-08-23 |
-| Quarterfinals | 2015-08-25/2015-08-26 |
-| Semifinals | 2015-08-28/2015-08-29 |
-| Grand Finals | 2015-08-30/2015-09-01 |
-```
+Date formatting must be consistent throughout the entire article.
 
 #### Time formatting
 
