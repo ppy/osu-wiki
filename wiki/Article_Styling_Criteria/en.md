@@ -110,6 +110,8 @@ tags:
 
 ### Folder names
 
+Folder names must use sentence case and must match their article titles.
+
 Folder names must not use URL reserved characters. They must only use these characters:
 
 - uppercase letters
@@ -252,13 +254,15 @@ Italics must be used only when naming a video game or the name of a work. osu!, 
 
 ### Headings
 
-Headings must not be used to style or format text. Limit to a heading level of 5. Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading, with exception for the title heading.
+All headings must use sentence case. They must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading, with an exception for the title heading when it is on the first line.
+
+Headings must not exceed a heading level of 5 and must not be used to style or format text.
 
 #### Titles
 
 *Notice: Article titles must not be escaped, as they are parsed as plain text.*
 
-The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles headings must use title case and must not contain formatting, links, or images.
+The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Title headings must not contain formatting, links, or images.
 
 The title heading must be on the first line, unless [metadata](#metadata) is being used. If that is the case, the title heading must go after it and have an empty line before the title heading.
 
@@ -266,7 +270,7 @@ The title of an article must match the folder name it is located in (spaces may 
 
 #### Sections
 
-Section headings must use levels 2 to 5 and use sentence case. The section heading proceeding the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings may have small image icons.
+Section headings must use levels 2 to 5. The section heading proceeding the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings may have small image icons.
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
