@@ -2,7 +2,7 @@
 
 Thanks for your interest in making the osu! wiki better! This quick-start guide is intended for newcomers that have never worked with GitHub and the osu! wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
 
-If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
+If during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
 
 ## Getting started
 
