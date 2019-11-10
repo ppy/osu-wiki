@@ -63,7 +63,6 @@ Here, you have two choices:
 
 **When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
 
-
 ## Finishing
 
 ### Opening a pull request
