@@ -8,7 +8,7 @@ outdated: true
 
 Beatmaps are difficulties in osu!. They consist of a song, multiple [hit objects](/wiki/Hit_Objects), a background image/video, or a [storyboard](/wiki/Storyboards).
 
-Beatmaps can be uploaded using the [BSS](/wiki/Glossary#bss) (Beatmap Submission System), then the beatmap runs through an approval process called [modding](/wiki/Modding), which is to maintain the [Ranking Criteria](/wiki/Ranking_Criteria)
+Beatmaps can be uploaded using the [BSS](/wiki/Submission) (Beatmap Submission System), then, the beatmap runs through an approval process called [modding](/wiki/Modding), which is to maintain the [Ranking Criteria](/wiki/Ranking_Criteria)
 
 You can find beatmaps on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on the osu! website, or in [beatmap packs](https://osu.ppy.sh/beatmaps/packs).
 
@@ -38,9 +38,9 @@ These beatmaps are in the last stage of the beatmapping and modding process. Bef
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
-When a beatmap is qualified, it has passed the [ranking criteria](/wiki/Ranking_Criteria) and has been approved by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming ranked/approved permanently.
+When a beatmap is qualified, it passed the [ranking criteria](/wiki/Ranking_Criteria), and has been approved by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming ranked/approved permanently.
 
-During the one week duration, however, [QATs](/wiki/Glossary#quality-assurance-team) are allowed to write issues with the beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
+During the one week duration, however, [Quality Assurance Team members](/wiki/Glossary#quality-assurance-team) are allowed to write issues with the beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
 
 ### Loved
 
@@ -53,7 +53,7 @@ These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted if the creator updates the beatmap.
 
-For a beatmap to be Loved, it must go through the [community voting process](/wiki/Project_Loved#moving-a-beatmap-to-loved).
+For a beatmap to be in the Loved category, it must first go through the [community voting process](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
 ### Pending
 
