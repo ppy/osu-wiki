@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmaps
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
