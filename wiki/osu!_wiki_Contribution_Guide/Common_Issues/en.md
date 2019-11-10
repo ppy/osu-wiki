@@ -42,7 +42,7 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-To resolve this, there is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+To resolve this, there is a service/script called Upriver. It will "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
 
 1. Go to [Upriver](https://upriver.github.io/).
 2. Click `Sign in with GitHub`, skip this if you have already done this.
@@ -64,7 +64,7 @@ If nothing wrong happens, your master branch on your fork will be even with `ppy
 There are two reasons for why this could have happened:
 
 - You edited a file when your branch was out of date.
-- There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours. (Technicality, this caused your edited files to become out of date).
+- There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours. This caused your edited files to become out of date.
 
 Depending on the severity of the conflicts, you may have two options to fix this.
 
