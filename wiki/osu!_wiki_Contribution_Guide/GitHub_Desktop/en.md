@@ -22,13 +22,13 @@
 
 ![](img/github-desktop-select-repo.jpg)
 
-4\. Click `Clone`. This may take a while depending on your network environment.
+4\. Click `Clone`. This may take a while depending on your internet speed.
 
 5\. Continue to [Branching](#branching).
 
 ## Branching
 
-*Note: This is technically optional, but is heavily recommended due to reasons that you will need to look up for yourself.*
+*Note: This is optional, but is heavily recommended due to reasons that you will need to look up for yourself.*
 
 1\. Click on the `Current branch` dropdown. This is located at the top of the menu.
 
@@ -40,7 +40,7 @@
 
 ## Editing
 
-1\. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
+1\. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the translations.
 
 2\. Once you find the correct file, open it using your favorite text editor.
 
@@ -78,7 +78,7 @@
 
 3\. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file and one for marking the translations as outdated.
+For example, as pictured above, [pippi](/wiki/Mascots/#pippi) has added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file and one for marking the translations as outdated.
 
 4\. Select the files that are going to be committed.
 
