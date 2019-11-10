@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmaps
 
-*Not to be confused with: [Difficulties](/wiki/Difficulties).*
+*Not to be confused with [Difficulties](/wiki/Difficulties).*
 
 Beatmaps are difficulties in osu!. They consist of a song, multiple [hit objects](/wiki/Hit_Objects), a background image/video, or a [storyboard](/wiki/Storyboards).
 
