@@ -40,7 +40,7 @@
 
 ## Editing
 
-1\. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the translations.
+1\. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
 
 2\. Once you find the correct file, open it using your favorite text editor.
 
