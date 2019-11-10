@@ -1,6 +1,6 @@
 # GitHub Web Interface
 
-*This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*This article continues from the main page.* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
 
 ## Editing
 
