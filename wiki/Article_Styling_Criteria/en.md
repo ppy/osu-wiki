@@ -425,15 +425,13 @@ There are two types of links: inline and reference. Examples:
 
 **Reference style:**
 
+```markdown
+[Game Modifiers][game mods link]
+
+[game mods link]: /wiki/Game_Modifiers
 ```
-[Game Modifiers][game mod link]
 
-[game mod link]: /wiki/Game_Modifiers
-```
-
----
-
-Links must use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference links must be placed at the bottom of the article.
+Links must use the inline style if they are only referenced once. References to reference links must be placed at the bottom of the article.
 
 The link text must not be the URL itself and should not use the word `here`.
 
