@@ -1,5 +1,6 @@
 ---
-layout: "main_page"
+layout: main_page
+outdated: true
 ---
 
 <div class="wiki-main-page__blurb">
