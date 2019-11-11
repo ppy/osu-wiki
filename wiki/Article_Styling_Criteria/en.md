@@ -504,25 +504,25 @@ There are no visual differences between external and osu! web links. Due to this
 
 ### Images
 
-Images should use the inline style if they are only referenced once; otherwise, it may use the reference style. References to reference-styled links must be placed at the bottom of the article.
+There are two types of image links: inline and reference. Examples:
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles must be stored in the `/wiki/shared/` folder.
-
----
+**Inline style:**
 
 ```markdown
-Inline style:
-
 ![](/wiki/shared/flag/AU.gif)
+```
 
----
+**Reference style:**
 
-Reference style:
-
+```markdown
 ![][flag_AU]
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 ```
+
+Images should use the inline linking style if they are only referenced once. References to reference links must be placed at the bottom of the article.
+
+Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles must be stored in the `/wiki/shared/` folder.
 
 #### Formats and quality
 
