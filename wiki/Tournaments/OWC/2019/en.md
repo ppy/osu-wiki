@@ -111,8 +111,8 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_FI] | Finland | **11:00 UTC** | 22:00 UTC+11 | 13:00 UTC+02 |
-| Romania | ![][flag_RO] | ![][flag_JP] | Japan | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| Romania | ![][flag_RO] | ![][flag_JP] | Japan | **13:00 UTC** | 15:00 UTC+02 | 22:00 UTC+09 |
 | Indonesia | ![][flag_ID] | ![][flag_IT] | Italy | **14:00 UTC** | 21:00 UTC+07 | 15:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_AT] | Austria | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
 | Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
