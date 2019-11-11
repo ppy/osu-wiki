@@ -33,7 +33,7 @@ Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun e
 6.  **Ne postez pas de publicités, de liens de référence ou autre contenu intrusif et dérangeant.** Ces types de liens sont amusants pour la personne les postant et dérangeant pour les autres, donc ne le faites pas. Les contenus qui se chargent et/ou s'activent tout seuls sont soumis à cette règle.
 7.  **Les liens vers des applications avec des intentions qui ne sont pas claires ne sont pas autorisés.** Pour faire simple, si vous avez des doutes sur la légalité d'une application, elle ne devrait pas être postée.
 
-## Règles de Soumission des Beatmaps
+ ## Règles de soumission des beatmaps
 
 *Note: Ces règles s'appliquent à **toutes les maps soumises**, et non qu'aux ranked. Pour des règles plus spécifiques sur les beatmaps ranked, voir les [Ranking Criteria](/wiki/Ranking_Criteria).*
 
