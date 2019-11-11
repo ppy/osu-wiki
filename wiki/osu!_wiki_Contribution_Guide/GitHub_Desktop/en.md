@@ -22,7 +22,7 @@
 
 ![](img/github-desktop-select-repo.jpg)
 
-4\. Click `Clone`. This may take a while depending on your internet speed.
+4\. Click `Clone`. This may take a while, depending on your internet speed.
 
 5\. Continue to [Branching](#branching).
 
