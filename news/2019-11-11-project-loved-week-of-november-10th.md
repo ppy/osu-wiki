@@ -102,7 +102,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 124 BPM, 1:24 | 2.14★ – 7.77★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-This mapset really is something. Spectator and everyone else who participated are already quite known in the osu!catch mapping community. Spectator himself made a few difficulties mimicking [Drafura](https://osu.ppy.sh/users/326099) and [rul=https://osu.ppy.sh/users/410]Starrodkirby86[/url]'s mapping styles, and yet another one with his own style.
+This mapset really is something. Spectator and everyone else who participated are already quite known in the osu!catch mapping community. Spectator himself made a few difficulties mimicking [Drafura](https://osu.ppy.sh/users/326099) and [Starrodkirby86](https://osu.ppy.sh/users/410)'s mapping styles, and yet another one with his own style.
 
 Every single difficulty in this mapset has a very unique feeling to it. Not one of the difficulties plays the same—everyone did their own thing whether it is low or high approach rate, low or high circle size (or even both!)—it really has everything. Try it out and see for yourself!
 
@@ -143,7 +143,7 @@ It's about time we bring in a pack from Onta_Metalslug (previously, and more wel
 [Miku (Vocal by Nobunaga) - Shinkai Shoujou](https://osu.ppy.sh/beatmapsets/149086#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)  
 137 BPM, 3:31 | [7K] 5.31★
 
-Prepare yourselves for yet another serving of Cuppp noodles cause we're having *Shinkai Shoujou* for this round! While being a much easier map compared to most of their other stuff, *Shinkai Shoujou* has quite the exposure from seeing play in MWC 7K 2017 semis and an early iteration of the [Jinjin dans](https://osu.ppy.sh/users/3360737). At a seemingly harmless speed of 137 BPM, the map requires some O2Jam fundamentals when it comes to finger independence. Column specific inversions at 1|2|3, 5|6|7, and 1|3|5|7 are used noticeably with occasional anchors that gets paired with 1/4 trilling. Not very scary but it can be a little tasking while trying to hold other noodles. Topped off with some isolated quirky patterns, *Shinkai Shoujou* may be a neat little chart to look back at for those who struggled to master LNs back in the day.
+Prepare yourselves for yet another serving of Cuppp noodles cause we're having *Shinkai Shoujou* for this round! While being a much easier map compared to most of their other stuff, *Shinkai Shoujou* has quite the exposure from seeing play in MWC 7K 2017 semis and an early iteration of the [Jinjin](https://osu.ppy.sh/users/3360737) dans. At a seemingly harmless speed of 137 BPM, the map requires some O2Jam fundamentals when it comes to finger independence. Column specific inversions at 1|2|3, 5|6|7, and 1|3|5|7 are used noticeably with occasional anchors that gets paired with 1/4 trilling. Not very scary but it can be a little tasking while trying to hold other noodles. Topped off with some isolated quirky patterns, *Shinkai Shoujou* may be a neat little chart to look back at for those who struggled to master LNs back in the day.
 
 ---
 
