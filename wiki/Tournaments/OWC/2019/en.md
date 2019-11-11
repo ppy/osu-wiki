@@ -56,8 +56,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ## Participants
 
-### Registered teams
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[SlowBurn](https://osu.ppy.sh/users/3608846)**, [AxelOsu](https://osu.ppy.sh/users/1887616), [Cata](https://osu.ppy.sh/users/5958063), [juliancala](https://osu.ppy.sh/users/3272902), [Penguo](https://osu.ppy.sh/users/4389490), [Rimi](https://osu.ppy.sh/users/5194834), [Zaqlev](https://osu.ppy.sh/users/3188703), [Ceja](https://osu.ppy.sh/users/4185921) |
@@ -104,15 +102,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | ![][flag_UY] | **Uruguay** | **[Daanit](https://osu.ppy.sh/users/6159669)**, [-PloX](https://osu.ppy.sh/users/6404583), [-Ritsumi-](https://osu.ppy.sh/users/5218320), [Snepif](https://osu.ppy.sh/users/408088), [Madozito](https://osu.ppy.sh/users/4054429), [Makoto chan](https://osu.ppy.sh/users/8987016), [Rebo](https://osu.ppy.sh/users/6942259), [Rekaru](https://osu.ppy.sh/users/4152967) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [- Eucliwood -](https://osu.ppy.sh/users/1587427), [boylanklunk_9x](https://osu.ppy.sh/users/7050175), [Hoaq](https://osu.ppy.sh/users/7696512), [iPhong](https://osu.ppy.sh/users/8621733), [Shironi](https://osu.ppy.sh/users/8660120), [Ui chan](https://osu.ppy.sh/users/5449433) |
 
-### Qualified teams
-
-| Seed | Teams |
-| --- | --- |
-| Top (#1 - #8) | ![][flag_US] United States, ![][flag_GB] United Kingdom, ![][flag_PL] Poland, ![][flag_CA] Canada, ![][flag_BR] Brazil, ![][flag_DE] Germany, ![][flag_TW] Taiwan, ![][flag_AU] Australia |
-| High (#9 - #16) | ![][flag_KR] South Korea, ![][flag_NL] Netherlands, ![][flag_CN] China, ![][flag_RU] Russian Federation, ![][flag_ID] Indonesia, ![][flag_RO] Romania, ![][flag_HK] Hong Kong, ![][flag_SE] Sweden |
-| Low (#17 - #24) | ![][flag_FR] France, ![][flag_NO] Norway, ![][flag_JP] Japan, ![][flag_IT] Italy, ![][flag_AT] Austria, ![][flag_MX] Mexico, ![][flag_SG] Singapore, ![][flag_NZ] New Zealand |
-| Unseeded (#25 - #32) | ![][flag_FI] Finland, ![][flag_DK] Denmark, ![][flag_CL] Chile, ![][flag_BE] Belgium, ![][flag_CZ] Czech Republic, ![][flag_ES] Spain, ![][flag_LV] Latvia, ![][flag_TR] Turkey |
-
 ---
 
 ## Match Schedule: Round of 32
@@ -125,9 +114,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Romania | ![][flag_RO] | ![][flag_JP] | Japan | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
 | Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Indonesia | ![][flag_ID] | ![][flag_IT] | Italy | **14:00 UTC** | 21:00 UTC+07 | 15:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Brazil | ![][flag_BR] | ![][flag_BE] | Belgium | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 |
+| Russian Federation | ![][flag_RU] | ![][flag_AT] | Austria | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
+| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
 | United States | ![][flag_US] | ![][flag_TR] | Turkey | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 |
+| Brazil | ![][flag_BR] | ![][flag_BE] | Belgium | **19:00 UTC** | 16:00 UTC-03 | 20:00 UTC+01 |
 
 ### Sunday, 17 November 2019
 
@@ -138,7 +128,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Taiwan | ![][flag_TW] | ![][flag_DK] | Denmark | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Netherlands | ![][flag_NL] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
 | Sweden | ![][flag_SE] | ![][flag_FR] | France | **14:00 UTC** | 15:00 UTC+01 | 15:00 UTC+01 |
-| Russian Federation | ![][flag_RU] | ![][flag_AT] | Austria | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_LV] | Latvia | **16:00 UTC** | 16:00 UTC | 18:00 UTC+02 |
 | Germany | ![][flag_DE] | ![][flag_CL] | Chile | **17:00 UTC** | 18:00 UTC+01 | 14:00 UTC-03 |
 | Canada | ![][flag_CA] | ![][flag_CZ] | Czech Republic | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
