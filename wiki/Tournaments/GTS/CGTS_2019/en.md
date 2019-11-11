@@ -201,41 +201,45 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ---
 
-## Match Results
+## Match results
 
 ### Regional phase
 
 #### Round of 32
 
-| Saturday, 2019-11-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **AlvaroYL** ![][flag_ES] | **5** | 0 | ![][flag_NO] Mills | [#1](https://osu.ppy.sh/mp/56136672) |
-| **Acrith** ![][flag_PL] | **5** | 0 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/mp/56138197) |
-| -Akitai- ![][flag_FR] | 2 | **5** | ![][flag_FI] **vodnanen** | [#1](https://osu.ppy.sh/mp/56138342) |
-| **coed** ![][flag_IT] | **5** | 2 | ![][flag_RU] pavlukivan | [#1](https://osu.ppy.sh/mp/56139738) |
-| **Naninub** ![][flag_RU] | **5** | 2 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/mp/56139695) |
-| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_NL] StrijkIjzer | [#1](https://osu.ppy.sh/mp/56141500) |
-| **frz** ![][flag_DE] | **5** | 4 | ![][flag_FI] duski | [#1](https://osu.ppy.sh/mp/56141509) |
-| **Genjuro** ![][flag_GR] | **5** | 2 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/mp/56143291) |
-| **\[\_LordEnder\_\]** ![][flag_IT] | **5** | 0 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/mp/56143298) |
-| **goheegy** ![][flag_GB] | **5** | 0 | ![][flag_RU] TwinT | [#1](https://osu.ppy.sh/mp/56143387) |
-| **BananaW** ![][flag_FR] | **5** | 0 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/mp/56145214) |
-| **bernard351** ![][flag_PL] | **5** | 2 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/mp/56145204) |
-| **Nurend** ![][flag_SE] | **5** | 1 | ![][flag_MD] OldFriend | [#1](https://osu.ppy.sh/mp/56148915) |
-| **Maitgon** ![][flag_ES] | **5** | 1 | ![][flag_RU] aoe | [#1](https://osu.ppy.sh/mp/56150861) |
-| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_DK] mammasutter | [#1](https://osu.ppy.sh/mp/56150842) |
-| **Ak1o** ![][flag_DE] | **5** | 0 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/mp/56174255) |
+Saturday, 9 November 2019:
 
-| Sunday, 2019-11-10 |  |  |  |  |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| TwinT ![][flag_RU] | 0 | **5** | ![][flag_FR] **-Akitai-** | [#1](https://osu.ppy.sh/mp/56168714) |
-| mammasutter ![][flag_DK] | 3 | **5** | ![][flag_RU] **pavlukivan** | [#1](https://osu.ppy.sh/mp/56169983) |
-| **Akonine** ![][flag_RU] | **5** | 1 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/mp/56170000) |
-| aoe ![][flag_RU] | 1 | **5** | ![][flag_GB] **Teezel** | [#1](https://osu.ppy.sh/mp/56171343) |
+| **AlvaroYL** ![][flag_ES] | **5** | 0 | ![][flag_NO] Mills | [#1](https://osu.ppy.sh/community/matches/56136672) |
+| **Acrith** ![][flag_PL] | **5** | 0 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/56138197) |
+| -Akitai- ![][flag_FR] | 2 | **5** | ![][flag_FI] **vodnanen** | [#1](https://osu.ppy.sh/community/matches/56138342) |
+| **coed** ![][flag_IT] | **5** | 2 | ![][flag_RU] pavlukivan | [#1](https://osu.ppy.sh/community/matches/56139738) |
+| **Naninub** ![][flag_RU] | **5** | 2 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/56139695) |
+| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_NL] StrijkIjzer | [#1](https://osu.ppy.sh/community/matches/56141500) |
+| **frz** ![][flag_DE] | **5** | 4 | ![][flag_FI] duski | [#1](https://osu.ppy.sh/community/matches/56141509) |
+| **Genjuro** ![][flag_GR] | **5** | 2 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/community/matches/56143291) |
+| **\[\_LordEnder\_\]** ![][flag_IT] | **5** | 0 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/community/matches/56143298) |
+| **goheegy** ![][flag_GB] | **5** | 0 | ![][flag_RU] TwinT | [#1](https://osu.ppy.sh/community/matches/56143387) |
+| **BananaW** ![][flag_FR] | **5** | 0 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/56145214) |
+| **bernard351** ![][flag_PL] | **5** | 2 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/56145204) |
+| **Nurend** ![][flag_SE] | **5** | 1 | ![][flag_MD] OldFriend | [#1](https://osu.ppy.sh/community/matches/56148915) |
+| **Maitgon** ![][flag_ES] | **5** | 1 | ![][flag_RU] aoe | [#1](https://osu.ppy.sh/community/matches/56150861) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_DK] mammasutter | [#1](https://osu.ppy.sh/community/matches/56150842) |
+| **Ak1o** ![][flag_DE] | **5** | 0 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/community/matches/56174255) |
+
+Sunday, 10 November 2019:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| TwinT ![][flag_RU] | 0 | **5** | ![][flag_FR] **-Akitai-** | [#1](https://osu.ppy.sh/community/matches/56168714) |
+| mammasutter ![][flag_DK] | 3 | **5** | ![][flag_RU] **pavlukivan** | [#1](https://osu.ppy.sh/community/matches/56169983) |
+| **Akonine** ![][flag_RU] | **5** | 1 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/community/matches/56170000) |
+| aoe ![][flag_RU] | 1 | **5** | ![][flag_GB] **Teezel** | [#1](https://osu.ppy.sh/community/matches/56171343) |
 | StrijkIjzer ![][flag_NL] | -1 | **0** | ![][flag_MD] **OldFriend** | *win by default* |
-| Dayzeek ![][flag_RU] | 1 | **5** | ![][flag_FR] **maximaxiU** | [#1](https://osu.ppy.sh/mp/56175654) |
-| Mills ![][flag_NO] | 0 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/mp/56177248) |
-| cloudfags ![][flag_RU] | 4 | **5** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/mp/56178883) |
+| Dayzeek ![][flag_RU] | 1 | **5** | ![][flag_FR] **maximaxiU** | [#1](https://osu.ppy.sh/community/matches/56175654) |
+| Mills ![][flag_NO] | 0 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/56177248) |
+| cloudfags ![][flag_RU] | 4 | **5** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/56178883) |
 
 ---
 
