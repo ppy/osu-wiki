@@ -80,7 +80,7 @@
 
 ![](img/online-commit-changes-empty.jpg "Please don't leave these empty!")
 
-2\. **Whatever you do, never ever leave the title textbox empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
+2\. **Whatever you do, never leave the title textbox empty!** Instead, enter the article's title and a short summary of all of the changes you made **in English**.
 
 3\. You can use the optional description to be more detailed if needed. A good commit may look something like this:
 
