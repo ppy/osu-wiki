@@ -134,9 +134,11 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | NAT |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu!dev |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | QAT |
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
@@ -187,6 +189,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
 | ![][flag_CN] [Strawberry](https://osu.ppy.sh/users/519978) | BAT |
+| ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | GMT |
 | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | BAT |
 | ![][flag_JP] [Suzully](https://osu.ppy.sh/users/431791) | BAT |
 | ![][flag_US] [Sync](https://osu.ppy.sh/users/806921) | BAT |
@@ -213,7 +216,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Support Team |
 | ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ![][flag_AU] [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |
