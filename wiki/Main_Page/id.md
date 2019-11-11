@@ -1,5 +1,6 @@
 ---
-layout: "main_page"
+layout: main_page
+outdated: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -59,4 +60,3 @@ Pilihan: ([Menysun](/wiki/Beatmap_Editor/Compose) • [Desain](/wiki/Beatmap_Edi
 
 </div>
 </div>
-
