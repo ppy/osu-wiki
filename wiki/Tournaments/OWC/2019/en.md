@@ -106,7 +106,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ### Qualified teams
 
-| Seed | Users |
+| Seed | Teams |
 | --- | --- |
 | Top (#1 - #8) | ![][flag_US] United States, ![][flag_GB] United Kingdom, ![][flag_PL] Poland, ![][flag_CA] Canada, ![][flag_BR] Brazil, ![][flag_DE] Germany, ![][flag_TW] Taiwan, ![][flag_AU] Australia |
 | High (#9 - #16) | ![][flag_KR] South Korea, ![][flag_NL] Netherlands, ![][flag_CN] China, ![][flag_RU] Russian Federation, ![][flag_ID] Indonesia, ![][flag_RO] Romania, ![][flag_HK] Hong Kong, ![][flag_SE] Sweden |
