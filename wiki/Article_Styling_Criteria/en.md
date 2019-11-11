@@ -110,7 +110,7 @@ tags:
 
 ### Folder names
 
-Folder names must use sentence case and must match their article titles.
+Folder names must use sentence case and should match their English article titles.
 
 Folder names must not use URL reserved characters. They must only use these characters:
 
