@@ -2,7 +2,7 @@
 
 Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun et accueillante pour tout le monde.
 
-## Règles de Communauté
+ ## Règles de communauté
 
 1.  **Chaque joueur ne doit avoir qu'*UN* seul compte.** Ce compte c'est vous. Ce n'est personne d'autre - ni votre frère, votre mère, votre sœur, votre ami - c'est VOUS. Ne partagez votre compte avec personne.
 2. **Soyez fair-play.** L'utilisation d'utilitaires tiers, de quelque type que ce soit, pour obtenir un avantage quelconque n'est pas acceptable. Cela inclut des éléments tels que les programmes macro, les programmes d’objectif, la modification de l’échelle de temps, etc. Si un programme fait quelque chose pour vous aider à jouer au jeu alors que vous devriez faire cette chose vous-même, ce n'est pas normal !
