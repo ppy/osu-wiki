@@ -8,7 +8,7 @@ outdated: true
 
 Beatmaps are difficulties in osu!. They consist of a song, multiple [hit objects](/wiki/Hit_Objects), a background image/video, or a [storyboard](/wiki/Storyboards).
 
-Beatmaps can be uploaded using the [BSS](/wiki/Submission) (Beatmap Submission System), then, the beatmap runs through an approval process called [modding](/wiki/Modding), which is to maintain the [Ranking Criteria](/wiki/Ranking_Criteria)
+Beatmaps can be uploaded using the [BSS](/wiki/Submission) (Beatmap Submission System), then run through an approval process called [modding](/wiki/Modding), which is to maintain the [Ranking Criteria](/wiki/Ranking_Criteria).
 
 You can find beatmaps on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on the osu! website, or in [beatmap packs](https://osu.ppy.sh/beatmaps/packs).
 
