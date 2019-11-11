@@ -14,13 +14,13 @@ You can find beatmaps on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) 
 
 ## Ranked Statuses
 
-Both ranked and approved beatmaps require approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before they can be ranked. They can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
+Both ranked and approved beatmaps require approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before they can be ranked. This can influence the stats on a player's profile, which is what makes them different from a [pending](/wiki/Glossary#pending) or [graveyarded](/wiki/Glossary#graveyard) beatmap.
 
 ### Ranked
 
 Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) in the song select screen.
 
-These beatmaps ideally fulfill the [ranking criteria](/wiki/Ranking_Criteria). This is to ensure that most players can expect a certain kind of standard while playing them.
+These beatmaps ideally fulfill the [ranking criteria](/wiki/Ranking_Criteria). This is to ensure that most players can expect a certain standard while playing them.
 
 ### Approved
 
