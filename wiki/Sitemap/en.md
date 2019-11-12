@@ -327,6 +327,7 @@ tags:
         -   [2](/wiki/Tournaments/oSEAT/2)
     -   [osu! Riverside](/wiki/Tournaments/osu!_Riverside)
         -   [MALE](/wiki/Tournaments/osu!_Riverside/MALE)
+        -   [SWEAT](/wiki/Tournaments/osu!_Riverside/SWEAT)
     -   [OTC](/wiki/Tournaments/OTC)
         -   [1](/wiki/Tournaments/OTC/1)
         -   [2](/wiki/Tournaments/OTC/2)
