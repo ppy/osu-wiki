@@ -31,7 +31,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 220 BPM, 1:40 | 6.89★, 7.51★  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-You may have thought that you had all the most fun graveyarded maps out there, but if you don't have this map, you may want to revise your collections. This mapset features two difficulties that mostly feature jumps as well as a few streams to keep those them company. The lively, upbeat energy from this 220 BPM song makes these maps even more enjoyable than they would be otherwise, and that's quite a feat. Despite the map being under two minutes in length, I suggest you set aside some time before you try this map—you might find yourself playing it more than once.
+You may have thought that you had all the most fun graveyarded maps out there, but if you don't have this map, you may want to revise your collections. This mapset features two difficulties; one featuring mostly jumps, and the other featuring mostly streams. The lively, upbeat energy from this 220 BPM song makes these maps even more enjoyable than they would be otherwise, and that's quite a feat. Despite the map being under two minutes in length, I suggest you set aside some time before you try this map—you might find yourself playing it more than once.
 
 [![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/osu/2-lord-of-the-game-ft-mexican-girl.jpg)](https://osu.ppy.sh/community/forums/topics/984617)
 
