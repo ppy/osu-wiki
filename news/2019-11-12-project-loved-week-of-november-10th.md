@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Project Loved: Week of November 10th"
 date: 2019-11-12 22:00:00 +0000
