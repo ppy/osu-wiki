@@ -35,16 +35,16 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 4. Locate and open the beatmapset file, it has an `.osz` extension.
     - Alternatively, you can also place the beatmapset file into the `Songs` directory of the osu! installation.
 5. osu! will automatically handle the rest for you and load the beatmapset.
-    - If, for any reason, you do not see them, press `F5` in [Solo mode](/wiki/Solo_mode) to re-process your beatmaps.
+    - If, for any reason, you do not see them, press `F5` in Solo mode to re-process your beatmaps.
 
 ### osu!direct
 
-*Note: You need to have osu!supporter tag and internet connection to use osu!direct.*
+*Note: You need to have an osu!supporter tag and an internet connection to use osu!direct.*
 
 1. Open osu!, if you hadn't already.
-2. Find a song you like to play.
+2. Find a song that you would like to play.
 3. Double click the the song on the list or click `Download` on the right to download it.
-    - If you do not want to download the video, click `DL NoVideo` instead.
+    - If you don't want to download the video that comes along with the beatmapset, click `DL NoVideo` instead.
 4. When osu! is done downloading the beatmapset, it will automatically load it if you are in Solo mode, at the [Song Selection](/wiki/Song_Selection) screen.
     - If, for any reason, you do not see them, press `F5` in [Solo mode](/wiki/Solo_mode) to re-process your beatmaps.
 
@@ -52,7 +52,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 *See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
 
-1. Go to the [skinning subforums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
+1. Go to the [skinning forums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
 2. Once you find a skin, download it.
 3. Depending on how the skinner has packaged their skin, you may need to do different things.
     - If the skin is using `.osk`:
