@@ -11,7 +11,7 @@ Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun e
 4.  **Nous sommes une communauté tout-âges.** Ça signifie que les contenus 18+/NSFW (not safe for work) comme l'usage de drogues ou des discussions à nature sexuelles n'ont rien à faire ici. Exceptions faites pour les endroits où il est indiqué que c'est autorisé, mais généralement, restez neutres.
 5.  **Où les règles ne règnent pas, faites appel au bon sens.** Le jugement à appliquer est décidé à la discrétion de l'administration.
 
-## Règles du Chat En-Jeu
+## Règles du chat en-jeu
 
 1.  **Soyez respectueux et conscient des autres utilisateurs du canal, et évitez le flood ou le spam.** Une seule personne prenant jusqu'à la moitié de l'écran est assez dérangeante, c'est donc un comportement à éviter tant que possible. Les autres ont aussi le droit de chatter !
 2.  **Laissez les modérateurs gérer les problèmes du chat.** Vous pouvez les prévenir avec la commande `!report`, ils se chargeront du reste.
@@ -23,7 +23,7 @@ Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun e
 8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'osu! est à propos d'osu! et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
 9.  **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
-## Règles du Forum
+## Règles du forum
 
 1.  **Ne postez que des discussions/contenus qui ont du sens, qui sont intéressants ou engageants.** Les forums sont tout d'abord faits pour les discussions, donc assurez-vous que vous ne ferez pas perdre de temps aux personnes qui liront vos publications.
 2.  **Faites en sorte que vos publications et réponses soient acceptables pour tous les âges.** Le contenu NSFW n'est pas approprié pour une communauté tout-âges, mais rien ne vous empêche d'en discuter en messages privés.
@@ -44,7 +44,7 @@ Ces règles s'appliquent aux maps soumises strictements via le [Système de soum
 3.  **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 4. **Suivez les [Règles sur le contenu des chansons](Song_Content_Rules) et [les considérations sur le contenu visuel](Visual_Content_Considerations).**
 
-## Règles du Off-Topic
+## Règles du off-topic
 
 *Les règles ci-dessous ne s'appliquent qu'au sous-forum [Off-Topic](https://osu.ppy.sh/community/forums/52) sauf mention contraire.*
 
