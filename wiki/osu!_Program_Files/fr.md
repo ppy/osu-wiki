@@ -15,7 +15,7 @@
 
 ### \_MACOSX
 
-**osu! pour Macintosh OS.** Pour les utilisateurs de Windows OS, ignorez-le.
+**osu! pour Macintosh.** Pour les utilisateurs de Windows, ignorez-le ou supprimez le, comme vous le voulez.
 
 ### Chat
 
