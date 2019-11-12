@@ -12,9 +12,9 @@ Do you like to draw? Great, because we've got just the contest for you!
 
 **Draw any of the osu! mascots (official or community) in a winter-themed piece** and you'll have a shot at getting your work showcased in the game's main menu as a part of our Winter 2019 Seasonal Background pack!
 
-The hard-fought finalists will also nab themselves a few months of **osu!supporter** (the exact amount yet to be determined), and the top three finalists as voted by YOU will receive **an extra shiny profile badge** showcasing their work!
+The hard-fought finalists will also nab themselves a few months of **osu!supporter** (the exact amount yet to be determined), and a selection of three finalists will receive **an extra shiny profile badge** showcasing their work!
 
-"But Ephemeral," you might ask, "these are *new* prizes, what gives?" What gives is the season of giving, and that's precisely what this time of year tends to be for most of the world. That and most importantly, we've heard your feedback on the prizes for the winning artists crystal clear. *(Yes, previous fanart contest top 3 finalists will eventually receive profile badges for their winning entries as well. You won't be left out!)*
+You might be wondering, these are *new* prizes, what gives? The season of giving gives, that's what! Most importantly, we've heard your feedback on the prizes for the winning artists crystal clear, and we're willing to try something out a little different this time around to see how it pans out.
 
 Think you're up for the challenge? You've got **20** days from RIGHT NOW to get your concept onto paper and into your computer, then in to our contest system. As always, the community will be forced to make many impossible choices with far too many votes to help us decide which ones will be our final entries.
 
