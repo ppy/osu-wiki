@@ -100,12 +100,13 @@ This is a double-elimination tournament.
 - There will be no warmup maps.
 - `!roll` will determine picks and ban order. The higher roll will pick the the first map in map pool. The lower roll will choose to ban first.
 - Bans will be declared before picks.
-- Picks will be in alternating order.
+- Bans and picks will be in alternating order.
 - In the case where both players are one game off from a win, a predetermined tiebreaker map will be played.
 - In the Grand Finals, the participant from the winner's bracket will have a 1-point advantage.
 
 #### osu!standard
 
+- Players have one ban in all bracket stages.
 - Players may pick Hidden or Flashlight for a DoubleTime map.
 - In a FreeMod pick, both players must use HardRock, Hidden, Flashlight, Easy, or a combination of any.
 - Players are allowed to use mods on Tiebreaker but is not required.
@@ -113,6 +114,7 @@ This is a double-elimination tournament.
 
 #### osu!mania 4K
 
+- In stages prior to Grand Finals, players have one ban. In Grand Finals, they have two.
 - All charts will include FreeMod; no mods are required, but mods may be added if the player would like.
 - If all players agree, Grand Finals may use the same mappool as Finals.
 
