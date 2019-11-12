@@ -16,10 +16,10 @@ This page will roughly tell you how to get osu! working on your Windows device. 
 3. While the installer is running, there is a ten second period to allow you to select the installation location.
     - If you want to change it, click on the text underneath the word, "Hi!" and select the installation location.
     - osu! will be installed to that location when the timer is done.
-4. When the installer is completed, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
+4. When the installer is completed, osu! will start up. osu!direct will be used to download some starter beatmaps for you.
 5. osu! will prompt you to sign in or register.
-    - If you have an account already, sign in.
-    - If you need to register, see [Registration](/wiki/Registration), then sign in.
+    - If you already have an account, sign in.
+    - If you need to register, see [Registration](/wiki/Registration).
 
 ## Adding beatmapsets
 
@@ -50,7 +50,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 ## Adding skins
 
-*See also: [Skins](/wiki/Skins) and [Skinning](/wiki/Skinning)*
+*See also: [Skinning](/wiki/Skinning)*
 
 1. Go to the [skinning forums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
 2. Once you find a skin, download it.
