@@ -10,11 +10,13 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
+<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad
 - ![](/wiki/shared/diff/hard-c.png) Platter
 - ![](/wiki/shared/diff/insane-c.png) Rain
 - ![](/wiki/shared/diff/expert-c.png) Overdose
+<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -22,10 +24,10 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Drop:** A medium-sized object representing a slider tick.
 - **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike fruits and drops, will not result in a combo break.
 - **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
-- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops. 
+- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops.
 - **Walk:** Any spacing between two objects where no dash is needed to catch both.
 - **Dash:** A spacing between two objects that requires the use of the dash key to catch both.
-- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects. 
+- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects.
 - **Trigger distance:** The minimum spacing between two active objects at which a hyperdash is generated between them.
 - **Edge dash:** A very large spacing between two active objects where the required trigger distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 - **Basic dash/hyperdash:** Any dash or hyperdash whose time between active objects is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
@@ -74,7 +76,9 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-c.png) Cup
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -92,7 +96,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be 4 or less
 - Circle Size should be between 2-3
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-c.png) Salad
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -116,7 +122,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 4-5
 - Circle Size should be between 2.5-3.5
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-c.png) Platter
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -145,7 +153,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 5-6
 - Circle Size should be between 3-4
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-c.png) Rain
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -167,7 +177,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 6-7
 - Circle Size should be between 3-5
 
+<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-c.png) Overdose
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 

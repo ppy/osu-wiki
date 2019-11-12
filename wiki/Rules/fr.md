@@ -44,14 +44,6 @@ Ces règles s'appliquent aux maps soumises strictements via le [Système de soum
 3. **Ne tentez pas de plagier ou de voler le travail des autres.** Aussi, ne postez pas le travail de quelqu'un d'autre sans sa permission explicite (ce qui inclut, mais n'est pas limité, aux skins et aux difficultés d'invités).
 4. **Suivez les [Règles sur le contenu des chansons](Song_Content_Rules) et [les considérations sur le contenu visuel](Visual_Content_Considerations).**
 
-## Règles du off-topic
-
-*Les règles ci-dessous ne s'appliquent qu'au sous-forum [Off-Topic](https://osu.ppy.sh/community/forums/52) sauf mention contraire.*
-
-1. **Aucun sujet dans Off-Topic n'a de valeur.** Si vos sujets continuent à être déplacés vers Off-Topic, c'est qu'ils sont jugés indigne d'une discussion sérieuse.
-2. **Une stupidité excessive est mauvaise.** Être péniblement bête passe, et tombe dans le mode opératoire du shitposting. L'authentique stupidité ne l'est pas. Si vous êtes incapable de faire la différence, vous êtes déjà en train de ne pas respecter les règles.
-3. **Les sujets d'anniversaire ne sont autorisés que dans Off-Topic, et nulle part ailleurs.** Tous les sujets d'anniversaire doivent être accompagnés d'au moins trois (3) images de filles d'anime dansants ou ils seront *impitoyablement* jetés sous un bus.
-
 ## Que se passe-t-il si je ne respecte pas les règles ?
 
 Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvaises choses vont se passer.

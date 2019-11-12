@@ -49,16 +49,14 @@ For the record, these include the recent changes made [from the discussion forum
 - **All game modes within a beatmapset must form a reasonable spread.** Each spread must comply with its respective mode's difficulty-specific Ranking Criteria.
 - **Every difficulty of a beatmapset must have a minimum drain time of 30 seconds.**
 - **If the drain time of each difficulty is...**
-    - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.**
-    - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
-    - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
-    - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
-
-    Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time, but their drain time must be equal to at least 80% of their play time. (Not applicable to difficulties below 30 seconds of drain time.) Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
-
+  - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.**
+  - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
+  - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
+  - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
+  - **Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time if their drain time is at least 80% of their play time.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
-    - The highest difficulty.
-    - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
+  - The highest difficulty.
+  - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
 - **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song and must not be misrepresentative.**
 - **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 - **A beatmapset host cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and collaborative difficulties are the only exceptions. Guest difficulties, however, may indicate possession with its creators' username or nickname.
@@ -98,7 +96,7 @@ For the record, these include the recent changes made [from the discussion forum
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
-    - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
+  - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 
 #### Standardisation
@@ -107,10 +105,10 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 
 - **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing whitespace.** If the marker is preceded by a word, a leading whitespace is also required, unless the marker is a comma.
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
-- **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying a featured artist in the song.**
+- **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying an artist featured in the song.**
 - **When a fictional character is credited as the singer of a song, the artist field is to be formatted in a `Character (CV: Voice Actor)` format.** For live action, credit the voice actor only.
 - **If the song is `TV size`, use a `(TV Size)` marker at the end of the current title string.** If there is an existing `TV size` marker in the title, the `(TV Size)` marker would replace it. Additionally, songs with existing `Short Ver` or `Game Ver` markers in their titles must use `(Short Ver.)` or `(Game Ver.)` markers.
-    - Note: If a mapset's song contains matching sections to the `TV size`/`Short Ver`/`Game Ver` song, in the same order, and is roughly the same length as the official cut song, the mapset's edit will also count as a `TV Size`/`Short Ver`/`Game Ver` respectively. Covers and remixes do not count.
+  - Note: If a mapset's song contains matching sections to the `TV size`/`Short Ver`/`Game Ver` song, in the same order, and is roughly the same length as the official cut song, the mapset's edit will also count as a `TV Size`/`Short Ver`/`Game Ver` respectively. Covers and remixes do not count.
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk. Other special characters are to be romanised or dropped on case-by-case basis.
 - **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
 - **If a symbol is used to group parts of a title, a whitespace must be used before and after the group, but not directly before or after the symbols within the groups.**
@@ -125,9 +123,9 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
 - **Songs with Japanese metadata must use the Modified Hepburn romanisation method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons.
 - **Songs with Chinese metadata are to be handled with respect to the tones and dialects of Chinese they belong to using character-by-character romanisation method with the exception of artist names.** In any case, all diacritical tone marks must be omitted:
-    - Mandarin metadata must be romanised using the Hanyu Pinyin system.
-    - Cantonese metadata must be romanised by using the Jyutping system.
-    - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
+  - Mandarin metadata must be romanised using the Hanyu Pinyin system.
+  - Cantonese metadata must be romanised by using the Jyutping system.
+  - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
 
 ### Guidelines
 
@@ -153,6 +151,7 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 ### Allowances
 
 This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the Ranking Criteria.
+
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
 - **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
@@ -205,7 +204,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
 - **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
 - **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
-- **Active hit sounds must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises. 
+- **Active hit sounds must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises.
 - **Applause files and other passive hit sounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison.
 - **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
 - **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
@@ -271,7 +270,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
 - **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
-- **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmapset,** unless difficulty-specific storyboards are designed for different aspect ratios. 
+- **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmapset,** unless difficulty-specific storyboards are designed for different aspect ratios.
 
 ### Guidelines
 
@@ -282,13 +281,13 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
 - **The `Widescreen support` setting should be turned on if the beatmapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
 - **Make sure the storyboard is optimized as much as possible,** within practical means.
-    - **Avoid having sprites, or the background of the beatmap, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the beatmap, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
-    - **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
-    - **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
-    - **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
-    - **Avoid using two axis-specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
-    - **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** `.png` format often takes up more file size for larger images due to the lossless compression method, unlike `.jpg`.
-    - **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
-    - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
-    - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
-    - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the beatmap, which is why fading these out when done is preferable.
+  - **Avoid having sprites, or the background of the beatmap, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the beatmap, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
+  - **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
+  - **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
+  - **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
+  - **Avoid using two axis-specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
+  - **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** `.png` format often takes up more file size for larger images due to the lossless compression method, unlike `.jpg`.
+  - **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
+  - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
+  - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
+  - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the beatmap, which is why fading these out when done is preferable.

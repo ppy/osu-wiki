@@ -47,14 +47,6 @@ Léteznek jobban részletezett szabályok is a beatmap-ek felépítésére, lás
 2.  **Maradj témánál a Beatmap szálakban.** Ezek a szálak/beszélgetések csupán az adott beatmap-ről szólnak, és semmi másról. Ha bármi olyan problémád van, ami nem a beatmap-hez kapcsolódik, posztold azt a helyénvaló fórumba.
 3.  **Ne próbáld ellopni mások munkáját.** Szintúgy ne töltsd fel és használd a másik munkáját az engedélyük nélkül (beleértve, de nem korlátozva, témákat és vendég nehézségeket).
 
-## Off-Topic Szabályok
-
-*Az alábbi szabályok CSAK az [Off-Topic](https://osu.ppy.sh/community/forums/52) alfórumra vonatkoznak, kivéve ha másként van jelezve.*
-
-1. **Az Off-Topic-ban semmilyen témának nincs értéke.** Hogy egyszerűen fogalmazzunk, szemét. Ha a szálaid folyamatosan az Off-Topic-ban kötnek ki, értéktelennek lettek nyilvánítva. Próbálj olvasni a sorok között.
-2. **A hülyeségnek is van határa.** Aranyosan butának lenni rendben van, és hozzájárul a felesleges posztolás működési módjához. Az eszeveszett hülyeség sosincs rendben. Ha képtelen vagy megítélni a különbséget, nagy valószínűséggel már meg is szegted ezt a szabályt.
-3. **Születésnapi szálak az Off-Topic-ban engedélyezve vannak, de sehol máshol.** Minden születésnapi szálnak tartalmaznia kell legalább három (3) táncoló anime lány képet, ellenkező esetben *könyörtelenül* ki lesznek hajítva az ablakon.
-
 ## Mi történik ha megszegem a szabályokat?
 
 Ha a közösség rossz oldalán találod magad, rossz dolgok fognak történni.
