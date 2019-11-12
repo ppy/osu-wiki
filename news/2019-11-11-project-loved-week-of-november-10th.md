@@ -25,17 +25,17 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 
 ---
 
-[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/osu/1-fake-me-science-adventure-dance-remix-speed-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/984619)
+[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/osu/1-fake-me-samfree-s-science-adventure-dance-remix-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/984619)
 
-[Ito Kanako - Fake Me (Science Adventure Dance Remix) (Speed Up ver.)](https://osu.ppy.sh/beatmapsets/413539#osu) by [Nattu](https://osu.ppy.sh/users/1886722)  
+[Ito Kanoko - fake me (samfree's Science Adventure Dance Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/413539#osu) by [Nattu](https://osu.ppy.sh/users/1886722)  
 220 BPM, 1:40 | 6.89★, 7.51★  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-You may have thought that you had all the most fun graveyarded maps out there, but if you don't have this map, you may want to revise your collections. This mapset features two difficulties; one featuring mostly jumps, and the other featuring mostly streams. The lively, upbeat energy from this 220 BPM song makes these maps even more enjoyable than they would be otherwise, and that's quite a feat. Despite the map being under two minutes in length, I suggest you set aside some time before you try this map—you might find yourself playing it more than once.
+You may have thought that you had all the most fun graveyarded maps out there, but if you don't have this map, you may want to revise your collections. This mapset features two 7-star difficulties, one featuring mostly jumps, and the other featuring mostly streams. The lively, upbeat energy from this 220 BPM song makes these maps even more enjoyable than they would be otherwise, and that's quite a feat. Despite the song being under two minutes in length, I suggest you set aside some time before you try these maps—you might find yourself playing them more than once.
 
-[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/osu/2-lord-of-the-game-ft-mexican-girl.jpg)](https://osu.ppy.sh/community/forums/topics/984617)
+[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/osu/2-lord-of-the-game-feat-mexican-girl.jpg)](https://osu.ppy.sh/community/forums/topics/984617)
 
-[Death Grips - Lord of the Game (ft. Mexican Girl)](https://osu.ppy.sh/beatmapsets/452042#osu) by [handsome](https://osu.ppy.sh/users/2123087)  
+[Death Grips - Lord of the Game (feat. Mexican Girl)](https://osu.ppy.sh/beatmapsets/452042#osu) by [handsome](https://osu.ppy.sh/users/2123087)  
 180 BPM, 3:24 | 6.31★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
@@ -80,7 +80,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 252 BPM, 1:54 | 1.24★, 2.74★, 4.04★, 5.06★, 5.88★  
 *description written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
-As one of those maps that meant the "calm before the storm" in Taiko World Cup 2019, we bring *Ludus in Tenebris*. This is probably a good a example of maps created in an era where, while Taiko mapping was already reaching its maturity, it was quite far from what currently stands as the standards for good maps and still is liked by players nowadays. It is a cool map because as map with an average BPM and really low-risk mapping, it shines through its snap changes meaning you've got to be fast enough to hit the 1/2 and 1/4 sections and accurate enough to react to its swingy patterns on 1/3 exactly on the rather ambiguous style of Akhuta.
+As one of those maps that meant the "calm before the storm" in the osu!taiko World Cup 2019, we bring *Ludus in Tenebris*. This is a good example of maps created in an era where, while Taiko mapping was already reaching its maturity, it was quite far from what currently stands as the standards for good maps and still is liked by players nowadays. It is a cool map because as map with an average BPM and really low-risk mapping, it shines through its snap changes meaning you've got to be fast enough to hit the 1/2 and 1/4 sections and accurate enough to react to its swingy patterns on 1/3 exactly on the rather ambiguous style of Akhuta.
 
 [![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/taiko/2-the-illegal-queen.jpg)](https://osu.ppy.sh/community/forums/topics/984611)
 
@@ -88,7 +88,7 @@ As one of those maps that meant the "calm before the storm" in Taiko World Cup 2
 180 BPM, 4:34 | 7.02★  
 *description written by [Kazu](https://osu.ppy.sh/users/6259451)*
 
-And representing the "storm" we mentioned before, *The illegaL QueeN*, one of the most fearsome maps in the Grand Finals pools for Taiko World Cup 2019 was one we wanted to bring to the Loved section the most after seeing how it made our finalists struggle through it and give us all the chance to see what incredible scores we could have witnessed on this hellish though exquisite map. We could say that tkdLolly's mapping is nowadays unfamiliar to nobody, and this is a perfect example of the masterpieces he brings to us: Excellent usage of SV as a tool to emphasize his mapping, perfect placement of bursts in his patterns that are unbelievably tricky yet reasonable to hit, and a musical sense that creates a great playing experience. For all this, we hope to see the competition in this map and really surprising, highlight-worthy scores.
+And representing the "storm" we mentioned before, *The illegaL QueeN*, one of the most fearsome maps in the Grand Finals pools for the osu!taiko World Cup 2019 was one we wanted to bring to the Loved section the most after seeing how it made our finalists struggle through it and give us all the chance to see what incredible scores we could have witnessed on this hellish though exquisite map. We could say that tkdLolly's mapping is nowadays unfamiliar to nobody, and this is a perfect example of the masterpieces he brings to us: excellent usage of SV as a tool to emphasize his mapping, perfect placement of bursts in his patterns that are unbelievably tricky yet reasonable to hit, and a musical sense that creates a great playing experience. For all this, we hope to see the competition in this map and really surprising, highlight-worthy scores.
 
 ## <a name="catch" id="catch"></a>osu!catch
 
@@ -104,11 +104,11 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 This mapset really is something. Spectator and everyone else who participated are already quite known in the osu!catch mapping community. Spectator himself made a few difficulties mimicking [Drafura](https://osu.ppy.sh/users/326099) and [Starrodkirby86](https://osu.ppy.sh/users/410)'s mapping styles, and yet another one with his own style.
 
-Every single difficulty in this mapset has a very unique feeling to it. Not one of the difficulties plays the same—everyone did their own thing whether it is low or high approach rate, low or high circle size (or even both!)—it really has everything. Try it out and see for yourself!
+Every difficulty in this mapset has a very unique feeling to it. Not one of the difficulties plays the same—everyone did their own thing whether it is low or high approach rate, low or high circle size (or even both!)—it really has everything. Try it out and see for yourself!
 
 [![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/catch/2-yotogibanashi-no-kamikakushi.jpg)](https://osu.ppy.sh/community/forums/topics/984608)
 
-[LIQU@ - Yotogibanashi no Kamikakushi](https://osu.ppy.sh/beatmapsets/528694#fruits) by [Kyptoric](https://osu.ppy.sh/users/1361268)  
+[LIQU@. - Yotogibanashi no Kamikakushi](https://osu.ppy.sh/beatmapsets/528694#fruits) by [Kyptoric](https://osu.ppy.sh/users/1361268)  
 240 BPM, 1:49 | 7.19★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
@@ -138,9 +138,9 @@ Despite the chart being well over 4 years old at this point (the chart was only 
 
 It's about time we bring in a pack from Onta_Metalslug (previously, and more well-known as gemboyong), and the choice we make for it is *Gem Pack 14*, or his 6th LN Master Pack. This pack contains four 7k inspired long note charts, ranging in difficulty from rather simple in Pink Gold, to brutally difficult and requiring great consistency in Other Side and Tsubomi. Because of the difficulty range and approachability of the charts in all of gem's LN Master packs, they have been extremely useful over the course of the past 2 years as LN training for aspiring high level LN players as well as all-rounders. The sheer popularity, recognizability, and usefulness of these packs has developed and been maintained over time, even with the influx of new LN maps and LN mappers. This combination of qualities more than makes Gem's LN Master 6th a worthy pack for inclusion in the Loved section.
 
-[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/mania/3-shinkai-shoujou.jpg)](https://osu.ppy.sh/community/forums/topics/984603)
+[![](/wiki/shared/news/2019-11-11-project-loved-week-of-november-10th/mania/3-shinkai-shoujo.jpg)](https://osu.ppy.sh/community/forums/topics/984603)
 
-[Miku (Vocal by Nobunaga) - Shinkai Shoujou](https://osu.ppy.sh/beatmapsets/149086#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)  
+[Nobunaga - Shinkai Shoujo](https://osu.ppy.sh/beatmapsets/149086#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)  
 137 BPM, 3:31 | [7K] 5.31★
 
 Prepare yourselves for yet another serving of Cuppp noodles cause we're having *Shinkai Shoujou* for this round! While being a much easier map compared to most of their other stuff, *Shinkai Shoujou* has quite the exposure from seeing play in MWC 7K 2017 semis and an early iteration of the [Jinjin](https://osu.ppy.sh/users/3360737) dans. At a seemingly harmless speed of 137 BPM, the map requires some O2Jam fundamentals when it comes to finger independence. Column specific inversions at 1|2|3, 5|6|7, and 1|3|5|7 are used noticeably with occasional anchors that gets paired with 1/4 trilling. Not very scary but it can be a little tasking while trying to hold other noodles. Topped off with some isolated quirky patterns, *Shinkai Shoujou* may be a neat little chart to look back at for those who struggled to master LNs back in the day.
