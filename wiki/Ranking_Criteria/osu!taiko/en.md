@@ -72,7 +72,6 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 - **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hit sound feedback on spinners is highly recommended.
 - **Songs with variable BPM may use frequent slider velocity changes in order to keep the scrolling speed at which notes move approximately constant.** Doing this will make the timeline gaps between notes easily predictable and enhance gameplay experience by avoiding overlaps due to BPM changes.
 - **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, so ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
-- **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **If custom hit sounds are in use, they should be drum-related.** Heavier/lower tones should be set as don and a lighter/higher tones should be set as kat.
 
 ## Difficulty-specific
@@ -94,7 +93,8 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
-- **You should insert at least 1 rest moment that is 3/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
+- **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability. 
+- **You should insert at least 1 rest moment that is 3/1 or longer after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
@@ -172,6 +172,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/8 patterns should not be longer than two notes.** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment.
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
+- **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **You should insert at least 1 rest moment which is 1/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
@@ -187,6 +188,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
+- **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 
 #### Difficulty setting guidelines
 
