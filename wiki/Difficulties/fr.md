@@ -17,7 +17,7 @@ La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouv
 
 *Voir aussi : [Nom des difficultés](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soumise. Les définitions spécifiques et les exigences de chacun se trouvent dans leurs modes respectifs de [ranking criteria](/wiki/Ranking_Criteria).
+Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soumise. Les définitions spécifiques et les exigences de chacunes se trouvent dans leurs modes respectifs de [ranking criteria](/wiki/Ranking_Criteria).
 
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD026 -->
