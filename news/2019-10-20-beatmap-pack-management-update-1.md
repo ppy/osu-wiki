@@ -18,7 +18,7 @@ I've created a small group of experienced users who are interested in working on
 *written by [Stefan](https://osu.ppy.sh/users/626907)*  
 Download [Ranked](https://osu.ppy.sh/beatmaps/packs/1699) | [Loved](https://osu.ppy.sh/beatmaps/packs/1700)  
 
-lain and Uberzolik were passionate enough to work on the very first mapping style specific beatmap packs ever released. These two packs are focused on beatmaps where alternating is essential. lain has worked on the ranked version while Uberzolik took care of the Loved version. If you need maps to practice alternating or are good at it already and want to challenge yourself, you should check these packs out!
+lain and Uberzolik were passionate enough to work on the very first mapping style specific beatmap packs ever released. These two packs are focused on beatmaps where alternating is essential. lain has worked on the ranked version while Uberzolik took care of the Loved version. If you need maps to practice alternating or you are good at it already and want to challenge yourself, you should check these packs out!
 
 ### The Embodiment of Scarlet Devil pack
 
@@ -40,13 +40,13 @@ Ever wanted to see what popular maps looked like in earlier eras of the game? We
 
 *written by [celerih](https://osu.ppy.sh/users/4696296)*  
 
-The osu!dan project is a brand new community created project that seeks to provide a sort of "campaign mode" to the game. Players will progress through levels of increasing difficulty in a skill of their choice, such as aim, stamina, accuracy, et cetera.
+The osu!dan project is a brand new community created project that seeks to provide a "campaign mode" to the game. Players will progress through levels of increasing difficulty in a skill of their choice, such as aim, stamina, accuracy, et cetera.
 
 Each of the dans will contain 20 levels of increasing difficulty. In order to complete a level, the player must reach the requirements on the maps presented, like reaching a certain accuracy threshold or attaining a full combo. For now, the release of dan levels is purely for fun, a way to practice, or test yourself, but a more official implementation is planned for the future. 😉
 
 The first of the dans is available to download now on the Beatmap Packs listing. The skill tested in this pack is aim and will surely push your circle clicking to the limits. The requirements for this dan are quite simple: you need to achieve full combo on 10 out of 11 maps in the dan to progress to the next one. Once again, this for now is just for your own practice, or to compare yourself with your friends - there is no implementation for keeping track of levels as for now.
 
-If you wish to help with playtesting future packs and stay up to date, you can join [the official osu!dan Discord server](https://discord.gg/b7cVmGd) now!
+If you wish to help with playtesting future packs and want to stay up to date, you can join the official [osu!dan Discord server](https://discord.gg/b7cVmGd) now!
 
 ### October Loved packs
 
@@ -56,7 +56,7 @@ As it is time again to bundle a few beatmaps, there are some new packs for loved
 
 ### What else to expect
 
-While I believe we're doing very well already, we're just about to start and currently I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs so it's a bit slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, or if you have to report an error/bug in a pack, you can join our project server and spectate our doings. Alternatively, if you are interested to work in the group you can join it too! Please check out the [thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
+While I believe we're doing very well already, we're just about to start. Currently, I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs so it's a little slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, or if you have to report an error/bug in a pack, you can join our project server and spectate our doings. Alternatively, if you are interested to work in the group you can join it too! Please check out the [forum thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
 
 I also recommend following [@osuMapPacks](https://twitter.com/osuMapPacks) on Twitter to stay up-to-date with news, fixes, new packs and more. With that said, I can't really say when the next news post will be, since we're a group that takes time to work on packs individually, but you can still contact me if you have any questions. I hope you have an amazing day and download lots of packs, thank you for reading!
 
