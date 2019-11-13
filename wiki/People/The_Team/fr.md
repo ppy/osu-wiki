@@ -38,7 +38,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | [Équipe de modération globale](Global_Moderation_Team) | Gardent un œil sur le chat et le forum. |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Gestion des nominations des beatmaps |
 | [osu! alumni](https://osu.ppy.sh/groups/25) | Connus pour leurs nombreuses contributions. |
-| [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Project Loved Team](Project_Loved_Team) | Reconnaissent les beatmaps que la communauté aime le plus |
 | [Equipe de Support](Support_Team) | Responsables du support technique et des demandes de fonctionnalités. |
 
 ## Inactifs
