@@ -36,7 +36,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | [Groupe de Nomination des Beatmaps](Beatmap_Nominators) | Contrôlent la qualité des Beatmaps certifiées "Qualified". |
 | [Développeurs](Developers) | Rendent le jeu incroyable en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
 | [Équipe de modération globale](Global_Moderation_Team) | Gardent un œil sur le chat et le forum. |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Gestion des nominations des beatmaps |
 | [osu! alumni](https://osu.ppy.sh/groups/25) | Connus pour leurs nombreuses contributions. |
 | [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | [Equipe de Support](Support_Team) | Responsables du support technique et des demandes de fonctionnalités. |
