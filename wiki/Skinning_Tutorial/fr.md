@@ -38,4 +38,3 @@ Ici, vous pouvez soit aller vérifier la [liste d'élements des skins](/wiki/ski
 -   [Tutoriel de Skinning/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
 -   [Tutoriel de Skinning/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
 -   [Tutoriel de Skinning/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
--   [Tutoriel de Skinning/Sons](/wiki/Skinning_Tutorial/Sounds)

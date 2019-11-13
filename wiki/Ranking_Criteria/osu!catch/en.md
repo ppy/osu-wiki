@@ -1,4 +1,4 @@
-# osu!catch
+# osu!catch Ranking Criteria
 
 The **osu!catch Ranking Criteria** are rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -6,13 +6,17 @@ The **osu!catch Ranking Criteria** are rules and guidelines that apply to the cr
 
 These terms frequently appear when getting in touch with osu!catch difficulties and are also used within the Ranking Criteria.
 
-### Difficulty Names
+### Difficulty names
 
-- ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup:** Easy
-- ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad:** Normal
-- ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter:** Hard
-- ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain:** Insane
-- ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose:** Expert
+*Main article: [Difficulty Naming](../Difficulty_Naming)*
+
+<!-- markdownlint-disable MD045 -->
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
+<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -20,10 +24,10 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Drop:** A medium-sized object representing a slider tick.
 - **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike fruits and drops, will not result in a combo break.
 - **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
-- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops. 
+- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops.
 - **Walk:** Any spacing between two objects where no dash is needed to catch both.
 - **Dash:** A spacing between two objects that requires the use of the dash key to catch both.
-- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects. 
+- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects.
 - **Trigger distance:** The minimum spacing between two active objects at which a hyperdash is generated between them.
 - **Edge dash:** A very large spacing between two active objects where the required trigger distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 - **Basic dash/hyperdash:** Any dash or hyperdash whose time between active objects is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
@@ -72,7 +76,9 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
-### ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") Cup
+<!-- markdownlint-disable MD045 -->
+### ![](/wiki/shared/diff/easy-c.png) Cup
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -84,13 +90,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 8 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 4-6
 - HP Drain Rate should be 4 or less
 - Circle Size should be between 2-3
 
-### ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") Salad
+<!-- markdownlint-disable MD045 -->
+### ![](/wiki/shared/diff/normal-c.png) Salad
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -108,13 +116,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 10 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 6-7
 - HP Drain Rate should be between 4-5
 - Circle Size should be between 2.5-3.5
 
-### ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") Platter
+<!-- markdownlint-disable MD045 -->
+### ![](/wiki/shared/diff/hard-c.png) Platter
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -137,13 +147,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 12 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 7-8.5
 - HP Drain Rate should be between 5-6
 - Circle Size should be between 3-4
 
-### ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") Rain
+<!-- markdownlint-disable MD045 -->
+### ![](/wiki/shared/diff/insane-c.png) Rain
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -159,13 +171,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 7-9
 - HP Drain Rate should be between 6-7
 - Circle Size should be between 3-5
 
-### ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") Overdose
+<!-- markdownlint-disable MD045 -->
+### ![](/wiki/shared/diff/expert-c.png) Overdose
+<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -180,7 +194,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern⁠.** 1/8 patterns and higher should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 8-10
 - HP Drain Rate should be between 6-8

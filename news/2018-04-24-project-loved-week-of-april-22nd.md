@@ -284,4 +284,4 @@ From everyone on the Project Loved team, we hope you enjoy this week's selection
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 
-—Project Loved
+—clayton

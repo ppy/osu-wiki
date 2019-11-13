@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!taiko
 
 _메인 페이지: [Ranking Criteria](/wiki/Ranking_Criteria)_

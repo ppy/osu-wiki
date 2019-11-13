@@ -1,6 +1,6 @@
 # Akurasi
 
-Akurasi adalah suatu pengukur konsistensi pemain. Terdapat tiga jenis akurasi yang dimiliki pemain. Salah satunya yaitu akurasi beatmap yang bergantung pada skor hit yang diperoleh. Lainnya adalah akurasi rata-rata pemain yang ditimbang agar skor yang lebih baik dapat lebih menonjol. Dan terakhir, akurasi [pp](/wiki/pp) pemain yang bergantung pada akurasi skor yang terkirim.
+Akurasi adalah suatu pengukur konsistensi pemain. Terdapat tiga jenis akurasi yang dimiliki pemain. Salah satunya yaitu akurasi beatmap yang bergantung pada skor hit yang diperoleh. Lainnya adalah akurasi rata-rata pemain yang ditimbang agar skor yang lebih baik dapat lebih menonjol. Dan terakhir, akurasi [pp](/wiki/Performance_Points) pemain yang bergantung pada akurasi skor yang terkirim.
 
 ## Mode permainan
 
@@ -63,7 +63,7 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 ### Spinner
 
-*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/osu!standard).*
+*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_Modes/osu!).*
 
 Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 

@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Registro
 
 *Advertencia: ¡Tener más de una cuenta de usuario de osu! en cualquier momento es una infracción contra las [reglas de osu!](/wiki/Rules)!*
 
 1. Después de [instalar](/wiki/Installation) osu! y ejecutarlo, osu! te pedirá que inicies sesión o te registres. Suponiendo que estás aquí porque necesitas una cuenta, haz clic en `Crear una cuenta` y mantén osu! abierto. Esto debería abrir la página web de [Crear cuenta](https://osu.ppy.sh/p/register).
 
-![El formulario de registro del sitio web](img/register.jpg "El formulario de registro")
+![El formulario de registro del sitio web](img/register-old.jpg "El formulario de registro")
 
 2. Completa todos los campos en el formulario.
    - Para el campo de nombre de usuario, hay un máximo de 15 caracteres; de los cuales solo pueden ser caracteres alfanuméricos (`az`,` AZ`, `0-9`), guiones bajos (`_`), corchetes, (`[` y `]`), guiones (`-`), y espacios (` `).

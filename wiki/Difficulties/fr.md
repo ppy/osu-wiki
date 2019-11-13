@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Difficulté
 
 *À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
@@ -32,19 +36,19 @@ Suivre ces indicateurs peut vous donner une bonne estimation pour atteindre un n
 
 ### osu!
 
-- ![Icône easy](/wiki/shared/diff/easy-s.png "Icône easy") [Easy](/wiki/Easy)
-- ![Icône normal](/wiki/shared/diff/normal-s.png "Icône normal") [Normal](/wiki/Normal)
-- ![Icône hard](/wiki/shared/diff/hard-s.png "Icône hard") [Hard](/wiki/Hard)
-- ![Icône insane](/wiki/shared/diff/insane-s.png "Icône insane") [Insane](/wiki/Insane)
-- ![Icône expert](/wiki/shared/diff/expert-s.png "Icône expert") [Expert](/wiki/Expert)
+- ![Icône easy](/wiki/shared/diff/easy-s.png "Icône easy") Easy
+- ![Icône normal](/wiki/shared/diff/normal-s.png "Icône normal") Normal
+- ![Icône hard](/wiki/shared/diff/hard-s.png "Icône hard") Hard
+- ![Icône insane](/wiki/shared/diff/insane-s.png "Icône insane") Insane
+- ![Icône expert](/wiki/shared/diff/expert-s.png "Icône expert") Expert
 
 ### osu!taiko
 
-- ![Icône kantan](/wiki/shared/diff/easy-t.png "Icône kantan") [Kantan](/wiki/Kantan)
-- ![Icône futsuu](/wiki/shared/diff/normal-t.png "Icône futsuu") [Futsuu](/wiki/Futsuu)
-- ![Icône muzukashii](/wiki/shared/diff/hard-t.png "Icône muzukashii") [Muzukashii](/wiki/Muzukashii)
-- ![Icône oni](/wiki/shared/diff/insane-t.png "Icône oni") [Oni](/wiki/Oni)
-- ![Icône ura oni](/wiki/shared/diff/expert-t.png "Icône ura Oni") [Ura Oni](/wiki/Ura_Oni) (Parfois appelée _Inner Oni_)
+- ![Icône kantan](/wiki/shared/diff/easy-t.png "Icône kantan") Kantan
+- ![Icône futsuu](/wiki/shared/diff/normal-t.png "Icône futsuu") Futsuu
+- ![Icône muzukashii](/wiki/shared/diff/hard-t.png "Icône muzukashii") Muzukashii
+- ![Icône oni](/wiki/shared/diff/insane-t.png "Icône oni") Oni
+- ![Icône ura oni](/wiki/shared/diff/expert-t.png "Icône ura Oni") Ura Oni (Parfois appelée _Inner Oni_)
 
 ### osu!catch
 

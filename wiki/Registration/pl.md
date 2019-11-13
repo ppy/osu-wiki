@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Rejestracja
 
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
 1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
 
-![Formularz rejestracyjny](img/register.jpg "Formularz rejestracyjny")
+![Formularz rejestracyjny](img/register-old.jpg "Formularz rejestracyjny")
 
 2. Wypełnij wszystkie pola w formularzu.
    - W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).

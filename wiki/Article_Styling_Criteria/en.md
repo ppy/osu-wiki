@@ -4,7 +4,7 @@
 
 The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
-All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give feedback for blunders and/or suggestions. Please read through them and either apply the suggestions or return feedback.
+All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give feedback for blunders or suggestions. Please read through them and either apply the suggestions or return feedback.
 
 If you have any suggestions regarding the Article Styling Criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
@@ -52,6 +52,12 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 
 If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can discuss about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
+### Content parity
+
+*Note: This does not apply to articles originally written in a language other than English.*
+
+Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
 ### Metadata
 
 Metadata must be placed at the very top of the file. An empty line must follow it.
@@ -62,7 +68,7 @@ Metadata must be placed at the very top of the file. An empty line must follow i
 
 Translated articles that are outdated must use the `outdated` mark when the English variant is updated. The markup is as follows:
 
-```md
+```markdown
 ---
 outdated: true
 ---
@@ -74,14 +80,14 @@ outdated: true
 
 Tagging articles will help the website's search engine query articles better. Tags should use lowercase letters. It may be unlikely that this is needed for most articles; however, the markup is as follows:
 
-```md
+```markdown
 ---
 tags:
-- tags go here
-- keep them in a list like this
-- skin
-- skinning
-- how to skin
+  - tags go here
+  - keep them in a list like this
+  - skin
+  - skinning
+  - how to skin
 ---
 
 # Skinning
@@ -91,18 +97,20 @@ tags:
 
 In the case that an article is outdated and has tags, the metadata may look like this:
 
-```md
+```markdown
 ---
 outdated: true
 tags:
-- ASC
-- wiki standards
+  - ASC
+  - wiki standards
 ---
 
 # Article Styling Criteria
 ```
 
 ### Folder names
+
+Folder names must use sentence case and should match their English article titles.
 
 Folder names must not use URL reserved characters. They must only use these characters:
 
@@ -178,7 +186,7 @@ Hatnotes are short notes placed at the top of an article (but under the title) o
 
 Main page hatnotes directs a reader to an article with more information. These must start with the words `Main page` followed by a colon (`:`). For example:
 
-```md
+```markdown
 ## Modding
 
 *Main page: [Modding](/wiki/Modding)*
@@ -188,7 +196,7 @@ Main page hatnotes directs a reader to an article with more information. These m
 
 See also hatnotes are used to suggest a reader other points of interest from a given article. These must start with the words `See also` followed by a colon (`:`). For example:
 
-```md
+```markdown
 ## Beatmapping
 
 *See also: [Storyboarding](/wiki/Storyboarding)*
@@ -198,7 +206,7 @@ See also hatnotes are used to suggest a reader other points of interest from a g
 
 For see hatnotes are similar to see also, but may help reduce ambiguation and are generally more descriptive. They must start with the word `For` followed by the description, a comma (`,`), `see`, then a colon (`:`). For example:
 
-```md
+```markdown
 # Installation
 
 *For the Linux installation guide, see: [Installation/Linux](/wiki/Installation/Linux)*
@@ -208,7 +216,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 
 A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices must be written as complete sentences, thus, unlike [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`), if appropriate. Anything within the same paragraph of a notice must also be italicised along with the notice. For example:
 
-```md
+```markdown
 *Note: pippi is spelt with a lowercase "p", like peppy.*
 
 *Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
@@ -224,7 +232,7 @@ A notice should be placed where appropriate in a section, but must start off the
 
 For notices that target specific readers are similar to regular notices, but also includes the word `to` after "Note", "Notice", "Caution", or "Warning" then follow it with a brief description of the target readers. For example:
 
-```md
+```markdown
 *Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
 ```
 
@@ -246,13 +254,15 @@ Italics must be used only when naming a video game or the name of a work. osu!, 
 
 ### Headings
 
-Headings must not be used to style or format text. Limit to a heading level of 5. Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading, with exception for the title heading.
+All headings must use sentence case. They must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading, with an exception for the title heading when it is on the first line.
+
+Headings must not exceed a heading level of 5 and must not be used to style or format text.
 
 #### Titles
 
 *Notice: Article titles must not be escaped, as they are parsed as plain text.*
 
-The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles headings must use title case and must not contain formatting, links, or images.
+The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Title headings must not contain formatting, links, or images.
 
 The title heading must be on the first line, unless [metadata](#metadata) is being used. If that is the case, the title heading must go after it and have an empty line before the title heading.
 
@@ -260,7 +270,7 @@ The title of an article must match the folder name it is located in (spaces may 
 
 #### Sections
 
-Section headings must use levels 2 to 5 and use sentence case. The section heading proceeding the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings may have small image icons.
+Section headings must use levels 2 to 5. The section heading proceeding the [title heading](#titles) must be a level 2 heading. Unlike titles, section headings may have small image icons.
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
@@ -270,11 +280,27 @@ Section headings must not skip a heading level (i.e. do not go from a level 2 he
 
 Lists must not go over 4 levels of indentation. Lists should not have an empty line in between each item.
 
+For nested lists, make sure that the bullets or numbers align with the item content of their parent lists.
+
+Bad example:
+
+```markdown
+1. Fly a kite
+  - Don't fly a kite if it's raining
+```
+
+Good example:
+
+```markdown
+1. Fly a kite
+   - Don't fly a kite if it's raining
+```
+
 #### Bulleted
 
 Bulleted lists must use the hyphen (`-`) or the plus symbol (`+`). The symbol used must be consistent throughout the entire article. These must then be followed by one space. For example:
 
-```md
+```markdown
 - osu!standard
   - Hit circle
     - Combo number
@@ -293,7 +319,7 @@ Bulleted lists must use the hyphen (`-`) or the plus symbol (`+`). The symbol us
 
 The numbers in a numbered list must be incremented to represent their step.
 
-```md
+```markdown
 1. Download the osu! installer.
 2. Run the installer.
    1. To change the installation location, click the text underneath the progression bar.
@@ -306,7 +332,7 @@ The numbers in a numbered list must be incremented to represent their step.
 
 Combining both bulleted and numbered lists should be done sparingly.
 
-```md
+```markdown
 1. Download a skin from the forums.
 2. Load the skin file into osu!.
    - If the file is a `.zip`, unzip it and move the contents into the `Skins/` folder (found in your osu! installation folder).
@@ -325,7 +351,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 
 When denoting keyboard keys, use capital letters for single characters and title case for modifiers. For example:
 
-```md
+```markdown
 pippi is spelt with a lowercase "p" like peppy.
 
 Press `Ctrl` + `O` to open the open dialog.
@@ -337,7 +363,7 @@ When denoting the spacebar, use `` `Space` ``.
 
 When copying the text from a menu or button, the letter casing should be copied as it appears. For example:
 
-```md
+```markdown
 The `osu!direct` button is visible in the main menu on the right side, if you have an active osu!supporter tag.
 ```
 
@@ -345,7 +371,7 @@ The `osu!direct` button is visible in the main menu on the right side, if you ha
 
 When copying the name of a folder or directory, the letter casing should be copied as it appears, but prefer lowercased paths when possible. Directory paths must not be absolute (i.e. do not start the directory name from the drive letter or from the root folder). For example:
 
-```md
+```markdown
 osu! is installed in the `AppData/Local` folder by default, unless specified otherwise during installation.
 ```
 
@@ -353,7 +379,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 
 When copying a keyword or command, the letter casing should be copied as it appears or as someone normally would type it as (prefer lowercase if applicable). For example:
 
-```md
+```markdown
 As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
 ```
 
@@ -361,7 +387,7 @@ As of now, the `Name` and `Author` commands in the skin configuration file (`ski
 
 When copying the name of a file, the letter casing should be copied as it appears.
 
-```md
+```markdown
 To play osu!, double click the `osu!.exe` icon.
 ```
 
@@ -371,7 +397,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. For example:
 
-```md
+```markdown
 The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 ```
 
@@ -379,7 +405,7 @@ The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 
 When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lowercase letters. For example:
 
-```md
+```markdown
 `#lobby` is where you can advertise your multi room.
 ```
 
@@ -389,13 +415,25 @@ Code blocks must use the triple grave marks. If needed, the code block may be se
 
 ### Links
 
-Links may use either the reference or inline style. Use either appropriately.
+There are two types of links: inline and reference. Examples:
 
-The link text must not be the URL itself. They also should not use the word `here` as the link text.
+**Inline style:**
 
----
+```markdown
+[Game Modifiers](/wiki/Game_Modifiers)
+```
 
-References to reference links must be placed at the bottom of the article.
+**Reference style:**
+
+```markdown
+[Game Modifiers][game mods link]
+
+[game mods link]: /wiki/Game_Modifiers
+```
+
+Links must use the inline style if they are only referenced once. References to reference links must be placed at the bottom of the article.
+
+The link text must not be the URL itself and should not use the word `here`.
 
 #### Internal links
 
@@ -405,7 +443,7 @@ References to reference links must be placed at the bottom of the article.
 
 All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. Some examples include:
 
-```md
+```markdown
 [Welcome](/wiki/Welcome)
 [pippi](/wiki/Mascots#-pippi)
 ```
@@ -430,7 +468,7 @@ The link text of the user link should be the user's current name.
 
 Whenever linking to a beatmap, use this format as the link text:
 
-```
+```markdown
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
@@ -442,7 +480,7 @@ The difficulty name may be left outside of the link text, but doing so must be c
 
 Whenever linking to a beatmapset, use this format as the link text:
 
-```
+```markdown
 {artist} - {title} ({creator})
 ```
 
@@ -460,19 +498,31 @@ Prefer the `https` protocol. External links must be a clean and direct link to a
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. For example:
 
-```md
+```markdown
 *For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
 ```
 
 ### Images
 
-Like the [links](#links), use either the reference or inline style. Use either appropriately.
+There are two types of image links: inline and reference. Examples:
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple different articles must be stored in the `/wiki/shared/` folder.
+**Inline style:**
 
----
+```markdown
+![](/wiki/shared/flag/AU.gif)
+```
 
-References to reference-styled links must be placed at the bottom of the article.
+**Reference style:**
+
+```markdown
+![][flag_AU]
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+```
+
+Images should use the inline linking style if they are only referenced once. References to reference links must be placed at the bottom of the article.
+
+Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles must be stored in the `/wiki/shared/` folder.
 
 #### Formats and quality
 
@@ -484,7 +534,7 @@ Images must be under 1 megabyte, otherwise they will fail to load. Downscaling a
 
 All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
-```
+```sh
 jpeg-recompress -am smallfry <input> <output>
 ```
 
@@ -502,7 +552,7 @@ Use hyphens (`-`) when spacing words. When naming an image, the file name should
 
 Images on the osu! wiki behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. For example:
 
-```md
+```markdown
 Installing osu! is easy. First, download the installer from the download page.
 
 ![](img/download-page.jpg)
@@ -554,15 +604,15 @@ All screenshots of gameplay must be done in the stable build, unless it is for a
 
 You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
 
--   Select language: `English`
--   Prefer metadata in original language: `Enabled`
--   Resolution: `1280x720`
--   Fullscreen mode: `Disabled`
--   Parallax: `Disabled`
--   Menu tips: `Disabled`
--   Seasonal backgrounds: `Never`
--   Always show key overlay: `Enabled`
--   Current skin: `Default` (first option)
+- Select language: `English`
+- Prefer metadata in original language: `Enabled`
+- Resolution: `1280x720`
+- Fullscreen mode: `Disabled`
+- Parallax: `Disabled`
+- Menu tips: `Disabled`
+- Seasonal backgrounds: `Never`
+- Always show key overlay: `Enabled`
+- Current skin: `Default` (first option)
 
 #### Image links
 
@@ -572,7 +622,7 @@ Images must not be part of a link text.
 
 Flag icons next to user links must be separate from the username. For example:
 
-```md
+```markdown
 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 ```
 
@@ -582,7 +632,7 @@ Flag icons next to user links must be separate from the username. For example:
 
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
-```md
+```markdown
 ![](/wiki/shared/flag/xx.gif)
 ```
 
@@ -609,7 +659,7 @@ The left align delimiter must be done consistently throughout the entire article
 
 For example:
 
-```md
+```markdown
 | Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 stars |
@@ -633,7 +683,7 @@ The thematic break (also known as the horizontal rule or line) should be used sp
 
 These must have an empty line before and after the markup. Thematic breaks must use only three hyphens, as depicted below:
 
-```md
+```markdown
 ---
 ```
 
@@ -650,7 +700,9 @@ British English spelling variants must be used when there are conflicting spelli
 - `skilful` instead of `skillful`
 - `analyse` instead of `analyze`
 
+<!-- markdownlint-disable MD026 -->
 ### osu!
+<!-- markdownlint-enable MD026 -->
 
 The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
 
@@ -695,7 +747,7 @@ User titles that include `osu!` as part of the title name must be capitalised. E
 
 Article names, when written in a paragraph, must not be capitalised, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). For example:
 
-```md
+```markdown
 The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
 ```
 
@@ -739,7 +791,7 @@ Tournament articles are an exception and may use camel case (omit the space but 
 
 Gameplay elements must not be capitalised, unless it is a link that links to the article. For example:
 
-```md
+```markdown
 In osu!standard, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
 ```
 
@@ -747,15 +799,15 @@ In osu!standard, beatmaps are composed of three different gameplay elements: hit
 
 Language names must be first-letter capitalised. For example:
 
-```md
-The `#spanish` chat channel are for those who speak Spanish.
+```markdown
+The `#spanish` chat channel is for those who speak Spanish.
 ```
 
 #### Proper nouns
 
 Proper nouns must be first-letter capitalised. For example:
 
-```
+```markdown
 Dean Herbert (also known as peppy) created osu! back in 2007.
 ```
 
@@ -826,13 +878,13 @@ These words must be spelt as follows (spacing must match):
 
 ### Abbreviations, acronyms, and initialisms
 
-Abbreviations, acronyms, and/or initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. For example:
+Abbreviations, acronyms, and initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. For example:
 
-```
+```markdown
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-Abbreviations, acronyms, and/or initialisms must be capitalised, with exception. For example:
+Abbreviations, acronyms, and initialisms must be capitalised, with exception. For example:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -845,69 +897,65 @@ Use `e.g.` for "for example" and `i.e.` for "that is".
 
 ---
 
-Abbreviations, acronyms, and/or initialisms should not be pluralised. For example:
+Abbreviations, acronyms, and initialisms should not be pluralised. For example:
 
-```
+```markdown
 Avoid: BNs can nominate your beatmapset.
 
 Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 ```
 
-### Date formatting
+### Date and time
 
-Dates must be written in the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, that is `YYYY-MM-DD`. For example:
+#### Date formatting
 
-- `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
-- `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
-- `17 June, 2013` (`DD MMMM, YYYY`) must be `2013-06-17`
-- `2015 March, 02` (`YYYY MM, DD`) must be `2015-03-02`
-- `2009.09.09` (`YYYY.MM.DD` or `YYYY.DD.MM` and similar) must be `2009-09-09`
-- `2016年02月29日` must be `2016-02-29`
-- `2014년08월18일` must be `2014-08-18`
-- `2010年01月02日` must be `2010-01-02`
+*For date formatting, see [Wikipedia's Manual of Style on Date formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
 
----
+Date formatting must be consistent throughout the entire article.
 
-When listing a start and an end date, list the start date first, followed by a forward slash (`/`), followed by the end date. In other words, this format: `{start date}/{end date}`. The start and end date must be written using the `YYYY-MM-DD` format. For example:
-
-- `22. - 25. November 2018` should be `2018-11-22/2018-11-25`
-- `June 6, 2009 - August 4, 2011` should be `2009-06-06/2011-08-04`
-- `March 2, 2011 until April 30, 2012` should be `2011-03-02/2012-04-30`
-- `December 1, 2017 to January 1, 2018` should be `2017-12-01/2018-01-01`
-
-### Time formatting
+#### Time formatting
 
 Time formatting must be done using the following format:
 
-```
+```markdown
 HH:MM TIMEZONE
 ```
 
-Time is written in 24-hour format and any single digits must be prefixed with a zero. The timezone must be written immediately after the time and should be in UTC+0 for global events or in your timezone for smaller events. Use `UTC` instead of `GMT`. For example:
+Time is written in 24-hour format and any single digits must be prefixed with a zero. The timezone must be written immediately after the time and should be in UTC+0 for global events or in the timezone of the event for smaller events. Use `UTC` instead of `GMT`.
 
+Bad examples:
+
+```markdown
+3:30 PM UTC
+22:30 (UTC+7)
+11:30
 ```
-Do not: 9:50 PM UTC
-Do not: 13:57 (UTC)
-Do not: 15:30
-Do not: 9:14
 
-Do:     15:23 UTC
-Do:     08:45 UTC+0
-Do:     09:09 UTC+7
-Do:     07:15 UTC-4
+Good examples:
+
+```markdown
+15:30 UTC
+22:30 UTC+7
+11:30 UTC-4
 ```
 
 `UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but usage must be consistent. UTC with a 0 offset must use a plus symbol (`+`).
 
-### Date and time formatting
+#### Date and time formatting
 
 When both date and time are used together, the date must be written first followed by the time. The time must be in between round brackets (`(` and `)`). For example:
 
-```
-Do not: 2018-04-01 at 15:26 UTC
-Do not: 2017-03-31 17:26 UTC
+Bad examples:
 
-Do:     2016-02-26 (11:26 UTC)
+```markdown
+October 25, 2016 at 11:45 UTC
+October 25, 2016 11:45 UTC
+```
+
+Good example:
+
+```markdown
+October 25, 2016 (11:45 UTC)
 ```
 
 ### Serial comma

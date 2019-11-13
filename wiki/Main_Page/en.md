@@ -2,15 +2,14 @@
 layout: "main_page"
 ---
 
+<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
-The osu! wiki is a project based on the contributions of people from osu!. The end goal is that it replaces the old FAQ section, and allows it to become a much more exhaustive resource. However, to make this possible, we need help from everyone willing to contribute!
-<br>
-You can use your osu! account to start contributing!
+Welcome to the osu! wiki, a project containing a wide range of osu! related information.
 </div>
 
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
 # Getting Started
@@ -39,7 +38,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Online Editing and Ranking
 
-[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) •[osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,7 +49,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 [Glossary](/wiki/Glossary) • [Tournaments](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projects](/wiki/Projects)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
 # People
@@ -59,4 +58,3 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 </div>
 </div>
-
