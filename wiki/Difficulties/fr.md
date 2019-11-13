@@ -74,4 +74,4 @@ Sur le site web, les beatmaps ont automatiquement une icône de difficulté bas�
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
 <!-- markdownlint-enable MD045 -->
 
-La plupart des difficultées de maps rentre dans les icônes données, mais certaines non. C'est pourquoi le [ranking criteria](/wiki/Ranking_Criteria) définie plus précisément les règles pour déterminer la difficultée et évaluer le beatmapset.
+La plupart des difficultées de maps rentre dans les icônes donnés, mais certaines non. C'est pourquoi le [ranking criteria](/wiki/Ranking_Criteria) définie plus précisément les règles pour déterminer la difficulté et évaluer le beatmapset.
