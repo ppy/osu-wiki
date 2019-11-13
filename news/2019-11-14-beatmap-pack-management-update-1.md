@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introducing Beatmap Pack Management"
-date: 2019-10-20 19:00:00 +0000
+title: Introducing Beatmap Pack Management
+date: 2019-11-14 14:00:00 +0000
 ---
 
 An update to the Beatmap Pack Management project, including new pack releases!
