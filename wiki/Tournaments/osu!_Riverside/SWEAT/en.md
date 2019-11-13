@@ -11,7 +11,7 @@ tags:
 
 # Standard/Mania Weekend End of Autumn Tournament
 
-![SWEAT banner](img/banner.png)
+![SWEAT banner](img/banner.jpg)
 
 <!-- TODO: Link to Organisations page when it exists -->
 The **Standard/Mania Weekend End of Autumn Tournament** (***SWEAT***) is an osu! and osu!mania BYOC LAN tournament hosted by osu! Riverside. It will take place during *Highlander Con Fall 2019*, a gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
