@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Panda Eyes"
-date: 2019-11-13 14:00:00 +0000
+date: 2019-11-13 16:00:00 +0000
 ---
 
 All eyes are wide open for our latest addition to the osu! Featured Artist lineup — **Panda Eyes**! Check out a selection of **63** new tracks from the artist behind *Highscore*, *Colorblind*, and more!
