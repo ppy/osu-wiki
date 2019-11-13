@@ -1,6 +1,6 @@
 # osu!Alumni
 
-Les **osu! Alumni** sont les personnes connues pour la contribution qu'ils ont eut avant de partir. Si les ressources étaient disponibles, nous érigerions une statue pour chaque membre sur place publique.
+Les **osu! Alumni** sont les personnes connues pour la contribution qu'ils ont eut avant de partir. Si les ressources étaient disponibles, nous érigerions une statue pour chaque membre sur la place publique.
 
 La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous les membres.
 
