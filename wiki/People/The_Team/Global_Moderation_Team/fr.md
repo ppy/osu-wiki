@@ -4,7 +4,7 @@ L **'équipe de modération globale** (*Global Moderation Team* ou *GMT* en angl
 
 ## Devenir un membre GMT
 
-Devenir un membre de l'équipe de modération globale est un processus lent et difficile. Les membres très actifs sont parfois désignés pour leur habilité à être bilingue, après une discussion avec le reste du staff pour leur possible promotion. Des GMT sont généralement sélectionnés lorsqu'un canal de discussion a besoin d'un modérateur.
+Devenir un membre de l'équipe de modération globale est un processus lent et difficile. Les membres très actifs sont parfois désignés pour leur habilité à être bilingue après une discussion avec le reste du staff pour leur possible promotion. Des GMT sont généralement sélectionnés lorsqu'un canal de discussion a besoin d'un modérateur.
 
 ## Rôle et responsabilités
 
