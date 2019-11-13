@@ -64,7 +64,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Développement des pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
 | ![][flag_JP][yelle](https://osu.ppy.sh/users/4916903) | Gestion du magasin osu! |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de osu!academy, Conception media/personnage |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de osu!academy, conception media/personnage |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
