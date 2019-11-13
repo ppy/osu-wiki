@@ -57,7 +57,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer du magnifique design général d'osu!, contributions au skin par défaut et aux sets d'icônes |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Développeur d'osu!, intégrateur des sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Développeur d'osu!iPhone |
-| ![][flag_US] Phil | Conception du Forum |
+| ![][flag_US] Phil | Conception du forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, gars extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Créateur et concepteur original de pippi |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Importantes contributions à la FAQ |
