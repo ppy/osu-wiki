@@ -49,7 +49,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Design audio et [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisation et administration de la coupe du monde |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Entretien général du site, Gestion de la communauté |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Développeur d'osu!, Intégration du Chat IRC dans le jeu, Entretien du site |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Développeur d'osu!, intégration du Chat IRC dans le jeu, entretien du site |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour, diffusion de la Coupe du Monde et organisation de tournois |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Développeur d'osu!, osz2/p2p backend |
 | ![][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Concepteur original du site |
