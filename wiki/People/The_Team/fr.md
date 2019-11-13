@@ -55,7 +55,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Concepteur original du site |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisation et administration de la Coupe du monde, leadership du QAT et community management |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer du magnifique design général d'osu!, contributions au skin par défaut et aux sets d'icônes |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Développeur d'osu!, Intégrateur des sliders |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Développeur d'osu!, intégrateur des sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Développeur d'osu!iPhone |
 | ![][flag_US] Phil | Conception du Forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, gars extraordinaire |
