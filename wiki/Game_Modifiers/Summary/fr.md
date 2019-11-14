@@ -32,6 +32,7 @@ Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais
 ## Le multiplicateur de score du mod xK 
 
 Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
+
 |    | 1k   | 2k   | 3k   | 4k       | 5k       | 6k       | 7k       | 8k   | 9k   |
 |----|------|------|------|----------|----------|----------|----------|------|------|
 | 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
