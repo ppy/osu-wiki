@@ -35,7 +35,7 @@ Remember that this is a **bring your own computer** event! If you want to play i
 
 **Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSchSjpNZEYMO86V17EQpDu_vSgOI1m_2hbu5HJ4gyp8tVu29g/viewform) if you are going to participate in the tournament!**
 
-Also, don't forget to register for Highlander Con on their [eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013).
+Also, don't forget to register for Highlander Con on their [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013).
 
 ## Links
 
@@ -78,10 +78,10 @@ This is a double-elimination tournament.
 
 - **Seeding:** Players will play through all the maps in the mappool and will given a certain amount of points depending on how well they place against other players.
 - **Rounds:** Best of 5
-- **Quarterfinals:** Best of 7
-- **Semifinals:** Best of 9
-- **Finals:** Best of 11
-- **Grand finals:** Best of 13
+- **Quarterfinals:** Best of 5
+- **Semifinals:** Best of 7
+- **Finals:** Best of 9
+- **Grand finals:** Best of 11
 
 #### osu!mania 4K
 
@@ -115,8 +115,8 @@ This is a double-elimination tournament.
 #### osu!mania 4K
 
 - In stages prior to Grand Finals, players have one ban. In Grand Finals, they have two.
-- All charts will include FreeMod; no mods are required, but mods may be added if the player would like.
-- If all players agree, Grand Finals may use the same mappool as Finals.
+- All charts will include FreeMod; no mods are required, but mods may be added if the player would like. Allowed mods are Hidden, FadeIn, Flashlight, and Mirror.
+- If all players agree, Grand Finals may use the same mappool as Finals. In that case, players will only have one ban.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_US]: /wiki/shared/flag/US.gif
