@@ -95,6 +95,10 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ---
 
+![MWC 4K 2019 Logo](img/podium_final.png)
+
+---
+
 ## Mappools
 
 ### Finals
