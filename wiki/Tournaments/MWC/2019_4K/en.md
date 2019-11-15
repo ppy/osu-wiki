@@ -211,7 +211,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 | Saturday, 2019-10-26 | | | | |
 | --: | :-: | :-: | :-- | :-: |
-| **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55810169) |
+| **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/55810169) |
 
 | Sunday, 2019-10-27 | | | | |
 | --: | :-: | :-: | :-- | :-: |
