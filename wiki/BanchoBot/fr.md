@@ -14,7 +14,6 @@ Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir
 
 *Nota: La commande 'REQUEST' n'est pas inclue car elle n'est plus disponible.*
 
-
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
 ### HELP
