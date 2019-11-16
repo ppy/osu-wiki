@@ -18,7 +18,7 @@ A beatmap's **difficulty** describes the level of skill needed to complete the b
 
 *See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-These are the most common beatmap difficulty names that can be found on almost every map. Specifics and definitions can be found under the specific mode's [ranking criteria](/wiki/Ranking_Criteria).
+The most common beatmap difficulty names for existing gameplay modes are listed below. Specifics can be found under the mode's [ranking criteria](/wiki/Ranking_Criteria).
 
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD026 -->
