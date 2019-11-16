@@ -12,7 +12,7 @@ tags:
 *Not to be confused with [Beatmaps](/wiki/Beatmaps).*
 
 A beatmap's **difficulty** describes the level of skill needed to complete the beatmap. The difficulty name and star rating of a beatmap usually give enough information to tell how difficult the beatmap is.
-![The star rating on this map](img/difficulty-example.jpg)
+![An example of how a beatmap's star rating is displayed in the game.](img/difficulty-example.jpg)
 
 ## Difficulty levels
 
