@@ -64,7 +64,7 @@ The most common beatmap difficulty names for existing gameplay modes are listed 
 
 ![Star rating ranges](img/SR-range.png)
 
-On the website, beatmaps are automatically given a difficulty icon based on star rating:
+On the website, beatmaps are automatically given a difficulty icon based on their star rating:
 
 <!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
