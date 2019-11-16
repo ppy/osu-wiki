@@ -252,9 +252,9 @@ All users listed below were added on 2019-02-16.
 - [Okoratu](https://osu.ppy.sh/users/1623405) - resignation (2019-10-16)
 - [Dapuluous](https://osu.ppy.sh/users/8140944) - resignation (2019-10-17)
 - [Nana Abe](https://osu.ppy.sh/users/6443117) - insufficient proficiency (2019-10-19)
-- [-Mikan](https://osu.ppy.sh/users/9063995) - TODO (2019-10-21)
-- [Arzenvald](https://osu.ppy.sh/users/3027421) - TODO (2019-10-29)
-- [-MysticEyes](https://osu.ppy.sh/users/6253266) - TODO (2019-10-31)
+- [-Mikan](https://osu.ppy.sh/users/9063995) <!-- - TODO -->(2019-10-21)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) <!-- - TODO -->(2019-10-29)
+- [-MysticEyes](https://osu.ppy.sh/users/6253266) <!-- - TODO -->(2019-10-31)
 
 ## November
 
@@ -265,5 +265,10 @@ All users listed below were added on 2019-02-16.
 - Moved [MBomb](https://osu.ppy.sh/users/3071175) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-07)
 - Moved [Rocma](https://osu.ppy.sh/users/566276) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-07)
 - Added [AirinCat](https://osu.ppy.sh/users/11119539) to Probationary Beatmap Nominators (2019-11-08)
-- Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from Probationary Beatmap Nominators - TODO (2019-11-08)
+- Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from Probationary Beatmap Nominators <!-- - TODO -->(2019-11-08)
 - Moved [stymlice](https://osu.ppy.sh/users/5122436) from Global Moderation Team to osu! Alumni (2019-11-10)
+- Moved [Lafayla](https://osu.ppy.sh/users/5312547) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-12)
+- Removed [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) from Beatmap Nominators <!-- - TODO -->(2019-11-13)
+- Added [-Luminate](https://osu.ppy.sh/users/4778689) to Probationary Beatmap Nominators (2019-11-16)
+
+<!-- last update: 2019-11-16 20:36 UTC -->

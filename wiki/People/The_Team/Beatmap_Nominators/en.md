@@ -56,6 +56,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | German |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | Polish |
+| ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798) | Vietnamese |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
@@ -123,7 +124,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_ID] [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) |  |
 | ![][flag_AU] [-Ziel-](https://osu.ppy.sh/users/6866022) | some Chinese |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
@@ -147,7 +147,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | <!-- TODO --> |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
 | ![][flag_NL] [Kaitjuh](https://osu.ppy.sh/users/2225327) | <!-- TODO --> |
-| ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | <!-- TODO --> |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
@@ -163,6 +162,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
 | ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | German |
 | ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) | German |
