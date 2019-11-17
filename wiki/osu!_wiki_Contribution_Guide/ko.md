@@ -91,9 +91,11 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! w
 
 7. `Create pull request`를 누릅니다.
 
-8. 제목을 영어로 입력합니다. 제목 결정 방식은 대괄호를 입력하고 그 안에 2글자 국가코드를 입력한 뒤, 해당 문서의 제목을 작성합니다. 예를 들어, `[FR] BBCode` 는 불어 버전의 BBCode 문서를 의미합니다.
+8. 제목을 영어로 입력합니다. 당신이 변경한 내용에 대한 간단한 요약을 적어주세요.
 
-9. 설명란에 요청한 정보를 적습니다, 적용되지 않는다면 섹션을 지워도 좋습니다.
+   문서 번역의 경우, 제목 맨 앞에 대괄호로 두 글자의 국가 코드를 입력해야 합니다. 제목에 번역 중인 문서의 이름을 적어도 좋습니다. 예를 들어, `[FR] BBCode`는 [BBCode article](/wiki/BBCode)의 불어 번역을 업데이트하고 있음을 나타냅니다.
+
+9. 설명 란에 변경 사항을 요약한 내용을 적습니다. Pull Request에 관련된 정보(예를 들면, 작업의 완료 여부)를 작성해주세요. 설명 란에 "resolves #1" 또는 "closes #1"와 같이 작성하여 Pull Request가 병합될 경우 자동으로 해당 이슈가 종료되도록 할 수도 있습니다. (자세한 내용은 GitHub Help의 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)를 참고하시길 바랍니다.)
 
 10. 준비가 되었으면, `Create pull request`를 누릅니다.
 
