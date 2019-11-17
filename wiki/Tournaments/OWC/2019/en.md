@@ -155,7 +155,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - FreeMod
    - [NegaRen - A Bunch Of Samples Played Consecutively (Mao) \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
    - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
-- TieBreaker
+- Tiebreaker
    - **[Shimotsuki Haruka - Youka to Yumeutsutsu (-Tochi) \[Awake\]](https://osu.ppy.sh/beatmapsets/657208#osu/1392159)**
 
 ### Round of 32
@@ -179,7 +179,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - FreeMod
    - [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/1029921#osu/2153558)
    - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-- TieBreaker
+- Tiebreaker
    - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Morinaga) \[Skystar's Descent\]](https://osu.ppy.sh/beatmapsets/679272#osu/1436329)**
 
 ### Qualifiers
