@@ -97,7 +97,7 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! w
 
 10. 준비가 되었으면, `Create pull request`를 누릅니다.
 
-    ![](img/new-pull-request.jpg "Perfect")
+    ![](img/new-pull-request.png)
 
 11. [검토](#검토) 와 [병합](#병합) 를 확인해 주세요.
 
