@@ -104,35 +104,59 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match Schedule: Round of 32
+## Match Schedule: Round of 16
 
-### Saturday, 16 November 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_FI] | Finland | **11:00 UTC** | 22:00 UTC+11 | 13:00 UTC+02 |
-| Hong Kong | ![][flag_HK] | ![][flag_NO] | Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Indonesia | ![][flag_ID] | ![][flag_IT] | Italy | **14:00 UTC** | 21:00 UTC+07 | 15:00 UTC+01 |
-| Netherlands | ![][flag_NL] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Russian Federation | ![][flag_RU] | ![][flag_AT] | Austria | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| United States | ![][flag_US] | ![][flag_TR] | Turkey | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 |
-| Brazil | ![][flag_BR] | ![][flag_BE] | Belgium | **19:00 UTC** | 16:00 UTC-03 | 20:00 UTC+01 |
-
-### Sunday, 17 November 2019
+### Saturday, 23 November 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
-| South Korea | ![][flag_KR] | ![][flag_NZ] | New Zealand | **04:00 UTC** | 13:00 UTC+09 | 17:00 UTC+13 |
-| Taiwan | ![][flag_TW] | ![][flag_DK] | Denmark | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Romania | ![][flag_RO] | ![][flag_JP] | Japan | **13:00 UTC** | 15:00 UTC+02 | 22:00 UTC+09 |
-| Sweden | ![][flag_SE] | ![][flag_FR] | France | **14:00 UTC** | 15:00 UTC+01 | 15:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_LV] | Latvia | **16:00 UTC** | 16:00 UTC | 18:00 UTC+02 |
-| Germany | ![][flag_DE] | ![][flag_CL] | Chile | **17:00 UTC** | 18:00 UTC+01 | 14:00 UTC-03 |
-| Canada | ![][flag_CA] | ![][flag_CZ] | Czech Republic | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
+| Germany | ![][flag_DE] | ![][flag_CN] | China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
+| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Poland | ![][flag_PL] | ![][flag_RO] | Romania | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
+| Czech Republic | ![][flag_CZ] | ![][flag_IT] | Italy | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Belgium | ![][flag_BE] | ![][flag_AT] | Austria | **18:00 UTC** | 19:00 UTC+01 | 19:00 UTC+01 |
+| United States | ![][flag_US] | ![][flag_FR] | France | **19:00 UTC** | 13:00 UTC-06 | 20:00 UTC+01 |
+| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 |
+
+### Sunday, 24 November 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
+| Finland | ![][flag_FI] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 11:00 UTC+02 | 22:00 UTC+13 |
+| Australia | ![][flag_AU] | ![][flag_KR] | South Korea | **10:00 UTC** | 21:00 UTC+11 | 19:00 UTC+09 |
+| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
+| United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 12:00 UTC | 20:00 UTC+08 |
+| Denmark | ![][flag_DK] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Latvia | ![][flag_LV] | ![][flag_NO] | Norway | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
 
 ## Mappools
+
+### Round of 16
+
+- NoMod
+   - [BUTAOTOME - Yokubou no Kozuchi (BarkingMadDog) \[Mallet of Desires\]](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996)
+   - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+   - [Camellia - kodama (ProfessionalBox) \[Yamabiko\]](https://osu.ppy.sh/beatmapsets/488016#osu/1040424)
+   - [Zutto Mayonaka de Ii no ni. - Humanoid (Meg) \[Collab\]](https://osu.ppy.sh/beatmapsets/972298#osu/2035761)
+   - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
+- Hidden
+   - [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#osu/709313)
+   - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+- HardRock
+   - [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[FCL's Extreme\]](https://osu.ppy.sh/beatmapsets/741193#osu/1618753)
+   - [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
+- DoubleTime
+   - [3L - Spring of Dreams (Trust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/739119#osu/1559749)
+   - [Hatsuki Yura - Halloween of the Dead (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2184660)
+   - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
+- FreeMod
+   - [NegaRen - A Bunch Of Samples Played Consecutively (Mao) \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
+   - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+- TieBreaker
+   - **[Shimotsuki Haruka - Youka to Yumeutsutsu (-Tochi) \[Awake\]](https://osu.ppy.sh/beatmapsets/657208#osu/1392159)**
 
 ### Round of 32
 
@@ -174,6 +198,34 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - DoubleTime
    - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
    - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
+
+---
+
+## Match Results
+
+### Round of 32
+
+| Saturday, 2018-11-16 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/56299664) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56300777) |
+| **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/56303550) |
+| **Netherlands** ![][flag_NL] | **5** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/56303396) |
+| **Russian Federation** ![][flag_RU] | **5** | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/56305124) |
+| **Poland** ![][flag_PL] | **5** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/56309238) |
+| **United States** ![][flag_US] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/56310902) |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/56312743) |
+
+| Sunday, 2018-11-17 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56323868) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56324669) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/56331948) |
+| **Romania** ![][flag_RO] | **5** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56333153) |
+| **Sweden** ![][flag_SE] | 3 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/56334525) |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/56337461) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56339048) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/56340649) |
 
 ---
 
