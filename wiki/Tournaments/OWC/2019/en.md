@@ -205,7 +205,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ### Round of 32
 
-| Saturday, 2018-11-16 | | | | |
+| Saturday, 2019-11-16 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/56299664) |
 | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56300777) |
@@ -216,7 +216,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/56310902) |
 | **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/56312743) |
 
-| Sunday, 2018-11-17 | | | | |
+| Sunday, 2019-11-17 | | | | |
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56323868) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56324669) |
