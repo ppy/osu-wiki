@@ -273,4 +273,4 @@ All users listed below were added on 2019-02-16.
 - Removed [komasy](https://osu.ppy.sh/users/1980256) from Beatmap Nominators - resignation (2019-11-17)
 - Added [Genjuro](https://osu.ppy.sh/users/3196091) to Probationary Beatmap Nominators (2019-11-17)
 
-<!-- last update: 2019-11-16 20:36 UTC -->
+<!-- last update: 2019-11-17 19:30 UTC -->
