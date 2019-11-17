@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # osu! wiki 기여 가이드
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 빠른 시작 가이드는 GitHub 및 osu! wiki workflow를 사용해 본 적이 없는 신규 사용자를 위해 제작되었습니다. GitHub를 사용해 본 경험이 있는 경우, 이 가이드를 건너뛰고, feature-branch workflow 방식으로 이 레포지토리에 컨텐츠를 업데이트 해주시면 감사하겠습니다.
