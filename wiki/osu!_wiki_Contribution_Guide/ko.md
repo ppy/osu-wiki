@@ -6,7 +6,7 @@ outdated: true
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! wiki에 기여하는 것이 조금의 시간과 노력이 필요하게 되었습니다. 이 빠른시작 가이드는 GitHub과 osu! wiki 기여 방법에 대해서 모르는 신입유저를 위해 제작되었습니다. 혹시 자신이 GitHub을 사용한 경험이 있다면, 이 가이드를 스킵하시고, feature-branch 방식으로 이 레포지토리에 컨텐츠를 업데이트 해주시면 감사하겠습니다.
 
-만약, 작업 중, 헷갈리는 부분이나 지원이 필요하다면, [osu!개발진 디스코드 채팅](https://discord.gg/ppy) 의 `#osu-wiki` 채널로 메세지를 보내주시면 답변해 드리겠습니다.
+만약, 작업 중, 헷갈리는 부분이나 지원이 필요하다면, [osu!dev 디스코드](https://discord.gg/ppy) (`#osu-wiki` 채널)로 메세지를 보내주시면 답변해 드리겠습니다.
 
 ## 시작하기
 
@@ -105,8 +105,8 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! w
 
 ### 검토
 
-Pull Request 를 만들고 나서는, 다른 osu! wiki 편집자들이 당신의 수정사항을 보고, 실수한 내용들에 대해서 검토 해 줄것입니다. **타 기여자의 검토에 따라 주십시오** 그렇지 않을경우 당신의 Pull Request 가 닫힐 수 있습니다! 당신의 Pull Request 를 검토해 줄 사람이 필요하다면, [osu!개발진 디스코드 채팅](https://discord.gg/ppy) 또는 GitHub 댓글란의 다른 osu! wiki 편집자 에게 요청해 보세요.
+Pull Request 를 만들고 나서는, 다른 osu! wiki 편집자들이 당신의 수정사항을 보고, 실수한 내용들에 대해서 검토 해 줄것입니다. **타 기여자의 검토에 따라 주십시오** 그렇지 않을경우 당신의 Pull Request 가 닫힐 수 있습니다! 당신의 Pull Request 를 검토해 줄 사람이 필요하다면, [osu!dev 디스코드](https://discord.gg/ppy) (`#osu-wiki` 채널) 또는 GitHub 댓글란의 다른 osu! wiki 편집자 에게 요청해 보세요.
 
 ### 병합
 
-osu! wiki에 반영되기 위해서는, 당신의 pull request 가 병합되어야 합니다. 당신의 pull request가 검토되고 허가되면, 병합을 [osu!개발진 디스코드 채팅](https://discord.gg/ppy) 또는 GitHub 댓글란에 요청해 보세요. 병합되고 나서는, 적어도 5시간 이내에 osu! wiki에 반영됩니다.
+osu! wiki에 반영되기 위해서는, 당신의 pull request 가 병합되어야 합니다. 당신의 pull request가 검토되고 허가되면, 병합을 [osu!dev 디스코드](https://discord.gg/ppy) (`#osu-wiki` 채널) 또는 GitHub 댓글란에 요청해 보세요. 병합되고 나서는, 적어도 5시간 이내에 osu! wiki에 반영됩니다.
