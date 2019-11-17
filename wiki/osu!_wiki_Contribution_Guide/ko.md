@@ -12,47 +12,47 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! w
 
 ### 가입 및 로그인
 
-1\. GitHub 계정이 없다면 새로 [가입](https://github.com/join) 합니다.
+1. GitHub 계정이 없다면 새로 [가입](https://github.com/join) 합니다.
 
-2\. [로그인](https://github.com/login)합니다.
+2. [로그인](https://github.com/login)합니다.
 
-3\. [포크하기](#포크하기) 로 이어서 진행해 주세요.
+3. [포크하기](#포크하기) 로 이어서 진행해 주세요.
 
 ### 포크하기
 
-1\. [`osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki) 로 이동합니다.
+1. [`osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki) 로 이동합니다.
 
-2\. `Fork` 버튼을 누릅니다.
+2. `Fork` 버튼을 누릅니다.
 
-![](img/fork.jpg)
+   ![](img/fork.jpg)
 
-3\. 자신의 `Fork`한 레포지토리로 가기 위해 `Fork`버튼을 한번 더 누릅니다.
+3. 자신의 `Fork`한 레포지토리로 가기 위해 `Fork`버튼을 한번 더 누릅니다.
 
-4\. 아래 이미지와 비슷한 것이 보인다면, `ppy/osu-wiki` 레포를 포크했고, 현재 포크한 레포지토리에 있음을 말합니다.
+4. 아래 이미지와 비슷한 것이 보인다면, `ppy/osu-wiki` 레포를 포크했고, 현재 포크한 레포지토리에 있음을 말합니다.
 
-![](img/forked.jpg)
+   ![](img/forked.jpg)
 
-5\. [포크 동기화 하기](#포크-동기화-하기)로 이어서 진행 해 주세요.
+5. [포크 동기화 하기](#포크-동기화-하기)로 이어서 진행 해 주세요.
 
 ### 포크 동기화 하기
 
-1\. 자신의 포크한 `osu-wiki` 레포지토리로 이동하세요.
+1. 자신의 포크한 `osu-wiki` 레포지토리로 이동하세요.
 
-2\. 파일 리스트 위에 보면, 브랜치가 "behind", "ahead", 또는 "even" with `ppy:master` 라고 알려주는 텍스트가 있습니다. 혹시 당신의 브랜치가 "behind" 또는 "ahead and behind" 인 경우, 당신의 브랜치가 구식 버전임을 의미합니다.
+2. 파일 리스트 위에 보면, 브랜치가 "behind", "ahead", 또는 "even" with `ppy:master` 라고 알려주는 텍스트가 있습니다. 혹시 당신의 브랜치가 "behind" 또는 "ahead and behind" 인 경우, 당신의 브랜치가 구식 버전임을 의미합니다.
 
-![](img/fork-even.jpg "OK \(커밋이 없고, 구식 버전이 아닙니다.\)")
+   ![](img/fork-even.jpg "OK \(커밋이 없고, 구식 버전이 아닙니다.\)")
 
-![](img/fork-ahead.jpg "OK \(당신의 커밋들이 기록 되었습니다\)")
+   ![](img/fork-ahead.jpg "OK \(당신의 커밋들이 기록 되었습니다\)")
 
-![](img/fork-behind.jpg "문제가 될 수 있음 \(당신의 브랜치가 구식 버전 입니다\)")
+   ![](img/fork-behind.jpg "문제가 될 수 있음 \(당신의 브랜치가 구식 버전 입니다\)")
 
-![](img/fork-ahead-behind.jpg "문제가 될 수 있음 \(당신의 커밋이 올라가 있고, 당신의 브랜치가 구식 버전입니다\)")
+   ![](img/fork-ahead-behind.jpg "문제가 될 수 있음 \(당신의 커밋이 올라가 있고, 당신의 브랜치가 구식 버전입니다\)")
 
-3\. 이것은 그다지 문제를 일으키지는 않을 것입니다; 엄청나게 구식 버전이 아니고서야, 이미 수정된 파일을 수정할 가능성이 낮기 때문입니다.
+3. 이것은 그다지 문제를 일으키지는 않을 것입니다; 엄청나게 구식 버전이 아니고서야, 이미 수정된 파일을 수정할 가능성이 낮기 때문입니다.
 
-4\. 이 문제를 해결하기 위해서, [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!)를 참고해 주세요.
+4. 이 문제를 해결하기 위해서, [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!)를 참고해 주세요.
 
-5\. 스탭4를 완료 했다면, [온라인 또는 로컬에서 편집](#온라인-또는-로컬에서-편집)으로 이어서 진행해 주세요.
+5. 스탭4를 완료 했다면, [온라인 또는 로컬에서 편집](#온라인-또는-로컬에서-편집)으로 이어서 진행해 주세요.
 
 ## 온라인 또는 로컬에서 편집
 
@@ -69,37 +69,37 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 요즘은, osu! w
 
 ### Pull Request 열기
 
-1\. [`ppy/osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki)로 이동합니다.
+1. [`ppy/osu-wiki` 레포지토리](https://github.com/ppy/osu-wiki)로 이동합니다.
 
-2\. 빠르게 왔다면, 다음 배너가 보일 것 입니다.
+2. 빠르게 왔다면, 다음 배너가 보일 것 입니다.
 
-![](img/github-recent.jpg)
+   ![](img/github-recent.jpg)
 
-3\. 보인다면, `Compare & pull request` 버튼을 눌러 주세요 (눌렀다면 스탭8로 넘어가 주세요). 아니라면, `New pull request` 버튼을 눌러주세요 (눌렀다면 스탭4로 넘어가 주세요).
+3. 보인다면, `Compare & pull request` 버튼을 눌러 주세요 (눌렀다면 스탭8로 넘어가 주세요). 아니라면, `New pull request` 버튼을 눌러주세요 (눌렀다면 스탭4로 넘어가 주세요).
 
-4\. 아래 사진처럼 2개의 버튼이 보이면, `compare across forks`를 눌러주세요.
+4. 아래 사진처럼 2개의 버튼이 보이면, `compare across forks`를 눌러주세요.
 
-![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "No good.")
 
-5\. `head fork`를 누르고 자신의 유저이름이 있는 것을 누릅니다 (대개 2번째 입니다.).
+5. `head fork`를 누르고 자신의 유저이름이 있는 것을 누릅니다 (대개 2번째 입니다.).
 
-![](img/head-fork.jpg)
+   ![](img/head-fork.jpg)
 
-6\. `compare`을 누르고 자신이 생성한 브랜치를 누릅니다 (알파벳 순서로 배열됩니다).
+6. `compare`을 누르고 자신이 생성한 브랜치를 누릅니다 (알파벳 순서로 배열됩니다).
 
-![](img/compare-branch.jpg)
+   ![](img/compare-branch.jpg)
 
-7\. `Create pull request`를 누릅니다.
+7. `Create pull request`를 누릅니다.
 
-8\. 제목을 영어로 입력합니다. 제목 결정 방식은 대괄호를 입력하고 그 안에 2글자 국가코드를 입력한 뒤, 해당 문서의 제목을 작성합니다. 예를 들어, `[FR] BBCode` 는 불어 버전의 BBCode 문서를 의미합니다.
+8. 제목을 영어로 입력합니다. 제목 결정 방식은 대괄호를 입력하고 그 안에 2글자 국가코드를 입력한 뒤, 해당 문서의 제목을 작성합니다. 예를 들어, `[FR] BBCode` 는 불어 버전의 BBCode 문서를 의미합니다.
 
-9\. 설명란에 요청한 정보를 적습니다, 적용되지 않는다면 섹션을 지워도 좋습니다.
+9. 설명란에 요청한 정보를 적습니다, 적용되지 않는다면 섹션을 지워도 좋습니다.
 
-10\. 준비가 되었으면, `Create pull request`를 누릅니다.
+10. 준비가 되었으면, `Create pull request`를 누릅니다.
 
-![](img/new-pull-request.jpg "Perfect")
+    ![](img/new-pull-request.jpg "Perfect")
 
-11\. [검토](#검토) 와 [병합](#병합) 를 확인해 주세요.
+11. [검토](#검토) 와 [병합](#병합) 를 확인해 주세요.
 
 ### 검토
 
