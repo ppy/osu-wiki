@@ -99,7 +99,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
-| ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) | Japanese |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) | Chinese |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan |
@@ -155,6 +154,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) | <!-- TODO --> |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109) | Thai |
 
