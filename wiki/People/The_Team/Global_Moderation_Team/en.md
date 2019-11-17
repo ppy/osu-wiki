@@ -33,7 +33,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinese | Chat moderation, forum moderation |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat moderation, forum moderation, beatmap moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | <!-- not sure --> | Tournaments, Coffee Hour |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | <!-- TODO --> | Tournaments, Coffee Hour |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat moderation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, beatmap moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournaments |
@@ -45,7 +45,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap moderation |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinese | Chat moderation |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
-| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | <!-- not sure --> | osu! development |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | <!-- TODO --> | osu! development |
 | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) | Italian | Chat moderation |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat moderation, forum moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat moderation, forum moderation, technical support |
@@ -68,14 +68,14 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  | osu! development, technical support |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Chat moderation, forum moderation |
-| ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436) | Russian | Chat moderation |
 | ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | French | Chat moderation |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Chat moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish | Technical support |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polish | Chat moderation |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Chat moderation, tournaments, wiki administration, forum moderation |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- not sure --> | Chat moderation |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | <!-- TODO --> | <!-- TODO --> |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | German | Chat moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish | Chat moderation |
 
@@ -106,7 +106,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [stymlice](https://osu.ppy.sh/users/5122436), ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
