@@ -688,16 +688,7 @@ Quand vous utilisez un champ thématique, soyez sûr qu'il y a une ligne vide au
 
 ## Grammaire
 
-Tous les articles écrit en anglais doivent utiliser un anglais pur et suivre les règles suivantes.  
-
-### Anglais Britanique
-
-Dans le cas où il y aurait des conflits sur comment un mot s'écrit en anglais, préférez l'écrire en anglais. Par exemple, utilisez :
-
-- `colour` à la place de `color`
-- `centre` à la place de `center`
-- `skilful` à la place de `skillful`
-- `analyse` à la place de `analyze`
+<!-- Delete British English and contraction sections -->
 
 ### osu!
 
@@ -879,7 +870,7 @@ Ces mots sont écrits comme ci-dessous (les espaces doivent être respectés) :
 
 ### Abréviations, acronymes et sigles
 
-Quand vous utilisez des abréviations, des acronymes, et/ou des sigles, il est important d'écrire ce qu'ils veulent dire la première vois qu'il est écrit. Après avoir écrit ce qu'ils veulent dire la première fois, il n'est plus nécessaire de répéter ce qu'ils veulent dire durant l'article entier. Par exemple :
+Quand vous utilisez des abréviations, des acronymes, et/ou des sigles, il est important d'écrire ce qu'ils veulent dire la première fois qu'il est écrit. Après avoir écrit ce qu'ils veulent dire la première fois, il n'est plus nécessaire de répéter ce qu'ils veulent dire durant l'article entier. Par exemple :
 
 ```
 Le mod NC (Nightcore) est similaire au mod DT (Double Time) car les deux augmentent la vitesse de la musique de 50%. De plus le NC change la hauteur de la musique et ajoute du rythme. 
@@ -971,20 +962,8 @@ Faire: 2016-02-26 (11:26 UTC)
 Quand une liste contient plus de 3 éléments dans une phrase, utiliser une série de virgules. Par exemple :
 
 ```
-Les modes de jeu d'osu! : osu!standard, osu!taiko, osu!catch, and osu!mania sont fun à jouer avec d'autres personnes.
+Les modes de jeu d'osu! : osu!standard, osu!taiko, osu!catch, et osu!mania sont fun à jouer avec d'autres personnes.
 ```
-
-### Contractions
-
-<!-- Shiro ruled that contractions are not allowed. in:osu-wiki from:Anshee#1584 during:2018-05-28 contractions -->
-
-Les contractions sont une forme plus court d'un mot ou d'un groupe de mots. Dans le osu! wiki les contractions ne sont pas autorisées. Par exemple : 
-
-- `Do not` à la place de `Don't`
-- `You will` à la place de `You'll`
-- `It is` à la place de `It's`
-
-*Note : la forme possessive d'un mot (exemple :  `the player's` or `the skinner's`) n'est pas une contraction.*
 
 ### Point de vue
 
