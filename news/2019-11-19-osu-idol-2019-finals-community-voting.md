@@ -8,7 +8,7 @@ It's been another amazing year for the osu!idol competition! There are three fin
 
 ![](/wiki/shared/news/2019-11-19-osu-idol-2019-finals-community-voting/banner.jpg)
 
-osu!idol is a singing contest driven by the community where contestants can participate solo or as a duet and sing their way through multiple stages that consist of different themes and genres to see who will reach the top! Now it is up to you to decide who will be the winner!
+osu!idol is a contest driven by the community where contestants sing their way through multiple stages to see who will reach the top. Now it's up to you to decide who will be the winner!
 
 [Last year's voting](https://osu.ppy.sh/home/news/2018-11-05-osu-idol-2018-finals-community-voting-results) resulted in the community choosing [Will Stetson](https://osu.ppy.sh/users/4909088) to be the osu!idol of 2018 with [Zeva[FL]](https://osu.ppy.sh/users/2805170) and [MjIsMaster](https://osu.ppy.sh/users/9922896) taking second and third place respectively.
 
