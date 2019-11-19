@@ -20,7 +20,7 @@ Who will win this year? It is up to you!
 
 [Find the voting page here!](https://osu.ppy.sh/community/contests/83)
 
-### What will the prizes be?
+### Prizing
 
 * **1st:** will receive the osu!idol 2019 Winner profile Badge and 6 months supporter tag!
 * **2nd:** will receive a 3 month supporter tag!
