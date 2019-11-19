@@ -1,6 +1,7 @@
 ---
 tags:
-- MXB
+  - Mengxin Cup
+  - MXB
 ---
 
 # 第三届萌新杯
@@ -34,7 +35,7 @@ tags:
 
 ## 工作人员
 
-| Position | Members |
+| 职位 | 成员 |
 | :-: | :-- |
 | 比赛经理 | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
 | 比赛监督 | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
@@ -52,6 +53,14 @@ tags:
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
 
+## 颁奖
+
+| 名次 | 选手 |
+| :-: | :-- |
+| ![金冠](/wiki/shared/GCrown.png "第一名") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![银冠](/wiki/shared/SCrown.png "第二名") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![铜冠](/wiki/shared/BCrown.png "第三名") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+
 ## 参赛选手
 
 |  |  |  |  |
@@ -60,7 +69,7 @@ tags:
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
 | [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
 | [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
+| [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
 | [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
 
@@ -71,7 +80,7 @@ tags:
 | A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
-| D | xiao ba | Star0v0 | RW233 | amxmodx |
+| D | xiao ba | Star0v0 | RW233 | A M D |
 
 ## 图池
 
@@ -168,11 +177,18 @@ tags:
 
 ## 比赛结果
 
+### 决赛第二周
+
+| 选手 | 得分 | 得分 | 选手 |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 0 | **1** | **shizehao** |
+| **A M D** | **6** | 1 | shizehao |
+
 ### 决赛第一周
 
 | 选手 | 得分 | 得分 | 选手 |
 | :-: | :-: | :-: | :-: |
-| Yutto007 | 1 | **6** | **amxmodx** |
+| Yutto007 | 1 | **6** | **A M D** |
 | **shizehao** | **6** | 4 | 1ess\_\_ |
 | **HerrySun** | **1** | 0 | s\_w\_w |
 | **shizehao** | **6** | 4 | HerrySun |
@@ -182,7 +198,7 @@ tags:
 | 选手 | 得分 | 得分 | 选手 |
 | :-: | :-: | :-: | :-: |
 | HerrySun | 0 | **5** | **Yutto007** |
-| shizehao | 1 | **5** | **amxmodx** |
+| shizehao | 1 | **5** | **A M D** |
 | **1ess\_\_** | **5** | 1 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **s\_w\_w** |
 
@@ -190,7 +206,7 @@ tags:
 
 | 选手 | 得分 | 得分 | 选手 |
 | :-: | :-: | :-: | :-: |
-| s\_w\_w | 1 | **5** | **amxmodx** |
+| s\_w\_w | 1 | **5** | **A M D** |
 | 1ess\_\_ | 4 | **5** | **HerrySun** |
 | **Yutto007** | **1** | 0 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **shizehao** |
@@ -205,7 +221,7 @@ tags:
 |  | 1 | 0 | **5** | **9** |
 | C | bouquetww | a794151336 | **s\_w\_w** | **Yutto007** |
 |  | 4 | 2 | **9** | **9** |
-| D | **\[xiao ba\]** | Star0v0 | RW233 | **amxmodx** |
+| D | **\[xiao ba\]** | Star0v0 | RW233 | **A M D** |
 |  | **7** | 1 | 4 | **12** |
 
 ### 资格赛

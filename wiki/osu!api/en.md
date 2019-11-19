@@ -1,6 +1,6 @@
 # osu!api
 
-osu! has a public API that third-party services can use to expand and support the osu! platform. It used to be more private, only to be used on a per-request basis, but now anybody can use the API so long as they have an osu! account.
+osu! has a public [API](https://en.wikipedia.org/wiki/API) that third-party services can use to expand and support the osu! platform. It used to be more private, only to be used on a per-request basis, but now anybody can use the API so long as they have an osu! account.
 
 You can find documentation of the API at [osu-api's Wiki](https://github.com/ppy/osu-api/wiki). The current version of the API uses private keys to authenticate requests. You can apply for an API key at the [application page](https://osu.ppy.sh/p/api) on osu!'s website.
 

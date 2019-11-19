@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Ranking Procedure
 
 비트맵을 처음 작성하였을 경우, Pending 또는 Work in Progress(WIP)으로 이동, 이를 Unranked비트맵이라 칭합니다. Unranked비트맵은 스코어보드와 랭킹의 표시가 없고, 일정기간 후에 Graveyard으로 이동됩니다. 스코어보드를 표시시키기 위해서는 Ranked에 속해있어야 하고, Beatmap Approval의 프로세스를 삽입할 필요가 있습니다. 우선 bubble을 획득하고, 그 후에 Ranked로 이동됩니다. BAT에 의해서만 Bubble과 Ranked가 부여됩니다.
@@ -6,7 +10,7 @@
 
 [BAT/뱃이](/wiki/People/Beatmap_Nomination_Group) 부여하는 Ranked에 속하기 전 단계로, 반드시 거치지 않으면 안됩니다. 보면을 랭크시키기 위해서는 우선 12[별점](/wiki/Glossary/#star-priority) (또는SP/CP)를 유지해야하고, 두가지의 방법에 의해 SP를 획득할 수 있습니다. 첫번째 방법은, 다른사람이 당신의 비트맵을 mod하는것입니다. 만약 당신이 그들의 mod가 도움이 되었다 생각한다면, [kudosu/쿠도수를](/wiki/Glossary/#kudosu) 상대방에게 지급하여 1SP를 획득할 수 있습니다. 당신, 또는 다른 사람들이 당신의 비트맵에 kudosu를 소비하는 것으로 "star"가 추가됩니다.(1개의 star로 1kudosu, [매퍼의](/wiki/Glossary/#beatmapper) 프로필, 또는 [비트맵](/wiki/Beatmaps) 스레드에서 확인가능, 비트맵이 적어도 12SP를 획득하였을 때, [BAT/뱃이](/wiki/People/Beatmap_Nomination_Group) 두가지의 상태를 보고 좋다고 판단할 경우에 Bubble을 부여하게 됩니다.
 
-1.  첫번째로 비트맵이 [Ranking Criteria/랭킹 크리테리아를](/wiki/Ranking_Criteria) 만족하고 있는가. 이는 기본적으로 정확한 [timing/타이밍과](/wiki/Beatmap_Editor/Timing) 최저 두개의 [difficulties/난이도](/wiki/Difficulties) ([Easy/이지](/wiki/Difficulties/osu!/Easy) 또는 [Normal/노말](/wiki/Difficulties/osu!/Normal)), 그리고 전체적으로 플레이가 가능한가를 보게 됩니다.
+1.  첫번째로 비트맵이 [Ranking Criteria/랭킹 크리테리아를](/wiki/Ranking_Criteria) 만족하고 있는가. 이는 기본적으로 정확한 [timing/타이밍과](/wiki/Beatmap_Editor/Timing) 최저 두개의 [difficulties/난이도](/wiki/Difficulties) (Easy/이지 또는 Normal/노말), 그리고 전체적으로 플레이가 가능한가를 보게 됩니다.
 2.  Ranking Criteria이외의 부분에서도 질적으로 충분한가. 예를들어 슬라이드가 매우 지저분하다면 BAT는 Bubble을 부여하기 전 깨끗하게 할 것을 요구합니다.
 
 ### 다른 모드의 Bubble (버블)

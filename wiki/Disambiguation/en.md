@@ -4,7 +4,7 @@ Disambiguation in the osu! wiki is the process of resolving conflicts that arise
 
 ## List of disambiguation articles
 
--   [Bancho](/wiki/Bancho)
--   [Easy](/wiki/Easy)
--   [EZ](/wiki/EZ)
--   [Mod](/wiki/Mod)
+- [Bancho](Bancho)
+- [Easy](Easy)
+- [EZ](EZ)
+- [Mod](Mod)

@@ -1,5 +1,4 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
 [Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "more info can be found on Play Styles under osu!mania"
@@ -35,9 +34,6 @@
 <!-- Title -->
 
 # osu!mania
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!mania using deprecated ScoreV1 system](./v1 "osu!mania v1")** -->
 
 ![Gameplay of osu!mania][osu!mania Interface image]
 

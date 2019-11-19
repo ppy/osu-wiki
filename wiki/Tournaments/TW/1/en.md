@@ -39,14 +39,14 @@ The Taiko Wars was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
-| Map Selectors | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
+| Manager | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
+| Map Selector | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 | Streamer | ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Commentators | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
+| Commentator | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
 | Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Referees | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734) |
-| Statisticians | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734) |
+| Statistician | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

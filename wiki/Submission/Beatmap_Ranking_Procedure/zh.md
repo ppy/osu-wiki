@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap Ranking Procedure
 
 ![Ranking flowchart.](Ranking_procedure.png "Ranking flowchart.")

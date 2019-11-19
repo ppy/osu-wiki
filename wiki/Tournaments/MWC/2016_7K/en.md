@@ -43,10 +43,10 @@ The osu!mania 7K World Cup 2016 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) |
-| Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-| Commentators | ![][flag_US] [Azlynn](https://osu.ppy.sh/users/7016667), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [DJNightmare](https://osu.ppy.sh/users/70909), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) |
+| Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentator | ![][flag_US] [Azlynn](https://osu.ppy.sh/users/7016667), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [DJNightmare](https://osu.ppy.sh/users/70909), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------

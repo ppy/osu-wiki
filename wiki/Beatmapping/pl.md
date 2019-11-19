@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Mapowanie
 
 **Mapowanie** to proces tworzenia [beatmapy](/wiki/Beatmaps) w osu!. Składa się na niego wybór utworu, ustawienie [timingu](/wiki/Timing), umieszczenie obiektów oraz (opcjonalnie) tworzenie skórki i/lub storyboard'u.
@@ -6,11 +10,11 @@
 
 Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
 
--   [Łatwy](/wiki/Difficulties/Easy)
--   [Normal](/wiki/Difficulties/Normal)
--   [Trudny](/wiki/Difficulties/Hard)
--   [Szalony](/wiki/Difficulties/Insane)
--   [Ekspercki](/wiki/Difficulties/Expert)
+-   Łatwy
+-   Normal
+-   Trudny
+-   Szalony
+-   Ekspercki
 
 Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [mapperów](/wiki/Glossary) do tworzenia interesujących [map](/wiki/Beatmaps) odpowiednich dla danego [poziomu trudności](/wiki/Difficulties).
 

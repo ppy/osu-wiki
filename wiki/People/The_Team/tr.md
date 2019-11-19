@@ -22,7 +22,7 @@ outdated: true
 | [smoogipooo](https://osu.ppy.sh/users/1040328) | osu!mania geliştirme, Bug haklama |
 | [Tom94](https://osu.ppy.sh/users/1857058) | pp geliştirme |
 | [yelle](https://osu.ppy.sh/users/4916903) | [osu!dükkan](/wiki/osu!store) yönetimi |
-| [ztrot](https://osu.ppy.sh/users/6347) | [osu!akademi](/wiki/Announcements/osu!academy) profesörü, Medya/karakter tasarımı |
+| [ztrot](https://osu.ppy.sh/users/6347) | [osu!akademi](/wiki/osu!academy) profesörü, Medya/karakter tasarımı |
 | [Zallius](https://osu.ppy.sh/users/55) | Nesli tükenmekte olan tür |
 
 ## İnaktif
@@ -43,6 +43,8 @@ outdated: true
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştirici takımı, osu!mania geliştiricisi |
 
 ## Kullanıcı grupları
+
+Aşağıda belirtilenler osu!'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır. Bu üye gruplarının çoğuna forum ismi renkleri, oyun-içi sohbet renkleri ve/veya profil rozetleri verilir.
 
 | İsim | Açıklama |
 | ---- | ----------- |

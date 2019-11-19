@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu!idol 2019 Auditions Now Open"
-date: 2019-07-02 12:00:00 +0000
+date: 2019-07-02 17:00:00 +0000
 ---
 
-So do you enjoy singing? Are you interested in competing to become the next osu!idol? Plug in your mic and come in, it’s that time again to join and show off those singing skills!
+So do you enjoy singing? Are you interested in competing to become the next osu!idol? Plug in your mic and come in, it's that time again to join and show off those singing skills!
 
 ![](/wiki/shared/news/2019-07-02-osu-idol-2019-auditions-now-open/banner.jpg)
 
@@ -16,7 +16,7 @@ osu!idol is the community driven singing contest! Contestants participate solo o
 
 Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got! 
 
-### What’s in it for me?
+### What's in it for me?
 
 Once community voting has concluded, the finalists will be receiving these prizes as followed:
 
@@ -26,8 +26,6 @@ Once community voting has concluded, the finalists will be receiving these prize
 
 ### Where do I sign up?
 
-Check out the [**official thread**](https://osu.ppy.sh/illdoitsoon) for the contest rules, submission sheet, and more details and discussions on the event. Make sure to join the [discord server](https://discord.gg/7hZgNeH) as well to get announcements and updates, ask questions, and talk to the community!
+Check out the [**official thread**](https://osu.ppy.sh/community/forums/topics/928540) for the contest rules, submission sheet, and more details and discussions on the event. Make sure to join the [discord server](https://discord.gg/7hZgNeH) as well to get announcements and updates, ask questions, and talk to the community!
 
--Kyonko Hizara
-
-
+—Kyonko Hizara

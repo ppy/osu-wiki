@@ -1,29 +1,25 @@
----
-outdated: true
----
+# Modes de jeu
 
-# Modes de Jeu
+## ![Icône d'osu!](/wiki/shared/mode/osu.png) osu!standard
 
-## ![icône d'osu!](/wiki/shared/mode/osu.png) osu!standard
+*Page principale: [osu!standard](/wiki/osu!standard)*
 
-*Main page: [osu!standard](/wiki/osu!standard)*
+Basé sur [*Osu! Tatakae! Ouendan*](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tapez, glissez et tournez au rythme.
 
-Basé sur [*Osu! Tatakae! Ouendan*](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tap, slide, and spin to the beat.
+## ![Icône d'osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko
 
-## ![icône d'osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko
+*Page principale: [osu!taiko](/wiki/osu!taiko)*
 
-*Main page: [osu!taiko](/wiki/osu!taiko)*
+Basé sur [*Taiko no Tatsujin*](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia"). Tambour et rouler le rouleau de taiko au rythme.
 
-Basé sur [*Taiko no Tatsujin*](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia"). Drum, and roll the taiko drumroll to the beat.
+## ![Icône d'osu!catch](/wiki/shared/mode/catch.png) osu!catch
 
-## ![icône d'osu!catch](/wiki/shared/mode/catch.png) osu!catch
+*Page principale: [osu!catch](/wiki/osu!catch)*
 
-*Main page: [osu!catch](/wiki/osu!catch)*
+Ramassez les fruits qui tombent en déplaçant le receveur avec une assiette. Continuez à danser et ne manquez pas le pas du rythme.
 
-Collectez les fruits tombant en bougeant l'attrapeur avec un plateau. Keep dancing and do not miss the step of the beat.
+## ![Icône d'osu!mania](/wiki/shared/mode/mania.png) osu!mania
 
-## ![icône d'osu!mania](/wiki/shared/mode/mania.png) osu!mania
+*Page principale: [osu!mania](/wiki/osu!mania)*
 
-*Main page: [osu!mania](/wiki/osu!mania)*
-
-Basé sur les jeux de rythme de type "tapis-roulant", principalement introduit et implémenté par [woc2006](https://osu.ppy.sh/users/1105845). Make the notes play a melody of the beat.
+Basé sur des jeux de rythme de type convoyeur, principalement introduit et implémenté par [woc2006](https://osu.ppy.sh/users/1105845). Faites en sorte que les notes jouent une mélodie en rythme.

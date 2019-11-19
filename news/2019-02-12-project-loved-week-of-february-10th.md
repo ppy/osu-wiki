@@ -8,7 +8,7 @@ It's time for [Project Loved](https://osu.ppy.sh/community/forums/120) once agai
 
 [![](/wiki/shared/news/banners/project-loved.jpg)](https://osu.ppy.sh/community/forums/120)
 
-Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
+Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
 osu!catch Project Loved leader [Zak](https://osu.ppy.sh/users/1375955) is unfortunately taking his leave this round. He's been managing the osu!catch branch of the project for longer than I can remember, so be sure to thank him if you've enjoyed the mode's content in Project Loved! While there's no replacement "leader" for Zak, [Wesley](https://osu.ppy.sh/users/2407265) will be stepping in as an osu!catch captain going forward. Welcome to the team!
 
@@ -195,10 +195,10 @@ For this round, we have Takane6's Persephone as a spread pick. The focal point o
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [clayton](https://osu.ppy.sh/users/3666350), [Ephemeral](https://osu.ppy.sh/users/102335), [Noffy](https://osu.ppy.sh/users/1541323), [Toy](https://osu.ppy.sh/users/2757689) and [Zak](https://osu.ppy.sh/users/1375955) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Ephemeral](https://osu.ppy.sh/users/102335), [Noffy](https://osu.ppy.sh/users/1541323), [Toy](https://osu.ppy.sh/users/2757689) and [Zak](https://osu.ppy.sh/users/1375955) for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
-—the Project Loved team
+—clayton

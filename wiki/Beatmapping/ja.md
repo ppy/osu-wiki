@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmapping (日本語)
 
 **Beatmapping**とはosu!でプレイするための譜面を作ることです。 曲、タイミング、オブジェクトの配置、とオプションとしてスキン作成とストーリーボードを作成する必要があります。
@@ -8,10 +12,10 @@
 
 譜面の一般的な難しさは次のとおりです:
 
--   [Easy](/wiki/Difficulties/Easy)
--   [Normal](/wiki/Difficulties/Normal)
--   [Hard](/wiki/Difficulties/Hard)
--   [Insane](/wiki/Difficulties/Insane)
+-   Easy
+-   Normal
+-   Hard
+-   Insane
 
 各リンクをクリックすると[Mapper](/wiki/Glossary)のためのガイドラインが表示されるので、それに従い楽しく適切な譜面を作ってください。
 

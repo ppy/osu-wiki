@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pembatasan Akses Akun
 
 Pembatasan akun adalah tindakan pembatasan dari komunitas yang diterapkan pada akun yang menunjukkan perilaku tidak wajar, mencurigakan, atau melanggar aturan.

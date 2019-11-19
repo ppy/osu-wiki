@@ -1349,7 +1349,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
 
 Notes:
 
@@ -1365,7 +1365,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 5x14 |
 
 Notes:
 
@@ -1381,7 +1381,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 12x14 |
 
 Notes:
 
@@ -1395,7 +1395,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | - |
+| All | ![No][false] | ![Yes][true] | (Varies) | (Varies) | 10x14 |
 
 Notes:
 
@@ -2109,7 +2109,7 @@ Notes:
 
 - Animation name: `menu-back-{n}.png`.
 - The native back button is not skinnable.
-  - If this element is skinned, it will override the new one everywhere, execpt for the [options](/wiki/options).
+  - If this element is skinned, it will override the new one everywhere, except for the [options](/wiki/options).
 
 ---
 

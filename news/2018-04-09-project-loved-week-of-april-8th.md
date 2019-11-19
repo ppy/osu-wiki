@@ -277,8 +277,8 @@ xi - over the top is a beatmap created by ArcherLove that is mainly focused in 7
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 
-—Project Loved
+—clayton

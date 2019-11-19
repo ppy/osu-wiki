@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Qualificazione Beatmaps
 
 Quando viene inviata una beatmap, questa viene messa nella sezione "Pending" o nella sezione "Work in Progress". Queste mappe vengono chiamate comunemente "unranked" (non rankate). Le mappe unranked si differenziano da quelle rankate perché non hanno una tabella dei 50 migliori punteggi e possono finire nella sezione Graveyard dopo un mese di inattività (ovvero che non vengono aggiornate dal creatore da più di un mese). In modo che una mappa abbia la propria tabella dei 50 migliori punteggi deve passare per il processo di approvazione delle beatmap, il Beatmap Approval Process. Prima viene bollata "Bubbled" e poi viene rankata. Solo i [BAT](/wiki/People/Beatmap_Nomination_Group) possono mettere la bolla "bubbled" e, di conseguenza, rankare le mappe.
@@ -6,7 +10,7 @@ Quando viene inviata una beatmap, questa viene messa nella sezione "Pending" o n
 
 Prima che una beatmap possa diventare rankata da un [BAT](/wiki/People/Beatmap_Nomination_Group), deve essere bollata "Bubbled". Per fare in modo che una mappa possa diventare rankata, deve avere 12 [Star Priority](/wiki/Glossary/#star-priority) (chiamato anche SP). Puoi ottenere gli SP in due modi. Puoi innanzitutto chiedere agli altri di moddare la tua mappa. Se trovi che la loro mod sia utile al progresso della mappa e gli dai un kudosu, riceverai 1 SP. Inoltre, tu e tutti gli altri utenti che hanno dei [kudosu](/wiki/Glossary/#kudosu) potete spenderli per dare 1 Star Priority in più. Una volta che una beatmap ha almeno 12 SP, un [BAT](/wiki/People/Beatmap_Nomination_Group) può farla diventare bubbled se la mappa rispetta due condizioni:
 
-1.  La mappa rispetta il [Ranking Criteria](/wiki/Ranking_Criteria). In poche parole, questo significa che la mappa ha un [Timing](/wiki/Beatmap_Editor/Timing) perfetto, ha almeno 2 [difficoltà](/wiki/Difficulties) (delle quali una deve essere una [Easy](/wiki/Difficulties/osu!/Easy) o una [Normal](/wiki/Difficulties/osu!/Normal)), e nel suo complesso deve seguire il ritmo ed essere giocabile.
+1.  La mappa rispetta il [Ranking Criteria](/wiki/Ranking_Criteria). In poche parole, questo significa che la mappa ha un [Timing](/wiki/Beatmap_Editor/Timing) perfetto, ha almeno 2 [difficoltà](/wiki/Difficulties) (delle quali una deve essere una Easy o una Normal), e nel suo complesso deve seguire il ritmo ed essere giocabile.
 2.  La mappa rispetta gli standard di qualità delle mappe che non sono presenti nel Ranking Criteria. Per esempio, se uno slider è un po' brutto, un BAT dovrebbe richiedere un cambiamento ad esso prima di mettere il "bubble" alla mappa.
 
 ### Bubble per le modalità specifiche

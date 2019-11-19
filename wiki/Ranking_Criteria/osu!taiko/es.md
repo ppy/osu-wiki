@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!taiko
 
 El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko. Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.

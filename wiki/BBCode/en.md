@@ -2,7 +2,7 @@
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
-BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures and user pages.
+BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures, user pages, and beatmap descriptions.
 
 ## Notes
 

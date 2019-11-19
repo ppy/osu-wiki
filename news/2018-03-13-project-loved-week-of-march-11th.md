@@ -237,8 +237,8 @@ Offering two keymodes, 4K and 9K with top difficulties made by [Reyzra](https://
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
 If you have any suggestions for maps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 
-—Project Loved
+—clayton

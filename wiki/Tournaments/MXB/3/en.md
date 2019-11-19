@@ -1,6 +1,7 @@
 ---
 tags:
-- MXB
+  - Mengxin Cup
+  - MXB
 ---
 
 # Novice Mania Cup 3rd
@@ -38,10 +39,10 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | :-- | :-- |
 | Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
 | Co-Host | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Map Selectors | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Streaming Referees | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentators | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Map Selector | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Streaming Referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Wiki Editor | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -52,6 +53,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [NimaPro](https://live.bilibili.com/12166146)
   - [Rasis](https://live.bilibili.com/5333)
 
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+
 ## Participants
 
 |  |  |  |  |
@@ -60,7 +67,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
 | [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
 | [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| [a794151336](https://osu.ppy.sh/users/9912076) | [amxmodx](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
+| [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
 | [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
 
@@ -71,7 +78,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
-| D | [xiao ba] | Star0v0 | RW233 | amxmodx |
+| D | [xiao ba] | Star0v0 | RW233 | A M D |
 
 ## Mappools
 
@@ -168,11 +175,18 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Match Results
 
+### Finals - Week 2
+
+| Player | Score | Score | Player |
+| :-: | :-: | :-: | :-: |
+| Yutto007 | 0 | **1** | **shizehao** |
+| **A M D** | **6** | 1 | shizehao |
+
 ### Finals - Week 1
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
-| Yutto007 | 1 | **6** | **amxmodx** |
+| Yutto007 | 1 | **6** | **A M D** |
 | **shizehao** | **6** | 4 | 1ess\_\_ |
 | **HerrySun** | **1** | 0 | s\_w\_w |
 | **shizehao** | **6** | 4 | HerrySun |
@@ -182,7 +196,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
 | HerrySun | 0 | **5** | **Yutto007** |
-| shizehao | 1 | **5** | **amxmodx** |
+| shizehao | 1 | **5** | **A M D** |
 | **1ess\_\_** | **5** | 1 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **s\_w\_w** |
 
@@ -190,7 +204,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Player | Score | Score | Player |
 | :-: | :-: | :-: | :-: |
-| s\_w\_w | 1 | **5** | **amxmodx** |
+| s\_w\_w | 1 | **5** | **A M D** |
 | 1ess\_\_ | 4 | **5** | **HerrySun** |
 | **Yutto007** | **1** | 0 | \[xiao ba\] |
 | KirigayaSnow | 0 | **1** | **shizehao** |
@@ -205,7 +219,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 |  | 1 | 0 | **5** | **9** |
 | C | bouquetww | a794151336 | **s\_w\_w** | **Yutto007** |
 |  | 4 | 2 | **9** | **9** |
-| D | **\[xiao ba\]** | Star0v0 | RW233 | **amxmodx** |
+| D | **\[xiao ba\]** | Star0v0 | RW233 | **A M D** |
 |  | **7** | 1 | 4 | **12** |
 
 ### Qualification Stage

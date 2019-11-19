@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap ranking procedure
 
 譜面が最初に作られた時、それはPendingかWork in Progress(WIP)のセクションに置かれ、これらの譜面は"Unranked"と呼ばれます。Unrankedの譜面はスコアボード/ランキングの表示はなく、一定期間後にGraveyardに移動されます。スコアボードを表示させるためには"Ranked"に移動されていなければならず、Beatmap Approvalのプロセスを介する必要があります。まずはbubbleを手に入れ、その次にRankedされます。[BAT達だけがBubbleとRankedを与えることが出来ます](/wiki/People/Beatmap_Nomination_Group)。
@@ -6,7 +10,7 @@
 
 Rankedになる前にBATによってなれる状態で、最初にBubbleを手に入れなければいけません。[譜面をRankさせるためにまずは](譜面 "wikilink")12[Star Priority](/wiki/Glossary/#star-priority) (あるいはSP/CP)を保つ必要があり、2つの方法によってSPを手に入れていくことができます。1つ目は他の人があなたの譜面をmodすることです。もしあなたが彼らのmodを役立ったと思ったなら、kudosuを相手に与え1SPを手に入れることができます。あなた、あるいは他の人々はあなたの譜面に[kudosuを費やすことで](/wiki/Glossary/#kudosu)"star"があなたの譜面に追加されます(1つのstarに対して1kudosu、Mapperのプロフィール、もしくは譜面のスレッドの両方ですることが出来ます)。譜面が少なくとも12SPを持った時、BATが2つの状態を見て、良いと判断すればBubbleを手にできます。
 
-1.  譜面が[Ranking Criteriaを満たしているかどうか](/wiki/Ranking_Criteria)。基本的にタイミングが正しいことや、最低2 [難易度](/wiki/Difficulties)(片方は [Easyか](/wiki/Difficulties/osu!/Easy)[Normal](/wiki/Difficulties/osu!/Normal))、そして全体を通してプレイ可能か。
+1.  譜面が[Ranking Criteriaを満たしているかどうか](/wiki/Ranking_Criteria)。基本的にタイミングが正しいことや、最低2 [難易度](/wiki/Difficulties)(片方は EasyかNormal)、そして全体を通してプレイ可能か。
 2.  Ranking Criteria以外の部分でも全体を通しての品質を満たしているかどうか。例えばスライダーが非常に汚い、ならBATはBubbleの前に綺麗にすることを要求します。
 
 ### 専用モードのBubble

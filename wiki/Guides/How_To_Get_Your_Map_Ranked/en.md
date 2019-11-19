@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # How to Get Your Map Ranked
 
 *See also: [Ranking Criteria](/wiki/Ranking_Criteria)*
