@@ -271,7 +271,7 @@ Saturday, 16 November 2019:
 | **driodx** ![][flag_US] | **5** | 3 | ![][flag_CA] rubies87 | [#1](https://osu.ppy.sh/mp/56317966) |
 | Voltaeyx ![][flag_US] | 4 | **5** | ![][flag_US] **Cychloryn** | [#1](https://osu.ppy.sh/mp/56319608) |
 
-Sunday, 17 November 2019
+Sunday, 17 November 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
