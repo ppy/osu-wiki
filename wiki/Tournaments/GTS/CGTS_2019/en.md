@@ -251,7 +251,7 @@ Saturday, 16 November 2019:
 | Chiswell ![][flag_KR] | 0 | **5** | ![][flag_HK] **Faputa** | [#1](https://osu.ppy.sh/mp/56295537) |
 | **butter0414** ![][flag_JP] | **0** | -1 | ![][flag_JP] Ku\_Ren | *win by default* |
 | **asuasu\_yura** ![][flag_JP] | **5** | 0 | ![][flag_JP] maguro869 | [#1](https://osu.ppy.sh/mp/56296188) |
-| Konpaku Sariel ![][flag_KR] | -1 | **0** | **LDator** | *win by default* |
+| Konpaku Sariel ![][flag_KR] | -1 | **0** | ![][flag_HK] **LDator** | *win by default* |
 | **uone** ![][flag_JP] | **5** | 0 | ![][flag_IL] JackRaBeat | [#1](https://osu.ppy.sh/mp/56298646) |
 | **Saikoro** ![][flag_JP] | **5** | 2 | ![][flag_KR] Laby | [#1](https://osu.ppy.sh/mp/56298664) |
 | **frukoyurdakul** ![][flag_TR] | **5** | 2 | ![][flag_JP] Six b0xes | [#1](https://osu.ppy.sh/mp/56299694) |
