@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!idol 2019 Finals - Community Voting!"
+title: "osu!idol 2019 Finals: Community Voting"
 date: 2019-11-19 12:00:00 +0000
 ---
 
