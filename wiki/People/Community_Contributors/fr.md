@@ -13,7 +13,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour le sujet sur le forum, voir : [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Utilisateur | Contributions |
-| ---- | ------------- |
+| :-- | :-- |
 | ![GB][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance du service [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (conversion de replays .osr en vidéos Youtube). |
 | ![DE][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hébergement du [miroir](http://osu.yas-online.net/) de téléchargement de beatmaps depuis des années. |
 | ![US][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Nombreuses contributions sur le plan du design à tous les niveaux. |
@@ -35,7 +35,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 ### Mars
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![MX][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Contribution exceptionnelle à l'osu! wiki |
 | ![MY][flag_MY] [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Contribution exceptionnelle à l'osu! wiki |
 | ![DE][flag_DE] [givenameplz](https://osu.ppy.sh/users/947499) | Développement de l'osu!Rank et osu!Post |
@@ -47,7 +47,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour voir la nouvelle, voir : [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![US][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Fondateur de l'[osu!academy](/wiki/osu!academy) |
 | ![CA][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958 "Tasha") | osu!weekly + News Contributor |
 | ![BG][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Présence exceptionnelle de modération (10k+ kills) |
@@ -62,7 +62,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour voir la nouvelle, voir : [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![US][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Des années à défendre et à améliorer la qualité du mapping, fournissant une assistance à plusieurs reprises pour aider à résoudre divers problèmes de la communauté. |
 
 ### Novembre
@@ -70,7 +70,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour voir la nouvelle, voir : [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![US][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Performance exemplaire dans la construction et l’éducation de beatmap |
 | ![DE][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405) | Leadership exceptionnel dans les affaires de gestion des beatmaps |
 | ![HK][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | Présence exceptionnelle de modération et contribution globale |
@@ -88,7 +88,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour voir la nouvelle, voir : [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![DE][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Travail remarquable dans la formation de la première communauté osu! Taiko, plusieurs années au sein de la BAT / QAT |
 | ![ES][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Contribution exceptionnelle à la communauté osu! Catch, modification des critères de classement et tournois |
 | ![NZ][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Contribution exceptionnelle à d'innombrables projets médiatiques, tournois et maintien à long terme du GMT |
@@ -117,7 +117,7 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 *Pour voir la nouvelle, voir : [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | Utilisateur | Contributions |
-| --- | --- |
+| :-- | :-- |
 | ![US][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Organisation de la Coupe du Monde et hôte de l'osu! Coffee Hour hôte |
 | ![AR][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Contribution exceptionnelle à l'organisation et aux tournois de la Coupe du monde |
 | ![CL][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Contribution exceptionnelle comme membre du GMT et de l'équipe osu! wiki |
@@ -171,4 +171,3 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_US]: /wiki/shared/flag/US.gif "USA"
-

@@ -17,6 +17,7 @@ The [Support Team group page](https://osu.ppy.sh/groups/22) lists all of the tea
 
 *Note: All Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
 
+<!-- markdownlint-disable MD045 -->
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
@@ -28,6 +29,7 @@ The [Support Team group page](https://osu.ppy.sh/groups/22) lists all of the tea
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | German |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
+<!-- markdownlint-enable MD045 -->
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

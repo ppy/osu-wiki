@@ -14,6 +14,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 
 *Veuillez noter que tous les GMT peuvent également parler anglais en plus des langues listées ci-dessous.* - [Page du groupe](https://osu.ppy.sh/groups/4)
 
+<!-- markdownlint-disable MD045 -->
 | Nom | Langues | Domaine d'intervention |
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Chinois, Malaisien | Modération du chat |
@@ -76,7 +77,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Allemand | Modération du Chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turc | Modération du Chat |
 
-## Groupés par langue modérée
+### Groupés par langue modérée
 
 | Canal de discussion | Section du forum | Modérateurs |
 | :-- | :-- | :-- |
@@ -109,6 +110,7 @@ L'équipe de modération globale est responsable du maintien de la bonne ambianc
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` | | |
+<!-- markdownlint-enable MD045 -->
 
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif

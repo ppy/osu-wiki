@@ -4,6 +4,7 @@ Les **osu! Alumni** sont les personnes connues pour la contribution qu'ils ont e
 
 La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous les membres.
 
+<!-- markdownlint-disable MD045 -->
 | Name | Past roles |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
@@ -224,6 +225,7 @@ La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous 
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Fondateur de l'osu!academy |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
+<!-- markdownlint-enable MD045 -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif

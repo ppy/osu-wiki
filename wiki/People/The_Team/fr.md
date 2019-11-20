@@ -2,9 +2,10 @@
 
 *Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/Staff_Log)*
 
+<!-- markdownlint-disable MD045 -->
 | Nom | Description |
-| ---- | ----------- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | **Créateur d'osu! sur PC** |
+| :-- | :-- |
+| ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Créateur d'osu! sur PC** |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Modération et conseiller communautaire |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Aide aux joueurs, Secrétaire de Meganekko |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Concepteur principal |
@@ -14,7 +15,8 @@
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Conseiller en modding et mapping |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Création du site |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Conseiller général en entretien ménager et modération |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Développeur osu!web et [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur osu!web |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Développeur osu!web et [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur osu!web |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Développement d'osu!, organisation de la guilde des mappeurs |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Conseiller en modding et mapping |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Conseiller en modding et mapping, organisation de la guilde des mappeurs, et professeur de l'[osu!academy](/wiki/osu!academy) |
@@ -24,27 +26,27 @@
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Capitaine du Project Loved et conseiller communautaire |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Entretien ménager général et assistant de tournoi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
-
-
+<!-- markdownlint-enable MD045 -->
 
 ## Groupe d'utilisateur
 
 Les groupes d'utilisateurs suivants représentent les membres de la communauté qui aident à maintenir osu!. La plupart de ces groupes peuvent être reconnus grâce à la couleur de leur pseudonyme ou de leur texte dans le chat, leur photo de profil et/ou le(s) badge(s) présent(s) sur leur profil.
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | [Groupe de Nomination des Beatmaps](Beatmap_Nominators) | Contrôlent la qualité des Beatmaps certifiées "Qualified". |
 | [Développeurs](Developers) | Rendent le jeu incroyable en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
 | [Équipe de modération globale](Global_Moderation_Team) | Gardent un œil sur le chat et le forum. |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Gestion des nominations des beatmaps |
-| [osu! alumni](https://osu.ppy.sh/groups/25) | Connus pour leurs nombreuses contributions. |
+| [osu! Alumni](osu!_Alumni) | Connus pour leurs nombreuses contributions. |
 | [Project Loved Team](Project_Loved_Team) | Reconnaissent les beatmaps que la communauté aime le plus |
 | [Equipe de Support](Support_Team) | Responsables du support technique et des demandes de fonctionnalités. |
 
 ## Inactifs
 
+<!-- markdownlint-disable MD045 -->
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Aide et entretien général, Dessinateur de chibis |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Design audio et [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisation et administration de la coupe du monde |
@@ -59,12 +61,13 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Développeur d'osu!iPhone |
 | ![][flag_US] Phil | Conception du forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, gars extraordinaire |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Créateur et concepteur original de pippi |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Créateur et concepteur original de pippi |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Importantes contributions à la FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Développement des pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
-| ![][flag_JP][yelle](https://osu.ppy.sh/users/4916903) | Gestion du magasin osu! |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gestion du magasin osu! |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de osu!academy, conception media/personnage |
+<!-- markdownlint-enable MD045 -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
