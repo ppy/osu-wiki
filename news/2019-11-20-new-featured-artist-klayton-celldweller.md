@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Klayton / Celldweller"
-date: 2019-11-20 15:00:00 +0000
+date: 2019-11-20 20:20:00 +0000
 ---
 
 We're proud to welcome our latest addition to the Featured Artist lineup, the multi-instrumentalist wonder that is **Klayton**, the mind behind the musical projects **Celldweller**, **Circle of Dust** and **Scandroid**!
