@@ -309,6 +309,8 @@ A term used when a player completes a beatmap while obtaining the maximum combo 
 
 Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
+### Featured Artist
+
 ## G
 
 ### Geki
