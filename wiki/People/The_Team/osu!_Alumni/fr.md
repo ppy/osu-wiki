@@ -1,4 +1,4 @@
-# osu!Alumni
+# osu! Alumni
 
 Les **osu! Alumni** sont les personnes connues pour la contribution qu'ils ont eut avant de partir. Si les ressources étaient disponibles, nous érigerions une statue pour chaque membre sur la place publique.
 
