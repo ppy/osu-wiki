@@ -311,6 +311,8 @@ Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will
 
 ### Featured Artist
 
+A featured artist is someone who has officialy licensed music for use in osu!. Their music has been verified and cleared by the osu! team and is suitable for beatmapping.
+
 ## G
 
 ### Geki
