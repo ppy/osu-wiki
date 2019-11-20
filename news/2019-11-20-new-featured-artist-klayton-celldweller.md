@@ -34,13 +34,11 @@ But don't take my word for it, give the following tracks a listen and hear for y
     <source src="https://assets.ppy.sh/artists/56/previews/1640.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Circle of Dust - Dust to Dust
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/56/previews/1638.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Scandroid - Neo-Tokyo
 
@@ -48,7 +46,7 @@ But don't take my word for it, give the following tracks a listen and hear for y
     <source src="https://assets.ppy.sh/artists/56/previews/1642.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 All of the above plus so much more are available right now over at [**Klayton / Celldweller**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/56), so go check it all out and get creating!
 
@@ -58,4 +56,4 @@ Well, this one's going to take you under. Under and over.
 
 See you next week!
 
-—Ephemeral 
+—Ephemeral
