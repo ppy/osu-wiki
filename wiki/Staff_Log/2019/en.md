@@ -2,7 +2,7 @@
 
 ## January
 
-- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) to the osu! Alumni (2019-01-31)
+- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2019-01-31)
 
 ### Beatmap Nominator removals
 
@@ -15,7 +15,7 @@
 
 ## February
 
-- Removed [Yuii-](https://osu.ppy.sh/users/2935923) from the Quality Assurance Team (2019-02-16)
+- Removed [Yuii-](https://osu.ppy.sh/users/2935923) from Quality Assurance Team (2019-02-16)
 
 ### Beatmap Nominator removals
 
@@ -64,26 +64,26 @@ All users listed below were added on 2019-02-16.
 
 ## March
 
-- Moved [Mir](https://osu.ppy.sh/users/8688812) to the Quality Assurance Team (2019-03-23)
+- Moved [Mir](https://osu.ppy.sh/users/8688812) from osu! Alumni to Quality Assurance Team (2019-03-23)
 
 ## April
 
-- Moved [Fycho](https://osu.ppy.sh/users/1876867) to the Global Moderation Team (2019-04-10)
-- Moved [Ascendance](https://osu.ppy.sh/users/2931883) to the Quality Assurance Team (2019-04-10)
-- Moved [Gabe](https://osu.ppy.sh/users/654108) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
-- Moved [JBHyperion](https://osu.ppy.sh/users/4879508) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
-- Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) to the Global Moderation Team (2019-04-10)
-- Moved [p3n](https://osu.ppy.sh/users/123703) to the Global Moderation Team (2019-04-10)
-- Moved [Raiden](https://osu.ppy.sh/users/2239480) to the Global Moderation Team and Beatmap Nominators (2019-04-10)
-- Moved [Hobbes2](https://osu.ppy.sh/users/8157492) to the osu! Alumni and Beatmap Nominators (2019-04-10)
-- Moved [Lanturn](https://osu.ppy.sh/users/1446665) to the osu! Alumni (2019-04-10)
-- Moved [Protastic101](https://osu.ppy.sh/users/6712747) to the osu! Alumni (2019-04-10)
-- Moved [Regraz](https://osu.ppy.sh/users/3076909) to the osu! Alumni and Beatmap Nominators (2019-04-10)
-- Moved [Noffy](https://osu.ppy.sh/users/1541323) to the osu! Alumni and Beatmap Nominators (2019-04-18)
-- Removed [-Kazu-](https://osu.ppy.sh/users/920861) from the Quality Assurance Team (2019-04-20)
-- Moved [Loctav](https://osu.ppy.sh/users/71366) to the Global Moderation Team (2019-04-22)
-- Added [Zeus-](https://osu.ppy.sh/users/5464437) to the Global Moderation Team (2019-04-23)
-- Added [- Felix](https://osu.ppy.sh/users/8503985) to the Global Moderation Team (2019-04-23)
+- Moved [Fycho](https://osu.ppy.sh/users/1876867) from Quality Assurance Team to Global Moderation Team (2019-04-10)
+- Moved [Ascendance](https://osu.ppy.sh/users/2931883) from Beatmap Nominators to Quality Assurance Team (2019-04-10)
+- Moved [Gabe](https://osu.ppy.sh/users/654108) from Quality Assurance Team to Beatmap Nominators (2019-04-10)
+- Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from Quality Assurance Team to Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from Quality Assurance Team to Global Moderation Team (2019-04-10)
+- Moved [p3n](https://osu.ppy.sh/users/123703) from Quality Assurance Team to Global Moderation Team (2019-04-10)
+- Moved [Raiden](https://osu.ppy.sh/users/2239480) from Quality Assurance Team to Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from Quality Assurance Team to osu! Alumni and Beatmap Nominators (2019-04-10)
+- Moved [Lanturn](https://osu.ppy.sh/users/1446665) from Quality Assurance Team to osu! Alumni (2019-04-10)
+- Moved [Protastic101](https://osu.ppy.sh/users/6712747) from Quality Assurance Team to osu! Alumni (2019-04-10)
+- Moved [Regraz](https://osu.ppy.sh/users/3076909) from Quality Assurance Team to osu! Alumni and Beatmap Nominators (2019-04-10)
+- Moved [Noffy](https://osu.ppy.sh/users/1541323) from Quality Assurance Team to osu! Alumni and Beatmap Nominators (2019-04-18)
+- Removed [-Kazu-](https://osu.ppy.sh/users/920861) from Quality Assurance Team (2019-04-20)
+- Moved [Loctav](https://osu.ppy.sh/users/71366) from osu! Alumni to Global Moderation Team (2019-04-22)
+- Added [Zeus-](https://osu.ppy.sh/users/5464437) to Global Moderation Team (2019-04-23)
+- Added [- Felix](https://osu.ppy.sh/users/8503985) to Global Moderation Team (2019-04-23)
 
 ### Beatmap Nominator removals
 
@@ -93,14 +93,14 @@ All users listed below were added on 2019-02-16.
 - [Yales](https://osu.ppy.sh/users/2377881) - resignation (2019-04-16)
 - [wonjae](https://osu.ppy.sh/users/5032045) - resignation (2019-04-25)
 - [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
-- [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
+- [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unsatisfactory behavior (2019-04-30)
 
 ## May
 
-- **Quality Assurance Team becomes the Nomination Assessment Team** (2019-05-06)
-- Moved [Faputa](https://osu.ppy.sh/users/845733) to the Nomination Assessment Team (2019-05-07)
-- Moved [ghm12](https://osu.ppy.sh/users/2594229) to the osu! Alumni (2019-05-11)
-- Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the osu! Alumni (2019-05-27)
+- **Quality Assurance Team became Nomination Assessment Team** (2019-05-06)
+- Moved [Faputa](https://osu.ppy.sh/users/845733) from Beatmap Nominators to Nomination Assessment Team (2019-05-07)
+- Moved [ghm12](https://osu.ppy.sh/users/2594229) from Global Moderation Team to osu! Alumni (2019-05-11)
+- Moved [ToGlette](https://osu.ppy.sh/users/1076236) from Global Moderation Team to osu! Alumni (2019-05-27)
 
 ### Beatmap Nominator additions
 
@@ -128,7 +128,7 @@ All users listed below were added on 2019-02-16.
 
 ## June
 
-- Moved [Hinsvar](https://osu.ppy.sh/users/1249323) to the osu! Alumni (2019-06-30)
+- Moved [Hinsvar](https://osu.ppy.sh/users/1249323) from Global Moderation Team to osu! Alumni (2019-06-30)
 
 ### Beatmap Nominator additions
 
@@ -151,7 +151,7 @@ All users listed below were added on 2019-02-16.
 
 ## July
 
-- Moved [Spkz](https://osu.ppy.sh/users/2964029) to the osu! Alumni (2019-07-13)
+- Moved [Spkz](https://osu.ppy.sh/users/2964029) from Global Moderation Team to osu! Alumni (2019-07-13)
 
 ### Beatmap Nominator additions
 
@@ -169,9 +169,9 @@ All users listed below were added on 2019-02-16.
 
 ## August
 
-- Added [Pachiru](https://osu.ppy.sh/users/2850983) to the Global Moderation Team (2019-08-15)
-- Moved [Nepuri](https://osu.ppy.sh/users/6637817) to the Nomination Assessment Team (2019-08-16)
-- Moved [Noffy](https://osu.ppy.sh/users/1541323) to the Nomination Assessment Team (2019-08-25)
+- Added [Pachiru](https://osu.ppy.sh/users/2850983) to Global Moderation Team (2019-08-15)
+- Moved [Nepuri](https://osu.ppy.sh/users/6637817) from Beatmap Nominators to Nomination Assessment Team (2019-08-16)
+- Moved [Noffy](https://osu.ppy.sh/users/1541323) from Beatmap Nominators and osu! Alumni to Nomination Assessment Team (2019-08-25)
 
 ### Beatmap Nominator additions
 
@@ -194,19 +194,19 @@ All users listed below were added on 2019-02-16.
 
 ## September
 
-- Moved [Zero__wind](https://osu.ppy.sh/users/1822830) to the osu! Alumni (2019-09-04)
-- Moved [Yason](https://osu.ppy.sh/users/2574392) to the osu! Alumni (2019-09-04)
-- Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) to the Nomination Assessment Team (2019-09-06)
-- Moved [ZiRoX](https://osu.ppy.sh/users/200768) to the osu! Alumni (2019-09-10)
-- Moved [Blaizer](https://osu.ppy.sh/users/62018) to the osu! Alumni (2019-09-11)
-- Moved [Daru](https://osu.ppy.sh/users/32480) to the osu! Alumni (2019-09-11)
-- Moved [mm201](https://osu.ppy.sh/users/30655) to the osu! Alumni (2019-09-11)
-- Moved [TheVileOne](https://osu.ppy.sh/users/278862) to the osu! Alumni (2019-09-11)
+- Moved [Zero__wind](https://osu.ppy.sh/users/1822830) from Global Moderation Team to osu! Alumni (2019-09-04)
+- Moved [Yason](https://osu.ppy.sh/users/2574392) from Global Moderation Team to osu! Alumni (2019-09-04)
+- Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from Beatmap Nominators to Nomination Assessment Team (2019-09-06)
+- Moved [ZiRoX](https://osu.ppy.sh/users/200768) from Nomination Assessment Team to osu! Alumni (2019-09-10)
+- Moved [Blaizer](https://osu.ppy.sh/users/62018) from Developers to osu! Alumni (2019-09-11)
+- Moved [Daru](https://osu.ppy.sh/users/32480) from Developers to osu! Alumni (2019-09-11)
+- Moved [mm201](https://osu.ppy.sh/users/30655) from Developers to osu! Alumni (2019-09-11)
+- Moved [TheVileOne](https://osu.ppy.sh/users/278862) from Developers to osu! Alumni (2019-09-11)
 - Removed [Echo](https://osu.ppy.sh/users/431) from Developers (2019-09-11)
 - Removed [Fly a Kite](https://osu.ppy.sh/users/7137649) from Developers (2019-09-11)
 - Removed [Marcin](https://osu.ppy.sh/users/722665) from Developers (2019-09-11)
 - Removed [BanchoBot](https://osu.ppy.sh/users/3) from Developers (2019-09-11)
-- Moved [Marcin](https://osu.ppy.sh/users/722665) to the osu! Alumni (2019-09-26)
+- Moved [Marcin](https://osu.ppy.sh/users/722665) from Global Moderation Team to osu! Alumni (2019-09-26)
 
 ### Beatmap Nominator additions
 
@@ -215,7 +215,7 @@ All users listed below were added on 2019-02-16.
 - [Riana](https://osu.ppy.sh/users/1997633) (2019-09-10)
 - [-Aqua](https://osu.ppy.sh/users/7150015) (2019-09-15)
 - [Dergo](https://osu.ppy.sh/users/7439226) (2019-09-23)
-- [Mbomb](https://osu.ppy.sh/users/3071175) (2019-09-30)
+- [MBomb](https://osu.ppy.sh/users/3071175) (2019-09-30)
 
 ### Beatmap Nominator removals
 
@@ -225,9 +225,11 @@ All users listed below were added on 2019-02-16.
 
 ## October
 
-- Added [- [bibitaru] -](https://osu.ppy.sh/users/4482419) to the Global Moderation Team (2019-10-05)
-- Added [Loneight](https://osu.ppy.sh/users/663131) to the Global Moderation Team (2019-10-05)
-- Moved [Leniane](https://osu.ppy.sh/users/7138602) to the Nomination Assessment Team (2019-10-15)
+- Added [- [bibitaru] -](https://osu.ppy.sh/users/4482419) to Global Moderation Team (2019-10-05)
+- Added [Loneight](https://osu.ppy.sh/users/663131) to Global Moderation Team (2019-10-05)
+- Moved [Leniane](https://osu.ppy.sh/users/7138602) from Beatmap Nominators to Nomination Assessment Team (2019-10-15)
+- Moved [Maxus](https://osu.ppy.sh/users/4335785) from Nomination Assessment Team to osu! Alumni (2019-10-23)
+- Moved [Yason](https://osu.ppy.sh/users/2574392) from osu! Alumni to Global Moderation Team (2019-10-30)
 
 ### Beatmap Nominator additions
 
@@ -238,6 +240,8 @@ All users listed below were added on 2019-02-16.
 - [Bunnrei](https://osu.ppy.sh/users/829284) (2019-10-12)
 - [Daletto](https://osu.ppy.sh/users/7592136) (2019-10-12)
 - [radar](https://osu.ppy.sh/users/7131099) (2019-10-12)
+- [newton-](https://osu.ppy.sh/users/5875419) (2019-10-24)
+- [Kaitjuh](https://osu.ppy.sh/users/2225327) (2019-10-29)
 
 ### Beatmap Nominator removals
 
@@ -248,5 +252,25 @@ All users listed below were added on 2019-02-16.
 - [Okoratu](https://osu.ppy.sh/users/1623405) - resignation (2019-10-16)
 - [Dapuluous](https://osu.ppy.sh/users/8140944) - resignation (2019-10-17)
 - [Nana Abe](https://osu.ppy.sh/users/6443117) - insufficient proficiency (2019-10-19)
+- [-Mikan](https://osu.ppy.sh/users/9063995) - inappropriate behaviour (2019-10-21)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) - resignation (2019-10-29)
+- [-MysticEyes](https://osu.ppy.sh/users/6253266) - resignation (2019-10-31)
 
-<!-- last update: 2019-10-20 Namki -->
+## November
+
+- Moved [Mir](https://osu.ppy.sh/users/8688812) from Nomination Assessment Team to Beatmap Nominators and osu! Alumni (2019-11-01)
+- Moved [Dergo](https://osu.ppy.sh/users/7439226) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-02)
+- Moved [Cynplytholowazy](https://osu.ppy.sh/users/3901754) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-03)
+- Moved [Greaper](https://osu.ppy.sh/users/2369776) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-07)
+- Moved [MBomb](https://osu.ppy.sh/users/3071175) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-07)
+- Moved [Rocma](https://osu.ppy.sh/users/566276) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-07)
+- Added [AirinCat](https://osu.ppy.sh/users/11119539) to Probationary Beatmap Nominators (2019-11-08)
+- Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from Probationary Beatmap Nominators - resignation (2019-11-08)
+- Moved [stymlice](https://osu.ppy.sh/users/5122436) from Global Moderation Team to osu! Alumni (2019-11-10)
+- Moved [Lafayla](https://osu.ppy.sh/users/5312547) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-12)
+- Removed [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) from Beatmap Nominators - resignation (2019-11-13)
+- Added [-Luminate](https://osu.ppy.sh/users/4778689) to Probationary Beatmap Nominators (2019-11-16)
+- Removed [komasy](https://osu.ppy.sh/users/1980256) from Beatmap Nominators - resignation (2019-11-17)
+- Added [Genjuro](https://osu.ppy.sh/users/3196091) to Probationary Beatmap Nominators (2019-11-17)
+
+<!-- last update: 2019-11-17 19:30 UTC -->

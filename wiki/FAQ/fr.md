@@ -87,8 +87,6 @@ Le jeu ressemble à ça:
 
 ![Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS][ouendan image]
 
-_Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS_
-
 Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut.
 Chaque étape est grossièrement l'histoire d'une personne ayant un problème.
 c'est là que l'équipe _Ouendan_ (cheer squad) intervient.

@@ -38,7 +38,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
+| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
 | Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -49,6 +49,8 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973724)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwchr.com/tournaments/19)
+- [Challonge bracket](https://challonge.com/OWC2019)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
 ---
 
@@ -66,7 +68,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | ![][flag_CN] | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)**, [davidqu2](https://osu.ppy.sh/users/6090175), [DuNai](https://osu.ppy.sh/users/2522197), [EbisuzawaKurumi](https://osu.ppy.sh/users/5791401), [GGBY](https://osu.ppy.sh/users/629717), [MyAngelMiku](https://osu.ppy.sh/users/7025429), [Sugiura Kanade](https://osu.ppy.sh/users/7839397), [TeRiRi](https://osu.ppy.sh/users/2142966) |
 | ![][flag_CZ] | **Czech Republic** | **[Swatty](https://osu.ppy.sh/users/1028683)**, [- Daichi -](https://osu.ppy.sh/users/6602580), [BLooDBuRSTiNG](https://osu.ppy.sh/users/3925167), [Electrovoid](https://osu.ppy.sh/users/3853840), [Ev1dent](https://osu.ppy.sh/users/7125675), [kolgar](https://osu.ppy.sh/users/3123488), [Neshpi](https://osu.ppy.sh/users/3198446), [VilaZ](https://osu.ppy.sh/users/5155680) |
 | ![][flag_DK] | **Denmark** | **[Spork Lover](https://osu.ppy.sh/users/3417469)**, [Akayume](https://osu.ppy.sh/users/10617530), [Contaminate](https://osu.ppy.sh/users/4694589), [My Aim Zogs](https://osu.ppy.sh/users/3722715), [raser1234](https://osu.ppy.sh/users/2527887), [Tikzyy](https://osu.ppy.sh/users/11380904), [Vandabe](https://osu.ppy.sh/users/7050754), [waefwerf](https://osu.ppy.sh/users/3868653) |
-| ![][flag_FI] | **Finland** | **[Dragonmob](https://osu.ppy.sh/users/4990193)**, [Freezd](https://osu.ppy.sh/users/6524603), [Haadez](https://osu.ppy.sh/users/8925266), [Incera](https://osu.ppy.sh/users/2159415), [Jup3KW](https://osu.ppy.sh/users/5424170), [Kenraali](https://osu.ppy.sh/users/7341081), [Samoyed](https://osu.ppy.sh/users/6796557), [Santeri](https://osu.ppy.sh/users/1981187) |
+| ![][flag_FI] | **Finland** | **[Dragonmob](https://osu.ppy.sh/users/4990193)**, [Freezd](https://osu.ppy.sh/users/6524603), [Haadez](https://osu.ppy.sh/users/8925266), [Wucki](https://osu.ppy.sh/users/5287410), [Jup3KW](https://osu.ppy.sh/users/5424170), [Kenraali](https://osu.ppy.sh/users/7341081), [Samoyed](https://osu.ppy.sh/users/6796557), [Santeri](https://osu.ppy.sh/users/1981187) |
 | ![][flag_FR] | **France** | **[Musty](https://osu.ppy.sh/users/251683)**, [-raizen-](https://osu.ppy.sh/users/3872987), [Besta](https://osu.ppy.sh/users/5189431), [FayeurS](https://osu.ppy.sh/users/3105416), [LogicSystem](https://osu.ppy.sh/users/7622097), [NerO](https://osu.ppy.sh/users/1545031), [VROUM CV VITE](https://osu.ppy.sh/users/7630971), [ThePooN](https://osu.ppy.sh/users/718454) |
 | ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/users/754565)**, [Ephix](https://osu.ppy.sh/users/3772251), [hallowatcher](https://osu.ppy.sh/users/1874761), [imagaK](https://osu.ppy.sh/users/2022445), [Knalli](https://osu.ppy.sh/users/8147403), [KyoouN](https://osu.ppy.sh/users/1458932), [okinamo](https://osu.ppy.sh/users/3765989), [Umbre](https://osu.ppy.sh/users/2766034) |
 | ![][flag_HK] | **Hong Kong** | **[Chaoslitz](https://osu.ppy.sh/users/3621552)**, [DenierNezzar](https://osu.ppy.sh/users/126144), [Hellotomlol225](https://osu.ppy.sh/users/1906975), [Judas](https://osu.ppy.sh/users/4720411), [LoliL0ver](https://osu.ppy.sh/users/9313951), [mcy4](https://osu.ppy.sh/users/2165650), [Petal](https://osu.ppy.sh/users/7354729), [Riushi](https://osu.ppy.sh/users/2353581) |
@@ -75,7 +77,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | ![][flag_IL] | **Israel** | **[Caution](https://osu.ppy.sh/users/7082242)**, [Galog](https://osu.ppy.sh/users/7799629), [Haida](https://osu.ppy.sh/users/5682039), [namewithnumber9](https://osu.ppy.sh/users/5867839), [Okino may](https://osu.ppy.sh/users/7730603), [Psyical](https://osu.ppy.sh/users/3181332), [MrPotato](https://osu.ppy.sh/users/2787415) |
 | ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/users/4448118)**, [-Syncro](https://osu.ppy.sh/users/4338923), [Carretto](https://osu.ppy.sh/users/3801459), [Kiirochii](https://osu.ppy.sh/users/6387149), [Riuzaky](https://osu.ppy.sh/users/7165477), [SIMONETRAPANI](https://osu.ppy.sh/users/7329177), [Spazza17](https://osu.ppy.sh/users/3516241), [Surpy](https://osu.ppy.sh/users/9961436) |
 | ![][flag_JP] | **Japan** | **[ShirohaMyMommy](https://osu.ppy.sh/users/1603923)**, [a_Blue](https://osu.ppy.sh/users/5645667), [dectopia](https://osu.ppy.sh/users/2845904), [katatakatata](https://osu.ppy.sh/users/3540294), [KonKonKinakoN](https://osu.ppy.sh/users/4733185), [Saix](https://osu.ppy.sh/users/1713861), [Varvalian](https://osu.ppy.sh/users/3345902), [Vento](https://osu.ppy.sh/users/4796794) |
-| ![][flag_LV] | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)**, [- WildTom -](https://osu.ppy.sh/users/7576357), [Ayaero](https://osu.ppy.sh/users/9533316), [debiloka](https://osu.ppy.sh/users/9269034), [ejnah](https://osu.ppy.sh/users/11038469), [Emula](https://osu.ppy.sh/users/2891792), [honnijs](https://osu.ppy.sh/users/6469394), [MegaWhyNOPE](https://osu.ppy.sh/users/8676070) |
+| ![][flag_LV] | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)**, [wildtom](https://osu.ppy.sh/users/7576357), [Ayaero](https://osu.ppy.sh/users/9533316), [debiloka](https://osu.ppy.sh/users/9269034), [ejnah](https://osu.ppy.sh/users/11038469), [Emula](https://osu.ppy.sh/users/2891792), [honnijs](https://osu.ppy.sh/users/6469394), [MegaWhyNOPE](https://osu.ppy.sh/users/8676070) |
 | ![][flag_MY] | **Malaysia** | **[Rampax](https://osu.ppy.sh/users/3995630)**, [Chiyuu](https://osu.ppy.sh/users/8226107), [Desumond](https://osu.ppy.sh/users/7399262), [King Hong](https://osu.ppy.sh/users/7263047), [NOOB1200](https://osu.ppy.sh/users/6932501), [Rumia-](https://osu.ppy.sh/users/1787171), [Tzero](https://osu.ppy.sh/users/6088976), [Zygody](https://osu.ppy.sh/users/3677251) |
 | ![][flag_MX] | **Mexico** | **[Atsuro](https://osu.ppy.sh/users/2279351)**, [-Hebel-](https://osu.ppy.sh/users/6169483), [-Karu](https://osu.ppy.sh/users/8429128), [-Wolfy-](https://osu.ppy.sh/users/4497582), [Flameshock](https://osu.ppy.sh/users/8349047), [KevstracK](https://osu.ppy.sh/users/5325213), [outuyo](https://osu.ppy.sh/users/8704992), [Riot](https://osu.ppy.sh/users/4256461) |
 | ![][flag_NL] | **Netherlands** | **[Viveliam](https://osu.ppy.sh/users/3506793)**, [Damnjelly](https://osu.ppy.sh/users/1666355), [Drerrie](https://osu.ppy.sh/users/5346146), [jackylam5](https://osu.ppy.sh/users/1540807), [Lilily](https://osu.ppy.sh/users/6502403), [Skyrovania](https://osu.ppy.sh/users/4696315), [sunui](https://osu.ppy.sh/users/3065571), [taku](https://osu.ppy.sh/users/684433) |
@@ -102,7 +104,83 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
+## Match Schedule: Round of 16
+
+### Saturday, 23 November 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Germany | ![][flag_DE] | ![][flag_CN] | China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
+| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Poland | ![][flag_PL] | ![][flag_RO] | Romania | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
+| Czech Republic | ![][flag_CZ] | ![][flag_IT] | Italy | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Belgium | ![][flag_BE] | ![][flag_AT] | Austria | **18:00 UTC** | 19:00 UTC+01 | 19:00 UTC+01 |
+| United States | ![][flag_US] | ![][flag_FR] | France | **19:00 UTC** | 13:00 UTC-06 | 20:00 UTC+01 |
+| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 |
+
+### Sunday, 24 November 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
+| Finland | ![][flag_FI] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 11:00 UTC+02 | 22:00 UTC+13 |
+| Australia | ![][flag_AU] | ![][flag_KR] | South Korea | **10:00 UTC** | 21:00 UTC+11 | 19:00 UTC+09 |
+| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
+| United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 12:00 UTC | 20:00 UTC+08 |
+| Denmark | ![][flag_DK] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Latvia | ![][flag_LV] | ![][flag_NO] | Norway | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
+| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
+
 ## Mappools
+
+### Round of 16
+
+- NoMod
+   - [BUTAOTOME - Yokubou no Kozuchi (BarkingMadDog) \[Mallet of Desires\]](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996)
+   - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+   - [Camellia - kodama (ProfessionalBox) \[Yamabiko\]](https://osu.ppy.sh/beatmapsets/488016#osu/1040424)
+   - [Zutto Mayonaka de Ii no ni. - Humanoid (Meg) \[Collab\]](https://osu.ppy.sh/beatmapsets/972298#osu/2035761)
+   - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
+- Hidden
+   - [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#osu/709313)
+   - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+- HardRock
+   - [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[FCL's Extreme\]](https://osu.ppy.sh/beatmapsets/741193#osu/1618753)
+   - [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
+- DoubleTime
+   - [3L - Spring of Dreams (Trust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/739119#osu/1559749)
+   - [Hatsuki Yura - Halloween of the Dead (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2184660)
+   - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
+- FreeMod
+   - [NegaRen - A Bunch Of Samples Played Consecutively (Mao) \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
+   - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+- Tiebreaker
+   - **[Shimotsuki Haruka - Youka to Yumeutsutsu (-Tochi) \[Awake\]](https://osu.ppy.sh/beatmapsets/657208#osu/1392159)**
+
+### Round of 32
+
+- NoMod
+   - [Tadokoro Azusa - Junshin Always (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/838515#osu/1755497)
+   - [cosMo@BousouP - For UltraPlayers (toybot) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1062625#osu/2225237)
+   - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
+   - [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572141)
+   - [AAAA - carnation (Veridian) \[black another\]](https://osu.ppy.sh/beatmapsets/677687#osu/1433158)
+- Hidden
+   - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Fiura's Miyabi\]](https://osu.ppy.sh/beatmapsets/671056#osu/1419003)
+   - [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Despair\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
+- HardRock
+   - [HO-KAGO TEA TIME - Tokimeki Sugar (Yogurtt) \[extra\]](https://osu.ppy.sh/beatmapsets/496985#osu/1057962)
+   - [Yooh - Dynasty (Sylith) \[HalLoWeeN's EXHAUST\]](https://osu.ppy.sh/beatmapsets/149648#osu/374776)
+- DoubleTime
+   - [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875#osu/792303)
+   - [Ceui - Seisen Spectale (Xinely) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/92542#osu/250180)
+   - [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/366643#osu/806465)
+- FreeMod
+   - [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/1029921#osu/2153558)
+   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+- Tiebreaker
+   - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Morinaga) \[Skystar's Descent\]](https://osu.ppy.sh/beatmapsets/679272#osu/1436329)**
 
 ### Qualifiers
 
@@ -120,6 +198,34 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 - DoubleTime
    - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
    - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
+
+---
+
+## Match Results
+
+### Round of 32
+
+| Saturday, 2019-11-16 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/56299664) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56300777) |
+| **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/56303550) |
+| **Netherlands** ![][flag_NL] | **5** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/56303396) |
+| **Russian Federation** ![][flag_RU] | **5** | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/56305124) |
+| **Poland** ![][flag_PL] | **5** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/56309238) |
+| **United States** ![][flag_US] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/56310902) |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/56312743) |
+
+| Sunday, 2019-11-17 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56323868) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56324669) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/56331948) |
+| **Romania** ![][flag_RO] | **5** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56333153) |
+| **Sweden** ![][flag_SE] | 3 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/56334525) |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/56337461) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56339048) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/56340649) |
 
 ---
 

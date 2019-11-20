@@ -2,17 +2,17 @@
 
 ## January
 
-- Moved [ToGlette](https://osu.ppy.sh/users/1076236) to the Global Moderation Team (2017-01-22)
-- Moved [Atrue](https://osu.ppy.sh/users/1758523) to the Global Moderation Team (2017-01-22)
-- Added [n0ah](https://osu.ppy.sh/users/3086393) to the Global Moderation Team (2017-01-26)
-- Added [heyronii](https://osu.ppy.sh/users/5642779) to the Global Moderation Team (2017-01-28)
-- Added [ruexia](https://osu.ppy.sh/users/385069) to the Global Moderation Team (2017-01-29)
+- Moved [ToGlette](https://osu.ppy.sh/users/1076236) from osu! Alumni to Global Moderation Team (2017-01-22)
+- Moved [Atrue](https://osu.ppy.sh/users/1758523) from osu! Alumni to Global Moderation Team (2017-01-22)
+- Added [n0ah](https://osu.ppy.sh/users/3086393) to Global Moderation Team (2017-01-26)
+- Added [heyronii](https://osu.ppy.sh/users/5642779) to Global Moderation Team (2017-01-28)
+- Added [ruexia](https://osu.ppy.sh/users/385069) to Global Moderation Team (2017-01-29)
 
 ### Beatmap Nominator additions
 
 All users listed below were added on 2017-01-20.
 
-- [Bakari](https://osu.ppy.sh/users/597957)
+- [riffy](https://osu.ppy.sh/users/597957)
 - [Battle](https://osu.ppy.sh/users/4037545)
 - [F D Flourite](https://osu.ppy.sh/users/2459589)
 - [Garden](https://osu.ppy.sh/users/2849992)
@@ -21,20 +21,20 @@ All users listed below were added on 2017-01-20.
 
 ## February
 
-- Added [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) to the Quality Assurance Team (2017-02-20)
+- Added [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) to Quality Assurance Team (2017-02-20)
 
 ## March
 
-- Added [S o h](https://osu.ppy.sh/users/2234772) to the Global Moderation Team (2017-03-29)
-- Moved [QHideaki13](https://osu.ppy.sh/users/733998) to the osu! Alumni (2017-03-29)
+- Added [S o h](https://osu.ppy.sh/users/2234772) to Global Moderation Team (2017-03-29)
+- Moved [QHideaki13](https://osu.ppy.sh/users/733998) from Global Moderation Team to osu! Alumni (2017-03-29)
 
 ## April
 
-- Moved [Uni](https://osu.ppy.sh/users/617106) to the Global Moderation Team (2017-04-03)
-- Moved [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) to the osu! Alumni (2017-04-03)
-- Moved [DakeDekaane](https://osu.ppy.sh/users/1425253) to the osu! Alumni (2017-04-27)
-- Moved [Desperate-kun](https://osu.ppy.sh/users/2202645) to the osu! Alumni (2017-04-27)
-- Moved [Fycho](https://osu.ppy.sh/users/1876867) to the osu! Alumni (2017-04-27)
+- Moved [Uni](https://osu.ppy.sh/users/617106) from osu! Alumni to Global Moderation Team (2017-04-03)
+- Moved [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) from Global Moderation Team to osu! Alumni (2017-04-03)
+- Moved [DakeDekaane](https://osu.ppy.sh/users/1425253) from Quality Assurance Team to osu! Alumni (2017-04-27)
+- Moved [Myxo](https://osu.ppy.sh/users/2202645) from Quality Assurance Team to osu! Alumni (2017-04-27)
+- Moved [Fycho](https://osu.ppy.sh/users/1876867) from Global Moderation Team and Quality Assurance Team to osu! Alumni (2017-04-27)
 
 ### Beatmap Nominator additions
 
@@ -52,9 +52,9 @@ All users listed below were added on 2017-04-25.
 
 ## May
 
-- Added [Cryptic](https://osu.ppy.sh/users/3728904) to the Quality Assurance Team (2017-05-02)
-- Added [Doyak](https://osu.ppy.sh/users/2046893) to the Quality Assurance Team (2017-05-03)
-- Added [WalterToro](https://osu.ppy.sh/users/5281416) to the Global Moderation Team (2017-05-22)
+- Added [Cryptic](https://osu.ppy.sh/users/3728904) to Quality Assurance Team (2017-05-02)
+- Moved [Doyak](https://osu.ppy.sh/users/2046893) from Beatmap Nominators to Quality Assurance Team (2017-05-03)
+- Added [WalterToro](https://osu.ppy.sh/users/5281416) to Global Moderation Team (2017-05-22)
 
 ## June
 
@@ -74,13 +74,13 @@ All users listed below were added on 2017-06-30.
 
 ## August
 
-- Moved [alacat](https://osu.ppy.sh/users/869782) to the osu! Alumni (2017-08-20)
+- Moved [alacat](https://osu.ppy.sh/users/869782) from Quality Assurance Team to osu! Alumni (2017-08-20)
 
 ## September
 
-- Added [Lassikko](https://osu.ppy.sh/users/7253731) to the Global Moderation Team (2017-09-11)
-- Moved [Pereira006](https://osu.ppy.sh/users/537344) to the osu! Alumni (2017-09-21)
-- Moved [Shockwave](https://osu.ppy.sh/users/251631) to the osu! Alumni (2017-09-21)
+- Added [Lassikko](https://osu.ppy.sh/users/7253731) to Global Moderation Team (2017-09-11)
+- Moved [Pereira006](https://osu.ppy.sh/users/537344) from Global Moderation Team to osu! Alumni (2017-09-21)
+- Moved [Shockwave](https://osu.ppy.sh/users/251631) from Global Moderation Team to osu! Alumni (2017-09-21)
 
 ### Beatmap Nominator additions
 
@@ -100,15 +100,15 @@ All users listed below were added on 2017-09-10.
 
 ## October
 
-- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) to the Global Moderation Team (2017-10-03)
-- Removed [Cryptic](https://osu.ppy.sh/users/3728904) from the Quality Assurance Team (2017-10-03)
-- Added [Naxess](https://osu.ppy.sh/users/8129817) to the Quality Assurance Team (2017-10-05)
-- Added [Raiden](https://osu.ppy.sh/users/2239480) to the Quality Assurance Team (2017-10-05)
-- Removed [IamKwaN](https://osu.ppy.sh/users/1856463) from the Global Moderation Team (2017-10-12)
-- Moved [n0ah](https://osu.ppy.sh/users/3086393) to the osu! Alumni (2017-10-12)
-- Moved [Stefan](https://osu.ppy.sh/users/626907) to the osu! Alumni (2017-10-12)
-- Moved [IamKwaN](https://osu.ppy.sh/users/1856463) to the osu! Alumni (2017-10-14)
-- Added [Death](https://osu.ppy.sh/users/3242450) to the Global Moderation Team and Support Team (2017-10-20)
+- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from osu! Alumni to Global Moderation Team (2017-10-03)
+- Removed [Cryptic](https://osu.ppy.sh/users/3728904) from Quality Assurance Team (2017-10-03)
+- Added [Naxess](https://osu.ppy.sh/users/8129817) to Quality Assurance Team (2017-10-05)
+- Added [Raiden](https://osu.ppy.sh/users/2239480) to Quality Assurance Team (2017-10-05)
+- Removed [IamKwaN](https://osu.ppy.sh/users/1856463) from Global Moderation Team (2017-10-12)
+- Moved [n0ah](https://osu.ppy.sh/users/3086393) from Global Moderation Team to osu! Alumni (2017-10-12)
+- Moved [Stefan](https://osu.ppy.sh/users/626907) from Global Moderation Team to osu! Alumni (2017-10-12)
+- Moved [IamKwaN](https://osu.ppy.sh/users/1856463) from Quality Assurance Team to osu! Alumni (2017-10-14)
+- Added [Death](https://osu.ppy.sh/users/3242450) to Global Moderation Team and Support Team (2017-10-20)
 
 ### Beatmap Nominator additions
 
@@ -125,14 +125,14 @@ All users listed below were added on 2017-10-24.
 
 ## December
 
-- Added [Protastic101](https://osu.ppy.sh/users/6712747) to the Quality Assurance Team (2017-12-11)
-- Moved [OnosakiHito](https://osu.ppy.sh/users/290128) to the osu! Alumni (2017-12-11)
-- Moved [MrSergio](https://osu.ppy.sh/users/2581696) to the osu! Alumni (2017-12-17)
-- Moved [Loctav](https://osu.ppy.sh/users/71366) to the osu! Alumni (2017-12-17)
-- Moved [n0ah](https://osu.ppy.sh/users/3086393) to the Global Moderation Team (2017-12-26)
-- Added [Edu](https://osu.ppy.sh/users/5618109) to the Global Moderation Team (2017-12-29)
-- Added [Clobohne](https://osu.ppy.sh/users/499343) to the Global Moderation Team (2017-12-29)
-- Added [Kurai](https://osu.ppy.sh/users/77089) to the Quality Assurance Team (2017-12-31)
+- Added [Protastic101](https://osu.ppy.sh/users/6712747) to Quality Assurance Team (2017-12-11)
+- Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from Quality Assurance Team to osu! Alumni (2017-12-11)
+- Moved [Seijiro](https://osu.ppy.sh/users/2581696) from Global Moderation Team to osu! Alumni (2017-12-17)
+- Moved [Loctav](https://osu.ppy.sh/users/71366) to osu! Alumni (2017-12-17)
+- Moved [n0ah](https://osu.ppy.sh/users/3086393) from osu! Alumni to Global Moderation Team (2017-12-26)
+- Added [Edu](https://osu.ppy.sh/users/5618109) to Global Moderation Team (2017-12-29)
+- Added [Clobohne](https://osu.ppy.sh/users/499343) to Global Moderation Team (2017-12-29)
+- Moved [Kurai](https://osu.ppy.sh/users/77089) from Beatmap Nominators to Quality Assurance Team (2017-12-31)
 
 ### Beatmap Nominator additions
 
