@@ -91,7 +91,7 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 빠른 시작
 
    문서 번역의 경우, 제목 맨 앞에 대괄호로 두 글자의 국가 코드를 입력해야 합니다. 제목에 번역 중인 문서의 이름을 적어도 좋습니다. 예를 들어, `[FR] BBCode`는 [BBCode article](/wiki/BBCode)의 불어 번역을 업데이트하고 있음을 나타냅니다.
 
-9. 설명 란에 변경 사항을 요약한 내용을 적습니다. Pull Request에 관련된 정보(예를 들면, 작업의 완료 여부)를 작성해주세요. 설명 란에 "resolves #1" 또는 "closes #1"와 같이 작성하여 Pull Request가 병합될 경우 자동으로 해당 이슈가 종료되도록 할 수도 있습니다. (자세한 내용은 GitHub Help의 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)를 참고하시길 바랍니다.)
+9. 설명 란에 변경 사항을 요약한 내용을 적습니다. Pull Request에 관련된 정보(예를 들면, 작업의 완료 여부 또는 검토자가 알고자 하는 정보)를 작성해주세요. 설명 란에 "resolves #1" 또는 "closes #1"와 같이 작성하여 Pull Request가 병합될 경우 자동으로 해당 이슈가 종료되도록 할 수도 있습니다. (자세한 내용은 GitHub Help의 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)를 참고하시길 바랍니다.)
 
 10. 준비가 되었으면, `Create pull request`를 클릭합니다.
 
@@ -101,7 +101,7 @@ osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 빠른 시작
 
 ### 검토
 
-Pull Request를 만든 뒤에는, osu! wiki의 다른 에디터가 당신이 놓쳤을 지도 모르는 실수를 찾기 위해 당신의 수정 사항을 검토할 수 있습니다. **수정 제안이 있다면 적극적으로 응해주세요.** 그렇지 않을 경우 당신의 Pull Request가 닫힐 수도 있습니다! 당신의 Pull Request를 검토해 줄 사람이 필요하다면, [osu!dev 디스코드](https://discord.gg/ppy) (`#osu-wiki` 채널) 또는 GitHub 댓글 란의 다른 osu! wiki 에디터에게 요청해 보세요.
+Pull Request를 만든 뒤에는, osu! wiki의 다른 에디터가 당신이 놓쳤을 지도 모르는 실수를 찾기 위해 당신의 수정 사항을 검토할 수 있습니다. **검토자의 리뷰에 따라 적극적으로 응해주세요.** 그렇지 않을 경우 당신의 Pull Request가 닫힐 수도 있습니다! 당신의 Pull Request를 검토해 줄 사람이 필요하다면, [osu!dev 디스코드](https://discord.gg/ppy) (`#osu-wiki` 채널) 또는 GitHub 댓글 란의 다른 osu! wiki 에디터에게 요청해 보세요.
 
 ### 병합
 
