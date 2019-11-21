@@ -300,7 +300,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
 

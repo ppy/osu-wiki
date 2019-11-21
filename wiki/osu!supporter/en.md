@@ -35,7 +35,7 @@ When you are ready to make the purchase, go to your [shopping cart](https://osu.
 After the transaction is completed, the Recent Activity section in your account (if you had brought it your self) or the accounts you have gifted will say:
 
 - `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
-- `{username} has once again chosen to donate to the osu! cause - thanks for your generosity!` if the account has been an osu!supporter before.
+- `{username} has once again chosen to support osu! - thanks for your generosity!` if the account has been an osu!supporter before.
 
 ### Userpage and usercard
 

@@ -44,14 +44,6 @@ These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submis
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
 
-## Off-Topic Rules
-
-*The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
-
-1. **No topic in Off-Topic has value.** They are put simply, trash. If your threads keep getting moved to Off-Topic, they are being judged to be unworthy of serious discussion. Take the hint.
-2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
-3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
-
 ## What happens if I break the rules?
 
 If you do find yourself on the wrong end of our community rules, bad things will happen.
