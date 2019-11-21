@@ -7,7 +7,7 @@ tags:
   - stars
 ---
 
-# Difficulté
+# Difficultés
 
 *À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
 
