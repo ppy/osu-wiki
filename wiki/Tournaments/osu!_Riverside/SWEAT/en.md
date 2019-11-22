@@ -14,28 +14,16 @@ tags:
 ![SWEAT banner](img/banner.jpg)
 
 <!-- TODO: Link to Organisations page when it exists -->
-The **Standard/Mania Weekend End of Autumn Tournament** (***SWEAT***) is an osu! and osu!mania BYOC LAN tournament hosted by osu! Riverside. It will take place during *Highlander Con Fall 2019*, a gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
+The **Standard/Mania Weekend End of Autumn Tournament** (***SWEAT***) was an osu! and osu!mania BYOC LAN tournament hosted by osu! Riverside. It took place during *Highlander Con Fall 2019*, a gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
 ## Event details
 
-**Join the [osu! Riverside Discord server](https://discord.gg/SVztsp5) for the most up-to-date information!**
+SWEAT was a LAN event, meaning it happened in-person. osu! Riverside had a room reserved for the duration of Highlander Con, and it was a friendly place for all rhythm gamers to hang out, in addition to hosting this tournament.
 
-SWEAT is a LAN event, meaning it happens in-person. osu! Riverside has a room reserved for the duration of Highlander Con, and it's a great place to hang out with other osu! community members, even if you don't want to participate in the tournament.
-
-Details about Highlander Con Fall 2019 are posted on its [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013); here's what's important for SWEAT:
+Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013):
 
 - Location: Highlander Union Building (HUB), 900 University Ave, Riverside, CA 92507
 - Time: Sunday, November 17, 2019 starting at 11:00AM
-- There will be free parking at Lot 1
-- **You must register on Eventbrite to be allowed into the event (it's free!)**
-
-Remember that this is a **bring your own computer** event! If you want to play in the tournament, bring everything you need to play osu! (computer, peripherals, preferrably a power strip), or a really nice friend who can supply that for you.
-
-## Registration
-
-**Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSchSjpNZEYMO86V17EQpDu_vSgOI1m_2hbu5HJ4gyp8tVu29g/viewform) if you are going to participate in the tournament!**
-
-Also, don't forget to register for Highlander Con on their [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013).
 
 ## Links
 
@@ -48,7 +36,7 @@ Also, don't forget to register for Highlander Con on their [Eventbrite page](htt
 
 ## Prizes
 
-All prizes will be awarded to osu! and osu!mania winners separately.
+All prizes were awarded to osu! and osu!mania winners separately.
 
 <!-- TODO: Add other prizes if/when there are images uploaded that show winners with them... -->
 | Placing | Prize(s) |
