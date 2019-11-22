@@ -64,7 +64,7 @@ All prizes will be awarded to osu! and osu!mania winners separately.
 | Position | Members |
 | :-- | :-- |
 | Host | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) |
-| Commentator | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentator | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Map selector | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [KuroNeko2180](https://osu.ppy.sh/users/10421267), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608) |
 | Referee | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [KuroNeko2180](https://osu.ppy.sh/users/10421267), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 <!-- markdownlint-enable MD045 -->
