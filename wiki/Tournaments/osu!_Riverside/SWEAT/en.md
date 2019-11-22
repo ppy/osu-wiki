@@ -200,7 +200,7 @@ This is a double-elimination tournament.
 #### osu!standard
 
 - **Seeding:** Players will play through all the maps in the mappool and will given a certain amount of points depending on how well they place against other players.
-- **Rounds:** Best of 5
+- **Round of 16:** Best of 5
 - **Quarterfinals:** Best of 5
 - **Semifinals:** Best of 7
 - **Finals:** Best of 9
@@ -209,7 +209,6 @@ This is a double-elimination tournament.
 #### osu!mania 4K
 
 - **Seeding:** Players will be seeded by rank. There will be no group stage.
-- **Quarterfinals:** Best of 5
 - **Semifinals:** Best of 7
 - **Finals:** Best of 9
 - **Grand finals:** Best of 11
