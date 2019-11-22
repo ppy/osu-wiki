@@ -50,11 +50,14 @@ Also, don't forget to register for Highlander Con on their [Eventbrite page](htt
 
 All prizes will be awarded to osu! and osu!mania winners separately.
 
+<!-- TODO: Add other prizes if/when there are images uploaded that show winners with them... -->
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge, *more to be announced* |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | *to be announced* |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | *to be announced* |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge |
+<!--
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") |  |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") |  |
+-->
 
 ![SWEAT osu! profile badge](img/badge-osu.png) ![SWEAT osu!mania profile badge](img/badge-mania.png)
 
