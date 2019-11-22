@@ -71,6 +71,24 @@ All prizes will be awarded to osu! and osu!mania winners separately.
 | Map selector | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [KuroNeko2180](https://osu.ppy.sh/users/10421267), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608) |
 | Referee | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [KuroNeko2180](https://osu.ppy.sh/users/10421267), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 
+## Podium
+
+### osu!standard
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201) |
+
+### osu!mania
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+
 ## Match results
 
 ### osu!standard
