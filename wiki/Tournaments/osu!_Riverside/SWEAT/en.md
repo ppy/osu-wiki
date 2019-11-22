@@ -142,7 +142,7 @@ All prizes will be awarded to osu! and osu!mania winners separately.
 
 #### Seeding
 
-Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/matches/56346534).<!-- TODO: Add note about MintyYumi leaving and J_ joining in last seed -->
+Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/matches/56346534). After seeding was played, ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982) decided to drop the tournament and ![][flag_US] [J\_8579](https://osu.ppy.sh/users/5590317) joined late as the 12th seed.
 
 | Player | Aggregate placement |
 | :-- | :-- |
@@ -156,8 +156,9 @@ Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/m
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | 63 |
 | ![][flag_US] [SSplosionz](https://osu.ppy.sh/users/9511965) | 68 |
 | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) | 81 |
-| ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982) | 87 |
+| ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982) | 87 (dropped) |
 | ![][flag_US] [TeknoHead247](https://osu.ppy.sh/users/1847311) | 96 |
+| ![][flag_US] [J\_8579](https://osu.ppy.sh/users/5590317) | Joined late |
 
 ### osu!mania
 
