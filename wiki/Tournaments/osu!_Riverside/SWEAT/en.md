@@ -43,7 +43,8 @@ Also, don't forget to register for Highlander Con on their [Eventbrite page](htt
 - [Highlander Con Fall 2019 Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013)
 - [Livestream](https://www.twitch.tv/osuriverside)
 - [osu! Riverside Discord server](https://discord.gg/SVztsp5)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSchSjpNZEYMO86V17EQpDu_vSgOI1m_2hbu5HJ4gyp8tVu29g/viewform)
+- [osu!standard Challonge bracket](https://challonge.com/SWEATSTD)
+- [osu!mania Challonge bracket](https://challonge.com/l4xtf5z5)
 
 ## Prizes
 
