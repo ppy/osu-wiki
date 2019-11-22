@@ -232,7 +232,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [FELT - Puppet in the Dark \(Part I & II\) (ailv) [Marionette]](https://osu.ppy.sh/beatmapsets/829511#osu/1737885)
+- **[FELT - Puppet in the Dark \(Part I & II\) (ailv) [Marionette]](https://osu.ppy.sh/beatmapsets/829511#osu/1737885)**
 
 #### Finals
 
@@ -262,7 +262,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [Nanahira - Petals (Kalibe) [Flower]](https://osu.ppy.sh/beatmapsets/592381#osu/1601880)
+- **[Nanahira - Petals (Kalibe) [Flower]](https://osu.ppy.sh/beatmapsets/592381#osu/1601880)**
 
 #### Semifinals
 
@@ -292,7 +292,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [Zedd - Clarity \(feat. Foxes\) \(kamome sano remix\) (Broccoly) [The Song Is About a Tragic Love]](https://osu.ppy.sh/beatmapsets/324303#osu/720590)
+- **[Zedd - Clarity \(feat. Foxes\) \(kamome sano remix\) (Broccoly) [The Song Is About a Tragic Love]](https://osu.ppy.sh/beatmapsets/324303#osu/720590)**
 
 #### Quarterfinals
 
@@ -322,7 +322,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [Inori Minase - Yume no Tsubomi (hvick225) [NathanZhanKamal225's Blossom]](https://osu.ppy.sh/beatmapsets/601883#osu/1271372)
+- **[Inori Minase - Yume no Tsubomi (hvick225) [NathanZhanKamal225's Blossom]](https://osu.ppy.sh/beatmapsets/601883#osu/1271372)**
 
 #### Round of 16
 
@@ -352,7 +352,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [Nekomata Master+ - Kung-fu Empire (Damnae) [Backdrop]](https://osu.ppy.sh/beatmapsets/173288#osu/418725)
+- **[Nekomata Master+ - Kung-fu Empire (Damnae) [Backdrop]](https://osu.ppy.sh/beatmapsets/173288#osu/418725)**
 
 #### Seeding
 
@@ -402,7 +402,7 @@ DoubleTime:
 
 Tiebreaker:
 
-- [Camellia - Arche (-mint-) [drago vs. mint's apeiron]](https://osu.ppy.sh/beatmapsets/1047817#mania/2190205)
+- **[Camellia - Arche (-mint-) [drago vs. mint's apeiron]](https://osu.ppy.sh/beatmapsets/1047817#mania/2190205)**
 
 #### Finals
 
@@ -425,7 +425,7 @@ Tiebreaker:
 
 Tiebreaker:
 
-- [AAAA - Hoshi o Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Lude) [Epochal Adventure]](https://osu.ppy.sh/beatmapsets/653414#mania/1438046)
+- **[AAAA - Hoshi o Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Lude) [Epochal Adventure]](https://osu.ppy.sh/beatmapsets/653414#mania/1438046)**
 
 #### Semifinals
 
@@ -444,7 +444,7 @@ Tiebreaker:
 
 Tiebreaker:
 
-- [Nanahira - Petals (Arzenvald) [\~ furrows of tomorrow \~ // four key]](https://osu.ppy.sh/beatmapsets/634241#mania/1345838)
+- **[Nanahira - Petals (Arzenvald) [\~ furrows of tomorrow \~ // four key]](https://osu.ppy.sh/beatmapsets/634241#mania/1345838)**
 
 ## Ruleset
 
