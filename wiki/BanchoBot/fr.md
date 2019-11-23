@@ -6,7 +6,7 @@ BanchoBot est un bot (c’est-à-dire un ensemble de commandes à réponse autom
 
 ## Commandes
 
-*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console)*
+*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console#la-liste-des-commandes)*
 
 Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commandes fonctionnent dans le jeu et dans les clients IRC externes. Ils peuvent être utilisés dans les canaux de discussion multijoueurs et dans l'onglet MP (message privé) de BanchoBot. Si un utilisateur envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
 
@@ -139,7 +139,7 @@ Tama: ok
 
 *Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`).*
 
-Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Global_Moderation_Team).
+Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Language_Moderators).
 
 #### Exemple d'utilisation
 

@@ -14,7 +14,7 @@ BanchoBot juga dikenal sebagai host [irc bancho](/wiki/Internet_Relay_Chat) dan 
 
 Untuk menggunakan perintah BanchoBot, anda harus menggunakan awalan `!` setiap saat. **Pengguna normal hanya bisa menggunakan perintah ini di channel multiplayer dan di PM BanchoBot.** Jika pengguna mengirim perintah dalam obrolan publik, pengguna biasa tidak akan melihatnya dan mereka mendapatkannya sebagai pesan pribadi. Pengguna juga dapat menggunakan perintah klien `/bb <command>` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
-*Untuk daftar perintah yang menggunakan slash (klien), kunjungi artikel [Konsol Obrolan](/wiki/Chat_Console).*
+*Untuk daftar perintah yang menggunakan slash (klien), kunjungi artikel [Konsol Obrolan](/wiki/Chat_Console#daftar-perintah).*
 
 | Perintah | Penjelas | Deskripsi | Contoh Masukan | Contoh Tanggapan |
 | --- | --- | --- | --- | --- |
