@@ -142,7 +142,7 @@ Tama: ok
 
 *Aviso: Cuando pongas el nombre, reemplaza los espacios con barras bajas (`_`).*
 
-Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Global_Moderation_Team).
+Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Language_Moderators).
 
 #### Ejemplo de uso
 

@@ -139,7 +139,7 @@ Tama: ok
 
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
-Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Global_Moderation_Team).
+Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
 
 #### Usage Example
 
