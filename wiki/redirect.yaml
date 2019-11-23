@@ -896,6 +896,7 @@
 "moderators":                      "People/The_Team/Global_Moderation_Team"
 "moderator":                       "People/The_Team/Global_Moderation_Team"
 
+"language_moderators":             "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_moderator":              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_mods":                   "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_mod":                    "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
