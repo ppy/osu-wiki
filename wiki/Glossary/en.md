@@ -311,7 +311,9 @@ Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will
 
 ### Featured Artist
 
-A featured artist is someone who has officialy licensed music for use in osu!. Their music has been cleared by the osu! team and their songs are suitable for beatmapping.
+*See also: [Featured Artists](https://osu.ppy.sh/beatmaps/artists)*
+
+A featured artist is an artist who has officially licensed their music for use in osu!. Their music has been cleared by the osu! team and their songs are suitable for beatmapping. All tracks from featured artists include a pre-timed `.osz` file to help you focus on beatmapping.
 
 ## G
 
