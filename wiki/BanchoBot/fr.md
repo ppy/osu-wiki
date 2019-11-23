@@ -6,7 +6,7 @@ BanchoBot est un bot (c’est-à-dire un ensemble de commandes à réponse autom
 
 ## Commandes
 
-*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console#commands-list)*
+*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console)*
 
 Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commandes fonctionnent dans le jeu et dans les clients IRC externes. Ils peuvent être utilisés dans les canaux de discussion multijoueurs et dans l'onglet MP (message privé) de BanchoBot. Si un utilisateur envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
 
@@ -121,7 +121,7 @@ BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handl
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
 Tama: ok
 ```
 
@@ -139,7 +139,7 @@ Tama: ok
 
 *Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`).*
 
-Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Language_Moderators).
+Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Global_Moderation_Team).
 
 #### Exemple d'utilisation
 
