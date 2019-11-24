@@ -130,6 +130,8 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ³ |
 | Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **10:30 UTC** | 11:30 UTC+01 | 18:30 UTC+08 | ³ |
 | Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **10:30 UTC** | 11:30 UTC+01 | 18:30 UTC+08 | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **10:30 UTC** | 11:30 UTC+01 | 11:30 UTC+01 | ³ |
+| Italy | ![][flag_IT] | ![][flag_AT] | Austria | **10:30 UTC** | 11:30 UTC+01 | 11:30 UTC+01 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 09:00 UTC-03 | 19:00 UTC+07 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00 UTC** | 09:00 UTC-03 | 20:00 UTC+08 | ³ |
 | Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 | ³ |
@@ -138,8 +140,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Japan | ![][flag_JP] | ![][flag_FR] | France | **13:30 UTC** | 22:30 UTC+09 | 14:30 UTC+01 | ³ |
 | China | ![][flag_CN] | ![][flag_PL] | Poland | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ³ |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
-| Italy | ![][flag_IT] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **16:30 UTC** | 16:30 UTC | 00:30 (Mon.) UTC+08 | ¹ |
 | Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ¹ |
 | Romania | ![][flag_RO] | ![][flag_DE] | Germany | **19:30 UTC** | 21:30 UTC+02 | 20:30 UTC+01 | ¹ |
