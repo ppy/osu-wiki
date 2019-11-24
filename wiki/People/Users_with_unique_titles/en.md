@@ -1,0 +1,305 @@
+# Users with unique titles
+
+User titles are typically associated with [user groups](/wiki/People/The_Team#user-groups), but the users listed here were given their titles for other reasons. Most of the titles were rewards for contribution or achievement, with the remaining being tokens of iconic or funny osu! history.
+
+## By category, with reasons
+
+<!-- markdownlint-disable MD045 -->
+
+### World Cup winners
+
+One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
+
+Winners of OWC 2018 with the **osu! Champion** user title:
+
+- ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
+- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
+- ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013)
+- ![][flag_US] [t[-_-t]](https://osu.ppy.sh/users/2644828)
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
+- ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
+
+Winners of TWC 2019 with the **osu!taiko Champion** user title:
+
+- ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
+- ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
+- ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347)
+- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269)
+
+Winners of CWC 2019 with the **osu!catch Champion** user title:
+
+- ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549)
+- ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951)
+- ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
+- ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
+- ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369)
+
+Winners of MWC 4K 2019 with the **osu!mania Champion** user title:
+
+- ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
+- ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
+- ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923)
+- ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155)
+- ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
+- ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
+
+Winners of MWC 7K 2019 with the **osu!mania Champion** user title:
+
+- ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697)
+- ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972)
+- ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430)
+- ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
+
+### General mapping contest winners
+
+Most mapping contests offer the **Elite Mapper** title as a first-place prize.
+
+- ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
+- ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
+- ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
+- ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
+- ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
+- ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
+- ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)
+- ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611)
+- ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308)
+- ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804)
+- ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
+- ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
+- ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
+- ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
+- ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
+- ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
+- ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883)
+- ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586)
+- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+- ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770)
+- ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340)
+- ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229)
+- ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
+- ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
+
+### Aspire mapping contest winners
+
+The Aspire mapping contests featured a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
+
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
+- ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
+
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) received this title after already having an Elite Mapper title, so it was "upgraded" to **Elite Mapper II: Aspirant**.
+
+### osu!remix contest winners
+
+The osu!remix contests award the **osu!mixer** title as a first-place prize.
+
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
+
+### Featured Artists
+
+[Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
+
+- ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723)
+- ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834)
+- ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
+- ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053)
+- ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310)
+- ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848)
+- ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867)
+- ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258)
+- ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619)
+- ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+
+### Hall of Famers
+
+<!-- TODO: title explanation and reasons for each person -->
+
+- ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
+- ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
+- ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
+
+### Elite Storyboarders
+
+Storyboarders who demonstrate exceptional storyboarding talent and impress the community at large are given the **Elite Storyboarder** title.
+
+- ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
+- ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349)
+
+### Gameplay-related
+
+<!-- TODO: titles/reasons for each person -->
+
+- ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) <!-- Champion Above Champions  fcd https://osu.ppy.sh/beatmapsets/7671#osu/32570 first -->
+- ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) <!-- Drum Decimator  fcd all taiko ranked maps -->
+- ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) <!-- Bested the Reaper's Game  a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further -->
+- ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) <!-- The First Completionist  played all standard ranked maps -->
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) <!-- Medal Hunter -->
+
+### Contributors
+
+<!-- TODO: titles/reasons for each person -->
+
+- ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) <!-- osu!musician -->
+- ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) <!-- Resident Skinner -->
+- ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) <!-- Pro Tester -->
+- ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) <!-- osu!musician -->
+- ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) <!-- iPhone Dev -->
+- ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) <!-- Pro Tester -->
+
+### Other
+
+<!-- TODO: titles/reasons for each person -->
+
+- ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) <!-- w00t p00t -->
+- ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) <!-- COOL DUDE  old forum meme -->
+- ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) <!-- Popcorn Fairy  movie threater pictures in staff chats, or something -->
+- ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) <!-- ¿ -->
+- ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) <!-- Boats -->
+
+<!-- TODO: titles/reasons for each person & sort these guys into the right categories -->
+
+- ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) <!-- osu!painter  achievements and some other graphics -->
+- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) <!-- osu!artist  mocha and a bunch of artwork -->
+- ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) <!-- osu!painter  maria and yuzu and a bunch of artwork for old site -->
+- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) <!-- osu!artist  winner of osutaiko mascot contest (aiko)-->
+- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) <!-- osu!painter -->
+- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) <!-- osu!artist -->
+
+## By name
+
+| User | Title |
+| :-- | :-- |
+| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
+| ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
+| ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549) | osu!catch Champion |
+| ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
+| ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
+| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
+| ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
+| ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
+| ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951) | osu!catch Champion |
+| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
+| ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839) | osu!mania champion |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
+| ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
+| ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | osu!musician |
+| ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377) | Elite Storyboarder |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
+| ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! Champion |
+| ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator |
+| ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
+| ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697) | osu!mania Champion |
+| ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
+| ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
+| ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
+| ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
+| ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
+| ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
+| ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347) | osu!taiko Champion |
+| ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972) | osu!mania Champion |
+| ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
+| ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
+| ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
+| ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | Featured Artist |
+| ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
+| ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
+| ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
+| ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
+| ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
+| ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | Elite Mapper |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
+| ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
+| ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
+| ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) | osu! Champion |
+| ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
+| ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
+| ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
+| ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
+| ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) | osu!mania Champion |
+| ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
+| ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | Featured Artist |
+| ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
+| ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) | Elite Mapper: Aspirant |
+| ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
+| ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
+| ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586) | Elite Mapper |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Elite Mapper |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
+| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
+| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
+| ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
+| ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | Featured Artist |
+| ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Elite Mapper: Aspirant |
+| ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
+| ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) | osu!mania Champion |
+| ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
+| ![][flag_US] [t[-_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
+| ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
+| ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
+| ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
+| ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155) | osu!mania Champion |
+| ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
+| ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) | osu!taiko Champion |
+| ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
+| ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229) | Elite Mapper |
+| ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
+| ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
+| ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Elite Mapper |
+
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_LY]: /wiki/shared/flag/LY.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_SH]: /wiki/shared/flag/SH.gif
+[flag_HM]: /wiki/shared/flag/HM.gif
