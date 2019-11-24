@@ -16,7 +16,7 @@ Winners of OWC 2018 with the **osu! Champion** user title:
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
 - ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013)
-- ![][flag_US] [t[-_-t]](https://osu.ppy.sh/users/2644828)
+- ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
@@ -258,7 +258,7 @@ Storyboarders who demonstrate exceptional storyboarding talent and impress the c
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) | osu!mania Champion |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
-| ![][flag_US] [t[-_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
+| ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
