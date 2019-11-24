@@ -104,33 +104,51 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
 ### Saturday, 23 November 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 |
-| Denmark | ![][flag_DK] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **16:00 UTC** | 00:00 (Sun.) UTC+08 | 17:00 UTC+01 |
-| Czech Republic | ![][flag_CZ] | ![][flag_IT] | Italy | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **17:00 UTC** | 20:00 UTC+03 | 18:00 UTC+01 |
-| United States | ![][flag_US] | ![][flag_FR] | France | **19:00 UTC** | 13:00 UTC-06 | 20:00 UTC+01 |
-| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Poland | ![][flag_PL] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ² |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **10:30 UTC** | 19:30 UTC+09 | 19:30 UTC+09 | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_AT] | Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | **13:30 UTC** | 20:30 UTC+07 | 21:30 UTC+08 | ² |
+| China | ![][flag_CN] | ![][flag_SE] | Sweden | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ² |
+| Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **16:30 UTC** | 17:30 UTC+01 | 17:30 UTC+01 | ² |
+| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 | ² |
+| France | ![][flag_FR] | ![][flag_CL] | Chile | **19:30 UTC** | 20:30 UTC+01 | 16:30 UTC-03 | ² |
 
 ### Sunday, 24 November 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
-| Finland | ![][flag_FI] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 11:00 UTC+02 | 22:00 UTC+13 |
-| Australia | ![][flag_AU] | ![][flag_KR] | South Korea | **10:00 UTC** | 21:00 UTC+11 | 19:00 UTC+09 |
-| United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 12:00 UTC | 20:00 UTC+08 |
-| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 |
-| Latvia | ![][flag_LV] | ![][flag_NO] | Norway | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
-| Belgium | ![][flag_BE] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
-| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **16:00 UTC** | 13:00 UTC-03 | 19:00 UTC+03 |
-| Poland | ![][flag_PL] | ![][flag_RO] | Romania | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
+| Japan | ![][flag_JP] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
+| United States | ![][flag_US] | ![][flag_AU] | Australia | **03:30 UTC** | 21:30 (Sat.) UTC-06 | 14:30 UTC+11 | ¹ |
+| China | ![][flag_CN] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 17:00 UTC+08 | 22:00 UTC+13 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **10:30 UTC** | 11:30 UTC+01 | 18:30 UTC+08 | ³ |
+| Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **10:30 UTC** | 11:30 UTC+01 | 18:30 UTC+08 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 09:00 UTC-03 | 19:00 UTC+07 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00 UTC** | 09:00 UTC-03 | 20:00 UTC+08 | ³ |
+| Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 | ³ |
+| Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_FR] | France | **13:30 UTC** | 22:30 UTC+09 | 14:30 UTC+01 | ³ |
+| Japan | ![][flag_JP] | ![][flag_FR] | France | **13:30 UTC** | 22:30 UTC+09 | 14:30 UTC+01 | ³ |
+| China | ![][flag_CN] | ![][flag_PL] | Poland | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
+| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
+| Italy | ![][flag_IT] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **16:30 UTC** | 16:30 UTC | 00:30 (Mon.) UTC+08 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ¹ |
+| Romania | ![][flag_RO] | ![][flag_DE] | Germany | **19:30 UTC** | 21:30 UTC+02 | 20:30 UTC+01 | ¹ |
+
+¹ Winner bracket encounter
+ 
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
 
@@ -202,6 +220,30 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 ---
 
 ## Match Results
+
+### Round of 16
+
+| Saturday, 2019-11-23 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Germany** ![][flag_DE] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/56466754) |
+| Denmark ![][flag_DK] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/56467513) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/56471138) |
+| Czech Republic ![][flag_CZ] | 3 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/56472962) |
+| Turkey ![][flag_TR] | 1 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/56472920) |
+| **United States** ![][flag_US] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56476625) |
+| **Chile** ![][flag_CL] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56478465) |
+
+| Sunday, 2019-11-24 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56487811) |
+| **Finland** ![][flag_FI] | 3 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/56492906) |
+| **Australia** ![][flag_AU] | **5** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/56493770) |
+| **United Kingdom** ![][flag_GB] | **5** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/56495679) |
+| Spain ![][flag_ES] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/56497207) |
+| Latvia ![][flag_LV] | 0 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/56498749) |
+| **Belgium** ![][flag_BE] | 2 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/56500421) |
+| **Brazil** ![][flag_BR] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/56501739) |
+| **Poland** ![][flag_PL] | 2 | **5** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/56503201) |
 
 ### Round of 32
 
