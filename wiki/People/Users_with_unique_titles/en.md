@@ -277,29 +277,29 @@ Storyboarders who demonstrate exceptional storyboarding talent and impress the c
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Elite Mapper |
 
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_LY]: /wiki/shared/flag/LY.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SH]: /wiki/shared/flag/SH.gif
-[flag_HM]: /wiki/shared/flag/HM.gif
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_HM]: /wiki/shared/flag/HM.gif "Heard Island and McDonald Islands"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LY]: /wiki/shared/flag/LY.gif "Libya"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SH]: /wiki/shared/flag/SH.gif "Saint Helena"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
