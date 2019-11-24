@@ -106,7 +106,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ## Match Schedule: Quarterfinals
 
-### Saturday, 23 November 2019
+### Saturday, 30 November 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -119,7 +119,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 | ² |
 | France | ![][flag_FR] | ![][flag_CL] | Chile | **19:30 UTC** | 20:30 UTC+01 | 16:30 UTC-03 | ² |
 
-### Sunday, 24 November 2019
+### Sunday, 01 December 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
