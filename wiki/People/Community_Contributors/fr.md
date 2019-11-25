@@ -1,4 +1,4 @@
-# Contributeurs
+# Les contributeurs importants de la communauté
 
 ![Badge du contributeur](/wiki/shared/contributor.jpg "Badge du contributeur")
 
