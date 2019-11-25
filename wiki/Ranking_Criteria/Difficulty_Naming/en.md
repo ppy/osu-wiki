@@ -98,6 +98,8 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 ### SOUND VOLTEX
 
+*Note: Large mapsets of SOUND VOLTEX songs often use difficulty names from multiple versions of the game, even if the song does not appear in all of them.*
+
 - ![](/wiki/shared/diff/easy-s.png) BASIC / BSC
 - ![](/wiki/shared/diff/normal-s.png) NOVICE / NOV
 - ![](/wiki/shared/diff/hard-s.png) ADVANCED / ADV
@@ -120,8 +122,6 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 - ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-s.png) VIVID / VVD
-
-If more than provided difficulty names are needed for large mapsets, difficulty names from other versions are usually used.
 
 ### Arcaea
 
