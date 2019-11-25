@@ -2,8 +2,10 @@
 
 *Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/Staff_Log)*
 
+Les personnes listées ci-dessous sont le coeur de l'**osu!team** et sont principalement chargées d'aider à rendre le jeu génial pour tous.
+
 <!-- markdownlint-disable MD045 -->
-| Nom | Description |
+| Nom |  Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Créateur d'osu! sur PC** |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Modération et conseiller communautaire |
@@ -23,7 +25,7 @@
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Entretien général et maintenance  du wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Aide ménagère générale et assistant des artiste en vedette |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | développement d'osu!, aimant osu!mania, chasseur de bugs |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Capitaine du Project Loved et conseiller communautaire |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manager du Project Loved et conseiller communautaire, sensibilisation au Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Entretien ménager général et assistant de tournoi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
 <!-- markdownlint-enable MD045 -->
@@ -45,7 +47,7 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 ## Inactifs
 
 <!-- markdownlint-disable MD045 -->
-| Nom | Description |
+| Nom | Role |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Aide et entretien général, Dessinateur de chibis |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Design audio et [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
