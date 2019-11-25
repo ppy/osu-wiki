@@ -1,4 +1,4 @@
-# Le staff d'osu!
+# L'Équipe
 
 *Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/Staff_Log)*
 
