@@ -1,8 +1,7 @@
 ---
 outdated: true
 ---
-
-# Options
+# Option du jeu
 
 ![Menu des options (l'interface à gauche)](img/options_basic.jpg "Menu des options (l'interface à gauche)")
 

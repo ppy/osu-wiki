@@ -309,6 +309,12 @@ A term used when a player completes a beatmap while obtaining the maximum combo 
 
 Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
+### Featured Artist
+
+*Main page: [Featured Artists](/wiki/Featured_Artists)*
+
+A featured artist is an artist who has officially licensed their music for use in osu!. Their music has been cleared by the osu! team and their songs are suitable for beatmapping. All tracks from featured artists include a pre-timed `.osz` file to help you focus on beatmapping.
+
 ## G
 
 ### Geki

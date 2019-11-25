@@ -1,4 +1,5 @@
 # Personnes
 
-- [Contributeurs](Community_Contributors)
-- [Administration](The_Team)
+- [L'Équipe](The_Team)
+- [Les contributeurs importants de la communauté](Community_Contributors)
+

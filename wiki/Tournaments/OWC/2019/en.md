@@ -40,7 +40,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -110,12 +110,11 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_CN] | China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
-| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_RO] | Romania | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
-| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
+| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 |
+| Denmark | ![][flag_DK] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **16:00 UTC** | 00:00 (Sun.) UTC+08 | 17:00 UTC+01 |
 | Czech Republic | ![][flag_CZ] | ![][flag_IT] | Italy | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| Belgium | ![][flag_BE] | ![][flag_AT] | Austria | **18:00 UTC** | 19:00 UTC+01 | 19:00 UTC+01 |
+| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **17:00 UTC** | 20:00 UTC+03 | 18:00 UTC+01 |
 | United States | ![][flag_US] | ![][flag_FR] | France | **19:00 UTC** | 13:00 UTC-06 | 20:00 UTC+01 |
 | Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 |
 
@@ -126,11 +125,12 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
 | Finland | ![][flag_FI] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 11:00 UTC+02 | 22:00 UTC+13 |
 | Australia | ![][flag_AU] | ![][flag_KR] | South Korea | **10:00 UTC** | 21:00 UTC+11 | 19:00 UTC+09 |
-| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 |
 | United Kingdom | ![][flag_GB] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 12:00 UTC | 20:00 UTC+08 |
-| Denmark | ![][flag_DK] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Spain | ![][flag_ES] | ![][flag_JP] | Japan | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 |
 | Latvia | ![][flag_LV] | ![][flag_NO] | Norway | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 |
-| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **15:00 UTC** | 18:00 UTC+03 | 16:00 UTC+01 |
+| Belgium | ![][flag_BE] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **16:00 UTC** | 13:00 UTC-03 | 19:00 UTC+03 |
+| Poland | ![][flag_PL] | ![][flag_RO] | Romania | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 |
 
 ## Mappools
 

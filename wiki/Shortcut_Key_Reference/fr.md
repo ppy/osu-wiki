@@ -1,4 +1,4 @@
-# Raccourcis clavier
+# Liste des raccourcis claviers
 
 Dans osu!, il existe divers raccourcis qui peuvent être utilisés dans le jeu et les menus. Ils sont listés ici avec leurs fonctions ci-dessous.
 
@@ -285,5 +285,3 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `Mouse Wheel Down`: Réduit le diviseur de snap
 - `Alt` + `Mouse Wheel Down`: Réduit le multiplicateur de distance du alt-snapping quand vous êtes dans le terrain de jeux. Change le zoom de la timeline quand vous êtes dans la timeline
 - `Dragging`: Bouge une sélection de notes (la position et le temps), bouge les points dans un slider. Fait glisser la fin des sliders ou des spinners dans la timeline pour les étendre
-
-
