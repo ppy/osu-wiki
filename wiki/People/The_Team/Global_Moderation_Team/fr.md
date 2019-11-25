@@ -11,8 +11,9 @@ Devenir un membre de l'équipe de modération globale est un processus lent et d
 L'équipe de modération globale est responsable du maintien de la bonne ambiance sur le chat et le forum et sont prêts à donner des sanctions en cas d'infraction du règlement. Ils sont disponibles à tout joueur ayant des questions pertinentes concernant le jeu et son fonctionnement général ou diverses infractions.
 
 ## Liste des GMT
+La [page du groupe de l'équipe de modération globale] liste tous les membres de l'équipe.
 
-*Veuillez noter que tous les GMT peuvent également parler anglais en plus des langues listées ci-dessous.* - [Page du groupe](https://osu.ppy.sh/groups/4)
+*Veuillez noter que tous les GMT peuvent également parler anglais en plus des langues listées ci-dessous, sauf s'il est noté le contraire.* 
 
 <!-- markdownlint-disable MD045 -->
 | Nom | Langues | Domaine d'intervention |
