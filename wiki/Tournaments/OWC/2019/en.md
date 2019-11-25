@@ -152,6 +152,35 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ## Mappools
 
+### Quarterfinals
+
+- NoMod
+   - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+   - [xi - over the top (Kroytz) \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
+   - [sky_delta - Midnight City Warfare (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1008607#osu/2111383)
+   - [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
+   - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono (LMT) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)
+   - [Tokyo Jihen - Sounan (Uberzolik) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/967321#osu/2031053)
+- Hidden
+   - [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#osu/1867667)
+   - [BUTAOTOME - Towa no Maigo (Icekalt) \[It was all a dream\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2238398)
+   - [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)
+- HardRock
+   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
+   - [An - Catanoph (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1697021)
+   - [P4koo - Crystal Illusion (Beomsan) \[milr\_'s Expert\]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
+- DoubleTime
+   - [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
+   - [senya - Magica (Satellite) \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
+   - [HAG - Koe (C O N N E R) \[Insane\]](https://osu.ppy.sh/beatmapsets/798510#osu/1676795)
+   - [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
+- FreeMod
+   - [HyuN - Tokyo's Starlight (Pho) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/891712#osu/1864175)
+   - [mafumafu - Kakushigoto (Vert) \[0108's Extra.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1680481)
+   - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
+- Tiebreaker
+   - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
+
 ### Round of 16
 
 - NoMod
