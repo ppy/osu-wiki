@@ -1,12 +1,12 @@
 # Interface Web GitHub
 
-*Cet article se poursuit à partir de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
 
 ## Édition
 
 1\. Ouvrez l'onglet de code sur votre fork (vous devriez déjà être sur cet onglet).
 
-2\. Accédez au fichier que vous souhaitez modifier. Les articles sont situés dans le dossier `wiki` et sont organisés par les noms de dossier étant les noms d'article, tandis que les fichiers `.md` sont les traductions.
+2\. Accédez au fichier que vous souhaitez modifier. Les articles sont situés dans le dossier `wiki` et sont organisés par les noms de dossier qui sont les noms d'article, tandis que les fichiers `.md` sont les traductions.
 
 3\. Une fois que vous avez trouvé le bon fichier, cliquez dessus.
 
@@ -20,7 +20,7 @@
 
 ### Déplacement de fichiers
 
-* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à caler votre pull request! *
+* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejetter votre pull request! *
 
 1\. Naviguez jusqu'au fichier que vous souhaitez déplacer et ouvrez-le.
 
@@ -64,7 +64,7 @@
 
 ### Suppression de fichiers
 
-*Attention: Ceci est **non recommandé** car vous ne pouvez supprimer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à caler votre pull request !*
+*Attention: Ceci est **non recommandé** car vous ne pouvez supprimer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejetter votre pull request !*
 
 1\. Ouvrez l'onglet de code sur votre fork.
 
@@ -80,9 +80,9 @@
 
 ![](img/online-commit-changes-empty.jpg "S'il vous plaît ne laissez pas ceci vide !")
 
-2\. **Quoi que vous fassiez, ne laissez jamais la zone de texte du titre vide!** Au lieu de cela, entrez le titre de l'article et un court résumé de toutes les modifications que vous avez apportées **en anglais**.
+2\. **Quoi que vous fassiez, ne laissez jamais la zone de texte du titre vide!** A la place, entrez le titre de l'article et un court résumé de toutes les modifications que vous avez apportées **en anglais**.
 
-3\. Vous pouvez utiliser la description facultative pour être plus détaillée si nécessaire. Un bon commit peut ressembler à quelque chose comme ça :
+3\. Vous pouvez utiliser la description facultative s'il vous est nécessaire d'ajouter plus de détails. Un bon commit peut ressembler à quelque chose comme ça :
 
 ![](img/online-commit-changes-filled.jpg "C'est ok !")
 
@@ -96,7 +96,7 @@
 
 ![](img/pull-request-pippi-osu--osu-wiki.jpg "Ne fais rien ici! (Ceci est la mauvaise page!)")
 
-8\. Continuez à [Finition](#finishing).
+8\. Continuez à [Finition](#finition).
 
 ## Finition
 
