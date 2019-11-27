@@ -245,4 +245,4 @@ Non-guild maps will be marked with an asterisk `*`.
 
 The ranked catalogue of Featured Artist tracks is rapidly growing thanks to the enthusiasm of the community! We will be sure to keep these news posts up regularly so that everyone can keep up with all the activity for Mappers' Guild quests, new Featured Artist beatmap packs, medals, and all applicable ranked maps during each period. See you again next update!
 
-—Pachiru and Noffy
+—pishifat and Noffy
