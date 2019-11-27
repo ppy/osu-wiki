@@ -98,7 +98,7 @@ For the record, these include the recent changes made [from the discussion forum
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
   - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
-- **If the artist or title field were shortened to fit in field limits, the omitted information must be added to tags.**
+- **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
 - **Do not include tags which have no relation to the beatmap or its song.** Tags relating to the beatmap's style, storyboard, video, or background content are considered related to the beatmap and would be allowed in tags.
 
