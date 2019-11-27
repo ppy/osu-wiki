@@ -219,7 +219,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Ben Briggs - Yes (Maybe)](https://osu.ppy.sh/beatmapsets/964357#fruits) hosted by [Mbomb](https://osu.ppy.sh/users/3071175)
 - [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1036890) hosted by [Du5t](https://osu.ppy.sh/users/6053071)
 - [Carpool Tunnel - Getaway](https://osu.ppy.sh/beatmapsets/1032859#fruits/2159486) by [Crowley](https://osu.ppy.sh/users/6341006)
-- [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405#fruits) hosted hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
+- [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405#fruits) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
 - [Cranky - Conflict](https://osu.ppy.sh/beatmapsets/981762) by [Bunnrei](https://osu.ppy.sh/users/829284)
 - [IAHN - Melody of Heaven](https://osu.ppy.sh/beatmapsets/1025255) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [LukHash - 8BIT FAIRY TALE](https://osu.ppy.sh/beatmapsets/1045131#fruits/2184880) hosted by [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -235,7 +235,7 @@ Non-guild maps will be marked with an asterisk `*`.
 
 ### osu!mania
 
-- [Camellia - Artificial Snow](https://osu.ppy.sh/beatmapsets/1026319#mania/2146334) hosted hosted by [Dergo](https://osu.ppy.sh/users/7439226)
+- [Camellia - Artificial Snow](https://osu.ppy.sh/beatmapsets/1026319#mania/2146334) hosted by [Dergo](https://osu.ppy.sh/users/7439226)
 - [Camellia - Clouds in the Blue](https://osu.ppy.sh/beatmapsets/995539) by [Asherz007](https://osu.ppy.sh/users/9014047)
 - [Camellia - crystallized](https://osu.ppy.sh/beatmapsets/890013) by [-mint-](https://osu.ppy.sh/users/8976576) \*
 - [Camellia - Embracing intelligences](https://osu.ppy.sh/beatmapsets/1055424#mania/2205279) by [Leniane](https://osu.ppy.sh/users/7138602)
