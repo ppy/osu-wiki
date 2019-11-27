@@ -1,16 +1,14 @@
 ---
-layout: main_page
-outdated: true
+layout: "main_page"
 ---
 
 <div class="wiki-main-page__blurb">
-O osu! wiki é um projeto feito da contribuição de membros da comunidade de osu!. O objetivo é substituir a antiga seção de perguntas frequentes e permitir que ela se torne um recurso muito mais abrangente. No entanto, para tornar isso possível, precisamos da ajuda de todos que desejam contribuir!
-<br>
+Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informação relacionada a osu!.
 </div>
 
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
 # Introdução
@@ -31,7 +29,7 @@ O osu! wiki é um projeto feito da contribuição de membros da comunidade de os
 
 # [Editor de Beatmap](/wiki/Beatmap_Editor)
 
-Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • Componentes: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Dificuldades](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Mapping Techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • Componentes: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Dificuldades](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Técnicas de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,7 +48,7 @@ Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 [Glossario](/wiki/Glossary) • [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
 # Pessoas
