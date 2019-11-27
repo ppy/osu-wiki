@@ -4,15 +4,15 @@ title: Featured Artist Beatmap Updates from the Mappers' Guild
 date: 2019-11-28 12:00:00 +0000
 ---
 
-The Featured Artists of osu! have been receiving more love than ever before! Come and take a look at what’s been happening within the Mappers’ Guild!
+The Featured Artists of osu! have been receiving more love than ever before! Come and take a look at what's been happening within the Mappers' Guild!
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
-It’s only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers’ Guild, yet quite a bit has progressed with 8 quests completed and over 80 beatmaps of songs by Featured Artists have reaching ranked status! 
+It's only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers' Guild, yet quite a bit has progressed with 8 quests completed and over 80 beatmaps of songs by Featured Artists reaching ranked status! 
 
-For those out of the loop, the Mappers’ Guild is a system for mappers with more than three ranked maps to earn rewards for creating beatmaps of songs from the Featured Artist library. Following in the footsteps of MMOs, the Guild publishes weekly quests for mappers to undertake for extra rewards, however its members can still participate by mapping any Featured Artists songs they desire! If you’re at all interested in the Guild, take a look at the [Mappers’ Guild website](https://mappersguild.com/) for more information!
+For those out of the loop, the Mappers' Guild is a system for mappers with more than three ranked maps to earn rewards for creating beatmaps of songs from the Featured Artist library. Following in the footsteps of MMOs, the Guild publishes weekly quests for mappers to undertake for extra rewards, however its members can still participate by mapping any Featured Artists songs they desire! If you're at all interested in the Guild, take a look at the [Mappers' Guild website](https://mappersguild.com/) for more information!
 
-Today we'll be going over finished quests from the Mappers' Guild, Featured Artist beatmap pack updates, and a list of all ranked Featured Artist maps since our last news post in September. Without further adieu, let’s start going through each quest completed since last update!
+Today we'll be going over finished quests from the Mappers' Guild, Featured Artist beatmap pack updates, and a list of all ranked Featured Artist maps since our last news post in September. Without further adieu, let's start going through each quest completed since last update!
 
 ### Navigation
 
@@ -103,7 +103,7 @@ The **UNDEAD CORPORATION Other Albums pack (osu!)** was completed by [Trynna](ht
 
 ![Rin header image](https://assets.ppy.sh/artists/14/header.jpg)
 
-For this quest, mappers had to create and rank at least 3 mapsets of unpublished songs by one of our current featured artists. The unpublished songs were later revealed to be part of a massive update to Rin’s library released [this past October](https://osu.ppy.sh/home/news/2019-10-01-new-featured-artist-updates).
+For this quest, mappers had to create and rank at least 3 mapsets of unpublished songs by one of our current featured artists. The unpublished songs were later revealed to be part of a massive update to Rin's library released [this past October](https://osu.ppy.sh/home/news/2019-10-01-new-featured-artist-updates).
 
 The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [schoolboy](https://osu.ppy.sh/users/8722791), [Hinsvar](https://osu.ppy.sh/users/1249323), and [Niva](https://osu.ppy.sh/users/197805)
 
@@ -124,21 +124,21 @@ The **2 (osu!taiko)** quest was completed by [tasuke912](https://osu.ppy.sh/user
 
 ## <a id="packs"></a>Pack updates
 
-This month we also have some changes and additions to our collection of beatmap packs. A couple of packs have been moved and renamed this month as part of a new system to make featured artist packs more consistent going forward! Packs for artists will get their own artist packs, while packs for general themes or ideas that include multiple artists will be made into numbered “Mappers’ Guild” packs.
+This month we also have some changes and additions to our collection of beatmap packs. A couple of packs have been moved and renamed this month as part of a new system to make featured artist packs more consistent going forward! Packs for artists will get their own artist packs, while packs for general themes or ideas that include multiple artists will be made into numbered “Mappers' Guild” packs.
 
 The packs changed are as follows:
-- **Mappers’ Guild Pack III** has been changed to [High Tea Pack](https://osu.ppy.sh/beatmaps/packs/1480)
-- **Mappers’ Guild Pack IV** has been changed to [Culprate Pack](https://osu.ppy.sh/beatmaps/packs/1535) 
-- **Vocaloid Pack** has been changed to [Mappers’ Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689)
+- **Mappers' Guild Pack III** has been changed to [High Tea Pack](https://osu.ppy.sh/beatmaps/packs/1480)
+- **Mappers' Guild Pack IV** has been changed to [Culprate Pack](https://osu.ppy.sh/beatmaps/packs/1535) 
+- **Vocaloid Pack** has been changed to [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689)
 
 The High Tea and Culprate medals have been also updated accordingly, with anyone who unlocked them before still having the achievements under the new names.
 
 **New Featured Artist packs** this month:
 - [*namirin Pack](https://osu.ppy.sh/beatmaps/packs/1704) - Compiling various namirin maps ranked by the community.
-- [LukHash Pack (osu!catch)](https://osu.ppy.sh/beatmaps/packs/1758) - Maps from the _LukHash  mini-pack_ quest where the party went above and beyond the quest’s 4 map requirement.
+- [LukHash Pack (osu!catch)](https://osu.ppy.sh/beatmaps/packs/1758) - Maps from the _LukHash  mini-pack_ quest where the party went above and beyond the quest's 4 map requirement.
 - [Rin Pack](https://osu.ppy.sh/beatmaps/packs/1759) - Includes maps of Rin songs from the _From the Vault_ and _Rin pack_ quests.
-- [Mappers’ Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) - Maps from the _High Tempo pack_ quest - every mapset here is of a song over 200BPM.
-- [The Flashbulb Pack (osu!, osu!taiko, osu!catch)](https://osu.ppy.sh/beatmaps/packs/1762) - Compiled from two quests focused on The Flashbulb’s featured artist tracks, this pack features maps of The Flashbulb’s music across osu!, osu!taiko, and osu!catch. 
+- [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) - Maps from the _High Tempo pack_ quest - every mapset here is of a song over 200BPM.
+- [The Flashbulb Pack (osu!, osu!taiko, osu!catch)](https://osu.ppy.sh/beatmaps/packs/1762) - Compiled from two quests focused on The Flashbulb's featured artist tracks, this pack features maps of The Flashbulb's music across osu!, osu!taiko, and osu!catch. 
 
 We will be working on adding more beatmap packs and new medals regularly, so be sure to keep an eye out for that! 
 
