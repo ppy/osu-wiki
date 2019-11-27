@@ -116,8 +116,8 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | **13:30 UTC** | 20:30 UTC+07 | 21:30 UTC+08 | ² |
 | China | ![][flag_CN] | ![][flag_SE] | Sweden | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ² |
 | Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **16:30 UTC** | 17:30 UTC+01 | 17:30 UTC+01 | ² |
-| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 | ² |
 | France | ![][flag_FR] | ![][flag_CL] | Chile | **19:30 UTC** | 20:30 UTC+01 | 16:30 UTC-03 | ² |
+| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **21:00 UTC** | 18:00 UTC-03 | 22:00 UTC+01 | ² |
 
 ### Sunday, 01 December 2019
 
@@ -128,21 +128,21 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | United States | ![][flag_US] | ![][flag_AU] | Australia | **03:30 UTC** | 21:30 (Sat.) UTC-06 | 14:30 UTC+11 | ¹ |
 | China | ![][flag_CN] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 17:00 UTC+08 | 22:00 UTC+13 | ³ |
 | Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_FR] | France | **10:30 UTC** | 19:30 UTC+09 | 11:30 UTC+01 | ³ |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **10:30 UTC** | 19:30 UTC+09 | 11:30 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **12:00 UTC** | 09:00 UTC-03 | 19:00 UTC+07 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00 UTC** | 09:00 UTC-03 | 20:00 UTC+08 | ³ |
 | Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 | ³ |
 | Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
+| Japan | ![][flag_JP] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **13:00 UTC** | 14:00 UTC+01 | 14:00 UTC+01 | ³ |
 | Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
 | Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
 | Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
 | Italy | ![][flag_IT] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **13:30 UTC** | 10:30 UTC-03 | 20:30 UTC+07 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **14:00 UTC** | 14:00 UTC | 22:00 UTC+08 | ¹ |
 | China | ![][flag_CN] | ![][flag_PL] | Poland | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **16:30 UTC** | 16:30 UTC | 00:30 (Mon.) UTC+08 | ¹ |
+| Romania | ![][flag_RO] | ![][flag_DE] | Germany | **16:30 UTC** | 18:30 UTC+02 | 17:30 UTC+01 | ¹ |
 | Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ¹ |
-| Romania | ![][flag_RO] | ![][flag_DE] | Germany | **19:30 UTC** | 21:30 UTC+02 | 20:30 UTC+01 | ¹ |
 
 ¹ Winner bracket encounter
  
