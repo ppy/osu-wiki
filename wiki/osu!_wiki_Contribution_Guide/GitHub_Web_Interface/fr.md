@@ -20,7 +20,7 @@
 
 ### Déplacement de fichiers
 
-* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejetter votre pull request! *
+* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
 
 1\. Naviguez jusqu'au fichier que vous souhaitez déplacer et ouvrez-le.
 
@@ -64,7 +64,7 @@
 
 ### Suppression de fichiers
 
-*Attention: Ceci est **non recommandé** car vous ne pouvez supprimer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejetter votre pull request !*
+*Attention: Ceci est **non recommandé** car vous ne pouvez supprimer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request !*
 
 1\. Ouvrez l'onglet de code sur votre fork.
 
