@@ -44,7 +44,7 @@ The **Inferi Collab mini-pack (osu!taiko)** quest was completed by [komasy](http
 - [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681#taiko/2141397) hosted by [Rhytholy](https://osu.ppy.sh/users/8121109)
 - [Inferi - Quest for the Trinity](https://osu.ppy.sh/beatmapsets/1032376) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
 
-![Mystery header image](/wiki/shared/news/2019-11-28-mappers-guild-november-newspost/mpg_mystery.jpg)
+![Mystery header image](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
 For this quest, mappers had to create and rank at least 8 mapsets of songs whose tempos are mainly 200BPM or faster, without a single user hosting more than two mapsets.
 
