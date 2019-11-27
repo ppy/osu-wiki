@@ -41,7 +41,7 @@ The **Inferi Collab mini-pack (osu!taiko)** quest was completed by [komasy](http
 
 - [Inferi - A Betrayal Unforetold](https://osu.ppy.sh/beatmapsets/1026679#taiko/2147054) hosted by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Inferi - Forged in the Phlegethon](https://osu.ppy.sh/beatmapsets/1041193#taiko/2176186) hosted by [iceOC](https://osu.ppy.sh/users/5482401)
-- [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681#taiko/2141397) hosted by [Rhytholy](https://osu.ppy.sh/users/8121109)
+- [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681#taiko/2141397) hosted by [Rhytoly](https://osu.ppy.sh/users/8121109)
 - [Inferi - Quest for the Trinity](https://osu.ppy.sh/beatmapsets/1032376) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
 
 ![Mystery header image](/wiki/shared/news/banners/mappersguild-mystery.jpg)
@@ -205,7 +205,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/1014707#taiko/2123605) by [komasy](https://osu.ppy.sh/users/1980256)
 - [Inferi - A Betrayal Unforetold](https://osu.ppy.sh/beatmapsets/1026679#taiko/2147054) hosted by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Inferi - Forged in the Phlegethon](https://osu.ppy.sh/beatmapsets/1041193#taiko/2176186) hosted by [iceOC](https://osu.ppy.sh/users/5482401)
-- [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681#taiko/2141397) hosted by [Rhytholy](https://osu.ppy.sh/users/8121109)
+- [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681#taiko/2141397) hosted by [Rhytoly](https://osu.ppy.sh/users/8121109)
 - [Inferi - Quest for the Trinity](https://osu.ppy.sh/beatmapsets/1032376) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
 - [Nakanojojo & Yunomi - Bittersweet (feat. Kushinbo Akachan)](https://osu.ppy.sh/beatmapsets/1050870#taiko/2197181) by [komasy](https://osu.ppy.sh/users/1980256)
 - [Rin - Kishinjou set 03 ~ Humans and Youkai Traversing the Canal](https://osu.ppy.sh/beatmapsets/959705#taiko/2009321) by [tasuke912](https://osu.ppy.sh/users/2774767)
