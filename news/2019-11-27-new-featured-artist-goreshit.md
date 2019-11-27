@@ -10,7 +10,7 @@ We're proud to welcome **goreshit** as our latest addition to the Featured Artis
 
 One of *the* eminent names from the game's earlier days, **goreshit** has been a name well known in the community since basically forever, and we're super excited to announce that it is finally official!
 
-Known in osu! most for their tracks like *MATZcore* and *burn this moment into the retina of my eye* (a set of which featured in the OWC 2016 Finals mappool as a tiebreaker), we've manage to snag a more modern set of **20** tracks from their creative ensemble.
+Known in osu! most for their tracks like *MATZcore* and *burn this moment into the retina of my eye* (a set of which featured in the OWC 2016 Finals mappool as a tiebreaker), we've managed to snag a more modern set of **20** tracks from their creative ensemble.
 
 Dialling industrial-fused breakcore up to the maximum, we're certain that we're going to be seeing a lot more of **goreshit** in the near future among a variety of new top-end mapping masterpieces.
 
