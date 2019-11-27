@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
-date: 2019-11-28 12:00:00 +0000
+date: 2019-11-28 17:00:00 +0000
 ---
 
-The Featured Artists of osu! have been receiving more love than ever before! Come and take a look at what's been happening within the Mappers' Guild!
+The featured artists of osu! have been receiving more love than ever before! Come and take a look at what's been happening within the Mappers' Guild!
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
-It's only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers' Guild, yet quite a bit has progressed with 8 quests completed and over 80 beatmaps of songs by Featured Artists reaching ranked status!
+It's only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers' Guild, yet quite a bit has progressed with 8 quests completed and over 80 beatmaps of songs by featured artists reaching ranked status!
 
-For those out of the loop, the Mappers' Guild is a system for mappers with more than three ranked maps to earn rewards for creating beatmaps of songs from the Featured Artist library. Following in the footsteps of MMOs, the Guild publishes weekly quests for mappers to undertake for extra rewards, however its members can still participate by mapping any Featured Artists songs they desire! If you're at all interested in the Guild, take a look at the [Mappers' Guild website](https://mappersguild.com/) for more information!
+For those out of the loop, the Mappers' Guild is a system for mappers with more than three ranked maps to earn rewards for creating beatmaps of songs from the Featured Artist library. Following in the footsteps of MMOs, the Guild publishes weekly quests for mappers to undertake for extra rewards, however its members can still participate by mapping any featured artists songs they desire! If you're at all interested in the Guild, take a look at the [Mappers' Guild website](https://mappersguild.com/) for more information!
 
-Today we'll be going over finished quests from the Mappers' Guild, Featured Artist beatmap pack updates, and a list of all ranked Featured Artist maps since our last news post in September. Without further adieu, let's start going through each quest completed since last update!
+Today we'll be going over finished quests from the Mappers' Guild, featured artist beatmap pack updates, and a list of all ranked featured artist maps since our last news post in September. Without further adieu, let's start going through each quest completed since last update!
 
 ### Navigation
 
@@ -115,7 +115,7 @@ The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.p
 
 ![Aleph header image](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
 
-For this quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH - but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu! so be sure to check them out and map them if you like them “2”!
+For this quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH - but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu! so be sure to check the songs out and map them if you like them “2”!
 
 The **2 (osu!taiko)** quest was completed by [tasuke912](https://osu.ppy.sh/users/2774767), [salchow](https://osu.ppy.sh/users/9738159), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), and [Volta](https://osu.ppy.sh/users/4154071)
 
@@ -134,9 +134,9 @@ The packs changed are as follows:
 
 The High Tea and Culprate medals have been also updated accordingly, with anyone who unlocked them before still having the achievements under the new names.
 
-**New Featured Artist packs** this month:
+**New featured artist packs** this month:
 
-- [\*namirin Pack](https://osu.ppy.sh/beatmaps/packs/1704) - Compiling various namirin maps ranked by the community.
+- [\*namirin Pack](https://osu.ppy.sh/beatmaps/packs/1704) - Compiling various \*namirin maps ranked by the community.
 - [LukHash Pack (osu!catch)](https://osu.ppy.sh/beatmaps/packs/1758) - Maps from the *LukHash mini-pack* quest where the party went above and beyond the quest's 4 map requirement.
 - [Rin Pack](https://osu.ppy.sh/beatmaps/packs/1759) - Includes maps of Rin songs from the *From the Vault* and *Rin pack* quests.
 - [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) - Maps from the *High Tempo pack* quest - every mapset here is of a song over 200BPM.
@@ -201,6 +201,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/945993#taiko) by [Nifty](https://osu.ppy.sh/users/4956097)
 - [Camellia - Light it Up](https://osu.ppy.sh/beatmapsets/1015345#taiko) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1025635#taiko) by [Axer](https://osu.ppy.sh/users/7299864) \*
+- [Camellia - [ns]](https://osu.ppy.sh/beatmapsets/1045786#taiko) by [\_DUSK\_](https://osu.ppy.sh/users/6092181) \*
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751#taiko) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1022545#taiko) by [Alchyr](https://osu.ppy.sh/users/4993032)
 - [HyuN feat. Ms. Valentine - CROSS FATE](https://osu.ppy.sh/beatmapsets/1047632#taiko) by [Konpaku Sariel](https://osu.ppy.sh/users/533502)
@@ -245,6 +246,6 @@ Non-guild maps will be marked with an asterisk `*`.
 
 ---
 
-The ranked catalogue of Featured Artist tracks is rapidly growing thanks to the enthusiasm of the community! We will be sure to keep these news posts up regularly so that everyone can keep up with all the activity for Mappers' Guild quests, new Featured Artist beatmap packs, medals, and all applicable ranked maps during each period. See you again next update!
+The ranked catalogue of featured artist tracks is rapidly growing thanks to the enthusiasm of the community! We will be sure to keep these news posts up regularly so that everyone can keep up with all the activity for Mappers' Guild quests, new featured artist beatmap packs, medals, and all applicable ranked maps during each period. See you again next update!
 
 —pishifat and Noffy
