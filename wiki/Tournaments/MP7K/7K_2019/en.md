@@ -37,9 +37,9 @@ tags:
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Map Selectors | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
 | Streamers | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentators | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032) |
+| Commentators | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/u/1475814) |
 
 ## Links
@@ -52,11 +52,104 @@ tags:
 
 ## Participants
 
-*Qualified participants will be added in this section.*
+### Qualified Participants
+
+| Seed | Users |
+| :-- | :-- |
+| Top (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ![][flag_PL] [Jakub Janda](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Lorwick](https://osu.ppy.sh/users/5481019) |
+| High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
+| Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
+
+### Groups
+
+| Group | Top | High | Low |
+| :-: | :-- | :-- | :-- |
+| **A** | ![][flag_PL] PanzerRaymanPL | ![][flag_PL] Alicejoy | ![][flag_PL] xROCKETx |
+| **B** | ![][flag_PL] Brunwald\_1410 | ![][flag_PL] Miq | ![][flag_PL] Yamakazi |
+| **C** | ![][flag_PL] Lorwick | ![][flag_PL] -Maus- | ![][flag_PL] Doktorek626 |
+| **D** | ![][flag_PL] EWGF | ![][flag_PL] jasionnn | ![][flag_PL] AgregaTxD |
+| **E** | ![][flag_PL] -Karen-chan- | ![][flag_PL] Tidek | ![][flag_PL] Eclipse- |
+| **F** | ![][flag_PL] Kamikaze | ![][flag_PL] TheFalek | ![][flag_PL] Bobini- |
+| **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
+| **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
 
 ---
 
+## Match Schedule: Quarterfinals
+
+### Friday, 29 November 2019
+
+| Player 1 |  |  | Player 2 | Match Time | Local Time |
+| --: | --: | :-- | :-- | :-: | :-: |
+| Kamikaze | ![][flag_PL] | ![][flag_PL] | PanzerRaymanPL | **19:00 UTC** | 20:00 UTC+1 |
+
+### Saturday, 30 November 2019
+
+| Player 1 |  |  | Player 2 | Match Time | Local Time |
+| --: | --: | :-- | :-- | :-: | :-: |
+| - gero - | ![][flag_PL] | ![][flag_PL] | -Karen-chan- | **09:00 UTC** | 10:00 UTC+1 |
+| Yamakazi | ![][flag_PL] | ![][flag_PL] | Miq | **13:00 UTC** | 14:00 UTC+1 |
+| Tidek | ![][flag_PL] | ![][flag_PL] | EWGF | **15:30 UTC** | 16:30 UTC+1 |
+| Jakub Janda | ![][flag_PL] | ![][flag_PL] | -Maus- | **21:00 UTC** | 22:00 UTC+1 |
+
+### Friday, 1 December 2019
+
+| Player 1 |  |  | Player 2 | Match Time | Local Time |
+| --: | --: | :-- | :-- | :-: | :-: |
+| AgregaTxD | ![][flag_PL] | ![][flag_PL] | TheFalek | **15:30 UTC** | 16:30 UTC+1 |
+| Alicejoy | ![][flag_PL] | ![][flag_PL] | Lorwick | **16:15 UTC** | 17:15UTC+1 |
+| capsafangirl | ![][flag_PL] | ![][flag_PL] | Justin14p | **19:00 UTC** | 20:00 UTC+1 |
+
 ## Mappools
+
+### Quarterfinals
+
+- FreeMod
+  - [Kiritani Hana,Haruka Sora,Kotorii Yuuka,Kamishiro Misaki - Noraneko Heart (shionelove) \[(MP7K) 7K Another\]](https://osu.ppy.sh/beatmapsets/1069922#mania/2239626)
+  - [Team Grimoire vs. Laur - Grievous Lady (Madoka2574) \[Hard (7K ver.)\]](https://osu.ppy.sh/beatmapsets/1043693#mania/2188834)
+  - [Aqours - Yuki wa Doko ni? Kimi no Mune ni! (arcwinolivirus) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/682351#mania/1612208)
+  - [Remixed by xac - Programmed Sun (xac Antarctic Ocean mix) (Simple_Star) \[7K lv.23 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1069929#mania/2239634)
+  - [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
+  - [BilliumMoto - walking to school trippin (Lenfried-) \[advanced\]](https://osu.ppy.sh/beatmapsets/989246#mania/2144347)
+  - [ESTi - Invisible Utopia (ArcherLove) \[Sulit \[HD\]\]](https://osu.ppy.sh/beatmapsets/570960#mania/1210125)
+  - [MikitoP feat.Matsushita - Kunoichi demo Koi ga Shitai (Kyousuke-) \[Luckman's Another\]](https://osu.ppy.sh/beatmapsets/337127#mania/761407)
+  - [Frums - Pictured as Perfect (Night Bunny 7) \[\[Lv.10\] 7K ANOTHER\]](https://osu.ppy.sh/beatmapsets/1048245#mania/2191068)
+  - [ZigZag - VerTex (\_underjoy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2239628)
+  - [not - Scatter Brain (Hydria) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
+- Tiebreaker
+  - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
+
+### Round of 16
+
+- FreeMod
+  - [Kozato - Tsuki -Yue- (Kawawa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/248504#mania/571519)
+  - [w tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Hyper\]](https://osu.ppy.sh/beatmapsets/258553#mania/1052329)
+  - [HoneyComeBear - IDOL (SakuraSarasara) \[Another\]](https://osu.ppy.sh/beatmapsets/1014238#mania/2122705)
+  - [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
+  - [Auriplane - Ending \~ Main Theme (Lenfried-) \[Joy\]](https://osu.ppy.sh/beatmapsets/692929#mania/1466254)
+  - [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
+  - [Primastella - Koigokoro (underjoy) \[Odori\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2233964)
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (wtfamidoing) \[Hard\]](https://osu.ppy.sh/beatmapsets/829026#mania/1736919)
+  - [B.S.E. (Backbone Sebone Ensemble) - volcanator (\_underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
+  - [Moe Shop - <3 (Toaph Daddy) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
+  - [MYTK - fly (\_underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
+- Tiebreaker
+  - **[GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/436734#mania/940615)**
+
+### Group Stage
+
+- FreeMod
+  - [SHK - Snow Country (capsafangirl) \[u-ro-sang-seol\]](https://osu.ppy.sh/beatmapsets/1039800#mania/2173442)
+  - [gmtn. (witch's slave) - Daraku no Sono (stryver12) \[Injury (Hyper)\]](https://osu.ppy.sh/beatmapsets/451983#mania/969551)
+  - [Jonas Blue - Mama ft. William Singe (Nysrogh) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/639660#mania/1364569)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Biasa \[NM\]\]](https://osu.ppy.sh/beatmapsets/570407#mania/1209098)
+  - [Hanatan - C (dkingo) \[7K Dream\]](https://osu.ppy.sh/beatmapsets/654787#mania/1387839)
+  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Usagi's 7K HD\]](https://osu.ppy.sh/beatmapsets/261911#mania/666013)
+  - [xi - Death Piano (nowsmart) \[Lv.20\]](https://osu.ppy.sh/beatmapsets/337156#mania/755329)
+  - [she - 1997 (Benzopirene) \[stardust\]](https://osu.ppy.sh/beatmapsets/983255#mania/2227825)
+  - [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Kami's Seven Keys Scroll Velocity Tech Demo\]](https://osu.ppy.sh/beatmapsets/641196#mania/1593734)
+- Tiebreaker
+  - **[Hideyuki Fukasawa - kengen/great three (richardfeder) \[Hard\]](https://osu.ppy.sh/beatmapsets/365716#mania/1188785)**
 
 ### Qualifiers
 
@@ -70,7 +163,66 @@ tags:
 
 ## Match Results
 
-*All match results will be added in this section.*
+### Round of 16
+
+| Thursday, 2019-11-21 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
+| **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
+
+| Saturday, 2019-11-23 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
+| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
+| **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
+| Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
+
+| Sunday, 2019-11-24 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
+| **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
+
+### Group Stage
+
+| Thursday, 2019-11-14 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
+
+| Friday, 2019-11-15 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
+
+| Saturday, 2019-11-16 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
+| **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
+| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
+| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | -win by default- |
+| **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
+| Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
+| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
+| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
+| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
+| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
+| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
+
+| Sunday, 2019-11-17 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
+| **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
+| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | -win by default- |
+| Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
+| **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
+| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
+| jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
+| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
+| **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | -win by default- |
+| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | -win by default- |
+
+### Qualifiers
+
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml).
 
 ---
 
