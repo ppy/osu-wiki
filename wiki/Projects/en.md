@@ -73,7 +73,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Beatmapping
 
--   [A little aproach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541)—A simple webpage that calculates the suggested approach rate, based on the BPM, that you should use in your beatmap.
+-   [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541)—A simple webpage that calculates the suggested approach rate, based on the BPM, that you should use in your beatmap.
     -   [Website](http://maxime.delaby.free.fr/THEFIXER.html)
 -   [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540)—Copy and paste hit sounds from one difficulty to another.
 -   [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779)—A Notes-Per-Second calculator.
