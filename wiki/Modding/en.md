@@ -98,7 +98,7 @@ Do not hesitate to suggest if:
 Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read.
 Combos generally do not go over 20 in Insane, 12 in Hard, and 8 in Easy or Normal difficulties.
 
-There are expections to the max combo limit if they make sense.
+There are exceptions to the max combo limit if they make sense.
 If there is a logical way to break up a long combo, it is recommended to do so.
 Combos are usually placed to either match the vocal/musical phrases or to indicate the downbeat of each measure.
 In special cases, combos are used in indicating any discrepancies (or inconsistencies) in spacing or slider velocity.
@@ -149,7 +149,7 @@ Kiai time should never be abused because:
 - by definition, it signifies one part of the song that is *important*, so using it everywhere loses its meaning.
 
 In addition to all of this, kiai time should generally be the same in all difficulties.
-There are, however, expections to this:
+There are, however, exceptions to this:
 
 - game mode difficulty hybrid sets (e.g. osu!standard and osu!taiko's kiai time behaves differently).
 - guest mappers that interpret the song and its effects differently from the host.
