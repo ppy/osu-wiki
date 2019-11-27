@@ -55,7 +55,7 @@ tags:
 ### Qualified Participants
 
 | Seed | Users |
-| --- | --- |
+| :-- | :-- |
 | Top (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ![][flag_PL] [Jakub Janda](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Lorwick](https://osu.ppy.sh/users/5481019) |
 | High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
 | Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
@@ -63,7 +63,7 @@ tags:
 ### Groups
 
 | Group | Top | High | Low |
-| :-: | --- | --- | --- |
+| :-: | :-- | :-- | :-- |
 | **A** | ![][flag_PL] PanzerRaymanPL | ![][flag_PL] Alicejoy | ![][flag_PL] xROCKETx |
 | **B** | ![][flag_PL] Brunwald\_1410 | ![][flag_PL] Miq | ![][flag_PL] Yamakazi |
 | **C** | ![][flag_PL] Lorwick | ![][flag_PL] -Maus- | ![][flag_PL] Doktorek626 |
@@ -109,12 +109,12 @@ tags:
   - [Team Grimoire vs. Laur - Grievous Lady (Madoka2574) \[Hard (7K ver.)\]](https://osu.ppy.sh/beatmapsets/1043693#mania/2188834)
   - [Aqours - Yuki wa Doko ni? Kimi no Mune ni! (arcwinolivirus) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/682351#mania/1612208)
   - [Remixed by xac - Programmed Sun (xac Antarctic Ocean mix) (Simple_Star) \[7K lv.23 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1069929#mania/2239634)
-  - [Yuki Kajiura - Himeboshi (_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
+  - [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
   - [BilliumMoto - walking to school trippin (Lenfried-) \[advanced\]](https://osu.ppy.sh/beatmapsets/989246#mania/2144347)
   - [ESTi - Invisible Utopia (ArcherLove) \[Sulit \[HD\]\]](https://osu.ppy.sh/beatmapsets/570960#mania/1210125)
   - [MikitoP feat.Matsushita - Kunoichi demo Koi ga Shitai (Kyousuke-) \[Luckman's Another\]](https://osu.ppy.sh/beatmapsets/337127#mania/761407)
   - [Frums - Pictured as Perfect (Night Bunny 7) \[\[Lv.10\] 7K ANOTHER\]](https://osu.ppy.sh/beatmapsets/1048245#mania/2191068)
-  - [ZigZag - VerTex (_underjoy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2239628)
+  - [ZigZag - VerTex (\_underjoy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2239628)
   - [not - Scatter Brain (Hydria) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
 - Tiebreaker
   - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
@@ -127,12 +127,12 @@ tags:
   - [HoneyComeBear - IDOL (SakuraSarasara) \[Another\]](https://osu.ppy.sh/beatmapsets/1014238#mania/2122705)
   - [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
   - [Auriplane - Ending \~ Main Theme (Lenfried-) \[Joy\]](https://osu.ppy.sh/beatmapsets/692929#mania/1466254)
-  - [HoneyWorks - Kikoemasu ka feat. Haruki <Youshouki> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
+  - [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
   - [Primastella - Koigokoro (underjoy) \[Odori\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2233964)
   - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (wtfamidoing) \[Hard\]](https://osu.ppy.sh/beatmapsets/829026#mania/1736919)
   - [B.S.E. (Backbone Sebone Ensemble) - volcanator (underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
   - [Moe Shop - <3 (Toaph Daddy) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
-  - [MYTK - fly (underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
+  - [MYTK - fly (\_underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
 - Tiebreaker
   - **[GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/436734#mania/940615)**
 
