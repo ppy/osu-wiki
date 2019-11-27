@@ -113,7 +113,7 @@ The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.p
 - [Rin - Koumakan set 02 ~ Youma Yakou](https://osu.ppy.sh/beatmapsets/991960#osu/2074476) by [eiri-](https://osu.ppy.sh/users/3388410)
 - [Rin - Muenzuka set 06 ~ Roku Juunenme no Touhou Saiban](https://osu.ppy.sh/beatmapsets/985780#osu/2062331) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-![Aleph header image](/wiki/shared/news/2019-11-28-mappers-guild-november-newspost/aleph.jpg)
+![Aleph header image](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
 
 For this quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH - but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu! so be sure to check them out and map them if you like them “2”!
 
