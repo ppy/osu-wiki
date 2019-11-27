@@ -98,6 +98,9 @@ For the record, these include the recent changes made [from the discussion forum
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
   - In cases where a Song Compilation/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
+- **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
+- **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
+- **Do not include tags which have no relation to the beatmap or its song.** Tags relating to the beatmap's style, storyboard, video, or background content are considered related to the beatmap and would be allowed in tags.
 
 #### Standardisation
 
@@ -136,7 +139,9 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
-- **Additional Tags: It is recommended to include tags such as the language(s), genre(s) of the track in the map, related artists, and whatever may aid a player to find the map.** Terms already in the primary metadata (Artist, Title, Source) should not be included in tags.
+- **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags**
+- **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
+- **Additional Tags: It is recommended to include tags such related artists, alternate titles for the song, alternate spellings of an artist name, simplified contractions for words in metadata fields, and whatever may aid a player to find the map.**
 
 #### Standardisation
 
