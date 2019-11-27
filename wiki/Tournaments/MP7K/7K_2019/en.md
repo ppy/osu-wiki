@@ -130,7 +130,7 @@ tags:
   - [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
   - [Primastella - Koigokoro (underjoy) \[Odori\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2233964)
   - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (wtfamidoing) \[Hard\]](https://osu.ppy.sh/beatmapsets/829026#mania/1736919)
-  - [B.S.E. (Backbone Sebone Ensemble) - volcanator (underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
+  - [B.S.E. (Backbone Sebone Ensemble) - volcanator (\_underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
   - [Moe Shop - <3 (Toaph Daddy) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
   - [MYTK - fly (\_underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
 - Tiebreaker
