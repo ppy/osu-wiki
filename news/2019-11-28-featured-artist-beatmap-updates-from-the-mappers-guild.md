@@ -109,8 +109,8 @@ The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.p
 
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
 - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
-- [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
+- [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 
 ![Aleph header image](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
@@ -172,8 +172,8 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1035982) hosted by [[Mad]](https://osu.ppy.sh/users/4505479) \*
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
 - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
-- [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
+- [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [RiraN feat. core mc - Take The Long Way Home](https://osu.ppy.sh/beatmapsets/1007743) by [Cherry Blossom](https://osu.ppy.sh/users/1156742)
 - [RiraN - Unshakable](https://osu.ppy.sh/beatmapsets/988136) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)
@@ -197,11 +197,11 @@ Non-guild maps will be marked with an asterisk `*`.
 
 - [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- [Camellia - [ns]](https://osu.ppy.sh/beatmapsets/1045786) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/945993) by [Nifty](https://osu.ppy.sh/users/4956097)
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1025635) by [Axer](https://osu.ppy.sh/users/7299864) \*
-- [Camellia - [ns]](https://osu.ppy.sh/beatmapsets/1045786) by [\_DUSK\_](https://osu.ppy.sh/users/6092181) \*
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1022545) by [Alchyr](https://osu.ppy.sh/users/4993032)
 - [HyuN feat. Ms. Valentine - CROSS FATE](https://osu.ppy.sh/beatmapsets/1047632) by [Konpaku Sariel](https://osu.ppy.sh/users/533502)
