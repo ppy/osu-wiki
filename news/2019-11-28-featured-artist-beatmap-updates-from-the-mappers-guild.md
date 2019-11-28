@@ -67,11 +67,11 @@ For this quest, mappers had to create and rank at least 6 mapsets of songs by Ca
 The **Camellia Hybrid pack (osu!taiko & osu!mania)** quest was completed by [Nifty](https://osu.ppy.sh/users/4956097), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Faputa](https://osu.ppy.sh/users/845733), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Nepuri](https://osu.ppy.sh/users/6637817), [Genjuro](https://osu.ppy.sh/users/3196091), [Asherz007](https://osu.ppy.sh/users/9014047), [Leniane](https://osu.ppy.sh/users/7138602), [Dergo](https://osu.ppy.sh/users/7439226), [AncuL](https://osu.ppy.sh/users/2449200), and [\_Kobii](https://osu.ppy.sh/users/6209713)
 
 - [Camellia - Artificial Snow](https://osu.ppy.sh/beatmapsets/1026319) hosted by [Dergo](https://osu.ppy.sh/users/7439226)
-- [Camellia - Break the Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
+- [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [Camellia - Clouds in the Blue](https://osu.ppy.sh/beatmapsets/995539) by [Asherz007](https://osu.ppy.sh/users/9014047)
 - [Camellia - Embracing intelligences](https://osu.ppy.sh/beatmapsets/1055424) by [Leniane](https://osu.ppy.sh/users/7138602)
 - [Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/945993) by [Nifty](https://osu.ppy.sh/users/4956097)
-- [Camellia - Light it Up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
+- [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
 ![LukHash header image](https://assets.ppy.sh/artists/12/header.jpg)
@@ -108,10 +108,10 @@ For this quest, mappers had to create and rank at least 3 mapsets of unpublished
 The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [schoolboy](https://osu.ppy.sh/users/8722791), [Hinsvar](https://osu.ppy.sh/users/1249323), and [Niva](https://osu.ppy.sh/users/197805)
 
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
-- [Rin - Chireiden set 05 ~ Kyuu Jigoku Kaidou wo Iku](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
+- [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
 - [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
-- [Rin - Koumakan set 02 ~ Youma Yakou](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
-- [Rin - Muenzuka set 06 ~ Roku Juunenme no Touhou Saiban](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
+- [Rin - Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
+- [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 
 ![Aleph header image](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
 
@@ -161,8 +161,8 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Creo - Rivals](https://osu.ppy.sh/beatmapsets/1012878) hosted by [mithew](https://osu.ppy.sh/users/2571893)
 - [Creo - Shape of the Sun](https://osu.ppy.sh/beatmapsets/1051126) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)
 - [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/985385) hosted by [[Mahua]](https://osu.ppy.sh/users/568761)
-- [Fractal Dreamers - Module_910](https://osu.ppy.sh/beatmapsets/982205) hosted by [Present](https://osu.ppy.sh/users/5645691)
-- [Fractal Dreamers - Monolitha](https://osu.ppy.sh/beatmapsets/982375) hosted by [Yugu](https://osu.ppy.sh/users/3161834)
+- [Fractal Dreamers - Module_410](https://osu.ppy.sh/beatmapsets/982205) hosted by [Present](https://osu.ppy.sh/users/5645691)
+- [Fractal Dreamers - Monolithia](https://osu.ppy.sh/beatmapsets/982375) hosted by [Yugu](https://osu.ppy.sh/users/3161834)
 - [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by [[ L u k a s ]](https://osu.ppy.sh/users/8067876)
 - [IAHN - Feel It](https://osu.ppy.sh/beatmapsets/1017701) hosted by [Cellina](https://osu.ppy.sh/users/2490770)
 - [IAHN - Summer Vacation (Original Mix)](https://osu.ppy.sh/beatmapsets/1017566) hosted by [Riana](https://osu.ppy.sh/users/1997633)
@@ -171,11 +171,11 @@ Non-guild maps will be marked with an asterisk `*`.
 - [onumi - ARROGANCE](https://osu.ppy.sh/beatmapsets/940377) hosted by [Mirash](https://osu.ppy.sh/users/2841009)
 - [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1035982) hosted by [[Mad]](https://osu.ppy.sh/users/4505479) \*
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
-- [Rin - Chireiden set 05 ~ Kyuu Jigoku Kaidou wo Iku](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
+- [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
 - [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
-- [Rin - Koumakan set 02 ~ Youma Yakou](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
-- [Rin - Muenzuka set 06 ~ Roku Juunenme no Touhou Saiban](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
-- [RiraN feat. core mc - Take the Long Way Home](https://osu.ppy.sh/beatmapsets/1007743) by [Cherry Blossom](https://osu.ppy.sh/users/1156742)
+- [Rin - Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
+- [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
+- [RiraN feat. core mc - Take The Long Way Home](https://osu.ppy.sh/beatmapsets/1007743) by [Cherry Blossom](https://osu.ppy.sh/users/1156742)
 - [RiraN - Unshakable](https://osu.ppy.sh/beatmapsets/988136) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)
 - [S3RL - Bass Slut (Original Mix)](https://osu.ppy.sh/beatmapsets/983911) hosted by [Fatfan Kolek](https://osu.ppy.sh/users/2308676) \*
 - [sakuraburst - dragonlands](https://osu.ppy.sh/beatmapsets/1009637) hosted by [Minorsonek](https://osu.ppy.sh/users/5377178)
@@ -197,9 +197,9 @@ Non-guild maps will be marked with an asterisk `*`.
 
 - [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- [Camellia - Break the Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
+- [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/945993) by [Nifty](https://osu.ppy.sh/users/4956097)
-- [Camellia - Light it Up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
+- [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1025635) by [Axer](https://osu.ppy.sh/users/7299864) \*
 - [Camellia - [ns]](https://osu.ppy.sh/beatmapsets/1045786) by [\_DUSK\_](https://osu.ppy.sh/users/6092181) \*
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
@@ -210,19 +210,19 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Inferi - Forged in the Phlegethon](https://osu.ppy.sh/beatmapsets/1041193) hosted by [iceOC](https://osu.ppy.sh/users/5482401)
 - [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681) hosted by [Rhytoly](https://osu.ppy.sh/users/8121109)
 - [Inferi - Quest for the Trinity](https://osu.ppy.sh/beatmapsets/1032376) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
-- [Nakanojojo & Yunomi - Bittersweet (feat. Kushinbo Akachan)](https://osu.ppy.sh/beatmapsets/1050870) by [komasy](https://osu.ppy.sh/users/1980256)
+- [Nakanojojo & Yunomi - Bittersweet (feat. Kuishinbo Akachan a.k.a. Kiato)](https://osu.ppy.sh/beatmapsets/1050870) by [komasy](https://osu.ppy.sh/users/1980256)
 - [Rin - Kishinjou set 03 ~ Humans and Youkai Traversing the Canal](https://osu.ppy.sh/beatmapsets/959705) by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [UNDEAD CORPORATION - Under the scarlet sky pt,1 inst](https://osu.ppy.sh/beatmapsets/1019375) by [Melissa](https://osu.ppy.sh/users/6775507) \*
 - [UNDEAD CORPORATION - Under the scarlet sky pt,2 inst](https://osu.ppy.sh/beatmapsets/1057540) by [Melissa](https://osu.ppy.sh/users/6775507) \*
 
 ### osu!catch
 
-- [Ben Briggs - Yes (Maybe)](https://osu.ppy.sh/beatmapsets/964357) hosted by [Mbomb](https://osu.ppy.sh/users/3071175)
+- [Ben Briggs - Yes (Maybe)](https://osu.ppy.sh/beatmapsets/964357) hosted by [MBomb](https://osu.ppy.sh/users/3071175)
 - [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1036890) hosted by [Du5t](https://osu.ppy.sh/users/6053071)
 - [Carpool Tunnel - Getaway](https://osu.ppy.sh/beatmapsets/1032859) by [Crowley](https://osu.ppy.sh/users/6341006)
 - [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
-- [Cranky - Conflict](https://osu.ppy.sh/beatmapsets/981762) by [Bunnrei](https://osu.ppy.sh/users/829284)
-- [IAHN - Melody of Heaven](https://osu.ppy.sh/beatmapsets/1025255) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
+- [siromaru + cranky - conflict](https://osu.ppy.sh/beatmapsets/981762) by [Bunnrei](https://osu.ppy.sh/users/829284)
+- [IAHN - Melody of Heaven (Original Mix)](https://osu.ppy.sh/beatmapsets/1025255) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [LukHash - 8BIT FAIRY TALE](https://osu.ppy.sh/beatmapsets/1045131) hosted by [Ascendance](https://osu.ppy.sh/users/2931883)
 - [LukHash - DIGITAL HEART](https://osu.ppy.sh/beatmapsets/1031580) hosted by [MBomb](https://osu.ppy.sh/users/3071175)
 - [LukHash - Ghosts](https://osu.ppy.sh/beatmapsets/1042550) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
@@ -231,7 +231,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [LukHash - WHEN AN ANGEL DIES](https://osu.ppy.sh/beatmapsets/1008600) hosted by [Nelly](https://osu.ppy.sh/users/4741164)
 - [LukHash - WINTER ERROR](https://osu.ppy.sh/beatmapsets/1031668) hosted by [Rocma](https://osu.ppy.sh/users/566276)
 - [LukHash - WTF?](https://osu.ppy.sh/beatmapsets/1031588) hosted by [wonjae](https://osu.ppy.sh/users/5032045)
-- [Nakanojojo - Honeyginger (osu!edit)](https://osu.ppy.sh/beatmapsets/1048445) by [JHByperion](https://osu.ppy.sh/users/4879508)
+- [Nakanojojo - Honeyginger (osu! edit)](https://osu.ppy.sh/beatmapsets/1048445) by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [tieff - Sunflower](https://osu.ppy.sh/beatmapsets/985106) hosted by [Hareimu](https://osu.ppy.sh/users/4138746)
 
 ### osu!mania
