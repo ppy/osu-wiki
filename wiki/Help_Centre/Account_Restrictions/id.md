@@ -6,7 +6,7 @@ Ketika akses suatu akun dibatasi, akun tersebut tidak dapat berinteraksi dengan 
 
 Fitur berikut dinonaktifkan untuk akun yang dibatasi:
 
-- *Chat* dalam game
+- Obrolan dalam game
 - pesan pribadi
 - posting dalam forum atau bagian komentar
 - mengunggah atau memperbarui beatmap
@@ -14,6 +14,8 @@ Fitur berikut dinonaktifkan untuk akun yang dibatasi:
 - pembelian di osu!store
 
 ## Akun saya telah dibatasi! Apa yang harus saya lakukan?
+
+Jika akun Anda telah dibatasi, jangan panik. Silakan ikuti langkah-langkah di bawah ini:
 
 - **Tunggu 1x24 jam.** Beberapa kasus pembatasan dilakukan otomatis oleh sistem. Karena kami memeriksa pembatasan terbaru setiap hari, harap tunggu 24 jam - jika pembatasan Anda merupakan kesalahan sistem, pembatasan akan dicabut dalam kurun waktu tersebut.
 - **Hubungi tim dukungan kami.** Jika akun Anda tetap dibatasi setelah melewati 1x24 jam, silakan kirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **menggunakan alamat email yang digunakan saat membuat akun Anda** untuk meminta rincian pembatasan Anda. Pastikan Anda memasukkan nama pengguna Anda, disertai dengan setiap rincian yang dapat Anda berikan mengenai apa yang mungkin membuat akun Anda dibatasi. Semakin banyak Anda memberi tahu kami, semakin mudah bagi kami untuk menyelesaikan masalah.
