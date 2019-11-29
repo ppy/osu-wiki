@@ -16,7 +16,6 @@ Fitur berikut dinonaktifkan untuk akun yang dibatasi:
 
 - **Tunggu 1x24 jam.** Beberapa kasus pembatasan dilakukan otomatis oleh sistem. Karena kami memeriksa pembatasan terbaru setiap hari, harap tunggu 24 jam - jika pembatasan Anda merupakan kesalahan sistem, pembatasan akan dicabut dalam kurun waktu tersebut.
 - **Hubungi tim dukungan kami.** Jika akun Anda tetap dibatasi setelah melewati 1x24 jam, silakan kirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **menggunakan alamat email yang digunakan saat membuat akun Anda** untuk meminta rincian pembatasan Anda. Pastikan Anda memasukkan nama pengguna Anda, disertai dengan setiap rincian yang dapat Anda berikan mengenai apa yang mungkin membuat akun Anda dibatasi. Semakin banyak Anda memberi tahu kami, semakin mudah bagi kami untuk menyelesaikan masalah.
-- If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
 - Jika menurut Anda pembatasan yang Anda terima merupakan kekeliruan, mohon hubungi kami secepatnya supaya kasus Anda bisa dibicarakan.
 
 Jika akun Anda dibatasi karena telah melanggar [peraturan osu!](/wiki/rules), akan diterapkan masa tunggu selama tiga bulan sebelum Anda diizinkan mengirimkan naik banding.
