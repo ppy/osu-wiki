@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
-date: 2019-11-28 17:00:00 +0000
+date: 2019-11-29 03:20:00 +0000
 ---
 
 The featured artists of osu! have been receiving more love than ever before! Come and take a look at what's been happening within the Mappers' Guild!
@@ -113,7 +113,7 @@ This quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifa
 - [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-![Aleph header](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
+![Aleph header](/wiki/shared/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
 
 For the **2 (osu!taiko)** quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH, but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu!, so be sure to check the songs out and map them if you like them "2"!
 
