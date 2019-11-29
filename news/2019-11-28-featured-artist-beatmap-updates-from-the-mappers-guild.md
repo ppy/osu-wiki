@@ -8,7 +8,7 @@ The featured artists of osu! have been receiving more love than ever before! Com
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
-It's only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers' Guild, yet quite a bit has progressed with 8 quests completed and over 80 beatmaps of songs by featured artists reaching ranked status!
+It's only been two months since our [previous news article](https://osu.ppy.sh/home/news/2019-09-24-mappers-guild-september-newspost) on the Mappers' Guild, yet quite a bit has progressed, with 8 quests completed and over 80 beatmaps of songs by featured artists reaching ranked status!
 
 For those out of the loop, the Mappers' Guild is a system for mappers with more than three ranked maps to earn rewards for creating beatmaps of songs from the Featured Artist library. Following in the footsteps of MMOs, the Guild publishes weekly quests for mappers to undertake for extra rewards, however its members can still participate by mapping any featured artists songs they desire! If you're at all interested in the Guild, take a look at the [Mappers' Guild website](https://mappersguild.com/) for more information!
 
@@ -16,39 +16,39 @@ Today we'll be going over finished quests from the Mappers' Guild, featured arti
 
 ### Navigation
 
-- [Finished quests](#finished)
-- [Pack updates](#packs)
-- [Ranked map updates](#ranked)
+- [Finished quests](#finished-quests)
+- [Pack updates](#pack-updates)
+- [Ranked map updates](#ranked-map-updates)
 
-## <a id="finished"></a>Finished quests
+## <a id="finished-quests"></a>Finished quests
 
-![Creo header image](https://assets.ppy.sh/artists/36/header.jpg)
+![Creo header](https://assets.ppy.sh/artists/36/header.jpg)
 
-For this quest, the mappers had to create and rank at least 4 mapsets of songs by Creo, each hosted by a different user.
+For the **Creo mini-pack (osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by Creo, each hosted by a different user.
 
-The **Creo mini-pack (osu!)** quest was completed by [VINXIS](https://osu.ppy.sh/users/4323406) , [deetz](https://osu.ppy.sh/users/3513559), [Cheesecake](https://osu.ppy.sh/users/3700647), [NeilPerry](https://osu.ppy.sh/users/841391), [mithew](https://osu.ppy.sh/users/2571893), and [Kite](https://osu.ppy.sh/users/134572)
+This quest was completed by [VINXIS](https://osu.ppy.sh/users/4323406) , [deetz](https://osu.ppy.sh/users/3513559), [Cheesecake](https://osu.ppy.sh/users/3700647), [NeilPerry](https://osu.ppy.sh/users/841391), [mithew](https://osu.ppy.sh/users/2571893), and [Kite](https://osu.ppy.sh/users/134572).
 
 - [Creo - Idolize](https://osu.ppy.sh/beatmapsets/1020213) hosted by [deetz](https://osu.ppy.sh/users/3513559)
 - [Creo - Nautilus](https://osu.ppy.sh/beatmapsets/1015289) hosted by [VINXIS](https://osu.ppy.sh/users/4323406)
 - [Creo - Rivals](https://osu.ppy.sh/beatmapsets/1012878) hosted by [mithew](https://osu.ppy.sh/users/2571893)
 - [Creo - Shape of the Sun](https://osu.ppy.sh/beatmapsets/1051126) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)
 
-![Inferi header image](https://assets.ppy.sh/artists/43/header.jpg)
+![Inferi header](https://assets.ppy.sh/artists/43/header.jpg)
 
-For this quest, mappers had to create and rank at least 4 mapsets of songs by Inferi, each with a collaborative difficulty between two or more users.
+For the **Inferi Collab mini-pack (osu!taiko)** quest, mappers had to create and rank at least 4 mapsets of songs by Inferi, each with a collaborative difficulty between two or more users.
 
-The **Inferi Collab mini-pack (osu!taiko)** quest was completed by [komasy](https://osu.ppy.sh/users/1980256), [Greenshell](https://osu.ppy.sh/users/8693851), [Rhytoly](https://osu.ppy.sh/users/8121109), [mintong89](https://osu.ppy.sh/users/966210), [Raiden](https://osu.ppy.sh/users/2239480), [-Kazu-](https://osu.ppy.sh/users/920861), and [iceOC](https://osu.ppy.sh/users/5482401)
+This quest was completed by [komasy](https://osu.ppy.sh/users/1980256), [Greenshell](https://osu.ppy.sh/users/8693851), [Rhytoly](https://osu.ppy.sh/users/8121109), [mintong89](https://osu.ppy.sh/users/966210), [Raiden](https://osu.ppy.sh/users/2239480), [-Kazu-](https://osu.ppy.sh/users/920861), and [iceOC](https://osu.ppy.sh/users/5482401).
 
 - [Inferi - A Betrayal Unforetold](https://osu.ppy.sh/beatmapsets/1026679) hosted by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Inferi - Forged in the Phlegethon](https://osu.ppy.sh/beatmapsets/1041193) hosted by [iceOC](https://osu.ppy.sh/users/5482401)
 - [Inferi - The Ruin of Mankind](https://osu.ppy.sh/beatmapsets/1023681) hosted by [Rhytoly](https://osu.ppy.sh/users/8121109)
 - [Inferi - Quest for the Trinity](https://osu.ppy.sh/beatmapsets/1032376) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
 
-![Mystery header image](/wiki/shared/news/banners/mappersguild-mystery.jpg)
+![Mystery header](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
-For this quest, mappers had to create and rank at least 8 mapsets of songs whose tempos are mainly 200BPM or faster, without a single user hosting more than two mapsets.
+For the **High Tempo pack (osu!)** quest, mappers had to create and rank at least 8 mapsets of songs whose tempos are mainly 200BPM or faster, without a single user hosting more than two mapsets.
 
-The **High Tempo pack (osu!)** quest was completed by [Cris-](https://osu.ppy.sh/users/6175280), [walaowey](https://osu.ppy.sh/users/1475828),  [Minorsonek](https://osu.ppy.sh/users/5377178), [Hazu-](https://osu.ppy.sh/users/4668230), [Cosmolade](https://osu.ppy.sh/users/2172778), [RVMathew](https://osu.ppy.sh/users/3718151), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [Gero](https://osu.ppy.sh/users/1467715), [Tatan](https://osu.ppy.sh/users/5646529), [Crissa](https://osu.ppy.sh/users/5405836), [pkhg](https://osu.ppy.sh/users/343624), and [[ L u k a s ]](https://osu.ppy.sh/users/8067876)
+This quest was completed by [Cris-](https://osu.ppy.sh/users/6175280), [walaowey](https://osu.ppy.sh/users/1475828), [Minorsonek](https://osu.ppy.sh/users/5377178), [Hazu-](https://osu.ppy.sh/users/4668230), [Cosmolade](https://osu.ppy.sh/users/2172778), [RVMathew](https://osu.ppy.sh/users/3718151), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [Gero](https://osu.ppy.sh/users/1467715), [Tatan](https://osu.ppy.sh/users/5646529), [Crissa](https://osu.ppy.sh/users/5405836), [pkhg](https://osu.ppy.sh/users/343624), and [[ L u k a s ]](https://osu.ppy.sh/users/8067876).
 
 - [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/996898) hosted by [[ L u k a s ]](https://osu.ppy.sh/users/8067876)
 - [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/996628) hosted by [Hazu-](https://osu.ppy.sh/users/4668230)
@@ -60,11 +60,11 @@ The **High Tempo pack (osu!)** quest was completed by [Cris-](https://osu.ppy.sh
 - [VINXIS - Greetings](https://osu.ppy.sh/beatmapsets/1038319) hosted by [Minorsonek](https://osu.ppy.sh/users/5377178)
 - [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmapsets/1003554) hosted by [Gero](https://osu.ppy.sh/users/1467715)
 
-![Camellia header image](https://assets.ppy.sh/artists/31/header.jpg)
+![Camellia header](https://assets.ppy.sh/artists/31/header.jpg)
 
-For this quest, mappers had to create and rank at least 6 mapsets of songs by Camellia. Half of the mapsets must include difficulties of a game mode different from the other half, and each mapset must be hosted by a different user.
+For the **Camellia Hybrid pack (osu!taiko & osu!mania)** quest, mappers had to create and rank at least 6 mapsets of songs by Camellia. Half of the mapsets must include difficulties of a game mode different from the other half, and each mapset must be hosted by a different user.
 
-The **Camellia Hybrid pack (osu!taiko & osu!mania)** quest was completed by [Nifty](https://osu.ppy.sh/users/4956097), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Faputa](https://osu.ppy.sh/users/845733), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Nepuri](https://osu.ppy.sh/users/6637817), [Genjuro](https://osu.ppy.sh/users/3196091), [Asherz007](https://osu.ppy.sh/users/9014047), [Leniane](https://osu.ppy.sh/users/7138602), [Dergo](https://osu.ppy.sh/users/7439226), [AncuL](https://osu.ppy.sh/users/2449200), and [\_Kobii](https://osu.ppy.sh/users/6209713)
+This quest was completed by [Nifty](https://osu.ppy.sh/users/4956097), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Faputa](https://osu.ppy.sh/users/845733), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Nepuri](https://osu.ppy.sh/users/6637817), [Genjuro](https://osu.ppy.sh/users/3196091), [Asherz007](https://osu.ppy.sh/users/9014047), [Leniane](https://osu.ppy.sh/users/7138602), [Dergo](https://osu.ppy.sh/users/7439226), [AncuL](https://osu.ppy.sh/users/2449200), and [\_Kobii](https://osu.ppy.sh/users/6209713).
 
 - [Camellia - Artificial Snow](https://osu.ppy.sh/beatmapsets/1026319) hosted by [Dergo](https://osu.ppy.sh/users/7439226)
 - [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
@@ -74,11 +74,11 @@ The **Camellia Hybrid pack (osu!taiko & osu!mania)** quest was completed by [Nif
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
-![LukHash header image](https://assets.ppy.sh/artists/12/header.jpg)
+![LukHash header](https://assets.ppy.sh/artists/12/header.jpg)
 
-For this quest, mappers had to create and rank at least 4 mapsets of songs by LukHash, each hosted by a different user. The party was so motivated, they went above and beyond by making 8 sets!
+For the **LukHash mini-pack (osu!catch)** quest, mappers had to create and rank at least 4 mapsets of songs by LukHash, each hosted by a different user. The party was so motivated, they went above and beyond by making 8 sets!
 
-The **LukHash mini-pack (osu!catch)** quest was completed by [MBomb](https://osu.ppy.sh/users/3071175), [Nelly](https://osu.ppy.sh/users/4741164), [Absolute Zero](https://osu.ppy.sh/users/4847256), [Bunnrei](https://osu.ppy.sh/users/829284), [JBHyperion](https://osu.ppy.sh/users/4879508), [Ascendance](https://osu.ppy.sh/users/2931883), [wonjae](https://osu.ppy.sh/users/5032045), and [Rocma](https://osu.ppy.sh/users/566276)
+This quest was completed by [MBomb](https://osu.ppy.sh/users/3071175), [Nelly](https://osu.ppy.sh/users/4741164), [Absolute Zero](https://osu.ppy.sh/users/4847256), [Bunnrei](https://osu.ppy.sh/users/829284), [JBHyperion](https://osu.ppy.sh/users/4879508), [Ascendance](https://osu.ppy.sh/users/2931883), [wonjae](https://osu.ppy.sh/users/5032045), and [Rocma](https://osu.ppy.sh/users/566276).
 
 - [LukHash - 8BIT FAIRY TALE](https://osu.ppy.sh/beatmapsets/1045131) hosted by [Ascendance](https://osu.ppy.sh/users/2931883)
 - [LukHash - DIGITAL HEART](https://osu.ppy.sh/beatmapsets/1031580) hosted by [MBomb](https://osu.ppy.sh/users/3071175)
@@ -89,11 +89,11 @@ The **LukHash mini-pack (osu!catch)** quest was completed by [MBomb](https://osu
 - [LukHash - WINTER ERROR](https://osu.ppy.sh/beatmapsets/1031668) hosted by [Rocma](https://osu.ppy.sh/users/566276)
 - [LukHash - WTF?](https://osu.ppy.sh/beatmapsets/1031588) hosted by [wonjae](https://osu.ppy.sh/users/5032045)
 
-![Undead Corporation header image](https://assets.ppy.sh/artists/45/header.jpg)
+![Undead Corporation header](https://assets.ppy.sh/artists/45/header.jpg)
 
-For this quest, mappers had to create and rank at least 5 mapsets of UNDEAD CORPORATION's other songs (not listed under TOHO Complete Box), each hosted by a different user.
+For the **UNDEAD CORPORATION Other Albums pack (osu!)** quest, mappers had to create and rank at least 5 mapsets of UNDEAD CORPORATION's other songs (not listed under TOHO Complete Box), each hosted by a different user.
 
-The **UNDEAD CORPORATION Other Albums pack (osu!)** was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [Hinsvar](https://osu.ppy.sh/users/1249323), [Niva](https://osu.ppy.sh/users/197805), and [Seto Kousuke](https://osu.ppy.sh/users/2857314)
+This quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [Hinsvar](https://osu.ppy.sh/users/1249323), [Niva](https://osu.ppy.sh/users/197805), and [Seto Kousuke](https://osu.ppy.sh/users/2857314).
 
 - [UNDEAD CORPORATION - Datura](https://osu.ppy.sh/beatmapsets/1020613) hosted by [Seto Kousuke](https://osu.ppy.sh/users/2857314)
 - [UNDEAD CORPORATION - Gleaming](https://osu.ppy.sh/beatmapsets/1023469) hosted by [Trynna](https://osu.ppy.sh/users/2652951)
@@ -101,11 +101,11 @@ The **UNDEAD CORPORATION Other Albums pack (osu!)** was completed by [Trynna](ht
 - [UNDEAD CORPORATION - Sad Dream](https://osu.ppy.sh/beatmapsets/1019827) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [UNDEAD CORPORATION - Xing Noises](https://osu.ppy.sh/beatmapsets/1021829) by [Niva](https://osu.ppy.sh/users/197805)
 
-![Rin header image](https://assets.ppy.sh/artists/14/header.jpg)
+![Rin header](https://assets.ppy.sh/artists/14/header.jpg)
 
-For this quest, mappers had to create and rank at least 3 mapsets of unpublished songs by one of our current featured artists. The unpublished songs were later revealed to be part of a massive update to Rin's library released [this past October](https://osu.ppy.sh/home/news/2019-10-01-new-featured-artist-updates).
+For the **From The Vault pack (osu!)** quest, mappers had to create and rank at least 3 mapsets of unpublished songs by one of our current featured artists. The unpublished songs were later revealed to be part of a massive update to Rin's library released [this past October](https://osu.ppy.sh/home/news/2019-10-01-new-featured-artist-updates).
 
-The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [schoolboy](https://osu.ppy.sh/users/8722791), [Hinsvar](https://osu.ppy.sh/users/1249323), and [Niva](https://osu.ppy.sh/users/197805)
+This quest was completed by [Trynna](https://osu.ppy.sh/users/2652951), [pishifat](https://osu.ppy.sh/users/3178418), [eiri-](https://osu.ppy.sh/users/3388410), [schoolboy](https://osu.ppy.sh/users/8722791), [Hinsvar](https://osu.ppy.sh/users/1249323), and [Niva](https://osu.ppy.sh/users/197805).
 
 - [Rin - Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
 - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) hosted by [Niva](https://osu.ppy.sh/users/197805)
@@ -113,18 +113,18 @@ The **From The Vault pack (osu!)** quest was completed by [Trynna](https://osu.p
 - [Rin - Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) hosted by [schoolboy](https://osu.ppy.sh/users/8722791)
 - [Rin - Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-![Aleph header image](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
+![Aleph header](/wiki/shared/news/2019-11-28-featured-artist-beatmap-updates-from-the-mappers-guild/aleph.jpg)
 
-For this quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH - but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu! so be sure to check the songs out and map them if you like them “2”!
+For the **2 (osu!taiko)** quest, mappers had to create and rank at least 2 mapsets of songs by an unpublished featured artist, each hosted by a different user. When licensing songs from Dictate, osu! also licensed 2 tracks by the artist ALEPH, but only 2 songs were not enough for their own Featured Artist listing, so the songs have not been listed on the website. That said, the 2 songs are licensed and free to use for mapping on osu!, so be sure to check the songs out and map them if you like them "2"!
 
-The **2 (osu!taiko)** quest was completed by [tasuke912](https://osu.ppy.sh/users/2774767), [salchow](https://osu.ppy.sh/users/9738159), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), and [Volta](https://osu.ppy.sh/users/4154071)
+This quest was completed by [tasuke912](https://osu.ppy.sh/users/2774767), [salchow](https://osu.ppy.sh/users/9738159), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), and [Volta](https://osu.ppy.sh/users/4154071).
 
 - [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
-## <a id="packs"></a>Pack updates
+## <a id="pack-updates"></a>Pack updates
 
-This month we also have some changes and additions to our collection of beatmap packs. A couple of packs have been moved and renamed this month as part of a new system to make featured artist packs more consistent going forward! Packs for artists will get their own artist packs, while packs for general themes or ideas that include multiple artists will be made into numbered “Mappers' Guild” packs.
+This month we also have some changes and additions to our collection of beatmap packs. A couple of packs have been moved and renamed as part of a new system to make featured artist packs more consistent going forward! Packs for artists will get their own artist packs, while packs for general themes or ideas that include multiple artists will be made into numbered "Mappers' Guild" packs.
 
 The packs changed are as follows:
 
@@ -136,15 +136,15 @@ The High Tea and Culprate medals have been also updated accordingly, with anyone
 
 **New featured artist packs** this month:
 
-- [\*namirin Pack](https://osu.ppy.sh/beatmaps/packs/1704) - Compiling various \*namirin maps ranked by the community.
-- [LukHash Pack (osu!catch)](https://osu.ppy.sh/beatmaps/packs/1758) - Maps from the *LukHash mini-pack* quest where the party went above and beyond the quest's 4 map requirement.
-- [Rin Pack](https://osu.ppy.sh/beatmaps/packs/1759) - Includes maps of Rin songs from the *From the Vault* and *Rin pack* quests.
-- [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) - Maps from the *High Tempo pack* quest - every mapset here is of a song over 200BPM.
-- [The Flashbulb Pack (osu!, osu!taiko, osu!catch)](https://osu.ppy.sh/beatmaps/packs/1762) - Compiled from two quests focused on The Flashbulb's featured artist tracks, this pack features maps of The Flashbulb's music across osu!, osu!taiko, and osu!catch.
+- [\*namirin Pack](https://osu.ppy.sh/beatmaps/packs/1704): Compiling various \*namirin maps ranked by the community.
+- [LukHash Pack (osu!catch)](https://osu.ppy.sh/beatmaps/packs/1758): Maps from the *LukHash mini-pack* quest where the party went above and beyond the quest's 4 map requirement.
+- [Rin Pack](https://osu.ppy.sh/beatmaps/packs/1759): Includes maps of Rin songs from the *From the Vault* and *Rin pack* quests.
+- [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757): Maps from the *High Tempo pack* quest. Every mapset here is of a song over 200BPM.
+- [The Flashbulb Pack (osu!, osu!taiko, osu!catch)](https://osu.ppy.sh/beatmaps/packs/1762): Compiled from two quests focused on The Flashbulb's featured artist tracks, this pack features maps of The Flashbulb's music across osu!, osu!taiko, and osu!catch.
 
 We will be working on adding more beatmap packs and new medals regularly, so be sure to keep an eye out for that!
 
-## <a id="ranked"></a>Ranked map updates
+## <a id="ranked-map-updates"></a>Ranked map updates
 
 This list includes all maps of featured artist tracks ranked since the previous newspost, even those mentioned previously in the quests section above. New to this round-up, we are including maps from outside the guild as well so that readers can keep up to date with all maps of songs by our featured artists!
 
