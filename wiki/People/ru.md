@@ -2,5 +2,5 @@
 
 Заглавная страница для статей о людях и группах.
 
-- [Вкладчики сообщества](Community_Contributors);
+- [Вкладчики сообщества](Community_Contributors)
 - [Команда osu!](The_Team)
