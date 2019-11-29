@@ -5,6 +5,7 @@ Pembatasan akun adalah tindakan pembatasan dari komunitas yang diterapkan pada a
 Ketika akses suatu akun dibatasi, akun tersebut tidak dapat berinteraksi dengan orang lain sampai sanksinya dicabut. Pemain yang dibatasi masih bisa memainkan game, mengunduh beatmap, dan mengirimkan skor, tetapi profil mereka tidak akan terlihat oleh orang lain.
 
 Fitur berikut dinonaktifkan untuk akun yang dibatasi:
+
 - *Chat* dalam game
 - pesan pribadi
 - posting dalam forum atau bagian komentar
@@ -27,6 +28,7 @@ Jika pengajuan banding Anda baru saja dikabulkan namun akun Anda kembali dibatas
 ## Mengapa akun saya dibatasi?
 
 Ada beberapa alasan mengapa akses terhadap suatu akun dibatasi.
+
 - **Anda tidak menggunakan akun pertama Anda.** Memiliki lebih dari satu akun merupakan perilaku yang bertentangan dengan aturan osu!. Akun mana pun selain akun pertama yang dimiliki pemain akan dibatasi aksesnya secara permanen, tetapi dalam kebanyakan kasus, akun asli mereka akan tetap bisa diakses, dan pemain harus tetap bermain menggunakan akun aslinya. Jika perbuatan *multiaccount* yang dilakukan terlalu parah dan terus berlanjut, pemain akan dikenakan sanksi *silence* pada akun asli mereka sebagai bentuk peringatan untuk berhenti membuat akun baru, dan akun tersebut akan diberi pembatasan jika perbuatannya masih terus berlanjut. Jika akun Anda masih dibatasi dan Anda memiliki akun lain, harap jangan mengakses kembali akun Anda yang sudah dibatasi dan tetaplah bermain menggunakan akun asli Anda. Jika Anda mengalami masalah dalam mengakses atau memverifikasi akun Anda, silakan kirim email kepada kami di [accounts@ppy.sh](mailto:accounts.ppy.sh) sehingga kami dapat membantu Anda memulihkan akses akun Anda.
 - **Anda mengizinkan orang lain untuk bermain menggunakan akun Anda.** Berbagi akses akun juga merupakan bentuk pelanggaran aturan osu!. Jika Anda mengizinkan orang lain bermain menggunakan akun Anda, akun itu akan dibatasi, dan pemain yang menggunakannya bisa saja akan menerima sanksi *silence* pada akun mereka atau bahkan bisa juga dibatasi akses akunnya. Jika hal ini terjadi secara tidak sengaja, mohon beri tahu kami sesegera mungkin dengan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Anda melakukan kecurangan.** Menggunakan program pihak ketiga, seperti makro, atau segala bentuk program yang menguntungkan diri sendiri secara tidak jujur merupakan tindakan salah dan tidak adil, dan akan menyebabkan pembatasan akun secara langsung.
@@ -75,6 +77,7 @@ Beberapa pelanggaran akan menyebabkan akun Anda diatur ulang kembali setelah pen
 ## Banding saya ditolak!
 
 Ada beberapa alasan mengapa banding Anda dapat ditolak.
+
 - **Anda mengirimnya terlalu cepat.** Jika masa tunggu untuk akun Anda belum selesai, banding Anda akan ditolak. Jika Anda tidak yakin kapan sebenarnya Anda dapat mengajukan banding, harap balas jawaban kami - kami akan memberi Anda tanggal yang benar.
 - **Banding Anda tidak memadai atau tidak lengkap.** Jika banding Anda kurang mencakup empat poin yang tercantum di atas, kami akan meminta Anda untuk menulis lebih lengkap. Hal ini **tidak akan** menyetel ulang masa tunggu untuk akun Anda dan Anda bebas mengirim banding baru kapan saja! Namun, jika Anda mencoba berbohong atau menyembunyikan pelanggaran yang Anda lakukan (terutama pembuatan akun lebih dari satu atau melakukan kecurangan), banding Anda akan ditolak dengan alasan tidak jujur, dan masa tunggu Anda akan diatur ulang menjadi tiga bulan. Ini adalah kesempatan lain bagi Anda untuk merenungkan tindakan Anda dan memastikan Anda tidak melupakan apa pun.
 - **Anda mencoba menghindar dari pembatasan atau bermain di akun lain.** Membuat akun lain untuk dapat bermain online saat akun asli Anda sedang dibatasi dianggap sebagai upaya untuk menghindari pembatasan, dan masa tunggu pengajuan banding Anda akan diatur ulang menjadi tiga bulan sejak pembuatan akun *pelarian* Anda. Jika Anda terlalu sering menghindari pembatasan, banding Anda mungkin akan ditolak secara permanen. Jika Anda masih mengakses atau bermain menggunakan akun lain ketika masih dibatasi, masa tunggu banding Anda juga akan diatur ulang. Ingatlah bahwa membuat akun lebih dari satu merupakan tindakan yang bertentangan dengan [aturan](/wiki/Rules) dan Anda diharapkan untuk hanya bermain menggunakan akun asli Anda. Jika Anda tidak yakin akun mana yang dianggap sebagai akun asli Anda, kirim email kepada kami dan kami akan memberi tahu Anda!
@@ -84,7 +87,7 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 ## Alasan pembatasan umum dan masa tunggunya
 
 | Alasan pembatasan | Durasi masa tunggu | Catatan banding |
-| - | - | - |
+| :-- | :-- | :-- |
 | Kesalahan Penilaian | Tidak ada masa tunggu | Jika terjadi kesalahan, tidak berdampak apa-apa pada akun. |
 | Pembuatan akun ganda | Permanen (untuk akun ganda) | Akun utama akan dibiarkan tidak dikenakan pembatasan, mungkin dikenakan *silence*. |
 | Pembuatan akun ganda berlebih | 3 bulan | Boleh mengajukan banding, larangan berkompetisi di turnamen selama 1 tahun |
