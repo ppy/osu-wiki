@@ -107,7 +107,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | --- | --- |
 | `VSync` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 | `Power Saving` | Limits the game client to 2x refresh rate. |
-| `Optimal` | Limits the game client between 480~960fps based on 8x your monitor refresh rate. |
+| `Optimal` | Limits the game client to eight times the refresh rate of your monitor, usually between 480–960fps. |
 | `Unlimited (gameplay)` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 
 - `VSync` explanation: In layman terms, using VSync will force the game wait for the entire frame to load before displaying it.
