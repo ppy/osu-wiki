@@ -251,12 +251,12 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 ### Design
 
-- `I`: Sprite library 창 열기.
+- `I`: Sprite library 창 열기
 - `Ctrl` + `Z`: 실행 취소
 - `Ctrl` + `Y`: 다시 실행
 - `Ctrl` + `X`: 선택한 레이어 잘라내기
 - `Ctrl` + `C`: 선택한 레이어 복사하기
-- `Ctrl` + `V`: 현재 시간에 레이어 붙여넣기 (Note: pasted layers will not show on the right layer list until the map is saved and reloaded)
+- `Ctrl` + `V`: 현재 시간에 레이어 붙여넣기 (Note: 붙여넣기한 레이어는 맵을 저장하거나 다시 불러올 때까지 우측의 레이어 리스트에 나타나지 않음)
 - `Delete`: 선택한 레이어 삭제
 - `W`, `A`, `S`, `D`: 선택한 레이어를 각각 상하좌우로 1px만큼 이동
 
@@ -264,11 +264,11 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 - `T`: 키를 눌러서 [BPM](/wiki/BPM)과 offset 설정
   - 일정하게 키를 눌러야 정확한 값을 얻을 수 있습니다.
-- `Shift` 누른 채로 BPM/offset 조절: 4배로 증가 / 감소
-- `Ctrl` + `B`: 현재 timing point 초기화
-- `Ctrl` + `P`: 현재 시간에 timing point 추가 (timing 화면이 아니라면 Timing Setup 창이 열림)
-- `Ctrl` + `Shift` + `P`: 현재 시간에 inherited timing point 추가 (Timing Setup 창이 열림)
-- `Ctrl` + `I`: 현제 timing 구역 삭제. 첫 번째 timing point는 삭제하지 않음
+- `Shift` 누른 채로 BPM/offset 조절: 4배로 증가/감소
+- `Ctrl` + `B`: 현재 타이밍 포인트 초기화
+- `Ctrl` + `P`: 현재 시간에 타이밍 포인트 추가 (timing 화면이 아니라면 Timing Setup 창이 열림)
+- `Ctrl` + `Shift` + `P`: 현재 시간에 상속된 타이밍 포인트 추가 (Timing Setup 창이 열림)
+- `Ctrl` + `I`: 현재 타이밍 구역 삭제 (첫 번째 타이밍 포인트는 삭제하지 않음)
 
 ### 마우스 조작
 
