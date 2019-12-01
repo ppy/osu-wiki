@@ -242,43 +242,40 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Change [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively.
-- `Shift` while placing (timeline): Ignore grid and beat (time) snapping
-- `J`: Nudge circle backwards in time
-- `K`: Nudge circle forwards in time
-- `L`: Lock all notes.
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Beatmap_Editor/Beat_Snap_Divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
+- `Shift` 누르면서 서클 이동 (타임라인에서): 시간 그리드를 무시하고 배치 (osu!mania에서는 작동하지 않음)
+- `J`: 서클을 앞쪽 시간으로 이동
+- `K`: 서클을 뒤쪽 시간으로 이동
+- `L`: Lock Notes 켜기/끄기
 
 ### Design
-- `I`: Open Sprite library overlay.
-- `Ctrl` + `Z`: Undo
-- `Ctrl` + `Y`: Redo
-- `Ctrl` + `X`: Cut selected layer
-- `Ctrl` + `C`: Copy selected layer
-- `Ctrl` + `V`: Paste layer at current time (Note: pasted layers will not show on the right layer list until the map is saved and reloaded)
-- `Delete`: Delete selected layer
-- `W`, `A`, `S`, `D`: Move selected layer up, left, down, or right one osu!pixel
+
+- `I`: Sprite library 창 열기.
+- `Ctrl` + `Z`: 실행 취소
+- `Ctrl` + `Y`: 다시 실행
+- `Ctrl` + `X`: 선택한 레이어 잘라내기
+- `Ctrl` + `C`: 선택한 레이어 복사하기
+- `Ctrl` + `V`: 현재 시간에 레이어 붙여넣기 (Note: pasted layers will not show on the right layer list until the map is saved and reloaded)
+- `Delete`: 선택한 레이어 삭제
+- `W`, `A`, `S`, `D`: 선택한 레이어를 각각 상하좌우로 1px만큼 이동
 
 ### Timing
 
-- `T`: Tap the [BPM](/wiki/BPM)/offset
-  - You will need to tap at a constant rate.
-- `Shift` while adjusting BPM/offset: 4x speed
-- `Ctrl` + `B`: Reset current timing point
-- `Ctrl` + `P`: Add uninherited timing point at current time (unless on timing tab, opens the Timing Setup window)
-- `Ctrl` + `Shift` + `P`: Add inherited timing point at current time (opens Timing Setup window)
-- `Ctrl` + `I`: Delete current timing section. Will not work on first uninherited timing point
+- `T`: 키를 눌러서 [BPM](/wiki/BPM)과 offset 설정
+  - 일정하게 키를 눌러야 정확한 값을 얻을 수 있습니다.
+- `Shift` 누른 채로 BPM/offset 조절: 4배로 증가 / 감소
+- `Ctrl` + `B`: 현재 timing point 초기화
+- `Ctrl` + `P`: 현재 시간에 timing point 추가 (timing 화면이 아니라면 Timing Setup 창이 열림)
+- `Ctrl` + `Shift` + `P`: 현재 시간에 inherited timing point 추가 (Timing Setup 창이 열림)
+- `Ctrl` + `I`: 현제 timing 구역 삭제. 첫 번째 timing point는 삭제하지 않음
 
 ### Mouse Controls
 
-- `Left Click`: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles
-- `Ctrl` + `Left Click`: Add new point to existing slider
-- `Right Click`: Toggle new combo, end a slider placement, or removes a point, or deletes an object (only when in selection mode)
-- `Mouse Wheel Up`: Seek forwards
-- `Shift` + `Mouse Wheel Up`: Seek forwards at 4x
-- `Mouse Wheel Down`: Seek backwards
-- `Shift` + `Mouse Wheel Down`: Seek backwards at 4x
-- `Ctrl` + `Mouse Wheel Up`: Increase/decrease the snap divisor
-- `Alt` + `Mouse Wheel Up`: Increase/decrease the alt-snapping distance multiplier while in playfield. Change timeline zoom while in timeline
-- `Ctrl` + `Mouse Wheel Down`: Decrease the snap divisor
-- `Alt` + `Mouse Wheel Down`: Decrease the alt-snapping distance multiplier while in playfield. Change timeline zoom while in timeline
-- `Dragging`: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them
+- `Left Click`: 히트 서클 배치, 슬라이더 시작점 또는 배치 중인 슬라이더에 포인트를 추가, 서클 선택
+- `Ctrl` + `Left Click`: 기존 슬라이더에 새 포인트 추가
+- `Right Click`: New Combo 토글, 슬라이더 배치를 끝냄, 포인트를 제거, 오브젝트 삭제 (선택 모드에서만)
+- `Mouse Wheel Up/Down`: 앞/뒤 시간으로 1틱만큼 이동
+- `Shift` + `Mouse Wheel Up/Down`: 앞/뒤 시간으로 4틱만큼 이동
+- `Ctrl` + `Mouse Wheel Up/Down`: 비트 배치 나눗수 증가/감소
+- `Alt` + `Mouse Wheel Up/Down`: 플레이 영역에서는 거리 간격 조절, 타임라인 영역에서는 확대/축소
+- `드래그`: 선택한 노트의 위치나 타이밍을 이동, 슬라이더에 있는 포인트를 이동, 슬라이더 또는 스피너 끝 부분을 드래그하여 확장
