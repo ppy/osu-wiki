@@ -72,7 +72,7 @@ Di situs web, beatmap secara otomatis diberikan ikon kesulitan berdasarkan renta
 - ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ dan di atasnya
 <!-- markdownlint-enable MD045 -->
 
 Tingkat kesulitan yang dimiliki dan diberikan pada sebagian besar beatmap cocok dengan ikon yang diberikan, tetapi beberapa menyimpang bahkan secara signifikan. Inilah sebabnya mengapa [kriteria beatmap Ranked](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan dan mengavaluasi semua set yang ada dalam beatmap.
