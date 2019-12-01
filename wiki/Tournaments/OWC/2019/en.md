@@ -36,6 +36,7 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 The osu! World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
+<!-- markdownlint-disable MD045 -->
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
@@ -104,151 +105,188 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 30 November 2019
+### Saturday, 7 December 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Poland | ![][flag_PL] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ² |
-| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **10:30 UTC** | 19:30 UTC+09 | 19:30 UTC+09 | ² |
-| Hong Kong | ![][flag_HK] | ![][flag_AT] | Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | **13:30 UTC** | 20:30 UTC+07 | 21:30 UTC+08 | ² |
-| China | ![][flag_CN] | ![][flag_SE] | Sweden | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ² |
-| Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **16:30 UTC** | 17:30 UTC+01 | 17:30 UTC+01 | ² |
-| France | ![][flag_FR] | ![][flag_CL] | Chile | **19:30 UTC** | 20:30 UTC+01 | 16:30 UTC-03 | ² |
-| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **21:00 UTC** | 18:00 UTC-03 | 22:00 UTC+01 | ² |
+| Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 22:00 UTC+11 | 19:00 UTC+08 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **12:30 UTC** | 20:30 UTC+08 | 21:30 UTC+09 | ² |
+| Romania | ![][flag_RO] | ![][flag_BR] | Brazil | **16:30 UTC** | 18:30 UTC+02 | 13:30 UTC-03 | ² |
+| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **19:30 UTC** | 14:30 UTC-05 | 20:30 UTC+01 | ² |
 
-### Sunday, 01 December 2019
+### Sunday, 8 December 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
-| Japan | ![][flag_JP] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
-| United States | ![][flag_US] | ![][flag_AU] | Australia | **03:30 UTC** | 21:30 (Sat.) UTC-06 | 14:30 UTC+11 | ¹ |
-| China | ![][flag_CN] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 17:00 UTC+08 | 22:00 UTC+13 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00 UTC** | 09:00 UTC-03 | 20:00 UTC+08 | ³ |
-| Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 | ³ |
-| Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **13:00 UTC** | 14:00 UTC+01 | 14:00 UTC+01 | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
-| Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
-| Italy | ![][flag_IT] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **13:30 UTC** | 10:30 UTC-03 | 20:30 UTC+07 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **14:00 UTC** | 14:00 UTC | 22:00 UTC+08 | ¹ |
-| China | ![][flag_CN] | ![][flag_PL] | Poland | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ³ |
-| Romania | ![][flag_RO] | ![][flag_DE] | Germany | **16:30 UTC** | 18:30 UTC+02 | 17:30 UTC+01 | ¹ |
-| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 14:00 UTC+11 | ³ |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
+| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ³ |
+| Poland | ![][flag_PL] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 | ³ |
+| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
+| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **15:30 UTC** | 15:30 UTC | 16:30 UTC+01 | ¹ |
 
-¹ Winner bracket encounter
- 
-² Loser bracket encounter
-
+¹ Winner bracket encounter  
+² Loser bracket encounter  
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
 
+### Semifinals
+
+- NoMod
+  - [Roselia - LOUDER (SkyFlame) \[EVEN LOUDER\]](https://osu.ppy.sh/beatmapsets/1040095#osu/2173926)
+  - [Festa - Lemuria (QuiescentRabbit) \[Isolation Singularity\]](https://osu.ppy.sh/beatmapsets/835474#osu/1749822)
+  - [lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)
+  - [Sumireko Hanabusa (CV: Miho Arakawa) - Inochi no Karakuri (Atalanta) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+  - [S.S.H. - The Decisive Battle with the Fugitives (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/145215#osu/360345)
+  - [Chon - Sleepy Tea (piroshki) \[Elogium\]](https://osu.ppy.sh/beatmapsets/959788#osu/2009509)
+- Hidden
+  - [positive MAD-crew - Lapistoria no Yakusoku (Rigid Blue Remains) (Shirasaka Koume) \[Ex\]](https://osu.ppy.sh/beatmapsets/549158#osu/1162919)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
+  - [umu. - humanly (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1045518#osu/2185651)
+- HardRock
+  - [Sokoninaru - Tenohira de Odoru (Snepif) \[Extreme\]](https://osu.ppy.sh/beatmapsets/773686#osu/1641323)
+  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
+  - [HyuN - Grin (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/947770#osu/1982581)
+- DoubleTime
+  - [yurika - THE EVENING STAR (y u z u k i) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
+  - [Yumeji Ruri - The answer BLOOD \~Senketsu no Michishirube\~ (Short Ver.) (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/52586#osu/160712)
+  - [Hatsunetsumiko's - Two Fates (happy30) \[Destiny\]](https://osu.ppy.sh/beatmapsets/301400#osu/675854)
+  - [Masayoshi Minoshima - Bad Apple!! feat.nomico (Nhato Remix) (Akareh) \[Limbo\]](https://osu.ppy.sh/beatmapsets/616378#osu/1299942)
+- FreeMod
+  - [Tamaonsen - COZMIC DRIVE feat.Youko (caren_sk) \[CRN MORE DRIVE\]](https://osu.ppy.sh/beatmapsets/78859#osu/220330)
+  - [RYO - Shuffle Heaven (Nemis) \[eXtra\]](https://osu.ppy.sh/beatmapsets/85802#osu/235470)
+  - [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#osu/1836851)
+- Tiebreaker
+  - **[Camellia - epimerization (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/752677#osu/1584614)**
+
 ### Quarterfinals
 
 - NoMod
-   - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
-   - [xi - over the top (Kroytz) \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
-   - [sky_delta - Midnight City Warfare (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1008607#osu/2111383)
-   - [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
-   - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono (LMT) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)
-   - [Tokyo Jihen - Sounan (Uberzolik) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/967321#osu/2031053)
+  - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+  - [xi - over the top (Kroytz) \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
+  - [sky_delta - Midnight City Warfare (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1008607#osu/2111383)
+  - [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
+  - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono (LMT) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/763607#osu/1711326)
+  - [Tokyo Jihen - Sounan (Uberzolik) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/967321#osu/2031053)
 - Hidden
-   - [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#osu/1867667)
-   - [BUTAOTOME - Towa no Maigo (Icekalt) \[It was all a dream\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2238398)
-   - [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)
+  - [penoreri - Sailing Force (BarkingMadDog) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/893700#osu/1867667)
+  - [BUTAOTOME - Towa no Maigo (Icekalt) \[It was all a dream\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2238398)
+  - [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)
 - HardRock
-   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
-   - [An - Catanoph (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1697021)
-   - [P4koo - Crystal Illusion (Beomsan) \[milr\_'s Expert\]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
+  - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
+  - [An - Catanoph (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1697021)
+  - [P4koo - Crystal Illusion (Beomsan) \[milr\_'s Expert\]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
 - DoubleTime
-   - [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
-   - [senya - Magica (Satellite) \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
-   - [HAG - Koe (C O N N E R) \[Insane\]](https://osu.ppy.sh/beatmapsets/798510#osu/1676795)
-   - [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
+  - [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
+  - [senya - Magica (Satellite) \[SatelliteFrostMix\]](https://osu.ppy.sh/beatmapsets/91791#osu/248474)
+  - [HAG - Koe (C O N N E R) \[Insane\]](https://osu.ppy.sh/beatmapsets/798510#osu/1676795)
+  - [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
 - FreeMod
-   - [HyuN - Tokyo's Starlight (Pho) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/891712#osu/1864175)
-   - [mafumafu - Kakushigoto (Vert) \[0108's Extra.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1680481)
-   - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
+  - [HyuN - Tokyo's Starlight (Pho) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/891712#osu/1864175)
+  - [mafumafu - Kakushigoto (Vert) \[0108's Extra.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1680481)
+  - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
 - Tiebreaker
-   - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
+  - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
 
 ### Round of 16
 
 - NoMod
-   - [BUTAOTOME - Yokubou no Kozuchi (BarkingMadDog) \[Mallet of Desires\]](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996)
-   - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
-   - [Camellia - kodama (ProfessionalBox) \[Yamabiko\]](https://osu.ppy.sh/beatmapsets/488016#osu/1040424)
-   - [Zutto Mayonaka de Ii no ni. - Humanoid (Meg) \[Collab\]](https://osu.ppy.sh/beatmapsets/972298#osu/2035761)
-   - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
+  - [BUTAOTOME - Yokubou no Kozuchi (BarkingMadDog) \[Mallet of Desires\]](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996)
+  - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+  - [Camellia - kodama (ProfessionalBox) \[Yamabiko\]](https://osu.ppy.sh/beatmapsets/488016#osu/1040424)
+  - [Zutto Mayonaka de Ii no ni. - Humanoid (Meg) \[Collab\]](https://osu.ppy.sh/beatmapsets/972298#osu/2035761)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
 - Hidden
-   - [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#osu/709313)
-   - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+  - [cosMo@BousouP feat. Hatsune Miku - Shinsekai (jonathanlfj) \[New World\]](https://osu.ppy.sh/beatmapsets/318557#osu/709313)
+  - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
 - HardRock
-   - [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[FCL's Extreme\]](https://osu.ppy.sh/beatmapsets/741193#osu/1618753)
-   - [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
+  - [Fujimiya Kaori (CV: Amamiya Sora) - Kanade (Shadren Remix) (schoolboy) \[FCL's Extreme\]](https://osu.ppy.sh/beatmapsets/741193#osu/1618753)
+  - [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
 - DoubleTime
-   - [3L - Spring of Dreams (Trust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/739119#osu/1559749)
-   - [Hatsuki Yura - Halloween of the Dead (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2184660)
-   - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
+  - [3L - Spring of Dreams (Trust) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/739119#osu/1559749)
+  - [Hatsuki Yura - Halloween of the Dead (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2184660)
+  - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
 - FreeMod
-   - [NegaRen - A Bunch Of Samples Played Consecutively (Mao) \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
-   - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+  - [NegaRen - A Bunch Of Samples Played Consecutively (Mao) \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
+  - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
 - Tiebreaker
-   - **[Shimotsuki Haruka - Youka to Yumeutsutsu (-Tochi) \[Awake\]](https://osu.ppy.sh/beatmapsets/657208#osu/1392159)**
+  - **[Shimotsuki Haruka - Youka to Yumeutsutsu (-Tochi) \[Awake\]](https://osu.ppy.sh/beatmapsets/657208#osu/1392159)**
 
 ### Round of 32
 
 - NoMod
-   - [Tadokoro Azusa - Junshin Always (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/838515#osu/1755497)
-   - [cosMo@BousouP - For UltraPlayers (toybot) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1062625#osu/2225237)
-   - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
-   - [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572141)
-   - [AAAA - carnation (Veridian) \[black another\]](https://osu.ppy.sh/beatmapsets/677687#osu/1433158)
+  - [Tadokoro Azusa - Junshin Always (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/838515#osu/1755497)
+  - [cosMo@BousouP - For UltraPlayers (toybot) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1062625#osu/2225237)
+  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
+  - [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572141)
+  - [AAAA - carnation (Veridian) \[black another\]](https://osu.ppy.sh/beatmapsets/677687#osu/1433158)
 - Hidden
-   - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Fiura's Miyabi\]](https://osu.ppy.sh/beatmapsets/671056#osu/1419003)
-   - [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Despair\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
+  - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Fiura's Miyabi\]](https://osu.ppy.sh/beatmapsets/671056#osu/1419003)
+  - [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Despair\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
 - HardRock
-   - [HO-KAGO TEA TIME - Tokimeki Sugar (Yogurtt) \[extra\]](https://osu.ppy.sh/beatmapsets/496985#osu/1057962)
-   - [Yooh - Dynasty (Sylith) \[HalLoWeeN's EXHAUST\]](https://osu.ppy.sh/beatmapsets/149648#osu/374776)
+  - [HO-KAGO TEA TIME - Tokimeki Sugar (Yogurtt) \[extra\]](https://osu.ppy.sh/beatmapsets/496985#osu/1057962)
+  - [Yooh - Dynasty (Sylith) \[HalLoWeeN's EXHAUST\]](https://osu.ppy.sh/beatmapsets/149648#osu/374776)
 - DoubleTime
-   - [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875#osu/792303)
-   - [Ceui - Seisen Spectale (Xinely) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/92542#osu/250180)
-   - [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/366643#osu/806465)
+  - [Eri Sasaki - Ring of Fortune (Cherry Blossom) \[Memories\]](https://osu.ppy.sh/beatmapsets/347875#osu/792303)
+  - [Ceui - Seisen Spectale (Xinely) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/92542#osu/250180)
+  - [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/366643#osu/806465)
 - FreeMod
-   - [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/1029921#osu/2153558)
-   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/1029921#osu/2153558)
+  - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
 - Tiebreaker
-   - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Morinaga) \[Skystar's Descent\]](https://osu.ppy.sh/beatmapsets/679272#osu/1436329)**
+  - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Morinaga) \[Skystar's Descent\]](https://osu.ppy.sh/beatmapsets/679272#osu/1436329)**
 
 ### Qualifiers
 
 - NoMod
-   - [Mimori Suzuko - Light for Knight (\_kotachi\_) \[Destiny(New ver.)\]](https://osu.ppy.sh/beatmapsets/801337#osu/2218600)
-   - [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#osu/793845)
-   - [Toby Fox - Chaos King (Fatfan Kolek) \[Mirash's Expert\]](https://osu.ppy.sh/beatmapsets/877955#osu/1849148)
-   - [Eagle - Hypersonik (Mir) \[Speed Demon\]](https://osu.ppy.sh/beatmapsets/1059448#osu/2218604)
+  - [Mimori Suzuko - Light for Knight (\_kotachi\_) \[Destiny(New ver.)\]](https://osu.ppy.sh/beatmapsets/801337#osu/2218600)
+  - [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#osu/793845)
+  - [Toby Fox - Chaos King (Fatfan Kolek) \[Mirash's Expert\]](https://osu.ppy.sh/beatmapsets/877955#osu/1849148)
+  - [Eagle - Hypersonik (Mir) \[Speed Demon\]](https://osu.ppy.sh/beatmapsets/1059448#osu/2218604)
 - Hidden
-   - [m@sumi - Hengen Jizai (thzz) \[Extra\]](https://osu.ppy.sh/beatmapsets/595456#osu/1259186)
-   - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+  - [m@sumi - Hengen Jizai (thzz) \[Extra\]](https://osu.ppy.sh/beatmapsets/595456#osu/1259186)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
 - HardRock
-   - [Wolpis Carter - f.o.f (dkblaze) \[Listle's Extra\]](https://osu.ppy.sh/beatmapsets/924322#osu/2044512)
-   - [ginkiha - Oriens (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/182271#osu/437202)
+  - [Wolpis Carter - f.o.f (dkblaze) \[Listle's Extra\]](https://osu.ppy.sh/beatmapsets/924322#osu/2044512)
+  - [ginkiha - Oriens (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/182271#osu/437202)
 - DoubleTime
-   - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
-   - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
+  - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
+  - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
 
 ---
 
-## Match Results
+## Match results
+
+### Quarterfinals
+
+| Saturday, 2019-11-30 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Poland** ![][flag_PL] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56626592) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56627888) |
+| **Hong Kong** ![][flag_HK] | **6** | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/56629467) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/56631668) |
+| **China** ![][flag_CN] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/56634054) |
+| Netherlands ![][flag_NL] | 1 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/56636595) |
+| **France** ![][flag_FR] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56642089) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56644815) |
+
+| Sunday, 2019-12-01 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/56652543) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56660231) |
+| **Brazil** ![][flag_BR] | **6** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56662222) |
+| **Italy** ![][flag_IT] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56662230) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/56662918) |
+| China ![][flag_CN] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/56664503) |
+| **Romania** ![][flag_RO] | 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/56666462) |
+| **Canada** ![][flag_CA] | 2 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/56668684) |
 
 ### Round of 16
 
