@@ -115,6 +115,8 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
   - Despite what the point above stated, this may cause some lag or slowdowns because the game client has to wait for each frame to load.
 - `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
   - When you are doing anything but playing a beatmap, `240fps` is used instead.
+  - This option is **not recommended**. Using unlimited frame limiter can lead to stutters.
+  - By using the `Optimal` setting, you will be automatically set to a frame limiter which (if your hardware can reach) offers imperceivable changes in system (input to output) latency when compared to `unlimited`.
 
 ### Layout
 
