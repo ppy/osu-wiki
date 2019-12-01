@@ -200,7 +200,8 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `Alt` + `Mouse Wheel Down`: 배치/선택 모드 전환 (아래쪽으로)
 - `Ctrl` + `Shift` + `A` : [AiMod](/wiki/Beatmap_Editor/AiMod) 창 열기
 
-#### Playfield Settings
+#### 플레이필드 설정
+
 - `Alt`: 키를 누르는 동안 [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) 토글
 - `Y`: Distance Snap 켜기/끄기
 - `Shift`: 키를 누르는 동안 Grid Snap 토글
@@ -212,7 +213,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `4`: 격자 간격을 Large로 변경
 - `L`: Lock Notes 켜기/끄기
 
-#### Object Manipulation
+#### 오브젝트 조작
 
 - `Q`: New Combo 켜기/끄기
 - `Ctrl` + `,`: 반시계 방향으로 90도 회전
@@ -231,7 +232,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `Down Arrow`: 선택한 노트를 아래쪽으로 이동
 - `Ctrl` + `Up Arrow`, `Down Arrow` (osu!mania 전용): 선택한 노트를 tick 단위로 상하로 이동
 
-#### Hitsounding
+#### 히트사운드
 
 - `W`: 선택한 오브젝트에 Whistle 추가
 - `E`: 선택한 오브젝트에 Finish 추가
@@ -240,7 +241,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `Q`, `W`, `E`, `R`: 선택한 오브젝트의 Additions 변경 (Auto, Normal, Soft, Drum)
 - `Ctrl` + `Shift` + `I`: 샘플 가져오기 창 열기
 
-#### Timeline
+#### 타임라인
 
 - `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: [비트 배치 나눗수](/wiki/Beatmap_Editor/Beat_Snap_Divisor) 변경 (1/1, 1/2, 1/3, 1/4, 1/6, 1/8)
 - `Shift` 누르면서 서클 이동 (타임라인에서): 시간 그리드를 무시하고 배치 (osu!mania에서는 작동하지 않음)
@@ -269,7 +270,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `Shift` + `P`: 현재 시간에 inherited timing point 추가 (Timing Setup 창이 열림)
 - `Ctrl` + `I`: 현제 timing 구역 삭제. 첫 번째 timing point는 삭제하지 않음
 
-### Mouse Controls
+### 마우스 조작
 
 - `Left Click`: 히트 서클 배치, 슬라이더 시작점 또는 배치 중인 슬라이더에 포인트를 추가, 서클 선택
 - `Ctrl` + `Left Click`: 기존 슬라이더에 새 포인트 추가
