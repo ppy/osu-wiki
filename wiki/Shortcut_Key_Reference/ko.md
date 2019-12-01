@@ -12,7 +12,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 
 - `Ctrl` + `Alt` + `Shift` + `S`: 현재 스킨 다시 불러오기
   - 곡을 플레이 중이거나 결과 화면이 띄워진 상태에서는, 바로 다시 불러오지 않고 곡 선택 화면으로 돌아간 뒤 실행되도록 작업이 예약됩니다.
-- `Ctrl` + `F11`: Toggle frame times
+- `Ctrl` + `F11`: 프레임 타임 그래프 표시/숨기기
 - `F7`: 프레임레이트 제한 변경
   - 키를 누를 때마다 `120fps`, `240fps`, `제한 없음 (플레이 중에만)` 순서로 순환합니다. (단, `VSync`는 활성화되지 않음).
 - `F8`: 채팅 창 표시/숨기기
@@ -159,28 +159,28 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `V`: 곡의 끝 도는 마지막 노트의 위치로 이동
 - `X`: 처음부터 재생
 - `C` or `Space`: 일시정지/다시 재생
-- `Left Arrow` or `Right Arrow`: Skip through the song
-- `Up Arrow` or `Down Arrow`: Skip between timing points
-- `Shift` + `Left Arrow` or `Shift` + `Right Arrow`: Skip through the song at 4x speed
+- `Left Arrow` or `Right Arrow`: 타임라인 이동 (1틱만큼)
+- `Up Arrow` or `Down Arrow`: 타임라인 이동 (타이밍 포인트 단위로)
+- `Shift` + `Left Arrow` or `Shift` + `Right Arrow`: 타임라인 이동 (4틱만큼)
 - `Ctrl` + `B`: 현재 위치에 북마크 추가
 - `Ctrl` + `Shift` + `B`: 현재 위치의 북마크 제거
 - `Ctrl` + `Left Arrow`: 이전 북마크 위치로 이동
 - `Ctrl` + `Right Arrow`: 다음 북마크 위치로 이동
-- `Ctrl` + `L`: Revert to saved (partial). Reloads .osu and .osb files.
-- `Ctrl` + `Shift` + `L`: Revert to saved (full). Reloads other files like hitsounds and skin elements in addition to the .osu and .osb.
-- `Ctrl` + `O`: 난이도 선택 화면 열기
-- `Ctrl` + `S`: 빠른 저장
-- `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
-- `Ctrl` + `Down Arrow`: Lower playback speed by 25%
-- `Ctrl` + `Shift` + `Down Arrow`: Lower playback speed by 5%
-- `Ctrl` + `Up`: Raise playback speed by 25%
-- `Ctrl` + `Shift` + `Up Arrow`: Raise playback speed by 5%
-- `F1`: Switch to [compose](/wiki/Compose) mode
-- `F2`: Switch to [design](/wiki/Design) mode
-- `F3`: Switch to [timing](/wiki/Timing) mode
-- `F4`: Open the [song setup](/wiki/Song_Setup) (opens a dialog)
-- `F5`: Enter test mode.
-- `F6`: Open the timing setup panel.
+- `Ctrl` + `L`: 마지막으로 저장된 상태 불러오기 (부분적). osu, osb 파일을 다시 불러옵니다.
+- `Ctrl` + `Shift` + `L`: 마지막으로 저장된 상태 불러오기 (전체). osu, osb 파일 외에 히트사운드, 스킨 파일 등 다른 파일들을 다시 불러옵니다.
+- `Ctrl` + `O`: 난이도 선택 창 열기
+- `Ctrl` + `S`: 비트맵 저장
+- `Ctrl` + `N`: 모든 노트 삭제 (타이밍/곡 설정에 설정된 값은 유지)
+- `Ctrl` + `Down Arrow`: 곡 재생 속도 25% 감소
+- `Ctrl` + `Shift` + `Down Arrow`: 곡 재생 속도 5% 감소
+- `Ctrl` + `Up`: 곡 재생 속도 25% 증가
+- `Ctrl` + `Shift` + `Up Arrow`: 곡 재생 속도 5% 증가
+- `F1`: [compose](/wiki/Compose) 모드로 변경
+- `F2`: [design](/wiki/Design) 모드로 변경
+- `F3`: [timing](/wiki/Timing) 모드로 변경
+- `F4`: [곡 설정](/wiki/Song_Setup) 창 열기
+- `F5`: 비트맵 테스트
+- `F6`: 타이밍 설정 창 열기
 
 ### Compose
 
@@ -192,53 +192,53 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `X`: 잘라내기
 - `Ctrl` + `C`: 복사
 - `Ctrl` + `V`: 붙여넣기
-- `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
-- `Delete`: Remove selected notes
-- `1`, `2`, `3`, or `4`: Switch between placement/selection mode: Select, Circle, Slider, and Spinner respectively when editing osu!standard, osu!taiko, or osu!catch beatmaps.
-- `1`, `2`, or `3`: Switch between placement/selection mode: Select, Circle, and Hold respectively when editing osu!mania beatmaps.
-- `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
-- `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
-- `Ctrl` + `Shift` + `A` : Open [AiMod](/wiki/Beatmap_Editor/AiMod)
+- `Ctrl + D`: 선택한 노트 복제 (복제된 노트는 가장 뒷쪽의 노트를 기준으로 1박자 만큼의 간격을 두고 배치됨)
+- `Delete`: 선택한 노트 삭제
+- `1`, `2`, `3`, `4`: 배치/선택 모드 전환: 각각 Select, Circle, Slider, Spinner 선택 (osu!standard, osu!taiko, osu!catch 모드에서)
+- `1`, `2`, `3`: 배치/선택 모드 전환: 각각 Select, Circle, Hold 선택 (osu!mania 모드에서)
+- `Ctrl` + `Alt` + `Mouse Wheel Up`: 배치/선택 모드 전환 (위쪽으로)
+- `Ctrl` + `Alt` + `Mouse Wheel Down`: 배치/선택 모드 전환 (아래쪽으로)
+- `Ctrl` + `Shift` + `A` : [AiMod](/wiki/Beatmap_Editor/AiMod) 창 열기
 
 #### Playfield Settings
-- `Alt`: Temporarily toggle [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) while held
-- `Y`: Toggle Distance Snap
-- `Shift`: Temporarily toggle grid snap while held.
-- `T`: Toggle Grid Snap
-- `G`: Cycle through grid precision
-- `Ctrl` + `1`: Use tiny grid size
-- `Ctrl` + `2`: Use small grid size
-- `Ctrl` + `3`: Use medium grid size
-- `Ctrl` + `4`: Use large grid size
-- `L`: Toggle lock all notes.
+- `Alt`: 키를 누르는 동안 [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) 토글
+- `Y`: Distance Snap 켜기/끄기
+- `Shift`: 키를 누르는 동안 Grid Snap 토글
+- `T`: Grid Snap 켜기/끄기
+- `G`: 격자 간격 변경
+- `Ctrl` + `1`: 격자 간격을 Tiny로 변경
+- `Ctrl` + `2`: 격자 간격을 Small로 변경
+- `Ctrl` + `3`: 격자 간격을 Medium으로 변경
+- `Ctrl` + `4`: 격자 간격을 Large로 변경
+- `L`: Lock Notes 켜기/끄기
 
 #### Object Manipulation
 
-- `Q`: Toggle New Combo
-- `Ctrl` + `,`: Rotate 90 degrees anticlockwise
-- `Ctrl` + `.`: Rotate 90 degrees clockwise
-- `Ctrl` + `H`: Flip horizontally
-- `Ctrl` + `J`: Flip vertically
-- `Ctrl` + `G`: Reverse selection
-- `Ctrl` + `Shift` + `R`: Rotate selected note(s) by a specified angle (opens a dialog)
-- `Ctrl` + `Shift` + `S`: Scale selected note(s) by a specified amount (opens a dialog)
-- `Ctrl` + `Shift` + `D`: Generate polygons with a specificied number of points (opens a dialog)
-- `Ctrl` + `Shift` + `F`: Convert slider to stream (opens a dialog)
-- `Ctrl` + `Left Arrow`: Move selected notes left
-- `Ctrl` + `Right Arrow`: Move selected notes right
-- `Ctrl` + `Left Arrow`, `Right Arrow` (in mania edit mode): Move selected objects left or right one column
-- `Ctrl` + `Up Arrow`: Move selected notes up
-- `Ctrl` + `Down Arrow`: Move selected notes down
-- `Ctrl` + `Up Arrow`, `Down Arrow` (in mania edit mode): Move selected objects up or down one tick in time
+- `Q`: New Combo 켜기/끄기
+- `Ctrl` + `,`: 반시계 방향으로 90도 회전
+- `Ctrl` + `.`: 시계 방향으로 90도 회전
+- `Ctrl` + `H`: 가로로 뒤집기
+- `Ctrl` + `J`: 세로로 뒤집기
+- `Ctrl` + `G`: 선택 반전
+- `Ctrl` + `Shift` + `R`: 선택한 노트의 회전 조절 (새 창으로 열림)
+- `Ctrl` + `Shift` + `S`: 선택한 노트의 거리 조절 (새 창으로 열림)
+- `Ctrl` + `Shift` + `D`: 다각형 모양으로 배치된 노트 만들기 (새 창으로 열림)
+- `Ctrl` + `Shift` + `F`: 슬라이더를 스트림으로 변환 (새 창으로 열림)
+- `Ctrl` + `Left Arrow`: 선택한 노트를 왼쪽으로 이동
+- `Ctrl` + `Right Arrow`: 선택한 노트를 오른쪽으로 이동
+- `Ctrl` + `Left Arrow`, `Right Arrow` (osu!mania 전용): 선택한 노트를 column 단위로 좌우로 이동
+- `Ctrl` + `Up Arrow`: 선택한 노트를 위쪽으로 이동
+- `Ctrl` + `Down Arrow`: 선택한 노트를 아래쪽으로 이동
+- `Ctrl` + `Up Arrow`, `Down Arrow` (osu!mania 전용): 선택한 노트를 tick 단위로 상하로 이동
 
 #### Hitsounding
 
-- `W`: Add Whistle addition to selected object(s)
-- `E`: Add Finish addition to selected object(s)
-- `R`: Add Clap addition to selected object(s)
-- `Shift` + `Q`, `W`, `E`, `R`: Change sampleset for the selected object to Auto, Normal, Soft, or Drum respectively
-- `Ctrl` + `Q`, `W`, `E`, `R`: Change addition set for the selected object to Auto, Normal, Soft, or Drum respectively
-- `Ctrl` + `Shift` + `I`: Opens sample import window.
+- `W`: 선택한 오브젝트에 Whistle 추가
+- `E`: 선택한 오브젝트에 Finish 추가
+- `R`: 선택한 오브젝트에 Clap 추가
+- `Shift` + `Q`, `W`, `E`, `R`: 선택한 오브젝트의 Sampleset 변경 (Auto, Normal, Soft, Drum)
+- `Ctrl` + `Q`, `W`, `E`, `R`: 선택한 오브젝트의 Additions 변경 (Auto, Normal, Soft, Drum)
+- `Ctrl` + `Shift` + `I`: 샘플 가져오기 창 열기
 
 #### Timeline
 
