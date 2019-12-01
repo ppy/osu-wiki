@@ -8,7 +8,6 @@ tags:
 
 # Sitemap
 
--   [About](/wiki/About)
 -   [Accuracy](/wiki/Accuracy)
 -   [Article Styling Criteria](/wiki/Article_Styling_Criteria)
 -   [BanchoBot](/wiki/BanchoBot)
