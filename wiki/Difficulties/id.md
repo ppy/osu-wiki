@@ -63,7 +63,6 @@ Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definis
 
 ![Jangkauan star rating](img/SR-range.png)
 
-On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
 Di situs web, beatmap secara otomatis diberikan ikon kesulitan berdasarkan rentang *star rating* ini:
 
 <!-- markdownlint-disable MD045 -->
