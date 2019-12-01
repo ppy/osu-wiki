@@ -84,6 +84,20 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
   - `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
   - `LightingNWidth` and `LightingLWidth`
 
+### 2.6
+
+**Allow per-type skinning of arrows**
+
+- Adds `arrow-generic`, `arrow-warning` and `arrow-pause`.
+- Removes `play-warningarrow`.
+
+### 2.7
+
+**osu!mania specific combobursts**
+
+- Adds `comboburst-mania`
+  - Displays on the right side of the stage.
+
 ### latest
 
 **Always the newest version**
