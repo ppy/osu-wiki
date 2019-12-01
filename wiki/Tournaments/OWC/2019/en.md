@@ -104,45 +104,31 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match Schedule: Semifinals
 
-### Saturday, 30 November 2019
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Poland | ![][flag_PL] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ² |
-| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **10:30 UTC** | 19:30 UTC+09 | 19:30 UTC+09 | ² |
-| Hong Kong | ![][flag_HK] | ![][flag_AT] | Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 | ² |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | **13:30 UTC** | 20:30 UTC+07 | 21:30 UTC+08 | ² |
-| China | ![][flag_CN] | ![][flag_SE] | Sweden | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ² |
-| Netherlands | ![][flag_NL] | ![][flag_IT] | Italy | **16:30 UTC** | 17:30 UTC+01 | 17:30 UTC+01 | ² |
-| France | ![][flag_FR] | ![][flag_CL] | Chile | **19:30 UTC** | 20:30 UTC+01 | 16:30 UTC-03 | ² |
-| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | **21:00 UTC** | 18:00 UTC-03 | 22:00 UTC+01 | ² |
-
-### Sunday, 01 December 2019
+### Saturday, 07 December 2019
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
-| Japan | ![][flag_JP] | ![][flag_CL] | Chile | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 | ³ |
-| United States | ![][flag_US] | ![][flag_AU] | Australia | **03:30 UTC** | 21:30 (Sat.) UTC-06 | 14:30 UTC+11 | ¹ |
-| China | ![][flag_CN] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 17:00 UTC+08 | 22:00 UTC+13 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00 UTC** | 09:00 UTC-03 | 20:00 UTC+08 | ³ |
-| Norway | ![][flag_NO] | ![][flag_ID] | Indonesia | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 | ³ |
-| Norway | ![][flag_NO] | ![][flag_SG] | Singapore | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | **13:00 UTC** | 14:00 UTC+01 | 14:00 UTC+01 | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
-| Netherlands | ![][flag_NL] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
-| Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ³ |
-| Italy | ![][flag_IT] | ![][flag_AT] | Austria | **13:30 UTC** | 14:30 UTC+01 | 14:30 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **13:30 UTC** | 10:30 UTC-03 | 20:30 UTC+07 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_TW] | Taiwan | **14:00 UTC** | 14:00 UTC | 22:00 UTC+08 | ¹ |
-| China | ![][flag_CN] | ![][flag_PL] | Poland | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 | ³ |
-| Romania | ![][flag_RO] | ![][flag_DE] | Germany | **16:30 UTC** | 18:30 UTC+02 | 17:30 UTC+01 | ¹ |
-| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ¹ |
+| Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 22:00 UTC+11 | 19:00 UTC+08 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **12:30 UTC** | 20:30 UTC+08 | 21:30 UTC+09 | ² |
+| Romania | ![][flag_RO] | ![][flag_BR] | Brazil | **16:30 UTC** | 18:30 UTC+02 | 13:30 UTC-03 | ² |
+| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **19:30 UTC** | 14:30 UTC-05 | 20:30 UTC+01 | ² |
+
+### Sunday, 08 December 2019
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00 UTC** | 02:00 UTC-05 | 14:00 UTC+11 | ³ |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **03:00 UTC** | 02:00 UTC-05 | 11:00 UTC+08 | ³ |
+| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ³ |
+| Poland | ![][flag_PL] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 | ³ |
+| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
+| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
+| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **15:30 UTC** | 15:30 UTC | 16:30 UTC+01 | ¹ |
 
 ¹ Winner bracket encounter
  
@@ -151,6 +137,35 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+   - [Roselia - LOUDER (SkyFlame) \[EVEN LOUDER\]](https://osu.ppy.sh/beatmapsets/1040095#osu/2173926)
+   - [Festa - Lemuria (QuiescentRabbit) \[Isolation Singularity\]](https://osu.ppy.sh/beatmapsets/835474#osu/1749822)
+   - [lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)
+   - [Sumireko Hanabusa (CV: Miho Arakawa) - Inochi no Karakuri (Atalanta) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+   - [S.S.H. - The Decisive Battle with the Fugitives (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/145215#osu/360345)
+   - [Chon - Sleepy Tea (piroshki) \[Elogium\]](https://osu.ppy.sh/beatmapsets/959788#osu/2009509)
+- Hidden
+   - [Shounen Radio - neu (Realazy) \[celerih's Expert\]](https://osu.ppy.sh/beatmapsets/843008#osu/1763937)
+   - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
+   - [umu. - humanly (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1045518#osu/2185651)
+- HardRock
+   - [Sokoninaru - Tenohira de Odoru (Snepif) \[Extreme\]](https://osu.ppy.sh/beatmapsets/773686#osu/1641323)
+   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
+   - [HyuN - Grin (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/947770#osu/1982581)
+- DoubleTime
+   - [yurika - THE EVENING STAR (y u z u k i) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
+   - [Yumeji Ruri - The answer BLOOD \~Senketsu no Michishirube\~ (Short Ver.) (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/52586#osu/160712)
+   - [Hatsunetsumiko's - Two Fates (happy30) \[Destiny\]](https://osu.ppy.sh/beatmapsets/301400#osu/675854)
+   - [Masayoshi Minoshima - Bad Apple!! feat.nomico (Nhato Remix) (Akareh) \[Limbo\]](https://osu.ppy.sh/beatmapsets/616378#osu/1299942)
+- FreeMod
+   - [Tamaonsen - COZMIC DRIVE feat.Youko (caren_sk) \[CRN MORE DRIVE\]](https://osu.ppy.sh/beatmapsets/78859#osu/220330)
+   - [RYO - Shuffle Heaven (Nemis) \[eXtra\]](https://osu.ppy.sh/beatmapsets/85802#osu/235470)
+   - [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#osu/1836851)
+- Tiebreaker
+   - [Camellia - epimerization (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/752677#osu/1584614)
 
 ### Quarterfinals
 
@@ -249,6 +264,30 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 ---
 
 ## Match Results
+
+### Quarterginals
+
+| Saturday, 2019-11-30 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Poland** ![][flag_PL] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56626592) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56627888) |
+| **Hong Kong** ![][flag_HK] | **6** | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/56629467) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/56631668) |
+| **China** ![][flag_CN] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/56634054) |
+| Netherlands ![][flag_NL] | 1 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/56636595) |
+| **France** ![][flag_FR] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56642089) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56644815) |
+
+| Sunday, 2019-12-01 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/56652543) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56660231) |
+| **Brazil** ![][flag_BR] | **6** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56662222) |
+| **Italy** ![][flag_IT] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56662230) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/56662918) |
+| China ![][flag_CN] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/56664503) |
+| **Romania** ![][flag_RO] | 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/56666462) |
+| **Canada** ![][flag_CA] | 2 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/56668684) |
 
 ### Round of 16
 
