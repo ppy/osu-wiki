@@ -95,7 +95,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 
 **osu!mania specific combobursts**
 
-- Adds `comboburst-mania`
+- Adds `comboburst-mania`.
   - Displays on the right side of the stage.
 
 ### latest
