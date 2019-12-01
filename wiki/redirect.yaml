@@ -1536,3 +1536,6 @@
 
 # Grouped osu! Riverside LAN tournaments
 "tournaments/male": "Tournaments/osu!_Riverside/MALE"
+
+# Removed About because Main Page does it better
+"about": "Main_Page"
