@@ -148,7 +148,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
    - [S.S.H. - The Decisive Battle with the Fugitives (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/145215#osu/360345)
    - [Chon - Sleepy Tea (piroshki) \[Elogium\]](https://osu.ppy.sh/beatmapsets/959788#osu/2009509)
 - Hidden
-   - [Shounen Radio - neu (Realazy) \[celerih's Expert\]](https://osu.ppy.sh/beatmapsets/843008#osu/1763937)
+   - [positive MAD-crew - Lapistoria no Yakusoku (Rigid Blue Remains) (Shirasaka Koume) \[Ex\]](https://osu.ppy.sh/beatmapsets/549158#osu/1162919)
    - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
    - [umu. - humanly (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1045518#osu/2185651)
 - HardRock
