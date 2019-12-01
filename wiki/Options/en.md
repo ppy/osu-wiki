@@ -89,7 +89,7 @@ This section is about the appearance of your game client and parts of the interf
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `120fps` |
+| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `Optimal` |
 | `Show FPS counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
 | `Compatibility mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
 | `Reduce dropped frames` | Adjust graphical settings to decrease dropped/stuttered frames. | Checkbox | `Disabled` |
@@ -106,8 +106,8 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | Name | Description |
 | --- | --- |
 | `VSync` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
-| `120fps` | Limits the game client to 120fps. |
-| `240fps` | Limits the game client to 240fps. |
+| `Power Saving` | Limits the game client to 2x refresh rate. |
+| `Optimal` | Limits the game client between 480~960fps based on 8x your monitor refresh rate. |
 | `Unlimited (gameplay)` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 
 - `VSync` explanation: In layman terms, using VSync will force the game wait for the entire frame to load before displaying it.
