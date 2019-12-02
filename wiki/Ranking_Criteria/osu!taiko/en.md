@@ -76,9 +76,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 ## Difficulty-specific
 
-**Rhythm related guidelines and rules apply to approximately 180 BPM maps.** If your song is drastically faster or slower, some variables might be different. Apply reasonable judgment in these cases.
-
-If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu!taiko difficulty_. Rhythm related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
 
 <!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-t.png) Kantan
