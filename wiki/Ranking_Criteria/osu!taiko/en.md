@@ -76,7 +76,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu!taiko difficulty_. Rhythm related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do _not apply to **every** osu!taiko difficulty_. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
 
 <!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-t.png) Kantan
