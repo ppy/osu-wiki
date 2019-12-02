@@ -135,6 +135,36 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Regional phase
 
+#### Finals
+
+**[Download the map pack here! (90 MB)](https://mega.nz/#!UVB3TIaA!A7ylCTqbpd7OIPvYdVjVDIf6bxUEZgYwCObp15TKA44)**
+
+- NoMod
+  - [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (incandescence) \[Electrification\]](https://osu.ppy.sh/beatmapsets/896623#taiko/1873220)
+  - [DAOKO x Kenshi Yonezu - Uchiage Hanabi(hanacco Remix) (rezi888) \[Collab Taiko\]](https://osu.ppy.sh/beatmapsets/716241#taiko/1513293)
+  - [Camellia feat. Nanahira - Honey Trap (tasuke912) \[Honey Oni\]](https://osu.ppy.sh/beatmapsets/980741#taiko/2052498)
+  - [Kagura - Mare Nectaris (Ulqui) \[K.Rekii & Ulqui's Sanctum\]](https://osu.ppy.sh/beatmapsets/1029772#taiko/2153294)
+  - [The Quick Brown Fox - Shut Down Everything (Myckoll) \[MyckOni (2019 ver.)\]](https://osu.ppy.sh/beatmapsets/510341#taiko/2016764)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (HiroK) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/987083#taiko/2064825)
+- Hidden
+  - [Feryquitous - Ordirehv (Skull Kid) \[Diversity\]](https://osu.ppy.sh/beatmapsets/952980#taiko/1989808)
+  - [sasakure.UK - Brionac of Steel-flash feat. Perio (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/827210#taiko/1733423)
+  - [98shiki Senkai Kikanju - Hutago Gattai Break (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/887725#taiko/1855660)
+- HardRock
+  - [LeaF - Evanescent (Vulkin) \[Aspirant Oni\]](https://osu.ppy.sh/beatmapsets/802984#taiko/1685529)
+  - [nyaso - Lonely Goddess (yea) \[Not Lonely\]](https://osu.ppy.sh/beatmapsets/730567#taiko/1541828)
+  - [The Flashbulb - Amen Iraq (Volta) \[Fatal Oni\]](https://osu.ppy.sh/beatmapsets/966277#taiko/2022565)
+- DoubleTime
+  - [Eluveitie - King (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635088#taiko/1347668)
+  - [LukHash - Ghosts (Nepuri) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/918903#taiko/1918740)
+  - [C-Show - Night City Runway (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/945707#taiko/1974778)
+- FreeMod
+  - [Umeboshi Chazuke - Panic! Pop'n! Picnic! (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/552067#taiko/1169170)
+  - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
+  - [Feint - Tower Of Heaven (You Are Slaves) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/648730#taiko/1374246)
+- Tiebreaker
+  - **[Helblinde - The Solace of Oblivion (\_Rise) \[20032.5\]](https://osu.ppy.sh/beatmapsets/1046952#taiko/2188565)**
+
 #### Semifinals
 
 **[Download the map pack here! (85 MB)](https://mega.nz/#!o8UwAYYJ!fecsmMy2X7cTBfF73mcBImhc_vzAp_z1GuZndPEO6Z4)**
