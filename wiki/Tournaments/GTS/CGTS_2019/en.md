@@ -297,42 +297,42 @@ Friday, 29 November 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Alepat ![][flag_CL] | 2 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/mp/56611326) |
+| Alepat ![][flag_CL] | 2 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/56611326) |
 
 Saturday, 30 November 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **0** | -1 | ![][flag_US] cheese salad | *win by default* |
-| **vladyushko** ![][flag_CA] | **7** | 2 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/mp/56620976) |
-| Faputa ![][flag_HK] | 0 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/mp/56624373) |
-| **uone** ![][flag_JP] | **7** | 0 | ![][flag_TR] frukoyurdakul | [#1](https://osu.ppy.sh/mp/56628357) |
-| **Blerargh** ![][flag_MY] | **7** | 1 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/mp/56629608) |
-| Element118 ![][flag_SG] | 5 | **7** | ![][flag_PH] **Pochacco** | [#1](https://osu.ppy.sh/mp/56631021) |
-| **growATMfarmz** ![][flag_MY] | **7** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/mp/56632902) |
-| **goheegy** ![][flag_GB] | **7** | 2 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/mp/56634340) |
-| BananaW ![][flag_FR] | 6 | **7** | ![][flag_IT] **coed** | [#1](https://osu.ppy.sh/mp/56637225) |
-| Ikkun ![][flag_IT] | 5 | **7** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/mp/56637219) |
-| **Laby** ![][flag_KR] | **7** | 3 | ![][flag_JP] butter0414 | [#1](https://osu.ppy.sh/mp/56639397) |
-| bernard351 ![][flag_PL] | 1 | **7** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/mp/56641177) |
+| **vladyushko** ![][flag_CA] | **7** | 2 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/56620976) |
+| Faputa ![][flag_HK] | 0 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/community/matches/56624373) |
+| **uone** ![][flag_JP] | **7** | 0 | ![][flag_TR] frukoyurdakul | [#1](https://osu.ppy.sh/community/matches/56628357) |
+| **Blerargh** ![][flag_MY] | **7** | 1 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/56629608) |
+| Element118 ![][flag_SG] | 5 | **7** | ![][flag_PH] **Pochacco** | [#1](https://osu.ppy.sh/community/matches/56631021) |
+| **growATMfarmz** ![][flag_MY] | **7** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/56632902) |
+| **goheegy** ![][flag_GB] | **7** | 2 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/56634340) |
+| BananaW ![][flag_FR] | 6 | **7** | ![][flag_IT] **coed** | [#1](https://osu.ppy.sh/community/matches/56637225) |
+| Ikkun ![][flag_IT] | 5 | **7** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/56637219) |
+| **Laby** ![][flag_KR] | **7** | 3 | ![][flag_JP] butter0414 | [#1](https://osu.ppy.sh/community/matches/56639397) |
+| bernard351 ![][flag_PL] | 1 | **7** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/community/matches/56641177) |
 | ZaveryK ![][flag_MX] | -1 | **0** | ![][flag_US] **CaptainEChan** | *win by default* |
 
 Sunday, 1 December 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Element118** ![][flag_SG] | **7** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/mp/56650283) |
-| R J ![][flag_US] | 2 | **7** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/mp/56650277) |
-| **Whulf** ![][flag_US] | **7** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/mp/56651297) |
-| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/mp/56655630)
-| **iceOC** ![][flag_JP] | **7** | 0 | ![][flag_KR] Laby | [#1](https://osu.ppy.sh/mp/56657233) |
-| frukoyurdakul ![][flag_TR] | 3 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/mp/56659054) |
-| **Sparxe** ![][flag_NZ] | **7** | 5 | ![][flag_MY] growATMfarmz | [#1](https://osu.ppy.sh/mp/56660125) |
-| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/mp/56661545) |
-| D3kuu ![][flag_IT] | 3 | **7** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/mp/56664690) |
-| **HiroK** ![][flag_BR] | **7** | 1 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/mp/56667388) |
-| **Alepat** ![][flag_CL] | **7** | 1 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/mp/56672171) |
-| **cheese salad** ![][flag_US] | **7** | 0 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/mp/56675826) |
+| **Element118** ![][flag_SG] | **7** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/56650283) |
+| R J ![][flag_US] | 2 | **7** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/56650277) |
+| **Whulf** ![][flag_US] | **7** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/56651297) |
+| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56655630)
+| **iceOC** ![][flag_JP] | **7** | 0 | ![][flag_KR] Laby | [#1](https://osu.ppy.sh/community/matches/56657233) |
+| frukoyurdakul ![][flag_TR] | 3 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/community/matches/56659054) |
+| **Sparxe** ![][flag_NZ] | **7** | 5 | ![][flag_MY] growATMfarmz | [#1](https://osu.ppy.sh/community/matches/56660125) |
+| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/community/matches/56661545) |
+| D3kuu ![][flag_IT] | 3 | **7** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/community/matches/56664690) |
+| **HiroK** ![][flag_BR] | **7** | 1 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/community/matches/56667388) |
+| **Alepat** ![][flag_CL] | **7** | 1 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/56672171) |
+| **cheese salad** ![][flag_US] | **7** | 0 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/community/matches/56675826) |
 
 #### Quarterfinals
 
