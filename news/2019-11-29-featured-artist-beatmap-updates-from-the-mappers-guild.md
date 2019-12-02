@@ -182,6 +182,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [SOOOO - a decayed garden sinks into the isolated sea](https://osu.ppy.sh/beatmapsets/953845) hosted by [Minorsonek](https://osu.ppy.sh/users/5377178)
 - [SOOOO - Happppy song](https://osu.ppy.sh/beatmapsets/1016769) by [fieryrage](https://osu.ppy.sh/users/3533958)
 - [SOOOO - iiillluuuvvvUUU](https://osu.ppy.sh/beatmapsets/959688) hosted by [Cosmolade](https://osu.ppy.sh/users/2172778)
+- [Thaehan - Ohayou !](https://osu.ppy.sh/beatmapsets/725806) hosted by [Mafumafu](https://osu.ppy.sh/users/3076909)
 - [The Flashbulb - Passage D](https://osu.ppy.sh/beatmapsets/400300) hosted by [z1085684963](https://osu.ppy.sh/users/1816779) \*
 - [UNDEAD CORPORATION - Datura](https://osu.ppy.sh/beatmapsets/1020613) hosted by [Seto Kousuke](https://osu.ppy.sh/users/2857314)
 - [UNDEAD CORPORATION - Gleaming](https://osu.ppy.sh/beatmapsets/1023469) hosted by [Trynna](https://osu.ppy.sh/users/2652951)
@@ -200,6 +201,7 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Camellia - [ns]](https://osu.ppy.sh/beatmapsets/1045786) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/1032778) by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix)](https://osu.ppy.sh/beatmapsets/945993) by [Nifty](https://osu.ppy.sh/users/4956097)
+- [Camellia - In Black & White](https://osu.ppy.sh/beatmapsets/1040093) by [rubies87](https://osu.ppy.sh/users/4949934) \*
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/1015345) by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
 - [Camellia - Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1025635) by [Axer](https://osu.ppy.sh/users/7299864) \*
 - [Camellia feat. Nanahira - Tsukitourou](https://osu.ppy.sh/beatmapsets/1036751) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
@@ -240,7 +242,6 @@ Non-guild maps will be marked with an asterisk `*`.
 - [Camellia - Clouds in the Blue](https://osu.ppy.sh/beatmapsets/995539) by [Asherz007](https://osu.ppy.sh/users/9014047)
 - [Camellia - crystallized](https://osu.ppy.sh/beatmapsets/890013) by [-mint-](https://osu.ppy.sh/users/8976576) \*
 - [Camellia - Embracing intelligences](https://osu.ppy.sh/beatmapsets/1055424) by [Leniane](https://osu.ppy.sh/users/7138602)
-- [Camellia - In Black & White](https://osu.ppy.sh/beatmapsets/1040093) by [rubies87](https://osu.ppy.sh/users/4949934) \*
 - [IAHN - Pink Love (feat. Lency)](https://osu.ppy.sh/beatmapsets/548030) by [Feerum](https://osu.ppy.sh/users/4815717)
 - [S3RL - Candy (feat. Sara)](https://osu.ppy.sh/beatmapsets/953777) hosted by [\_Asha](https://osu.ppy.sh/users/11103764) \*
 
