@@ -10,13 +10,11 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -80,9 +78,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-t.png) Kantan
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -102,9 +98,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-t.png) Futsuu
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -134,9 +128,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-t.png) Muzukashii
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -159,9 +151,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-t.png) Oni
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -183,9 +173,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or more
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 

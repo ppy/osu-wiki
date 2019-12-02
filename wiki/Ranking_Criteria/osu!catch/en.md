@@ -10,13 +10,11 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad
 - ![](/wiki/shared/diff/hard-c.png) Platter
 - ![](/wiki/shared/diff/insane-c.png) Rain
 - ![](/wiki/shared/diff/expert-c.png) Overdose
-<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -76,9 +74,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-c.png) Cup
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -96,9 +92,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be 4 or less
 - Circle Size should be between 2-3
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-c.png) Salad
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -122,9 +116,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 4-5
 - Circle Size should be between 2.5-3.5
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-c.png) Platter
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -153,9 +145,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 5-6
 - Circle Size should be between 3-4
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-c.png) Rain
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -177,9 +167,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - HP Drain Rate should be between 6-7
 - Circle Size should be between 3-5
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-c.png) Overdose
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
