@@ -95,7 +95,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 ### 게임 모드
 
-*메인 페이지: [Game Modifiers](/wiki/Game_Modifiers)*
+*Main Page: [Game Modifiers](/wiki/Game_Modifiers)*
 
 **Notes:**
 
@@ -149,7 +149,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 ## 비트맵 에디터
 
-*메인 페이지: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Main Page: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
 ### 일반
 
