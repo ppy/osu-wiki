@@ -43,7 +43,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/osu!/Scaling_BPM).
+Overall rules and guidelines apply to every kind of *osu!* difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### General
 
@@ -85,7 +85,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu! difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu! difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/Scaling_BPM).
 
 <!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-s.png) Easy

@@ -50,11 +50,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 Refer to the [osu!mania Mapping Guide](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
 
-## General
+## Overall
+
+Overall rules and guidelines apply to every kind of *osu!mania* difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### Rules
-
-All rules are exactly that: *rules*. They are *not* guidelines and may *not* be broken under *any* circumstances.
 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
@@ -65,8 +65,6 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 - **If multiple key modes are present in a single beatmap set, the key mode must be denoted in the difficulty name.**
 
 ### Guidelines
-
-Guidelines may be broken under exceptional circumstances. These must be justified by a reasonable explanation as of why the guideline has been broken and why not breaking it will interfere with the overall quality of the creation.
 
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
@@ -83,7 +81,7 @@ Guidelines may be broken under exceptional circumstances. These must be justifie
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [this article](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 
