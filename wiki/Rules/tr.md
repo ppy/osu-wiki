@@ -2,7 +2,7 @@
 
 Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalması için büyük önem taşımaktadır.
 
-## Community Rules
+## Topluluk Kuralları
 
 1.  **Her kullanıcı yalnızca *TEK* hesaba sahip olabilir.** Kayıt esnasında açtığınız *ilk* hesabınız, açtığınız tarihten ebediyete dek, sizin tek hesabınızdır. O hesap SİZSİNİZ. Kardeşiniz, anneniz, babanız, herhangi bir arkadaşınız değil – SİZSİNİZ. Hesabınızı başka birisiyle asla paylaşmayın. Hesabınıza erişimi kaybetmeniz halinde yeni bir hesap açmanıza izin verilmeyecektir, hesabınızı güvende tutun.
 2. **Adil oynayın.** Size herhangi bir avantaj sağlayan üçüncü parti yazılımların kullanımı yasaktır. Makro, aim assist, oyun yavaşlatıcı gibi programlar buna dahil. Bir program sizin oynarken yapmanız gereken bir şeyi sizin için yapıyorsa o programı kullanmanız yasak.
@@ -10,6 +10,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 4.  **Kıroluk yapmayın.** Bu kuralı kırıp kırmadığınızdan emin değilseniz, muhtemelen kırıyorsunuz.
 5.  **Topluluğumuz her yaştan insanları bulunduruyor.** Yani, uyuşturucu kullanmak ve cinsellik gibi 18+/müstehcen konuların konuşulması yasak. Gerektiği yerde istisnalar olabilmesine rağmen siz konuşmalarınızı olabildiğince temiz tutun.
 6.  **Kuralların yeterli olmadığı yerde akıl mantık devreye girer.** Oyun yetkilileri, gerek gördükleri yerde kendi hükümlerini uygulayabilirler.
+
 ## Oyun-İçi Sohbet Kuralları
 
 1.  **Düşünceli davranın, kanaldaki diğer kullanıcılara saygılı olun ve spam'dan kaçının.** Tek kişinin sohbetin yarısını kaplaması hoş bir durum değil, bu yüzden spam yapmayın. Diğer insanların da sohbeti kullandığını unutmayın!
