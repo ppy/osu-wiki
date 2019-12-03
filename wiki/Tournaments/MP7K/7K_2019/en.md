@@ -1,15 +1,16 @@
-﻿---
-tags:
-- MP7K
-- MP7K_2019
 ---
+tags:
+  - MP7K
+  - MP7K 2019
+---
+
 # Mistrzostwa Polski w 7K Pierwsza Edycja
 
 ![MP7K Logo](img/logo.png)
 
 **Mistrzostwa Polski w 7K Pierwsza Edycja (Polish 7K Championship)** (***MP7K***) is a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -52,7 +53,7 @@ tags:
 
 ## Participants
 
-### Qualified Participants
+### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -75,18 +76,18 @@ tags:
 
 ---
 
-## Match Schedule: Quarterfinals
+## Match schedule: Quarterfinals
 
 ### Friday, 6 December 2019
 
-| Player 1 |  |  | Player 2 | Match Time | Local Time |  |
-| --: | --: | :-- | :-- | :-: | :-: |
+| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
 | -Maus- | ![][flag_PL] | ![][flag_PL] | Kamikaze | **20:00 UTC** | 21:00 UTC+1 | ¹ |
 
 ### Saturday, 7 December 2019
 
-| Player 1 |  |  | Player 2 | Match Time | Local Time |  |
-| --: | --: | :-- | :-- | :-: | :-: |
+| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
 | -Karen-chan- | ![][flag_PL] | ![][flag_PL] | Alicejoy | **14:00 UTC** | 15:00 UTC+1 | ² |
 | EWGF | ![][flag_PL] | ![][flag_PL] | TheFalek | **15:30 UTC** | 16:30 UTC+1 | ² |
 | Jakub Janda | ![][flag_PL] | ![][flag_PL] | capsafangirl | **16:15 UTC** | 17:15 UTC+1 | ² |
@@ -94,8 +95,8 @@ tags:
 
 ### Sunday, 8 December 2019
 
-| Player 1 |  |  | Player 2 | Match Time | Local Time |  |
-| --: | --: | :-- | :-- | :-: | :-: |
+| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
 | PanzerRaymanPL | ![][flag_PL] | ![][flag_PL] | Yamakazi | **11:00 UTC** | 12:00 UTC+1 | ² |
 | EWGF | ![][flag_PL] | ![][flag_PL] | -Karen-chan- | **11:45 UTC** | 12:45 UTC+1 | ³ |
 | EWGF | ![][flag_PL] | ![][flag_PL] | Alicejoy | **11:45 UTC** | 12:45 UTC+1 | ³ |
@@ -120,7 +121,7 @@ tags:
   - [MiddleIsland - Achromat (iJinJin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
   - [nora2r - New World (Kamikaze) \[Blocko's Another (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073064#mania/2245729)
   - [Feryquitous - Vend (SitekX) \[SitekX's BMS Lv.04\]](https://osu.ppy.sh/beatmapsets/939954#mania/2246206)
-  - [aaaa - Machi (Kim\_GodSSI) \[Piano]\](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
+  - [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
   - [Shinigiwa Satellite - Sougen St. Elmo (Devil Sessions ver.) (Flexo123) \[MX\]](https://osu.ppy.sh/beatmapsets/820832#mania/1720555)
   - [Brandy - The Festival of Ghost (Benzopirene) \[The Festival of Miss\]](https://osu.ppy.sh/beatmapsets/954412#mania/2245722)
   - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[7K Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
@@ -165,7 +166,7 @@ tags:
 - Tiebreaker
   - **[GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/436734#mania/940615)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [SHK - Snow Country (capsafangirl) \[u-ro-sang-seol\]](https://osu.ppy.sh/beatmapsets/1039800#mania/2173442)
@@ -190,7 +191,7 @@ tags:
 
 ---
 
-## Match Results
+## Match results
 
 ### Quarterfinals
 
@@ -230,7 +231,7 @@ tags:
 | **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
 | **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
-### Group Stage
+### Group stage
 
 | Thursday, 2019-11-14 | | | | |
 | --: | :-: | :-: | :-- | :-- |
@@ -276,34 +277,34 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 ## Ruleset
 
-### Tournament Organisation
+### Tournament organisation
 
-#### General Eligibility
+#### General eligibility
 
 - Players who currently have (or had at some point since Account Creation) the Polish Flag on their profile or players who do not have the Polish Flag on their profiles but can present a proof of their fluency in Polish language and/or their Polish citizenship to the staff are the only ones allowed to join the tournament.
-- Staff Members who are not part of the Mappool Selectors are permitted to join the tournament. 
+- Staff Members who are not part of the Mappool Selectors are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
-  - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song 
-  - **Gropup Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song 
-  - **Round of 16 and Quarterfinals**: 12 song mappool, best of 9 (first to 5), one tiebreaker song 
-  - **Semifinals and Finals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song 
+  - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
+  - **Gropup Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song
+  - **Round of 16 and Quarterfinals**: 12 song mappool, best of 9 (first to 5), one tiebreaker song
+  - **Semifinals and Finals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Grand Finals**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
 - All matches held are using a 1 player versus 1 player rule.
-- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Mirror, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented. 
+- All rounds are to use the **restrictive FreeMod** rules (only NoMod, Mirror, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
-#### Qualification Process
+#### Qualification process
 
-- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round is equal to 24. In case of a smaller number of participants, only 16 people will advance to the next round. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage. 
-- The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament. 
-- All four notecharts will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide zero opportunity for advantage through familiarity. 
-- All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score. 
+- All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round is equal to 24. In case of a smaller number of participants, only 16 people will advance to the next round. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
+- The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
+- All four notecharts will be created by the mappool selectors and will be unreleased prior to the tournament qualification stage, to provide zero opportunity for advantage through familiarity.
+- All players will have two chances at each qualifier notechart, in which the highest of the two runs on each qualifier notechart will be used to calculate your final score.
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match.
-- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average rank on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage. 
+- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average rank on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
-#### Group Stage
+#### Group stage
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Unseeded". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
   - **1st-8th seeds**: Top Seed
@@ -317,16 +318,16 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - Higher qualification seed.
 - The worst-performing player of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(17 - player's GS seed)`.
 - In a winner's bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a loser's bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
 - Players who are in the winner's bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
-- Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament. 
+- Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -348,29 +349,29 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - MP7K staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 7K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
 - Maps that have a beatmap listing but cannot be downloaded are not allowed for the purpose of warming up.
-- Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387). 
+- Players are advised to avoid using beatmap packs [similar to this](https://osu.ppy.sh/beatmapsets/435387).
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within Group Stage of the tournament.
 
-#### Bans, Protected Picks, Rolls and Song Selection
+#### Bans, protected picks, rolls and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used. Protected maps and bans are hidden.
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.
 - Players are to ban one (1) map within the map pool which they are playing for the given round. They must inform the match referee in a private message of which map they choose to ban. If the player does not inform the match referee of their desired ban choice in about 60 seconds, the player will lose an opportunity to choose a ban.
 - It is mandatory for the match referee to inform players in the lobby which maps are protected and banned.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken. 
+- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
 - After the protected maps, bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
