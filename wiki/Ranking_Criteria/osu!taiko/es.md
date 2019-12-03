@@ -79,7 +79,7 @@ Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas exce
 
 ## Especificaciónes por dificultad
 
-**Aquellas pautas y reglas que estén relacionadas al pulso de la canción se aplican a canciones de 180BPM.** Si tu canción es drásticamente más lenta o rápida, algunas variables pueden ser diferentes. En estos casos, debes aplicar un juicio razonable.
+**Aquellas pautas y reglas que estén relacionadas al pulso de la canción se aplican a canciones de 180 BPM.** Si tu canción es drásticamente más lenta o rápida, algunas variables pueden ser diferentes. En estos casos, debes aplicar un juicio razonable.
 
 Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos por minuto, el Slider Velocity base, las reglas y las pautas mencionadas aquí deben ser ajustadas apropiadamente.
 
