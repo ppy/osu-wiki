@@ -76,7 +76,7 @@ tags:
 
 ---
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
 ### Friday, 6 December 2019
 
