@@ -41,7 +41,7 @@
 시작화면에서 좌측상단에 유저 패널을 누르면 유저 옵션이 나옵니다. 유저 옵션이 나왔을 때는 채팅창을 띄울 수 없습니다. 각 옵션의 번호는 단축키로 사용됩니다.
 
 1.  `View Profile`(프로필 보기): 웹 브라우저를 열어 로그인 된 계정의 프로필 페이지를 띄웁니다.
-2.  `Sign Out`(로그아웃): 로그아웃합니다. (로그아웃 한 다음, 로그인 하기 위하여 [설정 화면](/wiki/Options)이 나옵니다.)
+2.  `Sign Out`(로그아웃): 로그아웃합니다. (로그아웃 한 다음, [설정 화면](/wiki/Options)이 나옵니다.)
 3.  `Change Avatar`(아바타 변경): 웹 브라우저를 열어 아바타 설정 페이지를 띄웁니다.
 4.  `Close`(닫기) : 사용자 설정 화면을 닫습니다.
 
@@ -143,33 +143,30 @@
 
 ![](img/Soloplay5.jpg)
 
-선곡 화면에서 글자를 치면([채팅창](/wiki/Chat_Console)은 반드시 내려가 있어야 하며, 올라와있으면 입력한 글자가 채팅창으로 넘어감.) 
-이 곳에 타이핑한 문자가 나타납니다.
+*Note: 곡을 검색하기 위해선 채팅창 혹은 설정 화면을 열면 안되며, 만약 열려있다면, 입력한 글자가 채팅창이나, 옵션의 검색으로 넘어갑니다.*
 
-- **비트맵 리스트에서는 비트맵 정보 중 일치하는 것**(아티스트, 제목, 매퍼, 난이도명, 태그 등)**을 찾아 표시합니다.**
-- **컨트롤+백스페이스←** 를 이용해 타이핑된 검색어를 모두 지울 수 있습니다.
-- 검색어에 =, &lt;, &gt;, &lt;=, &gt;=, != (같지 않음), == (=와 같은 결과) 와 해당 변수의 값을 통해 결과를 필터링 할 수 있는 다양한 **검색 필터** 가 있습니다. (예시. "od&gt;8", "bpm&gt;150", "mode=mania").
+By default, any search will be matched against the beatmaps' artists, titles, creators, and tags.
 
-  필터는 또한 다른 검색어와 함께 사용할 수도 있습니다. (ex. "fox bpm&gt;200 ar=10", "bms status=r bpm&gt;200 length&gt;180")
+이러한 필터를 사용하는 것 외에도, 지원되는 필터 중 하나의 값(예를 들면, `ar=9`)과 결합하여 다른 메타데이터를 검색할 수 있습니다.
 
 검색 필터:
 
--   **artist** - 아티스트 이름
--   **creator** - 맵 제작자 이름
--   **ar** - 어프로치 서클 감소 속도
--   **cs** - 서클 크기
--   **od** - 전반적 난이도
--   **hp** - HP 감소비율
--   **key(s)** - 키 갯수 (osu!mania 전용 필터)
--   **star(s)** - 별 갯수
--   **bpm** - 분당 비트 수
--   **length** - 비트맵 길이
--   **drain** - 초당 체력 감소량
--   **mode** - 모드 - 필터값은 `osu`, `taiko`, `catchthebeat`, `mania` 으로 검색 가능합니다 (혹은 o/t/c/m 처럼 줄임말로도 사용 가능)
--   **status** - 랭크 상태 - 필터 값은 `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` 으로 검색 가능합니다 (혹은 r/a/p/n/u 처럼 줄임말로도 사용 가능)
--   **played** - 마지막 플레이로부터 일 단위로 필터링
--   **unplayed** - 플레이하지 않은 맵 - 필터값 없음 (플레이하지 않은 맵을 검색하려면 "unplayed="을, 플레이한 맵을 검색하려면 "unplayed!="을 입력하세요.)
--   **speed** - osu!mania 비트맵에 저장된 스크롤 속도 - 맵을 플레이하지 않았거나 [Remember osu!mania scroll speed per beatmap option](/wiki/Options#gameplay) 옵션이 꺼져있을 경우에는 항상 0으로 산정합니다..
+- `artist`: 아티스트 이름
+- `creator`: 맵 제작자 이름
+- `ar`: 어프로치 서클 감소 속도
+- `cs`: 서클 크기
+- `od`: 전반적 난이도
+- `hp`: HP 감소비율
+- `keys`: 키 갯수 (osu!mania 전용 필터)
+- `stars`: 별 갯수
+- `bpm`: 분당 비트 수
+- `length`: 비트맵 길이
+- `drain`: 초당 체력 감소량
+- `mode`: 모드 - 필터값은 `osu`, `taiko`, `catchthebeat`, `mania` 으로 검색 가능합니다 (혹은 `o`/`t`/`c`/`m` 처럼 줄임말로도 사용 가능)
+- `status`: 랭크 상태 - 필터 값은 `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved` 으로 검색 가능합니다 (혹은 `r`/`a`/`p`/`n`/`u` 처럼 줄임말로도 사용 가능)
+- `played`: 마지막 플레이로부터 일 단위로 필터링
+- `unplayed`: 플레이하지 않은 맵 - 필터값 없음 (플레이하지 않은 맵을 검색하려면 "unplayed="을, 플레이한 맵을 검색하려면 "unplayed!="을 입력하세요.)
+- `speed`: osu!mania 비트맵에 저장된 스크롤 속도 - 맵을 플레이하지 않았거나 [Remember osu!mania scroll speed per beatmap](/wiki/Options#gameplay) 옵션이 꺼져있을 경우에는 항상 0으로 산정합니다.
 
 검색 비교:
 
