@@ -126,7 +126,7 @@ tags:
   - [Brandy - The Festival of Ghost (Benzopirene) \[The Festival of Miss\]](https://osu.ppy.sh/beatmapsets/954412#mania/2245722)
   - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[7K Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
   - [Horie Yui - Presenter (PP_Aika) \[Lv.32\]](https://osu.ppy.sh/beatmapsets/542933#mania/1201193)
-  - [Grand Thaw - Aeventyr \[Lv.02 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073070#mania/2245738)
+  - [Grand Thaw - Aeventyr (\_underjoy) \[Lv.02 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073070#mania/2245738)
   - [The Queenstons - The Last Rave In The Depths Of Your Eyes (Cryolien) \[:eyes:\]](https://osu.ppy.sh/beatmapsets/797085#mania/1674043)
   - [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
 - Tiebreaker
