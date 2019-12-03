@@ -22,7 +22,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 ### Qualification
 
-- **Do not qualify beatmapsets whose song already has a Qualified beatmapset, unless no game modes of both sets overlap—this includes remixed versions**. For example an osu!taiko and osu! beatmapset of the same song can exist in the Qualified section, whilst an osu!taiko and osu!/osu!taiko hybrid set cannot. This ensures variety among Ranked beatmaps within their respective game modes.
+- **Only one beatmap of a song may be qualified per game mode at a time. This includes different length cuts and simple covers of a song, but excludes remixes, up to three different versions of which may be qualified per game mode at a time.** This ensures variety among Ranked beatmaps within their respective game modes.
 - **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
 - **Hybrid beatmapsets must be nominated by full nominators from two of its modes in order to be qualified**, as well as gain clear approval from any remaining modes' nominators in the modding discussion. This means only full members may nominate hybrid sets, and ensures that a full nominator takes responsibility for each mode (regardless of nominating or just giving approval in the discussion). In this scenario, nominators proficient in multiple modes can approve more than one mode.
