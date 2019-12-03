@@ -8,11 +8,11 @@ Like little snowflakes from a winter sky, **152** talented artists have given us
 
 ![](https://assets.ppy.sh/contests/82/header.jpg)
 
-In a trend that has yet to show any signs of slowing down, the artists in the osu! community continue to impress and horrify in equal measure with their outstanding displays of talent in the latest Winter-themed fan art contest.
+In a trend that has yet to show any signs of slowing down, the artists in the osu! community continue to impress and horrify in equal measure with their outstanding displays of talent in the latest winter-themed fanart contest.
 
 However, this now means that we are left with the aftermath: only **10** votes to cast for our favourites. We're trying a little less votes this time around to make each one count a lot more, just to up the stakes even more.
 
-Take a quick peek of what's in the running, all set to the tunes of [**nanobii**'s](https://osu.ppy.sh/beatmaps/artists/10) *Neverland*:
+Take a quick peek of what's in the running, all set to the tunes of **[nanobii](https://osu.ppy.sh/beatmaps/artists/10)**'s *Neverland*:
 
 <div align="center">
     <video width="90%" controls>
@@ -23,7 +23,6 @@ Take a quick peek of what's in the running, all set to the tunes of [**nanobii**
         </script>
     </video>
 </div>
-
 
 [What are you waiting for? Head on over and vote now!](https://osu.ppy.sh/community/contests/82)
 
