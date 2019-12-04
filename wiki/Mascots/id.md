@@ -14,11 +14,11 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergab
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).*
+*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172cm, dan beratnya 65kg. Konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
+Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172cm, dan beratnya 65kg. Desain versi terbaru dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Maria
 
