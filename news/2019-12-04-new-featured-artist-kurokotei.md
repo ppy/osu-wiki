@@ -10,7 +10,7 @@ date: 2019-12-04 10:00:00 +0000
 
 We're super proud to announce that **Kurokotei** is the latest name to join the ever-expanding Featured Artist roster, complete with a selection from her latest album, *Into the Void*. As an extra bonus, **Kurokotei** is also a long-time member of the osu! community, an established mapper and top-end osu!taiko player in her own right. There's something extra special about bringing people aboard from the community!
 
-The older among us might remember **Kuroktei**'s track titled *Galaxy Collapse*, made famous in osu! by her own [self-mapped osu!taiko set](https://osu.ppy.sh/beatmapsets/328117#taiko/727903) and later on with[the now Loved set](https://osu.ppy.sh/beatmapsets/396221#osu/862088). Both remain to this day, some of the hardest beatmaps ever made, and we all know just how much the osu! community loves its ridiculously difficult maps.
+The older among us might remember **Kuroktei**'s track titled *Galaxy Collapse*, made famous in osu! by her own [self-mapped osu!taiko set](https://osu.ppy.sh/beatmapsets/328117) and later on with [the now Loved osu!standard set](https://osu.ppy.sh/beatmapsets/396221). Both remain to this day some of the hardest beatmaps ever made, and we all know just how much the osu! community loves its ridiculously difficult maps.
 
 We're confident that some of **Kurokotei**'s latest work has even more of that glorious, glorious spark to kindle some extra passionate creations, and we're excited to see what people make with it all. Don't be intimidated by the history if you're new to mapping—**Kurokotei**'s work is more than suitable for anyone with enough spirit to tackle it, so be sure to give it a go.
 
