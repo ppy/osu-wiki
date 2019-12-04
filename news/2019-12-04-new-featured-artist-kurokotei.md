@@ -19,7 +19,7 @@ Here's a peek at some of what's available:
 ### Astar (Extended)
 
 <audio controls>
-    <source src="hhttps://assets.ppy.sh/artists/58/previews/1665.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/58/previews/1665.mp3" type="audio/mpeg">
 </audio>
 
 ### Into the Void
