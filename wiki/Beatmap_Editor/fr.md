@@ -1,18 +1,18 @@
 # Éditeur de Beatmap
 
-![Le mode Compose](Compose/Compose.png "Le mode Compose")
+**L'éditeur de beatmap** est une interface graphique intégrée au jeu pour la création de [beatmaps](/wiki/Beatmaps). Il est séparé en quatre parties :
 
- **L'éditeur de beatmap** est l'interface graphique d'osu! pour créer des [beatmaps](/wiki/Beatmaps). Il est divisé en 4 modes :
+- [Compose](Compose) : L'endroit où se déroule la majorité du processus de création de beatmap.
+- [Design](Design) : L'endroit pour la création de storyboards. Cependant, la plupart des mappeurs n'utiliseront que l'option "Image de fond/Vidéo" ici.
+- [Timing](Timing) : La première étape pour la création d'une beatmap. Ceci permet de contrôler le BPM (Battement Par Minute) et d'autres options de hitsounds.
+- [Song Setup](Song_Setup) : Ceci définit les valeurs concernant le titre, l'artiste, le nom de la version, la difficulté, les couleurs de combo, etc.
 
--   [Compose](/wiki/Beatmap_Editor/Compose) : c'est ici que les [objets](/wiki/Hit_Objects) sont placés et déplacés. C'est dans ce mode que les mappeurs passent la plupart de leur temps.
--   [Design](/wiki/Beatmap_Editor/Design) : c'est ici que le storyboard est créé. La plupart des mappers n'utilisent que le bouton « insertion d'un fond ».
--   [Timing](/wiki/Beatmap_Editor/Timing) : c'est ici que l'offset et le BPM de la musique sont spécifiés. Cette fenêtre contrôle aussi les hitsounds s'ils ne sont pas constants durant la map.
--   [Song Setup](/wiki/Beatmap_Editor/Song_Setup) : c'est ici que les diverses options de la map sont spécifiées. Ceci inclut la couleur des combos et la configuration de la difficulté.
+D'autres composants de l'éditeur de beatmap incluent :
 
-## Articles liés
-
--   [Bruitages](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Éditeur de beatmaps osu!mania](/wiki/Game_Modes/osu!mania)
--   [Espacement des notes](/wiki/Beatmap_Editor/Distance_Snap)
--   [Kiai Time](/wiki/Beatmap_Editor/Kiai_Time)
--   [Représentation du tempo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)
+- [AiMod](AiMod) : Fonctionnalité qui permet aux beatmappeurs d'afficher des potentielles erreurs sur la beatmap.
+- [Beat Snap Divisor](Beat_Snap_Divisor) : Un outil qui permet de changer le rythme des battements.
+- [Distance Snap](Distance_Snap) : Le logiciel qui affecte la proximité ou la distance des objets touchés.
+- [Kiai Time](Kiai_Time) : Permet d'ajouter une section Kiai Time, qui est souvent placée lors d'un moment fort de la musique. Le Kiai Time rajoute des petits effets en jeu, comme des effets d'étoiles sur les cotés de l'écran, des clignotements plus intenses des cercles, etc...
+- [Menu](Menu) : Une explication sur les boutons de menu en haut de l'éditeur de beatmap.
+- [SB Load](SB_Load) : Un logiciel utilisé pour dire à quel point un storyboard est dégradant pour les performances. Tout nombre supérieur à 5x est mauvais pour les machines anciennes.
+- [Timelines](Timelines) : La partie supérieure de l'éditeur beatmap qui affiche les objets placés, les pauses, etc.

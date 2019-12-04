@@ -50,13 +50,13 @@ Some data types specific to osu!.db are defined below.
 | String | Player name |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
-| Int | Unknown Int, always seems to be 4 |
+| Int | User permissions (0 = None, 1 = Normal, 2 = Moderator, 4 = Supporter, 8 = Friend, 16 = peppy, 32 = World Cup staff) |
 
 ### Beatmap Information
 
 | Data type | Description |
 | --------- | ----------- |
-| Int | Size in bytes of the beatmap entry |
+| Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
 | String | Artist name, in Unicode |
 | String | Song title |
@@ -174,5 +174,12 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_Modifiers#special.1) is enabled. |
+
+#### Additional mod information
+
+| Mod | Stored information |
+| :-- | :-- |
+| Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
 
 Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).

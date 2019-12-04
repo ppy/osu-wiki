@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Editor de Beatmap
 
 ![Compose editor de osu! (Pantalla Completa)](Compose/ComposeES.png "Compose editor de osu! (Pantalla Completa)")

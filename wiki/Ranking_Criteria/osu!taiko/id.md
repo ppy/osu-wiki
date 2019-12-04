@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Kriteria Pemeringkatan osu!taiko
 
 Peraturan dan petunjuk ini telah didiskusikan dalam [Thread Diskusi osu!taiko](https://osu.ppy.sh/community/forums/87). Semua aturan yang didiskusikan dicantumkan disini sebagaimana untuk digunakan dan akan di update setiap diskusi mencapai kesepakatan.
@@ -51,7 +55,7 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
 
 -   **Drumrolls (Sliders)**
 
-**Hanya berikan beberapa slider dalam map dan beri 1/2 beat antara slider dengan objek yang lain.** Hindari penggunaan drumroll dalam lagu 125BPM atau lebih rendah (karena tick yang menjadi 1/8) kecuali jika dibutuhkan oleh musiknya. Gunakan tick rate 3 jika lagunya dalam 1/3.
+**Hanya berikan beberapa slider dalam map dan beri 1/2 beat antara slider dengan objek yang lain.** Hindari penggunaan drumroll dalam lagu 125 BPM atau lebih rendah (karena tick yang menjadi 1/8) kecuali jika dibutuhkan oleh musiknya. Gunakan tick rate 3 jika lagunya dalam 1/3.
 
 -   **Dendens (Spinners)**
 

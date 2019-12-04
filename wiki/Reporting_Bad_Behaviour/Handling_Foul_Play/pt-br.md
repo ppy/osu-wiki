@@ -1,9 +1,11 @@
+# Handling Foul Play (Português (Brasil))
+
 ## Por que fui banido?
 
--   10 silêncios emitidos na sua página de usuário.
--   Você deu a sua conta para outra pessoa.
--   Usou várias contas.
--   Trapaceou (veja abaixo).
+- 10 silêncios emitidos na sua página de usuário.
+- Você deu a sua conta para outra pessoa.
+- Usou várias contas.
+- Trapaceou (veja abaixo).
 
 ## O que é considerado trapaça?
 
@@ -41,7 +43,7 @@ Clique no link "Report" no lado direito da pontuação do beatmap (site)
 
 Use !report na conversa do jogo para enviar uma mensagem aos moderadores.
 
-`Exemplo: !report `<Nome de usuário>` possível trapaceiro.`
+`Exemplo: !report <Nome de usuário> possível trapaceiro.`
 
 A sua ajuda em detectar alguém trapaceando é muito agradecida. Você também pode enviar um e-mail diretamente para osu@ppy.sh para uma resposta relativamente rápida.
 
@@ -53,7 +55,7 @@ Obviamente, isso é difícil de monitorar a menos que estejamos ao seu lado, mas
 
 ## Como posso solicitar um apelo de banimento?
 
-Envie um e-mail para accounts@ppy.sh com o assunto de "Ban Appeal: <Nome de usuário>"
+Envie um e-mail para accounts@ppy.sh com o assunto de `Ban Appeal: <Nome de usuário>`
 
 Inclua a razão pela qual você foi banido (se você foi banido, você sabe por que) e explique por que você não acredita que seu comportamento deve ser resultado em um banimento.
 
@@ -61,4 +63,4 @@ Inclua a razão pela qual você foi banido (se você foi banido, você sabe por 
 
 ## Como posso evitar ser silenciado ou banido?
 
-Você pode simplesmente ler as regras aqui: [Regras do osu!](Osu!:Rules "wikilink")
+Você pode simplesmente ler as regras aqui: [Regras do osu!](/wiki/Rules)

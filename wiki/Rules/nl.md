@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Regels
 
 Deze regels zijn de basis waarmee we ervoor zorgen dat de osu!gemeenschap een leuke en gastvrije plek voor iedereen blijft.
@@ -42,14 +46,6 @@ Een set met meer gedetailleerde regels voor het maken van een beatmap, genaamd d
 1.  **Zorg ervoor dat je toestemming hebt om alle inhoud betrokken bij je beatmap te gebruiken.** Dit is inclusief liedjes, video's, geluiden, beelden, en alle andere inhoud dat je niet zelf hebt gemaakt. Als je niet zeker weet waar je inhoud kan vinden dat gratis te gebruiken is: we hebben een groeiende bibliotheek met liedjes beschikbaar op de [Uitgelichte Artiesten](https://osu.ppy.sh/beatmaps/artists/) lijst, allemaal met 100% licenties voor gebruik in osu!.
 2.  **Blijf bij het onderwerp in beatmap discussies.** Deze threads/discussies gaan over de beatmap in kwestie, en niets anders. Als je een probleem hebt met iets dat niet direct te maken heeft met de beatmap, zet het in het geschikte forum.
 3.  **Pleeg geen plagiaat en steel het werk van anderen niet.** Upload ook niet andermans werk zonder hun expliciete toestemming (inclusief, maar niet gelimiteerd tot, skins en gast moeilijkheden).
-
-## Overige regels
-
-*Onderstaande regels zijn ALLEEN van toepassing op het [Overig](https://osu.ppy.sh/community/forums/52) subforum tenzij anders genoemd.*
-
-1.  **Geen enkel onderwerp in Overig heeft waarde.** Ze zijn, simpel gezegd, afval. Als je threads steeds verplaatst worden naar Overig, worden ze onwaardig geacht van een serieus gesprek. Neem de hint.
-2.  **Buitensporig dom zijn is slecht.** Vertederend dom is goed, en valt onder de modus operandi van shitposten. Oprechte stupiditeit is daarentegen nooit goed. Als je het verschil niet weet, ben je deze regel nu al aan het breken.
-3.  **Verjaardags-threads zijn alleen toegestaan in Overig, en nergens anders.** Alle verjaardags-threads moeten met niets minder dan tenminste (3) plaatjes van dansende anime meisjes komen, of anders worden ze *genadeloos* onder een bus gegooid.
 
 ## Wat gebeurt er als ik de regels verbreek?
 

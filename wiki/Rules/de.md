@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Regeln
 
 Diese Regeln bilden die Grundlage für ein freundliches Miteinander innerhalb der osu! Community, in der sich jeder wohlfühlen soll.
@@ -42,14 +46,6 @@ Darüber hinaus existieren noch detaillierte Regeln zur Erstellung von Beatmaps,
 1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du nicht sicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
 2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
-
-## Regeln in Off-Topic
-
-*Wenn nicht anders spezifiziert, gelten diese Regeln NUR für das [Off-Topic](https://osu.ppy.sh/community/forums/52) Subforum.*
-
-1. **Kein Thema in Off-Topic ist irgendetwas wert.** Es ist alles Müll. Wenn deine Themen ständig ins Off-Topic Forum verschoben werden, können sie nicht ernst genommen werden - ein Wink mit dem Zaunpfahl.
-2. **Übertriebene Dummheit ist schlecht.** Ein bisschen dämlich kann ganz reizend sein und fällt unter den Operandus Mundi 'Shitposting'. Aber tatsächliche Dummheit ist niemals gut. Verstehst du den Unterschied nicht, brichst du die Regel bereits.
-3. **Geburtstagsthreads sind nur in Off-Topic erlaubt - und sonst nirgends.** Darüber hinaus müssen in jedem Geburtstagsthread mindestens drei (3) tanzende Anime Mädchen vorkommen - ansonsten werden sie *schonungslos* vor einen Laster geworfen.
 
 ## Was passiert, wenn ich die Regeln breche?
 

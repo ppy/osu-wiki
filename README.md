@@ -2,30 +2,11 @@
 
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-<!--
-Uncomment and replace after the main wiki page gets implemented, link isn't official:
-Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
--->
-
-Home of the [osu!](https://osu.ppy.sh/home) wiki.
+Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki/Main_Page).
 
 ## Contributing
 
 Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
-
-## File caching
-
-### Wiki articles
-
-Articles are cached for up to five hours.
-
-### Images
-
-Images are cached for up to two hours.
-
-### News posts
-
-News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a pull request to fix it then tell Ephemeral (`ephemeralis#0001`) or Shiro (`Shiro#1584`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
 
 ## Licence
 

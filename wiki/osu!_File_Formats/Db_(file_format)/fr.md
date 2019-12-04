@@ -55,7 +55,7 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 
 | Type de donnée | Description |
 | --------- | ----------- |
-| Int | Taille en octet de la beatmap |
+| Int | Taille en octet de la beatmap. Seulement présent depuis la version 20191106. |
 | String | Nom de l'artiste |
 | String | Nom de l'artiste, en Unicode |
 | String | Titre de la musique |

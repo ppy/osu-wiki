@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Como Ranquear seu Beatmap
 
 Tendo problemas para ter seu [beatmap](/wiki/Glossary) qualificado? Então você veio ao lugar certo.

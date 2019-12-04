@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Konsol Obrolan Standar
 
 Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` untuk membuka konsol obrolan.
@@ -24,7 +28,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 ## Konsol Obrolan yang Diperluas
 
-*[osu!academy](/wiki/Announcements/osu!academy/ "osu!academy") membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi/ "Bermain Bersama").*
+*[osu!academy](/wiki/osu!academy "osu!academy") membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi/ "Bermain Bersama").*
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 

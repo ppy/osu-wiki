@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmaps
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
@@ -22,7 +26,7 @@ These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_crite
 
 Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may uploaded them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an easy or normal difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
 
 ### Qualified
 
@@ -30,7 +34,7 @@ Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualifi
 
 These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
-- No [pp](/wiki/pp) will be awarded.
+- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
@@ -40,16 +44,16 @@ During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up
 
 ### Loved
 
+*For history of the Loved category, see: [History of Loved](/wiki/Beatmaps/History_of_Loved).*
+
 Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
 
-These beatmaps may not meet the [ranking criteria](/wiki/ranking_criteria) but are _loved_ by the community and thus are regularly added based on community votes. Before the beatmap begins playing, a dialoge will display, noting the status of the beatmap will cause:
+These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialogue will display, noting that:
 
-- No [pp](/wiki/pp) will be awarded.
-- All scores will be deleted when the creator updates the beatmap.
+- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
+- All scores will be deleted if the creator updates the beatmap.
 
-This status will give those beatmaps a leaderboard.
-
-To get a beatmap in the loved status, see the forum post: [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
+For a beatmap to be Loved, it must go through the [community voting process](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
 ### Pending
 
@@ -67,7 +71,7 @@ All pending beatmaps do not affect user statistics.
 
 Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
-These beatmaps were initally [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
+These beatmaps were initially [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
 
 All graveyarded beatmaps do not affect user statistics.
 

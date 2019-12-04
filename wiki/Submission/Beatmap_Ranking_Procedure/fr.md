@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Statuts
 
 Lorsqu’une beatmap est créée pour la première fois, elle se situe dans la section Pending ou Work In Progress du forum. Ces maps sont dites “unranked”. Les maps unranked n’ont pas de tableau de score et se retrouvent au cimetière après une certaine période d’inactivité. Pour qu’une map puisse avoir un tableau de score et passer dans la section “ranked” du forum, elle doit passer par un processus d’acceptation. Tout d’abord, elle doit recevoir un bubble et ensuite elle doit se faire ranker. Seuls les BAT sont habilités à ranker une beatmap.
@@ -6,7 +10,7 @@ Lorsqu’une beatmap est créée pour la première fois, elle se situe dans la s
 
 Avant qu’une beatmap puisse être rankée par un BAT, elle doit tout d’abord recevoir un bubble. Pour cela, elle doit en premier lieu atteindre une priorité (SP) de 12. Il existe deux façons d’augmenter son SP. Tout d’abord, vous pouvez demander à d’autres personnes de modder votre map. Si vous trouvez leur mod utile et leur donnez un [kudosu](/wiki/Glossary/#kudosu) , vous gagnerez 1 SP. Vous, ainsi que d’autres personnes, pouvez aussi dépenser vos propres kudosus afin de rajouter une étoile à votre map. Une étoile coûte 1 kudosu et peut être attribuée à partir du profil du mappeur ou du topic de la map. Une fois que votre map a atteint les 12 SP, un BAT peut lui donner un bubble s’il estime qu’elle remplit les deux conditions suivantes:
 
-1.  La beatmap respecte toutes les conditions nécessaires pour être rankée. En gros, cela signifie que la map a un [timing](/wiki/Beatmap_Editor/Timing) correct, contient au moins deux [difficultés](/wiki/Difficulties) (l’une d’entre-elles doit être une difficulté [Facile](/wiki/Difficulties/osu!/Easy) ou [Normale](/wiki/Difficulties/osu!/Normal)), que le mapping correspond bien à la musique et qu'elle est jouable.
+1.  La beatmap respecte toutes les conditions nécessaires pour être rankée. En gros, cela signifie que la map a un [timing](/wiki/Beatmap_Editor/Timing) correct, contient au moins deux [difficultés](/wiki/Difficulties) (l’une d’entre-elles doit être une difficulté Facile ou Normale), que le mapping correspond bien à la musique et qu'elle est jouable.
 2.  La beatmap remplit tous les critères de qualités qui ne sont pas mentionnés dans les [Ranking Criteria](/wiki/Ranking_Criteria). Par exemple, si un slider n’est pas très joli, alors un BAT va sûrement demander à ce qu’il soit corrigé avant de lui donner un bubble.
 
 ### Bubbles spécifiques à un mode

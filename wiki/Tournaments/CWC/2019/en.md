@@ -5,9 +5,9 @@ tags:
 ---
 # osu!catch World Cup 2019
 
-![CWC 2019 Banner](img/banner.jpg)
+![CWC 2019 Logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 
@@ -30,18 +30,19 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) is a country-based osu!catch t
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Unique profile badge |
 
+![CWC 2019 Winner Badge](img/badge.png)
+
 ## Organisation
 
-The osu!catch World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | :-- | :-- |
-| Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
-| Commentators | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637), ![][flag_NO] [Divine Cake](https://osu.ppy.sh/users/3636998), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
-| Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
-
+| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
+| Commentator | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637), ![][flag_NO] [Divine Cake](https://osu.ppy.sh/users/3636998), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
+| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -90,33 +91,110 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 
 ---
 
-## Match Schedule: Quarterfinals
+## Podium
 
-### Saturday, 13. July 2019
+This competition has come to an end and resulted in the following podium:
 
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
-| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **15:30 UTC** | 17:30 UTC+02 | 17:30 UTC+02 |
-| Finland | ![][flag_FI] | ![][flag_CL] | Chile | **17:00 UTC** | 20:00 UTC+03 | 13:00 UTC-04 |
-| Poland | ![][flag_PL] | ![][flag_MX] | Mexico | **18:30 UTC** | 20:30 UTC+02 | 13:30 UTC-05 |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **20:00 UTC** | 22:00 UTC+02 | 17:00 UTC-03 |
-
-### Sunday, 14. July 2019
-
-| Team A |  |  | Team B | Match Time (UTC) | Local Time A | Local Time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_CN] | China | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **12:30 UTC** | 21:30 UTC+09 | 20:30 UTC+08 |
-| United States | ![][flag_US] | ![][flag_FR] | France | **14:00 UTC** | 10:00 UTC-04 | 16:00 UTC+02 |
+| Placing | Country |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] South Korea |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CN] China |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
 
 ---
 
 ## Mappools
 
-**[Download the map pack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
+### Grand Finals
+
+**[Download the map pack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool)**
+
+- NoMod
+  - [Masayoshi Iimori - BREAK OVER \(- G i G a s -\) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
+  - [Mitsuyoshi Takenobu no Ani - Amphisbaena \(Ascendance\) \[Mythic Another \(2019 Edit Ver.\)\]](https://osu.ppy.sh/beatmapsets/1009892#fruits/2114109)
+  - [Chroma - Made In Love \(Bunnrei\) \[Ai\]](https://osu.ppy.sh/beatmapsets/973405#fruits/2037794)
+  - [Shiron - CODE -CRiMSON- \(CLSW\) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/534978#fruits/1133219)
+  - [Omoi - Chiisana Koi no Uta \(Synth Rock Cover\) \(val0108\) \[Kroytz's EX EX\]](https://osu.ppy.sh/beatmapsets/609189#fruits/1312375)
+  - [Zekk - Calling \(NeilPerry\) \[winber1's Special Extra\]](https://osu.ppy.sh/beatmapsets/673878#fruits/1430468)
+- Hidden
+  - [Emilie Autumn - I Know Where You Sleep \(- Magic Bomb -\) \[Revealed\]](https://osu.ppy.sh/beatmapsets/673883#fruits/1426045)
+  - [uno & D.watt \(IOSYS TRAX\) - #Endroll \(INO\) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/732562#fruits/1545604)
+  - [Susumu Hirasawa - Aurora 2 \(NachoPiggy\) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
+  - [Shinra-bansho - Zenryoku Happy Life \(Hailie\) \[Extra\]](https://osu.ppy.sh/beatmapsets/806350#fruits/1692553)
+- HardRock
+  - [Dasu - Nakakapagpabagabag \(Bunnrei\) \[Schadenfreude\]](https://osu.ppy.sh/beatmapsets/755615#fruits/1590406)
+  - [Ponkichi - Hyakukakai to Shirotokkuri \(F D Flourite\) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
+  - [Shindig - Zzz \(squirrelpascals\) \[I'm Home\]](https://osu.ppy.sh/beatmapsets/802730#fruits/1684963)
+  - [seleP - Scarlet Rose \(pkk\) \[X\]](https://osu.ppy.sh/beatmapsets/528089#fruits/1120184)
+- DoubleTime
+  - [Maksim Mrvica - Croatian Rhapsody \(ZHSteven\) \[Insane\]](https://osu.ppy.sh/beatmapsets/191590#fruits/881329)
+  - [Project Grimoire - Brionac ~Lugh Lamhfhata~ \(Rocma\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/734296#fruits/1555121)
+  - [Ni-Sokkususu - Shukusai no Elementalia \(Silynn\) \[haqi's Insane\]](https://osu.ppy.sh/beatmapsets/203309#fruits/880587)
+  - [Hatsuki Yura - Lunicode \(GreenHue\) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#fruits/1689336)
+- Tiebreaker
+  - **[Camellia - gigadelic \(Camellia's "THE TERA" Remix\) \[" 10^12 " Long ver.\] \(Minato Yukina\) \[Final Showdown\]](https://osu.ppy.sh/beatmapsets/856174#fruits/1788806)**
+
+### Finals
+
+**[Download the map pack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
+
+- NoMod
+  - [Zekk - Feelsleft0ut \(AJamez\) \[:\)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
+  - [solfa feat. Ceui - Koiiro Recipe \(-Luminate\) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
+  - [Dustvoxx - TRiGGER \(Zekk Remix\) \(Deif\) \[OVeRDOSE\]](https://osu.ppy.sh/beatmapsets/1003938#fruits/2101175)
+  - [cosMo@BousouP - Sadistic.Music Factory \(JeirYagtama\) \[Sadistic Fruit Factory\]](https://osu.ppy.sh/beatmapsets/747341#fruits/1719034)
+  - [Kitsune^2 - Free \(Starrodkirby86\) \[Freedom\]](https://osu.ppy.sh/beatmapsets/342207#fruits/756423)
+  - [BABYMETAL - YAVA! \(\[ Kohioma \]\) \[Yabai\]](https://osu.ppy.sh/beatmapsets/476612#fruits/1018019)
+- Hidden
+  - [Kagamine Rin - Oni Kanojo \(Spectator\) \[Spec's CTB\]](https://osu.ppy.sh/beatmapsets/486433#fruits/1037254)
+  - [Gekidan Record - Ares no Tate \(- Syamu -\) \[Shield of Ares\]](https://osu.ppy.sh/beatmapsets/826598#fruits/1732259)
+  - [KAKU P-MODEL - Big Brother \(Mismagius\) \[NOGARD Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/992499#fruits/2075541)
+  - [Zhou Li Ming - Pi Li Pa La \(bakabaka\) \[Extra\]](https://osu.ppy.sh/beatmapsets/136065#fruits/340652)
+- HardRock
+  - [Nekomata Master+ - squall \(Sinnoh\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/962382#fruits/2015148)
+  - [Halozy - Deconstruction Star \(CLSW\) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)
+  - [ITO KASHITARO - Yuudachi no Ribbon \(Milan-\) \[Rain\]](https://osu.ppy.sh/beatmapsets/479811#fruits/1024480)
+  - [e-ZUKA - Assailant in the Night \(Saten\) \[Speed\]](https://osu.ppy.sh/beatmapsets/52499#fruits/160486)
+- DoubleTime
+  - [sana - Sunset March \(Benita\) \[Lacrima's Eventide\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2018434)
+  - [Floating Cloud - Ame no chikumori no chihare \(dazzulay\) \[Fruit Dance\]](https://osu.ppy.sh/beatmapsets/838420#fruits/1755327)
+  - [Myrath - Endure The Silence \(LMT\) \[Another\]](https://osu.ppy.sh/beatmapsets/555454#fruits/1213261)
+  - [Yorushika - Itte. \(deetz\) \[Clearly\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061024)
+- Tiebreaker
+  - **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters \(Camellia's "Barrage of Flurries" Remix\) \(Ascendance\) \[Ascendance & Plus's Onslaught\]](https://osu.ppy.sh/beatmapsets/809971#fruits/1699518)**
+
+### Semifinals
+
+**[Download the map pack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0)**
+
+- NoMod
+  - [M2U - Marionette \(Absolute Zero\) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
+  - [Camellia - crystallized \(Spectator\) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/751290#fruits/1581742)
+  - [succducc - me & u \(Zyzyx\) \[Forever\]](https://osu.ppy.sh/beatmapsets/931928#fruits/1945822)
+  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto \(F D Flourite\) \[The White Queen \(Overdose\)\]](https://osu.ppy.sh/beatmapsets/830717#fruits/1766406)
+  - [Camellia feat. Nanahira - Amor De Verao \(Kuron-kun\) \[CAIPIRINHA\]](https://osu.ppy.sh/beatmapsets/746563#fruits/1573413)
+  - [Camellia - kodama \(ProfessionalBox\) \[-kevincela-'s Extra\]](https://osu.ppy.sh/beatmapsets/488016#fruits/1048276)
+- Hidden
+  - [Grand Thaw - AltMirrorBell \(Deif\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2009626)
+  - [REOL - drop pop candy \(chickenbible\) \[Step by Step\]](https://osu.ppy.sh/beatmapsets/860838#fruits/1801075)
+  - [DJ YOSHITAKA - Evans \(Jerrysr\) \[ignore's Another\]](https://osu.ppy.sh/beatmapsets/13694#fruits/50663)
+  - [xi - Mirage Garden \(P o M u T a\) \[Another445\]](https://osu.ppy.sh/beatmapsets/319940#fruits/726357)
+- HardRock
+  - [Helblinde - Grief & Malice \(Kyuare\) \[Madness\]](https://osu.ppy.sh/beatmapsets/325817#fruits/723610)
+  - [Mr. Saturn - Saturn \(Saturnalize\) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/39797#fruits/356150)
+  - [jippusu - Mushikui Saikede Rhythm \(Amamiya Yuko\) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#fruits/240689)
+  - [sakuzyo - Imprinting \(Squigly\) \[Impress\]](https://osu.ppy.sh/beatmapsets/264299#fruits/602547)
+- DoubleTime
+  - [Cha Ji Yeon, LDN Noise - My Show \(Ollapeu\) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
+  - [Tamaki to Yumine \(CV: Naganawa Maria Maekawa Ryouko\) - Yonaka Jikaru \(examination\) \[Rain\]](https://osu.ppy.sh/beatmapsets/538744#fruits/1141091)
+  - [SEREBRO - Mi Mi Mi \(Speed Up Ver.\) \(eiri-\) \[Fashion Pink Lips\]](https://osu.ppy.sh/beatmapsets/907084#fruits/1892789)
+  - [TatshMusicCircle - Raikou -3rd Desire- \(Kite\) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#fruits/1836851)
+- Tiebreaker
+  - **[DragonForce - Symphony Of The Night \(Crowley\) \[Myth of the Darkest Twilight\]](https://osu.ppy.sh/beatmapsets/984228#fruits/2059422)**
 
 ### Quarterfinals
+
+**[Download the map pack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
 
 - NoMod
   - [Helblinde - Unconquered \(IDu5t\) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
@@ -195,6 +273,58 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 ---
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2019-08-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 1 | ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/53809297) |
+
+| Sunday, 2019-08-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 4 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53828395) |
+| China ![][flag_CN] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53830712) |
+
+### Finals
+
+| Saturday, 2019-07-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53636548) |
+| **Chile** ![][flag_CL] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/53643053) |
+| France ![][flag_FR] | 2 | **7** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53645553) |
+| **Chile** ![][flag_CL] | **7** | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/53648177) |
+
+### Semifinals
+
+| Saturday, 2019-07-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53472837) |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53473820) |
+| **Philippines** ![][flag_PH] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53476256) |
+| Finland ![][flag_FI] | 0 | **7** | ![][flag_MX] **Mexico** | -win by default- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53486183) |
+
+| Sunday, 2019-07-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Chile ![][flag_CL] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53490373) |
+| Philippines ![][flag_PH] | 5 | **7** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53491250) |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53499382) |
+
+### Quarterfinals
+
+| Saturday, 2019-07-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53149402) |
+| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53151416) |
+| Sweden ![][flag_SE] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/53153172) |
+| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53169340) |
+
+| Sunday, 2019-07-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53145753) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
 
 ### Round of 16
 
@@ -337,7 +467,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
@@ -360,7 +490,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
    - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2019: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
-3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
 4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 6. Each captain must use "!roll" once in #multiplayer.
@@ -377,7 +507,7 @@ The osu!catch World Cup 2019 is run by various community members by distributing
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
 5. Each mappool has one tiebreaker.
 6. The NoMod bracket will be played with no mods activated.
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.  
+7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.

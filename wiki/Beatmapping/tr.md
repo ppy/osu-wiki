@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmapping (Türkçe)
 
 **Beatmapping** osu!'da ki [beatmaplerin](/wiki/Beatmaps) oluşturulma sürecidir. Bu süreç -beatmap yapılacak- şarkının seçilmesi, [zamanlama](/wiki/Timing) (timing), kullanılacak olan objelerin(circle,slider vb.) yerleştirilmesi, ve (isteğe bağlı olarak) [skinning](/wiki/Skinning) ve [storyboarding](/wiki/Storyboarding) aşamalarını kapsar.
@@ -6,10 +10,10 @@ Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](/wiki/Beatmap_Ra
 
 Beatmapping'de en ortak kullanılan zorluklar şunlardır;
 
--   [Kolay](/wiki/Difficulties/Easy)
--   [Normal](/wiki/Difficulties/Normal)
--   [Zor](/wiki/Difficulties/Hard)
--   [Zor'unda zoru denilebilir](/wiki/Difficulties/Insane)
+-   Kolay
+-   Normal
+-   Zor
+-   Zor'unda zoru denilebilir
 
 Yukarıda tıklayacağınız her link, size [mapperların](/wiki/Glossary) -seçilmiş olan zorluğun- [zorluk seviyesine](/wiki/Difficulties) uygun,eğlenceli mapler kurması için gereken bir rehberi açacaktır.
 

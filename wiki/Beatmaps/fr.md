@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmaps
 
 Les beatmaps sont des niveaux du jeu dans [osu!](/wiki/osu!_glossary), comme des étapes dans les [jeux DS](/wiki/Glossary/#ds-games). Pour la forme la plus basique, une beatmap a une musique et plusieurs [hit objects](/wiki/hit_objects) placés de manière à ce qu'ils s'accordent au rythme de la musique. Elles peuvent également avoir une image de fond, une vidéo, et/ou un [storyboard](/wiki/storyboard).
@@ -20,7 +24,7 @@ Ces beatmaps remplissent tous les [critères de classement](/wiki/ranking_criter
 
 Les beatmaps approuvées ont l'icône de coche (![icône de coche](/wiki/shared/status/approved.png)) dans l'écran de sélection des musiques.
 
-Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés [facile](/wiki/easy) ni [normale](/wiki/normal). Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
+Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés facile ni normale. Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
 
 ### Qualifiées
 

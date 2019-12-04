@@ -36,13 +36,13 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 | Position | Members |
 | :-- | :-- |
-| Management | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
-| Map Selectors | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
+| Map Selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
-| Commentators | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
-| Referees | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
-| Sponsors | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| Wiki | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
+| Referee | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
+| Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| Wiki Editor | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

@@ -2,20 +2,20 @@
 outdated: true
 ---
 
-Maskotlar hakkında bir video: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
-
 # osu! Maskotları
+
+[Maskotlar hakkında bir video](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Gerçek adı
 Pippi
 
 #### Takma adları
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Doğum tarihi
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Belirmeler
-* osu! (Resmi mascotu)
-* Taiko (Pippidon olarak)
-* Yandere Simulator (Easter egg bir NPC olarak)
+- osu! (Resmi mascotu)
+- Taiko (Pippidon olarak)
+- Yandere Simulator (Easter egg bir NPC olarak)
 
 #### Yaratıcı
-* Sarumaru (Konsept ve orijinal çizim)
-* Daru (Mevcut çizim)
-* crystalsuicune (pippidon)
+- Sarumaru (Konsept ve orijinal çizim)
+- Daru (Mevcut çizim)
+- crystalsuicune (pippidon)
 
 #### Cinsiyet
 Dişi
@@ -47,7 +47,7 @@ Dişi
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Gerçek adı
 Yuzu
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Yaratıcı
-* Daru (Çizim)
-* ztrot (Yakalıyıcı çizimi, konsept tasarım)
+- Daru (Çizim)
+- ztrot (Yakalıyıcı çizimi, konsept tasarım)
 
 #### Cinsiyet
 Erkek
@@ -78,11 +78,11 @@ Erkek
 65kg
 
 #### Biyoveri
-[Tanıtım](https://osu.ppy.sh/news/89483664163) (eklenecek)
+[Tanıtım](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Gerçek Adı
 Maria
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Yaratıcı
-* Daru (Çizim)
+- Daru (Çizim)
 
 #### Cinsiyet
 Cinsiyet
@@ -112,13 +112,13 @@ Cinsiyet
 ?
 
 #### Biyoveri
-[Tanıtım](https://osu.ppy.sh/news/143103453693) (eklenecek)
+[Tanıtım](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Konuklar
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Gerçek Adı
 一本木龍太 (Ryūta Ippongi)
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Belirmeler
-* Catch the Beat (as chibi-Ryuuta) [Yuzu ile değiştirildi]
-* osu!webpage (chibi-Ryuuta as Mascot) [Emekli oldu]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (Easter egg bir NPC olarak)
+- Catch the Beat (as chibi-Ryuuta) [Yuzu ile değiştirildi]
+- osu!webpage (chibi-Ryuuta as Mascot) [Emekli oldu]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (Easter egg bir NPC olarak)
 
 #### Yaratıcı
 iNiS Corporation
@@ -155,7 +155,7 @@ Moral takımının sıcak kanlı lideri. İyi bir kalbi vardır ve etrafındakil
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Gerçek Adı
 Agent J
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Belirmeler
-* osu!webpage (Maskot olarak chibi-J) [Emekli]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- osu!webpage (Maskot olarak chibi-J) [Emekli]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Yaratıcı
 iNiS Corporation
@@ -190,7 +190,7 @@ Hip-hop'tan baleye, pek çok dans stilinde uzman olan J, yaşayan herkesi etkisi
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Gerçek Adı
 和田どん (Wada Don)
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Belirmeler
-* Taiko (Skin)
-{[Option'un tetiği](Options#Skin "wikilink") için resmi skin}
+- Taiko (Skin)
+{[Option'un tetiği](/wiki/Options#Skin) için resmi skin}
 
 #### Yaratıcı
-* Yukiko Yokoo (横尾有希子) [Çizim]
-* Narahashi Miki (楢橋 美紀) [Seslendirme]
+- Yukiko Yokoo (横尾有希子) [Çizim]
+- Narahashi Miki (楢橋 美紀) [Seslendirme]
 
 #### Cinsiyet
 Erkek
@@ -226,4 +226,4 @@ Don Taiko no Tatsujin serisinin ana karakteri. Kendisi beyaz kenarlı, kırmız�
 
 # Resim Galerisi
 
-[Galeriye gitmek için buraya tıklayın tıklayın.](/wiki/Mascots/Gallery "wikilink")
+[Galeriye gitmek için buraya tıklayın tıklayın.](/wiki/Mascots/Gallery)

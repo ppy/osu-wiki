@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 聊天面板
 
 在 osu! 的绝大多数界面中，你都可以按下 `F8` 或者点击屏幕右下角的 `Show Chat` 按钮来把聊天面板叠加在屏幕的下方。
@@ -23,7 +27,7 @@
 
 ##  扩展聊天面板
 
-*[osu! 学院](/wiki/Announcements/osu!academy/ "osu! 学院")  [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "该视频为英文。点击前往 YouTube") 介绍了该节和  [多人游戏](/wiki/Multi/ "多人游戏") 的内容 。*
+*[osu! 学院](/wiki/osu!academy "osu! 学院")  [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "该视频为英文。点击前往 YouTube") 介绍了该节和  [多人游戏](/wiki/Multi/ "多人游戏") 的内容 。*
 
 你可以在 osu! 的绝大多数界面中按下 `F9` 或者在主屏幕按下屏幕右下角的 `Online users` 以打开扩展聊天面板。与聊天界面不同的是，在线玩家面板占用了屏幕的三分之二，展示着 osu! 目前在线玩家的一些信息。
 ![扩展聊天面板](ZH_CN-Chat_Console-Extended.png "扩展聊天面板")

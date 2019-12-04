@@ -87,8 +87,6 @@ It looks like this on the _DS_:-
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
 
-_Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS_
-
 The gameplay circles can be seen on the bottom screen, and the story on the top screen.
 Each stage is basically a self-contained story about a person in trouble.
 That is where the _Ouendan_ (Cheer squad) comes in.

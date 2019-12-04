@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pravidlá
 
 Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunitu zábavným a vítajúcím miestom pre všetkých.
@@ -42,14 +46,6 @@ Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktor�
 1. **Uisti sa, či máš povolenie používať akýkoľvek obsah v tvojej beatmape.** Toto zahŕňa hudbu, videá, zvuky klikania, grafiku alebo akýkoľvek obsah ktorý nie je tvoj. Pokiaľ si si neistý kde nájsť obsah ktorý je zadarmo na použitie, máme rastúcu knižnicu skladieb od [Významných umelcov](https://osu.ppy.sh/beatmaps/artists/), ktoré sú 100% licensované pre osu!.
 2.  **Drž sa témy v diskusiách o beatmapách.** Tieto vlákna sú o beatmape a o ničom inom. Pokiaľ máš problém s niečim iným daj to do vhodného fóra.
 3.  **Nekradni.** Nepoužívaj obsah od ďaľších ľudí bez ich dovolenia (napr. skiny, obtiažnosi, atď...).
-
-## Off-Topic pravidlá
-
-*Tieto pravidlá sa týkajú sub-fóra [Off-Topic](https://osu.ppy.sh/community/forums/52) pokiaľ sa inak nepovedalo.*
-
-1. **Žiadny príspevok v Off-Topic nemá hodnotu.** Jednoducho sú odpad. Pokiaľ sa tvoje príspevky presúvajú do Off-Topic, bolo usúdené že nemajú dostatočnú hodnotu pre serióznu diskusiu. 
-2. **Extrémna stupdita je špatná.** Roztomilá hlúposť je v pohode a spadá pod shitposting. Nefaľšovaná stupidita je zlá. Pokiaľ máš problém nájsť rozdieľ, porušuješ toto pravidlo.
-3. **Narodeninové príspevky sú povolené len v Off-Topic.** Všetky narodeninové príspevky musia mať v sebe minimálne tri (3) obrázky tancujúcich anime dievčat. V opačnom prípade budú *nemilosrdne* hodené pod autobus.
 
 ## Čo sa stane ak poruším pravidlá?
 
