@@ -4,7 +4,7 @@ title: "Project Loved: Week of December 1st"
 date: 2019-12-04 00:30:00 +0000
 ---
 
-It's [Project Loved](https://osu.ppy.sh/community/forums/120) time again! Come help us put leaderboards on your favorite unranked maps.
+It's [Project Loved](https://osu.ppy.sh/community/forums/120) time again! Come help us put leaderboards on your favourite unranked maps.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
@@ -33,9 +33,9 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 184 BPM, 2:56 | 1.10★ – 7.36★  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-There are way too many amazing songs on osu! that only have high-star maps to go along with them. It can serve as great motivation for new players to improve, but sometimes it feels too out of reach to be able to enjoy those difficult maps of your favorite songs. Well, thankfully, beem2137 is helping the cause by hosting a full spread mapset of this popular metal song.
+There are way too many amazing songs on osu! that only have high-star maps to go along with them. It can serve as great motivation for new players to improve, but sometimes it feels too out of reach to be able to enjoy those difficult maps of your favorite songs. Well, thankfully, beem2137 is helping the cause by hosting a full-spread mapset of this popular metal song.
 
-The mapset features nine evenly spread difficulties that range from 1 to 7 stars, with the higher difficulties featuring lots of streams. The style of the mp3 cutting makes this mapset unrankable, but with its high popularity within the community, we feel that Loved would be a perfect home for it. Check it out for yourself and give it a vote!
+The mapset features nine evenly spread difficulties that range from 1 to 7 stars, with the higher difficulties featuring lots of streams. The style of audio cutting makes this mapset unrankable, but with its high popularity within the community, we feel that Loved would be a perfect home for it. Check it out for yourself and give it a vote!
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/2-hunger.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -43,7 +43,7 @@ The mapset features nine evenly spread difficulties that range from 1 to 7 stars
 200 BPM, 3:08 | 6.67★  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-Welcome to the land of Graveyarded 2016 maps, many of which grew in popularity due to their addicting jump patterns and common appearances in multiplayer lobbies. This map by samplefish is definitely a highlight of that time period, and it's time for it to stand before the gates of the Loved category. The mapset contains one, mid 6-star difficulty that features mostly jumps, along with frequent triples and short bursts. This style of jump map is a breath of fresh air from the ones we see in modern mapping, so be sure to check this one out!
+Welcome to the land of Graveyarded 2016 maps, many of which grew in popularity due to their addicting jump patterns and common appearances in multiplayer lobbies. This map by samplefish is definitely a highlight of that time period, and it's time for it to stand before the gates of the Loved category. The mapset contains one mid-6-star difficulty that features mostly jumps, along with frequent triples and short bursts. This style of jump map is a breath of fresh air from the ones we see in modern mapping, so be sure to check this one out!
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/3-slow-dancing-in-the-dark.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -59,7 +59,7 @@ There are lots of mapsets out there where you can chill out with an easy map, bu
 195 BPM, 2:04 | 1.88★, 2.49★, 4.28★, 5.29★, 6.35★  
 *description written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
-A map by recently returned legend and twitter's most loved english student val0108 that never made it to the ranked section, Goodbye, My Lechenaultia features rhythms, patterns and difficulty settings common among all of val's 2013 offerings, and as such will take you on a trip back to simpler times, better times... The set has a full difficulty spread too, so there will definitely be something to enjoy for everyone. Come along and have a go!
+A map by recently returned legend and Twitter's most loved English student val0108 that never made it to the ranked section, *Sayonara Lechenaultia*, features rhythms, patterns and difficulty settings common among all of val's 2013 offerings, and as such will take you on a trip back to simpler times, better times... The set has a full difficulty spread too, so there will definitely be something to enjoy for everyone. Come along and have a go!
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/5-myosotis-feat-guriri-lucy.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -81,7 +81,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 240 BPM, 3:59 | 7.80★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-If you're one of those that have been in osu since the beginning of times, back when all these Nightcore versions of popular songs were flooding the ranked section, you will probably feel some sort of nostalgia while playing NXC Fanatics, a collab between applerss and 7_7 that is just as insane as you would expect of a map coming from these two. This beatmap, even though it has a bunch of 1/6 patterns, is leaning more towards the stamina side, with seemingly endless patterns that can be quite hard to maintain, especially if we consider its relatively high tempo of 240 BPM and the rather demanding 1/6 bursts, so be careful if you're gonna try to tackle down this great nightcore showcase.
+If you're one of those that have been in osu since the beginning of time, back when all these Nightcore versions of popular songs were flooding the ranked section, you will probably feel some sort of nostalgia while playing *NXC Fanatics*, a collab between applerss and 7_7 that is just as insane as you would expect of a map coming from these two. This beatmap, even though it has a bunch of 1/6 patterns, is leaning more towards the stamina side, with seemingly endless patterns that can be quite hard to maintain, especially if we consider the song's relatively high tempo of 240 BPM and the rather demanding 1/6 bursts, so be careful if you're going to try to tackle down this great Nightcore showcase.
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/2-education.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -89,7 +89,7 @@ If you're one of those that have been in osu since the beginning of times, back 
 180 BPM, 3:44 | 8.07★  
 *description written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
-This week we bring you Education, mapped by [\_Chichinya\_]. A single diff map that got attention due to the amount of work it has on hitsounds. In this map you will see a lot of different sounds carefully placed and mapped, making the playing experience even more rich including interesting and different patterns that make the map not easy to clear, so we expect to see impressive scores from all kinds of experienced players, enjoy hitsound mapping!
+This week we bring you *Education*, mapped by [\_Chichinya\_]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
 
 ## <a id="catch"></a>osu!catch
 
@@ -103,7 +103,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 220 BPM, 2:43 | 6.43★, 6.43★  
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-INO is a mapper that has been around for a very long time. Because of his long history the maps he creates are heavily influenced by early mapping styles. Kattobi Keikyu Rider is no exception. Not only is it AR8 which is already quite unusual these days, but the patterns he uses also feel like you play an old map - in a good way. The style of the map however makes it not an easy map - it is full of difficult jump and stream patterns that will surely challenge you. Even getting a decent S rank is already an accomplishment. So make sure to get on the train and give this map a try!
+INO is a mapper that has been around for a very long time. Because of his long history, the maps he creates are heavily influenced by early mapping styles. *Kattobi KEIKYU Rider* is no exception. Not only is it AR8, which is already quite unusual these days, but the patterns he uses also feel like the ones you play in an old map—in a good way! The style of the map, however, makes it not an easy map—it is full of difficult jump and stream patterns that will surely challenge you. Even getting a decent S rank is an accomplishment worthy of praise. Make sure to get on the train and give this map a try!
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/catch/2-click-soleily-remix-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -111,7 +111,7 @@ INO is a mapper that has been around for a very long time. Because of his long h
 190 BPM, 4:31 | 6.84★  
 *description written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
-Zyzyx is a mapper that is still fairly new to the scene. Yet he already created a lot of content and evolved quickly. His maps are usually the fast-paced type of maps which require a lot of fast movement and catcher control. CLICK is a map which is exactly like that. It is targeted at skilled players that are used to new mapping styles and can keep their stamina over a long time. For aspiring players this map serves as good practice as you will find a lot of the patterns used in harder ranked maps as well. All in all an enjoyable map to play and you should definitely give it a try!
+Zyzyx is a mapper that is still fairly new to the scene, yet he has already created a lot of content and evolved quickly. His maps are usually the fast-paced type which require a lot of quick movement and catcher control. *CLICK* is a map which is exactly like that. It is targeted at skilled players that are used to new mapping styles and can keep their stamina over a long period of time. For aspiring players, this map serves as good practice, as you will find a lot of the patterns used in harder Ranked maps as well. All-in-all, this is an enjoyable map to play, and you should definitely give it a try!
 
 ## <a id="mania"></a>osu!mania
 
