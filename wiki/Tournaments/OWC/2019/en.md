@@ -36,7 +36,6 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 The osu! World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-<!-- markdownlint-disable MD045 -->
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
