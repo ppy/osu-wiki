@@ -181,14 +181,14 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Beatmaps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
 - **Uninherited timing points must be the same in every difficulty of a beatmapset.** Each point must have the same BPM and offset in each difficulty.
 - **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Acceptable uses include:
-    - Aligning beats of the Nightcore mod with the start of musical sections.
-    - Accomodating for objects in musical sections requiring unsupported beat snap divisors (e.g. 1/5, 1/7).
+  - Aligning beats of the Nightcore mod with the start of musical sections.
+  - Accomodating for objects in musical sections requiring unsupported beat snap divisors (e.g. 1/5, 1/7).
 - **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
 - **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hit sounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 - **A beatmap's first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
-- **Objects must be snapped to timeline ticks according to AiMod.** Objects in a musical section requiring unsupported beat snap divisors (1/5, 1/7, etc.) can either:
-    - Remain unsnapped, as long as they align with the intended beat snap divisor.
-    - Be snapped through a temporary change in BPM.
+- **Objects must be snapped to timeline ticks according to AiMod.** Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/5, 1/7) can either:
+  - Remain unsnapped, as long as they align with the intended beat snap divisor.
+  - Be snapped through a temporary change in BPM.
 - **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object's tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
 
 ### Guidelines
