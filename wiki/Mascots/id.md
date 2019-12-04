@@ -6,7 +6,7 @@ Terdapat sebuah video di Youtube yang menampilkan maskot osu!, konten tersebut b
 
 ## Resmi
 
-### ![osu!standard icon](/wiki/shared/mode/osu.png) pippi
+### ![Ikon osu!standard](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
@@ -14,7 +14,7 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergab
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-<!-- *Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).* -->
+*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -48,15 +48,15 @@ Mocha adalah maskot osu!taiko. Awalnya Mocha dirancang dalam perlombaan [sixth f
 
 Ryuuta juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
-### Agen J
+### Agent J
 
-![Agen J](img/Agent_J.png "Agen J")
+![Agent J](img/Agent_J.png "Agent J")
 
 > Seorang ahli yang bisa melakukan banyak gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
-Agen J, dikenal juga sebagai BA-2 (Beat Agent-2) atau J, adalah salah satu maskot osu! di tahun 2008 tetapi telah pensiun pada tahun 2014. Dia dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web lama.
+Agent J, dikenal juga sebagai BA-2 (Beat Agent-2) atau J, adalah salah satu maskot osu! di tahun 2008 tetapi telah pensiun pada tahun 2014. Dia dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web lama.
 
-Agen J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Agent J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 
