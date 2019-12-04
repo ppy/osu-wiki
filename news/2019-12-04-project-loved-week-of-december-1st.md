@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: Week of December 1st"
-date: 2019-12-04 00:30:00 +0000
+date: 2019-12-04 01:30:00 +0000
 ---
 
 It's [Project Loved](https://osu.ppy.sh/community/forums/120) time again! Come help us put leaderboards on your favourite unranked maps.
@@ -27,7 +27,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 
 ---
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/1-raise-my-sword.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/1-raise-my-sword.jpg)](https://osu.ppy.sh/community/forums/topics/993252)
 
 [GALNERYUS - RAISE MY SWORD](https://osu.ppy.sh/beatmapsets/934878#osu) by [beem2137](https://osu.ppy.sh/users/11513377) et al.  
 184 BPM, 2:56 | 1.10★ – 7.36★  
@@ -37,7 +37,7 @@ There are way too many amazing songs on osu! that only have high-star maps to go
 
 The mapset features nine evenly spread difficulties that range from 1 to 7 stars, with the higher difficulties featuring lots of streams. The style of audio cutting makes this mapset unrankable, but with its high popularity within the community, we feel that Loved would be a perfect home for it. Check it out for yourself and give it a vote!
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/2-hunger.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/2-hunger.jpg)](https://osu.ppy.sh/community/forums/topics/993251)
 
 [Amaranthe - Hunger](https://osu.ppy.sh/beatmapsets/446674#osu) by [samplefish](https://osu.ppy.sh/users/573722)  
 200 BPM, 3:08 | 6.67★  
@@ -45,7 +45,7 @@ The mapset features nine evenly spread difficulties that range from 1 to 7 stars
 
 Welcome to the land of Graveyarded 2016 maps, many of which grew in popularity due to their addicting jump patterns and common appearances in multiplayer lobbies. This map by samplefish is definitely a highlight of that time period, and it's time for it to stand before the gates of the Loved category. The mapset contains one mid-6-star difficulty that features mostly jumps, along with frequent triples and short bursts. This style of jump map is a breath of fresh air from the ones we see in modern mapping, so be sure to check this one out!
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/3-slow-dancing-in-the-dark.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/3-slow-dancing-in-the-dark.jpg)](https://osu.ppy.sh/community/forums/topics/993250)
 
 [Joji - SLOW DANCING IN THE DARK](https://osu.ppy.sh/beatmapsets/849850#osu) by [Emilia](https://osu.ppy.sh/users/2003326)  
 178 BPM, 3:25 | 4.71★, 5.50★  
@@ -53,7 +53,7 @@ Welcome to the land of Graveyarded 2016 maps, many of which grew in popularity d
 
 There are lots of mapsets out there where you can chill out with an easy map, but this map by Emilia is the perfect balance between chill and challenge. The map features long sliders and directional flow that both fit perfectly with the mellowness of the song. If you need a break from the intensity of most difficult maps but still want to give your skills a challenge, this is the map you need to play.
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/4-sayonara-lechenaultia.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/4-sayonara-lechenaultia.jpg)](https://osu.ppy.sh/community/forums/topics/993249)
 
 [Nanahoshi Kangengakudan - Sayonara Lechenaultia](https://osu.ppy.sh/beatmapsets/112917#osu) by [val0108](https://osu.ppy.sh/users/243917)  
 195 BPM, 2:04 | 1.88★, 2.49★, 4.28★, 5.29★, 6.35★  
@@ -61,7 +61,7 @@ There are lots of mapsets out there where you can chill out with an easy map, bu
 
 A map by recently returned legend and Twitter's most loved English student val0108 that never made it to the ranked section, *Sayonara Lechenaultia*, features rhythms, patterns and difficulty settings common among all of val's 2013 offerings, and as such will take you on a trip back to simpler times, better times... The set has a full difficulty spread too, so there will definitely be something to enjoy for everyone. Come along and have a go!
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/5-myosotis-feat-guriri-lucy.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/osu/5-myosotis-feat-guriri-lucy.jpg)](https://osu.ppy.sh/community/forums/topics/993248)
 
 [M2U & NICODE - Myosotis (feat. Guriri & Lucy)](https://osu.ppy.sh/beatmapsets/319418#osu) by [-kevincela-](https://osu.ppy.sh/users/266596) et al.  
 160 BPM, 2:11 | 1.50★ – 5.88★  
@@ -75,7 +75,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 ---
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/1-nxc-fanatics.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/1-nxc-fanatics.jpg)](https://osu.ppy.sh/community/forums/topics/993246)
 
 [katagiri - NXC Fanatics](https://osu.ppy.sh/beatmapsets/743959#taiko) by [applerss](https://osu.ppy.sh/users/983349) and [7_7](https://osu.ppy.sh/users/7491106)  
 240 BPM, 3:59 | 7.80★  
@@ -83,7 +83,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 If you're one of those that have been in osu since the beginning of time, back when all these Nightcore versions of popular songs were flooding the ranked section, you will probably feel some sort of nostalgia while playing *NXC Fanatics*, a collab between applerss and 7_7 that is just as insane as you would expect of a map coming from these two. This beatmap, even though it has a bunch of 1/6 patterns, is leaning more towards the stamina side, with seemingly endless patterns that can be quite hard to maintain, especially if we consider the song's relatively high tempo of 240 BPM and the rather demanding 1/6 bursts, so be careful if you're going to try to tackle down this great Nightcore showcase.
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/2-education.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/taiko/2-education.jpg)](https://osu.ppy.sh/community/forums/topics/993245)
 
 [PSYQUI - Education](https://osu.ppy.sh/beatmapsets/982114#taiko) by [[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)  
 180 BPM, 3:44 | 8.07★  
@@ -97,7 +97,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 ---
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/catch/1-kattobi-keikyu-rider.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/catch/1-kattobi-keikyu-rider.jpg)](https://osu.ppy.sh/community/forums/topics/993243)
 
 [Sampling Masters MEGA - Kattobi KEIKYU Rider](https://osu.ppy.sh/beatmapsets/722359#fruits) by [INO](https://osu.ppy.sh/users/904219)  
 220 BPM, 2:43 | 6.43★, 6.43★  
@@ -105,7 +105,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 INO is a mapper that has been around for a very long time. Because of his long history, the maps he creates are heavily influenced by early mapping styles. *Kattobi KEIKYU Rider* is no exception. Not only is it AR8, which is already quite unusual these days, but the patterns he uses also feel like the ones you play in an old map—in a good way! The style of the map, however, makes it not an easy map—it is full of difficult jump and stream patterns that will surely challenge you. Even getting a decent S rank is an accomplishment worthy of praise. Make sure to get on the train and give this map a try!
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/catch/2-click-soleily-remix-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/catch/2-click-soleily-remix-sped-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/993242)
 
 [ClariS - CLICK (Soleily Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/763885#fruits) by [Zyzyx](https://osu.ppy.sh/users/2888013)  
 190 BPM, 4:31 | 6.84★  
@@ -119,7 +119,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 
 ---
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/1-that-schoolgirl.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/1-that-schoolgirl.jpg)](https://osu.ppy.sh/community/forums/topics/993240)
 
 [Rotten Blood - that schoolgirl](https://osu.ppy.sh/beatmapsets/707565#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)  
 297 BPM, 1:29 | [4K] 4.53★, [4K] 4.85★, [4K] 5.23★, [4K] 5.58★, [4K] 5.93★
@@ -132,7 +132,7 @@ For charters, this chart is technically sound. Chord allocation is used very str
 
 Contrary to the difficulty name, the mapset is actually not the worst. Far from it, it's one of Abraxos' more popular charts, and for good reason. Despite being one of his more straightforward charts, he shows strong fundamentals while sustaining his own flair, and the chart itself is, while a bit frantic, exciting and enjoyable.
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/2-autotheist-movements-i-ii-iii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/2-autotheist-movements-i-ii-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993239)
 
 [The Faceless - Autotheist Movements I, II & III](https://osu.ppy.sh/beatmapsets/429742#mania) by [XeoStyle](https://osu.ppy.sh/users/3377280)  
 80 BPM, 17:42 | [4K] 5.32★
@@ -143,7 +143,7 @@ Before XeoStyle embarked on his project to chart all of Parallax II however, he 
 
 Despite the chart being made over three years ago, it has shown over time to be very unique in multiple ways. The song choice and the chart's length stand out in particular; progressive metal is still rarely charted today, and 10+ minute songs arguably less so. The chart itself is also fairly strong given when it was made. If you find Parallax II to be too easy or too long (I don't blame you if it's the latter), *Autotheist Movements* will bring you an experience that nicely encapsulates the beauty of progressive metal marathons while adding a unique frenzied element to it.
 
-[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/3-regular-dan-phase-iii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/3-regular-dan-phase-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993238)
 
 [osu!mania 7K Dan Course - Regular Dan Phase III](https://osu.ppy.sh/beatmapsets/930218#mania) by [Jinjin](https://osu.ppy.sh/users/3360737) et al.  
 125 BPM, 9:59 | [7K] 7.32★, [7K] 7.47★, [7K] 8.14★, [7K] 8.66★, [7K] 9.30★
