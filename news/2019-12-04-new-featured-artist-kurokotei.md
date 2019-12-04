@@ -48,7 +48,7 @@ Here's a peek at some of what's available:
 
 ---
 
-Check out the whole selection over at [**Kurokotei**'s Featured Artist listing)(https://osu.ppy.sh/beatmaps/artists/58) for the full experience of what's on offer!
+Check out the whole selection over at [**Kurokotei**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/58) for the full experience of what's on offer!
 
 You may be wondering what's coming next week and to put it simply, it's only a matter of time before we cross the wasteland, so hang tight and see for yourself.
 
