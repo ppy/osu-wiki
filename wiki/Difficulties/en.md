@@ -19,10 +19,7 @@ A beatmap's **difficulty** describes the level of skill needed to complete it. T
 
 These are the typical levels of difficulty that a beatmap can fall under. Specific definitions and requirements of each can be found in their respective mode's [ranking criteria](/wiki/Ranking_Criteria).
 
-<!-- markdownlint-disable MD045 -->
-<!-- markdownlint-disable MD026 -->
 ### ![](/wiki/shared/mode/osu.png) osu!
-<!-- markdownlint-enable MD026 -->
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
@@ -57,7 +54,6 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
-<!-- markdownlint-enable MD045 -->
 
 ## Star rating
 
@@ -65,13 +61,11 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
 - ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
-<!-- markdownlint-enable MD045 -->
 
 Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.

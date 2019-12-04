@@ -700,9 +700,7 @@ British English spelling variants must be used when there are conflicting spelli
 - `skilful` instead of `skillful`
 - `analyse` instead of `analyze`
 
-<!-- markdownlint-disable MD026 -->
 ### osu!
-<!-- markdownlint-enable MD026 -->
 
 The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
 

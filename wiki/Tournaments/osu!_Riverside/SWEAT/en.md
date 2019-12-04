@@ -51,7 +51,6 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 ## Organisation
 
-<!-- markdownlint-disable MD045 -->
 | Position | Members |
 | :-- | :-- |
 | Host | ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) |
@@ -198,7 +197,6 @@ Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/m
 | --: | :-: | :-: | :-- | :-- |
 | **[stupud man](https://osu.ppy.sh/users/2141612)** ![][flag_US] | **4** | 0 | ![][flag_US] [Ventus720](https://osu.ppy.sh/users/2687477) | [#1](https://osu.ppy.sh/community/matches/56344335) |
 | **[Ecal](https://osu.ppy.sh/users/8384260)** ![][flag_US] | **4** | 1 | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) | [#1](https://osu.ppy.sh/community/matches/56344326) |
-<!-- markdownlint-enable MD045 -->
 
 ## Mappools
 

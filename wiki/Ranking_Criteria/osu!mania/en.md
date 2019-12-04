@@ -10,13 +10,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal
 - ![](/wiki/shared/diff/hard-m.png) Hard
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 ### Common terms
 
@@ -85,9 +83,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-m.png) Easy
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -106,9 +102,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-m.png) Normal
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -151,9 +145,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-m.png) Hard
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -187,9 +179,7 @@ If a Hard difficulty is required and used as the *lowest difficulty* of a beatma
 - **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
 - **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-m.png) Insane
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -214,9 +204,7 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-m.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 

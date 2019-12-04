@@ -10,13 +10,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
 - ![](/wiki/shared/diff/hard-s.png) Hard
 - ![](/wiki/shared/diff/insane-s.png) Insane
 - ![](/wiki/shared/diff/expert-s.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -87,9 +85,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu! difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-s.png) Easy
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -118,9 +114,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - Approach Rate should be 5 or less.
 - Overall Difficulty / HP Drain Rate should be between 1 and 3.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-s.png) Normal
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -158,9 +152,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - Approach Rate should be between 4 and 6.
 - Overall Difficulty / HP Drain Rate should be between 3 and 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-s.png) Hard
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -183,9 +175,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be between 5 and 7.
 - HP Drain Rate should be between 4 and 6.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-s.png) Insane
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -201,9 +191,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be between 7 and 9.
 - HP Drain Rate should be between 5 and 8.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-s.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
