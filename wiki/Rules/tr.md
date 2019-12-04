@@ -5,23 +5,23 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 ## Topluluk Kuralları
 
 1.  **Her kullanıcı yalnızca *TEK* hesaba sahip olabilir.** Kayıt esnasında açtığınız *ilk* hesabınız, açtığınız tarihten ebediyete dek, sizin tek hesabınızdır. O hesap SİZSİNİZ. Kardeşiniz, anneniz, babanız, herhangi bir arkadaşınız değil – SİZSİNİZ. Hesabınızı başka birisiyle asla paylaşmayın. Hesabınıza erişimi kaybetmeniz halinde yeni bir hesap açmanıza izin verilmeyecektir, hesabınızı güvende tutun.
-2. **Adil oynayın.** Size herhangi bir avantaj sağlayan üçüncü parti yazılımların kullanımı yasaktır. Makro, aim assist, oyun yavaşlatıcı gibi programlar buna dahil. Bir program sizin oynarken yapmanız gereken bir şeyi sizin için yapıyorsa o programı kullanmanız yasak.
+2. **Adil oynayın.** Size herhangi bir avantaj sağlayan üçüncü parti yazılımların kullanımı yasaktır. Makro, aim assist, oyun yavaşlatıcı gibi programlar ve benzerleri buna dahil. Bir program sizin oynarken yapmanız gereken bir şeyi sizin için yapıyorsa o programı kullanmanız yasak.
 3.  **Birbirinize karşı saygılı olun.** Hakaret veya düşmanlık gibi davranışlarının osu! topluluğunda yeri yok. Biz circle'lara tıklamak, davullara vurmak, meyve toplamak, 18 taneye kadar tuşa aynı anda basmak için burdayız; birbirimize şerefsizlik yapmak için değil.
 4.  **Kıroluk yapmayın.** Bu kuralı kırıp kırmadığınızdan emin değilseniz, muhtemelen kırıyorsunuz.
 5.  **Topluluğumuz her yaştan insanları bulunduruyor.** Yani, uyuşturucu kullanmak ve cinsellik gibi 18+/müstehcen konuların konuşulması yasak. Gerektiği yerde istisnalar olabilmesine rağmen siz konuşmalarınızı olabildiğince temiz tutun.
-6.  **Kuralların yeterli olmadığı yerde akıl mantık devreye girer.** Oyun yetkilileri, gerek gördükleri yerde kendi hükümlerini uygulayabilirler.
+6.  **Kuralların yeterli olmadığı yerde sağduyu devreye girer.** Oyun yetkilileri, gerek gördükleri yerde kendi hükümlerini uygulayabilirler.
 
 ## Oyun-İçi Sohbet Kuralları
 
-1.  **Düşünceli davranın, kanaldaki diğer kullanıcılara saygılı olun ve spam'dan kaçının.** Tek kişinin sohbetin yarısını kaplaması hoş bir durum değil, bu yüzden spam yapmayın. Diğer insanların da sohbeti kullandığını unutmayın!
-2.  **Sohbetteki sorunları moderatörlerin halletmesine izin verin.** Onlara !report komutuyla kural çiğneyenleri belirtin, gerisini onlar halletsin.
+1.  **Düşünceli davranın, kanaldaki diğer kullanıcılara saygılı olun ve spam yapmaktan kaçının.** Tek kişinin sohbetin yarısını kaplaması hoş bir durum değil, bu yüzden spam yapmayın. Diğer insanların da sohbeti kullandığını unutmayın!
+2.  **Sohbetteki sorunları moderatörlerin halletmesine izin verin.** [`!report` komutu ile](/wiki/Reporting_Bad_Behaviour) kural çiğneyenleri belirtin, gerisini moderatörler halletsin.
 3.  **Eğer biri susturulur veya kısıtlı moda alınırsa onları kendi haline bırakın ve onlar hakkında konuşmaya başlamayın.** Birisinin kısıtlı moda alınması yalnızca onları ve oyun yetkililerini ilgilendirir, başkalarını değil!
-4.  **İnsanları adil oynamaya teşvik edin. Hilecilere veya toksik kişilere ilgi göstermeyin.** Böyle insanlar maalesef var ve onlara ilgi göstermek onları ve başkalarını toksik olmaya teşvik ediyor. Onları sohbet komutu !report ile bildirin veya profillerindeki “Şikayet Et” butonunu kullanın ve yaşantınıza devam edin.
-5.  **Müstehcen muhabbetlerden olabildiğince uzak durarak sohbeti 7’den 70’e herkes için uygun ve temiz tutmaya özen gösterin.** Her yaştan bireyin bulunduğu bir topluluk için +18 içerik uygun değil. Özel mesajlarınızda istediğinizi yapın (mantık çerçevesinde) ancak herkese açık sohbetleri tüm kullanıcıların hatrına tertemiz tutun.
+4.  **İnsanları adil oynamaya teşvik edin. Hilecilere veya toksik kişilere ilgi göstermeyin.** Böyle insanlar maalesef var ve onlara ilgi göstermek onları ve başkalarını toksik olmaya teşvik ediyor. Onları sohbet komutu `!report` ile bildirin veya profillerindeki “Şikayet Et” butonunu kullanın ve yaşantınıza devam edin.
+5.  **Müstehcen muhabbetlerden olabildiğince uzak durarak sohbeti 7’den 70’e herkes için uygun ve temiz tutmaya özen gösterin.** Her yaştan bireyin bulunduğu bir topluluk için +18 içerik uygun değil. Özel mesajlarınızda istediğinizi (mantık çerçevesinde) yapın ancak herkese açık sohbetleri tüm kullanıcıların hatrına tertemiz tutun.
 6.  **İnsanlarla neler paylaştığınızın farkında olun, özellikle içerik rahatsız edici/mide bulandırıcıysa.** Eğer paylaşacağınız içeriğin uygun olup olmadığı hakkında iki defa düşünmeniz gerektiyse muhtemelen içeriğiniz paylaşmaya uygun değildir. Çok hızlı yanıp sönen ışık, şiddet, istismar gibi rahatsız edici veya mide bulandıran içerikleri paylaşmaktan kaçının.
 7.  **Konuyla alakalı ve yasal linkler paylaşın.** Kaçak dizi/anime paylaşım siteleri (Crunchyroll ve Animelab gibi lisanslı olanlar uygun) veya her türlü korsan yazılımla alakalı siteleri sohbetimizde görmek istemiyoruz. osu! dışında oyunlar için Twitch linklerini YALNIZCA #videogames kanalında paylaşabilirsiniz.
 8. **Discord, Teamspeak, Skype gibi üçüncü parti sohbet uygulamalarındaki sunucularınızın veya gruplarınızın reklamını yapmak yasak.** osu! sohbeti kişisel sunucularınız hakkında değil osu! hakkında. Eğer mecbursanız özel mesaj atın.
-9.  **Eğer dile özel kanallarda sohbete katılacaksanız dominant dili (#english'te İngilizce, #german'da Almanca vs.) konuşmak zorundasınız.** Kanalın dili açık bir şekilde belirtilmemişse (veya kanalın adından anlaşılmıyorsa, #thai'de Tayca, #polish'te Lehçe gibi) dominant dil İngilizcedir. Diğer kanalların aksine, #lobby ve #help kanallarında her dil konuşulabilir. *[Moderatörler](/wiki/People/Global_Moderation_Team) işlerini yaparken bu kurala uymak zorunda değillerdir.*
+9.  **Eğer dile özel kanallarda sohbete katılacaksanız baskın dili (#english'te İngilizce, #german'da Almanca vs.) konuşmak zorundasınız.** Kanalın dili açık bir şekilde belirtilmemişse (veya kanalın adından anlaşılmıyorsa, #thai'de Tayca, #polish'te Lehçe gibi) dominant dil İngilizcedir. Diğer kanalların aksine, #lobby ve #help kanallarında her dil konuşulabilir. *[Moderatörler](/wiki/People/Global_Moderation_Team) işlerini yaparken bu kurala uymak zorunda değillerdir.*
 
 ## Forum Kuralları
 
@@ -35,20 +35,14 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 ## Beatmap Gönderme Kuralları
 
-Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Glossary#bss). üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar, bir beatmap [editör](/wiki/editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur..
+*Not: Bu kurallar yalnızca Derecli beatmapler için değil, **gönderilen bütün beatmapler** için geçerlidir. Dereceli beatmapler için geçerli olan spesifik kurallar için bakınız: [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Beatmap hazırlanışı ile ilgili detaylı bir kural listesi [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) başlığı altında ayrıca mevcuttur..
+Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Glossary#bss) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar, bir beatmap [editör](/wiki/editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
 
 1. **Beatmapinizde bulunan her türlü içeriği kullanmak için izniniz olduğuna emin olun.** Bu, müzik, video, hitsoundlar, grafikler ve sizin kendinizin yaratmadığı herhangi bir başka içeriği de kapsar. Eğer kullanımı serbest bir içeriği nereden bulacağınızdan emin değilseniz, [Seçkin Sanatçılar](https://osu.ppy.sh/beatmaps/artists/) listemizde mevcut, gittikçe büyüyen müzik kütüphanemizden yararlanabilirsiniz. Tamamı %100 osu! için lisanslıdır!
-2.  **Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.
-3.  **Emek hırsızlığı yapmayın, başkalarının yapıtlarını taklit etmeyin.** Diğer insanların yapıtlarını onların apaçık izni olmadan kullanmayın veya karşıya yüklemeyin. Sadece bunlarla kısıtlı olmaksızın, temalar ve misafir zorluklar da buna dahildir.
-## Off-Topic Kuralları
-
-* Aşağıda belirtilen kurallar, aksi belirtilmediği sürece, YALNIZCA [Off-Topic](https://osu.ppy.sh/community/forums/52) altforumu için geçerlidir.
-
-1. **Off-Topic’teki hiçbir konunun değeri yoktur.** Gayet basitçe, çöplükten farksızdır. Eğer konu başlıklarınız sürekli Off-Topic forumuna taşınıyorsa, bilin ki ciddi bir tartışma için ortam hazırlamıyorlardır. Anladınız artık.
-2. **Aşırı aptallık kötüdür.** . Sevimli bir budala olmak iyidir, ve hatta bokpostlamanın başlıca prosedürü konumundadır. Hakiki aptallık asla iyi değildir. Eğer aradaki farkı ayırt edemiyorsanız, zaten bir kuralı çiğniyorsunuz.
-3. **Doğum günü başlıkları Off-Topic forumundan başka hiçbir yerde bulunmamalıdır.** Tüm doğum günü başlıkları en az üç (3) tane dans eden anime kızı içermek zorundadır, aksi halde acımasızca otobüsün altına fırlatılır.
+2. **Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.
+3. **Emek hırsızlığı yapmayın, başkalarının yapıtlarını taklit etmeyin.** Diğer insanların yapıtlarını onların apaçık izni olmadan kullanmayın veya karşıya yüklemeyin. Sadece bunlarla kısıtlı olmaksızın, temalar ve misafir zorluklar da buna dahildir.
+4. **[Şarkı İçeriği Kuralları](Song_Content_Rules) ve [Görsel İçerik Hususlarına](Visual_Content_Considerations) uyun.**
 
 ## Peki kuralları çiğnersem ne olur?
 
