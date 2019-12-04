@@ -124,33 +124,33 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [Rotten Blood - that schoolgirl](https://osu.ppy.sh/beatmapsets/707565#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)  
 297 BPM, 1:29 | [4K] 4.53★, [4K] 4.85★, [4K] 5.23★, [4K] 5.58★, [4K] 5.93★
 
-Abraxos is a charter who is more well-known for his extremely technical charts focused on difficult LN releases, heavy grace note/minijack usage and polyrhythms. His charts for [ExaVid](https://osu.ppy.sh/beatmapsets/649306) and [Rhuzerv](https://osu.ppy.sh/beatmapsets/846866) exemplify his style. His rendition of that schoolgirl might come as a pleasant surprise to some charters and players because of its mostly straight-forward nature.
+Abraxos is a charter who is more well-known for his extremely technical charts focused on difficult LN releases, heavy grace note/minijack usage and polyrhythms. His charts for [ExaVid](https://osu.ppy.sh/beatmapsets/649306) and [Rhuzerv](https://osu.ppy.sh/beatmapsets/846866) exemplify his style. His rendition of *that schoolgirl* might come as a pleasant surprise to some charters and players because of its mostly straightforward nature.
 
-Despite that schoolgirl being 90 seconds long, there's a lot to unpack. It starts with a few 1/6 bursts, then you enter unpredictable sections filled with short runs of 270 BPM broken trilly jumpstream, longer runs of 270 BPM dense jumpstream, jumpjacking, 1/8 bursts, and lots of LN accenting of different kinds to boot. In addition to being very dynamic, the mapset also has uprates (ranging from 1.1x to 1.4x) for even more hectic experiences. From a player's perspective, there will be something that will catch your eye in this chart.
+Despite *that schoolgirl* being 90 seconds long, there's a lot to unpack. It starts with a few 1/6 bursts, then you enter unpredictable sections filled with short runs of 270 BPM broken trilly jumpstream, longer runs of 270 BPM dense jumpstream, jumpjacking, 1/8 bursts, and lots of LN accenting of different kinds to boot. In addition to being very dynamic, the mapset also has uprates (ranging from 1.1x to 1.4x) for even more hectic experiences. From a player's perspective, there will be something that will catch your eye in this chart.
 
 For charters, this chart is technically sound. Chord allocation is used very strongly here, the LN accenting is about on par with what you'd get from other Abraxos charts (very good and clear), and the chart is holistically structured in a very coherent and fair manner. If you're new to charting, this is a good chart to look at to see what makes things click.
 
-Contrary to the difficulty name, the mapset is actually not the worst. Far from it, it's one of Abraxos' more popular charts, and for good reason. Despite being one of his more straight-forward charts, he shows strong fundamentals while sustaining his own flair, and the chart itself is, while a bit frantic, is exciting and enjoyable.
+Contrary to the difficulty name, the mapset is actually not the worst. Far from it, it's one of Abraxos' more popular charts, and for good reason. Despite being one of his more straightforward charts, he shows strong fundamentals while sustaining his own flair, and the chart itself is, while a bit frantic, exciting and enjoyable.
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/2-autotheist-movements-i-ii-iii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [The Faceless - Autotheist Movements I, II & III](https://osu.ppy.sh/beatmapsets/429742#mania) by [XeoStyle](https://osu.ppy.sh/users/3377280)  
 80 BPM, 17:42 | [4K] 5.32★
 
-Veteran charter and unbridled progressive metal fanboy XeoStyle is well-known for a few things: his more straight-forward charts like [Lone Digger](https://osu.ppy.sh/beatmapsets/537933), his more technical low-difficulty charts like [Pablo's Place](https://osu.ppy.sh/beatmapsets/630584), and his extremely ambitious progressive metal project, [The Parallax II: Future Sequence](https://osu.ppy.sh/beatmapsets/682489).
+Veteran charter and unbridled progressive metal fanboy XeoStyle is well-known for a few things: his more straightforward charts like [Lone Digger](https://osu.ppy.sh/beatmapsets/537933), his more technical low-difficulty charts like [Pablo's Place](https://osu.ppy.sh/beatmapsets/630584), and his extremely ambitious progressive metal project, [The Parallax II: Future Sequence](https://osu.ppy.sh/beatmapsets/682489).
 
-Before XeoStyle embarked on his project to chart all of Parallax II however, he had already charted multiple marathons for this. One of his more well-known marathons is Autotheist Movements I, II, & III; a 17 and a half minute behemoth with many twists and turns ahead. The chart itself is way too long to describe in just words, but the chart is harder than Parallax II due to Autotheist's much faster, denser and more frequent jumpstreams, faster chordjacks, and less break overall. Autotheist Movements is arguably more action-packed than Parallax II, but Parallax II feels less of an anxiety attack than Autotheist Movements in general.
+Before XeoStyle embarked on his project to chart all of Parallax II however, he had already charted multiple marathons for this. One of his more well-known marathons is *Autotheist Movements I, II & III*; a 17-and-a-half-minute behemoth with many twists and turns ahead. The chart itself is way too long to describe in just words, but the chart is harder than Parallax II due to Autotheist's much faster, denser and more frequent jumpstreams, faster chordjacks, and less break overall. *Autotheist Movements* is arguably more action-packed than Parallax II, but Parallax II feels less of an anxiety attack than *Autotheist Movements* in general.
 
-Despite the chart being made over three years ago, it has shown over time to be very unique in multiple ways. The song choice and the chart's length stand out in particular; progressive metal is still rarely charted today, and 10+ minute songs arguably less so. The chart itself is also fairly strong given when it was made. If you find Parallax II to be too easy or too long (I don't blame you if it's the latter), Autotheist Movements will bring you an experience that nicely encapsulates the beauty of progressive metal marathons while adding a unique frenzied element to it.
+Despite the chart being made over three years ago, it has shown over time to be very unique in multiple ways. The song choice and the chart's length stand out in particular; progressive metal is still rarely charted today, and 10+ minute songs arguably less so. The chart itself is also fairly strong given when it was made. If you find Parallax II to be too easy or too long (I don't blame you if it's the latter), *Autotheist Movements* will bring you an experience that nicely encapsulates the beauty of progressive metal marathons while adding a unique frenzied element to it.
 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/3-regular-dan-phase-iii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [osu!mania 7K Dan Course - Regular Dan Phase III](https://osu.ppy.sh/beatmapsets/930218#mania) by [Jinjin](https://osu.ppy.sh/users/3360737) et al.  
 125 BPM, 9:59 | [7K] 7.32★, [7K] 7.47★, [7K] 8.14★, [7K] 8.66★, [7K] 9.30★
 
-This is it. The absolute carbohydrate packed monster. This is what sets the difference from the skilled players from the true ETs. This is Regular Dan Phase III.
+This is it. The absolute carbohydrate packed monster. This is what sets the difference from the skilled players from the true ETs. This is *Regular Dan Phase III*.
 
-With nothing changed to the established structure, four skillsets are put to the test in the order of Jacks -> Tech -> Speed -> Chordstream. While Zenith looks as nutty as it is, each dan at this Phase are very difficult on their own right and holds no punches when it comes to testing a player's skill.
+With nothing changed to the established structure, four skillsets are put to the test in the order of Jacks, Tech, Speed, then Chordstream. While Zenith looks as nutty as it is, each of the Dans at this phase are very difficult in their own right and hold no punches when it comes to testing a player's skill.
 
 Surely it can't get any harder than this. Oh wait. Oh no.
 
