@@ -18,4 +18,4 @@ Jangan lupa membaca [peraturan](/wiki/Rules) osu! secara seksama!
 
 Setelah membaca peraturan, kamu sekarang sudah siap untuk memulai petualangan kamu di game ritme ini! Kamu dapat [menambah beatmap](/wiki/Installation#adding-beatmapsets) untuk bermain, [membuat skin](/wiki/Skinning), atau bisa juga [membuat beatmap](/wiki/Beatmapping). Kamu juga bisa mampir dan mengucapkan "Hai" di [subforum Introductions](https://osu.ppy.sh/community/forums/8) untuk berkenalan dengan pemain osu! dari seluruh dunia.
 
-Jika kamu butuh bantuan lebih lanjut dalam game, kamu dapat bertanya melewati [IRC](/wiki/IRC) (Internet Relay Chat) di channel `#help` dengan membuka konsol obrolan (tekan F8 atau F9 dalam game) lalu ketik `/join help`. Kamu juga dapat memposting pertanyaanmu di [subforum Help](https://osu.ppy.sh/community/forums/5).
+Jika kamu butuh bantuan lebih lanjut dalam game, kamu dapat bertanya melewati [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) di channel `#help` dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Kamu juga dapat memposting pertanyaanmu di [subforum Help](https://osu.ppy.sh/community/forums/5).
