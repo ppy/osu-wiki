@@ -4,8 +4,7 @@
 
 ## Beatmap Packs
 
-**비트맵 팩(Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다.
-[비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
+**비트맵 팩(Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다. [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
 
 ### 요구 사항
 
@@ -20,12 +19,12 @@
 
 ### Notes
 
-- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (e.g. [Auto Pilot](/wiki/AP)).
+- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/AP)).
 - 맵을 플레이한 뒤, [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 **`클리어한 맵`** 상태가 되었다면 로컬에서 해당 맵을 삭제해도 상관없습니다.
 
 ## Skill
 
-**스킬(Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보, 하이 랭커, Star-based.
+**스킬(Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보(Combo), 하이 랭커(High Ranker), 난이도 기반(Star-based).
 
 콤보(Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
 
@@ -37,7 +36,7 @@
 
 ---
 
-Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 해금할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/FC)이면서 랭크를 S로 클리어하면 해금할 수 있습니다.
+난이도 기반(Star-based) 메달은 특정 Star 이상의 비트맵을 클리어하며 해금할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/FC)이면서 랭크를 S로 클리어하면 해금할 수 있습니다.
 
 메달 해금은 가장 가까운 별의 갯수에 해당하는 메달을 해금하게 됩니다 (만약 6, 7성 메달을 해금하지 못했지만 7.8성을 클리어한 경우 7성 메달만 해금하게 됨). HR/DT와 같은 난이도 증가 모드를 사용할 수도 있습니다 (증가된 별을 기준으로 함). 맵은 반드시 랭크된 맵이어야 합니다.
 
