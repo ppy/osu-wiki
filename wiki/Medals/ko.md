@@ -47,7 +47,7 @@ Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 획득�
 
 ## Mod Introduction
 
-*참고: [Game Modifiers](/wiki/Game_Modifiers)*
+*참고: [게임 난이도 변화 모드](/wiki/Game_Modifiers)*
 
 The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
