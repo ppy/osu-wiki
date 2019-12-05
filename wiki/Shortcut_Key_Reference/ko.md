@@ -93,7 +93,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Shift` + `Right Arrow`: 선택한 그룹을 한 단계 아래로 변경
 - `Shift` + `Enter`: 선택한 그룹 펼치기/접기
 
-### 게임 모드
+### Game Modifiers
 
 *Main Page: [Game Modifiers](/wiki/Game_Modifiers)*
 
