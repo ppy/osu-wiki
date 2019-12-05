@@ -1,26 +1,27 @@
-# Medals
+# 메달
 
-Medals, previously known as *achievements*, are badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 7 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
+이전에 *업적*이라고 불리었던 메달은 유저가 특별한 목표를 달성했음을 나타내는 배지입니다. 현재 이 배지는, 종류별로 7개의 그룹으로 나뉘어져 있습니다: [비트맵 팩](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
 
-## Beatmap Packs
+## 비트맵 팩
 
-The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
+**비트맵 팩** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어하면 얻을 수 있습니다.
+[비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
 
-### Requirements
+### 요구 사항
 
-- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme).
-- The played game mode must be osu!standard.
-- Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
-  - From here, open the osu! client and let the client parse the files before playing the beatmaps.
-  - Alternatively, the player can download the songs inside manually one by one and it would still count.
-- Any variations (like different creator) of the song is not counted.
-  It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be signed in to the osu! client (not the website).
+- 플레이어는 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 다운로드한 맵 팩 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어해야 합니다.
+- 게임 모드는 osu!standard 이어야 합니다.
+- 테마 비트맵 팩을 다운로드하고, `.zip` 파일의 압축을 푼 뒤, 게임 설치 폴더 내의 `Songs` 폴더에 넣으세요.
+  - 여기서 osu!를 실행해 새롭게 추가된 비트맵을 인식할 수 있도록 해주세요.
+  - 다른 방법으로, 플레이어가 맵 팩 내의 곡을 수동으로 다운로드한 뒤 플레이할 수도 있습니다.
+- 바리에이션 곡(다른 제작자가 만든 맵)은 해당 곡을 플레이한 것으로 인정되지 않습니다.
+  **반드시** 맵 팩 내에 수록된 것과 곡, 제작자, 비트맵이 일치해야 합니다.
+- 해당 플레이어의 계정이 osu!클라이언트에 로그인되어 있어야 합니다 (웹사이트는 제외).
 
 ### Notes
 
-- Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
-- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme).
+- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (e.g. [Auto Pilot](/wiki/AP)).
+- 맵을 플레이한 뒤, [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 **`클리어한 맵`** 상태가 되었다면 로컬에서 해당 맵을 삭제해도 상관없습니다.
 
 ## Skill
 
