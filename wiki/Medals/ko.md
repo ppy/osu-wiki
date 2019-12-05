@@ -1,10 +1,10 @@
 # 메달
 
-이전에 *업적*이라고 불리었던 메달은 유저가 특별한 목표를 달성했음을 나타내는 배지입니다. 현재 이 배지는, 종류별로 7개의 그룹으로 나뉘어져 있습니다: [비트맵 팩](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
+이전에 *업적*이라고 불리었던 메달은 유저가 특별한 목표를 달성했음을 나타내는 배지입니다. 현재 이 배지는, 종류별로 7개의 그룹으로 나뉘어져 있습니다: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
 
-## 비트맵 팩
+## Beatmap Packs
 
-**비트맵 팩** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어하면 얻을 수 있습니다.
+**비트맵 팩 (Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어하면 얻을 수 있습니다.
 [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
 
 ### 요구 사항
@@ -25,27 +25,29 @@
 
 ## Skill
 
-The **Skill** medals are currently divided into three groups: Combo, High Ranker, and Star-based.
+**스킬 (Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보, 하이 랭커, Star-based.
 
-The Combo medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
+콤보 (Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 획득할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 획득할 수 없습니다.
 
-For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps. However, **do not search for or play unapproved beatmaps!**
-
----
-
-The High Ranker medals can be obtained by reaching a certain global ranking position in **any** game mode.
+1000, 2000 콤보 메달을 획득하려면 Approved 상태의 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
 
 ---
 
-The Star-based achivements are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing any map of a certain star difficulty. The *S* medals will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn a medal.
+하이 랭커 (High-Ranker) 메달은 **게임 모드와 관계없이** 글로벌 랭킹에서 특정 순위에 도달하면 획득할 수 있습니다.
+
+---
+
+Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 획득할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/FC)이면서 랭크를 S로 클리어하면 획득할 수 있습니다.
+
+메달 획득은 가장 가까운 별의 갯수에 해당하는 메달을 획득하게 됩니다 (만약 6, 7성 메달을 획득하지 못했지만 7.8성을 클리어한 경우 7성 메달만 획득하게 됨). HR/DT와 같은 난이도 증가 모드를 사용할 수도 있습니다 (증가된 별을 기준으로 함). 맵은 반드시 랭크된 맵이어야 합니다.
 
 ## Dedication
 
-The **Dedication** medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+**Dedication** 메달은 osu!standard에서 많이 플레이하거나, osu!catch에서 과일을 많이 수집하거나, osu!taiko에서 드럼을 많이 치거나, osu!mania에서 많은 키를 누름으로써 획득할 수 있습니다. 즉, 노력의 산물이죠!
 
 ## Mod Introduction
 
-*See also: [Game Modifiers](/wiki/Game_Modifiers)*
+*참고: [Game Modifiers](/wiki/Game_Modifiers)*
 
 The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
