@@ -27,23 +27,23 @@
 
 **스킬 (Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보, 하이 랭커, Star-based.
 
-콤보 (Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 획득할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 획득할 수 없습니다.
+콤보 (Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
 
-1000, 2000 콤보 메달을 획득하려면 Approved 상태의 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
-
----
-
-하이 랭커 (High-Ranker) 메달은 **게임 모드와 관계없이** 글로벌 랭킹에서 특정 순위에 도달하면 획득할 수 있습니다.
+1000, 2000 콤보 메달을 해금하려면 Approved 상태의 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
 
 ---
 
-Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 획득할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/FC)이면서 랭크를 S로 클리어하면 획득할 수 있습니다.
+하이 랭커 (High-Ranker) 메달은 **게임 모드와 관계없이** 글로벌 랭킹에서 특정 순위에 도달하면 해금할 수 있습니다.
 
-메달 획득은 가장 가까운 별의 갯수에 해당하는 메달을 획득하게 됩니다 (만약 6, 7성 메달을 획득하지 못했지만 7.8성을 클리어한 경우 7성 메달만 획득하게 됨). HR/DT와 같은 난이도 증가 모드를 사용할 수도 있습니다 (증가된 별을 기준으로 함). 맵은 반드시 랭크된 맵이어야 합니다.
+---
+
+Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 해금할 수 있으며, *Pass*, *S* 두 개의 종류가 있습니다. *Pass* 메달은 비트맵을 클리어(EZ/NF/HT 제외)하면 얻을 수 있고, *S* 메달은 Pass 메달의 조건 + [풀 콤보](/wiki/FC)이면서 랭크를 S로 클리어하면 해금할 수 있습니다.
+
+메달 해금은 가장 가까운 별의 갯수에 해당하는 메달을 해금하게 됩니다 (만약 6, 7성 메달을 해금하지 못했지만 7.8성을 클리어한 경우 7성 메달만 해금하게 됨). HR/DT와 같은 난이도 증가 모드를 사용할 수도 있습니다 (증가된 별을 기준으로 함). 맵은 반드시 랭크된 맵이어야 합니다.
 
 ## Dedication
 
-**Dedication** 메달은 osu!standard에서 많이 플레이하거나, osu!catch에서 과일을 많이 수집하거나, osu!taiko에서 드럼을 많이 치거나, osu!mania에서 많은 키를 누름으로써 획득할 수 있습니다. 즉, 노력의 산물이죠!
+**Dedication** 메달은 osu!standard에서 많이 플레이하거나, osu!catch에서 과일을 많이 수집하거나, osu!taiko에서 드럼을 많이 치거나, osu!mania에서 많은 키를 누름으로써 해금할 수 있습니다. 즉, 노력의 산물이죠!
 
 ## Mod Introduction
 
@@ -53,4 +53,4 @@ The **Mod Introduction** medals can be obtained by clearing maps with the specif
 
 ## Hush-Hush
 
-Medals of this kind have no obvious way to get them. The player must find out what needs to be done in order to unlock the medal. The title itself is a clue.
+이 종류의 메달은 해금 방법이 확실하게 알려져 있지 않습니다. 어떻게 해야 메달을 해금할 수 있는지 직접 찾아내야 합니다. 제목에 단서가 있으니 참고하세요!
