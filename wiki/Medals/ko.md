@@ -47,7 +47,7 @@ Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 해금�
 
 ## Mod Introduction
 
-*참고: [게임 난이도 변화 모드](/wiki/Game_Modifiers)*
+*참고: [Game Modifiers](/wiki/Game_Modifiers)*
 
 **Mod Introduction** 메달은 지정된 게임 난이도 변화 모드를 사용해 맵을 클리어하면 얻을 수 있습니다. 이 메달은 신규 플레이어들이 각각의 모드를 사용해보고 게임에 쉽게 적응할 수 있도록 하기 위해서 만들어졌습니다.
 
