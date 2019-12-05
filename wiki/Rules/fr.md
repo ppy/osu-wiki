@@ -50,10 +50,10 @@ Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvais
 
 Ces mauvaises choses incluent (*mais ne sont pas limitées à*):
 
-* L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
-* La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
-* La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
-* La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
+- L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
+- La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
+- La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
+- La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
 
 La durée des silences et autres infractions augmente exponentiellement et **automatiquement** à chaque infraction. Les modérateurs ne contrôlent pas la durée de temps de votre silence pour offense - les auteurs qui récidivent se trouveront bloqués hors du jeu pour une période de temps de plus en plus longue.
 

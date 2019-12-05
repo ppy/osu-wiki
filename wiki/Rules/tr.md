@@ -50,10 +50,10 @@ Kuralları herhangi bir şekilde çiğnemeniz durumunda, kötü sonuçlarına ka
 
 Kötü sonuçlar, *aşağıdakilerle sınırlı kalmamakla beraber*, şunları içerir:
 
-* Belirli bir süreliğine oyun içerisindeki sohbet yeteneğinizin elinizden alınması (susturulma cezası olarak da bilinir)
-* Kural ihlaline yol açan içeriklerin profilinizden, userpage üzerinden veya yüklemiş olduğunuz beatmaplerinizden kaldırılması
-* Userpage veya profil detaylarınızda değişiklikler yapma hakkının kaybedilmesi
-* Resmi ev sahipliği yapılan turnuvalarda oynama veya tur atlama hakkınızın elinizden alınması
+- Belirli bir süreliğine oyun içerisindeki sohbet yeteneğinizin elinizden alınması (susturulma cezası olarak da bilinir)
+- Kural ihlaline yol açan içeriklerin profilinizden, userpage üzerinden veya yüklemiş olduğunuz beatmaplerinizden kaldırılması
+- Userpage veya profil detaylarınızda değişiklikler yapma hakkının kaybedilmesi
+- Resmi ev sahipliği yapılan turnuvalarda oynama veya tur atlama hakkınızın elinizden alınması
 
 Susturulma cezaları ve diğer kural ihlallerin süresi **otomatik olarak** her seferinde katlanarak artar. Moderatörler aldığınız cezanın süresini control etmez – kuralları sürekli çiğneyenler kendilerini çok daha uzun süreler boyunca oyuna giremez bir konumda bulurlar.
     
