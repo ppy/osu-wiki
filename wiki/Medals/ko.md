@@ -4,7 +4,7 @@
 
 ## Beatmap Packs
 
-**비트맵 팩 (Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어하면 얻을 수 있습니다.
+**비트맵 팩 (Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다.
 [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
 
 ### 요구 사항
