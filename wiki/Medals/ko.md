@@ -4,7 +4,7 @@
 
 ## Beatmap Packs
 
-**비트맵 팩 (Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다.
+**비트맵 팩(Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다.
 [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
 
 ### 요구 사항
@@ -25,15 +25,15 @@
 
 ## Skill
 
-**스킬 (Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보, 하이 랭커, Star-based.
+**스킬(Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보, 하이 랭커, Star-based.
 
-콤보 (Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
+콤보(Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
 
 1000, 2000 콤보 메달을 해금하려면 Approved 상태의 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
 
 ---
 
-하이 랭커 (High-Ranker) 메달은 **게임 모드와 관계없이** 글로벌 랭킹에서 특정 순위에 도달하면 해금할 수 있습니다.
+하이 랭커(High-Ranker) 메달은 **게임 모드와 관계없이** 글로벌 랭킹에서 특정 순위에 도달하면 해금할 수 있습니다.
 
 ---
 
@@ -49,7 +49,9 @@ Star-based 메달은 특정 Star 이상의 비트맵을 클리어하며 해금�
 
 *참고: [게임 난이도 변화 모드](/wiki/Game_Modifiers)*
 
-The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+**Mod Introduction** 메달은 지정된 게임 난이도 변화 모드를 사용해 맵을 클리어하면 얻을 수 있습니다. 이 메달은 신규 플레이어들이 각각의 모드를 사용해보고 게임에 쉽게 적응할 수 있도록 하기 위해서 만들어졌습니다.
+
+한 번에 여러 개의 모드를 걸고 게임을 플레이하는 경우, **어떤 메달도 획득할 수 없다는 점**에 유의하시기 바랍니다.
 
 ## Hush-Hush
 
