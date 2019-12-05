@@ -113,16 +113,16 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 22:00 UTC+11 | 19:00 UTC+08 | ² |
 | Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **12:30 UTC** | 20:30 UTC+08 | 21:30 UTC+09 | ² |
-| Romania | ![][flag_RO] | ![][flag_BR] | Brazil | **16:30 UTC** | 18:30 UTC+02 | 13:30 UTC-03 | ² |
-| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 | ¹ |
-| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **19:30 UTC** | 14:30 UTC-05 | 20:30 UTC+01 | ² |
+| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **17:30 UTC** | 11:30 UTC-06 | 20:30 UTC+03 | ¹ |
+| Romania | ![][flag_RO] | ![][flag_BR] | Brazil | **17:30 UTC** | 19:30 UTC+02 | 14:30 UTC-03 | ² |
+| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **22:00 UTC** | 17:00 UTC-05 | 23:00 UTC+01 | ² |
 
 ### Sunday, 8 December 2019
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 14:00 UTC+11 | ³ |
-| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **04:00 UTC** | 23:00 (Sat.) UTC-05 | 12:00 UTC+08 | ³ |
 | Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ³ |
 | Poland | ![][flag_PL] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 | ³ |
 | Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
