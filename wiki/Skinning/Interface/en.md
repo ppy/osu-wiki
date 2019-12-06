@@ -13,9 +13,9 @@ Interface skinning elements are used in multiple game modes or parts of the clie
 
 ![](img/menu-background.jpg)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 (see notes) |
+| All | ![No][false] | ![No][false] | Normal | Centre | 2732x1536 (see notes) |
 
 Notes:
 
