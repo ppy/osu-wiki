@@ -27,11 +27,11 @@
 - \[10\] 우측 상단은 Osu! 주크박스로, 무작위한 순서로 노래가 재생됩니다.
     - 이전 곡
     - 재생
-    - 일시정지
-    - 정지 (the difference between Play and Stop is that Stop will reset the song to the beginning, while Pause simply pauses it)
+    - 일시중지
+    - 정지 (재생과 정지의 차이점은, 정지가 노래를 시작 부분으로 재설정하는 반면 일시중지는 단순히 일시 중지한다는 것이다.)
     - 다음 곡
-    - 곡 정보. This toggles the top bar showing the song info between being permanent and temporary. When permanent, the info bar will stay visible until it fades out with the rest of the UI. When temporary, it will disappear a little while after a song has been chosen. It will stay hidden until it is toggled again, or another song plays.
-- \[11\] 상단 중앙에는 비트맵의 수, 오스!클라이언트의 실행 시간과 현재 컴퓨터의 시간을 볼 수 있습니다.
+    - 곡 정보. 노래 정보를 보여주는 상단 바를 잠시 혹은 지속적으로 보이게 전환합니다. 지속적으로 보여질 경우, 정보 표시 줄은 UI의 나머지 부분과 함께 사라질 때까지 계속 볼 수 있습니다. 잠시동안 보여질 경우에는, 노래가 선택 된 뒤 조금 있다가 사라집니다. 이는 다시 전환되거나, 다른 노래가 재생될 때까지 계속 보이지 않습니다.
+- \[11\] 상단 중앙에는 비트맵의 수, osu!클라이언트의 실행 시간과 현재 컴퓨터의 시간을 볼 수 있습니다.
 - \[12\] 좌측 상단에는 사용자 패널이 있습니다. 누르면 사용자 설정이 나옵니다.
 
 ## 사용자 설정
@@ -63,7 +63,7 @@
 1. 호스트 여부
 2. 프로필 정보
 3. 주크박스
-4. 플레이어 리스트 - 플레이어의 이름, 호스트 여부, 모드 활성화 상태(활성화를 하고 싶다면 \#7번을 보세요), 오스 랭킹, 팀이 존재한다면 팀을 표시합니다.
+4. 플레이어 리스트 - 플레이어의 이름, 호스트 여부, 모드 활성화 상태(활성화를 하고 싶다면 \#7번을 보세요), osu! 랭킹, 팀이 존재한다면 팀을 표시합니다.
 5. 방의 이름과 패스워드 설정 여부
 6. 선택된 비트맵
 7. 선택된 모드(\#12 참조)입니다. 모드 자유 버튼은 각 플레이어가 각자의 모드를 선택 가능하게 하거나 불가능하게 합니다. 만약 선택되어 있다면, 각 플레이어는 *곡의 빠르기를 제어하는 모드를 제외한(예를 들면 Double Time 과 같은)* 모드를 선택 가능합니다. 만약 아니라면, 호스트가 플레이어 전체의 모드를 바꿉니다. 어떤 경우에도 호스트는 모드를 통하여 곡의 빠르기를 제어할 수 있습니다.
@@ -100,7 +100,7 @@
 - **Sliders**: 이 비트맵의 슬라이더의 수 입니다.
 - **Spinners**: 이 비트맵의 스피너의 수 입니다.
 - **OD**: 이 비트맵의 전반적인 난이도 입니다.
-- **HP**: 플레이 중 체력 게이지의 유출 비율 값입니다. osu!스탠다드 모드에서, 노트 하나를 놓칠 때 체력이 얼마나 없어지는지, 체력 게이지가 얼마나 빨리 닳는지, 노트 하나를 맞췄을 때 체력을 얼마나 잃는지 표시합니다. osu!매니아 모드에선, 가만히 있을 때 체력 게이지가 줄지 않습니다. 태고 모드에선, 체력 게이지가 얼마나 느리게 닳는지, 노트를 놓쳤을 때 체력이 얼마나 닳는지 표시합니다. 캐치 더 비트 모드에선 스탠다드 모드와 같습니다.
+- **HP**: 플레이 중 체력 게이지의 유출 비율 값입니다. osu!standard 모드에서, 노트 하나를 놓칠 때 체력이 얼마나 없어지는지, 체력 게이지가 얼마나 빨리 닳는지, 노트 하나를 맞췄을 때 체력을 얼마나 잃는지 표시합니다. osu!mania 모드에선, 가만히 있을 때 체력 게이지가 줄지 않습니다. osu!taiko 에선, 체력 게이지가 얼마나 느리게 닳는지, 노트를 놓쳤을 때 체력이 얼마나 닳는지 표시합니다. osu!catch 모드에선 osu!standard 모드와 같습니다.
 - **Stars**: 이 비트맵의 별 난이도 입니다. 비트맵의 선택 페이지에서 시각적으로 보여집니다.
 
 ### 그룹과 정렬
@@ -145,7 +145,7 @@
 
 *Note: 곡을 검색하기 위해선 채팅창 혹은 설정 화면을 열면 안되며, 만약 열려있다면, 입력한 글자가 채팅창이나, 옵션의 검색으로 넘어갑니다.*
 
-By default, any search will be matched against the beatmaps' artists, titles, creators, and tags.
+기본적으로, 검색은 비트맵의 아티스트, 제목, 제작자, 태그와 일치합니다.
 
 이러한 필터를 사용하는 것 외에도, 지원되는 필터 중 하나의 값(예를 들면, `ar=9`)과 결합하여 다른 메타데이터를 검색할 수 있습니다.
 
@@ -185,14 +185,14 @@ By default, any search will be matched against the beatmaps' artists, titles, cr
 
 여기에는 상황에 따라 다음과 같은 메세지 박스가 표시됩니다:
 
--   "Not Submitted" 박스는 아직 Beatmap Submission System(비트맵 심사 시스템)를 통해 osu!서버에 올리지 않은 비트맵에 표시됩니다.
--   "Update to latest version"박스는 오스!서버에 새 버전의 비트맵이 올라왔을때 표시되며, 박스를 눌러 최신버 전으로 업데이트할 수 있습니다.
-  - **주의:** 구버전은 덮어쓰여지며, 복구할 수 없습니다. 만약 구버전의 비트맵을 보존하고 싶으면 osu!폴더 외에 다른 곳에 백업하거나 업데이트하지 마십시오.
--   "Latest pending version" 박스는 현재 가지고 있는 비트맵이 오스!서버에 있는 업로드되었지만 아직 랭크되지 않았음을 의미합니다.
--   로컬 랭킹도 이 곳에 표시됩니다.
--   "No records set!"박스는 해당 게임 모드에서 당신이 플레이하지 않거나, 클리어하지 못한 맵일 경우에 표시됩니다.
-    -   **주의:** 당신의 멀티플레이 기록은 당신이 **직접** 리플레이 저장 후에 등록을 하지 않는 이상 등록되지 않습니다.
--   "Not yet uploaded'박스는 당신이 비트맵을 만들었지만 아직 업로드하지 않은 것을 뜻합니다.
+- "Not Submitted" 박스는 아직 비트맵 심사 시스템을 통해 osu!서버에 올리지 않은 비트맵에 표시됩니다.
+- "Update to latest version" 박스는 osu!서버에 새 버전의 비트맵이 올라왔을 때 표시되며, 버튼을 눌러 최신버전으로 업데이트 할 수 있습니다.
+  - **주의:** 구버전은 덮어쓰여지며, 복구할 수 없습니다. 만약 스코어 보존등의 이유로, 구버전의 비트맵을 보존하고 싶으면 업데이트하지 마십시오.
+- "Latest pending version" 박스는 현재 가지고 있는 비트맵이 osu!서버에 업로드되었지만 아직 랭크되지 않았음을 의미합니다.
+- 만약 비트맵의 보기 설정과 일치하는 리플레이가 있다면, 비트맵의 순위/재생 상태를 나타내는 박스 대신 표시됩니다. 이는 위 그림에 나타나 있습니다.
+  - 공개 순위(예: 글로벌, 친구 등)에서는 플레이어의 최고 기록이 리더보드 순위와 함께 하단에 표시됩니다.
+- "No records set!" 박스는 현재 보기 설정에 플레이 기록이 없다는 것을 의미합니다(비트맵을 방금 다운로드했거나 편집한 경우 일반적으로 로컬 보기 설정에 표시됨).
+  - 주의: 멀티 플레이 점수는 기록으로 계산되지 않습니다.
 
 보기 모드는 다음과 같습니다.
 
@@ -235,13 +235,13 @@ By default, any search will be matched against the beatmaps' artists, titles, cr
 
 `Back`을 누르거나 `ESC`키를 눌러 메인 메뉴로 나갈 수 있습니다.
 
-"Mode"버튼을 누르면 **오스에서 플레이 가능한 게임 모드 목록**가 열립니다.
+"Mode"버튼을 누르면 **osu!에서 플레이 가능한 게임 모드 목록**가 열립니다.
 
 원하는 게임 모드를 선택하면 그 모드로 바뀝니다.
 
 혹은 단축키를 눌러 모드를 바꿀 수 있습니다.
 
-단축키는 각각 `CTRL`키와 `1` (![][Osu!] [스탠다드 모드](/wiki/osu!)), `2` (![][Taiko] [태고 모드](/wiki/osu!taiko)), `3` (![][Ctb] [캐치 더 비트](/wiki/osu!catch)), `4` (![][Mania] [마니아 모드](/wiki/osu!mania))입니다.
+단축키는 각각 `CTRL`키와 `1` (![][Osu!] [osu!standard](/wiki/osu!)), `2` (![][Taiko] [osu!taiko](/wiki/osu!taiko)), `3` (![][Ctb] [osu!catch](/wiki/osu!catch)), `4` (![][Mania] [osu!mania](/wiki/osu!mania))입니다.
 
 배경의 투명하게 표시된 아이콘은 현재 선택된 모드를 나타냅니다.
 
@@ -265,7 +265,7 @@ By default, any search will be matched against the beatmaps' artists, titles, cr
 -   `삭제...`를 누르거나 `2`를 누르면 노래 전체나 그 비트맵만을 삭제할 수 있습니다. 삭제하기 전에 한 번 더 확인합니다.
 -   `플레이 한 것으로 표시`를 누르거나 `3`을 누르면 플레이하지 않은 비트맵을 플레이 한 것으로 표시합니다.
 -   `로컬 스코어보드 초기화`를 누르거나 `4`를 누르면 로컬 스코어를 모두 지웁니다.
--   `편집`을 누르거나 `5`를 누르면 오스!맵 에디터에서 선택한 비트맵을 엽니다.
+-   `편집`을 누르거나 `5`를 누르면 osu!맵 에디터에서 선택한 비트맵을 엽니다.
 -   `취소`를 누르거나 `6` 또는 `ESC`키를 누르면 선곡 화면으로 돌아갑니다.
 
 비트맵 관리 옵션 창을 띄우고 있을 때는 채팅창이나 확장 채팅 인터페이스를 띄울 수 없습니다.
@@ -278,7 +278,7 @@ By default, any search will be matched against the beatmaps' artists, titles, cr
 
 ### 성적 화면
 
-![스탠다드 모드 성적 화면](img/Accuracy_osu!.jpg)
+![osu!standard 성적 화면](img/Accuracy_osu!.jpg)
 
 이 화면은 성적 화면입니다. 무사히 맵을 통과했을 때 뜹니다. 아래로 스크롤을 내리거나 "Online Ranking"버튼을 눌러 아래에 있는 온라인 랭킹을 볼 수 있습니다.
 
@@ -286,15 +286,15 @@ By default, any search will be matched against the beatmaps' artists, titles, cr
 
 성적 화면은 게임 모드에 따라 화면이 바뀝니다.
 
-![태고 모드 성적 화면](img/Accuracy_Taiko.jpg)
+![osu!taiko 성적 화면](img/Accuracy_Taiko.jpg)
 
-![마니아 모드 성적 화면](img/Accuracy_Mania.jpg)
+![osu!mania 성적 화면](img/Accuracy_Mania.jpg)
 
-![캐치 더 비트 성적 화면](img/Accuracy_CtB.jpg)
+![osu!catch 성적 화면](img/Accuracy_CtB.jpg)
 
 ### 온라인 리더보드
 
-![오스! 온라인 리더보드 예시. (6)번은 수정 됨.](img/Osu!_Online_score.jpg)
+![osu! 온라인 리더보드 예시. (6)번은 수정 됨.](img/Osu!_Online_score.jpg)
 
 이것은 온라인 리더보드입니다. 스크롤을 내리거나 "Online Ranking"버튼을 눌러 올 수 있습니다. 로컬 랭킹, 온라인 랭킹, 비트맵 평점 순으로 표시됩니다.
 
