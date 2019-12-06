@@ -16,7 +16,6 @@ This is the single colour version of the osu! cookie logo. This version of the l
 
 Please use the original file as the base, and do not create the logo from scratch.
 
-
 #### Full colour
 
 ![](img/usage-full-colour.png)
@@ -39,9 +38,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ![](img/good-single-any-colors.jpg "You can use any colour for the cookie.")
 
-![](img/good-single-linear-gradient.jpg "You can add a linear gradient to the cookie.")
-
-*Note: Radial gradients are not recommended as the ring and the middle element might appear in completely different colours.*
+![](img/good-single-linear-gradient.jpg "You can add a linear gradient to the cookie. Radial gradients are not recommended as the ring and the middle element might appear in completely different colours.")
 
 ![](img/good-single-artwork-mask.jpg "You may mask an artwork as a texture for the cookie; however, the cookie must maintain a good constrast with the background.")
 
