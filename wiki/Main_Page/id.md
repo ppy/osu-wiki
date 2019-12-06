@@ -1,10 +1,9 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentang osu!
+Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentang osu!.
 </div>
 
 
