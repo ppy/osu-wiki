@@ -299,4 +299,8 @@ All users listed below were added on 2019-02-16.
 - Moved [Realazy](https://osu.ppy.sh/users/918297) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-29)
 - Moved [Sinnoh](https://osu.ppy.sh/users/4236057) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations and overall insufficient nomination quality (2019-11-29)
 
-<!-- last update: 2019-12-04 20UTC, last change: Move Sinnoh to probation -->
+## December
+
+- Added [clayton](https://osu.ppy.sh/users/3666350) to Project Loved Team (2019-12-03)
+
+<!-- last update: ^ -->
