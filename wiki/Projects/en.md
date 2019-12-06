@@ -14,7 +14,7 @@
     -   [GitHub](https://github.com/ppy/osu-performance)
 -   [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—A release of the initial game client.
 -   [osu! wiki](https://osu.ppy.sh/community/forums/topics/68479)—Houses information about osu!.
-    -   [Website](/wiki/)
+    -   [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/)
 -   osu! web—the browser-facing portion of osu!.
     -   [GitHub](https://github.com/ppy/osu-web) | [Website](https://osu.ppy.sh/home)
 -   osu!lazer—The future of osu! and the beginning of an open era.
