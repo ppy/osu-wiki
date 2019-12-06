@@ -235,7 +235,7 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
-*For cookie usage guidelines, see: [Legal/Identity Guidelines](/wiki/Legal/Identity_Guidelines)*
+*For cookie usage guidelines, see: [Brand identity guidelines](/wiki/Brand_identity_guidelines)*
 
 ![Screenshot of the main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 

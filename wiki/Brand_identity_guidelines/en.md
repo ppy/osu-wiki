@@ -1,8 +1,4 @@
----
-legal: true
----
-
-# osu! identity guidelines
+# Brand identity guidelines
 
 ## osu! cookie logo
 
