@@ -1,5 +1,6 @@
 ---
 layout: main_page
+needs_cleanup: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
