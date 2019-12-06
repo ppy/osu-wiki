@@ -13,14 +13,13 @@ Interface skinning elements are used in multiple game modes or parts of the clie
 
 ![](img/menu-background.jpg)
 
-| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested Size |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | Centre | 2732x1536 (see notes) |
+| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 (see notes) |
 
 Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required.
-- osu! does not support the HD version of this element. Instead, use the "HD" version as the SD version.
 - This element is positioned in the centre and is set to cover (fill the entire width and height while keeping its aspect ratio, but crop anything that is outside the game window).
 - By default, osu! has a set of background images that it will cycle through.
   - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
