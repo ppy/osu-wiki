@@ -146,7 +146,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 -   [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103)—Create and manage your osu! collections easier.
     -   [GitHub](https://github.com/Piotrekol/CollectionManager)
 -   [mylittleosu](https://osu.ppy.sh/community/forums/topics/199196)—A beatmap download manager for the bloodcat mirror.
-    -   [Google Drive](https://drive.google.com/file/d/0B3zYdB_JDtziMi0xTkFDSGZiOVE/view?usp=drive_web) (inactive)
 -   [OSU Beatmap downloader](https://osu.ppy.sh/community/forums/topics/134646)—A tool to easily download beatmaps from the bloodcat mirror, featuring an in-game interface.
 -   [osu!grab](https://osu.ppy.sh/community/forums/topics/259116)—Improvements to browser beatmap downloading.
     -   [GitHub](https://github.com/mfaishalakbar/osu-grab)
@@ -172,7 +171,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 -   [ezpp!](https://osu.ppy.sh/community/forums/topics/466740)—A browser extension for calculating pp.
     -   [GitHub](https://github.com/oamaok/ezpp)
 -   [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346)—A status signature generator with osu! next design.
-    -   [GitHub](https://github.com/Lemmmy/osusig) | [Website](https://lemmmy.pw/osusig/) (inactive)
+    -   [GitHub](https://github.com/Lemmmy/osusig)
 -   [osu!Post](https://osu.ppy.sh/community/forums/topics/164486)—Live osu! status for your signatures.
     -   [Website](http://osupost.givenameplz.de)
 -   [osuplus](https://osu.ppy.sh/community/forums/topics/408541)—A script that adds additional features to the website.
@@ -194,14 +193,12 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 -   [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483)—Write player stats into a file, which can then be displayed using Open Broadcaster Software.
     -   [GitHub](https://github.com/albinohat/osu_stats_watcher)
 -   [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283)—Expands pp into include other metrics such as stamina, reaction, and memory.
-    -   [Website](http://osuskills.tk) (inactive)
 -   [osu!Stats](https://osu.ppy.sh/community/forums/topics/51911)—Search scores and player statistics.
     -   [Website](https://osustats.ppy.sh/)
 -   [osu!track](https://osu.ppy.sh/community/forums/topics/212151)—A tool that allows players to track their progress in-game and see visually see their improvement over time.
     -   [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
 -   [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167)—The in-game IRC bot for osu!track.
 -   [osu!widget](https://osu.ppy.sh/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count.
-    -   [BitBucket](https://bitbucket.org/Pannari/osu-widget) (inactive)
 -   [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031)—Calculates and displays earned pp while playing on the fly.
     -   [GitHub](https://github.com/KedamaOvO/RealTimePPDisplayer)
 
@@ -230,7 +227,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
     -   [Website](https://radio.yas-online.net)
 -   [osu!trace](https://osu.ppy.sh/community/forums/topics/303844)—A cursor tracing program. Can be used for comparsions, show how a beatmap flows, etc.
 -   [osu!tt](https://osu.ppy.sh/community/forums/topics/302790)—Keeps track of your game client's uptime.
-    -   [GitHub](https://github.com/Flanster/osuTT) (inactive)
 -   [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236)—Organize, listen, and look up songs outside of the game client.
     -   [BitBucket](https://bitbucket.org/Dayanto/osu-music-library)
 -   [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878)—Test how fast you can spin your mouse cursor.
