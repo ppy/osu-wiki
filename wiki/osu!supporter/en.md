@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # osu!supporter
 
 *For the osu!supporter page from the website, see: [support the game](https://osu.ppy.sh/home/support)*

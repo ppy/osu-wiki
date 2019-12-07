@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Glossary
 
 Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.

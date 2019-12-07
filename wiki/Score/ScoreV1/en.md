@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- TODO: might be a useless article -->
+
 <!-- wiki -->
 [Score main wikilink]: ../ "Score"
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"

@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Installation
 
 *See also: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->

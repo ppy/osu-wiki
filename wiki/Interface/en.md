@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!--Logo definitions-->
 [Osu!]: /wiki/shared/mode/osu.png
 [Taiko]: /wiki/shared/mode/taiko.png

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Precyzja
 
 Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Termin ten stosuje się w dwóch przypadkach. Pierwszy to precyzja na danej beatmapie liczona poprzez zsumowanie wartości trafień każdego obiektu na beatmapie w stosunku do najwyższej wartości dla wszystkich możliwych obiektów. Drugi to ogólna ważona precyzja gracza, która większy nacisk kładzie na lepsze zagrania.

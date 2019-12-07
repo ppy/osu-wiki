@@ -1,4 +1,10 @@
+---
+needs_cleanup: true
+---
+
 # Accuracy
+
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
 Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy which is dependent on the submitted score's accuracy.
 

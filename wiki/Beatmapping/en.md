@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Beatmapping
 
 **Beatmapping** is the process of creating [beatmaps](/wiki/Beatmaps) in osu! for players to play.
