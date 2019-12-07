@@ -14,7 +14,7 @@
 
 ![메인 메뉴](img/Introscreen.jpg)
 
-- \[1\] [osu!cookie](/wiki/Glossary/#cookie) 는 재생되고 있는 노래의 설정된 [BPM](/wiki/BPM)에 맞춰 뜁니다. 또한 곡의 음량에 따라 osu!cookie 막대의 길이가 바뀝니다. 노래가 재생되고 있지 않으면, 60BPM에 맞추어 뜁니다.
+[osu!cookie](/wiki/Glossary/#cookie) \[1\]는 재생되고 있는 노래의 설정된 [BPM](/wiki/BPM)에 맞춰 뜁니다. 또한 곡의 음량에 따라 osu!cookie 막대의 길이가 바뀝니다. 노래가 재생되고 있지 않으면, 60BPM에 맞추어 뜁니다.
 
 - \[2\] Play(`P`) 를 누르거나 로고를 클릭하면 플레이 메뉴로 넘어갑니다.
 - \[3\] Edit(`E`) 를 누르면 에디터 모드의 선곡화면으로 이동합니다.
