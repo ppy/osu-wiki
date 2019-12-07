@@ -1,8 +1,7 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
 欢迎来到osu!wiki，一个包含大量osu!相关信息的项目
 </div>
@@ -58,4 +57,3 @@ layout: "main_page"
 
 </div>
 </div>
-
