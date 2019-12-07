@@ -14,7 +14,7 @@ These shortcuts work anywhere:
   - If playing or at the results screen, this will queue the command to be executed after returning to song selection.
 - `Ctrl` + `F11`: Toggle frame times
 - `F7`: Toggle frame rate limiter
-  - Pressing this will cycle through `120fps`, `240fps`, and `Unlimited (gameplay)` but not enable `VSync`.
+  - Pressing this will cycle through `Power Saving`, `Optimal`, and `Unlimited (gameplay)` but not enable `VSync`.
 - `F8`: Toggle chat window
 - `F9`: Toggle extended chat window
 - `F10`: Toggle all mouse buttons (except for mouse wheel)
