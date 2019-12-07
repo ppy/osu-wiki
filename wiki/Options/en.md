@@ -107,14 +107,14 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | --- | --- |
 | `VSync` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 | `Power Saving` | Limits the game client to twice the refresh rate of your monitor. |
-| `Optimal` | Limits the game client to eight times the refresh rate of your monitor, usually between 480–960fps. |
+| `Optimal` | Limits the game client to eight times the refresh rate of your monitor, capping at 960fps. |
 | `Unlimited (gameplay)` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 
 - `VSync` explanation: In layman terms, using VSync will force the game wait for the entire frame to load before displaying it.
   - You may want to use this if you see some "tearing" (when the bottom portion of the game is lagging behind the upper portion of the game).
   - Despite what the point above stated, this may cause some lag or slowdowns because the game client has to wait for each frame to load.
 - `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
-  - When you are doing anything but playing a beatmap, the frame rate is limited to 240fps.
+  - When you are not playing a beatmap, the frame rate is limited to twice the refresh rate of your monitor, or 240fps, whichever is higher.
   - This option is **not recommended**. Using the `Unlimited (gameplay)` option can lead to stutters.
   - Using the `Optimal` option instead offers imperceivable changes in system (input to output) latency when compared to `Unlimited (gameplay)`.
 
