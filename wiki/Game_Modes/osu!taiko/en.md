@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
 [Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!taiko"
 [Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"

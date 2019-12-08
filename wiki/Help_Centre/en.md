@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Help Centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"

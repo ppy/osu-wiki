@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # osu!catch
 
 ## Skinning elements
