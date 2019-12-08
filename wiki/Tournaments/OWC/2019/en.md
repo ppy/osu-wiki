@@ -104,37 +104,59 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 7 December 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 22:00 UTC+11 | 19:00 UTC+08 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_KR] | South Korea | **12:30 UTC** | 20:30 UTC+08 | 21:30 UTC+09 | ² |
-| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **17:30 UTC** | 11:30 UTC-06 | 20:30 UTC+03 | ¹ |
-| Romania | ![][flag_RO] | ![][flag_BR] | Brazil | **17:30 UTC** | 19:30 UTC+02 | 14:30 UTC-03 | ² |
-| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **22:00 UTC** | 17:00 UTC-05 | 23:00 UTC+01 | ² |
-
-### Sunday, 8 December 2019
+### Saturday, 14 December 2019
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 14:00 UTC+11 | ³ |
-| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **04:00 UTC** | 23:00 (Sat.) UTC-05 | 12:00 UTC+08 | ³ |
-| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ³ |
-| Poland | ![][flag_PL] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 | ³ |
-| Romania | ![][flag_RO] | ![][flag_TW] | Taiwan | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
-| Romania | ![][flag_RO] | ![][flag_KR] | South Korea | **12:30 UTC** | 14:30 UTC+02 | 21:30 UTC+09 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **14:00 UTC** | 11:00 UTC-03 | 23:00 UTC+09 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_DE] | Germany | **15:30 UTC** | 15:30 UTC | 16:30 UTC+01 | ¹ |
+| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **12:00 UTC** | 15:00 UTC+03 | 21:00 UTC+09 | ² |
+| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 | ² |
+
+### Sunday, 15 December 2019
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 12:00 UTC+09 | ³ |
+| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 14:00 UTC+01 | 16:00 UTC+03 | ³ |
+| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 | ³ |
+| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ³ |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **20:00 UTC** | 14:00 UTC-06 | 20:00 UTC | ¹ |
 
 ¹ Winner bracket encounter  
 ² Loser bracket encounter  
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [FujuniseikouyuuP - Sayonara Lechenaultia (Meg) \[Collab EXTRA\]](https://osu.ppy.sh/beatmapsets/703769#osu/1488898)
+  - [Ryu\* vs. L.E.D.-G vs. ZUN - PARADISE GHOST (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1074982#osu/2249464)
+  - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
+  - [Co shu Nie - asphyxia (Gillstar) \[constriction\]](https://osu.ppy.sh/beatmapsets/895512#osu/1871128)
+  - [Yorushika - Hachigatsu, Bou, Tsukiakari (Delis) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/963814#osu/2017880)
+  - [Pastel*Palettes - Happy Synthesizer (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+- Hidden
+  - [lapix - Nexta (Realazy) \[NEUROTRANSMISSION\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2195883)
+  - [LiLA\'c Records - Maze of Vapor (Brutal Core mix) (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1075008#osu/2249551)
+  - [DragonForce - Ring of Fire (MashaSG) \[sdafsf's Extreme\]](https://osu.ppy.sh/beatmapsets/717015#osu/1634985)
+- HardRock
+  - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) (Zapy) \[Overcute\]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
+  - [Camellia - Proluvies (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/283815#osu/641605)
+  - [Nekomata Master+ - squall (Reisen Udongein) \[Extra\]](https://osu.ppy.sh/beatmapsets/127772#osu/323907)
+- DoubleTime
+  - [kozato - Izayoi Sakura (Gust) \[Firika's Insane\]](https://osu.ppy.sh/beatmapsets/893573#osu/1895932)
+  - [Niko - Night of Fire (Gabi) \[Insane\]](https://osu.ppy.sh/beatmapsets/18923#osu/66820)
+  - [Draw the Emotional - Morning glow (UnitedWeSin) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146626#osu/363298)
+  - [HuMeR - ChaserXX (Realazy) \[KKip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- FreeMod
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[IOException's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1702072)
+  - [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Expert\]](https://osu.ppy.sh/beatmapsets/928646#osu/1939633)
+- Tiebreaker
+  - **[Fuki - Sacred Bones Riot (IsomirDiAngelo) \[Slay My Sins\]](https://osu.ppy.sh/beatmapsets/1009680#osu/2248906)**
 
 ### Semifinals
 
@@ -262,6 +284,22 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 ---
 
 ## Match results
+
+### Semifinals
+
+| Saturday, 2019-12-07 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56794699) |
+| Taiwan ![][flag_TW] | 4 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56796751) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/56805726) |
+| Romania ![][flag_RO] | 4 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/56805696) |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/56812733) |
+
+| Sunday, 2019-12-08 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/56819778) |
+| Brazil ![][flag_BR] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56829847) |
+| **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/56832071) |
 
 ### Quarterfinals
 
