@@ -135,6 +135,36 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Regional phase
 
+#### Grand Finals
+
+**[Download the map pack here! (113 MB)](https://mega.nz/#!V8l13Y4a!I8eoZ7pIZ__B7C_lFTFlWeDU5rnwWtBvyLPPZT1hsJc)**
+
+- NoMod
+  - [katagiri - L4.8TS (KitajimaYN) \[Never Forgot\]](https://osu.ppy.sh/beatmapsets/729494#taiko/1539826)
+  - [96-glass - LosLosLosLos (Shallty) \[Despair(Unlimited)\]](https://osu.ppy.sh/beatmapsets/893399#taiko/1867149)
+  - [Freezer - F\*\*kin' Life (yea) \[Lunatic DX+\]](https://osu.ppy.sh/beatmapsets/744875#taiko/1570427)
+  - [sasakure.UK feat. Hatsune Miku - Replica (Skull Kid) \[Mitosis\]](https://osu.ppy.sh/beatmapsets/1038855#taiko/2171581)
+  - [Giga-P - LUVORATORRRRRY (Fantazy) \[kata's NightCore-Taiko\]](https://osu.ppy.sh/beatmapsets/479148#taiko/1028283)
+  - [sasakure.UK - Ghost Fight (Dubbing remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/863461#taiko/1806136)
+- Hidden
+  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
+  - [s-don - Gamegame (iceOC) \[iceOC\]](https://osu.ppy.sh/beatmapsets/757620#taiko/1593794)
+  - [Apocalyptica - Hall of the Mountain King (Skull Kid) \[Taiko King\]](https://osu.ppy.sh/beatmapsets/586241#taiko/1241620)
+- HardRock
+  - [fether - Pf Concerto No.1 "Anti-Ares" (For the pink to inhale whatever) (maziari1105) \[Endless Adventure\]](https://osu.ppy.sh/beatmapsets/662541#taiko/1402421)
+  - [LULICO vs LOLIPO - We hate Touhou (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/686401#taiko/1452691)
+  - [Camellia - {albus} (nyanmi-1828) \[Innocence\]](https://osu.ppy.sh/beatmapsets/879551#taiko/2037258)
+- DoubleTime
+  - [Caravan Palace - Lone Digger (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/619354#taiko/1305482)
+  - [DJ Noriken - #The\_Relentless\_(Modified) (Raphalge) \[#The\_Drum\_Master\_\]](https://osu.ppy.sh/beatmapsets/583818#taiko/1235309)
+  - [Frums - Wavetapper (ekumea1123) \[---\]\[-\]\[---\]](https://osu.ppy.sh/beatmapsets/926981#taiko/1936126)
+- FreeMod
+  - [Sakuzyo - Future Coaster (yuzu\_\_rinrin) \[Future\]](https://osu.ppy.sh/beatmapsets/665612#taiko/1408625)
+  - [Morimori Atsushi - Re:End of a Dream (maziari1105) \[Restart\]](https://osu.ppy.sh/beatmapsets/971922#taiko/2034887)
+  - [DragonForce - Tomorrow's Kings (Nofool) \[S T R E A M W O R L D\]](https://osu.ppy.sh/beatmapsets/673593#taiko/1425501)
+- Tiebreaker
+  - **[Xenoglossy - Kaihai no Northbridge (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/868552#taiko/1815417)**
+
 #### Finals
 
 **[Download the map pack here! (90 MB)](https://mega.nz/#!UVB3TIaA!A7ylCTqbpd7OIPvYdVjVDIf6bxUEZgYwCObp15TKA44)**
