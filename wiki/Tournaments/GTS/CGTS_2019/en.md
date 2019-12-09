@@ -321,6 +321,32 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Regional phase
 
+#### Finals
+
+Saturday, 7 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitoreihil ![][flag_CA] | 6 | **7** | ![][flag_CA] **vladyushko** | [#1](https://osu.ppy.sh/community/matches/56784656) |
+| **cheese salad** ![][flag_US] | **7** | 5 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/56786667) |
+| **Blerargh** ![][flag_SG] | **7** | 0 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/56790832) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] asuasu\_yura | [#1](https://osu.ppy.sh/community/matches/56793861) |
+| Sparxe ![][flag_NZ] | 3 | **7** | ![][flag_SG] **Element118** | [#1](https://osu.ppy.sh/community/matches/56796195) |
+| Konpaku Sariel ![][flag_KR] | 4 | **7** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/56796040) |
+| **goheegy** ![][flag_GB] | **7** | 4 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/56802895) |
+| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/56806694) |
+| **Ulqui** ![][flag_CL] | **7** | 2 | ![][flag_BR] Ppus | [#1](https://osu.ppy.sh/community/matches/56810119) |
+
+Sunday, 8 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ppus ![][flag_BR] | 3 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/56815523) |
+| **janitoreihil** ![][flag_CA] | **7** | 2 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/56819803) |
+| asuasu\_yura ![][flag_JP] | 6 | **7** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/56825155) |
+| Pochacco ![][flag_PH] | 3 | **7** | ![][flag_SG] **Element118** | [#1](https://osu.ppy.sh/community/matches/56829885) |
+| **AlvaroYL** ![][flag_ES] | **7** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/56832940) |
+
 #### Semifinals
 
 Friday, 29 November 2019:
