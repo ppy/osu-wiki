@@ -1,7 +1,7 @@
 ---
 tags:
-- CGTS 2019
-- CGTS2019
+  - CGTS 2019
+  - CGTS2019
 ---
 
 # Continental Global Taiko Showdown 2019
@@ -137,28 +137,20 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Saturday, 14 December 2019
 
-| Match ID | Player 1 |  |  | Player 2 | Match Time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| NA-W1 | vladyushko | ![][flag_CA] | ![][flag_CA] | janitoreihil | **02:00** |
-| NA-BR¹ | janitoreihil | ![][flag_CA] | ![][flag_CA] | vladyushko |  |
-| SEA-W1 | Blerargh | ![][flag_SG] | ![][flag_SG] | Element118 | **06:00** |
-| SEA-BR² | Element118 | ![][flag_SG] | ![][flag_SG] | Blerargh |  |
-| ASIA-W1 | uone | ![][flag_JP] | ![][flag_JP] | iceOC | **10:00** |
-| ASIA-BR³ | iceOC | ![][flag_JP] | ![][flag_JP] | uone |  |
-| EUROPE-W1 | goheegy | ![][flag_GB] | ![][flag_ES] | AlvaroYL | **14:00** |
-| EUROPE-BR⁴ | AlvaroYL | ![][flag_ES] | ![][flag_GB] | goheegy |  |
-| SA-W1 | Ulqui | ![][flag_CL] | ![][flag_BR] | HiroK | **18:00** |
-| SA-BR⁵ | HiroK | ![][flag_BR] | ![][flag_CL] | Ulqui |  |
+| Match ID | Player 1 | Player 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| NA-W1 | vladyushko ![][flag_CA] | ![][flag_CA] janitoreihil | **02:00** |
+| NA-BR¹ | janitoreihil ![][flag_CA] | ![][flag_CA] vladyushko |  |
+| SEA-W1 | Blerargh ![][flag_SG] | ![][flag_SG] Element118 | **06:00** |
+| SEA-BR¹ | Element118 ![][flag_SG] | ![][flag_SG] Blerargh |  |
+| ASIA-W1 | uone ![][flag_JP] | ![][flag_JP] iceOC | **10:00** |
+| ASIA-BR¹ | iceOC ![][flag_JP] | ![][flag_JP] uone |  |
+| EUROPE-W1 | goheegy ![][flag_GB] | ![][flag_ES] AlvaroYL | **14:00** |
+| EUROPE-BR¹ | AlvaroYL ![][flag_ES] | ![][flag_GB] goheegy |  |
+| SA-W1 | Ulqui ![][flag_CL] | ![][flag_BR] HiroK | **18:00** |
+| SA-BR¹ | HiroK ![][flag_BR] | ![][flag_CL] Ulqui |  |
 
-¹ Match will take place right after match NA-W1 and if Player 2 wins match NA-W1
-
-² Match will take place right after match SEA-W1 and if Player 2 wins match SEA-W1
-
-³ Match will take place right after match ASIA-W1 and if Player 2 wins match ASIA-W1
-
-⁴ Match will take place right after match EUROPE-W1 and if Player 2 wins match EUROPE-W1
-
-⁵ Match will take place right after match SA-W1 and if Player 2 wins match SA-W1
+¹ The match will take place right after the previous one if Player 2 wins.
 
 ---
 
