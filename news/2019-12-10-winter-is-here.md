@@ -135,6 +135,10 @@ I didn't know that I needed a Mocha with an oversized beanie in my life, but now
 
 -------
 
+**Check out the rest of the entries and their scores over at the [Winter 2019 Fanart contest listing!](https://osu.ppy.sh/community/contests/82)**
+
+-------
+
 And with that, we're settling down into a bit of a slower pace for the rest of the year.
 
 Just kidding! We've got a brand new Featured Artist coming tomorrow and every week thereafter, and we'll even be starting off 2020 with another new artist on the very day it dawns.
