@@ -165,7 +165,7 @@
 - `mode`: 모드 - 필터값은 `osu`, `taiko`, `catchthebeat`, `mania` 으로 검색 가능합니다 (혹은 `o`/`t`/`c`/`m` 처럼 줄임말로도 사용 가능)
 - `status`: 랭크 상태 - 필터 값은 `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved` 으로 검색 가능합니다 (혹은 `r`/`a`/`p`/`n`/`u` 처럼 줄임말로도 사용 가능)
 - `played`: 마지막 플레이로부터 일 단위로 필터링
-- `unplayed`: 플레이하지 않은 맵 - 필터값 없음 (플레이하지 않은 맵을 검색하려면 "unplayed="을, 플레이한 맵을 검색하려면 "unplayed!="을 입력하세요.)
+- `unplayed`: 플레이하지 않은 맵 - 필터값 없음 (플레이하지 않은 맵을 검색하려면 `unplayed=`을, 플레이한 맵을 검색하려면 `unplayed!=`을 입력하세요.)
 - `speed`: osu!mania 비트맵에 저장된 스크롤 속도 - 맵을 플레이하지 않았거나 [각 비트맵의 osu!mania 스크롤 속도 기억](/wiki/Options#gameplay) 옵션이 비활성화되어 있을 경우에는 항상 0으로 산정합니다.
 
 검색 비교:
