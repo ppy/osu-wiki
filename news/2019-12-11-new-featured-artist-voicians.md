@@ -41,7 +41,7 @@ We've got a choice selection of ten tracks from his widely varied lineup for you
 ### Sparks
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/59/previews/1679.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/59/previews/1680.mp3" type="audio/mpeg">
 </audio>
 
 ---
