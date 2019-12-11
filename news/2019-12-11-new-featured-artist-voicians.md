@@ -48,4 +48,8 @@ We've got a choice selection of ten tracks from his widely varied lineup for you
 
 The whole collection is available over at [**Voicians**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/59), complete with pre-timed files ready for you to jump straight into mapping with.
 
+We'll be moving the hints for the next release from these newsposts to the [@osugame twitter](https://twitter.com/osugame) instead, so make sure you follow along over there if you're interested in guessing who is up next.
+
+See you next week!
+
 —Ephemeral
