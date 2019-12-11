@@ -53,7 +53,7 @@ layout: main_page
 
 # People
 
-[团队](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Language Moderators](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Support Team](/wiki/People/Support_Team)
+[团队](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Language Moderators](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [支持团队](/wiki/People/Support_Team)
 
 </div>
 </div>
