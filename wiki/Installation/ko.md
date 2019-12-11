@@ -1,66 +1,66 @@
 # Installation
 
-*See also: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->
+*참고 항목: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->
 
-This page will roughly tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) that explains how to install osu! on Windows.
+이 페이지에서는 Windows 환경에서 osu!를 설치하는 방법에 대해 설명할 것입니다. [osu!academy](/wiki/osu!academy)에는 이러한 설치 방법을 상세히 설명해주는 [튜토리얼 영상](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ)도 있으니 참고해보세요.
 
-## Minimum system requirements
+## 최소 시스템 요구 사항
 
-- .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
-- A decent graphics card.
+- .NET framework 4+ (설치되어 있지 않다면 osu! 설치 도중 해당 기능을 다운로드하라는 알림이 뜨게 됩니다. [여기](https://www.microsoft.com/en-us/download/details.aspx?id=48130)에서 수동으로 설치할 수도 있습니다.)
+- 괜찮은 그래픽 카드
 
-## Installing osu!
+## osu! 설치하기
 
-1. Go to the [download page](https://osu.ppy.sh/home/download) and download the installer.
-2. Locate and run the installer.
-3. While the installer is running, there is a ten second period to allow you to select the installation location.
-    - If you want to change it, click on the text underneath the word, "Hi!" and select the installation location.
-    - osu! will be installed to that location when the timer is done.
-4. When the installer is completed, osu! will start up. osu!direct will be used to download some starter beatmaps for you.
-5. osu! will prompt you to sign in or register.
-    - If you already have an account, sign in.
-    - If you need to register, see [Registration](/wiki/Registration).
+1. [다운로드 페이지](https://osu.ppy.sh/home/download)로 이동 후 설치 파일을 다운로드하세요.
+2. 다운로드 받은 설치 파일을 실행합니다.
+3. 설치 프로그램 시작 후, 10초 동안 설치 경로를 변경할 수 있는 시간이 주어집니다.
+    - 설치 경로를 바꾸고 싶다면, "안녕!" 문구 아래의 텍스트를 클릭한 후 경로를 변경하세요.
+    - 타이머가 종료되면 osu!는 해당 경로에 설치될 것입니다.
+4. 설치가 완료되면, 잠시 후 osu!가 실행됩니다. osu!direct가 기본적인 비트맵 몇 가지를 자동으로 다운로드하게 됩니다.
+5. 로그인 또는 회원가입하라는 메시지가 나타나게 됩니다.
+    - 이미 계정이 있으시다면, 로그인하세요.
+    - 계정이 없으시다면 [회원가입](/wiki/Registration)을 진행해 보세요.
 
-## Adding beatmapsets
+## 비트맵 추가하기
 
-*See also: [Beatmaps](/wiki/Beatmaps) and [Beatmapsets](/wiki/Beatmapsets)*
+*참고 항목: [비트맵](/wiki/Beatmaps)* <!-- and [Beatmapsets](/wiki/Beatmapsets)* -->
 
-There are two ways to add beatmaps, via the website or osu!direct (requires [osu!supporter](/wiki/osu!supporter)).
+비트맵을 추가하는 방법은 웹사이트를 통해 다운로드하거나, osu!direct ([osu!supporter](/wiki/osu!supporter) 필요)를 사용하는 방법이 있습니다.
 
-### Website
+### 웹사이트
 
-1. Go to the [beatmap listing page](https://osu.ppy.sh/beatmapsets) and sign in to the website.
-2. Find a song you like to play.
-3. Click on the download icon to save the beatmapset on your computer.
-4. Locate and open the beatmapset file, it has an `.osz` extension.
-    - Alternatively, you can also place the beatmapset file into the `Songs` directory of the osu! installation.
-5. osu! will automatically handle the rest for you and load the beatmapset.
-    - If, for any reason, you do not see them, press `F5` in Solo mode to re-process your beatmaps.
+1. [비트맵 목록 페이지](https://osu.ppy.sh/beatmapsets)로 이동한 후 웹사이트에 로그인하세요.
+2. 플레이하고 싶은 곡을 찾아보세요.
+3. 다운로드 아이콘을 클릭하여 PC에 비트맵을 다운로드할 수 있습니다.
+4. 다운받은 비트맵 파일을 실행하세요. (`.osz` 파일)
+    - 아니면 osu! 설치 경로의 `Songs` 폴더에 `.osz` 파일을 직접 넣을 수도 있습니다.
+5. 이제 osu!는 자동으로 비트맵 파일을 불러올 것입니다.
+    - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Song_Selection) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
 
 ### osu!direct
 
-*Note: You need to have an osu!supporter tag and an internet connection to use osu!direct.*
+*참고: osu!direct를 사용하려면 osu!supporter가 필요하며 인터넷에 연결되어 있어야 합니다.*
 
-1. Open osu!, if you hadn't already.
-2. Find a song that you would like to play.
-3. Double click the the song on the list or click `Download` on the right to download it.
-    - If you don't want to download the video that comes along with the beatmapset, click `DL NoVideo` instead.
-4. When osu! is done downloading the beatmapset, it will automatically load it if you are in Solo mode, at the [Song Selection](/wiki/Song_Selection) screen.
-    - If, for any reason, you do not see them, press `F5` in [Solo mode](/wiki/Solo_mode) to re-process your beatmaps.
+1. osu! 메인 화면에서 우측에 있는 osu!direct 버튼을 클릭하세요.
+2. 플레이하고 싶은 곡을 찾아보세요.
+3. 원하는 곡을 더블 클릭하거나, 한 번 클릭 후 우측 창의 `Download` 버튼을 클릭해 다운로드할 수 있습니다.
+    - 비트맵에 포함된 영상 파일을 제외하고 다운로드하고 싶다면, `DL NoVideo` 버튼을 클릭하시면 됩니다.
+4. 다운로드가 끝나면, osu!는 자동으로 비트맵 파일을 불러올 것입니다. 
+    - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Song_Selection) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
 
-## Adding skins
+## 스킨 추가하기
 
-*See also: [Skinning](/wiki/Skinning)*
+*참고 항목: [스킨](/wiki/Skinning)*
 
-1. Go to the [skinning forums](https://osu.ppy.sh/community/forums/15) and find a skin you like.
-2. Once you find a skin, download it.
-3. Depending on how the skinner has packaged their skin, you may need to do different things.
-    - If the skin is using `.osk`:
-        1. Open it or drag and drop it into osu!.
-        2. osu! will process the skin and automatically select it for you.
-    - If the skin is compressed (using `.7z`, `.rar`, `.zip`, etc.):
-        1. Extract it.
-        2. Move the skin folder into the `Skins` directory of the osu! installation.
-        3. If osu! is opened, you may need to restart it before the skin can be used.
-        4. In osu!, go to the [Options](/wiki/Options) and search for `Skin`.
-        5. Scroll down to the `Current skin:` option and select the skin you have downloaded.
+1. [스킨 포럼](https://osu.ppy.sh/community/forums/15)에서 원하는 스킨을 찾아보세요.
+2. 원하는 스킨을 찾으셨다면, 스킨 파일을 다운로드합니다.
+3. 다운로드 받은 스킨 파일의 종류에 따라 다음과 같은 방법을 사용해 적용할 수 있습니다.
+    - 파일의 확장자가 `.osk`인 경우:
+        1. 클릭해서 실행하거나, osu! 창으로 드래그 앤 드롭하면 됩니다.
+        2. osu!가 자동으로 스킨 파일을 처리한 뒤 해당 스킨을 적용할 것입니다.
+    - 압축된 파일인 경우 (`.7z`, `.rar`, `.zip` 등등):
+        1. 압축을 적당한 곳에 풀어줍니다.
+        2. 압축을 푼 스킨 폴더를 osu! 설치 경로의 `Skins` 폴더로 옮겨주세요.
+        3. osu!가 실행 중인 경우, `Ctrl` + `Alt` + `Shift` + `S` 키를 눌러 스킨 목록을 다시 불러와야 새로 추가된 스킨이 목록에 나타납니다.
+        4. [옵션](/wiki/Options) 창을 연 뒤 `Skin` 탭을 찾습니다.
+        5. `Current skin:` 에서 방금 다운로드한 스킨 이름을 찾아 클릭합니다.
