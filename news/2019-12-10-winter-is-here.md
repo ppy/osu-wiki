@@ -8,7 +8,7 @@ It's time to get *festive*! The end of the year is almost here and with it, **tw
 
 ![](https://assets.ppy.sh/contests/82/banners/header.jpg)
 
-Whether it's cold or hot (or on fire if you're Australian) where you are, the festive season is the perfect way to tie off the year with a bit of wintery charm. 
+Whether it's cold or hot (or on fire if you're Australian) where you are, the festive season is the perfect way to tie off the year with a bit of wintery charm.
 
 Our beloved community artists missed the memo on the 'little bit' part of all this and just went absolutely ham in their pieces, producing an incredible array of entries that we all spent ages agonizing over.
 
@@ -17,7 +17,6 @@ To refresh everyone on the particulars, the top three finalists out of the twent
 But before we get started digging into the entries, [**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) has been hard at work over the past few weeks creating a neat little twist on an osu!-infused Christmas carol, aptly titled as *carol of the circles*. This'll be making its way to the main menu along with the winning entries, but in case you just can't wait, check it out:
 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/Uaz-vy5Rt1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 Now, onwards to the finalists:
 
@@ -77,7 +76,7 @@ Chirou contemplates what hands are for the **1881**th time in [**Saaki Haruno**]
 
 [![](https://assets.ppy.sh/contests/82/banners/llNaokill.jpg)](https://assets.ppy.sh/contests/82/winners/llNaokill.png)
 
-**1741** voters adored [**ln_094**](https://osu.ppy.sh/users/7755095)'s take on a whole new meaning of starry - sporting a most cute winter-dressed pippi enjoying the scenery of a nearly astral field of white petals and stars.
+**1741** voters adored [**ln_094**](https://osu.ppy.sh/users/7755095)'s take on a whole new meaning of starry, sporting a most cute winter-dressed pippi enjoying the scenery of a nearly astral field of white petals and stars.
 
 This one really opens up the longer you look at it. Spectacular skies, outfit and setting to boot. Beautiful stuff!
 
@@ -105,9 +104,9 @@ Almost makes you wonder what flowers would go with each mascot.
 
 In a complete tie, **1373** voters also approved of [**halice**](https://osu.ppy.sh/users/12764300)'s take on Aiko and pippi levitating above a winter cityscape, complete with gifts and adorable festive outfits.
 
--------
+---
 
-But wait, that's not all! Instead of the typical fifteen entries we've used for the past slew of fan art contests, we've decided to fold in **five more** this year, with all the prizes and accolade to boot! Woohoo! 
+But wait, that's not all! Instead of the typical fifteen entries we've used for the past slew of fan art contests, we've decided to fold in **five more** this year, with all the prizes and accolade to boot! Woohoo!
 
 Check them out:
 
@@ -117,7 +116,7 @@ Check them out:
 
 [![](https://assets.ppy.sh/contests/82/banners/keuma.jpg)](https://assets.ppy.sh/contests/82/winners/keuma.png)
 
-[**keuma**](https://osu.ppy.sh/users/11246394)'s rendition of a very toasty Mocha and a very sleepy Maria before a roaring fireplace warmed the hearts of **1261** voters. 
+[**keuma**](https://osu.ppy.sh/users/11246394)'s rendition of a very toasty Mocha and a very sleepy Maria before a roaring fireplace warmed the hearts of **1261** voters.
 
 I didn't know that I needed a Mocha with an oversized beanie in my life, but now, I am glad that I do.
 
@@ -133,11 +132,11 @@ I didn't know that I needed a Mocha with an oversized beanie in my life, but now
 
 **1187** snowflakes settled on [**SanatSever**](https://osu.ppy.sh/users/14949607)'s gorgeously stylized rendition of Mocha and pippi making snowmen in the park. Simply stunning.
 
--------
+---
 
 **Check out the rest of the entries and their scores over at the [Winter 2019 Fanart contest listing!](https://osu.ppy.sh/community/contests/82)**
 
--------
+---
 
 And with that, we're settling down into a bit of a slower pace for the rest of the year.
 
