@@ -1,8 +1,7 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
 osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요!
 </div>
