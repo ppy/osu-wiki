@@ -47,14 +47,6 @@ Uma página de regras mais detalhadas para a elaboração de um beatmap existe, 
 2. **Mantenha-se no tópico nas conversas.** Estes tópicos/discussões são sobre o beatmap em questão, nada mais. Caso tenha algum problema que não seja diretamente relacionado ao beatmap, faça uma postagem no fórum apropriado.
 3. **Não plagie ou tente roubar o trabalho dos outros.** Também não envie ou utilize o conteúdo de outras pessoas sem a devida permissão (incluindo, mas se não limitando a, skins e dificuldades colaborativas (guest difficulties)).
 
-## Regras do Off-topic
-
-*Estas regras se aplicam APENAS ao [Off-topic](https://osu.ppy.sh/community/forums/52), a não ser que seja descrito de outra maneira.*
-
-1. **Nenhum tópico no off-topic tem qualquer valor.** De forma simples, eles são lixo. Caso seus tópicos estejam sendo movidos constantemente para o off-topic, eles estão sendo julgados como algo sem valor de uma discussão séria. Serve como dica?
-2. **Estupidez excessiva é ruim.** Ser claramente um idiota não tem problema, e entra no modus operandi de shitposting (postar conteúdo sem valor algum). Estupidez genuina nunca é bom. Caso tenha problemas em distinguir a diferença entre as duas, você já está quebrando a regra.
-3. **Tópicos de aniversário são apenas permitidos no off-topic, e em nenhum outro lugar.** Todos os tópicos de aniversário precisam ter pelo menos (3) imagens de menininhas de anime dançando ou ele será *brutalmente* atirado na frente de um ônibus em movimento.
-
 ## O que acontece se eu quebrar as regras?
 
 Caso você seja encontrado quebrando as regras da comunidade, coisas ruins irão acontecer.

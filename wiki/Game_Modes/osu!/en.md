@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
 [Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!"
 [Score#osu!SV wikilink]: /wiki/Score/#osu "more info can be found on Score under osu! Scoring Values"

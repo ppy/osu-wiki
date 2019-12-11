@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
@@ -86,8 +90,6 @@ All these elements are timed to (covers of) popular Japanese songs.
 It looks like this on the _DS_:-
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS][ouendan image]
-
-_Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS_
 
 The gameplay circles can be seen on the bottom screen, and the story on the top screen.
 Each stage is basically a self-contained story about a person in trouble.

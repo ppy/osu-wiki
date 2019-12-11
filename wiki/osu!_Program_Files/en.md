@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Program Files
 
 ![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")

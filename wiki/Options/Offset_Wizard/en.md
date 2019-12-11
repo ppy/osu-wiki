@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Offset Wizard
 
 If, in every single beatmap you play, you hear that the sound effects are out of sync with the song, you may want to adjust your universal offset.
