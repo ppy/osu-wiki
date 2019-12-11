@@ -23,7 +23,7 @@ We've got a choice selection of ten tracks from his widely varied lineup for you
 ### Alive
 
 <audio controls>
-    <source src="hhttps://assets.ppy.sh/artists/59/previews/1675.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/59/previews/1675.mp3" type="audio/mpeg">
 </audio>
 
 ### Survival League
