@@ -4,9 +4,9 @@ L'[Internet Relay Chat](http://fr.wikipedia.org/wiki/Internet_Relay_Chat), égal
 
 ## osu!Bancho
 
-osu!Bancho utilise le protocole IRC en jeu pour le chat en jeu. Vous pouvez vous connecter avec votre propre client et discuter avec d'autres personnes sans utiliser le client du jeu. Prenez note que ce protocole IRC est modifié donc ne vous attendez pas à retrouver les mêmes fonctionnalités du chat osu! sur votre client IRC.
+osu!Bancho offre une passerelle pour un acces IRC (chat en jeu). Vous pouvez vous connecter avec votre propre client et discuter avec d'autres personnes sans utiliser le client du jeu. Prenez note que ce protocole IRC est modifié donc ne vous attendez pas à retrouver les mêmes fonctionnalités du chat osu! sur votre client IRC.
 
-**Remarque: [HexChat](http://hexchat.github.io/) est connu pour avoir des problèmes avec IRC d'osu!** ([Rapport de bug de HexChat's GitHub](http://github.com/hexchat/hexchat/issues/818)), pensez à utiliser un autre client si cela vous dérange.
+**Remarque: [HexChat](http://hexchat.github.io/) est connu pour avoir des problèmes avec l'IRC d'osu!** ([Rapport de bug de HexChat's GitHub](http://github.com/hexchat/hexchat/issues/818)), pensez à utiliser un autre client si cela vous dérange.
 
 ## Comment se connecter
 
@@ -23,24 +23,24 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 
 | Commande | Description |
 | :-- | :-- |
-| `/join <#channel>` | Rejoindre un channel |
-| `/part <#channel>` | Quitter un channel |
+| `/join <#channel>` | Rejoindre un canal |
+| `/part <#channel>` | Quitter un canal |
 | `/me <action>` | Envoyer un message d'action |
 | `/ignore <username>` | Ignorer un utilisateur (cache ses messages) |
 
 ## Désactiver les messages de Join/Quit
 
-Être au courant des joueurs qui rejoignent ou qui quittent le tchat peut être une bonne chose, mais dans des endroits très fréquentés tels que `#osu`, vous recevrez constamment des messages de personnes qui rejoignent/quittent et ne pourrez pas suivre les conversations. Par conséquent, il est généralement préférable que ces messages soient masqués.
+Être au courant des joueurs qui rejoignent ou qui quittent le tchat peut être une bonne chose, mais dans des canals très fréquentés tels qu'`#osu`, vous recevrez constamment des messages de personnes qui rejoignent/quittent et ne pourrez pas suivre les conversations. Par conséquent, il est généralement préférable que ces messages soient masqués.
 
 ```
-[17:46] * lauripihl (cho@ppy.sh) à quitté #lobby
-[17:46] * Kastun (cho@ppy.sh) à rejoint #lobby
-[17:46] * AuReL (cho@ppy.sh) à rejoint #lobby
-[17:46] * osukd (cho@ppy.sh) à rejoint #lobby
-[17:46] * BreadTooGood (cho@ppy.sh) à rejoint #lobby
-[17:46] * keanyew18 (cho@ppy.sh) à rejoint #lobby
-[17:46] * JaKox (cho@ppy.sh) à rejoint #lobby
-[17:46] * Kerantor (cho@ppy.sh) à rejoint #lobby
+[17:46] * lauripihl (cho@ppy.sh) has left #lobby
+[17:46] * Kastun (cho@ppy.sh) has joined #lobby
+[17:46] * AuReL (cho@ppy.sh) has joined #lobby
+[17:46] * osukd (cho@ppy.sh) has joined #lobby
+[17:46] * BreadTooGood (cho@ppy.sh) has joined #lobby
+[17:46] * keanyew18 (cho@ppy.sh) has joined #lobby
+[17:46] * JaKox (cho@ppy.sh) has joined #lobby
+[17:46] * Kerantor (cho@ppy.sh) has joined #lobby
 ```
 
 ### Désactivation des messages de Join/Quit sur les clients les plus utilisés
@@ -50,7 +50,7 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 | [HexChat](http://hexchat.github.io/) | Allez dans Settings - Preferences, sous Chatting - General, cochez la case "Hide join and part messages". |
 | [ircII](http://www.eterna.com.au/ircii/) | Taper `/ignore * crap` |
 | [Irssi](http://www.irssi.org) | Taper `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](http://www.weechat.org) | Taper `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Nota:** Remplacez **nom d'utilisateur** par votre nom d'utilisateur osu! .
+| [Weechat](http://www.weechat.org) | Taper `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Note:** Remplacez **nom d'utilisateur** par votre nom d'utilisateur osu! .
 | [KVIrc](http://www.kvirc.net) | Visitez [ce fil de discussions](http://www.kvirc.ru/forum/?topic=609.0) sur les forums officiels de KVIrc. |
 | [mIRC](http://www.mirc.com/) | Allez dans les options mIRC ((Tools - Options / Alt + O), sous l’arborescence IRC, cliquez sur le bouton "Events..." et changez Join/Quit par "Hide". |
 | [Quassel IRC](http://www.quassel-irc.org) | Faites un clic droit sur la fenêtre de discussion, puis choisissez Masquer les événements » Join/Part/Quit. |
