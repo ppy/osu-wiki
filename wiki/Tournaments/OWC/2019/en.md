@@ -110,14 +110,14 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **12:00 UTC** | 15:00 UTC+03 | 21:00 UTC+09 | ² |
+| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **14:00 UTC** | 17:00 UTC+03 | 23:00 UTC+09 | ² |
 | Germany | ![][flag_DE] | ![][flag_CA] | Canada | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 | ² |
 
 ### Sunday, 15 December 2019
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 12:00 UTC+09 | ³ |
+| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **04:00 UTC** | 23:00 (Sat.) UTC-05 | 13:00 UTC+09 | ³ |
 | Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 14:00 UTC+01 | 16:00 UTC+03 | ³ |
 | Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 | ³ |
 | Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ³ |
