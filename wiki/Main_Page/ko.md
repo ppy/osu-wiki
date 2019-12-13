@@ -29,7 +29,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # [비트맵 편집기](/wiki/Beatmap_Editor)
 
-섹션: ([구성](/wiki/Beatmap_Editor/Compose) • [디자인](/wiki/Beatmap_Editor/Design) • [타이밍](/wiki/Beatmap_Editor/Timing) • [음악 설정](/wiki/Beatmap_Editor/Song_Setup)) • 구성 요소: ([비트 배치 나눗수](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [비트맵 제작](/wiki/Beatmapping) • [난이도](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [비트맵 제작 기법](/wiki/Mapping_Techniques) • [스토리 보드 꾸미기](/wiki/Storyboards)
+섹션: ([구성](/wiki/Beatmap_Editor/Compose) • [디자인](/wiki/Beatmap_Editor/Design) • [타이밍](/wiki/Beatmap_Editor/Timing) • [음악 설정](/wiki/Beatmap_Editor/Song_Setup)) • 구성 요소: ([비트 배치 나눗수](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [비트맵 제작](/wiki/Beatmapping) • [난이도](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [비트맵 제작 기법](/wiki/Mapping_Techniques) • [스토리 보드 꾸미기](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
