@@ -8,37 +8,35 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1vs1) based Mania tournament. It is the 1st installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) double elimination country independant based osu!mania tournament hosted by ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase |2019-10-14 / 2019-11-6|
-| Qualifiers |2019-11-23 / 2019-11-24|
-| Group Stage First Week|2019-11-30 / 2019-12-01|
-| Group Stage Second Week|2019-12-07 / 2019-12-08|
-| Round of 32 |2019-12-14 / 2019-12-15|
-| Round of 16 |2019-12-21 / 2019-12-22|
-| Quarterfinals |2019-12-27 / 2019-12-28|
-| Semifinals |2020-01-4 / 2020-01-5|
-| Finals |2020-01-11 / 2020-01-12|
-| Grand Finals |2020-01-18 / 2020-01-19|
+| Registration Phase | 2019-10-14/2019-11-6 |
+| Qualifiers | 2019-11-23/2019-11-24 |
+| Group Stage First Week| 2019-11-30/2019-12-01 |
+| Group Stage Second Week| 2019-12-07/2019-12-08 |
+| Round of 32 | 2019-12-14/2019-12-15 |
+| Round of 16 | 2019-12-21/2019-12-22 |
+| Quarterfinals | 2019-12-27/2019-12-28 |
+| Semifinals | 2020-01-4/2020-01-5 |
+| Finals | 2020-01-11/2020-01-12 |
+| Grand Finals | 2020-01-18/2020-01-19 |
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Speed of Light winners. It is possible that these items change with every installment of the tournament.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |Razer Huntsman Elite (Red Switch) + Tournament Badge + 3 Months of Support |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |Corsair K70 RapidFire MK.2 (MXCherry Speed Switch) + 2 Months of Support  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |Razer Huntsman Tournament Edition TKL (Red Switch) + 1 Month of Support  |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite (Red Switch), Tournament Badge, 3 Months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2 (MXCherry Speed Switch), 2 Months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition TKL (Red Switch), 1 Month of osu!supporter tag  |
 ![SOLMT Badge](img/badge.png "SoL Winner Badge")
 
-## Organization
+## Organisation
 
-The Speed of Light Mania Tournament is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Speed of Light Mania Tournament is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,13 +46,13 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_MX] [KanekiKen-kun](https://osu.ppy.sh/users/12157233), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560)|
 | Designer | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918)
 | Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/u/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_PE] [Tunning23](https://osu.ppy.sh/users/9396363)
-| Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)  |
+| Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387?start=7242382)
 - [Livestream](https://www.twitch.tv/osuworldtournament)
-- [SOLMT Discord Link](https://discord.gg/Zmha38K)
+- [SOLMT Discord server](https://discord.gg/Zmha38K)
 
 ---
 
@@ -64,7 +62,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 | Seed | Users |
 | --- | --- |
-| Top (#1 - #16) |  ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
+| Top (#1 - #16) | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [-[\DaNieL_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | High (#17 - #32) | ![][flag_RU] [AngeloLagusa](https://osu.ppy.sh/users/9074986), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_FI] [Strachy](https://osu.ppy.sh/users/9663200), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182), ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_AR] [ByDarking](https://osu.ppy.sh/users/10652110), ![][flag_PH] [Cohue](https://osu.ppy.sh/users/12538598), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_RU] [N1ckn1ght](https://osu.ppy.sh/users/10332479), ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959), ![][flag_TW] [AW ZERO](https://osu.ppy.sh/users/4415146), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_US] [Playboi Carti](https://osu.ppy.sh/users/4833676), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) |
 | Top (#33 - #48) | ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607),![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_VN] [baoketban123](https://osu.ppy.sh/users/11863174), ![][flag_US] [Jellyblob](https://osu.ppy.sh/users/8319503), ![][flag_US] [yahweh](https://osu.ppy.sh/users/10465260), ![][flag_AR][Mateocristaldo](https://osu.ppy.sh/users/6384643), ![][flag_LV] [CrayZigg](https://osu.ppy.sh/users/11942663), ![][flag_CO] [Cansta](https://osu.ppy.sh/users/9303412), ![][flag_MX] [HéctorAF01](https://osu.ppy.sh/users/12815564), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) |
 | Top (#49 - #64) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_RU] [TruthIsNear](https://osu.ppy.sh/users/11191093), ![][flag_MX] [YukariYakumo](https://osu.ppy.sh/users/10595982), ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236), ![][flag_ru] [AsyaKys](https://osu.ppy.sh/users/12096335), ![][flag_US] [Dilly_P](https://osu.ppy.sh/users/12907431), ![][flag_MX] [Kenrit-San](https://osu.ppy.sh/users/13054150), ![][flag_UK] [zHotRoD](https://osu.ppy.sh/users/10441414), ![][flag_AU] [Crumpetfiddler](https://osu.ppy.sh/users/3518705), ![][flag_RU] [artslay](https://osu.ppy.sh/users/7758301), ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184), ![][flag_TH] [monkerzaza](https://osu.ppy.sh/users/11025701), ![][flag_ID] [[ Albedo ]](https://osu.ppy.sh/users/14584195), ![][flag_US] [Lights](https://osu.ppy.sh/users/9380939) | 
@@ -89,18 +87,6 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | **N** |![][flag_US] stupud man |![][flag_FI] Camopoltergeist |![][flag_EC] Reo09 |![][flag_NZ] Blujae |
 | **O** |![][flag_US] dhn |![][flag_RU] N1ckn1ght |![][flag_CO] Cansta |![][flag_US] Lights  |
 | **P** |![][flag_PE] DaZeRoS |![][flag_CA] loafusofbread |![][flag_LV] CrayZigg |![][flag_US] Dilly_P |
-
----
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | User |
-| :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 
 ---
 
@@ -298,7 +284,6 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/16lPxd
 - Beatmap selection will alternate between each player selecting a beatmap from the mappool.
 - Each player must use "!roll" once in #multiplayer. -The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
 - The results of each stage will be posted in a spreadsheet after the given stage.
-
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
