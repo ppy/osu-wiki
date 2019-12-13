@@ -43,7 +43,7 @@ Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan
 
 Ada sekumpulan aturan yang lebih rinci untuk pembuatan beatmap, yang dikenal sebagai [Kriteria Ranking](/wiki/Ranking_Criteria).
 
-1. **Pastikan Anda memiliki izin untuk menggunakan konten apa pun yang terlibat dalam beatmap Anda.** Konten yang dimaksud termasuk lagu, video, hit sound, grafik, dan konten lain apa pun yang bukan kreasi milik Anda. Jika Anda tidak yakin di mana dapat menemukan konten yang gratis dan aman digunakan, kami memiliki koleksi lagu yang tersedia di daftar [Artis Unggulan](https://osu.ppy.sh/beatmaps/artists/), semuanya 100% berlisensi untuk digunakan di osu!.
+1. **Pastikan Anda memiliki izin untuk menggunakan konten apa pun yang terlibat dalam beatmap Anda.** Konten yang dimaksud termasuk lagu, video, hitsound, grafik, dan konten lain apa pun yang bukan kreasi milik Anda. Jika Anda tidak yakin di mana dapat menemukan konten yang gratis dan aman digunakan, kami memiliki koleksi lagu yang tersedia di daftar [Artis Unggulan](https://osu.ppy.sh/beatmaps/artists/), semuanya 100% berlisensi untuk digunakan di osu!.
 2.  **Tetap dalam topik bahasan dalam Diskusi Beatmap.** Topik ini bertujuan untuk membahas beatmap yang dipertanyakan, dan tidak ada bahasan lain. Jika Anda memiliki masalah dengan sesuatu yang tidak berkaitan langsung dengan beatmap, kirim masalah anda di forum yang sesuai.
 3.  **Dilarang menjiplak atau mencoba mencuri karya orang lain.** Jangan juga mengunggah atau menggunakan karya orang lain tanpa izin spesifik dari mereka (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan mapper lain).
 

@@ -856,7 +856,7 @@ These words must be spelt as follows (spacing must match):
 - `gameplay`
 - `hit burst`
 - `hit circle`
-- `hit sound`
+- `hitsound`
 - `in-game`
 - `playstyle`
 - `slider tick`
