@@ -2,9 +2,9 @@
 
 **osu! Alumni**는 게임에 기여를 하고 떠나간 사람들입니다. 돈만 충분하다면 마을 광장에 동상을 하나 세웠을 거에요.
 
-The [osu! Alumni 그룹 페이지](https://osu.ppy.sh/groups/16)에서 모든 멤버의 목록을 확인할 수 있습니다.
+[osu! Alumni 그룹 페이지](https://osu.ppy.sh/groups/16)에서 모든 멤버의 목록을 확인할 수 있습니다.
 
-| Name | Past roles |
+| 이름 | 맡았던 역할 |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
