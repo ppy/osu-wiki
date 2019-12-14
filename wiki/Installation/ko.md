@@ -1,6 +1,6 @@
 # Installation
 
-*참고 항목: [Installation/macOS](/wiki/Installation/macOS)* <!-- and [Installation/Linux](/wiki/Installation/Linux)* -->
+*참고 항목: [macOS에 설치하기](/wiki/Installation/macOS)*
 
 이 페이지에서는 Windows 환경에서 osu!를 설치하는 방법에 대해 설명할 것입니다. [osu!academy](/wiki/osu!academy)에는 이러한 설치 방법을 상세히 설명해주는 [튜토리얼 영상](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ)도 있으니 참고해보세요.
 
