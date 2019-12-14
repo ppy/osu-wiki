@@ -1,57 +1,54 @@
----
-outdated: true
----
-
 # 정확도
 
-정확도는 플레이어의 일관성을 표시합니다. 플레이어가 가질 수 있는 정확도는 세가지 타입으로 분류할 수 있습니다. 첫번째로 비트맵에서 얻은 점수에따라 좌우되는 정확도입니다. 두번째로 더 높은 점수를 얻기위해 가중된 점수의 전반적인 정확도 입니다. 마지막으로 [퍼포먼스 포인트](/wiki/Performance_Points)로 집계되는 랭크의 스코어 정확성 입니다.
-
+정확도는 플레이어의 일관성을 표시합니다. 플레이어가 가질 수 있는 정확도는 세 가지 타입으로 분류할 수 있습니다. 첫 번째로 비트맵에서 얻은 점수에 따라 좌우되는 정확도입니다. 두 번째로 더 좋은 점수를 돋보이게 하기 위해 가중치가 적용된 점수의 전반적인 정확도입니다. 마지막은 [퍼포먼스 포인트](/wiki/Performance_Points) 정확도로, 제출된 점수의 정확도에 따라 달라집니다.
 
 ## 게임에서 사용되는 모드
 
-### ![](/wiki/shared/mode/osu.png) 스탠다드 (osu!standard)
+### ![](/wiki/shared/mode/osu.png) osu!standard
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
 
-스탠다드 모드에서 정확도는 세가지 타입의 표본에서 얻은 정확도를 판단하여 그값을 계산하고 가중시켜 가능한한 최대의 정확도를 산출해 냅니다.
+osu!standard에서 정확도는 각 서클의 점수에 따라 가중치를 부여해 더한 뒤, 가능한 최대 서클 개수로 나누어서 계산합니다.
 
-정확도 판정 참고자료:
+서클 1개 당 정확도 판정:
 
-```
+```text
 300 -> 300 / 300 = 1   = 100.00%
 100 -> 100 / 300 = 1/3 =  33.00%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
 
-### ![](/wiki/shared/mode/taiko.png) 태고 (osu!taiko)
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
 
-태고의 경우 노트의 정확도를 노트 수로 나눈 합계를 사용하여 정확도를 계산합니다. 정확도 점수는 다음과 같습니다. GREAT(良)는 100%로, GOOD(可)는 50%로, MISS/BAD(不可)는 0%로 계산됩니다(또는 콤보 중단). 드럼롤과 스피너는 정확성에 영향을 주지 않습니다.
+osu!taiko의 경우 노트 정확도의 합을 노트 수로 나누어 정확도를 계산합니다. 정확도 점수는 다음과 같습니다. GREAT(良)는 100%로, GOOD(可)는 50%로, MISS/BAD(不可)는 0%로 계산됩니다 (또는 콤보 중단). 드럼 롤과 스피너는 정확성에 영향을 주지 않습니다.
 
-### ![](/wiki/shared/mode/catch.png) 캐치 (osu!catch)
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
 ![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
 
-캐치에서는  비스피너 히트 오브젝트의 총 수를 비스피너 오브젝트의 총 수로 나누어 정확도를 계산합니다. 모든 히트 오브젝트는 스핀너 개체의 일부이므로 바나나를 제외하고 동일한 값을 가집니다.
+osu!catch에서는 스피너가 아닌 히트 오브젝트를 얻은 갯수를 총 갯수로 나누어 정확도를 계산합니다. 모든 히트 오브젝트는 스피너로 취급되는 바나나를 제외하고 동일한 값을 가집니다.
 
+*API 사용 시 추가 정보: osu!catch에서 정확도를 계산할 때는, droplets의 갯수는 `count50`에 표시되며, 놓친 droplets의 갯수는 `countkatu`에 표시됩니다.*
 
-### ![](/wiki/shared/mode/mania.png) 매니아 (osu!mania)
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
 
-매니아의 정확도는 [스탠다드](#스탠다드 (osu!standard))와 유사하게 계산됩니다.
+osu!mania의 정확도는 [osu!standard](#osu!standard)와 유사하게 계산됩니다.
 
 ## 퍼포먼스 그래프
 
 ![퍼포먼스 그래프](img/performance_graph.jpg "Performance graph")
 
-퍼포먼스 그래프는 플레이(시간)동안 플레이어의(생명 게이지를 기준으로)성과를 대략 표시해주는 차트입니다. 게임 내 커서를 그래프 위에 놓으면 추가 정보가 표시됩니다.
+퍼포먼스 그래프는 플레이하는 동안 체력 바의 변동 여부를 나타내는 그래프입니다. 게임 내 커서를 그래프 위에 놓으면 추가 정보가 표시됩니다.
 
-*참고: 추가 정보는 비트맵 리플레이를 시청하거나 자신의 플레이가 끝난 후에만 볼 수 있습니다. [결과 장면](/wiki/results_screen)에서 넘어간 후에는 이 정보가 저장되지 않습니다.*
+*참고: 추가 정보는 비트맵 리플레이를 시청하거나 자신의 플레이가 끝난 후에만 볼 수 있습니다. [결과 화면](/wiki/results_screen)에서 넘어간 후에는 이 정보가 저장되지 않습니다.*
 
+<!-- TODO: 1 -->
 ### 정확도
 
 게임 내 커서를 그래프 위에 놓으면 *에러* 와 *불안정한 정도*가 툴팁으로 표시됩니다.
