@@ -8,7 +8,7 @@
 
 ## 역할과 책임
 
-Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임지고 커뮤니티의 대화에 신경을 써야합니다. 만약 여러분이 채팅(사일, 괴롭힘 등)이나 포럼(스팸)에 관한 문제(이것에 한정된 것은 아님), 또는 게임과 관련된 도움이 필요하다면 이들에게 연락해주세요.
+Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임지고 커뮤니티의 대화에 신경을 써야합니다. 만약 여러분이 채팅(채팅 제한, 괴롭힘 등)이나 포럼(스팸)에 관한 문제(이것에 한정된 것은 아님), 또는 게임과 관련된 도움이 필요하다면 이들에게 연락해주세요.
 
 ## 팀 구성원
 
@@ -78,9 +78,9 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | 독일어 | 채팅 관리 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 터키어 | 채팅 관리 |
 
-### 언어별 모더레이터
+### 언어별 관리자
 
-| 채널 | 서브 포럼 | 모더레이터 |
+| 채널 | 서브 포럼 | 관리자 |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
