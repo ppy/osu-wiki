@@ -22,7 +22,9 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 ### Qualification
 
-- **Only one beatmap of a song may be qualified per game mode at a time. This includes different length cuts and simple covers of a song, but excludes remixes, up to three different versions of which may be qualified per game mode at a time.** This ensures variety among Ranked beatmaps within their respective game modes.
+- **To maintain a variety of songs in the Ranked section, there are two requirements:**
+    - Different beatmaps of similar versions of a song cannot be qualified in the same mode at the same time. Similar versions of a song include cuts, extensions and simple covers.
+    - Following the above, only 3 significantly different versions of a song may be qualified in the same mode at the same time. Significantly different versions would be remixes, compilations and mashups.
 - **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
 - **Hybrid beatmapsets must be nominated by full nominators from two of its modes in order to be qualified**, as well as gain clear approval from any remaining modes' nominators in the modding discussion. This means only full members may nominate hybrid sets, and ensures that a full nominator takes responsibility for each mode (regardless of nominating or just giving approval in the discussion). In this scenario, nominators proficient in multiple modes can approve more than one mode.
@@ -39,7 +41,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 - **Only full members may disqualify beatmaps, regardless of reason.** Probation members may however still participate in such discussions and report beatmaps like everyone else.
 - **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the beatmapset owner requests it.**
 - **Disqualification requests by the beatmapset owner can be applied immediately.** This includes yourself, in case you want to self-dq.
-- **Issues that can be mitigated through online offsets, tags or similar must still be disqualified.** In the case that this is not possible, contact a member of the NAT. Online offsets and tags only apply for the website, so players will still have the issues in the client unless fixed before ranked.
+- **Issues that can be mitigated through online offsets, tags or similar must still be disqualified.** In the case that this is not possible, contact a member of the NAT. Online offsets and tags only apply for the website, so players will still have the issues in the client unless fixed before Ranked.
 - **Qualified beatmaps found with unrankable or significant issues must be disqualified immediately.**
 - **Do not disqualify beatmaps of game modes you are not formally qualified for.** This does not apply to disqualifications regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
 
