@@ -37,7 +37,7 @@ osu!catch에서는 스피너가 아닌 히트 오브젝트를 얻은 갯수를 �
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-osu!mania의 정확도는 [osu!standard](#osu!standard)와 유사하게 계산됩니다.
+osu!mania의 정확도는 [osu!standard](#-osu!standard)와 유사하게 계산됩니다.
 
 ## 퍼포먼스 그래프
 
