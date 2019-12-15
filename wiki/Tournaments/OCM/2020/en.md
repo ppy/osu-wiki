@@ -26,8 +26,8 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![][GCrown] | winner badge for each member (to be confirmed by tournament staff)|
-| ![][SCrown] | a month of osu!supporter for each member (to be confirmed)|
+| ![][GCrown]"1st place" | winner badge for each member (to be confirmed by tournament staff)|
+| ![][SCrown]"2nd place" | a month of osu!supporter for each member (to be confirmed)|
 
 ->inserte chapita aca<-
 
@@ -150,12 +150,12 @@ will be Low Seed, to end the Unseed teams.
 
 
 
-[flag_MX]: /images/flag/MX.gif
-[flag_CL]: /images/flag/CL.gif
-[flag_PA]: /images/flag/PA.gif
-[flag_PE]: /images/flag/PE.gif
-[flag_AR]: /images/flag/AR.gif   
-[flag_UY]: /images/flag/UY.gif 
-[flag_GB]: /images/flag/GB.gif 
-[GCrown]: /images/GCrown.png
-[SCrown]: /images/SCrown.png
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_PA]: /wiki/shared/flag/PA.gif
+[flag_PE]: /wiki/shared/flag/PE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_UY]: /wiki/shared/flag/UY.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[GCrown]: /wiki/shared/GCrown.png
+[SCrown]: /wiki/shared/SCrown.png
