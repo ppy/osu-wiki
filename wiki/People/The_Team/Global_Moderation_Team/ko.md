@@ -14,7 +14,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 
 [Global Moderation Team 그룹 페이지](https://osu.ppy.sh/groups/4)에서 모든 멤버의 목록을 확인할 수 있습니다.
 
-*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.* — [팀 페이지](https://osu.ppy.sh/groups/4)
+*참고: 특별한 언급이 없는 한 모든 GMT 구성원들은 영어를 구사할 수 있습니다.*
 
 | 이름 | 언어 | 주요 활동 |
 | :-- | :-- | :-- |
