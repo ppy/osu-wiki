@@ -6,25 +6,19 @@
 
 #### Single colour
 
-![](img/usage-single-colour.png)
-
-This is the single colour version of the osu! cookie logo. This version of the logo is very versatile and can be adapted to many design styles.
+![](img/usage-single-colour.png "This is the single colour version of the osu! cookie logo. This version of the logo is very versatile and can be adapted to many design styles.")
 
 Please use the original file as the base, and do not create the logo from scratch.
 
 #### Full colour
 
-![](img/usage-full-colour.png)
-
-This is the full colour version of the osu! cookie logo. The subtle drop shadow is part of the full colour logo.
+![](img/usage-full-colour.png "This is the full colour version of the osu! cookie logo. The subtle drop shadow is part of the full colour logo.")
 
 Please use the logo as provided by the design kit without any modification.
 
 ### Clear space area
 
-![](img/clear-space-area.jpg)
-
-Please give the cookie some breathing space. Use the "o" in "osu!" as the measurement of space.
+![](img/clear-space-area.jpg "Please give the cookie some breathing space. Use the \"o\" in \"osu!\" as the measurement of space.")
 
 ### Single colour cookie usage restrictions
 
@@ -40,9 +34,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ---
 
-![](img/bad-single-aspect-ratio-wide.jpg "Do not change the cookie's aspect ratio.")
-
-![](img/bad-single-aspect-ratio-tall.jpg "Do not change the cookie's aspect ratio.")
+![](img/bad-single-aspect-ratio.jpg "Do not change the cookie's aspect ratio.")
 
 ![](img/bad-single-rotate.jpg "Do not rotate the cookie. The cookie must align to the medium's orientation or reader's eye when reading.")
 
@@ -62,9 +54,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ![](img/bad-single-extra-elements.jpg "Do not place any extra elements inside the cookie.")
 
-![](img/bad-single-outline-solid.jpg "Do not apply outlines to the cookie. Use a different cookie colour.")
-
-![](img/bad-single-outline-bg.jpg "Do not apply outlines to the cookie. Use a different cookie colour.")
+![](img/bad-single-outline.jpg "Do not apply outlines to the cookie. Use a different cookie colour.")
 
 ![](img/bad-single-think.jpg "Do not even think about changing the element. Come on. That is not even our logo. That is just some text in a circle.")
 
