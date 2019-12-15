@@ -61,6 +61,6 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
     - If the skin is compressed (using `.7z`, `.rar`, `.zip`, etc.):
         1. Extract it.
         2. Move the extracted skin folder into the `Skins` directory of the osu! installation path.
-        3. If osu! is running, skin will appear in the list only after you press the `Ctrl` + `Alt` + `Shift` + `S`.
+        3. If osu! is running, skin will appear in the list only after you press `Ctrl` + `Alt` + `Shift` + `S`.
         4. In osu!, go to the [Options](/wiki/Options) and search for `Skin`.
         5. Scroll down to the `Current skin:` option and select the skin you have downloaded.
