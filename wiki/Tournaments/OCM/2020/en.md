@@ -4,8 +4,9 @@ tags:
 - OCM2020
 ---
 # Osu Cup Master (OCM): Osu!catch edition
-
+<!--
 ->Inserte logo aca<-
+-->
 
 Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu!catch version. We hope you'll enjoy it and have fun on this competition.
 
@@ -26,10 +27,11 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![][GCrown]"1st place" | winner badge for each member (to be confirmed by tournament staff)|
-| ![][SCrown]"2nd place" | a month of osu!supporter for each member (to be confirmed)|
-
+| ![][GCrown] "1st place" | winner badge for each member (to be confirmed by tournament staff)|
+| ![][SCrown] "2nd place" | a month of osu!supporter for each member (to be confirmed)|
+<!--
 ->inserte chapita aca<-
+-->
 
 ## Organisation
 
