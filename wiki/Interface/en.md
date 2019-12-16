@@ -60,7 +60,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 ![Multi Lobby](img/Multi-Play-2016.png)
 ![Multi Host](img/Multi-play!_Host.jpg)
 
-1. Your rank in the match. This is also shown next to your name.
+1. Your rank in the match. This is also shown next to your name. <!-- Review Required -->
 2. Your profile information.
 3. The jukebox.
 4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable).
@@ -305,7 +305,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    - Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
    - Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
    - To Next Rank: How much score you need to move your current map ranking position up.
-6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
+6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart) <!-- Review Required -->
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9. Return to Song Selection.
