@@ -100,7 +100,7 @@ For the record, these include the recent changes made [from the discussion forum
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
-- **Do not include tags which have no relation to the beatmap or its song.** Tags relating to the beatmap's style, storyboard, video, or background content are considered related to the beatmap and would be allowed in tags.
+- **Do not include tags which have no relation to the beatmap or its song.** Tags relating to the beatmap's style, storyboard, video, or background content are considered related to the beatmap and would be allowed in tags. Do not use tags that might lead to misleading search results.
 
 #### Standardisation
 
