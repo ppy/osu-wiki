@@ -6,7 +6,6 @@
 
 该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ)【译注：需要科学上网】来解释怎么在 Windows 上面安装 osu!。
 
-
 ## 最低系统要求
 
 - .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。
@@ -23,7 +22,6 @@
 5. osu! 会提示你登录或注册。
     - 如果你已经有了账号，登录即可。
     - 如果你需要注册，参见[注册](/wiki/Registration).
-
 
 ## 添加谱面
 
