@@ -9,7 +9,7 @@
 
 ## 最低系统要求
 
-- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/en-us/download/details.aspx?id=48130)找到。
+- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。
 - 一张不错的显卡。
 
 ## 安装 osu!
@@ -70,4 +70,3 @@
         3. 如果 osu! 还开着，你可能需要重新打开来让皮肤可用。
         4. 在 osu! 里进入[选项（Options）](/wiki/Options)搜索`皮肤（Skin）`。
         5. 下滑到`当前皮肤：` 选项，选择下载好的皮肤。
-
