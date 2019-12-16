@@ -295,16 +295,16 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 1. You can change the name to record for this replay here.
 2. Your player bar. It shows your [PP](/wiki/pp), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
 3. Your options regarding the Beatmap.
-   1. Export Replay as `.osr`: Save the replay that can be used online.
-   2. Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps-&gt;Favourite Beatmaps
+   - Export Replay as `.osr`: Save the replay that can be used online.
+   - Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps-&gt;Favourite Beatmaps
 4. Here is the difference made to your profile. This shows how far you've moved up or down the Global Ranking, how much was added to your Total Score, and how much your Overall Accuracy changed. The text fades out rather quickly, so don't miss it!
 5. Self-explanatory. Will not appear if offline, or if the beatmap is not uploaded.
-   1. Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
-   2. Overall: Your profile standing on the gamemode you just played, not just the beatmap.
-   3. Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
-   4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
-   5. Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
-   6. To Next Rank: How much score you need to move your current map ranking position up.
+   - Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
+   - Overall: Your profile standing on the gamemode you just played, not just the beatmap.
+   - Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
+   - Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
+   - Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
+   - To Next Rank: How much score you need to move your current map ranking position up.
 6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
