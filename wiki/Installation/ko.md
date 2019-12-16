@@ -6,7 +6,7 @@
 
 ## 최소 시스템 요구 사항
 
-- .NET framework 4+ (설치되어 있지 않다면 osu! 설치 도중 해당 기능을 다운로드하라는 알림이 뜨게 됩니다. [여기](https://www.microsoft.com/en-us/download/details.aspx?id=48130)에서 수동으로 설치할 수도 있습니다.)
+- .NET framework 4+ (설치되어 있지 않다면 osu! 설치 도중 해당 기능을 다운로드하라는 알림이 뜨게 됩니다. [여기](https://www.microsoft.com/ko-kr/download/details.aspx?id=48130)에서 수동으로 설치할 수도 있습니다.)
 - 괜찮은 그래픽 카드
 
 ## osu! 설치하기
