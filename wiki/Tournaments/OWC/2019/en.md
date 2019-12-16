@@ -120,7 +120,7 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | United States | ![][flag_US] | ![][flag_KR] | South Korea | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 12:00 UTC+09 | ² |
 | United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **19:00 UTC** | 13:00 UTC-06 | 19:00 UTC | ² |
 
-¹ 3rd place encounter
+¹ 3rd place encounter  
 ² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
