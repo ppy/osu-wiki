@@ -23,7 +23,7 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
 - \[6\] A random useful tip is displayed below the menu.
 - \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
 - \[8\] Connection result to [Bancho](/wiki/Bancho)! In this picture it is not shown, but the connection result looks like a chain link.
-- \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
+- \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called `Online Users` here) and the regular chat window (`F9` & `F8`, respectively).
 - \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
   - Previous song
   - Play from start
@@ -66,7 +66,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable).
 5. The name of the match and the password settings.
 6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen.
-7. The mods that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
+7. The mods that you have activated (see #12), as well as the option to select them. The option marked `Free Mods` toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
 8. The team mode and win conditions.
 9. The ready button.
 10. The [chat console](/wiki/Chat_Console).
@@ -185,13 +185,13 @@ You may also enter a beatmap or beatmapset ID in your search to get a single res
 
  A variety of things can appear in this space:
 
-- A "Not Submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
-- An "Update to latest version" box appears if there is a new version of the beatmap available for download. Click on the button to update.
+- A `Not Submitted` box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System.
+- An `Update to latest version` box appears if there is a new version of the beatmap available for download. Click on the button to update.
   - **Note:** Once you update the beatmap, it cannot be reversed. If you want to preserve the older version for some reason (say, to keep scores), then do not update.
-- A "Latest pending version" box appears means that the beatmap has been uploaded to the osu!website but is not ranked yet.
+- A `Latest pending version` box appears means that the beatmap has been uploaded to the osu!website but is not ranked yet.
 - If replays matching the view setting of the beatmap exist, they will be displayed instead of a box denoting the ranked/played status of the beatmap. This is shown in the above picture.
   - Under public rankings (e.g. Global, Friends, etc.), your high score will be shown at the bottom, as well as your rank on the leaderboard.
-- A "No records set!" box means that there are no replays for the current view setting (this is typically seen in the Local view setting if you just downloaded or edited the beatmap).
+- A `No records set!` box means that there are no replays for the current view setting (this is typically seen in the Local view setting if you just downloaded or edited the beatmap).
   - Note: Scores for Multi are not counted as records.
 
 These are the view settings:
@@ -237,14 +237,14 @@ Press `Esc` or click the `Back` button to return to main menu.
 
 Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
 
-The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
+The background transparent icon and the `Mode` box will change to depict what mode is currently selected.
 
 ![Game modifiers](img/Soloplay8.png)
 
 Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_Modifiers/)**.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category.
-Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
+In this screen, you can apply modifications (`mods` for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click `Reset all mods` or press 1 to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
 
 While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
