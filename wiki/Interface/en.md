@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 <!--Logo definitions-->
 [Osu!]: /wiki/shared/mode/osu.png
 [Taiko]: /wiki/shared/mode/taiko.png
@@ -29,11 +25,11 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
 - \[8\] Connection result to [Bancho](/wiki/Bancho)! In this picture it is not shown, but the connection result looks like a chain link.
 - \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
 - \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
-  - Previous Track
-  - Play
+  - Previous song
+  - Play from start
   - Pause
-  - Stop (the difference between Play and Stop is that Stop will reset the song to the beginning, while Pause simply pauses it)
-  - Next Track
+  - Stop playing and reset duration to 0
+  - Next song
   - View Song Info. This toggles the top bar showing the song info between being permanent and temporary. When permanent, the info bar will stay visible until it fades out with the rest of the UI. When temporary, it will disappear a little while after a song has been chosen. It will stay hidden until it is toggled again, or another song plays.
 - \[11\] The number of beatmaps you have available, how long your osu!client has been running for, and your system clock.
 - \[12\] Your profile, click on it to display the User Options (see below).
