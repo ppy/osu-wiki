@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # macOS
 
 Questa pagina ti spiegherà grossomodo come installare osu! sul tuo sistema macOS.
