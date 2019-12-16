@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # インストール
 
-*関連記事: [インストール/macOS](/wiki/Installation/macOS)* <!-- と[インストール/Linux](/wiki/Installation/Linux)* -->
+*関連記事: [インストール/macOS](/wiki/Installation/macOS)*
 
 このページはWindowsデバイス上でosu!を導入するための方法が記載されています。 [osu!academy](/wiki/osu!academy)には[チュートリアル動画](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ)があり、そちらでWindowsへosu!をインストールする方法を説明しています。
 
