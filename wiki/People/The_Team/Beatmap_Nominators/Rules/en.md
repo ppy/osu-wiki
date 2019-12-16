@@ -22,9 +22,8 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 ### Qualification
 
-- **To maintain a variety of songs in the Ranked section, there are two requirements:**
-  - Different beatmaps of similar versions of a song cannot be qualified in the same mode at the same time. Similar versions of a song include cuts, extensions, and simple covers.
-  - Only 3 significantly different versions of a song may be qualified in the same mode at the same time. Significantly different versions include remixes, compilations, and mashups.
+- **Different beatmaps of similar versions of a song cannot be qualified in the same mode at the same time.** Similar versions of a song include cuts, extensions, and simple covers.
+- **Only 3 significantly different versions of a song may be qualified in the same mode at the same time.** Significantly different versions include remixes, compilations, and mashups.
 - **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
 - **Hybrid beatmapsets must be nominated by full nominators from two of its modes in order to be qualified**, as well as gain clear approval from any remaining modes' nominators in the modding discussion. This means only full members may nominate hybrid sets, and ensures that a full nominator takes responsibility for each mode (regardless of nominating or just giving approval in the discussion). In this scenario, nominators proficient in multiple modes can approve more than one mode.
