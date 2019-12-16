@@ -8,7 +8,7 @@
 
 ## 最低系统要求
 
-- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。
+- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。）
 - 一张不错的显卡。
 
 ## 安装 osu!
@@ -27,7 +27,7 @@
 
 *另见：[谱面](/wiki/Beatmaps) 与 [谱面集](/wiki/Beatmapsets)*
 
-有两种添加谱面的方式，分别是在网站下载和 osu!direct（需要成为 [osu!supporter](/wiki/osu!supporter))。
+有两种添加谱面的方式，分别是在网站下载和 osu!direct（需要成为 [osu!supporter](/wiki/osu!supporter)）。
 
 ### 网站下载
 
