@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # How you can help!
 
 osu!, like any other game, has a very vibrant community, composed of people from all around the world, with differing skill sets and different purposes.

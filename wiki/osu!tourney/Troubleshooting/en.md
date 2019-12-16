@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Troubleshooting
 
 ## How do I create a fresh osu! installation without uninstalling the current game?

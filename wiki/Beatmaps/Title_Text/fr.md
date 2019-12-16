@@ -6,8 +6,6 @@ tags:
 
 # Texte de titre
 
-<!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
-
 ![Capture d'écran d'un gameplay osu! avec le titre visible](img/liquid-title-text.jpg "Le titre pour \"Rostik - Liquid (Paul Rosenthal Remix)\" est montré juste après le début de la map.")
 
 **Le titre** apparaît en haut au milieu de l'écran quand vous jouez une beatmap. Le plus souvent, il montre l'artiste et le titre de la chanson au début de la map, mais le créateur de la map peut changer le texte et mettre ce qu'il lui plait. Le créateur peut aussi changer le format du texte et quand il apparaît.

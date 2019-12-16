@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Cet article continue à partir de la page principale* et suppose que vous utiliserez [GitHub Desktop](https://desktop.github.com). **Vous pouvez utiliser d'autres clients git à vos propres conditions.** Même si vous travaillez en local, vous devrez toujours accéder à GitHub pour créer des pull request permettant d'effectuer vos modifications.
+*Cet article est la continuité de la page principale* et suppose que vous utiliserez [GitHub Desktop](https://desktop.github.com). **Vous pouvez utiliser d'autres clients git à vos propres conditions.** Même si vous travaillez en local, vous devrez toujours accéder à GitHub pour créer des pull request permettant d'effectuer vos modifications.
 
 ## Installer GitHub Desktop
 
@@ -16,7 +16,7 @@
 
 1\. Cliquer sur `Clone a repository`.
 
-2\. Cela affichera une liste de vos ropos; sélectionnez le `osu-wiki`.
+2\. Cela affichera une liste de vos repos; sélectionnez le `osu-wiki`.
 
 3\. Sélectionnez l'emplacement du clone. Peu importe où vous clonez le repo, rappelez-vous juste où vous l'avez cloné.
 
@@ -30,17 +30,17 @@
 
 *Remarque: Ceci est techniquement optionnel, mais fortement recommandé pour des raisons que vous devrez rechercher vous-même.*
 
-1\. Clique sur le menu déroulant  `Current branch`. Ceci est situé en haut du menu.
+1\. Cliquez sur le menu déroulant  `Current branch`. Celui-ci est situé en haut du menu.
 
-2\. Entrez un nom pour cette branche. Il est suggéré d'utiliser le nom de l'article que vous modifiez en tant que nom de branche suivi d'un numéro. Par exemple, éditer le `Forums` article peut entraîner la branche étant appelée `forums1`.
+2\. Entrez un nom pour cette branche. Il est suggéré d'utiliser le nom de l'article que vous modifiez en tant que nom de branche suivi d'un numéro. Par exemple, pour éditer l'article `Forums` il faudra appeller la branche `forums1`.
 
 ![](img/github-desktop-branch.jpg)
 
-3\. Continuer à [Édition](#édition).
+3\. Continuez à [Édition](#édition).
 
 ## Édition
 
-1\. Dans le dossier dans lequel vous avez cloné le référentiel, accédez au fichier que vous souhaitez modifier. Les articles sont organisés en fonction des noms de dossier, à savoir les noms d’article et les fichiers `.md` en local.
+1\. Dans le dossier dans lequel vous avez cloné le référentiel, accédez au fichier que vous souhaitez modifier. Les articles sont organisés en fonction des noms de dossier, à savoir les noms d’articles et les fichiers `.md` en local.
 
 2\. Une fois que vous avez trouvé le bon fichier, ouvrez-le à l'aide de votre éditeur de texte préféré.
 
@@ -58,7 +58,7 @@
 
 *Attention: Si vous envisagez de créer des fichiers d’article à l’aide de l’explorateur Windows, assurez-vous que l'option `Extensions de nom de fichier` est activée.* Voir [Comment afficher ou masquer les extensions de nom de fichier dans l'Explorateur Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) pour les instructions.
 
-1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions. [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
+1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions des [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
 
 2\. Continuer à [Committing and pushing](#committing-and-pushing).
 
@@ -78,11 +78,11 @@
 
 3\. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marqué les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
 
 4\. Sélectionnez les fichiers à valider.
 
-5\. Entrez le résumé de validation. Celui-ci est limité à 72 caractères et **doit être en anglais**.
+5\. Entrez le message de commit. Celui-ci est limité à 72 caractères et **doit être en anglais**.
 
 6\. Entrez la description. Ceci est facultatif, n’a pas de limite de caractères et peut être dans n’importe quelle langue.
 

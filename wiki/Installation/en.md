@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Installation
 
 *See also: [Install on macOS](/wiki/Installation/macOS)*
