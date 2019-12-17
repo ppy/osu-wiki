@@ -4,8 +4,6 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 ## By category, with reasons
 
-<!-- markdownlint-disable MD045 -->
-
 ### World Cup winners
 
 One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
@@ -54,7 +52,7 @@ Winners of MWC 7K 2019 with the **osu!mania Champion** user title:
 
 ### General mapping contest winners
 
-Most mapping contests offer the **Elite Mapper** title as a first-place prize.
+Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -107,16 +105,24 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 
 [Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
 
-- ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723)
-- ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834)
-- ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
-- ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053)
-- ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310)
-- ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848)
-- ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867)
-- ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258)
-- ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619)
-- ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) and ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) have the **osu!musician** title for earlier contributions to osu!'s sound design and official themes, and ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) opted to keep the **osu!mixer** title when he became a Featured Artist.
+
+| User | Artist |
+| :-- | :-- |
+| ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
+| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
+| ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
+| ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
+| ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
+| ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
+| ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
 ### Hall of Famers
 
@@ -220,6 +226,7 @@ Storyboarders who demonstrate exceptional storyboarding talent and impress the c
 | ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
 | ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
+| ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
