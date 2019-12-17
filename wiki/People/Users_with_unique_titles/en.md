@@ -124,9 +124,19 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
+### Mascot design contest winners
+
+The osu!team held art contests for community members to get a chance to design or redesign some of the game's mascots. Winners of these contests, as well as the people whose designs were ultimately used as official artwork, were awarded the **osu!artist** title.
+
+- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) designed **Mocha** and helped produce a lot of other osu! artwork.
+- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) won the [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2) contest.
+- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) redesigned **Yuzu**.
+
 ### Hall of Famers
 
-<!-- TODO: title explanation and reasons for each person -->
+These three users were awarded the **osu! Hall of Famer** title for playing the game at the highest level and contributing back when the community was still young.
+
+<!-- TODO: reasons -->
 
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
@@ -142,43 +152,41 @@ Storyboarders who demonstrate exceptional storyboarding talent and impress the c
 
 ### Gameplay-related
 
-<!-- TODO: titles/reasons for each person -->
+These players earned their titles through either a crazy gameplay achievement or completion of a specific challenge.
 
-- ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) <!-- Champion Above Champions  fcd https://osu.ppy.sh/beatmapsets/7671#osu/32570 first -->
-- ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) <!-- Drum Decimator  fcd all taiko ranked maps -->
-- ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) <!-- Bested the Reaper's Game  a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further -->
-- ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) <!-- The First Completionist  played all standard ranked maps -->
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) <!-- Medal Hunter -->
+| User | Title | Achievement |
+| :-- | :-- | :-- |
+| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Scored the first NoMod FC on [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator | Scored FCs on all Ranked osu!taiko maps as of 3 November 2019 |
+| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Undocumented* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Played all Ranked osu!standard maps as of 27 April 2019 |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Won [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Contributors
 
-<!-- TODO: titles/reasons for each person -->
+<!-- TODO: reasons -->
 
-- ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) <!-- osu!musician -->
-- ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) <!-- Resident Skinner -->
-- ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) <!-- Pro Tester -->
-- ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) <!-- osu!musician -->
-- ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) <!-- iPhone Dev -->
-- ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) <!-- Pro Tester -->
+| User | Title |
+| :-- | :-- |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
+| ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
 ### Other
 
-<!-- TODO: titles/reasons for each person -->
+<!-- TODO: reasons -->
 
-- ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) <!-- w00t p00t -->
-- ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) <!-- COOL DUDE  old forum meme -->
-- ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) <!-- Popcorn Fairy  movie threater pictures in staff chats, or something -->
-- ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) <!-- ¿ -->
-- ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) <!-- Boats -->
-
-<!-- TODO: titles/reasons for each person & sort these guys into the right categories -->
-
-- ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) <!-- osu!painter  achievements and some other graphics -->
-- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) <!-- osu!artist  mocha and a bunch of artwork -->
-- ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) <!-- osu!painter  maria and yuzu and a bunch of artwork for old site -->
-- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) <!-- osu!artist  winner of osutaiko mascot contest (aiko)-->
-- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) <!-- osu!painter -->
-- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) <!-- osu!artist -->
+| User | Title |
+| :-- | :-- |
+| ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
+| ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
 ## By name
 
