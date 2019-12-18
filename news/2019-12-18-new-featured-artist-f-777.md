@@ -44,11 +44,11 @@ Here's a very tiny selection of a few tracks to give you a bit of a taste:
     <source src="https://assets.ppy.sh/artists/60/previews/1704.mp3" type="audio/mpeg">
 </audio>
 
-----
+---
 
 All 42 tracks are available right now over at [**F-777**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/60), pre-timed and just waiting for you to slap your rhythmic mark all over them. What're you waiting for?
 
-You all seemed to enjoy the mid-week Twitter hint last time around, so we'll be continuing on with that trend in the future. Make sure you're following the [@osugame twitter](https://twitter.com/osugame) for the latest details, plus more tidbits on all things osu!
+You all seemed to enjoy the mid-week Twitter hint last time around, so we'll be continuing on with that trend in the future. Make sure you're following the [@osugame Twitter](https://twitter.com/osugame) for the latest details, plus more tidbits on all things osu!
 
 And congratulations to [Mismagius](https://osu.ppy.sh/users/19048), who correctly deciphered the hint in roughly three minutes after the tweet was posted. Clever bastard.
 
