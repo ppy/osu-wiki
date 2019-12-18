@@ -50,7 +50,7 @@ All 42 tracks are available right now over at [**F-777**'s Featured Artist listi
 
 You all seemed to enjoy the mid-week Twitter hint last time around, so we'll be continuing on with that trend in the future. Make sure you're following the [@osugame Twitter](https://twitter.com/osugame) for the latest details, plus more tidbits on all things osu!
 
-And congratulations to [Mismagius](https://osu.ppy.sh/users/19048), who correctly deciphered the hint in roughly three minutes after the tweet was posted. Clever bastard.
+And congratulations to [Mismagius](https://osu.ppy.sh/users/19048), who correctly deciphered the hint roughly three minutes after the tweet was posted. Clever bastard.
 
 See you next week!
 
