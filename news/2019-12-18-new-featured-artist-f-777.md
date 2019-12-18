@@ -10,7 +10,7 @@ date: 2019-12-18 11:00:00 +0000
 
 Surging in from *Geometry Dash* and Newgrounds fame, we're proud to finally welcome **F-777** aboard. Making music since he was 14 years old, **F-777** has had his work featured in a variety of video games like *Concerned Joe*, *One Finger Death Punch*, *Flash Flash Revolution* and more.
 
-This is one of our biggest releases in a while, sporting a whopping **42** brand new tracks for you to sink your teeth into, including well-loved classics like *He's a Pirate* and *Airborn Robots*.
+This is one of our biggest releases in a while, sporting a whopping **42** brand new tracks for you to sink your teeth into, including well-loved classics like *He's a Pirate* and *Airborne Robots*.
 
 Here's a very tiny selection of a few tracks to give you a bit of a taste:
 
