@@ -345,7 +345,7 @@ Embeds a YouTube video in your post.
 [youtube]VIDEO_ID[/youtube]
 ```
 
-### audio
+### Audio
 
 **Show an HTML5 audio player from an online audio source**.
 
