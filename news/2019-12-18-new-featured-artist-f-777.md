@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: F-777"
-date: 2019-12-18 11:00:00 +0000
+date: 2019-12-18 09:05:00 +0000
 ---
 
 **F-777** joins the fray as our latest Featured Artist!
