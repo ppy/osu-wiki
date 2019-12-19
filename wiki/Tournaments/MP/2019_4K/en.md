@@ -1,16 +1,16 @@
 ---
 tags:
-- Mistrzostwa Polski w 4K 3
-- MP4K
-- MP4K 3
-- MP4K 2019
+  - MP4K
+  - MP4K 3
+  - Polish Championship
+  - Polish Championship 3
 ---
 
-# Polish 4K Championship 3
+# Mistrzostwa Polski w 4K 2019
 
-![MP4K 3 Logo](img/logo.png)
+![MP4K 2019 Logo](img/logo.png)
 
-**Mistrzostwa Polski w 4K 3 (Polish 4K Championship 3)** (***MP4K 3***) was a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It is the third installment of the Mistrzostwa Polski 4K.
+The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a one-on-one osu!mania 4-key tournament made for osu! players based in Poland or of Polish Heritage. It was the third installment of the Mistrzostwa Polski w 4K.
 
 ## Tournament Schedule
 
@@ -36,7 +36,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
 
-![MP4K 3 Badge](img/badge.png "MP4K 3 Winner Badge")
+![MP4K 2019 Badge](img/badge.png "MP4K 2019 Winner Badge")
 
 ## Organisation
 
@@ -55,7 +55,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907418)
 - [Livestream](https://www.twitch.tv/mp4k)
-- [MP4K Tournament Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 - [Challonge](https://challonge.com/MP4K3)
 
 ---
@@ -447,18 +447,18 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+2 (or Central European Summer Time)** in that particular week when your match takes place.
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
   - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
-  - For maximal accountability on the MP4K 3 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
+  - For maximal accountability on the MP4K 2019 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
   - Take care of any priorities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
-  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in MP4K 3 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
+  - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in MP4K 2019 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
-  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the MP4K 3 staff.
+  - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the MP4K 2019 staff.
   - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**. In the Post-Qualification stage **the player with the higher qualifier seed in the match-up will advance automatically**
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
   - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
-- ***It is our right as the MP4K 3 staff to reprimand users for intolerable behavior***.
-  - MP4K 3 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
+- ***It is our right as the MP4K 2019 staff to reprimand users for intolerable behavior***.
+  - MP4K 2019 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up Songs

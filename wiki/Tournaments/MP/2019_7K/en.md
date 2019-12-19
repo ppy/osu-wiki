@@ -1,14 +1,15 @@
 ---
 tags:
   - MP7K
-  - MP7K 2019
+  - Pierwsza Edycja
+  - Polish Championship
 ---
 
-# Mistrzostwa Polski w 7K Pierwsza Edycja
+# Mistrzostwa Polski w 7K 2019
 
-![MP7K Logo](img/logo.png)
+![MP7K 2019 Logo](img/logo.png)
 
-**Mistrzostwa Polski w 7K Pierwsza Edycja (Polish 7K Championship)** (***MP7K***) is a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
+The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) is a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
 
 ## Tournament schedule
 
@@ -47,7 +48,7 @@ tags:
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/970857)
 - [Livestream](https://www.twitch.tv/polishosumania)
-- [MP7K Tournament Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
 
 ---
 
