@@ -104,30 +104,54 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 14 December 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **14:00 UTC** | 17:00 UTC+03 | 23:00 UTC+09 | ² |
-| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 | ² |
-
-### Sunday, 15 December 2019
+### Saturday, 21 December 2019
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **04:00 UTC** | 23:00 (Sat.) UTC-05 | 13:00 UTC+09 | ³ |
-| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 14:00 UTC+01 | 16:00 UTC+03 | ³ |
-| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ³ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **20:00 UTC** | 14:00 UTC-06 | 20:00 UTC | ¹ |
+| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | **14:00 UTC** | 14:00 UTC | 23:00 UTC+09 | ¹ |
 
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²Loser bracket encounter
+### Sunday, 22 December 2019
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 12:00 UTC+09 | ² |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **19:00 UTC** | 13:00 UTC-06 | 19:00 UTC | ² |
+
+¹ 3rd place encounter  
+² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
+  - [ARForest - Metheus (FrenZ396) \[Finale\]](https://osu.ppy.sh/beatmapsets/1078954#osu/2257502)
+  - [T.M.Generation - X-DEN (Realazy) \[Chuuden\]](https://osu.ppy.sh/beatmapsets/961061#osu/2012009)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#osu/2255709)
+  - [Cattle Decapitation - Your Disposal (Chanci) \[Eradication\]](https://osu.ppy.sh/beatmapsets/988109#osu/2207855)
+  - [SHO - Plain Asia ~ Guardian of the Village (Jenny) \[Unmodified Girlfriend\]](https://osu.ppy.sh/beatmapsets/299884#osu/2255738)
+- Hidden
+  - [James Landino - Hide And Seek (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
+  - [Hikutsu-P - Dance of Many (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078746#osu/2257140)
+  - [xi - Mirage Garden (P o M u T a) \[Exitra\]](https://osu.ppy.sh/beatmapsets/319940#osu/712015)
+- HardRock
+  - [ZAQ - Seven Doors (SkyFlame) \[Trinity Soul\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2257421)
+  - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki_1112) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/707164#osu/1512325)
+  - [otetsu - Yokuatsu Sakuran Girl (ZZHBOY) \[HW's Expert\]](https://osu.ppy.sh/beatmapsets/195582#osu/499839)
+- DoubleTime
+  - [Aki - star river (ShirohaMyMommy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908990#osu/1896891)
+  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#osu/2206544)
+  - [TOKINE - Soko ni Aru Mono (Patchouli) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/70137#osu/434536)
+  - [Andromedik - Invasion (Mirash) \[NeilBot's Insane\]](https://osu.ppy.sh/beatmapsets/789544#osu/1656914)
+- FreeMod
+  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#osu/2256378)
+  - [paraoka - boot (Natteke desu) \[difficulty\]](https://osu.ppy.sh/beatmapsets/913680#osu/1908543)
+  - [S.S.H. - Holy Orders (Deif) \[LKs\]](https://osu.ppy.sh/beatmapsets/31750#osu/104842)
+- Tiebreaker
+  - **[Falcom Sound Team jdk - GENS D'ARMES (jonathanlfj) \[CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1078344#osu/2256387)**
 
 ### Finals
 
@@ -284,6 +308,18 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 ---
 
 ## Match results
+
+### Finals
+
+| Saturday, 2019-12-14 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56966806) |
+| **Germany** ![][flag_DE] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/56976278) |
+
+| Sunday, 2019-12-15 | | | | |
+| --: | :-: | :-: | :-- | :-: |
+| Germany ![][flag_DE] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56997003) |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/57007868) |
 
 ### Semifinals
 

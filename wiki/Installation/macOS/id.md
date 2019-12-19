@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # macOS
 
 Laman ini secara kasar akan membantu kamu untuk memasang osu! pada perangkat macOS kamu.
