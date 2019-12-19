@@ -8,7 +8,7 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1), country independant double elimation based osu!mania tournament hosted by ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) double elimination country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament Schedule
 
@@ -92,6 +92,24 @@ The Speed of Light Mania Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+- FreeMod
+  - [void - Valedict (Valedict) \[Departure\]](https://osu.ppy.sh/beatmapsets/770466#mania/1619858) 
+  - [MINTi - So Fresh So Good (Leo137) \[Leo137's 4K\]](https://osu.ppy.sh/beatmapsets/516485#mania/1097526)
+  - [The Ghost of 3.13 - Daydream (Vortex-) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/764928#mania/1608410)
+  - [Pure Gem - Pure Love (Pengunosity) \[Normal\]](https://osu.ppy.sh/beatmapsets/1063537#mania/2226784)
+  - [Qygen - Cascadian Cannabis Conundrum (Elekton) \[technician\]](https://osu.ppy.sh/beatmapsets/799097#mania/1677872)
+  - [uma - keep on running (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/671592#mania/1419942)
+  - [M2U - Gypsy Tronic (Raveille) \[By The Hand\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
+  - [Frums - theyaremanycolors (NightNarumi) \[White (SV)\]](https://osu.ppy.sh/beatmapsets/1013736#mania/2158256)
+  - [Morimori Atsushi - Milk (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+  - [Alon Mor & Sex Whales - JasmineAlon Mor & Sex Whales - Jasmine \[ Vento \] \[Moderate\]](https://osu.ppy.sh/beatmapsets/738864#mania/1559307)
+  - [terminal11 - Mariachi Timebomb (Xay) \[Bolero \]](https://osu.ppy.sh/beatmapsets/972176#mania/2035555)
+  - [M-O-T-U - Heart Eyes (Ticle) \[Lastopia's H-A-R-D\]](https://osu.ppy.sh/beatmapsets/928967#mania/1941917)
+- Tiebreaker
+  - **[lapix - Paradoxy (Kamikaze) \[Protastic's Incomprehensible (MP4K 155 BPM Edit)\]](https://osu.ppy.sh/beatmapsets/996032#mania/2083442)** 
+
 ### Group Stage
 
 - FreeMod
@@ -113,12 +131,41 @@ The Speed of Light Mania Tournament is run by various community members.
 - FreeMod
   - [Morgan Hicks - enoUGH! (Dergo) \[givin' enough SV\]](https://osu.ppy.sh/beatmapsets/1052563#mania/2199672)
   - [II-L - VANGUARD-1 (Elekton) \[voyager\]](https://osu.ppy.sh/beatmapsets/1055051#mania/2204524)
-  - [cYsmix - Abandoned Shrine Party (juankristal) \[ATTACK\]](https://osu.ppy.sh/beatmapsets/866665#mania/1811869)
-  - [Memme - Pandemoniu (-Lethal-) \[cacophony\]](https://osu.ppy.sh/beatmapsets/1064937#mania/2229700)
+  - [THE ORAL CIGARETTES - 5150 (Raveille) \[ATTACK\]](https://osu.ppy.sh/beatmapsets/866665#mania/1811869)
+  - [Memme - Pandemonium (-Lethal-) \[cacophony\]](https://osu.ppy.sh/beatmapsets/1064937#mania/2229700)
 
 ---
 
 ## Match Results
+
+### Round of 32
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+
+| Friday, 2019-12-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Swarmsii** ![][flag_PH] | **5** | 4 | ![][flag_US] dhn | [#1](https://osu.ppy.sh/community/matches/56956932)
+
+| Saturday, 2019-12-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **bojii** ![][flag_PH] | **5** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/56956932)
+| Strachy ![][flag_FI] | 0 | **5** | ![][flag_MY] **cheewee10** | -win by default-
+| **-\[DaNieL_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_RU] Lerck | [#1](https://osu.ppy.sh/community/matches/56965394)
+| Gabi Kamui ![][flag_BR] | **5** | 2 | ![][flag_US] N1ckN1ght | [#1](https://osu.ppy.sh/community/matches/56965320)
+| Proxae ![][flag_ID] | 2 | **5** | ![][flag_US] **Logan636** | [#1](https://osu.ppy.sh/community/matches/56973478)
+| **C1e4r** ![][flag_RU] | **5** | 3 | ![][flag_RU] FoXCHANNEL | [#1](https://osu.ppy.sh/community/matches/56976412)
+
+| Sunday, 2019-12-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **AW ZERO** ![][flag_TW] | **5** | 1 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/56986838			)
+| **\[Crz\]Lochie** ![][flag_AU] | **5** | 2 | ![][flag_CA] loafusofbread | [#1](https://osu.ppy.sh/community/matches/56988588)
+| Baoketban123 ![][flag_VN] | 1 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/56992959)
+| **AngeloLagusa** ![][RU] | **5** | 1 | ![][flag_PH] realqarp | [#1](https://osu.ppy.sh/community/matches/56993743)
+| Cohue ![][flag_PH] | 1 | **5** | ![][flag_FI] **Camopoltergeist** | [#1](https://osu.ppy.sh/community/matches/56993770			)
+| **Unholy** ![][flag_US] | **5** | 0 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/56999199)
+| **andreymc** ![][flag_BR] | **5** | 1 | ![][flag_VN] Mashedpotato | [#1](https://osu.ppy.sh/community/matches/57001507)
+| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_BR] Kyut | [#1](https://osu.ppy.sh/community/matches/57006230)
+| **DaZeRo5** ![][flag_PE] | **5** | 0 | ![][flag_US] Playboi Carti | [#1](https://osu.ppy.sh/community/matches/57008650)
 
 ### Group Stage
 
