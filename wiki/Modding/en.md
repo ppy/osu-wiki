@@ -1,6 +1,6 @@
 # Modding
 
-Modding is the act of providing feedback on another user's [beatmap](/wiki/beatmap). A user who is modding is referred to as a `modder` and their collective posts on a beatmap's discussion page are referred to as a `mod`.
+Modding is the act of providing feedback on another user's [beatmap](/wiki/beatmap). A user who is modding is referred to as a `modder` and their collective posts on a beatmap's discussion are referred to as a `mod`.
 
 Mods are mainly used to improve beatmaps aiming for Ranked status. Because it is a detailed and analytical process, modding beatmaps is also a popular way for users improve their understanding of beatmapping.
 
@@ -34,7 +34,7 @@ Beatmappers regularly provide [kudosu](/wiki/kudosu) to mod posts that they agre
 
 The goal of each `Problem` or `Suggestion` post on a beatmap discussion is to explain anything concerning about a beatmap in the context of its design.
 
-Many mod posts address mistakes in a beatmap. For example, a missing `Clap` hit sound which would be expected by the beatmap's hit sounding pattern is likely a mistake.
+Many mod posts address mistakes in a beatmap. For example, a missing `Clap` hitsound which would be expected by the beatmap's hitsounding pattern is likely a mistake.
 
 Providing alternative ways of beatmapping is another common type of mod post. While part of a beatmap may be acceptable in its current form, a modder can explain how to improve it further by designing it differently.
 
