@@ -1,6 +1,6 @@
 # Apakah Anda benar-benar ingin bertanya kepada peppy?
 
-Hai, Saya ([peppy](https://osu.ppy.sh/users/2 "peppy")) memahami keinginan Anda untuk menghubungi saya secara pribadi, tetapi saya meminta Anda untuk pertama-tama memahami bahwa Anda menghubungi saya dengan tujuan **bukan** untuk meminta bantuan/disamakan dengan layanan dukungan. Saya memutuskan untuk memisahkan layanan dukungan osu! terpisah dengan pesan pribadi, dan juga sadar bahwa menjawab Pesan Pribadi dari forum sangat sulit untuk mengimbanginya. Karena itu saya meminta Anda melakukan salah satu opsi berikut:
+Hai, Saya ([peppy](https://osu.ppy.sh/users/2)) memahami keinginan Anda untuk menghubungi saya secara pribadi, tetapi saya meminta Anda untuk pertama-tama memahami bahwa Anda menghubungi saya dengan tujuan **bukan** untuk meminta bantuan/disamakan dengan layanan dukungan. Saya memutuskan untuk memisahkan layanan dukungan osu! terpisah dengan pesan pribadi, dan juga sadar bahwa menjawab Pesan Pribadi dari forum sangat sulit untuk mengimbanginya. Karena itu saya meminta Anda melakukan salah satu opsi berikut:
 
 ## Layanan Dukungan Teknis
 
