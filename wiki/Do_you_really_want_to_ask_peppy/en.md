@@ -12,7 +12,7 @@ Most technical issues can be resolved by searching or posting in the [Help forum
 
 ## General osu! support
 
-For account issues, problems with payments, ban follow-ups, enquiries about tournaments and **anything related to needing help on osu!**, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) (account queries) or [osu@ppy.sh](mailto:osu@ppy.sh) (anything else). If any of our support members are online, you can also use the little "?" button in the bottom-right-hand corner of the page you are viewing.
+For account issues, problems with payments, ban follow-ups, enquiries about tournaments and **anything related to needing help on osu!**, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) (account queries) or [osu@ppy.sh](mailto:osu@ppy.sh) (anything else).
 
 ## Contacting peppy
 
