@@ -8,7 +8,7 @@ Sebagian besar masalah teknis dapat diselesaikan dengan mencari atau mengirim ki
 
 ## Layanan Dukungan Umum osu!
 
-Untuk masalah akun dan pembayaran, pelarangan tindak lanjut, pertanyaan mengenai turnamen dan **segala sesuatu yang berkaitan dengan permohonan bantuan dalam osu!**, Anda dipersilakan untuk mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) (pertanyaan mengenai akun) atau [osu@ppy.sh](mailto:osu@ppy.sh) (pertanyaan lainnya). Jika ada anggota layanan dukungan kami yang online, Anda juga dapat menggunakan tombol "?" yang berada di sudut kanan bawah halaman yang sedang Anda buka.
+Untuk masalah akun dan pembayaran, pelarangan tindak lanjut, pertanyaan mengenai turnamen dan **segala sesuatu yang berkaitan dengan permohonan bantuan dalam osu!**, Anda dipersilakan untuk mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) (pertanyaan mengenai akun) atau [osu@ppy.sh](mailto:osu@ppy.sh) (pertanyaan lainnya).
 
 ## Menghubungi peppy
 

@@ -10,7 +10,7 @@ Teknik sorunların büyük çoğunluğu [Tech Support forumunda](https://osu.ppy
 
 ## Genel osu! destek
 
-Hesap sorunları, ödemeler ile ilgili sorunlar, ban sonrası, turnuvalar hakkında sorgular ve **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap sorgulamaları) ya da [osu@ppy.sh](mailto:osu@ppy.sh) (geri kalan her şey) bir e-posta gönderin. Eğer destek ekibimizden herhangi biri çevirimiçi ise, görüntülediğiniz sayfanın sağ altındaki küçük "?" tuşunu da kullanabilirsiniz.
+Hesap sorunları, ödemeler ile ilgili sorunlar, ban sonrası, turnuvalar hakkında sorgular ve **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap sorgulamaları) ya da [osu@ppy.sh](mailto:osu@ppy.sh) (geri kalan her şey) bir e-posta gönderin.
 
 ## peppy'e ulaşmak
 
