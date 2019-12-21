@@ -10,11 +10,11 @@ We have concluded our osu!idol contest for this year. Thank you to everyone that
 
 ### Results
 
-Congratulations to this year's osu!idol: **[iamALieee](https://osu.ppy.sh/users/10093980)**! Their amazing performance of Arisa Komiya's *White First Love* acquired 1,283 votes, earning them first place!
+Congratulations to this year's osu!idol: **[iamALieee](https://osu.ppy.sh/users/10093980)**! Their amazing performance of Arisa Komiya's *White First Love* acquired 1,283 votes, earning them first place! They will be rewarded with the osu!idol 2019 Winner profile badge and 6 months of osu!supporter.
 
-**Coming up next we have [aceredshirt13](https://osu.ppy.sh/users/13736238)** with their performance of **Darren Korb - Setting Sail, Coming Home** taking second with 290 votes!
+Coming up next we have **[aceredshirt13](https://osu.ppy.sh/users/13736238)** with their performance of *Darren Korb - Setting Sail, Coming Home* taking second with 290 votes and receiving 3 months of osu!supporter!
 
-**In a close third, with 204 votes, is [moof](https://osu.ppy.sh/users/8457202)** with their performance of **niki - Jitter Doll**! Another job well done!
+In a close third, with 204 votes, is **[moof](https://osu.ppy.sh/users/8457202)** with their performance of *niki - Jitter Doll*! They will be taking home 2 months of osu!supporter. Another job well done!
 
 You can listen to their performances here:
 
