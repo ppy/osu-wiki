@@ -16,7 +16,7 @@ Congratulations to this year's osu!idol: **[iamALieee](https://osu.ppy.sh/users/
 
 **In a close third, with 204 votes, is [moof](https://osu.ppy.sh/users/8457202)** with their performance of **niki - Jitter Doll**! Another job well done!
 
-Links to the performances:
+You can listen to their performances here:
 
 - [iamALieee - White First Love](https://assets.ppy.sh/contests/83/entries/osu!idol%202019%20-%20iamALieee%20-%20White%20First%20Love.mp3)
 - [aceredshirt13 - Setting Sail, Coming Home](https://assets.ppy.sh/contests/83/entries/osu!idol%202019%20-%20aceredshirt13%20-%20Setting%20Sail,%20Coming%20Home.mp3)
