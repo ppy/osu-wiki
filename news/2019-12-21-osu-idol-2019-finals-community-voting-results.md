@@ -4,7 +4,7 @@ title: "osu!idol 2019 Finals: Community Voting Results"
 date: 2019-12-21 12:00:00 +0000
 ---
 
-We have concluded our osu!idol contest for this year. Thank you to everyone that was able to participate in the [community voting](https://osu.ppy.sh/home/news/2019-11-19-osu-idol-2019-finals-community-voting)! Time for the results.
+We have concluded our osu!idol contest for this year. Thank you to everyone that was able to participate in the [community voting](https://osu.ppy.sh/community/contests/83)! It's time for the results.
 
 ![](/wiki/shared/news/2019-11-19-osu-idol-2019-finals-community-voting/banner.jpg)
 
