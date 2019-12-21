@@ -10,7 +10,7 @@ We have concluded our osu!idol contest for this year. Thank you to everyone that
 
 ### Results
 
-**Congratulations to this year's osu!idol: [iamALieee](https://osu.ppy.sh/users/10093980)!** Their amazing performance of **Arisa Komiya - White First Love** acquired 1,283 votes, earning them first place!
+Congratulations to this year's osu!idol: **[iamALieee](https://osu.ppy.sh/users/10093980)**! Their amazing performance of Arisa Komiya's *White First Love* acquired 1,283 votes, earning them first place!
 
 **Coming up next we have [aceredshirt13](https://osu.ppy.sh/users/13736238)** with their performance of **Darren Korb - Setting Sail, Coming Home** taking second with 290 votes!
 
