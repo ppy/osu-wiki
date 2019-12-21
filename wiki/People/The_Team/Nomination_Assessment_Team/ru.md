@@ -58,4 +58,3 @@
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-
