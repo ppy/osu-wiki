@@ -174,6 +174,7 @@ tags:
         -   [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
         -   [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
         -   [Support Team](/wiki/People/The_Team/Support_Team)
+    -   [Users with unique titles](/wiki/People/Users_with_unique_titles)
 -   [Performance Points](/wiki/Performance_Points)
     -   [ppv1](/wiki/Performance_Points/ppv1)
 -   [Play Styles](/wiki/Play_Styles)
