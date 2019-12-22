@@ -1,6 +1,6 @@
 # Users with unique titles
 
-User titles are typically associated with [user groups](/wiki/People/The_Team#user-groups), but the users listed here were given their titles for other reasons. Most of the titles were rewards for contribution or achievement, with the remaining being tokens of iconic or funny osu! history.
+User titles are typically associated with [user groups](/wiki/People/The_Team#user-groups), but the users listed below were given their titles for other reasons. Most of the titles were rewards for contributions or achievements, with the remaining being tokens of iconic or funny osu! history.
 
 ## By category, with reasons
 
@@ -84,7 +84,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 
 ### Aspire mapping contest winners
 
-The Aspire mapping contests featured a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
+The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
