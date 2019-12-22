@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Keyboard Bindings
 
 To access this dialog, open the [Options](/wiki/Options/), type in `change` then click on `Change keyboard bindings`.

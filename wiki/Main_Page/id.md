@@ -1,22 +1,19 @@
 ---
 layout: main_page
-outdated: true
 ---
 
 <div class="wiki-main-page__blurb">
-osu! wiki adalah sebuah projek berdasarkan orang-orang yang berkontribusi dalam gim osu!. Tujuan akhirnya adalah menggantikan bagian FAQ yang lama, dan memungkinkannya menjadi sumber yang jauh lebih lengkap. Namun, untuk memungkinkan ini, kami membutuhkan bantuan dari semua orang yang mau berkontribusi!
-<br>
-Kamu dapat menggunakan akun osu! kamu untuk mulai berkontribusi!
+Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentang osu!.
 </div>
 
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
-# Mulai Permain
+# Pendahuluan
 
-[Selamat Datang](/wiki/Welcome) • [Pendaftaran](/wiki/Registration) • [Instalisasi](/wiki/Installation) • [Antarmuka Permainan](/wiki/Interface) • [Opsi Permainan](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_Key_Reference) • [Peta Wiki](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Layanan Bantuan](/wiki/Help_Centre)
+[Selamat Datang](/wiki/Welcome) • [Registrasi](/wiki/Registration) • [Instalasi](/wiki/Installation) • [Antarmuka Game](/wiki/Interface) • [Pengaturan Game](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Pusat Bantuan](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -24,23 +21,23 @@ Kamu dapat menggunakan akun osu! kamu untuk mulai berkontribusi!
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Mode Permainan](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Mode Game](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
 
 
-# [Menyuting Beatmap](/wiki/Beatmap_Editor)
+# [Penyunting Beatmap](/wiki/Beatmap_Editor)
 
-Pilihan: ([Menysun](/wiki/Beatmap_Editor/Compose) • [Desain](/wiki/Beatmap_Editor/Design) • [Mengatur Waktu](/wiki/Beatmap_Editor/Timing) • [Mengatur Lagu](/wiki/Beatmap_Editor/Song_Setup)) • Komponen: ([Membagi Derik Ketukan](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Jarak Ketukan](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Tingkat Kesulitan](/wiki/Difficulties) • [Objek Ketukan](/wiki/Hit_Objects) • [Teknik Mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Bagian: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponen: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Kesulitan beatmap](/wiki/Difficulties) • [Hit Objects](/wiki/Hit_Objects) • [Teknik Mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
 
-# Pengeditan dan Pemeringkatan Online
+# Penyuntingan dan Pengiriman Beatmap Secara Online
 
-[Submisi](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Kriteria Peringkat](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) •[osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Pengiriman Beatmap](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Kriteria Ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -51,12 +48,12 @@ Pilihan: ([Menysun](/wiki/Beatmap_Editor/Compose) • [Desain](/wiki/Beatmap_Edi
 [Glosarium](/wiki/Glossary) • [Turnamen](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projek](/wiki/Projects)
 
 </div>
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
+<div class="wiki-main-page-panel">
 
 
-# Orang-orang
+# Tim
 
-[Tim](/wiki/People/The_Team) • [Tim Moderasi Global](/wiki/People/Global_Moderation_Team) • [Moderator Bahasa](/wiki/People/Language_Moderators) • [Tim Penilai Nominasi](/wiki/People/Nomination_Assessment_Team) • [Nominator Beatmap](/wiki/People/Beatmap_Nominators) • [Alumni osu!](/wiki/People/osu!_Alumni) • [Tim Pendukung](/wiki/People/Support_Team)
+[Tim Inti](/wiki/People/The_Team) • [Tim Global Moderation](/wiki/People/Global_Moderation_Team) • [Moderator Bahasa](/wiki/People/Language_Moderators) • [Tim Nomination Assessment](/wiki/People/Nomination_Assessment_Team) • [Nominator Beatmap](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Tim Dukungan](/wiki/People/Support_Team)
 
 </div>
 </div>

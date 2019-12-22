@@ -1,17 +1,18 @@
+---
+outdated: true
+---
+
 # BanchoBot
 
 ![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка BanchoBot")
 
-**БанчоБот** — чат-бот osu!, запрограммированный [Echo49](https://osu.ppy.sh/users/431).
-Он помогает администраторам управлять [IRC](/wiki/Internet_Relay_Chat), а пользователям показывает справку и информационные сообщения (например, о перезапуске сервера).
-Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Твиттере](https://twitter.com/banchoboat).
+**БанчоБот** — чат-бот osu!, запрограммированный [Echo49](https://osu.ppy.sh/users/431). Он помогает администраторам управлять [IRC](/wiki/Internet_Relay_Chat), а пользователям показывает справку и информационные сообщения (например, о перезапуске сервера). Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Твиттере](https://twitter.com/banchoboat).
 
 ## Команды
 
 *Вы также можете ознакомиться с [полным списком команд чата](/wiki/Chat_Console#Список-комманд).*
 
-Все команды, которые знает BanchoBot, начинаются с `!` и работают как внутри osu!, так и во внешних IRC-клиентах.
-Команды можно отправлять лично BanchoBot или прямо в общий чат (в этом случае их никто, кроме отправителя, не увидит).
+Все команды, которые знает BanchoBot, начинаются с `!` и работают как внутри osu!, так и во внешних IRC-клиентах. Команды можно отправлять лично BanchoBot или прямо в общий чат (в этом случае их никто, кроме отправителя, не увидит).
 
 Чтобы быстро открыть вкладку с BanchoBot внутри osu!, отправьте в чат команду `/bb`.
 
@@ -21,7 +22,7 @@
 
 ### HELP
 
-```
+```text
 !HELP
 ```
 
@@ -29,7 +30,7 @@
 
 #### Пример
 
-```
+```text
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 BanchoBot: WHERE <user>
@@ -44,7 +45,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 ### ROLL
 
-```
+```text
 !ROLL <число>
 ```
 
@@ -52,14 +53,14 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 #### Пример
 
-```
+```text
 pippi: !roll 1000
 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ### STATS
 
-```
+```text
 !STATS <пользователь>
 ```
 
@@ -71,7 +72,7 @@ BanchoBot: pippi rolls 109 point(s)
 
 #### Примеры
 
-```
+```text
 pippi: !stats peppy
 BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
@@ -79,7 +80,7 @@ BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
 ```
 
-```
+```text
 pippi: !stats Ephemeral:
 BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
@@ -89,7 +90,7 @@ BanchoBot: Accuracy: 94.19%
 
 ### WHERE
 
-```
+```text
 !WHERE <пользователь>
 ```
 
@@ -99,29 +100,28 @@ BanchoBot: Accuracy: 94.19%
 
 #### Пример
 
-```
+```text
 pippi: !where Ephemeral
 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
-```
+```text
 !FAQ <статья>
 !FAQ list
 ```
 
-Первый вариант покажет содержимое справочной `<статьи>`, второй — список всех доступных статей.
-Если команду отправил обычный пользователь, ответ придёт ему в чат с BanchoBot, а если модератор, то в общий чат.
+Первый вариант покажет содержимое справочной `<статьи>`, второй — список всех доступных статей. Если команду отправил обычный пользователь, ответ придёт ему в чат с BanchoBot, а если модератор, то в общий чат.
 
 #### Примеры
 
-```
+```text
 pippi: !faq peppy
 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-```
+```text
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
@@ -133,12 +133,11 @@ Tama: ok
 
 *Примечание: если вы хотите пожаловаться на действия модератора, вместо `REPORT` напишите на почту [support@ppy.sh](mailto:support@ppy.sh).*
 
-```
+```text
 !REPORT <пользователь> <причина>
 ```
 
-Отправляет жалобу на игрока [модераторам каналов](/wiki/Language_Moderators) или [глобальным модераторам](/wiki/Global_Moderation_Team).
-О том, в каких случаях жаловаться, можно прочесть тут: [Жалобы на других пользователей](/wiki/Reporting_Bad_Behaviour).
+Отправляет жалобу на игрока [модераторам каналов](/wiki/Language_Moderators) или [глобальным модераторам](/wiki/Global_Moderation_Team). О том, в каких случаях жаловаться, можно прочесть тут: [Жалобы на других пользователей](/wiki/Reporting_Bad_Behaviour).
 
 *Примечание: если ник пользователя содержит пробелы, замените их на подчёркивания: `_`.*
 
@@ -146,7 +145,7 @@ Tama: ok
 
 #### Пример
 
-```
+```text
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```

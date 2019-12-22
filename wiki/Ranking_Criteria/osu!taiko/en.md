@@ -10,13 +10,11 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -40,7 +38,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu!taiko difficulty.
+Overall rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### General
 
@@ -53,7 +51,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Sliderends must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
-- **The drum sampleset must not be used unless default hit sound samples are replaced by custom samples.** The sampleset's default hit sounds do not produce feedback in gameplay.
+- **The drum sampleset must not be used unless default hit sound samples are replaced by custom samples.** The sampleset's default hit sounds do not follow the tone guideline for dons and kats.
 
 #### Guidelines
 
@@ -76,13 +74,9 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 ## Difficulty-specific
 
-**Rhythm related guidelines and rules apply to approximately 180 BPM maps.** If your song is drastically faster or slower, some variables might be different. Apply reasonable judgment in these cases.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!taiko difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.
-
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-t.png) Kantan
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -102,9 +96,7 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 - Overall Difficulty should be 4 or less.
 - HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-t.png) Futsuu
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -134,9 +126,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-t.png) Muzukashii
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -159,9 +149,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or less
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-t.png) Oni
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -183,9 +171,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or more
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 

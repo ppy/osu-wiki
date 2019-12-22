@@ -1,3 +1,8 @@
+---
+needs_cleanup: true
+outdated: true
+---
+
 # BBCode
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")

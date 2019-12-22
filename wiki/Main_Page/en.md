@@ -1,5 +1,5 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
 <!-- Do not add any empty lines inside this div. -->

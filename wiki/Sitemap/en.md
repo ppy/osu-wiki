@@ -8,7 +8,6 @@ tags:
 
 # Sitemap
 
--   [About](/wiki/About)
 -   [Accuracy](/wiki/Accuracy)
 -   [Article Styling Criteria](/wiki/Article_Styling_Criteria)
 -   [BanchoBot](/wiki/BanchoBot)
@@ -184,10 +183,10 @@ tags:
 -   [Ranking Criteria](/wiki/Ranking_Criteria)
     -   [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)
     -   [osu!](/wiki/Ranking_Criteria/osu!)
-        -   [Scaling BPM](/wiki/Ranking_Criteria/osu!/Scaling_BPM)
     -   [osu!catch](/wiki/Ranking_Criteria/osu!catch)
     -   [osu!mania](/wiki/Ranking_Criteria/osu!mania)
     -   [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+    -   [Scaling BPM](/wiki/Ranking_Criteria/Scaling_BPM)
     -   [Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)
     -   [Timing Songs With 8-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)
 -   [Registration](/wiki/Registration)
