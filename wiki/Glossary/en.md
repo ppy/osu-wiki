@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Glossary
 
 Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
@@ -308,6 +312,12 @@ Fail has three meanings:
 A term used when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](#sliderbreak).
 
 Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
+
+### Featured Artist
+
+*Main page: [Featured Artists](/wiki/Featured_Artists)*
+
+A featured artist is an artist who has officially licensed their music for use in osu!. Their music has been cleared by the osu! team and their songs are suitable for beatmapping. All tracks from featured artists include a pre-timed `.osz` file to help you focus on beatmapping.
 
 ## G
 

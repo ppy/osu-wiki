@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Paramètres de la beatmap
+# Paramètres de beatmap
 
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
 

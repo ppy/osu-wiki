@@ -45,6 +45,6 @@ When a veto mediation is initiated, a randomly selected jury of Beatmap Nominato
 
 ### Quality Assurance Helpers
 
-The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who actively work on checking qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428) thread. Full Beatmap Nominators may join at any time. 
+The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who actively work on checking qualified beatmap for issues. Full Beatmap Nominators may join at any time. 
 
 The Quality Assurance Helpers' Trello board can be viewed [here](https://trello.com/b/iEsda45d/quality-assurance-helpers).

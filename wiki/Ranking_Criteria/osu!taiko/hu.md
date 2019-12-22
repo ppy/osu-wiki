@@ -50,7 +50,7 @@ Hogy ne legyenek egymást túlzottan fedő körök, (általában a lassításokn
 
 -   **Dobpergés (Sárga csík)**
 
-Kevés ilyet használj és mindig hagyj ki 1/2 ütemnyi szünetet közöttük és minden más tárgy között. Kerüld a 125BPM vagy alacsonyabbal rendelkező számoknál a használatát, mivel 1/8 ütemre vált a dobpergés (kivétel létezik, ám ritka). Használj 3-as ütem rátát, ha a szám maga is 1/3-ra van csinálva.
+Kevés ilyet használj és mindig hagyj ki 1/2 ütemnyi szünetet közöttük és minden más tárgy között. Kerüld a 125 BPM vagy alacsonyabbal rendelkező számoknál a használatát, mivel 1/8 ütemre vált a dobpergés (kivétel létezik, ám ritka). Használj 3-as ütem rátát, ha a szám maga is 1/3-ra van csinálva.
 
 -   **Shakers (Pörgetők)**
 

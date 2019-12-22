@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wikilink -->
 [Song List]: ./Song_List "Song list"
 [NF wikilink]: /wiki/Game_Modifiers/ "more information can be found in Game Modifiers under No Fail"

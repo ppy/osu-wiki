@@ -12,11 +12,11 @@ If the beatmap a user is uploading is not already on the osu! website, the BSS w
 
 ![Beatmap Submission System uploading screen](img/bss_submitting.png "Beatmap Submission System uploading screen")
 
-When clicking the `Update Beatmap!` button, a user will be presented with the choice of uploading their beatmap to the `Work In Progress (WIP)/Help` or `Pending Beatmaps` categories. WIP beatmaps cannot be nominated for ranking, while pending beatmaps can.
+When clicking the `Upload NEW Beatmap!` or `Update Beatmap!` button, a user will be presented with the choice of uploading their beatmap to the `Work In Progress/Help` or `Pending Beatmaps` categories. WIP beatmaps cannot be nominated for ranking, while pending beatmaps can.
 
 The `Creator's Words` section allows for user input that appears alongside the beatmap's website listing page. This supports [BBCode](/wiki/BBCode) formatting.
 
-Two checkboxes appear near the bottom of the window. The first says `Receive email notification on reply`, which adds the beatmap to the user's [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). The second says `Load in browser after submission`, which will load the beatmap's listing page.
+Two checkboxes appear near the bottom of the window. The first says `Receive email notification on reply`, which adds the beatmap to the user's [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). The second says `Load in browser after submission`, which will load the beatmap's listing page in your default browser.
 
 ## Limitations
 

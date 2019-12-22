@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <!-- Please check redirects after adding new sections with year numbers. -->
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png

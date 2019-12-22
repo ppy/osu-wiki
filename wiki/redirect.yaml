@@ -896,6 +896,7 @@
 "moderators":                      "People/The_Team/Global_Moderation_Team"
 "moderator":                       "People/The_Team/Global_Moderation_Team"
 
+"language_moderators":             "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_moderator":              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_mods":                   "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_mod":                    "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
@@ -1532,3 +1533,19 @@
 
 # Moved Language Moderators to a section under Global Moderation Team
 "people/the_team/global_moderation_team/language_moderators": "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
+
+# Grouped osu! Riverside LAN tournaments
+"tournaments/male": "Tournaments/osu!_Riverside/MALE"
+
+# Removed About because Main Page does it better
+"about": "Main_Page"
+
+# Moved Scaling BPM article of Ranking Criteria up one level
+"ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"
+
+# Made osu!mania tournament names consistent
+"tournaments/mp4k":         "Tournaments/MP"
+"tournaments/mp7k":         "Tournaments/MP"
+"tournaments/mp4k/3":       "Tournaments/MP/2019_4K"
+"tournaments/mp7k/7k_2019": "Tournaments/MP/2019_7K"
+"tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"

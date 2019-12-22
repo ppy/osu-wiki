@@ -1,8 +1,7 @@
 ---
 tags:
-- 'osu! Mapping World Cup #1'
-- 'o!MWC #1'
-- 'oMWC #1'
+  - o!MWC
+  - oMWC
 ---
 
 # osu! Mapping World Cup #1
