@@ -8,12 +8,13 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
 
-Winners of OWC 2018 with the **osu! Champion** user title:
+Winners of OWC 2019 with the **osu! Champion** user title:
 
+- ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
 - ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
-- ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013)
 - ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
