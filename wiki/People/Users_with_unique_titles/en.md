@@ -197,6 +197,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549) | osu!catch Champion |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
@@ -222,6 +223,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697) | osu!mania Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
+| ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | osu! Champion |
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
@@ -246,7 +248,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
-| ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) | osu! Champion |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
