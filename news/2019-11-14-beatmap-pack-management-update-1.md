@@ -54,6 +54,14 @@ If you wish to help with playtesting future packs and want to stay up to date, y
 
 The time came once again to bundle a few beatmaps, with some new Loved beatmap packs being made available in mid October. That said, I want to take this chance to explain why Loved beatmaps do not get bundled into packs right away. Since there is always a small chance that a beatmap can become unloved, I decided to give maps at least a minimum of 10 months to stay in Loved, and then afterwards bundle the Loved beatmaps into packs. While it's no guarantee they will stay in Loved forever, it works for me and I'll go by that for now. Changes can always happen though and I am open for alternatives!
 
+### Holiday Pack 2019
+
+*created by [Noffy](https://osu.ppy.sh/users/1541323)*
+*written by [Noffy](https://osu.ppy.sh/users/1541323)*
+[Download](https://osu.ppy.sh/beatmaps/packs/1772)
+
+Supported by the [Christmas Queue](https://osu.ppy.sh/community/forums/topics/985375) for 9 years and counting, holiday cheer in osu! is still going strong! This year we have compiled a pack of winter and holiday related beatmaps for everyone to enjoy during the season. The pack features beatmaps of new favorites, classic songs, all with difficulties for various skill levels! While the pack features mainly osu! maps, there's also two osu!catch spreads and an osu!mania map included as well for those who enjoy other modes. 
+
 ### What else to expect
 
 While I believe we're doing very well already, we're just getting started. Currently, I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs so it's a little slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, or if you have to report an error/bug in a pack, you can join our project server and spectate our doings. Alternatively, you can even join the group if you're interested! Please check out the [forum thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
