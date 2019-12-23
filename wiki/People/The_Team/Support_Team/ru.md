@@ -7,7 +7,7 @@
 Команда поддержки ответственна за:
 
 1. Тестирование и/или подтверждение сообщений об ошибках, чтобы дать разработчикам знать о них и решить их.
-2. Организацию тем в [Feature Requests](https://osu.ppy.sh/community/forums/4)  и [Help](https://osu.ppy.sh/community/forums/5), пометку их как *Resolved*, *Confirmed*, *Invalid*, *Duplicate* и/или *Added*.
+2. Организацию тем в [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5), пометку их как *Resolved*, *Confirmed*, *Invalid*, *Duplicate* и/или *Added*.
 
 Если кто-то нуждается в любой помощи в указанных подфорумах, члены этой команды всегда готовы помочь.
 
