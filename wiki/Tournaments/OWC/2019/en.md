@@ -1,14 +1,14 @@
 ---
 tags:
-- OWC 2019
-- OWC2019
+  - OWC 2019
+  - OWC2019
 ---
 
 # osu! World Cup 2019
 
 ![OWC 2019 Logo](img/logo.jpg)
 
-The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 10th installment of the osu! World Cup.
+The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 10th installment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -29,20 +29,20 @@ The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
 ![OWC 2019 Winner Badge](img/badge.png) ![OWC 2019 2nd Place Badge](img/badge2.png) ![OWC 2019 3rd Place Badge](img/badge3.png)
 
 ## Organisation
 
-The osu! World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -53,8 +53,6 @@ The osu! World Cup 2019 was run by various community members by distributing the
 - [Pick'ems page](https://pickem.hwchr.com/tournaments/19)
 - [Challonge bracket](https://challonge.com/OWC2019)
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
-
----
 
 ## Participants
 
@@ -293,8 +291,6 @@ The osu! World Cup 2019 was run by various community members by distributing the
   - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
   - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
 
----
-
 ## Match results
 
 ### Grand Finals
@@ -406,8 +402,6 @@ The osu! World Cup 2019 was run by various community members by distributing the
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/56337461) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56339048) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/56340649) |
-
----
 
 ## Ruleset
 
