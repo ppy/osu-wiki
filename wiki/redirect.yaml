@@ -1546,3 +1546,10 @@
 # Removed space from "hit sound"
 "guides/adding_custom_hit_sounds": "Guides/Adding_Custom_Hitsounds"
 "guides/custom_hit_sound_library": "Guides/Custom_Hitsound_Library"
+
+# Made osu!mania tournament names consistent
+"tournaments/mp4k":         "Tournaments/MP"
+"tournaments/mp7k":         "Tournaments/MP"
+"tournaments/mp4k/3":       "Tournaments/MP/2019_4K"
+"tournaments/mp7k/7k_2019": "Tournaments/MP/2019_7K"
+"tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"

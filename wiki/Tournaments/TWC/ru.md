@@ -1,6 +1,6 @@
 # osu!taiko World Cup
 
-Page d'index pour toute la série osu!taiko World Cup.
+Заглавная страница для всей серии турниров osu!taiko World Cup.
 
 - [2011](2011 "Taiko World Cup 2011")
 - [2012](2012 "Taiko World Cup 2012")

@@ -51,7 +51,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Sliderends must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
-- **The drum sampleset must not be used unless default hitsound samples are replaced by custom samples.** The sampleset's default hitsounds do not produce feedback in gameplay.
+- **The drum sampleset must not be used unless default hitsound samples are replaced by custom samples.** The sampleset's default hit sounds do not follow the tone guideline for dons and kats.
 
 #### Guidelines
 
