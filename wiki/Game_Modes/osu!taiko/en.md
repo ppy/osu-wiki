@@ -290,7 +290,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 ## osu!taiko Mapping
 
 - The red notes refer to normal hit circle,
-  - large red notes needs a finish hit sound.
+  - large red notes needs a finish hitsound.
 - The blue notes needs to have a whistle/clap hitsound on that hit circle,
   - large blue notes need both finish and whistle together.
 - The sliders represents the long yellow note (also known as drumroll)
@@ -300,7 +300,7 @@ Design placement of the notes does not matter.
 
 ### osu!standard conversion notes
 
-When a map conversion happens (playing an osu!standard map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hit sound used.
+When a map conversion happens (playing an osu!standard map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
 
 For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
 
