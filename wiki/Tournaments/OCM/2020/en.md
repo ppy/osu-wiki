@@ -28,7 +28,7 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | Placing | Prize(s) |
 | :-: | :--- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (to be confirmed) |
-| ![Silver Crown](/wiki/shared/GCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 <!--
 ->inserte chapita aca<-
 -->
