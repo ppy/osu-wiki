@@ -59,9 +59,9 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 
 ### 音频
 
-- **主动音效（Active hit sounds）：** 敲击时发出的音效。
-- **被动音效（Passive hit sounds）：** 未敲击时发出的音效，比如环境声音。
-- **故事版音效（Storyboarded hit sounds）：** 通过故事版代码控制的声音。
+- **主动音效（Active hitsounds）：** 敲击时发出的音效。
+- **被动音效（Passive hitsounds）：** 未敲击时发出的音效，比如环境声音。
+- **故事版音效（Storyboarded hitsounds）：** 通过故事版代码控制的声音。
 
 ### 皮肤
 

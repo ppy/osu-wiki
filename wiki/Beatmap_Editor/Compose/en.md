@@ -91,7 +91,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
-**Please note that in osu!standard's default notes hit sounds works differently in osu!mania**
+**Please note that in osu!standard's default notes hitsounds works differently in osu!mania**
 
 - adding clap on a notes will play 'hitclap' **+ hitnormal** sound on hit while in osu!mania: will only play 'hitclap' sound on hit
 
@@ -110,17 +110,17 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Visual representation of mapping based on current timestamp.** Map your design here and your design will appear exactly like you mapped during play. This is WYSIWYG (what you see is what you get) mapping. For text-based (usually for fine-tuning) mapping, you can open the `.osu` file directly using Notepad.
 
-### Centre-Right (Hit Sounds & Assist Tools)
+### Centre-Right (Hitsounds & Assist Tools)
 
 **List of available subtools complement to the original DIY toolkit.**
 
-![Hit Sounds & Assist Tools](img/BE_HSAT.jpg "Hit Sounds & Assist Tools")
+![Hitsounds & Assist Tools](img/BE_HSAT.jpg "Hitsounds & Assist Tools")
 
 | Button (Keyboard Shortcut) | Usage | Description |
 | -------------------------- | ----- | ----------- |
 | New Combo (`Q`) | **Right-click:** Change current note to next combo colour. | Note combo. This is equivalent to a verse / measure in song / instrument script. An acceptable range is about 5-20. |
 
-#### Hit Sounds
+#### Hitsounds
 
 | Button (Keyboard Shortcut) | Usage | Description |
 | -------------------------- | ----- | ----------- |
@@ -262,9 +262,9 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 - Adds blue ticks, in addition to the red ticks
 - Useful for general mapping
 
-### Centre-Right (Hit Sounds & Assist Tools)
+### Centre-Right (Hitsounds & Assist Tools)
 
-![Hit Sounds & Assist Tools](img/BE_HSAT.jpg "Hit Sounds & Assist Tools")
+![Hitsounds & Assist Tools](img/BE_HSAT.jpg "Hitsounds & Assist Tools")
 
 **List of available subtools complement to the toolkit.**
 
@@ -272,7 +272,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 | -------------------------- | ----- | ----------- |
 | New Combo (`Q`) | **Right-click:** Change current note to next combo colour. | Note combo. This is equivalent to a verse in song script. An acceptable range is about 5-20. |
 
-#### Hit Sounds
+#### Hitsounds
 
 | Button (Keyboard Shortcut) | Usage | Description |
 | -------------------------- | ----- | ----------- |
