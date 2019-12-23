@@ -146,7 +146,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 | Unicode artist conflicts with {0} diff. | | |
 | Unicode title conflicts with {0} diff. | | |
 | This mapset cannot have an Insane diff without a Hard diff. | | |
-| Beatmap exceeds allowed upload size ({0}kb allowed) | The .osz file has found to be larger than the allowed limit set depending on the song. | |
+| Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large | |
 | This mapset is missing diff: {0} | | |
 | This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! | |
 | This mapset needs at least 1 Easy/Normal diff. | | |
