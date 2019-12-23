@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Tastenkürzel
 
 In osu! gibt es viele Tastenkürzel (auch 'Hotkeys'), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
@@ -9,10 +13,10 @@ In osu! gibt es viele Tastenkürzel (auch 'Hotkeys'), die in den Menüs oder im 
 Diese Kürzel können überall verwendet werden:
 
 - `Strg` + `Alt` + `Shift` + `S`: Den aktuellen [Skin](/wiki/Skinning) neu laden
-    - Falls das Neuladen nicht direkt durchgeführt werden kann (z.B., während man spielt), wird der Befehl zwischengespeichert und später ausgeführt
+  - Falls das Neuladen nicht direkt durchgeführt werden kann (z.B., während man spielt), wird der Befehl zwischengespeichert und später ausgeführt
 - `Strg` + `F11`: Die Anzeige von "Frame Times" an-/ausschalten
 - `F7`: FPS-Limiter weiterschalten
-    - Es wird durch `120FPS`, `240FPS` und `Unbegrenzt` rotiert (VSync wird hierdurch nicht ein-/ausgeschaltet)
+  - Es wird durch `120FPS`, `240FPS` und `Unbegrenzt` rotiert (VSync wird hierdurch nicht ein-/ausgeschaltet)
 - `F8`: Chatfenster ein-/ausblenden
 - `F9`: Erweitertes Chatfenster ein-/ausblenden
 - `F10`: Maustasten für's Spielen ein-/ausschalten
@@ -28,32 +32,32 @@ Diese Kürzel können überall verwendet werden:
 - `Pfeil oben`: Lautstärke erhöhen
 - `Pfeil unten`: Lautstärke verringern
 - `Esc`: Ein Menü zurückgehen
-    - Schließt die Einstellungen, falls offen
+  - Schließt die Einstellungen, falls offen
     - Geht zurück ins Hauptmenü, falls in der Songauswahl
 - `P`: Spielmenü
 - `P` -> `P`: Solo
-    - alternativ: `E` -> `P` -> `P`
+  - alternativ: `E` -> `P` -> `P`
 - `P` -> `M`: [Multiplayer](/wiki/Multi)
-    - alternativ: `E` -> `P` -> `M`
+  - alternativ: `E` -> `P` -> `M`
 - `P` -> `E`: Bearbeitungsmodus
 - `D`: osu!direct (nur für [osu!-Supporter](/wiki/osu!supporter))
 - `O`: Einstellungen
-    - alternativ: `Strg` + `O`
+  - alternativ: `Strg` + `O`
 - `Q`: "Beenden"-Dialog öffnen
-    - alternativ: `Esc`, wenn die Einstellungen und die Songauswahl geschlossen sind
+  - alternativ: `Esc`, wenn die Einstellungen und die Songauswahl geschlossen sind
 
 ### Jukebox
 
 - `Z`: Vorheriges Lied
-    - alternativ: `F1`
+  - alternativ: `F1`
 - `X`: Lied vom Anfang abspielen
-    - alternativ: `F2`
+  - alternativ: `F2`
 - `C`: Pausieren/Fortfahren
 - `F4`: Lied stoppen und an den Anfang zurücksetzen
 - `V`: Nächstes Lied
-    - alternativ: `F5`
+  - alternativ: `F5`
 - `J`: Springe zu...
-    - alternativ: `F6`
+  - alternativ: `F6`
 - `R`: Zufälliges Lied
 
 ## Songauswahl
@@ -76,9 +80,9 @@ Diese Kürzel können überall verwendet werden:
 - `Strg` + `Shift` + `Enter`: Die ausgewählte Map mit dem [Cinema](/wiki/Cinema)-Mod spielen
 - `Strg` + `A`: Den [Auto](/wiki/Auto)-Mod ein-/ausschalten
 - `Strg` + `F3`: Die osu!mania-Scrollgeschwindigkeit erhöhen
-    - alias: `Strg` + `+`
+  - alias: `Strg` + `+`
 - `Strg` + `F4`: Die osu!mania-Scrollgeschwindigkeit verringern
-    - alias: `Strg` + `-`
+  - alias: `Strg` + `-`
 - `Strg` + `Rücktaste`: Das letzte Wort (in der Suche) löschen
 - `Pfeil oben`: Die Beatmap über der aktuellen auswählen
 - `Pfeil unten`: Die Beatmap unter der aktuellen auswählen
@@ -109,7 +113,7 @@ Diese Kürzel können überall verwendet werden:
 - `D`: [Double Time](/wiki/Double_Time)
 - `D` -> `D`: [Nightcore](/wiki/Nightcore)
 - `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, und osu!catch)
-    - [Fade In](/wiki/Fade_In) für osu!mania
+  - [Fade In](/wiki/Fade_In) für osu!mania
 - `F` -> `F`: [Hidden](/wiki/Hidden) (nur für osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)
 
@@ -226,7 +230,7 @@ Diese Kürzel funktionieren überall im Editor:
 ### Timing
 
 - `T`: [BPM](/wiki/BPM) und Offset durch Tippen festlegen
-    - Du solltest so genau wie möglich tippen
+  - Du solltest so genau wie möglich tippen
 - `Shift` beim Ändern von BPM oder Offset: 4-fache Geschwindigkeit
 - `Strg` + `B`: Aktuellen Timing Point zurücksetzen
 - `Strg` + `P`: Nicht vererbten Timing Point an aktueller Stelle erstellen
