@@ -1,8 +1,3 @@
----
-outdated: true
----
-
-
 # AiMod
 
 **AiMod** is a modding tool built into the [Beatmap Editor](/wiki/Beatmap_Editor). To open AiMod, press `Control` + `Shift` + `A` or navigate via menu options **File** » **Open AiMod** once a beatmap is open in the Beatmap Editor.
@@ -41,6 +36,8 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 -   These problems affect the mapset as a whole.
 
 ## Messages
+
+<!-- TODO: may be missing some of the commands due to recent AiMod updates -->
 
 >Note: Numbers inside curly brackets (i.e. "{0}") is a placeholder for a number or a word.
 
