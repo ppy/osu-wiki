@@ -14,8 +14,8 @@
 
 ## 接下来做什么
 
-请不要忘记认真阅读[规则](/wiki/Rules)
+请不要忘记认真阅读[规则](/wiki/Rules)!
 
 一旦完成注册，你就可以开始节奏之旅了。你可以[添加谱面](/wiki/Installation#adding-beatmapsets)进行游玩，[制作皮肤](/wiki/Skinning)或者[制作谱面](/wiki/Beatmapping)。你也可以在[Introductions子论坛](https://osu.ppy.sh/community/forums/8)来介绍自己。
 
-如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台(在游戏中按 `F8` 或者 `F9` ) 然后输入`/join help`,在`#help`[IRC](/wiki/Internet_Relay_Chat) (互联网中继聊天)中寻求帮助。你也可以将你的问题发布在[Help子论坛](https://osu.ppy.sh/community/forums/5).
+如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台(在游戏中按 `F8` 或者 `F9` ) 然后输入`/join help`,在`#help`[IRC](/wiki/Internet_Relay_Chat) (互联网中继聊天)中寻求帮助。你也可以将你的问题发布在[Help子论坛](https://osu.ppy.sh/community/forums/5)。
