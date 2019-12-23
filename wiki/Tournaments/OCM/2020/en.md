@@ -3,12 +3,12 @@ tags:
 - OCM 2020
 - OCM2020
 ---
-# Osu Cup Master (OCM): Osu!catch edition
+# osu! Cup Master 3: osu!catch edition
 <!--
 ->Inserte logo aca<-
 -->
 
-Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu!catch version. We hope you'll enjoy it and have fun on this competition.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
 
 ## Tournament Schedule
 
@@ -18,7 +18,7 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu
 | Live Drawings | 2020-02-01 |
 | Group Stage | 2020-02-08 / 2020-02-09 |
 | Round of 16 | 2020-02-15 / 2020-02-16 |
-| Quarterfinals | 2020-02 22 / 2020-02 23 |
+| Quarterfinals | 2020-02-22 / 2020-02-23 |
 | Semifinals | 2020-02-29 / 2020-03-01 |
 | Finals | 2020-03-07 |
 | Grand Finals | 2020-03-14 |
@@ -27,26 +27,25 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![][GCrown] "1st place" | winner badge for each member (to be confirmed) |
-| ![][SCrown] "2nd place" | a month of osu!supporter for each member (to be confirmed) |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (to be confirmed) |
+| ![Silver Crown](/wiki/shared/GCrown.png "2nd place") | 1 month of osu!supporter tag |
 <!--
 ->inserte chapita aca<-
 -->
 
 ## Organisation
 
-The OCM tournament is run by the next comunity members:
+The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! community members.
 
 | Position | Members |
-| :-: | :--- |
-| Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) , ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
+| :-: | :-- |
+| Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
-| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864) , ![][flag_MX] [MILK_16](https://osu.ppy.sh/users/9137627) , ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703) , ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu) |
+| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
+| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864), ![][flag_MX] [MILK\_16](https://osu.ppy.sh/users/9137627), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 | Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-
 
 ## Links
 
