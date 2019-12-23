@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2019
 
-![OWC 2019 Logo](img/logo.jpg)
+![OWC 2019 logo](img/logo.jpg)
 
 The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 10th installment of the osu! World Cup.
 
@@ -28,11 +28,11 @@ The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
-![OWC 2019 Winner Badge](img/badge.png) ![OWC 2019 2nd Place Badge](img/badge2.png) ![OWC 2019 3rd Place Badge](img/badge3.png)
+![OWC 2019 winner badge](img/badge.png) ![OWC 2019 2nd place badge](img/badge2.png) ![OWC 2019 3rd place badge](img/badge3.png)
 
 ## Organisation
 
@@ -104,7 +104,7 @@ The osu! World Cup 2019 was run by various community members.
 
 ---
 
-![OWC 2019 Podium](img/podium.png)
+![OWC 2019 podium](img/podium.png)
 
 ---
 
