@@ -1,3 +1,8 @@
+---
+outdated: true
+---
+
+
 # AiMod
 
 **AiMod** is a modding tool built into the [Beatmap Editor](/wiki/Beatmap_Editor). To open AiMod, press `Control` + `Shift` + `A` or navigate via menu options **File** » **Open AiMod** once a beatmap is open in the Beatmap Editor.
@@ -99,7 +104,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 
 | Message | Explantation | Solution |
 | ------ | ------------- | --------|
-| Background image is larger than 1366x768. | | |
+| Background image is larger than 2560x1440. | | |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | | |
 | File missing: | | |
 | {0}'s dimensions must be {1}x{1} | | |
@@ -163,9 +168,8 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 | Title conflicts with {0} diff. | | |
 | Unicode artist conflicts with {0} diff. | | |
 | Unicode title conflicts with {0} diff. | | |
-| This mapset cannot have an Insane diff. without a Hard diff. | | |
-| Filesize of the mapset exceeds 10MB without video. | | |
-| Filesize of the mapset exceeds 24MB with video. | | |
+| This mapset cannot have an Insane diff without a Hard diff. | | |
+| Beatmap exceeds allowed upload size ({0}kb allowed)| The .osz file has found to be larger than the allowed limit set depending on the song. | |
 | This mapset is missing diff: {0} | | |
 | This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! | |
 | This mapset needs at least 1 Easy/Normal diff. | | |
