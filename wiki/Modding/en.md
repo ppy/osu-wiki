@@ -1,6 +1,6 @@
 # Modding
 
-Modding is the act of providing feedback on another user's [beatmap](/wiki/Beatmaps). A user who is modding is referred to as a *modder* and their collective posts on a beatmap's discussion are referred to as a *mod*.
+**Modding** is the act of providing feedback on another user's [beatmap](/wiki/Beatmaps). A user who is modding is referred to as a *modder*, and their collective posts on a beatmap's discussion are referred to as a *mod*.
 
 Mods are mainly used to improve beatmaps aiming for Ranked status. Because it is a detailed and analytical process, modding beatmaps is also a popular way for users improve their understanding of beatmapping.
 
@@ -15,13 +15,13 @@ Each queue's creator dictates the queue's rules, controlling which beatmaps are 
 
 The `#modreqs` chat channel is populated by beatmappers posting maps they want modded. Most beatmaps posted do not receive mods.
 
-Well known modders often note whether or not they are accepting mod requests on their user profiles.
+Well-known modders often note whether or not they are accepting mod requests on their user profiles.
 
 Searching the pending beatmaps listing for beatmaps to mod is not recommended because most submissions are not aiming for Ranked status, so their creators will potentially not respond to mods.
 
 ## Modding process
 
-To mod a beatmapset, start by downloading the most up to date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for potential issues.
+To mod a beatmapset, start by downloading the most up-to-date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for potential issues.
 
 When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion page, locate the difficulty being modded, navigate to the applicable tab, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
 
