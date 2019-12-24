@@ -4,7 +4,6 @@
 
 The people listed below are the core of the **osu!team** and are chiefly responsible for helping make the game awesome for everyone.
 
-<!-- markdownlint-disable MD045 -->
 | Name | Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
@@ -27,7 +26,6 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
-<!-- markdownlint-enable MD045 -->
 
 ## User groups
 
@@ -45,7 +43,6 @@ The following are user groups which are made up of the osu! community members th
 
 ## Inactive core team members
 
-<!-- markdownlint-disable MD045 -->
 | Name | Role |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
@@ -69,7 +66,6 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media and character designer |
-<!-- markdownlint-enable MD045 -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

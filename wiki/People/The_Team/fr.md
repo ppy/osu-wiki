@@ -1,11 +1,14 @@
+---
+outdated: true
+---
+
 # L'Équipe
 
 *Afin de trouver la liste des promotions et des retraites, veillez consulter : [Archives de l'équipe](/wiki/Staff_Log)*
 
 Les personnes listées ci-dessous sont le coeur de l'**osu!team** et sont principalement chargées d'aider à rendre le jeu génial pour tous.
 
-<!-- markdownlint-disable MD045 -->
-| Nom |  Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Nom | Role |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Créateur d'osu! sur PC** |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Modération et conseiller communautaire |
@@ -28,7 +31,6 @@ Les personnes listées ci-dessous sont le coeur de l'**osu!team** et sont princi
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manager du Project Loved et conseiller communautaire, sensibilisation au Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Entretien ménager général et assistant de tournoi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
-<!-- markdownlint-enable MD045 -->
 
 ## Groupe d'utilisateur
 
@@ -46,7 +48,6 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 
 ## Inactifs
 
-<!-- markdownlint-disable MD045 -->
 | Nom | Role |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Aide et entretien général, Dessinateur de chibis |
@@ -69,7 +70,6 @@ Les groupes d'utilisateurs suivants représentent les membres de la communauté 
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gestion du magasin osu! |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de osu!academy, conception media/personnage |
-<!-- markdownlint-enable MD045 -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
