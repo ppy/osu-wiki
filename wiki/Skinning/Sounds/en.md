@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Sounds
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
@@ -553,9 +557,9 @@ Notes:
 - This sound is looped.
 - Fades out when the client loses focus.
 
-### Hit sounds
+### Hitsounds
 
-Hit sounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
+Hitsounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
 
 #### Drum set
 

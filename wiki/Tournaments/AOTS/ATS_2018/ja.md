@@ -41,7 +41,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | 役割 | ﾒﾝﾊﾞｰ |
 | :-- | :-- |
 | 主催 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
-| 譜面セレクター | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ビートマップセレクター | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 | コメンテーター | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
 | 放送配信者 | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279) |
 | デザイナー | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
@@ -94,7 +94,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 ---
 
-## 譜面プール(課題曲)
+## ビートマッププール(課題曲)
 
 ### Grand Finals
 
@@ -436,7 +436,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
     - 参加者のプロフィール旗はアジア国でなければなりません。
     - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
     - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
-3. 譜面のスコアは **Score V2**が適用されます。
+3. ビートマップのスコアは **Score V2**が適用されます。
 4. 各日の試合スケジュールはトーナメント管理に基づいて行われます(下記参照)。
 5. もしスタッフ若しくは審判が不在の場合、試合は延期されます。
 6. クリアに失敗したプレイは、相手側の勝利になります。
@@ -461,28 +461,28 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 1. 審判はあらかじめ15分前に部屋を作ります。プレイヤーはこの間に集まらなければなりません。
    - ルームはosu!taiko, Head To Head, Win Condition'Score V2'にセッテイングされます。ルーム名は"ATS 2018: (TeamBlue) vs (TeamRed)"とならなければなりません。
    - ルーム内で最初に呼ばれたプレイヤーがblue teamとなり、2番目に呼ばれたプレイヤーがred teamとならなければなりません。
-2. お互いのプレイヤーは自由に1回だけウォーミングアップの譜面が選べます。但し、試合に適さない譜面は禁止されます。全てのマップはosu！taiko専用の譜面でなければなりません。
-3. お互いのプレイヤーは、プール内の譜面を１つ追放する権利があります。これらの譜面は試合中において、全プレイヤーが選ぶことが禁止されます。
-4. 譜面選択は、mappoolから譜面を選んでいるプレーヤーの間で交互に代わります。
+2. お互いのプレイヤーは自由に1回だけウォーミングアップのビートマップが選べます。但し、試合に適さないビートマップは禁止されます。全てのマップはosu！taiko専用のビートマップでなければなりません。
+3. お互いのプレイヤーは、プール内のビートマップを１つ追放する権利があります。これらのビートマップは試合中において、全プレイヤーが選ぶことが禁止されます。
+4. ビートマップ選択は、mappoolからビートマップを選んでいるプレーヤーの間で交互に代わります。
 5. お互いのプレイヤーは、 "!roll"を #multiplayerのチャンネル内のチャットで一度発言しなければなりません。
-   - !rollの(数字が高い)勝者は試合開始の譜面を選びます。
-   - !rollの(数字が低い)敗者は禁止譜面を選びます。
+   - !rollの(数字が高い)勝者は試合開始のビートマップを選びます。
+   - !rollの(数字が低い)敗者は禁止ビートマップを選びます。
 6. プレイヤーは各ブラケット(Mappool Instructions参照)から自由に選びます。
-   - 最後まで同点の場合、Tiebreakerの譜面を選ばなくてはなりません。
+   - 最後まで同点の場合、Tiebreakerのビートマップを選ばなくてはなりません。
 
-### 譜面プールに関して
+### ビートマッププールに関して
 
 1. グループステージ、1回戦、2回戦、準々決勝、準決勝、決勝ではそれぞれのmappoolがあります。
-2. それぞれの譜面プールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special,そして FreeModです。
-3. それぞれの譜面プールには合計16の譜面があります。
-4. それぞれの譜面プールには１つのtiebreakerの譜面があります。
+2. それぞれのビートマッププールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special,そして FreeModです。
+3. それぞれのビートマッププールには合計16のビートマップがあります。
+4. それぞれのビートマッププールには１つのtiebreakerのビートマップがあります。
 5. NoModブラケットは no modeでプレイされます。
-6. SpecialブラケットはNoModブラケットにある異なる譜面の高難度バージョンで、no modeでプレイされます。
+6. SpecialブラケットはNoModブラケットにある異なるビートマップの高難度バージョンで、no modeでプレイされます。
 7. Hidden, HardRockそして DoubleTimeブラケットはそれぞれのmodsでプレイされます。
 8. FreeModブラケットは FreeModでプレイされます。全てのプレイヤーはHidden, HardRock,両方,もしくは NoModのいずれかでプレイできます。
 9. Tiebreakerは NoModでプレイされます。
    - Tiebreakerで同点だった場合、もう一度Tiebreakerを FreeModの条件で再戦します。
-10. 譜面プールの各ブランケットの譜面数は
+10. ビートマッププールの各ブランケットのビートマップ数は
     - 5 NoMod
     - 2 Hidden
     - 2 HardRock
@@ -499,10 +499,10 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 ### 勝利条件
 
-1. Group Stageにおいて、勝つためには試合で４つの譜面で勝利する必要があります。
-2. Round of 16と準々決勝において、勝つためには試合で５つの譜面で勝利する必要があります。
-3. 準決勝において、勝つためには試合で６つの譜面で勝利する必要があります。
-4. 決勝と最終戦において、勝つためには試合で７つの譜面で勝利する必要があります。
+1. Group Stageにおいて、勝つためには試合で４つのビートマップで勝利する必要があります。
+2. Round of 16と準々決勝において、勝つためには試合で５つのビートマップで勝利する必要があります。
+3. 準決勝において、勝つためには試合で６つのビートマップで勝利する必要があります。
+4. 決勝と最終戦において、勝つためには試合で７つのビートマップで勝利する必要があります。
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

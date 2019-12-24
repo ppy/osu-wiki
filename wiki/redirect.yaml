@@ -258,10 +258,10 @@
 "grid_snap":                   "Glossary#grid-snapping"
 "guest_difficulty":            "Glossary#guest-difficulty"
 "gd":                          "Glossary#guest-difficulty"
-"hit_sound":                   "Glossary#hit-sound"
-"hit_sounds":                  "Glossary#hit-sound"
-"hitsound":                    "Glossary#hit-sound"
-"hitsounds":                   "Glossary#hit-sound"
+"hit_sound":                   "Glossary#hitsound"
+"hit_sounds":                  "Glossary#hitsound"
+"hitsound":                    "Glossary#hitsound"
+"hitsounds":                   "Glossary#hitsound"
 "ignore_list":                 "Glossary#ignore-list"
 "ignore":                      "Glossary#ignore-list"
 "drop_and_droplet":            "Glossary#juice-stream"
@@ -385,7 +385,7 @@
 "work_in_progress":            "Glossary#wip"
 "z/x":                         "Glossary#z/x"
 
-"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hit_Sounds"
+"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hitsounds"
 "audio_editing":                          "Guides/Audio_Editing"
 "beginner's_tutorial":                    "Guides/Beginner's_Tutorial"
 "beginner":                               "Guides/Beginner's_Tutorial"
@@ -397,7 +397,7 @@
 "compressing_files":                      "Guides/Compressing_Files"
 "cropping_with_complex_backgrounds":      "Guides/Cropping_with_Complex_Backgrounds"
 "cropping_with_simple_backgrounds":       "Guides/Cropping_with_Simple_Backgrounds"
-"custom_hit_sound_library":               "Guides/Custom_Hit_Sound_Library"
+"custom_hit_sound_library":               "Guides/Custom_Hitsound_Library"
 "custom_sample_overrides":                "Guides/Custom_Sample_Overrides"
 "discord_rich_presence":                  "Guides/Discord_Rich_Presence"
 "discord_rpc":                            "Guides/Discord_Rich_Presence"
@@ -1536,3 +1536,20 @@
 
 # Grouped osu! Riverside LAN tournaments
 "tournaments/male": "Tournaments/osu!_Riverside/MALE"
+
+# Removed About because Main Page does it better
+"about": "Main_Page"
+
+# Moved Scaling BPM article of Ranking Criteria up one level
+"ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"
+
+# Removed space from "hit sound"
+"guides/adding_custom_hit_sounds": "Guides/Adding_Custom_Hitsounds"
+"guides/custom_hit_sound_library": "Guides/Custom_Hitsound_Library"
+
+# Made osu!mania tournament names consistent
+"tournaments/mp4k":         "Tournaments/MP"
+"tournaments/mp7k":         "Tournaments/MP"
+"tournaments/mp4k/3":       "Tournaments/MP/2019_4K"
+"tournaments/mp7k/7k_2019": "Tournaments/MP/2019_7K"
+"tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"

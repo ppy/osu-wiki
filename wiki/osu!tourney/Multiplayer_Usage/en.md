@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Multiplayer Usage
 
 ## Match creation

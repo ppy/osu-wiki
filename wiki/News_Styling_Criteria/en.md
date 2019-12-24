@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # News Styling Criteria
 
 *For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria)*

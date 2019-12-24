@@ -8,10 +8,7 @@ These difficulty names are the most commonly used for each game mode.
 
 *Note: The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.*
 
-<!-- markdownlint-disable MD045 -->
-<!-- markdownlint-disable MD026 -->
 ### osu!
-<!-- markdownlint-enable MD026 -->
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal

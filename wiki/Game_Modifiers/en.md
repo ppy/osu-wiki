@@ -550,7 +550,7 @@ Click on Auto again to activate Cinema mod.
 
 Cinema mod shows the **background and storyboard only** without the gameplay elements.
 
-Hit sounds can still be heard based on the selected beatmap. In addition, replay elements and the Results screen will be disabled and background dim will be set to 0%.
+Hitsounds can still be heard based on the selected beatmap. In addition, replay elements and the Results screen will be disabled and background dim will be set to 0%.
 
 Since the player is not actively playing the beatmap and more to watching the replay, the play is considered unranked.
 

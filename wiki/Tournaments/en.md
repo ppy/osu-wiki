@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Tournaments
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).

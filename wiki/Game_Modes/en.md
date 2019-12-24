@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Game Modes
 
 ## ![osu! icon](/wiki/shared/mode/osu.png) osu!standard

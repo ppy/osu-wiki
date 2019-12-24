@@ -6,13 +6,13 @@ Vous trouverez ci-dessous une liste triée des guides créés par des membres de
 
 *Page principale : [Beatmapping](/wiki/Beatmapping)*
 
-- [Ajouter des sons personalisés](Adding_Custom_Hit_Sounds)
+- [Ajouter des sons personalisés](Adding_Custom_Hitsounds)
 - [Édition audio](Audio_Editing)
 - [Changer l'artiste ou le titre](Changing_the_Artist_or_Title)
 - [Changer le texte du titre](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Informations sur les collaborations](Collab_Information)
 - [Compresser des fichiers](Compressing_Files)
-- [Bibliothèque de sons personalisés](Custom_Hit_Sound_Library)
+- [Bibliothèque de sons personalisés](Custom_Hitsound_Library)
 - [Utiliser des échantillons personnalisés](Custom_Sample_Overrides)
 - [Comment obtenir des chansons de jeux vidéo](Getting_Songs_From_Video_Games)
 - [Comment timer les musiques](How_to_Time_Songs)
