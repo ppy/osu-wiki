@@ -54,13 +54,18 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 ### Content parity
 
-*Note: This does not apply to articles originally written in a language other than English.*
-
 Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
+There are some cases where the content is allowed to differ:
+
+- Articles originally written in a language other than English (in this case, English should act as the translation)
+- Explanations of English words that are common terms in the osu! community
+- External links
+- Tags
 
 ### Metadata
 
-Metadata must be placed at the very top of the file. An empty line must follow it.
+Metadata (sometimes called "front matter") must be placed at the very top of the file. An empty line must follow it.
 
 #### Outdated articles
 
@@ -78,7 +83,7 @@ outdated: true
 
 #### Tagging articles
 
-Tagging articles will help the website's search engine query articles better. Tags should use lowercase letters. It may be unlikely that this is needed for most articles; however, the markup is as follows:
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable. The markup is as follows:
 
 ```markdown
 ---
