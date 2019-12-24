@@ -13,7 +13,7 @@ Anggota Project Loved Team yang bergelar **kapten** secara teratur mencalonkan b
 - [Daftar osu!/osu!taiko/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [Daftar osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-Catatan: Jika kamu tidak bisa mengakses Formulir Google ini, kamu dapat menghubungi para [anggota Project Loved Team](/wiki/People/Project_Loved_Team#team-members) untuk mengirimkan map tersebut tentunya dengan namamu.
+*Catatan: Jika kamu tidak bisa mengakses Formulir Google ini, kamu dapat menghubungi para [anggota Project Loved Team](/wiki/People/Project_Loved_Team#team-members) untuk mengirimkan map tersebut tentunya dengan namamu.*
 
 Mapset yang dinominasikan kemudian dikirimkan ke [forum Project Loved](https://osu.ppy.sh/community/forums/120), di mana komunitas osu! dapat memilih apakah mereka ingin mapset itu layak untuk mendapat Loved atau tidak. Map yang mencapai persentase di ambang tertentu dari suara "Ya", pada waktu akhir jajak pendapat mereka akan dipindahkan ke kategori Loved.
 
