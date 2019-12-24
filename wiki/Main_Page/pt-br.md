@@ -1,5 +1,5 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
 <div class="wiki-main-page__blurb">

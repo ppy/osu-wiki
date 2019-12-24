@@ -16,7 +16,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 *Note: All GMT members speak English in addition to the languages listed below, unless noted otherwise.*
 
-<!-- markdownlint-disable MD045 -->
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
@@ -112,7 +111,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` |  |  |
-<!-- markdownlint-enable MD045 -->
 
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif

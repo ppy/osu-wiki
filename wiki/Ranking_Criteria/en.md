@@ -18,7 +18,7 @@ For the record, these include the recent changes made [from the discussion forum
 ### Rules
 
 - **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania beatmaps are exempt from this.
-- **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. Keep things PG (suitable for ages 12+). Images should be on a level that can be displayed on all-audience TV, on public signage, and of nature that does not require censoring in any country.
+- **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
 - **Beatmaps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
 - **Do not edit the `.osu` file to modify difficulty settings or insert break times in ways that are unintended for each respective game mode.** Other `.osu` file edits such as stack leniency, slider velocity, and skinning settings are acceptable.
@@ -180,11 +180,15 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Uninherited timing points must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) for further information.
 - **Beatmaps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
 - **Uninherited timing points must be the same in every difficulty of a beatmapset.** Each point must have the same BPM and offset in each difficulty.
-- **There must not be extra uninherited timing points in any difficulty.** These can affect main-menu pulsing, the Nightcore mod, and cause timing to shift due to millisecond rounding errors. Adding uninherited timing points at the starts of musical phrases to match a song with the Nightcore mod's beat is acceptable.
+- **There must not be extra uninherited timing points in any difficulty.** These may accidentally affect main-menu pulsing, add unwanted sounds to the Nightcore mod, or cause timing to shift. Acceptable uses include:
+  - Aligning beats of the Nightcore mod with the start of musical sections.
+  - Accomodating for objects in musical sections requiring unsupported beat snap divisors (e.g. 1/5, 1/7).
 - **No two uninherited or two inherited timing points can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behavior for slider velocity and volume settings.
-- **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hit sounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
+- **An inherited timing point cannot be placed before the first uninherited timing point.** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 - **A beatmap's first uninherited point cannot be used to toggle kiai.** Doing this will cause the kiai to flash before objects appear. An inherited point in the same position as the first uninherited point must be used to toggle kiai instead.
-- **Objects must be snapped to timeline ticks according to AiMod.** If objects cannot be snapped using the editor's supported beat snap divisors, a change in BPM may be used to accommodate for it. If a section of music requires an unsupported beat snap divisor however (1/5, 1/7, etc.), a map's objects can be unsnapped so long as they align with the intended beat snap divisor.
+- **Objects must be snapped to timeline ticks according to AiMod.** Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/5, 1/7) can either:
+  - Remain unsnapped, as long as they align with the intended beat snap divisor.
+  - Be snapped through a temporary change in BPM.
 - **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object's tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
 
 ### Guidelines
@@ -195,9 +199,9 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Glossary
 
-- **Active hit sounds:** Hit sounds that reach their peak impact exactly when they are clicked.
-- **Passive hit sounds:** Hit sounds that are not designed to match a player's exact clicking, such as ambient sounds.
-- **Storyboarded hit sounds:** Hit sounds played through storyboard coding.
+- **Active hitsounds:** Hitsounds that reach their peak impact exactly when they are clicked.
+- **Passive hitsounds:** Hitsounds that are not designed to match a player's exact clicking, such as ambient sounds.
+- **Storyboarded hitsounds:** Hitsounds played through storyboard coding.
 - **Cut:** A song file that has had a portion of audio removed to shorten the beatmapset's play time.
 
 ### Rules
@@ -207,16 +211,16 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
-- **Beatmaps must be hit sounded.** While every game mode has its own techniques, effective hit sounds in all modes accent the most important parts of the music.
-- **All clicked objects must have audible active hit sounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
-- **Active hit sounds must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer passive hit sounds, such as ambient noises.
-- **Applause files and other passive hit sounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison.
-- **Active hit sounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hit sound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hit sound.
-- **Hit sounds must be audible.** Their purpose is to provide feedback, so hit sounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
+- **Beatmaps must be hitsounded.** While every game mode has its own techniques, effective hitsounds in all modes accent the most important parts of the music.
+- **All clicked objects must have audible active hitsounds or active hitnormal samples.** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
+- **Active hitsounds must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer passive hitsounds, such as ambient noises.
+- **Applause files and other passive hitsounds must use the `.mp3` or `.ogg` file formats.** These files usually have long durations and `.wav` files are unnecessarily large in comparison.
+- **Active hitsounds cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound.
+- **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criterias.
 - **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
-- **Every hit sound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
-- **Completely silent hit sounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
-- **Storyboarded hit sounds cannot be used as replacements for active hit sounds.** These give an inaccurate form of player feedback. Storyboarded hit sounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
+- **Every hitsound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
+- **Completely silent hitsounds must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily high file sizes and 0-byte files do not function.
+- **Storyboarded hitsounds cannot be used as replacements for active hitsounds.** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
 
@@ -282,7 +286,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, but more than that should not be necessary.
 - **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
 - **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the beatmap.** Test play the beatmap during the modding process to confirm this.
-- **Refrain from usage of storyboard sound samples in ways that are easily confused with hit sounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
+- **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
 - **Avoid illogical, conflicting and obsolete commands.** Commands of the same type whose intervals overlap, have their ending time before their start time or are bound to impossible to reach triggers, are either not working as intended or obsolete, and should either be removed or adjusted to work as intended.
 - **The `Widescreen support` setting should be turned on if the beatmapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
 - **Make sure the storyboard is optimized as much as possible,** within practical means.

@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/osu!academy "osu!academy"
 [Abandoned Wasteland wikilink]: /wiki/Glossary/#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"

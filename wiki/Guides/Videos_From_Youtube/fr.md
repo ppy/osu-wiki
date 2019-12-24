@@ -15,8 +15,6 @@ Ce tutoriel est destiné pour ceux qui **ne peuvent pas** trouver la vidéo autr
 
 [noTube](https://notube.net/) (il y en a beaucoup, beaucoup, VRAIMENT beaucoup sur Internet mais on vous conseille celui-ci).
 
-<!-- markdownlint-disable MD026 -->
 ### Charger la vidéo sur osu!
-<!-- markdownlint-enable MD026 -->
 
 Lancez votre beatmap et appuyez sur `F2`, cliquez sur Insert Background Video. Utilisez la timeline à côté du bouton pour ajuster le temps auquel elle apparaît, et voilà, c'est fini !

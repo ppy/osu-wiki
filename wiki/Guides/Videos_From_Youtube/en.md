@@ -19,8 +19,6 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 [noTube](https://notube.net/) (there are many, many, MANY more out there but this one is listed).
 
-<!-- markdownlint-disable MD026 -->
 ### Loading video in osu!
-<!-- markdownlint-enable MD026 -->
 
 Open your beatmap and press `F2`, click Insert Background Video. Use the slider below to adjust the start time offset and voila, your done.

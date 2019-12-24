@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # skin.ini
 
 *See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*

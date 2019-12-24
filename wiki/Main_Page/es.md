@@ -1,10 +1,9 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 <!-- Translated to Latin American Spanish, there it might be some differences with Castilian. -->
 <!-- Most possibly, it seems more like Chilean Spanish. -->
 
-<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
 Welcome to the osu! wiki, a project containing a wide range of osu! related information.
 </div>

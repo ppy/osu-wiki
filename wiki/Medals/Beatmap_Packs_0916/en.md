@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 [media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
 [media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
 [media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b

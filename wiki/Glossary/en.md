@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Glossary
 
 Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
@@ -363,20 +367,20 @@ More than one guest creator is allowed to contribute to a beatmapset, including 
 
 ## H
 
-### Hit Sound
+### Hitsound
 
-Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
+Hitsounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
 
-Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
+Hitsounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
-There are 4 types of hit sounds:
+There are 4 types of hitsounds:
 
 - *(normal)* (used when none of the below are used)
 - whistle
 - clap
 - finish
 
-These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hitsounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
 
 ## I
 
@@ -715,7 +719,7 @@ These are categorized under three names:
 - Soft
 - Drum
 
-Inside each categories has these four hit sounds:
+Inside each categories has these four hitsounds:
 
 - *(normal)* (the sound when none of the below is used)
 - whistle

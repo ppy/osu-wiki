@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
 [Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
 [Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"

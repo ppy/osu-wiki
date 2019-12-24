@@ -21,7 +21,7 @@ Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun e
 6. **Soyez conscient de ce que vous partagez avec les autres, surtout si le contenu est potentiellement troublant ou de nature très graphique.** Si vous vous demandez deux fois si un lien est approprié ou non, il ne l'est probablement pas. Évitez les images avec des lumières vives ou stroboscopiques, du gore, des images d'abus ou autre matériel graphique.
 7. **Gardez les liens pertinents et pointant vers des sites légaux.** Les sites de streaming (ceux ayant une licence comme Animelab et Crunchyroll sont OK) et tout ce qui est lié au "warez" ou aux logiciels piratés de quelque sorte qu'ils soient ne sont pas tolérés, et nous ne les voulons pas dans notre chat. Partager des liens Twitch pour d'autres jeux est toléré, mais SEULEMENT dans `#videogames`.
 8. **Ne partagez pas de serveurs de chat tierces, ce qui inclut les groupes/serveurs Discord, Teamspeak et Skype.** Le chat d'osu! est à propos d'osu! et ne sert pas à partager les liens de vos serveurs personnels. Vous pouvez le faire par message personnel si vous en avez vraiment besoin.
-9. **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour #english, Thaï pour #thai, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée (ou sous-entendue par le nom du canal, comme Thaï pour `#thai` ou Néerlandais pour `#dutch`), c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
+9. **Dans les canaux spécifiques aux langues, vous devez parler la langue dominante (Anglais pour `#english`, Thaï pour `#thai`, etc) si vous participez à une discussion.** Quand la langue d'un canal n'est pas spécifiée, c'est toujours l'Anglais qui est utilisé. Les canaux `#lobby` et `#help` peuvent être utilisés avec n'importe quelle langue, à l'instar des autres canaux. *Les membres de l'[équipe de modération](/wiki/People/Global_Moderation_Team) n'ont pas besoin de suivre cette règle lorsqu'ils font leur travail.*
 
 ## Règles du forum
 
@@ -50,10 +50,10 @@ Si vous vous trouvez du mauvais côté des règles de la communauté, de mauvais
 
 Ces mauvaises choses incluent (*mais ne sont pas limitées à*):
 
-* L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
-* La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
-* La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
-* La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
+- L'incapacité à chatter en jeu pour une période de temps donné (connu sous le nom de silence)
+- La suppression du contenu en tort de votre page d'utilisateur, profil ou beatmaps publiées
+- La perte de vos privilèges à éditer ou altérer votre page d'utilisateur ou détails de profil
+- La perte de vos privilèges à jouer ou se qualifier à des tournois officiels
 
 La durée des silences et autres infractions augmente exponentiellement et **automatiquement** à chaque infraction. Les modérateurs ne contrôlent pas la durée de temps de votre silence pour offense - les auteurs qui récidivent se trouveront bloqués hors du jeu pour une période de temps de plus en plus longue.
 

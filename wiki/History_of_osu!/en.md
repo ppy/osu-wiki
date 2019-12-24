@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # History of osu!
 
 Records of osu!'s history, all in the osu! wiki.

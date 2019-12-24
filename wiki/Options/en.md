@@ -89,7 +89,7 @@ This section is about the appearance of your game client and parts of the interf
 
 | Name | Description | Type | Default |
 | --- | --- | --- | --- |
-| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `120fps` |
+| `Frame limiter` | Set the frame rate limit. See below for details. | Dropdown | `Optimal` |
 | `Show FPS counter` | Toggle the FPS counter. This is seen in the bottom-right corner of the screen. | Checkbox | `Disabled` |
 | `Compatibility mode` | Use the old renderer that osu! used before with older computers. This will restart your game client. | Checkbox | `Disabled` |
 | `Reduce dropped frames` | Adjust graphical settings to decrease dropped/stuttered frames. | Checkbox | `Disabled` |
@@ -106,15 +106,17 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | Name | Description |
 | --- | --- |
 | `VSync` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
-| `120fps` | Limits the game client to 120fps. |
-| `240fps` | Limits the game client to 240fps. |
+| `Power Saving` | Limits the game client to twice the refresh rate of your monitor. |
+| `Optimal` | Limits the game client to eight times the refresh rate of your monitor, capping at 960fps. |
 | `Unlimited (gameplay)` | Limits the game client to the refresh rate of your monitor. See explanation below for details. |
 
 - `VSync` explanation: In layman terms, using VSync will force the game wait for the entire frame to load before displaying it.
   - You may want to use this if you see some "tearing" (when the bottom portion of the game is lagging behind the upper portion of the game).
   - Despite what the point above stated, this may cause some lag or slowdowns because the game client has to wait for each frame to load.
 - `Unlimited (gameplay)` explanation: Unlimited only applies to when you are playing a beatmap.
-  - When you are doing anything but playing a beatmap, `240fps` is used instead.
+  - When you are not playing a beatmap, the frame rate is limited to twice the refresh rate of your monitor, or 240fps, whichever is higher.
+  - This option is **not recommended**. Using the `Unlimited (gameplay)` option can lead to stutters.
+  - Using the `Optimal` option instead offers imperceivable changes in system (input to output) latency when compared to `Unlimited (gameplay)`.
 
 ### Layout
 
@@ -234,7 +236,7 @@ This section is about audio related things.
 | --- | --- | --- | --- |
 | `Master` | Controls all aspects. | Slider | `100%` |
 | `Music` | Affects only the music. | Slider | `80%` |
-| `Effect` | Affects things such as hit sounds and in-game sounds. | Slider | `80%` |
+| `Effect` | Affects things such as hitsounds and in-game sounds. | Slider | `80%` |
 | `Ignore beatmap hitsounds` | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Button | `Disabled` |
 
 The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.
