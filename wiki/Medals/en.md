@@ -41,7 +41,7 @@ The High Ranker medals can be obtained by reaching a certain global ranking posi
 
 ---
 
-The Star-based achivements are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing any map of a certain star difficulty (excluding EZ/NF/HT). The *S* medals will be obtained if you meet the conditions of the *Pass* medal with a *S* ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. If you haven't earned 6, 7 star medals but clear 7.8 stars, you'll only get 7 star medals. You can also use difficulty increasing mods, such as HR/DT (based on increased stars). The map must also be ranked to be able to earn a medal.
+The Star-based achivements are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing any map of a certain star difficulty (excluding EZ/NF/HT). The *S* medals will be obtained if you meet the conditions of the *Pass* medal with a *S* ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. For example, if you haven't earned 6/7 star medals but clear 7.8 stars, you'll only get 7 star medals. You can also use difficulty increasing mods, such as HR/DT (based on increased stars). The map must also be ranked to be able to earn a medal.
 
 ## Dedication
 
