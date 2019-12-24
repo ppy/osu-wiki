@@ -1,10 +1,10 @@
 ---
 tags:
-  - difficulty
-  - difficulty name
-  - SR
-  - star rating
-  - stars
+  - 難しさ
+  - 難易度
+  - 難易度の名前
+  - 星
+  - 星評価
 ---
 
 # 難しさ
