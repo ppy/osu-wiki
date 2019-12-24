@@ -23,13 +23,13 @@ Searching the pending beatmaps listing for beatmaps to mod is not recommended be
 
 To mod a beatmapset, start by downloading the most up to date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for potential issues.
 
-When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information. On the beatmap's discussion page, locate the difficulty being modded and navigate to the applicable tab. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
+When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion page, locate the difficulty being modded, navigate to the applicable tab, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
 
 All mod posts should address what the issue is, why it is an issue, and how to fix it. For example, if a beatmap has an unnecessarily large jump, a mod could potentially be worded as "The spacing between these objects is too high. The song is not intense enough to justify this size of a jump, so moving the objects closer together would be more appropriate!". Many mod posts include links to images so that beatmappers can better understand any suggestions.
 
 Modders should not assume a beatmapper understands why anything is an issue within their beatmap. When simplifying a mod post into a command like "Add a New Combo on this object", the beatmapper may not be convinced that the post is accurate and will likely deny the suggestion.
 
-Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they agree with. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they agree with by clicking the *thumbs up* button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Types of mod posts
 
