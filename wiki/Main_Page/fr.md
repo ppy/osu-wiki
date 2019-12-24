@@ -1,8 +1,7 @@
 ---
-layout: "main_page"
+layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
 Bienvenue sur le wiki d'osu!, un projet contenant une large gamme d'informations sur osu!.
 </div>
