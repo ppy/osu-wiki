@@ -8,7 +8,7 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) double elimination country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) double elimination country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament Schedule
 
@@ -20,10 +20,10 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) do
 | Group Stage Second Week| 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
-| Quarterfinals | 2019-12-27/2019-12-28 |
-| Semifinals | 2020-01-4/2020-01-5 |
-| Finals | 2020-01-11/2020-01-12 |
-| Grand Finals | 2020-01-18/2020-01-19 |
+| Quarterfinals | 2020-01-4/2020-01-5 |
+| Semifinals | 2020-01-11/2020-01-12 |
+| Finals | 2020-01-18/2020-01-19 |
+| Grand Finals | 2020-01-25/2020-01-26 |
 
 ## Prizes
 
@@ -31,20 +31,20 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head to head (1v1) do
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite (Red Switch), Tournament Badge, 3 Months of osu!supporter tag |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2 (MXCherry Speed Switch), 2 Months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition TKL (Red Switch), 1 Month of osu!supporter tag  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition TKL (Red Switch), 1 Month of osu!supporter tag |
 ![SOLMT Badge](img/badge.png "SoL Winner Badge")
 
 ## Organisation
 
-The Speed of Light Mania Tournament is run by various community members.
+The Speed of Light Mania Tournament is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager |![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099)|
-| Map Selector |![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/u/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)|
+| Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099)|
+| Map Selector | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/u/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)|
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/u/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_MX] [KanekiKen-kun](https://osu.ppy.sh/users/12157233), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560)|
-| Designer | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918)
+| Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918)
 | Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/u/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_PE] [Tunning23](https://osu.ppy.sh/users/9396363)
 | Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 
@@ -53,6 +53,8 @@ The Speed of Light Mania Tournament is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387?start=7242382)
 - [Livestream](https://www.twitch.tv/osuworldtournament)
 - [SOLMT Discord server](https://discord.gg/Zmha38K)
+- [Statistics Sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)
+- [Challonge](https://challonge.com/solmt)
 
 ---
 
@@ -92,6 +94,25 @@ The Speed of Light Mania Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [ Alon Mor - Pablo's Palace (XeoStyle) \[El Capo\]](https://osu.ppy.sh/beatmapsets/630584#mania/1331171)
+  - [ Kkrusty - A Quick Death (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
+  - [ Rise Against - Savior (abraxos) \[Lamentations\]](https://osu.ppy.sh/beatmapsets/665616#mania/1408630)
+  - [ Michael Gray - The Weekend (Jole) \[friday feeling\]](https://osu.ppy.sh/beatmapsets/701056#mania/1483930)
+  - [ Hail The Sun - Falling On Deaf Ears (Civilization) \[I'm Not Real\]](https://osu.ppy.sh/beatmapsets/766742#mania/1611802)
+  - [ Yuaru - Asu no Yozora Shoukaihan (RyuON) \[Night Sky\]](https://osu.ppy.sh/beatmapsets/1010176#mania/2114642)
+  - [ fripSide - sisters's noise (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
+  - [ Frederic - oddloop (inflect) \[oldlnep\]](https://osu.ppy.sh/beatmapsets/649672#mania/1376904)
+  - [ Chroma - \[@__@\] (BadPlayer100) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/1059897#mania/2219389)
+  - [ Seven Lions & Echos - Cold Skin (MiTiS Remix) (HekoKun) \[Frozen Heart\]](https://osu.ppy.sh/beatmapsets/927576#mania/1937375)
+  - [ Culprate - Yin (Toaph Daddy) \[Hollow\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2209523)
+  - [ FELT - New World (Penguinosity) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/772658#mania/1624145)
+  - [ BilliumMoto - life flashes before weeb eyes (Unpreditable) \[-mystic's insane\]](https://osu.ppy.sh/beatmapsets/985172#mania/2165198)
+  - [ Stellabee ft. THINK-chan - Flower in the Dawn (-Lethal-) \[flourish\]](https://osu.ppy.sh/beatmapsets/1030431#mania/2154859)
+  - **[ Camellia - FM Synthesis Experiment  (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
+
 ### Round of 32
 
 - FreeMod
@@ -108,7 +129,7 @@ The Speed of Light Mania Tournament is run by various community members.
   - [terminal11 - Mariachi Timebomb (Xay) \[Bolero \]](https://osu.ppy.sh/beatmapsets/972176#mania/2035555)
   - [M-O-T-U - Heart Eyes (Ticle) \[Lastopia's H-A-R-D\]](https://osu.ppy.sh/beatmapsets/928967#mania/1941917)
 - Tiebreaker
-  - **[lapix - Paradoxy (Kamikaze) \[Protastic's Incomprehensible (MP4K 155 BPM Edit)\]](https://osu.ppy.sh/beatmapsets/996032#mania/2083442)** 
+  - **[lapix - Paradoxy (Kamikaze) \[Protastic's Incomprehensible (MP4K 155 BPM Edit)\]](https://osu.ppy.sh/beatmapsets/996032#mania/2083442)**
 
 ### Group Stage
 
@@ -137,6 +158,35 @@ The Speed of Light Mania Tournament is run by various community members.
 ---
 
 ## Match Results
+
+### Round of 16
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+
+| Friday, 2019-12-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **-\[DaNieL_TH]\-** ![][flag_TH] | **6** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/57107480)
+| Unholy ![][flag_US] | 4 | **6** | ![][flag_PH] **Swarmsii**  | [#1](https://osu.ppy.sh/community/matches/57119952)
+
+| Saturday, 2019-12-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| DaZeRo5 ![][flag_PE] | 0 | **6** | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/57125852)
+| **Cohue** ![][flag_PH] | **6** | 2 | ![][flag_VN] MashedPotato | [#1](https://osu.ppy.sh/community/matches/57126911)
+| \[Crz\]Lochie ![][flag_AU] | 0 | **6** | ![][flag_MY] cheewee10 | -forfeited-
+| **AngeloLagusa** ![][flag_RU] | **6** | 1 | ![][flag_TW] AW ZERO | [#1](https://osu.ppy.sh/community/matches/57130560)
+| **FoXCHANNEL** ![][flag_RU] | **6** | 0 | ![][flag_VN] Baoketban123 | -win by default-
+| **Lerck** ![][flag_RU] | **6** | 0 | ![][flag_RU] N1ckn1ght | -win by default-
+| Camopoltergeist ![][flag_FI] | 0 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/57136777)
+
+| Sunday, 2019-12-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **SillyFangirl** ![][flag_BR] | **6** | 0 | ![][flag_US] Logan636 | [#1](https://osu.ppy.sh/community/matches/57152346)
+| **dhn** ![][flag_US] | **6** | 0 | ![][flag_KR] NKEYBOARD | -win by default-
+| **realqarp** ![][flag_PH] | **6** | 2 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/57183833)
+| c1e4r ![][flag_RU] | 4 | **6** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/57160540)
+| Proxae ![][flag_ID] | 0 | **6** | ![][flag_BR] **Kyut** | -win by default-
+| Strachy ![][flag_FI] | 0 | **6** | ![][flag_CA] **loafusofbread** | -win by default-
+| **HeZeuS** ![][flag_US] | **6** | 0 | ![][flag_US] Playboi Carti | -win by default-
 
 ### Round of 32
 
