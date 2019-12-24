@@ -10,20 +10,18 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal
 - ![](/wiki/shared/diff/hard-m.png) Hard
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 ### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels.
 - **Key mode**: The number of columns present in a difficulty.
-- **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
 - **Musical phrase**: A standalone unit of musical meter that is usually 4 measures long.
@@ -50,11 +48,11 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 Refer to the [osu!mania Mapping Guide](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
 
-## General
+## Overall
+
+Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### Rules
-
-All rules are exactly that: *rules*. They are *not* guidelines and may *not* be broken under *any* circumstances.
 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
@@ -66,14 +64,12 @@ All rules are exactly that: *rules*. They are *not* guidelines and may *not* be 
 
 ### Guidelines
 
-Guidelines may be broken under exceptional circumstances. These must be justified by a reasonable explanation as of why the guideline has been broken and why not breaking it will interfere with the overall quality of the creation.
-
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
   - would be effectively represented with a consistent, predictable snap
   - would cause an inappropriate difficulty spike.
-- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when key sounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
-- **Do not use key sounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when key sounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
+- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
+- **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
 - **Avoid using the same hitsound for multiple notes in a chord.** This causes feedback to be louder than necessary. This also applies to active hitsounds and storyboard hitsounds used at the same timestamp.
 - **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalizing the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in brackets after the BPM range in the song selection, e.g. BPM: 60-160 (130). Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
 - **Slider velocity changes should follow the general intensity of the song.**
@@ -83,13 +79,11 @@ Guidelines may be broken under exceptional circumstances. These must be justifie
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do not apply to every *osu!mania* difficulty. Rhythm related guidelines apply to approximately 180 BPM maps. If your song is drastically faster or slower, some variables might be different. Apply reasonable judgement in these cases.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!mania difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Key mode-specific guidelines are constructed based on the most common Ranked key modes (4 key and 7 key). Any other key modes should apply these guidelines when applicable.*
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-m.png) Easy
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -108,9 +102,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-m.png) Normal
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -153,9 +145,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-m.png) Hard
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -189,9 +179,7 @@ If a Hard difficulty is required and used as the *lowest difficulty* of a beatma
 - **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
 - **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-m.png) Insane
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 
@@ -216,9 +204,7 @@ Additional guidelines for *7 key Insane* difficulties:
   - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
 - **Bracket streams should be used sparingly.**
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-m.png) Expert
-<!-- markdownlint-enable MD045 -->
 
 #### Guidelines
 

@@ -6,19 +6,19 @@ BanchoBot est un bot (c’est-à-dire un ensemble de commandes à réponse autom
 
 ## Commandes
 
-*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console#commands-list)*
+*Pour obtenir une liste des commandes client du jeu, voir: [Console de discussion](/wiki/Chat_Console#la-liste-des-commandes)*
 
 Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commandes fonctionnent dans le jeu et dans les clients IRC externes. Ils peuvent être utilisés dans les canaux de discussion multijoueurs et dans l'onglet MP (message privé) de BanchoBot. Si un utilisateur envoie une commande BanchoBot dans un canal de discussion public, les autres utilisateurs ne la verront pas, mais la réponse sera affichée dans un message privé de BanchoBot.
 
 Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet de tchat avec BanchoBot et envoyer la commande immédiatement.
 
-*Nota: La commande 'REQUEST' n'est pas inclue car elle n'est plus disponible.*
+*Nota: La commande `REQUEST` n'est pas inclue car elle n'est plus disponible.*
 
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
 ### HELP
 
-```
+```text
 !HELP
 ```
 
@@ -26,9 +26,9 @@ Affiche une liste des commandes de BanchoBot disponibles.
 
 #### Exemple d'utilisation
 
+*Remarque: Le paramètre `user` de la commande `REPORT` est manquant.*
 
-*Remarque: Le paramètre 'utilisateur' de la commande 'REPORT' est manquant.*
-```
+```text
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 BanchoBot: WHERE <user>
@@ -41,7 +41,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 ### ROLL
 
-```
+```text
 !ROLL <nombre>
 ```
 
@@ -49,14 +49,14 @@ Retourne un nombre aléatoire de 1 au nombre sélectionné (par défaut 100).
 
 #### Exemple d'utilisation
 
-```
+```text
 pippi: !roll 1000
 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ### STATS
 
-```
+```text
 !STATS <utilisateur>
 ```
 
@@ -68,7 +68,7 @@ Affiche les statistiques de l'utilisateur entré. Les statistiques affichées d�
 
 #### Exemples d'utilisation
 
-```
+```text
 pippi: !stats peppy
 BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
@@ -76,7 +76,7 @@ BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
 ```
 
-```
+```text
 pippi: !stats Ephemeral:
 BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
@@ -86,24 +86,24 @@ BanchoBot: Accuracy: 94.19%
 
 ### WHERE
 
-```
+```text
 !WHERE <utilisateur>
 ```
 
 Affiche l'emplacement actuel de l'utilisateur entré.
 
-*Note: Ceci montre seulement le pays de l'utilisateur. Si l'utilisateur à l'option 'Share your city location with others' (Partager sa ville avec d'autres utilisateurs) activée, cette commande peut aussi retouner sa ville.*
+*Note: Ceci montre seulement le pays de l'utilisateur. Si l'utilisateur à l'option `Share your city location with others` (Partager sa ville avec d'autres utilisateurs) activée, cette commande peut aussi retouner sa ville.*
 
 #### Exemple d'utilisation
 
-```
+```text
 pippi: !where Ephemeral
 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
-```
+```text
 !FAQ <entrée>
 !FAQ list
 ```
@@ -112,16 +112,16 @@ Affiche le message de l'entrée. Vous pouvez utiliser l'argument `list` pour aff
 
 #### Exemples d'utilisation
 
-```
+```text
 pippi: !faq peppy
 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-```
+```text
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。 
+BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
 Tama: ok
 ```
 
@@ -131,7 +131,7 @@ Tama: ok
 
 *Remarque: vous pouvez également utiliser la carte d’utilisateur pour signaler un utilisateur.*
 
-```
+```text
 !REPORT <utilisateur> <raison>
 ```
 
@@ -143,7 +143,7 @@ Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou
 
 #### Exemple d'utilisation
 
-```
+```text
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```

@@ -1,10 +1,8 @@
 # Shortcut Key Reference
 
-There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen.
-They are listed out with their functions below.
+There are many shortcuts in osu! that can be utilized while in-game or while idle at any screen. They are listed out with their functions below.
 
-**Note:** some of these keys can be changed in the [options](/wiki/options)!
-However, the list below presents the default keys.
+**Note:** some of these keys can be changed in the [options](/wiki/options)! However, the list below presents the default keys.
 
 ## Game-Wide
 
@@ -14,7 +12,7 @@ These shortcuts work anywhere:
   - If playing or at the results screen, this will queue the command to be executed after returning to song selection.
 - `Ctrl` + `F11`: Toggle frame times
 - `F7`: Toggle frame rate limiter
-  - Pressing this will cycle through `120fps`, `240fps`, and `Unlimited (gameplay)` but not enable `VSync`.
+  - Pressing this will cycle through `Power Saving`, `Optimal`, and `Unlimited (gameplay)` but not enable `VSync`.
 - `F8`: Toggle chat window
 - `F9`: Toggle extended chat window
 - `F10`: Toggle all mouse buttons (except for mouse wheel)
@@ -201,6 +199,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `Ctrl` + `Shift` + `A` : Open [AiMod](/wiki/Beatmap_Editor/AiMod)
 
 #### Playfield Settings
+
 - `Alt`: Temporarily toggle [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) while held
 - `Y`: Toggle Distance Snap
 - `Shift`: Temporarily toggle grid snap while held.
@@ -249,6 +248,7 @@ These shortcuts work anywhere within the beatmap editor:
 - `L`: Lock all notes.
 
 ### Design
+
 - `I`: Open Sprite library overlay.
 - `Ctrl` + `Z`: Undo
 - `Ctrl` + `Y`: Redo
@@ -273,12 +273,8 @@ These shortcuts work anywhere within the beatmap editor:
 - `Left Click`: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles
 - `Ctrl` + `Left Click`: Add new point to existing slider
 - `Right Click`: Toggle new combo, end a slider placement, or removes a point, or deletes an object (only when in selection mode)
-- `Mouse Wheel Up`: Seek forwards
-- `Shift` + `Mouse Wheel Up`: Seek forwards at 4x
-- `Mouse Wheel Down`: Seek backwards
-- `Shift` + `Mouse Wheel Down`: Seek backwards at 4x
-- `Ctrl` + `Mouse Wheel Up`: Increase/decrease the snap divisor
-- `Alt` + `Mouse Wheel Up`: Increase/decrease the alt-snapping distance multiplier while in playfield. Change timeline zoom while in timeline
-- `Ctrl` + `Mouse Wheel Down`: Decrease the snap divisor
-- `Alt` + `Mouse Wheel Down`: Decrease the alt-snapping distance multiplier while in playfield. Change timeline zoom while in timeline
+- `Mouse Wheel Up/Down`: Seek forward/backward
+- `Shift` + `Mouse Wheel Up/Down`: Seek forward/backward at 4x
+- `Ctrl` + `Mouse Wheel Up/Down`: Increase/decrease the snap divisor
+- `Alt` + `Mouse Wheel Up/Down`: Increase/decrease the alt-snapping distance multiplier while in playfield. Change timeline zoom while in timeline
 - `Dragging`: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them

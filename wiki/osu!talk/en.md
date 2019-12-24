@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # osu!talk
 
 ![osu!talk logo](osu!talk.jpg)

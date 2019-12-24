@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! wiki
 
 ## MediaWiki (2011 - 2017)

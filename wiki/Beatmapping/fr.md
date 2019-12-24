@@ -55,7 +55,7 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
-C’est également ici que vous pouvez placer des hit objects et gérer leurs [hit sounds](/wiki/hit_sounds).
+C’est également ici que vous pouvez placer des hit objects et gérer leurs [hitsounds](/wiki/hit_sounds).
 
 ### Conception
 

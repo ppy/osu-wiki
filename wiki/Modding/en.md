@@ -35,7 +35,7 @@ You should also take note of anything doesn't feel right.
 
 After play-testing, watch the beatmap from the beatmap editor.
 It is also recommended to use a `100%` playback rate watching in the beatmap editor.
-In this stage of modding, modders frequently find more intricate (or complicated) problems such as combo errors, hit sound inconsistencies, and areas where hit circles or sliders are missing or misplaced.
+In this stage of modding, modders frequently find more intricate (or complicated) problems such as combo errors, hitsound inconsistencies, and areas where hit circles or sliders are missing or misplaced.
 
 When a hit circle or slider needs attention, click on it to select.
 Now, copy the hit object (`Ctrl` + `C`) and go back to the post you started up.
@@ -98,7 +98,7 @@ Do not hesitate to suggest if:
 Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read.
 Combos generally do not go over 20 in Insane, 12 in Hard, and 8 in Easy or Normal difficulties.
 
-There are expections to the max combo limit if they make sense.
+There are exceptions to the max combo limit if they make sense.
 If there is a logical way to break up a long combo, it is recommended to do so.
 Combos are usually placed to either match the vocal/musical phrases or to indicate the downbeat of each measure.
 In special cases, combos are used in indicating any discrepancies (or inconsistencies) in spacing or slider velocity.
@@ -120,14 +120,14 @@ If a slider velocity change requires more than just intuition to understand, the
 A common example of when to use a slider velocity change would be in a section of a song that is slowed down or more calming than the rest of the song.
 Here, many mappers would likely slow down the slider velocity to match the calmed music.
 
-### Hit Sounds
+### Hitsounds
 
-*Main page: [Hit Sounds](/wiki/Hit_Sounds)*
+*Main page: [Hitsounds](/wiki/Hitsounds)*
 
-Hit sounds are the noise the game makes when the player successfully taps a [hit object](/wiki/hit_object).
-All maps should have a sufficient amount of hit sounds whether using custom or default hit sounds; otherwise, they cannot be ranked.
+Hitsounds are the noise the game makes when the player successfully taps a [hit object](/wiki/hit_object).
+All maps should have a sufficient amount of hitsounds whether using custom or default hitsounds; otherwise, they cannot be ranked.
 
-Sometimes, hit sounds can sound awkward or weird or they are too quiet or too loud.
+Sometimes, hitsounds can sound awkward or weird or they are too quiet or too loud.
 Cases like these may confuse the player.
 
 Using a volume that cannot be heard, in most cases, is unrankable.
@@ -149,7 +149,7 @@ Kiai time should never be abused because:
 - by definition, it signifies one part of the song that is *important*, so using it everywhere loses its meaning.
 
 In addition to all of this, kiai time should generally be the same in all difficulties.
-There are, however, expections to this:
+There are, however, exceptions to this:
 
 - game mode difficulty hybrid sets (e.g. osu!standard and osu!taiko's kiai time behaves differently).
 - guest mappers that interpret the song and its effects differently from the host.

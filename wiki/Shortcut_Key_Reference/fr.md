@@ -1,9 +1,12 @@
-# Raccourcis clavier
+---
+outdated: true
+---
+
+# Liste des raccourcis claviers
 
 Dans osu!, il existe divers raccourcis qui peuvent être utilisés dans le jeu et les menus. Ils sont listés ici avec leurs fonctions ci-dessous.
 
-**Note:** quelques uns de ces raccourcis peuvent être changés dans les [options](/wiki/options)!
-Toutefois, la liste ci-dessous présente les raccourcis par défaut.
+**Note:** quelques uns de ces raccourcis peuvent être changés dans les [options](/wiki/options)! Toutefois, la liste ci-dessous présente les raccourcis par défaut.
 
 ## Jeux au sens large
 
@@ -74,7 +77,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `Ctrl` + `3`: Basculer vers [osu!catch](/wiki/osu!catch)
 - `Ctrl` + `4`: Basculer vers [osu!mania](/wiki/osu!mania)
 - `Ctrl` + `Enter`: Joue la map sélectionnée avec le mod [Auto](/wiki/Auto)
-- `Ctrl` + `Shift` + `Enter`: Joue la map sélectionnée avec le mod [Cinema](/wiki/Cinema) 
+- `Ctrl` + `Shift` + `Enter`: Joue la map sélectionnée avec le mod [Cinema](/wiki/Cinema)
 - `Ctrl` + `A`: Active ou désactive le mod Auto
 - `Ctrl` + `F3`: Augmente la vitesse en osu!mania (seulement dans le mode osu!mania)
   - alias: `Ctrl` + `+`
@@ -175,8 +178,8 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `Up`: Monte la vitesse du playback de 25%
 - `Ctrl` + `Shift` + `Up Arrow`: Monte la vitesse du playback de 5%
 - `F1`: Basculer vers le mode [composition](/wiki/Compose)
-- `F2`: Basculer vers le mode [design](/wiki/Design) 
-- `F3`: Basculer vers le mode [timing](/wiki/Timing) 
+- `F2`: Basculer vers le mode [design](/wiki/Design)
+- `F3`: Basculer vers le mode [timing](/wiki/Timing)
 - `F4`: Ouvre le [setup de chanson](/wiki/Song_Setup) (ouvre une fenêtre de dialogue)
 - `F5`: Entrer en mode de test.
 - `F6`: Ouvre le panneau du setup de timing.
@@ -199,6 +202,7 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `Shift` + `A` : Ouvre le [AiMod](/wiki/Beatmap_Editor/AiMod)
 
 #### Options du terrain de jeu
+
 - `Alt`: Temporarily toggle [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) while held
 - `Y`: Toggle Distance Snap
 - `Shift`: Active temporairement la grille snap tant que l'on reste appuyé.
@@ -211,6 +215,7 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `L`: Verrouille toutes les notes.
 
 #### Manipulation d'objets
+
 - `Q`: Active un nouveau combo
 - `Ctrl` + `,`: Fait une rotation de 90 degrés dans le sens inverse des aiguilles d'une montre
 - `Ctrl` + `.`: Fait une rotation de 90 degrés dans le sens des aiguilles d'une montre
@@ -233,11 +238,12 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Shift` + `Ctrl` + `Right Arrow`: Déplace les notes sélectionnées vers la droite d'une coordonnée
 
 #### Hitsounding
+
 - `W`: Ajoute un son de sifflet à/aux objet(s) sélectionnés(s)
 - `E`: Ajoute un son finish à/aux objet(s) sélectionnés(s)
 - `R`: Ajoute un son d'applaudissement à/aux objet(s) sélectionnés(s)
 - `Shift` + `Q`, `W`, `E`, `R`: Change le sampleset pour l'objet sélectionné en Auto, Normal, Soft ou Tambour respectivement
-- `Ctrl` + `Q`, `W`, `E`, `R`: Change le set additionnel pour l'objet sélectionné en Auto, Normal, Soft ou Tambour respectivement 
+- `Ctrl` + `Q`, `W`, `E`, `R`: Change le set additionnel pour l'objet sélectionné en Auto, Normal, Soft ou Tambour respectivement
 - `Ctrl` + `Shift` + `I`: Ouvre la fenêtre d'import de sample.
 
 #### Timeline
@@ -249,6 +255,7 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `L`: Verrouille toutes les notes.
 
 ### Design
+
 - `I`: Ouvre l'overlay de la bibliothèque de sprite.
 - `Ctrl` + `Z`: Annuler
 - `Ctrl` + `Y`: Refaire
@@ -257,7 +264,6 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `V`: Colle le layer au temps actuel (Note: les layers collés ne se montrerons pas dans le layer de gauche jusqu'à ce que la map soit sauvée puis réouverte)
 - `Delete`: Supprime le layer sélectionné
 - `W`, `A`, `S`, `D`: Déplace le layer sélectionné vers le haut, la gauche, le bas ou la droite d'un osu!pixel
-
 
 ### Timing
 
@@ -269,21 +275,13 @@ Ces raccourcis fonctionnent n'importe où dans l'éditeur de beatmap :
 - `Ctrl` + `Shift` + `P`: Ajoute un point de timing hérité au temps actuel (Ouvre la fenetre de setup du timing)
 - `Ctrl` + `I`: Supprime la section de timing actuelle. Cela ne fonctionnera pas sur le premier point de timing hérité.
 
-
-
 ### Contrôles de la souris
 
 - `Left Click`: Place un hit circle normal, commence un slider ou ajoute un nouveau point à un slider déjà placé. Sélectionne des cercles
 - `Ctrl` + `Left Click`: Ajoute un nouveau point à un slider existant
 - `Right Click`: Toggle new combo, end a slider placement, or removes a point, or deletes an object (only when in selection mode)
-- `Mouse Wheel Up`: Chercher en avant
-- `Shift` + `Mouse Wheel Up`: Chercher en avant en x4
-- `Mouse Wheel Down`: Chercher en arrière
-- `Shift` + `Mouse Wheel Down`: Chercher en arrière en x4
-- `Ctrl` + `Mouse Wheel Up`: Augmente/Réduit le diviseur snap
-- `Alt` + `Mouse Wheel Up`: Augmente/Réduit le multiplicateur de distance du alt-snapping quand vous êtes dans le terrain de jeux. Change le zoom de la timeline quand vous êtes dans la timeline
-- `Ctrl` + `Mouse Wheel Down`: Réduit le diviseur de snap
-- `Alt` + `Mouse Wheel Down`: Réduit le multiplicateur de distance du alt-snapping quand vous êtes dans le terrain de jeux. Change le zoom de la timeline quand vous êtes dans la timeline
+- `Mouse Wheel Up/Down`: Chercher en avant/arrière
+- `Shift` + `Mouse Wheel Up/Down`: Chercher en avant/arrière en x4
+- `Ctrl` + `Mouse Wheel Up/Down`: Augmente/Réduit le diviseur de snap
+- `Alt` + `Mouse Wheel Up/Down`: Augmente/Réduit le multiplicateur de distance du alt-snapping quand vous êtes dans le terrain de jeux. Change le zoom de la timeline quand vous êtes dans la timeline
 - `Dragging`: Bouge une sélection de notes (la position et le temps), bouge les points dans un slider. Fait glisser la fin des sliders ou des spinners dans la timeline pour les étendre
-
-

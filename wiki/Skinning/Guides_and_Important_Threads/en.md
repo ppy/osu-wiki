@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Guides and Important Threads
 
 List of guides and important threads, created by the community.

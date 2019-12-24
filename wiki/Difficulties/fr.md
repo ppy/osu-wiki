@@ -7,7 +7,7 @@ tags:
   - stars
 ---
 
-# Difficulté
+# Difficultés
 
 *À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
 
@@ -19,10 +19,7 @@ La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouv
 
 Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soumise. Les définitions spécifiques et les exigences de chacune se trouvent dans leurs modes respectifs de [ranking criteria](/wiki/Ranking_Criteria).
 
-<!-- markdownlint-disable MD045 -->
-<!-- markdownlint-disable MD026 -->
 ### ![](/wiki/shared/mode/osu.png) osu!
-<!-- markdownlint-enable MD026 -->
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
@@ -57,7 +54,6 @@ Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soum
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
-<!-- markdownlint-enable MD045 -->
 
 ## Star rating (difficulté en étoiles)
 
@@ -65,13 +61,11 @@ Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soum
 
 Sur le site web, les beatmaps ont automatiquement une icône de difficulté basé sur leur rang de star rating :
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
 - ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
-<!-- markdownlint-enable MD045 -->
 
 La plupart des difficultées de maps rentre dans les icônes donnés, mais certaines non. C'est pourquoi le [ranking criteria](/wiki/Ranking_Criteria) définie plus précisément les règles pour déterminer la difficulté et évaluer le beatmapset.
