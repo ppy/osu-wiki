@@ -5,7 +5,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 # Pliki osu!
 
-![Pliki osu! w skrócie](Osu!sys.jpg "Pliki osu! w skrócie.")
+![Pliki osu! w skrócie](img/osu!-program-files.png "Pliki osu! w skrócie.")
 
 ## Lokalizacja
 
