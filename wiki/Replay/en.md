@@ -55,7 +55,7 @@ A [Cinema][Cinema wikilink] replay will:-
 - enable the background image/video,
 - play only the pass storyboard,
 - set to 0% background dim, and
-- play the hit sounds on timing points where the notes would be completed.
+- play the hitsounds on timing points where the notes would be completed.
 
 To skip the starting/ending point of the play, press the `Spacebar` key.
 

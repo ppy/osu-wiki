@@ -152,15 +152,15 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ## Audio
 
-![Two screenshots of the Audio tab. They vary based on defined hit sound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
+![Two screenshots of the Audio tab. They vary based on defined hitsound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
 
 ### Default Sample Settings
 
-Configuration for hit sounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hit sound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
+Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 #### Sample Set Selection
 
-Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hit sound files inside the beatmap's folder first for custom hit sounds.
+Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
 
 #### Sample Set Volume
 
@@ -172,7 +172,7 @@ Clicking on those buttons to test out how the sample set sounds. Four buttons ar
 
 ### Misc. Toggles
 
-The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hit sounds to play at its own preset pitch.
+The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hitsounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hitsounds to play at its own preset pitch.
 
 ## Colours
 

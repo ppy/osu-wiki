@@ -133,7 +133,7 @@ Each timing point influences a specified portion of the map, commonly called a "
   - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.
 - **`meter` (Integer):** Amount of beats in a measure. Inherited timing points ignore this property.
 - **`sampleSet` (Integer):** Default sample set for hit objects (0 = beatmap default, 1 = normal, 2 = soft, 3 = drum).
-- **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hit sounds.
+- **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hitsounds.
 - **`volume` (Integer):** Volume percentage for hit objects.
 - **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
 - **`effects` (Integer):** Bit flags that give the timing point extra effects. See [the effects section](#effects).
@@ -159,7 +159,7 @@ The first timing point at 10 seconds is uninherited, and sets:
 - BPM to 180 (`1 / 333.33 * 1000 * 60`)
 - Time signature to 4/4
 - Sample set to the beatmap default
-- Sample index to osu!'s default hit sounds
+- Sample index to osu!'s default hitsounds
 - Volume to 100%
 - Kiai time
 
@@ -182,9 +182,9 @@ All options in this section represent colours. They are comma-separated triplets
 - **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Glossary#osupixel) of the object.
 - **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
-- **`hitSound` (Integer):** Bit flags indicating the hit sound applied to the object. See [the hit sounds section](#hit-sounds).
+- **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsounds section](#hitsounds).
 - **`objectParams` (Comma-separated list):** Extra parameters specific to the object's type.
-- **`hitSample` (Colon-separated list):** Information about which samples are played when the object is hit. It is closely related to `hitSound`; see [the hit sounds section](#hit-sounds). If it is not written, it defaults to `0:0:0:0:`.
+- **`hitSample` (Colon-separated list):** Information about which samples are played when the object is hit. It is closely related to `hitSound`; see [the hitsounds section](#hitsounds). If it is not written, it defaults to `0:0:0:0:`.
 
 ### Type
 
@@ -200,7 +200,7 @@ The remaining bits are used for distinguishing new combos and optionally skippin
 - 2: New combo
 - 4–6: A 3-bit integer specifying how many combo colours to skip, if this object starts a new combo.
 
-### Hit sounds
+### Hitsounds
 
 The `hitSound` bit flags determine which sounds will play when the object is hit:
 
@@ -209,7 +209,7 @@ The `hitSound` bit flags determine which sounds will play when the object is hit
 - 2: Finish
 - 3: Clap
 
-If no bits are set, the normal hit sound is used by default.
+If no bits are set, the normal hitsound is used by default.
 
 In every mode except osu!mania, the `LayeredHitSounds` skin property forces the normal sound to be included regardless of bit 0's setting. It is enabled by default.
 
@@ -234,9 +234,9 @@ Usage of `hitSample` can further customize the sounds that play. It defaults to 
 - `2`: Soft set
 - `3`: Drum set
 
-All of these options (besides volume) are used to determine which sound file to play for a given hit sound. The filename is `<sampleSet>-hit<hitSound><index>.wav`, where:
+All of these options (besides volume) are used to determine which sound file to play for a given hitsound. The filename is `<sampleSet>-hit<hitSound><index>.wav`, where:
 
-- `sampleSet` is `normal`, `soft`, or `drum`, determined by either `normalSet` or `additionSet` depending on which hit sound is playing
+- `sampleSet` is `normal`, `soft`, or `drum`, determined by either `normalSet` or `additionSet` depending on which hitsound is playing
 - `hitSound` is `normal`, `whistle`, `finish`, or `clap`
 - `index` is the same `index` as above, except it is not written if the value is `0` or `1`
 
@@ -260,8 +260,8 @@ Hit circles do not have additional `objectParams`.
 - **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
 - **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Glossary#osupixel) of the slider.
-- **`edgeSounds` (Pipe-separated list of integers):** Hit sounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
-- **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hit sounds section](#hit-sounds).
+- **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
+- **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hitsounds section](#hitsounds).
 
 #### Slider curves
 
@@ -281,11 +281,11 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 
 *Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
 
-#### Slider hit sounds
+#### Slider hitsounds
 
-Apart from edge hit sounds, sliders also have an ongoing hit sound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
+Apart from edge hitsounds, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
 
-This hit sound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-hit<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-hit<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
 ### Spinners
 
@@ -315,14 +315,14 @@ The first object is a hit circle:
 - In the centre of the screen
 - At 11 seconds
 - Starting a new combo, and skipping one extra combo colour
-- With a whistle hit sound
+- With a whistle hitsound
 
 The second object is a spinner:
 
 - At 11.2 seconds
 - Ending at 12 seconds
-- With finish and clap hit sounds, playing at 80% volume
-- With the normal hit sound playing with the drum set, at 80% volume
+- With finish and clap hitsounds, playing at 80% volume
+- With the normal hitsound playing with the drum set, at 80% volume
 
 The third object is a slider:
 
@@ -332,7 +332,7 @@ The third object is a slider:
 - With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), (300,150)
 - Repeating once
 - 310.123 osu! pixels long
-- With a whistle hit sound at the beginning, and a whistle hit sound playing with the soft set at the end
+- With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
 
@@ -340,9 +340,9 @@ also there is no info about how they convert to other game modes from an osu!sta
 
 ### osu!taiko
 
-osu!taiko's hit objects only use `time` to determine how they are placed on the play field, so `x` and `y` are ignored. Likewise, the only significant part of slider curves is `length`; `curveType` and `curvePoints` are only relevant when opening the map in the editor. Combo colours and new combos are ignored, and mode-specific hit sounds are used.
+osu!taiko's hit objects only use `time` to determine how they are placed on the play field, so `x` and `y` are ignored. Likewise, the only significant part of slider curves is `length`; `curveType` and `curvePoints` are only relevant when opening the map in the editor. Combo colours and new combos are ignored, and mode-specific hitsounds are used.
 
-- Hit circles with whistle or clap hit sounds become kats, and other hit circles become dons. Adding the finish hit sound changes these into their large variants.
+- Hit circles with whistle or clap hitsounds become kats, and other hit circles become dons. Adding the finish hitsound changes these into their large variants.
 - Sliders become drum rolls.
 - Spinners become denden notes.
 
