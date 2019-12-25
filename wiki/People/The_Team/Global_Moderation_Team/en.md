@@ -1,31 +1,31 @@
 # Global Moderation Team
 
-The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators or “GreenBAT”), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
+The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
 
 ## Roles and responsibilities
 
-The Global Moderation Team is responsible for the welfare of the chat/forum and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (silences, harassment) and the forum (spam, inappropriate comments).
+The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (e.g. silences or harassment) and the forum (e.g. spam or inappropriate comments).
 
-## Becoming a GMT member
+## Becoming a Global Moderation Team member
 
-Becoming a member of the **Global Moderation Team** requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
+Becoming a member of the Global Moderation Team requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
 
-### How to be considered for the GMT
+### How to be considered
 
 The most important factors for consideration are behaviour, activity, understanding of the rules, and patience:
 
 1. Demonstrate good behaviour by being polite and treating other users with respect. Keeping your account free of any serious silences or issues is essential.
 2. Demonstrate in-game activity by participating in the chat and/or the forums. Report any misbehaviour and problems via the report system. Answer questions and assist others with issues.
-3. Have a proper understanding of [the rules](https://osu.ppy.sh/help/wiki/Rules) and how they are applied. It is important to know what is acceptable within osu! and what is not.
-4. Be patient. The GMT does not spontaneously add members who have been helping for just a few days. It takes time for the GMT to evaluate someone — their personality, what they can help with, their activity, etc.
+3. Have a proper understanding of [the rules](/wiki/Rules) and how they are applied. It is important to know what is acceptable within osu! and what is not.
+4. Be patient. The GMT does not spontaneously add members who have been helping for just a few days. It takes time for the GMT to evaluate someone⁠—their personality, what they can help with, their activity, etc.
 
-Generally the team will observe people for several weeks to make sure they are a worthy addition to the team. Please be patient and don't go overboard. Feel free to ask anyone from the GMT about any questions regarding rules, reporting users, and any other issues.
+Generally, the team will observe people for several weeks to make sure they are a worthy addition to the team. Please be patient and do not go overboard. Feel free to ask anyone from the GMT about any questions regarding rules, reporting users, and any other issues.
 
 ### Some things not to do
 
 1. Do not continually ask the GMT about your standing as a potential candidate. The GMT does not look to add anyone who is contributing as a means to an end. An altruistic mindset is key.
 2. Do not report every little thing in chat. It is an important skill to know what is worth reporting and what is not.
-3. Do not answer other people's questions without knowing whether said answer is correct or not, particularly on the forums. Suggestions are welcome, but misinforming people isn't helpful to anyone. If you don't know the solution to a problem, let someone else answer and learn from them.
+3. Do not answer other people's questions without knowing whether said answer is correct or not, particularly on the forums. Suggestions are welcome, but misinforming people is not helpful to anyone. If you do not know the solution to a problem, let someone else answer and learn from them.
 4. Do not overdo things. The team looks for consistent contribution, not an overloaded amount. This is known to burn people out and make them lose patience and commitment. Take it easy!
 
 ## Team members
