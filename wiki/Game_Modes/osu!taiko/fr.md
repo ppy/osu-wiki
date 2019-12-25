@@ -296,7 +296,7 @@ Le placement des notes n'importe pas.
 
 ### conversion des notes osu!standard
 
-Quand une conversion de map arrive (jouer une map osu!standard en mode osu!taiko), les sliders très petits (moins d’un rythme) sont automatiquement convertis en note bleu ou rouge, dépendant du hit sound utilisé.
+Quand une conversion de map arrive (jouer une map osu!standard en mode osu!taiko), les sliders très petits (moins d’un rythme) sont automatiquement convertis en note bleu ou rouge, dépendant du hitsound utilisé.
 
 Pour les maps avec un BPM de 125 ou moins, on donne 1/8 des drumrolls au lieu de 1/4.
 

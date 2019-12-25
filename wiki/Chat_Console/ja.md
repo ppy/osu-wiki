@@ -19,7 +19,7 @@
 | **Pink**   | [BanchoBot](/wiki/BanchoBot/ "BanchoBot")                                                                                                                           |
 
 -   `Show Ticker`を押すことで、コンソールが開いていない時にチャットで一番新しいメッセージが下に表示されるようになります。
--   `Auto-Hide`を押すことでゲームプレイ中は自動的にコンソールが隠れるようになります(譜面のイントロアウトロとBreakを除きます)。
+-   `Auto-Hide`を押すことでゲームプレイ中は自動的にコンソールが隠れるようになります(ビートマップのイントロアウトロとBreakを除きます)。
 -   チャットコンソールを閉じるには`Hide Chat`か`F8`を再び押してください。
 
 ## チャットコンソールの拡張機能
@@ -45,10 +45,10 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 | ![Player is idle](Chat_Console-Idle.png "Player is idle")                                            | ダークブルー - 下に該当しないものです |
 | ![Player is playing](Chat_Console-Playing.png "Player is playing")                                   | グレー - プレイしています |
 | ![Player is watching](Chat_Console-Watching.png "Player is watching")                                | ライトブルー - リプレイを見ています |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")               | レッド - 自分の譜面をEditしています |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")               | パープル - Editorで譜面をテストプレイしています |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")      | ターコイズ - 譜面をアップロードしています |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")               | グリーン - 誰かの譜面をEditで見ています |
+| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")               | レッド - 自分のビートマップをEditしています |
+| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")               | パープル - Editorでビートマップをテストプレイしています |
+| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")      | ターコイズ - ビートマップをアップロードしています |
+| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")               | グリーン - 誰かのビートマップをEditで見ています |
 | ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                       | ブラウン - マルチプレイにいますが、プレイはしていません |
 | ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer")| イエロー - マルチプレイをしています |
 | ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                               | ブラック - 2分半以上放置しています |
@@ -57,7 +57,7 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 
 いずれかのプレイヤーの上でクリックするとこの画面が出ます 番号を押すか、有効化するためにクリックしてください:-
 
-1.  `Start Spectating`: ユーザーが譜面をプレイしていて、あなたがその譜面を持っている場合、あなたは彼らのプレイを見ることができます。
+1.  `Start Spectating`: ユーザーがビートマップをプレイしていて、あなたがそのビートマップを持っている場合、あなたは彼らのプレイを見ることができます。
 2.  `View Profile`: ブラウザでそのプレイヤーのプロフィールを確認できます
 3.  `Start Chat`: プライベートメッセージを送るためのタブが開きます
 4.  `Invite to game`: (マルチプレイでいずれかの部屋にいるなら) あなたの今いる部屋にプレイヤーを招待します

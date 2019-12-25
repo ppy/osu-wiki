@@ -21,7 +21,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **BPM**: Tempo of a song measured in beats per minute.
 - **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels.
 - **Key mode**: The number of columns present in a difficulty.
-- **Key sounding**: Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
 - **Long-term slider velocity**: A slider velocity change lasting more than 4 measures.
 - **Musical phrase**: A standalone unit of musical meter that is usually 4 measures long.
@@ -68,8 +68,8 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
   - would be unreasonable to play with full accuracy.
   - would be effectively represented with a consistent, predictable snap
   - would cause an inappropriate difficulty spike.
-- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when key sounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
-- **Do not use key sounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when key sounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
+- **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
+- **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
 - **Avoid using the same hitsound for multiple notes in a chord.** This causes feedback to be louder than necessary. This also applies to active hitsounds and storyboard hitsounds used at the same timestamp.
 - **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalizing the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in brackets after the BPM range in the song selection, e.g. BPM: 60-160 (130). Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
 - **Slider velocity changes should follow the general intensity of the song.**

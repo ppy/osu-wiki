@@ -43,7 +43,7 @@ Estas regras se aplicam aos beatmaps enviados pelo [Sistema de Envio de Beatmaps
 
 Uma página de regras mais detalhadas para a elaboração de um beatmap existe, conhecida como [Ranking Criteria](/wiki/Ranking_Criteria).
 
-1. **Tenha certeza de que você tem permissão para utilizar o conteúdo publicado no seu beatmap.** Isso inclui músicas, vídeos, hit sounds, imagens, e qualquer conteúdo que não seja de sua autoria. Caso não tenha certeza de onde encontrar conteúdo para ser usado livremente, nós temos uma crescente biblioteca de músicas disponível no [artistas em destaque](https://osu.ppy.sh/beatmaps/artists/), todas 100% licenciadas para uso no osu!.
+1. **Tenha certeza de que você tem permissão para utilizar o conteúdo publicado no seu beatmap.** Isso inclui músicas, vídeos, hitsounds, imagens, e qualquer conteúdo que não seja de sua autoria. Caso não tenha certeza de onde encontrar conteúdo para ser usado livremente, nós temos uma crescente biblioteca de músicas disponível no [artistas em destaque](https://osu.ppy.sh/beatmaps/artists/), todas 100% licenciadas para uso no osu!.
 2. **Mantenha-se no tópico nas conversas.** Estes tópicos/discussões são sobre o beatmap em questão, nada mais. Caso tenha algum problema que não seja diretamente relacionado ao beatmap, faça uma postagem no fórum apropriado.
 3. **Não plagie ou tente roubar o trabalho dos outros.** Também não envie ou utilize o conteúdo de outras pessoas sem a devida permissão (incluindo, mas se não limitando a, skins e dificuldades colaborativas (guest difficulties)).
 
