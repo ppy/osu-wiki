@@ -1,10 +1,10 @@
 # Ranking Criteria
 
-_查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。_
+*查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。*
 
 这里会列出[官方论坛](https://osu.ppy.sh/community/forums/87)中的新增内容。按照惯例，任何正在讨论的规定都将列在此处，一旦讨论达成一致，就会更新它们。
 
-**注意[行为准则](/wiki/Code_of_Conduct)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Ranking_Criteria/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 _osu!_ 中所有游戏模式。**
+**注意[行为准则](/wiki/Code_of_Conduct)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Ranking_Criteria/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有游戏模式。**
 
 ## 术语
 
@@ -16,14 +16,16 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 ## 一般
 
 ### 规定
+
 - **两个物件不能出现在同一个时间点上。** 包括圈，滑条的开始和结束，转盘的开始和结束。osu!mania 模式除外。
 - **背景 / 故事板 / 视频的内容不得有任何色情内容。** 包括裸体、近裸体、性暗示、暴力和滥用毒品等等。详见[视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)。
 - **包含重复频闪、脉冲图像，或视频、故事板中有对比度、颜色和亮度的快速变化的谱面必须使用癫痫警告。** 如果警告会影响游戏，则必须延长歌曲导入时间。3 HZ 以下的闪烁一般不会引起人的不适。如果有疑问，请在摸图时添加该警告并讨论确认其必要性。
 - **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。这条规则的唯一例外是自动生成的 `thumbs.db` 文件。
-- **不要通过编辑 `.osu ` 文件来修改难度设定或插入休息时间，这可能会对相应的游戏模式产生意外的问题。** 对 `.osu` 文件的其他修改是可以的，例如修改偏移系数（Stack leniency）、滑条速度（Slider velocity）、皮肤设定等等。
+- **不要通过编辑 `.osu` 文件来修改难度设定或插入休息时间，这可能会对相应的游戏模式产生意外的问题。** 对 `.osu` 文件的其他修改是可以的，例如修改偏移系数（Stack leniency）、滑条速度（Slider velocity）、皮肤设定等等。
 - **同游戏模式下所有难度的 `Letterbox during breaks` 设定必须一致，如果其包含相同的休息时间和 / 或故事板。**
 
 ### 准则
+
 - **不鼓励在别的 Ranked 谱面中重用你的 Ranked 谱面。** 这是为了避免 Ranked 内容中不必要的重复。
 - **不能通过编辑 `.osu` 文件来修改滑条节拍倍率。** 大多数自定义值会导致不整齐的滑条节拍，虽然 0.5，1.333 和 1.5 这些值有一定的使用，但只能在比标准节拍速率更适合歌曲时才能使用。
 - **Kiai 应该自歌曲中一个明显的声音开始。** 否则会让 Kiai 听起来与歌曲无关。
@@ -72,6 +74,7 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 ## 元数据
 
 ### 术语
+
 - **正式来源**：作者所发布的媒体，如官方网站，CD 扫描，或者官方上传到的网站如 Bandcamp、YouTube、SoundCloud 等。第三方网站如百科、数据库、音乐服务等，不被看作正式来源。
 - **vs.**：versus 与
 - **feat./ft.**：featuring 以……为特色，一般用于表示合作的歌手
@@ -120,7 +123,7 @@ _查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[os
 - **其他语言的外来词在进行罗马音化处理时，必须使用原词。**
 - **当一首歌在标题中使用重复单词（其中一个是 Unicode，一个是罗马音）时，只能使用该罗马音并且删除对应的 Unicode 字符。**
 - **带有德语元数据的歌曲必须将元音变音罗马音化为两个字母的等效表示（`ue`、`oe`、`ae`和`ss`）。**
-- **带有俄语 / 西里尔字符的元数据必须使用 `BGN/PCGN` 体系进行罗马化。** 同样适用于 Source 字段，如果作者偏好罗马化表达。如果 `Е` 和 `е` 单独出现，或在 `a`，`e`，`ё`，`и`，`о`，`у`，`ы`，`э`，`ю`，`я`，`й`，`ъ`，`ь` 之后出现，应该罗马音化为 `ye`。在其他情况中，应该罗马音化为 `e`。`ё` 应该罗马音化为 `ye`，但是，使用 `yo` 或 `o` 以避免使用特殊字符。忽略提供的文件中的任何其他规则，这些规则或者是无关紧要的，或者对游戏没有帮助。如果艺术家有更好的罗马音名称，可以不必遵循这个规则。对于大部分其他字符的转换规则，请参阅[这个文件的第一页](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf)。
+- **带有俄语 / 西里尔字符的元数据必须使用 BGN/PCGN 体系进行罗马化。** 同样适用于 Source 字段，如果作者偏好罗马化表达。如果 `Е` 和 `е` 单独出现，或在 `a`，`e`，`ё`，`и`，`о`，`у`，`ы`，`э`，`ю`，`я`，`й`，`ъ`，`ь` 之后出现，应该罗马音化为 `ye`。在其他情况中，应该罗马音化为 `e`。`ё` 应该罗马音化为 `ye`，但是，使用 `yo` 或 `o` 以避免使用特殊字符。忽略提供的文件中的任何其他规则，这些规则或者是无关紧要的，或者对游戏没有帮助。如果艺术家有更好的罗马音名称，可以不必遵循这个规则。对于大部分其他字符的转换规则，请参阅[这个文件的第一页](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526837/Romanization_system_for_Russian_31May2016.pdf)。
 - **带有日文名称的歌曲必须在「罗马音名称」字段使用平文式罗马字改。** 对于非 Unicode 域，长元音如 `おう` 和 `うう` 应该写作罗马音 `ou` 和 `uu`，以避免长元音符号。
 - **带有中文元数据的歌曲，除艺人名称外，都要按照汉字的口音和方言，采用逐字罗马化的方法处理。** 在任何情况下，必须省略所有声调标记：
   - **普通话元数据必须使用汉语拼音系统进行罗马音化处理。**
