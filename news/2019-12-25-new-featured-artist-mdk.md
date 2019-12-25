@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: MDK"
-date: 2019-12-25 04:00:00 +0000
+date: 2019-12-25 05:20:00 +0000
 ---
 
 **MDK** blasts on in as our latest addition to the Featured Artist lineup!
