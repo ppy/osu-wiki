@@ -356,8 +356,6 @@ The audio files can be sourced from anywhere, as long as the audio exists from t
 Please upload the audio file to reputable file sharing sites like [puush](https://puush.me/ "puush"). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as _hotlinks_).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
 
 - Dedicated button: N/A
-- Notes:
-  - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
   - Where `URL` is the the direct link to an audio track.
 ```
