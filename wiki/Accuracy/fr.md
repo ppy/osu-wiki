@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Accuracy
 
 L'accuracy (précision en français) est une mesure qui sert à établir la constance d'un joueur.

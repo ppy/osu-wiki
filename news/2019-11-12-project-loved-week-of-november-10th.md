@@ -86,7 +86,7 @@ As one of those maps that meant the "calm before the storm" in the osu!taiko Wor
 
 [sasakure.UK - The illegaL QueeN](https://osu.ppy.sh/beatmapsets/881484#taiko) by [tkdLolly](https://osu.ppy.sh/users/9035344)  
 180 BPM, 4:34 | 7.02★  
-*description written by [Kazu](https://osu.ppy.sh/users/6259451)*
+*description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 And representing the "storm" we mentioned before, *The illegaL QueeN*, one of the most fearsome maps in the Grand Finals pools for the osu!taiko World Cup 2019 was one we wanted to bring to the Loved section the most after seeing how it made our finalists struggle through it and give us all the chance to see what incredible scores we could have witnessed on this hellish though exquisite map. We could say that tkdLolly's mapping is nowadays unfamiliar to nobody, and this is a perfect example of the masterpieces he brings to us: excellent usage of SV as a tool to emphasize his mapping, perfect placement of bursts in his patterns that are unbelievably tricky yet reasonable to hit, and a musical sense that creates a great playing experience. For all this, we hope to see the competition in this map and really surprising, highlight-worthy scores.
 

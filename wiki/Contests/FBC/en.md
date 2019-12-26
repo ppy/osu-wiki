@@ -1,7 +1,7 @@
 ---
 tags:
-- FBC
-- Mapping 
+  - FBC
+  - Mapping
 ---
 
 # French Beatmapping Contest

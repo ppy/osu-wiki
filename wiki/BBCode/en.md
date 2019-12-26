@@ -1,3 +1,8 @@
+---
+needs_cleanup: true
+outdated: true
+---
+
 # BBCode
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
@@ -338,6 +343,23 @@ Embeds a YouTube video in your post.
     - The YouTube video ID is located after the `?v=` url parameter.
 ```
 [youtube]VIDEO_ID[/youtube]
+```
+
+### Audio
+
+**Shows an HTML5 audio player from an online audio source**.
+
+The audio files can be sourced from anywhere, as long as the audio exists from the given url.
+
+**Do not link the audio directly from a local filepath!** Using `C:\Users\Name\Music\audio.mp3` will **not work**.
+
+Please upload the audio file to reputable file sharing sites like [puush](https://puush.me/ "puush"). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as _hotlinks_).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
+
+- Dedicated button: N/A
+- Syntax:
+  - Where `URL` is the the direct link to an audio track.
+```
+[audio]URL[/audio]
 ```
 
 ### Heading (v1)

@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # osu! Program Files
 
-![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
+![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
 
 ## Location
 

@@ -1,4 +1,10 @@
+---
+needs_cleanup: true
+---
+
 # Accuracy
+
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
 Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy which is dependent on the submitted score's accuracy.
 
@@ -12,7 +18,7 @@ In osu!standard, accuracy is calculated by weighting the judgement gained from e
 
 Reference for one hit circle:
 
-```
+```text
 300 -> 300 / 300 = 1   = 100.00%
 100 -> 100 / 300 = 1/3 =  33.00%
 50  ->  50 / 300 = 1/6 =  16.67%
@@ -37,7 +43,7 @@ In osu!catch, accuracy is calculated by taking the total of non-spinner hit obje
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!standard](#osu!standard).
+In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard).
 
 ## Performance graph
 

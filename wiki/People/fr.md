@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# L'Équipe
+# Personnes
 
-- [Administration](The_Team)
-- [Contributeurs](Community_Contributors)
+- [L'Équipe](The_Team)
+- [Les contributeurs importants de la communauté](Community_Contributors)
