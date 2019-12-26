@@ -97,21 +97,21 @@ The Speed of Light Mania Tournament is run by various community members by distr
 ### Round of 16
 
 - FreeMod
-  - [ Alon Mor - Pablo's Palace (XeoStyle) \[El Capo\]](https://osu.ppy.sh/beatmapsets/630584#mania/1331171)
-  - [ Kkrusty - A Quick Death (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
-  - [ Rise Against - Savior (abraxos) \[Lamentations\]](https://osu.ppy.sh/beatmapsets/665616#mania/1408630)
-  - [ Michael Gray - The Weekend (Jole) \[friday feeling\]](https://osu.ppy.sh/beatmapsets/701056#mania/1483930)
-  - [ Hail The Sun - Falling On Deaf Ears (Civilization) \[I'm Not Real\]](https://osu.ppy.sh/beatmapsets/766742#mania/1611802)
-  - [ Yuaru - Asu no Yozora Shoukaihan (RyuON) \[Night Sky\]](https://osu.ppy.sh/beatmapsets/1010176#mania/2114642)
-  - [ fripSide - sisters's noise (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
-  - [ Frederic - oddloop (inflect) \[oldlnep\]](https://osu.ppy.sh/beatmapsets/649672#mania/1376904)
-  - [ Chroma - \[@__@\] (BadPlayer100) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/1059897#mania/2219389)
-  - [ Seven Lions & Echos - Cold Skin (MiTiS Remix) (HekoKun) \[Frozen Heart\]](https://osu.ppy.sh/beatmapsets/927576#mania/1937375)
-  - [ Culprate - Yin (Toaph Daddy) \[Hollow\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2209523)
-  - [ FELT - New World (Penguinosity) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/772658#mania/1624145)
-  - [ BilliumMoto - life flashes before weeb eyes (Unpreditable) \[-mystic's insane\]](https://osu.ppy.sh/beatmapsets/985172#mania/2165198)
-  - [ Stellabee ft. THINK-chan - Flower in the Dawn (-Lethal-) \[flourish\]](https://osu.ppy.sh/beatmapsets/1030431#mania/2154859)
-  - **[ Camellia - FM Synthesis Experiment  (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
+  - [Alon Mor - Pablo's Palace (XeoStyle) \[El Capo\]](https://osu.ppy.sh/beatmapsets/630584#mania/1331171)
+  - [Kkrusty - A Quick Death (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
+  - [Rise Against - Savior (abraxos) \[Lamentations\]](https://osu.ppy.sh/beatmapsets/665616#mania/1408630)
+  - [Michael Gray - The Weekend (Jole) \[friday feeling\]](https://osu.ppy.sh/beatmapsets/701056#mania/1483930)
+  - [Hail The Sun - Falling On Deaf Ears (Civilization) \[I'm Not Real\]](https://osu.ppy.sh/beatmapsets/766742#mania/1611802)
+  - [Yuaru - Asu no Yozora Shoukaihan (RyuON) \[Night Sky\]](https://osu.ppy.sh/beatmapsets/1010176#mania/2114642)
+  - [fripSide - sisters's noise (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
+  - [Frederic - oddloop (inflect) \[oldlnep\]](https://osu.ppy.sh/beatmapsets/649672#mania/1376904)
+  - [Chroma - \[@__@\] (BadPlayer100) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/1059897#mania/2219389)
+  - [Seven Lions & Echos - Cold Skin (MiTiS Remix) (HekoKun) \[Frozen Heart\]](https://osu.ppy.sh/beatmapsets/927576#mania/1937375)
+  - [Culprate - Yin (Toaph Daddy) \[Hollow\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2209523)
+  - [FELT - New World (Penguinosity) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/772658#mania/1624145)
+  - [BilliumMoto - life flashes before weeb eyes (Unpreditable) \[-mystic's insane\]](https://osu.ppy.sh/beatmapsets/985172#mania/2165198)
+  - [Stellabee ft. THINK-chan - Flower in the Dawn (-Lethal-) \[flourish\]](https://osu.ppy.sh/beatmapsets/1030431#mania/2154859)
+  - **[Camellia - FM Synthesis Experiment  (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
 
 ### Round of 32
 
