@@ -20,7 +20,7 @@ This page will tell you how to get osu! working on your Windows device. The [osu
 3. While the installer is running, there is a ten second period to allow you to select the installation location.
    - If you want to change it, click on the text underneath the word, `Hi!` and select the installation location.
    - osu! will be installed to that location when the timer is done.
-4. When the installer is completed, osu! will start up. osu!direct will be used to download some starter beatmaps for you, even if you don't have supporter.
+4. When the installer is completed, osu! will start up. osu!direct will be used to download some starter beatmaps for you.
 5. osu! will prompt you to sign in or register.
    - If you already have an account, sign in.
    - If you need to register, see [Registration](/wiki/Registration).
