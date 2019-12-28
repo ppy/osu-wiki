@@ -10,7 +10,7 @@ A bunch of new beatmap packs are available, and they were created by an open tea
 
 The Beatmap Pack Management is here to make more beatmap packs focused on a variety of themes for the community to enjoy! For those unaware, here's some more information about us:
 
-I've created a small group of experienced users interested in working on packs dedicated to specific themes, similarities, and ideas. We've been actively working since July 2019 to provide new and interesting packs to play! Since we began the Beatmap Pack Management initiative, interest in this project has been very high, and some noteworthy members of the community have also joined the group to help us by contributing their ideas. The project is also dedicated to provide active monitoring to the community and the first place to contact for any problems related to beatmap packs. We already have a few things to present to you which we're sure you'll like: check out the packs below!
+A small group has been created created of experienced users interested in working on packs dedicated to specific themes, similarities, and ideas. We've been actively working since July 2019 to provide new and interesting packs to play! Since we began the Beatmap Pack Management initiative, interest in this project has been very high, and some noteworthy members of the community have also joined the group to help us by contributing their ideas. The project is also dedicated to provide active monitoring to the community and the first place to contact for any problems related to beatmap packs. We already have a few things to present to you which we're sure you'll like: check out the packs below!
 
 ### Alternator Style packs
 
@@ -64,7 +64,7 @@ Supported by the [Christmas Queue](https://osu.ppy.sh/community/forums/topics/98
 
 ### What else to expect
 
-While I believe we're doing very well already, we're also just getting started. Currently, I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs, so it's a little slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, or if you want to report an error/bug in a pack, you can join our Discord server and spectate our doings. Alternatively, you could also join the group if you're interested! Please check out the [forum thread](https://osu.ppy.sh/community/forums/topics/933379) for information on how to get to the server.
+While I believe we're doing very well already, we're also just getting started. Currently, I'm the only active person that coordinates the uploads, as well as the accessibility and maintenance of the packs, so it's a little slow. But I'm glad I could help a lot of people so far and that I have received so much great feedback. If you are interested in taking a look at what we are working on, want to report an error/bug in a pack, or want to join the group, please check out our [forum thread](https://osu.ppy.sh/community/forums/topics/933379).
 
 I also recommend following [@osuMapPacks](https://twitter.com/osuMapPacks) on Twitter to stay up-to-date with news, fixes, new packs, and more. With that said, I can't really say when the next news post will be, since we're a group that takes time to work on packs individually, but you can still contact me if you have any questions. I hope you have an amazing day and download lots of packs. Thank you for reading!
 
