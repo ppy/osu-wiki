@@ -1,16 +1,16 @@
 ---
 layout: post
-title: New Beatmap Packs are available!
-date: 2019-12-26 14:00:00 +0000
+title: New Themed Beatmap Packs
+date: 2019-12-28 05:00:00 +0000
 ---
 
-A bunch of new beatmap packs are available, created by the Beatmap Pack Management project!
+A bunch of new beatmap packs are available, and they were created by an open team dubbed the Beatmap Pack Management. Come check it all out!
 
 ![](/wiki/shared/news/banners/beatmap-packs.jpg)
 
-Our project, called Beatmap Pack Management, is here to make more Beatmap Packs focused on a variety of themes for the community to enjoy! For those unaware, here's some more information about us:
+The Beatmap Pack Management is here to make more beatmap packs focused on a variety of themes for the community to enjoy! For those unaware, here's some more information about us:
 
-I've created a small group of experienced users interested in working on packs of beatmaps dedicated to specific themes, similarities, and ideas. We have been actively working since July 2019 to provide new and interesting packs to play! Since we began the Beatmap Pack Management initiative, interest in this project has been very high and some noteworthy members of the community have also joined the group to help us by contributing their ideas to the project. The project is also dedicated to provide active monitoring to the community and the first place to contact for any problems related to beatmap packs. We already have a few things to present to you which I'm sure you'll like. Be sure to check out the packs below!
+I've created a small group of experienced users interested in working on packs dedicated to specific themes, similarities, and ideas. We've been actively working since July 2019 to provide new and interesting packs to play! Since we began the Beatmap Pack Management initiative, interest in this project has been very high, and some noteworthy members of the community have also joined the group to help us by contributing their ideas. The project is also dedicated to provide active monitoring to the community and the first place to contact for any problems related to beatmap packs. We already have a few things to present to you which we're sure you'll like: check out the packs below!
 
 ### Alternator Style packs
 
