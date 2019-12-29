@@ -1,5 +1,6 @@
 ---
 tags:
+  - BTT
   - BTT5
 ---
 
@@ -28,9 +29,9 @@ The **Beginner's Taiko Tournament 2019** (***BTT5***) is a worldwide double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -61,20 +62,16 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 *The participants will be revealed after the registration phase ends.*
 
----
-
 ## Mappools
 
 *The mappools will be revealed one week before each particular stage.*
-
----
 
 ## Ruleset
 
 ### General rules
 
 1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The Score system used will be **Score V2**.
+2. The score system used will be **Score V2**.
 3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
 4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
 5. If there are no referees available, the match can be postponed.
@@ -89,11 +86,11 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
 2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
 3. The winning condition for each stage are listed below:
-   - Group Stage and Round Of 32: Best-Of-7 (First to 4 points)
-   - Round of 16 and Quarterfinals: Best-Of-9 (First to 5 points)
-   - Semifinals: Best-Of-11 (First to 6 points)
-   - Finals and Grand Finals: Best-Of-13 (First to 7 points)
-4. During the Group Stage (a group of 4). Only the top 2 players from each group will advance to the next stage.
+   - Group Stage and Round of 32: Best of 7 (first to 4 points)
+   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
+   - Semifinals: Best of 11 (first to 6 points)
+   - Finals and Grand Finals: Best of 13 (first to 7 points)
+4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
 
 ### Seeding regulations
 
@@ -110,8 +107,8 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
 2. Each player can request one warmup map, but it must be **below 4 minutes**.
 3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the !roll, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the !roll, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
+   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
+   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
 4. A player cannot ban a map from the same category twice.
 5. In case of a tie, the tiebreaker will be played.
 6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
