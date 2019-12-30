@@ -10,7 +10,7 @@ A beatmap's creator can mark their submissions as `Work-in-progress` or `Pending
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and these beatmappers are often required to re-do their beatmaps from scratch.
 
-Before being nominated for ranking, beatmapsets need to receive [hype](/wiki/Glossary#hype) posts from at least five different users.
+Before being nominated for ranking, beatmapsets need to receive [Hype](/wiki/Glossary#hype) posts from at least five different users.
 
 ## Nominations
 
@@ -24,7 +24,7 @@ It is recommended to receive mods before requesting nominations from Beatmap Nom
 
 Beatmaps that receive two nominations are moved to the [Qualified](wiki/Beatmaps#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
 
-This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page.
+This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a nomination reset.
 
 ## Nomination resets
 
