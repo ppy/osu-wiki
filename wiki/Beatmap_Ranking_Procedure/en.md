@@ -4,7 +4,7 @@ Beatmaps can be promoted to the community by following the beatmap ranking proce
 
 ## Feedback
 
-A beatmap's creator can mark their submissions as `Work-in-progress` or `Pending`. Beatmaps in both of these categories are intended to receive feedback from the osu! community.
+A beatmap's creator can mark their submissions as `Work in Progress` or `Pending`. Beatmaps in both of these categories are intended to receive feedback from the osu! community.
 
 [Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
 
@@ -22,7 +22,7 @@ It is recommended to receive mods before requesting nominations from Beatmap Nom
 
 ## Qualification
 
-Beatmaps that receive two nominations are moved to the [Qualified](wiki/Beatmaps#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
+Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a nomination reset.
 
