@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modowanie
 
 **Modding** (modowanie) - sprawdzanie mapy, a następnie sugerowanie zmian - od lepszych ustawień timingu, po zmianę położenia obiektów. Robi się to na czacie w grze, lub odpowiadając na topic beatmapy. Mapperem nazywa się osobę wykonującą tę aktywność, a mapperem autora beatmapy. Modowanie jest przydatne na trzy sposoby:

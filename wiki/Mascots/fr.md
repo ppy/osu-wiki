@@ -56,7 +56,7 @@ Ryuuta a également été présenté dans le skin de [LuigiHann](https://osu.ppy
 
 Agent J, aussi connu sous le nom de BA-2 (Beat Agent-2) ou J, fut une des mascottes d'osu en 2008 jusqu'à ce qu'il fut retiré en 2014. Il a été créer par iNiS Corporation et faisait parti de l'ancien site web.
 
-Agent J à également été présenté dans le skin de LuigiHann, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Agent J à également été présenté dans le skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 

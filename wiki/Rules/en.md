@@ -21,7 +21,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
 7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
 8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
-9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
+9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
 ## Forum-wide rules
 
@@ -39,18 +39,10 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
-1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hit sounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) listing, all 100% licensed for use in osu!.
+1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) listing, all 100% licensed for use in osu!.
 2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
-
-## Off-Topic Rules
-
-*The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
-
-1. **No topic in Off-Topic has value.** They are put simply, trash. If your threads keep getting moved to Off-Topic, they are being judged to be unworthy of serious discussion. Take the hint.
-2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
-3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
 
 ## What happens if I break the rules?
 
@@ -58,10 +50,10 @@ If you do find yourself on the wrong end of our community rules, bad things will
 
 These bad things may include (*but are not limited to*):
 
-* The removal of your ability to chat in-game for a period of time (known as a silence).
-* The removal of any infringing content from your userpage, profile or uploaded beatmaps.
-* The loss of the privilege to edit or alter your userpage or profile details.
-* The loss of the privilege to play or qualify in officially hosted tournaments.
+- The removal of your ability to chat in-game for a period of time (known as a silence).
+- The removal of any infringing content from your userpage, profile or uploaded beatmaps.
+- The loss of the privilege to edit or alter your userpage or profile details.
+- The loss of the privilege to play or qualify in officially hosted tournaments.
 
 Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
