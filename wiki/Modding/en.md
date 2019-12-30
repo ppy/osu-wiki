@@ -6,30 +6,28 @@ Mods are mainly used to improve beatmaps aiming for Ranked status. Because it is
 
 ## Finding beatmaps to mod
 
-[Modding Queues](https://osu.ppy.sh/community/forums/60) are the most actively utilized platform for finding beatmaps to mod and requesting mods. A user can create their own forum thread, referred to as a *queue*, for other users to post beatmaps that they want to be modded.
+While there are countless ways to discover beatmaps to mod, the following are a few common methods.
 
-Each queue's creator dictates the queue's rules, controlling which beatmaps are viable for receiving mods. Queues are usually open for requests in two ways:
+The [Modding Queues forum](https://osu.ppy.sh/community/forums/60) is the most actively utilized platform for finding beatmaps to mod and requesting mods. A user can create their own thread, referred to as a *queue*, for other users to post beatmaps that they want to be modded.
+
+Each queue's creator dictates the queue's rules, controlling which beatmaps are viable for receiving mods. Queues are usually open for requests of two types of mods:
 
 - **Normal mod (NM):** A mod that will be provided without work from the requesting beatmapper.
 - **Mod for mod (M4M):** A trade that requires each user to mod the other's beatmap.
-
-The `#modreqs` chat channel is populated by beatmappers posting maps they want modded. Most beatmaps posted do not receive mods.
 
 Well-known modders often note whether or not they are accepting mod requests on their user profiles.
 
 Searching the pending beatmaps listing for beatmaps to mod is not recommended because most submissions are not aiming for Ranked status, so their creators will potentially not respond to mods.
 
-## Modding process
+## How to mod
 
-To mod a beatmapset, start by downloading the most up-to-date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for potential issues.
+To mod a beatmapset, start by downloading the most up-to-date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for other issues.
 
-When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion page, locate the difficulty being modded, navigate to the applicable tab, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
+When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
 
-All mod posts should address what the issue is, why it is an issue, and how to fix it. For example, if a beatmap has an unnecessarily large jump, a mod could potentially be worded as "The spacing between these objects is too high. The song is not intense enough to justify this size of a jump, so moving the objects closer together would be more appropriate!". Many mod posts include links to images so that beatmappers can better understand any suggestions.
+All mod posts should address what the issue is, why it is an issue, and how to fix it. See the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) for more details on how to format mod posts.
 
-Modders should not assume a beatmapper understands why anything is an issue within their beatmap. When simplifying a mod post into a command like "Add a New Combo on this object", the beatmapper may not be convinced that the post is accurate and will likely deny the suggestion.
-
-Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they agree with by clicking the *thumbs up* button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they consider helpful with by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Types of mod posts
 
