@@ -37,7 +37,7 @@ Bagian: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Edit
 
 # Penyuntingan dan Pengiriman Beatmap Secara Online
 
-[Pengiriman Beatmap](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Kriteria Ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Pengiriman Beatmap](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Kriteria Ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
