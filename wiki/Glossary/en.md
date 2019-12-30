@@ -384,7 +384,7 @@ These are added to make the hitsounds sound more expressive and let the player f
 
 ### Hype
 
-Unranked beatmaps gain exposure by receiving Hype posts on their discussion threads. These posts can only be made in the `General (All difficulties)` tab of a beatmap discussion. A beatmap needs 5 Hypes before it is elligible for Nomination.
+Unranked beatmaps gain exposure by receiving `Hype` posts on their discussion threads. These posts can only be made in the `General (All difficulties)` tab of a [beatmap discussion](/wiki/Beatmap_Discussion). A beatmap needs 5 hypes before it is elligible for nomination.
 
 ## I
 
