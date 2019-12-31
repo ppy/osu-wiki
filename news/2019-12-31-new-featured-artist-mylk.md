@@ -10,11 +10,11 @@ date: 2019-12-31 08:00:00 +0000
 
 The end of the year is well and truly here and with it, our last addition to the roster for the decade. It's been a wild year of amping up the pace, and what better note to leave it on than the bubblegum blast that is **MYLK**!
 
-**MYLK**'s featured in a bunch of collaborative works across the EDM scene as a vocalist, working alongside artists like *Muzzy*, *Feint* and *Moe Shop*. 
+**MYLK**'s featured in a bunch of collaborative works across the EDM scene as a vocalist, working alongside artists like *Muzzy*, *Feint*, and *Moe Shop*.
 
 She's also an avid producer in her own right with a whopping assortment of singles and tracks to embrace, and we're delighted to announce that we have **15** brand new tracks from her ensemble for you to embrace, all guaranteed to be extremely high in calcium, sugar, and punchy EDM pop that wriggles into your earholes and refuses to leave.
 
-In a bit of a throwback to some of our earlier releases, the osu!taiko wing of the [Mappers' Guild](https://mappersguild.com/) has been hard at work creating a bunch of new sets to some of her tracks to help you end the year with a bang — literally. 
+In a bit of a throwback to some of our earlier releases, the osu!taiko wing of the [Mappers' Guild](https://mappersguild.com/) has been hard at work creating a bunch of new sets to some of her tracks to help you end the year with a bang — literally.
 
 They're included in the preview bits below, so make sure to give them a look:
 
