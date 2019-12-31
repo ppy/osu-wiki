@@ -20,7 +20,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### Smile
 
-[Check out the osu!taiko](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) set by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1756.mp3" type="audio/mpeg">
