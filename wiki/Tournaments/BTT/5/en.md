@@ -83,10 +83,10 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ### Rank restrictions
 
-In order to make your registration counts, the player needs cannot be in the top #10,000 in osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below #10,000. We do not want an unfair advantage! However there are two exceptions to this rule.
+A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
 
-1. If player's appropriate rank upon registration past #10,000 before the tournament begins but still below #9,000, its registration is considered eligible.
-2. If you ranked up while the tournament is taking place, said action cannot be stopped, but please refrain from doing so (ranking up too far below #9,000 would result an elimination).
+1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
+2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
 
 ### Stage regulations
 
