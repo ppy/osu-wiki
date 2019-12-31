@@ -12,7 +12,7 @@ The end of the year is well and truly here and with it, our last addition to the
 
 **MYLK**'s featured in a bunch of collaborative works across the EDM scene as a vocalist, working alongside artists like *Muzzy*, *Feint*, and *Moe Shop*.
 
-She's also an avid producer in her own right with a whopping assortment of singles and tracks to embrace, and we're delighted to announce that we have **15** brand new tracks from her ensemble for you to embrace, all guaranteed to be extremely high in calcium, sugar, and punchy EDM pop that wriggles into your earholes and refuses to leave.
+She's also an avid producer in her own right with a whopping assortment of singles and tracks, and we're delighted to announce that we have **15** brand new tracks from her ensemble for you to embrace, all guaranteed to be extremely high in calcium, sugar, and punchy EDM pop that wriggles into your earholes and refuses to leave.
 
 In a bit of a throwback to some of our earlier releases, the osu!taiko wing of the [Mappers' Guild](https://mappersguild.com/) has been hard at work creating a bunch of new sets to some of her tracks to help you end the year with a bang — literally.
 
@@ -20,7 +20,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### Smile
 
-[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1065517) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1756.mp3" type="audio/mpeg">
@@ -28,7 +28,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### SOAP
 
-[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) by [tasuke912](https://osu.ppy.sh/users/2774767)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1055618) by [tasuke912](https://osu.ppy.sh/users/2774767)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1755.mp3" type="audio/mpeg">
@@ -36,7 +36,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### Bubblegum
 
-[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204735) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1055143) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1746.mp3" type="audio/mpeg">
@@ -44,7 +44,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### Let You Go
 
-[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1053583#taiko/2201615) by [Nepuri](https://osu.ppy.sh/users/6637817)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1053583) by [Nepuri](https://osu.ppy.sh/users/6637817)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1752.mp3" type="audio/mpeg">
@@ -52,7 +52,7 @@ They're included in the preview bits below, so make sure to give them a look:
 
 ### Prism
 
-[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618) by [salchow](https://osu.ppy.sh/users/9738159)!
+[Check out the osu!taiko set](https://osu.ppy.sh/beatmapsets/1051590) by [salchow](https://osu.ppy.sh/users/9738159)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/62/previews/1754.mp3" type="audio/mpeg">
