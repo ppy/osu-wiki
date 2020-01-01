@@ -4,7 +4,7 @@ title: "Beatmap Spotlights: Autumn 2019"
 date: 2020-01-05 10:00:00 +0000
 ---
 
-Even if the hot season flew away and colder winds are blowing, we still have something in our pocket to keep you warm. Our selection from the hotest season is here for you the spend some time with. Come take a look and earn a fancy new medal for yourself by playing them all!
+We have now entered a new astronomical decade and along with that the winds are not chilling but we still have something to warm you up! Our selection from the season of fallen leaves is here. Come, give them a look and earn a fancy new medal for yourself!
 
 ![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/header.jpg)
 
@@ -47,7 +47,11 @@ _written by [KnightC0re](https://osu.ppy.sh/users/7894340)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/arrogance.jpg)](https://osu.ppy.sh/beatmapsets/940377)
 
-soon:tm:
+Do you need to map literally everything when you want to follow a song in the best way? [Mirash](https://osu.ppy.sh/users/2841009) and [PandaHero](https://osu.ppy.sh/users/1233255) proved, in their new mapset onumi - ARROGANCE, that you don't need to at all. Pairing with their representative style which uses iconic slider shapes and various dope overlap patterns inserting strict geometrics, this mapset brings out onumi's experimental electronic song's hidden potential by largely and intentionally undermap at many spots, especially at the beginning, the transition parts in the middle and the end. 
+
+They follow the general vibe of the background instrumental ignoring the drums - sometimes even dropping the whole section - which can force players positively to notice every single layer's detail and thus represent the whole song in a clearer multilayer level, instead of blindly trying to follow everything in this complex song, which could possibly turn out to become a mess and failed to represent the song logically. Besides, carefully chosen hitsounds also largely help to improve the overall playing experience of this whole set. 
+
+If you are getting bored by maps that placing objects on every single sound, this mapset would bring you a huge surprise without doubt.
 
 _written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
 
@@ -93,9 +97,18 @@ _written by [/_Epreus](https://osu.ppy.sh/users/7342798)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/alde.jpg)](https://osu.ppy.sh/beatmapsets/607948)
 
-soon:tm:
+Have you ever wanted something special for your special day? you came here correctly! I proudly present to you : sakyzyo - Aldebaran mapped by [Ellyu](https://osu.ppy.sh/users/4438154).
 
-_written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
+The map mostly keeps visually polished and balanced structure. It features a lot of blanket and even using the sliders themselves which is really pleasing to look at. Keeping 1/4 sections spaced rather than stacking which is regular and trying to use the various spacing and sliders simultaneously the map went good and really fun to play at the same time. Also, besides these, the mapper spends effort on making sliders visual with gimmicks, mainly during the kiai when the rapid 1/8 roll sound appears they tried to emphasize them by curving and adding a lot of tumors or keeping the slider into a specific shape (for example hexagon or circle and etc.) than just adding another 1/8 roll. It made the map even better and make it more various by having different patterns rather than keeping the same pattern that was already featured previous time.  
+
+The map is great, but you know whats even better: hitsounding. on kiai section, mapper tries to express every "wub" sounds that are not monotonous yet various and complex by giving every of them proper hitsounding feedback which mainly reminds of skystar's previous dreamless wanderer map. And since it takes a lot of effort and time to find proper hitsound file and control them, it is enough for them to be a reason that make the mapper deserve the cake. And for no-kiai sections the map consists of keysounding which is much different than nowadays keysounding in that every of keysound files have longer echo than others, and to consider the song does it too it means the mapper tried to do something more than just doing keysound which already takes a lot of effort too but even tried to adjust or did more searching in order to find more proper key mp3 files to follow the song more effectively.
+
+I would like to mention about [/_MiaoFUuU/_](https://osu.ppy.sh/users/4299356)'s Insane difficulty too, since it's also really great. Despite of being low star difficulty the map became something special than other insane difficulties. First, the map tries to express every sounds and instrument feedbacks the song does provide and it breaks the prejudice that you cannot make low insane difficulties without ignoring some of sounds. 
+During the kiai the mapper tries to express every sounds by sometimes placing 1/4 roll sliders to express the 1/16 and keep playability at the same time, sometimes the map has kicksliders yet done with New Combos in order to emphasize the dominant and strong instrument sound. Various and frequent Slider Velocity controls (1.25x -> 1.5x -> 1.25x alternation or kiai section) that the map shows also indicates that the mapper also spent a lot of effort figuring out the proper and pleasing patterns. 
+
+Overall the map is great! amount of texts I wrote down proves it lol. Try this out! This will never disappoint you yet make you feel amazed.
+
+_written by [/_Epreus](https://osu.ppy.sh/users/7342798)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/cross.jpg)](https://osu.ppy.sh/beatmapsets/922249)
 
@@ -115,9 +128,13 @@ _written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/kokoro.jpg)](https://osu.ppy.sh/beatmapsets/1020878)
 
-soon:tm:
+[toybot](https://osu.ppy.sh/users/2848604) brings a very nice map with a nostalgic and god-tier song called Kokoro Odoru by nobodyknows+ on ranked section! 
 
-_written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
+Top-difficulty mostly keep very structured yet unusual and unknown patterning and mapping concept, mostly non-stacked yet spaced very closely which gives different and new gameplay experience. There are visually very similar patterns that share the same structure yet moved a bit with previous patterns dominantly which also gives a sort of consistency, and this shows its value when its mixed with the map's own strong characteristic and concepts. 
+
+[bbj0920](https://osu.ppy.sh/users/87546)'s Expert difficulty is also a map that definitely deserves a cake. Features very varied and diverse spacing controls that try to follow the song's overall mood in progress of time. It uses a lot of unusual rhythm on it, for example, there are some of blank rhythm or mixing the variety of rhythm by sometimes leaving white tick for sliderends which is really unusual and not frequently used yet they did great job. With all of these and some of other gimmicks that the map consists of, it perfectly succeed to follow the song properly and perfectly and catched almost every various sounds that the song provides. Try this mapset out! no difficulty on this will disappoint you and even will make you dance, likes the top difficulty's name do!
+
+_written by [/_Epreus](https://osu.ppy.sh/users/7342798)_
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
@@ -191,33 +208,59 @@ _written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/trappola.jpg)](https://osu.ppy.sh/beatmapsets/994994)
 
-soon:tm: I am lazy
+[Du5t](https://osu.ppy.sh/users/6053071) just snatched the second place in this season's osu!catch Spotlights with his take on gmnt's "trappola bewitching"!
+
+The top difficulty, named Necromancy, features intense jumps during the kiai sections, wild build-ups but calm intro and mid sections. Do not be fooled by the easy start, this map becomes challenging as soon as the melody picks up. The rhythm is easy to follow simply because Du5t decided to not vary the notes but instead do that with the patterns meanwhile trying to keep the distances as similar as possible, this was a very good decision. Due to this, it provides and easy ground to those who are skilled enough to earn an easy full combo by simply banging their head. This difficulty is a great example of how to make something good by holding back the Hyperdashes and just follow what is there.
+
+But do not forget the guest mappers either, [Daletto](https://osu.ppy.sh/users/7592136), [Greaper](https://osu.ppy.sh/users/2369776), [Nuvolina](https://osu.ppy.sh/users/10974170) and [Sanyi](https://osu.ppy.sh/users/7496029) also contributed into this set, Each of these guys approached the Gothic Hardtrapcore genre differently so be sure to take a look at their part too. Who knows, you might fall in love with this set just as much as I did!
 
 _written by [Kurokami](https://osu.ppy.sh/users/260933)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/hype.jpg)](https://osu.ppy.sh/beatmapsets/1009824)
 
-soon:tm:
+Team osu!catch is here to take a place in this season's Spotlights with not one, nor two, but thirteen mappers!
 
-_written by [Snowless](https://osu.ppy.sh/users/4316266)_
+Dreamland, which is the top difficulty, is mapped by [Ascendance](https://osu.ppy.sh/users/2931883) and [Spectator](https://osu.ppy.sh/users/702598) in collab. Everyone is surely already familiar with them and probably know that they are here for a rare treat. Without even looking at who mapped which part it is easy to recognize their style although they are blending into each other in a godly manner. From the calm mid-section through the build-ups and instense intro to the kiais, this map is perfectly orchestrated and delivers what you expect from both of the mappers.
+
+Next up we have [Minato Yukina](https://osu.ppy.sh/users/531253), [Rocma](https://osu.ppy.sh/users/566276) and a collab between [Ascendance](https://osu.ppy.sh/users/2931883) and [alienflybot](https://osu.ppy.sh/users/636114). They each offer different approach on the same difficulty level which are on par, if not better, with the top difficulty. Minato Yukina decided to follow the melody which resulted a streamy map with intense hyperjump sections, Rocma stands in the middle in terms of rhythm but he has wild patterns. Lastly, do not be fooled with the lower star rating for the collab, this is a real beast on its own, be prepared.
+
+Going further down the list comes [JBHyperion](https://osu.ppy.sh/users/4879508), [Benita](https://osu.ppy.sh/users/4023183) and yet another collab but now between [Sorcerer](https://osu.ppy.sh/users/1913190) and [Bunnrei](https://osu.ppy.sh/users/829284). These guys took on the challenge and tried to approach the Rain difficulty differently, from low circle size to mostly 1/4 patterns. Do not be afraid if you can't handle one of these, try the others as well!
+
+But lets not forget the rest of the team either. We still have a lot to speak of. The mapset features two Platter difficulty by [ZiRoX](https://osu.ppy.sh/users/200768) and a collab between [Ascendance](https://osu.ppy.sh/users/2931883) and [Mbomb](https://osu.ppy.sh/users/3071175) each with their own mapping style fitting this difficulty. Then we have [Jemzuu](https://osu.ppy.sh/users/7890134) and [Sanyi](https://osu.ppy.sh/users/7496029) with a Salad and Cup respectively. These guys really went out and made this mapset fitting for everyone.
+
+But we still have two more names to mention who took part in this, [/-Tochi](https://osu.ppy.sh/users/3664366) created a wonderful storyboard and that is accompanied by wonderful hitsounds by [/-Luminate](https://osu.ppy.sh/users/4778689). Together they created something really awesome. Congratulations guys!
+
+_written by [Kurokami](https://osu.ppy.sh/users/260933)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/kill.jpg)](https://osu.ppy.sh/beatmapsets/1005623)
 
-soon:tm:
+Kill the beat by [JBHyperion](https://osu.ppy.sh/users/4879508) is another exciting electric song that hit the ranked category. The map consistently requires quick movements. In addition, the long sliders during the kiai of each difficulty requires accurate rhythmic jumps, letting players truly catch (to) the beat. If you do like electronic music and are up for a challenge, do give this a try.
 
 _written by [Snowless](https://osu.ppy.sh/users/4316266)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/high.jpg)](https://osu.ppy.sh/beatmapsets/930513)
 
-soon:tm:
+It is quite refreshing to have a K-pop in the ranked category. [Jemzuu](https://osu.ppy.sh/users/7890134)’s ranked map features an upbeat Korean song. The map is filled with interesting patterns across multiple difficulties that feel rewarding to play because of appropriately distanced jumps and little bits of antiflow that spices the map up, setting it apart from many others that may feel too standardized. Do please try this mapset, you won’t regret it!
 
 _written by [Snowless](https://osu.ppy.sh/users/4316266)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/conflict.jpg)](https://osu.ppy.sh/beatmapsets/981762)
 
-soon:tm:
+[Bunnrei](https://osu.ppy.sh/users/829284) jumps into this season's Spotlights with his mapset on siromaru + cranky's "conflict". This set has no kiai but that doesn't make it easier does it? If anything, it makes more interesting!
+
+The Overdose features 1/4 jumps in quick succession as well as pattern repetition which does add to the difficulty. If you are looking for something which does not joke around the patterns and keeps them as consistent as possible, look no further, you just found it. Alongside this we have high slider velocity which makes some pattern very interesting and provides yet another nice challenge.
+
+To those who likes faster challenge there is yet another Overdose called "Conquest of the Damned". Do not be fooled with the lower star rating, this can provide the same, if not more, challenge then the other difficulty. Then lastly we have the lower difficulties to the player from every skill level. Rain with its much calmer approach of patterns even though it does feature the same 1/4 rhythm. Platter with its lowered rhythm and even easier patterns making it perfect to the player of this difficulty level. And then we have Salad and Cup for those who just want to enjoy some dope cranky in this game mode. 
+
+Be sure to tune in even if this is not your prefered game mode, this is a real treat!
 
 _written by [Snowless](https://osu.ppy.sh/users/4316266)_
+
+[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/calling.jpg)](https://osu.ppy.sh/beatmapsets/649285)
+
+Finally we have the calling map in the ranked section. Calling has been expected for ranked for 2 years and [alienflybot](https://osu.ppy.sh/users/636114) is always pushing it better and better. Despite the amazing aesthetic flows and streams, this map also has the epic hitsounds like other maps by the mapper himself. While enjoying the top difficulty, you may also try out other difficulties since the whole set is well done.
+
+_written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/getaway.jpg)](https://osu.ppy.sh/beatmapsets/1032859)
 
@@ -225,23 +268,23 @@ _written by [Snowless](https://osu.ppy.sh/users/4316266)_
 
 _written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)_
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/calling.jpg)](https://osu.ppy.sh/beatmapsets/649285)
-
-soon:tm:
-
-_written by [Snowless](https://osu.ppy.sh/users/4316266)_
-
 ## <a name="mania" id="mania"></a>osu!mania
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/xyz.jpg)](https://osu.ppy.sh/beatmapsets/682615)
 
-soon:tm:
+Though we haven't seen their face in the ranked section for quite some time now, [Parachor](https://osu.ppy.sh/users/5241655) makes a strong, welcoming return back with XYZ which is arguably his most eloquent set to date along with PotassiumF, featuring the track itself which alone is absolutely wonderful to listen and as well play to. As well as the map, executing concepts like pitch relevancy, LN orientated, and with SVs as well, which you'll find to all work excellently with the song as well. 
+
+If you've been in the mania community long enough, you might be aware of how Parachor loves to experiment with many of his maps with different uses of SVs, adding this incredible distinction from other mappers in the ranked section as he very well knows how to execute them astonishingly well to whatever song he finds to work well with them. This map isn't an exception to this as he perfectly knows the importance of timing and the beautiful things you can make with them and he makes it very clear to why they can be such an important structure in a map. Although it's on the low side in terms of star rating, don't let PotassiumF's normal difficulty deceive you as it's not your ordinary normal difficulty as it features tricky LN pattering and SVs as well, making his first introductory guest difficulty to the ranked section all in all a blast to play. 
+
+The set is gorgeous, well-thought out, and tricky to play as well, even for some of the top players of mania too. If you're looking for a challenge than your regular, average mania map, this map might just do it for you.
 
 _written by [Unpredictable](https://osu.ppy.sh/users/7560872)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/bug.jpg)](https://osu.ppy.sh/beatmapsets/887787)
 
-soon:tm:
+[BringoBrango](https://osu.ppy.sh/users/10274043) jumps straight into the ranked section with this fantastic set, Bug Thief, alongside a guest difficulty by [Toaph Daddy](https://osu.ppy.sh/users/7616811). Both of them showcase their individual, unique approaches in the top two difficulties, both praised for their articulate layering and patterning abilities demonstrated in this set. 
+
+This set leads us to anticipate what both of these mappers may bring to the table in the future, especially from BringoBrango, who had gone somewhat unnoticed in the unranked section before this set was ranked. This map for certain deserves its spot in the spotlights, and we hope to see more from BringoBrango and Toaph Daddy in the future!
 
 _written by [\-mint\-](https://osu.ppy.sh/users/8976576)_
 
@@ -263,7 +306,9 @@ _written by [AncuL](https://osu.ppy.sh/users/2449200)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/konran.jpg)](https://osu.ppy.sh/beatmapsets/867026)
 
-soon:tm:
+A metronome will not help you at all.
+
+After four years ([Jakads](https://osu.ppy.sh/users/259972)'s old mapset of the song was submitted in August 2015), Konran Shoujo Soflan-chan makes it into the ranked section. With frequent BPM changes, the map keeps the player on their toes at all times. Though denpa is not for everyone, the map's unique patterning and concepts, especially with its LN usage and polyrhythms, makes for a wild and fun ride. Enjoyable overall, whether it be because of or in spite of its chaotic nature, this map deserves its place in this season's Spotlights.
 
 _written by [\-mint\-](https://osu.ppy.sh/users/8976576)_
 
@@ -293,7 +338,7 @@ _written by [Toaph Daddy](https://osu.ppy.sh/users/7616811)_
 
 ---
 
-The map selection is available for everyone who is interested to take a look at how we selected these mapsets. Do not be afraid to take a look at it [here](https://spotlights.team/spotlights-results)!
+We started to migrate to our dedicated website due google, and various other, website were tedious and became unusable overtime. We are currently in the process of moving everything to here and make most of it viewable by public but at the moment, only the map selection is ready to be looked at. Do not be afraid to take a look at it [here](https://spotlights.team/spotlights-results)!
 
 We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 
