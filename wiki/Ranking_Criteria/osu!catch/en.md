@@ -89,7 +89,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 4-6
-- HP Drain Rate should be 4 or less
+- HP Drain Rate should be between 2-3
 - Circle Size should be between 2-3
 
 ### ![](/wiki/shared/diff/normal-c.png) Salad
@@ -113,7 +113,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 6-7
-- HP Drain Rate should be between 4-5
+- HP Drain Rate should be between 3-4
 - Circle Size should be between 2.5-3.5
 
 ### ![](/wiki/shared/diff/hard-c.png) Platter
@@ -142,7 +142,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 7-8.5
-- HP Drain Rate should be between 5-6
+- HP Drain Rate should be between 4-5
 - Circle Size should be between 3-4
 
 ### ![](/wiki/shared/diff/insane-c.png) Rain
@@ -164,7 +164,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 7-9
-- HP Drain Rate should be between 6-7
+- HP Drain Rate should be between 5-6
 - Circle Size should be between 3-5
 
 ### ![](/wiki/shared/diff/expert-c.png) Overdose
@@ -185,5 +185,5 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Difficulty setting guidelines
 
 - Approach Rate / Overall Difficulty should be between 8-10
-- HP Drain Rate should be between 6-8
+- HP Drain Rate should be between 6-7
 - Circle Size should be between 3-6
