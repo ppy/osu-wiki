@@ -35,7 +35,7 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
   - Stop (the difference between Play and Stop is that Stop will reset the song to the beginning, while Pause simply pauses it)
   - Next Track
   - View Song Info. This toggles the top bar showing the song info between being permanent and temporary. When permanent, the info bar will stay visible until it fades out with the rest of the UI. When temporary, it will disappear a little while after a song has been chosen. It will stay hidden until it is toggled again, or another song plays.
-- \[11\] The number of beatmaps you have available, how long your osu!client has been running for, and your system clock.
+- \[11\] The number of beatmaps you have available, how long your osu!client has been running, and your system clock.
 - \[12\] Your profile, click on it to display the User Options (see below).
 
 ## User Options
@@ -44,9 +44,9 @@ The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wi
 
 Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
-1. `View Profile`: Opens up your profile page in your preferred web browser
-2. `Sign Out`: Sign out your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in)
-3. `Change Avatar`: Open up the edit avatar page in your preferred web browser
+1. `View Profile`: Opens up your profile page in your default web browser.
+2. `Sign Out`: Sign out of your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in).
+3. `Change Avatar`: Open up the edit avatar page in your default web browser.
 4. `Close`: Close this dialog
 
 ## Play Menu
