@@ -23,7 +23,7 @@
 
 ## ビートマップセットを追加
 
-*関連情報: [ビートマップ](/wiki/Beatmaps) と [ビートマップセット](/wiki/Beatmapsets)*
+*関連情報: [ビートマップ](/wiki/Beatmaps)*
 
 ビートマップを追加するにはウェブサイト経由と、osu!direct経由（[osu!supporter](/wiki/osu!supporter)が必要）の２つの方法があります。
 
@@ -50,7 +50,7 @@
 
 ## スキンの追加
 
-*関連情報: [スキン](/wiki/Skins) と [スキニング](/wiki/Skinning)*
+*関連情報: [スキニング](/wiki/Skinning)*
 
 1. [スキニングフォーラム](https://osu.ppy.sh/community/forums/15)へアクセスし、好みのスキンを見つけます。
 2. スキンを見つけたら、ダウンロードします。
