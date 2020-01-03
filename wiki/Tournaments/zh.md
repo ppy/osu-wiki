@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # 锦标赛
 
 本页面展示锦标赛。 [论坛链接](https://osu.ppy.sh/community/forums/55)
