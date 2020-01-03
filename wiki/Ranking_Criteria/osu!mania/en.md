@@ -66,7 +66,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
-  - would be effectively represented with a consistent, predictable snap
+  - would be effectively represented with a consistent, predictable snap.
   - would cause an inappropriate difficulty spike.
 - **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
 - **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
