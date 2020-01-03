@@ -111,7 +111,7 @@ MBC points reward users at certain thresholds:
 - **Profile badge:** badges are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
 - **"Elite Mapper" forum title**: attainable at 10 points.
 - **osu!supporter:** each point earned provides a user with a month of supporter for themself or someone of their choosing.
-- **Mappers' Guild participation:** participants who are in the Mappers' Guild will receive small earnings within the guild for submitting a valid entry (5 points), screening (1 point), and voting (1 point).
+- **Mappers' Guild participation:** participants who are in the Mappers' Guild will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to the contest's points.
 
 ## Rules
 
