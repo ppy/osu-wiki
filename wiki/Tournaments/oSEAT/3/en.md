@@ -4,7 +4,6 @@ tags:
   - oSEAT3
 ---
 
-
 # osu! South East Asia Tournament 3
 
 ![oSEAT3 Logo](img/logo.jpg)
