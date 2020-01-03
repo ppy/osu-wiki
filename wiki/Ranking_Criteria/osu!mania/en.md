@@ -115,8 +115,8 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **HP and OD values should not be higher than 7.5.**
 - **Note snappings of consecutive 1/6 and above should not be used.** Slower rhythms are more appropriate for this difficulty level.
-- **Long note releases should be at least 1/2 of a beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Long notes should be held for at least 1/2 of a beat.** Faster release timing is too difficult for players of this level.
+- **Long note releases should be at least 1/2 of a beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Objects should not be placed during a 1/2 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
 - **Avoid rhythms faster than 1/2 during a 1/1 long note's hold duration.**
 - **Avoid using any form of 1/4 shield pattern.** The coordination required for this pattern is too difficult for players at this level.
