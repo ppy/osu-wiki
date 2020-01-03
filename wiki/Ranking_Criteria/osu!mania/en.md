@@ -89,13 +89,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalization must be done in beatmaps with variable BPM.**
-- **A long note cannot be released during another long note's body.** This requires a level of finger independence that players of this difficulty cannot handle.
 
 #### Guidelines
 
 - **HP and OD values should not be higher than 7.**
 - **Note snappings of consecutive 1/4 and higher should not be used.** Slower rhythms are more appropriate for this difficulty level.
 - **Long notes should be held for at least one beat.** Faster release timing is too difficult for players of this level.
+- **Long note releases should be at least one beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Objects should not be placed during a 1/1 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
 - **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 - **Avoid using more than 5 consecutive 1/2 notes.**
@@ -105,8 +105,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 ### ![](/wiki/shared/diff/normal-m.png) Normal
 
 #### Rules
-
-- **A long note cannot be released during another long note's body.** This requires a level of finger independence that players of this difficulty cannot handle.
 
 If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
 
@@ -118,6 +116,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **HP and OD values should not be higher than 7.5.**
 - **Note snappings of consecutive 1/6 and above should not be used.** Slower rhythms are more appropriate for this difficulty level.
 - **Long notes should be held for at least 1/2 of a beat.** Faster release timing is too difficult for players of this level.
+- **Long note releases should be at least 1/2 of a beat apart from each other.** Smaller gaps between releases require a level of finger independence that players of this difficulty cannot handle.
 - **Objects should not be placed during a 1/2 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
 - **Avoid rhythms faster than 1/2 during a 1/1 long note's hold duration.**
 - **Avoid using any form of 1/4 shield pattern.** The coordination required for this pattern is too difficult for players at this level.
