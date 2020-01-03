@@ -260,7 +260,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
-- **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!
+- **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!.
 
 ## Storyboarding
 

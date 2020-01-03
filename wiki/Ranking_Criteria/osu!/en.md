@@ -187,7 +187,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be between 7 and 9.3
+- Approach Rate should be between 7 and 9.3.
 - Overall Difficulty should be between 7 and 9.
 - HP Drain Rate should be between 5 and 8.
 
