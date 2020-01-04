@@ -36,7 +36,7 @@ needs_cleanup: true
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/686664/ "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
-[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Installer's osu!tutorial by peppy"
+[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings by nekodex"
 [osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Ranked osu!tutorial by Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
@@ -104,7 +104,7 @@ Different play styles can be found in the [play styles][Play_Styles wikilink] pa
 There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(Bundled with PC osu!) Original tutorial][new beginnings], [Ranked beatmap version][osu!tutorial rank]_
 
 The gameplay puts emphasis on:-
 

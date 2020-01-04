@@ -32,7 +32,7 @@
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium par deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Liste des beatmaps officielles"
-[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial par peppy"
+[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings par nekodex"
 [osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "osu!tutorial ranked par Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Liste des beatmaps triées par difficulté croissante"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Skin Taiko version 6.0 par LuigiHann"
@@ -100,7 +100,7 @@ Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu]
 Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
-_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
+_Tutoriel: [(Accompagne osu! PC) Tutoriel original][new beginnings], [version classée de la beatmaps][osu!tutorial rank]_
 
 Le gameplay met l'accent sur:
 
