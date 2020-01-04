@@ -941,7 +941,7 @@ Untuk memperbaikinya, pastikan Anda perangkat osu!go telah terpilih, dan klik ka
 
 **Anda perlu mempartisi perangkat dari awal.**
 
-Silakan ikuti ​[panduan ini](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) untuk rincian tentang cara melakukannya.
+Silakan ikuti ​[panduan ini](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) untuk rincian tentang cara melakukannya.
 
 #### Saya telah memformat ulang perangkat osu!go dan akhirnya sekarang muncul di Disk Management.
 
