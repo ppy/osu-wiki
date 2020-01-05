@@ -37,7 +37,6 @@ needs_cleanup: true
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/686664/ "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
 [new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings by pishifat & Noffy"
-[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Ranked osu!tutorial by Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
@@ -104,7 +103,7 @@ Different play styles can be found in the [play styles][Play_Styles wikilink] pa
 There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][new beginnings], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [(Bundled with PC osu!) Original tutorial][new beginnings]_
 
 The gameplay puts emphasis on:-
 
