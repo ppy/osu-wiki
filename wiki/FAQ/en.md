@@ -103,7 +103,7 @@ Different play styles can be found in the [play styles][Play_Styles wikilink] pa
 There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][new beginnings]_
+_Tutorial: [osu! tutorial (new beginnings)][new beginnings]_
 
 The gameplay puts emphasis on:-
 
