@@ -302,5 +302,12 @@ All users listed below were added on 2019-02-16.
 ## December
 
 - Added [clayton](https://osu.ppy.sh/users/3666350) to Project Loved Team (2019-12-03)
-
+- Removed [Halfslashed](https://osu.ppy.sh/users/4598899) from Beatmap Nominators - resignation (2019-12-08)
+- Removed [newton-](https://osu.ppy.sh/users/5875419) from Probationary Beatmap Nominators - insufficient proficiency (2019-12-08)
+- Removed [chickenbible](https://osu.ppy.sh/users/2306637) from Beatmap Nominators - resignation (2019-12-10)
+- Moved [AirinCat](https://osu.ppy.sh/users/11119539) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-11)
+- Added [Smokeman](https://osu.ppy.sh/users/2140676) to Probationary Beatmap Nominators (2019-12-13)
+- Moved [Mao](https://osu.ppy.sh/users/2204515) from Nomination Assessment Team to osu! Alumni (2019-12-15)
+- Moved [Stack](https://osu.ppy.sh/users/6122935) from Nomination Assessment Team to osu! Alumni (2019-12-15)
+- Moved [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) from Nomination Assessment Team to osu! Alumni (2019-12-16)
 <!-- last update: ^ -->
