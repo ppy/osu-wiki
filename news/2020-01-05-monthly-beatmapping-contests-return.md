@@ -47,7 +47,7 @@ This month's artist is **MYLK**, and the following songs are viable for contest 
 Beatmap template download: [Full version](https://assets.ppy.sh/artists/62/osz/MYLK%20-%20Waffle%20Wave.osz) (3:20) / [Short version](https://assets.ppy.sh/contests/84/files/MYLK_-_Waffle_Wave.osz) (1:53)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/61/previews/1738.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/61/previews/1759.mp3" type="audio/mpeg">
 </audio>
 
 #### Kiradoki Harmony (145 BPM)
@@ -55,7 +55,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/62/osz/M
 Beatmap template download: [Full version](https://assets.ppy.sh/artists/62/osz/MYLK%20-%20Kiradoki%20Harmony.osz) (4:06) / [Short version](https://assets.ppy.sh/contests/84/files/MYLK_-_Kiradoki_Harmony.osz) (2:30)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/62/previews/1759.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/62/previews/1750.mp3" type="audio/mpeg">
 </audio>
 
 #### Prism (100 BPM)
