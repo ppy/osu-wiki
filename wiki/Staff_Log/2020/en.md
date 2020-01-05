@@ -8,4 +8,4 @@
 
 ### Beatmap Nominator removals
 
-- [Daletto](https://osu.ppy.sh/users/7592136) (2020-01-02)
+- [Daletto](https://osu.ppy.sh/users/7592136)  - insufficient proficiency (2020-01-02)
