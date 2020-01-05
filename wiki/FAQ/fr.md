@@ -718,7 +718,6 @@ Veuillez suivre ces étapes:
 
 ## Crédits
 - FAQ web de peppy (`/p/faq/` sur laquelle cette page est basée; supprimée)
-- Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
 - OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
