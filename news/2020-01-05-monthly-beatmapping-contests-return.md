@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contests Return"
-date: 2020-01-05 10:00:00 +0000
+date: 2020-01-05 02:00:00 +0000
 ---
 
 It's time for a new way to flaunt your beatmapping capabilities. Find out what it takes to become osu!'s next Elite Mapper!
