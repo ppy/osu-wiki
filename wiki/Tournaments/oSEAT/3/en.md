@@ -195,6 +195,60 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Thursday, 2 January 2020:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A4 | **Deppyforce** ![][flag_TH] | **6** | 2 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/57437443) |
+
+Friday, 3 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ExLuck** ![][flag_SE] | **6** | 1 | ![][flag_MY] mickeyparm | [#1](https://osu.ppy.sh/community/matches/57457650) |
+| **Rtyzen** ![][flag_SG] | **6** | 1 | ![][flag_VN] Hoaq | [#1](https://osu.ppy.sh/community/matches/57458434) |
+| **Skydiver** ![][flag_ID] | **0** | -1 | ![][flag_TH] UltimaticCatz | *win by default* |
+| **Chorus** ![][flag_TH] | **6** | 1 | ![][flag_SG] Moltenfury | [#1](https://osu.ppy.sh/community/matches/57461539) |
+
+Saturday, 4 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **gunadharika** ![][flag_ID] | **6** | 0 | ![][flag_MY] KrispyKrep | [#1](https://osu.ppy.sh/community/matches/57479602) |
+| **k\_1tty** ![][flag_SG] | **0** | -1 | ![][flag_MY] Sano | *win by default* |
+| **MioMilo** ![][flag_PH] | **6** | 3 | ![][flag_SG] Rtzero | [#1](https://osu.ppy.sh/community/matches/57482427) |
+| **not\_aweeb** ![][flag_MY] | **6** | 0 | ![][flag_VN] - Sheep - | [#1](https://osu.ppy.sh/community/matches/57482428) |
+| **dika312** ![][flag_ID] | **6** | 3 | ![][flag_TH] \[AmPhyze\] | [#1](https://osu.ppy.sh/community/matches/57483073) |
+| **GSBlank** ![][flag_SG] | **6** | 0 | ![][flag_ID] Ascaveth | [#1](https://osu.ppy.sh/community/matches/57485825) |
+| **Chiyuu** ![][flag_MY] | **6** | 3 | ![][flag_MY] Tokama Club | [#1](https://osu.ppy.sh/community/matches/57485861) |
+| Auxuelus ![][flag_MY] | 1 | **6** | ![][flag_PH] **xidorn** | [#1](https://osu.ppy.sh/community/matches/57485879) |
+| **Fuma** ![][flag_ID] | **6** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/57487158) |
+| **Tzero** ![][flag_MY] | **6** | 0 | ![][flag_MY] \[Winter\] | [#1](https://osu.ppy.sh/community/matches/57488538) |
+| **Rexeez** ![][flag_ID] | **6** | 2 | ![][flag_VN] Tuon | [#1](https://osu.ppy.sh/community/matches/57488538) |
+| **Gatyaa420** ![][flag_ID] | **6** | 1 | ![][flag_ID] OTWGE | [#1](https://osu.ppy.sh/community/matches/57489908) |
+
+Sunday, 5 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| konawiki ![][flag_PH] | 1 | **6** | ![][flag_SG] **Demonical** | [#1](https://osu.ppy.sh/community/matches/57506707) |
+| LongExistence ![][flag_ID] | -1 | **0** | ![][flag_MY] **Agagak** | *win by default* |
+| **phizh** ![][flag_ID] | **6** | 0 | ![][flag_ID] Snowhaven | [#1](https://osu.ppy.sh/community/matches/57508691) |
+| Shironi ![][flag_VN] | -1 | **0** | ![][flag_SG] **OppaiSuki** | *win by default* |
+| Tazkiz ![][flag_ID] | -1 | **0** | ![][flag_VN] **sindes19** | *win by default* |
+| **Raindrop** ![][flag_SG] | **6** | 2 | ![][flag_ID] Fre | [#1](https://osu.ppy.sh/community/matches/57511424) |
+| F4UZ4N ![][flag_ID] | 5 | **6** | ![][flag_SG] **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/57511789) |
+| **LoidKun** ![][flag_ID] | **0** | -1 | ![][flag_ID] Kirinagi | *win by default* |
+| moosepi ![][flag_SG] | 2 | **6** | ![][flag_SG] **woahsia** | [#1](https://osu.ppy.sh/community/matches/57513801) |
+| **ShaneLiang** ![][flag_MY] | **0** | -1 | ![][flag_PH] xX\_MusicMan\_Xx | *win by default* |
+| **Computer Badger** ![][flag_MY] | **6** | 1 | ![][flag_MY] ImranNajmi | [#1](https://osu.ppy.sh/community/matches/57513725) |
+| **vernonlim** ![][flag_MY] | **6** | 4 | ![][flag_MY] wilson9909 | [#1](https://osu.ppy.sh/community/matches/57513842) |
+| **realshin** ![][flag_VN] | **6** | 3 | ![][flag_VN] kezo | [#1](https://osu.ppy.sh/community/matches/57513859) |
+| MilkyCoffee- ![][flag_MY] | -1 | **0** | ![][flag_PH] **fixedbyglue** | *win by default* |
+| **blufir\_** ![][flag_MY] | **6** | 1 | ![][flag_ID] thefarrel007 | [#1](https://osu.ppy.sh/community/matches/57516363) |
+
 ### Group Stage
 
 Tuesday, 17 December 2019:
