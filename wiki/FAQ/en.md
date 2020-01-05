@@ -36,7 +36,7 @@ needs_cleanup: true
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/686664/ "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
-[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings by nekodex"
+[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings by pishifat & Noffy"
 [osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Ranked osu!tutorial by Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
