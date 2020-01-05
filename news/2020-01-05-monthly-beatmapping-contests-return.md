@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contests Return"
-date: 2020-01-03 22:00:00 +0000
+date: 2020-01-05 10:00:00 +0000
 ---
 
 It's time for a new way to flaunt your beatmapping capabilities. Find out what it takes to become osu!'s next Elite Mapper!
@@ -18,7 +18,7 @@ The timeline for each month's contest is as follows:
 - [**Voting (2 weeks):**](#voting) Top 5 entries from screening are published for the osu! community to vote on
 - [**Rewards:**](#rewards) Winners are announced and prizes are redeemed
 
-"But that's more than one month!", you may be thinking. Each month's contest overlaps, so when a contest is announced at the start of a month, you'll receive access to the voting page for the previous month's contest. Halfway through the month you'll also find out the winner from the previous month's contest (and recieve a reminder of the ongoing contest's submission deadline!).
+"But that's more than one month!", you may be thinking. Each month's contest overlaps, so when a contest is announced at the start of a month, you'll receive access to the voting page for the previous month's contest. Halfway through the month you'll also find out the winner from the previous month's contest (and receive a reminder of the ongoing contest's submission deadline!).
 
 ## <a id="beatmapping"></a>Beatmapping
 
@@ -28,15 +28,19 @@ Creating a high quality beatmap is a great goal to strive for, but let's be hone
 
 The Monthly Beatmapping Contest requires beatmappers to adhere to a mapping limitation each month. This limitation can be anything from a specific circle size to a limit on star rating.
 
-This month's limitation: **all slider shapes must be straight lines.** No curved sliders or sliders using red anchors are allowed!
+This month's limitation: **all slider shapes must be straight lines.** No curved sliders or sliders using red anchors are allowed! 
 
- With less wiggle room in the editor, we hope to see engaging ways of expressing the music that ordinary maps don't show!
+For extra clarity, below are examples of allowed/disallowed slider shapes.
+
+![limitation example](/wiki/shared/news/2020-01-05-monthly-beatmapping-contest-returns/limitation.png)
+
+With less wiggle room in the editor, we hope to see engaging ways of expressing the music that ordinary maps don't show!
 
 ### <a id="songs"></a>Songs
 
 Each contest provides beatmappers a choice between 5 songs from one of osu!'s Featured Artists.
 
-This month's artist is **MYLK**, and the following songs are available for viable for contest submissions:
+This month's artist is **MYLK**, and the following songs are viable for contest submissions:
 
 #### Waffle Wave (170 BPM)
 
@@ -78,7 +82,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/62/osz/M
     <source src="https://assets.ppy.sh/artists/62/previews/1752.mp3" type="audio/mpeg">
 </audio>
 
-All beatmap templates above include shortened versions of songs for the sake of better beatmapping.
+All beatmap templates above include shortened versions of songs—mappers are free to map whichever one they prefer!
 
 ## <a id="screening"></a>Screening
 
@@ -88,7 +92,7 @@ We've selected **10** experienced beatmappers to provide their input and decide 
 
 The week-long process of narrowing down submissions involves each member of the screening crew providing their top 3 entries in order of preference. The highest quality entry receives a value of 3, the next highest a value 2, and the final entry a value of 1. The top 5 are determined by the cumulative value of each entry.
 
-For transparency's sake, the screening users this month are [ScubDomino](https://osu.ppy.sh/users/8972308), [Noffy](https://osu.ppy.sh/users/1541323), [Zelq](https://osu.ppy.sh/users/8953955), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), [Smokeman](https://osu.ppy.sh/users/2140676), [Sing](https://osu.ppy.sh/users/3795679), [Cris-](https://osu.ppy.sh/users/6175280), [Realazy](https://osu.ppy.sh/users/918297), and [Nuvolina](https://osu.ppy.sh/users/10974170). In case any of them drop out, back-up screening users are [Myxo](https://osu.ppy.sh/users/2202645), [Cheri](https://osu.ppy.sh/users/5226970), and [Sinnoh](https://osu.ppy.sh/users/4236057). All of these users will be reviewing the submissions without knowledge of who their creators are, and each of their preferred submissions will be viewable when the top 5 entries are announced.
+For transparency's sake, the screening users this month are  [Cris-](https://osu.ppy.sh/users/6175280), [Noffy](https://osu.ppy.sh/users/1541323),  [Nuvolina](https://osu.ppy.sh/users/10974170), [Realazy](https://osu.ppy.sh/users/918297), [ScubDomino](https://osu.ppy.sh/users/8972308), [Sing](https://osu.ppy.sh/users/3795679), [Smokeman](https://osu.ppy.sh/users/2140676), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Zelq](https://osu.ppy.sh/users/8953955). In case any of them drop out, back-up screening users are [Cheri](https://osu.ppy.sh/users/5226970), [Myxo](https://osu.ppy.sh/users/2202645), and [Sinnoh](https://osu.ppy.sh/users/4236057). All of these users will be reviewing the submissions without knowledge of who their creators are, and each of their preferred submissions will be viewable when the top 5 entries are announced.
 
 ## <a id="voting"></a>Voting
 
@@ -117,18 +121,18 @@ MBC points reward users at certain thresholds:
 
 So how do you participate? Submissions must...
 
-- **...follow the month's [beatmapping limitation](#limitation): _all slider shapes must be straight lines (2 anchors)_.**
-- **...be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
-- **...be a single difficulty for one of the month's [selected songs](#songs).**
-- **...be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **...not be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
-- **...abide by the Ranking Criteria.** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
+- **follow the month's [beatmapping limitation](#limitation): _all slider shapes must be straight lines_.**
+- **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
+- **be a single difficulty for one of the month's [selected songs](#songs).**
+- **be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
+- **not be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
+- **abide by the Ranking Criteria.** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
 
 Any entries breaking these rules will not be viable for the contest.
 
 ---
 
-Head over to the [contest listing](https://osu.ppy.sh/community/contests/84) when you're ready to publish your entry. There's **3 weeks** until the submission form closes (2020-01-26), so launch the editor and get started as soon as you're ready.
+Head over to the [contest listing](https://osu.ppy.sh/community/contests/84) when you're ready to submit your entry. There's **3 weeks** until the submission form closes (2020-01-26), so launch the editor and get started as soon as you're ready.
 
 Good luck and happy mapping!
 
