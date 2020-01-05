@@ -9,21 +9,21 @@ Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung j
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat adegan *modding* dan *mapping*|
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat moderasi dan komunitas |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, Penjangkau Artis Pilihan |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, Penjangkau Artis Unggulan |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin desain, pengamat Creative Cloud pengguna |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat adegan *modding* dan *mapping*|
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan administrator Piala Dunia osu! |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat adegan *modding* dan *mapping*|
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang osu!web |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | ART umum, Penasihat moderasi |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web, [*official* osu! Artis Pilihan](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web, [*official* osu! Artis Unggulan](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang osu!web |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat adegan *modding* dan *mapping*|
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat adegan *modding* dan *mapping*, Penyelenggara Serikat Pe-mapping (Mappers' Guild), Penjangkau Artis Pilihan |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat adegan *modding* dan *mapping*, Penyelenggara Serikat Pe-mapping (Mappers' Guild), Penjangkau Artis Unggulan |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | ART umum, Pemelihara wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | ART umum |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, Pecinta osu!mania, Penghilang kutu |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat komunitas, Penjangkau Artis Pilihan |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat komunitas, Penjangkau Artis Unggulan |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | ART umum, asisten turnamen |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
@@ -46,7 +46,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | Nama | Peran |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | ART umum dan penolong, artis chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Perancang audio, [*official* osu! Artis Pilihan](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Perancang audio, [*official* osu! Artis Unggulan](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Penyelenggara dan administrator Piala Dunia osu! |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | ART umum, Manajer komunitas |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, penyedia integrasi IRC untuk obrolan dalam permainan, pengelola situs. [Blog](http://blog.echo.sh/) |
