@@ -133,28 +133,53 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ---
 
-## Match schedule: Grand Finals
-
-### Saturday, 14 December 2019
-
-| Match ID | Player 1 | Player 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| NA-W1 | vladyushko ![][flag_CA] | ![][flag_CA] janitoreihil | **02:00** |
-| NA-BR¹ | janitoreihil ![][flag_CA] | ![][flag_CA] vladyushko |  |
-| SEA-W1 | Blerargh ![][flag_SG] | ![][flag_SG] Element118 | **06:00** |
-| SEA-BR¹ | Element118 ![][flag_SG] | ![][flag_SG] Blerargh |  |
-| ASIA-W1 | uone ![][flag_JP] | ![][flag_JP] iceOC | **10:00** |
-| ASIA-BR¹ | iceOC ![][flag_JP] | ![][flag_JP] uone |  |
-| EUROPE-W1 | goheegy ![][flag_GB] | ![][flag_ES] AlvaroYL | **14:00** |
-| EUROPE-BR¹ | AlvaroYL ![][flag_ES] | ![][flag_GB] goheegy |  |
-| SA-W1 | Ulqui ![][flag_CL] | ![][flag_BR] HiroK | **18:00** |
-| SA-BR¹ | HiroK ![][flag_BR] | ![][flag_CL] Ulqui |  |
-
-¹ The match will take place right after the previous one if Player 2 wins.
-
----
-
 ## Mappools
+
+### Global phase
+
+#### Semifinals
+
+**[Download the map pack here! (100 MB)](https://mega.nz/#!NxUgTCyB!dta67Igzg7Vo1zlrSzUzIHtjEx3rBt7symJwOLHv50E)**
+
+- NoMod
+  - [tobato - Digital(ooooooop) Tattoo (7\_7) \[Taiko(oooooooo)\]](https://osu.ppy.sh/beatmapsets/921770#taiko/1924891)
+  - [Dz'Xa - EXTRAHAPPY (uone) \[\>o\<\]](https://osu.ppy.sh/beatmapsets/924199#taiko/1930326)
+  - [kanone - Raikiri-RAIKIRI- (komasy) \[Muzukasy\]](https://osu.ppy.sh/beatmapsets/963301#taiko/2016861)
+  - [Virtual Self - Ghost Voices (Ulqui) \[Myruki's Whisper\]](https://osu.ppy.sh/beatmapsets/848100#taiko/1773553)
+  - [ALiCE's EMOTiON - Last Time (t+pazolite Remix) (-Kriston-) \[Taiko UltraPls\]](https://osu.ppy.sh/beatmapsets/303079#taiko/679232)
+  - [t+pazolite - Seedy Try (HiroK) \[Spooky Oni\]](https://osu.ppy.sh/beatmapsets/816696#taiko/1712661)
+- Hidden
+  - [Ozashin - Uzauza Wao-ssu! (DJ WAKARAN GIRL Hayasugiru FLEX) (7\_7) \[Uza\]](https://osu.ppy.sh/beatmapsets/925808#taiko/1933801)
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [Prospect & Pinnacle - Zombie Nightclub (\]\_p) \[Oni\]](https://osu.ppy.sh/beatmapsets/615245#taiko/1297763)
+- HardRock
+  - [Kaneko Chiharu - Yuki Onna (sing216) \[Frozen Oni\]](https://osu.ppy.sh/beatmapsets/650949#taiko/1379236)
+  - [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1755957)
+  - [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
+- DoubleTime
+  - [Halozy - Deconstruction Star (CLSW) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/319217#taiko/727859)
+  - [cillia - FIRST (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424506#taiko/917016)
+  - [K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) (J a c k y) \[Legends\]](https://osu.ppy.sh/beatmapsets/887760#taiko/1855737)
+- FreeMod
+  - [PerdoVanse - eu quero (HiroK) \[Sopa de Macaco\]](https://osu.ppy.sh/beatmapsets/801697#taiko/1682736)
+  - [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Black Another\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721331)
+  - [cosMo@BousouP - Oceanus (ZethZ161) \[Ocean Blue\]](https://osu.ppy.sh/beatmapsets/694741#taiko/1469704)
+- Tiebreaker
+  - **[Frums - ultra-blazures (Vulkin) \[meltdown\]](https://osu.ppy.sh/beatmapsets/906494#taiko/1891643)**
+
+#### Qualifiers
+
+**[Download the map pack here! (25 MB)](https://puu.sh/EWRv2/b01edb66ab.zip)**
+
+- NoMod
+  - [t+pazolite - Muzik Overload (incandescence) \[Overamplification\]](https://osu.ppy.sh/beatmapsets/752325#taiko/1583809)
+  - [Camellia - Bloody Kiss (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1015662#taiko/2125707)
+- Hidden
+  - [sky_delta - Midnight City Warfare (Taka030) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
+- HardRock
+  - [siqlo - pars/ey (HEKUSODASU) \[KTYN\]](https://osu.ppy.sh/beatmapsets/1063808#taiko/2227426)
+- DoubleTime
+  - [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Yia & D.N.Angel's Oni\]](https://osu.ppy.sh/beatmapsets/153776#taiko/435822)
 
 ### Regional phase
 
