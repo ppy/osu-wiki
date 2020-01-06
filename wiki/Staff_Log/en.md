@@ -14,3 +14,4 @@ Since 2014, promotions and retirements of public staff have been recorded to mak
 - [2017](2017)
 - [2018](2018)
 - [2019](2019)
+- [2020](2020)
