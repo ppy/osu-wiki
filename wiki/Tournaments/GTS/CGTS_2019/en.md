@@ -369,6 +369,23 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Regional phase
 
+#### Grand Finals
+
+Saturday, 14 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| vladyushko ![][flag_CA] | 3 | **7** | ![][flag_CA] **janitoreihil** | [#1](https://osu.ppy.sh/community/matches/56953118) |
+| **Blerargh** ![][flag_SG] | **7** | 2 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/56964072) |
+| **goheegy** ![][flag_GB] | **7** | 0 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/56970504) |
+
+Sunday, 15 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ulqui** ![][flag_CL] | **7** | 4 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/56985759) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56989593) |
+
 #### Finals
 
 Saturday, 7 December 2019:
