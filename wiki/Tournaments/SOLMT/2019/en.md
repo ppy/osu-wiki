@@ -1,7 +1,6 @@
 ---
 tags:
 - SOLMT
-- SOLMT
 ---
 
 # Speed of Light Mania Tournament
@@ -29,9 +28,9 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite (Red Switch), Tournament Badge, 3 Months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2 (MXCherry Speed Switch), 2 Months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition TKL (Red Switch), 1 Month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite, Tournament Badge, 3 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter tag |
 
  ![SOLMT Badge](img/badge.png "SoL Winner Badge")
 
@@ -44,7 +43,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099) |
 | Map Selector | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
-| Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_MX] [KanekiKen-kun](https://osu.ppy.sh/users/12157233), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560) |
+| Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
 | Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_PE] [Tunning23](https://osu.ppy.sh/users/9396363) |
 | Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
@@ -95,6 +94,28 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 ## Mappools
 
+### Quarterfinals
+
+- FreeMod
+  - [Sky_delta - Crystal Clear and Nothing (ft. Kanata.N) (Ruleblazing) \[Another Day(edit)\]](https://osu.ppy.sh/beatmapsets/1086842#mania/2273365)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/1397584)
+  - [a_hisa - Cheshire's dance (Elekton) \[mischievous\]](https://osu.ppy.sh/beatmapsets/703512#mania/1488388)
+  - [9mm Parabellum Bullet - Punishment (Shoegazer) \[Termination\]](https://osu.ppy.sh/beatmapsets/777334#mania/1633075)
+  - [Cattle Decapitation - An Exposicition of Insides (LZD) \[Insane\]](https://osu.ppy.sh/beatmapsets/1030891#mania/2221695)
+  - [Seeed - Ticket (-Lethal-) \[one hundred years x1.05\]](https://osu.ppy.sh/beatmapsets/1089252#mania/2277404)
+  - [Nekomata Master - Despair of ELFERIA (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/975960#mania/2063398)
+  - [U1 overground - Dopamine (juankristal) \[Anxiety\]](https://osu.ppy.sh/beatmapsets/695124#mania/2054230)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmapsets/872940#mania/1824765)
+  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Sleep\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
+  - [Halogen - U Got That (notapplicable) \[sv\]](https://osu.ppy.sh/beatmapsets/899542#mania/1878948)
+  - [Her Bright Skies - The Glorious (Final Sketch Remix) (Shoegazer) \[Coronation\]](https://osu.ppy.sh/beatmapsets/852660#mania/1782169)
+  - [Dev/Null - Zombie Sunset (Vortex-) \[Apocalypse\]](https://osu.ppy.sh/beatmapsets/905658#mania/1890197)
+  - [LisicA - Teumessa (Penguinosity) \[UWAI\]](https://osu.ppy.sh/beatmapsets/1061420#mania/2222657)
+  - [ZxNX & Hiryur - Encore (Ticle) \[:style:\]](https://osu.ppy.sh/beatmapsets/931629#mania/1945260)
+  - [Marmalade Butcher - Ushinaharerurunazuki (suu is my waifu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1023160#mania/2140289)
+- Tiebreaker
+  - **[Camellia - Luin of Celtchar (Penguinosity) \[Rupture\]](https://osu.ppy.sh/beatmapsets/1089193#mania/2277305)**
+
 ### Round of 16
 
 - FreeMod
@@ -112,7 +133,8 @@ The Speed of Light Mania Tournament is run by various community members by distr
   - [FELT - New World (Penguinosity) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/772658#mania/1624145)
   - [BilliumMoto - life flashes before weeb eyes (Unpreditable) \[-mystic's insane\]](https://osu.ppy.sh/beatmapsets/985172#mania/2165198)
   - [Stellabee ft. THINK-chan - Flower in the Dawn (-Lethal-) \[flourish\]](https://osu.ppy.sh/beatmapsets/1030431#mania/2154859)
-  - **[Camellia - FM Synthesis Experiment  (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
 
 ### Round of 32
 
@@ -160,15 +182,55 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
 
+### Quarterfinals
+
+Friday. 3 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **-\[DaNieL_TH\]-** ![][flag_TH] | **6** | 3 | ![][flag_RU] AngeloLagusa | [#1](https://osu.ppy.sh/community/matches/57460102) |
+
+Saturday, 4 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kyut** ![][flag_BR] | **6** | 1 | ![][flag_AU] \[Crz\]Lochie | [#1](https://osu.ppy.sh/community/matches/57475542) |
+| realqarp ![][flag_PH] | 0 | **6** | ![][flag_US] **Unholy** | *win by default* |
+| **AW ZERO** ![][flag_TW] | **6** | 3 | ![][flag_US] dhn | [#1](https://osu.ppy.sh/community/matches/57527180) |
+| FoxCHANNEL ![][flag_RU] | 2 | **6** | ![][flag_FI] **Camopoltergeist** | [#1](https://osu.ppy.sh/community/matches/57483829) |
+| **Cohue** ![][flag_PH] | **6** | 4 | ![][flag_RU] c1e4r | [#1](https://osu.ppy.sh/community/matches/57485274) |
+| **cheewee10** ![][flag_MY] | **6** | 4 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/57487190) |
+| **HeZeuS** ![][flag_US] | **6** | 0 | ![][flag_BR] Gabi Kamui | *win by default* |
+| **loafusofbread** ![][flag_CA] | **6** | 0 | ![][flag_US] Logan636 | *win by default* |
+| stupud man ![][flag_US] | 0 | **6** | ![][flag_BR] **Sillyfangirl** | [#1](https://osu.ppy.sh/community/matches/57500675) |
+
+Sunday, 5 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| swarmsii ![][flag_PH] | 3 | **6** | ![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/57436122) |
+| Lerck ![][flag_RU] | 0 | **6** | ![][flag_PE] **DaZero5** | [#1](https://osu.ppy.sh/community/matches/57513758) |
+| **DaZero5** ![][flag_PE] | **6** | 4 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/57517617) |
+| loafusofbread ![][flag_CA] | 0 | **6** | ![][flag_PH] **Cohue** | *win by default* |
+| Camopoltergeist ![][flag_FI] | 0 | **6** | ![][flag_BR] **Kyut** | [#1](https://osu.ppy.sh/community/matches/57521617) |
+
+Monday, 6 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AW ZERO ![][flag_TW] | 3 | **6** | ![][flag_US] **HeZeuS** | [#1](https://osu.ppy.sh/community/matches/57528585) |
+
 ### Round of 16
 
 Friday, 20 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-\[DaNieL_TH]\-** ![][flag_TH] | **6** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/57107480) |
 | Unholy ![][flag_US] | 4 | **6** | ![][flag_PH] **Swarmsii**  | [#1](https://osu.ppy.sh/community/matches/57119952) |
 
 Saturday, 21 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DaZeRo5 ![][flag_PE] | 0 | **6** | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/57125852) |
@@ -180,6 +242,7 @@ Saturday, 21 December 2019:
 | Camopoltergeist ![][flag_FI] | 0 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/57136777) |
 
 Sunday, 22 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SillyFangirl** ![][flag_BR] | **6** | 0 | ![][flag_US] Logan636 | [#1](https://osu.ppy.sh/community/matches/57152346) |
@@ -193,11 +256,13 @@ Sunday, 22 December 2019:
 ### Round of 32
 
 Friday, 13 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Swarmsii** ![][flag_PH] | **5** | 4 | ![][flag_US] dhn | [#1](https://osu.ppy.sh/community/matches/56956932) |
 
 Saturday, 14 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bojii** ![][flag_PH] | **5** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/56956932) |
@@ -208,6 +273,7 @@ Saturday, 14 December 2019:
 | **C1e4r** ![][flag_RU] | **5** | 3 | ![][flag_RU] FoXCHANNEL | [#1](https://osu.ppy.sh/community/matches/56976412) |
 
 Sunday, 15 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AW ZERO** ![][flag_TW] | **5** | 1 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/56986838) |
@@ -223,11 +289,13 @@ Sunday, 15 December 2019:
 ### Group stage
 
 Friday, 29 November 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-[DaNieL_TH]-** ![][flag_TH] | **4** | 0 | ![][flag_US] Playboi Carti | [#1](https://osu.ppy.sh/community/matches/56602623) |
 
 Saturday, 30 November 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **realqarp** ![][flag_PH] | **4** | 0 | ![][flag_TW] AW ZERO | [#1](https://osu.ppy.sh/community/matches/56625858) |
@@ -250,6 +318,7 @@ Saturday, 30 November 2019:
 | Gabi Kamui ![][flag_BR] | 0 | **4** | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/56643786) |
 
 Sunday, 01 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **HeZeuS** ![][flag_US] | **4** | 2 | ![][flag_ID] StyxFearNite | [#1](https://osu.ppy.sh/community/matches/56652124) |
@@ -277,6 +346,7 @@ Sunday, 01 December 2019:
 | **Logan636** ![][flag_US] | **4** | 0 | ![][flag_MX] -Hellscythe- | [#1](https://osu.ppy.sh/community/matches/56676235) |
 
 Friday, 06 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Lights ![][flag_US] | 0 | **4** | ![][flag_US] **dhn**  | [#1](https://osu.ppy.sh/community/matches/56773044) | 
@@ -284,6 +354,7 @@ Friday, 06 December 2019:
 | **dhn** ![][flag_US] | **4** | 1 | ![][flag_RU] N1ckn1ght | [#1](https://osu.ppy.sh/community/matches/56782818) |
 
 Saturday, 07 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Antalf ![][flag_DO] | 1 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/56785903) |
@@ -322,6 +393,7 @@ Saturday, 07 December 2019:
 | **N1ckn1ght** ![][flag_RU] | **4** | 0 | ![][flag_CO] Cansta | [#1](https://osu.ppy.sh/community/matches/56815541) |
 
 Sunday, 08 December 2019:
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **4** | 0 | ![][flag_US] Trainer-  | [#1](https://osu.ppy.sh/community/matches/56820814) |
