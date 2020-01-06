@@ -1,6 +1,6 @@
 # Centre d'Aide
 
-Vous avez un problème avec quelque chose ? Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
+Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
 
 ## Compte
 
@@ -32,7 +32,7 @@ Reférez-vous à la section *[Restrictions de compte](/wiki/Help_Centre/Account_
 
 #### J'ai oublié mon nom d'utilisateur et mon mot de passe !
 
-**Veuillez utiliser [la page de récupération de mot de passe](https://osu.ppy.sh/home/password-reset) pour réclamer votre compte automatiquement, partant du principe que vous avez toujours accès à l'adresse e-mail avec laquelle vous vous êtes enregistré.**
+**Veuillez utiliser [la page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour réclamer votre compte automatiquement, partant du principe que vous avez toujours accès à l'adresse e-mail avec laquelle vous vous êtes enregistré.**
 
 Si cela ne fonctionne pas pour vous (ou que vous n'avez pas accès à l'adresse e-mail de votre compte), veuillez contacter l'[équipe du support](mailto:accounts@ppy.sh) avec autant d'informations que vous pensez utile et qui nous aideraient à déterminer que vous êtes le propriétaire légitime du compte.
 
@@ -45,7 +45,7 @@ Les informations importantes à inclure dans votre e-mail seraient:
 
 #### On m'a volé mon compte !
 
-**Essayez d'utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/home/password-reset) pour voir si votre e-mail est toujours valide.**
+**Essayez d'utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour voir si votre e-mail est toujours valide.**
 
 Si c'est le cas, vous pourrez réinitialiser votre mot de passe sans l'aide de l'équipe du support.
 
@@ -170,11 +170,13 @@ Si vous jouez depuis une place publique, gardez un œil sur la sécurité de vot
 
 **Vous pouvez voir toutes les maps que vous avez jouées sur le site.**
 
-Si vous avez un supporter tag actif, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
+**Si vous avez un supporter tag actif**, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
+
+Sur le nouveau site web, un filtre est disponible en cliquant sur "plus de critères de recherche" sur la [page de la liste des beatmap](https://osu.ppy.sh/beatmapsets) puis "Jouées" dans la section "JOUÉE". Alternativement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/beatmapsets?played=played) pour accéder à la page filtrée directement.
 
 Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
----
+----------------------------------------------------------------------------
 
 ## Client
 
@@ -216,7 +218,7 @@ osu! se met généralement à jour tout seul mais, de temps en temps, la mise à
 
 Nous vous recommandons tout d'abord de redémarrer votre PC. Cela va corriger la plus grande partie des problèmes que vous êtes susceptibles de rencontrer.
 
-Assurez-vous que votre canal de mise à jour est réglé sur `Stable` dans les options du jeu.
+Assurez-vous que votre canal de mise à jour est réglé sur `Stable (Latest)` dans les options du jeu.
 
 Vous pouvez également forcer le jeu à se mettre à jour.
 
@@ -350,7 +352,7 @@ Essayez de fermer les autres programmes avant de jouer à osu! si vous voyez que
 
 ##### Est-ce que les serveurs de scores sont disponibles ?
 
-**La réponse est très souvent oui, mais vérifiez the [status du serveur osu!](https://status.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
+**La réponse est très souvent oui, mais vérifiez [stat.ppy.sh](https://stat.ppy.sh) ou le [twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout tourne parfaitement de notre côté.**
 
 Si les serveurs sont hors-ligne, ne fermez pas osu! jusqu'à ce que nous corrigions les problèmes et que les serveurs ne reviennent. Le jeu tentera de soumettre les score jusqu'à une heure après avoir été faits avant d'abandonner.
 
@@ -433,7 +435,7 @@ Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de tr
 Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça arrive quand le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur.
 
 Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
-
+ 
 Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
 Les cartes graphiques Nvidia récentes ont une option globale dans le Panneau de Contrôle Nvidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
@@ -594,9 +596,7 @@ Pour l'activer, essayez les étapes suivantes:
 
 **Vous pouvez régler ce problème en définissant une plus petite zone sur votre appareil.**
 
-Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. 
-
-![Ecran des options d'une tabelle Wacom montrant l'option Mapping](Tabarea.png "Interface pour changer l'area de la tablette sur un équipement Wacom")
+Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. Un exemple peut être vu [ici](https://w.ppy.sh/d/dc/Tabarea.png).
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 
@@ -620,15 +620,15 @@ La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive comp
 
 Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
----
+----------------------------------------------------------------------------
 
 ## Site Web
 
 #### Je n'ai pas reçu de réponse à mon ticket au support depuis 2 semaines !
 
-**La plupart du temps, c'est dû à un grand nombre de tickets arrivants dans notre système à la fois.**
+**Pour la plupart du temps, c'est dû à un grand nombre de tickets arrivants dans notre système à la fois.**
 
-Vous pouvez toujours répondre à votre ticket ouvert pour demander l'état de votre cas, mais ne le faites pas plus d'une ou deux fois par semaines. Vous pouvez aussi nous contacter sur Twitter à [@osusupport](https://twitter.com/osusupport) pour poser des questions concernant votre ticket.
+Vous pouvez toujours répondre à votre ticket ouvert pour demander l'état de votre cas, mais ne le faites pas plus d'une ou deux fois par semaines.
 
 Dans de rares circonstances, les tickets envoyés par des joueurs incriminés peuvent être volontairement ignorés, cependant l'équipe vous dira **toujours** quand elle ne répondra plus à vos tickets. Si vous n'avez pas été notifié de cela, vous ne devrez pas vous en faire !
 
@@ -658,7 +658,9 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par exemple).
 4. C'est bon !
 
-Vous ne recevrez ni messages publiques, ni messages privés venant des utilisateurs de cette liste.
+Vous ne recevrez ni messages publics, ni messages privés venant des utilisateurs de cette liste.
+
+Si vous voulez ignorer les pings, les messages privés, ou les messages publics, vous devez simplement ajouter après le pseudo de l'utilisateur `@h`, `@p`, `@c`. `The_Gatekeeper@c` va ignorer les messages de l'utilisateur dans les canaux publics. Il est possible d'en combiner plusieurs : `The_Gatekeeper@ph` va ignorer les pings et les messages privés, mais laissera les messages publics visibles.
 
 #### Bloquer tous les utilisateurs qui ne sont pas en amis
 
@@ -669,7 +671,6 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 3. Activez l'option en cliquant dessus.
 4. C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
 
-<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
 ##### Bloquer les posts de forum d'un utilisateur
 
 **Pour cacher la plupart des posts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
@@ -681,10 +682,14 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 ##### Empêcher les messages privés du forum de vous atteindre
 
 **Pour supprimer tous les messages privés du forum avant qu'ils n'arrivent, faites une [règle de filtrage automatique dans les paramètres d'UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
--->
-##### Empêcher les messages privés du forum de vous atteindre
 
-Allez dans les [options de votre compte](https://osu.ppy.sh/home/account/edit) et cliquez sur `lock private messages from people not on your friends list` dans la section Privacy. Les messages privés des utilisateurs dans votre liste d'ami continueront à vous parvenir.
+1. Dirigez-vous vers la section de filtrage des PM dans l'[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
+2. Au tout début de la page, cherchez la colonne intitulée `Add new Rule`.
+3. Cliquez sur la première boîte déroulante (la valeur par défaut est Subject) et changez-la en `Sender`, puis cliquez sur Next.
+4. Cliquez sur la première boîte déroulante et changez la valeur de "is like" à "is" (troisième option dans la liste), puis cliquez sur Next.
+5. Entrez le nom de l'utilisateur que vous souhaitez bloquer dans la boîte de texte qui est apparue, puis cliquez sur Next.
+6. Cliquez sur la première boîte déroulante et changez sa valeur sur "Delete message", puis cliquez sur "Add Rule".
+7. C'est bon ! Toutes tentatives de l'utilsateur de vous contacter via les messages privés du forum seront automatiquement supprimés sans vous avertir.
 
 ##### Que faire si j'ai toujours des problèmes avec un utilisateur que j'ai bloqué ?
 
@@ -722,7 +727,7 @@ Entrez simplement le nom de l'artiste que vous souhaitez et Google fera le reste
 
 Si vous avez été inactif pour une longue période de temps et que vos statistiques sont mauvaises, jouez quelques maps pour les actualiser. Les utilisateurs inactifs peuvent voir leur scores cachés pour garder les classements propres.
 
----
+----------------------------------------------------------------------------
 
 ## Installation et Enregistrement
 
@@ -769,7 +774,7 @@ Si vous n'en utilisez pas, vous devriez alors envoyer un ticket au support, car 
 
 Tor ou des réseaux associés à Tor ne se connecteront pas au jeu la plupart du temps. Cela est pour éviter des usages mal intentionnés.
 
----
+----------------------------------------------------------------------------
 
 ## Beatmapping et Éditeur
 
@@ -805,7 +810,7 @@ Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dans le Cim
 
 Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
----
+----------------------------------------------------------------------------
 
 ## osu!store et marchandises
 
@@ -925,7 +930,7 @@ Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cl
 
 **Vous devrez partitionner de zéro.**
 
-Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) pour savoir comment faire.
+Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.fr.html) pour savoir comment faire.
 
 
 #### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.
@@ -939,7 +944,7 @@ Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu
 Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
 
----
+----------------------------------------------------------------------------
 
 ## Diagnostic
 
@@ -970,7 +975,7 @@ Il y a quelques choses que vous pouvez tenter de faire pour corriger ce problèm
 
 **C'est le plus évident.**
 
-Si vous avez oublié votre mot de passe, vous pouvez utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/home/password-reset) pour retrouver l'accès à votre compte.
+Si vous avez oublié votre mot de passe, vous pouvez utiliser la [page de récupération de mot de passe](https://osu.ppy.sh/p/forgot) pour retrouver l'accès à votre compte.
 
 ##### Utilisez-vous un proxy ou des VPNs?
 
