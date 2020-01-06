@@ -578,9 +578,6 @@ It can be found here: <https://osu.ppy.sh/community/forums/topics/131067>
 For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania.
 Both of it can be found here: <https://osu.ppy.sh/community/forums/topics/147552> (**Entozer**'s beatmap guide), and <https://osu.ppy.sh/community/forums/topics/146615> (**Drace**'s improvement guide)
 
-Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design.
-It is an excellent training map for newbies and experienced players.
-
 Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty].
 The easiest maps are at the top of the list.
 
