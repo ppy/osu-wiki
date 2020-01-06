@@ -574,9 +574,6 @@ Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/131067>
 Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque map, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania.
 Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/community/forums/topics/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/community/forums/topics/146615> (guide de perfectionnement de **Drace**)
 
-Aussi, [la version classée du osu! tutorial][osu!tutorial rank] est un bon excercice pour certains design de mapping.
-C'est une excellent map à la fois pour les débutants ainsi que pour les joueurs avancés.
-
 Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté][sort beatmaplist difficulty].
 Les maps les plus faciles seront tout en haut de la liste.
 
