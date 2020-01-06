@@ -228,6 +228,7 @@ tags:
     -   [2017](/wiki/Staff_Log/2017)
     -   [2018](/wiki/Staff_Log/2018)
     -   [2019](/wiki/Staff_Log/2019)
+    -   [2020](/wiki/Staff_Log/2020)
 -   [Storyboard Scripting](/wiki/Storyboard_Scripting)
     -   [Audio](/wiki/Storyboard_Scripting/Audio)
     -   [Cheat Sheet](/wiki/Storyboard_Scripting/Cheat_Sheet)
