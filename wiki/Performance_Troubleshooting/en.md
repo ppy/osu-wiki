@@ -19,7 +19,7 @@ During gameplay, everything on the screen stops for long enough to be detrimenta
 - Check whether it always happens.
 - Check how often it happens, and whether it's at a consistent interval.
 - Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, etc.)
+- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
 
 ### Input latency
 There is a noticeable delay between tapping on the keyboard or moving your mouse or tablet pen, and seeing a resulting action on the screen. When diagnosing or reporting, it may help to:
@@ -40,6 +40,7 @@ During gameplay, the frame rate is unable to keep up, resulting in jittery and a
 - Make sure you're not forcing vsync on at your display drivers (it should be set to "off" or "application preference").
 - Try changing frame limiter and see if it improves the situation.
 - Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
+- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
 
 ## Frame Limiters
 osu! offers multiple choices of frame limiters. Each of these have pros and cons. Note that regardless of setting, osu! will limit frame rate at menus to conserve on CPU usage.
