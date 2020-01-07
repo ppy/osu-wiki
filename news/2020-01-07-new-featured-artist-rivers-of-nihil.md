@@ -8,7 +8,7 @@ Left alone on a dying planet, **Rivers of Nihil** crash into the Featured Artist
 
 ![](https://assets.ppy.sh/artists/63/header.jpg)
 
-For those of you craving fresh, new heavy-hitting aural content, what better way to polarize our last release of the 2010s than with the diverse, rich sound of progressive death metal behemoth, **Rivers of Nihil**?
+For those of you craving fresh, new heavy-hitting aural content, what better way to kick off our first release of the 2020's than with the diverse, rich sound of progressive death metal behemoth, **Rivers of Nihil**?
 
 A trailblazer in the evolution of modern death metal, we've snagged **8** select tracks off of their most recent, widely-praised venture into new territory: *Where Owls Know My Name*.
 
