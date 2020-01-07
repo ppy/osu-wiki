@@ -31,10 +31,9 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | Event | Timestamp |
 | --: | :-- |
 | Qualifiers | 2020-01-04/2020-01-05 |
-| Quarterfinals | 2020-01-11/2020-01-12 |
-| Semifinals | 2020-01-18/2020-01-19 |
-| Finals | 2020-01-25/2020-01-26 |
-| Grand Finals | 2020-02-01/2020-02-02 |
+| Semifinals | 2020-01-11/2020-01-12 |
+| Finals | 2020-01-18/2020-01-19 |
+| Grand Finals | 2020-01-25/2020-01-26 |
 
 ## Prizes
 
@@ -85,6 +84,16 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1TI489-a5T_H8gpOjoryV4jYFa4awsKFAreUav3vYXKE/edit)**
 
 ## Participants
+
+### Global
+
+| Continent | Members |
+| :-- | :-- |
+| Asia | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) |
+| Europe | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_IT] [coed](https://osu.ppy.sh/users/3716665), ![][flag_FR] [BananaW](https://osu.ppy.sh/users/9298106), ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) |
+| North America | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [R J](https://osu.ppy.sh/users/6490509), ![][flag_US] [3san](https://osu.ppy.sh/users/8050850) |
+| Oceania/South East Asia | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_MY] [growATMfarmz](https://osu.ppy.sh/users/12273160), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| South America | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_CL] [Alepat](https://osu.ppy.sh/users/1164931), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
 
 ### Asia
 
