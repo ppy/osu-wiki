@@ -24,8 +24,8 @@ During gameplay, everything on the screen stops for long enough to be detrimenta
 - Check how often it happens, and whether it's at a consistent interval.
 - Check whether it still happens straight after a PC restart.
 - Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occurs, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing / running a beatmap in autoplay.
+- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows Windows to provide dedicated cores and resources to osu!.
+- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occur, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ### Input latency
 
@@ -46,32 +46,32 @@ During gameplay, one or more input devices stop responding. Everything on screen
 During gameplay, the frame rate is unable to keep up, resulting in jittery and awkward movement of objects on the screen. This can also result in higher perceived input latency. When diagnosing or reporting, it may help to:
 
 - Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, etc.).
+- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
 - Make sure you're not forcing vsync on at your display drivers (it should be set to "off" or "application preference").
 - Try changing frame limiter and see if it improves the situation.
 - Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
 - Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing / running a beatmap in autoplay.
+- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ## Frame Limiters
 
-osu! offers multiple choices of frame limiters. Each of these have pros and cons. Note that regardless of setting, osu! will limit frame rate at menus to conserve on CPU usage.
+osu! offers multiple choices of frame limiters. Each of these have pros and cons. Note that regardless of setting, osu! will limit frame rate at menus to conserve CPU usage.
 
 ### VSync
 
 This frame limiter relies on a driver provided vertical synchronising mechanism. It guarantees no screen tearing, but adds 1-2 frames worth of latency due to the requirement of buffering frames before display.
 
-Generally not recommended for 60hz displays. It can become more useful on 120hz+, but with GSync and FreeSync monitors, the requirement to use VSync to avoid tearing is lifted.
+Generally not recommended for 60Hz displays. It can become more useful at refresh rates above 120Hz, but with GSync and FreeSync monitors, the requirement to use VSync to avoid tearing is lifted.
 
 ### Power Saving
 
-This frame limiter aims to save on power usage while providing a consistent game experience. Will run at 2x monitor refresh rate and attempt to keep a consistent frame pacing.
+This frame limiter aims to save on power usage while providing a consistent game experience. It will run at 2x monitor refresh rate and attempt to keep a consistent frame pacing.
 
 Recommended for older PCs or for conserving battery on a laptop.
 
 ### Optimal
 
-This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960hz. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
+This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960Hz. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
 
 Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for garbage collection overhead (which can result in spike frames).
 
@@ -81,7 +81,7 @@ This is a frame limiter which does nothing to limit the frame rate. osu! will re
 
 While this may seem like the best option (and indeed can be, if your hardware can support it), there are a few things you should consider:
 
-- By rendering more frames, there’s a higher potential of overhead from garbage collection
+- By rendering more frames, there’s a higher potential of overhead from garbage collection.
 - By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
 - GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 
