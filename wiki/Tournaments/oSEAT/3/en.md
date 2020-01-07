@@ -100,6 +100,33 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing)**
+
+- NoMod
+  - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
+  - [Suda Keina - veil (Kaitjuh) \[yudragen's extra\]](https://osu.ppy.sh/beatmapsets/1023081#osu/2220743)
+  - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) \[oko's Extra\]](https://osu.ppy.sh/beatmapsets/236396#osu/717133)
+  - [Expander - subtractive (type 1 if cute) \[12345\]](https://osu.ppy.sh/beatmapsets/889514#osu/1859132)
+  - [Eagle - D (P o M u T a) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/403667#osu/877728)
+- Hidden
+  - [Dark PHOENiX - Locked Girl ~ The Girl's Secret Room (sjoy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/310687#osu/694305)
+  - [Roselia - Charles (Deca) \[discord light mode\]](https://osu.ppy.sh/beatmapsets/1050700#osu/2195984)
+  - [Pizuya's Cell - Inchlings of the Shining Needle \~ Little Princess (Shurelia) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/1001641#osu/2096780)
+- HardRock
+  - [REOL - Kamisama ni Natta Hi (Mentai) \[A Broken and Distant Tomorrow\]](https://osu.ppy.sh/beatmapsets/623748#osu/1319869)
+  - [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop (moonlightleaf) \[Happy!!\]](https://osu.ppy.sh/beatmapsets/658934#osu/1395603)
+  - [Feryquitous - Lividi (Ryuusei Aika) \[Rein's EXPERT\]](https://osu.ppy.sh/beatmapsets/599735#osu/1678113)
+- DoubleTime
+  - [Rhythmics & Cat Like Thief - Summer Wars (XinCrin) \[Insane\]](https://osu.ppy.sh/beatmapsets/104621#osu/276915)
+  - [Shinra-Bansho - Aqua Terrarium (CoLouRed GlaZeE) \[DelizeE's Terrarium\]](https://osu.ppy.sh/beatmapsets/922144#osu/1925706)
+  - [Aimer - L-O-V-E (Yuuya\_ke) \[sunset serenade\]](https://osu.ppy.sh/beatmapsets/974709#osu/2040225)
+- FreeMod
+  - [S3RL - Catchit (Radio Edit) (Rolniczy) \[Ex\]](https://osu.ppy.sh/beatmapsets/839864#osu/1848985)
+  - [Aitsuki Nakuru - Presenter\* (Hanazawa Kana) \[Nokris' Extra\]](https://osu.ppy.sh/beatmapsets/760473#osu/1717796)
+  - [Maisaki Nami - Rokka no Uta English ver (lit120) \[ktgster's Insane\]](https://osu.ppy.sh/beatmapsets/902723#osu/1884616)
+
 ### Round of 32
 
 **[Download the mappack here! (120 MB)](https://drive.google.com/file/d/16T_rAwgd8WlBd87Nt_q-dDtHRC0uweWx/view)**
