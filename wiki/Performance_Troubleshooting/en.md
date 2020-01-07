@@ -19,6 +19,7 @@ During gameplay, everything on the screen stops for long enough to be detrimenta
 - Check whether it always happens.
 - Check how often it happens, and whether it's at a consistent interval.
 - Check whether it still happens straight after a PC restart.
+- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
 - Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
 
 ### Input latency
