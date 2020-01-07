@@ -27,6 +27,7 @@ There is a noticeable delay between tapping on the keyboard or moving your mouse
 
 - Check whether it happens on all input devices, or one specifically.
 - If you are using non-official drivers, try switching to official ones instead.
+- Make sure you are running osu! in exclusive fullscreen mode. Running windowed or borderless adds up to one frame of latency.
 
 ### Loss of control
 During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. When diagnosing or reporting, it may help to:
