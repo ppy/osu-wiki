@@ -85,4 +85,4 @@ While this may seem like the best option (and indeed can be, if your hardware ca
 - By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
 - GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 
-Even so, if heat generation and working your hardware is not considered an issue, this may be the recommended option over optimal for users which get more stable frame times by using it.
+Even so, if heat generation and potentially overworking your hardware is not considered an issue, unlimited may be the option that provides you the most stable frame times.
