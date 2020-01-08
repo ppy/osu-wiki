@@ -86,7 +86,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Uta](https://osu.ppy.sh/users/9439796) | Indonesian |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polish |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
 
@@ -108,7 +107,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
-| ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | German |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
@@ -142,6 +140,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_NL] [Kaitjuh](https://osu.ppy.sh/users/2225327) | Dutch |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | <!-- TODO --> |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
@@ -151,16 +150,19 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK_](https://osu.ppy.sh/users/6092181) | <!-- TODO --> |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | <!-- TODO --> |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
-| ![][flag_TR] [frukoyurdakui](https://osu.ppy.sh/users/7612550) | <!-- TODO --> |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | <!-- TODO --> |
+| ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | <!-- TODO --> |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | <!-- TODO --> |
+| ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | <!-- TODO --> |
 
 #### osu!catch
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | <!-- TODO --> |
 
 #### osu!mania
 
