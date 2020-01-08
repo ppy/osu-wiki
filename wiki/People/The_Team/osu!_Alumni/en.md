@@ -96,7 +96,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | QAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, osu!media creation |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
