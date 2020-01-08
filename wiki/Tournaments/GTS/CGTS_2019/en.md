@@ -8,7 +8,7 @@ tags:
 
 ![CGTS 2019 Logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament has region phase and global phase, the region phase is a 1v1 scene to seek the best player in each continent and the global phase is a 4v4 scene where we see the top players from each continent battling with other continent. This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -76,6 +76,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - [CGTS Discord server](https://discord.gg/C2b4xrH)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - Challonge brackets
+  - [Global phase](https://challonge.com/CGTS4v4)
   - [Asia](https://challonge.com/CGTSAsia)
   - [Europe](https://challonge.com/CGTSEurope)
   - [North America](https://challonge.com/CGTSNA)
