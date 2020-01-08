@@ -129,6 +129,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
 [flag_HM]: /wiki/shared/flag/HM.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
