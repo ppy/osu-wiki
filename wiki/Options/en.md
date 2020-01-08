@@ -236,7 +236,7 @@ This section is about audio related things.
 | --- | --- | --- | --- |
 | `Master` | Controls all aspects. | Slider | `100%` |
 | `Music` | Affects only the music. | Slider | `80%` |
-| `Effect` | Affects things such as hit sounds and in-game sounds. | Slider | `80%` |
+| `Effect` | Affects things such as hitsounds and in-game sounds. | Slider | `80%` |
 | `Ignore beatmap hitsounds` | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Button | `Disabled` |
 
 The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.

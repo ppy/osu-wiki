@@ -71,7 +71,7 @@ Editing videos with [avidemux](http://fixounet.free.fr/avidemux/download.html)
 
 ![Tutorial Image 7](CV_07.png "Tutorial Image 7")
 
-10) The correct way is to use a constant rate factor (usually between 30-36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
+10) The correct way is to use a constant rate factor (usually between 30 and 36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
 
 ![Tutorial Image 8](CV_08.png "Tutorial Image 8")
 

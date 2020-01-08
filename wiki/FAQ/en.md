@@ -36,8 +36,7 @@ needs_cleanup: true
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/686664/ "Completed Skins Compendium by RockRoller"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
-[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "Installer's osu!tutorial by peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "Ranked osu!tutorial by Sushi"
+[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings by pishifat & Noffy"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Sorted beatmaplist with easiest at top"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
@@ -104,7 +103,7 @@ Different play styles can be found in the [play styles][Play_Styles wikilink] pa
 There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
-_Tutorial: [(Bundled with PC osu!) Original tutorial][osu!tutorial basic], [Ranked beatmap version][osu!tutorial rank]_
+_Tutorial: [osu! tutorial (new beginnings)][new beginnings]_
 
 The gameplay puts emphasis on:-
 
@@ -579,9 +578,6 @@ It can be found here: <https://osu.ppy.sh/community/forums/topics/131067>
 For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania.
 Both of it can be found here: <https://osu.ppy.sh/community/forums/topics/147552> (**Entozer**'s beatmap guide), and <https://osu.ppy.sh/community/forums/topics/146615> (**Drace**'s improvement guide)
 
-Also, [the ranked beatmap version of osu! tutorial][osu!tutorial rank] is good for practicing some of the possible mapping design.
-It is an excellent training map for newbies and experienced players.
-
 Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty].
 The easiest maps are at the top of the list.
 
@@ -723,7 +719,6 @@ Please follow these steps:-
 
 ## Credits
 - peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
-- Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
 - OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")

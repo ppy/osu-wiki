@@ -18,19 +18,16 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
-| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
 
 ### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
-| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Cantonese, Chinese |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German |
 
 ### osu!catch
@@ -47,7 +44,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif

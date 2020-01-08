@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding (Bahasa Indonesia)
 
 Modding adalah proses moderasi dari satu mapper ke mapper yang lain yang bersangkutan dengan [beatmap](/wiki/Beatmapping) yang dimoderasinya. Proses moderasi ini memberikan saran untuk mengembangkan beatmapnya hingga ke proses ranked atau setidaknya approved. Tiga manfaat utama dari modding antara lain:

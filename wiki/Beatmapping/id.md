@@ -46,7 +46,7 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 _Lihat juga: [Compose](/wiki/Compose)_
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
-Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hit sounds](/wiki/Glossary)
+Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Glossary)
 
 ### Design
 

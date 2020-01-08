@@ -291,9 +291,9 @@ Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or hi
 
 *Main page: [skin.ini](/wiki/skin.ini/#[colours])*
 
-### How do I disable one or more hit sounds?
+### How do I disable one or more hitsounds?
 
-There are three different types of hit sounds using these three prefixes: `normal`, `soft`, and `drum`. All of these has a suffix: `-hitnormal`, `-hitwhistle`, `-hitfinish`, and `-hitclap`.
+There are three different types of hitsounds using these three prefixes: `normal`, `soft`, and `drum`. All of these has a suffix: `-hitnormal`, `-hitwhistle`, `-hitfinish`, and `-hitclap`.
 
 To disable them, find the ones you do not like and replace it with another sound.
 
