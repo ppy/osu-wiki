@@ -37,14 +37,6 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 ## Prizes
 
-### Regional
-
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
-
 ### Global
 
 | Placing | Prize(s) |
@@ -52,6 +44,14 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+
+### Regional
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ## Organisation
 
@@ -95,7 +95,9 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Oceania/South East Asia | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_MY] [growATMfarmz](https://osu.ppy.sh/users/12273160), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
 | South America | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_CL] [Alepat](https://osu.ppy.sh/users/1164931), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
 
-### Asia
+### Regional
+
+#### Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -104,7 +106,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357) |
 | Unseeded | ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_JP] [maguro869](https://osu.ppy.sh/users/4733750), ![][flag_IL] [JackRaBeat](https://osu.ppy.sh/users/3706996) |
 
-### Europe
+#### Europe
 
 | Seed | Members |
 | :-- | :-- |
@@ -113,7 +115,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_RU] [Den4ik228](https://osu.ppy.sh/users/7115174), ![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658) |
 | Unseeded | ![][flag_RU] [Akonine](https://osu.ppy.sh/users/7774222), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_NL] [StrijkIjzer](https://osu.ppy.sh/users/4130926), ![][flag_RU] [aoe](https://osu.ppy.sh/users/6094216), ![][flag_NO] [Mills](https://osu.ppy.sh/users/7234023), ![][flag_DK] [mammasutter](https://osu.ppy.sh/users/11830625), ![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154) |
 
-### North America
+#### North America
 
 | Seed | Members |
 | :-- | :-- |
@@ -122,7 +124,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
 | Unseeded | ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_MX] [ZaveryK](https://osu.ppy.sh/users/10913397) |
 
-### Oceania/South East Asia
+#### Oceania/South East Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -131,7 +133,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_MY] [imnoobatosuosu](https://osu.ppy.sh/users/12086753), ![][flag_AU] [richy2001](https://osu.ppy.sh/users/11499467), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [end_ting](https://osu.ppy.sh/users/8570555) |
 | Unseeded | ![][flag_PH] [Un\_Breaker](https://osu.ppy.sh/users/5670617), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_MY] [newme96](https://osu.ppy.sh/users/2782769) |
 
-### South America
+#### South America
 
 | Seed | Members |
 | :-- | :-- |
