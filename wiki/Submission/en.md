@@ -20,7 +20,7 @@ Two checkboxes appear near the bottom of the window. The first says `Receive ema
 
 ## Limitations
 
-Beatmaps will fail to submit if they exceed the online file size limit. That limit is 10MB plus an additional 10MB for every minute of mp3 length, and caps at 100MB. The beatmap can also fail to submit if there is more than 128 difficulties.
+Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB. The difficulty limit is currently 128.
 
 Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](https://osu.ppy.sh/help/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 2). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 
