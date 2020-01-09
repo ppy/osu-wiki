@@ -14,8 +14,8 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-27/2020-12-01 |
-| Live Drawings | 2019-12-01 (21:00 UTC+8) |
+| Registration phase | 2019-10-27/2020-12-01 |
+| Live drawings | 2019-12-01 (21:00 UTC+8) |
 | Qualifiers | 2019-12-14/2019-12-15 |
 | Group Stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
@@ -32,10 +32,10 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
-| *5th place* | 1 month of osu!supporter tag |
+| 4th place | 2 months of osu!supporter tag |
+| 5th place | 1 month of osu!supporter tag |
 
-*Note: 5th place was determined by a playoff.*
+*Note: 5th place will be determined by a playoff.*
 
 ![oSEAT3 winner badge](img/badge.png)
 
@@ -61,8 +61,6 @@ The osu! South East Asia 3 is run by various community members.
 - [Livestream](https://www.twitch.tv/oseatournament)
 - [Challonge brackets](https://challonge.com/SEAT3)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -95,8 +93,6 @@ The osu! South East Asia 3 is run by various community members.
 | N | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827) | ![][flag_TH] [AkiYotoki](https://osu.ppy.sh/users/6448980) |
 | O | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_ID] [Ascaveth](https://osu.ppy./users/3245206) | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | ![][flag_TH] [muramax](https://osu.ppy.sh/users/10552306) | ![][flag_ID] [D-Rain](https://osu.ppy.sh/users/9925149) |
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
-
----
 
 ## Mappools
 
@@ -217,8 +213,6 @@ The osu! South East Asia 3 is run by various community members.
 - DoubleTime
   - [Aimer - I beg you (xbopost) \[Lost Butterfly\]](https://osu.ppy.sh/beatmapsets/1029661#osu/2153072)
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
-
----
 
 ## Match results
 
@@ -493,8 +487,6 @@ Wednesday, 1 December 2019:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M8 | **kezo** ![][flag_VN] | **0** | -1 | ![][flag_VN] Hifivem8 | *win by default* |
 
----
-
 ## Ruleset
 
 ### Registration
@@ -510,7 +502,7 @@ Wednesday, 1 December 2019:
    - ![][flag_SG] Singapore
    - ![][flag_TH] Thailand
    - ![][flag_VN] Vietnam
-2. **Notably, we have removed the pp lower limit for signups. However,** it is strongly recommended that you are able to comfortably play maps that are at least ~5.2* for maximum enjoyment.
+2. **Notably, we have removed the pp lower limit for signups.** However, it is strongly recommended that you are able to comfortably play maps that are at least ~5.2\* for maximum enjoyment.
 3. You must stay in the Discord server for the duration of your run in the tournament. Failure to do so will result in your slot in the tournament being forfeited.
 
 ### Rescheduling
@@ -519,9 +511,9 @@ Wednesday, 1 December 2019:
 2. If you cannot make it for the scheduled time, please contact your opponent and agree on a new timing before notifying the Scheduler at least **24 hours (one day)** before both the originally scheduled time and the new time. A screenshot of your conversation with your opponent regarding the change in time will need to be provided as proof.
 3. Late reschedules are subject to referee availability and may not be honored.
 4. if your opponent does not respond to your reschedule request within 48 hours, notify a scheduler. You will be allowed to choose a new timing of your choice for the match.
-   - You will have to attempt to make contact via both Discord and osu! forum PM
+   - You will have to attempt to make contact via both Discord and osu! forum PM.
 
-### Match Proceedings
+### Match proceedings
 
 1. Before each match (except in group stages), both players are allowed to choose and play an osu! standard warmup with song length (not drain time) shorter than **4 minutes**.
 2. After warmups, both players will `!roll`.
@@ -546,7 +538,7 @@ Wednesday, 1 December 2019:
    - If neither player bans a map within the time limit, the choice of map is randomised.
 3. If the tiebreaker map ends in a draw, low roll gets to choose another tiebreaker within the remaining 2 maps.
 
-### Round Specific Rules
+### Round-specific rules
 
 #### Qualifiers
 
@@ -589,19 +581,19 @@ Wednesday, 1 December 2019:
 2. Mappool for respective rounds will contain 5 NM, 3 HD, 3 HR, 4 DT, and 4 FM maps.
 3. There will be a bracket reset match, if necessary.
 
-### Late Penalties
+### Late penalties
 
 1. **Less than 5 minutes**: no penalty.
-2. **5 - 10 minutes**: No warmup for the respective player, opposing player chooses whether to pick first or ban first. *(note: no more substitution rule for groups. Players will only be subbed out of groups if they request to drop out before their first match)*
-3. **10 - 15 minutes**: 1 point given to opposing player, opposing player gets a free ban.
+2. **5-10 minutes**: No warmup for the respective player, opposing player chooses whether to pick first or ban first. *Note: no more substitution rule for groups. Players will only be subbed out of groups if they request to drop out before their first match*
+3. **10-15 minutes**: 1 point given to opposing player, opposing player gets a free ban.
 4. **More than 15 minutes**: Win by default for the opposing player.
 
 ### Disconnections
 
 1. Not within a map, if disconnecting player reconnects in:
    - **Less than 3 minutes**: No penalty.
-   - **3 - 5 minutes**: Opposing player gains control of pick if it was going to be disconnected player's pick, else no penalty.
-   - **5 - 10 minutes**: 1 point given to opposing player, opposing player gets a free ban.
+   - **3-5 minutes**: Opposing player gains control of pick if it was going to be disconnected player's pick, else no penalty.
+   - **5-10 minutes**: 1 point given to opposing player, opposing player gets a free ban.
    - **More than 10 minutes**: Win by Default.
 2. Within a map:
    - **If within the first minute, for the first 2 times this occurs**: Automatic rematch.
