@@ -584,7 +584,7 @@ Wednesday, 1 December 2019:
 ### Late penalties
 
 1. **Less than 5 minutes**: no penalty.
-2. **5-10 minutes**: No warmup for the respective player, opposing player chooses whether to pick first or ban first. *Note: no more substitution rule for groups. Players will only be subbed out of groups if they request to drop out before their first match*
+2. **5-10 minutes**: No warmup for the respective player, opposing player chooses whether to pick first or ban first.
 3. **10-15 minutes**: 1 point given to opposing player, opposing player gets a free ban.
 4. **More than 15 minutes**: Win by default for the opposing player.
 
