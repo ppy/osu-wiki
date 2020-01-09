@@ -73,6 +73,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
+- ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915)
 - ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883)
 - ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -258,6 +259,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | Featured Artist |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
+| ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | Elite Mapper |
 | ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) | Elite Mapper: Aspirant |
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |

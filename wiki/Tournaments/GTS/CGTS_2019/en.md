@@ -8,7 +8,7 @@ tags:
 
 ![CGTS 2019 Logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -31,20 +31,11 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | Event | Timestamp |
 | --: | :-- |
 | Qualifiers | 2020-01-04/2020-01-05 |
-| Quarterfinals | 2020-01-11/2020-01-12 |
-| Semifinals | 2020-01-18/2020-01-19 |
-| Finals | 2020-01-25/2020-01-26 |
-| Grand Finals | 2020-02-01/2020-02-02 |
+| Semifinals | 2020-01-11/2020-01-12 |
+| Finals | 2020-01-18/2020-01-19 |
+| Grand Finals | 2020-01-25/2020-01-26 |
 
 ## Prizes
-
-### Regional
-
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ### Global
 
@@ -53,6 +44,14 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+
+### Regional
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ## Organisation
 
@@ -63,7 +62,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Map selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335),  ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
+| Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_DE] [Ak1o](https://osu.ppy.sh/users/1600041), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
@@ -77,6 +76,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - [CGTS Discord server](https://discord.gg/C2b4xrH)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - Challonge brackets
+  - [Global phase](https://challonge.com/CGTS4v4)
   - [Asia](https://challonge.com/CGTSAsia)
   - [Europe](https://challonge.com/CGTSEurope)
   - [North America](https://challonge.com/CGTSNA)
@@ -86,7 +86,19 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ## Participants
 
-### Asia
+### Global
+
+| Continent | Members |
+| :-- | :-- |
+| Asia | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) |
+| Europe | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_IT] [coed](https://osu.ppy.sh/users/3716665), ![][flag_FR] [BananaW](https://osu.ppy.sh/users/9298106), ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) |
+| North America | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [R J](https://osu.ppy.sh/users/6490509), ![][flag_US] [3san](https://osu.ppy.sh/users/8050850) |
+| Oceania/South East Asia | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_MY] [growATMfarmz](https://osu.ppy.sh/users/12273160), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| South America | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_CL] [Alepat](https://osu.ppy.sh/users/1164931), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
+
+### Regional
+
+#### Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -95,7 +107,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357) |
 | Unseeded | ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_JP] [maguro869](https://osu.ppy.sh/users/4733750), ![][flag_IL] [JackRaBeat](https://osu.ppy.sh/users/3706996) |
 
-### Europe
+#### Europe
 
 | Seed | Members |
 | :-- | :-- |
@@ -104,7 +116,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_RU] [Den4ik228](https://osu.ppy.sh/users/7115174), ![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658) |
 | Unseeded | ![][flag_RU] [Akonine](https://osu.ppy.sh/users/7774222), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_NL] [StrijkIjzer](https://osu.ppy.sh/users/4130926), ![][flag_RU] [aoe](https://osu.ppy.sh/users/6094216), ![][flag_NO] [Mills](https://osu.ppy.sh/users/7234023), ![][flag_DK] [mammasutter](https://osu.ppy.sh/users/11830625), ![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154) |
 
-### North America
+#### North America
 
 | Seed | Members |
 | :-- | :-- |
@@ -113,7 +125,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
 | Unseeded | ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_MX] [ZaveryK](https://osu.ppy.sh/users/10913397) |
 
-### Oceania/South East Asia
+#### Oceania/South East Asia
 
 | Seed | Members |
 | :-- | :-- |
@@ -122,7 +134,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_MY] [imnoobatosuosu](https://osu.ppy.sh/users/12086753), ![][flag_AU] [richy2001](https://osu.ppy.sh/users/11499467), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [end_ting](https://osu.ppy.sh/users/8570555) |
 | Unseeded | ![][flag_PH] [Un\_Breaker](https://osu.ppy.sh/users/5670617), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_MY] [newme96](https://osu.ppy.sh/users/2782769) |
 
-### South America
+#### South America
 
 | Seed | Members |
 | :-- | :-- |
@@ -133,28 +145,53 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ---
 
-## Match schedule: Grand Finals
-
-### Saturday, 14 December 2019
-
-| Match ID | Player 1 | Player 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| NA-W1 | vladyushko ![][flag_CA] | ![][flag_CA] janitoreihil | **02:00** |
-| NA-BR¹ | janitoreihil ![][flag_CA] | ![][flag_CA] vladyushko |  |
-| SEA-W1 | Blerargh ![][flag_SG] | ![][flag_SG] Element118 | **06:00** |
-| SEA-BR¹ | Element118 ![][flag_SG] | ![][flag_SG] Blerargh |  |
-| ASIA-W1 | uone ![][flag_JP] | ![][flag_JP] iceOC | **10:00** |
-| ASIA-BR¹ | iceOC ![][flag_JP] | ![][flag_JP] uone |  |
-| EUROPE-W1 | goheegy ![][flag_GB] | ![][flag_ES] AlvaroYL | **14:00** |
-| EUROPE-BR¹ | AlvaroYL ![][flag_ES] | ![][flag_GB] goheegy |  |
-| SA-W1 | Ulqui ![][flag_CL] | ![][flag_BR] HiroK | **18:00** |
-| SA-BR¹ | HiroK ![][flag_BR] | ![][flag_CL] Ulqui |  |
-
-¹ The match will take place right after the previous one if Player 2 wins.
-
----
-
 ## Mappools
+
+### Global phase
+
+#### Semifinals
+
+**[Download the map pack here! (100 MB)](https://mega.nz/#!NxUgTCyB!dta67Igzg7Vo1zlrSzUzIHtjEx3rBt7symJwOLHv50E)**
+
+- NoMod
+  - [tobato - Digital(ooooooop) Tattoo (7\_7) \[Taiko(oooooooo)\]](https://osu.ppy.sh/beatmapsets/921770#taiko/1924891)
+  - [Dz'Xa - EXTRAHAPPY (uone) \[\>o\<\]](https://osu.ppy.sh/beatmapsets/924199#taiko/1930326)
+  - [kanone - Raikiri-RAIKIRI- (komasy) \[Muzukasy\]](https://osu.ppy.sh/beatmapsets/963301#taiko/2016861)
+  - [Virtual Self - Ghost Voices (Ulqui) \[Myruki's Whisper\]](https://osu.ppy.sh/beatmapsets/848100#taiko/1773553)
+  - [ALiCE's EMOTiON - Last Time (t+pazolite Remix) (-Kriston-) \[Taiko UltraPls\]](https://osu.ppy.sh/beatmapsets/303079#taiko/679232)
+  - [t+pazolite - Seedy Try (HiroK) \[Spooky Oni\]](https://osu.ppy.sh/beatmapsets/816696#taiko/1712661)
+- Hidden
+  - [Ozashin - Uzauza Wao-ssu! (DJ WAKARAN GIRL Hayasugiru FLEX) (7\_7) \[Uza\]](https://osu.ppy.sh/beatmapsets/925808#taiko/1933801)
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [Prospect & Pinnacle - Zombie Nightclub (\]\_p) \[Oni\]](https://osu.ppy.sh/beatmapsets/615245#taiko/1297763)
+- HardRock
+  - [Kaneko Chiharu - Yuki Onna (sing216) \[Frozen Oni\]](https://osu.ppy.sh/beatmapsets/650949#taiko/1379236)
+  - [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1755957)
+  - [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
+- DoubleTime
+  - [Halozy - Deconstruction Star (CLSW) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/319217#taiko/727859)
+  - [cillia - FIRST (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424506#taiko/917016)
+  - [K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) (J a c k y) \[Legends\]](https://osu.ppy.sh/beatmapsets/887760#taiko/1855737)
+- FreeMod
+  - [PerdoVanse - eu quero (HiroK) \[Sopa de Macaco\]](https://osu.ppy.sh/beatmapsets/801697#taiko/1682736)
+  - [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Black Another\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721331)
+  - [cosMo@BousouP - Oceanus (ZethZ161) \[Ocean Blue\]](https://osu.ppy.sh/beatmapsets/694741#taiko/1469704)
+- Tiebreaker
+  - **[Frums - ultra-blazures (Vulkin) \[meltdown\]](https://osu.ppy.sh/beatmapsets/906494#taiko/1891643)**
+
+#### Qualifiers
+
+**[Download the map pack here! (25 MB)](https://puu.sh/EWRv2/b01edb66ab.zip)**
+
+- NoMod
+  - [t+pazolite - Muzik Overload (incandescence) \[Overamplification\]](https://osu.ppy.sh/beatmapsets/752325#taiko/1583809)
+  - [Camellia - Bloody Kiss (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1015662#taiko/2125707)
+- Hidden
+  - [sky_delta - Midnight City Warfare (Taka030) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
+- HardRock
+  - [siqlo - pars/ey (HEKUSODASU) \[KTYN\]](https://osu.ppy.sh/beatmapsets/1063808#taiko/2227426)
+- DoubleTime
+  - [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Yia & D.N.Angel's Oni\]](https://osu.ppy.sh/beatmapsets/153776#taiko/435822)
 
 ### Regional phase
 
@@ -343,6 +380,23 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 ## Match results
 
 ### Regional phase
+
+#### Grand Finals
+
+Saturday, 14 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| vladyushko ![][flag_CA] | 3 | **7** | ![][flag_CA] **janitoreihil** | [#1](https://osu.ppy.sh/community/matches/56953118) |
+| **Blerargh** ![][flag_SG] | **7** | 2 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/56964072) |
+| **goheegy** ![][flag_GB] | **7** | 0 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/56970504) |
+
+Sunday, 15 December 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ulqui** ![][flag_CL] | **7** | 4 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/56985759) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56989593) |
 
 #### Finals
 
