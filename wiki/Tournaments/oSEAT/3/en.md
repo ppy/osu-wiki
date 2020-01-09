@@ -220,9 +220,9 @@ The osu! South East Asia 3 is run by various community members.
 
 Thursday, 2 January 2020:
 
-| Group | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A4 | **Deppyforce** ![][flag_TH] | **6** | 2 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/57437443) |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Deppyforce** ![][flag_TH] | **6** | 2 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/57437443) |
 
 Friday, 3 January 2020:
 
