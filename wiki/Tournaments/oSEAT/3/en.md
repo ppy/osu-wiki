@@ -57,7 +57,7 @@ The osu! South East Asia 3 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/978343)
-- [BTT Discord server](https://discord.gg/sVHndPU)
+- [oSEAT Discord server](https://discord.gg/sVHndPU)
 - [Livestream](https://www.twitch.tv/oseatournament)
 - [Challonge brackets](https://challonge.com/SEAT3)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
