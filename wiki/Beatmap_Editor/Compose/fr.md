@@ -183,9 +183,9 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 
 ***Article principal: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
 
-**En termes simples, il s'agit d'ajuster la longueur d'un fil à coudre de couleur (section de minutage) pour un espace de dessin de broderie (mesures, divisées par le diviseur à appeler battements) sur le tissu (chanson).** Comme osu!mania accorde une grande priorité à chaque minutage des notes, **la signature temporelle** (MM:B) de la section de minutage est ajoutée (15:3 = 15e mesure 3e temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier de morceau du beatmap.
+**En termes simples, il s'agit d'ajuster la longueur d'un fil à coudre de couleur (section de minutage) pour un espace de dessin de broderie (mesures, divisées par le diviseur à appeler battements) sur le tissu (chanson).** Comme osu!mania accorde une grande priorité à chaque minutage des notes, **la signature temporelle** (MM:B) de la section de minutage est ajoutée (15:3 = 15e mesure 3e temps) à côté de la barre d'ajustement pour faciliter la référence du mapper. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier de morceau du beatmap.
 
-**Insérer le temps de pause** mettra/arrêtera le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **keysound** (voir la section "Echantillonnage" à la fin de cette page).
+**Insérer le temps de pause** mettra/arrêtera le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **keysound** (voir la section "Échantillonnage" à la fin de cette page).
 
 ### Centre-Gauche (Sélecteur)
 
