@@ -6,7 +6,7 @@ Chacun des réglages met différentes couleurs de ticks sur le [Timelines](/wiki
 
 ### Diviseur 1/1
 
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
+![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")
 
 - Battements complets
 - Ticks blanches seulement
@@ -14,14 +14,14 @@ Chacun des réglages met différentes couleurs de ticks sur le [Timelines](/wiki
 
 ### Diviseur 1/2
 
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
+![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Diviseur 1/2")
 
 - Demi-temps
 - Ajoute des ticks rouges
 
 ### Diviseur 1/3
 
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
+![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Diviseur 1/3")
 
 - Triplets *
 - A deux ticks violettes entre chaque tique blanche
@@ -29,7 +29,7 @@ Chacun des réglages met différentes couleurs de ticks sur le [Timelines](/wiki
 
 ### Diviseur 1/4
 
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
+![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Diviseur 1/4")
 
 - Quarts de temps
 - Ajoute les ticks bleues, en plus des ticks rouges
@@ -37,7 +37,7 @@ Chacun des réglages met différentes couleurs de ticks sur le [Timelines](/wiki
 
 ### Diviseur 1/6
 
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
+![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Diviseur 1/6")
 
 Double Triplets*
 - A deux ticks violettes entre chaque ticks rouge
@@ -45,7 +45,7 @@ Double Triplets*
 
 ### Diviseur 1/8
 
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
+![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Diviseur 1/8")
 
 - Huitième temps
 - Ajoute des ticks jaunes, en plus des ticks rouges et bleues
@@ -65,7 +65,7 @@ Ligne verte : Vous.
 
 ### Diviseur 1/1
 
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
+![Divisor 1/1](/wiki/shared/1_1_m.jpg "Diviseur 1/1")
 
 - Battements complets
 - Ticks blanches seulement
@@ -73,14 +73,14 @@ Ligne verte : Vous.
 
 ### Diviseur 1/2
 
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
+![Divisor 1/2](/wiki/shared/1_2_m.jpg "Diviseur 1/2")
 
 - Demi-temps
 - Ajoute des ticks rouges
 
 ### Diviseur 1/3
 
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
+![Divisor 1/3](/wiki/shared/1_3_m.jpg "Diviseur 1/3")
 
 - Triplets
 - A deux ticks violettes entre chaque ticks blanche
@@ -88,7 +88,7 @@ Ligne verte : Vous.
 
 ### Diviseur 1/4
 
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
+![Divisor 1/4](/wiki/shared/1_4_m.jpg "Diviseur 1/4")
 
 - Quarts de temps
 - Ajoute les ticks bleues, en plus des ticks rouges
@@ -96,7 +96,7 @@ Ligne verte : Vous.
 
 ### Diviseur 1/6
 
-![Divisor 1/6](/wiki/shared/1_6_m.jpg "Divisor 1/6")
+![Divisor 1/6](/wiki/shared/1_6_m.jpg "Diviseur 1/6")
 
 - Double Triplets
 - A deux ticks violettes entre chaque ticks rouge
@@ -104,19 +104,19 @@ Ligne verte : Vous.
 
 ### Diviseur 1/8
 
-![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
+![Divisor 1/8](/wiki/shared/1_8_m.jpg "Diviseur 1/8")
 
 - Huitième temps
 - Ajoute des ticks jaunes, en plus des ticks rouges et bleues
 
 ### Diviseur 1/12
 
-![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
+![Divisor 1/12](/wiki/shared/1_12_m.jpg "Diviseur 1/12")
 
 - Douze temps
 
 ### Diviseur 1/16
 
-![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
+![Divisor 1/16](/wiki/shared/1_16_m.jpg "Diviseur 1/16")
 
 - Seizième temps
