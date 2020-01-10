@@ -19,6 +19,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-01-06: Added [Volta](https://osu.ppy.sh/users/4154071) to **Probationary BN**
 - 2020-01-06: Added [Hoshikuz](https://osu.ppy.sh/users/9892196) to **Probationary BN**
 - 2020-01-07: Added [Lacrima](https://osu.ppy.sh/users/4915649) to **Probationary BN**
+- 2020-01-10: Added [incandescence](https://osu.ppy.sh/users/6256027) to **Probationary BN**
+- 2020-01-10: Added [Voxa](https://osu.ppy.sh/users/9229539) to **Probationary BN**
 
 #### Moves
 
@@ -32,4 +34,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-01-06: Removed [yaspo](https://osu.ppy.sh/users/4945926) from **BN**
 - 2020-01-07: Removed [Du5t](https://osu.ppy.sh/users/6053071) from **BN**
 
-<!-- last update: 2020-01-08 06:45 Added Lacrima to Probationary BN -->
+<!-- last update: 2020-01-10 18:20 Added Voxa to Probationary BN -->
