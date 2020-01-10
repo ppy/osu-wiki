@@ -81,6 +81,13 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
 
+### Rank restrictions
+
+A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
+
+1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
+2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
+
 ### Stage regulations
 
 1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.

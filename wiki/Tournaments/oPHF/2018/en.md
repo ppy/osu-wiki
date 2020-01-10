@@ -63,7 +63,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
   - [osu!mania 4K](https://challonge.com/oPHF2018_4K)
   - [osu!mania 7K](https://challonge.com/oPHF2018_7K)
 
-------------------------
+---
 
 ## Qualified Participants
 
@@ -135,7 +135,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 4K
 
 | Seed | Player |
-|---|---|  
+|---|---|
 | 1 | [arge-](https://osu.ppy.sh/users/9919550) |
 | 2 | [Baltz](https://osu.ppy.sh/users/6083463) |
 | 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
@@ -156,7 +156,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 7K
 
 | Seed | Player |
-|---|---|   
+|---|---|
 | 1 | [Nikana](https://osu.ppy.sh/users/4345491) |
 | 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 | 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) |
@@ -168,7 +168,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | 9 | [Keishii](https://osu.ppy.sh/users/8381177) |
 | 10 | [Shawntell](https://osu.ppy.sh/users/7384938) |
 
-------------------------
+---
 
 ## Tournament Winners
 
@@ -214,7 +214,7 @@ The following players are the people who managed to pull through the whole compe
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
-------------------------
+---
 
 ## Mappools
 
@@ -743,7 +743,7 @@ The following players are the people who managed to pull through the whole compe
   - [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
   - [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
   - [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
-  
+
 ### osu!mania 7K
 
 #### Finals Week 2
@@ -791,7 +791,6 @@ The following players are the people who managed to pull through the whole compe
   - [Gothpheus - Rosen Vampir (Alumetorz) \[Pew's World\]](https://osu.ppy.sh/beatmaps/323389)
 - Tiebreaker
   - [**aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]**](https://osu.ppy.sh/beatmaps/1041584)
-  
 
 #### Round 3
 
@@ -864,7 +863,7 @@ The following players are the people who managed to pull through the whole compe
   - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
   - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
-------------------------
+---
 
 ## Match Results
 
@@ -1175,7 +1174,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing)
 
-------------------------
+---
 
 ## Rules
 
@@ -1196,30 +1195,31 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
+  - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!taiko
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!catch
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 - The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
 #### osu!mania
+
 - For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (FadeIn)**, or **FL (Flashlight)** during a pick.
 
 ### Eligibility and Registration
