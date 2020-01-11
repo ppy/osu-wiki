@@ -81,9 +81,11 @@ _written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/natsu.jpg)](https://osu.ppy.sh/beatmapsets/1006502)
 
-Coupled with some amazing keysounding, the top difficulty uses numerous equal-distance obtuse note patterns to create a flow with slightly increasing difficulty to accurately represent the little crescendos in the piano melodies, and makes ample use of various distance gimmicks under low approach rate plus clearly distinguishable time-distance gaps to maximize the representation of the song's atmosphere in all of its different parts. 
+What would you expect in a map for a piano song from literally two decades ago? [Gust](https://osu.ppy.sh/users/1244312) showed in their mapset, Maeda Jun - Natsukage, that even in a calm song we can still do something rememberable. 
 
-If you are expecting something chill and simple, or want to sit down and find a silent space to put your whole heart in, then you're bound to feel right at home in this set.
+The top diff uses numerous equal-distance obtuse angle patterns, which have a delicately increasing playing difficulty when you finishing them. By doing that, this difficulty can accurately represent all those little crescendos in the piano melodies. Besides, the top difficulty also uses "different time spacing" gimmicks under low ar(8), so it can maximize the representation of the song's atmosphere in all of its different parts. 
+
+Of course, the additional key hitsounds also do a great work on adding another flavor to the whole map, too. If you are expecting something chill and simple, or want to sit down and find a silent space to put your whole heart in, then you're bound to feel right at home in this set.
 
 _written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
 
