@@ -181,7 +181,7 @@ _written by [Genjuro](https://osu.ppy.sh/users/3196091)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/betrayal.jpg)](https://osu.ppy.sh/beatmapsets/1026679)
 
-The obligatory metal beatmap for the Autumn spotlights is Inferi - A Betrayal Unforetold, a Featured Artist song mapped by [Raiden](https://osu.ppy.sh/users/2239480) and [Grünschale/Greenshell](https://osu.ppy.sh/users/Greenshell) (with a storyboard by [Faputa](https://osu.ppy.sh/users/Faputa)!.
+The obligatory metal beatmap for the Autumn spotlights is Inferi - A Betrayal Unforetold, a Featured Artist song mapped by [Raiden](https://osu.ppy.sh/users/2239480) and [Grünschale/Greenshell](https://osu.ppy.sh/users/Greenshell) (with a storyboard by [Faputa](https://osu.ppy.sh/users/Faputa)!).
 
 This intense song is filled with insane guitars and drums, which reflect in the Perfidiae difficulty. It's out to drain all of your stamina with its numerous never-ending 'deathstreams', complicated long streams that in this map also often include a staple for modern metal maps, mono streams. You will understand when you play the map, trust me. These streams are very well mapped, with the two mappers' styles not conflicting once in the map, rather complimenting each other, with several ideas shared between their sections making this map also feel more coherent.
 
@@ -201,7 +201,7 @@ _written by [\_DUSK\_](https://osu.ppy.sh/users/6092181)_
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/psystyle.jpg)](https://osu.ppy.sh/beatmapsets/1022545)
 
-Closing this seasons (and year) spotlights we have Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) mapped by [Alchyr](https://osu.ppy.sh/users/4993032), a popular individual who has created by far one of the most unique speed maps of the year. 
+Closing this season's (and year's) spotlights we have Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) mapped by [Alchyr](https://osu.ppy.sh/users/4993032), a popular individual who has created by far one of the most unique speed maps of the year. 
 
 Both the song and map are insane, showcasing a wide variety of snappings and BPM changes, making this quite the challenge to get good accuracy on, not to mention the fact that the player must also keep up with the speed of all the notes at the same time.  
 
@@ -233,7 +233,7 @@ _written by [Kurokami](https://osu.ppy.sh/users/260933)_
 
 Team osu!catch is here to take a place in this season's Spotlights with not one, nor two, but thirteen mappers!
 
-Dreamland, which is the top difficulty, is mapped by [Ascendance](https://osu.ppy.sh/users/2931883) and [Spectator](https://osu.ppy.sh/users/702598) in collab. Everyone is surely already familiar with them and probably know that they are here for a rare treat. Without even looking at who mapped which part it is easy to recognize their style although they are blending into each other in a godly manner. From the calm mid-section through the build-ups and intense intro to the kiais, this map is perfectly orchestrated and delivers what you expect from both of the mappers.
+Dreamland, which is the top difficulty, is mapped by [Ascendance](https://osu.ppy.sh/users/2931883) and [Spectator](https://osu.ppy.sh/users/702598) in collab. Everyone is surely already familiar with them and probably know that they are here for a rare treat. Without even looking at who mapped which part it is easy to recognize their styles even when they are blending into each other in a godly manner. From the calm mid-section through the build-ups and intense intro to the kiais, this map is perfectly orchestrated and delivers what you expect from both of the mappers.
 
 Next up we have [Minato Yukina](https://osu.ppy.sh/users/531253), [Rocma](https://osu.ppy.sh/users/566276) and a collab between [Ascendance](https://osu.ppy.sh/users/2931883) and [alienflybot](https://osu.ppy.sh/users/636114). They each offer a different approach on the same difficulty level which is on par, if not better, with the top difficulty. Minato Yukina decided to follow the melody which resulted in a streamy map with intense hyperjump sections, Rocma stands in the middle in terms of rhythm but he has wild patterns. Lastly, do not be fooled with the lower star rating for the collab, this is a real beast on its own, be prepared.
 
@@ -313,7 +313,7 @@ _written by [\-MysticEyes](https://osu.ppy.sh/users/6253266)_
 
 [Kamuy](https://osu.ppy.sh/users/7439226) successfully managed to capture the harsh and repetitive nature of PSYQUI's Education and has transformed it into a tough map that is not for the faint of heart! The chart cleverly exploits minijacks and short LNs to artificially induce the feeling of roughness and make the map harder to nail off, especially for players with ailing endurance.
 
-Kamuy's implementation of the map's repetition also does justice to the song without actually making the map feel repetitive, using variations of structuring throughout the entire map. In general, the map is a blast to play to and as a medium to enjoy the song. If you are not up for the challenge though, ByeForNow's difficulty and all of the easier difficulties still follow the same ideologies while sparing you a fight.
+Kamuy's implementation of the map's repetition also does justice to the song without actually making the map feel repetitive, using variations of structuring throughout the entire map. In general, the map is a blast to play to and as a medium to enjoy the song. If you are not up for the challenge though, [ByeForNow](https://osu.ppy.sh/users/71991590)'s difficulty and all of the easier difficulties still follow the same ideologies while sparing you a fight.
 
 _written by [AncuL](https://osu.ppy.sh/users/2449200)_
 
@@ -362,4 +362,3 @@ We've started to migrate over to our dedicated website properly in recent months
 We hope you enjoy our selection for this season and look forward to what we will bring to you in the future. Until then, happy circle clicking, drum bashing, fruit catching, and key smashing! Do not forget to have a rest occasionally!
 
 —the Spotlights Team
-
