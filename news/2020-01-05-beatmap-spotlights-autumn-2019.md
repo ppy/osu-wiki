@@ -33,7 +33,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/alex.jpg)](https://osu.ppy.sh/beatmapsets/1054045)
 
-It's here. [ProfessionalBox](https://osu.ppy.sh/users/3250792) has christened this 10 minute masterpiece mapset as his swan song, and what a legacy it leaves behind. Magnificent hitsounding, a beautiful storyboard, some fresh patterning and slider design all on top of a highly emotive collection of instrumental tracks, Alexithymia | Lupinus | Tokei no Heya to Seishin Sekai is one of the most impressive projects we've seen in a long time, or will see in the coming years. It behooves any osu! enthusiast to grace their clients with this paragon of beatmapping.
+It's here. [ProfessionalBox](https://osu.ppy.sh/users/3250792) has christened this 10 minute masterpiece mapset as his swan song, and what a legacy it leaves behind. Magnificent hitsounding and a beautiful storyboard by [PoNo](https://osu.ppy.sh/users/4610047) and [\-Tochi](https://osu.ppy.sh/users/3664366), some fresh patterning and slider design all on top of a highly emotive collection of instrumental tracks, Alexithymia | Lupinus | Tokei no Heya to Seishin Sekai is one of the most impressive projects we've seen in a long time, or will see in the coming years. It behooves any osu! enthusiast to grace their clients with this paragon of beatmapping.
 
 _written by [Toy](https://osu.ppy.sh/users/2757689)_
 
