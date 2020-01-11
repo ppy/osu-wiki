@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Tournaments
 
 Section dedicated for osu! tournaments. Tournaments have their dedicated forum which can be found [through this link](https://osu.ppy.sh/community/forums/55).
@@ -25,6 +21,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_KR] South Korea |
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_GB] United Kingdom |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
+| [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -67,6 +64,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
+| [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4K | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 
 ## Community
 
@@ -184,6 +182,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_RU] Russian Federation A |
 | [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
+| [Continental Global Taiko Showdown 2019](/wiki/Tournaments/GTS/CGTS_2019) | 2019-11-02 | 2020-01-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -210,7 +209,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
-| [Beginners' Taiko Tournament Season 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 5](/wiki/Tournaments/BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
