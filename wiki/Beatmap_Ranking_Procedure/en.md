@@ -22,7 +22,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category for seven days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
+Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category for at least 7 days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a nomination reset.
 
@@ -34,7 +34,7 @@ Nominations can be reset when a beatmapset's creator updates the set or when a m
 
 Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmapsets they believe have quality issues that are unrelated to the Ranking Criteria. In some cases, a beatmapset's nominations can be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when it involves inappropriate content.
 
-When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for 2 days, then disqualified and re-qualified, it will remain in the Qualified category for 5 more days. All beatmapsets are qualified for a total of 7 days before reaching Ranked status.
+When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for 2 days, then disqualified and re-qualified, it will remain in the Qualified category for 5 more days. All beatmapsets are qualified for a total of at least 7 days before reaching Ranked status.
 
 ## Ranked
 
