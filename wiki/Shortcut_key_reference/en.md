@@ -37,12 +37,9 @@ These shortcuts work anywhere:
 | `Up/Down Arrow` | Adjust the master volume, use the left and right arrows to adjust effect and music volumes. |
 | `Esc` | Go back or cancel. |
 | `P`, `E`, or `O` | Open the play menu. |
-| `P` three times | Solo |
-| `E`, then `P` two times | Solo |
-| `P`, then `M` | [Multi](/wiki/Multi) |
-| `E`, `P`, then `M` | [Multi](/wiki/Multi) |
-| `E` two times | Edit mode |
-| `P`, then `E` | Edit mode |
+| `P` thrice | Solo |
+| `P` twice, then `M` | [Multi](/wiki/Multi) |
+| `E` twice | Edit mode |
 | `O` | Open the options sidebar. |
 | `Q` | Display the exit prompt. |
 | `Esc` | Display the exit prompt, when the options and play menu are closed. |
