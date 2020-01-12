@@ -177,12 +177,10 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `P` | Add a inherited timing point at the current timestamp. This will also open the timing and control points dialog. |
 | `Ctrl` + `I` | Delete the current uninherited or inherited section. This will not work on first uninherited timing point. |
 
-### Mouse
+#### Mouse
 
 | Shortcut | Description |
 | --- | --- |
-| `Ctrl` + `Left Click` | Add a new node to the selected slider. |
-| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting) |
 | `Mouse Wheel Up/Down` | Seek forward/backward. |
 | `Shift` + `Mouse Wheel Up/Down` | Seek forward/backward at 4x. |
 | `Ctrl` + `Mouse Wheel Up/Down` | Adjust the snap divisor. |
@@ -190,6 +188,12 @@ These shortcuts work anywhere within the beatmap editor:
 | `Alt` + `Shift` + `Mouse Wheel Up/Down` | More precisely adjust the distance snapping multiplier when hovering over the playfield. |
 
 ### Compose
+
+#### Mouse
+
+| Shortcut | Description |
+| --- | --- |
+| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting) |
 
 #### General
 
