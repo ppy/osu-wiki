@@ -131,6 +131,18 @@ These shortcuts work anywhere:
 | `F3` or `F4` | Adjust speed for osu!mania (can be used near the beginning of gameplay). |
 | `Ctrl` + `R` or `` ` `` | Must be held briefly. Quick retry the current map (skips the intro upon retry) |
 
+## Replay mode
+
+*Notice: You must use the cuttingedge release stream to use these.*
+
+| Shortcut | Description |
+| --- | --- |
+| `5` | Pause the replay. |
+| `6` or `0` | Resume or set playback speed to 1x. |
+| `7` | Set playback speed to 2x. |
+| `8` | Set playback speed to 3x. |
+| `9` | Set playback speed to 4x. |
+
 ## Beatmap editor
 
 *Main page: [Beatmap Editor](/wiki/Beatmap_Editor)*
