@@ -6,7 +6,7 @@ date: 2020-01-05 10:00:00 +0000
 
 A new decade has dawned, and even though the chilly winds are behind us, we've got a brand new set of 2019's hottest maps to welcome in the new season! Check them out, and earn a fancy new medal for yourself!
 
-![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/header.jpg)
+![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/header.png)
 
 The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy.sh/rankings/taiko/charts?spotlight=271). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Autumn 2019 Spotlights rankings will end on the 15th of March, 2020.**
 
