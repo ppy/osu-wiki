@@ -20,8 +20,8 @@ Znaczniki można łączyć, aby poszerzyć formatowanie. Kolejność i rozmieszc
 
 Dla przykładu (zwróć uwagę na położenie znaczników):
 
-- `[centre]` `[b]` _tekst_ `[/b]` `[/centre]` jest poprawne, ale
-- `[b]` `[centre]` _tekst_ `[/b]` `[/centre]` już nie.
+- `[centre]` `[b]` *tekst* `[/b]` `[/centre]` jest poprawne, ale
+- `[b]` `[centre]` *tekst* `[/b]` `[/centre]` już nie.
 
 ## Lista znaczników w BBCode
 
@@ -277,7 +277,7 @@ Listy w BBCode składają się z dwóch części: znaczników otwierających i z
 - Ważne:
   - Wszystkie punkty muszą znajdować się wewnątrz znacznika listy.
   - Istnieje 6 argumentów dla atrybutu `TYPE`:
-    - _(pusty)_ - punkty
+    - *(pusty)* - punkty
     - `1` - liczby
     - `a` - litery (małe)
     - `A` - litery (duże)

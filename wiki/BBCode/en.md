@@ -23,8 +23,8 @@ Tags can be combined for richer formatting. The order and nesting of the tags **
 
 For example (pay attention to the order of the code):
 
-- `[centre]` `[b]` _text_ `[/b]` `[/centre]` is correct, but
-- `[b]` `[centre]` _text_ `[/b]` `[/centre]` is wrong.
+- `[centre]` `[b]` *text* `[/b]` `[/centre]` is correct, but
+- `[b]` `[centre]` *text* `[/b]` `[/centre]` is wrong.
 
 ## List of BBCode tags
 
@@ -66,7 +66,7 @@ For example (pay attention to the order of the code):
 
 ### Strike
 
-_Also known as **strikethrough**._
+*Also known as **strikethrough**.*
 
 **Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
 
@@ -80,7 +80,7 @@ _Also known as **strikethrough**._
 
 ### Colour
 
-_BBCode calls this "Color"._
+*BBCode calls this "Color".*
 
 **Adds colour** to some text.
 
@@ -122,7 +122,7 @@ Relatively adjusts the text size.
 
 ### Spoiler
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+*Not to be confused with [Spoilerbox](#spoilerbox).*
 
 **Covers text** with a black background.
 
@@ -138,7 +138,7 @@ This can be useful if you are talking about a critical scene in a TV show, movie
 
 ### Spoilerbox
 
-_Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
+*Not to be confused with [Box](#box) or [Spoiler](#spoiler).*
 
 **Hides a paragraph** inside an prenamed box from the reader's view. The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
 
@@ -154,7 +154,7 @@ _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 
 ### Box
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+*Not to be confused with [Spoilerbox](#spoilerbox).*
 
 **Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
@@ -320,7 +320,7 @@ The images can be sourced from anywhere, as long as the image exists from the gi
 
 **Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as *hotlinks*). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
 - Dedicated button: ![Image button](img/image.png)
 - Notes:
@@ -353,7 +353,7 @@ The audio files can be sourced from anywhere, as long as the audio exists from t
 
 **Do not link the audio directly from a local filepath!** Using `C:\Users\Name\Music\audio.mp3` will **not work**.
 
-Please upload the audio file to reputable file sharing sites like [puush](https://puush.me/ "puush"). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as _hotlinks_).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
+Please upload the audio file to reputable file sharing sites like [puush](https://puush.me/ "puush"). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as *hotlinks*).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
 
 - Dedicated button: N/A
 - Syntax:

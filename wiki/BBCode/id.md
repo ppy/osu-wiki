@@ -6,7 +6,7 @@ BBCode adalah sintaks markup yang digunakan di osu! forum dan, untuk tingkat yan
 
 ## Catatan
 
-Sementara post editor menyediakan beberapa alat pemformatan dasar, pengguna juga dapat secara manual menulis BBCode-nya. Tag BBCode juga tidak sensitif terhadap huruf _(case-sensitive)_.
+Sementara post editor menyediakan beberapa alat pemformatan dasar, pengguna juga dapat secara manual menulis BBCode-nya. Tag BBCode juga tidak sensitif terhadap huruf *(case-sensitive)*.
 
 ### Tindakan pada Tombol BBCode
 
@@ -18,8 +18,8 @@ Tag dapat dikombinasikan untuk memperkaya isi teks. Urutan dan penandaan tag **h
 
 Untuk contoh (perhatikan urutan kodenya):
 
-- `[centre]` `[b]` _teks_ `[/b]` `[/centre]` ini benar, tapi
-- `[b]` `[centre]` _teks_ `[/b]` `[/centre]` ini salah.
+- `[centre]` `[b]` *teks* `[/b]` `[/centre]` ini benar, tapi
+- `[b]` `[centre]` *teks* `[/b]` `[/centre]` ini salah.
 
 ## Daftar tag BBCode
 
@@ -61,7 +61,7 @@ Untuk contoh (perhatikan urutan kodenya):
 
 ### Strike
 
-_Juga dikenal sebagai **strikethrough**._
+*Juga dikenal sebagai **strikethrough**.*
 
 **Mencoret** kata-kata atau seluruh paragraf.
 
@@ -75,7 +75,7 @@ _Juga dikenal sebagai **strikethrough**._
 
 ### Colour
 
-_BBCode menyebut ini sebagai "Color"._
+*BBCode menyebut ini sebagai "Color".*
 
 **Menambahkan warna** ke beberapa teks.
 
@@ -117,7 +117,7 @@ Menyesuaikan ukuran teks secara relatif.
 
 ### Spoiler
 
-_Jangan disamakan dengan [Spoilerbox](#spoilerbox)._
+*Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
 **Menutupi teks* dengan background hitam.
 
@@ -133,7 +133,7 @@ Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, 
 
 ### Spoilerbox
 
-_Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler)._
+*Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler).*
 
 **Menyembunyikan Paragraf, Kalimat atau Gambar** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca atau melihat paragraf dan gambar tersebut dengan menekan spoilerbox untuk melihat paragraf yang telah disembunyikan.
 
@@ -149,7 +149,7 @@ _Jangan disamakan dengan [Box](#box) atau [Spoiler](#spoiler)._
 
 ### Box
 
-_Jangan bingung dengan [Spoilerbox](#spoilerbox)._
+*Jangan bingung dengan [Spoilerbox](#spoilerbox).*
 
 **Menyembunyikan Paragraf, Kalimat atau Gambar** di dalam kotak yang sudah dinamai dari tampilan pembaca. Pembaca dapat membaca atau melihat paragraf dan gambar tersebut dengan menekan box untuk melihat paragraf yang telah disembunyikan.
 
@@ -292,7 +292,7 @@ Bullets ialah simbol yang berbentuk sebuah peluru, sedangkan Wrapper ialah membu
 - Catatan:
   - Semua bullets harus dikelilingi oleh tag list.
   - Berikut adalah argumen yang benar dari `TYPE` bullets:
-    - _(empty)_ - bulleted
+    - *(empty)* - bulleted
     - `1` - numbered
     - `a` - lettered (lowercased)
     - `A` - lettered (upper-cased)
@@ -317,7 +317,7 @@ Gambar dapat diperoleh dari sumber manapun, selama gambar tersedia dan memiliki 
 
 **Jangan link gambar langsung dari lokal pc!** Menggunakan `C:\Users\Name\Pictures\image.jpg` **tidak akan bisa digunakan**.
 
-Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur") atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut _hotlinks_). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
+Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur") atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut *hotlinks*). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
 
 - Tombol khusus: ![Tombol Image](img/image.png)
 - Catatan:

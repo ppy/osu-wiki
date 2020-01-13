@@ -27,8 +27,8 @@ El orden de las etiquetas **debe** ser respetado cuando se combinan las etiqueta
 
 Por ejemplo (presta atención al orden del código):
 
-- `[centre]` `[b]` _texto_ `[/ b]` `[/ centre]` es correcto, pero
-- `[b]` `[centre]` _texto_ `[/ b]` `[/ centre]` está mal.
+- `[centre]` `[b]` *texto* `[/ b]` `[/ centre]` es correcto, pero
+- `[b]` `[centre]` *texto* `[/ b]` `[/ centre]` está mal.
 
 ## Lista de etiquetas BBCode
 
@@ -38,7 +38,7 @@ Por ejemplo (presta atención al orden del código):
 
 - Botón dedicado: ![Botón negrita](img/bold.png)
 - Notas:
-   * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
+   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
 ```
 [b] ... [/b]
@@ -50,7 +50,7 @@ Por ejemplo (presta atención al orden del código):
 
 - Botón dedicado: ![Botón itálico](img/italic.png)
 - Notas:
-  * Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
+  - Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
 ```
 [i] ... [/i]
@@ -60,9 +60,9 @@ Por ejemplo (presta atención al orden del código):
 
 **Dibuja una línea horizontal debajo** de la(s) palabra(s) o un párrafo entero.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
+  - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
 ```
 [u] ... [/u]
@@ -74,32 +74,32 @@ Por ejemplo (presta atención al orden del código):
 
 - Botón dedicado: ![Botón Tachado](img/strike.png)
 - Notas:
-  * Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
+  - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
 ```
 [strike] ... [/strike]
 ```
-  * Alternativamente, se puede utilizar:
+  - Alternativamente, se puede utilizar:
 ```
 [s] ... [/s]
 ```
 
 ### Color
 
-_BBCode llama a este "Color" ._
+*BBCode llama a este "Color" .*
 
 **Añade color** a algún texto.
 
-- Botones dedicados: _ninguno_
+- Botones dedicados: *ninguno*
 - Notas:
-  * El cuadro de color se encuentra en el lado derecho del cuadro de texto.
-  * Utiliza esta etiqueta con moderación.
-  * El uso excesivo de esto creará incomodidad a los ojos del lector.
-  * El mal uso de esto hará que tu texto sea ilegible.
-  * Si eliges un color, asegúrate de que contraste con el fondo para que sea legible.
-  * El argumento `HEXCODE` no debe usar comillas.
+  - El cuadro de color se encuentra en el lado derecho del cuadro de texto.
+  - Utiliza esta etiqueta con moderación.
+  - El uso excesivo de esto creará incomodidad a los ojos del lector.
+  - El mal uso de esto hará que tu texto sea ilegible.
+  - Si eliges un color, asegúrate de que contraste con el fondo para que sea legible.
+  - El argumento `HEXCODE` no debe usar comillas.
 - Sintaxis:
-  * Donde `HEXCODE` es un color en hexadecimal o nombre de color.
+  - Donde `HEXCODE` es un color en hexadecimal o nombre de color.
     - Para hexadecimal, debe comenzar con `#`, seguido por 6 caracteres hexadecimales (0 - 9, A - F).
     - Para el nombre del color, debe ser un color HTML válido.
 ```
@@ -114,32 +114,32 @@ Ajusta relativamente el tamaño del texto.
 
 - Botones dedicados: ![Opciones de tamaño de fuente](img/font-size.png)
 - Notas:
-  * Utiliza esta etiqueta con moderación.
-  * Sólo hay 4 tamaños que puede utilizar:
+  - Utiliza esta etiqueta con moderación.
+  - Sólo hay 4 tamaños que puede utilizar:
     - `50` (diminuto)
     - `85` (pequeño)
     - `100` (normal, predeterminado)
     - `150` (grande)
-  * Si introduces un valor que no es uno de los enumerados anteriormente, utilizarás el tamaño de fuente predeterminado.
-  * El argumento `NUMBER` no debe usar comillas.
+  - Si introduces un valor que no es uno de los enumerados anteriormente, utilizarás el tamaño de fuente predeterminado.
+  - El argumento `NUMBER` no debe usar comillas.
 - Sintaxis:
-  * Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
+  - Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
 ```
 [size=NUMBER] ... [/size]
 ```
 
 ### Spoiler
 
-_No debe confundirse con [Spoilerbox](#spoilerbox)._
+*No debe confundirse con [Spoilerbox](#spoilerbox).*
 
 **Cubre el texto** con un fondo negro.
 
 Esto puede ser útil si estás hablando de una escena crítica en un programa de televisión, película o anime, pero no quieres estropearlo para otros.
 El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
+  - Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
 ```
 [spoiler] ... [/spoiler]
@@ -147,14 +147,14 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 
 ### Caja spoiler
 
-_No debe confundirse con [Caja](#caja) o [Spoiler](#spoiler)._
+*No debe confundirse con [Caja](#caja) o [Spoiler](#spoiler).*
 
 **Oculta un párrafo** dentro de una caja previamente nombrada `collapsed text`.
 El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox para mostrar el párrafo oculto.
 
 - Botón dedicado: ![Botón Spoilerbox](img/spoilerbox.png)
 - Notas:
-  * Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
+  - Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
 - Sintaxis:
 ```
 [spoilerbox]
@@ -164,21 +164,21 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 
 ### Caja
 
-_No debe confundirse con [Spoilerbox](#spoilerbox)._
+*No debe confundirse con [Spoilerbox](#spoilerbox).*
 
 **Oculta un párrafo** dentro de un cuadro identificable por el lector.
 El lector puede mostrar el párrafo haciendo clic en el nombre del cuadro.
 
 Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad de imágenes.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * De forma predeterminada, se creará un cuadro con el texto sin encabezado.
+  - De forma predeterminada, se creará un cuadro con el texto sin encabezado.
     - Si deja el argumento `NAME` en blanco (o no incluye uno), la altura de la caja será muy pequeña!
-  * El argumento `NAME` no debe usar comillas.
-  * El argumento `NAME` puede contener espacios.
+  - El argumento `NAME` no debe usar comillas.
+  - El argumento `NAME` puede contener espacios.
 - Sintaxis:
-  *  `NAME` será el nombre de la caja.
+  -  `NAME` será el nombre de la caja.
 ```
 [box=NAME]
 ...
@@ -189,14 +189,14 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
 
 Cita la(s) palabra(s) o párrafo(s) dado(s).
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Es conveniente tener en cuenta al autor de la cita si estás citando a alguien (usa el argumento `NAME`).
-  * El argumento `NAME` **debe** usar comillas.
-  * Hay un botón de cita por mensaje (esquina inferior derecha) que citará automáticamente el texto de un usuario.
+  - Es conveniente tener en cuenta al autor de la cita si estás citando a alguien (usa el argumento `NAME`).
+  - El argumento `NAME` **debe** usar comillas.
+  - Hay un botón de cita por mensaje (esquina inferior derecha) que citará automáticamente el texto de un usuario.
     - Si hiciste esto, el mensaje (cuando hagas clic en `Post`) se publicará en el hilo actual.
 - Sintaxis:
-  * `NAME` es a quién/qué se citará (**debe** ir entre comillas).
+  - `NAME` es a quién/qué se citará (**debe** ir entre comillas).
 ```
 [quote=NAME]
 ...
@@ -207,10 +207,10 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
 
 Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de una caja gris. Esto es muy útil cuando estás publicando código para un [storyboard](/wiki/storyboard) o código fuente de un proyecto.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
-  *  El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
+  - Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
+  -  El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
 - Sintaxis:
 ```
 [code]
@@ -222,9 +222,9 @@ Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de
 
 Alinear un párrafo al centro; típicamente para títulos o encabezados.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
+  - Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
 ```
 [centre]
@@ -241,10 +241,10 @@ Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje
 
 - Botón dedicado: ![Botón URL](img/url.png)
 - Notas:
-  * El argumento `ENLACE` no debe usar comillas.
+  - El argumento `ENLACE` no debe usar comillas.
 - Sintaxis:
-  * `ENLACE` es la url.
-  * Donde `TEXTO` es el texto del enlace.
+  - `ENLACE` es la url.
+  - Donde `TEXTO` es el texto del enlace.
 ```
 [url=ENLACE]TEXTO[/url]
 ```
@@ -257,12 +257,12 @@ Vincula un perfil de usuario utilizando el nombre del usuario.
 
 Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identificación del usuario).
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * ¡No recomendado!
-  * El argumento `USER` tiene que estar definido.
+  - ¡No recomendado!
+  - El argumento `USER` tiene que estar definido.
 - Sintaxis:
-  *  `USER` es el nombre del usuario.
+  -  `USER` es el nombre del usuario.
 ```
 [profile]USUARIO[/profile]
 ```
@@ -271,9 +271,9 @@ Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identif
 
 Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Esto no dará a todos los mismos resultados.
+  - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
 ```
@@ -284,9 +284,9 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
 
 **Agrega un enlace directo a una página** usando el botón de Google *I'm Feeling Lucky* usando el texto proporcionado.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Esto no dará a todos los mismos resultados.
+  - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
 ```
@@ -301,23 +301,23 @@ En BBCode, hay dos partes para hacer la lista: la envoltura y los puntos.
 Los puntos se colocan dentro de la envoltura.
 
 - Botones dedicados:
-  * Lista: ![Botón Lista](img/list.png)
-  * Tipo de lista: _ninguno_
-  * Lista de viñetas: _ninguno_
+  - Lista: ![Botón Lista](img/list.png)
+  - Tipo de lista: *ninguno*
+  - Lista de viñetas: *ninguno*
 - Notas:
-  * Todos los puntos deben estar rodeados por las etiquetas de tipo lista / lista.
-  * Estos son los argumentos válidos para `TYPE`:
-    -  _(vacío)_ - con puntos
+  - Todos los puntos deben estar rodeados por las etiquetas de tipo lista / lista.
+  - Estos son los argumentos válidos para `TYPE`:
+    -  *(vacío)* - con puntos
     -  `1` - numerado
     -  `a` - letras (minúsculas)
     -  `A` - letras (mayúsculas)
     -  `i` - numeral romano (minúsculas)
     -  `I` - numeral romano (mayúsculas)
-  * De forma predeterminada, las listas con puntos utilizan puntos cuadrados.
-  * Las listas dentro de otras listas suelen traer problemas con el formato.
+  - De forma predeterminada, las listas con puntos utilizan puntos cuadrados.
+  - Las listas dentro de otras listas suelen traer problemas con el formato.
 - Sintaxis:
-  * Cuando `TYPE` sea uno de los tipos definidos más arriba.
-  * Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
+  - Cuando `TYPE` sea uno de los tipos definidos más arriba.
+  - Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
 ```
 [list=TYPE]
 [*] ...
@@ -334,13 +334,13 @@ Las imágenes se pueden obtener desde cualquier página, siempre y cuando la ima
 
 Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputación como [imgur](https://imgur.com/ "imgur") o [puush](https://puush.me/ "puush"). Una vez que la imagen se cargue correctamente, copia y pega el vínculo directo proporcionado entre las etiquetas de imagen.
 
-También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como _hotlinks_). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
+También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como *hotlinks*). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
 
 - Botón dedicado: ![Botón de imagen](img/image.png)
 - Notas:
-  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
+  - Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
-  * `LINK` es un enlace directo a una imagen.
+  - `LINK` es un enlace directo a una imagen.
 ```
 [img]LINK[/img]
 ```
@@ -349,11 +349,11 @@ También ten en cuenta que algunos sitios web no aceptan los enlaces directos a 
 
 Incluye un vídeo de YouTube en tu publicación.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
+  - Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
-  * `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
+  - `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
     - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
 ```
 [youtube]YT-ID[/youtube]
@@ -366,7 +366,7 @@ Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 
 - Botón dedicado: ![Heading button](img/heading.png)
 - Notas:
-  * Debes escribir la sintaxis tú mismo.
+  - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
 ```
 [heading] ... [/heading]
@@ -377,11 +377,11 @@ Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 Añade un encabezado sofisticado púrpura con una línea horizontal.
 Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * ¡Esto sólo funciona en el foro de beatmaps!
-  * Esto sólo aparece después de la publicación, no en la vista previa.
-  * Debes escribir la sintaxis tú mismo.
+  - ¡Esto sólo funciona en el foro de beatmaps!
+  - Esto sólo aparece después de la publicación, no en la vista previa.
+  - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
 ```
 [...]
@@ -391,9 +391,9 @@ Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
 
 Coloca el párrafo dentro de un cuadro blanco.
 
-- Botón dedicado: _ninguno_
+- Botón dedicado: *ninguno*
 - Notas:
-  * Debes escribir la sintaxis tú mismo.
+  - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
 ```
 [notice]
@@ -408,4 +408,4 @@ Coloca el párrafo dentro de un cuadro blanco.
 ### Historia
 
 - Hay un error de color en los foros actuales de la web de osu!, si usas el color `transparent`, hará que el texto sea transparente.
-  * Este error fue sin embargo, resuelto en el nuevo diseño.
+  - Este error fue sin embargo, resuelto en el nuevo diseño.
