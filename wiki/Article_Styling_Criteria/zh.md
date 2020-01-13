@@ -74,6 +74,7 @@ GFM 的标记很少，以至于 **任何人** 都能在几分钟之内学会它�
 在编辑源文件时，多个句子应该并作一行，而不是一句一行。
 
 错误做法：
+
 ```
 osu!lazer 是开发中的 osu! 新版本。
 它将在未来取代现在的 osu!client 。
@@ -81,6 +82,7 @@ osu!lazer 是开发中的 osu! 新版本。
 ```
 
 正确做法：
+
 ```
 osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 ```
@@ -203,7 +205,6 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 当链接到某个 osu!用户 的个人资料时，使用他的 ID 而不应该使用用户名。用户名可以变更但是 ID 是不会改变的，这样能确保链接始终指向他的资料。
 
-
 错误做法:
 `[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`
 `[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
@@ -249,7 +250,6 @@ osu! is a frustrating but fun circle-clicking simulator.
 ### 图片
 
 _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
-
 
 建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
 
@@ -328,6 +328,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 每个句子的结尾应该有一个终结符(句号、感叹号等)。
 对于特殊情况则特殊处理，例如：
+
 ```
 对于特殊情况则特殊处理，例如：
 ```
@@ -338,7 +339,6 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 当括号是为了注释某个没有达成共识的翻译时，使用多数人认同的翻译和中文括号，被注释的词放在括号内并且不需要空格。
 例如：`仓库（Repository）`
-
 
 ##### 顿号
 
