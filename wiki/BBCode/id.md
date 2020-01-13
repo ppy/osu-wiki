@@ -125,7 +125,7 @@ Menyesuaikan ukuran teks secara relatif.
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-**Menutupi teks* dengan background hitam.
+**Menutupi teks** dengan background hitam.
 
 Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, atau anime tapi tidak ingin membeberkannya pada orang lain. Pembaca dapat membaca teks yang sudah disoroti oleh tag tersebut.
 
