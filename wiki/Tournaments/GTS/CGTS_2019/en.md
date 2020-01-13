@@ -149,6 +149,36 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ### Global phase
 
+#### Finals
+
+**[Download the map pack here! (92 MB)](https://mega.nz/#!whkTGa7Q!mOZr5Z28hWzcYlnTSggeKgqYgsu9pikerZlTE_a8cGk)**
+
+- NoMod
+  - [Kobaryo - The Lightning Sword (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/986741#taiko/2064205)
+  - [150P - Nisemono Chuuihou (vzk) \[doppelganger\]](https://osu.ppy.sh/beatmapsets/586484#taiko/1242025)
+  - [Tanchiky - ENERGY SYNERGY MATRIX (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1082787#taiko/2264889)
+  - [Akira Complex - Ether Strike (Rhytoly) \[Luminosity\]](https://osu.ppy.sh/beatmapsets/1022223#taiko/2138677)
+  - [KINZOK ON - Twisted Love (Alchyr) \[Twisted Oni\]](https://osu.ppy.sh/beatmapsets/629634#taiko/1329206)
+  - [Freezer - No Items, At Endpoint (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/752556#taiko/1584249)
+- Hidden
+  - [m108 - \*Crow Solace\* (TKS) \[KrazySalt\]](https://osu.ppy.sh/beatmapsets/392909#taiko/855362)
+  - [arai tasuku - Dear Alice (yea) \[Dear Oni\]](https://osu.ppy.sh/beatmapsets/1003560#taiko/2100446)
+  - [Hermit - Dysnomia (Volta) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/556502#taiko/1177734)
+- HardRock
+  - [Umeboshi Chazuke - Run\*2 Run To You!! (steven1) \[\*Run Oni\]](https://osu.ppy.sh/beatmapsets/583741#taiko/1235211)
+  - [Hana to Onyx - Ariadne (Y O U T A) \[Inner Aria\]](https://osu.ppy.sh/beatmapsets/584627#taiko/1236880)
+  - [HyuN - The Apocalypse (Capu) \[Apocalyptic Oni\]](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660)
+- DoubleTime
+  - [Dschinghis Khan - Moskau (Camellia's Handzup Bootleg) (Rhytoly) \[Moskau! Moskau!\]](https://osu.ppy.sh/beatmapsets/987752#taiko/2066352)
+  - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
+  - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
+- FreeMod
+  - [Nightmare - Boulafacet (Skull Kid) \[Madness\]](https://osu.ppy.sh/beatmapsets/758439#taiko/1595346)
+  - [REDALiCE vs MASAKI - BUCHiGiRE Berserker (Taka030) \[† DJ MOKOJI †\]](https://osu.ppy.sh/beatmapsets/928561#taiko/1939492)
+  - [Chroma - Dark Sheep (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/538262#taiko/1140286)
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment (rubies87) \[1.414 Hz\]](https://osu.ppy.sh/beatmapsets/978872#taiko/2048459)**
+
 #### Semifinals
 
 **[Download the map pack here! (100 MB)](https://mega.nz/#!NxUgTCyB!dta67Igzg7Vo1zlrSzUzIHtjEx3rBt7symJwOLHv50E)**
