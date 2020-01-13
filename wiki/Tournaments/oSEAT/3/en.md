@@ -335,7 +335,7 @@ Wednesday, 18 December 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| I3 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/mp/57060559) |
+| I3 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/57060559) |
 
 Thursday, 19 December 2019:
 
@@ -478,7 +478,7 @@ Saturday, 28 December 2019:
 | K5 | **Rtyzen** ![][flag_SG] | **5** | 0 | ![][flag_SE] ExLuck | [#1](https://osu.ppy.sh/community/matches/57307688) |
 | E7 | kappuchino ![][flag_VN] | 1 | **5** | ![][flag_MY] **Computer Badger** | [#1](https://osu.ppy.sh/community/matches/57307590) |
 | L7 | mickeyparm ![][flag_TH] | 1 | **5** | ![][flag_VN] **Hoaq** | [#1](https://osu.ppy.sh/community/matches/57308394) |
-| L9 | Auxuelus ![][flag_MY] | 2 | **5** | ![][flag_VN] **Hoaq** | [#1](https://osu.ppy.sh/mp/57309206) |
+| L9 | Auxuelus ![][flag_MY] | 2 | **5** | ![][flag_VN] **Hoaq** | [#1](https://osu.ppy.sh/community/matches/57309206) |
 | K7 | xidorn ![][flag_PH] | 2 | **5** | ![][flag_MY] **Sano** | [#1](https://osu.ppy.sh/community/matches/57310523) |
 | H5 | **MioMilo** ![][flag_PH] | **5** | 0 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/57310516) |
 | B5 | **ShaneLiang** ![][flag_MY] | **5** | 2 | ![][flag_TH] UltimaticCatz | [#1](https://osu.ppy.sh/community/matches/57310512) |
@@ -531,8 +531,8 @@ Monday, 30 December 2019:
 | C8 | **gunadharika** ![][flag_ID] | **5** | 1 | ![][flag_VN] - Sheep - | [#1](https://osu.ppy.sh/community/matches/57362608) |
 | G9 | dika312 ![][flag_ID] | 2 | **5** | ![][flag_SG] **Rtzero** | [#1](https://osu.ppy.sh/community/matches/57363754) |
 | M9 | vernonlim ![][flag_MY] | 4 | **5** | ![][flag_SG] **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/57364051) | [#1](https://osu.ppy.sh/community/matches/57364051) |
-| P5 | **GSBlank** ![][flag_SG] | **5** | 4 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/mp/57363891) |
-| P9 | blufir\_ ![][flag_MY] | 1 | **5** | ![][flag_SG] **woahsia** | [#1](https://osu.ppy.sh/mp/57365371) |
+| P5 | **GSBlank** ![][flag_SG] | **5** | 4 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/57363891) |
+| P9 | blufir\_ ![][flag_MY] | 1 | **5** | ![][flag_SG] **woahsia** | [#1](https://osu.ppy.sh/community/matches/57365371) |
 
 Wednesday, 1 December 2019:
 
