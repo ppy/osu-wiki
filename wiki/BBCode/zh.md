@@ -90,7 +90,7 @@
 [color=HEXCODE] ... [/color]
 ```
 
-请参阅 [X11 颜色名称](https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E9%A2%9C%E8%89%B2#X11%E5%90%8D%E7%A7%B0) 以获取颜色名称的列表。
+请参阅 [X11 颜色名称](https://zh.wikipedia.org/wiki/网页颜色#X11名称) 以获取颜色名称的列表。
 
 ### 字体大小
 

@@ -107,7 +107,7 @@ BBCode에 사용되는 tag들은 대소문자 구분이 없습니다.
 [color=HEXCODE] ... [/color]
 ```
 
-색상의 리스트를 보시려면 [이 X11 color names 리스트를](https://ko.wikipedia.org/wiki/X11_%EC%83%89_%EC%9D%B4%EB%A6%84) 참조하시기 바랍니다.
+색상의 리스트를 보시려면 [이 X11 color names 리스트를](https://ko.wikipedia.org/wiki/X11_색_이름#색_이름_목록) 참조하시기 바랍니다.
 
 ### Font Size (텍스트 크기)
 
