@@ -290,7 +290,7 @@ Sunday, 12 January 2020:
 | **realshin** ![][flag_VN] | **6** | 2 | ![][flag_MY] blufir\_ | [#1](https://osu.ppy.sh/community/matches/57678127) |
 | **LoidKun** ![][flag_ID] | **6** | 3 | ![][flag_PH] MioMilo | [#1](https://osu.ppy.sh/community/matches/57679156) |
 
-Sunday, 13 January 2020:
+Monday, 13 January 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
