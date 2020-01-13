@@ -31,9 +31,10 @@ Untuk contoh (perhatikan urutan kodenya):
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
-```
-[b] ... [/b]
-```
+
+  ```
+  [b] ... [/b]
+  ```
 
 ### Italic
 
@@ -43,9 +44,10 @@ Untuk contoh (perhatikan urutan kodenya):
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan akan melemahkan efektivitas penekanan.
 - Sintaks:
-```
-[i] ... [/i]
-```
+
+  ```
+  [i] ... [/i]
+  ```
 
 ### Underline
 
@@ -55,9 +57,10 @@ Untuk contoh (perhatikan urutan kodenya):
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
-```
-[u] ... [/u]
-```
+
+  ```
+  [u] ... [/u]
+  ```
 
 ### Strike
 
@@ -69,9 +72,10 @@ Untuk contoh (perhatikan urutan kodenya):
 - Catatan:
   - Gunakan seperlunya. Penggunaan berlebihan dapat membuat teks sulit dibaca.
 - Sintaks:
-```
-[strike] ... [/strike]
-```
+
+  ```
+  [strike] ... [/strike]
+  ```
 
 ### Colour
 
@@ -89,9 +93,10 @@ Untuk contoh (perhatikan urutan kodenya):
   - Dimana `HEXCODE` adalah warna dalam bentuk hexadecimal atau nama warna.
     - Untuk hexadecimal, harus dimulai dengan `#`, kemudian diikuti 6 angka hexadecimal (0 - 9, A - F) karakter.
     - Untuk nama warna, itu haruslah warna html yang valid.
-```
-[color=HEXCODE] ... [/color]
-```
+
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
 Untuk melihat daftar warna, silahkan lihat [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
 
@@ -111,9 +116,10 @@ Menyesuaikan ukuran teks secara relatif.
   - `NUMBER` tidak boleh menggunakan tanda kutip.
 - Sintaks:
   - Dimana `NUMBER` adalah salah satu ukuran yang tercantum diatas (`50`, `85`, `100`, atau `150`).
-```
-[size=NUMBER] ... [/size]
-```
+
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
 ### Spoiler
 
@@ -127,9 +133,10 @@ Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, 
 - Catatan:
   - Jika Anda menggunakan [colour](#colour) tag bersamaan dengan ini, warna background tidak akan berubah dan tetap dengan warna hitam.
 - Sintaks:
-```
-[spoiler] ... [/spoiler]
-```
+
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
 ### Spoilerbox
 
@@ -141,11 +148,12 @@ Ini sangat bermanfaat saat Anda membicarakan adegan kritis pada acara TV, film, 
 - Catatan:
   - Tombol ini akan membuat sebuah [Box](#box) berisikan teks yang berjudul `collapsed text`.
 - Sintaks:
-```
-[spoilerbox]
-...
-[/spoilerbox]
-```
+
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
 ### Box
 
@@ -163,11 +171,12 @@ Ini biasanya digunakan untuk menyembunyikan gambar berukuran besar atau gambar y
   - `NAME` boleh menggunakan spasi.
 - Sintaks:
   - Dimana `NAME` adalah nama dari box tersebut.
-```
-[box=NAME]
-...
-[/box]
-```
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
 ### Quote
 
@@ -181,11 +190,12 @@ Digunakan untuk mengutip sebuah kalimat atau paragraf.
     - Jika Anda menggunakan ini, post (jika Anda menekan `Post`) akan di posting di thread sekarang.
 - Sintaks:
   - Dimana `NAME` adalah nama dari box (**harus** dilengkapi dengan tanda kutip).
-```
-[quote=NAME]
-...
-[/quote]
-```
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
 
 ### Code
 
@@ -196,11 +206,12 @@ Format teks dengan bentuk monospaced font-family dan letaknya didalam box abu-ab
   - Setiap kata akan menjaga jarak spasi-nya, ini berarti bahwa tidak ada baris kata yang akan rusak kecuali Anda yang merusaknya.
   - Baris kata yang banyak akan otomatis membentuk scroll box secara horizontal.
 - Sintaks:
-```
-[code]
-...
-[/code]
-```
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
 
 ### Centre
 
@@ -210,11 +221,12 @@ Memindahkan paragraf atau kalimat ke tengah; Ini biasanya digunakan untuk mengub
 - Catatan:
   - Tag **harus** dieja `centre` bukan `center` (perhatikan dua huruf terakhir).
 - Sintaks:
-```
-[centre]
-...
-[/centre]
-```
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
 
 ### URL
 
@@ -228,9 +240,10 @@ Anda tidak perlu memerlukan tag ini jika Anda tidak ingin menggunakan tautan tek
 - Sintaks:
   - Dimana `LINK` adalah Url.
   - Dimana `TEXT` adalah teks dari tautan tersebut.
-```
-[url=LINK]TEXT[/url]
-```
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
 
 ### Profile
 
@@ -247,9 +260,10 @@ Contoh penggunaan Nomor ID User `https://osu.ppy.sh/users/2` dimana angka `2` it
   - `USER` argument harus didefinisikan.
 - Sintaks:
   - Dimana `USER` adalah nama dari user tersebut.
-```
-[profile]USER[/profile]
-```
+
+  ```
+  [profile]USER[/profile]
+  ```
 
 ### Google
 
@@ -260,9 +274,10 @@ Otomatis Menautkan teks yang disoroti ke Google Search.
   - Ketahuilah ini tidak akan memberikan hasil yang sama kepada semua orang.
     - Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
 - Sintaks:
-```
-[google]...[/google]
-```
+
+  ```
+  [google]...[/google]
+  ```
 
 ### Lucky
 
@@ -273,9 +288,10 @@ Otomatis Menautkan teks yang disoroti ke Google Search.
   - Ketahuilah ini tidak akan memberikan hasil yang sama kepada semua orang.
     - Beberapa hasil pencarian mungkin tersembunyi karena masalah bahasa/lokasi.
 - Sintaks:
-```
-[lucky]...[/lucky]
-```
+
+  ```
+  [lucky]...[/lucky]
+  ```
 
 ### List
 
@@ -303,11 +319,12 @@ Bullets ialah simbol yang berbentuk sebuah peluru, sedangkan Wrapper ialah membu
 - Sintaks:
   - Dimana `TYPE` adalah salah satu tipe daftar diatas.
   - Jika `TYPE` tidak digunakan, bullets standar akan digunakan sebagai gantinya.
-```
-[list=TYPE]
-[*]...
-[/list]
-```
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
 
 ### Image
 
@@ -324,9 +341,10 @@ Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.co
   - Jika Anda memiliki banyak gambar atau gambar berukuran besar, sangat direkomendasikan meletakkannya di dalam [Box](#box).
 - Sintaks:
   - Dimana `LINK` adalah tautan langsung dari gambar tersebut.
-```
-[img]LINK[/img]
-```
+
+  ```
+  [img]LINK[/img]
+  ```
 
 ### YouTube
 
@@ -338,9 +356,10 @@ Menambahkan YouTube video di dalam post.
 - Sintaks:
   - Dimana `VIDEO_ID` adalah YouTube video ID (11 huruf panjang), **bukan** seluruh URLnya!
     - YouTube video ID terletak setelah bagian `?v=` url parameter.
-```
-[youtube]VIDEO_ID[/youtube]
-```
+
+  ```
+  [youtube]VIDEO_ID[/youtube]
+  ```
 
 ### Heading (v1)
 
@@ -350,9 +369,10 @@ Menambahkan teks berukuran besar berwarna merah muda. Ini biasanya ditujukan unt
 - Catatan:
   - Anda harus mengetik sendiri sintaks ini.
 - Sintaks:
-```
-[heading]...[/heading]
-```
+
+  ```
+  [heading]...[/heading]
+  ```
 
 ### Heading (v2)
 
@@ -364,9 +384,10 @@ Menambahkan teks berukuran besar warna ungu dengan garis horizontal dibawah (und
   - Hasilnya akan kelihatan setelah memposting, bukan melalui preview.
   - Anda harus mengetik sendiri sintaks ini.
 - Sintaks:
-```
-[...]
-```
+
+  ```
+  [...]
+  ```
 
 ### Notice
 
@@ -376,11 +397,12 @@ Meletakkan teks di dalam kotak putih.
 - Catatan:
   - Anda harus mengetik sendiri sintaks ini.
 - Sintaks:
-```
-[notice]
-...
-[/notice]
-```
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
 
 ## Trivia
 

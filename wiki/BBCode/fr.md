@@ -31,9 +31,10 @@ Par exemple (faire attention à l'ordre du code) :
 - Notes :
   - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
 - Syntaxe :
-```
-[b] ... [/b]
-```
+
+  ```
+  [b] ... [/b]
+  ```
 
 ### Italique
 
@@ -43,9 +44,10 @@ Par exemple (faire attention à l'ordre du code) :
 - Notes :
   - A utiliser avec parcimonie. Une utilisation abusive affaiblira l'efficacité.
 - Syntaxe :
-```
-[i] ... [/i]
-```
+
+  ```
+  [i] ... [/i]
+  ```
 
 ### Soulignement
 
@@ -55,9 +57,10 @@ Par exemple (faire attention à l'ordre du code) :
 - Notes :
   - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
 - Syntaxe :
-```
-[u] ... [/u]
-```
+
+  ```
+  [u] ... [/u]
+  ```
 
 ### Rayé
 
@@ -69,9 +72,10 @@ Par exemple (faire attention à l'ordre du code) :
 - Notes :
   - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
 - Syntaxe :
-```
-[strike] ... [/strike]
-```
+
+  ```
+  [strike] ... [/strike]
+  ```
 
 ### Couleur
 
@@ -89,9 +93,10 @@ Par exemple (faire attention à l'ordre du code) :
   - Où `HEXCODE` est un nom de couleur ou son code hexadécimal  Where `HEXCODE` is a colour in hexadecimal or colour name.
     - Pour le code hexadécimal, il doit commencer par `#` suivit par 6 caractères hexadécimal (0 - 9, A - F).
     - Pour le nom de couleur, il doit s'agir d'une couleur HTML valide.
-```
-[color=HEXCODE] ... [/color]
-```
+
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
 Pour une liste du nom des couleurs, voyez [noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS).
 
@@ -111,9 +116,10 @@ Ajuste relativement la taille du texte.
   - L'argument `NUMBER` ne doit pas être entourés de guillemets.
 - Syntax :
   - Où `NUMBER` est une des tailles suivantes (`50`, `85`, `100`, ou `150`) Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
-```
-[size=NUMBER] ... [/size]
-```
+
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
 ### Spoiler
 
@@ -127,9 +133,10 @@ Cela peut être utile si vous parlez d'une scène critique dans une émission de
 - Notes :
   - Si vous utilisez une balise de [couleur](#couleur) avec un spoiler, la couleur sera utilisé avec un fond noir.
 - Syntaxe :
-```
-[spoiler] ... [/spoiler]
-```
+
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
 ### Spoiler déroulant
 
@@ -141,11 +148,12 @@ Cela peut être utile si vous parlez d'une scène critique dans une émission de
 - Notes :
   - Cela créera une [boite](#boite) surmonté d'un texte "Spoiler".
 - Syntaxe :
-```
-[spoilerbox]
-...
-[/spoilerbox]
-```
+
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
 ### Boite
 
@@ -163,11 +171,12 @@ Celles-ci sont couramment utilisées pour masquer de grandes images ou une grand
   - L'argument `NAME` peut contenir des espaces.
 - Syntax :
   - Où `NAME` est le nom de la boite
-```
-[box=NAME]
-...
-[/box]
-```
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
 ### Citation
 
@@ -181,11 +190,12 @@ Fait une citation du mot/paragraphe donné.
     - Si vous venez de le faire, le message (quand vous cliquez sur `Poster`) sera posté dans le sujet courant.
 - Syntaxe :
   - Où `NAME` est le nom de la boite (**doit** être entre guillemets).
-```
-[quote=NAME]
-...
-[/quote]
-```
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
 
 ### Code
 
@@ -196,11 +206,12 @@ Formatte le texte pour le placer dans une boite grise. C'est utile quand vous vo
   - This will preserve white spacing, this means that none of the lines will break unless you break it.
   - Les lignes de texte débordantes activeront une boîte de défilement horizontale.
 - Syntax :
-```
-[code]
-...
-[/code]
-```
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
 
 ### Centrer
 
@@ -210,11 +221,12 @@ Aligne centralement un paragraphe; c'est typiquement utilisé pour les titres.
 - Notes :
   - La balise **doit** être écrite  `centre` et pas `center` (changement entre les deux dernières lettres).
 - Syntax :
-```
-[centre]
-...
-[/centre]
-```
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
 
 ### URL
 
@@ -228,9 +240,10 @@ Vous ne devez pas utiliser cette balise si vous ne voulez pas envoyer un lien. L
 - Syntax :
   - Où `LINK` est l'url.
   - Où `TEXT` est le texte du lien.
-```
-[url=LINK]TEXT[/url]
-```
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
 
 ### Profil
 
@@ -246,9 +259,10 @@ Il est recommandé d'utiliser [URL](#url) à la place (en utilisant l'id de l'ut
   - L'argument `USER` doit être défini
 - Syntax :
   - Où `USER` est le nom de l'utilisateur. is the name of the user.
-```
-[profile]USER[/profile]
-```
+
+  ```
+  [profile]USER[/profile]
+  ```
 
 ### Google
 
@@ -259,9 +273,10 @@ Génère des liens automatiques vers une requête Google Search en utilisant le 
   - Sachez que cela ne donnera pas le même résultat chez tous les utilisateurs.
     - Des résultats sont inaccessibles à cause de la langue/région.
 - Syntax :
-```
-[google]...[/google]
-```
+
+  ```
+  [google]...[/google]
+  ```
 
 ### Chance
 
@@ -272,9 +287,10 @@ Génère des liens automatiques vers une requête Google Search en utilisant le 
   - Sachez que cela ne donnera pas le même résultat chez tous les utilisateurs.
     - Des résultats sont inaccessibles à cause de la langue/région.
 - Syntax :
-```
-[lucky]...[/lucky]
-```
+
+  ```
+  [lucky]...[/lucky]
+  ```
 
 ### Liste
 
@@ -301,11 +317,12 @@ Dans le BBCode, il y a deux manières de faire une liste : l'emballage et les pu
 - Syntaxe :
   - Où le `TYPE` est un de ceux listés ci-dessus.
   - Si le `TYPE` n'est pas défini, utilisation des puces à la place.
-```
-[list=TYPE]
-[*]...
-[/list]
-```
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
 
 ### Image
 
@@ -322,9 +339,10 @@ Télécharger vos images sur des site de partage d'image réputés, tel que [img
   - Si vous avez beaucoup d'image ou des images larges, il est recommandé de les mettre dans une [Boite](#boite).
 - Syntax :
   - Où `LINK` est un lien direct vers une image.
-```
-[img]LINK[/img]
-```
+
+  ```
+  [img]LINK[/img]
+  ```
 
 ### YouTube
 
@@ -336,9 +354,10 @@ Intègre une vidéo Youtube à votre message.
 - Syntax :
   - Où `VIDEO_ID` est l'id de la vidéo youtube (11 caractères), et **pas** l'url complète.
     - L'id d'une vidéo youtube est après le paramètre `?v=` de l'url.
-```
-[youtube]VIDEO_ID[/youtube]
-```
+
+  ```
+  [youtube]VIDEO_ID[/youtube]
+  ```
 
 ### Titre (v1)
 
@@ -349,9 +368,10 @@ Ceci est généralement utilisé pour désigner une nouvelle section de votre me
 - Notes :
   - Vous devez taper la syntaxe vous-même.
 - Syntaxe :
-```
-[heading]...[/heading]
-```
+
+  ```
+  [heading]...[/heading]
+  ```
 
 ### Titre (v2)
 
@@ -363,9 +383,10 @@ Ajoute un gros titre violet fantaisiste avec une barre horizontale en dessous. C
   - Cela apparait seulement après avoir posté le message, et non dans l'aperçu.
   - Vous devez taper la syntaxe vous-même.
 - Syntax :
-```
-[...]
-```
+
+  ```
+  [...]
+  ```
 
 ### Notes
 
@@ -375,11 +396,12 @@ Met le paragraphe dans une boite blanche.
 - Notes :
   - Vous devez taper la syntaxe vous-même.
 - Syntax :
-```
-[notice]
-...
-[/notice]
-```
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
 
 ## Trivia
 

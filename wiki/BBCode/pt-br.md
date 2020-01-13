@@ -40,9 +40,10 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-```prolog
-[b] ... [/b]
-```
+
+  ```
+  [b] ... [/b]
+  ```
 
 ### Itálico
 
@@ -52,9 +53,10 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo irá enfraquecer a efetividade da ênfase.
 - Sintaxe:
-```prolog
-[i] ... [/i]
-```
+
+  ```
+  [i] ... [/i]
+  ```
 
 ### Underline
 
@@ -64,9 +66,10 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-```prolog
-[u] ... [/u]
-```
+
+  ```
+  [u] ... [/u]
+  ```
 
 ### Strike
 
@@ -78,9 +81,10 @@ Por exemplo (preste atenção à ordem do código):
 - Notes:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-```prolog
-[strike] ... [/strike]
-```
+
+  ```
+  [strike] ... [/strike]
+  ```
 
 ### Coloração
 
@@ -98,9 +102,10 @@ Por exemplo (preste atenção à ordem do código):
   - Onde `HEXCODE` é um código da cor em hexadecimal ou nome da cor.
     - Para hexadecimais, deverá começar com `#`, seguido de seis caracteres hexadecimais (0 - 9, A - F).
     - Para nomes de cores, precisará ser uma cor válida em HTML.
-```prolog
-[color=HEXCODE] ... [/color]
-```
+
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
 Para a lista de nomes de cores, veja [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
 
@@ -121,9 +126,10 @@ Ajusta o tamanho do texto relativamente.
   - O argumento `NUMBER` não deve usar apóstrofos.
 - Sintaxe:
   - Onde `NUMBER` é um dos valores citados acima (`50`, `85`, `100` ou `150`).
-```prolog
-[size=NUMBER] ... [/size]
-```
+
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
 ### Spoiler
 
@@ -138,9 +144,10 @@ O leitor, de qualquer forma, ainda poderá ler o texto ao selecioná-lo com um m
 - Avisos:
   - Se você utilizar a tag de [Coloração](#coloração) em conjunto com essa, a cor será utilizada no texto com um fundo preto.
 - Sintaxe:
-```prolog
-[spoiler] ... [/spoiler]
-```
+
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
 ### Spoilerbox
 
@@ -153,11 +160,12 @@ O leitor ainda poderá, de qualquer forma, ler o parágrafo ao clicar na Spoiler
 - Avisos:
   - Isso criará uma [Caixa](#box) com o cabeçalho de um `texto colapsado`.
 - Sintaxe:
-```prolog
-[spoilerbox]
-...
-[/spoilerbox]
-```
+
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
 ### Caixa
 
@@ -176,11 +184,12 @@ Elas são geralmente usadas para esconder imagens grandes ou uma grande quantida
   - O argumento `NAME` não pode conter espaços.
 - Sintaxe:
   - Onde `NAME` é o nome da caixa.
-```prolog
-[box=NAME]
-...
-[/box]
-```
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
 ### Citação
 
@@ -194,11 +203,12 @@ Formata a palavra/parágrafo como citação.
     - Se fizer isso, a postagem também incluirá a citação do texto quando você a enviar (clicando em `Post`).
 - Sintaxe:
   - Onde `NAME` é o nome para a caixa (**precisa** ser cercado com apóstrofos).
-```prolog
-[quote=NAME]
-...
-[/quote]
-```
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
 
 ### Código
 
@@ -210,11 +220,12 @@ Formata o texto com uma fonte da família monospaced e o coloca dentro de uma ca
   - Os espaços em branco do texto serão preservados, o que significa que todas as quebras de linha não funcionarão a não ser que você mesmo faça isso.
   - Linhas de texto que ultrapassem o tamanho da postagem habilitarão uma barra de rolagem horizontal.
 - Sintaxe:
-```prolog
-[code]
-...
-[/code]
-```
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
 
 ### Centralizar
 
@@ -224,11 +235,12 @@ Centraliza o alinhamento de um parágrafo; isso é tipicamente usados para títu
 - Avisos:
   - As tags **precisam** ser escritas como `centre` e não `center` (preste atenção às duas últimas letras das palavras).
 - Sintaxe:
-```prolog
-[centre]
-...
-[/centre]
-```
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
 
 ### URL
 
@@ -243,9 +255,10 @@ Os fóruns do osu! automaticamente criarão um link para URLs inseridas em uma p
 - Sintaxe:
   - Onde `LINK` é o URL.
   - Onde `TEXT` é o texto do link.
-```prolog
-[url=LINK]TEXT[/url]
-```
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
 
 ### Perfil
 
@@ -263,9 +276,10 @@ Uma vez que eles o façam, o seu link irá quebrar.
   - O argumento `USER` **tem** que ser definido.
 - Sintaxe:
   - Onde `USER` é o nome do usuário.
-```prolog
-[profile]USER[/profile]
-```
+
+  ```
+  [profile]USER[/profile]
+  ```
 
 ### Google
 
@@ -275,9 +289,10 @@ Automaticamente cria um link para uma pesquisa do Google utilizando o texto prov
 - Avisos:
   - Saiba que a pesquisa não irá retornar os mesmos resultados para todo mundo; alguns resultados da pesquisa podem não ser mostrados devido à linguagem ou localização.
 - Sintaxe:
-```prolog
-[google]...[/google]
-```
+
+  ```
+  [google]...[/google]
+  ```
 
 ### Lucky
 
@@ -287,9 +302,10 @@ Automaticamente cria um link para uma pesquisa do Google utilizando o texto prov
 - Avisos:
   - Saiba que a pesquisa não irá retornar os mesmos resultados para todo mundo; alguns resultados da pesquisa podem não ser mostrados devido à linguagem ou localização.
 - Sintaxe:
-```prolog
-[lucky]...[/lucky]
-```
+
+  ```
+  [lucky]...[/lucky]
+  ```
 
 ### Lista
 
@@ -315,12 +331,13 @@ No BBCode, existem duas partes na construção de uma lista: o contêiner e os m
 - Sintaxe:
   - Onde `TYPE` é um dos tipos de lista citados acima.
   - Se um `TYPE` não for definido, a marcação padrão será utilizada.
-```prolog
-[list=TYPE]
-[*] ITEM
-[*] ITEM...
-[/list]
-```
+
+  ```
+  [list=TYPE]
+  [*] ITEM
+  [*] ITEM...
+  [/list]
+  ```
 
 ### Imagem
 
@@ -342,9 +359,10 @@ Sites específicos para compartilhamento de imagens, como os que foram citados n
   - Se a sua imagem for grande ou se você tiver muitas imagens, é recomendado que você as coloque dentro de uma [Caixa](#box).
 - Sintaxe:
   - Onde `LINK` é um link direto para a imagem.
-```prolog
-[img]LINK[/img]
-```
+
+  ```
+  [img]LINK[/img]
+  ```
 
 ### Youtube
 
@@ -356,9 +374,10 @@ Insere um vídeo do Youtube na sua postagem.
 - Sintaxe:
   - Onde `YT-ID` é somente o ID do vídeo (11 characters long), **não** a URL toda!
     - O ID do vídeo pode ser encontrado após o parâmetro `?v=` na URL.
-```prolog
-[youtube]YT-ID[/youtube]
-```
+
+  ```
+  [youtube]YT-ID[/youtube]
+  ```
 
 ### Cabeçalho (v1)
 
@@ -369,9 +388,10 @@ Isso geralmente é utilizado para denotar uma nova seção na sua postagem.
 - Aviso:
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-```prolog
-[heading]...[/heading]
-```
+
+  ```
+  [heading]...[/heading]
+  ```
 
 ### Cabeçalho (v2)
 
@@ -384,9 +404,10 @@ Isso geralmente é utilizado para denotar uma nova sub-seção na sua postagem.
   - Aparece **somente após a postagem** e não no modo de preview.
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-```prolog
-[...]
-```
+
+  ```
+  [...]
+  ```
 
 ### Alerta
 
@@ -396,11 +417,12 @@ Coloca o parágrafo dentro de uma caixa branca.
 - Avisos:
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-```prolog
-[notice]
-...
-[/notice]
-```
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
 
 ## Conhecimentos gerais
 

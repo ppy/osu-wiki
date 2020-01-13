@@ -38,11 +38,12 @@ Por ejemplo (presta atención al orden del código):
 
 - Botón dedicado: ![Botón negrita](img/bold.png)
 - Notas:
-   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
+  - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```
-[b] ... [/b]
-```
+
+  ```
+  [b] ... [/b]
+  ```
 
 ### Cursiva
 
@@ -52,9 +53,10 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
-```
-[i] ... [/i]
-```
+
+  ```
+  [i] ... [/i]
+  ```
 
 ### Subrayado
 
@@ -64,9 +66,10 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```
-[u] ... [/u]
-```
+
+  ```
+  [u] ... [/u]
+  ```
 
 ### Tachado
 
@@ -76,13 +79,16 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-```
-[strike] ... [/strike]
-```
+
+  ```
+  [strike] ... [/strike]
+  ```
+
   - Alternativamente, se puede utilizar:
-```
-[s] ... [/s]
-```
+
+    ```
+    [s] ... [/s]
+    ```
 
 ### Color
 
@@ -102,9 +108,10 @@ Por ejemplo (presta atención al orden del código):
   - Donde `HEXCODE` es un color en hexadecimal o nombre de color.
     - Para hexadecimal, debe comenzar con `#`, seguido por 6 caracteres hexadecimales (0 - 9, A - F).
     - Para el nombre del color, debe ser un color HTML válido.
-```
-[color=HEXCODE] ... [/color]
-```
+
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
 Para obtener una lista de nombres de color, consulta [nombres de color X11](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
 
@@ -124,9 +131,10 @@ Ajusta relativamente el tamaño del texto.
   - El argumento `NUMBER` no debe usar comillas.
 - Sintaxis:
   - Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
-```
-[size=NUMBER] ... [/size]
-```
+
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
 ### Spoiler
 
@@ -141,9 +149,10 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 - Notas:
   - Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
-```
-[spoiler] ... [/spoiler]
-```
+
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
 ### Caja spoiler
 
@@ -156,11 +165,12 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 - Notas:
   - Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
 - Sintaxis:
-```
-[spoilerbox]
-...
-[/spoilerbox]
-```
+
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
 ### Caja
 
@@ -178,12 +188,13 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
   - El argumento `NAME` no debe usar comillas.
   - El argumento `NAME` puede contener espacios.
 - Sintaxis:
-  -  `NAME` será el nombre de la caja.
-```
-[box=NAME]
-...
-[/box]
-```
+  - `NAME` será el nombre de la caja.
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
 ### Cita
 
@@ -197,11 +208,12 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
     - Si hiciste esto, el mensaje (cuando hagas clic en `Post`) se publicará en el hilo actual.
 - Sintaxis:
   - `NAME` es a quién/qué se citará (**debe** ir entre comillas).
-```
-[quote=NAME]
-...
-[/quote]
-```
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
 
 ### Código
 
@@ -210,13 +222,14 @@ Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de
 - Botón dedicado: *ninguno*
 - Notas:
   - Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
-  -  El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
+  - El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
 - Sintaxis:
-```
-[code]
-...
-[/code]
-```
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
 
 ### Centrar
 
@@ -226,11 +239,12 @@ Alinear un párrafo al centro; típicamente para títulos o encabezados.
 - Notas:
   - Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
-```
-[centre]
-...
-[/centre]
-```
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
 
 ### URL
 
@@ -245,9 +259,10 @@ Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje
 - Sintaxis:
   - `ENLACE` es la url.
   - Donde `TEXTO` es el texto del enlace.
-```
-[url=ENLACE]TEXTO[/url]
-```
+
+  ```
+  [url=ENLACE]TEXTO[/url]
+  ```
 
 ### Perfil
 
@@ -262,10 +277,11 @@ Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identif
   - ¡No recomendado!
   - El argumento `USER` tiene que estar definido.
 - Sintaxis:
-  -  `USER` es el nombre del usuario.
-```
-[profile]USUARIO[/profile]
-```
+  - `USER` es el nombre del usuario.
+
+  ```
+  [profile]USUARIO[/profile]
+  ```
 
 ### Google
 
@@ -276,9 +292,10 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-```
-[google] ... [/google]
-```
+
+  ```
+  [google] ... [/google]
+  ```
 
 ### Suerte
 
@@ -289,9 +306,10 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-```
-[lucky] ... [/lucky]
-```
+
+  ```
+  [lucky] ... [/lucky]
+  ```
 
 ### Lista
 
@@ -307,22 +325,23 @@ Los puntos se colocan dentro de la envoltura.
 - Notas:
   - Todos los puntos deben estar rodeados por las etiquetas de tipo lista / lista.
   - Estos son los argumentos válidos para `TYPE`:
-    -  *(vacío)* - con puntos
-    -  `1` - numerado
-    -  `a` - letras (minúsculas)
-    -  `A` - letras (mayúsculas)
-    -  `i` - numeral romano (minúsculas)
-    -  `I` - numeral romano (mayúsculas)
+    - *(vacío)* - con puntos
+    - `1` - numerado
+    - `a` - letras (minúsculas)
+    - `A` - letras (mayúsculas)
+    - `i` - numeral romano (minúsculas)
+    - `I` - numeral romano (mayúsculas)
   - De forma predeterminada, las listas con puntos utilizan puntos cuadrados.
   - Las listas dentro de otras listas suelen traer problemas con el formato.
 - Sintaxis:
   - Cuando `TYPE` sea uno de los tipos definidos más arriba.
   - Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
-```
-[list=TYPE]
-[*] ...
-[/list]
-```
+
+  ```
+  [list=TYPE]
+  [*] ...
+  [/list]
+  ```
 
 ### Imagen
 
@@ -341,9 +360,10 @@ También ten en cuenta que algunos sitios web no aceptan los enlaces directos a 
   - Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
   - `LINK` es un enlace directo a una imagen.
-```
-[img]LINK[/img]
-```
+
+  ```
+  [img]LINK[/img]
+  ```
 
 ### YouTube
 
@@ -355,9 +375,10 @@ Incluye un vídeo de YouTube en tu publicación.
 - Sintaxis:
   - `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
     - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
-```
-[youtube]YT-ID[/youtube]
-```
+
+  ```
+  [youtube]YT-ID[/youtube]
+  ```
 
 ### Encabezado (v1)
 
@@ -368,9 +389,10 @@ Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 - Notas:
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```
-[heading] ... [/heading]
-```
+
+  ```
+  [heading] ... [/heading]
+  ```
 
 ### Encabezado (v2)
 
@@ -383,9 +405,10 @@ Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
   - Esto sólo aparece después de la publicación, no en la vista previa.
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```
-[...]
-```
+
+  ```
+  [...]
+  ```
 
 ### Anuncio
 
@@ -395,11 +418,12 @@ Coloca el párrafo dentro de un cuadro blanco.
 - Notas:
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-```
-[notice]
-...
-[/notice]
-```
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
 
 ### Trivia
 
