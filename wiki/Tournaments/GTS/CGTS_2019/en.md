@@ -145,6 +145,28 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 
 ---
 
+## Match schedule: Finals (Global phase)
+
+### Saturday, 18 January 2020
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| F-W1 | Asia | Europe | **12:00** |
+
+### Sunday, 19 January 2020
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| F-L1 | Oceania/South East Asia | North America | **03:00** |
+| F-L2a¹ | Asia | Oceania/South East Asia | **13:00** |
+| F-L2b¹ | Asia | North America | **05:00** |
+| F-L2c¹ | Europe | Oceania/South East Asia | **13:00** |
+| F-L2d¹ | Europe | North America | **18:00** |
+
+¹ Encounter dependent on loser of Match **F-W1** and winner of Match **F-L1**
+
+---
+
 ## Mappools
 
 ### Global phase
