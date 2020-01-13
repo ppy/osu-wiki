@@ -439,15 +439,15 @@ Saturday, 11 January 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/mp/57646946) |
-| **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/mp/57648516) |
+| **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/57646946) |
+| **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/community/matches/57648516) |
 
 Sunday, 12 January 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Asia** | **7** | 1 | Oceania/South East Asia | [#1](https://osu.ppy.sh/mp/57672041) |
-| **North America** | **7** | 2 | South America | [#1](https://osu.ppy.sh/mp/57682937) |
+| **Asia** | **7** | 1 | Oceania/South East Asia | [#1](https://osu.ppy.sh/community/matches/57672041) |
+| **North America** | **7** | 2 | South America | [#1](https://osu.ppy.sh/community/matches/57682937) |
 
 ### Regional phase
 
