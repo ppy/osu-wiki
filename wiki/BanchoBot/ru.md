@@ -22,7 +22,7 @@ outdated: true
 
 ### HELP
 
-```text
+```
 !HELP
 ```
 
@@ -30,7 +30,7 @@ outdated: true
 
 #### Пример
 
-```text
+```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 BanchoBot: WHERE <user>
@@ -45,7 +45,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 ### ROLL
 
-```text
+```
 !ROLL <число>
 ```
 
@@ -53,14 +53,14 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 #### Пример
 
-```text
+```
 pippi: !roll 1000
 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ### STATS
 
-```text
+```
 !STATS <пользователь>
 ```
 
@@ -72,7 +72,7 @@ BanchoBot: pippi rolls 109 point(s)
 
 #### Примеры
 
-```text
+```
 pippi: !stats peppy
 BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
@@ -80,7 +80,7 @@ BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
 ```
 
-```text
+```
 pippi: !stats Ephemeral:
 BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
@@ -90,7 +90,7 @@ BanchoBot: Accuracy: 94.19%
 
 ### WHERE
 
-```text
+```
 !WHERE <пользователь>
 ```
 
@@ -100,14 +100,14 @@ BanchoBot: Accuracy: 94.19%
 
 #### Пример
 
-```text
+```
 pippi: !where Ephemeral
 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
-```text
+```
 !FAQ <статья>
 !FAQ list
 ```
@@ -116,12 +116,12 @@ BanchoBot: Ephemeral is in Australia
 
 #### Примеры
 
-```text
+```
 pippi: !faq peppy
 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-```text
+```
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
@@ -133,7 +133,7 @@ Tama: ok
 
 *Примечание: если вы хотите пожаловаться на действия модератора, вместо `REPORT` напишите на почту [support@ppy.sh](mailto:support@ppy.sh).*
 
-```text
+```
 !REPORT <пользователь> <причина>
 ```
 
@@ -145,7 +145,7 @@ Tama: ok
 
 #### Пример
 
-```text
+```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
