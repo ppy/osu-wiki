@@ -96,6 +96,33 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view)**
+
+- NoMod
+  - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](https://osu.ppy.sh/beatmapsets/331025#taiko/733432)
+  - [Rche - Todestrieb (FrenZ396) \[Impulse\]](https://osu.ppy.sh/beatmapsets/968678#taiko/2026835)
+  - [Kairiki bear feat. GUMI, Kagamine Rin - Inai Inai Isonshou (Wanko) \[Addiction\]](https://osu.ppy.sh/beatmapsets/932530#taiko/1946996)
+  - [yuikonnu - Ghost Rule (Len) \[Crier's Extra\]](https://osu.ppy.sh/beatmapsets/440650#taiko/959427)
+  - [M2U & NICODE - Lune (Taeyang) \[\[ -Scarlet- \]'s Extra\]](https://osu.ppy.sh/beatmapsets/417408#taiko/911537)
+- Hidden
+  - [brave elements - Massarani (Amiya) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/889525#taiko/1971136)
+  - [KEiNA - Karen Setsugetsuka (Artethia & Epsilon Remix) (Lasse) \[Skystar x fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/796468#taiko/1701907)
+  - [Ween - Ocean Man (Mismagius) \[MEMES LOL!!\]](https://osu.ppy.sh/beatmapsets/821880#taiko/1722561)
+- HardRock
+  - [LiSA - Tsumibito (Onlybiscuit) \[Sinner\]](https://osu.ppy.sh/beatmapsets/945516#taiko/2169604)
+  - [GLORYHAMMER - The Unicorn Invasion of Dundee (greenhue) \[SILENCEGREENHUE's Extra\]](https://osu.ppy.sh/beatmapsets/1072728#taiko/2246099)
+  - [Colorful Sounds Port - ETERNAL DRAIN (Lunala) \[wyrio's Extra\]](https://osu.ppy.sh/beatmapsets/946118#taiko/2009707)
+- DoubleTime
+  - [ChouCho - Kawaru Mirai (CelsiusLK) \[Insane\]](https://osu.ppy.sh/beatmapsets/278961#taiko/637739)
+  - [Memme - Marionette (Gamu) \[Kagetsu's Another\]](https://osu.ppy.sh/beatmapsets/690608#taiko/1503150)
+  - [KAMELOT - On the Coldest Winter Night (LMT) \[Winter Dreams\]](https://osu.ppy.sh/beatmapsets/1000995#taiko/2095186)
+- FreeMod
+  - [Camellia feat. Nanahira - PAPAYAPA BASS (Mir) \[Papayapa!\]](https://osu.ppy.sh/beatmapsets/529991#taiko/1123616)
+  - [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) \[Extra\]](https://osu.ppy.sh/beatmapsets/67133#taiko/195305)
+  - [SHK - Violet Perfume (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1010865#taiko/2115970)
+
 ### Round of 16
 
 **[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing)**
