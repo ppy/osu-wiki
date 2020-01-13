@@ -143,17 +143,15 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
----
-
 ## Match schedule: Finals (Global phase)
 
-### Saturday, 18 January 2020
+Saturday, 18 January 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
 | F-W1 | Asia | Europe | **12:00** |
 
-### Sunday, 19 January 2020
+Sunday, 19 January 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
@@ -164,8 +162,6 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | F-L2d¹ | Europe | North America | **18:00** |
 
 ¹ Encounter dependent on loser of Match **F-W1** and winner of Match **F-L1**
-
----
 
 ## Mappools
 
@@ -427,22 +423,20 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 - DoubleTime
   - [Kagamine Rin - Meltdown (ertyukjh010) \[KS's Taiko\]](https://osu.ppy.sh/beatmapsets/45672#taiko/151655)
 
----
-
 ## Match results
 
 ### Global phase
 
 #### Semifinals
 
-Saturday, 11 January 2020
+Saturday, 11 January 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/57646946) |
 | **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/community/matches/57648516) |
 
-Sunday, 12 January 2020
+Sunday, 12 January 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -689,8 +683,6 @@ Sunday, 10 November 2019:
 | Dayzeek ![][flag_RU] | 1 | **5** | ![][flag_FR] **Ectomic** | [#1](https://osu.ppy.sh/community/matches/56175654) |
 | Mills ![][flag_NO] | 0 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/56177248) |
 | cloudfags ![][flag_RU] | 4 | **5** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/56178883) |
-
----
 
 ## Ruleset
 
