@@ -266,7 +266,7 @@ The Overdose features 1/4 jumps in quick succession as well as pattern repetitio
 
 For those who like a faster challenge, there is yet another Overdose called "Conquest of the Damned". Do not be fooled with the lower star rating—this can provide the same, if not more, challenge then the other difficulty. Last of all, we have the remaining lower difficulties: Rain with its much calmer approach of patterns even though it does feature the same 1/4 rhythm, Platter with its lowered rhythm and even easier patterns still, and then we have Salad and Cup for those who just want to enjoy some dope cranky fruit catching.
 
-Be sure to tune in even if this is not your prefered game mode, this is a real treat!
+Be sure to tune in even if this is not your preferred game mode, this is a real treat!
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
@@ -338,7 +338,7 @@ Blocko's 7K difficulty is replete with relentless patterning that coordinates th
 
 [![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/flowers.jpg)](https://osu.ppy.sh/beatmapsets/962550)
 
-[-MysticEyes](https://osu.ppy.sh/users/6253266) outdoes himself once again with his lastest installment to the ranked section: in love with a ghost - flowers feat. nori, which is by far his most ambitious set to date, and a new approach that we haven't seen yet from him.
+[-MysticEyes](https://osu.ppy.sh/users/6253266) outdoes himself once again with his latest installment to the ranked section: in love with a ghost - flowers feat. nori, which is by far his most ambitious set to date, and a new approach that we haven't seen yet from him.
 
 Though the song may seem limiting through its simplicity alone, -MysticEyes is fully aware of this and takes full advantage of it by concrete concepts in the overall design of the map, such as pitch relevancy and repetition which ultimately carry the song much further than anyone could have really anticipated. On top of this, the set also features some other keymodes as well such as 6K, 7K, and even 9K for those looking to expand their horizons onto other keymodes, with [Leniane](https://osu.ppy.sh/users/7138602) mapping out the 6K difficulties, as well as [-mint-](https://osu.ppy.sh/users/8976576) and [Vortex-](https://osu.ppy.sh/users/4999669) having their own take on the song as well through their 7K difficulties.
 
