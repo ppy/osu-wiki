@@ -1,6 +1,9 @@
 ---
 tags:
-  - Keyboard shortcuts
+  - hotkey
+  - hotkeys
+  - keyboard
+  - shortcuts
 ---
 
 # Shortcut key reference
