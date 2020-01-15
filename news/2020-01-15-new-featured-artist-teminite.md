@@ -16,8 +16,10 @@ In an extra special surprise, two intrepid souls from the [Mappers' Guild](https
 
 Without further ado, check out [this wicked set](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) from [hypercyte](https://osu.ppy.sh/users/9155377) (also rhymes with **Teminite** by the way) which sports an ambient storyboard by the ever-talented [Noffy](https://osu.ppy.sh/users/1541323):
 
-<iframe width="90%" height="515" src="https://www.youtube-nocookie.com/embed/nJCJBB8RjQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div align="center">
+    <iframe width="90%" height="315" src="https://www.youtube-nocookie.com/embed/nJCJBB8RjQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 Still not convinced? Give these a listen:
 
 ### State of Mind
