@@ -16,8 +16,8 @@ There are many shortcuts in osu! that can be utilized while in-game or while idl
 
 These shortcuts work anywhere:
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Alt` + `F4` | Close the game client (no prompts). If in gameplay, beatmap editor, or osu!direct, go back to song selection or main menu (for osu!direct). |
 | `Alt` + `Up/Down Arrow` | Adjust the master volume, use the left and right arrows to adjust effect and music volumes. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Reload the current skin. If pressed during gameplay or at the results screen, this will be executed after returning to the song selection screen. |
@@ -34,15 +34,15 @@ These shortcuts work anywhere:
 
 ## Main menu
 
-| Shortcut | Description |
-| --- | --- |
-| `Alt` + `Enter` | Toggle fullscreen mode |
+| Shortcut | Action |
+| :-- | :-- |
+| `Alt` + `Enter` | Toggle fullscreen mode. |
 | `Up/Down Arrow` | Adjust the master volume, use the left and right arrows to adjust effect and music volumes. |
 | `Esc` | Go back or cancel. |
 | `P`, `E`, or `O` | Open the play menu. |
-| `P` thrice | Solo |
-| `P` twice, then `M` | [Multi](/wiki/Multi) |
-| `E` twice | Edit mode |
+| `P` three times | Enter Solo. |
+| `P` twice, then `M` | Enter [Multi](/wiki/Multi). |
+| `E` twice | Enter edit mode. |
 | `O` | Open the options sidebar. |
 | `Q` | Display the exit prompt. |
 | `Esc` | Display the exit prompt, when the options and play menu are closed. |
@@ -50,24 +50,24 @@ These shortcuts work anywhere:
 
 ### Jukebox
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Z` or `F1` | Play the previous song. |
-| `X` or `F2` | Play the song (if playing, start the song over). |
+| `X` or `F2` | Play the song. If playing, start the song over. |
 | `C` | Toggle pause and play. |
-| `F4` | Stop playing. (Resets the current time.) |
+| `F4` | Stop playing (resets the current time). |
 | `V` or `F5` | Play the next song. |
 | `J` or `F6`| Opens the jump to menu. |
 | `R` | Play a random song. |
 
 ## Song select
 
-*Note: Not all of these work in the multi mode's song select screen.*
+*Note: Not all of these work in the Multi mode's song select screen.*
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `F1` | Open the [game modifiers](/wiki/Game_Modifiers) selection menu. |
-| `F2` | Randomly select a beatmap |
+| `F2` | Randomly select a beatmap. |
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
@@ -97,46 +97,46 @@ These shortcuts work anywhere:
 
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Mod |
+| :-- | :-- |
 | `Q` | Easy |
 | `W` | No Fail |
 | `E` | Half Time |
 | `A` | Hard Rock |
 | `S` | Sudden Death |
-| `S`, then `S` | Perfect |
+| `S` twice | Perfect |
 | `D` | Double Time |
-| `D`, then `D` | Nightcore |
+| `D` twice | Nightcore |
 | `F` | Hidden (osu!standard, osu!taiko, and osu!catch) or Fade In (osu!mania)
-| `F`, then `F` | Hidden (osu!mania) |
+| `F` twice | Hidden (osu!mania) |
 | `G` | Flashlight |
 | `Z` | Relax (osu!standard, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
 | `X` | Auto Pilot (osu!standard) or Random (osu!mania) |
 | `C` | Spun Out (osu!standard) |
 | `V` | Auto |
-| `V`, then `V` | Cinema |
+| `V` twice | Cinema |
 | `B` | Score v2 |
 | `3` to `9` | 3K to 9K (osu!mania) |
 
 ## Play mode
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `+` or `-` | Adjust the local offset (hold `Alt` to change the precision). |
-| `Esc` | Pause gameplay or return to song selection if watching a replay or Auto or Cinema mod is used. |
+| `Esc` | Pause gameplay, or return to song selection if watching a replay or Auto or Cinema mod is used. |
 | `Space` | Skip to gameplay. |
 | `Tab` | Toggle the scoreboard. |
 | `Shift` + `Tab` | Toggle hiding of the in-game interface. |
 | `H` | Toggle hiding of the scoreboard and replay interface (when watching a replay or spectating). |
 | `F3` or `F4` | Adjust speed for osu!mania (can be used near the beginning of gameplay). |
-| `Ctrl` + `R` or `` ` `` | Must be held briefly. Quick retry the current map (skips the intro upon retry) |
+| `Ctrl` + `R` or `` ` `` | Must be held briefly. Quick retry the current map (skips the intro upon retry). |
 
 ## Replay mode
 
 *Notice: You must use the cuttingedge release stream to use these.*
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `5` | Pause the replay. |
 | `6` or `0` | Resume or set playback speed to 1x. |
 | `7` | Set playback speed to 2x. |
@@ -151,12 +151,12 @@ These shortcuts work anywhere:
 
 These shortcuts work anywhere within the beatmap editor:
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Z` | Jump to first note or start of song. |
 | `V` | Jump to last note or end of song. |
 | `X` | Play from the start. |
-| `C` or `Space` | Pause/resume |
+| `C` or `Space` | Pause or resume. |
 | `Left Arrow` or `Right Arrow` | Skip through the song. |
 | `Up Arrow` or `Down Arrow` | Skip between timing points. |
 | `Shift` + `Left Arrow` or `Shift` + `Right Arrow` | Skip through the song at 4x speed. |
@@ -182,8 +182,8 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Mouse
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Mouse Wheel Up/Down` | Seek forward/backward. |
 | `Shift` + `Mouse Wheel Up/Down` | Seek forward/backward at 4x. |
 | `Ctrl` + `Mouse Wheel Up/Down` | Adjust the snap divisor. |
@@ -194,32 +194,32 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Mouse
 
-| Shortcut | Description |
-| --- | --- |
-| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting) |
+| Shortcut | Action |
+| :-- | :-- |
+| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### General
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Alt` + `F4` or `Esc` | Return to song selection. |
-| `Ctrl` + `Z` | Undo |
-| `Ctrl` + `Y` | Redo |
+| `Ctrl` + `Z` | Undo. |
+| `Ctrl` + `Y` | Redo. |
 | `Ctrl` + `A` | Select all hit objects. |
-| `Ctrl` + `X` | Cut |
-| `Ctrl` + `C` | Copy |
-| `Ctrl` + `V` | Paste |
+| `Ctrl` + `X` | Cut. |
+| `Ctrl` + `C` | Copy. |
+| `Ctrl` + `V` | Paste. |
 | `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
-| `Delete` | Delete |
+| `Delete` | Delete. |
 | `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
-| `Ctrl` + `Shift` + `A`  | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
 #### Playfield
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Alt` | Temporarily toggle [distance snap](/wiki/Beatmap_Editor/Distance_Snap) while held down. |
 | `Y` | Toggle distance snap. |
 | `Shift` | Temporarily toggle grid snap while held down. |
@@ -233,8 +233,8 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Object manipulation
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Q` | Toggle new combo. |
 | `Ctrl` + `,` | Rotate the selection by 90 degrees anticlockwise. |
 | `Ctrl` + `.` | Rotate the selection by 90 degrees clockwise. |
@@ -251,8 +251,8 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Hitsounding
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `W` | Toggle the whistle addition to selection. |
 | `E` | Toggle the Finish addition to selection. |
 | `R` | Toggle the Clap addition to selection. |
@@ -262,8 +262,8 @@ These shortcuts work anywhere within the beatmap editor:
 
 #### Timeline
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
@@ -271,20 +271,20 @@ These shortcuts work anywhere within the beatmap editor:
 
 ### Design
 
-| Shortcut | Description |
-| --- | --- |
+| Shortcut | Action |
+| :-- | :-- |
 | `I` | Open the sprite library overlay. |
-| `Ctrl` + `Z` | Undo |
-| `Ctrl` + `Y` | Redo |
+| `Ctrl` + `Z` | Undo. |
+| `Ctrl` + `Y` | Redo. |
 | `Ctrl` + `X` | Cut the selected sprite. |
 | `Ctrl` + `C` | Copy the selected sprite. |
-| `Ctrl` + `V` | Paste the sprite at the current time. (Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.) |
+| `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
 | `Delete` | Remove the selected sprite from the layer. |
 | `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Glossary#osupixel). |
 
 ### Timing
 
-| Shortcut | Description |
-| --- | --- |
-| `T` | Tap to the music to set the BPM and offset. |
-| `Shift` while adjusting the BPM and offset | 4x increments |
+| Shortcut | Action |
+| :-- | :-- |
+| `T` | Set BPM and offset when tapped to the beat of the song. |
+| `Shift` while adjusting the BPM and offset | Increment 4x the normal amount. |
