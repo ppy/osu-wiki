@@ -14,12 +14,8 @@ We've managed to snag a whopping assortment of **48** new tracks for you to sink
 
 In an extra special surprise, two intrepid souls from the [Mappers' Guild](https://mappersguild.com/) have been hard at work creating a brand new preview map featuring one of **Teminite**'s tracks to highlight the kind of awesome you could be making yourself in the near future.
 
-Without further ado, check out [this wicked set](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) from [hypercyte](https://osu.ppy.sh/users/9155377) (also rhymes with **Teminite** by the way) which sports an ambient storyboard by the ever-talented [Noffy](https://osu.ppy.sh/users/1541323):
+The result is [this wicked set](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) from [hypercyte](https://osu.ppy.sh/users/9155377) (also rhymes with **Teminite** by the way) which sports an ambient storyboard by the ever-talented [Noffy](https://osu.ppy.sh/users/1541323). Make sure to check it out!
 
-<div align="center">
-    <iframe width="90%" height="315" src="https://www.youtube-nocookie.com/embed/nJCJBB8RjQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br/>
 Still not convinced? Give these a listen:
 
 ### State of Mind
