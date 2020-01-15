@@ -54,7 +54,7 @@ Still not convinced? Give these a listen:
 
 All of the above and so, so much more is available **right now** over at [**Teminite**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/64), bundled up in pre-timed packages just waiting for you to impart your magnificent mapping magic on them.
 
-What do an anime girl, a stick of celery and a top 250 UK EZ player have in common? If you guessed a brain of galactic proportions, you're correct! Congratulations to twitter users @TaigaIsMyWaifu, @celerih and @VenoxiaOsu for correctly deciphering this release's hint! Make sure to shower them with your praise and adoration.
+What do an anime girl, a stick of celery and a top 250 UK EZ player have in common? If you guessed a brain of galactic proportions, you're correct! Congratulations to Twitter users @TaigaIsMyWaifu, @celerih and @VenoxiaOsu for correctly deciphering this release's hint! Make sure to shower them with your praise and adoration.
 
 Check back next week for yet another Featured Artist, because this train is no longer physically capable of slowing down or stopping. Make sure to stop by the [@osugame Twitter](https://twitter.com/osugame) in the days before for a hint to agonize over, if that's your thing.
 
