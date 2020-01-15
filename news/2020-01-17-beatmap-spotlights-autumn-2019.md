@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Beatmap Spotlights: Autumn 2019"
-date: 2020-01-05 10:00:00 +0000
+date: 2020-01-17 08:00:00 +0000
 ---
 
 A new decade has dawned, and even though the chilly winds are behind us, we've got a brand new set of 2019's hottest maps to welcome in the new season! Check them out, and earn a fancy new medal for yourself!
 
-![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/header.png)
+![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/header.png)
 
 The beatmap charts for the Autumn Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=271). Their respective packs are available at the [Beatmap Pack listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. **The Autumn 2019 Spotlights rankings will end on the 15th of March, 2020.**
 
@@ -26,17 +26,17 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 - [osu!catch](#catch)
 - [osu!mania](#mania)
 
-# Autumn 2019 Spotlights
+# Autumn Spotlights
 
 ## <a id="osu"></a>osu!
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/alex.jpg)](https://osu.ppy.sh/beatmapsets/1054045)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/alex.jpg)](https://osu.ppy.sh/beatmapsets/1054045)
 
 It's here. [ProfessionalBox](https://osu.ppy.sh/users/3250792) has christened this 10 minute masterpiece mapset as his swan song, and what a legacy it leaves behind. Magnificent hitsounding and a beautiful storyboard by [PoNo](https://osu.ppy.sh/users/4610047) and [-Tochi](https://osu.ppy.sh/users/3664366), some fresh patterning and slider design all on top of a highly emotive collection of instrumental tracks, Alexithymia | Lupinus | Tokei no Heya to Seishin Sekai is one of the most impressive projects we've seen in a long time, or will see in the coming years. It behooves any osu! enthusiast to grace their clients with this paragon of beatmapping.
 
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/point.jpg)](https://osu.ppy.sh/beatmapsets/1020276)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/point.jpg)](https://osu.ppy.sh/beatmapsets/1020276)
 
 [Beomsan](https://osu.ppy.sh/users/3626063) and [Down](https://osu.ppy.sh/users/4694602) here to show how detailed a map could be. In their mapset of Nekomata Master+'s "POINT ZERO", every pitch change and variation in intensity is perfectly represented, with the constant changes in spacing and the high contrast between slider velocities. But that's just the beginning.
 
@@ -44,7 +44,7 @@ To accompany the spontaneous piano and the jumbled background percussions near t
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/arrogance.jpg)](https://osu.ppy.sh/beatmapsets/940377)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/arrogance.jpg)](https://osu.ppy.sh/beatmapsets/940377)
 
 Do you need to map literally everything when you want to follow a song in the best way? [Mirash](https://osu.ppy.sh/users/2841009) and [PandaHero](https://osu.ppy.sh/users/1233255) proved, in their new mapset onumi - ARROGANCE, that you don't need to at all. Pairing with their representative style which uses iconic slider shapes and various dope overlap patterns inserting strict geometrics, this mapset brings out onumi's experimental electronic song's hidden potential by largely and intentionally undermapping at certain key spots, especially at the beginning, the transition parts in the middle and at the end.
 
@@ -54,7 +54,7 @@ If you are getting bored by maps that placing objects on every single sound, thi
 
 *written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/sit.jpg)](https://osu.ppy.sh/beatmapsets/819752)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/sit.jpg)](https://osu.ppy.sh/beatmapsets/819752)
 
 [Mirash](https://osu.ppy.sh/users/2841009) has seen a fair amount of airtime in the osu! spotlights, and Sit down. Stand up. (Snakes & Ladders.) earns him his second nominated mapset this season. Though some may criticize the map as "boring" for the most part, Mirash manages to do an excellent job of creating an atmosphere unlike much of what's been seen before. The map is a gradual crescendo culminating in a fiery, chaotic payoff that mirrors the song's central themes of oppression, control, and uprising.
 
@@ -62,7 +62,7 @@ The beauty in Sit down. Stand up. (Snakes & Ladders.) stems from the story it te
 
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/instrumental.jpg)](https://osu.ppy.sh/beatmapsets/935839)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/instrumental.jpg)](https://osu.ppy.sh/beatmapsets/935839)
 
 Being a fanatic of Nekomata Master's music tracks, [Icekalt](https://osu.ppy.sh/users/5410645) decided to compile some of their best in Instrumental Compilation. He portrays every track excerpt as thoroughly as possible, putting in 1/6 trills, long chains of low bpm streams, varying slider velocity choices constantly, all in an effort to keep the map as engaging as possible.
 
@@ -72,13 +72,13 @@ If you have enough time, be sure to check this one out!
 
 *written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/last.jpg)](https://osu.ppy.sh/beatmapsets/1015203)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/last.jpg)](https://osu.ppy.sh/beatmapsets/1015203)
 
 Stop arguing over whether flawless playability and high-end aesthetic can exist in the same map: [captin1](https://osu.ppy.sh/users/689997) and [Kalibe](https://osu.ppy.sh/users/3376777) have proven in their collaboration work, lmy - Last words, that it is completely possible. Multiple takes on emphasis combining with positively weird but well-designed slider patterns bring a whole new playing experience set to Aitsuki Nakuru's beautiful voice.
 
 *written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/natsu.jpg)](https://osu.ppy.sh/beatmapsets/1006502)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/natsu.jpg)](https://osu.ppy.sh/beatmapsets/1006502)
 
 What would you expect in a map for a piano song from literally two decades ago? [Gust](https://osu.ppy.sh/users/1244312) showed in their mapset, Maeda Jun - Natsukage, that even in a calm song we can still do something rememberable.
 
@@ -88,7 +88,7 @@ Of course, the additional key hitsounds also do a great work on adding another f
 
 *written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/shadow.jpg)](https://osu.ppy.sh/beatmapsets/914754)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/shadow.jpg)](https://osu.ppy.sh/beatmapsets/914754)
 
 A wild [pishifat](https://osu.ppy.sh/users/3178418) has appeared on the Spotlights!
 
@@ -100,7 +100,7 @@ Another interesting aspect of the map that it is impossible not to mention is th
 
 *written by [\_Epreus](https://osu.ppy.sh/users/7342798)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/alde.jpg)](https://osu.ppy.sh/beatmapsets/607948)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/alde.jpg)](https://osu.ppy.sh/beatmapsets/607948)
 
 Have you ever wanted something to brighten up your day? You're in luck! I proudly present to you sakyzyo - Aldebaran mapped by [Ellyu](https://osu.ppy.sh/users/4438154) as a prime candidate.
 
@@ -114,7 +114,7 @@ Overall the map is great, if the amount of stuff I've written about it isn't alr
 
 *written by [\_Epreus](https://osu.ppy.sh/users/7342798)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/cross.jpg)](https://osu.ppy.sh/beatmapsets/922249)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/cross.jpg)](https://osu.ppy.sh/beatmapsets/922249)
 
 [Down](https://osu.ppy.sh/users/4694602) is back to the ranked section with On Cross Over, by HyuN feat. LyuU, featuring a guest difficulty from [Dailycare](https://osu.ppy.sh/users/1634445).
 
@@ -126,7 +126,7 @@ The map embraces a lot of gimmicks overall in a very unique style that interesti
 
 *written by [\_Epreus](https://osu.ppy.sh/users/7342798)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/kan.jpg)](https://osu.ppy.sh/beatmapsets/1001507)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/kan.jpg)](https://osu.ppy.sh/beatmapsets/1001507)
 
 [Nathan](https://osu.ppy.sh/users/4785223) is no stranger to making banger maps to banger songs. As expected, his map of Kan Saete Kuyashiiwa by ZUTOMAYO does not disappoint in that regard.
 
@@ -136,7 +136,7 @@ If you are having trouble with Nathan's geragera difficulty, don't you worry bec
 
 *written by [Smokeman](https://osu.ppy.sh/u/2140676)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/osu/kokoro.jpg)](https://osu.ppy.sh/beatmapsets/1020878)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/osu/kokoro.jpg)](https://osu.ppy.sh/beatmapsets/1020878)
 
 [toybot](https://osu.ppy.sh/users/2848604) brings a very nice map with a nostalgic and god-tier song called Kokoro Odoru by nobodyknows+ to the ranked section!
 
@@ -150,7 +150,7 @@ Try this set out! No difficulty on it will disappoint you and all of them are su
 
 ## <a id="taiko"></a>osu!taiko
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/fire.jpg)](https://osu.ppy.sh/beatmapsets/978134)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/fire.jpg)](https://osu.ppy.sh/beatmapsets/978134)
 
 Taking the first place in the Autumn Spotlights is Dustvoxx, Laur - FireLight, a tribecore track that will absolutely not surprise those familiar with previous works from [yea](https://osu.ppy.sh/users/6874332). Boasting a marathon length of 5 minutes and 39 seconds, the map does not become boring at any given second, as the steady pacing of the song mixed with its classic buildups and choruses will certainly keep you on your toes.
 
@@ -160,7 +160,7 @@ All in all, yea has managed to give birth to a worthy successor to the other Spo
 
 *written by [Raiden](https://osu.ppy.sh/users/2239480)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/manycolors.jpg)](https://osu.ppy.sh/beatmapsets/984900)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/manycolors.jpg)](https://osu.ppy.sh/beatmapsets/984900)
 
 In 2nd place we have Frums - theyaremanycolors mapped by [Genjuro](https://osu.ppy.sh/users/3196091), a song and map created by two very popular individuals in their respective communities. This is a very intricate and a harder-than-average GD set where each mapper shows off their own understanding of the song.
 
@@ -170,7 +170,7 @@ The top difficulty, Synthesia, has players having to hit many different snapping
 
 *written by [\_DUSK\_](https://osu.ppy.sh/users/6092181)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/chalon.jpg)](https://osu.ppy.sh/beatmapsets/999585)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/chalon.jpg)](https://osu.ppy.sh/beatmapsets/999585)
 
 In the third place, we have Good-bye Chalon, an instrumental track by Nekomata Master where [\_DUSK\_](https://osu.ppy.sh/users/6092181) perfectly managed to capture the rustic feeling of the music.
 
@@ -180,7 +180,7 @@ The Oni difficulty gives intermediate players a chance to shine as it is structu
 
 *written by [Genjuro](https://osu.ppy.sh/users/3196091)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/betrayal.jpg)](https://osu.ppy.sh/beatmapsets/1026679)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/betrayal.jpg)](https://osu.ppy.sh/beatmapsets/1026679)
 
 The obligatory metal beatmap for the Autumn spotlights is Inferi - A Betrayal Unforetold, a Featured Artist song mapped by [Raiden](https://osu.ppy.sh/users/2239480) and [Grünschale/Greenshell](https://osu.ppy.sh/users/Greenshell) (with a storyboard by [Faputa](https://osu.ppy.sh/users/Faputa)!).
 
@@ -190,7 +190,7 @@ Along with some inoffensive slider velocity changes the mappers managed to make 
 
 *written by [Nwolf](https://osu.ppy.sh/users/1910766)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/outer.jpg)](https://osu.ppy.sh/beatmapsets/999187)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/outer.jpg)](https://osu.ppy.sh/beatmapsets/999187)
 
 In 5th place we have Silentroom x Tanchiky - Outer Solution, which is an approach to MEGALOVANIA from the UNDERTALE series, one of the most popular games this year.
 
@@ -200,7 +200,7 @@ With an incredible judgment of the tools the song provided him to make an excell
 
 *written by [\_DUSK\_](https://osu.ppy.sh/users/6092181)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/taiko/psystyle.jpg)](https://osu.ppy.sh/beatmapsets/1022545)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/taiko/psystyle.jpg)](https://osu.ppy.sh/beatmapsets/1022545)
 
 Closing this season's (and year's) spotlights we have Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) mapped by [Alchyr](https://osu.ppy.sh/users/4993032), a popular individual who has created by far one of the most unique speed maps of the year.
 
@@ -212,7 +212,7 @@ Slider velocity is seamlessly integrated into the map, especially in the variabl
 
 ## <a id="catch"></a>osu!catch
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/cold.jpg)](https://osu.ppy.sh/beatmapsets/946446)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/cold.jpg)](https://osu.ppy.sh/beatmapsets/946446)
 
 Many mappers may assume that it's hard to be creative on calm and slow songs, but [-Ken](https://osu.ppy.sh/users/4430811) proves that slow maps can also be mapped with creativity. Though it's -Ken's first ranked map, the map itself is really clean and full of amazing patterns.
 
@@ -220,7 +220,7 @@ Especially for the kiai parts, the mapper uses a lot of high velocity sliders, w
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/trappola.jpg)](https://osu.ppy.sh/beatmapsets/994994)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/trappola.jpg)](https://osu.ppy.sh/beatmapsets/994994)
 
 [Du5t](https://osu.ppy.sh/users/6053071) just snatched the second place in this season's osu!catch Spotlights with his take on gmnt's "trappola bewitching"!
 
@@ -230,7 +230,7 @@ But do not forget the guest mappers either, [Daletto](https://osu.ppy.sh/users/7
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/hype.jpg)](https://osu.ppy.sh/beatmapsets/1009824)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/hype.jpg)](https://osu.ppy.sh/beatmapsets/1009824)
 
 Team osu!catch is here to take a place in this season's Spotlights with not one, nor two, but thirteen mappers!
 
@@ -246,19 +246,19 @@ Even still, we have two more names to mention who took part, namely [-Tochi](htt
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/kill.jpg)](https://osu.ppy.sh/beatmapsets/1005623)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/kill.jpg)](https://osu.ppy.sh/beatmapsets/1005623)
 
 Kill the beat by [JBHyperion](https://osu.ppy.sh/users/4879508) is another exciting electric song that hit the ranked category. The map consistently requires quick movements. In addition, the long sliders during the kiai of each difficulty require accurate rhythmic jumps, letting players truly catch (to) the beat. If you do like electronic music and are up for a challenge, do give this a try.
 
 *written by [Snowless](https://osu.ppy.sh/users/4316266)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/high.jpg)](https://osu.ppy.sh/beatmapsets/930513)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/high.jpg)](https://osu.ppy.sh/beatmapsets/930513)
 
 It is quite refreshing to have a K-pop in the ranked category. [Jemzuu](https://osu.ppy.sh/users/7890134)'s ranked map features an upbeat Korean song. The map is filled with interesting patterns across multiple difficulties that feel rewarding to play because of appropriately distanced jumps and little bits of antiflow that spices the map up, setting it apart from many others that may feel too standardized. Do please try this mapset, you won't regret it!
 
 *written by [Snowless](https://osu.ppy.sh/users/4316266)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/conflict.jpg)](https://osu.ppy.sh/beatmapsets/981762)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/conflict.jpg)](https://osu.ppy.sh/beatmapsets/981762)
 
 [Bunnrei](https://osu.ppy.sh/users/829284) jumps into this season's Spotlights with his mapset on siromaru + cranky's "conflict". This set has no kiai but that doesn't make it easier does it? If anything, it makes more interesting!
 
@@ -270,13 +270,13 @@ Be sure to tune in even if this is not your preferred game mode, this is a real 
 
 *written by [Kurokami](https://osu.ppy.sh/users/260933)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/calling.jpg)](https://osu.ppy.sh/beatmapsets/649285)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/calling.jpg)](https://osu.ppy.sh/beatmapsets/649285)
 
 After two long years, calling has finally been ranked! [alienflybot](https://osu.ppy.sh/users/636114) has been pushing it back by making it better and better, but it is here at last, and has scored a spot on the Spotlights for his efforts. Despite the amazing aesthetic flows and streams, this map also has the epic hitsounds like other maps by the mapper himself. While enjoying the top difficulty, you may also try out other difficulties since the whole set is well done.
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/catch/getaway.jpg)](https://osu.ppy.sh/beatmapsets/1032859)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/catch/getaway.jpg)](https://osu.ppy.sh/beatmapsets/1032859)
 
 [Crowley](https://osu.ppy.sh/users/6341006) is definitely an underrated catch mapper. He tends to favor mapping Western songs a lot with each map featuring its own unique feeling, and Getaway is absolutely more of the same. With CS5 and AR8.4, the map feels pretty casual and comfortable, but much different from others. As one of the maps in osu!catch Carpool Tunnel Mini-pack, it is a good featured artist map for middle and top players. Take care of your accuracy as this map has many droplets throughout sliders.
 
@@ -284,7 +284,7 @@ After two long years, calling has finally been ranked! [alienflybot](https://osu
 
 ## <a id="mania"></a>osu!mania
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/xyz.jpg)](https://osu.ppy.sh/beatmapsets/682615)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/xyz.jpg)](https://osu.ppy.sh/beatmapsets/682615)
 
 Though we haven't seen their face in the ranked section for quite some time now, [Parachor](https://osu.ppy.sh/users/5241655) makes a strong, welcoming return back with XYZ which is arguably his most eloquent set to date along with [PotassiumF](https://osu.ppy.sh/u/4247722). Featuring a track that is absolutely wonderful to listen to, you'll find that the two have masterfully executed an accompanying mapset, embracing concepts like pitch relevancy, LN orientation and ample SV use, all keyed in to match with the song.
 
@@ -294,7 +294,7 @@ The set is gorgeous, well-thought out, and tricky to play as well, even for some
 
 *written by [Unpredictable](https://osu.ppy.sh/users/7560872)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/bug.jpg)](https://osu.ppy.sh/beatmapsets/887787)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/bug.jpg)](https://osu.ppy.sh/beatmapsets/887787)
 
 [BringoBrango](https://osu.ppy.sh/users/10274043) jumps straight into the ranked section with this fantastic set, Bug Thief, alongside a guest difficulty by [Toaph Daddy](https://osu.ppy.sh/users/7616811). Both of them showcase their individual, unique approaches in the top two difficulties, both praised for their articulate layering and patterning abilities demonstrated in this set.
 
@@ -302,7 +302,7 @@ This set leads us to anticipate what both of these mappers may bring to the tabl
 
 *written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/crystal.jpg)](https://osu.ppy.sh/beatmapsets/890013)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/crystal.jpg)](https://osu.ppy.sh/beatmapsets/890013)
 
 Combining gorgeous aesthetics and a solid overall structure, [-mint-](https://osu.ppy.sh/users/8976576)'s crystallized is a treat for any long note enthusiast. The map juxtaposes lighter layered sections focused on strict layering for maximum emphasis alongside denser long note sections focused on following the more intense section's stronger synths and percussion while keeping representation understandable and consistent overall.
 
@@ -310,7 +310,7 @@ Despite the contrast between sections, -mint- does an impressive job at keeping 
 
 *written by [-MysticEyes](https://osu.ppy.sh/users/6253266)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/education.jpg)](https://osu.ppy.sh/beatmapsets/983953)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/education.jpg)](https://osu.ppy.sh/beatmapsets/983953)
 
 [Kamuy](https://osu.ppy.sh/users/7439226) successfully managed to capture the harsh and repetitive nature of PSYQUI's Education and has transformed it into a tough map that is not for the faint of heart! The chart cleverly exploits minijacks and short LNs to artificially induce the feeling of roughness and make the map harder to nail off, especially for players with ailing endurance.
 
@@ -318,7 +318,7 @@ Kamuy's implementation of the map's repetition also does justice to the song wit
 
 *written by [AncuL](https://osu.ppy.sh/users/2449200)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/konran.jpg)](https://osu.ppy.sh/beatmapsets/867026)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/konran.jpg)](https://osu.ppy.sh/beatmapsets/867026)
 
 A metronome will not help you at all.
 
@@ -326,7 +326,7 @@ After four years ([Jakads](https://osu.ppy.sh/users/259972)'s old mapset of the 
 
 *written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/pictured.jpg)](https://osu.ppy.sh/beatmapsets/1023425)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/pictured.jpg)](https://osu.ppy.sh/beatmapsets/1023425)
 
 Who would've thought we'd ever see this map ranked? [Blocko](https://osu.ppy.sh/users/4075092), along with a 4K guest difficulty from [-mint-](https://osu.ppy.sh/users/8976576), present an excruciatingly difficult mapset: Frums's Pictured as Perfect and Plus. The map simply packs in everything into a 5:44 masterpiece.
 
@@ -336,7 +336,7 @@ Blocko's 7K difficulty is replete with relentless patterning that coordinates th
 
 *written by [Kamuy](https://osu.ppy.sh/users/7439226)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/flowers.jpg)](https://osu.ppy.sh/beatmapsets/962550)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/flowers.jpg)](https://osu.ppy.sh/beatmapsets/962550)
 
 [-MysticEyes](https://osu.ppy.sh/users/6253266) outdoes himself once again with his latest installment to the ranked section: in love with a ghost - flowers feat. nori, which is by far his most ambitious set to date, and a new approach that we haven't seen yet from him.
 
@@ -348,7 +348,7 @@ The set is incredibly dynamic, meticulously thought out, and even beautiful depe
 
 *written by [Unpredictable](https://osu.ppy.sh/users/7560872)*
 
-[![](/wiki/shared/news/2020-01-05-beatmap-spotlights-autumn-2019/mania/knife.jpg)](https://osu.ppy.sh/beatmapsets/809495)
+[![](/wiki/shared/news/2020-01-17-beatmap-spotlights-autumn-2019/mania/knife.jpg)](https://osu.ppy.sh/beatmapsets/809495)
 
 Even though this is [Cokiiplay](https://osu.ppy.sh/users/6760124)'s first bout in the ranked section, he is by no means a new face to the charting scene. He makes this abundantly clear in this chart for Knife that utilizes a fitting technical and meticulous approach. Within it are many elements that show off his charting experience such as deliberate placements of jumps, use of pitch relevance where applicable, and a clear level of repetition that fit extraordinarily well to both the song and the technical approach that was used.
 
