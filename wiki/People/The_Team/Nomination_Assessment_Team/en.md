@@ -22,6 +22,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) |  |
 
 ### osu!taiko
 
@@ -44,13 +45,14 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_US]: /wiki/shared/flag/US.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif

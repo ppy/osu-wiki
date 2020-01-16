@@ -22,7 +22,7 @@ You can also use the `/bb` in-game client command to automatically open a tab wi
 
 ### HELP
 
-```text
+```
 !HELP
 ```
 
@@ -32,7 +32,7 @@ Shows a list of available BanchoBot commands.
 
 *Notice: The `user` parameter for the `REPORT` command is missing.*
 
-```text
+```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 BanchoBot: WHERE <user>
@@ -45,7 +45,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 ### ROLL
 
-```text
+```
 !ROLL <number>
 ```
 
@@ -53,14 +53,14 @@ Draws a random number from 1 to the selected number (default is 100).
 
 #### Usage Example
 
-```text
+```
 pippi: !roll 1000
 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ### STATS
 
-```text
+```
 !STATS <user>
 ```
 
@@ -72,7 +72,7 @@ Shows the entered user's stats. The resulting stats depend on the mode they are 
 
 #### Usage Examples
 
-```text
+```
 pippi: !stats peppy
 BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
@@ -80,7 +80,7 @@ BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
 ```
 
-```text
+```
 pippi: !stats Ephemeral:
 BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
@@ -90,7 +90,7 @@ BanchoBot: Accuracy: 94.19%
 
 ### WHERE
 
-```text
+```
 !WHERE <user>
 ```
 
@@ -100,14 +100,14 @@ Shows the entered user's current location.
 
 #### Usage Example
 
-```text
+```
 pippi: !where Ephemeral
 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
-```text
+```
 !FAQ <entry>
 !FAQ list
 ```
@@ -116,12 +116,12 @@ Shows the message of the entry. You can use the `list` argument to show all avai
 
 #### Usage Examples
 
-```text
+```
 pippi: !faq peppy
 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-```text
+```
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
@@ -135,7 +135,7 @@ Tama: ok
 
 *Note: You can also use the user card to report a user.*
 
-```text
+```
 !REPORT <user> <reason>
 ```
 
@@ -147,7 +147,7 @@ Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or 
 
 #### Usage Example
 
-```text
+```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
