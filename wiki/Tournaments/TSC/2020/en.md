@@ -1,21 +1,21 @@
 ---
 tags:
-  - TSC 2020
+  - TSC
   - TSC2020
 ---
 
 # Taiko Suiji Cup 2020
 
-![TSC 2020 Logo](img/logo.jpg)
+![TSC 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised three-on-three team based double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant must register individually and then will be assigned to a random team in order to compete with others. This is the second installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised three-on-three double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant must register individually and then will be assigned to a random team in order to compete with others. This is the second installment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-01-10/2020-02-09 |
-| Live Drawings | *to be announced* |
+| Registration phase | 2020-01-10/2020-02-09 |
+| Live drawings | *to be announced* |
 | Qualifiers | 2020-02-22/2020-02-23 |
 | Round of 32 | 2020-02-29/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
@@ -85,7 +85,7 @@ The Taiko Suiji Cup 2020 is run by various community members.
 14. All match times are in **UTC**.
 15. No staff members are allowed to play other than streamer, commentator, and graphic designer.
 
-### Match Regulations
+### Match regulations
 
 1. The match lobby will be created by the referee, and the team captains of both teams will be invited. The captain is then responsible for inviting the rest of their team. If the captain of a team is not online, the referee will invite any other player from respective team, and invited player will be responsible for inviting their team.
 2. Teams have a 15 minute grace period to have at least 3 players available to play the match. If **15 minutes pass and a team does not have enough players to play** the match, the other team will receive a win by default.
