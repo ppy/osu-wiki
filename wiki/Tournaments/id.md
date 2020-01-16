@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Turnamen
 
 Bagian ini diperuntukkan untuk Turnamen osu!. Turnamen memiliki forum khusus yang dapat Anda temukan [melewati tautan berikut](https://osu.ppy.sh/community/forums/55).

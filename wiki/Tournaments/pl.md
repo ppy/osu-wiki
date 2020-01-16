@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Turnieje
 
 Ten artykuł poświęcony jest turniejom w osu!. Każdy turniej ma własny wątek na [forum dot. turniejów](https://osu.ppy.sh/community/forums/55).

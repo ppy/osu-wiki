@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Tournois
 
 Section dédiée aux tournois et/ou aux compétitions. Les tournois ont un forum dédié qui se trouve [via ce lien](https://osu.ppy.sh/community/forums/55).

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 대회
 
 이 곳은 osu! 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
