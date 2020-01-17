@@ -37,7 +37,7 @@ layout: main_page
 
 # 编辑与Rank
 
-[提交](/wiki/Submission) • [谱面批准](/wiki/Submission/Beatmap_Ranking_Procedure) • [摸图](/wiki/Modding) • [Ranking指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[提交](/wiki/Submission) • [谱面批准](/wiki/Beatmap_ranking_procedure) • [摸图](/wiki/Modding) • [Ranking指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
