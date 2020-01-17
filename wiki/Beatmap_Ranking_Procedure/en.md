@@ -24,7 +24,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category for at least 7 days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
 
-This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a nomination reset.
+This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 
 ### Moving to Ranked
 
@@ -34,11 +34,11 @@ When a beatmapset is disqualified, its position in the ranking queue is saved. I
 
 ## Nomination resets
 
-A beatmapset's nomination count is reset so that its most up-to-date version is evaluated by two capable modders before being added to the ranking queue.
+Nomination resets help ensure that modders, BNs and NAT members check over the most up-to-date version of the beatmapset before it enters the ranking queue.
 
-Nominations can be reset when a beatmapset's creator updates the set or when a member of the BN or NAT finds a problem in a nominated beatmapset. If a beatmapset is qualified when its nominations are reset, the set will be disqualified, removing it from the ranking queue.
+Nominations can be reset when a beatmapset's creator updates the set or when a member of the BN or NAT finds a problem in a nominated beatmapset. They can also be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmapset is qualified when its nominations are reset, the set will be disqualified, removing it from the ranking queue.
 
-Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmapsets they believe have quality issues that are unrelated to the Ranking Criteria. In some cases, a beatmapset's nominations can be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when it involves inappropriate content.
+Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmapsets they believe have quality issues that are unrelated to the Ranking Criteria.
 
 ## Ranked
 
