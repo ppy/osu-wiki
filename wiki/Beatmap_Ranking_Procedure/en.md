@@ -30,7 +30,7 @@ This beatmap category exists to provide beatmaps wider exposure to the osu! comm
 
 Qualified beatmapsets are placed in a queue for ranking. 8 beatmapsets from each game mode are able to move from Qualified to Ranked, so long as they have been in the queue for at least 7 days. This results in some beatmapsets remaining qualified for slightly longer than 7 days.
 
-When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for 2 days, then disqualified and re-qualified, it will remain in the Qualified category for approximately 5 more days.
+When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for 2 days, then disqualified and re-qualified, it will remain in the Qualified category for approximately 5 more days. If the saved queue position is less than 24 hours away from Ranked, it will be reset to 24 hours upon entering Qualified.
 
 ## Nomination resets
 
