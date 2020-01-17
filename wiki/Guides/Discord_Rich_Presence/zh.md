@@ -1,6 +1,6 @@
 # Discord Rich Presence
 
-自2017-10-31, Discord Rich Presence 已经稳定！
+自 2017-10-31 起，Discord Rich Presence 已经加入稳定版！
 
 ## Rich Presence 意味着什么？
 
