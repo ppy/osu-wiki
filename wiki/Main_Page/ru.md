@@ -37,7 +37,7 @@ layout: main_page
 
 # Онлайн-редактирование и рейтинг
 
-[Загрузка материалов](/wiki/Submission) • [Утверждение карт](/wiki/Beatmap_Ranking_Procedure) • [Модерация](/wiki/Modding) • [Критерии для получения рейтинга](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Загрузка материалов](/wiki/Submission) • [Утверждение карт](/wiki/Beatmap_ranking_procedure) • [Модерация](/wiki/Modding) • [Критерии для получения рейтинга](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

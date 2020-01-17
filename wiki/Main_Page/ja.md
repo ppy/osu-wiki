@@ -37,7 +37,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # オンライン編集とランキング
 
-[提出](/wiki/Submission) • [ビートマップの承認](/wiki/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [ランキング基準](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[提出](/wiki/Submission) • [ビートマップの承認](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [ランキング基準](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

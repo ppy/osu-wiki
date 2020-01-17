@@ -25,7 +25,7 @@ tags:
     -   [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
     -   [Timelines](/wiki/Beatmap_Editor/Timelines)
     -   [Timing](/wiki/Beatmap_Editor/Timing)
--   [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)
+-   [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)
 -   [Beatmapping](/wiki/Beatmapping)
 -   [Beatmaps](/wiki/Beatmaps)
     -   [History of Loved](/wiki/Beatmaps/History_of_Loved)

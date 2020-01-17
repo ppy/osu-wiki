@@ -37,7 +37,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 온라인 편집 및 랭킹
 
-[비트맵 제출](/wiki/Submission) • [비트맵 승인](/wiki/Beatmap_Ranking_Procedure) • [모딩](/wiki/Modding) • [랭크 기준](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[비트맵 제출](/wiki/Submission) • [비트맵 승인](/wiki/Beatmap_ranking_procedure) • [모딩](/wiki/Modding) • [랭크 기준](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

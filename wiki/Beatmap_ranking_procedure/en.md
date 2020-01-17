@@ -1,4 +1,4 @@
-# Beatmap Ranking Procedure
+# Beatmap ranking procedure
 
 [Beatmaps](/wiki/Beatmaps) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmaps#ranked) category.
 
@@ -42,6 +42,6 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 
 ## Ranked
 
-Beatmapsets that have passed through the qualification stage have completed the ranking process. They have score leaderboards and reward players with performance points.
+Beatmapsets that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
