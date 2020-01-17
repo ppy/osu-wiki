@@ -24,9 +24,9 @@ Many thanks to ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236)
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (pending confirmation), 4 months of osu!supporter tag, userpage banner |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 month of osu!supporter tag, userpage banner |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
 
 ## Organisation
 
@@ -69,7 +69,7 @@ The osu!mania Asian's Champions 2019 is run by various community members.
   - [Inferi - Destroyer (MyZterioN-) \[MyZ- challenge\]](https://osu.ppy.sh/beatmapsets/1018398#mania/2131188)
   - [Dictate - Pandora (MyZterioN-) \[Paradoxx\]](https://osu.ppy.sh/beatmapsets/875051#mania/1828761)
   - [ROKINA - Icicle Stinger (Hydria) \[Extra\]](https://osu.ppy.sh/beatmapsets/520966#mania/1106675)
-  - [Murasaki Hotaru - Kotonoha (_underjoy) \[ Kotoba\]](https://osu.ppy.sh/beatmapsets/969974#mania/2029222)
+  - [Murasaki Hotaru - Kotonoha (\_underjoy) \[ Kotoba\]](https://osu.ppy.sh/beatmapsets/969974#mania/2029222)
   - [Hikaru Utada & Skrillex - Face my fears (RuleBlazing) \[We fight together x1.15\]](https://osu.ppy.sh/beatmapsets/933714#mania/2209817)
   - [SELEN - Reverse World (Kyousuke-) \[Extra: Inverse\]](https://osu.ppy.sh/beatmapsets/464856#mania/1889459)
   - [Ester - Dizzolve (riunosk) \[Dizintegrate\]](https://osu.ppy.sh/beatmapsets/951988#mania/1987960)
