@@ -34,7 +34,7 @@ When a beatmapset is disqualified, its position in the ranking queue is saved. I
 
 ## Nomination resets
 
-Nomination resets help ensure that modders, BNs and NAT members check over the most up-to-date version of the beatmapset before it enters the ranking queue.
+Nomination resets help ensure that modders, BNs and NAT members check over the most up-to-date version of a beatmapset before it enters the ranking queue.
 
 Nominations can be reset when a beatmapset's creator updates the set or when a member of the BN or NAT finds a problem in a nominated beatmapset. They can also be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmapset is qualified when its nominations are reset, the set will be disqualified, removing it from the ranking queue.
 
