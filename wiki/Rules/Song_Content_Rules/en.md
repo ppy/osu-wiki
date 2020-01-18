@@ -22,7 +22,7 @@ This guideline is not a hard rule, but more of a way to help inform your choices
 
 Many musical styles or genres make use of explicit lyrics for artistic or stylistic ends, and while profanity and explicit content isn't outright forbidden, tracks that are vulgar to the extreme or are deliberately designed to shock or inflame others are not allowed.
 
-If you aren't sure about how to proceed with your track given these guidelines, ask any member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) *before* uploading your mapset!
+If you aren't sure about how to proceed with your track given these guidelines, ask any member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) *before* uploading your mapset!
 
 ## What classifies as "heavily political" content?
 
@@ -34,7 +34,7 @@ We adhere to no one particular "end" of a political spectrum—osu! is strictly 
 
 Any beatmap containing a disallowed track will be removed from the website.
 
-Each time your submission is removed, you will be afforded an explanation by the presiding member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team) responsible for the removal with reasoning justifying the removal.
+Each time your submission is removed, you will be afforded an explanation by the presiding member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) responsible for the removal with reasoning justifying the removal.
 
 You may contest this with them via PM if you so wish, or seek the opinions of others to substantiate your claim to the track's suitability. If you still cannot find common ground on this front, your claim may be escalated to a consensus vote among the current NAT members, who will collectively decide if your track is acceptable or not.
 
