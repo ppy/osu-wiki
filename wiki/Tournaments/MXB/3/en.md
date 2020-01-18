@@ -1,6 +1,7 @@
 ---
 tags:
-- MXB
+  - Mengxin Cup
+  - MXB
 ---
 
 # Novice Mania Cup 3rd

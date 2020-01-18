@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Installazione
 
-*Vedi anche: [Installazione/macOS](/wiki/Installation/macOS)* <!-- e [Installazione/Linux](/wiki/Installation/Linux)* -->
+*Vedi anche: [Installazione/macOS](/wiki/Installation/macOS)*
 
-Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un dispostivo Windows. L'[osu!academy](/wiki/osu!academy) ha un [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) che spiega come installare osu! su Windows.
+Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un dispostivo Windows. L'[osu!academy](/wiki/osu!academy) ha un [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) che spiega come installare osu! su Windows (in inglese).
 
 ## Requisiti minimi di sistema
 
@@ -14,12 +18,12 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 1. Vai alla [pagina di download](https://osu.ppy.sh/home/download) e scarica l'installer.
 2. Individua ed esegui l'installer.
 3. Mentre l'installer è in esecuzione, c'è un periodo di tempo di 10 secondi che ti permette di scegliere il percorso d'installazione.
-    - Se vuoi cambiarlo, clicca il testo sotto la parola, "Hi!" e seleziona il percorso di installazione.
-    - osu! verrà installato in quel percorso quando il timer sarà finito.
-4. Quando l'installer avrà finito, osu! si aprirà subito dopo. osu!direct verrà utilizzato per scaricare delle mappe iniziali.
-5. osu! ti richiederà di registrarti o loggarti.
-    - Se hai già un account, logga.
-    - Se devi registrarti, vedi [Registrazione](/wiki/Registration), poi logga.
+    - Se vuoi cambiarlo, clicca il testo sotto la parola "Hi!" e seleziona il percorso di installazione.
+    - osu! verrà installato in quel percorso quando il timer sarà finito; in caso tu non faccia niente, verrà installato nella cartella AppData.
+4. Quando l'installer avrà finito, osu! si aprirà ed osu!direct scaricherà delle mappe iniziali in automatico.
+5. osu! ti richiederà di registrarti o fare il login.
+    - Se hai già un account, esegui il login.
+    - Se devi registrarti, vedi [Registrazione](/wiki/Registration), poi fai il login.
 
 ## Aggiungere beatmap
 
@@ -30,23 +34,23 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 ### Sito web
 
 1. Vai alla [pagina delle beatmap](https://osu.ppy.sh/beatmapsets) e logga nel sito web.
-2. Trova una canzone che ti piaccia giocare.
+2. Trova una canzone che ti piace.
 3. Clicca l'icona di download per salvare la beatmap sul tuo computer.
 4. Individua ed apri il file della beatmap, ha l'estensione `.osz`.
     - In alternativa, puoi metterere il file beatmap nella cartella `Songs` della directory di osu!.
 5. osu! farà automaticamente il resto per te e caricherà la beatmap.
-    - Se, per qualche motivo, non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
+    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
 
 ### osu!direct
 
 *Nota: Devi essere un osu!supporter ed avere una connessione internet per usare osu!direct.*
 
 1. Apri osu!, se non l'avessi già fatto.
-2. Trova una canzone che ti piaccia giocare.
+2. Trova una canzone che ti piacce.
 3. Fai doppio click sulla canzone nella lista o clicca `Download` a destra per scaricarla.
     - Se invece non vuoi scaricare il video, clicca `DL NoVideo`.
 4. Quando osu! ha finito di scaricare la beatmap, te la caricherà immediatamente se sei in modalità Solo, nella schermata [Song Selection](/wiki/Song_Selection).
-    - Se, per qualche motivo, non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
+    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
 
 ## Aggiungere skin
 
@@ -54,7 +58,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 1. Vai ai [skinning subforums](https://osu.ppy.sh/community/forums/15) e cerca una skin che ti piace.
 2. Una volta trovata la skin, scaricala.
-3. In base a come lo skinner ha salvato la skin, potresti aver bisogno di alcune cose.
+3. In base a come lo skinner ha salvato la skin, potresti aver bisogno di aprirla in un metodo specifico.
     - Se la skin è di estensione `.osk`:
         1. Aprila oppure trascinala in osu!.
         2. osu! la processerà automaticamente e la imposterà per te.

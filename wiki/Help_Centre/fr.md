@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
@@ -926,7 +930,7 @@ Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cl
 
 **Vous devrez partitionner de zéro.**
 
-Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) pour savoir comment faire.
+Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.fr.html) pour savoir comment faire.
 
 
 #### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.

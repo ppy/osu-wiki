@@ -6,7 +6,7 @@ legal: true
 
 Dernière mise à jour le 25 Mai 2018. [Voir l'historique ici](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-En plus de cette politique, veuillez également vous assurer de lire et de comprendre nos [Conditions Générales d'Utilisation](/legal/terms).
+En plus de cette politique, veuillez également vous assurer de lire et de comprendre nos [Conditions Générales d'Utilisation](https://osu.ppy.sh/legal/terms).
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Afin de vous offrir ces services, nous devons souvent recueillir, stocker et tra
 
 Cette politique vise à décrire les informations que nous recueillons sur notre réseau et dans l'utilisation de nos produits et services, comment nous utilisons ces informations et quelles options nous vous offrons pour contrôler vos informations personnelles.
 
-En utilisant notre service, vous confirmez que vous avez lu et compris les [Conditions Générales d'Utilisation](/legal/terms) et cette politique de confidentialité, y compris comment et pourquoi nous utilisons vos informations et que votre utilisation du service est soumise aux Conditions d'utilisation applicables et à cette politique de confidentialité. Si vous ne voulez pas que nous recueillions ou traitions vos renseignements personnels de la façon décrite aux présentes, vous avez plusieurs choix, y compris limiter les renseignements que nous recueillons sur vous, ou ne pas utiliser le réseau ou nos produits et services.
+En utilisant notre service, vous confirmez que vous avez lu et compris les [Conditions Générales d'Utilisation](https://osu.ppy.sh/legal/terms) et cette politique de confidentialité, y compris comment et pourquoi nous utilisons vos informations et que votre utilisation du service est soumise aux Conditions d'utilisation applicables et à cette politique de confidentialité. Si vous ne voulez pas que nous recueillions ou traitions vos renseignements personnels de la façon décrite aux présentes, vous avez plusieurs choix, y compris limiter les renseignements que nous recueillons sur vous, ou ne pas utiliser le réseau ou nos produits et services.
 
 ## Les informations que nous collections
 

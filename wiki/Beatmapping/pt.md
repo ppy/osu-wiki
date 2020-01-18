@@ -1,15 +1,19 @@
+---
+outdated: true
+---
+
 # Beatmapping (Português)
 
 **Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboarding).
 
-Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmaps), que consiste num processo de [beatmap approval](/wiki/Beatmap_Ranking_Procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
+Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmaps), que consiste num processo de [beatmap approval](/wiki/Beatmap_ranking_procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
 
 As dificuldades mais comuns criadas em Beatmapping são:
 
--   [Easy](/wiki/Difficulties/Easy)
--   [Normal](/wiki/Difficulties/Normal)
--   [Hard](/wiki/Difficulties/Hard)
--   [Insane](/wiki/Difficulties/Insane)
+-   Easy
+-   Normal
+-   Hard
+-   Insane
 
 Clicar em cada link vai exibir um conjunto de diretrizes em comum para [mappers](/wiki/Glossary) seguirem e se tornarem aptos a criar um beatmap divertido apropriado para o seu nível de [difficulty](/wiki/Difficulties)
 

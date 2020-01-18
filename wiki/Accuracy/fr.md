@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Accuracy
 
-L'accuracy (précision en français) est une mesure qui sert à établir la constance d'un joueur. 
+L'accuracy (précision en français) est une mesure qui sert à établir la constance d'un joueur.
 
-Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un objet est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/pp) accuracy qui dépend du score envoyé après avoir joué une beatmap.
+Il existe trois différents types d'accuracy qu'un joueur peut avoir. Le premier étant l'accuracy de la beatmap qui dépend des points (300, 100, 50...) reçus lorsqu'un objet est touché. L'autre étant l'accuracy totale du joueur qui est pondéré pour permettre aux meilleurs scores d'être mis en avant. Et pour finir, la [pp](/wiki/Performance_Points) accuracy qui dépend du score envoyé après avoir joué une beatmap.
 
 ## Modes de jeu
 
@@ -45,15 +49,15 @@ En osu!mania, le système d'accuracy fonctionne de la même manière que le mode
 
 ![Graphique de performance](img/performance_graph.jpg "Graphique de performance")
 
-Le graphique de performance est un tableau qui affiche les performances du joueur (basé sur sa barre de vie) au cours de la partie. D'autres informations peuvent y être indiquées lorsque le joueur passe son curseur par dessus. 
+Le graphique de performance est un tableau qui affiche les performances du joueur (basé sur sa barre de vie) au cours de la partie. D'autres informations peuvent y être indiquées lorsque le joueur passe son curseur par dessus.
 
 *Note: Les informations additionelles ne sont disponibles qu'aprés avoir joué la beatmap ou regardé un replay. Aprés avoir quitté [l'écran des résultats](/wiki/results_screen), ces informations ne seront pas sauvegardées.*
 
 ### Accuracy
 
-Lorsque le curseur passe sur graphique de performance, une petite fenêtre est affichée avec deux valeurs: *Error* et *Unstable Rate*. 
+Lorsque le curseur passe sur graphique de performance, une petite fenêtre est affichée avec deux valeurs: *Error* et *Unstable Rate*.
 
-Dû à la manière dont le mode [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implémentés, les valeurs "Error" et "Unstable Rate" sont multipliées par le même facteur que la musique. Afin d'obtenir les valeurs exactes lorsque vous jouez en DT, divisez le résultat par 1.5. Pour le mode HT, multipliez le résultat par 1.33.  
+Dû à la manière dont le mode [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implémentés, les valeurs "Error" et "Unstable Rate" sont multipliées par le même facteur que la musique. Afin d'obtenir les valeurs exactes lorsque vous jouez en DT, divisez le résultat par 1.5. Pour le mode HT, multipliez le résultat par 1.33.
 
 #### Error
 
@@ -65,9 +69,9 @@ La valeur "Unstable rate" représente la constance des clics, plus les chiffres 
 
 ### Spin
 
-*Note: Le spin est un gameplay unique au mode [osu!standard](/wiki/osu!standard).*
+*Note: Le spin est un gameplay unique au mode [osu!standard](/wiki/Game_Modes/osu!).*
 
-En plus de l'accuracy, des informations à propos des spinners apparaissent dans la fenêtre des statistiques. 
+En plus de l'accuracy, des informations à propos des spinners apparaissent dans la fenêtre des statistiques.
 
 #### Speed
 

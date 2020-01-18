@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!tourney
 
 **osu!tourney** 是 osu! 的官方多人旁观客户端，它可以被用于观看或直播全部可用的多人游戏房间。

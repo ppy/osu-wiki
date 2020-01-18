@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
+
 # Registrierung
 
 *Warnung: Mehr als einen osu!-Account zu besitzen, ist ein Verstoß gegen die allgemeinen [Regeln](/wiki/Rules)!*
 
 1. Nach der [Installation](/wiki/Installation) und dem Starten von osu! fordert dich das Spiel auf, dich einzuloggen oder zu registrieren. Zum Erstellen eines Accounts musst du nur auf `Create an Account` klicken und osu! im Hintergrund offen lassen. Nun öffnet sich die Seite, auf der du einen [Account erstellen](https://osu.ppy.sh/p/register) kannst.
 
-![Das Registrierungsformular auf der Webseite](img/register.jpg "Das Registrierungsformular")
+![Das Registrierungsformular auf der Webseite](img/register-old.jpg "Das Registrierungsformular")
 
 2. Fülle alle Felder des Formulars aus.
    - Der Benutzername kann maximal 15 Zeichen lang sein; außerdem dürfen nur alphanumerische Zeichen (`a-z`, `A-Z`, `0-9`), Unterstriche (`_`), eckige Klammern (`[` und `]`), Bindestriche (`-`) und Leerstellen (` `) verwendet werden.

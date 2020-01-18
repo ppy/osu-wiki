@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Sounds
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
@@ -515,6 +519,8 @@ Notes:
 Notes:
 
 - Failing a map at any point.
+- Not intended to last longer than the fail animation (about 5 seconds).
+- Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
 
 ---
 
@@ -551,9 +557,9 @@ Notes:
 - This sound is looped.
 - Fades out when the client loses focus.
 
-### Hit sounds
+### Hitsounds
 
-Hit sounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
+Hitsounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
 
 #### Drum set
 

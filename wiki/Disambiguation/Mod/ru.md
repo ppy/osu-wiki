@@ -1,7 +1,7 @@
 # Mod
 
-**Mod** может также относиться к:
+**Mod** также может означать:
 
--   Модератор, такой как [НАТ](/wiki/People/Nomination_Assessment_Team) или [ГМТ](/wiki/GMT).
--   Человек, который смотрит карту и даёт обратную связь.
--   [Модификатор игры](/wiki/game_modifier).
+- Модератор, такой как [НАТ](/wiki/People/Nomination_Assessment_Team) или [ГМТ](/wiki/People/Global_Moderation_Team).
+- Человек, который занимается [моддингом](/wiki/Modding) карт.
+- [Модификатор игры](/wiki/Game_Modifiers).

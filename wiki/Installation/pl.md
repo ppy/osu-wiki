@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # Instalacja
 
-*Zobacz także: [Instalacja/macOS](/wiki/Installation/macOS)* <!-- oraz [Instalacja/Linux](/wiki/Installation/Linux)* -->
+*Zobacz także: [Instalacja/macOS](/wiki/Installation/macOS)*
 
 Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ).
 

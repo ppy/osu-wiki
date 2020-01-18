@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding (Español)
 
 **Modding** es cuando alguien revisa el Beatmap de otra persona y hace sugerencias. Las sugerencias pueden ser para solucionar errores o simplemente para hacer el Beatmap mejor de lo que es. La persona haciendo el modding es llamado “[modder](/wiki/Glossary)”, y la persona que hace el Beatmap es llamado “[mapper](/wiki/Glossary)”. Si tu mapeas, es altamente recomendado que des mod por tres grandes razones:
@@ -42,7 +46,7 @@ Sabiendo que osu! es un juego rítmico, contener un ritmo racional es muy import
 
 ### Nuevos combos
 
-Los combos son el más básico sentido de dividir los círculos de un beatmap, por lo tanto son más fáciles para leer. Los combos generalmente no sobrepasan el número 20 en la dificultad [Insane](/wiki/Difficulties/Insane), 12 en la dificultad [Hard](/wiki/Difficulties/Hard) y 8 en las dificultades como las [Easy](/wiki/Difficulties/Easy) o [Normal](/wiki/Difficulties/Normal). No ha problema si la combinación de estos sobrepasan la regla en general siempre y cuando tengan sentido. Sin embargo, hay una manera lógica de ubicar un nuevo combo en patrones largos, por esto es recomendable hacerlo. Los combos suelen ser puestos a medida que la letra/tono/intrumento cambia de flujo o indica un golpe de cada medida. En casos especiales, son usados para indicar cualquier discrepancia en espaciado o la velocidad de un slider.
+Los combos son el más básico sentido de dividir los círculos de un beatmap, por lo tanto son más fáciles para leer. Los combos generalmente no sobrepasan el número 20 en la dificultad Insane, 12 en la dificultad Hard y 8 en las dificultades como las Easy o Normal. No ha problema si la combinación de estos sobrepasan la regla en general siempre y cuando tengan sentido. Sin embargo, hay una manera lógica de ubicar un nuevo combo en patrones largos, por esto es recomendable hacerlo. Los combos suelen ser puestos a medida que la letra/tono/intrumento cambia de flujo o indica un golpe de cada medida. En casos especiales, son usados para indicar cualquier discrepancia en espaciado o la velocidad de un slider.
 
 ### Incómodos overlaps or stacks
 

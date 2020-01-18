@@ -41,7 +41,7 @@ El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un 
 
 ### Pendiente
 
-_Ver también: [Procedimiento de rankeo de mapas](/wiki/Beatmap_Ranking_Procedure)_
+_Ver también: [Procedimiento de rankeo de mapas](/wiki/Beatmap_ranking_procedure)_
 
 Los mapas pendientes (pending) vienen indicados con el icono: (![Question mark icon](/wiki/shared/status/pending.png)) en la pantalla de selección de canciones. Un beatmap con el estatus pendiente es un mapa que espera ser [modeado](/wiki/modded).
 

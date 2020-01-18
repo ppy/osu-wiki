@@ -26,7 +26,7 @@ Beatmap ini idealnya memenuhi semua [kriteria ranking](/wiki/ranking_criteria). 
 
 Beatmap berstatus Approved menggunakan ikon centang (![Check icon](/wiki/shared/status/approved.png)) di halaman pemilihan lagu.
 
-Status Approved biasanya dipakai untuk lagu yang berdurasi lebih dari lima menit (juga dikenal sebagai [marathon](/wiki/marathon)), diukur dari total [drain time](/wiki/drain_time) dari sebuah beatmap. Kebanyakan beatmap berstatus approved tidak memiliki tingkat kesulitan [easy](/wiki/easy) atau [normal](/wiki/normal). Namun, beberapa pembuat konten dapat mengunggahnya sebagai beatmap yang terpisah dengan lagu-lagu yang identik sementara beberapa termasuk di dalam ranked, berisi beatmap-beatmap berstatus ranked.
+Status Approved biasanya dipakai untuk lagu yang berdurasi lebih dari lima menit (juga dikenal sebagai [marathon](/wiki/marathon)), diukur dari total [drain time](/wiki/drain_time) dari sebuah beatmap. Kebanyakan beatmap berstatus approved tidak memiliki tingkat kesulitan easy atau normal. Namun, beberapa pembuat konten dapat mengunggahnya sebagai beatmap yang terpisah dengan lagu-lagu yang identik sementara beberapa termasuk di dalam ranked, berisi beatmap-beatmap berstatus ranked.
 
 ### Qualified
 
@@ -57,7 +57,7 @@ Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your 
 
 ### Pending
 
-*Lihat juga: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
+*Lihat juga: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 Beatmap berstatus Pending menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/pending.png)) di halaman pemilihan lagu.
 

@@ -19,18 +19,23 @@ Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.s
 
 ### Eligibility
 
-There are some very minimal criteria that need to be met for beatmaps to be approved for Loved. Captains consider a beatmapset eligible for the Loved category if:
+There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Captains consider a beatmapset eligible for the Loved category if:
 
 - It is not in the [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) or [Approved](/wiki/Beatmaps#approved) categories
 - Its creator does not disapprove of it being Loved
-- Its creator is not banned or restricted
+- Its creator is neither banned nor restricted
 - At least one difficulty can be passed
-- No difficulties contain beatmapping errors (timing issues, incorrect file formatting, etc.)
-- It has correct metadata
+- It has at least 30 favourites (only applies to osu!standard maps)
 
 However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps#pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
-To help sort out maps that captains will likely never nominate, osu!standard maps are required to have at least 30 favourites in addition to the other requirements. **This does not apply to maps of the other three game modes.**
+Beatmaps entering the Loved category are required to follow some additional rule sets:
+
+- [The Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
+- [Song Content Rules](/wiki/Rules/Song_Content_Rules)
+- [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+
+Any problems with these rules are usually sorted out while the map is up for voting.
 
 ### Nomination priority
 

@@ -26,7 +26,7 @@ These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_crite
 
 Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an [easy](/wiki/easy) or [normal](/wiki/normal) difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an easy or normal difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
 
 ### Qualified
 
@@ -34,7 +34,7 @@ Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualifi
 
 These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
-- No [pp](/wiki/pp) will be awarded.
+- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
   - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
@@ -57,7 +57,7 @@ For a beatmap to be Loved, it must go through the [community voting process](/wi
 
 ### Pending
 
-*Main page: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
+*Main page: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 

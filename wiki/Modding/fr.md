@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding (Français)
 
 Le **Modding** est le fait d'examiner la [map](/wiki/Beatmaps) de quelqu'un d'autre et de faire des suggestions. Ces suggestions auront pour but de, soit corriger des erreurs, soit de simplement améliorer la map. La personne qui modde la map est appelée un "moddeur" et la personne ayant créée la map un "mappeur". Le modding peut-être utile pour trois raisons principales:
@@ -48,7 +52,7 @@ Le spacing est un des aspects les plus importants du beatmapping, le spacing aid
 
 ### Nouveaux Combos
 
-Les combos sont ce qui divisent les [cercles](/wiki/Hit_Objects) d'une [Beatmap](/wiki/Beatmaps) pour les rendre faciles à lire. En règle générale, les combos ne vont pas au dessus de 20 pour les [Insane](/wiki/Difficulties/Insane), 12 pour les [Hard](/wiki/Difficulties/Hard) et 8 pour les [Facile](/wiki/Difficulties/Easy) et [Normal](/wiki/Difficulties/Normal). Il n'y a pas de problèmes lorsque le combo dépasse ces valeurs si il y a une raison valable, mais il y a une façon logique d'arrêter un long combo, et il est recommandé de faire ainsi. Dans certains cas, les combos peuvent être utilisés afin d'indiquer un changement d'espacement ou de vitesse du slider.
+Les combos sont ce qui divisent les [cercles](/wiki/Hit_Objects) d'une [Beatmap](/wiki/Beatmaps) pour les rendre faciles à lire. En règle générale, les combos ne vont pas au dessus de 20 pour les Insane, 12 pour les Hard et 8 pour les Facile et Normal. Il n'y a pas de problèmes lorsque le combo dépasse ces valeurs si il y a une raison valable, mais il y a une façon logique d'arrêter un long combo, et il est recommandé de faire ainsi. Dans certains cas, les combos peuvent être utilisés afin d'indiquer un changement d'espacement ou de vitesse du slider.
 
 ### Chevauchements et piles
 

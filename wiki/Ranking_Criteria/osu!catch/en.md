@@ -1,4 +1,4 @@
-# osu!catch
+# osu!catch Ranking Criteria
 
 The **osu!catch Ranking Criteria** are rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -6,13 +6,15 @@ The **osu!catch Ranking Criteria** are rules and guidelines that apply to the cr
 
 These terms frequently appear when getting in touch with osu!catch difficulties and are also used within the Ranking Criteria.
 
-### Difficulty Names
+### Difficulty names
 
-- ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") **Cup:** Easy
-- ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") **Salad:** Normal
-- ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") **Platter:** Hard
-- ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") **Rain:** Insane
-- ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") **Overdose:** Expert
+*Main article: [Difficulty Naming](../Difficulty_Naming)*
+
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
 
 ### Gameplay
 
@@ -20,10 +22,10 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Drop:** A medium-sized object representing a slider tick.
 - **Droplet:** A small object representing a slider body. Missing these will reduce your accuracy, but unlike fruits and drops, will not result in a combo break.
 - **Banana:** An object found during spinners. These award bonus points, but do not contribute to accuracy and are not required to obtain max combo.
-- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops. 
+- **Active object:** An object that must be caught in order to maintain combo, namely fruits and drops.
 - **Walk:** Any spacing between two objects where no dash is needed to catch both.
 - **Dash:** A spacing between two objects that requires the use of the dash key to catch both.
-- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects. 
+- **Hyperdash:** Objects generated when the spacing between two active objects is too far apart to be caught by normal dashing. During play, this is characterized by a coloured outline on the first object. The term is also used to describe the movement between the two objects.
 - **Trigger distance:** The minimum spacing between two active objects at which a hyperdash is generated between them.
 - **Edge dash:** A very large spacing between two active objects where the required trigger distance is not reached, and as such, a hyperdash is not generated. The first object must be caught with the edge of the plate in order to catch the second object at all.
 - **Basic dash/hyperdash:** Any dash or hyperdash whose time between active objects is at least twice the time required to allow dashes or hyperdashes, respectively. As an example, a hyperdash between objects separated by 250 ms in a Platter classifies as a basic hyperdash.
@@ -32,7 +34,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu!catch difficulty.
+Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### General
 
@@ -49,12 +51,12 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 - **Dashes and hyperdashes should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
 - **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
 - **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
-- **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. For cases where the two values are not equal, the Overall Difficulty should be less than or equal to the Overall Difficulty of the next hardest difficulty.
+- **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the amount of fruits a spinner has, just the maximum score of a difficulty. However, if a difficulty uses a lower Approach Rate than one or more difficulties in the difficulty level below it, then the Overall Difficulty should be equal to that of the highest Overall Difficulty value in the previous difficulty level.
 - **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
 - **Avoid using combo colours with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
-- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
+- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** This can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 
@@ -70,9 +72,9 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-### ![Easy icon](/wiki/shared/diff/easy-c.png "Easy icon") Cup
+### ![](/wiki/shared/diff/easy-c.png) Cup
 
 #### Rules
 
@@ -84,13 +86,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 8 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 4-6
-- HP Drain Rate should be 4 or less
-- Circle Size should be between 2-3
+- Approach Rate / Overall Difficulty should be between 4 and 6.
+- HP Drain Rate should be between 2 and 3.
+- Circle Size should be between 2 and 3.
 
-### ![Normal icon](/wiki/shared/diff/normal-c.png "Normal icon") Salad
+### ![](/wiki/shared/diff/normal-c.png) Salad
 
 #### Rules
 
@@ -108,13 +110,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 10 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly. Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 6-7
-- HP Drain Rate should be between 4-5
-- Circle Size should be between 2.5-3.5
+- Approach Rate / Overall Difficulty should be between 6 and 7.
+- HP Drain Rate should be between 3 and 4.
+- Circle Size should be between 2.5 and 3.5.
 
-### ![Hard icon](/wiki/shared/diff/hard-c.png "Hard icon") Platter
+### ![](/wiki/shared/diff/hard-c.png) Platter
 
 #### Rules
 
@@ -137,13 +139,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 12 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-8.5
-- HP Drain Rate should be between 5-6
-- Circle Size should be between 3-4
+- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- HP Drain Rate should be between 4 and 5.
+- Circle Size should be between 3 and 4.
 
-### ![Insane icon](/wiki/shared/diff/insane-c.png "Insane icon") Rain
+### ![](/wiki/shared/diff/insane-c.png) Rain
 
 #### Rules
 
@@ -159,13 +161,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-9
-- HP Drain Rate should be between 6-7
-- Circle Size should be between 3-5
+- Approach Rate / Overall Difficulty should be between 7 and 9.
+- HP Drain Rate should be between 5 and 6.
+- Circle Size should be between 3 and 5.
 
-### ![Expert icon](/wiki/shared/diff/expert-c.png "Expert icon") Overdose
+### ![](/wiki/shared/diff/expert-c.png) Overdose
 
 #### Rules
 
@@ -180,8 +182,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern⁠.** 1/8 patterns and higher should be used sparingly.
 
-#### Difficulty Setting Guidelines
+#### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 8-10
-- HP Drain Rate should be between 6-8
-- Circle Size should be between 3-6
+- Approach Rate / Overall Difficulty should be between 8 and 10.
+- HP Drain Rate should be between 6 and 7.
+- Circle Size should be between 3 and 6.

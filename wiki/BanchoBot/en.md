@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # BanchoBot
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
@@ -12,7 +16,7 @@ BanchoBot commands start with `!` followed by the command. These commands work i
 
 You can also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
 
-*Notice: The `SEARCH` command is not included as it is not working.*
+*Notice: The `REQUEST` command is not included because it is no longer supported.*
 
 *Note: The user argument is case-insensitive, as usernames are case-insensitive.*
 
@@ -31,7 +35,6 @@ Shows a list of available BanchoBot commands.
 ```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: SEARCH <query>|next|prev
 BanchoBot: WHERE <user>
 BanchoBot: STATS <user>
 BanchoBot: FAQ <item>|list
@@ -93,7 +96,7 @@ BanchoBot: Accuracy: 94.19%
 
 Shows the entered user's current location.
 
-*Note: This only shows the user's country.*
+*Note: By default, this only shows the user's country. If the user has `Share your city location with others` enabled, it may also display their city.*
 
 #### Usage Example
 
@@ -136,6 +139,8 @@ Tama: ok
 !REPORT <user> <reason>
 ```
 
+*For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
+
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
 Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
@@ -145,20 +150,4 @@ Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or 
 ```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
-```
-
-### REQUEST
-
-```
-!REQUEST
-!REQUEST list
-```
-
-Shows a link to a recent beatmap that is requesting modding assistance. You can use the `list` argument to fetch more at once. Clicking on the link will open the beatmap page or osu!direct, if you are an osu!supporter.
-
-#### Usage Example
-
-```
-pippi: !request
-BanchoBot: HoneyWorks - Tokyo Summer Session feat. CHiCO by MrSergio
 ```

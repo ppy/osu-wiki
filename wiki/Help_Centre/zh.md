@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 帮助中心
 
 遇到了一些麻烦的问题？我们可以提供帮助。你可以在页面左边的侧栏找到一些常见问题和它们的解决方法。由于本文篇幅较长，请尽量使用侧栏和 `Ctrl+F` 搜索功能以尽快定位到你遇到的问题。
@@ -938,7 +942,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 **你可能需要为它重新分区。**
 
-请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html)，了解具体应该怎么做。
+请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.zh.html)，了解具体应该怎么做。
 
 
 #### 我重新格式化了 osu!go U 盘，现在它在磁盘管理中显示了。

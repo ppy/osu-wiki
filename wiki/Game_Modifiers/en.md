@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
@@ -546,7 +550,7 @@ Click on Auto again to activate Cinema mod.
 
 Cinema mod shows the **background and storyboard only** without the gameplay elements.
 
-Hit sounds can still be heard based on the selected beatmap. In addition, replay elements and the Results screen will be disabled and background dim will be set to 0%.
+Hitsounds can still be heard based on the selected beatmap. In addition, replay elements and the Results screen will be disabled and background dim will be set to 0%.
 
 Since the player is not actively playing the beatmap and more to watching the replay, the play is considered unranked.
 
@@ -729,7 +733,7 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings "Visu
 ![Example of a rare case of surviving Sudden Death. The player managed to grab a slider tick that filled up the HP bar before depleting completely.][SD_Rare]
 
 - osu! used to round down Score Multiplier to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise.
-- Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on [insane](/wiki/Difficulties/osu!/Insane) or approved beatmaps.
+- Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on more difficult beatmaps.
   - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/users/64501).
 - When playing with Sudden Death mod enabled in osu!standard mode, there are _rare cases_ where the player _may_ survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and _before_ the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
   - Since the slider tick health gain must be sufficient enough to outlast the natural health drain over time, it may be impossible to continue at higher difficulty settings even when the player survives the full life bar drain.

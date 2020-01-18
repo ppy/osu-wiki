@@ -1,9 +1,8 @@
 # Artistes associés
-<!-- à faire : inclure une histoire sur la guilde des artistes/mappeurs, peut-être dans /History_of_osu! aussi -->
 
 **Les artistes associés** sont des musiciens ayant collaboré avec osu! pour faire une sélection de leurs compositions afin que n'importe qui dans la communauté osu! puisse les utiliser. Certains des artistes présentés ont également composé des pistes spécialement pour osu! et sont répertoriées en tant qu'exclusivités.
 
-[Une section du site](https://osu.ppy.sh/beatmaps/artists) répertorie et détaille chaque artiste associés. Vous trouverez sur les pages des artistes des informations générales à leur sujet, ainsi que toutes les pistes libre d'utilisation sur osu!, accompagné de fichiers .osz prédéfinis pour une utilisation dans l'éditeur de beatmaps.
+[Une section du site](https://osu.ppy.sh/beatmaps/artists) répertorie et détaille chaque artiste associés. Vous trouverez sur les pages des artistes des informations générales à leur sujet, ainsi que toutes les pistes libre d'utilisation sur osu!, accompagné de fichiers `.osz` prédéfinis pour une utilisation dans l'éditeur de beatmaps.
 
 ## Mappers' Guild
 

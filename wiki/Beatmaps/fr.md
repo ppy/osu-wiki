@@ -24,7 +24,7 @@ Ces beatmaps remplissent tous les [critères de classement](/wiki/ranking_criter
 
 Les beatmaps approuvées ont l'icône de coche (![icône de coche](/wiki/shared/status/approved.png)) dans l'écran de sélection des musiques.
 
-Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés [facile](/wiki/easy) ni [normale](/wiki/normal). Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
+Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés facile ni normale. Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
 
 ### Qualifiées
 
@@ -55,7 +55,7 @@ Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de fo
 
 ### En Attente
 
-_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_Ranking_Procedure)_
+_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
 
 Les beatmaps en attente ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection des musiques.
 
