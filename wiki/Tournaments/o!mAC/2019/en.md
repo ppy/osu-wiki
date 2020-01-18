@@ -1,42 +1,50 @@
+---
+tags:
+  - o!mAC
+  - o!mAC2019
+  - omAC
+  - omAC2019
+---
+
 # osu!mania Asian's Champions 2019
 
-![o!mAC2019 Logo](img/logo.png)
+![o!mAC2019 logo](img/logo.png)
 
-The **osu!mania Asian's Champions 2019** (***o!mAC2019***) is an individual 4K osu!mania tournament for players across Asia.
+The **osu!mania Asian's Champions 2019** (***o!mAC2019***) was an individual 4K osu!mania tournament for players across Asia.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-08-11/2019-08-31 |
+| Registration | 2019-08-11/2019-08-31 |
 | Qualifiers | 2019-09-21/2019-09-22 |
-| Live Drawings | 2019-09-23 21:00 (UTC+7) |
+| Live drawings | 2019-09-23 21:00 (UTC+7) |
 | Group Stage | 2019-09-28/2019-10-06 |
 | Round of 16 | 2019-10-12/2019-10-13 |
 | Quarterfinals | 2019-10-19/2019-10-20 |
 | Semifinals | 2019-10-26/2019-10-27 |
-| Finals - Week 1 | 2019-11-02/2019-11-03 |
-| Finals - Week 2 | 2019-11-09/2019-11-10 |
+| Finals: Week 1 | 2019-11-02/2019-11-03 |
+| Finals: Week 2 | 2019-11-09/2019-11-10 |
 
 ## Prizes
 
-Many thanks to ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) for donating supporter tags!
-
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
+
+Many thanks to ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) for donating supporter tags!
 
 ## Organisation
 
-The osu!mania Asian's Champions 2019 is run by various community members.
+The osu!mania Asian's Champions 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [chouyaa](https://osu.ppy.sh/users/8404646) |
 | Co-host | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
-| Map Selector | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) |
+| Map selector | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) |
 | Streamer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_MY] [\[MY\]Solut1on\_](https://osu.ppy.sh/users/14262785), ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_LV] [Adiopulse](https://osu.ppy.sh/users/4387852) |
 | Commentator | ![][flag_VN] [Weabonie](https://osu.ppy.sh/users/8151986), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | Referee | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735), ![][flag_ID] [FadillSan](https://osu.ppy.sh/users/7006830), ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596), ![][flag_TW] [Makura](https://osu.ppy.sh/users/10665623), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
@@ -56,9 +64,9 @@ The osu!mania Asian's Champions 2019 is run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## Mappools
 
@@ -161,44 +169,44 @@ The osu!mania Asian's Champions 2019 is run by various community members.
 - [Laur - Absolute Domination (chouyaa) \[Stage 4 : Devastation\]](https://osu.ppy.sh/beatmapsets/1031176#mania/2156349)
 - [PHOENIX Project - Youma Yakou (FAMoss) \[Stage 5: Umbrakinesis\]](https://osu.ppy.sh/beatmapsets/1012614#mania/2119478)
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals: Week 2
 
-| Player | Score | Score | Player | Note |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- | :-- |
-| xxxxxx2800 | 0 | **7** | **\[Crz\]FolAH1217** |  |
-| **\[ R o a d \]** | **7** | 2 | \[Crz\]FolAH1217 |  |
+| xxxxxx2800 | 0 | **7** | **\[Crz\]FolAH1217** |
+| **\[ R o a d \]** | **7** | 2 | \[Crz\]FolAH1217 |
 
-### Finals - Week 1
+### Finals: Week 1
 
-| Player | Score | Score | Player | Note |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- | :-- |
-| **NKEYBOARD** | **7** | 4 | watarakisah |  |
-| **xxxxxx2800** | **7** | 1 | rlarkgus |  |
-| NKEYBOARD | 0 | **7** | **xxxxxx2800** |  |
-| \[Crz\]FolAH1217 | 4 | **7** | **\[ R o a d \]** |  |
+| **NKEYBOARD** | **7** | 4 | watarakisah |
+| **xxxxxx2800** | **7** | 1 | rlarkgus |
+| NKEYBOARD | 0 | **7** | **xxxxxx2800** |
+| \[Crz\]FolAH1217 | 4 | **7** | **\[ R o a d \]** |
 
 ### Semifinals
 
-| Player | Score | Score | Player | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
 | NKEYBOARD | 1 | **6** | **\[Crz\]FolAH1217** |  |
 | xxxxxx2800 | 0 | **6** | **\[ R o a d \]** |  |
 | **AHHHHHHHHHHHHHH** | **6** | 4 | basicmaime |  |
-| \[Aqours Ruby\] | 0 | **0** | **watarakisah** | FF |
+| \[Aqours Ruby\] | 0 | **0** | **watarakisah** | *forfeit* |
 | popomon | 0 | **0** | **rlarkgus** |  |
 | Nagareboshi | 1 | **6** | **SharpKunG1412** |  |
-| AHHHHHHHHHHHHHH | 0 | **0** | **watarakisah** | FF |
+| AHHHHHHHHHHHHHH | 0 | **0** | **watarakisah** | *forfeit* |
 | **rlarkgus** | **6** | 4 | SharpKunG1412 |  |
 
 ### Quarterfinals
 
-| Player | Score | Score | Player | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
 | Nagareboshi | 3 | **6** | **NKEYBOARD** |  |
 | popomon | 0 | **6** | **\[Crz\]FolAH1217** |  |
-| **xxxxxx2800** | **0** | 0 | \[Aqours Ruby\] | WBD |
+| **xxxxxx2800** | **0** | 0 | \[Aqours Ruby\] | *win by default* |
 | **\[ R o a d \]** | **6** | 2 | AHHHHHHHHHHHHHH |  |
 | SHOKO - | 1 | 6 | **basicmaime** |  |
 | **watarakisah** | **6** | 0 | kdj8381 |  |
@@ -207,16 +215,16 @@ The osu!mania Asian's Champions 2019 is run by various community members.
 
 ### Round of 16
 
-| Player | Score | Score | Player | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
 | SHOKO - | 4 | **5** | **Nagareboshi** |  |
 | basicmaime | 3 | **5** | **NKEYBOARD** |  |
 | **popomon** | **5** | 3 | watarakisah |  |
-| **\[Crz\]FolAH1217** | **0** | 0 | kdj8381 | FF |
-| YanYannn | 0 | **0** | **xxxxxx2800** | FF |
-| rlarkgus | 0 | **0** | **\[Aqours Ruby\]** | FF |
+| **\[Crz\]FolAH1217** | **0** | 0 | kdj8381 | *forfeit* |
+| YanYannn | 0 | **0** | **xxxxxx2800** | *forfeit* |
+| rlarkgus | 0 | **0** | **\[Aqours Ruby\]** | *forfeit* |
 | SharpKunG1412 | 0 | **5** | **\[ R o a d \]** |  |
-| gosy777 | 0 | **0** | **AHHHHHHHHHHHHHH** | WBD |
+| gosy777 | 0 | **0** | **AHHHHHHHHHHHHHH** | *win by default* |
 
 ## Ruleset
 
