@@ -22,7 +22,7 @@ Please use the logo as provided by the design kit without any modification.
 
 ### Clear space area
 
-![](img/clear-space-area.jpg)
+![](img/clear-space-area.png)
 
 Please give the cookie some breathing space. Use the "o" in "osu!" as the measurement of space.
 
@@ -30,7 +30,7 @@ Please give the cookie some breathing space. Use the "o" in "osu!" as the measur
 
 Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile; it can adapt to many designs with ease. There is no strict colour restriction to the colour of the cookie.
 
-![](img/restrictions-good-single.jpg)
+![](img/restrictions-good-single.png)
 
 - The cookie must be sharp at all times.
 - You can use any colour for the cookie.
@@ -39,8 +39,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ---
 
-
-![](img/restrictions-bad-single.jpg)
+![](img/restrictions-bad-single.png)
 
 - Do not change the cookie's aspect ratio.
 - Do not rotate the cookie. The cookie must align to the medium's orientation or reader's eye when reading.
@@ -59,7 +58,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile; it can adapt to many designs with ease. There is no strict colour restriction to the colour of the cookie. All the restrictions applied on the single colour cookie applies to the full colour cookie too.
 
-![](img/restrictions-bad-full.jpg)
+![](img/restrictions-bad-full.png)
 
 - Do not use the old cookie.
 - Do not use a different shade of pink.
