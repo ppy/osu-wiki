@@ -1,8 +1,8 @@
 # Brand identity guidelines
 
-The brand identity guidelines is a set of standards when branding osu! related projects. All use does not require approval.
+The brand identity guidelines are a set of standards for branding osu!-related projects. All use does not require approval.
 
-[Download the design kit here.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) The linked design kit contains other outdated assets; the assets that are current is the osu! cookie. Also note that the included identity guidelines PDF is outdated, please refer to this page for the brand identity guidelines.
+[Download the design kit here.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) The linked design kit contains some outdated assets. Also note that the included PDF is outdated and this page should be used instead.
 
 ## osu! cookie logo
 
