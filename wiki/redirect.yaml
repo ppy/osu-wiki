@@ -1044,7 +1044,9 @@
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
 
-"skr":                         "Shortcut_Key_Reference"
+"hotkeys": "Shortcut_key_reference"
+"keyboard_shortcuts": "Shortcut_key_reference"
+"shortcuts": "Shortcut_key_reference"
 
 "all_articles": "Sitemap"
 "all_pages": "Sitemap"
