@@ -13,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Bem-vindo](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalação](/wiki/Installation) • [Interface](/wiki/Interface) • [Opções do Jogo](/wiki/Options) • [Teclas de Atalho](/wiki/Shortcut_Key_Reference) • [Mapa do Site](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Central de Ajuda](/wiki/Help_Centre)
+[Bem-vindo](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalação](/wiki/Installation) • [Interface](/wiki/Interface) • [Opções do Jogo](/wiki/Options) • [Teclas de Atalho](/wiki/Shortcut_key_reference) • [Mapa do Site](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Central de Ajuda](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

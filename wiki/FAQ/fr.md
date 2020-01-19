@@ -20,7 +20,7 @@
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "plus d'informations dans l'article Points sous FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
-[Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Référence des raccourcis clavier"
+[Shortcut Key Reference wikilink]: /wiki/Shortcut_key_reference/ "Référence des raccourcis clavier"
 [Options wikilink]: /wiki/Options "Options"
 [Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "Portages Externes"
 [opsu! wikilink]: ./External_Ports/opsu! "opsu! par itdelatrisu avec fluddokt"
