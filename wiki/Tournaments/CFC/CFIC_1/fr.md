@@ -275,7 +275,7 @@ Samedi, 9 Mars 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | -win by default- |
+| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
 | **redjiii** ![][flag_FR] | **5** | 3 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
 | pierreCHT ![][flag_FR] | 2 | **5** | ![][flag_FR] **YANOO123** | [#1](https://osu.ppy.sh/community/matches/50139355) |
 | Khalemm ![][flag_FR] | 3 | **5** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50141080) |
@@ -284,7 +284,7 @@ Dimanche, 10 Mars 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | -win by default- |
+| Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
 
 ### Phase de poules
@@ -302,27 +302,27 @@ Samedi, 2 Mars 2019:
 | **pierreCHT** ![][flag_FR] | **4** | 1 | ![][flag_FR] 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
 | ACinfr ![][flag_FR] | 3 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
 | **YANOO123** ![][flag_FR] | **4** | 3 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/49966114) |
-| **Khalemm** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | -win by default- |
-| **oasix42** ![][flag_FR] | **4** | 0 | ![][flag_FR] rpp1 | -win by default- |
-| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | -win by default- |
+| **Khalemm** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | *win by default* |
+| **oasix42** ![][flag_FR] | **4** | 0 | ![][flag_FR] rpp1 | *win by default* |
+| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
 | ACinfr ![][flag_FR] | 0 | **4** | ![][flag_FR] **pierreCHT** | [#1](https://osu.ppy.sh/community/matches/49968694) |
 | floflim ![][flag_FR] | 1 | **4** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/49968275) |
 | oasix42 ![][flag_FR] | 2 | **4** | ![][flag_FR] **YANOO123** | [#1](https://osu.ppy.sh/community/matches/49968761) |
-| **redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | -win by default- |
+| **redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | *win by default* |
 | Khalemm ![][flag_FR] | 3 | **4** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/49970070) |
-| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **YANOO123** | -win by default- |
+| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **YANOO123** | *win by default* |
 | **4L-Chan 3 Porte** ![][flag_FR] | **4** | 0 | ![][flag_FR] ACinfr | [#1](https://osu.ppy.sh/community/matches/49973420) |
 
 Dimanche, 3 Mars 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | -win by default- |
-| **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | -win by default- |
+| Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | *win by default* |
+| **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
 | **Yruama** ![][flag_FR] | **4** | 0 | ![][flag_FR] oasix42 | [#1](https://osu.ppy.sh/community/matches/49997304) |
 | Sageru ![][flag_FR] | 0 | **4** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/49997414) |
 | Zard ![][flag_FR] | 1 | **4** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/49998230) |
-| **Zard** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | -win by default- |
+| **Zard** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
 | **-\[Smoked\]-** ![][flag_FR] | **4** | 3 | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/50001096) |
 | **redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/50001709) |
 | Sageru ![][flag_FR] | 0 | **4** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50002427) |
