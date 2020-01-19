@@ -320,7 +320,8 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Date | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- |
-| [iDOL@NSTER](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
 ## Voir aussi
 
