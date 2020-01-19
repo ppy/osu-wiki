@@ -141,7 +141,7 @@ All forms of Artist/Title standardisation apply to both the `Romanised` and `Uni
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags**
-- **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
+- **Song genre(s) and language(s) should be added to the tags of a beatmap.** Use `instrumental` in place of the language if there is none. <!-- TODO: when the online genre/language fields are able to be set by mappers and BNs, this guideline can also suggest copying the online info into tags -->
 - **Additional Tags: It is recommended to include tags such related artists, alternate titles for the song, alternate spellings of an artist name, simplified contractions for words in metadata fields, and whatever may aid a player to find the map.**
 
 #### Standardisation
