@@ -13,7 +13,7 @@ Bienvenue sur le wiki d'osu!, un projet contenant une large gamme d'informations
 
 # Pour débuter
 
-[Bienvenue](/wiki/Welcome) • [Enregistrement](/wiki/Registration) • [Installation](/wiki/Installation) • [Interface du jeux](/wiki/Interface) • [Option du jeu](/wiki/Options) • [Raccourcis clavier](/wiki/Shortcut_Key_Reference) • [Plan du site](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Centre d'aide](/wiki/Help_Centre)
+[Bienvenue](/wiki/Welcome) • [Enregistrement](/wiki/Registration) • [Installation](/wiki/Installation) • [Interface du jeux](/wiki/Interface) • [Option du jeu](/wiki/Options) • [Raccourcis clavier](/wiki/Shortcut_key_reference) • [Plan du site](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Centre d'aide](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

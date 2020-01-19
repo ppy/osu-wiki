@@ -201,7 +201,7 @@ tags:
     -   [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
 -   [Score](/wiki/Score)
     -   [ScoreV1](/wiki/Score/ScoreV1)
--   [Shortcut Key Reference](/wiki/Shortcut_Key_Reference)
+-   [Shortcut key reference](/wiki/Shortcut_key_reference)
 -   [Sitemap](/wiki/Sitemap)
 -   [Skinning](/wiki/Skinning)
     -   [FAQ](/wiki/Skinning/FAQ)

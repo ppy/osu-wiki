@@ -15,7 +15,7 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Empecemos
 
-[Bienvenido](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalación](/wiki/Installation) • [Interfaz del juego](/wiki/Interface) • [Opciones del juego](/wiki/Options) • [Referencia de atajos de teclado](/wiki/Shortcut_Key_Reference) • [Mapa del sitio](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Centro de ayuda](/wiki/Help_Centre)
+[Bienvenido](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalación](/wiki/Installation) • [Interfaz del juego](/wiki/Interface) • [Opciones del juego](/wiki/Options) • [Referencia de atajos de teclado](/wiki/Shortcut_key_reference) • [Mapa del sitio](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Centro de ayuda](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
