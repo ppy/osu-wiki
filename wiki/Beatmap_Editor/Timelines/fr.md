@@ -5,7 +5,7 @@ Cet article explique comment chacune d'entre elles fonctionne.
 
 ## Raccourcis
 
-*Pour une liste des raccourcis clavier pour la timeline, voir :[Shortcut Key Reference](/wiki/Shortcut_Key_Reference)*
+*Pour une liste des raccourcis clavier pour la timeline, voir :[Shortcut key r  reference](/wiki/Shortcut_key_reference)*
 
 ## Lecteur de chansons
 
