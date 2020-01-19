@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # osu!academy
 
 ![Logo osu!academy](img/osu!academy-logo.jpg "Logo osu!academy")
