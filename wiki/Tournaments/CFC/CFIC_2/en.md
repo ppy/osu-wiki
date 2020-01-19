@@ -65,12 +65,13 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ### General rules
 
-1. The Score System used will be **Score V2**.
-2. If player can't attend within the span of **10 minutes**, the other player will win by default.
-3. A proper language is required, from the participants and the staff team as well
-4. Even in a tournament scene osu! is still a game. Please respect each other, be friendly, and fair play.
-5. Catch French Intermediate Cup 2 will use double-elimination bracket, which means that there will be a loser's bracket.
-6. Any player with French flag can participate in the tournament.
+1. Participant must be within ranks #1,000 - #3,000 during registrations.
+2. The Score System used will be **Score V2**.
+3. If player can't attend within the span of **10 minutes**, the other player will win by default.
+4. A proper language is required, from the participants and the staff team as well
+5. Even in a tournament scene osu! is still a game. Please respect each other, be friendly, and fair play.
+6. Catch French Intermediate Cup 2 will use double-elimination bracket, which means that there will be a loser's bracket.
+7. Any player with French flag can participate in the tournament.
 
 ### Match regulations
 
