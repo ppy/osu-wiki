@@ -2,16 +2,16 @@
 
 These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
 
-## Community Rules
+## Community rules
 
 1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
 6. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
-## In-Game Chat Rules
+## In-game chat rules
 
 1. **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
 2. **Let the moderators handle issues in the chat.** You can point things out to them with [the `!report` command](/wiki/Reporting_Bad_Behaviour) and they'll handle the rest.
@@ -21,7 +21,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
 7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
 8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
-9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
+9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
 ## Forum-wide rules
 
@@ -33,7 +33,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 6. **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
 7. **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
-## Beatmap Submission Rules
+## Beatmap submission rules
 
 *Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
 

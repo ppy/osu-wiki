@@ -21,7 +21,7 @@ Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu
 6. **Perhatikan apa yang Anda bagikan dengan orang lain, terutama jika konten yang Anda bagikan berpotensi mengganggu atau kurang nyaman dilihat untuk umum.** Jika Anda harus berpikir dua kali tentang apakah sesuatu pantas untuk ditautkan, hal itu mungkin tidak pantas. Hindari hal-hal dengan pencahayaan yang cepat dan menyala-nyala *(epilepsi)*, mengandung darah *(gore)*, gambar pelecehan atau konten lainnya.
 7. **Jaga tautan ke situs web legal dan sesuai.** Situs web yang menayangkan konten ilegal (yang berlisensi resmi seperti Animelab dan Crunchyroll diperbolehkan) dan apa pun yang terkait dengan "warez" atau perangkat lunak ilegal apa pun termasuk hal yang tidak pantas dikirim, dan kami tidak ingin orang seperti mereka berada di obrolan kami. Mengiklankan Tautan Twitch permainan lain masih diperbolehkan, tapi HANYA di channel `#videogames`.
 8. **Jangan mengiklankan server obrolan pihak ketiga dalam bentuk apa pun, termasuk Discord, Teamspeak, atau server/grup Skype.** Obrolan osu! pastinya diutamakan hanya untuk osu! dan bukan tentang berbagi tautan ke server pribadi Anda. Lakukan melalui PM jika Anda benar-benar harus melakukannya.
-9. **Dalam channel khusus bahasa, Anda harus berbicara dengan bahasa dominan (bahasa Inggris untuk channel `#english`, bahasa Thailand untuk channel `#thai`, dll) jika Anda berpartisipasi dalam diskusi.** Dimana bahasa untuk channel tidak secara spesifik dinyatakan (atau disimpulkan dari nama channel, seperti dalam bahasa Thai untuk `#thai` dan Belanda untuk channel `#dutch`), secara standard selalu bahasa Inggris. channel `#lobby` dan `#help` dapat digunakan dalam berbagai bahasa, tidak seperti channel lain. *Anggota [moderation staff](/wiki/People/Global_Moderation_Team) tidak perlu mengikuti aturan ini selama masa jabatan mereka.*
+9. **Dalam channel khusus bahasa, Anda harus berbicara dengan bahasa dominan (bahasa Inggris untuk channel `#english`, bahasa Thailand untuk channel `#thai`, dll) jika Anda berpartisipasi dalam diskusi.** Dimana bahasa untuk channel tidak secara spesifik dinyatakan (atau disimpulkan dari nama channel, seperti dalam bahasa Thai untuk `#thai` dan Belanda untuk channel `#dutch`), secara standard selalu bahasa Inggris. channel `#lobby` dan `#help` dapat digunakan dalam berbagai bahasa, tidak seperti channel lain. *Anggota [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) tidak perlu mengikuti aturan ini selama masa jabatan mereka.*
 
 ## Aturan seluruh forum
 
@@ -37,9 +37,9 @@ Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu
 
 *Catatan: Aturan-aturan ini berlaku untuk **semua beatmap yang diajukan**, bukan hanya yang berstatus Ranked. Untuk aturan lebih rinci tentang beatmap Ranked, lihat [Kriteria Beatmap Ranked](/wiki/Ranking_Criteria).*
 
-Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Glossary#bss) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/editor).
+Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Glossary#bss) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/Beatmap_Editor).
 
-1. **Pastikan Anda memiliki izin untuk menggunakan konten apa pun yang terlibat dalam beatmap Anda.** Konten yang dimaksud termasuk lagu, video, hitsound, grafik, dan konten lain apa pun yang bukan kreasi milik Anda. Jika Anda tidak yakin di mana dapat menemukan konten yang gratis dan aman digunakan, kami memiliki koleksi lagu yang tersedia di daftar [Artis Unggulan](https://osu.ppy.sh/beatmaps/artists/), semuanya 100% berlisensi untuk digunakan di osu!.
+1. **Pastikan Anda memiliki izin untuk menggunakan konten apa pun yang terlibat dalam beatmap Anda.** Konten yang dimaksud termasuk lagu, video, hitsound, grafik, dan konten lain apa pun yang bukan kreasi milik Anda. Jika Anda tidak yakin di mana dapat menemukan konten yang gratis dan aman digunakan, kami memiliki koleksi lagu yang tersedia di daftar [Artis Unggulan](https://osu.ppy.sh/beatmaps/artists), semuanya 100% berlisensi untuk digunakan di osu!.
 2. **Tetap dalam topik bahasan dalam Diskusi Beatmap.** Topik ini bertujuan untuk membahas beatmap yang dipertanyakan, dan tidak ada bahasan lain. Jika Anda memiliki masalah dengan sesuatu yang tidak berkaitan langsung dengan beatmap, kirim masalah anda di forum yang sesuai.
 3. **Dilarang menjiplak atau mencoba mencuri karya orang lain.** Jangan juga mengunggah atau menggunakan karya orang lain tanpa izin spesifik dari mereka (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan mapper lain).
 4. **Ikuti [Aturan Konten Lagu](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
@@ -50,10 +50,10 @@ Jika Anda menemukan diri Anda di ujung yang salah dari aturan komunitas kami, ha
 
 Hal-hal buruk ini mungkin termasuk (*tetapi tidak terbatas pada*):
 
-* Penghapusan kemampuan Anda untuk mengobrol dalam game untuk jangka waktu tertentu (dikenal sebagai pembungkaman)
-* Penghapusan konten apa pun yang melanggar dari halaman pengguna, profil, atau beatmap yang diunggah oleh Anda
-* Hilangnya hak istimewa untuk menyunting atau mengubah halaman pengguna atau rincian profil Anda
-* Hilangnya hak istimewa untuk bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
+- Penghapusan kemampuan Anda untuk mengobrol dalam game untuk jangka waktu tertentu (dikenal sebagai pembungkaman)
+- Penghapusan konten apa pun yang melanggar dari halaman pengguna, profil, atau beatmap yang diunggah oleh Anda
+- Hilangnya hak istimewa untuk menyunting atau mengubah halaman pengguna atau rincian profil Anda
+- Hilangnya hak istimewa untuk bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
 Pembungkaman dan pelanggaran lainnya **secara otomatis** meningkatkan durasi mendekati dengan cepat setiap pelanggarannya. Moderator tidak mengatur lamanya waktu Anda dibungkam karena suatu pelanggaran - penjahat kambuhan akan menemukan diri mereka terkunci di luar permainan untuk periode waktu yang lebih lama.
 
@@ -61,6 +61,6 @@ Pelanggaran tertentu memiliki durasi minimum (biasanya 48 jam atau lebih) jika p
 
 Jika setelah beberapa pelanggaran Anda tetap terus melanggar aturan, akun Anda dapat secara permanen dibatasi tanpa opsi pembatalan.
 
-Akun yang dibatasi tidak dapat bermain online, menetapkan skor, mengobrol dengan pengguna lain dan untuk semua maksud dan tujuan "dilarang" berinteraksi dengan komunitas. Pembatasan untuk pelanggaran aturan komunitas hanya dapat dihapus setelah ajuan banding kepada staf game setelah 3 bulan berlalu ([berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Akun yang dibatasi tidak dapat bermain online, menetapkan skor, mengobrol dengan pengguna lain dan untuk semua maksud dan tujuan "dilarang" berinteraksi dengan komunitas. Pembatasan untuk pelanggaran aturan komunitas hanya dapat dihapus setelah ajuan banding kepada staf game setelah 3 bulan berlalu ([berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
 
 Pelanggaran berat yang melampaui batas aturan kami dan termasuk yurisdiksi konten ilegal sesuai hukum umum internasional akan mengakibatkan penghentian akun segera. Hal ini berlaku secara eksklusif untuk pelanggaran yang sangat mencolok atau pelanggaran yang tidak bisa dimaafkan, seperti distribusi pornografi anak atau bentuk pelecehan lainnya.
