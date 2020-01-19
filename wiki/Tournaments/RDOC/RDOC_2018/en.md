@@ -35,7 +35,7 @@ The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimina
 
 ## Organisation
 
-The Beginner's Taiko Tournament 5 is run by various community members.
+The Royal Danish osu!Cup is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -128,7 +128,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - DoubleTime
   - [sana - Kotonoha Clinic \[Moroi\]](https://osu.ppy.sh/beatmapsets/419189#osu/907200)
   - [Oratorio The World God Only Knows - God only knows \[God\]](https://osu.ppy.sh/beatmapsets/35036#osu/113776)
-  - [Zektbach - Blind Justice ~Torn souls, Hurt Faiths~ \[Another\]](https://osu.ppy.sh/beatmapsets/64252#osu/189220)
+  - [Zektbach - Blind Justice \~Torn souls, Hurt Faiths\~ \[Another\]](https://osu.ppy.sh/beatmapsets/64252#osu/189220)
 - FreeMod
   - [Ceui - Labyrinths \[HSR\]](https://osu.ppy.sh/beatmapsets/56802#osu/171588)
   - [KITCALIBER - HEY FUCKER \[EXTRA\]](https://osu.ppy.sh/beatmapsets/192416#osu/457590)
@@ -228,7 +228,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - Hidden
   - [Himeringo - Yotsuya-san ni Yoroshiku \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/100049#osu/351996)
   - [Noboru feat.Mitani Nana - Shiroi Yuki no Princess wa \[Extra\]](https://osu.ppy.sh/beatmapsets/439609#osu/949736)
-  - [Zektbach - Turii ~Panta rhei~ \[Insane\]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
+  - [Zektbach - Turii \~Panta rhei\~ \[Insane\]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
 - HardRock
   - [LeaF - Wizdomiot \[Another\]](https://osu.ppy.sh/beatmapsets/336099#osu/754799)
   - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[Frostings' Insane\]](https://osu.ppy.sh/beatmapsets/210346#osu/508558)
@@ -236,7 +236,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - DoubleTime
   - [3L - Macrophylla Parasol \[Lunatic\]](https://osu.ppy.sh/beatmapsets/483344#osu/1489084)
   - [Giga-P - Electric Angel \[Insane\]](https://osu.ppy.sh/beatmapsets/146794#osu/363639)
-  - [Zektbach - ZETA ~Sosuu no Sekai to Chouetsu sha~ \[Hard\]](https://osu.ppy.sh/beatmapsets/34349#osu/111685)
+  - [Zektbach - ZETA \~Sosuu no Sekai to Chouetsu sha\~ \[Hard\]](https://osu.ppy.sh/beatmapsets/34349#osu/111685)
 - FreeMod
   - [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/719158#osu/1542952)
   - [Rise Against - The Eco-Terrorist In Me \[Expert\]](https://osu.ppy.sh/beatmapsets/358609#osu/819082)
@@ -400,7 +400,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 ### General rules
 
 1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
-2. This tournament uses double-elimination bracket and single-player format. There are no teams here.
+2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. To participate you **must** join the Discord for the duration of the tournament.
 5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage except Groupstage will last one weekend. Groupstage will be played over two weekends instead due to the relatively small staff-size.
