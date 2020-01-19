@@ -30,6 +30,7 @@ tags:
     -   [History of Loved](/wiki/Beatmaps/History_of_Loved)
     -   [Packs](/wiki/Beatmaps/Packs)
     -   [Title Text](/wiki/Beatmaps/Title_Text)
+-   [Brand identity guidelines](/wiki/Brand_identity_guidelines)
 -   [Chat Console](/wiki/Chat_Console)
 -   [Contests](/wiki/Contests)
     -   [FBC](/wiki/Contests/FBC)
