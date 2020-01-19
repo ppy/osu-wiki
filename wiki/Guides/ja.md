@@ -6,7 +6,7 @@
 
 *メインページ: [ビートマッピング](/wiki/Beatmapping)*
 
-- [カスタムヒットサウンドの追加]](Adding_Custom_Hitsounds)
+- [カスタムヒットサウンドの追加](Adding_Custom_Hitsounds)
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
 - [タイトルテキストの変更](/wiki/Beatmaps/Title_Text#changing-title-text)
@@ -33,7 +33,7 @@
 
 - [初心者向けチュートリアル](Beginner's_Tutorial)
 - [osu!maniaの遊び方](How_to_Play_osu!mania)
-- [オフセットウィザードの使用方法]](How_to_Use_the_Offset_Wizard)
+- [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
 - [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)
 - [スキル向上のヒントとコツ](Tips_and_Tricks_on_Skill_Improvement)
