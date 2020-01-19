@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 0b39fee94a8fab3b008cc563af3a9047d70a2a5e
+---
+
 # Ranking Criteria
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。*
