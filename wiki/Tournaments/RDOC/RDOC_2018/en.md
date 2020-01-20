@@ -78,7 +78,7 @@ The Royal Danish osu!Cup is run by various community members.
 | **G** | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839) | ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) | ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
 | **H** | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812) | ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362) | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
 
------------------------
+---
 
 ## Mappools
 
@@ -244,11 +244,11 @@ The Royal Danish osu!Cup is run by various community members.
 - Tiebreaker
   - **[An - Dive Archive \[Inundation\]](https://osu.ppy.sh/beatmapsets/761883#osu/1601943)**
 
-  ------------------------------------------------------------------------
+  ---
 
-  ## Match Results
+## Match Results
 
-  ### Grand Finals
+### Grand Finals
 
   | Group | Sunday, 2018-10-28 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -259,7 +259,7 @@ The Royal Danish osu!Cup is run by various community members.
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |  
 
-  ### Finals
+### Finals
 
   | Group | Sunday, 2018-10-21 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -271,7 +271,7 @@ The Royal Danish osu!Cup is run by various community members.
   | LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
   | LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
 
-  ### Semifinals
+### Semifinals
 
   | Group | Sunday, 2018-10-14 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -296,7 +296,7 @@ The Royal Danish osu!Cup is run by various community members.
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
 
-  ### Quarterfinals
+### Quarterfinals
 
   | Group | Sunday, 2018-10-07 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -315,7 +315,7 @@ The Royal Danish osu!Cup is run by various community members.
   | :-: | --: | :-: | :-: | :-- |
   | LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
 
-  ### Round of 16
+### Round of 16
 
   | Group | Sunday, 2018-09-30 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -331,7 +331,7 @@ The Royal Danish osu!Cup is run by various community members.
   | UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
   | UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] Cerkie |
 
-  ### Group Stage
+### Group Stage
 
   | Group | Sunday, 2018-09-23 |  |  |  |
   | :-: | --: | :-: | :-: | :-- |
@@ -393,7 +393,7 @@ The Royal Danish osu!Cup is run by various community members.
   | F | **Katachi** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
   | F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
 
-  ------------------------------------------------------------------------
+  ---
 
 ## Ruleset
 
@@ -410,7 +410,7 @@ The Royal Danish osu!Cup is run by various community members.
 9. Maps cannot be used twice in the same round.
 10. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 11. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
-11. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+12. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
 
 ### Stage regulations
 
