@@ -10,7 +10,7 @@ Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung j
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat moderasi dan komunitas |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, Penjangkau Artis Unggulan |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin desain, pengamat Creative Cloud pengguna |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin desain, Pengamat Creative Cloud pengguna |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan administrator Piala Dunia osu! |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat adegan *modding* dan *mapping* |
@@ -23,8 +23,8 @@ Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung j
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | ART umum, Pemelihara wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | ART umum |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, Pecinta osu!mania, Penghilang kutu |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat komunitas, Penjangkau Artis Unggulan |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | ART umum, asisten turnamen |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, Penasihat komunitas, Penjangkau Artis Unggulan |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | ART umum, Asisten turnamen |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 ## Grup pengguna
@@ -45,27 +45,27 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 
 | Nama | Peran |
 | :-- | :-- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | ART umum dan penolong, artis chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Perancang audio, [*official* Artis Unggulan osu!](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Penyelenggara dan administrator osu! World Cup |
+| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | ART umum dan penolong, Artis chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Perancang audio, [*Official* Artis Unggulan osu!](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Penyelenggara dan administrator Piala Dunia osu! |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | ART umum, Manajer komunitas |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, penyedia integrasi IRC untuk obrolan dalam permainan, pengelola situs. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tuan rumah osu! Coffee Hour, Penyiar osu! World Cup, penyelenggara turnamen |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, penyedia *backend* osz2 dan p2p |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, Penyedia integrasi IRC untuk obrolan dalam permainan, Pengelola situs. [Blog](http://blog.echo.sh/) |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tuan rumah osu! Coffee Hour, Penyiar osu! World Cup, Penyelenggara turnamen |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, Penyedia *backend* osz2 dan p2p |
 | ![][flag_US] Jim | Desainer pertama situs web osu!. [Brand New Games](http://www.bravegamer.com/) |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan administrator osu! World Cup, pemimpin QAT, Manajer komunitas |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Desainer skin handal, kontributor skin dan set ikon asli. [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, pembuat luncuran mm |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan administrator Piala Dunia osu!, Pemimpin QAT, Manajer komunitas |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Desainer skin handal, Kontributor skin dan set ikon asli. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, Pembuat luncuran mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, Penyelenggara Serikat Pembuat Map (Mappers' Guild) |
 | ![][flag_US] Phil | Perancang forum |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, pembuat konten keren nan warbyazahh |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Pembuat konten keren nan warbyazahh |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang karya seni dan konsep pippi orisinal. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas di era awal, kontributor *meeting minutes* dan FAQ |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas di era awal, Kontributor *meeting minutes* dan FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu!, Pengembang mode osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor di [osu!academy](/wiki/osu!academy), perancang media dan karakter |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor di [osu!academy](/wiki/osu!academy), Perancang media dan karakter |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
