@@ -239,6 +239,8 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
+*For cookie usage guidelines, see: [Brand identity guidelines](/wiki/Brand_identity_guidelines)*
+
 ![Screenshot of the main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 
 Another word for the osu! logo. This has appeared many times in the osu! client. The cookie is seen in the main menu, solo mode, and previously in old crash reports as seen below.
@@ -381,6 +383,10 @@ There are 4 types of hitsounds:
 - finish
 
 These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hitsounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+
+### Hype
+
+Unranked beatmaps gain exposure by receiving `Hype` posts on their discussion threads. These posts can only be made in the `General (All difficulties)` tab of a [beatmap discussion](/wiki/Beatmap_Discussion). A beatmap needs 5 hypes before it is elligible for nomination.
 
 ## I
 
