@@ -9,7 +9,7 @@ outdated: true
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/Beatmap_Nominator_Rules) dan [Informasi Umum untuk Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
-Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
+Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_ranking_procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
 
 ## Peran dan Tanggung Jawab
 
