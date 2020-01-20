@@ -13,7 +13,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 시작하기
 
-[환영합니다](/wiki/Welcome) • [회원가입](/wiki/Registration) • [설치하기](/wiki/Installation) • [게임 인터페이스](/wiki/Interface) • [게임 옵션](/wiki/Options) • [단축키](/wiki/Shortcut_Key_Reference) • [사이트 맵](/wiki/Sitemap) • [가이드](/wiki/Guides) • [고객 지원](/wiki/Help_Centre)
+[환영합니다](/wiki/Welcome) • [회원가입](/wiki/Registration) • [설치하기](/wiki/Installation) • [게임 인터페이스](/wiki/Interface) • [게임 옵션](/wiki/Options) • [단축키](/wiki/Shortcut_key_reference) • [사이트 맵](/wiki/Sitemap) • [가이드](/wiki/Guides) • [고객 지원](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +37,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 온라인 편집 및 랭킹
 
-[비트맵 제출](/wiki/Submission) • [비트맵 승인](/wiki/Submission/Beatmap_Ranking_Procedure) • [모딩](/wiki/Modding) • [랭크 기준](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[비트맵 제출](/wiki/Submission) • [비트맵 승인](/wiki/Beatmap_ranking_procedure) • [모딩](/wiki/Modding) • [랭크 기준](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

@@ -13,7 +13,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # 入門
 
-[ようこそ](/wiki/Welcome) • [登録](/wiki/Registration) • [インストール](/wiki/Installation) • [ゲームインターフェース](/wiki/Interface) • [ゲームオプション](/wiki/Options) • [ショットカットキーリファレンス](/wiki/Shortcut_Key_Reference) • [サイトマップ](/wiki/Sitemap) • [ガイド](/wiki/Guides) • [ヘルプセンター](/wiki/Help_Centre)
+[ようこそ](/wiki/Welcome) • [登録](/wiki/Registration) • [インストール](/wiki/Installation) • [ゲームインターフェース](/wiki/Interface) • [ゲームオプション](/wiki/Options) • [ショットカットキーリファレンス](/wiki/Shortcut_key_reference) • [サイトマップ](/wiki/Sitemap) • [ガイド](/wiki/Guides) • [ヘルプセンター](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +37,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # オンライン編集とランキング
 
-[提出](/wiki/Submission) • [ビートマップの承認](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [ランキング基準](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[提出](/wiki/Submission) • [ビートマップの承認](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [ランキング基準](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
