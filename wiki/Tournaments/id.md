@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Turnamen
 
 Bagian ini diperuntukkan untuk Turnamen osu!. Turnamen memiliki forum khusus yang dapat Anda temukan [melewati tautan berikut](https://osu.ppy.sh/community/forums/55).
@@ -21,6 +25,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] Amerika Serikat | ![][flag_CN] Cina | ![][flag_KR] Korea Selatan |
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Polandia | ![][flag_US] Amerika Serikat | ![][flag_GB] Britania Raya |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] Amerika Serikat | ![][flag_GB] Britania Raya | ![][flag_DE] Jerman |
+| [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] Amerika Serikat | ![][flag_KR] Korea Selatan | ![][flag_GB] Britania Raya |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -63,6 +68,7 @@ osu! World Cup (Turnamen osu! Tingkat Dunia) adalah sebuah turnamen berbasis neg
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Korea Selatan | ![][flag_MY] Malaysia | ![][flag_CN] Cina |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] Korea Selatan | ![][flag_US] Amerika Serikat | ![][flag_BR] Brasil |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] Korea Selatan | ![][flag_PH] Filipina | ![][flag_CN] Cina |
+| [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 7K | ![][flag_KR] Korea Selatan | ![][flag_BR] Brasil | ![][flag_US] Amerika Serikat |
 
 ## Komunitas
 
@@ -84,6 +90,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
@@ -121,6 +128,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
 | [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! South East Asia Tournament 3](/wiki/Tournaments/oSEAT/3) | 2019-12-14 | 2020-02-16 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -178,6 +186,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] Amerika Serikat A | ![][flag_CL] Chili |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Jepang | ![][flag_CA] Kanada | ![][flag_RU] Rusia A |
 | [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
+| [Continental Global Taiko Showdown 2019](/wiki/Tournaments/GTS/CGTS_2019) | 2019-11-02 | 2020-01-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -204,7 +213,8 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
-| [Beginners' Taiko Tournament Season 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 5](/wiki/Tournaments/BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -294,6 +304,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | --- | --- | --- | --- | --- | --- |
 | [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137)(osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114)(osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796)(osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489)(osu!mania 7K) |
 
+<!-- When another Highlander Con tournament happens, organize this into a Highlander Con series (similar to Zotcade) -->
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |

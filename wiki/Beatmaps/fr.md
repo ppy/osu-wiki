@@ -55,7 +55,7 @@ Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de fo
 
 ### En Attente
 
-_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_Ranking_Procedure)_
+_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
 
 Les beatmaps en attente ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection des musiques.
 
