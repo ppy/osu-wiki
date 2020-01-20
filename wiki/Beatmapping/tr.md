@@ -6,7 +6,7 @@ outdated: true
 
 **Beatmapping** osu!'da ki [beatmaplerin](/wiki/Beatmaps) oluşturulma sürecidir. Bu süreç -beatmap yapılacak- şarkının seçilmesi, [zamanlama](/wiki/Timing) (timing), kullanılacak olan objelerin(circle,slider vb.) yerleştirilmesi, ve (isteğe bağlı olarak) [skinning](/wiki/Skinning) ve [storyboarding](/wiki/Storyboarding) aşamalarını kapsar.
 
-Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](/wiki/Beatmap_Ranking_Procedure) (beatmap approval) ve o mapin üstünde bir çok güncelleme, değişiklik yaparak, maplerini [ranked](/wiki/Beatmaps) yaparlar.
+Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](/wiki/Beatmap_ranking_procedure) (beatmap approval) ve o mapin üstünde bir çok güncelleme, değişiklik yaparak, maplerini [ranked](/wiki/Beatmaps) yaparlar.
 
 Beatmapping'de en ortak kullanılan zorluklar şunlardır;
 

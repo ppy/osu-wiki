@@ -4,7 +4,7 @@ The [Loved](/wiki/Beatmaps#loved) beatmap category is currently managed by [Proj
 
 ## Feature request (Feb 2015)
 
-On 2015-02-02, the feature request *[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)* was posted. It detailed another way outside of the [ranking process](/wiki/Submission/Beatmap_Ranking_Procedure) for maps to have leaderboards, and quickly gained traction as players showed concern about the ranking process becoming too strict and not allowing for some maps to house competition.
+On 2015-02-02, the feature request *[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)* was posted. It detailed another way outside of the [ranking process](/wiki/Beatmap_ranking_procedure) for maps to have leaderboards, and quickly gained traction as players showed concern about the ranking process becoming too strict and not allowing for some maps to house competition.
 
 Another reason this request became popular is that very unconventional or game-breaking maps could have never fit the [ranking criteria](/wiki/Ranking_Criteria). Players were interested in competition on some of these maps, such as ones featuring "2B" styles,<!-- TODO: would be nice if I could link to somewhere that explains this, like a glossary of mapping styles or something --> *[Aspire](/wiki/Glossary#aspire)*-like gameplay, or [TAG co-op](/wiki/Glossary#tag) elements.
 
