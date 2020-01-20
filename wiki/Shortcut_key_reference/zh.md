@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Shortcut Key Reference
+# Shortcut key reference
 
 以下是各种模式下可以使用的快捷键：
 

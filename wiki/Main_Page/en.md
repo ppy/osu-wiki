@@ -14,7 +14,7 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Getting Started
 
-[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
+[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
