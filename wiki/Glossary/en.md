@@ -239,6 +239,8 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
+*For cookie usage guidelines, see: [Brand identity guidelines](/wiki/Brand_identity_guidelines)*
+
 ![Screenshot of the main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 
 Another word for the osu! logo. This has appeared many times in the osu! client. The cookie is seen in the main menu, solo mode, and previously in old crash reports as seen below.

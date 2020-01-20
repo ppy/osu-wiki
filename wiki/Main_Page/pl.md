@@ -9,7 +9,7 @@ outdated: true
 
 # Podstawy
 
-[Na początek](/wiki/Welcome) • [Rejestracja](/wiki/Registration) • [Instalacja](/wiki/Installation) • [Interfejs gry](/wiki/Interface) • [Opcje](/wiki/Options) • [Skróty klawiszowe](/wiki/Shortcut_Key_Reference) • [Lista artykułów](/wiki/Sitemap) • [Poradniki](/wiki/Guides) • [Centrum pomocy](/wiki/Help_Center)
+[Na początek](/wiki/Welcome) • [Rejestracja](/wiki/Registration) • [Instalacja](/wiki/Installation) • [Interfejs gry](/wiki/Interface) • [Opcje](/wiki/Options) • [Skróty klawiszowe](/wiki/Shortcut_key_reference) • [Lista artykułów](/wiki/Sitemap) • [Poradniki](/wiki/Guides) • [Centrum pomocy](/wiki/Help_Center)
 
 </div>
 <div class="wiki-main-page-panel">

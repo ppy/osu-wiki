@@ -13,7 +13,7 @@ layout: main_page
 
 # Начало работы
 
-[Добро пожаловать](/wiki/Welcome) • [Регистрация](/wiki/Registration) • [Установка](/wiki/Installation) • [Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Горячие клавиши](/wiki/Shortcut_Key_Reference) • [Карта сайта](/wiki/Sitemap) • [Руководства](/wiki/Guides) • [Центр помощи](/wiki/Help_Centre)
+[Добро пожаловать](/wiki/Welcome) • [Регистрация](/wiki/Registration) • [Установка](/wiki/Installation) • [Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Горячие клавиши](/wiki/Shortcut_key_reference) • [Карта сайта](/wiki/Sitemap) • [Руководства](/wiki/Guides) • [Центр помощи](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentan
 
 # Pendahuluan
 
-[Selamat Datang](/wiki/Welcome) • [Registrasi](/wiki/Registration) • [Instalasi](/wiki/Installation) • [Antarmuka Game](/wiki/Interface) • [Pengaturan Game](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Pusat Bantuan](/wiki/Help_Centre)
+[Selamat Datang](/wiki/Welcome) • [Registrasi](/wiki/Registration) • [Instalasi](/wiki/Installation) • [Antarmuka Game](/wiki/Interface) • [Pengaturan Game](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_key_reference) • [Sitemap](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Pusat Bantuan](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
