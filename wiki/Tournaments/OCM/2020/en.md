@@ -41,7 +41,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 | :-: | :-- |
 | Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
-| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864), ![][flag_MX] [MILK\_16](https://osu.ppy.sh/users/9137627), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
