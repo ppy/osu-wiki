@@ -167,6 +167,36 @@ Sunday, 19 January 2020:
 
 ### Global phase
 
+#### Grand Finals
+
+**[Download the map pack here! (109 MB)](https://mega.nz/#!F99XEayZ!-Y71JZglSVBQelrznYK1g60Y6GGVZgXM-8ScxeKz5ks)**
+
+- NoMod
+  - [xi - Blue Zenith (Faputa) \[Amplitude\]](https://osu.ppy.sh/beatmapsets/1008969#taiko/2112246)
+  - [Kobaryo - New Game Plus (Love Plus rmx) (KitajimaYN) \[Fatal Mode\]](https://osu.ppy.sh/beatmapsets/736251#taiko/1553841)
+  - [Laur - Unknown Civilization (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/926953#taiko/1936053)
+  - [KASAI HARCORES - Drop The Fire (Nofool) \[Insane Oni (CGTS edit)\]](https://osu.ppy.sh/beatmapsets/1038174#taiko/2290974)
+  - [kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096346#taiko/2291104)
+  - [U-ske feat.nanahira - Galaxy Traveler \[Mrriichi's Oni\]](https://osu.ppy.sh/beatmapsets/354619#taiko/783608)
+- Hidden
+  - [Camellia as "fluX Xroise" - Xronier (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1012049#taiko/2118191)
+  - [VINRG - Do It Now (\_Rise) \[90%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2290588)
+  - [U-F SEQUENCER - VENOM type: hallucinogenic (Zetera) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/1055342#taiko/2205107)
+- HardRock
+  - [Sakamoto Eizo x Yusuke Takahama - UNDEAD HEART(Warriors of Anger) (Lugei) \[UNDEAD ONI\]](https://osu.ppy.sh/beatmapsets/599063#taiko/1266191)
+  - [MisoilePunch\* \~Takenoko Zoe\~ - Staring at star (KitajimaYN) \[STARING ONI\]](https://osu.ppy.sh/beatmapsets/678356#taiko/1434363)
+  - [Linda AI-CUE - Joubutsu 2000 (-Kazu-) \[Peaceful Rest\]](https://osu.ppy.sh/beatmapsets/797892#taiko/1675579)
+- DoubleTime
+  - [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Roger's Kneesocks\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1937119)
+  - [Konuko - Toumei Elegy (incandescence) \[Transparency\]](https://osu.ppy.sh/beatmapsets/563743#taiko/1684637)
+  - [Glacier - Cyan (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/935512#taiko/1954533)
+- FreeMod
+  - [Umeboshi Chazuke - Dutch Courage! (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/845412#taiko/1768324)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+  - [Camellia - put' l'da (\_DUSK\_) \[esplanade\]](https://osu.ppy.sh/beatmapsets/1013694#taiko/2121689)
+- Tiebreaker
+  - **[Camellia - NIGHTMARE CITY (Alchyr) \[MELTDOWN\]](https://osu.ppy.sh/beatmapsets/1081656#taiko/2262656)**
+
 #### Finals
 
 **[Download the map pack here! (92 MB)](https://mega.nz/#!whkTGa7Q!mOZr5Z28hWzcYlnTSggeKgqYgsu9pikerZlTE_a8cGk)**
