@@ -62,6 +62,8 @@
 "packs":                       "Beatmaps/Packs"
 "pack":                        "Beatmaps/Packs"
 
+"identity_guidelines": "Brand_identity_guidelines"
+
 "contest":                     "Contests"
 "best_of_2009":                "Contests#2009"
 "best_of_2010":                "Contests#2010"
@@ -409,8 +411,8 @@
 "gl_support_issues":                      "Guides/OpenGL_Support_Issues"
 "guides/gl_support_issues":               "Guides/OpenGL_Support_Issues"
 "opengl_support_issues":                  "Guides/OpenGL_Support_Issues"
-"how_to_get_your_map_ranked":             "Guides/How_To_Get_Your_Map_Ranked"
-"how_to_get_my_map_ranked":               "Guides/How_To_Get_Your_Map_Ranked"
+"how_to_get_your_map_ranked":             "Beatmap_ranking_procedure"
+"how_to_get_my_map_ranked":               "Beatmap_ranking_procedure"
 "how_to_play_osu!mania":                  "Guides/How_to_Play_osu!mania"
 "how_to_time_songs":                      "Guides/How_to_Time_Songs"
 "how_to_use_the_offset_wizard":           "Guides/How_to_Use_the_Offset_Wizard"
@@ -1044,7 +1046,10 @@
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
 
-"skr":                         "Shortcut_Key_Reference"
+"hotkeys": "Shortcut_key_reference"
+"keyboard_shortcuts": "Shortcut_key_reference"
+"shortcuts": "Shortcut_key_reference"
+"skr": "Shortcut_key_reference"
 
 "all_articles": "Sitemap"
 "all_pages": "Sitemap"
@@ -1305,8 +1310,7 @@
 
 "storyboard":                  "Storyboards"
 
-"beatmap_ranking_procedure":            "Submission/Beatmap_Ranking_Procedure"
-"brp":                                  "Submission/Beatmap_Ranking_Procedure"
+"brp": "Beatmap_ranking_procedure"
 
 "tournament_drawing":          "Tournament_Drawings"
 
@@ -1553,3 +1557,7 @@
 "tournaments/mp4k/3":       "Tournaments/MP/2019_4K"
 "tournaments/mp7k/7k_2019": "Tournaments/MP/2019_7K"
 "tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"
+
+# Moved Beatmap ranking procedure and deleted related guide that was outdated
+"guides/how_to_get_your_map_ranked":    "Beatmap_ranking_procedure"
+"submission/beatmap_ranking_procedure": "Beatmap_ranking_procedure"

@@ -57,7 +57,7 @@ Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your 
 
 ### Pending
 
-*Lihat juga: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
+*Lihat juga: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 Beatmap berstatus Pending menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/pending.png)) di halaman pemilihan lagu.
 

@@ -2,4 +2,5 @@
 
 Index page for all of the Taiko Suiji Cup series.
 
-- [1](./1 "Taiko Suiji Cup")
+- [Taiko Suiji Cup](1)
+- [Taiko Suiji Cup 2020](2020)
