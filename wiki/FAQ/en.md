@@ -24,7 +24,7 @@ needs_cleanup: true
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "more info can be found on Performance Points under FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
-[Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Shortcut Key Reference"
+[Shortcut key reference wikilink]: /wiki/Shortcut_key_reference/ "Shortcut key reference"
 [Options wikilink]: /wiki/Options "Options"
 [Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "External Ports"
 [opsu! wikilink]: ./External_Ports/opsu! "opsu! by itdelatrisu with fluddokt"
@@ -622,7 +622,7 @@ It currently works in Solo mode only when given the game over screen.
 To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
 #### Does osu! has keyboard shortcuts?
-_Full list: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
+_Full list: [Shortcut key reference][Shortcut key reference wikilink]_
 
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the _Windows_ sidebar.
 Find the _osu!logo_ in the _Windows_ sidebar, and click on it to return osu! to the state before pressing the key.

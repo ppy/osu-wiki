@@ -20,7 +20,7 @@
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "plus d'informations dans l'article Points sous FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
-[Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Référence des raccourcis clavier"
+[Shortcut key reference wikilink]: /wiki/Shortcut_key_reference/ "Référence des raccourcis clavier"
 [Options wikilink]: /wiki/Options "Options"
 [Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "Portages Externes"
 [opsu! wikilink]: ./External_Ports/opsu! "opsu! par itdelatrisu avec fluddokt"
@@ -618,7 +618,7 @@ C'est actuellement possible uniquement en solo lors de l'écran de game over.
 Pour enregistrer un replay de partie ratée, vous devrez utiliser un logiciel tierce puisqu'osu! ne possède pas de moyen d'exporter un replay de partie ratée.
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
-_Liste complète: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
+_Liste complète: [Shortcut key reference][Shortcut key reference wikilink]_
 
 Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de _Windows_.
 Trouvez le _osu!logo_ dans la barre  latérale _Windows_, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé.
