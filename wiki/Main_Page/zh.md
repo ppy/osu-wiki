@@ -13,7 +13,7 @@ layout: main_page
 
 # 入门
 
-[欢迎](/wiki/Welcome) • [注册](/wiki/Registration) • [安装](/wiki/Installation) • [游戏界面](/wiki/Interface) • [游戏设置](/wiki/Options) • [快捷键](/wiki/Shortcut_Key_Reference) • [网址地图](/wiki/Sitemap) • [指南](/wiki/Guides) • [帮助中心](/wiki/Help_Centre)
+[欢迎](/wiki/Welcome) • [注册](/wiki/Registration) • [安装](/wiki/Installation) • [游戏界面](/wiki/Interface) • [游戏设置](/wiki/Options) • [快捷键](/wiki/Shortcut_key_reference) • [网址地图](/wiki/Sitemap) • [指南](/wiki/Guides) • [帮助中心](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

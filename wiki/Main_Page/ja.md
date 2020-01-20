@@ -13,7 +13,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # 入門
 
-[ようこそ](/wiki/Welcome) • [登録](/wiki/Registration) • [インストール](/wiki/Installation) • [ゲームインターフェース](/wiki/Interface) • [ゲームオプション](/wiki/Options) • [ショットカットキーリファレンス](/wiki/Shortcut_Key_Reference) • [サイトマップ](/wiki/Sitemap) • [ガイド](/wiki/Guides) • [ヘルプセンター](/wiki/Help_Centre)
+[ようこそ](/wiki/Welcome) • [登録](/wiki/Registration) • [インストール](/wiki/Installation) • [ゲームインターフェース](/wiki/Interface) • [ゲームオプション](/wiki/Options) • [ショットカットキーリファレンス](/wiki/Shortcut_key_reference) • [サイトマップ](/wiki/Sitemap) • [ガイド](/wiki/Guides) • [ヘルプセンター](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
