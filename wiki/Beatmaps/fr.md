@@ -55,7 +55,11 @@ Ces beatmaps peuvent ne pas répondre aux [ranking criteria](/wiki/Ranking_Crite
 
 Pour qu'une beatmap soit aimée, elle doit passer par le [processus de vote communautaire](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
+
 ### En attente
+
+_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
+
 
 *Page principale : [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure)*
 
