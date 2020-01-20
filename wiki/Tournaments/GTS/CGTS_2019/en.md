@@ -457,18 +457,28 @@ Sunday, 19 January 2020:
 
 ### Global phase
 
+#### Finals
+
+Sunday, 19 January 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Oceania/South East Asia | 2 | **7** | **North America** | [#1](https://osu.ppy.sh/community/matches/57827483) |
+| **Asia** | **7** | 2 | Europe | [#1](https://osu.ppy.sh/community/matches/57834207) |
+| **Europe** | **7** | 2 | North America | [#1](https://osu.ppy.sh/community/matches/57841367) |
+
 #### Semifinals
 
 Saturday, 11 January 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/57646946) |
 | **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/community/matches/57648516) |
 
 Sunday, 12 January 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Asia** | **7** | 1 | Oceania/South East Asia | [#1](https://osu.ppy.sh/community/matches/57672041) |
 | **North America** | **7** | 2 | South America | [#1](https://osu.ppy.sh/community/matches/57682937) |
