@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentan
 
 # Pendahuluan
 
-[Selamat Datang](/wiki/Welcome) • [Registrasi](/wiki/Registration) • [Instalasi](/wiki/Installation) • [Antarmuka Game](/wiki/Interface) • [Pengaturan Game](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Pusat Bantuan](/wiki/Help_Centre)
+[Selamat Datang](/wiki/Welcome) • [Registrasi](/wiki/Registration) • [Instalasi](/wiki/Installation) • [Antarmuka Game](/wiki/Interface) • [Pengaturan Game](/wiki/Options) • [Referensi Tombol Pintasan](/wiki/Shortcut_key_reference) • [Sitemap](/wiki/Sitemap) • [Panduan](/wiki/Guides) • [Pusat Bantuan](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +37,7 @@ Bagian: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Edit
 
 # Penyuntingan dan Pengiriman Beatmap Secara Online
 
-[Pengiriman Beatmap](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Kriteria Ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Pengiriman Beatmap](/wiki/Submission) • [Persetujuan Beatmap](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Kriteria Ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
