@@ -175,6 +175,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
@@ -257,6 +258,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) | osu!mania Champion |
 | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | Featured Artist |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | Elite Mapper |
