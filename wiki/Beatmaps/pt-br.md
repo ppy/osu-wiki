@@ -55,7 +55,7 @@ Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your
 
 ### Pendente
 
-*Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_Ranking_Procedure)*
+*Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_ranking_procedure)*
 
 Beatmaps pendentes aparecem com o ícone da interrogação (![Question mark icon](/wiki/shared/status/pending.png)) na tela de seleção de músicas.
 
