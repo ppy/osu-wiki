@@ -45,28 +45,28 @@ Puisque osu ! est un projet communautaire, le logo du biscuit osu ! est conçu p
 
 ![](img/restrictions-bad-single.png)
 
-- Ne changez pas le ratio d'aspect du cookie.
-- Ne pas faire tourner le biscuit. Le cookie doit s'aligner sur l'orientation du support ou sur l'œil du lecteur lors de la lecture.
-- Ne pas changer un élément du cookie en quelque chose d'autre.
-- Ne pas enlever un élément du cookie.
-- Ne pas redimensionner un élément du cookie de façon indépendante.
-- Ne pas modifier un élément du cookie
-- Ne réorganisez pas les éléments du cookie.
+- **Ne changez pas** le ratio d'aspect du cookie.
+- **Ne pas faire** tourner le biscuit. Le cookie doit s'aligner sur l'orientation du support ou sur l'œil du lecteur lors de la lecture.
+- **Ne pas changer** un élément du cookie en quelque chose d'autre.
+- **Ne pas enlever** un élément du cookie.
+- **Ne pas redimensionner** un élément du cookie de façon indépendante.
+- **Ne pas modifier** un élément du cookie
+- **Ne réorganisez pas** les éléments du cookie.
 - Le biscuit doit toujours avoir du tact. S'il fait partie d'une œuvre d'art, veuillez placer un autre logo bien aiguisé quelque part dans l'œuvre d'art.
-- N'appliquez pas d'effets de fantaisie (ou vraiment collants) sur le biscuit.
-- Ne placez pas d'éléments supplémentaires à l'intérieur du biscuit.
-- N'appliquez pas de contours sur le biscuit. Utilisez une couleur de biscuit différente.
-- Ne pensez même pas à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
+- **N'appliquez** pas d'effets de fantaisie (ou vraiment collants) sur le biscuit.
+- **Ne placez pas** d'éléments supplémentaires à l'intérieur du biscuit.
+- **N'appliquez pas** de contours sur le biscuit. Utilisez une couleur de biscuit différente.
+- **Ne pensez même** pas à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
 
 ### Restrictions d'utilisation des cookies couleur
 
-Puisque osu ! est un projet communautaire, le logo du biscuit osu ! est conçu pour être simple et polyvalent ; il peut s'adapter facilement à de nombreux designs. Il n'y a aucune restriction stricte quant à la couleur du biscuit. Toutes les restrictions appliquées sur le biscuit d'une seule couleur s'appliquent également au biscuit de couleur.
+Comme osu ! est un projet communautaire, le logo du cookie osu ! est conçu pour être simple et polyvalent ; il peut s'adapter facilement à de nombreux designs. Veuillez utiliser le logo tel qu'il est, sans aucune modification. Toutes les restrictions appliquées sur le cookie unicolore s'appliquent également au cookie en couleur.
 
 ![](img/restrictions-bad-full.png)
 
-- N'utilisez pas l'ancien cookie.
-- N'utilisez pas une autre teinte de rose.
-- N'ajoutez pas de dégradé au biscuit de couleur.
-- N'utilisez pas d'autres couleurs.
-- N'ajoutez rien dans le biscuit.
-- Ne pas changer un élément du biscuit en quelque chose d'autre.
+- **N'utilisez pas** l'ancien cookie.
+- **N'utilisez pas** une autre teinte de rose.
+- **N'ajoutez pas** de dégradé au biscuit de couleur.
+- **N'utilisez pas** d'autres couleurs.
+- **N'ajoutez rien** dans le biscuit.
+- **Ne pas changer** un élément du biscuit en quelque chose d'autre.
