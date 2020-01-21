@@ -19,7 +19,7 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1
 | Group Stage Second Week | 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
-| Quarterfinals | 2020-01-4/2020-01-5 |
+| Quarterfinals | 2020-01-4/2020-01-05 |
 | Semifinals | 2020-01-11/2020-01-12 |
 | Finals | 2020-01-18/2020-01-19 |
 | Grand Finals | 2020-01-25/2020-01-26 |
@@ -43,9 +43,9 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099) |
 | Map Selector | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
-| Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560) |
+| Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [CarterTheQ](https://osu.ppy.sh/users/5331023), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
-| Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363) |
+| Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363), ![][flag_MX] [\[Toni\]](https://osu.ppy.sh/users/9260169), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522) |
 | Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
 
 ## Links
