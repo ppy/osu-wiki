@@ -32,8 +32,8 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | --: | :-- |
 | Qualifiers | 2020-01-04/2020-01-05 |
 | Semifinals | 2020-01-11/2020-01-12 |
-| Finals | 2020-01-18/2020-01-19 |
-| Grand Finals | 2020-01-25/2020-01-26 |
+| Finals | 2020-01-19 |
+| Grand Finals | 2020-02-02 |
 
 ## Prizes
 
@@ -143,25 +143,16 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
-## Match schedule: Finals (Global phase)
+## Match schedule: Grand Finals (Global phase)
 
-Saturday, 18 January 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| F-W1 | Asia | Europe | **12:00** |
-
-Sunday, 19 January 2020:
+Sunday, 2 February 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| F-L1 | Oceania/South East Asia | North America | **03:00** |
-| F-L2a¹ | Asia | Oceania/South East Asia | **13:00** |
-| F-L2b¹ | Asia | North America | **05:00** |
-| F-L2c¹ | Europe | Oceania/South East Asia | **13:00** |
-| F-L2d¹ | Europe | North America | **18:00** |
+| GF-W1 | Asia | Europe | **13:00** |
+| GF-L1¹ | Europe | Asia |  |
 
-¹ Encounter dependent on loser of Match **F-W1** and winner of Match **F-L1**
+¹ The match will take place right after the previous one if Player 2 wins.
 
 ## Mappools
 
