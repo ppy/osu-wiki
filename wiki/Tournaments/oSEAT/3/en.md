@@ -96,6 +96,35 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view)**
+
+- NoMod
+  - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
+  - [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Left) \[Testo's Expert\]](https://osu.ppy.sh/beatmapsets/859575#osu/1821815)
+  - [Yunomi - Harajuku Sunny Day (Nathan) \[Sunburn\]](https://osu.ppy.sh/beatmapsets/532325#osu/1127971)
+  - [Igorrr - Cicadidae (fergas) \[Chirr 2\]](https://osu.ppy.sh/beatmapsets/301320#osu/862246)
+  - [Roselia - Re:Birth Day (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/986556#osu/2063886)
+- Hidden
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (tokiko) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/901641#osu/1882605)
+  - [a\_hisa - Smoked Turkey Rag (Flask) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/1065988#osu/2232119)
+  - [guna - Yukidsuki-yashou (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/1059195#osu/2218160)
+- HardRock
+  - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#osu/1520788)
+  - [Azu - Haryu (milr\_) \[Expert\]](https://osu.ppy.sh/beatmapsets/576232#osu/2243948)
+  - [Fujita Maiko - Kakehiki (Lafayla) \[Desire\]](https://osu.ppy.sh/beatmapsets/1009710#osu/2113705)
+- DoubleTime
+  - [Wataru Sena feat. sana - Hitori Tabi (thanh\_nemo) \[nai nai nai nai\]](https://osu.ppy.sh/beatmapsets/861626#osu/1802518)
+  - [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225693)
+  - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Mikalus' Insane\]](https://osu.ppy.sh/beatmapsets/948049#osu/1992840)
+  - [Charli XCX - Vroom Vroom (schoolboy) \[Dailycare's Insane\]](https://osu.ppy.sh/beatmapsets/868943#osu/1981580)
+- FreeMod
+  - [JUNNA - Here (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/737103#osu/1555562)
+  - [NekomeP - WORLDS CONNECT feat.IA (kwk) \[CONNECTING WORLD\]](https://osu.ppy.sh/beatmapsets/802919#osu/1685427)
+  - [SAMString - Forget The Promise (DeviousPanda) \[Elysium\]](https://osu.ppy.sh/beatmapsets/1002019#osu/2097442)
+  - [44teru-k - Ume (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/44071#osu/138138)
+
 ### Quarterfinals
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view)**
