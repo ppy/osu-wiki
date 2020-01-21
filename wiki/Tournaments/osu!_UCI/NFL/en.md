@@ -17,7 +17,7 @@ Contrary to what the name might suggest, this tournament ran during the winter o
 
 ## Event details
 
-![Map of the Student Center showing Moss Cove](/wiki/Tournaments/osu!_UCI/iDOL@NSTER/img/student-center-map.png "Moss Cove in the Student Center")
+![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
 The tournament took place on Saturday, January 18, 2020, and lasted nearly the entire day (with lots of breaks, of course). It was located in the UCI Student Center (311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 

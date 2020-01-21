@@ -16,7 +16,7 @@ tags:
 
 ## Event Details
 
-![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
+![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
 The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
