@@ -20,7 +20,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | Group Stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
-| Quarterfinals | 2020-01-18/2020-01-19 |
+| Quarterfinals | 2020-01-15/2020-01-20 |
 | Semifinals | 2020-01-25/2020-02-02 |
 | Finals | 2020-02-08/2020-02-09 |
 | Grand Finals | 2020-02-15/2020-02-16 |
@@ -242,6 +242,48 @@ The osu! South East Asia 3 is run by various community members.
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
 
 ## Match results
+
+### Quarterfinals
+
+Wednesday, 15 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rexeez** ![][flag_ID] | **6** | 0 | ![][flag_ID] dika312 | [#1](https://osu.ppy.sh/community/matches/57737664) |
+
+Friday, 17 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| k\_1tty ![][flag_SG] | 3 | **6** | ![][flag_MY] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/57777852) |
+| Deppyforce ![][flag_TH] | 0 | **6** | ![][flag_ID] **Gatyaa420** | [#1](https://osu.ppy.sh/community/matches/57779071) |
+| **Fuma** ![][flag_ID] | **6** | 2 | ![][flag_MY] Chiyuu | [#1](https://osu.ppy.sh/community/matches/57780516) |
+| woahsia ![][flag_SG] | 3 | **6** | ![][flag_ID] **Ascaveth** | [#1](https://osu.ppy.sh/community/matches/57780499) |
+| Tzero ![][flag_MY] | 2 | **6** | ![][flag_ID] **LoidKun** | [#1](https://osu.ppy.sh/community/matches/57780364) |
+
+Saturday, 18 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Chorus ![][flag_TH] | 4 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/community/matches/57801776) |
+| ShaneLiang ![][flag_MY] | -1 | **0** | ![][flag_VN] **realshin** | *win by default* |
+| **Rtyzen** ![][flag_SG] | **6** | 2 | ![][flag_SG] Raindrop | [#1](https://osu.ppy.sh/community/matches/57806557) |
+| Lunarsol ![][flag_SG] | 0 | **6** | ![][flag_MY] **not\_aweeb** | [#1](https://osu.ppy.sh/community/matches/57807058) |
+
+Sunday, 19 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_PH] konawiki | [#1](https://osu.ppy.sh/community/matches/57819862) |
+| Ascaveth ![][flag_ID] | 4 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/57833283) |
+| not\_aweeb ![][flag_MY] | 3 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/mp/57834161) |
+| Gatyaa420 ![][flag_ID] | 2 | **6** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/57836287) |
+
+Monday, 20 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_VN] realshin | [#1](https://osu.ppy.sh/community/matches/57858251) |
 
 ### Round of 16
 
