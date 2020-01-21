@@ -8,15 +8,15 @@ date: 2020-01-22 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/65/header.jpg)
 
-Blasting on in from the beyond, you've probably heard **Blue Stahli** somewhere else long before osu!. From mortal scarefests like the *Final Destination* movies to the visually stunning science-action thriller *Tron: legacy* and even the zombie-toppling rampage of *Dead Rising 2*, our latest artist has been around the block for a walk or two with his work.
+Blasting on in from the beyond, you've probably heard **Blue Stahli** somewhere else long before osu!. From mortal scare-fests like the *Final Destination* movies to the visually stunning science-action thriller *Tron: Legacy* and even the zombie-toppling rampage of *Dead Rising 2*, our latest artist has been around the block for a walk or two with his work.
 
-Now, he's here, with **27** tracks from across 3 albums and a variety of singles available for your mapping escapades. And not to be outdone, the Mappers' Guild continues their streak of providing brand new preview mapsets for you to sink your teeth into.
+Now, he's here, with **27** tracks from across 3 albums and a variety of singles available for your mapping escapades. And not to be outdone, the Mappers' Guild continues their streak of providing brand new preview beatmaps for you to sink your teeth into.
 
 Not convinced? Give these tracks a listen, and click the links above the sound bars to check out some maps set to these wicked tracks, both new and old:
 
 ### Shotgun Senorita (Zardonic Remix)
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/65853#osu/192508) by [Aleks719](https://osu.ppy.sh/users/360176)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/65853#osu) by [Aleks719](https://osu.ppy.sh/users/360176)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1840.mp3" type="audio/mpeg">
@@ -24,7 +24,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Throw Away
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) by [fieryrage](https://osu.ppy.sh/users/3533958)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1061411#osu) by [fieryrage](https://osu.ppy.sh/users/3533958)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1825.mp3" type="audio/mpeg">
@@ -40,7 +40,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Atom Smasher
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/87626#osu/239259) by [Cobra](https://osu.ppy.sh/users/1699726)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/87626#osu) by [Cobra](https://osu.ppy.sh/users/1699726)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1816.mp3" type="audio/mpeg">
