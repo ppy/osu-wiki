@@ -15,8 +15,8 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1
 | --: | :-- |
 | Registration Phase | 2019-10-14/2019-11-6 |
 | Qualifiers | 2019-11-23/2019-11-24 |
-| Group Stage First Week| 2019-11-30/2019-12-01 |
-| Group Stage Second Week| 2019-12-07/2019-12-08 |
+| Group Stage First Week | 2019-11-30/2019-12-01 |
+| Group Stage Second Week | 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
 | Quarterfinals | 2020-01-4/2020-01-5 |
@@ -45,7 +45,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_MX] [[Toni]](https://osu.ppy.sh/users/9260169), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
-| Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040),![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363) |
+| Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363) |
 | Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
 
 ## Links
@@ -66,8 +66,8 @@ The Speed of Light Mania Tournament is run by various community members by distr
 | :-- | :-- |
 | Top (#1 - #16) | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [\[-DaNieL_TH-\]](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | High (#17 - #32) | ![][flag_RU] [AngeloLagusa](https://osu.ppy.sh/users/9074986), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_FI] [Strachy](https://osu.ppy.sh/users/9663200), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182), ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_AR] [ByDarking](https://osu.ppy.sh/users/10652110), ![][flag_PH] [Cohue](https://osu.ppy.sh/users/12538598), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_RU] [N1ckn1ght](https://osu.ppy.sh/users/10332479), ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959), ![][flag_TW] [AW ZERO](https://osu.ppy.sh/users/4415146), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_US] [Playboi Carti](https://osu.ppy.sh/users/4833676), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) |
-| Top (#33 - #48) | ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607),![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_VN] [baoketban123](https://osu.ppy.sh/users/11863174), ![][flag_US] [Jellyblob](https://osu.ppy.sh/users/8319503), ![][flag_US] [yahweh](https://osu.ppy.sh/users/10465260), ![][flag_AR][Mateocristaldo](https://osu.ppy.sh/users/6384643), ![][flag_LV] [CrayZigg](https://osu.ppy.sh/users/11942663), ![][flag_CO] [Cansta](https://osu.ppy.sh/users/9303412), ![][flag_MX] [HéctorAF01](https://osu.ppy.sh/users/12815564), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) |
-| Top (#49 - #64) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_RU] [TruthIsNear](https://osu.ppy.sh/users/11191093), ![][flag_MX] [YukariYakumo](https://osu.ppy.sh/users/10595982), ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236), ![][flag_RU] [AsyaKys](https://osu.ppy.sh/users/12096335), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_MX] [Kenrit-San](https://osu.ppy.sh/users/13054150), ![][flag_UK] [zHotRoD](https://osu.ppy.sh/users/10441414), ![][flag_AU] [Crumpetfiddler](https://osu.ppy.sh/users/3518705), ![][flag_RU] [artslay](https://osu.ppy.sh/users/7758301), ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184), ![][flag_TH] [monkerzaza](https://osu.ppy.sh/users/11025701), ![][flag_ID] [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ![][flag_US] [Lights](https://osu.ppy.sh/users/9380939) | 
+| Mid (#33 - #48) | ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607),![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_VN] [baoketban123](https://osu.ppy.sh/users/11863174), ![][flag_US] [Jellyblob](https://osu.ppy.sh/users/8319503), ![][flag_US] [yahweh](https://osu.ppy.sh/users/10465260), ![][flag_AR][Mateocristaldo](https://osu.ppy.sh/users/6384643), ![][flag_LV] [CrayZigg](https://osu.ppy.sh/users/11942663), ![][flag_CO] [Cansta](https://osu.ppy.sh/users/9303412), ![][flag_MX] [HéctorAF01](https://osu.ppy.sh/users/12815564), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) |
+| Low (#49 - #64) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_RU] [TruthIsNear](https://osu.ppy.sh/users/11191093), ![][flag_MX] [YukariYakumo](https://osu.ppy.sh/users/10595982), ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236), ![][flag_RU] [AsyaKys](https://osu.ppy.sh/users/12096335), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_MX] [Kenrit-San](https://osu.ppy.sh/users/13054150), ![][flag_UK] [zHotRoD](https://osu.ppy.sh/users/10441414), ![][flag_AU] [Crumpetfiddler](https://osu.ppy.sh/users/3518705), ![][flag_RU] [artslay](https://osu.ppy.sh/users/7758301), ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184), ![][flag_TH] [monkerzaza](https://osu.ppy.sh/users/11025701), ![][flag_ID] [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ![][flag_US] [Lights](https://osu.ppy.sh/users/9380939) | 
 
 ### Groups
 
@@ -94,7 +94,29 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 ## Mappools
 
-### Quarterfinals
+### Finals
+
+- FreeMod
+  - [Frums - We Want To Run (Elekton) \[nsv\]](https://osu.ppy.sh/beatmapsets/719303#mania/1519025)
+  - [igorrr - Houmous (Herkkupala) \[treat\]](https://osu.ppy.sh/beatmapsets/1016977#mania/2128574)
+  - [The Flashbulb - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/980403#mania/2051696)
+  - [frums - dropdead (Penguinosity) \[CA:TA:STRO:PHIC\]](https://osu.ppy.sh/beatmapsets/1091257#mania/2281363)
+  - [My Chemical Romance - Helena (Vortex-) \[We are the very hurt you sold\]](https://osu.ppy.sh/beatmapsets/1069281#mania/2238377)
+  - [Est - Angelic Snow (\_underjoy) \[Avalanche\]](https://osu.ppy.sh/beatmapsets/584169#mania/2067623)
+  - [Camellia - Break the Silence (\[Crz\]Crysarlene) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+  - [ioz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tail's vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Tokyo Machine - FIGHT (Zytosy) \[FIGHTO !\]](https://osu.ppy.sh/beatmapsets/1042644#mania/2179359)
+  - [Mick Gordon - The Mastermind (lunastra) \[sv\]](https://osu.ppy.sh/beatmapsets/718979#mania/1518418)
+  - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.2x\]](https://osu.ppy.sh/beatmapsets/905867#mania/2207271)
+  - [Cyte - Melty Loud Nightcore (Penguinosity) \[Discolored\]](https://osu.ppy.sh/beatmapsets/1093142#mania/2284851)
+  - [TORIENA & Jun Senoue - Bingo Party: Lap Music + Final Lap (tailsdk) \[Bingo\]](https://osu.ppy.sh/beatmapsets/979780#mania/2050520)
+  - [Camellia - *Erm, could it be a Spatiotemporal ShockWave Syndrome...? (suu is my waifu) \[*Maximum...?\]](https://osu.ppy.sh/beatmapsets/1089836#mania/2278486)
+  - [Camellia - This Future (we didn't expect)  (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+- Tiebreaker
+  - **[Camellia - Nacreous Snowmelt (-mint-) \[Pearlscense\]](https://osu.ppy.sh/beatmapsets/1089407#mania/2277675)**
+
+### Semifinals
 
 - FreeMod
   - [Sky_delta - Crystal Clear and Nothing (ft. Kanata.N) (Ruleblazing) \[Another Day(edit)\]](https://osu.ppy.sh/beatmapsets/1086842#mania/2273365)
@@ -115,6 +137,26 @@ The Speed of Light Mania Tournament is run by various community members by distr
   - [Marmalade Butcher - Ushinaharerurunazuki (suu is my waifu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1023160#mania/2140289)
 - Tiebreaker
   - **[Camellia - Luin of Celtchar (Penguinosity) \[Rupture\]](https://osu.ppy.sh/beatmapsets/1089193#mania/2277305)**
+
+### Quarterfinals
+
+- FreeMod
+  - [goreshit - fleshbound (Vortex-) \[eternal\]](https://osu.ppy.sh/beatmapsets/754494#mania/1588437)
+  - [Knxwledge - OnToMe (Xay) \[Xay's 4k\]](https://osu.ppy.sh/beatmapsets/586263#mania/1241654)
+  - [Le Perche Oreille - Meta-Feeries (Elekton) \[pixie\]](https://osu.ppy.sh/beatmapsets/1079034#mania/2257649)
+  - [Igorrr - Tendon (Abraxos) \[Tendinitis\]](https://osu.ppy.sh/beatmapsets/668092#mania/1413534)
+  - [Dormir - Une mage blanche (cjunh4972) \[x1.2\]](https://osu.ppy.sh/beatmapsets/856084#mania/1788656)
+  - [DJ Sharpnel - Over the Fullereneshift (Shoegazer) \[Second Impact\]](https://osu.ppy.sh/beatmapsets/893066#mania/2197982)
+  - [Kagetora - Reimei (Dergo) \[dawn\]](https://osu.ppy.sh/beatmapsets/1043983#mania/2182529)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+  - [Akira Complex - rift.exe (BossMadWolf) \[Blackhole (SV)\]](https://osu.ppy.sh/beatmapsets/1061916#mania/2223691)
+  - [The Dillinger Escape Plan - When Acting As A Wave (Pope Gadget) \[Supersonic\]](https://osu.ppy.sh/beatmapsets/984989#mania/2069617)
+  - [The Flashbulb - Bridgeport Run (Chrubble) \[Escapist\]](https://osu.ppy.sh/beatmapsets/405030#mania/880529)
+  - [PSYQUI - Multitalents (BringoBrango) \[Prodigy\]](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612)
+  - [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)
+  - [tomatoism - UMP9 (Ticle) \[Heizy\]](https://osu.ppy.sh/beatmapsets/970727#mania/2032725)
+- Tiebreaker
+  - **[ Camellia ft Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**
 
 ### Round of 16
 
@@ -182,9 +224,55 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
 
+### Finals
+
+Friday, 17 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -\[DaNieL_TH\]- ![][flag_TH] | 3 | **7** | ![][flag_PH] **swarmsii** | [#1](https://osu.ppy.sh/community/matches/57777717) |
+| SillyFangirl ![][flag_BR] | 0 | **7** | ![][flag_BR] **andreymc** | *win by default* |
+
+Saturday, 18 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **andreymc** ![][flag_BR] | **7** | 4 | ![][flag_PH] swarmsii | [#1](https://osu.ppy.sh/community/matches/57805057) |
+
+Monday, 20th January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| cheewee10 ![][flag_MY] | 5 | **7** | ![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/57856996) |
+
+### Semifinals
+
+Friday, 10 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -\[DaNieL_TH\]- ![][flag_TH] | 0 | **7** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/57617790) |
+| **andreymc** ![][flag_BR] | **7** | 4 | ![][flag_PE] DazeRo5 | [#1](https://osu.ppy.sh/community/matches/57630703) |
+
+Saturday, 11 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| stupud man ![][flag_US] | 0 | **7** | ![][flag_US] **HeZeus** | *win by default* |
+| **AngeloLagusa** ![][flag_RU] | **7** | 0 | ![][flag_PH] Cohue | [#1](https://osu.ppy.sh/community/matches/57641417) |
+| **swarmsii** ![][flag_PH] | **7** | 3 | ![][flag_BR] Kyut | [#1](https://osu.ppy.sh/community/matches/57646166) |
+
+Sunday, 12 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SillyFangirl ![][flag_BR] | 0 | **7** | ![][flag_PH] **bojii** | *win by default* |
+| **swarmsii** ![][flag_PH] | **7** | 0 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/57678190) |
+| **andreymc** ![][flag_BR] | **7** | 2 | ![][flag_RU] AngeloLagusa | [#1](https://osu.ppy.sh/community/matches/57680373) |
+
 ### Quarterfinals
 
-Friday. 3 January 2020:
+Friday, 3 January 2020:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -436,12 +524,12 @@ Sunday, 08 December 2019:
 #### Round overview
 
 - With the exception of the qualifier stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
-  - **Qualifiers Stage:** 4 song mappool, no winning condition, no tiebreaker song
-  - **Group stage:** 11 song mappool, best of 7 (first to** 4**), one tiebreaker song
-  - **Round of 32**: 13 song mappool, best of 9 (first to 5), one tiebreaker song
-  - **Round of 16 and quarterfinals:** 15 song mappool, best of 11 (first to 6), one tiebreaker song
-  - **Semifinals and finals:** 17 song mappool, best of 13 (first to 7), one tiebreaker song
-  - **Grand finals:** 19 song mappool, best of 15 (first to 8), one tiebreaker song
+  - **Qualifiers Stage:** 4 song mappool, no winning condition.
+  - **Group stage:** 11 song mappool, best of 7 (first to 4).
+  - **Round of 32**: 13 song mappool, best of 9 (first to 5).
+  - **Round of 16 and quarterfinals:** 15 song mappool, best of 11 (first to 6).
+  - **Semifinals and finals:** 17 song mappool, best of 13 (first to 7).
+  - **Grand finals:** 19 song mappool, best of 15 (first to 8).
 
 #### Qualification process
 
