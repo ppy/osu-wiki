@@ -6,7 +6,7 @@ tags:
 
 # osu! South East Asia Tournament 3
 
-![oSEAT3 Logo](img/logo.jpg)
+![oSEAT3 logo](img/logo.jpg)
 
 The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). This is the third installment of the osu! South East Asia Tournament.
 
@@ -305,7 +305,7 @@ Sunday, 19 January 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_PH] konawiki | [#1](https://osu.ppy.sh/community/matches/57819862) |
 | Ascaveth ![][flag_ID] | 4 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/57833283) |
-| not\_aweeb ![][flag_MY] | 3 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/mp/57834161) |
+| not\_aweeb ![][flag_MY] | 3 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/community/matches/57834161) |
 | Gatyaa420 ![][flag_ID] | 2 | **6** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/57836287) |
 
 Monday, 20 January 2020:
