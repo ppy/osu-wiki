@@ -60,6 +60,6 @@ As is the usual, all of the above plus a hell of a lot more are available right 
 
 Continuing the trend of galaxy-brain shoutouts, Reddit user /u/Jalienet nailed this week's shorter-form hint almost instantly. Perhaps we'll make the next hint a little harder.
 
-New week means another new Featured Artist in a pace that just keeps on giving. And giving. We're now not really that far off nearly two thousand total tracks, which is kind of incredible if you think about it for a little bit. If you're digging for a hint regarding the next release, keep an eye on [@osugame Twitter](https://twitter.com/osugame) over the next week or so.
+New week means another new Featured Artist in a pace that just keeps on giving. We're now not really that far off nearly two thousand total tracks, which is kind of incredible if you think about it for a little bit. If you're digging for a hint regarding the next release, keep an eye on [@osugame Twitter](https://twitter.com/osugame) over the next week or so.
 
 —Ephemeral
