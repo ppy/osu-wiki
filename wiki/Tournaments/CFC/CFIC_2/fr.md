@@ -6,7 +6,7 @@ tags:
 
 # Catch French Intermediate Cup 2
 
-![CFIC2 logo](img/logo.jpg)
+![CFIC 2 logo](img/logo.jpg)
 
 La **Catch French Intermediate Cup 2** (***CFIC 2***) est un tournoi 1v1 français intermédiaire en osu!catch organisé par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), et ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). C'en est la deuxième édition et une nouvelle branche de la Catch French Cup.
 

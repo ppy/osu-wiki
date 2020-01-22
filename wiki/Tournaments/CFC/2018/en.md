@@ -1,7 +1,7 @@
 ---
 tags:
-   - CFC
-   - CFC2018
+  - CFC
+  - CFC2018
 ---
 
 # Catch French Cup 2018

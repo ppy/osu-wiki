@@ -1,7 +1,6 @@
 ---
 tags:
   - CFIC
-  - CFIC2
 ---
 
 # Catch French Intermediate Cup

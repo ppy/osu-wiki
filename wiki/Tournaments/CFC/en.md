@@ -2,8 +2,8 @@
 
 Index page for all of the Catch French Cup series.
 
-- [2018](./2)
-- [3](./3)
-- [CFIC](./CFIC_1)
-- [4](./4)
-- [CFIC 2](./CFIC_2)
+- [Catch French Cup 2018](2018)
+- [Catch French Cup 3](3)
+- [Catch French Intermediate Cup](CFIC_1)
+- [Catch French Cup 4](4)
+- [Catch French Intermediate Cup 2](CFIC_2)
