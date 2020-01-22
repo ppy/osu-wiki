@@ -22,7 +22,7 @@ The `Test` button will save your beatmap then will start play-testing it startin
 The timeline itself uses a few tick marks that have various meanings.
 
 | Colour | Description |
-| ------ | ----------- |
+| --- | --- |
 | White (long) | Current timestamp |
 | Yellow (long tick) | Preview point |
 | Yellow (up tick) | Start of drain time |
@@ -45,7 +45,7 @@ There are two different kinds of hit objects timelines depending on which game m
 In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_Modes/osu!mania).
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | `+`/`-` buttons | Increase/Decrease timeline zoom. |
 | Double white vertical lines | This shows the current timestamp with respect to the hit object timeline. |
 
@@ -66,13 +66,13 @@ In the centre is the actual playfield.
 The playfield is made up of two parts: lines and notes.
 
 | Line Colour | Description |
-| ---- | ----------- |
+| --- | --- |
 | Thick White | Full measure |
 | White | Common Time |
 | Green | Current timestamp/Judgement line |
 
 | Note Colour | Description |
-| ---- | ----------- |
+| --- | --- |
 | Blue | Selected note(s) |
 | White/Pink/Yellow | Unselected note colours |
 
@@ -85,7 +85,7 @@ The [design](/wiki/Design) timeline is located underneath the `Design` tab.
 ### Timeline
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
 | `Up`/`Down` arrows on bottom-left | Scroll up/down the transformation timeline (this is to reveal `Colour` or `Movement` on the timeline). |
 
@@ -97,7 +97,7 @@ The keyframe control adds or removes anchor points.
 These anchor points set the start and end times for how a sprite should be storyboarded.
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | `+`/`-` | Add/Delete anchor points for the selected transformation. |
 | `Left`/`Right` arrows | Skip backwards/forwards to the nearest anchor point of the selected transformation. |
 
@@ -114,7 +114,7 @@ The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
 ### Timing Timeline
 
 | Name | Description |
-| ---- | ----------- |
+| --- | --- |
 | `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
 
 In the centre is the timing timeline itself.
@@ -130,6 +130,6 @@ This doubles as a helper to estimate the BPM value of the song.
 ### Flag Colours
 
 | Colour | Description |
-| ------ | ----------- |
+| --- | --- |
 | White | Timing Points. Use new BPM value. (Red on Song Timeline) |
 | Blue | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |
