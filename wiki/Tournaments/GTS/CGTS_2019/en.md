@@ -1,12 +1,12 @@
 ---
 tags:
-  - CGTS 2019
+  - CGTS
   - CGTS2019
 ---
 
 # Continental Global Taiko Showdown 2019
 
-![CGTS 2019 Logo](img/logo.jpg)
+![CGTS 2019 logo](img/logo.jpg)
 
 The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
@@ -16,8 +16,8 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-09-14/2019-10-20 |
-| Live Drawings | 2019-10-27 (13:00 UTC) |
+| Registration phase | 2019-09-14/2019-10-20 |
+| Live drawings | 2019-10-27 (13:00 UTC) |
 | Qualifiers | 2019-11-02/2019-11-03 |
 | Round of 32 | 2019-11-09/2019-11-10 |
 | Round of 16 | 2019-11-15/2019-11-17 |
@@ -41,17 +41,17 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
 
 ### Regional
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ## Organisation
 
