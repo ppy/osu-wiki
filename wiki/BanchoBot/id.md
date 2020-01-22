@@ -9,7 +9,6 @@ outdated: true
 BanchoBot adalah sebuah bot (yaitu kumpulan perintah yang disusun untuk merespon secara otomatis) yang diprogram oleh **Echo49**. BanchoBot membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait game.
 BanchoBot juga dikenal sebagai host [irc bancho](/wiki/Internet_Relay_Chat) dan memiliki profil pengguna dengan ID *[#3](https://osu.ppy.sh/users/3)* (setelah peppy di nomor [#2](https://osu.ppy.sh/users/2)). *Bancho juga memiliki [profil twitternya](https://twitter.com/banchoboat) sendiri!*
 
-
 ## Perintah BanchoBot
 
 Untuk menggunakan perintah BanchoBot, anda harus menggunakan awalan `!` setiap saat. **Pengguna normal hanya bisa menggunakan perintah ini di channel multiplayer dan di PM BanchoBot.** Jika pengguna mengirim perintah dalam obrolan publik, pengguna biasa tidak akan melihatnya dan mereka mendapatkannya sebagai pesan pribadi. Pengguna juga dapat menggunakan perintah klien `/bb <command>` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
