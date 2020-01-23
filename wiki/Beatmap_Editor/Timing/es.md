@@ -8,11 +8,9 @@ Para lograr un correcto timing es necesario que el timeline (línea de tiempo) e
 
 ## Cómo poner timing a las canciones
 
-El timing es extremadamente importante. Para poner timing a la canción, primero necesitas cambiar a la pestaña de timing.
-En la pestaña de timing, hay un pequeña cuadro en la parte superior derecha, al lado del timeline. Este cuadro será usado para establecer el BPM aproximado basado en tus clicks.
+El timing es extremadamente importante. Para poner timing a la canción, primero necesitas cambiar a la pestaña de timing. En la pestaña de timing, hay un pequeña cuadro en la parte superior derecha, al lado del timeline. Este cuadro será usado para establecer el BPM aproximado basado en tus clicks.
 
-El mapper debe reproducir la canción y escucharla. Presionando **«Tap Here»** al ritmo de la música.
-Después de cierto número de presiones, el BPM aproximado será establecido y las teclas negras resonarán como «tic toc toc toc» donde tic es el inicio de un nuevo compás (para 4/4 standard). Repite por lo menos cinco veces este proceso y mide el tiempo promedio. Si no estás seguro, pide ayuda en el chat o en el foro. Sube tu beatmap y usa el "link" como solicitud. Puede que tengas que hacer algo a cambio de la ayuda.
+El mapper debe reproducir la canción y escucharla. Presionando **«Tap Here»** al ritmo de la música. Después de cierto número de presiones, el BPM aproximado será establecido y las teclas negras resonarán como «tic toc toc toc» donde tic es el inicio de un nuevo compás (para 4/4 standard). Repite por lo menos cinco veces este proceso y mide el tiempo promedio. Si no estás seguro, pide ayuda en el chat o en el foro. Sube tu beatmap y usa el "link" como solicitud. Puede que tengas que hacer algo a cambio de la ayuda.
 
 Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM cambiará entre 0,1 y 2.
 

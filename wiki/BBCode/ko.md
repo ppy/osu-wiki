@@ -2,8 +2,7 @@
 
 ![포럼에서의 글쓰기 화면.](img/editor.jpg "포럼에서의 글쓰기 화면.")
 
-BBCode란 오스 포럼에서 사용되며, 더 넓게는 rich text formatting을 가능하게 하기 위해 대개의 온라인 포럼에서 사용되는 마크업 용어입니다.
-텍스트를 감싸는 tag들과 attribute들로 이루어져 있죠.
+BBCode란 오스 포럼에서 사용되며, 더 넓게는 rich text formatting을 가능하게 하기 위해 대개의 온라인 포럼에서 사용되는 마크업 용어입니다. 텍스트를 감싸는 tag들과 attribute들로 이루어져 있죠.
 
 osu!web에서 BBCode는 포럼 글, 시그니처와 유저페이지에 사용됩니다.
 
