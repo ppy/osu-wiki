@@ -596,7 +596,9 @@ Pour l'activer, essayez les étapes suivantes:
 
 **Vous pouvez régler ce problème en définissant une plus petite zone sur votre appareil.**
 
-Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. Un exemple peut être vu [ici](https://w.ppy.sh/d/dc/Tabarea.png).
+Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. 
+
+![Option d'une tablette Wacom montrant les options de Mapping](Tabarea.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 
@@ -681,15 +683,7 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 
 ##### Empêcher les messages privés du forum de vous atteindre
 
-**Pour supprimer tous les messages privés du forum avant qu'ils n'arrivent, faites une [règle de filtrage automatique dans les paramètres d'UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
-
-1. Dirigez-vous vers la section de filtrage des PM dans l'[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. Au tout début de la page, cherchez la colonne intitulée `Add new Rule`.
-3. Cliquez sur la première boîte déroulante (la valeur par défaut est Subject) et changez-la en `Sender`, puis cliquez sur Next.
-4. Cliquez sur la première boîte déroulante et changez la valeur de "is like" à "is" (troisième option dans la liste), puis cliquez sur Next.
-5. Entrez le nom de l'utilisateur que vous souhaitez bloquer dans la boîte de texte qui est apparue, puis cliquez sur Next.
-6. Cliquez sur la première boîte déroulante et changez sa valeur sur "Delete message", puis cliquez sur "Add Rule".
-7. C'est bon ! Toutes tentatives de l'utilsateur de vous contacter via les messages privés du forum seront automatiquement supprimés sans vous avertir.
+Allez dans les [paramètres de votre compte](https://osu.ppy.sh/home/account/edit) et cliquez sur `Bloque les messages privés des personnes qui ne sont pas dans votre liste d’amis` dans la section confidentialité. Les messages privés venant de vos amis continueront de vous atteindre.
 
 ##### Que faire si j'ai toujours des problèmes avec un utilisateur que j'ai bloqué ?
 
