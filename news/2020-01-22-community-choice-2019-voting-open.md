@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Community Choice 2019: Voting Open"
-date: 2020-01-22 10:00:00 +0000
+date: 2020-01-23 10:00:00 +0000
 ---
 
 2019 has come and gone, and with it, an entire year of mapping legacy enters the history books forever more. Become a part of history and help us decide which of 2019's maps were the Community Choice!
 
-![](/wiki/shared/news/2020-01-22-community-choice-2019-voting-open/header.jpg)
+![](/wiki/shared/news/2020-01-23-community-choice-2019-voting-open/header.jpg)
 
 In case you're unfamiliar, every year we run a mass poll including all Ranked maps submitted across a calendar year to help determine which maps were the most adored by the community at large. This has gone by a variety of names, from the venerable "Best Of 20XX" series back in the earlier days of the game's history, to the more recent "Community Choice" series.
 
