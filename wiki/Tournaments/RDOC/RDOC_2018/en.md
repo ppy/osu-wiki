@@ -14,8 +14,8 @@ The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimina
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-08-13/2018-09-07 |
-| Live Drawings | 2018-09-09 |
+| Registration phase | 2018-08-13/2018-09-07 |
+| Live drawings | 2018-09-09 |
 | Group Stage | 2018-09-15/2018-09-16 & 2018-09-22/2018-09-23 |
 | Round of 16 | 2018-09-29/2018-09-30 |
 | Quarterfinals | 2018-10-06/2018-10-07 |
@@ -31,11 +31,11 @@ The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimina
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
 
-![RDOC Winner Badge](img/badge.png)
+![RDOC winner badge](img/badge.png)
 
 ## Organisation
 
-The Royal Danish osu!Cup is run by various community members.
+The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -67,7 +67,7 @@ The Royal Danish osu!Cup is run by various community members.
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Bottom Seed |
+| Group | Top seed | High sed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_DK] [space potato](https://osu.ppy.sh/users/6545407) | ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417) | ![][flag_DK] [Boje](https://osu.ppy.sh/users/5120773) | ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224) |
 | **B** | ![][flag_DK] [Telomere](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154) | ![][flag_DK] [Syncopate](https://osu.ppy.sh/users/7232730) |
@@ -246,85 +246,99 @@ The Royal Danish osu!Cup is run by various community members.
 
   ---
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
-  | Group | Sunday, 2018-10-28 |  |  |  |
+  Sunday, 2018-10-28:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
-  | UB | **Spork Lover** ![][flag_DK] | 5 | **7** | ![][flag_DK] Cerkie |
+  | UB | **Spork Lover** ![][flag_DK] | **7** | 5 | ![][flag_DK] Cerkie |
   | UB | Cerkie ![][flag_DK] | 2 | **7** | ![][flag_DK] **Spork Lover** |
 
-  | Group | Saturday, 2018-10-27 |  |  |  |
+  Saturday, 2018-10-27:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |  
 
 ### Finals
 
-  | Group | Sunday, 2018-10-21 |  |  |  |
+  Sunday, 2018-10-21:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Spork Lover** ![][flag_DK] | **6** | 4 | ![][flag_DK] Telomere |
   | UB | raser1234 ![][flag_DK] | 0 | **6** | ![][flag_DK] **Cerkie** |
 
-  | Group | Saturday, 2018-10-20 |  |  |  |
+  Saturday, 2018-10-20:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
   | LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
 
 ### Semifinals
 
-  | Group | Sunday, 2018-10-14 |  |  |  |
+  Sunday, 2018-10-14:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | My Aim Zogs ![][flag_DK] | 4 | **6** | ![][flag_DK] **Vandabe** |
   | LB | waefwerf ![][flag_DK] | 3 | **6** | ![][flag_DK] **Telomere** |
 
-  | Group | Saturday, 2018-10-13 |  |  |  |
+  Saturday, 2018-10-13:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | **Cerkie** ![][flag_DK] | **6** | 2 | ![][flag_DK] Spork Lover |
   | LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
   | LB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
 
-  | Group | Friday, 2018-10-12 |  |  |  |
+  Friday, 2018-10-12:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
 
-  | Group | Thursday, 2018-10-11 |  |  |  |
+  Thursday, 2018-10-11:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
 
-  | Group | Wednesday, 2018-10-10 |  |  |  |
+  Wednesday, 2018-10-10:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
 
 ### Quarterfinals
 
-  | Group | Sunday, 2018-10-07 |  |  |  |
+  Sunday, 2018-10-07:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | **Cerkie** ![][flag_DK] | **6** | 3 | ![][flag_DK] Telomere |
   | LB | Boje ![][flag_DK] | 5 | **6** | ![][flag_DK] **Pallerik** |
   | LB | **eLLezH** ![][flag_DK] | **6** | 0 | ![][flag_DK] RipG |
   | LB | **Katachi** ![][flag_DK] | **6** | 2 | ![][flag_DK] Tona |
 
-  | Group | Saturday, 2018-10-06 |  |  |  |
+  Saturday, 2018-10-06:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | My Aim Zogs ![][flag_DK] | 0 | **6** | ![][flag_DK] **Space Potato** |
   | UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
   | UB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **Spork Lover** |
 
-  | Group | Thursday, 2018-10-04 |  |  |  |
+  Thursday, 2018-10-04
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
 
 ### Round of 16
 
-  | Group | Sunday, 2018-09-30 |  |  |  |
+  Sunday, 2018-09-30:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | Boje ![][flag_DK] | 1 | **5** | ![][flag_DK] **Telomere** |
   | UB | eLLezH ![][flag_DK] | 1 | **5** | ![][flag_DK] **Spork Lover** |
   | UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
   | UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
 
-  | Group | Saturday, 2018-09-29 |  |  |  |
+  Saturday, 2018-09-29:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
   | UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
@@ -333,7 +347,8 @@ The Royal Danish osu!Cup is run by various community members.
 
 ### Group Stage
 
-  | Group | Sunday, 2018-09-23 |  |  |  |
+  Sunday, 2018-09-23:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | B | **Syncopate** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
   | E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kinety |
@@ -348,7 +363,8 @@ The Royal Danish osu!Cup is run by various community members.
   | D | **Contaminate** ![][flag_DK] | **4** | 2 | ![][flag_DK] Lucasion |
   | D | **Lucasion** ![][flag_DK] | **4** | 0 | ![][flag_DK] FeelDaTonneh |
 
-  | Group | Saturday, 2018-09-22 |  |  |  |
+  Saturday, 2018-09-22:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
   | C | Pallerik ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
@@ -358,7 +374,8 @@ The Royal Danish osu!Cup is run by various community members.
   | E | Kinety ![][flag_DK] | 2 | **4** | ![][flag_DK] **eLLezH** |
   | D | FeelDaTonneh ![][flag_DK] | 1 | **4** | ![][flag_DK] **Contaminate** |
 
-  | Group | Sunday, 2018-09-16 |  |  |  |
+  Sunday, 2018-09-16:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | G | **RipG** ![][flag_DK] | **4** | 3 | ![][flag_DK] Power Supply |
   | G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] RipG |
@@ -376,7 +393,8 @@ The Royal Danish osu!Cup is run by various community members.
   | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] Syncopate |
   | B | waefwerf ![][flag_DK] | 3 | **4** | ![][flag_DK] **Telomere** |
 
-  | Group | Saturday, 2018-09-15 |  |  |  |
+  Saturday, 2018-09-15:
+  | Group | Player 1 |  |  | Player 2 |
   | :-: | --: | :-: | :-: | :-- |
   | A | **Boje** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
   | A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
@@ -453,3 +471,10 @@ The Royal Danish osu!Cup is run by various community members.
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before Thursday of the weekend the match is to be played.
+
+[flag_AU]: /wiki/shared/flag/DK.gif
+[flag_BR]: /wiki/shared/flag/RU.gif
+[flag_DE]: /wiki/shared/flag/MX.gif
+[flag_EC]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FO.gif
+[flag_HK]: /wiki/shared/flag/GL.gif
