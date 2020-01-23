@@ -472,9 +472,10 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before Thursday of the weekend the match is to be played.
 
-[flag_AU]: /wiki/shared/flag/DK.gif
-[flag_BR]: /wiki/shared/flag/RU.gif
-[flag_DE]: /wiki/shared/flag/MX.gif
-[flag_EC]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FO.gif
-[flag_HK]: /wiki/shared/flag/GL.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FO]: /wiki/shared/flag/FO.gif
+[flag_GL]: /wiki/shared/flag/GL.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
