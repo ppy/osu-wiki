@@ -1,10 +1,8 @@
 # Tempo
 
-***Artículo original [aquí](/wiki/Beatmap_Editor/Timing)***
-
 ![Menú de timing](img/Timing_base.jpg "Menú de timing")
 
- El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
+El **timing** (tempo) de un [beatmap](/wiki/Beatmaps) está compuesto por el [offset](/wiki/Glossary) de la canción y los Beats Por Minuto (BPM). El BPM muestra qué tan rápido irá la canción. Mientras que el offset es la cantidad de tiempo que pasará entre el inicio de la canción mp3 y el primer "downbeat" de la canción.
 
 Para lograr un correcto timing es necesario que el timeline (línea de tiempo) en el [editor](/wiki/Beatmap_Editor) se sincronice correctamente con la música. Si el timing es incorrecto, entonces el timeline no coincidirá con la canción. Por lo tanto, no podrías presionar los objetos con precisión, y sería imposible mappear correctamente la canción.
 
@@ -18,12 +16,12 @@ Después de cierto número de presiones, el BPM aproximado será establecido y l
 
 Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM cambiará entre 0,1 y 2.
 
--   BPM Sensibilidad 0: 999,00
--   BPM Sensibilidad 1: 999,90
--   BPM Sensibilidad 2: 999,99
-    -   *9 = número aleatorio / 0 = número no afectado.*
+- BPM Sensibilidad 0: 999,00
+- BPM Sensibilidad 1: 999,90
+- BPM Sensibilidad 2: 999,99
+  - *9 = número aleatorio / 0 = número no afectado.*
 
-**La tecla «T» también puede ser usado en lugar de «Tap Here!»**
+**La tecla «T» también puede ser usado en lugar de «Tap Here!».**
 
 ## Secciones de Timing
 
