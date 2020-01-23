@@ -6,15 +6,13 @@ outdated: true
 
 歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
 
-![歌曲设置的位置](img/Song_Setup_nav.jpg "歌曲设置的位置")
-
 ## 基本设定(General)
 
 ### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
 
-![完整的元数据样例](img/Song_Setup.jpg "完整的元数据样例")
+![完整的元数据样例](img/SS_General.jpg "完整的元数据样例")
 
-![难度设定选项卡](img/SS_Difficulty_Settings.jpg "难度设定选项卡")
+![难度设定选项卡](img/SS_Difficulty.jpg "难度设定选项卡")
 
 并非所有歌曲都需要在“Source”字段中填写内容。Source只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
 
@@ -134,7 +132,7 @@ Approach Rate通常缩写为"**AR**"。
 
 ## 谱面相关颜色设定(Colors)
 
-![Colors section](img/SS_Colors.jpg "Colors section")
+![Colors section](img/SS_Colours.jpg "Colors section")
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
@@ -146,7 +144,7 @@ Approach Rate通常缩写为"**AR**"。
 
 ## 外观设计设定(Design)
 
-![Design section](img/SS_Storyboarding.jpg "Design section")
+![Design section](img/SS_Design.jpg "Design section")
 
  这个选项卡(Design)中的设定，允许你设定关于你的storyboard和谱面的一些可视元素。
 
@@ -189,7 +187,7 @@ Approach Rate通常缩写为"**AR**"。
 
 堆叠将会自左上往堆叠的重心靠近。
 
-![示例](img/SS_SL_eg.jpg)
+![示例](img/stacking-editor.jpg)
 
 ### 谱面适用模式指定(Mode Specific)
 

@@ -4,7 +4,7 @@ outdated: true
 
 # Editor de Beatmap
 
-![Compose editor de osu! (Pantalla Completa)](Compose/ComposeES.png "Compose editor de osu! (Pantalla Completa)")
+![Compose editor de osu! (Pantalla Completa)](Compose/img/Compose-ES.jpg "Compose editor de osu! (Pantalla Completa)")
 
 El **beatmap editor** (editor de beatmap) es una interfaz gráfica en osu! que sirve para crear [beatmaps](/wiki/Beatmaps). Está separado en 4 modos:
 

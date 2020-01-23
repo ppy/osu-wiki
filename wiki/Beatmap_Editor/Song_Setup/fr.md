@@ -6,15 +6,13 @@ outdated: true
 
 Les paramètres d'une beatmap est une étape importante dans le [beatmapping](/wiki/Beatmapping), puisqu'il contient des paramètres importants qui sont les clés pour créer une map correcte.
 
-![Emplacement des paramètres de la beatmap](img/Song_Setup_nav.jpg "Emplacement des paramètres de la beatmap")
-
 ## Général
 
 ### Métadonnées de la musique et de la map
 
-![Exemple de données complètes (Onglet "General")](img/Song_Setup.jpg "Exemple de données complètes (Onglet "General")")
+![Exemple de données complètes (Onglet "General")](img/SS_General.jpg "Exemple de données complètes \(Onglet \"General\"\)")
 
-![Onglet "Difficulty" (Difficulté)](img/SS_Difficulty_Settings.jpg "Onglet "Difficulty" (Difficulté)")
+![Onglet "Difficulty" (Difficulté)](img/SS_Difficulty.jpg "Onglet \"Difficulty\" \(Difficulté\)")
 
 [Guide pour trouver les métadonnées (anglais)](https://osu.ppy.sh/community/forums/topics/249288).
 
@@ -116,7 +114,7 @@ Quatre mods peuvent altérer l'OD quand actifs :
 
 ## Audio
 
-![Onglet "Audio"](img/SS_Audio.jpg "Onglet "Audio"")
+![Onglet "Audio"](img/SS_Audio.jpg "Onglet \"Audio\"")
 
 ### Default Sample Settings (Sons par défaut)
 
@@ -138,7 +136,7 @@ Cliquez sur les boutons pour tester les hitsounds actuels. Ces sons sont additif
 
 ## Colours (Couleurs)
 
-![Onglet "Colours"](img/SS_Colours.jpg "Onglet "Colours"")
+![Onglet "Colours"](img/SS_Colours.jpg "Onglet \"Colours\"")
 
 Cette section est utilisée principalement pour assigner des couleurs de combo. Ces couleurs sone un aspect important de la valeur esthétique de la beatmap, puisque il y aura beaucoup de cercles et de sliders dans la map. Cliquer sur une couleur ouvre la fenêtre de sélection de couleur de votre système d'exploitation (sur l'image ci-contre, Windows). Choisissez des couleurs qui complimentent l'arrière-plan mais qui ne se camouflent pas avec. Jusqu'à 8 couleurs peuvent être utilisées, bien que la plupart des maps en utilisent quatre. Cliquer sur "Remove Combo Colour" supprimera la couleur avec le numéro le plus élevé (en d'autres termes, ordre inverse 8-7-6-5-4-3-2).
 
@@ -146,7 +144,7 @@ L'autre partie de cette fenêtre permet d'assigner une couleur à l'arrière pla
 
 ## Storyboarding
 
-![Onglet "Storyboarding"](img/SS_Storyboarding.jpg "Onglet "Storyboarding"")
+![Onglet "Storyboarding"](img/SS_Design.jpg "Onglet \"Storyboarding\"")
 
 Cet onglet contient les options sur comment certains éléments visuels apparaissent dans la beatmap.
 
@@ -176,7 +174,7 @@ Un exemple de cette utilisation serait [Beautiful Day - Bang! Bang! Bang! (-SiN-
 
 ## Advanced (Avancé)
 
-![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet "Advanced"")
+![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet \"Advanced\"")
 
 ### Stack Leniency (Tolérance de l'empilage)
 
@@ -186,7 +184,7 @@ Plus le curseur est à droite, plus il y aura de cercles empilés sur une pério
 
 Sachez que les cercles empilés se *dirigeront* vers le point d'empilage.
 
-![Exemple ici](img/SS_SL_eg.jpg)
+![Exemple ici](img/stacking-editor.jpg)
 
 Les objets sont empilés si ils appartiennent aux mêmes coordonnées et ne sont pas loin dans le temps tel que (Fenêtre d'approche) \* (Tolérance de l'empilage) / 10, où la fenêtre d'approche est la durée d'apparition des objets (Voir Approach Rate ci dessus).
 

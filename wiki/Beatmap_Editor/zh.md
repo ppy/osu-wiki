@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmap Editor
 
-![osu!的谱面编辑器 (Windows 系统)](Compose/Compose.png "osu!的谱面编辑器 (Windows 系统)")
+![osu!的谱面编辑器 (Windows 系统)](Compose/img/Compose.jpg "osu!的谱面编辑器 (Windows 系统)")
 
 **谱面编辑器**是Osu!的游戏中的图形界面，用于创建[谱面](/wiki/Beatmaps)。它被分为4种模式：
 
