@@ -6,7 +6,7 @@ tags:
 
 # Royal Danish osu!Cup 2018
 
-![RDOC Logo](img/logo.jpg)
+![RDOC logo](img/logo.jpg)
 
 The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506)  and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
 
