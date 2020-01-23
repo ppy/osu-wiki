@@ -23,6 +23,6 @@ Got all that? When you're ready to vote, head to the following links:
 - [osu!catch](https://osu.ppy.sh/community/contests/87)
 - [osu!mania](https://osu.ppy.sh/community/contests/88)
 
-The polls will remain open until the **6th of February, 2020**, which is exactly **15 days** from the date of this post. Get in and get your votes done quick, you'll be surprised how fast it passes by.
+The polls will remain open until the **7th of February, 2020**, which is exactly **15 days** from the date of this post. Get in and get your votes done quick, you'll be surprised how fast it passes by.
 
 —Ephemeral
