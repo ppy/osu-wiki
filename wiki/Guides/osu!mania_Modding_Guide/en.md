@@ -12,7 +12,7 @@ To start modding a map, pick a beatmap from the [pending beatmap listing](https:
 The discussion page is filled with a lot of buttons, which are all explained below:
 
 First, let's start with the following row of buttons:
-![](Diffs.jpg)
+![](/wiki/Guides/osu!mania_Modding_Guide/img/Diffs.jpg)
 - **[xK] (Difficulty Name)** - This opens a list of difficulties to choose from to mod. The x represents the amount of columns the map has.
 - **Mine** - Only your (the modder) posts will be displayed.
 - **Notes** - Only notes the mapper left on the discussion page will be displayed.
@@ -23,7 +23,7 @@ First, let's start with the following row of buttons:
 - **Filter by user** - Only posts by a specific user will be displayed.
 
 Furthermore there are 3 buttons lower down on the page:
-![](HypeNomi.jpg)
+![](/wiki/Guides/osu!mania_Modding_Guide/img/HypeNomi.jpg)
 - **Hype Beatmap** - Hypes are used as a way to promote maps and signal interest in seeing the map ranked. Hypes are required to move a beatmap into qualified as before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. Each user can only hype a beatmap once, and hypes are given out every 7 days, up to a maximum of 10 hype.
 - **Watch/Unwatch** - Watching a map will cause notifications to appear whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
 - **Beatmap Page** - Goes back to the beatmap information and scores page.
