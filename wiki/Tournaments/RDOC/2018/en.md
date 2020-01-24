@@ -78,6 +78,16 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | **G** | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839) | ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) | ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
 | **H** | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812) | ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362) | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
 
+## Podium
+
+ This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+
 ## Mappools
 
 ### Grand Finals
