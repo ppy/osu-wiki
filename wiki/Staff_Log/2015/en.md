@@ -1,5 +1,7 @@
 # 2015
 
+*Note: Some users' history may be incomplete during this year.*
+
 ## January
 
 - Moved [Krisom](https://osu.ppy.sh/users/99269) to osu! Alumni (2015-01-03)

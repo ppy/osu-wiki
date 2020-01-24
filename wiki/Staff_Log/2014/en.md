@@ -1,5 +1,7 @@
 # 2014
 
+*Note: Some users' history may be incomplete during this year.*
+
 ## January
 
 - Added [[Shi-Ra]](https://osu.ppy.sh/users/2008489) to Beatmap Appreciation Team (2014-01-01)
