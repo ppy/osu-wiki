@@ -158,5 +158,7 @@ will be Low Seed, to end the Unseed teams.
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
 [GCrown]: /wiki/shared/GCrown.png
 [SCrown]: /wiki/shared/SCrown.png
