@@ -80,8 +80,7 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-To define a custom flag, go back to the osu! folder containing the `drawings.ini` file, create the folder `Drawings`, and inside it create the folder `Flags` such that the folder hierarchy `osu/Drawings/Flags/` is created.  
-Custom flag image files can be placed inside the Flags folder. For example if the file `my-flag-file.png` was placed inside the Flags folder, then a valid line that can be added to the `drawings.txt` file is:  
+To define a custom flag, go back to the osu! folder containing the `drawings.ini` file and inside it create the folder `Flags`. Custom flag image files can be placed inside the Flags folder. For example if the file `my-flag-file.png` was placed inside the Flags folder, then a valid line that can be added to the `drawings.txt` file is:  
 `my-flag-file : My Team : MT`
 
 The optimal resolution for flag images is 70x47 pixels (or the same aspect ratio).
