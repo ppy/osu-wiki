@@ -8,7 +8,7 @@ tags:
 
 ![RDOC logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506)  and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506) and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -16,12 +16,12 @@ The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimina
 | --: | :-- |
 | Registration phase | 2018-08-13/2018-09-07 |
 | Live drawings | 2018-09-09 |
-| Group Stage | 2018-09-15/2018-09-16 & 2018-09-22/2018-09-23 |
+| Group Stage | 2018-09-15/2018-09-23 |
 | Round of 16 | 2018-09-29/2018-09-30 |
 | Quarterfinals | 2018-10-06/2018-10-07 |
 | Semifinals | 2018-10-13/2018-10-14 |
 | Finals | 2018-10-20/2018-10-21 |
-| Grand Finals | 2018-10-27/2020-10-28 |
+| Grand Finals | 2018-10-27/2018-10-28 |
 
 ## Prizes
 
@@ -61,7 +61,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ![][flag_DK] [Telomere](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887), ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [space potato](https://osu.ppy.sh/users/6545407), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
-| High |  ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Katachi](https://osu.ppy.sh/users/5778925), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839), ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) |
+| High | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Katachi](https://osu.ppy.sh/users/5778925), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839), ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) |
 | Low | ![][flag_DK] [Lucasion](https://osu.ppy.sh/users/7382672), ![][flag_DK] [Boje](https://osu.ppy.sh/users/5120773), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154), ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [eLLezH](https://osu.ppy.sh/users/2143311), ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) |
 | Bottom | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805), ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782), ![][flag_DK] [Kinety](https://osu.ppy.sh/users/5941273), ![][flag_DK] [Waven7](https://osu.ppy.sh/users/11157036), ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224), ![][flag_DK] [Syncopate](https://osu.ppy.sh/users/7232730), ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263), ![][flag_DK] [sanoJ](https://osu.ppy.sh/users/5385297) |
 
@@ -77,8 +77,6 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | **F** | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Katachi](https://osu.ppy.sh/users/5778925) | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | ![][flag_DK] [Waven7](https://osu.ppy.sh/users/11157036) |
 | **G** | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839) | ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) | ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
 | **H** | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812) | ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362) | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
-
----
 
 ## Mappools
 
@@ -244,174 +242,188 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 - Tiebreaker
   - **[An - Dive Archive \[Inundation\]](https://osu.ppy.sh/beatmapsets/761883#osu/1601943)**
 
-  ---
-
 ## Match results
 
 ### Grand Finals
 
-  Sunday, 2018-10-28:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | **Spork Lover** ![][flag_DK] | **7** | 5 | ![][flag_DK] Cerkie |
-  | UB | Cerkie ![][flag_DK] | 2 | **7** | ![][flag_DK] **Spork Lover** |
+Saturday, 2018-10-27:
 
-  Saturday, 2018-10-27:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |  
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |
+
+Sunday, 2018-10-28:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Spork Lover** ![][flag_DK] | **7** | 5 | ![][flag_DK] Cerkie |
+| UB | Cerkie ![][flag_DK] | 2 | **7** | ![][flag_DK] **Spork Lover** |
 
 ### Finals
 
-  Sunday, 2018-10-21:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **Spork Lover** ![][flag_DK] | **6** | 4 | ![][flag_DK] Telomere |
-  | UB | raser1234 ![][flag_DK] | 0 | **6** | ![][flag_DK] **Cerkie** |
+Saturday, 2018-10-20:
 
-  Saturday, 2018-10-20:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
-  | LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
+| LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
+
+Sunday, 2018-10-21:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Spork Lover** ![][flag_DK] | **6** | 4 | ![][flag_DK] Telomere |
+| UB | raser1234 ![][flag_DK] | 0 | **6** | ![][flag_DK] **Cerkie** |
 
 ### Semifinals
 
-  Sunday, 2018-10-14:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | My Aim Zogs ![][flag_DK] | 4 | **6** | ![][flag_DK] **Vandabe** |
-  | LB | waefwerf ![][flag_DK] | 3 | **6** | ![][flag_DK] **Telomere** |
+Wednesday, 2018-10-10:
 
-  Saturday, 2018-10-13:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | **Cerkie** ![][flag_DK] | **6** | 2 | ![][flag_DK] Spork Lover |
-  | LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
-  | LB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
 
-  Friday, 2018-10-12:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
+Thursday, 2018-10-11:
 
-  Thursday, 2018-10-11:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
 
-  Wednesday, 2018-10-10:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
+Friday, 2018-10-12:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
+
+Saturday, 2018-10-13:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Cerkie** ![][flag_DK] | **6** | 2 | ![][flag_DK] Spork Lover |
+| LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
+| LB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
+
+Sunday, 2018-10-14:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | My Aim Zogs ![][flag_DK] | 4 | **6** | ![][flag_DK] **Vandabe** |
+| LB | waefwerf ![][flag_DK] | 3 | **6** | ![][flag_DK] **Telomere** |
 
 ### Quarterfinals
 
-  Sunday, 2018-10-07:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | **Cerkie** ![][flag_DK] | **6** | 3 | ![][flag_DK] Telomere |
-  | LB | Boje ![][flag_DK] | 5 | **6** | ![][flag_DK] **Pallerik** |
-  | LB | **eLLezH** ![][flag_DK] | **6** | 0 | ![][flag_DK] RipG |
-  | LB | **Katachi** ![][flag_DK] | **6** | 2 | ![][flag_DK] Tona |
+Thursday, 2018-10-04:
 
-  Saturday, 2018-10-06:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | My Aim Zogs ![][flag_DK] | 0 | **6** | ![][flag_DK] **Space Potato** |
-  | UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
-  | UB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **Spork Lover** |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
 
-  Thursday, 2018-10-04
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
+Saturday, 2018-10-06:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | My Aim Zogs ![][flag_DK] | 0 | **6** | ![][flag_DK] **Space Potato** |
+| UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
+| UB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **Spork Lover** |
+
+Sunday, 2018-10-07:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Cerkie** ![][flag_DK] | **6** | 3 | ![][flag_DK] Telomere |
+| LB | Boje ![][flag_DK] | 5 | **6** | ![][flag_DK] **Pallerik** |
+| LB | **eLLezH** ![][flag_DK] | **6** | 0 | ![][flag_DK] RipG |
+| LB | **Katachi** ![][flag_DK] | **6** | 2 | ![][flag_DK] Tona |
 
 ### Round of 16
 
-  Sunday, 2018-09-30:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | Boje ![][flag_DK] | 1 | **5** | ![][flag_DK] **Telomere** |
-  | UB | eLLezH ![][flag_DK] | 1 | **5** | ![][flag_DK] **Spork Lover** |
-  | UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
-  | UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
+Saturday, 2018-09-29:
 
-  Saturday, 2018-09-29:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
-  | UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
-  | UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
-  | UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] Cerkie |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
+| UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
+| UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
+| UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] Cerkie |
+
+Sunday, 2018-09-30:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Boje ![][flag_DK] | 1 | **5** | ![][flag_DK] **Telomere** |
+| UB | eLLezH ![][flag_DK] | 1 | **5** | ![][flag_DK] **Spork Lover** |
+| UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
+| UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
 
 ### Group Stage
 
-  Sunday, 2018-09-23:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | B | **Syncopate** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-  | E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kinety |
-  | D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion |
-  | B | **Telomere** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-  | C | StevenDANK ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-  | B | **Telomere** ![][flag_DK] | **4** | 1 | ![][flag_DK] Syncopate |
-  | C | sanoJ ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-  | C | **Pallerik** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
-  | C | **Pallerik** ![][flag_DK] | **4** | 1 | ![][flag_DK] sanoJ |
-  | C | **StevenDANK** ![][flag_DK] | **4** | 0 | ![][flag_DK] sanoJ |
-  | D | **Contaminate** ![][flag_DK] | **4** | 2 | ![][flag_DK] Lucasion |
-  | D | **Lucasion** ![][flag_DK] | **4** | 0 | ![][flag_DK] FeelDaTonneh |
+Saturday, 2018-09-15:
 
-  Saturday, 2018-09-22:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-  | C | Pallerik ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-  | E | eLLezH ![][flag_DK] | 1 | **4** | ![][flag_DK] **Vandabe** |
-  | D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Contaminate |
-  | D | FeelDaTonneh ![][flag_DK] | 2 | **4** | ![][flag_DK] **Cerkie-** |
-  | E | Kinety ![][flag_DK] | 2 | **4** | ![][flag_DK] **eLLezH** |
-  | D | FeelDaTonneh ![][flag_DK] | 1 | **4** | ![][flag_DK] **Contaminate** |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| A | **Boje** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
+| A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
+| A | **seb2110** ![][flag_DK] | **4** | 2 | ![][flag_DK] ZestorTK |
+| A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
+| A | **Boje** ![][flag_DK] | **4** | 1 | ![][flag_DK] seb2110 |
+| A | Boje ![][flag_DK] | 0 | **4** | ![][flag_DK] **Space Potato** |
+| E | **eLLezH** ![][flag_DK] | **4** | 1 | ![][flag_DK] Lemmen |
+| E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
+| F | \[THEDUCK\] ![][flag_DK] | 1 | **4** | ![][flag_DK] **Katachi** |
+| F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
+| F | Katachi ![][flag_DK] | 0 | **4** | ![][flag_DK] **Spork Lover** |
+| F | **Waven7** ![][flag_DK] | **4** | 1 | ![][flag_DK] \[THEDUCK\] |
+| F | **Katachi** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
+| F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
 
-  Sunday, 2018-09-16:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | G | **RipG** ![][flag_DK] | **4** | 3 | ![][flag_DK] Power Supply |
-  | G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] RipG |
-  | G | **RipG** ![][flag_DK] | **4** | 2 | ![][flag_DK] LeDoodeNiss |
-  | G | LeDoodeNiss ![][flag_DK] | 0 | **4** | ![][flag_DK] **raser1234** |
-  | G | **Power Supply** ![][flag_DK] | **4** | 0 | ![][flag_DK] LeDoodeNiss |
-  | G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] Power Supply |
-  | E | **Kinety** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
-  | H | ravioli boi2004 ![][flag_DK] | 0 | **4** | ![][flag_DK] **Tona** |
-  | H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tona |
-  | H | **Tona** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
-  | H | **Ghost Krillin** ![][flag_DK] | **4** | 0 | ![][flag_DK] Zakura |
-  | H | **ravioli boi2004** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
-  | H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] ravioli boi2004 |
-  | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] Syncopate |
-  | B | waefwerf ![][flag_DK] | 3 | **4** | ![][flag_DK] **Telomere** |
+Sunday, 2018-09-16:
 
-  Saturday, 2018-09-15:
-  | Group | Player 1 |  |  | Player 2 |
-  | :-: | --: | :-: | :-: | :-- |
-  | A | **Boje** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
-  | A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
-  | A | **seb2110** ![][flag_DK] | **4** | 2 | ![][flag_DK] ZestorTK |
-  | A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
-  | A | **Boje** ![][flag_DK] | **4** | 1 | ![][flag_DK] seb2110 |
-  | A | Boje ![][flag_DK] | 0 | **4** | ![][flag_DK] **Space Potato** |
-  | E | **eLLezH** ![][flag_DK] | **4** | 1 | ![][flag_DK] Lemmen |
-  | E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
-  | F | \[THEDUCK\] ![][flag_DK] | 1 | **4** | ![][flag_DK] **Katachi** |
-  | F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
-  | F | Katachi ![][flag_DK] | 0 | **4** | ![][flag_DK] **Spork Lover** |
-  | F | **Waven7** ![][flag_DK] | **4** | 1 | ![][flag_DK] \[THEDUCK\] |
-  | F | **Katachi** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
-  | F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| G | **RipG** ![][flag_DK] | **4** | 3 | ![][flag_DK] Power Supply |
+| G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] RipG |
+| G | **RipG** ![][flag_DK] | **4** | 2 | ![][flag_DK] LeDoodeNiss |
+| G | LeDoodeNiss ![][flag_DK] | 0 | **4** | ![][flag_DK] **raser1234** |
+| G | **Power Supply** ![][flag_DK] | **4** | 0 | ![][flag_DK] LeDoodeNiss |
+| G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] Power Supply |
+| E | **Kinety** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
+| H | ravioli boi2004 ![][flag_DK] | 0 | **4** | ![][flag_DK] **Tona** |
+| H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tona |
+| H | **Tona** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
+| H | **Ghost Krillin** ![][flag_DK] | **4** | 0 | ![][flag_DK] Zakura |
+| H | **ravioli boi2004** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
+| H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] ravioli boi2004 |
+| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] Syncopate |
+| B | waefwerf ![][flag_DK] | 3 | **4** | ![][flag_DK] **Telomere** |
 
-  ---
+Saturday, 2018-09-22:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
+| C | Pallerik ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
+| E | eLLezH ![][flag_DK] | 1 | **4** | ![][flag_DK] **Vandabe** |
+| D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Contaminate |
+| D | FeelDaTonneh ![][flag_DK] | 2 | **4** | ![][flag_DK] **Cerkie-** |
+| E | Kinety ![][flag_DK] | 2 | **4** | ![][flag_DK] **eLLezH** |
+| D | FeelDaTonneh ![][flag_DK] | 1 | **4** | ![][flag_DK] **Contaminate** |
+
+Sunday, 2018-09-23:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| B | **Syncopate** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
+| E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kinety |
+| D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion |
+| B | **Telomere** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
+| C | StevenDANK ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
+| B | **Telomere** ![][flag_DK] | **4** | 1 | ![][flag_DK] Syncopate |
+| C | sanoJ ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
+| C | **Pallerik** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
+| C | **Pallerik** ![][flag_DK] | **4** | 1 | ![][flag_DK] sanoJ |
+| C | **StevenDANK** ![][flag_DK] | **4** | 0 | ![][flag_DK] sanoJ |
+| D | **Contaminate** ![][flag_DK] | **4** | 2 | ![][flag_DK] Lucasion |
+| D | **Lucasion** ![][flag_DK] | **4** | 0 | ![][flag_DK] FeelDaTonneh |
 
 ## Ruleset
 
