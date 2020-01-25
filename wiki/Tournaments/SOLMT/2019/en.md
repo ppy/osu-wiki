@@ -19,7 +19,7 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1
 | Group Stage Second Week | 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
-| Quarterfinals | 2020-01-4/2020-01-05 |
+| Quarterfinals | 2020-01-04/2020-01-05 |
 | Semifinals | 2020-01-11/2020-01-12 |
 | Finals | 2020-01-18/2020-01-19 |
 | Grand Finals | 2020-01-25/2020-01-26 |
@@ -92,7 +92,43 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 ---
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_PH] [**bojii**]() |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [**andreymc**]() |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+
+---
+
 ## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [ExileLord - Speed Test (Halo-) \[Incremental 0.9x -Edit ver.-\]](https://osu.ppy.sh/beatmapsets/1081215#mania/2289736)
+  - [Rengoku Teien - Suikyou HEAVEN! (Penguinosity) \[SPECIAL [1.3]\]](https://osu.ppy.sh/beatmapsets/1048468#mania/2191503)
+  - [ROKINA - Icicle Stinger (Kamuy) \[floe (1.1)\]](https://osu.ppy.sh/beatmapsets/1095316#mania/2289133)
+  - [Twenty One Pilots - Jumpsuit (Penguinosity) \[Pressures [1.25]\]](https://osu.ppy.sh/beatmapsets/1048465#mania/2286912)
+  - [Falcom Sound Team jdk - SUNSHINE COASTLINE (RyuOn) \[ADVENTURE X1.1\]](https://osu.ppy.sh/beatmapsets/1089946#mania/2278708)
+  - [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Pope Gadget) \[Crosses\]](https://osu.ppy.sh/beatmapsets/878577#mania/1837469)
+  - [Ata - Doom Butterfly (Evening) \[entranced\]](https://osu.ppy.sh/beatmapsets/1086078#mania/2271111)
+  - [UNDEAD CORPORATION -Embraced by the Flame (English ver.) (\[Crz\]Crysarlene) \[Raizmed's LNverse\]](https://osu.ppy.sh/beatmapsets/1095761#mania/2290136)
+  - [Hatsuki Yura - Clockwork Rose (Gekido-) \[LN Master 1.1x\]](https://osu.ppy.sh/beatmapsets/740979#mania/1563105)
+  - [Shiraishi - Murderous True Millenium Queen (Gekido-) \[retsaM NL eurT\]](https://osu.ppy.sh/beatmapsets/768950#mania/1617005)
+  - [xi - Bad Elixir (\[Crz\]Crysarlene) \[Merciless Judgement (nerfed)\]](https://osu.ppy.sh/beatmapsets/953656#mania/1991186)
+  - [SynthWulf - Point Zero One (Kamuy) \[One\]](https://osu.ppy.sh/beatmapsets/1091186#mania/2281234)
+  - [Beardyman - FNDEGE.GURP (Agka) \[bt5kSV\]](https://osu.ppy.sh/beatmapsets/901011#mania/1881532)
+  - [Nitro Fun - New Game (Dreamwalker) \[Continue?\]](https://osu.ppy.sh/beatmapsets/995237#mania/2081926)
+  - [Kaitendaentai - Soutou no Rei (\[Crz\]Crysarlene) \[Numb [1.15x Rate]\]](https://osu.ppy.sh/beatmapsets/1094841#mania/2289057)
+  - [Camellia - Night Raid with a Dragon (RuleBlazing) \[Dragon's Glory [tournament]\]](https://osu.ppy.sh/beatmapsets/1021924#mania/2261755)
+  - [Camellia - Illegal Trap (-Rem-) \[Challenge (168bpm)\]](https://osu.ppy.sh/beatmapsets/1085735#mania/2290594)
+  - [FrAAAAms - beepbit * futures (Daikyi) \[Prophecy\]](https://osu.ppy.sh/beatmapsets/853410#mania/1783622)
+- Tiebreaker
+  - **[Camellia - Under Construxion (\[Crz\]Crysarlene) \[Dispersia\]](https://osu.ppy.sh/beatmapsets/1092671#mania/2290399)**
 
 ### Finals
 
@@ -119,7 +155,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
 ### Semifinals
 
 - FreeMod
-  - [Sky_delta - Crystal Clear and Nothing (ft. Kanata.N) (Ruleblazing) \[Another Day(edit)\]](https://osu.ppy.sh/beatmapsets/1086842#mania/2273365)
+  - [Sky\_delta - Crystal Clear and Nothing (ft. Kanata.N) (Ruleblazing) \[Another Day(edit)\]](https://osu.ppy.sh/beatmapsets/1086842#mania/2273365)
   - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/1397584)
   - [a_hisa - Cheshire's dance (Elekton) \[mischievous\]](https://osu.ppy.sh/beatmapsets/703512#mania/1488388)
   - [9mm Parabellum Bullet - Punishment (Shoegazer) \[Termination\]](https://osu.ppy.sh/beatmapsets/777334#mania/1633075)
@@ -176,7 +212,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
   - [BilliumMoto - life flashes before weeb eyes (Unpreditable) \[-mystic's insane\]](https://osu.ppy.sh/beatmapsets/985172#mania/2165198)
   - [Stellabee ft. THINK-chan - Flower in the Dawn (-Lethal-) \[flourish\]](https://osu.ppy.sh/beatmapsets/1030431#mania/2154859)
 - Tiebreaker
-  - **[Camellia - FM Synthesis Experiment \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
+  - **[Camellia - FM Synthesis Experiment (Curiossity) \[Transmission Log 0018-5\]](https://osu.ppy.sh/beatmapsets/914341#mania/1909748)**
 
 ### Round of 32
 
@@ -190,8 +226,8 @@ The Speed of Light Mania Tournament is run by various community members by distr
   - [M2U - Gypsy Tronic (Raveille) \[By The Hand\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
   - [Frums - theyaremanycolors (NightNarumi) \[White (SV)\]](https://osu.ppy.sh/beatmapsets/1013736#mania/2158256)
   - [Morimori Atsushi - Milk (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
-  - [Alon Mor & Sex Whales - JasmineAlon Mor & Sex Whales - Jasmine \[ Vento \] \[Moderate\]](https://osu.ppy.sh/beatmapsets/738864#mania/1559307)
-  - [terminal11 - Mariachi Timebomb (Xay) \[Bolero \]](https://osu.ppy.sh/beatmapsets/972176#mania/2035555)
+  - [Alon Mor & Sex Whales - JasmineAlon Mor & Sex Whales - Jasmine (\[ Vento \]) \[Moderate\]](https://osu.ppy.sh/beatmapsets/738864#mania/1559307)
+  - [terminal11 - Mariachi Timebomb (Xay) \[Bolero\]](https://osu.ppy.sh/beatmapsets/972176#mania/2035555)
   - [M-O-T-U - Heart Eyes (Ticle) \[Lastopia's H-A-R-D\]](https://osu.ppy.sh/beatmapsets/928967#mania/1941917)
 - Tiebreaker
   - **[lapix - Paradoxy (Kamikaze) \[Protastic's Incomprehensible (MP4K 155 BPM Edit)\]](https://osu.ppy.sh/beatmapsets/996032#mania/2083442)**
@@ -223,6 +259,15 @@ The Speed of Light Mania Tournament is run by various community members by distr
 ## Match results
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+
+### Grand Finals
+
+Saturday, 25 January 2020:
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **andreymc** ![][flag_BR] | **8** | 0 | ![][flag_MY] cheewee10 | *win by default* |
+| **bojii** ![][flag_PH] | **8** | 0 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/57957542) |
 
 ### Finals
 
