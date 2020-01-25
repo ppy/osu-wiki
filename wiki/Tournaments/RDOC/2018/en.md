@@ -67,7 +67,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 ## Groups
 
-| Group | Top seed | High sed | Low seed | Bottom seed |
+| Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_DK] [space potato](https://osu.ppy.sh/users/6545407) | ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417) | ![][flag_DK] [Boje](https://osu.ppy.sh/users/5120773) | ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224) |
 | **B** | ![][flag_DK] [Telomere](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154) | ![][flag_DK] [Syncopate](https://osu.ppy.sh/users/7232730) |
@@ -454,7 +454,7 @@ Sunday, 2018-09-23:
 ### Stage regulations
 
 1. There are six stages to this tournament: Group Stage, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Groups are seeded into four tiers; high, mid, low and bottom. This seeding is determined from the overall ranking of players at the start of the tournament. This means that only the 32 highest ranked players will be able to play in the tournament. All players that do not fit these criteria are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
+2. Groups are seeded into four tiers; top, high, low and bottom. This seeding is determined from the overall ranking of players at the start of the tournament. This means that only the 32 highest ranked players will be able to play in the tournament. All players that do not fit these criteria are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
 3. If a player no-shows their first match in Groupstage they will be replaced by the highest ranked player in the fallback category. If a player no-shows in later matches they will forfeit the match.
 4. The winning condition for each stage are listed below:
    - Group Stage: Best of 7 (first to 4 points)
