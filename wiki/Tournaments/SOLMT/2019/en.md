@@ -98,8 +98,8 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_PH] [**bojii**]() |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [**andreymc**]() |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
 
 ---
