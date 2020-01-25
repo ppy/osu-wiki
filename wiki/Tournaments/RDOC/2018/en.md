@@ -445,53 +445,52 @@ Sunday, 2018-09-23:
 4. To participate you **must** join the Discord for the duration of the tournament.
 5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage except Groupstage will last one weekend. Groupstage will be played over two weekends instead due to the relatively small staff-size.
 6. If there are no referees available, the match can be postponed.
-7. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
-11. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
+8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
+9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
+10. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 
 ### Stage regulations
 
 1. There are six stages to this tournament: Group Stage, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
 2. Groups are seeded into four tiers; top, high, low and bottom. This seeding is determined from the overall ranking of players at the start of the tournament. This means that only the 32 highest ranked players will be able to play in the tournament. All players that do not fit these criteria are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
-3. If a player no-shows their first match in Groupstage they will be replaced by the highest ranked player in the fallback category. If a player no-shows in later matches they will forfeit the match.
-4. The winning condition for each stage are listed below:
+3. If a player no-shows their first match in Group Stage they will be replaced by the highest ranked player in the fallback category. If a player no-shows in later matches they will forfeit the match.
+4. The win-condition for each stage is listed below:
    - Group Stage: Best of 7 (first to 4 points)
    - Round of 16: Best of 9 (first to 5 points)
    - Quarterfinals: Best of 11 (first to 6 points)
    - Semifinals: Best of 11 (first to 6 points)
    - Finals and Grand Finals: Best of 13 (first to 7 points)
 5. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-6. In case of a tie in group stage, advancement will be based off a player's map wins and map losses. If the score is equal, the score of the match between the two players will be taken into account. Eg. Player A and player B both have 6 wins and 6 losses, but player A beat player B 3-2 --> Player A advances.
+6. In case of a tie in Group Stage, advancement will be based off a player's map wins and map losses. If the score is equal, the score of the match between the two players will be taken into account. Eg. Player A and player B both have 6 wins and 6 losses, but player A beat player B 3-2 --> Player A advances.
 7. In the Grand Finals the player from the Loser's Bracket must first beat the player from the Winner's Bracket to force a bracket-reset, before playing for the final win.
 
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Groupstage)
+2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Groupstage, as there are no warmups)
 3. After warmups each player will `!roll`:
    - The player who rolled the higher number bans first. The players will then alternate bans until all bans have been used. (High -> Low -> High -> Low)
    - The first person to pick will be the player who rolled the lower number. The players will then alternate picks. (Low -> High -> Low -> High -> ...)
 4. A player cannot ban a map from the same category twice.
 5. A player cannot pick the same mod twice in a row, with the exception of Nomod.
 6. In case of a tie, the tiebreaker will be played.
-7. When Freemod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR
-8. If a player disconnects or experiences trouble within the first 15 seconds of a map, the referee must abort the match if notified of an issue. If anyone is found to abuse this rule to gain an advantage they will be banned from all future instances of the tournament.
-9. Results will be displayed on the Challonge brackets, and will be announced by the referee.
+7. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR
+8. If a player disconnects or experiences trouble within the first 15 seconds of a map, the referee must abort the match if notified of the issue. If anyone is found to abuse this rule, they will be banned from all future instances of the tournament.
+9. Results will be displayed on the Challonge bracket, and will be announced by the referee in the match lobby.
 
 ### Mappool regulations
 
-1. There are different kind of mappools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
+1. There are different mappools for each stage of the tournament, becoming progressively harder.
+2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
 3. The mappool will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
 
 ### Scheduling regulations
 
-1. Every stage is held during the weekend to let players practice.
+1. Every stage is scheduled for the weekend.
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before Thursday of the weekend the match is to be played.
+4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
