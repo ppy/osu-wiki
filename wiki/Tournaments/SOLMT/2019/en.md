@@ -7,7 +7,7 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1) double elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It is the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 1) double elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament schedule
 
@@ -28,20 +28,19 @@ The **Speed of Light Mania Tournament** (***SOLMT***) is a head-to-head (1 vs. 1
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite, Tournament Badge, 3 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Razer Huntsman Elite, unique profile badge, 3 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter tag |
 
- ![SOLMT Badge](img/badge.png "SoL Winner Badge")
+ ![SOLMT winner badge](img/badge.png "SoL Winner Badge")
 
 ## Organisation
 
-The Speed of Light Mania Tournament is run by various community members by distributing the multitude of tasks into various fields of responsibility.
-
+The Speed of Light Mania Tournament is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099) |
-| Map Selector | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
+| Map selector | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [CarterTheQ](https://osu.ppy.sh/users/5331023), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
@@ -53,8 +52,8 @@ The Speed of Light Mania Tournament is run by various community members by distr
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387)
 - [Livestream](https://www.twitch.tv/osuworldtournament)
 - [SOLMT Discord server](https://discord.gg/Zmha38K)
-- [**Statistics Sheet**](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)
-- [Challonge](https://challonge.com/solmt)
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)**
+- [Challonge brackets](https://challonge.com/solmt)
 
 ---
 
@@ -96,7 +95,7 @@ The Speed of Light Mania Tournament is run by various community members by distr
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | User |
+| Placing | Player |
 | :-: | --- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) |
@@ -205,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yuaru - Asu no Yozora Shoukaihan (RyuON) \[Night Sky\]](https://osu.ppy.sh/beatmapsets/1010176#mania/2114642)
   - [fripSide - sisters's noise (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
   - [Frederic - oddloop (inflect) \[oldlnep\]](https://osu.ppy.sh/beatmapsets/649672#mania/1376904)
-  - [Chroma - \[@__@\] (BadPlayer100) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/1059897#mania/2219389)
+  - [Chroma - \[@\_\_@\] (BadPlayer100) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/1059897#mania/2219389)
   - [Seven Lions & Echos - Cold Skin (MiTiS Remix) (HekoKun) \[Frozen Heart\]](https://osu.ppy.sh/beatmapsets/927576#mania/1937375)
   - [Culprate - Yin (Toaph Daddy) \[Hollow\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2209523)
   - [FELT - New World (Penguinosity) \[Pink Another\]](https://osu.ppy.sh/beatmapsets/772658#mania/1624145)
