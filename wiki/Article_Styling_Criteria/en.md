@@ -65,52 +65,47 @@ There are some cases where the content is allowed to differ:
 
 ### Metadata
 
-Metadata (sometimes called "front matter") must be placed at the very top of the file. An empty line must follow it.
+Metadata (sometimes called "front matter") must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. Metadata must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it.
+
+#### Articles that need help
+
+The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose.
+
+For example:
+
+```yaml
+needs_cleanup: true
+```
 
 #### Outdated articles
 
 *Note to translators: The `outdated` mark must be removed after updating the translation of an article.*
 
-Translated articles that are outdated must use the `outdated` mark when the English variant is updated. The markup is as follows:
+Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
 
-```markdown
----
+```yaml
 outdated: true
----
-
-# Beatmaps
 ```
 
 #### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable. The markup is as follows:
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable.
 
-```markdown
----
+For example, an article called "Skinning tutorial" might include these tags:
+
+```yaml
 tags:
-  - tags go here
-  - keep them in a list like this
-  - skin
-  - skinning
-  - how to skin
----
-
-# Skinning
+  - guide
+  - how to
+  - skins
 ```
 
-#### Outdated and tagged articles
+#### Translations without reviews
 
-In the case that an article is outdated and has tags, the metadata may look like this:
+Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. For example:
 
-```markdown
----
-outdated: true
-tags:
-  - ASC
-  - wiki standards
----
-
-# Article Styling Criteria
+```yaml
+no_native_review: true
 ```
 
 ### Folder names
