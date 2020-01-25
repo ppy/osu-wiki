@@ -60,7 +60,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ### Full colour cookie usage restrictions
 
-Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile. It can adapt to many designs with ease. Please use the logo as it is, without any modification. All the restrictions applied on the single colour cookie applies to the full colour cookie too.
+Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile; it can adapt to many designs with ease. Please use the logo as it is, without any modification. All the restrictions applied on the single colour cookie applies to the full colour cookie too.
 
 ![](img/restrictions-bad-full.png)
 
