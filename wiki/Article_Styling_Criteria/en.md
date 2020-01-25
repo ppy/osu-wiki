@@ -91,7 +91,7 @@ outdated: true
 
 Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable.
 
-For example, an article called "Skinning Tutorial" might include these tags:
+For example, an article called "Skinning tutorial" might include these tags:
 
 ```yaml
 tags:
