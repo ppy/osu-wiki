@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 <!-- wiki -->
 [Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "Plus d’informations peut être trouvé dans Play Style sous osu!catch"
 [Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "Plus d’informations peut être trouvé dans Score sous osu!catch valeur de score"
@@ -273,4 +277,3 @@ _le logo osu!catch (Catch the Beat) dans les modes spéciaux dépréciés_
   Ces directives sont en cours d’écriture, mais plus de maps osu!catch sont placées en ranked et un feedback est donné par les joueurs, les directives évolueront pour être aussi complet et exhaustif que les directives osu! standard.
 - Le premier beatmapset ranked qui contient au moins une beatmap osu!catch spécifique est [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), avec la beatmap osu!catch invitée mappée par Uran][first catch link]
 - Le premier beatmapset ranked composé uniquement de maps osu!catch est [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485 "Rita - Hajimari no Toki (Deif)")
-

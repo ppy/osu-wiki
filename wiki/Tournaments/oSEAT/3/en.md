@@ -6,7 +6,7 @@ tags:
 
 # osu! South East Asia Tournament 3
 
-![oSEAT3 Logo](img/logo.jpg)
+![oSEAT3 logo](img/logo.jpg)
 
 The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). This is the third installment of the osu! South East Asia Tournament.
 
@@ -20,7 +20,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | Group Stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
-| Quarterfinals | 2020-01-18/2020-01-19 |
+| Quarterfinals | 2020-01-15/2020-01-20 |
 | Semifinals | 2020-01-25/2020-02-02 |
 | Finals | 2020-02-08/2020-02-09 |
 | Grand Finals | 2020-02-15/2020-02-16 |
@@ -95,6 +95,35 @@ The osu! South East Asia 3 is run by various community members.
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view)**
+
+- NoMod
+  - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
+  - [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Left) \[Testo's Expert\]](https://osu.ppy.sh/beatmapsets/859575#osu/1821815)
+  - [Yunomi - Harajuku Sunny Day (Nathan) \[Sunburn\]](https://osu.ppy.sh/beatmapsets/532325#osu/1127971)
+  - [Igorrr - Cicadidae (fergas) \[Chirr 2\]](https://osu.ppy.sh/beatmapsets/301320#osu/862246)
+  - [Roselia - Re:Birth Day (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/986556#osu/2063886)
+- Hidden
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (tokiko) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/901641#osu/1882605)
+  - [a\_hisa - Smoked Turkey Rag (Flask) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/1065988#osu/2232119)
+  - [guna - Yukidsuki-yashou (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/1059195#osu/2218160)
+- HardRock
+  - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#osu/1520788)
+  - [Azu - Haryu (milr\_) \[Expert\]](https://osu.ppy.sh/beatmapsets/576232#osu/2243948)
+  - [Fujita Maiko - Kakehiki (Lafayla) \[Desire\]](https://osu.ppy.sh/beatmapsets/1009710#osu/2113705)
+- DoubleTime
+  - [Wataru Sena feat. sana - Hitori Tabi (thanh\_nemo) \[nai nai nai nai\]](https://osu.ppy.sh/beatmapsets/861626#osu/1802518)
+  - [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225693)
+  - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Mikalus' Insane\]](https://osu.ppy.sh/beatmapsets/948049#osu/1992840)
+  - [Charli XCX - Vroom Vroom (schoolboy) \[Dailycare's Insane\]](https://osu.ppy.sh/beatmapsets/868943#osu/1981580)
+- FreeMod
+  - [JUNNA - Here (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/737103#osu/1555562)
+  - [NekomeP - WORLDS CONNECT feat.IA (kwk) \[CONNECTING WORLD\]](https://osu.ppy.sh/beatmapsets/802919#osu/1685427)
+  - [SAMString - Forget The Promise (DeviousPanda) \[Elysium\]](https://osu.ppy.sh/beatmapsets/1002019#osu/2097442)
+  - [44teru-k - Ume (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/44071#osu/138138)
 
 ### Quarterfinals
 
@@ -242,6 +271,48 @@ The osu! South East Asia 3 is run by various community members.
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
 
 ## Match results
+
+### Quarterfinals
+
+Wednesday, 15 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rexeez** ![][flag_ID] | **6** | 0 | ![][flag_ID] dika312 | [#1](https://osu.ppy.sh/community/matches/57737664) |
+
+Friday, 17 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| k\_1tty ![][flag_SG] | 3 | **6** | ![][flag_MY] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/57777852) |
+| Deppyforce ![][flag_TH] | 0 | **6** | ![][flag_ID] **Gatyaa420** | [#1](https://osu.ppy.sh/community/matches/57779071) |
+| **Fuma** ![][flag_ID] | **6** | 2 | ![][flag_MY] Chiyuu | [#1](https://osu.ppy.sh/community/matches/57780516) |
+| woahsia ![][flag_SG] | 3 | **6** | ![][flag_ID] **Ascaveth** | [#1](https://osu.ppy.sh/community/matches/57780499) |
+| Tzero ![][flag_MY] | 2 | **6** | ![][flag_ID] **LoidKun** | [#1](https://osu.ppy.sh/community/matches/57780364) |
+
+Saturday, 18 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Chorus ![][flag_TH] | 4 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/community/matches/57801776) |
+| ShaneLiang ![][flag_MY] | -1 | **0** | ![][flag_VN] **realshin** | *win by default* |
+| **Rtyzen** ![][flag_SG] | **6** | 2 | ![][flag_SG] Raindrop | [#1](https://osu.ppy.sh/community/matches/57806557) |
+| Lunarsol ![][flag_SG] | 0 | **6** | ![][flag_MY] **not\_aweeb** | [#1](https://osu.ppy.sh/community/matches/57807058) |
+
+Sunday, 19 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_PH] konawiki | [#1](https://osu.ppy.sh/community/matches/57819862) |
+| Ascaveth ![][flag_ID] | 4 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/57833283) |
+| not\_aweeb ![][flag_MY] | 3 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/community/matches/57834161) |
+| Gatyaa420 ![][flag_ID] | 2 | **6** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/57836287) |
+
+Monday, 20 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_VN] realshin | [#1](https://osu.ppy.sh/community/matches/57858251) |
 
 ### Round of 16
 

@@ -1,12 +1,12 @@
 ---
 tags:
-  - CGTS 2019
+  - CGTS
   - CGTS2019
 ---
 
 # Continental Global Taiko Showdown 2019
 
-![CGTS 2019 Logo](img/logo.jpg)
+![CGTS 2019 logo](img/logo.jpg)
 
 The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
@@ -16,8 +16,8 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-09-14/2019-10-20 |
-| Live Drawings | 2019-10-27 (13:00 UTC) |
+| Registration phase | 2019-09-14/2019-10-20 |
+| Live drawings | 2019-10-27 (13:00 UTC) |
 | Qualifiers | 2019-11-02/2019-11-03 |
 | Round of 32 | 2019-11-09/2019-11-10 |
 | Round of 16 | 2019-11-15/2019-11-17 |
@@ -32,8 +32,8 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 | --: | :-- |
 | Qualifiers | 2020-01-04/2020-01-05 |
 | Semifinals | 2020-01-11/2020-01-12 |
-| Finals | 2020-01-18/2020-01-19 |
-| Grand Finals | 2020-01-25/2020-01-26 |
+| Finals | 2020-01-19 |
+| Grand Finals | 2020-02-02 |
 
 ## Prizes
 
@@ -41,17 +41,17 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
 
 ### Regional
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ## Organisation
 
@@ -143,29 +143,50 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
-## Match schedule: Finals (Global phase)
+## Match schedule: Grand Finals (Global phase)
 
-Saturday, 18 January 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| F-W1 | Asia | Europe | **12:00** |
-
-Sunday, 19 January 2020:
+Sunday, 2 February 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| F-L1 | Oceania/South East Asia | North America | **03:00** |
-| F-L2a¹ | Asia | Oceania/South East Asia | **13:00** |
-| F-L2b¹ | Asia | North America | **05:00** |
-| F-L2c¹ | Europe | Oceania/South East Asia | **13:00** |
-| F-L2d¹ | Europe | North America | **18:00** |
+| GF-W1 | Asia | Europe | **13:00** |
+| GF-L1¹ | Europe | Asia |  |
 
-¹ Encounter dependent on loser of Match **F-W1** and winner of Match **F-L1**
+¹ The match will take place right after the previous one if Player 2 wins.
 
 ## Mappools
 
 ### Global phase
+
+#### Grand Finals
+
+**[Download the map pack here! (109 MB)](https://mega.nz/#!F99XEayZ!-Y71JZglSVBQelrznYK1g60Y6GGVZgXM-8ScxeKz5ks)**
+
+- NoMod
+  - [xi - Blue Zenith (Faputa) \[Amplitude\]](https://osu.ppy.sh/beatmapsets/1008969#taiko/2112246)
+  - [Kobaryo - New Game Plus (Love Plus rmx) (KitajimaYN) \[Fatal Mode\]](https://osu.ppy.sh/beatmapsets/736251#taiko/1553841)
+  - [Laur - Unknown Civilization (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/926953#taiko/1936053)
+  - [KASAI HARCORES - Drop The Fire (Nofool) \[Insane Oni (CGTS edit)\]](https://osu.ppy.sh/beatmapsets/1038174#taiko/2290974)
+  - [kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096346#taiko/2291104)
+  - [U-ske feat.nanahira - Galaxy Traveler \[Mrriichi's Oni\]](https://osu.ppy.sh/beatmapsets/354619#taiko/783608)
+- Hidden
+  - [Camellia as "fluX Xroise" - Xronier (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1012049#taiko/2118191)
+  - [VINRG - Do It Now (\_Rise) \[90%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2290588)
+  - [U-F SEQUENCER - VENOM type: hallucinogenic (Zetera) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/1055342#taiko/2205107)
+- HardRock
+  - [Sakamoto Eizo x Yusuke Takahama - UNDEAD HEART(Warriors of Anger) (Lugei) \[UNDEAD ONI\]](https://osu.ppy.sh/beatmapsets/599063#taiko/1266191)
+  - [MisoilePunch\* \~Takenoko Zoe\~ - Staring at star (KitajimaYN) \[STARING ONI\]](https://osu.ppy.sh/beatmapsets/678356#taiko/1434363)
+  - [Linda AI-CUE - Joubutsu 2000 (-Kazu-) \[Peaceful Rest\]](https://osu.ppy.sh/beatmapsets/797892#taiko/1675579)
+- DoubleTime
+  - [Ni-Sokkususu - Shukusai no Elementalia (Rhytoly) \[Roger's Kneesocks\]](https://osu.ppy.sh/beatmapsets/927110#taiko/1937119)
+  - [Konuko - Toumei Elegy (incandescence) \[Transparency\]](https://osu.ppy.sh/beatmapsets/563743#taiko/1684637)
+  - [Glacier - Cyan (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/935512#taiko/1954533)
+- FreeMod
+  - [Umeboshi Chazuke - Dutch Courage! (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/845412#taiko/1768324)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+  - [Camellia - put' l'da (\_DUSK\_) \[esplanade\]](https://osu.ppy.sh/beatmapsets/1013694#taiko/2121689)
+- Tiebreaker
+  - **[Camellia - NIGHTMARE CITY (Alchyr) \[MELTDOWN\]](https://osu.ppy.sh/beatmapsets/1081656#taiko/2262656)**
 
 #### Finals
 
@@ -427,18 +448,28 @@ Sunday, 19 January 2020:
 
 ### Global phase
 
+#### Finals
+
+Sunday, 19 January 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Oceania/South East Asia | 2 | **7** | **North America** | [#1](https://osu.ppy.sh/community/matches/57827483) |
+| **Asia** | **7** | 2 | Europe | [#1](https://osu.ppy.sh/community/matches/57834207) |
+| **Europe** | **7** | 2 | North America | [#1](https://osu.ppy.sh/community/matches/57841367) |
+
 #### Semifinals
 
 Saturday, 11 January 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/57646946) |
 | **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/community/matches/57648516) |
 
 Sunday, 12 January 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Asia** | **7** | 1 | Oceania/South East Asia | [#1](https://osu.ppy.sh/community/matches/57672041) |
 | **North America** | **7** | 2 | South America | [#1](https://osu.ppy.sh/community/matches/57682937) |
