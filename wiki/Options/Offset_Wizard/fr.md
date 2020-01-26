@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Assistant de décalage
 
 Si, dans toutes les maps que vous avez joué, vous entendez que le son n'est pas en accord avec la musique, vous voudrez surement ajuster votre décalage universel.
