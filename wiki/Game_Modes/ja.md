@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # ゲームモード
 
 ## ![osu! icon](/wiki/shared/mode/osu.png) osu!standard
