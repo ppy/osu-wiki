@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Débutant
 
 Bienvenue dans le tutoriel osu! pour les débutants. Le monde d’osu! peut être parfois être un endroit compétitif. Que vous cherchiez un moyen de faire décoller votre carrière, vouloir faire de la compétition avec osu!, ou simplement espérer être meilleur pour mieux vous amuser sur le jeu, cela dépend de vous ! Ce guide va vous expliquer tout ce dont vous avez besoin et monter en flèche autour du monde d'osu!.
