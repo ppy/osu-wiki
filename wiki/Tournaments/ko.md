@@ -304,7 +304,6 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137)(osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114)(osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796)(osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489)(osu!mania 7K) |
 
-<!-- When another Highlander Con tournament happens, organize this into a Highlander Con series (similar to Zotcade) -->
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
@@ -317,11 +316,11 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) (osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) (osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) (osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) (osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) (osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) (osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) (osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) (osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) (osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) (osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) (osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) (osu!mania) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Name | Date | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- |
-| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [iDOL@NSTER](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 ## 같이보기
 
