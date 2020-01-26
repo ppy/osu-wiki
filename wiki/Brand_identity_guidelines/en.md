@@ -1,6 +1,6 @@
 # Brand identity guidelines
 
-The brand identity guidelines are a set of standards for branding osu!-related projects. All use does not require approval.
+The brand identity guidelines is a set of standards for branding osu!-related projects. All use does not require approval.
 
 [Download the design kit here.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) The linked design kit contains some outdated assets. Also note that the included PDF is outdated and this page should be used instead.
 
@@ -53,7 +53,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 - **Do not** modify any of the cookie's element
 - **Do not** rearrange any of the cookie's element.
 - The cookie must be tact sharp at all times. If it is part of an artwork, please place another sharp logo somewhere in the artwork.
-- **Do not** apply any fancy (or really tacky) effects on the cookie.
+- **Do not** apply any fancy or tacky effects on the cookie.
 - **Do not** place any extra elements inside the cookie.
 - **Do not** apply outlines to the cookie. Use a different cookie colour.
 - **Do not** even think about changing the element. Come on. That is not even our logo. That is just some text in a circle.
