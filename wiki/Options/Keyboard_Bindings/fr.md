@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Raccourcis clavier 
 
 Pour accéder à cette fenêtre de dialogue, ouvrez les [Options](/wiki/Options/), tapez dans  `change` puis cliquez sur `Change keyboard bindings`.

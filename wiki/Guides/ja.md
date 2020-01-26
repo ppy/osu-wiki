@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # ガイド
 
 以下は、osu!communityのメンバーによって作成されたガイドのリストです。ほとんどはosu!forumから発信されており、osu!wikiに移植されました。
