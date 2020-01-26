@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pengundian Turnamen
 
 Layar pengundian turnamen digunakan untuk menyiarkan berbagai tim ke dalam kelompok-kelompok yang akan bersaing di babak grup untuk sebuah turnamen. Untuk saat ini hanya tersedia di klien [osu!lazer](https://github.com/ppy/osu/releases).
