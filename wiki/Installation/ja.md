@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # インストール
 
 *関連情報: [インストール/macOS](/wiki/Installation/macOS)*
