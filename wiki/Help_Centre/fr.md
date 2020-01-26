@@ -170,7 +170,7 @@ Si vous jouez depuis une place publique, gardez un œil sur la sécurité de vot
 
 **Vous pouvez voir toutes les maps que vous avez jouées sur le site.**
 
-**Si vous avez un supporter tag actif**, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
+**Si vous avez un tag osu!supporter actif**, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
 
 Sur le nouveau site web, un filtre est disponible en cliquant sur "plus de critères de recherche" sur la [page de la liste des beatmap](https://osu.ppy.sh/beatmapsets) puis "Jouées" dans la section "JOUÉE". Alternativement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/beatmapsets?played=played) pour accéder à la page filtrée directement.
 
@@ -662,7 +662,7 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 
 Vous ne recevrez ni messages publics, ni messages privés venant des utilisateurs de cette liste.
 
-Si vous voulez ignorer les pings, les messages privés, ou les messages publics, vous devez simplement ajouter après le pseudo de l'utilisateur `@h`, `@p`, `@c`. `The_Gatekeeper@c` va ignorer les messages de l'utilisateur dans les canaux publics. Il est possible d'en combiner plusieurs : `The_Gatekeeper@ph` va ignorer les pings et les messages privés, mais laissera les messages publics visibles.
+Si vous voulez ignorer les pings, les messages privés, ou les messages publics, vous devez simplement ajouter après le pseudo de l'utilisateur `@h`, `@p`, `@c`. `The_Gatekeeper@c` va par exemple ignorer les messages de l'utilisateur dans les canaux publics. Il est possible d'en combiner plusieurs : `The_Gatekeeper@ph` va par exemple ignorer les pings et les messages privés, mais laissera les messages publics visibles.
 
 #### Bloquer tous les utilisateurs qui ne sont pas en amis
 
@@ -683,7 +683,7 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 
 ##### Empêcher les messages privés du forum de vous atteindre
 
-Allez dans les [paramètres de votre compte](https://osu.ppy.sh/home/account/edit) et cliquez sur `Bloque les messages privés des personnes qui ne sont pas dans votre liste d’amis` dans la section confidentialité. Les messages privés venant de vos amis continueront de vous atteindre.
+Allez dans les [paramètres de votre compte](https://osu.ppy.sh/home/account/edit) et cliquez sur `Bloquer les messages privés des personnes qui ne sont pas dans votre liste d’amis` dans la section confidentialité. Les messages privés venant de vos amis ne seront pas bloqués.
 
 ##### Que faire si j'ai toujours des problèmes avec un utilisateur que j'ai bloqué ?
 
