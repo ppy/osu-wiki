@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twitter
 
 ## 私達はツイートもします！

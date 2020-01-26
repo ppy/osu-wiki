@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Internet Relay Chatとは？
 
 IRCとしても知られる[Internet Relay Chat](https://ja.wikipedia.org/wiki/Internet_Relay_Chat)は接続可能な多数のクライアントとチャットするための確立された標準プロトコルです。
