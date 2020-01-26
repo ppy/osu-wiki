@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Développeurs
 
 Les développeurs d'osu! gardent le jeu et le site internet à jour en corrigeant les bugs et en ajoutant de nouvelles fonctionnalités. La plupart sont des employés de ppy Pty Ltd, l'entreprise à qui appartient osu!. Ils forment la plupart de la [osu!team](/wiki/People/The_Team).
