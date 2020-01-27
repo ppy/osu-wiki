@@ -43,7 +43,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 | Map selector | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254) |
 | Referee | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [-Gabby-](https://osu.ppy.sh/users/3727470), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [New Username](https://osu.ppy.sh/users/4745206), ![][flag_DK] [\[ Pennek \]](https://osu.ppy.sh/users/3723742) |
 | Streamer | ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963) |
-| Commentator | ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653)![][flag_SE] [Velo](https://osu.ppy.sh/users/6245307), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963) |
+| Commentator | ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_SE] [Velo](https://osu.ppy.sh/users/6245307), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963) |
 | Designer | ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3417469), ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Donator | ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_DK] [\_Adolfin\_](https://osu.ppy.sh/users/6735707) |
 
@@ -58,7 +58,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
-| High |  ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [LeDoodeNiginz](https://osu.ppy.sh/users/5778925), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880), ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ![][flag_DK] [-Gabby-](https://osu.ppy.sh/users/3727470), ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) |
+| High | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [LeDoodeNiginz](https://osu.ppy.sh/users/5778925), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880), ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ![][flag_DK] [-Gabby-](https://osu.ppy.sh/users/3727470), ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) |
 | Low | ![][flag_DK] [Xanoxe](https://osu.ppy.sh/users/7060592), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963), ![][flag_DK] [ZcortezZ](https://osu.ppy.sh/users/2228245), ![][flag_DK] [dobo-chan](https://osu.ppy.sh/users/4019641), ![][flag_DK] [\[ Pennek \]](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gudafild](https://osu.ppy.sh/users/5358569), ![][flag_DK] [Hestai](https://osu.ppy.sh/users/4622337) |
 | Bottom | ![][flag_DK] [HoarseFish](https://osu.ppy.sh/users/6344368), ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925), ![][flag_DK] [LedoodeNiss](https://osu.ppy.sh/users/7345263), ![][flag_DK] [\_Adolfin\_](https://osu.ppy.sh/users/6735707), ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377), ![][flag_DK] [DragonsDungeon](https://osu.ppy.sh/users/4134819) |
 
@@ -69,7 +69,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 | **A** | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) | ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880) | ![][flag_DK] [\[ Pennek \]](https://osu.ppy.sh/users/3723742) | ![][flag_DK] [\_Adolfin\_](https://osu.ppy.sh/users/6735707) |
 | **B** | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514) | ![][flag_DK] [Xanoxe](https://osu.ppy.sh/users/7060592) | ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224) |
 | **C** | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | ![][flag_DK] [Hestai](https://osu.ppy.sh/users/4622337) | ![][flag_DK] [LedoodeNiss](https://osu.ppy.sh/users/7345263) |
-| **D** | [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324) | ![][flag_DK] [ZcortezZ](https://osu.ppy.sh/users/2228245) | ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377) |
+| **D** | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Asymmetry Echo](https://osu.ppy.sh/users/4290324) | ![][flag_DK] [ZcortezZ](https://osu.ppy.sh/users/2228245) | ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377) |
 | **E** | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | ![][flag_DK] [DragonsDungeon](https://osu.ppy.sh/users/4134819) |
 | **F** | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | ![][flag_DK] [LeDoodeNiginz](https://osu.ppy.sh/users/5778925) | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) |
 | **G** | ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) | ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) | ![][flag_DK] [Gudafild](https://osu.ppy.sh/users/5358569) | ![][flag_DK] [HoarseFish](https://osu.ppy.sh/users/4361285) |
@@ -462,7 +462,8 @@ Saturday, 2017-03-04:
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_FO]: /wiki/shared/flag/FO.gif
-[flag_GL]: /wiki/shared/flag/GL.gif
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
+[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

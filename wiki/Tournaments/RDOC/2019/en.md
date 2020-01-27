@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC2019***) is an ongoing national double
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-01-24 |
 | Qualifiers | 2020-02-07/2020-02 |
-| Live Drawings | TBD |
+| Live drawings | *TBD* |
 | Group Stage | 2020-02-22/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
@@ -43,8 +43,8 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 | Manager | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497) |
 | Map selector | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Referee | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Streamer | [][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Commentator | [][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), [][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), [][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), [][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), [][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), [][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
+| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Donator | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
@@ -134,12 +134,13 @@ TBD
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_FO]: /wiki/shared/flag/FO.gif
-[flag_GL]: /wiki/shared/flag/GL.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
+[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
