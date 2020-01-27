@@ -1,20 +1,20 @@
 # Nomination Assessment Team
 
-The **Nomination Assessment Team** (**NAT**) are the moderators of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) and ensure the beatmapping side of osu! is functional.
+The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
 
-Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), they also have site-wide moderation permissions and a dark red username in the game's chat channels.
+Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
 ## Responsibilities
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
- - **Evaluation:** Reviewing BN applications and evaluating proficiency of current Beatmap Nominators. Most members of the NAT are solely responsible for contributing to this subcategory.
- - **Structural:** Ranking Criteria amendments, maintenance of mapping-related community tools, and documentation
- - **Moderation:** User reports and assessing inappropriate behavior/content. This subcategory is a joint effort between the NAT and the GMT.
- - **Communication:** Promoting transparency between beatmappers and the NAT.
+ - **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory.
+ - **Structural:** Documenting topics surrounding the ranking process, amending rules and guidelines to the Ranking Criteria, developing and maintaining related tools and websites.
+ - **Moderation:** Handling user reports and assessing inappropriate behavior of Beatmap Nominators. This core is a joint effort between the NAT and the GMT.
+ - **Communication:** Promoting transparency between the NAT and the mapping/modding community, including the creation and hosting of meetings.
 
-Members of the NAT primarily contributing to the evaluation subcategory are also responsible for modding at least 3 beatmaps per month. This guarantees the NAT are up to date with the modding community when evaluating Beatmap Nominators. 
+A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory. 
 
-Members who fail to meet modding activity requirements will be given a warning. If their activity does not improve within the next month, they will be removed from the NAT. Members of the NAT working on other mapping-related projects may be exempt from modding requirements on a case-by-case basis.
+Members of the NAT primarily contributing to the evaluation subcategory are also responsible for modding at least 3 beatmaps per month. This guarantees the NAT are up to date with the modding community when evaluating Beatmap Nominators. Members who fail to meet modding activity requirements will be given a warning. If their activity does not improve within the next month, they will be removed from the NAT. Members of the NAT working on other mapping-related projects may be exempt from modding requirements on a case-by-case basis.
 
 
 ## Team members
@@ -35,7 +35,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) |  | Evaluation |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 
 ### osu!taiko
 
@@ -49,14 +49,14 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities
 | :-- | :-- | :-- |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  | Evaluation, Moderation |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German | Evaluation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German | Evaluation, Moderation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
