@@ -2,4 +2,5 @@
 
 Index page for all of the Royal Danish osu!Cup tournaments.
 
+- [Royal Danish osu!Cup 2014](2014)
 - [Royal Danish osu!Cup 2018](2018)

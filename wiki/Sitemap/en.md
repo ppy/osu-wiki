@@ -355,6 +355,7 @@ tags:
     -   [OZT](/wiki/Tournaments/OZT)
         -   [2018](/wiki/Tournaments/OZT/2018)
     -   [RDOC](/wiki/Tournaments/RDOC)
+        -   [2014](/wiki/Tournaments/RDOC/2014)
         -   [2018](/wiki/Tournaments/RDOC/2018)
     -   [RMoTI](/wiki/Tournaments/RMoTI)
         -   [2](/wiki/Tournaments/RMoTI/2)
