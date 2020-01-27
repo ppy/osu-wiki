@@ -37,6 +37,7 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 
 ## Organisation
 
 The Speed of Light Mania Tournament is run by various community members.
+
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099) |
