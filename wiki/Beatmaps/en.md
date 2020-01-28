@@ -2,7 +2,7 @@
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
 
-Beatmaps are considered as levels in [osu!](/wiki/osu!_glossary). Beatmaps consist of a song and various [hit objects](/wiki/hit_objects) in sync with the beat. They can also include a background image, video, and/or [storyboard](/wiki/storyboard).
+Beatmaps are considered levels in [osu!](/wiki/osu!_glossary). Beatmaps consist of a song and various [hit objects](/wiki/hit_objects) in sync with the beat. They can also include a background image, video, and/or [storyboard](/wiki/storyboard).
 
 Beatmaps are shared through a system called [BSS](/wiki/BSS) (Beatmap Submission System). After beatmaps have been shared they will show up on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web where they can be downloaded and favorited.
 
@@ -18,7 +18,7 @@ Beatmaps are split into 5 different categories depending on their recent activit
 
 ### Graveyard
 
-Graveyarded beatmaps are beatmaps that have been abandoned by their creator. These beatmaps were initially put in the [pending](#pending) category, but were automatically moved to the graveyard category once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics, but can still be downloaded and played like normally.
+Graveyarded beatmaps are beatmaps that have been abandoned by their creator. These beatmaps were initially put in the [pending](#pending) category, but were automatically moved to the graveyard category once they hadn't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics, but can still be downloaded and played like normally.
 
 Once a beatmap is graveyarded it can be revived by updating the beatmap through the [BSS](/wiki/BSS) (Beatmap Submission System)
 
@@ -26,7 +26,7 @@ Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/sha
 
 ### Pending/Work in Progress
 
-Pending/Work in Progress (WIP) are the two standard categories beatmaps are put into on initial submission. Beatmaps in these categories can move on to the qualified category upon nomination by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/modders) through [modding](/wiki/modding). Pending/WIP beatmaps do not have leaderboards and will not affect user statistics.
+Pending/Work in Progress (WIP) are the two standard categories beatmaps are put into on initial submission. Beatmaps in these categories can move to the qualified category upon nomination by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/modders) through [modding](/wiki/modding). Pending/WIP beatmaps do not have leaderboards and will not affect user statistics.
 
 Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [graveyard](#graveyard) status.
 
@@ -34,9 +34,11 @@ Pending/WIP beatmaps use the question mark icon (![Question mark icon](/wiki/sha
 
 ### Qualified
 
-Qualified beatmaps are in the last stage of the [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [Ranking Criteria](/wiki/ranking_criteria). Beatmaps stay qualified for a period of approximately 7 days before they enter the Ranked section permanently. This period serves as a last line of defense in which any flaws and mistakes that might have slipped through can be fixed. In this period, beatmaps can be disqualified, changed and re-qualified without reseting the time it takes for the beatmap to become ranked. Qualification is in that sense, the last step before being considered a fully fledged beatmap.
+Qualified beatmaps are in the last stage of the [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [Ranking Criteria](/wiki/ranking_criteria).
 
-Qualified beatmaps have leaderboards but before playing a dialogue will display, noting that:
+Beatmaps stay qualified for a period of approximately 7 days before they enter the [Ranked]((#ranked)) section permanently and become endorsed as official content. This period serves as a last line of defense in which any flaws and mistakes that might have slipped through can be fixed. In this period, beatmaps can be disqualified, changed and re-qualified without reseting the time it takes for the beatmap to become ranked. The Qualified section is in that sense, the last step before being considered a fully fledged beatmap.
+
+Qualified beatmaps have leaderboards. Though, upon playing the beatmap a dialogue will display, noting that:
 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
