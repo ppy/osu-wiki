@@ -18,7 +18,7 @@ Beatmaps are split into 5 different categories depending on their recent activit
 
 ### Graveyard
 
-Graveyarded beatmaps are beatmaps that have been abandoned by their creator. These beatmaps were initially put in the [pending](#pending) category, but were automatically moved to the graveyard category once they hadn't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics, but can still be downloaded and played like normally.
+Graveyarded beatmaps are beatmaps that have been abandoned by their creator. These beatmaps are initially put in the [pending](#pending) category, but are automatically moved to the graveyard category once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics, but can still be downloaded and played like normally.
 
 Once a beatmap is graveyarded it can be revived by updating the beatmap through the [BSS](/wiki/BSS) (Beatmap Submission System)
 
