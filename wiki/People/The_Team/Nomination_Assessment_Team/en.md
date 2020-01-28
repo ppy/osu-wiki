@@ -50,6 +50,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  | Evaluation, Moderation |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German | Evaluation, Moderation |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
 
 ### osu!mania
 
