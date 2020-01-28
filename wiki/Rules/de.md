@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-#Regeln
+# Regeln
 
 Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Community Spaß haben kann und eine freundliche Umgebung hat.
 
