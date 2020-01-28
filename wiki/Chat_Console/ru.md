@@ -2,7 +2,7 @@
 
 Можно вызвать с большинства экранов osu! нажав на клавиатуре `F8` или нажав на экране `Show chat` в правом нижнем углу.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   Список закладок доступных каналов. Просто нажмите на вкладку, чтобы перейти на этот канал. Нажмите кнопку `Channels`,выделенную желтым цветом, чтобы отобразить список всех каналов и присоединиться к одному из них.
 -   Цвета имен пользователей означают разные вещи:
@@ -13,7 +13,7 @@
     -   **Зеленый:** Строка содержит ваше имя или определенные ключевые слова, которые вы добавили, чтобы вызвать «Хайлайт».Копия сообщения также появится во вкладке `#highlight`.
     -   **Синий:** Приватное сообщение.
     -   **Голубой:** [peppy](https://osu.ppy.sh/users/2 "peppy"), Создатель osu!
-    -   **Розовый:** [BanchoBot][BanchoBot](/wiki/BanchoBot/ "BanchoBot")  
+    -   **Розовый:** [BanchoBot][BanchoBot](/wiki/BanchoBot/ "BanchoBot")
 -   Нажмите кнопку `Show Ticker` для отображения новых сообщений в нижней части экрана, когда окно чата скрыто.
 -   Нажмите кнопку `Auto-Hide`, чтобы автоматически скрывать чат во время игры (без учета интро, Outro и перерывов).
 -   Нажмите кнопку `Hide Chat` или F8 снова чтобы спрятать окно чата.
@@ -36,18 +36,18 @@
 
 | Panel colour                                                                                          | Description                                                            |
 |-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | **Серый:** Играет в какую-то карту.                                    |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | **Светло-голубой/Фиолетовый:** Наблюдает за кем-то или смотрит реплей. |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | **Красный:** Редактирует свою карту.                                   |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | **Зеленый:** Редактирует чью-то карту.                                 |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | **Фиолетовый:** Тестирует карту из редактора карт.                     |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | **Бирюзовый:** Загружает карту на сайт.                                |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | **Коричневый:** В мультиплеере,но не играет.                           |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | **Желтый:** Играет в мультиплеере.                                     |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | **Черный:** Бездействует более 2.5 минут.                              |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | **Темно-синий:** Ни одно из вышеперечисленных.                         |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing")                                    | **Серый:** Играет в какую-то карту.                                    |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching")                                 | **Светло-голубой/Фиолетовый:** Наблюдает за кем-то или смотрит реплей. |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap")                | **Красный:** Редактирует свою карту.                                   |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap")                | **Зеленый:** Редактирует чью-то карту.                                 |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap")                | **Фиолетовый:** Тестирует карту из редактора карт.                     |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap")       | **Бирюзовый:** Загружает карту на сайт.                                |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | **Коричневый:** В мультиплеере,но не играет.                           |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | **Желтый:** Играет в мультиплеере.                                     |
+| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk")                                                | **Черный:** Бездействует более 2.5 минут.                              |
+| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC")                    | **Темно-синий:** Ни одно из вышеперечисленных.                         |
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 Нажатие на любого игрока вызывает экран опций. Нажмите на цифру клавиатуры или нажимайте на бар для активации:-
 

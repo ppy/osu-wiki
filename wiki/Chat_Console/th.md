@@ -2,7 +2,7 @@
 
 กด `F8` จากที่ไหนก็ได้ในเกม หรือกดปุ่ม `Show Chat` ที่อยู่มุมล่างขวาเพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว หรืออาจจะกดปุ่ม `+` สีเหลืองเพื่อเลือกช่องใหม่ที่ต้องการ
 -   สีของผู้เล่นต่างๆ มีความหมายต่างกัน
@@ -39,22 +39,22 @@
 
 | Panel colour                                                                                          | สี พร้อมคำอธิบาย                                                                                |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ                                           |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | 2. เทา - กำลังเล่นคนเดียว                                                                       |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่                                                       |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | 4. แดง - แก้ไขบีทแมพตัวเอง                                                                      |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | 5. ม่วง - ทดสอบบีทแมพ (ของเราหรือคนอื่นก็ได้)                                                   |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | 6. เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้                |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | 7. เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น                                                   |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | 8. น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ยังไม่ได้เล่น                                               |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 9. เหลือง - อยู่ในโหลดเล่นหลายคน กำลังเล่นอยู่                                                  |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | 10. ดำ - อยู่นิ่งๆ นานเกินสองนาทีครึ่ง                                                          |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | 11. น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อคอินผ่านระบบ IRC (ได้แค่แชทเท่านั้น) |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle")                                             | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ                                           |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing")                                    | 2. เทา - กำลังเล่นคนเดียว                                                                       |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching")                                 | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่                                                       |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap")                | 4. แดง - แก้ไขบีทแมพตัวเอง                                                                      |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap")                | 5. ม่วง - ทดสอบบีทแมพ (ของเราหรือคนอื่นก็ได้)                                                   |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap")       | 6. เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้                |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap")                | 7. เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น                                                   |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | 8. น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ยังไม่ได้เล่น                                               |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 9. เหลือง - อยู่ในโหลดเล่นหลายคน กำลังเล่นอยู่                                                  |
+| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk")                                                | 10. ดำ - อยู่นิ่งๆ นานเกินสองนาทีครึ่ง                                                          |
+| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC")                    | 11. น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อคอินผ่านระบบ IRC (ได้แค่แชทเท่านั้น) |
 
 
 ลองคลิกที่ User Panel ของใครก็ได้ขึ้นมาดู แล้วจะเจอสิ่งนี้ (ไม่ใช่ Clickbait นะ)
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 กดที่ปุ่มเลข (ด้านบนของคีย์บอร์ดไม่ใช่ทางด้านขวา) หรือกดที่ปุ่มในจอเลย เพื่อ:-
 

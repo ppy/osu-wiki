@@ -6,7 +6,7 @@ outdated: true
 
 Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar atau dengan menekan tombol `F8` untuk membuka konsol obrolan.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   Tab ini hanya ada beberapa channel. Cukup klik Tab yang lainnya untuk pindah ke channel tersebut atau dengan mengklik tanda tambah `+` untuk membuka tab channel yang baru.
 -   Warna dari masing-masing pengguna memiliki arti yang berbeda.
@@ -15,8 +15,8 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Putih        |Kamu                                                                                                                        |
 | Kuning Pucat | Orang Lain                                                                                     |
-| Kuning       | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")                                 
-| Merah        | Anggota [Tim Moderasi Global](/wiki/People/Global_Moderation_Team/ "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/People/Quality_Assurance_Team/ "Quality_Assurance_Team")                                   
+| Kuning       | [osu!supporter](/wiki/osu!supporter/ "osu!supporter")
+| Merah        | Anggota [Tim Moderasi Global](/wiki/People/Global_Moderation_Team/ "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/People/Quality_Assurance_Team/ "Quality_Assurance_Team")
 | Hijau        | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru         | Pesan Pribadi                                                                                  |
 | Biru Terang  | [peppy](https://osu.ppy.sh/users/2 "peppy"), pembuat osu!                                                                               |
@@ -45,21 +45,21 @@ Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilk
 
 | Panel colour | Legend                                                                                                                          |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                              | Biru Tua - Player sedang tidak melakukan sesuatu, atau hanya sekedar mengobrol.                                                            |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                     | Abu-Abu - Bermain map di mode solo.                                                                                                       |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                  | Biru Terang - Menonton tayangan ulang atau tayangan langsung seseorang.                                                                       |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                 | Merah - Menyunting beatmap.                                                                                                             |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                 | Ungu - Mencoba beatmap di dalam Penyunting.                                                                                            |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")        | Hijau Biru - Mengirim beatmap (mengunggah/memperbaharui).                                                                                    |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                 | Hijau - Modding atau Menyunting beatmap seseorang.                                                                                      |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                         | Coklat - Di dalam ruangan bermain bersama, tapi tidak sedang bermain.                                                                    |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer")  | Kuning - Sedang bermain di ruangan bermain bersama.                                                                                      |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                 | Hitam - Sedang afk (away from keyboard).                                                                                                |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                     | Biru Tua - Pemain sedang tidak login ke dalam game, tapi masuk ke dalam program khusus [IRC](/wiki/Internet_Relay_Chat/ "IRC") dan status tidak terlihat. |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle")                                              | Biru Tua - Player sedang tidak melakukan sesuatu, atau hanya sekedar mengobrol.                                                            |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing")                                     | Abu-Abu - Bermain map di mode solo.                                                                                                       |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching")                                  | Biru Terang - Menonton tayangan ulang atau tayangan langsung seseorang.                                                                       |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap")                 | Merah - Menyunting beatmap.                                                                                                             |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap")                 | Ungu - Mencoba beatmap di dalam Penyunting.                                                                                            |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap")        | Hijau Biru - Mengirim beatmap (mengunggah/memperbaharui).                                                                                    |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap")                 | Hijau - Modding atau Menyunting beatmap seseorang.                                                                                      |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer")                         | Coklat - Di dalam ruangan bermain bersama, tapi tidak sedang bermain.                                                                    |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer")  | Kuning - Sedang bermain di ruangan bermain bersama.                                                                                      |
+| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk")                                                 | Hitam - Sedang afk (away from keyboard).                                                                                                |
+| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC")                     | Biru Tua - Pemain sedang tidak login ke dalam game, tapi masuk ke dalam program khusus [IRC](/wiki/Internet_Relay_Chat/ "IRC") dan status tidak terlihat. |
 
 Dengan mengklik panel pengguna orang lain akan muncul tampilan seperti ini.
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 Tekan tombol angka atau menekan salah satu bar untuk:-
 
