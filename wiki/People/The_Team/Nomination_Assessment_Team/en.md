@@ -9,7 +9,7 @@ Members of the NAT are distinguished by their red username and user title. Like 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
  - **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory.
  - **Structural:** Documenting topics surrounding the ranking process, amending rules and guidelines to the Ranking Criteria, developing and maintaining related tools and websites.
- - **Moderation:** Handling user reports and assessing inappropriate behavior of Beatmap Nominators. This core is a joint effort between the NAT and the GMT.
+ - **Moderation:** Handling user reports and assessing inappropriate behavior of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
  - **Communication:** Promoting transparency between the NAT and the mapping/modding community, including the creation and hosting of meetings.
 
 A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory. 
