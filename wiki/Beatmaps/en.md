@@ -1,78 +1,63 @@
----
-outdated: true
----
-
 # Beatmaps
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
 
-Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
+Beatmaps are considered as levels in [osu!](/wiki/osu!_glossary). Beatmaps consist of a song and various [hit objects](/wiki/hit_objects) in sync with the beat. They can also include a background image, video, and/or [storyboard](/wiki/storyboard).
 
-Beatmaps can be uploaded by the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
+Beatmaps are shared through a system called [BSS](/wiki/BSS) (Beatmap Submission System). After beatmaps have been shared they will show up on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web where they can be downloaded and favorited.
 
-You can find beatmaps in the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web.
+## Beatmap Categories
 
-## Ranked Statuses
+Beatmaps are split into 5 different categories depending on their recent activity, nomination status and/or favorites. The categories are:
 
-Both ranked and approved beatmaps requires approval from two [Beatmap Nominators](/wiki/Beatmap_Nominators). They can influence the stats on a player's profile which is what makes them different from a [pending](#pending) or [graveyarded](#graveyard) beatmap.
+- Graveyard
+- Work in Progress/Pending
+- Qualified
+- Ranked
+- Loved
 
-### Ranked
+### Graveyard
 
-Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) in the song select screen.
+Graveyarded beatmaps are beatmaps that have been abandoned by their creator. These beatmaps were initially put in the [pending](#pending) category, but were automatically moved to the graveyard category once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics, but can still be downloaded and played like normally.
 
-These beatmaps ideally fulfill all of the [ranking criteria](/wiki/ranking_criteria). This is to ensure that most players can expect a certain kind of standard while playing them.
+Once a beatmap is graveyarded it can be revived by updating the beatmap through the [BSS](/wiki/BSS) (Beatmap Submission System)
 
-### Approved
+Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
 
-Approved beatmaps use the check icon (![Check icon](/wiki/shared/status/approved.png)) in the song select screen.
+### Pending/Work in Progress
 
-The approved status is typically for songs that are over five minutes in length (also known as a [marathon](/wiki/marathon)), measured with the total [drain time](/wiki/drain_time) of a beatmap. Most approved beatmaps do not have an easy or normal difficulty. However, some creators may upload them as separate beatmapsets with identical songs while some are included inside a ranked song, containing ranked beatmaps.
+Pending/Work in Progress (WIP) are the two standard categories beatmaps are put into on initial submission. Beatmaps in these categories can move on to the qualified category upon nomination by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/modders) through [modding](/wiki/modding). Pending/WIP beatmaps do not have leaderboards and will not affect user statistics.
+
+Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [graveyard](#graveyard) status.
+
+Pending/WIP beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 
 ### Qualified
 
-Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
+Qualified beatmaps are in the last stage of the [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [Ranking Criteria](/wiki/ranking_criteria). Beatmaps stay qualified for a period of approximately 7 days before they enter the Ranked section permanently. This period serves as a last line of defense in which any flaws and mistakes that might have slipped through can be fixed. In this period, beatmaps can be disqualified, changed and re-qualified without reseting the time it takes for the beatmap to become ranked. Qualification is in that sense, the last step before being considered a fully fledged beatmap.
 
-These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
+Qualified beatmaps have leaderboards but before playing a dialogue will display, noting that:
 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted when the status is changed.
-  - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
-When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming [ranked](#ranked) or [approved](#approved) permanently.
+Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualified.png)) in the song select screen.
 
-During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up issues with these beatmaps. If this happens, the beatmapset's status will go back to pending and the process starts over again.
+### Ranked
+
+Ranked beatmaps are endorsed as official content, in the sense that they have reached or surpassed the standards of the [Ranking Criteria](/wiki/ranking_criteria). This is to ensure that most players can expect a certain kind of standard while playing them. Ranked beatmaps allow other players to compete on leaderboards and to gain performance points from setting scores on them. Once a beatmap has achieved Ranked status, its status cannot be altered again (except for extraordinary cases).
+
+Ranked beatmaps use the double upwards chevron icon (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) in the song select screen.
 
 ### Loved
 
 *For history of the Loved category, see: [History of Loved](/wiki/Beatmaps/History_of_Loved).*
 
-Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
-
-These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialogue will display, noting that:
+Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](https://osu.ppy.sh/community/forums/120). Before the beatmap begins playing, a dialogue will display, noting that:
 
 - No [performance points (pp)](/wiki/Performance_Points) will be awarded.
 - All scores will be deleted if the creator updates the beatmap.
 
 For a beatmap to be Loved, it must go through the [community voting process](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
-### Pending
-
-*Main page: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
-
-Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
-
-A beatmap with a pending status is usually waiting to be [modded](/wiki/modded). [Creators](/wiki/Creators) must seek for [modders](/wiki/modders) from the community and at least two [Beatmap Nominators](/wiki/Beatmap_Nominators) to get their beatmapset out of this status.
-
-Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [graveyard](#graveyard) status.
-
-All pending beatmaps do not affect user statistics.
-
-### Graveyard
-
-Graveyarded beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/graveyard.png)) in the song select screen.
-
-These beatmaps were initially [pending](#pending), but are moved to this status because they have not been updated or its thread post was inactive for 4 weeks. These beatmaps cannot be updated until the [mapper](/wiki/mapper) revives it by clicking the `Revive Beatmap` link in their profile, under the category `Beatmaps`.
-
-All graveyarded beatmaps do not affect user statistics.
-
-For the sake of saving digital space for newer beatmaps, osu! will purge graveyarded beatmaps if they have been in this status for a long period of time.
+Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
