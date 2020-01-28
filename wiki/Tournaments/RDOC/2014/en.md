@@ -267,7 +267,7 @@ Tonarionototoro received a bye into Round of 16 since winthermens couldnt play i
 
 1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
 2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
-3. All matches will be played over one weekend 21-23 February, 2014. Matches will start at 16:00 and then keep on going till around 21. There will be a break between 18-19. In the break time people are still allowed to continue in case they want to. If their opponent wants a break, they will have to respect it though.
+3. All matches will be played over one weekend 21-23 February, 2014. Matches will start at 16:00 and then keep on going till around 21. There will be a break between 18-19. In the break people are allowed to continue if they want to. If their opponent wants a break, they will have to respect it though.
 4. Any other rules changes or unexpected occurrences will be announced on the forum discussion.
 
 ### Stage regulations
@@ -298,13 +298,6 @@ Tonarionototoro received a bye into Round of 16 since winthermens couldnt play i
 1. There are different mappools for each day of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
 3. The mappool will consist of both easy and hard maps, to make the tournament fun for as many people as possible.
-
-### Scheduling regulations
-
-1. Every stage is scheduled for the weekend.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"

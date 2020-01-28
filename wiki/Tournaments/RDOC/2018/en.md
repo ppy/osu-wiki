@@ -354,7 +354,7 @@ Saturday, 2018-09-29:
 | UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
 | UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
 | UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
-| UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] Cerkie |
+| UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] **Cerkie** |
 
 Sunday, 2018-09-30:
 
