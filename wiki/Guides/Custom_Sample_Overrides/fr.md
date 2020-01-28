@@ -1,59 +1,64 @@
-# Bruitages
+# Substitutions d'échantillons sur mesure
 
-Pour le moment, des sons peuvent êtres implémentés dans les skins et les beatmaps.
+À l'heure actuelle, il est possible de mettre en œuvre des ensembles d'échantillons par carte de rythme et par peau.
 
-Les fichiers suivants peuvent être remplacés :
+La section suivante décrit le nom des fichiers qui peuvent être remplacés.
 
-## Sons normaux (normal) :
+## Jeu d'échantillons normal (fort) :
 
--   normal-hitnormal
--   normal-hitwhistle
--   normal-hitfinish
--   normal-hitclap
+- `normal-hitnormal`
+- `normal-hitwhistle`
+- `normal-hitfinish`
+- `normal-hitclap`
 
-Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vous obtiendrez un hitnormal + hitwhistle.
+Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous frappez un sifflet, vous obtenez un hitnormal + hitwhistle.
 
--   normal-sliderslide (en boucle jusqu'à la fin du slider)
--   normal-sliderwhistle (en boucle)
--   normal-slidertick
+- `normal-sliderslide` (boucles)
+- `normal-sliderwhistle` (boucles)
+- `normal-slidertick`
 
-## Sons légers (soft) :
+## Ensemble d'échantillons souples :
 
--   soft-hitnormal
--   soft-hitwhistle
--   soft-hitfinish
--   soft-hitclap
+- `soft-hitnormal`
+- `soft-hitwhistle`
+- `soft-hitfinish`
+- `soft-hitclap`
 
-Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vous obtiendrez un hitnormal + hitwhistle.
+Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous frappez un sifflet, vous obtenez un hitnormal + hitwhistle.
 
--   soft-sliderslide (en boucle jusqu'à la fin du slider)
--   soft-sliderwhistle (en boucle)
--   soft-slidertick
+- `soft-sliderslide` (boucles)
+- `soft-sliderwhistle` (boucles)
+- `soft-slidertick`
 
-## Sons de tambour (drum) :
+## Tambour d'échantillonnage :
 
--   drum-hitnormal
--   drum-hitwhistle
--   drum-hitfinish
--   drum-hitclap
+- `drum-hitnormal`
+- `drum-hitwhistle`
+- `drum-hitfinish`
+- `drum-hitclap`
 
-Ces sons sont additifs, ce qui veut dire que si vous cliquez sur un "whistle" vous obtiendrez un hitnormal + hitwhistle.
+Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous frappez un sifflet, vous obtenez un hitnormal + hitwhistle.
 
--   soft-sliderslide (en boucle jusqu'à la fin du slider)
--   soft-sliderwhistle (en boucle)
--   soft-slidertick
+- `drum-sliderslide` (boucles)
+- `drum-sliderwhistle` (boucles)
+- `drum-slidertick`
 
-## Sons universels :
+## Échantillons universels :
 
--   spinnerspin (La hauteur de ce son augmente à mesure que le spinner augmente. Il va d'environ 500 Hz jusqu'à 80000 Hz tandis que le son original est de 44100 Hz)
--   spinnerbonus (ding)
+- `spinnerspin` (ce son est décalé en hauteur au fur et à mesure que la toupie augmente. Il passe de ~500hz à 80000hz alors que l'échantillon original est de 44100hz)
+- `spinnerbonus` (ding)
 
-## Format du fichier
+## Notes
 
-Vous pouvez utiliser un `.wav` ou un `.mp3`, mais tenez compte de ce qui suit : les fichiers WAVE sont les meilleurs dans tout les cas, puisque les mp3 n'effectueront pas une boucle correcte et auront un petit écart (0-20 ms) avant d'être entendus, ajoutant une variable de latence supplémentaire.
+- En interne, les formats de fichier `.wav` sont utilisés pour tous les hitsounds en raison de la latence inhérente plus faible pour le déclenchement initial et la compatibilité en boucle.
+  - Vous pouvez utiliser les formats `.wav` ou `.mp3`, mais tenez compte de ce qui suit : Les fichiers `.wav` sont les meilleurs dans tous les cas, car les fichiers `.mp3` peuvent parfois être mal bouclés et présentent un court intervalle (0 à 20 ms) entre les boucles.
+- Si vous voulez remplacer les échantillons normaux et doux d'une peau, il suffit de ne pas inclure les préfixes `normal` ou `doux`.
+- Placez ces fichiers dans le répertoire de votre beatmap ou de votre skin.
+  Vous devez ensuite recharger le beatmap ou le skin pour voir l'effet !
 
-Notez aussi que si vous voulez remplacer les deux sons "normal" et "soft" dans un skin, n'incluez pas simplement le préfixe *normal-* ou *soft-*.
+## Articles connexes
 
-Habituellement les fichiers WAVE sont utilisés pour tous les hitsounds dû à la latence plus faible pour le déclenchement initial et la compatibilité de la boucle.
+Voir aussi :
 
-Placez ces fichiers dans le dossier de votre skin ou de votre beatmap et chargez-les en mode Play/Edit !
+- [Custom Hitsound Library](../Custom_Hitsound_Library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds/)
