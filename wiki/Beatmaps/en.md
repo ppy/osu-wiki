@@ -1,10 +1,12 @@
 # Beatmaps
 
-*Not to be confused with: [Difficulties](/wiki/Difficulties).*
+*Not to be confused with [Difficulties](/wiki/Difficulties).*
 
-Beatmaps are considered levels in [osu!](/wiki/osu!_glossary). Beatmaps consist of a song and various [hit objects](/wiki/hit_objects) in sync with the beat. They can also include a background image, video, and/or [storyboard](/wiki/storyboard).
+Beatmaps are a set of difficulties in [osu!](/wiki/osu!_glossary). Beatmaps consist of a song, background image and multiple [hit objects](/wiki/hit_objects) in sync with the beat. They can also include a video, and/or [storyboard](/wiki/storyboards).
 
 Beatmaps are shared through a system called [BSS](/wiki/BSS) (Beatmap Submission System). After beatmaps have been shared they will show up on the [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) page on osu! web where they can be downloaded and favorited.
+
+You can also find beatmaps in [beatmap packs](https://osu.ppy.sh/beatmaps/packs) or through osu!direct.<!--TODO: Add link once osu!supporter article has been written-->
 
 ## Beatmap Categories
 
