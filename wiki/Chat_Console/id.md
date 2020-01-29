@@ -32,7 +32,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
 
 Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilkan konsol obrolan yang diperluas. Secara baku, panel pengguna akan memberikan informasi umum (nama, total skor ranked, peringkat, akurasi, jumlah bermain, dan avatar pengguna). Jika mouse diarahkan ke panel pengguna, panel pengguna akan memperlihatkan informasi yang berbeda (nama, peringkat, avatar jika ada, waktu lokal mereka, lokasi negara dan kota, dan kegiatan yang pengguna sedang lakukan).
 
