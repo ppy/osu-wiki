@@ -2,7 +2,7 @@
 
 Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   Les onglets sont les canaux que vous avez ouverts. Cliquez tout simplement sur un canal pour le rejoindre. Pour voir la liste des canaux disponibles cliquez sur le `+`.
 -   La couleurs des pseudos ont plusieurs significations.
@@ -28,7 +28,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 
 Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
 
 Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il affiche des informations générales (pseudo, rang, précision, le nombre de parties jouées et l'avatar de l'utilisateur). Quand le curseur est placé sur un panneau, des informations différentes sont affichées (pseudo, rang, avatar, l'heure locale, location de l'utilisateur et ce qu'il est en train de faire).
 
@@ -41,21 +41,21 @@ La couleur du panneau correspond à un des dix statuts:
 
 | Panel colour                                                                                          | Description                                                                                                    |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | Bleu foncé - Aucun des autres statuts                                                                          |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | Gris - L'utilisateur joue une map.                                                                             |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | Bleu clair/violet - L'utilisateur regarde un joueur jouer une map ou un replay.                                |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | Rouge - L'utilisateur édite une de ses maps.                                                                   |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | Vert - L'utilisateur édite une map de quelqu'un d'autre.                                                       |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | Violet - L'utilisateur test une map depuis l'éditeur.                                                          |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | Turquoise - L'utilisateur est en train de mettre une map en ligne.                                             |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Marron - L'utilisateur est en multijoueur mais ne joue pas.                                                    |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Jaune - L'utilisateur joue en multijoueur.                                                                     |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Noir - L'utisateur ne fait rien depuis plusieurs minutes                                                       |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Bleu foncé - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle")                                             | Bleu foncé - Aucun des autres statuts                                                                          |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing")                                    | Gris - L'utilisateur joue une map.                                                                             |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching")                                 | Bleu clair/violet - L'utilisateur regarde un joueur jouer une map ou un replay.                                |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap")                | Rouge - L'utilisateur édite une de ses maps.                                                                   |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap")                | Vert - L'utilisateur édite une map de quelqu'un d'autre.                                                       |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap")       | Violet - L'utilisateur test une map depuis l'éditeur.                                                          |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap")                | Turquoise - L'utilisateur est en train de mettre une map en ligne.                                             |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Marron - L'utilisateur est en multijoueur mais ne joue pas.                                                    |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Jaune - L'utilisateur joue en multijoueur.                                                                     |
+| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk")                                                | Noir - L'utisateur ne fait rien depuis plusieurs minutes                                                       |
+| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC")                    | Bleu foncé - Player is not ingame, but logged in from an IRC client or stats are not available. |
 
 Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options sont.
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 1.  `Start Spectating`: Vous permet de regarder un utilisateur jouer en temps réel, et si l'utilisateur est déjà en train de regarder quelqu'un jouer, alors vous regarderez celui-ci jouer
 2.  `View Profile`: Ouvre le profil de l'utilisateur
