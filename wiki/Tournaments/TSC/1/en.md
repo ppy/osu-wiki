@@ -1,21 +1,20 @@
 ---
 tags:
-- Taiko Suiji Cup
-- TSC
+  - TSC
 ---
 
 # Taiko Suiji Cup
 
-![TSC Logo](img/logo.png)
+![TSC logo](img/logo.png)
 
 The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the 1st installment of the Taiko Suiji Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-08-01/2018-08-25 |
-| Live Drawings | 2018-08-25/2018-08-26 12:30:00 UTC |
+| Registration phase | 2018-08-01/2018-08-25 |
+| Live drawings | 2018-08-25/2018-08-26 12:30:00 UTC |
 | Round of 32 | 2018-09-01/2018-09-02 |
 | Round of 16 | 2018-09-08/2018-09-09 |
 | Quarterfinals | 2018-09-15/2018-09-16 |
@@ -29,7 +28,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -38,13 +37,13 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Map Selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Map selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Commentator | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
 | Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
 | Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_DE] [Reo](https://osu.ppy.sh/users/2249297) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 
 ## Links
 
@@ -52,7 +51,7 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -91,7 +90,7 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 | **Press F for Ayachi** | ![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_SG] [FarawayOtaku](https://osu.ppy.sh/users/10767070), ![][flag_NZ] [Ayachi Meme](https://osu.ppy.sh/users/4636461), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
 | **Magnolia** | ![][flag_GB] **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109), ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_FR] [Yoshi-GH](https://osu.ppy.sh/users/3317042), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_JP] [miyavi\_0611](https://osu.ppy.sh/users/4670948) |
 
------------------------
+---
 
 ## Podium
 
@@ -99,11 +98,11 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | jakpat |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | jakpat |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
 
------------------------
+---
 
 ## Mappools
 
@@ -317,9 +316,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI - Hype feat. Such (Nifty) \[Adrenaline\]](https://osu.ppy.sh/beatmapsets/817980/#taiko/1715195)**
 
-------------------------------------------------------------------------
+---
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -434,7 +433,7 @@ This competition has come to an end and resulted in the following podium:
 | **69% acc** | **5** | 3 | E=mc^2 | [#1](https://osu.ppy.sh/community/matches/45641816) |
 | Team 7 | 0 | **5** | **Pißwasser** | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

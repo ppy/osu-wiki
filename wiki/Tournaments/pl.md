@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Turnieje
 
 Ten artykuł poświęcony jest turniejom w osu!. Każdy turniej ma własny wątek na [forum dot. turniejów](https://osu.ppy.sh/community/forums/55).
@@ -21,6 +25,7 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] Stany Zjednoczone | ![][flag_CN] Chiny | ![][flag_KR] Korea Południowa |
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Polska | ![][flag_US] Stany Zjednoczone | ![][flag_GB] Wielka Brytania |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] Stany Zjednoczone | ![][flag_GB] Wielka Brytania | ![][flag_DE] Niemcy |
+| [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] Stany Zjednoczone | ![][flag_KR] Korea Południowa | ![][flag_GB] Wielka Brytania |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -63,6 +68,7 @@ osu! World Cup to coroczny drużynowy turniej rozgrywany w ramach podwójnej eli
 | [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7K | ![][flag_KR] Korea Południowa | ![][flag_MY] Malezja | ![][flag_CN] Chiny |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] Korea Południowa | ![][flag_US] Stany Zjednoczone | ![][flag_BR] Brazylia |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] Korea Południowa | ![][flag_PH] Filipiny | ![][flag_CN] Chiny |
+| [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4K | ![][flag_KR] Korea Południowa | ![][flag_BR] Brazylia | ![][flag_US] Stany Zjednoczone |
 
 ## Społecznościowe
 
@@ -84,6 +90,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
@@ -121,6 +128,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
 | [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! South East Asia Tournament 3](/wiki/Tournaments/oSEAT/3) | 2019-12-14 | 2020-02-16 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -178,6 +186,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hongkong | ![][flag_US] Stany Zjednoczone A | ![][flag_CL] Chile |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japonia | ![][flag_CA] Kanada | ![][flag_RU] Rosja A |
 | [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
+| [Continental Global Taiko Showdown 2019](/wiki/Tournaments/GTS/CGTS_2019) | 2019-11-02 | 2020-01-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -204,7 +213,8 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
-| [Beginners' Taiko Tournament Season 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 5](/wiki/Tournaments/BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -306,11 +316,11 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)(osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973)(osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811)(osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604)(osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031)(osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218)(osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623)(osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522)(osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239)(osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622)(osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542)(osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293)(osu!mania) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Nazwa | Data | ![Złota korona](/wiki/shared/GCrown.png "1. miejsce") | ![Srebrna korona](/wiki/shared/SCrown.png "2. miejsce") | ![Brązowa korona](/wiki/shared/BCrown.png "3. miejsce") |
 | --- | --- | --- | --- | --- |
-| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [iDOL@NSTER](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 ## Zobacz także
 

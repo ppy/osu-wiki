@@ -82,6 +82,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Chat Moderator, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | GMT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Chat Moderator |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
@@ -96,7 +97,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | QAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, osu!media creation |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
@@ -132,6 +132,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | BAT, QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
@@ -148,6 +149,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | Chat Moderator |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT, QAT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
+| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
@@ -155,6 +157,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
+| ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
@@ -186,6 +189,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Chat Moderator, GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
+| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
 | ![][flag_CN] [Strawberry](https://osu.ppy.sh/users/519978) | BAT |

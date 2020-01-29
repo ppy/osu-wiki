@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 대회
 
 이 곳은 osu! 에서 인증한 대회에 관한 문서입니다. 더 자세한 사항은 [osu! 포럼](https://osu.ppy.sh/community/forums/55)를 통해 찾을 수 있습니다.
@@ -20,6 +24,8 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_PL] 폴란드 |
 | [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] 미국 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 |
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] 폴란드 | ![][flag_US] 미국 | ![][flag_GB] 영국 |
+| [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] 미국 | ![][flag_GB] 영국 | ![][flag_DE] 독일 |
+| [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] 미국 | ![][flag_KR] 대한민국 | ![][flag_GB] 영국 |
 
 ### ![](/wiki/shared/mode/taiko.png) 역대 osu!taiko 월드컵 목록
 
@@ -56,11 +62,13 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 2014-07-01 | 2014-09-14 | 7키 | ![][flag_KR] 대한민국 | ![][flag_TH] 태국 | ![][flag_MY] 말레이시아 |
 | [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015) | 2015-07-13 | 2015-09-27 | 4키 | ![][flag_US] 미국 | ![][flag_JP] 일본 | ![][flag_GB] 영국 |
 | [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016_7K) | 2015-12-01 | 2016-02-14 | 7키 | ![][flag_CN] 중국 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 |
-| [osu!mania 4K World Cup  2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
-| [osu!mania 7K World Cup  2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
-| [osu!mania 4K World Cup  2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
-| [osu!mania 7K World Cup  2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
-| [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
+| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
+| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
+| [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
+| [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
+| [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
 
 ## 커뮤니티
 
@@ -82,6 +90,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ![][flag_NZ] [yellowy246](https://osu.ppy.sh/users/3833980) | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Dumi](https://osu.ppy.sh/users/2271615) | ![][flag_AU] [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
@@ -119,6 +128,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
 | [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! South East Asia Tournament 3](/wiki/Tournaments/oSEAT/3) | 2019-12-14 | 2020-02-16 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -176,6 +186,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_RU] Russian Federation A |
 | [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
+| [Continental Global Taiko Showdown 2019](/wiki/Tournaments/GTS/CGTS_2019) | 2019-11-02 | 2020-01-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -202,7 +213,8 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
-| [Beginners' Taiko Tournament Season 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 5](/wiki/Tournaments/BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -292,7 +304,6 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137)(osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742)(osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114)(osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550)(osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491)(osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514)(osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463)(osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267)(osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796)(osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995)(osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791)(osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006)(osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607)(osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489)(osu!mania 7K) |
 
-<!-- When another Highlander Con tournament happens, organize this into a Highlander Con series (similar to Zotcade) -->
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
@@ -305,11 +316,11 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | --- | --- | --- | --- | --- | --- |
 | [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) (osu!), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) (osu!taiko), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) (osu!catch), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) (osu!mania) | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) (osu!), ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) (osu!taiko), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) (osu!catch), ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) (osu!mania) | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) (osu!), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) (osu!taiko), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) (osu!catch), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) (osu!mania) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Name | Date | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
 | --- | --- | --- | --- | --- |
-| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [iDOL@NSTER](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
 ## 같이보기
 
@@ -325,10 +336,12 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IL]: /wiki/shared/flag/IL.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
@@ -338,10 +351,14 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PT]: /wiki/shared/flag/PT.gif
+[flag_RO]: /wiki/shared/flag/RO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TN]: /wiki/shared/flag/TN.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
