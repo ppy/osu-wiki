@@ -46,7 +46,7 @@ Check it out for yourself:
 
 ----
 
-You know the drill, all of this plus so much more is available right now over at [**Station Earth / Blue Marble**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/66), all pre-timed and awaiting your creative spin. You never know, you might end up the next Bearizm. 20 million plays on a single difficulty is no joke!
+You know the drill, all of this plus so much more is available right now over at [**Station Earth / Blue Marble**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/66), all pre-timed and awaiting your creative spin. You never know, you might end up the next Bearizm. 20 million plays on a single set is no joke!
 
 Congratulations to Twitter user @WitherStar321 who had the solution for our phone number hint on speed-dial, putting the correct answer out into the airwaves a paltry hour after we released it. We're clearly going to have to ramp up the difficulty to match your gargantuan megabrains.
 
