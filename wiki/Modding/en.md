@@ -31,7 +31,7 @@ Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that
 
 ## Types of mod posts
 
-The goal of each `Problem` or `Suggestion` post on a beatmap discussion page is to explain anything concerning about a beatmap, in the context of its design.
+The goal of each `Problem` or `Suggestion` post on a beatmap discussion page is to explain anything concerning about a beatmap in the context of its design.
 
 Many mod posts address mistakes in a beatmap. For example, a missing clap hitsound which would be expected by the beatmap's hitsounding pattern is likely a mistake.
 
