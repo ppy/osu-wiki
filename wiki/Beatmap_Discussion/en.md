@@ -36,13 +36,15 @@ It's important to keep a few things in mind to use the Beatmap Discussion pages 
 
 ![](img/modes.jpg "Mode selection")<!--TODO: Add Updated Images-->
 
-Mode selection changes the game mode between the different modes: [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania). It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is only really used for beatmaps which contain difficulties of multiple game-modes. For normal beatmaps this remains untouched since the discussion page automatically switches to the current game mode.
+Mode selection changes the game mode between the different modes: [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania). It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is mainly used for beatmaps which contain difficulties of multiple game modes. For normal beatmaps this remains untouched, since the discussion page automatically switches to the current game mode.
 
 ## Title/Artist
 
 ![](img/modes.jpg "Mode selection")
 
-Displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). To see correct formatting, romanization and potential tags to be added, see [](/wiki/Ranking_Criteria#metadata). Clicking this text will navigate back to the beatmap info page.
+Displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking this text will navigate back to the beatmap info page.
+
+To see correct formatting, romanization and potential tags to be added to the title and artists fields, see the [Ranking Criteria](/wiki/Ranking_Criteria#metadata).
 
 ## Difficulty selection
 
@@ -88,7 +90,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 The Hype Train tracks how many [hypes](/wiki/Glossary#hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/Beatmap_Nominators). To read more about this process, see the [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure).
 
-Hypes can only be given by going to the General `(All Difficulties)` tab. It will not work through the `General` or the `Timeline` tabs.
+Hypes can only be given by going to the `General (All Difficulties)` tab. It will not work through the `General` or the `Timeline` tabs.
 
 ### General info
 
@@ -96,9 +98,9 @@ General info shows the creator who submitted the beatmapset, the submission date
 
 ### Watch/Unwatch
 
-The watch/unwatch buttons allow for following/unfollowing the developments of the beatmapset. If a beatmap is followed new posts and replies that are made on that discussion page will give you a notification on osu! web.
+The watch/unwatch buttons allow for following/unfollowing the developments of the beatmapset. If a beatmap is followed, new posts and replies that are made on that discussion page will give you a notification on osu! web.
 
-You can manage all of your subscriptions through the [`modding watchlist` link](https://osu.ppy.sh/beatmapsets/watches), which can also be accessed through the home page menu.
+You can manage all of your subscriptions through the [modding watchlist](https://osu.ppy.sh/beatmapsets/watches), which can also be accessed through the home page menu.
 
 ### Beatmap page
 
@@ -112,13 +114,13 @@ Modding happens through three sections. These sections separate posts of differe
 - `General(This difficulty)`
 - `Timeline`
 
-Aside from those, there is a 4th `History` section which shows all changes to the discussion page in chronological order according to post-time. Clicking on any issue will jump to the specifc post.
+Aside from those, there is a fourth `History` section which shows all changes to the discussion page in chronological order according to post-time. Clicking on any issue will jump to that specific post.
 
 ### General (All difficulties)
 
 This category shows posts that apply to all difficulties. These are few and big in length but often require the most time for the beatmap owner to fix, as their scope spans all difficulties. Common posts in this category include metadata, notes and discussion on the beatmapset as a whole.
 
-This is also where [hype](/wiki/Glossary#hype) can be given to push the beatmap closer towards nomination and the ranked status.
+This is also where [hype](/wiki/Glossary#hype) can be given,  to push the beatmap closer towards nomination and the ranked status.
 
 ### General (This difficulty)
 
