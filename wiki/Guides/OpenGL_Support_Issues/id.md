@@ -15,7 +15,7 @@ Pertama, cobalah cek jika ini juga terjadi padamu:
 
 Pastikan jika kamu menggunakan Microsoft Basic Display Adapter seperti gambar berikut:
 
-![Device Manager](IDDevicemanager.png "Device Manager")
+![Device Manager](img/IDDevicemanager.png "Device Manager")
 
 Carilah driver untuk kartu grafikmu dari halaman web pabrikannya. Berikut beberapa tautan umum:
 
