@@ -10,18 +10,18 @@ Harap perhatikan bahwa klien osu!lazer saat ini sedang dalam masa pengembangan d
 
 ## Mengakses Klien
 
-Buka osu!lazer dan tekan `Ctrl + O` untuk memperlihatkan pengaturan permainan. Dari sana, klik "Buka folder osu!". Buat dua file berikut di direktori ini:  
-`drawings.ini`  
-`drawings.txt`  
-Selanjutnya, tambahkan baris berikut ke file `drawings.txt`:  
-`AU : Australia : AUS`  
+Buka osu!lazer dan tekan `Ctrl + O` untuk memperlihatkan pengaturan permainan. Dari sana, klik "Buka folder osu!". Buat dua file berikut di direktori ini:
+`drawings.ini`
+`drawings.txt`
+Selanjutnya, tambahkan baris berikut ke file `drawings.txt`:
+`AU : Australia : AUS`
 
 Layar pengundian sekarang siap untuk dipratinjau. Pemahaman mengenai bagaimana tampilan layar pengundian beserta fungsi-fungsinya menjadi poin penting sebelum mulai memodifikasi masing-masing file ini lebih lanjut.
 
 ### Penggunaan
 
 Dari menu utama, tekan `Ctrl + Shift + D` untuk mengakses layar pengundian. Jika melakukannya dengan benar, akan muncul:
-![](main-screen.png "Layar pengundian utama")
+![](img/main-screen.png "Layar pengundian utama")
 
 Terdapat dua bagian di layar ini - bagian utama di sebelah kiri dengan peta dunia sebagai latar belakang layar pengundian, dan bagian panel kontrol di sebelah kanan. Mohon untuk **tidak** menyorot panel kontrol saat siaran berlangsung.
 
@@ -58,8 +58,8 @@ Berikut ini adalah properti yang dapat dikonfigurasi melalui file ini:
 
 ### Mendefinisikan Tim
 
-File `drawings.txt` menyediakan cara untuk menentukan tim yang akan disortir ke dalam grup pada baris terpisah. Contoh adalah baris berikut:  
-`AU : Australia : AUS`  
+File `drawings.txt` menyediakan cara untuk menentukan tim yang akan disortir ke dalam grup pada baris terpisah. Contoh adalah baris berikut:
+`AU : Australia : AUS`
 Baris ini memiliki tiga bagian yang dipisahkan oleh titik dua (`:`):
 
 | Kode Bendera | Nama Lengkap Tim | Akronim Tim |
@@ -70,7 +70,7 @@ Baris ini memiliki tiga bagian yang dipisahkan oleh titik dua (`:`):
 - Nama lengkap tim ditampilkan di tengah layar ketika tim dipilih melalui proses pengundian.
 - Akronim tim ditampilkan dalam kotak grup.
 
-![](drawings-txt-visual.png "Representasi visual elemen-elemen drawings.txt")
+![](img/drawings-txt-visual.png "Representasi visual elemen-elemen drawings.txt")
 
 File `drawings.txt` yang valid dengan beberapa negara sebagai tim adalah sebagai berikut:
 ```
@@ -80,8 +80,8 @@ IT : Italia : IT
 US : Amerika Serikat : USA
 ```
 
-Untuk menambahkan bendera kustom, kembali ke folder osu! yang berisi file `drawings.ini`, buat folder `Drawings`, dan di dalamnya buat kembali folder dengan nama `Flags` sedemikian rupa sehingga hierarki folder `osu/Drawings/Flags/` dibuat.  
-File gambar bendera kustom dapat ditempatkan di dalam folder `Flags`. Sebagai contoh jika file `my-flag-file.png` ditempatkan di dalam folder `Flags`, maka baris valid yang dapat ditambahkan ke dalam file `drawings.txt` adalah:  
+Untuk menambahkan bendera kustom, kembali ke folder osu! yang berisi file `drawings.ini`, buat folder `Drawings`, dan di dalamnya buat kembali folder dengan nama `Flags` sedemikian rupa sehingga hierarki folder `osu/Drawings/Flags/` dibuat.
+File gambar bendera kustom dapat ditempatkan di dalam folder `Flags`. Sebagai contoh jika file `my-flag-file.png` ditempatkan di dalam folder `Flags`, maka baris valid yang dapat ditambahkan ke dalam file `drawings.txt` adalah:
 `my-flag-file : My Team : MT`
 
 Resolusi optimal untuk gambar bendera adalah 70x47 pixels (atau rasio aspek yang sejenis).
