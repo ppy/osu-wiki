@@ -19,11 +19,12 @@ The beatmap discussion page consists of a few elements (from top-to-bottom):
 - Sorting/Filtering Options
 - Visual Timeline
 - Beatmap Status
-- Modding Section
+- Modding Field
+- Discussions
 
 ## Quick-start: Using Beatmap Discussions
 
-It's important to keep a few things in mind to use the Beatmap Discussion page effectively:
+It's important to keep a few things in mind to use the Beatmap Discussion pages effectively:
 
 - Choose the correct mode and difficulty you wish to mod.
 - Select the proper section you are submitting your mod to.
@@ -35,7 +36,7 @@ It's important to keep a few things in mind to use the Beatmap Discussion page e
 
 ![](img/modes.jpg "Mode selection")<!--TODO: Add Updated Images-->
 
-Mode selection changes the game mode between the different modes: osu!standard, osu!taiko, osu!catch, and osu!mania. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is only really used for hybrid beatmaps, which means that a beatmaps consists of multiple game-modes. For normal beatmaps the discussion page will always switch to the most common game mode.
+Mode selection changes the game mode between the different modes: [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania). It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is only really used for beatmaps which contain difficulties of multiple game-modes. For normal beatmaps this remains untouched since the discussion page automatically switches to the current game mode.
 
 ## Title/Artist
 
@@ -47,9 +48,9 @@ Displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatma
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-You can select different difficulties through the dropdown menu. This will show all currently available diffifculties, along with older deleted ones that have had suggestions/problems. The number that appears besides the difficulty name is the number of unresolved posts on that specific difficulty.
+You can select different [difficulties](/wiki/Difficulties) through the dropdown menu. This will show all currently available difficulties, along with older deleted ones that have had suggestions/problems. The number that appears besides the difficulty name is the number of unresolved posts on that specific difficulty.
 
-It is important to check this menu before submitting any mods to see if you are submitting them to the correct difficulty and avoid any miscommunication.
+It is important to check this menu before submitting any mods, to see if you are submitting them to the correct difficulty and avoid any miscommunication.
 
 ## Sorting/Filtering options
 
@@ -76,7 +77,7 @@ The visual timeline is a useful tool for seeing how much a beatmap has been modd
 
 ![](img/beatmap-status.jpg "Contains important information!")
 
-The beatmap status bar shows everything relevant to a beatmap's spot in the [Beatmap Ranking Procedue](/wiki/Beatmap_ranking_procedure). This includes:
+The beatmap status bar shows everything relevant to a beatmap's spot in the [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure). This includes:
 
 - Hype train
 - General info
@@ -101,7 +102,7 @@ You can manage all of your subscriptions through the [`modding watchlist` link](
 
 ### Beatmap page
 
-The beatmap page button will allow you to go back to the beatmap info page. This can also be achieved by click on Title/Artist text. <!--TODO: Insert link, when that article exists at some point-->
+The beatmap page button will allow you to go back to the beatmap info page. This can also be achieved by clicking on the [Title/Artist](#titleartist) text. <!--TODO: Insert link, when that article exists at some point-->
 
 ## Modding section
 
@@ -117,7 +118,7 @@ Aside from those, there is a 4th `History` section which shows all changes to th
 
 This category shows posts that apply to all difficulties. These are few and big in length but often require the most time for the beatmap owner to fix, as their scope spans all difficulties. Common posts in this category include metadata, notes and discussion on the beatmapset as a whole.
 
-This is also where [hype](/wiki/Glossary#hype) can be added to push the beatmap closer towards nomination and the ranked status.
+This is also where [hype](/wiki/Glossary#hype) can be given to push the beatmap closer towards nomination and the ranked status.
 
 ### General (This difficulty)
 
@@ -125,7 +126,7 @@ Posts in this category only apply to the currently selected difficulty. Common p
 
 ### Timeline
 
-The timeline category is where issues at specific points in a difficulty are addressed. Every post in this category must include a timestamp to be posted. The first timestamp placed will be the timestamp shown in the Discussion section. Any afterwards will be handled like normal.  <!--maybe/ All posts in this section can be ordered according to the timestamp, or through which posts have last have been updated. -->
+The timeline category is where issues at specific points in a difficulty are addressed. Every post in this category must include a timestamp to be posted. The first timestamp placed will be the timestamp shown in the Discussion section. Any timestamps later on will be handled like normal.
 
 ## Modding field
 
@@ -149,14 +150,14 @@ It might be beneficial to `Pin` the modding field while checking other issues. E
 
 ![](img/discussions.jpg)
 
-Discussions are where all modposts are stored, and able to be sorted through. Discussions are listed differently depending on which modding category has been chosen. On the `Timeline` tab they will be sorted chronologically according to the first timestamp provided. On the `General (All difficulties)` and `General (This difficulty)` they will be sorted by last update. It is possible to change how posts are sorted with the buttons at the top of the discussion field.
+Discussions are where all modposts are categorized, and able to be sorted through. Discussions are listed differently depending on which modding category has been chosen. On the `Timeline` tab they will be sorted chronologically according to the first timestamp provided. On the `General (All difficulties)` and `General (This difficulty)` they will be sorted by last update. It is possible to change how posts are sorted with the buttons at the top of the discussion field.
 
 Note that any [sorting/filtering options](#Sorting/Filtering) will change what is displayed here as well. Other buttons at the top of the discussion field that change discussion formatting include `Collapse all` and `Expand all` which will show/hide posts respectively.
 
 As for discussions themselves, they have a variety of features as well:
 
 ### Communication
-
+<!--TODO: There's probably a better name for this, but I can't think of one right now-->
 Discussions can be opened, closed or discussed further by adding replies to a `Problem` or `Suggestion` post. This is done by clicking the `Respond`/`Reply` button. After finishing your reponse pressing `Enter` or clicking `Reply` afterwards will submit it.
 
 While modding you may stumble upon closed issues which you have found elsewhere. In this case it may be worthwhile to re-open the issue. This can be done by replying like above but clicking the `Reply and Reopen` button instead.
@@ -170,7 +171,7 @@ This will Like/Dislike the mod. This is useful for modders as it will give them 
 There are a couple of restrictions around liking/disliking mods:
 
 - Everyone but the mod submitter can give a thumbs up.
-- Only [BN](/wiki/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu! given). <!--TODO: Check formatting of these links -->
+- Only [BN](/wiki/Beatmap_Nominators), [NAT](/wiki/Nomination_Assessment_Team), and [GMT](/wiki/Global_Moderation_Team) members can give a thumbs down (to deny any Kudosu! given).
 
 ### Discussion timeline
 
@@ -178,7 +179,7 @@ The timeline to the left of discussion shows the timestamp the issue addresses. 
 
 ### Tags
 
-Tags display important roles that are relevant for the beatmap discussion. These include members like `MAPPER`, `BN`, `NAT`, `GMT` & `DEV`, who have more options than a normal user. <!--TODO: Figure out if there are more than just those.-->
+Tags display [important roles](/wiki/People/The_Team) that are relevant for the beatmap discussion. These include members like `MAPPER`, `BN`, `NAT`, `GMT` & `DEV`, who have more options than a normal user.
 
 ### Formatting tools
 
