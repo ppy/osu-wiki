@@ -1,0 +1,194 @@
+---
+layout: post
+title: "Community Contributors: 2019"
+date: 2020-02-04 10:00:00 +0000
+---
+
+osu! thrives on the unsung efforts of its community, and among them, a few exemplars arise. These people selflessly dedicate themselves towards furthering the game that you know and love, and today, we take a moment to honour their contribution.
+
+![](/wiki/shared/news/2020-02-04-community-contributors-2019/header.jpg)
+
+The most vaunted profile badge of all, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) represents a candid acknowledgement from the osu!team of contribution to the osu!community grandly above the
+
+Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) represents enduring contribution to the development of the osu!community through a variety of disciplines and fields. Those who receive it have undoubtedly left their mark on the game for the better in one way or another.
+
+## Community
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/VINXIS.jpg)](https://osu.ppy.sh/users/4323406)
+
+**VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as the *Corsace Open*, the *OHC*, the *Mapper's Choice Awards* and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
+
+Not content to leave it there, he is also a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22) and one of the original members of the Mappers' Guild. Few have made such enduring changes upon osu!'s landscape as VINXIS and his efforts have, and it is safe to say that without him, osu! would have been considerably worse off.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/hehe.jpg)](https://osu.ppy.sh/users/2123087)
+
+Previously known as *handsome*, **hehe** is a founding member of the Corsace project, an original Mappers' Guild founding member and most renowned not only for his many creative masterpieces in the mapping domain, but also for his visual design and organizational contributions to some of the game's most enduring community-run projects.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Noffy.jpg)](https://osu.ppy.sh/users/1541323)
+
+A universal fixture within the NAT, **Noffy** has quickly made a name for herself as one of the prime contributors towards the continued maintenance and development of the game as far as the modding, mapping and metadata portions of the game are concerned. Her continued oversight and assistance with GitHub issue tracking, contribution to the Mappers' Guild and her general all-around presence exemplify a spirit that has driven some of the osu! community's most notable people into shaping the game into what it is today.
+
+We earnestly hope to see more of her ilk rise to the fore in the future, and we are immensely grateful for her contribution.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Shoegazer.jpg)](https://osu.ppy.sh/users/2520707)
+
+A true paragon-in-waiting, few are as synonymous with a game mode's excellence as **Shoegazer** is with osu!mania. His contributions towards the mode are vast beyond reckoning, ranging from groundwork in dealing with criteria and gameplay issues to the development of tournament-grade map pools for the game's finest players, featuring extensively in osu!mania's two most vaunted tournaments - the osu!mania World Cup and SOFT.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/JBHyperion.jpg)](https://osu.ppy.sh/users/4879508)
+
+Delving deep into the vagaries of leadership, **JBHyperion** is one of the extremely rare few who dared to stand up and take a swing at tackling the enormously complex social puzzle that is directing osu!'s modding scene. From his efforts creating the game's first social Code of Conduct for modders and mappers, to his intense dedication towards leading the NAT/QAT through some of the most tumultuous times the team has ever seen in osu!'s decade plus history, this one man has been at the forefront of it all, through good and bad.
+
+Largely unspoken and unsung by many, JBHyperion's efforts have dramatically reshaped the landscape of the osu!community in ways that I wager some will never truly be able to appreciate in full, but they are undoubtedly for the better, and it is safe to say that osu! has grown enormously from his time with us.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Mo.jpg)](https://osu.ppy.sh/users/2202163)
+
+Much like his brother in arms, **-Mo-** is another of the mighty few who dip their toes into the mire of leadership, spending hundreds of hours working with dozens of people in a concerted effort to improve the mapping and modding scene for everyone, travelling true throughout some of the team's rockiest years since their inception many, many years ago.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Chaos.jpg)](https://osu.ppy.sh/users/2628870)
+
+An organizer of the Community Mentorship Program and a long-term liaison between the osu!team and the Global Moderation Team, **Chaos** has been a stabilizing force in the community for many years now, with his efforts at home and abroad solidifying the future of the game. Beyond just this, he has also been heading the osu! Mapping Olympiad, a premier beatmapping contest series all the while.
+
+His work in managing the upkeep of the GMT and ensuring that the newest generations of osu!'s mappers and modders are guided through a labyrinthine set of customs and traditions, and helping them integrate into the game proper, whilst also ensuring that the game's chat and forums remain safe for everyone.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/yaspo.jpg)](https://osu.ppy.sh/users/4945926)
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Uberzolik.jpg)](https://osu.ppy.sh/users/1314547)
+
+Essential to the continuation of the Community Mentorship Program, **yaspo and Uberzolik** have spent thousands of hours performing key tasks to ensure things stay on track.
+
+After Halfslashed stepped down, **yaspo** picked up the slack and stepped up to lead beside Okoratu, and has been responsible for running dozens of contests, hundreds of discussions, hand-picking similar numbers of mentor and mentee applications, hosting meetings and so much more.
+
+**Uberzolik** has been responsible for maintaining huge swathes of data required for the project to continue, balancing this workload whilst also being a mentor AND a Beatmap Nominator himself.
+
+Both of them are exemplary examples of the kind of dedication that has punctuated over ten years of osu!, and we are enormously grateful for their continued support.
+
+
+## Tournaments
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/PuffBuck.jpg)](https://osu.ppy.sh/users/4234525)
+
+**PuffBuck** is always watching. No truer words have ever been spoken. A superfan of the osu! World Cups since the very beginning, if there's been a broadcast, PuffBuck has been there. Recent brought aboard as an official moderator in light of his eagerness to help moderate the abject insanity of our Twitch channel's chat, PuffBuck has since tackled the task with almost maniacal dedication, at times pulling over 20 hour shifts to ensure things are kept clean and enjoyable for everyone. Beyond this, his contributions to the upkeep of the World Cups have been noted as exemplary.
+
+To express the enormity of his dedication further, we're honestly not sure that PuffBuck has ever once missed a broadcast, and we're not sure he ever will.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Doomsday.jpg)](https://osu.ppy.sh/users/18983)
+
+osu!Alumni and all around great guy, **Doomsday** has been something of an eternal presence in the osu!community since its earliest days, sporting membership in the now-defunct Beatmap Appreciation Team (also known as the BAT). 
+
+In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the *Corgi Cup*
+
+A paragon of positivity, Doomsday stands out among a tiny crowd of definitive role models for the community at large, and we are thankful for his many, many years of contribution to the game.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/omgforz.jpg)](https://osu.ppy.sh/users/578943)
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Kano.jpg)](https://osu.ppy.sh/users/3036203)
+
+Involved in over four osu! World Cups and counting as both commentators and map selectors, the enigmatic duo of **omgforz** and **Kano** have directly contributed to the enormous success of the tournament overall. 
+
+Injecting much-needed perspective from top-end players into the tournaments, these two hypercarries have been responsible for a lot of changes that have made the OWC far better to actually play in, and have dedicated incredible amounts of time to make sure everything functions exactly as it should. To highlight this dedication, Kano has had multiple occasions of staying awake for over 20 hours to polish off selections for upcoming sets, and even managing to commentate a showcase directly afterwards.
+
+From cursing players to choosing maps, these two have never been far from the fray of the game's most popular tournament, and we hold their efforts as a core contribution towards the modernization of something so beloved by many.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Halogen.jpg)](https://osu.ppy.sh/users/169992)
+
+The cream of the osu!mania casting crop since 2015, when **Halogen-** isn't forgetting to put backgrounds in his maps, he is striking a powerful presence in the osu!mania scene as one of its most revered casters, map selectors and custom chart creators (namely *Contain* and *Scrap Syndome*). He is also the founder of SOFT, one of the osu!mania 4K community's most important tournaments, and presides as a role model for many of them.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Junihuhn.jpg)](https://osu.ppy.sh/users/4182339)
+
+**Junihuhn** has been faithfully creating video recaps highlighting moments of glory in the osu! World Cup since 2016, often featuring analysis and detailed descriptions of major happenings for the less informed. His work has been featured extensively on our official tournament streams, showcased on the front page in times long past.
+
+His efforts have helped make the tournament more accessible to so many people, and we are hugely thankful for his efforts.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Sartan.jpg)](https://osu.ppy.sh/users/4100941)
+
+**Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially *were* the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the pale.
+
+## Moderation
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Kobold84.jpg)](https://osu.ppy.sh/users/3227533)
+
+Holding the line in one of the game's most unruly language-based channels, **Kobold84** is the undisputed supermoderator of the Russian-speaking community, investing thousands of hours into keeping an entire subsection of the game orderly, fair and fun for everyone.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Death.jpg)](https://osu.ppy.sh/users/3242450)
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Dntm8kmeeatu.jpg)](https://osu.ppy.sh/users/5428812)
+
+Combined, **Death and Dntm8kmeeatu** put the support in the Support Team, collectively responsible for solving literally thousands of problems and answering questions for those in need, all while balancing their duties as members of the Global Moderation Team.
+
+## Development
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Milan.jpg)](https://osu.ppy.sh/users/1052994)
+
+A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, **Milan-**'s advice and aid have helped shape the backbone of the systems that govern osu!'s ranking cycle, and one of its primary projects for promoting the use of officially licensed music, all while maintaining his place in the Beatmap Nominators.
+
+## Nominators
+
+In an effort to acknowledge the people who form the spine of osu!'s ranking system, we will be awarding a new form of Elite badges each year to commemorate the contributions of that year's most impressive Beatmap Nominators.
+
+Only the most engaged qualify for such an accolade, those who truly stand at the top of their cohort as inarguably the most active and engaged Beatmap Nominators of all.
+
+To acknowledge these efforts, the Nomination Assessment Team have come together to write the following accolades describing what each of the Elite Nominators have done.
+
+### osu!
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Mordred.jpg)](https://osu.ppy.sh/users/7265097)
+
+**Mordred** is a stand out individual who has been extremely active in all of nominating, resetting, qualifying and disqualifying maps. On top of this, his enthusiasm towards pushing full version maps has not gone unnoticed. He definitely cares quite a lot about the quality of mapping on osu!, and his persistence goes to show how he deserves the title of Elite Nominator.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Cheri.jpg)](https://osu.ppy.sh/users/5226970)
+
+**Cheri** has been a supremely active nominator and very approachable for all kinds of issues. She does not hesitate to contribute wherever she sees possible, and this also shows in her hard work checking qualified as a QAH member and actively posting problems and suggestions on maps that can be improved further! She has been excelling as a Beatmap Nominator, and her kindness makes that even better. As someone doing so well, she embodies the kind of passion needed to be an Elite Nominator.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/eiri.jpg)](https://osu.ppy.sh/users/3388410)
+
+Everything you'd expect from a beatmap nominator and more, **eiri-** is definitely one of the best around. She's super active and excels in all of nominating, popping, and disqualifying maps, as well as generally checking maps in qualified. In addition to that, she's been very active in pushing maps from mappers both new and old across tons of musical genres.With everything covered, eiri- is definitely good at what she does!
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/bossandy.jpg)](https://osu.ppy.sh/users/360437)
+
+There are those who are incredible simply by being themselves. **bossandy** is not only a good nominator in terms of modding, but he is also very open minded about different mapping styles and always try to push maps from all kinds of difficulties regardless of how unconventional it may be and still maintain a good proficiency. His great performance paired with his very kind personality is what makes him stand out and earn not only the respect of others, but also the title of Elite Nominator!
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Lasse.jpg)](https://osu.ppy.sh/users/896613)
+
+While also serving as a key member of the QAT and later the NAT, **Lasse** has managed to maintain really high activity in nominating as well. He successfully nominated over 100 maps this year, and also disqualified more than anyone else,  all while having a keen eye in his modding. Lasse's mods are some of those that consistently understand what mappers are doing, spotting every mistake, and more!
+
+### osu!taiko
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/komasy.jpg)](https://osu.ppy.sh/users/1980256)
+
+**komasy** made a huge impact on osu!taiko during 2019. Within his 9 month tenure before resigning, komsay helped to push over **100** mapsets to the ranked category! On top of that, he has been very easy to approach, always responding if you have a question or need an opinion. komasy has helped osu!taiko as a mode, helped newer mappers to figure things out, and been a beacon of knowledge in the community.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Tyistiana.jpg)](https://osu.ppy.sh/users/1421452)
+
+Having stable activity throughout 2019, **Tyistiana** takes care with each and every mapset. Additionally, he actively partakes in disqualification discussions, and he recently does the vast majority of QAH checks too. He is serving actively both to push content and assure the quality of maps going for ranked, and is truly a backbone for the osu!taiko game mode!
+
+### osu!catch
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Jemzuu.jpg)](https://osu.ppy.sh/users/7890134)
+
+After a bit of a rocky start, osu!catch's longest standing nominator in terms of consecutive time (430 days!) has been nothing less than extraordinary over the last year. Boasting nearly unmatched statistics in resets, disqualifications, and nominations on top of an incredibly impressive tenure in the Quality Assurance Helpers, **Jemzuu** has been a massive help in just about every field that osu!catch has to offer. When it comes to being an Elite Nominator, it would be nearly impossible to overlook him.
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/wonjae.jpg)](https://osu.ppy.sh/users/5032045)
+
+Clocking in at just over a year served in the Beatmap Nominators, **wonjae**'s consistently high nomination activity has always been a massive boon to the group. In times when things have been slow, wonjae's strong presence on the nomination front cannot be understated. Leading the nomination numbers nearly every month is no small feat, especially on top of the generally low amount of resets he gets in comparison. It's for these reasons that wonjae joins the prestigious group of Elite Nominators.
+
+### osu!mania
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/MysticEyes.jpg)](https://osu.ppy.sh/users/6253266)
+
+**-MysticEyes** left a strong impression during his year in the Beatmap Nominators. Being the most active osu!mania BN, he also rarely had any issues in their nominations despite having the highest activity of all osu!mania nominators. On top of this, he was not scared to push maps different from what usually would get ranked. -MysticEyes would even be extremely kind and helpful to everyone - in every way, he really was the dream nominator!
+
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Kobii.jpg)](https://osu.ppy.sh/users/6209713)
+
+One of the most active osu!mania nominators since joining in early 2019, **\_Kobii** has been active in pushing maps in not just the 4k mode, or the 7k mode, but also 6k, 9k, and more! On top of that, they have been very approachable for mappers new and old in the osu!mania mapping community and serve as a great example of what a Beatmap Nominator can be!
+
+-------
+
+2019 was one of the strongest years osu! has had so far, and it is in no small part due to the efforts of those listed above.
+
+We know that so many people contribute to help make osu! awesome, and those we have awarded today are by no means the sole, exhaustive list of everyone who deserves one.
+
+osu! is unique among the thousands of communities on the internet in that we are shaped so very closely by those among us who choose to help, and we are all privileged to share in the result of so many people working together for a common goal.
+
+Thank you to everyone who contributes, and we hope to see your name on these lists one day.
+
+—the osu!team
