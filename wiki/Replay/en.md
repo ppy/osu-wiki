@@ -1,6 +1,8 @@
 ---
+needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 <!-- wiki -->
 <!-- [Auto wikilink]: /wiki/Game_Modifiers#-auto "Auto game modifier" -->

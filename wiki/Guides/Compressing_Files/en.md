@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because a lot of the tools mentioned here are dated and there are better alternatives -->
 
 # Compressing Files
 
