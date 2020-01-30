@@ -1,225 +1,191 @@
 ---
-outdated: true
+
+Modding v2
+mv2
+
 ---
 
 # Beatmap Discussion
 
-Beatmap Discussion (introduced as *Modding v2*) is now live!
+Beatmap Discussions (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus.
 
-## Submitting a beatmap for Beatmap Discussion
+When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated along with it. The discussion page can be reached by clicking on the `Discussion` button on the info page. <!--TODO: insert link to beatmap info page article-->
 
-### New beatmaps
+The beatmap discussion page consists of a few elements (from top-to-bottom):
 
-New beatmaps submitted via the Beatmap Submission System will use Beatmap Discussion.
+- Mode Selection
+- Title/Artist
+- Difficulty Selection
+- Sorting/Filtering Options
+- Visual Timeline
+- Beatmap Status
+- Modding Section
 
-### Old beatmaps
+## Quick-start: Using Beatmap Discussions
 
-A staff member has to move the beatmap manually to use Beatmap Discussion. [Ephemeral](https://osu.ppy.sh/users/102335) is currently in charge of transferring beatmapsets. All existing beatmaps in the WIP and pending statuses that do not have any mod posts in the forum have been converted to use Beatmap Discussion.
+It's important to keep a few things in mind to use the Beatmap Discussion page effectively:
 
-### Returning to the old modding system
+- Choose the correct mode and difficulty you wish to mod.
+- Select the proper section you are submitting your mod to.
+- **Only post one issue at a time.** Do not submit multiple issues in a single post.
+- Check to see if the issue has already been addressed when the similar post warning pops up.
+- Do you like the beatmap? Give your hype to help the beatmap move closer to nomination.
 
-It is no longer possible to return to the old modding system. The only beatmaps that may use the old system are those with mod posts. If beatmaps already use Beatmap Discussion, the forum thread will not have a reply button, instead, it will replaced with a button that redirects to the Beatmap Discussion panel.
+## Mode selection
 
-## Accessing the Beatmap Discussion page
+![](img/modes.jpg "Mode selection")<!--TODO: Add Updated Images-->
 
-### Through new.ppy.sh:
+Mode selection changes the game mode between the different modes: osu!standard, osu!taiko, osu!catch, and osu!mania. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is only really used for hybrid beatmaps, which means that a beatmaps consists of multiple game-modes. For normal beatmaps the discussion page will always switch to the most common game mode.
 
-Click on the `Discussion` button in the beatmap info page.
-
-![](img/info.jpg "Beatmap info page")
-
-### Through osu.ppy.sh:
-
-Clicking on `Modding/Discussion` on the beatmap's page will take you to the page, if it's currently in the Beatmap Discussion system.
-
-## Beatmap Discussion page
-
-![](img/beatmap-discussion.jpg "The top portion of the Beatmap Discussion page")
-
-### Mode selection
+## Title/Artist
 
 ![](img/modes.jpg "Mode selection")
 
-Changes the game mode between osu!standard, osu!taiko, osu!catch, and osu!mania. You can only select each game mode if the beatmapset has a difficulty with said game mode.
+Displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). To see correct formatting, romanization and potential tags to be added, see [](/wiki/Ranking_Criteria#metadata). Clicking this text will navigate back to the beatmap info page.
 
-## Beatmap page / Difficulty selection
+## Difficulty selection
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-Clicking on the Artist/Title of the beatmap will take you back to the Beatmap Information page. You can select a difficulty to mod using the dropdown menu. The number that appears besides the difficulty name is the number of pending discussions which have to get resolved. **Make sure you are on the correct difficulty before submitting mods to the beatmap!**
+You can select different difficulties through the dropdown menu. This will show all currently available diffifculties, along with older deleted ones that have had suggestions/problems. The number that appears besides the difficulty name is the number of unresolved posts on that specific difficulty.
 
-### Modding status
+It is important to check this menu before submitting any mods to see if you are submitting them to the correct difficulty and avoid any miscommunication.
+
+## Sorting/Filtering options
 
 ![](img/modding-status.jpg "For your sorting needs")
 
-All of the mods below are for the selected difficulty. Clicking on any of these will show the specific mods in the timeline and in the Discussion section.
+Sorting/filtering options change the way beatmap discussions are viewed. Whenever an option is chosen, it changes both the modding timeline and the modding section to include only those types of posts. Different options include:
 
-- Mine: Mods you have contributed.
-- Resolved: Mods the creator has responded to and marked as resolved.
-- Pending: Mods that haven't been replied to or marked as resolved.
-- Praises: Mods that have been submitted as a praise
-- All: Every suggestion, problem, and praise posted on the beatmap's difficulty and the beatmapset's general section.
+- Mine: Shows your own posts
+- Notes: Shows any notes by the mapper or [Beatmap Nominators](/wiki/Beatmap_Nominators)
+- Resolved: Shows resolved posts
+- Pending: Shows pending posts
+- Praises: Shows praise and hype posts
+- All: Shows all posts
 
-### Modding timeline
+## Visual Timeline
 
 ![](img/timeline.jpg "Mod posts, time-stamped")
 
-This displays all of the mods made for said difficulty that has a timestamp. Clicking on these will scroll down to the mod posted at that timestamp.
+The visual timeline displays all of the mods made for a difficulty which use a timestamp. Clicking on any of these will scroll down to the mod posted at that timestamp. Note that any filtering options will change what is displayed here.
+
+The visual timeline is a useful tool for seeing how much a beatmap has been modded at a glance. A tightly packed timeline would mean that a beatmap has received a lot of attention already.
 
 ## Beatmap status
 
 ![](img/beatmap-status.jpg "Contains important information!")
 
-### Beatmap creator
+The beatmap status bar shows everything relevant to a beatmap's spot in the [Beatmap Ranking Procedue](/wiki/Beatmap_ranking_procedure). This includes:
 
-This contains the creator who submitted the beatmapset, shows the submission date, and the date the beatmap was last updated.
+- Hype train
+- General info
+- Watch/Unwatch buttons
+- Beatmap Page button
+
+### Hype train
+
+The Hype Train tracks how many [hypes](/wiki/Glossary#hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/Beatmap_Nominators). To read more about this process, see the [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure).
+
+Hypes can only be given by going to the General `(All Difficulties)` tab. It will not work through the `General` or the `Timeline` tabs.
+
+### General info
+
+General info shows the creator who submitted the beatmapset, the submission date and the date the beatmap was last updated. This includes status changes like a beatmap getting Ranked, Loved or Graveyarded. To read more about different types of statuses a beatmap can have see [Beatmaps](/wiki/Beatmaps).
 
 ### Watch/Unwatch
 
-This replaces beatmap subscription. You can track the beatmaps' status and open issues. This page is accessed via the website's Home page by clicking on [`modding watchlist` link](https://osu.ppy.sh/beatmapsets/watches) located near the top of the page.
+The watch/unwatch buttons allow for following/unfollowing the developments of the beatmapset. If a beatmap is followed new posts and replies that are made on that discussion page will give you a notification on osu! web.
 
-### Hype Train
+You can manage all of your subscriptions through the [`modding watchlist` link](https://osu.ppy.sh/beatmapsets/watches), which can also be accessed through the home page menu.
 
-*Note: You now have to click `Hype` to add hype; giving praise will no longer add hype automatically.*
+### Beatmap page
 
-Hype train is similar to the previous star priority system.
+The beatmap page button will allow you to go back to the beatmap info page. This can also be achieved by click on Title/Artist text. <!--TODO: Insert link, when that article exists at some point-->
 
-> Adding praise will raise this beatmap's hype, making it more visible for nomination and ranking!
+## Modding section
 
-<!-- *Note: Players are required to play through a difficulty in the beatmapset in order to add Hype to a beatmap.* -->
+Modding happens through three sections. These sections separate posts of different types and split them up into readable formats. The three sections are:
 
-Praise must be done in the General `(All Difficulties)` section to add Hype. It will not work through the `General` or the `Timeline` tabs.
+- `General(All difficulties)`
+- `General(This difficulty)`
+- `Timeline`
 
-### Nomination
+Aside from those, there is a 4th `History` section which shows all changes to the discussion page in chronological order according to post-time. Clicking on any issue will jump to the specifc post.
 
-Once a beatmap accumulates at lease 5 hype, the beatmap is eligible for nomination. This works as it did with the previous modding system. The beatmap is required to have 2 nominations by the [Beatmap Nominators](/wiki/Beatmap_Nominators) to move into the [qualified](/wiki/qualified) state.
+### General (All difficulties)
 
-## Mod submission field
+This category shows posts that apply to all difficulties. These are few and big in length but often require the most time for the beatmap owner to fix, as their scope spans all difficulties. Common posts in this category include metadata, notes and discussion on the beatmapset as a whole.
+
+This is also where [hype](/wiki/Glossary#hype) can be added to push the beatmap closer towards nomination and the ranked status.
+
+### General (This difficulty)
+
+Posts in this category only apply to the currently selected difficulty. Common posts in this category include beatmap settings, recurring issues and general discussion on the specific difficulty.
+
+### Timeline
+
+The timeline category is where issues at specific points in a difficulty are addressed. Every post in this category must include a timestamp to be posted. The first timestamp placed will be the timestamp shown in the Discussion section. Any afterwards will be handled like normal.  <!--maybe/ All posts in this section can be ordered according to the timestamp, or through which posts have last have been updated. -->
+
+## Modding field
 
 ![](img/mod-submission-field.jpg "The place where modding magic happens.")
 
-### Mod section submission
+The modding field is the place where [modding](/wiki/Modding) takes place and mods are written. Once finished writing, the mod needs to be posted. To do this one of the 'mod type'-buttons need to be pressed. The three buttons are:
 
-This is what section of the beatmap you will be submitting your concerns to.
+- Praise
+- Suggestion
+- Problem
 
-- `General (all difficulties)`: General issues with the beatmap such as metadata and general discussion on the beatmapset as a whole. You can also add Hype to a beatmap here by posting a comment with Praise.
-- `General`: General issues with the difficulty such as beatmap settings and general discussion on the specific difficulty.
-- `Timeline`: Issues at certain points in the beatmap. Must contain a timestamp. The majority of mods will end up in this section.
-- `History`: Shows when issues were marked as resolved. You can click on any issue to jump to the post.
+The praise button is for praise and encouragment. The suggestion button is used for posts about elements that aren't directly in conflict with any rules. The problem button is used for posts that are in conflict with the [Ranking Criteria](/wiki/Ranking_Criteria), or which are considered intersubjectively wrong. Once a button is pressed your mod will be submitted to the discussion page.
 
-![](img/history.jpg)
-
-### Modding field
-
-![](img/modding-field.jpg "Where modding magic happens")
-
-This is where you type your mod. If you use the Timeline section, you must include a timestamp in the post. The first timestamp placed will be the timestamp shown in the Discussion section. The General sections do not require timestamps, but may include them.
-
-### Similar post warning
-
-![](img/similar-post-warning.jpg)
+If you use the `Timeline` section, you must include a timestamp in the post. The first timestamp placed will be the timestamp shown in the Discussion section. The General sections do not require timestamps, but may include them.
 
 If your timestamp submitted through the Timeline section is close to another mod already posted, you will have to confirm that the mod doesn't address the issue you are currently submitting. **Please check the discussion field before checking the box!**
 
-### Mod type
+It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the [modding field](#modding-field) to scroll with you, once you have scrolled down beyond the modding field.
 
-![](img/mod-type.jpg)
-
-This is where you submit your mod. You can choose between `Praise`, `Suggestion`, or `Problem`. Each is fairly self-explanatory. **Clicking on this will submit your mod. If you made any mistake or need to make an edit to your mod, find the post in the Discussion section.** You can add Hype to the beatmap by submitting praise in the `General (All Difficulties)` section.
-
-### Pin
-
-Enabling the pin will allow the [modding field](#modding-field) to scroll with you, once you have scrolled down beyond the modding field.
-
-## Mod Discussion field
+## Discussions
 
 ![](img/discussions.jpg)
 
-### Functions
+Discussions are where all modposts are stored, and able to be sorted through. Discussions are listed differently depending on which modding category has been chosen. On the `Timeline` tab they will be sorted chronologically according to the first timestamp provided. On the `General (All difficulties)` and `General (This difficulty)` they will be sorted by last update. It is possible to change how posts are sorted with the buttons at the top of the discussion field.
 
-- `Sort by`: Sort the posts by either `timeline` (default; ordered on the timestamp given from the mod post) or `last updated` (ordered on when the post itself was posted)
-- `Collapse all` and `Expand all` and the up arrow: These will show/hide posts.
-- Thumbs Up/Down: Like/Dislike the mod.
-  - Everyone but the mod submitter can give a thumbs up.
-  - **Giving a thumbs up will now give the mod submitter [Kudosu!](/wiki/Kudosu!) on suggestions or problems.**
-  - Only [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu!).
-- Timeline: Shows the timestamp the issue addresses. Only available in the Timeline section.
-- CREATOR icon: Displays responses/submissions from the user who made the beatmapset.
-- permalink, edit, delete: Permalink grabs a direct link to the post. Edit allows the submitter to edit their submission. Delete allows the submitter to remove their submission.
-- `Respond`/`Reply`: Reply to the submission. Pressing `Enter` or clicking `Reply` afterwards will submit your response.
-  - Until you give a thumbs up, this will read `Respond`. After giving a thumbs up, this will read `Reply`.
-- `Mark as Resolved`: The creator or the mod poster may select this when the issue has been addressed and either accepted or denied.
-- `Reopen a Discussion`: If the submission needs further discussion, the creator or mod submitter may reopen the submission by responding and unchecking Resolved.
+Note that any [sorting/filtering options](#Sorting/Filtering) will change what is displayed here as well. Other buttons at the top of the discussion field that change discussion formatting include `Collapse all` and `Expand all` which will show/hide posts respectively.
 
-## Hype, Nomination, and Kudosu!
+As for discussions themselves, they have a variety of features as well:
 
-### Hype
+### Communication
 
-Hype is used to help push beatmaps forward to nomination; similar to how Star Priority was previously used. Once a beatmapset receives 5 Hype, it becomes eligible for Nomination. Please note the following:
+Discussions can be opened, closed or discussed further by adding replies to a `Problem` or `Suggestion` post. This is done by clicking the `Respond`/`Reply` button. After finishing your reponse pressing `Enter` or clicking `Reply` afterwards will submit it.
 
-- Each user has a limited supply of hype (5 per week to start).
-  - You will regain a hype 7 days after it was used.
-<!-- - Hype can only be used after playing through a difficulty from a beatmapset. -->
+While modding you may stumble upon closed issues which you have found elsewhere. In this case it may be worthwhile to re-open the issue. This can be done by replying like above but clicking the `Reply and Reopen` button instead.
 
-### Nomination
+If you as the mapper or mod submitter feel that an issue has been addressed you can use the `Mark as Resolved` button to close the discussion.
 
-Nomination is similar to the previous modding system. A beatmap must receive 2 nominations from two [Beatmap Nominators](/wiki/Beatmap_Nominators) before being automatically moved to the qualification stage. Beatmaps must have all suggestions and problems resolved before it can become ranked. BN/NAT can reset nominations by posting a problem in the discussion field.
+### Thumbs Up/Down
 
-### Kudosu!
+This will Like/Dislike the mod. This is useful for modders as it will give them [Kudosu!](/wiki/Kudosu!) which is needed for entry into the [Beatmap Nominators](/wiki/Beatmap_Nominators). So make sure to use this after a helpful mod.
 
-![](img/thumbs.jpg "Thumbs up for Kudosu!")
+There are a couple of restrictions around liking/disliking mods:
 
-Giving a thumbs up to a suggestion or problem in the discussion field will give the modder Kudosu!. The amount of thumbs up received determines how much Kudosu! the modder gets. Any user besides the poster can thumbs up any post.
+- Everyone but the mod submitter can give a thumbs up.
+- Only [BN](/wiki/Beatmap_Nominators), [NAT](/wiki/People/Nomination_Assessment_Team), and [GMT](/wiki/GMT) members can give a thumbs down (to deny any Kudosu! given). <!--TODO: Check formatting of these links -->
 
-*Note: Normal users are limited to 60 votes per hour, while BN and NAT members do not have this limit.*
+### Discussion timeline
 
-Currently, these are the thresholds for earning a certain amount of Kudosu!:
+The timeline to the left of discussion shows the timestamp the issue addresses. This is only available in the `Timeline` section.
 
-- 1 thumbs up = 1 Kudosu!
-- 2 thumbs up = 2 Kudosu!
-- 5 thumbs up = 3 Kudosu!
+### Tags
 
-BN, NAT, and GMT members can deny Kudosu! by giving a thumbs down.
+Tags display important roles that are relevant for the beatmap discussion. These include members like `MAPPER`, `BN`, `NAT`, `GMT` & `DEV`, who have more options than a normal user. <!--TODO: Figure out if there are more than just those.-->
 
-## Reminders
+### Formatting tools
 
-- Choose the correct mode and difficulty you wish to mod!
-- Select the proper section you are submitting your mod to.
-- **Only post one issue at a time.** Do not submit multiple issues in a single post!
-- The Timeline section requires at least one timestamp before you can submit your post.
-- Check to see if the issue has already been addressed when the similar post warning pops up.
-- Do you like the beatmap? Give your hype to help the beatmap move closer to nomination!
-- Be sure to vote on suggestions and/or problems, as they now award Kudosu! to modders.
+Formatting tools include:
 
-## Tips
+- Permalink
+- Edit
+- Delete
 
-- You can filter the mods by using the buttons on the Beatmap Information's Mod Status. You can for example, look at only pending posts.
-- You can edit or delete your posts if you submitted a post and found a mistake.
-- As the creator, you may reopen any previously resolved issue by responding to the post and unchecking Resolved.
-- You can edit your Beatmap description by using the beatmapset's page. Click on the edit icon in the top right of the description field.
-
-## Step by step guide to posting a mod
-
-1. Select the proper game mode at the top of the beatmap's page you wish to mod (osu!standard, osu!taiko, osu!catch, osu!mania)
-2. Select the difficulty you wish to mod in the drop down menu. (Easy, Normal, Hard, Insane, etc.)
-3. Select the section you wish to post your mod in (`General (all difficulties)`, `General`, or `Timeline`)
-4. Type your mod out in the discussion field. Use a timestamp if you are using the Timeline section. **One issue per post!**
-5. Select the type of mod you are making (`Praise`, `Suggestion`, or `Problem`)
-
-Your post will be submitted! You can restart at step 3 if you wish to continue modding the same difficulty. Don't forget to Hype the beatmap if you want to help move it forward for nomination.
-
-## FAQ
-
-### Will I be able to mod with the older system after Beatmap Discussion is released?
-
-You should mod with the system the creator has chosen. If they focus on Beatmap Discussion, mod with Beatmap Discussion. Otherwise your mods may go unnoticed.
-
-### I don't like Beatmap Discussion! How do I go back to the older system?
-
-Beatmap Discussion is now live. There is no way to return to the older system; however, pre-Beatmap Discussion beatmaps with mods may still use the previous modding system.
-
-## See also
-
-- Original forum thread: [Modding Discussion Guide (MV2)](https://osu.ppy.sh/community/forums/topics/650961) by [Lanturn](https://osu.ppy.sh/users/1446665)
-- [pishifat](https://osu.ppy.sh/users/3178418)'s video on Beatmap Discussion: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- peppy's Beatmap Discussion forum thread (for feedback): [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/community/forums/topics/662559)
+Permalink grabs a direct link to the post. This is useful when cross-referencing issues that appear multiple places. Edit allows the submitter to edit their submission in case of mistakes. Delete allows the submitter to remove their submission.
