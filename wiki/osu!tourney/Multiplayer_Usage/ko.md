@@ -4,7 +4,7 @@
 
 멀티플레이 방의 이름은 클라이언트 하단의 제어판에 적혀있는 양식을 바탕으로 지어져야 합니다.
 
-양식은 다음을 따릅니다:
+양식은 다음을 따릅니다:  
 `Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
 
 `Acronym_in_tournament.cfg` 파일 값은 [설치 가이드](/wiki/osu!tourney/Setup) 에 따라 `tournament.cfg` 내에 있는 `acronym` 항목에 따릅니다.

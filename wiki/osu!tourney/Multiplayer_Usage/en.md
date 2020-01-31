@@ -8,7 +8,7 @@ needs_cleanup: true
 
 The multiplayer room must be named based on the template listed in the control panel of the osu!tourney client.
 
-The template shown consists of:
+The template shown consists of:  
 `Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
 
 `Acronym_in_tournament.cfg` gets entirely replaced with the value of `acronym` in the `tournament.cfg` file from the [setup guide](/wiki/osu!tourney/Setup).
