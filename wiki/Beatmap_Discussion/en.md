@@ -9,7 +9,7 @@ mv2
 
 Beatmap Discussions (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus.
 
-When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated along with it. The discussion page can be reached by clicking on the `Discussion` button on the info page. <!--TODO: insert link to beatmap info page article-->
+When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated along with it. The discussion page can be reached by clicking on the `Discussion` button on the info page. <!--TODO: insert link to beatmap info page article, when that article exists-->
 
 The beatmap discussion page consists of a few elements (from top-to-bottom):
 
@@ -45,7 +45,7 @@ Mode selection changes the game mode between the different modes: [osu!standard]
 
 ![](img/beatmap-header.jpg "Beatmap header.")
 
-The beatmap header displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking this text will navigate back to the beatmap info page.
+The beatmap header displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the beatmap info page.
 
 To see correct formatting, romanization and potential tags to be added to the title and artists fields, see the [Ranking Criteria](/wiki/Ranking_Criteria#metadata).
 
@@ -139,13 +139,13 @@ If you post in the `Timeline` tab, you must include a timestamp in your post. Th
 
 If your timestamp submitted through the Timeline section is close to another mod already posted, you will have to confirm that the mod doesn't address the issue you are currently submitting. **Please check each post before checking the box!**
 
-It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the [modding field](#modding-field) to scroll with you.
+It might be beneficial to `Pin` the modding field while checking other issues. Enabling the pin will allow the [submission field](#submission-field) to scroll with you.
 
 ## Discussions
 
 ![](img/discussions.jpg "Where the discussion takes place!")
 
-Discussions are where the suggestions and problems from the [modding field](#modding-field) are placed once submitted. Here users visiting a beatmap discussion page can see posts made by all other users. Other users will be able to participate in discussion on posts by adding replies to a post. This is done by clicking the `Respond`/`Reply` button and writing a response. After finishing a reponse, pressing `Enter` or clicking `Reply` will submit it to the discussion.
+Discussions are where the suggestions and problems from the [submission field](#submission-field) are placed once submitted. Here users visiting a beatmap discussion page can see posts made by all other users. Other users will be able to participate in discussion on posts by adding replies. This is done by clicking the `Respond`/`Reply` button and writing a response. After finishing a reponse, pressing `Enter` or clicking `Reply` will submit it to the discussion.
 
 As the mapper or creator of a modpost, you will be able to close an issue with the `Mark as Resolved` button once you feel an issue has been addressed. This marks the issue has having been dealt with to other users and removes it from the `Pending` [sorting option](#sorting-options).
 
