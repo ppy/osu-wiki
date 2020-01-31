@@ -18,7 +18,7 @@ This tutorial will require several things. These will be listed in case so if yo
 
 ## Starting up
 
-![Inside of our music folder. Look that we are on the sound/stream folder.](GameMusicTutorial-Screen1.jpg "Inside of our music folder. Look that we are on the sound/stream folder.")
+![Inside of our music folder. Look that we are on the sound/stream folder.](img/GameMusicTutorial-Screen1.jpg "Inside of our music folder. Look that we are on the sound/stream folder.")
 
 First download and install the required applications in your computer (If you don't have done yet). Once you have them installed, open foobar2000 and open Windows Explorer to the music folder of your extracted backup.
 *Note: The name of the folder can vary depending of the game. The usual names for the music folder are **stream, sound, bgm, music**.*
