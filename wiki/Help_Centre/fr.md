@@ -598,7 +598,7 @@ Pour l'activer, essayez les étapes suivantes:
 
 **Vous pouvez régler ce problème en définissant une plus petite zone sur votre appareil.**
 
-Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. Un exemple peut être vu [ici](https://w.ppy.sh/d/dc/Tabarea.png).
+Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. Un exemple peut être vu [ici](img/Tabarea.png).
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 
