@@ -6,7 +6,7 @@ From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/co
 
 In order to use custom hitsound files in osu!, you'll first need some custom hitsounds! The [Custom Hitsound Library](../Custom_Hitsound_Library/) is a great resource for existing sound samples, including cymbals, drums, bells, whistles and more! Alternatively, if you can't find what you're looking for, you can make your own samples!
 
-Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the sounds in the music you are trying to hitsound. However, they but may still be useable for certain special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
+Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the sounds in the music you are trying to hitsound. However, they may still be useable for certain, special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 
 Once you have your desired sound files, they should be moved into the song folder of the beatmap you would like to use them in. If you don't know where your song folder is located, follow these directions:
 1. Open osu!
@@ -16,9 +16,15 @@ Once you have your desired sound files, they should be moved into the song folde
 5. Click *Open Song Folder*
 6. *Paste your files here*
 
+If you're running osu! on MacOS, you may need to take a slightly different approach:
+
+1. Right-click on the osu! application icon and select "Show Package Contents"
+2. Locate the Song Folder of *your beatmap* in `drive_c -> osu! -> Songs` (sorting by "Last Modified" is a good idea)
+3. *Paste your files here*
+
 Once the sound files have been placed inside the beatmap's Song Folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
 
-Three basic categories of hitsound, refered to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be further subdivided into different sounds. The most common of these are the "hitnormal", "hitclap", "hitwhistle" and "hitfinish" hitsounds, although some more specialized sounds exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
+Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be further subdivided into different sounds. The most common of these are the "hitnormal", "hitclap", "hitwhistle" and "hitfinish" hitsounds. More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
 
 *For a full list of hitsounds that can be modified, please refer to the [Skinning entry on hitsounds](../../Skinning/Sounds#hitsounds).*
 
