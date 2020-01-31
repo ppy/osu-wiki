@@ -66,7 +66,7 @@ If you want your spinner to have the same background as the actual map, it can b
 
 ### Don't worry if the spinner looks wrong in the editor
 
-![Tutorial Image 9](img/MPCS_09.png "Tutorial Image 9")
+![Tutorial Image 9](img/MPCS_09.jpg "Tutorial Image 9")
 
 ### Cropping the background
 
