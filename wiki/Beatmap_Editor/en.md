@@ -9,6 +9,8 @@ The beatmap editor is separated into four main sections which can be seen on the
 - Timing
 - Song Setup
 
+For Beatmap Editor Shortcuts, see [Shortcut key reference](/wiki/Shortcut_key_reference).
+
 ## Compose
 
 Compose is the section where a majority of beatmapping happens. Most mappers spend more time in this category than all of the other categories combined, since this is where gameplay elements like circles, sliders, and spinners are placed. To learn more about this section, see the [compose article](/wiki/Beatmap_Editor/Compose).
@@ -36,5 +38,3 @@ Other elements in the beatmap editor include:<!--TODO: Update as articles are ch
 - [Menu](Menu): An explanation about the menu buttons at the top of the beatmap editor.
 - [SB Load](SB_Load): A number used to tell how demending a storyboard is. Any number past 5x is bad for ancient machines.
 - [Timelines](Timelines): The top portion of the beatmap editor that displays the placed hit objects, breaks, and more.
-
-For Beatmap Editor Shortcuts, see [Shortcut key reference](/wiki/Shortcut_key_reference).
