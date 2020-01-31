@@ -341,7 +341,7 @@ Absolutamente nada. Não existe diferenças comparando um jogador level 100 cont
 
 Você provavelmente esta visualizando o modo de jogo errado. Clique no modo de jogo que você esta jogando em seu perfil.
 
-![](img/Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+![](img/Profile_mode_buttons.gif)
 
 ## Porque estou vendo linhas brancas na tela aleatoriamente toda vez que jogo?
 
