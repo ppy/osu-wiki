@@ -1,6 +1,6 @@
 # Storyboard Scripting - allgemeine Regeln
 
-![Ein Bespiel eines Skriptes im .osb.](SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
+![Ein Bespiel eines Skriptes im .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
 
   Diese Seite und der Rest von der Anleitung beschreibt die Zeilen des geskripteten Codes in einer .osb oder .osu Datei unter dem `[Events]`. Die Befehle in der .osb Datei wird von allen vorhandenen Schwierigkeitsstufen in einer Beatmap verwendet; wenn sie jedoch in .osu enthalten sein sollten, werden sie nur in der gegebenen Schwierigkeitsstufe angewendet.
 
@@ -16,7 +16,7 @@
 
 ### Auflösungen
 
-![Editor screen size. Green is screen size and Red is playarea](SBS_SS.jpg "Editor screen size. Green is screen size and Red is playarea")
+![Editor screen size. Green is screen size and Red is playarea](img/SBS_SS.jpg "Editor screen size. Green is screen size and Red is playarea")
 
 -   Die Bildfläche ist 640 Pixel breit und 480 Pixel hoch `(640x480)`.
     -   Üblicher Spielbereich ist 510 Pixel breit und 385 Pixel hoch `(510x385)`.
@@ -82,7 +82,7 @@ Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map keine Pause
 
 ### Zeit
 
-![Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.](SBS_Time.jpg "Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.")
+![Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.](img/SBS_Time.jpg "Benutzen Sie STRG+C, um den Zeitpunkt zu kopieren.")
 
 -   Die Zeit wir in Millisekunden gemessen (1000 ms = 1 second) ab dem Start der Liedes, negative Werte für mögliche Intros sind auch möglich.
 -   Die Zeit im SB hängt nicht vom Zeitpunkt der Beatmap selbst ab (z. B. wie viele BPMs vorhanden sind). Daher wird empfohlen, dass die Beatmap einigermaßen gut zeitlich angepasst wird, bevor am Storyboard gearbeitet wird, da es sonst schwieriger wird, diese Zeiten später richtig anpassen.
