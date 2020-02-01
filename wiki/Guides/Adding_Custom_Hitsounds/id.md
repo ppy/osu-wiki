@@ -23,7 +23,7 @@ Tergantung jenis hitsound mana yang Anda inginkan, Anda harus menamai file terse
 
 Kemudian Anda harus memutuskan untuk menjadikannya normal hit, clap, whistle atau finish.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Contoh 1
 
@@ -39,4 +39,4 @@ Seperti `normal-hitclap2.wav` atau `soft-hitfinish3.wav`
 
 Jangan lupa buka timing setup dan ubah hitsound ke *Custom*, dan pilih nomor yang lebih spesifik.
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")
