@@ -2,7 +2,7 @@
 
 Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) geöffnet werden.
 
-![Chatkonsole im Hauptmenü](Chatconsole1.png "Chatkonsole im Hauptmenü")
+![Chatkonsole im Hauptmenü](img/Chatconsole1.png "Chatkonsole im Hauptmenü")
 
 - Die verschiedenen Tabs zeigen deine offenen Channel an. Das gelbe Plus-Symbol öffnet eine Liste aller verfügbaren Channel, denen du dann einfach beitreten kannst.
 - Die Farben der Benutzernamen im Chat haben verschiedene Bedeutungen:
@@ -28,7 +28,7 @@ _Die [osu!academy](/wiki/osu!academy) (englisch) hat dieses Thema in [Episode 6 
 
 Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 
-![Erweiterte Chatkonsole](Chat_Console-Extended.png "Erweiterte Chatkonsole")
+![Erweiterte Chatkonsole](img/Chat_Console-Extended.png "Erweiterte Chatkonsole")
 
 Von jedem Spieler, der in osu! eingeloggt ist, erscheint ein Panel in der erweiterten Chatkonsole. Standardmäßig werden je Spieler folgende Informationen angezeigt: Name, Gesamtpunktzahl, Rang, allgemeine Accuracy, Play-Anzahl und der Avatar. Wenn der Mauszeiger über das Panel bewegt wird, werden andere Informationen anzeigt: Name, Rang, Avatar, lokale Uhrzeit, Zeitzone, Standort (Land) und, falls vom Nutzer zugelassen, die Stadt und momentane Aktivität.
 
@@ -49,21 +49,21 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
 
  | Panel-Farben | Erklärung |
  | ------------ | --------- |
- | ![Spieler ist anwesend](Chat_Console-Idle.png "Spieler ist anwesend") | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten. |
- | ![Spieler spielt](Chat_Console-Playing.png "Spieler spielt") | **Grau** - Der Spieler spielt gerade eine Beatmap im Solomodus. |
- | ![Spieler schaut jemandem zu](Chat_Console-Watching.png "Spieler schaut jemanden zu") | **Hellblau** - Der Spieler sieht entweder jemandem live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
- | ![Spieler editiert eigene Map](Chat_Console-Editing.png "Spieler editiert eigene Map") | **Rot** - Der Spieler bearbeitet eine eigene Beatmap. |
- | ![Spieler testet eine Map](Chat_Console-Testing.png "Spieler testet eine Map") | **Lila** - Der Spieler testet eine Beatmap im Editor. |
- | ![Spieler lädt eine Map hoch](Chat_Console-Submitting.png "Spieler lädt eine Map hoch") | **Türkis** - Der Spieler submittet eine Beatmap (lädt also eine ganze Map oder ein Update hoch). |
- | ![Spieler modded eine Map](Chat_Console-Modding.png "Spieler modded eine Map") | **Grün** - Der Spieler moddet oder editiert eine Beatmap von jemand anderem. |
- | ![Spieler ist im Mehrspieler](Chat_Console-Multiplayer.png "Spieler ist im Mehrspieler") | **Braun** - Der Spieler ist im Mehrspielermodus, spielt aber gerade nicht. |
- | ![Spieler spielt im Mehrspieler](Chat_Console-Multiplaying.png "Spieler spielt im Mehrspieler") | **Gelb** - Der Spieler spielt eine Beatmap im Mehrspieler. |
- | ![Spieler ist AFK](Chat_Console-Afk.png "Spieler ist AFK") | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard). |
- | ![Spieler ist per IRC verbunden](Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/IRC/ "IRC")-Client eingeloggt. |
+ | ![Spieler ist anwesend](img/Chat_Console-Idle.png "Spieler ist anwesend") | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten. |
+ | ![Spieler spielt](img/Chat_Console-Playing.png "Spieler spielt") | **Grau** - Der Spieler spielt gerade eine Beatmap im Solomodus. |
+ | ![Spieler schaut jemandem zu](img/Chat_Console-Watching.png "Spieler schaut jemanden zu") | **Hellblau** - Der Spieler sieht entweder jemandem live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
+ | ![Spieler editiert eigene Map](img/Chat_Console-Editing.png "Spieler editiert eigene Map") | **Rot** - Der Spieler bearbeitet eine eigene Beatmap. |
+ | ![Spieler testet eine Map](img/Chat_Console-Testing.png "Spieler testet eine Map") | **Lila** - Der Spieler testet eine Beatmap im Editor. |
+ | ![Spieler lädt eine Map hoch](img/Chat_Console-Submitting.png "Spieler lädt eine Map hoch") | **Türkis** - Der Spieler submittet eine Beatmap (lädt also eine ganze Map oder ein Update hoch). |
+ | ![Spieler modded eine Map](img/Chat_Console-Modding.png "Spieler modded eine Map") | **Grün** - Der Spieler moddet oder editiert eine Beatmap von jemand anderem. |
+ | ![Spieler ist im Mehrspieler](img/Chat_Console-Multiplayer.png "Spieler ist im Mehrspieler") | **Braun** - Der Spieler ist im Mehrspielermodus, spielt aber gerade nicht. |
+ | ![Spieler spielt im Mehrspieler](img/Chat_Console-Multiplaying.png "Spieler spielt im Mehrspieler") | **Gelb** - Der Spieler spielt eine Beatmap im Mehrspieler. |
+ | ![Spieler ist AFK](img/Chat_Console-Afk.png "Spieler ist AFK") | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard). |
+ | ![Spieler ist per IRC verbunden](img/Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/IRC/ "IRC")-Client eingeloggt. |
 
 Klicke auf ein Nutzerpanel, um zum Optionsmenü zu gelangen:
 
-![Nutzerpaneleinstellungen](DE-Chat_Console-Userpaneloptions.jpg "Nutzerpaneleinstellungen")
+![Nutzerpaneleinstellungen](img/DE-Chat_Console-Userpaneloptions.jpg "Nutzerpaneleinstellungen")
 
 Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie haben folgende Funktionen:
 

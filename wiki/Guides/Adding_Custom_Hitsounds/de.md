@@ -26,7 +26,7 @@ Die Namensgebung ist für "finish", "whistle", "clap" und "normal hit" egal.
 
 Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateiname mit "soft", "normal" oder "drum" beginnen.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Beispiel 1
 
@@ -42,4 +42,4 @@ Wie `normal-hitclap2.wav` oder wie `soft-hitfinish3.wav`
 
 Man sollte nicht vergessen, dass im *Timing Setup* der Hitsound auf Custom mit der jeweiligen Nummer gestellt werden muss.
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")
