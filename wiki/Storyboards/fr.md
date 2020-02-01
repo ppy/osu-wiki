@@ -1,7 +1,7 @@
 # Storyboards
 
-![Cette scène est affichée pendant que vous jouez dans Walkie Talkie Man (aucun SB)](Sbpassing.png "Cette scène est affichée pendant que vous jouez dans Walkie Talkie Man (aucun SB)")
-![Ceci est indiqué lorsque vous avez manqué ou obtenu un 50 dans le combo précédemment joué.](Sbfailing.png "Ceci est indiqué lorsque vous avez manqué ou obtenu un 50 dans le combo précédemment joué.")
+![Cette scène est affichée pendant que vous jouez dans Walkie Talkie Man (aucun SB)](img/Sbpassing.png "Cette scène est affichée pendant que vous jouez dans Walkie Talkie Man (aucun SB)")
+![Ceci est indiqué lorsque vous avez manqué ou obtenu un 50 dans le combo précédemment joué.](img/Sbfailing.png "Ceci est indiqué lorsque vous avez manqué ou obtenu un 50 dans le combo précédemment joué.")
 
 Un **storyboard** (SB) est un arrière-plan animé personnalisé qui accompagne une [beatmap](/wiki/Beatmaps), souvent à des fins décoratives et parfois à des fins de jeu. Un storyboard peut être composé de presque tout, mais il consiste généralement en des effets visuels conçus pour rendre une map plus esthétique et plus distinctive pour les utilisateurs. Les storyboards sont inspirés des arrière-plans animés trouvés dans [Osu! Tatakae! Ouendan](/wiki/Glossary#ouendan). Comme leur inspiration, les storyboards peuvent s’adapter aux performances du joueur et afficher différentes choses en fonction de celles-ci.
 

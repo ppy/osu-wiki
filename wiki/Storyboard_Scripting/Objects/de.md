@@ -4,7 +4,7 @@ outdated: true
 
 # Storyboard Scripting - Objekte
 
-![Aufruf von Objekten/Sprites im SB](SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
+![Aufruf von Objekten/Sprites im SB](img/SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
 
  Beim [Storyboarding](/wiki/Storyboards) sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](/wiki/Storyboard_Scripting/Audio) noch einen eigenen Artikel dazu.  |
 

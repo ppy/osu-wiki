@@ -26,14 +26,14 @@ Seperti yang dijelaskan dalam [panduan penggunaan untuk spektator](/wiki/osu!tou
 
 Misalnya, dengan nilai `TeamSize = 4`, slot ke-1, ke-2, ke-3, dan ke-4 akan menjadi milik tim biru, dan slot ke-5, ke-6, ke-7, dan ke-8 akan menjadi milik tim merah. Dengan nilai `TeamSize = 3`, slot ke-1, ke-2, dan ke-3 akan menjadi milik tim biru, dan slot ke-4, ke-5, dan ke-6 akan menjadi milik tim merah.
 
-![The correspondance of the windows in osu!tourney to the respective multiplayer room slots](Osutourneyassignment.png "Penempatan Player dengan osu!tourney")
+![The correspondance of the windows in osu!tourney to the respective multiplayer room slots](img/Osutourneyassignment.png "Penempatan Player dengan osu!tourney")
 
 **osu!tourney mengabaikan warna tim dalam penempatan slot** - klien hanya mempertimbangkan slot yang dimainkan pemain di ruang multiplayer. Di bawah ini adalah contoh penggunaan osu!tourney dengan ukuran tim yang berbeda. Angka-angka di layar menunjukkan slot yang ditetapkan di lobi multiplayer. Angka-angka tidak akan terlihat selama klien digunakan di situasi sebenarnya dan nomor di bawah hanya ditunjukkan untuk tujuan deskriptif:
 
-![TeamSize = 4](Osutourneywindows.png "TeamSize = 4")
+![TeamSize = 4](img/Osutourneywindows.png "TeamSize = 4")
 
-![TeamSize = 3](Teamsize3.png "TeamSize = 3")
+![TeamSize = 3](img/Teamsize3.png "TeamSize = 3")
 
-![TeamSize = 2](Teamsize2.png "TeamSize = 2")
+![TeamSize = 2](img/Teamsize2.png "TeamSize = 2")
 
-![TeamSize = 1](Teamsize1.png "TeamSize = 1")
+![TeamSize = 1](img/Teamsize1.png "TeamSize = 1")
