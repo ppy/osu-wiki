@@ -13,7 +13,7 @@ Als erstes lassen Sie uns überprüfen, ob dies auf Sie zutrifft:
 
 Überprüfen Sie, ob Sie Microsoft Basic Display Adapter wie im folgenden Bild benutzen:
 
-![Device Manager](DE-devicemanager.png "Device Manager")
+![Device Manager](img/DE-devicemanager.png "Device Manager")
 
 Bitte laden Sie sich den Treiber von der Webseite des Herstellers Ihrer Grafikkarte herunter. Hier paar allgemeine Links:
 

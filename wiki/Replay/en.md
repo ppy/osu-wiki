@@ -1,6 +1,8 @@
 ---
+needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 <!-- wiki -->
 <!-- [Auto wikilink]: /wiki/Game_Modifiers#-auto "Auto game modifier" -->
@@ -16,17 +18,17 @@ outdated: true
 [Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard section"
 
 <!-- image -->
-[Replay Auto]: ./Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
-[Replay discussion]: ./Replay_discussion.jpg "Discussion button options during a replay"
-[Replay discussion comment]: ./Replay_discussion_comment.jpg "Making a comment"
-[Replay discussion example]: ./Replay_discussion_example.jpg "An example of comment flow"
-[Replay Solo]: ./Replay_Solo.jpg "A local replay"
-[Replay failed]: ./Replay_failed.jpg "Left is a regular game over screen and right is a failed replay game over screen"
-[Replay Multi]: ./Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay"
-[Replay Multi fail]: ./Replay_Multi_fail.jpg "A failed Multi replay will still be played."
-[Replay Auto on]: ./Replay_Auto_on.jpg "Replay with Auto when connected to Bancho"
-[Replay server]: ./Replay_server.jpg "Left is downloading the server replay and right is the replay in question."
-[Replay preview result]: ./Replay_preview_result.jpg "An example of preview gameplay's result screen"
+[Replay Auto]: img/Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
+[Replay discussion]: img/Replay_discussion.jpg "Discussion button options during a replay"
+[Replay discussion comment]: img/Replay_discussion_comment.jpg "Making a comment"
+[Replay discussion example]: img/Replay_discussion_example.jpg "An example of comment flow"
+[Replay Solo]: img/Replay_Solo.jpg "A local replay"
+[Replay failed]: img/Replay_failed.jpg "Left is a regular game over screen and right is a failed replay game over screen"
+[Replay Multi]: img/Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay"
+[Replay Multi fail]: img/Replay_Multi_fail.jpg "A failed Multi replay will still be played."
+[Replay Auto on]: img/Replay_Auto_on.jpg "Replay with Auto when connected to Bancho"
+[Replay server]: img/Replay_server.jpg "Left is downloading the server replay and right is the replay in question."
+[Replay preview result]: img/Replay_preview_result.jpg "An example of preview gameplay's result screen"
 
 # Replay
 
