@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
 
 # osu! Program Files
 

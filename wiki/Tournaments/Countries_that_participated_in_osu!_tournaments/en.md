@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because the numbers haven't accounted for any recent tournaments. not sure if this article should exist anymore... -->
 
 # Countries that participated in osu! tournaments
 
