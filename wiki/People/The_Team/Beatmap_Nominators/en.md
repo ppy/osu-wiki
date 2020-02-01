@@ -107,7 +107,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175) |  |

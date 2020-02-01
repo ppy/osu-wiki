@@ -1,7 +1,7 @@
 # Storyboards
 
-![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
-![Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.](Sbfailing.png "Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.")
+![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](img/Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
+![Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.](img/Sbfailing.png "Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.")
 
 **Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 piksel, biasanya digunakan sebagai dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari berbagai macam elemen, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
 
