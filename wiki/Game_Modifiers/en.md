@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: /Summary should be updated at the same time as this -->
 
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
