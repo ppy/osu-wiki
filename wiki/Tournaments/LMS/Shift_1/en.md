@@ -7,7 +7,7 @@ tags:
 
 # Taiko LMS: Shift Cup
 
-![Taiko LMS: Shift Cup](banner.jpg)
+![Taiko LMS: Shift Cup](img/banner.jpg)
 
 The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It is a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG.
 

@@ -2,7 +2,7 @@
 
 Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra per far comparire la Chat Console da quasi ogni schermata su osu!
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   Le etichette mostrano i canali disponibili al momento. Clicca su una di queste per spostarti nel corrispettivo canale. Clicca sul pulsante giallo ` + ` per aprire l'elenco completo dei canali.
 -   I vari colori dei giocatori hanno diversi significati.
@@ -28,7 +28,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 
 Da gran parte delle schermate è possibile accedere alla chat console estesa premendo `F9` o su `Online Users`. In aggiunta alla chat console, la chat console estesa mostra nei due terzi superiori dello schermo una lista di pannelli, che mostrano informazioni riguardanti gli utenti al momento online
 
-![Extended chat console](Chat_Console-Extended.png "Extended chat console")
+![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
 
 Ogni utente collegato al gioco ha un pannello che viene mostrato nella Chat Estesa. Per default mostra informazioni generali (nome, punteggio ranked totale, precisione, rank, numero delle partite e l'avatar dell'utente, se ne ha alcuno). Passandoci sopra ad uno di questi col mouse mostrerà altre informazioni (nome, rank, l'avatar se presente, fuso orario, ora locale, Stato e, se consentito dall'utente, la città e ciò che sta facendo).
 
@@ -41,21 +41,21 @@ Ogni utente collegato al gioco ha un pannello che viene mostrato nella Chat Este
 
 | Panel colour                                                                                          | Legenda                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ![Player is idle](Chat_Console-Idle.png "Player is idle")                                             | Blu scuro - Il giocatore non sta facendo nulla o sta chattando al momento.                                               |
-| ![Player is playing](Chat_Console-Playing.png "Player is playing")                                    | Grigio - Giocando una beatmap in modalità Solo.                                                                          |
-| ![Player is watching](Chat_Console-Watching.png "Player is watching")                                 | Viola - Guardando un replay o spectando qualcuno.                                                                        |
-| ![Player is editing a beatmap](Chat_Console-Editing.png "Player is editing a beatmap")                | Rosso - Modificando una propria beatmap.                                                                                 |
-| ![Player is testing a beatmap](Chat_Console-Testing.png "Player is testing a beatmap")                | Fucsia - Sta provando una beatmap nell'editor, sia che sia propria o altrui.                                             |
-| ![Player is submitting a beatmap](Chat_Console-Submitting.png "Player is submitting a beatmap")       | Turchese - Inviando (sia caricando che aggiornando) una beatmap creata dal giocatore.                                    |
-| ![Player is modding a beatmap](Chat_Console-Modding.png "Player is modding a beatmap")                | Verde - Moddando o modificando la beatmap altrui.                                                                        |
-| ![Player in Mulitplayer](Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Arancione - L'utente è in una stanza multiplayer, ma non sta giocando.                                                   |
-| ![Player is playing in Multiplayer](Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Giallo - Sta giocando in multiplayer.                                                                                    |
-| ![Player is Afk](Chat_Console-Afk.png "Player is Afk")                                                | Nero - Inattivo o non è al computer (afk).                                                                               |
-| ![Player is connected via IRC](Chat_Console-IRC.png "Player is connected via IRC")                    | Blu scuro - Il giocatore non è sul gioco, ma è connesso tramite un client IRC o le sue statistiche non sono disponibili. |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle")                                             | Blu scuro - Il giocatore non sta facendo nulla o sta chattando al momento.                                               |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing")                                    | Grigio - Giocando una beatmap in modalità Solo.                                                                          |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching")                                 | Viola - Guardando un replay o spectando qualcuno.                                                                        |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap")                | Rosso - Modificando una propria beatmap.                                                                                 |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap")                | Fucsia - Sta provando una beatmap nell'editor, sia che sia propria o altrui.                                             |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap")       | Turchese - Inviando (sia caricando che aggiornando) una beatmap creata dal giocatore.                                    |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap")                | Verde - Moddando o modificando la beatmap altrui.                                                                        |
+| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer")                        | Arancione - L'utente è in una stanza multiplayer, ma non sta giocando.                                                   |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Giallo - Sta giocando in multiplayer.                                                                                    |
+| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk")                                                | Nero - Inattivo o non è al computer (afk).                                                                               |
+| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC")                    | Blu scuro - Il giocatore non è sul gioco, ma è connesso tramite un client IRC o le sue statistiche non sono disponibili. |
 
 Cliccando su un qualsiasi pannello compariranno alcune opzioni sullo schermo.
 
-![User panel options](Chat_Console-Userpaneloptions.jpg "User panel options")
+![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
 
 Premi il numero o clicca il pulsante per attivare:
 
