@@ -1,4 +1,4 @@
-# Account Restrictions
+# Account restrictions
 
 A restriction is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
 

@@ -1,4 +1,4 @@
-# Spinners
+# Spinner mapping techniques
 
 <!-- please place all mapping techniques in alphabetical order -->
 

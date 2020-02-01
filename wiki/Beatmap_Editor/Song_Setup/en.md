@@ -1,4 +1,4 @@
-# Song Setup
+# Song setup window
 
 Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
 
