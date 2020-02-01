@@ -6,7 +6,7 @@ outdated: true
 
 Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięcie `F8` lub przycisku `Show Chat` w prawym dolnym rogu ekranu. Wówczas czat pojawi w dolnej części gry.
 
-![Okno z czatem](Chatconsole1.png "Okno z czatem")
+![Okno z czatem](img/Chatconsole1.png "Okno z czatem")
 
 -   Wszystkie zakładki tworzą listę obecnie otwartych kanałów. Aby przejść do danego kanału, naciśnij odpowiadającą mu zakładkę. Naciśnij `+`, by otworzyć listę wszystkich istniejących kanałów.
 -   Kolory nazw użytkowników mają określone znaczenia.
@@ -33,7 +33,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 
 Okno z rozszerzonym czatem można otworzyć z większości miejsc w osu! poprzez naciśnięcie `F9` albo przycisku `Online Users` w prawym dolnym rogu ekranu. Oprócz klasycznego okna z czatem, w pozostałej części ekranu zostaną wyświetlone panele użytkowników, którzy są aktualnie online.
 
-![Okno z rozszerzonym czatem](Chat_Console-Extended.png "Okno z rozszerzonym czatem")
+![Okno z rozszerzonym czatem](img/Chat_Console-Extended.png "Okno z rozszerzonym czatem")
 
 Każdy zalogowany użytkownik posiada swój własny panel w oknie z rozszerzonym czatem. Domyślnie wyświetlane są ogólne informacje (nazwa użytkownika, liczba pp lub rankingowy wynik, pozycja w rankingu, precyzja, liczba zagrań oraz awatar użytkownika). Po najechaniu kursorem na panel zostaną wyświetlone inne informacje (nazwa użytkownika, pozycja w rankingu, awatar, czas lokalny, strefa czasowa, państwo oraz miasto, jeżeli użytkownik zezwolił na podanie tej wiadomości).
 
@@ -46,20 +46,20 @@ Każdy zalogowany użytkownik posiada swój własny panel w oknie z rozszerzonym
 
 |  Panel   | Opis    |
 |-----------------|----------------|
-| ![Użytkownik jest bezczynny](Chat_Console-Idle.png "Użytkownik jest bezczynny")   | Panel jest ciemnoniebieski. Użytkownik jest bezczynny lub pisze na czacie.   |
-| ![Użytkownik rozgrywa mapę](Chat_Console-Playing.png "Użytkownik rozgrywa mapę")  | Panel jest szary. Użytkownik gra w trybie jednoosobowym.   |
-| ![Użytkownik ogląda innego gracza](Chat_Console-Watching.png "Użytkownik ogląda innego gracza") | Panel jest jasnoniebieski. Użytkownik ogląda powtórkę lub grę innego gracza.  |
-| ![Użytkownik edytuje beatmapę](Chat_Console-Editing.png "Użytkownik edytuje beatmapę") | Panel jest czerwony. Użytkownik edytuje swoją beatmapę. |
-| ![Użytkownik testuje beatmapę](Chat_Console-Testing.png "Użytkownik testuje mapę") | Panel jest fioletowy. Użytkownik testuje swoją lub czyjąś beatmapę. |
-| ![Użytkownik przesyła beatmapę](Chat_Console-Submitting.png "Użytkownik przesyła beatmapę") | Panel jest turkusowy. Użytkownik przesyła lub aktualizuje swoją beatmapę.  |
-| ![Użytkownik moduje beatmapę](Chat_Console-Modding.png "Użytkownik moduje beatmapę")  | Panel jest zielony. Użytkownik moduje lub edytuje czyjąś beatmapę.  |
-| ![Użytkownik znajduje się w trybie wieloosobowym](Chat_Console-Multiplayer.png "Użytkownik znajduje się w trybie wieloosobowym") | Panel jest brązowy. Użytkownik znajduje się w trybie wieloosobowym, ale nie gra. |
-| ![Użytkownik rozgrywa mapę w trybie wieloosobowym](Chat_Console-Multiplaying.png "Użytkownik rozgrywa mapę w trybie wieloosobowym") | Panel jest żółty. Użytkownik gra w trybie wieloosobowym. |
-| ![Użytkownik nieaktywny](Chat_Console-Afk.png "Użytkownik nieaktywny")  | Panel jest czarny. Użytkownik nie wykonał żadnego działania przez dłuzszy czas. | ![Użytkownik jest połączony przez klienta IRC](Chat_Console-IRC.png "Użytkownik jest połączony przez klienta IRC")  | Panel jest ciemnoniebieski i nie wyświetla żadnych informacji. Użytkownik jest połączony przez klienta IRC albo jego statystyki nie są dostępne. |
+| ![Użytkownik jest bezczynny](img/Chat_Console-Idle.png "Użytkownik jest bezczynny")   | Panel jest ciemnoniebieski. Użytkownik jest bezczynny lub pisze na czacie.   |
+| ![Użytkownik rozgrywa mapę](img/Chat_Console-Playing.png "Użytkownik rozgrywa mapę")  | Panel jest szary. Użytkownik gra w trybie jednoosobowym.   |
+| ![Użytkownik ogląda innego gracza](img/Chat_Console-Watching.png "Użytkownik ogląda innego gracza") | Panel jest jasnoniebieski. Użytkownik ogląda powtórkę lub grę innego gracza.  |
+| ![Użytkownik edytuje beatmapę](img/Chat_Console-Editing.png "Użytkownik edytuje beatmapę") | Panel jest czerwony. Użytkownik edytuje swoją beatmapę. |
+| ![Użytkownik testuje beatmapę](img/Chat_Console-Testing.png "Użytkownik testuje mapę") | Panel jest fioletowy. Użytkownik testuje swoją lub czyjąś beatmapę. |
+| ![Użytkownik przesyła beatmapę](img/Chat_Console-Submitting.png "Użytkownik przesyła beatmapę") | Panel jest turkusowy. Użytkownik przesyła lub aktualizuje swoją beatmapę.  |
+| ![Użytkownik moduje beatmapę](img/Chat_Console-Modding.png "Użytkownik moduje beatmapę")  | Panel jest zielony. Użytkownik moduje lub edytuje czyjąś beatmapę.  |
+| ![Użytkownik znajduje się w trybie wieloosobowym](img/Chat_Console-Multiplayer.png "Użytkownik znajduje się w trybie wieloosobowym") | Panel jest brązowy. Użytkownik znajduje się w trybie wieloosobowym, ale nie gra. |
+| ![Użytkownik rozgrywa mapę w trybie wieloosobowym](img/Chat_Console-Multiplaying.png "Użytkownik rozgrywa mapę w trybie wieloosobowym") | Panel jest żółty. Użytkownik gra w trybie wieloosobowym. |
+| ![Użytkownik nieaktywny](img/Chat_Console-Afk.png "Użytkownik nieaktywny")  | Panel jest czarny. Użytkownik nie wykonał żadnego działania przez dłuzszy czas. | ![Użytkownik jest połączony przez klienta IRC](img/Chat_Console-IRC.png "Użytkownik jest połączony przez klienta IRC")  | Panel jest ciemnoniebieski i nie wyświetla żadnych informacji. Użytkownik jest połączony przez klienta IRC albo jego statystyki nie są dostępne. |
 
 Naciśnięcie na panel użytkownika przywoła listę dostępnych opcji.
 
-![Opcje panelu użytkownika](Chat_Console-Userpaneloptions.jpg "Opcje panelu użytkownika")
+![Opcje panelu użytkownika](img/Chat_Console-Userpaneloptions.jpg "Opcje panelu użytkownika")
 
 Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij jej pasek:
 
