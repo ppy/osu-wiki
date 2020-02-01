@@ -22,7 +22,7 @@ where:
 -   (params..) は変数で(event)で指定された値の間の数値が当てはまります。
 
 オブジェクトは最後のコマンドのタイムを過ぎるまではアクティブなままとなります。それを過ぎれば消滅します。オブジェクトを画面内に留めておきたいと考えるならば、Fade(F)の透過を利用してください。
-![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
+![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## 基本コマンド
 
