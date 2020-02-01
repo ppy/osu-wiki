@@ -1,6 +1,6 @@
 # Skryptowanie tła
 
-![Przykład skryptów w pliku .osb.](SBS_Base.jpg "Przykład skryptów w pliku .osb.")
+![Przykład skryptów w pliku .osb.](img/SBS_Base.jpg "Przykład skryptów w pliku .osb.")
 
 In addition to using the [Storyboard Editor](/wiki/Beatmap_Editor/Design)(Design tab) to create [Storyboards](/wiki/Storyboards) for maps, you can also use a plain text editor (such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/)). This is referred to as "**Storyboarding by Scripting**" (SBS), and allows you to be more precise (to the pixel and the millisecond) as to when sprites appear, what they do, and so on.
 
