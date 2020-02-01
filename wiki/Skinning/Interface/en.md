@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
@@ -15,12 +19,13 @@ Interface skinning elements are used in multiple game modes or parts of the clie
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 |
+| All | ![No][false] | ![No][false] | Normal | Centre | 1366x768 (see notes) |
 
 Notes:
 
 - [osu!supporter](/wiki/osu!supporter) required.
-- By default, osu! has 5 background images that it will cycle through.
+- This element is positioned in the centre and is set to cover (fill the entire width and height while keeping its aspect ratio, but crop anything that is outside the game window).
+- By default, osu! has a set of background images that it will cycle through.
   - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
 - This element is used as the playfield if beatmap does not have a background.
 - The seasonal background option can affect the visbility of this element.
@@ -29,8 +34,7 @@ Notes:
 - `.jpg` extension only.
   - If the image type is `.png` change the extension to `.jpg`.
     - If the background is transparent, the background color will be black.
-- The player can drag and drop an image to overwrite the skin's skinned image
-  - **This will delete the skin's image in the process!**
+- The player can drag and drop an image to overwrite the skin's skinned image. **This will replace the image in the skin's folder!**
 
 ---
 
@@ -418,6 +422,20 @@ Notes:
 `selection-mod-keycoop.png`
 
 ![](img/selection-mod-keycoop.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This element is [osu!mania](/wiki/osu!mania)-specific.
+
+---
+
+`selection-mod-mirror.png`
+
+![](img/selection-mod-mirror.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|

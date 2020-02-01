@@ -1,6 +1,10 @@
+---
+needs_cleanup: true
+---
+
 # How to time songs
 
-![Timing menu.](/wiki/Beatmap_Editor/Timing/Timing_base.jpg "Timing menu.")
+![Timing menu.](/wiki/Beatmap_Editor/Timing/img/Timing_base.jpg "Timing menu.")
 
 ## Introduction
 
@@ -91,7 +95,7 @@ So, put the notes, press F5 (Test mode) and hit the said notes as precisely as p
 -   The estimated result becomes sluggish the longer you play. So, from time to time (20 ~ 30 seconds), it is better to stop testing (F2) and run it from that same place (F5 again) after some rest;
 -   Use clap hitsounds, it can help to get the tempo right (used by DDR's "Practice mode").
 
-![The test mode](Editor_TestMode.jpg "The test mode")
+![The test mode](img/Editor_TestMode.jpg "The test mode")
 
 Along with getting 300 hitbursts, you need to peek at the left-hand side of the testing window. There is a line that looks something like this: **Mistimed Hits: 69% (ave 25ms late).** \[Refer picture\]
 

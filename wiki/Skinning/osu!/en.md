@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 

@@ -12,7 +12,7 @@ Les commandes de BanchoBot commencent par `!` suivi de la commande. Ces commande
 
 Vous pouvez également utiliser la commande client `/bb` dans le jeu pour ouvrir automatiquement un onglet de tchat avec BanchoBot et envoyer la commande immédiatement.
 
-*Nota: La commande 'REQUEST' n'est pas inclue car elle n'est plus disponible.*
+*Nota: La commande `REQUEST` n'est pas inclue car elle n'est plus disponible.*
 
 *Remarque: L'argument utilisateur ne respecte pas la casse, car les noms d'utilisateur ne la respectent pas.*
 
@@ -26,8 +26,8 @@ Affiche une liste des commandes de BanchoBot disponibles.
 
 #### Exemple d'utilisation
 
+*Remarque: Le paramètre `user` de la commande `REPORT` est manquant.*
 
-*Remarque: Le paramètre 'utilisateur' de la commande 'REPORT' est manquant.*
 ```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
@@ -92,7 +92,7 @@ BanchoBot: Accuracy: 94.19%
 
 Affiche l'emplacement actuel de l'utilisateur entré.
 
-*Note: Ceci montre seulement le pays de l'utilisateur. Si l'utilisateur à l'option 'Share your city location with others' (Partager sa ville avec d'autres utilisateurs) activée, cette commande peut aussi retouner sa ville.*
+*Note: Ceci montre seulement le pays de l'utilisateur. Si l'utilisateur à l'option `Share your city location with others` (Partager sa ville avec d'autres utilisateurs) activée, cette commande peut aussi retouner sa ville.*
 
 #### Exemple d'utilisation
 

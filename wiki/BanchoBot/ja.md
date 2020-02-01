@@ -10,7 +10,6 @@ outdated: true
 BanchoBotは、**Echo49**によって作成されたボットで、ゲームに関するメッセージを表示することでユーザを支援します。
 これは[bancho irc](/wiki/Internet_Relay_Chat)にホストされており、ID _[#3](https://osu.ppy.sh/users/3)_(ID[#2](https://osu.ppy.sh/users/2)のpeppyの次) にユーザプロフィールがあります。*また、[twitterアカウント](https://twitter.com/banchoboat)があります*
 
-
 <!-- BanchoBot （サーバ）コマンドは`!`で始まります。 -->
 ## BanchoBot コマンド
 

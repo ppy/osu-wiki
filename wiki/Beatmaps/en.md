@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because info about Qualified and Approved is outdated, also there are some references to old website componenets -->
 
 # Beatmaps
 
@@ -57,7 +58,7 @@ For a beatmap to be Loved, it must go through the [community voting process](/wi
 
 ### Pending
 
-*Main page: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
+*Main page: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 

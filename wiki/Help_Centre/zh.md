@@ -610,7 +610,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **你可以通过为数位板设置更小的映射区域来解决这个问题。**
 
-大多数 Wacom 数位板，可以在 `Wacom 数位板属性` 程序中的 `映射`标签页中修改映射。这里有一个[例子](/wiki/Help_Centre/Tabarea.png)。
+大多数 Wacom 数位板，可以在 `Wacom 数位板属性` 程序中的 `映射`标签页中修改映射。这里有一个[例子](img/Tabarea.png)。
 
 你需要咨询你的数位板制造厂商来了解如何为你的数位板设置映射区域。
 
@@ -942,7 +942,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 **你可能需要为它重新分区。**
 
-请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html)，了解具体应该怎么做。
+请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.zh.html)，了解具体应该怎么做。
 
 
 #### 我重新格式化了 osu!go U 盘，现在它在磁盘管理中显示了。

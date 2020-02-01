@@ -10,13 +10,11 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 *Main article: [Difficulty Naming](../Difficulty_Naming)*
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad
 - ![](/wiki/shared/diff/hard-c.png) Platter
 - ![](/wiki/shared/diff/insane-c.png) Rain
 - ![](/wiki/shared/diff/expert-c.png) Overdose
-<!-- markdownlint-enable MD045 -->
 
 ### Gameplay
 
@@ -36,7 +34,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 ## Overall
 
-Overall rules and guidelines apply to every kind of osu!catch difficulty.
+Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### General
 
@@ -58,7 +56,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
 - **Avoid using combo colours with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
-- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
+- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** This can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 
@@ -74,11 +72,9 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty.
 
 ## Difficulty-specific
 
-Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore do *not apply to **every** osu!catch difficulty*.
+Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!catch difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/easy-c.png) Cup
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -92,13 +88,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 4-6
-- HP Drain Rate should be 4 or less
-- Circle Size should be between 2-3
+- Approach Rate / Overall Difficulty should be between 4 and 6.
+- HP Drain Rate should be between 2 and 3.
+- Circle Size should be between 2 and 3.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/normal-c.png) Salad
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -118,13 +112,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 6-7
-- HP Drain Rate should be between 4-5
-- Circle Size should be between 2.5-3.5
+- Approach Rate / Overall Difficulty should be between 6 and 7.
+- HP Drain Rate should be between 3 and 4.
+- Circle Size should be between 2.5 and 3.5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/hard-c.png) Platter
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -149,13 +141,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-8.5
-- HP Drain Rate should be between 5-6
-- Circle Size should be between 3-4
+- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- HP Drain Rate should be between 4 and 5.
+- Circle Size should be between 3 and 4.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/insane-c.png) Rain
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -173,13 +163,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-9
-- HP Drain Rate should be between 6-7
-- Circle Size should be between 3-5
+- Approach Rate / Overall Difficulty should be between 7 and 9.
+- HP Drain Rate should be between 5 and 6.
+- Circle Size should be between 3 and 5.
 
-<!-- markdownlint-disable MD045 -->
 ### ![](/wiki/shared/diff/expert-c.png) Overdose
-<!-- markdownlint-enable MD045 -->
 
 #### Rules
 
@@ -196,6 +184,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 8-10
-- HP Drain Rate should be between 6-8
-- Circle Size should be between 3-6
+- Approach Rate / Overall Difficulty should be between 8 and 10.
+- HP Drain Rate should be between 6 and 7.
+- Circle Size should be between 3 and 6.

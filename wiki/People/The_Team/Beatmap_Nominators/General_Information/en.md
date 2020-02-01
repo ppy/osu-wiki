@@ -7,7 +7,6 @@ Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators), or interested in
 - [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) if you are unsure about something, and we will be happy to help.
 - [Code of Conduct for Mapping and Modding](/wiki/Ranking_Criteria/Code_of_Conduct): As a Beatmap Nominator, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
 - [Ranking Criteria](/wiki/Ranking_Criteria): If you are already a Beatmap Nominator, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. 
-- [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428): If you see a Qualified map breaking one of the rules, or feel that it could still use substantial improvement for whatever reason, feel free to report it here by linking the map and giving a brief outline of the problems you see.
 - For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows you to withhold a beatmap from Qualification.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): A tool built by NAT member [Naxess](https://osu.ppy.sh/users/8129817). This tool checks for a wide range of unrankable issues, as well as features a snapshot feature to easily compare versions of maps which is beneficial when rechecking. **This should not replace checking a beatmap yourself**, but instead be used as a tool to help double-check nothing slipped by.
 
@@ -45,6 +44,6 @@ When a veto mediation is initiated, a randomly selected jury of Beatmap Nominato
 
 ### Quality Assurance Helpers
 
-The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who actively work on checking qualified beatmap for issues. They do so by reporting maps on the [Report a Qualified beatmap here!](https://osu.ppy.sh/community/forums/topics/447428) thread. Full Beatmap Nominators may join at any time. 
+The Quality Assurance Helpers are volunteers inside of the Beatmap Nominators who actively work on checking qualified beatmap for issues. Full Beatmap Nominators may join at any time. 
 
 The Quality Assurance Helpers' Trello board can be viewed [here](https://trello.com/b/iEsda45d/quality-assurance-helpers).

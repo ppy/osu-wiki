@@ -50,7 +50,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ## 总体
 
-总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/osu!/Scaling_BPM)中有更详细的介绍。
+总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
 ### 通用
 

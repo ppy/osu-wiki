@@ -15,8 +15,6 @@ Este tutorial é destinado para aqueles que **não conseguem** encontrar o víde
 
 [noTube](https://notube.net/) (há muitos, muitos mais sites lá fora, mas este listado será o usado).
 
-<!-- markdownlint-disable MD026 -->
 ### Carregue o vídeo no osu!
-<!-- markdownlint-enable MD026 -->
 
 Abra o seu beatmap e pressione F2, clique em Insert Background Video. Use o barra deslizante abaixo para ajustar o deslocamento do tempo de início e voila, está pronto.

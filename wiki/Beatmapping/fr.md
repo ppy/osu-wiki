@@ -3,7 +3,7 @@
 Le **Beatmapping** est le processus de création de [beatmaps](/wiki/Beatmaps) par le biais du client osu!
 Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [objects](/wiki/Hit_Objects), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboarding).
 
-Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmaps). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_Ranking_Procedure).
+Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmaps). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_ranking_procedure).
 
 Comme osu! est un jeu basé sur le rythme, la chanson/musique que vous choisissez de mapper doit avoir un rythme évident et constant.
 Essayez d’éviter les chansons dont le tempo (ou la vitesse) change trop souvent, a moins que vous soyez expérimentés et habitués au beatmapping.
@@ -55,7 +55,7 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
-C’est également ici que vous pouvez placer des hit objects et gérer leurs [hit sounds](/wiki/hit_sounds).
+C’est également ici que vous pouvez placer des hit objects et gérer leurs [hitsounds](/wiki/hit_sounds).
 
 ### Conception
 

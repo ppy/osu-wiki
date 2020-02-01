@@ -1,9 +1,9 @@
 # ストーリーボード
 
-![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
-![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
+![This scene is shown while you play in Walkie Talkie Man (no SB)](img/Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
+![This is shown when you missed or got a 50 in the previously played combo.](img/Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
 
-**Storyboard** (SB)は640\*480もしくは1366\*768(ワイドスクリーンの出現による)の専用に調節された画像を[譜面の背景で使用するもので](/wiki/Glossary)、ほとんどが背景を装飾するために、稀に譜面のためにSBが使用されます。ストーリーボードはいくつかの要素で構成され、譜面をより美しくするため、あるいは特徴的なものとするために利用されます。ちなみにこの元ネタはOsu! Tatakae! Ouendanから来ています。
+**Storyboard** (SB)は640\*480もしくは1366\*768(ワイドスクリーンの出現による)の専用に調節された画像を[ビートマップの背景で使用するもので](/wiki/Glossary)、ほとんどが背景を装飾するために、稀にビートマップのためにSBが使用されます。ストーリーボードはいくつかの要素で構成され、ビートマップをより美しくするため、あるいは特徴的なものとするために利用されます。ちなみにこの元ネタはOsu! Tatakae! Ouendanから来ています。
 
 ストーリーボードは作成難易度が高く、多くの時間も必要となる上に基本的なアニメーションや画像の生成についてのスキルが必要となります。
 

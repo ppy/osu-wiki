@@ -76,7 +76,6 @@ Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total 
 | **Pontuação total dos hits** | `(Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 200s * 200 + Quantidade de 300s * 300 + Quantidade de rainbow 300s * 300)` |
 | **Quantidade total de hits** | `(Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 200s + Quantidade de 300s + Quantidade de rainbow 300s)` |
 
-
 Repare que MAX (ou rainbow 300) e 300s ambos têm o valor máximo no cálculo da ***precisão***, apesar de que o MAX vale mais na ***pontuação*** do que um 300 qualquer.
 
 ## Tela de Resultados

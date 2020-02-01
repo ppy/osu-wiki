@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+outdated: true
+---
+<!-- TODO: new types of medals have been added but aren't listed here yet -->
+
 # Medals
 
 Medals, previously known as *achievements*, are badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 7 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.

@@ -1,0 +1,13 @@
+{
+    "MD003": { "style": "atx" },
+    "MD004": { "style": "dash" },
+    "MD013": false,
+    "MD024": { "siblings_only": true },
+    "MD026": false,
+    "MD029": { "style": "ordered" },
+    "MD033": false,
+    "MD035": { "style": "---" },
+    "MD040": false,
+    "MD045": false,
+    "MD046": { "style": "fenced" }
+}

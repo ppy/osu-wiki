@@ -1,3 +1,8 @@
+---
+outdated: true
+---
+<!-- TODO: there are more relevant guides these days. -->
+
 # Guides and Important Threads
 
 List of guides and important threads, created by the community.

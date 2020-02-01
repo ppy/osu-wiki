@@ -20,7 +20,7 @@
 [Performance Points#FAQ wikilink]: /wiki/Performance_Points "plus d'informations dans l'article Points sous FAQ"
 [Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
 [Replay wikilink]: /wiki/Replay/ "Replay"
-[Shortcut Key Reference wikilink]: /wiki/Shortcut_Key_Reference/ "Référence des raccourcis clavier"
+[Shortcut key reference wikilink]: /wiki/Shortcut_key_reference/ "Référence des raccourcis clavier"
 [Options wikilink]: /wiki/Options "Options"
 [Game Modes#External Ports wikilink]: /wiki/Game_Modes/External_Ports/ "Portages Externes"
 [opsu! wikilink]: ./External_Ports/opsu! "opsu! par itdelatrisu avec fluddokt"
@@ -32,13 +32,12 @@
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
 [Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium par deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Liste des beatmaps officielles"
-[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial par peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "osu!tutorial ranked par Sushi"
+[new beginnings]: https://osu.ppy.sh/beatmapsets/1011011 "new beginnings par nekodex & Noffy"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Liste des beatmaps triées par difficulté croissante"
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Skin Taiko version 6.0 par LuigiHann"
 
 <!-- image -->
-[Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
+[Profile_Mode_Buttons image]: img/Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS"
@@ -100,7 +99,7 @@ Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu]
 Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
-_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
+_Tutoriel: [osu! tutorial (new beginnings)][new beginnings]_
 
 Le gameplay met l'accent sur:
 
@@ -575,9 +574,6 @@ Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/131067>
 Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque map, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania.
 Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/community/forums/topics/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/community/forums/topics/146615> (guide de perfectionnement de **Drace**)
 
-Aussi, [la version classée du osu! tutorial][osu!tutorial rank] est un bon excercice pour certains design de mapping.
-C'est une excellent map à la fois pour les débutants ainsi que pour les joueurs avancés.
-
 Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté][sort beatmaplist difficulty].
 Les maps les plus faciles seront tout en haut de la liste.
 
@@ -622,7 +618,7 @@ C'est actuellement possible uniquement en solo lors de l'écran de game over.
 Pour enregistrer un replay de partie ratée, vous devrez utiliser un logiciel tierce puisqu'osu! ne possède pas de moyen d'exporter un replay de partie ratée.
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
-_Liste complète: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
+_Liste complète: [Shortcut key reference][Shortcut key reference wikilink]_
 
 Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de _Windows_.
 Trouvez le _osu!logo_ dans la barre  latérale _Windows_, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé.
@@ -719,7 +715,6 @@ Veuillez suivre ces étapes:
 
 ## Crédits
 - FAQ web de peppy (`/p/faq/` sur laquelle cette page est basée; supprimée)
-- Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
 - OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")

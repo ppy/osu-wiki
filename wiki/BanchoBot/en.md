@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # BanchoBot
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")

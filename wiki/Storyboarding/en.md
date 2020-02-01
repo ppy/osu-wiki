@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Storyboarding
 
 <!-- This is a stub. Please write it like Beatmapping if possible. -->
