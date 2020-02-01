@@ -21,7 +21,7 @@ Layar pengundian sekarang siap untuk dipratinjau. Pemahaman mengenai bagaimana t
 ### Penggunaan
 
 Dari menu utama, tekan `Ctrl + Shift + D` untuk mengakses layar pengundian. Jika melakukannya dengan benar, akan muncul:
-![](main-screen.png "Layar pengundian utama")
+![](img/main-screen.png "Layar pengundian utama")
 
 Terdapat dua bagian di layar ini - bagian utama di sebelah kiri dengan peta dunia sebagai latar belakang layar pengundian, dan bagian panel kontrol di sebelah kanan. Mohon untuk **tidak** menyorot panel kontrol saat siaran berlangsung.
 
@@ -70,7 +70,7 @@ Baris ini memiliki tiga bagian yang dipisahkan oleh titik dua (`:`):
 - Nama lengkap tim ditampilkan di tengah layar ketika tim dipilih melalui proses pengundian.
 - Akronim tim ditampilkan dalam kotak grup.
 
-![](drawings-txt-visual.png "Representasi visual elemen-elemen drawings.txt")
+![](img/drawings-txt-visual.png "Representasi visual elemen-elemen drawings.txt")
 
 File `drawings.txt` yang valid dengan beberapa negara sebagai tim adalah sebagai berikut:
 ```

@@ -1,6 +1,6 @@
 # 2017年華人 osu!mania 4K 大賽
 
-![CMT 4K 2017](pic.png)
+![CMT 4K 2017](img/pic.png)
 
  **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 
@@ -43,7 +43,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 --------------------------------------------------
 
-![CMT4K2017 podium](podium.png)
+![CMT4K2017 podium](img/podium.png)
 
 --------------------------------------------------
 
