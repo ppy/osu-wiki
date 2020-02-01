@@ -2,7 +2,7 @@
 
 _Page principale: [osu!tourney](/wiki/osu!tourney)_
 
-![Le client peut être personnalisé de différentes manières](Osutourneycustom.png)
+![Le client peut être personnalisé de différentes manières](img/Osutourneycustom.png)
 
 Le client supporte plusieurs modifications pour que vous puissiez le customisez pour le tournoi. Pour ce faire, vous devrez créer la structure de fichier `/Skins/User/tournament` dans le dossier d'insallation du client. Les éléments de skin peuvent être placés dans le dossier et supportent les fichiers `.jpg` et `.png`.
 
@@ -14,7 +14,7 @@ Les éléments suivants sont skinnables :
 - `tourney-title` (optionnel) - l'image affichée en bas du client, devant l'image de fond
   - Ce peut être utilisé pour montrer le logo du tournois par exemple.
 
-![Les icônes des équipes peuvent être affichées à côté du nom de ces équipes](Osutourneyicons.png)
+![Les icônes des équipes peuvent être affichées à côté du nom de ces équipes](img/Osutourneyicons.png)
 
 Le client affichera les icônes se trouvant sous le chemin `/Skins/User/tournament/icons` pour les mettre à côté du nom des équipes. Ce peut être utilisé pour montrer le drapeau du pays ou des avatars.
 
