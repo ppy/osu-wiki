@@ -1,6 +1,8 @@
 ---
+needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: outdated because there are missing mods (update with Game_Modifiers) -->
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
