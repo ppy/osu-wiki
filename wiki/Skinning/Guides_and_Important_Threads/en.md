@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: there are more relevant guides these days. -->
 
 # Guides and Important Threads
 
