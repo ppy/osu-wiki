@@ -1,6 +1,6 @@
 # Storyboard Scripting
 
-![Un exemple de script en .osb.](SBS_Base.jpg "Un exemple de script en .osb.")
+![Un exemple de script en .osb.](img/SBS_Base.jpg "Un exemple de script en .osb.")
 
 En plus d'utiliser l'[éditeur de Storyboard](/wiki/Beatmap_Editor/Design)(Design tab) pour créer des [Storyboards](/wiki/Storyboards) pour les maps, vous pouvez également utiliser un éditeur de texte en clair (tel que Notepad ou [Notepad++](http://www.notepad-plus-plus.org/)). Cela s'appelle "**Storyboarding by Scripting**" (SBS) et vous permet d'être plus précis (au pixel et à la milliseconde près) quant au moment où les sprites apparaissent, ce qu'ils font, etc.
 
