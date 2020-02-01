@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Painel de Chat básico
 
 Na maioria das telas no osu! você pode pressionar `F8` ou clicar no botão `Mostrar Chat` no canto inferior direito para sobrepor o Painel do Chat na parte inferior da tela.
 
-![Chat Console](Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Chat Console")
 
 -   As abas listam os canais atualmente disponíveis. Simplesmente clique em uma aba para entrar no canal. Clique em `New` para mostrar uma lista de canais para se juntar.
 -   As cores de nome de usuário representam sua classe:
