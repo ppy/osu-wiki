@@ -176,7 +176,7 @@ Sur le nouveau site web, un filtre est disponible en cliquant sur "plus de crit�
 
 Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
-----------------------------------------------------------------------------
+---
 
 ## Client
 
@@ -622,7 +622,7 @@ La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive comp
 
 Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
-----------------------------------------------------------------------------
+---
 
 ## Site Web
 
@@ -643,7 +643,6 @@ Dans de tels cas, vous pouvez ouvrir un ticket à l'équipe de support en envoya
 La plupart du temps, vous serez réautorisé à éditer votre page, mais les utilisateurs abusant de cette autorisation peuvent se voir bloqués à tout jamais, soyez prudent !
 
 Si à n'importe quel moment vous avez un doute sur un contenu, vous pouvez envoyer un message à l'[Équipe Globale de Modération](/wiki/People/Global_Moderation_Team) avec ce que vous pensiez y mettre et ils vous feront savoir si c'est correct.
-
 
 #### Puis-je totalement bloquer quelqu'un ?
 
@@ -673,6 +672,8 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 3. Activez l'option en cliquant dessus.
 4. C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
 
+<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
+
 ##### Bloquer les posts de forum d'un utilisateur
 
 **Pour cacher la plupart des posts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
@@ -680,6 +681,8 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 1. Dirigez-vous vers la [liste de vos ennemis dans l'UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) et ajoutez simplement leur nom d'utilisateur à cette liste.
 2. Cliquez sur Submit.
 3. C'est fait ! La plupart des posts de forum de cet utilisateur ne seront plus visibles pour vous - comme s'ils n'ont jamais existé. Notez que les posts citant ses posts seront toujours visibles.
+
+-->
 
 ##### Empêcher les messages privés du forum de vous atteindre
 
@@ -721,7 +724,7 @@ Entrez simplement le nom de l'artiste que vous souhaitez et Google fera le reste
 
 Si vous avez été inactif pour une longue période de temps et que vos statistiques sont mauvaises, jouez quelques maps pour les actualiser. Les utilisateurs inactifs peuvent voir leur scores cachés pour garder les classements propres.
 
-----------------------------------------------------------------------------
+---
 
 ## Installation et Enregistrement
 
@@ -768,7 +771,7 @@ Si vous n'en utilisez pas, vous devriez alors envoyer un ticket au support, car 
 
 Tor ou des réseaux associés à Tor ne se connecteront pas au jeu la plupart du temps. Cela est pour éviter des usages mal intentionnés.
 
-----------------------------------------------------------------------------
+---
 
 ## Beatmapping et Éditeur
 
@@ -804,7 +807,7 @@ Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dans le Cim
 
 Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
-----------------------------------------------------------------------------
+---
 
 ## osu!store et marchandises
 
@@ -926,7 +929,6 @@ Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cl
 
 Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.fr.html) pour savoir comment faire.
 
-
 #### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.
 
 **C'est presque fini !**
@@ -937,8 +939,7 @@ Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu
 
 Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
-
-----------------------------------------------------------------------------
+---
 
 ## Diagnostic
 
