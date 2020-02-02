@@ -6,8 +6,7 @@ outdated: true
 
 ![BanchoBot'un oyuncu kartı](img/BanchoBot.jpg "BanchoBot'un oyuncu kartı")
 
-BanchoBot **Echo49** tarfından programlanan, oyun hakkında duyurular yapan ve sohbetteki oyunculara çeşitli bilgiler vererek yardımcı olan bir bottur (diğer bir deyişle otomatikleştirilmiş cevaplar ve kodlar dizisi)
-BanchoBot [osu!chat sunucusunun](/wiki/Internet_Relay_Chat) ev sahibi ve *[BanchoBot](https://osu.ppy.sh/users/3)* adında bir profile sahip.
+BanchoBot **Echo49** tarfından programlanan, oyun hakkında duyurular yapan ve sohbetteki oyunculara çeşitli bilgiler vererek yardımcı olan bir bottur (diğer bir deyişle otomatikleştirilmiş cevaplar ve kodlar dizisi). BanchoBot [osu!chat sunucusunun](/wiki/Internet_Relay_Chat) ev sahibi ve *[BanchoBot](https://osu.ppy.sh/users/3)* adında bir profile sahip.
 
 ## BanchoBot'u kullanmak
 

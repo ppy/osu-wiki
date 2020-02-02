@@ -46,7 +46,7 @@ Namun, selama durasi satu minggu, [QATs](/wiki/QAT) diizinkan untuk mencari perm
 
 Beatmap berstatus Loved menggunakan ikon hati (![Heart icon](/wiki/shared/status/loved.png)) di halaman pemilihan lagu.
 
-Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) tetapi _dicintai_ oleh komunitas dan secara teratur ditambahkan berdasarkan suara komunitas. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
+Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) tetapi *dicintai* oleh komunitas dan secara teratur ditambahkan berdasarkan suara komunitas. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
 
 - Tidak ada [pp](/wiki/pp) yang akan diberikan.
 - Semua skor akan dihapus saat pembuat memperbarui beatmapnya.

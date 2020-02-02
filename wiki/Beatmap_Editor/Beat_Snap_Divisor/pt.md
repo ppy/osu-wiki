@@ -2,13 +2,15 @@
 
 O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para que as notas sempre sigam a musica. Cada opção diferente de beat snap adiciona cores diferentes de ticks na [timeline](/wiki/Beatmap_Editor/Timing), como pode ser visto abaixo
 
+## osu!, osu!taiko, osu!catch
+
 ### Divisor 1/1
 
 ![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - {Nome}
 - Apenas ticks brancos
-- Melhor para dificuldades Easy.
+- Melhor para dificuldades Easy
 
 ### Divisor 1/2
 
@@ -31,7 +33,7 @@ O Beat Snap Divisor é usado para limitar onde as notas podem ser colocadas para
 
 - {Nome}
 - adicionados ticks azuis além dos ticks vermelhos
-- Util para mapping em geral.
+- Util para mapping em geral
 
 ### Divisor 1/6
 

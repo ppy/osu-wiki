@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# Interface
+# Interface skinning
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 

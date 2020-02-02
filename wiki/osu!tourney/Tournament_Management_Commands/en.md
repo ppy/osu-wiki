@@ -1,4 +1,4 @@
-# Tournament Management Commands
+# Tournament management commands
 
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
