@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Chat Console
+# Chat console
 
 From most screens in osu! you can press `F8` or click the `Show Chat` button on the lower right to overlay the Chat Console on the lower third of the screen.
 

@@ -1,4 +1,4 @@
-# Menu
+# Beatmap editor menu
 
 ## File
 

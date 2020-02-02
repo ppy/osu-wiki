@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Multiplayer Usage
+# osu!tourney multiplayer usage
 
 ## Match creation
 

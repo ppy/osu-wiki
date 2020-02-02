@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Packs
+# Beatmap packs
 
 <!-- TODO: new pack types, new mirrors -->
 
