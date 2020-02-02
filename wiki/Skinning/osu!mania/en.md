@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# osu!mania
+# osu!mania skinning
 
 *See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
 

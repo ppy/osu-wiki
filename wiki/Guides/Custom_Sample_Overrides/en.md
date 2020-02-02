@@ -1,4 +1,4 @@
-# Custom Sample Overrides
+# Custom sample overrides
 
 At the moment, per-beatmap and per-skin sample-sets can be implemented.
 

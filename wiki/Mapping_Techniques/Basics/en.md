@@ -1,4 +1,4 @@
-# Basics
+# Basic mapping techniques
 
 ## Common Beatmap Flow
 

@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Videos from YouTube
+# How to download videos from YouTube
 
 [*The Painless Add Video To Beatmap Process walkthrough.* by: Gilrad](https://osu.ppy.sh/community/forums/topics/639/)
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
