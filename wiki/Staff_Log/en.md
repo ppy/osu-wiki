@@ -4,7 +4,7 @@ tags:
   - retirement
 ---
 
-# Staff Log
+# Staff log
 
 Since 2014, promotions and retirements of public staff have been recorded to make them easily traceable for the community.
 

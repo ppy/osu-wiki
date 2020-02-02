@@ -10,9 +10,9 @@ Sa karaniwan, yun mga mappers ay gusto ma [ranka](/wiki/Beatmaps) ang mapa nila,
 
 Ang mga difficulties nakikita karaniwan sa mga mapas ay:
 
--   Easy
--   Normal
--   Hard
--   Insane
+- Easy
+- Normal
+- Hard
+- Insane
 
 Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [mappers](/wiki/Glossary).

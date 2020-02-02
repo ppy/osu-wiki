@@ -237,6 +237,8 @@ Dans osu!standard, les objets frappés s'empilent automatiquement s'ils sont tou
 
 En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!/#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
 
+![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet \"Advanced\"")
+
 *Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit.*
 
 Les objets sont considérés comme appartenant à la même pile s'ils sont à la même coordonnée et pas plus loin dans le temps que `[(Approach Window) * (Stack Leniency) / 10]`, ou `Approach Window` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#approach-rate) plus haut).

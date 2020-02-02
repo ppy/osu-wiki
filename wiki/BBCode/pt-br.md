@@ -2,8 +2,7 @@
 
 ![A caixa de edição nos fóruns](img/editor.jpg "A caixa de edição nos fóruns")
 
-**BBCode** é uma sintaxe de marcação que é usada nos fóruns do osu! e, em um contexto maior, na grande maioria de fóruns da internet. Seu intuito é de habilitar a formatação do texto em RTF (Rich Text Formatting).
-Ele é composto por tags que rodeiam excertos do texto para enriquecê-lo com propriedades e atributos.
+**BBCode** é uma sintaxe de marcação que é usada nos fóruns do osu! e, em um contexto maior, na grande maioria de fóruns da internet. Seu intuito é de habilitar a formatação do texto em RTF (Rich Text Formatting). Ele é composto por tags que rodeiam excertos do texto para enriquecê-lo com propriedades e atributos.
 
 No osu!web, BBCode é utilizado nas postagens dos fóruns, assinaturas e páginas de usuários.
 
