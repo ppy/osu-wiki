@@ -38,7 +38,7 @@ needs_cleanup: true
 [Combo Fire image]: /wiki/shared/combo-fire.jpg "Combo Fire"
 
 <!-- Title -->
-# osu!
+# osu! (game mode)
 
 ![Gameplay of osu!][osu! Interface image]
 
