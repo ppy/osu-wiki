@@ -1,4 +1,4 @@
-# osu!taiko Ranking Criteria
+# osu!taiko ranking criteria
 
 The **osu!taiko Ranking Criteria** are rules and guidelines that apply to the creation of osu!taiko-specific difficulties. In order to get an osu!taiko-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 

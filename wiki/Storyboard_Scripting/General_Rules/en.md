@@ -1,4 +1,4 @@
-# General Rules
+# General rules for storyboarding
 
 ![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
 

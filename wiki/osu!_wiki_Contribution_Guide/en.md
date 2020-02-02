@@ -1,4 +1,4 @@
-# osu! wiki Contribution Guide
+# osu! wiki contribution guide
 
 Thanks for your interest in making the osu! wiki better! This quick-start guide is intended for newcomers that have never worked with GitHub and the osu! wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
 
