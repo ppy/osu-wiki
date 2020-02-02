@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Distance Snap
 
 ![An example of what exactly beat spacing does.](img/Beatspacing.jpg "Un exemple de ce que fait exactement l'espacement des battements.")

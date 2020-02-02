@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Beatmap Discussion
 
 Beatmap Discussion (introduit comme *Modding v2*) est maintenant en ligne !
@@ -29,6 +32,7 @@ Cliquez sur le bouton `Discussion` dans la page d'information du beatmap.
 Cliquer sur `Modding/Discussion` sur la page de la beatmap vous amènera à la page, si elle est actuellement dans le système de discussion du Beatmap.
 
 ## page Beatmap Discussion
+
 ![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion ")
 
 ### Sélection du mode

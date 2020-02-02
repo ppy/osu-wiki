@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Timelines
 
 Dans le [beatmap editor](/wiki/Beatmap_Editor), il y a trois différentes chronologies qu'un cartographe peut rencontrer.

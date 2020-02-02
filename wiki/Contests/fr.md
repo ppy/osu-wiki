@@ -1,7 +1,6 @@
 ---
-outdated: true
+no_native_review: true
 ---
-
 <!-- Veuillez vérifier les redirections après l'ajout de nouvelles sections avec les numéros d'année. -->
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
