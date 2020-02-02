@@ -7,7 +7,7 @@ tags:
 
 ![TUBTWC logo](img/logo.jpg)
 
-The **The Ultimate Beginners Taiko World Cup** (***TUBTWC***) is an international two-on-two double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This is the first installment of The Ultimate Beginners Taiko World Cup.
+The **The Ultimate Beginners Taiko World Cup** (***TUBTWC***) is a country-based two-on-two double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). Each country will send their best low-ranked team composition to battle other country around the globe. This is the first installment of The Ultimate Beginners Taiko World Cup.
 
 ## Tournament schedule
 
