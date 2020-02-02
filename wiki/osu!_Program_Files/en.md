@@ -3,7 +3,7 @@ outdated: true
 ---
 <!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
 
-# osu! Program Files
+# osu! program files
 
 ![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
 

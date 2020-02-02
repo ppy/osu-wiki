@@ -87,7 +87,7 @@ The osu! Mapping World Cup is run by various community members by distributing t
 
 ------------------------------------------------------------------------
 
-![oMWC \#1 Podium](img/podium.png)
+![oMWC \#1 Podium](img/podium.jpg)
 
 ------------------------------------------------------------------------
 
