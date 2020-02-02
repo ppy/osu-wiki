@@ -1,4 +1,4 @@
-# Formations
+# Mapping formations
 
 <!-- please place all mapping techniques in alphabetical order -->
 
