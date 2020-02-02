@@ -1,4 +1,4 @@
-# 2016
+# History of osu! 2016
 
 ## January
 

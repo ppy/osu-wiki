@@ -1,4 +1,4 @@
-# Recording osu!
+# How to record videos of osu!
 
 [Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 

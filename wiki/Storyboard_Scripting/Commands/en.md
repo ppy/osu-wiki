@@ -1,4 +1,4 @@
-# Commands
+# Storyboard scripting commands
 
 Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 

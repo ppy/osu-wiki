@@ -1,4 +1,4 @@
-# 2020
+# Staff log 2020
 
 Abbreviations for user groups are used throughout this log:
 

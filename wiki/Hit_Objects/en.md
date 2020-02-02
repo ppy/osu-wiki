@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Hit Objects
+# Hit objects
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
