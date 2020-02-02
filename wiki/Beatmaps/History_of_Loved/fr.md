@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # L'histoire de Loved
 
 La catégorie beatmap [Loved](/wiki/Beatmaps#loved) est actuellement gérée par [Project Loved](/wiki/Project_Loved). Cependant, cela n'a pas toujours été le cas. Le Projet Aimé est le troisième système principal qui a fait la promotion des cartes de rythmes à Aimé ; avant cela, il y avait d'autres méthodes pour le faire, ainsi que de longues périodes de stagnation pour la catégorie Aimé.

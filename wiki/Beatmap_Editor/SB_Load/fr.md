@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # SB Load
 
 **SB Load** (abréviation de storyboard load) est un numéro utilisé dans le [Storyboarding](/wiki/Storyboards) pour indiquer la charge supplémentaire que le Storyboard entraîne sur le programme graphique. Il s'agit d'une mesure du nombre de fois que la zone complète de 640x480 doit être redessinée dans un cadre.

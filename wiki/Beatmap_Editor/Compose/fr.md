@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Compose
 
 ![Éditeur de composition pour osu! en mode fenêtré](img/Compose.jpg "Éditeur de composition pour osu! en mode fenêtré")
