@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Personer
 
 Indexsida för artiklar om personer eller grupper.
