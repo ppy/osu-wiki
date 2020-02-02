@@ -1,4 +1,4 @@
-# Timelines
+# Beatmap editor timelines
 
 In the [beatmap editor](/wiki/Beatmap_Editor), there are three different timelines that a mapper may encounter.
 This article will explain how each of them function.

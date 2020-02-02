@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Tournament Drawings
+# Tournament drawings
 
 The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in the [osu!lazer](https://github.com/ppy/osu/releases) client.
 

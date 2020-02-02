@@ -1,4 +1,4 @@
-# Blank
+# Blank skin.ini
 
 Here are the blanks for the `skin.ini` file.
 
