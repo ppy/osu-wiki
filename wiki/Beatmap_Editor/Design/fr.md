@@ -1,4 +1,3 @@
-
 # Conception
 
 ![Design tab](img/SE_base.jpg "Onglet Design")
@@ -11,22 +10,11 @@ Il serait favorable de faire des cours accélérés de toutes les commandes en u
 
 1.  Placez tous vos éléments/images du storyboard dans le dossier des chansons de votre carte et créez un sous-dossier nommé "SB" pour eux.
 2.  Accédez à votre carte par l'éditeur et allez à l'écran "Design".
-3.  Trouvez la bonne coche sur la timeline ci-dessus à l'endroit où vous voulez que votre élément de storyboard apparaisse, puis cliquez sur "Sprite Library" et sélectionnez votre image.
-
-    Assurez-vous que votre élément ne dépasse pas 800x600 px. C'est le seuil maximum.
-
-4.  Maintenant, sélectionnez la commande de ce que vous voulez que votre élément fasse (Déplacement, Échelle, Fondu, Rotation ou Couleur) et appuyez sur le "+" de "Keyframe Control" pour placer un point pour la commande au moment où vous êtes sur.
-
-    "-" sur "Keyframe Control" supprime à nouveau le point, et les boutons fléchés vous permettent de sauter entre plusieurs points dans la même commande pour le même élément SB.
-
-5.  Trouvez maintenant le point de chronométrage auquel vous voulez que la commande se termine (à un moment ultérieur) afin que vous ayez 2 points pour elle et la ligne de couleur correspondante entre ces points.
-
-    Vert - Déplacement ; Rouge - Échelle ; Rose - Fondu ; Jaune - Rotation ; Rose clair - Couleur
-
+3.  Trouvez la bonne coche sur la timeline ci-dessus à l'endroit où vous voulez que votre élément de storyboard apparaisse, puis cliquez sur "Sprite Library" et sélectionnez votre image. Assurez-vous que votre élément ne dépasse pas 800x600 px. C'est le seuil maximum.
+4.  Maintenant, sélectionnez la commande de ce que vous voulez que votre élément fasse (Déplacement, Échelle, Fondu, Rotation ou Couleur) et appuyez sur le "+" de "Keyframe Control" pour placer un point pour la commande au moment où vous êtes sur. "-" sur "Keyframe Control" supprime à nouveau le point, et les boutons fléchés vous permettent de sauter entre plusieurs points dans la même commande pour le même élément SB.
+5.  Trouvez maintenant le point de chronométrage auquel vous voulez que la commande se termine (à un moment ultérieur) afin que vous ayez 2 points pour elle et la ligne de couleur correspondante entre ces points. Vert - Déplacement ; Rouge - Échelle ; Rose - Fondu ; Jaune - Rotation ; Rose clair - Couleur
 6.  Aux points de commande, vous pouvez modifier les facteurs de la fonction en maintenant le bouton gauche de la souris enfoncé et en déplaçant votre curseur vers le haut (facteur croissant) ou vers le bas (facteur décroissant)
-7.  Répétez les étapes 3 à 6 pour les autres éléments.
-
-    Pour supprimer, utilisez `Supprimer` ou Édition -> Supprimer du menu supérieur.
+7.  Répétez les étapes 3 à 6 pour les autres éléments. Pour supprimer, utilisez `Supprimer` ou Édition -> Supprimer du menu supérieur.
 
 **Note:** Si vous avez l'oeil vif ; Up-tick - Début de cette transformation ; Down-tick - Fin de ladite transformation. Une coche complète sur une ligne de transformation colorée signifie un changement dans la transformation (par exemple, monter -> descendre).
 
@@ -170,35 +158,3 @@ Joue le beatmap. L'Outro storyboarding nécessite un script de storyboard. La vi
 
 -   [m980's basic explanation](https://osu.ppy.sh/community/forums/posts/67660)
 -   [Kite's Basic Manual Storyboarding Guide](https://osu.ppy.sh/community/forums/topics/46111)
-
-# Éditeur de Storyboards
-
-**Éditeur de Storyboards** est une partie de l'[Éditeur de beatmaps](/wiki/Beatmap_Editor), dans la partie Design, qui permet de faire du [Storyboarding](/wiki/Storyboards) basique, et est en général une bonne introduction au [Storyboarding](/wiki/Storyboards) avant le [Storyboard Scripting](/wiki/Storyboard_Scripting), plus complexe.
-
-## Fonctionnalités
-
-- Affichage des coordonnées du curseur et du marqueur temporel (en millisecondes).
-- Affiche les [images chargées](/wiki/Beatmap_Editor/SB_Load) actuellement sur tous les calques visibles.
-- Les calques activables/désactivables (background (fond d'écran), failing (image en cas d'échec), passing (image en cas de réussite), foreground (premier plan), et les [Hit Objects](/wiki/Hit_Objects)).
-- Ajout d’effets simples (sur les images):
-  - Mouvement (Move)
-  - Modification de la taille (Scale)
-  - Disparition (Fade)
-  - Rotation (Rotate)
-- Effets supplémentaires (apparaissent quand le curseur passe sur la liste des effets):
-  - Redimensionnement Vectoriel (vector Scale)
-  - Retournement Horizontal/Vertical (Horizontal/Vertical Flip)
-- "Tweening" (si oui ou non l'objet doit s'intercaler entre 2 points - activé par défaut)
-- "Easing"
-  - Quand l'action doit se faire en accélérant/décélérant au lieu d'avoir une vitesse constante
-- Origine
-  - A partir de quel point se font les effets (Rotation, Redimensionnement, etc...). Ils peuvent avoir lieu sur: L'angle en haut à gauche ou le Centre de l'image.
-- Possibilité de définir la SB en fonction de la difficulté (Bouton "Diff. specific")
-- Possibilité d'ajouter un Fond d'écran et mettre une couleur de fond.
-
-## Limites
-
-- Pas d'effets sonores, pas très gênant du fait qu'ils pourraient gêner les joueurs si ils sont placés près des [Hit objects](/wiki/Hit_Objects). L'utilisation d'effets sonores n'est autorisée qu'aux mappers expérimentés, avec l'aide d'un BAT.
-- Loops et déclencheurs impossibles à créer.
-- Pas de couleurs ou de commandes de déplacement Move-X/Move-Y.
-
