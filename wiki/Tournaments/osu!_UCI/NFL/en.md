@@ -23,8 +23,6 @@ The tournament took place on Saturday, January 18, 2020, and lasted nearly the e
 
 ## Prizes
 
-<!-- TODO: Include other prizes if there are pictures that show the winners with them -->
-
 All prizes were awarded to osu! and osu!mania winners.
 
 | Placing | Prize(s) |
@@ -47,16 +45,19 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 ## Links
 
+- **[Website](http://www.osuuci.com/tournaments/NFL/)**
 - [Challonge bracket (osu!)](https://challonge.com/NFL_STD)
 - [Challonge bracket (osu!mania)](https://challonge.com/rgg8emqj)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1000378)
 - [Livestream](https://www.twitch.tv/osuuci)
 - [osu! UCI Discord server](https://discord.gg/qbZddFV)
-- [Website](http://www.osuuci.com/tournaments/NFL/)
+- [Photos from the event](https://imgur.com/a/IhQCgTw)
 
 ## Participants
 
-<!-- TODO: ![Photo of the event's attendees](img/people.jpg "Attendees of NFL after the tournament concluded") -->
+![Photo of the NFL event room showing Vaxei and fieryrage playing in a multi lobby](img/room-photo.jpg)
+
+![](img/group-photo.jpg "Attendees of NFL after the tournament concluded")
 
 ### osu!
 
@@ -84,7 +85,6 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 - ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
 - ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
 - ![][flag_US] [Ralgrand](https://osu.ppy.sh/users/696447)
-- ![][flag_US] [TheBushy](https://osu.ppy.sh/users/11305115) <!-- TODO not sure if they actually played -->
 - ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316)
 
 ## Podium
