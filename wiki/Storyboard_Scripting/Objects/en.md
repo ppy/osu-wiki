@@ -1,4 +1,4 @@
-# Objects
+# Storyboard objects
 
 ![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
