@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Skinning Tutorial (osu!taiko)
+# osu!taiko skinning turorial
 
 ## Pippidon
 
