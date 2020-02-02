@@ -1,4 +1,4 @@
-# Timing
+# Timing tab
 
 *See also: [How to time songs](/wiki/How_to_time_songs)*
 

@@ -1,4 +1,4 @@
-# General Information for Beatmap Nominators
+# General information for Beatmap Nominators
 
 Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators), or interested in becoming one? If so, you have come to the right place! This article has all of the general information you will need to know as a new Beatmap Nominator.
 
