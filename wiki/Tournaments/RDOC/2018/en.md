@@ -6,9 +6,9 @@ tags:
 
 # Royal Danish osu!Cup 2018
 
-![RDOC logo](img/logo.jpg)
+![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC2018***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506) and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -54,7 +54,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 - [RDOC Discord server](https://discord.gg/JhBkmzE)
 - [Livestream](https://www.twitch.tv/royaldanishosucup)
 - [Challonge brackets](https://challonge.com/rdoc2018)
-- **[RDOC Mastersheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ/edit?usp=sharing)**
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ/edit?usp=sharing)**
 
 ## Participants
 
@@ -100,7 +100,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
   - [USAO - Dynamite (Camellia's MACHO TNT REMIX) \[KABOOM\]](https://osu.ppy.sh/beatmapsets/836053#osu/1762037)
 - Hidden
   - [F9 - Kagaribito \[Ex\]](https://osu.ppy.sh/beatmapsets/606465#osu/1281190)
-  - [Morimori Atsushi - Tohno gensou monogatari (MRM REMIX) \[BURIBURI*ASHEMU\]](https://osu.ppy.sh/beatmapsets/684786#osu/1481328)
+  - [Morimori Atsushi - Tohno gensou monogatari (MRM REMIX) \[BURIBURI\*ASHEMU\]](https://osu.ppy.sh/beatmapsets/684786#osu/1481328)
   - [DCX - Flying High (DJ Splash Remix) \[d\]](https://osu.ppy.sh/beatmapsets/685435#osu/1450904)
 - HardRock
   - [Beatdrop - Phase 1 \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
@@ -122,7 +122,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 - NoMod
   - [fourfolium - Now Loading!!!! \[Press SELECT\]](https://osu.ppy.sh/beatmapsets/488630#osu/1041727)
   - [Mutsuhiko Izumi - Red Goose \[Superable\]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
-  - [S.S.H. - F-zero ~ Big Blue \[Big Blue\]](https://osu.ppy.sh/beatmapsets/154798#osu/379973)
+  - [S.S.H. - F-zero \~ Big Blue \[Big Blue\]](https://osu.ppy.sh/beatmapsets/154798#osu/379973)
   - [Feryquitous feat. Aitsuki Nakuru - Kairikou \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
   - [aran & lapix - KALACAKLA \[Follow Me Into Reality\]](https://osu.ppy.sh/beatmapsets/706771#osu/1494341)
 - Hidden
@@ -154,7 +154,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
   - [Akiyama Uni - The Grimoire of Alice \[Extra\]](https://osu.ppy.sh/beatmapsets/123839#osu/316018)
 - Hidden
   - [Hanatan - Nijigen Dream Fever \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/98042#osu/426663)
-  - [ayaponzu* - Kuusou Sekai to Omocha no Shinzou \[Fantasy\]](https://osu.ppy.sh/beatmapsets/301162#osu/675372)
+  - [ayaponzu\* - Kuusou Sekai to Omocha no Shinzou \[Fantasy\]](https://osu.ppy.sh/beatmapsets/301162#osu/675372)
   - [kors k vs Nekomata Master+ - Chain of pain \[Another\]](https://osu.ppy.sh/beatmapsets/59987#osu/179547)
 - HardRock
   - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)
@@ -204,7 +204,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
   - [ONE OK ROCK - Clock Strikes \[Moway's Extra\]](https://osu.ppy.sh/beatmapsets/249624#osu/633375)
   - [sasakure.UK - Atropos \[Another\]](https://osu.ppy.sh/beatmapsets/577594#osu/1222416)
   - [Chihiro Yonekura - Koiseyo Otome! \[shiratama's Extra\]](https://osu.ppy.sh/beatmapsets/498438#osu/1097608)
-  - [IOSYS - Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12292#osu/61450)
+  - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12292#osu/61450)
   - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- \[Wub Wub Dragunov\]](https://osu.ppy.sh/beatmapsets/473735#osu/1012160)
 - Hidden
   - [Hanatan - Romeo and Cinderella \[Tragedy\]](https://osu.ppy.sh/beatmapsets/172792#osu/482142)
@@ -216,7 +216,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
   - [COOL&CREATE(BeatMario) - Destined Marionette \[14KEY\]](https://osu.ppy.sh/beatmapsets/8273#osu/40202)
 - DoubleTime
   - [FELT - Little Nova \[Opening\]](https://osu.ppy.sh/beatmapsets/344776#osu/761541)
-  - [HOUJIROU - Maihime ~buki~ \[Hyper\]](https://osu.ppy.sh/beatmapsets/28765#osu/98943)
+  - [HOUJIROU - Maihime \~buki\~ \[Hyper\]](https://osu.ppy.sh/beatmapsets/28765#osu/98943)
   - [ChouCho - My dear friend \[Insane\]](https://osu.ppy.sh/beatmapsets/206079#osu/486131)
 - FreeMod
   - [yuikonnu - Junjou Skirt \[Insane\]](https://osu.ppy.sh/beatmapsets/200230#osu/474657)
@@ -240,7 +240,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 - HardRock
   - [LeaF - Wizdomiot \[Another\]](https://osu.ppy.sh/beatmapsets/336099#osu/754799)
   - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[Frostings' Insane\]](https://osu.ppy.sh/beatmapsets/210346#osu/508558)
-  - [Xi - Majotachi no Butoukai ~ Magus \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/43862#osu/158309)
+  - [Xi - Majotachi no Butoukai \~ Magus \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/43862#osu/158309)
 - DoubleTime
   - [3L - Macrophylla Parasol \[Lunatic\]](https://osu.ppy.sh/beatmapsets/483344#osu/1489084)
   - [Giga-P - Electric Angel \[Insane\]](https://osu.ppy.sh/beatmapsets/146794#osu/363639)

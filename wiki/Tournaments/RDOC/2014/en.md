@@ -6,9 +6,9 @@ tags:
 
 # Royal Danish osu!Cup 2014
 
-![RDOC logo](img/logo.png)
+![RDOC 2014 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2014** (***RDOC2014***) was a national double-elimination 31-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). This was the first installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the first installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -24,8 +24,8 @@ The **Royal Danish osu!Cup 2014** (***RDOC2014***) was a national double-elimina
 | ![Gold crown](/wiki/shared/GCrown.png "1st place") | 8 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
-| 4th place | 2 months of osu!supporter tag |
-| 5-6th place | 1 month of osu!supporter tag |
+| *4th place* | 2 months of osu!supporter tag |
+| *5 - 6th place* | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -36,7 +36,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 | Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
 | Map selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
 | Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
-| Other Helpers | ![][flag_DK] [Vocalover](https://osu.ppy.sh/users/2281840), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
+| Other helpers | ![][flag_DK] [Vocalover](https://osu.ppy.sh/users/2281840), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | Designer | ![][flag_DK] [Nickyeh](https://osu.ppy.sh/users/2314944) |
 | Donator | ![][flag_DK] [Gupply](https://osu.ppy.sh/users/2983311), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
 
@@ -72,7 +72,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
   - [Hanatan - Kimi no Kiseki \[Insane\]](https://osu.ppy.sh/beatmapsets/80624#osu/224235)
   - [The Quick Brown Fox - Big Money \[$100\]](https://osu.ppy.sh/beatmapsets/101766#osu/272026)
   - [U - Kansha Kangeki \[Insane\]](https://osu.ppy.sh/beatmapsets/62736#osu/186428)
-  - [Akita Neru - Gotya Gotya Uruse~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
+  - [Akita Neru - Gotya Gotya Uruse\~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
   - [LeaF - Calamity Fortune \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
 - Hidden
   - [Hanatan - Shiwa \[Insane\]](https://osu.ppy.sh/beatmapsets/130704#osu/329967)
@@ -112,7 +112,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
   - [Harry - Earth day \[TVO's Hard day\]](https://osu.ppy.sh/beatmapsets/65228#osu/194498)
   - [mafumafu & amatsuki - Kasyokusei:Idol Syoukougun \[Insane\]](https://osu.ppy.sh/beatmapsets/76366#osu/215181)
 - DoubleTime
-  - [Gunther - I'm Not Justin Bieber B**ch \[Hard\]](https://osu.ppy.sh/beatmapsets/139605#osu/348705)
+  - [Gunther - I'm Not Justin Bieber B\*\*ch \[Hard\]](https://osu.ppy.sh/beatmapsets/139605#osu/348705)
   - [yanaginagi - Hero no Jouken \[Hero\]](https://osu.ppy.sh/beatmapsets/96917#osu/259463)
   - [KOKIA - Fate \[Twin Blades\]](https://osu.ppy.sh/beatmapsets/55606#osu/168612)
 - FreeMod
@@ -259,7 +259,7 @@ Friday, 2014-02-21:
 | UB | **Gupply** ![][flag_DK] | **3** | 0 | ![][flag_DK] Tenasow |
 | UB | Karrusel ![][flag_DK] | 1 | **3** | ![][flag_DK] **Kozhler** |
 
-Tonarionototoro received a bye into Round of 16 since winthermens couldnt play in advance.
+Tonarionototoro received a bye into Round of 16 since winthermens couldnt play.
 
 ## Ruleset
 

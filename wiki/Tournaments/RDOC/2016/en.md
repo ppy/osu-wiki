@@ -6,9 +6,9 @@ tags:
 
 # Royal Danish osu!Cup 2016
 
-![RDOC logo](img/logo.png)
+![RDOC 2016 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2016** (***RDOC2016***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). This was the second installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **Royal Danish osu!Cup 2016** (***RDOC2016***) was a national double-elimina
 | ![Gold crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
+| *4th place* | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 | Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
 | Map selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
 | Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
-| Other Helpers | ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
+| Other helpers | ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
 | Designer | ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
 | Streamer/Commentator | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [6Lu6Ci6Fer](https://osu.ppy.sh/users/7229384), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
 
@@ -59,13 +59,13 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 ## Podium
 
- This competition has come to an end and resulted in the following podium:
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
 | 4th place | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) |
 
 ## Mappools
@@ -83,11 +83,11 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 - Hidden
   - [Apocalyptica - Hall of the Mountain King \[Extra\]](https://osu.ppy.sh/beatmapsets/219813#osu/514597)
   - [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) \[BD's Gangsta\]](https://osu.ppy.sh/beatmapsets/287873#osu/652234)
-  - [Ray - Hajimete Girls! \[Skystar's Pin Pon~\]](https://osu.ppy.sh/beatmapsets/330566#osu/776752)
-  - [*namirin - Sakurairo Time Capsule \[Petal\]](https://osu.ppy.sh/beatmapsets/355236#osu/782160)
+  - [Ray - Hajimete Girls! \[Skystar's Pin Pon\~\]](https://osu.ppy.sh/beatmapsets/330566#osu/776752)
+  - [\*namirin - Sakurairo Time Capsule \[Petal\]](https://osu.ppy.sh/beatmapsets/355236#osu/782160)
 - HardRock
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) \[Reconnected\]](https://osu.ppy.sh/beatmapsets/37242#osu/123708)
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ \[Extra\]](https://osu.ppy.sh/beatmapsets/335665#osu/742975)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ \[Extra\]](https://osu.ppy.sh/beatmapsets/335665#osu/742975)
   - [Hatsune Miku - Homework Crisis \[Let's Jump!!\]](https://osu.ppy.sh/beatmapsets/33068#osu/108021)
   - [Rise Against - Injection \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#osu/646390)
 - DoubleTime
@@ -148,11 +148,11 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 - HardRock
   - [Hanatan - Palette \[Irrelvis' Extra\]](https://osu.ppy.sh/beatmapsets/165693#osu/432346)
   - [Orangestar - Asu no Yozora Shoukaihan \[TmTk's Insane\]](https://osu.ppy.sh/beatmapsets/219728#osu/549280)
-  - [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku ~Tamashii no Shirube~ \[Insane\]](https://osu.ppy.sh/beatmapsets/89888#osu/244182)
+  - [Uchida Maaya - Hana Tsubomi Yume Miru Kyoushikyoku \~Tamashii no Shirube\~ \[Insane\]](https://osu.ppy.sh/beatmapsets/89888#osu/244182)
 - DoubleTime
   - [Sasaki Sayaka - Zzz \[Insane\]](https://osu.ppy.sh/beatmapsets/32375#osu/105950)
   - [FELT - Prayer Blue \[Lunatic\]](https://osu.ppy.sh/beatmapsets/51145#osu/156927)
-  - [Nanamori-chu * Goraku-bu - Precious Friends \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
+  - [Nanamori-chu \* Goraku-bu - Precious Friends \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
   - [azusa - Check my soul \[Insane\]](https://osu.ppy.sh/beatmapsets/45664#osu/142462)
 - FreeMod
   - [Jeff Williams - This Will Be the Day (feat. Casey Lee Williams) \[Insane\]](https://osu.ppy.sh/beatmapsets/117269#osu/302238)
@@ -194,7 +194,7 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 ### Groupstage
 
 - NoMod
-  - [Xelia / Illumiscape \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
+  - [Xelia - Illumiscape \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
   - [iojjj - Deus Ex Machina \[EXTRA\]](https://osu.ppy.sh/beatmapsets/107747#osu/688907)
   - [yuikonnu - Souzou Forest \[Imagination\]](https://osu.ppy.sh/beatmapsets/304871#osu/682956)
   - [Hatsune Miku - Recommended Spell \[Insane\]](https://osu.ppy.sh/beatmapsets/28864#osu/96499)

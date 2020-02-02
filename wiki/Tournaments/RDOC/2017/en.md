@@ -6,9 +6,9 @@ tags:
 
 # Royal Danish osu!Cup 2017
 
-![RDOC logo](img/logo.png)
+![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC2017***) was a national double-elimination 32-player 1v1 osu!standard tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). This was the third installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **Royal Danish osu!Cup 2017** (***RDOC2017***) was a national double-elimina
 | ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 12 months of osu!supporter tag, custom hoodie |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag, custom t-shirt |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
-| 4th place | 2 months of osu!supporter tag |
+| *4th place* | 2 months of osu!supporter tag |
 
 ![RDOC winner badge](img/badge.png)
 
@@ -94,7 +94,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
   - [Camellia - dreamless wanderer \[lost\]](https://osu.ppy.sh/beatmapsets/417492#osu/904030)
   - [SHK - Death Moon II \[SHD\]](https://osu.ppy.sh/beatmapsets/472158#osu/1009022)
   - [Zips - Heisei Cataclysm \[0108\]](https://osu.ppy.sh/beatmapsets/72217#osu/220231)
-  - [Ryu* - Sakura Mirage \[ULTRA\]](https://osu.ppy.sh/beatmapsets/205022#osu/484036)
+  - [Ryu\* - Sakura Mirage \[ULTRA\]](https://osu.ppy.sh/beatmapsets/205022#osu/484036)
   - [Smooth McGroove - Mega Man X Spark Mandrill (Dj CUTMAN Remix) \[fartownik & Okorin's Extreme\]](https://osu.ppy.sh/beatmapsets/399912#osu/927819)
   - [Fear, and Loathing in Las Vegas - Let Me Hear \[Extra\]](https://osu.ppy.sh/beatmapsets/225293#osu/527533)
 - Hidden
@@ -150,7 +150,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
   - [sakuzyo - Neurotoxin \[Skystar's Expert\]](https://osu.ppy.sh/beatmapsets/198380#osu/636109)
   - [Lon - Yuru Fuwa Jukai Girl \[Mystica's Insane\]](https://osu.ppy.sh/beatmapsets/49686#osu/155438)
 - Hidden
-  - [ayaponzu* - Otsukimi Recital \[Broccoly's Extra\]](https://osu.ppy.sh/beatmapsets/172157#osu/416211)
+  - [ayaponzu\* - Otsukimi Recital \[Broccoly's Extra\]](https://osu.ppy.sh/beatmapsets/172157#osu/416211)
   - [Gentle Stick X M2U - Ineffabilis \[Yuki's Extra\]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
   - [LiSA - Rising Hope \[Skystar's ExtrA\]](https://osu.ppy.sh/beatmapsets/157871#osu/400238)
 - HardRock
@@ -174,13 +174,13 @@ The Royal Danish osu!Cup 2017 was run by various community members.
   - [Yousei Teikoku - Deep Sea \[LC\]](https://osu.ppy.sh/beatmapsets/104260#osu/274365)
   - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni \[deetz' Insane\]](https://osu.ppy.sh/beatmapsets/353398#osu/821336)
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru \[Lunatic\]](https://osu.ppy.sh/beatmapsets/58951#osu/176960)
-  - [P*Light - FUNKY SUMMER BEACH \[K.Penguin's Extra\]](https://osu.ppy.sh/beatmapsets/212192#osu/500082)
+  - [P\*Light - FUNKY SUMMER BEACH \[K.Penguin's Extra\]](https://osu.ppy.sh/beatmapsets/212192#osu/500082)
 - Hidden
   - [Rohi - Kakuzetsu Thanatos \[RLC\]](https://osu.ppy.sh/beatmapsets/76396#osu/216133)
   - [TWICE - CHEER UP \[SHASHASHA\]](https://osu.ppy.sh/beatmapsets/456547#osu/978382)
   - [SHK - Identity Part 5 \[ExtrA\]](https://osu.ppy.sh/beatmapsets/171676#osu/415217)
 - HardRock
-  - [EastNewSound - Eisou Youga ~Meikyou Shisui~ \[Lunatic\]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
+  - [EastNewSound - Eisou Youga \~Meikyou Shisui\~ \[Lunatic\]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
   - [capsule - JUMPER \[Insane!\]](https://osu.ppy.sh/beatmapsets/21130#osu/73494)
   - [Jin - Otsukimi Recital \[Recital\]](https://osu.ppy.sh/beatmapsets/102366#osu/270536)
 - DoubleTime
@@ -196,7 +196,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 - NoMod
   - [sta - Iris \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#osu/255163)
-  - [P*Light - Poppin' Shower \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
+  - [P\*Light - Poppin' Shower \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
   - [Ito Kanako - Amadeus \[Insane\]](https://osu.ppy.sh/beatmapsets/384688#osu/840538)
   - [Yuaru - Asu no Yozora Shoukaihan \[Linada's Insane\]](https://osu.ppy.sh/beatmapsets/384772#osu/854616)
   - [STEREO DIVE FOUNDATION - Renegade \[revolution.\]](https://osu.ppy.sh/beatmapsets/351719#osu/775179)
