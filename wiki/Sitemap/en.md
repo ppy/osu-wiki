@@ -35,6 +35,7 @@ tags:
 -   [Chat Console](/wiki/Chat_Console)
 -   [Contests](/wiki/Contests)
     -   [FBC](/wiki/Contests/FBC)
+    -   [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
     -   [OMC](/wiki/Contests/OMC)
         -   [5](/wiki/Contests/OMC/5)
     -   [oMWC](/wiki/Contests/oMWC)
