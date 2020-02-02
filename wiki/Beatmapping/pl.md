@@ -10,11 +10,11 @@ outdated: true
 
 Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
 
--   Łatwy
--   Normal
--   Trudny
--   Szalony
--   Ekspercki
+- Łatwy
+- Normal
+- Trudny
+- Szalony
+- Ekspercki
 
 Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [mapperów](/wiki/Glossary) do tworzenia interesujących [map](/wiki/Beatmaps) odpowiednich dla danego [poziomu trudności](/wiki/Difficulties).
 

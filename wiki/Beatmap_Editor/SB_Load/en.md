@@ -10,8 +10,8 @@ It's best if a map never exceeds 5x SB Load. This ensures that the map is viewab
 
 ## Where It's Displayed
 
--   Testing in [Beatmap Editor](/wiki/Beatmap_Editor).
--   [Storyboard Editor](/wiki/Beatmap_Editor/Design), though numbers may not be as accurate.
+- Testing in [Beatmap Editor](/wiki/Beatmap_Editor).
+- [Storyboard Editor](/wiki/Beatmap_Editor/Design), though numbers may not be as accurate.
 
 ## Suggestions for Reduction
 
@@ -41,10 +41,10 @@ And that's it! Your background will be replaced with a solid black wall, which u
 
 For every png that you use in your storyboard, osu! has to draw the entire thing. Even transparent pixels need to be "drawn," so images with a lot of empty space place a lot of unnecessary stress on the computer. This is an easy one to fix, generally:
 
--   **Trim your images as much as possible.** Photoshop actually has a tool that will do this for you. Just hit Image -&gt; Trim and it will give you a few options for cropping away empty space around your edges.
--   **Make use of the different "origin" options that storyboarding gives you.** Lets say you have a sprite of a character whose head bobs up and down. In most of the frames, there's a chunk of empty space at the top of the sprite, because you want all the frames to line up, right? But if you set the origin to BottomCentre, then it won't matter how tall the sprite is, it will always be aligned from the bottom. So you can eliminate the empty space at the top.
--   **Multiple small images may be better than one big image.** This can be pretty situation-specific, but let's say you have a big sprite that just has five little stars in it. Trimming that sprite might leave a bunch of empty space in the middle. Breaking the sprite into a bunch of little sprites may seem inefficient, but since osu's strain comes from the number of pixels rather than the number of files, it can actually be a big improvement.
-    -   Similarly, if you have a full-screen "frame" image, with a big window or screen looking through to the rest of your SB, consider chopping that into 4 images, one for the left side, one for the right side, one for the top, and one for the bottom. Now instead of drawing nearly a full screen's worth of clear pixels, your empty space is actually empty, as only the border is drawn. You probably want to have just a bit of overlap at the corners to avoid gaps appearing when the map is played at certain resolutions, but try to keep the overlap as slim as possible.
+- **Trim your images as much as possible.** Photoshop actually has a tool that will do this for you. Just hit Image -> Trim and it will give you a few options for cropping away empty space around your edges.
+- **Make use of the different "origin" options that storyboarding gives you.** Lets say you have a sprite of a character whose head bobs up and down. In most of the frames, there's a chunk of empty space at the top of the sprite, because you want all the frames to line up, right? But if you set the origin to BottomCentre, then it won't matter how tall the sprite is, it will always be aligned from the bottom. So you can eliminate the empty space at the top.
+- **Multiple small images may be better than one big image.** This can be pretty situation-specific, but let's say you have a big sprite that just has five little stars in it. Trimming that sprite might leave a bunch of empty space in the middle. Breaking the sprite into a bunch of little sprites may seem inefficient, but since osu's strain comes from the number of pixels rather than the number of files, it can actually be a big improvement.
+  - Similarly, if you have a full-screen "frame" image, with a big window or screen looking through to the rest of your SB, consider chopping that into 4 images, one for the left side, one for the right side, one for the top, and one for the bottom. Now instead of drawing nearly a full screen's worth of clear pixels, your empty space is actually empty, as only the border is drawn. You probably want to have just a bit of overlap at the corners to avoid gaps appearing when the map is played at certain resolutions, but try to keep the overlap as slim as possible.
 
 ### Don't forget that you can recolour images using SB coding
 
@@ -54,6 +54,6 @@ Hopefully these tips are of some use to people. I know a lot of people don't kno
 
 ### Other tips
 
--   Ensure images don't have near-invisible layers when they should be fully invisible.
--   If an image has a large amount of transparent pixels, split it into multiple images and connect them in-engine.
--   If a scene is complicated (a lot of overlapping), try making it a single image in GIMP/Photoshop and then displaying only that (be careful, as doing this too much could lead to larger filesizes).
+- Ensure images don't have near-invisible layers when they should be fully invisible.
+- If an image has a large amount of transparent pixels, split it into multiple images and connect them in-engine.
+- If a scene is complicated (a lot of overlapping), try making it a single image in GIMP/Photoshop and then displaying only that (be careful, as doing this too much could lead to larger filesizes).
