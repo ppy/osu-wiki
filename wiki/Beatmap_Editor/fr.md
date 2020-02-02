@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Éditeur de Beatmap
 
 **L'éditeur de beatmap** est une interface graphique intégrée au jeu pour la création de [beatmaps](/wiki/Beatmaps). Il est séparé en quatre parties :
