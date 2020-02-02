@@ -1,4 +1,4 @@
-# How to use the Offset Wizard
+# How to use the offset wizard
 
 To make the offset wizard easier to use, you will need to get the following beatmap: [peppy - Offset Wizard (peppy)](https://osu.ppy.sh/beatmapsets/4659).
 After downloading, load it up in osu! then follow these instructions:

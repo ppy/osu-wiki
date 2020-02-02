@@ -1,4 +1,4 @@
-# Unrankable
+# Unrankable mapping techniques
 
 In normal situations, the use of these techniques will automatically make your map unrankable!
 
