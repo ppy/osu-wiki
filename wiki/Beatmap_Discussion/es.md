@@ -84,7 +84,7 @@ El tren del hype es similar al anterior sistema de prioridad por estrellas.
 
 *Nota: Se requiere que los jugadores jueguen una dificultad en el beatmapset para agregar Hype a un beatmap.*
 
-Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o` Linea de Tiempo`.
+Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o `Linea de Tiempo`.
 
 ### Nominación
 
@@ -158,7 +158,7 @@ Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la
 
 ### Nominación
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
 
@@ -192,7 +192,6 @@ Los miembros de BN, NAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo
 - Puede editar o eliminar tus publicaciones si enviaste una publicación y encontraste un error.
 - Como creador, puedes volver a abrir cualquier problema resuelto anteriormente respondiendo a la publicación y desmarcando Resuelto.
 - Puedes editar la descripción del beatmap utilizando la página de beatmapset. Haz clic en el icono de edición en la parte superior derecha del campo de descripción.
-
 
 ## Guía paso a paso para publicar una modificación
 
