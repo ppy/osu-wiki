@@ -1,4 +1,4 @@
-# Compound Commands
+# Storyboard scripting compound commands
 
 These are more complicated commands that don't do anything by themselves. Instead, they **provide conditions for when other events happen.**
 

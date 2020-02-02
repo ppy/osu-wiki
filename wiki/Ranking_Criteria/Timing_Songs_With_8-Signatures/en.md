@@ -1,4 +1,4 @@
-# Timing Songs with #/8-Signatures
+# Timing songs with #/8-signatures
 
 Every now and then, songs are being mapped that have a time signature that is not divided into quater-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ...). Since the current editor does not support those #/8-signatures and we don't know whether this will change in the near future, an addition has been made to the rule concerning this matter on the [corresponding section of the Ranking Criteria](/wiki/Ranking_Criteria#timing).
 
