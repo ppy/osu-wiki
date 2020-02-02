@@ -32,9 +32,6 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | <img src="/wiki/Tournaments/OCM/2020/images/mvp1.jpg" width="30" > | 1 month of osu!supporter tag |
 
 Note: the mvp is a single player chosen by the staff when the tournament ends
-<!--
-->inserte chapita aca<-
--->
 
 ## Organisation
 
@@ -82,19 +79,6 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 ---
 
-<!--
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Country |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |  |
-
----
--->
 ## Mappools
 
 ### Group Stage
