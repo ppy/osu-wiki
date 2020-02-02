@@ -15,7 +15,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-01-24 |
-| Qualifiers | 2020-02-07/2020-02 |
+| Qualifiers | 2020-02-07/2020-02-16 |
 | Live drawings | *TBD* |
 | Group Stage | 2020-02-22/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
@@ -71,7 +71,22 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 ## Mappools
 
-*TBD*
+### Qualifiers
+
+- NoMod
+  - [Dreamcatcher - YOU AND I [Down's Extra]](https://osu.ppy.sh/beatmapsets/779107#osu/1657467)
+  - [C-Show - Rocking to the Beat [Extra Collab]](https://osu.ppy.sh/beatmapsets/305938#osu/923329)
+  - [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari [Collab Insane]](https://osu.ppy.sh/beatmapsets/719158#osu/1542952)
+  - [sakuzyo - Imprinting [toybot's Extra]](https://osu.ppy.sh/beatmapsets/264299#osu/731975)
+- Hidden
+  - [Kawada Mami - JOINT [Insane]](https://osu.ppy.sh/beatmapsets/1051651#osu/2228125)
+  - [Lime - Renai Syndrome [Another]](https://osu.ppy.sh/beatmapsets/166062#osu/859667)
+- HardRock
+  - [Machico - Korekara [Little's Insane]](https://osu.ppy.sh/beatmapsets/718735#osu/1527723)
+  - [HyuN feat. LyuU - Cross Over [Insane]](https://osu.ppy.sh/beatmapsets/922249#osu/1925936)
+- DoubleTime
+  - [Yasuda Rei - Mirror -TV edit- [Insane]](https://osu.ppy.sh/beatmapsets/211036#osu/496376)
+  - [BoA - MASAYUME CHASING [Insane]](https://osu.ppy.sh/beatmapsets/176805#osu/425707)
 
 ## Match results
 
