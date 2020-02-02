@@ -42,6 +42,7 @@ The The Ultimate Beginners Taiko World Cup is run by various community members.
 | Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Developer | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
 
 ## Links
 
