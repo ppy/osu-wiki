@@ -58,9 +58,6 @@ Pour qu'une beatmap soit aimée, elle doit passer par le [processus de vote comm
 
 ### En attente
 
-_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
-
-
 *Page principale : [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure)*
 
 Les beatmaps en attente utilisent l'icône de point d'interrogation (![Question mark icon](/wiki/shared/status/pending.png)) dans l'écran de sélection de la chanson.
