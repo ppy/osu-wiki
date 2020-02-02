@@ -4,13 +4,15 @@ The Beat Snap Divisor is used to limit where notes can be placed so that they al
 
 Each of the settings put different colours of ticks on the [Timelines](/wiki/Beatmap_Editor/Timelines). The ticks are as follows (for [Standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), and [osu!catch](/wiki/Game_Modes/osu!catch)):
 
+## osu!, osu!taiko and osu!catch
+
 ### Divisor 1/1
 
 ![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
 
 - Full Beats
 - White ticks only
-- Best used for Easy difficulty.
+- Best used for Easy difficulty
 
 ### Divisor 1/2
 
@@ -33,7 +35,7 @@ Each of the settings put different colours of ticks on the [Timelines](/wiki/Bea
 
 - Quarter Beats
 - Adds blue ticks, in addition to the red ticks
-- Useful for general mapping.
+- Useful for general mapping
 
 ### Divisor 1/6
 
@@ -49,7 +51,6 @@ Each of the settings put different colours of ticks on the [Timelines](/wiki/Bea
 
 - Eighth Beats
 - Adds yellow ticks, in addition to the red and blue
-
 
 The 1/3 and 1/6 are special because it means your BPM is divisible by three, but this is *rare*.
 
@@ -69,7 +70,7 @@ Green line: You.
 
 - Full Beats
 - White ticks only
-- Best used for Easy difficulty.
+- Best used for Easy difficulty
 
 ### Divisor 1/2
 
