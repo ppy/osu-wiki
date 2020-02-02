@@ -1,4 +1,4 @@
-# OpenGL Support Issues
+# OpenGL support issues
 
 The next large release of osu! (coming in August-September 2015) removes DirectX support in order to simplify our framework. If you are seeing this page, it means you are likely unable to play osu! on your current system when the new release goes live. This page has common solutions for problems that we have found. Please read through and try them out!
 

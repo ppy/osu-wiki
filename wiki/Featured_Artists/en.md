@@ -1,4 +1,4 @@
-# Featured Artists
+# Featured artists
 
 <!-- TODO: include some history about featured artists / mappers' guild, maybe in /History_of_osu! too -->
 

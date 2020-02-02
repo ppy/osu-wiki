@@ -14,6 +14,6 @@ Les sections de timing (« *timing sections* ») vous permet de varier le timing
 
 Les sections de timing ordinaires sont représentées par des lignes rouges dans l'éditeur. Chaque map en a au moins une. Quelques maps changent leur BPM pendant le son, cependant elles ont malgré tout besoin d'avoir plusieurs sections ordinaires.
 
-Les sections de timing héritées sont représentées par des lignes vertes dans l'éditeur. Elles ne changent pas en réalité le timing du son. Le but des sections héritées est de vous laisser changer le volume des [Hitsounds](/wiki/Glossary) de la map, les hitsounds eux-mêmes, la vitesse des [sliders](/wiki/Beatmap_Editor/Slider) ainsi que d'autres paramètres sans avoir à modifier le timing de la musique (ce qui se produirait avec une section ordinaire).
+Les sections de timing héritées sont représentées par des lignes vertes dans l'éditeur. Elles ne changent pas en réalité le timing du son. Le but des sections héritées est de vous laisser changer le volume des [Hitsounds](/wiki/Glossary) de la map, les hitsounds eux-mêmes, la vitesse des [sliders](/wiki/Slider) ainsi que d'autres paramètres sans avoir à modifier le timing de la musique (ce qui se produirait avec une section ordinaire).
 
 Ces deux types de sections sont souvent appelés respectivement « décalage rouge » et « décalage vert » (*red offsets* et *green offsets*).

@@ -13,7 +13,7 @@ needs_cleanup: true
 
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
 
-# Play Styles
+# Play styles
 
 This page will detail the various different ways in which players can choose to play in their respective game modes.
 
