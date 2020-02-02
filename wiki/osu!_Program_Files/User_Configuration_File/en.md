@@ -1,4 +1,4 @@
-# User Configuration File
+# User configuration file
 
 This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot of these options are available through the in-game [options menu](/wiki/Options), and it is recommended that you change them there. Only edit these values manually if you really must.
 

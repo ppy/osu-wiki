@@ -1,4 +1,4 @@
-# Setting the Offset on the Correct Beat
+# How to set the offset on the correct beat
 
 [*About Offset Interval* by Alace](https://osu.ppy.sh/community/forums/topics/20998)
 

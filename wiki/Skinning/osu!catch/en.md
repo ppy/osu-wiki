@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# osu!catch
+# osu!catch skinning
 
 *See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)*
 
