@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 # Teamet
 
 *För en lista över befodranden och avgångar, se: [Personallogg](/wiki/Staff_Log)*
