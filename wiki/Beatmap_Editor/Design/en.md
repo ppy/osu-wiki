@@ -1,4 +1,4 @@
-# Design
+# Design tab
 
 ![Design tab](img/SE_base.jpg "Design tab")
 

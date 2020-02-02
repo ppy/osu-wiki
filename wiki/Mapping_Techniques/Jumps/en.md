@@ -1,4 +1,4 @@
-# Jumps
+# Jump mapping techniques
 
 _See [Mapping Techniques/Basics](../Basics/#jumps) for a description on jumps._
 

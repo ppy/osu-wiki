@@ -1,4 +1,4 @@
-# Compose
+# Compose tab
 
 ![Compose editor for osu! in Windowed mode](img/Compose.jpg "Compose editor for osu! in Windowed mode")
 

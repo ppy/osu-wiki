@@ -1,4 +1,4 @@
-# Beat Snap Divisor
+# Beat snap divisor
 
 The Beat Snap Divisor is used to limit where notes can be placed so that they always fall on the beat. Moving the slider to the right increases the granularity of the notes, that is, more notes can be placed in the same measure.
 
