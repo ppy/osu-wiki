@@ -2,18 +2,18 @@
 
 As implied by its name, the Monthly Beatmapping Contest (_MBC_) is a contest that runs monthly and allows users to compete with their beatmapping capabilities. 
 
-The MBC was originally handled on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests](/wiki/Contests#monthly-beatmapping-contest) article. The results for the 13th iteration can be found [here](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
+The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests](/wiki/Contests#monthly-beatmapping-contest) article. The results for the 13th iteration can be found [here](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
 
-Since 2020 the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this page details the new format for the MBC.
+Since 2020 the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
 
 ## Schedule
 
 The timeline for each month's contest is as follows:
 
-- **Beatmapping (3 weeks)**: Contest is announced and beatmappers create their entries
-- **Screening (1 week)**: Entries are evaluated by experienced beatmappers
-- **Voting (2 weeks)**: Top entries from screening are published for the osu! community to vote on
-- **Rewards**: Winners are announced and prizes are redeemed
+- **Beatmapping (3 weeks)**: Contest is announced at the start of the month and beatmappers create their entries.
+- **Screening (1 week)**: Entries are evaluated by experienced beatmappers.
+- **Voting (2 weeks)**: Top entries from screening are published for the osu! community to vote on.
+- **Rewards**: Winners are announced and prizes are redeemed.
 
 The voting portion of each contest overlaps with the next month's contest's beatmapping portion.
 
@@ -21,9 +21,9 @@ The voting portion of each contest overlaps with the next month's contest's beat
 
 Submissions for the MBC must abide by the following rules:
 
-- **Submissions must follow the month's beatmapping limitation.** This differs month by month and is detailed on each contest's announcement post.
-- **Submissions must be in `.osz` format.** This allows entries to use custom hitsound files and backgrounds, however storyboarded visuals are removed from all submissions.
+- **Submissions must follow the month's beatmapping limitation.** The limitation differs month by month and is detailed on each contest's announcement post.
 - **Submissions must be a single difficulty for one the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
+- **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
 - **Submissions must be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
 - **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
 - **Submissions must abide by the [Ranking Criteria](/wiki/Ranking_Criteria).**
@@ -68,12 +68,12 @@ MBC points reward users at certain thresholds:
 
 Participants who are in the [Mappers' Guild](https://mappersguild.com/) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to MBC points.
 
-### MBC Points
+### Points
 
-After the conclusion of the first contest, each user's MBC points will be listed on this page.
+After the conclusion of the first contest, each user's MBC points will be listed in this section.
 
 <!--
 | User | Points |
 | :-: | --- |
-| [Username](https://osu.ppy.sh/users/x) | 0 |
+| [username](https://osu.ppy.sh/users/0) | 0 |
 --> 
