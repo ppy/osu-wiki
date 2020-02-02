@@ -1,4 +1,4 @@
-# Rhythm
+# Rhythm mapping techniques
 
 <!-- please place all mapping techniques in alphabetical order -->
 

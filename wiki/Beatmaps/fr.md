@@ -44,7 +44,11 @@ Pendant la durée d'une semaine, cependant, [QATs](/wiki/QAT) sont autorisés à
 
 ### Aimé
 
+
 *Pour l'histoire de la catégorie Aimé, voir : [History of Loved](/wiki/Beatmaps/History_of_Loved).*
+
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
+
 
 Les cartes de battement aimées utilisent l'icône de coeur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection de la chanson.
 

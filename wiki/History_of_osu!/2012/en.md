@@ -1,4 +1,4 @@
-# 2012
+# History of osu! 2012
 
 ## September
 
