@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Skinning Tutorial (Interface)
+# Interface skinning tutorial
 
 ## Welcome Screen
 

@@ -1,4 +1,4 @@
-# 2014
+# History of osu! 2014
 
 ## March
 
