@@ -1,8 +1,9 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because a lot of the tools mentioned here are dated and there are better alternatives -->
 
-# Compressing Files
+# File compression guide
 
 *This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002).*
 

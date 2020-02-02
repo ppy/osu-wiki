@@ -6,7 +6,7 @@ tags:
 
 # osu!Philippines Summer Tournament 2018
 
-![oPHST2018 Poster](poster.png)
+![oPHST2018 Poster](img/poster.png)
 
 > The sun is up, temperatures are high, and it's time to set your rhythm ablaze!
 
@@ -63,7 +63,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
 
-![std badge](std.png) ![ctb badge](ctb.png) ![mania 4K badge](4kmania.png) ![mania 7K badge](7Kmania.png)
+![std badge](img/std.png) ![ctb badge](img/ctb.png) ![mania 4K badge](img/4kmania.png) ![mania 7K badge](img/7Kmania.png)
 
 ## Organization
 

@@ -1,4 +1,4 @@
-# Recording osu!
+# How to record videos of osu!
 
 [Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
 
@@ -22,7 +22,7 @@ Always wanted to make a video for YouTube about osu!, but never figured a good w
 
 Open Fraps, and lets screw around with the settings.
 
-![Fraps](Recording_1.png "Fraps")
+![Fraps](img/Recording_1.png "Fraps")
 
 Make sure that:
 
@@ -37,11 +37,11 @@ Make sure that:
 
 Open osu! whilst Fraps is running. If everything goes right (and if you haven't disabled this feature), you'll see a yellow FPS counter in a corner of the screen.
 
-![osu! while running Fraps](Recording_2.png "osu! while running Fraps")
+![osu! while running Fraps](img/Recording_2.png "osu! while running Fraps")
 
 Now, go to the thing that you want to record. i.e: a replay of yourself getting a highscore! When you are at the part where you want to start the recording, press your Video Capture Hotkey. The FPS counter might drop and must turn red. You are now recording. Look for a minute if the FPS rate isn't changing allot. If so, try some of these tips listed above.
 
-![osu! while recording with Fraps](Recording_3.png "osu! while recording with Fraps")
+![osu! while recording with Fraps](img/Recording_3.png "osu! while recording with Fraps")
 
 Press the Video Capture Hotkey again to stop recording.
 
@@ -49,7 +49,7 @@ Press the Video Capture Hotkey again to stop recording.
 
 Drag and drop the video on the timeline in Vegas. If there are multiple files, Vegas will add them to the end of the previous part automatically.
 
-![Editing video clip](Recording_4.png "Editing video clip")
+![Editing video clip](img/Recording_4.png "Editing video clip")
 
 You can do some optional editing now.
 
@@ -58,9 +58,9 @@ You can do some optional editing now.
 Now that you are done editing the video, go to 'File', then click 'Render As'
 Use the following options (depending on your Vegas version):
 
-![Rendering video clip](Recording_5.png "Rendering video clip")
+![Rendering video clip](img/Recording_5.png "Rendering video clip")
 
-![Rendering video clip](Recording_6.png "Rendering video clip")
+![Rendering video clip](img/Recording_6.png "Rendering video clip")
 
 Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube!
 Please note that it will take some time before the video will be available in high res on YouTube, be patient!

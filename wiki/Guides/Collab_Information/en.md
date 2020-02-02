@@ -1,4 +1,4 @@
-# Collab Information
+# How to start a beatmap collaboration
 
 Collaborations are one of the most difficult types of mapping to achieve. There are a lot of factors to include... Here are some tips to consider when making a collaboration.
 

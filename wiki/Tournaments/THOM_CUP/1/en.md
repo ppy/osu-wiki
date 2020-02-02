@@ -7,7 +7,7 @@ tags:
 
 # The Heptakey osu!mania Cup #1
 
-![THOM CUP Logo](logo.png)
+![THOM CUP Logo](img/logo.png)
 
 **The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
@@ -374,7 +374,7 @@ This competition has come to an end and resulted in the following podium:
 | dewero ![][flag_US]           | 4 | **5** | ![][flag_DE] **rohen04**      | [#1](https://osu.ppy.sh/community/matches/43236529) |
 | **Keweft** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Lazarento        | [#1](https://osu.ppy.sh/community/matches/43236538) |
 | **Gekido-** ![][flag_US]      | **5** | 4 | ![][flag_RU] Daleenie         | [#1](https://osu.ppy.sh/community/matches/43236398) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |  
+| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |
 | **dewero** ![][flag_US]       | **5** | 0 | ![][flag_BY] MatVeiQaaa       | [#1](https://osu.ppy.sh/community/matches/43238779) |
 | **Lothus** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Keweft           | [#1](https://osu.ppy.sh/community/matches/43238654) |
 | **Gamer97** ![][flag_CH]      | **5** | 0 | ![][flag_PL] -Karen-chan-     | -Win by Default- |

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # FAQ
 
 # Bevezető
@@ -311,7 +315,7 @@ A szint a teljes összegyűjtött online pontszámodon alapul, attól független
 
 ## Miért különböznek a profilomon megtalálható adatok a játékbeliektől?
 
-Valószínűleg nem a megfelelő játékmódot nézed. Kattints a megfelelő módra a profilodon. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+Valószínűleg nem a megfelelő játékmódot nézed. Kattints a megfelelő módra a profilodon. ![](img/Profile_mode_buttons.gif)
 
 ## Miért jelennek meg random fehér vonalak a képernyőn, amikor játszom?
 

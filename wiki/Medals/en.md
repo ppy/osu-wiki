@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: new types of medals have been added but aren't listed here yet -->
 
 # Medals
 

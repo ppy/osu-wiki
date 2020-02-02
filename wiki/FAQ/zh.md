@@ -393,7 +393,7 @@ Level是根据你在线时所累积的分数(及时你中途失败也会计算�
 
 你人品有问题，所以系统代替月亮来惩罚你(割
 
-你可能在看着其他模式的rank和pp，请在最上边选择你正在玩的模式: ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+你可能在看着其他模式的rank和pp，请在最上边选择你正在玩的模式: ![](img/Profile_mode_buttons.gif)
 
 ## 为什么我玩游戏时会看到一些类似白雾的东西?
 

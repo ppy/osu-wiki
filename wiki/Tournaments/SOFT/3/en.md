@@ -6,7 +6,7 @@ tags:
 
 # Springtime Osu!mania Free-for-all Tournament 3
 
-![SOFT3 Banner](banner.jpg)
+![SOFT3 Banner](img/banner.jpg)
 
 > Third time's the charm!
 
@@ -37,7 +37,7 @@ tags:
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter |
 
-![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
+![SOFT3 Badge](img/badge.png "SOFT3 Winner Badge")
 
 ## Organization
 

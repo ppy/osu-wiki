@@ -1,4 +1,4 @@
-# osu! File Formats
+# osu! file formats
 
 ## osu!-specific file format
 

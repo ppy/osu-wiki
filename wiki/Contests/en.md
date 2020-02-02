@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because new contests haven't been added here for a long time. -->
 
 <!-- Please check redirects after adding new sections with year numbers. -->
 [o!s]: /wiki/shared/mode/osu.png

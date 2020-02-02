@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: new options exist and haven't been added to this article yet -->
 
 # Options
 

@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because info about Qualified and Approved is outdated, also there are some references to old website componenets -->
 
 # Beatmaps
 

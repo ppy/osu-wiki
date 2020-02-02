@@ -1,4 +1,4 @@
-# Variables
+# Storyboard scripting variables
 
 You can strings of text, up to a whole line, as **variables** for use elsewhere in an .osb file (note that the value can't change during the gameplay, so for those with software experience, think of it more like a constant). *.osu files do not support this.*
 

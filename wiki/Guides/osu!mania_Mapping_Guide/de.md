@@ -36,7 +36,7 @@ Ich habe hier einen Screenshot vorbereitet um mal die Grundelemente des Mania Ed
 
 **8. Sample Set:** Das Sample Set ermöglicht es uns noch mehr Hitsounds zu benutzen als in Punkt 5 gezeigt. Stellen wir das Sample Set auf "Drum" und fügen dann einen Finish hinzu, klingt es ganz anders als "Normal" Finish. Genauer gehe ich im Part "Hitsounds" darauf ein.
 
-![Mania Editor](Mania_Editor.jpg "Mania Editor")
+![Mania Editor](img/Mania_Editor.jpg "Mania Editor")
 
 Soviel zum Editor. Ich hoffe ihr konntet mit meinem schönen Screen ein wenig mehr überblick gewinnen. Je mehr ihr Mappt umso vertrauter macht ihr euch damit!
 
@@ -56,7 +56,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### General
 
-![Song Setup](Song_Setup.png "Song Setup")
+![Song Setup](img/Song_Setup.png "Song Setup")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -70,7 +70,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Difficulty
 
-![Difficulty tab](Difficulty.png "Difficulty tab")
+![Difficulty tab](img/Difficulty.png "Difficulty tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -81,7 +81,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Design
 
-![Design tab](Design.png "Design tab")
+![Design tab](img/Design.png "Design tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -92,7 +92,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 
 #### Advanced
 
-![Advanced tab](Advanced.png "Advanced tab")
+![Advanced tab](img/Advanced.png "Advanced tab")
 
 | Name | Beschreibung |
 | ---- | ------------ |
@@ -137,68 +137,68 @@ Ich habe mal einen kurzen abschnitt eines Songs gemappt um die Pattern in ihrer 
 
 Hier sehen wir die Long Note oder auch "LN". Eine LN wird benutzt um lange Töne zu mappen. Im Grunde sind sie die Slider des Mania's. LN's sollten nicht zu durcheinander benutzt werden, jedoch können sich viele LN's auch sehr gut spielen! Mappt eine LN immer nur so lang wie der Ton zu hören ist. Nicht einfach Random einsetzen.
 
-![Long Note](MT-Long_Note.jpg "Long Note")
+![Long Note](img/MT-Long_Note.jpg "Long Note")
 
 #### Chord
 
 Hier sehen wir den sogenannten Chord. Der Chord wird benutzt um kräftige Phasen zu betonen. Seien es laute Drums oder laute Melodie. Hier zu sehen sind die Chords im 1/1 Beat Platziert. Chords können auch im 1/2 Beat benutzt werden um bestimmte töne besonders hervorzuheben. Chords sollten höchstens jedoch im 1/4 Takt gemappt werden, alles andere ist einfach unspielbar.
 Dazu gibt es noch den "3er-Chord" und den "4er-Chord". Der 3er-Chord sollte nur benutzt werden um einen Finish zu betonen, heißt das ende eines Parts. Der 4er-Chord sollte möglichst gar nicht benutzt werden im 4k außer man hat wirklich was zu betonen.
 
-![Chord](MT-Chord.jpg "Chord")
+![Chord](img/MT-Chord.jpg "Chord")
 
 #### Burst
 
 Hier sehen wir den Burst. Ein Burst erkennt man daran das er im 1/4 Takt gemappt ist und sich die Key's an beiden Händen abwechseln. Heißt: Erst eine Note mit der Linken Hand. Dann eine mit der Rechten. Dann wieder Links. Bursts werden meisten benutzt um z.B schnelle Drums gut zu betonen.
 
-![Burst](MT-Burst.jpg "Burst")
+![Burst](img/MT-Burst.jpg "Burst")
 
 #### Stream
 
 Hier sehen wir den Stream. Der Stream wird für gewöhnlich im 1/4 Takt gemappt, kann jedoch, wenn es passt, auch im 1/6 Takt gemappt werden. Der Stream sollte nach Möglichkeit so nie im 1/8 takt gemappt werden außer es passt wirklich sehr sehr gut zur Melodie. Ein Stream passt besonders gut in Piano Parts die schnell von Hoher zu tiefer und zurück zur Hoher Tonlage wechseln.
 
-![Stream](MT-Stream.jpg "Stream")
+![Stream](img/MT-Stream.jpg "Stream")
 
 #### Stair
 
 Hier sehen wir die Stair. Die Stair wird für gewöhnlich im 1/4 Takt gemappt. Kann jedoch auch sehr gut im 1/6 und sogar im 1/8 Takt gemappt werden. Solltet ihr je was im 1/8 Takt mappen versucht zur aller erst ob eine Stair passt. Die Stair spielt sich einfach am besten. Besonders gut passt die Stair bei schnell absteigender bzw. ansteigender Tonlage.
 
-![Stair](MT-Stair.jpg "Stair")
+![Stair](img/MT-Stair.jpg "Stair")
 
 #### Jackhammer
 
 Hier sehen wir den Jackhammer oder auch einfach nur Jack genannt. Einen Jack erkennt man daran, wenn man eine Taste oft hintereinander drücken muss. Der Jack kann im 1/2, 1/3 und im 1/4 Takt gemappt werden, sollte jedoch möglich nicht im 1/6 Takt und niemals im 1/8 Takt und aufwärts gemappt werden. Ganz wichtig für den Jack: Benutzt ihn nicht einfach so! Mappt einen Jack nur wenn die Melodie es auch hergibt. Heißt. Gleiche Tonlage am besten sogar gleicher Ton! Ist der Ton nicht gleich und ihr Mappt einen Jack spielt sich das einfach nur schlecht.
 
-![Jackhammer](MT-Jackhammer.jpg "Jackhammer")
+![Jackhammer](img/MT-Jackhammer.jpg "Jackhammer")
 
 #### Shield
 
 Hier sehen wir den Shield. Sie heißen shield weil sie wie ein Schild vor und am ende einer LN benutzt werden. Shield Noten sollten niemals random benutzt werden und nur bei gleichen "Pitch". Genauso sollten viele shield's nebeneinander vermieden werden da sie wie ein Jack ziemlich schwer zu spielen sind.
 
-![Shield](MT-Shield.jpg "Shield")
+![Shield](img/MT-Shield.jpg "Shield")
 
 #### Chordjack
 
 Hier sehen wir den Chordjack. Genau wie beim einfachen Jack sollte ein Chordjack maximal im 1/6 Takt gemappt werden. Alles andere ist einfach fast unspielbar. Auch hier gilt: Benutzt den Chordjack nur bei gleicher Tonlage!.
 
-![Chordjack](MT-Chordjack.jpg "Chordjack")
+![Chordjack](img/MT-Chordjack.jpg "Chordjack")
 
 #### Trill
 
 Hier sehen wir den Trill. Ein Trill sollte wenn möglich maximal nur im 1/6 Takt gemappt werden. Ein trill wird sehr gerne benutzt wenn sich 2 Töne schnell hintereinander abwechseln. Auf dem Screenshot sehen wir den "One-Hand Trill". Heißt er wird mit einer Hand gespielt. Besser spielt sich jedoch der "Two-Hand Trill". Dieser wird auf Column 1-4, 1-3, 2-4 oder 2-3 verteilt. Der One-Hand Trill wird vielen Standard Spielern wie ein Normaler Stream vorkommen. Ist im Grunde auch das gleiche!
 
-![Trill](MT-Trill.jpg "Trill")
+![Trill](img/MT-Trill.jpg "Trill")
 
 #### Chordtrill
 
 Hier sehen wir den Chordtrill. Der Chordtrill gehört zu den schwereren Pattern die die Stardiff deiner Map ziemlich in die höhe treiben kann! Ein Chordtrill sollte höchstens im 1/4 Takt, in seltenen fällen auch im 1/6 takt, jedoch nicht darüber gemappt werden. Der Chordtroll wird benutzt um besonders laute und schnelle Parts in einem Song besonders zu betonen. Verwendet ihn nicht zu oft! Auch kann der Chordtrill mit einem "1-3, 2-4" Chord gemappt werden.
 
-![Chordtrill](MT-Chordtrill.jpg "Chordtrill")
+![Chordtrill](img/MT-Chordtrill.jpg "Chordtrill")
 
 #### Jumpstream
 
 Hier sehen wir den Jumpstream. Diese Pattern sind für die meisten am schwersten zu spielen denn es ist eine Kombination aus Stream und Chords. Der Jumpstream sollte nur gemappt werden in Parts wo auch ein Stream passt und dazu laute Drums/Melodie zu hören ist im 1/2 oder 1/1 Takt. Dieser Jumpstream ist im 1/2 Takt gemappt. Einen guten Jumpstream macht aus, dass wenn möglich, niemals 3 Noten auf einer Column im 1/2 Takt gemappt sind, wie hier auf dem Screenshot zu sehen.
 
-![Jumpstream](MT-Jumpstream.jpg "Jumpstream")
+![Jumpstream](img/MT-Jumpstream.jpg "Jumpstream")
 
 Soviel zu den Pattern! Viele von denen können sehr gut Kombiniert werden. Probiert einfach mal ein wenig rum! Gebt euch niemals mit dem ersten zufrieden das ihr gemappt habt. Oft muss man ein wenig um die Ecke denken!
 
@@ -370,7 +370,7 @@ Dieses Menü muss bei Full Keysound Maps verwendet werden damit man eine Map nic
 
 Wollt ihr eine Note mit einem Keysound belegen wählt diese mit einem ALT + Links klick an. Nun öffnet sich das Sample Menü. Wählt nun den Keysound aus, den ihr auf der Note haben wollt und klickt dann auf "Apply". Schon hat die Note den Keysound, den ihr ihr zugewiesen habt. Durch einen Doppelklick auf die Note hört ihr den Keysound. Alternativ könnt ihr auch einfach die Melodie laufen lassen.
 
-![Sample Import](Sample_Import.png "Sample Import")
+![Sample Import](img/Sample_Import.png "Sample Import")
 
 Im Grunde könnte man damit ein komplett eigenen Song erstellen ohne eine mp3 verwenden zu müssen! (Dann aber nicht für Rank!)
 

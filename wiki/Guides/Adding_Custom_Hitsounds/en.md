@@ -1,4 +1,4 @@
-# Adding Custom Hitsounds
+# How to add custom hitsounds
 
 From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (and modified)
 
@@ -23,7 +23,7 @@ Depending on which kind of hitsound you want it to fall under, you start the fil
 
 You then decide if you want it to be the normal hit, clap, whistle or finish.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Example 1
 
@@ -39,4 +39,4 @@ Like `normal-hitclap2.wav` or like `soft-hitfinish3.wav`
 
 Don't forget to go to the timing setup and change the hitsound choice to custom, and to the specific number
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")

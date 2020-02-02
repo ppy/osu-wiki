@@ -1,4 +1,4 @@
-# osu!mania Mapping Guide
+# osu!mania mapping guide
 
 ## Prologue
 
@@ -22,7 +22,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
 
-*Shortcut:* `2, 3` 
+*Shortcut:* `2, 3`
 
 **5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
@@ -42,7 +42,7 @@ Specifics on what snaps should be used for ranking are detailed in the [osu!mani
 
 *Shortcut:* `Ctrl + (W, E, R), Shift + (W, E, R)`
 
-![Mania Editor](Mania_Editor.jpg "Mania Editor")
+![Mania Editor](img/Mania_Editor.jpg "Mania Editor")
 
 ## Basics
 
@@ -52,7 +52,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 #### General
 
-![Song Setup](Song_Setup.png "Song Setup")
+![Song Setup](img/Song_Setup.png "Song Setup")
 
 | Name | Description |
 | ---- | ----------- |
@@ -66,7 +66,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 #### Difficulty
 
-![Difficulty tab](Difficulty.png "Difficulty tab")
+![Difficulty tab](img/Difficulty.png "Difficulty tab")
 
 | Name | Description |
 | ---- | ----------- |
@@ -77,7 +77,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 #### Design
 
-![Design tab](Design.png "Design tab")
+![Design tab](img/Design.png "Design tab")
 
 | Name | Description |
 | ---- | ----------- |
@@ -88,7 +88,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 #### Advanced
 
-![Advanced tab](Advanced.png "Advanced tab")
+![Advanced tab](img/Advanced.png "Advanced tab")
 
 | Name | Description |
 | ---- | ----------- |
@@ -150,7 +150,7 @@ Once you finally have the right timings in your map it's time to start mapping. 
 
 The LN is the "Slider" in osu!mania. Using LNs are the best way to represent long sounds in your song. There are lot of ways to use a LN which I will explain in another part of this guide.
 
-![Long Note](MT-Long_Note.jpg "Long Note")
+![Long Note](img/MT-Long_Note.jpg "Long Note")
 
 #### Chord
 
@@ -158,55 +158,55 @@ In the screenshot I have used a two note chord. Chords mean *more than 1 note*. 
 
 If you are planning to rank your map, you can use up to six notes! Anything more is against the Ranking Criteria.
 
-![Chord](MT-Chord.jpg "Chord")
+![Chord](img/MT-Chord.jpg "Chord")
 
 #### Burst
 
 Bursts are quick bursts of notes. They are not necessarily 1/4, but is defined by a sudden increase in density for a short period of time.
 
-![Burst](MT-Burst.jpg "Burst")
+![Burst](img/MT-Burst.jpg "Burst")
 
 #### Staircases
 
 The staircase is mostly used for fast sounds. Note that some stairs get very hard to execute after a certain BPM, this is mainly due to the jacks formed on columns 2 and 3.
 
-![Staircases](MT-Stream.jpg "Staircases")
+![Staircases](img/MT-Stream.jpg "Staircases")
 
 #### Roll
 
 Rolling is similar to Staircases. Usually rolls are delimited by a repeating pattern of 4 or more notes, but more generally, it's notes going in a certain direction. A 1234 is a roll and a 1324 is a split roll.
 
-![Stair](MT-Stair.jpg "Stair")
+![Stair](img/MT-Stair.jpg "Stair")
 
 #### Jackhammer
 
 Also known as a **Jack**. It is recommended to use jacks for two sounds that sound exactly the same. Jacks can scale in difficulty quickly when overused. It is recommended to avoid too much of these unless you're certain.
 
-![Jackhammer](MT-Jackhammer.jpg "Jackhammer")
+![Jackhammer](img/MT-Jackhammer.jpg "Jackhammer")
 
 #### Shield
 
 The shield can be recognized by the fact that its always note right before or after a LN.
 
-![Shield](MT-Shield.jpg "Shield")
+![Shield](img/MT-Shield.jpg "Shield")
 
 #### Chordjack
 
 The chord jack is a combination of the jackhammer and the chord. The way to use it is the same as for the jackhammer. For same sounds, just that you use these as chords for heavier sounds.
 
-![Chordjack](MT-Chordjack.jpg "Chordjack")
+![Chordjack](img/MT-Chordjack.jpg "Chordjack")
 
 #### Trill
 
 The trill is used for two really fast changing sounds in your song. In the screenshot we see the one handed trill, however you can also use columns 1 and 3 instead for a two handed trill.
 
-![Trill](MT-Trill.jpg "Trill")
+![Trill](img/MT-Trill.jpg "Trill")
 
 #### Chordtrill
 
 The chord trill can raise the difficulty of your map quickly. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. A simpler alternative would be using `12` and `34` chord trills instead.
 
-![Chordtrill](MT-Chordtrill.jpg "Chordtrill")
+![Chordtrill](img/MT-Chordtrill.jpg "Chordtrill")
 
 #### Jumpstream
 
@@ -216,7 +216,7 @@ A jumpstream can be used to layer strong sounds between a constant 1-note stream
 
 There a lot of different ways to map jumpstreams. In the screenshot we can see a really safe way to map it because there no 1/2 triple jacks in it.
 
-![Jumpstream](MT-Jumpstream.jpg "Jumpstream")
+![Jumpstream](img/MT-Jumpstream.jpg "Jumpstream")
 
 Okay! These are some of the different patterns you can use in your song! However, there are still many more configurations of patterns not covered in this guide. Many combinations work well together. Try to experiment these patterns in your song and I'm sure you can find a good mix of them for your song!
 

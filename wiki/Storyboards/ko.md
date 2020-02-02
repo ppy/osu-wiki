@@ -1,7 +1,7 @@
 # 스토리보드
 
-![EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 "Elite Beat 300"을 따냈을 때만 나온다.](Sbpassing.png "EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 "Elite Beat 300"을 따냈을 때만 나온다.")
-![|미스나 50을 띄웠을 때의 경우.](Sbfailing.png "|미스나 50을 띄웠을 때의 경우.")
+![EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 "Elite Beat 300"을 따냈을 때만 나온다.](img/Sbpassing.png "EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 "Elite Beat 300"을 따냈을 때만 나온다.")
+![|미스나 50을 띄웠을 때의 경우.](img/Sbfailing.png "|미스나 50을 띄웠을 때의 경우.")
 
 **스토리보드** (Storyboard, SB) 란 비트맵 화면을 장식하거나 플레이방식을 변경하는 등의 목적을 위해 위해 유저가 만든 640x480 픽셀 크기의 배경요소를 말합니다. 이것은 어떤 요소로든 구성할 수 있는데, 보통 유저들이 예술적으로 느낄 수 있는 시각적인 효과들로 구성된 것이 많습니다.
 

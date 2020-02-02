@@ -23,7 +23,7 @@ Dependendo do tipo de hitsound que você quer usar, você começa o nome do arqu
 
 Você então decide se quer que seja o normal hit, clap, whistle ou finish.
 
-![1ª imagem do tutorial](ACH_01.png "Tutorial Image 1")
+![1ª imagem do tutorial](img/ACH_01.png "Tutorial Image 1")
 
 ### Exemplo 1
 
@@ -39,4 +39,4 @@ Como `normal-hitclap2.wav` ou `soft-hitfinish3.wav`
 
 Não se esqueça de ir para a configuração de tempo e alterar a escolha do hitsound para o personalizado, e para o número específico.
 
-![2ª imagem do tutorial](ACH_02.png "Tutorial Image 2")
+![2ª imagem do tutorial](img/ACH_02.png "Tutorial Image 2")

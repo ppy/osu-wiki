@@ -2,7 +2,7 @@
 
 _Halaman utama: [osu!tourney](/wiki/osu!tourney)_
 
-![Klien dapat dimodifikasi dengan berbagai cara](Osutourneycustom.png)
+![Klien dapat dimodifikasi dengan berbagai cara](img/Osutourneycustom.png)
 
 Klien mendukung berbagai modifikasi sehingga anda dapat memodifikasinya untuk turnamen. Untuk melakukannya, anda perlu membuat susunan folder `/Skins/User/tournament` di direktori instalasi klien. Elemen-elemen skin dapat ditempatkan di folder ini dan mendukung ekstensi file `.jpg` and `.png`.
 
@@ -14,7 +14,7 @@ Berikut elemen yang dapat dimodifikasi:
 - `tourney-title` (opsional) - gambar yang ditampilkan di bagian bawah klien, di atas latar belakang
   - Elemen ini dapat digunakan untuk menampilkan misalnya logo turnamen.
 
-![Ikon tim dapat ditampilkan di samping nama tim](Osutourneyicons.png)
+![Ikon tim dapat ditampilkan di samping nama tim](img/Osutourneyicons.png)
 
 Klien akan menampilkan ikon yang terletak di `/Skins/User/tournament/icons` di samping nama-nama tim. Elemen ini dapat digunakan untuk menampilkan misalnya bendera negara atau avatar.
 
