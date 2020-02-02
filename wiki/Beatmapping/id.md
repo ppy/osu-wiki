@@ -1,6 +1,6 @@
 # Beatmapping
 
-**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmaps) di _osu!_ untuk pengguna agar dapat dimainkan.
+**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmaps) di osu! untuk pengguna agar dapat dimainkan.
 Ini termasuk pemilihan lagu, [timing](/wiki/Timing), peletakan [objects](/wiki/Hit_Objects), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboarding).
 
 Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
@@ -10,7 +10,7 @@ Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai
 
 ## Memulai
 
-Untuk memulai membuat beatmap baru, silakan pergi ke edit mode kemudian drag-dan-drop audio file ke _osu!_.
+Untuk memulai membuat beatmap baru, silakan pergi ke edit mode kemudian drag-dan-drop audio file ke osu!.
 (Pilihan lain, kamu bisa memindahkan file audionya ke dalam folder `Songs`.)
 Ini akan langsung menuju ke dalam layar edit, bersamaan dengan audio yang kamu masukan tadi.
 Musik baru kamu akan berada dibawah daftar musik, biasanya berwarna ungu.
@@ -19,7 +19,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 ### Song Setup
 
-_Lihat juga: [Song Setup](/wiki/Song_Setup)_
+*Lihat juga: [Song Setup](/wiki/Song_Setup)*
 
 Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
@@ -32,7 +32,7 @@ Langkah selanjutnya adalah mengisi waktu kedalam beatmap kamu.
 
 ### Timing
 
-_Lihat juga: [Timing](/wiki/Timing)_
+*Lihat juga: [Timing](/wiki/Timing)*
 
 **Waktu itu penting!**
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
@@ -43,14 +43,14 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose
 
-_Lihat juga: [Compose](/wiki/Compose)_
+*Lihat juga: [Compose](/wiki/Compose)*
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
 Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Glossary)
 
 ### Design
 
-_Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)_
+*Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)*
 
 Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur background beatmap menggunakan gambar, video, atau membuat storyboard.
 Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).

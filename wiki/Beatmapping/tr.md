@@ -10,10 +10,10 @@ Mapper'lar (map yapan kişiler) genelde, [beatmap onay süreci](/wiki/Beatmap_ra
 
 Beatmapping'de en ortak kullanılan zorluklar şunlardır;
 
--   Kolay
--   Normal
--   Zor
--   Zor'unda zoru denilebilir
+- Kolay
+- Normal
+- Zor
+- Zor'unda zoru denilebilir
 
 Yukarıda tıklayacağınız her link, size [mapperların](/wiki/Glossary) -seçilmiş olan zorluğun- [zorluk seviyesine](/wiki/Difficulties) uygun,eğlenceli mapler kurması için gereken bir rehberi açacaktır.
 

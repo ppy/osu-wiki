@@ -1,4 +1,4 @@
-# Sliders
+# Slider mapping techniques
 
 *See also: [Making Good Sliders](../Making_Good_Sliders)*
 
