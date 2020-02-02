@@ -8,7 +8,7 @@ tags:
 
 ![oMWC Banner](img/logo.png)
 
-Le **osu ! Mapping World Cup #1** (***oMWC #1***) est un concours national de mappers osu! organisé par ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837) et ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983).
+Le **osu! Mapping World Cup #1** (***oMWC #1***) est un concours national de mappers osu! organisé par ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837) et ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983).
 
 ## Calendrier du concours
 
