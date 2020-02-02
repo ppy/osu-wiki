@@ -6,8 +6,7 @@ outdated: true
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-BanchoBot adalah sebuah bot (yaitu kumpulan perintah yang disusun untuk merespon secara otomatis) yang diprogram oleh **Echo49**. BanchoBot membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait game.
-BanchoBot juga dikenal sebagai host [irc bancho](/wiki/Internet_Relay_Chat) dan memiliki profil pengguna dengan ID *[#3](https://osu.ppy.sh/users/3)* (setelah peppy di nomor [#2](https://osu.ppy.sh/users/2)). *Bancho juga memiliki [profil twitternya](https://twitter.com/banchoboat) sendiri!*
+BanchoBot adalah sebuah bot (yaitu kumpulan perintah yang disusun untuk merespon secara otomatis) yang diprogram oleh **Echo49**. BanchoBot membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait game. BanchoBot juga dikenal sebagai host [irc bancho](/wiki/Internet_Relay_Chat) dan memiliki profil pengguna dengan ID *[#3](https://osu.ppy.sh/users/3)* (setelah peppy di nomor [#2](https://osu.ppy.sh/users/2)). *Bancho juga memiliki [profil twitternya](https://twitter.com/banchoboat) sendiri!*
 
 ## Perintah BanchoBot
 
