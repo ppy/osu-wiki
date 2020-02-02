@@ -5,14 +5,14 @@ outdated: true
 # BanchoBot
 
 ![BanchoBot 玩家信息](img/BanchoBot.jpg "BanchoBot 玩家信息")
+
 BanchoBot 是由 **Echo49** 编写的一个可爱的机器人。它能在聊天室中根据用户下达的指令来给予反馈，从而协助玩家例如显示特定信息以及发布与游戏相关的内容。
 
 BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 *[#3](https://osu.ppy.sh/users/3)* （就比 ID 是 [#2](https://osu.ppy.sh/users/2) 的 peppy 大一号）。*同时，它也有一个[推特账号](https://twitter.com/banchoboat)。*
 
 ## BanchoBot 指令
 
-在使用 BanchoBot 指令时，一定要每次记得在命令前加 `!`  （注意是半角感叹号）。
-**普通用户只能在多人游戏频道、与 BanchoBot 的私人聊天中使用指令。**如果用户在公共聊天中使用了指令，这条指令不会被其他用户看见，而 BanchoBot 的反馈会以私人聊天的形式发送给用户。用户也可以使用 `/bb <指令>` 的方式来自动打开与 BanchoBot 的聊天窗口并执行指令。
+在使用 BanchoBot 指令时，一定要每次记得在命令前加 `!`  （注意是半角感叹号）。 **普通用户只能在多人游戏频道、与 BanchoBot 的私人聊天中使用指令。**如果用户在公共聊天中使用了指令，这条指令不会被其他用户看见，而 BanchoBot 的反馈会以私人聊天的形式发送给用户。用户也可以使用 `/bb <指令>` 的方式来自动打开与 BanchoBot 的聊天窗口并执行指令。
 
 *查阅客户端指令列表，请参见 [聊天窗口](/wiki/Chat_Console#命令列表) 。*
 
