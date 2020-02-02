@@ -1,4 +1,4 @@
-# Beginner
+# Tutorial for beginners
 
 Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in osu!, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of osu!.
 

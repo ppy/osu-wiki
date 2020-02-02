@@ -1,4 +1,4 @@
-# Spectator Usage
+# osu!tourney spectator usage
 
 ![osu!tourney interface](img/Osutourneymain.png "Basic Interface of the osu!tourney client")
 

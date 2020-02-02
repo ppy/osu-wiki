@@ -1,4 +1,4 @@
-# osu! File Toggles
+# Storyboard .osu file toggles
 
 *See also: [skin.ini](/wiki/Skinning/Skin.ini)*
 

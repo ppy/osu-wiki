@@ -1,4 +1,4 @@
-# Ranking Criteria
+# Ranking criteria
 
 *For mode specific criteria, see: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)*
 

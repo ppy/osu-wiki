@@ -7,14 +7,12 @@ outdated: true
 
 ![BanchoBot プレイヤーカード](img/BanchoBot.jpg "BanchoBot プレイヤーカード")
 
-BanchoBotは、**Echo49**によって作成されたボットで、ゲームに関するメッセージを表示することでユーザを支援します。
-これは[bancho irc](/wiki/Internet_Relay_Chat)にホストされており、ID _[#3](https://osu.ppy.sh/users/3)_(ID[#2](https://osu.ppy.sh/users/2)のpeppyの次) にユーザプロフィールがあります。*また、[twitterアカウント](https://twitter.com/banchoboat)があります*
+BanchoBotは、**Echo49**によって作成されたボットで、ゲームに関するメッセージを表示することでユーザを支援します。 これは[bancho irc](/wiki/Internet_Relay_Chat)にホストされており、ID _[#3](https://osu.ppy.sh/users/3)_(ID[#2](https://osu.ppy.sh/users/2)のpeppyの次) にユーザプロフィールがあります。*また、[twitterアカウント](https://twitter.com/banchoboat)があります*
 
 <!-- BanchoBot （サーバ）コマンドは`!`で始まります。 -->
 ## BanchoBot コマンド
 
-BanchoBotコマンドの接頭辞には、`!`が必要となります。**通常ユーザはマルチプレイヤーチャンネルとBanchoBotのPMでのみ、このコマンドを使用できます。**もしも、ユーザがパブリックチャットでコマンドを送信した場合、チャットは表示されずにプライベートメッセージとしてBanchoBotに取得されます。
-ユーザは、クライアントコマンド`/bb <コマンド>`を使用してBanchoBotタブを開き、コマンドを送信することが出来ます。
+BanchoBotコマンドの接頭辞には、`!`が必要となります。**通常ユーザはマルチプレイヤーチャンネルとBanchoBotのPMでのみ、このコマンドを使用できます。**もしも、ユーザがパブリックチャットでコマンドを送信した場合、チャットは表示されずにプライベートメッセージとしてBanchoBotに取得されます。 ユーザは、クライアントコマンド`/bb <コマンド>`を使用してBanchoBotタブを開き、コマンドを送信することが出来ます。
 
 *スラッシュ（クライアント）コマンドの一覧は[Chat Console](/wiki/Chat_Console#コマンドリスト)をご覧下さい。*
 

@@ -1,4 +1,4 @@
-# Audio Editing
+# Audio editing guide
 
 *See also: [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)*
 

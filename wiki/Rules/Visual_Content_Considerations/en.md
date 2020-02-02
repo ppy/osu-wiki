@@ -1,4 +1,4 @@
-# Visual Content Considerations
+# Visual content considerations
 
 As per [Community Rule 5](/wiki/Rules#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game. This includes things like beatmap background, skinning elements, storyboarded assets and more.
 
