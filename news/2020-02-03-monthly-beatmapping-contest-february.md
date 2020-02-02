@@ -6,7 +6,6 @@ date: 2020-02-03 02:00:00 +0000
 
 <!-- todo
 - replace "top XX" with actual value
-- doublecheck contest id
 -->
 
 New month? New mapping contest! Vote on last month's submissions and compete to become the next Elite Mapper!
@@ -51,7 +50,7 @@ This month's artist is **Voicians**, and the following songs are viable for cont
 
 #### Closer (172 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Closer.osz) (4:00) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Closer.osz) (2:20)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Closer.osz) (4:00) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Closer.osz?2020-1) (2:20)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/59/previews/1676.mp3" type="audio/mpeg">
@@ -59,7 +58,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/V
 
 #### Alive (184 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Alive.osz) (4:55) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Alive.osz) (2:50)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Alive.osz) (4:55) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Alive.osz?2020-1) (2:50)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/59/previews/1675.mp3" type="audio/mpeg">
@@ -67,7 +66,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/V
 
 #### Wolves (175 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Wolves.osz) (5:28) [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Wolves.osz) (2:15)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Wolves.osz) (5:28) [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Wolves.osz?2020-1) (2:15)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/59/previews/1684.mp3" type="audio/mpeg">
@@ -75,7 +74,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/V
 
 #### Survival League (175 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Survival%20League.osz) (4:41) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Survival_League.osz) (2:56)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Survival%20League.osz) (4:41) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Survival_League.osz?2020-1) (2:56)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/59/previews/1681.mp3" type="audio/mpeg">
@@ -83,7 +82,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/V
 
 #### Prayer (152 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Prayer.osz) (5:08) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Prayer.osz) (2:32)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/59/osz/Voicians%20-%20Prayer.osz) (5:08) / [Short version](https://assets.ppy.sh/contests/89/files/Voicians_-_Prayer.osz?2020-1) (2:32)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/59/previews/1678.mp3" type="audio/mpeg">
