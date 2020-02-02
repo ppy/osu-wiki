@@ -1,6 +1,12 @@
+---
+needs_cleanup: true
+---
+
 # Beatmap Editor
 
-The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). This is where all [beatmapping](/wiki/Beatmapping) takes place, and all content for the game is created. Creating content for osu! is, and always will be, free. So feel free to jump right in and start beatmapping!
+*For Beatmap Editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
+
+The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). [Beatmapping](/wiki/Beatmapping) is the act of creating levels for osu!.
 
 The beatmap editor is separated into four main sections which can be seen on the top-left corner of the editor. The categories are:
 
@@ -9,32 +15,36 @@ The beatmap editor is separated into four main sections which can be seen on the
 - Timing
 - Song Setup
 
-For Beatmap Editor Shortcuts, see [Shortcut key reference](/wiki/Shortcut_key_reference).
-
 ## Compose
 
-Compose is the section where a majority of beatmapping happens. Most mappers spend more time in this category than all of the other categories combined, since this is where gameplay elements like circles, sliders, and spinners are placed. To learn more about this section, see the [compose article](/wiki/Beatmap_Editor/Compose).
+[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay related elements are placed and synced with the beat. Most mappers spend more time in this category than all of the other categories combined because of this.
 
 ## Design
 
-Design is where [storyboards](/wiki/Storyboards) are made, which are elements that can heavily enhance the gameplay experience. Most mappers do not use this tab much though, as storyboarding is a difficult topic to get grasp of. If you want to learn more about the design tab, see the [design article](/wiki/Beatmap_Editor/Design).
+[Design](/wiki/Beatmap_Editor/Design) is where [storyboards](/wiki/Storyboards) can be made. Storyboards are elements that can heavily enhance the gameplay experience even though they have no direct impact on gameplay. Most mappers do not use this tab much though, as storyboarding is a difficult topic to get a grasp of. To see other ways of creating storyboards, see [storyboard scripting](/wiki/Storyboard_Scripting)
 
 ## Timing
 
-Timing is where all new beatmaps begin. To begin mapping a beatmap needs correct timing to match the ingame beats to the rhythm of the song. This tab controls all of that and more through BPM (beats per minute) changes, timing points, hitsounds, and hitsound volume. To learn more about this section, see the [timing article](/wiki/Beatmap_Editor/Timing).
+[Timing](/wiki/Beatmap_Editor/Timing) manages sections of a song and controls a map's hitsounds. This is essential since a beatmap needs appropriate feedback and correct timing to match the gameplay experience to the rhythm of a song.
 
 ## Song setup
 
-Song setup is the first place all new beatmaps have to go through. Song setup primarily fills in a beatmap's [metadata](/wiki/Ranking_Criteria#metadata) and other things universal throughout a [beatmapset](https://osu.ppy.sh/help/wiki/Glossary#beatmapset). This includes things such as the title of the song, the artist, the difficulty name, combo colours, and more. If you want to learn more about the song setup, see the [song setup article](/wiki/Beatmap_Editor/Song_Setup).
+[Song setup](/wiki/Beatmap_Editor/Song_Setup) primarily fills in a beatmap's [metadata](/wiki/Ranking_Criteria#metadata) and other things universal to a [beatmapset](https://osu.ppy.sh/help/wiki/Glossary#beatmapset). This includes things such as the title of a song, the artist, the difficulty name, combo colours, and more.
 
 ## Other
 
-Other elements in the beatmap editor include:<!--TODO: Update as articles are changed-->
+Other components of the beatmap editor include:
 
-- [AiMod](AiMod): The first "modder" that all beatmappers can use.
-- [Beat Snap Divisor](Beat_Snap_Divisor): The fineness of the timeline that helps you make a beatmap, time-wise.
-- [Distance Snap](Distance_Snap): The multiplier that affects how close or far hit objects are placed.
-- [Kiai Time](Kiai_Time): Notes about the star fountains and flashy lights during a certain section of a beatmap.
-- [Menu](Menu): An explanation about the menu buttons at the top of the beatmap editor.
-- [SB Load](SB_Load): A number used to tell how demending a storyboard is. Any number past 5x is bad for ancient machines.
-- [Timelines](Timelines): The top portion of the beatmap editor that displays the placed hit objects, breaks, and more.
+[AiMod](AiMod) which is the first [modder](/wiki/Glossary#modder) a beatmapper can use.
+
+[Beat Snap Divisor](Beat_Snap_Divisor) which snaps the timeline to the beat.
+
+[Distance Snap](Distance_Snap) which is the multiplier that affects how close or far [hit objects](/wiki/Hit_Objects) are placed from each other.
+
+[Kiai Time](Kiai_Time) which is a term given for a "special" timing section to help emphasize a part of a beatmap.
+
+[Menu](Menu) which helps you navigate the beatmap editor.
+
+[SB Load](SB_Load) which is a number used to tell how demanding a storyboard is. Anything past 5x is bad for ancient machines.
+
+[Timelines](Timelines) which displays placed hit objects, breaks, and more.
