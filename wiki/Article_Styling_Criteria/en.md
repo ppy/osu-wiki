@@ -1,4 +1,4 @@
-# Article Styling Criteria
+# Article styling criteria
 
 *For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
 

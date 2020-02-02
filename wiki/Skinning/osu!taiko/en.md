@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# osu!taiko
+# osu!taiko skinning
 
 *See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial)*
 

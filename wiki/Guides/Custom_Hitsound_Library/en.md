@@ -1,4 +1,4 @@
-# Custom Hitsound Library
+# Custom hitsound library
 
 [*Custom Hitsound Library* by: Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)
 

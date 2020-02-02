@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# History
+# Skinning history
 
 The skinning elements listed here are no longer in use.
 
