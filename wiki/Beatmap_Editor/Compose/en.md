@@ -93,7 +93,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Please note that in osu!standard's default notes hitsounds works differently in osu!mania.**
 
-- Adding clap on a notes will play `hitclap` **+ hitnormal** sound on hit while in osu!mania: will only play `hitclap` sound on hit
+- Adding clap on a notes will play `hitclap` + `hitnormal` sound on hit while in osu!mania: will only play `hitclap` sound on hit
 
 #### Selector
 
@@ -193,7 +193,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 
 **Please note that in osu!mania's default notes hitsound works different with Standard/osu!**
 
-- Adding clap on a notes will only play `hitclap` sound instead of `hitclap` **+ hitnormal** sound on hit while in osu!mania :
+- Adding clap on a notes will only play `hitclap` sound instead of `hitclap` + `hitnormal` sound on hit while in osu!mania :
 
 ![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
 

@@ -93,7 +93,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 **Ten en cuenta que en las notas predeterminadas de osu!standard, los sonidos de golpe funcionan de manera diferente que en osu!mania.**
 
-- Al poner aplausos en una nota, se reproducirá el sonido `hitclap` **+hitnormal** al golpear mientras está en osu!mania: solo se reproducirá el sonido de `hitclap` al golpear
+- Al poner aplausos en una nota, se reproducirá el sonido `hitclap` + `hitnormal` al golpear mientras está en osu!mania: solo se reproducirá el sonido de `hitclap` al golpear
 
 #### Selector
 
@@ -193,7 +193,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 
 **Ten en cuenta que el sonido predeterminado de las notas de osu!mania funcionan de manera diferente con Standard/osu!**
 
-- Al agregar aplausos en las notas, solo se reproducirá el sonido `hitclap` en lugar de `hitclap` **+ hitnormal** al golpear mientras está en osu!mania :
+- Al agregar aplausos en las notas, solo se reproducirá el sonido `hitclap` en lugar de `hitclap` + `hitnormal` al golpear mientras está en osu!mania :
 
 ![Selector de notas de golpeo (osu!mania ver.)](img/BEM_HO.jpg "Selector de notas de golpeo (osu!mania ver.)")
 
