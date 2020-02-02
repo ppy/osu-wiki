@@ -4,15 +4,7 @@ Le Beat Snap Diviseur est utilisé pour limiter l'endroit où les notes peuvent 
 
 Chacun des réglages met différentes couleurs de ticks sur le [Timelines](/wiki/Beatmap_Editor/Timelines). Les cotes sont les suivantes (pour [Standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), et [osu!catch](/wiki/Game_Modes/osu!catch)):
 
-
 ### Diviseur 1/1
-
-- 1/1 = Tic blanc seulement
-- 1/2 = Ajoute un tic rouge
-- 1/3 = Ajoute deux tics violets entre chaque tic blanc
-- 1/4 = Ajoute deux tics bleu en plus du tic rouge
-- 1/6 = Ajoute deux tics violets entre chaque tic rouge
-- 1/8 = Ajoute un tic jaune en plus du tic rouge et bleu
 
 ![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")
 
@@ -57,7 +49,6 @@ Double Triplets*
 
 - Huitième temps
 - Ajoute des ticks jaunes, en plus des ticks rouges et bleues
-
 
 Les 1/3 et 1/6 sont spéciaux car cela signifie que votre BPM est divisible par trois, mais c'est *rare*.
 
