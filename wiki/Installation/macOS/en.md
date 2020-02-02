@@ -1,4 +1,4 @@
-# macOS
+# Installation on macOS
 
 This page will roughly tell you how to get osu! working on your macOS device.
 

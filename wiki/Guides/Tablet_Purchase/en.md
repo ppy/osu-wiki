@@ -1,4 +1,4 @@
-# Tablet Purchase
+# Tablet purchase guide
 
 If you've been playing osu! and chatting with other players, you're bound to hear about these so-called "tablets", and their effects on gameplay in osu!. Tablets are pads that operate with a stylus that connect to your computer. As you hover the pen around above the pad, the mouse cursor moves with the pen, and tapping the pen clicks the mouse. You can think of a tablet for osu! in the same way as you think of an arcade stick for fighting games, not necessary, but some players prefer it.
 

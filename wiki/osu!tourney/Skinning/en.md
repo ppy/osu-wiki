@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Skinning
+# osu!tourney skinning
 
 ![The client can be customized in various ways](img/Osutourneycustom.png)
 

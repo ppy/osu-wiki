@@ -2,8 +2,7 @@
 
 ![La caja de edición en los foros](img/editor.jpg)
 
-BBCode es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
-Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
+BBCode es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido. Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
 
 En la web de osu!, BBCode se utiliza en los mensajes del foro, las firmas y las páginas de usuario.
 
