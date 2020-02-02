@@ -4,6 +4,8 @@
 
 不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Beatmap_Editor/Timelines)，具体如下：
 
+## osu!，osu!taiko，osu!catch
+
 ### 时值 1/1
 
 ![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
