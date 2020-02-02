@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# FAQ
+# Skinning FAQ
 
 *This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
 

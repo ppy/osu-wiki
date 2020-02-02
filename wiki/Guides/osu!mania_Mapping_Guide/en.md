@@ -1,4 +1,4 @@
-# osu!mania Mapping Guide
+# osu!mania mapping guide
 
 ## Prologue
 

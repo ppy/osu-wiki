@@ -39,7 +39,7 @@
 [Lybydose]: https://osu.ppy.sh/users/Lybydose/ "Lybydose"
 [Nakagawa-Kanon]: https://osu.ppy.sh/users/Nakagawa-Kanon/ "Nakagawa-Kanon"
 
-# osu!stream/Song List
+# osu!stream song list
 
 ***[Click here to go back to osu!stream][osu!stream wikilink]***
 

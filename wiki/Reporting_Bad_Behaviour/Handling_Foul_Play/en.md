@@ -1,4 +1,4 @@
-# Handling Foul Play
+# Handling foul play
 
 ## Why am I restricted?
 
