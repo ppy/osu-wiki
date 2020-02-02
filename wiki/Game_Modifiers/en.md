@@ -77,7 +77,7 @@ outdated: true
 [FO]: /wiki/shared/mods/FO.png "Fade Out (FO) mod icon"
 [No Video]: /wiki/shared/mods/NV.png "No Video mod icon"
 
-# Game Modifiers
+# Game modifiers
 
 ![Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)][GM]
 
