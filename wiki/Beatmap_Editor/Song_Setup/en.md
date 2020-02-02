@@ -78,7 +78,7 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Passive_HP) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
+In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
 
 *Note: More HP is recovered with [Geki and Katu](/wiki/Score/#osu) hit scores, which can be given from the last hit object in a combo.*
 

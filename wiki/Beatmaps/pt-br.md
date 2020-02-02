@@ -44,7 +44,7 @@ Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/QAT) 
 
 Os beatmaps amados aparecem com o ícone do coração (![Heart icon](/wiki/shared/status/loved.png)) na tela de seleção de músicas.
 
-Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são _amados_ pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
+Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são *amados* pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
 
 - Nenhum [pp](/wiki/pp) será ganho.
 - Todos as pontuações serão excluídas quando o criador atualizar o beatmap.

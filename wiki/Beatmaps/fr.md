@@ -44,7 +44,7 @@ Durant cette semaine, la [QAT](/wiki/QAT) est autorisée à dresser une liste de
 
 Les beatmaps "aimées" ont l'icône de cœur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection des musiques.
 
-Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont _aimées_ de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
 
 - Aucun [pp](/wiki/pp) ne sera accordé.
 - Tous les scores seront supprimés si le créateur met à jour la beatmap.
@@ -55,7 +55,7 @@ Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de fo
 
 ### En Attente
 
-_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
+*Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)*
 
 Les beatmaps en attente ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection des musiques.
 
