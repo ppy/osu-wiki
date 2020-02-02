@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# osu!catch
+# osu!catch skinning tutorial
 
 ## Skinning elements
 

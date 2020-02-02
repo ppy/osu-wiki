@@ -1,4 +1,4 @@
-# Making Properly Centered Spinners
+# How to make properly centered spinners in skins
 
 [*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 

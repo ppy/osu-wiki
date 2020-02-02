@@ -4,7 +4,7 @@ needs_cleanup: true
 
 <!-- TODO: this article is in the wrong place -->
 
-# Prizes
+# Tournament prizes
 
 ## Profile Badges
 

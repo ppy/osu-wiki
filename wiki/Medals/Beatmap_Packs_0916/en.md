@@ -11,7 +11,7 @@ needs_cleanup: true
 [media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
 [media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
 
-# Beatmap Packs 0916
+# Beatmap packs 0916
 
 ***[Click here to return to the "Achievements" page](../)***
 

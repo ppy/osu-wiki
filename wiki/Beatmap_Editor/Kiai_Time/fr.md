@@ -10,12 +10,12 @@ Le **Kiai Time** est défini par le [mappeur](/wiki/Beatmapping) sur une beatmap
 
 Le moment le plus adapté pour placer un Kiai Time sur une musique est de trouver "la partie la plus dure" de la musique en question. Il s'agit généralement du chorus de la musique. Il est possible de placer des sections Kiai Time très courtes sur la musique, de façon à "spammer" l'écran de fontaines d'étoiles. Il s'agit cependant d'une méthode déconseillée car votre map deviendra inclassable et les joueurs risqueront de lagger.
 
-== A savoir si vous mappez en utilisant le Kiai Time ==
+## A savoir si vous mappez en utilisant le Kiai Time
 
-1.  Sur les maps [osu!taiko](/wiki/Game_Modes/osu!taiko), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le osu!taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
-2.  **Soyez raisonnable**. Utiliser le Kiai Time à tort et à travers est inutile et rend votre map inclassable. Ne l'utilisez pas pendant plus d'un tiers de votre beatmap.
-3.  Faites en sorte que toutes les difficultés de votre groupe de beatmaps aient leurs Kiai Time au même moment.
-4.  **N'utilisez pas le blanc pur pour les couleurs de vos notes.** Le Kiai Time aveuglera le joueur.
-5.  Faites en sorte que le Kiai Time de votre map soit le moment le plus difficile à jouer.
-6.  Les difficultés créées par d'autres personnes que l'auteur peuvent avoir des Kiai Time différents, car ils peuvent avoir des points de vue différents concernant "le moment le plus intense de la musique".
-7.  Ajouter un set de couleurs de combo différent spécialement pour le Kiai Time est une bonne idée, très appréciée des joueurs et des BAT.
+1. Sur les maps [osu!taiko](/wiki/Game_Modes/osu!taiko), le Kiai Time **double le score obtenu** à chaque note réussie ; donc si vous êtes un mappeur spécialisé dans le osu!taiko, n'oubliez pas que le Kiai Time affecte le gameplay.
+2. **Soyez raisonnable**. Utiliser le Kiai Time à tort et à travers est inutile et rend votre map inclassable. Ne l'utilisez pas pendant plus d'un tiers de votre beatmap.
+3. Faites en sorte que toutes les difficultés de votre groupe de beatmaps aient leurs Kiai Time au même moment.
+4. **N'utilisez pas le blanc pur pour les couleurs de vos notes.** Le Kiai Time aveuglera le joueur.
+5. Faites en sorte que le Kiai Time de votre map soit le moment le plus difficile à jouer.
+6. Les difficultés créées par d'autres personnes que l'auteur peuvent avoir des Kiai Time différents, car ils peuvent avoir des points de vue différents concernant "le moment le plus intense de la musique".
+7. Ajouter un set de couleurs de combo différent spécialement pour le Kiai Time est une bonne idée, très appréciée des joueurs et des BAT.
