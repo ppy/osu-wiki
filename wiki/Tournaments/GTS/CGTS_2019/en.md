@@ -448,6 +448,14 @@ Sunday, 2 February 2020:
 
 ### Global phase
 
+#### Grand Finals
+
+Sunday, 2 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 2 | Europe | [#1](https://osu.ppy.sh/community/matches/58155031) |
+
 #### Finals
 
 Sunday, 19 January 2020:
