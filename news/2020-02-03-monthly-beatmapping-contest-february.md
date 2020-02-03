@@ -107,7 +107,7 @@ And... that's about it! If you're curious what shiny prizes you could get for wi
 
 Head over to the [contest listing](https://osu.ppy.sh/community/contests/89) when you're ready to submit your entry. You have **3 weeks** until submissions close (2020-02-24), so launch the editor and get started as soon as you can.
 
-Oh, and don't forget to vote for the best 3 entries from last month's contest [here]((https://osu.ppy.sh/community/contests/84))!
+Oh, and don't forget to vote for the best 3 entries from last month's contest [here](https://osu.ppy.sh/community/contests/84)!
 
 Best of luck and have fun mapping!
 
