@@ -33,9 +33,9 @@ A list of contests that are not listed on the [Community Contests page](https://
 
 Notes:
 
-- Winners of the Monthly Beatmapping Contests #1 to #13 received the "Elite Mapper" forum title.
+- Winners of the Monthly Beatmapping Contests #1 to #13 received the *Elite Mapper* forum title.
 - Winning beatmapsets from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmapsets.
-- Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) article.
+- Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest) article.
 
 ## Aspire
 
@@ -133,7 +133,7 @@ Community Choice is the successor to the "Best of" contests.
 
 ## Community Mapping Contest
 
-The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4k and 7k entries). Through the [community contest listing](https://osu.ppy.sh/community/contests) users voted for their favorite entries. The winners were compiled into a [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
+The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winners were compiled into a [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
 
 ## osu!idol
 
@@ -167,7 +167,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 ## osu!remix
 
-osu!remix is a contest where musicians were tasked with remixing nekodex's "circles" track, which was osu!'s main menu theme song at the time. It was the first contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) and has only been run once. Its results can be found [here](https://osu.ppy.sh/community/contests/1).
+osu!remix was a contest where musicians were tasked with remixing nekodex's "circles" track, which was osu!'s main menu theme song at the time. It was the first contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) and has only been run once. Its results can be found [here](https://osu.ppy.sh/community/contests/1).
 
 ## Community Contests
 
