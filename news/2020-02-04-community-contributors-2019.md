@@ -30,7 +30,9 @@ Previously known as *handsome*, **hehe** is a founding member of the Corsace pro
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Noffy.jpg)](https://osu.ppy.sh/users/1541323)
 
-A universal fixture within the NAT, **Noffy** has quickly made a name for herself as one of the prime contributors towards the continued maintenance and development of the game as far as the modding, mapping and metadata portions of the game are concerned. Her continued oversight and assistance with GitHub issue tracking, contribution to the Mappers' Guild and her general all-around presence exemplify a spirit that has driven some of the osu! community's most notable people into shaping the game into what it is today.
+A universal fixture within the NAT, **Noffy** has quickly made a name for herself as one of the prime contributors towards the continued maintenance and development of the game as far as the modding, mapping and metadata goes. 
+
+Her continued oversight and assistance with GitHub issue tracking, contribution to the Mappers' Guild and her general all-around presence exemplify a spirit that has driven some of the osu! community's most notable people into shaping the game into what it is today.
 
 We earnestly hope to see more of her ilk rise to the fore in the future, and we are immensely grateful for her contribution.
 
@@ -42,7 +44,7 @@ A true paragon-in-waiting, few are as synonymous with a game mode's excellence a
 
 Delving deep into the vagaries of leadership, **JBHyperion** is one of the extremely rare few who dared to stand up and take a swing at tackling the enormously complex social puzzle that is directing osu!'s modding scene. From his efforts creating the game's first social Code of Conduct for modders and mappers, to his intense dedication towards leading the NAT/QAT through some of the most tumultuous times the team has ever seen in osu!'s decade plus history, this one man has been at the forefront of it all, through good and bad.
 
-Largely unspoken and unsung by many, JBHyperion's efforts have dramatically reshaped the landscape of the osu!community in ways that I wager some will never truly be able to appreciate in full, but they are undoubtedly for the better, and it is safe to say that osu! has grown enormously from his time with us.
+Largely unspoken and unsung by many, JBHyperion's efforts have dramatically reshaped the landscape of the osu!community in ways that we wager some will never truly be able to appreciate in full, but they are undoubtedly for the better, and it is safe to say that osu! has grown enormously from his time with us.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Mo.jpg)](https://osu.ppy.sh/users/2202163)
 
@@ -52,7 +54,7 @@ Much like his brother in arms, **-Mo-** is another of the mighty few who dip the
 
 An organizer of the Community Mentorship Program and a long-term liaison between the osu!team and the Global Moderation Team, **Chaos** has been a stabilizing force in the community for many years now, with his efforts at home and abroad solidifying the future of the game. Beyond just this, he has also been heading the osu! Mapping Olympiad, a premier beatmapping contest series all the while.
 
-His work in managing the upkeep of the GMT and ensuring that the newest generations of osu!'s mappers and modders are guided through a labyrinthine set of customs and traditions, and helping them integrate into the game proper, whilst also ensuring that the game's chat and forums remain safe for everyone.
+His work in managing the upkeep of the GMT and ensuring that the newest generations of osu!'s mappers and modders are guided through a labyrinthine set of customs and traditions, and helping them integrate into the game proper is essentially futureproofing the scene for years to come, whilst his efforts as a moderator ensure that the game's chat and forums remain safe for everyone.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/yaspo.jpg)](https://osu.ppy.sh/users/4945926)
 
@@ -71,7 +73,9 @@ Both of them are exemplary examples of the kind of dedication that has punctuate
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/PuffBuck.jpg)](https://osu.ppy.sh/users/4234525)
 
-**PuffBuck** is always watching. No truer words have ever been spoken. A superfan of the osu! World Cups since the very beginning, if there's been a broadcast, PuffBuck has been there. Recent brought aboard as an official moderator in light of his eagerness to help moderate the abject insanity of our Twitch channel's chat, PuffBuck has since tackled the task with almost maniacal dedication, at times pulling over 20 hour shifts to ensure things are kept clean and enjoyable for everyone. Beyond this, his contributions to the upkeep of the World Cups have been noted as exemplary.
+**PuffBuck** is always watching. No truer words have ever been spoken. 
+
+A superfan of the osu! World Cups since the very beginning, if there's been a broadcast, PuffBuck has been there. Recently brought aboard as an official moderator in light of his eagerness to help moderate the abject insanity of our Twitch channel's chat, PuffBuck has since tackled the task with almost maniacal dedication, at times pulling over 20 hour shifts to ensure things are kept clean and enjoyable for everyone. Beyond this, his contributions to the upkeep of the World Cups have been noted as exemplary.
 
 To express the enormity of his dedication further, we're honestly not sure that PuffBuck has ever once missed a broadcast, and we're not sure he ever will.
 
@@ -79,7 +83,7 @@ To express the enormity of his dedication further, we're honestly not sure that 
 
 osu!Alumni and all around great guy, **Doomsday** has been something of an eternal presence in the osu!community since its earliest days, sporting membership in the now-defunct Beatmap Appreciation Team (also known as the BAT). 
 
-In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the *Corgi Cup*
+In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the *Corgi Cup* and generally providing support, guidance and encouragement to players both new and old.
 
 A paragon of positivity, Doomsday stands out among a tiny crowd of definitive role models for the community at large, and we are thankful for his many, many years of contribution to the game.
 
@@ -105,7 +109,7 @@ His efforts have helped make the tournament more accessible to so many people, a
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Sartan.jpg)](https://osu.ppy.sh/users/4100941)
 
-**Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially *were* the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the pale.
+**Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially *were* the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the norm.
 
 ## Moderation
 
