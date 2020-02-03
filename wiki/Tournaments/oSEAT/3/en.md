@@ -301,6 +301,41 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Sunday, 26 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tzero** ![][flag_MY] | **7** | 4 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/57996209) |
+
+Monday, 27 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| k\_1tty ![][flag_SG] | 5 | **7** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/58017371) |
+
+Wednesday, 29 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tzero** ![][flag_MY] | **7** | 6 | ![][flag_ID] Fuma | [#1](https://osu.ppy.sh/community/matches/58056299) |
+
+Saturday, 1 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Raindrop ![][flag_SG] | 0 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58124637) |
+| **Skydiver** ![][flag_ID] | **7** | 1 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58127618) |
+
+Sunday, 2 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **JianHaoTan** ![][flag_SG] | **7** | 4 | ![][flag_VN] Tuon | [#1](https://osu.ppy.sh/community/matches/58131061) |
+| JianHaoTan ![][flag_SG] | -1 | **0** | ![][flag_PH] **MioMilo** | *win by default* |
+| **LoidKun** ![][flag_ID] | **7** | 3 | ![][flag_MY] GSBlank | [#1](https://osu.ppy.sh/community/matches/58157965) |
+
 ### Quarterfinals
 
 Wednesday, 15 January 2020:
