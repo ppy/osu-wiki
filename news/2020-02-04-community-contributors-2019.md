@@ -10,7 +10,7 @@ osu! thrives on the unsung efforts of its community, and among them, a few exemp
 
 Perhaps the most prestigious of all profile badges awarded, the Community Contributor badge represents enduring contribution to the development of the osu!community through a variety of disciplines and fields. 
 
-<div align="centre">
+<div align="center">
     <img src="https://assets.ppy.sh/profile-badges/contributor.jpg"/>
 </div>
 
@@ -129,7 +129,7 @@ A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, 
 
 In an effort to acknowledge the people who form the spine of osu!'s ranking system, we will be awarding a new form of Elite badges each year to commemorate the contributions of that year's most impressive Beatmap Nominators.
 
-<div align="centre">
+<div align="center">
     <img src="https://assets.ppy.sh/profile-badges/elite-nominator.png"/>
 </div>
 
