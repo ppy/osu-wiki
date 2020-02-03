@@ -4,7 +4,7 @@ As implied by its name, the Monthly Beatmapping Contest (_MBC_) is a contest tha
 
 The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests](/wiki/Contests#monthly-beatmapping-contest) article. The results for the 13th iteration can be found [here](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
 
-Since 2020 the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
+Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
 
 ## Schedule
 
@@ -22,7 +22,7 @@ The voting portion of each contest overlaps with the next month's contest's beat
 Submissions for the MBC must abide by the following rules:
 
 - **Submissions must follow the month's beatmapping limitation.** The limitation differs month by month and is detailed on each contest's announcement post.
-- **Submissions must be a single difficulty for one the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
+- **Submissions must be a single difficulty from one of the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
 - **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
 - **Submissions must be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
 - **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
@@ -49,7 +49,7 @@ Voting takes place on the respective contest's [Community Contests page](https:/
 Information and results for all iterations of the MBC since its relaunch in 2020 can be found below.
 
 | Contest Listing | Winner | Runner-up | Screening crew's #1 | Results Post |
-| :-: | --- | --- | --- | --- | --- | --- |
+| :-: | --- | --- | --- | --- |
 | [January 2020](https://osu.ppy.sh/community/contests/63) | TBD | TBD | TBD | TBD |
 
 ## Rewards
