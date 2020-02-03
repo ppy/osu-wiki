@@ -42,7 +42,7 @@ The amount of beatmaps that advance to the voting stage varies depending on the 
 
 ### Voting
 
-Voting takes place on the respective contest's [Community Contests page](https://osu.ppy.sh/community/contests). Users are encouraged to vote for their favorite entry and to look out for any entries that effectively work with the month's beatmapping limitation.
+Voting takes place on the respective contest's [Community Contests page](https://osu.ppy.sh/community/contests). Users are encouraged to vote for their favourite entries and to prioritize those that effectively work with the month's beatmapping limitation.
 
 ### Previous contests
 
