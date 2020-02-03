@@ -4,21 +4,17 @@ title: "Monthly Beatmapping Contest: February"
 date: 2020-02-03 11:00:00 +0000
 ---
 
-<!-- todo
-- replace "top XX" with actual value
--->
-
-New month? New mapping contest! Vote on last month's submissions and compete to become the next Elite Mapper!
+New month, new mapping contest! Vote on last month's submissions and compete to become the next Elite Mapper!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-The Monthly Beatmapping Contest (MBC) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
+The Monthly Beatmapping Contest (*MBC*) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
 
-January's contest received a *massive* turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top XX — the best of the best — so we encourage you to download those and vote for your favorite.
+January's contest received a *massive* turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top 10% — the best 11 entries — so we encourage you to download those and vote for your favourite.
 
-**Vote for last month's contest [here](https://osu.ppy.sh/community/contests/84)!** Results will be published in 2 weeks.
+**[Vote for last month's contest here!](https://osu.ppy.sh/community/contests/84)** Results will be published in 2 weeks.
 
-Now that housekeeping is out of the way, let's talk about the contest this month!
+Now that housekeeping is out of the way, let's talk about this month's contest!
 
 ## Schedule
 
@@ -110,6 +106,8 @@ Any entries breaking these rules will not be viable for the contest.
 And... that's about it! If you're curious what shiny prizes you could get for winning or how winners are selected, be sure to read the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest). There's a few too many details to squish into a post like this!
 
 Head over to the [contest listing](https://osu.ppy.sh/community/contests/89) when you're ready to submit your entry. You have **3 weeks** until submissions close (2020-02-24), so launch the editor and get started as soon as you can.
+
+Oh, and don't forget to vote for the best entry from last month's contest [here]((https://osu.ppy.sh/community/contests/84))!
 
 Best of luck and have fun mapping!
 
