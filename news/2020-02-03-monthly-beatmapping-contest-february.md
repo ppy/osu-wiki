@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: February"
-date: 2020-02-03 02:00:00 +0000
+date: 2020-02-03 11:00:00 +0000
 ---
 
 <!-- todo
@@ -36,11 +36,11 @@ If you're curious about the details behind any of these, dive into the [Monthly 
 
 Each month's contest has its own mapping limitation that participants must design their maps around. For example, last month's limitation was "straight slider shapes only", so sliders in all beatmap submissions were... straight lines. Pretty simple, right?
 
-This month's limitation: **star rating cannot exceed 4.** 
+This month's limitation: **star rating cannot exceed 4.00** 
 
 Just to be clear, we're not requiring you to create a `Hard` difficulty. We actually recommend an `Insane` or `Expert` instead! 
 
-Your submission should complement the intensity of the song, only without surpassing 4 stars. Given the song choices available in this contest, you'll likely need to handle difficulty in a way that isn't well reflected in star rating. Good luck!
+Your submission should complement the intensity of the song, only without surpassing 4.00 stars. Given the song choices available in this contest, you'll likely need to handle difficulty in a way that isn't well reflected in star rating. Good luck!
 
 ### <a id="songs"></a>Songs
 
@@ -94,7 +94,7 @@ All beatmap templates above include shortened versions of songs — mappers are 
 
 So how do you participate? Submissions must...
 
-- **follow the month's [beatmapping limitation](#limitation): _star rating cannot exceed 4._**
+- **follow the month's [beatmapping limitation](#limitation): _star rating cannot exceed 4.00_**
 - **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
 - **be a single difficulty for one of the month's [selected songs](#songs).**
 - **be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
