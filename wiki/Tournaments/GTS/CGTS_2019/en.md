@@ -8,7 +8,7 @@ tags:
 
 ![CGTS 2019 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This is the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament had a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This was the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -55,7 +55,7 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) is a worldwide 
 
 ## Organisation
 
-The Continental Global Taiko Showdown 2019 is run by various community members.
+The Continental Global Taiko Showdown 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -143,16 +143,7 @@ The Continental Global Taiko Showdown 2019 is run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
-## Match schedule: Grand Finals (Global phase)
-
-Sunday, 2 February 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| GF-W1 | Asia | Europe | **13:00** |
-| GF-L1¹ | Europe | Asia |  |
-
-¹ The match will take place right after the previous one if Player 2 wins.
+---
 
 ## Mappools
 
@@ -444,6 +435,8 @@ Sunday, 2 February 2020:
 - DoubleTime
   - [Kagamine Rin - Meltdown (ertyukjh010) \[KS's Taiko\]](https://osu.ppy.sh/beatmapsets/45672#taiko/151655)
 
+---
+
 ## Match results
 
 ### Global phase
@@ -722,6 +715,8 @@ Sunday, 10 November 2019:
 | Dayzeek ![][flag_RU] | 1 | **5** | ![][flag_FR] **Ectomic** | [#1](https://osu.ppy.sh/community/matches/56175654) |
 | Mills ![][flag_NO] | 0 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/56177248) |
 | cloudfags ![][flag_RU] | 4 | **5** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/56178883) |
+
+---
 
 ## Ruleset
 
