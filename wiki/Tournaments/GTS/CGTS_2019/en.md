@@ -149,11 +149,55 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
+### Global
+
 | Placing | Continent |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Asia |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Europe |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | North America |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Asia |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Europe |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | North America |
+
+### Regional
+
+#### Asia
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) |
+
+#### Europe
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+
+#### North America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+
+#### Oceania/South East Asia
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+
+#### South America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
 
 ---
 
