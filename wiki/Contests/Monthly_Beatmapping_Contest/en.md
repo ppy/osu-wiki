@@ -38,9 +38,9 @@ Results for the MBC are first narrowed down to the most competitive entries, the
 
 A group of at least 10 experienced beatmappers (*screening crew*) are tasked with reviewing all entries and providing their top picks in order of preference. Entries that receive the most praise from the screening crew will move on to the voting stage.
 
-### Voting
-
 The amount of beatmaps that advance to the voting stage varies depending on the amount of highly competitive submissions the contest receives and will usually range between 5 and 10 finalists.
+
+### Voting
 
 Voting takes place on the respective contest's [Community Contests page](https://osu.ppy.sh/community/contests). Users are encouraged to vote for their favorite entry and to look out for any entries that effectively work with the month's beatmapping limitation.
 
@@ -62,9 +62,9 @@ The Monthly Beatmapping Contest rewards users with points for different types of
 
 MBC points reward users at certain thresholds:
 
-- **Profile badge:** badges are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
-- ***Elite Mapper* forum title:** attainable at 10 points.
-- **osu!supporter:** each point earned provides a user with a month of supporter for themself or someone of their choosing.
+- **Profile badges** are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
+- ***Elite Mapper* forum title** is attainable at 10 points.
+- One month of **osu!supporter** is rewarded for each point a user earns. This can be used by the winner or gifted to someone else.
 
 Participants who are in the [Mappers' Guild](https://mappersguild.com/) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to MBC points.
 
