@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # FAQ
 
 # Introdução
@@ -339,7 +343,7 @@ Absolutamente nada. Não existe diferenças comparando um jogador level 100 cont
 
 ## Porque as estatísticas do meu perfil são diferentes das que vejo durante o jogo?
 
-Você provavelmente esta visualizando o modo de jogo errado. Clique no modo de jogo que você esta jogando em seu perfil. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+Você provavelmente esta visualizando o modo de jogo errado. Clique no modo de jogo que você esta jogando em seu perfil. ![](img/Profile_mode_buttons.gif)
 
 ## Porque estou vendo linhas brancas na tela aleatoriamente toda vez que jogo?
 

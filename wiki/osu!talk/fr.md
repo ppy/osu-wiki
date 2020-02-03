@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # osu!talk
 
-![logo d'osu!talk](osu!talk.jpg "logo d'osu!talk")
+![logo d'osu!talk](img/osu!talk.jpg "logo d'osu!talk")
 
 **osu!talk** est une série de podcasts présenté par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370).
 

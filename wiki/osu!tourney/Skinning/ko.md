@@ -1,6 +1,6 @@
 # 스키닝
 
-![클라이언트를 다양한 방법으로 꾸밀 수 있습니다.](Osutourneycustom.png)
+![클라이언트를 다양한 방법으로 꾸밀 수 있습니다.](img/Osutourneycustom.png)
 
 대회를 위해 클라이언트를 다양한 방법으로 꾸밀 수 있습니다. 그러기 위해서 `/Skins/User/tournament` 의 폴더를 osu! 설치 폴더에 만들어야 합니다. 스킨 구성 요소를 이곳에 넣을 수 있으며 `.jpg` 와 `.png` 파일 형식을 지원합니다.
 
@@ -12,7 +12,7 @@
 - `tourney-title` (선택적) - 클라이언트의 끝부분과 배경의 상단 부분에 표시되는 대회 로고입니다.
   - 대회의 로고로서 사용될 수 있습니다.
 
-![팀의 아이콘을 표시할 수도 있습니다.](Osutourneyicons.png)
+![팀의 아이콘을 표시할 수도 있습니다.](img/Osutourneyicons.png)
 
 `/Skins/User/tournament/icons` 폴더에 있는 아이콘을 팀 이름 옆에 표시됩니다. 국기나 유저 프로필을 표시하는데에 사용됩니다.
 

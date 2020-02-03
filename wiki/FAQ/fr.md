@@ -37,7 +37,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Skin Taiko version 6.0 par LuigiHann"
 
 <!-- image -->
-[Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
+[Profile_Mode_Buttons image]: img/Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
 
 <!-- shared image -->
 [ouendan image]: /wiki/shared/Ouendan.jpg "Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS"

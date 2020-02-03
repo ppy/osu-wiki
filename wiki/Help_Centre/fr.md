@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
@@ -174,11 +170,13 @@ Si vous jouez depuis une place publique, gardez un œil sur la sécurité de vot
 
 **Vous pouvez voir toutes les maps que vous avez jouées sur le site.**
 
-Si vous avez un supporter tag actif, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
+**Si vous avez un tag osu!supporter actif**, vous pouvez voir toutes les maps pour lesquelles vous avez soumis un score en allant dans la section Beatmap, puis en cliquant sur le filtre "Classées" puis "Jouées". Autrement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) pour accéder directement à cette page.
+
+Sur le nouveau site web, un filtre est disponible en cliquant sur "plus de critères de recherche" sur la [page de la liste des beatmap](https://osu.ppy.sh/beatmapsets) puis "Jouées" dans la section "JOUÉE". Alternativement, vous pouvez utiliser [ce lien](https://osu.ppy.sh/beatmapsets?played=played) pour accéder à la page filtrée directement.
 
 Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
-----------------------------------------------------------------------------
+---
 
 ## Client
 
@@ -220,7 +218,7 @@ osu! se met généralement à jour tout seul mais, de temps en temps, la mise à
 
 Nous vous recommandons tout d'abord de redémarrer votre PC. Cela va corriger la plus grande partie des problèmes que vous êtes susceptibles de rencontrer.
 
-Assurez-vous que votre canal de mise à jour est réglé sur `Stable` dans les options du jeu.
+Assurez-vous que votre canal de mise à jour est réglé sur `Stable (Latest)` dans les options du jeu.
 
 Vous pouvez également forcer le jeu à se mettre à jour.
 
@@ -598,7 +596,9 @@ Pour l'activer, essayez les étapes suivantes:
 
 **Vous pouvez régler ce problème en définissant une plus petite zone sur votre appareil.**
 
-Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. Un exemple peut être vu [ici](https://w.ppy.sh/d/dc/Tabarea.png).
+Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. 
+
+![Option d'une tablette Wacom montrant les options de Mapping](img/Tabarea.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 
@@ -622,7 +622,7 @@ La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive comp
 
 Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
-----------------------------------------------------------------------------
+---
 
 ## Site Web
 
@@ -644,7 +644,6 @@ La plupart du temps, vous serez réautorisé à éditer votre page, mais les uti
 
 Si à n'importe quel moment vous avez un doute sur un contenu, vous pouvez envoyer un message à l'[Équipe Globale de Modération](/wiki/People/Global_Moderation_Team) avec ce que vous pensiez y mettre et ils vous feront savoir si c'est correct.
 
-
 #### Puis-je totalement bloquer quelqu'un ?
 
 **Oui, absolument.**
@@ -660,7 +659,9 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par exemple).
 4. C'est bon !
 
-Vous ne recevrez ni messages publiques, ni messages privés venant des utilisateurs de cette liste.
+Vous ne recevrez ni messages publics, ni messages privés venant des utilisateurs de cette liste.
+
+Si vous voulez ignorer les pings, les messages privés, ou les messages publics, vous devez simplement ajouter après le pseudo de l'utilisateur `@h`, `@p`, `@c`. `The_Gatekeeper@c` va par exemple ignorer les messages de l'utilisateur dans les canaux publics. Il est possible d'en combiner plusieurs : `The_Gatekeeper@ph` va par exemple ignorer les pings et les messages privés, mais laissera les messages publics visibles.
 
 #### Bloquer tous les utilisateurs qui ne sont pas en amis
 
@@ -671,6 +672,8 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 3. Activez l'option en cliquant dessus.
 4. C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
 
+<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
+
 ##### Bloquer les posts de forum d'un utilisateur
 
 **Pour cacher la plupart des posts de forum d'un utilisateur, ajoutez-le à votre liste d'ennemis via le UCP.**
@@ -679,17 +682,11 @@ Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des 
 2. Cliquez sur Submit.
 3. C'est fait ! La plupart des posts de forum de cet utilisateur ne seront plus visibles pour vous - comme s'ils n'ont jamais existé. Notez que les posts citant ses posts seront toujours visibles.
 
+-->
+
 ##### Empêcher les messages privés du forum de vous atteindre
 
-**Pour supprimer tous les messages privés du forum avant qu'ils n'arrivent, faites une [règle de filtrage automatique dans les paramètres d'UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
-
-1. Dirigez-vous vers la section de filtrage des PM dans l'[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. Au tout début de la page, cherchez la colonne intitulée `Add new Rule`.
-3. Cliquez sur la première boîte déroulante (la valeur par défaut est Subject) et changez-la en `Sender`, puis cliquez sur Next.
-4. Cliquez sur la première boîte déroulante et changez la valeur de "is like" à "is" (troisième option dans la liste), puis cliquez sur Next.
-5. Entrez le nom de l'utilisateur que vous souhaitez bloquer dans la boîte de texte qui est apparue, puis cliquez sur Next.
-6. Cliquez sur la première boîte déroulante et changez sa valeur sur "Delete message", puis cliquez sur "Add Rule".
-7. C'est bon ! Toutes tentatives de l'utilsateur de vous contacter via les messages privés du forum seront automatiquement supprimés sans vous avertir.
+Allez dans les [paramètres de votre compte](https://osu.ppy.sh/home/account/edit) et cliquez sur `Bloquer les messages privés des personnes qui ne sont pas dans votre liste d’amis` dans la section confidentialité. Les messages privés venant de vos amis ne seront pas bloqués.
 
 ##### Que faire si j'ai toujours des problèmes avec un utilisateur que j'ai bloqué ?
 
@@ -727,7 +724,7 @@ Entrez simplement le nom de l'artiste que vous souhaitez et Google fera le reste
 
 Si vous avez été inactif pour une longue période de temps et que vos statistiques sont mauvaises, jouez quelques maps pour les actualiser. Les utilisateurs inactifs peuvent voir leur scores cachés pour garder les classements propres.
 
-----------------------------------------------------------------------------
+---
 
 ## Installation et Enregistrement
 
@@ -774,7 +771,7 @@ Si vous n'en utilisez pas, vous devriez alors envoyer un ticket au support, car 
 
 Tor ou des réseaux associés à Tor ne se connecteront pas au jeu la plupart du temps. Cela est pour éviter des usages mal intentionnés.
 
-----------------------------------------------------------------------------
+---
 
 ## Beatmapping et Éditeur
 
@@ -810,7 +807,7 @@ Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dans le Cim
 
 Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
-----------------------------------------------------------------------------
+---
 
 ## osu!store et marchandises
 
@@ -932,7 +929,6 @@ Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cl
 
 Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.fr.html) pour savoir comment faire.
 
-
 #### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.
 
 **C'est presque fini !**
@@ -943,8 +939,7 @@ Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu
 
 Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
-
-----------------------------------------------------------------------------
+---
 
 ## Diagnostic
 

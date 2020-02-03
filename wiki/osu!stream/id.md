@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <img src="Osu!stream.jpeg" title="osu!stream" alt="osu!stream" width="300" />
 
 # Perkenalan

@@ -11,7 +11,7 @@ Primeiro, vamos verificar se isso se aplica a você:
 
 Verifique se você está usando o Adaptador de Vídeo Básico da Microsoft conforme o diagrama a seguir:
 
-<img src="Devicemanager.png" title="Devicemanager.png" alt="Devicemanager.png" width="800" />
+![Device Manager](img/Devicemanager.png "Device Manager")
 
 Busque por drivers para a sua placa no site do fabricante. Aqui estão alguns links comuns:
 

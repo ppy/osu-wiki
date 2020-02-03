@@ -1,7 +1,7 @@
 # ストーリーボード
 
-![This scene is shown while you play in Walkie Talkie Man (no SB)](Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
-![This is shown when you missed or got a 50 in the previously played combo.](Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
+![This scene is shown while you play in Walkie Talkie Man (no SB)](img/Sbpassing.png "This scene is shown while you play in Walkie Talkie Man no SB")
+![This is shown when you missed or got a 50 in the previously played combo.](img/Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
 
 **Storyboard** (SB)は640\*480もしくは1366\*768(ワイドスクリーンの出現による)の専用に調節された画像を[ビートマップの背景で使用するもので](/wiki/Glossary)、ほとんどが背景を装飾するために、稀にビートマップのためにSBが使用されます。ストーリーボードはいくつかの要素で構成され、ビートマップをより美しくするため、あるいは特徴的なものとするために利用されます。ちなみにこの元ネタはOsu! Tatakae! Ouendanから来ています。
 

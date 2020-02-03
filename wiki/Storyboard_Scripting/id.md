@@ -1,6 +1,6 @@
 # Storyboard Scripting
 
-![Sebuah contoh scripting di .osb.](SBS_Base.jpg "Sebuah contoh scripting di .osb.")
+![Sebuah contoh scripting di .osb.](img/SBS_Base.jpg "Sebuah contoh scripting di .osb.")
 
   Selain menggunakan [Storyboard Editor](/wiki/Beatmap_Editor/Design) (tab Design) untuk membuat [Storyboards](/wiki/Storyboards) pada beatmap, Anda juga dapat menggunakan teks editor biasa (seperti Notepad atau [Notepad++](http://www.notepad-plus-plus.org/)). Ini disebut sebagai "**Storyboarding by Scripting**" (SBS), dan membantu Anda agar lebih presisi (hingga satuan pixel dan milidetik) dalam perihal mengatur kapan sprite muncul, apa yang mereka lakukan, dan sebagainya.
 

@@ -2,7 +2,7 @@
 legal: true
 ---
 
-# osu! Copyright Policy
+# osu! copyright policy
 
 osu! is a heavily community-oriented game. All game levels (beatmaps) are created and uploaded by community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, and the game is funded entirely by user donations.
 

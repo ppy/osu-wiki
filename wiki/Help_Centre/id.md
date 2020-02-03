@@ -610,7 +610,7 @@ Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
 **Anda dapat memecahkan masalah ini dengan menentukan area tablet yang lebih kecil untuk perangkat Anda.**
 
-Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](https://w.ppy.sh/d/dc/Tabarea.png)​.
+Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](img/Tabarea.png)​.
 
 Anda perlu berkonsultasi dengan produsen tablet Anda untuk mengetahui cara mengatur area tablet Anda.
 

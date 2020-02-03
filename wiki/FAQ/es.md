@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # FAQ
 
 # Introducción
@@ -311,7 +315,7 @@ El nivel se basa en tu puntaje total acumulado cuando estas "online" con tu cuen
 
 ## ¿Por qué las estadísticas de mi perfil son diferentes con las del juego?
 
-Probablemente estés viendo tus estadísticas en el modo de juego incorrecto. Haz Click en el modo que estás jugando en tu perfil. ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+Probablemente estés viendo tus estadísticas en el modo de juego incorrecto. Haz Click en el modo que estás jugando en tu perfil. ![](img/Profile_mode_buttons.gif)
 
 ## ¿Por qué veo líneas blancas aleatorias en la pantalla cada vez que juego?
 

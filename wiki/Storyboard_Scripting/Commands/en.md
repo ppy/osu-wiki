@@ -1,4 +1,4 @@
-# Commands
+# Storyboard scripting commands
 
 Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
@@ -52,7 +52,7 @@ where:
 In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
 
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
-![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
+![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## Basic commands
 

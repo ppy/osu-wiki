@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # O que é IRC?
 
 [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) é um protocolo de comunicação para bate-papo com muitos clientes disponíveis para se conectar.
