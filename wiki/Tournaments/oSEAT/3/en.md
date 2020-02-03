@@ -21,7 +21,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
 | Quarterfinals | 2020-01-15/2020-01-20 |
-| Semifinals | 2020-01-25/2020-02-02 |
+| Semifinals | 2020-01-26/2020-02-02 |
 | Finals | 2020-02-08/2020-02-09 |
 | Grand Finals | 2020-02-15/2020-02-16 |
 
