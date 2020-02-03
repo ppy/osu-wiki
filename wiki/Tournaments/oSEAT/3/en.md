@@ -96,6 +96,35 @@ The osu! South East Asia 3 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view)**
+
+- NoMod
+  - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
+  - [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[SOS\]](https://osu.ppy.sh/beatmapsets/913720#osu/1908618)
+  - [Unlucky Morpheus - Jealousy of Silence (Krimek) \[extra\]](https://osu.ppy.sh/beatmapsets/975812#osu/2042304)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Plutian - Until the Blue Moon Rises (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/995205#osu/2081848)
+- Hidden
+  - [ZUTOMAYO - Byoshin wo kamu (Jounzan) \[semaphore's Extra\]](https://osu.ppy.sh/beatmapsets/969520#osu/2074994)
+  - [EZFG - cloud (ktgster) \[Skyhigh\]](https://osu.ppy.sh/beatmapsets/571117#osu/1210394)
+  - [nowisee - confusion (yaspo) \[again\]](https://osu.ppy.sh/beatmapsets/720928#osu/1839779)
+- HardRock
+  - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#osu/1634887)
+  - [KOKIA - Ningen tte Sonna Mono ne (tatemae) \[kodoku\]](https://osu.ppy.sh/beatmapsets/1051092#osu/2196700)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223546)
+- DoubleTime
+  - [HoneyWorks - Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora) (hypercyte) \[hyperluin's Collab Insane\]](https://osu.ppy.sh/beatmapsets/1085461#osu/2269836)
+  - [KNOWER - BUTTS TITS MONEY (Imakuri) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1076064#osu/2251648)
+  - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
+  - [Reol,nqrse - Ooedo Ranvu (zhu) \[Insane\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572152)
+- FreeMod
+  - [umu. - humanly (Half) \[len's robotically another\]](https://osu.ppy.sh/beatmapsets/977552#osu/2065883)
+  - [EYE_RH - The Red Coronation (Parachute) \[Calamity\]](https://osu.ppy.sh/beatmapsets/1033460#osu/2160869)
+  - [Kalafina x The Prodigy - No Good Magia (Start the Witch) (Okoratu) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/988552#osu/2067859)
+  - [Helblinde - Grief & Malice (Necroh) \[AR9\]](https://osu.ppy.sh/beatmapsets/256997#osu/588959)
+
 ### Semifinals
 
 **[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view)**
