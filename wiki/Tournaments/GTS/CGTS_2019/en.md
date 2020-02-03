@@ -145,6 +145,18 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 
 ---
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Continent |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Asia |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Europe |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | North America |
+
+---
+
 ## Mappools
 
 ### Global phase
