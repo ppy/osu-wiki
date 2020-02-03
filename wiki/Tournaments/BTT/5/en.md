@@ -8,7 +8,7 @@ tags:
 
 ![BTT5 Logo](img/logo.jpg)
 
-The **Beginner's Taiko Tournament 2019** (***BTT5***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This is the fifth installment of the Beginner's Taiko Tournament.
+The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This is the fifth installment of the Beginner's Taiko Tournament.
 
 ## Tournament schedule
 
