@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). This was the third installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 

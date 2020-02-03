@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2014 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the first installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). This was the first installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 

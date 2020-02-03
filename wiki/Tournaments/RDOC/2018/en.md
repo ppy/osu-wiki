@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
