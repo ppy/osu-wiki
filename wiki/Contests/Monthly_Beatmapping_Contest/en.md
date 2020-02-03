@@ -1,8 +1,8 @@
 # Monthly Beatmapping Contest
 
-As implied by its name, the **Monthly Beatmapping Contest** (***MBC***) is a contest that runs monthly and allows users to compete with their beatmapping capabilities.
+As implied by its name, the **Monthly Beatmapping Contest** (***MBC***) is a [contest](/wiki/Contests) that runs monthly and allows users to compete with their [beatmapping](/wiki/Beatmapping) capabilities.
 
-The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests](/wiki/Contests#monthly-beatmapping-contest) article. The results for the 13th iteration can be found on its [news post](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
+The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests article](/wiki/Contests#monthly-beatmapping-contest). The results for the 13th iteration can be found on its [news post](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
 
 Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
 
