@@ -14,16 +14,16 @@ The **Beginner's Taiko Tournament 2019** (***BTT5***) is a worldwide double-elim
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-12-07/2020-01-05 |
-| Live Drawings | *to be announced* |
-| Qualifiers | 2020-01-18/2020-01-19 |
-| Group Stage | 2020-01-25/2020-01-26 |
-| Round of 32 | 2020-02-01/2020-02-02 |
-| Round of 16 | 2020-02-08/2020-02-09 |
-| Quarterfinals | 2020-02-15/2020-02-16 |
-| Semifinals | 2020-02-22/2020-02-23 |
-| Finals | 2020-02-29/2020-03-01 |
-| Grand Finals | 2020-03-07/2020-03-08 |
+| Registration phase | 2019-12-07/2020-01-05 |
+| Live drawings | 2020/01/19 |
+| Qualifiers | 2020-01-25/2020-01-27 |
+| Group Stage | 2020-02-01/2020-02-02 |
+| Round of 32 | 2020-02-08/2020-02-09 |
+| Round of 16 | 2020-02-15/2020-02-16 |
+| Quarterfinals | 2020-02-22/2020-02-23 |
+| Semifinals | 2020-02-29/2020-03-01 |
+| Finals | 2020-03-07/2020-03-08 |
+| Grand Finals | 2020-03-14/2020-03-15 |
 
 ## Prizes
 
