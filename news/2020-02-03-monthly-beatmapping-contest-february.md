@@ -10,7 +10,7 @@ New month, new mapping contest! Vote on last month's submissions and compete to 
 
 The Monthly Beatmapping Contest (*MBC*) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
 
-January's contest received a *massive* turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top 10% — the best 11 entries — so we encourage you to download those and vote for your favourite.
+January's contest received a *massive* turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top 10% — the best 11 entries — so we encourage you to download those and vote for your **3 favourites**.
 
 **[Vote for last month's contest here!](https://osu.ppy.sh/community/contests/84)** Results will be published in 2 weeks.
 
@@ -107,7 +107,7 @@ And... that's about it! If you're curious what shiny prizes you could get for wi
 
 Head over to the [contest listing](https://osu.ppy.sh/community/contests/89) when you're ready to submit your entry. You have **3 weeks** until submissions close (2020-02-24), so launch the editor and get started as soon as you can.
 
-Oh, and don't forget to vote for the best entry from last month's contest [here]((https://osu.ppy.sh/community/contests/84))!
+Oh, and don't forget to vote for the best 3 entries from last month's contest [here]((https://osu.ppy.sh/community/contests/84))!
 
 Best of luck and have fun mapping!
 
