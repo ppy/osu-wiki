@@ -41,9 +41,11 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+
+![CGTS 2019 winner badge](img/badge.png)
 
 ### Regional
 
