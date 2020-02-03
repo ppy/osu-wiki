@@ -8,9 +8,13 @@ osu! thrives on the unsung efforts of its community, and among them, a few exemp
 
 ![](/wiki/shared/news/2020-02-04-community-contributors-2019/header.jpg)
 
-The most vaunted profile badge of all, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) represents a candid acknowledgement from the osu!team of contribution to the osu!community grandly above the
+Perhaps the most prestigious of all profile badges awarded, the Community Contributor badge represents enduring contribution to the development of the osu!community through a variety of disciplines and fields. 
 
-Perhaps the most prestigious of all profile badges awarded, the [community contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg) represents enduring contribution to the development of the osu!community through a variety of disciplines and fields. Those who receive it have undoubtedly left their mark on the game for the better in one way or another.
+<div align="centre">
+    ![](https://assets.ppy.sh/profile-badges/contributor.jpg)
+</div>
+
+Those who receive it have undoubtedly left their mark on the game for the better in one way or another, and today, we grant several more.
 
 ## Community
 
@@ -125,6 +129,10 @@ A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, 
 
 In an effort to acknowledge the people who form the spine of osu!'s ranking system, we will be awarding a new form of Elite badges each year to commemorate the contributions of that year's most impressive Beatmap Nominators.
 
+<div align="centre">
+    ![](https://assets.ppy.sh/profile-badges/elite-nominator.png)
+</div>
+
 Only the most engaged qualify for such an accolade, those who truly stand at the top of their cohort as inarguably the most active and engaged Beatmap Nominators of all.
 
 To acknowledge these efforts, the Nomination Assessment Team have come together to write the following accolades describing what each of the Elite Nominators have done.
@@ -155,7 +163,7 @@ While also serving as a key member of the QAT and later the NAT, **Lasse** has m
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/komasy.jpg)](https://osu.ppy.sh/users/1980256)
 
-**komasy** made a huge impact on osu!taiko during 2019. Within his 9 month tenure before resigning, komsay helped to push over **100** mapsets to the ranked category! On top of that, he has been very easy to approach, always responding if you have a question or need an opinion. komasy has helped osu!taiko as a mode, helped newer mappers to figure things out, and been a beacon of knowledge in the community.
+**komasy** made a huge impact on osu!taiko during 2019. Within his 9 month tenure before resigning, komasy helped to push over **100** mapsets to the ranked category! On top of that, he has been very easy to approach, always responding if you have a question or need an opinion. komasy has helped osu!taiko as a mode, helped newer mappers to figure things out, and been a beacon of knowledge in the community.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Tyistiana.jpg)](https://osu.ppy.sh/users/1421452)
 
