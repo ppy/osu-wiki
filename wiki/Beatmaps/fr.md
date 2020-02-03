@@ -4,58 +4,58 @@ outdated: true
 
 # Beatmaps
 
-*A ne pas confondre avec : [Difficulties](/wiki/Difficulties).*
+*A ne pas confondre avec : [Difficulté](/wiki/Difficulties).*
 
-Les Beatmaps sont des niveaux de jeu dans [osu!](/wiki/osu!_glossary), comme les étapes de la [DS games](/wiki/Glossary/#ds-games). Dans sa forme la plus basique, un beatmap a une chanson et divers [hit objects](/wiki/hit_objects) placé selon le rythme de la musique. Ils peuvent aussi avoir une image de fond, une vidéo et/ou [storyboard](/wiki/storyboard).
+Les Beatmaps sont des niveaux de jeu dans [osu!](/wiki/osu!_glossary), comme les niveaux du [jeu DS](/wiki/Glossary/#ds-games). Dans sa forme la plus basique, une beatmap a une chanson et divers [hit objects](/wiki/hit_objects) placé selon le rythme de la musique. Elles peuvent aussi avoir une image de fond, une vidéo et/ou un [storyboard](/wiki/storyboard).
 
 Les Beatmaps peuvent être téléchargés par le [BSS](/wiki/BSS) (Beatmap Submission System) et sont ensuite soumis à un processus d'approbation appelé [modding](/wiki/modding) afin de maintenir les normes élevées de jouabilité.
 
-Vous pouvez trouver les beatmaps dans la page [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) sur osu!web.
+Vous pouvez trouver les beatmaps sur la page [Liste des beatmaps](https://osu.ppy.sh/beatmapsets) sur osu!web.
 
-## Statuts classés
+## Statuts Ranked
 
-Les beatmaps classées et approuvées doivent être approuvées par deux [Beatmap Nominators](/wiki/Beatmap_Nominators). Ils peuvent influencer les statistiques sur le profil d'un joueur, ce qui les rend différents d'une beatmap [en attente](#pending) ou [cimetière](#graveyard).
+Les beatmaps ranked et approuvées doivent être approuvées par deux [Beatmap Nominators](/wiki/Beatmap_Nominators). Ils peuvent influencer les statistiques sur le profil d'un joueur, ce qui les rend différents d'une beatmap [en attente](#en-attente) ou [au cimetière](#cimetière).
 
-### Classé
+### Ranked
 
-Les beatmaps classés utilisent l'icône du double chevron vers le haut (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) dans l'écran de sélection de la chanson.
+Les beatmaps ranked utilisent une icône de double chevron vers le haut (![Icone de double chevron vers le haut](/wiki/shared/status/ranked.png)) dans l'écran de sélection de la chanson.
 
-Ces beatmaps remplissent idéalement toutes les [ranking criteria](/wiki/ranking_criteria). Ceci est pour s'assurer que la plupart des joueurs peuvent s'attendre à un certain type de standard en les jouant.
+Ces beatmaps remplissent idéalement tous les [ranking criteria](/wiki/ranking_criteria). Ceci est pour s'assurer que la plupart des joueurs s'attendent à un certain type de standard en les jouant.
 
 ### Approuvé
 
-Les beatmaps approuvés utilisent l'icône de contrôle (![Check icon](/wiki/shared/status/approved.png)) dans l'écran de sélection de la chanson.
+Les beatmaps approuvés utilisent une icône de vérification (![Icone de vérification](/wiki/shared/status/approved.png)) dans l'écran de sélection de la chanson.
 
-Le statut approuvé est généralement pour les chansons qui durent plus de cinq minutes (aussi connu sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvés n'ont pas une difficulté facile ou normale. Cependant, certains créateurs peuvent les télécharger en tant que beatmapsets séparés avec des chansons identiques alors que d'autres sont inclus dans une chanson classée, contenant des beatmaps classés.
+Le statut approuvé est généralement pour les chansons qui durent plus de cinq minutes (aussi connu sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvés n'ont pas de difficulté facile ou normale. Cependant, certains créateurs peuvent les télécharger en tant que beatmapsets séparés avec des chansons identiques alors que d'autres sont inclus dans une chanson classée, contenant des beatmaps classés.
 
 ### Qualifié
 
-Les beatmaps qualifiés utilisent l'icône de contrôle (![Check icon](/wiki/shared/status/qualified.png)) dans l'écran de sélection de la chanson.
+Les beatmaps qualifiés utilisent une icône de vérification (![Icone de vérification](/wiki/shared/status/qualified.png)) dans l'écran de sélection de la chanson.
 
-Ces beatmaps en sont à la dernière étape du processus de beatmapping et de modding. Avant que le beatmap ne commence à jouer, un dialogue s'affiche, notant l'état de la cause du beatmap :
+Ces beatmaps en sont à la dernière étape du processus de beatmapping et de modding. Avant que la beatmap commence, un dialogue s'affiche, notant ce qu'implique le statut de la beatmap :
 
-- Pas de [performance points (pp)](/wiki/Performance_Points) sera attribué.
-- Tous les scores seront supprimés lorsque le statut est modifié.
-  - Si le statut est changé en classé, approuvé, ou de nouveau en attente, tous les scores seront effacés !
+-  Il n'y aura pas d'attribution de [performance points (pp)](/wiki/Performance_Points).
+- Tous les scores seront supprimés lorsque le statut sera modifié.
+  - Si le statut est changé en ranked, approuvé, ou de nouveau en attente, tous les scores seront effacés !
 
-Lorsqu'un beatmap est qualifié, il a passé le [ranking criteria](/wiki/ranking_criteria) et a été vérifié par deux [Beatmap Nominators](/wiki/Beatmap_Nominators). Les beatmaps qualifiés sont la dernière ligne de défense car ils doivent être dans ce statut pendant une semaine avant de devenir définitivement [ranked](#ranked) ou [approved](#approved).
+Lorsqu'une beatmap est qualifié, il a passé les [ranking criteria](/wiki/ranking_criteria) et a été vérifié par deux [Beatmap Nominators](/wiki/Beatmap_Nominators). Les beatmaps qualifiés sont la dernière ligne de défense car elles doivent être dans ce statut pendant une semaine avant de devenir définitivement [ranked](#ranked) ou [approuvée](#approved).
 
-Pendant la durée d'une semaine, cependant, [QATs](/wiki/QAT) sont autorisés à écrire des problèmes avec ces beatmaps. Si cela se produit, le statut du beatmapset redeviendra en attente et le processus recommencera à nouveau.
+Pendant cette durée d'une semaine, cependant, les [QATs](/wiki/QAT) sont autorisés à écrire les problèmes rencontrés sur ces beatmaps. Si cela se produit, le statut du beatmapset redeviendra en attente et le processus recommencera à nouveau.
 
-### Aimé
-
-
-*Pour l'histoire de la catégorie Aimé, voir : [History of Loved](/wiki/Beatmaps/History_of_Loved).*
-
-Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
+### Loved
 
 
-Les cartes de battement aimées utilisent l'icône de coeur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection de la chanson.
+*Pour l'histoire de la catégorie Loved, voir : [Histoire des Loved](/wiki/Beatmaps/History_of_Loved).*
 
-Ces beatmaps peuvent ne pas répondre aux [ranking criteria](/wiki/Ranking_Criteria), mais sont *aimés* par la communauté et sont donc régulièrement ajoutés en fonction des votes de la communauté afin qu'ils aient un tableau des leaders. Avant que le beatmap ne commence à jouer, un dialogue s'affiche, notant que
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* par la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant ce qu'implique le statut de cette beatmap :
 
-- Pas de [performance points (pp)](/wiki/Performance_Points) sera attribué.
-- Tous les scores seront supprimés si le créateur met à jour la carte des temps.
+
+Les beatmaps loved utilisent une icône de coeur (![icone de coeur](/wiki/shared/status/loved.png)) dans l'écran de sélection de la chanson.
+
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* par la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant ce qu'implique le statut de cette beatmap :
+
+- Il n'y aura pas d'attribution de [performance points (pp)](/wiki/Performance_Points).
+- Tous les scores seront supprimés si le créateur met à jour la beatmap.
 
 Pour qu'une beatmap soit aimée, elle doit passer par le [processus de vote communautaire](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
@@ -64,20 +64,20 @@ Pour qu'une beatmap soit aimée, elle doit passer par le [processus de vote comm
 
 *Page principale : [Beatmap Ranking Procedure](/wiki/Beatmap_ranking_procedure)*
 
-Les beatmaps en attente utilisent l'icône de point d'interrogation (![Question mark icon](/wiki/shared/status/pending.png)) dans l'écran de sélection de la chanson.
+Les beatmaps en attente utilisent une icône de point d'interrogation (![Icone de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection de la chanson.
 
-Un beatmap avec un statut en attente est généralement en attente d'être [modded](/wiki/modded). [Creators](/wiki/Creators) doit chercher des [modders](/wiki/modders) de la communauté et au moins deux [Beatmap Nominators](/wiki/Beatmap_Nominators) pour sortir leur beatmapset de ce statut.
+Une beatmap avec un statut en attente est généralement en attente d'être [modée](/wiki/modded). Les [créateurs](/wiki/Creators) doit chercher des [modders](/wiki/modders) de la communauté et au moins deux [Beatmap Nominators](/wiki/Beatmap_Nominators) pour sortir leur beatmapset de ce statut.
 
-Les beatmaps inactifs qui sont dans cette catégorie depuis 4 semaines sont automatiquement déplacés dans le status [cimetière](#graveyard).
+Les beatmaps inactifs qui sont dans cette catégorie depuis 4 semaines sont automatiquement déplacés dans le status [cimetière](#cimetière).
 
 Tous les beatmaps en attente n'affectent pas les statistiques des utilisateurs.
 
 ### Cimetière
 
-Les cartes rythmiques de cimetière utilisent l'icône de point d'interrogation (![Question mark icon](/wiki/shared/status/graveyard.png)) dans l'écran de sélection de la chanson.
+Les beatmaps au cimetière utilisent une icône de point d'interrogation (![Icone de point d'interrogation](/wiki/shared/status/graveyard.png)) dans l'écran de sélection de la chanson.
 
-Ces beatmaps étaient initialement [en attente](#pending), mais sont passés à cet état parce qu'ils n'ont pas été mis à jour ou que son fil de discussion était inactif depuis 4 semaines. Ces beatmaps ne peuvent pas être mis à jour avant que le [mapper](/wiki/mapper) le fait revivre en cliquant sur le lien `Revive Beatmap` dans leur profil, sous la catégorie `Beatmaps`..
+Ces beatmaps étaient initialement [en attente](#en-attente), mais sont passés à cet état parce qu'ils n'ont pas été mis à jour ou que son fil de discussion était inactif depuis 4 semaines. Ces beatmaps ne peuvent pas être mis à jour avant que le [mapper](/wiki/mapper) la fasse revivre en cliquant sur le lien `Revive Beatmap` dans leur profil, sous la catégorie `Beatmaps`..
 
 Tous les beatmaps cimetières n'affectent pas les statistiques des utilisateurs.
 
-Afin d'économiser de l'espace numérique pour les beatmaps plus récents, osu ! purgera les beatmaps cimetières s'ils ont été dans cet état pendant une longue période de temps.
+Afin d'économiser de l'espace numérique pour les beatmaps plus récents, osu! purgera les beatmaps cimetières si elles ont été dans cet état pendant une longue période de temps.
