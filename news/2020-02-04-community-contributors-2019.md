@@ -14,7 +14,7 @@ Perhaps the most prestigious of all profile badges awarded, the [community contr
 
 ## Community
 
-[![](/wiki/shared/news/2020-02-04-community-contributors-2019/VINXIS.jpg)](https://osu.ppy.sh/users/4323406)
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/vinxis.jpg)](https://osu.ppy.sh/users/4323406)
 
 **VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as the *Corsace Open*, the *OHC*, the *Mapper's Choice Awards* and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
 
