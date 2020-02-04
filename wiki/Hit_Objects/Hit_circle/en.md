@@ -1,4 +1,4 @@
-# Hit Circle
+# Hit circle
 
 ![A hit circle in the default skin.](img/Hit_circle.png "A hit circle in the default skin.")
 

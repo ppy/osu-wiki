@@ -1,4 +1,4 @@
-# Spinner
+# Slider
 
 ![A slider in the default skin.](img/Slider.jpg "A slider in the default skin.")
 
@@ -10,19 +10,22 @@ Passing over either an end of the slider of a slider tick will award a minute bo
 
 Sliders are often mapped to long sounds in the music. They are also used to carry the rhythm, especially when the rhythm would be very complex without a slider or not suitable for a hit circle, and are sometimes used to replace streams of hit circles for the easier difficulty.
 
-Inserting Sliders into a Beatmap
+## Inserting sliders into a Beatmap
+
+*See also: [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)*
+
 To create a slider in a beatmap, first go to the selection menu on the left and select the Slider icon (make sure you're in the point you want your slider to start at). Then, click once to create the slider's start point. To create another slider control point, click somewhere else on the grid and it will create a control point as reference for curves. Double-clicking will make the control point red and the slider will make a linear change of direction at the exact position of the red slider point instead of the normal gradual curve.
 
 When you're done with your slider, simply right click anywhere on the grid.
 
 You are free to move/add/remove slider control points after the slider is finished. You can remove control points by right clicking them after the slider has been selected, or add a control point by holding control and clicking anywhere on the slider lines (double click or control+click a slider point to make a red control point). Adding slider repeats is as simple as clicking your slider on the timeline and holding and dragging the end through the timeline to create/remove slider repeats.
 
-Here's a guide on making sliders: Making Good Sliders
+## Inserting hitsounds into sliders
 
-Inserting hitsounds into sliders
 This may seem obvious at first to experienced players. However, this is one of the most common questions asked. To insert hitsounds into sliders, you first want to ask yourself where you want your hitsound. Is it at the start? At the body? At the end? On a slider repeat? To do so, first click on the slider. Then, click on the part of the slider you want to add the hitsound to (it will be highlighted red). This is more easily done by clicking on it in the timeline. (When using kick sliders, it will be easier if you zoom in the timeline.) Then, just click the hitsound you want to add from the list at the right.
 
-Slider Speed
+## Slider speed
+
 A slider's speed defines how much time it takes to travel a given distance--or equivalently, how far the slider travels in a given time.
 
 Slider speed is measured in hundreds of osupixels per beat, so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
@@ -31,7 +34,8 @@ Slider speed can be assigned from the Timing tab from the editor main window. Yo
 
 It has recently become popular to use slider speeds which are multiples of 0.16. (for instance, 1.60, 1.76, 1.92, etc.) This has the effect of lining up the endpoint of a straight horizontal/vertical slider with osu!'s grid when the slider begins and ends on a whole or half beat, but has its drawbacks when it comes to slightly curved sliders.
 
-Slider Tick Rate
+## Slider tick rate
+
 Slider tick rate is the rate that slider tick appears in slider. For example, slider tick rate 1 means that slider ticks appears once per beat. However, as the slider ticks does not appear in the two end-points of a slider, some slider does not contain any slider tick. For example, a 1-beat slider does not contain slider tick in slider tick rate 1.
 
 Typical slider tick rate includes 1, 2 and 4. 3 is also available but used rarely. In the past slider tick 4 is widely used but slider tick rate 1 and 2 are used more popularly. Slider tick rate 0.5 (slider tick per 2 beat) is also available in the past but it is unrankable now.
