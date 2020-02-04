@@ -20,7 +20,7 @@ Those who receive it have undoubtedly left their mark on the game for the better
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/vinxis.jpg)](https://osu.ppy.sh/users/4323406)
 
-**VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as the *Corsace Open*, the *OHC*, the *Mapper's Choice Awards* and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
+**VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as *Corsace Open*, the *OHC*, the *Mapper's Choice Awards* and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
 
 Not content to leave it there, he is also a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22) and one of the original members of the Mappers' Guild. Few have made such enduring changes upon osu!'s landscape as VINXIS and his efforts have, and it is safe to say that without him, osu! would have been considerably worse off.
 
@@ -62,7 +62,7 @@ His work in managing the upkeep of the GMT and ensuring that the newest generati
 
 Essential to the continuation of the Community Mentorship Program, **yaspo and Uberzolik** have spent thousands of hours performing key tasks to ensure things stay on track.
 
-After Halfslashed stepped down, **yaspo** picked up the slack and stepped up to lead beside Okoratu, and has been responsible for running dozens of contests, hundreds of discussions, hand-picking similar numbers of mentor and mentee applications, hosting meetings and so much more.
+After Halfslashed stepped down, **yaspo** picked up the slack and stepped up to lead beside Okoratu, and has been responsible for running dozens of contests and discussions, hand-picking several hundreds of mentor and mentee applications, hosting meetings and so much more.
 
 **Uberzolik** has been responsible for maintaining huge swathes of data required for the project to continue, balancing this workload whilst also being a mentor AND a Beatmap Nominator himself.
 
@@ -145,7 +145,7 @@ To acknowledge these efforts, the Nomination Assessment Team have come together 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Mordred.jpg)](https://osu.ppy.sh/users/7265097)
 
-**Mordred** is a stand out individual who has been extremely active in all of nominating, resetting, qualifying and disqualifying maps. On top of this, his enthusiasm towards pushing full version maps has not gone unnoticed. He definitely cares quite a lot about the quality of mapping on osu!, and his persistence goes to show how he deserves the title of Elite Nominator.
+**Mordred** is a stand out individual who has been extremely active in all of nominating, resetting, qualifying and disqualifying maps. On top of this, his enthusiasm towards pushing full version maps has not gone unnoticed. He definitely cares quite a lot about the quality of mapping on osu!, and his dedication goes to show how he deserves the title of Elite Nominator.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Cheri.jpg)](https://osu.ppy.sh/users/5226970)
 
@@ -153,15 +153,15 @@ To acknowledge these efforts, the Nomination Assessment Team have come together 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/eiri.jpg)](https://osu.ppy.sh/users/3388410)
 
-Everything you'd expect from a beatmap nominator and more, **eiri-** is definitely one of the best around. She's super active and excels in all of nominating, popping, and disqualifying maps, as well as generally checking maps in qualified. In addition to that, she's been very active in pushing maps from mappers both new and old across tons of musical genres.With everything covered, eiri- is definitely good at what she does!
+Everything you'd expect from a beatmap nominator and more, **eiri-** is definitely one of the best around. She's super active and excels in all of nominating, popping, and disqualifying maps, as well as generally checking maps in qualified. In addition to that, she's been very active in pushing maps from mappers both new and old across tons of musical genres. With everything covered, eiri- is definitely good at what she does!
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/bossandy.jpg)](https://osu.ppy.sh/users/360437)
 
-There are those who are incredible simply by being themselves. **bossandy** is not only a good nominator in terms of modding, but he is also very open minded about different mapping styles and always try to push maps from all kinds of difficulties regardless of how unconventional it may be and still maintain a good proficiency. His great performance paired with his very kind personality is what makes him stand out and earn not only the respect of others, but also the title of Elite Nominator!
+There are those who are incredible simply by being themselves. **bossandy** is not only a good nominator in terms of modding, but he is also very open minded about different mapping styles. He always tries to push maps from all kinds of difficulties, regardless of how unconventional it may be, while still maintain a good proficiency. His great performance paired with his very kind personality is what makes him stand out and earn not only the respect of others, but also the title of Elite Nominator!
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Lasse.jpg)](https://osu.ppy.sh/users/896613)
 
-While also serving as a key member of the QAT and later the NAT, **Lasse** has managed to maintain really high activity in nominating as well. He successfully nominated over 100 maps this year, and also disqualified more than anyone else,  all while having a keen eye in his modding. Lasse's mods are some of those that consistently understand what mappers are doing, spotting every mistake, and more!
+While also serving as a key member of the QAT and later the NAT, **Lasse** has managed to maintain really high activity in nominating as well. He successfully nominated over 100 maps this year, and also disqualified more than anyone else, all while having a keen eye in his modding. Lasse's mods are some of those that consistently understand what mappers are doing, spotting every mistake, and more!
 
 ### osu!taiko
 
