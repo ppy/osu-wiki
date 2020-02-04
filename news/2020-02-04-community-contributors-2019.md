@@ -129,6 +129,10 @@ Combined, **Death and Dntm8kmeeatu** put the support in the Support Team, collec
 
 A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, **Milan-**'s advice and aid have helped shape the backbone of the systems that govern osu!'s ranking cycle, and one of its primary projects for promoting the use of officially licensed music, all while maintaining his place in the Beatmap Nominators.
 
+[![](/wiki/shared/news/2020-02-04-community-contributors-2019/Joehu.jpg)](https://osu.ppy.sh/users/8549835)
+
+**Joehu** has been a part of the osu!wiki team and a regular contributor to the osu!lazer project for many years now, and has rapidly made a name for himself as one of the most fastidious and efficient reviewers overall. Wikifriends near and far regularly comment that if you get a green light from Joehu, you know you're set, and when folklore legends are arising out of someone's attention to detail, there's really not much story to tell at that point.
+
 ## Nominators
 
 In an effort to acknowledge the people who form the spine of osu!'s ranking system, we will be awarding a new form of Elite badges each year to commemorate the contributions of that year's most impressive Beatmap Nominators.
