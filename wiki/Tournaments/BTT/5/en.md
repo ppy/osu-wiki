@@ -6,7 +6,7 @@ tags:
 
 # Beginner's Taiko Tournament 5
 
-![BTT5 Logo](img/logo.jpg)
+![BTT5 logo](img/logo.jpg)
 
 The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This is the fifth installment of the Beginner's Taiko Tournament.
 
@@ -15,7 +15,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-12-07/2020-01-05 |
-| Live drawings | 2020/01/19 |
+| Live drawings | 2020-01-19 |
 | Qualifiers | 2020-01-25/2020-01-27 |
 | Group Stage | 2020-01-31/2020-02-02 |
 | Round of 32 | 2020-02-08/2020-02-09 |
@@ -88,8 +88,6 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 
----
-
 ## Mappools
 
 ### Round of 32
@@ -103,7 +101,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
   - [LeaF - Aleph-0 (Nifty) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/675465#taiko/1451088)
 - Hidden
   - [Hardwell & Joey Dale feat. Luciana - Arcadia (Nightcore Mix) (incandescence) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/912966#taiko/1907178)
-  - [Nekomata Master - Izanami's Wail (_DUSK_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/957016#taiko/2070355)
+  - [Nekomata Master - Izanami's Wail (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/957016#taiko/2070355)
 - HardRock
   - [Rave Cyanide x Lunatic Sounds - Lost in the nowhere (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/793405#taiko/1775051)
   - [BlackY - KITTY FOILED (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/903288#taiko/2017033)
@@ -154,8 +152,6 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - DoubleTime
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
----
-
 ## Match results
 
 ### Group Stage
@@ -193,7 +189,7 @@ Saturday, 1 February 2020:
 | zd101nb ![][flag_CN] | 3 | **4** | ![][flag_FI] **Pickxarro** | [#1](https://osu.ppy.sh/community/matches/58122146) |
 | **Dartandr** ![][flag_RU] | **4** | 1 | ![][flag_RU] poppasanas | [#1](https://osu.ppy.sh/community/matches/58122111) |
 | persik23 ![][flag_RU] | 0 | **4** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58121842) |
-| Ristpek ![][flag_RI] | -1 | **0** | ![][flag_FR] **TLQ\_Yoshii** | *win by default* |
+| Ristpek ![][flag_FI] | -1 | **0** | ![][flag_FR] **TLQ\_Yoshii** | *win by default* |
 | **Pickxarro** ![][flag_FI] | **0** | -1 | ![][flag_GB] -jordan- | *win by default* |
 | Geromu Keretem ![][flag_BG] | 0 | **4** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58123200) |
 | **Pe6eHoK98** ![][flag_RU] | **4** | 1 | ![][flag_UA] claggole | [#1](https://osu.ppy.sh/community/matches/58123184) |
@@ -265,8 +261,6 @@ Sunday, 2 February 2020:
 | Erkfir ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58167317) |
 | Senko-san ![][flag_CA] | 0 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/58169352) |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -333,28 +327,28 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BY]: /wiki/shared/flag/BY.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NI]: /wiki/shared/flag/NI.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NI]: /wiki/shared/flag/NI.gif "Nicaragua"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
