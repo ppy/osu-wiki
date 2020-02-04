@@ -14,7 +14,7 @@ Perhaps the most prestigious of all profile badges awarded, the Community Contri
     <img src="https://assets.ppy.sh/profile-badges/contributor.jpg"/>
 </div>
 
-Those who receive it have undoubtedly left their mark on the game for the better in one way or another, and today, we grant several more.
+Those who receive it have undoubtedly left their mark on the game for the better. Today, we acknowledge the efforts of several more.
 
 ## Community
 
@@ -26,7 +26,7 @@ Not content to leave it there, he is also a [Featured Artist](https://osu.ppy.sh
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/hehe.jpg)](https://osu.ppy.sh/users/2123087)
 
-Previously known as *handsome*, **hehe** is a founding member of the Corsace project, an original Mappers' Guild founding member and most renowned not only for his many creative masterpieces in the mapping domain, but also for his visual design and organizational contributions to some of the game's most enduring community-run projects.
+Previously known as *handsome*, **hehe** is a founding member of the Corsace project, an original Mappers' Guild founding member and most renowned not only for his many creative masterpieces in the mapping domain, but also for his visual design and organizational contributions to some of the game's most enduring community-run projects, such as the *Mapper's Choice Awards*, the *OHC* and more.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Noffy.jpg)](https://osu.ppy.sh/users/1541323)
 
@@ -38,7 +38,7 @@ We earnestly hope to see more of her ilk rise to the fore in the future, and we 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Shoegazer.jpg)](https://osu.ppy.sh/users/2520707)
 
-A true paragon-in-waiting, few are as synonymous with a game mode's excellence as **Shoegazer** is with osu!mania. His contributions towards the mode are vast beyond reckoning, ranging from groundwork in dealing with criteria and gameplay issues to the development of tournament-grade map pools for the game's finest players, featuring extensively in osu!mania's two most vaunted tournaments - the osu!mania World Cup and SOFT.
+A true paragon-in-waiting, few are as synonymous with a game mode's excellence as **Shoegazer** is with osu!mania. His contributions towards the mode are vast beyond reckoning, ranging from groundwork in dealing with ranking criteria revisions to gameplay issues to the development of tournament-grade map pools for the game's finest players, featuring extensively in osu!mania's two most vaunted tournaments - the osu!mania World Cup and SOFT.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/JBHyperion.jpg)](https://osu.ppy.sh/users/4879508)
 
@@ -133,7 +133,9 @@ A chief contributor to the Mappers' Guild and Beatmap Nominator infrastructure, 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Joehu.jpg)](https://osu.ppy.sh/users/8549835)
 
-**Joehu** has been a part of the osu!wiki team and a regular contributor to the osu!lazer project for many years now, and has rapidly made a name for himself as one of the most fastidious and efficient reviewers overall. Wikifriends near and far regularly comment that if you get a green light from Joehu, you know you're set, and when folklore legends are arising out of someone's attention to detail, there's really not much story to tell at that point.
+**Joehu** has been a part of the osu!wiki team and a regular contributor to the osu!lazer project for many years now, and has rapidly made a name for himself as one of the most fastidious and efficient reviewers overall.
+
+We're deeply grateful for his hundreds of hours of contributions across a huge swathe of the game, and his consistent pursuit of excellence in the tasks and reviews that he has undertaken.
 
 ## Nominators
 
@@ -155,11 +157,11 @@ To acknowledge these efforts, the Nomination Assessment Team have come together 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Cheri.jpg)](https://osu.ppy.sh/users/5226970)
 
-**Cheri** has been a supremely active nominator and very approachable for all kinds of issues. She does not hesitate to contribute wherever she sees possible, and this also shows in her hard work checking qualified as a QAH member and actively posting problems and suggestions on maps that can be improved further! She has been excelling as a Beatmap Nominator, and her kindness makes that even better. As someone doing so well, she embodies the kind of passion needed to be an Elite Nominator.
+**Cheri** has been a supremely active nominator and very approachable for all kinds of issues. She does not hesitate to contribute wherever she sees possible, and this also shows in her hard work checking the Qualified section as a QAH member and actively posting problems and suggestions on maps that can be improved further! She has been excelling as a Beatmap Nominator, incorporating empathy and kindness with a natural drive to help people improve their work. She embodies the kind of passion and patience needed to be an Elite Nominator.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/eiri.jpg)](https://osu.ppy.sh/users/3388410)
 
-Everything you'd expect from a beatmap nominator and more, **eiri-** is definitely one of the best around. She's super active and excels in all of nominating, popping, and disqualifying maps, as well as generally checking maps in qualified. In addition to that, she's been very active in pushing maps from mappers both new and old across tons of musical genres. With everything covered, eiri- is definitely good at what she does!
+Everything you'd expect from a beatmap nominator and more, **eiri-** is definitely one of the best around. She's super active and excels in all of nominating, popping, and disqualifying maps, as well as generally checking maps in the Qualified section. In addition to that, she's been very active in pushing maps from mappers both new and old across tons of musical genres. With everything covered, eiri- is definitely good at what she does!
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/bossandy.jpg)](https://osu.ppy.sh/users/360437)
 
@@ -167,23 +169,25 @@ There are those who are incredible simply by being themselves. **bossandy** is n
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Lasse.jpg)](https://osu.ppy.sh/users/896613)
 
-While also serving as a key member of the QAT and later the NAT, **Lasse** has managed to maintain really high activity in nominating as well. He successfully nominated over 100 maps this year, and also disqualified more than anyone else, all while having a keen eye in his modding. Lasse's mods are some of those that consistently understand what mappers are doing, spotting every mistake, and more!
+Serving as a core member of the QAT (and later the NAT), **Lasse** managed to retain extraordinarily high activity in beatmap nomination at the same time, something very rarely seen given the complexity of the QAT/NAT's responsibilities. He has successfully nominated over 100 maps in 2019 alone, and is renowned for being the sole person to perform the most disqualifications by a significant margin during the year.
+
+Beyond this, Lasse also has a keen reputation for his modding style which incorporates a deep understanding of what most mappers are trying to accomplish, showcasing his extensive experience with the craft above all else.
 
 ### osu!taiko
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/komasy.jpg)](https://osu.ppy.sh/users/1980256)
 
-**komasy** made a huge impact on osu!taiko during 2019. Within his 9 month tenure before resigning, komasy helped to push over **100** mapsets to the ranked category! On top of that, he has been very easy to approach, always responding if you have a question or need an opinion. komasy has helped osu!taiko as a mode, helped newer mappers to figure things out, and been a beacon of knowledge in the community.
+**komasy** made a huge impact on osu!taiko during 2019. Within his 9 month tenure before resigning, komasy helped push over **100** mapsets to the ranked category! On top of that, his approachability and willingness to help have cultivated a glowing reputation among the scene. komasy has helped build osu!taiko as a gamemode and a community, never shying away from assisting newer mappers with their work, and has generally been a beacon of knowledge all around.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Tyistiana.jpg)](https://osu.ppy.sh/users/1421452)
 
-Having stable activity throughout 2019, **Tyistiana** takes care with each and every mapset. Additionally, he actively partakes in disqualification discussions, and he recently does the vast majority of QAH checks too. He is serving actively both to push content and assure the quality of maps going for ranked, and is truly a backbone for the osu!taiko game mode!
+Showcasing stability and consistency throughout 2019, **Tyistiana** has been an active nominator on a mission, dominating the performance charts among the Quality Assurance Helpers in his tireless quest to both help mappers push their work into Ranked, and assure their quality at the same time. His efforts have been instrumental towards the health of the osu!taiko scene during the year.
 
 ### osu!catch
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Jemzuu.jpg)](https://osu.ppy.sh/users/7890134)
 
-After a bit of a rocky start, osu!catch's longest standing nominator in terms of consecutive time (430 days!) has been nothing less than extraordinary over the last year. Boasting nearly unmatched statistics in resets, disqualifications, and nominations on top of an incredibly impressive tenure in the Quality Assurance Helpers, **Jemzuu** has been a massive help in just about every field that osu!catch has to offer. When it comes to being an Elite Nominator, it would be nearly impossible to overlook him.
+After a bit of a rocky start, **Jemzuu** is osu!catch's longest standing beatmap nominator in terms of consecutive time (430 days!) has been nothing less than extraordinary throughout 2019. Boasting nearly unmatched statistics in resets, disqualifications, and nominations on top of an incredibly impressive tenure in the Quality Assurance Helpers, he has truly demonstrated a desire and willingness to help. His incredible work ethic and contributions make him a prime and well-deserved choice for an Elite Nominator.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/wonjae.jpg)](https://osu.ppy.sh/users/5032045)
 
