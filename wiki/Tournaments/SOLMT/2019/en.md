@@ -7,13 +7,13 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 1) double elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918) and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 1) double-elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-14/2019-11-6 |
+| Registration phase | 2019-10-14/2019-11-06 |
 | Qualifiers | 2019-11-23/2019-11-24 |
 | Group Stage First Week | 2019-11-30/2019-12-01 |
 | Group Stage Second Week | 2019-12-07/2019-12-08 |
@@ -36,7 +36,7 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 
 
 ## Organisation
 
-The Speed of Light Mania Tournament is run by various community members.
+The Speed of Light Mania Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -46,7 +46,7 @@ The Speed of Light Mania Tournament is run by various community members.
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [CarterTheQ](https://osu.ppy.sh/users/5331023), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
 | Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363), ![][flag_MX] [\[Toni\]](https://osu.ppy.sh/users/9260169), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522) |
-| Statistician | ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
+| Statistician | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
 
 ## Links
 
@@ -64,7 +64,7 @@ The Speed of Light Mania Tournament is run by various community members.
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #16) | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [\[-DaNieL_TH-\]](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
+| Top (#1 - #16) | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [\[-DaNieL\_TH-\]](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | High (#17 - #32) | ![][flag_RU] [AngeloLagusa](https://osu.ppy.sh/users/9074986), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_FI] [Strachy](https://osu.ppy.sh/users/9663200), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182), ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_AR] [ByDarking](https://osu.ppy.sh/users/10652110), ![][flag_PH] [Cohue](https://osu.ppy.sh/users/12538598), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_RU] [N1ckn1ght](https://osu.ppy.sh/users/10332479), ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959), ![][flag_TW] [AW ZERO](https://osu.ppy.sh/users/4415146), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_US] [Playboi Carti](https://osu.ppy.sh/users/4833676), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) |
 | Mid (#33 - #48) | ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607),![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_VN] [baoketban123](https://osu.ppy.sh/users/11863174), ![][flag_US] [Jellyblob](https://osu.ppy.sh/users/8319503), ![][flag_US] [yahweh](https://osu.ppy.sh/users/10465260), ![][flag_AR][Mateocristaldo](https://osu.ppy.sh/users/6384643), ![][flag_LV] [CrayZigg](https://osu.ppy.sh/users/11942663), ![][flag_CO] [Cansta](https://osu.ppy.sh/users/9303412), ![][flag_MX] [HéctorAF01](https://osu.ppy.sh/users/12815564), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) |
 | Low (#49 - #64) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_RU] [TruthIsNear](https://osu.ppy.sh/users/11191093), ![][flag_MX] [YukariYakumo](https://osu.ppy.sh/users/10595982), ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236), ![][flag_RU] [AsyaKys](https://osu.ppy.sh/users/12096335), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_MX] [Kenrit-San](https://osu.ppy.sh/users/13054150), ![][flag_UK] [zHotRoD](https://osu.ppy.sh/users/10441414), ![][flag_AU] [Crumpetfiddler](https://osu.ppy.sh/users/3518705), ![][flag_RU] [artslay](https://osu.ppy.sh/users/7758301), ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184), ![][flag_TH] [monkerzaza](https://osu.ppy.sh/users/11025701), ![][flag_ID] [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ![][flag_US] [Lights](https://osu.ppy.sh/users/9380939) | 
@@ -76,7 +76,7 @@ The Speed of Light Mania Tournament is run by various community members.
 | **A** |![][flag_AU] \[Crz\]Lochie | ![][flag_KR] NKEYBOARD | ![][flag_BR] Halo- | ![][flag_TH] monkerzaza |  
 | **B** |![][flag_US] Unholy |![][flag_RU] Lerck |![][flag_MX] HéctorAF01 |![][flag_MX] YukariYakumo |
 | **C** |![][flag_PH] bojii |![][flag_RU] AngeloLagusa |![][flag_FR] DragonSonic |![][flag_UK] zHotRoD |
-| **D** |![][flag_TH] -\[DaNieL_TH]\-|![][flag_US] Playboi Carti |![][flag_PH] Shiyui- |![][flag_RU] TruthIsNear |
+| **D** |![][flag_TH] -\[DaNieL\_TH]\-|![][flag_US] Playboi Carti |![][flag_PH] Shiyui- |![][flag_RU] TruthIsNear |
 | **E** |![][flag_PH] realqarp |![][flag_TW] AW ZERO |![][flag_US] yahweh |![][flag_RU] artslay |
 | **F** |![][flag_US] Logan636 |![][flag_MX] -Hellscythe- |![][flag_RU] FoXCHANNEL |![][flag_DO] Kaito-kun |
 | **G** |![][flag_US] HeZeuS |![][flag_ID] Proxae |![][flag_AR] jLuyalb |![][flag_ID] StyxFearNite |
@@ -275,7 +275,7 @@ Friday, 17 January 2020:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -\[DaNieL_TH\]- ![][flag_TH] | 3 | **7** | ![][flag_PH] **swarmsii** | [#1](https://osu.ppy.sh/community/matches/57777717) |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 3 | **7** | ![][flag_PH] **swarmsii** | [#1](https://osu.ppy.sh/community/matches/57777717) |
 | SillyFangirl ![][flag_BR] | 0 | **7** | ![][flag_BR] **andreymc** | *win by default* |
 
 Saturday, 18 January 2020:
@@ -296,7 +296,7 @@ Friday, 10 January 2020:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -\[DaNieL_TH\]- ![][flag_TH] | 0 | **7** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/57617790) |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 0 | **7** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/57617790) |
 | **andreymc** ![][flag_BR] | **7** | 4 | ![][flag_PE] DazeRo5 | [#1](https://osu.ppy.sh/community/matches/57630703) |
 
 Saturday, 11 January 2020:
@@ -321,7 +321,7 @@ Friday, 3 January 2020:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-\[DaNieL_TH\]-** ![][flag_TH] | **6** | 3 | ![][flag_RU] AngeloLagusa | [#1](https://osu.ppy.sh/community/matches/57460102) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **6** | 3 | ![][flag_RU] AngeloLagusa | [#1](https://osu.ppy.sh/community/matches/57460102) |
 
 Saturday, 4 January 2020:
 
@@ -359,7 +359,7 @@ Friday, 20 December 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-\[DaNieL_TH]\-** ![][flag_TH] | **6** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/57107480) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **6** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/57107480) |
 | Unholy ![][flag_US] | 4 | **6** | ![][flag_PH] **Swarmsii**  | [#1](https://osu.ppy.sh/community/matches/57119952) |
 
 Saturday, 21 December 2019:
@@ -400,7 +400,7 @@ Saturday, 14 December 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **bojii** ![][flag_PH] | **5** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/56956932) |
 | Strachy ![][flag_FI] | 0 | **5** | ![][flag_MY] **cheewee10** | *win by default* |
-| **-\[DaNieL_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_RU] Lerck | [#1](https://osu.ppy.sh/community/matches/56965394) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_RU] Lerck | [#1](https://osu.ppy.sh/community/matches/56965394) |
 | Gabi Kamui ![][flag_BR] | **5** | 2 | ![][flag_US] N1ckN1ght | [#1](https://osu.ppy.sh/community/matches/56965320) |
 | Proxae ![][flag_ID] | 2 | **5** | ![][flag_US] **Logan636** | [#1](https://osu.ppy.sh/community/matches/56973478) |
 | **C1e4r** ![][flag_RU] | **5** | 3 | ![][flag_RU] FoXCHANNEL | [#1](https://osu.ppy.sh/community/matches/56976412) |
@@ -425,7 +425,7 @@ Friday, 29 November 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-[DaNieL_TH]-** ![][flag_TH] | **4** | 0 | ![][flag_US] Playboi Carti | [#1](https://osu.ppy.sh/community/matches/56602623) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_US] Playboi Carti | [#1](https://osu.ppy.sh/community/matches/56602623) |
 
 Saturday, 30 November 2019:
 
@@ -435,13 +435,13 @@ Saturday, 30 November 2019:
 | **bojii** ![][flag_PH] | **4** | 0 | ![][flag_RU] AngeloLagusa | *win by default* |
 | monkerzaza ![][flag_TH] | 0 | **4** | ![][flag_AU] **\[Crz\]Lochie** | [#1](https://osu.ppy.sh/community/matches/56627324) |
 | DragonSonic ![][flag_FR] | 0 | **4** |![][flag_PH] **bojii** |  [#1](https://osu.ppy.sh/community/matches/56627059) |
-| Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_TH]  **-\[DaNieL_TH\]-** |  [#1](https://osu.ppy.sh/community/matches/56628847) |
+| Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_TH]  **-\[DaNieL\_TH\]-** |  [#1](https://osu.ppy.sh/community/matches/56628847) |
 | Halo- ![][flag_BR] | 0 | **4** | ![][flag_AU] **\[Crz\]Lochie** | [#1](https://osu.ppy.sh/community/matches/56628849) |
 | **realqarp** ![][flag_PH] | **4** | 0 | ![][flag_RU] artslay | *win by default* |
 | bojii ![][flag_PH] | **4** | 0 | ![][flag_UK] zHotRoD | *win by default* | 
-| **-\[DaNieL_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_RU] TruthIsNear | [#1](https://osu.ppy.sh/community/matches/56630804) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_RU] TruthIsNear | [#1](https://osu.ppy.sh/community/matches/56630804) |
 | Unholy ![][flag_US] | 3 | **4** | ![][flag_RU] Lerck | [#1](https://osu.ppy.sh/community/matches/56633162) |
-| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_ID][ Albedo ] | [#1](https://osu.ppy.sh/community/matches/56633292) |
+| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_ID] \[ Albedo \] | [#1](https://osu.ppy.sh/community/matches/56633292) |
 | **Playboi Carti** ![][flag_US] | **4** | 0 | ![][flag_PH] Shiyui- | [#1](https://osu.ppy.sh/community/matches/56635677) |
 | yahweh ![][flag_US] | 2 | **4** | ![][flag_PH] realqarp | [#1](https://osu.ppy.sh/community/matches/56636070) |
 | **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_ID] Proxae |  [#1](https://osu.ppy.sh/community/matches/56635844) |
@@ -462,7 +462,7 @@ Sunday, 01 December 2019:
 | **DragonSonic** ![][flag_FR] | **4** | 0 | ![][flag_UK] zHotRoD | [#1](https://osu.ppy.sh/community/matches/56657797) |
 | zHotRoD ![][flag_UK] | 0 | **4** | ![][flag_RU] **AngeloLagusa** | [#1](https://osu.ppy.sh/community/matches/56658956) |
 | \[Crz\]Lochie ![][flag_AU] | 1 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/56658946) |
-| [ Albedo ] ![][flag_ID] | 0 | **4** | ![][flag_AR] **ByDarking** | *win by default* |
+| \[ Albedo \] ![][flag_ID] | 0 | **4** | ![][flag_AR] **ByDarking** | *win by default* |
 | Halo- ![][flag_BR] | 0 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/56660777) |
 | **AW ZERO** ![][flag_TW] | **4**| 0 | ![][flag_US] yahweh | *win by default* |
 | **Proxae** ![][flag_ID] | **4** | 3 | ![][flag_AR] jLuyalb | [#1](https://osu.ppy.sh/community/matches/56660893) |
@@ -470,7 +470,7 @@ Sunday, 01 December 2019:
 | Monkerzaza ![][flag_TH] | 0 | **4** | ![][flag_BR] **Halo-** | *win by default* |
 | yahweh ![][flag_US] | 0 | 0 | ![][flag_RU] artslay | *forfeited* |
 | **jLuyalb** ![][flag_AR] | **4** | 2 | ![][flag_ID] StyxFearNite | [#1](https://osu.ppy.sh/community/matches/56663058) |
-| **Gabi Kamui** ![][flag_BR] | **4** | 0 | ![][flag_ID] [ Albedo ] | *win by default* |
+| **Gabi Kamui** ![][flag_BR] | **4** | 0 | ![][flag_ID] \[ Albedo \] | *win by default* |
 | TruthIsNear ![][flag_RU] | 0 | **4** | ![][flag_US] **Playboi Carti** | [#1](https://osu.ppy.sh/community/matches/56667271) |
 | Kaito-kun ![][flag_DO] | 0 | **4** | ![][flag_MX]  **-Hellscythe-**  | [#1](https://osu.ppy.sh/community/matches/56670606) |
 | ByDarking ![][flag_AR] | 2 | **4** | ![][flag_BR] **Gabi Kamui** | [#1](https://osu.ppy.sh/community/matches/56669804) |
@@ -499,7 +499,7 @@ Saturday, 07 December 2019:
 | Crumpetfiddler ![][flag_AU] | 0 | **4** | ![][flag_VN] **MashedPotato** | [#1](https://osu.ppy.sh/community/matches/56794396) |
 | **Cohue** ![][flag_PH] | **4** | 0 | ![][flag_AR] Mateocristaldo   | *win by default* |
 | **Crumpetfiddler** ![][flag_AU] | **4** | 0 | ![][flag_BR] Kyut | *win by default* |
-| Mateocristaldo ![][flag_AR] | 0 | 0 | ![][flag_PH] Swarmsii  | *neither player was present* |
+| Mateocristaldo ![][flag_AR] | 0 | 0 | ![][flag_PH] swarmsii  | *neither player was present* |
 | Nikolayio ![][flag_ES] | 0 | **4** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/56797413) |
 | **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_RU] c1e4r | [#1](https://osu.ppy.sh/community/matches/56797323) |
 | Jellyblob ![][flag_US] | 0 | **4** | ![][flag_VN] **MashedPotato** | [#1](https://osu.ppy.sh/community/matches/56799354) |
@@ -519,7 +519,7 @@ Saturday, 07 December 2019:
 | YukariYakumo ![][flag_MX] | 0 | **4** | ![][flag_RU] **Lerck** | [#1](https://osu.ppy.sh/community/matches/56810381)|
 | **DaZeRo5**  ![][flag_PE] | **4** | 0 | ![][flag_CA] loafusofbread | [#1](https://osu.ppy.sh/community/matches/56811356) |
 | Kenrit-San  ![][flag_MX] | 0 | **4** | ![][flag_US]  **-Electro-** | [#1](https://osu.ppy.sh/community/matches/56816747) |
-| Dilly_P ![][flag_US] | 2 | **4** | ![][flag_CA] **loafusofbread** | [#1](https://osu.ppy.sh/community/matches/56813455) |
+| Dilly\_P ![][flag_US] | 2 | **4** | ![][flag_CA] **loafusofbread** | [#1](https://osu.ppy.sh/community/matches/56813455) |
 | **Unholy**  ![][flag_US] | **4** | 0 | ![][flag_MX] YukariYakumo | [#1](https://osu.ppy.sh/community/matches/56813647) |
 | **Jellyblob**  ![][flag_US] | **4** | 0 | ![][flag_AU] Crumpetfiddler | [#1](https://osu.ppy.sh/community/matches/56801492) |
 | Reo09 ![][flag_EC] | 0 | **4** | ![][flag_US] **stupud man** | *win by default* |
@@ -537,9 +537,9 @@ Sunday, 08 December 2019:
 | **baoketban123** ![][flag_VN] | **4** | 0 | ![][flag_MX] Kenrit-San | *win by default* |
 | **N1ckn1ght** ![][flag_RU] | **4** | 0 | ![][flag_US] Lights | [#1](https://osu.ppy.sh/community/matches/56827893) |
 | **baoketban123** ![][flag_VN] | **4** | 0 | ![][flag_US]  -Electro- | *win by default* |
-| CrayZigg ![][flag_LV] | 2 | **4** | ![][flag_US] **Dilly_P** | [#1](https://osu.ppy.sh/community/matches/56830000) |
+| CrayZigg ![][flag_LV] | 2 | **4** | ![][flag_US] **Dilly\_P** | [#1](https://osu.ppy.sh/community/matches/56830000) |
 | **Lights** ![][flag_US] | **4** | 0 | ![][flag_CO] Cansta | *win by default* |
-| Dilly_P ![][flag_US] | 1 | **4** | ![][flag_PE] **DaZeRo5**  | [#1](https://osu.ppy.sh/community/matches/56832151) |
+| Dilly\_P ![][flag_US] | 1 | **4** | ![][flag_PE] **DaZeRo5**  | [#1](https://osu.ppy.sh/community/matches/56832151) |
 | **Camopoltergeist** ![][flag_FI] | **4** | 2 | ![][flag_EC] Reo09 | [#1](https://osu.ppy.sh/community/matches/56832357) |
 | YukariYakumo ![][flag_MX] | 2 | **4** | ![][flag_MX] **HéctorAF01** | [#1](https://osu.ppy.sh/community/matches/56834689) |
 | stupud man ![][flag_US] | 0 | **4** | ![][flag_FI] **Camopoltergeist** | *win by default* |
