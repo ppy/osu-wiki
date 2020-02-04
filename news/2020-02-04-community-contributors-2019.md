@@ -66,7 +66,7 @@ Essential to the continuation of the Community Mentorship Program, **yaspo and U
 
 After Halfslashed stepped down, **yaspo** picked up the slack and stepped up to lead beside Okoratu, and has been responsible for running dozens of contests and discussions, hand-picking several hundreds of mentor and mentee applications, hosting meetings and so much more.
 
-**Uberzolik** has been responsible for maintaining huge swathes of data required for the project to continue, balancing this workload whilst also being a mentor AND a Beatmap Nominator himself.
+**Uberzolik** has been responsible for providing huge amounts of assistance in the general day-to-day affairs of the project, including leading checkups to ensure mentees and mentors are getting along, helping with applications and pulling all of this off whilst being a mentor himself, AND a Beatmap Nominator to boot. That's dedication!
 
 Both of them are exemplary examples of the kind of dedication that has punctuated over ten years of osu!, and we are enormously grateful for their continued support.
 
