@@ -8,7 +8,7 @@ tags:
 
 ![CGTS 2019 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament had a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent will face each other. This was the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players in each continent, and the global phase was a 4v4 bracket where the top players from each continent faced each other. This was the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -145,8 +145,6 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 | Low | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) |
 | Unseeded | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_VE] [JessiChan](https://osu.ppy.sh/users/1368025) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -200,8 +198,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
-
----
 
 ## Mappools
 
@@ -493,8 +489,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Kagamine Rin - Meltdown (ertyukjh010) \[KS's Taiko\]](https://osu.ppy.sh/beatmapsets/45672#taiko/151655)
 
----
-
 ## Match results
 
 ### Global phase
@@ -774,8 +768,6 @@ Sunday, 10 November 2019:
 | Mills ![][flag_NO] | 0 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/56177248) |
 | cloudfags ![][flag_RU] | 4 | **5** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/56178883) |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -865,40 +857,40 @@ Sunday, 10 November 2019:
 19. If the beatmap ends in a draw, the game will be nullified and the map will be replayed. If a second tie happens, the map will be nullified, and the team picking this map will have to pick another map.
 20. In case of a tie in points (example: 4-4 in BO9), the tiebreaker is selected.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CR]: /wiki/shared/flag/CR.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MD]: /wiki/shared/flag/MD.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_MD]: /wiki/shared/flag/MD.gif "Moldova"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
