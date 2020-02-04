@@ -50,6 +50,8 @@ Largely unspoken and unsung by many, JBHyperion's efforts have dramatically resh
 
 Much like his brother in arms, **-Mo-** is another of the mighty few who dip their toes into the mire of leadership, spending hundreds of hours working with dozens of people in a concerted effort to improve the mapping and modding scene for everyone, travelling true throughout some of the team's rockiest years since their inception many, many years ago.
 
+Beyond his devotion to leadership, -Mo- has also made considerable contributions to the analytical and theoretical explorations of mapping via his commentary video series, showcasing his keen interest in delving into the depth of the scene from a variety of angles and perspectives.
+
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Chaos.jpg)](https://osu.ppy.sh/users/2628870)
 
 An organizer of the Community Mentorship Program and a long-term liaison between the osu!team and the Global Moderation Team, **Chaos** has been a stabilizing force in the community for many years now, with his efforts at home and abroad solidifying the future of the game. Beyond just this, he has also been heading the osu! Mapping Olympiad, a premier beatmapping contest series all the while.
