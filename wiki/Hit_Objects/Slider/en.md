@@ -1,6 +1,6 @@
 # Spinner
 
-(img/Slider.jpg "A slider in the default skin.")
+![A slider in the default skin.](img/Slider.jpg "A slider in the default skin.")
 
 A slider consists of two hit circles with a track between them that can be either straight, angled (e.g. a sharp 45 degree turn), or bezier curved. An approach circle is around the beginning hit circle of the slider. Once the approach circle reaches its border, like with hit circles, the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the other hit circle is reached. If there is a reverse arrow graphic at that point, the player follows the slider ball back along the same path and repeats as long as a reverse arrow graphic is visible.
 
