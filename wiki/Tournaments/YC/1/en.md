@@ -56,11 +56,30 @@ The Yuri Cup is run by various community members.
 
 ### General rules
 
+1. Yuri Cup is an international **4 vs 4** double-elimination bracket osu! tournament consisting of 8 man per team.
+2. The Scoring System used will be **Score V2**.
+3. Rank limit range is within **#1,000** and unlimited. It means player above rank #1,000 can't participate.
+4. Using the Protect System for mappool pick/ban. Protect System Rule (a.k.a. Ban/Protect Rule) is a system where players will have to first keep a map and the keeped map will not be bannable during the map banning session. After that players can normally ban maps and pick the first map to play. For more information please visit following [thread](https://osu.ppy.sh/community/forums/topics/899704)
+5. Failed scores during match will be counted.
 
+### Match instructions
 
-### Match regulations
+1. After the referee sends the invites, team have 10 minutes to join the lobby, otherwise it will be a win by default to the opponent.
+2. Maximal Warmup length is **4:00** and team have two minutes to pick it, otherwise it will be skipped.
+3. If there is a problem in the first 30 seconds of the map, team can request a match restart.
+4. If a member of team disconnects at the end of the map, a screenshot will not be counted as a valid proof, as it's too easily fakable. Preferably use stream replay or recording.
+5. Team needs to have at least 4 mods used on FreeMod bracket and they need to have at least two different mods.
+6. EZ score will be counted as x2, but not every maps will be allowed on Easy, this will be notified on the mappool.
+7. Tiebreaker bracket will be played under FreeMod condition, it will not force player to use mods.
+8. Team can have one player with a BWS rank between 500 and 1000, and the top 2 average BWS rank of your team can't be over 1000.
+   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
+   - Formula: `Rank ^ (0.9937 ^ (Badges^2))`
 
+### Winning conditions
 
+1. In the Round of 16, team needs to win 5 beatmaps to win a match. (Best-of-9)
+2. In the Quarterfinals and Semifinals, team needs to win 6 beatmaps to win a match. (Best-of-11)
+3. In the Finals and Grand Finals, team needs to win 7 beatmaps to win a match. (Best-of-13)
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
