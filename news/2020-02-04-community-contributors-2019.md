@@ -187,7 +187,7 @@ Showcasing stability and consistency throughout 2019, **Tyistiana** has been an 
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/Jemzuu.jpg)](https://osu.ppy.sh/users/7890134)
 
-After a bit of a rocky start, **Jemzuu** is osu!catch's longest standing beatmap nominator in terms of consecutive time (430 days!) has been nothing less than extraordinary throughout 2019. Boasting nearly unmatched statistics in resets, disqualifications, and nominations on top of an incredibly impressive tenure in the Quality Assurance Helpers, he has truly demonstrated a desire and willingness to help. His incredible work ethic and contributions make him a prime and well-deserved choice for an Elite Nominator.
+After a bit of a rocky start, **Jemzuu** is osu!catch's longest standing beatmap nominator in terms of consecutive time (430 days!) and has been nothing less than extraordinary throughout 2019. Boasting nearly unmatched statistics in resets, disqualifications, and nominations on top of an incredibly impressive tenure in the Quality Assurance Helpers, he has truly demonstrated a desire and willingness to help. His incredible work ethic and contributions make him a prime and well-deserved choice for an Elite Nominator.
 
 [![](/wiki/shared/news/2020-02-04-community-contributors-2019/wonjae.jpg)](https://osu.ppy.sh/users/5032045)
 
