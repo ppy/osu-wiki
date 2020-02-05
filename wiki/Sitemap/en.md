@@ -132,6 +132,7 @@ tags:
 -   [Medals](/wiki/Medals)
     -   [Beatmap Packs 0916](/wiki/Medals/Beatmap_Packs_0916)
 -   [Modding](/wiki/Modding)
+    -   [Kudosu](/wiki/Modding/Kudosu)
 -   [Multi](/wiki/Multi)
 -   [News Styling Criteria](/wiki/News_Styling_Criteria)
 -   [Options](/wiki/Options)
