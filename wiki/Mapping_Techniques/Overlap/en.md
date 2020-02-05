@@ -1,9 +1,7 @@
----
-stub: true
----
-
 # Overlap
 
-![Rotational_Symmetry.png](/img/overlap.jpg "An example of a hitcircle overlapping a sliderhead.")
+![](img/overlap.jpg "An example of a hit circle overlapping a slider head.")
 
-An overlap appears when [hit objects](/wiki/Hit_Objects) touch each other without stacking.<!--TODO: Insert link to stacking article when it exists-->
+An **overlap** appears when [hit objects](/wiki/Hit_Objects) touch each other without [stacking](/wiki/Mapping_Techniques/Stack).
+
+<!-- this is a stub -->
