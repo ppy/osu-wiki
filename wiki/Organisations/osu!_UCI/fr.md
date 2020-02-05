@@ -1,30 +1,31 @@
 ---
-outdated: true
 tags:
-  - Californie
-  - Club
-  - Collège
+  - California
+  - club
+  - college
   - Irvine
-  - Université
+  - university
 ---
 
 # osu! UCI
 
-**osu! UCI** est un club osu! centré sur le jeu et la discussion à l’Université de Californie à Irvine (*UCI*). Ils organisent divers événements, notamment des tournois LAN saisonniers et des rencontres hebdomadaires.
+**osu! UCI** est un club osu! centré sur le jeu et la discussion à l'Université de Californie, Irvine (*UCI*). Il organise divers événements, notamment des tournois LAN saisonniers et des rencontres hebdomadaires.
 
-## Liens
+Voir le [osu! Index des tournois UCI](/wiki/Tournaments/osu!_UCI) pour obtenir des articles sur le wiki concernant certains des événements de la LAN.
 
-- **[Site internet](http://www.osuuci.com)**
+## Links
+
+- **[Site Web](http://www.osuuci.com)**
 - [Serveur Discord](https://discord.gg/qbZddFV)
 - [Groupe Facebook](https://www.facebook.com/groups/osuuci/)
 - [Chaîne Twitch](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
 
-## Staff
+## Responsables
 
 ### Actuel
 
-- ![][flag_US] Alex "[Riku](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
+- ![][flag_US] Alex "[Riku sur osu](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
 - ![][flag_US] Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
 - ![][flag_US] Jason "[jlin_02](https://osu.ppy.sh/users/13192092)" Lin
 - ![][flag_US] Jonathan "[ilalalayou](https://osu.ppy.sh/users/3144766)" Cheng
