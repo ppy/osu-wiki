@@ -14,7 +14,7 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2020-02-06 & 2020-02-15 |
-| Live Drawings | 2020-02-29 (14:00 UTC) |
+| Live Drawings | 2020-02-29 (14:00 UTC+0) |
 | Group Stage | 2020-03-07 & 2020-03-08 |
 | Round of 16 | 2020-03-14 & 2020-03-15 |
 | Quarterfinals | 2020-03-21 & 2020-03-22 |
@@ -51,7 +51,7 @@ The osu!taiko World Cup 2020 is an upcoming event run by various community membe
 
 ## Mappools
 
-Mappools will be announced one week prior to the commencement of each stage of the tournament.
+Mappools will be announced one week prior to the start of each stage of the tournament.
 
 ---
 
@@ -62,10 +62,10 @@ Mappools will be announced one week prior to the commencement of each stage of t
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
    - **While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.**
 2. Beatmap scoring is based on Score V2.
-3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+3. The maps for each round will be announced by the mapset selector on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
    - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
-4. Match schedule will be settled by the Tournament Management (see below).
+4. Match schedule will be settled by the Tournament Management (see above).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
@@ -73,7 +73,7 @@ Mappools will be announced one week prior to the commencement of each stage of t
 8. If the beatmap ends in a draw, the game will be nullified.
    - If a game is nullified the beatmap will be replayed.
 9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
+   - Disconnects within the first 30 seconds of a beatmap can be rematched at the referee's discretion. The played beatmap might be aborted for this.
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
@@ -99,7 +99,7 @@ Mappools will be announced one week prior to the commencement of each stage of t
 
 1. Every user interested in joining their country's team signs up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+   - Tournament Management declares one candidate to be the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
@@ -108,7 +108,7 @@ Mappools will be announced one week prior to the commencement of each stage of t
 3. All successfully formed teams will be published after the Registration Phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-5. Mapset selectors may not participate as a player in this tournament.
+5. Mapset selectors may not participate as players in this tournament.
 
 ### Stage Instructions
 
@@ -143,7 +143,7 @@ Mappools will be announced one week prior to the commencement of each stage of t
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2019: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2020: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
