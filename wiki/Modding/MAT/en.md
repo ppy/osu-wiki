@@ -5,6 +5,8 @@ tags:
 
 The Mapping Assistance Team (MAT) were a precursor group to the current [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), responsible for assessing the quality of Pending beatmaps. MAT members were able to recommend maps deemed worthy for Ranked status to members of the [Beatmap Appreciation Team](/wiki/Modding/BAT) (BAT) by placing a [proto-bubble](/wiki/Modding/Protobubble), who would then evaluate the map and give a final decision on whether the beatmap should enter Ranked status.
 
+In addition to co-operation with the Beatmap Appreciation Team, the MAT were overseen by a [MAT Leader](/wiki/Modding/MATLeaders) who oversaw their operation and provided guidance where necessary.
+
 ## History of the MAT
 
 The MAT was formed on the 27th of December, 2009, with initial members being hand-picked by members of the BAT.
