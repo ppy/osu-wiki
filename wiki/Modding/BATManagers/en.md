@@ -1,8 +1,8 @@
 # BAT Managers
 
-Following the promotion of all active members of the [Mapping Assistance Team](/wiki/Modding/MAT) (MAT) to the [Beatmap Appreciation Team](/wiki/Modding/BAT) (also called the Beatmap Approval Team, or BAT), from the 15th of May, 2013, the BAT was overseen by a group of BAT Manager (BATm) figures, responsible for managing and mentoring the team members, as well as raising awareness of important announcements and shaping the future goals and directions of the team.
+Following the promotion of all active members of the [Mapping Assistance Team](/wiki/Modding/MAT) (_MAT_) to the [Beatmap Appreciation Team](/wiki/Modding/BAT) (also called the _Beatmap Approval Team_, or _BAT_), from the 15th of May, 2013, the BAT was overseen by a group of BAT Manager (_BATm_) figures, responsible for managing and mentoring the team members, as well as raising awareness of important announcements and shaping the future goals and directions of the team.
 
-## History of the BATm
+## History
 
 Initially, one member of the BAT from each of the major geographical regions of The Americas ([Garven](https://osu.ppy.sh/users/244216)), Europe ([Kurai](https://osu.ppy.sh/users/77089)) and Asia ([NatsumeRin](https://osu.ppy.sh/users/151679)) was selected for this role.
 
