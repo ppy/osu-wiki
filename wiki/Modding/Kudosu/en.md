@@ -1,7 +1,9 @@
 # Kudosu
 
-**Kudosu** is a reward system for [Modding](/wiki/Modding). It awards points for successful modposts on beatmap discussion <!-- TODO: beatmap discussion stub -->pages. Accumulated points can be seen on a user's profile-page.
+**Kudosu** is a reward system for [modding](/wiki/Modding). It awards points for successful mod posts on [beatmap discussion](/wiki/Beatmap_Discussion) pages. Accumulated points can be seen on a user's profile-page.
 
-In Modding v1 <!-- TODO: modding v1 stub -->, Kudosu was exchangeable for Star Priority. <!-- TODO: Star Priority stub? -->
+In forum modding, kudosu was exchangeable for [star priority](/wiki/Glossary#star-priority).
+
+<!-- TODO: forum modding, star priority? stubs-->
 
 <!-- this is a stub -->
