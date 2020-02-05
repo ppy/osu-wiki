@@ -56,7 +56,7 @@ Sound interesting? Check out a few samples for yourself below:
 
 Like always, these tracks and a bunch more are available right now over at [**Kola Kid**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/67), all pre-timed and just waiting for you to press start. Head on over and get cracking!
 
-There were a lot of correct callouts this time around, especially as the astute among us are starting to notice some *definitely not suspicious* patterns emerging. Big-brained frickin' *radar* technically wins this week's callout by correctly guessing nearly a week before the hint actually was released.
+There were a lot of correct callouts this time around, especially as the astute among us are starting to notice some *definitely not suspicious* patterns emerging. Big-brained frickin' [radar](https://osu.ppy.sh/users/7131099) technically wins this week's callout by correctly guessing nearly a week before the hint actually was released.
 
 This isn't all that surprising given that he is also a Beatmap Nominator much like one of our previous winners, and has to have a cranium capable of housing at least one galaxy to avoid having his soul consumed by the Nomination Assessment Team. Whoever said modding wasn't hard work?
 
