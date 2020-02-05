@@ -18,7 +18,7 @@ Sound interesting? Check out a few samples for yourself below:
 
 ### press start
 
-*[Check out this collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092)hosted by [Bonsai](https://osu.ppy.sh/users/987334)!*
+*[Check out this collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) hosted by [Bonsai](https://osu.ppy.sh/users/987334)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/67/previews/1877.mp3" type="audio/mpeg">
