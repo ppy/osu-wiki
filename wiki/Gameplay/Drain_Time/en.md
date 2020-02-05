@@ -1,4 +1,4 @@
-# Drain Time
+# Drain time
 
 The drain time, or *drain*, refers to the total duration of a [beatmap](/wiki/Beatmaps) that requires the player to be active. Drain time does not consider breaks and unmapped parts throughout a beatmap.
 

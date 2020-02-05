@@ -1,1 +1,6 @@
-<!--TODO: Add index-->
+# Gameplay
+
+- [Accuracy](/wiki/Gameplay/Accuracy)
+- [Drain Time](/wiki/Gameplay/Drain_Time)
+- [Play Time](/wiki/Gameplay/Play_Time)
+- [Spectate](/wiki/Gameplay/Spectate)

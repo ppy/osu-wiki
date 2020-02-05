@@ -1,5 +1,6 @@
 ---
-Spectating
+tags:
+    - spectating
 ---
 
 # Spectate
