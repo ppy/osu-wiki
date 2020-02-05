@@ -25,5 +25,3 @@ In osu!mania, circle size refers to the total number of columns on a beatmap.
 The circle size setting is visible in osu!taiko beatmaps but does not do anything that affects gameplay.
 
 <!--TODO: Insert links to difficulty settings, ranked, circles, sliders, spinners, catcher, fruit, columns, game modes -->
-
-<!--This is a stub-->
