@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Regler
 
 Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og trygt sted for alle.
