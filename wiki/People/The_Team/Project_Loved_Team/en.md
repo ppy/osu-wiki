@@ -16,6 +16,8 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 ## Team members
 
+*Note: There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is only used for management purposes.*
+
 ![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** manages Project Loved and coordinates most of its activities.
 
 ### osu!standard captains
