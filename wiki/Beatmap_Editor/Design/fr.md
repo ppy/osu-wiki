@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Conception
 
 ![Design tab](img/SE_base.jpg "Onglet Design")
@@ -116,7 +120,6 @@ Pour les utiliser :
 | Entrée/sortie de l'effacement | Démarrage lent / rapide puis rapide / lent près du point final. Utile pour le fondu enchaîné. |
 | Origine | Point d'origine. Coin "Haut-Gauche" ou "Centre" de l'image |
 | Diff. Spécifique | Sauvegardez tous les SB dans le fichier `.osu` de cette difficulté au lieu du fichier `.osb`. (Voir note ci-dessous) |
-
 
 **Remarque :**
 
