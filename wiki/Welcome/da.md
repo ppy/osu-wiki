@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Velkommen
 
 Velkommen til osu!, et free-to-win rytmespil udviklet af peppy komplet med fire gamemodes: osu!standard, en cirkel-klik simulator; osu!taiko, en tromme emulator; osu!catch en frugtsalat fanger; og osu!mania, en tastatur-knusende synthesizer.
