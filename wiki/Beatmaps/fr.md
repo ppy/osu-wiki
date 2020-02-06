@@ -2,6 +2,8 @@
 outdated: true
 ---
 
+<!-- TODO: obsolète parce que les informations sur le site Qualified and Approved sont dépassées, il y a aussi quelques références à d'anciens composants de sites web -->
+
 # Beatmaps
 
 *A ne pas confondre avec : [Difficulté](/wiki/Difficulties).*
@@ -44,11 +46,7 @@ Pendant cette durée d'une semaine, cependant, les [QATs](/wiki/QAT) sont autori
 
 ### Loved
 
-
 *Pour l'histoire de la catégorie Loved, voir : [Histoire des Loved](/wiki/Beatmaps/History_of_Loved).*
-
-Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* par la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant ce qu'implique le statut de cette beatmap :
-
 
 Les beatmaps loved utilisent une icône de coeur (![icône de coeur](/wiki/shared/status/loved.png)) dans l'écran de sélection de la chanson.
 
@@ -58,7 +56,6 @@ Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_
 - Tous les scores seront supprimés si le créateur met à jour la beatmap.
 
 Pour qu'une beatmap soit aimée, elle doit passer par le [processus de vote communautaire](/wiki/Project_Loved#moving-a-beatmap-to-loved).
-
 
 ### En attente
 
