@@ -39,7 +39,7 @@ Chacun des réglages met différentes couleurs de ticks sur les [timelines](/wik
 
 ![Diviseur 1/6](/wiki/shared/BSD_1_6.jpg "Diviseur 1/6")
 
-Double Triplets*
+- Double Triplets *
 - A deux ticks violettes entre chaque ticks rouge
 - Timing composé
 
