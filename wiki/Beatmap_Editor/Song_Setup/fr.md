@@ -16,7 +16,7 @@ Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci
 
 **Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la chanson.** Normalement, cela est automatiquement pris dans les métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
-*Avis : Les titres d'anime ou de jeu appartiennent à la catégorie [Source](#source). Les noms des vocaloïdes ou des sociétés appartiennent à la catégorie [Tags](#tags)*
+*Avis : Les titres d'anime ou de jeu appartiennent à la catégorie [Source](#source). Les noms des vocaloïdes ou des sociétés appartiennent à la catégorie [Tags](#balises)*
 
 Les noms étrangers/orientaux doivent être présentés dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence).
 
@@ -24,7 +24,7 @@ Ce champ doit être préféré à l'orthographe des sources de diffusion officie
 
 ##### Artiste romanisé
 
-**Le nom romanisé de l'artiste** doit être présenté dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence). Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans la catégorie [Artist](#artist).
+**Le nom romanisé de l'artiste** doit être présenté dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence). Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans la catégorie [Artist](#artiste).
 
 #### Titre
 
@@ -32,13 +32,13 @@ Ce champ doit être préféré à l'orthographe des sources de diffusion officie
 
 ##### Titre romanisé
 
-**Le nom romanisé de la chanson.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans la catégorie [Title](#title).
+**Le nom romanisé de la chanson.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans la catégorie [Title](#titre).
 
 #### Créateur de Beatmap
 
 **Le nom d'utilisateur du créateur de la beatmap.** Le client du jeu devrait gérer cela automatiquement et ne vous permettra pas de modifier ce champ, c'est-à-dire si vous êtes le créateur.
 
-*Notice: Les noms d'utilisateur de [Guest Creators](/wiki/GD) appartiennent à la catégorie [Difficulty](#difficulty) et/ou [Tags](#tags).*
+*Avis : Les noms d'utilisateur de [Guest Creators](/wiki/GD) appartiennent à la catégorie [Difficulty](#difficulté) et/ou [Tags](#balises).*
 
 #### Difficulté
 
@@ -52,9 +52,9 @@ Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficu
 
 Si la chanson est tirée d'un anime, d'un jeu vidéo, ou est célèbre pour son utilisation dans un film ou une émission de télévision ; alors le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
 
-*Avis : Ceci ne doit pas être utilisé pour les titres d'albums, ceux-ci appartiennent à la catégorie [Tags](#tags).*
+*Avis : Ceci ne doit pas être utilisé pour les titres d'albums, ceux-ci appartiennent à la catégorie [Tags](#balises).*
 
-Toutes les chansons n'ont pas besoin de quelque chose sur le champ source. La source est seulement pour les chansons qui proviennent de quelque chose (par exemple un jeu vidéo ou un anime). Pour les chansons rock et pop, ce champ peut être laissé vide. D'autres informations pertinentes doivent être entrées dans la catégorie [Tags](#tags) comme le titre de l'album ou des informations sur les sous-genres
+Toutes les chansons n'ont pas besoin de quelque chose sur le champ source. La source est seulement pour les chansons qui proviennent de quelque chose (par exemple un jeu vidéo ou un anime). Pour les chansons rock et pop, ce champ peut être laissé vide. D'autres informations pertinentes doivent être entrées dans la catégorie [Tags](#balises) comme le titre de l'album ou des informations sur les sous-genres
 
 #### Balises
 
@@ -66,11 +66,11 @@ Les balises sont séparées par des espaces. Il n'est pas nécessaire d'utiliser
 
 ![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Section des difficultés. La bonne section est pour les cartes de rythme spécifiques à osu!mania.")
 
-*Notice: Le mode de jeu spécifique [Ranking Criterias](/wiki/Ranking_Criteria) ont des valeurs de classement qui devraient être utilisées.*
+*Remarque : Le mode de jeu spécifique [Ranking Criterias](/wiki/Ranking_Criteria) ont des valeurs de classement qui devraient être utilisées.*
 
 Les réglages de difficulté de la carte de rythme ; chaque réglage affecte différents aspects de la carte de rythme.
 
-*Remarque : En maintenant la touche `Shift` enfoncée, on peut régler avec précision la valeur 0,1 par rapport au réglage standard de la valeur 1.
+*Remarque : En maintenant la touche `Shift` enfoncée, on peut régler avec précision la valeur 0,1 par rapport au réglage standard de la valeur 1.*
 
 La notation courante pour représenter un réglage de difficulté et sa valeur est l'abréviation du réglage suivie de la valeur du réglage. Par exemple, `CS4` et `HP4.3` seraient une carte de rythme avec une taille de cercle de 4 et un taux de drainage de HP de 4,3 respectivement. En théorie, les réglages de difficulté négative peuvent ressembler à `AR-2` pour un taux d'approche de -2.
 
@@ -80,13 +80,13 @@ Le taux de drainage HP, communément abrégé en HP, détermine le taux de récu
 
 Dans osu!standard et osu!catch, cela affecte également le [Passive HP](/wiki/Passive_HP) (la vitesse constante à laquelle HP diminue, sauf pendant les[Breaks](/wiki/Breaks).
 
-*Note : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score/#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
+*Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score/#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
 
 ### Taille du cercle
 
 ![Overview of various Circle Sizes](img/Circle_sizes.png "Aperçu des différentes tailles de cercles")
 
-*Note : Cette option est visible dans osu!taiko, mais elle ne fait rien qui affecte le gameplay.*
+*Remarque : Cette option est visible dans osu!taiko, mais elle ne fait rien qui affecte le gameplay.*
 
 La taille du cercle, communément abrégée en CS, n'existe que dans osu!standard et osu!catch. CS détermine la taille des objets touchés ou, plus précisément dans osu!catch, détermine la taille du receveur et du fruit. Les valeurs vont de 2 à 7 ; des valeurs CS plus élevées rendront les objets touchés plus petits. L'utilisation de la valeur la plus élevée rendra les objets touchés aussi gros que le curseur.
 
@@ -96,7 +96,7 @@ Il est possible de définir la valeur de la CS à une valeur inférieure à 2 ou
 
 #### Nombre de clés
 
-Key Count, aussi connu sous le nom de Keys, remplace le [Circle Size](#circle-size) métrique pour [osu!mania-specific](#mode-specific) des cartes de rythme. Key Count est explicite, il définit le nombre de clés utilisées. Les valeurs vont de 1 à 9 touches.
+Key Count, aussi connu sous le nom de Keys, remplace le [Circle Size](#taille-du-cercle) métrique pour [osu!mania-specific](#mode-spécifique) des cartes de rythme. Key Count est explicite, il définit le nombre de clés utilisées. Les valeurs vont de 1 à 9 touches.
 
 Si vous cochez la case `Mode Co-op`, le montant actuellement sélectionné sera doublé (à partir de 5), ce qui donne un total de 10K (5), 12K (6), 14K (7), 16K (8) et 18K (9).
 
@@ -104,7 +104,7 @@ Si vous cochez la case `Mode Co-op`, le montant actuellement sélectionné sera 
 
 ![Detailed AR chart](/wiki/shared/ARTable.jpg "Tableau AR détaillé")
 
-*Note : Cette option est visible dans osu!taiko et osu!mania, mais elle ne fait rien qui affecte le gameplay. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute).*
+*Remarque : Cette option est visible dans osu!taiko et osu!mania, mais elle ne fait rien qui affecte le gameplay. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute).*
 
 Le taux d'approche, communément abrégé en AR, n'existe que dans osu!standard et osu!catch. Les valeurs vont de 0 à 10 ; des valeurs AR plus élevées rendront les fenêtres de frappe des objets frappés plus courtes. AR indique combien de temps les objets frappés resteront à l'écran, à partir du moment où ils apparaissent jusqu'au moment de taper/recueillir.
 
@@ -127,13 +127,13 @@ Bien que le Half Time et le Double Time ne changent pas la valeur AR réelle don
 
 ![Detailed OD chart](img/ODTable.png "Tableau détaillé de OD")
 
-*Notice: Sur la page de la carte des temps, la difficulté globale est indiquée comme précision.*
+*Avis : Sur la page de la carte des temps, la difficulté globale est indiquée comme précision.*
 
 La difficulté globale, communément abrégée en OD, définit la difficulté à atteindre une haute précision. Les valeurs vont de 0 à 10 ; des valeurs de OD plus élevées nécessiteront plus de précision et d'exactitude. Comme la précision est importante pour obtenir des HP, la Difficulté Globale influence indirectement la difficulté à passer la carte de rythme. Des valeurs OD plus élevées signifient des fenêtres de temps plus courtes pour nettoyer les objets touchés, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet touché.
 
 En osu!standard, cela concerne également les pirouettes, dans lesquelles il faut les faire tourner davantage pour remplir la jauge à temps. Dans osu!taiko, le denden (spinner osu!taiko) aura aussi besoin de plus de coups pour le dégager.
 
-*Note : Ceci implique que le fait de relever le OD trop haut peut rendre des spinners précédemment possibles presque impossibles à dégager à temps.*
+*Remarque : Ceci implique que le fait de relever le OD trop haut peut rendre des spinners précédemment possibles presque impossibles à dégager à temps.*
 
 Dans osu!standard, le système de chronométrage ne permet pas de frapper un objet jusqu'à ce que l'objet précédent soit frappé (ou manqué après le passage de la fenêtre de frappe), ce qui entraîne un échec. Avec une valeur OD basse, la fenêtre de frappe d'un objet peut se chevaucher avec la suivante. Ainsi, un joueur pourrait frapper le second objet avec un timing parfait après avoir échoué à frapper le premier objet, mais cela aurait pour résultat de manquer complètement les deux objets en raison de la fenêtre de frappe du premier objet actif.
 
@@ -217,7 +217,7 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée e
 
 ### Skinning
 
-![Screenshot of the Skinning tab](img/SS_Skin_eg.jpg "Onglet Skinning")
+![Capture d'écran de l'onglet Skinning](img/SS_Skin_eg.jpg "Onglet Skinning")
 
 Le menu déroulant `Preferred Skin` est utilisé pour définir le skin préféré pour la carte des temps. L'utilisation de cette option suppose que le joueur a le skin que vous voulez qu'il utilise. Cependant, si le joueur n'a pas le skin, une notification apparaîtra pour le joueur, indiquant que le skin demandé est manquant, mais que le skin actuel du joueur sera utilisé à la place. Par défaut, `Préférence de l'utilisateur (pas de changement)` est utilisé.
 
@@ -225,31 +225,29 @@ Vous pouvez cependant inclure les éléments de skin à l'intérieur du dossier 
 
 ## Avancé
 
-![Screenshot of the Advanced tab](img/SS_Advanced.jpg "Onglet Advanced")
+![Capture d'écran de l'onglet Avancé](img/SS_Advanced.jpg "Onglet Advanced")
 
 ### Empilage
 
-![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Empilage des objets touchés pendant l'édition")
+![L'empilement des objets touchés pendant le montage peut les faire se chevaucher pour être superposés.](img/stacking-editor.jpg "Empilage des objets touchés pendant l'édition")
 
-![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Objets touchés empilés pendant le jeu")
+![Cependant, en jouant, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets touchés empilés pendant le jeu")
 
 Dans osu!standard, les objets frappés s'empilent automatiquement s'ils sont tous les deux placés au même endroit tout en étant proches dans le temps. Ceci pour aider les joueurs à voir les objets touchés qui se chevauchent.
 
 En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!/#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
 
-![Onglet "Advanced"](img/SS_Advanced.jpg "Onglet \"Advanced\"")
-
 *Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit.*
 
-Les objets sont considérés comme appartenant à la même pile s'ils sont à la même coordonnée et pas plus loin dans le temps que `[(Approach Window) * (Stack Leniency) / 10]`, ou `Approach Window` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#approach-rate) plus haut).
+Les objets sont considérés comme appartenant à la même pile s'ils sont à la même coordonnée et pas plus loin dans le temps que `[(Approach Window) * (Stack Leniency) / 10]`, ou `Approach Window` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#taux-d'approche) plus haut).
 
 ### Mode spécifique
 
 `Allowed Modes` est un menu déroulant qui confirme que le beatmap ne peut être joué que par le mode spécifié. Le réglage par défaut est `All`, ce qui signifie que le créateur va créer un beatmap osu!standard qui peut être converti dans les autres modes de jeu. Il peut être modifié pour être spécifique à osu!taiko, osu!catch ou osu!mania ; mais gardez à l'esprit que le changement supprimera tous les objets touchés dans le beatmap.
 
-*Note : Décidez au moment de la création et confirmez le(s) mode(s) jouable(s) du beatmap avant d'ajouter tout objet de frappe pour éviter de gaspiller l'effort.*
+*Remarque : Décidez au moment de la création et confirmez le(s) mode(s) jouable(s) du beatmap avant d'ajouter tout objet de frappe pour éviter de gaspiller l'effort.*
 
-*Note : osu!mania a son propre éditeur de beatmap qui est différent de l'éditeur de beatmap typique.*
+*Remarque : osu!mania a son propre éditeur de beatmap qui est différent de l'éditeur de beatmap typique.*
 
 La case `Utiliser un style spécial (style N+1) pour la manie` ne fait rien, considérant que le joueur peut définir une préférence personnelle spécifiquement dans  [Options](/wiki/Options) en utilisant le bouton `osu!mania layout`.
 
