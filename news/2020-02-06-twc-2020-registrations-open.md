@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2020: Registrations now open!"
-date: 2020-02-06 12:00:00 +0000
+date: 2020-02-06 09:00:00 +0000
 ---
 
 Red, blue, red, blue... Ooh, blue and red! Let's shake it up a little. The osu!taiko World Cup returns for its tenth installment, and the world's best prepare to cross keys once again! If you think you can join them, the Registration Phase is now open, so sign up today!
