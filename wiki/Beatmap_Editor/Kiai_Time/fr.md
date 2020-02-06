@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kiai time
 
 ![Des étoiles jaillissent de l'écran pour montrer que le Kiai Time a commencé.](img/Kiai_Time_test.jpg "Les étoiles illuminent l'écran indiquant que le Kiai time a commencé.")
