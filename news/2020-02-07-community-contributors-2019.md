@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Contributors: 2019"
-date: 2020-02-04 10:00:00 +0000
+date: 2020-02-07 15:00:00 +0000
 ---
 
 osu! thrives on the unsung efforts of its community, and among them, a few exemplars arise. These people selflessly dedicate themselves towards furthering the game that you know and love, and today, we take a moment to honour their contribution.
