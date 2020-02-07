@@ -1,21 +1,21 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
 
 # osu!talk
 
-![logo d'osu!talk](img/osu!talk.jpg "logo d'osu!talk")
+![osu!talk logo](img/osu!talk.jpg)
 
-**osu!talk** est une série de podcasts présenté par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370).
+**osu!talk** est une série de podcasts animée par [ztrot](https://osu.ppy.sh/users/6347) avec [deadbeat](https://osu.ppy.sh/users/128370) en tant que co-animateur.
 
-Cette série consiste à interviewer plusieurs utilisateurs de la osu!community.
-En plus de cela, il y a quelques groupes de discussions à propos de différentes choses arrivant autour de la communauté comme des changements dans l'équipe, ou des problèmes à long terme comme l'overmapping.
-Tout le monde est libre de venir et poser des questions durant les diffusions en direct et la partie [Q&A](https://en.wikipedia.org/wiki/Q%26A) de l'épisode.
-Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateurs à nous rejoindre et à y prendre part.
+Cette série se concentre sur l'interview de divers utilisateurs de la osu!community.
+En plus de cela, il peut y avoir des discussions de groupe sur différentes choses qui se passent autour de la communauté, comme les changements de personnel, ou des questions à long terme souvent discutées comme la sur-cartographie.
+La série de podcasts est conçue de manière à ce que tout le monde soit libre de participer à la session en direct et de poser des questions pendant la séance publique. [Q&A](https://fr.wikipedia.org/wiki/Q%26A) partie de l'épisode.
+Ces émissions ne sont pas diffusées en direct, car nous préférons encourager les utilisateurs à se joindre à nous et à y participer eux-mêmes.
 
-## Épisodes
+## Episodes
 
-| EP No. | Interviewé                                                     | Profession                       | Lien                                                                |
+| EP No. | Personnes interrogées                                                 | Profession                       | Lien                                                               |
 |--------|----------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------|
 | 1      | [Charles445](https://osu.ppy.sh/users/85000)                       | GMT/BN                           | [Lien](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | 2      | [MMzz](https://osu.ppy.sh/users/128993)                            | QAT                              | [Lien](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
@@ -34,7 +34,7 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 | 15     | [smoogipooo](https://osu.ppy.sh/users/1040328)                     | Developer                        | [Lien](https://www.youtube.com/watch?v=vG1yx1xVQsk)                 |
 | 16     | [OnosakiHito](https://osu.ppy.sh/users/290128)                     | QAT                              | [Lien](https://www.youtube.com/watch?v=ZYby7r3YNPg)                 |
 | 17     | [RBRat3](https://osu.ppy.sh/users/307202)                          | osu!painter                      | [Lien](https://www.youtube.com/watch?v=kSotXmkCN4I)                 |
-| 18     | [etrea](https://osu.ppy.sh/users/33599)                            | Retired GMT/BN                   | [Lien](https://www.youtube.com/watch?v=dKEOVBiljdc)                 |
+| 18     | [Andrea](https://osu.ppy.sh/users/33599)                           | Retired GMT/BN                   | [Lien](https://www.youtube.com/watch?v=dKEOVBiljdc)                 |
 | 19     | [Doomsday](https://osu.ppy.sh/users/18983)                         | Pro Player                       | [Lien](https://www.youtube.com/watch?v=0C74QeEcn_4)                 |
 | 20     | [Tom94](https://osu.ppy.sh/users/1857058)                          | Developer                        | [Lien](https://www.youtube.com/watch?v=ONnUrG4jrto)                 |
 | 21     | [Flanster](https://osu.ppy.sh/users/447818)                        | GMT                              | [Lien](https://www.youtube.com/watch?v=nvGP5x9ZseM)                 |
@@ -57,38 +57,38 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 | 36     | [Halogen-](https://osu.ppy.sh/users/169992)                        | Mania Prince of Bel Air          | [Lien](https://www.youtube.com/watch?v=5E02YK5mNRk)                 |
 | 37     | [Staiain](https://osu.ppy.sh/users/86188)                          | Triple Time Overlord             | [Lien](https://www.youtube.com/watch?v=_SJA69rqB6w)                 |
 | 38     | [Starrodkirby86](https://osu.ppy.sh/users/410)                     | Susumu Hirasawa fanboy           | [Lien](https://www.youtube.com/watch?v=54VUzflrXws)                 |
-| 39     | [Arf](https://osu.ppy.sh/users/3716999)                            | Some fretom guy                  | [Lien](https://www.youtube.com/watch?v=K9_4nzs5idM)                 |
+| 39     | [Arf](https://osu.ppy.sh/users/3716999)                            | Some frandom guy                 | [Lien](https://www.youtube.com/watch?v=K9_4nzs5idM)                 |
 | 40     | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Megalovaniac                     | [Lien](https://www.youtube.com/watch?v=tuOv9E9QkJA)                 |
 
 
 ## Discussions
 
-| EP No. | Topics                                   | Profession                                                                                                                                                                                                                                                     | Lien                                                |
-|--------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 1      | Refonte de l'équipe                      | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), et [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                     | [Lien](https://www.youtube.com/watch?v=c10Jiq1xZus) |
-| 2      | Overmapping                              | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), et [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                         | [Lien](https://www.youtube.com/watch?v=RepSYE3hN3A) |
+| EP No. | Topics                                   | Profession                                                                                                                                                                                                                                                      | Lien                                                |
+|--------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 1      | Reconversion du personnel                             | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), et [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                     | [Lien](https://www.youtube.com/watch?v=c10Jiq1xZus) |
+| 2      | Cartographie générale                              | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), et [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                         | [Lien](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | 3      | Modération                               | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) et [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                                        | [Lien](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
-| 4      | osu!academy et évènements à venir        | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), et [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                                  | [Lien](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
-| 5      | osu! World Cup 2014                      | [Charles445](https://osu.ppy.sh/users/85000), [cptnXn](https://osu.ppy.sh/users/495272), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), [p3n](https://osu.ppy.sh/users/123703), et [ToGlette](https://osu.ppy.sh/users/1076236)                | [Lien](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
-| 6      | osu! World Cup Gret Finals               | [cptnXn](https://osu.ppy.sh/users/495272), [deadbeat](https://osu.ppy.sh/users/128370), [Doomsday](https://osu.ppy.sh/users/18983), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), et [Tom94](https://osu.ppy.sh/users/1857058)                | [Lien](https://www.youtube.com/watch?v=bl63NpUz_T8) |
-| 7      | Guest difficulties vs single mapper set  | [deadbeat](https://osu.ppy.sh/users/128370), [Doomsday](https://osu.ppy.sh/users/18983), [shARPII](https://osu.ppy.sh/users/776257), et [WubWoofWolf](https://osu.ppy.sh/users/39828)                                                                                          | [Lien](https://www.youtube.com/watch?v=OMsHFRS662k) |
+| 4      | osu!academy et événements à venir          | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), et [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                                  | [Lien](https://www.youtube.com/watch?v=-N44vLwJ9oM) |
+| 5      | osu! Coupe du monde 2014                      | [Charles445](https://osu.ppy.sh/users/85000), [cptnXn](https://osu.ppy.sh/users/495272), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), [p3n](https://osu.ppy.sh/users/123703), et [ToGlette](https://osu.ppy.sh/users/1076236)                | [Lien](https://www.youtube.com/watch?v=Tl0E8vqubjw) |
+| 6      | osu! Grandes finales de la Coupe du monde              | [cptnXn](https://osu.ppy.sh/users/495272), [deadbeat](https://osu.ppy.sh/users/128370), [Doomsday](https://osu.ppy.sh/users/18983), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), et [Tom94](https://osu.ppy.sh/users/1857058)                | [Lien](https://www.youtube.com/watch?v=bl63NpUz_T8) |
+| 7      | Difficultés des visiteurs par rapport à un seul jeu de cartes  | [deadbeat](https://osu.ppy.sh/users/128370), [Doomsday](https://osu.ppy.sh/users/18983), [shARPII](https://osu.ppy.sh/users/776257), et [WubWoofWolf](https://osu.ppy.sh/users/39828)                                                                                          | [Lien](https://www.youtube.com/watch?v=OMsHFRS662k) |
 | 8      | osu!next                                 | [deadbeat](https://osu.ppy.sh/users/128370), [flyte](https://osu.ppy.sh/users/3103765), et [peppy](https://osu.ppy.sh/users/2)                                                                                                                                             | [Lien](https://www.youtube.com/watch?v=jBUNIDa427Q) |
-| 9      | Legends of the addicting circle clicking | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), LoliFlan, et [p3n](https://osu.ppy.sh/users/123703)                                                                               | [Lien](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
+| 9      | Légendes du cercle d'addiction en cliquant | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), LoliFlan, et [p3n](https://osu.ppy.sh/users/123703)                                                                               | [Lien](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
 | 10     | osu!next round 2                         | [deadbeat](https://osu.ppy.sh/users/128370), [flyte](https://osu.ppy.sh/users/3103765), et [peppy](https://osu.ppy.sh/users/2)                                                                                                                                             | [Lien](https://www.youtube.com/watch?v=tICLLkOlpno) |
-| 11     | Catch the Beat Discussion                | [deadbeat](https://osu.ppy.sh/users/128370), [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Cetlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), et [Zak](https://osu.ppy.sh/users/1375955)  | [Lien](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
+| 11     | Catch the Beat Discussion                | [deadbeat](https://osu.ppy.sh/users/128370), [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), et [Zak](https://osu.ppy.sh/users/1375955) | [Lien](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | 12     | osu!idol Discussion                      | [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), et [Kyonko Hizara](https://osu.ppy.sh/users/444868)                                                                                      | [Lien](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
 
-## Spéciaux
+## Specials
 
-| EP No. | Sujet                   | Profession                                                                                                                                                                                             | Lien                                                |
+| EP No. | Sujets                  | Profession                                                                                                                                                                                             | Lien                                                |
 |--------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 1      | Ask Me Anything         | [deadbeat](https://osu.ppy.sh/users/128370) et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                          | [Lien](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
-| 2      | Ask Me Anything 2015    | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), et [ztrot](https://osu.ppy.sh/users/6347)  | [Lien](https://www.youtube.com/watch?v=a9An8cD18Co) |
-| 3      | 1 year anniversary      | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), et [ztrot](https://osu.ppy.sh/users/6347)                                                                               | [Lien](https://www.youtube.com/watch?v=AHU7RgGCB50) |
-| 4      | Welcome back            | [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Nyquill](https://osu.ppy.sh/users/682935), [Zak](https://osu.ppy.sh/users/1375955), [ztrot](https://osu.ppy.sh/users/6347) | [Lien](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
-| 5      | Upcoming events Q&amp;A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                      | [Lien](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
+| 1      | Demandez-moi n'importe quoi         | [deadbeat](https://osu.ppy.sh/users/128370) et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                         | [Lien](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
+| 2      | Demandez-moi n'importe quoi en 2015    | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), et [ztrot](https://osu.ppy.sh/users/6347) | [Lien](https://www.youtube.com/watch?v=a9An8cD18Co) |
+| 3      | 1 an d'existence      | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), et [ztrot](https://osu.ppy.sh/users/6347)                                                                              | [Lien](https://www.youtube.com/watch?v=AHU7RgGCB50) |
+| 4      | Bon retour parmi nous            | [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Nyquill](https://osu.ppy.sh/users/682935), [Zak](https://osu.ppy.sh/users/1375955), [ztrot](https://osu.ppy.sh/users/6347) | [Lien](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
+| 5      | Événements à venir Q&amp;A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                     | [Lien](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
-## Liens Externes
+## Liens externes
 
-- Chaîne Youtube Officielle: <https://www.youtube.com/user/osuacademy/videos>
-- Thread Officiel: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Official YouTube Channel](https://www.youtube.com/user/osuacademy/videos)
+- [Official Thread](https://osu.ppy.sh/community/forums/topics/225111)
