@@ -1,6 +1,7 @@
 ---
 tags:
 - HP
+- Health Drain
 - Passive HP
 - Drain
 ---
