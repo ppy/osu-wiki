@@ -1,18 +1,15 @@
----
-outdated: true
----
+# osu!tourney
 
-# osu!tourney (Français)
+**osu!tourney** est le client multispectateur officiel utilisé pour visualiser et diffuser tous les joueurs dans une salle multijoueur en même temps.
 
-**osu!tourney** est le client multi-spectateur officiel utilisé pour voir et streamer tous les joueurs d'une salle multijoueur à la fois.
+Les utilisateurs qui rencontrent des **problèmes** avec le client peuvent lire le [troubleshooting guide](Troubleshooting) ou envoyez un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
-Les utilisateurs rencontrant des **problèmes** avec ce client devraient lire le [guide de diagnostic](/wiki/osu!tourney/Troubleshooting "Diagnostic") ou envoyer un email à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+## Articles connexes
 
-## Articles liés
-
-- [Mise en place](/wiki/osu!tourney/Setup/ "Mise en place")
-- [Utilisation en multijoueur](/wiki/osu!tourney/Multiplayer_Usage/ "Création et gestion de sessions multijoueur")
-- [Liste des commandes](/wiki/osu!tourney/Tournament_Management_Commands/ "Commandes de gestion du tournoi")
-- [Skinning](/wiki/osu!tourney/Skinning/ "Skinning")
-- [Diagnostic](/wiki/osu!tourney/Troubleshooting/ "Diagnostic")
-- [Prix](/wiki/osu!tourney/Prizes/ "Prix")
+- [Configuration](Setup)
+- [Utilisation multijoueur](Multiplayer_Usage)
+- [Utilisation des spectateurs](Spectator_Usage)
+- [Skinning](Skinning)
+- [Commandes de gestion des tournois](Tournament_Management_Commands)
+- [Dépannage](Troubleshooting)
+- [Prix](Prizes)
