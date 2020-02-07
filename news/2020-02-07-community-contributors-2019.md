@@ -73,7 +73,7 @@ Both of them are exemplary examples of the kind of dedication that has punctuate
 
 ## Tournaments
 
-[![](/wiki/shared/news/2020-02-07-community-contributors-2019/PuffBuck.jpg)](https://osu.ppy.sh/users/4234525)
+[![](/wiki/shared/news/2020-02-07-community-contributors-2019/PuffBuck.jpg?)](https://osu.ppy.sh/users/4234525)
 
 **PuffBuck** is always watching. No truer words have ever been spoken. 
 
@@ -109,7 +109,7 @@ The cream of the osu!mania casting crop since 2015, when **Halogen-** isn't forg
 
 His efforts have helped make the tournament more accessible to so many people, and we are hugely thankful for his efforts.
 
-[![](/wiki/shared/news/2020-02-07-community-contributors-2019/Sartan.jpg)](https://osu.ppy.sh/users/4100941)
+[![](/wiki/shared/news/2020-02-07-community-contributors-2019/Sartan.jpg?)](https://osu.ppy.sh/users/4100941)
 
 **Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially *were* the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the norm.
 
