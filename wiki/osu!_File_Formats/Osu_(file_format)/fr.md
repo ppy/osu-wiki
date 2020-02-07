@@ -1,266 +1,362 @@
----
-outdated: true
----
-
 # .osu (format de fichier)
 
-Les fichiers **.osu** sont des fichiers lisibles par l'Homme. Ils contiennent des informations sur une seule beatmap.
+**`.osu`** est un format de fichier lisible par l'homme contenant des informations sur un beatmap.
+
+## Structure
+
+La première ligne du fichier précise la version du format de fichier. Par exemple, `osu file format v14` est la dernière version.
+
+Le contenu suivant est séparé en sections, indiquées par des titres de section entre crochets.
+
+| Section | Description | Type de contenu |
+| :-- | :-- | :-- |
+| `[General]` | Informations générales sur la feuille de route | `key: value` paires |
+| `[Editor]` | Paramètres sauvegardés pour l'éditeur de beatmap | `key: value` paires |
+| `[Metadata]` | Informations utilisées pour identifier la feuille de route | `key:value` paires |
+| `[Difficulty]` | Paramètres de difficulté | `key:value` paires |
+| `[Events]` | Événements graphiques Beatmap et storyboard | Listes séparées par des virgules |
+| `[TimingPoints]` | Calendrier et points de contrôle | Listes séparées par des virgules |
+| `[Colours]` | Combo et couleurs de peau | `key : value` paires |
+| `[HitObjects]` | Hit objects | Listes séparées par des virgules |
 
-## Format
+## General
 
-La première ligne du fichier indique la version du fichier de la beatmap. Exemple:
+<!-- TODO : il manque quelques options fonctionnelles qui sont des restes de très anciens formats de fichiers -->
+| Option | Type de valeur | Description | Valeur par défaut |
+| :-- | :-- | :-- | :-- |
+| `AudioFilename` | Chaîne | Emplacement du fichier audio par rapport au dossier en cours |  |
+| `AudioLeadIn` | Integer | Millisecondes de silence avant que le son ne commence à jouer | 0 |
+| `AudioHash` | Chaîne de caractères | *Déclassé* |  |
+| `PreviewTime` | Entier | Durée en millisecondes du démarrage de la prévisualisation audio | -1 |
+| `Countdown` | Entier | Vitesse du compte à rebours avant le premier objet touché (`0` = pas de compte à rebours, `1` = normal, `2` = demi, `3` = double) | 1 |
+| `SampleSet` | Chaîne | Exemple d'ensemble qui sera utilisé si les points de chronométrage ne l'emportent pas (`Normal`, `Soft`, `Drum`) | Normal |
+| `StackLeniency` | Décimal | Multiplicateur pour le seuil dans le temps où les objets touchés placés près les uns des autres s'empilent (0–1) | 0.7 |
+| `Mode` | Entier | Mode jeu (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
+| `LetterboxInBreaks` | 0 ou 1 | Le fait que les pauses aient ou non un effet de boîte aux lettres | 0 |
+| `StoryFireInFront` | 0 ou 1 | *Déclaré* | 1 |
+| `UseSkinSprites` | 0 ou 1 | Si le story-board peut ou non utiliser les images de la peau de l'utilisateur | 0 |
+| `AlwaysShowPlayfield` | 0 ou 1 | *Déclaré* | 0 |
+| `OverlayPosition` | Chaîne | Ordre de dessin des recouvrements des cercles de frappe par rapport aux numéros de frappe (`NoChange` = utiliser le réglage de la peau, `Below` = dessiner les recouvrements sous les numéros, `Above` = dessiner les recouvrements au-dessus des numéros) | NoChange |
+| `SkinPreference` | Chaîne | Skin préféré à utiliser pendant le jeu |  |
+| `EpilepsyWarning` | 0 ou 1 | si un avertissement concernant les couleurs clignotantes doit ou non figurer au début de la carte | 0 |
+| `CountdownOffset` | Entier | Temps en battements que le compte à rebours commence avant le premier objet touché | 0 |
+| `SpecialStyle` | 0 ou 1 | Si la disposition des touches de style "N+1" est utilisée ou non pour l'osu!mania | 0 |
+| `WidescreenStoryboard` | 0 ou 1 | Si le story-board permet ou non le visionnage sur grand écran | 0 |
+| `SamplesMatchPlaybackRate` | 0 ou 1 | Si les échantillons sonores changent ou non de vitesse lorsque l'on joue avec des mods qui changent de vitesse | 0 |
 
-`osu file format v12`
+## Éditeur
 
-Les lignes suivantes sont séparées en différentes sections, indiquées avec des crochets.
+Ces options ne sont pertinentes que pour l'ouverture de cartes dans le [beatmap editor](/wiki/Beatmap_Editor). Ils n'affectent pas le jeu.
 
--   General - Propriétés diverses à propos du gameplay de la beatmap.
--   Editor - Paramètres de l'éditeur enregistrés par le mappeur.
--   Metadata - Informations à propos de la musique et de la beatmap.
--   Difficulty - Valeurs définissant la difficulté de la beatmap.
--   Events - La liste des events du storyboard.
--   Timing Points - Une liste des timing points et des hitsounds de la beatmap.
--   Colours - Valeurs RGB des couleurs de combo utilisées.
--   Hit Objects - Une liste de hit objects de la beatmap.
+| Option | Type de valeur | Description |
+| :-- | :-- | :-- |
+| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes des signets |
+| `DistanceSpacing` | Décimal | Multiplicateur d'instantanéité de la distance |
+| `BeatDivisor` | Décimal | Battre le diviseur instantané |
+| `GridSize` | Entier | Taille de la grille |
+| `TimelineZoom` | Décimal | Facteur d'échelle pour la ligne de temps de l'objet |
 
-Exemple:
+## Metadata
 
-`[General]`
+| Option | Type de valeur | Description |
+| :-- | :-- | :-- |
+| `Title` | Chaîne | Titre de la chanson romanisée |
+| `TitleUnicode` | Chaîne | Titre de la chanson |
+| `Artist` | Chaîne | Artiste de la chanson romanisée |
+| `ArtistUnicode` | Chaîne | Artiste de la chanson |
+| `Creator` | Chaîne | Créateur de Beatmap |
+| `Version` | Chaîne | Nom de la difficulté |
+| `Source` | Chaîne | Média original pour lequel la chanson a été produite |
+| `Tags` | Liste de chaînes de caractères séparées par des espaces | Termes de recherche |
+| `BeatmapID` | Entier | ID Beatmap |
+| `BeatmapSetID` | Entier | ID Beatmapset |
 
-## Sections
+## Difficulté
 
-### General
+| Option | Type de valeur | Description |
+| :-- | :-- | :-- |
+| `HPDrainRate` | Décimal | Réglage HP (0-10) |
+| `CircleSize` | Décimal | Paramètre CS (0-10) |
+| `OverallDifficulty` | Réglage décimal | OD (0-10) |
+| `ApproachRate` | Décimal | Réglage AR (0-10) |
+| `SliderMultiplier` | Décimale | Vitesse du curseur de base en hecto-[osu! pixels](/wiki/Glossary#osupixel) par battement <!-- TODO : ce préfixe sonne terriblement ಠ_ಠ --> |
+| `SliderTickRate` | Décimal | Nombre de tics de curseur par battement |
 
-AudioFilename (String) indique la localisation du fichier audio relatif au dossier actuel.
+## Événements
 
-`AudioFilename: 03 artcore JINJA.mp3`
+*Syntaxe de l'événement :* `eventType,startTime,eventParams`
 
-AudioLeadIn (Integer, millisecondes) est le montant de temps à ajouter avant que l'audio ne se joue. Utile pour les musiques qui commencent immédiatement.
+- **`eventType` (Chaîne ou entier):** Type d'événement. Certains événements peuvent être désignés par un nom ou un numéro.
+- **`startTime` (Entier):** Heure de début de l'événement, en millisecondes à partir du début de l'audio du beatmap. Pour les événements qui n'utilisent pas d'heure de début, la valeur par défaut est `0`.
+- **`eventParams` (liste séparée par des virgules):** Paramètres supplémentaires spécifiques au type d'événement.
 
-`AudioLeadIn: 2000`
+### Contexte
 
-PreviewTime (Integer, millisecondes) définit le temps auquel le fichier audio sera joué lorsque la beatmap est sélectionnée dans l'écran de sélection des beatmaps.
+*Syntaxe de base :* `0,0,filename,xOffset,yOffset`
 
-`PreviewTime: 10013`
+- **`filename` (Chaîne):** Emplacement de l'image de fond par rapport au répertoire beatmap. Des guillemets doubles sont généralement inclus autour du nom du fichier, mais ils ne sont pas nécessaires.
+- **`xOffset` (Entier)** et **`yOffset` (Entier):** Compensation en [osu! pixels](/wiki/Glossary#osupixel) du centre de l'écran. Par exemple, un décalage de `50,100` l'arrière-plan serait représenté par 50 osu ! pixels à droite et 100 osu ! pixels en bas à partir du centre de l'écran. Si le décalage est de `0,0`, l'écriture est facultative.
 
-Countdown (Boolean) indique si un compteur doit apparaître avant le premier hit object.
+### Vidéos
 
-`Countdown: 0`
+*Syntaxe vidéo :* `Video,startTime,filename,xOffset,yOffset`
 
-SampleSet (String) indique quel ensemble de hitsounds sera utilisé pour cette beatmap.
+`Video` peut être remplacée par `1`.
 
-`SampleSet: Soft`
+- **`filename` (Chaîne)**, **`xOffset` (Entier)**, et **`yOffset` (Entier)** se comportent exactement comme en arrière-plan.
 
-StackLeniency (Float) est la distance à laquelle les hit objects seront fusionnés.
+### Pauses
 
-`StackLeniency: 0.7`
+*Syntaxe de rupture : * `2,startTime,endTime`
 
-Mode (Integer) définit le mode de jeu de la beatmap. (0=osu!, 1=osu!taiko, 2=osu!catch, 3=osu!mania)
+`2` peut être remplacée par `Break`.
 
-`Mode: 0`
+- **`endTime` (Entier):** Heure de fin de la pause, en millisecondes à partir du début de l'audio du beatmap.
 
-LetterboxInBreaks (Boolean) spécifie si la letterbox apparaît durant les pauses.
+### Storyboards
 
-`LetterboxInBreaks: 0`
+*Pour des informations sur la syntaxe du story-board, voir [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-WidescreenStoryboard (Boolean) indique si le storyboard doit être affiché en écran large.
+Les story-boards peuvent être définis dans un fichier de story-board optionnel séparé avec le `.osb` extension. Les storyboards externes sont partagés entre tous les beatmaps d'un beatmapset.
 
-`WidescreenStoryboard: 0`
+Chaque beatmap peut contenir son propre storyboard de difficulté spécifique, soit en conjonction avec le storyboard externe, soit seul.
 
-### Editor
+## Points de chronométrage
 
-Bookmarks (Integer List, millisecondes) est une liste de temps séparés par virgules des favoris de l'éditeur.
+Chaque point de temps influence une partie spécifique de la carte, communément appelée "section de temps". Le site `.osu` Le format de fichier exige qu'ils soient triés par ordre chronologique.
 
-`Bookmarks: 94171`
+*Syntaxe du point de chronométrage:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-DistanceSpacing (Float) est le multiplicateur de la fonctionnalité "Distance Snap".
+- **`time` (Entier):** Heure de début de la section de chronométrage, en millisecondes à partir du début de l'audio de la carte des temps. La fin de la section de chronométrage est le temps du point de chronométrage suivant (ou jamais, si c'est le dernier point de chronométrage).
+- **`beatLength` (Décimal):** Cette propriété a deux significations :
+  - Pour les points de chronométrage non hérités, la durée d'un battement, en millisecondes.
+  - Pour les points de synchronisation hérités, un multiplicateur de vitesse de glissement inverse négatif, en pourcentage. Par exemple, `-50` ferait en sorte que tous les curseurs de cette section de chronométrage soient deux fois plus rapides que `SliderMultiplier`.
+- **`meter` (Entier):** Nombre de battements dans une mesure. Les points de chronométrage hérités ignorent cette propriété.
+- **`sampleSet` (Entier):** Ensemble d'échantillons par défaut pour les objets touchés (0 = par défaut beatmap, 1 = normal, 2 = doux, 3 = tambour).
+- **`sampleIndex` (Entier):** Exemple d'index personnalisé pour les objets touchés. `0` indique les coups par défaut d'osu !
+- **`volume` (Entier):** Pourcentage de volume pour les objets touchés.
+- **`uninherited` (0 ou 1):** si le point de synchronisation n'est pas hérité ou non.
+- **`effects` (Entier):** Drapeaux de bits qui donnent au point de chronométrage des effets supplémentaires. Voir [la section sur les effets](#effects).
 
-`DistanceSpacing: 1.22`
+### Effets
 
-BeatDivisor (Integer) indique la division de rythme pour placer les objets.
+Les points de synchronisation ont deux effets supplémentaires qui peuvent être basculés à l'aide des bits 0 et 3 (du moins significatif au plus significatif) dans le `effects` entier :
 
-`BeatDivisor: 4`
+- 0 : si oui ou non [kiai time](/wiki/Beatmap_Editor/Kiai_Time) est activé
+- 3 : Omission ou non de la première barre dans osu!taiko et osu!mania
 
-GridSize (Integer) indique la taille de la grille pour la fonctionnalité "Grid Snap".
+Le reste des bits est inutilisé.
 
-`GridSize: 4`
+### Exemples
 
-TimelineZoom (Integer) indique le zoom dans la timeline de l'éditeur.
+```
+10000,333.33,4,0,0,100,1,1
+12000,-25,4,3,0,100,0,1
+```
 
-`TimelineZoom: 1`
+Le premier point de chronométrage à 10 secondes n'est pas hérité, et se fixe :
 
-### Metadata
+- BPM à 180 (`1 / 333.33 * 1000 * 60`)
+- Signature à temps au 4/4
+- Échantillon réglé sur la valeur par défaut de beatmap
+- Exemple d'index pour les hitsounds par défaut de osu !
+- Volume à 100
+- L'heure du Kiai
 
-Title (String) est le titre de la musique, limité aux caractères ASCII.
+Le deuxième point de chronométrage à 12 secondes est hérité, ce qui change la vitesse du curseur à 4x et l'échantillon réglé sur le tambour.
 
-`Title:artcore JINJA`
+## Couleurs
 
-TitleUnicode (String) est le titre de la musique, avec support unicode. Si cette valeur n'est pas présente, Title est utilisé.
+Toutes les options de cette section représentent des couleurs. Ce sont des triplets d'entiers 0-255 séparés par des virgules, représentant les composantes rouge, verte et bleue des couleurs.
 
-`TitleUnicode:アートコア神社`
+| Option | Description |
+| :-- | :-- |
+| `Combo#`, où "#" est un nombre entier | Couleurs de la combinaison additive |
+| `SliderTrackOverride` | Additive slider track color |
+| `SliderBorder` | Couleur de la bordure du curseur |
 
-Artist (String) est le nom de l'artiste, limité aux caractères ASCII.
+## Objets touchés
 
-`Artist:An`
+*Syntaxe de l'objet d'impact:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-ArtistUnicode (String) est le nom de l'artiste, avec support unicode. Si cette valeur n'est pas présente, Artist est utilisé.
+- **`x` (entier)** et **`y` (entier):** Position dans [osu! pixels](/wiki/Glossary#osupixel) de l'objet.
+- **`time` (Entier):** Heure à laquelle l'objet doit être touché, en millisecondes à partir du début de l'audio du beatmap.
+- **`type` (Entier):** Drapeaux de bits indiquant le type d'objet. Voir [la section type](#type).
+- **`hitSound` (Entier):** Drapeaux de bits indiquant le hit-sound appliqué à l'objet. Voir [la section "hitsounds](#hitsounds).
+- **`objectParams` (liste séparée par des virgules):** Paramètres supplémentaires spécifiques au type d'objet.
+- **`hitSample` (liste séparée par un colon):** Informations sur les échantillons qui sont joués lorsque l'objet est touché. Elle est étroitement liée au "hitSound" ; voir [la section "hitsounds"](#hitsounds). Si elle n'est pas écrite, elle est par défaut  `0:0:0:0:`.
 
-`ArtistUnicode:An`
+### Type
 
-Creator (String) est le nom d'utilisateur du mapper.
+Les types de hit objects sont stockés dans un entier de 8 bits où chaque bit est un drapeau ayant une signification particulière. Le type de hit object de base est donné par les bits 0, 1, 3 et 7 (du plus petit au plus significatif) :
 
-`Creator:Flower`
+- 0 : cercle de frappe
+- 1 : Slider
+- 3 : Tourniquet
+- 7 : osu!mania hold
 
-Version (String) est le nom de la difficulté.
+Les morceaux restants sont utilisés pour distinguer les nouveaux combos et éventuellement sauter les couleurs des combo (communément appelé "hax de couleur") :
 
-`Version:Hard`
+- 2 : Nouvelle combinaison
+- 4-6 : Un entier de 3 bits spécifiant le nombre de couleurs de combo à sauter, si cet objet démarre un nouveau combo.
 
-Source (String) décrit l'origine de la musique.
+### Hitsounds
 
-`Source:Touhou`
+Le `hitSound` Les indicateurs de bits déterminent quels sons seront émis lorsque l'objet est touché :
 
-Tags (String List) est un ensemble de mots décrivant la musique. Les Tags sont cherchables à la fois dans la liste de beatmaps en ligne et dans l'écran de sélection des musiques.
+- 0 : Normal
+- 1 : Whistle
+- 2 : Finish
+- 3 : Clap
 
-`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
+Si aucun bit n'est défini, le hitsound normal est utilisé par défaut.
 
-BeatmapID (Integer) est l'ID de la difficulté.
+Dans tous les modes sauf l'osu!mania, le `LayeredHitSounds` La propriété de la peau oblige à inclure le son normal, quel que soit le réglage du bit 0. Il est activé par défaut.
 
-`BeatmapID:297410`
+#### Exemples de succès personnalisés
 
-BeatmapSetID (Integer) est l'ID du beatmap set.
+Utilisation de `hitSample` peut personnaliser davantage les sons qui sont joués. Par défaut, il est réglé sur `0:0:0:0:` si elle n'est pas écrite.
 
-`BeatmapSetID:114987`
+*Syntaxe de l'échantillon d'impact:* `normalSet:additionSet:index:volume:filename`
 
-### Difficulty
+- **`normalSet` (Entier):** Ensemble d'échantillons du son normal.
+- **`additionSet` (Entier):** Exemple de sons de sifflet, de fin et d'applaudissements.
+- **`index` (Entier):** Index de l'échantillon. S'il s'agit de `0`, l'indice d'échantillonnage du point de synchronisation sera utilisé à la place.
+- **`volume` (Entier):** Volume de l'échantillon de 1 à 100. Si c'est `0`, le volume du point de chronométrage sera utilisé à la place.
+- **`filename` (Chaîne):** Nom de fichier personnalisé du son d'addition.
 
-HPDrainRate (Float) indique le HP Drain.
+`normalSet` et `additionSet` peut être l'une des suivantes :
 
-`HPDrainRate:5`
+- `0` : Pas de jeu d'échantillons personnalisés
+  - Pour les sons normaux, l'ensemble est déterminé par le jeu d'échantillons du point de synchronisation.
+  - Pour les ajouts, l'ensemble est déterminé par l'ensemble d'échantillons du son normal.
+- `1` : Ensemble normal
+- `2` : Ensemble souple
+- `3` : Tambour
 
-CircleSize (Float) indique la taille des cercles.
+Toutes ces options (outre le volume) sont utilisées pour déterminer quel fichier son doit être joué pour un hit-sound donné. Le nom du fichier est `<sampleSet>-hit<hitSound><index>.wav`, où :
 
-`CircleSize:4`
+- `sampleSet` est `normal`, `soft`, ou `drum`, déterminée soit par `normalSet` ou `additionSet` en fonction du hit-sound qui est joué
+- `hitSound` est `normal`, `whistle`, `finish`, ou `clap`
+- `index` est la même `index` comme ci-dessus, sauf qu'il n'est pas écrit si la valeur est `0` ou `1`
 
-OverallDifficulty (Float) indique le temps permit pour toucher le hit object.
+Le fichier son est chargé à partir du premier des répertoires suivants qui contient un nom de fichier correspondant :
 
-`OverallDifficulty:6`
+- Beatmap, si `index` n'est pas `0`
+- La peau, avec le `index` supprimé
+- Par défaut osu! ressources, avec le `index` supprimé
 
-ApproachRate (Float) indique le temps que prennent le cercle d'approche et le hit object à apparaître.
+Quand `filename` est donné, aucun son d'addition ne sera joué, et ce fichier dans le répertoire beatmap est joué à la place.
 
-`ApproachRate:7`
+### Cercles de réflexion
 
-SliderMultiplier (Float) indique le multiplicateur de la vélocité des sliders. La valeur pa défaut est 1.4 .
+Les hit circles n'ont pas de `objectParams`.
 
-`SliderMultiplier:1.3`
+### Sliders
 
-SliderTickRate (Float) indique la fréquence d'apparition des ticks de slider. La valeur par défaut est 1.
+*Syntaxe du curseur:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
-`SliderTickRate:1`
+- **`curveType` (Caractère):** Type de courbe utilisé pour construire ce curseur (`B` = bézier, `C` = catmull-rom centripète, `L` = linéaire, `P` = cercle parfait)
+- **`curvePoints` (Liste de chaînes de caractères séparées par des tuyaux):** Points utilisés pour construire le curseur. Chaque point est au format `x:y`.
+- **`slides` (Entier):** Nombre de fois que le joueur doit suivre la courbe du curseur dans un mouvement de va-et-vient avant que le curseur ne soit complet. Il peut également être interprété comme le nombre de répétitions plus un.
+- **`length` (Décimal):** Longueur visuelle en [osu! pixels](/wiki/Glossary#osupixel) du curseur.
+- **`edgeSounds` (Liste d'entiers séparés par des tubes):** Sons qui se produisent lorsque l'on touche les bords de la courbe du curseur. Le premier son est celui qui se produit lorsque le curseur est cliqué pour la première fois, et le dernier son est celui qui se produit lorsque l'extrémité du curseur est touchée.
+- **`edgeSets` (Liste de cordes séparées par des tuyaux):** Exemples d'ensembles utilisés pour la `edgeSounds`. Chaque ensemble est au format `normalSet:additionSet`, avec la même signification que dans [the hitsounds section](#hitsounds).
 
-### Events
+#### Courbes de glissement
 
-Voir [Storyboard Scripting](/wiki/Storyboard_Scripting)
+Lors de la construction de courbes pour un curseur, `x` et `y` sont utilisés pour le premier point, et `curvePoints` fournir le reste.
 
-### Timing Points
+Il existe quatre types de courbes de glissement dans osu! :
 
-Les Timing Points contiennent un certain nombre de propriétés concernant le décalage audio, les battements pas minute et les hitsounds. L'Offset (Integer, milliseconds) définit quand le Timing Point prend effet. Milliseconds per Beat (Float) définit le battement par minute de la musique. Pour certains calculs, il est plus simple d'utiliser les millisecondes par battement. Meter (Integer) définit le nombre de battement par mesure. Sample Type (Integer) définit le type de hitsound utilisé. Sample Set (Integer) définit l'ensemble de hitsound à utiliser. Volume (Integer) est une valeur de 0 à 100 qui définit le volume des hitsounds. Kiai Mode (Boolean) définit si le Kiai Time est actif. Inherited (Boolean) indique si le Timing Point est un Timing Point héritant.
+- **Bézier (B):** [Bézier curves](https://fr.wikipedia.org/wiki/Bézier_curve) d'un degré arbitraire peut être fait. Plusieurs courbes de Bézier peuvent être réunies en un seul curseur en répétant leurs points d'intersection.
+- **Centripetal catmull-rom (C):** [Catmull curves](https://fr.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) sont une alternative d'interpolation aux courbes de Bézier. Elles sont rarement utilisées aujourd'hui en raison de leur manque d'attrait visuel.
+- **Linéaire (L):** Ces courbes forment un chemin droit entre tous leurs points.
+- **Cercle parfait (P):** Les courbes de cercle parfait sont limitées à trois points (y compris la position de l'objet touché) qui définissent la limite d'un cercle. L'utilisation de plus de trois points entraînera le passage du type de courbe à bézier.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+Si le curseur est `length` est plus longue que la courbe définie, le curseur s'étend jusqu'à ce qu'il atteigne la longueur cible :
 
-Un Timing Point héritant est différent d'un Timing Point car sa valeur de Milliseconds per Beat est négative, et définit un nouveau Milliseconds per Beat basé sur le dernier Timing Point non-hérité. Ce peut être utilisé pour changer le volume sans affecter le timing du décalage audio, ou changer la vitesse des sliders.
+- Pour les courbes de bézier, de catmull et les courbes linéaires, elle se poursuit en ligne droite à partir de la fin de la courbe.
+- Pour les courbes circulaires parfaites, il continue l'arc de cercle.
 
-Exemple d'un Timing Point:
+*Avis : Le curseur est `length` peut être utilisé pour déterminer le temps nécessaire pour compléter le curseur. `length / (SliderMultiplier * 100) * beatLength` indique combien de millisecondes il faut pour compléter une diapositive du curseur (en supposant `beatLength` a été ajusté pour les points de synchronisation hérités).*
 
-`66,315.789473684211,4,2,0,45,1,0`
+#### Slider hitsounds
 
-Exemple d'un Timing Point hérité:
+En plus des coups de tranchant, les curseurs ont également un coup de tranchant continu lorsque le joueur est à portée du cercle de suivi du curseur. Le fichier son est mis en boucle aussi longtemps qu'il est actif.
 
-`10171,-100,4,2,0,60,0,1`
+Ce hitsound utilise les propriétés "hitSound" et "hitSample" de l'objet frappé, mais seuls les sons normaux et les sifflements sont supportés. Son nom de fichier est `<sampleSet>-hit<hitSound><index>.wav`, où `hitSound` est soit `slide` pour les produits normaux ou `whistle` pour siffler.
 
-### Colours
+### Spinners
 
-Combo# (Integer List) est une liste de trois nombres, chacun allant de 0 à 255 définissant une couleur RVB.
+*Syntaxe de l'épingle:* `x,y,time,type,hitSound,endTime,hitSample`
 
-`Combo1 : 245,245,245`
+- **`endTime` (Entier):** Temps de fin du spinner, en millisecondes à partir du début de l'audio du beatmap.
+- `x` et `y` n'affectent pas les filateurs. Ils se placent par défaut au centre du terrain de jeu, `256,192`.
 
-### Hit Objects
+### Détient (osu!mania seulement)
 
-**Syntaxe du Hit Circle:**
+*Syntaxe de maintien :*. `x,y,time,type,hitSound,endTime:hitSample`
 
-`x,y,time,type,hitSound,addition`
+- **`endTime` (Entier):** Heure de fin de la prise, en millisecondes à partir du début de l'audio du beatmap.
+- `x` détermine l'indice de la colonne dans laquelle se trouvera la prise. Il est calculé par `floor(x * columnCount / 512)` et coincé entre `0` et `columnCount - 1`.
+- `y` n'affecte pas les prises. Elle se fait par défaut au centre du terrain de jeu, `192`.
 
-`164,260,2434,1,0,0:0:0:0:`
+### Exemples
 
-Un hit circle est un simple coup dans le mode de jeu osu!
+```
+256,192,11000,21,2
+256,192,11200,8,12,12000,3:0:0:80:
+100,100,12600,6,1,B|200:200|250:200|250:200|300:150,2,310.123,2|1|2,0:0|0:0|0:2,0:0:0:0:
+```
 
-*x (Integer)* va de 0 à 512 (inclusif) et *y (Integer)* va de 0 à 384 (inclusif).
+Le premier objet est un cercle de frappe :
 
-*time (Integer)* est le début de la musique, en millisecondes.
+- Au centre de l'écran
+- A 11 secondes
+- Commencer un nouveau combo et sauter une couleur de combo supplémentaire
+- Avec un coup de sifflet
 
-*type (Integer)* est un bitmap pour hit object:
+Le deuxième objet est une centrifugeuse :
 
-Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) forment un nombre de 3-bit (0-7) qui choisit combien de couleurs de combo passer. Bit 7 (128) est une note longue d'osu!mania. Cercles, sliders, et spinners peuvent voir leur être appliqué un OR avec de nouveau combos et de nouvelles valeurs de sautement de combo, mais pas avec l'un l'autre.
+- A 11,2 secondes
+- Fin à 12 secondes
+- Avec les hitsounds finish et clap, jouant à 80% de volume
+- Avec le son normal de la batterie, à 80% de volume
 
-`1` - cercle, `5` - cercle commençant un nouveau combo, `22` - slider commençant un nouveau combo, saut de 2 couleurs.
+Le troisième objet est un curseur :
 
-*hitSound (Integer)* est un bitmap des hitsounds à jouer au dessus des hitsounds normaux:
+- A la position (100,100)
+- A 12,6 secondes
+- Démarrer un nouveau combo
+- Avec un corps de curseur à courbe de Bézier composée, où les points de contrôle de la première courbe sont (100,100), (200,200), et (250,200), et les points de contrôle de la seconde courbe sont (250,200), (300,150)
+- Répéter une fois
+- 310.123 osu ! pixels de long
+- Avec un coup de sifflet au début, et un coup de sifflet jouant avec le jeu de la douceur à la fin
 
-Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
+<!-- TODO : détails spécifiques sur tous les autres modes de jeu (cet article devrait fournir tout le nécessaire pour analyser un fichier .osu)
 
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hit object."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
+Il n'y a pas non plus d'informations sur la façon dont ils se convertissent à d'autres modes de jeu à partir d'une carte de rythme osu!standard -->
 
-0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
+### osu!taiko
 
-*customIndex (Integer)* est l'index de l'ensemble de sample personnalisés, par exemple 3 pour `normal-3.wav`. *sampleVolume (Integer)* est le volume du sample, 0-100 (pourcentage). *filename (String)* définit le fichier audio à jouer à la place de celui de l'ensemble de sample.
+Les objets frappés d'osu!taiko n'utilisent `time` pour déterminer comment ils sont placés sur le terrain de jeu, donc `x` et `y` sont ignorées. De même, la seule partie significative des courbes de glissement est `length`; `curveType` et `curvePoints` ne sont pertinentes que lorsqu'on ouvre la carte dans l'éditeur. Les couleurs des combo et les nouveaux combos sont ignorés, et des hitsounds spécifiques au mode sont utilisés.
 
-**Syntaxe du Slider:**
+- Les cercles de frappe au sifflet ou au clap deviennent des kats, et les autres cercles de frappe deviennent des donuts. L'ajout du hitsound de finition les transforme en leurs grandes variantes.
+- Les curseurs deviennent des roulements de tambour.
+- Les toupies deviennent des notes denden.
 
-Un slider crée des droplets dans osu!catch, des roulements jaune dans osu!taiko, mais n'apparaît pas dans osu!mania.
+### osu!catch
 
-`x,y,time,type,hitSound,sliderType|curvePoints,repeat,pixelLength,edgeHitsounds,edgeAdditions,addition`
+Le terrain de jeu d'osu!catch n'utilise que l'axe des x, donc `y` n'est pas pertinent. Les courbes de glissement peuvent utiliser l'espace vertical pour obtenir une accélération horizontale lorsqu'elles sont aplaties sur un terrain de jeu unidimensionnel.
 
-`424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
+- Les cercles de frappe deviennent des fruits.
+- Les glissières deviennent des flux de jus, avec des fruits sur chaque bord.
+- Les toupies deviennent des douches de bananes
 
-*x*, *y*, *time*, et *type* agissent comme décrit dans la Syntaxe du Hit Circle.
+### osu!mania
 
-*hitSound* s'applique au corps du slider, mais seulement le son whistle se jouera durant le corps du slider.
+Comme pour l'osu!catch, les objets frappés par l'osu!mania n'utilisent pas `y`. `x` est utilisé pour déterminer la colonne ; voir le [Holds section](#holds-(osu!mania-only)).
 
-*sliderType* sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). Un slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
-
-*curvePoints (x:y|...)* est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Les points rouges apparaissent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
-
-*repeat (Integer)* est le nombre de temps qu'un joueur passera sur le slider. Une valeur de 1 ne se répétera pas, 2 se répétera une fois, 3 deux fois, et ainsi de suite.
-
-*pixelLength (Float)* est la longueur du slider en suivant le chemin de la courbe. Si la longueur est plus grande que la courbe, le slider continuera tout droit.
-
-*edgeHitsounds (hitSound|...)* est une liste de hitSounds séparées par des `|` pour s'appliquer aux cercles du slider. Ces valeurs sont les mêmes que pour les hitSounds de Hit Circle.
-
-*edgeAdditions (sampleSet:additions|...)* est une liste de ensemble de sample séparés par des `|` pour s'appliquer aux cercles du slider. *sampleSet* et *additions* sont les même que le champ *addition* du hit circle.
-
-*addition* définit un ensemble de sample à utiliser pour le corps du slider. Il fonctionne comme *addition* pour un cercle.
-
-**Syntaxe du Spinner:**
-
-`x,y,time,type,hitSound,endTime,addition`
-
-`256,192,730,12,8,3983`
-
-Un spinner crée des bananes dans osu!catch, un spinner dans osu!taiko, mais n'apparaît pas dans osu!mania.
-
-*type*, *time*, *hitSound*, et *addition* fonctionnent comme décrit dans la Syntaxe du Hit Circle.
-
-*endTime (Integer)* est le moment où le spinner s'arrête, en millisecondes en partant du début de la musique. NOTE: les Hitsounds se jouent à la fin du spinner.
-
-**Syntaxe d'une Longue Note d'osu!mania**
-
-`x,y,time,type,hitSound,endTime:addition`
-
-`329,192,16504,128,0,16620:0:0:0:0:`
-
-Une note longue unique à osu!mania.
-
-**time**, **type**, **hitSound**, et **addition** fonctionnent comme décrit dans la Syntaxe du Hit Circle.
-
-**x (Integer)** détermine quelle colonne/touche la note tombera. la valeur n'a pas à être précise. **y (Integer)** est ignoré.
-
-**endTime (Integer)** est le moment auquel la touche doit être relâchée.
+- Les cercles de frappe deviennent des notes normales.
+- Les curseurs et les roulette ne sont pas utilisés dans l'osu!mania.
