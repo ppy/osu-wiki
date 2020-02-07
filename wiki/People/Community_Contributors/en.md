@@ -142,6 +142,36 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previou
 | ![FI][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Outstanding contribution to the Community Mentorship Program |
 | ![JP][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!lazer project |
 
+## 2020
+
+### February
+
+*For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+
+| User | Contributions |
+| :-- | :-- |
+| ![CA][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Outstanding contribution to community affairs, events & tournaments |
+| ![SG][flag_SG] [Handsome](https://osu.ppy.sh/users/2123087) | Outstanding contribution to community affairs, events & tournaments |
+| ![US][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Outstanding contribution to the mapping, modding and metadata scenes |
+| ![SG][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Outstanding contribution to the osu!mania game mode |
+| ![GB][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Outstanding contribution to the osu! community, leadership & commentary/casting excellence |
+| ![GB][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Outstanding contribution to the osu! community and excellence in leadership |
+| ![US][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Outstanding contribution to the osu! community and the Mentorship Project |
+| ![BE][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Outstanding contribution to the Mentorship Project |
+| ![CL][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Outstanding contribution to the Mentorship Project |
+| ![SE][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to the osu! World Cups & Twitch moderation |
+| ![GB][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Outstanding contribution to the osu! community, the tournaments scene and excellence as a role model |
+| ![AT][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Outstanding contribution to the osu! World Cups & commentary/casting excellence |
+| ![AU][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) | Outstanding contribution to the osu! World Cups & commentary/casting excellence |
+| ![US][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | Outstanding contribution to the osu!mania tournament scene |
+| ![DE][flag_DE] [Junihuhn](https://osu.ppy.sh/users/4182339) | Outstanding contribution to the osu! World Cups via video recap creation and other assistance |
+| ![NL][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | Outstanding contribution to the osu! World Cups & commentary/casting excellence |
+| ![RU][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Outstanding moderation of the Russian language-specific channel |
+| ![US][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Outstanding contribution to player support |
+| ![US][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Outstanding contribution to player support |
+| ![CL][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the development of crucial infrastructure |
+| ![US][flag_US] [Joehu](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the osu!wiki and osu!lazer projects |
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
