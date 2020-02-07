@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Configuration de la chanson
 
 Song Setup est la quatrième section de [Beatmap Editor](/wiki/Beatmap_Editor). Il contient des métadonnées et des paramètres généraux de configuration du beatmap.
@@ -210,7 +214,7 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée e
 
 ### Divers. Toggles
 
-- `Support d'écran large :` Supprimer [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") des côtés gauche et droit du terrain de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Ceci est généralement activé lors de l'utilisation d'éléments de story-board mais peut être désactivé.
+- `Support d'écran large` : Supprimer [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") des côtés gauche et droit du terrain de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Ceci est généralement activé lors de l'utilisation d'éléments de story-board mais peut être désactivé.
 - `Display storyboard in front of combo fire` : Un réglage obsolète, on peut l'ignorer.
 - `Display epilepsy warning (storyboard has quick strobing)` : Afficher un avertissement d'épilepsie pour les storyboards (rapides ou autres) clignotants dans le beatmap.
 - `Letterbox during breaks` : Déterminer si le beatmap doit (ou ne doit pas) mettre [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming) "Wikipedia") pendant les pauses dans le beatmap. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
