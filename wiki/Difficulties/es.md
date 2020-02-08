@@ -44,7 +44,7 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") Futsuu
 - ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") Muzukashii
 - ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") Oni
-- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado _Inner Oni_)
+- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado *Inner Oni*)
 
 ### osu!catch
 
