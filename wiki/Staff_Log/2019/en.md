@@ -2,6 +2,7 @@
 
 ## January
 
+- Added [clayton](https://osu.ppy.sh/users/3666350) to Project Loved Team (2019-01-26)
 - Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2019-01-31)
 
 ### Beatmap Nominator removals
@@ -15,6 +16,7 @@
 
 ## February
 
+- Added [Shoegazer](https://osu.ppy.sh/users/2520707) to Project Loved Team (2019-02-13)
 - Removed [Yuii-](https://osu.ppy.sh/users/2935923) from Quality Assurance Team (2019-02-16)
 
 ### Beatmap Nominator removals
@@ -128,6 +130,7 @@ All users listed below were added on 2019-02-16.
 
 ## June
 
+- Removed [clayton](https://osu.ppy.sh/users/3666350) from Project Loved Team (2019-06-21)
 - Moved [Hinsvar](https://osu.ppy.sh/users/1249323) from Global Moderation Team to osu! Alumni (2019-06-30)
 
 ### Beatmap Nominator additions
