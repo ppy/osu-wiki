@@ -1,11 +1,4 @@
 <!-- Please check redirects after adding new sections with year numbers. -->
-[o!s]: /wiki/shared/mode/osu.png
-[o!t]: /wiki/shared/mode/taiko.png
-[o!c]: /wiki/shared/mode/catch.png
-[o!m]: /wiki/shared/mode/mania.png
-[GCrown]: /wiki/shared/GCrown.png "First Place"
-[SCrown]: /wiki/shared/SCrown.png "Second Place"
-[BCrown]: /wiki/shared/BCrown.png "Third Place"
 
 # Contests
 
@@ -285,3 +278,11 @@ Newspaper Cup is an annual mapping contest which aims at attracting normal playe
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/690824)
 - [Results post](https://osu.ppy.sh/community/forums/topics/721264)
+
+[o!s]: /wiki/shared/mode/osu.png
+[o!t]: /wiki/shared/mode/taiko.png
+[o!c]: /wiki/shared/mode/catch.png
+[o!m]: /wiki/shared/mode/mania.png
+[GCrown]: /wiki/shared/GCrown.png "First Place"
+[SCrown]: /wiki/shared/SCrown.png "Second Place"
+[BCrown]: /wiki/shared/BCrown.png "Third Place"

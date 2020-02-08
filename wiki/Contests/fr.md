@@ -2,13 +2,6 @@
 no_native_review: true
 ---
 <!-- Veuillez vérifier les redirections après l'ajout de nouvelles sections avec les numéros d'année. -->
-[o!s]: /wiki/shared/mode/osu.png
-[o!t]: /wiki/shared/mode/taiko.png
-[o!c]: /wiki/shared/mode/catch.png
-[o!m]: /wiki/shared/mode/mania.png
-[GCrown]: /wiki/shared/GCrown.png "Première place"
-[SCrown]: /wiki/shared/SCrown.png "Deuxième place"
-[BCrown]: /wiki/shared/BCrown.png "Troisième place"
 
 # Concours
 
@@ -258,3 +251,11 @@ La Newspaper Cup est un concours annuel de cartographie qui vise à attirer des 
 
 - [Sujet de concours](https://osu.ppy.sh/community/forums/topics/690824)
 - [Résultats post](https://osu.ppy.sh/community/forums/topics/721264)
+
+[o!s]: /wiki/shared/mode/osu.png
+[o!t]: /wiki/shared/mode/taiko.png
+[o!c]: /wiki/shared/mode/catch.png
+[o!m]: /wiki/shared/mode/mania.png
+[GCrown]: /wiki/shared/GCrown.png "Première place"
+[SCrown]: /wiki/shared/SCrown.png "Deuxième place"
+[BCrown]: /wiki/shared/BCrown.png "Troisième place"
