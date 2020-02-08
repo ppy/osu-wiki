@@ -11,7 +11,7 @@ tags:
 
 *(See the [Ranking Criteria](/wiki/Ranking_Criteria) for regulations surrounding combo colours.)*
 
-Combo colours are colours that are used to group [hit objects](/wiki/Hit_Objects) into combosets, according to musical representation. Combo colouring is an important aspect to a beatmap's aesthetic value, as it is one of the only ways to change the visuals of a beatmap besides [storyboards](/wiki/Storyboard_Scripting) and [skins](/wiki/Skinning). New combos are most commonly done according to verses, measures, vocal phrases and/or instrument scripts. Combo colours can be set in the [Song Setup](/wiki/Beatmap_Editor/Song_Setup) panel, with a minimum of 2 and a maximum of 8 combo colours. Combo colours defined in a skin will only be used when a beatmapper does **not** define any combo colours.
+Combo colours are colours that are used to group [hit objects](/wiki/Hit_Objects) into combosets, according to musical representation. New combos are most commonly done according to verses, measures, vocal phrases and/or instrument scripts. Combo colouring is an important aspect to a beatmap's aesthetic value, as it is one of the only ways to change the visuals of a beatmap besides [storyboards](/wiki/Storyboard_Scripting) and [skins](/wiki/Skinning). Combo colours can be set in the [Song Setup](/wiki/Beatmap_Editor/Song_Setup) panel, with a minimum of 2 and a maximum of 8 combo colours. Combo colours defined in a skin will only be used when a beatmapper does **not** define any combo colours.
 
 ## Mode specific
 
