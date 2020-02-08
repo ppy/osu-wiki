@@ -1,3 +1,9 @@
+---
+tags:
+  - BN
+  - BNG
+---
+
 # Beatmap Nominators
 
 *See also: [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules), [General Information for Beatmap Nominators](/wiki/People/Beatmap_Nominators/General_Information), and [Becoming a Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <img src="Performancepoints.png" title="fig:PP的计算方法" alt="PP的计算方法" width="300" />Performance Points (pp)是一种针对一个要求连续性的游戏的技能量化评定标准。这种量化评定标准更专注于用户的真实水平而不是用户的游戏时间。
 
 # 历史
