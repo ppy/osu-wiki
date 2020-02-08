@@ -7,7 +7,7 @@ tags:
 
 # Overall Difficulty
 
-*(See the [Ranking Criteria](/wiki/Ranking_Criteria/) for recommended OD values.)*
+*For recommended OD values, see: [Ranking Criteria](/wiki/Ranking_Criteria/)*
 
 Overall difficulty, commonly abbreviated as *OD*, defines how difficult it is to achieve high accuracy. The value ranges from 0 to 10; higher OD values will require more accuracy and precision. At OD0, a player can get a hit score of 300 at less than 79.5ms away from hitting it exactly on-time. On the other end of the scale, OD10 requires being less than 19.5ms away for the same hit score of 300.
 
