@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
@@ -256,4 +260,3 @@ Newspaper Cup to coroczny konkurs dot. tworzenia beatmap, którego głównymi ce
 
 - [Wątek dot. konkursu](https://osu.ppy.sh/community/forums/topics/690824)
 - [Wątek z wynikami](https://osu.ppy.sh/community/forums/topics/721264)
-

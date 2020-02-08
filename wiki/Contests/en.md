@@ -1,8 +1,3 @@
----
-outdated: true
----
-<!-- TODO: outdated because new contests haven't been added here for a long time. -->
-
 <!-- Please check redirects after adding new sections with year numbers. -->
 [o!s]: /wiki/shared/mode/osu.png
 [o!t]: /wiki/shared/mode/taiko.png
@@ -38,9 +33,9 @@ A list of contests that are not listed on the [Community Contests page](https://
 
 Notes:
 
-- Winners of the Monthly Beatmapping Contests will receive the "Elite Mapper" forum title.
-- Winning beatmapsets from MBC #1 to #12 (except for MBC #6) were be bundled with the [osu!installer](https://osu.ppy.sh/home/download).
-- Winning beatmapsets since MBC #13 have been / will be featured by the osu! media team.
+- Winners of the Monthly Beatmapping Contests #1 to #13 received the *Elite Mapper* forum title.
+- Winning beatmapsets from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmapsets.
+- Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest) article.
 
 ## Aspire
 
@@ -55,9 +50,31 @@ Notes:
 - Winners of the Aspire contests will receive the "Elite Mapper: Aspirant" forum title and a unique Aspire profile badge.
 - "Monthly Beatmapping Contest #6" was an Aspire event, but is not part of this list (see Monthly Beatmapping Contest instead).
 
+## Mapping With Rewards
+
+Mapping With Rewards is a contest without strict deadlines and features one winner for each of the three available songs per round.
+
+| Contest No. | Beatmap | Mode | Mapper | Results | Scores |
+| :-: | --- | :-: | --- | --- | --- |
+| 1.1 | [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | | |
+| 1.2 | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [Guy](https://osu.ppy.sh/users/91738) | | |
+| 1.3 | [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [alacat](https://osu.ppy.sh/users/869782) | | |
+| 2.1 | [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142) | ![osu!standard][o!s] | [Gero](https://osu.ppy.sh/users/1467715) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.1](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
+| 2.2 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535) | ![osu!standard][o!s] | [Okoratu](https://osu.ppy.sh/users/1623405) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
+| 2.3 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/488238) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.3](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
+
+Notes:
+
+- Mapping With Rewards #1 was concluded without a results post.
+- Mapping With Rewards #3 has not been concluded. Its announcement post can be found [here](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns).
+
+## osu! Mapping Olympiad
+
+osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
+
 ## Fan Art Contest
 
-A gallery for the first through fifth fan art contests can be found on the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums). All fan art contests after those can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
+A gallery for the first through fifth fan art contests can be found on the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums). All fan art contests after those can be found on the [Community Contests listing](https://osu.ppy.sh/community/contests).
 
 ## Best of
 
@@ -114,6 +131,10 @@ A gallery for the first through fifth fan art contests can be found on the [Face
 
 Community Choice is the successor to the "Best of" contests.
 
+## Community Mapping Contest
+
+The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winners were compiled into a [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
+
 ## osu!idol
 
 osu!idol is a contest where contestants as a solo or a duet sing their way through multiple stages with different genres. Official judges and the community will take over and vote to determine the winner.
@@ -143,6 +164,10 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
 - [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
 - [Official post](https://osu.ppy.sh/community/forums/topics/352608)
+
+## osu!remix
+
+osu!remix was a contest where musicians were tasked with remixing nekodex's "circles" track, which was osu!'s main menu theme song at the time. It was the first contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) and has only been run once. Its results can be found [here](https://osu.ppy.sh/community/contests/1).
 
 ## Community Contests
 

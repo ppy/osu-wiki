@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Was ist IRC?
 
 [IRC](http://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.<img src="Example-irc-client.png" title="fig:Example-irc-client.png" alt="Example-irc-client.png" width="700" />
