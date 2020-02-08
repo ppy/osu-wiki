@@ -18,7 +18,7 @@ A common system across game modes is known as health drain, which refers to the 
 
 ## osu!standard
 
-In osu!standard health will decrease at a steady rate (passive health drain), but can be replenished by tapping notes at the right time or spinning spinners. Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
+In osu!standard health will decrease at a steady rate (health drain), but can be replenished by tapping notes at the right time or spinning spinners. Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
@@ -30,7 +30,7 @@ Health recovery:
 
 Health loss:
 
-- Passive health drain.
+- Health drain.
 - Missing a hit circle.
 - Tapping a slider head early.
 - Missing a slider tick, or slider reverse arrow.
@@ -65,7 +65,7 @@ _(Note: It is entirely possible for a beatmap to never pass by design due to it 
 
 ## osu!catch
 
-In osu!catch health will decrease at a steady rate (passive health drain), but can be replenished by catching fruit and drops. Score bursts will appear after catching fruit, changing score and health values depending on the accuracy of the hit. The player also receives larger boosts if he catches the end of a combo resulting in a [geki](#geki). Missing fruit will drain health instead. Bananas can be ignored with no health penalty. For an overview of health recovery and health loss see below:
+In osu!catch health will decrease at a steady rate (health drain), but can be replenished by catching fruit and drops. Score bursts will appear after catching fruit, changing score and health values depending on the accuracy of the hit. The player also receives larger boosts if he catches the end of a combo resulting in a [geki](#geki). Missing fruit will drain health instead. Bananas can be ignored with no health penalty. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
