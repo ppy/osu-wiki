@@ -1,10 +1,14 @@
+---
+outdated: true
+---
+
 ***[Clicca per tornare ad Offset Audio Universale](IT:Options#Universal_Audio_Offset "wikilink")***
 
 ## Offset Universale
 
 L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. Puoi trovare questa opzione sotto [Opzioni](IT:Options "wikilink").
 
-<img src="Universal_Offset.jpg" title="Universal_Offset.jpg" alt="Universal_Offset.jpg" width="400" />
+![](Universal_Offset.jpg)
 
 ## Impostare L'Offset Universale
 

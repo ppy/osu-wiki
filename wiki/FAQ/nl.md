@@ -180,15 +180,15 @@ Gerankte score telt enkel de beste score voor elke liedjesset, niet voor elke mo
 
 Hier even een voorbeeld... ik heb de volgende punten op drie maps:
 
-`   `[`BRANDY` `-` `The` `Festival` `of` `Ghosts` `2`](https://osu.ppy.sh/beatmapsets/3302)
-`       Relaxing: 3,000,000`
-`       `<u>`DaRRi MIx: 5,000,000`</u>
-`   `[`ZZ` `-` `Samurai` `Blue`](https://osu.ppy.sh/beatmapsets/271)
-`       Easy: 500,000`
-`       `<u>`Normal: 1,000,000`</u>
-`       Hard: geen score`
-`   `[`Matchbox` `20` `-` `How` `Far` `We've` `Come`](https://osu.ppy.sh/beatmapsets/1264)
-`       `<u>`Normal: 2,000,000`</u>
+`   `[`BRANDY` `-` `The` `Festival` `of` `Ghosts` `2`](https://osu.ppy.sh/beatmapsets/3302)  
+`       Relaxing: 3,000,000`  
+`       `**`DaRRi MIx: 5,000,000`**  
+`   `[`ZZ` `-` `Samurai` `Blue`](https://osu.ppy.sh/beatmapsets/271)  
+`       Easy: 500,000`  
+`       `**`Normal: 1,000,000`**  
+`       Hard: geen score`  
+`   `[`Matchbox` `20` `-` `How` `Far` `We've` `Come`](https://osu.ppy.sh/beatmapsets/1264)  
+`       `**`Normal: 2,000,000`**  
 `       Hard: 1,500,000`
 
 Mijn totale beste score van elke set is 5,000,000 + 1,000,000 + 2,000,000 = 8,000,000, dat dus mijn totale gerankte score is.
