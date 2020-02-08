@@ -21,7 +21,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
 | Quarterfinals | 2020-01-15/2020-01-20 |
-| Semifinals | 2020-01-25/2020-02-02 |
+| Semifinals | 2020-01-26/2020-02-02 |
 | Finals | 2020-02-08/2020-02-09 |
 | Grand Finals | 2020-02-15/2020-02-16 |
 
@@ -95,6 +95,35 @@ The osu! South East Asia 3 is run by various community members.
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
+
+- NoMod
+  - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
+  - [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[SOS\]](https://osu.ppy.sh/beatmapsets/913720#osu/1908618)
+  - [Unlucky Morpheus - Jealousy of Silence (Krimek) \[extra\]](https://osu.ppy.sh/beatmapsets/975812#osu/2042304)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Plutian - Until the Blue Moon Rises (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/995205#osu/2081848)
+- Hidden
+  - [ZUTOMAYO - Byoshin wo kamu (Jounzan) \[semaphore's Extra\]](https://osu.ppy.sh/beatmapsets/969520#osu/2074994)
+  - [EZFG - cloud (ktgster) \[Skyhigh\]](https://osu.ppy.sh/beatmapsets/571117#osu/1210394)
+  - [nowisee - confusion (yaspo) \[again\]](https://osu.ppy.sh/beatmapsets/720928#osu/1839779)
+- HardRock
+  - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#osu/1634887)
+  - [KOKIA - Ningen tte Sonna Mono ne (tatemae) \[kodoku\]](https://osu.ppy.sh/beatmapsets/1051092#osu/2196700)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223546)
+- DoubleTime
+  - [HoneyWorks - Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora) (hypercyte) \[hyperluin's Collab Insane\]](https://osu.ppy.sh/beatmapsets/1085461#osu/2269836)
+  - [KNOWER - BUTTS TITS MONEY (Imakuri) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1076064#osu/2251648)
+  - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
+  - [Reol,nqrse - Ooedo Ranvu (zhu) \[Insane\]](https://osu.ppy.sh/beatmapsets/703580#osu/1572152)
+- FreeMod
+  - [umu. - humanly (Half) \[len's robotically another\]](https://osu.ppy.sh/beatmapsets/977552#osu/2065883)
+  - [EYE_RH - The Red Coronation (Parachute) \[Calamity\]](https://osu.ppy.sh/beatmapsets/1033460#osu/2160869)
+  - [Kalafina x The Prodigy - No Good Magia (Start the Witch) (Okoratu) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/988552#osu/2067859)
+  - [Helblinde - Grief & Malice (Necroh) \[AR9\]](https://osu.ppy.sh/beatmapsets/256997#osu/588959)
 
 ### Semifinals
 
@@ -271,6 +300,41 @@ The osu! South East Asia 3 is run by various community members.
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
 
 ## Match results
+
+### Semifinals
+
+Sunday, 26 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tzero** ![][flag_MY] | **7** | 4 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/57996209) |
+
+Monday, 27 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| k\_1tty ![][flag_SG] | 5 | **7** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/58017371) |
+
+Wednesday, 29 January 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tzero** ![][flag_MY] | **7** | 6 | ![][flag_ID] Fuma | [#1](https://osu.ppy.sh/community/matches/58056299) |
+
+Saturday, 1 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Raindrop ![][flag_SG] | 0 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58124637) |
+| **Skydiver** ![][flag_ID] | **7** | 1 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58127618) |
+
+Sunday, 2 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **JianHaoTan** ![][flag_SG] | **7** | 4 | ![][flag_VN] Tuon | [#1](https://osu.ppy.sh/community/matches/58131061) |
+| JianHaoTan ![][flag_SG] | -1 | **0** | ![][flag_PH] **MioMilo** | *win by default* |
+| **LoidKun** ![][flag_ID] | **7** | 3 | ![][flag_MY] GSBlank | [#1](https://osu.ppy.sh/community/matches/58157965) |
 
 ### Quarterfinals
 
