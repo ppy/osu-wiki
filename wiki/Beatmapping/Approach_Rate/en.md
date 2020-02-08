@@ -31,7 +31,7 @@ The amount of time it takes for the hit object to completely fade in is also rel
 - AR = 5: `fade_in = 800ms`
 - AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
 
-## osu!taiko and osu!mania
+## osu!taiko/osu!mania
 
 Approach rate is visible in osu!taiko and osu!mania, but does not do anything that affects gameplay. This is because scroll speed is used instead, which is based on BPM.
 
