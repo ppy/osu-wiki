@@ -2,7 +2,8 @@
 tags:
 - HP
 - Health Drain
-- Passive HP
+- HP Drain
+- Passive Drain
 - Drain
 ---
 
@@ -14,7 +15,7 @@ The HP difficulty settting controls how heavily a player is penalized for missin
 
 ## Health drain
 
-A common system across game modes is known as health drain, which refers to the natural drain of the health bar that occurs when playing a beatmap. This value is also known as *HP drain*. Health drain is dependent on the HP difficulty setting. Health drain does not take effect before the start of gameplay and during breaks.
+A common system across game modes, health drain refers to the natural drain of the health bar that occurs when playing a beatmap. This value is also known as *HP drain*. Health drain is dependent on the HP difficulty setting. Health drain does not take effect before the start of gameplay and during breaks.
 
 ## osu!standard
 
