@@ -441,7 +441,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 ### Tournament Play
 
-#### <a id="protocol"></a>Protocol
+#### Protocol
 
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 - Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+2 (or Central European Summer Time)** in that particular week when your match takes place.

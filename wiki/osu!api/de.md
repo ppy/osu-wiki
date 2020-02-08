@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: f90e775380f1c7041a62f3d7f5e3e29ba4326dee
+---
+
 # osu!api
 
 osu! hat eine öffentliche API, die Entwickler nutzen können, um die osu! Plattform zu unterstützen und zu erweitern. Früher war sie eher privat und konnte nur auf Anfrage genutzt werden, mittlerweile kann sie allerdings jeder nutzen der über einen osu! Account verfügt.
