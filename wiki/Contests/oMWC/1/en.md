@@ -85,11 +85,11 @@ The osu! Mapping World Cup is run by various community members by distributing t
 | ![][flag_UA] | **Ukraine** | **[Sulfur](https://osu.ppy.sh/users/5297447)**, [Aka](https://osu.ppy.sh/users/1307553), [den0saur](https://osu.ppy.sh/users/5385151), [InternalLight](https://osu.ppy.sh/users/6221637) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Shortthu](https://osu.ppy.sh/users/7985423), [Stormiverse](https://osu.ppy.sh/users/8705545) |
 
-------------------------------------------------------------------------
+---
 
 ![oMWC \#1 Podium](img/podium.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
