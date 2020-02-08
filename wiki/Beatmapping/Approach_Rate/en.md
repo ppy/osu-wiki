@@ -45,3 +45,5 @@ There are four mods that alters the Approach Rate timing when activated:
 - [Half Time](/wiki/HT): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
 
 While Half Time and Double Time does not change the actual given AR value, the speed difference leads to an apparent AR change, as low as AR-5 or as high as AR11. AR levels scale by 120ms for below AR5 and 150ms for above AR5.
+
+<!--TODO: Insert lots of links-->
