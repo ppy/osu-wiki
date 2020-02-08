@@ -6,9 +6,9 @@ tags:
 
 # Approach Rate
 
-*(See the [Ranking Criteria](/wiki/Ranking_Criteria/) for suggested AR values.)*
+*For suggested AR values, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-Approach rate, commonly abbreviated as *AR*, exists only in osu!standard and osu!catch. AR  defines when hit objects start to fade in relatively to when they should be hit/collected. AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower approach rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once. The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
+Approach rate, commonly abbreviated as *AR*, exists only in [osu!standard](/wiki/Game_Modes/osu!) and [osu!catch](/wiki/Game_Modes/osu!catch). AR defines when [hit objects](/wiki/Hit_Objects) start to fade in relatively to when they should be hit/collected. AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower approach rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once. The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
 
 See the below infographic/formulas for an overview:
 
