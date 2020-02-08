@@ -87,7 +87,7 @@ In osu!mania passive health drain is disabled, so only hit objects will affect t
 
 Health recovery:
 
-- Getting Rainbow 300, 300, or 200.
+- Getting Rainbow 300, 300, or 200 (from most-to-least gained).
 - Holding the hold note with correct key.
 
 Health loss:
