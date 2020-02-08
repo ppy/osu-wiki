@@ -27,11 +27,13 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 
 - ![][flag_US] Alex "[Riku on osu](https://osu.ppy.sh/users/3071659)" Liu (*President*)
 - ![][flag_US] Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
-- ![][flag_US] Jason "[jlin_02](https://osu.ppy.sh/users/13192092)" Lin
+- ![][flag_US] Jason "[[Blue]](https://osu.ppy.sh/users/13192092)" Lin
 - ![][flag_US] Jonathan "[ilalalayou](https://osu.ppy.sh/users/3144766)" Cheng
 - ![][flag_US] Julissa "[phamitsu](https://osu.ppy.sh/users/13045418)" Becerra
+- ![][flag_US] Khiem "[PingusKhan](https://osu.ppy.sh/users/9648050)" Dinh
+- ![][flag_US] Loc "[Sukida](https://osu.ppy.sh/users/4097867)" Trinh
 - ![][flag_US] Megan "[migin](https://osu.ppy.sh/users/11118735)" Ikemoto
-- ![][flag_US] Nicholas "[_Breeze](https://osu.ppy.sh/users/9726582)" Budding
+- ![][flag_US] Nicholas "[[Nick]](https://osu.ppy.sh/users/9726582)" Budding
 
 ### Alumni
 
@@ -50,5 +52,5 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 - ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
 
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
