@@ -15,3 +15,5 @@ Star rating, or commonly abbreviated as *SR*, describes a beatmap's difficulty. 
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
 
 Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.
+
+<!-- this is a stub -->
