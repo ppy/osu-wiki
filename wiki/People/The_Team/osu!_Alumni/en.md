@@ -72,7 +72,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_SG] [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
-| ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT |
+| ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -123,7 +123,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | GMT |
 | ![][flag_AU] [Lumino](https://osu.ppy.sh/users/59) | BAT |
 | ![][flag_US] [LunarSakuya](https://osu.ppy.sh/users/1027860) | BAT |
-| ![][flag_US] [Lust](https://osu.ppy.sh/users/2316951) | QAT |
+| ![][flag_US] [Lust](https://osu.ppy.sh/users/2316951) | BAT, QAT |
 | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | BAT |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
@@ -176,7 +176,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [Roddie](https://osu.ppy.sh/users/121337) | BAT |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | BAT |
 | ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) | QAT |
-| ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | GMT |
+| ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
