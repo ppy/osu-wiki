@@ -2,23 +2,21 @@
 tags:
   - 2019
   - iDOLANSTER
-  - Irvine
   - LAN
   - osu! UCI
-  - 'The iDOL@NSTER: Irvine Spring Stage'
   - UCI
   - Zotcade
 ---
 
-# iDOL@NSTER
+# The iDOL@NSTER: Irvine Spring Stage
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-The **iDOL@NSTER** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+**The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
-![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
+![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
 The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
@@ -55,7 +53,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | Map Selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamer | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag_US] [Skydendrin](https://skydendrin.carrd.co) |
+| Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 | Referee | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
@@ -504,5 +502,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag___]: /wiki/shared/flag/__.gif
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
