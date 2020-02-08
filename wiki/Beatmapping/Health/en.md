@@ -10,15 +10,15 @@ tags:
 
 Health or more commonly known as *HP*, is the value that decides if a player has failed or passed a [beatmap](/wiki/Beatmaps). Health can be seen in the health bar which updates as a beatmap progresses. Health is largely determined by the HP difficulty setting, which is set by the mapper of a beatmap.
 
-The HP difficulty settting controls how heavily a player is penalized for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Hit_Objects). HP values range from HP0 to HP10, where HP10 is the highest and most punishing setting and HP0 the most forgiving. The HP difficulty setting can be changed alongside other difficulty settings in the [Beatmap Editor](/wiki/Beatmap_Editor). Doing this will change a Ranked beatmap's status to unranked and will erase all local scores on it.<!--TODO: might be worth writing about this more in depth-->
+The HP difficulty settting controls how heavily a player is penalized for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Hit_Objects). HP values range from HP0 to HP10, where HP10 is the highest and most punishing setting and HP0 the most forgiving. On HP10 the health drains rapidly and a single miss may be enough to fail a player, whereas on HP0 multiple combos can be missed before failing a player. The HP difficulty setting can be changed alongside other difficulty settings in the [Beatmap Editor](/wiki/Beatmap_Editor). Doing this will change a Ranked beatmap's status to unranked and will erase all local scores on it.
 
 ## Health drain
 
-A common system across game modes is known as health drain, which refers to the natural drain of the health bar that occurs when playing a beatmap. This value is also known as *HP drain*, and is the one mostly referred to when talking about health. Health drain is dependent on the HP difficulty setting, which is set by the mapper of a beatmap. HP values range from 0 to 10, where 10 is the highest and most punishing setting and 0 the most forgiving. On HP10 the health drains rapidly and a single miss may be enough to fail a player, whereas on HP0 multiple combos can be missed before failing a player.
+A common system across game modes is known as health drain, which refers to the natural drain of the health bar that occurs when playing a beatmap. This value is also known as *HP drain*. Health drain is dependent on the HP difficulty setting. Health drain does not take effect before the start of gameplay and during breaks.
 
 ## osu!standard
 
-In osu!standard health will decrease at a steady rate (passive health drain), but can be replenished by tapping notes at the right time or spinning spinners. Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). The player also receives larger boosts if he achieves a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
+In osu!standard health will decrease at a steady rate (passive health drain), but can be replenished by tapping notes at the right time or spinning spinners. Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
@@ -57,7 +57,7 @@ Health loss:
 No effect:
 
 - Doing drumrolls.
-- Not doing drumrolls.
+- Ignoring drumrolls.
 - Completing Dendens.
 - Completing Shakers.
 
@@ -82,7 +82,7 @@ Health reserved:
 
 ## osu!mania
 
-In osu!mania passive health drain is disabled, so only hit objects will affect the health bar. Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). The player also receives larger boosts if he achieves a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. Health bar regeneration occurs slowly while holding hold notes. For an overview of health recovery and health loss see below:
+In osu!mania passive health drain is disabled, so only hit objects will affect the health bar. Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover health more than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. Health bar regeneration occurs slowly while holding hold notes. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
@@ -97,4 +97,4 @@ Health reserved:
 
 - None.
 
-<!--TODO: Insert links to health bar, modes, difficulty setting, mapper, ranked, unranked,  -->
+<!--TODO: Insert links to health bar, modes, difficulty setting, mapper, ranked, unranked, and lots other links. Scan through things instead or this list is going to get too long.  -->
