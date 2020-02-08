@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Traitement des erreurs
 
 ## Pourquoi suis-je restreint ?

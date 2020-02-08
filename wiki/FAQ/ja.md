@@ -54,27 +54,27 @@
 
 クリアした時のランクです。
 
-# <span style="color: #FFBF00">SS</span>
+# SS
 
 ACC 100% でクリア
 
-# <span style="color: #FFBF40">S</span>
+# S
 
 300ヒット を 93%以上、50hitを1%以下、ノーミスでクリア
 
-# <span style="color: #00BF00">A</span>
+# A
 
 300ヒット を 80%以上でノーミスまたは、300hitを90%以上でクリア
 
-# <span style="color: #0000FF">B</span>
+# B
 
 300ヒット を 70%以上でノーミスまたは、300hitを80%以上でクリア
 
-# <span style="color: #FF00FF">C</span>
+# C
 
 300ヒット を 60%以上でクリア
 
-# <span style="color: #FF0000">D</span>
+# D
 
 Cよりも下の条件でクリア
 

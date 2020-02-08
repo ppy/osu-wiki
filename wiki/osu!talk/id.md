@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!talk
 
 ![osu!talk logo](img/osu!talk.jpg "osu!talk logo")
