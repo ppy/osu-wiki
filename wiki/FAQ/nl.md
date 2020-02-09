@@ -8,39 +8,39 @@ Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting v
 
 Oké, dus, Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) is een ritme-spel bedoeld voor Nintendo DS. De speeltechniek bestaat maar uit drie elementen: het aantikken van de cirkels die op het scherm verschijnen, het slepen van een bal volgens een bepaald traject en het snel ronddraaien van een spinner. Elk van deze elementen is getimed op (covers van) bekende Japanse liedjes. Zo ziet het eruit op de DS:
 
-![](Ouendan.jpg "Ouendan.jpg")
+![](/wiki/shared/Ouendan.jpg)
 
 Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weergegeven op het scherm bovenaan. Elk stadium is in wezen een verhaal op zichzelf over iemand in moeilijkheden. Dat is wanneer de Ouendan (supportersteam) ingrijpt. Met behulp van de magische krachten van hun mannelijk cheerleaden, moet je de mensen uit de problemen helpen.
 
 ### Hoe te spelen?
 
-Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [NL:Play Styles](NL:Play_Styles "wikilink"). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
+Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_Styles). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
 
 Nu over naar het speelwijze.
 
 ### Hit Circles
 
-![](Hitcircles.jpg "Hitcircles.jpg")
+![](/wiki/shared/osu_hitcircles.jpg)
 
 ^ Hier zie je de cirkels die je moet aantikken. De kleinere, gekleurde kring eromheen krimpt en je slaat de noot aan op het exact moment dat de buitencirkel de witte rand raakt. Hang echter niet alleen af van je ogen: luister naar de muziek om beter te kunnen beslissen welk moment het juiste is.
 
 ### Sliders
 
-![](Slider.jpg "Slider.jpg")
+![](/wiki/shared/osu_slider.jpg)
 
 ^ Hier hebben we een "slider" voor je. Ten eerste moet je hem aantikken op het juiste moment, maar dan ben je er nog niet vanaf. Een bal zal het traject dat je ziet beginnen volgen. Je houdt je muis ingedruk terwijl je de muisaanwijzer op de bal houdt en hem volgt op zijn weg (je beheerst het bewegen van de bal niet zelf). Soms, zoals ook in de afbeelding hierboven, moet je aan het einde van het traject ook nog op je weg terugkeren. Dit zie je aan het terugkeer-symbool op het einde van de slider.
 
 ### Spinners
 
-![](Spinner.jpg "Spinner.jpg")
+![](wiki/shared/osu_spinner.jpg)
 
 ^ Dit is een "spinner". Hierbij moet je klikken en je muis ingedrukt houden, en tegelijkertijd je aanwijzer ronddraaien (wijzerszin of tegenwijzerszin, maakt niet uit) als een gek tot de tijd op is. De balken aan de buitenkant wijzen aan hoe dicht je bij slagen bent. Op de DS zijn deze dé manier om je touchscreen te bekrassen (of je bescherming, als je slim bent), zeker bij de hogere moeilijkheidsgraad. In osu! zijn spinners afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat je kan halen is 477, dezelfde snelheid waarmee "Auto" mod spint. De "Spun Out" mod spint trager, met 287 rotaties per minuut. Terwijl je je aanwijzer ingedruk houdt, blijft je muis ingesloten in het gebied van de spinner, dus je er goed op los laten, of juist in kleine kringetjes ronddraaien - bekijk wat van de replays van topscores als je geïnteresseerd bent in spinstijlen!
 
 ### Speluitzicht
 
-Voor meer informatie kan je [hierheen](NL:Interface "wikilink") gaan.
+Voor meer informatie kan je [hierheen](/wiki/Interface) gaan.
 
-![](Hierophobicintro.jpg "Hierophobicintro.jpg")
+![](/wiki/shared/Interface_osu.jpg)
 
 Dit is het speluitzicht. De balk bovenaan links is je levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect afgetikte hit (zgn. '300 hit' of 'Geki Beat') zal je leven meer doen stijgen dan een slecht afgetikte hit ('100' of zelfs '50' hit). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. Rechts naast de levensbalk kan je je score zien. Het nummer links onder is je comboteller/score vermenigvuldiger.
 
@@ -50,7 +50,7 @@ Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip v
 
 ### Precisie
 
-[precisie](NL:Accuracy "wikilink") = totale punten van hits / (totaal aantal hits \* 300)
+[precisie](/wiki/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
 
 Totaal aantal hits = (aantal keer gemist + aantal hits van '50' + aantal hits van '100' + aantal hits van '300') Totaal aantal punten van hits = (aantal hits van '50' \* 50 + aantal hits van '100' \* 100 + aantal hits van '300' \* 300)
 
@@ -80,33 +80,33 @@ Voor een spinner krijg je een 300, 100 of 50, afhankelijk van het aantal rotatie
 
 De volgende opties voegen telkens één punt toe aan je score vermenigvuldiger (combo):
 
--   een succesvol geraakte hit circle.
--   een succesvol geraakt beginpunt van een slider.
--   een succesvol geraakt slider-einde.
--   een succesvol geraakte slider tick.
--   een succesvol afgemaakte spinner.
+- een succesvol geraakte hit circle.
+- een succesvol geraakt beginpunt van een slider.
+- een succesvol geraakt slider-einde.
+- een succesvol geraakte slider tick.
+- een succesvol afgemaakte spinner.
 
 In de volgende gevallen wordt je combo op 0 teruggezet:
 
--   missen van een hit circle.
--   het veel te vroeg aanklikken van het beginpunt van een slider.
--   het beginpunt of een tick van een slider missen.
--   een spinner niet volledig afmaken.
+- missen van een hit circle.
+- het veel te vroeg aanklikken van het beginpunt van een slider.
+- het beginpunt of een tick van een slider missen.
+- een spinner niet volledig afmaken.
 
 Dit zal je combo niet breken:
 
--   een slider-einde missen.
+- een slider-einde missen.
 
 ### Graden
 
--   SS = 100% precisie
--   S = meer dan 90% hits van 300, minder dan 1% hits van 50 zonder te misses.
--   A = meer dan 80% hits van 300 zonder te missen OF meer dan 90% hits van 300.
--   B = meer dan 70% hits van 300 zonder te missen OF meer dan 80% hits van 300.
--   C = meer dan 60% hits van 300.
--   D = al wat niet aan bovenstaande voorwaarden voldoet.
+- SS = 100% precisie
+- S = meer dan 90% hits van 300, minder dan 1% hits van 50 zonder te misses.
+- A = meer dan 80% hits van 300 zonder te missen OF meer dan 90% hits van 300.
+- B = meer dan 70% hits van 300 zonder te missen OF meer dan 80% hits van 300.
+- C = meer dan 60% hits van 300.
+- D = al wat niet aan bovenstaande voorwaarden voldoet.
 
-Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](NL:Hidden "wikilink")' of '[flashlight](NL:Flashlight "wikilink")' mod.
+Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](/wiki/Game_Modifiers)' of '[flashlight](/wiki/Game_Modifiers)' mod.
 
 ### Levensmeter
 
@@ -114,15 +114,15 @@ Het systeem gebruikt om de daling en toename van levenspunten te berekenen is ze
 
 Je leven neemt toe wanneer je:
 
--   een hit circle raakt. (Een betere beoordeling leidt tot meer toename. De laatste hit circle in een combokleur geeft je meer leven.)
--   het begin van een slider raakt, de eind- of terugkeertick. (Een betere beoordeling op de eind-tick leidt tot meer toename.)
--   spint en een spinner afmaakt. (Een betere beoordeling op het einde van de spinner leidt tot meer toename.)
+- een hit circle raakt. (Een betere beoordeling leidt tot meer toename. De laatste hit circle in een combokleur geeft je meer leven.)
+- het begin van een slider raakt, de eind- of terugkeertick. (Een betere beoordeling op de eind-tick leidt tot meer toename.)
+- spint en een spinner afmaakt. (Een betere beoordeling op het einde van de spinner leidt tot meer toename.)
 
 Je verliest leven door:
 
--   de continue vermindering op je levensbalk.
--   een hit circle of slider te missen.
--   een spinner niet af te maken.
+- de continue vermindering op je levensbalk.
+- een hit circle of slider te missen.
+- een spinner niet af te maken.
 
 ## Alternatieve spelmodi
 
@@ -130,7 +130,7 @@ Je verliest leven door:
 
 Voor hen die er niet bekend mee zijn: Taiko no Tatsujin is een Taiko Drum ritme-spel gemaakt door Namco, dat draait om de simulatie van drummen op de maat van de muziek. In osu! kunnen beatmaps worden gespeeld in de stijl van Taiko no Tatsujin, mits het gebruik van de speciale "Taiko" spelmodus.
 
-Zoals osu! zelf, zijn er in Taiko ook drie elementen in speltechniek (een volledige uiteenzetting van de Taiko spelmodus kan teruggevonden worden [hier](NL:Taiko "wikilink")):
+Zoals osu! zelf, zijn er in Taiko ook drie elementen in speltechniek (een volledige uiteenzetting van de Taiko spelmodus kan teruggevonden worden [hier](/wiki/Game_Modes/osu!taiko)):
 
 #### De standaardbeat
 
@@ -160,7 +160,7 @@ Opmerking: de positie van je osu! cursor doet er niet toe wanneer je beatmaps in
 
 ### Wat is "Catch the Beat"?
 
-[Catch the Beat](NL:Catch_the_Beat "wikilink") is de tweede speciale modus in het spel, behalve Taiko. In plaats van cirkels aanklikken, ga je nu de vanger onderaan het scherm verplaatsen om het vallende fruit op te vangen.
+[Catch the Beat](/wiki/Game_Modes/osu!catch) is de tweede speciale modus in het spel, behalve Taiko. In plaats van cirkels aanklikken, ga je nu de vanger onderaan het scherm verplaatsen om het vallende fruit op te vangen.
 
 #### Bediening
 
@@ -180,20 +180,20 @@ Gerankte score telt enkel de beste score voor elke liedjesset, niet voor elke mo
 
 Hier even een voorbeeld... ik heb de volgende punten op drie maps:
 
-`   `[`BRANDY` `-` `The` `Festival` `of` `Ghosts` `2`](https://osu.ppy.sh/beatmapsets/3302)  
-`       Relaxing: 3,000,000`  
-`       `**`DaRRi MIx: 5,000,000`**  
-`   `[`ZZ` `-` `Samurai` `Blue`](https://osu.ppy.sh/beatmapsets/271)  
-`       Easy: 500,000`  
-`       `**`Normal: 1,000,000`**  
-`       Hard: geen score`  
-`   `[`Matchbox` `20` `-` `How` `Far` `We've` `Come`](https://osu.ppy.sh/beatmapsets/1264)  
-`       `**`Normal: 2,000,000`**  
-`       Hard: 1,500,000`
+- [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/beatmapsets/3302)
+  - Relaxing: 3,000,000
+  - **DaRRi MIx: 5,000,000**
+- [ZZ - Samurai Blue](https://osu.ppy.sh/beatmapsets/271)
+  - Easy: 500,000
+  - **Normal: 1,000,000**
+  - Hard: geen score
+- [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/beatmapsets/1264)
+  - **Normal: 2,000,000**
+  - Hard: 1,500,000
 
 Mijn totale beste score van elke set is 5,000,000 + 1,000,000 + 2,000,000 = 8,000,000, dat dus mijn totale gerankte score is.
 
-Tevens tellen goedgekeurde ('approved') maps NIET mee bij je gerankte score, maar je precisie voor deze maps wel. Goedgekeurde maps onderscheiden zich met het ![](Fire.gif "fig:Fire.gif")"vlam"-icoontje in plaats van het ![](Heart.gif "fig:Heart.gif")"hart"-icoontje.
+Tevens tellen goedgekeurde ('approved') maps NIET mee bij je gerankte score, maar je precisie voor deze maps wel. Goedgekeurde maps onderscheiden zich met het ![](/wiki/shared/status/ranked.png)"vlam"-icoontje in plaats van het ![](/wiki/shared/status/approved.png)"hart"-icoontje.
 
 ### Kan ik Kiai-tijd uitschakelen?
 
@@ -201,6 +201,6 @@ NEEN.
 
 ### De maps zijn te moeilijk! Waar vind ik er gemakkelijkere?
 
-Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: <https://osu.ppy.sh/forum/viewtopic.php?f=14&t=5456&start=0>.
+Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: [Link](https://osu.ppy.sh/community/forums/topics/5456).
 
 Daarnaast kan je de de geclassifiëerde ('ranked') beatmaps ook per moeilijkheidsgraad sorteren. De gemakkelijkste staan dan bovenaan de lijst.
