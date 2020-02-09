@@ -154,8 +154,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/u/2474015) | <!-- TODO --> |
-| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | <!-- TODO --> | 
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | <!-- TODO --> |
+| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | <!-- TODO --> |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | <!-- TODO --> |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | some Spanish |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | <!-- TODO --> |
