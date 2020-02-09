@@ -1,6 +1,5 @@
 ---
 tags:
-  - California
   - club
   - college
   - Irvine
