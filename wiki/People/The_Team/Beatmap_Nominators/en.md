@@ -73,7 +73,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italian |
-| ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | Polish, some Russian |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
@@ -83,6 +82,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | German |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
+| ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
